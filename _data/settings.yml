@@ -49,7 +49,7 @@ images:
   client_headshot_path: '/img/headshot.jpg'
   hero_logo_path: '/img/logo.png'
   hero_text: Real Estate Video Blog
-  hero_background_hex: '#730709'
+  hero_background_hex: '#fff'
   hero_image_path: '/img/background.jpg'
 brand_color: '#008AAC'
 theme_color: '#000'
