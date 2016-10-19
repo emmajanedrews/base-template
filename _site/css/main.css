@@ -2523,7 +2523,8 @@ form select {
   -ms-filter: drop-shadow(0 2px 7px white); }
 
 .navbar-left li a {
-  color: #fff; }
+  color: #fff;
+  margin-top: 15px; }
 
 .navbar-right li {
   background: transparent; }
