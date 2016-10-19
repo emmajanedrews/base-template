@@ -1,55 +1,64 @@
-audit_header: true
-title: The Base Template
-description: If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.
+audit_header: false
+title: Quinn Stewart Real Estate Group
+description: If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Quinn Stewart Real Estate Group - your professional Portland Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
     url:
 client:
-  name: Anne Stewart and Linda Quinn
-  license_number:
-  about_markdown: |
+  clients:
+    - name: Anne Stewart
+      license: '#200012088'
+      phone: 503-804-1466
+      email: anne@sellingportlandhomes.com
+      about_markdown: |
+        Licensed since 2001 Anne Stewart is in the Top 1% of agents in the Northwest Region. Born and raised in Portland, Oregon Anne knows the Portland market.  When most agents quite Real Estate when the market shifted in 2008, Anne succeeded and specialized in helping homeowners sell in the toughest market Portland had seen since the early 80’s. While the market recovered Anne and her team dominated the market and created marketing strategies that surpass her competition and assist homeowners in netting the highest possible amount of money for her clients.  Anne has experience and keen negotiation skills.
+    - name: Linda Quinn
+      license: '#780301797'
+      phone: 503-706-9187
+      email: linda@sellingportlandhomes.com
+      about_markdown: |
+        Licensed over 35+ years in Real Estate; Linda has decades of experience. It’s no wonder her clients come back year over year to refer her and get her expert advise on real estate.  Serving the Portland Metro area for over 3 decades, owner of over 30 rental properties, seasoned investor and dynamic leader, Linda is a true professional.
+  about_header: About Quinn Stewart Real Estate Group
 
-  market:
-  brand:
+  market: Portland
+  brand: Quinn Stewart Real Estate Group
   brokerage:
-  address:
-  phone:
-  email:
-  url:
+  address: 7504 Bridgeport Rd.<br>Portland, OR 97224
+  url: http://www.sellingportlandhomes.com/
   first_CTA_text: Home Evaluation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.sellingportlandhomes.com/atj/user/CMAFormGetAction.do
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: www.BestPortlandrealestatesearch.com
   VR_form:
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/QuinnStewartRealEstateGroup/
+  linkedin_url: https://www.linkedin.com/in/anne-stewart-a66a087
   gplus_url:
-  youtube_url:
+  youtube_url: https://www.youtube.com/channel/UCGuNi9tgFQphxu_IDF1KvZQ
   twitter_url:
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
+  zillow_url: http://www.zillow.com/profile/QuinnStewartGroup/
+  trulia_url: https://www.trulia.com/profile/linda-quinn-anne-stewart-agent-portland-or-zgpyqb9m/overview
   yelp_url:
   podcast_url:
 podcast:
-  title:
+  title: Quinn Stewart Real Estate Group Podcast
   categories: News & Politics
   image:
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Portland Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Quinn Stewart Real Estate Group - your professional Portland Real Estate Agents.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
   author:
 images:
-  client_headshot_path: '/img/headshot.jpg'
+  client_headshot_path: '/img/headshot.png'
   hero_logo_path: '/img/logo.png'
   hero_text: Real Estate Video Blog
-  hero_background_hex: '#730709'
+  hero_background_hex: '#AE1A1E'
   hero_image_path: '/img/background.jpg'
-brand_color: '#094264'
+brand_color: '#AE1A1E'
 theme_color: '#ffffff'
 theme_text_color: '#353535'
 main_body_color: '#ffffff'

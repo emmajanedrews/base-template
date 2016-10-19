@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Base Template</title>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.</description>
+    <title>Quinn Stewart Real Estate Group</title>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Quinn Stewart Real Estate Group - your professional Portland Real Estate Agents.</description>
     <link>localhost:5000/</link>
     <atom:link href="localhost:5000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 19 Oct 2016 09:48:44 -0500</pubDate>
-    <lastBuildDate>Wed, 19 Oct 2016 09:48:44 -0500</lastBuildDate>
+    <pubDate>Wed, 19 Oct 2016 12:05:05 -0500</pubDate>
+    <lastBuildDate>Wed, 19 Oct 2016 12:05:05 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
