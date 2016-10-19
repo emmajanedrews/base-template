@@ -1325,7 +1325,8 @@ html[xmlns] .flexslider .slides {
 .navbar-left > li > a {
   border: 0;
   background: transparent;
-  color: #008AAC; }
+  color: #008AAC;
+  margin-top: 15px; }
   .navbar-left > li > a:hover {
     background: transparent;
     color: #13d0ff; }
@@ -2523,8 +2524,7 @@ form select {
   -ms-filter: drop-shadow(0 2px 7px white); }
 
 .navbar-left li a {
-  color: #fff;
-  margin-top: 15px; }
+  color: #fff; }
 
 .navbar-right li {
   background: transparent; }
