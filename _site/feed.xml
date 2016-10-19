@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Base Template</title>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.</description>
+    <title>Campbell &amp; Keller Team Real Estate Video Blog</title>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Campbell &amp; Keller Team - your professional Baltimore &amp; Carroll Counties Real Estate Agents.</description>
     <link>localhost:5000/</link>
     <atom:link href="localhost:5000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 19 Oct 2016 09:48:44 -0500</pubDate>
-    <lastBuildDate>Wed, 19 Oct 2016 09:48:44 -0500</lastBuildDate>
+    <pubDate>Wed, 19 Oct 2016 13:48:18 -0500</pubDate>
+    <lastBuildDate>Wed, 19 Oct 2016 13:48:18 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>

@@ -1,34 +1,48 @@
 //For individual theme fixes. You know all about it.
 .site-logo
-	max-width: 18rem
-
-.footer
-	color: #fff
-	.attribution
-		svg
-			fill: #fff
-	.socials
-		svg
-			fill: #fff
-	a
-		color: #fff
-
-.newsletter
-	background: darken($theme, 3%)
-
+	max-width: 60rem
+	filter: drop-shadow(0 2px 7px white)
+	-webkit-filter: drop-shadow(0 2px 7px white)
+	-ms-filter: drop-shadow(0 2px 7px white)
+// .footer
+// 	color: #fff
+// 	.attribution
+// 		svg
+// 			fill: #fff
+// 	.socials
+// 		svg
+// 			fill: #fff
+// 	a
+// 		color: #fff
+//
+// .newsletter
+// 	background: darken($theme, 3%)
+//
 .navbar-left
 	li
 		a
 			color: #fff
-			margin-top: 15px
-
+// 			margin-top: 15px
+//
 .navbar-right
 	li
-		.cta
-			background: #fff
-			border-color: #fff
-			color: $brand
+		a
 		.cta2
-			background: $brand
-			border-color: #fff
 			color: #fff
+			background: transparent
+		&:active
+		background: transparent
+
+// 		.cta
+// 			background: #fff
+// 			border-color: #fff
+// 			color: $brand
+// 			background: $brand
+// 			border-color: #fff
+h1.site-title
+	padding-bottom: 0
+	margin-bottom: 4rem
+	background: #000
+
+.hero-img
+	padding-bottom: 4rem
