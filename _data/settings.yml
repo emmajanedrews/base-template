@@ -23,13 +23,13 @@ client:
 
   market: Portland
   brand: Quinn Stewart Real Estate Group
-  brokerage:
+  brokerage: Keller Williams Realty Portland Premiere
   address: 7504 Bridgeport Rd.<br>Portland, OR 97224
   url: http://www.sellingportlandhomes.com/
   first_CTA_text: Home Evaluation
   first_CTA_URL: http://www.sellingportlandhomes.com/atj/user/CMAFormGetAction.do
   second_CTA_text: Home Search
-  second_CTA_URL: www.BestPortlandrealestatesearch.com
+  second_CTA_URL: http://search.sellingportlandhomes.com
   VR_form:
 socials:
   review_sm_icons: false
@@ -55,7 +55,7 @@ podcast:
 images:
   client_headshot_path: '/img/headshot.png'
   hero_logo_path: '/img/logo.png'
-  hero_text: Real Estate Video Blog
+  hero_text: Portland Real Estate Blog
   hero_background_hex: '#AE1A1E'
   hero_image_path: '/img/background.jpg'
 brand_color: '#AE1A1E'
