@@ -1,32 +1,32 @@
 ---
 layout: post
-title: What Is the Current State of the Portland Market?
+title: this is a test
 tags:
   - Market Update
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt:
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Anne+Stewart/Videos+Oct-Dec+2016/Portland+Market+Update.mp4'
-pullquote: 1.9 months of inventory is still extremely low.
+excerpt: 'Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.'
+enclosure:
+pullquote: This is an example of a pull quote
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: ReLFn5XZMaE
+youtube_code: SFFy_drFrZs
 ---
 
 
 {% include youtube.html %}
 
-I get asked all the time how the Portland market is doing, so I figured I should give you an update on what I’m seeing in our real estate market right now.
+Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps **gastropub marfa r**etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
 
-**We’re coming off two to three years of really solid appreciation.** Sellers have been able to sell their homes quickly and sell them for a high price. Earlier in 2016, we had as little as 1.3 months of inventory. That figure has risen slightly to 1.9 months, but that still keeps us in a strong seller’s market. For reference, a “balanced” market has an inventory of around six months.
+*Bushwick* [marfa]('http://google.com') wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
 
-We are seeing a little bit of an uptick in inventory due to a seasonal shift as well as the presidential election. Typically, the market slows down just a tad during this time of year. However, if you are out there thinking about selling your home but you’re nervous about the recent changes, don’t be.
+Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven't heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90's fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
 
 {% include pullquote.html %}
 
-**Our interest rates continue to remain low, which is keeping buyers in the market.** Also, 1.9 months of inventory is an extremely low number, and doesn’t leave a lot of options for those buyers with strong buying power. Low inventory and low interest rates are the perfect recipe for a seller to sell their home quickly and for top dollar and for a buyer to get a great deal on a long-term mortgage.
+Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
 
-If you are thinking about buying or selling a home in Portland, give me a call or send me an email. I would love to help you in any way I can.
+Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…

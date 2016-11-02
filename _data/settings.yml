@@ -1,53 +1,55 @@
 audit_header: false
 title: Quinn Stewart Real Estate Group
 description: If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Quinn Stewart Real Estate Group - your professional Portland Real Estate Agents.
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: Featured Properties
+    url: http://www.valleerealestate.ca/listings/active
 client:
   clients:
-    - name: Anne Stewart
-      license: '#200012088'
-      phone: 503-804-1466
-      email: anne@sellingportlandhomes.com
+    - name: Eric Vallée
+      client_headshot_path: '/img/headshot1.jpg'
+      license: 'V30906'
+      phone: 604-788-5133
+      email: eric@valleerealestate.ca
       about_markdown: |
-        Licensed since 2001 Anne Stewart is in the Top 1% of agents in the Northwest Region. Born and raised in Portland, Oregon Anne knows the Portland market.  When most agents quite Real Estate when the market shifted in 2008, Anne succeeded and specialized in helping homeowners sell in the toughest market Portland had seen since the early 80’s. While the market recovered Anne and her team dominated the market and created marketing strategies that surpass her competition and assist homeowners in netting the highest possible amount of money for her clients.  Anne has experience and keen negotiation skills.
-    - name: Linda Quinn
-      license: '#780301797'
-      phone: 503-706-9187
-      email: linda@sellingportlandhomes.com
+        Fluent in English and French Eric’s Journey West Eric was born and raised in Québec. While attending the University of Montreal, he took a trip to British Columbia and he fell in love with the natural beauty of the province. After owning his own fitness center for five years, where membership doubled during his successful tenure, he decided it was time to pursue his dream and move west. During the years, Eric also began investing in real estate and when he moved to British Columbia he decided it was time to begin his career as a REALTOR®.
+    - name: Juliana Vallée
+      client_headshot_path: '/img/headshot2.jpg'
+      license: 'V60900'
+      phone: 778-822-8000
+      email: juliana@valleerealestate.ca
       about_markdown: |
-        Licensed over 35+ years in Real Estate; Linda has decades of experience. It’s no wonder her clients come back year over year to refer her and get her expert advise on real estate.  Serving the Portland Metro area for over 3 decades, owner of over 30 rental properties, seasoned investor and dynamic leader, Linda is a true professional.
-  about_header: About Quinn Stewart Real Estate Group
+        Fluent in English & Cantonese Juliana is a BC native and is proud to be the first generation of her family born in Canada. She has always felt a strong connection to the local way of life-perfect harmony with the community. Juliana's parents always encouraged her to explore her opportunities and she began playing the piano at the age of five. She later went onto become a professional piano teacher and then after having her own children, started her own business, Birth & Beyond Total Child Development. Being a firm believer of infant stimulation, Juliana taught new parents to stimulate baby's brain soon after they are born by optimizing their mental, sensorial, social and affective development. Juliana is dedicated and strongly believes in lifelong learning.
+  about_header: About Eric and Juliana Vallée
 
-  market: Portland
-  brand: Quinn Stewart Real Estate Group
-  brokerage: Keller Williams Realty Portland Premiere
-  address: 7504 Bridgeport Rd.<br>Portland, OR 97224
-  url: http://www.sellingportlandhomes.com/
+  market: British Columbia
+  brand: Vallee Real Estate Group
+  brokerage: Keller Williams Black Diamond Realty
+  address: '5489 Byrne Road #252<br>Burnaby, BC V5J 3J1'
+  url: http://valleerealestate.ca
   first_CTA_text: Home Evaluation
-  first_CTA_URL: http://www.sellingportlandhomes.com/atj/user/CMAFormGetAction.do
+  first_CTA_URL: http://www.valleerealestate.ca/your-homes-value
   second_CTA_text: Home Search
-  second_CTA_URL: http://search.sellingportlandhomes.com
+  second_CTA_URL: http://www.valleerealestate.ca/home-search
   VR_form:
-welcome_headline: Get Educated About Your Financial Future
-welcome_text_markdown: Our mission at Epstein Financial is to be your best resource for financial advice. Our team of professionals can answer any questions you might have about finance. Subscribe to this blog to get the latest news on finance and receive expert tips for preparing yourself for your financial future.
+welcome_headline: Get Educated About Your Real Estate
+welcome_text_markdown: Our mission at Vallee Real Estate is to be your best resource for real estate advice. Our team of professionals can answer any questions you might have about real estate. Subscribe to this blog to get the latest news on real estate and receive expert tips for preparing yourself for your buying or selling a home.
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/QuinnStewartRealEstateGroup/
-  linkedin_url: https://www.linkedin.com/in/anne-stewart-a66a087
-  gplus_url:
-  youtube_url: https://www.youtube.com/channel/UCGuNi9tgFQphxu_IDF1KvZQ
-  twitter_url:
+  facebook_url: https://www.facebook.com/valleerealestate/
+  linkedin_url: https://www.linkedin.com/in/evallee
+  gplus_url: https://plus.google.com/u/0/108224651826566207813
+  youtube_url: https://www.youtube.com/user/valleerealestate
+  twitter_url: https://twitter.com/valleerealest8
   instagram_url:
   pinterest_url:
-  zillow_url: http://www.zillow.com/profile/QuinnStewartGroup/
-  trulia_url: https://www.trulia.com/profile/linda-quinn-anne-stewart-agent-portland-or-zgpyqb9m/overview
+  zillow_url:
+  trulia_url:
   yelp_url:
   podcast_url:
 podcast:
-  title: Quinn Stewart Real Estate Group Podcast
+  title: Vallee Real Estate Group Podcast
   categories: News & Politics
   image:
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Portland Area Real Estate Market'
@@ -57,11 +59,11 @@ podcast:
 images:
   client_headshot_path: '/img/headshot.png'
   hero_logo_path: '/img/logo.png'
-  hero_text: Portland Real Estate Blog
+  hero_text:
   hero_background_hex: '#AE1A1E'
   hero_image_path: '/img/background.jpg'
-brand_color: '#AE1A1E'
-theme_color: '#ffffff'
+brand_color: '#8dc63f'
+theme_color: '#30342d'
 theme_text_color: '#353535'
 main_body_color: '#ffffff'
 main_body_text_color: '#353535'
