@@ -2648,12 +2648,10 @@ form select {
 
 .logo-container {
   background: rgba(255, 255, 255, 0.7);
-  border: 5px solid #fff;
-  margin: 20px; }
+  margin: 20px 50px;
+  border: 5px solid #fff; }
 
 .site-title {
-  margin-top: -30px;
-  color: #000;
   display: none; }
 
 .footer {
@@ -2670,11 +2668,14 @@ form select {
 
 .navbar-left li a {
   color: #fff; }
-.navbar-left li:hover {
-  color: #8dc63f; }
-.navbar-left li:focus {
-  background: transparent;
-  color: #85bd38; }
+  .navbar-left li a:hover {
+    color: #8dc63f; }
+  .navbar-left li a:focus {
+    background: transparent;
+    color: #85bd38; }
+  .navbar-left li a:active {
+    background: transparent;
+    color: #85bd38; }
 
 .navbar-right li .cta {
   border-radius: 0; }
