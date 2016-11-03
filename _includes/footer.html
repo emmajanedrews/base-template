@@ -7,12 +7,14 @@
 						{%for client in site.data.settings.client.clients %}
 						<span itemprop="founder">{{client.name}} {{client.license}}<br></span>
 						{% endfor%}
+
 	        </div>
 	        <div class="col-sm-6">
 	          <address itemprop="address">{{site.data.settings.client.address}}</address>
 	        </div>
 	      {% elsif site.data.settings.client.brand == null %}
 	        <div class="col-sm-4">
+
 						{%for client in site.data.settings.client.clients %}
 						<span itemprop="founder">{{client.name}} {{client.license}}<br></span>
 						{% endfor%}
@@ -25,6 +27,7 @@
 	        </div>
 	      {% elsif site.data.settings.client.brokerage == null  %}
 	        <div class="col-sm-4">
+
 						{%for client in site.data.settings.client.clients %}
 						<span itemprop="founder">{{client.name}} {{client.license}}<br></span>
 						{% endfor%}
@@ -37,6 +40,7 @@
 	        </div>
 	      {% else %}
 	        <div class="col-sm-3">
+
 						{%for client in site.data.settings.client.clients %}
 						<span itemprop="founder">{{client.name}} {{client.license}}<br></span>
 						{% endfor%}
@@ -55,6 +59,7 @@
 	    <hr>
 	    <div class="row">
 	      <div class="col-sm-4">
+
 
 					{% for client in site.data.settings.client.clients %}
 	        {{client.name}}: <a href="tel:{{client.phone | prepend: "1-"}}" itemprop="telephone">{{client.phone}}</a><br>

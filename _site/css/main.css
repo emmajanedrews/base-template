@@ -2694,10 +2694,10 @@ form select {
   color: #fff;
   margin-top: 15px; }
 
-.navbar-andross .navbar-brand {
-  color: #fff;
-  margin-top: 10px; }
-
+@media (max-width: 767px) {
+  .navbar-andross .navbar-brand {
+    color: #fff;
+    margin-top: 10px; } }
 @media (max-width: 465px) {
   .navbar-andross .navbar-brand {
     color: #fff;
