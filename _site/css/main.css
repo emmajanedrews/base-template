@@ -2644,7 +2644,13 @@ form select {
     margin: 10px auto;
     width: 90%; } }
 .site-logo {
-  max-width: 40rem; }
+  max-width: 40rem;
+  float: left;
+  padding-left: 30px;
+  padding-top: 20px; }
+
+.hero-img {
+  height: 400px; }
 
 .site-title {
   display: none; }
@@ -2697,8 +2703,20 @@ form select {
 @media (max-width: 767px) {
   .navbar-andross .navbar-brand {
     color: #fff;
-    margin-top: 10px; } }
+    margin-top: 10px; }
+
+  .site-logo {
+    float: none;
+    margin-top: 0; } }
 @media (max-width: 465px) {
   .navbar-andross .navbar-brand {
     color: #fff;
-    margin-top: 0px; } }
+    margin-top: 0px; }
+
+  .site-logo {
+    float: none;
+    padding: 15px; }
+
+  .hero-img {
+    height: auto;
+    padding-bottom: 20px; } }
