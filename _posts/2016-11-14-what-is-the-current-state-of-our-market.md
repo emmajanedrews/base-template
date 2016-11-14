@@ -23,7 +23,7 @@ We’ve been getting a lot of questions about the market lately. One of the most
 
 **The answer is that we are in a strong seller’s market, especially if you’re looking to buy a home priced under $300,000**. We’ve had an inventory problem this year in that segment of the market. What this means is that we haven’t had enough supply to keep up with demand for these homes. Once you get into the $400,000 and above market, supply is slightly higher and demand is slightly lower.
 
-Another important factor in our market is interest rates. Right now, they are in the low-to mid-3% range, which is historically low. We don’t expect this to last, however, and they have got to go up at some point. **Right now, you have a great chance to take advantage of rates that are really artificially held low. All good things don’t last forever**.
+Another important factor in our market is interest rates. Right now, they are in the low- to mid-3% range, which is historically low. We don’t expect this to last, however, and they have got to go up at some point. **Right now, you have a great chance to take advantage of rates that are really artificially held low. All good things don’t last forever**.
 
 {% include pullquote.html %}
 
