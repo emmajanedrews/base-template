@@ -1,0 +1,74 @@
+//For individual theme fixes. You know all about it.
+.site-logo
+	max-width: 60rem
+
+.hero-img
+	padding-top: $nav-height
+// .footer
+// 	color: #fff
+	.attribution
+		svg
+			fill: #fff
+	.socials
+		svg
+			fill: #fff
+	a
+		color: #fff
+
+.newsletter
+	background: darken($theme, 3%)
+
+.navbar-left
+	li
+		a
+			color: #fff
+
+
+.navbar-right
+	li
+		.cta
+			background: #fff
+			border-color: #fff
+			color: $brand
+			font-weight: bold
+			&:hover
+				color: #fff
+		.cta2
+			// background: $brand
+			border-color: #fff
+			font-weight: bold
+			color: #fff
+			&:hover
+				color: #fff
+
+.fa-bars
+	color: #fff
+
+.navbar-andross
+	background: transparent
+	.navbar-brand
+		color: #fff
+		margin-top: 10px
+
+.scroll-nav-color
+	background: transparentize($theme, .0)
+	animation: .5s fadeNavigation ease-in-out
+
+@keyframes fadeNavigation
+	0%
+		transform: translateY(0)
+		background: transparent
+	// 50%
+	// 	transform: translateY(-100px)
+	// 	background: transparent
+	// 51%
+	// 	background: $brand
+	100%
+		transform: translateY(0)
+		background: $theme
+.brand-color
+	background: $theme
+	animation: .3s fadein ease-in-out
+
+.welcome-box
+	background: $theme
