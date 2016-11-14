@@ -53,11 +53,11 @@ podcast:
 images:
   client_headshot_path: '/img/headshot.jpg'
   hero_logo_path: '/img/logo.png'
-  hero_text: Real Estate Video Blog
-  hero_background_hex: '#094264'
-  hero_image_path: '/img/background.jpg'
-brand_color: '#094264'
-theme_color: '#094264'
+  hero_text:
+  hero_background_hex: '#00A3DA'
+  hero_image_path: '/img/background.png'
+brand_color: '#00A3DA'
+theme_color: '#00A3DA'
 theme_text_color: '#353535'
 main_body_color: '#ffffff'
 main_body_text_color: '#353535'
