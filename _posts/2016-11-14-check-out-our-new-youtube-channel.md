@@ -6,8 +6,8 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt: 'https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Check+Out+Our+New+YouTube+Channel.mp4'
-enclosure: 'We will update this channel regularly with great seller tips, buyer tips, and real estate market updates for our area. We really want this page to be a resource for all of your real estate needs, so take a look around and discover topics that interest you.'
+excerpt: 'We will update this channel regularly with great seller tips, buyer tips, and real estate market updates for our area.'
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Check+Out+Our+New+YouTube+Channel.mp4interest you.'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
