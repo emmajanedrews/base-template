@@ -1,11 +1,11 @@
 //For individual theme fixes. You know all about it.
 .site-logo
-	max-width: 50rem
+	max-width: 60rem
 
 .hero-img
 	padding-top: $nav-height
-.footer
-	color: #fff
+// .footer
+// 	color: #fff
 	.attribution
 		svg
 			fill: #fff
@@ -51,7 +51,7 @@
 		margin-top: 10px
 
 .scroll-nav-color
-	background: transparentize($brand, .0)
+	background: transparentize($theme, .0)
 	animation: .5s fadeNavigation ease-in-out
 
 @keyframes fadeNavigation
@@ -65,7 +65,10 @@
 	// 	background: $brand
 	100%
 		transform: translateY(0)
-		background: $brand
+		background: $theme
 .brand-color
-	background: $brand
+	background: $theme
 	animation: .3s fadein ease-in-out
+
+.welcome-box
+	background: $theme
