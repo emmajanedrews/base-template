@@ -1,0 +1,78 @@
+audit_header: false
+title: Quinn Stewart Real Estate Group
+description: If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Quinn Stewart Real Estate Group - your professional Portland Real Estate Agents.
+show_custom_links: true
+custom_links:
+  - title: Featured Properties
+    url: http://www.valleerealestate.ca/listings/active
+client:
+  clients:
+    - name: Samuel M. Gaylord
+      client_headshot_path: '/img/headshot1.png'
+      license:
+      phone: 609-277-2291
+      email: SGaylord@gaylordpopp.com
+      about_markdown: |
+        Samuel M. Gaylord, founder and partner of Gaylord Popp LLC, practices in the areas of workers’ compensation, Social Security Disability, Medicare Set Aside claims, and pension appeals. Mr. Gaylord is certified by the New Jersey Supreme Court as a workers’ compensation law attorney and is licensed to practice in New Jersey, Pennsylvania, and Washington, D.C. He received his B.A. degree from Syracuse University and his J.D. degree from Seton Hall School of Law. He then served as a judicial intern with the Honorable Charles A. Delehey, and since 1996 has worked primarily in the area of workers’ compensation. In 2002, Sam was named Young Lawyer of the Year for Mercer County and in 2003 received the Young Lawyer of the Year Service to the Bar award from the New Jersey State Bar Association. In January 2004, Mr. Gaylord formed Gaylord & Yuska, and in June of 2007, Lawrence E. Popp, Esq. joined the firm.
+    - name: David P. Silber
+      client_headshot_path: '/img/headshot2.png'
+      license:
+      phone: 609-277-2279
+      email: dsilber@gaylordpopp.com
+      about_markdown: |
+        Mr. Silber is known for his professionalism, ethical approach, understanding of the law and responsiveness to his clients. It is his belief that to have a client for life they must trust the attorney’s judgment and the attorney must be upstanding, honest, ethical and most importantly, available. Mr. Silber prides himself in possessing all of these attributes, and with his ability to assist in an array of legal matters he has created long lasting, successful relationships with his clients.
+    - name: Tanya L. Phillips
+      client_headshot_path: 'http://i.imgur.com/l0zryVd.png'
+      license:
+      phone: 609-277-2291
+      email: TPhillips@gaylordpopp.com
+      about_markdown: |
+        Ms. Phillips is an active member of the Mercer County Bar Association and currently serves as a Trustee and Co-Chair of the Events Committee. She was presented with the Young Lawyer of the Year Award in 2008. She serves as the Treasurer of the Mercer County American Inn of Court – John Hughes Session. She is a Barrister of the Justice James H. Coleman, Jr. New Jersey Workers’ Compensation American Inn of Court. She is also a member of the New Jersey State Bar Association, Pennsylvania Bar Association, and New Jersey Association of Justice.
+  about_header: About GaylordPopp
+
+  market: British Columbia
+  brand: Vallee Real Estate Group
+  brokerage: Keller Williams Black Diamond Realty
+  address: '5489 Byrne Road #252<br>Burnaby, BC V5J 3J1'
+  url: http://valleerealestate.ca
+  first_CTA_text: Home Evaluation
+  first_CTA_URL: http://www.valleerealestate.ca/your-homes-value
+  second_CTA_text: Home Search
+  second_CTA_URL: http://www.valleerealestate.ca/home-search
+  VR_form:
+welcome_headline: Get Educated About Your Real Estate
+welcome_text_markdown: Our mission at Vallee Real Estate is to be your best resource for real estate advice. Our team of professionals can answer any questions you might have about real estate. Subscribe to this blog to get the latest news on real estate and receive expert tips for preparing yourself for your buying or selling a home.
+socials:
+  review_sm_icons: false
+  facebook_url: https://www.facebook.com/valleerealestate/
+  linkedin_url: https://www.linkedin.com/in/evallee
+  gplus_url: https://plus.google.com/u/0/108224651826566207813
+  youtube_url: https://www.youtube.com/user/valleerealestate
+  twitter_url: https://twitter.com/valleerealest8
+  instagram_url:
+  pinterest_url:
+  zillow_url:
+  trulia_url:
+  yelp_url:
+  podcast_url:
+podcast:
+  title: Vallee Real Estate Group Podcast
+  categories: News & Politics
+  image:
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Portland Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Quinn Stewart Real Estate Group - your professional Portland Real Estate Agents.'
+  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  author:
+images:
+  client_headshot_path: '/img/headshot.png'
+  hero_logo_2_path: '/img/logo-gaylord.png'
+  hero_logo_1_path: '/img/logo-popp.png'
+  hero_text:
+  hero_background_hex: '#005a84'
+  hero_image_path: '/img/background-blue.png'
+  hero_image_2_path: '/img/background-white.png'
+brand_color: '#005a84'
+theme_color: '#00192C'
+theme_text_color: '#353535'
+main_body_color: '#ffffff'
+main_body_text_color: '#353535'

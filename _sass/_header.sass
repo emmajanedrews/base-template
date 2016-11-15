@@ -1,0 +1,97 @@
+.logo-container-1
+	border-top: 2px solid #fff
+	border-left: 2px solid #fff
+	border-bottom: 2px solid #fff
+	margin: 10px 0 10px 20px
+	height: 100%
+.logo-container-2
+	border-top: 2px solid $brand
+	border-right: 2px solid $brand
+	border-bottom: 2px solid $brand
+	margin: 10px 20px 10px 0
+	height: 100%
+.hero-img-2
+	width: 44%
+	height: 300px
+	background-position: right
+	background-size: cover
+	padding-top: $nav-height + 3.5rem
+	padding-bottom: 5rem
+	float: right
+
+.hero-img
+	width: 56%
+	height: 300px
+	background-position: right
+	// background-size: contain
+	padding-top: $nav-height + 3.5rem
+	padding-bottom: 5rem
+	float: left
+// #hero
+// 	background-position: center
+// 	background-size: cover
+// 	background-attachment: fixed
+// 	background-repeat: no-repeat
+// 	text-align: center
+
+.site-logo-1
+	width: auto
+	max-height: 160px
+	float: left
+	margin-right: 0
+
+.site-logo-2
+	max-height: 160px
+	float: right
+	margin-left: 0
+	width: auto
+
+
+	// @include filter(drop-shadow($header-shadow))
+
+.site-title
+	color: $header-font-color
+	// text-shadow: $header-shadow
+	text-transform: uppercase
+	font-size: 6.5rem
+	padding-bottom: 4rem
+	margin-bottom: 0
+
+@media (max-width: 1100px)
+	.site-title
+		font-size: 5rem
+
+@media (max-width: 1000px)
+	.hero-img
+		width: 56%
+	.hero-img-2
+		width: 44%
+@media (min-width: 1001px)
+	.hero-img
+		width: 53%
+	.hero-img-2
+		width: 47%
+@media (max-width: 760px)
+	#hero
+		height: 33rem
+	.site-logo
+		max-width: 20rem
+		margin-top: 4rem
+	.site-title
+		font-size: 5rem
+
+@media (max-width: 600px)
+	#hero
+		// height: 31rem
+	.site-logo
+		max-width: 15rem
+		margin-top: 2rem
+	.site-title
+		font-size: 3.5rem
+	.cta
+		padding: 1rem
+@media (max-width: 400px)
+	#hero
+		// height: 25rem
+	.cta
+		padding: 0.5rem
