@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt: 'Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.'
+excerpt: 'Join Us for Our 4th Annual Client Appreciation Event!'
 enclosure:
 pullquote: This is an example of a pull quote
 enclosure_type: video/mp4
