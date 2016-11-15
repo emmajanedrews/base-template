@@ -1866,7 +1866,7 @@ table tr, table td {
   .pullquote::after {
     content: "";
     height: 2rem;
-    width: 2.5625rem;
+    width: 2.4375rem;
     background: url(/img/svg/tweetlink.svg);
     background-size: cover;
     background-position: right;
