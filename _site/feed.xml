@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Base Template</title>
+    <title>Greater Toronto Group Real Estate Video Blog</title>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from the Greater Toronto Group - your professional Toronto Real Estate Agents.</description>
     <link>localhost:5000/</link>
     <atom:link href="localhost:5000/feed.xml" rel="self" type="application/rss+xml"/>
-<<<<<<< HEAD
-    <pubDate>Mon, 14 Nov 2016 14:12:14 -0600</pubDate>
-    <lastBuildDate>Mon, 14 Nov 2016 14:12:14 -0600</lastBuildDate>
-=======
-    <pubDate>Mon, 14 Nov 2016 14:01:31 -0600</pubDate>
-    <lastBuildDate>Mon, 14 Nov 2016 14:01:31 -0600</lastBuildDate>
->>>>>>> 068aa89086bd160df933c40a42a6eaf654a58efa
+    <pubDate>Tue, 15 Nov 2016 10:26:00 -0600</pubDate>
+    <lastBuildDate>Tue, 15 Nov 2016 10:26:00 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>

@@ -168,10 +168,6 @@ $("#welcome-box-form").submit(function(event) {
 // localStorage.setItem('exitFull', 'false')
 //end of welcome box
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 068aa89086bd160df933c40a42a6eaf654a58efa
 //fadein navbar
 $.support.transition = false;
 window.addEventListener("scroll", function() {
@@ -192,8 +188,5 @@ $('.navbar')
    .on('hidden.bs.collapse', function () {
      $('.navbar').removeClass('brand-color')
    });
-<<<<<<< HEAD
 
-=======
->>>>>>> 068aa89086bd160df933c40a42a6eaf654a58efa
 });

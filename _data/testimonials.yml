@@ -1,5 +1,11 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
+  - quote: I sold for 102% of my asking price! The marketing tools that the Greater Toronto Group used got me multiple offers and allowed me to sell for $11,100.00 more than my asking price! Your team is the best! - THANK YOU!!
+    name: Sophie Edgington
+    audio:
+  - quote: I wish we had gone with Greater Toronto Group first! I had been through several realtors who tried to sell my property unsuccessfully. The Greater Toronto Group got me a successful sale within 30 days, at the price I wanted, without lowering the list price!
+    name: Kim Gill
+    audio:
+  - quote: We sold for 99.5% in less than a week - in a down market! We have worked with realtors before that do the job, but the Greater Toronto Group goes WAY beyond that. Even when we were satisfied with the price negotiated, our realtor kept on negotiating and got us $7,000 MORE THAN WE WANTED! We couldn't be happier!
+    name: Sonny & Kori Stewart
     audio:
