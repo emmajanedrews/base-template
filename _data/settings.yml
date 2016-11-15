@@ -9,14 +9,14 @@ client:
   clients:
     - name: Eric Vallée
       client_headshot_path: '/img/headshot1.jpg'
-      license: 'V30906'
+      license:
       phone: 604-788-5133
       email: eric@valleerealestate.ca
       about_markdown: |
         Fluent in English and French Eric’s Journey West Eric was born and raised in Québec. While attending the University of Montreal, he took a trip to British Columbia and he fell in love with the natural beauty of the province. After owning his own fitness center for five years, where membership doubled during his successful tenure, he decided it was time to pursue his dream and move west. During the years, Eric also began investing in real estate and when he moved to British Columbia he decided it was time to begin his career as a REALTOR®.
     - name: Juliana Vallée
       client_headshot_path: '/img/headshot2.jpg'
-      license: 'V60900'
+      license:
       phone: 778-822-8000
       email: juliana@valleerealestate.ca
       about_markdown: |
@@ -41,7 +41,7 @@ socials:
   linkedin_url: https://www.linkedin.com/in/evallee
   gplus_url: https://plus.google.com/u/0/108224651826566207813
   youtube_url: https://www.youtube.com/user/valleerealestate
-  twitter_url: https://twitter.com/valleerealest8
+  twitter_url: https://twitter.com/valleerealtors
   instagram_url:
   pinterest_url:
   zillow_url:
