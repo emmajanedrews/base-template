@@ -1,6 +1,6 @@
 ---
 layout: post
-title: this is a test
+title: 'Join Us for Our 4th Annual Client Appreciation Event!'
 tags:
   - Market Update
   - Real Estate
