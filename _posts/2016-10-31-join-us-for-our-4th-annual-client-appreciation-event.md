@@ -2,13 +2,10 @@
 layout: post
 title: 'Join Us for Our 4th Annual Client Appreciation Event!'
 tags:
-  - Market Update
   - Real Estate
-  - Buyer Tips
-  - Home Seller Tips
-excerpt: 'Join Us for Our 4th Annual Client Appreciation Event!'
-enclosure:
-pullquote: This is an example of a pull quote
+excerpt: 'Our annual client appreciation event is coming up. We will be showing two great new movies and giving away a new car!'
+enclosure: 'http://vyralmarketing.s3.amazonaws.com/Eric%20Vallee/videos/Join%20Us%20for%20Our%204th%20Annual%20Client%20Appreciation%20Event%21.mp4'
+pullquote: 'One lucky winner is getting a new car, too!'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -19,15 +16,14 @@ youtube_code: trDHRt-SsdA
 
 {% include youtube.html %}
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps **gastropub marfa r**etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+We wanted to take just a moment of your time to invite you to our fifth annual client appreciation party at the New Westminster Landmark Theaters. The event will be on Saturday, December 3rd at 9 a.m.
 
-*Bushwick* [marfa]('http://google.com') wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+**We will be showing two different movies. One is the new Disney-Pixar animated film, Moana. The other is a thriller starring Brad Pitt and Marion Cotillard called Allied.**
 
 {% include pullquote.html %}
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven't heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90's fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+Did we mention we will also be giving away a car at this event? That’s right. We are giving away a 2016 Volkswagen Jetta to one lucky contest winner. To enter the contest, all you have to do is either buy a home with us, sell a home with us, or refer us to someone who buys or sells with us.
 
+This is just an informal invite to let you know about the event. **Your Eventbrite invitation should be coming to your email inbox soon, so keep an eye out for that.**
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+If you have any questions for us in the meantime, give us a call or send us an email. We look forward to hearing from you soon!
