@@ -22,8 +22,8 @@ client:
       about_markdown: |
         Samuel M. Gaylord, founder and partner of Gaylord Popp LLC, practices in the areas of workers’ compensation, Social Security Disability, Medicare Set Aside claims, and pension appeals. Mr. Gaylord is certified by the New Jersey Supreme Court as a workers’ compensation law attorney and is licensed to practice in New Jersey, Pennsylvania, and Washington, D.C. He received his B.A. degree from Syracuse University and his J.D. degree from Seton Hall School of Law. He then served as a judicial intern with the Honorable Charles A. Delehey, and since 1996 has worked primarily in the area of workers’ compensation. In 2002, Sam was named Young Lawyer of the Year for Mercer County and in 2003 received the Young Lawyer of the Year Service to the Bar award from the New Jersey State Bar Association. In January 2004, Mr. Gaylord formed Gaylord & Yuska, and in June of 2007, Lawrence E. Popp, Esq. joined the firm.
     - name: 'David P. Silber'
-      title:
-      specialty: Personal Injury &amp; Condo Law
+      title: Partner
+      specialty: "Personal Injury &amp; Condo Law"
       client_headshot_path: '/img/headshot2.png'
       phone: 609-277-2279
       email: DSilber@gaylordpopp.com

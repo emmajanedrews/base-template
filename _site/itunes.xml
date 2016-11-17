@@ -4,10 +4,10 @@
     <title>GaylordPopp Law Podcast</title>
     <link>localhost:4000</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Quinn Stewart Real Estate Group - your professional Portland Real Estate Agents.</description>
+    <description>Gaylord Popp law firm in New Jersey provides legal solutions for New Jersey residents. No matter how hopeless your situation is. Contact us today.</description>
     <language>en</language>
     <managingEditor></managingEditor>
-    <lastBuildDate>2016-11-17 11:57:31 -0600</lastBuildDate>
+    <lastBuildDate>2016-11-17 16:17:24 -0600</lastBuildDate>
     <media:copyright></media:copyright>
     <media:thumbnail url="localhost:4000"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -21,7 +21,7 @@
     <itunes:image href="localhost:4000"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Portland Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Quinn Stewart Real Estate Group - your professional Portland Real Estate Agents.</itunes:summary>
+    <itunes:summary>Gaylord Popp law firm in New Jersey provides legal solutions for New Jersey residents. No matter how hopeless your situation is. Contact us today.</itunes:summary>
       <itunes:category text="News &amp; Politics"/>
     
       <item>
@@ -159,6 +159,6 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
     <copyright></copyright>
     <media:credit role="author"></media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Quinn Stewart Real Estate Group - your professional Portland Real Estate Agents.</media:description>
+    <media:description type="plain">Gaylord Popp law firm in New Jersey provides legal solutions for New Jersey residents. No matter how hopeless your situation is. Contact us today.</media:description>
   </channel>
 </rss>
