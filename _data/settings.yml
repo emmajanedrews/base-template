@@ -1,44 +1,55 @@
 audit_header: false
-title: Quinn Stewart Real Estate Group
+title: GaylordPopp Attorneys at Law Video Blog
 description: If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Quinn Stewart Real Estate Group - your professional Portland Real Estate Agents.
 show_custom_links: true
 custom_links:
-  - title: Featured Properties
-    url: http://www.valleerealestate.ca/listings/active
+  - title: Pensions
+    url: /pensions
+  - title: Personal Injury
+    url: /personal-injury
+  - title: Condo Law
+    url: /condo-law
+  - title: Worker's Compensation
+    url: /workers-compensation
 client:
   clients:
-    - name: Samuel M. Gaylord
+    - name: 'Samuel M. Gaylord'
+      title: Managing Partner
+      specialty: Pensions
       client_headshot_path: '/img/headshot1.png'
-      license:
       phone: 609-277-2291
       email: SGaylord@gaylordpopp.com
       about_markdown: |
         Samuel M. Gaylord, founder and partner of Gaylord Popp LLC, practices in the areas of workers’ compensation, Social Security Disability, Medicare Set Aside claims, and pension appeals. Mr. Gaylord is certified by the New Jersey Supreme Court as a workers’ compensation law attorney and is licensed to practice in New Jersey, Pennsylvania, and Washington, D.C. He received his B.A. degree from Syracuse University and his J.D. degree from Seton Hall School of Law. He then served as a judicial intern with the Honorable Charles A. Delehey, and since 1996 has worked primarily in the area of workers’ compensation. In 2002, Sam was named Young Lawyer of the Year for Mercer County and in 2003 received the Young Lawyer of the Year Service to the Bar award from the New Jersey State Bar Association. In January 2004, Mr. Gaylord formed Gaylord & Yuska, and in June of 2007, Lawrence E. Popp, Esq. joined the firm.
-    - name: David P. Silber
+    - name: 'David P. Silber'
+      title:
+      specialty: Personal Injury &amp; Condo Law
       client_headshot_path: '/img/headshot2.png'
-      license:
       phone: 609-277-2279
-      email: dsilber@gaylordpopp.com
+      email: DSilber@gaylordpopp.com
       about_markdown: |
         Mr. Silber is known for his professionalism, ethical approach, understanding of the law and responsiveness to his clients. It is his belief that to have a client for life they must trust the attorney’s judgment and the attorney must be upstanding, honest, ethical and most importantly, available. Mr. Silber prides himself in possessing all of these attributes, and with his ability to assist in an array of legal matters he has created long lasting, successful relationships with his clients.
-    - name: Tanya L. Phillips
+    - name: 'Tanya L. Phillips'
+      title: Partner
+      specialty: "Worker's Compensation"
       client_headshot_path: 'http://i.imgur.com/l0zryVd.png'
-      license:
       phone: 609-277-2291
       email: TPhillips@gaylordpopp.com
       about_markdown: |
         Ms. Phillips is an active member of the Mercer County Bar Association and currently serves as a Trustee and Co-Chair of the Events Committee. She was presented with the Young Lawyer of the Year Award in 2008. She serves as the Treasurer of the Mercer County American Inn of Court – John Hughes Session. She is a Barrister of the Justice James H. Coleman, Jr. New Jersey Workers’ Compensation American Inn of Court. She is also a member of the New Jersey State Bar Association, Pennsylvania Bar Association, and New Jersey Association of Justice.
   about_header: About GaylordPopp
 
-  market: British Columbia
-  brand: Vallee Real Estate Group
-  brokerage: Keller Williams Black Diamond Realty
-  address: '5489 Byrne Road #252<br>Burnaby, BC V5J 3J1'
-  url: http://valleerealestate.ca
-  first_CTA_text: Home Evaluation
-  first_CTA_URL: http://www.valleerealestate.ca/your-homes-value
-  second_CTA_text: Home Search
-  second_CTA_URL: http://www.valleerealestate.ca/home-search
+  market: West Trenton, NJ
+  brand: GaylordPopp
+  brokerage:
+  address: 'Mountain View Office Park<br>
+850 Bear Tavern Road Suite 308<br>
+West Trenton, NJ 08628'
+  url: http://gaylordpopp.com
+  first_CTA_text: Practice Areas
+  first_CTA_URL: http://www.gaylordpopp.com/practice-areas/
+  second_CTA_text: Get Help Now
+  second_CTA_URL: http://www.gaylordpopp.com/
   VR_form:
 welcome_headline: Get Educated About Your Real Estate
 welcome_text_markdown: Our mission at Vallee Real Estate is to be your best resource for real estate advice. Our team of professionals can answer any questions you might have about real estate. Subscribe to this blog to get the latest news on real estate and receive expert tips for preparing yourself for your buying or selling a home.
@@ -56,7 +67,7 @@ socials:
   yelp_url:
   podcast_url:
 podcast:
-  title: Vallee Real Estate Group Podcast
+  title: GaylordPopp Law Podcast
   categories: News & Politics
   image:
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Portland Area Real Estate Market'

@@ -1,11 +1,8 @@
 ---
 layout: post
-title: this is a test
+title: Pensions
 tags:
-  - Market Update
-  - Real Estate
-  - Buyer Tips
-  - Home Seller Tips
+  - Pensions
 excerpt: 'Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.'
 enclosure:
 pullquote: This is an example of a pull quote

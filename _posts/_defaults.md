@@ -1,18 +1,19 @@
 ---
 layout: post
-title: Top 10 Star Fox Bosses
+title:
 tags:
   - Pensions
   - Condo Law
-  - Compensation
+  - Worker's Compensation
+  - Personal Injury
 excerpt:
 enclosure:
-pullquote: Andross, the Final Boss
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image:
-youtube_code: uieM18rZdHY
+youtube_code:
 ---
 {% include youtube.html %}
 
