@@ -3,9 +3,6 @@ layout: post
 title: What Is the Current State of Our Market?
 tags:
   - Market Update
-  - Real Estate
-  - Buyer Tips
-  - Home Seller Tips
 excerpt: 'We have a pretty strong seller’s market right now. Homes are moving very quickly, especially in the lower price ranges.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+A+closer+look+at+our+market.mp4'
 pullquote: Interest rates are an important factor.
