@@ -1,5 +1,53 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
+  - quote: '"Josh takes care of everything! He is so hardworking and honest. Josh is probably the best Realtor we’ve ever worked with so I’d highly recommend him!"'
+    name: Kristen
+    audio:
+  - quote: '"He followed through with absolutely everything he said he would do and he helped us with all the legal stuff and paperwork to make sure we were protected."'
+    name: Matt
+    audio:
+  - quote: '"The Joshua Stern Team was incredible to work with. They were on the ball and always had the information we needed. Any of our concerns were resolved right away which was much appreciated. They have a really great understanding of the market and they know what needs to happen to get things done. I would absolutely recommend them!"'
+    name: Doug
+    audio:
+  - quote: '"My experience with Joshua was amazing. He was so professional and timely that it made selling my mother’s house so much easier. My mother had passed away and Joshua showed up and had a market analysis done for us. He really bent over backwards to make it happen and he did an amazing job!"'
+    name: Paige
+    audio:
+  - quote: '"When we planned to move to Portland to be closer to family, we knew we were going to talk to Joshua right from the start because we’d heard about him on the news. He came out and did a market survey and told us that he could sell our home. Lo and behold, the very first person that walked through the door bought it. It was so quick and Joshua helped us through every step of the way. It was a pleasant situation and he did everything he said he was going to!"'
+    name: Paul
+    audio:
+  - quote: '"We had phenomenal results! The pictures went up on a Tuesday night, we had an open house on Saturday and then we got 4 offers! He absolutely lived up to his reputation. It as a quick transaction, he was professional, and he always followed up. Every step of the process, he’d send me a video saying here’s where we’re at in the process and here’s what’s going to happen. For me, that was above and beyond, I’ve never heard of an agent doing that and taking that kind of time."'
+    name: Phil
+    audio:
+  - quote: '"He was very quick, efficient, and professional to our desire. On a Sunday while he was out of town on vacation, he sent us over an offer that we had received which we thought was pretty cool. We requested that we not having any showings or anything on Saturdays and he was able to make sure that happened. He just did a really nice job for us. "'
+    name: Alex
+    audio:
+  - quote: '"I thought they were very good and professional. He really did a good job and kept us posted on what was going. Initially when he came over for the first visit, he spent several hours with us and went over all the details. We felt like things were going to go well after he left and they did!"'
+    name: Bruce
+    audio:
+  - quote: '"I had an offer and when they did the inspection the buyer wanted me to throw in an extra $1,6000. There was no way I was doing that so Josh took that back to them and handled it very well. They accepted it because of his great negotiation skills. They were fantastic, absolutely fantastic."'
+    name: Michael
+    audio:
+  - quote: '"They were great. Before we switched to them, the house was on the market for six and a half months. There were some offers, but they all fell through. Josh just had techniques and outlets that our previous Realtor did not have. We sold the house in seven weeks with Josh. They got back to me, and his whole team just did such a good job. I would recommend him to anybody."'
+    name: Laurel
+    audio:
+  - quote: '"We had very good results. There was a closure failure that happened over the weekend, and Lee was out of town so Josh helped us navigate through the whole thing. The closure failure happened on a Friday, and by Saturday, they had gotten us another offer!"'
+    name: Roger
+    audio:
+  - quote: '"My son had died unexpectedly, leaving a property in Salt Lake City. I’m in Virginia, but we found Josh after going through my son’s paperwork. Josh had sold him the home in Salt Lake back in 2006. We went to Salt Lake City, and Josh gave us a very straightforward presentation. Josh first gave us different ways for us to sell the house to my friend’s kids, and when that didn’t work out, he put the house on the market. I went back to Virginia, and Josh worked with some of my friends in Salt Lake City to sell the house. He kept me updated throughout, and the whole process was so easy, even though it was long distance!"'
+    name: Una
+    audio:
+  - quote: '"We got great results! The house sold, and it was fast. He was very professional. Our initial meeting with him was fantastic. He prepared an analysis of different homes that have been sold in our area. I’ve never seen that from another Realtor before, and I thought that was really above and beyond!"'
+    name: Jill
+    audio:
+  - quote: '"They have friendly customer service, and an extremely quick response time. He was very professional. The first time we worked with him, we just randomly called Keller Williams because we needed an agent. We needed to fly in 24 hours later, buy a house in 24 hours, and fly back. He was very accommodating. He really got us acclimated to Salt Lake City, so he was more than just somebody who showed us through houses!"'
+    name: Kimberly
+    audio:
+  - quote: '"I’ve been very pleased. Initially, we went with another real estate firm. We had twelve showings in seven months with them. My wife did some research, and Josh came in. He’s on the ball. He’s sharp. He has a plan, and the passion and energy to execute that plan. He sold the house in three weeks. Any time I brought up some kind of issue, it always impressed me that he had a plan. He just goes right into problem-solving mode."'
+    name: Gary
+    audio:
+  - quote: '"Everything was outstanding! The marketing of the home was exceptional. We’ve owned several homes, and it was by far the best marketing plan for selling a home that we’ve ever seen. We were just thrilled with the results!"'
+    name: Lee
+    audio:
+  - quote: '"Josh was very honest and thorough. He had a lot of experience and he was very well-informed. We listed our house, and it sold within a few days! We had a different agent before, and the biggest problem with them was we never knew where we stood. Josh had great communication skills, and I really appreciated that!"'
+    name: Cheryl
     audio:

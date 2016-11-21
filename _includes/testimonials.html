@@ -13,13 +13,13 @@
 							<div class="item">
 								<div id="item-truncated">
 		            {{item.quote | prepend: '<p class="testimonial">' | append: '</p>' | truncate: 300 }}
-								{% if item.quote.size >= 296 %}
+								{% if item.quote.size >= 290 %}
 									<p class="expand item-toggle">Show More <i class="fa fa-plus-square-o expand"></i></p>
 								{% endif %}
 								</div>
 								<div id="item-expanded" class="item-hide">
 		            {{item.quote | prepend: '<p class="testimonial">' | append: '</p>' }}
-								{% if item.quote.size >= 296 %}
+								{% if item.quote.size >= 290 %}
 									<p class="expand item-toggle">Show Less <i class="fa fa-minus-square-o expand"></i></p>
 								{% endif %}
 								</div>
