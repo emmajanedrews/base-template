@@ -32,7 +32,7 @@ client:
   first_CTA_URL: http://www.colemererealty.com/fine/real/estate/marketeval
   second_CTA_text: Home Search
   second_CTA_URL: http://www.colemererealty.com/fine/real/estate/newsearch
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=c3a9b44641
   about_header: About Bryan and Scott Colemere
 welcome_headline: Get Educated About Your Real Estate
 welcome_text_markdown: Our mission at Colemere Realty and Associates is to be your best resource for real estate advice. Our team of professionals can answer any questions you might have about real estate. Subscribe to this blog to get the latest news on real estate and receive expert tips for preparing yourself for your buying or selling a home.
