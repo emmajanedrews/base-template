@@ -59,7 +59,7 @@ images:
   hero_logo_path: '/img/logo.png'
   hero_text:
   hero_background_hex: '#CF2031'
-  hero_image_path: '/img/background.png'
+  hero_image_path: '/img/background.jpg'
 brand_color: '#CF2031'
 theme_color: '#CF2031'
 theme_text_color: '#353535'
