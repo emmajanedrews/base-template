@@ -18,7 +18,7 @@ youtube_code: oZYqow5YMHI
 
 We wanted to take just a moment of your time to invite you to our fifth annual client appreciation party at the New Westminster Landmark Theaters. The event will be on Saturday, December 3rd at 9 a.m.
 
-**We will be showing two different movies. One is the new Disney-Pixar animated film,*****Moana*****. The other is a thriller starring Brad Pitt and Marion Cotillard called *Allied*.**
+**We will be showing two different movies. One is the new Disney-Pixar animated film,&nbsp;**[***Moana***](http://movies.disney.com/moana)**. The other is [*Fantastic Beasts and Where to Find Them*](http://www.fantasticbeasts.com/)**
 
 {% include pullquote.html %}
 
