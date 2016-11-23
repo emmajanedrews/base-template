@@ -53,6 +53,7 @@
 .scroll-nav-color
 	background: transparentize($brand, .0)
 	animation: .5s fadeNavigation ease-in-out
+	@include shadow
 
 @keyframes fadeNavigation
 	0%
@@ -66,6 +67,7 @@
 	100%
 		transform: translateY(0)
 		background: $brand
+
 .brand-color
 	background: $brand
 	animation: .3s fadein ease-in-out
