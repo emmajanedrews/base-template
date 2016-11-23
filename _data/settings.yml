@@ -1,63 +1,65 @@
 audit_header: false
 title: The Base Template
-description: If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.
+description: If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Teixeira Realty Group - your professional Mansfield Area Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
     url:
 client:
-  name:
+  name: John Teixeira
   license_number:
   about_markdown: |
+    I have a 11 year background in real estate and business management for the past 20 years. I love working with my buyers and sellers and pride myself in getting results faster than the rest of the industry, and teaching and counseling home buyers on a regular basis on becoming a home owner.
 
-  market:
-  brand:
-  brokerage:
-  address:
-  phone: 402-320-6766
+    I have also become Certified to handle home owners that are in a distressed situation and need help understanding their options.
+  market: Mansfield
+  brand: Teixeira Realty Group
+  brokerage: RE/MAX
+  address: 1301 North Hwy 287 Unit 103<br>Mansfield, TX 76063
+  phone: 817-637-4658
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: northtexasre@sbcglobal.net
+  url: http://www.johnteixeira.com
   first_CTA_text: Home Evaluation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://150489818.homesconnect.com/search/comparablehomes.aspx
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://150489818.homesconnect.com/search/residentialadvancedsearch.aspx
   phone_CTA: true
-  VR_form: http://oi.vresp.com?fid=cf8d350165
+  VR_form: http://oi.vresp.com?fid=e45d0c2036
 welcome_headline: Get Educated About Real Estate
 welcome_text_markdown: |
-  Our mission at -- CLIENT BRAND -- is to be your best resource for real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. Subscribe to this blog to get the latest news on local market trends and receive expert tips for buying or selling a home.
+  Our mission at Teixeira Realty Group is to be your best resource for real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. Subscribe to this blog to get the latest news on local market trends and receive expert tips for buying or selling a home.
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/TeixeiraRealtyGroup/
+  linkedin_url: https://www.linkedin.com/pub/john-teixeira/5/66b/b19
+  gplus_url: https://plus.google.com/u/0/b/110084408516919272968/110084408516919272968/about
+  youtube_url: https://www.youtube.com/channel/UC8Awe_dlTM6iFJiOnhFxL0g
+  twitter_url: https://twitter.com/JohnTeixeira4U
   instagram_url:
-  pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
+  pinterest_url: http://pinterest.com/jtexremax
+  zillow_url: http://www.zillow.com/profile/JohnTeixeira7/
+  trulia_url: http://www.trulia.com/profile/john-teixeira-agent-mansfield-tx-252140
+  yelp_url: http://www.yelp.com/biz/john-teixeira-remax-associates-mansfield-4
   podcast_url:
 podcast:
-  title:
+  title: Mansfield Real Estate Video Blog
   categories: News & Politics
   image:
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Mansfield Area Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Teixeira Realty Group - your professional Mansfield Area Real Estate Agents.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author:
+  author: John Teixeira
 images:
-  client_headshot_path: '/img/headshot.jpg'
+  client_headshot_path: '/img/headshot.png'
   hero_logo_path: '/img/logo.png'
   hero_text:
-  hero_background_hex: '#00A3DA'
+  hero_background_hex: '#0d304a'
   hero_image_path: '/img/background.png'
-brand_color: '#00A3DA'
-theme_color: '#00A3DA'
+brand_color: '#0d304a'
+theme_color: '#0d304a'
 theme_text_color: '#353535'
 main_body_color: '#ffffff'
 main_body_text_color: '#353535'
