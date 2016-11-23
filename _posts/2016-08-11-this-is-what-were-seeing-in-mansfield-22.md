@@ -4,7 +4,7 @@ title: An Update on the Summer Real Estate Market in Mansfield
 date: '2016-08-11T09:16:00.001-07:00'
 author: Vyral Admin
 tags:
-- Market Update
+- Market Updates
 excerpt:
 enclosure:
 pullquote: Demand is strong in our market.

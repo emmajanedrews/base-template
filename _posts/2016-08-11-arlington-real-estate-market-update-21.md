@@ -4,7 +4,7 @@ title: Arlington Real Estate Market Update
 date: '2016-08-11T08:52:00.002-07:00'
 author: Vyral Admin
 tags:
-- Market Update
+- Market Updates
 excerpt:
 enclosure:
 pullquote: The median home price has gome up 8% to $178,000.

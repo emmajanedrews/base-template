@@ -4,6 +4,7 @@ title: 'Don’t Miss This Beautiful Listing in Mira Lagos'
 date: '2016-07-21T12:24:00.001-07:00'
 author: Vyral Admin
 tags:
+- Real Estate
 excerpt:
 enclosure:
 pullquote: Mira Lagos is a beautiful community filled with great activities for your family.
