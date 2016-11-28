@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Base Template</title>
+    <title>Dave Knight Real Estate Team Video Blog</title>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Dave Knight Real Estate Team - your professional Pasadena area Real Estate Agents.</description>
     <link>localhost:5000/</link>
     <atom:link href="localhost:5000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Nov 2016 15:45:57 -0600</pubDate>
-    <lastBuildDate>Mon, 28 Nov 2016 15:45:57 -0600</lastBuildDate>
+    <pubDate>Mon, 28 Nov 2016 15:53:16 -0600</pubDate>
+    <lastBuildDate>Mon, 28 Nov 2016 15:53:16 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>

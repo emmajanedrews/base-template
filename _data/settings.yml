@@ -1,5 +1,5 @@
 audit_header: false
-title: The Base Template
+title: Dave Knight Real Estate Team Video Blog
 description: If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Dave Knight Real Estate Team - your professional Pasadena area Real Estate Agents.
 show_custom_links: false
 custom_links:
@@ -23,9 +23,9 @@ client:
   email: daveknight@kw.com
   url: daveknightrealestate.com
   first_CTA_text: Home Evaluation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: https://daveknightrealestateteam.brivityvaluations.com/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.daveknightrealestate.com/homes-for-sale/#/-2070523458
   phone_CTA: true
   VR_form: http://oi.vresp.com?fid=cf8d350165
 welcome_headline: Get Educated About Real Estate
