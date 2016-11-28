@@ -1,6 +1,7 @@
 //For individual theme fixes. You know all about it.
 .site-logo
 	max-width: 40rem
+	padding: 40px 0
 
 .footer
 	color: #fff
@@ -14,8 +15,9 @@
 		color: #fff
 
 .newsletter
-	background: darken($theme, 3%)
-
+	background: lighten($theme, 10%)
+a.readmore
+	border-radius: 0
 .navbar-left
 	li
 		a
@@ -28,10 +30,12 @@
 			background: #fff
 			border-color: #fff
 			color: $brand
+			border-radius: 0
 		.cta2
 			background: $brand
 			border-color: #fff
 			color: #fff
+			border-radius: 0
 
 .fa-bars
 	color: #fff
@@ -40,3 +44,7 @@
 	.navbar-brand
 		color: #fff
 		margin-top: 10px
+.newsletter_optin input[type="submit"], .newsletter_optin input[type='email'], .input-group .form-control:first-child, .input-group-addon:first-child, .input-group-btn:first-child>.btn, .input-group-btn:first-child>.btn-group>.btn, .input-group-btn:first-child>.dropdown-toggle, .input-group-btn:last-child>.btn-group:not(:last-child)>.btn, .input-group-btn:last-child>.btn:not(:last-child):not(.dropdown-toggle)
+	border-radius: 0
+.input-group-btn:last-child>.btn, .input-group-btn:last-child>.btn-group
+	border-radius: 0
