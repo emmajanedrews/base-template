@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Base Template</title>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.</description>
+    <title></title>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Real Estate Pros - your professional Pendleton Area Real Estate Agents.</description>
     <link>localhost:5000/</link>
     <atom:link href="localhost:5000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Nov 2016 12:32:39 -0600</pubDate>
-    <lastBuildDate>Mon, 14 Nov 2016 12:32:39 -0600</lastBuildDate>
+    <pubDate>Mon, 28 Nov 2016 11:20:56 -0600</pubDate>
+    <lastBuildDate>Mon, 28 Nov 2016 11:20:56 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
