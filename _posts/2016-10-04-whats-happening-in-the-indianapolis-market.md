@@ -7,7 +7,7 @@ tags:
   - Buyer Tips
   - Home Seller Tips
 excerpt: Indianapolis is in a hot seller’s market right now. Here is what that means for home buyers and sellers.
-enclosure:
+enclosure: 'http://vyralmarketing.s3.amazonaws.com/Heather%20Upton/The%20Real%20Estate%20Pros-%20Whats%20Happening%20in%20the%20our%20local%20real%20estate%20Market%253F.mp4'
 pullquote: Low interest rates mean that homes are still very affordable.
 enclosure_type: video/mp4
 enclosure_time:
