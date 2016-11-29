@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What’s Happening in the Indianapolis Market?
+title: What’s Happening in the  Market?
 tags:
   - Market Update
   - Real Estate
