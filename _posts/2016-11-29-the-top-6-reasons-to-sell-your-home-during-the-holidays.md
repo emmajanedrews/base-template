@@ -29,7 +29,7 @@ Should you sell your home during the holidays? I believe the answer is yes, and 
 
 4. **Buyers have more time off at this time of year.** Everyone takes time off during the holidays, which gives buyers more time to look at your home. They will be able to make it to more daytime showings, which works great for sellers and makes things easier for buyers who have to work those tough 9-to-5 jobs.
 
-5. **There will be more competition after the holidays.**If you are planning on selling your home, do it during the holidays. Most sellers will wait until right after the holidays to put their home on the market. In the second week of January, there will be a surge of homes on the market. My recommendation to you is to list now and beat the surge.
+5. **There will be more competition after the holidays.&nbsp;**If you are planning on selling your home, do it during the holidays. Most sellers will wait until right after the holidays to put their home on the market. In the second week of January, there will be a surge of homes on the market. My recommendation to you is to list now and beat the surge.
 
 6. **You can sell now but move after the holidays.** You can put your property on the market in November, get a contract in December, and then you have 35 to 45 days before the buyer moves in. That means you can spend the holidays in your home and be secure in the knowledge that you have a contract on your home.
 
