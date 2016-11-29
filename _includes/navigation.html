@@ -1,11 +1,16 @@
-<nav role="navigation" class="navbar navbar-fixed-top navbar-andross">
+<nav role="navigation" class="navbar navbar-fixed-top navbar-andross nav-start">
 	<div class="navbar-header">
-		<a href="/" class="navbar-brand visible-xs" data-target="#navbarCollapse"	data-toggle="collapse">
-		{{site.data.settings.title}}</a>
+		<a href="/" class="navbar-brand" data-target="#navbarCollapse"	data-toggle="collapse">
+			{{site.data.settings.title}}</a>
 		<button type="button" data-target="#navbarCollapse"	data-toggle="collapse" class="navbar-toggle">
 			<span class="sr-only">Toggle navigation</span>
 			<i class="fa fa-bars fa-2x"></i>
 		</button>
+		{% if site.data.settings.client.phone_CTA == true %}
+			<button type="button" class="navbar-toggle phone">
+				<a href="tel:{{site.data.settings.client.phone}}"><i class="fa fa-phone fa-2x" aria-hidden="true"></i></a>
+			</button>
+		{% endif %}
 	</div>
 
  	<div id="navbarCollapse" class="collapse navbar-collapse">
@@ -13,12 +18,13 @@
 			<li><a href="/">Home</a></li>
 			{% if site.data.settings.show_custom_links == true %}
 				{% for item in site.data.settings.custom_links %}
-      		<li><a href="{{ item.url}}">{{ item.title }}</a></li>
+      		<li><a href="{{ item.url}}">{{ item.title}}</a></li>
     		{% endfor %}
 			{% endif %}
 			{% if site.data.settings.client.first_CTA_URL != '#contact' and site.data.settings.client.second_CTA_URL != '#contact' %}
 		<li><a href="#contact" id="contact">Contact</a></li>
 		{% endif %}
+
 		</ul>
 		<ul class="nav navbar-nav navbar-right">
 			{% if site.data.settings.client.first_CTA_text and site.data.settings.client.first_CTA_URL != null %}
@@ -47,5 +53,6 @@
 				</a>
 			</li>
 			{% endif %}
+
 		</ul>
 </nav>

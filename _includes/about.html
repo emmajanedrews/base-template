@@ -1,9 +1,9 @@
 
 <div class="about-container">
 	<p>
-		{% if page.tags contains "Pensions" %}
+		{% if page.tags contains "Bio Pharma" %}
 		{% for client in site.data.settings.client.clients %}
-		{% if client.specialty == "Pensions" %}
+		{% if client.specialty == "Bio Pharma" %}
 		<h5>About&nbsp;{{ client.name }}</h5>
 			<div class="client-image-container">
 		<img src="{{client.client_headshot_path }}" alt="{{client.company}}" class="client-image" />
@@ -17,9 +17,9 @@
 		{% endfor %}
 		{% endif %}
 
-		{% if page.tags contains "Condo Law" %}
+		{% if page.tags contains "Building Products" %}
 		{% for client in site.data.settings.client.clients %}
-		{% if client.specialty == "Personal Injury &amp; Condo Law" %}
+		{% if client.specialty == "Building Products" %}
 				<h5>About&nbsp;{{ client.name }}</h5>
 			<div class="client-image-container">
 		<img src="{{client.client_headshot_path }}" alt="{{client.company}}" class="client-image" />
@@ -33,9 +33,9 @@
 		{% endfor %}
 		{% endif %}
 
-		{% if page.tags contains "Personal Injury" %}
+		{% if page.tags contains "Careers" %}
 		{% for client in site.data.settings.client.clients %}
-		{% if client.specialty == "Personal Injury &amp; Condo Law" %}
+		{% if client.specialty == "Careers" %}
 				<h5>About&nbsp;{{ client.name }}</h5>
 			<div class="client-image-container">
 		<img src="{{client.client_headshot_path }}" alt="{{client.company}}" class="client-image" />
@@ -49,9 +49,25 @@
 		{% endfor %}
 		{% endif %}
 
-		{% if page.tags contains "Worker's Compensation" %}
+		{% if page.tags contains "Futurity" %}
 		{% for client in site.data.settings.client.clients %}
-		{% if client.specialty == "Worker's Compensation" %}
+		{% if client.specialty == "Futurity" %}
+		<h5>About&nbsp;{{ client.name }}</h5>
+			<div class="client-image-container">
+		<img src="{{client.client_headshot_path }}" alt="{{client.company}}" class="client-image" />
+	</div><br>
+		<p><b>{{ client.name }}</b><br>
+		{{ client.title }}</br>
+		{{ client.phone }}<br />
+		<a href="mailto:{{ client.email }}" target="_blank">{{ client.email }}</a><br>
+		{{client.about_markdown | markdownify }}
+		{% endif %}
+		{% endfor %}
+		{% endif %}
+
+		{% if page.tags contains "Health Care" %}
+		{% for client in site.data.settings.client.clients %}
+		{% if client.specialty == "Health Care" %}
 		<h5>About&nbsp;{{ client.name }}</h5>
 			<div class="client-image-container">
 		<img src="{{client.client_headshot_path }}" alt="{{client.company}}" class="client-image" />

@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title>GaylordPopp Law Podcast</title>
+    <title>Govig and Associates Podcast</title>
     <link>localhost:4000</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
-    <description>Gaylord Popp law firm in New Jersey provides legal solutions for New Jersey residents. No matter how hopeless your situation is. Contact us today.</description>
+    <description></description>
     <language>en</language>
-    <managingEditor></managingEditor>
-    <lastBuildDate>2016-11-17 16:23:21 -0600</lastBuildDate>
-    <media:copyright></media:copyright>
-    <media:thumbnail url="localhost:4000"/>
-    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
+    <managingEditor>Todd Govig</managingEditor>
+    <lastBuildDate>2016-11-29 12:10:20 -0600</lastBuildDate>
+    <media:copyright>Todd Govig</media:copyright>
+    <media:thumbnail url="localhost:4000/img/Pop_podcast.png"/>
+    <media:keywords>recruiter, executive recruiter, executive search, executive search firms, executive headhunters, top executive recruiters, recruitment firm, management recruiter</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
       <itunes:email></itunes:email>
-      <itunes:name></itunes:name>
+      <itunes:name>Todd Govig</itunes:name>
     </itunes:owner>
-    <itunes:author></itunes:author>
+    <itunes:author>Todd Govig</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000"/>
-    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Portland Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>Gaylord Popp law firm in New Jersey provides legal solutions for New Jersey residents. No matter how hopeless your situation is. Contact us today.</itunes:summary>
+    <itunes:image href="localhost:4000/img/Pop_podcast.png"/>
+    <itunes:keywords>recruiter, executive recruiter, executive search, executive search firms, executive headhunters, top executive recruiters, recruitment firm, management recruiter</itunes:keywords>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:summary></itunes:summary>
       <itunes:category text="News &amp; Politics"/>
     
       <item>
-        <title>Personal Injury</title>
+        <title>Careers</title>
         <link>localhost:4000/personal-injury-post.html</link>
         
-          <category>Personal Injury</category>
+          <category>Careers</category>
         
-        <author></author>
+        <author>Todd Govig</author>
         <pubDate>2016-10-31 00:00:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -51,19 +51,19 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Portland Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:author>Todd Govig</itunes:author>
         <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>recruiter, executive recruiter, executive search, executive search firms, executive headhunters, top executive recruiters, recruitment firm, management recruiter</itunes:keywords>
       </item>
       
       <item>
-        <title>Condo Law</title>
+        <title>Building Products</title>
         <link>localhost:4000/condo-law-post.html</link>
         
-          <category>Condo Law</category>
+          <category>Building Products</category>
         
-        <author></author>
+        <author>Todd Govig</author>
         <pubDate>2016-10-30 00:00:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -84,19 +84,19 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Portland Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:author>Todd Govig</itunes:author>
         <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>recruiter, executive recruiter, executive search, executive search firms, executive headhunters, top executive recruiters, recruitment firm, management recruiter</itunes:keywords>
       </item>
       
       <item>
-        <title>Pensions</title>
+        <title>Bio Pharma</title>
         <link>localhost:4000/pensions-post.html</link>
         
-          <category>Pensions</category>
+          <category>Bio Pharma</category>
         
-        <author></author>
+        <author>Todd Govig</author>
         <pubDate>2016-10-15 00:00:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -117,19 +117,52 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Portland Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:author>Todd Govig</itunes:author>
         <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>recruiter, executive recruiter, executive search, executive search firms, executive headhunters, top executive recruiters, recruitment firm, management recruiter</itunes:keywords>
       </item>
       
       <item>
-        <title>Worker's Compensation</title>
+        <title>Health Care</title>
+        <link>localhost:4000/health-care-post.html</link>
+        
+          <category>Health Care</category>
+        
+        <author>Todd Govig</author>
+        <pubDate>0206-10-17 00:00:00 -0550</pubDate>
+        <guid></guid>
+        <description>
+
+Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+
+Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+
+Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+
+“This is an example of a pull quote”
+
+Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+
+Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:author>Todd Govig</itunes:author>
+        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:keywords>recruiter, executive recruiter, executive search, executive search firms, executive headhunters, top executive recruiters, recruitment firm, management recruiter</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Futurity</title>
         <link>localhost:4000/workers-compensation-post.html</link>
         
-          <category>Worker's Compensation</category>
+          <category>Futurity</category>
         
-        <author></author>
+        <author>Todd Govig</author>
         <pubDate>0206-10-16 00:00:00 -0550</pubDate>
         <guid></guid>
         <description>
@@ -150,15 +183,15 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Portland Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:author>Todd Govig</itunes:author>
         <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>recruiter, executive recruiter, executive search, executive search firms, executive headhunters, top executive recruiters, recruitment firm, management recruiter</itunes:keywords>
       </item>
       
-    <copyright></copyright>
-    <media:credit role="author"></media:credit>
+    <copyright>Todd Govig</copyright>
+    <media:credit role="author">Todd Govig</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">Gaylord Popp law firm in New Jersey provides legal solutions for New Jersey residents. No matter how hopeless your situation is. Contact us today.</media:description>
+    <media:description type="plain"></media:description>
   </channel>
 </rss>
