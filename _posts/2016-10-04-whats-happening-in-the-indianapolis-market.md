@@ -11,7 +11,7 @@ enclosure: 'http://vyralmarketing.s3.amazonaws.com/Heather%20Upton/The%20Real%20
 pullquote: Low interest rates mean that homes are still very affordable.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/heather-no-pb.jpg
 youtube_code: rNuvZjeDkDg
 ---
