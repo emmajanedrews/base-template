@@ -12,7 +12,7 @@ pullquote: Low interest rates mean that homes are still very affordable.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/heather-pb-1.jpg
+youtube_alternate_image: /uploads/heather-no-pb--1.jpg
 youtube_code: rNuvZjeDkDg
 ---
 
