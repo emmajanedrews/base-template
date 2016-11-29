@@ -6,8 +6,8 @@ author: alyssa@getvyral.com
 tags:
   - Home Seller Tips
 excerpt:
-enclosure:
-pullquote: 'A little ice can cause a lot of big, costly problems for your home.'
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/Salt+Lake+County+Real+Estate+Agent-+The+Top+6+Reasons+to+Sell+Your+Home+During+the+Holidays.mp4'
+pullquote: 'Buyers are ready to purchase your home right away!'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -16,7 +16,7 @@ youtube_code: pF7ZO18L4dw
 ---
 
 
-&lt;iframe width="480" height="270" src="https://www.youtube.com/embed/R9MAd2f4Dec" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+{% include youtube.html %}
 
 Should you sell your home during the holidays? I believe the answer is yes, and here are the top six reasons why:
 
