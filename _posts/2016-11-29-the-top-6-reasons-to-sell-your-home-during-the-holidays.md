@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: pF7ZO18L4dw
+youtube_code: R9MAd2f4Dec
 ---
 
 
@@ -25,6 +25,7 @@ Should you sell your home during the holidays? I believe the answer is yes, and 
 2. Buyers are serious. In the spring and summer, some buyers are just getting their feet wet and trying to decide whether or not they want to buy a house. In the wintertime, buyers are strapping on their snow boots and coming to your house because they are ready to buy today. It won’t take as many showings to find the right buyer in the winter.
 
 3. Homes show really well this time of year. Nothing says home like the holidays. All consumer decisions are based on emotions first and are then justified by logic, so people become very emotionally attached to holiday themes. They envision having their family in your house over the holidays and cozying up to the fire with their family. Another way to appeal to buyers’ emotions is to bake some apple pie, cookies, or bread. These scents bring back memories and create a positive attraction to your home.
+   <br>{% include pullquote.html %}
 
 4. Buyers have more time off at this time of year. Everyone takes time off during the holidays, which gives buyers more time to look at your home. They will be able to make it to more daytime showings, which works great for sellers and makes things easier for buyers who have to work those tough 9-to-5 jobs.
 
