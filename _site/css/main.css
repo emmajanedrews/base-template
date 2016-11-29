@@ -2706,7 +2706,7 @@ form select {
     margin-top: 10px; }
 
 .scroll-nav-color {
-  background: #95969a;
+  background: rgba(149, 150, 154, 0.8);
   -webkit-animation: 0.5s fadeNavigation ease-in-out;
           animation: 0.5s fadeNavigation ease-in-out; }
 
@@ -2718,7 +2718,7 @@ form select {
   100% {
     -webkit-transform: translateY(0);
             transform: translateY(0);
-    background: #95969A; } }
+    background: rgba(149, 150, 154, 0.8); } }
 
 @keyframes fadeNavigation {
   0% {
@@ -2728,7 +2728,7 @@ form select {
   100% {
     -webkit-transform: translateY(0);
             transform: translateY(0);
-    background: #95969A; } }
+    background: rgba(149, 150, 154, 0.8); } }
 .brand-color {
   background: #95969A;
   -webkit-animation: 0.3s fadein ease-in-out;
