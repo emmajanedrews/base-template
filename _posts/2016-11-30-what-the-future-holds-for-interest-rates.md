@@ -16,11 +16,11 @@ youtube_code: 51qACwHH3CA
 
 {% include youtube.html %}
 
-Are Fed rates going up?
+Are Fed Rates going up?
 
 Over the past few months, we've been hearing about a possible rate increase from the Federal Reserve. First, experts were predicting that the Fed would raise interest rates in September.
 
-That didn't happen. Now we're being told rates will go up in mid-December... we just don't know by how much.
+That didn't happen. Now we're being told rates will go up in mid-December… we just don't know by how much.
 
 **All this uncertainty is making people very uncomfortable**.
 
