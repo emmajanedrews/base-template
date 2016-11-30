@@ -27,7 +27,7 @@ client:
   second_CTA_text: Home Search
   second_CTA_URL: http://www.daveknightrealestate.com/homes-for-sale/#/-2070523458
   phone_CTA: true
-  VR_form: http://oi.vresp.com?fid=cf8d350165
+  VR_form: 
 welcome_headline: Get Educated About Real Estate
 welcome_text_markdown: |
   Our mission at Dave Knight Real Estate Team is to be your best resource for real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. Subscribe to this blog to get the latest news on local market trends and receive expert tips for buying or selling a home.
