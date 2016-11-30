@@ -38,7 +38,7 @@ client:
   first_CTA_URL: http://www.valleerealestate.ca/your-homes-value
   second_CTA_text: Home Search
   second_CTA_URL: http://www.valleerealestate.ca/home-search
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=7a475b642d
 welcome_headline: Get Educated About Your Real Estate
 welcome_text_markdown: Our mission at Vallée Real Estate is to be your best resource for real estate advice. Our team of professionals can answer any questions you might have about real estate. Subscribe to this blog to get the latest news on real estate and receive expert tips for preparing yourself for your buying or selling a home.
 socials:
