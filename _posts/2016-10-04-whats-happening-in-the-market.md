@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt: Indianapolis is in a hot seller’s market right now. Here is what that means for home buyers and sellers.
+excerpt: We are in a hot seller’s market right now. Here is what that means for home buyers and sellers.
 enclosure: 'http://vyralmarketing.s3.amazonaws.com/Heather%20Upton/The%20Real%20Estate%20Pros-%20Whats%20Happening%20in%20the%20our%20local%20real%20estate%20Market%253F.mp4'
 pullquote: Low interest rates mean that homes are still very affordable.
 enclosure_type: video/mp4
@@ -19,9 +19,9 @@ youtube_code: rNuvZjeDkDg
 
 {% include youtube.html %}
 
-What’s going on in the Indianapolis real estate market right now?
+What’s going on in the real estate market right now?
 <br>
-<br>First, **we are currently in a seller’s market.**This means that there are fewer houses listed on the market than there are buyers to purchase those homes.
+<br>First, **we are currently in a seller’s market.&nbsp;**This means that there are fewer houses listed on the market than there are buyers to purchase those homes.
 <br>
 <br>Due to the low number of homes on the market for sale, the prices for the properties available have increased. Home sellers can sell their house right now for top dollar and get full asking price for their home. In some cases, they’ll even get above asking price.
 <br>
@@ -33,4 +33,4 @@ What’s going on in the Indianapolis real estate market right now?
 
 <br>{% include pullquote.html %}
 
-<br>If you’re thinking about buying or selling a home in the Indianapolis market or you have any questions about buying or selling real estate in the Indianapolis area, give me a call or send me an email. I’d be happy to help you!
+<br>If you’re thinking about buying or selling a home in the our market or you have any questions about buying or selling real estate in the area, give me a call or send me an email. I’d be happy to help you!
