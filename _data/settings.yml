@@ -26,7 +26,7 @@ client:
   first_CTA_URL: https://daveknightrealestateteam.brivityvaluations.com/
   second_CTA_text: Home Search
   second_CTA_URL: http://www.daveknightrealestate.com/homes-for-sale/#/-2070523458
-  phone_CTA: true
+  phone_CTA: false
   VR_form: 
 welcome_headline: Get Educated About Real Estate
 welcome_text_markdown: |
