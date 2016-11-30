@@ -30,7 +30,7 @@ My personal opinion is this: the moves by the Fed are nothing to worry about. I 
 
 **In fact, I believe that an increase in the Fed Rate will have minimal impact on the real estate market in Mansfield for three reasons**.
 
-First, mortgage rates often move independently of the Fed Rate. An increase in the Fed rate might actually lead to a decrease in mortgage rates — this is exactly what happened the last time the Fed increased rates, back in December of 2015.
+First, mortgage rates often move independently of the Fed Rate. An increase in the Fed Rate might actually lead to a decrease in mortgage rates — this is exactly what happened the last time the Fed increased rates, back in December of 2015.
 
 Second, the likely rate increase will be small, probably 0.25%. If mortgage rates were to increase by the same amount, they would still would be at historically low levels.
 
