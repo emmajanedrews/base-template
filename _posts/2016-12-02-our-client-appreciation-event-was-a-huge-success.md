@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: '<iframe width="480" height="270" src="https://www.youtube.com/embed/glvn04WH1ac" frameborder="0" allowfullscreen></iframe>'
+youtube_code: glvn04WH1ac
 ---
 
 
