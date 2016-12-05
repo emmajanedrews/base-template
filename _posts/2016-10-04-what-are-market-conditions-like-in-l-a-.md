@@ -11,8 +11,8 @@ enclosure: 'http://vyralmarketing.s3.amazonaws.com/Dave%20Night/What%20Are%20Mar
 pullquote: Buyers can now purchase with contingent offers.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/dave-pb.jpg
 youtube_code: SFFy_drFrZs
 ---
 
