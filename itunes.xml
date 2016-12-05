@@ -21,7 +21,7 @@ layout: null
     </itunes:owner>
     <itunes:author>{{site.data.settings.podcast.author}}</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="{{site.data.settings.podcast.image | prepend: site.url}}"/>
+    <itunes:image href="http://i.imgur.com/FlBAtMF.png"/>
     <itunes:keywords>{{site.data.settings.podcast.keywords}}</itunes:keywords>
     <itunes:subtitle>{{site.data.settings.podcast.subtitle}}</itunes:subtitle>
     <itunes:summary>{{site.data.settings.podcast.description}}</itunes:summary>
