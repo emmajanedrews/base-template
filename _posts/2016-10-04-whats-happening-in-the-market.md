@@ -12,7 +12,7 @@ pullquote: Low interest rates mean that homes are still very affordable.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/heather-no-pb--1.jpg
+youtube_alternate_image: /uploads/heather-pb.jpg
 youtube_code: rNuvZjeDkDg
 ---
 
@@ -21,7 +21,7 @@ youtube_code: rNuvZjeDkDg
 
 What’s going on in the real estate market right now?
 <br>
-<br>First, **we are currently in a seller’s market.&nbsp;**This means that there are fewer houses listed on the market than there are buyers to purchase those homes.
+<br>First, **we are currently in a seller’s market.**This means that there are fewer houses listed on the market than there are buyers to purchase those homes.
 <br>
 <br>Due to the low number of homes on the market for sale, the prices for the properties available have increased. Home sellers can sell their house right now for top dollar and get full asking price for their home. In some cases, they’ll even get above asking price.
 <br>
