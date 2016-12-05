@@ -7,7 +7,7 @@ tags:
   - Buyer Tips
   - Home Seller Tips
 excerpt: 'Last year, cash was king in our market. This year, buyers with financing are seeing more and more contingent offers accepted.'
-enclosure:
+enclosure: 'http://vyralmarketing.s3.amazonaws.com/Dave%20Night/What%20Are%20Market%20Conditions%20Like%20in%20L.A.%253F.mp4'
 pullquote: Buyers can now purchase with contingent offers.
 enclosure_type: video/mp4
 enclosure_time:
