@@ -4,7 +4,7 @@ layout: null
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title>{{site.data.settings.podcast.title}}</title>
+    <title>{{site.data.settings.podcast.title}}The Greater Calgary Group Real Estate Podcast</title>
     <link>{{site.url}}</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="{{site.url}}"/>
     <description>{{site.data.settings.podcast.description}}</description>
