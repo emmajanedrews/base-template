@@ -6,7 +6,7 @@ author: liz@getvyral.com
 tags:
 - Home Seller Tips
 excerpt:
-enclosure:
+enclosure: https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/Salt+Lake+County+Real+Estate+Agent+-+How+We+Sold+an+Expired+Listing+in+Less+Than+2+Weeks
 pullquote: Always look at comparable properties to see if the property is fairly priced.
 enclosure_type: video/mp4
 enclosure_time:
