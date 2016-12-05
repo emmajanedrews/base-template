@@ -6,7 +6,7 @@ author: liz@getvyral.com
 tags:
 - Home Seller Tips
 excerpt:
-enclosure:
+enclosure: https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/Salt+Lake+County+Real+Estate+Agent+-+Using+Football+to+Explain+Your+Home%27s+Closing.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
