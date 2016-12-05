@@ -6,7 +6,7 @@ author: liz@getvyral.com
 tags:
 - Home Buyer Tips
 excerpt:
-enclosure:
+enclosure: https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/Salt+Lake+County+Real+Estate+Agent+-+Do+You+Want+to+Buy+a+Fixer-Upper.mp4
 pullquote: Always look at comparable properties to see if the property is fairly priced.
 enclosure_type: video/mp4
 enclosure_time:
