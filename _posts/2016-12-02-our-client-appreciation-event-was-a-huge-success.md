@@ -21,16 +21,16 @@ youtube_code: glvn04WH1ac
 
 Our recent client appreciation event was a huge success. It was a great opportunity for a mid-week date night with your spouse, or just an escape from the day to day. **We were thrilled that so many of you were able to come out and enjoy the movie with us, and we thank you.**
 
-Another big thank you everyone who brought your gently used dolls, toys, and stuffed animals for the Sandy City Fire Department. They take these toys and use them to comfort children who have been in traumatic situations.
+Another big thank you to everyone who brought your gently used dolls, toys, and stuffed animals for the Sandy City Fire Department. They take these toys and use them to comfort children who have been in traumatic situations.
 
-Additionally, we also raised a bunch of money for them through our split the raffle to purchase things like crayons and books for children experiencing trauma during emergency situations.
+Additionally, we raised a bunch of money for them through our split the raffle to purchase things like crayons and books for children experiencing trauma during emergency situations.
 
 {% include pullquote.html %}
 
-**Finally, congratulations to Grant, who won the other half of the raffle.**Looks like he will be able to retire at least one day earlier.
+**Finally, congratulations to Grant, who won the other half of the raffle.&nbsp;**Looks like he will be able to retire at least one day earlier.
 
 Keep an eye out for the upcoming invite to our next client appreciation event. This one will be for the whole family.
 
-So for now, have a grateful and thank-filled holiday season. We are thankful for all of you and your continued support of our team and our mission to help you realize the american dream of homeownership.
+So for now, have a grateful and thank-filled holiday season. We are thankful for all of you and your continued support of our team and our mission to help you realize the American dream of homeownership.
 
 If you have any questions for us, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon!
