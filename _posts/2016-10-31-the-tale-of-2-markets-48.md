@@ -6,7 +6,7 @@ author: liz@getvyral.com
 tags:
 - Market Update
 excerpt:
-enclosure:
+enclosure: https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/Salt+Lake+County+Real+Estate+Agent+-+The+Tale+of+2+Markets.mp4
 pullquote: I want you to be able to win no matter what market you're completing in.
 enclosure_type: video/mp4
 enclosure_time:
