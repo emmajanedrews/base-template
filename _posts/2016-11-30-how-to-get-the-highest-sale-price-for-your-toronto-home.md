@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/how-to-get-most-for-home-youtube.jpg
-youtube_code: VX4-l29r0FI
+youtube_code: mdB89WCyB30
 ---
 
 
