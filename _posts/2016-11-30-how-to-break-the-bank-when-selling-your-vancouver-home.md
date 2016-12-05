@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/how-to-get-best-price-youtube.jpg
-youtube_code: hjiBPuTtaF0
+youtube_code: OpV2f8xjSI4
 ---
 
 
