@@ -21,7 +21,7 @@ client:
   phone2:
   phone2_type:
   email: office@greatercalgarygroup.com
-  url: www.GreaterCalgaryGroup.com
+  url: http://www.GreaterCalgaryGroup.com
   first_CTA_text: Home Evaluation
   first_CTA_URL: http://www.greatercalgarygroup.com/homevalue/value
   second_CTA_text: Home Search
