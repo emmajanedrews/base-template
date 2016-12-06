@@ -18,7 +18,7 @@ client:
   address: 251 S. Lake Ave. Suite 150<br>Pasadena, CA 91101
   phone: 626-204-2253
   phone_type: Office
-  phone2: 626-590-4995
+  phone2: 626-408-2890
   phone2_type: Cell
   email: daveknight@kw.com
   url: http://daveknightrealestate.com
@@ -26,8 +26,9 @@ client:
   first_CTA_URL: https://daveknightrealestateteam.brivityvaluations.com/
   second_CTA_text: Home Search
   second_CTA_URL: http://www.daveknightrealestate.com/homes-for-sale/#/-2070523458
-  phone_CTA: true
+  phone_CTA: false
   VR_form: http://oi.vresp.com?fid=424cd4e0d8
+
 welcome_headline: Get Educated About Real Estate
 welcome_text_markdown: |
   Our mission at Dave Knight Real Estate Team is to be your best resource for real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. Subscribe to this blog to get the latest news on local market trends and receive expert tips for buying or selling a home.
