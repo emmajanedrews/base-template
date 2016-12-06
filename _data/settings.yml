@@ -5,6 +5,8 @@ show_custom_links: true
 custom_links:
   - title: About
     url: http://www.viewsaltlakecityareahomes.com/about/
+  - title: Testimonials
+    url: http://www.viewsaltlakecityareahomes.com/about/
 client:
   name: Joshua Stern
   license_number:
