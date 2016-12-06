@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Are Market Conditions Like in L.A.?
+title: What Are Market Conditions Like in LA?
 tags:
   - Market Update
   - Real Estate
