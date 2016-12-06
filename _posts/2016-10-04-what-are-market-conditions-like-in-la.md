@@ -25,7 +25,7 @@ Just over a year ago, the market was flooded with cash offers. That made things 
 
 Throughout LA County, we are at about a 2.2 to 2.5 month supply of inventory. If nothing else came on the market, we would absorb all these properties in just over two months. This means we are still in a seller’s market.
 
-The advantage to buying and selling during this time of year is that we are seeing a lot of contingent seals. If you’re looking to buy and sell at the same time, this is fantastic news. You can write an offer that is contingent on you selling your home, and your chances of it being accepted are much higher. You can kill two birds with one stone and not have to stress about selling your home as much.
+The advantage to buying and selling during this time of year is that we are seeing a lot of contingent sales. If you’re looking to buy and sell at the same time, this is fantastic news. You can write an offer that is contingent on you selling your home, and your chances of it being accepted are much higher. You can kill two birds with one stone and not have to stress about selling your home as much.
 
 {% include pullquote.html %}
 
