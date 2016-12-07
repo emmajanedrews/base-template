@@ -1,10 +1,26 @@
 <header id="hero">
-<div class="hero-img" style="background-image: url({{site.data.settings.images.hero_image_path}}); background-color: {{site.data.settings.images.hero_background_hex}}">
+	{% if page.tags contains "Video Blog"%}
+		<div class="hero-img" style="background-image: url({{site.data.settings.images.hero_image_path}}); background-color: {{site.data.settings.images.hero_background_hex}}">
+	{% endif %}
+	{% if page.tags contains "Bio Pharma"%}
+		<div class="hero-img" style="background-image: url({{site.data.settings.images.hero_image1_path}}); background-color: {{site.data.settings.images.hero_background_hex}}">
+	{% endif %}
+	{% if page.tags contains "Building Products"%}
+		<div class="hero-img" style="background-image: url({{site.data.settings.images.hero_image2_path}}); background-color: {{site.data.settings.images.hero_background_hex}}">
+	{% endif %}
+	{% if page.tags contains "Careers"%}
+		<div class="hero-img" style="background-image: url({{site.data.settings.images.hero_image3_path}}); background-color: {{site.data.settings.images.hero_background_hex}}">
+	{% endif %}
+	{% if page.tags contains "Futurity"%}
+		<div class="hero-img" style="background-image: url({{site.data.settings.images.hero_image4_path}}); background-color: {{site.data.settings.images.hero_background_hex}}">
+	{% endif %}
+	{% if page.tags contains "Health Care"%}
+		<div class="hero-img" style="background-image: url({{site.data.settings.images.hero_image5_path}}); background-color: {{site.data.settings.images.hero_background_hex}}">
+	{% endif %}
+
         <!-- logo -->
         <a href="/"><img src="{{site.data.settings.images.hero_logo_path}}" alt="{{site.data.settings.client.company}}" class="site-logo" /></a>
         <!-- title -->
-
         <a href="/"><h1 class="site-title">{{page.tags}}</h1></a>
-
 			</div>
 </header>

@@ -97,6 +97,11 @@ images:
   hero_text:
   hero_background_hex: '#95969A'
   hero_image_path: '/img/background.jpg'
+  hero_image1_path: '/img/background1.jpg'
+  hero_image2_path: '/img/background2.jpg'
+  hero_image3_path: '/img/background3.jpg'
+  hero_image4_path: '/img/background4.jpg'
+  hero_image5_path: '/img/background5.jpg'
 brand_color: '#F76C29'
 theme_color: '#95969A'
 theme_text_color: '#353535'
