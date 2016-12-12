@@ -21,6 +21,7 @@ client:
       client_headshot_path: '/img/headshot1.jpg'
       phone: 480-718-6167
       email: Dianna.lodolce@govig.com
+      VR_form: http://oi.vresp.com?fid=edc00c84dc
       about_markdown: |
         About content
     - name: 'Jennifer Meyer'
@@ -29,6 +30,7 @@ client:
       client_headshot_path: '/img/headshot2.jpg'
       phone: 480-718-6131
       email: Jennifer.meyer@govig.com
+      VR_form: http://oi.vresp.com?fid=ef91d98316
       about_markdown: |
         About content
     - name: 'Justinn Sbresny'
@@ -37,6 +39,7 @@ client:
       client_headshot_path: '/img/headshot3.jpg'
       phone: 480-718-6188
       email: Justinn.sbresny@govig.com
+      VR_form: http://oi.vresp.com?fid=3709810dba
       about_markdown: |
         About content
     - name: 'Sherri Huston'
@@ -45,6 +48,7 @@ client:
       client_headshot_path: '/img/headshot4.jpg'
       phone: 480-718-6105
       email: sherri.huston@govig.com
+      VR_form: http://oi.vresp.com?fid=e08fb53196
       about_markdown: |
         About content
     - name: 'Hadley Gayles'
@@ -53,10 +57,10 @@ client:
       client_headshot_path: '/img/headshot5.jpg'
       phone: 480-718-6124
       email: hadley.gayles@govig.com
+      VR_form: http://oi.vresp.com?fid=b25d5c680a
       about_markdown: |
         About content
   about_header: About Govig &amp; Associates
-
   market: Scottsdale, AZ
   brand: Govig and Associates
   brokerage:
@@ -66,7 +70,6 @@ client:
   first_CTA_URL: http://google.com
   second_CTA_text: Hire us
   second_CTA_URL: http://google.com
-  VR_form:
 welcome_headline: Free Career Advancement Video Tips
 welcome_text_markdown: |
   Subscribe to our email list to get answers when working with a recruiter to find your dream career or place your perfect candidate.

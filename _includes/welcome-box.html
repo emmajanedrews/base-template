@@ -4,7 +4,38 @@
 	<p class="center">
 	{{site.data.settings.welcome_text_markdown}}
 </p>
-        <form action="{{site.data.settings.client.VR_form}}" method="post" id="welcome-box-form" class='newsletter_optin' target="_blank">
+{% if page.tags contains "Bio Pharma" %}
+	{% for client in site.data.settings.client.clients %}
+		{% if client.specialty == "Bio Pharma" %}
+      <form action="{{client.VR_form}}" method="post" id="welcome-box-form" class='newsletter_optin' target="_blank">
+		{% endif %}
+	{% endfor %}
+{% endif %}
+{% if page.tags contains "Building Products" %}
+	{% for client in site.data.settings.client.clients %}
+		{% if client.specialty == "Building Products" %}
+      <form action="{{client.VR_form}}" method="post" id="welcome-box-form" class='newsletter_optin' target="_blank">
+		{% endif %}
+	{% endfor %}
+{% endif %}	{% if page.tags contains "Careers" %}
+	{% for client in site.data.settings.client.clients %}
+		{% if client.specialty == "Careers" %}
+      <form action="{{client.VR_form}}" method="post" id="welcome-box-form" class='newsletter_optin' target="_blank">
+		{% endif %}
+	{% endfor %}
+{% endif %}	{% if page.tags contains "Futurity" %}
+	{% for client in site.data.settings.client.clients %}
+		{% if client.specialty == "Futurity" %}
+      <form action="{{client.VR_form}}" method="post" id="welcome-box-form" class='newsletter_optin' target="_blank">
+		{% endif %}
+	{% endfor %}
+{% endif %}	{% if page.tags contains "Health Care" %}
+	{% for client in site.data.settings.client.clients %}
+		{% if client.specialty == "Health Care" %}
+      <form action="{{client.VR_form}}" method="post" id="welcome-box-form" class='newsletter_optin' target="_blank">
+		{% endif %}
+	{% endfor %}
+{% endif %}
           <input type="email" name="email_address" placeholder="Email"  pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$"  required>
           <input type="text" name="_gotcha" class="hidden">
           <input type="submit" value="Sign up">
