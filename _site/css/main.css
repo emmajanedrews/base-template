@@ -1264,9 +1264,19 @@ html[xmlns] .flexslider .slides {
   min-height: 100%;
   max-width: 100%;
   opacity: 0.8;
-  padding: 0;
-  /*--------------- */ }
+  padding: 0; }
 
+@media (max-width: 1533px) {
+  .limit-3 {
+    display: none; } }
+@media (min-width: 1533px) {
+  .limit-1 {
+    display: none; } }
+@media (max-width: 1200px) {
+  .selection-box h2 {
+    font-size: 6rem; }
+
+  /*--------------- */ }
 /***** Lily **** */
 /*--------------- */
 figure.effect-lily img {
