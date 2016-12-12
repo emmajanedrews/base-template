@@ -21,7 +21,7 @@ client:
   phone2:
   phone2_type:
   email: admin@greatervancouvergroup.com
-  url: www.GreaterVancouverGroup.com
+  url: http://www.GreaterVancouverGroup.com
   first_CTA_text: Home Valuation
   first_CTA_URL: http://www.greatervancouvergroup.com/homevalue/gvgweb
   second_CTA_text: Home Search
