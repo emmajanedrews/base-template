@@ -21,7 +21,7 @@ client:
   phone2:
   phone2_type:
   email: office@greatertorontogroup.com
-  url: www.GreaterTorontoGroup.com
+  url: http://www.GreaterTorontoGroup.com
   first_CTA_text: Home Evaluation
   first_CTA_URL: http://www.greatertorontogroup.com/homevalue/value
   second_CTA_text: Home Search
