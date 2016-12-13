@@ -25,7 +25,7 @@ client:
   first_CTA_text: Home Valuation
   first_CTA_URL: https://daveknightrealestateteam.brivityvaluations.com/
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.daveknightrealestate.com/homes-for-sale/#/-2070523458
+  second_CTA_URL: 'http://www.daveknightrealestate.com/homes-for-sale/#/-2070523458'
   phone_CTA: false
   VR_form: http://oi.vresp.com?fid=424cd4e0d8
 
