@@ -1,31 +1,34 @@
 audit_header: false
-title: The Base Template
+title: Orlando Real Estate Video Blog with Chris Myers
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
   - title:
     url:
 client:
-  name:
+  name: Chris Myers
   license_number:
-  about_markdown:
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+  about_markdown: |
+    Chris is a graduate of The Ohio State University with an MBA in Finance and Real Estate. The grandson of a seasoned real estate developer, Chris carries on the long family tradition by helping Central Floridians with their home buying and home selling goals. Prior to his real estate career, Chris worked in the advertising and marketing industry in Ohio until his passion for real estate and the Florida lifestyle brought him to the Sunshine State.
+
+    His professional experience as a business owner and sales professional provides Chris the ability to see the bigger picture, especially when it comes to developing long lasting relationships and providing genuine customer care. Using his marketing background, Chris has developed effective and time proven systems for buying and selling real estate. Using these systems, Chris has built one of the most caring and efficient real estate sales teams in the Country, resulting in his team selling over 800 properties in the last 10 years alone! Chris’ real estate expertise has also landed him on the news and various other programs being interviewed about the local real estate market.
+  market: Orlando
+  brand: Orlando Property Group
+  brokerage: Keller Williams Classic V 
+  address: 25 W. Crystal Lake St. Ste. 157 Orlando FL 32806
+  phone: 407-477-5639
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Chris@OrlandoPropertyGroup.com
+  url: http://www.OrlandoPropertyGroup.com
 CTAs:
   first_CTA_text: Home Evaluation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.centralfloridahousevalue.com/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.orlandopropertygroup.com/atj/user/HomePageGetAction.do
   phone_CTA: true
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=17c0da686f
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
@@ -36,21 +39,21 @@ welcome_box:
     receive expert tips for buying or selling a home.
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/OrlandoFloridaRealEstate
+  linkedin_url: https://www.linkedin.com/in/christophermyers
+  gplus_url: https://plus.google.com/109779273024987875317
+  youtube_url: https://www.youtube.com/channel/UCeBu9pxLlnw9f0oBI8WF9RA
+  twitter_url: https://twitter.com/orlandoproperty
   instagram_url:
-  pinterest_url:
-  zillow_url:
+  pinterest_url: https://www.pinterest.com/opgteam/
+  zillow_url: http://www.zillow.com/profile/cjmyers/
   trulia_url:
-  yelp_url:
+  yelp_url: https://www.yelp.com/biz/orlando-property-group-orlando
   podcast_url:
 podcast:
-  title:
-  categories:
-  image:
+  title: Orlando Real Estate Podcast with Chris Myers
+  categories: News &amp; Politics
+  image: /img/Podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
@@ -63,17 +66,17 @@ images:
   hero_background_hex: '#094264'
   hero_image_path: /img/background.jpg
 site_colors:
-  brand_color: '#094264'
-  theme_color: '#094264'
+  brand_color: '#ab0d1f'
+  theme_color: '#ab0d1f'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
 buttons:
-  button_radius_number: 25
+  button_radius_number: 4
   button_padding_number: 15
   button_border_color: '#ffffff'
   button_background_color: '#ffffff'
-  button_text_color: '#123456'
+  button_text_color: '#ab0d1f'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'
