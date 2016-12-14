@@ -64,16 +64,16 @@ images:
   hero_image_path: /img/background.jpg
 site_colors:
   brand_color: '#ed1c24'
-  theme_color: '#020200'
+  theme_color: '#ed1c24'
   theme_text_color: '#353535'
-  main_body_color: '#ffffff'
+  main_body_color: '#eeeeee'
   main_body_text_color: '#353535'
 buttons:
   button_radius_number: 0
   button_padding_number: 15
-  button_border_color: '#ffffff'
-  button_background_color: '#ffffff'
-  button_text_color: '#123456'
+  button_border_color: '#eeeeee'
+  button_background_color: '#eeeeee'
+  button_text_color: '#ed1c24'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'
