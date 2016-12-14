@@ -1451,7 +1451,7 @@ label.tree-toggle {
 
 .site-logo {
   width: 90%;
-  max-width: 40rem;
+  max-width: 50rem;
   -webkit-filter: drop-shadow(3px 3px 7px #0E427A);
   filter: drop-shadow(3px 3px 7px #0E427A); }
 
@@ -2689,6 +2689,9 @@ form select {
   border-radius: 0px;
   -webkit-transition: all 0.15s ease-out 0s;
   transition: all 0.15s ease-out 0s; }
+
+.site-title {
+  font-weight: 500; }
 
 .footer {
   color: #fff; }
