@@ -29,6 +29,6 @@ The first thing you need to know is that **homes will definitely sell in the win
 
 **You also need to make sure to keep your heat up**. It’s very important that your home is warm as this will make it inviting. If the home is vacant, it is even more important to make sure the heat is on, as there is nothing more unattractive than walking into a cold, empty home.
 
-Finally, make sure that your walks and driveways are cleared. You want to make sure that there won’t be a potential hazard or risk of someone slipping and falling.
+Finally, make sure that your sidewalks and driveways are cleared. You want to make sure that there won’t be a potential hazard or risk of someone slipping and falling.
 
 If you have any other questions, please reach out with a phone call or a quick email. We are happy to help.
