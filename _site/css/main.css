@@ -1254,16 +1254,20 @@ html[xmlns] .flexslider .slides {
 .view-all-posts {
   color: #F76C29;
   font-size: 20px;
-  border: 1px solid #fff;
-  border-radius: 5px;
   padding: 10px 20px;
-  background: rgba(255, 255, 255, 0.7);
+  border: 1px solid #F76C29;
+  text-align: center;
+  margin: auto;
+  width: auto;
   -webkit-transition: all 0.15s ease-out 0s;
   transition: all 0.15s ease-out 0s; }
   .view-all-posts:hover {
     background: rgba(247, 108, 41, 0.5);
     color: #fff; }
 
+@media (max-width: 991px) {
+  .view-all-posts {
+    margin-bottom: 40px; } }
 @media (max-width: 1533px) {
   .limit-3 {
     display: none; } }

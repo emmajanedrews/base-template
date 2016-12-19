@@ -68,14 +68,19 @@
 .view-all-posts
 	color: $brand
 	font-size: 20px
-	border: 1px solid #fff
-	border-radius: 5px
 	padding: 10px 20px
-	background: rgba(255,255,255,.7)
+	border: 1px solid $brand
+	text-align: center
+	margin: auto
+	width: auto
+
 	+transition
 	&:hover
 		background: transparentize($brand, .5)
 		color: #fff
+@media (max-width: 991px)
+	.view-all-posts
+		margin-bottom: 40px
 @media (max-width: 1533px)
 	.limit-3
 		display: none

@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Govig and Associates Podcast</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://govigblog.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://govigblog.com"/>
     <description></description>
     <language>en</language>
     <managingEditor>Todd Govig</managingEditor>
-    <lastBuildDate>2016-12-12 13:36:50 -0600</lastBuildDate>
+    <lastBuildDate>2016-12-19 09:45:55 -0600</lastBuildDate>
     <media:copyright>Todd Govig</media:copyright>
-    <media:thumbnail url="localhost:4000/img/Pop_podcast.png"/>
+    <media:thumbnail url="http://govigblog.com/img/Pop_podcast.png"/>
     <media:keywords>recruiter, executive recruiter, executive search, executive search firms, executive headhunters, top executive recruiters, recruitment firm, management recruiter</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
@@ -18,7 +18,7 @@
     </itunes:owner>
     <itunes:author>Todd Govig</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/Pop_podcast.png"/>
+    <itunes:image href="http://govigblog.com/img/Pop_podcast.png"/>
     <itunes:keywords>recruiter, executive recruiter, executive search, executive search firms, executive headhunters, top executive recruiters, recruitment firm, management recruiter</itunes:keywords>
     <itunes:subtitle></itunes:subtitle>
     <itunes:summary></itunes:summary>
@@ -26,7 +26,7 @@
     
       <item>
         <title>Careers</title>
-        <link>localhost:4000/personal-injury-post.html</link>
+        <link>http://govigblog.com/personal-injury-post.html</link>
         
           <category>Careers</category>
         
@@ -48,7 +48,7 @@ Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper 
 Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://govigblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle></itunes:subtitle>
@@ -59,7 +59,7 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
       
       <item>
         <title>Building Products</title>
-        <link>localhost:4000/building-post.html</link>
+        <link>http://govigblog.com/building-post.html</link>
         
           <category>Building Products</category>
         
@@ -81,7 +81,7 @@ Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper 
 Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://govigblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle></itunes:subtitle>
@@ -92,7 +92,7 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
       
       <item>
         <title>Building Products</title>
-        <link>localhost:4000/condo-law-post.html</link>
+        <link>http://govigblog.com/condo-law-post.html</link>
         
           <category>Building Products</category>
         
@@ -114,7 +114,7 @@ Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper 
 Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://govigblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle></itunes:subtitle>
@@ -125,7 +125,7 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
       
       <item>
         <title>Building Products</title>
-        <link>localhost:4000/building-post.html</link>
+        <link>http://govigblog.com/building-post.html</link>
         
           <category>Building Products</category>
         
@@ -147,7 +147,7 @@ Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper 
 Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://govigblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle></itunes:subtitle>
@@ -158,7 +158,7 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
       
       <item>
         <title>Third Bio Pharma Post</title>
-        <link>localhost:4000/bio-pharma-post-2.html</link>
+        <link>http://govigblog.com/bio-pharma-post-2.html</link>
         
           <category>Bio Pharma</category>
         
@@ -180,7 +180,7 @@ Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper 
 Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://govigblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle></itunes:subtitle>
@@ -191,7 +191,7 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
       
       <item>
         <title>Second Bio Pharma Post</title>
-        <link>localhost:4000/bio-pharma-post.html</link>
+        <link>http://govigblog.com/bio-pharma-post.html</link>
         
           <category>Bio Pharma</category>
         
@@ -213,7 +213,7 @@ Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper 
 Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://govigblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle></itunes:subtitle>
@@ -224,7 +224,7 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
       
       <item>
         <title>First Bio Pharma Post</title>
-        <link>localhost:4000/pensions-post.html</link>
+        <link>http://govigblog.com/pensions-post.html</link>
         
           <category>Bio Pharma</category>
         
@@ -246,7 +246,7 @@ Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper 
 Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://govigblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle></itunes:subtitle>
@@ -257,7 +257,7 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
       
       <item>
         <title>Health Care</title>
-        <link>localhost:4000/health-care-post.html</link>
+        <link>http://govigblog.com/health-care-post.html</link>
         
           <category>Health Care</category>
         
@@ -279,7 +279,7 @@ Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper 
 Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://govigblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle></itunes:subtitle>
@@ -290,7 +290,7 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
       
       <item>
         <title>Futurity</title>
-        <link>localhost:4000/workers-compensation-post.html</link>
+        <link>http://govigblog.com/workers-compensation-post.html</link>
         
           <category>Futurity</category>
         
@@ -312,7 +312,7 @@ Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper 
 Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://govigblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle></itunes:subtitle>
