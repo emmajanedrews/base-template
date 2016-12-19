@@ -3,7 +3,7 @@ title: "Dave Knight Real Estate Team Video Blog"
 baseurl: ""
 # the base hostname & protocol for your site. Don't let it end in '/' or you'll mess the links up
 # Change for production:
-url: "http://beautifulpasadenahomes.com"
+url: "http://daveknightsells.com"
 
 # Build settings
 markdown: kramdown
