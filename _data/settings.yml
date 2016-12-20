@@ -1,5 +1,5 @@
 audit_header: false
-title: The Base Template
+title: "Florida's Emerald Coast Real Estate Video Blog with Nathan Abbott"
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -7,32 +7,32 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Nathan Abbott
   license_number:
   about_markdown:
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+  market: "Florida's Emerald Coast"
+  brand: Nathan Abbott Team
+  brokerage: Resort Quest Real Estate
+  address: 9657 Hwy. 98. W, Miramar Beach, FL 32550
+  phone: 850-803-7653
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Nathan@NathanAbbottTeam.com
+  url: http://www.NathanAbbottTeam.com
 
 CTAs:
   first_CTA_text: Home Evaluation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://search.nathanabbottteam.com/idx/homevaluation
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://search.nathanabbottteam.com/idx/search/advanced
   phone_CTA: true
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=72c973d97f
 
 sidebar_CTA:
-  CTA_image_path: http://fillmurray.com/350/200
+  CTA_image_path: /img/CTA1.jpg
   CTA_title: Looking to Sell a Home?
-  CTA_text: Let's talk about how Keller Williams can take your business to new heights.
+  CTA_text: "The Nathan Abbott Team is here to guide you and be your trusted real estate advisor."
   CTA_link_text: 
   CTA_url:
 
@@ -47,22 +47,22 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/NathanAbbottTeam/?ref=hl
+  linkedin_url: https://www.linkedin.com/in/nathan-abbott-04264111
   gplus_url:
   youtube_url:
   twitter_url:
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
+  zillow_url: http://www.zillow.com/profile/Nathan-Abbott-Team/
+  trulia_url: https://www.trulia.com/profile/nathan-abbott-agent-miramar-beach-fl-zgd65rtl/overview
+  yelp_url: https://www.yelp.com/biz/nathan-abbott-team-resortquest-real-estate-miramar-beach
   podcast_url:
 
 podcast:
-  title:
-  categories:
-  image:
+  title: "Florida's Emerald Coast Real Estate Podcast with Nathan Abbott"
+  categories: News &amp; Politics
+  image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
@@ -85,8 +85,8 @@ site_colors:
 
 header_shadow:
   h_shadow: 0px
-  w_shadow: 2px
-  shadow_spread: 7px
+  w_shadow: 0px
+  shadow_spread: 0px
   shadow_color: "#000"
 
 buttons:
