@@ -1245,7 +1245,7 @@ html[xmlns] .flexslider .slides {
   font-size: 18px; }
 
 .welcome-box-seen-before {
-  max-height: 500px;
+  max-height: 1000px;
   opacity: 1;
   -webkit-transform: translateX(0);
           transform: translateX(0);
@@ -1278,7 +1278,7 @@ html[xmlns] .flexslider .slides {
   100% {
     -webkit-transform: translateX(0);
             transform: translateX(0);
-    max-height: 500px; } }
+    max-height: 1000px; } }
 
 @keyframes drop-down {
   0% {
@@ -1288,12 +1288,12 @@ html[xmlns] .flexslider .slides {
   100% {
     -webkit-transform: translateX(0);
             transform: translateX(0);
-    max-height: 500px; } }
+    max-height: 1000px; } }
 @-webkit-keyframes pull-up {
   0% {
     -webkit-transform: translateX(0);
             transform: translateX(0);
-    max-height: 500px; }
+    max-height: 1000px; }
   100% {
     -webkit-transform: translateY(-1000px);
             transform: translateY(-1000px);
@@ -1302,7 +1302,7 @@ html[xmlns] .flexslider .slides {
   0% {
     -webkit-transform: translateX(0);
             transform: translateX(0);
-    max-height: 500px; }
+    max-height: 1000px; }
   100% {
     -webkit-transform: translateY(-1000px);
             transform: translateY(-1000px);
@@ -2752,7 +2752,18 @@ form select {
   transition: all 0.15s ease-out 0s; }
 
 .site-logo {
-  padding-bottom: 40px; }
+  float: right; }
+
+@media (max-width: 990px) {
+  .site-logo {
+    max-width: 500px;
+    float: none; }
+
+  .hero-img {
+    max-height: 400px; } }
+.hero-img {
+  height: 600px;
+  overflow: hidden; }
 
 .footer {
   color: #fff; }
