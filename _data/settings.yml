@@ -1,31 +1,32 @@
 audit_header: false
 title: The Base Template
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: Featured Listings
+    url: http://www.wendysellsflorida.com/featured/
 
 client:
   name: Michael Vernamonti
   license_number:
-  about_markdown:
-  market:
-  brand:
+  about_markdown: |
+    We are a husband and wife team with over 30 years experience specializing in coastal living in Southwest Florida's best-kept secret area: Englewood, Rotonda West, Cape Haze, Port Charlotte and surrounding areas. We apply our combined experience, professional strategies, and standards of excellence to meet every client's unique real estate needs. Our clients have enjoyed exceptional results through our personalized concierge approach. Because we focus on quality - not volume - our clients receive the highest level of service. We will navigate you through the buying or selling process from beginning to end.
+  market: SW Florida Coastal Communities
+  brand: Wendy Reinhardt Realty
   brokerage:
-  address:
-  phone:
-  phone_type:
-  phone2:
-  phone2_type:
-  email:
-  url:
+  address: <br>106 Kings Drive<br>Rotonda West, FL 33947<br><br>6350 Gulf of Mexico Dr., Ste. W<br>Longboat Key, FL 34228<br>
+  phone: 800-268-9747
+  phone_type: Toll Free
+  phone2: 866-609-3629
+  phone2_type: Fax
+  email: michael@WendySellsFlorida.com
+  url: http://www.wendysellsflorida.com
 
 CTAs:
-  first_CTA_text: Home Evaluation
-  first_CTA_URL: /homevalue/
+  first_CTA_text: Home Valuation
+  first_CTA_URL: http://www.wendysellsflorida.com/cma/property-valuation/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.wendysellsflorida.com/buying/
   phone_CTA: true
   VR_form:
 
@@ -71,14 +72,14 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40rem
-  hero_text: Real Estate Video Blog
+  logo_width_number: 60rem
+  hero_text:
   hero_background_hex: '#094264'
   hero_image_path: /img/background.jpg
 
 site_colors:
-  brand_color: '#094264'
-  theme_color: '#094264'
+  brand_color: '#322551'
+  theme_color: '#322551'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -87,7 +88,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: "#000"
+  shadow_color: "#fff"
 
 buttons:
   button_radius_number: 0px
