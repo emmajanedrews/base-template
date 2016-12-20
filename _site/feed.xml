@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Base Template</title>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Wendy Reinhardt Realty - your professional SW Florida Coastal Communities Real Estate Agents.</description>
+    <title>Make The Move To Florida Real Estate Video Blog</title>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Wendy Reinhardt Realty - your professional Florida Coastal Communities Real Estate Agents.</description>
     <link>localhost:5000/</link>
     <atom:link href="localhost:5000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Dec 2016 13:26:39 -0600</pubDate>
-    <lastBuildDate>Tue, 20 Dec 2016 13:26:39 -0600</lastBuildDate>
+    <pubDate>Tue, 20 Dec 2016 13:34:37 -0600</pubDate>
+    <lastBuildDate>Tue, 20 Dec 2016 13:34:37 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
