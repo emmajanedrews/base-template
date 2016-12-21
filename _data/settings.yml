@@ -15,7 +15,7 @@ client:
   license_number:
   about_markdown: |
     As expert agents in the Northern Virginia, Maryland, and Washington D.C. markets, The Gresh Group brings a wealth of knowledge and expertise about buying, selling, and renting real estate. The market is not the same across the entire board and you need someone you can trust for the most up-to-date information. That's where the team of Realtors at The Gresh Group comes in. When searching for your next home, you need someone who knows the area inside and out. The Gresh Team can work with you to find the right home at the right price for you. When it's time to move, you need someone who will advertise your home, show it to prospective buyers, and handle all the necessary paperwork. The Gresh Team can do all this and more, and are eager and ready to serve you!
-  market:
+  market: Northern Virginia
   brand: The Gresh Group
   brokerage: Keller Williams Realty
   address: 6820 Elm Street Suite 100<br>McLean, VA, 22101
@@ -27,7 +27,7 @@ client:
   url: http://www.simplyyourbestmove.com
 
 CTAs:
-  first_CTA_text: Home Evaluation
+  first_CTA_text: Home Valuation
   first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
   second_CTA_URL: /homesearch/
@@ -35,7 +35,7 @@ CTAs:
   VR_form:
 
 sidebar_CTA:
-  CTA_image_path: /img/cta-images/004.jpg
+  CTA_image_path: /img/cta-images/001.jpg
   CTA_title: Looking to Sell a Home?
   CTA_text: Let's talk about how Keller Williams can take your business to new heights.
   CTA_link_text:
@@ -76,8 +76,8 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40rem
-  hero_text: Real Estate Video Blog
+  logo_width_number: 60rem
+  hero_text:
   hero_background_hex: '#094264'
   hero_image_path: /img/background.jpg
 
@@ -92,7 +92,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: "#000"
+  shadow_color: "transparent"
 
 buttons:
   button_radius_number: 0px
