@@ -1,5 +1,5 @@
 audit_header: false
-title: The Base Template
+title: Valencia Real Estate Video Blog with Randy Plaice
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -7,33 +7,33 @@ custom_links:
     url:
 
 client:
-  name:
-  license_number:
+  name: Randy Plaice
+  license_number: "CalBRE #01863252"
   about_markdown: |
-
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    With so many Realtors out there eager for your business, what do I provide that makes me any different? Team Approach: They say "A Team Always Outperforms An Individual." The reason is simple: The business of Real Estate is a complex and broad area and you as the client deserve to be served by agents and brokers who are super specialized in the areas that matter to you. 
+  market: Valencia
+  brand: Randy Plaice &amp; Associates
+  brokerage: Re/Max of Valencia
+  address: 27720 Dickason Drive, Valencia, CA 91355
+  phone: 818-294-0414
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: team@randyplaice.com
+  url: http://www.randyplaiceandassociates.com
 
 CTAs:
   first_CTA_text: Home Evaluation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://randyplaice.com/sellers
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://randyplaice.com/search
   phone_CTA: true
   VR_form:
 
 sidebar_CTA:
-  CTA_image_path: /img/cta-images/004.jpg
+  CTA_image_path: /img/cta-images/005.jpg
   CTA_title: Looking to Sell a Home?
-  CTA_text: Let's talk about how Keller Williams can take your business to new heights.
+  CTA_text: "Get Your Home's Value"
   CTA_link_text:
   CTA_url:
 
@@ -48,22 +48,22 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/RandyPlaiceandAssociates?ref=br_rs
+  linkedin_url: https://www.linkedin.com/in/randyplaicevalenciarealestate
+  gplus_url: https://www.youtube.com/user/RandyPlaiceRealtor
+  youtube_url: https://www.youtube.com/user/RandyPlaiceRealtor
+  twitter_url: https://twitter.com/randyplaice
   instagram_url:
-  pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
+  pinterest_url: https://www.pinterest.com/randyplaice/
+  zillow_url: http://www.zillow.com/profile/Randy-Plaice/
+  trulia_url: https://www.trulia.com/profile/randy-plaice-agent-valencia-ca-zgkp29j7/overview
+  yelp_url: https://www.yelp.com/biz/randy-plaice-and-associates-re-max-of-valencia-valencia
   podcast_url:
 
 podcast:
-  title:
-  categories:
-  image:
+  title: Valencia Real Estate Video Blog with Randy Plaice
+  categories: News &amp; Politics
+  image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
@@ -78,8 +78,8 @@ images:
   hero_image_path: /img/background.jpg
 
 site_colors:
-  brand_color: '#094264'
-  theme_color: '#094264'
+  brand_color: '#04BCA8'
+  theme_color: '#04BCA8'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
