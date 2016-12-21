@@ -2,71 +2,278 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Base Template</title>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</description>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Gresh Group - your professional  Real Estate Agents.</description>
     <link>localhost:5000/</link>
     <atom:link href="localhost:5000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Dec 2016 13:47:03 -0600</pubDate>
-    <lastBuildDate>Tue, 20 Dec 2016 13:47:03 -0600</lastBuildDate>
+    <pubDate>Wed, 21 Dec 2016 12:13:18 -0600</pubDate>
+    <lastBuildDate>Wed, 21 Dec 2016 12:13:18 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>this is a test post</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SFFy_drFrZs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>We Hope Your Holiday Season Is Wonderful</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/jDOYAd5b714&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps &lt;strong&gt;gastropub marfa r&lt;/strong&gt;etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.&lt;/p&gt;
+&lt;p&gt;This time of year can get very busy, but we wanted to make sure we reached out to send you a special holiday message.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Bushwick&lt;/em&gt; &lt;a href=&quot;'http://google.com'&quot;&gt;marfa&lt;/a&gt; wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.&lt;/p&gt;
+&lt;p&gt;Adam and Emma are here with our dog, Jack, to wish you a merry Christmas and happy New Year. From our house to yours, we hope your holiday season is wonderful.&lt;/p&gt;
 
-&lt;p&gt;Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This is an example of a pull quote%20localhost:5000/this-is-a-test.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This is an example of a pull quote”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.&lt;/p&gt;
-
-&lt;p&gt;Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…&lt;/p&gt;
+&lt;p&gt;We appreciate all of your continued support, and we look forward to helping you in the future. If you have any questions for us, you can always give us a call or send us an email. We look forward to hearing from you soon.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 04 Oct 2016 00:00:00 -0500</pubDate>
-        <link>localhost:5000/this-is-a-test.html</link>
-        <guid isPermaLink="true">localhost:5000/this-is-a-test.html</guid>
-        
-        <category>Market Update</category>
+        <pubDate>Mon, 19 Dec 2016 13:29:00 -0600</pubDate>
+        <link>localhost:5000/northern-virginia-real-estate-agent-1.html</link>
+        <guid isPermaLink="true">localhost:5000/northern-virginia-real-estate-agent-1.html</guid>
         
         <category>Real Estate</category>
-        
-        <category>Buyer Tips</category>
-        
-        <category>Home Seller Tips</category>
         
         
       </item>
     
       <item>
-        <title>this is a test</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SFFy_drFrZs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>What Really Matters in Your McLean House Hunt?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/V5CJ-3jkRPs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps &lt;strong&gt;gastropub marfa r&lt;/strong&gt;etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.&lt;/p&gt;
+&lt;p&gt;We see a wide range of buyers, from those who want homes of a very specific size, style and architectural design, to buyers who simply want four walls, a roof, and electricity for their next home.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Bushwick&lt;/em&gt; &lt;a href=&quot;'http://google.com'&quot;&gt;marfa&lt;/a&gt; wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.&lt;/p&gt;
+&lt;p&gt;Most clients are somewhere in the middle - they’re looking for a home that looks good and has most of the features they want.&lt;/p&gt;
 
-&lt;p&gt;Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.&lt;/p&gt;
+&lt;p&gt;You’ve probably looked at houses and checked off a few boxes, making sure it has the number of bedrooms and bathrooms you want, but have you ever looked at a home and really thought, “Is this house right for me?”&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This is an example of a pull quote%20localhost:5000/a-fox-in-space.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This is an example of a pull quote”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Not many do. That’s why I wanted to share a Consumer Reports video with you that I recently found. It’s a nice checklist to go through in order to make sure the home you’re considering actually fits you and your lifestyle. Here are my favorite items:&lt;/p&gt;
 
-&lt;p&gt;Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Communicate with people at the local coffee shop or any place where locals hang out. Simply ask their thoughts on the area.&lt;/li&gt;
+  &lt;li&gt;You can tell a lot about the sense of community in a neighborhood based on the sidewalks and porches. Seriously!&lt;/li&gt;
+  &lt;li&gt;Proximity to places and amenities you frequent shouldn’t be overlooked. Do you want to be close to restaurants and shops, the airport, or parks and trails?&lt;/li&gt;
+  &lt;li&gt;Mortgage cost shouldn’t be the only factor when considering affordability. Look at transportation and utility costs too, for example.&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…&lt;/p&gt;
+&lt;p&gt;Remember, the average McLean homeowner will stay in their home for about nine years. Don’t ignore the important checklist items when considering the place you’ll call home for nearly a decade.&lt;/p&gt;
+
+&lt;p&gt;Now, this example is pretty broad. Each family has its own unique situation and its own unique checklist. I’d love to sit down with you and use my experience to help you come up with that all-important checklist of your own to help find the right home for you. Give me a call or send me an email and let’s talk soon.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 28 Sep 2016 00:00:00 -0500</pubDate>
-        <link>localhost:5000/a-fox-in-space.html</link>
-        <guid isPermaLink="true">localhost:5000/a-fox-in-space.html</guid>
+        <pubDate>Thu, 25 Aug 2016 12:22:00 -0500</pubDate>
+        <link>localhost:5000/this-is-what-really-matters-in-house_25.html</link>
+        <guid isPermaLink="true">localhost:5000/this-is-what-really-matters-in-house_25.html</guid>
         
-        <category>Market Update</category>
+        <category>Home Buyer Tips</category>
         
-        <category>Real Estate</category>
         
-        <category>Buyer Tips</category>
+      </item>
+    
+      <item>
+        <title>How to Avoid the Biggest Remodeling Mistakes</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/fioLohO9avc&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;I recently came across a great video from Consumer Reports about home updates and remodels that I just had to share with you.&lt;/p&gt;
+
+&lt;p&gt;Did you know that some of the best upgrades to add value to your home are actually some of the smallest ones? Big changes like a new addition won’t always make you all of your money back.&lt;/p&gt;
+
+&lt;p&gt;This video is all about seeking the help of professionals when you want to make updates, repairs, or remodels on your home. If you’ve been in your house for more than a few years, odds are that the value of your house could improve with some upgrading or remodeling.&lt;/p&gt;
+
+&lt;p&gt;Now, it doesn’t always have to be expensive, but it’s important that you do it right. In this market, there is a lot of money to be made with the right upgrades.&lt;/p&gt;
+
+&lt;p&gt;Whether you want to make your home more valuable because you’re thinking about selling and want to get top dollar, or you just want to add to future resale value, it’s important to avoid falling into a money pit.&lt;/p&gt;
+
+&lt;p&gt;Start by figuring out what you want to accomplish. For most people, that starts with finding out the value of their home at this time. That will go a long way in determining what kind of investment you should make in order to maximize the value of your home for the least amount of money.&lt;/p&gt;
+
+&lt;p&gt;For an accurate idea of your home’s value, use our free home market analysis tool. Send info like the number of bedrooms and bathrooms, along with a few photos of your home - especially the important rooms like the kitchen and master bedroom - and we can quite accurately predict your home’s selling price, too.&lt;/p&gt;
+
+&lt;p&gt;The estimate won’t be perfect, but it will be extremely close.&lt;/p&gt;
+
+&lt;p&gt;We can recommend upgrades or remodels that will bring you the best return on every dollar. As the Consumer Reports video shows, a survey of 300 contractors revealed that homeowners changing their minds in the middle of a job can increase costs by 10%!&lt;/p&gt;
+
+&lt;p&gt;Similarly, don’t waste your time with a contractor who isn’t licensed. Accredited contractors are better at keeping the cost to you down when you come across budget overruns. Since many hidden costs come from unseen structural problems, a pre-inspection may be your best bet to help you find out what you’re getting yourself into with a big project.&lt;/p&gt;
+
+&lt;p&gt;Finally, we see that their survey showed that many contractors are, in fact, willing to haggle on an estimate. Your odds are better if you’re a repeat customer or are having work done on multiple rooms.&lt;/p&gt;
+
+&lt;p&gt;You can see the full video &lt;a href=&quot;https://www.youtube.com/watch?v=fioLohO9avc&amp;amp;feature=youtu.be&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As an expert in the Northern Virginia market, I can also help you pinpoint areas of your home that will maximize your return when it comes to upgrades and remodels. I know exactly what buyers in the area want and can tell you exactly where your money is best spent to get the most out of your home. Send me an email, give me a call, or check out our &lt;a href=&quot;http://www.simplyyourbestmove.com/sell/&quot;&gt;free home market analysis tool&lt;/a&gt; to get the conversation started.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 09 Aug 2016 12:18:00 -0500</pubDate>
+        <link>localhost:5000/how-to-avoid-biggest-remodeling-mistakes.html</link>
+        <guid isPermaLink="true">localhost:5000/how-to-avoid-biggest-remodeling-mistakes.html</guid>
         
-        <category>Home Seller Tips</category>
+        <category>Homeowner Tips</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>A New Review Website We Recommend</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/V_Rz2O_g-ro&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;As part of our commitment to customer service, we wanted to share with you a website we found that we think could be a great resource for any consumer.&lt;/p&gt;
+
+&lt;p&gt;The website is &lt;a href=&quot;http://www.reviews.com&quot;&gt;www.reviews.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;What they do on this site is review various products and industries, and they state that it’s unbiased research. We like that!&lt;/p&gt;
+
+&lt;p&gt;We found reviews.com when looking at homeowner’s insurance. They did a review of 99 homeowners insurance companies and used the industry’s own rating standards to rank these companies. We think it’s a value to you as anyone buying or renting a home who is looking for homeowner’s insurance, HO6 insurance, or renter’s insurance.&lt;/p&gt;
+
+&lt;p&gt;To learn more about homeowner’s insurance specifically, check out this article.&lt;/p&gt;
+
+&lt;p&gt;For all of your real estate needs from buying to selling please feel free to reach out with any questions.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 13 May 2016 14:30:00 -0500</pubDate>
+        <link>localhost:5000/northern-virginia-real-estate-valuable.html</link>
+        <guid isPermaLink="true">localhost:5000/northern-virginia-real-estate-valuable.html</guid>
+        
+        <category>Northern Virginia Real Estate Buyer Tips</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Is Waiting to Buy or Sell a Good Idea?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/4bO2L6w9bN0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;A question I am often asked by buyers and sellers is, “Should I wait until next year to buy or sell my home?” It’s a difficult question to answer, and if I knew the future, I’d be the first one to tell you exactly what to do. What I do know, however, is that there is a cost to waiting to buy a property.&lt;/p&gt;
+
+&lt;p&gt;We have no idea where interest rates are going to go, but we do know that right now they are the lowest they’ve been in a long time. We are currently on the back-end of an 8-year increase in home prices, but we’ve never seen a 9- or 10-year period of increases in history. At some point, the market is going to flatten out, and so are home prices. Another sign of an impending market slowdown is the fact that our average days on market is up. More units are being sold, but they are taking longer to sell.&lt;/p&gt;
+
+&lt;p&gt;If you’re thinking about buying, you’ve got to do so before rates go up and if you’ve been thinking about selling, now is the time to get your home on the market. Prices are going to flatten out and rates are going to go up. You want to be ahead of that curve. If you’re thinking about making a move, I would be happy to have a conversation with you where we can talk about the options you have right now, and why they are only going to get worse in the future. Just give me a call or send me an email. I look forward to hearing from you!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 Apr 2016 13:48:00 -0500</pubDate>
+        <link>localhost:5000/northern-virginia-real-estate-agent-5.html</link>
+        <guid isPermaLink="true">localhost:5000/northern-virginia-real-estate-agent-5.html</guid>
+        
+        <category>Northern Virginia Real Estate Seller Tips</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Why You Should Own, Not Rent</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/q6BPh8e_UUk&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Today, we’ll address why it’s better to own rather than rent in Northern Virginia.&lt;/p&gt;
+
+&lt;p&gt;The reality is, you have to live somewhere. You’re either submitting a monthly payment to a landlord or paying off a mortgage every month. It’s far better to pay off your own mortgage than someone else’s!&lt;/p&gt;
+
+&lt;p&gt;A mortgage allows a tax deduction, and that savings is huge for you! Whenever I help a first-time home buyer, they’re always shocked and delighted to see the tax savings by deducting mortgage interest. It’s incredibly rewarding.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 22 Mar 2016 14:41:00 -0500</pubDate>
+        <link>localhost:5000/northern-virginia-real-estate-agent_22.html</link>
+        <guid isPermaLink="true">localhost:5000/northern-virginia-real-estate-agent_22.html</guid>
+        
+        <category>Northern Virginia Real Estate Buyer Tips</category>
+        
+        
+      </item>
+    
+      <item>
+        <title> The Latest News on Interest Rates for Northern Virginia</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/soR-smR7Gq0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Surprisingly, interest rates are still historically low. Many economic experts predicted interest rates would increase steadily through 2016. However, due to the combination of volatile economic reports and our falling stock market, we’ve actually seen interest rates decline.&lt;/p&gt;
+
+&lt;p&gt;No one really knows what will happen next. What we do know is that rates are the lowest they have been since April of 2015. Many of the experts in the industry still expect interest rates will rise throughout 2016, but nobody knows for sure. Not the National Association of Realtors, nor Fannie Mae, nor Freddie Mac.&lt;/p&gt;
+
+&lt;p&gt;What you need to know is that rates are incredibly low. Read more about it in this article here. If you’ve been thinking about buying or selling, now is the time to take action. If you have any questions, give me a call or send me an email. I would be happy to help you!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 07 Mar 2016 10:50:00 -0600</pubDate>
+        <link>localhost:5000/northern-virginia-real-estate-agent-4.html</link>
+        <guid isPermaLink="true">localhost:5000/northern-virginia-real-estate-agent-4.html</guid>
+        
+        <category>Northern Virginia Real Estate Market Update</category>
+        
+        
+      </item>
+    
+      <item>
+        <title> What Do Good Northern Virginia Agents Do While You're Not Looking?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/RVtSgR0yqBw&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Whether you’re buying or selling a home, we are always looking at market trends – what homes are being sold and what homes are failing to sell. We are working constantly behind the scenes in order to help you get the real estate results you desire.&lt;/p&gt;
+
+&lt;p&gt;We prospect every day. We call buyers and sellers constantly to see if we can find the perfect match for you. If you’re a seller, I’m calling buyers to tell them about your property and to see if there is anyone looking for a place like yours. If you’re buying, I call sellers to see if there is anyone selling a home that fits your wants and needs.&lt;/p&gt;
+
+&lt;p&gt;We also talk to a lot of other agents. We do something called brokers opens, which allows us to see a lot of different homes very quickly. During these opens, we talk to other agents to see what homes they have coming onto the market and to promote our own listings to them. It’s a great exchange of information among professionals in the field, and it all benefits you, the client!&lt;/p&gt;
+
+&lt;p&gt;We also spend our money on marketing. Before we get paid, we are putting our time and money on the line to get our clients’ homes bought or sold. We have professional stagers and photographers we employ for your benefit, all before getting paid!&lt;/p&gt;
+
+&lt;p&gt;We help the transaction go through as smooth as possible. There are a lot of potential road bumps that could derail a transaction, but we have the experience and the strategies to ensure a successful closing. To find out more of what we do behind the scenes, read this article.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions about the other things we do behind your back to ensure the process is as stress-free as possible, please don’t hesitate to reach out to us. We would love to help you soon!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 15 Feb 2016 15:47:00 -0600</pubDate>
+        <link>localhost:5000/northern-virginia-real-estate-agent_15.html</link>
+        <guid isPermaLink="true">localhost:5000/northern-virginia-real-estate-agent_15.html</guid>
+        
+        <category>Northern Virginia Real Estate</category>
+        
+        
+      </item>
+    
+      <item>
+        <title> What's the Secret to a Great First Impression When Selling in Northern Virginia?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/8c-50pf0Z4A&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;The first thing a buyer is going to see when they drive up to your house is the outside. Are the shrubs crisp and trim? Do you have fresh mulch and colorful flowers? Make sure you have done these things and that the door is clean and in good condition.&lt;/p&gt;
+
+&lt;p&gt;Once you’ve made a good first impression on the exterior of your home, you need to focus on the inside. Have you decluttered and depersonalized your home? Make sure your home is clear and clean!&lt;/p&gt;
+
+&lt;p&gt;Another thing you need to do is neutralize paint and carpet colors. Loud colors will scare many buyers away, and neutral colors will appeal to the widest number of buyers. Also, be sure to open up your window shades to let in light and to make your home feel airy and fresh. Let the sun shine through your windows!&lt;/p&gt;
+
+&lt;p&gt;Finally, a high impact and inexpensive thing you can do is replace faucets, fixtures, and switches. Light switches get very dirty and worn over the years, so think about replacing them. Updating faucets is another way to make your home pop and really draw buyers in.&lt;/p&gt;
+
+&lt;p&gt;When selling this spring, remember that first impressions matter. If you would like additional help getting your home in tip-top shape for the spring selling season, please don’t hesitate to reach out to us. We would love to hear from you!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 02 Feb 2016 12:37:00 -0600</pubDate>
+        <link>localhost:5000/northern-virginia-real-estate-agent-3.html</link>
+        <guid isPermaLink="true">localhost:5000/northern-virginia-real-estate-agent-3.html</guid>
+        
+        <category>Northern Virginia Real Estate Seller Tips</category>
+        
+        
+      </item>
+    
+      <item>
+        <title> Get Your Northern Virginia House in Shape!</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/HEuEfwWMUsw&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;One of the most common questions I am asked is “what do I need to do to get my home ready to go on the market?” Today I’m going to show you the things you should do to prepare your home before putting it for sale!&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tally the age of various items
+ Make a list of what you have in your house and the age of the systems, roof, etc. How long items last depends on a lot of factors such as the model and how well it’s been maintained, but you can get a general idea of average life span from the National Association of Home Builders. For example:
+Wood shingle and shake roof: 15 to 30 years
+Central air-conditioning unit: 15 years
+Electric water heater: 14 years
+Gutters: 30 years&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Do your own walk-through
+Look for common problem spots:
+Wood rot around outside door frames, window ledges, and garage doors. Condensation and rain can cause these areas to weaken and rot.
+Water stains on the ceiling or near doors and windows. This can indicate a leaky roof or rain seeping in from outside.
+Leaks under sinks or around toilets.
+Bulges under carpet or discoloration on hardwood floors, which can indicate flooding problems or an uneven foundation.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Next, test what’s called the “functionality” in every room. Things like visible cracks in the walls and tile or hardwood floors, doors that don’t shut correctly, broken cabinet handles, etc. Essentially, anything that doesn’t function well should be fixed. Don’t forget to inspect the outside!&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Bring in the pros
+Once you’ve done your own walk-through, you may want to have a pro take a second look. These people can spot flaws you overlooked, because either you’re used to them or you didn’t realize they could cause trouble. We can help you to hire a home inspector to do a pre-inspection and find out what potential buyers might find when they do their home inspection.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Decide what needs renovating
+For example, a recent study by the National Association of Realtors found that upgrading hardwood floors reaps an estimated 100% return on investment, essentially paying for itself. Upgrading your insulation can net you a 95% ROI, a new roof a whopping 105%! Because what buyers don’t like to know they’ve got a solid roof over their heads?&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Most importantly, you should work with a professional Realtor like me to help you go through the process of preparing your home to go on the market. If you have any questions, please don’t hesitate to give me a call or send me an email. I would be happy to help you!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 20 Jan 2016 14:11:00 -0600</pubDate>
+        <link>localhost:5000/northern-virginia-real-estate-agent-so_20.html</link>
+        <guid isPermaLink="true">localhost:5000/northern-virginia-real-estate-agent-so_20.html</guid>
+        
+        <category>Northern Virginia Real Estate Seller Tips</category>
         
         
       </item>
