@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>The Real Estate Pros Podcast with Heather Upton</title>
-    <link>localhost:5000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:5000"/>
+    <link>http://therealestateprosvideoblog.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://therealestateprosvideoblog.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Real Estate Pros - your professional Pendleton Area Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Heather Upton</managingEditor>
-    <lastBuildDate>2016-11-28 12:52:08 -0600</lastBuildDate>
+    <lastBuildDate>2016-12-21 15:50:16 -0600</lastBuildDate>
     <media:copyright>Heather Upton</media:copyright>
-    <media:thumbnail url="localhost:5000/img/Upton_Podcast.jpg"/>
+    <media:thumbnail url="http://therealestateprosvideoblog.com/img/Upton_Podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in the Pendleton Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
@@ -18,15 +18,15 @@
     </itunes:owner>
     <itunes:author>Heather Upton</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:5000/img/Upton_Podcast.jpg"/>
+    <itunes:image href="http://therealestateprosvideoblog.com/img/Upton_Podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in the Pendleton Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Pendleton Area Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Real Estate Pros - your professional Pendleton Area Real Estate Agents.</itunes:summary>
       <itunes:category text="News &amp; Politics"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>localhost:5000/this-is-a-test.html</link>
+        <title>What’s Happening in the  Market?</title>
+        <link>http://therealestateprosvideoblog.com/whats-happening-in-the-market.html</link>
         
           <category>Market Update</category>
         
@@ -38,67 +38,32 @@
         
         <author>Heather Upton</author>
         <pubDate>2016-10-04 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <guid>http://vyralmarketing.s3.amazonaws.com/Heather%20Upton/The%20Real%20Estate%20Pros-%20Whats%20Happening%20in%20the%20our%20local%20real%20estate%20Market%253F.mp4</guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+What’s going on in the real estate market right now?
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+First, we are currently in a seller’s market.This means that there are fewer houses listed on the market than there are buyers to purchase those homes.
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+Due to the low number of homes on the market for sale, the prices for the properties available have increased. Home sellers can sell their house right now for top dollar and get full asking price for their home. In some cases, they’ll even get above asking price.
 
-“This is an example of a pull quote”
+What should you do if you’re a home buyer in a hot seller’s market like this one? First of all, you’ll need to act fast. If or when you see a property on the market that you’re interested in, make sure you’re ready to make a decision.
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+Due to the limited inventory, you’ll also probably have less negotiating power than you would in a balanced market. This means that you’ll probably have to pay full price for the home you want. If you’re in a multiple offer situation, you may even need to pay above asking price.
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+Interest rates are still very low, however, which has a positive effect on your buying power. Even if you end up paying full asking price or above for a home, it’s still likely that your monthly mortgage payment for the home will be affordable.
+
+“Low interest rates mean that homes are still very affordable.”
+
+If you’re thinking about buying or selling a home in the our market or you have any questions about buying or selling real estate in the area, give me a call or send me an email. I’d be happy to help you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:5000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="http://vyralmarketing.s3.amazonaws.com/Heather%20Upton/The%20Real%20Estate%20Pros-%20Whats%20Happening%20in%20the%20our%20local%20real%20estate%20Market%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://therealestateprosvideoblog.com" height="72" width="72"/>
+        <media:content url="http://vyralmarketing.s3.amazonaws.com/Heather%20Upton/The%20Real%20Estate%20Pros-%20Whats%20Happening%20in%20the%20our%20local%20real%20estate%20Market%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Pendleton Area Area Real Estate Market</itunes:subtitle>
         <itunes:author>Heather Upton</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in the Pendleton Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-      </item>
-      
-      <item>
-        <title>this is a test</title>
-        <link>localhost:5000/a-fox-in-space.html</link>
-        
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
-        
-          <category>Buyer Tips</category>
-        
-          <category>Home Seller Tips</category>
-        
-        <author>Heather Upton</author>
-        <pubDate>2016-09-28 00:00:00 -0500</pubDate>
-        <guid></guid>
-        <description>
-
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
-
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
-</description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:5000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Pendleton Area Area Real Estate Market</itunes:subtitle>
-        <itunes:author>Heather Upton</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>We are in a hot seller’s market right now. Here is what that means for home buyers and sellers.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in the Pendleton Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
