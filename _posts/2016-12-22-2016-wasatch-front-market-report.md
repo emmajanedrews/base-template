@@ -21,7 +21,7 @@ youtube_code: 8Fem0C5oZuk
 
 As the year comes to a close, it’s time to take a look at the 2016 report card for the Wasatch Front home sales.
 
-The Wasatch Front sales volume for single family homes is nearly the same this year as it was in 2015. That’s 29,000 single family homes that have sold, which is very strong. In fact our strongest sales year was in 2006, when 29,300 homes were sold. &nbsp;
+The Wasatch Front sales volume for single family homes is nearly the same this year as it was in 2015. That’s 29,000 single family homes that have sold, which is very strong. In fact our strongest sales year was in 2006, when 29,300 homes were sold.
 
 Our average sale price along the Wasatch Front in 2015 was $285,250 and in 2016 it is just over $305,000, which is a 7% increase. If we adjust for inflation, we are actually above pre recession pricing.
 
