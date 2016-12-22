@@ -32,8 +32,8 @@ CTAs:
 
 sidebar_CTA:
   CTA_image_path: /img/cta-side.jpg
-  CTA_title: Looking to Sell a Home?
-  CTA_text: Let's talk about how Keller Williams can take your business to new heights.
+  CTA_title: Looking to Buy a Home?
+  CTA_text: Search the entire MLS for homes located in the -- MARKET --
   CTA_link_text: Home Search Tool
   CTA_url: http://www.wendysellsflorida.com/buying/
 
