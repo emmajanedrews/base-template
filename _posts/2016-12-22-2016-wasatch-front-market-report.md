@@ -17,6 +17,8 @@ youtube_code: 8Fem0C5oZuk
 ---
 
 
+{% include youtube.html %}
+
 *Here’s a look at what is happening in the Wasatch Front real estate market.*
 
 As the year comes to a close, it’s time to take a look at the 2016 report card for the Wasatch Front home sales.
@@ -26,8 +28,6 @@ The Wasatch Front sales volume for single family homes is nearly the same this y
 Our average sale price along the Wasatch Front in 2015 was $285,250 and in 2016 it is just over $305,000, which is a 7% increase. If we adjust for inflation, we are actually above pre recession pricing.
 
 Condos and townhomes have been off the charts. There has been about an 18% increase in sales between 2015 and 2016. 2015 was already a record year, so this year has been phenomenal.
-
-{% include youtube.html %}
 
 First-time home buyers should buy before a rate increase.
 
