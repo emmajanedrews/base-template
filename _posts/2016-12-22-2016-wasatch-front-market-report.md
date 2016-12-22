@@ -11,7 +11,7 @@ enclosure:
 pullquote: First-time home buyers should buy before a rate increase.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image:
 youtube_code: 8Fem0C5oZuk
 ---
