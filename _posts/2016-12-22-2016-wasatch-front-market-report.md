@@ -9,7 +9,7 @@ tags:
 excerpt:
 enclosure:
 pullquote: First-time home buyers should buy before a rate increase.
-enclosure_type: video/mp4
+enclosure_type: 'https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/Salt+Lake+County+Real+Estate+Agent-+2016+Wasatch+Front+Market+Report.mp4'
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image:
