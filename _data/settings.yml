@@ -34,8 +34,8 @@ sidebar_CTA:
   CTA_image_path: /img/cta-side.jpg
   CTA_title: Looking to Sell a Home?
   CTA_text: Let's talk about how Keller Williams can take your business to new heights.
-  CTA_link_text:
-  CTA_url:
+  CTA_link_text: Home Search Tool
+  CTA_url: http://www.wendysellsflorida.com/buying/
 
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
