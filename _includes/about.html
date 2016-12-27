@@ -26,7 +26,9 @@
 				{% if site.data.settings.client.brokerage != null %}
 				{{ site.data.settings.client.brokerage }}<br />
 				{% endif %}
+				{% if site.data.settings.client.address != null %}
 				{{ site.data.settings.client.address }}<br />
+				{% endif %}
 				{% if site.data.settings.client.phone2 != null %}
 				{{ site.data.settings.client.phone_type }}: {{ site.data.settings.client.phone }}<br />
 				{{ site.data.settings.client.phone2_type }}: {{ site.data.settings.client.phone2 }}<br />

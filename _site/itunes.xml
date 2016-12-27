@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title></title>
+    <title>Northern Virginia Real Estate Podcast with Doug Elliott</title>
     <link>localhost:4000</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</description>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Elliott Team Realtors - your professional Northern Virginia Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>-- CLIENT NAME --</managingEditor>
-    <lastBuildDate>2016-12-22 16:56:23 -0600</lastBuildDate>
+    <lastBuildDate>2016-12-27 13:27:46 -0600</lastBuildDate>
     <media:copyright>-- CLIENT NAME --</media:copyright>
     <media:thumbnail url="localhost:4000"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
-      <itunes:email></itunes:email>
+      <itunes:email>Doug@ElliottTeamRealtors.com</itunes:email>
       <itunes:name>-- CLIENT NAME --</itunes:name>
     </itunes:owner>
     <itunes:author>-- CLIENT NAME --</itunes:author>
@@ -21,37 +21,29 @@
     <itunes:image href="localhost:4000"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</itunes:summary>
+    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Elliott Team Realtors - your professional Northern Virginia Real Estate Agents.</itunes:summary>
       <itunes:category text="News &amp; Politics"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>localhost:4000/this-is-a-test.html</link>
+        <title>Thanks for Your Support This Year!</title>
+        <link>localhost:4000/thanks-for-your-support-this-year.html</link>
         
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
-        
-          <category>Buyer Tips</category>
-        
-          <category>Home Seller Tips</category>
+          <category>General</category>
         
         <author>-- CLIENT NAME --</author>
-        <pubDate>2016-10-04 00:00:00 -0500</pubDate>
+        <pubDate>2016-12-19 09:49:00 -0600</pubDate>
         <guid></guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+I just wanted to take a minute to stop and express our sincerest gratitude for the relationship we’ve developed with you. We greatly appreciated your business and support in 2016 and in years past.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+As we spend time with our families this season, it’s a great time to reflect on the importance of relationships.
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+“Thank you for your continued support.”
 
-“This is an example of a pull quote”
+We wish you and your family a very Merry Christmas and a Happy New Year!
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+When it comes to any real estate needs you have, remember, you have a friend in the business!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
@@ -59,38 +51,40 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
         <itunes:author>-- CLIENT NAME --</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>I wanted to take a moment today to step back from real estate and just say thanks. We appreciate your continued support this year!</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>this is a test</title>
-        <link>localhost:4000/a-fox-in-space.html</link>
-        
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
-        
-          <category>Buyer Tips</category>
+        <title>What Do You Need to Do to Prepare for the Spring Market? </title>
+        <link>localhost:4000/what-do-you-need-to-do-to-prepare-for.html</link>
         
           <category>Home Seller Tips</category>
         
         <author>-- CLIENT NAME --</author>
-        <pubDate>2016-09-28 00:00:00 -0500</pubDate>
+        <pubDate>2016-12-13 11:39:00 -0600</pubDate>
         <guid></guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+If you want to sell in the springtime, what are the first steps that you need to take? When do you need to take them?
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+The very first thing you need to do is determine when the spring market begins. A lot of people operate under the misconception that the spring market starts in April and continues from there. The reality is that the spring market starts right after the Super Bowl weekend. So after the Redskins win the Super Bowl on February 5th, you want your house to be on the market on February 12th.
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+Why do you want to be on the market so early? Most people put their house on the market later in the spring, which means you will have a lot of competition. In February, buyers have already started searching. They are looking to buy a house and inventory is low, which puts you in a great position to sell more quickly and for more money.
 
-“This is an example of a pull quote”
+“Call your Realtor at least a couple months ahead of time.”
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+Now that you know when the market begins, what do you do? The first thing you should do is call your Realtor. We’ll go through your exact timeline, give you an overview of the process, and figure out what your goals are.
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+Ideally, we’ll meet two months before you put your home on the market. There are 83 steps in our sales process from the initial phone call to putting your house on the market. We want to start taking you through this process as soon as possible so that it’s not stressful and overwhelming. We want to have a plan in place so that you know exactly what to do and when to do it.
+
+After that initial call, we’ll meet with you, put together a market analysis, and get a stager out to your house. We’ll put together a detailed report of items that need to be addressed before you go on the market. There are things that you can do to maximize your return on the sale of your home. You may need to paint, update the flooring, clean, and declutter in order to get the most money from your home sale.
+
+Once those things have been taken care of, a professional photographer will come in and take photos. We even do a 3-D scan for some of our listings. From there, we will execute our pre-listing marketing program.
+
+If you’re in a crunch, we can get a house on the market in three days. However, we’d rather not do that. We want enough time to do all the steps properly to maximize the amount of money you’ll get for the home, and we want you to have a stress-free experience.
+
+So, if you are thinking of putting your home on the market, give us a call or send us an email. We would be happy to help you get started!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
@@ -98,13 +92,481 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
         <itunes:author>-- CLIENT NAME --</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>If you are planning on selling in the spring, when do you need to start preparing? What are the first steps you need to take? We’ll go over everything today.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>The Difference Between Home Inspections & Appraisals</title>
+        <link>localhost:4000/the-difference-between-home-inspections.html</link>
+        
+          <category>Real Estate Tips</category>
+        
+        <author>-- CLIENT NAME --</author>
+        <pubDate>2016-11-29 16:10:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+What is the difference between a home inspection and an appraisal? Both are crucial elements of the home buying process, but they are not the same thing at all.
+
+First, let’s look at home inspections. When you buy a home, once the contract is ratified, you will order a home inspection. You will pay a professional inspector to go through the home and look for defective items, marginal items, and acceptable items. The inspector will give you a full report of any issues they find in the home, and you then have the opportunity to ask the seller to fix or replace certain items. The home inspection is there to protect the buyer.
+
+Most of the time, buyers get a loan or mortgage through a bank or lender. The lender will order an appraisal in order to make sure that the loan amount lines up with the value of the property. The appraiser will find what the bank considers to be the true market value of the home so that you, the buyer, won’t overpay.
+“A home inspection lets the buyer know if there are any issues with the property.”
+Sometimes, homes don’t appraise. For example, one of our buyers made an offer of $610,000 and the seller accepted. When the appraisal came back, however, the property was only valued at $600,000. There are a few different things that can happen:
+
+
+  The buyer can pay the $10,000 difference out of their own pocket.
+  The seller can reduce the sales price to match the appraisal price.
+  The buyer and seller can meet somewhere in the middle. This is the most common course of action.
+  If neither side can reach an agreement, you can walk away from the transaction.
+
+
+You won’t lose your deposit by walking away from the transaction. The appraisal is there to protect everyone. You simply won’t close on that property.
+
+That is the difference between a home inspection and a home appraisal. If you have any questions about the buying or selling process, just give us a call or send us an email. We would be happy to help you!
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
+        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:summary>What is the difference between a home inspection and an appraisal? We’ll go over everything you need to know today.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title> How The Elliott Team Helped Claudia Sell her Home</title>
+        <link>localhost:4000/how-elliott-team-helped-claudia-sell.html</link>
+        
+          <category>Testimonial</category>
+        
+        <author>-- CLIENT NAME --</author>
+        <pubDate>2016-11-23 15:01:00 -0600</pubDate>
+        <guid></guid>
+        <description>“For the team they constantly check in and give advice on selling and so they got  tips for us on how to attract more people to come to the house we were selling.”
+</description>
+        <enclosure url="" length="" type=""/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type=""/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
+        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:summary>“For the team they constantly check in and give advice on selling and so they got  tips for us on how to attract more people to come to the house we were selling.”
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How The Elliott Team Negotiated on Behalf of Dane</title>
+        <link>localhost:4000/how-elliott-team-negotiated-on-behalf.html</link>
+        
+          <category>Testimonial</category>
+        
+        <author>-- CLIENT NAME --</author>
+        <pubDate>2016-11-23 14:57:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+“I got a house, pretty quick, within a week. And it was the house we really wanted. The process was really smooth, he worked very well with the seller in pretty much making sure he represented our best interests and getting us the best results. I would say just A+ across the board. We actually had an appraisal issue with the house so the house actually came in $7000 below what we offered. And originally we were thinking it was going to come down to some type of split but Doug really negotiated and kind of used some of the good faith and honorable type of lingo I guess to get the sellers to actually cover the entire appraisal because we really didn’t want our closing costs to go up. So that really saved us some money both on closing and also the full purchase of the house. “
+</description>
+        <enclosure url="" length="" type=""/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type=""/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
+        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:summary>
+“I got a house, pretty quick, within a week. And it was the house we really wanted. The process was really smooth, he worked very well with the seller in pretty much making sure he represented our best interests and getting us the best results. I would say just A+ across the board. We actually had an appraisal issue with the house so the house actually came in $7000 below what we offered. And originally we were thinking it was going to come down to some type of split but Doug really negotiated and kind of used some of the good faith and honorable type of lingo I guess to get the sellers to actually cover the entire appraisal because we really didn’t want our closing costs to go up. So that really saved us some money both on closing and also the full purchase of the house. “
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Will Your Home Be Safe When You’re Away During the Holidays? </title>
+        <link>localhost:4000/will-your-home-be-safe-when-youre-away.html</link>
+        
+          <category>Real Estate Tips</category>
+        
+        <author>-- CLIENT NAME --</author>
+        <pubDate>2016-11-17 12:55:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+A lot of people travel during the holiday season, so today, we’re here with the top five tips to keep your home safe while you’re away.
+
+1. Implement new technology. WiFi doorbells are becoming more and more popular these days. That’s because they send notifications to your smartphone whenever someone is at your front door. Even if you are lounging at the beach, you will be able to see who is trying to get into your home. Many of these doorbells take video recordings as well.
+
+2. Let your neighbors know that you’ll be gone. Tell some of your trusted neighbors that you’re going out of town so they can keep an eye on your house while you travel.
+
+3. Use exterior lighting. Motion-activated light systems are inexpensive and will make it seem like someone is home. Exterior lighting keeps thieves away from your house because they don’t want to be seen breaking in.
+“Make sure you triple check that your doors and windows are locked!”
+4. Put your mail and your newspaper on hold. If your mail starts to pile up and there is a stack of newspapers on your porch, that makes your home an easy target for thieves. Hop online and put your mail on hold or ask a neighbor to collect your papers to protect your property.
+
+5. Lock your doors and windows. This may sound silly, but 30% of break-ins are not forced entry. That means someone left a back door or first-level window open, allowing easy access for thieves. Triple check that you have everything locked up before you leave.
+
+If you follow these five tips, your home will be safe this holiday season. If you have any other questions about home security or about the holiday real estate market, just give us a call or send us an email. We would be happy to help you!
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
+        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:summary>If you are traveling this holiday season, there are a few things you should do to keep your home safe while you’re away. We have the top five home security tips for you today.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title> How The Elliott Team Got Nina a Contract in 3 Days</title>
+        <link>localhost:4000/how-elliott-team-got-nina-contract-in-3.html</link>
+        
+          <category>Testimonial</category>
+        
+        <author>-- CLIENT NAME --</author>
+        <pubDate>2016-11-07 15:35:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+“The results were very quick, instantaneous! And we got above our asking price. We sold our house, we had a contract within 3 days of putting it on the market. The entire process they went above and beyond. They were always there, we got updates on email, we were able to contact Doug when we had questions. Very responsive, very considerate and I find everything that his whole team did was very professional, timely, excellent.”
+</description>
+        <enclosure url="" length="" type=""/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type=""/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
+        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:summary>
+“The results were very quick, instantaneous! And we got above our asking price. We sold our house, we had a contract within 3 days of putting it on the market. The entire process they went above and beyond. They were always there, we got updates on email, we were able to contact Doug when we had questions. Very responsive, very considerate and I find everything that his whole team did was very professional, timely, excellent.”
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>The Benefits of Selling During the Holidays</title>
+        <link>localhost:4000/the-benefits-of-selling-during-holidays.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>-- CLIENT NAME --</author>
+        <pubDate>2016-10-18 12:32:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+Contrary to popular belief, the holidays are a great time to sell your home. Why? A couple of reasons, actually.
+
+The first is that if you wait until spring to sell your home, you’ll be competing against a lot of other properties. This reduces the buyer pool. The second reason is that you’ll know that the buyers who are out there looking for homes now are dead serious about buying.
+
+To illustrate this point, I want to tell you a personal story about a house I once sold for a very good friend of mine. We were considering putting this house on the market before Christmas, so that’s what we did—we listed it the very week before. Everybody called us crazy, but I told my friend the same two things I just shared with you.
+
+“In three days, we escalated $27,000 above our asking price.”
+
+When we did our open house that weekend, we got more than 50 groups of people that came through. They were literally tripping over each other’s shoes because it was snowing outside. We ended up getting nine offers on the property. We put the house on the market at $440,000 that Friday. The following Monday, we were ratified at $467,000. We escalated $27,000 above our asking price and ratified the contract on Christmas Eve.
+
+So, if you have people telling you you’d be crazy to try and sell during the holidays, remember to speak to a professional first. We’d love to be the ones to speak to you, so if you have any questions, don’t hesitate to reach out to us by phone, text, or email. We look forward to hearing from you!
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
+        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:summary>The holidays are a great time to sell your home. Why? There is less inventory to compete against the buyers looking for properties are far more serious about buying.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Mark is Very, Very Happy with The Elliott Team</title>
+        <link>localhost:4000/why-mark-is-very-very-happy-with.html</link>
+        
+          <category>Testimonial</category>
+        
+        <author>-- CLIENT NAME --</author>
+        <pubDate>2016-10-17 17:04:00 -0500</pubDate>
+        <guid></guid>
+        <description>“I got great results, we sold a house for almost full price, it was done very quickly, and he was very helpful. Well I think throughout the process he was very communicative with me, he always let me know what was going on and he handled the negotiation very well, so I was very, very happy with that.”
+</description>
+        <enclosure url="" length="" type=""/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type=""/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
+        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:summary>“I got great results, we sold a house for almost full price, it was done very quickly, and he was very helpful. Well I think throughout the process he was very communicative with me, he always let me know what was going on and he handled the negotiation very well, so I was very, very happy with that.”
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How The Elliott Team Put Kerry’s Interests First</title>
+        <link>localhost:4000/how-elliott-team-put-kerrys-interests.html</link>
+        
+          <category>Testimonial</category>
+        
+        <author>-- CLIENT NAME --</author>
+        <pubDate>2016-10-05 10:39:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+“They were fantastic, he sold our house before it even went on the market so you can’t ask for better than that. He’s also helping us buy our new house and he’s been fantastic there too. Just the whole process he went above and beyond. I know he worked really hard. The builders that we’re using to build our new house, in the beginning, were a little hard to work with and he definitely went above and beyond to make sure our interests came first and make sure that, I know he really had to fight hard for us on a few things that we needed to get from the builders. And I know Doug was working really hard and went way above and beyond working with the builders that we had to deal with.”
+</description>
+        <enclosure url="" length="" type=""/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type=""/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
+        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:summary>
+“They were fantastic, he sold our house before it even went on the market so you can’t ask for better than that. He’s also helping us buy our new house and he’s been fantastic there too. Just the whole process he went above and beyond. I know he worked really hard. The builders that we’re using to build our new house, in the beginning, were a little hard to work with and he definitely went above and beyond to make sure our interests came first and make sure that, I know he really had to fight hard for us on a few things that we needed to get from the builders. And I know Doug was working really hard and went way above and beyond working with the builders that we had to deal with.”
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Online Presence Sells Homes</title>
+        <link>localhost:4000/why-online-presence-sells-homes.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>-- CLIENT NAME --</author>
+        <pubDate>2016-09-28 16:30:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+Studies show that 93% of current buyers start their home search online, so your home needs to look great. If you’ve ever looked at houses online, you might have seen some really dark, hard-to-see photos out there. I saw one last week that was so dark, I couldn’t tell what room it was. All I could see was a dirty towel hanging on the wall, so I assumed it was a picture of the bathroom. It’s unbelievable that someone thought it was a good idea to post that photo online.
+
+In order to make your home show well online, you should have a home stager come in. If you’re working with a professional Realtor, they should pay for the home stager as part of the marketing expenses. The stager will come in and give you recommendations on how to best set up your home for professional photographs.
+
+“These days 93% of home buyers begin their search online.”
+
+Hiring a professional photographer is absolutely crucial. At the Elliott Team, we use something called HDR or fusion technology. The camera is placed on a tripod and we take three shots with low, medium, and high exposure. Those photos are then run through a software program that analyzes the shading and coloring of every surface in those photos before pulling them all together to create a perfect photograph.
+
+Perfect photographs draw people’s attention. If no one is interested enough to look at your house in person, no one will buy your house. How your home shows online is the most important part of getting people through the door.
+
+We also use a Matterport camera to market homes online. The Matterport camera takes a laser scan of the whole house to create an online 3D model of your home. Thanks to Matterport, buyers can take a virtual tour of your home without leaving their sofas. This technology is absolutely incredible; click here to see examples.
+
+As you can see, if your home stands out online, you will have a successful selling process. If you have any questions about building your home’s online presence or about real estate in general, give me a call or send me an email. I would be happy to help you!
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
+        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:summary>What is the second most important part of the home selling process? How your home shows online. Here is how to make sure your home has a strong online presence.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Suzanne Felt Lucky to Have The Elliott Team on her Side</title>
+        <link>localhost:4000/why-suzanne-felt-lucky-to-have-elliott.html</link>
+        
+          <category>Testimonial</category>
+        
+        <author>-- CLIENT NAME --</author>
+        <pubDate>2016-09-14 15:53:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+“Well the results were that we sold our house in record time with professionalism and Doug and his team worked very hard prior to the sale of the house. When they used the stager for us and the photography and the video were just superb. Doug was great to work with and we were just fortunate to have him on our side. “ 
+</description>
+        <enclosure url="" length="" type=""/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type=""/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
+        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:summary>
+“Well the results were that we sold our house in record time with professionalism and Doug and his team worked very hard prior to the sale of the house. When they used the stager for us and the photography and the video were just superb. Doug was great to work with and we were just fortunate to have him on our side. “ 
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why You Can't Trust Zillow's Zestimates</title>
+        <link>localhost:4000/why-you-cant-trust-zillows-zestimates.html</link>
+        
+          <category>Real Estate Tips</category>
+        
+        <author>-- CLIENT NAME --</author>
+        <pubDate>2016-09-14 11:37:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+Today I wanted to talk about the famous Zillow Zestimate. Are Zestimates accurate?
+
+I get this question all the time from clients when I go to meet them and they tell me what the Zestimate is on their home. Unfortunately, a lot of people think that this value is accurate and represents a true value of their home. What I wanted to share today is what the Zestimate really is, how it works, and what your expectations should be about it.
+
+A Zestimate is an automated valuation model (AVM), and it’s a computer-generated algorithm that pulls in data to give an estimate on the value of your house. Typically, they’re very inaccurate, and it’s rare that a Zestimate is right.
+
+When you’re selling your home, pricing it properly and understanding the true market value are two of the most important things.
+
+“A lot of people incorrectly think a Zestimate is their home’s value.”
+
+When it comes to Zestimates, more than 17% of homes sold in the market had a Zestimate that was more than 20% off! If you had a $500,000 house you’re selling and the Zestimate is off by 20% or more, we’re talking about a $100,000 inaccuracy. That’s a huge difference in the true value of your home.
+
+The funny thing is, Zillow’s CEO sold his home this year for $1,050,000. The Zestimate on his home from his own company was $1,750,000 - more than 40% off from his sale price!
+
+Even in Zillow’s fine print, they say that if you want a true market value for your home, hire a professional. You can either hire an appraiser or a Realtor who is working with recent comps and doing a CMA for your property.
+
+If you have questions about the value of your home - even if you’re just curious - give us a call or send us an email. We’d be happy to help you out.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
+        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:summary>
+
+Today I wanted to talk about the famous Zillow Zestimate. Are Zestimates accurate?
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>The Difference Between a Buyer’s Market and a Seller’s Market </title>
+        <link>localhost:4000/the-difference-between-buyers-market.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>-- CLIENT NAME --</author>
+        <pubDate>2016-08-22 15:48:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+Do you know what a real estate agent means when they say “buyer’s market” or “seller’s market?” Do you know the difference? People are always asking what kind of market we are in, but it’s tough to answer for Northern Virginia as a whole.
+
+For the most part, we are in a seller’s market, which means we have at least three months of inventory available on the market. In other words, if we stopped putting houses on the market today, it would take about three months to sell all the properties currently on the market. A balanced market has about six months of inventory available, and a buyer’s market has over six months of inventory on the market.
+
+“It’s also a great time to buy because interest rates are so low.”
+
+Since we are in a seller’s market, that means it’s a good time to sell your home. Many people think that since we’re in a seller’s market, it’s not a great time to buy, but that’s not true. It’s a great time to buy because interest rates are so low. Your purchasing power is determined more by interest rates than home prices.
+
+If you’re interested in specific market data about a certain area, we can provide it for you. Likewise, if you have any questions at all about real estate, please feel free to give me a call or send me an email. I would be happy to help you!
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
+        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:summary>
+
+Do you know what a real estate agent means when they say “buyer’s market” or “seller’s market?” Do you know the difference? People are always asking what kind of market we are in, but it’s tough to answer for Northern Virginia as a whole.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How The Elliott Team Handled A Tight Closing Schedule</title>
+        <link>localhost:4000/how-elliott-team-handled-tight-closing.html</link>
+        
+          <category>Testimonial</category>
+        
+        <author>-- CLIENT NAME --</author>
+        <pubDate>2016-08-15 14:19:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+“They were great, everything went very smoothly! We had a tight closing deadline and they helped make sure that my mortgage broker was on track.”
+</description>
+        <enclosure url="" length="" type=""/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type=""/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
+        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:summary>
+“They were great, everything went very smoothly! We had a tight closing deadline and they helped make sure that my mortgage broker was on track.”
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How The Elliott Team Made Selling a Very Easy Decision for Kevin</title>
+        <link>localhost:4000/how-elliott-team-made-selling-very-easy.html</link>
+        
+          <category>Testimonial</category>
+        
+        <author>-- CLIENT NAME --</author>
+        <pubDate>2016-07-25 15:01:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+“We sold our house for a higher value than we had planned and it was a faster and easier experience. It actually sold before it actually was on the market. We got an offer before the open house actually, before it was listed, and just trying to ensure that all the questions were addressed and ensuring that it was a quality offer and making it a very easy decision on our part. It was a very stress free environment which I think was pretty unique.”
+</description>
+        <enclosure url="" length="" type=""/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type=""/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
+        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:summary>
+“We sold our house for a higher value than we had planned and it was a faster and easier experience. It actually sold before it actually was on the market. We got an offer before the open house actually, before it was listed, and just trying to ensure that all the questions were addressed and ensuring that it was a quality offer and making it a very easy decision on our part. It was a very stress free environment which I think was pretty unique.”
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How The Elliott Team Can Handle the Unexpected</title>
+        <link>localhost:4000/how-elliott-team-can-handle-unexpected.html</link>
+        
+          <category>Testimonial</category>
+        
+        <author>-- CLIENT NAME --</author>
+        <pubDate>2016-07-20 16:38:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+“Very good, we got our current townhouse sold and we bought a new place. We went on the market a week earlier than we originally planned in an effort to get a contract on the house that we really wanted in time and Doug didn’t seem to bat an eye and made it happen and got us sold in one weekend and like $12,000 over asking, so pretty awesome.” 
+</description>
+        <enclosure url="" length="" type=""/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type=""/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
+        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:summary>
+“Very good, we got our current townhouse sold and we bought a new place. We went on the market a week earlier than we originally planned in an effort to get a contract on the house that we really wanted in time and Doug didn’t seem to bat an eye and made it happen and got us sold in one weekend and like $12,000 over asking, so pretty awesome.” 
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Your Source for Expert Real Estate Advice</title>
+        <link>localhost:4000/your-new-real-estate-resource.html</link>
+        
+          <category>Welcome</category>
+        
+        <author>-- CLIENT NAME --</author>
+        <pubDate>2016-06-22 11:13:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+I’m here with some exciting news. We’ve decided to start a real estate video blog to share our expertise with you, and provide you with a valuable resource.
+
+Every month, we’ll send out two emails featuring different tips and tricks on navigating the real estate market, as well as information on local market trends.
+
+“What do you want to know about real estate?”
+
+Instead of guessing what’s on your mind, I want to ask, what questions do you have about real estate? What do you want to know about the market or the buying and selling process? Remember, if you have a question, odds are someone else is wondering the same thing! There’s no such thing as a bad question.
+
+Give me a call or send me an email, and I’ll answer your question with a video. I look forward to hearing from you!
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
+        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:summary>
+
+I’m here with some exciting news. We’ve decided to start a real estate video blog to share our expertise with you, and provide you with a valuable resource.
+
+</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
     <copyright>-- CLIENT NAME --</copyright>
     <media:credit role="author">-- CLIENT NAME --</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</media:description>
+    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Elliott Team Realtors - your professional Northern Virginia Real Estate Agents.</media:description>
   </channel>
 </rss>
