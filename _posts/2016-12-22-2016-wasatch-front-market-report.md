@@ -3,9 +3,6 @@ layout: post
 title: 2016 Wasatch Front Market Report
 tags:
   - Market Update
-  - Real Estate
-  - Home Buyer Tips
-  - Home Seller Tips
 excerpt:
 enclosure:
 pullquote: First-time home buyers should buy before a rate increase.
