@@ -2,9 +2,6 @@
 layout: post
 title: 4 Tips to Impress a Client During an Interview
 tags:
-  - Recruiting
-  - Careers
-  - Jobs
   - Healthcare Careers
 excerpt: 'If you’re interviewing for a job, the way to impress the hiring authorities is to be prepared and be punctual. Today I have four tips to achieve each of these objectives.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/GoVig/Healthcare/Videos/Hadley+Gayles+%252812-5-2016%2529+Interviewing.mp4'
@@ -21,7 +18,7 @@ youtube_code: rloZrKDQGGE
 
 If you’re a job candidate, what can do to make sure that you impress the hiring authorities in your interview?
 
-First off, **make a great first impression**. 90% of hiring authorities make their decision within the first two minutes and spend the rest of the time justifying that decision. Being on time, being polished, and being presentable can greatly improve your odds to strike the right chord within that crucial timeframe.&nbsp;
+First off, **make a great first impression**. 90% of hiring authorities make their decision within the first two minutes and spend the rest of the time justifying that decision. Being on time, being polished, and being presentable can greatly improve your odds to strike the right chord within that crucial timeframe.
 
 Secondly, **bring multiple copies of your resume**. When you show up, you want to have at least three copies of your resume—one for the person interviewing you, and others for whoever else may be involved with the interview. With the resume, you want to be able to speak to each change you’ve made in your career and any quantifiable achievements you’ve made. These are the things you think would really make you shine as a candidate.
 
@@ -31,5 +28,5 @@ Third, **be prepared with questions.** At the end of the interview, clients alwa
 
 Lastly, **close the interview.** When you leave the interviewer, let them know that you want the job. Furthermore, ask them if there’s anything about your background that they still have concerns about. Tell them that you’re really interested in the next step and that you’re curious what that step looks like.
 
-If you have any questions regarding hiring or retention, please feel free to give us a call or send us an email. We’d be happy to help!&nbsp;
-<br>&nbsp;
+If you have any questions regarding hiring or retention, please feel free to give us a call or send us an email. We’d be happy to help!
+<br>
