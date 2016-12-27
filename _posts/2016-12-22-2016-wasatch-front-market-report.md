@@ -15,7 +15,6 @@ youtube_code: 8Fem0C5oZuk
 
 
 {% include youtube.html %}
-
 *Here’s a look at what is happening in the Wasatch Front real estate market.*
 
 As the year comes to a close, it’s time to take a look at the 2016 report card for the Wasatch Front home sales.
