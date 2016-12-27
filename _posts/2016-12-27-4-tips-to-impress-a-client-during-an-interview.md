@@ -29,4 +29,3 @@ Third, **be prepared with questions.** At the end of the interview, clients alwa
 Lastly, **close the interview.** When you leave the interviewer, let them know that you want the job. Furthermore, ask them if there’s anything about your background that they still have concerns about. Tell them that you’re really interested in the next step and that you’re curious what that step looks like.
 
 If you have any questions regarding hiring or retention, please feel free to give us a call or send us an email. We’d be happy to help!
-<br>
