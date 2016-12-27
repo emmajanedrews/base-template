@@ -6,7 +6,7 @@ tags:
   - Building Products
   - Careers
   - Futurity
-  - Healthcare
+  - Health Care
 excerpt:
 enclosure:
 pullquote:
