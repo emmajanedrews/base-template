@@ -23,7 +23,13 @@ client:
       email: Dianna.lodolce@govig.com
       VR_form: http://oi.vresp.com?fid=edc00c84dc
       about_markdown: |
-        About content
+        Dianna LoDolce manages the Biopharma Division at Govig & Associates. With over 28 years of recruiting experience, Dianna’s team successfully places professionals in a diverse range of pharmaceutical and biotech companies across the nation.
+
+        In addition to building award-winning teams, many of the recruiters she has trained over the years are still thriving in the industry today.
+
+        Her degree in the sciences from Arizona State University and 27 years in management give her special insight into recruiting top talent into these complex industries and in providing leadership for her team.
+
+        Dianna has a bachelor’s of science in Microbiology, magna cum laude, and has done masters work in the field of nutrition.
     - name: 'Jennifer Meyer'
       title: Sr. Vice President/ General Manager
       specialty: "Building Products"
@@ -32,16 +38,26 @@ client:
       email: Jennifer.meyer@govig.com
       VR_form: http://oi.vresp.com?fid=ef91d98316
       about_markdown: |
-        About content
-    - name: 'Justinn Sbresny'
+        Jennifer Meyer is the Senior Vice President, General Manager for the Arizona Market Recruiting Team. She is responsible for the strategic and execution support for a top performing team who specializes at national niches in construction, building products, tax and verticals in the Arizona Market.
+
+        Jennifer has 20 years of experience in the search and recruiting industry and most recently, served as president and co-founder of North Coast ExecuSearch, Inc., a talent recruitment firm she launched in 2002. She is recognized for successfully placing more than 900 professionals and has accumulated several industry accolades, including 14-time Pacesetter Award winner, 4-time Top 15 Producing Manager, MRI Hall of Fame Inductee and MRI Top Gun Designee through the MRINetwork.
+
+        Her unwavering commitment to her work and the industry guarantees top results when mentoring and developing top performers and ensuring long-term business relationships that are mutually beneficial for both companies she works with as well as professionals she places.
+
+        Although Jennifer has been in the Cleveland area for the last 20 years, Jennifer grew up in Arizona, receiving her degree from Northern Arizona University, and is glad to be back to the sunshine. She continues to feed her competitive nature, embraces philanthropy, and gives back to the community whenever possible.
+    - name: 'Todd Govig'
       title: Talent Acquisition Manager
       specialty: "Careers"
-      client_headshot_path: '/img/headshot3.jpg'
-      phone: 480-718-6188
-      email: Justinn.sbresny@govig.com
+      client_headshot_path: 'http://govig.com/scottsdale/wp-content/uploads/2014/09/9-Todd_Govig_resized.jpg'
+      phone: 480-718-6200
+      email: todd@govig.com
       VR_form: http://oi.vresp.com?fid=3709810dba
       about_markdown: |
-        About content
+        Todd Govig is the President and CEO of Govig & Associates. Prior to joining Govig & Associates, Todd was a Regional Manager for American Hospital Supply/Baxter Healthcare. In September of 1987, he left the healthcare industry to join his parents, the founders of Govig & Associates, and has grown the business from $1million to 14 million.
+
+        Clients, candidates and employees alike can all agree that Todd has a natural knack for leadership and the recruiting industry and supreme insight on each vertical that Govig specializes in. He has led Govig & Associates to become one of the largest and most successful privately held recruiting firms in Arizona.
+
+        Todd received his B.A. in Business Administration from Colorado College in 1981. An aviation enthusiast, Todd also enjoys telemark skiing and white water kayaking. Todd and his four children live in Phoenix.
     - name: 'Sherri Huston'
       title: Sr. Vice President/ General Manager
       specialty: "Futurity"
@@ -50,7 +66,13 @@ client:
       email: sherri.huston@govig.com
       VR_form: http://oi.vresp.com?fid=e08fb53196
       about_markdown: |
-        About content
+        Sherri Huston is the Senior Vice President for Govig’s Healthcare Group. The Healthcare Group has served the Long-Term Care and Senior Housing industries since 1988. The team has an average tenure of 8 years which allows them a depth of knowledge and network that is uncommon in the industry.
+
+        In addition to leading a successful Healthcare division, Sherri also manages and has developed The Company Futurity Assessment, a new design for performance management to help companies look into the future, improve employee engagement and drive business results.
+
+        Sherri is passionate about bringing forth ideas which are innovative, and with implementation, will transform organizations. Huston’s career has been built on leading change and intuitively influencing others for a greater purpose. Her greatest thrill is watching people push through barriers to achieve heights they never thought they could.
+
+        Sherri is an Arizona native and is actively involved in both women’s and leadership groups in her community.
     - name: 'Hadley Gayles'
       title: Division Manager
       specialty: "Health Care"
@@ -59,7 +81,9 @@ client:
       email: hadley.gayles@govig.com
       VR_form: http://oi.vresp.com?fid=b25d5c680a
       about_markdown: |
-        About content
+        Hadley Gayles is the Govig Healthcare Group Division Manager. Govig is a retained search firm that works nationwide, their expertise include; broad executive search with a focus on clinical, operations, sales & marketing, and human resources.
+
+        Hadley possesses ten years of team leadership and customer relations management experience. Hadley began his career at Govig in June of 2008. Since that time he has been involved in 250+ successful placements, which include several C-level, VP and Regional retained searches. Hadley and his wife Jolie have a passion for traveling and spending time with their golden retriever Henry.
   about_header: About Govig &amp; Associates
   market: Scottsdale, AZ
   brand: Govig and Associates
