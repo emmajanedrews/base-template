@@ -48,7 +48,7 @@ client:
     - name: 'Todd Govig'
       title: Talent Acquisition Manager
       specialty: "Careers"
-      client_headshot_path: 'http://govig.com/scottsdale/wp-content/uploads/2014/09/9-Todd_Govig_resized.jpg'
+      client_headshot_path: '/img/headshot3.jpg'
       phone: 480-718-6200
       email: todd@govig.com
       VR_form: http://oi.vresp.com?fid=3709810dba
