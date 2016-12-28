@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Break the Bank When Selling Your Vancouver Home
+title: "The Keys to Negotiating Your Home's Best Price"
 tags:
   - Home Seller Tips
 excerpt: Negotiating the highest possible sale price for your home isn’t as difficult as you think. We have a proven system to share with you that can help you achieve this goal.
