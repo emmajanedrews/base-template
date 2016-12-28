@@ -1,6 +1,6 @@
 audit_header: false
 title: Career Advancement Video Blog
-description:
+description: Govig & Associates is one of the largest privately held firms in the Executive Search industry. With more than three decades in staffing and recruiting, we have the knowledge, the network and the speed to provide unparalleled service to our clients.
 show_custom_links: true
 custom_links:
   - title: Bio Pharma
@@ -89,11 +89,11 @@ socials:
 podcast:
   title: Govig and Associates Podcast
   categories: News & Politics
-  image: /img/Pop_podcast.png
+  image: /img/govig_podcast.jpg
   subtitle:
-  description:
+  description: Govig & Associates is one of the largest privately held firms in the Executive Search industry. With more than three decades in staffing and recruiting, we have the knowledge, the network and the speed to provide unparalleled service to our clients.
   keywords: 'recruiter, executive recruiter, executive search, executive search firms, executive headhunters, top executive recruiters, recruitment firm, management recruiter'
-  author: Todd Govig
+  author: Govig and Associates
 images:
   client_headshot_path: '/img/headshot.png'
   hero_logo_path: '/img/logo.png'
