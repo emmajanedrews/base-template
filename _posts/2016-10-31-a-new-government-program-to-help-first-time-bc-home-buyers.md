@@ -16,9 +16,15 @@ youtube_code: hLWYJufiTJM
 
 {% include youtube.html %}
 
-Last week BC Housing unveiled a program to help first-time home buyers get into the market. As we know, the past few months have been a hard time for anyone to get into the market, especially first-time buyers when it comes to saving enough for a down payment.
+Last week Premier Christy Clark unveiled a program to help first-time home buyers get into the market. As we know, the past few months have been a hard time for anyone to get into the market, especially first-time buyers when it comes to saving enough for a down payment.
 
 **A new program called BC Homeowner Mortgage and Equity allows first-time home buyers to obtain a mortgage** of at least 80% on a home that costs no more than $750,000 on the condition that the combined household income is no greater than $150,000 and you've lived in Canada for at least five years (and one full year in BC).
+
+The province will begin accepting applications on January 16, 2017.
+
+“This program will boost sales to first-time home buyers. Without question, they’ll take advantage of it wherever they can,” said Helmut Pastrick, Central 1 Credit Union chief economist.
+
+The province estimates this initiative will help at least 42,000 buyers or households province-wide over the next three years. About half of these buyers will be in the Lower Mainland, according to Pastrick.
 
 {% include pullquote.html %}
 
@@ -26,5 +32,6 @@ The government will match your down payment toward the house and you won't pay i
 
 The BC government intends to help at least 42,000 buyers over the next three years with this program. This will be a significant boost to our local market.
 
+[To learn more about this program, click here!](https://www.bchousing.org/housing-assistance/bc-home-partnership)
+
 If you have any other questions about this program or about the local market, give us a call or send us an email. We would be happy to help you!
-<br>
