@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Join Us for Our 5th Annual Client Appreciation Event!'
+title: A New Government Program to Help First-Time BC Home Buyers
 tags:
   - Real Estate
 excerpt: 'The BC government recently announced a program that will help up to 42,000 first-time home buyers get into the market over the next three years.'
@@ -27,4 +27,4 @@ The government will match your down payment toward the house and you won't pay i
 The BC government intends to help at least 42,000 buyers over the next three years with this program. This will be a significant boost to our local market.
 
 If you have any other questions about this program or about the local market, give us a call or send us an email. We would be happy to help you!
-<br>&nbsp;
+<br>
