@@ -4,271 +4,40 @@
     <title>Govig and Associates Podcast</title>
     <link>http://govigblog.com</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://govigblog.com"/>
-    <description></description>
+    <description>Govig &amp; Associates is one of the largest privately held firms in the Executive Search industry. With more than three decades in staffing and recruiting, we have the knowledge, the network and the speed to provide unparalleled service to our clients.</description>
     <language>en</language>
-    <managingEditor>Todd Govig</managingEditor>
-    <lastBuildDate>2016-12-19 09:46:19 -0600</lastBuildDate>
-    <media:copyright>Todd Govig</media:copyright>
-    <media:thumbnail url="http://govigblog.com/img/Pop_podcast.png"/>
+    <managingEditor>Govig and Associates</managingEditor>
+    <lastBuildDate>2016-12-28 12:42:50 -0600</lastBuildDate>
+    <media:copyright>Govig and Associates</media:copyright>
+    <media:thumbnail url="http://govigblog.com/img/govig_podcast.jpg"/>
     <media:keywords>recruiter, executive recruiter, executive search, executive search firms, executive headhunters, top executive recruiters, recruitment firm, management recruiter</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
       <itunes:email></itunes:email>
-      <itunes:name>Todd Govig</itunes:name>
+      <itunes:name>Govig and Associates</itunes:name>
     </itunes:owner>
-    <itunes:author>Todd Govig</itunes:author>
+    <itunes:author>Govig and Associates</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="http://govigblog.com/img/Pop_podcast.png"/>
+    <itunes:image href="http://govigblog.com/img/govig_podcast.jpg"/>
     <itunes:keywords>recruiter, executive recruiter, executive search, executive search firms, executive headhunters, top executive recruiters, recruitment firm, management recruiter</itunes:keywords>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:summary></itunes:summary>
+    <itunes:summary>Govig &amp; Associates is one of the largest privately held firms in the Executive Search industry. With more than three decades in staffing and recruiting, we have the knowledge, the network and the speed to provide unparalleled service to our clients.</itunes:summary>
       <itunes:category text="News &amp; Politics"/>
     
       <item>
-        <title>Careers</title>
-        <link>http://govigblog.com/personal-injury-post.html</link>
-        
-          <category>Careers</category>
-        
-        <author>Todd Govig</author>
-        <pubDate>2016-10-31 00:00:00 -0500</pubDate>
-        <guid></guid>
-        <description>
-
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa r etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
-
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
-</description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="http://govigblog.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle></itunes:subtitle>
-        <itunes:author>Todd Govig</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>recruiter, executive recruiter, executive search, executive search firms, executive headhunters, top executive recruiters, recruitment firm, management recruiter</itunes:keywords>
-      </item>
-      
-      <item>
-        <title>Building Products</title>
-        <link>http://govigblog.com/building-post.html</link>
-        
-          <category>Building Products</category>
-        
-        <author>Todd Govig</author>
-        <pubDate>2016-10-31 00:00:00 -0500</pubDate>
-        <guid></guid>
-        <description>
-
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
-
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
-</description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="http://govigblog.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle></itunes:subtitle>
-        <itunes:author>Todd Govig</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>recruiter, executive recruiter, executive search, executive search firms, executive headhunters, top executive recruiters, recruitment firm, management recruiter</itunes:keywords>
-      </item>
-      
-      <item>
-        <title>Building Products</title>
-        <link>http://govigblog.com/condo-law-post.html</link>
-        
-          <category>Building Products</category>
-        
-        <author>Todd Govig</author>
-        <pubDate>2016-10-30 00:00:00 -0500</pubDate>
-        <guid></guid>
-        <description>
-
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
-
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
-</description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="http://govigblog.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle></itunes:subtitle>
-        <itunes:author>Todd Govig</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>recruiter, executive recruiter, executive search, executive search firms, executive headhunters, top executive recruiters, recruitment firm, management recruiter</itunes:keywords>
-      </item>
-      
-      <item>
-        <title>Building Products</title>
-        <link>http://govigblog.com/building-post.html</link>
-        
-          <category>Building Products</category>
-        
-        <author>Todd Govig</author>
-        <pubDate>2016-10-29 00:00:00 -0500</pubDate>
-        <guid></guid>
-        <description>
-
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
-
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
-</description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="http://govigblog.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle></itunes:subtitle>
-        <itunes:author>Todd Govig</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>recruiter, executive recruiter, executive search, executive search firms, executive headhunters, top executive recruiters, recruitment firm, management recruiter</itunes:keywords>
-      </item>
-      
-      <item>
-        <title>Third Bio Pharma Post</title>
-        <link>http://govigblog.com/bio-pharma-post-2.html</link>
-        
-          <category>Bio Pharma</category>
-        
-        <author>Todd Govig</author>
-        <pubDate>2016-10-18 00:00:00 -0500</pubDate>
-        <guid></guid>
-        <description>
-
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
-
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
-</description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="http://govigblog.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle></itunes:subtitle>
-        <itunes:author>Todd Govig</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>recruiter, executive recruiter, executive search, executive search firms, executive headhunters, top executive recruiters, recruitment firm, management recruiter</itunes:keywords>
-      </item>
-      
-      <item>
-        <title>Second Bio Pharma Post</title>
-        <link>http://govigblog.com/bio-pharma-post.html</link>
-        
-          <category>Bio Pharma</category>
-        
-        <author>Todd Govig</author>
-        <pubDate>2016-10-17 00:00:00 -0500</pubDate>
-        <guid></guid>
-        <description>
-
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
-
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
-</description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="http://govigblog.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle></itunes:subtitle>
-        <itunes:author>Todd Govig</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>recruiter, executive recruiter, executive search, executive search firms, executive headhunters, top executive recruiters, recruitment firm, management recruiter</itunes:keywords>
-      </item>
-      
-      <item>
-        <title>First Bio Pharma Post</title>
-        <link>http://govigblog.com/pensions-post.html</link>
-        
-          <category>Bio Pharma</category>
-        
-        <author>Todd Govig</author>
-        <pubDate>2016-10-15 00:00:00 -0500</pubDate>
-        <guid></guid>
-        <description>
-
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
-
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
-</description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="http://govigblog.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle></itunes:subtitle>
-        <itunes:author>Todd Govig</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>recruiter, executive recruiter, executive search, executive search firms, executive headhunters, top executive recruiters, recruitment firm, management recruiter</itunes:keywords>
-      </item>
-      
-      <item>
         <title>4 Tips to Impress a Client During an Interview</title>
-        <link>http://govigblog.com/health-care-post.html</link>
+        <link>http://govigblog.com/4-tips-to-impress-a-client-during-an-interview.html</link>
         
           <category>Health Care</category>
         
-        <author>Todd Govig</author>
-        <pubDate>0206-10-17 00:00:00 -0550</pubDate>
+        <author>Govig and Associates</author>
+        <pubDate>2016-12-27 00:00:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/GoVig/Healthcare/Videos/Hadley+Gayles+%252812-5-2016%2529+Interviewing.mp4</guid>
         <description>
 
 If you’re a job candidate, what can do to make sure that you impress the hiring authorities in your interview?
 
-First off, make a great first impression. 90% of hiring authorities make their decision within the first two minutes and spend the rest of the time justifying that decision. Being on time, being polished, and being presentable can greatly improve your odds to strike the right chord within that crucial timeframe. 
+First off, make a great first impression. 90% of hiring authorities make their decision within the first two minutes and spend the rest of the time justifying that decision. Being on time, being polished, and being presentable can greatly improve your odds to strike the right chord within that crucial timeframe.
 
 Secondly, bring multiple copies of your resume. When you show up, you want to have at least three copies of your resume—one for the person interviewing you, and others for whoever else may be involved with the interview. With the resume, you want to be able to speak to each change you’ve made in your career and any quantifiable achievements you’ve made. These are the things you think would really make you shine as a candidate.
 
@@ -278,54 +47,21 @@ Third, be prepared with questions. At the end of the interview, clients always a
 
 Lastly, close the interview. When you leave the interviewer, let them know that you want the job. Furthermore, ask them if there’s anything about your background that they still have concerns about. Tell them that you’re really interested in the next step and that you’re curious what that step looks like.
 
-If you have any questions regarding hiring or retention, please feel free to give us a call or send us an email. We’d be happy to help! 
+If you have any questions regarding hiring or retention, please feel free to give us a call or send us an email. We’d be happy to help!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/GoVig/Healthcare/Videos/Hadley+Gayles+%252812-5-2016%2529+Interviewing.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="http://govigblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/GoVig/Healthcare/Videos/Hadley+Gayles+%252812-5-2016%2529+Interviewing.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle></itunes:subtitle>
-        <itunes:author>Todd Govig</itunes:author>
+        <itunes:author>Govig and Associates</itunes:author>
         <itunes:summary>If you’re interviewing for a job, the way to impress the hiring authorities is to be prepared and be punctual. Today I have four tips to achieve each of these objectives.</itunes:summary>
         <itunes:keywords>recruiter, executive recruiter, executive search, executive search firms, executive headhunters, top executive recruiters, recruitment firm, management recruiter</itunes:keywords>
       </item>
       
-      <item>
-        <title>Futurity</title>
-        <link>http://govigblog.com/workers-compensation-post.html</link>
-        
-          <category>Futurity</category>
-        
-        <author>Todd Govig</author>
-        <pubDate>0206-10-16 00:00:00 -0550</pubDate>
-        <guid></guid>
-        <description>
-
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
-
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
-</description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="http://govigblog.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle></itunes:subtitle>
-        <itunes:author>Todd Govig</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>recruiter, executive recruiter, executive search, executive search firms, executive headhunters, top executive recruiters, recruitment firm, management recruiter</itunes:keywords>
-      </item>
-      
-    <copyright>Todd Govig</copyright>
-    <media:credit role="author">Todd Govig</media:credit>
+    <copyright>Govig and Associates</copyright>
+    <media:credit role="author">Govig and Associates</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain"></media:description>
+    <media:description type="plain">Govig &amp; Associates is one of the largest privately held firms in the Executive Search industry. With more than three decades in staffing and recruiting, we have the knowledge, the network and the speed to provide unparalleled service to our clients.</media:description>
   </channel>
 </rss>
