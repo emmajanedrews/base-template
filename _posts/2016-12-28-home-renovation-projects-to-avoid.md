@@ -24,7 +24,7 @@ If you’re getting ready to sell your home on the market, we’ve got some tips
 
 3. Textured surfaces. Whether it’s your walls, ceilings, or other surfaces, buyers don’t tend to care much for them.
 
-4. Using the wrong flooring. Just replacing your flooring with the cheapest option might actually hurt your value more than it will help it.&nbsp;
+4. Using the wrong flooring. Just replacing your flooring with the cheapest option might actually hurt your value more than it will help it.
 
 5. **Too much carpet**. Carpeted bedrooms and living areas are normal, carpeted bathrooms and kitchens are not. Most buyers want hardwood or tile floors in those areas.
 
