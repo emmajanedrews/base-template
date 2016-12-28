@@ -16,7 +16,7 @@ youtube_code: sWxS1dd-HOg
 
 {% include youtube.html %}
 
-If you’re getting ready to sell your home on the market, we’ve got some tips for you. These are seven things that home buyers do not want to see in a potential home:
+If you’re getting ready to sell your home on the market, we’ve got some tips for you. **These are seven things that home buyers do not want to see in a potential home**:
 
 1. Too much wallpaper. It’s hard for buyers to get excited about wallpaper because they will most likely tear it down anyway.
 2. **Stay away from lavish lighting fixtures**. If you have an elaborate chandelier made of glass or deer antlers, replace it with something neutral while you’re in the process of selling.
