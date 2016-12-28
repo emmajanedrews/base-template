@@ -9,7 +9,8 @@ custom_links:
 client:
   name: Nathan Abbott
   license_number:
-  about_markdown:
+  about_markdown: |
+    The name Abbott is synonymous with real estate along Florida’s Emerald Coast. The Abbott’s have been making real estate their business since 1950 starting with the original Abbott Realtor, William W. Abbott Sr. The Abbott’s were involved with the most premier properties along the Emerald Coast. The Nathan Abbott Team are natives to the area and keep the business in the family by becoming the third generation of Abbott Realtors. Although times have definitely changed since the inception of the business, its founding principles have remained the same... customer service, knowledge, hard work and dedication.
   market: "Florida's Emerald Coast"
   brand: Nathan Abbott Team
   brokerage: Resort Quest Real Estate
@@ -39,8 +40,7 @@ sidebar_CTA:
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
+    Our mission at -- CLIENT BRAND -- is to be your best resource for NW Florida's Emerald Coast. Whether you are a buyer, seller, or investor, our team of
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
