@@ -8,8 +8,8 @@ enclosure: 'http://vyralmarketing.s3.amazonaws.com/Eric%20Vallee/Jan%201.mp4'
 pullquote: This will be a significant boost to our local market.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/eric-valle-yt.jpg
 youtube_code: hLWYJufiTJM
 ---
 
