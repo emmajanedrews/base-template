@@ -36,6 +36,9 @@
 	+transition
 	a
 		text-align: center
+	&:visited
+		color: $light-text
+		text-decoration: none
 	&:hover
 		background: transparent
 		color: $brand-light
@@ -43,6 +46,9 @@
 		border: 1px solid $brand-light
 		@include transform(scale(1.05))
 		@include transform(translateY(-0.2rem))
+		text-decoration: none
 	&:active
+		text-decoration: none
 		box-shadow: 0 0 0 $brand-light
+		color: $brand-light
 		@include transform(translateY(0rem))

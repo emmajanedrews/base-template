@@ -5,7 +5,7 @@
 	background: transparent
 	width: 100%
 	overflow: hidden
-
+	border-bottom: 2px solid $navbar-bottom-border
 .navbar-andross .navbar-brand
 	color: $brand
 	padding-top: 20px
@@ -52,24 +52,24 @@
 			display: none
 			opacity: 0
 .scroll-nav-color
-	background: transparentize($theme, 0)
+	background: transparentize($navbar-color, 0)
 	animation: .5s fadeNavigation ease-in-out
-	+shadow
+	box-shadow: $navbar-shadow
 @keyframes fadeNavigation
 	0%
 		transform: translateY(0)
-		background: transparentize($theme, 1)
+		background: transparentize($navbar-color, 1)
 	// 50%
 	// 	transform: translateY(-100px)
 	// 	background: transparent
 	// 51%
 	// 	background: $brand
 	100%
-		background: transparentize($theme, 0)
+		background: transparentize($navbar-color, 0)
 		transform: translateY(0)
-		+shadow
+		box-shadow: $navbar-shadow
 		// background: $theme
 .brand-color
-	+shadow
-	background: $theme
+	background: $navbar-color
 	animation: .3s fadein ease-in-out
+	box-shadow: $navbar-shadow

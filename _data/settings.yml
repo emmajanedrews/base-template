@@ -1,5 +1,5 @@
 audit_header: false
-title: The Base Template
+title: Wes Peters Group Real Estate Video Blog 
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -7,31 +7,32 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Wesley Peters
   license_number:
+  brand: Wes Peters Group
+  brokerage: Keller Williams
   about_markdown: |
-
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    Real Estate expert in the Baltimore metro for almost a decade. Baltimore native, have worked and lived in all the areas I service. Majority of my business is from referrals and repeat clients, firm believer that a happy client is the best advertisement I can have.<br><br>
+    Pride myself on being available to my clients around the clock, knowing the contract inside and out and being a tough negotiator. As an active Real Estate investor myself,  my professional network of partners and resources is personally vetted in my years of experience - lawyers, title companies, inspectors, contractors and lenders.<br><br>
+    Short Sale and Foreclosure expert. I manage a small, personally trained team of Listing/Buyers agents, Transaction Coordinators and Administrators from my office in Columbia.
+  market: Baltimore Metropolitan Area
+  address: '6250 Old Dobbin Lane #140<br>Columbia MD 21045'
+  phone: 443-499-3839
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: wes@wespetersgroup.com
+  url: http://www.wespetersgroup.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.wespetersgroup.com/sell/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
-  phone_CTA: true
+  second_CTA_URL: http://www.wespetersgroup.com/buy/
   VR_form:
 
 sidebar_CTA:
-  CTA_image_path: /img/cta-images/004.jpg
+  CTA_image_path: /img/cta-images/001.jpg
   CTA_title: Looking to Buy a Home?
   CTA_text: Search the entire MLS for homes located in -- MARKET --.
   CTA_link_text: Home Search Tool
@@ -48,15 +49,15 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/wespetersrealtor/
+  linkedin_url: https://www.linkedin.com/company-beta/5295220/?pathWildcard=5295220
   gplus_url:
   youtube_url:
   twitter_url:
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
+  zillow_url: http://www.zillow.com/profile/workwithwes/
+  trulia_url: https://www.trulia.com/profile/wes-peters-group-agent-columbia-md-zgf6xmrt/overview
   yelp_url:
   podcast_url:
 
@@ -72,31 +73,38 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40rem
-  hero_text: Real Estate Video Blog
+  logo_width_number: 50rem
   hero_background_hex: '#094264'
   hero_image_path: /img/background.jpg
 
 site_colors:
-  brand_color: '#C14547'
-  theme_color: '#005473'
+  brand_color: '#BF202F'
+  theme_color: '#59595C'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
 
-header_shadow:
+header:
+  hero_text: Real Estate Video Blog
   h_shadow: 0px
   w_shadow: 2px
-  shadow_spread: 7px
-  shadow_color: "#000"
+  shadow_spread: 2px
+  shadow_color: transparent
+  header_text_color: '#59595c'
+  header_text_weight: 500
+
+navigation:
+  background_color: 'rgba(255,255,255,.8)'
+  shadow: '2px 2px 7px rgba(0,0,0,.0)'
+  bottom_border_color: '#BF202F'
 
 buttons:
   button_radius_number: 0px
   button_padding_width_number: 10px
   button_padding_height_number: 15px
-  button_border_color: '#ffffff'
-  button_background_color: '#ffffff'
-  button_text_color: '#123456'
-  secondary_button_border_color: '#ffffff'
+  button_border_color: '#BF202F'
+  button_background_color: '#BF202F'
+  button_text_color: '#fff'
+  secondary_button_border_color: '#BF202F'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
-  secondary_button_text_color: '#ffffff'
+  secondary_button_text_color: '#BF202F'
