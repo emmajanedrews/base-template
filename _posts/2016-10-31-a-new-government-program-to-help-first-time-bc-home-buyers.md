@@ -28,7 +28,7 @@ The province estimates this initiative will help at least 42,000 buyers or house
 
 {% include pullquote.html %}
 
-The government will match your down payment toward the house and you won't pay interest for five years. After that, you will either have to repay the loan or transfer it to your mortgage to be paid over the next 25 years at the current interest rates.
+The government will match your down payment up to $37,500 toward the house and you won't pay interest for five years. After that, you will either have to repay the loan or transfer it to your mortgage to be paid over the next 25 years at the current interest rates.
 
 The BC government intends to help at least 42,000 buyers over the next three years with this program. This will be a significant boost to our local market.
 
