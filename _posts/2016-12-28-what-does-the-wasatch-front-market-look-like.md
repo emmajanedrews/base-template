@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Does The Wasatch Front Market Look Like?
+title: What Does the Wasatch Front Market Look Like?
 tags:
   - Market Update
   - Real Estate
