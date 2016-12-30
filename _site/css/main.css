@@ -1074,7 +1074,7 @@ html[xmlns] .flexslider .slides {
   background: rgba(0, 0, 0, 0.7); }
 
 .flex-control-paging li a.flex-active {
-  background: rgba(5, 35, 53, 0.9);
+  background: rgba(9, 66, 100, 0.9);
   cursor: default; }
 
 .flex-control-thumbs {
@@ -1500,13 +1500,13 @@ label.tree-toggle {
 
 .site-logo {
   width: 90%;
-  max-width: 40rem;
-  -webkit-filter: drop-shadow(0px 0px 0px #000);
-  filter: drop-shadow(0px 0px 0px #000); }
+  max-width: 60rem;
+  -webkit-filter: drop-shadow(0px 0px 0px #B2C9CA);
+  filter: drop-shadow(0px 0px 0px #B2C9CA); }
 
 .site-title {
   color: white;
-  text-shadow: 0px 0px 0px #000;
+  text-shadow: 0px 0px 0px #B2C9CA;
   text-transform: uppercase;
   font-size: 6.5rem;
   padding-bottom: 4rem;
@@ -1935,7 +1935,7 @@ table tr, table td {
   margin: 2rem 0;
   color: white;
   text-transform: uppercase;
-  text-shadow: 0px 0px 0px #000; }
+  text-shadow: 0px 0px 0px #B2C9CA; }
 .post .headshot {
   width: 100%;
   max-width: 15rem;
@@ -1950,7 +1950,7 @@ table tr, table td {
 
 .tag-container {
   color: white;
-  text-shadow: 0px 0px 0px #000;
+  text-shadow: 0px 0px 0px #B2C9CA;
   margin-bottom: 1rem; }
 
 .tag {
@@ -1961,7 +1961,7 @@ table tr, table td {
 .author-attribution {
   color: white;
   font-weight: 300;
-  text-shadow: 0px 0px 0px #000;
+  text-shadow: 0px 0px 0px #B2C9CA;
   margin-bottom: 2rem;
   font-style: italic; }
   .author-attribution a {
