@@ -6,17 +6,17 @@
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://randyplaiceandassociatesblog.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Randy Plaice &amp; Associates - your professional Valencia Real Estate Agents.</description>
     <language>en</language>
-    <managingEditor>-- CLIENT NAME --</managingEditor>
-    <lastBuildDate>2017-01-03 10:19:22 -0600</lastBuildDate>
-    <media:copyright>-- CLIENT NAME --</media:copyright>
+    <managingEditor>Randy Plaice</managingEditor>
+    <lastBuildDate>2017-01-03 10:26:44 -0600</lastBuildDate>
+    <media:copyright>Randy Plaice</media:copyright>
     <media:thumbnail url="http://randyplaiceandassociatesblog.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
       <itunes:email>salesteam@randyplaice.com</itunes:email>
-      <itunes:name>-- CLIENT NAME --</itunes:name>
+      <itunes:name>Randy Plaice</itunes:name>
     </itunes:owner>
-    <itunes:author></itunes:author>
+    <itunes:author>Randy Plaice</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://randyplaiceandassociatesblog.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
@@ -36,7 +36,7 @@
         
           <category>Home Seller Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Randy Plaice</author>
         <pubDate>2016-10-04 00:00:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -58,7 +58,7 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:author>Randy Plaice</itunes:author>
         <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -75,7 +75,7 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
         
           <category>Home Seller Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Randy Plaice</author>
         <pubDate>2016-09-28 00:00:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -97,13 +97,13 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:author>Randy Plaice</itunes:author>
         <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
-    <copyright>-- CLIENT NAME --</copyright>
-    <media:credit role="author">-- CLIENT NAME --</media:credit>
+    <copyright>Randy Plaice</copyright>
+    <media:credit role="author">Randy Plaice</media:credit>
     <media:rating>nonadult</media:rating>
     <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Randy Plaice &amp; Associates - your professional Valencia Real Estate Agents.</media:description>
   </channel>

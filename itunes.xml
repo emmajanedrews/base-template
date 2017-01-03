@@ -19,7 +19,7 @@ layout: null
       <itunes:email>{{site.data.settings.client.email}}</itunes:email>
       <itunes:name>{{site.data.settings.podcast.author}}</itunes:name>
     </itunes:owner>
-    <itunes:author>{{site.data.settings.client.name}}</itunes:author>
+    <itunes:author>{{site.data.settings.podcast.author}}</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="{{site.data.settings.podcast.image | prepend: site.url}}"/>
     <itunes:keywords>{{site.data.settings.podcast.keywords}}</itunes:keywords>
