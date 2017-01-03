@@ -16,9 +16,9 @@ youtube_code: 1iSLfPLpAF0
 
 {% include youtube.html %}
 
-We have just released a brand new report that identifies the six most common and costly mistakes home buyers make when moving up to a larger home. When you are ready to move up, certain factors can make a situation more complicated than a first home purchase.
+We have just released a brand-new report that identifies the six most common and costly mistakes home buyers make when moving up to a larger home. When you are ready to move up, certain factors can make a situation more complicated than a first home purchase.
 
-**Aside from the issue of financing, you also have to time the sale of your current home to avoid the real estate catch 22.** This is when you have to either bear the financial burden of paying for two mortgages, or have to find a place to live temporarily between closings.
+**Aside from the issue of financing, you also have to time the sale of your current home to avoid the real estate catch-22.** This is when you have to either bear the financial burden of paying for two mortgages, or have to find a place to live temporarily between closings.
 
 {% include pullquote.html %}
 
