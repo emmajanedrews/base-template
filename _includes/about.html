@@ -2,7 +2,7 @@
 		<div class="row">
 			<div class="col-lg-10 col-lg-offset-1">
 
-				<h4>About {{site.data.settings.client.name}}</h4>
+				<h4>About {{site.data.settings.client.brand}}</h4>
 			</div>
 		</div>
 	<div class="row">
@@ -18,11 +18,10 @@
 		</div>
 		<div class="col-lg-3">
 			<p class="contact-text">
-				<b>{{ site.data.settings.client.name }}</b><br />
-				{% if site.data.settings.client.license_number != null %}
-				#{{ site.data.settings.client.license_number }}</br>
-				{% endif %}
 				{{ site.data.settings.client.brand }}<br />
+				{% if site.data.settings.client.license_number != null %}
+				{{ site.data.settings.client.license_number }}</br>
+				{% endif %}
 				{% if site.data.settings.client.brokerage != null %}
 				{{ site.data.settings.client.brokerage }}<br />
 				{% endif %}

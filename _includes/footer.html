@@ -6,7 +6,7 @@
 	        <div class="col-sm-6">
 	          <span itemprop="founder">{{site.data.settings.client.name}}</span>
 						{% if site.data.settings.client.license_number != null %}
-						<br><span>#{{site.data.settings.client.license_number }}
+						<br><span>{{site.data.settings.client.license_number }}
 					{% endif %}
 	        </div>
 	        <div class="col-sm-6">
@@ -14,9 +14,9 @@
 	        </div>
 	      {% elsif site.data.settings.client.brand == null %}
 	        <div class="col-sm-4">
-	          <span itemprop="founder">{{site.data.settings.client.name}}</span>
+	          <!-- <span itemprop="founder">{{site.data.settings.client.name}}</span> -->
 						{% if site.data.settings.client.license_number != null %}
-						<br><span>#{{site.data.settings.client.license_number }}
+						<span>{{site.data.settings.client.license_number }}</span>
 							{% endif %}
 	        </div>
 	        <div class="col-sm-4">
@@ -27,9 +27,9 @@
 	        </div>
 	      {% elsif site.data.settings.client.brokerage == null  %}
 	        <div class="col-sm-4">
-	          <span itemprop="founder">{{site.data.settings.client.name}}</span>
+	          <!-- <span itemprop="founder">{{site.data.settings.client.name}}</span> -->
 						{% if site.data.settings.client.license_number != null %}
-						<br><span>#{{site.data.settings.client.license_number }}
+						<span>{{site.data.settings.client.license_number }}</span>
 					{% endif %}
 	        </div>
 	        <div class="col-sm-4">
@@ -40,9 +40,9 @@
 	        </div>
 	      {% else %}
 	        <div class="col-sm-3">
-	          <span itemprop="founder">{{site.data.settings.client.name}}</span>
+	          <!-- <span itemprop="founder">{{site.data.settings.client.name}}</span> -->
 						{% if site.data.settings.client.license_number != null %}
-						<br><span>#{{site.data.settings.client.license_number }}
+						<span>{{site.data.settings.client.license_number }}</span>
 					{% endif %}
 	        </div>
 	        <div class="col-sm-3">
