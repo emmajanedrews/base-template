@@ -4,7 +4,7 @@ title: Where Is the Emerald Coast Real Estate Market Trending?
 tags:
   - Market Update
 excerpt: 'Thanks to a growing national exposure and a windfall of commercial development, our real estate market is very healthy.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Nathan+Abbott/Nathan+Abbott+Team-+Hows+the+Emerald+Coast+housing+market+doing%253F.mp4'
 pullquote: Our area is being discovered on a national level.
 enclosure_type: video/mp4
 enclosure_time:
