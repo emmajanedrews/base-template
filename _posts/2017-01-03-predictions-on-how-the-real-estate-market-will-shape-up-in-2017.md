@@ -16,7 +16,7 @@ youtube_code: PSnv8QFRebQ
 
 {% include youtube.html %}
 
-Before we get into examining what the real estate market will see in 2017, we first wanted to announce our brand new location in Longboat Key. **This means that we now cover the entire coast from Tampa Bay all the way to Charlotte Harbor**. Thank you all for your continued support!&nbsp;
+Before we get into examining what the real estate market will see in 2017, we first wanted to announce our brand-new location in Longboat Key. **This means that we now cover the entire coast from Tampa Bay all the way to Charlotte Harbor**. Thank you all for your continued support!&nbsp;
 
 Now, let’s get to the real estate market.
 
