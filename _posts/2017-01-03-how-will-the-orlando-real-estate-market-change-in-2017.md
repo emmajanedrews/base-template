@@ -28,7 +28,7 @@ Right after the election, we saw a dramatic increase in mortgage interest rates.
 
 {% include pullquote.html %}
 
-Those rising interest rates will put downward pressure on pricing and impact inventory even more. People who want to move up into a larger home may get priced out of the market thanks to those higher interest rates. &nbsp;Buyers may stay in lower-priced homes to avoid paying a higher mortgage rate.&nbsp;
+Those rising interest rates will put downward pressure on pricing and impact inventory even more. People who want to move up into a larger home may get priced out of the market thanks to those higher interest rates. Buyers may stay in lower-priced homes to avoid paying a higher mortgage rate.&nbsp;
 
 The good news is that **Orlando is one of the top 10 growing real estate markets in the country**. Next year, we can expect another 5% to 6% increase in home prices, so there are lots of opportunities for buyers and sellers.&nbsp;
 
