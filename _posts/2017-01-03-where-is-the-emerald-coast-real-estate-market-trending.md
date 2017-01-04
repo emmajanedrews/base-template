@@ -35,7 +35,7 @@ In the past, whenever we had a rise or fall in the market, there was so much spe
 If you get a loan, lenders are very strict right now about who they’re lending to. There is a lot of cash entering our market, and that’s a strong indication of longevity. Another indicator I always look at in gauging market strength is how the commercial growth is happening in that area, and **our commercial growth has been great lately.** We have a brand-new 5-star hotel, a new Whole Foods, and plenty of new shopping centers up and down Highway 98. These property developments are all signs of a strengthening market.
 {: .present-before-paste}
 
-**Shopping and entertainment: Brand New and Expansions:**
+**Shopping and Entertainment, Brand New and Expansions:**
 {: .present-before-paste}
 
 [Destin Commons](http://www.destincommons.com/)
