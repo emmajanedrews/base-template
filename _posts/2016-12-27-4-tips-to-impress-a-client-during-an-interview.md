@@ -16,7 +16,7 @@ youtube_code: '-fvnCkYVuQg'
 
 {% include youtube.html %}
 
-[Schedule a Consultation](https://www.epsteinfinancial.com/contact.html) - [Click here to get your free book](https://www.epsteinfinancial.com/free-book-offer.html)***
+[Request a Consultation](http://govig.com/request-information/) - [Hire Us to Fill Your Job Openeings](http://govig.com/contact/)
 {: style="text-align: center"}
 
 If you’re a job candidate, what can do to make sure that you impress the hiring authorities in your interview?
