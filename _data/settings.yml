@@ -90,7 +90,7 @@ site_colors:
 header_shadow:
   h_shadow: 0px
   w_shadow: 0px
-  shadow_spread: 0px
+  shadow_spread: 3px
   shadow_color: "#B2C9CA"
 
 buttons:
@@ -99,7 +99,7 @@ buttons:
   button_padding_height_number: 15px
   button_border_color: '#ffffff'
   button_background_color: '#ffffff'
-  button_text_color: '#123456'
+  button_text_color: '#094264'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'
