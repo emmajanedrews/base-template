@@ -9,9 +9,9 @@ layout: null
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="{{site.url}}"/>
     <description>{{site.data.settings.podcast.description | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand }}</description>
     <language>en</language>
-    <managingEditor>{{site.data.settings.podcast.author}}</managingEditor>
+    <managingEditor>{{site.data.settings.client.name}}</managingEditor>
     <lastBuildDate>{{site.time}}</lastBuildDate>
-    <media:copyright>{{site.data.settings.podcast.author}}</media:copyright>
+    <media:copyright>{{site.data.settings.client.name}}</media:copyright>
     <media:thumbnail url="{{site.data.settings.podcast.image | prepend: site.url}}"/>
     <media:keywords>{{site.data.settings.podcast.keywords}}</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
