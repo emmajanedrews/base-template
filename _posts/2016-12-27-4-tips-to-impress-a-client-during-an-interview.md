@@ -16,7 +16,7 @@ youtube_code: '-fvnCkYVuQg'
 
 {% include youtube.html %}
 
-[Request a Consultation](http://govig.com/request-information/) - [Hire Us to Fill Your Job Openeings](http://govig.com/contact/)
+[Request a Consultation](http://govig.com/request-information/) - [Hire Us to Fill Your Job Openings](http://govig.com/contact/)
 {: style="text-align: center"}
 
 If you’re a job candidate, what can do to make sure that you impress the hiring authorities in your interview?
