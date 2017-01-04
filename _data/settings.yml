@@ -10,12 +10,16 @@ client:
   name: Nathan Abbott
   license_number:
   about_markdown: |
-    The name Abbott is synonymous with real estate along Florida’s Emerald Coast. The Abbott’s have been making real estate their business since 1950 starting with the original Abbott Realtor, William W. Abbott Sr. The Abbott’s were involved with the most premier properties along the Emerald Coast. The Nathan Abbott Team are natives to the area and keep the business in the family by becoming the third generation of Abbott Realtors. Although times have definitely changed since the inception of the business, its founding principles have remained the same... customer service, knowledge, hard work and dedication.
+    The name Abbott is synonymous with real estate along Florida’s Emerald Coast. The Abbott’s have been making real estate their business since 1950 starting with the original Abbott Realtor, William W. Abbott Sr.
+
+    Steve and Bill Abbott followed in their father’s footsteps and founded Abbott Realty in 1977 with a $3,000 investment. Combined with an unsurpassed work ethic, this small monetary investment created a multimillion-dollar-a-year company, employing more than 1,000 people and becoming the largest employer in NW Florida since the mid 80s. The Abbott’s were involved with the most premier real estate properties along the Emerald Coast.
+
+    The Nathan Abbott Team are natives to the area and keep the business in the family by becoming the third generation of Abbott Realtors. Although times have definitely changed since the inception of the business, its founding principles have remained the same... customer service, knowledge, hard work and dedication.
   market: "Florida's Emerald Coast"
   brand: Nathan Abbott Team
   brokerage: Resort Quest Real Estate
-  address: 9657 Hwy. 98. W, Miramar Beach, FL 32550
-  phone: 850-803-7653
+  address: 9657 Hwy. 98. W<br>Miramar Beach, FL 32550
+  phone: 850-632-0136
   phone_type:
   phone2:
   phone2_type:
@@ -23,10 +27,10 @@ client:
   url: http://www.NathanAbbottTeam.com
 
 CTAs:
-  first_CTA_text: Home Evaluation
+  first_CTA_text: Home Valuation
   first_CTA_URL: http://search.nathanabbottteam.com/idx/homevaluation
   second_CTA_text: Home Search
-  second_CTA_URL: http://search.nathanabbottteam.com/idx/search/advanced
+  second_CTA_URL: http://www.finddestinrealestate.com/search/map?baths=1&beds=1&haslat=1&haslong=1&listingtype=Condo&listingtype=Single%20Family&minprice=200000&page=1&perpage=50&soldproperty=0&sortby=latest&type=map
   phone_CTA: true
   VR_form: http://oi.vresp.com?fid=72c973d97f
 
@@ -34,7 +38,7 @@ sidebar_CTA:
   CTA_image_path: /img/CTA1.jpg
   CTA_title: Looking to Sell a Home?
   CTA_text: "The Nathan Abbott Team is here to guide you and be your trusted real estate advisor."
-  CTA_link_text: 
+  CTA_link_text:
   CTA_url:
 
 welcome_box:
@@ -72,7 +76,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 60rem
-  hero_text: Real Estate Video Blog
+  hero_text:
   hero_background_hex: '#B2C9CA'
   hero_image_path: /img/background.jpg
 
