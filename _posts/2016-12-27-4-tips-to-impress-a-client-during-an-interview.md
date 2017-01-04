@@ -16,6 +16,9 @@ youtube_code: '-fvnCkYVuQg'
 
 {% include youtube.html %}
 
+[Schedule a Consultation](https://www.epsteinfinancial.com/contact.html) - [Click here to get your free book](https://www.epsteinfinancial.com/free-book-offer.html)***
+{: style="text-align: center"}
+
 If you’re a job candidate, what can do to make sure that you impress the hiring authorities in your interview?
 
 First off, **make a great first impression**. 90% of hiring authorities make their decision within the first two minutes and spend the rest of the time justifying that decision. Being on time, being polished, and being presentable can greatly improve your odds to strike the right chord within that crucial timeframe.
