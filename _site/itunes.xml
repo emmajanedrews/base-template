@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Home to Indy Real Estate Group - your professional  Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>-- CLIENT NAME --</managingEditor>
-    <lastBuildDate>2017-01-03 16:35:29 -0600</lastBuildDate>
+    <lastBuildDate>2017-01-04 09:46:42 -0600</lastBuildDate>
     <media:copyright>-- CLIENT NAME --</media:copyright>
     <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -25,88 +25,159 @@
       <itunes:category text="News &amp; Politics"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>localhost:4000/this-is-a-test.html</link>
+        <title>Our Buyer's Guide to Indiana Real Estate</title>
+        <link>localhost:4000/indianapolis-real-estate-agent-our.html</link>
         
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
-        
-          <category>Buyer Tips</category>
-        
-          <category>Home Seller Tips</category>
+          <category>Indianapolis Real Estate Buyer Tips</category>
         
         <author>-- CLIENT NAME --</author>
-        <pubDate>2016-10-04 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2016-01-28 17:57:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Paula+Henry/Indianapolis+Real+Estate+Agent+Our+Resource+for+Indiana+Buyers.mp4</guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+We’ve put together the Ultimate Guide to Buying a House. We want buyers to have their questions answered in one place. It’s a great starting point, especially for those still on the fence about buying. In this guide, we discuss home inspections and property tax rates in Indiana. We want to bring valuable resources to people like you.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+We’re always here to answer your questions and address any concerns. If you’re interested in this guide, please reach out to us by phone or email. We’d love to be your Indiana real estate resource!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Paula+Henry/Indianapolis+Real+Estate+Agent+Our+Resource+for+Indiana+Buyers.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Paula+Henry/Indianapolis+Real+Estate+Agent+Our+Resource+for+Indiana+Buyers.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
         <itunes:author>-- CLIENT NAME --</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>
+
+We’ve put together the Ultimate Guide to Buying a House. We want buyers to have their questions answered in one place. It’s a great starting point, especially for those still on the fence about buying. In this guide, we discuss home inspections and property tax rates in Indiana. We want to bring valuable resources to people like you.
+
+</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>this is a test</title>
-        <link>localhost:4000/a-fox-in-space.html</link>
+        <title>You Might Be Paying too Much in Indianapolis Property Taxes</title>
+        <link>localhost:4000/indianapolis-real-estate-agent-all.html</link>
         
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
-        
-          <category>Buyer Tips</category>
-        
-          <category>Home Seller Tips</category>
+          <category>Homeowner Tips</category>
         
         <author>-- CLIENT NAME --</author>
-        <pubDate>2016-09-28 00:00:00 -0500</pubDate>
+        <pubDate>2015-12-10 14:16:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Paula+Henry/Indianapolis+Real+Estate+Agent+All+Homeowners+Need+to+Double+Check+This.mp4</guid>
+        <description>
+
+Today we are going to talk about the homestead exemption and what it means to you and your tax bill. A homestead exemption is a tax break that you get on your primary residence, but we’ve found that many people don’t have it filed with the state. A few weeks ago we visited with a client who was looking to sell their home and we found that they were paying an extra $1,200 dollars in taxes over the last three years because they didn’t file their homestead exemption.
+
+There are a few reasons this could have happened to you. The most likely cause is that in 2012, a little pink slip was sent out to homeowners by the state, and if you didn’t fill it out and return it, your homestead exemption was removed.
+
+If you’re not sure if your homestead exemption is filed or not or if you’ve noticed your taxes have gone up at all in the past few years without explanation, you have until December 31st to file your homestead exemption for 2016.
+
+You can go here to enter your home’s information and check that you have your homestead exemption filed. If you don’t, the clock is ticking!
+
+Let’s head into the new year with everyone getting as much as they can out of their homestead exemption. If you have any questions, feel free to give us a call or send us an email. We look forward to hearing from you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Paula+Henry/Indianapolis+Real+Estate+Agent+All+Homeowners+Need+to+Double+Check+This.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Paula+Henry/Indianapolis+Real+Estate+Agent+All+Homeowners+Need+to+Double+Check+This.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
+        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:summary>
+
+Today we are going to talk about the homestead exemption and what it means to you and your tax bill. A homestead exemption is a tax break that you get on your primary residence, but we’ve found that many people don’t have it filed with the state. A few weeks ago we visited with a client who was looking to sell their home and we found that they were paying an extra $1,200 dollars in taxes over the last three years because they didn’t file their homestead exemption.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Is It Possible to Sell Your Home in Winter?</title>
+        <link>localhost:4000/indianapolis-real-estate-agent-truth.html</link>
+        
+          <category>Indianapolis Real Estate Seller Tips</category>
+        
+        <author>-- CLIENT NAME --</author>
+        <pubDate>2015-11-11 16:45:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Paula+Henry/Indianapolis+Real+Estate+Agent+-+The+Truth+About+Selling+in+the+Winter.mp4</guid>
+        <description>
+
+Are you considering selling your home soon? Many people get nervous selling their home around the holidays and during winter, so I want to share what I know about the market at this time.
+Recently, I ran some data to see how the winter market compares to the spring market. Last spring, we sold about 12,000 from March 1 to the end of June; last winter, from Nov 1 to February, there 8,900 homes sold. While fewer homes sell in the colder months here in Indianapolis, it’s clear that A LOT of homes still sell during that time.
+
+The holidays can be a bit more difficult to sell because of time constraints, family events, and decorations, but there are ways to work around these things. The great thing about selling in the winter is there are more serious buyers in the marketplace. Buyers just don’t go out looking in the cold unless they are looking to move soon!
+If you have any questions about selling in the winter months, or if you would like real estate assistance of any kind, please don’t hesitate to reach out to us. We would love to hear from you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Paula+Henry/Indianapolis+Real+Estate+Agent+-+The+Truth+About+Selling+in+the+Winter.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Paula+Henry/Indianapolis+Real+Estate+Agent+-+The+Truth+About+Selling+in+the+Winter.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
+        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:summary>
+
+Are you considering selling your home soon? Many people get nervous selling their home around the holidays and during winter, so I want to share what I know about the market at this time.
+Recently, I ran some data to see how the winter market compares to the spring market. Last spring, we sold about 12,000 from March 1 to the end of June; last winter, from Nov 1 to February, there 8,900 homes sold. While fewer homes sell in the colder months here in Indianapolis, it’s clear that A LOT of homes still sell during that time.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Can You Do to Prepare Your Home for Winter?</title>
+        <link>localhost:4000/indianapolis-real-estate-agent-how-to.html</link>
+        
+          <category>Indianapolis Real Estate</category>
+        
+          <category>Home Improvement Tips</category>
+        
+          <category>Indianapolis Real Estate Agent</category>
+        
+        <author>-- CLIENT NAME --</author>
+        <pubDate>2015-10-22 15:13:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Paula+Henry/Indianapolis+Real+Estate+Agent+-+How+to+get+your+home+ready+for+winter.mp4</guid>
+        <description>
+
+The cold weather is coming - is your home prepared? If not, you’ve come to the right place.
+Before the cold weather sets in, we recommend turning off your water spigots and draining the lines. This will protect your home from bursting pipes and costly water damage.
+Next, you want to check your outside lights. The days are getting shorter, meaning the early mornings and early evenings are darker. Make sure your outside lights are working properly before the cold weather comes along.
+
+Another thing you want to do before temperatures drop is check your furnace. You want to make sure it’s working properly now so that you can call someone out to fix it before everyone else does.
+If you would like a few more tips on how you can winterize your home, please don’t hesitate to reach out to us. We would love to help you in any way possible.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Paula+Henry/Indianapolis+Real+Estate+Agent+-+How+to+get+your+home+ready+for+winter.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Paula+Henry/Indianapolis+Real+Estate+Agent+-+How+to+get+your+home+ready+for+winter.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
+        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:summary>
+
+The cold weather is coming - is your home prepared? If not, you’ve come to the right place.
+Before the cold weather sets in, we recommend turning off your water spigots and draining the lines. This will protect your home from bursting pipes and costly water damage.
+Next, you want to check your outside lights. The days are getting shorter, meaning the early mornings and early evenings are darker. Make sure your outside lights are working properly before the cold weather comes along.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to Organize Your Home Before a Showing</title>
+        <link>localhost:4000/how-to-organize-your-home-before-showing.html</link>
+        
+        <author>-- CLIENT NAME --</author>
+        <pubDate>2015-08-05 09:34:00 -0500</pubDate>
         <guid></guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+I recently found a good video on HGTV that I thought would be helpful to you if you’re preparing to sell your home. It’s essential that when you show your home to buyers, it’s clean, organized, and decluttered. You’ll want to empty out your closets, or at the very least, get them organized.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+One thing you can do to get organized is put up shoe hangers in your doors, and store everyday items inside them such as cleaning supplies, utensils, or anything else that you can fit in them.
 
+Another way to cut down on clutter is to use labels, or pick up storage bins to keep items like cords or wires in.
 
-  list item
-  list item
-  list item
-  list item
-  list item
+A tip for organizing your closet is to divide your clothes into four different sections: hang, sell, donate, keep, and fold. Once you have something marked out for every category, you can then organize your closet in any way you see fit. Here’s an extra tip: you can use belt hangers to hang your necklaces and other jewelry.
 
+I just thought this video would be useful for organizing your home, whether you’re selling or if you just want to tidy up a bit.
 
-
-  list item
-  list item
-  list item
-  list item
-  list item
-
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+If you need any assistance with staging, decluttering, or selling, please don’t hesitate to contact me!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
@@ -114,7 +185,129 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
         <itunes:author>-- CLIENT NAME --</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>
+
+I recently found a good video on HGTV that I thought would be helpful to you if you’re preparing to sell your home. It’s essential that when you show your home to buyers, it’s clean, organized, and decluttered. You’ll want to empty out your closets, or at the very least, get them organized.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Can You Stage on a Budget?</title>
+        <link>localhost:4000/how-can-you-stage-on-budget.html</link>
+        
+          <category>Indianapolis real estate sellers tip</category>
+        
+        <author>-- CLIENT NAME --</author>
+        <pubDate>2015-07-15 14:09:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+If you are looking to sell your home, your goal is to get the most money possible in the shortest amount of time. One of the best ways to add value and appeal to your home is through home staging. You have a lot of options for how you want to go about it. You could hire a professional staging company, but that comes with a hefty price tag. Most of the time, a few simple fixes is all it takes to transform a living room.
+
+Today we are going to go through some of our most favorite, inexpensive home staging tips or you. We hope these will help you save both time and money when it comes time to sell your home.
+
+A fresh coat of paint is always a good idea. Neutral, warm colors work best for highlighting the natural light in your home. This will make it easier to punch up the room with some colorful accessories and pull everything together.
+
+A common design problem facing many homeowners is that they have no real entry way, as their front door opens up to the living room. To fix this, you can add a table, some lighting, and a rug to “fake a foyer” and make it feel like the living room and entryway are two different spaces.
+
+A patterned rug, some pillows, or bright curtains add a ton of texture and an eclectic layer to the space, which is essential to a well-designed room.
+
+In some cases, a “make-under” is just what you need. In the case of most fireplaces, taking some accessories and clutter away enhances the look and feel of the room greatly.
+
+You could spend well over a few thousand dollars with a staging company, or you could do these fixes yourself for around $500. That’s a small investment considering the value that you add to your home by adding those pieces.
+
+If you have any questions of us about staging your home or anything else real estate related, give us a call or send over a quick email. We are always here to help, and would love to hear from you!
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
+        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:summary>
+
+If you are looking to sell your home, your goal is to get the most money possible in the shortest amount of time. One of the best ways to add value and appeal to your home is through home staging. You have a lot of options for how you want to go about it. You could hire a professional staging company, but that comes with a hefty price tag. Most of the time, a few simple fixes is all it takes to transform a living room.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>6 Tips to Prepare Your Home For Sale </title>
+        <link>localhost:4000/things-to-do-before-selling.html</link>
+        
+          <category>Indianapolis real estate sellers tip</category>
+        
+        <author>-- CLIENT NAME --</author>
+        <pubDate>2015-05-12 18:45:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+The market is heating up in Indianapolis, and if you’re thinking of selling your property this spring or summer, you will need to have it looking like a brand new home. Today we’re going to discuss some things that you must do if you expect to sell for top dollar. 
+Clean your home: It’s just a fact that dirty homes do not sell. Clean your home in places that you’ve never thought to clean before. If you need to, hire a professional cleaner to come in and make your home shine.
+Declutter: This is an important step, but also a difficult one because most homeowners don’t realize how many belongings they have in their homes. Try to get rid of anything that you don’t need to sell your home. If you need to, you can get a storage space to put all of your belongings inside.
+Depersonalize: This ties in with the decluttering step. It’s important that potential buyers are able to imagine themselves living inside of your home. When your home is filled with your stuff, the buyer will be distracted by it. You want potential buyers to be looking at your home, not your belongings. This may even require repainting parts of your home, because neutrality is important.
+Curb Appeal: You want your home to appeal to buyers, and one way to draw them inside is to focus on your curb appeal. If your home looks nice on the outside, buyers will be inclined to look inside. This involves sprucing up your lawn, trimming hedges, planting flowers, cleaning windows, painting your door, and even power washing your home. Just make sure your outdoor space looks attractive. 
+Repairs: Make sure to make any repairs before you list your home for sale, because you’re not going to want to make them during your sale. Home buyers will also want to make sure that you’ve made repairs before they purchase the home, so make sure a certified contractor has been making them. This will give confidence to the buyer that your home is in good condition. 
+Staging: It’s a fact that homes that are staged sell for more money. We can come out and look at your home to help you present it in a more attractive way. We even have a staging service, so if you’re trying to sell for top dollar, this might be a good option for you.
+Hopefully all of these tips have been helpful to you, and if you would like to know more about our process and how we sell Indianapolis homes for top dollar, please don’t hesitate to contact us.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
+        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:summary>
+
+The market is heating up in Indianapolis, and if you’re thinking of selling your property this spring or summer, you will need to have it looking like a brand new home. Today we’re going to discuss some things that you must do if you expect to sell for top dollar. 
+Clean your home: It’s just a fact that dirty homes do not sell. Clean your home in places that you’ve never thought to clean before. If you need to, hire a professional cleaner to come in and make your home shine.
+Declutter: This is an important step, but also a difficult one because most homeowners don’t realize how many belongings they have in their homes. Try to get rid of anything that you don’t need to sell your home. If you need to, you can get a storage space to put all of your belongings inside.
+Depersonalize: This ties in with the decluttering step. It’s important that potential buyers are able to imagine themselves living inside of your home. When your home is filled with your stuff, the buyer will be distracted by it. You want potential buyers to be looking at your home, not your belongings. This may even require repainting parts of your home, because neutrality is important.
+Curb Appeal: You want your home to appeal to buyers, and one way to draw them inside is to focus on your curb appeal. If your home looks nice on the outside, buyers will be inclined to look inside. This involves sprucing up your lawn, trimming hedges, planting flowers, cleaning windows, painting your door, and even power washing your home. Just make sure your outdoor space looks attractive. 
+Repairs: Make sure to make any repairs before you list your home for sale, because you’re not going to want to make them during your sale. Home buyers will also want to make sure that you’ve made repairs before they purchase the home, so make sure a certified contractor has been making them. This will give confidence to the buyer that your home is in good condition. 
+Staging: It’s a fact that homes that are staged sell for more money. We can come out and look at your home to help you present it in a more attractive way. We even have a staging service, so if you’re trying to sell for top dollar, this might be a good option for you.
+Hopefully all of these tips have been helpful to you, and if you would like to know more about our process and how we sell Indianapolis homes for top dollar, please don’t hesitate to contact us.
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Is the Indianapolis Market Shaping Up?</title>
+        <link>localhost:4000/there-are-variety-of-opportunities-in.html</link>
+        
+          <category>Indianapolis Real Estate Market Update</category>
+        
+        <author>-- CLIENT NAME --</author>
+        <pubDate>2015-04-21 16:23:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+The spring season is here, and with that comes one of the busiest times of year for real estate. Today we are going to look at the spring market and how it’s shaping up for 2015 as we continue into the busy selling season.
+
+It has been a fast-paced spring so far and home buyers are out there looking for homes and making offers. One way we measure activity is through the absorption rate, which is a measure of inventory in our market. As a whole in our MLS, there is around a 4.5-5 month supply right now, which puts us in a neutral market.
+
+However, every neighborhood is different. Even though as a whole we are in a balanced market, certain price points are selling more quickly than others.
+
+For example, right now in the $200,000 and $300,000 price range, we have 114 homes for sale, with 40 homes being sold last month. This gives us a 2.8 month supply of inventory of these homes, putting them in demand in a strong seller’s market.
+
+To give you an idea of what’s going on in Fishers, right now there are 424 homes for sale, with 133 being sold last month. This puts Fishers at an inventory level of just over 3 months.
+
+We hope this helps you out when you are thinking about buying or selling in Indianapolis this spring. If you have any questions, be sure to give us a call or send us an email.. We’d be happy to answer them!
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
+        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:summary>
+
+The spring season is here, and with that comes one of the busiest times of year for real estate. Today we are going to look at the spring market and how it’s shaping up for 2015 as we continue into the busy selling season.
+
+</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
