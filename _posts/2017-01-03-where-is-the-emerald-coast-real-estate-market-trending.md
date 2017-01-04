@@ -56,13 +56,13 @@ Shopping and entertainment: Brand New and Expansions
 New Hotels:
 {: .present-before-paste}
 
-[The](__notset__)[Henderson (5 star)](https://www.hendersonbeachresort.com/)
+[The Henderson (5 star)](https://www.hendersonbeachresort.com/)
 {: .present-before-paste}
 
-The Pearl of Rosemary
+[The Pearl of Rosemary](http://www.thepearlrb.com/)
 {: .present-before-paste}
 
-The Hampton Inn
+[The Hampton Inn](http://hamptoninn3.hilton.com/en/hotels/florida/hampton-inn-and-suites-destin-DSINEHX/index.html)
 {: .present-before-paste}
 
 If you have any questions about our market or if there’s anything I can assist you with, please feel free to give me a ring or shoot me an email. I would love the opportunity to serve you!
