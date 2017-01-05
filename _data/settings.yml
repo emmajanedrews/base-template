@@ -7,26 +7,26 @@ custom_links:
     url:
 
 client:
-  name:
-  license_number:
+  name: Chris Gorman
+  license_number: 'Broker License #-277810'
   about_markdown: |
 
   market:
-  brand:
+  brand: Gorman Residential Real Estate Services
   brokerage:
-  address:
-  phone:
+  address: 7920 ACC Blvd suite 210<br>Raleigh NC 27617
+  phone: 919-645-7212
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: chris@gormanresidential.com
+  url: http://www.gormanresidential.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.gormanresidential.com/contact/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.gormanresidential.com/listings-search/
   phone_CTA: true
   VR_form:
 
@@ -78,8 +78,8 @@ images:
   hero_image_path: /img/background.jpg
 
 site_colors:
-  brand_color: '#C14547'
-  theme_color: '#005473'
+  brand_color: '#C6AC34'
+  theme_color: '#481425'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
