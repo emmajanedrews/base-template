@@ -1,6 +1,6 @@
 audit_header: false
 title: Career Advancement Video Blog
-description: Govig & Associates is one of the largest privately held firms in the Executive Search industry. With more than three decades in staffing and recruiting, we have the knowledge, the network and the speed to provide unparalleled service to our clients.
+description: 'Govig & Associates is one of the largest privately held firms in the Executive Search industry. With more than three decades in staffing and recruiting, we have the knowledge, the network and the speed to provide unparalleled service to our clients.'
 show_custom_links: true
 custom_links:
   - title: Bio Pharma
@@ -15,128 +15,205 @@ custom_links:
     url: /health-care
 client:
   clients:
-    - name: 'Dianna LoDolce'
+    - name: Dianna LoDolce
       title: Sr. Vice President/ General Manager
       specialty: Bio Pharma
-      client_headshot_path: '/img/headshot1.jpg'
+      client_headshot_path: /img/headshot1.jpg
       phone: 480-718-6167
       email: Dianna.lodolce@govig.com
-      VR_form: http://oi.vresp.com?fid=edc00c84dc
-      about_markdown: |
-        Dianna LoDolce manages the Biopharma Division at Govig & Associates. With over 28 years of recruiting experience, Dianna’s team successfully places professionals in a diverse range of pharmaceutical and biotech companies across the nation.
+      VR_form: 'http://oi.vresp.com?fid=edc00c84dc'
+      about_markdown: >-
+        Dianna LoDolce manages the Biopharma Division at Govig & Associates. With
+        over 28 years of recruiting experience, Dianna’s team successfully places
+        professionals in a diverse range of pharmaceutical and biotech companies
+        across the nation.
 
-        In addition to building award-winning teams, many of the recruiters she has trained over the years are still thriving in the industry today.
 
-        Her degree in the sciences from Arizona State University and 27 years in management give her special insight into recruiting top talent into these complex industries and in providing leadership for her team.
 
-        Dianna has a bachelor’s of science in Microbiology, magna cum laude, and has done masters work in the field of nutrition.
-    - name: 'Jennifer Meyer'
+        In addition to building award-winning teams, many of the recruiters she
+        has trained over the years are still thriving in the industry today.
+
+
+
+        Her degree in the sciences from Arizona State University and 27 years in
+        management give her special insight into recruiting top talent into these
+        complex industries and in providing leadership for her team.
+
+
+
+        Dianna has a bachelor’s of science in Microbiology, magna cum laude, and
+        has done masters work in the field of nutrition.
+    - name: Jennifer Meyer
       title: Sr. Vice President/ General Manager
-      specialty: "Building Products"
-      client_headshot_path: '/img/headshot2.jpg'
+      specialty: Building Products
+      client_headshot_path: /img/headshot2.jpg
       phone: 480-718-6131
       email: Jennifer.meyer@govig.com
-      VR_form: http://oi.vresp.com?fid=ef91d98316
-      about_markdown: |
-        Jennifer Meyer is the Senior Vice President, General Manager for the Arizona Market Recruiting Team. She is responsible for the strategic and execution support for a top performing team who specializes at national niches in construction, building products, tax and verticals in the Arizona Market.
+      VR_form: 'http://oi.vresp.com?fid=ef91d98316'
+      about_markdown: >-
+        Jennifer Meyer is the Senior Vice President, General Manager for the
+        Arizona Market Recruiting Team. She is responsible for the strategic and
+        execution support for a top performing team who specializes at national
+        niches in construction, building products, tax and verticals in the
+        Arizona Market.
 
-        Jennifer has 20 years of experience in the search and recruiting industry and most recently, served as president and co-founder of North Coast ExecuSearch, Inc., a talent recruitment firm she launched in 2002. She is recognized for successfully placing more than 900 professionals and has accumulated several industry accolades, including 14-time Pacesetter Award winner, 4-time Top 15 Producing Manager, MRI Hall of Fame Inductee and MRI Top Gun Designee through the MRINetwork.
 
-        Her unwavering commitment to her work and the industry guarantees top results when mentoring and developing top performers and ensuring long-term business relationships that are mutually beneficial for both companies she works with as well as professionals she places.
 
-        Although Jennifer has been in the Cleveland area for the last 20 years, Jennifer grew up in Arizona, receiving her degree from Northern Arizona University, and is glad to be back to the sunshine. She continues to feed her competitive nature, embraces philanthropy, and gives back to the community whenever possible.
-    - name: 'Todd Govig'
+        Jennifer has 20 years of experience in the search and recruiting industry
+        and most recently, served as president and co-founder of North Coast
+        ExecuSearch, Inc., a talent recruitment firm she launched in 2002. She is
+        recognized for successfully placing more than 900 professionals and has
+        accumulated several industry accolades, including 14-time Pacesetter
+        Award winner, 4-time Top 15 Producing Manager, MRI Hall of Fame Inductee
+        and MRI Top Gun Designee through the MRINetwork.
+
+
+
+        Her unwavering commitment to her work and the industry guarantees top
+        results when mentoring and developing top performers and ensuring
+        long-term business relationships that are mutually beneficial for both
+        companies she works with as well as professionals she places.
+
+
+
+        Although Jennifer has been in the Cleveland area for the last 20 years,
+        Jennifer grew up in Arizona, receiving her degree from Northern Arizona
+        University, and is glad to be back to the sunshine. She continues to feed
+        her competitive nature, embraces philanthropy, and gives back to the
+        community whenever possible.
+    - name: Todd Govig
       title: President/CEO
-      specialty: "Careers"
-      client_headshot_path: '/img/headshot3.jpg'
+      specialty: Careers
+      client_headshot_path: /img/headshot3.jpg
       phone: 480-718-6200
       email: todd@govig.com
-      VR_form: http://oi.vresp.com?fid=3709810dba
-      about_markdown: |
-        Todd Govig is the President and CEO of Govig & Associates. Prior to joining Govig & Associates, Todd was a Regional Manager for American Hospital Supply/Baxter Healthcare. In September of 1987, he left the healthcare industry to join his parents, the founders of Govig & Associates, and has grown the business from $1million to 14 million.
+      VR_form: 'http://oi.vresp.com?fid=3709810dba'
+      about_markdown: >-
+        Todd Govig is the President and CEO of Govig & Associates. Prior to
+        joining Govig & Associates, Todd was a Regional Manager for American
+        Hospital Supply/Baxter Healthcare. In September of 1987, he left the
+        healthcare industry to join his parents, the founders of Govig
+        & Associates, and has grown the business from $1million to 14 million.
 
-        Clients, candidates and employees alike can all agree that Todd has a natural knack for leadership and the recruiting industry and supreme insight on each vertical that Govig specializes in. He has led Govig & Associates to become one of the largest and most successful privately held recruiting firms in Arizona.
 
-        Todd received his B.A. in Business Administration from Colorado College in 1981. An aviation enthusiast, Todd also enjoys telemark skiing and white water kayaking. Todd and his four children live in Phoenix.
-    - name: 'Sherri Huston'
+
+        Clients, candidates and employees alike can all agree that Todd has
+        a natural knack for leadership and the recruiting industry and supreme
+        insight on each vertical that Govig specializes in. He has led Govig
+        & Associates to become one of the largest and most successful privately
+        held recruiting firms in Arizona.
+
+
+
+        Todd received his B.A. in Business Administration from Colorado College
+        in 1981. An aviation enthusiast, Todd also enjoys telemark skiing and
+        white water kayaking. Todd and his four children live in Phoenix.
+    - name: Sherri Huston
       title: Sr. Vice President/ General Manager
-      specialty: "Futurity"
-      client_headshot_path: '/img/headshot4.jpg'
+      specialty: Futurity
+      client_headshot_path: /img/headshot4.jpg
       phone: 480-718-6105
       email: sherri.huston@govig.com
-      VR_form: http://oi.vresp.com?fid=e08fb53196
-      about_markdown: |
-        Sherri Huston is the Senior Vice President for Govig’s Healthcare Group. The Healthcare Group has served the Long-Term Care and Senior Housing industries since 1988. The team has an average tenure of 8 years which allows them a depth of knowledge and network that is uncommon in the industry.
+      VR_form: 'http://oi.vresp.com?fid=e08fb53196'
+      about_markdown: >-
+        Sherri Huston is the Senior Vice President for Govig’s Healthcare Group.
+        The Healthcare Group has served the Long-Term Care and Senior Housing
+        industries since 1988. The team has an average tenure of 8 years which
+        allows them a depth of knowledge and network that is uncommon in the
+        industry.
 
-        In addition to leading a successful Healthcare division, Sherri also manages and has developed The Company Futurity Assessment, a new design for performance management to help companies look into the future, improve employee engagement and drive business results.
 
-        Sherri is passionate about bringing forth ideas which are innovative, and with implementation, will transform organizations. Huston’s career has been built on leading change and intuitively influencing others for a greater purpose. Her greatest thrill is watching people push through barriers to achieve heights they never thought they could.
 
-        Sherri is an Arizona native and is actively involved in both women’s and leadership groups in her community.
-    - name: 'Hadley Gayles'
-      title: Division Manager
-      specialty: "Health Care"
-      client_headshot_path: '/img/headshot5.jpg'
+        In addition to leading a successful Healthcare division, Sherri also
+        manages and has developed The Company Futurity Assessment, a new design
+        for performance management to help companies look into the future,
+        improve employee engagement and drive business results.
+
+
+
+        Sherri is passionate about bringing forth ideas which are innovative, and
+        with implementation, will transform organizations. Huston’s career has
+        been built on leading change and intuitively influencing others for
+        a greater purpose. Her greatest thrill is watching people push through
+        barriers to achieve heights they never thought they could.
+
+
+
+        Sherri is an Arizona native and is actively involved in both women’s and
+        leadership groups in her community.
+    - name: Hadley Gayles
+      title: Sr. Vice President/ General Manager
+      specialty: Health Care
+      client_headshot_path: /img/headshot5.jpg
       phone: 480-718-6124
       email: hadley.gayles@govig.com
-      VR_form: http://oi.vresp.com?fid=b25d5c680a
-      about_markdown: |
-        Hadley Gayles is the Govig Healthcare Group Division Manager. Govig is a retained search firm that works nationwide, their expertise include; broad executive search with a focus on clinical, operations, sales & marketing, and human resources.
+      VR_form: 'http://oi.vresp.com?fid=b25d5c680a'
+      about_markdown: >-
+        Hadley Gayles is the Govig Healthcare Group Division Manager. Govig is
+        a retained search firm that works nationwide, their expertise include;
+        broad executive search with a focus on clinical, operations, sales
+        & marketing, and human resources.
 
-        Hadley possesses ten years of team leadership and customer relations management experience. Hadley began his career at Govig in June of 2008. Since that time he has been involved in 250+ successful placements, which include several C-level, VP and Regional retained searches. Hadley and his wife Jolie have a passion for traveling and spending time with their golden retriever Henry.
-  about_header: About Govig &amp; Associates
+
+
+        Hadley possesses ten years of team leadership and customer relations
+        management experience. Hadley began his career at Govig in June of 2008.
+        Since that time he has been involved in 250+ successful placements, which
+        include several C-level, VP and Regional retained searches. Hadley and
+        his wife Jolie have a passion for traveling and spending time with their
+        golden retriever Henry.
+  about_header: 'About Govig &amp; Associates'
   contact: info@govig.com
-  market: Scottsdale, AZ
+  market: 'Scottsdale, AZ'
   brand: Govig and Associates
   brokerage:
   address: '4800 North Scottsdale Rd. Suite 2800<br>Scottsdale, AZ 85251'
-  url: http://govig.com
+  url: 'http://govig.com'
   first_CTA_text: Request a Consultation
-  first_CTA_URL: http://govig.com/request-information/
+  first_CTA_URL: 'http://govig.com/request-information/'
   second_CTA_text: Hire Us
   second_CTA_URL: 'http://govig.com/contact'
 welcome_headline: Free Career Advancement Video Tips
-welcome_text_markdown: |
-  Subscribe to our email list to get answers when working with a recruiter to find your dream career or place your perfect candidate.
+welcome_text_markdown: Subscribe to our email list to get answers when working with a recruiter to find your dream career or place your perfect candidate.
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/pg/GovigAndAssociates
-  linkedin_url: https://www.linkedin.com/company/govig-&-associates
-  gplus_url: https://plus.google.com/u/0/100769482810789869958
-  youtube_url: https://www.youtube.com/channel/UC8OmT0n_uK9jaQOKGKzlonA
-  twitter_url: https://twitter.com/GovigAssociates
+  facebook_url: 'https://www.facebook.com/pg/GovigAndAssociates'
+  linkedin_url: 'https://www.linkedin.com/company/govig-&-associates'
+  gplus_url: 'https://plus.google.com/u/0/100769482810789869958'
+  youtube_url: 'https://www.youtube.com/channel/UC8OmT0n_uK9jaQOKGKzlonA'
+  twitter_url: 'https://twitter.com/GovigAssociates'
   instagram_url:
   pinterest_url:
   zillow_url:
   trulia_url:
-  yelp_url: https://www.yelp.com/biz/govig-and-associates-scottsdale
-  podcast_url: https://itunes.apple.com/us/podcast/govig-and-associates-podcast/id1190361103?mt=2
+  yelp_url: 'https://www.yelp.com/biz/govig-and-associates-scottsdale'
+  podcast_url: 'https://itunes.apple.com/us/podcast/govig-and-associates-podcast/id1190361103?mt=2'
 podcast:
   title: Govig and Associates Podcast
-  categories: News &amp; Politics
+  categories:
   image: /img/govig_podcast.jpg
   subtitle:
-  description: Govig &amp; Associates is one of the largest privately held firms in the Executive Search industry. With more than three decades in staffing and recruiting, we have the knowledge, the network and the speed to provide unparalleled service to our clients.
+  description: 'Govig &amp; Associates is one of the largest privately held firms in the Executive Search industry. With more than three decades in staffing and recruiting, we have the knowledge, the network and the speed to provide unparalleled service to our clients.'
   keywords: 'recruiter, executive recruiter, executive search, executive search firms, executive headhunters, top executive recruiters, recruitment firm, management recruiter'
   author: Govig and Associates
 images:
-  client_headshot_path: '/img/headshot.png'
-  hero_logo_path: '/img/logo.png'
+  client_headshot_path: /img/headshot.png
+  hero_logo_path: /img/logo.png
   hero_text:
-  hero_background_hex: '#95969A'
-  hero_image_path: '/img/background.jpg'
-  hero_image1_path: '/img/background1.jpg'
-  hero_image2_path: '/img/background2.jpg'
-  hero_image3_path: '/img/background3.jpg'
-  hero_image4_path: '/img/background4.jpg'
-  hero_image5_path: '/img/background5.jpg'
-  selection_image1_path: '/img/selection1.jpg'
-  selection_image2_path: '/img/selection2.jpg'
-  selection_image3_path: '/img/selection3.jpg'
-  selection_image4_path: '/img/selection4.jpg'
-  selection_image5_path: '/img/selection5.jpg'
-brand_color: '#F76C29'
-theme_color: '#95969A'
+  hero_background_hex: '#95969a'
+  hero_image_path: /img/background.jpg
+  hero_image1_path: /img/background1.jpg
+  hero_image2_path: /img/background2.jpg
+  hero_image3_path: /img/background3.jpg
+  hero_image4_path: /img/background4.jpg
+  hero_image5_path: /img/background5.jpg
+  selection_image1_path: /img/selection1.jpg
+  selection_image2_path: /img/selection2.jpg
+  selection_image3_path: /img/selection3.jpg
+  selection_image4_path: /img/selection4.jpg
+  selection_image5_path: /img/selection5.jpg
+brand_color: '#f76c29'
+theme_color: '#95969a'
 theme_text_color: '#353535'
 main_body_color: '#ffffff'
 main_body_text_color: '#353535'
