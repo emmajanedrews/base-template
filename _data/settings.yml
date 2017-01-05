@@ -8,24 +8,34 @@ custom_links:
 client:
   name: Trudy Coler
   license_number: 201213941
-  about_markdown: |
-    My name is Trudy Coler and I am a full-time, full-service realtor serving the Portland, Or marketplace including the surrounding communities of Beaverton, Hillsboro, Tigard, Tualatin, West Linn and Lake Oswego. I left over 25 years in the corporate world to pursue my dream of taking care of my wonderful sellers and buyers as they relocate, downsize, make their first purchase, sell and buy their dream house and all of the other things that happen with families and home as life happens. My goal is to provide valuable information on properties and the process of buying or selling a home and my work is not done at closing time. I want you to think of me as a resource for all your home and life needs – plumber, electrician, handyman, painter, babysitter, dogsitter, housesitter and more!
+  about_markdown: >
+    My name is Trudy Coler and I am a full-time, full-service realtor serving the
+    Portland, Or marketplace including the surrounding communities of Beaverton,
+    Hillsboro, Tigard, Tualatin, West Linn and Lake Oswego. I left over 25 years
+    in the corporate world to pursue my dream of taking care of my wonderful
+    sellers and buyers as they relocate, downsize, make their first purchase,
+    sell and buy their dream house and all of the other things that happen with
+    families and home as life happens. My goal is to provide valuable information
+    on properties and the process of buying or selling a home and my work is not
+    done at closing time. I want you to think of me as a resource for all your
+    home and life needs – plumber, electrician, handyman, painter, babysitter,
+    dogsitter, housesitter and more!
   brand: '&#x40;Home Property Group, LLC'
   brokerage:
-  address: 2301 NW Thurman St.  Suite i Portland, Oregon 97210
+  address: '2301 NW Thurman St.  Suite i Portland, Oregon 97210'
   phone: 971-227-2521
   phone_type:
   phone2:
   phone2_type:
   email: Trudy@colerpdx.com
-  url: 
+  url:
 CTAs:
   first_CTA_text: Home Evaluation
   first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: 'http://www.realtor.com/'
   phone_CTA: true
-  VR_form: http://oi.vresp.com?fid=f8f36adbda
+  VR_form: 'http://oi.vresp.com?fid=f8f36adbda'
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
@@ -36,20 +46,20 @@ welcome_box:
     receive expert tips for buying or selling a home.
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/trudycoler1
-  linkedin_url: https://www.linkedin.com/in/ttcoler
-  gplus_url: https://plus.google.com/105200600312159658490
+  facebook_url: 'https://www.facebook.com/trudycoler1'
+  linkedin_url: 'https://www.linkedin.com/in/ttcoler'
+  gplus_url: 'https://plus.google.com/105200600312159658490'
   youtube_url:
-  twitter_url: https://twitter.com/TrudyColer
+  twitter_url: 'https://twitter.com/TrudyColer'
   instagram_url:
   pinterest_url:
-  zillow_url: http://www.zillow.com/profile/trudycoler/
-  trulia_url: https://www.trulia.com/profile/trudy-coler-agent-portland-or-zg00d30c
+  zillow_url: 'http://www.zillow.com/profile/trudycoler/'
+  trulia_url: 'https://www.trulia.com/profile/trudy-coler-agent-portland-or-zg00d30c'
   yelp_url:
   podcast_url:
 podcast:
   title: Portland Real Estate Podcast with Trudy Coler
-  categories: News &amp; Politics
+  categories:
   image:
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
