@@ -6,9 +6,9 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt: We are in a strong seller’s market.
+excerpt: 'We’ve got a quick update for you on the Portland real estate market. Inventory is still low, keeping us in a strong seller’s market.'
 enclosure: 'http://vyralmarketing.s3.amazonaws.com/Trudy%20Coler/A%20Quick%20Portland%20Real%20Estate%20Market%20Update.mp4'
-pullquote: 'Andross, the Final Boss'
+pullquote: We are in a strong seller’s market.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -25,7 +25,7 @@ We have been experiencing a solid two to three years of home value appreciation 
 
 There simply isn’t a lot of inventory out there for buyers to choose from. We had 1.8 months of inventory at the beginning of the year, and right now we have two months. We are still in a strong seller’s market.
 
-To put that into perspective, six months of inventory is considered a balanced market. **We’ve got a ways to go before we’re at that point.&nbsp;**For now (and for the foreseeable future), sellers have the advantage in our market.
+To put that into perspective, six months of inventory is considered a balanced market. **We’ve got a ways to go before we’re at that point.**For now (and for the foreseeable future), sellers have the advantage in our market.
 
 If you’re thinking of buying or selling in 2017, give us a call or send us an email so we can get a strategy session scheduled. I’d also love to answer any questions you may have. I hope to hear from you soon!
 
