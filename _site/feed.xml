@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Base Template</title>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</description>
+    <title>Chicago Real Estate Video Blog with Ashley Carter</title>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Carter Property Group - your professional Chicago Real Estate Agents.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 03 Jan 2017 10:50:29 -0600</pubDate>
-    <lastBuildDate>Tue, 03 Jan 2017 10:50:29 -0600</lastBuildDate>
+    <pubDate>Thu, 05 Jan 2017 18:02:52 -0600</pubDate>
+    <lastBuildDate>Thu, 05 Jan 2017 18:02:52 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
