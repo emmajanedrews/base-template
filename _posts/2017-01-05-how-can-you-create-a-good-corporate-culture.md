@@ -16,6 +16,9 @@ youtube_code: jTPBsV298dc
 
 {% include youtube.html %}
 
+[Request a Consultation](http://govig.com/request-information/) - [Hire Us to Fill Your Job Openings](http://govig.com/contact/)
+{: style="text-align: center"}
+
 What do people really mean when they ask about corporate culture?&nbsp;
 
 It’s nice to be able to take your dog to work or have an office softball team. Those kinds of things are important in cultivating a company’s culture. Really, though, **there are only three core things people think about anytime they consider a job change:**
