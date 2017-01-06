@@ -19,6 +19,8 @@ youtube_code: uczGsNBAKmQ
 
 {% include youtube.html %}
 
+*We’ve got a quick update for you on the Portland real estate market. Inventory is still low, keeping us in a strong seller’s market.*
+
 As we begin 2017, we wanted to take a moment to give you a recap of what we saw in the Portland real estate market this year. **As you can imagine, I’m asked quite frequently how the market is doing.**
 
 We have been experiencing a solid two to three years of home value appreciation at this point, which has greatly benefited sellers. Many of them are seeing multiple offers, quick sales, and top dollar for their home.
