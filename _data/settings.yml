@@ -30,7 +30,7 @@ CTAs:
   VR_form:
 
 sidebar_CTA:
-  CTA_image_path: /img/cta-images/004.jpg
+  CTA_image_path: /img/cta-images/006.jpg
   CTA_title: Looking to Buy a Home?
   CTA_text: Search the entire MLS for homes located in -- MARKET --.
   CTA_link_text: Home Search Tool
@@ -55,7 +55,7 @@ socials:
   instagram_url:
   pinterest_url:
   zillow_url: http://www.zillow.com/profile/Ashley-Carter/
-  trulia_url:
+  trulia_url: https://www.trulia.com/profile/ashley-carter-agent-chicago-il-zgg19f8f/overview
   yelp_url:
   podcast_url:
 
@@ -73,12 +73,12 @@ images:
   hero_logo_path: /img/logo.png
   logo_width_number: 50rem
   hero_text: Real Estate Video Blog
-  hero_background_hex: '#D21242'
+  hero_background_hex: '#b22025'
   hero_image_path: /img/background.jpg
 
 site_colors:
-  brand_color: '#D21242'
-  theme_color: '#D21242'
+  brand_color: '#b22025'
+  theme_color: '#b22025'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -87,7 +87,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: "#000"
+  shadow_color: "#b22025"
 
 buttons:
   button_radius_number: 0px
