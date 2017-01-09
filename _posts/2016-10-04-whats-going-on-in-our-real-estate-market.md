@@ -1,19 +1,18 @@
 ---
 layout: post
-title: this is a test post
+title: "What's Going On In Our Real Estate Market?"
 tags:
   - Market Update
   - Real Estate
-  - Buyer Tips
   - Home Seller Tips
-excerpt: 'Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.'
+excerpt: "What's Going On In Our Real Estate Market?"
 enclosure:
-pullquote: This is an example of a pull quote
+pullquote: "What's Going On In Our Real Estate Market?"
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: SFFy_drFrZs
+youtube_code: v=_plfRm5Gcsc
 ---
 
 
