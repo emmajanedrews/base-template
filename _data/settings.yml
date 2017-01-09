@@ -7,35 +7,35 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Ernie Dill
   license_number:
   about_markdown: |
-
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    Our Team is composed of a number of enormously talented Realtors. Several have served our country as junior and field grade military officers, important background in a military and DoD community! Helping you search through all of the real estate listings in our area is just the beginning. From purchase to financing to connecting with utilities to remodeling and beyond, we can help. We’re here for the entire life of your home, so you can enjoy living - at home. Samson Properties is one of the largest Real Estate Brokers in Northern VA, MD and the Washington, D.C. area, professional Realtors with a Family touch. Since securing mortgage financing is critical to successful purchase of a home, we also have two Lending Officers on the Team, Barbara Parks and Aaron Simmons, of First Heritage Mortgage, LLC.
+  market: Northern Virginia
+  brand: Samson Properties Realty
+  brokerage: First Heritage Mortgage
+  address: 1440 Central Park Blvd., Ste. 210<br>Fredericksburg, VA 22401
+  phone: 540-841-1825
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: emdill@gmail.com
+  url: http://www.northernvahomefinder.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.northernvahomefinder.com/homevalue/value
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.northernvahomefinder.com/
   phone_CTA: true
   VR_form:
 
 sidebar_CTA:
-  CTA_image_path: /img/cta-images/004.jpg
+  CTA_image_path: /img/cta-images/002.jpg
   CTA_title: Looking to Buy a Home?
   CTA_text: Search the entire MLS for homes located in -- MARKET --.
   CTA_link_text: Home Search Tool
-  CTA_url: /homesearch/
+  CTA_url: http://www.northernvahomefinder.com/
 
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
@@ -48,22 +48,22 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
+  facebook_url: https://www.facebook.com/samsonpropertiesrealty/?pnref=lhc
+  linkedin_url: https://www.linkedin.com/in/ernie-dill-6234979/
+  gplus_url: https://plus.google.com/114601864881537537704
+  youtube_url: https://www.youtube.com/user/zen4dman
   twitter_url:
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
+  zillow_url: http://www.zillow.com/profile/zen4dman/
+  trulia_url: https://www.trulia.com/profile/ernie-dill-agent-fredericksburg-va-zgc7qr3v/overview
   yelp_url:
   podcast_url:
 
 podcast:
   title:
-  categories:
-  image:
+  categories: News &amp; Politics
+  image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
@@ -78,8 +78,8 @@ images:
   hero_image_path: /img/background.jpg
 
 site_colors:
-  brand_color: '#C14547'
-  theme_color: '#005473'
+  brand_color: '#DA1C23'
+  theme_color: '#000000'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -96,7 +96,7 @@ buttons:
   button_padding_height_number: 15px
   button_border_color: '#ffffff'
   button_background_color: '#ffffff'
-  button_text_color: '#123456'
+  button_text_color: '#DA1C23'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'
