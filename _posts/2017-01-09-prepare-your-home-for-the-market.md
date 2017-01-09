@@ -5,7 +5,7 @@ tags:
   - Home Seller Tips
 excerpt: Now is the time to prepare your home for the spring real estate market. I’ll give you a few tips on how to create an enjoyable showing experience for potential buyers.
 enclosure:
-pullquote: A few small fixes can go a long way.
+pullquote: A few small fix can go a long way.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
