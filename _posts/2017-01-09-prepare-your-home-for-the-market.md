@@ -5,7 +5,7 @@ tags:
   - Home Seller Tips
 excerpt: Now is the time to prepare your home for the spring real estate market. I’ll give you a few tips on how to create an enjoyable showing experience for potential buyers.
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Nathan+Abbott/Nathan+Abbott+Team-+How+to+prepare+your+home+for+the+market.mp4'
-pullquote: A few small fix can go a long way.
+pullquote: A few small fixes can go a long way.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -32,4 +32,4 @@ Make sure that your house is clean and smells fresh. Vacuum the carpets, mop the
 
 We also have a 75-point checklist to help you manage small repair items before you put your home on the market. You can also get a preliminary home inspection before listing your home; that way, you won’t be surprised by the buyer’s list of repairs, and you can take care of a few issues beforehand.
 
-Now is the time to prepare your home for the market. If you have any questions, give me a call or send me an email. I would be happy to help you!
+If you have any questions, give me a call or send me an email. I would be happy to help you!
