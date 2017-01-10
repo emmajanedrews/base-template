@@ -2,10 +2,8 @@
 layout: post
 title: Why Is it Smart to Buy or Sell in Winter?
 tags:
-  - Market Update
-  - Real Estate
-  - Buyer Tips
   - Home Seller Tips
+  - Buyer Tips
 excerpt: The winter is a great time to buy or sell a home. There are a number of advantages you won’t get in the spring or summer.
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Randy+Plaice/Videos/2017/Make+It+Happen+This+Winter+-+Santa+Clarita+Real+Estate+Agent.mp4'
 pullquote: Interest rates are creeping up
