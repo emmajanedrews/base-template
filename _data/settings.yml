@@ -7,27 +7,26 @@ custom_links:
     url:
 
 client:
-  name:
-  license_number:
+  name: Emily & Paul Hervieux
+  license_number: CA BRE# 01748533<br>CA BRE# 01874325
   about_markdown: |
 
   market:
   brand:
   brokerage:
-  address:
-  phone:
+  address: 12780 High Bluff Dr, Suite 130<br>San Diego, CA 92130
+  phone: 858-356-5463
   phone_type:
   phone2:
   phone2_type:
-  email:
+  email: info@justsoldsd.com
   url:
 
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_text: Seller Seminar
+  first_CTA_URL: http://homesellersuccess.com/registration/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
-  phone_CTA: true
+  second_CTA_URL: http://hervieuxrealestatelistings.com/activelistings/
   VR_form:
 
 sidebar_CTA:
@@ -35,7 +34,7 @@ sidebar_CTA:
   CTA_title: Looking to Buy a Home?
   CTA_text: Search the entire MLS for homes located in -- MARKET --.
   CTA_link_text: Home Search Tool
-  CTA_url: /homesearch/
+  CTA_url: http://hervieuxrealestatelistings.com/activelistings/
 
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
@@ -71,15 +70,16 @@ podcast:
 
 images:
   client_headshot_path: /img/headshot.jpg
+  client_headshot_path_2: /img/headshot-2.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40rem
   hero_text: Real Estate Video Blog
-  hero_background_hex: '#094264'
+  hero_background_hex: '#DA1A15'
   hero_image_path: /img/background.jpg
 
 site_colors:
-  brand_color: '#C14547'
-  theme_color: '#005473'
+  brand_color: '#DA1A15'
+  theme_color: '#3D3D3D'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
