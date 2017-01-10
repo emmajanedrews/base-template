@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Prepare Your Home for the Market
+title: Prepare To Your Home for the Market
 tags:
   - Home Seller Tips
 excerpt: Now is the time to prepare your home for the spring real estate market. I’ll give you a few tips on how to create an enjoyable showing experience for potential buyers.
