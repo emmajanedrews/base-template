@@ -2,7 +2,7 @@
 layout: post
 title: Should You Buy or Sell in Our Current Market?
 tags:
-  - Home Seller Tips
+  - Market Update
 excerpt: Inventory is low in our market and interest rates have settled down after a slight uptick. What does this mean for you going forward?
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Market+Update.mp4'
 pullquote: It’s still a great time to buy real estate.
