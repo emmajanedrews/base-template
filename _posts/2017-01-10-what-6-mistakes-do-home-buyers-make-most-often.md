@@ -24,7 +24,7 @@ Besides financing, you also have to time the sale of your present home so you ca
 
 {% include pullquote.html %}
 
-To address these issues, we have prepared a free special report for you, the aforementioned “"6 Things You Must Know Before You Buy". To receive a copy, simply** <u><a href="http://www.greatervancouvergroup.com/info/6-buyer-mistakes">visit our site</a></u>**and request your copy.
+To address these issues, we have prepared a free special report for you, the aforementioned “"6 Things You Must Know Before You Buy". **To receive a copy, simply**** <u><a href="http://www.greatervancouvergroup.com/info/6-buyer-mistakes">visit our site</a></u>****and request your copy.**
 
 This report will help you make an informed choice before putting your home on the market in preparation for moving to a larger home. Order this report now to find out what you need to know to make your move to a larger home free of worry and complication.
 
