@@ -26,11 +26,11 @@ Another cool fact about these lenders is that they have special software that al
 
 {% include pullquote.html %}
 
-I also have clients who decide to work with their bank, and I get that. **It can be convenient to have all of your accounts and mortgage at one branch.** However, be aware that your bank can only provide you mortgage options that they already offer. One time, I had a mortgage broker assist my client with a pre-approval, and it turned out that he was able to get the client a better mortgage with their own bank that what the clients were able to do by just walking in and requesting a mortgage with their bank.
+I also have clients who decide to work with their bank, and I get that. **It can be convenient to have all of your accounts and mortgage at one branch.** However, be aware that your bank can only provide you mortgage options that they already offer. In fact, I once had a mortgage broker assist my client, and the broker got them a better mortgage than the client themselves could get at their own bank
 
 It’s kind of silly, but it’s important to see all options rather than just one.
 
-I like to think of the different between getting a mortgage from a mortgage broker and a bank this way: a mortgage broker is a huge wine store with every brand and type of wine selection available and a staff that gives opinions, insight, and recommendations, as well as points out which ones are on sale or are of good value. A bank, in this example, would be like going to a wine store with just one wine available. The horror! Then, they try to convince you that this one kind of wine is the best and that you should buy it.
+I like to think of the difference between getting a mortgage from a mortgage broker and a bank this way: a mortgage broker is a huge wine store with every brand and type of wine selection available and a staff that gives opinions, insight, and recommendations, as well as points out which ones are on sale or are of good value. A bank, in this example, would be like going to a wine store with just one wine available. The horror! Then, they try to convince you that this one kind of wine is the best and that you should buy it.
 
 If you have any questions or you’re interested in meeting with a mortgage broker, contact me to speak with one of these amazing individuals. Remember to do your homework and get all information before making any decision.
 
