@@ -1,5 +1,5 @@
 audit_header: false
-title: The Base Template
+title: Raleigh Real Estate Video Blog with Chris Gorman
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -10,8 +10,8 @@ client:
   name: Chris Gorman
   license_number: 'Broker License #-277810'
   about_markdown: |
-
-  market:
+    Gorman Residential was founded with the mission of perfecting the customer experience. Our motto “Your solution to Real Estate” means taking complicated real estate situations and simplifying them for our customers. Our goal is to minimize stress and maximize efficiency, all the while delivering exceptional customer service, communication, and results.
+  market: Raleigh
   brand: Gorman Residential Real Estate Services
   brokerage:
   address: 7920 ACC Blvd suite 210<br>Raleigh NC 27617
@@ -31,7 +31,7 @@ CTAs:
   VR_form:
 
 sidebar_CTA:
-  CTA_image_path: /img/cta-images/004.jpg
+  CTA_image_path: /img/cta-images/001.jpg
   CTA_title: Looking to Buy a Home?
   CTA_text: Search the entire MLS for homes located in -- MARKET --.
   CTA_link_text: Home Search Tool
@@ -48,22 +48,22 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/GormanResidential
+  linkedin_url: https://www.linkedin.com/in/chrismgorman
+  gplus_url: https://plus.google.com/105676696573596051597
+  youtube_url: https://www.youtube.com/channel/UCqiBLe5M-6GtxZvDQtZCf3g
+  twitter_url: https://twitter.com/chrisg0rman
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
+  zillow_url: http://www.zillow.com/profile/Chris-Gorman/
+  trulia_url: https://www.trulia.com/profile/chris-gorman-agent-raleigh-nc-zgz3f73l/overview
+  yelp_url: https://www.yelp.com/biz/gorman-residential-raleigh
   podcast_url:
 
 podcast:
-  title:
-  categories:
-  image:
+  title: Raleigh Real Estate Podcast with Chris Gorman
+  categories: News &amp; Politics
+  image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
