@@ -1,5 +1,5 @@
 audit_header: false
-title: Wes Peters Group Real Estate Video Blog 
+title: Wes Peters Group Real Estate Video Blog
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -25,10 +25,10 @@ client:
   url: http://www.wespetersgroup.com
 
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.wespetersgroup.com/sell/
+  first_CTA_text:
+  first_CTA_URL:
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.wespetersgroup.com/buy/
+  second_CTA_URL: http://www.wespetersgroup.com/results/
   VR_form:
 
 sidebar_CTA:
@@ -36,7 +36,7 @@ sidebar_CTA:
   CTA_title: Looking to Buy a Home?
   CTA_text: Search the entire MLS for homes located in -- MARKET --.
   CTA_link_text: Home Search Tool
-  CTA_url: /homesearch/
+  CTA_url: http://www.wespetersgroup.com/results/
 
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
