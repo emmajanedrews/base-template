@@ -9,7 +9,7 @@ custom_links:
 client:
   name: Ashley Carter
   license_number: State of IL 471.002063
-  about_markdown: | 
+  about_markdown: |
    Ashley Carter is the Lead Agent of the Carter Property Group at Keller Williams Preferred Realty. Ashley began his career in technology sales &amp; support, before transitioning into real estate in 1998.<br><br>The Carter Property Group consists of a team of experienced sales, marketing &amp; transactional specialists that assist our clients through one of the biggest transitions in their lives, the purchase or sale of their home.<br><br>Ashley and the Carter Property Group, are in the Top 1% of all the real estate agents in Chicago Association of Realtors.
   market: Chicago
   brand: Carter Property Group
@@ -76,7 +76,7 @@ images:
   hero_text: Real Estate Video Blog
   hero_background_hex: '#b22025'
   hero_image_path: /img/background.jpg
-
+  
 site_colors:
   brand_color: '#b22025'
   theme_color: '#b22025'

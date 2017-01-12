@@ -11,13 +11,13 @@
 		{% include navigation.html %}
 		{% include header.html %}
 
-  	<div class="container-fluid">
+  	<div class="container-fluid container-background">
 
 				<div class="col-sm-12 visible-xs visible-sm sidebar">
 					{% include socials.html %}
 					{% include search-box.html %}
 				</div>
-			<div class="col-lg-7 col-md-7 col-lg-offset-1">
+			<div class="col-lg-5 col-md-7 col-lg-offset-2">
 
 
 	<main>
@@ -32,9 +32,9 @@
 						{{ content }}
 					</div>
 				</article>
+				{% include share-buttons.html %}
 			</div>
 			<div class="row">
-				{% include share-buttons.html %}
 			</div>
 		<!-- </div> -->
 	</main>

@@ -4,9 +4,14 @@
   border-radius: 9px 9px 0 0
   @include shadow
   margin-left: 100px
+.post-meta
+  color: #fff
 
 .post-container
-  padding-right: 20px
+  margin-bottom: 20px
+  background: #fff
+  border: 1px solid #cfcfcf
+  padding: 10px
 .pad
   padding: 0 2rem
 
@@ -14,25 +19,43 @@
   li
     display: inline
 
+.post-overview-title-wrapper
+  border: 5px solid $brand
+  position: relative
+  top: -130px
+  margin: 0 auto
+  width: 80%
+  background: #fff
 .post-overview-title
   font-size: 3rem
-  text-align: left
+  text-align: center
+  padding: 20px 20px
+  background: $brand
+  display: block
+  margin: 3px
+
+  h2
+    margin-top: 0
+    a
+      color: #fff
 
 .post-title
   font-size: 5rem
   text-align: left
-
+  padding: 10px
 .post-link
   @include transition(all .3s ease-in-out)
 
 .post-image
   width: 100%
+  margin-top: 15px
   margin-bottom: 20px
-  @include shadow
+  // @include shadow
 
 .excerpt
   font-size: 18px
   padding-bottom: 20px
+  margin-top: -100px
 
 .post-list
   ul
@@ -46,15 +69,20 @@
   margin: 0 auto
   display: block
 
+.readlink
+  width: 115px
+  display: block
+  margin: 20px auto 40px
 .readlink>a
   background: $brand
   color: $light-text
   border: 1px solid $brand
   border-radius: $button-radius
   padding: 10px 20px
-  margin-top: 20px
+  margin: 20px auto
   text-decoration: none
   font-size: 16px
+  width: auto
   +transition
   &:hover
     background: transparent
@@ -249,7 +277,7 @@
     .headshot
       display: none
   .pullquote
-    max-width: 100%			
+    max-width: 100%
 @media (max-width: 992px)
   .post-container
     padding-right: 0px
