@@ -1868,17 +1868,27 @@ table tr, table td {
   position: relative;
   bottom: 5.5rem;
   border-radius: 9px 9px 0 0;
-  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
-  margin-left: 100px; }
+  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5); }
 
 .post-meta {
   color: #fff; }
+
+.post-row-container {
+  margin-right: 0px; }
+
+.content-container {
+  margin-left: 5px;
+  width: 100%; }
 
 .post-container {
   margin-bottom: 20px;
   background: #fff;
   border: 1px solid #cfcfcf;
-  padding: 10px; }
+  padding: 5px; }
+
+.half-content {
+  margin: 0 5px;
+  width: 48%; }
 
 .pad {
   padding: 0 2rem; }
@@ -2104,6 +2114,10 @@ table tr, table td {
     margin-left: 1rem; }
   .post .post-title {
     font-size: 3rem; } }
+@media (max-width: 992px) {
+  .half-content {
+    width: 100%;
+    margin: 5px; } }
 @media (max-width: 1000px) {
   .content-wrapper {
     box-shadow: none; }
