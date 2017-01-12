@@ -19,11 +19,11 @@ youtube_code: '-ykPR0EJDbE'
 
 Conventional wisdom says that the spring is the ideal time to be in the real estate market because it’s when activity is the highest. While that may be a valid argument in certain instances, the fact of the matter is that there are still buyers and sellers out in the market during the winter.
 
-**The main difference between buyers in the spring and summer and buyers in the winter is that the winter buyers are much more motivated.**They are out in the cold and willing to hunt for the right home. Usually, their offers are more appealing and they are a little more excited to get a deal done.
+**The main difference between buyers in the spring and summer and buyers in the winter is that the winter buyers are much more motivated.&nbsp;**They are out in the cold and willing to hunt for the right home. Usually, their offers are more appealing and they are a little more excited to get a deal done.
 
 {% include pullquote.html %}
 
-**Interest rates are starting to adjust, and not for the better.**They’re going up a bit, which is ultimately going to make homes more expensive for buyers. We want to make sure we are listing homes now to capitalize on interest from buyers while rates are still favorable. When they go up in the spring, buyers won’t be able to afford as much.
+**Interest rates are starting to adjust, and not for the better.&nbsp;**They’re going up a bit, which is ultimately going to make homes more expensive for buyers. We want to make sure we are listing homes now to capitalize on interest from buyers while rates are still favorable. When they go up in the spring, buyers won’t be able to afford as much.
 
 One of the great value adds you have by deciding to list now is that it’s a beautiful time of year to show a home. The festive atmosphere gives a great sense of community to your home, and it’s also great for photography and video. **People connect with homes differently this time of year, and they can develop that sense of connection easier.**
 
