@@ -1895,7 +1895,7 @@ table tr, table td {
   background: #fff; }
 
 .post-overview-title {
-  font-size: 3rem;
+  font-size: 2.5rem;
   text-align: center;
   padding: 20px 20px;
   background: #b22025;
@@ -1905,6 +1905,14 @@ table tr, table td {
     margin-top: 0; }
     .post-overview-title h2 a {
       color: #fff; }
+
+.half-width-wrapper {
+  top: -90px; }
+
+.half-width {
+  font-size: 2rem; }
+  .half-width h2 {
+    font-size: 3rem; }
 
 .post-title {
   font-size: 5rem;
@@ -1924,6 +1932,9 @@ table tr, table td {
   font-size: 18px;
   padding-bottom: 20px;
   margin-top: -100px; }
+
+.half-width-exerpt {
+  margin-top: -70px; }
 
 .post-list ul {
   margin: 0 auto; }
