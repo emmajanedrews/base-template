@@ -1,63 +1,70 @@
 audit_header: false
 title: Greater Vancouver Group Real Estate Video Blog
-description: If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from the Greater Vancouver Group - your professional Vancouver Real Estate Agents.
+description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from the Greater Vancouver Group - your professional Vancouver Real Estate Agents.'
 show_custom_links: true
 custom_links:
   - title: Featured Listings
-    url: http://www.greatervancouvergroup.com/featured
+    url: 'http://www.greatervancouvergroup.com/featured'
 client:
   name:
   license_number:
-  about_markdown: |
-    The Greater Vancouver Group with Re/Max First is a boutique real estate firm comprised of premier real estate professionals working together to serve Vancouver and Area.  We offer the best of both world's - the power of an international brand and personalized service of a boutique office.
+  about_markdown: >
+    The Greater Vancouver Group with Re/Max First is a boutique real estate firm
+    comprised of premier real estate professionals working together to serve
+    Vancouver and Area.  We offer the best of both world's - the power of an
+    international brand and personalized service of a boutique office.
 
-    Our goal is to provided our local and international clients with exceptional, personalized service, while remaining flexible and innovative so we can thrive in any economic cycle.  Our team provides the tools needed to achieve prominence in the marketplace through education, technology, and training.
+
+
+    Our goal is to provided our local and international clients with exceptional,
+    personalized service, while remaining flexible and innovative so we can
+    thrive in any economic cycle.  Our team provides the tools needed to achieve
+    prominence in the marketplace through education, technology, and training.
   market: Vancouver
   brand: Greater Vancouver Group
   brokerage: RE/MAX Advantage
-  address: 102 - 321 Sixth Street<br>New Westminster, BC V3L 3A7
+  address: '102 - 321 Sixth Street<br>New Westminster, BC V3L 3A7'
   phone: 604-809-8883
   phone_type:
   phone2:
   phone2_type:
   email: sales@greatervancouvergroup.com
-  url: http://www.GreaterVancouverGroup.com
+  url: 'http://www.GreaterVancouverGroup.com'
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.greatervancouvergroup.com/homevalue/gvgweb
+  first_CTA_URL: 'http://www.greatervancouvergroup.com/homevalue/gvgweb'
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.greatervancouvergroup.com/search
+  second_CTA_URL: 'http://www.greatervancouvergroup.com/search'
   phone_CTA: true
-  VR_form: http://oi.vresp.com?fid=38ebfc097a
+  VR_form: 'http://oi.vresp.com?fid=38ebfc097a'
 welcome_headline: Get Educated About Real Estate
-welcome_text_markdown: |
-  Our mission at the Greater Vancouver Group is to be your best resource for real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. Subscribe to this blog to get the latest news on local market trends and receive expert tips for buying or selling a home.
+welcome_text_markdown: 'Our mission at the Greater Vancouver Group is to be your best resource for real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. Subscribe to this blog to get the latest news on local market trends and receive expert tips for buying or selling a home.'
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/greatervancouvergroup/
-  linkedin_url: https://ca.linkedin.com/in/singhnathan
+  facebook_url: 'https://www.facebook.com/greatervancouvergroup/'
+  linkedin_url: 'https://www.linkedin.com/company/13240576'
   gplus_url:
-  youtube_url: https://www.youtube.com/channel/UCTyOveI6ChwOMV9bDJzNtmw
-  twitter_url: https://twitter.com/GVG_Marketing
-  instagram_url: https://www.instagram.com/greatervancouvergroup/
+  youtube_url: 'https://www.youtube.com/channel/UCTyOveI6ChwOMV9bDJzNtmw'
+  twitter_url: 'https://twitter.com/GVG_Marketing'
+  instagram_url: 'https://www.instagram.com/greatervancouvergroup/'
   pinterest_url:
   zillow_url:
   trulia_url:
   yelp_url:
-  podcast_url: https://itunes.apple.com/us/podcast/greater-vancouver-group-real/id1185936335?mt=2
+  podcast_url: 'https://itunes.apple.com/us/podcast/greater-vancouver-group-real/id1185936335?mt=2'
 podcast:
   title: Greater Vancouver Group Real Estate Podcast
-  categories: News &amp; Politics
+  categories:
   image: /img/Vancouver_podcast.png
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Vancouver Area Real Estate Market'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from the Greater Vancouver Group - your professional Vancouver Real Estate Agents.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Vancouver, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
   author: David Morrell
 images:
-  client_headshot_path: '/img/headshot.png'
-  hero_logo_path: '/img/logo.png'
+  client_headshot_path: /img/headshot.png
+  hero_logo_path: /img/logo.png
   hero_text:
-  hero_background_hex: '#00A3DA'
-  hero_image_path: '/img/background.png'
+  hero_background_hex: '#00a3da'
+  hero_image_path: /img/background.png
 brand_color: '#262262'
 theme_color: '#262262'
 theme_text_color: '#353535'
