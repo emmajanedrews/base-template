@@ -1,5 +1,5 @@
 audit_header: false
-title: The Base Template
+title: San Diego Real Estate Video Blog with Emily and Paul Hervieux
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -10,7 +10,7 @@ client:
   name: Emily & Paul Hervieux
   license_number: CA BRE# 01748533<br>CA BRE# 01874325
   about_markdown: |
-
+    The Hervieux Real Estate Group believes that when selling a home, you have an amazing opportunity to increase its value. We provide a room by room review to identify the intelligent fix-ups, complementary staging, local & international marketing, and expert negotiating. This proven process will ensure the highest sales price of your home. We invite you to meet with us for a private consultation or come to one of our home selling events.
   market: San Diego
   brand:
   brokerage:
@@ -20,7 +20,7 @@ client:
   phone2:
   phone2_type:
   email: info@justsoldsd.com
-  url:
+  url: http://HomeSellerSuccess.com
 
 CTAs:
   first_CTA_text: Seller Seminar
@@ -47,11 +47,11 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
+  facebook_url: https://www.facebook.com/HervieuxRealEstateGroup/
+  linkedin_url: https://www.linkedin.com/in/hervieux-real-estate-888289122
+  gplus_url: https://plus.google.com/u/0/101386840762585779154
   youtube_url:
-  twitter_url:
+  twitter_url: https://twitter.com/justsoldsd
   instagram_url:
   pinterest_url:
   zillow_url:
@@ -60,9 +60,9 @@ socials:
   podcast_url:
 
 podcast:
-  title:
-  categories:
-  image:
+  title: San Diego Real Estate Video Blog with Emily and Paul Hervieux
+  categories: News &amp; Politics
+  image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
@@ -88,7 +88,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: "#000"
+  shadow_color: "#D9CAE9"
 
 buttons:
   button_radius_number: 0px
@@ -97,6 +97,6 @@ buttons:
   button_border_color: '#ffffff'
   button_background_color: '#ffffff'
   button_text_color: '#DA1A15'
-  secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: 'rgba(255, 255, 255, 0.5)'
-  secondary_button_text_color: '#DA1A15'
+  secondary_button_border_color: '#DA1A15'
+  secondary_button_background_color: '#DA1A15'
+  secondary_button_text_color: '#ffffff'
