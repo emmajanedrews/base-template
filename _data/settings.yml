@@ -76,10 +76,10 @@ images:
   hero_text: Real Estate Video Blog
   hero_background_hex: '#b22025'
   hero_image_path: /img/background.jpg
-  
+
 site_colors:
-  brand_color: '#b22025'
-  theme_color: '#b22025'
+  brand_color: '#020202'
+  theme_color: '#050505'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -88,7 +88,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 2px
-  shadow_color: "#b22025"
+  shadow_color: "#000"
 
 buttons:
   button_radius_number: 0px
