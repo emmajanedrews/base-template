@@ -12,8 +12,8 @@ client:
   about_markdown: |
     Our Team is composed of a number of enormously talented Realtors. Several have served our country as junior and field grade military officers, important background in a military and DoD community! Helping you search through all of the real estate listings in our area is just the beginning. From purchase to financing to connecting with utilities to remodeling and beyond, we can help. We’re here for the entire life of your home, so you can enjoy living - at home. Samson Properties is one of the largest Real Estate Brokers in Northern VA, MD and the Washington, D.C. area, professional Realtors with a Family touch. Since securing mortgage financing is critical to successful purchase of a home, we also have two Lending Officers on the Team, Barbara Parks and Aaron Simmons, of First Heritage Mortgage, LLC.
   market: Northern Virginia
-  brand: Samson Properties Realty
-  brokerage: First Heritage Mortgage
+  brand: Samson Properties
+  brokerage: The Northern Virginia Homefinder Team
   address: 1440 Central Park Blvd., Ste. 210<br>Fredericksburg, VA 22401
   phone: 540-841-1825
   phone_type:
@@ -48,7 +48,7 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/samsonpropertiesrealty/?pnref=lhc
+  facebook_url: https://www.facebook.com/TheErnieDillTeam/?fref=ts
   linkedin_url: https://www.linkedin.com/in/ernie-dill-6234979/
   gplus_url: https://plus.google.com/114601864881537537704
   youtube_url: https://www.youtube.com/user/zen4dman
@@ -74,7 +74,7 @@ images:
   hero_logo_path: /img/logo.png
   logo_width_number: 40rem
   hero_text: Real Estate Video Blog
-  hero_background_hex: '#094264'
+  hero_background_hex: '#000'
   hero_image_path: /img/background.png
 
 site_colors:
