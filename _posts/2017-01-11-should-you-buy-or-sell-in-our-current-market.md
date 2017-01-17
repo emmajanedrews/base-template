@@ -16,7 +16,7 @@ youtube_code: PWAsa5ag2JI
 
 {% include youtube.html %}
 
-Today we’re standing outside one of our awesome holiday listings to give you a quick market update.
+Today we’re standing outside one of our great listings to give you a quick market update.
 
 **Inventory is still really low in our marketplace**. As a matter of fact, if you’re a buyer or seller looking to make a move below the $300,000 price range, the inventory level is a little bit over a half a month. If you’re above the $300,000 price range, it’s just below two months. The market overall has about a one-month level of inventory. This means that if all listing activity were to stop today, it would take that amount of time to sell every last house that’s listed.
 
