@@ -16,7 +16,7 @@ youtube_code: KAtEj3FBqVk
 
 {% include youtube.html %}
 
-**[Search all homes for sale](http://www.wespetersgroup.com/results/)**
+<p style="text-align:center;">**[Search all homes for sale](http://www.wespetersgroup.com/results/)**/p>
 
 Happy New Year! As we begin 2017, we are bringing you the latest on the Baltimore real estate market and what we’re seeing right now. Essentially, we have low inventory across the board. **We’ll talk about some specific areas later, but right now let’s look at some of the latest statistics for the Baltimore metro as a whole.**
 
