@@ -89,8 +89,8 @@ header_shadow:
   shadow_color: '#000000'
 buttons:
   button_radius_number: 0
-  button_padding_width_number:
-  button_padding_height_number:
+  button_padding_width_number: 20
+  button_padding_height_number: 20
   button_border_color: '#ffffff'
   button_background_color: '#ffffff'
   button_text_color: '#000000'
