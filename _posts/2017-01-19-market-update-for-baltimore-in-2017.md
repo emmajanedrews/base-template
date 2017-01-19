@@ -16,7 +16,7 @@ youtube_code: KAtEj3FBqVk
 
 {% include youtube.html %}
 
-<p style="text-align:center;">Search all homes for sale</p>
+**[Search all homes for sale](http://wpghomeblog.com/market-update-for-baltimore-in-2017.html)**
 
 Happy New Year! As we begin 2017, we are bringing you the latest on the Baltimore real estate market and what we’re seeing right now. Essentially, we have low inventory across the board. **We’ll talk about some specific areas later, but right now let’s look at some of the latest statistics for the Baltimore metro as a whole.**
 
