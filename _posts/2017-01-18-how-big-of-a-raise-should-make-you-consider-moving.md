@@ -18,11 +18,11 @@ youtube_code: TiQ-T79v3ps
 
 Back in the mid 90s and early 2000s, making a move was much more profitable than it is now. Back then, prospects were getting anywhere from a 15% to 20% increase in pay to make a move. During the market crash, that increase dropped to 3%. People were making a move to stay employed at that point, not for the money.
 
-**Lately, there has been an uptick in the raises that those making a move to a new company are getting.**These are people who are already employed and doing well, but they are also making anywhere from 5% to 10% more to make a move.&nbsp;
+**Lately, there has been an uptick in the raises that those making a move to a new company are getting.&nbsp;**These are people who are already employed and doing well, but they are also making anywhere from 5% to 10% more to make a move.&nbsp;
 
 {% include pullquote.html %}
 
-**A 5% increase in overall pay is a pretty good benchmark to have if you’re considering making a move.**Moving forward, I don’t think many places will be looking at giving away more than that. We are no longer in the era where people will buy people to make a move.
+**A 5% increase in overall pay is a pretty good benchmark to have if you’re considering making a move.&nbsp;**Moving forward, I don’t think many places will be looking at giving away more than that. We are no longer in the era where people will incentive people to make a move.
 
 My suggestion for you or anyone you know who is looking to make a move is to look at that opportunity as a whole, not just at the money. If you like the opportunity and can also get that 5% to 10% increase in compensation, it’s something you should seriously consider.
 
