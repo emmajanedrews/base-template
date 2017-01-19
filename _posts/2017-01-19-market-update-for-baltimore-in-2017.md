@@ -16,6 +16,8 @@ youtube_code: KAtEj3FBqVk
 
 {% include youtube.html %}
 
+Search all homes for sale
+
 Happy New Year! As we begin 2017, we are bringing you the latest on the Baltimore real estate market and what we’re seeing right now. Essentially, we have low inventory across the board. **We’ll talk about some specific areas later, but right now let’s look at some of the latest statistics for the Baltimore metro as a whole.**
 
 There are about 11,000 homes on the market right now. It may sound like a lot, but it really isn’t when you consider how many homes are actually out there. This is the 15th consecutive month of decreased inventory, and inventory is what drives demand in this market.
