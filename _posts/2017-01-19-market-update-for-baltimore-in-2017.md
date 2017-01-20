@@ -24,7 +24,7 @@ There are about 11,000 homes on the market right now. It may sound like a lot, b
 
 {% include pullquote.html %}
 
-Another statistic from Catonsville that jumped out at me was that they had more than90 home sales between June 2015 and June 2016. **That’s the best month for them as far back as they have kept records.** If you’re thinking about selling your home during June 2017, you’ll need to get it on the market in April or May. We are encouraging a lot of our sellers to meet with stagers right now and get their homes inspected and appraised so they can price perfectly for this market.
+Another statistic from Catonsville that jumped out at me was that they had more than 90 home sales between June 2015 and June 2016. **That’s the best month for them as far back as they have kept records.** If you’re thinking about selling your home during June 2017, you’ll need to get it on the market in April or May. We are encouraging a lot of our sellers to meet with stagers right now and get their homes inspected and appraised so they can price perfectly for this market.
 
 In the Eldersburg, Sykesville area, there are only about two months worth of inventory. In Ellicott City, there are only about three. **All zip codes in Columbia, Maryland are under two months.** As you can see, there is not a lot to choose from in many places in the Baltimore Metro and this is about as active as you will see the market in January.
 
