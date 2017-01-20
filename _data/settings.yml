@@ -8,27 +8,42 @@ custom_links:
 client:
   name: Chris Myers
   license_number:
-  about_markdown: |
-    Chris is a graduate of The Ohio State University with an MBA in Finance and Real Estate. The grandson of a seasoned real estate developer, Chris carries on the long family tradition by helping Central Floridians with their home buying and home selling goals. Prior to his real estate career, Chris worked in the advertising and marketing industry in Ohio until his passion for real estate and the Florida lifestyle brought him to the Sunshine State.
+  about_markdown: >
+    Chris is a graduate of The Ohio State University with an MBA in Finance and
+    Real Estate. The grandson of a seasoned real estate developer, Chris carries
+    on the long family tradition by helping Central Floridians with their home
+    buying and home selling goals. Prior to his real estate career, Chris worked
+    in the advertising and marketing industry in Ohio until his passion for real
+    estate and the Florida lifestyle brought him to the Sunshine State.
 
-    His professional experience as a business owner and sales professional provides Chris the ability to see the bigger picture, especially when it comes to developing long lasting relationships and providing genuine customer care. Using his marketing background, Chris has developed effective and time proven systems for buying and selling real estate. Using these systems, Chris has built one of the most caring and efficient real estate sales teams in the Country, resulting in his team selling over 800 properties in the last 10 years alone! Chris’ real estate expertise has also landed him on the news and various other programs being interviewed about the local real estate market.
+
+
+    His professional experience as a business owner and sales professional
+    provides Chris the ability to see the bigger picture, especially when it
+    comes to developing long lasting relationships and providing genuine customer
+    care. Using his marketing background, Chris has developed effective and time
+    proven systems for buying and selling real estate. Using these systems, Chris
+    has built one of the most caring and efficient real estate sales teams in the
+    Country, resulting in his team selling over 800 properties in the last 10
+    years alone! Chris’ real estate expertise has also landed him on the news and
+    various other programs being interviewed about the local real estate market.
   market: Orlando
   brand: Orlando Property Group
-  brokerage: Keller Williams Classic V 
+  brokerage: Keller Williams Classic V
   address: 25 W. Crystal Lake St. Ste. 157 Orlando FL 32806
   phone: 407-477-5639
   phone_type:
   phone2:
   phone2_type:
   email: Chris@OrlandoPropertyGroup.com
-  url: http://www.OrlandoPropertyGroup.com
+  url: 'http://www.OrlandoPropertyGroup.com'
 CTAs:
   first_CTA_text: Home Evaluation
-  first_CTA_URL: http://www.centralfloridahousevalue.com/
+  first_CTA_URL: 'http://www.centralfloridahousevalue.com/'
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.orlandopropertygroup.com/atj/user/HomePageGetAction.do
+  second_CTA_URL: 'http://www.orlandopropertygroup.com/atj/user/HomePageGetAction.do'
   phone_CTA: true
-  VR_form: http://oi.vresp.com?fid=17c0da686f
+  VR_form: 'http://oi.vresp.com?fid=17c0da686f'
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
@@ -39,20 +54,20 @@ welcome_box:
     receive expert tips for buying or selling a home.
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/OrlandoFloridaRealEstate
-  linkedin_url: https://www.linkedin.com/in/christophermyers
-  gplus_url: https://plus.google.com/109779273024987875317
-  youtube_url: https://www.youtube.com/channel/UCeBu9pxLlnw9f0oBI8WF9RA
-  twitter_url: https://twitter.com/orlandoproperty
+  facebook_url: 'https://www.facebook.com/OrlandoFloridaRealEstate'
+  linkedin_url: 'https://www.linkedin.com/in/christophermyers'
+  gplus_url: 'https://plus.google.com/109779273024987875317'
+  youtube_url: 'https://www.youtube.com/user/cjmyers5359'
+  twitter_url: 'https://twitter.com/orlandoproperty'
   instagram_url:
-  pinterest_url: https://www.pinterest.com/opgteam/
-  zillow_url: http://www.zillow.com/profile/cjmyers/
+  pinterest_url: 'https://www.pinterest.com/opgteam/'
+  zillow_url: 'http://www.zillow.com/profile/cjmyers/'
   trulia_url:
-  yelp_url: https://www.yelp.com/biz/orlando-property-group-orlando
+  yelp_url: 'https://www.yelp.com/biz/orlando-property-group-orlando'
   podcast_url:
 podcast:
   title: Orlando Real Estate Podcast with Chris Myers
-  categories: News &amp; Politics
+  categories:
   image: /img/Podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
