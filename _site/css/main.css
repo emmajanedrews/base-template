@@ -1,4 +1,7 @@
 @charset "UTF-8";
+li {
+  font-size: 18px; }
+
 /* ==========================================================================
    Normalize.scss settings
    ========================================================================== */
@@ -2246,7 +2249,7 @@ table tr, table td {
     background: rgba(255, 255, 255, 0.1);
     color: #BF202F;
     font-size: 2rem;
-    padding: 2.4rem;
+    padding: 2.3rem;
     display: inline-block;
     margin-right: 1rem;
     -webkit-transition: 0.3s;
