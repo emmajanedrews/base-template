@@ -64,7 +64,7 @@ socials:
   zillow_url: 'http://www.zillow.com/profile/cjmyers/'
   trulia_url:
   yelp_url: 'https://www.yelp.com/biz/orlando-property-group-orlando'
-  podcast_url:
+  podcast_url: https://itunes.apple.com/us/podcast/orlando-real-estate-podcast/id1197467563?mt=2
 podcast:
   title: Orlando Real Estate Podcast with Chris Myers
   categories: News &amp; Politics
