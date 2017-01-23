@@ -28,7 +28,7 @@ CTAs:
   second_CTA_text: Home Search
   second_CTA_URL: http://www.northernvahomefinder.com/
   phone_CTA: true
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=d53d104085
 
 sidebar_CTA:
   CTA_image_path: /img/cta-images/002.jpg
