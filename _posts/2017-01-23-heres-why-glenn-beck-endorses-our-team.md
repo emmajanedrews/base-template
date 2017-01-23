@@ -26,3 +26,5 @@ We’re excited to announce our team’s latest endorsement. This one comes from
 In case you haven’t heard of it, here’s how it works. We guarantee to sell your home at a price and deadline that you agree to or we are going to buy it ourselves. **We sell a home every two days,** and have a large network of buyers that are looking for a home right now. We make this promise because we know we have the systems in place to keep it.
 
 To hear the full radio endorsement, listen to the clip above.
+
+If you have any real estate questions or would like to know more about our guaranteed sale program, give us a call or send us an email. We would be happy to help you!
