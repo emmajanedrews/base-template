@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: "What's going on in the Chicago market? To get an idea of where the market is heading, let's take a look back today at the 2016 and 2015 markets."
-enclosure:
+enclosure: 'http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/What%2527s%20Going%20On%20In%20Our%20Real%20Estate%20Market%253F.mp4'
 pullquote: 'Due to low rates, buyers have a lot of buying power.'
 enclosure_type: video/mp4
 enclosure_time:
