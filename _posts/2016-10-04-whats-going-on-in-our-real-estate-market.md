@@ -5,27 +5,27 @@ tags:
   - Market Update
   - Real Estate
   - Home Seller Tips
-excerpt: "What's Going On In Our Real Estate Market?"
+excerpt: "What's going on in the Chicago market? To get an idea of where the market is heading, let's take a look back today at the 2016 and 2015 markets."
 enclosure:
-pullquote: "What's Going On In Our Real Estate Market?"
+pullquote: 'Due to low rates, buyers have a lot of buying power.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/ashley-carter--yt-1-13.jpg
 youtube_code: _plfRm5Gcsc
 ---
 
 
 {% include youtube.html %}
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps **gastropub marfa r**etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+Today, I wanted to take a moment to compare the 2016 Chicago real estate market to that of 2015.
 
-*Bushwick* [marfa]('http://google.com') wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+As we left 2016, we found that we're in a slight seller's market here in Chicago; homes sold at a faster pace and for more money than in 2015. **That's all good news for sellers.**
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven't heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90's fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+On the buyer side, you'll find that you have to be ready to make a decision once you find a property that's the right fit. That's because properties are selling faster than they typically would. However, there is good news for buyers. **Interest rates are still incredibly good.** Due to low rates, buyers have a lot of buying power.
 
 {% include pullquote.html %}
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+Have you been considering getting into the real estate investment market here in Chicago? Are you already the owner of an investment property? It continues to be a really strong market for us here in Chicago. Demand for rent keeps going up as well. In fact, we've seen increases for the last four years in a row. The speed at which units re-rent is very fast.
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+<br>If you have any questions about the Chicago market or you're thinking about selling your house or buying an investment property, don't hesitate to give me a call or send me an email with any questions at all. I'd be happy to help.
