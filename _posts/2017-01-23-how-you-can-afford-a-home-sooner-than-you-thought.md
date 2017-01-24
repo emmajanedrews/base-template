@@ -33,7 +33,7 @@ Another thing that can help you when buying a home are seller credits. When you 
 
 If you think you won’t be able to qualify for a home loan, you can always **have a cosigner.** If you have a close friend or family member, for example, you can ask them to be your cosigner so their name would be on the loan along with yours and they would be responsible for it, too.&nbsp;
 
-Lastly, you can always try **crowdfunding** as a way to purchase a home. Featherthenest.com and Hatchmyhouse.com [LINK?] are two websites that are very popular in this regard. In fact, Hatchmyhouse.com is responsible for raising over $2 million in down payment money. If you try crowdfunding, you can set up your own account and ask people to help you save for your first home.&nbsp;
+Lastly, you can always try **crowdfunding** as a way to purchase a home. Featherthenest.com is a website that is very popular in this regard. If you try crowdfunding, you can set up your own account and ask friends and family to help you save for your first home.&nbsp;
 
 Several years ago, a mentor once told me that they never look at something and say, “I can’t do that.” Instead, they always look at something and ask “How can I do that?” If you start thinking this way, your mind will go into solution mode. From there, you’ll be on your way to homeownership in no time.&nbsp;
 
