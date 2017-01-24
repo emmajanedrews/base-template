@@ -18,13 +18,13 @@ youtube_code: WD8lOBOV3C4
 
 Today I wanted to answer some questions I get when it comes to the difference between a retained and contingent search. When should you use each one?
 
-The answer we hear from many other recruiters is to only use a retained search on high-level executive positions. Frankly, I've found that this is not always the case.
+The answer we hear from many other recruiters is to only use a retained search for high-level executive positions. Frankly, I've found that this is not always the case.
 
-**I believe you want to look at using a retained search anytime you want to exhaust a search.**It's a position that's tough to fill and it's imperative that you find the right person for that role, so a retained search is probably the best way to go. With our retained searches, we tap into the 21 recruiters we have working specifically in healthcare. We do a full nationwide search that makes us able to identify several candidates to present.
+**I believe you want to look at using a retained search anytime you want to exhaust a search.**It's a position that's tough to fill and it's imperative that you find the right person for that role, so a retained search is probably the best way to go. With our retained searches, we tap into the 21 recruiters we have working specifically in healthcare. We do a full nationwide search that allow us to identify several candidates to present.
 
 Having an investment from our client up front allows us the time and resources to perform a strong and exhaustive search.
 
-Another question we often get is whether candidates are better on a retained search versus a contingent search. At the end of the day, it's the same candidates out there, but with a retained search, you will find that\*\* the candidates are vetted much better.\*\*With a retained search, you can really take the time to make sure you're exhausting the search and identifying the candidates.
+Another question we often get is whether candidates are better on a retained search versus a contingent search. At the end of the day, it's the same candidates out there, but with a retained search, you will find that **the candidates are vetted much better.** With a retained search, you can really take the time to make sure you're exhausting the search and identifying the candidates.
 
 {% include pullquote.html %}
 
