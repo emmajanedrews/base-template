@@ -1440,8 +1440,15 @@ html[xmlns] .flexslider .slides {
   padding-left: 15px; }
 
 @media(max-width: 347px) {
+  .navbar {
+    padding-right: 5px;
+    padding-left: 5px; }
+
   .navbar-header a.navbar-brand {
-    color: #CF2031; } }
+    width: 0;
+    overflow: hidden;
+    display: none;
+    opacity: 0; } }
 .catbloc li {
   font-size: 20px;
   color: #CF2031;
