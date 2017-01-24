@@ -27,7 +27,7 @@ If you want to sell your home fast in 2017, there are four ways to achieve this:
 
 **2. Timing.&nbsp;**When should you sell? Usually, it's the spring market, from mid-January to mid-May. The sooner you’re on the market, the better, especially this year since the B.C. government introduced a program for first-time home buyers that started on January 16th.&nbsp;
 
-**3. Target marketing.** Depending on whether we sell your home to a millionaire, a move-up buyer, or someone who is downsizing, we need to target the right market.
+**3. Target marketing.** Depending on whether we sell your home to a millennial, a move-up buyer, or someone who is downsizing, we need to target the right market.
 
 **4. Hire the right real estate agent and price your home right.&nbsp;**In order to price your home right, we use the past three months of sales in your area and compare the lot size, square footage, and condition of your home.
 
