@@ -24,9 +24,9 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.caseycooke.boldleads.com/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.servingnorthcounty.com/search.aspx#Page:2
   phone_CTA: true
   VR_form:
 
