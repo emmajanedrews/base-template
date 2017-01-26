@@ -28,7 +28,7 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://search.nathanabbottteam.com/idx/homevaluation
+  first_CTA_URL: http://www.finddestinrealestate.com/homevalue/EmeraldCoast
   second_CTA_text: Home Search
   second_CTA_URL: http://www.finddestinrealestate.com/search/map?baths=1&beds=1&haslat=1&haslong=1&listingtype=Condo&listingtype=Single%20Family&minprice=200000&page=1&perpage=50&soldproperty=0&sortby=latest&type=map
   phone_CTA: true
@@ -38,8 +38,8 @@ sidebar_CTA:
   CTA_image_path: /img/CTA1.jpg
   CTA_title: Looking to Sell a Home?
   CTA_text: "The Nathan Abbott Team is here to guide you and be your trusted real estate advisor."
-  CTA_link_text:
-  CTA_url:
+  CTA_link_text: Home Valuation
+  CTA_url: http://www.finddestinrealestate.com/homevalue/EmeraldCoast
 
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
