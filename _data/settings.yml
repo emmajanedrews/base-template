@@ -28,7 +28,7 @@ CTAs:
   second_CTA_text: Home Search
   second_CTA_URL: http://www.metrodenverliving.com/
   phone_CTA: true
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=54c1fba023
 
 sidebar_CTA:
   CTA_image_path: /img/cta-images/001.jpg
