@@ -22,7 +22,7 @@ client:
   phone2: 912-272-3463
   phone2_type: Mobile
   email: themcintoshteam@gmail.com
-  url:
+  url: http://www.mcintoshrealtyteam.com
 
 CTAs:
   first_CTA_text: Home Valuation
@@ -73,8 +73,8 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40rem
-  hero_text: Real Estate Video Blog
+  logo_width_number: 80rem
+  hero_text:
   hero_background_hex: '#b40101'
   hero_image_path: /img/background.jpg
 
@@ -89,7 +89,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: "#000"
+  shadow_color: "transparent"
 
 buttons:
   button_radius_number: 0px
