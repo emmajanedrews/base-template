@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Base Template</title>
+    <title>The McIntosh Team</title>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The McIntosh Team - your professional Savannah Real Estate Agents.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 26 Jan 2017 14:06:53 -0600</pubDate>
-    <lastBuildDate>Thu, 26 Jan 2017 14:06:53 -0600</lastBuildDate>
+    <pubDate>Thu, 26 Jan 2017 14:39:04 -0600</pubDate>
+    <lastBuildDate>Thu, 26 Jan 2017 14:39:04 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>

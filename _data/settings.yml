@@ -1,5 +1,5 @@
 audit_header: false
-title: The Base Template
+title: The McIntosh Team
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -7,7 +7,7 @@ custom_links:
     url:
 
 client:
-  name: Jason & Christina McIntosh
+  name: Jason McIntosh
   license_number:
   about_markdown: |
     The McIntosh Team's goal is to provide their clients with service that is second to none. As Savannah natives, they pride themselves on their ability to share their knowledge with buyers who may be moving to the area, or have found their dream home and need a team of professionals to assist them in getting it for the best price possible. The McIntosh Team provides sellers with accurate market statistics, aggressive pricing, and marketing strategies that will ensure they get top dollar for their home.
