@@ -77,12 +77,12 @@ images:
   hero_logo_path: /img/logo.png
   logo_width_number: 60rem
   hero_text:
-  hero_background_hex: '#B2C9CA'
+  hero_background_hex: '#09A5E4'
   hero_image_path: /img/background.jpg
 
 site_colors:
-  brand_color: '#094264'
-  theme_color: '#094264'
+  brand_color: '#09A5E4'
+  theme_color: '#09A5E4'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -99,7 +99,7 @@ buttons:
   button_padding_height_number: 15px
   button_border_color: '#ffffff'
   button_background_color: '#ffffff'
-  button_text_color: '#094264'
+  button_text_color: '#09A5E4'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'
