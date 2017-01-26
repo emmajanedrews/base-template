@@ -1454,7 +1454,7 @@ html[xmlns] .flexslider .slides {
     display: none;
     opacity: 0; } }
 .scroll-nav-color {
-  background: #8b8a8f;
+  background: #84151f;
   -webkit-animation: 0.5s fadeNavigation ease-in-out;
           animation: 0.5s fadeNavigation ease-in-out;
   box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5); }
@@ -1463,9 +1463,9 @@ html[xmlns] .flexslider .slides {
   0% {
     -webkit-transform: translateY(0);
             transform: translateY(0);
-    background: rgba(139, 138, 143, 0); }
+    background: rgba(132, 21, 31, 0); }
   100% {
-    background: #8b8a8f;
+    background: #84151f;
     -webkit-transform: translateY(0);
             transform: translateY(0);
     box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5); } }
@@ -1474,20 +1474,20 @@ html[xmlns] .flexslider .slides {
   0% {
     -webkit-transform: translateY(0);
             transform: translateY(0);
-    background: rgba(139, 138, 143, 0); }
+    background: rgba(132, 21, 31, 0); }
   100% {
-    background: #8b8a8f;
+    background: #84151f;
     -webkit-transform: translateY(0);
             transform: translateY(0);
     box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5); } }
 .brand-color {
   box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
-  background: #8b8a8f;
+  background: #84151f;
   -webkit-animation: 0.3s fadein ease-in-out;
           animation: 0.3s fadein ease-in-out; }
 
 .navbar-andross-bottom {
-  background: #8b8a8f;
+  background: #84151f;
   color: #fff;
   padding: 0;
   margin: 0;
@@ -1552,13 +1552,13 @@ label.tree-toggle {
 
 .site-logo {
   width: 90%;
-  max-width: 40rem;
-  -webkit-filter: drop-shadow(0px 2px 7px #000);
-  filter: drop-shadow(0px 2px 7px #000); }
+  max-width: 50rem;
+  -webkit-filter: drop-shadow(0px 2px 7px rgba(0, 0, 0, 0.7));
+  filter: drop-shadow(0px 2px 7px rgba(0, 0, 0, 0.7)); }
 
 .site-title {
   color: white;
-  text-shadow: 0px 2px 7px #000;
+  text-shadow: 0px 2px 7px rgba(0, 0, 0, 0.7);
   text-transform: uppercase;
   font-size: 6.5rem;
   padding-bottom: 4rem;
@@ -1992,7 +1992,7 @@ table tr, table td {
   margin: 2rem 0;
   color: white;
   text-transform: uppercase;
-  text-shadow: 0px 2px 7px #000; }
+  text-shadow: 0px 2px 7px rgba(0, 0, 0, 0.7); }
 .post .headshot {
   width: 100%;
   max-width: 15rem;
@@ -2007,7 +2007,7 @@ table tr, table td {
 
 .tag-container {
   color: white;
-  text-shadow: 0px 2px 7px #000;
+  text-shadow: 0px 2px 7px rgba(0, 0, 0, 0.7);
   margin-bottom: 1rem; }
 
 .tag {
@@ -2018,7 +2018,7 @@ table tr, table td {
 .author-attribution {
   color: white;
   font-weight: 300;
-  text-shadow: 0px 2px 7px #000;
+  text-shadow: 0px 2px 7px rgba(0, 0, 0, 0.7);
   margin-bottom: 2rem;
   font-style: italic; }
   .author-attribution a {
@@ -2371,7 +2371,7 @@ table tr, table td {
   margin: auto; }
 
 .footer {
-  background: #8a898f;
+  background: #83151e;
   color: #353535;
   padding: 2rem;
   text-align: center;
@@ -2820,7 +2820,7 @@ form select {
     color: #fff; }
 
 .newsletter {
-  background: #838288; }
+  background: #77131c; }
 
 .navbar-left li a {
   color: #fff; }
