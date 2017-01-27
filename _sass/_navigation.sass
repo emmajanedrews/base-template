@@ -54,22 +54,22 @@
 .scroll-nav-color
 	background: transparentize($theme, 0)
 	animation: .5s fadeNavigation ease-in-out
-	+shadow
+	// +shadow
 @keyframes fadeNavigation
 	0%
 		transform: translateY(0)
-		background: transparentize($theme, 1)
+		background: transparentize(#fff, 1)
 	// 50%
 	// 	transform: translateY(-100px)
 	// 	background: transparent
 	// 51%
 	// 	background: $brand
 	100%
-		background: transparentize($theme, 0)
+		background: transparentize(#fff, 0.1)
 		transform: translateY(0)
 		+shadow
 		// background: $theme
 .brand-color
-	+shadow
+	// +shadow
 	background: $theme
 	animation: .3s fadein ease-in-out

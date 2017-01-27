@@ -19,15 +19,37 @@
 .navbar-left
 	li
 		a
-			color: #fff
+			color: $brand
 
-
-
+.content-container
+	border: 1px solid #cfcfcf
+	padding: 0px
+	margin-bottom: 20px
+.post-image
+	margin-bottom: 0
+.post-overview
+	padding: 10px
+.sidebar
+	// margin: 10px
+.site-logo
+	margin-top: $nav-height + 2rem
+	margin-bottom: $nav-height + 2rem
 
 .fa-bars
 	color: #fff
 
+.scroll-nav-color
+	background: transparentize(#fff, 0)
+	animation: .3s fadeNavigation ease-in-out
+	// +shadow
+
 .navbar-andross
+	// background: transparentize(#fff, 0)
+	border-bottom: 1px solid $brand
 	.navbar-brand
 		color: #fff
 		margin-top: 10px
+.brand-color
+	// +shadow
+	background: transparentize(#fff, 0)
+	animation: .3s fadein ease-in-out

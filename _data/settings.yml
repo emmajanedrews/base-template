@@ -7,20 +7,20 @@ custom_links:
     url:
 
 client:
-  name:
-  license_number:
+  name: Scott Hardesty
+  license_number: 00306088
   about_markdown: |
 
   market:
-  brand:
+  brand: House to Home Nashville
   brokerage:
-  address:
-  phone:
+  address: 2500 21st Ave S Suite 102<br>Nashville, TN 37212
+  phone: 615-995-8610
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: scott@housetohomenash.com
+  url: http://www.housetohomenash.com
 
 CTAs:
   first_CTA_text: Home Valuation
@@ -71,14 +71,14 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40rem
-  hero_text: Real Estate Video Blog
-  hero_background_hex: '#094264'
+  logo_width_number: 60rem
+  hero_text:
+  hero_background_hex: '#fff'
   hero_image_path: /img/background.jpg
 
 site_colors:
-  brand_color: '#C14547'
-  theme_color: '#005473'
+  brand_color: '#EC1C2D'
+  theme_color: '#353535'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -87,15 +87,15 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: "#000"
+  shadow_color: "transparent"
 
 buttons:
   button_radius_number: 0px
   button_padding_width_number: 10px
   button_padding_height_number: 15px
-  button_border_color: '#ffffff'
-  button_background_color: '#ffffff'
-  button_text_color: '#123456'
-  secondary_button_border_color: '#ffffff'
+  button_border_color: '#EC1C2D'
+  button_background_color: '#EC1C2D'
+  button_text_color: '#fff'
+  secondary_button_border_color: '#EC1C2D'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
-  secondary_button_text_color: '#ffffff'
+  secondary_button_text_color: '#EC1C2D'
