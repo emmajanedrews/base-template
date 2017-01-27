@@ -8,7 +8,7 @@ custom_links:
 
 client:
   name: Kyle Fernandez
-  license_number:
+  license_number: 2003002868
   about_markdown: |
 
   market:
@@ -30,7 +30,7 @@ CTAs:
   VR_form:
 
 sidebar_CTA:
-  CTA_image_path: /img/cta-images/004.jpg
+  CTA_image_path: /img/cta-images/001.jpg
   CTA_title: Looking to Buy a Home?
   CTA_text: Search the entire MLS for homes located in -- MARKET --.
   CTA_link_text: Home Search Tool
@@ -47,15 +47,15 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/kylefernandeztherealtor
+  linkedin_url: https://www.linkedin.com/in/kyle-fernandez-2824512
   gplus_url:
   youtube_url:
   twitter_url:
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
+  zillow_url: http://www.zillow.com/profile/Kyle-Fernandez/
+  trulia_url: https://www.trulia.com/profile/kyle-fernandez-agent-saint-louis-mo-zgb10pjs/overview
   yelp_url:
   podcast_url:
 
@@ -95,7 +95,7 @@ buttons:
   button_padding_height_number: 15px
   button_border_color: '#ffffff'
   button_background_color: '#ffffff'
-  button_text_color: '#123456'
+  button_text_color: '#091639'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'
