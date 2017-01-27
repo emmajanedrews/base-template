@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: kAcpOJ6I_r0
+youtube_code: PcQOdl2XNlQ
 ---
 
 
@@ -20,7 +20,7 @@ With regards to how our market has fared since the election, there is some good 
 
 First, the bad: mortgage rates have shot up since the election.
 
-From a low of 3.74% on November 7th, the average fixed 30-year mortgage rate increased to over 4% by the end of November.&nbsp;
+From a low of 3.74% on November 7th, the average fixed 30-year mortgage rate increased to over 4% by the end of November.
 
 **Economists are saying this kind of volatility is likely to continue, with day-to-day changes driven by the moves and statements of the new administration.**
 
@@ -43,7 +43,7 @@ That might be a vote of confidence for our President-elect and his anticipated b
 In fact, many people who were waiting on the sidelines while the election was going on are now entering the real estate market.
 
 It's a great time to take advantage of this if you are selling.
-<br>&nbsp;
+<br>
 <br>If you want an idea of what your home could sell for in the current market, just send me an email to [myhomesvalue@jteixsells.com](javascript:void(location.href='mailto:'+String.fromCharCode(109,121,104,111,109,101,115,118,97,108,117,101,64,106,116,101,105,120,115,101,108,108,115,46,99,111,109))) with your address in the subject line and I'll get back to you.
 
 And if you're looking to buy, there are two things you should know.
@@ -54,4 +54,4 @@ Second, many new homes have entered the market since the election, and more new 
 
 It's definitely worth investigating what's available around DFW right now.
 
-If you have any questions, don’t hesitate to reach out and give us a call or send us an email. &nbsp;We look forward to hearing from you.
+If you have any questions, don’t hesitate to reach out and give us a call or send us an email.  We look forward to hearing from you.
