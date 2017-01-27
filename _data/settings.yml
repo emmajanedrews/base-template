@@ -29,9 +29,9 @@ client:
   url: 'http://www.CarterPropertyGroup.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'http://www.carterpropertygroup.com/'
+  first_CTA_URL: 'http://www.carterpropertygroup.com/sell.php'
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://www.carterpropertygroup.com/sell.php'
+  second_CTA_URL: 'http://www.carterpropertygroup.com/'
   phone_CTA: true
   VR_form:
 sidebar_CTA:
