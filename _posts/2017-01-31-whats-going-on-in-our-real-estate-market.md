@@ -18,7 +18,7 @@ youtube_code: 5B2r96avwTg
 
 {% include youtube.html %}
 
-Today, I wanted to take a moment to compare the 2016 Chicago real estate market to that of 2015.
+Today, I wanted to take a moment to compare the 2016 Chicago real estate market to that of 2015.&nbsp;
 
 As we left 2016, we found that we're in a slight seller's market here in Chicago; homes sold at a faster pace and for more money than in 2015. **That's all good news for sellers.**
 
