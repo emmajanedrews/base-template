@@ -1,5 +1,26 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
+  - quote: '“I got a house, pretty quick, within a week. And it was the house we really wanted. The process was really smooth, he worked very well with the seller in pretty much making sure he represented our best interests and getting us the best results. I would say just A+ across the board. We actually had an appraisal issue with the house so the house actually came in $7000 below what we offered. And originally we were thinking it was going to come down to some type of split but Doug really negotiated and kind of used some of the good faith and honorable type of lingo I guess to get the sellers to actually cover the entire appraisal because we really didn’t want our closing costs to go up. So that really saved us some money both on closing and also the full purchase of the house. “'
+    name: Dane
+    audio: 'https://s3.amazonaws.com/vyralmarketing/Doug+Elliott/Dane.mp3'
+  - quote: '“The results were very quick, instantaneous! And we got above our asking price. We sold our house, we had a contract within 3 days of putting it on the market. The entire process they went above and beyond. They were always there, we got updates on email, we were able to contact Doug when we had questions. Very responsive, very considerate and I find everything that his whole team did was very professional, timely, excellent.”'
+    name: Nina
+    audio: 'https://s3.amazonaws.com/vyralmarketing/Doug+Elliott/NinaLilly.mp3'
+  - quote: '“I got great results, we sold a house for almost full price, it was done very quickly, and he was very helpful. Well I think throughout the process he was very communicative with me, he always let me know what was going on and he handled the negotiation very well, so I was very, very happy with that.”'
+    name: Mark
+    audio:
+  - quote: 'They were fantastic, he sold our house before it even went on the market so you can’t ask for better than that. He’s also helping us buy our new house and he’s been fantastic there too. Just the whole process he went above and beyond. I know he worked really hard. The builders that we’re using to build our new house, in the beginning, were a little hard to work with and he definitely went above and beyond to make sure our interests came first and make sure that, I know he really had to fight hard for us on a few things that we needed to get from the builders. And I know Doug was working really hard and went way above and beyond working with the builders that we had to deal with.”'
+    name: Kerry
+    audio: 'https://s3.amazonaws.com/vyralmarketing/Doug+Elliott/Kerry.mp3'
+  - quote: Well the results were that we sold our house in record time with professionalism and Doug and his team worked very hard prior to the sale of the house. When they used the stager for us and the photography and the video were just superb. Doug was great to work with and we were just fortunate to have him on our side.
+    name: Suzanne
+    audio: 'https://s3.amazonaws.com/vyralmarketing/Doug+Elliott/Suzanne+Dawson.mp3'
+  - quote: 'They were great, everything went very smoothly! We had a tight closing deadline and they helped make sure that my mortgage broker was on track.'
     name:
     audio:
+  - quote: 'We sold our house for a higher value than we had planned and it was a faster and easier experience. It actually sold before it actually was on the market. We got an offer before the open house actually, before it was listed, and just trying to ensure that all the questions were addressed and ensuring that it was a quality offer and making it a very easy decision on our part. It was a very stress free environment which I think was pretty unique.'
+    name: Kevin
+    audio:
+  - quote: 'Very good, we got our current townhouse sold and we bought a new place. We went on the market a week earlier than we originally planned in an effort to get a contract on the house that we really wanted in time and Doug didn’t seem to bat an eye and made it happen and got us sold in one weekend and like $12,000 over asking, so pretty awesome.'
+    name:
+    audio: 'https://s3.amazonaws.com/vyralmarketing/Doug+Elliott/Doug+Elliott+Reviews+-+Anonymous.mp3'
