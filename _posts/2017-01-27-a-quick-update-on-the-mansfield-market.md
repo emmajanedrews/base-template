@@ -26,7 +26,7 @@ From a low of 3.74% on November 7th, the average fixed 30-year mortgage rate inc
 
 The good news is that there are plenty of reasons to be optimistic down the line.
 
-Promised tax breaks for high-earners could reinvigorate sales of luxury homes, which have seen a glut lately.
+Promised tax breaks for high earners could reinvigorate sales of luxury homes, which have seen a glut lately.
 
 This could have a ripple effect throughout the rest of the real estate market, spurring sales and construction of mid-level and lower-priced housing.
 
@@ -36,7 +36,7 @@ One piece of good news is that the election is finally over. Also, you might hav
 
 {% include pullquote.html %}
 
-That might be a vote of confidence for our President-elect and his anticipated business-friendly policies as the inauguration draws near.
+That might be a vote of confidence for our President and his anticipated business-friendly policies.
 
 **It certainly seems things are getting back to normal as people come to realize the world's not ending.**
 
@@ -54,4 +54,4 @@ Second, many new homes have entered the market since the election, and more new 
 
 It's definitely worth investigating what's available around DFW right now.
 
-If you have any questions, don’t hesitate to reach out and give us a call or send us an email.  We look forward to hearing from you.
+If you have any questions, don’t hesitate to reach out and give us a call or send us an email. &nbsp;We look forward to hearing from you.
