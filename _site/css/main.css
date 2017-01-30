@@ -1862,7 +1862,6 @@ table tr, table td {
   position: relative;
   bottom: 5.5rem;
   border-radius: 9px 9px 0 0;
-  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
   margin-left: 100px; }
 
 .post-container {
@@ -1888,8 +1887,7 @@ table tr, table td {
 
 .post-image {
   width: 100%;
-  margin-bottom: 20px;
-  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5); }
+  margin-bottom: 20px; }
 
 .excerpt {
   font-size: 18px;
@@ -2839,7 +2837,7 @@ form select {
   margin-bottom: 7rem; }
 
 .fa-bars {
-  color: #fff; }
+  color: #EC1C2D; }
 
 .scroll-nav-color {
   background: white;
@@ -2849,7 +2847,7 @@ form select {
 .navbar-andross {
   border-bottom: 1px solid #EC1C2D; }
   .navbar-andross .navbar-brand {
-    color: #fff;
+    color: #EC1C2D;
     margin-top: 10px; }
 
 .brand-color {
