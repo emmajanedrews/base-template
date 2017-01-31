@@ -2786,7 +2786,7 @@ form select {
   transition: 0.3s; }
   .cta2:hover {
     background: transparent;
-    color: #fff;
+    color: #EC1C2D;
     box-shadow: 4px 4px 0 #f47a84;
     border: 2px solid #EC1C2D;
     -webkit-transform: scale(1.05);
