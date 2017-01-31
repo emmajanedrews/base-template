@@ -16,11 +16,11 @@ youtube_code: UxdoMDKL8qg
 
 {% include youtube.html %}
 
-Today I wanted to explain foreclosures and the foreclosure process in detail, because it's a little bit different in each state. I find that a lot of people—even many Realtors—don't understand the process entirely.
+Today I wanted to explain foreclosures and the foreclosure process in detail because it's a little bit different in each state. I find that a lot of people—even many Realtors—don't understand the process entirely.
 
 Say you're on Zillow looking for a deal and you see houses that say "pre-foreclosure," meaning it's not foreclosed yet. These properties aren't on the market, we don't know what the price will be, and we can't show it to you. It simply means the owners have been served a legal document called a lis pendens, which is the bank telling them that they're coming after their property.
 
-This process can take quite some time, and the owners still have a chance to catch up on the mortgage during it. It's really a "nothing to see here" kind of thing. The best we can do as agent is put them on our alert list and give you a heads up when the property comes to market. In most cases, these properties will end up foreclosed. **Once the property is foreclosed, it goes to the bank's asset management department, the number crunchers**. They'll determine what the property's value is, and they'll probably have it for 60 days.
+This process can take quite some time, and the owners still have a chance to catch up on the mortgage during it. It's really a "nothing to see here" kind of thing. The best we can do as agents is put them on our alert list and give you a heads up when the property comes to market. In most cases, these properties will end up foreclosed. **Once the property is foreclosed, it goes to the bank's asset management department, the number crunchers**. They'll determine what the property's value is, and they'll probably have it for 60 days.
 
 {% include pullquote.html %}
 
