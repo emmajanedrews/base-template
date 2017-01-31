@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PalmerHouse Properties</title>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from PalmerHouse Properties - your professional  Real Estate Agents.</description>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from PalmerHouse Properties STL - your professional St. Louis Real Estate Agents.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 27 Jan 2017 10:50:53 -0600</pubDate>
-    <lastBuildDate>Fri, 27 Jan 2017 10:50:53 -0600</lastBuildDate>
+    <pubDate>Tue, 31 Jan 2017 15:49:39 -0600</pubDate>
+    <lastBuildDate>Tue, 31 Jan 2017 15:49:39 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>

@@ -10,9 +10,9 @@ client:
   name: Kyle Fernandez
   license_number: 2003002868
   about_markdown: |
-
-  market:
-  brand: PalmerHouse Properties
+    Today’s buyers and sellers need a trusted resource that can guide them through the complex world of real estate. With my extensive knowledge and commitment to providing only the best and most timely information to my clients, I am your go-to source for real estate industry insight and advice. Buying or selling a home is more than just a transaction: it’s a life-changing experience. Feel free to contact me for all your real estate needs.
+  market: St. Louis
+  brand: PalmerHouse Properties STL
   brokerage:
   address: 328 Emmanuel Ct<br>Valley Park, MO 63088
   phone: 404-876-4901
@@ -20,21 +20,21 @@ client:
   phone2: 314-323-7999
   phone2_type: Cell
   email: Kyle.Fernandez@PalmerHouseProperties.com
-  url: http://www.palmerhouseproperties.com
+  url: http://www.KyleFernandez.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.kylefernandez.com/free_home_valuation
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.kylefernandez.com/mls-search
   VR_form:
 
 sidebar_CTA:
-  CTA_image_path: /img/cta-images/001.jpg
+  CTA_image_path: /img/cta-images/002.jpg
   CTA_title: Looking to Buy a Home?
   CTA_text: Search the entire MLS for homes located in -- MARKET --.
   CTA_link_text: Home Search Tool
-  CTA_url: /homesearch/
+  CTA_url: http://www.kylefernandez.com/mls-search
 
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
@@ -51,8 +51,8 @@ socials:
   linkedin_url: https://www.linkedin.com/in/kyle-fernandez-2824512
   gplus_url:
   youtube_url:
-  twitter_url:
-  instagram_url:
+  twitter_url: https://twitter.com/kylemfernandez
+  instagram_url: https://www.instagram.com/kylemfernandez/
   pinterest_url:
   zillow_url: http://www.zillow.com/profile/Kyle-Fernandez/
   trulia_url: https://www.trulia.com/profile/kyle-fernandez-agent-saint-louis-mo-zgb10pjs/overview
@@ -85,9 +85,9 @@ site_colors:
 
 header_shadow:
   h_shadow: 0px
-  w_shadow: 2px
-  shadow_spread: 7px
-  shadow_color: "#000"
+  w_shadow: 0px
+  shadow_spread: 0px
+  shadow_color: "rgba(255,255,255,0.1)"
 
 buttons:
   button_radius_number: 0px
