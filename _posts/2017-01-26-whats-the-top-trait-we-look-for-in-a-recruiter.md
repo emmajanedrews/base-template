@@ -28,4 +28,4 @@ The second way is in **their relationships with people.** The best recruiters te
 
 The third way is by being comfortable in a sales process where you don’t control everything. Our business is unlike a process that simply allows you to sell a specific product that has certain traits, features, and benefits that you can market. With our process, we’re selling a service that matches a candidate with a hiring authority. Both sides are represented by people who don’t always know exactly what they want until they see it. This means there’s a lot of human psychology involved, and our job can mimic that of a marriage broker—we help manage two people come to a conclusion to solve mutual needs and requirements.&nbsp;
 
-If you have any questions about this topic, please feel free to reach out to us. We’d look forward to talking with you!
+If you have any questions about this topic, please feel free to reach out to us. We look forward to talking with you!
