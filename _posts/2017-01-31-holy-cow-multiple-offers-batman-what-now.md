@@ -4,13 +4,13 @@ title: 'Holy Cow! Multiple Offers Batman! What Now?'
 tags:
   - Home Seller Tips
 excerpt: 'When you list with us, we make recommendations on what you can do to maximize value. Because of our experience of selling over 100 homes a year, we know exactly what buyers want.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Chris+Myers/Holy+Cow!+Multiple+Offers+Batman!+What+Now-+Orlando+Property+Group.mp4'
 pullquote: 'Once you generate multiple offers, you need to prioritize them by superiority.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: vkP4aRtHPE8
 ---
 
 
