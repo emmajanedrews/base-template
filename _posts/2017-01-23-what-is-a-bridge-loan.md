@@ -27,7 +27,7 @@ I advise sellers to wait until they sell their current home before they buy anot
 
 {% include pullquote.html %}
 
-B**ridge loans are temporary loans that bridge the gap between the sales price of your new home and the new mortgage in the event that your home has not yet sold.** The bridge loan is secured to your existing home. Then, the funds from the bridge loan are used as a down payment for your move up home.
+**B****ridge loans are temporary loans that bridge the gap between the sales price of your new home and the new mortgage in the event that your home has not yet sold.** The bridge loan is secured to your existing home. Then, the funds from the bridge loan are used as a down payment for your move-up home.
 
 There are benefits to using a bridge loan. For one, you can immediately put your home up on the market without any restrictions. Plus, bridge loans may not require monthly payments right away. Also, if you make a contingent offer on a property and the seller offers a notice to perform, you can remove that contingency, sell the house, and still move forward with that purchase.
 
