@@ -4,11 +4,11 @@ title: Where Is the Savannah Market Heading?
 date: 2017-02-01 13:05:00
 tags:
   - Market Update
-pullquote:
+pullquote: 'Interest rates are low, which means buyer demand is high.'
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: VOpmljZ1ccg
-excerpt:
+excerpt: 'How is the Savannah real estate market doing? So far, 2017 is off to a great start. Interest rates were fluctuating for a while and have now settled around 4%. Meanwhile, inventory is low and demand is high. To learn more about our current market, watch this short video.'
 ---
 
 
