@@ -8,7 +8,7 @@ enclosure: 'https://s3.amazonaws.com/vyralmarketing/Hervieux+Real+Estate/San+Die
 pullquote: 'Overall, there is a great opportunity for both buyers and sellers.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/emily-and-paul-hervieux-screenshot-updated-play-button.jpg
 youtube_code: 'https://youtu.be/X74s0pXIJvk'
 ---
