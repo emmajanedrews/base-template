@@ -20,9 +20,9 @@ As a whole, Savannah has seen a great start to the year. Inventory is really low
 
 Just 20 days ago, interest rates were in the upper fours (depending on what kind of loan you were getting) and now they are closer to 4%. If you are thinking of buying or selling a home, you have a great opportunity to do so right now. Interest rates are low, which is good news for buyers, and buyer demand is high, which is great news for sellers.
 
-Over the past couple of weeks, homes that are priced correctly and marketed well are selling very quickly. If you’re thinking of selling your home, I encourage you to get on the market sooner rather than later.
-
 {% include pullquote.html %}
+
+Over the past couple of weeks, homes that are priced correctly and marketed well are selling very quickly. If you’re thinking of selling your home, I encourage you to get on the market sooner rather than later.
 
 Why? As we head more into the spring, a lot more people will put their houses on the market, which will increase inventory. Right now, we have low inventory and increasing demand, which is the ideal market to sell your home in.
 
