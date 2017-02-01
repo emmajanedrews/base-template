@@ -6,6 +6,7 @@ author: Vyral Admin
 tags:
   - Market Update
 modified_time: '1:05 pm'
+pullquote:
 thumbnail:
 use_youtube_image: true
 youtube_alternate_image:
