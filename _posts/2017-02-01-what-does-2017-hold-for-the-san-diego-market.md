@@ -20,7 +20,7 @@ What’s happening in our San Diego real estate market for first quarter of 2017
 
 Right now, we’re in a seller’s market. To give you a bit of background on how we determine this, we typically look at the supply of inventory. For example, if there are nine homes for sale in a zip code and three homes sell each month, we have a three-month supply of homes.
 
-A buyer’s market is considered anything over a seven-month supply. A neutral market is a five- to six-month supply. Anything under a five-month supply is considered a seller’s market. As we speak, in San Diego County, we have a two-month supply of homes, hence our position as a seller’s market. &nbsp;
+A buyer’s market is considered anything over a seven-month supply. A neutral market is a five- to six-month supply. Anything under a five-month supply is considered a seller’s market. As we speak, in San Diego County, we have a two-month supply of homes, hence our position as a seller’s market.
 
 Interest rates pose a more interesting development. In the wake of the presidential election, we saw them shoot up over the last few weeks. They improved a little bit in the last couple days, but most experts predict that they’ll continue to increase throughout 2017.
 
