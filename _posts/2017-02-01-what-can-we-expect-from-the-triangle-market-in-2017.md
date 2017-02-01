@@ -26,9 +26,9 @@ Generally speaking, this low supply and high demand mean prices will rise, but i
 
 Interest rates continue to rise, even after the expected bump we saw after the election. The Fed held off on raising rates, so some of that pent-up desire finally came to fruition. The stock market also went up significantly in the last couple months, leading to an increase in consumer confidence, which also allowed rates to rise. We should expect rates to keep increasing in 2017 from where they're at now at about 4.25% for a 30-year fixed-rate loan. I wouldn't be surprised to see that go up to 4.5% by year's end.
 
-If you're a home buyer, prices will keep going up, and so will the cost of money. **If you plan on buying in the next few year, you won't benefit at all by waiting.&nbsp;**
+If you're a home buyer, prices will keep going up, and so will the cost of money. **If you plan on buying in the next few year, you won't benefit at all by waiting.**
 
-As a seller in today's market, now is a great time as well. Everybody wants to buy low and sell high, so you could benefit by selling now while the market is experiencing peak prices. These peaks happen about every seven years in real estate cycles, and the last peak was around 2007. We're already two years overdue for a market correction.&nbsp;
+As a seller in today's market, now is a great time as well. Everybody wants to buy low and sell high, so you could benefit by selling now while the market is experiencing peak prices. These peaks happen about every seven years in real estate cycles, and the last peak was around 2007. We're already two years overdue for a market correction.
 
 If you sell you house now, will you have a house to go to in this seller's market? It all depends on what you're looking for. It's a great time to be a move-up buyer, meaning you sell at a lower price point and buy at a higher price point. **There is a lot of new construction in our market that started at the end of 2016 that will start to come on the market in the first quarter of 2017.**
 
