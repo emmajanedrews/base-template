@@ -2,12 +2,9 @@
 layout: post
 title: Where Is the Savannah Market Heading?
 date: 2017-02-01 13:05:00
-author: Vyral Admin
 tags:
   - Market Update
-modified_time: '1:05 pm'
 pullquote:
-thumbnail:
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: VOpmljZ1ccg
