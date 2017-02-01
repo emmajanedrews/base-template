@@ -59,7 +59,7 @@ socials:
   pinterest_url:
   zillow_url: 'http://www.zillow.com/profile/Ashley-Carter/'
   trulia_url: 'https://www.trulia.com/profile/ashley-carter-agent-chicago-il-zgg19f8f/overview'
-  yelp_url: 'https://www.yelp.com/biz/carter-property-group-chicago'
+  yelp_url:
   podcast_url:
 podcast:
   title: Chicago Real Estate Podcast with Ashley Carter
@@ -72,7 +72,7 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 50rem
+  logo_width_number:
   hero_text: Real Estate Video Blog
   hero_background_hex: '#b22025'
   hero_image_path: /img/background.jpg
