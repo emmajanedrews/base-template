@@ -8,6 +8,7 @@ pullquote:
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: VOpmljZ1ccg
+excerpt:
 ---
 
 
