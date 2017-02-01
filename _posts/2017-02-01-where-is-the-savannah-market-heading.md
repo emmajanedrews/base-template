@@ -23,6 +23,8 @@ Just 20 days ago, interest rates were in the upper fours (depending on what kind
 
 Over the past couple of weeks, homes that are priced correctly and marketed well are selling very quickly. If you’re thinking of selling your home, I encourage you to get on the market sooner rather than later.
 
+{% include pullquote.html %}
+
 Why? As we head more into the spring, a lot more people will put their houses on the market, which will increase inventory. Right now, we have low inventory and increasing demand, which is the ideal market to sell your home in.
 
 If you have any other questions about the current real estate market, give me a call or send me an email. I would be happy to help you!
