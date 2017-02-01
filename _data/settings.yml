@@ -10,23 +10,25 @@ client:
   name:
   license_number:
   about_markdown: |
-
+    We provide win-win solutions to help homeowners get out of their sticky situations… like Foreclosure, owning a burdensome property, probate, or anything else.
+    <br><br>
+    DFW Cash Investor is a real estate solutions company based out of Irving.  We’re a family owned business and focus on helping homeowners like you find solutions for your problem whether you’re going through a foreclosure, can’t sell your property, or just need to sell their house for all kinds of reasons.
   market:
   brand:
   brokerage:
   address:
-  phone:
+  phone: 972-734-8100
   phone_type:
   phone2:
   phone2_type:
-  email:
+  email: joel@dfwcashinvestor.com
   url:
 
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
-  second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  first_CTA_text: Seller Bucket
+  first_CTA_URL: http://www.dfwcashinvestor.com/get-a-cash-offer-today
+  second_CTA_text: Investor Bucket
+  second_CTA_URL: http://www.dfwfixnrent.com/investors
   VR_form:
 
 sidebar_CTA:
@@ -71,14 +73,14 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40rem
-  hero_text: Real Estate Video Blog
+  logo_width_number: 60rem
+  hero_text:
   hero_background_hex: '#094264'
   hero_image_path: /img/background.jpg
 
 site_colors:
-  brand_color: '#C14547'
-  theme_color: '#005473'
+  brand_color: '#EB7E24'
+  theme_color: '#253D91'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -87,7 +89,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: "#000"
+  shadow_color: "transparent"
 
 buttons:
   button_radius_number: 0px
