@@ -1,5 +1,5 @@
 audit_header: false
-title: The Base Template
+title: DFW Cash Investor
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -14,7 +14,7 @@ client:
     <br><br>
     DFW Cash Investor is a real estate solutions company based out of Irving.  We’re a family owned business and focus on helping homeowners like you find solutions for your problem whether you’re going through a foreclosure, can’t sell your property, or just need to sell their house for all kinds of reasons.
   market:
-  brand:
+  brand: DFW Cash Investor
   brokerage:
   address:
   phone: 972-734-8100
