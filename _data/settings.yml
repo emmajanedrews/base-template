@@ -33,7 +33,7 @@ CTAs:
   second_CTA_text: Home Search
   second_CTA_URL: 'http://www.carterpropertygroup.com/'
   phone_CTA: true
-  VR_form:
+  VR_form: 'http://oi.vresp.com?fid=b2f17ea1b4'
 sidebar_CTA:
   CTA_image_path: /img/cta-images/007.jpeg
   CTA_title: Looking to Buy a Home?
