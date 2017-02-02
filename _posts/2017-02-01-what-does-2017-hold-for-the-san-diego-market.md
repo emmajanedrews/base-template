@@ -4,13 +4,13 @@ title: What Does 2017 Hold for the San Diego Market?
 tags:
   - Market Update
 excerpt: 'Here in San Diego, we’re in a seller’s market. However, as you’ll see, there is a great opportunity for both sellers and buyers.'
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Hervieux+Real+Estate/San+Diego+Real+Estate-+A+First+Look+at+the+2017+San+Diego+Market.mp4'
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Hervieux+Real+Estate/San+Diego+Real+Estate-+A+First+Look+at+the+2017+San+Diego+Market+(1).mp4'
 pullquote: 'Overall, there is a great opportunity for both buyers and sellers.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/emily-and-paul-hervieux-screenshot-updated-play-button.jpg
-youtube_code: 'https://youtu.be/X74s0pXIJvk'
+youtube_alternate_image: /uploads/emily--paul-hervieux-jan-2017-market--update.jpg
+youtube_code: 'https://youtu.be/_FhwDXZ3kuE'
 ---
 
 
