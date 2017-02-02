@@ -3,13 +3,13 @@ layout: post
 title: What Can We Expect From the Triangle Market in 2017?
 tags:
   - Market Update
-date: 
+date:
 excerpt: "Today we'll discuss what you can expect from the Triangle market as we head into the first quarter of 2017. Interest rates and prices are rising, so the time to act is now for both buyers and sellers."
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Chris+Gorman/Triangle+Area+Real+Estate-+What+to+Expect+in+the+Triangle+Market+in+2017.mp4'
 pullquote: Low supply and high demand in the Triangle means prices will rise.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /uploads/chris-gorman-jan-2017-market-update.jpg
 youtube_code: 'https://youtu.be/Jrh5K0gPe2w'
 ---
