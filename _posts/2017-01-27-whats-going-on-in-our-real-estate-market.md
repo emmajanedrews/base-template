@@ -10,7 +10,7 @@ enclosure: 'http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/What%2527s%20
 pullquote: 'Due to low rates, buyers have a lot of buying power.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/ashley-carter.jpg
 youtube_code: 5B2r96avwTg
 ---
