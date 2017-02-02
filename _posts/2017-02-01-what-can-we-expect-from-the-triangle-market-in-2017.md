@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/chris-gorman-jan-2017-market-update.jpg
-youtube_code: 'https://youtu.be/aX9Me9WTmFQ'
+youtube_code: 'https://youtu.be/Jrh5K0gPe2w'
 ---
 
 
