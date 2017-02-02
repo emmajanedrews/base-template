@@ -21,7 +21,7 @@ client:
   url: 'http://www.gormanresidential.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'http://www.gormanresidential.com/contact/'
+  first_CTA_URL: 'http://gorman.kwrealty.com/sell/'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://www.gormanresidential.com/listings-search/'
   phone_CTA: true
@@ -31,7 +31,7 @@ sidebar_CTA:
   CTA_title: Looking to Buy a Home?
   CTA_text: Search the entire MLS for homes located in -- MARKET --.
   CTA_link_text: Home Search Tool
-  CTA_url: /homesearch/
+  CTA_url: http://www.gormanresidential.com/listings-search/
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
