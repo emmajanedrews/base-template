@@ -20,11 +20,11 @@ What should buyers look for when they're out shopping for their next home with t
 
 I know when a lot of people look at a home, they're taken by “the feeling.” The home may be staged beautifully with great furniture, and it just feels good. However, a lot of people don't look at some of the most important factors when purchasing a home.
 
-First, I think the most important factor you should consider is the **resale value**of the home. If you buy the most expensive house in the neighborhood, you'll probably have a tough time selling it or getting the value back out of it. Don't go looking for the most over-the-top house in the neighborhood—get a beautiful home that you love that's not the most expensive one on the block.
+First, I think the most important factor you should consider is the **resale value** of the home. If you buy the most expensive house in the neighborhood, you'll probably have a tough time selling it or getting the value back out of it. Don't go looking for the most over-the-top house in the neighborhood—get a beautiful home that you love that's not the most expensive one on the block.
 
 {% include pullquote.html %}
 
-Secondly, look out for **structural issues.**When you walk through a house, a good telltale sign to look out for is whether the tops of the door frames are crooked. If they are crooked, you may want to hire a structural engineer to assess any possible structural issues with the home.
+Secondly, look out for **structural issues.** When you walk through a house, a good telltale sign to look out for is whether the tops of the door frames are crooked. If they are crooked, you may want to hire a structural engineer to assess any possible structural issues with the home.
 
 Thirdly, I like to have my buyers **look at the big-ticket items** that could turn into a large out-of-pocket expense: the age of the roof, the HVAC system, and the windows. Will the roof need to be replaced soon? Does the home have a heat pump or central air? Are they about to go out? Are the windows updated or are they single-pane? Older windows can rob your home of energy efficiency and cost you thousands and thousands of dollars to replace.
 
