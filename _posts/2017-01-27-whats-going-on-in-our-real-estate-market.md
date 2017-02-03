@@ -12,13 +12,13 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/ashley-carter.jpg
-youtube_code: 5B2r96avwTg
+youtube_code: m0AQZjEolkg
 ---
 
 
 {% include youtube.html %}
 
-Today, I wanted to take a moment to compare the 2016 Chicago real estate market to that of 2015.&nbsp;
+Today, I wanted to take a moment to compare the 2016 Chicago real estate market to that of 2015.
 
 As we left 2016, we found that we're in a slight seller's market here in Chicago; homes sold at a faster pace and for more money than in 2015. **That's all good news for sellers.**
 
