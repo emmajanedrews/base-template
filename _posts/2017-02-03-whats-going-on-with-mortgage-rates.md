@@ -20,7 +20,7 @@ The year just started, but mortgage rates have already increased slightly. We ar
 
 A forecast I recently saw on U.S. News and World Report predicted that we will see an increase in rates of .5% to 1% this year. Currently, the average rate is 4.2%. What do these numbers mean to you?
 
-<br>Let’s look at an example. Say you have a $300,000 mortgage. With a 4% rate, your monthly payment is $1,432. With a 4.5% rate, the payment on the same $300,000 mortgage is $1,520 per month. If rates increase up to 5%, which many are expecting, the payment on that same mortgage would go up to $1,610 per month.
+Let’s look at an example. Say you have a $300,000 mortgage. With a 4% rate, your monthly payment is $1,432. With a 4.5% rate, the payment on the same $300,000 mortgage is $1,520 per month. If rates increase up to 5%, which many are expecting, the payment on that same mortgage would go up to $1,610 per month.
 
 {% include pullquote.html %}
 
@@ -28,4 +28,4 @@ The question we all have is this: Will this in any way damage our housing market
 
 Given that mortgage rates are going to go up even more, it makes a lot of sense to lock in your mortgage financing now. It puts you in a very strong position when you go out to purchase. That's the place to start. In our next video, I’ll show you how to become a “sure thing” as a buyer.
 
-<br>Studies show that 89% of people hire an agent when they are ready to buy a home. My team and I would very much like you to consider using us as your agents in the event that you're ready to buy or sell. Even if you just have a few quick questions, we would love to hear from you. Just give us a call or send us an email.
+Studies show that 89% of people hire an agent when they are ready to buy a home. My team and I would very much like you to consider using us as your agents in the event that you're ready to buy or sell. Even if you just have a few quick questions, we would love to hear from you. Just give us a call or send us an email.
