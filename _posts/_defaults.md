@@ -3,8 +3,8 @@ layout: post
 title:
 tags:
 excerpt:
-enclosure:
 pullquote:
+enclosure:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
