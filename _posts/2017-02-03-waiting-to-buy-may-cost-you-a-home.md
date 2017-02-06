@@ -18,7 +18,7 @@ youtube_code: SaU3TnVJAzE
 
 A lot of people have been asking us lately how they should time their move. They want to know if they should take action now and buy or wait for even better conditions. Because rates are so low right now, it really makes sense to take advantage of them right now by buying a home. **The cost of buying a home is way more affordable right now than it will be a year from now most likely.&nbsp;**
 
-That means you can afford a larger home now for the same price than you will be able to when rates go up. You could also get a home in a better location. **You have a ton of options right now, so we recommend you start exploring them.** Come to the office, let’s talk about your wants and needs in a home, and we can even talk about what a home purchase will cost you now vs. what it would cost you if rates went up.&nbsp;
+That means you can afford a larger home now for the same price than you will be able to when rates go up. You could also get a home in a better location. **You have a ton of options right now, so we recommend you start exploring them.** Come to the office, let’s talk about your wants and needs in a home, and we can even talk about what a home purchase will cost you now versus what it would cost you if rates went up.&nbsp;
 
 {% include pullquote.html %}
 
