@@ -19,10 +19,10 @@ youtube_code: Wl6AiS8jTFU
 The fact is, there isn't much more to the average agent than the agent themselves. Most agents operate a one-person show and they are probably breaking their backs trying to do a good job for their clients. Most agents couldn't work harder than they are already working.
 <br>
 <br>Sometimes, clients can actually suffer from their agent's good intentions. The fact is, you may be sympathetic to the fact that your agent is working as hard as humanly possible, but if the quality and profitability of your home sale suffers as a result of them trying to do everything themselves, you have the right to feel cheated.
-
-{% include pullquote.html %}
 <br>
 <br>The simple explanation is that we have built a team of professionals to help us be in 10 places at once, greatly enhancing the quality of service we can deliver to our clients. This is how other professionals like your banks and lawyers run their businesses. On top of that, we have used cutting-edge technology to dramatically improve the speed, efficiency, and innovative capabilities of every part of the service we deliver.
+
+{% include pullquote.html %}
 <br>
 <br>We don't expect you to care about the fine details of the inner-workings of our office. What you should care about is simply that because of the highly unique way we have structured our real estate office, our clients' homes sell for more money in less time.
 <br>
