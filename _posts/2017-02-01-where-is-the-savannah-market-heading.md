@@ -5,9 +5,9 @@ date: 2017-02-01 13:05:00
 tags:
   - Market Update
 pullquote: 'Interest rates are low, which means buyer demand is high.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Jason+McIntosh/Savannah+Real+Estate+Agent-+Where+Is+the+Savannah+Market+Heading%253F.mp4'
 enclosure_type: video/mp4
-enclosure_time:
+enclosure_time: '3:02 pm'
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: VOpmljZ1ccg
