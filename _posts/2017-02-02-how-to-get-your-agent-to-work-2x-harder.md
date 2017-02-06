@@ -26,6 +26,6 @@ Most agents operate a one-person show and they are probably breaking their backs
 <br>
 <br>We don't expect you to care about the fine details of the inner-workings of our office. What you should care about is that **because of the highly unique way we have structured our real estate office, our clients’ homes sell for more money in less time.**
 <br>
-<br>Our team sells a lot of homes. We have extensive home selling experience that puts more money in our clients' pockets. To find out more about how our team approach can make you more successful in the real estate market, simply visit [www.getmorewithus.com](http://www.greatercalgarygroup.com/about) and fill out the form. We'll be in touch!
+<br>Our team sells a lot of homes. We have extensive home selling experience that puts more money in our clients' pockets. To find out more about how our team approach can make you more successful in the real estate market, simply visit [www.getmorewithus.com](http://www.greatercalgarygroup.com/info/our-team) and fill out the form. We'll be in touch!
 <br>
 <br>If you have any questions for us, don't hesitate to give us a call or send us an email. We would love to hear from you.
