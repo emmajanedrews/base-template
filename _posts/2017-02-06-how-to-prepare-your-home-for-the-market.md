@@ -8,7 +8,7 @@ enclosure: 'https://s3.amazonaws.com/vyralmarketing/Nathan+Abbott/Nathan+Abbott+
 pullquote: A few small fixes can go a long way.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image:
 youtube_code: 4l7k8d66arI
 ---
