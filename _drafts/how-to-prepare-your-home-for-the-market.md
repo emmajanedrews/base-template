@@ -15,6 +15,7 @@ youtube_code: 4l7k8d66arI
 
 
 {% include youtube.html %}
+
 As a home seller, what can you do to get your home ready for the photo shoot and for buyer showings?
 
 Pricing your home for the market is important, but a successful home sale takes more than that. Your home should be very inviting. You need to create an amazing showing experience for potential buyers.
@@ -22,7 +23,9 @@ Pricing your home for the market is important, but a successful home sale takes 
 **First of all, make sure that your landscaping is fresh and inviting.** After all, your curb appeal makes the first impression on potential buyers. If the yard is in disarray or there are weeds sprouting up everywhere, you won’t start off on the right foot. Make sure that the hedges are freshly cut and that the driveway is clear of debris so that buyers are excited to walk through the front door.
 
 When potential buyers walk through your door, your home needs to be free of all personal items. Take down family photos and make sure that there aren’t any books stacked on the counter or above cabinets. If you leave all of your personal items lying around, buyers will feel like they are intruding on your home. Potential buyers need to be able to envision the property as their own.
+
 {% include pullquote.html %}
+
 Make sure that your house is clean and smells fresh. Vacuum the carpets, mop the floors, and make sure all of the doors are working properly. Touch up paint and make sure that buyers have a smooth experience during the showing.
 
 **Small things can make a huge difference in whether or not you get an offer.** We provide a free consultation with a staging company. The staging company will come in and let you know what you need to do to make showings fantastic. Sometimes just switching out the comforters on the beds or adding a new lamp makes all the difference.
