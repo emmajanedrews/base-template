@@ -18,7 +18,7 @@ youtube_code: _Y1uuPzqgfY
 
 The year just started, but mortgage rates have already increased slightly. We are looking at much stronger economic activity and job growth as we head into 2017. There are expectations of lower taxes as well, so there is a lot of optimism. However, rates are expected to go up even more as the year goes on.
 
-A forecast I recently saw on U.S. News and World Report predicted that we will see an increase in rates of .5% to 1% this year. Currently, the average rate is 4.2%. What do these numbers mean to you?
+A forecast I recently saw on the U.S. News and World Report predicted that we will see an increase in rates of 0.5% to 1% this year. Currently, the average rate is 4.2%. What do these numbers mean to you?
 
 Let’s look at an example. Say you have a $300,000 mortgage. With a 4% rate, your monthly payment is $1,432. With a 4.5% rate, the payment on the same $300,000 mortgage is $1,520 per month. If rates increase up to 5%, which many are expecting, the payment on that same mortgage would go up to $1,610 per month.
 
