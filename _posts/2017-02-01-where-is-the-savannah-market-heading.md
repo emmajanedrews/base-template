@@ -5,6 +5,9 @@ date: 2017-02-01 13:05:00
 tags:
   - Market Update
 pullquote: 'Interest rates are low, which means buyer demand is high.'
+enclosure:
+enclosure_type: video/mp4
+enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: VOpmljZ1ccg
