@@ -60,10 +60,10 @@ images:
   client_headshot_path: '/img/headshot.jpg'
   hero_logo_path: '/img/logo.png'
   hero_text:
-  hero_background_hex: '#CF2031'
+  hero_background_hex: '#ab0000'
   hero_image_path: '/img/background.jpg'
-brand_color: '#CF2031'
-theme_color: '#CF2031'
+brand_color: '#ab0000'
+theme_color: '#ab0000'
 theme_text_color: '#353535'
 main_body_color: '#ffffff'
 main_body_text_color: '#353535'
