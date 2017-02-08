@@ -7,20 +7,20 @@ custom_links:
     url:
 
 client:
-  name:
-  license_number:
+  name: Rob Ellis
+  license_number: 2014002724
   about_markdown: |
-
-  market:
-  brand:
+    The REllis Group is a real estate team based out of Central Ohio with a vision to motivate and inspire people to create a better life through real estate. Our core commitment is to focus on new business daily, master all aspects of the home sales process, deliver a world-class client experience, and create raving past clients that continue to work with our team throughout their lifetime. The REllis Group services all 8 counties that surround Columbus, Ohio.
+  market: Columbus
+  brand: The Rellis Group
   brokerage:
-  address:
-  phone:
+  address: 1350 West 6th Ave. Suite 326<br>Columbus, OH 43212
+  phone: 614-949-5925
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: rellisgroupsales@gmail.com
+  url: http://rellisgroup.com
 
 CTAs:
   first_CTA_text: Home Valuation
