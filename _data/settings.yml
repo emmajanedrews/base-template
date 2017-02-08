@@ -73,12 +73,12 @@ images:
   hero_logo_path: /img/logo.png
   logo_width_number: 40
   hero_text: Real Estate Video Blog
-  hero_background_hex: '#094264'
-  hero_image_path: /img/background.jpg
+  hero_background_hex: '#fff'
+  hero_image_path: /img/background.png
 
 site_colors:
-  brand_color: '#C14547'
-  theme_color: '#005473'
+  brand_color: '#1D5AA3'
+  theme_color: '#535353'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -95,7 +95,7 @@ buttons:
   button_padding_height_number: 15
   button_border_color: '#ffffff'
   button_background_color: '#ffffff'
-  button_text_color: '#123456'
-  secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: 'rgba(0, 0, 0, 0)'
+  button_text_color: '#1D5AA3'
+  secondary_button_border_color: '#1D5AA3'
+  secondary_button_background_color: '#1D5AA3'
   secondary_button_text_color: '#ffffff'
