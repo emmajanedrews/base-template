@@ -2806,13 +2806,14 @@ form select {
   font-size: 20px;
   margin-top: 12px;
   border-radius: 0px;
-  border-bottom: 5px solid transparent;
   -webkit-transition: 0.3s;
   transition: 0.3s; }
 
-.navbar-left > li > a:hover {
-  border-bottom: 3px solid #488cde;
-  color: #fff; }
+.navbar-left > li > a {
+  border-bottom: 5px solid transparent; }
+  .navbar-left > li > a:hover {
+    border-bottom: 3px solid #488cde;
+    color: #fff; }
 
 .footer {
   color: #fff; }
