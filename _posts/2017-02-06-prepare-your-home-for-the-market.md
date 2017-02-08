@@ -28,6 +28,6 @@ You should also make sure that your home is free of all personal items. Take dow
 
 It’s important to have all of the smaller items in your home functioning correctly. Check on cabinet hinges, sliding glass doors, and more.
 
-During the showing, we recommend that you have jazz music playing or cookies baking. Doing so will show buyers that you have pride in homeownership. **We provide a professional stager to all of our clients.** The stager will come in and let you know what you need to do to make showings fantastic. Sometimes just switching out the comforters on the beds or adding a new lamp makes all the difference. LIttle changes go a long way; you don’t have to spend a lot of money to make your home more appealing to buyers.
+During the showing, we recommend that you have jazz music playing or cookies baking. Doing so will show buyers that you have pride in homeownership. **We provide a professional stager to all of our clients.** The stager will come in and let you know what you need to do to make showings fantastic. Sometimes just switching out the comforters on the beds or adding a new lamp makes all the difference. Little changes go a long way; you don’t have to spend a lot of money to make your home more appealing to buyers.
 
 Hopefully some of these tips will help you sell your home faster and maximize your price. It’s all about the little touches and the experience the buyer has from the moment they pull up in front of your home. If you have any questions, give me a call or send me an email. I would be happy to help you!
