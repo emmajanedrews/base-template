@@ -20,10 +20,10 @@ If you listed your home and it didn't sell, do you know why? It's unfortunate th
 
 There are four reasons why a home typically doesn't sell:
 
-1. **Location.** If for example your home is on a busy road and wasn't priced appropriately for the location, it might not sell.
-2. **Condition**. If your home doesn't show well in pictures or when buyers come to tour your home, they will probably be turned off by it.
-3. **Price.** It's an easy factor for people to point to, but there's more to it than you might think. Your home must be priced according to the condition and the location. If it is, it'll sell. If it's not priced properly, buyers won't want it.
-4. **Marketing**. This is a big piece that many people don't understand as well. There's more to selling your home than putting it on the multiple listing service. You need to have a strong agent marketing the home for you.
+1. <div>Location. If for example your home is on a busy road and wasn't priced appropriately for the location, it might not sell.</div>
+2. <div>Condition. If your home doesn't show well in pictures or when buyers come to tour your home, they will probably be turned off by it.</div>
+3. <div>Price. It's an easy factor for people to point to, but there's more to it than you might think. Your home must be priced according to the condition and the location. If it is, it'll sell. If it's not priced properly, buyers won't want it.</div>
+4. <div>Marketing. This is a big piece that many people don't understand as well. There's more to selling your home than putting it on the multiple listing service. You need to have a strong agent marketing the home for you.</div>
 
 {% include pullquote.html %}
 
