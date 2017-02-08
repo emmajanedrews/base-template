@@ -19,7 +19,7 @@ youtube_code: wE17TE17nNU
 
 {% include youtube.html %}
 
-If you plan on selling your home, here are five updates that you should avoid making to it before you list it:
+If you plan on selling your home, here are five updates that you should avoid making before you list it:
 
 **1. Wallpaper.** You don’t want to add wallpaper unless it’s a custom home or you’ve been asked by a custom designer to add wallpaper.
 
