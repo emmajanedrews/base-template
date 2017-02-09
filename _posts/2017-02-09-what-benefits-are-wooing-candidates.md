@@ -2,10 +2,6 @@
 layout: post
 title: What Benefits Are Wooing Candidates?
 tags:
-  - Bio Pharma
-  - Building Products
-  - Careers
-  - Futurity
   - Health Care
 excerpt: 'We are back to answer another great question about hiring in the healthcare world. Jennie, an HR manager from the Twin Cities, wants to know what candidates are looking for in an employer right now.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Govig/Healthcare/Videos/2017/What+Benefits+Are+Wooing+Candidates%253F.mp4'
