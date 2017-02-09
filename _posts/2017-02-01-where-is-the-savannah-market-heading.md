@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time: '3:02 pm'
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: VOpmljZ1ccg
+youtube_code: Tvz4PVbMDrQ
 excerpt: 'How is the Savannah real estate market doing? So far, 2017 is off to a great start. Interest rates were fluctuating for a while and have now settled around 4%. Meanwhile, inventory is low and demand is high. To learn more about our current market, watch this short video.'
 ---
 
