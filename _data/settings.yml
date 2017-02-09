@@ -52,7 +52,7 @@ socials:
   zillow_url: 'http://www.zillow.com/profile/Chris-Gorman/'
   trulia_url: 'https://www.trulia.com/profile/chris-gorman-agent-raleigh-nc-zgz3f73l/overview'
   yelp_url: 'https://www.yelp.com/biz/gorman-residential-raleigh'
-  podcast_url:
+  podcast_url: https://itunes.apple.com/us/podcast/raleigh-real-estate-podcast/id1203789226?mt=2
 podcast:
   title: Raleigh Real Estate Podcast with Chris Gorman
   categories: Education
