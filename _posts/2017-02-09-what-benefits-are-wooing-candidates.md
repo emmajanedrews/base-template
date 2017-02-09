@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: S-6rLm9Yucs
 ---
 
 
@@ -22,7 +22,7 @@ youtube_code:
 
 Today we are here to answer a question from Jennie, an HR manager in the Twin Cities who asked, **“What are candidates honing in on right now when choosing an employer?”**
 
-The first big thing we are hearing from candidates is that they want to join a company that is in growth mode. Career growth for the company means career growth for the employee as well. Candidates are honing in on these growing companies so that they can create an upward trajectory for their career as well.&nbsp;
+The first big thing we are hearing from candidates is that they want to join a company that is in growth mode. Career growth for the company means career growth for the employee as well. Candidates are honing in on these growing companies so that they can create an upward trajectory for their career as well.
 
 **Benefits are a hot button topic right now as well.** The cost of benefits is going up a lot, especially for families. The cost is going to be higher at your position than it was in the past as well. Can you find another way to compensate an employee, maybe in the form of a little higher salary? Being flexible like this is the key to getting the best hires.
 
