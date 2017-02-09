@@ -1255,7 +1255,7 @@ html[xmlns] .flexslider .slides {
   margin-bottom: 20px;
   max-height: 0px;
   overflow: hidden;
-  font-size: 18px; }
+  font-size: 2.4rem; }
 
 .welcome-box-seen-before {
   font-size: 2.4rem;
@@ -1542,7 +1542,7 @@ label.tree-toggle {
 
 .site-logo {
   width: 90%;
-  max-width: 40rem;
+  max-width: 30rem;
   -webkit-filter: drop-shadow(0px 2px 7px #000);
   filter: drop-shadow(0px 2px 7px #000); }
 
@@ -2174,7 +2174,7 @@ table tr, table td {
 
 .footer-socials .socials {
   text-align: center;
-  margin: 2rem;
+  margin: 2rem 0;
   list-style-type: none; }
   .footer-socials .socials li {
     display: inline-block;
@@ -2191,6 +2191,9 @@ table tr, table td {
       fill: #488cde;
       background: transparent; }
 
+@media (min-width: 1199px) {
+  .footer-socials .socials {
+    text-align: right; } }
 @media (max-width: 1450px) {
   .socials svg {
     height: 3rem;
@@ -2373,14 +2376,35 @@ table tr, table td {
 
 .footer {
   background: #525252;
-  color: #353535;
+  color: #fff;
   padding: 2rem;
-  text-align: center;
-  font-size: 18px; }
+  text-align: left;
+  font-size: 2rem;
+  margin-bottom: 0; }
+  .footer .footer-logo {
+    width: 100%;
+    max-width: 200px; }
   .footer hr {
     border-top: 2px solid #1D5AA3; }
   .footer address {
-    font-style: normal; }
+    font-style: normal;
+    margin-top: 20px;
+    margin-left: 20px; }
+
+.contact-info a {
+  color: #fff;
+  margin: 0 20px; }
+  .contact-info a:hover {
+    border-bottom: 2px solid #1D5AA3; }
+
+.contact-info-small a {
+  color: #fff; }
+  .contact-info-small a:hover {
+    border-bottom: 2px solid #1D5AA3; }
+.contact-info-small address {
+  margin-left: 0; }
+.contact-info-small .phone-footer {
+  padding-left: 0; }
 
 @media(max-width: 500px) {
   .footer {
@@ -2389,7 +2413,15 @@ table tr, table td {
       height: 3rem;
       width: 3rem; } }
 .attribution {
-  text-align: center; }
+  background: #464646;
+  color: #fff;
+  padding-top: 30px;
+  width: 100%; }
+  .attribution p {
+    font-size: 18px; }
+
+.vyral-attr {
+  text-align: right; }
 
 .vyral-logo {
   fill: #1D5AA3;
@@ -2405,6 +2437,20 @@ table tr, table td {
 .footer-pad {
   padding-top: 20px; }
 
+@media (max-width: 767px) {
+  .vyral-attr {
+    text-align: center; }
+
+  .attribution {
+    text-align: center;
+    margin-bottom: 40px;
+    padding-bottom: 20px; }
+
+  .footer-logo {
+    margin: 0 auto; }
+
+  .contact-info-small {
+    text-align: center; } }
 .item-container {
   margin: 3rem 5rem;
   box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
@@ -2682,6 +2728,7 @@ form select {
 .newsletter {
   background: #1D5AA3;
   color: white;
+  font-weight: 200;
   text-align: center;
   padding: 1rem; }
   .newsletter p {
@@ -2823,9 +2870,6 @@ form select {
     fill: #fff; }
   .footer a {
     color: #fff; }
-
-.newsletter {
-  background: #4b4b4b; }
 
 .navbar-left li a {
   color: #fff; }

@@ -26,7 +26,7 @@ layout: default
 		</div>
 {% endfor %}
 
-<div class="row content-container">
+<div class="row">
 	<ul class="post-list">
 {% for post in paginator.posts offset: 1 limit: 6 %}
 
@@ -44,7 +44,7 @@ layout: default
 
 			<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 				<h2 class="post-overview-title"><a class="post-link" href="{{ post.url }}">{{ post.title | truncate: 70 }}</a></h2>
-			<span class="hidden-lg">{{ post.excerpt | strip_html | prepend: "<p class=''>" | append: "<p>" }}
+			<span class="hidden-lg">{{ post.excerpt | strip_html | prepend: "<p class='excerpt'>" | append: "<p>" }}
 			<p class="readlink"><a href="{{post.url}}" class="readmore">Read More</a></p></span>
 		</div>
 	</li>

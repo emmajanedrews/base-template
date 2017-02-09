@@ -1,32 +1,72 @@
 .footer
-  background: darken($theme, .2)
-  color: $theme-text
-  padding: 2rem
-  text-align: center
-  font-size: 18px
-  hr
-    border-top: 2px solid $brand
-  address
-    font-style: normal
+	background: darken($theme, .2)
+	color: $theme-text
+	padding: 2rem
+	text-align: left
+	font-size: 2rem
+	margin-bottom: 0
+	.footer-logo
+		width: 100%
+		max-width: 200px
+	hr
+		border-top: 2px solid $brand
+	address
+		font-style: normal
+		margin-top: 20px
+		margin-left: 20px
+.contact-info
+	a
+		color: $theme-text
+		margin: 0 20px
+		&:hover
+			border-bottom: 2px solid $brand
+.contact-info-small
+	a
+		color: $theme-text
+		// padding: 0 20px
+		&:hover
+			border-bottom: 2px solid $brand
+	address
+		margin-left: 0
+	.phone-footer
+		padding-left: 0
 @media(max-width: 500px)
-  .footer
-    text-align: center
-    // hr
-    //   display: none
-    .vyral-logo
-      @include size(3rem)
+	.footer
+		text-align: center
+		// hr
+		//   display: none
+		.vyral-logo
+			@include size(3rem)
 
 .attribution
-  text-align: center
-
+	background: darken($theme, 5%)
+	color: #fff
+	padding-top: 30px
+	width: 100%
+	p
+		font-size: 18px
+	// text-align: center
+.vyral-attr
+	text-align: right
 .vyral-logo
-  fill: $brand
-  display: inline
-  @include size(2rem)
-  position: relative
-  top: 0.5rem
-  margin-right: 0.1rem
-  &:hover
-    fill: $brand-light
+	fill: $brand
+	display: inline
+	@include size(2rem)
+	position: relative
+	top: 0.5rem
+	margin-right: 0.1rem
+	&:hover
+		fill: $brand-light
 .footer-pad
-  padding-top: 20px
+	padding-top: 20px
+@media (max-width: 767px)
+	.vyral-attr
+		text-align: center
+	.attribution
+		text-align: center
+		margin-bottom: 40px
+		padding-bottom: 20px
+	.footer-logo
+		margin: 0 auto
+	.contact-info-small
+		text-align: center

@@ -47,17 +47,17 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
-  instagram_url:
-  pinterest_url:
+  facebook_url: facebook.com
+  linkedin_url: linkedin.com
+  gplus_url: google.com
+  youtube_url: youtube.com
+  twitter_url: twitter.com
+  instagram_url: instagram.com
+  pinterest_url: pintrest.com
   zillow_url:
   trulia_url:
   yelp_url:
-  podcast_url:
+  podcast_url: podcast.com
 
 podcast:
   title:
@@ -71,15 +71,15 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
-  hero_text: Real Estate Video Blog
+  logo_width_number: 30
+  hero_text:
   hero_background_hex: '#fff'
   hero_image_path: /img/background.png
 
 site_colors:
   brand_color: '#1D5AA3'
   theme_color: '#535353'
-  theme_text_color: '#353535'
+  theme_text_color: '#fff'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
 
