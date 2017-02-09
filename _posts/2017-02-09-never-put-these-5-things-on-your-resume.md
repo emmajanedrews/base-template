@@ -16,6 +16,9 @@ youtube_code: PzdJIXRoFs8
 
 {% include youtube.html %}
 
+[Request a Consultation](http://govig.com/request-information/) - [Hire Us to Fill Your Job Openings](http://govig.com/contact/)
+{: style="text-align: center"}
+
 As you already know, there are a ton of resources available out there that show how to write a great resume. In turn, we're often asked what not to put on a resume. So today, we wanted to provide you with a list of the top five things you shouldn't put on your resume.
 
 You want to make sure your resume is a reflection of yourself. A lot of people put canned things on their resume to make them look good, but they're ultimately not comfortable with them.
