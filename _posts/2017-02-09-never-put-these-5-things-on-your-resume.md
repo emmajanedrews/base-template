@@ -17,17 +17,16 @@ youtube_code: PzdJIXRoFs8
 {% include youtube.html %}
 
 [Request a Consultation](http://govig.com/request-information/) - [Hire Us to Fill Your Job Openings](http://govig.com/contact/)
-{: style="text-align: center"}
 
 As you already know, there are a ton of resources available out there that show how to write a great resume. In turn, we're often asked what not to put on a resume. So today, we wanted to provide you with a list of the top five things you shouldn't put on your resume.
 
-You want to make sure your resume is a reflection of yourself. A lot of people put canned things on their resume to make them look good, but they're ultimately not comfortable with them.
+You want to make sure your resume is a reflection of yourself. A lot of people put canned things on their resume to make themselves look good, but they're ultimately not comfortable with them.
 
-**1. Do not put your picture on your resume.** There are a ton of social media sites where someone can look you up. It's still not appropriate to have on your resume and we don't like to see them on there.
+**1. Do not put your picture on your resume.** There are a ton of social media sites where someone can look you up. A picture is still not appropriate to have on your resume and we don't like to see them on there.
 
 **2. Keep the format simple.** Some people like to spruce up their resume by having different fonts, colors, or margins, but remember, people will often look at your resume on their phone or a number of different programs. Extra fonts and colors can not only be distracting, they can get jumbled up when being looked at on different devices or programs. Keep it simple with clean lines, right indentation, and one font that can be bolded or italicized in certain areas.
 
-**3. No paragraphs.** People in HR or recruiting look at a ton of resumes every day, so we want to make sure it's easy to read. Use bullet points, but make sure they have quantifiable achievements. Don't use the same bullet points for every role that you've had; they want to make sure that you have put some thought into it and listed exactly what you've done in that role even if the responsibilities were similar.
+**3. No paragraphs.** People in HR or recruiting look at a ton of resumes every day, so you want to make sure it's easy to read. Use bullet points, but make sure they have quantifiable achievements. Don't use the same bullet points for every role that you've had; they want to make sure that you have put some thought into it and listed exactly what you've done in that role even if the responsibilities were similar.
 
 {% include pullquote.html %}
 
@@ -36,4 +35,3 @@ You want to make sure your resume is a reflection of yourself. A lot of people p
 **5. Keep it to two pages.** Obviously, the more experience you have, the harder it is to do this. However, it's OK to use bullets for your last two to three positions and then just summarize the positions you've held before that, especially if it was more than 10 years ago. Once you get up to three, four, or even five pages, nobody will read it anyway. Remember that this is a marketing brochure; it's not going to tell the whole story. You want people to want to read it and be attracted to your resume.
 
 <br>I hope you found this information helpful if you're updating your resume or getting ready to send it out. If you have any questions at all, just give us a call or send us an email. We'd be happy to answer them for you!
-<br>
