@@ -24,7 +24,7 @@ The first big thing we are hearing from candidates is that they want to join a c
 
 {% include pullquote.html %}
 
-Another big thing to remember about hiring is that you want to focus the search on a specific person instead of a title. If you find an exceptional candidate, but you can’t offer them as much vacation as they are already getting, **I encourage you to try and find ways around the black and white HR handbook you adhere to.**It’s a small sacrifice to make in order to find the perfect fit for a role.
+Another big thing to remember about hiring is that you want to focus the search on a specific person instead of a title. If you find an exceptional candidate, but you can’t offer them as much vacation as they are already getting, **I encourage you to try and find ways around the black and white HR handbook you adhere to.&nbsp;**It’s a small sacrifice to make in order to find the perfect fit for a role.
 
 Finally, candidates are really concerned about who they are working for. There has got to be a good rapport there. Consider bringing the hiring authority in on the process from the beginning to get candidates excited about taking a position with you.
 
