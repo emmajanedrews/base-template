@@ -3,11 +3,11 @@ title: Portland Real Estate Video Blog with Trudy Coler
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
-  - title:
-    url:
+  - title: RMLS Market Action
+    url: 'http://www.rmlsweb.com/v2/public2/loadfile.asp?id=5879'
 client:
   name: Trudy Coler
-  license_number: 201213941<br>Licensed in Oregon
+  license_number:
   about_markdown: >
     My name is Trudy Coler and I am a full-time, full-service realtor serving the
     Portland, Or marketplace including the surrounding communities of Beaverton,
@@ -56,10 +56,10 @@ socials:
   zillow_url: 'http://www.zillow.com/profile/trudycoler/'
   trulia_url: 'https://www.trulia.com/profile/trudy-coler-agent-portland-or-zg00d30c'
   yelp_url:
-  podcast_url: https://itunes.apple.com/us/podcast/portland-real-estate-podcast/id1194687560?mt=2
+  podcast_url: 'https://itunes.apple.com/us/podcast/portland-real-estate-podcast/id1194687560?mt=2'
 podcast:
   title: Portland Real Estate Podcast with Trudy Coler
-  categories: News &amp; Politics
+  categories:
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
