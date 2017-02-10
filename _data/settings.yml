@@ -24,7 +24,7 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.coastalmississippihomesearch.com/homevalue
   second_CTA_text: Home Search
   second_CTA_URL: http://www.coastalmississippihomesearch.com/
   VR_form:
