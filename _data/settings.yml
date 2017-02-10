@@ -1,5 +1,5 @@
 audit_header: false
-title: DFW Cash Investor
+title: Yield Butler
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -7,26 +7,28 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Joel Broyles & Jim Mannering
   license_number:
   about_markdown: |
-    We provide win-win solutions to help homeowners get out of their sticky situations… like Foreclosure, owning a burdensome property, probate, or anything else.
+    Ever wondered who that company is that snaps up the best deals and the highest discounts on properties in the area before anyone else ever even hears about them? Well thats us. And we help investors like you put cash in your pocket by passing along the area's best deals on great properties so you can profit from them and put cash in your pocket.
     <br><br>
-    DFW Cash Investor is a real estate solutions company based out of Irving.  We’re a family owned business and focus on helping homeowners like you find solutions for your problem whether you’re going through a foreclosure, can’t sell your property, or just need to sell their house for all kinds of reasons.
+    We’re the best source for Dallas / Ft Worth real estate investors to find great discount and investment property in the Dallas / Ft Worth, TX 75062 area. We’re constantly picking up new properties and always have properties available.
+    <br><br>
+    If you’re a real estate investor and are looking for great rental properties that will cash flow or distressed properties to rehab and resell… have us find those properties for you. Just tell us what your buying criteria is, and we’ll custom search for properties for you that fit your criteria. The beauty of it is you never pay for our service… we make our money by adding on a small fee once you close on one of our properties.
   market:
-  brand: DFW Cash Investor
+  brand: Yield Butler
   brokerage:
   address:
-  phone: 972-734-8100
+  phone: 214-390-2700
   phone_type:
   phone2:
   phone2_type:
-  email: joel@dfwcashinvestor.com
-  url:
+  email: contact@yieldbutler.com
+  url: 
 
 CTAs:
-  first_CTA_text: Seller Bucket
-  first_CTA_URL: http://www.dfwcashinvestor.com/get-a-cash-offer-today
+  first_CTA_text: Access Investment Properties
+  first_CTA_URL: http://www.dfwfixnrent.com/investors/
   second_CTA_text:
   second_CTA_URL:
   VR_form:

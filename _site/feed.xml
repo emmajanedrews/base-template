@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DFW Cash Investor</title>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from DFW Cash Investor - your professional  Real Estate Agents.</description>
+    <title>Yield Butler</title>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Yield Butler - your professional  Real Estate Agents.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 02 Feb 2017 15:03:01 -0600</pubDate>
-    <lastBuildDate>Thu, 02 Feb 2017 15:03:01 -0600</lastBuildDate>
+    <pubDate>Fri, 10 Feb 2017 13:12:53 -0600</pubDate>
+    <lastBuildDate>Fri, 10 Feb 2017 13:12:53 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>

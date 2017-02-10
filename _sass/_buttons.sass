@@ -1,3 +1,7 @@
+.nav>li>a:focus, .nav>li>a:hover
+	background: $brand
+.navbar-left > li > a:focus, .navbar-left > li > a:hover
+	background: none
 .cta
 	background: $button-background
 	color: $button-text
@@ -8,8 +12,8 @@
 	border: 2px solid $button-border
 	@include transition(0.3s)
 	&:hover
-		background: transparent
-		color: $brand-light
+		background: $brand-light
+		color: $light-text
 		box-shadow: 4px 4px 0 $brand-light
 		border: 2px solid $button-border
 		@include transform(scale(1.05))
@@ -28,7 +32,7 @@
 	border: 2px solid $secondary-button-border
 	@include transition(0.3s)
 	&:hover
-		background: transparent
+		background: $brand-light
 		color: $button-text
 		box-shadow: 4px 4px 0 $brand-light
 		border: 2px solid $secondary-button-border
