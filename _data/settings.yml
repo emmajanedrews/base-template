@@ -25,9 +25,9 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.housetohomenash.com/cma/property-valuation/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.housetohomenash.com/search/advanced_search/
   VR_form:
 
 sidebar_CTA:
