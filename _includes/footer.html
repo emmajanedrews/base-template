@@ -46,10 +46,14 @@
 					{% endif %}
 	        </div>
 	        <div class="col-sm-3">
-	          <span itemprop="brand">{{site.data.settings.client.brand}}</span>
+						<a href="http://www.housetohomenash.com/" target="_blank">
+							<img src="/img/logo-white.png" style="max-width: 200px" alt="">
+						</a>
 	        </div>
 	        <div class="col-sm-3">
-	          <span itemprop="branchof">{{site.data.settings.client.brokerage}}</span>
+						<a href="http://www.housetohomenash.com/" target="_blank">
+							<img src="/img/BenchmarkLogo.png" style="max-width: 200px" alt="">
+						</a>
 	        </div>
 	        <div class="col-sm-3">
 	          <address itemprop="address">{{site.data.settings.client.address}}</address>
@@ -70,6 +74,13 @@
 	      <div class="col-sm-4"><a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a></div>
 	      <div class="col-sm-4"><a href="{{site.data.settings.client.url}}">{{site.data.settings.client.url | remove: "http://" | remove: "https://"}}</a></div>
 	    </div>
+			<div class="row">
+				<div class="col-sm-12">
+					<a href="#">
+
+					</a>
+				</div>
+			</div>
 	    <div class="row">
 	      <div class="twelve columns footer-socials">
 	        {% include socials.html %}
