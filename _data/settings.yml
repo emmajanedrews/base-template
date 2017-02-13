@@ -7,34 +7,34 @@ custom_links:
     url:
 
 client:
-  name:
-  license_number:
+  name: Jason Wilson
+  license_number: 333062
   about_markdown: |
 
   market:
-  brand:
-  brokerage:
-  address:
-  phone:
+  brand: Wilson Realty Group
+  brokerage: Keller Williams Realty Partners
+  address: '220 Heritage Walk #101<br>Woodstock, GA 30188'
+  phone: 678-389-3887
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: homes@WilsonKW.com
+  url: http://wilsonkw.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://wilsonteam.kwrealty.com/sell/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://wilsonteam.kwrealty.com/
   VR_form:
 
 sidebar_CTA:
-  CTA_image_path: /img/cta-images/004.jpg
+  CTA_image_path: /img/cta-images/001.jpg
   CTA_title: Looking to Buy a Home?
   CTA_text: Search the entire MLS for homes located in -- MARKET --.
   CTA_link_text: Home Search Tool
-  CTA_url: /homesearch/
+  CTA_url: http://wilsonteam.kwrealty.com/
 
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
@@ -71,14 +71,14 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 60
   hero_text: Real Estate Video Blog
-  hero_background_hex: '#094264'
+  hero_background_hex: '#353535'
   hero_image_path: /img/background.jpg
 
 site_colors:
-  brand_color: '#C14547'
-  theme_color: '#005473'
+  brand_color: '#b40101'
+  theme_color: '#353535'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -95,7 +95,7 @@ buttons:
   button_padding_height_number: 15
   button_border_color: '#ffffff'
   button_background_color: '#ffffff'
-  button_text_color: '#123456'
-  secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: 'rgba(0, 0, 0, 0)'
+  button_text_color: '#b40101'
+  secondary_button_border_color: '#b40101'
+  secondary_button_background_color: '#b40101'
   secondary_button_text_color: '#ffffff'
