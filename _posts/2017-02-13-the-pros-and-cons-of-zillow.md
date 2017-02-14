@@ -18,7 +18,7 @@ youtube_code: LMTNiMmhPvI
 
 Today I’m here to clear up what Zillow is and what Zillow isn’t. Zillow is by far the largest real estate search portal, and along with Trulia (who they recently acquired), accounts for over 60% of home search traffic. The other 40% is taken up by Realtor.com and the big brokerages.
 
-For buyers, Zillow is an awesome place to begin your home search. **There is a ton of good general info, market info and area info, and you can get a good sense of the market prices in your area as well as who the top agents are.** This is all good.
+For buyers, Zillow is an awesome place to begin your home search. **There is a ton of good general information, market information and area information, and you can get a good sense of the market prices in your area as well as who the top agents are.** This is all good.
 
 However, Zillow is not the place you should search for a home if you are less than six months out from buying. If you’re really serious about starting your property search, Zillow’s information isn’t the most accurate or up to date. **You will come across some great properties that you will come to find are either sold, expired, or under contract.** A site like ours updates in real time. By using a Realtor’s home search website, you will have a direct feed to the active listings on the market and won’t have to waste time looking at homes that are unavailable.
 
