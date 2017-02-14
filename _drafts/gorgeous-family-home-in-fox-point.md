@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gorgeous Family Home in Fox Point!'
+title: Gorgeous Family Home in Fox Point
 tags:
 excerpt:
 enclosure:
