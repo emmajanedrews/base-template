@@ -5,7 +5,7 @@ tags:
   - Home Seller Tips
 excerpt: 'Should you wait for spring to sell your home? The answer is no, and here’s why.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+Listing+in+the+Winter.mp4'
-pullquote: Home listed during the winter sell a week faster than those listed during the other seasons.
+pullquote: Homes listed during the winter sell a week faster than those listed during the other seasons.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -26,6 +26,6 @@ It’s true that there are less buyers in the winter, but that isn’t necessari
 
 {% include pullquote.html %}
 
-If you are looking to sell your home, I would definitely recommend selling in the winter. However, keep in mind that the winter market is a whole different ballgame. **For example, you really need to list your home as close to market value as possible**, because an overpriced home causes low buyer interest and strips away time for any price reductions.
+If you are looking to sell your home, I would definitely recommend selling in the winter. However, keep in mind that the winter market is a whole different ballgame. **For example, you really need to list your home as close to market value as possible**&nbsp;because an overpriced home causes low buyer interest and strips away time for any price reductions.
 
 If you would like to know the current value of your home, get advice on how to prepare your home for the winter market, or if you have any other real estate related questions, feel free to give me a call or send me an email. I would be happy to help!
