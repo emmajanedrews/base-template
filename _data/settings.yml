@@ -26,7 +26,7 @@ client:
 
 lender:
   show_section: true
-  header_text: Preferred Lender
+  header_text: Our Preferred Lender
   headshot_path: /img/lender.jpg
   logo_path:  /img/NaderGroup.jpg
   url: http://themattnadergroup.com
@@ -38,7 +38,6 @@ lender:
   brand: Bay Capital Mortgage
   phone: (240) 882-8006
   email: Matt@BayCapitalMortgage.com
-
 
 CTAs:
   first_CTA_text: Home Valuation
