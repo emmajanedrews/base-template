@@ -1,42 +1,43 @@
 audit_header: false
-title: Pacific Sotheby's International Realty
+title: "Pacific Sotheby's International Realty"
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
   - title:
     url:
-
 client:
   name: Casey Cooke
   license_number:
-  about_markdown: |
-    Casey Cooke is a top producing North San Diego County Realtor and before moving his team to Pacific Sotheby's International Real Estate in October 2016 was #1 selling agent at Coldwell Banker Vista Village for five years in a row. As an expert on real estate markets in Vista and the surrounding areas, Casey brings a wealth of knowledge and expertise when it comes to buying or selling your home.
+  about_markdown: >
+    Casey Cooke is a top producing North San Diego County Realtor and before
+    moving his team to Pacific Sotheby's International Real Estate in October
+    2016 was #1 selling agent at Coldwell Banker Vista Village for five years in
+    a row. As an expert on real estate markets in Vista and the surrounding
+    areas, Casey brings a wealth of knowledge and expertise when it comes to
+    buying or selling your home.
   market: North San Diego County
-  brand: Pacific Sotheby's International Realty
+  brand: "Pacific Sotheby's International Realty"
   brokerage:
-  address: 16710 Bernardo Center Drive,<br>San Diego, CA 92128 
+  address: '16710 Bernardo Center Drive,<br>San Diego, CA 92128'
   phone: 760-330-3616
   phone_type:
   phone2:
   phone2_type:
   email: ccooke411@gmail.com
-  url: http://www.ServingNorthCounty.com
-
+  url: 'http://www.ServingNorthCounty.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.caseycooke.boldleads.com/
+  first_CTA_URL: 'http://www.caseycooke.boldleads.com/'
   second_CTA_text: Home Search
-  second_CTA_URL: "http://www.servingnorthcounty.com/search.aspx#Page:2"
+  second_CTA_URL: 'http://www.servingnorthcounty.com/search.aspx#Page:2'
   phone_CTA: true
-  VR_form: http://oi.vresp.com?fid=a5ff5559a8
-
+  VR_form: 'http://oi.vresp.com?fid=a5ff5559a8'
 sidebar_CTA:
   CTA_image_path: /img/cta-images/004.jpg
   CTA_title: Looking to Buy a Home?
   CTA_text: Search the entire MLS for homes located in -- MARKET --.
   CTA_link_text: Home Search Tool
   CTA_url: /homesearch/
-
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
@@ -45,55 +46,49 @@ welcome_box:
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
-
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/VistaRealtor
-  linkedin_url: https://www.linkedin.com/in/caseycooke/
-  gplus_url: https://plus.google.com/u/0/102536509442671415913
-  youtube_url: https://www.youtube.com/user/ccooke411
-  twitter_url: https://twitter.com/ServingNCounty
+  facebook_url: 'https://www.facebook.com/PacificSIR/?pnref=lhc'
+  linkedin_url: 'https://www.linkedin.com/in/caseycooke/'
+  gplus_url: 'https://plus.google.com/u/0/102536509442671415913'
+  youtube_url: 'https://www.youtube.com/user/ccooke411'
+  twitter_url: 'https://twitter.com/ServingNCounty'
   instagram_url:
   pinterest_url:
-  zillow_url: http://www.zillow.com/profile/Casey-Cooke/
-  trulia_url: https://www.trulia.com/profile/casey-cooke-agent-san-diego-ca-zgdr6x5l/overview
-  yelp_url: https://www.yelp.com/biz/casey-cooke-coldwell-banker-residential-brokerage-vista-2
-  podcast_url: https://itunes.apple.com/us/podcast/pacific-sothebys-international/id1204977687?mt=2
-
+  zillow_url: 'http://www.zillow.com/profile/Casey-Cooke/'
+  trulia_url: 'https://www.trulia.com/profile/casey-cooke-agent-san-diego-ca-zgdr6x5l/overview'
+  yelp_url: 'https://www.yelp.com/biz/casey-cooke-coldwell-banker-residential-brokerage-vista-2'
+  podcast_url: 'https://itunes.apple.com/us/podcast/pacific-sothebys-international/id1204977687?mt=2'
 podcast:
-  title: Pacific Sotheby's International Realty Podcast
-  categories: News &amp; Categories
+  title: "Pacific Sotheby's International Realty Podcast"
+  categories:
   image: /img/podcast.png
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
   author: '-- CLIENT NAME --'
-
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path:
-  logo_width_number: 60rem
-  hero_text: Casey Cooke's<br>Real Estate Video Blog
+  logo_width_number:
+  hero_text: "Casey Cooke's<br>Real Estate Video Blog"
   hero_background_hex: '#094264'
   hero_image_path: /img/background.jpg
-
 site_colors:
-  brand_color: '#1D304F'
-  theme_color: '#14202E'
+  brand_color: '#1d304f'
+  theme_color: '#14202e'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: "#000"
-
+  shadow_color: '#000000'
 buttons:
-  button_radius_number: 0px
-  button_padding_width_number: 10px
-  button_padding_height_number: 15px
+  button_radius_number:
+  button_padding_width_number:
+  button_padding_height_number:
   button_border_color: '#ffffff'
   button_background_color: '#ffffff'
   button_text_color: '#123456'
