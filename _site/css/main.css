@@ -2392,31 +2392,29 @@ table tr, table td {
   max-width: 200px; }
 
 .about-container {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  padding: 0px 10px 40px;
-  font-size: 18px; }
+  font-size: 18px;
+  border: 1px solid #cfcfcf; }
   .about-container div {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex; }
+  .about-container h5 {
+    padding-left: 10px; }
+  .about-container hr {
+    margin-top: 0;
+    margin-bottom: 20px; }
 
 .about-text p {
   vertical-align: middle;
-  margin: auto 0; }
+  margin: auto 0;
+  padding: 10px; }
 
 .gray {
-  background: #ededed; }
-  .gray div div h4 {
-    text-align: center;
-    padding-top: 20px; }
+  background: #fff; }
 
 .contact-text {
-  margin: auto; }
+  margin: auto;
+  padding: 10px; }
 
 .footer {
   background: black;
