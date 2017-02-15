@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Marilyn Black's Testimonial"
+title: 'Marilyn Black Reviews the Colemere Team!'
 tags:
   - Testimonials
 excerpt: How We Helped Marilyn by Going Above and Beyond
