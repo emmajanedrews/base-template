@@ -86,7 +86,7 @@ header_shadow:
   shadow_spread: 7px
   shadow_color: '#000000'
 buttons:
-  button_radius_number:
+  button_radius_number: 0
   button_padding_width_number:
   button_padding_height_number:
   button_border_color: '#ffffff'
