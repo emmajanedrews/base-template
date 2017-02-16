@@ -7,34 +7,34 @@ custom_links:
     url:
 
 client:
-  name:
-  license_number:
+  name: Matt Madden
+  license_number: RM423427
   about_markdown: |
 
   market:
-  brand:
+  brand: Hooke, Hooke & Eckman Realtors, LLC
   brokerage:
-  address:
-  phone:
+  address: 977 Walnut Bottom Road<br>Carlisle, PA 17015
+  phone: 717-249-1844
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: matt@thinkhhe.com
+  url: http://www.thinkhhe.com
 
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
-  second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  first_CTA_text: Why become an agent with us?
+  first_CTA_URL: http://www.hhande.com/careers.php
+  second_CTA_text:
+  second_CTA_URL:
   VR_form:
 
 sidebar_CTA:
-  CTA_image_path: /img/cta-images/004.jpg
+  CTA_image_path: /img/cta-images/005.jpg
   CTA_title: Looking to Buy a Home?
   CTA_text: Search the entire MLS for homes located in -- MARKET --.
-  CTA_link_text: Home Search Tool
-  CTA_url: /homesearch/
+  CTA_link_text: Why become an agent with us?
+  CTA_url: http://www.hhande.com/careers.php
 
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
