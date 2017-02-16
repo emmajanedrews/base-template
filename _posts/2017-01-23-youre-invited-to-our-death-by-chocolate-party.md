@@ -25,6 +25,6 @@ We want you to come to our Death By Chocolate party on March 7th from 5 p.m. to 
 
 {% include pullquote.html %}
 
-This is a party we put on for all of our current and past clients as a way of saying thank you for all you’ve done for the Stern Team.
+This is a party we put on for all of our current and past clients as a way of saying thank you for all you’ve done for the Stern Team. If you are interested in attending, please click [here](https://www.facebook.com/events/1840913582852606/).
 
 If you have any questions about this party, feel free to reach out to us so we can fill you in on any details. We look forward to seeing you there!
