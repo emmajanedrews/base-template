@@ -7,20 +7,20 @@ custom_links:
     url:
 
 client:
-  name:
-  license_number:
+  name: Travis Chatwin
+  license_number: 'CA BRE #01331747'
   about_markdown: |
 
   market:
-  brand:
+  brand: Travis Chatwin Real Estate
   brokerage:
-  address:
-  phone:
+  address: 312 S Cedros<br>Solana Beach, California 92075
+  phone: (619) 752-4663
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Travis@aaronrothre.com
+  url: http://www.beachandsunhomes.com
 
 CTAs:
   first_CTA_text: Home Valuation
@@ -30,7 +30,7 @@ CTAs:
   VR_form:
 
 sidebar_CTA:
-  CTA_image_path: /img/cta-images/004.jpg
+  CTA_image_path: /img/cta-images/002.jpg
   CTA_title: Looking to Buy a Home?
   CTA_text: Search the entire MLS for homes located in -- MARKET --.
   CTA_link_text: Home Search Tool
@@ -47,16 +47,16 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/TravischatwinRealEstate/
+  linkedin_url: https://www.linkedin.com/in/beachandsunhomes/
+  gplus_url: https://plus.google.com/117224831269993752860
+  youtube_url: https://www.youtube.com/user/MRSANDIEGOREALTOR
+  twitter_url: https://twitter.com/aaronrothre
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
+  zillow_url: http://www.zillow.com/profile/1travischatwin/
+  trulia_url: https://www.trulia.com/profile/travis-chatwin-agent-solana-beach-ca-zg15b7yb/overview
+  yelp_url: https://www.yelp.com/biz/travis-chatwin-aaron-roth-real-estate-solana-beach-5
   podcast_url:
 
 podcast:
@@ -71,14 +71,14 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 60
   hero_text: Real Estate Video Blog
-  hero_background_hex: '#094264'
+  hero_background_hex: '#737373'
   hero_image_path: /img/background.jpg
 
 site_colors:
-  brand_color: '#C14547'
-  theme_color: '#005473'
+  brand_color: '#5267A2'
+  theme_color: '#737373'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -87,7 +87,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: "#000"
+  shadow_color: "transparent"
 
 buttons:
   button_radius_number: 0
@@ -95,7 +95,7 @@ buttons:
   button_padding_height_number: 15
   button_border_color: '#ffffff'
   button_background_color: '#ffffff'
-  button_text_color: '#123456'
+  button_text_color: '#737373'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'
