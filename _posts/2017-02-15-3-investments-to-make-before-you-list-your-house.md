@@ -15,11 +15,11 @@ youtube_code: q-KwqvSFcYw
 
 {% include youtube.html %}
 
-What are the three areas of your home that need to be in tip top shape before listing? It really comes down to the big surface areas.
+What are the three areas of your home that need to be in tip-top shape before listing? It really comes down to the big surface areas.
 
-That being said, the first thing you want to spend money on is **paint****.** By the time you are ready to sell your home, your walls will probably have accumulated some scratches. A clean coat of paint will make your property shine and you’ll see a great return on that investment.
+That being said, the first thing you want to spend money on is **paint****.** By the time you are ready to sell your home, your walls probably have accumulated some scratches. A clean coat of paint will make your property shine and you’ll see a great return on that investment.
 
-Next, you want to focus on your **floors.**If you have carpet and there are signs of wear and tear, replacing it is your best option. Otherwise, make sure to give me a thorough cleaning if the carpet is still in good shape. Hardwood flooring is a favorite among buyers, so if there is damage to the hardwood floors, it might wise to be to have them professionally buffed and refinished.
+Next, you want to focus on your **floors.&nbsp;**If you have carpet and there are signs of wear and tear, replacing it is your best option. Otherwise, make sure to give it a thorough cleaning if the carpet is still in good shape. Hardwood flooring is a favorite among buyers, so if there is damage to the hardwood floors, it might wise to be to have them professionally buffed and refinished.
 
 It is very important to buyers that a home is move-in ready and all the major surface areas are taken care of, so spending the extra money to make sure the hardwood floors are in great shape will pay off.
 
@@ -28,4 +28,3 @@ Finally, consider investing in some new **lighting fixtures.** If a room or spac
 {% include pullquote.html %}
 
 Investing in those three things will not only give your home a fantastic, fresh feeling, but will almost always guarantee a great return. If you or anyone you know is looking to buy, sell, or invest in real estate, please don’t hesitate to give me a call or send me an email. I would be happy to help!
-<br>
