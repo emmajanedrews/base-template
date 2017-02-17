@@ -1,58 +1,62 @@
 audit_header: false
-title: -- CLIENT BRAND --
+title: '-- CLIENT BRAND --'
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
   - title:
     url:
-
 client:
   name: Nick Kellar
   license_number:
-  about_markdown: |
-    Atlas Premier Realty of Bay Capital Mortgage Corp. is a fast growing, progressive Real Estate team pioneering evolution of our industry and kicking a dent in the Baltimore metro community and local real estate market.  Our approach is Family Helping Families be strategic in making decisions with clear direction while supporting with strong leadership, communication, expectations, and accountability.
-    <br><br>
-    We use progressive systems &amp; tactics, strategic thinking, and years of experience to help position our clients to have the right information so that they can ultimately make the right decisions.
+  about_markdown: >-
+    Atlas Premier Realty is a fast growing, progressive Real Estate team
+    pioneering evolution of our industry and kicking a dent in the Baltimore
+    metro community and local real estate market. Our approach is Family Helping
+    Families be strategic in making decisions with clear direction while
+    supporting with strong leadership, communication, expectations, and
+    accountability.
+
+    <br>
+
+    <br>We use progressive systems & tactics, strategic thinking, and years of
+    experience to help position our clients to have the right information so that
+    they can ultimately make the right decisions.
   market: Baltimore and Carroll Counties
   brand: Atlas Premier Realty
   brokerage:
-  address: 301 Main Street, 2C<br>Reisterstown, MD 21136
+  address: '301 Main Street, 2C<br>Reisterstown, MD 21136'
   phone: 443-508-8494
   phone_type:
   phone2:
   phone2_type:
   email: Nick@AtlasPremierRealty.com
-  url: http://www.atlaspremierrealty.com
-
+  url: 'http://www.atlaspremierrealty.com'
 lender:
   show_section: true
   header_text: Our Preferred Lender
   headshot_path: /img/lender.jpg
-  logo_path:  /img/NaderGroup.jpg
-  url: http://themattnadergroup.com
+  logo_path: /img/NaderGroup.jpg
+  url: 'http://themattnadergroup.com'
   logo_path_2: /img/baycapital.png
-  url_2: https://baycapitalmortgage.com
+  url_2: 'https://baycapitalmortgage.com'
   name: Matt Nader
-  title: Vice President of Bay Capital Mortgage<br>Senior Loan Officer
+  title: 'Vice President of Bay Capital Mortgage<br>Senior Loan Officer'
   license: 'NMLS# 333573'
   brand: Bay Capital Mortgage
   phone: (240) 882-8006
   email: Matt@BayCapitalMortgage.com
-
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.atlaspremierrealty.com/whats-my-home-worth/
+  first_CTA_URL: 'http://www.atlaspremierrealty.com/whats-my-home-worth/'
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.atlaspremierrealty.com/idx/search/
-  VR_form: http://oi.vresp.com?fid=b75e53759f
-
+  second_CTA_URL: 'http://www.atlaspremierrealty.com/idx/search/'
+  VR_form: 'http://oi.vresp.com?fid=b75e53759f'
 sidebar_CTA:
   CTA_image_path: /img/cta-images/001.jpg
   CTA_title: Looking to Buy a Home?
   CTA_text: Search the entire MLS for homes located in -- MARKET --.
   CTA_link_text: Home Search Tool
-  CTA_url: http://www.atlaspremierrealty.com/idx/search/
-
+  CTA_url: 'http://www.atlaspremierrealty.com/idx/search/'
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
@@ -61,58 +65,52 @@ welcome_box:
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
-
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/atlaspremierrealty/
-  linkedin_url: https://www.linkedin.com/in/nick-kellar-b3a33112
+  facebook_url: 'https://www.facebook.com/atlaspremierrealty/'
+  linkedin_url: 'https://www.linkedin.com/in/nick-kellar-b3a33112'
   gplus_url:
-  youtube_url: https://www.youtube.com/channel/UCtNQYKYMqRRtJVLwGppVZPA
-  twitter_url: https://twitter.com/theckteamnick
+  youtube_url: 'https://www.youtube.com/channel/UCtNQYKYMqRRtJVLwGppVZPA'
+  twitter_url: 'https://twitter.com/theckteamnick'
   instagram_url:
   pinterest_url:
-  zillow_url: http://www.zillow.com/profile/CKteam/
+  zillow_url: 'http://www.zillow.com/profile/CKteam/'
   trulia_url:
   yelp_url:
-  podcast_url: https://itunes.apple.com/us/podcast/campbell-kellar-team-real/id1173621484?mt=2
-
+  podcast_url: 'https://itunes.apple.com/us/podcast/campbell-kellar-team-real/id1173621484?mt=2'
 podcast:
   title: Atlas Premier Realty Real Estate Podcast
-  categories: News &amp; Politics
+  categories:
   image: /img/Kellar_podcast.png
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Baltimore &amp; Carroll Counties Area Real Estate Market'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Campbell &amp; Kellar Team - your professional Baltimore &amp; Carroll Counties Real Estate Agents.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Baltimore &amp; Carroll Counties, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
   author: Nick Kellar
-
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
   hero_text: Real Estate Video Blog
-  hero_background_hex: '#008AAC'
+  hero_background_hex: '#008aac'
   hero_image_path: /img/background.jpg
-
 site_colors:
-  brand_color: '#008AAC'
-  theme_color: '#000'
-  theme_text_color: '#fff'
+  brand_color: '#008aac'
+  theme_color: '#000000'
+  theme_text_color: '#ffffff'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: "#000"
-
+  shadow_color: '#000000'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
   button_background_color: '#ffffff'
-  button_text_color: '#008AAC'
+  button_text_color: '#008aac'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'
