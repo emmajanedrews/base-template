@@ -33,7 +33,7 @@ client:
   url: 'http://www.atlaspremierrealty.com'
 lender:
   show_section: true
-  header_text: Our Preferred Lender
+  header_text: Our Preferred Mortgage Resource
   headshot_path: /img/lender.jpg
   logo_path: /img/NaderGroup.jpg
   url: 'http://themattnadergroup.com'
