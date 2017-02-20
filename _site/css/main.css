@@ -1540,14 +1540,14 @@ label.tree-toggle {
 
 .hero-img {
   background-position: center;
-  background-size: contain;
+  background-size: cover;
   padding-top: 10rem; }
 
 #hero {
   background-position: center;
-  background-size: auto;
+  background-size: cover;
   background-attachment: fixed;
-  background-repeat: repeat;
+  background-repeat: no-repeat;
   text-align: center; }
 
 .site-logo {
