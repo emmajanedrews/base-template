@@ -4,7 +4,7 @@ title: We Are Excited to Offer New Services in 2017
 tags:
   - Real Estate
 excerpt: 'Our team has a few new services to offer you in 2017. I also want to invite you to our client appreciation event on February 25th!'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Wes+Peters/Baltimore+Metro+Real+Estate-+Our+team+has+made+a+few+changes+this+year.mp4'
 pullquote: 'We can help you make repairs, stage your home, and move!'
 enclosure_type: video/mp4
 enclosure_time:
