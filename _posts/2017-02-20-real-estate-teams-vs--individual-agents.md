@@ -24,11 +24,10 @@ While we always try to get better and improve, there are some areas of the busin
 
 {% include pullquote.html %}
 
-Basically, what I do is focus on negotiations. It’s an area that I love and that I’m very good at. I also focus on marketing because that’s what I studied in school.
+Basically, I focus on negotiations. It’s an area that I love and that I’m very good at. I also focus on marketing because that’s what I studied in school.
 
 In terms of finding homes or overseeing the documents that are part of a deal, I’m still a part of it to make sure that things are done correctly and comprehensively. However, we have specialists who oversee those aspects so that you are served at the highest level.
 
 **The other huge benefit is that hiring a real estate team costs the same.**Instead of paying for an individual agent who will do a great job at some parts of the transactions, you can pay eight specialists to handle your transaction for the price of one.
 
 If you have any other questions about real estate teams versus individual agents, just give us a call or send us an email. My team and I would be happy to help you!
-<br>
