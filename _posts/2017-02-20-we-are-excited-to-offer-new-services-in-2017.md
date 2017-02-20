@@ -26,6 +26,6 @@ First of all, we just purchased our first moving truck. We have a 14-foot box tr
 
 Finally, Rose Bennett, a very talented designer and home stager, has joined our team. Rose has an extensive background in staging model homes. She can certainly help get your listing ready. A lot of the time, people want to sell their homes but aren’t sure how to prepare their house for the market. Rose can help you figure out exactly where to invest in your home in order to make it more appealing to buyers.
 
-I also wanted to take a minute to **invite you to our client appreciation event**on February 25th at the Columbia AMC Theater. Join us to watch “The Lego Batman Movie” at 1:00 p.m.
+I also wanted to take a minute to **invite you to our client appreciation event**on February 25th at the Columbia AMC Theater. Join us to watch “The Lego Batman Movie” at 1 p.m.
 
 In the meantime, if you have any questions or if you are interested in using any of our new services, give us a call or send us an email. My team and I would be happy to help you!
