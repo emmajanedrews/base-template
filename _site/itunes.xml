@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Atlas Premier Realty Real Estate Podcast</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://baltimorerealestateupdate.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://baltimorerealestateupdate.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Campbell &amp; Kellar Team - your professional Baltimore &amp; Carroll Counties Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Nick Kellar</managingEditor>
-    <lastBuildDate>2017-02-15 10:16:16 -0600</lastBuildDate>
+    <lastBuildDate>2017-02-21 12:15:22 -0600</lastBuildDate>
     <media:copyright>Nick Kellar</media:copyright>
-    <media:thumbnail url="localhost:4000/img/Kellar_podcast.png"/>
+    <media:thumbnail url="http://baltimorerealestateupdate.com/img/Kellar_podcast.png"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Baltimore &amp; Carroll Counties, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
@@ -18,7 +18,7 @@
     </itunes:owner>
     <itunes:author>Nick Kellar</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/Kellar_podcast.png"/>
+    <itunes:image href="http://baltimorerealestateupdate.com/img/Kellar_podcast.png"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Baltimore &amp; Carroll Counties, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Baltimore &amp; Carroll Counties Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Campbell &amp; Kellar Team - your professional Baltimore &amp; Carroll Counties Real Estate Agents.</itunes:summary>
@@ -26,7 +26,7 @@
     
       <item>
         <title>What Are Some Unexpected Costs When Buying a Home?</title>
-        <link>localhost:4000/what-are-some-unexpected-costs-when-buying-a-home.html</link>
+        <link>http://baltimorerealestateupdate.com/what-are-some-unexpected-costs-when-buying-a-home.html</link>
         
           <category>Buyer Tips</category>
         
@@ -60,7 +60,7 @@ One way to offset that is to make sure you are taking good care of your home. Yo
 If you have any questions, feel free to give me a call or send me an email. I would be happy to help! 
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+Kellar/CarrollCounty+Real+Estate+Unexpected+Costs.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://baltimorerealestateupdate.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+Kellar/CarrollCounty+Real+Estate+Unexpected+Costs.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>There is more to purchasing a home than the sticker price. Here are some costs to look out for when buying a home.</itunes:subtitle>
@@ -71,7 +71,7 @@ If you have any questions, feel free to give me a call or send me an email. I wo
       
       <item>
         <title>What’s Happening in the Baltimore & Carroll County Markets?</title>
-        <link>localhost:4000/whats-happening-in-the-baltimore-carroll-county-markets.html</link>
+        <link>http://baltimorerealestateupdate.com/whats-happening-in-the-baltimore-carroll-county-markets.html</link>
         
           <category>Market Update</category>
         
@@ -101,7 +101,7 @@ If you are selling your home, keep in mind that as more and more buyers are affe
 That said, it’s still a great time to buy and sell. Ultimately, the decision to enter the real estate market revolves around your own goals and needs. If you have any other questions about our current market, just give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+Kellar/Email+Assets/CarrollCounty+Real+Estate+What%E2%80%99s+happening+in+our+market.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://baltimorerealestateupdate.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+Kellar/Email+Assets/CarrollCounty+Real+Estate+What%E2%80%99s+happening+in+our+market.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>How is our real estate market performing? Are we in a buyer’s or seller’s market? I’ll tell you everything you need to know today.</itunes:subtitle>
@@ -112,7 +112,7 @@ That said, it’s still a great time to buy and sell. Ultimately, the decision t
       
       <item>
         <title>Why You Can’t Trust Zillow’s Zestimate Feature</title>
-        <link>localhost:4000/why-you-cant-trust-zillows-zestimate-feature.html</link>
+        <link>http://baltimorerealestateupdate.com/why-you-cant-trust-zillows-zestimate-feature.html</link>
         
           <category>Buyer Tips</category>
         
@@ -140,7 +140,7 @@ Recently, we had two cases of Zestimates that were higher than what we sold the 
 If you have any other questions about home values or you have a real estate topic you’d like to learn more about, don’t hesitate to reach out. We’d be glad to help.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+Kellar/CarrollCounty+Real+Estate+Zestimates.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://baltimorerealestateupdate.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+Kellar/CarrollCounty+Real+Estate+Zestimates.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>If you're selling a home, how much can you rely on Zillow's Zestimates for home value? Not much. I'll explain exactly why today.</itunes:subtitle>
@@ -151,7 +151,7 @@ If you have any other questions about home values or you have a real estate topi
       
       <item>
         <title>Avoid These 7 Home Improvements</title>
-        <link>localhost:4000/avoid-these-7-home-improvements.html</link>
+        <link>http://baltimorerealestateupdate.com/avoid-these-7-home-improvements.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -191,7 +191,7 @@ A lot of the time when people ask me about home renovations, they want to know w
 These are just a few renovations that you may want to avoid if you are trying to add value to your home. If you have any other questions about home improvements or preparing your home for the market, give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+Kellar/CarrollCounty+Real+Estate+7+Home+Improvements+to+Avoid.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://baltimorerealestateupdate.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+Kellar/CarrollCounty+Real+Estate+7+Home+Improvements+to+Avoid.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Some home improvements add more value to your property than others. Today, I’ll go over the top seven home renovations you should avoid.</itunes:subtitle>
@@ -202,7 +202,7 @@ These are just a few renovations that you may want to avoid if you are trying to
       
       <item>
         <title>What’s Happening in the Baltimore & Carroll County Real Estate Markets?</title>
-        <link>localhost:4000/whats-happening-in-the-baltimore-carroll-county-real-estate-markets.html</link>
+        <link>http://baltimorerealestateupdate.com/whats-happening-in-the-baltimore-carroll-county-real-estate-markets.html</link>
         
           <category>Market Update</category>
         
@@ -228,7 +228,7 @@ What does all this mean for buyers and sellers? It depends on your particular si
 If you have any more questions about the current market, please don’t hesitate to reach out to us. Just give us a call or send us an email, and we’d be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+Kellar/The+CK+Team+Market+Update.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://baltimorerealestateupdate.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+Kellar/The+CK+Team+Market+Update.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>We will update this channel regularly with great seller tips, buyer tips, and real estate market updates for our area.</itunes:subtitle>
@@ -239,7 +239,7 @@ If you have any more questions about the current market, please don’t hesitate
       
       <item>
         <title>Introducing the Campbell &amp; Kellar Team YouTube Channel</title>
-        <link>localhost:4000/introducing-the-campbell-kellar-team-youtube-channel.html</link>
+        <link>http://baltimorerealestateupdate.com/introducing-the-campbell-kellar-team-youtube-channel.html</link>
         
         <author>Nick Kellar</author>
         <pubDate>2016-10-20 00:00:00 -0500</pubDate>
@@ -249,7 +249,7 @@ If you have any more questions about the current market, please don’t hesitate
 Welcome to the new YouTube channel for the Campbell &amp; Kellar Team! We will update this channel regularly with great seller tips, buyer tips, and real estate market updates for our area. Take a look around, discover topics that interest you, and if there are topics that you’d like to learn more about, reach out to us and we just might answer your question with a video. To learn more about our new channel, watch this short video. 
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+Kellar/The+CK+Team+YouTube+Intro.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://baltimorerealestateupdate.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+Kellar/The+CK+Team+YouTube+Intro.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>We will update this channel regularly with great seller tips, buyer tips, and real estate market updates for our area.</itunes:subtitle>
