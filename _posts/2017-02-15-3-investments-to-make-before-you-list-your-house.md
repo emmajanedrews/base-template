@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 Investments to Make Before You List Your House
+title: Which Home Improvements Give You the Best Return?
 tags:
 excerpt: Making these three investments will make your home shine on the market and almost always offer a great return.
 enclosure: 'http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/3%20Investments%20to%20Make%20Before%20You%20List%20Your%20House.mp4'
