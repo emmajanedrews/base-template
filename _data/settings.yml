@@ -7,34 +7,34 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Ron Sawyer
   license_number:
   about_markdown: |
 
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+  market: Chesapeake
+  brand: The Ron Sawyer Real Estate Team
+  brokerage: RE/MAX Prime
+  address: 501 Baylor Court suite 100<br>Chesapeake, Va. 23320
+  phone: 757-447-2877
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Ron@MoveWithPrime.com
+  url: http://www.hamptonroadshomefinder.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.hamptonroadshomefinder.com/sell/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.hamptonroadshomefinder.com/map/
   VR_form:
 
 sidebar_CTA:
-  CTA_image_path: /img/cta-images/004.jpg
+  CTA_image_path: /img/cta-images/005.jpg
   CTA_title: Looking to Buy a Home?
   CTA_text: Search the entire MLS for homes located in -- MARKET --.
   CTA_link_text: Home Search Tool
-  CTA_url: /homesearch/
+  CTA_url: http://www.hamptonroadshomefinder.com/map/
 
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
@@ -47,22 +47,22 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/theronsawyerteam
+  linkedin_url: https://www.linkedin.com/in/ron-sawyer-802a2226
+  gplus_url: https://plus.google.com/108802226377517726871/about
+  youtube_url: https://www.youtube.com/channel/UC7gncWYdlG5O
+  twitter_url: https://twitter.com/the_ron_sawyer_team
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
+  zillow_url: https://www.zillow.com/profile/The-Ron-Sawyer-Team/
+  trulia_url: https://www.trulia.com/profile/the-ron-sawyer-team-agent-chesapeake-va-zg7mqf1r/overview
+  yelp_url: https://www.yelp.com/biz/the-ron-sawyer-team-chesapeake
   podcast_url:
 
 podcast:
-  title:
-  categories:
-  image:
+  title: The Ron Sawyer Team Real Estate Podcast
+  categories: News &amp; Politics
+  image: /img/podcast.png
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
@@ -71,7 +71,7 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 50
   hero_text: Real Estate Video Blog
   hero_background_hex: '#094264'
   hero_image_path: /img/background.jpg
@@ -87,7 +87,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: "#000"
+  shadow_color: "transparent"
 
 buttons:
   button_radius_number: 0
