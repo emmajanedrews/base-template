@@ -78,7 +78,7 @@ images:
   logo_width_number: 60rem
   hero_text:
   hero_background_hex: '#fff'
-  hero_image_path: /img/background.png
+  hero_image_path: /img/background.jpg
 
 site_colors:
   brand_color: '#283891'
@@ -91,7 +91,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: "#fff"
+  shadow_color: "transparent"
 
 buttons:
   button_radius_number: 0px
