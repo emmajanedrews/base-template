@@ -79,9 +79,9 @@ header_shadow:
   shadow_spread: 0px
   shadow_color: 'rgba(255, 255, 255, 0.1)'
 buttons:
-  button_radius_number:
-  button_padding_width_number:
-  button_padding_height_number:
+  button_radius_number: 0
+  button_padding_width_number: 15
+  button_padding_height_number: 15
   button_border_color: '#ffffff'
   button_background_color: '#ffffff'
   button_text_color: '#091639'
