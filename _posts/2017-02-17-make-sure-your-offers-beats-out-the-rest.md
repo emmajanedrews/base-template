@@ -4,18 +4,17 @@ title: Make Sure Your Offers Beats Out the Rest
 tags:
   - Buyer Tips
 excerpt: 'Being a buyer in today’s market can get pretty competitive, which is why we want to share some tips on how to win a multiple offer situation.'
-enclosure:
+enclosure: 'http://vyralmarketing.s3.amazonaws.com/Eric%20Vallee/How%20to%20Ensure%20Your%20Offer%20Beats%20the%20Rest.mp4'
 pullquote: Make your offer as personal as possible to ensure it stands out.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/valle-2-22-yt.jpg
 youtube_code: aX5loDQJjMQ
 ---
 
 
 {% include youtube.html %}
-
 
 You’ve found your dream home and written an offer only to find that your offer isn’t the only one on the table. How can you ensure you end up in your dream home? There are actually three steps that can help your offer beat out the rest.
 
