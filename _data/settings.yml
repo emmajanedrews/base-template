@@ -10,11 +10,11 @@ client:
   name: Scott Hollinger
   license_number:
   about_markdown: |
-    Scott was raised in Montana in a real estate family with a lake cabin.  Now, repeating history, Scott and his wife enjoy their lake home and explore the area with their two sons. For over 30 years he has been welcoming people to Montana, mapping out their dreams, and bringing those dreams to reality. In the community Scott has been in many activities from soccer coaching kids to 4H.  Presently he is the chair for the Flathead County Board of Adjustments and supports many of the needs and activities for the First Descents cancer camps held here in The Flathead Valley.
+    Thinking about buying in Montana? Love the water? We know how you feel! Diana, Kellie, Dane, Drew and I have over 85 years of experience in Montana real estate, specializing in waterfront properties. Let’s see what we can find for you. The five most important words in Montana real estate? Scott. Diana. Kellie. Dane. Drew. Five individuals partnering with you to make an unbeatable team. Put us to work for you, so we can start calling you a neighbor, a friend, as well as a client. Until we get the chance to meet in person, [we’d like to introduce ourselves.](https://www.flatheadrealestate.com/montana-remax-team/)
   market: Bigfork
   brand: Hollinger Team
   brokerage:
-  address: 8545 MT Highway 35 (Street) or PO Box 725<br>Bigfork, MT 59911
+  address: 8545 MT Highway 35 or PO Box 725<br>Bigfork, MT 59911
   phone: 406-837-5531
   phone_type:
   phone2:
@@ -33,17 +33,13 @@ sidebar_CTA:
   CTA_image_path: /img/cta-images/004.jpg
   CTA_title: Looking to Buy a Home?
   CTA_text: Search the entire MLS for homes located in -- MARKET --.
-  CTA_link_text: Home Search Tool
+  CTA_link_text: Search MLS
   CTA_url: https://www.flatheadrealestate.com/montana-real-estate-search/results/?adv=yep&classRes=1&waterfronthomes=1&minPrice=&maxPrice=&bedrooms=&bathrooms=&sqrft_min=&sqrft_max=&land_min=&land_max=&dom=&mlsID=
 
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
-    professionals can answer any questions you might have about real estate.
-    Subscribe to this blog to get the latest news on local market trends and
-    receive expert tips for buying or selling a home.
+    Wording at the top: Our mission at Hollinger Team is to be your best resource for real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. We invite you to subscribe to this video blog to get the latest news on Flathead Valley market trends and receive expert tips for selling, buying or owning your dream property.
 
 socials:
   review_sm_icons: false
@@ -73,7 +69,7 @@ images:
   hero_logo_path: /img/logo.png
   logo_width_number: 80
   hero_text: Real Estate Video Blog
-  hero_background_hex: '#094264'
+  hero_background_hex: '#ebebe3'
   hero_image_path: /img/background.jpg
 
 site_colors:
@@ -95,7 +91,7 @@ buttons:
   button_padding_height_number: 15
   button_border_color: '#ffffff'
   button_background_color: '#ffffff'
-  button_text_color: '#123456'
+  button_text_color: '#5C141F'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'

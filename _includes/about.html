@@ -2,7 +2,7 @@
 		<div class="row">
 			<div class="col-lg-10 col-lg-offset-1">
 
-				<h4>About {{site.data.settings.client.name}}</h4>
+				<h4>About The {{site.data.settings.client.brand}}</h4>
 			</div>
 		</div>
 	<div class="row">
@@ -26,7 +26,7 @@
 				{% if site.data.settings.client.brokerage != null %}
 				{{ site.data.settings.client.brokerage }}<br />
 				{% endif %}
-				{{ site.data.settings.client.address }}<br />
+				<!-- {{ site.data.settings.client.address }}<br /> -->
 				{% if site.data.settings.client.phone2 != null %}
 				{{ site.data.settings.client.phone_type }}: {{ site.data.settings.client.phone }}<br />
 				{{ site.data.settings.client.phone2_type }}: {{ site.data.settings.client.phone2 }}<br />
