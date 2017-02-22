@@ -19,13 +19,13 @@ excerpt: 'Contingencies are pretty common in the real estate world. Sometimes bu
 
 When selling a home, you might find yourself getting an offer with a contingency. Today I’ll go over what a contingency is and how to sell your home with one attached to an offer.
 
-A contingency is when a buyer wants to buy your house, but they need to sell their’s first in order to do so. As a seller, there are a couple of things you need to look out for.
+**A contingency is when a buyer wants to buy your house, but they need to sell their home first in order to do so.** As a seller, there are a couple of things you need to look out for.
 
-If your home has been on the market for a while, an offer with a contingency could be a good option for you. However, you need to make sure you have a timeline on the contingency so it doesn’t turn out to be a long, drawn out process.
+**If your home has been on the market for a while, an offer with a contingency could be a good option for you.**However, you need to make sure you have a timeline on the contingency so it doesn’t turn out to be a long, drawn-out process.
 
 {% include pullquote.html %}
 
-You can also add something called a “kick out” clause. That clause would allow you to keep your home active, and the original purchaser with the contingency would have a certain amount of time to decide if they want to go through with the sale before you could accept another offer. If the buyer backs out, you would give them back their earnest money and proceed with the new buyer.
+**You can also add something called a “kick out” clause.** That clause would allow you to keep your home active, and the original purchaser with the contingency would have a certain amount of time to decide if they want to go through with the sale before you could accept another offer. If the buyer backs out, you would give them back their earnest money and proceed with the new buyer.
 
 A contingency can benefit both the buyer and seller as long as you have a knowledgeable agent in place who is keeping everyone informed as to what is going on throughout the process.
 
