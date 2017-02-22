@@ -4,12 +4,12 @@ title: How to Avoid Paying the Capital Gains Tax
 tags:
   - Home Seller Tips
 excerpt: 'Now that you know a little about the capital gains tax, I’d like to discuss how to avoid paying up the capital gains tax, especially if your grandparents or parents need money for assisted living.'
-enclosure:
+enclosure: 'http://vyralmarketing.s3.amazonaws.com/Dave%20Knight/How%20to%20Avoid%20Paying%20the%20Capital%20Gains%20Tax.mp4'
 pullquote: The step up in value can help you avoid paying capital gains tax.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/no-pb.jpg
 youtube_code: MozwWSkUaXE
 ---
 
