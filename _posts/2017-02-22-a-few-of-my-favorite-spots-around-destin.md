@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: uieM18rZdHY
+youtube_code: XHtuMiVGNd4
 ---
 
 
@@ -18,9 +18,9 @@ youtube_code: uieM18rZdHY
 
 I’m here today to talk to you about some of my favorite places in the area that you may not know about. We're visiting two of them today, and I’m excited to talk about them.
 
-**First up is Lulu’s, a restaurant in Destin right by the Mid-bay Bridge.** They have a big outdoor beach, lots of great seating, and all kinds of activities and events for kids. It has beautiful views of the ocean with both outdoor and indoor seating.
+**First up is****[Lulu’s](http://www.lulubuffett.com/destin/)****, a restaurant in Destin right by the Mid-Bay Bridge.** They have a big outdoor beach, lots of great seating, and all kinds of activities and events for kids. It has beautiful views of the ocean with both outdoor and indoor seating.
 
-Next, we’re headed to Pedego Bikes, one of my favorite spots. They rent and sell electric bikes here, and I actually bought one for Christmas. It’s been a ton of fun for me and my family. It lets us explore 30A without having to pedal up any steep hills.
+Next, we’re headed to **[Pedego Bikes](https://www.pedegoelectricbikes.com/dealers/santa-rosa-beach/)**, one of my favorite spots. They rent and sell electric bikes here, and I actually bought one for Christmas. It’s been a ton of fun for me and my family. It lets us explore 30A without having to pedal up any steep hills.
 
 {% include pullquote.html %}
 
