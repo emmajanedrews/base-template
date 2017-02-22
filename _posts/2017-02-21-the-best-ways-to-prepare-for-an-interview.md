@@ -18,7 +18,7 @@ youtube_code: roD0RBVsDwo
 
 How do you effectively interview? How can you prepare for an interview?
 
-Whether you are a 2-year or 15-year veteran, most people are not good at interviewing for two reasons. First of all, socially, we are not really allowed to talk highly about ourselves or brag about ourselves, so we’re very bad at it.
+Whether you are a two-year or 15-year veteran, most people are not good at interviewing for two reasons. First of all, socially, we are not really allowed to talk highly about ourselves or brag about ourselves, so we’re very bad at it.
 
 Secondly, most people don’t prepare properly for an interview, which is really kind of silly. If you were going to present to a group of executives, you would prepare. You would practice and know exactly what you’re going to say.
 
