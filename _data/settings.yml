@@ -4,11 +4,11 @@ description: 'If you are looking to buy or sell a home, get all the information 
 show_custom_links: true
 custom_links:
   - title: Featured Listings
-    url: http://www.greaterrosevillehomes.com/featured
+    url: http://www.besthomesandestates.com/Rocklin/
   - title: Affiliates
     url: http://www.davesopenhouseclub.com/affiliates
   - title: About
-    url: http://www.greaterrosevillehomes.com/about
+    url: http://www.besthomesandestates.com/about/
 
 client:
   name: Dave Silva
@@ -19,7 +19,7 @@ client:
     The Dave Silva Realty Team was built on the premise of providing clients with unrivaled attention to transaction detail. The Team is always willing to find a solution to any problem that may come up during escrow, and they have not had a escrow not complete.
   market:
   brand: Dave Silva Realty Team
-  brokerage: REMAX
+  brokerage: RE/MAX GOLD
   address: 6839 Five Star Blvd, Ste B<br>Rocklin, CA 95677
   phone: 916-660-5007
   phone_type:
@@ -30,9 +30,9 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.greaterrosevillehomes.com/homevalue
+  first_CTA_URL: http://www.besthomesandestates.com/cma/property-valuation/
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.greaterrosevillehomes.com/
+  second_CTA_URL: http://www.besthomesandestates.com/buying/
   VR_form: http://oi.vresp.com?fid=972811d3c6
 
 sidebar_CTA:
@@ -40,7 +40,7 @@ sidebar_CTA:
   CTA_title: Looking to Buy a Home?
   CTA_text: Search the entire MLS for homes located in -- MARKET --.
   CTA_link_text: Home Search Tool
-  CTA_url: http://www.greaterrosevillehomes.com/
+  CTA_url: http://www.besthomesandestates.com/buying/
 
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
