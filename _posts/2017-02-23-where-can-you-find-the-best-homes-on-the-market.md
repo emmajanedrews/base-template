@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Where Can You FInd the Best Homes on the Market?
+title: Where Can You Find the Best Homes on the Market?
 tags:
   - Buyer Tips
 excerpt: We have a hot list for first-time homebuyers that features all the best new properties in all the most desirable locations. Here’s where you can find it.
