@@ -18,7 +18,7 @@ client:
   phone2:
   phone2_type:
   email: Bryan@BDGRealEstate.com
-  url: 'http://www.coastalmississippihomesearch.com/'
+  url: 'http://www.coastalmississippihomesearch.com'
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://www.coastalmississippihomesearch.com/homevalue'
