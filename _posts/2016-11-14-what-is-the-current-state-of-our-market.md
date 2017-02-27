@@ -8,13 +8,13 @@ enclosure: 'https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Es
 pullquote: Interest rates are an important factor.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image:
 youtube_code: 9MNlLFJ0G1c
 ---
 
 
-{% include youtube.html %}
+{% include youtu.be.html %}
 
 We’ve been getting a lot of questions about the market lately. One of the most common has been, “Are we in a buyer’s market or a seller’s market?”
 
