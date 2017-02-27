@@ -15,7 +15,7 @@ youtube_code: D3Hbf17FlOE
 
 {% include youtube.html %}
 
-*Can you trust Zillow’s Zestimates to provide an accurate value for your home? The answer is no, and there are a few reasons why.&nbsp;*
+*Can you trust Zillow’s Zestimates to provide an accurate value for your home? The answer is no, and there are a few reasons why. &nbsp;*
 
 When you go to Zillow, you are able to get something called a Zestimate, which gives you the value of your home. Can you trust those Zestimates?&nbsp;
 
