@@ -8,7 +8,7 @@ enclosure: 'https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Es
 pullquote: Interest rates are an important factor.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image:
 youtube_code: 9MNlLFJ0G1c
 ---
