@@ -14,9 +14,11 @@ youtube_code: zDqB6O8ICyc
 ---
 
 
+*The supply of homes coming onto the Wasatch Front market has dwindled lately. Where has this left homebuyers and sellers?*
+
 {% include youtube.html %}
 
-What’s been happening last 60 days across the Wasatch Front market?
+What’s been happening the last 60 days across the Wasatch Front market?
 
 **Single-family homes are entering market much more slowly than buyers would like.** Only 1,532 have been listed since January 1st. Compare that to the nearly 25,000 homes that sold in 2016 and you can understand their frustration.
 
@@ -24,7 +26,7 @@ Pair that with the fact that 2,204 homes have moved into pending status (meaning
 
 Moving into the condo and townhome market, we see a similar pattern in that we have an undersupply of inventory. There are 557 condos and townhomes currently for sale, with 752 in a pending status. 750 condos and townhomes have sold since the beginning of the year.
 
-All markets are driven by supply and demand. In real estate, it’s considered a level market when there is a four- to six-month supply of homes available. We currently have about **1.5-month supply of single-family homes.** This favors the seller considerably. We also have about **1.75-month supply of townhomes and condos.** This too favors sellers.
+All markets are driven by supply and demand. In real estate, it’s considered a level market when there is a four- to six-month supply of homes available. We currently have about a&nbsp;**1.5-month supply of single-family homes.** This favors the seller considerably. We also have about **1.75-month supply of townhomes and condos.** This too favors sellers.
 
 {% include pullquote.html %}
 
