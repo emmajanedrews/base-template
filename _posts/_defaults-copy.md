@@ -1,19 +1,19 @@
 ---
 layout: post
-title: Here’s Why Glenn Beck Endorses Our Team
+title: Is Our Late Winter Market Favoring Buyers or Sellers?
 tags:
   - Market Update
   - Real Estate
   - Home Buyer Tips
   - Home Seller Tips
-excerpt: 'We are thrilled to share some exciting news with you today. We have recently been endorsed by Glenn Beck. He had some great words to say about our team, and we’re very proud of that. We are also proud of our guaranteed sale program, which Glenn explains in detail in his endorsement. To hear what Glenn Beck has to say about our team, watch this short video.'
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/Salt+Lake+County+Real+Estate+Agent-+Heres+Why+Glenn+Beck+Endorses+Our+Team.mp4'
-pullquote: We are proud of our guaranteed sale program.
+excerpt: 'How’s the Wasatch Front real estate market been doing these last two months? Single-family homes are entering market much more slowly than homebuyers would prefer. There are a lot more homes going off the market than coming onto it. Inventory is low for single-family homes, condos, and townhomes. To learn more about the state of our market and what you should do as a buyer or seller to take advantage of these conditions, watch my latest video.'
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/February/Salt+Lake+County+Real+Estate+Agent-+Is+Our+Late+Winter+Market+Favoring+Buyers+or+Sellers%253F.mp4'
+pullquote: Our market favors sellers right now.
 enclosure_type: video/mp4
-enclosure_time: '10:39 am'
+enclosure_time: '10:15 am'
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: kodSwXkDcxE
+youtube_code: zDqB6O8ICyc
 ---
 
 
