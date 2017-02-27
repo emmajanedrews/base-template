@@ -3,7 +3,7 @@ layout: post
 title: Announcing the Launch of My New Video Blog
 tags:
   - Real Estate
-excerpt: 'Today I’m excited to announce that I’ll be sharing my real estate expertise with you through the launch of my new video blog. Each month I will send out two videos addressing specific topics in our real estate world. These are intended to help you take full advantage of the real estate market. I’ll also address changes in the lending and title world and provide tips on how to navigate through them. To learn more about what you can expect from my new video blog, watch this video.'
+excerpt: Today I’m launching my new video blog dedicated to sharing my real estate expertise with you. Here’s what else you can expect.
 enclosure:
 pullquote: What are you curious about when it comes to real estate?
 enclosure_type:
