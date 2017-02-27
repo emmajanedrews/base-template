@@ -20,7 +20,7 @@ Today I wanted to take a minute to talk about transaction timelines, also known 
 
 {% include pullquote.html %}
 
-**After your offer on a home has been accepted, you have about a 24-hour honeymoon period, and then the clock starts ticking on the timelines.** Whether you're buying or selling a home, you need to know that there are three basic contingency periods: the seller disclosure period, the inspection period, and the financing period.
+**After your offer on a home has been accepted, you have a 24-hour honeymoon period, and then the clock starts ticking on the timelines.** Whether you're buying or selling a home, you need to know that there are three basic contingency periods: the seller disclosure period, the inspection period, and the financing period.
 
 The seller disclosure period starts five days after mutual acceptance and gives the buyer the chance to review the seller disclosures and terminate the contract if they don't like what they see or they just get cold feet. The buyer can terminate the contract and get their earnest money back.
 
