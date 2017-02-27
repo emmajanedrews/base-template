@@ -16,9 +16,9 @@ client:
   brokerage: Keller Williams Realty Partners
   address: '220 Heritage Walk #101<br>Woodstock, GA 30188'
   phone: 678-389-3887
-  phone_type:
-  phone2:
-  phone2_type:
+  phone_type: Direct
+  phone2: 678-494-0644
+  phone2_type: Office
   email: homes@WilsonKW.com
   url: http://wilsonkw.com
 
