@@ -24,7 +24,7 @@ Right now, we’re in a seller’s market. To give you a bit of background on ho
 A buyer’s market is considered anything over a seven-month supply. A neutral market is a five- to six-month supply. Anything under a five-month supply is considered a seller’s market. As we speak, in San Diego County, we have a two-month supply of homes, hence our position as a seller’s market.
 
 Interest rates pose a more interesting development. In the wake of the presidential election, we saw them shoot up over the last few weeks. They improved a little bit in the last couple days, but most experts predict that they’ll continue to increase throughout 2017.
-
+<br>
 <br>This means if you’re a buyer and you’re on the fence about whether to jump into the market or wait a little bit, you need to jump in as quickly as possible to lock in a great rate. Despite this expected increase, interest rates are still very low in a historical context.
 
 {% include pullquote.html %}
