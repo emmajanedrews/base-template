@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is Our Late Winter Market Favoring Buyers or Sellers?
+title: Where Buyers and Sellers Stand in Our Market
 tags:
   - Market Update
   - Real Estate
@@ -37,6 +37,6 @@ On our team, we call this our VIP Buyer System, which guarantees our clients pri
 
 **If you are a seller, this may be your time to shine.** Take advantage of staging and get professional photos taken. You only get once chance at a first impression, and almost all buyers start looking for homes online.
 
-Be sure your agent launches the home live on the market to all buyers at the same time and has a grand opening that weekend. That way, all interested buyers have an equal opportunity to view your home. This also ensures you won’t have to show your home weeks or months at a time and increases the likelihood that you’ll generate multiple offers and create an auction-like environment to sell your home for the most amount of money possible.&nbsp;
+Be sure your agent launches the home live on the market to all buyers at the same time and has a grand opening that weekend. That way, all interested buyers have an equal opportunity to view your home. This also ensures you won’t have to show your home weeks or months at a time and increases the likelihood that you’ll generate multiple offers and create an auction-like environment to sell your home for the most amount of money possible.
 
 If you have any other questions about our market or are looking to buy or sell a home, feel free to call me or send me an email. I’d be happy to help!
