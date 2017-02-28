@@ -30,6 +30,6 @@ Scarcity of listings was a big theme in 2016. We expect the supply to improve th
 
 There is some uncertainty about the housing market on a national level. Nobody's quite sure what the Trump administration will do to the Dodd-Frank Act, ditto for Fannie Mae and Freddie Mac. However, we know that Utah is very strong in housing overall and we expect to have another great year in 2017.
 
-Click here for the full [2017 Housing Forecast](http://slrealtors.com/wp-content/uploads/2017/02/2017-Housing-Forecast.pdf).
+Click here for the full [2017 Housing Forecast](http://slrealtors.com/wp-content/uploads/2017/02/2017-Housing-Forecast.pdf){:target="_blank"}.
 
 If you have any questions about the market or are looking to buy or sell a home, don’t hesitate to give us a call or send us an email. We would love to hear from you.
