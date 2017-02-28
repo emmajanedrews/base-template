@@ -2,6 +2,7 @@
 layout: post
 title: Mississippi Gulf Coast Market Update
 tags:
+  - Market Update
 excerpt: Today I want to give you a look at what’s going on in our current market.
 enclosure:
 pullquote: Today I want to give you a look at what’s going on in our current market.
