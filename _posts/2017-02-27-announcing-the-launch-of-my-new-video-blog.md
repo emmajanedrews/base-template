@@ -24,6 +24,6 @@ Each month I will send out two videos addressing specific topics in our real est
 
 {% include pullquote.html %}
 
-Rather than me guess what’s on your mind, I want to reach out to you and ask what questions you have about real estate. Are there specific concepts you want to know more about? Are you curious about a specific market or neighborhood trends in your area? I would love to answer them in my videos so others can benefit from them as well.
+Rather than simply guessing what’s on your mind, I want to reach out to you and ask what questions you have about real estate. Are there specific concepts you want to know more about? Are you curious about a specific market or neighborhood trends in your area? I would love to answer your questions in my videos so others can benefit from them as well.
 <br>
 <br>If you’re thinking about buying or selling a home, please reach out to us so we can schedule a free consultation. We look forward to hearing from you!
