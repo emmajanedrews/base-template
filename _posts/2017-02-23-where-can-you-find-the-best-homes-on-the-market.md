@@ -22,6 +22,6 @@ How does it work? You look at a free report with photos that identifies the best
 
 {% include pullquote.html %}
 
-You can request this free, first-time homebuyers hot list by visiting **www.buyershotlist.ca [LINK]** and filling out the criteria.
+You can request this free, first-time homebuyers hot list by visiting **www.buyershotlist.ca** and filling out the criteria.
 
 If you have any questions about how this list can help you or you’re thinking about buying or selling a home, feel free to reach out to us by phone or email. We’d be happy to help!
