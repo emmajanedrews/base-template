@@ -16,7 +16,7 @@ youtube_code: _O7QrCQ2Vnw
 
 {% include youtube.html %}
 
-When I started here eight years ago, we were able to find qualified director of nursing candidates within 72 hours, generally, but times have changed. **In January of 2017 alone, there were 7,500 postings for director of nursing candidates and only 1,200 active candidates, which shows the scarcity of these candidates out there.** New York, Los Angeles, and Chicago were hit the hardest by this.&nbsp;
+When I started here eight years ago, we were able to find qualified director of nursing candidates within 72 hours, generally, but times have changed. **In January of 2017 alone, there were 7,500 postings for director of nursing candidates and only 1,200 active candidates, which shows the scarcity of these candidates out there.** New York, Los Angeles, and Chicago were hit the hardest.&nbsp;
 
 So how can you combat this? There are a couple things you can do.
 
