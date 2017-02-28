@@ -16,13 +16,13 @@ youtube_code: FUJYkYcN1VU
 
 {% include youtube.html %}
 
-With interest rates going up, it would be a very opportune time for you to buy a home in 2017 so you can lock in your mortgage financing. By doing that, you insure against the higher rates that will come as the year goes on. As a buyer, you want to be as close to a “sure thing” as possible. Here’s how you can do that.
+With interest rates going up, now is the opportune time to buy a home and lock in your mortgage financing. By doing that, you insure against the higher rates that will come as the year goes on. **As a buyer, you want to be as close to a “sure thing” as possible.** Here’s how you can do that.
 
-You become a sure thing as a buyer when you lock in that interest rate and fully document your mortgage financing. You’ll have to give your lender some financial documentation to make this happen, including your tax returns and recent paychecks. If you make it through that, you will have a fully approved loan, subject only to an appraisal. This puts you in an extremely strong position when buying.
+You become a sure thing as a buyer when you lock in that interest rate and fully document your mortgage financing. You’ll have to give your lender some financial documentation to make this happen, including your tax returns and recent paychecks. If you make it through that, you will have a fully approved loan, subject only to an appraisal. **This puts you in an extremely strong position when buying.**
 
-There are always closing costs involved with a mortgage. Fortunately, ⅘ of our transactions are closing with the seller offering up to 3% of the purchase price for closing costs. Sellers are actually paying buyers to buy their home.
+There are always closing costs involved with a mortgage. Fortunately, four out of every five of our transactions are closing with the seller offering up to 3% of the purchase price for closing costs. Sellers are actually paying buyers to buy their home.
 
-The entire mortgage market is hugely institutionalized and has changed like night and day. These days, the folks doing the most lending are typically local or regional companies that specialize in mortgages. These are called mortgage bankers. If you’re doing a standard loan like a FHA, USDA, or VA, the lenders are typically going to sell that loan to another entity, usually a big bank.
+The entire mortgage market is hugely institutionalized and has changed like night and day. These days, the folks doing the most lending are typically local or regional companies that specialize in mortgages. **These are called mortgage bankers.** If you’re doing a standard loan like a FHA, USDA, or VA, the lenders are typically going to sell that loan to another entity, usually a big bank.
 
 {% include pullquote.html %}
 
