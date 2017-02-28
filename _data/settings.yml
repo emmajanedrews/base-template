@@ -62,7 +62,7 @@ podcast:
   author: '-- CLIENT NAME --'
 images:
   client_headshot_path: /img/headshot.jpg
-  hero_logo_path: /uploads/travis-chatwin-combined-logo-2-28-17.png
+  hero_logo_path: /uploads/travis-chatwin-combined-logo-2-28-17white-overlay.png
   logo_width_number: 60
   hero_text: Real Estate Video Blog
   hero_background_hex: '#737373'
