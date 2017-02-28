@@ -1,41 +1,36 @@
 audit_header: false
-title: -- CLIENT BRAND --
+title: '-- CLIENT BRAND --'
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
   - title:
     url:
-
 client:
   name: Travis Chatwin
-  license_number: 'CA BRE #01331747'
-  about_markdown: |
-
+  license_number:
+  about_markdown:
   market: San Diego
   brand: Travis Chatwin Real Estate
   brokerage:
-  address: 312 S Cedros<br>Solana Beach, California 92075
+  address: '312 S Cedros<br>Solana Beach, California 92075'
   phone: (619) 752-4663
   phone_type:
   phone2:
   phone2_type:
   email: Travis@aaronrothre.com
-  url: http://www.beachandsunhomes.com
-
+  url: 'http://www.beachandsunhomes.com'
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
   second_CTA_URL: /homesearch/
   VR_form:
-
 sidebar_CTA:
   CTA_image_path: /img/cta-images/002.jpg
   CTA_title: Looking to Buy a Home?
   CTA_text: Search the entire MLS for homes located in -- MARKET --.
   CTA_link_text: Home Search Tool
   CTA_url: /homesearch/
-
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
@@ -44,21 +39,19 @@ welcome_box:
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
-
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/TravischatwinRealEstate/
-  linkedin_url: https://www.linkedin.com/in/beachandsunhomes/
-  gplus_url: https://plus.google.com/117224831269993752860
-  youtube_url: https://www.youtube.com/user/MRSANDIEGOREALTOR
-  twitter_url: https://twitter.com/aaronrothre
+  facebook_url: 'https://www.facebook.com/TravischatwinRealEstate/'
+  linkedin_url: 'https://www.linkedin.com/in/beachandsunhomes/'
+  gplus_url: 'https://plus.google.com/117224831269993752860'
+  youtube_url: 'https://www.youtube.com/user/MRSANDIEGOREALTOR'
+  twitter_url: 'https://twitter.com/aaronrothre'
   instagram_url:
   pinterest_url:
-  zillow_url: http://www.zillow.com/profile/1travischatwin/
-  trulia_url: https://www.trulia.com/profile/travis-chatwin-agent-solana-beach-ca-zg15b7yb/overview
-  yelp_url: https://www.yelp.com/biz/travis-chatwin-aaron-roth-real-estate-solana-beach-5
+  zillow_url: 'http://www.zillow.com/profile/1travischatwin/'
+  trulia_url: 'https://www.trulia.com/profile/travis-chatwin-agent-solana-beach-ca-zg15b7yb/overview'
+  yelp_url: 'https://www.yelp.com/biz/travis-chatwin-aaron-roth-real-estate-solana-beach-5'
   podcast_url:
-
 podcast:
   title:
   categories:
@@ -67,28 +60,24 @@ podcast:
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
   author: '-- CLIENT NAME --'
-
 images:
   client_headshot_path: /img/headshot.jpg
-  hero_logo_path: /img/logo.png
+  hero_logo_path: /uploads/travis-chatwin-combined-logo-2-28-17.png
   logo_width_number: 60
   hero_text: Real Estate Video Blog
   hero_background_hex: '#737373'
   hero_image_path: /img/background.jpg
-
 site_colors:
-  brand_color: '#5267A2'
+  brand_color: '#5267a2'
   theme_color: '#737373'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: "transparent"
-
+  shadow_color: 'rgba(0, 0, 0, 0)'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
