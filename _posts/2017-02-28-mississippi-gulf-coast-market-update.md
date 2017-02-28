@@ -23,9 +23,9 @@ The interesting thing about our market is that a year ago, we had 11 months wort
 
 Over the last year, the trend has shifted toward a seller’s market. Now, seller’s have less competition and are having a much easier time getting top dollar for their homes. Buyers now have to compete. So, if you are looking to buy, don’t wait to submit an offer if you find that dream home.
 
-Something else I wanted to touch on was the impact of interest rates on our market. Prior to the election, we had some great rates. They were below 3.4%, which was without a doubt historically low. However, after the election interest rates saw a hike that pushed them up to almost 4.3%.
-
 {% include pullquote.html %}
+
+Something else I wanted to touch on was the impact of interest rates on our market. Prior to the election, we had some great rates. They were below 3.4%, which was without a doubt historically low. However, after the election interest rates saw a hike that pushed them up to almost 4.3%.
 
 No one is anticipating rates to go back down. In fact, rates are expected to continue to rise, which is why a surplus of buyers are trying to take advantage of the market now before another increase.
 
