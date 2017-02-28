@@ -66,7 +66,7 @@ images:
   logo_width_number: 60
   hero_text: Real Estate Video Blog
   hero_background_hex: '#737373'
-  hero_image_path: /uploads/travis-background-image.jpg
+  hero_image_path: /uploads/willow-small.jpg
 site_colors:
   brand_color: '#2a375f'
   theme_color: '#2a375f'
