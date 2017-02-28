@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mississippi Gulf Coast Market Update
+title: What’s happening in the Mississippi Gulf Coast market?
 tags:
   - Market Update
 excerpt: Today I want to give you a look at what’s going on in our current market.
@@ -18,11 +18,11 @@ youtube_code: '-Gd4VBCkpEc'
 
 Many people want to know if we are in a buyer’s market or a seller’s market. I’ll go over the answer to that today and let you know what’s happening in our market.
 
-Across the coast we have about 6 months of inventory on average, which means we are in a neutral market. Supply and demand is about even.
+Across the coast we have about six months of inventory on average, which means we are in a neutral market. Supply and demand are about even.
 
 The interesting thing about our market is that a year ago, we had 11 months worth of inventory and were in an extreme buyer’s market. There was a lot of competition, and sellers had to reduce their prices significantly to get their homes sold. Buyers, on the other hand, had a great selection and were getting some great deals.
 
-Over the last year, the trend has shifted toward a seller’s market. Now, seller’s have less competition and are having a much easier time getting top dollar for their homes. Buyers now have to compete. So, if you are looking to buy, don’t wait to submit an offer if you find that dream home.
+Over the last year, the trend has shifted toward a seller’s market. Now, sellers have less competition and are having a much easier time getting top dollar for their homes. Buyers now have to compete. So, if you are looking to buy, don’t wait to submit an offer if you find that dream home.
 
 {% include pullquote.html %}
 
@@ -32,4 +32,4 @@ No one is anticipating rates to go back down. In fact, rates are expected to con
 
 As far as 2017 goes, it looks like sellers are going to remain in control. That means fewer days on the market and more money for their homes. Buyers need to prepare for rising interest rates and multiple offer situations.
 
-If you’re thinking about buying or selling a home, or if you have any other real-estate related questions, please don’t hesitate to give me a call or send me an email. I look forward to hearing from you!
+If you’re thinking about buying or selling a home, or if you have any other real estate-related questions, please don’t hesitate to give me a call or send me an email. I look forward to hearing from you!
