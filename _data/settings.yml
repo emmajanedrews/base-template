@@ -68,8 +68,8 @@ images:
   hero_background_hex: '#353535'
   hero_image_path: /img/background.jpg
 site_colors:
-  brand_color: '#e16720'
-  theme_color: '#7f7f7f'
+  brand_color: '#57c3b7'
+  theme_color: '#ededed'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
