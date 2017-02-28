@@ -23,9 +23,9 @@ When you go to Zillow, you are able to get something called a Zestimate, which g
 
 Unfortunately, no. Most of the time, Zestimates are not very accurate.&nbsp;
 
-According to Zillow’s website, a Zestimate is a starting point in determining a home’s value. It is not an appraisal. As I like to say, if it was, it would be called a Zappraisal. **The Zestimate is based on public and user submitted data.&nbsp;**
+According to Zillow’s website, a Zestimate is a starting point in determining a home’s value. It is not an appraisal. As I like to say, if it was, it would be called a Zappraisal. **The Zestimate is based on public and user-submitted data.&nbsp;**
 
-Public data is usually fairly accurate, as it includes information about the square footage of your home. The problem is that Zestimates rely on user submitted data.&nbsp;
+Public data is usually fairly accurate, as it includes information about the square footage of your home. The problem is that Zestimates rely on user-submitted data.&nbsp;
 
 If you are a homeowner who wants to sell your house and you know that people are going to Zillow to see what your home is worth, wouldn’t it benefit you to go to Zillow and add some home improvements to your property? There are some agents out there who actually help people increase their Zestimates to make it seem like their home is worth more than it is. In short, **Zestimates can be tweaked and manipulated.**&nbsp;
 
