@@ -3,7 +3,7 @@ layout: post
 title: Announcing the Launch of My New Video Blog
 tags:
   - Real Estate
-excerpt: Today I’m launching my new video blog dedicated to sharing my real estate expertise with you. Here’s what else you can expect.
+excerpt: I’m launching my new video blog dedicated to sharing my real estate expertise with you. Here’s what else you can expect.
 enclosure:
 pullquote: What are you curious about when it comes to real estate?
 enclosure_type:
