@@ -20,10 +20,10 @@ Today I have some exciting news to announce.
 
 This marks the launch of my new video blog dedicated to sharing my real estate expertise with you.
 
-Each month I will send out two videos addressing specific topics in our real estate world. I’ll also address changes in the lending and title world and provide tips on how to navigate through them. All of these industries are intertwined, so to take full advantage of the real estate market, you need to know how to maneuver through each one of them.
+**Each month I will send out two videos addressing specific topics in our real estate world.** I’ll also address changes in the lending and title world and provide tips on how to navigate through them. All of these industries are intertwined, so to take full advantage of the real estate market, you need to know how to maneuver through each one of them.
 
 {% include pullquote.html %}
 
-Rather than simply guessing what’s on your mind, I want to reach out to you and ask what questions you have about real estate. Are there specific concepts you want to know more about? Are you curious about a specific market or neighborhood trends in your area? I would love to answer your questions in my videos so others can benefit from them as well.
+Rather than simply guessing what’s on your mind, I want to reach out to you and ask **what questions you have about real estate.** Are there specific concepts you want to know more about? Are you curious about a specific market or neighborhood trends in your area? I would love to answer your questions in my videos so others can benefit from them as well.
 <br>
 <br>If you’re thinking about buying or selling a home, please reach out to us so we can schedule a free consultation. We look forward to hearing from you!
