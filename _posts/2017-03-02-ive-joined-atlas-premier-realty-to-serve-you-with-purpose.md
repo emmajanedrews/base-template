@@ -25,9 +25,9 @@ Over the last 15 years I've served homebuyers and sellers on a very transactiona
 
 {% include pullquote.html %}
 
-This move allows me to work more purposefully for you in a way that's also simpler and easier for you. Ultimately, our goal is to become the real estate company of choice here in Carroll County that's built around uncompromising experience and an environment which focuses on building longstanding relationships with purpose in our community.
+This move allows me to work more purposefully for you in a way that's also simpler and easier for you. Ultimately, our goal is to become the real estate company of choice here in Carroll County that's built around uncompromising experience and an environment which focuses on building long-standing relationships with purpose in our community.
 
-Here at Atlas, we value family, integrity, communication, accountability, and humility whether we're working on real estate transaction or working to make the community a better place.&nbsp;
+Here at Atlas, we value family, integrity, communication, accountability, and humility whether we're working on a real estate transaction or working to make the community a better place.&nbsp;
 
 I really appreciate your love and support not just in the last few weeks during this transition, but really through the last 15 years. I'm really looking forward to making the next 15 years even better with you and our community.
 
