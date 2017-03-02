@@ -4,7 +4,7 @@ title: What’s happening in the Mississippi Gulf Coast market?
 tags:
   - Market Update
 excerpt: Today I want to give you a look at what’s going on in our current market.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Bryan+David/Mississippi+Gulf+Coast+Real+Estate+Agent-+What%2527s+Happening+in+the+Mississippi+Gulf+Coast+Market%253F.mp4'
 pullquote: The market is neutral but will shift toward a seller’s market.
 enclosure_type: video/mp4
 enclosure_time:
