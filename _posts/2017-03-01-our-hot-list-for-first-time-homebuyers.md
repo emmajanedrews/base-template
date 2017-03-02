@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: G7H5m61y7Wc
+youtube_code: Tr8F_Om6n1M
 ---
 
 
@@ -28,6 +28,6 @@ You will receive a free report with photos which identifies the best buys on the
 
 The hot list uses a simple, efficient format to provide you key information at no extra cost or obligation. This list will give you a huge advantage over other buyers in the market.
 
-To get your list, go to [**www.getmorewithus.ca**](http://%20http//www.greatertorontogroup.com/info/our-team) and enter your criteria.
+To get your list, go to [](http://%20http//www.greatertorontogroup.com/info/our-team){: .cc-active}[**buyershotlist.net**](http://www.greatertorontogroup.com/info/first-time-buyers-hotlist) and enter your criteria.
 
 If you have any questions, please don’t hesitate to reach out to us. We would be happy to help you!
