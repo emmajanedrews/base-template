@@ -76,9 +76,9 @@ site_colors:
   main_body_text_color: '#353535'
 header_shadow:
   h_shadow: 0px
-  w_shadow: 2px
-  shadow_spread: 7px
-  shadow_color: '#000000'
+  w_shadow: 0px
+  shadow_spread: 0px
+  shadow_color: '#ffffff'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
