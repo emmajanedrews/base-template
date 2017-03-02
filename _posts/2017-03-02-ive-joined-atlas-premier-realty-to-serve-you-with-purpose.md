@@ -21,7 +21,7 @@ You may have noticed a different logo behind me in today's video.
 
 I'm excited to say that I've teamed up with Atlas Premier Realty and today, I wanted to take a moment to talk about the last few months and why I made the change.&nbsp;
 
-Over the last 15 years I've served homebuyers and sellers on a very transactional basis. This move came down to a commitment to what I want the next 15 years to look like. In the end after a lot of soul-searching, it came down to community. **I wanted to serve the people that I know, like, and love with more purpose. My move to Atlas Premier Realty is all about how I can make a bigger footprint and make our community better.&nbsp;**
+Over the last 15 years I've served homebuyers and sellers on a very transactional basis. This move came down to a commitment to what I want the next 15 years to look like. After a lot of soul-searching, it came down to community. **I wanted to serve the people that I know, like, and love with more purpose. My move to Atlas Premier Realty is all about how I can make a bigger footprint and make our community better.&nbsp;**
 
 {% include pullquote.html %}
 
