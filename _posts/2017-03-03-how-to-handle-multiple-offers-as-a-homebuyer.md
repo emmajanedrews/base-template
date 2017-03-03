@@ -7,7 +7,7 @@ date: 2017-03-03 00:00:00
 excerpt: It’s very common to see homebuyers in multiple offer situations right now in our market. Here are a few ways you can make your offer stand out if you find yourself competing for that dream home.
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Chris+Gorman/Triangle+Area+Real+Estate-+How+to+Handle+Multiple+Offers+as+a+Homebuyer.mp4'
 pullquote: Making sure you’re pre-approved is huge in this market.
-enclosure_type:
+enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
