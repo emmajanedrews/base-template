@@ -5,37 +5,38 @@ show_custom_links: false
 custom_links:
   - title:
     url:
-
 client:
-  name: Emily & Paul Hervieux
-  license_number: 'CA BRE# 01748533<br>CA BRE# 01874325'
-  about_markdown: |
-    The Hervieux Real Estate Group believes that when selling a home, you have an amazing opportunity to increase its value. We provide a room by room review to identify the intelligent fix-ups, complementary staging, local & international marketing, and expert negotiating. This proven process will ensure the highest sales price of your home. We invite you to meet with us for a private consultation or come to one of our home selling events.
+  name: 'Emily & Paul Hervieux'
+  license_number:
+  about_markdown: >
+    The Hervieux Real Estate Group believes that when selling a home, you have an
+    amazing opportunity to increase its value. We provide a room by room review
+    to identify the intelligent fix-ups, complementary staging, local
+    & international marketing, and expert negotiating. This proven process will
+    ensure the highest sales price of your home. We invite you to meet with us
+    for a private consultation or come to one of our home selling events.
   market: San Diego
   brand:
   brokerage:
-  address: 12780 High Bluff Dr, Suite 130<br>San Diego, CA 92130
+  address: '12780 High Bluff Dr, Suite 130<br>San Diego, CA 92130'
   phone: 858-356-5463
   phone_type:
   phone2:
   phone2_type:
   email: info@justsoldsd.com
-  url: http://HomeSellerSuccess.com
-
+  url: 'http://HomeSellerSuccess.com'
 CTAs:
   first_CTA_text: Real Estate Workshop
-  first_CTA_URL: http://homesellersuccess.com/registration/
+  first_CTA_URL: 'http://homesellersuccess.com/registration/'
   second_CTA_text: Home Search
-  second_CTA_URL: http://hervieuxrealestatelistings.com/activelistings/
-  VR_form: http://oi.vresp.com?fid=2f05f35d08
-
+  second_CTA_URL: 'http://hervieuxrealestatelistings.com/activelistings/'
+  VR_form: 'http://oi.vresp.com?fid=2f05f35d08'
 sidebar_CTA:
   CTA_image_path: /img/cta-images/004.jpg
   CTA_title: Looking to Buy a Home?
   CTA_text: Search the entire MLS for homes located in -- MARKET --.
   CTA_link_text: Home Search Tool
-  CTA_url: http://hervieuxrealestatelistings.com/activelistings/
-
+  CTA_url: 'http://hervieuxrealestatelistings.com/activelistings/'
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
@@ -44,59 +45,53 @@ welcome_box:
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
-
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/HervieuxRealEstateGroup/
-  linkedin_url: https://www.linkedin.com/in/hervieux-real-estate-888289122
-  gplus_url: https://plus.google.com/u/0/101386840762585779154
-  youtube_url: https://www.youtube.com/channel/UCASyUhwQ1lOAiflBRl08bKA/featured?view_as=public
-  twitter_url: https://twitter.com/justsoldsd
+  facebook_url: 'https://www.facebook.com/HervieuxRealEstateGroup/'
+  linkedin_url: 'https://www.linkedin.com/in/hervieux-real-estate-888289122'
+  gplus_url: 'https://plus.google.com/u/0/115686033987929268101'
+  youtube_url: 'https://www.youtube.com/channel/UCASyUhwQ1lOAiflBRl08bKA/featured?view_as=public'
+  twitter_url: 'https://twitter.com/justsoldsd'
   instagram_url:
   pinterest_url:
   zillow_url:
   trulia_url:
   yelp_url:
-  podcast_url: https://itunes.apple.com/us/podcast/san-diego-real-estate-video/id1203032523?mt=2
-
+  podcast_url: 'https://itunes.apple.com/us/podcast/san-diego-real-estate-video/id1203032523?mt=2'
 podcast:
   title: San Diego Real Estate Video Blog with Emily and Paul Hervieux
-  categories: News &amp; Politics
+  categories:
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
   author: '-- CLIENT NAME --'
-
 images:
   client_headshot_path: /img/headshot.jpg
   client_headshot_path_2: /img/headshot-2.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 60rem
+  logo_width_number:
   hero_text: Real Estate Video Blog
-  hero_background_hex: '#DA1A15'
+  hero_background_hex: '#da1a15'
   hero_image_path: /img/background.jpg
-
 site_colors:
-  brand_color: '#DA1A15'
-  theme_color: '#3D3D3D'
+  brand_color: '#da1a15'
+  theme_color: '#3d3d3d'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: "#D9CAE9"
-
+  shadow_color: '#d9cae9'
 buttons:
-  button_radius_number: 0px
-  button_padding_width_number: 10px
-  button_padding_height_number: 15px
+  button_radius_number:
+  button_padding_width_number:
+  button_padding_height_number:
   button_border_color: '#ffffff'
   button_background_color: '#ffffff'
-  button_text_color: '#DA1A15'
-  secondary_button_border_color: '#DA1A15'
-  secondary_button_background_color: '#DA1A15'
+  button_text_color: '#da1a15'
+  secondary_button_border_color: '#da1a15'
+  secondary_button_background_color: '#da1a15'
   secondary_button_text_color: '#ffffff'
