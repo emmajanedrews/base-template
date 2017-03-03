@@ -16,11 +16,11 @@ youtube_code: 4u4hXmkhubc
 
 {% include youtube.html %}
 
-What’s happening in our local Ventura County market? Are we in a buyer’s or a seller’s market? I’ll answer those questions for you today.
+What’s happening in our local Ventura County market? Are we in a buyer’s or a seller’s market? I’ll answer those questions for you today.&nbsp;
 
 **Right now we are definitely in seller’s market,** which means it’s a fantastic time to sell your home. Our inventory levels in Ventura County are extremely low—less than two months of supply on the market. That means if there were no new homes listed, it would only take two months to sell all the inventory.
 
-**S******elle**rs are enjoying low competition and high buyer activity thanks to low inventory.**As long as your home is priced correctly, you’re going to get really strong offers. You’ll probably even see multiple offers and offers above list price.
+**S****\*\*elle**rs are enjoying low competition and high buyer activity thanks to low inventory.\*\*As long as your home is priced correctly, you’re going to get really strong offers. You’ll probably even see multiple offers and offers above list price.
 
 {% include pullquote.html %}
 
