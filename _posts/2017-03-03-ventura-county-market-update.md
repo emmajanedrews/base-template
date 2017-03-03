@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ventura County Market Update
-date: 2017-03-19 00:00:00
+date: 2017-03-03 00:00:00
 tags:
 excerpt: Many people have asked me if we are in a buyer’s or a seller’s market. I’ll answer that and go over what’s happening in our market today.
 enclosure: 'http://vyralmarketing.s3.amazonaws.com/Breanne%20Steen/Ventura%20County%20Market%20Update.mp4'
