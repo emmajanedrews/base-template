@@ -20,9 +20,9 @@ Choosing a Realtor is not an easy task. Recently, I learned that there are 40,00
 <br>
 <br>I have two suggestions to help you pick the right Realtor:
 <br>
-<br>1. Just because they were recommended by a friend or family member does not mean they are the right Realtor for you. Meet up with the Realtor first and make sure that you like them. Buying or selling a home should be a fun experience, and it won’t be if you can’t stand your Realtor. Make sure you like the person you are working with.
+<br>1. Just because they were recommended by a friend or family member **does not mean they are the right Realtor for you.** Meet up with the Realtor first and make sure that you like them. Buying or selling a home should be a fun experience, and it won’t be if you can’t stand your Realtor. Make sure you like the person you are working with.
 <br>
-<br>2. Make sure your Realtor knows what they’re doing. Hire an experienced Realtor who knows what they’re doing, not just a paper pusher.
+<br>2. Make sure your Realtor **knows what they’re doing.** Hire an experienced Realtor who knows what they’re doing, not just a paper pusher.
 
 {% include pullquote.html %}
 
