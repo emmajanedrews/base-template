@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/valle-2-22-yt.jpg
-youtube_code: aX5loDQJjMQ
+youtube_code: Kc3FhjaNywM
 ---
 
 
@@ -18,7 +18,7 @@ youtube_code: aX5loDQJjMQ
 
 You’ve found your dream home and written an offer only to find that your offer isn’t the only one on the table. How can you ensure you end up in your dream home? There are actually three steps that can help your offer beat out the rest.
 
-First, **don’t underestimate the importance of your agent.&nbsp;**The communication between your agent and the listing agent is crucial. The better the communication, the more informed you’ll be. Being informed about how many offers are coming in or what sort of terms the sellers are looking for in an offer will help your offer stand out.
+First, **don’t underestimate the importance of your agent.**The communication between your agent and the listing agent is crucial. The better the communication, the more informed you’ll be. Being informed about how many offers are coming in or what sort of terms the sellers are looking for in an offer will help your offer stand out.
 
 Second, **send something personal along with your offer.** You could send a note, video, or photograph. If you have a family, include the whole family. Creating an emotional connection between you and the seller will strengthen your offer and blow other offers away.
 
