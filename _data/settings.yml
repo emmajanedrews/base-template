@@ -27,7 +27,7 @@ CTAs:
   first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
   second_CTA_URL: http://www.breannesteen.com/search-homes-for-sale/#/2123907651
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=e0ee54fc19
 
 sidebar_CTA:
   CTA_image_path: /img/cta-images/004.jpg
@@ -61,7 +61,7 @@ socials:
 
 podcast:
   title: Steen Realty Group Podcast
-  categories: News &amp; Politics
+  categories: Education
   image: /img/podcast.png
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
