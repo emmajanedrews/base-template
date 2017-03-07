@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Make Sure Your Offers Beats Out the Rest
+title: How to Ensure Your Offers Beats Out the Rest
 tags:
   - Buyer Tips
 excerpt: 'Being a buyer in today’s market can get pretty competitive, which is why we want to share some tips on how to win a multiple offer situation.'
