@@ -25,7 +25,7 @@ CTAs:
   first_CTA_URL: 'https://www.backatyou.com/home-value/C18CFDE3-2B6B-4F79-88A5-14CCB0D3EA72?r=baygcb_fb_5720'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://www.themylesgroup.net/results-map/?sort=importdate&status=A&swlat=30.234771697852793&swlng=-98.26135228417968&nelat=30.626710567328356&nelng=-97.2629697158203&midlat=30.430938&midlng=-97.76216099999999&zoom=11'
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=bfc28e12a5
 sidebar_CTA:
   CTA_image_path: /img/cta-images/004.jpg
   CTA_title: Looking to Buy a Home?
