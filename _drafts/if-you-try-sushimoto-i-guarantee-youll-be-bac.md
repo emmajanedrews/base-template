@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "If You Try Sushimoto, I Guarantee You'll Be Bac"
+title: "If You Try Sushimoto, I Guarantee You'll Be Back"
 tags:
   - Emerald Coast Vendors
 excerpt:
@@ -18,7 +18,7 @@ youtube_code:
 
 This week I'm honored to feature Sushimoto, one of our favorite local restaurants here on the Emerald Coast.
 
-My wife and I absolutely love coming here for sushi that’s extremely fresh and hot dishes that are great. In fact,** Emeril Lagasse himself recently featured Sushimoto as one of his favorite restaurants!** Owners Andy and Sophia are great people and good friends that provide the best customer service.
+My wife and I absolutely love coming here for sushi that’s extremely fresh and hot dishes that are great. In fact,\*\* Emeril Lagasse himself recently featured Sushimoto as one of his favorite restaurants!\*\* Owners Andy and Sophia are great people and good friends that provide the best customer service.
 
 {% include pullquote.html %}
 
