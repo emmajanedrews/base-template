@@ -19,7 +19,7 @@ youtube_code: 3UuKR3SuFbU
 
 What’s happening in our local market?
 
-**Right now, we’re in a buyer’s market.** What that means is there are more homes on the market than there are people looking to buy homes. If you’re a buyer, now is a great time to make your move. Interest rates are also low, which only adds to the appeal of buying a home.
+**Right now, we’re in a buyer’s market.** That means there are more homes on the market than there are people looking to buy homes. If you’re a buyer, now is a great time to make your move. Interest rates are also low, which only adds to the appeal of buying a home.
 
 {% include pullquote.html %}
 
