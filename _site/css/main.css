@@ -2777,7 +2777,12 @@ form select {
   .cta:active {
     box-shadow: 0 0 0 #4b6cce;
     -webkit-transform: translateY(0rem);
-    transform: translateY(0rem); }
+    transform: translateY(0rem);
+    text-decoration: none;
+    color: #fff; }
+  .cta:focus {
+    text-decoration: none;
+    color: #fff; }
 
 .cta2 {
   color: #ffffff;
@@ -2801,6 +2806,9 @@ form select {
     box-shadow: 0 0 0 #4b6cce;
     -webkit-transform: translateY(0rem);
     transform: translateY(0rem); }
+  .cta2:focus {
+    text-decoration: none;
+    color: #fff; }
 
 .navbar-nav > li > a {
   font-size: 20px;
@@ -2809,6 +2817,12 @@ form select {
   border-radius: 0px;
   -webkit-transition: all 0.15s ease-out 0s;
   transition: all 0.15s ease-out 0s; }
+  .navbar-nav > li > a:active {
+    text-decoration: none;
+    color: #fff; }
+  .navbar-nav > li > a:focus {
+    text-decoration: none;
+    color: #fff; }
 
 .footer {
   color: #fff; }
