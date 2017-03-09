@@ -5,37 +5,38 @@ show_custom_links: false
 custom_links:
   - title:
     url:
-
 client:
   name: Breanne Steen
-  license_number: 'CalBRE #01875070'
-  about_markdown: |
-    Breanne is respected by her clients for her hard work, dedication and attention to detail. In fact, many of her clients have used her for multiple transactions and have referred friends and family, which she considers to be the highest form of compliment. <br><br>Representing buyers and sellers in her market, Breanne has amassed numerous awards for “Top Producer” acknowledging her outstanding sales achievements.
+  license_number:
+  about_markdown: >
+    Breanne is respected by her clients for her hard work, dedication and
+    attention to detail. In fact, many of her clients have used her for multiple
+    transactions and have referred friends and family, which she considers to be
+    the highest form of compliment. <br><br>Representing buyers and sellers in
+    her market, Breanne has amassed numerous awards for “Top Producer”
+    acknowledging her outstanding sales achievements.
   market: Ventura County
   brand: Steen Realty Group
   brokerage: Keller Williams
-  address: 2655 First St, Suite 150<br>Simi Valley, CA 93065
+  address: '2655 First St, Suite 150<br>Simi Valley, CA 93065'
   phone: 805-551-3854
   phone_type:
   phone2:
   phone2_type:
   email: breanne@BreanneSteen.com
-  url: http://www.BreanneSteen.com
-
+  url: 'http://www.BreanneSteen.com'
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.breannesteen.com/search-homes-for-sale/#/2123907651
-  VR_form: http://oi.vresp.com?fid=e0ee54fc19
-
+  second_CTA_URL: 'http://www.breannesteen.com/search-homes-for-sale/#/2123907651'
+  VR_form: 'http://oi.vresp.com?fid=e0ee54fc19'
 sidebar_CTA:
-  CTA_image_path: /img/cta-images/004.jpg
+  CTA_image_path: /img/home-search.png
   CTA_title: Looking to Buy a Home?
   CTA_text: Search the entire MLS for homes located in -- MARKET --.
   CTA_link_text: Home Search Tool
-  CTA_url: http://www.breannesteen.com/search-homes-for-sale/#/2123907651
-
+  CTA_url: 'http://www.breannesteen.com/search-homes-for-sale/#/2123907651'
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
@@ -44,58 +45,53 @@ welcome_box:
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
-
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/BreanneSteenRE
-  linkedin_url: https://www.linkedin.com/in/breannesteen
-  gplus_url: https://plus.google.com/+BreanneSteenRealEstateSimiValley
-  youtube_url: http://www.youtube.com//c/BreanneSteenRealEstateSimiValley
-  twitter_url: https://twitter.com/breannesteen
+  facebook_url: 'https://www.facebook.com/BreanneSteenRE'
+  linkedin_url: 'https://www.linkedin.com/in/breannesteen'
+  gplus_url: 'https://plus.google.com/+BreanneSteenRealEstateSimiValley'
+  youtube_url: 'http://www.youtube.com//c/BreanneSteenRealEstateSimiValley'
+  twitter_url: 'https://twitter.com/breannesteen'
   instagram_url:
-  pinterest_url: http://www.pinterest.com/breannesteen
-  zillow_url: http://www.zillow.com/profile/Breanne.Steen
-  trulia_url: https://www.trulia.com/profile/breanne-steen-agent-simi-valley-ca-zgdmx1g7/overview
-  yelp_url: https://www.yelp.com/biz/breanne-steen-realtor-simi-valley
-  podcast_url: https://itunes.apple.com/us/podcast/steen-realty-group-podcast/id1212974767?mt=2
-
+  pinterest_url: 'http://www.pinterest.com/breannesteen'
+  zillow_url: 'http://www.zillow.com/profile/Breanne.Steen'
+  trulia_url: 'https://www.trulia.com/profile/breanne-steen-agent-simi-valley-ca-zgdmx1g7/overview'
+  yelp_url: 'https://www.yelp.com/biz/breanne-steen-realtor-simi-valley'
+  podcast_url: 'https://itunes.apple.com/us/podcast/steen-realty-group-podcast/id1212974767?mt=2'
 podcast:
   title: Steen Realty Group Podcast
-  categories: Education
+  categories:
+    - Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
   author: '-- CLIENT NAME --'
-
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
   hero_text: Real Estate Video Blog
-  hero_background_hex: '#000'
+  hero_background_hex: '#000000'
   hero_image_path: /img/background.jpg
-
 site_colors:
-  brand_color: '#0020CD'
+  brand_color: '#0020cd'
   theme_color: '#525252'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: "#000"
-
+  shadow_color: '#000000'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
   button_background_color: '#ffffff'
-  button_text_color: '#0020CD'
+  button_text_color: '#0020cd'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'
