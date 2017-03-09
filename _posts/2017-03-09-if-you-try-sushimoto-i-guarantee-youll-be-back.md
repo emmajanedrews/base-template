@@ -2,7 +2,7 @@
 layout: post
 title: "If You Try Sushimoto, I Guarantee You'll Be Back"
 tags:
-  - Venue Reviews
+  - "Venue Reviews"
 excerpt: "This week I'm honored to feature Sushimoto, one of our favorite local restaurants here on the Emerald Coast."
 enclosure:
 pullquote: "If you mention the Nathan Abbott Team, you'll get a hot sake on the house."
