@@ -5,8 +5,7 @@ date: '2016-12-12T14:39:00.000-08:00'
 author: Alyssa Sisco
 tags:
 - Portland Real Estate Buyer Tips
-excerpt: If you need financing, you should reach out to your Realtor in order to find
-a local lender that can provide better service than a larger institution.
+excerpt: If you need financing, you should reach out to your Realtor in order to find a local lender that can provide better service than a larger institution.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -22,4 +21,4 @@ Larger institutions can’t service your financing needs as well as mortgage com
 
 The advantages of working with a preferred lender are numerous. Our preferred lenders have amazing customer service, they’re great to work with, and they’re always available after hours and on the weekends.
 
-If you have any questions about our preferred lenders or what’s going on in the real estate market, please give me a call or send me an email. I look forward to hearing from you. 
+If you have any questions about our preferred lenders or what’s going on in the real estate market, please give me a call or send me an email. I look forward to hearing from you.

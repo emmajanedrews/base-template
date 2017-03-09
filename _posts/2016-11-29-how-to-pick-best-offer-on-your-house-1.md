@@ -5,8 +5,7 @@ date: '2016-11-29T08:41:00.000-08:00'
 author: Vyral Admin
 tags:
 - seller tips
-excerpt: When you're considering multiple offers on your home, there are many other
-variables besides price to consider before making a decision.
+excerpt: When you're considering multiple offers on your home, there are many other variables besides price to consider before making a decision.
 enclosure:
 pullquote:
 enclosure_type: video/mp4

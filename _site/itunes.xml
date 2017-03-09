@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Stellar Realty Northwest - your professional Portland Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Scott Besaw and Paul Campbell</managingEditor>
-    <lastBuildDate>2017-02-28 17:27:50 -0600</lastBuildDate>
+    <lastBuildDate>2017-03-09 10:39:02 -0600</lastBuildDate>
     <media:copyright>Scott Besaw and Paul Campbell</media:copyright>
     <media:thumbnail url="localhost:4000"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -24,67 +24,6 @@
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Stellar Realty Northwest - your professional Portland Real Estate Agents.</itunes:summary>
       <itunes:category text="News &amp; Politics"/>
     
-      <item>
-        <title></title>
-        <link>localhost:4000/2016-12-12-the-advantages-of-using-local-lender.html</link>
-        
-        <author>Scott Besaw and Paul Campbell</author>
-        <pubDate>2017-02-28 17:27:50 -0600</pubDate>
-        <guid></guid>
-        <description>
-
-Should you reach out to your Realtor in order to find a local lender? Yes. Real estate agents have access to many local lenders, credit unions, and mortgage companies.
-
-Larger institutions can’t service your financing needs as well as mortgage companies. They usually offer limited products, whereas mortgage companies usually offer 15 products or more. You’ll also face a better chance of pre-approval with a mortgage company because they offer more loan products to choose from and are more flexible with down payments and credit scores.
-
-The advantages of working with a preferred lender are numerous. Our preferred lenders have amazing customer service, they’re great to work with, and they’re always available after hours and on the weekends.
-
-If you have any questions about our preferred lenders or what’s going on in the real estate market, please give me a call or send me an email. I look forward to hearing from you.
-</description>
-        <enclosure url="" length="" type=""/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type=""/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle></itunes:subtitle>
-        <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
-        <itunes:summary></itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-      </item>
-      
-      <item>
-        <title></title>
-        <link>localhost:4000/2016-11-29-how-to-pick-best-offer-on-your-house-1.html</link>
-        
-        <author>Scott Besaw and Paul Campbell</author>
-        <pubDate>2017-02-28 17:27:50 -0600</pubDate>
-        <guid></guid>
-        <description>
-
-When you’re selling your home and juggling multiple offers, is the highest offer always the best?
-
-Not necessarily. There are a lot of other variables in play, including the terms of the loan, whether or not it’s a cash offer, some contingencies, and the length of the closing. You should consider four things before accepting a buyer’s offer:
-
-
-  Their financing
-  The length of the closing period
-  The terms of the loan
-  Any contingencies
-
-
-Sometimes cash buyers are better than financed offers; however, cash buyers usually come in lower. A qualified professional can help you select the right offer by recognizing the strengths and weaknesses of each one.
-
-If you have any questions about buying or selling real estate, feel free to give me a call or shoot me an email. I look forward to hearing from you.
-</description>
-        <enclosure url="" length="" type=""/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type=""/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle></itunes:subtitle>
-        <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
-        <itunes:summary></itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-      </item>
-      
       <item>
         <title>5 Ways to Get Your Home Ready for Sale</title>
         <link>localhost:4000/5-ways-to-get-your-home-ready-for-sale.html</link>
@@ -116,6 +55,71 @@ If you have any questions or would like more information regarding this topic, p
         <itunes:subtitle>There are five simple things you can do to your home to get it ready for sale.</itunes:subtitle>
         <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
         <itunes:summary>There are five simple things you can do to your home to get it ready for sale.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>The Advantages of Using a Local Lender</title>
+        <link>localhost:4000/the-advantages-of-using-local-lender.html</link>
+        
+          <category>Portland Real Estate Buyer Tips</category>
+        
+        <author>Scott Besaw and Paul Campbell</author>
+        <pubDate>2016-12-12 16:39:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+Should you reach out to your Realtor in order to find a local lender? Yes. Real estate agents have access to many local lenders, credit unions, and mortgage companies.
+
+Larger institutions can’t service your financing needs as well as mortgage companies. They usually offer limited products, whereas mortgage companies usually offer 15 products or more. You’ll also face a better chance of pre-approval with a mortgage company because they offer more loan products to choose from and are more flexible with down payments and credit scores.
+
+The advantages of working with a preferred lender are numerous. Our preferred lenders have amazing customer service, they’re great to work with, and they’re always available after hours and on the weekends.
+
+If you have any questions about our preferred lenders or what’s going on in the real estate market, please give me a call or send me an email. I look forward to hearing from you.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you need financing, you should reach out to your Realtor in order to find a local lender that can provide better service than a larger institution.</itunes:subtitle>
+        <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
+        <itunes:summary>If you need financing, you should reach out to your Realtor in order to find a local lender that can provide better service than a larger institution.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to Pick the Best Offer on Your House</title>
+        <link>localhost:4000/how-to-pick-best-offer-on-your-house-1.html</link>
+        
+          <category>seller tips</category>
+        
+        <author>Scott Besaw and Paul Campbell</author>
+        <pubDate>2016-11-29 10:41:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+When you’re selling your home and juggling multiple offers, is the highest offer always the best?
+
+Not necessarily. There are a lot of other variables in play, including the terms of the loan, whether or not it’s a cash offer, some contingencies, and the length of the closing. You should consider four things before accepting a buyer’s offer:
+
+
+  Their financing
+  The length of the closing period
+  The terms of the loan
+  Any contingencies
+
+
+Sometimes cash buyers are better than financed offers; however, cash buyers usually come in lower. A qualified professional can help you select the right offer by recognizing the strengths and weaknesses of each one.
+
+If you have any questions about buying or selling real estate, feel free to give me a call or shoot me an email. I look forward to hearing from you.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>When you're considering multiple offers on your home, there are many other variables besides price to consider before making a decision.</itunes:subtitle>
+        <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
+        <itunes:summary>When you're considering multiple offers on your home, there are many other variables besides price to consider before making a decision.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       

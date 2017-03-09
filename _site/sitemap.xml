@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>localhost:4000/2016-12-12-the-advantages-of-using-local-lender.html</loc>
-<lastmod>2017-02-28T17:27:50-06:00</lastmod>
-</url>
-<url>
-<loc>localhost:4000/2016-11-29-how-to-pick-best-offer-on-your-house-1.html</loc>
-<lastmod>2017-02-28T17:27:50-06:00</lastmod>
-</url>
-<url>
 <loc>localhost:4000/5-ways-to-get-your-home-ready-for-sale.html</loc>
 <lastmod>2017-01-20T11:37:00-06:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/the-advantages-of-using-local-lender.html</loc>
+<lastmod>2016-12-12T16:39:00-06:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/how-to-pick-best-offer-on-your-house-1.html</loc>
+<lastmod>2016-11-29T10:41:00-06:00</lastmod>
 </url>
 <url>
 <loc>localhost:4000/a-quick-tour-of-sellwood-neighborhood.html</loc>
