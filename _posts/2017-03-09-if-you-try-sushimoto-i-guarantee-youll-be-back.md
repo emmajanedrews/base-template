@@ -3,14 +3,14 @@ layout: post
 title: "If You Try Sushimoto, I Guarantee You'll Be Back"
 tags:
   - Emerald Coast Vendors
-excerpt:
+excerpt: "This week I'm honored to feature Sushimoto, one of our favorite local restaurants here on the Emerald Coast."
 enclosure:
 pullquote: "If you mention the Nathan Abbott Team, you'll get a hot sake on the house."
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: YffYLr5u2Cs
 ---
 
 
