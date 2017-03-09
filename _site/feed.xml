@@ -1,88 +1,254 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Base Template</title>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</description>
+    <title>-- CLIENT BRAND --</title>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Stellar Realty Northwest - your professional Portland Real Estate Agents.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 03 Jan 2017 10:58:56 -0600</pubDate>
-    <lastBuildDate>Tue, 03 Jan 2017 10:58:56 -0600</lastBuildDate>
+    <pubDate>Tue, 28 Feb 2017 17:27:50 -0600</pubDate>
+    <lastBuildDate>Tue, 28 Feb 2017 17:27:50 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>this is a test post</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SFFy_drFrZs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title></title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps &lt;strong&gt;gastropub marfa r&lt;/strong&gt;etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.&lt;/p&gt;
+&lt;p&gt;Should you reach out to your Realtor in order to find a local lender? Yes. Real estate agents have access to many local lenders, credit unions, and mortgage companies.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Bushwick&lt;/em&gt; &lt;a href=&quot;'http://google.com'&quot;&gt;marfa&lt;/a&gt; wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.&lt;/p&gt;
+&lt;p&gt;Larger institutions can’t service your financing needs as well as mortgage companies. They usually offer limited products, whereas mortgage companies usually offer 15 products or more. You’ll also face a better chance of pre-approval with a mortgage company because they offer more loan products to choose from and are more flexible with down payments and credit scores.&lt;/p&gt;
 
-&lt;p&gt;Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.&lt;/p&gt;
+&lt;p&gt;The advantages of working with a preferred lender are numerous. Our preferred lenders have amazing customer service, they’re great to work with, and they’re always available after hours and on the weekends.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This is an example of a pull quote%20localhost:4000/this-is-a-test.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This is an example of a pull quote”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.&lt;/p&gt;
-
-&lt;p&gt;Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…&lt;/p&gt;
+&lt;p&gt;If you have any questions about our preferred lenders or what’s going on in the real estate market, please give me a call or send me an email. I look forward to hearing from you.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 04 Oct 2016 00:00:00 -0500</pubDate>
-        <link>localhost:4000/this-is-a-test.html</link>
-        <guid isPermaLink="true">localhost:4000/this-is-a-test.html</guid>
-        
-        <category>Market Update</category>
-        
-        <category>Real Estate</category>
-        
-        <category>Buyer Tips</category>
-        
-        <category>Home Seller Tips</category>
+        <pubDate>Tue, 28 Feb 2017 17:27:50 -0600</pubDate>
+        <link>localhost:4000/2016-12-12-the-advantages-of-using-local-lender.html</link>
+        <guid isPermaLink="true">localhost:4000/2016-12-12-the-advantages-of-using-local-lender.html</guid>
         
         
       </item>
     
       <item>
-        <title>this is a test</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SFFy_drFrZs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title></title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps &lt;strong&gt;gastropub marfa r&lt;/strong&gt;etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.&lt;/p&gt;
+&lt;p&gt;When you’re selling your home and juggling multiple offers, is the highest offer always the best?&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Bushwick&lt;/em&gt; &lt;a href=&quot;'http://google.com'&quot;&gt;marfa&lt;/a&gt; wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Not necessarily. There are a lot of other variables in play, including the terms of the loan, whether or not it’s a cash offer, some contingencies, and the length of the closing. You should consider four things before accepting a buyer’s offer:&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
+  &lt;li&gt;Their financing&lt;/li&gt;
+  &lt;li&gt;The length of the closing period&lt;/li&gt;
+  &lt;li&gt;The terms of the loan&lt;/li&gt;
+  &lt;li&gt;Any contingencies&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.&lt;/p&gt;
+&lt;p&gt;Sometimes cash buyers are better than financed offers; however, cash buyers usually come in lower. A qualified professional can help you select the right offer by recognizing the strengths and weaknesses of each one.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This is an example of a pull quote%20localhost:4000/a-fox-in-space.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This is an example of a pull quote”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.&lt;/p&gt;
-
-&lt;p&gt;Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…&lt;/p&gt;
+&lt;p&gt;If you have any questions about buying or selling real estate, feel free to give me a call or shoot me an email. I look forward to hearing from you.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 28 Sep 2016 00:00:00 -0500</pubDate>
-        <link>localhost:4000/a-fox-in-space.html</link>
-        <guid isPermaLink="true">localhost:4000/a-fox-in-space.html</guid>
+        <pubDate>Tue, 28 Feb 2017 17:27:50 -0600</pubDate>
+        <link>localhost:4000/2016-11-29-how-to-pick-best-offer-on-your-house-1.html</link>
+        <guid isPermaLink="true">localhost:4000/2016-11-29-how-to-pick-best-offer-on-your-house-1.html</guid>
         
-        <category>Market Update</category>
         
-        <category>Real Estate</category>
+      </item>
+    
+      <item>
+        <title>5 Ways to Get Your Home Ready for Sale</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/u67F62LkCN8?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Here are five ways you can prepare your home for sale:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Clean &amp;amp; declutter. Remove any excess furniture and belongings that are on the countertops or shelving to make the interior space feel more open.&lt;/li&gt;
+  &lt;li&gt;Depersonalize. Remove any photos or personal items that are specific to your family and lifestyle so that the new buyers can picture their family in that space.
+&lt;a href=&quot;https://twitter.com/home/?status=The way the home looks from the curb is what draws buyers inside.%20localhost:4000/5-ways-to-get-your-home-ready-for-sale.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“The way the home looks from the curb is what draws buyers inside.”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Do minor repairs. You don’t necessarily need to retile the bathroom or remodel the kitchen, but you do want to take care of other minor things, like making sure the doors and cabinets open and close correctly, patching up holes and nicks in the walls, or repainting the walls and trimming where needed.&lt;/li&gt;
+  &lt;li&gt;Enhance curb appeal. Make sure that the exterior of the home and yard is clean and tidy. One thing that makes a big impact is adding bright and colorful flowers and pots. Remember, it’s the way the home looks from the curb that draws buyers inside.&lt;/li&gt;
+  &lt;li&gt;Detach emotionally. Start to think of it as a house rather than your home. You want to visualize the new buyers moving in and yourself moving on to the next stage of your life.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If you have any questions or would like more information regarding this topic, please feel free to give me a call or send me an email. I look forward to helping you in any way I can.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Jan 2017 11:37:00 -0600</pubDate>
+        <link>localhost:4000/5-ways-to-get-your-home-ready-for-sale.html</link>
+        <guid isPermaLink="true">localhost:4000/5-ways-to-get-your-home-ready-for-sale.html</guid>
         
-        <category>Buyer Tips</category>
+        <category>seller tips</category>
         
-        <category>Home Seller Tips</category>
+        
+      </item>
+    
+      <item>
+        <title>A Quick Tour of the Sellwood Neighborhood</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/s0W4OChYnKI?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Today, we wanted to take you on a quick tour of the lovely Sellwood neighborhood in Portland. Sellwood is located on the east bank of the Willamette River, near the southern end of Ross Island. It’s about two miles long and a mile wide.&lt;/p&gt;
+
+&lt;p&gt;Sellwood is a teardrop-shaped area that’s rich in natural and recreational amenities, including four public parks. Sellwood also boasts a full range of businesses and services, like specialty retail stores, antiques, grocery stores, hardware stores, banks, and dry cleaners to name a few.&lt;/p&gt;
+
+&lt;p&gt;It’s a very walkable neighborhood for both errands and exercise.&lt;/p&gt;
+
+&lt;p&gt;One of the great parks is Sellwood Riverfront Park, which stretches 7.6 acres along the river in Southeast Portland. The park has a boat dock, canoe launch, an off-leash dog area, paths, and riverfront views. It’s a popular area for celebrating the Fourth of July thanks to the great views of the downtown fireworks. The park is just south of the famous Oaks Amusement Park and Roller Rink.&lt;/p&gt;
+
+&lt;p&gt;Sellwood has a New Seasons Market nestled right in the middle. New Seasons is a locally-owned chain of grocery stores that supplies many locally-sourced items and sells home goods and wellness products as well.&lt;/p&gt;
+
+&lt;p&gt;In the video above, you can see a good example of a Sellwood house. This bungalow was built in 1904 and is 1,899 square feet with three bedrooms and one bathroom. This home sold for $500,000 in November 2015.&lt;/p&gt;
+
+&lt;p&gt;I hope you enjoyed this look at Sellwood! If you’re interested in buying or selling a home in Portland, give me a call or send me an email. I’d love to work with you!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 Nov 2016 13:29:00 -0600</pubDate>
+        <link>localhost:4000/a-quick-tour-of-sellwood-neighborhood.html</link>
+        <guid isPermaLink="true">localhost:4000/a-quick-tour-of-sellwood-neighborhood.html</guid>
+        
+        <category>Portland neighborhoods</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>How Does Housing Inventory Affect Your Home’s Value?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Qu8pHOwYP4U?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Why is housing inventory an important statistic to track on the market?&lt;/p&gt;
+
+&lt;p&gt;Housing inventory is measured in months of inventory. This is basically how many months it would take for all of the available homes to sell if no new homes were listed on the market.&lt;/p&gt;
+
+&lt;p&gt;A good housing inventory would be about four to five months of houses on the market. If that number is smaller than four, it means that the home buyers are dominating the market and that there are relatively few sellers. In that market, home sellers have the advantage. A number over five would mean that buyers have the advantage in the market.&lt;/p&gt;
+
+&lt;p&gt;How does housing inventory affect your home’s value? While your home’s value is affected by size, location, and condition, a tight real estate market—or one with a lower inventory—will always drive prices up. It’s the law of scarcity.&lt;/p&gt;
+
+&lt;p&gt;If you’d like to know the current housing inventory in your area or have any other questions related to real estate, please give me a call or send me an email. I’d be happy to help you!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 07 Nov 2016 10:13:00 -0600</pubDate>
+        <link>localhost:4000/how-does-housing-inventory-affect-your.html</link>
+        <guid isPermaLink="true">localhost:4000/how-does-housing-inventory-affect-your.html</guid>
+        
+        <category>seller tips</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>A Tour of the Woodstock Neighborhood</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SaA1PyCIg5Q?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Today I’m excited to give you a quick tour of the Woodstock neighborhood in Portland.&lt;/p&gt;
+
+&lt;p&gt;This area has some great restaurants, grocery stores, health care facilities, and many kinds of shops, all within walking distance. My person personal favorite is New Seasons, which has a rooftop bar.&lt;/p&gt;
+
+&lt;p&gt;The neighborhood has many mid-century homes and some turn of the century homes, as well as new construction. In the video above, you can see a quaint mid-century ranch with two bedrooms and two bathrooms, which sold in March 2016 for just under $400,000.&lt;/p&gt;
+
+&lt;p&gt;Thanks for joining me on the tour. If you have any questions about this wonderful neighborhood, give me a call or send me an email. I’d be happy to help you!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 31 Oct 2016 14:33:00 -0500</pubDate>
+        <link>localhost:4000/a-tour-of-woodstock-neighborhood.html</link>
+        <guid isPermaLink="true">localhost:4000/a-tour-of-woodstock-neighborhood.html</guid>
+        
+        <category>Portland neighborhoods</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>How The Appraisal Process Works</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/gTAUuo4SLtw?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;One of the most crucial aspects of buying or selling a Portland home is the appraisal of the property. Here are some of the key parts of the process:&lt;/p&gt;
+
+&lt;p&gt;What is an appraisal? A non-biased third party will physically come to the property and inspect the interior and exterior of the home. The appraiser will then pull comparisons from the neighborhood—typically homes that have sold or are currently pending within a close radius—gather the information, put it into a very thorough report, and come up with a value. Upon finishing the report, the appraiser will then send it to the lender, the lender will contact the buyer, and the buyer will be able to pick the report apart to find out how the value was calculated.&lt;/p&gt;
+
+&lt;p&gt;How do appraisals affect the home buyer? The appraisal is performed to protect the buyer from overpaying for the property.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=The appraisal protects the buyer from overpaying for the property.%20localhost:4000/how-appraisal-process-works.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“The appraisal protects the buyer from overpaying for the property.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;How do appraisals affect the home seller? If the appraisal comes in below the sales price, the borrower will not be able to obtain a loan to purchase the property. If this is the case, either the seller will have to lower their sales price to accommodate the appraised value, or the buyer can come in with a larger down payment to make up the difference.&lt;/p&gt;
+
+&lt;p&gt;If you have any other questions about the appraisal process and what to expect during it, or you’re thinking about buying or selling Portland real estate, give me a call or send me an email. I’d be happy to help you!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 14 Oct 2016 16:05:00 -0500</pubDate>
+        <link>localhost:4000/how-appraisal-process-works.html</link>
+        <guid isPermaLink="true">localhost:4000/how-appraisal-process-works.html</guid>
+        
+        <category>The Appraisal Process</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Explore the Mississippi Ave. Neighborhood in North Portland</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/AbTuVBcJunc?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Mississippi Avenue is a north Portland neighborhood that runs just east of the I-5 between Skidmore and Freemont. This neighborhood is a cozy pocket of Portland near the PCC Cascade campus and allows easy access to the interstate and the MAX.&lt;/p&gt;
+
+&lt;p&gt;My favorite eatery in Mississippi Ave is Prost! Stop by Prost! for a great German meal with beer and sausage. The best thing to order for lunch is the German Pretzel Sandwich with German potato salad and a Franziskaner beer.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Mississippi Avenue is a great, cozy pocket of Portland.%20localhost:4000/portland-real-estate-agent-mississippi.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Mississippi Avenue is a great, cozy pocket of Portland.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Of course, for a true taste of Portland cuisine, you should visit Homegrown Smoker Vegan BBQ. I recommend the Slowsmomofo Sandwich with Mac-No-Cheese. It’s delicious!&lt;/p&gt;
+
+&lt;p&gt;For a true Portland recycling experience, hop into the Rebuilding Center. You can find a variety of affordable building materials and things you didn’t even know you needed.&lt;/p&gt;
+
+&lt;p&gt;The average home price on Mississippi Avenue is $450,000. This neighborhood features an eclectic combination of home styles including new homes, quaint bungalows, old Portland craftsman homes, and Victorians. In fact, a gorgeous Victorian home that was built in 1896 sold this May for $700,000. The 3,000 square foot home has four bedrooms, two bathrooms, and a carriage house that was converted into an additional dwelling. This is just one innovative way that Portland is answering the call for more housing.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions about this neighborhood or other areas in Portland, give us a call or send us an email. We would be happy to help you!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 16 Sep 2016 17:06:00 -0500</pubDate>
+        <link>localhost:4000/portland-real-estate-agent-mississippi.html</link>
+        <guid isPermaLink="true">localhost:4000/portland-real-estate-agent-mississippi.html</guid>
+        
+        <category>Portland neighborhoods</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Maintaining Your Heating/Cooling Systems</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/81p44lOiMf4?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;With summer nearly over, I’m sure you (like us) have been reminded just how much we use our air conditioning. Soon, in the winter, you’ll be reminded of how often you use the furnace, too.&lt;/p&gt;
+
+&lt;p&gt;It’s one of the major systems in your home, and a surprise issue with one of these systems can be a nightmare if handled improperly. That’s why we wanted to share a video from Angie’s List that we recently saw about proper maintenance of your heating and cooling systems.&lt;/p&gt;
+
+&lt;p&gt;If either unit is having issues, did you know you can actually hire technicians who are specially trained to work on certain brands? For example, if you have a Trane system, you can find a tech who is trained specifically to work on Trane products.&lt;/p&gt;
+
+&lt;p&gt;Secondly, always remember to get a second opinion when someone recommends that you replace a system because oftentimes a repair will do. You want to be certain when it comes to a part of your home that should last 20 years, especially considering the cost of a replacement.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, as the video points out, there are a lot of people out there in that deal in these systems and prey on customers that don’t know any better. If you’re hiring a company, you should investigate them by checking out their web reviews or social media pages.&lt;/p&gt;
+
+&lt;p&gt;Also, be proactive with service with on these systems. If you wait until the system is broken down and needs repair to get it checked out, you’re now at their mercy.&lt;/p&gt;
+
+&lt;p&gt;As always, for any real estate questions for the Syracuse area, feel free to give me a call or send me an email. I’d be happy to answer them for you!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 25 Aug 2016 13:48:00 -0500</pubDate>
+        <link>localhost:4000/homeowner-tips-for-hvac-maintenance.html</link>
+        <guid isPermaLink="true">localhost:4000/homeowner-tips-for-hvac-maintenance.html</guid>
+        
+        <category>Home Owner Tips</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>How to Stand Out When Buying in Portland</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/3bVys2NM-Fk?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;How can you stand out as a buyer in the competitive Portland real estate market? There are a few ways to achieve this.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Pre-approval from your lender and a competitive offer. A pre-approval shows you are qualified for a mortgage and are financially able to buy their home. These days, sellers won’t take an offer seriously without a pre-approval letter, especially in competitive markets like Portland. Don’t even consider making a lowball offer. Sellers have a slight edge in this market, so if you want your offer to stand out, you need to show that you’re serious.&lt;/li&gt;
+  &lt;li&gt;Quick timelines on inspections and appraisals. Sometimes, a competitive offer price isn’t even enough. To many sellers, favorable time lines like those on inspections, appraisals, and closing carry more value than a few thousands dollars. The buyer’s agent should reach out to the listing agent to find out the seller’s goals and if they want to close quickly or if they want to close after their children are done with the school year.&lt;/li&gt;
+  &lt;li&gt;Trust for your agent. Your agent is a real estate professional who works full-time studying the market in order to get you the best deal. They’re also expert negotiators who can get you the best deal on a home and find ways to make your offer more attractive to a home seller.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We can help with all of these factors. If you have any questions, don’t hesitate to reach out.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 25 May 2016 16:14:00 -0500</pubDate>
+        <link>localhost:4000/portland-real-estate-stand-out-in.html</link>
+        <guid isPermaLink="true">localhost:4000/portland-real-estate-stand-out-in.html</guid>
+        
+        <category>Portland Real Estate Buyer Tips</category>
         
         
       </item>

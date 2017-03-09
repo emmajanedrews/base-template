@@ -3,38 +3,44 @@ title: -- CLIENT BRAND --
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
-  - title:
-    url:
+  - title: Featured Listings
+    url: http://www.portlandpropertyfinders.com/results/?OfficeMLS=SRNW01
+  - title: Finance
+    url: http://www.portlandpropertyfinders.com/finance/
+  - title: Agents
+    url: http://www.portlandpropertyfinders.com/agents/
 
 client:
-  name:
+  name: Scott Besaw and Paul Campbell
   license_number:
   about_markdown: |
-
-  market:
-  brand:
+    Since opening its doors in 2009, Stellar Realty Northwest has done $39.5 million dollars in sales volume and over 175 transactions. Over the years, Scott Besaw and Paul Campbell have helped facilitate a wide range of real estate sales including bank-owned, short sales, bare land, condos, and luxury homes. In order to accommodate the team's vast experience with a variety of real estate endeavors, our office is centrally located in order to best serve all of Portland and its surrounding areas.
+    <br><br>
+    Along with a team that includes agents with over 40 years of combined experience and a full-time office support staff, Stellar Realty Northwest has helped hundreds of buyers and sellers reach their real-estate goals. Their unique team approach, combined with industry leading technology, has allowed them to provide an experience for their clients that is unparalleled in the industry.
+  market: Portland
+  brand: Stellar Realty Northwest
   brokerage:
-  address:
-  phone:
+  address: 5530 SW Kelly Ave<br>Portland, OR 97239
+  phone: 503-265-8153
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Info@StellarNW.com
+  url: http://PortlandPropertyFinders.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.portlandpropertyfinders.com/home-valuation/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
-  VR_form:
+  second_CTA_URL: http://www.portlandpropertyfinders.com/results/
+  VR_form: http://oi.vresp.com?fid=34a3742877
 
 sidebar_CTA:
-  CTA_image_path: /img/cta-images/004.jpg
+  CTA_image_path: /img/cta-images/005.jpg
   CTA_title: Looking to Buy a Home?
   CTA_text: Search the entire MLS for homes located in -- MARKET --.
   CTA_link_text: Home Search Tool
-  CTA_url: /homesearch/
+  CTA_url: http://www.portlandpropertyfinders.com/results/
 
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
@@ -54,9 +60,9 @@ socials:
   twitter_url:
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
+  zillow_url: http://www.zillow.com/profile/Stellar-RealtyNW/
+  trulia_url: http://www.trulia.com/profile/scottbesaw/
+  yelp_url: http://www.yelp.com/biz/stellar-realty-northwest-portland-2
   podcast_url:
 
 podcast:
@@ -77,8 +83,8 @@ images:
   hero_image_path: /img/background.jpg
 
 site_colors:
-  brand_color: '#C14547'
-  theme_color: '#005473'
+  brand_color: '#4D8C40'
+  theme_color: '#000'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -95,7 +101,7 @@ buttons:
   button_padding_height_number: 15
   button_border_color: '#ffffff'
   button_background_color: '#ffffff'
-  button_text_color: '#123456'
+  button_text_color: '#4D8C40'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'
