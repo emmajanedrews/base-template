@@ -23,8 +23,8 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://www.kylefernandez.com/free_home_valuation'
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://www.kylefernandez.com/mls-search'
-  VR_form: http://oi.vresp.com?fid=66cf4960b0
+  second_CTA_URL: 'http://www.kylefernandez.com/mls-property-search'
+  VR_form: 'http://oi.vresp.com?fid=66cf4960b0'
 sidebar_CTA:
   CTA_image_path: /img/cta-images/002.jpg
   CTA_title: Looking to Buy a Home?
@@ -54,7 +54,8 @@ socials:
   podcast_url:
 podcast:
   title: PalmerHouse Properties Real Estate Podcast with Kyle Fernandez
-  categories: Education
+  categories:
+    - Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
