@@ -2332,11 +2332,9 @@ table tr, table td {
   .review-button-wrapper {
     text-align: center; } }
 .client-image-container {
-  border-radius: 50%;
   width: 200px;
   height: 200px;
-  border: 3px solid #8bba33;
-  overflow: hidden;
+  margin: 10px auto 0 6rem;
   display: inline-block;
   margin: auto; }
 

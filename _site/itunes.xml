@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title></title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://stellarrealtyblog.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://stellarrealtyblog.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Stellar Realty Northwest - your professional Portland Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Scott Besaw and Paul Campbell</managingEditor>
-    <lastBuildDate>2017-03-09 10:48:09 -0600</lastBuildDate>
+    <lastBuildDate>2017-03-09 11:34:44 -0600</lastBuildDate>
     <media:copyright>Scott Besaw and Paul Campbell</media:copyright>
-    <media:thumbnail url="localhost:4000"/>
+    <media:thumbnail url="http://stellarrealtyblog.com"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
@@ -18,7 +18,7 @@
     </itunes:owner>
     <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000"/>
+    <itunes:image href="http://stellarrealtyblog.com"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Portland Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Stellar Realty Northwest - your professional Portland Real Estate Agents.</itunes:summary>
@@ -26,7 +26,7 @@
     
       <item>
         <title>5 Ways to Get Your Home Ready for Sale</title>
-        <link>localhost:4000/5-ways-to-get-your-home-ready-for-sale.html</link>
+        <link>http://stellarrealtyblog.com/5-ways-to-get-your-home-ready-for-sale.html</link>
         
           <category>seller tips</category>
         
@@ -49,7 +49,7 @@ Here are five ways you can prepare your home for sale:
 If you have any questions or would like more information regarding this topic, please feel free to give me a call or send me an email. I look forward to helping you in any way I can.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>There are five simple things you can do to your home to get it ready for sale.</itunes:subtitle>
@@ -60,7 +60,7 @@ If you have any questions or would like more information regarding this topic, p
       
       <item>
         <title>The Advantages of Using a Local Lender</title>
-        <link>localhost:4000/the-advantages-of-using-local-lender.html</link>
+        <link>http://stellarrealtyblog.com/the-advantages-of-using-local-lender.html</link>
         
           <category>Portland Real Estate Buyer Tips</category>
         
@@ -78,7 +78,7 @@ The advantages of working with a preferred lender are numerous. Our preferred le
 If you have any questions about our preferred lenders or what’s going on in the real estate market, please give me a call or send me an email. I look forward to hearing from you.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>If you need financing, you should reach out to your Realtor in order to find a local lender that can provide better service than a larger institution.</itunes:subtitle>
@@ -89,7 +89,7 @@ If you have any questions about our preferred lenders or what’s going on in th
       
       <item>
         <title>How to Pick the Best Offer on Your House</title>
-        <link>localhost:4000/how-to-pick-best-offer-on-your-house-1.html</link>
+        <link>http://stellarrealtyblog.com/how-to-pick-best-offer-on-your-house-1.html</link>
         
           <category>seller tips</category>
         
@@ -114,7 +114,7 @@ Sometimes cash buyers are better than financed offers; however, cash buyers usua
 If you have any questions about buying or selling real estate, feel free to give me a call or shoot me an email. I look forward to hearing from you.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>When you're considering multiple offers on your home, there are many other variables besides price to consider before making a decision.</itunes:subtitle>
@@ -125,7 +125,7 @@ If you have any questions about buying or selling real estate, feel free to give
       
       <item>
         <title>A Quick Tour of the Sellwood Neighborhood</title>
-        <link>localhost:4000/a-quick-tour-of-sellwood-neighborhood.html</link>
+        <link>http://stellarrealtyblog.com/a-quick-tour-of-sellwood-neighborhood.html</link>
         
           <category>Portland neighborhoods</category>
         
@@ -149,7 +149,7 @@ In the video above, you can see a good example of a Sellwood house. This bungalo
 I hope you enjoyed this look at Sellwood! If you’re interested in buying or selling a home in Portland, give me a call or send me an email. I’d love to work with you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Today we're taking a quick look at the Sellwood neighborhood in Portland, located on the east bank of the Willamette River. It's a walkable neighborhood with tons of great amenities.</itunes:subtitle>
@@ -160,7 +160,7 @@ I hope you enjoyed this look at Sellwood! If you’re interested in buying or se
       
       <item>
         <title>How Does Housing Inventory Affect Your Home’s Value?</title>
-        <link>localhost:4000/how-does-housing-inventory-affect-your.html</link>
+        <link>http://stellarrealtyblog.com/how-does-housing-inventory-affect-your.html</link>
         
           <category>seller tips</category>
         
@@ -180,7 +180,7 @@ How does housing inventory affect your home’s value? While your home’s value
 If you’d like to know the current housing inventory in your area or have any other questions related to real estate, please give me a call or send me an email. I’d be happy to help you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>What do you need to know about current housing inventory? Here is a brief rundown.</itunes:subtitle>
@@ -191,7 +191,7 @@ If you’d like to know the current housing inventory in your area or have any o
       
       <item>
         <title>A Tour of the Woodstock Neighborhood</title>
-        <link>localhost:4000/a-tour-of-woodstock-neighborhood.html</link>
+        <link>http://stellarrealtyblog.com/a-tour-of-woodstock-neighborhood.html</link>
         
           <category>Portland neighborhoods</category>
         
@@ -209,7 +209,7 @@ The neighborhood has many mid-century homes and some turn of the century homes, 
 Thanks for joining me on the tour. If you have any questions about this wonderful neighborhood, give me a call or send me an email. I’d be happy to help you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>We recently took a tour of the Woodstock neighborhood, and I wanted to give you a look. This neighborhood has some great shops and restaurants, and plenty of architectural charm.</itunes:subtitle>
@@ -220,7 +220,7 @@ Thanks for joining me on the tour. If you have any questions about this wonderfu
       
       <item>
         <title>How The Appraisal Process Works</title>
-        <link>localhost:4000/how-appraisal-process-works.html</link>
+        <link>http://stellarrealtyblog.com/how-appraisal-process-works.html</link>
         
           <category>The Appraisal Process</category>
         
@@ -242,7 +242,7 @@ How do appraisals affect the home seller? If the appraisal comes in below the sa
 If you have any other questions about the appraisal process and what to expect during it, or you’re thinking about buying or selling Portland real estate, give me a call or send me an email. I’d be happy to help you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>You may know that getting an appraisal is an important part of any home purchase transaction, but do you know how the process works?</itunes:subtitle>
@@ -253,7 +253,7 @@ If you have any other questions about the appraisal process and what to expect d
       
       <item>
         <title>Explore the Mississippi Ave. Neighborhood in North Portland</title>
-        <link>localhost:4000/portland-real-estate-agent-mississippi.html</link>
+        <link>http://stellarrealtyblog.com/portland-real-estate-agent-mississippi.html</link>
         
           <category>Portland neighborhoods</category>
         
@@ -277,7 +277,7 @@ The average home price on Mississippi Avenue is $450,000. This neighborhood feat
 If you have any questions about this neighborhood or other areas in Portland, give us a call or send us an email. We would be happy to help you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -296,7 +296,7 @@ Mississippi Avenue is a north Portland neighborhood that runs just east of the I
       
       <item>
         <title>Maintaining Your Heating/Cooling Systems</title>
-        <link>localhost:4000/homeowner-tips-for-hvac-maintenance.html</link>
+        <link>http://stellarrealtyblog.com/homeowner-tips-for-hvac-maintenance.html</link>
         
           <category>Home Owner Tips</category>
         
@@ -320,7 +320,7 @@ Also, be proactive with service with on these systems. If you wait until the sys
 As always, for any real estate questions for the Syracuse area, feel free to give me a call or send me an email. I’d be happy to answer them for you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -339,7 +339,7 @@ With summer nearly over, I’m sure you (like us) have been reminded just how mu
       
       <item>
         <title>How to Stand Out When Buying in Portland</title>
-        <link>localhost:4000/portland-real-estate-stand-out-in.html</link>
+        <link>http://stellarrealtyblog.com/portland-real-estate-stand-out-in.html</link>
         
           <category>Portland Real Estate Buyer Tips</category>
         
@@ -359,7 +359,7 @@ How can you stand out as a buyer in the competitive Portland real estate market?
 We can help with all of these factors. If you have any questions, don’t hesitate to reach out.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -378,7 +378,7 @@ How can you stand out as a buyer in the competitive Portland real estate market?
       
       <item>
         <title>See All That Wonderful Dunthorpe Has to Offer</title>
-        <link>localhost:4000/portland-real-estate-tour-of-gorgeous.html</link>
+        <link>http://stellarrealtyblog.com/portland-real-estate-tour-of-gorgeous.html</link>
         
           <category>Portland neighborhoods</category>
         
@@ -404,7 +404,7 @@ Take a look at Elk Rock Gardens, one of my favorite spaces in all of Dunthorpe. 
 Thanks so much for joining me in our tour through the beautiful Dunthorpe neighborhood. Please feel free to reach out to me with any questions. I look forward to hearing from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -423,7 +423,7 @@ Located just minutes south of downtown and right next to Lewis And Clark College
       
       <item>
         <title>What Are Our Favorite Places in Milwaukie?</title>
-        <link>localhost:4000/portland-real-estate-milwaukie-oregon.html</link>
+        <link>http://stellarrealtyblog.com/portland-real-estate-milwaukie-oregon.html</link>
         
           <category>portland neighborhood</category>
         
@@ -447,7 +447,7 @@ The orange light rail system connects Milwaukie to the city of Portland and trav
 If you have any questions for us about this area, or anything else real estate related, we would love to hear from you. Give us a call or send us an email today!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -466,7 +466,7 @@ Today we are excited to give you a tour of one of our favorite areas in Portland
       
       <item>
         <title>West Linn Neighborhood Tour</title>
-        <link>localhost:4000/portland-real-estate-west-linn.html</link>
+        <link>http://stellarrealtyblog.com/portland-real-estate-west-linn.html</link>
         
           <category>Portland neighborhoods</category>
         
@@ -488,7 +488,7 @@ We are also named ‘Tree City USA’ by the Arbor Day foundation for our commit
 If you want to find out more about West Linn, please don’t hesitate to contact me!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -507,7 +507,7 @@ West Linn is located in Clackamas County and it’s where I was born and raised.
       
       <item>
         <title>Tips for Holiday Decorating on a Budget</title>
-        <link>localhost:4000/holiday-decorating-on-budget.html</link>
+        <link>http://stellarrealtyblog.com/holiday-decorating-on-budget.html</link>
         
           <category>holiday tips</category>
         
@@ -526,7 +526,7 @@ As you can see, it doesn’t take much to make your home feel more festive. If y
 
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -545,7 +545,7 @@ The holidays are approaching. Today, we thought we’d do something a little dif
       
       <item>
         <title>How We Helped Monty Find a Home on a Budget</title>
-        <link>localhost:4000/customer-testimonial-monty-foust.html</link>
+        <link>http://stellarrealtyblog.com/customer-testimonial-monty-foust.html</link>
         
           <category>Portland real estate agent</category>
         
@@ -558,7 +558,7 @@ The holidays are approaching. Today, we thought we’d do something a little dif
 “I was very happy. I worked with Caralee, and she worked hard to stick to my rigid budget. She got me in the house I wanted and stayed within my price range. She even stayed with me late at night putting in a counter offer on my home, when she didn’t have to. She did a great job!”-Monty Foust, Home Buyer
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -573,7 +573,7 @@ The holidays are approaching. Today, we thought we’d do something a little dif
       
       <item>
         <title>Portland Real Estate Classes for Buyers and Sellers </title>
-        <link>localhost:4000/portland-real-estate-classes.html</link>
+        <link>http://stellarrealtyblog.com/portland-real-estate-classes.html</link>
         
           <category>Portland real estate agent</category>
         
@@ -593,7 +593,7 @@ I’ve worked out a deal with Stellar Realty’s owner, Paul Campbell, and he’
 If you’re interested in learning more about these classes, please don’t hesitate to contact us or resister here! You won’t want to miss out on any of this information!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -612,7 +612,7 @@ I’m extremely excited to announce that the Oregon Association of Realtors has 
       
       <item>
         <title>Portland Neighborhood Spotlight: John's Landing</title>
-        <link>localhost:4000/getting-to-know-johns-landing.html</link>
+        <link>http://stellarrealtyblog.com/getting-to-know-johns-landing.html</link>
         
           <category>portland or real estate</category>
         
@@ -643,7 +643,7 @@ One of the best parts about John’s Landing is Willamette Park. There’s plent
 If you have any questions about John’s Landing, or if you want to search for homes in the neighborhood, visit Caralee.PortlandPropertyFinders.com. I would love to hear from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -662,7 +662,7 @@ Today, I want to give you a behind the scenes look at one of Portland’s most e
       
       <item>
         <title>How We Helped Kathy Through the Buying and Selling Process</title>
-        <link>localhost:4000/kathy-stevens-testimonial.html</link>
+        <link>http://stellarrealtyblog.com/kathy-stevens-testimonial.html</link>
         
           <category>Portland real estate agent</category>
         
@@ -683,7 +683,7 @@ Today, I want to give you a behind the scenes look at one of Portland’s most e
 We bought our new home, moved, and sold our previous home. In buying our new home, we knew what we were trying to find, but Caralee really listened to our unspoken needs. She could tell when we were in love with a house and when we weren’t. We almost talked ourselves into buying a house that we wouldn’t of been as great as the one we eventually found. We ended up spending less money for a better house, in a better location, because Caralee really listened to us. She was always in our corner and acted as an advocate for us! In selling our previous home, Caralee provided great advise for what we should and shouldn’t fix before selling.  In fact, there was one repair that needed to be done in our garage, and Caralee’s dad actually came over to fix it! She gave us great advice on how to price our home and it sold in no time!”-Kathy Stevens, Home Seller and Buyer
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -700,7 +700,7 @@ We bought our new home, moved, and sold our previous home. In buying our new hom
       
       <item>
         <title>Check Out the Mount Tabor Neighborhood </title>
-        <link>localhost:4000/mount-tabor-neighborhood.html</link>
+        <link>http://stellarrealtyblog.com/mount-tabor-neighborhood.html</link>
         
           <category>Portland real estate agent</category>
         
@@ -734,7 +734,7 @@ Tabor Tavern is located right in the heart of the neighborhood. The food is amaz
 Overall, the Mount Tabor neighborhood is a great place to live. In addition to the parks and restaurants, Mount Tabor offers a wide diversity of homes. If you have any questions, give me a call or send me an email. I look forward to hearing from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -753,7 +753,7 @@ Today, I’m going to give you a tour of one of my favorite neighborhoods in Por
       
       <item>
         <title>How Will Changing FHA Guidelines Affect You?</title>
-        <link>localhost:4000/changes-to-fha-guidelines.html</link>
+        <link>http://stellarrealtyblog.com/changes-to-fha-guidelines.html</link>
         
           <category>Portland real estate agent</category>
         
@@ -801,7 +801,7 @@ With the inventory as tight as it is; there is a good chance some of the pre-app
 As long as everyone is aware of these changes up front, closing times shouldn’t be too affected. Of course, the best way to prepare yourself for these changes is to reach out to a professional and begin the process sooner than later. You can reach Shelby at SSpencer@Primeres.com or (503) 572-8865. Of course, if you have questions or concerns on the real estate side of things, don’t hesitate to reach out to us. We would love to hear from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -820,7 +820,7 @@ Today, Shelby Spencer of Primary Residential Mortgage joins us to discuss some o
       
       <item>
         <title>Why Foster Powell Is the Neighborhood for You</title>
-        <link>localhost:4000/portland-real-estate-agent-foster-powell.html</link>
+        <link>http://stellarrealtyblog.com/portland-real-estate-agent-foster-powell.html</link>
         
           <category>Portland real estate agent</category>
         
@@ -848,7 +848,7 @@ Also, make sure to check out the Portland Mercado. This is a Latino-themed marke
 All in all, this is a fantastic neighborhood. If you’re interested in living in the Foster Powell neighborhood, give me a call or send me an email. I’d be happy to help you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -867,7 +867,7 @@ Today, I’m here to talk about the Foster Powell neighborhood, affectionately k
       
       <item>
         <title>The Top 10 Renovations that Are Sure to Save You Money</title>
-        <link>localhost:4000/portland-real-estate-renovation-on.html</link>
+        <link>http://stellarrealtyblog.com/portland-real-estate-renovation-on.html</link>
         
           <category>Portland real estate agent</category>
         
@@ -910,7 +910,7 @@ Not all renovations are necessary if you’re trying to get top dollar before a 
 Please don’t hesitate to reach out to me if you have any questions about this video, or if you have any Portland real estate needs!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -929,7 +929,7 @@ Today I’d like to share an interesting video I found on HGTV. It documents the
       
       <item>
         <title>What's Happening in Lake Oswego?</title>
-        <link>localhost:4000/portland-real-estate-lake-oswego.html</link>
+        <link>http://stellarrealtyblog.com/portland-real-estate-lake-oswego.html</link>
         
           <category>Lake Oswego real estate</category>
         
@@ -961,7 +961,7 @@ If you’re interested in properties in this town, please don’t hesitate to as
 To find a home in Lake Oswego, visit http://bit.do/LakeOswegoHomes.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -980,7 +980,7 @@ Today we’re in Lake Oswego, a charming town just south of Portland, and one of
       
       <item>
         <title>What's Happening in the Portland Real Estate Market?</title>
-        <link>localhost:4000/portland-real-estate-agent-trends.html</link>
+        <link>http://stellarrealtyblog.com/portland-real-estate-agent-trends.html</link>
         
           <category>Portland real estate agent</category>
         
@@ -1006,7 +1006,7 @@ For more information, click here to check out the fantastic article in the Portl
 If you have any other questions about the Portland real estate market, please don’t hesitate to contact us!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -1025,7 +1025,7 @@ It’s spring already, and the Portland real estate market is off to a hot start
       
       <item>
         <title>How Can You Make the Most of the Portland Market? </title>
-        <link>localhost:4000/portland-real-estate-agent-market-update.html</link>
+        <link>http://stellarrealtyblog.com/portland-real-estate-agent-market-update.html</link>
         
           <category>portland or real estate</category>
         
@@ -1053,7 +1053,7 @@ For more information, click here to check out the fantastic article in the Portl
 If you have any other questions about the Portland real estate market, please don’t hesitate to contact us!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -1072,7 +1072,7 @@ It’s spring already, and the Portland real estate market is off to a hot start
       
       <item>
         <title>Is the Winter a Good Time to Sell a Home?</title>
-        <link>localhost:4000/portland-oregon-real-estate.html</link>
+        <link>http://stellarrealtyblog.com/portland-oregon-real-estate.html</link>
         
           <category>seller tips</category>
         
@@ -1088,7 +1088,7 @@ The big advantage to selling in the winter is that buyers are more serious at th
 If you have any questions for us at all, give us a call or send us an email. See you next time!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -1107,7 +1107,7 @@ Today we are here to answer the question to whether or not you should still cont
       
       <item>
         <title>Portland Real Estate Market Update for Summer 2014</title>
-        <link>localhost:4000/portland-oregon-real-estate-2.html</link>
+        <link>http://stellarrealtyblog.com/portland-oregon-real-estate-2.html</link>
         
           <category>market update</category>
         
@@ -1125,7 +1125,7 @@ Most economists realize that inventory plays a big part in this market trend. Wh
 Right now is an amazing time to sell. We have just realized double digit appreciation in most of our local markets and interest rates continue to be at historic lows. Neither of these things may continue in the near future. New construction will start increasing as the economy grows, and we’ll be competing with brand new homes and new properties on the market. If you want to figure out what your home is worth, we can give you an instant  valuation right here on our site, or you can give us a call and we can give you a free, no obligation detailed home valuation.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -1144,7 +1144,7 @@ There is so much going on in the Portland real estate market right now.It’s be
       
       <item>
         <title>How we helped Rebecca with her real estate transaction by listening to her needs</title>
-        <link>localhost:4000/portland-oregon-real-estate-testimonial.html</link>
+        <link>http://stellarrealtyblog.com/portland-oregon-real-estate-testimonial.html</link>
         
           <category>testimoninal</category>
         
@@ -1157,7 +1157,7 @@ There is so much going on in the Portland real estate market right now.It’s be
 The whole experience exceeded my expectations. Our agent was so caring and she really listened to what we wanted. She always kept us informed of what was going on and kept checking in with me. The result was that we got the house that was exactly what we were looking for!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -1176,7 +1176,7 @@ The whole experience exceeded my expectations. Our agent was so caring and she r
       
       <item>
         <title>Attention Buyers: Act Quickly to Capitalize on Low Interest Rates</title>
-        <link>localhost:4000/portland-oregan-real-estate.html</link>
+        <link>http://stellarrealtyblog.com/portland-oregan-real-estate.html</link>
         
           <category>market update</category>
         
@@ -1203,7 +1203,7 @@ For more a more detailed look at these numbers, visit the main article here.
 If you have any questions regarding our market or the surrounding area, please feel free to call or email us. Thanks and have a great day!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -1222,7 +1222,7 @@ Prices have risen aggressively in the past year – some Portland areas have exp
       
       <item>
         <title>Portland Market Update: What do the Recent Price Increases Mean for You?</title>
-        <link>localhost:4000/portland-real-estate-market-update.html</link>
+        <link>http://stellarrealtyblog.com/portland-real-estate-market-update.html</link>
         
           <category>market update</category>
         
@@ -1242,7 +1242,7 @@ Mortgage rates are hovering at about 4.5% which makes it increasingly important 
 If this information interested you and you would like a report that is tailored to your specific situation, don’t hesitate to contact us. If you are also interested in buying or selling, ask us about our 59 day guarantee! Thanks and I look forward to reading your comments.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -1261,7 +1261,7 @@ Before I started on today’s topic, I wanted to ask for a favor. If there is an
       
       <item>
         <title>Sell Your Portland Home Quickly and for Top Dollar: Make Sure it's Priced Accurately!</title>
-        <link>localhost:4000/portland-or-real-estate-accurately.html</link>
+        <link>http://stellarrealtyblog.com/portland-or-real-estate-accurately.html</link>
         
           <category>portland houses for sale</category>
         
@@ -1287,7 +1287,7 @@ That offer could be lower is you had accurately priced the home correctly in the
 Our home evaluation is a great start, but if you would like a more detailed report we would be happy to generate one for you. This will help us see the entire picture before signing off on a recommended value for your property. Thanks and have a great day!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -1306,7 +1306,7 @@ As we move forward into 2014, I wanted to speak with you about accurately pricin
       
       <item>
         <title>Should You Get Pre-approved Before Shopping for a Home?</title>
-        <link>localhost:4000/should-you-get-pre-approved-before.html</link>
+        <link>http://stellarrealtyblog.com/should-you-get-pre-approved-before.html</link>
         
           <category>portland houses for sale</category>
         
@@ -1330,7 +1330,7 @@ Today I wanted to talk about why it’s critically important to be pre-qualified
 Sellers also want to specifically see pre-approval letters from buyers up front; they may not even let you view their home without one, especially during the holiday season when time is precious. If you’re thinking about buying a house, be sure to check out our state of the art home search. Thanks and have a great day!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -1349,7 +1349,7 @@ Today I wanted to talk about why it’s critically important to be pre-qualified
       
       <item>
         <title>Should You List Your Home Through the Holidays?</title>
-        <link>localhost:4000/should-you-list-your-home-through.html</link>
+        <link>http://stellarrealtyblog.com/should-you-list-your-home-through.html</link>
         
           <category>portland houses for sale</category>
         
@@ -1373,7 +1373,7 @@ Today I wanted to discuss whether or not you should continue to list through the
 Thank you for taking the time to watch our educational video blog. If you are thinking about buying or selling a home, check out our free home evaluation website and you’re always welcome to give us a call at (503) 427-9233. Thanks and have a great day!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -1392,7 +1392,7 @@ Today I wanted to discuss whether or not you should continue to list through the
       
       <item>
         <title>Is Now A Good Time to Buy a Portland Home?</title>
-        <link>localhost:4000/is-now-good-time-to-buy.html</link>
+        <link>http://stellarrealtyblog.com/is-now-good-time-to-buy.html</link>
         
           <category>portland houses for sale</category>
         
@@ -1439,7 +1439,7 @@ Bubble+Watch+-+100+Metros+-+Q4+2013
 Note: each quarter’s Bubble Watch includes minor revisions to previous estimates because the underlying data sources are often revised or updated.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
