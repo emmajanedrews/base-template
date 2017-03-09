@@ -4,7 +4,7 @@ title: Announcing the Launch of My New Video Blog
 tags:
   - Real Estate
 excerpt: I’m launching my new video blog dedicated to sharing my real estate expertise with you. Here’s what else you can expect.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Daniel+Dixon/Denver+Real+Estate-+Announcing+the+Launch+of+My+New+Video+Blog.mp4'
 pullquote: What are you curious about when it comes to real estate?
 enclosure_type:
 enclosure_time:
