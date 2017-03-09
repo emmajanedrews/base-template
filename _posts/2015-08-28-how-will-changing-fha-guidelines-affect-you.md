@@ -1,16 +1,10 @@
 ---
 layout: post
 title: How Will Changing FHA Guidelines Affect You?
-date: '2015-08-28T09:21:00.000-07:00'
+date: 2015-08-28 16:21:00
 author: Emily Peterson
 tags:
-- Portland real estate agent
-- portland houses for sale
-- market update
-- seller tips
-- portland or homes for sale
-- Stellar Realty Portland
-- paul cambell
+  - Real Estate
 excerpt:
 enclosure:
 pullquote:
@@ -20,14 +14,15 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: zKeJ1ahEMtY
 ---
-{% include youtube.html %}
-Today, Shelby Spencer of Primary Residential Mortgage joins us to discuss some of the changes to FHA Guidelines starting September 14.
+
+
+{% include youtube.html %}Today, Shelby Spencer of Primary Residential Mortgage joins us to discuss some of the changes to FHA Guidelines starting September 14.
 
 The biggest change to look out for is with student loans, which can no longer be removed from the debt ratio if they are deferred. This means that all contracts or offers written after September 14 will be affected by these changes. Another change comes to large deposits; we used to only need to source large deposits of around 2% of the sales price, but deposits of 1% or more now need to be documented. In addition to these changes, know that funds can no longer be used as assets; you can't create a stronger profile with gift funds, although they can be used as a down payment.
 
 With the inventory as tight as it is; there is a good chance some of the pre-approved FHA buyers may find themselves losing their previously issued pre-approved status before they get an accepted offer. The new FHA guidelines take effect with FHA case numbers assigned on or after 9/14/15. (Case numbers can only be assigned when a property has been identified.)
 
-* The following bullet points are just a few of the areas that could affect buyers. I * recommend that all FHA pre-approved buyers contact their loan officer to review their * situation against the new guidelines. Here are some of the areas that are affected (I * will cover them in more detail soon):
+* The following bullet points are just a few of the areas that could affect buyers. I \* recommend that all FHA pre-approved buyers contact their loan officer to review their \* situation against the new guidelines. Here are some of the areas that are affected (I \* will cover them in more detail soon):
 * Federal Tax Liens
 * Mixed Use Property
 * Bankruptcy less than 2 years
