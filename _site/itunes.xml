@@ -6,21 +6,21 @@
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:5000"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Gresh Group - your professional Northern Virginia Real Estate Agents.</description>
     <language>en</language>
-    <managingEditor>-- CLIENT NAME --</managingEditor>
-    <lastBuildDate>2016-12-21 12:54:55 -0600</lastBuildDate>
-    <media:copyright>-- CLIENT NAME --</media:copyright>
+    <managingEditor>Janet Gresh</managingEditor>
+    <lastBuildDate>2017-03-10 11:22:19 -0600</lastBuildDate>
+    <media:copyright>Janet Gresh</media:copyright>
     <media:thumbnail url="localhost:5000"/>
-    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
+    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
       <itunes:email>sales@TheGreshGroup.com</itunes:email>
-      <itunes:name>-- CLIENT NAME --</itunes:name>
+      <itunes:name>Janet Gresh</itunes:name>
     </itunes:owner>
-    <itunes:author>-- CLIENT NAME --</itunes:author>
+    <itunes:author>Janet Gresh</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="localhost:5000"/>
-    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
+    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Northern Virginia Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Gresh Group - your professional Northern Virginia Real Estate Agents.</itunes:summary>
       <itunes:category text="News &amp; Politics"/>
     
@@ -30,7 +30,7 @@
         
           <category>Real Estate</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2016-12-19 13:29:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -45,14 +45,18 @@ We appreciate all of your continued support, and we look forward to helping you 
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+This time of year can get very busy, but we wanted to make sure we reached out to send you a special holiday message.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 This time of year can get very busy, but we wanted to make sure we reached out to send you a special holiday message.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -61,7 +65,7 @@ This time of year can get very busy, but we wanted to make sure we reached out t
         
           <category>Home Buyer Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2016-08-25 12:22:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -89,14 +93,18 @@ Now, this example is pretty broad. Each family has its own unique situation and 
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+We see a wide range of buyers, from those who want homes of a very specific size, style and architectural design, to buyers who simply want four walls, a roof, and electricity for their next home.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 We see a wide range of buyers, from those who want homes of a very specific size, style and architectural design, to buyers who simply want four walls, a roof, and electricity for their next home.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -105,7 +113,7 @@ We see a wide range of buyers, from those who want homes of a very specific size
         
           <category>Homeowner Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2016-08-09 12:18:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -140,14 +148,18 @@ As an expert in the Northern Virginia market, I can also help you pinpoint areas
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+I recently came across a great video from Consumer Reports about home updates and remodels that I just had to share with you.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 I recently came across a great video from Consumer Reports about home updates and remodels that I just had to share with you.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -156,7 +168,7 @@ I recently came across a great video from Consumer Reports about home updates an
         
           <category>Northern Virginia Real Estate Buyer Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2016-05-13 14:30:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -177,14 +189,18 @@ For all of your real estate needs from buying to selling please feel free to rea
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+As part of our commitment to customer service, we wanted to share with you a website we found that we think could be a great resource for any consumer.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 As part of our commitment to customer service, we wanted to share with you a website we found that we think could be a great resource for any consumer.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -193,7 +209,7 @@ As part of our commitment to customer service, we wanted to share with you a web
         
           <category>Northern Virginia Real Estate Seller Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2016-04-25 13:48:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -208,14 +224,18 @@ If you’re thinking about buying, you’ve got to do so before rates go up and 
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+A question I am often asked by buyers and sellers is, “Should I wait until next year to buy or sell my home?” It’s a difficult question to answer, and if I knew the future, I’d be the first one to tell you exactly what to do. What I do know, however, is that there is a cost to waiting to buy a property.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 A question I am often asked by buyers and sellers is, “Should I wait until next year to buy or sell my home?” It’s a difficult question to answer, and if I knew the future, I’d be the first one to tell you exactly what to do. What I do know, however, is that there is a cost to waiting to buy a property.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -224,7 +244,7 @@ A question I am often asked by buyers and sellers is, “Should I wait until nex
         
           <category>Northern Virginia Real Estate Buyer Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2016-03-22 14:41:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -239,14 +259,18 @@ A mortgage allows a tax deduction, and that savings is huge for you! Whenever I 
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+Today, we’ll address why it’s better to own rather than rent in Northern Virginia.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 Today, we’ll address why it’s better to own rather than rent in Northern Virginia.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -255,7 +279,7 @@ Today, we’ll address why it’s better to own rather than rent in Northern Vir
         
           <category>Northern Virginia Real Estate Market Update</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2016-03-07 10:50:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -270,14 +294,18 @@ What you need to know is that rates are incredibly low. Read more about it in th
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+Surprisingly, interest rates are still historically low. Many economic experts predicted interest rates would increase steadily through 2016. However, due to the combination of volatile economic reports and our falling stock market, we’ve actually seen interest rates decline.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 Surprisingly, interest rates are still historically low. Many economic experts predicted interest rates would increase steadily through 2016. However, due to the combination of volatile economic reports and our falling stock market, we’ve actually seen interest rates decline.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -286,7 +314,7 @@ Surprisingly, interest rates are still historically low. Many economic experts p
         
           <category>Northern Virginia Real Estate</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2016-02-15 15:47:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -307,14 +335,18 @@ If you have any questions about the other things we do behind your back to ensur
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+Whether you’re buying or selling a home, we are always looking at market trends – what homes are being sold and what homes are failing to sell. We are working constantly behind the scenes in order to help you get the real estate results you desire.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 Whether you’re buying or selling a home, we are always looking at market trends – what homes are being sold and what homes are failing to sell. We are working constantly behind the scenes in order to help you get the real estate results you desire.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -323,7 +355,7 @@ Whether you’re buying or selling a home, we are always looking at market trend
         
           <category>Northern Virginia Real Estate Seller Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2016-02-02 12:37:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -342,14 +374,18 @@ When selling this spring, remember that first impressions matter. If you would l
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+The first thing a buyer is going to see when they drive up to your house is the outside. Are the shrubs crisp and trim? Do you have fresh mulch and colorful flowers? Make sure you have done these things and that the door is clean and in good condition.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 The first thing a buyer is going to see when they drive up to your house is the outside. Are the shrubs crisp and trim? Do you have fresh mulch and colorful flowers? Make sure you have done these things and that the door is clean and in good condition.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -358,7 +394,7 @@ The first thing a buyer is going to see when they drive up to your house is the 
         
           <category>Northern Virginia Real Estate Seller Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2016-01-20 14:11:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -403,14 +439,18 @@ Most importantly, you should work with a professional Realtor like me to help yo
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+One of the most common questions I am asked is “what do I need to do to get my home ready to go on the market?” Today I’m going to show you the things you should do to prepare your home before putting it for sale!
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 One of the most common questions I am asked is “what do I need to do to get my home ready to go on the market?” Today I’m going to show you the things you should do to prepare your home before putting it for sale!
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -419,7 +459,7 @@ One of the most common questions I am asked is “what do I need to do to get my
         
           <category>Northern Virginia Real Estate Special  Message</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2015-12-22 11:09:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -430,13 +470,16 @@ From my family to yours, Happy Holidays! Thank you for your support this past ye
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+From my family to yours, Happy Holidays! Thank you for your support this past year. To hear the full holiday message from Emma and Adam, watch this short video!
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 From my family to yours, Happy Holidays! Thank you for your support this past year. To hear the full holiday message from Emma and Adam, watch this short video!
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -445,7 +488,7 @@ From my family to yours, Happy Holidays! Thank you for your support this past ye
         
           <category>Northern Virginia Real Estate Seller Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2015-12-09 13:02:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -466,14 +509,18 @@ If you’re interested in buying or selling a home or have a question about real
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+With the holidays upon us, there’s this misconception that it’s not a good time to sell your home. That’s not true!
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 With the holidays upon us, there’s this misconception that it’s not a good time to sell your home. That’s not true!
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -482,7 +529,7 @@ With the holidays upon us, there’s this misconception that it’s not a good t
         
           <category>Homeowner Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2015-12-01 17:10:00 -0600</pubDate>
         <guid></guid>
         <description>The holidays are approaching. Today, we thought we’d do something a little different and share this festive video on holiday decorating tips from HGTV. Designer Angelo Surmelis shares several great ideas to spread holiday cheer throughout the home. Here are some of our favorites.
@@ -499,12 +546,14 @@ As you can see, it doesn’t take much to make your home feel more festive. If y
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>The holidays are approaching. Today, we thought we’d do something a little different and share this festive video on holiday decorating tips from HGTV. Designer Angelo Surmelis shares several great ideas to spread holiday cheer throughout the home. Here are some of our favorites.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>The holidays are approaching. Today, we thought we’d do something a little different and share this festive video on holiday decorating tips from HGTV. Designer Angelo Surmelis shares several great ideas to spread holiday cheer throughout the home. Here are some of our favorites.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -513,7 +562,7 @@ As you can see, it doesn’t take much to make your home feel more festive. If y
         
           <category>Northern Virginia Real Estate</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2015-08-31 14:01:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -544,14 +593,18 @@ Thanks for joining me today. If you want to read the full article, click above. 
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+One thing we know for certain about the real estate market is that it is never going to stay the same for long. Today we want to talk about an interesting trend we’ve noticed in real estate: millennials are waiting longer to purchase their first homes than their parents did.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 One thing we know for certain about the real estate market is that it is never going to stay the same for long. Today we want to talk about an interesting trend we’ve noticed in real estate: millennials are waiting longer to purchase their first homes than their parents did.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -560,7 +613,7 @@ One thing we know for certain about the real estate market is that it is never g
         
           <category>Homeowner Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2015-08-18 16:17:00 -0500</pubDate>
         <guid></guid>
         <description>I recently found a good video on HGTV that I thought would be helpful to you if you’re preparing to sell your home. It’s essential that when you show your home to buyers, it’s clean, organized, and decluttered. You’ll want to empty out your closets, or at the very least, get them organized.
@@ -579,12 +632,14 @@ If you need any assistance with staging, decluttering, or selling, please don’
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>I recently found a good video on HGTV that I thought would be helpful to you if you’re preparing to sell your home. It’s essential that when you show your home to buyers, it’s clean, organized, and decluttered. You’ll want to empty out your closets, or at the very least, get them organized.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>I recently found a good video on HGTV that I thought would be helpful to you if you’re preparing to sell your home. It’s essential that when you show your home to buyers, it’s clean, organized, and decluttered. You’ll want to empty out your closets, or at the very least, get them organized.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -593,7 +648,7 @@ If you need any assistance with staging, decluttering, or selling, please don’
         
           <category>Northern Virginia Real Estate Seller Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2015-07-30 07:10:00 -0500</pubDate>
         <guid></guid>
         <description>If you are looking to sell your home, your goal is to get the most money possible in the shortest amount of time. One of the best ways to add value and appeal to your home is through home staging. Home staging is the art of selling a home faster by making a home more appealing to the right buyer. You have a lot of options for how you want to go about it. You could hire a professional staging company, which could be substantially costly. However, most of the time, a few simple fixes is all it takes to transform a living room.
@@ -616,12 +671,14 @@ If you have any questions for us about staging your home or anything else real e
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>If you are looking to sell your home, your goal is to get the most money possible in the shortest amount of time. One of the best ways to add value and appeal to your home is through home staging. Home staging is the art of selling a home faster by making a home more appealing to the right buyer. You have a lot of options for how you want to go about it. You could hire a professional staging company, which could be substantially costly. However, most of the time, a few simple fixes is all it takes to transform a living room.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>If you are looking to sell your home, your goal is to get the most money possible in the shortest amount of time. One of the best ways to add value and appeal to your home is through home staging. Home staging is the art of selling a home faster by making a home more appealing to the right buyer. You have a lot of options for how you want to go about it. You could hire a professional staging company, which could be substantially costly. However, most of the time, a few simple fixes is all it takes to transform a living room.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -630,7 +687,7 @@ If you have any questions for us about staging your home or anything else real e
         
           <category>Northern Virginia Real Estate Buyer Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2015-04-16 17:14:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -664,14 +721,18 @@ If you have any other questions about real estate, you can always give me a call
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+Welcome back! Today we are joined by John Reeves of Absolute Appraisal. We hire John from time to time to help us with appraisals for many of our sellers, so we wanted to introduce him to you today and have him answer a few questions you may have about what appraisers do.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 Welcome back! Today we are joined by John Reeves of Absolute Appraisal. We hire John from time to time to help us with appraisals for many of our sellers, so we wanted to introduce him to you today and have him answer a few questions you may have about what appraisers do.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -680,7 +741,7 @@ Welcome back! Today we are joined by John Reeves of Absolute Appraisal. We hire 
         
           <category>Northern Virginia Real Estate Seller Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2015-03-24 17:46:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -717,14 +778,18 @@ If you are thinking of renovating or selling your home, keep these things in min
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+I recently read the report called “The Housing Satisfaction Gap.” What’s interesting about this report is that it shows what features people have in their current homes, and what they would look for if they decided to buy a new home. It’s a good indicator of what buyers are looking for in the market. In the report, there were 7 things that stood out as the features people are craving the most in a new home. Here they are:
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 I recently read the report called “The Housing Satisfaction Gap.” What’s interesting about this report is that it shows what features people have in their current homes, and what they would look for if they decided to buy a new home. It’s a good indicator of what buyers are looking for in the market. In the report, there were 7 things that stood out as the features people are craving the most in a new home. Here they are:
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -733,7 +798,7 @@ I recently read the report called “The Housing Satisfaction Gap.” What’s i
         
           <category>Tax Assesments</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2015-03-04 15:37:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -750,14 +815,18 @@ If you think your property tax assessment is wrong, whether it’s too high or t
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+Spring is right around the corner, and you know what that means: Tax Season. If you haven’t gotten it already, the county will be sending out a property tax assessment for the property you own. They will tell you how much they think the property is worth, so they can tax you accordingly.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 Spring is right around the corner, and you know what that means: Tax Season. If you haven’t gotten it already, the county will be sending out a property tax assessment for the property you own. They will tell you how much they think the property is worth, so they can tax you accordingly.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -766,7 +835,7 @@ Spring is right around the corner, and you know what that means: Tax Season. If 
         
           <category>Northern Virginia Real Estate Buyer Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2015-02-04 12:28:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -785,14 +854,18 @@ If you have any questions for us, don’t hesitate to reach out to us via phone 
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+When you sell your home, you are likely going to hire an agent to help you sell your home because of their expertise. On the other hand, buyers need representation too, right?  Today we are going to talk about why you need a buyer specialist when you buy a home, especially here in Northern Virginia.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 When you sell your home, you are likely going to hire an agent to help you sell your home because of their expertise. On the other hand, buyers need representation too, right?  Today we are going to talk about why you need a buyer specialist when you buy a home, especially here in Northern Virginia.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -801,7 +874,7 @@ When you sell your home, you are likely going to hire an agent to help you sell 
         
           <category>Northern Virginia Real Estate Seller Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2014-12-30 13:43:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -832,8 +905,14 @@ It is important for you to be informed and prepared no matter what the market or
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+Are you looking to list your home in the spring? If so, we need to talk now! I have said it before and will say it again, this time of year can actually be a GREAT time to sell if it works with your timeline. However, for those of you who absolutely need to wait until this next spring, NOW is the time to start talking with our team!
+Why?
+Northern Virginia Real Estate Agent
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 Are you looking to list your home in the spring? If so, we need to talk now! I have said it before and will say it again, this time of year can actually be a GREAT time to sell if it works with your timeline. However, for those of you who absolutely need to wait until this next spring, NOW is the time to start talking with our team!
@@ -841,7 +920,7 @@ Why?
 Northern Virginia Real Estate Agent
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -850,7 +929,7 @@ Northern Virginia Real Estate Agent
         
           <category>Northern Virginia Real Estate Other</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2014-12-23 13:48:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -865,8 +944,14 @@ If you have any questions for us about real estate, we are never too busy to tak
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+Happy Holidays, everyone! From the entire Gresh family, we want to wish you and your family the best this holiday season. We hope you enjoy our video, didn’t Adam, Emma, and Jack do a great job?
+“Thanks to all of you, we can say we had a very successful year and are looking forward to another one in 2015”
+We had a tremendous year in 2014, and it was thanks to all of you. We have tremendous clients and past clients who have helped us tremendously by referring us to their family and friends. Thanks to all of you, we can say we had a very successful year and are looking forward to another one in 2015.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 Happy Holidays, everyone! From the entire Gresh family, we want to wish you and your family the best this holiday season. We hope you enjoy our video, didn’t Adam, Emma, and Jack do a great job?
@@ -874,7 +959,7 @@ Happy Holidays, everyone! From the entire Gresh family, we want to wish you and 
 We had a tremendous year in 2014, and it was thanks to all of you. We have tremendous clients and past clients who have helped us tremendously by referring us to their family and friends. Thanks to all of you, we can say we had a very successful year and are looking forward to another one in 2015.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -883,7 +968,7 @@ We had a tremendous year in 2014, and it was thanks to all of you. We have treme
         
           <category>Northern Virginia Real Estate Buyer Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2014-10-23 12:58:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -906,14 +991,18 @@ Thanks again for joining us today. For all your real estate needs, whether you a
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+Today we are excited to be joined by our preferred lender, Jim Evans of Potomac Trust Mortgage. He is here to give you some valuable information on current mortgage interest rates and what you can expect if you are thinking of either buying or refinancing today.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 Today we are excited to be joined by our preferred lender, Jim Evans of Potomac Trust Mortgage. He is here to give you some valuable information on current mortgage interest rates and what you can expect if you are thinking of either buying or refinancing today.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -922,7 +1011,7 @@ Today we are excited to be joined by our preferred lender, Jim Evans of Potomac 
         
           <category>Northern Virginia Real Estate Other</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2014-06-04 13:22:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -941,14 +1030,18 @@ As always, contact me at 703-636-3588 or Janet@TheGreshGroup.com with any questi
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+Today I have invited a full service, real estate attorney, Susan Pesner with Pesner Kawamoto Law Firm, to speak with you about the difference between a settlement company with a lawyer available and a settlement company without a lawyer available.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 Today I have invited a full service, real estate attorney, Susan Pesner with Pesner Kawamoto Law Firm, to speak with you about the difference between a settlement company with a lawyer available and a settlement company without a lawyer available.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -957,7 +1050,7 @@ Today I have invited a full service, real estate attorney, Susan Pesner with Pes
         
           <category>Northern Virginia Real Estate Other</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2014-05-16 10:22:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -976,14 +1069,18 @@ If you’re interested in purchasing a home in Northern Virginia, Maryland, or W
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+The National Association of Realtors says that 90% of home buyers begin their home search online. The same is true for sellers, who try to determine an accurate price for their home by searching for similar homes online. There are a lot of advantages in doing this, but there are also huge disadvantages with using these websites.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 The National Association of Realtors says that 90% of home buyers begin their home search online. The same is true for sellers, who try to determine an accurate price for their home by searching for similar homes online. There are a lot of advantages in doing this, but there are also huge disadvantages with using these websites.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -992,7 +1089,7 @@ The National Association of Realtors says that 90% of home buyers begin their ho
         
           <category>buyer tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2014-04-11 12:07:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1027,14 +1124,18 @@ Also, don’t forget to contact me with any questions, concerns, or comments you
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+I am often asked whether someone should rent or buy when they move here to the Washington, D.C. area. My answer is always to tell people that purchasing a home is the best option, especially if you will be here for more than 3 or 4 years. I have 5 great reasons why it’s more beneficial to purchase rather than to rent.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 I am often asked whether someone should rent or buy when they move here to the Washington, D.C. area. My answer is always to tell people that purchasing a home is the best option, especially if you will be here for more than 3 or 4 years. I have 5 great reasons why it’s more beneficial to purchase rather than to rent.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1043,7 +1144,7 @@ I am often asked whether someone should rent or buy when they move here to the W
         
           <category>buyer tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2014-03-20 13:33:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1070,14 +1171,18 @@ Whether you’re buying or selling a home in Fairfax county, please contact me b
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+I’m certainly glad that spring is here in Fairfax County, but that also means that tax season is here. While it’s not fun paying taxes, you should know that these payments go towards funding all of the community services that we love and need most like schools, street maintenance, and having firefighters and policemen.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 I’m certainly glad that spring is here in Fairfax County, but that also means that tax season is here. While it’s not fun paying taxes, you should know that these payments go towards funding all of the community services that we love and need most like schools, street maintenance, and having firefighters and policemen.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1086,7 +1191,7 @@ I’m certainly glad that spring is here in Fairfax County, but that also means 
         
           <category>Northern Virginia Real Estate</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2014-02-04 12:46:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -1109,15 +1214,20 @@ The Gresh Group works only with the best title companies, lenders,law firms and 
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+Title companies are often misunderstood by consumers, but don’t be frightened by what you don’t understand. They’re here to help you!
+ - Title companies dig up information about a property such as: finding all former owners &amp; sellers to ensure a ‘clean’ property without any unpaid mortgages, or unpaid taxes or bills that would affect a sale.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 Title companies are often misunderstood by consumers, but don’t be frightened by what you don’t understand. They’re here to help you!
  - Title companies dig up information about a property such as: finding all former owners &amp; sellers to ensure a ‘clean’ property without any unpaid mortgages, or unpaid taxes or bills that would affect a sale.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1126,7 +1236,7 @@ Title companies are often misunderstood by consumers, but don’t be frightened 
         
           <category>Northern Virginia Real Estate Market Update</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2014-01-14 11:48:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -1145,14 +1255,18 @@ Give me a call today at 703.636.3588 and let’s talk about your situation. The 
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+Welcome back and Happy New Year! The real estate market had a great 2013. With low inventory and low interest rates, homes were flying off the market. Toward the end of the year, though, we saw interest rates increase a bit and home sales slow. So what can we expect from 2014?
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 Welcome back and Happy New Year! The real estate market had a great 2013. With low inventory and low interest rates, homes were flying off the market. Toward the end of the year, though, we saw interest rates increase a bit and home sales slow. So what can we expect from 2014?
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1161,7 +1275,7 @@ Welcome back and Happy New Year! The real estate market had a great 2013. With l
         
           <category>Northern Virginia Real Estate Buyer Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2014-01-06 12:25:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -1182,14 +1296,18 @@ If you have any questions, please give me a call today at 703.463.8250.
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+Whether you’re buying your first or your fifth home, the loan process can always be stressful. At Movement Mortgage we understand that. We treat each situation as our top priority. We do this with three commitments.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 Whether you’re buying your first or your fifth home, the loan process can always be stressful. At Movement Mortgage we understand that. We treat each situation as our top priority. We do this with three commitments.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1198,7 +1316,7 @@ Whether you’re buying your first or your fifth home, the loan process can alwa
         
           <category>Northern Virginia Real Estate Special  Message</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2013-12-23 10:39:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -1215,14 +1333,18 @@ Once again, thank you for trusting us with one of the most important aspects of 
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+It’s hardly believable that we are at the cusp of yet another year – and it’s almost 2014! With a fantastic year behind us, we look ahead toward a great future in the coming months. I can’t tell you how much of a pleasure it has been serving our community members with the expert advice, one-on-one care and guidance with real estate endeavors in our communities.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 It’s hardly believable that we are at the cusp of yet another year – and it’s almost 2014! With a fantastic year behind us, we look ahead toward a great future in the coming months. I can’t tell you how much of a pleasure it has been serving our community members with the expert advice, one-on-one care and guidance with real estate endeavors in our communities.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1231,7 +1353,7 @@ It’s hardly believable that we are at the cusp of yet another year – and it�
         
           <category>Northern Virginia Real Estate Seller Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2013-12-06 12:24:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -1250,14 +1372,18 @@ In our current market of low inventory, this is especially a great idea to get t
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+The simple answer is “no.” Putting an ad out and installing signs typically notifies noisy neighbors and unqualified buyers “who are just curious” to tour your home. Agents who like to hold them this way, are going after making relationships with these people to get more business.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 The simple answer is “no.” Putting an ad out and installing signs typically notifies noisy neighbors and unqualified buyers “who are just curious” to tour your home. Agents who like to hold them this way, are going after making relationships with these people to get more business.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1266,7 +1392,7 @@ The simple answer is “no.” Putting an ad out and installing signs typically 
         
           <category>Northern Virginia Real Estate Market Update</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2013-11-15 10:56:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -1289,14 +1415,18 @@ If you are looking for more information about the real estate market you can cli
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+I’ve been telling you and showing you stats of how strong of a market we had the whole year. We’ve experienced high buyer demand, and low inventory of sellers willing to list.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 I’ve been telling you and showing you stats of how strong of a market we had the whole year. We’ve experienced high buyer demand, and low inventory of sellers willing to list.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1305,7 +1435,7 @@ I’ve been telling you and showing you stats of how strong of a market we had t
         
           <category>Northern Virginia Real Estate Seller Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2013-11-06 11:24:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -1357,14 +1487,18 @@ Thanks for watching!
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+With the holiday season here, everyone wants to know whether now is the time to list their home or wait until the spring. The right time really depends on your situation. What are your needs?
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 With the holiday season here, everyone wants to know whether now is the time to list their home or wait until the spring. The right time really depends on your situation. What are your needs?
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1373,7 +1507,7 @@ With the holiday season here, everyone wants to know whether now is the time to 
         
           <category>Northern Virginia Real Estate Buyer Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2013-10-16 13:27:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1394,14 +1528,18 @@ These are just a few things you can do to get your home ready for market. Click 
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+Homeowners ask me all the time how they should get their home ready for the market. Well, I have a list for you! This list tells you how to prepare your home for showings, photographs and appraisals!
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 Homeowners ask me all the time how they should get their home ready for the market. Well, I have a list for you! This list tells you how to prepare your home for showings, photographs and appraisals!
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1410,7 +1548,7 @@ Homeowners ask me all the time how they should get their home ready for the mark
         
           <category>Northern Virginia Real Estate Special  Message</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2013-10-04 12:43:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1463,14 +1601,18 @@ By:  Morgan Brennan, Forbes Staff
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+The government shutdown is here. Whether it’s not being able to get a new Social Security card or visit a national park, Americans will immediately feel the effects. But there’s one bright spot of the economy that stands to be affected as well: housing.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 The government shutdown is here. Whether it’s not being able to get a new Social Security card or visit a national park, Americans will immediately feel the effects. But there’s one bright spot of the economy that stands to be affected as well: housing.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1479,7 +1621,7 @@ The government shutdown is here. Whether it’s not being able to get a new Soci
         
           <category>Northern Virginia Real Estate Seller Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2013-09-13 15:26:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1516,14 +1658,18 @@ Click here to view the full list of eight questions!
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+Hello, everyone. When you decide to sell your home, you want an agent with a proven track record of getting the job done. In the last part of this two part video series I talk about the last four questions you should ask a listing agent before hiring them.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 Hello, everyone. When you decide to sell your home, you want an agent with a proven track record of getting the job done. In the last part of this two part video series I talk about the last four questions you should ask a listing agent before hiring them.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1532,7 +1678,7 @@ Hello, everyone. When you decide to sell your home, you want an agent with a pro
         
           <category>Northern Virginia Real Estate Seller Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2013-09-04 11:40:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1571,14 +1717,18 @@ Thank you so much for watching! These are eight important questions you need to 
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+Hello, everyone. When you decide to sell your home, you want an agent with a proven track record of getting the job done. I have a list of eight questions you should ask a listing agent before hiring them.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 Hello, everyone. When you decide to sell your home, you want an agent with a proven track record of getting the job done. I have a list of eight questions you should ask a listing agent before hiring them.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1587,7 +1737,7 @@ Hello, everyone. When you decide to sell your home, you want an agent with a pro
         
           <category>Northern Virginia Real Estate Market Update</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2013-06-28 13:49:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1610,14 +1760,18 @@ So if you are looking to sell your home or have any real estate questions, pleas
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+The housing market in the Washington D.C. area and Northern Virginia has been booming!
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 The housing market in the Washington D.C. area and Northern Virginia has been booming!
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1626,7 +1780,7 @@ The housing market in the Washington D.C. area and Northern Virginia has been bo
         
           <category>Northern Virginia Real Estate</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2013-06-13 10:27:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1648,14 +1802,18 @@ An industry association held a study in which it was determined that not only do
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+Homeowners Insurance is great – it covers a lot of things like fire, theft and vandalism – and in case there is a storm that causes significant damage, the policy’s right there to protect the owner.  But what about a policy that looks after the interests of the property while it listed on the market and one that works to the advantage of both sides of the buying and selling fence?  A home warranty is a perfect supplement to a homeowner’s insurance policy and it broadens the overall coverage in a variety of ways.  Here is a rundown of the variances between the two and how a seller getting a warranty policy on their home for sale is a great tool!
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 Homeowners Insurance is great – it covers a lot of things like fire, theft and vandalism – and in case there is a storm that causes significant damage, the policy’s right there to protect the owner.  But what about a policy that looks after the interests of the property while it listed on the market and one that works to the advantage of both sides of the buying and selling fence?  A home warranty is a perfect supplement to a homeowner’s insurance policy and it broadens the overall coverage in a variety of ways.  Here is a rundown of the variances between the two and how a seller getting a warranty policy on their home for sale is a great tool!
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1664,7 +1822,7 @@ Homeowners Insurance is great – it covers a lot of things like fire, theft and
         
           <category>Northern Virginia Real Estate Buyer Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2013-06-03 17:00:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1726,14 +1884,18 @@ Whew, somewhat complicated, isn’t it? Well, we’re dealing with a government 
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+The Federal Housing Agency (FHA) doesn’t directly offer loans. Instead, its purpose is to provide mortgage insurance for Americans to purchase or refinance a principal residence.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 The Federal Housing Agency (FHA) doesn’t directly offer loans. Instead, its purpose is to provide mortgage insurance for Americans to purchase or refinance a principal residence.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1742,7 +1904,7 @@ The Federal Housing Agency (FHA) doesn’t directly offer loans. Instead, its pu
         
           <category>Northern Virginia Real Estate Buyer Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2013-05-16 10:12:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1767,15 +1929,20 @@ By working with the right Realty and mortgage team you can turn around most of t
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+There are some common misconceptions floating around about there not being enough money in the bank when it comes to mortgages.  This could not be further from the truth.  Lenders have plenty of money.  Sure, they are being more careful about who they lend it to and yes they are definitely making sure all i’s are dotted and t’s crossed.  But here’s the thing:  do you want to have to jump through hoops of fire or would you rather sail through the mortgage loan process smoothly?
+With our special report that shares with you the real estate industry’s insider information on the top reasons loans go awry, you can avoid having to go back to the drawing board over and over again and ultimately risk losing your loan (and your dream house) in the end.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 There are some common misconceptions floating around about there not being enough money in the bank when it comes to mortgages.  This could not be further from the truth.  Lenders have plenty of money.  Sure, they are being more careful about who they lend it to and yes they are definitely making sure all i’s are dotted and t’s crossed.  But here’s the thing:  do you want to have to jump through hoops of fire or would you rather sail through the mortgage loan process smoothly?
 With our special report that shares with you the real estate industry’s insider information on the top reasons loans go awry, you can avoid having to go back to the drawing board over and over again and ultimately risk losing your loan (and your dream house) in the end.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1784,7 +1951,7 @@ With our special report that shares with you the real estate industry’s inside
         
           <category>Northern Virginia Real Estate</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2013-05-01 16:19:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1810,14 +1977,18 @@ We probably don’t need to go into specific details. but most people insist on 
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+Moving into a new home can be an extremely exciting time in a person’s life.  However, it can also be incredibly hectic.  There are some things that can be placed on the back burner during the move in process.  With these five easy tips on moving into a new home, you can be sure to have your house as safe and cost efficient as possible.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 Moving into a new home can be an extremely exciting time in a person’s life.  However, it can also be incredibly hectic.  There are some things that can be placed on the back burner during the move in process.  With these five easy tips on moving into a new home, you can be sure to have your house as safe and cost efficient as possible.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1826,7 +1997,7 @@ Moving into a new home can be an extremely exciting time in a person’s life.  
         
           <category>Northern Virginia Real Estate</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2013-04-16 10:13:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1894,14 +2065,18 @@ To protect yourself against any of the problems I mentioned above, ensure that t
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+“Perform due diligence!” is the one law you should never break in any kind of real estate deal – residential, multi-occupant, or commercial!
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 “Perform due diligence!” is the one law you should never break in any kind of real estate deal – residential, multi-occupant, or commercial!
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1910,7 +2085,7 @@ To protect yourself against any of the problems I mentioned above, ensure that t
         
           <category>Northern Virginia Real Estate Buyer Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2013-03-11 13:23:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1935,14 +2110,18 @@ Regardless of where you are searching for your dream home, what your budget is o
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+Owning a home can be a daunting undertaking for first-time homebuyers. But if you are like countless others right now wanting to get in on the action and move into the home of their dreams, you have to be ready to take on the task.  During the current ideal market conditions that make it a great time for buyers there are a few things you can do make sure your experience is as fruitful as possible.  Here are three insider tips on how you can secure a great place, for a fantastic price – without making any serious mistakes in the process.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 Owning a home can be a daunting undertaking for first-time homebuyers. But if you are like countless others right now wanting to get in on the action and move into the home of their dreams, you have to be ready to take on the task.  During the current ideal market conditions that make it a great time for buyers there are a few things you can do make sure your experience is as fruitful as possible.  Here are three insider tips on how you can secure a great place, for a fantastic price – without making any serious mistakes in the process.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1951,7 +2130,7 @@ Owning a home can be a daunting undertaking for first-time homebuyers. But if yo
         
           <category>Homeowner Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2013-02-19 09:46:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -1999,14 +2178,18 @@ Regardless of if you are selling, refinance should be considered to be able to r
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+Many people tend to oversee the fact that when interest rates are low, they have a significant impact on more than just people buying a home.  Low interest rates, in fact, have a HUGE impact on the overall cost on a mortgage so when people refinance their existing properties under lower rates it translates to thousands and thousands of dollars in savings.  Not only that, if these same homeowners who opt to have their homes refinanced also reduce the term on their mortgage, the savings are unprecedented.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 Many people tend to oversee the fact that when interest rates are low, they have a significant impact on more than just people buying a home.  Low interest rates, in fact, have a HUGE impact on the overall cost on a mortgage so when people refinance their existing properties under lower rates it translates to thousands and thousands of dollars in savings.  Not only that, if these same homeowners who opt to have their homes refinanced also reduce the term on their mortgage, the savings are unprecedented.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -2015,7 +2198,7 @@ Many people tend to oversee the fact that when interest rates are low, they have
         
           <category>Home Buyer Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2013-02-05 11:21:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -2062,14 +2245,18 @@ No matter which area of your home you decide to improve, the results are unmista
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+Everyone needs to value and protect his or her assets, especially with the current economic situation. One of the best ways to do this is to maintain, manage and make strides toward constant betterment. In a house this can mean any number of things. Whether you choose to enhance an existing bedroom, extend your kitchen, install new flooring in the basement or even replace the garage door – all these and significant others – are excellent ways to strengthen the value of your property. With these home improvement projects, you will enjoy continued returns on the investment that you make in your most cherished asset.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 Everyone needs to value and protect his or her assets, especially with the current economic situation. One of the best ways to do this is to maintain, manage and make strides toward constant betterment. In a house this can mean any number of things. Whether you choose to enhance an existing bedroom, extend your kitchen, install new flooring in the basement or even replace the garage door – all these and significant others – are excellent ways to strengthen the value of your property. With these home improvement projects, you will enjoy continued returns on the investment that you make in your most cherished asset.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -2078,7 +2265,7 @@ Everyone needs to value and protect his or her assets, especially with the curre
         
           <category>Home Seller Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2013-01-09 15:27:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -2115,14 +2302,18 @@ As with anything that entails professional analysis, it is important to select s
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+Everyone knows that when a seller puts a property on the market, they expect it to sell quickly and yield the best price possible.  But just how simple is that anyway when you’re dealing with the sort of market we are experiencing these days?  Unless carefully planned and well-thought out marketing techniques are not put into action, the chances of realizing the success you set out to achieve in this endeavor can be very shaky.  In this article, we’ve gone through the four “P’s” of Real Estate Marketing and outline each so you can see how together with your Realtor you can achieve phenomenal results despite the weak market.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 Everyone knows that when a seller puts a property on the market, they expect it to sell quickly and yield the best price possible.  But just how simple is that anyway when you’re dealing with the sort of market we are experiencing these days?  Unless carefully planned and well-thought out marketing techniques are not put into action, the chances of realizing the success you set out to achieve in this endeavor can be very shaky.  In this article, we’ve gone through the four “P’s” of Real Estate Marketing and outline each so you can see how together with your Realtor you can achieve phenomenal results despite the weak market.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -2131,7 +2322,7 @@ Everyone knows that when a seller puts a property on the market, they expect it 
         
           <category>Home Buyer Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2012-12-04 16:44:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -2154,14 +2345,18 @@ When you make the decision to incorporate some changes to your home, be sure to 
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+For many homeowners, selling their home is an event that usually only takes place once or maybe twice in their lifetime.  For this reason, the experience is completely foreign to them and they may be carrying old ways of thinking in terms of how to prepare the home for sale.  Where once some things may not have been a turn off to sellers, in the current marketplace there may very well be different standards.  It is highly recommended to consult with a professional prior to having any significant work done on a home – especially if the prospect selling the property is in the near or short-term future.  Here are a few reasons why homeowners should proceed with caution before embarking on any major repairs, renovation or remodeling their homes.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 For many homeowners, selling their home is an event that usually only takes place once or maybe twice in their lifetime.  For this reason, the experience is completely foreign to them and they may be carrying old ways of thinking in terms of how to prepare the home for sale.  Where once some things may not have been a turn off to sellers, in the current marketplace there may very well be different standards.  It is highly recommended to consult with a professional prior to having any significant work done on a home – especially if the prospect selling the property is in the near or short-term future.  Here are a few reasons why homeowners should proceed with caution before embarking on any major repairs, renovation or remodeling their homes.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -2170,7 +2365,7 @@ For many homeowners, selling their home is an event that usually only takes plac
         
           <category>Home Seller Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2012-11-15 13:48:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -2222,14 +2417,18 @@ Since buying a home is such an important decision, you can see that it’s vital
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+“Neighborhood value” is the atmosphere of a particular area - the look and feel of the homes and yards and so forth. But, more importantly, it’s the “vibe” you receive from the neighbors.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 “Neighborhood value” is the atmosphere of a particular area - the look and feel of the homes and yards and so forth. But, more importantly, it’s the “vibe” you receive from the neighbors.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -2238,7 +2437,7 @@ Since buying a home is such an important decision, you can see that it’s vital
         
           <category>Home Seller Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2012-11-06 17:19:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -2278,14 +2477,18 @@ TIPS ON HOW TO PRICE A HOME
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+We’ve all seen them – homes that are on the market and priced so high that one wonders what decade the owners were comparing their home value to.  But if you think about it – the goal of these people is to end up with more money in their pocket at the end of the day.  The truth is that when sellers price their home for more than what the market dictates it is worth, there are some pretty dire circumstances.  Here are three reasons why you should shy away from pricing your home too high, instead making a strong effort to price it effectively.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 We’ve all seen them – homes that are on the market and priced so high that one wonders what decade the owners were comparing their home value to.  But if you think about it – the goal of these people is to end up with more money in their pocket at the end of the day.  The truth is that when sellers price their home for more than what the market dictates it is worth, there are some pretty dire circumstances.  Here are three reasons why you should shy away from pricing your home too high, instead making a strong effort to price it effectively.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -2294,7 +2497,7 @@ We’ve all seen them – homes that are on the market and priced so high that o
         
           <category>Home Buyer Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2012-08-09 14:45:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -2346,14 +2549,18 @@ Hope you enjoyed this very useful information about home inspection! If you have
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+No, you don’t need the fictional detective inspector. However, you do need a home inspector! Think of this as a “pre-emptive strike” to maintain or increase your home’s value before you put it on the market. Here are the benefits an inspector provides you:
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 No, you don’t need the fictional detective inspector. However, you do need a home inspector! Think of this as a “pre-emptive strike” to maintain or increase your home’s value before you put it on the market. Here are the benefits an inspector provides you:
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -2362,7 +2569,7 @@ No, you don’t need the fictional detective inspector. However, you do need a h
         
           <category>Home Seller Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2012-08-02 11:17:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -2430,14 +2637,18 @@ Unless there’s a real reason for it, don’t ask your agent to be present for 
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+The home selling process differs from state to state, but there are some important steps that you should take before you put your house on the market–all steps that protect your interests and help you get the most return from your investment.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 The home selling process differs from state to state, but there are some important steps that you should take before you put your house on the market–all steps that protect your interests and help you get the most return from your investment.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -2446,7 +2657,7 @@ The home selling process differs from state to state, but there are some importa
         
           <category>Home Buyer Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2012-06-21 10:26:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -2490,15 +2701,20 @@ Qualified, experienced agents are paramount to helping you determine the right p
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+No one wants their home to be on the market for months while generating no interest from buyers.  If you have a home that just won’t sell, do you know the reason?  One of the most prevalent reasons for a home not selling is that it has been overpriced according to its value and the surrounding market.  How do most homeowners arrive at their listing sale price?  Unfortunately, so many sellers use less than reliable methods of deciding the list price and as a result, they end up wasting time without selling their home at all.
+Here are the six things that inexperienced sellers use to gauge their selling price, plus a list that explains what you can do to make sure your home is priced perfectly to sell.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 No one wants their home to be on the market for months while generating no interest from buyers.  If you have a home that just won’t sell, do you know the reason?  One of the most prevalent reasons for a home not selling is that it has been overpriced according to its value and the surrounding market.  How do most homeowners arrive at their listing sale price?  Unfortunately, so many sellers use less than reliable methods of deciding the list price and as a result, they end up wasting time without selling their home at all.
 Here are the six things that inexperienced sellers use to gauge their selling price, plus a list that explains what you can do to make sure your home is priced perfectly to sell.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -2507,7 +2723,7 @@ Here are the six things that inexperienced sellers use to gauge their selling pr
         
           <category>Real Estate</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2012-05-31 14:23:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -2532,14 +2748,18 @@ It is a good idea to check with your lender or potential lenders if you are stil
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+So you’ve saved your down payment, picked the perfect home and you have a closing date.  You’ve probably received a statement from your lender in advance outlining the closing costs and fees you’ll need to bring along with you to the closing.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 So you’ve saved your down payment, picked the perfect home and you have a closing date.  You’ve probably received a statement from your lender in advance outlining the closing costs and fees you’ll need to bring along with you to the closing.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -2548,7 +2768,7 @@ So you’ve saved your down payment, picked the perfect home and you have a clos
         
           <category>Real Estate</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2012-05-15 16:42:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -2576,14 +2796,18 @@ When you are pricing your home to sell, it is vital that you use all available r
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+The Internet can be a great resource for a host of things centered on buying or selling your home but in some cases, the most you can expect to gain is a basic understanding of things.  For something as serious and important as pricing your home to either value it or sell it, relying on the Internet can only go so far.  Here we’ve outlined some key differences between the figures you will yield from online sources versus those that have been compiled by your local Realtor.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 The Internet can be a great resource for a host of things centered on buying or selling your home but in some cases, the most you can expect to gain is a basic understanding of things.  For something as serious and important as pricing your home to either value it or sell it, relying on the Internet can only go so far.  Here we’ve outlined some key differences between the figures you will yield from online sources versus those that have been compiled by your local Realtor.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -2592,7 +2816,7 @@ The Internet can be a great resource for a host of things centered on buying or 
         
           <category>Real Estate</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2012-04-24 14:51:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -2627,14 +2851,18 @@ Realtors deal with myriad situations on a regular basis and they also intimately
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+Contrary to what many experts, news media or analysts may have you believe, market conditions are not as bad as they are portrayed.  In some areas inventory is down, prices are up and the general consensus is a positive one, moving up in a positive outlook for the future.  But the question does arise when one is moving from a home – whether selling it now or renting it to hold out for a better selling price makes more sense.  Here we’ve put together some considerations that will help you discern which is the better choice for you.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 Contrary to what many experts, news media or analysts may have you believe, market conditions are not as bad as they are portrayed.  In some areas inventory is down, prices are up and the general consensus is a positive one, moving up in a positive outlook for the future.  But the question does arise when one is moving from a home – whether selling it now or renting it to hold out for a better selling price makes more sense.  Here we’ve put together some considerations that will help you discern which is the better choice for you.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -2643,7 +2871,7 @@ Contrary to what many experts, news media or analysts may have you believe, mark
         
           <category>Home Seller Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2012-04-19 15:48:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -2666,14 +2894,18 @@ If homeowners can hold on to their property for a long time after purchasing it 
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+The news spread like wildfire.  No, it’s not another politician’s sex scandal or the latest (definitely not greatest) gas prices.  It is the monumental statement made by Warren Buffett that he would buy up “a couple hundred thousand” single-family homes.  The catch is that he would do that if it were something he could practically manage. He may not be able to practically manage it but individuals certainly can.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 The news spread like wildfire.  No, it’s not another politician’s sex scandal or the latest (definitely not greatest) gas prices.  It is the monumental statement made by Warren Buffett that he would buy up “a couple hundred thousand” single-family homes.  The catch is that he would do that if it were something he could practically manage. He may not be able to practically manage it but individuals certainly can.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -2682,7 +2914,7 @@ The news spread like wildfire.  No, it’s not another politician’s sex scanda
         
           <category>Real Estate</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2012-02-03 11:35:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -2704,14 +2936,18 @@ Should you have questions or desire more information about contracts for purchas
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+When it comes to understanding the phrase “as-is”, Virginia uses what is known as a “plain meaning” rule.  This means that words and phrases used in contracts are given their ordinary, everyday meaning.  The phrase “as-is” will generally be construed as meaning  that you are buying the house in its present condition without modification.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 When it comes to understanding the phrase “as-is”, Virginia uses what is known as a “plain meaning” rule.  This means that words and phrases used in contracts are given their ordinary, everyday meaning.  The phrase “as-is” will generally be construed as meaning  that you are buying the house in its present condition without modification.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -2720,7 +2956,7 @@ When it comes to understanding the phrase “as-is”, Virginia uses what is kno
         
           <category>Real Estate</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2012-01-06 14:22:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -2733,14 +2969,18 @@ Our thank-you now and throughout the year can also be seen from the videos from 
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+Happy New Year!  As we reflect on 2011 the word that comes to mind is gratitude.  We are grateful for you! Our family, friends, and clients alike, all who have enriched our lives.  We want to thank all of the families who trusted in us, The Gresh Group, and we were able to help meet their real estate needs.  We look forward to the future to continued success and we thank you for being a part of The Gresh Group.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 Happy New Year!  As we reflect on 2011 the word that comes to mind is gratitude.  We are grateful for you! Our family, friends, and clients alike, all who have enriched our lives.  We want to thank all of the families who trusted in us, The Gresh Group, and we were able to help meet their real estate needs.  We look forward to the future to continued success and we thank you for being a part of The Gresh Group.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -2749,7 +2989,7 @@ Happy New Year!  As we reflect on 2011 the word that comes to mind is gratitude.
         
           <category>Real Estate</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2011-11-18 09:36:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -2800,14 +3040,18 @@ To learn more about disability insurance go to http://www.halfapaycheck.com/an82
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+Car insurance - got it. Health insurance – yep, have that, too.  Home owners – of course. Life insurance – I think so.  Disability insurance – Maybe not.  Mortgage protection life insurance– now it’s getting confusing?
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 Car insurance - got it. Health insurance – yep, have that, too.  Home owners – of course. Life insurance – I think so.  Disability insurance – Maybe not.  Mortgage protection life insurance– now it’s getting confusing?
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -2816,7 +3060,7 @@ Car insurance - got it. Health insurance – yep, have that, too.  Home owners �
         
           <category>Home Buyer Tips</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2011-11-04 12:15:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -2867,14 +3111,18 @@ To learn more about disability insurance go to http://www.halfapaycheck.com/an82
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+Car insurance - got it. Health insurance – yep, have that, too.  Home owners – of course. Life insurance – I think so.  Disability insurance – Maybe not.  Mortgage protection life insurance– now it’s getting confusing?
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 Car insurance - got it. Health insurance – yep, have that, too.  Home owners – of course. Life insurance – I think so.  Disability insurance – Maybe not.  Mortgage protection life insurance– now it’s getting confusing?
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -2883,7 +3131,7 @@ Car insurance - got it. Health insurance – yep, have that, too.  Home owners �
         
           <category>Real Estate</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2011-10-12 10:17:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -2949,14 +3197,18 @@ If you need more information on real estate appraisers or any other real estate 
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+It’s the job of the real estate appraiser. His or her job is to evaluate a property and tell you, the buyer, what condition it is in and the value. Of course, as a seller, you can also have your home appraised so you get an objective “third party” view of your property.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 It’s the job of the real estate appraiser. His or her job is to evaluate a property and tell you, the buyer, what condition it is in and the value. Of course, as a seller, you can also have your home appraised so you get an objective “third party” view of your property.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -2965,7 +3217,7 @@ It’s the job of the real estate appraiser. His or her job is to evaluate a pro
         
           <category>Real Estate</category>
         
-        <author>-- CLIENT NAME --</author>
+        <author>Janet Gresh</author>
         <pubDate>2011-09-16 16:23:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -3010,18 +3262,22 @@ The key to getting the best value is finding and matching the right buyer to you
         <media:thumbnail url="localhost:5000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
+        <itunes:subtitle>
+
+Basically, a home’s worth is determined by its market value. How is “market value” determined? Most often, it’s figured by a comparison (“comp”) with homes similar to yours in the surrounding area. So, if the homes in your neighborhood average, say, $250,000, then it’s likely that the value of your property will fall in the same range. But market value is also determined by a number of factors including the following:
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>
 
 Basically, a home’s worth is determined by its market value. How is “market value” determined? Most often, it’s figured by a comparison (“comp”) with homes similar to yours in the surrounding area. So, if the homes in your neighborhood average, say, $250,000, then it’s likely that the value of your property will fall in the same range. But market value is also determined by a number of factors including the following:
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
-    <copyright>-- CLIENT NAME --</copyright>
-    <media:credit role="author">-- CLIENT NAME --</media:credit>
+    <copyright>Janet Gresh</copyright>
+    <media:credit role="author">Janet Gresh</media:credit>
     <media:rating>nonadult</media:rating>
     <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Gresh Group - your professional Northern Virginia Real Estate Agents.</media:description>
   </channel>
