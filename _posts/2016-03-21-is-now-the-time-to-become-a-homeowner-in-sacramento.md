@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Is Now the Time to Become a Homeowner in Sacramento?
-date: '2016-03-21T11:55:00.002-07:00'
+date: 2016-03-21 18:55:00
 author: Vyral Admin
 tags:
-- Home Buyer Tips
+  - Home Buyer Tips
 excerpt:
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Renting+vs.+buying.mp4'
 pullquote: Whether you should buy or rent really depends on how you react to these questions.
 enclosure_type: video/mp4
 enclosure_time:
@@ -14,9 +14,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: pTufLZXUVbI
 ---
-{% include youtube.html %}
-Is it better to own a home or to rent? As a real estate advisor, there really isn’t a straight answer. In fact, to find out what the right answer is for a particular client’s situation,
-I ask the following questions:
+
+
+{% include youtube.html %}Is it better to own a home or to rent? As a real estate advisor, there really isn’t a straight answer. In fact, to find out what the right answer is for a particular client’s situation,I ask the following questions:
 
 * What are your plans for the next 2-5 years? You need to think about your relationships and your job before you make the leap into homeownership. If you may be relocating in coming years, locking in a mortgage may not be the best option.
 * How much are you paying in rent? If rent is, say, $1,600 a month, you have options out there where you would be paying the same amount of money in monthly mortgage and principal payments.
