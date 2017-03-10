@@ -1,21 +1,22 @@
 ---
 layout: post
 title: Is It a Good Time to Sell Your Sacramento Home?
-date: '2015-05-21T07:09:00.001-07:00'
+date: 2015-05-21 14:09:00
 author: Vyral Admin
 tags:
-- Home Seller Tips
+  - Home Seller Tips
 excerpt:
-enclosure:
-pullquote: It's a great time to enter the market!
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Is+now+the+perfect+time+to+sell%253F.mp4'
+pullquote: "It's a great time to enter the market!"
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: L3Bw_Zj-W1I
 ---
-{% include youtube.html %}
-A lot of people have been asking me when the best time to sell their home is. A lot of people think that the spring and summer months are the best choice, but to be honest, it's always a good time to sell a home.
+
+
+{% include youtube.html %}A lot of people have been asking me when the best time to sell their home is. A lot of people think that the spring and summer months are the best choice, but to be honest, it's always a good time to sell a home.
 
 It's true that we do sell a lot of homes in spring and summer, and if you're interested in selling we can give you a comprehensive informational package to help you sell for top dollar. This will come at no cost to you!
 
