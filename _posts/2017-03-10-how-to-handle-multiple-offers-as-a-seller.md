@@ -20,7 +20,7 @@ In our market, multiple offer situations are very common. If you just listed you
 
 There are a few different things to do in this situation. First, we go back to all of the agents and their buyers to confirm that they’ve submitted their highest and best offers. If any of them haven’t, then we give them the opportunity to make any changes to those offers, giving you the opportunity to choose from the best of the best.
 
-Of course, price is a major factor in this decision. That said, the offer with the highest price is not always the best one for you. There are other factors to consider.
+**Of course, price is a major factor in this decision.** That said, the offer with the highest price is not always the best one for you. There are other factors to consider.
 
 For example, consider which offer matches your timeline the best. Do you need to get out of your current house as soon as possible, or do you need more time to shop for your next home?
 <br>
@@ -30,6 +30,6 @@ For example, consider which offer matches your timeline the best. Do you need to
 
 This is especially important in an urgent market like ours. It is more common for buyers to get cold feet because they feel like they were rushed to make a decision. They get under contract and then, two or three days later, they decide to back out because something doesn’t feel right. The higher the earnest deposit, the more likely the buyer is to go through with the purchase of your home.
 
-Financing is another big component to consider. Cash is not always king. A cash buyer can walk away from the deal, too. If a buyer has been pre-approved by a reputable lender, then that offer is just as strong as a cash offer. As your real estate agent, it is our job to make sure that the lender has a reputation of closing loans.
+**Financing is another big component to consider.** Cash is not always king. A cash buyer can walk away from the deal, too. If a buyer has been pre-approved by a reputable lender, then that offer is just as strong as a cash offer. As your real estate agent, it is our job to make sure that the lender has a reputation of closing loans.
 <br>
 <br>We will lay out all of the offers and talk through each one in order to figure out which one works best for you. If you have any other questions, give us a call or send us an email. We would be happy to help you!
