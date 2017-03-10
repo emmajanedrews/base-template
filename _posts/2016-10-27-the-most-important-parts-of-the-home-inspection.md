@@ -1,12 +1,11 @@
 ---
 layout: post
 title: The Most Important Parts of the Home Inspection
-date: '2016-10-27T08:06:00.001-07:00'
+date: 2016-10-27 15:06:00
 author: Vyral Admin
 tags:
-- Real Estate Tips and Tricks
 excerpt:
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+What+to+expect+when+you%2527re+inspecting.mp4'
 pullquote: You want to be able to choose your own inspector.
 enclosure_type: video/mp4
 enclosure_time:
@@ -14,8 +13,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: 8zNzHNsGDYs
 ---
-{% include youtube.html %}
-Today I wanted to discuss three important aspects of home inspections.
+
+
+{% include youtube.html %}Today I wanted to discuss three important aspects of home inspections.
 
 The first thing to remember is that you as a buyer will have to pay for the home inspection. You don't want the seller to pay for the inspection because if they do, they will choose the inspector. As a result, the inspector will look out for the seller’s best interests instead of yours. You want the inspector to be working for you so that he or she can give you an unbiased opinion of the home.
 
