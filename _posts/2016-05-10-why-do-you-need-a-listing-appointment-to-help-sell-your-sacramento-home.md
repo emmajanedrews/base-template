@@ -1,21 +1,21 @@
 ---
 layout: post
 title: Why Do You Need a Listing Appointment to Help Sell Your Sacramento Home?
-date: '2016-05-10T09:22:00.000-07:00'
+date: 2016-05-10 16:22:00
 author: Vyral Admin
 tags:
-- Real Estate Tips and Tricks
 excerpt:
-enclosure:
-pullquote: We'll tell you how to net the most money from your home sale.
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+What+happens+in+a+listing+appointment%253F.mp4'
+pullquote: "We'll tell you how to net the most money from your home sale."
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: 5WS1KJL9bG8
 ---
-{% include youtube.html %}
-What happens on a listing appointment? Typically, sellers who contact us have a general idea of what the house is worth. Thanks to different sites like Zillow and Redfin, you can get a good approximation of what the home is worth. So why have us walk through the house?
+
+
+{% include youtube.html %}What happens on a listing appointment? Typically, sellers who contact us have a general idea of what the house is worth. Thanks to different sites like Zillow and Redfin, you can get a good approximation of what the home is worth. So why have us walk through the house?
 
 First, we give our professional opinion. We let you know exactly what to do to net the most money for your home and sell it the fastest.
 
