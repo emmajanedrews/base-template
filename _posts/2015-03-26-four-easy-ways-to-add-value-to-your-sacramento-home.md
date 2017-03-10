@@ -1,21 +1,22 @@
 ---
 layout: post
 title: Four Easy Ways to Add Value to Your Sacramento Home
-date: '2015-03-26T11:48:00.000-07:00'
+date: 2015-03-26 18:48:00
 author: Vyral Admin
 tags:
-- Home Seller Tips
+  - Home Seller Tips
 excerpt:
-enclosure:
-pullquote: Be sure to speak with us before your home sale so you don't waste your money on unnecessary repairs.
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+4+cost-effective+home+repairs.mp4'
+pullquote: "Be sure to speak with us before your home sale so you don't waste your money on unnecessary repairs."
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: UnMZqPqUuWc
 ---
-{% include youtube.html %}
-With the spring selling season in full swing, I wanted to share four inexpensive ways to add some value to your home. These things can be done right before a sale, and they can put some extra cash in your pocket at closing.
+
+
+{% include youtube.html %}With the spring selling season in full swing, I wanted to share four inexpensive ways to add some value to your home. These things can be done right before a sale, and they can put some extra cash in your pocket at closing.
 
 1. Appliances: Many of our homes have older appliances within them, and you might be surprised at how inexpensive it is to get new appliances. A company I know of called ABT is able to swap out all of your appliances to get you the stainless steel that buyers love to see these days.
 2. Painting: This may be one of the easiest ways to add value to your property. Fresh paint is an extremely cost-effective way to add value to your home, and can go a long way to make buyers believe that your home is brand new. Just make sure that colors throughout your home are uniform, and buyers typically prefer lighter earth tones.
