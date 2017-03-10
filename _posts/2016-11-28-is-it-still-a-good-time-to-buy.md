@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Is It Still a Good Time to Buy?
-date: '2016-11-28T11:28:00.002-08:00'
+date: 2016-11-28 19:28:00
 author: Vyral Admin
 tags:
-- Market Update
+  - Market Update
 excerpt:
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Are+interest+rates+still+favorable%253F+(1).mp4'
 pullquote: Owning a home means building long-tern equity.
 enclosure_type: video/mp4
 enclosure_time:
@@ -14,8 +14,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: Ws2otlzzpK4
 ---
-{% include youtube.html %}
-One of my clients recently ask me, “Should I buy now and own a home, or should I keep renting and save for a bigger down payment?”
+
+
+{% include youtube.html %}One of my clients recently ask me, “Should I buy now and own a home, or should I keep renting and save for a bigger down payment?”
 
 This is an important question. Everybody’s situation is a little bit different, but if you find that you’re asking yourself the same question, I can tell you that there are three reasons you should stop renting and go ahead and buy.
 
