@@ -1,21 +1,22 @@
 ---
 layout: post
-title: 'How Is the Sacramento Real Estate Market Really Doing? '
-date: '2016-05-10T08:34:00.000-07:00'
+title: How Is the Sacramento Real Estate Market Really Doing?
+date: 2016-05-10 15:34:00
 author: Vyral Admin
 tags:
-- Market Update
+  - Market Update
 excerpt:
-enclosure:
-pullquote: Sacramento is in a strong seller's and borrower's market.
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+The+Sacramento+real+estate+market+is+booming%2521.mp4'
+pullquote: "Sacramento is in a strong seller's and borrower's market."
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: GrDNFO8MPds
 ---
-{% include youtube.html %}
-Recently, I had a buyer consultation with a client, and she asked, “How is the real estate market doing?”
+
+
+{% include youtube.html %}Recently, I had a buyer consultation with a client, and she asked, “How is the real estate market doing?”
 
 Right now, Sacramento has about 1.3 months of housing inventory available. To put that in perspective, a balanced market has four to six months of inventory. Anything below that is considered a seller’s market.
 
