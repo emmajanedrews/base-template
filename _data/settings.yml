@@ -78,10 +78,10 @@ podcast:
   author: '-- CLIENT NAME --'
 images:
   client_headshot_path: /uploads/janet-headshot-midlarge.jpg
-  hero_logo_path: /uploads/watermark-9.png
+  hero_logo_path: /uploads/janet-faded-logo.png
   logo_width_number: 60
   hero_text:
-  hero_background_hex: '#094264'
+  hero_background_hex: '#b40101'
   hero_image_path: /uploads/bigstock-washington-dc-national-mall-i-29328947-1-1.jpg
 site_colors:
   brand_color: '#b40101'
