@@ -18,7 +18,7 @@ youtube_code: iFouuBn5Is4
 
 Today I want to talk to you about some new services that we are offering and give you the rundown on the early spring market.
 
-**One big addition to our team this year is a home stager named Rose Bennett.**She has a lot of experience in designing model homes and she is also assisting as a listing coordinator, which is really helping me out. She does a great job helping sellers maximize their home's’ potential.
+**One big addition to our team this year is a home stager named Rose Bennett.** She has a lot of experience in designing model homes and she is also assisting as a listing coordinator, which is really helping me out. She does a great job helping sellers maximize their home's potential.
 
 We have also added a moving truck, which is available for current and past clients, and we have brought on a licensed handyman as a permanent part of our staff who can help you get your home ready for sale or help you customize your new one.
 
@@ -30,4 +30,4 @@ In January, the median sales price was up 6.8% from last year. Inventory is stil
 
 Buyers are looking, but they need more options to get them excited. This is especially true in the Catonsville, North Hartford Baho. Co., Lauraville, Southern Carroll, and Crofton areas.
 
-If you or anyone you know is looking to sell a home please don’t hesitate to reach out to me. If you have any other real estate questions, feel free to give me a call or send me an email. I’d love to work with you!
+If you or anyone you know is looking to sell a home, please don’t hesitate to reach out to me. If you have any other real estate questions, feel free to give me a call or send me an email. I’d love to work with you!
