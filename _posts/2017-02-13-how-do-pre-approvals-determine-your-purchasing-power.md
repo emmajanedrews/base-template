@@ -1,12 +1,12 @@
 ---
 layout: post
 title: How Do Pre-Approvals Determine Your Purchasing Power?
-date: '2017-02-13T07:46:00.000-08:00'
+date: 2017-02-13 15:46:00
 author: Vyral Admin
 tags:
-- Home Buyer Tips
+  - Home Buyer Tips
 excerpt: The pre-approval process is crucial in determining your buying power. Here’s how it works.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Why+are+pre-approvals+so+important%253F.mp4'
 pullquote: The interest rate you qualify for plays a big role in your purchasing power.
 enclosure_type: video/mp4
 enclosure_time:
@@ -14,8 +14,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: Im8iiT6E-Yc
 ---
-{% include youtube.html %}
-Why is a pre-approval so important? What all goes into the pre-approval process?
+
+
+{% include youtube.html %}Why is a pre-approval so important? What all goes into the pre-approval process?
 
 First off, you need to get pre-approved so you know what kind of home you are able to buy. Your pre-approval number is generally referred to as your purchasing power.
 
