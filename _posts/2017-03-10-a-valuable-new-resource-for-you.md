@@ -18,6 +18,9 @@ youtube_code: coOQEEu6T5w
 
 {% include youtube.html %}
 
+Want to sell your home? [Get a FREE home value report](https://www.flatheadrealestate.com/how-much-is-my-property-worth/)
+<br>Want to buy a home? [Search all homes for sale](https://www.flatheadrealestate.com/montana-real-estate-search/results/?adv=yep&amp;classRes=1&amp;waterfronthomes=1&amp;minPrice=&amp;maxPrice=&amp;bedrooms=&amp;bathrooms=&amp;sqrft_min=&amp;sqrft_max=&amp;land_min=&amp;land_max=&amp;dom=&amp;mlsID=)
+
 I'd like to welcome you to my new video blog.
 
 On my blog, you'll find tips for both buyers and sellers in the real estate market, as well as updates on what's happening in our local market. The real estate market affects all of us!
