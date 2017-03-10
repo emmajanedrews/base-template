@@ -85,7 +85,7 @@ images:
   hero_image_path: /uploads/bigstock-washington-dc-national-mall-i-29328947-1-1.jpg
 site_colors:
   brand_color: '#b40101'
-  theme_color: '#cccccc'
+  theme_color: '#ffffff'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
