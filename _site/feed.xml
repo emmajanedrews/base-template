@@ -2,83 +2,239 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>-- CLIENT BRAND --</title>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</description>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Heidi Phong Real Estate Team - your professional Sacramento Real Estate Agents.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 09 Mar 2017 13:53:40 -0600</pubDate>
-    <lastBuildDate>Thu, 09 Mar 2017 13:53:40 -0600</lastBuildDate>
+    <pubDate>Fri, 10 Mar 2017 13:28:50 -0600</pubDate>
+    <lastBuildDate>Fri, 10 Mar 2017 13:28:50 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>this is a test post</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SFFy_drFrZs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps &lt;strong&gt;gastropub marfa r&lt;/strong&gt;etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Bushwick&lt;/em&gt; &lt;a href=&quot;'http://google.com'&quot;&gt;marfa&lt;/a&gt; wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. &lt;a href=&quot;http://google.com&quot;&gt;Fanny&lt;/a&gt; pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.&lt;/p&gt;
-
-&lt;p&gt;Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This is an example of a pull quote%20localhost:4000/this-is-a-test-post.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This is an example of a pull quote”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.&lt;/p&gt;
-
-&lt;p&gt;Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…&lt;/p&gt;
+        <title>Thuc’s Record Making Sale with Heidi Phong Real Estate</title>
+        <description>&lt;iframe frameborder=&quot;no&quot; height=&quot;166&quot; scrolling=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/310194824&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot; width=&quot;100%&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;“Well the results were extremely surprising. I knew the market was hot but I didn’t expect to get what I got and I think it’s due in large part to the agents I picked, Heidi and Billy. They really negotiated and marketed the house well. For my floor plan and model I got the highest selling price ever, so that was awesome. Their responsiveness is top notch, first of all. They answered all of my questions, they responded to every email and text I sent them. As far as going above and beyond that, I know they marketed the property in every place imaginable, they conducted the open house very well from what I saw. Yeah, a just overall great experience.”&lt;/p&gt;
 </description>
-        <pubDate>Tue, 04 Oct 2016 00:00:00 -0500</pubDate>
-        <link>localhost:4000/this-is-a-test-post.html</link>
-        <guid isPermaLink="true">localhost:4000/this-is-a-test-post.html</guid>
+        <pubDate>Wed, 01 Mar 2017 13:33:00 -0600</pubDate>
+        <link>localhost:4000/thucs-record-making-sale-with-heidi.html</link>
+        <guid isPermaLink="true">localhost:4000/thucs-record-making-sale-with-heidi.html</guid>
         
-        <category>Market Update</category>
-        
-        <category>Real Estate</category>
-        
-        <category>Home Seller Tips</category>
+        <category>Testimonial</category>
         
         
       </item>
     
       <item>
-        <title>A Fox in Space</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SFFy_drFrZs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>The 10 Steps of Buying a Home</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/748hRx_eXqQ?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps &lt;strong&gt;&lt;a href=&quot;http://google.com&quot; target=&quot;_blank&quot;&gt;gastropub&lt;/a&gt; marfa r&lt;/strong&gt;etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Bushwick&lt;/em&gt; &lt;a href=&quot;'http://google.com'&quot; target=&quot;_blank&quot;&gt;marfa&lt;/a&gt; wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Do your due diligence.%20localhost:4000/the-10-steps-of-buying-home.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Do your due diligence.”&lt;/a&gt;
+If you’re thinking about buying a home, you should know the transaction will be a little bit more complicated than your average purchase. Today I’ll give you the steps of buying a home so you can be better prepared to jump into the market:&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
+  &lt;li&gt;Consult a real estate agent. Make sure the agent you hire knows your wants, needs, and time frame.&lt;/li&gt;
+  &lt;li&gt;Apply for a loan. By doing this, you’ll see how much you can get approved for and what sort of rate you’ll get. You want to make sure the monthly payment will be comfortable for your family.&lt;/li&gt;
+  &lt;li&gt;Look at the available homes that match your criteria. This step is when you’ll determine exactly what sort of home and neighborhood you want to be in.&lt;/li&gt;
+  &lt;li&gt;Submit an offer. Once you have found your dream home, your agent will submit an offer and negotiate your terms.&lt;/li&gt;
+  &lt;li&gt;Do your due diligence. Once your offer is accepted, you’ll need to do a variety of home inspections. An appraiser will also come out during this step to make sure the home is selling at fair market value.&lt;/li&gt;
+  &lt;li&gt;Send your loan package into the underwriters to get approved for your loan.&lt;/li&gt;
+  &lt;li&gt;Do a final walkthrough. You’ll want to make sure all the repairs have been done that the seller agreed to do. It’s your last chance to verify the condition of the property.&lt;/li&gt;
+  &lt;li&gt;Sign the documents.&lt;/li&gt;
+  &lt;li&gt;Pay the down payment and closing costs.&lt;/li&gt;
+  &lt;li&gt;Get the keys!&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This is an example of a pull quote%20localhost:4000/a-fox-in-space.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This is an example of a pull quote”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.&lt;/p&gt;
-
-&lt;p&gt;Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…&lt;/p&gt;
+&lt;p&gt;If you have any other questions about buying a home, please feel free to give me a call or send me an email. I look forward to hearing from you!&lt;/p&gt;
 </description>
-        <pubDate>Wed, 28 Sep 2016 00:00:00 -0500</pubDate>
-        <link>localhost:4000/a-fox-in-space.html</link>
-        <guid isPermaLink="true">localhost:4000/a-fox-in-space.html</guid>
+        <pubDate>Mon, 27 Feb 2017 11:44:00 -0600</pubDate>
+        <link>localhost:4000/the-10-steps-of-buying-home.html</link>
+        <guid isPermaLink="true">localhost:4000/the-10-steps-of-buying-home.html</guid>
+        
+        <category>Home Buyer Tips</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>How HP Real Estate Helped Jennifer Through the Home Buying Process</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=%20localhost:4000/how-hp-real-estate-helped-jennifer.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“”&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe frameborder=&quot;no&quot; height=&quot;166&quot; scrolling=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/307584281&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot; width=&quot;100%&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;“It was really good working with them. Our real estate agent Chia Vang, he was really good, very professional. Whenever we had a question, he was always there to answer them. He was really quick with his response. And for us, because we work during the day until 5, Chia knew that we were getting nervous during the house search and so he worked with our schedule. When we would email him he would respond right away, call he would always answer, text message he would reply back very soon. We were fairly young, it’s our first time purchasing a home, we didn’t know the process to it and so, like example, when we really liked a house, and we told him we were interested in it he helped us through the process and he explained to us exactly what was going to happen. And then when we saw a few things wrong with the house that needed to be fixed he made sure to tell us, don’t worry I’ll make sure that the seller will address it and I’ll make sure to address it with the seller’s agent. We were very happy because we got a new roof. They didn’t just fix the roof, the shingles were replaced three times so they put in a brand new roof. Things around the house that we saw were fixed right away. When we did notice [something] after the final walk-through Chia was able to push for the seller to give us money towards our closing costs so I was very happy with that. Chia, our Realtor, is actually my cousin. He’s like my older brother. One thing that’s really special about him is that he never let family come into it. He didn’t push me to do things just because he was my cousin. I remember asking him about, I think the house inspection, I was like should we do all of it or what do you think? And he was just like, this is what I suggest, but I would never tell what to do exactly. This is the outcome if you do it this way or if you don’t. That was one thing I really appreciated from him was when I didn’t know something he would explain it to me from both perspectives and I was like, alright, that gives we a better understanding of what we need to do for the house.”&lt;/p&gt;
+</description>
+        <pubDate>Mon, 13 Feb 2017 16:19:00 -0600</pubDate>
+        <link>localhost:4000/how-hp-real-estate-helped-jennifer.html</link>
+        <guid isPermaLink="true">localhost:4000/how-hp-real-estate-helped-jennifer.html</guid>
+        
+        <category>Testimonial</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>How Do Pre-Approvals Determine Your Purchasing Power?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Im8iiT6E-Yc?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Why is a pre-approval so important? What all goes into the pre-approval process?&lt;/p&gt;
+
+&lt;p&gt;First off, you need to get pre-approved so you know what kind of home you are able to buy. Your pre-approval number is generally referred to as your purchasing power.&lt;/p&gt;
+
+&lt;p&gt;How does your lender calculate this amount? By going through your credit, looking at your income, and determining your debt-to-income ratio, your lender will help you determine what mortgage payment you’re comfortable making.&lt;/p&gt;
+
+&lt;p&gt;The interest rate you qualify for is a big factor in determining your purchasing power. For example, if you qualified for an interest rate of 3.25%, your mortgage payment for a $250,000 home would be roughly $1,088 per month. If you don’t qualify for that 3.25% rate and instead qualify for a rate as high as 4.75%, your mortgage payment for that same $250,000 home would increase to $1,300 per month.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=The interest rate you qualify for plays a big role in your purchasing power.%20localhost:4000/how-do-pre-approvals-determine-your.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“The interest rate you qualify for plays a big role in your purchasing power.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;See why it’s so important to know what interest rate you’re able to qualify for and lock in? That extra $212 could mean a lot. By saying yes to that increased payment, you’re saying no to eating out more often with your family. A higher mortgage rate means more sacrifices.&lt;/p&gt;
+
+&lt;p&gt;Many times, I have to explain this process to my clients in more detail, so if you want to dive further into this subject matter, don’t hesitate to ask your own loan officer. They’ll be able to give you the answers you need before buying your first home.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions or are looking to buy or sell a home, feel free to reach out to us. We’d be happy to help!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 13 Feb 2017 09:46:00 -0600</pubDate>
+        <link>localhost:4000/how-do-pre-approvals-determine-your.html</link>
+        <guid isPermaLink="true">localhost:4000/how-do-pre-approvals-determine-your.html</guid>
+        
+        <category>Home Buyer Tips</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>How the MLS and Lockboxes Help You Buy and Sell a Home</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/g20qkWLNcYU?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Lately, I’ve had a lot of buyers wondering how I’m able to show them homes that I don’t personally have listed. If my picture isn’t on the ‘for sale’ sign, how can I show the home?&lt;/p&gt;
+
+&lt;p&gt;When a homeowner decides to sell their home with the help of an agent, they’re working with a listing agent. The listing agent puts the home on a service called the MLS (multiple listing service), which basically advertises that home to every agent who has access to the MLS. Why would you want your home advertised to these agents, though? When a home is put on the market, there’s a certain commission that’s agreed upon by the seller to pay the listing agent and the agent who brings them a willing buyer. The agent who brings a buyer is known as a buyer’s agent.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Lockboxes let any agent show a home to their buyer, no matter who the listing agent is.%20localhost:4000/how-mls-and-lockboxes-help-you-buy-and.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Lockboxes let any agent show a home to their buyer, no matter who the listing agent is.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The Realtor who shows the home represents the buyer’s side of the transaction, whereas the listing agent represents the seller’s side of the transaction. Every agent who has access to the MLS also has access to a lockbox, which they can log into for access to the keys to the home. Every time a buyer’s agent logs into a lockbox, their ID and license verification get sent to the seller to notify them who is looking at their home and how much traffic is coming in.&lt;/p&gt;
+
+&lt;p&gt;This will give sellers an idea of whether their home is priced right and attractive to buyers. So that’s how we’re able to show homes to our clients that aren’t our listings.&lt;/p&gt;
+
+&lt;p&gt;I hope this helps you understand the MLS and how showings work, no matter who the listing agent is. If you have any other questions or you’re looking to buy or sell a Sacramento home, give us a call or send us an email. We’d love to help you!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 27 Jan 2017 15:15:00 -0600</pubDate>
+        <link>localhost:4000/how-mls-and-lockboxes-help-you-buy-and.html</link>
+        <guid isPermaLink="true">localhost:4000/how-mls-and-lockboxes-help-you-buy-and.html</guid>
+        
+        <category>Real Estate Tips and Tricks</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>How HP Real Estate Helped De</title>
+        <description>&lt;iframe frameborder=&quot;no&quot; height=&quot;166&quot; scrolling=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/301940372&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot; width=&quot;100%&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;“It was great. We ended up with the house we wanted and we got it for a price and interest rate that we thought was good. Very prompt in responding to all inquiry and questions. Very knowledgeable, have a good amount of resources and people to refer to with other questions, for something he needed to figure out, he was quick with it, prompt.”&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Jan 2017 16:53:00 -0600</pubDate>
+        <link>localhost:4000/how-hp-real-estate-helped-de.html</link>
+        <guid isPermaLink="true">localhost:4000/how-hp-real-estate-helped-de.html</guid>
+        
+        <category>Testimonial</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Wishing You a Safe and Happy Holiday Season</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/4pslIttdS28?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=We couldn't have done it without you!%20localhost:4000/wishing-you-safe-and-happy-holiday.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“We couldn’t have done it without you!”&lt;/a&gt;
+With 2016 coming to a close, we just wanted to reach out today to wish you a happy holiday season as we head into the new chapter of 2017. Thank you so much for your support, your love, and your trust in us to serve you in buying or selling a home.&lt;/p&gt;
+
+&lt;p&gt;We not only met but exceeded our goals this year and we couldn’t have done it without your support.
+We hope you and your family have a warm and safe holiday season. We look forward to serving you in the future.&lt;/p&gt;
+
+&lt;p&gt;As always, if you have any questions or you’re looking to buy or sell a home in Sacramento, we’re always here to help!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 19 Dec 2016 10:16:00 -0600</pubDate>
+        <link>localhost:4000/wishing-you-safe-and-happy-holiday.html</link>
+        <guid isPermaLink="true">localhost:4000/wishing-you-safe-and-happy-holiday.html</guid>
+        
+        <category>General</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Why Is Buying Financially Smarter Than Renting?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/g7ysJ20IM-U?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Today, I have good news and bad news that I want to share with you.&lt;/p&gt;
+
+&lt;p&gt;The bad news? Since the election, interest rates have gone up. Sadly, they’re no longer hovering around their all-time low average of 3%. The good news? It’s still a good time to buy. Why?&lt;/p&gt;
+
+&lt;p&gt;To answer that, let’s turn back the clock a little bit. In the 1970s, interest rates were averaging around 8%. In the 80s, that average rose to 12%. Then, in the 90s, it shrunk back down to 8%. In the 2000s, it shrunk down a little further to 6%.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=You can still lock in an ultra-low rate by buying now.%20localhost:4000/why-is-buying-financially-smarter-than.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“You can still lock in an ultra-low rate by buying now.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Now that we’re almost into 2017, our interest rates are averaging 4%. So, as you see, even as they’ve risen, they’re still incredibly low from a historical perspective. You may have missed out on the apex, but we can’t go back in time. Compared to previous decades, our rates are still historically low, so if you wanted to buy a home, you’d still be locking in a better rate than your parents ever could have.&lt;/p&gt;
+
+&lt;p&gt;If you’re looking to buy or sell a home, don’t hesitate to reach out to me by phone or email. I hope to hear from you soon!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 28 Nov 2016 13:28:00 -0600</pubDate>
+        <link>localhost:4000/why-is-buying-financially-smarter-than.html</link>
+        <guid isPermaLink="true">localhost:4000/why-is-buying-financially-smarter-than.html</guid>
+        
+        <category>Home Buyer Tips</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Is It Still a Good Time to Buy?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Ws2otlzzpK4?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;One of my clients recently ask me, “Should I buy now and own a home, or should I keep renting and save for a bigger down payment?”&lt;/p&gt;
+
+&lt;p&gt;This is an important question. Everybody’s situation is a little bit different, but if you find that you’re asking yourself the same question, I can tell you that there are three reasons you should stop renting and go ahead and buy.&lt;/p&gt;
+
+&lt;p&gt;The first reason is that when you write rent checks to a landlord, you’re paying them—not you. You’re not building any equity for yourself—you’re building equity for your landlord. If you’re renting to try and save for a bigger down payment and prevent PMI being added onto your mortgage, you’re not doing yourself any favors. In all that time, you could’ve been lowering your mortgage and building equity for yourself.&lt;/p&gt;
+
+&lt;p&gt;The second reason is that when you own a home, you can do whatever you want to it. When you rent, if you want to change anything substantial about the property, you need permission from the landlord. Even if the landlord does give you permission, you’re only upgrading their property—not yours.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Owning a home means building long-tern equity.%20localhost:4000/is-it-still-good-time-to-buy.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Owning a home means building long-tern equity.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The third reason is if you do buy a home and the experience is too overwhelming, after five years, you have the option of turning the property into a rental home and becoming a landlord, yourself.&lt;/p&gt;
+
+&lt;p&gt;Do you want to be able to do whatever you want to the house you’re living in? Do you want to be able to pay yourself first and build equity in the long run? Do you want the freedom to be able to become a landlord in the future? If you answer “yes” to any of these questions, you probably have your answer.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions about this topic, please feel free to reach out to me by phone or email. I look forward to hearing from you!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 28 Nov 2016 13:28:00 -0600</pubDate>
+        <link>localhost:4000/is-it-still-good-time-to-buy.html</link>
+        <guid isPermaLink="true">localhost:4000/is-it-still-good-time-to-buy.html</guid>
         
         <category>Market Update</category>
         
-        <category>Real Estate</category>
         
-        <category>Home Seller Tips</category>
+      </item>
+    
+      <item>
+        <title>Why Is Owning a Home More Beneficial in the Long Run?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/HhI_YrMWYDE?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=A mortgage acts as a forced savings account.%20localhost:4000/why-is-owning-home-more-beneficial-in.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“A mortgage acts as a forced savings account.”&lt;/a&gt;
+Owning a home doesn’t just provide you and your family with a place to live; it’s also a great investment. Today, I wanted to share three reasons why:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;A mortgage is fixed, but rent is not. It depends on the landlord as to how much, but your rent will go up over time. A mortgage payment will stay the same throughout the lifetime of your loan.&lt;/li&gt;
+  &lt;li&gt;A mortgage acts as a forced savings account. Down the road, as you pay your mortgage and reduce the balance on your loan, you also increase your equity in the mortgage. If an emergency occurs or you want to make upgrades to your home, you can pull equity out of your mortgage because it acts like a savings account from the beginning.&lt;/li&gt;
+  &lt;li&gt;You can rent out your home if you need to move, and they can pay down your mortgage. You can even potentially earn income from that renter.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;These are just three reasons why owning a home is beneficial to your finances. If you’re looking for more reasons or you’re ready to buy or sell a house, give me a call or send me an email soon. I’d love to help you out!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 28 Nov 2016 13:28:00 -0600</pubDate>
+        <link>localhost:4000/why-is-owning-home-more-beneficial-in.html</link>
+        <guid isPermaLink="true">localhost:4000/why-is-owning-home-more-beneficial-in.html</guid>
+        
+        <category>Home Buyer Tips</category>
         
         
       </item>
