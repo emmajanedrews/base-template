@@ -9,11 +9,10 @@ enclosure:
 pullquote: Make the mantle a beautiful focal point.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image:
 youtube_code: f-CaIatdybE
 ---
-{% include youtube.html %}
 The holidays are approaching. Today, we thought we'd do something a little different and share this festive video on holiday decorating tips from HGTV. Designer Angelo Surmelis shares several great ideas to spread holiday cheer throughout the home. Here are some of our favorites.
 
 1. Pay attention to the mantle. If you don't have some already, buy some kind of garland to drape over the mantle. Next, use leftover ornaments and candles to add light and texture. When choosing ornaments and candles, ensure they are in the same color-palette. This helps make your mantle a great focal point!
