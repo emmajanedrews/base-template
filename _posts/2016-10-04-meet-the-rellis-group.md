@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Meet the REllis Group
+date: 2016-10-04
 tags:
   - Real Estate
 excerpt: 'Today, my team and I would like to announce that we are starting a real estate video blog to share our expertise with all of you.'
@@ -11,7 +12,6 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: DhAXAEU4ifQ
-date: 2016-10-04
 ---
 
 
