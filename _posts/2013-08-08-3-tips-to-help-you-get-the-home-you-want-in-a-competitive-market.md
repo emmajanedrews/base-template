@@ -5,7 +5,7 @@ tags:
   - Home Buyer Tips
 excerpt: 'In a competitive market like ours, finding the right home to buy can be tricky. That’s why today I want to share three tips that will help you get the home that you want. The first tip is to be informed and know the marketplace. This means spending some time in the neighborhood your home is located in so that you familiarize yourself with that area. To learn more tips that will help get you the home you want in a competitive market, watch my latest video.'
 pullquote: Getting pre-approved puts you in a much stronger position as a buyer.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Jason+McIntosh/+Videos/2017/March/Savannah+Real+Estate+Agent-+3+Tips+to+Help+You+Get+the+Home+You+Want+in+a+Competitive+Market.mp4'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
