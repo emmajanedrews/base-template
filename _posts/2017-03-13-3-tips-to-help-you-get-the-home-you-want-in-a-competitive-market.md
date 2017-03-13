@@ -14,9 +14,9 @@ youtube_code: efbUSXeFW7A
 ---
 
 
-In a competitive market like ours, these three tips will help you get the home you want.
-
 {% include youtube.html %}
+
+In a competitive market like ours, these three tips will help you get the home you want.
 
 Today I want to share three tips to help you get the home you want in a competitive market like ours.
 
