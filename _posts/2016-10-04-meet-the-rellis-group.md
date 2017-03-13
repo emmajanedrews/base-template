@@ -11,7 +11,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: DhAXAEU4ifQ
-date:
+date: 2016-10-04
 ---
 
 
