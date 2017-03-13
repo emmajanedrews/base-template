@@ -7,7 +7,7 @@ excerpt: 'In a competitive market like ours, finding the right home to buy can b
 pullquote: Getting pre-approved puts you in a much stronger position as a buyer.
 enclosure:
 enclosure_type: video/mp4
-enclosure_time:
+enclosure_time: '12:38 pm'
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: efbUSXeFW7A
