@@ -4,7 +4,7 @@ title: San Diego Real Estate Market Update
 tags:
   - Market Update
 excerpt: "What's going on in the San Diego market? I've got a full report on what you can expect whether you're buying or selling a home in our market this year."
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Beach+and+Sun+Homes-+San+Diego+Market+Update.mp4'
 pullquote: The key to getting ahead in the San Diego market is all about pricing.
 enclosure_type: video/mp4
 enclosure_time:
