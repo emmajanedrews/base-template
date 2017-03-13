@@ -1,22 +1,31 @@
 ---
 layout: post
-title: Selling Your Home in a Changing Market
-date: '2013-08-08T13:09:00.000-07:00'
-author: Vyral Admin
+title: 3 Tips to Help You Get the Home You Want in a Competitive Market
 tags:
-- Home Seller Tips
-modified_time: '2013-08-12T14:06:53.727-07:00'
+  - Home Buyer Tips
+excerpt: 'In a competitive market like ours, finding the right home to buy can be tricky. That’s why today I want to share three tips that will help you get the home that you want. The first tip is to be informed and know the marketplace. This means spending some time in the neighborhood your home is located in so that you familiarize yourself with that area. To learn more tips that will help get you the home you want in a competitive market, watch my latest video.'
+pullquote: Getting pre-approved puts you in a much stronger position as a buyer.
+enclosure:
+enclosure_type: video/mp4
+enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: rFVRrrOmkpc
+youtube_code: efbUSXeFW7A
 ---
+
+
+In a competitive market like ours, these three tips will help you get the home you want.
+
 {% include youtube.html %}
-Hi everyone! Today I wanted to speak with you about a topic that’s come up a lot during listing appointments. Clients want to know how to sell their home in a changing market.
 
-What I am finding is often sellers want to price their home at top value and see what happens. If the activity isn’t there, then they will just drop down the price. It’s important for sellers to know that buyers are very informed these days. They have access to countless resources especially on the Internet. Statistics show the 9 out 10 buyers actually start their search on the Internet.
+Today I want to share three tips to help you get the home you want in a competitive market like ours.
 
-Even though we are in a shifting market, buyers still want to get a good price. One thing to remember is each neighborhood will have an average price per square foot and if a home comes on that is listed higher than that, that new listed home is less desirable.
+The first tip is to **be informed and know the marketplace.** If there’s an area in town that you are interested in, there are probably a few social media sites you can join that will keep you updated on community events and neighborhood functions. This will give you a chance to meet some neighbors from that area and familiarize yourself with it. It’s also important to spend some time in the neighborhood you’re interested in. You could take a walk or drive through the area several times so you know it as well as possible.
 
-We find that the greatest chance of activity happens within 3-7 weeks. After a few months on the market, often buyers will think sellers are more motivated to sell, so they offer less. Statistics show when you price a home properly in the first place you will sell quicker and closer to your asking price. Remember, the largest determining factor on whether a home will is its price.
+{% include pullquote.html %}
 
-I hope I’ve given you some things to think about when you are getting ready to sell your home. If you want a free market analysis, get a hold of us! We would love to help you make your next real estate move!
+The second tip is to **make sure you are pre-approved for a loan****.** Being able to make an offer with a pre-approval letter puts you in a much stronger position than you would be if you made an offer without one. You don’t want to make an offer to a seller and leave them hanging on whether you’re pre-approved or not. When you speak to your lender, depending on the location of the home, remember that there are several different financing options or types of loans available to you. By knowing your loan options, you can greatly reduce the amount of money you put down.
+
+The third and final tip is to **communicate to your agent all of your must-haves in your prospective home.** Whether it’s a garage, a pool, or a single level, you need to let them know what you need. As Realtors, we’re constantly familiarizing ourselves with what’s on the market so we can present you with many options. Communicate what your needs are so we can be on the lookout on your behalf.
+
+If you’re thinking of buying or selling a home or have any questions you’d like to see us discuss in a future video, please feel free to reach out to us. We’d be happy to help!
