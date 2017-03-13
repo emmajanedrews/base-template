@@ -16,7 +16,7 @@ youtube_code: ehZMeV8zf70
 
 {% include youtube.html %}
 
-If your property is out of date, you might be wondering what updates you should make before putting it on the market. I’ll go over the best projects you can do to add value and prepare your home today.
+If your property is out of date, you might be wondering what updates you should make before putting it on the market. [In our last video](/3-investments-to-make-before-you-list-your-house.html), we covered improvements you can make to your surface areas to spruce up your home. Today we're back with a few more upgrades that will make your home really stand out.
 
 First and foremost, you want to be strategic and economical about the updates you undertake, but keep in mind that upgrades are crucial as buyers are very critical.
 
