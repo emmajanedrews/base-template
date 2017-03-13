@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Smart Updates to Make Before Listing
+title: "Things to Tackle If You're Updating"
 tags:
   - Home Seller Tips
 excerpt: 'If you’re looking to sell your home, what are some great updates you can make before you go on the market? Today I’ll go over what areas you should focus on to ensure the best return.'
