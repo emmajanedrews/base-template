@@ -1,6 +1,7 @@
 ---
 layout: post
 title: this is a test post
+date:
 tags:
   - Market Update
   - Real Estate
