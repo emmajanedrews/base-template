@@ -1,6 +1,7 @@
 ---
 layout: post
 title: San Diego Real Estate Market Update
+date:
 tags:
   - Market Update
 excerpt: "What's going on in the San Diego market? I've got a full report on what you can expect whether you're buying or selling a home in our market this year."
