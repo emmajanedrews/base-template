@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Tips to Increase Your Home’s Value
-date: 2017-03-14 10:25:09
+date: 2017-03-14 10:25:00
 tags:
 excerpt:
 enclosure:
@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: '<iframe width="560" height="315" src="https://www.youtube.com/embed/wrVFAdgX0To" frameborder="0" allowfullscreen></iframe>'
+youtube_code: 'https://youtu.be/wrVFAdgX0To'
 ---
 
 
