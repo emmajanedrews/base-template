@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "What's Going on in the Mississippi Gulf Coast Market?"
+date: 2017-02-28
 tags:
   - Market Update
 excerpt: "What's going on in the Mississippi gulf coast market? I've got a full breakdown of what you can expect this year whether you're buying or selling a home."
