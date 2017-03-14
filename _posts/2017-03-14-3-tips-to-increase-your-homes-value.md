@@ -17,7 +17,7 @@ youtube_code: 'https://youtu.be/wrVFAdgX0To'
 
 {% include youtube.html %}
 
-&nbsp;***Looking to buy a home? [Search all homes on the MLS](http://wilsonteam.kwrealty.com/)***
+***Looking to buy a home? [Search all homes on the MLS](http://wilsonteam.kwrealty.com/)***
 
 ***Get a FREE [home value report](http://wilsonteam.kwrealty.com/sell/)***
 
