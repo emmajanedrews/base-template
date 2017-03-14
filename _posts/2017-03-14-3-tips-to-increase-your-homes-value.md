@@ -25,7 +25,11 @@ If you are planning on selling your home, here are a few simple, inexpensive thi
 
 <br>**1. Declutter your home.**This is a low or no cost task that helps you make money. When staging your house for the market, remember, less is more. The bigger your home feels, the better. Make sure the countertops are clear. If you aren’t sure whether something should stay or go, you can always call us for help. In most cases, if you’re uncertain about a piece of furniture, it should probably go. Yard sales are a great way to get rid of things that you don’t need anymore. Not only is decluttering very profitable, it’s also very freeing.
 
+&nbsp;
+
 {% include pullquote.html %}
+
+&nbsp;
 
 **2. Paint your house.**You may need to paint the entire house, but simply painting all of the trim will go a long way. People tend to invent what they don’t know about a house, so if they see scuffed-up baseboards, they will think that the house hasn’t been taken care of. Take care of scuff marks by painting over them and then blending up so that the fresh paint doesn’t stand out on your walls. Painting the trim provides clean lines. You should also do some touch-ups if there are marks on your walls. &nbsp;
 
