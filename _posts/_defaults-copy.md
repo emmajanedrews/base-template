@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: How We Do Things at The Stern Team
 tags:
   - Real Estate
