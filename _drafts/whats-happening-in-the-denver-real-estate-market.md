@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s Happening in the Denver Real Estate Market?
-time: 2-27-17
+date: 2-27-17
 tags:
 excerpt:
 enclosure:
