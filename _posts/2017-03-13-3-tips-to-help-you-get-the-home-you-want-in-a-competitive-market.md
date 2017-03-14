@@ -16,8 +16,6 @@ youtube_code: efbUSXeFW7A
 
 {% include youtube.html %}
 
-*In a competitive market like ours, these three tips will help you get the home you want.*
-
 Today I want to share three tips to help you get the home you want in a competitive market like ours.
 
 The first tip is to **be informed and know the marketplace.** If there’s an area in town that you are interested in, there are probably a few social media sites you can join that will keep you updated on community events and neighborhood functions. This will give you a chance to meet some neighbors from that area and familiarize yourself with it. It’s also important to spend some time in the neighborhood you’re interested in. You could take a walk or drive through the area several times so you know it as well as possible.
