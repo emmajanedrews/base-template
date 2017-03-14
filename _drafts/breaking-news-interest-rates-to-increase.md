@@ -22,8 +22,8 @@ The media may lead you to believe that it will have a direct relationship to the
 
 {% include pullquote.html %}
 
-If you’re a buyer or seller in today’s market, what does this mean for you? In Chicagoland, we have a very strong seller’s market for the most part. We’re in the heart of our spring selling season and homeowners are able to sell quickly and at or above list price. Because there are fewer properties available, buyers are competing for limited inventory. That’s driving prices up.
+If you’re a buyer or seller in today’s market, what does this mean for you? In Chicagoland, we have a very strong seller’s market for the most part. **We’re in the heart of our spring selling season and homeowners are able to sell quickly and at or above list price.** Because there are fewer properties available, buyers are competing for limited inventory. That’s driving prices up.
 
-If you’re looking to make a move later this year or early next year, you should take a look at the market now and see if you would have a better advantage with rates where they are now. If rates continue to go up, it makes sense for you to buy now. As they increase, your buying power will decrease. We wouldn’t be shocked to see them go up two more times this year alone, so now is a good time to consider making a move.
+If you’re looking to make a move later this year or early next year, you should take a look at the market now and see if you would have a better advantage with rates where they are now. If rates continue to go up, it makes sense for you to buy now. As they increase, your buying power will decrease. **We wouldn’t be shocked to see them go up two more times this year alone, so now is a good time to consider making a move.**
 
 If you have any questions for us or you or someone you know is interested in buying ,selling, or investing, give us a call or send us an email. We look forward to hearing from you.
