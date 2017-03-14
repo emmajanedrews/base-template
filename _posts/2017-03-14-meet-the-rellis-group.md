@@ -9,8 +9,8 @@ enclosure: 'https://s3.amazonaws.com/vyralmarketing/Rob+Ellis/The+Rellis+Group-+
 pullquote: 'Send us your questions!'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/rob-ellis-screenshot-from-john-wests-3-14-17-youtube.jpg
 youtube_code: 'https://youtu.be/RUv9KFZ6pE8'
 ---
 
