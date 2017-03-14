@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What’s Happening in the Denver Real Estate Market?
+date: 2-27-17
 tags:
   - Market Update
 excerpt: 'How is the first quarter of the 2017 real estate market going in Denver? I’ll go over a few things you should know, such as what’s going on with inventory, interest rates, and home values.'
