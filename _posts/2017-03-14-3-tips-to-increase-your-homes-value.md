@@ -17,9 +17,9 @@ youtube_code: 'https://youtu.be/wrVFAdgX0To'
 
 {% include youtube.html %}
 
-**Looking to buy a home? [Search all homes on the MLS](http://wilsonteam.kwrealty.com/)**
+**Looking to buy a home? [Search all homes on the MLS](http://wilsonteam.kwrealty.com/)**{:target="_blank"}{: style="text-align: center"}
 
-**Get a FREE [home value report](http://wilsonteam.kwrealty.com/sell/)**
+**Get a FREE [home value report](http://wilsonteam.kwrealty.com/sell/)**{:target="_blank"}{: style="text-align: center"}
 
 If you are planning on selling your home, here are a few simple, inexpensive things that will help you increase your home’s value:
 
