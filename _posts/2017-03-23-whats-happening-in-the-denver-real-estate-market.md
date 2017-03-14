@@ -23,7 +23,7 @@ What can you expect from the real estate market in 2017? Is Denver in a buyer’
 
 Since inventory is so low and demand is so high, there is upward pressure on home prices. It all boils down to supply and demand. Since there aren’t many homes on the market and there are many people interested in buying a home, home values are on the rise.
 
-Since Donald Trump has become president, **interest rates have been steadily increasing.** Before the election, the average interest rate was 3.87%. Now, the average interest rate is 4.25%. That alone will make purchasing a home more expensive for buyers.
+Since Donald Trump has become president, **interest rates have been steadily increasing.**Before the election, the average interest rate was 3.87%. Now, the average interest rate is 4.25%. That alone will make purchasing a home more expensive for buyers.
 
 {% include pullquote.html %}
 
