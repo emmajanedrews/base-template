@@ -4,7 +4,7 @@ title: Some News From Our Office and the Market
 tags:
   - Market Update
 excerpt: Today I want to talk to you about some new services that we are offering and give you the rundown on the early spring market.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Wes+Peters/Baltimore+Metro+Real+Estate-+The+latest+news+on+the+market+and+our+team.mp4'
 pullquote: Our handyman can help you get your home ready for sale or help customize your new one.
 enclosure_type: video/mp4
 enclosure_time:
