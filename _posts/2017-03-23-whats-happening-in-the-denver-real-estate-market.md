@@ -29,6 +29,6 @@ Since Donald Trump has become president, **interest rates have been steadily inc
 
 Rising interest rates and rising home values are putting a lot of upward pressure on affordability. If you are in the market for a home now, there are two things you can bank on: that house will be more expensive next year, and the cost to borrow money will go up. There is no better time to buy a home than right now, before it starts to become too expensive.
 
-**As for sellers, &nbsp;higher interest rates actually work to your advantage.** A lot of buyers are jumping off of the fence and into the market before rates go up again. So, even though we have a shortage of inventory, we are seeing even more interest in the homes already on the market.
+**As for sellers,  higher interest rates actually work to your advantage.** A lot of buyers are jumping off of the fence and into the market before rates go up again. So, even though we have a shortage of inventory, we are seeing even more interest in the homes already on the market.
 
 If you have any other questions about buying or selling a home in our current real estate market, give me a call or send me an email. I would be happy to help you!
