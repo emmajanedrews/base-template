@@ -23,7 +23,7 @@ youtube_code: 'https://youtu.be/wrVFAdgX0To'
 
 If you are planning on selling your home, here are a few simple, inexpensive things that will help you increase your home’s value:
 
-<br>**1. Declutter your home.**This is a low or no cost task that helps you make money. When staging your house for the market, remember, less is more. The bigger your home feels, the better. Make sure the countertops are clear. If you aren’t sure whether something should stay or go, you can always call us for help. In most cases, if you’re uncertain about a piece of furniture, it should probably go. Yard sales are a great way to get rid of things that you don’t need anymore. Not only is decluttering very profitable, it’s also very freeing.
+**1. Declutter your home.**This is a low or no cost task that helps you make money. When staging your house for the market, remember, less is more. The bigger your home feels, the better. Make sure the countertops are clear. If you aren’t sure whether something should stay or go, you can always call us for help. In most cases, if you’re uncertain about a piece of furniture, it should probably go. Yard sales are a great way to get rid of things that you don’t need anymore. Not only is decluttering very profitable, it’s also very freeing.
 
 &nbsp;
 
