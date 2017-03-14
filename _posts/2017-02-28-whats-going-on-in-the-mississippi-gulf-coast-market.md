@@ -20,7 +20,7 @@ What's going on in the Mississippi gulf coast real estate market right now? How 
 
 On average, our market has six months worth of inventory, which technically puts us in a buyer's market. We've had a drastic decline in the last year going from 12 months to six months of inventory, however, and we're definitely trending toward a seller's market across the coast.
 
-**Different areas and neighborhoods are in seller's market, though.** For example, Ocean Springs has four months of inventory and Biloxi has five, putting them in seller's markets. The city of Gulfport had 10 months of inventory a year ago and is now down to six. Long Beach is experiencing the same thing.
+**Different areas and neighborhoods are in seller's markets, though.** For example, Ocean Springs has four months of inventory and Biloxi has five, putting them in seller's markets. The city of Gulfport had 10 months of inventory a year ago and is now down to six. Long Beach is experiencing the same thing.
 
 As you can see, we're trending toward a seller's market.
 <br>
