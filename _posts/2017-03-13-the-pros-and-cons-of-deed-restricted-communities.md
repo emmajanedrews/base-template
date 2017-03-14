@@ -5,7 +5,7 @@ tags:
   - Buyer Tips
 excerpt: "What is a deed-restricted community? Today I'll break down the pros and cons of these communities, which are common in our area."
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Deed+Restricted+Housing.mp4'
-pullquote: "In deed restricted communities, the look of the neighborhood is well-established and won't change."
+pullquote: "In deed-restricted communities, the look of the neighborhood is well-established and won't change."
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -18,9 +18,9 @@ youtube_code: uk1CYQsJtiA
 
 Do you know about deed-restricted communities? Many of our communities here are deed-restricted.
 
-**This means there are rules put in place by the homeowners association pertaining to the land use and look of the neighborhood.** HOA fees in these communities can range from less than $200 a year to several thousand for gated communities with lots of amenities.&nbsp;
+**This means there are rules put in place by the homeowners association pertaining to the land use and look of the neighborhood.** HOA fees in these communities can range from less than $200 a year to several thousand for gated communities with lots of amenities.
 
-The pros of these rules are that you have architectural and neighborhood standards in place and aesthetics are established. They will be well adhered to by everyone in the neighborhood. You will always be in the neighborhood that has the look that you bought into and your home values won't ever be dragged down by your neighbors because they're not taking care of their home or yard.&nbsp;
+The pros of these rules are that you have architectural and neighborhood standards in place and aesthetics are established. They will be well adhered to by everyone in the neighborhood. You will always be in the neighborhood that has the look that you bought into and your home values won't ever be dragged down by your neighbors because they're not taking care of their home or yard.
 
 {% include pullquote.html %}
 
