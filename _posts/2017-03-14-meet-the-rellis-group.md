@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Meet the REllis Group
-date: 2016-10-04 00:00:00
+date: 2017-03-14 00:00:00
 tags:
   - Real Estate
 excerpt: 'Today, my team and I would like to announce that we are starting a real estate video blog to share our expertise with all of you.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Rob+Ellis/The+Rellis+Group-+Your+New+Resource+for+Real+Estate+News.mp4'
 pullquote: 'Send us your questions!'
 enclosure_type: video/mp4
 enclosure_time:
