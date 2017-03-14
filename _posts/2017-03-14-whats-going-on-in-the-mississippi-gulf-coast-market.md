@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What's Going on in the Mississippi Gulf Coast Market?"
-date: 2017-02-28
+date: 2017-03-14 00:00:00
 tags:
   - Market Update
 excerpt: "What's going on in the Mississippi gulf coast market? I've got a full breakdown of what you can expect this year whether you're buying or selling a home."
@@ -33,7 +33,7 @@ What does this all mean if you plan on buying or selling a home? If you're buyin
 
 This is further decreasing supply and lowering demand. Additionally, higher interest rates mean lower affordability. You'll pay more toward mortgage interest and less toward the principal payment.
 
-When you see a great home come to market and you think it's the one you really want, other people are probably thinking the same thing. You'll probably find yourself up against multiple offers, so you want to come out strong. &nbsp;
+When you see a great home come to market and you think it's the one you really want, other people are probably thinking the same thing. You'll probably find yourself up against multiple offers, so you want to come out strong.
 
 If you're thinking about selling your house, you know that last year didn't look good. Homes were on the market longer, prices were lower, and sellers had to make multiple price cuts to sell. Today, however, **we're seeing fewer days on market and sellers getting top dollar for their house.**
 
