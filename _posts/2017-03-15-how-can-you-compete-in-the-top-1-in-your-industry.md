@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/9Vji-Tce1CQ'
+youtube_code: 9Vji-Tce1CQ
 ---
 
 
@@ -34,6 +34,6 @@ First, **read for an hour a week**. Pick 10 to 12 publications and sift through 
 
 Next, **‘pulse-read’ through that information.** What do I mean by that? Pulse reading means going through any magazine, looking at each topic, and deciding whether it’s relevant to the topic you’re interested in. If not, read only the first paragraph and move on. If the next topic you pick is of deeper interest, you might read the first paragraph, then the second paragraph, and only the last paragraph before moving on. You’ll do this with any publication you subscribe to. It should take you no longer than five minutes for each magazine.
 
-In the end, after months of months (or years and years) of doing this, **you’ll have a repertoire of information you can draw on that will allow you to make decisions in an expert manner** because you’ll have a wealth of subject matter relevant to those decisions.&nbsp;
+In the end, after months of months (or years and years) of doing this, **you’ll have a repertoire of information you can draw on that will allow you to make decisions in an expert manner** because you’ll have a wealth of subject matter relevant to those decisions.
 
-The most successful people I’ve known over the years—over a wide range of industries—have always been avid readers. If you have any questions about this topic, please feel free to reach out to us. We’d be happy to speak with you!&nbsp;
+The most successful people I’ve known over the years—over a wide range of industries—have always been avid readers. If you have any questions about this topic, please feel free to reach out to us. We’d be happy to speak with you!
