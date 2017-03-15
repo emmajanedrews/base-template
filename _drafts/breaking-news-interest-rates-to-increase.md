@@ -16,7 +16,7 @@ youtube_code: 49bxPkd_66M
 
 {% include youtube.html %}
 
-We’ve got some breaking news to share with you today. The Federal Reserve has just increased their interest rates by about 0.25%.
+We’ve got some breaking news to share with you today. The Federal Reserve has just increased their interest rates by 0.25%.
 
 The media may lead you to believe that it will have a direct relationship to the interest rates on the open market, but that’s not the case. We saw rates creeping up toward the end of last week and throughout this week in anticipation of the announcement.
 
