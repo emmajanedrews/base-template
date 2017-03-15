@@ -26,8 +26,8 @@ We get a lot of questions about the real estate market. Today, we’ll answer th
 3. What’s happening with interest rates? For a conventional, 30-year fixed loan, rates are hovering between 4% and 4.25%. Rates are expected to trend up over the next 12 months.
 
 4. What does this mean for buyers? If you are a buyer, now is the time to get off the fence. The market is very stable right now, but inventory is dropping, interest rates are going up, and prices are on the rise. You still have a small window to get a great deal and a great interest rate.
-
-{% include pullquote.html %}
+   <br>
+   <br>{% include pullquote.html %}
 
 5. What does this mean for sellers? As inventory drops and demand increases, our market will become a seller’s market. You need to work with a real estate agent who truly understands our local market in order to sell your home quickly and for top dollar.
 
