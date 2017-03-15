@@ -18,10 +18,8 @@ youtube_code: 'https://youtu.be/XHO8mMnIoPw'
 {% include youtube.html %}
 
 **Looking to buy a home? [Search all homes on the MLS](http://wilsonteam.kwrealty.com/)**
-{: style="text-align: center"}
 
 **Get a FREE [home value report](http://wilsonteam.kwrealty.com/sell/)**
-{: style="text-align: center"}
 
 If you are planning on selling your home, here are a few simple, inexpensive things that will help you increase your home’s value:
 
@@ -33,8 +31,8 @@ If you are planning on selling your home, here are a few simple, inexpensive thi
 
 &nbsp;
 
-**2. Paint your house.**You may need to paint the entire house, but simply painting all of the trim will go a long way. People tend to invent what they don’t know about a house, so if they see scuffed-up baseboards, they will think that the house hasn’t been taken care of. Take care of scuff marks by painting over them and then blending up so that the fresh paint doesn’t stand out on your walls. Painting the trim provides clean lines. You should also do some touch-ups if there are marks on your walls.
+**2. Paint your house.&nbsp;**You may need to paint the entire house, but simply painting all of the trim will go a long way. People tend to invent what they don’t know about a house, so if they see scuffed-up baseboards, they will think that the house hasn’t been taken care of. Take care of scuff marks by painting over them and then blending them up so that the fresh paint doesn’t stand out on your walls. Painting the trim provides clean lines. You should also do some touch-ups if there are marks on your walls.
 
 **3. Clean up the yard.** Curb appeal is a big deal because people drive through neighborhoods and look at homes before they call their Realtor. You want those people to make that phone call because they are interested in your home. Take care of some of the less expensive landscaping, like adding fresh mulch, trimming hedges, and edging the lawn. You can even pressure wash the outside of your house to make the exterior paint look nice and fresh. Just make sure your home looks clean and crisp on the outside.
 
-<br>These inexpensive tasks are easy ways to add value to your home before putting it on the market. If you have any other questions about the spring market or about real estate in general, give me a call or send me an email. I would be happy to help you!
+These inexpensive tasks are easy ways to add value to your home before putting it on the market. If you have any other questions about the spring market or about real estate in general, give me a call or send me an email. I would be happy to help you!
