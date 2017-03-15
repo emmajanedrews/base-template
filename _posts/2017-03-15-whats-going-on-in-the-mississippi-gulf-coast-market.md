@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What's Going on in the Mississippi Gulf Coast Market?"
-date: 2017-03-14 00:00:00
+date: 2017-03-15 00:00:00
 tags:
   - Market Update
 excerpt: "What's going on in the Mississippi gulf coast market? I've got a full breakdown of what you can expect this year whether you're buying or selling a home."
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: sXnIGB8PzUc
+youtube_code: gW861jSBjaM
 ---
 
 
