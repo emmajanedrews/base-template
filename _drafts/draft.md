@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What Can You Expect From the 2017 Market?
+date: 2-27-17
 tags:
   - Market Update
 excerpt:
