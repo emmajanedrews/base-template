@@ -21,7 +21,7 @@ Now that 2017 is underway, I want to go over a few things you can expect to see 
 
 **We are still in a strong seller’s market**, which means we have more demand than supply. We’re seeing rising prices, multiple offer situations, and homes selling the second they hit the market. Sometimes, multiple offers can cause a home to sell for well above asking price.
 
-We saw a rise in interest rates around the election period and my lender tells me we are right around the low 4% to 4.5% range, which is still very low.
+We saw a rise in interest rates around the election and my lender tells me we are right around the 4% to 4.5% range, which is still very low.
 
 So, what does this mean for buyers and sellers?
 
@@ -31,6 +31,6 @@ As a buyer, **you’ll want to be knowledgeable about the market.** You’re goi
 
 You also have to be very aggressive as a buyer in this market. If there are not multiple offers on a property right away, there probably will be, so you want to make your first offer your best. You don’t want to spend time trying to negotiate as that would give other people time to send an offer in.
 
-If you’re a seller, **right now is a great time to list your home.** In fact, there are fewer than 2,000 homes for sale in Davidson County. You can price it in a great range and will more than likely sell quickly with multiple offers on the table. Our market is projected to be one of the hottest in 2017.
+If you’re a seller, **right now is a great time to list your home.** In fact, there are fewer than 2,000 homes for sale in Davidson County. You can price it in a great range and it will more than likely sell quickly with multiple offers on the table. Our market is projected to be one of the hottest in 2017.
 <br>
 <br>If you are looking to buy or sell a home, or if you have any other questions, please feel free to reach out to me with a phone call or a quick email. I look forward to hearing from you!
