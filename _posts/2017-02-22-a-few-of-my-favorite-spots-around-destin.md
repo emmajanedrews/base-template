@@ -2,7 +2,7 @@
 layout: post
 title: A Few of My Favorite Spots Around Destin
 tags:
-  - Real Estate
+  - Venue Reviews
 excerpt: I want to take you to a couple of my favorite spots in the area today. First up is Lulu’s.
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Nathan+Abbott/Nathan+Abbott+Team-+A+few+great+places+for+you+to+check+out.mp4'
 pullquote: Lulu’s has such a gorgeous ocean view.
