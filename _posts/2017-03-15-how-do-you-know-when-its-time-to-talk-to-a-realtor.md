@@ -21,7 +21,7 @@ If you want to sell your house, when should you contact a real estate agent?
 
 As soon as possible!
 
-Even if you're nine months out from selling your house, you want to contact a professional Realtor like myself as soon as possible. We can come to your home and tell you what needs to be updated, what you should keep in the house, and the things you should take out of the house to prepare it for the market. This will help you get the most money you can from your home sale.
+Even if you're nine months out from selling your house, you want to contact a professional Realtor like myself as soon as possible. **We can come to your home and tell you what needs to be updated, what you should keep in the house, and the things you should take out of the house to prepare it for the market.** This will help you get the most money you can from your home sale.
 
 The other reason to contact a Realtor early is that we want to keep the buyers in mind.
 
