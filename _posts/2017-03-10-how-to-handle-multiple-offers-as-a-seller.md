@@ -4,7 +4,7 @@ title: How to Handle Multiple Offers as a Seller
 tags:
   - Home Seller Tips
 excerpt: 'Multiple offer situations are incredibly common in our current real estate market. As a home seller, how do you know which offer is the best?'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Chris+Gorman/Triangle+Area+Real+Estate-+Choosing+the+Best+Offer+on+Your+House.mp4'
 pullquote: A pre-approved buyer is just as strong as a cash buyer.
 enclosure_type: video/mp4
 enclosure_time:
