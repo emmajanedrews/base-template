@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 9Vji-Tce1CQ
+youtube_code: slaHA0cIzlo
 ---
 
 
@@ -22,9 +22,9 @@ What do you think that means? How does that apply to you?
 
 First, ask yourself three questions:
 
-Are you disciplined?
-<br>Are you willing to commit one hour a week?
-<br>Are you willing to do it for the rest of your career?
+* Are you disciplined?
+* Are you willing to commit one hour a week?
+* Are you willing to do it for the rest of your career?
 
 If the answer is yes and if you think you can compete in the top 1%, then follow these suggestions.
 
