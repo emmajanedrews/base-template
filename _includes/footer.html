@@ -5,9 +5,9 @@
 	      {% if site.data.settings.client.brand == null and site.data.settings.client.brokerage == null %}
 	        <div class="col-sm-6">
 	          <span itemprop="founder">{{site.data.settings.client.name}}</span>
-						{% if site.data.settings.client.license_number != null %}
-						<br><span>#{{site.data.settings.client.license_number }}
-					{% endif %}
+
+							<span itemprop="founder">{{site.data.settings.partner.name}}</span>
+
 	        </div>
 	        <div class="col-sm-6">
 	          <address itemprop="address">{{site.data.settings.client.address}}</address>
@@ -15,9 +15,8 @@
 	      {% elsif site.data.settings.client.brand == null %}
 	        <div class="col-sm-4">
 	          <span itemprop="founder">{{site.data.settings.client.name}}</span>
-						{% if site.data.settings.client.license_number != null %}
-						<br><span>#{{site.data.settings.client.license_number }}
-							{% endif %}
+
+							<span itemprop="founder">{{site.data.settings.partner.name}}</span>
 	        </div>
 	        <div class="col-sm-4">
 	          <span itemprop="branchof">{{site.data.settings.client.brokerage}}</span>
@@ -27,10 +26,9 @@
 	        </div>
 	      {% elsif site.data.settings.client.brokerage == null  %}
 	        <div class="col-sm-4">
-	          <span itemprop="founder">{{site.data.settings.client.name}}</span>
-						{% if site.data.settings.client.license_number != null %}
-						<br><span>#{{site.data.settings.client.license_number }}
-					{% endif %}
+	          <span itemprop="founder">{{site.data.settings.client.name}}</span><br>
+
+					<span itemprop="founder">{{site.data.settings.partner.name}}</span>
 	        </div>
 	        <div class="col-sm-4">
 	          <span itemprop="brand">{{site.data.settings.client.brand}}</span>
@@ -41,9 +39,6 @@
 	      {% else %}
 	        <div class="col-sm-3">
 	          <span itemprop="founder">{{site.data.settings.client.name}}</span>
-						{% if site.data.settings.client.license_number != null %}
-						<br><span>#{{site.data.settings.client.license_number }}
-					{% endif %}
 	        </div>
 	        <div class="col-sm-3">
 	          <span itemprop="brand">{{site.data.settings.client.brand}}</span>
@@ -67,8 +62,10 @@
 					{% endif %}
 
 	      </div>
-	      <div class="col-sm-4"><a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a></div>
-	      <div class="col-sm-4"><a href="{{site.data.settings.client.url}}">{{site.data.settings.client.url | remove: "http://" | remove: "https://"}}</a></div>
+	      <div class="col-sm-4"><a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a><br>
+				<a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.partner.email}}</a></div>
+	      <div class="col-sm-4"><a href="{{site.data.settings.client.url}}" target="_blank">{{site.data.settings.client.url | remove: "http://" | remove: "https://"}}</a><br>
+				<a href="{{site.data.settings.partner.url}}" target="_blank">{{site.data.settings.partner.url | remove: "http://" | remove: "https://"}}</a></div>
 	    </div>
 	    <div class="row">
 	      <div class="twelve columns footer-socials">
