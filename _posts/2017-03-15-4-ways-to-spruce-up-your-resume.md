@@ -20,7 +20,7 @@ How can you format a resume to make it the most effective?
 
 The first piece is the most basic but often overlooked, which is making sure all of your contact information is up to date. Make sure you don’t have an outdated email address or cell phone number on your resume.&nbsp;
 
-Next, **you need to keep it consistent.**You might update your resume with your most recent positions, which is fine, but make sure the font size, type, and color, is the same as the rest of the resume. Also, make sure bullet points are the same size and things that need to be italicized are italicized. It needs to look uniform throughout.&nbsp;
+Next, **you need to keep it consistent.&nbsp;**You might update your resume with your most recent positions, which is fine, but make sure the font size, type, and color, are the same as the rest of the resume. Also, make sure bullet points are the same size and things that need to be italicized are italicized. It needs to look uniform throughout.&nbsp;
 
 {% include pullquote.html %}
 
