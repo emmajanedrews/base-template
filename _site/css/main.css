@@ -2230,14 +2230,18 @@ table tr, table td {
       fill: #5a5fa8;
       background: transparent; }
 
-@media (max-width: 1450px) {
-  .socials svg {
-    height: 3rem;
-    width: 3rem; } }
-@media (max-width: 1255px) {
+@media (max-width: 1650px) {
   .socials svg {
     height: 2.7rem;
-    width: 2.7rem; }
+    width: 2.7rem; } }
+@media (max-width: 1450px) {
+  .socials svg {
+    height: 2.5rem;
+    width: 2.5rem; } }
+@media (max-width: 1200px) {
+  .socials svg {
+    height: 3rem;
+    width: 3rem; }
 
   .footer-socials .socials svg {
     height: 2.4rem;
