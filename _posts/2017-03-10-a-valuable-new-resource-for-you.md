@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: 'Welcome to our new real estate blog! Here, we’ll share tips for buyers and sellers alike, in addition to market news and updates. Ultimately, we want be your local real estate resource. If you’re curious about a topic, reach out to us. Watch this video for more details!'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Scott+Hollinger/Big+Fork+Real+Estate++The+Hollinger+Team+Welcome+To+Our+Youtube+Channel.mp4'
 pullquote: We want to be your local real estate resource.
 enclosure_type: video/mp4
 enclosure_time:
