@@ -18,7 +18,7 @@ youtube_code: CZxF-PYbNlk
 
 Today I'm happy to introduce you to Troy, our team's lead listing agent. Troy handles all of our listings and was a huge part of our success in 2016.
 
-We had a great year last year and were able to list and sell 58 homes. We sold them for 98.8% of the original list price in 35 days on average. To boot, **we sold 40% of our listings last year at or above list price.** Compare that to the Baltimore metro average with homes selling on average at 95% of their list price. Just by deciding to work with us, our clients made 3.8% more for their homes on average.
+We had a great year last year and were able to list and sell 58 homes. We sold them for 98.8% of the original list price in 35 days on average. To boot, **we sold 40% of our listings last year at or above list price.** Compare that to the Baltimore metro average of homes selling at 95% of their list price. Just by deciding to work with us, our clients made 3.8% more for their homes on average.
 
 We have specialists in every area of a real estate transaction, as Troy points out, which is a big benefit for our clients. Troy has a marketing background and works with stagers, photographers, and with our team's database of buyers. He helps our clients make sure their homes look spectacular the first day they go on the market and gets potential buyers through the door right away.
 
