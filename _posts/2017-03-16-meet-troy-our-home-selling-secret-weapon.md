@@ -5,7 +5,7 @@ tags:
   - Home Seller Tips
 excerpt: "Today I'm happy to introduce you to Troy, our team's lead listing agent. Troy handles all of our listings and was a huge part of our success in 2016."
 enclosure:
-pullquote: roy played a big part in helping us list and sell 58 homes last year.
+pullquote: Troy played a big part in helping us list and sell 58 homes last year.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
