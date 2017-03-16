@@ -5,7 +5,7 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: Ice dams can be a problem for many homeowners in our area. I’ll go over the best ways to prevent ice dams from collecting on your roof today.
-enclosure:
+enclosure: https://s3.amazonaws.com/vyralmarketing/Scott+Hollinger/Montana+Real+Estate++The+Hollinger+Team+How+to+deal+with+ice+dams.mp4
 pullquote: 'Roofing companies aren’t as busy this time a year, so they could safely shovel your roof off for you.'
 enclosure_type:
 enclosure_time:
