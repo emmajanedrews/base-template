@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Benefits of Hiring a Buyer’s Agent
-date:
+date: 2017-03-17 15:31:01
 tags:
   - Home Buyer Tips
 excerpt: Why do you need to hire an agent when buying a home? There are actually a few reasons you’ll want representation when making that big of a purchase.
