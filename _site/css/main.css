@@ -2744,7 +2744,7 @@ form select {
     width: 90%; } }
 .cta {
   background: #ffffff;
-  color: #e36708;
+  color: #57c3b7;
   padding: 1.3rem 2rem;
   text-transform: capitalize;
   font-size: 2rem;
@@ -2777,7 +2777,7 @@ form select {
   transition: 0.3s; }
   .cta2:hover {
     background: transparent;
-    color: #e36708;
+    color: #57c3b7;
     box-shadow: 4px 4px 0 #eda47a;
     border: 2px solid #ffffff;
     -webkit-transform: scale(1.05);
