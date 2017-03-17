@@ -4,7 +4,7 @@ title: 'Brian Reviews The Colemere Team!'
 tags:
   - Testimonials
 excerpt:
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+2017+Market+Forecast.mp4'
+enclosure:
 pullquote:
 enclosure_type:
 enclosure_time:
