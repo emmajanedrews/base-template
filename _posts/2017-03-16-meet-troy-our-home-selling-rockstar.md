@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Meet Troy, Our Home Selling Secret Weapon'
+title: 'Meet Troy, Our Home Selling Rockstar!'
 tags:
   - Home Seller Tips
 excerpt: "Today I'm happy to introduce you to Troy, our team's lead listing agent. Troy handles all of our listings and was a huge part of our success in 2016."
