@@ -1527,13 +1527,13 @@ label.tree-toggle {
   cursor: pointer; }
 
 .hero-img {
-  background-position: center;
+  background-position: top center;
   background-size: cover;
   padding-top: 10rem;
   padding-bottom: 10rem; }
 
 #hero {
-  background-position: center;
+  background-position: top center;
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -2754,7 +2754,7 @@ form select {
     transform: translateY(0rem); }
 
 .cta2 {
-  color: #fff;
+  color: #ffffff;
   padding: 1.3rem 2rem;
   text-transform: capitalize;
   font-size: 2rem;
@@ -2783,6 +2783,9 @@ form select {
   border-radius: 0px;
   -webkit-transition: all 0.15s ease-out 0s;
   transition: all 0.15s ease-out 0s; }
+
+.site-logo {
+  padding-bottom: 120px; }
 
 .footer {
   color: #353535; }

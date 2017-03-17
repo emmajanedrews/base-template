@@ -5,8 +5,8 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Gresh Group - your professional Northern Virginia Real Estate Agents.</description>
     <link>localhost:5000/</link>
     <atom:link href="localhost:5000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 17 Mar 2017 13:32:39 -0500</pubDate>
-    <lastBuildDate>Fri, 17 Mar 2017 13:32:39 -0500</lastBuildDate>
+    <pubDate>Fri, 17 Mar 2017 14:43:21 -0500</pubDate>
+    <lastBuildDate>Fri, 17 Mar 2017 14:43:21 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -131,7 +131,6 @@
       <item>
         <title>A New Review Website We Recommend</title>
         <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/V_Rz2O_g-ro&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
 &lt;p&gt;As part of our commitment to customer service, we wanted to share with you a website we found that we think could be a great resource for any consumer.&lt;/p&gt;
 
 &lt;p&gt;The website is &lt;a href=&quot;http://www.reviews.com&quot;&gt;www.reviews.com&lt;/a&gt;&lt;/p&gt;
@@ -145,8 +144,8 @@
 &lt;p&gt;For all of your real estate needs from buying to selling please feel free to reach out with any questions.&lt;/p&gt;
 </description>
         <pubDate>Fri, 13 May 2016 14:30:00 -0500</pubDate>
-        <link>localhost:5000/northern-virginia-real-estate-valuable.html</link>
-        <guid isPermaLink="true">localhost:5000/northern-virginia-real-estate-valuable.html</guid>
+        <link>localhost:5000/a-new-review-website-we-recommend.html</link>
+        <guid isPermaLink="true">localhost:5000/a-new-review-website-we-recommend.html</guid>
         
         <category>Northern Virginia Real Estate Buyer Tips</category>
         
