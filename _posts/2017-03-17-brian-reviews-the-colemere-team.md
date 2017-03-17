@@ -8,8 +8,8 @@ enclosure: 'https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Es
 pullquote:
 enclosure_type:
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image:
+use_youtube_image: true
+youtube_alternate_image: '/uploads/#1_CRA_logo_num_wh_with_A_Trusted_Name_(1).png'
 youtube_code:
 ---
 
