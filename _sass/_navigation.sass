@@ -2,10 +2,10 @@
 	border: none
 	border-radius: 0
 	min-height: 65px
-	background: transparent
+	background: $theme
 	width: 100%
 	overflow: hidden
-
+	+shadow
 .navbar-andross .navbar-brand
 	color: $brand
 	padding-top: 20px
@@ -57,16 +57,16 @@
 	+shadow
 @keyframes fadeNavigation
 	0%
-		transform: translateY(0)
-		background: transparentize($theme, 1)
+		// transform: translateY(0)
+		// background: transparentize($theme, 1)
 	// 50%
 	// 	transform: translateY(-100px)
 	// 	background: transparent
 	// 51%
 	// 	background: $brand
 	100%
-		background: transparentize($theme, 0)
-		transform: translateY(0)
+		// background: transparentize($theme, 0)
+		// transform: translateY(0)
 		+shadow
 		// background: $theme
 .brand-color
