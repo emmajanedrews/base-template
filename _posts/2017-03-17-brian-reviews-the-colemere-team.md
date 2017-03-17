@@ -3,7 +3,7 @@ layout: post
 title: 'Brian Reviews The Colemere Team!'
 tags:
   - Testimonials
-excerpt:
+excerpt: 'How We Helped Brian By Answering All Of His Questions!'
 enclosure:
 pullquote:
 enclosure_type:
