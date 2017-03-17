@@ -24,7 +24,7 @@ Next, **you need to keep it consistent.&nbsp;**You might update your resume with
 
 {% include pullquote.html %}
 
-Make **sure you don’t come across as a job hopper**. If you have moved up in a company or have held multiple positions, put all those under the one company header.&nbsp;
+**Make** **sure you don’t come across as a job hopper**. If you have moved up in a company or have held multiple positions, put all those under the one company header.&nbsp;
 
 Finally, **you need to showcase your achievements, especially in terms of numbers.** Anytime you can show accomplishments using numbers on a resume is fantastic.&nbsp;
 
