@@ -4,7 +4,7 @@ title: 'Meet Troy, Our Home Selling Rockstar!'
 tags:
   - Home Seller Tips
 excerpt: "Today I'm happy to introduce you to Troy, our team's lead listing agent. Troy handles all of our listings and was a huge part of our success in 2016."
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Wes+Peters/Baltimore+Metro+Real+Estate-+Have+you+met+Troy%253F.mp4'
 pullquote: Troy played a big part in helping us list and sell 58 homes last year.
 enclosure_type: video/mp4
 enclosure_time:
