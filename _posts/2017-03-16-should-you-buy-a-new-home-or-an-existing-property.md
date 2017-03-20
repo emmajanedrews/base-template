@@ -18,7 +18,7 @@ youtube_code: jrRVFZKIy0I
 
 Are you considering buying a home? If so, you might be trying to decide between buying a new home or a resale home. Luckily, there are 10 secrets to homebuying that will help you make a decision.&nbsp;
 
-Most homes on the market are resales, but one out of every four homebuyers choose to purchase a new home. Both new homes and resale homes offer different advantages&nbsp;
+Most homes on the market are resales, but one out of every four homebuyers chooses to purchase a new home. Both new homes and resale homes offer different advantages.&nbsp;
 
 **Resale homes are often cheaper and are already in established neighborhoods.** New homes offer modern energy efficiency, innovative uses of space, and different options for upgrades. Everything is new, including the neighbors.&nbsp;
 
