@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Formatting An Effective Resume
+title: Formatting an Effective Resume
 tags:
   - Health Care
 excerpt: Today I want to take you through a few steps that will ensure your resume is the most effective.
