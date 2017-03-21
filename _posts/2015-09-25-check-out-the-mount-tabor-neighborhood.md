@@ -1,16 +1,11 @@
 ---
 layout: post
-title: 'Check Out the Mount Tabor Neighborhood '
-date: '2015-09-25T09:03:00.001-07:00'
+title: Check Out the Mount Tabor Neighborhood
+date: 2015-09-25 16:03:00
 author: Emily Peterson
 tags:
-- Portland real estate agent
-- Selling a Home
-- Stellar Realty
-- Stellar Realty Portland
-- portland neighborhood
 excerpt:
-enclosure:
+enclosure: 'http://stellarrealtynw.blogspot.com/2015/09/mount-tabor-neighborhood.html'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -18,8 +13,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: WYBR4Bkt2-w
 ---
-{% include youtube.html %}
-Today, I'm going to give you a tour of one of my favorite neighborhoods in Portland - the Mount Tabor Neighborhood! This great location is nestled in Southeast Portland, an ideal location close to downtown, freeways, parks and other venues.
+
+
+{% include youtube.html %}Today, I'm going to give you a tour of one of my favorite neighborhoods in Portland - the Mount Tabor Neighborhood! This great location is nestled in Southeast Portland, an ideal location close to downtown, freeways, parks and other venues.
 
 Our first stop is Mount Tabor Park. This park is actually on top of an inactive volcano. The park offers miles of hiking trails that cover 196 acres. These trails are great for biking or hiking. There are tennis courts, picnic areas, and a playground. There is something for everyone at Mount Tabor. Stop by for a beautiful view of the downtown skyline, and the best sunset you've ever seen.
 
