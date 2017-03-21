@@ -37,7 +37,7 @@ sidebar_CTA:
   CTA_url: https://www.flatheadrealestate.com/montana-real-estate-search/results/?adv=yep&classRes=1&waterfronthomes=1&minPrice=&maxPrice=&bedrooms=&bathrooms=&sqrft_min=&sqrft_max=&land_min=&land_max=&dom=&mlsID=
 
 welcome_box:
-  welcome_headline: Join Our -- MARKET -- VIP List
+  welcome_headline: Join Our Video Community
   welcome_text_markdown: >
     Our mission at Hollinger Team is to be your best resource for real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. We invite you to subscribe to this video blog to get the latest news on Flathead Valley market trends and receive expert tips for selling, buying or owning your dream property.
 
@@ -51,8 +51,8 @@ socials:
   instagram_url:
   pinterest_url: https://www.pinterest.com/dianainmontana/
   zillow_url: http://www.zillow.com/profile/Scott-Hollinger/
-  trulia_url: https://www.trulia.com/directory/-agent-Scott+Hollinger/
-  yelp_url:
+  google_reviews_url: https://www.google.com/search?q=google+reviews+scott+hollinger&oq=google+reviews+scott+hollinger&aqs=chrome..69i57j69i64.9791j0j1&sourceid=chrome&ie=UTF-8#q=The+Hollinger+Team+-+RE/MAX+of+Bigfork&*
+  facebook_reviews_url: https://www.facebook.com/pg/LastBestPlace/reviews/?ref=page_internal
   podcast_url:
 
 podcast:
@@ -68,7 +68,7 @@ images:
   client_headshot_path: /img/headshot.png
   hero_logo_path: /img/logo.png
   logo_width_number: 80
-  hero_text: 
+  hero_text:
   hero_background_hex: '#ebebe3'
   hero_image_path: /img/background.jpg
 
