@@ -4,6 +4,7 @@ title: Explore the Mississippi Ave. Neighborhood in North Portland
 date: 2016-09-16 22:06:00
 author: Vyral Admin
 tags:
+  - Real Estate
 excerpt:
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Paul+Campbell/Portland+Real+Estate+Agent-+Mississippi+Avenue+Neighborhood+Tour.mp4'
 pullquote: 'Mississippi Avenue is a great, cozy pocket of Portland.'
