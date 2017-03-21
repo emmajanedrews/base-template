@@ -1,17 +1,11 @@
 ---
 layout: post
-title: What's Happening in Lake Oswego?
-date: '2015-06-08T14:27:00.000-07:00'
+title: "What's Happening in Lake Oswego?"
+date: 2015-06-08 21:27:00
 author: Amy Dryden
 tags:
-- Lake Oswego real estate
-- Portland real estate agent
-- Lake Oswego
-- Stellar Realty
-- Stellar Realty Portland
-- portland real estate
 excerpt:
-enclosure:
+enclosure: 'http://stellarrealtynw.blogspot.com/2015/06/portland-real-estate-lake-oswego.html'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -19,9 +13,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: vN5s7zD1ZnE
 ---
-{% include youtube.html %}
-Today we're in Lake Oswego, a charming town just south of Portland, and one of our favorite destinations when we just want to get away for a while.
 
+
+{% include youtube.html %}Today we're in Lake Oswego, a charming town just south of Portland, and one of our favorite destinations when we just want to get away for a while.
 
 We're in the Millennium Plaza Park of Lake Oswego, where there is fine dining, movies, music, and much more. It's a wonderful little area for anyone and everyone looking to relax for a bit. Maybe if you're lucky your parents will take you to Salt & Straw for a gourmet ice cream cone.
 
