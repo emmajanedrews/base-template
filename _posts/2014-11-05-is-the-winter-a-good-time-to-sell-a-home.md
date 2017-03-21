@@ -4,6 +4,7 @@ title: Is the Winter a Good Time to Sell a Home?
 date: 2014-11-05 14:49:00
 author: Vyral Admin
 tags:
+  - Home Seller Tips
 excerpt:
 enclosure: 'http://stellarrealtynw.blogspot.com/2014/11/portland-oregon-real-estate.html'
 pullquote:
