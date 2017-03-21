@@ -1,10 +1,5 @@
 {% if site.data.settings.socials.review_sm_icons == false %}
-	{% if site.data.settings.socials.facebook_reviews_url != null %}
-    <div class="review-button-wrapper">
-      <a href="{{site.data.settings.socials.facebook_reviews_url}}" class="review button" target="_blank">
-        <img src="/img/facebook-logo.png" /> Reviews</a>
-    </div>
-		{% endif %}
+
 		{% if site.data.settings.socials.zillow_url != null %}
     <div class="review-button-wrapper">
       <a href="{{site.data.settings.socials.zillow_url}}" class="review button" target="_blank">
@@ -17,4 +12,10 @@
         <img src="/img/google-logo.png" /> Reviews</a>
     </div>
 		{% endif %}
+		{% if site.data.settings.socials.facebook_reviews_url != null %}
+			<div class="review-button-wrapper">
+				<a href="{{site.data.settings.socials.facebook_reviews_url}}" class="review button" target="_blank">
+					<img src="/img/facebook-logo.png" /> Reviews</a>
+			</div>
+			{% endif %}
 		{% endif %}
