@@ -4,6 +4,7 @@ title: West Linn Neighborhood Tour
 date: 2016-02-10 20:58:00
 author: Emily Peterson
 tags:
+  - Real Estate
 excerpt:
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Paul+Campbell/Portland+Real+Estate+Agent+-+What+Are+You+Missing+out+on+in+West+Linn.mp4'
 pullquote:
