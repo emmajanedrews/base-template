@@ -1219,9 +1219,9 @@ html[xmlns] .flexslider .slides {
   .ctalink a {
     text-align: center; }
   .ctalink:hover {
-    background: transparent;
-    color: #b0263b;
-    box-shadow: 4px 4px 0 #b0263b;
+    background: #b0263b;
+    color: white;
+    box-shadow: 4px 4px 0 #5C141F;
     border: 1px solid #b0263b;
     -webkit-transform: scale(1.05);
     transform: scale(1.05);
@@ -1935,13 +1935,13 @@ table tr, table td {
   padding: 10px 20px;
   margin-top: 20px;
   text-decoration: none;
-  font-size: 16px;
+  font-size: 18px;
   -webkit-transition: all 0.15s ease-out 0s;
   transition: all 0.15s ease-out 0s; }
   .readlink > a:hover {
-    background: transparent;
-    color: #b0263b;
-    box-shadow: 4px 4px 0 #b0263b;
+    background: #b0263b;
+    color: white;
+    box-shadow: 4px 4px 0 #5C141F;
     border: 1px solid #b0263b;
     -webkit-transform: scale(1.05);
     transform: scale(1.05);
@@ -2335,17 +2335,17 @@ table tr, table td {
     fill: white;
     width: 100px; }
   .review.button:hover, .review.button-ghost:hover {
-    background: transparent;
-    color: #b0263b;
-    box-shadow: 4px 4px 0 #b0263b;
+    background: #b0263b;
+    color: white;
+    box-shadow: 4px 4px 0 #5C141F;
     -webkit-transform: scale(1.05);
     transform: scale(1.05);
     -webkit-transform: translateY(-0.2rem);
     transform: translateY(-0.2rem); }
     .review.button:hover svg, .review.button-ghost:hover svg {
-      fill: #b0263b; }
+      fill: white; }
   .review.button:active, .review.button-ghost:active {
-    box-shadow: 0 0 0 #b0263b;
+    box-shadow: 0 0 0 #5C141F;
     -webkit-transform: translateY(0rem);
     transform: translateY(0rem); }
 

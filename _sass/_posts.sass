@@ -54,12 +54,12 @@
   padding: 10px 20px
   margin-top: 20px
   text-decoration: none
-  font-size: 16px
+  font-size: 18px
   +transition
   &:hover
-    background: transparent
-    color: $brand-light
-    box-shadow: 4px 4px 0 $brand-light
+    background: $brand-light
+    color: $light-text
+    box-shadow: 4px 4px 0 $brand
     border: 1px solid $brand-light
     @include transform(scale(1.05))
     @include transform(translateY(-0.2rem))
@@ -249,7 +249,7 @@
     .headshot
       display: none
   .pullquote
-    max-width: 100%			
+    max-width: 100%
 @media (max-width: 992px)
   .post-container
     padding-right: 0px
