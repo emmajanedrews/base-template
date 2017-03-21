@@ -4,6 +4,7 @@ title: The Advantages of Using a Local Lender
 date: 2016-12-12 22:39:00
 author: Alyssa Sisco
 tags:
+  - Real Estate
 excerpt: 'If you need financing, you should reach out to your Realtor in order to find a local lender that can provide better service than a larger institution.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Stellar+Realty+Portland/Portland+Real+Estate+Agent-+The+Advantages+of+Using+a+Local+Lender.mp4'
 pullquote:
