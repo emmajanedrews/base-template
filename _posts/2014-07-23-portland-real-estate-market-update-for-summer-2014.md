@@ -4,6 +4,7 @@ title: Portland Real Estate Market Update for Summer 2014
 date: 2014-07-23 19:20:00
 author: Vyral Admin
 tags:
+  - Market Update
 excerpt:
 enclosure: 'http://stellarrealtynw.blogspot.com/2014/07/portland-oregon-real-estate.html'
 pullquote:
