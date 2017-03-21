@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 'Portland Market Update: What do the Recent Price Increases Mean for You?'
-date: '2014-03-14T12:43:00.002-07:00'
+date: 2014-03-14 19:43:00
 author: Vyral Admin
 tags:
-- market update
+  - Market Update
 excerpt:
 enclosure:
 pullquote:
@@ -14,8 +14,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: a0jwz5XCbiA
 ---
-{% include youtube.html %}
-Before I started on today’s topic, I wanted to ask for a favor. If there is anything you would like me to discuss in a future video, please email us or better yet, comment on this post. We really appreciate and remain true to providing you with the best information.
+
+
+{% include youtube.html %}Before I started on today’s topic, I wanted to ask for a favor. If there is anything you would like me to discuss in a future video, please email us or better yet, comment on this post. We really appreciate and remain true to providing you with the best information.
 
 We’ve been receiving many questions about the recently-realized price increases. However, they have tapered off in the past few weeks and remain unchanged. Currently, the median list price is sitting at $325,000 and the Market Action Index shows that we are still in a seller’s market. However it does suggest that we are creeping down to a more neutral market. Also, Portland’s average days on market is sitting at 131.
 
