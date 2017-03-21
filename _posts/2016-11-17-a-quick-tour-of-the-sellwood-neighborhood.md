@@ -1,12 +1,11 @@
 ---
 layout: post
 title: A Quick Tour of the Sellwood Neighborhood
-date: '2016-11-17T11:29:00.000-08:00'
+date: 2016-11-17 19:29:00
 author: Vyral Admin
 tags:
-- Portland neighborhoods
-excerpt: Today we're taking a quick look at the Sellwood neighborhood in Portland, located on the east bank of the Willamette River. It's a walkable neighborhood with tons of great amenities.
-enclosure:
+excerpt: "Today we're taking a quick look at the Sellwood neighborhood in Portland, located on the east bank of the Willamette River. It's a walkable neighborhood with tons of great amenities."
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Paul+Campbell/Portland+Real+Estate+Agent-+A+Tour+of+Sellwood.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -14,8 +13,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: s0W4OChYnKI
 ---
-{% include youtube.html %}
-Today, we wanted to take you on a quick tour of the lovely Sellwood neighborhood in Portland. Sellwood is located on the east bank of the Willamette River, near the southern end of Ross Island. It's about two miles long and a mile wide.
+
+
+{% include youtube.html %}Today, we wanted to take you on a quick tour of the lovely Sellwood neighborhood in Portland. Sellwood is located on the east bank of the Willamette River, near the southern end of Ross Island. It's about two miles long and a mile wide.
 
 Sellwood is a teardrop-shaped area that's rich in natural and recreational amenities, including four public parks. Sellwood also boasts a full range of businesses and services, like specialty retail stores, antiques, grocery stores, hardware stores, banks, and dry cleaners to name a few.
 
