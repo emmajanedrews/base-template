@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Maintaining Your Heating/Cooling Systems
-date: '2016-08-25T11:48:00.002-07:00'
+date: 2016-08-25 18:48:00
 author: Vyral Admin
 tags:
-- Home Owner Tips
+  - Real Estate
 excerpt:
 enclosure:
 pullquote:
@@ -14,8 +14,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: 81p44lOiMf4
 ---
-{% include youtube.html %}
-With summer nearly over, I’m sure you (like us) have been reminded just how much we use our air conditioning. Soon, in the winter, you’ll be reminded of how often you use the furnace, too.
+
+
+{% include youtube.html %}With summer nearly over, I’m sure you (like us) have been reminded just how much we use our air conditioning. Soon, in the winter, you’ll be reminded of how often you use the furnace, too.
 
 It’s one of the major systems in your home, and a surprise issue with one of these systems can be a nightmare if handled improperly. That’s why we wanted to share a video from Angie’s List that we recently saw about proper maintenance of your heating and cooling systems.
 
