@@ -7,20 +7,20 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Troy Copeland
   license_number:
   about_markdown: |
 
-  market:
-  brand:
+  market: Frisco
+  brand: Copeland Real Estate Group
   brokerage:
-  address:
-  phone:
+  address: 3233 Libby Lane<br>Frisco, TX 75034
+  phone: 469-844-8769
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: info@troycopeland.com
+  url: http://troycopeland.com
 
 CTAs:
   first_CTA_text: Home Valuation
@@ -37,7 +37,7 @@ sidebar_CTA:
     CTA_url: /homesearch/
 
 lender:
-  show_section: true
+  show_section: false
   header_text: Preferred Lender
   headshot_path: http://fillmurray.com/200/200
   logo_path: /img/logo.png
@@ -83,14 +83,14 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 60
   hero_text: Real Estate Video Blog
-  hero_background_hex: '#094264'
+  hero_background_hex: '#717C83'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#C14547'
-  theme_color: '#005473'
+  brand_color: '#042661'
+  theme_color: '#717C83'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -107,7 +107,7 @@ buttons:
   button_padding_height_number: 15
   button_border_color: '#ffffff'
   button_background_color: '#ffffff'
-  button_text_color: '#123456'
+  button_text_color: '#717C83'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'
