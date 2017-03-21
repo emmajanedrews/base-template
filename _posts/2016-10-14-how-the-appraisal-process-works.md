@@ -4,6 +4,7 @@ title: How The Appraisal Process Works
 date: 2016-10-14 21:05:00
 author: Vyral Admin
 tags:
+  - Home Buyer Tips
 excerpt: 'You may know that getting an appraisal is an important part of any home purchase transaction, but do you know how the process works?'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Paul+Campbell/Portland+Real+Estate+Agent+How+the+appraisal+process+really+works.mp4'
 pullquote: The appraisal protects the buyer from overpaying for the property.
