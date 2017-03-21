@@ -4,6 +4,7 @@ title: 5 Ways to Get Your Home Ready for Sale
 date: 2017-01-20 17:37:00
 author: Alyssa Sisco
 tags:
+  - Home Seller Tips
 excerpt: There are five simple things you can do to your home to get it ready for sale.
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Stellar+Realty+Portland/+Videos/Portland+Real+Esate+Agent-+5+Ways+to+Get+Your+Home+Ready+for+Sale.mp4'
 pullquote: The way the home looks from the curb is what draws buyers inside.
