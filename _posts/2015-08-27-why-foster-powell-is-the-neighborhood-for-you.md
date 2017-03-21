@@ -1,14 +1,10 @@
 ---
 layout: post
 title: Why Foster Powell Is the Neighborhood for You
-date: '2015-08-27T10:29:00.000-07:00'
+date: 2015-08-27 17:29:00
 author: Emily Peterson
 tags:
-- Portland real estate agent
-- Estates in Portland
-- Stellar Realty
-- Stellar Realty Portland
-- portland real estate
+  - Real Estate
 excerpt:
 enclosure:
 pullquote:
@@ -18,8 +14,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: GJ86OdvMY4s
 ---
-{% include youtube.html %}
-Today, I'm here to talk about the Foster Powell neighborhood, affectionately known to Portland residents as FoPo. One reason FoPo is so popular is the diversity of businesses, home styles, and street layouts.It truly is a unique blend of neighborhoods.
+
+
+{% include youtube.html %}Today, I'm here to talk about the Foster Powell neighborhood, affectionately known to Portland residents as FoPo. One reason FoPo is so popular is the diversity of businesses, home styles, and street layouts.It truly is a unique blend of neighborhoods.
 
 No Portland neighborhood is complete without food carts, and FoPo is no different. Be sure to check out Carts on Foster. There are so many different options: pizza, barbecue, vegan, and more! Roadrunner BBQ was voted the #3 barbecue establishment in Portland by the Oregonian. Visit their Yelp page to see the reviews.
 
