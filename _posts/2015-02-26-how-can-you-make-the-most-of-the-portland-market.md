@@ -4,6 +4,7 @@ title: How Can You Make the Most of the Portland Market?
 date: 2015-02-26 16:40:00
 author: Vyral Admin
 tags:
+  - Market Update
 excerpt:
 enclosure: 'http://stellarrealtynw.blogspot.com/2015/02/portland-real-estate-agent-market-update.html'
 pullquote:
