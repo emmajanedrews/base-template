@@ -4,6 +4,7 @@ title: "What's Happening in the Portland Real Estate Market?"
 date: 2015-05-15 15:15:00
 author: Vyral Admin
 tags:
+  - Market Update
 excerpt:
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Paul+Campbell/Portland+Real+Estate+Agent+Portland+real+estate+trends.mp4'
 pullquote:
