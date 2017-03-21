@@ -4,6 +4,7 @@ title: What Are Our Favorite Places in Milwaukie?
 date: 2016-02-17 20:09:00
 author: Emily Peterson
 tags:
+  - Real Estate
 excerpt:
 enclosure: 'http://stellarrealtynw.blogspot.com/2016/02/portland-real-estate-milwaukie-oregon.html'
 pullquote:
