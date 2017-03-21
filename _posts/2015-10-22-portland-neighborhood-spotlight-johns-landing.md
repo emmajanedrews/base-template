@@ -1,16 +1,11 @@
 ---
 layout: post
-title: 'Portland Neighborhood Spotlight: John''s Landing'
-date: '2015-10-22T08:36:00.000-07:00'
+title: "Portland Neighborhood Spotlight: John's Landing"
+date: 2015-10-22 15:36:00
 author: Emily Peterson
 tags:
-- portland or real estate
-- houses for sale portland oregon
-- Stellar Realty
-- portland or homes for sale
-- portland neighborhood
 excerpt:
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Paul+Campbell/Portland+Real+Estate+Agent+Getting+to+know+John%27s+Landing.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -18,11 +13,11 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: 5TbQHzfLS7Q
 ---
-{% include youtube.html %}
-Today, I want to give you a behind the scenes look at one of Portland's most established neighborhoods: John's Landing.
 
-John's Landing used to be known as Fulton and is positioned east of the I-5 between the Tualatin and Willamette rivers. It follows the Willamette River for three miles, stretching north to South Waterfront and south to the Sellwood Bridge. John's Landing is home to both commercial and residential properties, including our very own Stellar Realty office!
-Just across the street is Jolly Roger, a great pit stop whether you're looking for food or something to drink; we really like to do Thursday night trivia! Down the street you'll find the amazing Zen Salon; I recommend Melissa - she's great for girls and guys alike!
+
+{% include youtube.html %}Today, I want to give you a behind the scenes look at one of Portland's most established neighborhoods: John's Landing.
+
+John's Landing used to be known as Fulton and is positioned east of the I-5 between the Tualatin and Willamette rivers. It follows the Willamette River for three miles, stretching north to South Waterfront and south to the Sellwood Bridge. John's Landing is home to both commercial and residential properties, including our very own Stellar Realty office!Just across the street is Jolly Roger, a great pit stop whether you're looking for food or something to drink; we really like to do Thursday night trivia! Down the street you'll find the amazing Zen Salon; I recommend Melissa - she's great for girls and guys alike!
 
 There is a great variety a homes in the John's Landing neighborhood. Properties range from gorgeous old foursquares to bungalows and condos! Seeing these great old homes is a great reminder of the home maintenance we should all be doing in our current homes: cleaning your furnace filter; inspecting your tub and sink drains; cleaning your carpets and windows; checking the batteries in your smoke detectors; and inspecting your roofing, among other things.  For a complete list, check out the Better Homes and Gardens Maintenance Checklist!
 
