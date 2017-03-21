@@ -4,6 +4,7 @@ title: "Portland Neighborhood Spotlight: John's Landing"
 date: 2015-10-22 15:36:00
 author: Emily Peterson
 tags:
+  - Real Estate
 excerpt:
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Paul+Campbell/Portland+Real+Estate+Agent+Getting+to+know+John%27s+Landing.mp4'
 pullquote:
