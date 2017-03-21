@@ -1,21 +1,21 @@
 ---
 layout: post
 title: Explore the Mississippi Ave. Neighborhood in North Portland
-date: '2016-09-16T15:06:00.000-07:00'
+date: 2016-09-16 22:06:00
 author: Vyral Admin
 tags:
-- Portland neighborhoods
 excerpt:
-enclosure:
-pullquote: Mississippi Avenue is a great, cozy pocket of Portland.
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Paul+Campbell/Portland+Real+Estate+Agent-+Mississippi+Avenue+Neighborhood+Tour.mp4'
+pullquote: 'Mississippi Avenue is a great, cozy pocket of Portland.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: AbTuVBcJunc
 ---
-{% include youtube.html %}
-Mississippi Avenue is a north Portland neighborhood that runs just east of the I-5 between Skidmore and Freemont. This neighborhood is a cozy pocket of Portland near the PCC Cascade campus and allows easy access to the interstate and the MAX.
+
+
+{% include youtube.html %}Mississippi Avenue is a north Portland neighborhood that runs just east of the I-5 between Skidmore and Freemont. This neighborhood is a cozy pocket of Portland near the PCC Cascade campus and allows easy access to the interstate and the MAX.
 
 My favorite eatery in Mississippi Ave is Prost! Stop by Prost! for a great German meal with beer and sausage. The best thing to order for lunch is the German Pretzel Sandwich with German potato salad and a Franziskaner beer.
 
