@@ -4,6 +4,7 @@ title: How to Pick the Best Offer on Your House
 date: 2016-11-29 16:41:00
 author: Vyral Admin
 tags:
+  - Home Seller Tips
 excerpt: "When you're considering multiple offers on your home, there are many other variables besides price to consider before making a decision."
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Paul+Campbell/Portland+Real+Estate+Agent-+Multiple+Offers.mp4'
 pullquote:
