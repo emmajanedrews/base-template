@@ -4,6 +4,7 @@ title: How to Stand Out When Buying in Portland
 date: 2016-05-25 21:14:00
 author: Vyral Admin
 tags:
+  - Home Buyer Tips
 excerpt:
 enclosure: 'http://stellarrealtynw.blogspot.com/2016/05/portland-real-estate-stand-out-in.html'
 pullquote: Find an agent that you can trust.
