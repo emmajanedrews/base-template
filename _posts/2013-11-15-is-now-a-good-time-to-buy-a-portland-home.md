@@ -1,27 +1,22 @@
 ---
 layout: post
 title: Is Now A Good Time to Buy a Portland Home?
-date: '2013-11-15T08:08:00.000-08:00'
+date: 2013-11-15 16:08:00
 author: Vyral Admin
 tags:
-- portland houses for sale
-- portland or real estate
-- houses for sale portland oregon
-- portland oregon houses for sale
-- portland or homes for sale
-- portland real estate
+  - Home Buyer Tips
 excerpt:
 enclosure:
-pullquote: Despite Climbing Prices, This is Not Last Decade’s Bubble
+pullquote: 'Despite Climbing Prices, This is Not Last Decade’s Bubble'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: TsJ10eeWU2I
 ---
-{% include youtube.html %}
-Trulia Chief Economist Jed Kolko reveals the latest findings from Bubble Watch , revealing whether home prices are overvalued or undervalued relative to their fundamental value. In the fourth quarter of 2013, home prices were 4% undervalued despite having rapidly rising over the past year. But in Orange County and Los Angeles, home prices are more than 10% overvalued.
-Trulia’s Bubble Watch reveals whether home prices are overvalued or undervalued relative to their fundamental value by comparing prices today with historical prices, incomes, and rents. The more prices are overvalued relative to fundamentals, the closer we are to a housing bubble – and the bigger the risk of a future price crash.
+
+
+{% include youtube.html %}Trulia Chief Economist Jed Kolko reveals the latest findings from Bubble Watch , revealing whether home prices are overvalued or undervalued relative to their fundamental value. In the fourth quarter of 2013, home prices were 4% undervalued despite having rapidly rising over the past year. But in Orange County and Los Angeles, home prices are more than 10% overvalued.Trulia’s Bubble Watch reveals whether home prices are overvalued or undervalued relative to their fundamental value by comparing prices today with historical prices, incomes, and rents. The more prices are overvalued relative to fundamentals, the closer we are to a housing bubble – and the bigger the risk of a future price crash.
 
 Trulia’s first Bubble Watch report, from May 2013, explains our methodologyin detail. We look at the price-to-income ratio, the price-to-rent ratio, and prices relative to their long-term trends, using multiple data sources, including the Trulia Price Monitor as a leading indicator of where home prices are heading. We then combine these various measures of fundamental value rather than relying on a single factor, because no one measure is perfect. Here’s what we found.
 
