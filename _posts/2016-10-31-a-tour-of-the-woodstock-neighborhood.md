@@ -4,6 +4,7 @@ title: A Tour of the Woodstock Neighborhood
 date: 2016-10-31 19:33:00
 author: liz@getvyral.com
 tags:
+  - Real Estate
 excerpt: 'We recently took a tour of the Woodstock neighborhood, and I wanted to give you a look. This neighborhood has some great shops and restaurants, and plenty of architectural charm.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Stellar+Realty+Portland/Portland+Real+Estate+Agent+-+A+Tour+of+the+Woodstock+Neighborhood.mp4'
 pullquote:
