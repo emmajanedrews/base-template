@@ -4,6 +4,7 @@ title: A Quick Tour of the Sellwood Neighborhood
 date: 2016-11-17 19:29:00
 author: Vyral Admin
 tags:
+  - Real Estate
 excerpt: "Today we're taking a quick look at the Sellwood neighborhood in Portland, located on the east bank of the Willamette River. It's a walkable neighborhood with tons of great amenities."
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Paul+Campbell/Portland+Real+Estate+Agent-+A+Tour+of+Sellwood.mp4'
 pullquote:
