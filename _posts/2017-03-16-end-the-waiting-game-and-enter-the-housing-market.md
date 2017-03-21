@@ -24,4 +24,4 @@ Regardless of whether you are renting and looking to buy your first home or if y
 
 Industry insiders have prepared a new special report called, “How to Buy a Home With Little or No Money Down” which explains how this new, innovative program can get you into the market immediately.
 
-End the waiting by requesting your copy of this report here. If you have any other questions, please don’t hesitate to give me a call or send me an email. I would be happy to help you!
+End the waiting by requesting your copy of this report [here](http://www.greatervancouvergroup.com/info/buy-with-zero-down). If you have any other questions, please don’t hesitate to give me a call or send me an email. I would be happy to help you!
