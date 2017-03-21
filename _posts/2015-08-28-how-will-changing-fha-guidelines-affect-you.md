@@ -6,7 +6,7 @@ author: Emily Peterson
 tags:
   - Real Estate
 excerpt:
-enclosure:
+enclosure: 'http://stellarrealtynw.blogspot.com/2015/08/changes-to-fha-guidelines.html'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
