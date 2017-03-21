@@ -4,6 +4,7 @@ title: How Does Housing Inventory Affect Your Home’s Value?
 date: 2016-11-07 16:13:00
 author: liz@getvyral.com
 tags:
+  - Home Seller Tips
 excerpt: What do you need to know about current housing inventory? Here is a brief rundown.
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Stellar+Realty+Portland/Portland+Real+Estate+Agent+-+How+Does+Housing+Inventory+Affect+Your+Homes+Value.mp4'
 pullquote:
