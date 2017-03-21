@@ -4,6 +4,7 @@ title: See All That Wonderful Dunthorpe Has to Offer
 date: 2016-05-06 00:53:00
 author: Vyral Admin
 tags:
+  - Real Estate
 excerpt:
 enclosure: 'http://stellarrealtynw.blogspot.com/2016/05/portland-real-estate-tour-of-gorgeous.html'
 pullquote:
