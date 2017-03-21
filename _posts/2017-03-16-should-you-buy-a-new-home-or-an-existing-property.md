@@ -26,6 +26,6 @@ Most homes on the market are resales, but one out of every four homebuyers choos
 
 Determining which choice is best for you will depend on many factors including **your taste, your family, and your finances.&nbsp;**
 
-Fortunately, a new, special report has just been released identifying 10 secrets every new homebuyer should know. **The report includes little-known buyer advantages that most builders won’t divulge unless pressed.** You can order the report and be on your way to deciding if a new or resale home is right for you by clicking **[here](http://www.greatertorontogroup.com/info/new-homes-vs-resale)**. &nbsp;
+Fortunately, a new, special report has just been released identifying 10 secrets every new homebuyer should know. **The report includes little-known buyer advantages that most builders won’t divulge unless pressed.** You can order the report and be on your way to deciding if a new or resale home is right for you by [**clicking here**](http://www.greatertorontogroup.com/info/new-homes-vs-resale). &nbsp;
 
 If you are looking to buy or sell a home, or if you have any other real estate questions, feel free to give me a call or send me an email. I look forward to hearing from you!&nbsp;
