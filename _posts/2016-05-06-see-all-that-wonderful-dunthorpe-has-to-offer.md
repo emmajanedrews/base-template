@@ -1,12 +1,11 @@
 ---
 layout: post
 title: See All That Wonderful Dunthorpe Has to Offer
-date: '2016-05-05T17:53:00.000-07:00'
+date: 2016-05-06 00:53:00
 author: Vyral Admin
 tags:
-- Portland neighborhoods
 excerpt:
-enclosure:
+enclosure: 'http://stellarrealtynw.blogspot.com/2016/05/portland-real-estate-tour-of-gorgeous.html'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -14,8 +13,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: _Eye30a48us
 ---
-{% include youtube.html %}
-Located just minutes south of downtown and right next to Lewis And Clark College, this safe community offers the best of both worlds with huge estates and an amazing school system. The Riverdale school district in Dunthorpe has the high school and the elementary school with 18 students per classroom and an average of $14,000 spent on each student.
+
+
+{% include youtube.html %}Located just minutes south of downtown and right next to Lewis And Clark College, this safe community offers the best of both worlds with huge estates and an amazing school system. The Riverdale school district in Dunthorpe has the high school and the elementary school with 18 students per classroom and an average of $14,000 spent on each student.
 
 I’m joined by Andre, who just moved to Dunthorpe from Pasadena, California, to talk about Dunthorpe and his favorite parts of living here.
 
