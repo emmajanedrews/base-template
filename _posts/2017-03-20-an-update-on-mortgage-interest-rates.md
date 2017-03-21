@@ -26,6 +26,6 @@ Interest rates are expected to creep up even further, possibly even by a full 1%
 
 Right now, you have a great opportunity to buy and sell in this market. By selling, you can maximize your sale price because of the limited inventory. Then you can buy while rates are still relatively low and lock in a rate before they go up even higher. **For every 1% that interest rates go up, buying power decreases by 10%.**
 
-Your interest rate is affected by things like your credit score, your income, and your down payment. If you can’t afford to buy now, it doesn’t mean you couldn’t afford it in a few months with the help of someone like Sandra. If you have any questions for her or want to get pre-qualified for a mortgage, give her a call at (407)-902-4297 or send her an email to SLyons@TheMortgageFirm.com.&nbsp;
+Your interest rate is affected by things like your credit score, your income, and your down payment. If you can’t afford to buy now, it doesn’t mean you couldn’t afford it in a few months with the help of someone like Sandra. If you have any questions for her or want to get pre-qualified for a mortgage, give her a call at (407)-902-4297 or send her an email to [SLyons@TheMortgageFirm.com](javascript:void(location.href='mailto:'+String.fromCharCode(83,76,121,111,110,115,64,84,104,101,77,111,114,116,103,97,103,101,70,105,114,109,46,99,111,109))).&nbsp;
 
 If you have any other questions for us, don’t hesitate to reach out by phone or email. We would love to hear from you.
