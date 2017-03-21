@@ -4,6 +4,7 @@ title: "What's Happening in Lake Oswego?"
 date: 2015-06-08 21:27:00
 author: Amy Dryden
 tags:
+  - Real Estate
 excerpt:
 enclosure: 'http://stellarrealtynw.blogspot.com/2015/06/portland-real-estate-lake-oswego.html'
 pullquote:
