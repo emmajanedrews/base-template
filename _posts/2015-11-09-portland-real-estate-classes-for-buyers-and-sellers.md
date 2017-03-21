@@ -4,6 +4,7 @@ title: Portland Real Estate Classes for Buyers and Sellers
 date: 2015-11-09 19:27:00
 author: Emily Peterson
 tags:
+  - Real Estate
 excerpt:
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Paul+Campbell/Portland+Real+Estate+Agent+Don%27t+Miss+out+on+These+Portland+Real+Estate+Classes.mp4'
 pullquote:
