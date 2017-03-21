@@ -1,0 +1,21 @@
+---
+layout: post
+title: Should You List Your Home Through the Holidays?
+date: 2013-12-13 22:07:00
+author: Vyral Admin
+tags:
+  - Home Seller Tips
+excerpt:
+enclosure:
+pullquote:
+enclosure_type: video/mp4
+enclosure_time:
+use_youtube_image: true
+youtube_alternate_image:
+youtube_code: RY_ziAh6F0c
+---
+
+
+{% include youtube.html %}Today I wanted to discuss whether or not you should continue to list through the winter months/holiday season. Conventional wisdom would tell you not to, however, I think it is a good idea to be on the market now. If you take a look at the numbers, inventory is down 7% during the winter/holiday season but the asking price for homes is down 0.3% (essentially 0%) meaning less inventory but not lower prices. Also, buyers in the winter time tend to be more serious because if you are out looking for homes with family events and hectic schedules, you want to buy a house.
+
+Thank you for taking the time to watch our educational video blog. If you are thinking about buying or selling a home, check out our free home evaluation website and you’re always welcome to give us a call at (503) 427-9233. Thanks and have a great day!
