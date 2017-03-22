@@ -10,7 +10,7 @@ client:
   name: Troy Copeland
   license_number:
   about_markdown: |
-
+    Having a genuine passion for unprecedented client service coupled with an expert knowledge of the real estate industry has helped Troy build a reputation as an invaluable ally. His high energy, results-driven strategy, with a genuine passion for exceeding your expectations, has coined his motto: "Your Home is Our Passion".
   market: Frisco
   brand: Copeland Real Estate Group
   brokerage:
@@ -59,13 +59,13 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
-  instagram_url:
-  pinterest_url:
+  facebook_url: https://www.facebook.com/copelandrealestate/
+  linkedin_url: https://www.linkedin.com/in/troyjcopeland
+  gplus_url: https://plus.google.com/u/0/+TroyCopelandRealEstate/posts
+  youtube_url: https://www.youtube.com/channel/UCUM1_F9Sez-4s5fsQvWg67Q
+  twitter_url: https://twitter.com/CopelandREGroup
+  instagram_url: https://www.instagram.com/troy.copeland/?hl=en
+  pinterest_url: https://www.pinterest.com/troyjcopeland/
   zillow_url:
   trulia_url:
   yelp_url:
