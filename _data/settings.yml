@@ -1,32 +1,32 @@
 audit_header: false
 title: -- CLIENT BRAND --
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: Our Service Partners
+    url: https://www.yumpu.com/en/document/view/55881214/debbies-list-virginia-contractors-2016-q4
 
 client:
   name:
   license_number:
   about_markdown: |
 
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+  market: Loudoun County
+  brand: Wicker Homes Group
+  brokerage: Kellar Williams
+  address: 46169 Westlake Dr. Suite 200<br>Potomac Falls, VA 20165
+  phone: 571-210-4997
   phone_type:
   phone2:
   phone2_type:
-  email:
+  email: info@wickerhomes.com
   url:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.wickerhomesgroup.com/home-valuation/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.wickerhomesgroup.com/results-gallery/?OfficeMLS=KWR77
   VR_form:
 
 sidebar_CTA:
@@ -34,10 +34,10 @@ sidebar_CTA:
     CTA_title: Looking to Buy a Home?
     CTA_text: Search the entire MLS for homes located in -- MARKET --.
     CTA_link_text: Home Search Tool
-    CTA_url: /homesearch/
+    CTA_url: http://www.wickerhomesgroup.com/results-gallery/?OfficeMLS=KWR77
 
 lender:
-  show_section: true
+  show_section: false
   header_text: Preferred Lender
   headshot_path: http://fillmurray.com/200/200
   logo_path: /img/logo.png
@@ -59,16 +59,16 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/WickerHomesGroup/
+  linkedin_url: https://www.linkedin.com/in/tadwicker
+  gplus_url: https://plus.google.com/+WickerHomesGroupAshburn/posts
+  youtube_url: https://www.youtube.com/user/wickerhomesgroup
+  twitter_url: https://twitter.com/wickerhomes
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
+  zillow_url: http://www.zillow.com/profile/Wicker-Homes-Group/
+  trulia_url: http://www.trulia.com/profile/debbie-wicker-broker-ashburn-va-364181/overview
+  yelp_url: http://www.yelp.com/biz/wicker-homes-group-re-max-ashburn
   podcast_url:
 
 podcast:
@@ -84,13 +84,13 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: Real Estate Video Blog
-  hero_background_hex: '#094264'
+  hero_text: Real Estate Channel
+  hero_background_hex: '#05091E'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#C14547'
-  theme_color: '#005473'
+  brand_color: '#E0A817'
+  theme_color: '#05091E'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -107,7 +107,7 @@ buttons:
   button_padding_height_number: 15
   button_border_color: '#ffffff'
   button_background_color: '#ffffff'
-  button_text_color: '#123456'
+  button_text_color: '#05091E'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'
