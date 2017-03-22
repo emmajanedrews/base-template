@@ -15,6 +15,4 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code:
 ---
-{% include youtube.html %}
-
-{% include pullquote.html %}
+![](https://3.bp.blogspot.com/-ZaL5w4uPWVY/WLZluGd56hI/AAAAAAAABrc/6AV8lnqLC_Q_p8Q20QCu-2G1g7ebRzftACEw/s1600/5-Reasons-to-Resolve-STM-791x1024.jpg)
