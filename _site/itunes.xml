@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Gresh Group - your professional Northern Virginia Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Janet Gresh</managingEditor>
-    <lastBuildDate>2017-03-17 14:43:21 -0500</lastBuildDate>
+    <lastBuildDate>2017-03-22 17:00:10 -0500</lastBuildDate>
     <media:copyright>Janet Gresh</media:copyright>
     <media:thumbnail url="localhost:5000"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -58,6 +58,82 @@ If you have any questions for me or you’re ready to speak with a Realtor about
         <itunes:subtitle>If you want to sell your house, you want to reach out to a professional Realtor as soon as possible. Here's why.</itunes:subtitle>
         <itunes:author>Janet Gresh</itunes:author>
         <itunes:summary>If you want to sell your house, you want to reach out to a professional Realtor as soon as possible. Here's why.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Inadequate Inventory Driving Prices Up</title>
+        <link>localhost:5000/inadequate-inventory-driving-prices-up.html</link>
+        
+          <category>Market Update</category>
+        
+          <category>Real Estate</category>
+        
+          <category>Buyer Tips</category>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Janet Gresh</author>
+        <pubDate>2017-01-04 18:00:00 -0600</pubDate>
+        <guid></guid>
+        <description>The latest Existing Home Sales Report from the National Association of Realtors (NAR) revealed a direct correlation between a lack of inventory and rising prices.
+
+We are all familiar with the concept of supply and demand. As the demand for an item increases the supply of that same item goes down, driving prices up.
+
+Year-over-year inventory levels have dropped each of the last 18 months, as inventory now stands at a 4.0-month supply, well below the 6.0-month supply needed for a ‘normal’ market.
+
+The median price of homes sold in November (the latest data available) was $234,900, up 6.8% from last year and marking the 57th consecutive month with year-over-year gains.
+
+NAR’s Chief Economist, Lawrence Yun had this to say:
+
+“Existing housing supply at the beginning of the year was inadequate and is now even worse heading into 2017. Rental units are also seeing this shortage. As a result, both home prices and rents continue to far outstrip incomes in much of the country.”
+
+But there is good news about rising prices. More and more homeowners are recovering from a negative equity situation and learning that they are able to sell their homes and either move up to their dream home or downsize to a property that will better suit their needs. Look for these homes to come to market soon.
+
+Bottom Line
+
+Buyer demand continues to outpace the supply of homes for sale. Listing your home in the winter attracts serious buyers who are looking to close the transaction quickly.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:5000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>The latest Existing Home Sales Report from the National Association of Realtors (NAR) revealed a direct correlation between a lack of inventory and rising prices.
+
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
+        <itunes:summary>The latest Existing Home Sales Report from the National Association of Realtors (NAR) revealed a direct correlation between a lack of inventory and rising prices.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Here's to a Wonderful 2017!</title>
+        <link>localhost:5000/heres-to-a-wonderful-2017.html</link>
+        
+          <category>Market Update</category>
+        
+          <category>Real Estate</category>
+        
+          <category>Buyer Tips</category>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Janet Gresh</author>
+        <pubDate>2017-01-03 18:00:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:5000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+</itunes:subtitle>
+        <itunes:author>Janet Gresh</itunes:author>
+        <itunes:summary>
+</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northern Virginia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
