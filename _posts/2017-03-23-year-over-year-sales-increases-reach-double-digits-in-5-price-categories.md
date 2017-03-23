@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Year-Over-Year Sales Increases Reach Double Digits in 5 Price Categories
-date:
+date: 2017-03-23 09:16:39
 tags:
   - Market Update
   - Real Estate
