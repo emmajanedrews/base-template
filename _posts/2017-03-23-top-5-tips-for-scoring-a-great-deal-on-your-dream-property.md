@@ -5,7 +5,7 @@ tags:
   - Buyer Tips
 excerpt: 'Today I want to give you some creative buyer tips to get a great deal on the perfect property.  1. Be very specific about what you want. The more you share with us, the easier it will be to find that dream property.'
 enclosure:
-pullquote: 'he more you share with us, the easier it will be to find that dream property.'
+pullquote: 'The more you share with us, the easier it will be to find that dream property.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
