@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to Combat a Low Appraisal
+date: 2-27-17
 tags:
   - Home Seller Tips
 excerpt: 'We get asked lots of questions about appraisals, which is why we wanted to go over some basics with you today.'
