@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Year-Over-Year Sales Increases Reach Double Digits in 5 Price Categories
-date: 2017-03-23 09:16:39
+date: 2017-01-07 09:16:00
 tags:
   - Market Update
   - Real Estate
@@ -13,7 +13,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/gresh-1-07.jpg
 youtube_code:
 ---
 
@@ -30,7 +30,7 @@ As prices in many markets continue to accelerate, it is no surprise to see the p
 
 **Here is the breakdown:**
 
-![](/uploads/20170104-STM-ENG.jpg)
+![](/uploads/versions/20170104-stm-eng-1024x768---x0-0-1024-768-1687-1265x---.jpg)
 
 Homes under $100,000 were the only group to show negative appreciation of sales at -2.4%. This not only points to the lower inventory of homes available for sale in this price range but also speaks to the overall strength of the housing market.
 
