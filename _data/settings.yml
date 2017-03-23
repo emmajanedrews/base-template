@@ -5,6 +5,10 @@ show_custom_links: true
 custom_links:
   - title: Venue Reviews
     url: /venuereviews.html
+  - title: Testimonials
+    url: http://nathanabbottteam.com/testimonials/
+  - title: Online Reviews
+    url: http://nathanabbottteam.com/online-reviews/
 
 client:
   name: Nathan Abbott
