@@ -30,7 +30,7 @@ As prices in many markets continue to accelerate, it is no surprise to see the p
 
 **Here is the breakdown:**
 
-![](/uploads/versions/20170104-stm-eng-1024x768---x0-0-1024-768-1687-1265x---.jpg)
+![](/uploads/versions/20170104-stm-eng-1024x768---x0-0-1024-768-1687-1265x---.jpg){: .alt-image}
 
 Homes under $100,000 were the only group to show negative appreciation of sales at -2.4%. This not only points to the lower inventory of homes available for sale in this price range but also speaks to the overall strength of the housing market.
 
