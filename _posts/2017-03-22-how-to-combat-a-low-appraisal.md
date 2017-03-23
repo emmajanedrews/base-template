@@ -1,11 +1,11 @@
 ---
 layout: post
 title: How to Combat a Low Appraisal
-date: 2-27-17
+date: 2017-03-22 06:00:00
 tags:
   - Home Seller Tips
 excerpt: 'We get asked lots of questions about appraisals, which is why we wanted to go over some basics with you today.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Hervieux+Real+Estate/San+Diego+Real+Estate-+Low+Appraisal+Advice.mp4'
 pullquote: We have ways to combat a home not appraising.
 enclosure_type: video/mp4
 enclosure_time:
