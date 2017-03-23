@@ -16,7 +16,7 @@ youtube_code: BY9jiLBsRfw
 
 {% include youtube.html %}
 
-Today I want to give you some creative buyer tips to get a great deal on the perfect property.
+Here are five creative tips that will help you get a great deal on the perfect property.
 
 **1. Be very specific about what you want.** The more you share with us, the easier it will be to find that dream property. Don’t be afraid to let us know what you would be uncomfortable with spending, either. Everything you tell us will help us find the right pool of options that perfectly align with your needs.
 
