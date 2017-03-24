@@ -1,7 +1,7 @@
 //For individual theme fixes. You know all about it.
-// .site-logo
-// 	max-width: 40rem
-
+.site-logo
+	padding-bottom: $nav-height + 6rem
+	padding-top: $nav-height + 6rem
 .footer
 	color: #fff
 	.attribution
@@ -31,3 +31,9 @@
 	.navbar-brand
 		color: #fff
 		margin-top: 10px
+@media (max-width: 1000px)
+	.site-logo
+		margin: 0
+		min-width: 90%
+		padding-bottom: 0rem
+		padding-top: 0rem
