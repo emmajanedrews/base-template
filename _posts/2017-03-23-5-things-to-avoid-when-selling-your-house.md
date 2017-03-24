@@ -9,7 +9,7 @@ pullquote: Avoid repainting in bold colors like bright red.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/NO_PB (46).jpg
 youtube_code: PWzWIP3P2Js
 ---
 
