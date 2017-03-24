@@ -13,7 +13,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/3-tips-stm-791x1024.jpg
+youtube_alternate_image: /uploads/ki8o4kgbt.jpg
 youtube_code:
 ---
 
