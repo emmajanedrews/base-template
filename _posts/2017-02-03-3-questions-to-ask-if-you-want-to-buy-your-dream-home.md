@@ -22,7 +22,7 @@ If you are debating purchasing a home right now, you are probably getting a lot 
 
 Ask yourself the following 3 questions to help determine if now is a good time for you to buy in today’s market.
 
-**1. Why am I buying a home in the first place?&nbsp;**
+**1. Why am I buying a home in the first place?**
 
 This is truly the most important question to answer. Forget the finances for a minute. Why did you even begin to consider purchasing a home? For most, the reason has nothing to do with money.
 
