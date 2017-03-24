@@ -26,7 +26,7 @@ The residential housing market has been hot. Home sales have bounced back solidl
 
 If your home is on the market and you are not receiving any offers, look at your price. Pricing your home just 10% above market value dramatically cuts the number of prospective buyers that will even see your house. *See chart below.*
 
-![](/uploads/versions/20170109-stm-eng-1024x768---x----1024-768x---.jpg)
+![](/uploads/versions/20170109-stm-eng-1024x768---x----1024-768x---.jpg){: .alt-image}
 
 **Bottom Line**
 
