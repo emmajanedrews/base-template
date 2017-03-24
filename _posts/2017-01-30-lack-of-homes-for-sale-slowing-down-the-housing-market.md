@@ -28,7 +28,7 @@ However, there is one thing that may cause the industry to tap the brakes: a lac
 
 **National Association of Realtors**
 
-*“Total housing inventory at the end of December dropped 10.8%...which is the lowest level since NAR began tracking the supply of all housing types in 1999. Inventory has fallen year-over-year for 19 straight months and is at a 3.6-month supply at the current sales pace.”*
+*“Total housing inventory at the end of December dropped 10.8%…which is the lowest level since NAR began tracking the supply of all housing types in 1999. Inventory has fallen year-over-year for 19 straight months and is at a 3.6-month supply at the current sales pace.”*
 
 **Jonathan Smoke, Chief Economist for Realtor.com**
 
@@ -48,6 +48,6 @@ However, there is one thing that may cause the industry to tap the brakes: a lac
 
 We expect further price growth to entice more homeowners to list their homes, particularly as existing homeowners have greater equity.”
 
-**Bottom Line&nbsp;**
+**Bottom Line**
 
 If you are thinking of selling, now may be the time. Demand for your house will be strong at a time when there is very little competition. That could lead to a quick sale for a really good price.
