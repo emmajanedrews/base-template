@@ -40,7 +40,7 @@ The survey revealed that 59% of Americans either don’t know (54%) or are misin
 
 Many Americans believe a ‘good’ credit score is 780 or higher.
 
-To help debunk this myth, let’s take a look at Ellie Mae’s latest&nbsp;*Origination Insight Report*, which focuses on recently closed (approved) loans. As you can see below, 54.7% of approved mortgages had a credit score of 600-749.
+To help debunk this myth, let’s take a look at Ellie Mae’s latest *Origination Insight Report*, which focuses on recently closed (approved) loans. As you can see below, 54.7% of approved mortgages had a credit score of 600-749.
 
 ![](/uploads/versions/20160130-stm-eng2-1024x768---x----1024-768x---.jpg){: .alt-image}
 
