@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: uieM18rZdHY
+youtube_code: 6IfySBQVKco
 ---
 
 
@@ -27,4 +27,4 @@ Doing this will not actually serve your cause; on the contrary, it could actuall
 If you hire that guy you found on Craigslist, you might think you'll save $5,000. However, the money you're 'saving' actually hurts you because you won't make as much as you could due to the lack of marketing and exposure for your home. We, on the other hand, will do things the right way at a high level to get you to the best quality offers and the highest possible sales price.
 
 If you have any questions about how we can accomplish this, I'd love to explain a little more about what we do differently than the other teams. Just give me a call or send me an email soon—I look forward to hearing from you.
-<br>&nbsp;
+<br>
