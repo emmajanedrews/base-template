@@ -24,7 +24,7 @@ According to the National Association of REALTORS most recent Profile of Home Bu
 
 But, many couples are also deciding to buy a home before spending what would be a down payment on a wedding, as unmarried couples made up 14% of all first-time buyers last year.
 
-**If you’re single, don’t fret!&nbsp;**Single women made up 18% of first-time buyers in 2016, while single men accounted for 8% of buyers. One recent article pointed to a sense of responsibility and commitment that drives many single women to want to own their home, rather than rent.
+**If you’re single, don’t fret!**Single women made up 18% of first-time buyers in 2016, while single men accounted for 8% of buyers. One recent article pointed to a sense of responsibility and commitment that drives many single women to want to own their home, rather than rent.
 
 Here is the breakdown of all first-time homebuyers in 2016 by percentage of all buyers, income, and age:
 
