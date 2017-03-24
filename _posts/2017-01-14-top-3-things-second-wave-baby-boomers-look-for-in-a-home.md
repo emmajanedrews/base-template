@@ -20,15 +20,15 @@ date: 2017-01-14 00:00:00
 
 ![](/uploads/versions/gresh-1-11---x----320-175x---.jpg)
 
-According to data from the U.S Census bureau,&nbsp;**there are approximately 76.4 million baby boomers living in the United States today.** Contrary to what many think, there are very different segments within this generation, and one piece that sets them apart are their housing needs.
+According to data from the U.S Census bureau, **there are approximately 76.4 million baby boomers living in the United States today.** Contrary to what many think, there are very different segments within this generation, and one piece that sets them apart are their housing needs.
 
-John McManus, editorial director of&nbsp;*Hanley Wood’s Residential Group*&nbsp;says his company “*is focusing on the preferences of the younger half, or second-wave baby boomers, as they exhibit different needs than the older boomers.*”
+John McManus, editorial director of *Hanley Wood’s Residential Group* says his company “*is focusing on the preferences of the younger half, or second-wave baby boomers, as they exhibit different needs than the older boomers.*”
 
 **What are ‘second-wave baby boomers’ looking for?**
 
 McManus says, “*They are seeking a fun, dynamic lifestyle with a home that can also adjust to their changing needs in the future. Living space should either include accessibility features, such as doorway space, lower shelves, and nonslip surfaces, or be easily adjustable when the time comes.*”
 
-In a homebuyer study performed by&nbsp;*The Farnsworth Group*, the participants revealed their reasons for purchasing a new home. The top three factors that influence their purchase include area/location (50.2%), price/affordability (37.4%), and the layout of the home (19%) (*as shown in the graph below*).
+In a homebuyer study performed by *The Farnsworth Group*, the participants revealed their reasons for purchasing a new home. The top three factors that influence their purchase include area/location (50.2%), price/affordability (37.4%), and the layout of the home (19%) (*as shown in the graph below*).
 
 ![](/uploads/versions/20160111-stm-eng-1024x768---x----1024-768x---.jpg){: .alt-image}
 
