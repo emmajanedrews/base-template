@@ -30,7 +30,7 @@ McManus says, “*They are seeking a fun, dynamic lifestyle with a home that can
 
 In a homebuyer study performed by&nbsp;*The Farnsworth Group*, the participants revealed their reasons for purchasing a new home. The top three factors that influence their purchase include area/location (50.2%), price/affordability (37.4%), and the layout of the home (19%) (*as shown in the graph below*).
 
-![](/uploads/versions/20160111-stm-eng-1024x768---x----1024-768x---.jpg)
+![](/uploads/versions/20160111-stm-eng-1024x768---x----1024-768x---.jpg){: .alt-image}
 
 The report also found that when buying a new home, there were other concerns like quality of construction (9%), a safer neighborhood (8.4%), better floor plans (8.25%). The most important rooms or areas are the kitchen (82.8%), master bedroom (59.2%), and great room (36%).
 
