@@ -11,7 +11,7 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/gresh-jan9.jpg
 youtube_code:
 date: 2017-01-12 00:00:00
