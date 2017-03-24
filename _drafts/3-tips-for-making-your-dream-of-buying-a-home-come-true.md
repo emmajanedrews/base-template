@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Tips for Making Your Dream of Buying a Home Come True
-date: 01-11-17
+date: 2017-01-11 00:00:00
 tags:
   - Market Update
   - Real Estate
@@ -15,7 +15,6 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/3-tips-stm-791x1024.jpg
 youtube_code:
-date:
 ---
 
 
