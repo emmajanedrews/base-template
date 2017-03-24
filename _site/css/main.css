@@ -1446,9 +1446,10 @@ html[xmlns] .flexslider .slides {
   border: none;
   border-radius: 0;
   min-height: 65px;
-  background: transparent;
+  background: #C52233;
   width: 100%;
-  overflow: hidden; }
+  overflow: hidden;
+  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5); }
 
 .navbar-andross .navbar-brand {
   color: #C52233;
@@ -1496,7 +1497,7 @@ html[xmlns] .flexslider .slides {
     display: none;
     opacity: 0; } }
 .scroll-nav-color {
-  background: #333333;
+  background: #c52233;
   -webkit-animation: 0.5s fadeNavigation ease-in-out;
           animation: 0.5s fadeNavigation ease-in-out;
   box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5); }
@@ -1505,9 +1506,9 @@ html[xmlns] .flexslider .slides {
   0% {
     -webkit-transform: translateY(0);
             transform: translateY(0);
-    background: rgba(51, 51, 51, 0); }
+    background: #c52233; }
   100% {
-    background: #333333;
+    background: #c52233;
     -webkit-transform: translateY(0);
             transform: translateY(0);
     box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5); } }
@@ -1516,15 +1517,15 @@ html[xmlns] .flexslider .slides {
   0% {
     -webkit-transform: translateY(0);
             transform: translateY(0);
-    background: rgba(51, 51, 51, 0); }
+    background: #c52233; }
   100% {
-    background: #333333;
+    background: #c52233;
     -webkit-transform: translateY(0);
             transform: translateY(0);
     box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5); } }
 .brand-color {
   box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
-  background: #333333;
+  background: #C52233;
   -webkit-animation: 0.3s fadein ease-in-out;
           animation: 0.3s fadein ease-in-out; }
 
@@ -1600,12 +1601,12 @@ label.tree-toggle {
 .site-logo {
   width: 90%;
   max-width: 100rem;
-  -webkit-filter: drop-shadow(0px 2px 7px #000);
-  filter: drop-shadow(0px 2px 7px #000); }
+  -webkit-filter: drop-shadow(0px 2px 7px transparent);
+  filter: drop-shadow(0px 2px 7px transparent); }
 
 .site-title {
   color: white;
-  text-shadow: 0px 2px 7px #000;
+  text-shadow: 0px 2px 7px transparent;
   text-transform: uppercase;
   font-size: 6.5rem;
   padding-bottom: 4rem;
@@ -2049,7 +2050,7 @@ table tr, table td {
   margin: 2rem 0;
   color: white;
   text-transform: uppercase;
-  text-shadow: 0px 2px 7px #000; }
+  text-shadow: 0px 2px 7px transparent; }
 .post .headshot {
   width: 100%;
   max-width: 15rem;
@@ -2064,7 +2065,7 @@ table tr, table td {
 
 .tag-container {
   color: white;
-  text-shadow: 0px 2px 7px #000;
+  text-shadow: 0px 2px 7px transparent;
   margin-bottom: 1rem; }
 
 .tag {
@@ -2075,7 +2076,7 @@ table tr, table td {
 .author-attribution {
   color: white;
   font-weight: 300;
-  text-shadow: 0px 2px 7px #000;
+  text-shadow: 0px 2px 7px transparent;
   margin-bottom: 2rem;
   font-style: italic; }
   .author-attribution a {
@@ -2859,7 +2860,7 @@ form select {
     width: 90%; } }
 .cta {
   background: #ffffff;
-  color: #333333;
+  color: #C52233;
   padding: 1.3rem 2rem;
   text-transform: capitalize;
   font-size: 2rem;
@@ -2897,7 +2898,7 @@ form select {
   transition: 0.3s; }
   .cta2:hover {
     background: transparent;
-    color: #333333;
+    color: #C52233;
     box-shadow: 4px 4px 0 #e56875;
     border: 2px solid #ffffff;
     -webkit-transform: scale(1.05);
