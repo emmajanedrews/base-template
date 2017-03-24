@@ -18,4 +18,4 @@ date: 2017-02-05 00:00:00
 ---
 
 
-![](/uploads/versions/rent-vs--buy-stm-791x1024---x----791-1024x---.jpg)
+![](/uploads/versions/rent-vs--buy-stm-791x1024---x----791-1024x---.jpg){: .alt-image}
