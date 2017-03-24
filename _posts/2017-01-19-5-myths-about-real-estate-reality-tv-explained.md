@@ -28,15 +28,15 @@ When you’re in the middle of your real estate themed show marathon, you might 
 
 **Myth #1: Buyers look at 3 homes and make a decision to purchase one of them.**
 
-Truth: There may be buyers who fall in love and buy the first home they see, but according to the National Association of Realtors the average homebuyer tours 10 homes as a part of their search.&nbsp;
+Truth: There may be buyers who fall in love and buy the first home they see, but according to the National Association of Realtors the average homebuyer tours 10 homes as a part of their search.
 
 **Myth #2: The houses the buyers are touring are still for sale.**
 
-Truth: The reality is being staged for TV. Many of the homes being shown are already sold and are off the market.&nbsp;
+Truth: The reality is being staged for TV. Many of the homes being shown are already sold and are off the market.
 
 **Myth #3: The buyers haven’t made a purchase decision yet.**
 
-Truth: Since there is no way to show the entire buying process in a 30-minute show, TV producers often choose buyers who are further along in the process and have already chosen a home to buy.&nbsp;
+Truth: Since there is no way to show the entire buying process in a 30-minute show, TV producers often choose buyers who are further along in the process and have already chosen a home to buy.
 
 **Myth #4: If you list your home for sale, it will ALWAYS sell at the Open House.**
 
