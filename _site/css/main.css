@@ -978,7 +978,7 @@ html[xmlns] .flexslider .slides {
   overflow: hidden;
   opacity: 1;
   cursor: pointer;
-  color: #F76C29;
+  color: #f76c29;
   text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.3);
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out; }
@@ -988,7 +988,7 @@ html[xmlns] .flexslider .slides {
   font-size: 40px;
   display: inline-block;
   content: '\f001';
-  color: #F76C29;
+  color: #f76c29;
   text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.3); }
 
 .flex-direction-nav a.flex-next:before {
@@ -1213,7 +1213,7 @@ html[xmlns] .flexslider .slides {
   color: #fff;
   padding: 20px;
   font-size: 25px;
-  background: #F76C29;
+  background: #f76c29;
   margin-top: -1px; }
 
 .leading-article {
@@ -1252,10 +1252,10 @@ html[xmlns] .flexslider .slides {
   padding: 0; }
 
 .view-all-posts {
-  color: #F76C29;
+  color: #f76c29;
   font-size: 20px;
   padding: 10px 20px;
-  border: 1px solid #F76C29;
+  border: 1px solid #f76c29;
   text-align: center;
   margin: auto;
   width: auto;
@@ -1341,6 +1341,9 @@ figure.effect-lily:hover p {
   -webkit-transition-duration: 0.35s;
   transition-duration: 0.35s; }
 
+@media(max-width: 710px) {
+  figure.effect-lily:hover p {
+    opacity: 0; } }
 #welcome-box form {
   padding-left: 30px; }
 
@@ -1348,7 +1351,7 @@ figure.effect-lily:hover p {
   max-height: 0; }
 
 .welcome-box {
-  background: #F76C29;
+  background: #f76c29;
   padding: 20px 0px;
   color: white;
   margin-top: -21px;
@@ -1362,7 +1365,7 @@ figure.effect-lily:hover p {
   opacity: 1;
   -webkit-transform: translateX(0);
           transform: translateX(0);
-  background: #F76C29;
+  background: #f76c29;
   padding: 20px 0px;
   color: white;
   margin-bottom: 20px;
@@ -1435,11 +1438,11 @@ figure.effect-lily:hover p {
     border: 0; }
 
 .welcome-hidden-margin {
-  margin-bottom: 20px; }
+  margin-bottom: 0px; }
 
 .jp-audio {
   border: 0;
-  color: #F76C29;
+  color: #f76c29;
   font-family: 'Source Sans Pro',sans-serif;
   font-size: 0;
   line-height: 0;
@@ -1474,7 +1477,7 @@ figure.effect-lily:hover p {
       background-color: transparent; }
     .jp-audio .jp-controls a {
       background-color: transparent;
-      color: #F76C29;
+      color: #f76c29;
       display: inline-block;
       line-height: 40px;
       text-align: center;
@@ -1496,7 +1499,7 @@ figure.effect-lily:hover p {
       height: 100%;
       width: 0; }
   .jp-audio .timekeeper {
-    color: #F76C29;
+    color: #f76c29;
     font-size: 11px;
     text-align: right; }
   .jp-audio .jp-no-solution {
@@ -1512,16 +1515,16 @@ figure.effect-lily:hover p {
   border: none;
   border-radius: 0;
   min-height: 65px;
-  background: #95969A;
+  background: #95969a;
   width: 100%; }
   .navbar-andross .cta {
-    background: #F76C29;
+    background: #f76c29;
     color: white;
     padding: 1.3rem 2rem;
     text-transform: capitalize;
     font-size: 2rem;
     font-weight: 300;
-    border: 2px solid #F76C29;
+    border: 2px solid #f76c29;
     -webkit-transition: 0.3s;
     transition: 0.3s; }
     .navbar-andross .cta:hover {
@@ -1538,12 +1541,12 @@ figure.effect-lily:hover p {
       -webkit-transform: translateY(0rem);
       transform: translateY(0rem); }
   .navbar-andross .cta2 {
-    color: #F76C29;
+    color: #f76c29;
     padding: 1.3rem 2rem;
     text-transform: capitalize;
     font-size: 2rem;
     font-weight: 300;
-    border: 2px solid #F76C29;
+    border: 2px solid #f76c29;
     -webkit-transition: 0.3s;
     transition: 0.3s; }
     .navbar-andross .cta2:hover {
@@ -1561,7 +1564,7 @@ figure.effect-lily:hover p {
       transform: translateY(0rem); }
 
 .navbar-andross .navbar-brand {
-  color: #F76C29;
+  color: #f76c29;
   padding-top: 20px;
   padding-bottom: 33px;
   font-size: 20px;
@@ -1584,14 +1587,14 @@ figure.effect-lily:hover p {
 .navbar-left > li > a {
   border: 0;
   background: transparent;
-  color: #F76C29;
+  color: #f76c29;
   margin-top: 15px; }
   .navbar-left > li > a:hover {
     background: transparent;
     color: #fbb08b; }
 
 .fa-bars {
-  color: #F76C29; }
+  color: #f76c29; }
 
 .navbar-toggle {
   margin-top: 20px; }
@@ -1621,7 +1624,7 @@ figure.effect-lily:hover p {
     opacity: 0; } }
 .catbloc li {
   font-size: 20px;
-  color: #F76C29;
+  color: #f76c29;
   list-style: none;
   padding-left: 30px; }
 
@@ -1693,12 +1696,12 @@ html {
 
 ::-moz-selection {
   text-shadow: none;
-  background: #F76C29;
+  background: #f76c29;
   color: white; }
 
 ::selection {
   text-shadow: none;
-  background: #F76C29;
+  background: #f76c29;
   color: white; }
 
 .site-logo, h1.site-title {
@@ -1831,7 +1834,7 @@ h6 {
   margin: 0 auto; }
 
 a {
-  color: #F76C29;
+  color: #f76c29;
   text-decoration: none; }
   a:hover {
     text-decoration: none;
@@ -1839,9 +1842,9 @@ a {
 
 .button, .button-ghost, button, input[type="button"], input[type="submit"] {
   color: white;
-  background: #F76C29;
+  background: #f76c29;
   padding: 1rem 2rem;
-  border: 1px solid #F76C29;
+  border: 1px solid #f76c29;
   border-radius: 0px; }
   .button:hover, .button-ghost:hover, button:hover, input[type="button"]:hover, input[type="submit"]:hover {
     background: #fbb08b;
@@ -1856,11 +1859,11 @@ a {
   .button-ghost:hover {
     background: rgba(255, 255, 255, 0.7);
     border: 1px solid white;
-    color: #F76C29; }
+    color: #f76c29; }
 
 .button-ghost.brand {
-  border-color: #F76C29;
-  color: #F76C29; }
+  border-color: #f76c29;
+  color: #f76c29; }
   .button-ghost.brand:hover {
     border-color: #fbb08b;
     color: #fbb08b; }
@@ -1900,7 +1903,7 @@ table tr, table td {
   width: 100%;
   color: #dadada; }
   .paginator-links svg {
-    fill: #F76C29;
+    fill: #f76c29;
     height: 2rem;
     width: 2rem; }
   .paginator-links .disabled {
@@ -1992,9 +1995,9 @@ table tr, table td {
   display: block; }
 
 .readlink > a {
-  background: #F76C29;
+  background: #f76c29;
   color: white;
-  border: 1px solid #F76C29;
+  border: 1px solid #f76c29;
   border-radius: 5px;
   padding: 10px 20px;
   margin-top: 20px;
@@ -2191,7 +2194,7 @@ table tr, table td {
     margin-top: 2rem; }
 
 .checkmark {
-  fill: #F76C29;
+  fill: #f76c29;
   -webkit-animation: checkmark 2s cubic-bezier(0.455, 0.03, 0.515, 0.955) forwards;
   animation: checkmark 2s cubic-bezier(0.455, 0.03, 0.515, 0.955) forwards; }
 
@@ -2222,7 +2225,7 @@ table tr, table td {
       padding: 0.3rem;
       display: inline-block; }
   .socials svg {
-    fill: #F76C29;
+    fill: #f76c29;
     height: 3.5rem;
     width: 3.5rem;
     border-radius: 50%;
@@ -2249,7 +2252,7 @@ table tr, table td {
   .about .socials svg {
     height: 5rem;
     width: 5rem;
-    fill: #F76C29; }
+    fill: #f76c29; }
     .about .socials svg:hover {
       fill: #fbb08b; }
 
@@ -2264,7 +2267,7 @@ table tr, table td {
     height: 3rem;
     width: 3rem;
     border-radius: 50%;
-    fill: #F76C29;
+    fill: #f76c29;
     -webkit-transition: 1s cubic-bezier(0.4, 0, 0.2, 1);
     -webkit-transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
@@ -2319,7 +2322,7 @@ table tr, table td {
     font-size: 18px;
     border: 1px solid #c7c7c7;
     background: rgba(255, 255, 255, 0.1);
-    color: #F76C29;
+    color: #f76c29;
     font-size: 2rem;
     padding: 2.4rem;
     display: inline-block;
@@ -2336,18 +2339,18 @@ table tr, table td {
       color: #c7c7c7; }
     .search-box .search-input:focus {
       background: white;
-      color: #F76C29;
+      color: #f76c29;
       -webkit-transform: translateY(-0.2rem);
       transform: translateY(-0.2rem); }
   .search-box .search-submit {
-    background: #F76C29;
+    background: #f76c29;
     color: white;
     padding: 0.9rem 2rem;
     text-transform: capitalize;
     font-size: 2rem;
     border-radius: 5px;
     font-weight: 300;
-    border: 2px solid #F76C29;
+    border: 2px solid #f76c29;
     -webkit-transition: 0.3s;
     transition: 0.3s; }
     .search-box .search-submit:hover {
@@ -2416,7 +2419,7 @@ table tr, table td {
   border-radius: 50%;
   width: 200px;
   height: 200px;
-  border: 3px solid #F76C29;
+  border: 3px solid #f76c29;
   margin: 10px auto 0 6rem;
   overflow: hidden; }
 
@@ -2446,7 +2449,7 @@ table tr, table td {
   text-align: center;
   font-size: 18px; }
   .footer hr {
-    border-top: 2px solid #F76C29; }
+    border-top: 2px solid #f76c29; }
   .footer address {
     font-style: normal; }
 
@@ -2460,7 +2463,7 @@ table tr, table td {
   text-align: center; }
 
 .vyral-logo {
-  fill: #F76C29;
+  fill: #f76c29;
   display: inline;
   height: 2rem;
   width: 2rem;
@@ -2482,7 +2485,7 @@ table tr, table td {
   display: none; }
 
 .expand {
-  color: #F76C29;
+  color: #f76c29;
   font-size: 20px;
   text-align: center;
   cursor: pointer; }
@@ -2554,7 +2557,7 @@ table tr, table td {
       -ms-flex-pack: justify;
           justify-content: space-between; }
   .testimonial-navigation a {
-    color: #F76C29;
+    color: #f76c29;
     font-size: 4rem;
     position: relative;
     z-index: 5;
@@ -2668,7 +2671,7 @@ table tr, table td {
   position: absolute;
   right: 1rem;
   top: 1rem;
-  color: #F76C29;
+  color: #f76c29;
   -webkit-transition: all 0.15s ease-out 0s;
   transition: all 0.15s ease-out 0s;
   cursor: pointer;
@@ -2690,7 +2693,7 @@ form textarea {
   padding: 0.5rem;
   border-radius: 5px; }
 form select {
-  border: 1px solid #F76C29;
+  border: 1px solid #f76c29;
   padding: 0.5rem;
   display: block; }
 
@@ -2699,14 +2702,14 @@ form select {
   margin: 0 auto; }
   .home-value input, .home-value textarea, .home-value select {
     width: 100%;
-    border: 1px solid #F76C29; }
+    border: 1px solid #f76c29; }
   .home-value fieldset {
     padding: 1.5rem;
     border-radius: 5px; }
   .home-value input[type="submit"] {
     font-size: inherit;
     padding: 1rem;
-    border: 3px solid #F76C29; }
+    border: 3px solid #f76c29; }
     .home-value input[type="submit"]:hover {
       border: 3px solid #fbb08b; }
 
@@ -2731,7 +2734,7 @@ form select {
   .contact-form input[type="submit"] {
     font-size: 1.5rem;
     padding: 1rem;
-    border: 3px solid #F76C29;
+    border: 3px solid #f76c29;
     border-radius: 5px; }
     .contact-form input[type="submit"]:hover {
       background: white;
@@ -2743,12 +2746,12 @@ form select {
       -webkit-transform: translateY(-0.2rem);
       transform: translateY(-0.2rem); }
     .contact-form input[type="submit"]:active {
-      box-shadow: 0 0 0 #F76C29;
+      box-shadow: 0 0 0 #f76c29;
       -webkit-transform: translateY(0rem);
       transform: translateY(0rem); }
 
 .newsletter {
-  background: #F76C29;
+  background: #f76c29;
   color: white;
   text-align: center;
   margin-top: 0px;
@@ -2766,7 +2769,7 @@ form select {
   .newsletter_optin input[type='email'] {
     background: rgba(255, 255, 255, 0.3);
     border: 1px solid white;
-    color: #F76C29;
+    color: #f76c29;
     font-size: 2rem;
     padding: 2.4rem;
     width: 70%;
@@ -2784,7 +2787,7 @@ form select {
       color: white; }
     .newsletter_optin input[type='email']:focus {
       background: white;
-      color: #F76C29;
+      color: #f76c29;
       -webkit-transform: translateY(-0.2rem);
       transform: translateY(-0.2rem); }
       .newsletter_optin input[type='email']:focus::-webkit-input-placeholder {
@@ -2796,7 +2799,7 @@ form select {
       .newsletter_optin input[type='email']:focus:-ms-input-placeholder {
         color: transparent; }
   .newsletter_optin input[type="submit"] {
-    background: #F76C29;
+    background: #f76c29;
     color: white;
     padding: 1.3rem 2rem;
     text-transform: capitalize;
@@ -2816,7 +2819,7 @@ form select {
       -webkit-transform: translateY(-0.2rem);
       transform: translateY(-0.2rem); }
     .newsletter_optin input[type="submit"]:active {
-      box-shadow: 0 0 0 #F76C29;
+      box-shadow: 0 0 0 #f76c29;
       -webkit-transform: translateY(0rem);
       transform: translateY(0rem); }
 
@@ -2848,7 +2851,7 @@ form select {
 .navbar-right li .cta {
   background: rgba(255, 255, 255, 0.5);
   border-color: #fff;
-  color: #F76C29;
+  color: #f76c29;
   font-weight: bold; }
   .navbar-right li .cta:hover {
     color: #fff; }
@@ -2864,7 +2867,7 @@ form select {
 
 .navbar-andross {
   background: transparent;
-  border-bottom: 2px solid #F76C29; }
+  border-bottom: 2px solid #f76c29; }
   .navbar-andross .navbar-brand {
     color: #fff;
     margin-top: 10px; }
@@ -2894,7 +2897,7 @@ form select {
             transform: translateY(0);
     background: rgba(149, 150, 154, 0.8); } }
 .brand-color {
-  background: #95969A;
+  background: #95969a;
   -webkit-animation: 0.3s fadein ease-in-out;
           animation: 0.3s fadein ease-in-out; }
 
