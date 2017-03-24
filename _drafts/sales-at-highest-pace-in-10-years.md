@@ -18,4 +18,4 @@ date: 2017-01-29 00:00:00
 ---
 
 
-![](/uploads/versions/highest-sales-stm-791x1024---x----791-1024x---.jpg)
+![](/uploads/versions/highest-sales-stm-791x1024---x----791-1024x---.jpg){: .alt-image}
