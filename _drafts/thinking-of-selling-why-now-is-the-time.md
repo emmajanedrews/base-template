@@ -24,7 +24,7 @@ It is common knowledge that a large number of homes sell during the spring-buyin
 
 The other listings that do come out in the spring will represent increased competition to any seller. Do a greater number of homes actually come to the market in the spring, as compared to the rest of the year? The National Association of Realtors (NAR) recently revealed the months in which most people listed their homes for sale in 2016. Here is a graphic showing the results:
 
-![](/uploads/versions/calendar-2016-listing-dates-stm-1024x385---x----1024-385x---.jpg)
+![](/uploads/versions/calendar-2016-listing-dates-stm-1024x385---x----1024-385x---.jpg){: .alt-image}
 
 The three months in the second quarter of the year (represented in red) are consistently the most popular months for sellers to list their homes on the market. Last year, the number of homes available for sale in January was 1,820,000.
 
