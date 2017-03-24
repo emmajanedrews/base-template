@@ -17,6 +17,8 @@ client:
   phone_type: Kyle
   phone2: 314-369-4743
   phone2_type: Brian
+  phone3: 314-651-255
+  phone3_type: Jeff
   email: Kyle.Fernandez@PalmerHouseProperties.com
   url: 'http://KyleFernandez.com'
 partner:
