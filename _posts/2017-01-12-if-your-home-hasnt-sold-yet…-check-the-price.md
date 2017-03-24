@@ -20,11 +20,11 @@ date: 2017-01-12 00:00:00
 
 ![](/uploads/versions/gresh-jan9---x----320-175x---.jpg)
 
-The residential housing market has been hot. Home sales have bounced back solidly and are now at their&nbsp;[second highest pace](https://www.nar.realtor/news-releases/2016/12/existing-home-sales-forge-ahead-in-november)&nbsp;since February 2007. Demand has remained strong throughout the winter as many real estate professionals are reporting bidding wars with many homes selling above listing price. What about your house?
+The residential housing market has been hot. Home sales have bounced back solidly and are now at their [second highest pace](https://www.nar.realtor/news-releases/2016/12/existing-home-sales-forge-ahead-in-november) since February 2007. Demand has remained strong throughout the winter as many real estate professionals are reporting bidding wars with many homes selling above listing price. What about your house?
 
 **If your house hasn’t sold, it is probably because of the price.**
 
-If your home is on the market and you are not receiving any offers, look at your price. Pricing your home just 10% above market value dramatically cuts the number of prospective buyers that will even see your house.&nbsp;*See chart below.*
+If your home is on the market and you are not receiving any offers, look at your price. Pricing your home just 10% above market value dramatically cuts the number of prospective buyers that will even see your house. *See chart below.*
 
 ![](/uploads/versions/20170109-stm-eng-1024x768---x----1024-768x---.jpg)
 
