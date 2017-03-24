@@ -53,7 +53,7 @@ A buyer must be concerned about more than just prices. The ‘long-term cost’ 
 
 The Mortgage Bankers Association (MBA), the National Association of Realtors, and Fannie Mae have all projected that mortgage interest rates will increase over the next twelve months, as you can see in the chart below:
 
-![](/uploads/versions/20170213-stm-eng-1024x768---x----1024-768x---.jpg)
+![](/uploads/versions/20170213-stm-eng-1024x768---x----1024-768x---.jpg){: .alt-image}
 
 **Bottom Line**
 
