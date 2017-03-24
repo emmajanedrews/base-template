@@ -18,4 +18,4 @@ youtube_code:
 ---
 
 
-![](/uploads/versions/3-tips-stm-791x1024---x----791-1024x---.jpg)
+![](/uploads/versions/3-tips-stm-791x1024---x----791-1024x---.jpg){: .alt-image}
