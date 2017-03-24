@@ -18,4 +18,4 @@ date: 2017-02-02 00:00:00
 ---
 
 
-![](/uploads/versions/5-reasons-to-love-stm-791x1024---x----791-1024x---.jpg)
+![](/uploads/versions/5-reasons-to-love-stm-791x1024---x----791-1024x---.jpg){: .alt-image}
