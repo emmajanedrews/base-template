@@ -30,6 +30,6 @@ If you want to get top dollar for your home, there are five things you absolutel
 
 {% include pullquote.html %}
 
-If you’d like some more information,&nbsp;[Click Here](http://www.remodeling.hw.net/cost-vs-value/2017/)&nbsp;to Remodeling Magazine’s cost vs. value report that will give you some great tips on which upgrades you should make to maximize value in your home.
+If you’d like some more information, click here to view Remodeling Magazine’s cost vs. value report that will give you some great tips on which upgrades you should make to maximize value in your home.
 
 If you have any questions about updating your home, or if you have any other real estate questions, please don’t hesitate to give me a call or send me an email. I look forward to hearing from you!
