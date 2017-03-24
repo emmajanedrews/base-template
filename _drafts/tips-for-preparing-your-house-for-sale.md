@@ -18,4 +18,4 @@ date: 2017-01-22 00:00:00
 ---
 
 
-![](/uploads/versions/tips-for-selling-stm-1024x807---x----1024-807x---.jpg)
+![](/uploads/versions/tips-for-selling-stm-1024x807---x----1024-807x---.jpg){: .alt-image}
