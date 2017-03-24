@@ -28,7 +28,7 @@ But, many couples are also deciding to buy a home before spending what would be 
 
 Here is the breakdown of all first-time homebuyers in 2016 by percentage of all buyers, income, and age:
 
-![](/uploads/versions/20170214-stm-eng-1024x707---x----1024-707x---.jpg)
+![](/uploads/versions/20170214-stm-eng-1024x707---x----1024-707x---.jpg){: .alt-image}
 
 **Bottom Line**
 
