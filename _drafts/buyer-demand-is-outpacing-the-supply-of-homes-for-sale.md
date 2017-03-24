@@ -28,7 +28,7 @@ Their latest edition sheds some light on the relationship between Seller Traffic
 
 The map below was created after asking the question: “How would you rate buyer traffic in your area?”
 
-![](/uploads/versions/20170206-buyer-traffic-stm-1024x768---x----1024-768x---.jpg)
+![](/uploads/versions/20170206-buyer-traffic-stm-1024x768---x----1024-768x---.jpg){: .alt-image}
 
 The darker the blue, the stronger the demand for homes in that area. Only six states had a weak demand level.
 
@@ -38,7 +38,7 @@ The Index also asked: “*How would you rate seller traffic in your area?*”
 
 As you can see from the map below, the majority of the country has weak Seller Traffic, meaning there are far fewer homes on the market than what is needed to satisfy the buyers who are out looking for their dream homes.
 
-![](/uploads/versions/20170206-seller-traffic-stm-1024x768---x----1024-768x---.jpg)
+![](/uploads/versions/20170206-seller-traffic-stm-1024x768---x----1024-768x---.jpg){: .alt-image}
 
 **Bottom Line**
 
