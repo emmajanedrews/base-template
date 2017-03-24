@@ -18,11 +18,15 @@ youtube_code: w_cNrZ5Oiwg
 
 If you want to get top dollar for your home, there are five things you absolutely must do.
 
-1. **Add a fresh coat of paint.** Paint both the inside and the outside, and make sure you keep the colors neutral. Now is not the time to be putting bold colors on your walls.
-2. **Replace the flooring.** Carpet stains and peeling vinyl will turn off any potential buyers. If your floors aren’t in the best shape, rip up that flooring and replace it with a great laminate or hardwood.
-3. **Clean and declutter.** Buyers want to be able to envision living in a home, so you need to remove personal items and excess furniture. In fact, if you really want to make your home the most appealing to buyers, consider having it staged.
-4. **Spruce up your curb appeal.** Clean up your yard and add some fresh flowers and bushes. You can hire a landscaping company to do this for you if you don’t feel like doing the dirty work yourself.
-5. **Repair the little things.** There are probably some little improvement projects you’ve been putting off, like a torn screen or a broken latch. If a buyer sees those things they will wonder what else is wrong with the home under the surface.
+**1. Add a fresh coat of paint.** Paint both the inside and the outside, and make sure you keep the colors neutral. Now is not the time to be putting bold colors on your walls.
+
+**2. Replace the flooring.** Carpet stains and peeling vinyl will turn off any potential buyers. If your floors aren’t in the best shape, rip up that flooring and replace it with a great laminate or hardwood.
+
+**3. Clean and declutter.** Buyers want to be able to envision living in a home, so you need to remove personal items and excess furniture. In fact, if you really want to make your home the most appealing to buyers, consider having it staged.
+
+**4. Spruce up your curb appeal.** Clean up your yard and add some fresh flowers and bushes. You can hire a landscaping company to do this for you if you don’t feel like doing the dirty work yourself.
+
+**5. Repair the little things.** There are probably some little improvement projects you’ve been putting off, like a torn screen or a broken latch. If a buyer sees those things they will wonder what else is wrong with the home under the surface.
 
 {% include pullquote.html %}
 
