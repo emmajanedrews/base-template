@@ -18,7 +18,7 @@ date: 2017-01-26 00:00:00
 ---
 
 
-According to&nbsp;*Freddie Mac’s*&nbsp;latest&nbsp;[Primary Mortgage Market Survey](http://www.freddiemac.com/pmms/pmms_archives.html), interest rates for a 30-year fixed rate mortgage are currently at 4.09%, which is still very low in comparison to recent history!
+According to *Freddie Mac’s* latest [Primary Mortgage Market Survey](http://www.freddiemac.com/pmms/pmms_archives.html), interest rates for a 30-year fixed rate mortgage are currently at 4.09%, which is still very low in comparison to recent history!
 
 The interest rate you secure when buying a home not only greatly impacts your monthly housing costs, but also impacts your purchasing power.
 
