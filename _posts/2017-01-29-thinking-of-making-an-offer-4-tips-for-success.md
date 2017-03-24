@@ -56,6 +56,6 @@ Your agent will also be key in the negotiation process, giving you guidance on t
 
 If your offer is approved, Freddie Mac urges you to “always get an independent home inspection, so you know the true condition of the home." If the inspection uncovers undisclosed problems or issues, you can discuss any repairs that may need to be made, with the seller, or cancel the contract.
 
-**Bottom Line&nbsp;**
+**Bottom Line**
 
 Whether buying your first home or your fifth, having a local professional on your side who is an expert in their market is your best bet to make sure the process goes smoothly. Happy House Hunting!
