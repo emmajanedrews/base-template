@@ -8,7 +8,7 @@ enclosure: 'http://vyralmarketing.s3.amazonaws.com/Eric%20Vallee/videos/5%20Thin
 pullquote: Avoid repainting in bold colors like bright red.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image:
 youtube_code: PWzWIP3P2Js
 ---
@@ -18,7 +18,7 @@ youtube_code: PWzWIP3P2Js
 
 If you're getting ready to sell your house, there are certain things you should actually avoid doing:
 
-**1. Wallpaper is out.** Unless your home is custom, you want to avoid putting up wallpaper at all costs.
+**1. Wallpaper is out.** Unless your home is custom-built, you want to avoid putting up wallpaper at all costs.
 
 **2. Lavish light fixtures.** You want to keep your fixtures clean and simple; you don't need to overspend or get something ornate and personal.
 
