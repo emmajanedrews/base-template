@@ -1,6 +1,7 @@
 ---
 layout: post
 title: You Need a Professional on Your Team When Buying a Home
+Date: 1-12-17
 tags:
   - Market Update
   - Real Estate
