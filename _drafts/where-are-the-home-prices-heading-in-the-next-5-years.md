@@ -26,11 +26,11 @@ Every quarter, Pulsenomics surveys a nationwide panel of over one hundred econom
 
 Home values will appreciate by 4.4% over the course of 2017, 3.4% in 2018, 2.8% in 2019, 2.7% in 2020, and 2.8% in 2021. That means the average annual appreciation will be 3.22% over the next 5 years.
 
-![](/uploads/versions/20170227-stm-eng1-1024x768---x----1024-768x---.jpg)
+![](/uploads/versions/20170227-stm-eng1-1024x768---x----1024-768x---.jpg){: .alt-image}
 
 The prediction for cumulative appreciation fell from 21.4% to 17.3% by 2021. The experts making up the most bearish quartile of the survey are projecting a cumulative appreciation of 6.3%.
 
-![](/uploads/versions/20170227-stm-eng2-1024x768---x----1024-768x---.jpg)
+![](/uploads/versions/20170227-stm-eng2-1024x768---x----1024-768x---.jpg){: .alt-image}
 
 **Bottom Line**
 
