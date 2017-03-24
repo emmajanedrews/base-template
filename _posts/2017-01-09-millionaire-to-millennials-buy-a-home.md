@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Millionaire to Millennials: Buy a Home!!'
-date: 1-09-17
+date: 2017-01-09 00:00:00
 tags:
   - Market Update
   - Real Estate
@@ -15,7 +15,6 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/Gresh.01.jpg
 youtube_code:
-date: 2017-01-09 00:00:00
 ---
 
 
