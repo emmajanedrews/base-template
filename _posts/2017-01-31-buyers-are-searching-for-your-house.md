@@ -34,7 +34,7 @@ Buyers are searching for existing homes, but supply is not keeping up with their
 
 Yun went on to explain,
 
-*“The main storyline in the early months of 2017 will be if supply can meaningfully increase to keep price growth at a moderate enough level for households to absorb higher borrowing cost.&nbsp;**Sales will struggle to build on last year’s strong pace if inventory conditions don’t improve.**” (emphasis added)*
+*“The main storyline in the early months of 2017 will be if supply can meaningfully increase to keep price growth at a moderate enough level for households to absorb higher borrowing cost. **Sales will struggle to build on last year’s strong pace if inventory conditions don’t improve.**” (emphasis added)*
 
 **Bottom Line**
 
