@@ -18,4 +18,4 @@ date: 2017-01-16 00:00:00
 ---
 
 
-![](/uploads/versions/prices-yoy-stm-791x1024---x----791-1024x---.jpg)
+![](/uploads/versions/prices-yoy-stm-791x1024---x----791-1024x---.jpg){: .alt-image}
