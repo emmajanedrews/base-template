@@ -20,7 +20,7 @@ date: 2017-01-21 00:00:00
 
 ![](/uploads/versions/gresh-1-16---x----320-175x---.jpg)
 
-Some industry experts are saying that the housing market may be heading for a slowdown in 2017 based on rising home prices and a jump in mortgage interest rates. One of the data points they use is the&nbsp;*[Housing Affordability Index](http://economistsoutlook.blogs.realtor.org/2017/01/13/november-2016-housing-affordability-index/)*, as reported by the&nbsp;*National Association of Realtors (NAR).*
+Some industry experts are saying that the housing market may be heading for a slowdown in 2017 based on rising home prices and a jump in mortgage interest rates. One of the data points they use is the *[Housing Affordability Index](http://economistsoutlook.blogs.realtor.org/2017/01/13/november-2016-housing-affordability-index/)*, as reported by the *National Association of Realtors (NAR).*
 
 Here is how NAR defines the index:
 
