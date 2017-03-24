@@ -30,7 +30,7 @@ Many believe that they need at least 20% down to buy their dream home, but many 
 
 *Below are the results of a Digital Risk survey of Millennials who recently purchased a home.*
 
-![](/uploads/versions/20160130-stm-eng1-1024x768---x----1024-768x---.jpg)
+![](/uploads/versions/20160130-stm-eng1-1024x768---x----1024-768x---.jpg){: .alt-image}
 
 As you can see, 64.2% were able to purchase their home by putting down less than 20%, with 43.8% putting down less than 10%!
 
@@ -42,7 +42,7 @@ Many Americans believe a ‘good’ credit score is 780 or higher.
 
 To help debunk this myth, let’s take a look at Ellie Mae’s latest&nbsp;*Origination Insight Report*, which focuses on recently closed (approved) loans. As you can see below, 54.7% of approved mortgages had a credit score of 600-749.
 
-![](/uploads/versions/20160130-stm-eng2-1024x768---x----1024-768x---.jpg)
+![](/uploads/versions/20160130-stm-eng2-1024x768---x----1024-768x---.jpg){: .alt-image}
 
 **Bottom Line**
 
