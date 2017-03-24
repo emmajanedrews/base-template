@@ -21,10 +21,10 @@ client:
   url: 'http://www.coastalmississippihomesearch.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'http://www.coastalmississippihomesearch.com/homevalue'
+  first_CTA_URL: 'http://coasthomesearch.com/sell//'
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://www.coastalmississippihomesearch.com/'
-  VR_form: http://oi.vresp.com?fid=ee203e8ab4
+  second_CTA_URL: 'http://coasthomesearch.com/'
+  VR_form: 'http://oi.vresp.com?fid=ee203e8ab4'
 sidebar_CTA:
   CTA_image_path: /img/cta-images/003.jpg
   CTA_title: Looking to Buy a Home?
@@ -51,7 +51,7 @@ socials:
   zillow_url: 'http://www.zillow.com/profile/bryan-david/'
   trulia_url: 'https://www.trulia.com/profile/bryan-david-agent-ocean-springs-ms-zgvyhmng/overview'
   yelp_url:
-  podcast_url: https://itunes.apple.com/us/podcast/mississippi-gulf-coast-real-estate-podcast-bryan-david/id1211755092?mt=2
+  podcast_url: 'https://itunes.apple.com/us/podcast/mississippi-gulf-coast-real-estate-podcast-bryan-david/id1211755092?mt=2'
 podcast:
   title: Mississippi Gulf Coast Real Estate Podcast with Bryan David
   categories:
