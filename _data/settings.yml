@@ -15,7 +15,7 @@ client:
   address: '328 Emmanuel Ct<br>Valley Park, MO 63088'
   phone: 314-323-7999
   phone_type: Kyle
-  phone2: 314-380-0581
+  phone2: 314-369-4743
   phone2_type: Brian
   email: Kyle.Fernandez@PalmerHouseProperties.com
   url: 'http://KyleFernandez.com'
@@ -24,7 +24,7 @@ partner:
   license_number:
   phone: 314-369-4743
   email: Brian.Preston@PalmerhouseProperties.com
-  url: http://BrianPrestonRealEstate.com
+  url: 'http://BrianPrestonRealEstate.com'
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://www.kylefernandez.com/free_home_valuation'
@@ -51,11 +51,11 @@ lender:
   headshot_path: /img/lender.jpg
   logo_path:
   logo_path_2:
-  name: <b>Jeff Peer</b><br>NMLS 289958
+  name: '<b>Jeff Peer</b><br>NMLS 289958'
   brand: Fidelity Mortgage
   phone:
   email: JPeer@bosmtg.com
-  url: http://www.palmerhousepropertiesstl.com/financing
+  url: 'http://www.palmerhousepropertiesstl.com/financing'
 socials:
   review_sm_icons: false
   facebook_url: 'https://www.facebook.com/kylefernandezrealestate'
