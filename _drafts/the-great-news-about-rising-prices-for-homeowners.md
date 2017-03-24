@@ -26,7 +26,7 @@ The great news about rising prices, however, is that according to CoreLogic’s 
 
 The map below was created using the same report from CoreLogic and shows the average equity gain per mortgaged home from June 2015 to June 2016 (the latest data available).
 
-![](/uploads/versions/20170215-stm-eng-1024x768---x----1024-768x---.jpg)
+![](/uploads/versions/20170215-stm-eng-1024x768---x----1024-768x---.jpg){: .alt-image}
 
 For those who are worried that we are doomed to repeat 2006 all over again, it is important to note that homeowners are investing their new-found equity in their homes and themselves, not in depreciating assets.
 
