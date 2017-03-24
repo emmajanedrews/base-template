@@ -30,9 +30,9 @@ The first step in your home buying process should be to get pre-approved for you
 
 The next step is to list all the features of a home that you would like, and to qualify them as follows:
 
-* **‘Must Haves’**&nbsp;– if this property does not have these items, then it shouldn’t even be considered. (ex: distance from work or family, number of bedrooms/bathrooms)
-* **‘Should Haves’**&nbsp;– if the property hits all of the 'must haves' and some of the 'should haves,' it stays in contention but does not need to have all of these features.
-* **‘Absolute Wish List’**&nbsp;– if we find a property in our budget that has all of the ‘must haves,’ most of the ‘should haves,’ and ANY of these, it’s the winner!
+* **‘Must Haves’** – if this property does not have these items, then it shouldn’t even be considered. (ex: distance from work or family, number of bedrooms/bathrooms)
+* **‘Should Haves’** – if the property hits all of the 'must haves' and some of the 'should haves,' it stays in contention but does not need to have all of these features.
+* **‘Absolute Wish List’** – if we find a property in our budget that has all of the ‘must haves,’ most of the ‘should haves,’ and ANY of these, it’s the winner!
 
 **Bottom Line**
 
