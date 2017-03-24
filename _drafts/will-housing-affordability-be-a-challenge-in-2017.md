@@ -42,7 +42,7 @@ The market is recovering, and values are coming back nicely. That has caused the
 
 However, let’s remove the crisis years and look at the current index as compared to the index from 1990 – 2008:
 
-![](/uploads/versions/20170119-stm-eng-1024x576---x----1024-576x---.jpg)
+![](/uploads/versions/20170119-stm-eng-1024x576---x----1024-576x---.jpg){: .alt-image}
 
 We can see that, even though prices have increased, mortgage rates are still lower than historical averages and have put the index in a better position than every year for the nineteen years before the crash.
 
