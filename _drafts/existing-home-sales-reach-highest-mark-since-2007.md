@@ -18,4 +18,4 @@ date: 2017-02-09 00:00:00
 ---
 
 
-![](/uploads/versions/2-24-ehs-report-stm-791x1024---x----791-1024x---.jpg)
+![](/uploads/versions/2-24-ehs-report-stm-791x1024---x----791-1024x---.jpg){: .alt-image}
