@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Millionaire to Millennials: Buy a Home!!'
+date: 1-09-17
 tags:
   - Market Update
   - Real Estate
