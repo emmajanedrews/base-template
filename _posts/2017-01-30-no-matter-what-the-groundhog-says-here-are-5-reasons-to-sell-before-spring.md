@@ -26,13 +26,13 @@ Many sellers feel that the spring is the best time to place their homes on the m
 
 **Here are five reasons to sell now.**
 
-**1. Demand is Strong&nbsp;**
+**1. Demand is Strong**
 
 Foot traffic refers to the number of people who are out, physically looking at homes right now. The latest foot traffic numbers from the National Association of Realtors (NAR) show that the number of buyers out looking for their dream homes in December reached the highest mark since February 2016.
 
 These buyers are ready, willing and able to buy…and are in the market right now! Take advantage of the strong buyer activity currently in the market.
 
-**2. There Is Less Competition Now&nbsp;**
+**2. There Is Less Competition Now**
 
 Housing inventory just dropped to a 3.6-month supply, which is well under the 6-month supply needed for a normal housing market. This means, in many areas, there are not enough homes for sale to satisfy the number of buyers in that market. This is good news for home prices; however, additional inventory is about to come to market.
 
