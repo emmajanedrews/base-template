@@ -26,7 +26,7 @@ Purchasing power, simply put, is the amount of home you can afford to buy for th
 
 The chart below shows what impact rising interest rates would have if you planned to purchase a home within the national median price range, and planned to keep your principal and interest payments at or about $1,100 a month.
 
-![](/uploads/versions/20170124-stm-eng-1024x768---x----1024-768x---.jpg)​
+![](/uploads/versions/20170124-stm-eng-1024x768---x----1024-768x---.jpg){: .alt-image}
 
 With each quarter of a percent increase in interest rate, the value of the home you can afford decreases by 2.5%, (in this example, $6,250). Experts predict that mortgage rates will be closer to 5% by this time next year.
 
