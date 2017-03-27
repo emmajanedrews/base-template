@@ -76,7 +76,7 @@ podcast:
   author: '-- CLIENT NAME --'
 images:
   client_headshot_path: /img/headshot.jpg
-  hero_logo_path: /uploads/png-10.png
+  hero_logo_path: /uploads/1homepage-logo.png
   logo_width_number: 40
   hero_text: Real Estate Channel
   hero_background_hex: '#05091e'
