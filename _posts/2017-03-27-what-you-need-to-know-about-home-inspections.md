@@ -33,5 +33,3 @@ There are actually two reasons. First, it gives you a clear understanding about 
 A good home inspector is going to be thorough and give you the report in a timely manner so you can use that to negotiate with the seller. They will also review the findings with you. You want to make sure they are going to be available to answer any questions that you might have as well.
 
 If you have any other questions about home inspections, or if you have any questions about the market, please feel free to give me a call or send me an email. I look forward to hearing from you!
-
-{% include pullquote.html %}
