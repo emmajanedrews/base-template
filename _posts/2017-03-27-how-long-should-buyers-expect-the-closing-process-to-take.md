@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time: '10:21 am'
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: aNKauuSd
+youtube_code: aNKauuSd_Ro
 ---
 
 
