@@ -1,21 +1,22 @@
 ---
 layout: post
-title: " What Do Good Northern Virginia Agents Do While You're Not Looking?"
-date: '2016-02-15T13:47:00.001-08:00'
+title: "What Do Good Northern Virginia Agents Do While You're Not Looking?"
+date: 2016-02-15 21:47:00
 author: Vyral Admin
 tags:
-- Northern Virginia Real Estate
+  - Northern Virginia Real Estate
 excerpt:
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image:
 youtube_code: RVtSgR0yqBw
 ---
-{% include youtube.html %}
-Whether you're buying or selling a home, we are always looking at market trends -- what homes are being sold and what homes are failing to sell. We are working constantly behind the scenes in order to help you get the real estate results you desire.
+
+
+{% include youtube.html %}Whether you're buying or selling a home, we are always looking at market trends – what homes are being sold and what homes are failing to sell. We are working constantly behind the scenes in order to help you get the real estate results you desire.
 
 We prospect every day. We call buyers and sellers constantly to see if we can find the perfect match for you. If you're a seller, I'm calling buyers to tell them about your property and to see if there is anyone looking for a place like yours. If you're buying, I call sellers to see if there is anyone selling a home that fits your wants and needs.
 
