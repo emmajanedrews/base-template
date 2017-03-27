@@ -1,21 +1,22 @@
 ---
 layout: post
-title: When Searching for a Home, the Web Can Lead You Astray
-date: '2014-05-16T08:22:00.002-07:00'
+title: 'When Searching for a Home, the Web Can Lead You Astray'
+date: 2014-05-16 15:22:00
 author: Vyral Admin
 tags:
-- Northern Virginia Real Estate Other
+  - Northern Virginia Real Estate Other
 excerpt:
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image:
 youtube_code: mjjuRVbLxaQ
 ---
-{% include youtube.html %}
-The National Association of Realtors says that 90% of home buyers begin their home search online. The same is true for sellers, who try to determine an accurate price for their home by searching for similar homes online. There are a lot of advantages in doing this, but there are also huge disadvantages with using these websites.
+
+
+{% include youtube.html %}The National Association of Realtors says that 90% of home buyers begin their home search online. The same is true for sellers, who try to determine an accurate price for their home by searching for similar homes online. There are a lot of advantages in doing this, but there are also huge disadvantages with using these websites.
 
 The most commonly used websites are Zillow, Trulia, and Realtor.com. Have you ever wondered why these websites exist? They exist to make money, and they are making money off of you and your data. When you register for these websites, they take your information, compile it, and then sell it to Realtors who are looking for leads. They sell zip codes to real estate agents all across the country just from the information that you freely provide them.
 
