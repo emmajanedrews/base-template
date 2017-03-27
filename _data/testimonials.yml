@@ -1,5 +1,35 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
+  - quote: "The Vallee Team has been selling us homes for over 13 years. Trusted and dependable this team will work with you through any situation that may arise. As buyers and sellers Don is consistently available on short notice and has always had a solution to a problem. I trust Don completely with our homes the content and the transactions. We honestly could not have found a better Realtor and friend. Don has extreme integrity and is well connected in the community. If you are looking for a Realtor who knows the market,communities, and contractors for just about anything you must call Don Vallee. Don will go above and beyond the scope of his job to ease the stress of moving."
+    name: Buyers, Helge and Jennifer Carson
+    audio:
+  - quote: "The experience of buying a house, although exciting can be somewhat stressful; Don Vallee made our experience truly enjoyable. Anytime that we hit a snag Don would go out of his way to fix the problem. Don's goal seems to be to ensure that his clients spend their time being excited about their new purchase instead of being stressed. Don Vallee was a pleasure to work with."
+    name: Doug and Stacey Wilson
+    audio:
+  - quote: "My husband and I have been working with Don Vallee for about two years to find us a home in Tucson, relocating from the Los Angeles area. Don's patience, understanding and expertise guided us through this daunting time of anxiety, frustration and ultimately finding the perfect new home for us to settle into. I can't think of a better person than Don to have worked with during this time."
+    name: Barbara and Hank Carbajal
+    audio:
+  - quote: "Hello, Just wanted to let everybody who reads this that Don Vallee is one of the most trusted and knowledgeable realtors I have had the pleasure to meet. We came to Tucson not knowing the area or anybody. Don took great care in showing us what kind of property that would meet our needs and wants. He had everything done in advance of us meeting him. He picked us up at our hotel and showed us around the Oro Valley area so we could get a feel for it. He made us very comfortable about our purchase of our new home. If this was Trip Adviser, Don Valle would get 5 Stars all day long. Thanks Don."
+    name: Stephan Spaete
+    audio:
+  - quote: "Don was my agent for my recent move to the Tucson area from out of state. Don knows the area so well I knew we were in great hands. Don knows all of the neighborhoods inside and out. He has a very good contact list of trusted service providers that he puts at your disposal. Don was able to quickly assess our needs and show us properties according to our schedule. I really can't express what a smooth experience it was working with Don and his team. I can say that I would recommend him and his team without hesitation to anyone looking for a permanent or rental property in the Tucson area. Work with Don, you will not be disappointed!"
+    name: Elizabeth Green
+    audio:
+  - quote: "I was absolutely thrilled! When I first contacted Don, he went after hours and met me -- not even at his office -- at a halfway point, that was more convenient for me. We sat, talked and he was very informative. When we agreed on a purchase price, because it was a short sale, he worked overtime and ended up saving us $10,000 because the appraisal came in lower than our agreed price. So he was able to convince them to give us $10,000 off! Those were two things that were exceptional!"
+    name: Cathy Gurski
+    audio:
+  - quote: "We purchased a home in Marana in October and Don was excellent to work with. I moved from New Jersey to Arizona with my husband for work-related purposes and by chance I found Don from an Internet search. He was great from the start and really took a lot of time showing us a lot of homes. Don helped us through the end to find where we’re living now in Marana. The whole process was really stressful and what I liked about Don was that he always got back to me if I texted him, emailed him, or called him -- he was always really quick to get back to me. When we sold our house in New Jersey within three weeks, I called him in sheer panic because we were coming to Arizona in one week and I didn’t know where we were going to live. He called me back and he really calmed me down by telling me that if we didn’t find anything we could rent and that he would find us something. He was very calm, comforting and just excellent. He really made the whole transition easier and I don’t know what we would’ve done without him!"
+    name: Kim Campion
+    audio:
+  - quote: "We got good results! We were able to find the home that we were looking for. I would say our results were excellent. We were under contract with one home and then we had to quickly change directions and look at other homes. He was always available and very helpful. We were coming from out of town so he was able to show us homes in areas that I wasn’t very familiar with and that ended up being very helpful in our home search."
+    name: Liz Green
+    audio:
+  - quote: "Don was very straightforward and gave us a good evaluation of our home, the market and when we should be selling which wasn’t at the point in time. He told us that if we really wanted to max out that we should sell the first of February. He did a fabulous job, we sold the house in four days, and we loved it. What really impressed us more than anything was whenever we had any questions he answered us immediately! He either picked up or called us right back. It was super! We were never left hanging. When you’re dealing with moving a large percentage of your assets around, there’s a lot of concern on your part. He had quick answers and he never dodged a question. I’d give him a triple-A +++ rating -- he was wonderful to deal with!"
+    name: Bob and Judy Schumann
+    audio:
+  - quote: "Our results working with the Vallee Gold Team were very positive! They were very responsive, answered all of our questions in a timely manner, had a lot of patience and worked through all of our problems effectively."
+    name: Susan Fox
+    audio:
+  - quote: "Both Don and Kathy are wonderful! We’ve worked with them over the years. They are very professional and working with them has been exceptional. We had some issues come up with the house and the listing agents so Don and Kathy came in and worked everything out. They were wonderful!"
+    name: Sharon Hendricks
     audio:
