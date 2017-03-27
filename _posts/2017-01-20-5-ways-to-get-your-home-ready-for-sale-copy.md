@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Ways to Get Your Home Ready for Sale
-date: 2017-01-20 17:37:00
+date: 2017-03-27 17:37:00
 author: Alyssa Sisco
 tags:
   - Home Seller Tips
