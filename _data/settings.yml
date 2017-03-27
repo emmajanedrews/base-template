@@ -55,7 +55,7 @@ lender:
   logo_path_2:
   name: '<b>Jeff Peer</b><br>NMLS 289958'
   brand: Fidelity Mortgage
-  phone:
+  phone: 314-651-2558
   email: JPeer@bosmtg.com
   url: 'http://www.palmerhousepropertiesstl.com/financing'
 socials:
@@ -82,6 +82,7 @@ podcast:
   author: '-- CLIENT NAME --'
 images:
   client_headshot_path: /img/headshot.jpg
+  partner_headshot_path: /img/headshot2.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
   hero_text: Real Estate Video Blog
