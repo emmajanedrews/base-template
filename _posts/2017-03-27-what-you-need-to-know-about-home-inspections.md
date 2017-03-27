@@ -4,12 +4,12 @@ title: What You Need to Know About Home Inspections
 tags:
   - Buyer Tips
 excerpt: Today I’m answering a few key questions about home inspections that will have you ready to order one for your future home.
-enclosure:
+enclosure: 'http://vyralmarketing.s3.amazonaws.com/Dave%20Knight/What%20You%20Need%20to%20Know%20About%20Home%20Inspections.mp4'
 pullquote: A home inspection gives you a clear understanding about the condition of the property that you’re about to purchase.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/no-pb.jpg
 youtube_code: JbG-HdBZAFs
 ---
 
