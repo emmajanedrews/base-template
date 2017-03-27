@@ -24,9 +24,9 @@ If you are looking for an attached home, like a condo or townhome, there are onl
 
 **The low inventory has driven prices up.** The average price for detached homes is up to $813,000 and the median price is up to $630,000. In lower price points, homes are selling fast. If you go above the average price point for your area, those homes are sitting on the market for a lot longer. So, if you are thinking of selling your home and your property is at or below the average price, then you are in a great position in the current market.
 
-{% include pullquote.html %}
-
 On the other hand, buyers are struggling to find homes. There are not many options to choose from, which means the market is very competitive. As a buyer, there are three things you can do to position yourself better in the current market:
+
+{% include pullquote.html %}
 
 **1. Get your loan fully underwritten.** Many buyers get pre-qualified or pre-approved. Pre-qualified buyers submit their information and the lender says, “You can probably get qualified for this amount.” Pre-approved means that a lender has reviewed your information and said that you are very likely to get approved for a certain amount. However, if you get your loan underwritten, then your loan is already approved, subject to a couple of small conditions such as an appraisal and a clear title. If you get fully underwritten, then the seller knows that you can close and you will close quickly.
 
