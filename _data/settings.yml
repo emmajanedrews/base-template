@@ -52,8 +52,8 @@ socials:
   yelp_url:
   podcast_url: 'https://itunes.apple.com/us/podcast/greater-vancouver-group-real/id1185936335?mt=2'
 podcast:
-  title: Greater Vancouver Group Real Estate Podcast
-  categories:
+  title: Greater Vancouver Group - Podcast about Real Estate
+  categories: Education
   image: /img/Vancouver_podcast.png
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Vancouver Area Real Estate Market'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from the Greater Vancouver Group - your professional Vancouver Real Estate Agents.'
