@@ -22,9 +22,8 @@ Doing this will not actually serve your cause; on the contrary, it could actuall
 
 {% include pullquote.html %}
 
-**However, the reality is that when you start doing this, it comes with certain trade-offs.** If you pay less, you trade off things like time, marketing, and exposure that your home should get. We don't want to discount our services to such a level where we limit our ability to serve you at the highest level. We do things at a high level like using the best photographers and the most comprehensive marketing because that's what will get your home sold at the highest possible price here in the Santa Clarita market.
+**However, the reality is that when you start doing this, it comes with certain trade-offs.** If you pay less, you trade off things like time, marketing, and exposure that your home should get. We don't want to discount our services to such a level where we limit our ability to serve you at the highest level. We do things at a high level, like using the best photographers and the most comprehensive marketing, because that's what will get your home sold at the highest possible price here in the Santa Clarita market.
 
 If you hire that guy you found on Craigslist, you might think you'll save $5,000. However, the money you're 'saving' actually hurts you because you won't make as much as you could due to the lack of marketing and exposure for your home. We, on the other hand, will do things the right way at a high level to get you to the best quality offers and the highest possible sales price.
 
 If you have any questions about how we can accomplish this, I'd love to explain a little more about what we do differently than the other teams. Just give me a call or send me an email soon—I look forward to hearing from you.
-<br>
