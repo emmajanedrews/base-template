@@ -34,4 +34,4 @@ On the other hand, buyers are struggling to find homes. There are not many optio
 
 **3. Work with a great agent.** There are lots of agents out there, but a good agent will have a good reputation in the community. They can call the listing agent and have a good discussion with them about your qualifications. Agents like working with good agents because they know the transaction will be smooth and the agent will be honest and ethical. Good agents will pull expired or withdrawn listings and go after them.
 
-<br>Ultimately, although our market favors sellers and is still incredibly competitive, there are a few things buyers can do to successfully purchase a home. If you have any questions, please don’t hesitate to give me a call or send me an email. My team and I would be happy to help you!
+Ultimately, although our market favors sellers and is still incredibly competitive, there are a few things buyers can do to successfully purchase a home. If you have any questions, please don’t hesitate to give me a call or send me an email. My team and I would be happy to help you!
