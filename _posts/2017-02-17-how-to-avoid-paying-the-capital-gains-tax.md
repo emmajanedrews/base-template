@@ -8,8 +8,8 @@ enclosure: 'http://vyralmarketing.s3.amazonaws.com/Dave%20Knight/How%20to%20Avoi
 pullquote: The step up in value can help you avoid paying capital gains tax.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /uploads/no-pb.jpg
+use_youtube_image: true
+youtube_alternate_image:
 youtube_code: qPHed2XNABs
 ---
 
