@@ -1,54 +1,49 @@
 audit_header: false
-title: -- CLIENT BRAND --
+title: '-- CLIENT BRAND --'
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: true
 custom_links:
   - title: Our Service Partners
-    url: https://www.yumpu.com/en/document/view/55881214/debbies-list-virginia-contractors-2016-q4
+    url: 'https://www.yumpu.com/en/document/view/55881214/debbies-list-virginia-contractors-2016-q4'
   - title: About
-    url: https://www.wickerhomesgroup.com/agents/
+    url: 'https://www.wickerhomesgroup.com/agents/'
 client:
   name:
   license_number:
-  about_markdown: |
-
+  about_markdown:
   market: Loudoun County
   brand: Wicker Homes Group
   brokerage: Kellar Williams
-  address: 46169 Westlake Dr. Suite 200<br>Potomac Falls, VA 20165
+  address: '46169 Westlake Dr. Suite 200<br>Potomac Falls, VA 20165'
   phone: 571-210-4997
   phone_type:
   phone2:
   phone2_type:
   email: info@wickerhomes.com
   url:
-
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.wickerhomesgroup.com/home-valuation/
+  first_CTA_URL: 'http://www.wickerhomesgroup.com/home-valuation/'
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.wickerhomesgroup.com/results-gallery/?OfficeMLS=KWR77
+  second_CTA_URL: 'http://www.wickerhomesgroup.com/results-gallery/?OfficeMLS=KWR77'
   VR_form:
-
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: Looking to Buy a Home?
     CTA_text: Search the entire MLS for homes located in -- MARKET --.
     CTA_link_text: Home Search Tool
-    CTA_url: http://www.wickerhomesgroup.com/results-gallery/?OfficeMLS=KWR77
-
+    CTA_url: 'http://www.wickerhomesgroup.com/results-gallery/?OfficeMLS=KWR77'
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
+  headshot_path: 'http://fillmurray.com/200/200'
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: http://eyegoop.com
-
+  url: 'http://eyegoop.com'
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
@@ -57,58 +52,54 @@ welcome_box:
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
-
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/WickerHomesGroup/
-  linkedin_url: https://www.linkedin.com/in/tadwicker
-  gplus_url: https://plus.google.com/+WickerHomesGroupAshburn/posts
-  youtube_url: https://www.youtube.com/user/wickerhomesgroup
-  twitter_url: https://twitter.com/wickerhomes
+  facebook_url: 'https://www.facebook.com/WickerHomesGroup/'
+  linkedin_url: 'https://www.linkedin.com/in/tadwicker'
+  gplus_url: 'https://plus.google.com/+WickerHomesGroupAshburn/posts'
+  youtube_url: 'https://www.youtube.com/user/wickerhomesgroup'
+  twitter_url: 'https://twitter.com/wickerhomes'
   instagram_url:
   pinterest_url:
-  zillow_url: http://www.zillow.com/profile/Wicker-Homes-Group/
-  trulia_url: http://www.trulia.com/profile/debbie-wicker-broker-ashburn-va-364181/overview
-  yelp_url: http://www.yelp.com/biz/wicker-homes-group-re-max-ashburn
+  zillow_url: 'http://www.zillow.com/profile/Wicker-Homes-Group/'
+  trulia_url: 'http://www.trulia.com/profile/debbie-wicker-broker-ashburn-va-364181/overview'
+  yelp_url: 'http://www.yelp.com/biz/wicker-homes-group-re-max-ashburn'
   podcast_url:
-
 podcast:
   title:
-  categories: Education
+  categories:
+    - Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
   author: '-- CLIENT NAME --'
-
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
   hero_text: Real Estate Channel
-  hero_background_hex: '#05091E'
-  hero_image_path: /img/background.jpg
+  hero_background_hex: '#05091e'
+  hero_image_path: /uploads/stonetowerwinerywickersbackground.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#E0A817'
-  theme_color: '#05091E'
+  brand_color: '#e0a817'
+  theme_color: '#05091e'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: "#000"
-
+  shadow_color: '#000000'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
   button_background_color: '#ffffff'
-  button_text_color: '#05091E'
+  button_text_color: '#05091e'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'
