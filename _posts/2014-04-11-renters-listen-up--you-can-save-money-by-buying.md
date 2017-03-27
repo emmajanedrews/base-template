@@ -1,22 +1,22 @@
 ---
 layout: post
-title: Renters, Listen Up. You Can Save Money by Buying!
-date: '2014-04-11T10:07:00.000-07:00'
+title: 'Renters, Listen Up. You Can Save Money by Buying!'
+date: 2014-04-11 17:07:00
 author: Vyral Admin
 tags:
-- buyer tips
+  - buyer tips
 excerpt:
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/renters-listen-up-you-can-save-money-by-buying.jpg
 youtube_code: x_lbX9QKsPQ
 ---
-{% include youtube.html %}
-I am often asked whether someone should rent or buy when they move here to the Washington, D.C. area. My answer is always to tell people that purchasing a home is the best option, especially if you will be here for more than 3 or 4 years. I have 5 great reasons why it's more beneficial to purchase rather than to rent.
 
+
+{% include youtube.html %}I am often asked whether someone should rent or buy when they move here to the Washington, D.C. area. My answer is always to tell people that purchasing a home is the best option, especially if you will be here for more than 3 or 4 years. I have 5 great reasons why it's more beneficial to purchase rather than to rent.
 
 1. Mortgages are cheap: Interest rates are historically low right now, and even with the fluctuations in the market they have remained very, very affordable. Instead of pouring money into a rental property, why don't you put it towards a long term investment like a home?
 
@@ -27,7 +27,6 @@ I am often asked whether someone should rent or buy when they move here to the W
 4. You can Build Equity: Paying your mortgage is like paying into your savings account for long-term equity. Home values go up and down, but around here in the Washington, D.C. area, home values have increased 3-4% every year, so this is a good area to purchase in.
 
 5. Tax Advantages: The primary advantage here is that you get to write off the mortgage interest. You would have to talk to an accountant to get all the details, but the tax benefits more than offset what you would be paying in rent.
-
 
 Be sure to check out this article that further proves my point: http://money.cnn.com/gallery/real_estate/2014/03/03/buy-vs-rent/8.html
 
