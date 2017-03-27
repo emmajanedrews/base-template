@@ -1,40 +1,44 @@
 audit_header: false
 title: -- CLIENT BRAND --
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: Featured Listings
+    url: http://www.viewcentralpahomes.com/featured/
+  - title: Communities
+    url: http://www.hhande.com/communities.php
+  - title: About
+    url: http://www.viewcentralpahomes.com/about/
 
 client:
-  name:
+  name: Dave Hooke
   license_number:
   about_markdown: |
-
+    Born and raised in Carlisle, Dave is honored to serve the Real Estate needs of the greater Carlisle Community. As a partner of Hooke, Hooke & Eckman Realtors, he has a personal interest in the continuation of the reputable family name. Also, he is the lead agent of The Dave Hooke Team and has consistently been in the top 1% as a top producing real estate agent in the Carlisle Area Community for 6 consecutive years. Dave is a member of The Meeting House Church in Carlisle, enjoys outdoor activities, reading, playing soccer, and things related to ‘Community’. A fun fact about Dave is that when he talks on the phone, he can’t sit down and he is always pacing around the office! : ) Dave enjoys living here in Carlisle with his wife and family.
   market:
-  brand:
-  brokerage:
-  address:
-  phone:
-  phone_type:
-  phone2:
-  phone2_type:
-  email:
-  url:
+  brand: The Dave Hooke Team LLC
+  brokerage: Hooke Hooke & Eckman Realtors
+  address: 977 Walnut Bottom Road<br>Carlisle, PA 17015
+  phone: 717-216-0860
+  phone_type: Direct
+  phone2: 717-249-1844
+  phone2_type: Brokerage
+  email: Dave@hhande.com
+  url: http://ViewCentralPAHomes.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.viewcentralpahomes.com/homevalue/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
-  VR_form:
+  second_CTA_URL: http://www.viewcentralpahomes.com/
+  VR_form: http://oi.vresp.com?fid=1593df562e
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: Looking to Buy a Home?
     CTA_text: Search the entire MLS for homes located in -- MARKET --.
     CTA_link_text: Home Search Tool
-    CTA_url: /homesearch/
+    CTA_url: http://www.viewcentralpahomes.com/
 
 lender:
   show_section: false
@@ -59,15 +63,15 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/DaveHookeRealtor
+  linkedin_url: https://www.linkedin.com/in/davehooke
+  gplus_url: https://plus.google.com/100354719032170044883
+  youtube_url: https://www.youtube.com/channel/UCMYs4mvNX9Exmy3OnG9Tt7Q
+  twitter_url: https://twitter.com/davehooke
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
+  zillow_url: http://www.zillow.com/profile/The-Dave-Hooke-Team/
+  trulia_url: http://www.trulia.com/profile/the-dave-hooke-team-agent-carlisle-pa-zgpq697x/overview
   yelp_url:
   podcast_url:
 
@@ -81,16 +85,17 @@ podcast:
   author: '-- CLIENT NAME --'
 
 images:
-  client_headshot_path: /img/headshot.jpg
+  client_headshot_path: http://i.imgur.com/ri3QnT0.png
   hero_logo_path: /img/logo.png
+  hero_logo_path-2: /img/logo-2.png
   logo_width_number: 40
   hero_text: Real Estate Video Blog
-  hero_background_hex: '#094264'
+  hero_background_hex: '#00573d'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#C14547'
-  theme_color: '#005473'
+  brand_color: '#df8f00'
+  theme_color: '#00573d'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -99,7 +104,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: "#000"
+  shadow_color: "transparent"
 
 buttons:
   button_radius_number: 0
@@ -107,7 +112,7 @@ buttons:
   button_padding_height_number: 15
   button_border_color: '#ffffff'
   button_background_color: '#ffffff'
-  button_text_color: '#123456'
+  button_text_color: '#00573d'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'
