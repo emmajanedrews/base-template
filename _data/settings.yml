@@ -3,18 +3,16 @@ title: -- CLIENT BRAND --
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: true
 custom_links:
-  - title: Featured Listings
-    url: http://www.viewcentralpahomes.com/featured/
-  - title: Communities
-    url: http://www.hhande.com/communities.php
-  - title: About
-    url: http://www.viewcentralpahomes.com/about/
+  - title: Join The Team
+    url: http://www.viewcentralpahomes.com/info/jointhedavehooketeam
 
 client:
   name: Dave Hooke
   license_number:
   about_markdown: |
-    Born and raised in Carlisle, Dave is honored to serve the Real Estate needs of the greater Carlisle Community. As a partner of Hooke, Hooke & Eckman Realtors, he has a personal interest in the continuation of the reputable family name. Also, he is the lead agent of The Dave Hooke Team and has consistently been in the top 1% as a top producing real estate agent in the Carlisle Area Community for 6 consecutive years. Dave is a member of The Meeting House Church in Carlisle, enjoys outdoor activities, reading, playing soccer, and things related to ‘Community’. A fun fact about Dave is that when he talks on the phone, he can’t sit down and he is always pacing around the office! : ) Dave enjoys living here in Carlisle with his wife and family.
+    Born and raised in Carlisle, Dave is honored to serve the Real Estate needs of the greater Carlisle Community. As a partner of Hooke, Hooke & Eckman Realtors, he has a personal interest in the continuation of the reputable family name. Also, he is the lead agent of The Dave Hooke Team and has consistently been in the top 1% as a top producing real estate agent in the Carlisle Area Community for 6 consecutive years.
+
+    Dave is a member of Carlisle Brethren In Christ Church, enjoys outdoor activities, reading, playing soccer, and things related to ‘Community’. A fun fact about Dave is that when he talks on the phone, he can’t sit down and he is always pacing around the office! : ) Dave enjoys living here in Carlisle with his wife and family.
   market:
   brand: The Dave Hooke Team LLC
   brokerage: Hooke Hooke & Eckman Realtors
@@ -27,18 +25,18 @@ client:
   url: http://ViewCentralPAHomes.com
 
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.viewcentralpahomes.com/homevalue/
-  second_CTA_text: Home Search
-  second_CTA_URL: http://www.viewcentralpahomes.com/
+  first_CTA_text: Request a Free Strategy Session
+  first_CTA_URL: http://www.viewcentralpahomes.com/info/jointhedavehooketeam
+  second_CTA_text:
+  second_CTA_URL:
   VR_form: http://oi.vresp.com?fid=1593df562e
 
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: Looking to Buy a Home?
-    CTA_text: Search the entire MLS for homes located in -- MARKET --.
-    CTA_link_text: Home Search Tool
-    CTA_url: http://www.viewcentralpahomes.com/
+  - CTA_image_path: https://lh5.googleusercontent.com/proxy/V9aLZKkQrMp5XTS9sOr7LymNyck_AVJ_gvu_tGfKBwwkf1pwq6YGvfaWCfpFqZ2gU3s=s0-d
+    CTA_title: Looking to Build Your Real Estate Career?
+    CTA_text: Let's talk about how The Dave Hooke Team can take your business to new heights.
+    CTA_link_text: Request a Free Strategy Session
+    CTA_url: http://www.viewcentralpahomes.com/info/jointhedavehooketeam
 
 lender:
   show_section: false
@@ -53,19 +51,16 @@ lender:
   url: http://eyegoop.com
 
 welcome_box:
-  welcome_headline: Join Our -- MARKET -- VIP List
-  welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
-    professionals can answer any questions you might have about real estate.
-    Subscribe to this blog to get the latest news on local market trends and
-    receive expert tips for buying or selling a home.
+  welcome_headline: How to Sell More Homes
+  welcome_text_markdown: |
+    Whether you are just starting out, or you are licensed Broker, our team of professionals can answer any questions you might have about real estate.<BR>
 
+    Subscribe to this blog to get the latest news on local market trends and receive expert tips for buying or selling a home.
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/DaveHookeRealtor
+  facebook_url: https://www.facebook.com/DaveHookeRealtor/
   linkedin_url: https://www.linkedin.com/in/davehooke
-  gplus_url: https://plus.google.com/100354719032170044883
+  gplus_url: https://plus.google.com/b/100354719032170044883/100354719032170044883?pageId=100354719032170044883
   youtube_url: https://www.youtube.com/channel/UCMYs4mvNX9Exmy3OnG9Tt7Q
   twitter_url: https://twitter.com/davehooke
   instagram_url:
