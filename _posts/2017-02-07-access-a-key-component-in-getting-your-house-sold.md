@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt:
+excerpt: 'So, you’ve decided to sell your house. You’ve hired a real estate professional to help you with the entire process, and they have asked you what level of access you want to provide to potential buyers.'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
