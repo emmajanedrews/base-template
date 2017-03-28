@@ -16,7 +16,6 @@ youtube_code: PMd0CfVqRl8
 
 
 {% include youtube.html %}
-<br>
 <br>I am absolutely amazed when I see photos of homes on the MLS that are either upside down, out of focus, or taken by a camera phone. Photography is not something you want to skimp on if you’re selling your home. Here’s why.
 
 Listings that use professional photography to showcase their home online sell 50% faster and 39% closer to their original list price than homes that don’t. Is that a gamble you are willing to take? You shouldn’t.
