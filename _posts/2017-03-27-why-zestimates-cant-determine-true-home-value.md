@@ -1,17 +1,17 @@
 ---
 layout: post
 title: Why Zestimates Can’t Determine True Home Value
-date: 2017-03-27 13:48:58
+date: 2017-03-27 13:48:00
 tags:
   - Home Seller Tips
 excerpt: Is a Zestimate the most accurate home valuation you can get? The short answer is no.
-enclosure: 'http://vyralmarketing.s3.amazonaws.com/Breanne%20Steen/Why%20Zestimates%20Cant%20Determine%20True%20Home%20Value.mp4'
+enclosure: 'http://vyralmarketing.s3.amazonaws.com/Breanne%20Steen/Ventura%20County%20Real%20Estate%20Agent-%20Why%20Zestimates%20Cant%20Determine%20True%20Home%20Value.mp4'
 pullquote: They simply don’t take enough information into account.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/no-pb-53.jpg
-youtube_code: ziqsvkNmv_E
+youtube_code: hNbAj1XdKGM
 ---
 
 
