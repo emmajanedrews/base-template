@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Our Market Is on Fire, But Buyers May Need a Few Tips'
+title: 'Our Market Is on Fire, but Buyers May Need a Few Tips'
 tags:
   - Home Buyer Tips
 excerpt: 'It’s important for home sellers to know about the current market, so I’ll go over a quick market update today, as well as a few tips for buyers on how to navigate this competitive market.'
