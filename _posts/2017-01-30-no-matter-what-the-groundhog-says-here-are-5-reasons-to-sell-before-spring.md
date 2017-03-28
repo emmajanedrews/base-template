@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt:
+excerpt: 'Is spring closer than we think? Depending on which groundhog you listen to today, you may have less time than you think to get your home on the market before the busy spring season.'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
