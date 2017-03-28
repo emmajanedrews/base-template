@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Freshen Your Home Up After the Winter Months
+title: How to Freshen Your Home up After the Winter Months
 tags:
   - Market Update
   - Real Estate
@@ -21,9 +21,9 @@ youtube_code: BV5qdVlk9p4
 
 Spring's nearly here and as a homeowner, it's an exciting time to get your home ready. Many parts of the house might have been neglected or unused over the winter since you're staying inside for most of the season, so it's important to get out and check on these things.
 
-The first thing you should check on is your hose bibs. If you left your hose open over the winter, you could have frozen or cracked pipes. Before you turn the bib back on, remove the hose and turn on the water—if no water comes out, you could have an issue with a cracked or broken pipe, which could leak into your house. You can also have someone inside the house look at the spot where the bib comes into the house while you turn the water on to make sure.
+**The first thing you should check on is your hose bibs.** If you left your hose open over the winter, you could have frozen or cracked pipes. Before you turn the bib back on, remove the hose and turn on the water—if no water comes out, you could have an issue with a cracked or broken pipe, which could leak into your house. You can also have someone inside the house look at the spot where the bib comes into the house while you turn the water on to make sure.
 
-Outside your home, take a look at any caulking around the windows and doors, as well as the condition of the weather stripping around windows. Now is also a good time to wash away any winter muck from the windows as well
+Outside your home, take a look at any caulking around the windows and doors, as well as the condition of the weather stripping around windows. Now is also a good time to wash away any winter muck from the windows as well.
 
 {% include pullquote.html %}
 
@@ -31,7 +31,7 @@ While you're at it, take a look at your shingles and roof. If you noticed any bi
 
 Also take a look to see if your gutters need to be re-secured to your house or cleaned. Finally, put some accordion-style downspout extenders on to keep the water away from the foundation.
 
-Inside your home, now is a great time to change your HVAC filter and have the system serviced. Many people don't realize that if you don't have them serviced annually, you can actually void the warranty.
+Inside your home, now is a great time to change your HVAC filter and have the system serviced. **Many people don't realize that if you don't have them serviced annually, you can actually void the warranty.**
 
 Lastly, take a look in your attic for any water stains on the sheathing. You could have cracked or corroded vent pipes, or you might need to add flashing to your roof where two gable ends meet.
 
