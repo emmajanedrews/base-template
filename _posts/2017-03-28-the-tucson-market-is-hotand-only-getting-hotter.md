@@ -15,7 +15,7 @@ youtube_code: EWP5eFOXIKY
 ---
 
 
-{{EWP5eFOXIKY }}
+{{% include youtube.html %}}
 
 What's going on in the Tucson market?
 
