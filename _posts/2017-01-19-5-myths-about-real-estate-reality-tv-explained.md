@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt:
+excerpt: 'Have you ever been flipping through the channels, only to find yourself glued to the couch in an HGTV binge session?'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
