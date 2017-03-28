@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt:
+excerpt: 'It is common knowledge that a large number of homes sell during the spring-buying season. For that reason, many homeowners hold off on putting their homes on the market until then.'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
