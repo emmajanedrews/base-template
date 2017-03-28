@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt:
+excerpt: The housing crisis is finally in the rear-view mirror as the real estate market moves down the road to a complete recovery. Home values are up.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
