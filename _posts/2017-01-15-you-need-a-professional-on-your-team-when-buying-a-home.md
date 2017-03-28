@@ -7,7 +7,7 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt:
+excerpt: Many people wonder whether they should hire a real estate professional to assist them in buying their dream home or if they should first try to do it on their own.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
