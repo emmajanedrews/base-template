@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt:
+excerpt: 'So you’ve been searching for that perfect house to call a ‘home,’ and you finally found one!'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
