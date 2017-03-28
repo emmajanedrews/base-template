@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt:
+excerpt: 'According to ATTOM Data Solutions’2017 Rental Affordability Report, buying a home is more affordable than renting in 354 of the 540 U.S. counties they analyzed.'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
