@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt:
+excerpt: 'Fannie Mae’s article, “What Consumers (Don’t) Know About Mortgage Qualification Criteria,” revealed that “only 5 to 16 percent of respondents know the correct ranges for key mortgage qualification criteria.”'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
