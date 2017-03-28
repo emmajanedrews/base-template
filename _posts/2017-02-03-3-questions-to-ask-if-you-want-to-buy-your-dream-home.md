@@ -12,7 +12,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/3-questions-to-ask-if-you-want-to-buy-your-dream-home.jpg
 youtube_code:
 date: 2017-02-03 00:00:00
 ---
