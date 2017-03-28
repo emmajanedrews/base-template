@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt:
+excerpt: 'In this day and age of being able to shop for anything anywhere, it is really important to know what you’re looking for when you start your home search.'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
