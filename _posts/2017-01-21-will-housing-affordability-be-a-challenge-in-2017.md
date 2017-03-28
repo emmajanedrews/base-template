@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt:
+excerpt: 'Some industry experts are saying that the housing market may be heading for a slowdown in 2017 based on rising home prices and a jump in mortgage interest rates. One of the data points they use is the Housing Affordability Index, as reported by the National Association of Realtors (NAR).'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
