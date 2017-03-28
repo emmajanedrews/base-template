@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt:
+excerpt: The National Association of Realtors recently released a study titled ‘Social Benefits of Homeownership and Stable Housing.’ The study confirmed a long-standing belief of most Americans.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
