@@ -4,7 +4,7 @@ title: 'Our Market Is on Fire, but Buyers May Need a Few Tips'
 tags:
   - Home Buyer Tips
 excerpt: 'It’s important for home sellers to know about the current market, so I’ll go over a quick market update today, as well as a few tips for buyers on how to navigate this competitive market.'
-enclosure: 'http://vyralmarketing.s3.amazonaws.com/Casey%20Cooke/San%20Diego%20Real%20Estate%20Agent-%20Our%20Market%20Is%20on%20Fire%252C%20But%20Buyers%20May%20Need%20a%20Few%20Tips.mp4'
+enclosure: 'http://vyralmarketing.s3.amazonaws.com/Casey%20Cooke/San%20Diego%20Real%20Estate%20Agent-%20Our%20Market%20Is%20on%20Fire%252C%20but%20Buyers%20May%20Need%20a%20Few%20Tips.mp4'
 pullquote: 'Although the market favors sellers, there are a few things buyers can do to find a home.'
 enclosure_type: video/mp4
 enclosure_time:
