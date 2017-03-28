@@ -10,14 +10,12 @@ pullquote: "If you're selling your home, you're in a prime position."
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/Don_Vallee-Mar-2-2017--NO-Play-Button.jpg
+youtube_alternate_image:
 youtube_code: EWP5eFOXIKY
 ---
 
 
-{{% include youtube.html %}}
-
-What's going on in the Tucson market?
+{{% include youtube.html %}} What's going on in the Tucson market?
 
 As you may have seen, the Federal Reserve increased interest rates by another 0.25% a few weeks ago; the second increase in three months. They're projected to rise twice again this year and up to three hikes in 2018. **We might go from record low interest rates in the low 3% range to the 6% range depending on the economy.**
 
