@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt:
+excerpt: 'According to the National Association of REALTORS most recent Profile of Home Buyers & Sellers, married couples once again dominated the first-time homebuyer statistics in 2016 at 58% of all buyers.'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
