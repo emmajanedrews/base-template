@@ -15,7 +15,7 @@ youtube_code:
 ---
 
 
-{{ https://youtu.be/EWP5eFOXIKY }}
+{{EWP5eFOXIKY }}
 
 What's going on in the Tucson market?
 
