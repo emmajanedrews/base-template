@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt:
+excerpt: 'The most recent Pending Homes Sales Index from the National Association of Realtors revealed a slight bump in contracts with an increase of 1.6% in December.'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
