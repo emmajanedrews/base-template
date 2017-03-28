@@ -5,7 +5,7 @@ tags:
   - Buyer Tips
 excerpt: Today I’m answering a few key questions about home inspections that will have you ready to order one for your future home.
 enclosure: 'http://vyralmarketing.s3.amazonaws.com/Dave%20Knight/What%20You%20Need%20to%20Know%20About%20Home%20Inspections.mp4'
-pullquote: A home inspection gives you a clear understanding about the condition of the property that you’re about to purchase.
+pullquote: A home inspection gives you a clear understanding of the condition of the property that you’re about to purchase.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -26,7 +26,7 @@ A home inspection is when you hire an inspector to come to your property to insp
 
 {% include pullquote.html %}
 
-There are actually two reasons. First, it gives you a clear understanding about the condition of the property that you’re about to purchase. No property is perfect, and there will be a list of deferred maintenance with any home, but you want to be able to plan financially to take care of anything found of the report. Second, there may be some big ticket issues, such as roof, plumbing, or foundation issues that would be pretty costly to fix. Finding out about these issues allows you to negotiate a solution with the seller. You can either ask for a credit or a price reduction.
+There are actually two reasons. First, it gives you a clear understanding of the condition of the property that you’re about to purchase. No property is perfect, and there will be a list of deferred maintenance with any home, but you want to be able to plan financially to take care of anything found on the report. Second, there may be some big-ticket issues, such as roof, plumbing, or foundation issues that would be pretty costly to fix. Finding out about these issues allows you to negotiate a solution with the seller. You can either ask for a credit or a price reduction.
 
 **Why is it so important to hire a good inspector?**
 
