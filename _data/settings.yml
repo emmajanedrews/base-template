@@ -96,7 +96,8 @@ site_colors:
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
+  navbar_color: '#0054A5'
+  navbar_text_color: '#fff'
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
