@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt:
+excerpt: It appears that Americans are regaining faith in the U.S. economy. The following indexes have each shown a dramatic jump in consumer confidence in their latest surveys.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
