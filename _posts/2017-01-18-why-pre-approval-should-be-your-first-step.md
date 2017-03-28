@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt:
+excerpt: 'In many markets across the country, the number of buyers searching for their dream homes greatly outnumbers the amount of homes for sale.'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
