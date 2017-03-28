@@ -23,7 +23,7 @@ As you may have seen, the Federal Reserve increased interest rates by another 0.
 
 The economy, the Tucson real estate market, and the Tucson business economy are all heating up.&nbsp;
 
-{If you're selling your home, you're in a prime position.}
+{% include pullquote.html %}
 
 In the past month here in Tucson, half of our home sales were on the market for fewer than 30 days, so homes are moving quickly. A year ago, homes spent an average of 66 days on the market. Today, that's down to 50 days. Active listings in our market are down 26% compared to last year as well; **inventory is moving faster and there's less to choose from.**&nbsp;
 
