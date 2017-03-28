@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt:
+excerpt: Buyer Demand Is Outpacing the Supply of Homes for Sale
 enclosure:
 pullquote:
 enclosure_type: video/mp4
