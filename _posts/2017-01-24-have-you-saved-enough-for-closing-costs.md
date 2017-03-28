@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt:
+excerpt: 'There are many potential homebuyers, and even sellers, who believe that they need at least a 20% down payment in order to buy a home or move on to their next home.'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
