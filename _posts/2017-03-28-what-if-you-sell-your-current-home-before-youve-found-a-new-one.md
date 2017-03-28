@@ -4,8 +4,8 @@ title: What If You Sell Your Current Home Before You’ve Found a New One?
 tags:
   - Home Seller Tips
 date: 2017-03-28 00:00:00
-excerpt:
-enclosure: 'If your home gets sold before you’ve found a new home to buy and move into, you have three options to resolve this situation.'
+excerpt: 'If your home gets sold before you’ve found a new home to buy and move into, you have three options to resolve this situation.'
+enclosure:
 pullquote: We’ve never had a client go homeless.
 enclosure_type: video/mp4
 enclosure_time:
