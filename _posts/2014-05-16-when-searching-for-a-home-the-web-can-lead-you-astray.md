@@ -11,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/when-searching-for-a-home-the-web-can-lead-you-astray-2.jpg
 youtube_code: mjjuRVbLxaQ
 ---
 
