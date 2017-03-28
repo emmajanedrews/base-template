@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt:
+excerpt: The residential housing market has been hot. Home sales have bounced back solidly and are now at their second highest pace since February 2007.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
