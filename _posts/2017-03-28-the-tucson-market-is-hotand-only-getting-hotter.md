@@ -10,7 +10,7 @@ pullquote: "If you're selling your home, you're in a prime position."
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/Don_Vallee-Mar-2-2017--NO-Play-Button.jpg
 youtube_code: EWP5eFOXIKY
 ---
 
