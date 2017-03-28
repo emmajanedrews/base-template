@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt:
+excerpt: Recently released data from the National Center for Health Statistics revealed that 1.3 million Millennial women gave birth for the first time in 2015. There are now over 16 million women in this generation who have become mothers.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
