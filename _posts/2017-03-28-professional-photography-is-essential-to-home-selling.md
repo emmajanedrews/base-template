@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Professional Photography Is Essential To Home Selling
-date: 2-37-25
+date: 2017-03-28 00:00:00
 tags:
   - Home Seller Tips
 excerpt: It amazes me when I see homes listed online with bad photos. Having professional photos taken of your home before selling is a no-brainer. Here’s why.
