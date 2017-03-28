@@ -110,5 +110,5 @@ buttons:
   button_background_color: '#ffffff'
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: 'rgba(0, 0, 0, 0)'
+  secondary_button_background_color: '#810038'
   secondary_button_text_color: '#ffffff'
