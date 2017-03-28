@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt:
+excerpt: 'According to a survey conducted by Bankrate.com, one in four Americans are considering buying a home this year. If this statistic proves to be true, that means that 59 million people will be looking to enter the housing market in 2017.'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
