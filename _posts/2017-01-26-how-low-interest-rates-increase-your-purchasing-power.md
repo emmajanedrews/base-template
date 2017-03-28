@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt:
+excerpt: 'According to Freddie Mac’s latest Primary Mortgage Market Survey, interest rates for a 30-year fixed rate mortgage are currently at 4.09%, which is still very low in comparison to recent history!'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
