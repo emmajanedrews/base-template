@@ -18,7 +18,7 @@ youtube_code: zgu5zaCwLYY
 
 What’s the number one trait we look for in a recruiter?
 
-We look for risk takers. How do we identify risk takers? We find that the risk-taking trait manifests itself in recruiters in three different ways. &nbsp;
+We look for risk takers. How do we identify risk takers? We find that the risk taking trait manifests itself in recruiters in three different ways. &nbsp;
 
 The first way is how **they tend to want to be paid for performance instead of having a set salary** that’s oftentimes based more on tenure than anything else. Risk takers are people who want to work hard, log extra hours, spend extra energy, and are compensated accordingly.&nbsp;
 
