@@ -7,7 +7,7 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt:
+excerpt: 'The National Association of Realtors’ most recent Existing Home Sales Report revealed that, compared to last year, home sales are up dramatically in five of the six price ranges they measure.'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
