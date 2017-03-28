@@ -1,19 +1,21 @@
 ---
 layout: post
-title: What Simple, Inexpensive Updates Can You Make on Your Home?
-date: '2015-07-30T05:10:00.000-07:00'
+title: 'What Simple, Inexpensive Updates Can You Make on Your Home?'
+date: 2015-07-30 12:10:00
 author: Vyral Admin
 tags:
-- Northern Virginia Real Estate Seller Tips
+  - Northern Virginia Real Estate Seller Tips
 excerpt:
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/what-simple-inexpensive-updates-can-you-make-on-your-home.jpg
 youtube_code:
 ---
+
+
 If you are looking to sell your home, your goal is to get the most money possible in the shortest amount of time. One of the best ways to add value and appeal to your home is through home staging. Home staging is the art of selling a home faster by making a home more appealing to the right buyer. You have a lot of options for how you want to go about it. You could hire a professional staging company, which could be substantially costly. However, most of the time, a few simple fixes is all it takes to transform a living room.
 
 Today we are going to go through some of our most favorite, inexpensive home staging tips for you. We hope these will help you save both time and money when it comes time to sell your home.
