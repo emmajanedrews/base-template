@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt:
+excerpt: 'Recently there has been a lot of talk about home prices and if they are accelerating too quickly. As we mentioned before, in some areas of the country, seller supply (homes for sale) cannot keep up with the number of buyers out looking for a home, which has caused prices to rise.'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
