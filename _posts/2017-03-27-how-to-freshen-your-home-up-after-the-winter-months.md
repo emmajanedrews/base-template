@@ -2,9 +2,6 @@
 layout: post
 title: How to Freshen Your Home up After the Winter Months
 tags:
-  - Market Update
-  - Real Estate
-  - Home Buyer Tips
   - Home Seller Tips
 excerpt: "With spring just around the corner, now is a great time to start taking care of some important home maintenance items. Most people tend to neglect certain parts of their home during the winter when we spend most of our time inside. For example, go outside your home to check out exterior caulking, your shingles, and places on your home where icicles formed during the winter. It's also a great time for annual HVAC servicing, which might even be mandatory to keep your warranty. For more tips, watch this short video."
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/March/Salt+Lake+County+Real+Estate+Agent-+How+to+Freshen+Your+Home+Up+After+the+Winter+Months.mp4'
