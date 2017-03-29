@@ -2805,29 +2805,23 @@ form select {
       .newsletter_optin input[type='email']:focus:-ms-input-placeholder {
         color: transparent; }
   .newsletter_optin input[type="submit"] {
-    background: transparent;
+    background: #0083c0;
     color: white;
     padding: 1.3rem 2rem;
     text-transform: capitalize;
     font-size: 2rem;
     border-radius: 0px;
     font-weight: 300;
-    border: 1px solid white;
+    border: 1px solid #0083c0;
     -webkit-transition: 0.3s;
     transition: 0.3s; }
     .newsletter_optin input[type="submit"]:hover {
-      background: transparent;
+      background: #0083c0;
       color: white;
       box-shadow: 4px 4px 0 #27baff;
-      border: 1px solid #27baff;
-      -webkit-transform: scale(1.05);
-      transform: scale(1.05);
-      -webkit-transform: translateY(-0.2rem);
-      transform: translateY(-0.2rem); }
+      border: 1px solid #0083c0; }
     .newsletter_optin input[type="submit"]:active {
-      box-shadow: 0 0 0 #0083c0;
-      -webkit-transform: translateY(0rem);
-      transform: translateY(0rem); }
+      box-shadow: 0 0 0 #0083c0; }
 
 @media (max-width: 1113px) {
   .newsletter_optin input[type="submit"], .newsletter_optin input[type="email"] {
