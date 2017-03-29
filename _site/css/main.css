@@ -2,6 +2,10 @@
 li {
   font-size: 18px; }
 
+.container-fluid {
+  padding-left: 0;
+  padding-right: 0; }
+
 .row {
   margin: 0; }
 
@@ -1566,9 +1570,6 @@ html[xmlns] .flexslider .slides {
 .navbar-andross-bottom .container-fluid {
   margin: 0; }
 
-@media (max-width: 767px) {
-  .footer {
-    margin-bottom: 50px; } }
 .library-container {
   border: 1px solid #cfcfcf;
   border-radius: 0px;
