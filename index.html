@@ -32,8 +32,8 @@ layout: default
           </div>
         </div>
 				<div class="col-lg-6">
-					{{ post.excerpt | strip_html | prepend: "<p class='excerpt'>" | append: "<p>" | truncate: 160 }}
-						<p class="readlink"><a href="{{post.url}}" class="readmore">Read More</a></p>
+					{{ post.excerpt | strip_html | prepend: "<p class='excerpt'>" | append: "<p>" | truncate: 320 }}
+						<a href="{{post.url}}" class="readlink">Read More</a>
 				</div>
       </li>
 		</ul>

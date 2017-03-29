@@ -56,7 +56,7 @@
 	<link rel="icon" type="image/png" href="/img/favicons/favicon-16x16.png" sizes="16x16">
 	<link rel="manifest" href="/img/favicons/manifest.json">
 	<link rel="mask-icon" href="/img/favicons/safari-pinned-tab.svg" color="#5bbad5">
-	<meta name="theme-color" content="#005473">
+	<meta name="theme-color" content="#000">
 </head>
 
 
@@ -66,9 +66,13 @@
 <div class="hero-img" style="background-image: url(/img/background.jpg); background-color: #094264">
         <!-- logo -->
         <a href="/"><img src="/img/logo.png" alt="" class="site-logo" /></a>
-        <!-- title -->
-        <a href="/"><h1 class="site-title">Real Estate Video Blog</h1></a>
+        <!-- title --><br>
+        <a href="/"><img src="/img/logo2.png" alt="" class="site-logo-2" /></a><br><Br>
+				<a class="cta" href="/homevalue/" target="_blank">
+					Register for a lunch and learn
+				</a>
 			</div>
+
 </header>
 
 		<div class="container-fluid">
@@ -95,27 +99,20 @@
 		
 
 		</ul>
-		<ul class="nav navbar-nav navbar-right">
-			
-			<li>
-				
-				<a class="cta" href="/homevalue/">
-					
-					Home Valuation
-				</a>
-			</li>
-			
-			
-			<li>
-				
-				<a class="cta2" href="/homesearch/">
-					
-					Home Search
-				</a>
-			</li>
-			
+		<div class="nav navbar-nav navbar-right">
+			  <div class="search-box">
+			<form  action="/search.html" method="get">
+				<div class="input-group">
 
-		</ul>
+      <input type="text" class="form-control search-input" id="search-box" name="query" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn search-submit" type="submit" value="search"><i class="fa fa-search"></i></button>
+      </span>
+		</div>
+		</form>
+  </div>
+
+		</div>
 </nav>
 
 					
@@ -158,7 +155,7 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-lg-12 welcome-box" id="welcome-box">
+				<!-- <div class="col-lg-12 welcome-box" id="welcome-box">
 						<i class="fa fa-times fa-2x welcome-exit" aria-hidden="true"></i>
 <div class="col-lg-8 col-lg-offset-2 welcome-box-content">
 	<h2 class="center">Join Our  VIP List</h2>
@@ -173,7 +170,7 @@
         </form>
 </div>
 
-				</div>
+				</div> -->
 			</div>
 			<div class="row ">
 				<div class="col-sm-12 visible-xs visible-sm sidebar">
@@ -199,22 +196,63 @@
 </ul>
 </nav>
 
-					  <div class="search-box">
-			<form  action="/search.html" method="get">
-				<div class="input-group">
-
-      <input type="text" class="form-control search-input" id="search-box" name="query" placeholder="Search for...">
-      <span class="input-group-btn">
-        <button class="btn search-submit" type="submit" value="search">Search</button>
-      </span>
-		</div>
-		</form>
-  </div>
 
 				</div>
 			</div>
 
+			</div>
 			<div class="row">
+				<div class="col-lg-10 col-lg-offset-1">
+					<div class="row">
+	<div class="col-sm-12">
+		<h1 class="highlights-header">I'm Here To Help You Succeed</h1>
+		<hr>
+	</div>
+</div>
+<div class="row video-block">
+	
+	<div class="col-lg-4">
+		<div class="video-container">
+			<img src="http://fillmurray.com/600/320" class="highlight-image" />
+			<h4>This is a title</h4>
+			<hr>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed odio vitae lacus elementum tincidunt non nec ipsum. Aliquam dictum lacus quam, sed iaculis ligula faucibus rhoncus. Nunc non velit vestibulum, porttitor lorem a, convallis ligula.
+</p>
+			<a href="http://google.com" class="ctalink">Read more</a>
+		</div>
+	</div>
+	
+	<div class="col-lg-4">
+		<div class="video-container">
+			<img src="http://fillmurray.com/600/320" class="highlight-image" />
+			<h4>This is a title</h4>
+			<hr>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed odio vitae lacus elementum tincidunt non nec ipsum. Aliquam dictum lacus quam, sed iaculis ligula faucibus rhoncus. Nunc non velit vestibulum, porttitor lorem a, convallis ligula.
+</p>
+			<a href="http://google.com" class="ctalink">Read more</a>
+		</div>
+	</div>
+	
+	<div class="col-lg-4">
+		<div class="video-container">
+			<img src="http://fillmurray.com/600/320" class="highlight-image" />
+			<h4>This is a title</h4>
+			<hr>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed odio vitae lacus elementum tincidunt non nec ipsum. Aliquam dictum lacus quam, sed iaculis ligula faucibus rhoncus. Nunc non velit vestibulum, porttitor lorem a, convallis ligula.
+</p>
+			<a href="http://google.com" class="ctalink">Read more</a>
+		</div>
+	</div>
+	
+	</div>
+<div class="row">
+	<div class="col-sm-12">
+		<h1 class="highlights-header">Another header</h1>
+		<hr>
+	</div>
+</div>
+
+				</div>
 				<div class="col-lg-7 col-md-7 col-lg-offset-1">
 					<form method="post" class="home-value" action="http://vyralmarketing.com/staticforms/sendEmail.php" onsubmit="return setReturn()">
     <fieldset>
@@ -407,7 +445,7 @@ function setReturn(){
 			<!-- Sidebar Content // Hidden on mobile -->
 
 				<div class="col-md-5 col-lg-3 hidden-sm hidden-xs sidebar">
-					<nav class="socials left">
+					<!-- <nav class="socials left">
 <ul>
 
 
@@ -428,19 +466,19 @@ function setReturn(){
 </li>
 </ul>
 </nav>
-
-					  <div class="search-box">
+ -->
+					<!--   <div class="search-box">
 			<form  action="/search.html" method="get">
 				<div class="input-group">
 
       <input type="text" class="form-control search-input" id="search-box" name="query" placeholder="Search for...">
       <span class="input-group-btn">
-        <button class="btn search-submit" type="submit" value="search">Search</button>
+        <button class="btn search-submit" type="submit" value="search"><i class="fa fa-search"></i></button>
       </span>
 		</div>
 		</form>
   </div>
-
+ -->
 					
 <div class="cta-sidebar-container">
 	<div class="cta-img-container">
@@ -465,30 +503,6 @@ function setReturn(){
 
 
 					
-<div class="lender">
-
-	<h5>Preferred Lender</h5>
-	<hr>
-	<div class="lender-info">
-		
-		<div class="lender-headshot">
-			<img src="http://fillmurray.com/200/200"/>
-		</div>
-		
-		<p>
-		Bill Murray<br>
-		Lender Co.<br>
-		555-555-5555<br>
-		bill@murray.com<br>
-		eyegoop.com
-	</p>
-	</div>
-	<div class="lender-logo">
-		<img src="/img/logo.png"/>
-		
-	</div>
-</div>
-
 
 					  <div class="library-container">
 			<h5>Post Library</h5>
@@ -649,7 +663,7 @@ function setReturn(){
 
 </div>
 
-			<div class="container-fluid gray hidden-sm hidden-xs">
+			<!-- <div class="container-fluid gray hidden-sm hidden-xs">
 		<div class="row">
 			<div class="col-lg-10 col-lg-offset-1">
 
@@ -685,7 +699,7 @@ function setReturn(){
 	</div>
 </div>
 </div>
-
+ -->
 			<!-- Newsletter optin form -->
 <div class="newsletter">
       <div class="news-column-left">

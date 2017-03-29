@@ -44,7 +44,7 @@
 
 .content-container
   border: 1px solid #cfcfcf
-  margin: 20px auto
+  margin: 20px 20px 20px 0
   hr
     margin-top: 0
     margin-bottom: 0
@@ -52,26 +52,30 @@
   margin: 0 auto
   display: block
 
-.readlink>a
-  background: $brand
-  color: $light-text
-  border: 1px solid $brand
-  border-radius: $button-radius
+.readlink
+  position: relative
+  bottom: 20px
+  // background: $brand
+  color: $brand
+  // border: 1px solid $brand
+  // border-radius: $button-radius
   padding: 10px 20px
-  margin-top: 20px
+  // margin-top: 20px
   text-decoration: none
-  font-size: 16px
+  font-size: 18px
+  text-transform: uppercase
+  display: block
+  text-align: center
   +transition
+  position: relative
   &:hover
-    background: transparent
+    // background: $brand
     color: $brand-light
-    box-shadow: 4px 4px 0 $brand-light
-    border: 1px solid $brand-light
-    @include transform(scale(1.05))
-    @include transform(translateY(-0.2rem))
+    // box-shadow: 4px 4px 0 $brand-light
+    // border: 1px solid $brand-light
   &:active
-    box-shadow: 0 0 0 $brand-light
-    @include transform(translateY(0rem))
+    color: $brand-light
+    // box-shadow: 0 0 0 $brand-light
 
 
 

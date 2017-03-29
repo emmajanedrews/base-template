@@ -24,9 +24,10 @@
 		color: #555
 .ctacontainer
 	// padding: 20px
-	margin: 0px auto 30px
-
+	margin: 20px
+	width: 100%
 .ctalink
+	text-align: center
 	justify-content: center
 	background: $brand
 	border: 1px solid $brand
@@ -35,16 +36,18 @@
 	text-decoration: none
 	font-size: 18px
 	color: $light-text
+	text-transform: uppercase
+	display: block
 	+transition
 	a
 		text-align: center
 	&:hover
-		background: transparent
-		color: $brand-light
+		background: $brand
+		color: $light-text
 		box-shadow: 4px 4px 0 $brand-light
 		border: 1px solid $brand-light
-		@include transform(scale(1.05))
-		@include transform(translateY(-0.2rem))
+		// @include transform(scale(1.05))
+		// @include transform(translateY(-0.2rem))
 	&:active
 		box-shadow: 0 0 0 $brand-light
-		@include transform(translateY(0rem))
+		// @include transform(translateY(0rem))

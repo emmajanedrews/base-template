@@ -23,12 +23,31 @@ client:
   url:
 
 CTAs:
-  first_CTA_text: Home Valuation
+  first_CTA_text: Register for a lunch and learn
   first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
   second_CTA_URL: /homesearch/
   VR_form:
-
+highlights_header: I'm Here To Help You Succeed
+highlights:
+  - image: http://fillmurray.com/600/320
+    title: This is a title
+    text: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed odio vitae lacus elementum tincidunt non nec ipsum. Aliquam dictum lacus quam, sed iaculis ligula faucibus rhoncus. Nunc non velit vestibulum, porttitor lorem a, convallis ligula.
+    cta: Read more
+    url: http://google.com
+  - image: http://fillmurray.com/600/320
+    title: This is a title
+    text: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed odio vitae lacus elementum tincidunt non nec ipsum. Aliquam dictum lacus quam, sed iaculis ligula faucibus rhoncus. Nunc non velit vestibulum, porttitor lorem a, convallis ligula.
+    cta: Read more
+    url: http://google.com
+  - image: http://fillmurray.com/600/320
+    title: This is a title
+    text: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed odio vitae lacus elementum tincidunt non nec ipsum. Aliquam dictum lacus quam, sed iaculis ligula faucibus rhoncus. Nunc non velit vestibulum, porttitor lorem a, convallis ligula.
+    cta: Read more
+    url: http://google.com
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: Looking to Buy a Home?
@@ -83,14 +102,15 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  hero_logo_path_2: /img/logo2.png
+  logo_width_number: 70
   hero_text: Real Estate Video Blog
   hero_background_hex: '#094264'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#C14547'
-  theme_color: '#005473'
+  brand_color: '#0083c0'
+  theme_color: '#000'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -99,7 +119,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: "#000"
+  shadow_color: "transparent"
 
 buttons:
   button_radius_number: 0

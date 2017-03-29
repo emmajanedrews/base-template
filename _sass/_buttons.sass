@@ -1,17 +1,17 @@
 .cta
-	background: $button-background
-	color: $button-text
+	background: $brand
+	color: $light-text
 	padding: 1.3rem 2rem
-	text-transform: capitalize
+	text-transform: uppercase
 	font-size: 2rem
-	font-weight: 300
-	border: 2px solid $button-border
+	font-weight: bold
+	border: 2px solid $brand
 	@include transition(0.3s)
 	&:hover
-		background: transparent
-		color: $brand-light
+		background: $brand
+		color: $light-text
 		box-shadow: 4px 4px 0 $brand-light
-		border: 2px solid $button-border
+		border: 2px solid $brand
 		@include transform(scale(1.05))
 		@include transform(translateY(-0.2rem))
 	&:active
