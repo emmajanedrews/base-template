@@ -2344,18 +2344,12 @@ table tr, table td {
     -webkit-transition: 0.3s;
     transition: 0.3s; }
     .search-box .search-submit:hover {
-      background: transparent;
-      color: #27baff;
+      background: #0083c0;
+      color: white;
       box-shadow: 4px 4px 0 #27baff;
-      border: 2px solid #27baff;
-      -webkit-transform: scale(1.05);
-      transform: scale(1.05);
-      -webkit-transform: translateY(-0.2rem);
-      transform: translateY(-0.2rem); }
+      border: 2px solid #0083c0; }
     .search-box .search-submit:active {
-      box-shadow: 0 0 0 #27baff;
-      -webkit-transform: translateY(0rem);
-      transform: translateY(0rem); }
+      box-shadow: 0 0 0 #27baff; }
 
 @media (max-width: 767px) {
   .search-box {
