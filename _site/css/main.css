@@ -2,6 +2,9 @@
 li {
   font-size: 18px; }
 
+.row {
+  margin: 0; }
+
 /* ==========================================================================
    Normalize.scss settings
    ========================================================================== */
@@ -1939,7 +1942,7 @@ table tr, table td {
 
 .content-container {
   border: 1px solid #cfcfcf;
-  margin: 20px 20px 20px 0; }
+  margin-top: 20px; }
   .content-container hr {
     margin-top: 0;
     margin-bottom: 0; }
