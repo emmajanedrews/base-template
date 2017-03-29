@@ -10,7 +10,7 @@ pullquote: They simply don’t take enough information into account.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/no-pb-53.jpg
+youtube_alternate_image: /uploads/no-pb-3.jpg
 youtube_code: hNbAj1XdKGM
 ---
 
