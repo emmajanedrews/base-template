@@ -40,7 +40,7 @@ CTAs:
   second_CTA_text: Home Search
   second_CTA_URL: /homesearch/
   phone_CTA: true
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=17c0da686f
 
 sidebar_CTA:
   CTA_image_path: /img/cta-images/001.jpg
