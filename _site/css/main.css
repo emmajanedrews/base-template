@@ -1235,15 +1235,20 @@ html[xmlns] .flexslider .slides {
   margin-bottom: 20px;
   margin-top: 20px;
   overflow: hidden; }
-  .cta-sidebar-container .cta-img-container a img {
-    max-width: 100%;
-    width: 1000px; }
-  .cta-sidebar-container h5 {
-    padding-left: 10px; }
+  .cta-sidebar-container h4 {
+    padding: 10px;
+    width: 100%;
+    text-align: center; }
+  .cta-sidebar-container hr {
+    background: #c7c7c7;
+    margin: 0; }
   .cta-sidebar-container p {
     font-size: 18px;
     padding: 10px;
     color: #555; }
+  .cta-sidebar-container .cta-img-container a img {
+    max-width: 100%;
+    width: 1000px; }
 
 .ctacontainer {
   margin: 20px;
