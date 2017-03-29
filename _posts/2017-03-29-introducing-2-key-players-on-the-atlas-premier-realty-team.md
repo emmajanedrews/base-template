@@ -19,10 +19,10 @@ youtube_code: 9AlD1NbHSBs
 
 You might remember last time when I told you about our transition into a new company, and today, I wanted to introduce you to the new team and some of our partners.
 
-**Greg Brock is the broker/owner of Atlas Premier Realty**and has been in the industry for a decade. He's worked for all the big names from Prudential to Keller Williams to Coldwell Banker and others. In 2014, he started Atlas Premier Realty with a very specific vision for the local community.
+**Greg Brock is the broker/owner of Atlas Premier Realty&nbsp;**and has been in the industry for a decade. He's worked for all the big names from Prudential to Keller Williams to Coldwell Banker and others. In 2014, he started Atlas Premier Realty with a very specific vision for the local community.
 
 {% include pullquote.html %}
 
 **Matt Nader is a great mortgage resource, partner, and friend who we've worked with for years.** He's worked in the mortgage industry for a little more than a decade and worked for a few different banks, but left to have the chance to work for a company with a smaller, more local feel. Here, he has different loan products, interest rates, and different guidelines that allow him to help all his clients.
 
-The community is a common theme in everything we do, and as we've mentioned previously, we want to be very purposeful in everything we do. We're looking forward to serving you, so if we have any questions, give us a call or send us an email. We'd be more than happy to help.
+The community is a common theme in everything we do, and as we've mentioned previously, we want to be very purposeful in everything we do. We're looking forward to serving you, so if you have any questions, give us a call or send us an email. We'd be more than happy to help.
