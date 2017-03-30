@@ -5,7 +5,7 @@ date:
 tags:
   - Home Buyer Tips
 excerpt: 'If you want to buy a home, there are a few financial habits you need to kick right away to put yourself in position to qualify.'
-enclosure:
+enclosure: 'http://vyralmarketing.s3.amazonaws.com/Jesse%20Myles/Ditch%20These%206%20Habits%20to%20Put%20Yourself%20in%20Position%20to%20Buy%20a%20Home.mp4'
 pullquote: 'Stay at your job until you close on your home, no matter how bad the situation seems.'
 enclosure_type: video/mp4
 enclosure_time:
