@@ -17,7 +17,7 @@ youtube_code: lsMXZH5IXF8
 
 {% include youtube.html %}
 
-When you're selling your home, there are certain things you can do to avoid issues with the inspection. Today, I'm joined by Greg Watkins with&nbsp;**[Advance Look Inspections](http://www.advancelookinspections.info/index.html)**&nbsp;to help me explain this topic.
+When you're selling your home, there are certain things you can do to avoid issues with the inspection. Today, I'm joined by Greg Watkins with&nbsp;**[Advance Look Inspections](http://www.advancelookinspections.info/index.html){: target-"_blank"}**&nbsp;to help me explain this topic.
 
 You obviously want your home to be in tip-top shape when buyers come through.&nbsp;**There are some things you can take care of in the home before the inspection even occurs.**&nbsp;According to Greg, curb appeal means a lot as a buyer approaches your house, so keep your shrubbery trimmed with 12 inches of clearance from the house. Doing so will also help prevent pests from getting into your home.
 
