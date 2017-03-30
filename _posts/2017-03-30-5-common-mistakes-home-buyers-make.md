@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 5 Common Mistakes Home Buyers Make
-date: 2017-03-30 11:41:19
+date: 2017-03-30 11:41:00
 tags:
   - Home Buyer Tips
-excerpt:
+excerpt: 'The home buying process can be complicated, especially when unexpected issues arise. There are five common mistakes that many home buyers make that can be detrimental to their purchase in the end'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
