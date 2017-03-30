@@ -26,5 +26,5 @@ We can’t believe it’s December already. The year has really flown by. Real e
 <br>**3. Stage your home to sell.** There is a difference between staging your home to live in and staging your home to sell. You can hire a professional stager or use your agent and their experience for advice on what you can do with what you already have.
 
 {% include pullquote.html %}
-<br>
-<br>If you have any questions for us or would like to list your home, give us a call or send us an email. We would love to help in any way possible and look forward to hearing from you soon.
+
+If you have any questions for us or would like to list your home, give us a call or send us an email. We would love to help in any way possible and look forward to hearing from you soon.
