@@ -3,13 +3,28 @@ layout: post
 title: 'Considering an Investment Property: Part 1'
 tags:
   - Buyer Tips
-  - Home Seller Tips
-excerpt: 'If a property does not appraise, there are three things that you can do as a buyer or seller to try and make it to the closing table.'
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Bad+Appraisals.mp4'
-pullquote: 'We are in a seller’s market, so buyers may just have to come up with the extra cash.'
+excerpt: 'If you’re thinking about buying an investment property, consider these three things before making the jump.'
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Part+1+of+Investment+Properties.mp4'
+pullquote: 'Becoming a landlord is a business, not a charity.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: ihAsKMPbup8
+youtube_code: E-nS_QEOL1E
 ---
+
+
+Investing in real estate is a great way to build long-term wealth for you and future generations. If you’re thinking about buying an investment property, there are three points you to consider before following through.
+
+**First, what’s your overall objective in buying an investment property?** Most people buy them for one of four different reasons:
+
+1. They want an additional monthly cash flow.&nbsp;
+2. They want to buy a property in a very strong area that’s appreciating in value.&nbsp;
+3. They need a tax shelter for their income.&nbsp;
+4. They need something to do with their time and want one as a hobby.&nbsp;
+
+Second, remember that **becoming a landlord is a business, not a charity.**Make sure you’re using the proper contracts and you’re following them. Tenants will definitely try to take every advantage they can if they see that you’re not running your investment property as a business. We have the proper contracts and forms and we’d be happy to supply them to you if you like.&nbsp;
+
+Lastly, **begin with the end in mind.** What’s your overall purpose? Do you want to fix and flip and make a quick dollar on the sale or are you in a long-term, buy-and-hold strategy to create a cash flow for yourself? Worst case scenario, if something happened and you had to sell the property, how would you sell it and how would you dispose of it?
+
+Stay tuned for part two in our series about investment properties. In the meantime, if you have any questions or are interested in buying an investment property, don’t hesitate to reach out to us. We’d love to help you get started!&nbsp;
