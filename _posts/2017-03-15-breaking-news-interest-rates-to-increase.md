@@ -8,8 +8,8 @@ enclosure: 'http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/Breaking%20Ne
 pullquote: We’re still in a strong seller’s market.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/intro-00-03-24-04-still003.jpg
 youtube_code: 49bxPkd_66M
 ---
 
