@@ -20,7 +20,7 @@ If you’re thinking about selling your home this spring, it’s a good idea to 
 
 If you get a pre-inspection done, you can advertise your home as certified pre-owned. That will give you a leg up in the market in a few areas.
 
-In terms of marketability, presenting your home as having already been inspected will give buyers a lot more confidence. When buyers see a that a home has already been inspected, they assume that home is in pristine condition and has been beautifully maintained, which means your home will fly off the market pretty quickly.
+In terms of marketability, presenting your home as having already been inspected will give buyers a lot more confidence. When buyers see that a home has already been inspected, they assume that home is in pristine condition and has been beautifully maintained, which means your home will fly off the market pretty quickly.
 
 Another advantage to listing your home as certified pre-owned is the negotiability it brings to the table. The buyer’s agent will be in a more compromised position in terms of negotiating repairs and corrections to the home because you will have already made them. That will save you quite a bit of money.
 
