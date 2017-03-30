@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We’re Having a Clothing Drive for Note in the Pocket
-date: 2017-03-30 11:32:30
+date: 2017-03-30 11:32:00
 tags:
 excerpt: 'Our guest Shelly works with Note in the Pocket, a small, local organization that provides two weeks of school clothes to children in our county who are living below the poverty line.'
 enclosure: 'http://vyralmarketing.s3.amazonaws.com/rare%20Properties/First%2010%20CloudCannon%20Vids/Were%20Having%20a%20Clothing%20Drive%20for%20Note%20in%20the%20Pocket.mp4'
@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: I457UZoKj_c
 ---
 
 
