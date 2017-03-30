@@ -12,7 +12,7 @@ client:
   about_markdown: |
 
   market:
-  brand: The Lakkees Team
+  brand: The Lakkees Group
   brokerage: Keller Williams
   address: 5344 Strawberry Way<br>Fontana, CA 92336
   phone: 909-260-1618
@@ -68,11 +68,11 @@ socials:
   pinterest_url:
   zillow_url: https://www.zillow.com/profile/user2972467/
   trulia_url: https://www.trulia.com/profile/eddie-lakkees-agent-rancho-cucamonga-ca-zggx7xpj/overview
-  yelp_url:
+  yelp_url: https://www.yelp.com/biz/eddie-lakkees-keller-williams-chino-hills
   podcast_url:
 
 podcast:
-  title:
+  title: The Lakkees Group Real Estate Podcast
   categories: Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
@@ -89,7 +89,7 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#C52233'
+  brand_color: '#b40101'
   theme_color: '#333333'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
@@ -99,7 +99,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: "transparent"
+  shadow_color: "#000000"
 
 buttons:
   button_radius_number: 0
