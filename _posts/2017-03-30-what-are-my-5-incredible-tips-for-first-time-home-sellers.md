@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Are My 5 Incredible Tips for First-Time Home Sellers?
-date: 2017-03-31 00:00:00
+date: 2017-03-30 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: Selling your home for the first time doesn’t need to be difficult or stressful. Here are five tips to ensure that your first home sale goes off without a hitch.
