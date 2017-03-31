@@ -22,10 +22,10 @@ The good news is that itemizing your taxes is surprisingly easy to do. There are
 
 First of all, you need to locate your closing disclosure agreement. This is part of your closing paperwork provided by your lender. Then, you can add up the four main real estate deductions:&nbsp;
 
-1. **Loan costs and fees**: These are the different fees from your lender spread throughout the closing disclosure agreement. Different lenders will call them by different names, so look for terms like “application fee,” “underwriting fee,” and “loan cost.”&nbsp;
-2. **Mortgage interest**: You can deduct the entire interest portion of your mortgage payments. This will probably be your biggest deduction, especially at the start of your mortgage when interest rates are highest.&nbsp;
-3. **Property taxes**: You can deduct property taxes for the part of the year in which you owned the home. Amazingly, you can claim this deduction even if you managed to negotiate for the seller to pay the full year’s property taxes.&nbsp;
-4. **Mortgage insurance**: If you put less than 20% down when you bought the house, you probably have to pay private mortgage insurance. The good news is that PMI is tax deductible. Keep in mind that private mortgage insurance is completely different from homeowners insurance, which is not deductible.&nbsp;
+1. **Loan costs and fees**: These are the different fees from your lender spread throughout the closing disclosure agreement. Different lenders will call them by different names, so look for terms like “application fee,” “underwriting fee,” and “loan cost.
+2. **Mortgage interest**: You can deduct the entire interest portion of your mortgage payments. This will probably be your biggest deduction, especially at the start of your mortgage when interest rates are highest.
+3. **Property taxes**: You can deduct property taxes for the part of the year in which you owned the home. Amazingly, you can claim this deduction even if you managed to negotiate for the seller to pay the full year’s property taxes.
+4. **Mortgage insurance**: If you put less than 20% down when you bought the house, you probably have to pay private mortgage insurance. The good news is that PMI is tax deductible. Keep in mind that private mortgage insurance is completely different from homeowners insurance, which is not deductible.
 
 {% include pullquote.html %}
 
