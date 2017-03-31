@@ -24,9 +24,8 @@ If you want to buy a home in the near future, there are few lousy habits you sho
 3. **Opening too many lines of credit:** This won't help your case at all and will affect your credit score dramatically.
    <br>
    <br>{% include pullquote.html %}
-   <br>
 4. **Job hopping:** If you're trying to get a mortgage and using your job as income to qualify, don't leave that job! Stay there no matter how bad the situation feels at the time. Wait until you get the house of your dreams to get a new job if you leave.
 5. **Student loans:** They always seem to come up and keep people from getting a home. Start paying off those loans right now.
-6. **Keeping a low bank balance:**Stuff happens in life. Cars break down, dogs get sick, and all other sorts of things can pop up. Having an emergency fund will mean those emergencies won't be emergencies anymore because you'll have the money for them. After you buy your new home, you can use this reserve money to make updates or renovations as well.
+6. **Keeping a low bank balance:&nbsp;**Stuff happens in life. Cars break down, dogs get sick, and all other sorts of things can pop up. Having an emergency fund will mean those emergencies won't be emergencies anymore because you'll have the money for them. After you buy your new home, you can use this reserve money to make updates or renovations as well.
 
 If you have any other questions about preparing to buy a home, don't hesitate to give me a call or send me an email. I'd love to help you!
