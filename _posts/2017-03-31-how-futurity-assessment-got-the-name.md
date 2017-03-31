@@ -31,11 +31,8 @@ We took that premise and designed it for companies.
 So, the company **Futurity Assessment is a process or tool that companies can use to benchmark themselves against what their future abilities look like.**We focus on four key areas:
 
 1. Employment branding - what's the value proposition the company has for its employees and how does it relate to retention?&nbsp;
-
 2. Leadership potential - who can the company groom for leadership roles in the future and what is their succession plan?
-
 3. Putting together development and growth strategies - we actually design a future organization chart for the company.&nbsp;
-
 4. Process mapping - this is where the organization can uncover where they need to be more efficient in their processes.&nbsp;
 
 The goal of our company is to bring the future into the present so that companies can design the future they want instead of experience unwanted consequences they didn't prepare for.
