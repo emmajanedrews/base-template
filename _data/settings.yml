@@ -1,6 +1,6 @@
 audit_header: false
 title: '-- CLIENT BRAND --'
-description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
+description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional Northern Virginia Real Estate Agents.'
 show_custom_links: true
 custom_links:
   - title: Our Service Partners
@@ -8,19 +8,19 @@ custom_links:
   - title: About
     url: 'https://www.wickerhomesgroup.com/agents/'
 client:
-  name:
+  name: The Wicker Homes Group
   license_number:
-  about_markdown:
-  market: Loudoun County
-  brand: Wicker Homes Group
-  brokerage: Kellar Williams
+  about_markdown: "The Wicker Homes Group is comprised of a team of local real estate professionals committed to selling some of the most desired homes in Loudoun & Fairfax Counties. Selling these \"right addresses\" is the mission of Wicker Homes Group. Let us know what you're looking for. Please take advantage of the helpful tools on this website, including our exclusive Loudoun & Fairfax Counties Real Estate search, but also feel free to contact us personally."
+  market:
+  brand: The Wicker Homes Group
+  brokerage: Keller Williams
   address: '46169 Westlake Dr. Suite 200<br>Potomac Falls, VA 20165'
   phone: 571-210-4997
   phone_type:
   phone2:
   phone2_type:
   email: info@wickerhomes.com
-  url:
+  url: 'https://www.wickerhomesgroup.com/'
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://www.wickerhomesgroup.com/home-valuation/'
@@ -30,7 +30,7 @@ CTAs:
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/005.jpg
     CTA_title: Looking to Buy a Home?
-    CTA_text: Search the entire MLS for homes located in -- MARKET --.
+    CTA_text: Search the entire MLS for homes in Northern Virginia
     CTA_link_text: Home Search Tool
     CTA_url: 'http://www.wickerhomesgroup.com/results-gallery/?OfficeMLS=KWR77'
 lender:
@@ -46,12 +46,7 @@ lender:
   url: 'http://eyegoop.com'
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
-  welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
-    professionals can answer any questions you might have about real estate.
-    Subscribe to this blog to get the latest news on local market trends and
-    receive expert tips for buying or selling a home.
+  welcome_text_markdown: 'Our mission at – CLIENT BRAND – is to be your best resource for real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. Subscribe to this blog to get the latest news on local market trends and receive expert tips for buying or selling a home.'
 socials:
   review_sm_icons: false
   facebook_url: 'https://www.facebook.com/WickerHomesGroup/'
@@ -78,7 +73,7 @@ images:
   client_headshot_path: /img/headshot.png
   hero_logo_path: /uploads/gold-logo-1.png
   logo_width_number: 40
-  hero_text: Northern Virginia<br>Real Estate Blog
+  hero_text: 'Northern Virginia<br>Real Estate Blog'
   hero_background_hex: '#191919'
   hero_image_path: /uploads/stonetowerwinerywickersbackgroundcropped.jpg
   post_cover: /img/cover.jpg
@@ -92,7 +87,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: 'transparent'
+  shadow_color: 'rgba(0, 0, 0, 0)'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
