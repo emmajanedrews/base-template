@@ -21,9 +21,9 @@ client:
   url: 'http://www.beachandsunhomes.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: 'https://www.beachandsunhomes.com/sell/'
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: 'https://www.beachandsunhomes.com/results-gallery/?sort=importdate&photo=1'
   VR_form:
 sidebar_CTA:
   CTA_image_path: /img/cta-images/002.jpg
