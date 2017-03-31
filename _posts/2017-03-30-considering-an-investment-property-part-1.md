@@ -16,7 +16,7 @@ youtube_code: E-nS_QEOL1E
 
 {% include youtube.html %}
 
-Investing in real estate is a great way to build long-term wealth for you and future generations. If you’re thinking about buying an investment property, there are three points you to consider before following through.
+Investing in real estate is a great way to build long-term wealth for you and future generations. If you’re thinking about buying an investment property, there are three points you need to consider before following through.
 
 **First, what’s your overall objective in buying an investment property?** Most people buy them for one of four different reasons:
 
@@ -25,7 +25,7 @@ Investing in real estate is a great way to build long-term wealth for you and fu
 3. They need a tax shelter for their income.
 4. They need something to do with their time and want one as a hobby.
 
-Second, remember that **becoming a landlord is a business, not a charity.**Make sure you’re using the proper contracts and you’re following them. Tenants will definitely try to take every advantage they can if they see that you’re not running your investment property as a business. We have the proper contracts and forms and we’d be happy to supply them to you if you like.
+Second, remember that **becoming a landlord is a business, not a charity.&nbsp;**Make sure you’re using the proper contracts and you’re following them. Tenants will definitely try to take every advantage they can if they see that you’re not running your investment property as a business. We have the proper contracts and forms and we’d be happy to supply them to you if you like.
 
 {% include pullquote.html %}
 
