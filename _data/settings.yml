@@ -11,9 +11,9 @@ client:
   name:
   license_number:
   about_markdown:
-  market:
-  brand: The Wicker Homes Group
-  brokerage: Keller Williams
+  market: Loudoun County
+  brand: Wicker Homes Group
+  brokerage: Kellar Williams
   address: '46169 Westlake Dr. Suite 200<br>Potomac Falls, VA 20165'
   phone: 571-210-4997
   phone_type:
@@ -30,7 +30,7 @@ CTAs:
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/005.jpg
     CTA_title: Looking to Buy a Home?
-    CTA_text: Search the entire MLS for homes in Northern Virginia.
+    CTA_text: Search the entire MLS for homes located in -- MARKET --.
     CTA_link_text: Home Search Tool
     CTA_url: 'http://www.wickerhomesgroup.com/results-gallery/?OfficeMLS=KWR77'
 lender:
