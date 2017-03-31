@@ -4,7 +4,7 @@ title: A Different Mortgage Option for California Veterans
 date: 2017-03-31 00:00:00
 tags:
   - Home Buyer Tips
-excerpt: "If you're a veteran of the armed services and you're looking to buy a home, you may have already heard of federal loans designed for you. What you might not know is that here in California, there's an option for this loan that we can help you get with some added benefits. With Cal Vet, you won't have to worry about a third party buying the debt or getting it serviced out of state like you might with federal loans. For more information, watch my latest video."
+excerpt: "You've probably heard of VA loans for veterans looking to buy a home, but we can actually help you get an even better product through the California Veterans Administration."
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Dave+Silva/Roseville+Real+Estate+A+different+mortgage+option+for+CA+vets.mp4'
 pullquote: "When my dad became disabled, they actually continued to make the payments on my folks' property."
 enclosure_type: video/mp4
