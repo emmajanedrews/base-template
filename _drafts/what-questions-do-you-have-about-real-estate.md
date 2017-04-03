@@ -3,7 +3,8 @@ layout: post
 title: What Questions Do You Have About Real Estate?
 date:
 tags:
-excerpt:
+  - Real Estate
+excerpt: 'I have some exciting news to share with you! I have decided to start a real estate video blog to answer any and all of your real estate questions. I’ll be sending out two videos a month answering your questions about buying or selling a home, investing in real estate, or anything else you want to learn more about. I want this blog to be a resource for you, so please let me know what you would like to find out about the market. To get a sneak peek of what your new real estate resource can do for you, watch this short video.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Troy+Copeland/2017/Troy+Copeland+Welcome+To+Blog+edit.mp4'
 pullquote: This video blog is a resource for you.
 enclosure_type: video/mp4
@@ -17,6 +18,10 @@ youtube_code: LlvV8DTTJSA
 {% include youtube.html %}
 
 *Welcome to my new real estate video blog! I’ll be answering all of your real estate questions through a couple of short, educational videos twice a month.&nbsp;*
+
+{% include homesearch.html %}
+
+{% include eval-form.html %}
 
 Today I’m excited to announce my **new real estate video blog!**&nbsp;
 
