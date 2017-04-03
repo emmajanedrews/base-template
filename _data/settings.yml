@@ -84,7 +84,7 @@ images:
   hero_logo_path: /img/logo.png
   hero_logo_path-2: /img/logo-2.png
   logo_width_number: 40
-  hero_text: Real Estate Recruiting Blog
+  hero_text: Real Estate Coaching Blog
   hero_background_hex: '#00573d'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
@@ -99,7 +99,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: "transparent"
+  shadow_color: "rgba(0,0,0,.7)"
 
 buttons:
   button_radius_number: 0
