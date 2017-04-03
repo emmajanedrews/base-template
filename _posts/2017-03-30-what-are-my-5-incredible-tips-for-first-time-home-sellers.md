@@ -1,4 +1,12 @@
 ---
+youtube_code:
+excerpt:
+enclosure:
+pullquote:
+enclosure_type: video/mp4
+enclosure_time:
+use_youtube_image: true
+youtube_alternate_image: /img/cover.jpg
 layout: post
 title: What Are My 5 Incredible Tips for First-Time Home Sellers?
 date: 2017-03-30 00:00:00
@@ -13,9 +21,8 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: 'https://youtu.be/KVYTIxiiq98'
 ---
-
-
 {% include youtube.html %}
+}
 
 Here are five incredible tips you can use as a first-time home seller to ensure a fast and lucrative home sale:
 
