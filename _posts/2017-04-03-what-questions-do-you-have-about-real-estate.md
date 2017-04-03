@@ -19,10 +19,6 @@ youtube_code: LlvV8DTTJSA
 
 *Welcome to my new real estate video blog! I’ll be answering all of your real estate questions through a couple of short, educational videos twice a month.*
 
-{% include homesearch.html %}
-
-{% include eval-form.html %}
-
 Today I’m excited to announce my **new real estate video blog!**
 
 **I’ll be sending you two educational videos a month** that have to do with all things real estate. They will feature tips on the local real estate market and answers to any questions you may have about home buying, home selling, or investing in real estate.
