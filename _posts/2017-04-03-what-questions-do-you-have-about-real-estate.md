@@ -19,9 +19,9 @@ youtube_code: LlvV8DTTJSA
 
 *Welcome to my new real estate video blog! I’ll be answering all of your real estate questions through a couple of short, educational videos twice a month.*
 
-Looking to buy a Frisco home? [Click here to start your search](http://friscoarearealestate.com/homesearch/)
+***Looking to buy a Frisco home? [Click here to start your search](http://friscoarearealestate.com/homesearch/)***
 
-Looking to sell your Frisco home? [Click here for a free home evaluation](http://friscoarearealestate.com/homevalue/)
+***Looking to sell your Frisco home? [Click here for a free home evaluation](http://friscoarearealestate.com/homevalue/)***
 
 Today I’m excited to announce my **new real estate video blog!**
 
