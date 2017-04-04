@@ -28,7 +28,7 @@ To this organization, there’s more than one way to define a parent in crisis. 
 
 Safe Families considers themselves a church movement, but they don’t just work through churches to recruit host families. They also want their host families to build mentoring relationships with the parents in crisis so that network of support can give them what they need to better the lives of themselves and their children. In their experience, people in need want to make changes; they just don’t know how and they don’t have the support system to teach them how. For them, it’s well worth the time and effort to provide that support. &nbsp;
 
-For Emma, being the director is a full-time job, so **if you would like to make a donation to Safe Families, you can visit their website at [anderson.safe-families.org](http://anderson.safe-families.org).&nbsp;**They also hold fundraisers throughout the year, including a concert coming up in August for which they’re looking for business sponsors for support. We’re happy to say we plan on being one of those sponsors
+For Emma, being the director is a full-time job, so **if you would like to make a donation to Safe Families, you can visit their website at [anderson.safe-families.org](http://anderson.safe-families.org){: target="_blank"}.&nbsp;**They also hold fundraisers throughout the year, including a concert coming up in August for which they’re looking for business sponsors for support. We’re happy to say we plan on being one of those sponsors
 
 We’re also happy to say that during the month of April, our team will kick back a percentage of all of our closed transactions to Safe Families. April tends to be one of our biggest months in terms of sales, so there’s no time like the present for us to lend a hand.
 
