@@ -6,7 +6,7 @@ author: Vyral Admin
 tags:
   - Northern Virginia Real Estate Seller Tips
 excerpt:
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Janet+Gresh/Northern+Virginia+Real+Estate+Agent-+There%2527s+a+Cost+to+Waiting.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
