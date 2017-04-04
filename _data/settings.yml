@@ -1,21 +1,20 @@
 audit_header: false
-title: -- CLIENT BRAND --
-description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
+title: Sabato Property Group of Keller Williams Realty International
+description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Sabato Property Group of Keller Williams Realty International - your professional Real Estate Agents.'
 show_custom_links: false
 custom_links:
   - title:
     url:
 
 client:
-  name:
+  name: Joe Sabato
   license_number:
   about_markdown: |
-
   market:
   brand:
   brokerage:
-  address:
-  phone:
+  address: 601 SE Central Parkway<br>Stuart, FL 34994
+  phone: 772-237-3435
   phone_type:
   phone2:
   phone2_type:
@@ -24,7 +23,7 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://josephsabato.kwrealty.com/sell/
   second_CTA_text: Home Search
   second_CTA_URL: /homesearch/
   VR_form:
@@ -51,7 +50,7 @@ lender:
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
+    Our mission at Sabato Property Group of Keller Williams Realty International is to be your best resource for real estate
     advice. Whether you are a buyer, seller, or investor, our team of
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
@@ -83,13 +82,13 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 60
   hero_text: Real Estate Video Blog
   hero_background_hex: '#094264'
-  hero_image_path: /img/background.jpg
+  hero_image_path: /img/background2.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#C14547'
+  brand_color: '#015287'
   theme_color: '#005473'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
