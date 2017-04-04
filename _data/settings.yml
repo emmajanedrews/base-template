@@ -114,5 +114,5 @@ buttons:
   button_background_color: '#ffffff'
   button_text_color: '#00573d'
   secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: '#df8f00'
+  secondary_button_background_color: '#00573d'
   secondary_button_text_color: '#ffffff'
