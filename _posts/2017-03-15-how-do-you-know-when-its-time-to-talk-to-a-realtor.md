@@ -5,7 +5,7 @@ date: 2017-03-15 06:00:00
 tags:
   - Home Seller Tips
 excerpt: "If you want to sell your house, you want to reach out to a professional Realtor as soon as possible. Here's why."
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Janet+Gresh/Northern+Virginia+Real+Estate+Agent-+When%2527s+the+Right+Time+to+Talk+to+a+Realtor%253F.mp4'
 pullquote: "Your home's online presence plays a key role in your success."
 enclosure_type: video/mp4
 enclosure_time:
