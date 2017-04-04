@@ -5,7 +5,7 @@ date: 2017-03-28 00:00:00
 tags:
   - Home Seller Tips
 excerpt: It amazes me when I see homes listed online with bad photos. Having professional photos taken of your home before selling is a no-brainer. Here’s why.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Kyle+Fernandez/St.+Louis+County+Real+Estate-+Quality+Photos+Are+Essential.mp4'
 pullquote: I can’t stress enough how important professional photography is.
 enclosure_type: video/mp4
 enclosure_time:
