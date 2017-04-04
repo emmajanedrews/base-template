@@ -1,5 +1,5 @@
 audit_header: false
-title: Travis Chatwin Real Estate
+title:
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -10,14 +10,14 @@ client:
   license_number: 1331747
   about_markdown: "Travis Chatwin Real Estate is comprised of a team of local real estate professionals committed to selling some of the most desired homes in Greater San Diego. Selling these \"right addresses\" is the mission of Travis Chatwin Real Estate. Let us know what you're looking for. Please take advantage of the helpful tools on this website, including our exclusive Greater San Diego Real Estate search, but also feel free to contact us personally."
   market: San Diego
-  brand: Travis Chatwin Real Estate
+  brand:
   brokerage: Aaron Roth Real Estate
   address: '312 S Cedros<br>Solana Beach, California 92075'
   phone: (619) 752-4663
   phone_type:
   phone2:
   phone2_type:
-  email: Travis@AaronRothre.com
+  email: BeachandSunHomes@gmail.com
   url: 'http://www.beachandsunhomes.com'
 CTAs:
   first_CTA_text: Home Valuation
