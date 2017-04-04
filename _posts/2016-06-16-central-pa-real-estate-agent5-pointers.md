@@ -1,5 +1,5 @@
 ---
-youtube_code: w0S0rE0quKc?rel=0
+youtube_code: w0S0rE0quKc
 excerpt:
 enclosure:
 pullquote:
