@@ -23,7 +23,7 @@ As Ryan says, K1 Speeds provides you with all the adrenaline you need. **Ryan ca
 Click below for more info on:
 
 * [**Team building**](https://trello-attachments.s3.amazonaws.com/55a567e7cfb3ca3f3bd5756d/58e28d51d2c299832f738364/f5105f379d4499febfa81bb6c42f5e98/Team_Building.pdf){:target="_blank"}
-* [](https://trello-attachments.s3.amazonaws.com/55a567e7cfb3ca3f3bd5756d/58e28d51d2c299832f738364/37b6b0d0ab370ad98136d47eb8ecd752/Room_Rental-_Orlando.pdf)[**Room renta**](__notset__)[l](__notset__){:target="_blank"}
+* [](https://trello-attachments.s3.amazonaws.com/55a567e7cfb3ca3f3bd5756d/58e28d51d2c299832f738364/37b6b0d0ab370ad98136d47eb8ecd752/Room_Rental-_Orlando.pdf){:target="_blank"}[**Room renta**](__notset__)[l](__notset__)
 * [**Race packages**](https://trello-attachments.s3.amazonaws.com/55a567e7cfb3ca3f3bd5756d/58e28d51d2c299832f738364/f3851b83e63df193bdb69df604a794dd/Race_Packages.pdf){:target="_blank"}
 
 If you'd like to set up a race, a team building event, or just a good time with some friends at K1 Speed, you can contact Ryan at (407) 434-7500. You can also check out the video above to get an up close and personal look at what it's like to race here at K1 Speed. You've got to try this place out!
