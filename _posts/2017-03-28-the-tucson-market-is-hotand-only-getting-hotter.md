@@ -27,7 +27,13 @@ In the past month here in Tucson, half of our home sales were on the market for 
 
 If you're looking to buy a home, you need to be prepared to move quickly. Interest rates will also rise for things like auto loans and other revolving lines of credit. It's a good time to lock in the lowest rate possible.&nbsp;
 
-If you're looking to buy a home, we've got three great new listings you don't want to miss. Click here to check them out.&nbsp;
+If you're looking to buy a home, we've got three great new listings you don't want to miss:
+
+[Click here to see 721 W Hareslson Street in Tucson.](http://www.flexmls.com/share/ojob/721WHarelsonStreetTucsonAZ85704)
+
+[Click here to see 10350 N Cliff Dweller Place in Oro Valley.](http://www.flexmls.com/share/ojor/10350NCliffDwellerPlaceOroValleyAZ85737)
+
+[Click here to see 4971 E Mission Hill Place in Tucson.](http://www.flexmls.com/share/ojpm/4971EMissionHillPlaceTucsonAZ85718)
 <br>&nbsp;
 <br>If you're selling your home, you're in a prime position. If you're considering selling your house in the next year or two, consider looking at the market today, for a few reasons. For one, mortgage rates are still very low, but we know they're going up. Secondly, **inventory is shrinking, which makes prices high for homes.** Additionally, Tucson's economy is improving, which will only cause consumption to move at a faster rate. Lots of major U.S. companies here are hiring, and some unemployment will go down.&nbsp;
 
