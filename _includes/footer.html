@@ -12,18 +12,19 @@
 	        <div class="col-sm-6">
 	          <address itemprop="address">{{site.data.settings.client.address}}</address>
 	        </div>
+
+
 	      {% elsif site.data.settings.client.brand == null %}
-	        <div class="col-sm-4">
-	          <span itemprop="founder">{{site.data.settings.client.name}}</span>
+	        <div class="col-sm-12">
+	          <span itemprop="founder">{{site.data.settings.client.name}}</span>&nbsp;&nbsp;|&nbsp;&nbsp;
 						{% if site.data.settings.client.license_number != null %}
 						<br><span>#{{site.data.settings.client.license_number }}
 							{% endif %}
-	        </div>
-	        <div class="col-sm-4">
+
 	          <span itemprop="branchof">{{site.data.settings.client.brokerage}}</span>
 	        </div>
-	        <div class="col-sm-4">
-	          <address itemprop="address">{{site.data.settings.client.address}}</address>
+	        <div class="col-sm-12">
+	          <address itemprop="address" style="margin-bottom: 0">{{site.data.settings.client.address}}</address>
 	        </div>
 	      {% elsif site.data.settings.client.brokerage == null  %}
 	        <div class="col-sm-4">
@@ -38,6 +39,8 @@
 	        <div class="col-sm-4">
 	          <address itemprop="address">{{site.data.settings.client.address}}</address>
 	        </div>
+
+
 	      {% else %}
 	        <div class="col-sm-3">
 	          <span itemprop="founder">{{site.data.settings.client.name}}</span>
@@ -55,20 +58,17 @@
 	          <address itemprop="address">{{site.data.settings.client.address}}</address>
 	        </div>
 	      {% endif %}
-	    </div>
-	    <hr>
-	    <div class="row">
-	      <div class="col-sm-4">
+
+	    <!-- <hr> -->
+
+	      <div class="col-sm-12">
 					{% if site.data.settings.client.phone2 != null %}
 					{{ site.data.settings.client.phone_type }}: <a href="tel:{{site.data.settings.client.phone | prepend: "1-"}}" itemprop="telephone">{{ site.data.settings.client.phone }}</a><br />
 					{{ site.data.settings.client.phone2_type }}: <a href="tel:{{site.data.settings.client.phone2 | prepend: "1-"}}" itemprop="telephone">{{ site.data.settings.client.phone2 }}</a><br />
 					{% else %}
 	        <a href="tel:{{site.data.settings.client.phone | prepend: "1-"}}" itemprop="telephone">{{site.data.settings.client.phone}}</a>
 					{% endif %}
-
-	      </div>
-	      <div class="col-sm-4"><a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a></div>
-	      <div class="col-sm-4"><a href="{{site.data.settings.client.url}}">{{site.data.settings.client.url | remove: "http://" | remove: "https://"}}</a></div>
+&nbsp;&nbsp;|&nbsp;&nbsp;<a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="{{site.data.settings.client.url}}">{{site.data.settings.client.url | remove: "http://" | remove: "https://"}}</a></div>
 	    </div>
 	    <div class="row">
 	      <div class="twelve columns footer-socials">

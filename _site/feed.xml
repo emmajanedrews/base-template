@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Andrey Bustamante Team</title>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Andrey Bustamante Team - your professional  Real Estate Agents.</description>
-    <link>localhost:4000/</link>
-    <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 08 Mar 2017 15:35:27 -0600</pubDate>
-    <lastBuildDate>Wed, 08 Mar 2017 15:35:27 -0600</lastBuildDate>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</description>
+    <link>http://bustamanteblog.com/</link>
+    <atom:link href="http://bustamanteblog.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 05 Apr 2017 11:16:44 -0500</pubDate>
+    <lastBuildDate>Wed, 05 Apr 2017 11:16:44 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -19,7 +19,7 @@
 
 &lt;p&gt;&lt;strong&gt;The current inventory as a whole is rather short. &lt;/strong&gt;There is a shortage of houses on the market, particularly in the lower price points. As you get higher in price point, there is a lot more inventory. In those basic price points, however, there is definitely a shortage of homes.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Some homes are even selling over list price.%20localhost:4000/the-latest-scoop-on-orlando-real-estate.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Some homes are even selling over list price.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Some homes are even selling over list price.%20http://bustamanteblog.com/the-latest-scoop-on-orlando-real-estate.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Some homes are even selling over list price.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This affects home values. &lt;strong&gt;The higher-priced homes are seeing a lot of price reductions to help them move. &lt;/strong&gt;They are selling for about 90% to 93% of their list price on average. The homes in the lower price range are selling closer to 100% of their list price—some are even selling for more than that.&lt;/p&gt;
 
@@ -30,8 +30,8 @@
 &lt;p&gt;If you have any questions, comments, or concerns for us, we would love to hear from you. Just give us a call or send us an email. We would also love to help out if you or someone you know is looking to make a move. We look forward to hearing from you!&lt;/p&gt;
 </description>
         <pubDate>Fri, 03 Feb 2017 00:00:00 -0600</pubDate>
-        <link>localhost:4000/the-latest-scoop-on-orlando-real-estate.html</link>
-        <guid isPermaLink="true">localhost:4000/the-latest-scoop-on-orlando-real-estate.html</guid>
+        <link>http://bustamanteblog.com/the-latest-scoop-on-orlando-real-estate.html</link>
+        <guid isPermaLink="true">http://bustamanteblog.com/the-latest-scoop-on-orlando-real-estate.html</guid>
         
         
       </item>
