@@ -1,21 +1,22 @@
 ---
 layout: post
 title: The Benefits of Selling During the Holidays
-date: '2016-10-18T10:32:00.000-07:00'
+date: 2016-10-18 17:32:00
 author: Vyral Admin
 tags:
-- Home Seller Tips
+  - Home Seller Tips
 excerpt: The holidays are a great time to sell your home. Why? There is less inventory to compete against the buyers looking for properties are far more serious about buying.
-enclosure:
-pullquote: In three days, we escalated $27,000 above our asking price.
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Doug+Elliott/Northern+Virginia+Real+Estate-+Why+the+holidays+are+a+great+time+to+sell.mp4'
+pullquote: 'In three days, we escalated $27,000 above our asking price.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: jyWKZ4yNWjk
 ---
-{% include youtube.html %}
-Contrary to popular belief, the holidays are a great time to sell your home. Why? A couple of reasons, actually.
+
+
+{% include youtube.html %}Contrary to popular belief, the holidays are a great time to sell your home. Why? A couple of reasons, actually.
 
 The first is that if you wait until spring to sell your home, you’ll be competing against a lot of other properties. This reduces the buyer pool. The second reason is that you’ll know that the buyers who are out there looking for homes now are dead serious about buying.
 
