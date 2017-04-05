@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Reasons to Sell This Winter in Northern Virginia
-date: '2015-12-09T11:02:00.000-08:00'
+date: 2015-12-09 19:02:00
 author: Vyral Admin
 tags:
-- Northern Virginia Real Estate Seller Tips
+  - Northern Virginia Real Estate Seller Tips
 excerpt:
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Janet+Gresh/Northern+Virginia+Real+Estate+Agent+Sell+Today+in+Northern+Virginia.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -14,8 +14,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: MOpxay5NyBE
 ---
-{% include youtube.html %}
-With the holidays upon us, there’s this misconception that it’s not a good time to sell your home. That’s not true!
+
+
+{% include youtube.html %}With the holidays upon us, there’s this misconception that it’s not a good time to sell your home. That’s not true!
 
 This is a great time to be on the market. Buyers in the market now are serious and committed to finding the perfect home. Additionally, there’s less competition. Sellers often remove their homes from the market during this time of year.
 
