@@ -36,9 +36,9 @@ client:
   url: 'http://www.simplyyourbestmove.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: 'http://www.simplyyourbestmove.com/sell/'
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: 'http://www.simplyyourbestmove.com/homes-for-sale-search/'
   phone_CTA: true
   VR_form:
 sidebar_CTA:
@@ -70,7 +70,8 @@ socials:
   podcast_url:
 podcast:
   title: The Gresh Group Real Estate Podcast
-  categories: Education
+  categories:
+    - Education
   image: /img/podcast.png
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
