@@ -6,7 +6,7 @@ author: Sarah Pfeifer
 tags:
   - Northern Virginia Real Estate Buyer Tips
 excerpt:
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Janet+Gresh/Northern+Virginia+Real+Estate+Agent-+Rates+are+Low%252C+but+is+Now+the+Time+to+Buy%253F.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
