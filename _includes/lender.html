@@ -10,15 +10,30 @@
 		</div>
 		{% endif %}
 		<p>
-		{{site.data.settings.lender.name}}<br>
-		{{site.data.settings.lender.brand}}<br>
-		{{site.data.settings.lender.phone}}<br>
-		{{site.data.settings.lender.email}}<br>
-		{{site.data.settings.lender.url | remove: 'http://'}}
+			{% if site.data.settings.lender.name != null %}
+			{{site.data.settings.lender.name}}<br>
+			{% endif %}
+			{% if site.data.settings.lender.brand != null %}
+			{{site.data.settings.lender.brand}}<br>
+			{% endif %}
+			{% if site.data.settings.lender.phone != null %}
+			{{site.data.settings.lender.phone}}<br>
+			{% endif %}
+			{% if site.data.settings.lender.email != null %}
+			{{site.data.settings.lender.email}}<br>
+			{% endif %}
+			{% if site.data.settings.lender.address != null %}
+			{{site.data.settings.lender.address}}<br>
+			{% endif %}
+			{% if site.data.settings.lender.url != null %}
+			{{site.data.settings.lender.url | remove: 'http://'}}
+			{% endif %}
 	</p>
 	</div>
 	<div class="lender-logo">
+				{% if site.data.settings.lender.logo_path != null %}
 		<img src="{{site.data.settings.lender.logo_path}}"/>
+		{% endif %}
 		{% if site.data.settings.lender.logo_path_2 != null %}
 		<img src="{{site.data.settings.lender.logo_path_2}}"/>
 		{% endif %}

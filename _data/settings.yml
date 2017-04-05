@@ -1,32 +1,34 @@
 audit_header: false
 title: -- CLIENT BRAND --
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: Featured Listings
+    url: http://search.bradkorb.com/idx/featured
+  - title: Meet The Korb team
+    url: http://www.bradkorb.com/staff.php
 
 client:
-  name:
+  name: Brad Korb
   license_number:
   about_markdown: |
 
-  market:
-  brand:
+  market: Burbank
+  brand: The Brad Korb Real Estate Group
   brokerage:
-  address:
-  phone:
+  address: 3813 W. Magnolia Blvd.<br>Burbank, CA 91505
+  phone: 818-953-5300
   phone_type:
   phone2:
   phone2_type:
-  email:
+  email: brad@bradkorb.com
   url:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.bradkorb.com/form-cma.php
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.bradkorb.com/buyers.php
   VR_form:
 
 sidebar_CTA:
@@ -34,19 +36,20 @@ sidebar_CTA:
     CTA_title: Looking to Buy a Home?
     CTA_text: Search the entire MLS for homes located in -- MARKET --.
     CTA_link_text: Home Search Tool
-    CTA_url: /homesearch/
+    CTA_url: http://www.bradkorb.com/buyers.php
 
 lender:
-  show_section: false
-  header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
-  logo_path: /img/logo.png
+  show_section: True
+  header_text: Meet My Preferred Lender
+  headshot_path:
+  logo_path:
   logo_path_2:
-  name: Bill Murray
-  brand: Lender Co.
-  phone: 555-555-5555
-  email: bill@murray.com
-  url: http://eyegoop.com
+  name: Brian McKim<br>Sales Manager | NMLS# 381742
+  brand: Skyline Home Loans
+  phone: 818-844-8207 Office<br>818-421-4737 Cell<br>818-484-2014 Fax
+  email: bmckim@skylinehomeloans.com
+  url:
+  address: 505 North Brand Blvd. 15th Fl<br>Glendale, CA 91203
 
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
@@ -59,16 +62,16 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/TheBradKorbRealEstateGroup
+  linkedin_url: http://www.linkedin.com/in/bradkorb/
+  gplus_url: https://plus.google.com/u/0/+BradKorb/about
+  youtube_url: https://www.youtube.com/channel/UCiJwvniUev3k1C6rqTEvscQ
+  twitter_url: https://twitter.com/bradkorb
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
+  zillow_url: http://www.zillow.com/profile/Brad-Korb/
+  trulia_url: http://www.trulia.com/profile/brad-korb-agent-burbank-ca-77679
+  yelp_url: http://www.yelp.com/biz/the-brad-korb-team-burbank
   podcast_url:
 
 podcast:
@@ -85,12 +88,12 @@ images:
   hero_logo_path: /img/logo.png
   logo_width_number: 40
   hero_text: Real Estate Video Blog
-  hero_background_hex: '#094264'
+  hero_background_hex: '#034275'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#C14547'
-  theme_color: '#005473'
+  brand_color: '#D2121D'
+  theme_color: '#034275'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -107,7 +110,7 @@ buttons:
   button_padding_height_number: 15
   button_border_color: '#ffffff'
   button_background_color: '#ffffff'
-  button_text_color: '#123456'
+  button_text_color: '#034275'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'

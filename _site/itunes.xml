@@ -4,24 +4,24 @@
     <title></title>
     <link>localhost:4000</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</description>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Brad Korb Real Estate Group - your professional Burbank Real Estate Agents.</description>
     <language>en</language>
-    <managingEditor></managingEditor>
-    <lastBuildDate>2017-04-03 11:37:40 -0500</lastBuildDate>
-    <media:copyright></media:copyright>
+    <managingEditor>Brad Korb</managingEditor>
+    <lastBuildDate>2017-04-05 13:28:00 -0500</lastBuildDate>
+    <media:copyright>Brad Korb</media:copyright>
     <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
-    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
+    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
-      <itunes:email></itunes:email>
-      <itunes:name></itunes:name>
+      <itunes:email>brad@bradkorb.com</itunes:email>
+      <itunes:name>Brad Korb</itunes:name>
     </itunes:owner>
-    <itunes:author></itunes:author>
+    <itunes:author>Brad Korb</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="localhost:4000/img/podcast.jpg"/>
-    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the  Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</itunes:summary>
+    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Burbank Area Real Estate Market</itunes:subtitle>
+    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Brad Korb Real Estate Group - your professional Burbank Real Estate Agents.</itunes:summary>
       <itunes:category text="News &amp; Politics"/>
     
       <item>
@@ -30,7 +30,7 @@
         
           <category>L.A. Real Estate Market Update</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2017-01-30 13:11:00 -0600</pubDate>
         <guid>Interest rates have been on the rise and are expected to increase three more times in 2017. How has this impacted our market?</guid>
         <description>What’s going on in the market now that interest rates have gone up?
@@ -50,11 +50,11 @@ If you have any other questions about our current market, just give me a call or
         <itunes:subtitle>What’s going on in the market now that interest rates have gone up?
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>What’s going on in the market now that interest rates have gone up?
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -63,7 +63,7 @@ If you have any other questions about our current market, just give me a call or
         
           <category>L.A. Real Estate Holiday Cheer</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2016-11-29 16:23:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -85,13 +85,13 @@ In the meantime, if you have any questions related to real estate in our area, g
 I just wanted to drop by and send you a quick reminder today.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 I just wanted to drop by and send you a quick reminder today.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -100,7 +100,7 @@ I just wanted to drop by and send you a quick reminder today.
         
           <category>L.A. Real Estate Holiday Cheer</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2016-11-15 15:52:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -122,13 +122,13 @@ Here at the Brad Korb Real Estate Group we are so thankful for the support from 
 We just wanted to reach out to you today to wish you and your family a very happy Thanksgiving. Today we have a short video to share with you of our time helping out the Burbank Temporary Aid Center.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 We just wanted to reach out to you today to wish you and your family a very happy Thanksgiving. Today we have a short video to share with you of our time helping out the Burbank Temporary Aid Center.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -137,7 +137,7 @@ We just wanted to reach out to you today to wish you and your family a very happ
         
           <category>L.A. Real Estate Sellers Tips</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2016-09-29 14:21:00 -0500</pubDate>
         <guid>Today we want to discuss Zillow Zestimates, both what they mean for your property and how you should consider them when pricing your home.</guid>
         <description>
@@ -161,13 +161,13 @@ Click on the link above if you would like a free market analysis. If you have an
 How accurate are Zestimates? Most of the time, not very. They’re basically a computer program designed to give you a ballpark figure of what the property is worth in today’s market.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 How accurate are Zestimates? Most of the time, not very. They’re basically a computer program designed to give you a ballpark figure of what the property is worth in today’s market.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -176,7 +176,7 @@ How accurate are Zestimates? Most of the time, not very. They’re basically a c
         
           <category>Brad Korb reviews</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2016-09-16 12:27:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -198,13 +198,13 @@ If you have any questions about real estate or are interested in working with us
 I have worked with so many wonderful clients over the years, including Chris Cannon. Today, I wanted to share Chris’s story with you all:
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 I have worked with so many wonderful clients over the years, including Chris Cannon. Today, I wanted to share Chris’s story with you all:
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -213,7 +213,7 @@ I have worked with so many wonderful clients over the years, including Chris Can
         
           <category>Home Seller Tips</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2016-08-24 16:16:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -235,13 +235,13 @@ If you have more questions how to spend money wisely when improving your home, g
 Recently, I’ve had a couple of clients working on their property and doing things that I didn’t think were important in order to get top dollar in the market.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 Recently, I’ve had a couple of clients working on their property and doing things that I didn’t think were important in order to get top dollar in the market.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -252,7 +252,7 @@ Recently, I’ve had a couple of clients working on their property and doing thi
         
           <category>Home Buyer Tips</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2016-08-09 16:34:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -276,13 +276,13 @@ If you have any questions about how to navigate a multiple offer situation, just
 In our current market, many properties are getting multiple offers. So how do you handle multiple offers as a buyer or seller?
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 In our current market, many properties are getting multiple offers. So how do you handle multiple offers as a buyer or seller?
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -291,7 +291,7 @@ In our current market, many properties are getting multiple offers. So how do yo
         
           <category>L.A. Real Estate Market Update</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2016-07-01 16:09:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -313,13 +313,13 @@ If you have any further questions, please don’t hesitate to contact me. I woul
 A lot of people have been asking me about the real estate market in Los Angeles, and so today I’ll update you with statistics that will tell us more about the health and wealth of this market. We’re currently in a seller’s market in almost all price ranges. Inventory is very low, so multiple offers are common and sale prices remain high.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 A lot of people have been asking me about the real estate market in Los Angeles, and so today I’ll update you with statistics that will tell us more about the health and wealth of this market. We’re currently in a seller’s market in almost all price ranges. Inventory is very low, so multiple offers are common and sale prices remain high.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -328,7 +328,7 @@ A lot of people have been asking me about the real estate market in Los Angeles,
         
           <category>L.A. Real Estate Seller Tips</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2016-05-17 16:16:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -352,13 +352,13 @@ Reach out to me and let’s do a walkthrough. I look forward to seeing you soon!
 If you’re considering selling your home, when is the right time to call your Realtor to get your home ready to go on the market?
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 If you’re considering selling your home, when is the right time to call your Realtor to get your home ready to go on the market?
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -367,7 +367,7 @@ If you’re considering selling your home, when is the right time to call your R
         
           <category>L.A. Real Estate Seller Tips</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2016-03-28 11:11:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -391,13 +391,13 @@ Karen can come out and walk through your home room by room to figure out the bes
 Today, I’m here with Karin Marganian and she works for Style My Space. She’s going to give us some pointers on how to stage your home. You want your home to look its finest, so you can earn top dollar!
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 Today, I’m here with Karin Marganian and she works for Style My Space. She’s going to give us some pointers on how to stage your home. You want your home to look its finest, so you can earn top dollar!
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -406,7 +406,7 @@ Today, I’m here with Karin Marganian and she works for Style My Space. She’s
         
           <category>burbank ca real estate listings</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2016-03-02 15:43:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -426,13 +426,13 @@ If you have any questions for us about interest rates or the real estate market 
 Right now, the interest rate market is incredible. We are seeing most people get rates in the mid-3%’s, which has drawn tons of buyers into the market earlier than expected. This is why we are telling sellers to get their homes on the market as soon as possible, because these low rates are only going to continue to attract buyers.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 Right now, the interest rate market is incredible. We are seeing most people get rates in the mid-3%’s, which has drawn tons of buyers into the market earlier than expected. This is why we are telling sellers to get their homes on the market as soon as possible, because these low rates are only going to continue to attract buyers.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -443,7 +443,7 @@ Right now, the interest rate market is incredible. We are seeing most people get
         
           <category>Home Buyer Tips</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2016-01-19 11:47:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -467,13 +467,13 @@ If you want to reach James directly, shoot him an email at James@BradKorb.com or
 Today, we want to introduce you to James Lester.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 Today, we want to introduce you to James Lester.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -482,7 +482,7 @@ Today, we want to introduce you to James Lester.
         
           <category>L.A. Real Estate Holiday Cheer</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2015-12-16 12:22:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -500,13 +500,13 @@ In the meantime, if you have any real estate questions or concerns, please don�
 We just want to take a quick moment to wish you and your family a happy holiday season! We also would like to wish you a happy 2016 – we look forward to seeing you soon!
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 We just want to take a quick moment to wish you and your family a happy holiday season! We also would like to wish you a happy 2016 – we look forward to seeing you soon!
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -515,7 +515,7 @@ We just want to take a quick moment to wish you and your family a happy holiday 
         
           <category>Los Angeles Homeowner Tips</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2015-12-08 16:52:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -535,13 +535,13 @@ Additionally, it’s a good practice to check your sprinklers and choose the rig
 After having a contest for the best drought resistant lawn in Burbank, we received lots of important questions. Today, we invited Mike the Gardener from Burbank to talk about drought resistant lawns and what’s going on this season. In this video, we’ll give you tips on how you can conserve water this season.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 After having a contest for the best drought resistant lawn in Burbank, we received lots of important questions. Today, we invited Mike the Gardener from Burbank to talk about drought resistant lawns and what’s going on this season. In this video, we’ll give you tips on how you can conserve water this season.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -550,7 +550,7 @@ After having a contest for the best drought resistant lawn in Burbank, we receiv
         
           <category>L.A. Real Estate Holiday Cheer</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2015-11-24 11:32:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -572,13 +572,13 @@ As always, refer to us as your #1 resource for real estate in the LA area!
 We are very fortunate to have great families, good jobs, and warm homes to go to during the Holidays. Unfortunately, this isn’t a reality for everyone in our area.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 We are very fortunate to have great families, good jobs, and warm homes to go to during the Holidays. Unfortunately, this isn’t a reality for everyone in our area.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -587,7 +587,7 @@ We are very fortunate to have great families, good jobs, and warm homes to go to
         
           <category>L.A. Real Estate Market Update</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2015-11-10 15:56:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -609,13 +609,13 @@ With the number of sales we have been seeing recently, and the number of buyers 
 Today we just wanted to give all of the sellers out there a quick market update as we head into the fall season. The market has been very strong so far this fall, and we are off to a fantastic start.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 Today we just wanted to give all of the sellers out there a quick market update as we head into the fall season. The market has been very strong so far this fall, and we are off to a fantastic start.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -628,7 +628,7 @@ Today we just wanted to give all of the sellers out there a quick market update 
         
           <category>Home Buyer Tips</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2015-10-19 16:12:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -650,20 +650,20 @@ If you have any questions for us, feel free to give us a call or send us an emai
 Happy October! We just wanted to give a quick market update today for all of the buyers out there and let them know what’s going on in the market at this moment.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 Happy October! We just wanted to give a quick market update today for all of the buyers out there and let them know what’s going on in the market at this moment.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>What Do Sellers Want to See in an Offer?</title>
         <link>localhost:4000/compete-with-multiple-offers.html</link>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2015-08-13 13:51:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -685,7 +685,7 @@ This video is especially for the buyers out there trying to compete with multipl
 One thing that home sellers love seeing is letters. Write a letter to the seller of the home and include some pictures of you and your family. Let them know a little about you and why you love their home. If the owner is actually living in the house, you can always stop by and drop the letter off in person, and thank the sellers for considering your offer. A little personal touch can go a long way in a deeply emotional transaction like this.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 This video is especially for the buyers out there trying to compete with multiple bids. I wanted to give you a couple quick tips to help you obtain a home with multiple offers.
@@ -693,7 +693,7 @@ This video is especially for the buyers out there trying to compete with multipl
 One thing that home sellers love seeing is letters. Write a letter to the seller of the home and include some pictures of you and your family. Let them know a little about you and why you love their home. If the owner is actually living in the house, you can always stop by and drop the letter off in person, and thank the sellers for considering your offer. A little personal touch can go a long way in a deeply emotional transaction like this.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -706,7 +706,7 @@ One thing that home sellers love seeing is letters. Write a letter to the seller
         
           <category>Sellers Tips</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2015-06-08 16:01:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -728,13 +728,13 @@ We want to help guide you through the process and find the best offer for you. I
 Hey everyone, thanks for joining us again. This video is for the sellers out there. Today we are going to teach you how to deal with multiple offers on your home.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 Hey everyone, thanks for joining us again. This video is for the sellers out there. Today we are going to teach you how to deal with multiple offers on your home.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -743,7 +743,7 @@ Hey everyone, thanks for joining us again. This video is for the sellers out the
         
           <category>L.A. Real Estate Market Update</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2015-05-04 12:48:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -765,13 +765,13 @@ If you have any questions about our market, or about anything else real estate r
 Hey everyone, thanks for stopping by once again. Today I just wanted to give you a quick update on how the LA real estate market is doing.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 Hey everyone, thanks for stopping by once again. Today I just wanted to give you a quick update on how the LA real estate market is doing.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -780,7 +780,7 @@ Hey everyone, thanks for stopping by once again. Today I just wanted to give you
         
           <category>L.A. Real Estate Seller Tips</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2015-04-06 18:18:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -804,13 +804,13 @@ There you have it. Thanks to Brian for joining us today and helping answer some 
 Hey everyone, happy April to you. First off, I wanted to say thank you so much for sending in all of your great questions. I’m going to answer a few of them today for you. Most of them have had to do with mortgages, refinancing, and interest rates, so we thought we would bring in Brian McKim of Skyline Home Loans to help answer them.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 Hey everyone, happy April to you. First off, I wanted to say thank you so much for sending in all of your great questions. I’m going to answer a few of them today for you. Most of them have had to do with mortgages, refinancing, and interest rates, so we thought we would bring in Brian McKim of Skyline Home Loans to help answer them.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -819,7 +819,7 @@ Hey everyone, happy April to you. First off, I wanted to say thank you so much f
         
           <category>L.A. Real Estate Market Update</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2015-03-02 19:31:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -839,13 +839,13 @@ With conditions the way they are, buyers and sellers need to take advantage. Rig
 Thanks for joining me once again today. I just wanted to give you some news about what has been happening with interest rates on mortgages. In the past few months, rates have dipped below historical lows and sit below 4% in most places. Because of this decrease in rates, Fannie Mae has recently agreed to offer a 97% loan program as opposed to a 95% loan program.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 Thanks for joining me once again today. I just wanted to give you some news about what has been happening with interest rates on mortgages. In the past few months, rates have dipped below historical lows and sit below 4% in most places. Because of this decrease in rates, Fannie Mae has recently agreed to offer a 97% loan program as opposed to a 95% loan program.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -854,7 +854,7 @@ Thanks for joining me once again today. I just wanted to give you some news abou
         
           <category>Home Buyer Tips</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2015-02-11 14:53:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -874,13 +874,13 @@ If you have any questions for us, feel free to send an email or give us a call. 
 Hey there, thanks for checking out my blog today. Valentine’s Day is coming up, and we want you to know that we are your matchmaker when it comes to buying and selling homes here in LA. There is a ton of great inventory out there right now for buyers, and interest rates are continuing to be at historic lows.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 Hey there, thanks for checking out my blog today. Valentine’s Day is coming up, and we want you to know that we are your matchmaker when it comes to buying and selling homes here in LA. There is a ton of great inventory out there right now for buyers, and interest rates are continuing to be at historic lows.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -889,7 +889,7 @@ Hey there, thanks for checking out my blog today. Valentine’s Day is coming up
         
           <category>Brad Korb reviews</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2015-01-30 13:41:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -911,13 +911,13 @@ If you want a fast, clean, and efficient sale, be sure to contact myself or my t
 Today we have Paul with us, who was really apprehensive to sell his home. Agents had been telling him he needed to sell to a real estate investor because the home needed too much work. Paul expected to get $650,000 for his property, and other agents laughed at him and told him that it might be worth $500,000.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 Today we have Paul with us, who was really apprehensive to sell his home. Agents had been telling him he needed to sell to a real estate investor because the home needed too much work. Paul expected to get $650,000 for his property, and other agents laughed at him and told him that it might be worth $500,000.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -926,7 +926,7 @@ Today we have Paul with us, who was really apprehensive to sell his home. Agents
         
           <category>Market Update</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2015-01-28 14:12:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -950,13 +950,13 @@ If you need any assistance, whether you’re buying or selling in LA, please be 
 There’s some exciting news for the Los Angeles real estate this January. For starters, interest rates have fallen to right around 3.7%.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 There’s some exciting news for the Los Angeles real estate this January. For starters, interest rates have fallen to right around 3.7%.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -965,7 +965,7 @@ There’s some exciting news for the Los Angeles real estate this January. For s
         
           <category>Other</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2014-11-26 09:56:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -987,13 +987,13 @@ If you would like some more information about the Burbank Temporary Aid Center, 
 Hi again, everybody. We just wanted to reach out to you today to wish you and your family a very happy Thanksgiving. Today we have a short video to share with you of our time helping out at the Burbank Temporary Aid Center.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 Hi again, everybody. We just wanted to reach out to you today to wish you and your family a very happy Thanksgiving. Today we have a short video to share with you of our time helping out at the Burbank Temporary Aid Center.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1002,7 +1002,7 @@ Hi again, everybody. We just wanted to reach out to you today to wish you and yo
         
           <category>Other</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2014-11-11 11:00:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -1030,13 +1030,13 @@ P.S. You may also see Barbara’s endorsement at www.ITrustBrad.com!
 Tune in to ABC’s and CNBC’s Shark Tank to see Brad side-by-side with real estate magnate Barbara Corcoran.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 Tune in to ABC’s and CNBC’s Shark Tank to see Brad side-by-side with real estate magnate Barbara Corcoran.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1045,7 +1045,7 @@ Tune in to ABC’s and CNBC’s Shark Tank to see Brad side-by-side with real es
         
           <category>Home Buyer Tips</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2014-10-27 11:57:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1067,13 +1067,13 @@ It’s really quite simple: If you are ready to buy, it’s probably not wise to
 It was a crazy busy summer here in the Burbank area, but the fall is here and the market has cooled off a bit. Because of this slight slowdown, many people are asking whether they should wait until the busy spring season to sell their home. This is a great question - to answer it, let’s take a look at interest rates because they have the biggest impact on your spending power.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 It was a crazy busy summer here in the Burbank area, but the fall is here and the market has cooled off a bit. Because of this slight slowdown, many people are asking whether they should wait until the busy spring season to sell their home. This is a great question - to answer it, let’s take a look at interest rates because they have the biggest impact on your spending power.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1082,7 +1082,7 @@ It was a crazy busy summer here in the Burbank area, but the fall is here and th
         
           <category>Home Buyer Tips</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2014-10-10 14:17:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1104,13 +1104,13 @@ We thought this would be an important story to share with you, and we hope you a
 Happy October, everyone! We just wanted to share with you an interesting story that we heard recently. It’s sort of a cautionary tale about refinancing while switching career paths.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 Happy October, everyone! We just wanted to share with you an interesting story that we heard recently. It’s sort of a cautionary tale about refinancing while switching career paths.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1119,7 +1119,7 @@ Happy October, everyone! We just wanted to share with you an interesting story t
         
           <category>Other</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2014-09-25 09:28:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1141,13 +1141,13 @@ If you have any questions about how we sell homes, or any other real estate ques
 Recently, we sold a house for Bill Carroll of KFI talk radio. Bill has been a great client of ours and has been talking about us for a long time on KFI. The thing that Bill says he likes most about us is our system.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 Recently, we sold a house for Bill Carroll of KFI talk radio. Bill has been a great client of ours and has been talking about us for a long time on KFI. The thing that Bill says he likes most about us is our system.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1156,7 +1156,7 @@ Recently, we sold a house for Bill Carroll of KFI talk radio. Bill has been a gr
         
           <category>Market Update</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2014-08-28 13:34:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1178,13 +1178,13 @@ If you have any questions about the market, or about real estate in general, ple
 Happy Fall, everyone. It’s hard to believe that the summer is nearly over. We thought that now would be a great time to give you the latest real estate market update for Los Angeles so you can know what’s going on.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 Happy Fall, everyone. It’s hard to believe that the summer is nearly over. We thought that now would be a great time to give you the latest real estate market update for Los Angeles so you can know what’s going on.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1193,7 +1193,7 @@ Happy Fall, everyone. It’s hard to believe that the summer is nearly over. We 
         
           <category>Home Buyer Tips</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2014-08-11 16:06:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1213,13 +1213,13 @@ If you have any questions, please give us a call. We would be happy to help you 
 Today we want to reach out to you to talk about home protection policies. We recently sold a few homes belonging to senior citizens who hardly ever used their appliances or air conditioning. Not all home buyers will be lucky enough to move into a house like this with rarely used appliances and A/C. When things break, rather than going back to the seller with a broken A/C, if you have a home protection policy, you can get it fixed easily for as little as $55 or $60.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 Today we want to reach out to you to talk about home protection policies. We recently sold a few homes belonging to senior citizens who hardly ever used their appliances or air conditioning. Not all home buyers will be lucky enough to move into a house like this with rarely used appliances and A/C. When things break, rather than going back to the seller with a broken A/C, if you have a home protection policy, you can get it fixed easily for as little as $55 or $60.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1228,7 +1228,7 @@ Today we want to reach out to you to talk about home protection policies. We rec
         
           <category>Other</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2014-07-14 17:36:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1243,12 +1243,12 @@ Author, Marketing Executive, and Real Estate Investor Christopher Matthew Spence
 
 Author, Marketing Executive, and Real Estate Investor Christopher Matthew Spencer talks about the professional integrity and wonderful working relationship he has had with the Brad Korb Real Estate Group (since 1998). From securing top-notch finances to locating great property management, the BradKorb team was effective in ensuring that the process was “pain-free” with high quality service.
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 Author, Marketing Executive, and Real Estate Investor Christopher Matthew Spencer talks about the professional integrity and wonderful working relationship he has had with the Brad Korb Real Estate Group (since 1998). From securing top-notch finances to locating great property management, the BradKorb team was effective in ensuring that the process was “pain-free” with high quality service.
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1257,7 +1257,7 @@ Author, Marketing Executive, and Real Estate Investor Christopher Matthew Spence
         
           <category>Other</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2014-06-30 13:43:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1283,13 +1283,13 @@ If you want to know more about how to get an accurate price on your home, please
 Did you know that 98% of Los Angeles home searches now begin online? This is the first impression your home will get from a potential buyer and likely the first place you will look for your next home. While websites like Trulia and Zillow are great for doing research on homes that already have sold, their information on current market statistics isn’t really all that current or accurate.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 Did you know that 98% of Los Angeles home searches now begin online? This is the first impression your home will get from a potential buyer and likely the first place you will look for your next home. While websites like Trulia and Zillow are great for doing research on homes that already have sold, their information on current market statistics isn’t really all that current or accurate.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1298,7 +1298,7 @@ Did you know that 98% of Los Angeles home searches now begin online? This is the
         
           <category>Market Update</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2014-06-09 17:04:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1327,13 +1327,13 @@ Thanks for tuning in!
 Before I begin this market update I would like to wish you a happy Father’s Day. I hope you’ll be able to enjoy the day and sit around a barbecue with all of your family - you deserve it!
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 Before I begin this market update I would like to wish you a happy Father’s Day. I hope you’ll be able to enjoy the day and sit around a barbecue with all of your family - you deserve it!
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1342,7 +1342,7 @@ Before I begin this market update I would like to wish you a happy Father’s Da
         
           <category>Other</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2014-04-21 10:26:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1366,13 +1366,13 @@ As always, if you need any help with real estate in Burbank, do not hesitate to 
 I just wanted to let everyone now that I have officially re-branded my real estate company after 34 years.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 I just wanted to let everyone now that I have officially re-branded my real estate company after 34 years.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1381,7 +1381,7 @@ I just wanted to let everyone now that I have officially re-branded my real esta
         
           <category>Home Seller Tips</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2014-02-27 10:59:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -1407,13 +1407,13 @@ If you need help finding gardeners or landscapers, please contact me because I h
 I just wanted to reach out to you today to remind you that with spring on the way, it’s time to act accordingly if you’re in the process of selling a home.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 I just wanted to reach out to you today to remind you that with spring on the way, it’s time to act accordingly if you’re in the process of selling a home.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1432,7 +1432,7 @@ I just wanted to reach out to you today to remind you that with spring on the wa
         
           <category>real estate listings</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2014-02-06 16:15:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -1463,13 +1463,13 @@ Sometimes it takes more than one try – at times the first home you make an off
 Please help us welcome Courtney Korb to the team! Joining her dad, Courtney Korb will be taking on all the hiring and training of new Buyer Agents in the role of Sales Manager. She will also be handling all online leads resulting from online marketing.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 Please help us welcome Courtney Korb to the team! Joining her dad, Courtney Korb will be taking on all the hiring and training of new Buyer Agents in the role of Sales Manager. She will also be handling all online leads resulting from online marketing.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1488,7 +1488,7 @@ Please help us welcome Courtney Korb to the team! Joining her dad, Courtney Korb
         
           <category>burbank real estate listings</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2014-01-15 11:33:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -1508,13 +1508,13 @@ If you are ready to invest in real estate or just want to know more, give me cal
 Lately, a few people have asked me whether income properties are a worthwhile investment. Without a doubt, the answer is yes. Real estate is a great way to earn an income and control your investment. Also, because you have a more active role in the success of the investment, the risk is much lower than other venues.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 Lately, a few people have asked me whether income properties are a worthwhile investment. Without a doubt, the answer is yes. Real estate is a great way to earn an income and control your investment. Also, because you have a more active role in the success of the investment, the risk is much lower than other venues.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1531,7 +1531,7 @@ Lately, a few people have asked me whether income properties are a worthwhile in
         
           <category>burbank real estate listings</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2013-12-31 08:20:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -1551,13 +1551,13 @@ If you would like to see 2014 be the year you move into a new house, give me a c
 Are you tired of making New Year’s resolutions year after year only to see them turn into unfulfilled goals? Make 2014 the year you achieve those goals! Whether you wish to become more financially secure, physically fit or to improve your mind, the first step for making your resolutions stick is to establish a plan. Remember: if you fail to plan, you plan to fail.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 Are you tired of making New Year’s resolutions year after year only to see them turn into unfulfilled goals? Make 2014 the year you achieve those goals! Whether you wish to become more financially secure, physically fit or to improve your mind, the first step for making your resolutions stick is to establish a plan. Remember: if you fail to plan, you plan to fail.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1576,7 +1576,7 @@ Are you tired of making New Year’s resolutions year after year only to see the
         
           <category>burbank real estate listings</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2013-12-09 16:05:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -1600,13 +1600,13 @@ Any other questions or comments? Let me know.
 Hi folks, and welcome back to my video blog.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 Hi folks, and welcome back to my video blog.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1627,7 +1627,7 @@ Hi folks, and welcome back to my video blog.
         
           <category>burbank real estate listings</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2013-11-26 16:06:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -1642,12 +1642,12 @@ Happy Thanksgiving! I just wanted to take a brief moment to express my  thanks a
 
 Happy Thanksgiving! I just wanted to take a brief moment to express my  thanks and gratitude for you over the last year.  Our team has had such  an incredible year and it’s all because of you and I just wanted to take  this time to thank you. Have a wonderful and safe Thanksgiving! u and I just wanted to take  this time to thank you. Have a wonderful and safe Thanksgiving!
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 Happy Thanksgiving! I just wanted to take a brief moment to express my  thanks and gratitude for you over the last year.  Our team has had such  an incredible year and it’s all because of you and I just wanted to take  this time to thank you. Have a wonderful and safe Thanksgiving! u and I just wanted to take  this time to thank you. Have a wonderful and safe Thanksgiving!
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1668,7 +1668,7 @@ Happy Thanksgiving! I just wanted to take a brief moment to express my  thanks a
         
           <category>burbank real estate listings</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2013-11-15 17:27:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -1716,13 +1716,13 @@ Keep in mind that the idea of your home’s value increasing significantly over 
 Traditional school of thought dictates that selling a home during the holidays is a bad idea. People are busy celebrating with their families and will hardly go shopping for a home, right? Not so! There are numerous advantages to listing a home during this season and below are ten great reasons to put a home on the market now.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 Traditional school of thought dictates that selling a home during the holidays is a bad idea. People are busy celebrating with their families and will hardly go shopping for a home, right? Not so! There are numerous advantages to listing a home during this season and below are ten great reasons to put a home on the market now.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1743,7 +1743,7 @@ Traditional school of thought dictates that selling a home during the holidays i
         
           <category>burbank real estate listings</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2013-10-23 14:44:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1771,13 +1771,13 @@ Thanks for watching!
 Welcome back. Thanks for joining me today. I wanted to talk about home inspections.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 Welcome back. Thanks for joining me today. I wanted to talk about home inspections.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1798,7 +1798,7 @@ Welcome back. Thanks for joining me today. I wanted to talk about home inspectio
         
           <category>burbank real estate listings</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2013-10-14 11:49:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1823,13 +1823,13 @@ If you have any questions about how to prepare your home, please give me a call!
 Welcome back! If you’re getting your home ready to sell, it’s important to know how to appeal to buyers. What is it that they want to see when they view your home? Here are four important elements of preparing your home.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 Welcome back! If you’re getting your home ready to sell, it’s important to know how to appeal to buyers. What is it that they want to see when they view your home? Here are four important elements of preparing your home.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1850,7 +1850,7 @@ Welcome back! If you’re getting your home ready to sell, it’s important to k
         
           <category>burbank real estate listings</category>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2013-10-02 11:43:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1872,20 +1872,20 @@ Thanks for watching!
 Welcome to my video blog. I wanted to wish you a happy beginning of fall! And what a great fall it is.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 Welcome to my video blog. I wanted to wish you a happy beginning of fall! And what a great fall it is.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Low Inventory Makes It a Great Time to Sell  </title>
         <link>localhost:4000/low-inventory-makes-it-great-time-to.html</link>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2013-04-19 11:07:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1907,20 +1907,20 @@ To help you position yourself for success, please call us at (818) 953-5300.
 Many buyers in the marketplace can’t find the home of their dreams because there’s simply not enough inventory to choose from. It’s certainly a sellers’ market. Sellers have the upper hand, especially if the home is in good condition, located in a great neighborhood and priced just right. If you’re at all on the fence about selling, now is the time because sellers are getting top dollar for their homes and they are selling faster than they could have imagined.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 Many buyers in the marketplace can’t find the home of their dreams because there’s simply not enough inventory to choose from. It’s certainly a sellers’ market. Sellers have the upper hand, especially if the home is in good condition, located in a great neighborhood and priced just right. If you’re at all on the fence about selling, now is the time because sellers are getting top dollar for their homes and they are selling faster than they could have imagined.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title> Today's Competitive Market </title>
         <link>localhost:4000/todays-competitive-market.html</link>
         
-        <author></author>
+        <author>Brad Korb</author>
         <pubDate>2013-03-29 14:37:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1952,18 +1952,18 @@ If you don’t need closing cost assistance, don’t ask for it and finally – 
 For years now, buyers have been able to come in fairly low and actually get away with offers that sellers would never have accepted just a few years prior to that. But now, things are shifting back to a more balanced marketplace and we are noticing some big changes in the way buyers and sellers are interacting. Here are some ways you can gain the upper hand over other buyers vying for the same (few) properties that are scarcely available in our market today.
 
 </itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
 
 For years now, buyers have been able to come in fairly low and actually get away with offers that sellers would never have accepted just a few years prior to that. But now, things are shifting back to a more balanced marketplace and we are noticing some big changes in the way buyers and sellers are interacting. Here are some ways you can gain the upper hand over other buyers vying for the same (few) properties that are scarcely available in our market today.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
-    <copyright></copyright>
-    <media:credit role="author"></media:credit>
+    <copyright>Brad Korb</copyright>
+    <media:credit role="author">Brad Korb</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</media:description>
+    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Brad Korb Real Estate Group - your professional Burbank Real Estate Agents.</media:description>
   </channel>
 </rss>
