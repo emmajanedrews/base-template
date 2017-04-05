@@ -15,7 +15,7 @@ tags:
 ---
 
 
-{% include youtube.html %} }
+{% include youtube.html %}&nbsp;
 
 Here are five incredible tips you can use as a first-time home seller to ensure a fast and lucrative home sale:
 
@@ -31,4 +31,4 @@ Here are five incredible tips you can use as a first-time home seller to ensure 
 
 **5. Insist on professional photography.** More and more agents are electing to use professional photography, and it does cost money. But it’s more critical than ever to make sure your home has clear, clean, high-definition photos. It will make your home stand out, garner more showings, and sell for a greater amount of money.
 
-<br>If you have a question about the value of your home or want a consultation, please don’t hesitate to reach out to us. We’d be happy to take care of you!
+If you have a question about the value of your home or want a consultation, please don’t hesitate to reach out to us. We’d be happy to take care of you!
