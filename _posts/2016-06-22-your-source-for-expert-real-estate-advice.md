@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Your Source for Expert Real Estate Advice
-date: '2016-06-22T09:13:00.000-07:00'
+date: 2016-06-22 16:13:00
 author: Vyral Admin
 tags:
-- Welcome
-excerpt:
-enclosure:
+  - Real Estate
+excerpt: 'I’m here with some exciting news. We’ve decided to start a real estate video blog to share our expertise with you, and provide you with a valuable resource.'
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Doug+Elliott/Northern+Virginia+Real+Estate-+Your+source+for+expert+real+estate+advice.mp4'
 pullquote: What do you want to know about real estate?
 enclosure_type: video/mp4
 enclosure_time:
@@ -14,7 +14,10 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: Z3Jz9T7VEkM
 ---
+
+
 {% include youtube.html %}
+
 I’m here with some exciting news. We’ve decided to start a real estate video blog to share our expertise with you, and provide you with a valuable resource.
 
 Every month, we’ll send out two emails featuring different tips and tricks on navigating the real estate market, as well as information on local market trends.
