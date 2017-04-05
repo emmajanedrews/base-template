@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 3 Commitments We Promise You
-date: '2014-01-06T10:25:00.001-08:00'
+date: 2014-01-06 18:25:00
 author: Vyral Admin
 tags:
-- Northern Virginia Real Estate Buyer Tips
+  - Northern Virginia Real Estate Buyer Tips
 excerpt:
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Janet+Gresh/Lender+-+Joe+Arroyo.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -14,8 +14,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: dpij7JeviSU
 ---
-{% include youtube.html %}
-Whether you're buying your first or your fifth home, the loan process can always be stressful. At [Movement Mortgage](http://www.movementmortgage.com/) we understand that. We treat each situation as our top priority. We do this with three commitments.
+
+
+{% include youtube.html %}Whether you're buying your first or your fifth home, the loan process can always be stressful. At [Movement Mortgage](http://www.movementmortgage.com/) we understand that. We treat each situation as our top priority. We do this with three commitments.
 
 1. Lots of detailed communication through regularly scheduled updates.
 2. To close accurately, you will know every penny you spend.
