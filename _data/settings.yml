@@ -1,32 +1,40 @@
 audit_header: false
 title: -- CLIENT BRAND --
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: Careers
+    url: http://clickcharlestonsc.com/resources.php
+  - title: Meet the Team
+    url: http://clickcharlestonsc.com/agents.php
+  - title: Partners
+    url: http://clickcharlestonsc.com/resources.php
+  - title: Testimonials
+    url: http://www.davefriedmantv.com/p/testimonials.html
 
 client:
-  name:
+  name: Dave Friedman
   license_number:
   about_markdown: |
+    2014 Best Realtor in Charleston Dave Friedman is committed to his work. This award, given to one Realtor out of more than 5,000, commemorates Dave's dedication to his clients and his business. He has been named a Top Producing Realtor for 13 years and is in the top 1% of Realtors worldwide. Dave has closed hundreds of transactions over his 15+ years in real estate, earning a JD Power score of 9.5 in complete customer satisfaction for 5 years running. Dave works hard to get the deal you are looking for, averaging 4% more savings than the average transaction.
 
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    Dave has spent the past 15+ years analyzing the home buying and selling process for his clients. He has dedicated his time to streamlining his processes and improving their results. Dave has surrounded himself with leading experts in the field and is committed to continuing his and his team's education so that they can always ensure they are offering the best advice and information in today's market. Dave's clients know they are always receiving top-notch professionalism and expertise because they know that Dave's passion is helping people and their families realize their dreams of home ownership.
+  market: Charleston
+  brand: Dave Friedman Team
+  brokerage: Keller Williams Realty
+  address: 496 Bramson Ct Ste 200<br>Mt Pleasant, SC 29464
+  phone: 843-800-2465
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Dave@DaveFriedmanTeam.com
+  url: http://www.ClickCharlestonSC.com
 
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
-  second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  first_CTA_text: Apply Now
+  first_CTA_URL: http://clickcharlestonsc.com/resources.php
+  second_CTA_text:
+  second_CTA_URL:
   VR_form:
 
 sidebar_CTA:
@@ -59,16 +67,16 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/pages/Dave-Friedman-Real-Estate-at-ReMax/86520966532?ref=br_rs
+  linkedin_url: http://www.linkedin.com/in/friedmandavid
+  gplus_url: https://plus.google.com/+DaveFriedman?prsrc=5
+  youtube_url: https://www.youtube.com/channel/UCYg5beOA0R1xWVZqukzSNBA
+  twitter_url: https://twitter.com/RealEstateRants
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
+  zillow_url: http://www.zillow.com/profile/Dave-Friedman/
+  trulia_url: http://www.trulia.com/profile/dave-friedman-agent-charleston-sc-9567361/overview
+  yelp_url: http://www.yelp.com/biz/dave-friedman-real-estate-mount-pleasant
   podcast_url:
 
 podcast:
@@ -81,16 +89,16 @@ podcast:
   author: '-- CLIENT NAME --'
 
 images:
-  client_headshot_path: /img/headshot.jpg
+  client_headshot_path: http://i.imgur.com/EUpUpDs.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
-  hero_text: Real Estate Video Blog
-  hero_background_hex: '#094264'
+  logo_width_number: 60
+  hero_text: <br>
+  hero_background_hex: '#4E4A46'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#C14547'
-  theme_color: '#005473'
+  brand_color: '#B40101'
+  theme_color: '#4E4A46'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -99,15 +107,15 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: "#000"
+  shadow_color: "transparent"
 
 buttons:
   button_radius_number: 0
-  button_padding_width_number: 10
+  button_padding_width_number: 20
   button_padding_height_number: 15
-  button_border_color: '#ffffff'
-  button_background_color: '#ffffff'
-  button_text_color: '#123456'
+  button_border_color: '#B40101'
+  button_background_color: '#B40101'
+  button_text_color: '#fff'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'

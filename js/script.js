@@ -175,12 +175,14 @@ $("#welcome-box-form").submit(function(event) {
 //fadein navbar
 $.support.transition = false;
 window.addEventListener("scroll", function() {
-    if (window.scrollY > 349) {
+    if (window.scrollY > 1) {
         $('.navbar').removeClass('nav-start');
         $('.navbar').addClass('scroll-nav-color');
+        $('.navbar-left>li>a').addClass('text-color');
     }
     else {
         $('.navbar').removeClass('scroll-nav-color');
+			  $('.navbar-left>li>a').removeClass('text-color');
     }
 },false);
 //add back background color when on mobile and hamburger menu is toggled

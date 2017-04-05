@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>localhost:4000/this-is-a-test-post.html</loc>
-<lastmod>2016-10-04T00:00:00-05:00</lastmod>
+<loc>localhost:4000/how-our-team-finds-success-with-this.html</loc>
+<lastmod>2017-03-14T11:46:00-05:00</lastmod>
 </url>
 <url>
-<loc>localhost:4000/a-fox-in-space.html</loc>
-<lastmod>2016-09-28T00:00:00-05:00</lastmod>
+<loc>localhost:4000/whats-sexy-about-consistency.html</loc>
+<lastmod>2017-02-21T16:12:00-06:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/how-do-you-build-winning-real-estate.html</loc>
+<lastmod>2017-02-06T10:56:00-06:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/join-us-and-make-2017-best-year-of-your.html</loc>
+<lastmod>2017-01-19T15:03:00-06:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/how-i-doubled-my-dealings-in-one-year.html</loc>
+<lastmod>2016-12-13T14:28:00-06:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/how-i-doubled-my-business-in-one-year.html</loc>
+<lastmod>2016-04-29T11:50:00-05:00</lastmod>
 </url>
 <url>
 <loc>localhost:4000/404.html</loc>
@@ -28,5 +44,8 @@
 </url>
 <url>
 <loc>localhost:4000/thankyou/</loc>
+</url>
+<url>
+<loc>localhost:4000/page2/</loc>
 </url>
 </urlset>

@@ -1,5 +1,5 @@
 .cta
-	background: $button-background
+	background: $brand
 	color: $button-text
 	padding: 1.3rem 2rem
 	text-transform: capitalize
@@ -8,15 +8,12 @@
 	border: 2px solid $button-border
 	@include transition(0.3s)
 	&:hover
-		background: transparent
-		color: $brand-light
+		background: $brand
+		color: $light-text
 		box-shadow: 4px 4px 0 $brand-light
 		border: 2px solid $button-border
-		@include transform(scale(1.05))
-		@include transform(translateY(-0.2rem))
 	&:active
 		box-shadow: 0 0 0 $brand-light
-		@include transform(translateY(0rem))
 		text-decoration: none
 		color: #fff
 	&:focus
