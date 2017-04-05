@@ -1,21 +1,22 @@
 ---
 layout: post
 title: Why Online Presence Sells Homes
-date: '2016-09-28T14:30:00.002-07:00'
+date: 2016-09-28 21:30:00
 author: Vyral Admin
 tags:
-- Home Seller Tips
+  - Home Seller Tips
 excerpt: What is the second most important part of the home selling process? How your home shows online. Here is how to make sure your home has a strong online presence.
-enclosure:
-pullquote: These days 93% of home buyers begin their search online.
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Doug+Elliott/Northern+Virginia+Real+Estate-+Does+your+home+appeal+to+online+buyers%253F.mp4'
+pullquote: 'These days 93% of home buyers begin their search online.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: XzIiLBC7Ozg
 ---
-{% include youtube.html %}
-Studies show that 93% of current buyers start their home search online, so your home needs to look great. If you’ve ever looked at houses online, you might have seen some really dark, hard-to-see photos out there. I saw one last week that was so dark, I couldn’t tell what room it was. All I could see was a dirty towel hanging on the wall, so I assumed it was a picture of the bathroom. It’s unbelievable that someone thought it was a good idea to post that photo online.
+
+
+{% include youtube.html %}Studies show that 93% of current buyers start their home search online, so your home needs to look great. If you’ve ever looked at houses online, you might have seen some really dark, hard-to-see photos out there. I saw one last week that was so dark, I couldn’t tell what room it was. All I could see was a dirty towel hanging on the wall, so I assumed it was a picture of the bathroom. It’s unbelievable that someone thought it was a good idea to post that photo online.
 
 In order to make your home show well online, you should have a home stager come in. If you’re working with a professional Realtor, they should pay for the home stager as part of the marketing expenses. The stager will come in and give you recommendations on how to best set up your home for professional photographs.
 
