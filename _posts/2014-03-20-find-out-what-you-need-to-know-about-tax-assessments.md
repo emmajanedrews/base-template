@@ -6,7 +6,7 @@ author: Vyral Admin
 tags:
   - buyer tips
 excerpt:
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Janet+Gresh/Northern+Virginia+Real+Estate+-+What+does+your+tax+assessment+mean%3F'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
