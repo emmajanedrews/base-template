@@ -6,7 +6,7 @@ author: Vyral Admin
 tags:
   - Northern Virginia Real Estate
 excerpt:
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Janet+Gresh/Northern+Virginia+Real+Estate+Agent+What+Good+Agents+Do+Behind+Your+Back.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
