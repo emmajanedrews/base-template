@@ -6,7 +6,7 @@ author: Vyral Admin
 tags:
   - Northern Virginia Real Estate Other
 excerpt:
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Janet+Gresh/Northern+Virginia+Real+Estate+-+What+real+estate+websites+don%2527t+want+you+to+know.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
