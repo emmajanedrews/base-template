@@ -93,7 +93,7 @@ images:
   hero_logo_path: /img/logo.png
   logo_width_number: 60
   hero_text: <br>
-  hero_background_hex: '#4E4A46'
+  hero_background_hex: '#F0EFED'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
