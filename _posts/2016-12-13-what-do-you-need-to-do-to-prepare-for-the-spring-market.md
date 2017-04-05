@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'What Do You Need to Do to Prepare for the Spring Market? '
-date: '2016-12-13T09:39:00.000-08:00'
+title: What Do You Need to Do to Prepare for the Spring Market?
+date: 2016-12-13 17:39:00
 author: Vyral Admin
 tags:
-- Home Seller Tips
-excerpt: If you are planning on selling in the spring, when do you need to start preparing? What are the first steps you need to take? We’ll go over everything today.
-enclosure:
+  - Home Seller Tips
+excerpt: 'If you are planning on selling in the spring, when do you need to start preparing? What are the first steps you need to take? We’ll go over everything today.'
+enclosure: 'http://elliottteamrealtors.blogspot.com/2016/12/what-do-you-need-to-do-to-prepare-for.html'
 pullquote: Call your Realtor at least a couple months ahead of time.
 enclosure_type: video/mp4
 enclosure_time:
@@ -14,8 +14,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: IDyWq-O07sg
 ---
-{% include youtube.html %}
-If you want to sell in the springtime, what are the first steps that you need to take? When do you need to take them?
+
+
+{% include youtube.html %}If you want to sell in the springtime, what are the first steps that you need to take? When do you need to take them?
 
 The very first thing you need to do is determine when the spring market begins. A lot of people operate under the misconception that the spring market starts in April and continues from there. The reality is that the spring market starts right after the Super Bowl weekend. So after the Redskins win the Super Bowl on February 5th, you want your house to be on the market on February 12th.
 
