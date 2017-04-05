@@ -6,7 +6,7 @@ author: Vyral Admin
 tags:
   - buyer tips
 excerpt:
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Janet+Gresh/Renters%2C+Listen+Up.+You+Can+Save+Money+by+Buying!.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
