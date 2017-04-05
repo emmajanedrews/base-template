@@ -16,6 +16,8 @@ youtube_code: d76icL_DCGg
 
 {% include youtube.html %}
 
+[Get a FREE INSTANT Value of your home](http://homevaluenova.com/)
+
 The latest numbers are in for the northern Virginia real estate market. I’m going to share them with you and show you how these numbers have changed from this time last year.
 
 There is a lot of data to go through, so for the sake of this post **we looked at three specific numbers (inventory, days on market, average sale price) in three specific counties (Fairfax, Loudoun, and Arlington).** Let’s start with Arlington County.
