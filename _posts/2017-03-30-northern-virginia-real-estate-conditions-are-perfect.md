@@ -4,7 +4,7 @@ title: Northern Virginia Real Estate Conditions Are Perfect
 tags:
   - Market Update
 excerpt: The latest numbers are in for the northern Virginia real estate market. I’m going to share them with you and show you how these numbers have changed from this time last year.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Doug+Elliott/Northern+Virginia+Real+Estate-+A+northern+Virginia+real+estate+update.mp4'
 pullquote: These are unique and historic conditions.
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,7 +16,7 @@ youtube_code: d76icL_DCGg
 
 {% include youtube.html %}
 
-[Get a FREE INSTANT Value of your home](http://homevaluenova.com/){:target="_blank"}
+[Get a FREE INSTANT Value of your home](http://homevaluenova.com/)
 
 The latest numbers are in for the northern Virginia real estate market. I’m going to share them with you and show you how these numbers have changed from this time last year.
 
