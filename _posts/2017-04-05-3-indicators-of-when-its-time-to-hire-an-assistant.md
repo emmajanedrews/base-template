@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "3 Indicators of When It's Time to Hire an Assistant"
-date:
+date: 2017-04-05 11:34:05
 tags:
 excerpt: How do you when the right time is to hire an assistant? We use these three indicators to make the decision.
 enclosure:
@@ -28,6 +28,6 @@ How will you know it's time to hire an assistant? **There are three qualifiers w
 
 {% include pullquote.html %}
 
-If any or all three of these qualifiers relate to you, it might be time to really think about whether you should hire an assistant. I can say with certainty that every time we've hired an assistant or agent to help us grow our business, we've never regretted it.&nbsp;
+If any or all three of these qualifiers relate to you, it might be time to really think about whether you should hire an assistant. I can say with certainty that every time we've hired an assistant or agent to help us grow our business, we've never regretted it.
 
 If you'd like to discuss these qualifiers further, I'd love to sit down and speak with you about your best course of action. Just give me a call or send me an email and we'll talk soon
