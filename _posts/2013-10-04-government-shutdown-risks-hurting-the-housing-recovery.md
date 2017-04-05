@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Government Shutdown Risks Hurting The Housing Recovery
-date: '2013-10-04T10:43:00.000-07:00'
+date: 2013-10-04 17:43:00
 author: Vyral Admin
 tags:
-- Northern Virginia Real Estate Special  Message
+  - Northern Virginia Real Estate Special  Message
 excerpt:
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Janet+Gresh/Government+Shutdown+Risks+Hurting+The+Housing+Recovery.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -14,8 +14,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: 9lcmKEmsIUI
 ---
-{% include youtube.html %}
-The government shutdown is here. Whether it’s not being able to get a new Social Security card or visit a national park, Americans will immediately feel the effects. But there’s one bright spot of the economy that stands to be affected as well: housing.
+
+
+{% include youtube.html %}The government shutdown is here. Whether it’s not being able to get a new Social Security card or visit a national park, Americans will immediately feel the effects. But there’s one bright spot of the economy that stands to be affected as well: housing.
 
 One of the biggest questions regarding the shutdown and how it will affect housing has revolved around the mortgage market, specifically prospective buyers’ access to new home loans. After all, more than 90% of all loan activity is underwritten, insured, or owned by the government and its affiliated entities.
 
