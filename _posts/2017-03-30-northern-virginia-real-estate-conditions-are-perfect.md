@@ -16,7 +16,7 @@ youtube_code: d76icL_DCGg
 
 {% include youtube.html %}
 
-**[Get a FREE INSTANT Value of your home](http://homevaluenova.com/)**
+**[Get a FREE INSTANT Value of your home](http://homevaluenova.com/)**{:target="_blank"}
 
 The latest numbers are in for the northern Virginia real estate market. I’m going to share them with you and show you how these numbers have changed from this time last year.
 
