@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 10 Reasons to List During the Holidays
-date: '2013-11-06T09:24:00.001-08:00'
+date: 2013-11-06 17:24:00
 author: Vyral Admin
 tags:
-- Northern Virginia Real Estate Seller Tips
+  - Northern Virginia Real Estate Seller Tips
 excerpt:
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Janet+Gresh/10+Reasons+to+List+During+the+Holidays.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -14,8 +14,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: zWvAZri1oQ8
 ---
-{% include youtube.html %}
-With the holiday season here, everyone wants to know whether now is the time to list their home or wait until the spring. The right time really depends on your situation. What are your needs?
+
+
+{% include youtube.html %}With the holiday season here, everyone wants to know whether now is the time to list their home or wait until the spring. The right time really depends on your situation. What are your needs?
 
 Selling during the winter months is a great idea. In fact, I have 10 reasons why you can be confident that your home will sell if you list now.
 
