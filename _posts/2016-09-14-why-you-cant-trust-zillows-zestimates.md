@@ -1,19 +1,22 @@
 ---
 layout: post
-title: Why You Can't Trust Zillow's Zestimates
-date: '2016-09-14T09:37:00.000-07:00'
+title: "Why You Can't Trust Zillow's Zestimates"
+date: 2016-09-14 16:37:00
 author: Vyral Admin
 tags:
-- Real Estate Tips
-enclosure:
-pullquote: A lot of people incorrectly think a Zestimate is their home's value.
+  - Home Buyer Tips
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Doug+Elliott/Northern+Virginia+Real+Estate-+Why+you+can%2527t+trust+a+Zestimate.mp4'
+pullquote: "A lot of people incorrectly think a Zestimate is their home's value."
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: EDJtdEcPfRQ
 ---
+
+
 {% include youtube.html %}
+
 Today I wanted to talk about the famous Zillow Zestimate. Are Zestimates accurate?
 
 I get this question all the time from clients when I go to meet them and they tell me what the Zestimate is on their home. Unfortunately, a lot of people think that this value is accurate and represents a true value of their home. What I wanted to share today is what the Zestimate really is, how it works, and what your expectations should be about it.
