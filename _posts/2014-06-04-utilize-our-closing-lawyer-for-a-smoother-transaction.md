@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Utilize our Closing Lawyer for a Smoother Transaction
-date: '2014-06-04T11:22:00.000-07:00'
+date: 2014-06-04 18:22:00
 author: Vyral Admin
 tags:
-- Northern Virginia Real Estate Other
+  - Northern Virginia Real Estate Other
 excerpt:
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Janet+Gresh/Northern+Virginia+Real+Estate+Agent-+How+to+avoid+messy+closings+with+settlement+companies.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -14,8 +14,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: q3ffOtoflpM
 ---
-{% include youtube.html %}
-Today I have invited a full service, real estate attorney, Susan Pesner with Pesner Kawamoto Law Firm, to speak with you about the difference between a settlement company with a lawyer available and a settlement company without a lawyer available.
+
+
+{% include youtube.html %}Today I have invited a full service, real estate attorney, Susan Pesner with Pesner Kawamoto Law Firm, to speak with you about the difference between a settlement company with a lawyer available and a settlement company without a lawyer available.
 
 Overall, it is always a better option to hire a settlement company with at least a lawyer available or a law firm like Susan's with settlement options. The main advantage with a law firm is that they can provide you with personal legal counsel and can interpret many different contracts for you. Many other companies have lawyers on staff while others simply outsource as needed but will remain neutral should a legal dispute arise. At the Gresh Group, we highly recommended those companies with at least 1 full time, employed lawyer on staff that we can connect directly with should an issue arise. (delete - Susan's office will work to make your settlement much easier and less painful, and they will fill you in on what is happening throughout the entire process.)
 
