@@ -173,25 +173,25 @@ $("#welcome-box-form").submit(function(event) {
 
 
 //fadein navbar
-$.support.transition = false;
-window.addEventListener("scroll", function() {
-    if (window.scrollY > 349) {
-        $('.navbar').removeClass('nav-start');
-        $('.navbar').addClass('scroll-nav-color');
-    }
-    else {
-        $('.navbar').removeClass('scroll-nav-color');
-    }
-},false);
+// $.support.transition = false;
+// window.addEventListener("scroll", function() {
+//     if (window.scrollY > 349) {
+//         $('.navbar').removeClass('nav-start');
+//         $('.navbar').addClass('scroll-nav-color');
+//     }
+//     else {
+//         $('.navbar').removeClass('scroll-nav-color');
+//     }
+// },false);
 //add back background color when on mobile and hamburger menu is toggled
-$('.navbar')
-   .on('shown.bs.collapse', function () {
-     $('.navbar').addClass('brand-color')
-		 $('.navbar').removeClass('nav-start');
-   })
-   .on('hidden.bs.collapse', function () {
-     $('.navbar').removeClass('brand-color')
-});
+// $('.navbar')
+//    .on('shown.bs.collapse', function () {
+//      $('.navbar').addClass('brand-color')
+// 		 $('.navbar').removeClass('nav-start');
+//    })
+//    .on('hidden.bs.collapse', function () {
+//      $('.navbar').removeClass('brand-color')
+// });
 });
 new Clipboard('.feedlink');
 
