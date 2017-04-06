@@ -9,8 +9,8 @@ enclosure: 'https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+
 pullquote: Interest rates have a big impact on buying power.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/heidi-phong-chia-ss3-24yt.jpg
 youtube_code: nkKouVLrbto
 ---
 
