@@ -1,7 +1,7 @@
 ---
 youtube_code: 'https://youtu.be/KVYTIxiiq98'
 excerpt: Selling your home for the first time doesn’t need to be difficult or stressful. Here are five tips to ensure that your first home sale goes off without a hitch.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Central+PA+Real+Estate+Agent-+5+incredible+tips+for+first-time+sellers.mp4'
 pullquote: Make sure your agent is a good fit for you overall.
 enclosure_type: video/mp4
 enclosure_time:
@@ -15,7 +15,7 @@ tags:
 ---
 
 
-{% include youtube.html %}&nbsp;
+{% include youtube.html %}
 
 Here are five incredible tips you can use as a first-time home seller to ensure a fast and lucrative home sale:
 
