@@ -17,7 +17,7 @@ youtube_code: uieM18rZdHY
 {% include youtube.html %}
 {: .present-before-paste}
 
-Today I’m here at the [Not Too Shabby Boutique](https://shopnottooshabby.com/), owned by Tony and Marisol Gullo. Marisol was recently chosen as the 2017 Artist of the Year! You can find Marisol’s artwork at the boutique along with many unique pieces.
+Today I’m here at the [Not Too Shabby Boutique](https://shopnottooshabby.com/){:target="_blank"}, owned by Tony and Marisol Gullo. Marisol was recently chosen as the 2017 Artist of the Year! You can find Marisol’s artwork at the boutique along with many unique pieces.
 {: .present-before-paste}
 
 “We are a one-stop shop,” says Tony. Tony and Marisol make custom pieces that you can’t get anywhere else. They use reclaimed wood for their pieces and sell upholstery by Four Seasons. You can also find Bella Notte Linens, pieces by Regina Andrew, and more from Aidan Gray Home.
