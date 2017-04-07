@@ -2938,3 +2938,8 @@ form select {
 
 .navbar-left > li > a:focus, .navbar-left > li > a:hover {
   background: none; }
+
+.cta2 {
+  border: 2px solid #B40101;
+  color: #B40101;
+  background: rgba(255, 255, 255, 0.5); }
