@@ -28,7 +28,7 @@ CTAs:
   first_CTA_URL: 'http://hbrteam.com/what-s-your-home-worth'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://hbrteam.com/search/criteria/gp_1/s_2'
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=d2b89d37ba
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
