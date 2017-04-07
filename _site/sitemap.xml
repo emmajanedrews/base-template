@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>localhost:4000/this-is-a-test-post.html</loc>
-<lastmod>2016-10-04T00:00:00-05:00</lastmod>
+<loc>localhost:4000/how-we-plan-on-donating-100000-to.html</loc>
+<lastmod>2017-03-23T13:33:00-05:00</lastmod>
 </url>
 <url>
-<loc>localhost:4000/a-fox-in-space.html</loc>
-<lastmod>2016-09-28T00:00:00-05:00</lastmod>
+<loc>localhost:4000/dont-wait-any-longer-to-sell-your-home.html</loc>
+<lastmod>2017-03-03T14:36:00-06:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/a-great-opportunity-for-local-business.html</loc>
+<lastmod>2017-02-17T10:59:00-06:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/why-now-might-be-better-time-to-sell.html</loc>
+<lastmod>2017-01-31T15:07:00-06:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/the-impact-of-rising-interest-rates-in.html</loc>
+<lastmod>2017-01-11T16:14:00-06:00</lastmod>
 </url>
 <url>
 <loc>localhost:4000/404.html</loc>

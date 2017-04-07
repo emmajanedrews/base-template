@@ -1,40 +1,44 @@
 audit_header: false
 title: -- CLIENT BRAND --
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: Testimonials
+    url: http://www.nateshomes.com/Client-Reviews
 
 client:
-  name:
+  name: Nate Martinez
   license_number:
   about_markdown: |
+    Nate has been selling real estate in the Valley of the Sun for nearly thirty years. He is the co-owner of RE/MAX Professionals, founded in 2001 and has six valley locations in Glendale, Surprise, Anthem, Arrowhead Ranch, Avondale, and Sun City West.
 
-  market:
-  brand:
+    Nate believes in education and giving back to the real estate industry. His designations include ABR, CRS, GRI, CDPE, CIAS, CLHS, CRP, e-PRO and SFR Each year, Nate attends numerous seminars and training events across the country. As a guest speaker, Nate has been able to train hundreds of real estate professionals, while also learning from some of the best agents in the industry.
+
+    When he is not working, Nate enjoys spending time with his fiance, Tonya, his two daughters, Brandi and Mila and his son Nathan Jr. He is an avid sports enthusiastic, loves attending concerts and practicing his golf swing. Nate's personal philosophy is a quote from the great Wayne Gretsky, "skate to where the puck is going, not where its been!"
+  market: Glendale
+  brand: RE/MAX Professionals
   brokerage:
-  address:
-  phone:
+  address: 7111 W. Bell Rd. Suite 101<br>Glendale, AZ 85308
+  phone: 602-942-7000
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: info@NatesHomes.com
+  url: http://nateshomes.com/
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.natemartinezteam.com/home-valuation/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
-  VR_form:
+  second_CTA_URL: http://www.natemartinezteam.com/
+  VR_form: http://oi.vresp.com?fid=39d9e3ccea
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: Looking to Buy a Home?
     CTA_text: Search the entire MLS for homes located in -- MARKET --.
     CTA_link_text: Home Search Tool
-    CTA_url: /homesearch/
+    CTA_url: http://www.natemartinezteam.com/
 
 lender:
   show_section: false
@@ -59,20 +63,20 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/NateMartinezTeam/
+  linkedin_url: http://www.linkedin.com/in/natemartinez
+  gplus_url: https://plus.google.com/110224445429180454577
+  youtube_url: https://www.youtube.com/user/natemartinez8
+  twitter_url: http://twitter.com/NateMartinez
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
+  zillow_url: http://www.zillow.com/profile/Nate-Martinez/
+  trulia_url: https://www.trulia.com/profile/nate-martinez-agent-glendale-az-zgwmjqkx/overview
+  yelp_url: https://www.yelp.com/biz/nate-martinez-re-max-professionals-glendale-2
   podcast_url:
 
 podcast:
-  title:
+  title: Glendale Real Estate Podcast with Nate Martinez
   categories: Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
@@ -81,7 +85,7 @@ podcast:
   author: '-- CLIENT NAME --'
 
 images:
-  client_headshot_path: /img/headshot.jpg
+  client_headshot_path: /img/headshot.png
   hero_logo_path: /img/logo.png
   logo_width_number: 40
   hero_text: Real Estate Video Blog

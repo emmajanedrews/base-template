@@ -1,122 +1,254 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title></title>
+    <title>Glendale Real Estate Podcast with Nate Martinez</title>
     <link>localhost:4000</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</description>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from RE/MAX Professionals - your professional Glendale Real Estate Agents.</description>
     <language>en</language>
-    <managingEditor></managingEditor>
-    <lastBuildDate>2017-03-30 13:41:33 -0500</lastBuildDate>
-    <media:copyright></media:copyright>
+    <managingEditor>Nate Martinez</managingEditor>
+    <lastBuildDate>2017-04-07 13:22:04 -0500</lastBuildDate>
+    <media:copyright>Nate Martinez</media:copyright>
     <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
-    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
+    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Glendale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
-      <itunes:email></itunes:email>
-      <itunes:name></itunes:name>
+      <itunes:email>info@NatesHomes.com</itunes:email>
+      <itunes:name>Nate Martinez</itunes:name>
     </itunes:owner>
-    <itunes:author></itunes:author>
+    <itunes:author>Nate Martinez</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="localhost:4000/img/podcast.jpg"/>
-    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the  Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</itunes:summary>
+    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Glendale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Glendale Area Real Estate Market</itunes:subtitle>
+    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from RE/MAX Professionals - your professional Glendale Real Estate Agents.</itunes:summary>
       <itunes:category text="News &amp; Politics"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>localhost:4000/this-is-a-test-post.html</link>
+        <title>How We Plan on Donating $100,000 to Charity in 2017</title>
+        <link>localhost:4000/how-we-plan-on-donating-100000-to.html</link>
         
-          <category>Market Update</category>
+          <category>Nate Martinez Real Estate Agent</category>
         
-          <category>Real Estate</category>
-        
-          <category>Home Seller Tips</category>
-        
-        <author></author>
-        <pubDate>2016-10-04 00:00:00 -0500</pubDate>
+        <author>Nate Martinez</author>
+        <pubDate>2017-03-23 13:33:00 -0500</pubDate>
         <guid></guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+Today, I want to talk to you about charitable contributions.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+Over the past 25 years, I’ve had the great pleasure being able to donate a portion of our team’s earned commissions to the Phoenix Children’s Hospital. Our office is involved in a lot of different charities—each agent has their own pet charity, if you will.
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+In addition to the Phoenix Children’s Hospital, we’ve gotten involved in the last year with a group called One Life Fully Lived, which is a group that reaches out to young adults and high school-aged kids in an effort to give them some guidance on their futures. We’re also a contributor to the Singleton Moms Foundation.
 
-“This is an example of a pull quote”
+“THIS YEAR, OUR GOAL IS TO GIVE BACK.”
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+One of our initiatives in 2017 is to give back. My goal is to donate $100,000 to charities. Instead of us picking a charity that we think is good to donate to, we will ask our sellers which charities they’re fond of and make donations to those charities in our clients’ names.
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+If you have any questions or you know some worthwhile charities that could use some help, please don’t hesitate to reach out to me. We’d love to speak with you.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
-        <itunes:author></itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:subtitle>
+
+Today, I want to talk to you about charitable contributions.
+
+</itunes:subtitle>
+        <itunes:author>Nate Martinez</itunes:author>
+        <itunes:summary>
+
+Today, I want to talk to you about charitable contributions.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Glendale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>A Fox in Space</title>
-        <link>localhost:4000/a-fox-in-space.html</link>
-        
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
+        <title>Dont Wait Any Longer to Sell Your Home in 2017</title>
+        <link>localhost:4000/dont-wait-any-longer-to-sell-your-home.html</link>
         
           <category>Home Seller Tips</category>
         
-        <author></author>
-        <pubDate>2016-09-28 00:00:00 -0500</pubDate>
+        <author>Nate Martinez</author>
+        <pubDate>2017-03-03 14:36:00 -0600</pubDate>
         <guid></guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+If you’ve been thinking about selling your house, I have four reasons why you should absolutely do it in 2017.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+The first reason you should sell your home right now is that mortgage rates are still low. Today, rates are at around 4%, but the NAR, Zillow, and other publications have stated that interest rates will probably climb to about 5% by the end of the year. With interest rates currently low, buyers can afford more house, which puts you in a better position to sell your home.
 
+Second, inventory is low and buyer demand is high. This combination of supply and demand provokes multiple offers on homes, which is great news for the seller as multiple offers result in top dollar for their home.
 
-  list item
-  list item
-  list item
-  list item
-  list item
+“WITH INTEREST RATES CURRENTLY LOW, BUYERS CAN AFFORD MORE HOUSE, WHICH PUTS YOU IN A BETTER POSITION TO SELL YOUR HOME.”
 
+Third, home prices have gone up. Over the last year, the NAR stated that homes prices rose by 6.8%. High home prices combined with low inventory creates a perfect storm for sellers.
 
+Lastly, the job market is improving nationwide, which means the economy is improving. This in turn is causing people to feel more comfortable making bigger purchases such as cars and homes.
 
-  list item
-  list item
-  list item
-  list item
-  list item
-
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+If you have any questions about the four reasons you should sell your home in 2017 or have any other real estate-related questions, please feel free to give me a call or send me an email. I look forward to hearing from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
-        <itunes:author></itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:subtitle>
+
+If you’ve been thinking about selling your house, I have four reasons why you should absolutely do it in 2017.
+
+</itunes:subtitle>
+        <itunes:author>Nate Martinez</itunes:author>
+        <itunes:summary>
+
+If you’ve been thinking about selling your house, I have four reasons why you should absolutely do it in 2017.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Glendale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
-    <copyright></copyright>
-    <media:credit role="author"></media:credit>
+      <item>
+        <title>A Great Opportunity for Local Business Owners</title>
+        <link>localhost:4000/a-great-opportunity-for-local-business.html</link>
+        
+          <category>Nate Martinez Real Estate Agent</category>
+        
+        <author>Nate Martinez</author>
+        <pubDate>2017-02-17 10:59:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+If you are a local business owner, I’d like to help you out by getting you more customers. I’ve been in the real estate business for over 30 years and have helped over 6,000 people buy a house in the Northwest Valley.
+
+With a large database of great past clients, I’d like to see if I can connect them to your business to help it grow. I’d love to sit down for breakfast, lunch, or coffee with you and learn a little bit more about you and your business.
+
+If it seems like a good fit, I’ll put your business in the referral directory I send out to all my past clients. I can then refer them to use your services and vice versa.
+
+“IF IT’S A GOOD FIT, I’LL PUT YOUR BUSINESS IN MY REFERRAL DIRECTORY.”
+
+One of my goals in 2017 is to have a deeper connection with all of you and make you part of my life by helping you grow your business. If you have any questions for me or you’d like to have lunch, don’t hesitate to reach out. Just give me a call or send me an email. I look forward to hearing from you.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+If you are a local business owner, I’d like to help you out by getting you more customers. I’ve been in the real estate business for over 30 years and have helped over 6,000 people buy a house in the Northwest Valley.
+
+</itunes:subtitle>
+        <itunes:author>Nate Martinez</itunes:author>
+        <itunes:summary>
+
+If you are a local business owner, I’d like to help you out by getting you more customers. I’ve been in the real estate business for over 30 years and have helped over 6,000 people buy a house in the Northwest Valley.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Glendale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Now Might Be a Better Time to Sell Than Spring</title>
+        <link>localhost:4000/why-now-might-be-better-time-to-sell.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Nate Martinez</author>
+        <pubDate>2017-01-31 15:07:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+Listing your home now might be a better idea than waiting until spring. Heres why.* 
+**Looking to buy a home? [Search All Homes](http://www.natemartinezteam.com/)****Looking to sell a home? [Get a FREE Home Value Report](http://www.natemartinezteam.com/home-valuation/)** 
+Is now a better time to sell your house than waiting until spring? 
+ 
+With the interest rate hike that we just witnessed, **buyers are entering the market now instead of waiting until spring to purchase a house.** Not only that, but our current inventory is extremely low, and the demand from buyers is extremely high. 
+ 
+
+Now is the right time to sell your house.       
+This makes our current market the perfect place to possibly get top dollar in a very short amount of time. 
+ 
+If you have any questions about current interest rates or what our market inventory looks like, please feel free to reach out to me. Id be happy to speak with you! to speak with you! 
+
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Listing your home now might be a better idea than waiting until spring. Heres why.* 
+**Looking to buy a home? [Search All Homes](http://www.natemartinezteam.com/)****Looking to sell a home? [Get a FREE Home Value Report](http://www.natemartinezteam.com/home-valuation/)** 
+Is now a better time to sell your house than waiting until spring? 
+ 
+With the interest rate hike that we just witnessed, **buyers are entering the market now instead of waiting until spring to purchase a house.** Not only that, but our current inventory is extremely low, and the demand from buyers is extremely high. 
+ 
+
+
+</itunes:subtitle>
+        <itunes:author>Nate Martinez</itunes:author>
+        <itunes:summary>
+
+Listing your home now might be a better idea than waiting until spring. Heres why.* 
+**Looking to buy a home? [Search All Homes](http://www.natemartinezteam.com/)****Looking to sell a home? [Get a FREE Home Value Report](http://www.natemartinezteam.com/home-valuation/)** 
+Is now a better time to sell your house than waiting until spring? 
+ 
+With the interest rate hike that we just witnessed, **buyers are entering the market now instead of waiting until spring to purchase a house.** Not only that, but our current inventory is extremely low, and the demand from buyers is extremely high. 
+ 
+
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Glendale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>The Impact of Rising Interest Rates in Our Phoenix Market</title>
+        <link>localhost:4000/the-impact-of-rising-interest-rates-in.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Nate Martinez</author>
+        <pubDate>2017-01-11 16:14:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+What’s happening with rising interest rates in our current market?
+
+In November, they were holding steady at 3.8%. That means if you borrowed $200,000 at that time, your monthly payment would have been roughly $931.
+
+As we move into the first quarter of 2017, prices have gone up. Interest rates have gone up as well. Hypothetically speaking, if the price goes up $10,000 on that $200,000 house and interest rates rise from 3.8% to 4.8%, your monthly payment would increase to $1,105. That’s $175 more you would have to pay each month.
+
+The Federal Reserve tells us that we will probably see additional increases in rates this year, so the sooner you can jump into the market and buy a house, the better off you will be. This is because your purchasing power as a buyer diminishes as rates rise.
+
+“THE SOONER YOU CAN BUY A HOUSE, THE BETTER.”
+
+For example, at a 3.75% interest rate, your monthly payment for a $300,000 house would be $1,389. If that rate rises a quarter of a point, the amount you could qualify for drops by 2.5% to $292,500, and your monthly payment would increase to $1,396. If the rate rises a full percentage point, the amount you could qualify for drops by 10% to $270,000, and your monthly payment would increase to $1,408.
+
+After a certain point, we should see a leveling off of the increase in home prices we’ve been experiencing here in the Phoenix area.
+
+If you’re in the market to buy or sell a home, please feel free to reach out to me by phone or email. I’d be happy to help!
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+What’s happening with rising interest rates in our current market?
+
+</itunes:subtitle>
+        <itunes:author>Nate Martinez</itunes:author>
+        <itunes:summary>
+
+What’s happening with rising interest rates in our current market?
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Glendale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+    <copyright>Nate Martinez</copyright>
+    <media:credit role="author">Nate Martinez</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</media:description>
+    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from RE/MAX Professionals - your professional Glendale Real Estate Agents.</media:description>
   </channel>
 </rss>
