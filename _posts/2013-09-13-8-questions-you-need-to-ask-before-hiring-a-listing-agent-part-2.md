@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 8 Questions You Need to Ask Before Hiring a Listing Agent Part 2
-date: '2013-09-13T13:26:00.000-07:00'
+date: 2013-09-13 20:26:00
 author: Vyral Admin
 tags:
-- Northern Virginia Real Estate Seller Tips
+  - Northern Virginia Real Estate Seller Tips
 excerpt:
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Janet+Gresh/What+Should+You+Ask+Your+Agent+When+Selling+Your+Home+Part+2.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -14,8 +14,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: u0kvUb4rJmA
 ---
-{% include youtube.html %}
-Hello, everyone. When you decide to sell your home, you want an agent with a proven track record of getting the job done. In the last part of this two part video series I talk about the last four questions you should ask a listing agent before hiring them.
+
+
+{% include youtube.html %}Hello, everyone. When you decide to sell your home, you want an agent with a proven track record of getting the job done. In the last part of this two part video series I talk about the last four questions you should ask a listing agent before hiring them.
 
 Are you an area specialist? Is my house in the area you specialize in?
 
