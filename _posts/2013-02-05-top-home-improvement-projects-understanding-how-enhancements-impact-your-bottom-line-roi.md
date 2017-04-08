@@ -1,29 +1,28 @@
 ---
 layout: post
-title: Top Home Improvement Projects; Understanding How Enhancements Impact Your Bottom
-  Line ROI
-date: '2013-02-05T09:21:00.001-08:00'
+title: Top Home Improvement Projects; Understanding How Enhancements Impact Your Bottom Line ROI
+date: 2013-02-05 17:21:00
 author: Vyral Admin
 tags:
-- Home Buyer Tips
+  - Home Buyer Tips
 excerpt:
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Janet+Gresh/Top+Home+Improvement+Projects.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: https://youtu.be/axZ6gg7U4Pk
+youtube_code: 'https://youtu.be/axZ6gg7U4Pk'
 ---
-{% include youtube.html %}
-Everyone needs to value and protect his or her assets, especially with the current economic situation. One of the best ways to do this is to maintain, manage and make strides toward constant betterment. In a house this can mean any number of things. Whether you choose to enhance an existing bedroom, extend your kitchen, install new flooring in the basement or even replace the garage door – all these and significant others – are excellent ways to strengthen the value of your property. With these home improvement projects, you will enjoy continued returns on the investment that you make in your most cherished asset.
+
+
+{% include youtube.html %}Everyone needs to value and protect his or her assets, especially with the current economic situation. One of the best ways to do this is to maintain, manage and make strides toward constant betterment. In a house this can mean any number of things. Whether you choose to enhance an existing bedroom, extend your kitchen, install new flooring in the basement or even replace the garage door – all these and significant others – are excellent ways to strengthen the value of your property. With these home improvement projects, you will enjoy continued returns on the investment that you make in your most cherished asset.
 
 How Does ROI Work?
 
 In real estate it is the formula that is used to compare the cost of remodeling projects with the value those projects will retain at resale. With a little time, energy and effort, you will undoubtedly get back lasting value, increased enjoyment and an enhanced return on your investment. In terms of home improvements, making adjustments to outdated areas of your home, will not only make the space more enjoyable to live in, but it will also increase the resale value of the property. So while it may seem costly to redo the entire kitchen cabinetry and countertops, the chance that you will recover most of the monies spent on the improvement are very high.
 
-Home Improvement Projects Yield Great Returns
-Kitchens
+Home Improvement Projects Yield Great ReturnsKitchens
 
 Since the kitchen is usually the area in a home that gets the most traffic, it is often one of the first aspects of a home that is judged during evaluation by buyers. Updated, modern and functional kitchens are an important selling feature. If yours is lacking in any of these areas, by embarking on a kitchen remodel project you will could see significant ROI. While the cost of improving a kitchen can be relatively high, the returns of as high as 72% make the initial investment bearable.
 
@@ -51,5 +50,4 @@ Structural Enhancements
 
 This is an often overlooked part of a home since it’s not really visible as much as the elements inside the house. As is the case with system-wide functions, the structural aspects are usually tended to when there is a need for major repairs. Prevention is one way to keep a roof, for example, in top condition and ready for any sudden burdens that may arise such as a storm. Siding is also important when determining a home's overall condition and one that cannot be ignored, especially when you plan to put your house on the market. The difference between having quality vinyl siding installed versus a less-than-desired state can be significant. With an ROI of as much as 70-80%, there is an excellent financial incentive to improve these areas as well.
 
-~
-No matter which area of your home you decide to improve, the results are unmistakable. Not only will the quality of your life be greatly enhanced but also when it does come time to sell, the value of your home will be significantly increased, giving you an exceptional ROI as a result of those home improvements.
+~No matter which area of your home you decide to improve, the results are unmistakable. Not only will the quality of your life be greatly enhanced but also when it does come time to sell, the value of your home will be significantly increased, giving you an exceptional ROI as a result of those home improvements.
