@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Most Frequently Asked Questions About Refinancing Your Home
-date: '2013-02-19T07:46:00.002-08:00'
+date: 2013-02-19 15:46:00
 author: Vyral Admin
 tags:
-- Homeowner Tips
+  - Homeowner Tips
 excerpt:
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Janet+Gresh/FAQs+About+Refinancing.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -14,8 +14,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: jFs1Kl77M-M
 ---
-{% include youtube.html %}
-Many people tend to oversee the fact that when interest rates are low, they have a significant impact on more than just people buying a home.  Low interest rates, in fact, have a HUGE impact on the overall cost on a mortgage so when people refinance their existing properties under lower rates it translates to thousands and thousands of dollars in savings.  Not only that, if these same homeowners who opt to have their homes refinanced also reduce the term on their mortgage, the savings are unprecedented.
+
+
+{% include youtube.html %}Many people tend to oversee the fact that when interest rates are low, they have a significant impact on more than just people buying a home.  Low interest rates, in fact, have a HUGE impact on the overall cost on a mortgage so when people refinance their existing properties under lower rates it translates to thousands and thousands of dollars in savings.  Not only that, if these same homeowners who opt to have their homes refinanced also reduce the term on their mortgage, the savings are unprecedented.
 
 To help explain some of the most widely asked aspects of the refinancing process, here is a list of questions and answers that shed light on the issues that will help you in determining whether refinancing is right for you.
 
@@ -51,5 +52,4 @@ What Documents Are Required For The Initial Consultation?
 
 In order to initiate the application process, people applying for a refinance should produce the last two paycheck stubs, W2 statements from the previous two years and the previous two months’ bank statements.
 
-~
-Regardless of if you are selling, refinance should be considered to be able to reduce monthly payments on a home.  This is also a good time for investors to cash in on the opportunity. For a customized assessment, it is advisable to consult with your Realtor.
+~Regardless of if you are selling, refinance should be considered to be able to reduce monthly payments on a home.  This is also a good time for investors to cash in on the opportunity. For a customized assessment, it is advisable to consult with your Realtor.
