@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Northern Virginia Market Update June 2013
-date: '2013-06-28T11:49:00.000-07:00'
+date: 2013-06-28 18:49:00
 author: Vyral Admin
 tags:
-- Northern Virginia Real Estate Market Update
+  - Northern Virginia Real Estate Market Update
 excerpt:
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Janet+Gresh/Janet+Gresh+-+Northern+VA+Market+Update+Summer+2013.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -14,8 +14,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: NRZCdZFMmF4
 ---
-{% include youtube.html %}
-The housing market in the Washington D.C. area and Northern Virginia has been booming! 
+
+
+{% include youtube.html %}The housing market in the Washington D.C. area and Northern Virginia has been booming!
 
 According to an article published by the Real Estate Business Intelligence, the median sale price today is over $30,000 higher than it was in May of 2012. Low inventory and a demand for homes have continued to put pressure on prices raising the median sales price in most of the DC metro area.
 
@@ -25,6 +26,6 @@ Inventory is very low despite the ‘recent surge in new listings.’ This is go
 
 ![](https://3.bp.blogspot.com/-W4UT1YKvYRI/Uc3a1m4GV3I/AAAAAAAAKrg/ANBOa9iAEsY/s1600/Janet+Gresh+2.jpg)
 
-[Click here to read the full article >>](http://www.rbintel.com/blog/dc-metro-prices-hit-record-may-high)
+[Click here to read the full article »](http://www.rbintel.com/blog/dc-metro-prices-hit-record-may-high)
 
 So if you are looking to sell your home or have any real estate questions, please call me at 703.963.5500.
