@@ -1,12 +1,12 @@
 ---
 layout: post
-title: What's the One Unbreakable Law of Real Estate?
-date: '2013-04-16T08:13:00.003-07:00'
+title: "What's the One Unbreakable Law of Real Estate?"
+date: 2013-04-16 15:13:00
 author: Vyral Admin
 tags:
-- Northern Virginia Real Estate
+  - Northern Virginia Real Estate
 excerpt:
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Janet+Gresh/The+One+Unbreakable+Law+of+Real+Estate.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -14,8 +14,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: oxzd4rqbZZo
 ---
-{% include youtube.html %}
-“Perform due diligence!” is the one law you should never break in any kind of real estate deal – residential, multi-occupant, or commercial!
+
+
+{% include youtube.html %}“Perform due diligence!” is the one law you should never break in any kind of real estate deal – residential, multi-occupant, or commercial!
 
 What is due diligence? It’s a common phrase for the evaluation of a property and its surrounding environment before you commit to buying it.
 
@@ -45,21 +46,7 @@ What Do Professional Inspectors Look For?
 
 Below are the items inspectors examine when they check a property:
 
-• Overall structural integrity
-• Property drainage/landscaping
-• Walks and drives
-• Foundation, footings, crawl space, basements, sub-flooring, decks
-• Exterior walls, siding, trim
-• Windows, doors, cabinets, counters
-• Gutters, downspouts
-• Roof, roof shingles, roof structures. chimneys, attic
-• Floors, walls, ceilings, etc.
-• HVAC systems
-• Plumbing systems, (fixtures, supply lines, drains, water heating devices, etc.)
-• Electrical system (wiring, service panel, devices, and service capacity
-• Energy conservation/safety Items
-• Insulation & ventilation
-• Moisture intrusion/mold
+• Overall structural integrity• Property drainage/landscaping• Walks and drives• Foundation, footings, crawl space, basements, sub-flooring, decks• Exterior walls, siding, trim• Windows, doors, cabinets, counters• Gutters, downspouts• Roof, roof shingles, roof structures. chimneys, attic• Floors, walls, ceilings, etc.• HVAC systems• Plumbing systems, (fixtures, supply lines, drains, water heating devices, etc.)• Electrical system (wiring, service panel, devices, and service capacity• Energy conservation/safety Items• Insulation & ventilation• Moisture intrusion/mold
 
 And, of course, we can’t forget the voracious appetites of….bugs!
 
@@ -67,8 +54,7 @@ Pest Control Inspection
 
 Depending on the area of the country in which you live, insects can cause a heckuva lot of damage to a property!
 
-I’m talking about such bugs as termites, carpenter ants, powder post beetles, and any other insect that likes to munch on wood. Then, there’s fungus, in the form of “dry rot.” It can also cause a lot of destruction.
-In such cases, you’ll need to hire the services of a specialist (pest control inspector) to examine the property.
+I’m talking about such bugs as termites, carpenter ants, powder post beetles, and any other insect that likes to munch on wood. Then, there’s fungus, in the form of “dry rot.” It can also cause a lot of destruction.In such cases, you’ll need to hire the services of a specialist (pest control inspector) to examine the property.
 
 If the operator identifies any problems, he or she should provide you with a diagram that pinpoints the location of the infestations. If serious problems exist, they need to be corrected immediately! The expense is usually paid for by the seller.
 
