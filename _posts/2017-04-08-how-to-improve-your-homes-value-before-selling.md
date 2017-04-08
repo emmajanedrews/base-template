@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Improve Your Home’s Value Before Selling
-date: 2-27-17
+date: 2017-04-08 06:00:00
 tags:
   - Home Seller Tips
 excerpt: There is a lot you can do to increase your home’s value prior to selling. Here are a few of our top tips.
