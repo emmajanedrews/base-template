@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Determine if the Neighborhood Value is There
-date: '2012-11-15T11:48:00.001-08:00'
+date: 2012-11-15 19:48:00
 author: Vyral Admin
 tags:
-- Home Seller Tips
+  - Home Seller Tips
 excerpt:
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Janet+Gresh/Neighborhood+Value.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -14,8 +14,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: hmWEzZLu7_8
 ---
-{% include youtube.html %}
-"Neighborhood value" is the atmosphere of a particular area - the look and feel of the homes and yards and so forth. But, more importantly, it's the "vibe" you receive from the neighbors.
+
+
+{% include youtube.html %}"Neighborhood value" is the atmosphere of a particular area - the look and feel of the homes and yards and so forth. But, more importantly, it's the "vibe" you receive from the neighbors.
 
 Let's be honest: You can buy the finest home on the planet, but obnoxious neighbors can spoil the whole living experience for you.
 
@@ -31,18 +32,7 @@ The Best Way to Evaluate a Neighborhood and Its Value
 
 The best way to evaluate a particular neighborhood is write up a checklist of desirable aspects before you ever enter that neighborhood!
 
-Below, I provide you with typical features (in alphabetical order) to check out. However, you should add as much detail as possible to that list since everyone has different needs and wants.
-• Association fees (if applicable)
-• Closeness to parks and recreation for the kids
-• Crime rate
-• Length of commute to work
-• Noisy pets (barking dogs, etc.)
-• Property taxes.
-• Proximity to busy streets or main thoroughfares.
-• Proximity to mall, shops, restaurants, etc.
-• Reputation of school district
-• Sidewalks and running trails throughout the neighborhood.
-• Type of families in the neighborhood, etc.
+Below, I provide you with typical features (in alphabetical order) to check out. However, you should add as much detail as possible to that list since everyone has different needs and wants.• Association fees (if applicable)• Closeness to parks and recreation for the kids• Crime rate• Length of commute to work• Noisy pets (barking dogs, etc.)• Property taxes.• Proximity to busy streets or main thoroughfares.• Proximity to mall, shops, restaurants, etc.• Reputation of school district• Sidewalks and running trails throughout the neighborhood.• Type of families in the neighborhood, etc.
 
 The list above has all the "objective" features of a neighborhood; that is, you can measure them, for the most part, by facts and figures.
 
