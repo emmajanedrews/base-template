@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 8 Questions You Need to Ask Before Hiring a Listing Agent Part 1
-date: '2013-09-04T09:40:00.001-07:00'
+date: 2013-09-04 16:40:00
 author: Vyral Admin
 tags:
-- Northern Virginia Real Estate Seller Tips
+  - Northern Virginia Real Estate Seller Tips
 excerpt:
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Janet+Gresh/What+Should+You+Ask+Your+Agent+When+Selling+Your+Home+Part+1.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -14,8 +14,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: 7oxkeyrV3Es
 ---
-{% include youtube.html %}
-Hello, everyone. When you decide to sell your home, you want an agent with a proven track record of getting the job done. I have a list of eight questions you should ask a listing agent before hiring them.
+
+
+{% include youtube.html %}Hello, everyone. When you decide to sell your home, you want an agent with a proven track record of getting the job done. I have a list of eight questions you should ask a listing agent before hiring them.
 
 How many homes did you sell last year?
 
@@ -23,7 +24,7 @@ Most people are unaware that the average realtor in our area only sells about 3-
 
 In how many of those transactions did you represent the buyer? In how many did you represent the seller?
 
-The average agent represents buyers 80 percent of the time and sellers only 20 percent of the time.  
+The average agent represents buyers 80 percent of the time and sellers only 20 percent of the time.
 
 Because we represent sellers 50 percent of the time and buyers 50 percent of the time, we have the experience and knowledge of how to sell your home more than most agents out there.
 
