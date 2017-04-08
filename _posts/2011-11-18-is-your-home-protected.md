@@ -1,21 +1,22 @@
 ---
 layout: post
 title: Is Your Home Protected?
-date: '2011-11-18T07:36:00.000-08:00'
+date: 2011-11-18 15:36:00
 author: Vyral Admin
 tags:
-- Real Estate
+  - Real Estate
 excerpt:
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Janet+Gresh/Janet+Gresh+Insurance+FAQs.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: https://youtu.be/BIUgGPZYXY0
+youtube_code: 'https://youtu.be/BIUgGPZYXY0'
 ---
-{% include youtube.html %}
-Car insurance - got it. Health insurance – yep, have that, too.  Home owners – of course. Life insurance – I think so.  Disability insurance – Maybe not.  Mortgage protection life insurance– now it’s getting confusing?
+
+
+{% include youtube.html %}Car insurance - got it. Health insurance – yep, have that, too.  Home owners – of course. Life insurance – I think so.  Disability insurance – Maybe not.  Mortgage protection life insurance– now it’s getting confusing?
 
 Before I go too far, let’s take just a moment to review what insurance is.  My favorite definition of insurance is: The substitution of a small known cost for a large uncertain cost
 
@@ -46,11 +47,6 @@ Disability Income Insurance
 
 Disability Income Insurance (DI) is designed to give you cash to replace part of your income in the event you become unable to work because of sickness or injury.  These policies typically have many “moving parts” and are not often well understood.  The amount of coverage one can get is limited by, among other thing, their current income.  When buying a DI policy, you must make a number of important decisions.  A good understanding of the contracts and how they work is extremely important.  Different companies define “disabled” differently.   This is important because you must meet their definition before they will pay a benefit.  Some companies use a definition something like “because of illness or injury, unable to perform the substantial duties of your job”.  Others may use “completely incapacitated”. To my mind, the latter is virtually useless.  A good broker will:
 
-• Understand the various contracts
-• Know which companies offer products that work well with your profession
-• Know how mental & nervous disorders are covered
-• Understand how the various companies will (or will not) penalize you for any given health condition.
-• Help you understand how much coverage you need for your situation
-These are complex policies and should be bought only with professional guidance.
+• Understand the various contracts• Know which companies offer products that work well with your profession• Know how mental & nervous disorders are covered• Understand how the various companies will (or will not) penalize you for any given health condition.• Help you understand how much coverage you need for your situationThese are complex policies and should be bought only with professional guidance.
 
 To learn more about disability insurance go to http://www.halfapaycheck.com/an824na/Default.aspx.
