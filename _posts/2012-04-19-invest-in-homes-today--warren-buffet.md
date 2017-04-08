@@ -1,21 +1,22 @@
 ---
 layout: post
 title: '"Invest in Homes Today"- Warren Buffet'
-date: '2012-04-19T13:48:00.000-07:00'
+date: 2012-04-19 20:48:00
 author: Vyral Admin
 tags:
-- Home Seller Tips
+  - Home Seller Tips
 excerpt:
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Janet+Gresh/Investing+in+Single+Family+Homes.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: https://youtu.be/W_YMTuZVeoE
+youtube_code: 'https://youtu.be/W_YMTuZVeoE'
 ---
-{% include youtube.html %}
-The news spread like wildfire.  No, it’s not another politician’s sex scandal or the latest (definitely not greatest) gas prices.  It is the monumental statement made by Warren Buffett that he would buy up “a couple hundred thousand” single-family homes.  The catch is that he would do that if it were something he could practically manage. He may not be able to practically manage it but individuals certainly can.
+
+
+{% include youtube.html %}The news spread like wildfire.  No, it’s not another politician’s sex scandal or the latest (definitely not greatest) gas prices.  It is the monumental statement made by Warren Buffett that he would buy up “a couple hundred thousand” single-family homes.  The catch is that he would do that if it were something he could practically manage. He may not be able to practically manage it but individuals certainly can.
 
 Think about that.  For months, if not more than that, countless Realtors have been urging their clients and potential clients that now is the perfect time to buy.  Now that it comes from one of the biggest investors of our time, it brings new light to the subject for many investors and has generated widespread industry buzz from the moment the billionaire uttered those words.
 
