@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Moving Out? In Today’s Real Estate Market, Which is Better, Renting or Selling?
-date: '2012-04-24T12:51:00.002-07:00'
+title: 'Moving Out? In Today’s Real Estate Market, Which is Better, Renting or Selling?'
+date: 2012-04-24 19:51:00
 author: Vyral Admin
 tags:
-- Real Estate
+  - Real Estate
 excerpt:
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Janet+Gresh/Rent+vs+Sell.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -14,9 +14,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: 3Wx9IbMBmMg
 ---
-{% include youtube.html %}
-Contrary to what many experts, news media or analysts may have you believe, market conditions are not as bad as they are portrayed.  In some areas inventory is down, prices are up and the general consensus is a positive one, moving up in a positive outlook for the future.  But the question does arise when one is moving from a home – whether selling it now or renting it to hold out for a better selling price makes more sense.  Here we’ve put together some considerations that will help you discern which is the better choice for you.
 
+
+{% include youtube.html %}Contrary to what many experts, news media or analysts may have you believe, market conditions are not as bad as they are portrayed.  In some areas inventory is down, prices are up and the general consensus is a positive one, moving up in a positive outlook for the future.  But the question does arise when one is moving from a home – whether selling it now or renting it to hold out for a better selling price makes more sense.  Here we’ve put together some considerations that will help you discern which is the better choice for you.
 
 Real Estate Is Always a Gamble, Now’s Not Any Different
 
