@@ -19,7 +19,7 @@ client:
   phone_type:
   phone2:
   phone2_type:
-  email: sales@TheGreshGroup.com
+  email: Sales@TheGreshGroup.com
   url: 'http://www.simplyyourbestmove.com'
 CTAs:
   first_CTA_text: Home Valuation
