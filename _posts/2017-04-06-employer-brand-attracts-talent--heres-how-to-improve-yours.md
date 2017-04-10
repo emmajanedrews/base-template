@@ -24,7 +24,7 @@ There are three specific tools you can use to strengthen your brand as an employ
 
 **2. Utilize social media:&nbsp;**Most companies have a website to showcase themselves as employers, but companies that do very well with branding have other avenues. To attract top talent, organizations should have a company Facebook page, Twitter handle, and YouTube channel to give updates and showcase the culture. This could include awards you've won or fun things going on.
 
-1. **A company LinkedIn page:** This falls under social media as well, but it's also where a lot of talent is and where they spend a lot of time. Your company LinkedIn page should always be up to date with current openings as well as company news. Keep it relevant to stay ahead of the curve.
+**3. A company LinkedIn page:** This falls under social media as well, but it's also where a lot of talent is and where they spend a lot of time. Your company LinkedIn page should always be up to date with current openings as well as company news. Keep it relevant to stay ahead of the curve.
 
 If you have any other questions about how to boost your employer brand, don't hesitate to reach out to us. We'd love to hear from you.
 <br>&nbsp;
