@@ -18,9 +18,9 @@ youtube_code: cEclj9Ie7lQ
 
 What happens during the home closing process and what does that mean to you as a buyer or seller?
 
-**First of all, how long does the closing process actually take?**Unless a home is being purchased with cash, it takes an average of 30 to 40 days to close. If a home is being bought with cash, then the closing process may happen much faster.
+**First of all, how long does the closing process actually take?&nbsp;**Unless a home is being purchased with cash, it takes an average of 30 to 40 days to close. If a home is being bought with cash, then the closing process may happen much faster.
 
-Ultimately, the lender will dictate how quickly the transaction will close. It’s essential that a buyer be pre-approved before they make an offer to a seller. A pre-approval does a couple of things. First, as a buyer, it strengthens your offer. The pre-approval shows that a lender has checked your credit report, verified your employment, and looked at your bank accounts. From the seller’s perspective, accepting a pre-qualified offer gives you more security and peace of mind because the buyer is more likely to close.
+Ultimately, the lender will dictate how quickly the transaction will close. It’s essential that a buyer is pre-approved before they make an offer to a seller. A pre-approval does a couple of things. First, as a buyer, it strengthens your offer. The pre-approval shows that a lender has checked your credit report, verified your employment, and looked at your bank accounts. From the seller’s perspective, accepting a pre-qualified offer gives you more security and peace of mind because the buyer is more likely to close.
 
 {% include pullquote.html %}
 
