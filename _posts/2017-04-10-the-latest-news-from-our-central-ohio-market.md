@@ -35,4 +35,4 @@ In desirable areas where there is a lot of competition and low inventory, buyers
 
 If you’re a seller, make sure you talk to a real estate agent you know and trust so you understand your home’s value and what your best strategy is moving forward.
 
-<br>As always, if you’re looking to buy or sell real estate, please don’t hesitate to reach out to us. We would love to be your top choice.
+As always, if you’re looking to buy or sell real estate, please don’t hesitate to reach out to us. We would love to be your top choice.
