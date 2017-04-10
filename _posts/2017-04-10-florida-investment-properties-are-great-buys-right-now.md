@@ -8,7 +8,7 @@ enclosure: 'https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coas
 pullquote: You can buy with today’s prices and rates before they go up further.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image:
 youtube_code: ty9rfwzX7pU
 ---
@@ -16,7 +16,7 @@ youtube_code: ty9rfwzX7pU
 
 {% include youtube.html %}
 
-Tax season is here, folks. You’ve probably already submitted your documents, but if you want to get a head start on next year, you should consider investing in a property here in Florida.&nbsp;
+Tax season is here, folks. You’ve probably already submitted your documents, but if you want to get a head start on next year, you should consider investing in a property here in Florida.
 
 Investing in real estate continues to be one of the best way to cut taxes and built wealth. Tax benefits from income-producing properties include the ability to recover costs, depreciation deductions, and using a 1031 exchange for deferring profits from your investments.
 
