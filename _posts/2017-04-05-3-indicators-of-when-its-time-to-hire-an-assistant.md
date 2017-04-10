@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "3 Indicators of When It's Time to Hire an Assistant"
-date: 2017-04-05 11:34:05
+date: 2017-04-05 11:34:00
 tags:
 excerpt: How do you when the right time is to hire an assistant? We use these three indicators to make the decision.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/Central+PA+Real+Estate+Agent-+3+signs+that+it%2527s+time+to+hire+an+assistant.mp4'
 pullquote: "Your transaction count can be a good indicator that it's time to hire an assistant."
 enclosure_type: video/mp4
 enclosure_time:
