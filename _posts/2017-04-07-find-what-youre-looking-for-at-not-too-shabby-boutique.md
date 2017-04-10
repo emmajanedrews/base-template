@@ -32,5 +32,5 @@ Although Not Too Shabby has been around for 17 years, they moved into this plaza
 If you need to furnish your new home or if you need furniture for a rental property, make sure you check out Not Too Shabby. You will be amazed at the variety of furniture and art pieces here that you can use to create a unique look.
 {: .present-before-paste}
 
-If you have any questions for Tony or Marisol, you can contact them [here](https://shopnottooshabby.com/pages/contact-us). As always, if you have any real estate questions, just give me a call or send me an email. I would be happy to help you!
+If you have any questions for Tony or Marisol, you can contact them [here](https://shopnottooshabby.com/pages/contact-us){:target="_blank"}. As always, if you have any real estate questions, just give me a call or send me an email. I would be happy to help you!
 {: .present-before-paste}
