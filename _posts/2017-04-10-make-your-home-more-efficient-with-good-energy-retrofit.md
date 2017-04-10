@@ -24,10 +24,10 @@ They start by running a full assessment on the home. They come in with a blower 
 
 {% include pullquote.html %}
 
-While every home is different, **insulation is the number one thing you can look at** to improve your home’s energy efficiency. Most homes only have three to six inches of insulation when they need 13 to 16 inches of insulation. Your mom tells you to make sure you wear your hat—well, insulation is your home’s hat.
+While every home is different, **insulation is the No. 1 thing you can look at** to improve your home’s energy efficiency. Most homes only have three to six inches of insulation when they need 13 to 16 inches of insulation. Your mom tells you to make sure you wear your hat—well, insulation is your home’s hat.
 
 When it comes to mechanical systems, instead of upgrading your furnace to an 80% efficient furnace, get the 95% efficient furnace. It will make a big difference in your home overall.
 
 Windows can also make a difference. Window companies make you think that replacing windows is the first thing you should do, but that’s not always the case. Most of the time, the first thing you should do is look at your insulation. Still, windows can make a big difference. You may also want to consider upgrading to a ductless heat pump if you have electric baseboards or use window AC units. **The ductless heat pump can lower your house’s energy usage by two-thirds!** They are Kris’ favorite product.
 
-If you have any questions for Kris or if you are interested in an assessment of your home, you can contact her here. As always, if you have any real estate questions, don’t hesitate to reach out to me. We would be happy to help you!
+If you have any questions for Kris or if you are interested in an assessment of your home, you can [**contact her here**.](https://www.goodenergyretrofit.com/contact/) As always, if you have any real estate questions, don’t hesitate to reach out to me. We would be happy to help you!
