@@ -2,12 +2,10 @@
 layout: post
 title: This Program Will Assist You With Your Down Payment
 tags:
-  - Market Update
   - Real Estate
   - Buyer Tips
-  - Home Seller Tips
 excerpt: 'If you lack the funds for a down payment but still want to buy a home, I’ve got some great news.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Greater+Toronto+Group/Greater+Toronto+Group-+Great+news+for+would-be+homebuyers.mp4'
 pullquote: There’s great news for would be homebuyers who lack the funds for down payment.
 enclosure_type: video/mp4
 enclosure_time:
@@ -30,5 +28,3 @@ There’s actually a new report that details exactly how this program will help 
 To get all the details on this program and find out how you can purchase a home without a large down payment, order a copy of the report today by going to **[www.littleorocash.com](http://www.littleorocash.com/)**
 
 If you have any other questions, please don’t hesitate to give us a call or send us an email. We look forward to hearing from you!
-
-&nbsp;
