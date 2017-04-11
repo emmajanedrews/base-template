@@ -11,7 +11,7 @@ layout: post
 title: " Today's Competitive Market "
 date: '2013-03-29T12:37:00.000-07:00'
 author: Vyral Admin
-tags:
+tags: Burbank Market Updates
 modified_time: '2013-03-29T12:37:40.963-07:00'
 thumbnail: https://img.youtube.com/vi/CH3qAu29Tuk/default.jpg
 blogger_id: tag:blogger.com,1999:blog-1172076802032175464.post-3495208650315967425
