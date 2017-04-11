@@ -1,25 +1,24 @@
 ---
 youtube_code: NtSBE4-d8gA
-excerpt:
-enclosure:
+excerpt: "Tune in to ABC's and CNBC’s Shark Tank to see Brad side-by-side with real estate magnate Barbara Corcoran."
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Brad+Korb/Brad+Korb+on+Shark+Tank+(1).mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
-title: Tune in to ABC's and CNBC’s Shark Tank to see Brad with real estate magnate
-  Barbara Corcoran
-date: '2014-11-11T09:00:00.002-08:00'
+title: "Tune in to ABC's and CNBC’s Shark Tank to see Brad with real estate magnate Barbara Corcoran"
+date: 2014-11-11 17:00:00
 author: Vyral Admin
 tags:
-- Other
-modified_time: '2014-11-13T11:55:36.731-08:00'
-blogger_id: tag:blogger.com,1999:blog-1172076802032175464.post-2740083712846442519
-blogger_orig_url: http://bradkorb.blogspot.com/2014/11/shark-tanks-barbara-corcoran.html
+modified_time:
+blogger_id: 'tag:blogger.com,1999:blog-1172076802032175464.post-2740083712846442519'
+blogger_orig_url: 'http://bradkorb.blogspot.com/2014/11/shark-tanks-barbara-corcoran.html'
 ---
-{% include youtube.html %}
-Tune in to ABC's and CNBC’s Shark Tank to see Brad side-by-side with real estate magnate Barbara Corcoran.
+
+
+{% include youtube.html %}Tune in to ABC's and CNBC’s Shark Tank to see Brad side-by-side with real estate magnate Barbara Corcoran.
 
 Corcoran is Shark Tank’s resident real estate mogul and a prominent self-made multi-millionaire. She is now endorsing a select few of the best real estate minds in the country, Brad being included. Brad will appear in a commercial airing in several episodes throughout the season.
 
