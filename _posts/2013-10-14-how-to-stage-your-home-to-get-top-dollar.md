@@ -1,7 +1,7 @@
 ---
 youtube_code: xgJyTMNCdLg
 excerpt:
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Brad+Korb/How+to+Stage+Your+Home+to+get+Top+Dollar.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -9,15 +9,16 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: How to Stage Your Home to Get Top Dollar
-date: '2013-10-14T09:49:00.001-07:00'
+date: 2013-10-14 16:49:00
 author: Vyral Admin
-tags: L.A. Real Estate Seller Tips
-modified_time: '2013-10-14T09:49:15.330-07:00'
-blogger_id: tag:blogger.com,1999:blog-1172076802032175464.post-1351326342524744544
-blogger_orig_url: http://bradkorb.blogspot.com/2013/10/how-to-stage-your-home-to-get-top-dollar.html
+tags:
+modified_time:
+blogger_id: 'tag:blogger.com,1999:blog-1172076802032175464.post-1351326342524744544'
+blogger_orig_url: 'http://bradkorb.blogspot.com/2013/10/how-to-stage-your-home-to-get-top-dollar.html'
 ---
-{% include youtube.html %}
-Welcome back! If you’re getting your home ready to sell, it’s important to know how to appeal to buyers. What is it that they want to see when they view your home? Here are four important elements of preparing your home.
+
+
+{% include youtube.html %}Welcome back! If you’re getting your home ready to sell, it’s important to know how to appeal to buyers. What is it that they want to see when they view your home? Here are four important elements of preparing your home.
 
 1. Curb Appeal. The front of your home is the first impression buyers have. Make sure you have a well-kept lawn, plant some new flowers and if needed, put on a fresh coat of paint.
 2. Lighting. Buyers want a bright home. Put the maximum wattage light bulbs in and open all the shades and curtains.
