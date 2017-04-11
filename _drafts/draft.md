@@ -16,7 +16,7 @@ youtube_code: _EDc2KmcW-o
 
 {% include youtube.html %}
 
-Today we’re back with Nick Street, the branch manager at Mountain West Financial, to go over some important advice for homebuyers. You can check out the first part of our conversation **[here.](http://heidiphong.com/part-1-of-our-sit-down-with-nick-street.html)**
+Today we’re back with Nick Street, the branch manager at Mountain West Financial, to go over some important advice for homebuyers. You can check out the first part of our conversation **[here.](http://heidiphong.com/part-1-of-our-sit-down-with-nick-street.html){:target="_blank"}**
 <br>
 <br>There is a large percentage of first-time buyers in our current market. Nick says that there are many loan programs available for first-time buyers, but some are shrinking and some are changing. What’s available today might not be available tomorrow.
 <br>
