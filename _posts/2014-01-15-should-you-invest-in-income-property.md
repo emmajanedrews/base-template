@@ -12,12 +12,7 @@ title: Should you invest in an income property?
 date: '2014-01-15T09:33:00.002-08:00'
 author: Vyral Admin
 tags:
-- new homes in burbank ca
-- real estate burbank
-- burbank ca real estate listings
-- burbank california real estate
-- burbank real estate mls
-- burbank real estate listings
+- L.A. Real Estate Investment 
 modified_time: '2014-01-17T14:53:58.453-08:00'
 blogger_id: tag:blogger.com,1999:blog-1172076802032175464.post-7304564277618975387
 blogger_orig_url: http://bradkorb.blogspot.com/2014/01/should-you-invest-in-income-property.html
