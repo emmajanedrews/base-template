@@ -11,13 +11,7 @@ layout: post
 title: Our New Sales Manager Courtney Korb Shares Her First-Time Home Buyer Tips
 date: '2014-02-06T14:15:00.001-08:00'
 author: Vyral Admin
-tags:
-- new homes in burbank ca
-- real estate burbank
-- home buying tips
-- real estate burbank ca
-- first time home buyer
-- real estate listings
+tags: L.A. Real Estate Buyer Tips
 modified_time: '2014-02-06T15:16:09.088-08:00'
 blogger_id: tag:blogger.com,1999:blog-1172076802032175464.post-4121587644010854363
 blogger_orig_url: http://bradkorb.blogspot.com/2014/02/first-time-home-buyer-home-buying-tips.html
