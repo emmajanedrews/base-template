@@ -1,7 +1,7 @@
 ---
 youtube_code: p75AkuTBxGo
 excerpt:
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Brad+Korb/L.A.+Real+Estate-+Buy+a+Home+Now+to+Save+Thousands+this+Tax+Season.mp4'
+enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
