@@ -12,13 +12,8 @@ title: Should You Sell During the Holiday Season?
 date: '2013-11-15T15:27:00.003-08:00'
 author: Vyral Admin
 tags:
-- new homes in burbank ca
-- real estate burbank
-- burbank ca real estate listings
-- real estate burbank ca
-- burbank real estate mls
-- real estate listings
-- burbank real estate listings
+- L.A. Real Estate Seller Tips
+- Holiday Tips
 modified_time: '2013-11-15T15:33:40.551-08:00'
 blogger_id: tag:blogger.com,1999:blog-1172076802032175464.post-2951365613855787528
 blogger_orig_url: http://bradkorb.blogspot.com/2013/11/should-you-sell-during-holiday-season.html
