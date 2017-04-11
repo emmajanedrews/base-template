@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title></title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <title>Burbank Real Estate Podcast with Brad Korb</title>
+    <link>lasells.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="lasells.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Brad Korb Real Estate Group - your professional Burbank Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Brad Korb</managingEditor>
-    <lastBuildDate>2017-04-05 13:28:00 -0500</lastBuildDate>
+    <lastBuildDate>2017-04-11 17:20:28 -0500</lastBuildDate>
     <media:copyright>Brad Korb</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="lasells.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
@@ -18,21 +18,48 @@
     </itunes:owner>
     <itunes:author>Brad Korb</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="lasells.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Burbank Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Brad Korb Real Estate Group - your professional Burbank Real Estate Agents.</itunes:summary>
       <itunes:category text="News &amp; Politics"/>
     
       <item>
-        <title>How Rising Rates Impact Our Market </title>
-        <link>localhost:4000/la-real-estate-agent-how-interest-rates.html</link>
+        <title>You Don’t Need as Much for a Down Payment as You Think</title>
+        <link>lasells.com/you-dont-need-as-much-for-a-down-payment-as-you-think.html</link>
         
-          <category>L.A. Real Estate Market Update</category>
+          <category>L.A Home Buyer Tips</category>
+        
+        <author>Brad Korb</author>
+        <pubDate>2017-04-11 08:48:08 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Large+down+payments+arent+necessary.mp4</guid>
+        <description>
+
+I’ve talked to a lot of first-time homebuyers recently that are under the impression that they need to save up a lot of money for their down payment. You should know that there are plenty of down payment options out there for different loans.
+
+You don’t need 10% or 20% to purchase a home. In fact, you can get into a home with FHA financing for just 3.5% down. Rather than saving for years to get to that level, let’s talk about getting you into a home now so you can start looking sooner rather than later and lock in a low rate with a low down payment.
+
+“You don’t need 20%; you only need 3.5%.”
+
+If you have any questions for me or want to hear more about the different financing options out there, give me a call or send me an email. I look forward to hearing from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Large+down+payments+arent+necessary.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Large+down+payments+arent+necessary.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>It’s not necessary to save 20% for a down payment. There are a lot of loan programs where you can get into a home for much cheaper.</itunes:subtitle>
+        <itunes:author>Brad Korb</itunes:author>
+        <itunes:summary>It’s not necessary to save 20% for a down payment. There are a lot of loan programs where you can get into a home for much cheaper.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Rising Rates Impact Our Market</title>
+        <link>lasells.com/how-rising-rates-impact-our-market.html</link>
         
         <author>Brad Korb</author>
         <pubDate>2017-01-30 13:11:00 -0600</pubDate>
-        <guid>Interest rates have been on the rise and are expected to increase three more times in 2017. How has this impacted our market?</guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+How+Interest+Rates+Have+Impacted+Our+Market.mp4</guid>
         <description>What’s going on in the market now that interest rates have gone up?
 
 Since the election ended, rates have jumped up. The Fed is talking about raising rates three more times throughout 2017.
@@ -43,29 +70,23 @@ There is light inventory right now, which is beneficial to home sellers. If you�
 
 If you have any other questions about our current market, just give me a call or send me an email. I would be happy to help you!
 </description>
-        <enclosure url="Interest rates have been on the rise and are expected to increase three more times in 2017. How has this impacted our market?" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="Interest rates have been on the rise and are expected to increase three more times in 2017. How has this impacted our market?" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+How+Interest+Rates+Have+Impacted+Our+Market.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+How+Interest+Rates+Have+Impacted+Our+Market.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>What’s going on in the market now that interest rates have gone up?
-
-</itunes:subtitle>
+        <itunes:subtitle>Interest rates have been on the rise and are expected to increase three more times in 2017. How has this impacted our market?</itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
-        <itunes:summary>What’s going on in the market now that interest rates have gone up?
-
-</itunes:summary>
+        <itunes:summary>Interest rates have been on the rise and are expected to increase three more times in 2017. How has this impacted our market?</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Help Us Donate to Toys for Tots This Winter</title>
-        <link>localhost:4000/la-real-estate-agent-its-time-to-donate_29.html</link>
-        
-          <category>L.A. Real Estate Holiday Cheer</category>
+        <link>lasells.com/help-us-donate-to-toys-for-tots-this-winter.html</link>
         
         <author>Brad Korb</author>
         <pubDate>2016-11-29 16:23:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+It%2527s+Time+to+Donate+to+Toys+for+Tots.mp4</guid>
         <description>
 
 I just wanted to drop by and send you a quick reminder today.
@@ -76,33 +97,23 @@ Stop by our office before December 16th and drop off any new, unwrapped toys tha
 
 In the meantime, if you have any questions related to real estate in our area, give me a call or send me an email anytime. I look forward to hearing from you soon!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+It%2527s+Time+to+Donate+to+Toys+for+Tots.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+It%2527s+Time+to+Donate+to+Toys+for+Tots.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-I just wanted to drop by and send you a quick reminder today.
-
-</itunes:subtitle>
+        <itunes:subtitle>If you’d like to help keep a child happy this holiday season, I’ve got some good news to share with you. This year, our office will be accepting donations for Toys for Tots!</itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
-        <itunes:summary>
-
-I just wanted to drop by and send you a quick reminder today.
-
-</itunes:summary>
+        <itunes:summary>If you’d like to help keep a child happy this holiday season, I’ve got some good news to share with you. This year, our office will be accepting donations for Toys for Tots!</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Join Us and Give Back This Thanksgiving and Holiday Season</title>
-        <link>localhost:4000/la-real-estate-agent-van-full-of-turkeys.html</link>
-        
-          <category>L.A. Real Estate Holiday Cheer</category>
+        <link>lasells.com/join-us-and-give-back-this-thanksgiving-and-holiday-season.html</link>
         
         <author>Brad Korb</author>
         <pubDate>2016-11-15 15:52:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Join+Us+and+Give+Back+This+Holiday+Season.mp4</guid>
         <description>
 
 We just wanted to reach out to you today to wish you and your family a very happy Thanksgiving. Today we have a short video to share with you of our time helping out the Burbank Temporary Aid Center.
@@ -113,33 +124,23 @@ We help The Burbank Temporary Aid Center out year round, and you can too. They a
 
 Here at the Brad Korb Real Estate Group we are so thankful for the support from our friends and family. We invite you to join us in giving thanks and give back this year. For more information about the Burbank Temporary Aid Center and how to donate today, check out their website here. If you have any other questions, please feel free to give us a call or send us an email. Thanks, and have a happy Thanksgiving!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Join+Us+and+Give+Back+This+Holiday+Season.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Join+Us+and+Give+Back+This+Holiday+Season.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-We just wanted to reach out to you today to wish you and your family a very happy Thanksgiving. Today we have a short video to share with you of our time helping out the Burbank Temporary Aid Center.
-
-</itunes:subtitle>
+        <itunes:subtitle>We just wanted to reach out to you today to wish you and your family a very happy Thanksgiving. Today we have a short video to share with you of our time helping out the Burbank Temporary Aid Center.</itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
-        <itunes:summary>
-
-We just wanted to reach out to you today to wish you and your family a very happy Thanksgiving. Today we have a short video to share with you of our time helping out the Burbank Temporary Aid Center.
-
-</itunes:summary>
+        <itunes:summary>We just wanted to reach out to you today to wish you and your family a very happy Thanksgiving. Today we have a short video to share with you of our time helping out the Burbank Temporary Aid Center.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>How Accurate Are Zillow’s Zestimates?</title>
-        <link>localhost:4000/la-real-estate-agent-truth-about-zillow.html</link>
-        
-          <category>L.A. Real Estate Sellers Tips</category>
+        <link>lasells.com/how-accurate-are-zillows-zestimates.html</link>
         
         <author>Brad Korb</author>
         <pubDate>2016-09-29 14:21:00 -0500</pubDate>
-        <guid>Today we want to discuss Zillow Zestimates, both what they mean for your property and how you should consider them when pricing your home.</guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+The+Truth+About+Zillow.mp4</guid>
         <description>
 
 How accurate are Zestimates? Most of the time, not very. They’re basically a computer program designed to give you a ballpark figure of what the property is worth in today’s market.
@@ -152,33 +153,23 @@ What goes into pricing your home and why is it important to be accurate? To sell
 
 Click on the link above if you would like a free market analysis. If you have any questions about Zillow or anything regarding real estate, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.
 </description>
-        <enclosure url="Today we want to discuss Zillow Zestimates, both what they mean for your property and how you should consider them when pricing your home." length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="Today we want to discuss Zillow Zestimates, both what they mean for your property and how you should consider them when pricing your home." type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+The+Truth+About+Zillow.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+The+Truth+About+Zillow.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-How accurate are Zestimates? Most of the time, not very. They’re basically a computer program designed to give you a ballpark figure of what the property is worth in today’s market.
-
-</itunes:subtitle>
+        <itunes:subtitle>How accurate are Zestimates? Most of the time, not very. They’re basically a computer program designed to give you a ballpark figure of what the property is worth in today’s market.</itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
-        <itunes:summary>
-
-How accurate are Zestimates? Most of the time, not very. They’re basically a computer program designed to give you a ballpark figure of what the property is worth in today’s market.
-
-</itunes:summary>
+        <itunes:summary>How accurate are Zestimates? Most of the time, not very. They’re basically a computer program designed to give you a ballpark figure of what the property is worth in today’s market.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>How We Helped Chris with Real Estate Investments</title>
-        <link>localhost:4000/la-real-estate-agent-your-resource-for.html</link>
-        
-          <category>Brad Korb reviews</category>
+        <link>lasells.com/how-we-helped-chris-with-real-estate-investments.html</link>
         
         <author>Brad Korb</author>
         <pubDate>2016-09-16 12:27:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Your+Resource+for+Investment+Properties.mp4</guid>
         <description>
 
 I have worked with so many wonderful clients over the years, including Chris Cannon. Today, I wanted to share Chris’s story with you all:
@@ -189,33 +180,25 @@ I have worked with so many wonderful clients over the years, including Chris Can
 
 If you have any questions about real estate or are interested in working with us, please give us a call or send us an email. My team and I would be happy to help you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Your+Resource+for+Investment+Properties.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Your+Resource+for+Investment+Properties.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-I have worked with so many wonderful clients over the years, including Chris Cannon. Today, I wanted to share Chris’s story with you all:
-
-</itunes:subtitle>
+        <itunes:subtitle>I have worked with so many wonderful clients over the years, including Chris Cannon. Today, I wanted to share Chris’s story with you all:  “We first met Brad in 2002...</itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
-        <itunes:summary>
-
-I have worked with so many wonderful clients over the years, including Chris Cannon. Today, I wanted to share Chris’s story with you all:
-
-</itunes:summary>
+        <itunes:summary>I have worked with so many wonderful clients over the years, including Chris Cannon. Today, I wanted to share Chris’s story with you all:  “We first met Brad in 2002...</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>What’s the Best Way to Renovate Your LA Home Before Listing?</title>
-        <link>localhost:4000/la-real-estate-agent-making-right.html</link>
+        <link>lasells.com/whats-the-best-way-to-renovate-your-la-home-before-listing.html</link>
         
           <category>Home Seller Tips</category>
         
         <author>Brad Korb</author>
         <pubDate>2016-08-24 16:16:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Jul+2016+Renovations.mp4</guid>
         <description>
 
 Recently, I’ve had a couple of clients working on their property and doing things that I didn’t think were important in order to get top dollar in the market.
@@ -226,35 +209,25 @@ Clients often invest money in their house before listing, which is nice for them
 
 If you have more questions how to spend money wisely when improving your home, give me a call or send me an email. I’d be happy to give you advice about preparing your home for the market.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Jul+2016+Renovations.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Jul+2016+Renovations.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-Recently, I’ve had a couple of clients working on their property and doing things that I didn’t think were important in order to get top dollar in the market.
-
-</itunes:subtitle>
+        <itunes:subtitle>Recently, I’ve had a couple of clients working on their property and doing things that I didn’t think were important in order to get top dollar in the market.</itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
-        <itunes:summary>
-
-Recently, I’ve had a couple of clients working on their property and doing things that I didn’t think were important in order to get top dollar in the market.
-
-</itunes:summary>
+        <itunes:summary>Recently, I’ve had a couple of clients working on their property and doing things that I didn’t think were important in order to get top dollar in the market.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>How to Handle Multiple Offers in LA </title>
-        <link>localhost:4000/la-real-estate-agent-tips-for-handling.html</link>
-        
-          <category>L.A. Real Estate Seller Tips</category>
+        <title>How to Handle Multiple Offers in LA</title>
+        <link>lasells.com/how-to-handle-multiple-offers-in-la.html</link>
         
           <category>Home Buyer Tips</category>
         
         <author>Brad Korb</author>
         <pubDate>2016-08-09 16:34:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent+Tips+for+Handling+Multiple+Offers.mp4</guid>
         <description>
 
 In our current market, many properties are getting multiple offers. So how do you handle multiple offers as a buyer or seller?
@@ -267,33 +240,23 @@ Recently, one of my buyer’s agents created a fantastic letter that really won 
 
 If you have any questions about how to navigate a multiple offer situation, just give us a call or send us an email. My team and I would be happy to help you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent+Tips+for+Handling+Multiple+Offers.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent+Tips+for+Handling+Multiple+Offers.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-In our current market, many properties are getting multiple offers. So how do you handle multiple offers as a buyer or seller?
-
-</itunes:subtitle>
+        <itunes:subtitle>In our current market, many properties are getting multiple offers. So how do you handle multiple offers as a buyer or seller?</itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
-        <itunes:summary>
-
-In our current market, many properties are getting multiple offers. So how do you handle multiple offers as a buyer or seller?
-
-</itunes:summary>
+        <itunes:summary>In our current market, many properties are getting multiple offers. So how do you handle multiple offers as a buyer or seller?</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>How Is LA Real Estate Faring in 2016?</title>
-        <link>localhost:4000/la-real-estate-agent-what-should-you.html</link>
-        
-          <category>L.A. Real Estate Market Update</category>
+        <link>lasells.com/how-is-la-real-estate-faring-in-2016.html</link>
         
         <author>Brad Korb</author>
         <pubDate>2016-07-01 16:09:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+What+Should+You+Know+About+LA+Real+Estate%253F.mp4</guid>
         <description>
 
 A lot of people have been asking me about the real estate market in Los Angeles, and so today I’ll update you with statistics that will tell us more about the health and wealth of this market. We’re currently in a seller’s market in almost all price ranges. Inventory is very low, so multiple offers are common and sale prices remain high.
@@ -304,33 +267,23 @@ Where are we seeing the hottest real estate markets? I would recommend looking a
 
 If you have any further questions, please don’t hesitate to contact me. I would love to share some more information with you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+What+Should+You+Know+About+LA+Real+Estate%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+What+Should+You+Know+About+LA+Real+Estate%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-A lot of people have been asking me about the real estate market in Los Angeles, and so today I’ll update you with statistics that will tell us more about the health and wealth of this market. We’re currently in a seller’s market in almost all price ranges. Inventory is very low, so multiple offers are common and sale prices remain high.
-
-</itunes:subtitle>
+        <itunes:subtitle>A lot of people have been asking me about the real estate market in Los Angeles, and so today I’ll update you with statistics that will tell us more about the health and wealth of this market. We’re currently in a seller’s market in almost all price ranges.</itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
-        <itunes:summary>
-
-A lot of people have been asking me about the real estate market in Los Angeles, and so today I’ll update you with statistics that will tell us more about the health and wealth of this market. We’re currently in a seller’s market in almost all price ranges. Inventory is very low, so multiple offers are common and sale prices remain high.
-
-</itunes:summary>
+        <itunes:summary>A lot of people have been asking me about the real estate market in Los Angeles, and so today I’ll update you with statistics that will tell us more about the health and wealth of this market. We’re currently in a seller’s market in almost all price ranges.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>How to Spend Wisely on Upgrades When Listing in LA</title>
-        <link>localhost:4000/la-real-estate-prepare-for-your-listing.html</link>
-        
-          <category>L.A. Real Estate Seller Tips</category>
+        <link>lasells.com/how-to-spend-wisely-on-upgrades-when-listing-in-la.html</link>
         
         <author>Brad Korb</author>
         <pubDate>2016-05-17 16:16:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Prepare+for+Your+Listing+the+Right+Way.mp4</guid>
         <description>
 
 If you’re considering selling your home, when is the right time to call your Realtor to get your home ready to go on the market?
@@ -343,35 +296,24 @@ We want sellers laser-focused on the best ways to spend the least amount of mone
 
 Reach out to me and let’s do a walkthrough. I look forward to seeing you soon!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Prepare+for+Your+Listing+the+Right+Way.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Prepare+for+Your+Listing+the+Right+Way.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-If you’re considering selling your home, when is the right time to call your Realtor to get your home ready to go on the market?
-
-</itunes:subtitle>
+        <itunes:subtitle>If you’re considering selling your home, when is the right time to call your Realtor to get your home ready to go on the market?</itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
-        <itunes:summary>
-
-If you’re considering selling your home, when is the right time to call your Realtor to get your home ready to go on the market?
-
-</itunes:summary>
+        <itunes:summary>If you’re considering selling your home, when is the right time to call your Realtor to get your home ready to go on the market?</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Expert Staging Tips for Your L.A. Home</title>
-        <link>localhost:4000/la-real-estate-agent-staging-your-home.html</link>
-        
-          <category>L.A. Real Estate Seller Tips</category>
+        <link>lasells.com/expert-staging-tips-for-your-l-a-home.html</link>
         
         <author>Brad Korb</author>
         <pubDate>2016-03-28 11:11:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent+Staging+your+home+to+sell.mp4</guid>
         <description>
-
 Today, I’m here with Karin Marganian and she works for Style My Space. She’s going to give us some pointers on how to stage your home. You want your home to look its finest, so you can earn top dollar!
 
 Small changes can easily separate your home from the competition. For example, declutter your property.  Clear off the countertops in the bathrooms and kitchens. Put unnecessary items in storage. Move some furniture around in order to maximize the space  in your home.
@@ -382,33 +324,23 @@ Another simple tip is to air out your home so that everything smells fresh. That
 
 Karen can come out and walk through your home room by room to figure out the best way to stage your property. We’ll give you pointers and tips to get you top dollar in today’s market. If you have any questions, give us a call or send us an email. We would be happy to help you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent+Staging+your+home+to+sell.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent+Staging+your+home+to+sell.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-Today, I’m here with Karin Marganian and she works for Style My Space. She’s going to give us some pointers on how to stage your home. You want your home to look its finest, so you can earn top dollar!
-
-</itunes:subtitle>
+        <itunes:subtitle>Today, I’m here with Karin Marganian and she works for Style My Space. She’s going to give us some pointers on how to stage your home. You want your home to look its finest, so you can earn top dollar!</itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
-        <itunes:summary>
-
-Today, I’m here with Karin Marganian and she works for Style My Space. She’s going to give us some pointers on how to stage your home. You want your home to look its finest, so you can earn top dollar!
-
-</itunes:summary>
+        <itunes:summary>Today, I’m here with Karin Marganian and she works for Style My Space. She’s going to give us some pointers on how to stage your home. You want your home to look its finest, so you can earn top dollar!</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>What’s Going on With Mortgage Rates?</title>
-        <link>localhost:4000/whats-going-on-with-mortgage-rates.html</link>
-        
-          <category>burbank ca real estate listings</category>
+        <link>lasells.com/whats-going-on-with-mortgage-rates.html</link>
         
         <author>Brad Korb</author>
         <pubDate>2016-03-02 15:43:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Whats+Going+on+With+Mortgage+Rates%253F.mp4</guid>
         <description>
 
 Right now, the interest rate market is incredible. We are seeing most people get rates in the mid-3%’s, which has drawn tons of buyers into the market earlier than expected. This is why we are telling sellers to get their homes on the market as soon as possible, because these low rates are only going to continue to attract buyers.
@@ -417,37 +349,26 @@ Even in the last few weeks, interest rates have fallen. In addition to that fact
 
 If you have any questions for us about interest rates or the real estate market in general, give us a call or send us an email. We look forward to hearing from you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Whats+Going+on+With+Mortgage+Rates%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Whats+Going+on+With+Mortgage+Rates%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-Right now, the interest rate market is incredible. We are seeing most people get rates in the mid-3%’s, which has drawn tons of buyers into the market earlier than expected. This is why we are telling sellers to get their homes on the market as soon as possible, because these low rates are only going to continue to attract buyers.
-
-</itunes:subtitle>
+        <itunes:subtitle>Right now, the interest rate market is incredible. We are seeing most people get rates in the mid-3%’s, which has drawn tons of buyers into the market earlier than expected.</itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
-        <itunes:summary>
-
-Right now, the interest rate market is incredible. We are seeing most people get rates in the mid-3%’s, which has drawn tons of buyers into the market earlier than expected. This is why we are telling sellers to get their homes on the market as soon as possible, because these low rates are only going to continue to attract buyers.
-
-</itunes:summary>
+        <itunes:summary>Right now, the interest rate market is incredible. We are seeing most people get rates in the mid-3%’s, which has drawn tons of buyers into the market earlier than expected.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Meet Buyer Specialist James Lester!</title>
-        <link>localhost:4000/la-real-estate-agent-meet-our-buyers.html</link>
-        
-          <category>burbank california real estate</category>
+        <link>lasells.com/meet-buyer-specialist-james-lester.html</link>
         
           <category>Home Buyer Tips</category>
         
         <author>Brad Korb</author>
         <pubDate>2016-01-19 11:47:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent+Meet+our+Buyer%27s+Specialist+James+Lester.mp4</guid>
         <description>
-
 Today, we want to introduce you to James Lester.
 
 James is a buyer specialist who joined the Brad Korb Real Estate Team in 2013. He left a nationally recognized real estate company and was able to sell two times the national average once joining the team.
@@ -458,51 +379,38 @@ The Korb Team’s market introduced James to many clients, but there are a few t
 
 If you want to reach James directly, shoot him an email at James@BradKorb.com or reach out to the Brad Korb Real Estate Team. We would love to hear from you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent+Meet+our+Buyer%27s+Specialist+James+Lester.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent+Meet+our+Buyer%27s+Specialist+James+Lester.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-Today, we want to introduce you to James Lester.
-
-</itunes:subtitle>
+        <itunes:subtitle>Today, we want to introduce you to James Lester.  James is a buyer specialist who joined the Brad Korb Real Estate Team in 2013.</itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
-        <itunes:summary>
-
-Today, we want to introduce you to James Lester.
-
-</itunes:summary>
+        <itunes:summary>Today, we want to introduce you to James Lester.  James is a buyer specialist who joined the Brad Korb Real Estate Team in 2013.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Happy Holidays From the Korb Real Estate Group!</title>
-        <link>localhost:4000/happy-holidays-from-korb-real-estate.html</link>
-        
-          <category>L.A. Real Estate Holiday Cheer</category>
+        <link>lasells.com/happy-holidays-from-the-korb-real-estate-group.html</link>
         
         <author>Brad Korb</author>
         <pubDate>2015-12-16 12:22:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/A+Special+Holiday+Message+From+Brad+Korb+Real+Estate+Group.mp4</guid>
         <description>
-
 We just want to take a quick moment to wish you and your family a happy holiday season! We also would like to wish you a happy 2016 – we look forward to seeing you soon!
 
 In the meantime, if you have any real estate questions or concerns, please don’t hesitate to reach out to us. We would love to hear from you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/A+Special+Holiday+Message+From+Brad+Korb+Real+Estate+Group.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/A+Special+Holiday+Message+From+Brad+Korb+Real+Estate+Group.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 We just want to take a quick moment to wish you and your family a happy holiday season! We also would like to wish you a happy 2016 – we look forward to seeing you soon!
 
 </itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
-
 We just want to take a quick moment to wish you and your family a happy holiday season! We also would like to wish you a happy 2016 – we look forward to seeing you soon!
 
 </itunes:summary>
@@ -511,50 +419,36 @@ We just want to take a quick moment to wish you and your family a happy holiday 
       
       <item>
         <title>Tips to Conserve Water in Los Angeles this Season</title>
-        <link>localhost:4000/tips-to-conserve-water-in-los-angeles.html</link>
-        
-          <category>Los Angeles Homeowner Tips</category>
+        <link>lasells.com/tips-to-conserve-water-in-los-angeles-this-season.html</link>
         
         <author>Brad Korb</author>
         <pubDate>2015-12-08 16:52:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-Conserve+Water+This+Season+.mp4</guid>
         <description>
-
 After having a contest for the best drought resistant lawn in Burbank, we received lots of important questions. Today, we invited Mike the Gardener from Burbank to talk about drought resistant lawns and what’s going on this season. In this video, we’ll give you tips on how you can conserve water this season.
 
 This time of year, plant preparation is important to consider for the future. What you do now affects what happens in the following spring. Take care of the soil, add fertilizers or mulches, and garden new plants early. Gardening plants early helps them benefit from naturally occurring processes, including natural rainfall and cooling temperature of the ground. From moisture and a relaxed temperature combined, spring flowers will form better, more organic roots. This process, if repeated every fall, will help conserve water gradually over time.
 
 Additionally, it’s a good practice to check your sprinklers and choose the right plants for your garden. Use the best plants suited for the climate you live in.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-Conserve+Water+This+Season+.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-Conserve+Water+This+Season+.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-After having a contest for the best drought resistant lawn in Burbank, we received lots of important questions. Today, we invited Mike the Gardener from Burbank to talk about drought resistant lawns and what’s going on this season. In this video, we’ll give you tips on how you can conserve water this season.
-
-</itunes:subtitle>
+        <itunes:subtitle>After having a contest for the best drought resistant lawn in Burbank, we received lots of important questions. Today, we invited Mike the Gardener from Burbank to talk about drought resistant lawns and what's going on this season.</itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
-        <itunes:summary>
-
-After having a contest for the best drought resistant lawn in Burbank, we received lots of important questions. Today, we invited Mike the Gardener from Burbank to talk about drought resistant lawns and what’s going on this season. In this video, we’ll give you tips on how you can conserve water this season.
-
-</itunes:summary>
+        <itunes:summary>After having a contest for the best drought resistant lawn in Burbank, we received lots of important questions. Today, we invited Mike the Gardener from Burbank to talk about drought resistant lawns and what's going on this season.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title> Help Others in Burbank Celebrate Thanksgiving!</title>
-        <link>localhost:4000/help-others-in-burbank-celebrate.html</link>
-        
-          <category>L.A. Real Estate Holiday Cheer</category>
+        <title>Help Others in Burbank Celebrate Thanksgiving!</title>
+        <link>lasells.com/help-others-in-burbank-celebrate-thanksgiving.html</link>
         
         <author>Brad Korb</author>
         <pubDate>2015-11-24 11:32:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/Help+Others+in+Burbank+Celebrate+Thanksgiving%2521.mp4</guid>
         <description>
-
 We are very fortunate to have great families, good jobs, and warm homes to go to during the Holidays. Unfortunately, this isn’t a reality for everyone in our area.
 
 That’s why we always help the Burbank Temporary Aid Center. Every year, they provide over 1,000 turkeys to families in need. This is our sixth year in a row, and we don’t plan on stopping anytime soon!
@@ -563,18 +457,16 @@ We need your help! If you’d like to donate your time or some turkeys, please g
 
 As always, refer to us as your #1 resource for real estate in the LA area!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/Help+Others+in+Burbank+Celebrate+Thanksgiving%2521.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/Help+Others+in+Burbank+Celebrate+Thanksgiving%2521.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 We are very fortunate to have great families, good jobs, and warm homes to go to during the Holidays. Unfortunately, this isn’t a reality for everyone in our area.
 
 </itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
-
 We are very fortunate to have great families, good jobs, and warm homes to go to during the Holidays. Unfortunately, this isn’t a reality for everyone in our area.
 
 </itunes:summary>
@@ -583,15 +475,12 @@ We are very fortunate to have great families, good jobs, and warm homes to go to
       
       <item>
         <title>Here’s Why You Should Consider Selling this Year</title>
-        <link>localhost:4000/heres-why-you-should-consider-selling.html</link>
-        
-          <category>L.A. Real Estate Market Update</category>
+        <link>lasells.com/heres-why-you-should-consider-selling-this-year.html</link>
         
         <author>Brad Korb</author>
         <pubDate>2015-11-10 15:56:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/Is+Our+Market+Strong+For+Sellers%253F.mp4</guid>
         <description>
-
 Today we just wanted to give all of the sellers out there a quick market update as we head into the fall season. The market has been very strong so far this fall, and we are off to a fantastic start.
 
 In September, we closed and gave the keys to 22 different buyers! In September, we had another 17 homes go under contract, a very strong number for this time of year.
@@ -600,18 +489,16 @@ The pace isn’t quite as crazy as it was this summer, but we are still seeing a
 
 With the number of sales we have been seeing recently, and the number of buyers that we know are on the market, it’s a great time to sell. If you want to take advantage of these great market conditions and sell your home, give us a call or send us an email. We have the knowledge and expertise to get your home sold for top dollar this fall. We look forward to hearing from you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/Is+Our+Market+Strong+For+Sellers%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/Is+Our+Market+Strong+For+Sellers%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Today we just wanted to give all of the sellers out there a quick market update as we head into the fall season. The market has been very strong so far this fall, and we are off to a fantastic start.
 
 </itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
-
 Today we just wanted to give all of the sellers out there a quick market update as we head into the fall season. The market has been very strong so far this fall, and we are off to a fantastic start.
 
 </itunes:summary>
@@ -620,7 +507,7 @@ Today we just wanted to give all of the sellers out there a quick market update 
       
       <item>
         <title>What Should Buyers in LA Know?</title>
-        <link>localhost:4000/what-should-buyers-in-la-know.html</link>
+        <link>lasells.com/what-should-buyers-in-la-know.html</link>
         
           <category>Market Update</category>
         
@@ -630,9 +517,8 @@ Today we just wanted to give all of the sellers out there a quick market update 
         
         <author>Brad Korb</author>
         <pubDate>2015-10-19 16:12:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/Why+Should+You+Consider+Buying+this+Fall%253F.mp4</guid>
         <description>
-
 Happy October! We just wanted to give a quick market update today for all of the buyers out there and let them know what’s going on in the market at this moment.
 
 We are still seeing a very strong market, and the great news for buyers is that the market has cooled off a bit from the summer. You won’t have to deal with as many multiple offer situations and bidding wars like you did a couple months ago. A lot of buyers who experienced this in the summer have come back to the market and have been able to get the home they want.
@@ -641,18 +527,16 @@ In addition to the number of options out there, interest rates remain historical
 
 If you have any questions for us, feel free to give us a call or send us an email. We would love to hear from you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/Why+Should+You+Consider+Buying+this+Fall%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/Why+Should+You+Consider+Buying+this+Fall%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Happy October! We just wanted to give a quick market update today for all of the buyers out there and let them know what’s going on in the market at this moment.
 
 </itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
-
 Happy October! We just wanted to give a quick market update today for all of the buyers out there and let them know what’s going on in the market at this moment.
 
 </itunes:summary>
@@ -661,36 +545,29 @@ Happy October! We just wanted to give a quick market update today for all of the
       
       <item>
         <title>What Do Sellers Want to See in an Offer?</title>
-        <link>localhost:4000/compete-with-multiple-offers.html</link>
+        <link>lasells.com/what-do-sellers-want-to-see-in-an-offer.html</link>
         
         <author>Brad Korb</author>
         <pubDate>2015-08-13 13:51:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+What+Do+Sellers+Want+to+See+in+an+Offer%253F.mp4</guid>
         <description>
-
 This video is especially for the buyers out there trying to compete with multiple bids. I wanted to give you a couple quick tips to help you obtain a home with multiple offers.
 
 One thing that home sellers love seeing is letters. Write a letter to the seller of the home and include some pictures of you and your family. Let them know a little about you and why you love their home. If the owner is actually living in the house, you can always stop by and drop the letter off in person, and thank the sellers for considering your offer. A little personal touch can go a long way in a deeply emotional transaction like this.
 
 Just wanted to share that quick tip with you today! If you have any questions, comments, or concerns, we are only a phone call away. Talk to you soon!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+What+Do+Sellers+Want+to+See+in+an+Offer%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+What+Do+Sellers+Want+to+See+in+an+Offer%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 This video is especially for the buyers out there trying to compete with multiple bids. I wanted to give you a couple quick tips to help you obtain a home with multiple offers.
-
-One thing that home sellers love seeing is letters. Write a letter to the seller of the home and include some pictures of you and your family. Let them know a little about you and why you love their home. If the owner is actually living in the house, you can always stop by and drop the letter off in person, and thank the sellers for considering your offer. A little personal touch can go a long way in a deeply emotional transaction like this.
 
 </itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
-
 This video is especially for the buyers out there trying to compete with multiple bids. I wanted to give you a couple quick tips to help you obtain a home with multiple offers.
-
-One thing that home sellers love seeing is letters. Write a letter to the seller of the home and include some pictures of you and your family. Let them know a little about you and why you love their home. If the owner is actually living in the house, you can always stop by and drop the letter off in person, and thank the sellers for considering your offer. A little personal touch can go a long way in a deeply emotional transaction like this.
 
 </itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
@@ -698,19 +575,12 @@ One thing that home sellers love seeing is letters. Write a letter to the seller
       
       <item>
         <title>How Should You Deal With Multiple Offers in LA?</title>
-        <link>localhost:4000/how-should-you-deal-with-multiple.html</link>
-        
-          <category>L.A. Real Estate Sellers Tips</category>
-        
-          <category>Home Owners Tips</category>
-        
-          <category>Sellers Tips</category>
+        <link>lasells.com/how-should-you-deal-with-multiple-offers-in-la.html</link>
         
         <author>Brad Korb</author>
         <pubDate>2015-06-08 16:01:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Approaching+Multiple+Offers+from+a+Seller%2527s+Perspective.mp4</guid>
         <description>
-
 Hey everyone, thanks for joining us again. This video is for the sellers out there. Today we are going to teach you how to deal with multiple offers on your home.
 
 Since there is such low inventory in LA, it is a great time to sell and receive multiple offers on your home. We try to give everyone an opportunity to submit an offer on your home that wants to, and if there are multiple bids, we let each party know so everyone can submit their highest and best offer, and we can drive up the price.
@@ -719,35 +589,24 @@ When dealing with multiple offers, it’s also critical to look at the buyer. Do
 
 We want to help guide you through the process and find the best offer for you. I’d love to speak to you personally about it in a little more detail. If you have any questions at all, feel free to reach out to us via phone or email. Bye for now!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Approaching+Multiple+Offers+from+a+Seller%2527s+Perspective.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Approaching+Multiple+Offers+from+a+Seller%2527s+Perspective.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-Hey everyone, thanks for joining us again. This video is for the sellers out there. Today we are going to teach you how to deal with multiple offers on your home.
-
-</itunes:subtitle>
+        <itunes:subtitle>Hey everyone, thanks for joining us again. This video is for the sellers out there. Today we are going to teach you how to deal with multiple offers on your home.</itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
-        <itunes:summary>
-
-Hey everyone, thanks for joining us again. This video is for the sellers out there. Today we are going to teach you how to deal with multiple offers on your home.
-
-</itunes:summary>
+        <itunes:summary>Hey everyone, thanks for joining us again. This video is for the sellers out there. Today we are going to teach you how to deal with multiple offers on your home.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>What Should You Know About the LA Market?</title>
-        <link>localhost:4000/la-real-estate-update-may-2015.html</link>
-        
-          <category>L.A. Real Estate Market Update</category>
+        <link>lasells.com/what-should-you-know-about-the-la-market.html</link>
         
         <author>Brad Korb</author>
         <pubDate>2015-05-04 12:48:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+The+L.A.+real+estate+market.mp4</guid>
         <description>
-
 Hey everyone, thanks for stopping by once again. Today I just wanted to give you a quick update on how the LA real estate market is doing.
 
 It’s now May, and the market should continue to be just as strong as it was in April. There is still a very limited supply of inventory, which is fantastic for sellers.
@@ -756,144 +615,100 @@ For buyers, this market is a little more challenging. Make sure to get your pre-
 
 If you have any questions about our market, or about anything else real estate related, give us a call or send us an email. We look forward to hearing from you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+The+L.A.+real+estate+market.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+The+L.A.+real+estate+market.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-Hey everyone, thanks for stopping by once again. Today I just wanted to give you a quick update on how the LA real estate market is doing.
-
-</itunes:subtitle>
+        <itunes:subtitle>Hey everyone, thanks for stopping by once again. Today I just wanted to give you a quick update on how the LA real estate market is doing.</itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
-        <itunes:summary>
-
-Hey everyone, thanks for stopping by once again. Today I just wanted to give you a quick update on how the LA real estate market is doing.
-
-</itunes:summary>
+        <itunes:summary>Hey everyone, thanks for stopping by once again. Today I just wanted to give you a quick update on how the LA real estate market is doing.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Is Refinancing Your L.A. County Home a Good Idea in 2015?</title>
-        <link>localhost:4000/la-mortgage-questions.html</link>
-        
-          <category>L.A. Real Estate Seller Tips</category>
+        <link>lasells.com/is-refinancing-your-l-a-county-home-a-good-idea-in-2015.html</link>
         
         <author>Brad Korb</author>
         <pubDate>2015-04-06 18:18:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Common+questions+about+mortgages.mp4</guid>
         <description>
-
 Hey everyone, happy April to you. First off, I wanted to say thank you so much for sending in all of your great questions. I’m going to answer a few of them today for you. Most of them have had to do with mortgages, refinancing, and interest rates, so we thought we would bring in Brian McKim of Skyline Home Loans to help answer them.
 
-How often can I refinance?
-This is a great question. You can refinance as many times as it makes sense for you. There are no longer any pre-payment penalties, so you can refinance 2 or 3 times a year if it makes sense to. What we mean by “making sense” is that if the refinance will save you money down the road and you can afford it, you should do it.
+How often can I refinance?This is a great question. You can refinance as many times as it makes sense for you. There are no longer any pre-payment penalties, so you can refinance 2 or 3 times a year if it makes sense to. What we mean by “making sense” is that if the refinance will save you money down the road and you can afford it, you should do it.
 
-When and how can I refinance if I’m planning to sell in the future?
-If you are planning on selling in the next 18-24 months, it probably doesn’t make much sense for you to refinance. You’ll want to give yourself enough time to reap the benefits of getting a lower rate, and that probably won’t happen for at least 2 years.
+When and how can I refinance if I’m planning to sell in the future?If you are planning on selling in the next 18-24 months, it probably doesn’t make much sense for you to refinance. You’ll want to give yourself enough time to reap the benefits of getting a lower rate, and that probably won’t happen for at least 2 years.
 
 There you have it. Thanks to Brian for joining us today and helping answer some of your questions. If you have any more questions for us, or for Brian, feel free to give us a call or send us an email. We would love to be of assistance to you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Common+questions+about+mortgages.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Common+questions+about+mortgages.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-Hey everyone, happy April to you. First off, I wanted to say thank you so much for sending in all of your great questions. I’m going to answer a few of them today for you. Most of them have had to do with mortgages, refinancing, and interest rates, so we thought we would bring in Brian McKim of Skyline Home Loans to help answer them.
-
-</itunes:subtitle>
+        <itunes:subtitle>Hey everyone, happy April to you. First off, I wanted to say thank you so much for sending in all of your great questions. I'm going to answer a few of them today for you. Most of them have had to do with mortgages, refinancing, and interest rates, so we thought we would bring in Brian McKim of Skyline Home Loans to help answer them.</itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
-        <itunes:summary>
-
-Hey everyone, happy April to you. First off, I wanted to say thank you so much for sending in all of your great questions. I’m going to answer a few of them today for you. Most of them have had to do with mortgages, refinancing, and interest rates, so we thought we would bring in Brian McKim of Skyline Home Loans to help answer them.
-
-</itunes:summary>
+        <itunes:summary>Hey everyone, happy April to you. First off, I wanted to say thank you so much for sending in all of your great questions. I'm going to answer a few of them today for you. Most of them have had to do with mortgages, refinancing, and interest rates, so we thought we would bring in Brian McKim of Skyline Home Loans to help answer them.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>What's Going on with Interest Rates?</title>
-        <link>localhost:4000/la-real-estate-2015-interest-rates.html</link>
-        
-          <category>L.A. Real Estate Market Update</category>
+        <link>lasells.com/whats-going-on-with-interest-rates.html</link>
         
         <author>Brad Korb</author>
         <pubDate>2015-03-02 19:31:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Mortgage+payments+keep+getting+cheaper.mp4</guid>
         <description>
-
 Thanks for joining me once again today. I just wanted to give you some news about what has been happening with interest rates on mortgages. In the past few months, rates have dipped below historical lows and sit below 4% in most places. Because of this decrease in rates, Fannie Mae has recently agreed to offer a 97% loan program as opposed to a 95% loan program.
 
 This is going to help first time buyers get into the market sooner rather than later. With low interest rates and even lower down payments, things are setting up perfectly for that first-time buyer to get into a new home. In addition, the FHA has lowered their private mortgage insurance premiums, making your monthly payment even lower.
 
 With conditions the way they are, buyers and sellers need to take advantage. Right now, you can afford more of a home and secure a lower monthly payment than you ever could have. If you have any questions about how these programs can help you as a buyer, give me a call or send me an email.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Mortgage+payments+keep+getting+cheaper.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Mortgage+payments+keep+getting+cheaper.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-Thanks for joining me once again today. I just wanted to give you some news about what has been happening with interest rates on mortgages. In the past few months, rates have dipped below historical lows and sit below 4% in most places. Because of this decrease in rates, Fannie Mae has recently agreed to offer a 97% loan program as opposed to a 95% loan program.
-
-</itunes:subtitle>
+        <itunes:subtitle>Thanks for joining me once again today. I just wanted to give you some news about what has been happening with interest rates on mortgages.</itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
-        <itunes:summary>
-
-Thanks for joining me once again today. I just wanted to give you some news about what has been happening with interest rates on mortgages. In the past few months, rates have dipped below historical lows and sit below 4% in most places. Because of this decrease in rates, Fannie Mae has recently agreed to offer a 97% loan program as opposed to a 95% loan program.
-
-</itunes:summary>
+        <itunes:summary>Thanks for joining me once again today. I just wanted to give you some news about what has been happening with interest rates on mortgages.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>We Are Your Perfect Los Angeles Matchmaker</title>
-        <link>localhost:4000/valentines-day-2015.html</link>
+        <link>lasells.com/we-are-your-perfect-los-angeles-matchmaker.html</link>
         
           <category>Home Buyer Tips</category>
         
         <author>Brad Korb</author>
         <pubDate>2015-02-11 14:53:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+A+match+made+in+real+estate+heaven.mp4</guid>
         <description>
-
 Hey there, thanks for checking out my blog today. Valentine’s Day is coming up, and we want you to know that we are your matchmaker when it comes to buying and selling homes here in LA. There is a ton of great inventory out there right now for buyers, and interest rates are continuing to be at historic lows.
 
 For sellers, you can take advantage of this huge influx of buyers. They are looking for good homes, and yours just might do the trick.
 
 If you have any questions for us, feel free to send an email or give us a call. We can’t wait to hear from you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+A+match+made+in+real+estate+heaven.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+A+match+made+in+real+estate+heaven.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-Hey there, thanks for checking out my blog today. Valentine’s Day is coming up, and we want you to know that we are your matchmaker when it comes to buying and selling homes here in LA. There is a ton of great inventory out there right now for buyers, and interest rates are continuing to be at historic lows.
-
-</itunes:subtitle>
+        <itunes:subtitle>Hey there, thanks for checking out my blog today. Valentine's Day is coming up, and we want you to know that we are your matchmaker when it comes to buying and selling homes here in LA.</itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
-        <itunes:summary>
-
-Hey there, thanks for checking out my blog today. Valentine’s Day is coming up, and we want you to know that we are your matchmaker when it comes to buying and selling homes here in LA. There is a ton of great inventory out there right now for buyers, and interest rates are continuing to be at historic lows.
-
-</itunes:summary>
+        <itunes:summary>Hey there, thanks for checking out my blog today. Valentine's Day is coming up, and we want you to know that we are your matchmaker when it comes to buying and selling homes here in LA.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>We Can Sell Your Home Quickly and Above the Appraised Price</title>
-        <link>localhost:4000/we-can-sell-your-home-quickly-and-above.html</link>
-        
-          <category>Brad Korb reviews</category>
+        <link>lasells.com/we-can-sell-your-home-quickly-and-above-the-appraised-price.html</link>
         
         <author>Brad Korb</author>
         <pubDate>2015-01-30 13:41:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Testimonial.mp4</guid>
         <description>
-
 Today we have Paul with us, who was really apprehensive to sell his home. Agents had been telling him he needed to sell to a real estate investor because the home needed too much work. Paul expected to get $650,000 for his property, and other agents laughed at him and told him that it might be worth $500,000.
 
 When he decided to work with us, we took the right steps to brighten his home and liven it up. We took down drapes, removed awnings, and opened up windows to make it feel fresh and new inside.
@@ -902,18 +717,16 @@ Paul ended up with 21 offers in seven days and had a selling price that was $130
 
 If you want a fast, clean, and efficient sale, be sure to contact myself or my team. We would be very happy to serve you.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Testimonial.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Testimonial.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Today we have Paul with us, who was really apprehensive to sell his home. Agents had been telling him he needed to sell to a real estate investor because the home needed too much work. Paul expected to get $650,000 for his property, and other agents laughed at him and told him that it might be worth $500,000.
 
 </itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
-
 Today we have Paul with us, who was really apprehensive to sell his home. Agents had been telling him he needed to sell to a real estate investor because the home needed too much work. Paul expected to get $650,000 for his property, and other agents laughed at him and told him that it might be worth $500,000.
 
 </itunes:summary>
@@ -922,15 +735,14 @@ Today we have Paul with us, who was really apprehensive to sell his home. Agents
       
       <item>
         <title>What's the Future of LA Real Estate?</title>
-        <link>localhost:4000/jan-2015-market-update.html</link>
+        <link>lasells.com/whats-the-future-of-la-real-estate.html</link>
         
           <category>Market Update</category>
         
         <author>Brad Korb</author>
         <pubDate>2015-01-28 14:12:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Don%2527t+miss+out+on+this+hot+market+(1).mp4</guid>
         <description>
-
 There’s some exciting news for the Los Angeles real estate this January. For starters, interest rates have fallen to right around 3.7%.
 
 This will result in buyers coming out sooner than usual. With affordability on the rise, you can expect to see a busy Los Angeles marketplace.
@@ -941,35 +753,24 @@ Whether you’re a buyer or a seller, it’s a good time to get in the market. I
 
 If you need any assistance, whether you’re buying or selling in LA, please be sure to call or email me. My team of professionals are waiting to hear from you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Don%2527t+miss+out+on+this+hot+market+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Don%2527t+miss+out+on+this+hot+market+(1).mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-There’s some exciting news for the Los Angeles real estate this January. For starters, interest rates have fallen to right around 3.7%.
-
-</itunes:subtitle>
+        <itunes:subtitle>There's some exciting news for the Los Angeles real estate this January. For starters, interest rates have fallen to right around 3.7%.</itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
-        <itunes:summary>
-
-There’s some exciting news for the Los Angeles real estate this January. For starters, interest rates have fallen to right around 3.7%.
-
-</itunes:summary>
+        <itunes:summary>There's some exciting news for the Los Angeles real estate this January. For starters, interest rates have fallen to right around 3.7%.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>How to Join Us in Combating Hunger this Thanksgiving and Holiday Season</title>
-        <link>localhost:4000/burbank-temporary-aid-center.html</link>
-        
-          <category>Other</category>
+        <link>lasells.com/how-to-join-us-in-combating-hunger-this-thanksgiving-and-holiday-season.html</link>
         
         <author>Brad Korb</author>
         <pubDate>2014-11-26 09:56:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+A+van+full+of+turkeys.mp4</guid>
         <description>
-
 Hi again, everybody. We just wanted to reach out to you today to wish you and your family a very happy Thanksgiving. Today we have a short video to share with you of our time helping out at the Burbank Temporary Aid Center.
 
 They have been serving the Burbank community for 40 years and we figured we should give them some extra help this holiday season. That is why we loaded up a van full of turkeys and took them over!
@@ -978,35 +779,24 @@ We help The Burbank Temporary Aid Center out year round, and you can too. They a
 
 If you would like some more information about the Burbank Temporary Aid Center, check out their website here. If you have any other questions, please feel free to give us a call or send us an email. Thanks, and have a happy Thanksgiving!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+A+van+full+of+turkeys.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+A+van+full+of+turkeys.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-Hi again, everybody. We just wanted to reach out to you today to wish you and your family a very happy Thanksgiving. Today we have a short video to share with you of our time helping out at the Burbank Temporary Aid Center.
-
-</itunes:subtitle>
+        <itunes:subtitle>Hi again, everybody. We just wanted to reach out to you today to wish you and your family a very happy Thanksgiving. Today we have a short video to share with you of our time helping out at the Burbank Temporary Aid Center.</itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
-        <itunes:summary>
-
-Hi again, everybody. We just wanted to reach out to you today to wish you and your family a very happy Thanksgiving. Today we have a short video to share with you of our time helping out at the Burbank Temporary Aid Center.
-
-</itunes:summary>
+        <itunes:summary>Hi again, everybody. We just wanted to reach out to you today to wish you and your family a very happy Thanksgiving. Today we have a short video to share with you of our time helping out at the Burbank Temporary Aid Center.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Tune in to ABC's and CNBC’s Shark Tank to see Brad with real estate magnate Barbara Corcoran</title>
-        <link>localhost:4000/shark-tanks-barbara-corcoran.html</link>
-        
-          <category>Other</category>
+        <link>lasells.com/tune-in-to-abcs-and-cnbcs-shark-tank-to-see-brad-with-real-estate-magnate-barbara-corcoran.html</link>
         
         <author>Brad Korb</author>
         <pubDate>2014-11-11 11:00:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/Brad+Korb+on+Shark+Tank+(1).mp4</guid>
         <description>
-
 Tune in to ABC’s and CNBC’s Shark Tank to see Brad side-by-side with real estate magnate Barbara Corcoran.
 
 Corcoran is Shark Tank’s resident real estate mogul and a prominent self-made multi-millionaire. She is now endorsing a select few of the best real estate minds in the country, Brad being included. Brad will appear in a commercial airing in several episodes throughout the season.
@@ -1021,35 +811,26 @@ Corcoran is an iconic figure in the New York real estate scene and nationally kn
 
 P.S. You may also see Barbara’s endorsement at www.ITrustBrad.com!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/Brad+Korb+on+Shark+Tank+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/Brad+Korb+on+Shark+Tank+(1).mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-Tune in to ABC’s and CNBC’s Shark Tank to see Brad side-by-side with real estate magnate Barbara Corcoran.
-
-</itunes:subtitle>
+        <itunes:subtitle>Tune in to ABC's and CNBC’s Shark Tank to see Brad side-by-side with real estate magnate Barbara Corcoran.</itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
-        <itunes:summary>
-
-Tune in to ABC’s and CNBC’s Shark Tank to see Brad side-by-side with real estate magnate Barbara Corcoran.
-
-</itunes:summary>
+        <itunes:summary>Tune in to ABC's and CNBC’s Shark Tank to see Brad side-by-side with real estate magnate Barbara Corcoran.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>After a Busy Summer, Should You Wait until 2015 to Buy?</title>
-        <link>localhost:4000/selling-in-fall.html</link>
+        <link>lasells.com/after-a-busy-summer-should-you-wait-until-2015-to-buy.html</link>
         
           <category>Home Buyer Tips</category>
         
         <author>Brad Korb</author>
         <pubDate>2014-10-27 11:57:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Are+low+interest+rates+sticking+around%253F.mp4</guid>
         <description>
-
 It was a crazy busy summer here in the Burbank area, but the fall is here and the market has cooled off a bit. Because of this slight slowdown, many people are asking whether they should wait until the busy spring season to sell their home. This is a great question - to answer it, let’s take a look at interest rates because they have the biggest impact on your spending power.
 
 Say you get a $600,000 mortgage with the current interest rate of about 4.25%. Your monthly payments will only be $2,900 a month. Local lenders predict those low interest rates to rise next year. If you wait to buy, interest rates may be as high as 5.5%. If you lock
@@ -1058,35 +839,26 @@ in a 5.25% rate next year, you will have lost 10% of your purchasing power! This
 
 It’s really quite simple: If you are ready to buy, it’s probably not wise to wait. Now is the time to take advantage of fantastic rates and find your dream home. If you would like any assistance, or have any questions about real estate in our area, don’t hesitate to give us a call. We would love to give you a hand!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Are+low+interest+rates+sticking+around%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Are+low+interest+rates+sticking+around%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-It was a crazy busy summer here in the Burbank area, but the fall is here and the market has cooled off a bit. Because of this slight slowdown, many people are asking whether they should wait until the busy spring season to sell their home. This is a great question - to answer it, let’s take a look at interest rates because they have the biggest impact on your spending power.
-
-</itunes:subtitle>
+        <itunes:subtitle>t was a crazy busy summer here in the Burbank area, but the fall is here and the market has cooled off a bit. Because of this slight slowdown, many people are asking whether they should wait until the busy spring season to sell their home.</itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
-        <itunes:summary>
-
-It was a crazy busy summer here in the Burbank area, but the fall is here and the market has cooled off a bit. Because of this slight slowdown, many people are asking whether they should wait until the busy spring season to sell their home. This is a great question - to answer it, let’s take a look at interest rates because they have the biggest impact on your spending power.
-
-</itunes:summary>
+        <itunes:summary>t was a crazy busy summer here in the Burbank area, but the fall is here and the market has cooled off a bit. Because of this slight slowdown, many people are asking whether they should wait until the busy spring season to sell their home.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Former Federal Reserve Chairman Denied</title>
-        <link>localhost:4000/refinancing-and-career-changes.html</link>
+        <link>lasells.com/former-federal-reserve-chairman-denied.html</link>
         
           <category>Home Buyer Tips</category>
         
         <author>Brad Korb</author>
         <pubDate>2014-10-10 14:17:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Intriguing+story+about+the+Federal+Reserve+Chairman.mp4</guid>
         <description>
-
 Happy October, everyone! We just wanted to share with you an interesting story that we heard recently. It’s sort of a cautionary tale about refinancing while switching career paths.
 
 Recently, our former Federal Reserve chairman, Ben Bernanke, was denied refinancing for a new mortgage. Why? Well, Bernanke is now retired from the Federal Reserve, using his time now to be a speaker and author. Because of this career shift, lenders determined that he had no job stability, and therefore could no longer qualify for refinancing. Hopefully they will loosen up these standards soon to help out home buyers.
@@ -1095,35 +867,24 @@ The moral of this story is: If you’re thinking about buying a house and changi
 
 We thought this would be an important story to share with you, and we hope you are enjoying your October. If you have any questions, please give us a call! We’d be glad to help!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Intriguing+story+about+the+Federal+Reserve+Chairman.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Intriguing+story+about+the+Federal+Reserve+Chairman.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-Happy October, everyone! We just wanted to share with you an interesting story that we heard recently. It’s sort of a cautionary tale about refinancing while switching career paths.
-
-</itunes:subtitle>
+        <itunes:subtitle>Happy October, everyone! We just wanted to share with you an interesting story that we heard recently. It's sort of a cautionary tale about refinancing while switching career paths.</itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
-        <itunes:summary>
-
-Happy October, everyone! We just wanted to share with you an interesting story that we heard recently. It’s sort of a cautionary tale about refinancing while switching career paths.
-
-</itunes:summary>
+        <itunes:summary>Happy October, everyone! We just wanted to share with you an interesting story that we heard recently. It's sort of a cautionary tale about refinancing while switching career paths.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Another Happy Customer: KFI's Bill Carroll</title>
-        <link>localhost:4000/another-happy-customer-kfis-bill-carroll.html</link>
-        
-          <category>Other</category>
+        <link>lasells.com/another-happy-customer-kfis-bill-carroll.html</link>
         
         <author>Brad Korb</author>
         <pubDate>2014-09-25 09:28:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+How+we+sold+Bill%2527s+home+in+4+days.mp4</guid>
         <description>
-
 Recently, we sold a house for Bill Carroll of KFI talk radio. Bill has been a great client of ours and has been talking about us for a long time on KFI. The thing that Bill says he likes most about us is our system.
 
 “I love their system. Their team guarantees to sell your home on a certain date on an agreed-upon price and if they don’t, they’ll buy it from you. So of course, when it’s time to sell our house, I had to call the Brad Korb Team,” Bill said.
@@ -1132,35 +893,26 @@ Bill had sold homes in the past, but they had always taken weeks, even months to
 
 If you have any questions about how we sell homes, or any other real estate question, please let us know. We would be glad to answer them.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+How+we+sold+Bill%2527s+home+in+4+days.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+How+we+sold+Bill%2527s+home+in+4+days.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-Recently, we sold a house for Bill Carroll of KFI talk radio. Bill has been a great client of ours and has been talking about us for a long time on KFI. The thing that Bill says he likes most about us is our system.
-
-</itunes:subtitle>
+        <itunes:subtitle>Recently, we sold a house for Bill Carroll of KFI talk radio. Bill has been a great client of ours and has been talking about us for a long time on KFI. The thing that Bill says he likes most about us is our system.</itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
-        <itunes:summary>
-
-Recently, we sold a house for Bill Carroll of KFI talk radio. Bill has been a great client of ours and has been talking about us for a long time on KFI. The thing that Bill says he likes most about us is our system.
-
-</itunes:summary>
+        <itunes:summary>Recently, we sold a house for Bill Carroll of KFI talk radio. Bill has been a great client of ours and has been talking about us for a long time on KFI. The thing that Bill says he likes most about us is our system.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>LA Real Estate Market Update Fall 2014</title>
-        <link>localhost:4000/la-real-estate-market-update-fall-2014.html</link>
+        <link>lasells.com/la-real-estate-market-update-fall-2014.html</link>
         
           <category>Market Update</category>
         
         <author>Brad Korb</author>
         <pubDate>2014-08-28 13:34:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+What%2527s+unique+about+LA+real+estate%253F.mp4</guid>
         <description>
-
 Happy Fall, everyone. It’s hard to believe that the summer is nearly over. We thought that now would be a great time to give you the latest real estate market update for Los Angeles so you can know what’s going on.
 
 The market is still fantastic, we have had houses going on the market this week and have some set up for next week as well. For some reason, people think that the market slows down in the fall because of the weather, but we are in LA, and we really don’t have your typical fall (or winter for that matter), so our selling season never really stops.
@@ -1169,83 +921,61 @@ We are still seeing extremely low interest rates down near 4.25%. Properties in 
 
 If you have any questions about the market, or about real estate in general, please give us a call. We’d love to help you out!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+What%2527s+unique+about+LA+real+estate%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+What%2527s+unique+about+LA+real+estate%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-Happy Fall, everyone. It’s hard to believe that the summer is nearly over. We thought that now would be a great time to give you the latest real estate market update for Los Angeles so you can know what’s going on.
-
-</itunes:subtitle>
+        <itunes:subtitle>Happy Fall, everyone. It's hard to believe that the summer is nearly over. We thought that now would be a great time to give you the latest real estate market update for Los Angeles so you can know what's going on.</itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
-        <itunes:summary>
-
-Happy Fall, everyone. It’s hard to believe that the summer is nearly over. We thought that now would be a great time to give you the latest real estate market update for Los Angeles so you can know what’s going on.
-
-</itunes:summary>
+        <itunes:summary>Happy Fall, everyone. It's hard to believe that the summer is nearly over. We thought that now would be a great time to give you the latest real estate market update for Los Angeles so you can know what's going on.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title> What a Home Protection Policy Can Do for You</title>
-        <link>localhost:4000/home-protection-policy.html</link>
+        <title>What a Home Protection Policy Can Do for You</title>
+        <link>lasells.com/what-a-home-protection-policy-can-do-for-you.html</link>
         
           <category>Home Buyer Tips</category>
         
         <author>Brad Korb</author>
         <pubDate>2014-08-11 16:06:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/Burbank+Real+Estate-+Avoid+expensive+fixes+by+taking+this+precaution.mp4</guid>
         <description>
-
 Today we want to reach out to you to talk about home protection policies. We recently sold a few homes belonging to senior citizens who hardly ever used their appliances or air conditioning. Not all home buyers will be lucky enough to move into a house like this with rarely used appliances and A/C. When things break, rather than going back to the seller with a broken A/C, if you have a home protection policy, you can get it fixed easily for as little as $55 or $60.
 
 If you don’t have that policy, you could be looking at spending between $1500-$3500 to fix it. Having your appliances covered by a home protection policy gives you great peace of mind. If something goes wrong, you can give us a call and we’ll help you call the home protection company and get you taken care of.
 
 If you have any questions, please give us a call. We would be happy to help you out.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/Burbank+Real+Estate-+Avoid+expensive+fixes+by+taking+this+precaution.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/Burbank+Real+Estate-+Avoid+expensive+fixes+by+taking+this+precaution.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-Today we want to reach out to you to talk about home protection policies. We recently sold a few homes belonging to senior citizens who hardly ever used their appliances or air conditioning. Not all home buyers will be lucky enough to move into a house like this with rarely used appliances and A/C. When things break, rather than going back to the seller with a broken A/C, if you have a home protection policy, you can get it fixed easily for as little as $55 or $60.
-
-</itunes:subtitle>
+        <itunes:subtitle>Today we want to reach out to you to talk about home protection policies.</itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
-        <itunes:summary>
-
-Today we want to reach out to you to talk about home protection policies. We recently sold a few homes belonging to senior citizens who hardly ever used their appliances or air conditioning. Not all home buyers will be lucky enough to move into a house like this with rarely used appliances and A/C. When things break, rather than going back to the seller with a broken A/C, if you have a home protection policy, you can get it fixed easily for as little as $55 or $60.
-
-</itunes:summary>
+        <itunes:summary>Today we want to reach out to you to talk about home protection policies.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Christopher Matthew Spencer endorses The Brad Korb Real Estate Group</title>
-        <link>localhost:4000/christopher-matthew-spencer-endorses.html</link>
-        
-          <category>Other</category>
+        <link>lasells.com/christopher-matthew-spencer-endorses-the-brad-korb-real-estate-group.html</link>
         
         <author>Brad Korb</author>
         <pubDate>2014-07-14 17:36:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/Christopher+Matthew+Spencer.mp4</guid>
         <description>
-
 Author, Marketing Executive, and Real Estate Investor Christopher Matthew Spencer talks about the professional integrity and wonderful working relationship he has had with the Brad Korb Real Estate Group (since 1998). From securing top-notch finances to locating great property management, the BradKorb team was effective in ensuring that the process was “pain-free” with high quality service.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/Christopher+Matthew+Spencer.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/Christopher+Matthew+Spencer.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Author, Marketing Executive, and Real Estate Investor Christopher Matthew Spencer talks about the professional integrity and wonderful working relationship he has had with the Brad Korb Real Estate Group (since 1998). From securing top-notch finances to locating great property management, the BradKorb team was effective in ensuring that the process was “pain-free” with high quality service.
 </itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
-
 Author, Marketing Executive, and Real Estate Investor Christopher Matthew Spencer talks about the professional integrity and wonderful working relationship he has had with the Brad Korb Real Estate Group (since 1998). From securing top-notch finances to locating great property management, the BradKorb team was effective in ensuring that the process was “pain-free” with high quality service.
 </itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
@@ -1253,15 +983,12 @@ Author, Marketing Executive, and Real Estate Investor Christopher Matthew Spence
       
       <item>
         <title>The Challenges of Online Home Searching</title>
-        <link>localhost:4000/trulia-and-zillow-courtney-korb.html</link>
-        
-          <category>Other</category>
+        <link>lasells.com/the-challenges-of-online-home-searching.html</link>
         
         <author>Brad Korb</author>
         <pubDate>2014-06-30 13:43:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/L.A.+Real+Estate-+How+You+Can+Find+the+True+Value+of+Your+Home.mp4</guid>
         <description>
-
 Did you know that 98% of Los Angeles home searches now begin online? This is the first impression your home will get from a potential buyer and likely the first place you will look for your next home. While websites like Trulia and Zillow are great for doing research on homes that already have sold, their information on current market statistics isn’t really all that current or accurate.
 
 These sites all have different equations and algorithms for how to get an estimate for your home. The problem is that they don’t always have up-to-date information. The information they are getting on homes is from 3-6 months ago.
@@ -1274,35 +1001,26 @@ It’s important to talk to a real estate expert about what the true value of yo
 
 If you want to know more about how to get an accurate price on your home, please give us a quick call or e-mail. We would love to give you more information.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/L.A.+Real+Estate-+How+You+Can+Find+the+True+Value+of+Your+Home.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/L.A.+Real+Estate-+How+You+Can+Find+the+True+Value+of+Your+Home.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-Did you know that 98% of Los Angeles home searches now begin online? This is the first impression your home will get from a potential buyer and likely the first place you will look for your next home. While websites like Trulia and Zillow are great for doing research on homes that already have sold, their information on current market statistics isn’t really all that current or accurate.
-
-</itunes:subtitle>
+        <itunes:subtitle>Did you know that 98% of Los Angeles home searches now begin online? This is the first impression your home will get from a potential buyer and likely the first place you will look for your next home.</itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
-        <itunes:summary>
-
-Did you know that 98% of Los Angeles home searches now begin online? This is the first impression your home will get from a potential buyer and likely the first place you will look for your next home. While websites like Trulia and Zillow are great for doing research on homes that already have sold, their information on current market statistics isn’t really all that current or accurate.
-
-</itunes:summary>
+        <itunes:summary>Did you know that 98% of Los Angeles home searches now begin online? This is the first impression your home will get from a potential buyer and likely the first place you will look for your next home.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title> Burbank real estate market update for June 2014</title>
-        <link>localhost:4000/burbank-real-estate-market-update-for.html</link>
+        <title>Burbank real estate market update for June 2014</title>
+        <link>lasells.com/burbank-real-estate-market-update-for-june-2014.html</link>
         
           <category>Market Update</category>
         
         <author>Brad Korb</author>
         <pubDate>2014-06-09 17:04:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/L.A.+Real+Estate-+Why+you+should+sell+your+home+now.mp4</guid>
         <description>
-
 Before I begin this market update I would like to wish you a happy Father’s Day. I hope you’ll be able to enjoy the day and sit around a barbecue with all of your family - you deserve it!
 
 Now - here’s what is happening with Burbank real estate:
@@ -1318,35 +1036,24 @@ If you need any assistance in buying or selling homes in the Burbank area, pleas
 
 Thanks for tuning in!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/L.A.+Real+Estate-+Why+you+should+sell+your+home+now.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/L.A.+Real+Estate-+Why+you+should+sell+your+home+now.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-Before I begin this market update I would like to wish you a happy Father’s Day. I hope you’ll be able to enjoy the day and sit around a barbecue with all of your family - you deserve it!
-
-</itunes:subtitle>
+        <itunes:subtitle>Before I begin this market update I would like to wish you a happy Father's Day. I hope you'll be able to enjoy the day and sit around a barbecue with all of your family - you deserve it!</itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
-        <itunes:summary>
-
-Before I begin this market update I would like to wish you a happy Father’s Day. I hope you’ll be able to enjoy the day and sit around a barbecue with all of your family - you deserve it!
-
-</itunes:summary>
+        <itunes:summary>Before I begin this market update I would like to wish you a happy Father's Day. I hope you'll be able to enjoy the day and sit around a barbecue with all of your family - you deserve it!</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>We are now 'The Brad Korb Real Estate Group'</title>
-        <link>localhost:4000/we-are-now-brad-korb-real-estate-group.html</link>
-        
-          <category>Other</category>
+        <link>lasells.com/we-are-now-the-brad-korb-real-estate-group.html</link>
         
         <author>Brad Korb</author>
         <pubDate>2014-04-21 10:26:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/We+are+now+%27The+Brad+Korb+Real+Estate+Group%27.mp4</guid>
         <description>
-
 I just wanted to let everyone now that I have officially re-branded my real estate company after 34 years.
 
 We still have the same phone number, same address, and same email.
@@ -1357,59 +1064,42 @@ We look forward to bringing you more excellent service in the future as we carry
 
 As always, if you need any help with real estate in Burbank, do not hesitate to contact me.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/We+are+now+%27The+Brad+Korb+Real+Estate+Group%27.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/We+are+now+%27The+Brad+Korb+Real+Estate+Group%27.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-I just wanted to let everyone now that I have officially re-branded my real estate company after 34 years.
-
-</itunes:subtitle>
+        <itunes:subtitle>I just wanted to let everyone now that I have officially re-branded my real estate company after 34 years.</itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
-        <itunes:summary>
-
-I just wanted to let everyone now that I have officially re-branded my real estate company after 34 years.
-
-</itunes:summary>
+        <itunes:summary>I just wanted to let everyone now that I have officially re-branded my real estate company after 34 years.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>How to Prepare for Spring Home Selling in Burbank</title>
-        <link>localhost:4000/how-to-save-thousands-this-tax-season.html</link>
-        
-          <category>Home Seller Tips</category>
+        <link>lasells.com/how-to-prepare-for-spring-home-selling-in-burbank.html</link>
         
         <author>Brad Korb</author>
         <pubDate>2014-02-27 10:59:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/L.A.+Real+Estate+-+Spring+is+coming.mp4</guid>
         <description>
-
 I just wanted to reach out to you today to remind you that with spring on the way, it’s time to act accordingly if you’re in the process of selling a home.
 
-It’s been very warm here in Burbank lately, and because of this I wanted to remind you to make sure that your lawn is looking nice and fresh. This can include:
-* Making sure your sprinklers are working correctly
-* Manicuring your lawn to make sure the grass is as green as possible
-* Planting your flowers in their beds
-* Trimming your trees and bushes
+It’s been very warm here in Burbank lately, and because of this I wanted to remind you to make sure that your lawn is looking nice and fresh. This can include:* Making sure your sprinklers are working correctly* Manicuring your lawn to make sure the grass is as green as possible* Planting your flowers in their beds* Trimming your trees and bushes
 
 These are just a handful of ways you can improve your front yard to attract potential buyers. Curb appeal is very important in the spring, and because it has been so warm in Burbank, it’s time to put our best foot forward. Take advantage of this warm weather and prep your home, as well as your yard, for sale.
 
 If you need help finding gardeners or landscapers, please contact me because I have a few trusted workers that I can recommend. Also, if you want any help buying or selling Burbank real estate, call me at (818) 953-5300 or email me at Brad@BradKorb.com
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/L.A.+Real+Estate+-+Spring+is+coming.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/L.A.+Real+Estate+-+Spring+is+coming.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 I just wanted to reach out to you today to remind you that with spring on the way, it’s time to act accordingly if you’re in the process of selling a home.
 
 </itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
-
 I just wanted to reach out to you today to remind you that with spring on the way, it’s time to act accordingly if you’re in the process of selling a home.
 
 </itunes:summary>
@@ -1418,25 +1108,12 @@ I just wanted to reach out to you today to remind you that with spring on the wa
       
       <item>
         <title>Our New Sales Manager Courtney Korb Shares Her First-Time Home Buyer Tips</title>
-        <link>localhost:4000/first-time-home-buyer-home-buying-tips.html</link>
-        
-          <category>new homes in burbank ca</category>
-        
-          <category>real estate burbank</category>
-        
-          <category>home buying tips</category>
-        
-          <category>real estate burbank ca</category>
-        
-          <category>first time home buyer</category>
-        
-          <category>real estate listings</category>
+        <link>lasells.com/our-new-sales-manager-courtney-korb-shares-her-first-time-home-buyer-tips.html</link>
         
         <author>Brad Korb</author>
         <pubDate>2014-02-06 16:15:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/L.A.+real+estate-+Courtney+Korb%2527s+first+time+home-buyer+tips%2521.mp4</guid>
         <description>
-
 Please help us welcome Courtney Korb to the team! Joining her dad, Courtney Korb will be taking on all the hiring and training of new Buyer Agents in the role of Sales Manager. She will also be handling all online leads resulting from online marketing.
 
 Having recently purchased a home, Courtney shares with us her experiences as a first-time home-buyer with the hopes in helping new buyers prepare for the biggest purchase of their lives. Here are her tips:
@@ -1451,21 +1128,18 @@ Don’t expect perfection – rather be realistic and keep an open mind. Small f
 
 Sometimes it takes more than one try – at times the first home you make an offer on is not the perfect home. Don’t get anxious about it, just move on to the next home!
 
-~
- We look forward to introducing you to Courtney the next time you come into the office to discuss your real estate needs! See you soon…
+~ We look forward to introducing you to Courtney the next time you come into the office to discuss your real estate needs! See you soon…
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/L.A.+real+estate-+Courtney+Korb%2527s+first+time+home-buyer+tips%2521.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/L.A.+real+estate-+Courtney+Korb%2527s+first+time+home-buyer+tips%2521.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Please help us welcome Courtney Korb to the team! Joining her dad, Courtney Korb will be taking on all the hiring and training of new Buyer Agents in the role of Sales Manager. She will also be handling all online leads resulting from online marketing.
 
 </itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
-
 Please help us welcome Courtney Korb to the team! Joining her dad, Courtney Korb will be taking on all the hiring and training of new Buyer Agents in the role of Sales Manager. She will also be handling all online leads resulting from online marketing.
 
 </itunes:summary>
@@ -1474,43 +1148,28 @@ Please help us welcome Courtney Korb to the team! Joining her dad, Courtney Korb
       
       <item>
         <title>Should you invest in an income property?</title>
-        <link>localhost:4000/should-you-invest-in-income-property.html</link>
-        
-          <category>new homes in burbank ca</category>
-        
-          <category>real estate burbank</category>
-        
-          <category>burbank ca real estate listings</category>
-        
-          <category>burbank california real estate</category>
-        
-          <category>burbank real estate mls</category>
-        
-          <category>burbank real estate listings</category>
+        <link>lasells.com/should-you-invest-in-an-income-property.html</link>
         
         <author>Brad Korb</author>
         <pubDate>2014-01-15 11:33:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/Should+you+invest+in+an+income+property%253F.mp4</guid>
         <description>
-
 Lately, a few people have asked me whether income properties are a worthwhile investment. Without a doubt, the answer is yes. Real estate is a great way to earn an income and control your investment. Also, because you have a more active role in the success of the investment, the risk is much lower than other venues.
 
 Compared to the stock market, investing in income properties is a no-brainier. With stocks, you have no direct impact on a given company’s success besides the money you supply. However, with income properties you can be both financially and physically engaged. I really believe in this venture, so much so that I recently helped my daughter buy her first income property and I plan on using my income property as my retirement plan.
 
 If you are ready to invest in real estate or just want to know more, give me call today at 818.953.5300 or send me an email at brad@bradkorb.com
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/Should+you+invest+in+an+income+property%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/Should+you+invest+in+an+income+property%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Lately, a few people have asked me whether income properties are a worthwhile investment. Without a doubt, the answer is yes. Real estate is a great way to earn an income and control your investment. Also, because you have a more active role in the success of the investment, the risk is much lower than other venues.
 
 </itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
-
 Lately, a few people have asked me whether income properties are a worthwhile investment. Without a doubt, the answer is yes. Real estate is a great way to earn an income and control your investment. Also, because you have a more active role in the success of the investment, the risk is much lower than other venues.
 
 </itunes:summary>
@@ -1519,17 +1178,11 @@ Lately, a few people have asked me whether income properties are a worthwhile in
       
       <item>
         <title>Happy New Year!</title>
-        <link>localhost:4000/happy-new-year.html</link>
+        <link>lasells.com/happy-new-year.html</link>
         
-          <category>new homes in burbank ca</category>
+          <category>Holiday</category>
         
-          <category>burbank ca real estate listings</category>
-        
-          <category>burbank california real estate</category>
-        
-          <category>burbank real estate mls</category>
-        
-          <category>burbank real estate listings</category>
+          <category>Tips</category>
         
         <author>Brad Korb</author>
         <pubDate>2013-12-31 08:20:00 -0600</pubDate>
@@ -1543,7 +1196,7 @@ If your 2014 New Year’s resolutions include buying a home, start the year off 
 If you would like to see 2014 be the year you move into a new house, give me a call at (818) 953-5300 or email me at Brad@BradKorb.com. Let’s work together on fulfilling your New Year’s resolution of home-ownership. Happy New Year from Brad and Courtney Korb!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -1562,19 +1215,21 @@ Are you tired of making New Year’s resolutions year after year only to see the
       
       <item>
         <title>What's Up with Interest Rates?</title>
-        <link>localhost:4000/whats-up-with-interest-rates.html</link>
+        <link>lasells.com/whats-up-with-interest-rates.html</link>
         
-          <category>new homes in burbank ca</category>
+          <category>-L.A.</category>
         
-          <category>real estate burbank</category>
+          <category>Market</category>
         
-          <category>burbank ca real estate listings</category>
+          <category>Updates</category>
         
-          <category>burbank california real estate</category>
+          <category>-L.A.</category>
         
-          <category>burbank real estate mls</category>
+          <category>Real</category>
         
-          <category>burbank real estate listings</category>
+          <category>Estate</category>
+        
+          <category>Investment</category>
         
         <author>Brad Korb</author>
         <pubDate>2013-12-09 16:05:00 -0600</pubDate>
@@ -1592,7 +1247,7 @@ Right now, we are sitting around 4.5%. But we feel, given the decision by the go
 Any other questions or comments? Let me know.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -1611,40 +1266,23 @@ Hi folks, and welcome back to my video blog.
       
       <item>
         <title>Happy Thanksgiving!</title>
-        <link>localhost:4000/happy-thanksgiving.html</link>
-        
-          <category>new homes in burbank ca</category>
-        
-          <category>real estate burbank</category>
-        
-          <category>burbank ca real estate listings</category>
-        
-          <category>burbank california real estate</category>
-        
-          <category>real estate burbank ca</category>
-        
-          <category>burbank real estate mls</category>
-        
-          <category>burbank real estate listings</category>
+        <link>lasells.com/happy-thanksgiving.html</link>
         
         <author>Brad Korb</author>
         <pubDate>2013-11-26 16:06:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/Happy+Thanksgiving%2521.mp4</guid>
         <description>
-
 Happy Thanksgiving! I just wanted to take a brief moment to express my  thanks and gratitude for you over the last year.  Our team has had such  an incredible year and it’s all because of you and I just wanted to take  this time to thank you. Have a wonderful and safe Thanksgiving! u and I just wanted to take  this time to thank you. Have a wonderful and safe Thanksgiving!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/Happy+Thanksgiving%2521.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/Happy+Thanksgiving%2521.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Happy Thanksgiving! I just wanted to take a brief moment to express my  thanks and gratitude for you over the last year.  Our team has had such  an incredible year and it’s all because of you and I just wanted to take  this time to thank you. Have a wonderful and safe Thanksgiving! u and I just wanted to take  this time to thank you. Have a wonderful and safe Thanksgiving!
 </itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
-
 Happy Thanksgiving! I just wanted to take a brief moment to express my  thanks and gratitude for you over the last year.  Our team has had such  an incredible year and it’s all because of you and I just wanted to take  this time to thank you. Have a wonderful and safe Thanksgiving! u and I just wanted to take  this time to thank you. Have a wonderful and safe Thanksgiving!
 </itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Burbank, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
@@ -1652,73 +1290,46 @@ Happy Thanksgiving! I just wanted to take a brief moment to express my  thanks a
       
       <item>
         <title>Should You Sell During the Holiday Season?</title>
-        <link>localhost:4000/should-you-sell-during-holiday-season.html</link>
-        
-          <category>new homes in burbank ca</category>
-        
-          <category>real estate burbank</category>
-        
-          <category>burbank ca real estate listings</category>
-        
-          <category>real estate burbank ca</category>
-        
-          <category>burbank real estate mls</category>
-        
-          <category>real estate listings</category>
-        
-          <category>burbank real estate listings</category>
+        <link>lasells.com/should-you-sell-during-the-holiday-season.html</link>
         
         <author>Brad Korb</author>
         <pubDate>2013-11-15 17:27:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/Reasons+to+Sell+During+the+Holiday+Season.mp4</guid>
         <description>
-
 Traditional school of thought dictates that selling a home during the holidays is a bad idea. People are busy celebrating with their families and will hardly go shopping for a home, right? Not so! There are numerous advantages to listing a home during this season and below are ten great reasons to put a home on the market now.
 
-More serious buyers – Less time wasted
-These are people who are interested in buying so there is a far greater chance of actually selling the property.  Nothing is more promising to a seller than a motivated and qualified buyer that knows what they want and is actively seeking to get it.
+More serious buyers – Less time wastedThese are people who are interested in buying so there is a far greater chance of actually selling the property.  Nothing is more promising to a seller than a motivated and qualified buyer that knows what they want and is actively seeking to get it.
 
-Fewer Homes On the Market
-The less competition there is, the higher the chance there is for homes on the market to sell. Where during the peak season sellers might be dealing with some interest from buyers on their home, nonetheless there is more selection for buyers to choose from and they can stray to another property.
+Fewer Homes On the MarketThe less competition there is, the higher the chance there is for homes on the market to sell. Where during the peak season sellers might be dealing with some interest from buyers on their home, nonetheless there is more selection for buyers to choose from and they can stray to another property.
 
-In January Inventory Increases – Chances of Selling Decreases
-With so many homeowners assuming the holidays is a taboo time to sell there is a plethora of new listings in January, resulting in a diminished chance of your home selling.  Also, there is a risk that the price you may receive on the home can be less.
+In January Inventory Increases – Chances of Selling DecreasesWith so many homeowners assuming the holidays is a taboo time to sell there is a plethora of new listings in January, resulting in a diminished chance of your home selling.  Also, there is a risk that the price you may receive on the home can be less.
 
-Decked Halls Look Great!
-Homes are very appealing to prospective buyers when they are decorated for the holidays.  With all the festive décor, lights, greenery and added beauty of the season – the home shows very well and attracts buyers faster than if shown during other times of the year.
+Decked Halls Look Great!Homes are very appealing to prospective buyers when they are decorated for the holidays.  With all the festive décor, lights, greenery and added beauty of the season – the home shows very well and attracts buyers faster than if shown during other times of the year.
 
-More Time To Browse Homes
-Buyers have extra time off from work and are on vacation, which translates to a more aggressive buying pattern and more chances of your home being viewed.
+More Time To Browse HomesBuyers have extra time off from work and are on vacation, which translates to a more aggressive buying pattern and more chances of your home being viewed.
 
-More Emotional Buyers
-Because of the high stress of the holidays, buyers tend to be more emotional during this time than in the summer months. A more emotional buyer will tend to pay more for a new property, so selling your home during the holidays could make you more money.
+More Emotional BuyersBecause of the high stress of the holidays, buyers tend to be more emotional during this time than in the summer months. A more emotional buyer will tend to pay more for a new property, so selling your home during the holidays could make you more money.
 
-Show The Home With Flexibility
-Sellers that have their home listed prior to the holidays have the added advantage to be able to “pause” the process so they can celebrate the holidays, essentially not showing the home during a period of time during the break.  When the festivities die down, things can pick up again and the seller has not only managed to save potentially lost time but can also jump right back into the market.
+Show The Home With FlexibilitySellers that have their home listed prior to the holidays have the added advantage to be able to “pause” the process so they can celebrate the holidays, essentially not showing the home during a period of time during the break.  When the festivities die down, things can pick up again and the seller has not only managed to save potentially lost time but can also jump right back into the market.
 
-Transferred Employees
-January is typically the month where employees are transferred into new position. In order to capture this demographic of buyers, your home must be on the market since these buyers cannot wait until the spring to buy.
+Transferred EmployeesJanuary is typically the month where employees are transferred into new position. In order to capture this demographic of buyers, your home must be on the market since these buyers cannot wait until the spring to buy.
 
-Sell Now For More Money Then Delay Closing
-Extended occupancy can be negotiated, leaving both parties the leniency to get through the holiday season and past the New Year so that all sides can rest assured the deal is done but it can follow through at a more convenient time.  For sellers this option is great because they are able to secure a higher selling price on the property before the market is inundated with new listings come January when the selling values drop.
+Sell Now For More Money Then Delay ClosingExtended occupancy can be negotiated, leaving both parties the leniency to get through the holiday season and past the New Year so that all sides can rest assured the deal is done but it can follow through at a more convenient time.  For sellers this option is great because they are able to secure a higher selling price on the property before the market is inundated with new listings come January when the selling values drop.
 
-Fewer Foreclosures On the Market
-Many banks will suspend foreclosure listing during this time of year, especially on properties where there are still families occupying the home.  As a result of this, some of the competition that arises for sellers from low-priced foreclosures can be avoided during the holidays.
+Fewer Foreclosures On the MarketMany banks will suspend foreclosure listing during this time of year, especially on properties where there are still families occupying the home.  As a result of this, some of the competition that arises for sellers from low-priced foreclosures can be avoided during the holidays.
 
 Keep in mind that the idea of your home’s value increasing significantly over the next several months is a myth.  The truth is that housing values likely only go up when consumer income rises. Pay rates increase at a rate of three to five percent each year and that is about the maximum yearly increase we can expect to see in a home as well. So if you are wondering whether or not to put your home on the selling market now, or to wait – one important factor is that waiting will not provide much benefit.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/Reasons+to+Sell+During+the+Holiday+Season.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/Reasons+to+Sell+During+the+Holiday+Season.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Traditional school of thought dictates that selling a home during the holidays is a bad idea. People are busy celebrating with their families and will hardly go shopping for a home, right? Not so! There are numerous advantages to listing a home during this season and below are ten great reasons to put a home on the market now.
 
 </itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
-
 Traditional school of thought dictates that selling a home during the holidays is a bad idea. People are busy celebrating with their families and will hardly go shopping for a home, right? Not so! There are numerous advantages to listing a home during this season and below are ten great reasons to put a home on the market now.
 
 </itunes:summary>
@@ -1727,21 +1338,17 @@ Traditional school of thought dictates that selling a home during the holidays i
       
       <item>
         <title>Why Sellers Should Get a Home Inspection </title>
-        <link>localhost:4000/why-sellers-should-get-home-inspection.html</link>
+        <link>lasells.com/why-sellers-should-get-home-inspection.html</link>
         
-          <category>real estate burbank</category>
+          <category>L.A.</category>
         
-          <category>burbank ca real estate listings</category>
+          <category>Real</category>
         
-          <category>burbank california real estate</category>
+          <category>Estate</category>
         
-          <category>real estate burbank ca</category>
+          <category>Seller</category>
         
-          <category>burbank real estate mls</category>
-        
-          <category>real estate listings</category>
-        
-          <category>burbank real estate listings</category>
+          <category>Tips</category>
         
         <author>Brad Korb</author>
         <pubDate>2013-10-23 14:44:00 -0500</pubDate>
@@ -1763,7 +1370,7 @@ If you have any questions about how to prepare your home for the market, give me
 Thanks for watching!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -1782,27 +1389,12 @@ Welcome back. Thanks for joining me today. I wanted to talk about home inspectio
       
       <item>
         <title>How to Stage Your Home to Get Top Dollar</title>
-        <link>localhost:4000/how-to-stage-your-home-to-get-top-dollar.html</link>
-        
-          <category>real estate burbank</category>
-        
-          <category>burbank ca real estate listings</category>
-        
-          <category>burbank california real estate</category>
-        
-          <category>real estate burbank ca</category>
-        
-          <category>burbank real estate mls</category>
-        
-          <category>real estate listings</category>
-        
-          <category>burbank real estate listings</category>
+        <link>lasells.com/how-to-stage-your-home-to-get-top-dollar.html</link>
         
         <author>Brad Korb</author>
         <pubDate>2013-10-14 11:49:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/How+to+Stage+Your+Home+to+get+Top+Dollar.mp4</guid>
         <description>
-
 Welcome back! If you’re getting your home ready to sell, it’s important to know how to appeal to buyers. What is it that they want to see when they view your home? Here are four important elements of preparing your home.
 
 
@@ -1814,18 +1406,16 @@ Welcome back! If you’re getting your home ready to sell, it’s important to k
 
 If you have any questions about how to prepare your home, please give me a call!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/How+to+Stage+Your+Home+to+get+Top+Dollar.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/How+to+Stage+Your+Home+to+get+Top+Dollar.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Welcome back! If you’re getting your home ready to sell, it’s important to know how to appeal to buyers. What is it that they want to see when they view your home? Here are four important elements of preparing your home.
 
 </itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
-
 Welcome back! If you’re getting your home ready to sell, it’s important to know how to appeal to buyers. What is it that they want to see when they view your home? Here are four important elements of preparing your home.
 
 </itunes:summary>
@@ -1834,27 +1424,12 @@ Welcome back! If you’re getting your home ready to sell, it’s important to k
       
       <item>
         <title>Market Update Fall 2013</title>
-        <link>localhost:4000/market-update-fall-2013.html</link>
-        
-          <category>real estate burbank</category>
-        
-          <category>burbank ca real estate listings</category>
-        
-          <category>burbank california real estate</category>
-        
-          <category>real estate burbank ca</category>
-        
-          <category>burbank real estate mls</category>
-        
-          <category>real estate listings</category>
-        
-          <category>burbank real estate listings</category>
+        <link>lasells.com/market-update-fall-2013.html</link>
         
         <author>Brad Korb</author>
         <pubDate>2013-10-02 11:43:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/Market+Update+Fall+2013.mp4</guid>
         <description>
-
 Welcome to my video blog. I wanted to wish you a happy beginning of fall! And what a great fall it is.
 
 Normally the months following summer slow our market down. Since interest rates have been on the rise, though, we’ve seen an influx of buyers. Buyers understand that as rates increase, they continue to lose purchasing power.
@@ -1863,18 +1438,16 @@ We are seeing aggressive buyers who are motivated to make great offers. Now is a
 
 Thanks for watching!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/Market+Update+Fall+2013.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/Market+Update+Fall+2013.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Welcome to my video blog. I wanted to wish you a happy beginning of fall! And what a great fall it is.
 
 </itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
-
 Welcome to my video blog. I wanted to wish you a happy beginning of fall! And what a great fall it is.
 
 </itunes:summary>
@@ -1882,14 +1455,13 @@ Welcome to my video blog. I wanted to wish you a happy beginning of fall! And wh
       </item>
       
       <item>
-        <title>Low Inventory Makes It a Great Time to Sell  </title>
-        <link>localhost:4000/low-inventory-makes-it-great-time-to.html</link>
+        <title>Low Inventory Makes It a Great Time to Sell</title>
+        <link>lasells.com/low-inventory-makes-it-a-great-time-to-sell.html</link>
         
         <author>Brad Korb</author>
         <pubDate>2013-04-19 11:07:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/Brad+Korb+-+Low+Inventory+Gives+Sellers+the+Upperhand.mp4</guid>
         <description>
-
 Many buyers in the marketplace can’t find the home of their dreams because there’s simply not enough inventory to choose from. It’s certainly a sellers’ market. Sellers have the upper hand, especially if the home is in good condition, located in a great neighborhood and priced just right. If you’re at all on the fence about selling, now is the time because sellers are getting top dollar for their homes and they are selling faster than they could have imagined.
 
 Since there are fewer homes on the market, there’s more competition for available homes. Low inventory often translates into multiple bids for homes in good condition, high list-to-sale price ratios and being able to negotiate better terms. It’s an ideal time for sellers.
@@ -1898,18 +1470,16 @@ So when selling your home, if you want to get top dollar for your property, take
 
 To help you position yourself for success, please call us at (818) 953-5300.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/Brad+Korb+-+Low+Inventory+Gives+Sellers+the+Upperhand.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/Brad+Korb+-+Low+Inventory+Gives+Sellers+the+Upperhand.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Many buyers in the marketplace can’t find the home of their dreams because there’s simply not enough inventory to choose from. It’s certainly a sellers’ market. Sellers have the upper hand, especially if the home is in good condition, located in a great neighborhood and priced just right. If you’re at all on the fence about selling, now is the time because sellers are getting top dollar for their homes and they are selling faster than they could have imagined.
 
 </itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
-
 Many buyers in the marketplace can’t find the home of their dreams because there’s simply not enough inventory to choose from. It’s certainly a sellers’ market. Sellers have the upper hand, especially if the home is in good condition, located in a great neighborhood and priced just right. If you’re at all on the fence about selling, now is the time because sellers are getting top dollar for their homes and they are selling faster than they could have imagined.
 
 </itunes:summary>
@@ -1917,44 +1487,45 @@ Many buyers in the marketplace can’t find the home of their dreams because the
       </item>
       
       <item>
-        <title> Today's Competitive Market </title>
-        <link>localhost:4000/todays-competitive-market.html</link>
+        <title>Today's Competitive Market</title>
+        <link>lasells.com/todays-competitive-market.html</link>
         
         <author>Brad Korb</author>
         <pubDate>2013-03-29 14:37:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brad+Korb/videoplayback.mp4</guid>
         <description>
-
 For years now, buyers have been able to come in fairly low and actually get away with offers that sellers would never have accepted just a few years prior to that. But now, things are shifting back to a more balanced marketplace and we are noticing some big changes in the way buyers and sellers are interacting. Here are some ways you can gain the upper hand over other buyers vying for the same (few) properties that are scarcely available in our market today.
 
 Don’t Hold Back When You Find Something You Like
+
 A common mistake made by many buyers in a competitive market is to hold off on making an offer on something they really like. The chance of finding a home that meets every single need is next to impossible, that’s why it is important to recognize your deal breakers and if you like the home for the most part, go ahead and make an offer on it.
 
 If You’re Serious, Present a Serious Offer – The First Time
+
 Now is not the time to be playing games when it comes to trying to get the home of your dreams. With so few homes on the market and so many buyers, there is a good chance you could lose the home altogether if your offer is not strong enough. Carefully consider your offer and act as if that is your only chance.
 
 Engage in the Services of a Local Expert
+
 There is a lot of merit to working with a local real estate agent that knows the area and knows other agents in the area. At times, when all else fails, a seller may opt for your offer just because their agent also knows your agent. Not to mention, the expert advice you can expect from your REALTOR® in being able to recognize a good deal among other things.
 
 Structure An Offer That Makes the Seller Happy
+
 One of the strongest signs of a serious buyer is a large deposit. Though the standard varies from area to area, typically at least 1% is put toward earnest money and it shows some level of seriousness on the buyer’s part when they go above that.
 
 Other things you can do to make sure sellers pay more attention to your offer and less to others include writing a personal letter to share what you love about the home or be willing to waive contingencies or at least shorten contingencies. Savvy buyers also work to keep their offers simple, clean and easy to read plus they don’t hesitate to offer cash if they can do it, shortening the time period between now and closing.
 
 If you don’t need closing cost assistance, don’t ask for it and finally – if you really love the property, do what works best – offer more money.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/videoplayback.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="lasells.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brad+Korb/videoplayback.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 For years now, buyers have been able to come in fairly low and actually get away with offers that sellers would never have accepted just a few years prior to that. But now, things are shifting back to a more balanced marketplace and we are noticing some big changes in the way buyers and sellers are interacting. Here are some ways you can gain the upper hand over other buyers vying for the same (few) properties that are scarcely available in our market today.
 
 </itunes:subtitle>
         <itunes:author>Brad Korb</itunes:author>
         <itunes:summary>
-
 For years now, buyers have been able to come in fairly low and actually get away with offers that sellers would never have accepted just a few years prior to that. But now, things are shifting back to a more balanced marketplace and we are noticing some big changes in the way buyers and sellers are interacting. Here are some ways you can gain the upper hand over other buyers vying for the same (few) properties that are scarcely available in our market today.
 
 </itunes:summary>
