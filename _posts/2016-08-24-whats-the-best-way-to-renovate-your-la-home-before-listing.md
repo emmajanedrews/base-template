@@ -1,7 +1,7 @@
 ---
 youtube_code: waOhgUNepjI
-excerpt:
-enclosure:
+excerpt: 'Recently, I’ve had a couple of clients working on their property and doing things that I didn’t think were important in order to get top dollar in the market.'
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Jul+2016+Renovations.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -9,16 +9,19 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: What’s the Best Way to Renovate Your LA Home Before Listing?
-date: '2016-08-24T14:16:00.002-07:00'
+date: 2016-08-24 21:16:00
 author: Vyral Admin
 tags:
-- Home Seller Tips
-modified_time: '2016-08-25T15:42:05.055-07:00'
-thumbnail: https://img.youtube.com/vi/waOhgUNepjI/default.jpg
-blogger_id: tag:blogger.com,1999:blog-1172076802032175464.post-494421532398411071
-blogger_orig_url: http://bradkorb.blogspot.com/2016/08/la-real-estate-agent-making-right.html
+  - Home Seller Tips
+modified_time:
+thumbnail: 'https://img.youtube.com/vi/waOhgUNepjI/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-1172076802032175464.post-494421532398411071'
+blogger_orig_url: 'http://bradkorb.blogspot.com/2016/08/la-real-estate-agent-making-right.html'
 ---
+
+
 {% include youtube.html %}
+
 Recently, I’ve had a couple of clients working on their property and doing things that I didn’t think were important in order to get top dollar in the market.
 
 This got me thinking about how I could help others. Before you go and spend any time and money working on things around the house to get it fixed up and ready for sale, talk to an experienced real estate professional who knows about the buyers in your market. They can help you determine the best ways to spend your time and money when updating your home for sale.
