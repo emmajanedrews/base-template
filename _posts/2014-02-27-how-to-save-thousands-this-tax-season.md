@@ -12,7 +12,7 @@ title: How to Prepare for Spring Home Selling in Burbank
 date: '2014-02-27T08:59:00.000-08:00'
 author: Vyral Admin
 tags:
-- Home Seller Tips
+- L.A. Home Seller Tips
 modified_time: '2014-02-27T12:45:30.985-08:00'
 blogger_id: tag:blogger.com,1999:blog-1172076802032175464.post-949716270102200814
 blogger_orig_url: http://bradkorb.blogspot.com/2014/02/how-to-save-thousands-this-tax-season.html
