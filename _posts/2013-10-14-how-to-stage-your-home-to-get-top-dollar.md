@@ -11,14 +11,7 @@ layout: post
 title: How to Stage Your Home to Get Top Dollar
 date: '2013-10-14T09:49:00.001-07:00'
 author: Vyral Admin
-tags:
-- real estate burbank
-- burbank ca real estate listings
-- burbank california real estate
-- real estate burbank ca
-- burbank real estate mls
-- real estate listings
-- burbank real estate listings
+tags: L.A. Real Estate Seller Tips
 modified_time: '2013-10-14T09:49:15.330-07:00'
 blogger_id: tag:blogger.com,1999:blog-1172076802032175464.post-1351326342524744544
 blogger_orig_url: http://bradkorb.blogspot.com/2013/10/how-to-stage-your-home-to-get-top-dollar.html
