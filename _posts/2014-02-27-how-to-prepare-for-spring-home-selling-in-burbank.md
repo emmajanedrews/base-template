@@ -1,7 +1,7 @@
 ---
 youtube_code: p75AkuTBxGo
 excerpt:
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Brad+Korb/L.A.+Real+Estate+-+Spring+is+coming.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
