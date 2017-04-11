@@ -5,36 +5,35 @@ show_custom_links: false
 custom_links:
   - title:
     url:
-
 client:
-  name:
+  name: Dave Heeter
   license_number:
   about_markdown: |
-
-  market:
-  brand:
+    The Heeter Home team was created to provide customers with an enhanced experience by combining the strengths of multiple real estate professionals. Time is of the essence and a tight-knit, experienced team will be able to pool its resources to work towards completing your goal. When you choose the Heeter Home team you will be put in the hands of our capable, caring staff whose goal is to provide you with a positive experience when selling or purchasing a home.
+  market: Southern New Hampshire
+  brand: Heeter Home Team
   brokerage:
-  address:
-  phone:
+  address: '20 Trafalgar Sq. Suite 101<br>Nashua, NH 03063'
+  phone: 603-821-1134
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: dave@heeterhometeam.com
+  url: http://www.heeterrealestate.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.heeterrealestate.com/cma/property-valuation/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.heeterrealestate.com/
   VR_form:
 
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/004.jpg
+  - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: Looking to Buy a Home?
     CTA_text: Search the entire MLS for homes located in -- MARKET --.
     CTA_link_text: Home Search Tool
-    CTA_url: /homesearch/
+    CTA_url: http://www.heeterrealestate.com/
 
 lender:
   show_section: false
@@ -59,20 +58,20 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/Heeter-Home-Team-Southern-NH-Real-Estate-182240648469964
+  linkedin_url: https://www.linkedin.com/in/david-heeter-72a10611/
+  gplus_url: https://plus.google.com/b/116841641164441666134/116841641164441666134
+  youtube_url: https://www.youtube.com/channel/UC7LfQfcaiZ9bwjm7G7dwsAQ
+  twitter_url: http://twitter.com/DaveHeeter1
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
+  zillow_url: https://www.zillow.com/profile/Dave2354/
+  trulia_url: https://www.trulia.com/profile/dave-heeter-team-agent-nashua-nh-zg5pmdys/overview
+  yelp_url: https://www.yelp.com/biz/heeter-home-team-nashua
   podcast_url:
 
 podcast:
-  title:
+  title: Southern New Hampshire Real Estate Podcast with Dave Heeter
   categories: Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
@@ -89,8 +88,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#C14547'
-  theme_color: '#005473'
+  brand_color: '#D21242'
+  theme_color: '#231F20'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -99,7 +98,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: "#000"
+  shadow_color: "#6D9FD1"
 
 buttons:
   button_radius_number: 0
