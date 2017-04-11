@@ -1,7 +1,7 @@
 ---
 youtube_code: shd6Nl4BIXQ
-excerpt:
-enclosure:
+excerpt: 'Right now, the interest rate market is incredible. We are seeing most people get rates in the mid-3%’s, which has drawn tons of buyers into the market earlier than expected.'
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Whats+Going+on+With+Mortgage+Rates%253F.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -9,16 +9,18 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: What’s Going on With Mortgage Rates?
-date: '2016-03-02T13:43:00.000-08:00'
+date: 2016-03-02 21:43:00
 author: Vyral Admin
 tags:
-- burbank ca real estate listings
-modified_time: '2016-03-02T13:55:26.821-08:00'
-thumbnail: https://img.youtube.com/vi/shd6Nl4BIXQ/default.jpg
-blogger_id: tag:blogger.com,1999:blog-1172076802032175464.post-3520786472059898922
-blogger_orig_url: http://bradkorb.blogspot.com/2016/03/whats-going-on-with-mortgage-rates.html
+modified_time:
+thumbnail: 'https://img.youtube.com/vi/shd6Nl4BIXQ/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-1172076802032175464.post-3520786472059898922'
+blogger_orig_url: 'http://bradkorb.blogspot.com/2016/03/whats-going-on-with-mortgage-rates.html'
 ---
+
+
 {% include youtube.html %}
+
 Right now, the interest rate market is incredible. We are seeing most people get rates in the mid-3%’s, which has drawn tons of buyers into the market earlier than expected. This is why we are telling sellers to get their homes on the market as soon as possible, because these low rates are only going to continue to attract buyers.
 
 Even in the last few weeks, interest rates have fallen. In addition to that fact, there are a ton of different down payment assistance and first-time buyer programs out there that are making homes a whole lot more affordable than they used to be.
