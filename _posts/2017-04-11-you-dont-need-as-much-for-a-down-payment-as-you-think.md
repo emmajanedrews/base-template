@@ -3,7 +3,7 @@ layout: post
 title: You Don’t Need as Much for a Down Payment as You Think
 date: 2017-04-11 13:48:08
 tags:
-  - Home Buyer Tips
+  - L.A Home Buyer Tips
 excerpt: 'It’s not necessary to save 20% for a down payment. There are a lot of loan programs where you can get into a home for much cheaper.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Large+down+payments+arent+necessary.mp4'
 pullquote: 'You don’t need 20%; you only need 3.5%.'
