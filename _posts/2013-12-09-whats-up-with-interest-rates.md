@@ -11,13 +11,7 @@ layout: post
 title: What's Up with Interest Rates?
 date: '2013-12-09T14:05:00.001-08:00'
 author: Vyral Admin
-tags:
-- new homes in burbank ca
-- real estate burbank
-- burbank ca real estate listings
-- burbank california real estate
-- burbank real estate mls
-- burbank real estate listings
+tags: L.A. Market Updates
 modified_time: '2013-12-09T14:05:38.400-08:00'
 blogger_id: tag:blogger.com,1999:blog-1172076802032175464.post-3891947537913278551
 blogger_orig_url: http://bradkorb.blogspot.com/2013/12/whats-up-with-interest-rates.html
