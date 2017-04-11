@@ -1,7 +1,7 @@
 ---
 youtube_code: 8KEdQxY6IuU
-excerpt:
-enclosure:
+excerpt: 'If you’re considering selling your home, when is the right time to call your Realtor to get your home ready to go on the market?'
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Prepare+for+Your+Listing+the+Right+Way.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -9,16 +9,18 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: How to Spend Wisely on Upgrades When Listing in LA
-date: '2016-05-17T14:16:00.002-07:00'
+date: 2016-05-17 21:16:00
 author: Vyral Admin
 tags:
-- L.A. Real Estate Seller Tips
-modified_time: '2016-05-19T14:31:48.604-07:00'
-thumbnail: https://img.youtube.com/vi/8KEdQxY6IuU/default.jpg
-blogger_id: tag:blogger.com,1999:blog-1172076802032175464.post-4723612213172432955
-blogger_orig_url: http://bradkorb.blogspot.com/2016/05/la-real-estate-prepare-for-your-listing.html
+modified_time:
+thumbnail: 'https://img.youtube.com/vi/8KEdQxY6IuU/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-1172076802032175464.post-4723612213172432955'
+blogger_orig_url: 'http://bradkorb.blogspot.com/2016/05/la-real-estate-prepare-for-your-listing.html'
 ---
+
+
 {% include youtube.html %}
+
 If you’re considering selling your home, when is the right time to call your Realtor to get your home ready to go on the market?
 
 Recently I had some clients spending time and money on things that I actually thought weren’t important to get top dollar in their market.
