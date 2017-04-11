@@ -1,26 +1,26 @@
 ---
 youtube_code: SwPat4zdDYs
-excerpt:
-enclosure:
+excerpt: 'Today, we want to introduce you to James Lester.  James is a buyer specialist who joined the Brad Korb Real Estate Team in 2013.'
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent+Meet+our+Buyer%27s+Specialist+James+Lester.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
-title: Meet Buyer Specialist James Lester!
-date: '2016-01-19T09:47:00.000-08:00'
+title: 'Meet Buyer Specialist James Lester!'
+date: 2016-01-19 17:47:00
 author: Vyral Admin
 tags:
-- burbank california real estate
-- Home Buyer Tips
-modified_time: '2016-01-19T09:49:00.864-08:00'
-thumbnail: https://img.youtube.com/vi/SwPat4zdDYs/default.jpg
-blogger_id: tag:blogger.com,1999:blog-1172076802032175464.post-980076080500707329
-blogger_orig_url: http://bradkorb.blogspot.com/2016/01/la-real-estate-agent-meet-our-buyers.html
+  - Home Buyer Tips
+modified_time:
+thumbnail: 'https://img.youtube.com/vi/SwPat4zdDYs/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-1172076802032175464.post-980076080500707329'
+blogger_orig_url: 'http://bradkorb.blogspot.com/2016/01/la-real-estate-agent-meet-our-buyers.html'
 ---
-{% include youtube.html %}
-Today, we want to introduce you to James Lester.
+
+
+{% include youtube.html %}Today, we want to introduce you to James Lester.
 
 James is a buyer specialist who joined the Brad Korb Real Estate Team in 2013. He left a nationally recognized real estate company and was able to sell two times the national average once joining the team.
 
