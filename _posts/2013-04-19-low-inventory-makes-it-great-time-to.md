@@ -11,7 +11,7 @@ layout: post
 title: 'Low Inventory Makes It a Great Time to Sell  '
 date: '2013-04-19T09:07:00.001-07:00'
 author: Vyral Admin
-tags:
+tags: L.A. Real Estate Seller Tips
 modified_time: '2013-04-19T09:07:56.691-07:00'
 thumbnail: https://img.youtube.com/vi/ZIKL8h3t14k/default.jpg
 blogger_id: tag:blogger.com,1999:blog-1172076802032175464.post-2378018960390331324
