@@ -9,7 +9,7 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: 4 Key Factors to Focus on for a Top-Dollar Sale
-date: 2017-04-10 17:30:00
+date: 2017-04-11 10:00:00
 author: Vyral Admin
 tags:
 modified_time:
