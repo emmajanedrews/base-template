@@ -11,12 +11,7 @@ layout: post
 title: Happy New Year!
 date: '2013-12-31T06:20:00.000-08:00'
 author: Vyral Admin
-tags:
-- new homes in burbank ca
-- burbank ca real estate listings
-- burbank california real estate
-- burbank real estate mls
-- burbank real estate listings
+tags:Holiday Tips
 modified_time: '2013-12-31T06:20:11.774-08:00'
 blogger_id: tag:blogger.com,1999:blog-1172076802032175464.post-4837759543968513484
 blogger_orig_url: http://bradkorb.blogspot.com/2013/12/happy-new-year.html
