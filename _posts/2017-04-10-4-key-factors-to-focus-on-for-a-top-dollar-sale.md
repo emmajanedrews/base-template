@@ -1,7 +1,7 @@
 ---
 youtube_code: MFt4L_0Mvn0
 excerpt: There are four ways we can help you get the absolute most out of your home sale.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Tad+%26+Debbie+Wicker/Virginia+Real+Estate-+4+Ways+We+Help+You+Maximize+Your+Home+Sale.mp4'
 pullquote: "Even though it's a seller's market, pricing definitely matters."
 enclosure_type: video/mp4
 enclosure_time:
