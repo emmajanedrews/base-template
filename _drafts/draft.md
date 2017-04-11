@@ -4,7 +4,7 @@ title: Buyer Advice From Lending Expert Nick Street
 tags:
   - Home Buyer Tips
 excerpt: 'Nick Street, the branch manager at Mountain West Financial, is back to go over some lending advice for homebuyers.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Expert+advice+from+Nick+Street.mp4'
 pullquote: Make sure you talk to a lender before you start looking at homes.
 enclosure_type: video/mp4
 enclosure_time:
