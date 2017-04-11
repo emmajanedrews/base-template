@@ -12,13 +12,7 @@ title: Happy Thanksgiving!
 date: '2013-11-26T14:06:00.003-08:00'
 author: Vyral Admin
 tags:
-- new homes in burbank ca
-- real estate burbank
-- burbank ca real estate listings
-- burbank california real estate
-- real estate burbank ca
-- burbank real estate mls
-- burbank real estate listings
+- Holiday Tips
 modified_time: '2013-11-26T14:06:42.145-08:00'
 blogger_id: tag:blogger.com,1999:blog-1172076802032175464.post-23121313458118676
 blogger_orig_url: http://bradkorb.blogspot.com/2013/11/happy-thanksgiving.html
