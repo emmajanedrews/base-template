@@ -6,7 +6,7 @@ tags:
   - Buyer Tips
 excerpt: 'If you lack the funds for a down payment but still want to buy a home, I’ve got some great news.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Greater+Toronto+Group/Greater+Toronto+Group-+Great+news+for+would-be+homebuyers.mp4'
-pullquote: There’s great news for would be homebuyers who lack the funds for down payment.
+pullquote: There’s great news for would-be homebuyers who lack the funds for down payment.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -25,6 +25,6 @@ There’s actually a new report that details exactly how this program will help 
 
 {% include pullquote.html %}
 
-To get all the details on this program and find out how you can purchase a home without a large down payment, order a copy of the report today by going to [**www.littleornocashdown.com**](http://www.greatertorontogroup.com/info/buy-with-zero-down){:target="_blank"}
+To get all the details on this program and find out how you can purchase a home without a large down payment, order a copy of the report today by going to [**www.littleornocashdown.com**](http://www.greatertorontogroup.com/info/buy-with-zero-down)
 
 If you have any other questions, please don’t hesitate to give us a call or send us an email. We look forward to hearing from you!
