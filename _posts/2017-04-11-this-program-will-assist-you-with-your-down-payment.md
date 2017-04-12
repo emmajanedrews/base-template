@@ -6,7 +6,7 @@ tags:
   - Buyer Tips
 excerpt: 'If you lack the funds for a down payment but still want to buy a home, I’ve got some great news.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Greater+Toronto+Group/Greater+Toronto+Group-+Great+news+for+would-be+homebuyers.mp4'
-pullquote: There’s great news for would-be homebuyers who lack the funds for down payment.
+pullquote: There’s great news for would-be homebuyers who lack the funds for a down payment.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
