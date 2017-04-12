@@ -9,8 +9,8 @@ enclosure: 'https://s3.amazonaws.com/vyralmarketing/Rob+Ellis/Videos/2017/The+La
 pullquote: It’s a seller’s market right now in central Ohio.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/Rob_Ellis_Market_Update_Youtube (1).jpg
 youtube_code: sjEvW4y59sI
 ---
 
