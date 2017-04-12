@@ -25,6 +25,6 @@ There’s actually a new report that details exactly how this program will help 
 
 {% include pullquote.html %}
 
-To get all the details on this program and find out how you can purchase a home without a large down payment, order a copy of the report today by going to [**www.littleornocashdown.com**](http://www.greatertorontogroup.com/info/buy-with-zero-down){: target-"_blank"}
+To get all the details on this program and find out how you can purchase a home without a large down payment, order a copy of the report today by going to [**www.littleornocashdown.com**](http://www.greatertorontogroup.com/info/buy-with-zero-down)
 
 If you have any other questions, please don’t hesitate to give us a call or send us an email. We look forward to hearing from you!
