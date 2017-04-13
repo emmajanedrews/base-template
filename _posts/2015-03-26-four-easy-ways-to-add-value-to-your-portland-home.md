@@ -1,7 +1,7 @@
 ---
 youtube_code: U9vkZX2TPjo
 excerpt:
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Steve+Schwab/Portland+Real+Estate+Agent-+4+cost-effective+home+repairs.mp4'
 pullquote: Often times the repairs that you think might net you more money are not the ones you need to be making.
 enclosure_type: video/mp4
 enclosure_time:
@@ -9,17 +9,18 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: Four Easy Ways to Add Value to Your Portland Home
-date: '2015-03-26T10:51:00.001-07:00'
+date: 2015-03-26 17:51:00
 author: Vyral Admin
 tags:
-- Home Seller Tips
-modified_time: '2015-03-26T10:52:13.661-07:00'
-thumbnail: https://img.youtube.com/vi/U9vkZX2TPjo/default.jpg
-blogger_id: tag:blogger.com,1999:blog-2337985381521843373.post-1006836175424020043
-blogger_orig_url: http://portlandlifestyleteam.blogspot.com/2015/03/portland-real-estate-home-seller-tips.html
+  - Home Seller Tips
+modified_time:
+thumbnail: 'https://img.youtube.com/vi/U9vkZX2TPjo/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-2337985381521843373.post-1006836175424020043'
+blogger_orig_url: 'http://portlandlifestyleteam.blogspot.com/2015/03/portland-real-estate-home-seller-tips.html'
 ---
-{% include youtube.html %}
-With the spring selling season in full swing here in Portland, I wanted to share four inexpensive ways to add some value to your home. These things can easily be done right before a sale, and they can put some extra cash in your pocket at closing.
+
+
+{% include youtube.html %}With the spring selling season in full swing here in Portland, I wanted to share four inexpensive ways to add some value to your home. These things can easily be done right before a sale, and they can put some extra cash in your pocket at closing.
 
 1. Appliances: Many of our homes have older appliances within them, and you might be surprised at how inexpensive it is to get new appliances. A company I know of called ABT is able to swap out all of your appliances to get you the stainless steel that buyers like to see these days.
 
