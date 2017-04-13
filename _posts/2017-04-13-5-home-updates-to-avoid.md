@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Home Updates to Avoid
-date: 2017-04-13 11:00:16
+date: 2017-04-13 11:00:00
 tags:
   - Home Seller Tips
 excerpt: "Certain upgrades and renovations can add a lot of value to your home whether you're selling it or just want to enjoy it while you're there. However, you should avoid these five."
@@ -9,7 +9,7 @@ enclosure: 'http://vyralmarketing.s3.amazonaws.com/Breanne%20Steen/Ventura%20Cou
 pullquote: "Buyers don't want you to replace carpet with carpet!"
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image:
 youtube_code: T8rHkTSDsgE
 ---
