@@ -1,6 +1,6 @@
 ---
 youtube_code: NbbfZAEmTTM
-excerpt:
+excerpt: 'https://s3.amazonaws.com/vyralmarketing/Steve+Schwab/Portland+Real+Estate+Agent+How+does+Portland+compare+to+US+real+estate+as+a+whole.mp4'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Steve+Schwab/Portland+Real+Estate+Agent-The+Portland+real+estate+market+is+on+fire.mp4'
 pullquote: "If you're renting right now, I highly suggest you start considering a home purchase."
 enclosure_type: video/mp4
