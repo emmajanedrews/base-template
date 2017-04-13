@@ -9,7 +9,7 @@ pullquote: 'One of our buyers recently bought a $302,000 home with just $1,500 o
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/daniel-dixon-team-screenshot-4-13-17-youtube.jpg
 youtube_code: CrtRparX4ZQ
 ---
 
