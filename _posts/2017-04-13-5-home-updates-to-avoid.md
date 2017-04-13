@@ -10,7 +10,7 @@ pullquote: "Buyers don't want you to replace carpet with carpet!"
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/NO_PB (10).jpg
 youtube_code: T8rHkTSDsgE
 ---
 
