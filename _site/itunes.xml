@@ -1,46 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title></title>
+    <title>Stellar Realty Real Estate Podcast</title>
     <link>http://stellarrealtyblog.com</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://stellarrealtyblog.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Stellar Realty Northwest - your professional Portland Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Scott Besaw and Paul Campbell</managingEditor>
-    <lastBuildDate>2017-03-16 10:40:31 -0500</lastBuildDate>
+    <lastBuildDate>2017-04-13 15:36:35 -0500</lastBuildDate>
     <media:copyright>Scott Besaw and Paul Campbell</media:copyright>
-    <media:thumbnail url="http://stellarrealtyblog.com"/>
+    <media:thumbnail url="http://stellarrealtyblog.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
-    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
       <itunes:email>Info@StellarNW.com</itunes:email>
       <itunes:name>Scott Besaw and Paul Campbell</itunes:name>
     </itunes:owner>
     <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="http://stellarrealtyblog.com"/>
+    <itunes:image href="http://stellarrealtyblog.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Portland Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Stellar Realty Northwest - your professional Portland Real Estate Agents.</itunes:summary>
-      <itunes:category text="News &amp; Politics"/>
+      <itunes:category text="Education"/>
     
+      <item>
+        <title>What Are 5 Secrets That Will Lead to a Successful Home Sale?</title>
+        <link>http://stellarrealtyblog.com/what-are-5-secrets-that-will-lead-to-a-successful-home-sale.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Scott Besaw and Paul Campbell</author>
+        <pubDate>2017-04-12 19:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Stellar+Realty+Portland/+Videos/2017/April/Portland+Real+Estate+Agent-+What+Are+5+Secrets+That+Will+Lead+to+a+Successful+Home+Sale%253F+(1).mp4</guid>
+        <description>
+
+If you’re looking to sell your home, you’ll want to know these five secrets before you list:
+
+1. Price it perfectly. Buyers search for homes in $25,000 increments. So, if you for example want to get $410,000 out of your home, you should price it at $399,000 in order to create a buzz and drive the price up.
+
+2. Add a coat of fresh paint.Everybody loves a clean canvas. Just don’t forget to paint the trim!
+
+“Don’t forget to paint the trim!”
+
+3. Clean or replace the flooring. The first thing buyers see when they walk into a house are the floors. If you have to replace carpet, make sure you spend a little extra money on the padding.
+
+4. Declutter. Rent a storage unit to store all of your personal items.
+
+5. Secure your pets. Make sure no one will be able to tell that an animal lives in your home. Some people may have allergies, and you don’t want to miss out on any potential buyers.
+
+If you’re thinking about buying or selling a home or you have any other real estate questions, feel free to give me a call or send me an email. I look forward to hearing from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Stellar+Realty+Portland/+Videos/2017/April/Portland+Real+Estate+Agent-+What+Are+5+Secrets+That+Will+Lead+to+a+Successful+Home+Sale%253F+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Stellar+Realty+Portland/+Videos/2017/April/Portland+Real+Estate+Agent-+What+Are+5+Secrets+That+Will+Lead+to+a+Successful+Home+Sale%253F+(1).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you’re thinking about selling your home, there are a few things you should know. I have five secrets to a successful home sale that I would like to share with you today. One is decluttering. You need to rent a storage unit to store your personal things before you show your home. To find out all the secrets, watch this short video.</itunes:subtitle>
+        <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
+        <itunes:summary>If you’re thinking about selling your home, there are a few things you should know. I have five secrets to a successful home sale that I would like to share with you today. One is decluttering. You need to rent a storage unit to store your personal things before you show your home. To find out all the secrets, watch this short video.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Long Should Buyers Expect the Closing Process to Take?</title>
+        <link>http://stellarrealtyblog.com/how-long-should-buyers-expect-the-closing-process-to-take.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Scott Besaw and Paul Campbell</author>
+        <pubDate>2017-03-26 19:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Stellar+Realty+Portland/+Videos/2017/March/Portland+Real+Estate+Agent-+How+Long+Should+Buyers+Expect+the+Closing+Process+to+Take%253F+(1).mp4</guid>
+        <description>
+
+How long does it typically take to close on a home?
+
+Our average real estate transaction is financed through the bank and generally takes between 35 and 45 days to close. This includes your inspection timeline, the appraisal, and all the documents the lender will require from you.
+
+“Our average real estate transaction takes between 35 and 45 days to close.”
+
+Cash transactions are far quicker and usually only need about five to 20 days. If there’s a tenant living in the home you choose to buy, it can significantly increase the time to close. I’ve seen transactions go from 90 to 180 days just because of the tenant.
+
+If you have any questions about this topic or are thinking about buying or selling a home in our market, please feel free to reach out to me so I can help. I look forward to talking to you soon!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Stellar+Realty+Portland/+Videos/2017/March/Portland+Real+Estate+Agent-+How+Long+Should+Buyers+Expect+the+Closing+Process+to+Take%253F+(1).mp4" length="10:21 am" type="video/mp4"/>
+        <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Stellar+Realty+Portland/+Videos/2017/March/Portland+Real+Estate+Agent-+How+Long+Should+Buyers+Expect+the+Closing+Process+to+Take%253F+(1).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>When it comes to how long real estate transactions typically take to be completed, the answer depends on a few different factors.</itunes:subtitle>
+        <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
+        <itunes:summary>When it comes to how long real estate transactions typically take to be completed, the answer depends on a few different factors.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
       <item>
         <title>5 Ways to Get Your Home Ready for Sale</title>
         <link>http://stellarrealtyblog.com/5-ways-to-get-your-home-ready-for-sale.html</link>
         
-          <category>seller tips</category>
+          <category>Home Seller Tips</category>
         
         <author>Scott Besaw and Paul Campbell</author>
         <pubDate>2017-01-20 11:37:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Stellar+Realty+Portland/+Videos/Portland+Real+Esate+Agent-+5+Ways+to+Get+Your+Home+Ready+for+Sale.mp4</guid>
         <description>
-
 Here are five ways you can prepare your home for sale:
 
 
   Clean &amp; declutter. Remove any excess furniture and belongings that are on the countertops or shelving to make the interior space feel more open.
-  Depersonalize. Remove any photos or personal items that are specific to your family and lifestyle so that the new buyers can picture their family in that space.
-“The way the home looks from the curb is what draws buyers inside.”
+  Depersonalize. Remove any photos or personal items that are specific to your family and lifestyle so that the new buyers can picture their family in that space.“The way the home looks from the curb is what draws buyers inside.”
   Do minor repairs. You don’t necessarily need to retile the bathroom or remodel the kitchen, but you do want to take care of other minor things, like making sure the doors and cabinets open and close correctly, patching up holes and nicks in the walls, or repainting the walls and trimming where needed.
   Enhance curb appeal. Make sure that the exterior of the home and yard is clean and tidy. One thing that makes a big impact is adding bright and colorful flowers and pots. Remember, it’s the way the home looks from the curb that draws buyers inside.
   Detach emotionally. Start to think of it as a house rather than your home. You want to visualize the new buyers moving in and yourself moving on to the next stage of your life.
@@ -48,9 +114,9 @@ Here are five ways you can prepare your home for sale:
 
 If you have any questions or would like more information regarding this topic, please feel free to give me a call or send me an email. I look forward to helping you in any way I can.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Stellar+Realty+Portland/+Videos/Portland+Real+Esate+Agent-+5+Ways+to+Get+Your+Home+Ready+for+Sale.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Stellar+Realty+Portland/+Videos/Portland+Real+Esate+Agent-+5+Ways+to+Get+Your+Home+Ready+for+Sale.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>There are five simple things you can do to your home to get it ready for sale.</itunes:subtitle>
         <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
@@ -60,15 +126,14 @@ If you have any questions or would like more information regarding this topic, p
       
       <item>
         <title>The Advantages of Using a Local Lender</title>
-        <link>http://stellarrealtyblog.com/the-advantages-of-using-local-lender.html</link>
+        <link>http://stellarrealtyblog.com/the-advantages-of-using-a-local-lender.html</link>
         
-          <category>Portland Real Estate Buyer Tips</category>
+          <category>Real Estate</category>
         
         <author>Scott Besaw and Paul Campbell</author>
         <pubDate>2016-12-12 16:39:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Stellar+Realty+Portland/Portland+Real+Estate+Agent-+The+Advantages+of+Using+a+Local+Lender.mp4</guid>
         <description>
-
 Should you reach out to your Realtor in order to find a local lender? Yes. Real estate agents have access to many local lenders, credit unions, and mortgage companies.
 
 Larger institutions can’t service your financing needs as well as mortgage companies. They usually offer limited products, whereas mortgage companies usually offer 15 products or more. You’ll also face a better chance of pre-approval with a mortgage company because they offer more loan products to choose from and are more flexible with down payments and credit scores.
@@ -77,9 +142,9 @@ The advantages of working with a preferred lender are numerous. Our preferred le
 
 If you have any questions about our preferred lenders or what’s going on in the real estate market, please give me a call or send me an email. I look forward to hearing from you.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Stellar+Realty+Portland/Portland+Real+Estate+Agent-+The+Advantages+of+Using+a+Local+Lender.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Stellar+Realty+Portland/Portland+Real+Estate+Agent-+The+Advantages+of+Using+a+Local+Lender.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>If you need financing, you should reach out to your Realtor in order to find a local lender that can provide better service than a larger institution.</itunes:subtitle>
         <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
@@ -89,15 +154,14 @@ If you have any questions about our preferred lenders or what’s going on in th
       
       <item>
         <title>How to Pick the Best Offer on Your House</title>
-        <link>http://stellarrealtyblog.com/how-to-pick-best-offer-on-your-house-1.html</link>
+        <link>http://stellarrealtyblog.com/how-to-pick-the-best-offer-on-your-house.html</link>
         
-          <category>seller tips</category>
+          <category>Home Seller Tips</category>
         
         <author>Scott Besaw and Paul Campbell</author>
         <pubDate>2016-11-29 10:41:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Paul+Campbell/Portland+Real+Estate+Agent-+Multiple+Offers.mp4</guid>
         <description>
-
 When you’re selling your home and juggling multiple offers, is the highest offer always the best?
 
 Not necessarily. There are a lot of other variables in play, including the terms of the loan, whether or not it’s a cash offer, some contingencies, and the length of the closing. You should consider four things before accepting a buyer’s offer:
@@ -113,9 +177,9 @@ Sometimes cash buyers are better than financed offers; however, cash buyers usua
 
 If you have any questions about buying or selling real estate, feel free to give me a call or shoot me an email. I look forward to hearing from you.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Paul+Campbell/Portland+Real+Estate+Agent-+Multiple+Offers.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Paul+Campbell/Portland+Real+Estate+Agent-+Multiple+Offers.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>When you're considering multiple offers on your home, there are many other variables besides price to consider before making a decision.</itunes:subtitle>
         <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
@@ -125,15 +189,14 @@ If you have any questions about buying or selling real estate, feel free to give
       
       <item>
         <title>A Quick Tour of the Sellwood Neighborhood</title>
-        <link>http://stellarrealtyblog.com/a-quick-tour-of-sellwood-neighborhood.html</link>
+        <link>http://stellarrealtyblog.com/a-quick-tour-of-the-sellwood-neighborhood.html</link>
         
-          <category>Portland neighborhoods</category>
+          <category>Real Estate</category>
         
         <author>Scott Besaw and Paul Campbell</author>
         <pubDate>2016-11-17 13:29:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Paul+Campbell/Portland+Real+Estate+Agent-+A+Tour+of+Sellwood.mp4</guid>
         <description>
-
 Today, we wanted to take you on a quick tour of the lovely Sellwood neighborhood in Portland. Sellwood is located on the east bank of the Willamette River, near the southern end of Ross Island. It’s about two miles long and a mile wide.
 
 Sellwood is a teardrop-shaped area that’s rich in natural and recreational amenities, including four public parks. Sellwood also boasts a full range of businesses and services, like specialty retail stores, antiques, grocery stores, hardware stores, banks, and dry cleaners to name a few.
@@ -148,9 +211,9 @@ In the video above, you can see a good example of a Sellwood house. This bungalo
 
 I hope you enjoyed this look at Sellwood! If you’re interested in buying or selling a home in Portland, give me a call or send me an email. I’d love to work with you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Paul+Campbell/Portland+Real+Estate+Agent-+A+Tour+of+Sellwood.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Paul+Campbell/Portland+Real+Estate+Agent-+A+Tour+of+Sellwood.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Today we're taking a quick look at the Sellwood neighborhood in Portland, located on the east bank of the Willamette River. It's a walkable neighborhood with tons of great amenities.</itunes:subtitle>
         <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
@@ -160,15 +223,14 @@ I hope you enjoyed this look at Sellwood! If you’re interested in buying or se
       
       <item>
         <title>How Does Housing Inventory Affect Your Home’s Value?</title>
-        <link>http://stellarrealtyblog.com/how-does-housing-inventory-affect-your.html</link>
+        <link>http://stellarrealtyblog.com/how-does-housing-inventory-affect-your-homes-value.html</link>
         
-          <category>seller tips</category>
+          <category>Home Seller Tips</category>
         
         <author>Scott Besaw and Paul Campbell</author>
         <pubDate>2016-11-07 10:13:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Stellar+Realty+Portland/Portland+Real+Estate+Agent+-+How+Does+Housing+Inventory+Affect+Your+Homes+Value.mp4</guid>
         <description>
-
 Why is housing inventory an important statistic to track on the market?
 
 Housing inventory is measured in months of inventory. This is basically how many months it would take for all of the available homes to sell if no new homes were listed on the market.
@@ -179,9 +241,9 @@ How does housing inventory affect your home’s value? While your home’s value
 
 If you’d like to know the current housing inventory in your area or have any other questions related to real estate, please give me a call or send me an email. I’d be happy to help you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Stellar+Realty+Portland/Portland+Real+Estate+Agent+-+How+Does+Housing+Inventory+Affect+Your+Homes+Value.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Stellar+Realty+Portland/Portland+Real+Estate+Agent+-+How+Does+Housing+Inventory+Affect+Your+Homes+Value.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>What do you need to know about current housing inventory? Here is a brief rundown.</itunes:subtitle>
         <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
@@ -191,15 +253,14 @@ If you’d like to know the current housing inventory in your area or have any o
       
       <item>
         <title>A Tour of the Woodstock Neighborhood</title>
-        <link>http://stellarrealtyblog.com/a-tour-of-woodstock-neighborhood.html</link>
+        <link>http://stellarrealtyblog.com/a-tour-of-the-woodstock-neighborhood.html</link>
         
-          <category>Portland neighborhoods</category>
+          <category>Real Estate</category>
         
         <author>Scott Besaw and Paul Campbell</author>
         <pubDate>2016-10-31 14:33:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Stellar+Realty+Portland/Portland+Real+Estate+Agent+-+A+Tour+of+the+Woodstock+Neighborhood.mp4</guid>
         <description>
-
 Today I’m excited to give you a quick tour of the Woodstock neighborhood in Portland.
 
 This area has some great restaurants, grocery stores, health care facilities, and many kinds of shops, all within walking distance. My person personal favorite is New Seasons, which has a rooftop bar.
@@ -208,9 +269,9 @@ The neighborhood has many mid-century homes and some turn of the century homes, 
 
 Thanks for joining me on the tour. If you have any questions about this wonderful neighborhood, give me a call or send me an email. I’d be happy to help you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Stellar+Realty+Portland/Portland+Real+Estate+Agent+-+A+Tour+of+the+Woodstock+Neighborhood.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Stellar+Realty+Portland/Portland+Real+Estate+Agent+-+A+Tour+of+the+Woodstock+Neighborhood.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>We recently took a tour of the Woodstock neighborhood, and I wanted to give you a look. This neighborhood has some great shops and restaurants, and plenty of architectural charm.</itunes:subtitle>
         <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
@@ -220,15 +281,14 @@ Thanks for joining me on the tour. If you have any questions about this wonderfu
       
       <item>
         <title>How The Appraisal Process Works</title>
-        <link>http://stellarrealtyblog.com/how-appraisal-process-works.html</link>
+        <link>http://stellarrealtyblog.com/how-the-appraisal-process-works.html</link>
         
-          <category>The Appraisal Process</category>
+          <category>Home Buyer Tips</category>
         
         <author>Scott Besaw and Paul Campbell</author>
         <pubDate>2016-10-14 16:05:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Paul+Campbell/Portland+Real+Estate+Agent+How+the+appraisal+process+really+works.mp4</guid>
         <description>
-
 One of the most crucial aspects of buying or selling a Portland home is the appraisal of the property. Here are some of the key parts of the process:
 
 What is an appraisal? A non-biased third party will physically come to the property and inspect the interior and exterior of the home. The appraiser will then pull comparisons from the neighborhood—typically homes that have sold or are currently pending within a close radius—gather the information, put it into a very thorough report, and come up with a value. Upon finishing the report, the appraiser will then send it to the lender, the lender will contact the buyer, and the buyer will be able to pick the report apart to find out how the value was calculated.
@@ -241,9 +301,9 @@ How do appraisals affect the home seller? If the appraisal comes in below the sa
 
 If you have any other questions about the appraisal process and what to expect during it, or you’re thinking about buying or selling Portland real estate, give me a call or send me an email. I’d be happy to help you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Paul+Campbell/Portland+Real+Estate+Agent+How+the+appraisal+process+really+works.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Paul+Campbell/Portland+Real+Estate+Agent+How+the+appraisal+process+really+works.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>You may know that getting an appraisal is an important part of any home purchase transaction, but do you know how the process works?</itunes:subtitle>
         <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
@@ -253,15 +313,14 @@ If you have any other questions about the appraisal process and what to expect d
       
       <item>
         <title>Explore the Mississippi Ave. Neighborhood in North Portland</title>
-        <link>http://stellarrealtyblog.com/portland-real-estate-agent-mississippi.html</link>
+        <link>http://stellarrealtyblog.com/explore-the-mississippi-ave-neighborhood-in-north-portland.html</link>
         
-          <category>Portland neighborhoods</category>
+          <category>Real Estate</category>
         
         <author>Scott Besaw and Paul Campbell</author>
         <pubDate>2016-09-16 17:06:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Paul+Campbell/Portland+Real+Estate+Agent-+Mississippi+Avenue+Neighborhood+Tour.mp4</guid>
         <description>
-
 Mississippi Avenue is a north Portland neighborhood that runs just east of the I-5 between Skidmore and Freemont. This neighborhood is a cozy pocket of Portland near the PCC Cascade campus and allows easy access to the interstate and the MAX.
 
 My favorite eatery in Mississippi Ave is Prost! Stop by Prost! for a great German meal with beer and sausage. The best thing to order for lunch is the German Pretzel Sandwich with German potato salad and a Franziskaner beer.
@@ -276,18 +335,16 @@ The average home price on Mississippi Avenue is $450,000. This neighborhood feat
 
 If you have any questions about this neighborhood or other areas in Portland, give us a call or send us an email. We would be happy to help you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Paul+Campbell/Portland+Real+Estate+Agent-+Mississippi+Avenue+Neighborhood+Tour.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Paul+Campbell/Portland+Real+Estate+Agent-+Mississippi+Avenue+Neighborhood+Tour.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Mississippi Avenue is a north Portland neighborhood that runs just east of the I-5 between Skidmore and Freemont. This neighborhood is a cozy pocket of Portland near the PCC Cascade campus and allows easy access to the interstate and the MAX.
 
 </itunes:subtitle>
         <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
         <itunes:summary>
-
 Mississippi Avenue is a north Portland neighborhood that runs just east of the I-5 between Skidmore and Freemont. This neighborhood is a cozy pocket of Portland near the PCC Cascade campus and allows easy access to the interstate and the MAX.
 
 </itunes:summary>
@@ -296,15 +353,14 @@ Mississippi Avenue is a north Portland neighborhood that runs just east of the I
       
       <item>
         <title>Maintaining Your Heating/Cooling Systems</title>
-        <link>http://stellarrealtyblog.com/homeowner-tips-for-hvac-maintenance.html</link>
+        <link>http://stellarrealtyblog.com/maintaining-your-heatingcooling-systems.html</link>
         
-          <category>Home Owner Tips</category>
+          <category>Real Estate</category>
         
         <author>Scott Besaw and Paul Campbell</author>
         <pubDate>2016-08-25 13:48:00 -0500</pubDate>
         <guid></guid>
         <description>
-
 With summer nearly over, I’m sure you (like us) have been reminded just how much we use our air conditioning. Soon, in the winter, you’ll be reminded of how often you use the furnace, too.
 
 It’s one of the major systems in your home, and a surprise issue with one of these systems can be a nightmare if handled improperly. That’s why we wanted to share a video from Angie’s List that we recently saw about proper maintenance of your heating and cooling systems.
@@ -324,13 +380,11 @@ As always, for any real estate questions for the Syracuse area, feel free to giv
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 With summer nearly over, I’m sure you (like us) have been reminded just how much we use our air conditioning. Soon, in the winter, you’ll be reminded of how often you use the furnace, too.
 
 </itunes:subtitle>
         <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
         <itunes:summary>
-
 With summer nearly over, I’m sure you (like us) have been reminded just how much we use our air conditioning. Soon, in the winter, you’ll be reminded of how often you use the furnace, too.
 
 </itunes:summary>
@@ -339,15 +393,14 @@ With summer nearly over, I’m sure you (like us) have been reminded just how mu
       
       <item>
         <title>How to Stand Out When Buying in Portland</title>
-        <link>http://stellarrealtyblog.com/portland-real-estate-stand-out-in.html</link>
+        <link>http://stellarrealtyblog.com/how-to-stand-out-when-buying-in-portland.html</link>
         
-          <category>Portland Real Estate Buyer Tips</category>
+          <category>Home Buyer Tips</category>
         
         <author>Scott Besaw and Paul Campbell</author>
         <pubDate>2016-05-25 16:14:00 -0500</pubDate>
-        <guid></guid>
+        <guid>http://stellarrealtynw.blogspot.com/2016/05/portland-real-estate-stand-out-in.html</guid>
         <description>
-
 How can you stand out as a buyer in the competitive Portland real estate market? There are a few ways to achieve this.
 
 
@@ -358,18 +411,16 @@ How can you stand out as a buyer in the competitive Portland real estate market?
 
 We can help with all of these factors. If you have any questions, don’t hesitate to reach out.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="http://stellarrealtynw.blogspot.com/2016/05/portland-real-estate-stand-out-in.html" length="" type="video/mp4"/>
         <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="http://stellarrealtynw.blogspot.com/2016/05/portland-real-estate-stand-out-in.html" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 How can you stand out as a buyer in the competitive Portland real estate market? There are a few ways to achieve this.
 
 </itunes:subtitle>
         <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
         <itunes:summary>
-
 How can you stand out as a buyer in the competitive Portland real estate market? There are a few ways to achieve this.
 
 </itunes:summary>
@@ -378,15 +429,14 @@ How can you stand out as a buyer in the competitive Portland real estate market?
       
       <item>
         <title>See All That Wonderful Dunthorpe Has to Offer</title>
-        <link>http://stellarrealtyblog.com/portland-real-estate-tour-of-gorgeous.html</link>
+        <link>http://stellarrealtyblog.com/see-all-that-wonderful-dunthorpe-has-to-offer.html</link>
         
-          <category>Portland neighborhoods</category>
+          <category>Real Estate</category>
         
         <author>Scott Besaw and Paul Campbell</author>
         <pubDate>2016-05-05 19:53:00 -0500</pubDate>
-        <guid></guid>
+        <guid>http://stellarrealtynw.blogspot.com/2016/05/portland-real-estate-tour-of-gorgeous.html</guid>
         <description>
-
 Located just minutes south of downtown and right next to Lewis And Clark College, this safe community offers the best of both worlds with huge estates and an amazing school system. The Riverdale school district in Dunthorpe has the high school and the elementary school with 18 students per classroom and an average of $14,000 spent on each student.
 
 I’m joined by Andre, who just moved to Dunthorpe from Pasadena, California, to talk about Dunthorpe and his favorite parts of living here.
@@ -403,18 +453,16 @@ Take a look at Elk Rock Gardens, one of my favorite spaces in all of Dunthorpe. 
 
 Thanks so much for joining me in our tour through the beautiful Dunthorpe neighborhood. Please feel free to reach out to me with any questions. I look forward to hearing from you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="http://stellarrealtynw.blogspot.com/2016/05/portland-real-estate-tour-of-gorgeous.html" length="" type="video/mp4"/>
         <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="http://stellarrealtynw.blogspot.com/2016/05/portland-real-estate-tour-of-gorgeous.html" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Located just minutes south of downtown and right next to Lewis And Clark College, this safe community offers the best of both worlds with huge estates and an amazing school system. The Riverdale school district in Dunthorpe has the high school and the elementary school with 18 students per classroom and an average of $14,000 spent on each student.
 
 </itunes:subtitle>
         <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
         <itunes:summary>
-
 Located just minutes south of downtown and right next to Lewis And Clark College, this safe community offers the best of both worlds with huge estates and an amazing school system. The Riverdale school district in Dunthorpe has the high school and the elementary school with 18 students per classroom and an average of $14,000 spent on each student.
 
 </itunes:summary>
@@ -423,15 +471,14 @@ Located just minutes south of downtown and right next to Lewis And Clark College
       
       <item>
         <title>What Are Our Favorite Places in Milwaukie?</title>
-        <link>http://stellarrealtyblog.com/portland-real-estate-milwaukie-oregon.html</link>
+        <link>http://stellarrealtyblog.com/what-are-our-favorite-places-in-milwaukie.html</link>
         
-          <category>portland neighborhood</category>
+          <category>Real Estate</category>
         
         <author>Scott Besaw and Paul Campbell</author>
         <pubDate>2016-02-17 14:09:00 -0600</pubDate>
-        <guid></guid>
+        <guid>http://stellarrealtynw.blogspot.com/2016/02/portland-real-estate-milwaukie-oregon.html</guid>
         <description>
-
 Today we are excited to give you a tour of one of our favorite areas in Portland, Milwaukie. Milwaukie offers a small-town charm, but is just a few minutes away from downtown. It was recently voted one of the top 50 places in the country to raise a family. Milwaukie is close to the river, and there are over 100 parks in the area, offering great hiking, backpacking, and cycling options. Today we are going to highlight some of the great things about Milwaukie, from the food to the real estate. Let’s get started.
 
 Bob’s Red Mill Natural Foods was started by local resident Bob Moore, who founded the company in 1978. Today, they produce over 400 different products and are known as the leaders for grain production in the United States.
@@ -446,18 +493,16 @@ The orange light rail system connects Milwaukie to the city of Portland and trav
 
 If you have any questions for us about this area, or anything else real estate related, we would love to hear from you. Give us a call or send us an email today!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="http://stellarrealtynw.blogspot.com/2016/02/portland-real-estate-milwaukie-oregon.html" length="" type="video/mp4"/>
         <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="http://stellarrealtynw.blogspot.com/2016/02/portland-real-estate-milwaukie-oregon.html" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Today we are excited to give you a tour of one of our favorite areas in Portland, Milwaukie. Milwaukie offers a small-town charm, but is just a few minutes away from downtown. It was recently voted one of the top 50 places in the country to raise a family. Milwaukie is close to the river, and there are over 100 parks in the area, offering great hiking, backpacking, and cycling options. Today we are going to highlight some of the great things about Milwaukie, from the food to the real estate. Let’s get started.
 
 </itunes:subtitle>
         <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
         <itunes:summary>
-
 Today we are excited to give you a tour of one of our favorite areas in Portland, Milwaukie. Milwaukie offers a small-town charm, but is just a few minutes away from downtown. It was recently voted one of the top 50 places in the country to raise a family. Milwaukie is close to the river, and there are over 100 parks in the area, offering great hiking, backpacking, and cycling options. Today we are going to highlight some of the great things about Milwaukie, from the food to the real estate. Let’s get started.
 
 </itunes:summary>
@@ -466,15 +511,14 @@ Today we are excited to give you a tour of one of our favorite areas in Portland
       
       <item>
         <title>West Linn Neighborhood Tour</title>
-        <link>http://stellarrealtyblog.com/portland-real-estate-west-linn.html</link>
+        <link>http://stellarrealtyblog.com/west-linn-neighborhood-tour.html</link>
         
-          <category>Portland neighborhoods</category>
+          <category>Real Estate</category>
         
         <author>Scott Besaw and Paul Campbell</author>
         <pubDate>2016-02-10 14:58:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Paul+Campbell/Portland+Real+Estate+Agent+-+What+Are+You+Missing+out+on+in+West+Linn.mp4</guid>
         <description>
-
 West Linn is located in Clackamas County and it’s where I was born and raised. There are some lovely old homes in this rustic area, and if you’ve never been in the area, I recommend you come and take a look.
 
 Holloran Winery and Oswego Hills Vineyard are popular spots for locals. McMenamins is where I’m shooting this video, and this restaurant was the first brew house in West Linn. Their Sunflower IPA is their signature beer, and this is because their beer garden is lined with sunflowers.
@@ -487,18 +531,16 @@ We are also named ‘Tree City USA’ by the Arbor Day foundation for our commit
 
 If you want to find out more about West Linn, please don’t hesitate to contact me!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Paul+Campbell/Portland+Real+Estate+Agent+-+What+Are+You+Missing+out+on+in+West+Linn.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Paul+Campbell/Portland+Real+Estate+Agent+-+What+Are+You+Missing+out+on+in+West+Linn.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 West Linn is located in Clackamas County and it’s where I was born and raised. There are some lovely old homes in this rustic area, and if you’ve never been in the area, I recommend you come and take a look.
 
 </itunes:subtitle>
         <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
         <itunes:summary>
-
 West Linn is located in Clackamas County and it’s where I was born and raised. There are some lovely old homes in this rustic area, and if you’ve never been in the area, I recommend you come and take a look.
 
 </itunes:summary>
@@ -507,22 +549,20 @@ West Linn is located in Clackamas County and it’s where I was born and raised.
       
       <item>
         <title>Tips for Holiday Decorating on a Budget</title>
-        <link>http://stellarrealtyblog.com/holiday-decorating-on-budget.html</link>
+        <link>http://stellarrealtyblog.com/tips-for-holiday-decorating-on-a-budget.html</link>
         
-          <category>holiday tips</category>
+          <category>Real Estate</category>
         
         <author>Scott Besaw and Paul Campbell</author>
         <pubDate>2015-12-09 10:43:00 -0600</pubDate>
         <guid></guid>
         <description>
-
 The holidays are approaching. Today, we thought we’d do something a little different and share this festive video on holiday decorating tips from HGTV. Designer Angelo Surmelis shares several great ideas to spread holiday cheer throughout the home. Here are some of our favorites.
 
 
   Pay attention to the mantle. If you don’t have some already, buy some kind of garland to drape over the mantle. Next, use leftover ornaments and candles to add light and texture. When choosing ornaments and candles, ensure they are in the same color-palette. This helps make your mantle a great focal point!
   Use smaller Christmas trees. Every house has their main Christmas tree. In addition, you can also purchase smaller, inexpensive, eco-friendly trees to place throughout the home. Decorate these trees with strips of fabric from a T-shirt in holiday colors to save money for the main tree.
-  Use what you have. Be resourceful. Adding a plate charger and place mat to your everyday dining set adds some jazz to your table. Fresh-cut flowers and candles will help finish the look. You don’t need grand, expensive candles – a little candlelight goes a long way!
-As you can see, it doesn’t take much to make your home feel more festive. If you have any questions, give us a call or send us an email. We would be happy to help you!
+  Use what you have. Be resourceful. Adding a plate charger and place mat to your everyday dining set adds some jazz to your table. Fresh-cut flowers and candles will help finish the look. You don’t need grand, expensive candles – a little candlelight goes a long way!As you can see, it doesn’t take much to make your home feel more festive. If you have any questions, give us a call or send us an email. We would be happy to help you!
 
 </description>
         <enclosure url="" length="" type="video/mp4"/>
@@ -530,13 +570,11 @@ As you can see, it doesn’t take much to make your home feel more festive. If y
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 The holidays are approaching. Today, we thought we’d do something a little different and share this festive video on holiday decorating tips from HGTV. Designer Angelo Surmelis shares several great ideas to spread holiday cheer throughout the home. Here are some of our favorites.
 
 </itunes:subtitle>
         <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
         <itunes:summary>
-
 The holidays are approaching. Today, we thought we’d do something a little different and share this festive video on holiday decorating tips from HGTV. Designer Angelo Surmelis shares several great ideas to spread holiday cheer throughout the home. Here are some of our favorites.
 
 </itunes:summary>
@@ -545,65 +583,58 @@ The holidays are approaching. Today, we thought we’d do something a little dif
       
       <item>
         <title>How We Helped Monty Find a Home on a Budget</title>
-        <link>http://stellarrealtyblog.com/customer-testimonial-monty-foust.html</link>
+        <link>http://stellarrealtyblog.com/how-we-helped-monty-find-a-home-on-a-budget.html</link>
         
-          <category>Portland real estate agent</category>
-        
-          <category>testimoninal</category>
+          <category>Real Estate</category>
         
         <author>Scott Besaw and Paul Campbell</author>
         <pubDate>2015-12-02 12:36:00 -0600</pubDate>
         <guid></guid>
         <description>
-“I was very happy. I worked with Caralee, and she worked hard to stick to my rigid budget. She got me in the house I wanted and stayed within my price range. She even stayed with me late at night putting in a counter offer on my home, when she didn’t have to. She did a great job!”-Monty Foust, Home Buyer
+
+“I was very happy. I worked with Caralee, and she worked hard to stick to my rigid budget. She got me in the house I wanted and stayed within my price range. She even stayed with me late at night putting in a counter offer on my home, when she didn’t have to. She did a great job!”
+-Monty Foust, Home Buyer
 </description>
         <enclosure url="" length="" type="video/mp4"/>
         <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-“I was very happy. I worked with Caralee, and she worked hard to stick to my rigid budget. She got me in the house I wanted and stayed within my price range. She even stayed with me late at night putting in a counter offer on my home, when she didn’t have to. She did a great job!”-Monty Foust, Home Buyer
+
 </itunes:subtitle>
         <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
         <itunes:summary>
-“I was very happy. I worked with Caralee, and she worked hard to stick to my rigid budget. She got me in the house I wanted and stayed within my price range. She even stayed with me late at night putting in a counter offer on my home, when she didn’t have to. She did a great job!”-Monty Foust, Home Buyer
+
 </itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>Portland Real Estate Classes for Buyers and Sellers </title>
-        <link>http://stellarrealtyblog.com/portland-real-estate-classes.html</link>
+        <title>Portland Real Estate Classes for Buyers and Sellers</title>
+        <link>http://stellarrealtyblog.com/portland-real-estate-classes-for-buyers-and-sellers.html</link>
         
-          <category>Portland real estate agent</category>
-        
-          <category>Stellar Realty</category>
-        
-          <category>Stellar Realty Portland</category>
+          <category>Real Estate</category>
         
         <author>Scott Besaw and Paul Campbell</author>
         <pubDate>2015-11-09 13:27:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Paul+Campbell/Portland+Real+Estate+Agent+Don%27t+Miss+out+on+These+Portland+Real+Estate+Classes.mp4</guid>
         <description>
-
 I’m extremely excited to announce that the Oregon Association of Realtors has picked me to be an instructor for real estate classes aimed at educating consumers. I was one of twelve agents chosen out of the entire state of Oregon, so I’m very humbled and honored to have this opportunity.
 
 I’ve worked out a deal with Stellar Realty’s owner, Paul Campbell, and he’s also agreed to teach one class per month. I will also teach one class per month, and these two classes will be aimed at first-time home buyers, and then the other portion will be aimed at investing in real estate.
 
 If you’re interested in learning more about these classes, please don’t hesitate to contact us or resister here! You won’t want to miss out on any of this information!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Paul+Campbell/Portland+Real+Estate+Agent+Don%27t+Miss+out+on+These+Portland+Real+Estate+Classes.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Paul+Campbell/Portland+Real+Estate+Agent+Don%27t+Miss+out+on+These+Portland+Real+Estate+Classes.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 I’m extremely excited to announce that the Oregon Association of Realtors has picked me to be an instructor for real estate classes aimed at educating consumers. I was one of twelve agents chosen out of the entire state of Oregon, so I’m very humbled and honored to have this opportunity.
 
 </itunes:subtitle>
         <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
         <itunes:summary>
-
 I’m extremely excited to announce that the Oregon Association of Realtors has picked me to be an instructor for real estate classes aimed at educating consumers. I was one of twelve agents chosen out of the entire state of Oregon, so I’m very humbled and honored to have this opportunity.
 
 </itunes:summary>
@@ -612,27 +643,17 @@ I’m extremely excited to announce that the Oregon Association of Realtors has 
       
       <item>
         <title>Portland Neighborhood Spotlight: John's Landing</title>
-        <link>http://stellarrealtyblog.com/getting-to-know-johns-landing.html</link>
+        <link>http://stellarrealtyblog.com/portland-neighborhood-spotlight-johns-landing.html</link>
         
-          <category>portland or real estate</category>
-        
-          <category>houses for sale portland oregon</category>
-        
-          <category>Stellar Realty</category>
-        
-          <category>portland or homes for sale</category>
-        
-          <category>portland neighborhood</category>
+          <category>Real Estate</category>
         
         <author>Scott Besaw and Paul Campbell</author>
         <pubDate>2015-10-22 10:36:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Paul+Campbell/Portland+Real+Estate+Agent+Getting+to+know+John%27s+Landing.mp4</guid>
         <description>
-
 Today, I want to give you a behind the scenes look at one of Portland’s most established neighborhoods: John’s Landing.
 
-John’s Landing used to be known as Fulton and is positioned east of the I-5 between the Tualatin and Willamette rivers. It follows the Willamette River for three miles, stretching north to South Waterfront and south to the Sellwood Bridge. John’s Landing is home to both commercial and residential properties, including our very own Stellar Realty office!
-Just across the street is Jolly Roger, a great pit stop whether you’re looking for food or something to drink; we really like to do Thursday night trivia! Down the street you’ll find the amazing Zen Salon; I recommend Melissa - she’s great for girls and guys alike!
+John’s Landing used to be known as Fulton and is positioned east of the I-5 between the Tualatin and Willamette rivers. It follows the Willamette River for three miles, stretching north to South Waterfront and south to the Sellwood Bridge. John’s Landing is home to both commercial and residential properties, including our very own Stellar Realty office!Just across the street is Jolly Roger, a great pit stop whether you’re looking for food or something to drink; we really like to do Thursday night trivia! Down the street you’ll find the amazing Zen Salon; I recommend Melissa - she’s great for girls and guys alike!
 
 There is a great variety a homes in the John’s Landing neighborhood. Properties range from gorgeous old foursquares to bungalows and condos! Seeing these great old homes is a great reminder of the home maintenance we should all be doing in our current homes: cleaning your furnace filter; inspecting your tub and sink drains; cleaning your carpets and windows; checking the batteries in your smoke detectors; and inspecting your roofing, among other things.  For a complete list, check out the Better Homes and Gardens Maintenance Checklist!
 
@@ -642,18 +663,16 @@ One of the best parts about John’s Landing is Willamette Park. There’s plent
 
 If you have any questions about John’s Landing, or if you want to search for homes in the neighborhood, visit Caralee.PortlandPropertyFinders.com. I would love to hear from you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Paul+Campbell/Portland+Real+Estate+Agent+Getting+to+know+John%27s+Landing.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Paul+Campbell/Portland+Real+Estate+Agent+Getting+to+know+John%27s+Landing.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Today, I want to give you a behind the scenes look at one of Portland’s most established neighborhoods: John’s Landing.
 
 </itunes:subtitle>
         <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
         <itunes:summary>
-
 Today, I want to give you a behind the scenes look at one of Portland’s most established neighborhoods: John’s Landing.
 
 </itunes:summary>
@@ -662,61 +681,42 @@ Today, I want to give you a behind the scenes look at one of Portland’s most e
       
       <item>
         <title>How We Helped Kathy Through the Buying and Selling Process</title>
-        <link>http://stellarrealtyblog.com/kathy-stevens-testimonial.html</link>
+        <link>http://stellarrealtyblog.com/how-we-helped-kathy-through-the-buying-and-selling-process.html</link>
         
-          <category>Portland real estate agent</category>
-        
-          <category>houses for sale portland oregon</category>
-        
-          <category>Selling a Home</category>
-        
-          <category>Stellar Realty Portland</category>
-        
-          <category>testimoninal</category>
+          <category>Real Estate</category>
         
         <author>Scott Besaw and Paul Campbell</author>
         <pubDate>2015-10-08 12:38:00 -0500</pubDate>
         <guid></guid>
         <description>
+
 “We purchased a home and sold a home with Stellar Realty. I worked with Caralee Angell, and she is just amazing!
 
-We bought our new home, moved, and sold our previous home. In buying our new home, we knew what we were trying to find, but Caralee really listened to our unspoken needs. She could tell when we were in love with a house and when we weren’t. We almost talked ourselves into buying a house that we wouldn’t of been as great as the one we eventually found. We ended up spending less money for a better house, in a better location, because Caralee really listened to us. She was always in our corner and acted as an advocate for us! In selling our previous home, Caralee provided great advise for what we should and shouldn’t fix before selling.  In fact, there was one repair that needed to be done in our garage, and Caralee’s dad actually came over to fix it! She gave us great advice on how to price our home and it sold in no time!”-Kathy Stevens, Home Seller and Buyer
+We bought our new home, moved, and sold our previous home. In buying our new home, we knew what we were trying to find, but Caralee really listened to our unspoken needs. She could tell when we were in love with a house and when we weren’t. We almost talked ourselves into buying a house that we wouldn’t of been as great as the one we eventually found. We ended up spending less money for a better house, in a better location, because Caralee really listened to us. She was always in our corner and acted as an advocate for us! In selling our previous home, Caralee provided great advise for what we should and shouldn’t fix before selling.  In fact, there was one repair that needed to be done in our garage, and Caralee’s dad actually came over to fix it! She gave us great advice on how to price our home and it sold in no time!”
+-Kathy Stevens, Home Seller and Buyer
 </description>
         <enclosure url="" length="" type="video/mp4"/>
         <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-“We purchased a home and sold a home with Stellar Realty. I worked with Caralee Angell, and she is just amazing!
 
 </itunes:subtitle>
         <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
         <itunes:summary>
-“We purchased a home and sold a home with Stellar Realty. I worked with Caralee Angell, and she is just amazing!
 
 </itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>Check Out the Mount Tabor Neighborhood </title>
-        <link>http://stellarrealtyblog.com/mount-tabor-neighborhood.html</link>
-        
-          <category>Portland real estate agent</category>
-        
-          <category>Selling a Home</category>
-        
-          <category>Stellar Realty</category>
-        
-          <category>Stellar Realty Portland</category>
-        
-          <category>portland neighborhood</category>
+        <title>Check Out the Mount Tabor Neighborhood</title>
+        <link>http://stellarrealtyblog.com/check-out-the-mount-tabor-neighborhood.html</link>
         
         <author>Scott Besaw and Paul Campbell</author>
         <pubDate>2015-09-25 11:03:00 -0500</pubDate>
-        <guid></guid>
+        <guid>http://stellarrealtynw.blogspot.com/2015/09/mount-tabor-neighborhood.html</guid>
         <description>
-
 Today, I’m going to give you a tour of one of my favorite neighborhoods in Portland - the Mount Tabor Neighborhood! This great location is nestled in Southeast Portland, an ideal location close to downtown, freeways, parks and other venues.
 
 Our first stop is Mount Tabor Park. This park is actually on top of an inactive volcano. The park offers miles of hiking trails that cover 196 acres. These trails are great for biking or hiking. There are tennis courts, picnic areas, and a playground. There is something for everyone at Mount Tabor. Stop by for a beautiful view of the downtown skyline, and the best sunset you’ve ever seen.
@@ -733,18 +733,16 @@ Tabor Tavern is located right in the heart of the neighborhood. The food is amaz
 
 Overall, the Mount Tabor neighborhood is a great place to live. In addition to the parks and restaurants, Mount Tabor offers a wide diversity of homes. If you have any questions, give me a call or send me an email. I look forward to hearing from you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="http://stellarrealtynw.blogspot.com/2015/09/mount-tabor-neighborhood.html" length="" type="video/mp4"/>
         <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="http://stellarrealtynw.blogspot.com/2015/09/mount-tabor-neighborhood.html" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Today, I’m going to give you a tour of one of my favorite neighborhoods in Portland - the Mount Tabor Neighborhood! This great location is nestled in Southeast Portland, an ideal location close to downtown, freeways, parks and other venues.
 
 </itunes:subtitle>
         <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
         <itunes:summary>
-
 Today, I’m going to give you a tour of one of my favorite neighborhoods in Portland - the Mount Tabor Neighborhood! This great location is nestled in Southeast Portland, an ideal location close to downtown, freeways, parks and other venues.
 
 </itunes:summary>
@@ -753,27 +751,14 @@ Today, I’m going to give you a tour of one of my favorite neighborhoods in Por
       
       <item>
         <title>How Will Changing FHA Guidelines Affect You?</title>
-        <link>http://stellarrealtyblog.com/changes-to-fha-guidelines.html</link>
+        <link>http://stellarrealtyblog.com/how-will-changing-fha-guidelines-affect-you.html</link>
         
-          <category>Portland real estate agent</category>
-        
-          <category>portland houses for sale</category>
-        
-          <category>market update</category>
-        
-          <category>seller tips</category>
-        
-          <category>portland or homes for sale</category>
-        
-          <category>Stellar Realty Portland</category>
-        
-          <category>paul cambell</category>
+          <category>Real Estate</category>
         
         <author>Scott Besaw and Paul Campbell</author>
         <pubDate>2015-08-28 11:21:00 -0500</pubDate>
-        <guid></guid>
+        <guid>http://stellarrealtynw.blogspot.com/2015/08/changes-to-fha-guidelines.html</guid>
         <description>
-
 Today, Shelby Spencer of Primary Residential Mortgage joins us to discuss some of the changes to FHA Guidelines starting September 14.
 
 The biggest change to look out for is with student loans, which can no longer be removed from the debt ratio if they are deferred. This means that all contracts or offers written after September 14 will be affected by these changes. Another change comes to large deposits; we used to only need to source large deposits of around 2% of the sales price, but deposits of 1% or more now need to be documented. In addition to these changes, know that funds can no longer be used as assets; you can’t create a stronger profile with gift funds, although they can be used as a down payment.
@@ -800,18 +785,16 @@ With the inventory as tight as it is; there is a good chance some of the pre-app
 
 As long as everyone is aware of these changes up front, closing times shouldn’t be too affected. Of course, the best way to prepare yourself for these changes is to reach out to a professional and begin the process sooner than later. You can reach Shelby at SSpencer@Primeres.com or (503) 572-8865. Of course, if you have questions or concerns on the real estate side of things, don’t hesitate to reach out to us. We would love to hear from you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="http://stellarrealtynw.blogspot.com/2015/08/changes-to-fha-guidelines.html" length="" type="video/mp4"/>
         <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="http://stellarrealtynw.blogspot.com/2015/08/changes-to-fha-guidelines.html" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Today, Shelby Spencer of Primary Residential Mortgage joins us to discuss some of the changes to FHA Guidelines starting September 14.
 
 </itunes:subtitle>
         <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
         <itunes:summary>
-
 Today, Shelby Spencer of Primary Residential Mortgage joins us to discuss some of the changes to FHA Guidelines starting September 14.
 
 </itunes:summary>
@@ -820,23 +803,14 @@ Today, Shelby Spencer of Primary Residential Mortgage joins us to discuss some o
       
       <item>
         <title>Why Foster Powell Is the Neighborhood for You</title>
-        <link>http://stellarrealtyblog.com/portland-real-estate-agent-foster-powell.html</link>
+        <link>http://stellarrealtyblog.com/why-foster-powell-is-the-neighborhood-for-you.html</link>
         
-          <category>Portland real estate agent</category>
-        
-          <category>Estates in Portland</category>
-        
-          <category>Stellar Realty</category>
-        
-          <category>Stellar Realty Portland</category>
-        
-          <category>portland real estate</category>
+          <category>Real Estate</category>
         
         <author>Scott Besaw and Paul Campbell</author>
         <pubDate>2015-08-27 12:29:00 -0500</pubDate>
         <guid></guid>
         <description>
-
 Today, I’m here to talk about the Foster Powell neighborhood, affectionately known to Portland residents as FoPo. One reason FoPo is so popular is the diversity of businesses, home styles, and street layouts.It truly is a unique blend of neighborhoods.
 
 No Portland neighborhood is complete without food carts, and FoPo is no different. Be sure to check out Carts on Foster. There are so many different options: pizza, barbecue, vegan, and more! Roadrunner BBQ was voted the #3 barbecue establishment in Portland by the Oregonian. Visit their Yelp page to see the reviews.
@@ -852,13 +826,11 @@ All in all, this is a fantastic neighborhood. If you’re interested in living i
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Today, I’m here to talk about the Foster Powell neighborhood, affectionately known to Portland residents as FoPo. One reason FoPo is so popular is the diversity of businesses, home styles, and street layouts.It truly is a unique blend of neighborhoods.
 
 </itunes:subtitle>
         <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
         <itunes:summary>
-
 Today, I’m here to talk about the Foster Powell neighborhood, affectionately known to Portland residents as FoPo. One reason FoPo is so popular is the diversity of businesses, home styles, and street layouts.It truly is a unique blend of neighborhoods.
 
 </itunes:summary>
@@ -867,27 +839,14 @@ Today, I’m here to talk about the Foster Powell neighborhood, affectionately k
       
       <item>
         <title>The Top 10 Renovations that Are Sure to Save You Money</title>
-        <link>http://stellarrealtyblog.com/portland-real-estate-renovation-on.html</link>
+        <link>http://stellarrealtyblog.com/the-top-10-renovations-that-are-sure-to-save-you-money.html</link>
         
-          <category>Portland real estate agent</category>
-        
-          <category>Estates in Portland</category>
-        
-          <category>Fixer Upers</category>
-        
-          <category>Renovation</category>
-        
-          <category>Getting Read to Sell</category>
-        
-          <category>Selling a Home</category>
-        
-          <category>portland real estate</category>
+          <category>Home Seller Tips</category>
         
         <author>Scott Besaw and Paul Campbell</author>
         <pubDate>2015-08-10 10:26:00 -0500</pubDate>
         <guid></guid>
         <description>
-
 Today I’d like to share an interesting video I found on HGTV. It documents the ten best renovations that you can make on your home that won’t cause you to go broke! Renovations can get expensive, but here are some ideas to help you get more bang for your buck.
 
 
@@ -914,13 +873,11 @@ Please don’t hesitate to reach out to me if you have any questions about this 
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Today I’d like to share an interesting video I found on HGTV. It documents the ten best renovations that you can make on your home that won’t cause you to go broke! Renovations can get expensive, but here are some ideas to help you get more bang for your buck.
 
 </itunes:subtitle>
         <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
         <itunes:summary>
-
 Today I’d like to share an interesting video I found on HGTV. It documents the ten best renovations that you can make on your home that won’t cause you to go broke! Renovations can get expensive, but here are some ideas to help you get more bang for your buck.
 
 </itunes:summary>
@@ -929,25 +886,14 @@ Today I’d like to share an interesting video I found on HGTV. It documents the
       
       <item>
         <title>What's Happening in Lake Oswego?</title>
-        <link>http://stellarrealtyblog.com/portland-real-estate-lake-oswego.html</link>
+        <link>http://stellarrealtyblog.com/whats-happening-in-lake-oswego.html</link>
         
-          <category>Lake Oswego real estate</category>
-        
-          <category>Portland real estate agent</category>
-        
-          <category>Lake Oswego</category>
-        
-          <category>Stellar Realty</category>
-        
-          <category>Stellar Realty Portland</category>
-        
-          <category>portland real estate</category>
+          <category>Real Estate</category>
         
         <author>Scott Besaw and Paul Campbell</author>
         <pubDate>2015-06-08 16:27:00 -0500</pubDate>
-        <guid></guid>
+        <guid>http://stellarrealtynw.blogspot.com/2015/06/portland-real-estate-lake-oswego.html</guid>
         <description>
-
 Today we’re in Lake Oswego, a charming town just south of Portland, and one of our favorite destinations when we just want to get away for a while.
 
 We’re in the Millennium Plaza Park of Lake Oswego, where there is fine dining, movies, music, and much more. It’s a wonderful little area for anyone and everyone looking to relax for a bit. Maybe if you’re lucky your parents will take you to Salt &amp; Straw for a gourmet ice cream cone.
@@ -960,18 +906,16 @@ If you’re interested in properties in this town, please don’t hesitate to as
 
 To find a home in Lake Oswego, visit http://bit.do/LakeOswegoHomes.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="http://stellarrealtynw.blogspot.com/2015/06/portland-real-estate-lake-oswego.html" length="" type="video/mp4"/>
         <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="http://stellarrealtynw.blogspot.com/2015/06/portland-real-estate-lake-oswego.html" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Today we’re in Lake Oswego, a charming town just south of Portland, and one of our favorite destinations when we just want to get away for a while.
 
 </itunes:subtitle>
         <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
         <itunes:summary>
-
 Today we’re in Lake Oswego, a charming town just south of Portland, and one of our favorite destinations when we just want to get away for a while.
 
 </itunes:summary>
@@ -980,21 +924,14 @@ Today we’re in Lake Oswego, a charming town just south of Portland, and one of
       
       <item>
         <title>What's Happening in the Portland Real Estate Market?</title>
-        <link>http://stellarrealtyblog.com/portland-real-estate-agent-trends.html</link>
+        <link>http://stellarrealtyblog.com/whats-happening-in-the-portland-real-estate-market.html</link>
         
-          <category>Portland real estate agent</category>
-        
-          <category>market update</category>
-        
-          <category>paul cambell</category>
-        
-          <category>portland real estate</category>
+          <category>Market Update</category>
         
         <author>Scott Besaw and Paul Campbell</author>
         <pubDate>2015-05-15 10:15:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Paul+Campbell/Portland+Real+Estate+Agent+Portland+real+estate+trends.mp4</guid>
         <description>
-
 It’s spring already, and the Portland real estate market is off to a hot start. We only have three months of inventory, and that is down from last month. We’re seeing multiple offers and people are scrambling to win offers on good homes.
 
 Despite some arguments that Portland is caught in a seller’s market, it’s actually a pretty great time to buy a home. Interest rates are around 4%, and affordability is sky-high right now. Nobody is certain when interest rates will rise again, but just a 1% increase in rates could cost you thousands of dollars. For example, just a 1% increase in the mortgage interest rates on a $400,000 home could cost you an extra $85,000 over the life of the loan!
@@ -1005,18 +942,16 @@ For more information, click here to check out the fantastic article in the Portl
 
 If you have any other questions about the Portland real estate market, please don’t hesitate to contact us!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Paul+Campbell/Portland+Real+Estate+Agent+Portland+real+estate+trends.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Paul+Campbell/Portland+Real+Estate+Agent+Portland+real+estate+trends.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 It’s spring already, and the Portland real estate market is off to a hot start. We only have three months of inventory, and that is down from last month. We’re seeing multiple offers and people are scrambling to win offers on good homes.
 
 </itunes:subtitle>
         <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
         <itunes:summary>
-
 It’s spring already, and the Portland real estate market is off to a hot start. We only have three months of inventory, and that is down from last month. We’re seeing multiple offers and people are scrambling to win offers on good homes.
 
 </itunes:summary>
@@ -1024,24 +959,15 @@ It’s spring already, and the Portland real estate market is off to a hot start
       </item>
       
       <item>
-        <title>How Can You Make the Most of the Portland Market? </title>
-        <link>http://stellarrealtyblog.com/portland-real-estate-agent-market-update.html</link>
+        <title>How Can You Make the Most of the Portland Market?</title>
+        <link>http://stellarrealtyblog.com/how-can-you-make-the-most-of-the-portland-market.html</link>
         
-          <category>portland or real estate</category>
-        
-          <category>market update</category>
-        
-          <category>seller tips</category>
-        
-          <category>Stellar Realty</category>
-        
-          <category>portland real estate</category>
+          <category>Market Update</category>
         
         <author>Scott Besaw and Paul Campbell</author>
         <pubDate>2015-02-26 10:40:00 -0600</pubDate>
-        <guid></guid>
+        <guid>http://stellarrealtynw.blogspot.com/2015/02/portland-real-estate-agent-market-update.html</guid>
         <description>
-
 It’s spring already, and the Portland real estate market is off to a hot start. We only have three months of inventory, and that is down from last month. We’re seeing multiple offers and people are scrambling to win offers on good homes.
 
 Despite some arguments that Portland is caught in a seller’s market, it’s actually a pretty great time to buy a home. Interest rates are around 4%, and affordability is sky-high right now. Nobody is certain when interest rates will rise again, but just a 1% increase in rates could cost you thousands of dollars. For example, just a 1% increase in the mortgage interest rates on a $400,000 home could cost you an extra $85,000 over the life of the loan!
@@ -1052,18 +978,16 @@ For more information, click here to check out the fantastic article in the Portl
 
 If you have any other questions about the Portland real estate market, please don’t hesitate to contact us!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="http://stellarrealtynw.blogspot.com/2015/02/portland-real-estate-agent-market-update.html" length="" type="video/mp4"/>
         <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="http://stellarrealtynw.blogspot.com/2015/02/portland-real-estate-agent-market-update.html" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 It’s spring already, and the Portland real estate market is off to a hot start. We only have three months of inventory, and that is down from last month. We’re seeing multiple offers and people are scrambling to win offers on good homes.
 
 </itunes:subtitle>
         <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
         <itunes:summary>
-
 It’s spring already, and the Portland real estate market is off to a hot start. We only have three months of inventory, and that is down from last month. We’re seeing multiple offers and people are scrambling to win offers on good homes.
 
 </itunes:summary>
@@ -1072,33 +996,30 @@ It’s spring already, and the Portland real estate market is off to a hot start
       
       <item>
         <title>Is the Winter a Good Time to Sell a Home?</title>
-        <link>http://stellarrealtyblog.com/portland-oregon-real-estate.html</link>
+        <link>http://stellarrealtyblog.com/is-the-winter-a-good-time-to-sell-a-home.html</link>
         
-          <category>seller tips</category>
+          <category>Home Seller Tips</category>
         
         <author>Scott Besaw and Paul Campbell</author>
         <pubDate>2014-11-05 08:49:00 -0600</pubDate>
-        <guid></guid>
+        <guid>http://stellarrealtynw.blogspot.com/2014/11/portland-oregon-real-estate.html</guid>
         <description>
-
 Today we are here to answer the question to whether or not you should still continue to list your house during the winter season. We actually think it is a great idea to list your home during the winter season, although conventional wisdom might tell you otherwise.
 
 The big advantage to selling in the winter is that buyers are more serious at this time of year. Let’s be honest, if you are looking for a home in the cold winter weather during the holidays, you are going to be serious about buying a home.  In our experience, buyers are definitely more serious during this time of year.
 
 If you have any questions for us at all, give us a call or send us an email. See you next time!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="http://stellarrealtynw.blogspot.com/2014/11/portland-oregon-real-estate.html" length="" type="video/mp4"/>
         <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="http://stellarrealtynw.blogspot.com/2014/11/portland-oregon-real-estate.html" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Today we are here to answer the question to whether or not you should still continue to list your house during the winter season. We actually think it is a great idea to list your home during the winter season, although conventional wisdom might tell you otherwise.
 
 </itunes:subtitle>
         <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
         <itunes:summary>
-
 Today we are here to answer the question to whether or not you should still continue to list your house during the winter season. We actually think it is a great idea to list your home during the winter season, although conventional wisdom might tell you otherwise.
 
 </itunes:summary>
@@ -1107,15 +1028,14 @@ Today we are here to answer the question to whether or not you should still cont
       
       <item>
         <title>Portland Real Estate Market Update for Summer 2014</title>
-        <link>http://stellarrealtyblog.com/portland-oregon-real-estate-2.html</link>
+        <link>http://stellarrealtyblog.com/portland-real-estate-market-update-for-summer-2014.html</link>
         
-          <category>market update</category>
+          <category>Market Update</category>
         
         <author>Scott Besaw and Paul Campbell</author>
         <pubDate>2014-07-23 14:20:00 -0500</pubDate>
-        <guid></guid>
+        <guid>http://stellarrealtynw.blogspot.com/2014/07/portland-oregon-real-estate.html</guid>
         <description>
-
 There is so much going on in the Portland real estate market right now.It’s been so crazy that we haven’t had time to update you with a video in quite some time. We’re back now and decided that now is a great time to catch you up to speed on what’s going on in Portland real estate.
 
 We have been getting some panicky messages from sellers who have heard that the market has cooled off. That is not necessarily the case. According to the Case Shiller Home Price Index, while appreciation and home prices have slowed, they are still appreciating in value, both nationally and locally. We can’t have 12% appreciation every single year, so this is not the end of the world.
@@ -1124,18 +1044,16 @@ Most economists realize that inventory plays a big part in this market trend. Wh
 
 Right now is an amazing time to sell. We have just realized double digit appreciation in most of our local markets and interest rates continue to be at historic lows. Neither of these things may continue in the near future. New construction will start increasing as the economy grows, and we’ll be competing with brand new homes and new properties on the market. If you want to figure out what your home is worth, we can give you an instant  valuation right here on our site, or you can give us a call and we can give you a free, no obligation detailed home valuation.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="http://stellarrealtynw.blogspot.com/2014/07/portland-oregon-real-estate.html" length="" type="video/mp4"/>
         <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="http://stellarrealtynw.blogspot.com/2014/07/portland-oregon-real-estate.html" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 There is so much going on in the Portland real estate market right now.It’s been so crazy that we haven’t had time to update you with a video in quite some time. We’re back now and decided that now is a great time to catch you up to speed on what’s going on in Portland real estate.
 
 </itunes:subtitle>
         <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
         <itunes:summary>
-
 There is so much going on in the Portland real estate market right now.It’s been so crazy that we haven’t had time to update you with a video in quite some time. We’re back now and decided that now is a great time to catch you up to speed on what’s going on in Portland real estate.
 
 </itunes:summary>
@@ -1144,15 +1062,15 @@ There is so much going on in the Portland real estate market right now.It’s be
       
       <item>
         <title>How we helped Rebecca with her real estate transaction by listening to her needs</title>
-        <link>http://stellarrealtyblog.com/portland-oregon-real-estate-testimonial.html</link>
+        <link>http://stellarrealtyblog.com/how-we-helped-rebecca-with-her-real-estate-transaction-by-listening-to-her-needs.html</link>
         
-          <category>testimoninal</category>
+          <category>Real Estate</category>
         
         <author>Scott Besaw and Paul Campbell</author>
         <pubDate>2014-06-22 14:34:00 -0500</pubDate>
         <guid></guid>
         <description>
-
+&lt;iframe frameborder=”no” height=”166” scrolling=”no” src=”https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/155103135&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false” width=”100%”&gt;&lt;/iframe&gt;
 
 The whole experience exceeded my expectations. Our agent was so caring and she really listened to what we wanted. She always kept us informed of what was going on and kept checking in with me. The result was that we got the house that was exactly what we were looking for!
 </description>
@@ -1161,13 +1079,13 @@ The whole experience exceeded my expectations. Our agent was so caring and she r
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
+&lt;iframe frameborder=”no” height=”166” scrolling=”no” src=”https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/155103135&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false” width=”100%”&gt;&lt;/iframe&gt;
 
 The whole experience exceeded my expectations. Our agent was so caring and she really listened to what we wanted. She always kept us informed of what was going on and kept checking in with me. The result was that we got the house that was exactly what we were looking for!
 </itunes:subtitle>
         <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
         <itunes:summary>
-
+&lt;iframe frameborder=”no” height=”166” scrolling=”no” src=”https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/155103135&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false” width=”100%”&gt;&lt;/iframe&gt;
 
 The whole experience exceeded my expectations. Our agent was so caring and she really listened to what we wanted. She always kept us informed of what was going on and kept checking in with me. The result was that we got the house that was exactly what we were looking for!
 </itunes:summary>
@@ -1176,15 +1094,12 @@ The whole experience exceeded my expectations. Our agent was so caring and she r
       
       <item>
         <title>Attention Buyers: Act Quickly to Capitalize on Low Interest Rates</title>
-        <link>http://stellarrealtyblog.com/portland-oregan-real-estate.html</link>
-        
-          <category>market update</category>
+        <link>http://stellarrealtyblog.com/attention-buyers-act-quickly-to-capitalize-on-low-interest-rates.html</link>
         
         <author>Scott Besaw and Paul Campbell</author>
         <pubDate>2014-04-18 15:23:00 -0500</pubDate>
-        <guid></guid>
+        <guid>http://stellarrealtynw.blogspot.com/2014/04/portland-oregan-real-estate.html</guid>
         <description>
-
 Prices have risen aggressively in the past year – some Portland areas have experienced as much a 15% increase! By looking at those numbers, the housing market may not have recovered as well as we think. Trulia, a well-respected resource for this subject, recently wrote an article about the housing recovery and broke it down into five very important factors:
 
 
@@ -1197,23 +1112,20 @@ Prices have risen aggressively in the past year – some Portland areas have exp
 
 In addition, Trulia, Zillow and Forbes are all predicting rising interest rates as soon as the year ends. So, what does this mean for you as a buyer? You should get it in gear! Home prices will continue to rise and so are interest rates – the real estate experts are predicting that this won’t last much long.
 
-As a seller, if you don’t like your values now, good things may happen if you wait. However do keep in mind that as interest rates rise, you could potentially lose buyers and as values go up, more and more people will sell their homes. This will increase your competition!
-For more a more detailed look at these numbers, visit the main article here.
+As a seller, if you don’t like your values now, good things may happen if you wait. However do keep in mind that as interest rates rise, you could potentially lose buyers and as values go up, more and more people will sell their homes. This will increase your competition!For more a more detailed look at these numbers, visit the main article here.
 
 If you have any questions regarding our market or the surrounding area, please feel free to call or email us. Thanks and have a great day!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="http://stellarrealtynw.blogspot.com/2014/04/portland-oregan-real-estate.html" length="" type="video/mp4"/>
         <media:thumbnail url="http://stellarrealtyblog.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="http://stellarrealtynw.blogspot.com/2014/04/portland-oregan-real-estate.html" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Prices have risen aggressively in the past year – some Portland areas have experienced as much a 15% increase! By looking at those numbers, the housing market may not have recovered as well as we think. Trulia, a well-respected resource for this subject, recently wrote an article about the housing recovery and broke it down into five very important factors:
 
 </itunes:subtitle>
         <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
         <itunes:summary>
-
 Prices have risen aggressively in the past year – some Portland areas have experienced as much a 15% increase! By looking at those numbers, the housing market may not have recovered as well as we think. Trulia, a well-respected resource for this subject, recently wrote an article about the housing recovery and broke it down into five very important factors:
 
 </itunes:summary>
@@ -1222,15 +1134,14 @@ Prices have risen aggressively in the past year – some Portland areas have exp
       
       <item>
         <title>Portland Market Update: What do the Recent Price Increases Mean for You?</title>
-        <link>http://stellarrealtyblog.com/portland-real-estate-market-update.html</link>
+        <link>http://stellarrealtyblog.com/portland-market-update-what-do-the-recent-price-increases-mean-for-you.html</link>
         
-          <category>market update</category>
+          <category>Market Update</category>
         
         <author>Scott Besaw and Paul Campbell</author>
         <pubDate>2014-03-14 14:43:00 -0500</pubDate>
         <guid></guid>
         <description>
-
 Before I started on today’s topic, I wanted to ask for a favor. If there is anything you would like me to discuss in a future video, please email us or better yet, comment on this post. We really appreciate and remain true to providing you with the best information.
 
 We’ve been receiving many questions about the recently-realized price increases. However, they have tapered off in the past few weeks and remain unchanged. Currently, the median list price is sitting at $325,000 and the Market Action Index shows that we are still in a seller’s market. However it does suggest that we are creeping down to a more neutral market. Also, Portland’s average days on market is sitting at 131.
@@ -1246,13 +1157,11 @@ If this information interested you and you would like a report that is tailored 
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Before I started on today’s topic, I wanted to ask for a favor. If there is anything you would like me to discuss in a future video, please email us or better yet, comment on this post. We really appreciate and remain true to providing you with the best information.
 
 </itunes:subtitle>
         <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
         <itunes:summary>
-
 Before I started on today’s topic, I wanted to ask for a favor. If there is anything you would like me to discuss in a future video, please email us or better yet, comment on this post. We really appreciate and remain true to providing you with the best information.
 
 </itunes:summary>
@@ -1261,23 +1170,14 @@ Before I started on today’s topic, I wanted to ask for a favor. If there is an
       
       <item>
         <title>Sell Your Portland Home Quickly and for Top Dollar: Make Sure it's Priced Accurately!</title>
-        <link>http://stellarrealtyblog.com/portland-or-real-estate-accurately.html</link>
+        <link>http://stellarrealtyblog.com/sell-your-portland-home-quickly-and-for-top-dollar-make-sure-its-priced-accurately.html</link>
         
-          <category>portland houses for sale</category>
-        
-          <category>portland or real estate</category>
-        
-          <category>houses for sale portland oregon</category>
-        
-          <category>portland oregon houses for sale</category>
-        
-          <category>portland or homes for sale</category>
+          <category>Home Seller Tips</category>
         
         <author>Scott Besaw and Paul Campbell</author>
         <pubDate>2014-01-29 12:46:00 -0600</pubDate>
         <guid></guid>
         <description>
-
 As we move forward into 2014, I wanted to speak with you about accurately pricing your home for sale and why it’s important. Before I get started, I wanted to point out a few of the great features on our blog. If you’re a seller, we have a link for a free, instantaneous home value report. It may not be 100% accurate, but it gives you a wonderful place to start and contains a lot of useful information. As for buyers, we have a home search that utilizes the local MLS which is constantly updated. It also gives you the option to have information sent to you on a daily, bi-weekly or weekly basis.
 
 Pricing a home is somewhat of an art form; you don’t want to price it too low (for obvious reasons) but if you price it too high, you can make one of several mistakes that will hurt your bottom dollar. You could end up with no activity, which forces the home to stay on the market for as little as 30 days, and will generate a much lower offer. We have also seen that the first offer you receive is 90-95% of the time is the best.
@@ -1291,13 +1191,11 @@ Our home evaluation is a great start, but if you would like a more detailed repo
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 As we move forward into 2014, I wanted to speak with you about accurately pricing your home for sale and why it’s important. Before I get started, I wanted to point out a few of the great features on our blog. If you’re a seller, we have a link for a free, instantaneous home value report. It may not be 100% accurate, but it gives you a wonderful place to start and contains a lot of useful information. As for buyers, we have a home search that utilizes the local MLS which is constantly updated. It also gives you the option to have information sent to you on a daily, bi-weekly or weekly basis.
 
 </itunes:subtitle>
         <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
         <itunes:summary>
-
 As we move forward into 2014, I wanted to speak with you about accurately pricing your home for sale and why it’s important. Before I get started, I wanted to point out a few of the great features on our blog. If you’re a seller, we have a link for a free, instantaneous home value report. It may not be 100% accurate, but it gives you a wonderful place to start and contains a lot of useful information. As for buyers, we have a home search that utilizes the local MLS which is constantly updated. It also gives you the option to have information sent to you on a daily, bi-weekly or weekly basis.
 
 </itunes:summary>
@@ -1306,25 +1204,14 @@ As we move forward into 2014, I wanted to speak with you about accurately pricin
       
       <item>
         <title>Should You Get Pre-approved Before Shopping for a Home?</title>
-        <link>http://stellarrealtyblog.com/should-you-get-pre-approved-before.html</link>
+        <link>http://stellarrealtyblog.com/should-you-get-pre-approved-before-shopping-for-a-home.html</link>
         
-          <category>portland houses for sale</category>
-        
-          <category>portland or real estate</category>
-        
-          <category>houses for sale portland oregon</category>
-        
-          <category>portland oregon houses for sale</category>
-        
-          <category>portland or homes for sale</category>
-        
-          <category>portland real estate</category>
+          <category>Home Buyer Tips</category>
         
         <author>Scott Besaw and Paul Campbell</author>
         <pubDate>2014-01-13 10:29:00 -0600</pubDate>
         <guid></guid>
         <description>
-
 Today I wanted to talk about why it’s critically important to be pre-qualified before looking at homes as a buyer. While I know getting a pre-approval on a mortgage is not as fun as shopping around for houses, it’s very important to find out what your financial situation is before we find the home for you. Otherwise, you could end up scrambling at the last minute and with our market’s low inventory, that lapse in preparation could cost you the house.
 
 Sellers also want to specifically see pre-approval letters from buyers up front; they may not even let you view their home without one, especially during the holiday season when time is precious. If you’re thinking about buying a house, be sure to check out our state of the art home search. Thanks and have a great day!
@@ -1334,13 +1221,11 @@ Sellers also want to specifically see pre-approval letters from buyers up front;
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Today I wanted to talk about why it’s critically important to be pre-qualified before looking at homes as a buyer. While I know getting a pre-approval on a mortgage is not as fun as shopping around for houses, it’s very important to find out what your financial situation is before we find the home for you. Otherwise, you could end up scrambling at the last minute and with our market’s low inventory, that lapse in preparation could cost you the house.
 
 </itunes:subtitle>
         <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
         <itunes:summary>
-
 Today I wanted to talk about why it’s critically important to be pre-qualified before looking at homes as a buyer. While I know getting a pre-approval on a mortgage is not as fun as shopping around for houses, it’s very important to find out what your financial situation is before we find the home for you. Otherwise, you could end up scrambling at the last minute and with our market’s low inventory, that lapse in preparation could cost you the house.
 
 </itunes:summary>
@@ -1349,25 +1234,14 @@ Today I wanted to talk about why it’s critically important to be pre-qualified
       
       <item>
         <title>Should You List Your Home Through the Holidays?</title>
-        <link>http://stellarrealtyblog.com/should-you-list-your-home-through.html</link>
+        <link>http://stellarrealtyblog.com/should-you-list-your-home-through-the-holidays.html</link>
         
-          <category>portland houses for sale</category>
-        
-          <category>portland or real estate</category>
-        
-          <category>houses for sale portland oregon</category>
-        
-          <category>portland oregon houses for sale</category>
-        
-          <category>portland or homes for sale</category>
-        
-          <category>portland real estate</category>
+          <category>Home Seller Tips</category>
         
         <author>Scott Besaw and Paul Campbell</author>
         <pubDate>2013-12-13 16:07:00 -0600</pubDate>
         <guid></guid>
         <description>
-
 Today I wanted to discuss whether or not you should continue to list through the winter months/holiday season. Conventional wisdom would tell you not to, however, I think it is a good idea to be on the market now. If you take a look at the numbers, inventory is down 7% during the winter/holiday season but the asking price for homes is down 0.3% (essentially 0%) meaning less inventory but not lower prices. Also, buyers in the winter time tend to be more serious because if you are out looking for homes with family events and hectic schedules, you want to buy a house.
 
 Thank you for taking the time to watch our educational video blog. If you are thinking about buying or selling a home, check out our free home evaluation website and you’re always welcome to give us a call at (503) 427-9233. Thanks and have a great day!
@@ -1377,13 +1251,11 @@ Thank you for taking the time to watch our educational video blog. If you are th
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Today I wanted to discuss whether or not you should continue to list through the winter months/holiday season. Conventional wisdom would tell you not to, however, I think it is a good idea to be on the market now. If you take a look at the numbers, inventory is down 7% during the winter/holiday season but the asking price for homes is down 0.3% (essentially 0%) meaning less inventory but not lower prices. Also, buyers in the winter time tend to be more serious because if you are out looking for homes with family events and hectic schedules, you want to buy a house.
 
 </itunes:subtitle>
         <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
         <itunes:summary>
-
 Today I wanted to discuss whether or not you should continue to list through the winter months/holiday season. Conventional wisdom would tell you not to, however, I think it is a good idea to be on the market now. If you take a look at the numbers, inventory is down 7% during the winter/holiday season but the asking price for homes is down 0.3% (essentially 0%) meaning less inventory but not lower prices. Also, buyers in the winter time tend to be more serious because if you are out looking for homes with family events and hectic schedules, you want to buy a house.
 
 </itunes:summary>
@@ -1392,27 +1264,15 @@ Today I wanted to discuss whether or not you should continue to list through the
       
       <item>
         <title>Is Now A Good Time to Buy a Portland Home?</title>
-        <link>http://stellarrealtyblog.com/is-now-good-time-to-buy.html</link>
+        <link>http://stellarrealtyblog.com/is-now-a-good-time-to-buy-a-portland-home.html</link>
         
-          <category>portland houses for sale</category>
-        
-          <category>portland or real estate</category>
-        
-          <category>houses for sale portland oregon</category>
-        
-          <category>portland oregon houses for sale</category>
-        
-          <category>portland or homes for sale</category>
-        
-          <category>portland real estate</category>
+          <category>Home Buyer Tips</category>
         
         <author>Scott Besaw and Paul Campbell</author>
         <pubDate>2013-11-15 10:08:00 -0600</pubDate>
         <guid></guid>
         <description>
-
-Trulia Chief Economist Jed Kolko reveals the latest findings from Bubble Watch , revealing whether home prices are overvalued or undervalued relative to their fundamental value. In the fourth quarter of 2013, home prices were 4% undervalued despite having rapidly rising over the past year. But in Orange County and Los Angeles, home prices are more than 10% overvalued.
-Trulia’s Bubble Watch reveals whether home prices are overvalued or undervalued relative to their fundamental value by comparing prices today with historical prices, incomes, and rents. The more prices are overvalued relative to fundamentals, the closer we are to a housing bubble – and the bigger the risk of a future price crash.
+Trulia Chief Economist Jed Kolko reveals the latest findings from Bubble Watch , revealing whether home prices are overvalued or undervalued relative to their fundamental value. In the fourth quarter of 2013, home prices were 4% undervalued despite having rapidly rising over the past year. But in Orange County and Los Angeles, home prices are more than 10% overvalued.Trulia’s Bubble Watch reveals whether home prices are overvalued or undervalued relative to their fundamental value by comparing prices today with historical prices, incomes, and rents. The more prices are overvalued relative to fundamentals, the closer we are to a housing bubble – and the bigger the risk of a future price crash.
 
 Trulia’s first Bubble Watch report, from May 2013, explains our methodologyin detail. We look at the price-to-income ratio, the price-to-rent ratio, and prices relative to their long-term trends, using multiple data sources, including the Trulia Price Monitor as a leading indicator of where home prices are heading. We then combine these various measures of fundamental value rather than relying on a single factor, because no one measure is perfect. Here’s what we found.
 
@@ -1443,16 +1303,12 @@ Note: each quarter’s Bubble Watch includes minor revisions to previous estimat
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
-Trulia Chief Economist Jed Kolko reveals the latest findings from Bubble Watch , revealing whether home prices are overvalued or undervalued relative to their fundamental value. In the fourth quarter of 2013, home prices were 4% undervalued despite having rapidly rising over the past year. But in Orange County and Los Angeles, home prices are more than 10% overvalued.
-Trulia’s Bubble Watch reveals whether home prices are overvalued or undervalued relative to their fundamental value by comparing prices today with historical prices, incomes, and rents. The more prices are overvalued relative to fundamentals, the closer we are to a housing bubble – and the bigger the risk of a future price crash.
+Trulia Chief Economist Jed Kolko reveals the latest findings from Bubble Watch , revealing whether home prices are overvalued or undervalued relative to their fundamental value. In the fourth quarter of 2013, home prices were 4% undervalued despite having rapidly rising over the past year. But in Orange County and Los Angeles, home prices are more than 10% overvalued.Trulia’s Bubble Watch reveals whether home prices are overvalued or undervalued relative to their fundamental value by comparing prices today with historical prices, incomes, and rents. The more prices are overvalued relative to fundamentals, the closer we are to a housing bubble – and the bigger the risk of a future price crash.
 
 </itunes:subtitle>
         <itunes:author>Scott Besaw and Paul Campbell</itunes:author>
         <itunes:summary>
-
-Trulia Chief Economist Jed Kolko reveals the latest findings from Bubble Watch , revealing whether home prices are overvalued or undervalued relative to their fundamental value. In the fourth quarter of 2013, home prices were 4% undervalued despite having rapidly rising over the past year. But in Orange County and Los Angeles, home prices are more than 10% overvalued.
-Trulia’s Bubble Watch reveals whether home prices are overvalued or undervalued relative to their fundamental value by comparing prices today with historical prices, incomes, and rents. The more prices are overvalued relative to fundamentals, the closer we are to a housing bubble – and the bigger the risk of a future price crash.
+Trulia Chief Economist Jed Kolko reveals the latest findings from Bubble Watch , revealing whether home prices are overvalued or undervalued relative to their fundamental value. In the fourth quarter of 2013, home prices were 4% undervalued despite having rapidly rising over the past year. But in Orange County and Los Angeles, home prices are more than 10% overvalued.Trulia’s Bubble Watch reveals whether home prices are overvalued or undervalued relative to their fundamental value by comparing prices today with historical prices, incomes, and rents. The more prices are overvalued relative to fundamentals, the closer we are to a housing bubble – and the bigger the risk of a future price crash.
 
 </itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
