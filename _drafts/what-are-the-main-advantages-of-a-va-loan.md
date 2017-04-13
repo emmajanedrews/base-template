@@ -19,9 +19,9 @@ youtube_code:
 
 As an agent, I get asked about VA loans all the time. Today I’m going to talk about what they are, what their benefits are, and how you can apply for one.
 
-First off, it’s important to note that in order to qualify for a VA loan, you will need to be active-duty military or an active-duty veteran. The biggest benefit to VA loans is that there is no down payment required. That’s an awesome benefit considering you’d need around $10,000 to get into a $300,000 home at 3.5% down with a conventional loan, not including closing costs.
+First off, it’s important to note that in order to qualify for a VA loan, you will need to be active-duty military or an active-duty veteran. **The biggest benefit to VA loans is that there is no down payment required.** That’s an awesome benefit considering you’d need around $10,000 to get into a $300,000 home at 3.5% down with a conventional loan, not including closing costs.
 
-If you want to apply for a VA loan, the first thing you should do is find a good lender. You want to find someone you can trust. They’ll be able to make sure you are eligible for a VA loan and can help out if there are any hiccups.
+If you want to apply for a VA loan, the first thing you should do is find a good lender. You want to find someone you can trust. **They’ll be able to make sure you are eligible for a VA loan and can help out if there are any hiccups.**
 
 {% include pullquote.html %}
 
