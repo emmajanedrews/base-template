@@ -39,4 +39,4 @@ On the other side, is it a better dollar value to buy a property that already ex
 
 At the end of the day, you simply must ask yourself if this next house will be the one you grow old in. If so, look for some land that meets all of your must-haves as far as scenery and location. After that, we can recommend some builders who can get you the custom home that fits your needs.
 
-<br>If you have any other questions, please don’t hesitate to reach out to us. We would be happy to help you!
+If you have any other questions, please don’t hesitate to reach out to us. We would be happy to help you!
