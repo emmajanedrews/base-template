@@ -1,32 +1,38 @@
 audit_header: false
 title: -- CLIENT BRAND --
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: Testimonials
+    url: /client-testimonials
+  - title: About
+    url: https://www.portlandlifestyleteam.com/agents/
 
 client:
-  name:
+  name: Steve Schwab
   license_number:
   about_markdown: |
+    Portland Lifestyle Team offers unparalleled service to ALL clients in the Portland Oregon real estate market. Your complete satisfaction with our service and representation is our number one priority. Portland Lifestyle Team serves the entire Portland Oregon real estate market including the surrounding communities such as the Beaverton, Tigard, Hillsboro, Lake Oswego, SW Portland and NW Portland areas.
 
-  market:
-  brand:
+    Whether you are considering buying a home, selling a home or both, we know this area inside and out.
+
+    Let us know if there is something specific you are looking for and we’ll find what you need. Enjoy your visit and please contact us if there is anything we can do to make your next home buying or home selling experience the best it can be!
+  market: Portland
+  brand: Portland Lifestyle Team
   brokerage:
-  address:
-  phone:
+  address: 17933 NW Evergreen Pkwy Suite 330<br>Beaverton, OR 97006
+  phone: 503-567-7437
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Steve@PortlandLifestyleTeam.com
+  url: https://www.portlandlifestyleteam.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.searchallproperties.com/propertyvaluation-plus-one/steveschwab/Portland
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.portlandlifestyleteam.com/
   VR_form:
 
 sidebar_CTA:
@@ -34,7 +40,7 @@ sidebar_CTA:
     CTA_title: Looking to Buy a Home?
     CTA_text: Search the entire MLS for homes located in -- MARKET --.
     CTA_link_text: Home Search Tool
-    CTA_url: /homesearch/
+    CTA_url: http://www.portlandlifestyleteam.com/
 
 lender:
   show_section: false
@@ -59,20 +65,20 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: http://www.facebook.com/PortlandLifestyleTeam
+  linkedin_url: https://www.linkedin.com/pub/steve-schwab/1/55b/861
+  gplus_url: https://plus.google.com/103770008635343127675/about
+  youtube_url: https://www.youtube.com/channel/UCakT1ob6E6HrPCZB7-xLeqQ/
+  twitter_url: https://twitter.com/pdxlifestyle
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
+  zillow_url: http://www.zillow.com/profile/Steve557/
+  trulia_url: http://www.trulia.com/profile/steve-schwab-broker-portland-or-1121825/overview
+  yelp_url: http://www.yelp.com/biz/portland-lifestyle-team-beaverton
   podcast_url:
 
 podcast:
-  title:
+  title: Portland Real Estate Podcast with Steve Schwab
   categories: Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
@@ -89,8 +95,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#C14547'
-  theme_color: '#005473'
+  brand_color: '#E04C26'
+  theme_color: '#333333'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
