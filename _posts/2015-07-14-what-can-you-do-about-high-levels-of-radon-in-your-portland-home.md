@@ -1,7 +1,7 @@
 ---
 youtube_code: IvRF04AdWv8
 excerpt:
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Steve+Schwab/Portland+Real+Estate+Agent-+Is+your+home+exposed+to+radon+gas%253F.mp4'
 pullquote: There are many resources on the web to find out more about radon.
 enclosure_type: video/mp4
 enclosure_time:
@@ -9,17 +9,17 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: What Can You Do About High Levels of Radon in Your Portland Home?
-date: '2015-07-14T14:14:00.004-07:00'
+date: 2015-07-14 21:14:00
 author: Vyral Admin
 tags:
-- Home Safety Tips
-modified_time: '2015-07-14T14:16:21.530-07:00'
-thumbnail: https://img.youtube.com/vi/IvRF04AdWv8/default.jpg
-blogger_id: tag:blogger.com,1999:blog-2337985381521843373.post-3670135560829557000
-blogger_orig_url: http://portlandlifestyleteam.blogspot.com/2015/07/portland-real-estate-home-safety-tips.html
+modified_time:
+thumbnail: 'https://img.youtube.com/vi/IvRF04AdWv8/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-2337985381521843373.post-3670135560829557000'
+blogger_orig_url: 'http://portlandlifestyleteam.blogspot.com/2015/07/portland-real-estate-home-safety-tips.html'
 ---
-{% include youtube.html %}
-Not many homeowners are aware of the potential dangers of radon gas. Today, we want to give you some basic information so you can keep your home and your family safe from this toxic gas!
+
+
+{% include youtube.html %}Not many homeowners are aware of the potential dangers of radon gas. Today, we want to give you some basic information so you can keep your home and your family safe from this toxic gas!
 
 Many home inspections that are done today test for radon gas. It's an odorless, invisible, radioactive gas that's produced from the natural decay of uranium and is found in most soil. Exposure to radon is responsible for up to 20,000 deaths in the United States each year and is the number one cause of lung cancer in nonsmokers.
 
