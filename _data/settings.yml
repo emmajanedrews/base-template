@@ -33,7 +33,7 @@ CTAs:
   first_CTA_URL: http://www.searchallproperties.com/propertyvaluation-plus-one/steveschwab/Portland
   second_CTA_text: Home Search
   second_CTA_URL: http://www.portlandlifestyleteam.com/
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=ae07073f59
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/005.jpg
