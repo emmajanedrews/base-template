@@ -5,7 +5,7 @@ date: 2017-03-28 00:00:00
 tags:
   - Home Seller Tips
 excerpt: Intelligent fix-ups can dramatically increase the value of your home. Here’s how.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Hervieux+Real+Estate/San+Diego+Real+Estate-+A+Simple+Way+to+Increase+Your+Home%2527s+Value.mp4'
 pullquote: We can evaluate your home and identify all your intelligent fix-ups.
 enclosure_type: video/mp4
 enclosure_time:
