@@ -18,9 +18,9 @@ youtube_code: Qrlg6j-MIO0
 
 Today we've got an update for you on the national real estate market and how it affects our local market here in the Baltimore metro area.
 
-I read recently that collective national real estate average price is higher than it has ever been. The National Association of Realtors also reported that inventory is the lowest it has been since they started tracking it in 1999. With supply and demand, most would expect prices to go up. Because of the low inventory, many economists predict that prices will go down, but so will the number of transactions.
+I read recently that the collective national real estate average price is higher than it has ever been. The National Association of Realtors also reported that inventory is the lowest it has been since they started tracking it in 1999. With supply and demand, most would expect prices to go up. Because of the low inventory, many economists predict that prices will go down, but so will the number of transactions.
 
-Home builder confidence is at an all-time high, which has to do with expecting decreased regulations. They're hoping it will make it less expensive and easier to build homes, basically. Jobs reports look strong; we added 235,000 new jobs in February.
+Home builder confidence is at an all-time high, which has to do with expecting decreased regulations. They're hoping it will make it less expensive and easier to build homes, basically. Job reports look strong; we added 235,000 new jobs in February.
 
 {% include pullquote.html %}
 
