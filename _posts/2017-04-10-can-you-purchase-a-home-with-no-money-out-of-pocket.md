@@ -8,7 +8,7 @@ enclosure:
 pullquote: 'One of our buyers recently bought a $302,000 home with just $1,500 out of pocket.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image:
 youtube_code: CrtRparX4ZQ
 ---
