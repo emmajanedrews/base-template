@@ -29,7 +29,7 @@ CTAs:
   first_CTA_URL: http://www.bradkorb.com/form-cma.php
   second_CTA_text: Home Search
   second_CTA_URL: http://www.bradkorb.com/buyers.php
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=ff56bf12e2
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
