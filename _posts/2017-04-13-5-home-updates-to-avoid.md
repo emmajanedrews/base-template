@@ -17,7 +17,7 @@ youtube_code: T8rHkTSDsgE
 
 {% include youtube.html %}
 
-If you want to make some improvements in your home to increase its value and get a great return on your investment, you have a lot of options. However, there are five renovations should absolutely avoid:
+If you want to make some improvements in your home to increase its value and get a great return on your investment, you have a lot of options. However, there are five renovations you should absolutely avoid:
 
 **1. Wallpaper:** Unless you're in a high-end custom home and hired designers who specifically recommended wallpaper, it's generally not the best choice. When you sell your house, you want it to appeal to as many buyers as possible, and wallpaper is a little too specific for today's buyers.
 
