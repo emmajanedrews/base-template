@@ -1,25 +1,25 @@
 ---
 youtube_code: NbbfZAEmTTM
 excerpt:
-enclosure:
-pullquote: If you're renting right now, I highly suggest you start considering a home purchase.
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Steve+Schwab/Portland+Real+Estate+Agent-The+Portland+real+estate+market+is+on+fire.mp4'
+pullquote: "If you're renting right now, I highly suggest you start considering a home purchase."
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: Why Now Is the Time to Buy
-date: '2015-03-11T10:41:00.000-07:00'
+date: 2015-03-11 17:41:00
 author: Vyral Admin
 tags:
-- Portland Real Estate Buyer Tips
-modified_time: '2015-03-26T13:46:57.650-07:00'
-thumbnail: https://img.youtube.com/vi/NbbfZAEmTTM/default.jpg
-blogger_id: tag:blogger.com,1999:blog-2337985381521843373.post-7447544662305003330
-blogger_orig_url: http://portlandlifestyleteam.blogspot.com/2015/03/portland-5-reasons-to-buys.html
+modified_time:
+thumbnail: 'https://img.youtube.com/vi/NbbfZAEmTTM/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-2337985381521843373.post-7447544662305003330'
+blogger_orig_url: 'http://portlandlifestyleteam.blogspot.com/2015/03/portland-5-reasons-to-buys.html'
 ---
-{% include youtube.html %}
-Affordability is at an all-time high right now. Interest rates are low (below 4%), and loan products from Fannie Mae and Freddie Mac are allowing consumers to buy with only 3% down. Even rates for private mortgage insurance have dropped, and this can save you thousands of dollars over the life of your loan. It's difficult for me to imagine a better time to purchase, and on top of these financial incentives, I have five more reasons why owning a home is beneficial to you.
+
+
+{% include youtube.html %}Affordability is at an all-time high right now. Interest rates are low (below 4%), and loan products from Fannie Mae and Freddie Mac are allowing consumers to buy with only 3% down. Even rates for private mortgage insurance have dropped, and this can save you thousands of dollars over the life of your loan. It's difficult for me to imagine a better time to purchase, and on top of these financial incentives, I have five more reasons why owning a home is beneficial to you.
 
 {% include pullquote.html %}
 
