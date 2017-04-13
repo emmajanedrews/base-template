@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Are the Main Advantages of a VA Loan?
-date:
+date: 2017-04-13 11:16:40
 tags:
   - Home Buyer Tips
 excerpt: 'As an agent, I get asked about VA loans all the time. Today I’m going to talk about what they are, what their benefits are, and how you can apply for one.'
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: kRVSVLdWlUQ
 ---
 
 
