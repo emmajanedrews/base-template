@@ -4,7 +4,7 @@ title: Can You Purchase a Home With No Money Out of Pocket?
 tags:
   - Home Buyer Tips
 excerpt: The down payment assistance products offered to buyers here in Denver are very beneficial. You just need to work with a professional who knows how to use them.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Daniel+Dixon/Denver+Real+Estate-+Tips+on+Down+Payment+Assistance.mp4'
 pullquote: 'One of our buyers recently bought a $302,000 home with just $1,500 out of pocket.'
 enclosure_type: video/mp4
 enclosure_time:
