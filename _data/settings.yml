@@ -13,10 +13,10 @@ client:
   license_number: 'BRE # 00698730'
   about_markdown: |
         As one of the premier real estate businesses in the LA area, Brad Korb's real estate team is unmatched in their level of commitment and tireless devotion they provide to their clients. For over three decades, he has helped his clients visualize and obtain their goals of
-        buying or selling a home. He sits down and listens to their unique needs and desires, then puts together the best strategies for achieving the results they want.  Having participated in every aspect of the real estate process over the years, he knows where to center his 
-        attention in order to bring about success.Brad surrounds himself with a team of professionals who each handle various tasks that need attention, giving him the freedom to focus directly on your transaction. With years of experience with buyers and sellers in the Burbank 
-        community, Brad is an unparalleled resource for everything from Burbank’s real estate market to community services.  So when your family is ready to move in the Glendale, Burbank , Sun Valley, North Hollywood and surrounding areas in the San Fernando Valley, contact the 
-        professional who is Focused on What Matters to You. 
+        buying or selling a home. He sits down and listens to their unique needs and desires, then puts together the best strategies for achieving the results they want.  Having participated in every aspect of the real estate process over the years, he knows where to center his
+        attention in order to bring about success.Brad surrounds himself with a team of professionals who each handle various tasks that need attention, giving him the freedom to focus directly on your transaction. With years of experience with buyers and sellers in the Burbank
+        community, Brad is an unparalleled resource for everything from Burbank’s real estate market to community services.  So when your family is ready to move in the Glendale, Burbank , Sun Valley, North Hollywood and surrounding areas in the San Fernando Valley, contact the
+        professional who is Focused on What Matters to You.
   market: Burbank
   brand: The Brad Korb Real Estate Group
   brokerage:
@@ -45,7 +45,7 @@ sidebar_CTA:
 lender:
   show_section: True
   header_text: Meet My Trusted Lender
-  headshot_path:
+  headshot_path: /img/lender.jpg
   logo_path:
   logo_path_2:
   name: Brian McKim<br>Sales Manager | NMLS# 381742
