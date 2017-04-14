@@ -28,9 +28,9 @@ Determining which option is best for you depends on many things from your tastes
 
 Fortunately, there's a new special report recently released that shares 10 secrets that every buyer should know.&nbsp;
 
-If you’re looking to buy a new home, there are 10 secrets that we wanted to let you in on. **It's full of secrets that most homebuyers don't know and builders won't divulge.**
+If you’re looking to buy a new home, there are 10 secrets that we wanted to let you in on. **These are secrets that most homebuyers don't know and builders won't divulge.**
 
-[**Click here to see the full report**](http://www.greatercalgarygroup.com/info/new-homes-vs-resale){:target="_blank"}
+[**Click here to see the full report**](http://www.greatercalgarygroup.com/info/new-homes-vs-resale)
 
 This report will undoubtedly impact your decision to buy a new home or a resale property.&nbsp;
 
