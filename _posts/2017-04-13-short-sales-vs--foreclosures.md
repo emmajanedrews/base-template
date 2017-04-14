@@ -19,7 +19,7 @@ youtube_code: Q4gIN2A1lwg
 
 As the spring market approaches and more buyers are out on the market, we have received a few questions about the difference between short sales and foreclosures that we want to address today.&nbsp;
 
-First, the short sale process is not necessarily a clear-cut transaction. The homeowner still owns the property, but a third property needs to approve the sale. That third party is usually a lender or bank. **A short sale occurs when the owner is short on what is owed on the property based on its current market value**.&nbsp;
+First, the short sale process is not necessarily a clear-cut transaction. The homeowner still owns the property, but a third party needs to approve the sale. That third party is usually a lender or bank. **A short sale occurs when the owner is short on what is owed on the property based on its current market value**.&nbsp;
 
 The lender needs to do their due diligence to make sure that the home sells for what it’s worth, which usually takes about three to eight months. Short sales are not quick sales; sometimes, short sales can take up to a year. If you are considering purchasing a short sale, then you need to be patient. Don’t look for a short sale if your lease is about to expire or you need to move soon, as you cannot count on the transaction closing in time.&nbsp;
 
