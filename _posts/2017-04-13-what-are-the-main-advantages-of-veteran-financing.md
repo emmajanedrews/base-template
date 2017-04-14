@@ -1,7 +1,7 @@
 ---
 layout: post
-title: What Are the Main Advantages of a VA Loan?
-date: 2017-04-13 11:16:40
+title: What Are the Main Advantages of  Veteran Financing?
+date: 2017-04-13 11:16:00
 tags:
   - Home Buyer Tips
 excerpt: 'As an agent, I get asked about VA loans all the time. Today I’m going to talk about what they are, what their benefits are, and how you can apply for one.'
