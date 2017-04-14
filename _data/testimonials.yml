@@ -1,5 +1,8 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
+  - quote: "Mike really knows what he's doing. He's extremely proactive."
+    name: Mark
+    audio: 
+  - quote: "He sold my house very quickly. He's good!"
+    name: Margie
     audio:
