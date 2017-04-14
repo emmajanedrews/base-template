@@ -5,8 +5,6 @@ show_custom_links: true
 custom_links:
   - title: Neighborhood Finder
     url: http://homesfromhouston.com/neighborhoods
-  - title: Zip Code Trends
-    url: /zip-code
   - title: Testinomials
     url: /client-testimonials
 
