@@ -33,7 +33,7 @@ To know what’s best for you, we have to examine this from a couple different a
 
 There are a couple of limitations with this option, though. One of which is there is only so much land out there to buy. Most of the land in this area is going to be more rural, so you should be able to find some lots that are slightly larger and can satisfy your need for more privacy.
 
-You also have to obtain a construction loan, and they can be a little bit of a nightmare. There are very specific types of loans where they do draws so the builder can afford to put up certain sections. They then pay against that draw and eventually convert it into a singular mortgage. There are fewer options of that kind of loan out there right now, but it still can be done.
+You also have to obtain a construction loan, and they can be a little bit of a nightmare. There are very specific types of loans where they do draws so the builder can afford to put up certain sections. They then pay against that draw and eventually convert it into a singular mortgage. There are fewer options for that kind of loan out there right now, but it still can be done.
 
 On the other side, is it a better dollar value to buy a property that already exists? **From a dollar-to-dollar value, resale is definitely a better choice.** However, you have to sacrifice certain things when buying a resale property. This is because if you didn’t design it, it will be less likely to feature all of your must-haves.
 
