@@ -19,9 +19,9 @@ youtube_code: lNaKmV5I1zI
 
 If you’re looking to sell your home, you’ll want to know these five secrets before you list:
 
-**1. Price it perfectly.** Buyers search for homes in $25,000 increments. So, if you for example want to get $410,000 out of your home, you should price it at $399,000 in order to create a buzz and drive the price up.
+**1. Price it perfectly.** Buyers search for homes in $25,000 increments. For example, if you want to get $410,000 out of your home, you should price it at $399,000 in order to create a buzz and drive the price up.
 
-**2. Add a coat of fresh paint.**Everybody loves a clean canvas. Just don’t forget to paint the trim!
+**2. Add a coat of fresh paint.&nbsp;**Everybody loves a clean canvas. Just don’t forget to paint the trim!
 
 {% include pullquote.html %}
 
