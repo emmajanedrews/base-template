@@ -16,6 +16,9 @@ youtube_code: 95TQ1ymEFv4
 
 {% include youtube.html %}
 
+[Request a Consultation](http://govig.com/request-information/) - [Hire Us to Fill Your Job Openings](http://govig.com/contact/)
+{: style="text-align: center"}
+
 Does your hiring process impact the brand of your company? The simple answer is yes.
 
 Companies create marketing experiences for customers in order to drive positive engagement. They are now realizing that they need to do the same thing for the candidates that come through to interview.
