@@ -28,7 +28,7 @@ CTAs:
   first_CTA_URL: http://www.homeforsalelocal.com/sell/
   second_CTA_text: Home Search
   second_CTA_URL: http://www.homeforsalelocal.com/map/
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=47510cd99a
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/005.jpg
@@ -61,9 +61,9 @@ welcome_box:
 socials:
   review_sm_icons: false
   facebook_url: https://www.facebook.com/Jacques-Realty-Group-1541552879445668/
-  linkedin_url: https://www.linkedin.com/in/loodmy-jacques-31a60614
+  linkedin_url:
   gplus_url: https://plus.google.com/108140840819481943213
-  youtube_url: https://www.youtube.com/channel/UCRcbPkbkBeB156lZkdDywCQ
+  youtube_url:
   twitter_url: https://twitter.com/@loodmy
   instagram_url:
   pinterest_url:
