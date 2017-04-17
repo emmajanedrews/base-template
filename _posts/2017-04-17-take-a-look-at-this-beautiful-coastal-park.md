@@ -24,12 +24,6 @@ If you have any questions, please feel free to give me a call or send me an emai
 
 &nbsp;
 
-&nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 ![](/uploads/versions/top-comp---x0-0-865-252-865-252x---.jpg)
