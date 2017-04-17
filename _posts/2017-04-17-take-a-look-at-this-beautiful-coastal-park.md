@@ -8,7 +8,7 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image:
 youtube_code: KvIwuEzufQ4
 ---
@@ -23,7 +23,3 @@ Today I’m coming to you from the beautiful Emerald Coast. My son and I are at 
 If you have any questions, please feel free to give me a call or send me an email. I look forward to hearing from you!
 
 ![](/uploads/versions/top-comp-resize---x----1003-292x---.jpg)
-
-&nbsp;
-
-&nbsp;
