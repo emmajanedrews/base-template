@@ -20,10 +20,8 @@ Today I’m coming to you from the beautiful Emerald Coast. My son and I are at 
 
 **Topsail State Park is just one of the many parks throughout 30a, and we can help you discover all of the great parks Florida has to offer.**
 
-If you have any questions, please feel free to give me a call or send me an email. I look forward to hearing from you!
+If you have any questions, please feel free to give me a call or send me an email. I look forward to hearing from you!![](/uploads/versions/top-comp-resize---x----1003-292x---.jpg)
 
 &nbsp;
 
-
-
-![](/uploads/versions/top-comp---x0-0-865-252-865-252x---.jpg)
+&nbsp;
