@@ -23,3 +23,11 @@ Today I’m coming to you from the beautiful Emerald Coast. My son and I are at 
 If you have any questions, please feel free to give me a call or send me an email. I look forward to hearing from you!
 
 {% include pullquote.html %}
+
+![](/uploads/versions/topsail1---x----600-450x---.jpg)
+
+![](/uploads/versions/topsail2---x----600-450x---.jpg)
+
+![](/uploads/versions/topsail3---x----600-450x---.jpg)
+
+&nbsp;
