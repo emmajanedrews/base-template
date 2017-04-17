@@ -2,31 +2,66 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Portland Real Estate Podcast with Steve Schwab</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://realestateportlandblog.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://realestateportlandblog.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Portland Lifestyle Team - your professional Portland Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Steve Schwab</managingEditor>
-    <lastBuildDate>2017-04-13 14:49:05 -0500</lastBuildDate>
+    <lastBuildDate>2017-04-17 11:30:23 -0500</lastBuildDate>
     <media:copyright>Steve Schwab</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://realestateportlandblog.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
-    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
       <itunes:email>Steve@PortlandLifestyleTeam.com</itunes:email>
       <itunes:name>Steve Schwab</itunes:name>
     </itunes:owner>
     <itunes:author>Steve Schwab</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://realestateportlandblog.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Portland Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Portland Lifestyle Team - your professional Portland Real Estate Agents.</itunes:summary>
-      <itunes:category text="News &amp; Politics"/>
+      <itunes:category text="Education"/>
     
       <item>
+        <title>Selling Your First House? Follow These 4 Mega Tips</title>
+        <link>http://realestateportlandblog.com/selling-your-first-house-follow-these-4-mega-tips.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Steve Schwab</author>
+        <pubDate>2017-04-14 05:42:16 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+Today we’ve got four mega tips for you as a first-time home seller. These four tips will help you prepare your home for success on the market.
+
+1. Price your home accurately: Hire an agent to perform a comprehensive market analysis, which compares your home to nearby homes and what they sold for. They will come up with a value based on a number of factors like size and location. We might check our logic against Zillow, but it shouldn’t be trusted as your only source.
+
+2. Prepare your home for sale:Consider taking half of your furniture out of the house because you want buyers to come through and wonder if anybody lives there. You want to give them an idea of what the house looks like without being overwhelmed with clutter and furniture, which can make rooms look small. A fresh coat of paint can add a lot of value as well.
+
+“iPhones may take good pictures, but you shouldn’t market a home with them.”
+
+3. Be flexible with showings: It can be overwhelming, so I always recommend to consider leaving home for the first weekend your house goes on the market to let it be completely available for showings or an open house. When you’re in town and there’s a showing scheduled, you want to be out of the house during that showing so buyers can have open conversations amongst themselves.
+
+4. Use professional photography: iPhones take good pictures but I wouldn’t use it to market a home. Professional photographers have a keen eye for angles that display your home well and showcase color to make photos pop. On our team, we incorporate video and drone photography as well.
+
+If you’re thinking about selling your house, this is a great market to list in and find your next home and we’d love to help. Just give us a call or send us an email soon!
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://realestateportlandblog.com" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you're thinking of selling your first home, these four tips will help you have a smooth sale.</itunes:subtitle>
+        <itunes:author>Steve Schwab</itunes:author>
+        <itunes:summary>If you're thinking of selling your first home, these four tips will help you have a smooth sale.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>Make Sure Youre Protected This Tax Season</title>
-        <link>localhost:4000/make-sure-youre-protected-this-tax.html</link>
+        <link>http://realestateportlandblog.com/make-sure-youre-protected-this-tax.html</link>
         
           <category>Tax Season</category>
         
@@ -50,7 +85,7 @@ If you have any further questions for Peter about protecting yourself this tax s
 As always, if you have any questions for me, please feel free to give me a call or send me an email. I look forward to hearing from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realestateportlandblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -69,7 +104,7 @@ It’s tax season! To make sure your refund dream doesn’t turn into a tax frau
       
       <item>
         <title>4 Tips to Crafting the Best Possible Offer on a Home</title>
-        <link>localhost:4000/4-tips-to-crafting-best-possible-offer.html</link>
+        <link>http://realestateportlandblog.com/4-tips-to-crafting-best-possible-offer.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -95,7 +130,7 @@ If you have any questions about this topic or there’s anything else we can hel
 If you have any other questions, please feel free to call me or send me a quick email. I’m here to help!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realestateportlandblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -114,7 +149,7 @@ If you’ve found the perfect home and you’re ready to make an offer, here are
       
       <item>
         <title>How Does Your Credit Score Impact Buying Power?</title>
-        <link>localhost:4000/how-does-your-credit-score-impact.html</link>
+        <link>http://realestateportlandblog.com/how-does-your-credit-score-impact.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -140,7 +175,7 @@ Your credit score plays a huge role in if and how you qualify for those loan pro
 If you have any other questions please feel free to call me or send me a quick email. I’m here to help!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realestateportlandblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -159,7 +194,7 @@ Some people aren’t aware of how important their credit score is when it comes 
       
       <item>
         <title>Why Do You Need a Real Estate Professional?</title>
-        <link>localhost:4000/portland-real-estate-agent-5-reasons-to.html</link>
+        <link>http://realestateportlandblog.com/portland-real-estate-agent-5-reasons-to.html</link>
         
           <category>Portland Real Estate Tips</category>
         
@@ -196,7 +231,7 @@ Whether you are looking to buy or sell a home, you don’t want to try to tackle
 If you have any questions please feel free to give me a call or send me an email. I look forward to hearing from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realestateportlandblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -215,7 +250,7 @@ Whether you are looking to buy or sell a home, you don’t want to try to tackle
       
       <item>
         <title>Things for Millennial Home Buyers to Consider</title>
-        <link>localhost:4000/portland-real-estate-agent-new-segment.html</link>
+        <link>http://realestateportlandblog.com/portland-real-estate-agent-new-segment.html</link>
         
           <category>Portland Real Estate Tips</category>
         
@@ -239,7 +274,7 @@ If you’re looking to buy and want to begin the process, a study by the Nationa
 If you are thinking about buying or selling, give us a call or send us an email. We would love to speak to you about your specific situation and answer any questions you may have. We look forward to hearing from you soon!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realestateportlandblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>There is one specific segment of buyers that is making our market extra exciting. These buyers are part of the millennial generation (ages 18-34) and they are an integral part of our market. They will continue to be an integral part for the foreseeable future.
@@ -254,7 +289,7 @@ If you are thinking about buying or selling, give us a call or send us an email.
       
       <item>
         <title>We Owe All Our Success to You</title>
-        <link>localhost:4000/portland-real-estate-agent-thanks-for.html</link>
+        <link>http://realestateportlandblog.com/portland-real-estate-agent-thanks-for.html</link>
         
           <category>Portland Real Estate Tips</category>
         
@@ -276,7 +311,7 @@ If you or anyone you know is interested in buying or selling a home in the Portl
 Happy Holidays!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realestateportlandblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -295,7 +330,7 @@ We wanted to take a moment to reflect back on 2016 and how you helped us make it
       
       <item>
         <title>How Can a Lender Help You?</title>
-        <link>localhost:4000/portland-real-estate-agent-how-lenders.html</link>
+        <link>http://realestateportlandblog.com/portland-real-estate-agent-how-lenders.html</link>
         
           <category>Portland Real Estate Buyer Tips</category>
         
@@ -319,7 +354,7 @@ If you have any questions for Pete, you can give him a call at 503-267-6391 or e
 If you have any other real estate questions, just give us a call or send us an email. We would be happy to help you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realestateportlandblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -338,7 +373,7 @@ Today I’m here with Pete Wease, our preferred lender, to discuss job satisfact
       
       <item>
         <title>Don't Kill Your Home Deal With This Mistake</title>
-        <link>localhost:4000/dont-kill-your-home-deal-with-this.html</link>
+        <link>http://realestateportlandblog.com/dont-kill-your-home-deal-with-this.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -360,7 +395,7 @@ If you need help with a home loan or a refinance or you have any questions for h
 If you have any questions for me or you’re thinking about buying or selling a home in Portland, give me a call or send me an email. I’d love to help you in any way I can!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realestateportlandblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -379,7 +414,7 @@ There are some surprises that can seemingly come out of nowhere in a real estate
       
       <item>
         <title>The Current Health of the Portland Market</title>
-        <link>localhost:4000/the-current-health-of-portland-market.html</link>
+        <link>http://realestateportlandblog.com/the-current-health-of-portland-market.html</link>
         
           <category>Portland Real Estate Market Update</category>
         
@@ -403,7 +438,7 @@ In the video above, you can see a table that demonstrates how healthy the indexe
 If you have any questions at all about where our market is going and what it means to you as a buyer, seller, or homeowner, give me a call or send me an email. I’d love to hear from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realestateportlandblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -422,7 +457,7 @@ To examine the market on a monthly basis, one tool we like is the Case-Shiller S
       
       <item>
         <title>Why Are Transaction Timelines Longer in the Portland Area?</title>
-        <link>localhost:4000/why-are-transaction-timelines-longer-in.html</link>
+        <link>http://realestateportlandblog.com/why-are-transaction-timelines-longer-in.html</link>
         
           <category>Portland Real Estate Tips</category>
         
@@ -450,7 +485,7 @@ If you have any other questions for Pete about current mortgage rates, you can c
 As always, if there’s anything else you’d like us to address relative to the mortgage finance aspect of real estate transactions, give me a call or send me an email. I look forward to talking with you soon!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realestateportlandblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -469,7 +504,7 @@ Our office recently had a transaction that was supposed to close at the end of S
       
       <item>
         <title>What If the First Home You See Is the One?</title>
-        <link>localhost:4000/what-if-first-home-you-see-is-one.html</link>
+        <link>http://realestateportlandblog.com/what-if-first-home-you-see-is-one.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -497,7 +532,7 @@ That said, you can take things too far by looking at too many homes and getting 
 If you have any questions about finding the right home or about real estate in general, give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realestateportlandblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -516,7 +551,7 @@ If you fall in love with the first property you see, should you buy it or keep l
       
       <item>
         <title>Knowing What You Want vs. What You Need in a Home</title>
-        <link>localhost:4000/knowing-what-you-want-vs-what-you-need.html</link>
+        <link>http://realestateportlandblog.com/knowing-what-you-want-vs-what-you-need.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -538,7 +573,7 @@ I often see people make upgrades to their home solely as part of their strategy 
 If you have any questions you’d like answered, just shoot me an email or give me a call. I’d love to help in any way I can!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realestateportlandblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -557,7 +592,7 @@ I believe homeownership is the American Dream. When you buy a home, though, it i
       
       <item>
         <title>Is Your Portland HVAC System Properly Maintained?</title>
-        <link>localhost:4000/is-your-portland-hvac-system-properly.html</link>
+        <link>http://realestateportlandblog.com/is-your-portland-hvac-system-properly.html</link>
         
           <category>Other</category>
         
@@ -579,7 +614,7 @@ If you ignore all of these things, you may end up with no heat on the coldest da
 If you have any further questions, please don’t hesitate to contact Sam or myself. We look forward to working with you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realestateportlandblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -598,7 +633,7 @@ Sam Murzea, from MP Heating and Air Conditioning in Portland, is our go-to vendo
       
       <item>
         <title>Is the Portland Market Heading Towards a Bubble?</title>
-        <link>localhost:4000/is-portland-market-heading-towards.html</link>
+        <link>http://realestateportlandblog.com/is-portland-market-heading-towards.html</link>
         
           <category>Portland Real Estate Market Update</category>
         
@@ -622,7 +657,7 @@ For someone making a 20% down payment, their mortgage payments would only take a
 If you have any questions for me about the Portland market, don’t hesitate to reach out by phone or email. I would love to hear from you.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realestateportlandblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -641,7 +676,7 @@ Portland is continuing to see an explosive real estate market. I’ve mentioned 
       
       <item>
         <title>Are There Loans that Dont Require a Down Payment?</title>
-        <link>localhost:4000/how-can-you-pay-0-down-for-portland.html</link>
+        <link>http://realestateportlandblog.com/how-can-you-pay-0-down-for-portland.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -661,7 +696,7 @@ This is a fantastic opportunity for someone to get in the market and own a home 
 If you have any questions for us or are interested in using a loan like this to purchase a home, give us a call or send us an email. We would love to talk to you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realestateportlandblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -680,7 +715,7 @@ Have you been wondering what’s going on in the world of low down payment loans
       
       <item>
         <title>Dont Miss these Expert Portland Home Finance Tips</title>
-        <link>localhost:4000/selling-your-portland-home-check-out.html</link>
+        <link>http://realestateportlandblog.com/selling-your-portland-home-check-out.html</link>
         
           <category>Portland Real Estate Tips</category>
         
@@ -700,7 +735,7 @@ This prevents erroneous fees and charges from being issued to the consumer. Furt
 If you have any questions about these changes, please don’t hesitate to contact me!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realestateportlandblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -719,7 +754,7 @@ Today I have Peter Wease with me and he will be helping us to discuss some chang
       
       <item>
         <title>Inventory Levels Are Incredibly Low in Portland </title>
-        <link>localhost:4000/inventory-levels-are-incredibly-low-in.html</link>
+        <link>http://realestateportlandblog.com/inventory-levels-are-incredibly-low-in.html</link>
         
           <category>Portland Real Estate Market Update</category>
         
@@ -745,7 +780,7 @@ Since homes are in such high demand, if you’re a buyer, you will probably face
 If you have any questions, give us a call or send us an email. We would be happy to help you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realestateportlandblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -764,7 +799,7 @@ Today, we’ll talk about the dynamics of the Portland real estate market. We’
       
       <item>
         <title>Why 2016 Is the Year to Buy in Portland </title>
-        <link>localhost:4000/why-2016-is-year-to-buy-in-portland.html</link>
+        <link>http://realestateportlandblog.com/why-2016-is-year-to-buy-in-portland.html</link>
         
           <category>Portland Real Estate Market Update</category>
         
@@ -786,7 +821,7 @@ If you get in the market today, you will save a lot of money. Don’t wait for n
 As you can see, it’s a great time to be in the market. If you have any questions, give us a call or send us an email. We would be happy to help you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realestateportlandblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -805,7 +840,7 @@ Is 2016 the right year for you to buy a home? The short answer is yes.
       
       <item>
         <title>Three Reasons to Buy in Portland</title>
-        <link>localhost:4000/portland-real-estate-purchasing-power.html</link>
+        <link>http://realestateportlandblog.com/portland-real-estate-purchasing-power.html</link>
         
           <category>Purchasing Power</category>
         
@@ -833,7 +868,7 @@ The National Association of Realtors published a national study on what motivate
 If you have any questions at all about buying or selling a home, feel free to reach out today. Give me a call or email!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realestateportlandblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -854,7 +889,7 @@ The National Association of Realtors published a national study on what motivate
       
       <item>
         <title>How Do You Know if Someone Died in a Portland Home?</title>
-        <link>localhost:4000/portland-real-estate-seller-disclosure.html</link>
+        <link>http://realestateportlandblog.com/portland-real-estate-seller-disclosure.html</link>
         
           <category>Disclosures</category>
         
@@ -880,7 +915,7 @@ However, if you want to find out, you can visit a website called DiedInHouse.com
 If you have any questions about today’s video, give me a call or send me an email. I look forward to hearing from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realestateportlandblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -899,7 +934,7 @@ Since Halloween has recently passed, let’s discuss a question buyers occasiona
       
       <item>
         <title>How to Market Yourself as a More Desirable Buyer in Portland</title>
-        <link>localhost:4000/portland-real-estate-importance-of-pre.html</link>
+        <link>http://realestateportlandblog.com/portland-real-estate-importance-of-pre.html</link>
         
           <category>Portland Real Estate Buyer Tips</category>
         
@@ -927,7 +962,7 @@ Keep your contingencies reasonable. It’s difficult to get a contingent offer a
 Feel free to reach out to us if you have any questions. We look forward to hearing from you.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realestateportlandblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -946,7 +981,7 @@ The Portland real estate market continues to be brisk and fast paced. Because of
       
       <item>
         <title>Owning a Home in Portland Is Easier Than You Think!</title>
-        <link>localhost:4000/portland-real-estate-making-down-payment.html</link>
+        <link>http://realestateportlandblog.com/portland-real-estate-making-down-payment.html</link>
         
           <category>Portland Real Estate Buyer Tips</category>
         
@@ -968,7 +1003,7 @@ Core Logic recently published a report that tells us to expect a residential app
 If you would like to sit down and talk about your options, please don’t hesitate to reach out to us. We would love to help in any way we can!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realestateportlandblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -987,7 +1022,7 @@ If you can’t afford a large down payment, should you wait to buy? We get this 
       
       <item>
         <title>How to Stand Out as a Home Buyer in Portland with One Simple Document</title>
-        <link>localhost:4000/portland-real-estate-how-to-stand-out.html</link>
+        <link>http://realestateportlandblog.com/portland-real-estate-how-to-stand-out.html</link>
         
           <category>Portland Real Estate Buyer Tips</category>
         
@@ -1009,7 +1044,7 @@ Both buyers and sellers like to see letters of pre-approval, and this is especia
 If you would like to be put in contact with a great local lender, please don’t hesitate to contact me!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realestateportlandblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -1028,7 +1063,7 @@ Today we’ll be discussing an important distinction among home buyers in Portla
       
       <item>
         <title>What Can You Expect from the Portland Market?</title>
-        <link>localhost:4000/portland-real-estate-end-of-summer.html</link>
+        <link>http://realestateportlandblog.com/portland-real-estate-end-of-summer.html</link>
         
           <category>Portland Real Estate Market Update</category>
         
@@ -1050,7 +1085,7 @@ Portland has seen an appreciation level of about 7.4% over the last year or so. 
 If you have any questions about where our market is heading, don’t hesitate to give me a call or shoot me and email. I would love to hear from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realestateportlandblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -1069,7 +1104,7 @@ Portland’s market is still going strong as we wrap up the summer season. Today
       
       <item>
         <title>Why Should You Consider Investing in Portland?</title>
-        <link>localhost:4000/portland-real-estate-investment-tips.html</link>
+        <link>http://realestateportlandblog.com/portland-real-estate-investment-tips.html</link>
         
           <category>Investment Tips</category>
         
@@ -1091,7 +1126,7 @@ It takes about a 20% down payment to invest in a property today. Now you can hav
 Another thing that comes into play is the 1031 exchange, where you can take your equity to invest in even more properties. Hopefully this has been of some help to you. If you want to dive deeper, give us a call or send us an email and we’d be happy to talk to you soon!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realestateportlandblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -1110,15 +1145,12 @@ While commodities and stocks can be volatile and dangerous investments, real est
       
       <item>
         <title>What Can You Do About High Levels of Radon in Your Portland Home?</title>
-        <link>localhost:4000/portland-real-estate-home-safety-tips.html</link>
-        
-          <category>Home Safety Tips</category>
+        <link>http://realestateportlandblog.com/what-can-you-do-about-high-levels-of-radon-in-your-portland-home.html</link>
         
         <author>Steve Schwab</author>
         <pubDate>2015-07-14 16:14:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Steve+Schwab/Portland+Real+Estate+Agent-+Is+your+home+exposed+to+radon+gas%253F.mp4</guid>
         <description>
-
 Not many homeowners are aware of the potential dangers of radon gas. Today, we want to give you some basic information so you can keep your home and your family safe from this toxic gas!
 
 Many home inspections that are done today test for radon gas. It’s an odorless, invisible, radioactive gas that’s produced from the natural decay of uranium and is found in most soil. Exposure to radon is responsible for up to 20,000 deaths in the United States each year and is the number one cause of lung cancer in nonsmokers.
@@ -1131,18 +1163,16 @@ What happens if you learn that your home has high levels of radon? Luckily, it�
 
 If you have any questions about this topic, or if you would like to test your home, give us a call or shoot us a quick email. We’re always here to help you with all of your real estate needs!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Steve+Schwab/Portland+Real+Estate+Agent-+Is+your+home+exposed+to+radon+gas%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://realestateportlandblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Steve+Schwab/Portland+Real+Estate+Agent-+Is+your+home+exposed+to+radon+gas%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Not many homeowners are aware of the potential dangers of radon gas. Today, we want to give you some basic information so you can keep your home and your family safe from this toxic gas!
 
 </itunes:subtitle>
         <itunes:author>Steve Schwab</itunes:author>
         <itunes:summary>
-
 Not many homeowners are aware of the potential dangers of radon gas. Today, we want to give you some basic information so you can keep your home and your family safe from this toxic gas!
 
 </itunes:summary>
@@ -1151,15 +1181,12 @@ Not many homeowners are aware of the potential dangers of radon gas. Today, we w
       
       <item>
         <title>What Changes Are Coming to the CFPB?</title>
-        <link>localhost:4000/portland-real-estate-tips-and-tricks.html</link>
-        
-          <category>Portland Real Estate Tips</category>
+        <link>http://realestateportlandblog.com/what-changes-are-coming-to-the-cfpb.html</link>
         
         <author>Steve Schwab</author>
         <pubDate>2015-07-07 11:15:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Steve+Schwab/Portland+Real+Estate+Agent-+Changes+are+looming+in+Portland.mp4</guid>
         <description>
-
 Welcome back, everyone. Today we are excited to be joined by Peter Weiss, from our preferred mortgage lender, Fareway Independent Mortgage. Today we are going to talk about the CFPB, or Consumer Financial Protection Bureau, and what changes are coming to it that could affect your next real estate transaction.
 
 The CFPB is a governmental agency that was created out of the mortgage crisis in 2007-2008. The idea of the CFPB is to create a protection for the consumer, and they are making changes soon that will affect both buyers and sellers.
@@ -1174,88 +1201,17 @@ Additional changes are coming that could impact the timeline of a real estate tr
 
 If you have any questions about the mortgage or finance world, let us know. We would love to answer them with Peter in an upcoming video. We look forward to hearing from you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Steve+Schwab/Portland+Real+Estate+Agent-+Changes+are+looming+in+Portland.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://realestateportlandblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Steve+Schwab/Portland+Real+Estate+Agent-+Changes+are+looming+in+Portland.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Welcome back, everyone. Today we are excited to be joined by Peter Weiss, from our preferred mortgage lender, Fareway Independent Mortgage. Today we are going to talk about the CFPB, or Consumer Financial Protection Bureau, and what changes are coming to it that could affect your next real estate transaction.
 
 </itunes:subtitle>
         <itunes:author>Steve Schwab</itunes:author>
         <itunes:summary>
-
 Welcome back, everyone. Today we are excited to be joined by Peter Weiss, from our preferred mortgage lender, Fareway Independent Mortgage. Today we are going to talk about the CFPB, or Consumer Financial Protection Bureau, and what changes are coming to it that could affect your next real estate transaction.
-
-</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-      </item>
-      
-      <item>
-        <title>Avoid These 8 Mistakes to Sell for Top Dollar in Portland</title>
-        <link>localhost:4000/portland-real-estate-home-seller-tips_19.html</link>
-        
-          <category>Home Seller Tips</category>
-        
-        <author>Steve Schwab</author>
-        <pubDate>2015-05-19 13:50:00 -0500</pubDate>
-        <guid></guid>
-        <description>
-
-Welcome back to part two of my home-staging video. I’m going to be discussing some common mistakes that buyers make when they stage their home. If you play your cards right in the process, you can see a nice return when you sell your home. Hopefully these tips can help you sell your Portland property for a little extra this spring!
-
-Numbers one through four were discussed last week:
-
-
-  
-    Being too personal. You don’t want people to walk into a room and be able to identify the type of person living in it.
-  
-  
-    Pack away your personal items. You don’t want your potential buyers distracted by photos and other belongings of yours. Your home should stand out to them, not your collection of sports memorabilia.
-  
-
-
-“Bright houses always sell.”
-
-
-  
-    Don’t paint with dark colors. Darker colors make rooms feel smaller, and we always suggest colors that are light and bright. Earth tones seem to be popular right now, and they tend to be more inviting colors for buyers.
-  
-  
-    Not taking advantage of natural light. You want every window of your house open and light shining in. Buyers like to see homes that are well-lit, and opening up your windows and letting the light come inside is a very simple and easy way to improve the look and feel of your home. A lot of buyers want nice natural lighting in their home.
-  
-  
-    Thinking more is better. Remove any large furniture that you have in your home. It will make the room feel smaller and it can clog up traffic in your home when buyers are viewing it.
-  
-  
-    Forgetting the fixtures. Make sure every fixture in your home works and that every light has a fresh bulb. This is also a small pet-peeve that can really irritate some buyers during a viewing. Bright houses always sell.
-  
-  
-    Having pets at home. I love animals, but not when I’m trying to sell a home. They bring along odors and can cause unsightly stains. Remove any litter boxes from your home or kennels that are left out. Try to make it appear as if no pets are in your home.
-  
-  
-    Neglecting the exterior: Buyers are beginning to care more and more about outdoor spaces of properties. Buyers are drawn into your home by what it looks from the outside, so paint your front door, mow your lawn, plant some flowers, and make sure that it looks as inviting as possible. I might even recommend power washing the sides of your home as well as your driveway.
-  
-
-
-Hopefully, these eight tips can help you sell for top dollar this summer in Portland! If you have any questions about these topics, please don’t hesitate to contact me!
-
-Thanks for watching, and stay tuned!
-</description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-Welcome back to part two of my home-staging video. I’m going to be discussing some common mistakes that buyers make when they stage their home. If you play your cards right in the process, you can see a nice return when you sell your home. Hopefully these tips can help you sell your Portland property for a little extra this spring!
-
-</itunes:subtitle>
-        <itunes:author>Steve Schwab</itunes:author>
-        <itunes:summary>
-
-Welcome back to part two of my home-staging video. I’m going to be discussing some common mistakes that buyers make when they stage their home. If you play your cards right in the process, you can see a nice return when you sell your home. Hopefully these tips can help you sell your Portland property for a little extra this spring!
 
 </itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
@@ -1263,7 +1219,7 @@ Welcome back to part two of my home-staging video. I’m going to be discussing 
       
       <item>
         <title>Avoid These Mistakes to Sell for Top Dollar in Portland</title>
-        <link>localhost:4000/portland-real-estate-home-seller-tips.html</link>
+        <link>http://realestateportlandblog.com/portland-real-estate-home-seller-tips.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -1299,7 +1255,7 @@ Hopefully, these tips have been helpful if you plan on buying or selling this su
 Thanks for watching, and stay tuned!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realestateportlandblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -1311,67 +1267,6 @@ Now is the time to list your home for sale in Portland, so I wanted to speak abo
         <itunes:summary>
 
 Now is the time to list your home for sale in Portland, so I wanted to speak about some common mistakes that people make when staging their homes. I’ll discuss four mistakes in this video, and then there will be another follow-up video where I will discuss four more mistakes being made.
-
-</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-      </item>
-      
-      <item>
-        <title>Avoid These Six Buyer Mistakes for a Smooth Transaction</title>
-        <link>localhost:4000/portland-real-estate-home-buyer-tips.html</link>
-        
-          <category>Portland Real Estate Buyer Tips</category>
-        
-        <author>Steve Schwab</author>
-        <pubDate>2015-05-19 10:53:00 -0500</pubDate>
-        <guid></guid>
-        <description>
-
-As we head into the buying and selling season, I thought I’d give my home buyers some tips for when they set out on the market. Now is a great time to buy a home, but it’s important to make sure you’re avoiding these mistakes.
-
-“You need to set a realistic budget because there are a lot of hidden fees when you purchase a home.”
-
-
-  Borrowing the maximum amount: You need to set a realistic budget because there are a lot of hidden fees when you purchase a home. You need to be able to afford the costs of maintenance, insurance, HOA fees, and a fund for when something absolutely catastrophic happens. Hopefully, you will never need this, but you never know. You want to be able to comfortably afford a home, not live paycheck to paycheck.
-
-
-“You need to set a realistic budget because there are a lot of hidden fees when you purchase a home.”
-
-
-  
-    Not Planning Ahead: You need to take into consideration what your home will be worth when you go to sell it in a few years. Are you next to a busy street? Do you need new carpet or a new roof? You want to sell your home for more than you bought it for, and that will take some planning.
-  
-  
-    Get Pre-approved for a loan: You need to get approved for a loan even before you go out and start looking for a home. Sellers probably won’t even consider you as a buyer if you can’t prove that you can buy the home. Getting approved will also allow you to figure out what you can afford to buy, so you won’t be wasting time looking at homes that you cannot afford.
-  
-  
-    Indecision: Our market is moving very quickly, so you need to be able to make decisions quickly if you find a home that you really like. Don’t let someone else buy your dream home!
-  
-  
-    Checking only online sources for mortgage programs: We believe that it’s best to have a face-to-face relationship with your lender. This ensures proper communication between you and your lender, and that is really important during the closing period.
-  
-  
-    Debt to income ratio: You really need to pay attention to this. Don’t think about going out and buying a new car or new furniture that could ruin your debt to income ratio and disqualify you for a loan. I’ve seen people spoil their ability to close by doing this, so please budget wisely during your closing period.
-  
-
-
-We would love to talk to you further about these items. If you have any questions about this, please don’t hesitate to contact us.
-
-As always, consider us your #1 resource for real estate in Portland!
-</description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-As we head into the buying and selling season, I thought I’d give my home buyers some tips for when they set out on the market. Now is a great time to buy a home, but it’s important to make sure you’re avoiding these mistakes.
-
-</itunes:subtitle>
-        <itunes:author>Steve Schwab</itunes:author>
-        <itunes:summary>
-
-As we head into the buying and selling season, I thought I’d give my home buyers some tips for when they set out on the market. Now is a great time to buy a home, but it’s important to make sure you’re avoiding these mistakes.
 
 </itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
@@ -1379,15 +1274,14 @@ As we head into the buying and selling season, I thought I’d give my home buye
       
       <item>
         <title>Four Easy Ways to Add Value to Your Portland Home</title>
-        <link>localhost:4000/portland-real-estate-home-seller-tips.html</link>
+        <link>http://realestateportlandblog.com/four-easy-ways-to-add-value-to-your-portland-home.html</link>
         
           <category>Home Seller Tips</category>
         
         <author>Steve Schwab</author>
         <pubDate>2015-03-26 12:51:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Steve+Schwab/Portland+Real+Estate+Agent-+4+cost-effective+home+repairs.mp4</guid>
         <description>
-
 With the spring selling season in full swing here in Portland, I wanted to share four inexpensive ways to add some value to your home. These things can easily be done right before a sale, and they can put some extra cash in your pocket at closing.
 
 
@@ -1411,18 +1305,16 @@ As you prepare to sell your home this spring, I hope that these tips will be abl
 
 As always, consider me your #1 resource for real estate in Portland!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Steve+Schwab/Portland+Real+Estate+Agent-+4+cost-effective+home+repairs.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://realestateportlandblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Steve+Schwab/Portland+Real+Estate+Agent-+4+cost-effective+home+repairs.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 With the spring selling season in full swing here in Portland, I wanted to share four inexpensive ways to add some value to your home. These things can easily be done right before a sale, and they can put some extra cash in your pocket at closing.
 
 </itunes:subtitle>
         <itunes:author>Steve Schwab</itunes:author>
         <itunes:summary>
-
 With the spring selling season in full swing here in Portland, I wanted to share four inexpensive ways to add some value to your home. These things can easily be done right before a sale, and they can put some extra cash in your pocket at closing.
 
 </itunes:summary>
@@ -1431,7 +1323,7 @@ With the spring selling season in full swing here in Portland, I wanted to share
       
       <item>
         <title>How Does Portland Real Estate Compare to the Rest of the Country?</title>
-        <link>localhost:4000/portland-real-estate-update-march-2015.html</link>
+        <link>http://realestateportlandblog.com/portland-real-estate-update-march-2015.html</link>
         
           <category>Portland Real Estate Market Update</category>
         
@@ -1457,7 +1349,7 @@ Some of the highlights of the report were:
 Hopefully you have found this information helpful, and if you have any other questions, please don’t hesitate to contact me.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realestateportlandblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -1478,15 +1370,12 @@ Buying a Portland home? Search all homes for sale
       
       <item>
         <title>Why Now Is the Time to Buy</title>
-        <link>localhost:4000/portland-5-reasons-to-buys.html</link>
-        
-          <category>Portland Real Estate Buyer Tips</category>
+        <link>http://realestateportlandblog.com/why-now-is-the-time-to-buy.html</link>
         
         <author>Steve Schwab</author>
         <pubDate>2015-03-11 12:41:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Steve+Schwab/Portland+Real+Estate+Agent-The+Portland+real+estate+market+is+on+fire.mp4</guid>
         <description>
-
 Affordability is at an all-time high right now. Interest rates are low (below 4%), and loan products from Fannie Mae and Freddie Mac are allowing consumers to buy with only 3% down. Even rates for private mortgage insurance have dropped, and this can save you thousands of dollars over the life of your loan. It’s difficult for me to imagine a better time to purchase, and on top of these financial incentives, I have five more reasons why owning a home is beneficial to you.
 
 “If you’re renting right now, I highly suggest you start considering a home purchase.”
@@ -1503,18 +1392,16 @@ If you’re renting right now, I highly suggest you start considering a home pur
 
 If you need any help with buying or selling real estate in the Portland area, please feel free to contact me. I’m always happy to help!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Steve+Schwab/Portland+Real+Estate+Agent-The+Portland+real+estate+market+is+on+fire.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://realestateportlandblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Steve+Schwab/Portland+Real+Estate+Agent-The+Portland+real+estate+market+is+on+fire.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Affordability is at an all-time high right now. Interest rates are low (below 4%), and loan products from Fannie Mae and Freddie Mac are allowing consumers to buy with only 3% down. Even rates for private mortgage insurance have dropped, and this can save you thousands of dollars over the life of your loan. It’s difficult for me to imagine a better time to purchase, and on top of these financial incentives, I have five more reasons why owning a home is beneficial to you.
 
 </itunes:subtitle>
         <itunes:author>Steve Schwab</itunes:author>
         <itunes:summary>
-
 Affordability is at an all-time high right now. Interest rates are low (below 4%), and loan products from Fannie Mae and Freddie Mac are allowing consumers to buy with only 3% down. Even rates for private mortgage insurance have dropped, and this can save you thousands of dollars over the life of your loan. It’s difficult for me to imagine a better time to purchase, and on top of these financial incentives, I have five more reasons why owning a home is beneficial to you.
 
 </itunes:summary>
@@ -1523,21 +1410,17 @@ Affordability is at an all-time high right now. Interest rates are low (below 4%
       
       <item>
         <title>What Type of Market are We Seeing in Portland?</title>
-        <link>localhost:4000/feb-2015-market-update.html</link>
-        
-          <category>Portland Real Estate Market Update</category>
+        <link>http://realestateportlandblog.com/what-type-of-market-are-we-seeing-in-portland.html</link>
         
         <author>Steve Schwab</author>
         <pubDate>2015-02-09 16:29:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Steve+Schwab/Portland+Real+Estate+Agent-The+Portland+real+estate+market+is+on+fire.mp4</guid>
         <description>
-
 A lot of our clients here in Portland have been asking us whether we’re in a buyer’s market or a seller’s market. The short answer is that we are in the midst of a seller’s market right now.
 
 However, there are some fundamental differences between this market and the one we had in 2006. Asking price is absolutely critical in our market. You cannot ask too much or it will sit and go stale. Presentation is also key because buyers expect the best, and if you don’t deliver curb appeal you could miss out on a sale.
 
-Another factor in our market right now is that we only have a 2.3 month supply of inventory. Keep in mind that this is an average, so this isn’t true for all neighborhoods and price points. Also consider that the average home price in Portland is up to $332,000, and a year ago that price was at $310,000. These prices are impacted by supply and demand, so a low inventory with a high demand will eventually raise prices up. We’re also seeing multiple offers on some homes, and that tends to push prices up as well.
-In the last 12 months, we’ve seen a 6.2% appreciation in prices and home values.
+Another factor in our market right now is that we only have a 2.3 month supply of inventory. Keep in mind that this is an average, so this isn’t true for all neighborhoods and price points. Also consider that the average home price in Portland is up to $332,000, and a year ago that price was at $310,000. These prices are impacted by supply and demand, so a low inventory with a high demand will eventually raise prices up. We’re also seeing multiple offers on some homes, and that tends to push prices up as well.In the last 12 months, we’ve seen a 6.2% appreciation in prices and home values.
 
 “If you’re a buyer, you’ll probably pay less in a mortgage than what you pay monthly for rent.”
 
@@ -1545,18 +1428,16 @@ Interest rates are also at historic lows, so now is the time to take action and 
 
 Please don’t hesitate to contact us if you’re thinking about buying or selling your home in Portland. We’re always willing to help you in any way possible!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Steve+Schwab/Portland+Real+Estate+Agent-The+Portland+real+estate+market+is+on+fire.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://realestateportlandblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Steve+Schwab/Portland+Real+Estate+Agent-The+Portland+real+estate+market+is+on+fire.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 A lot of our clients here in Portland have been asking us whether we’re in a buyer’s market or a seller’s market. The short answer is that we are in the midst of a seller’s market right now.
 
 </itunes:subtitle>
         <itunes:author>Steve Schwab</itunes:author>
         <itunes:summary>
-
 A lot of our clients here in Portland have been asking us whether we’re in a buyer’s market or a seller’s market. The short answer is that we are in the midst of a seller’s market right now.
 
 </itunes:summary>
