@@ -29,4 +29,4 @@ Today we've got four mega tips for you as a first-time home seller. These four t
 
 **4. Use professional photography:** iPhones take good pictures but I wouldn't use it to market a home. Professional photographers have a keen eye for angles that display your home well and showcase color to make photos pop. On our team, we incorporate video and drone photography as well.
 
-<br>If you're thinking about selling your house, this is a great market to list in and find your next home, and we'd love to help. Just give us a call or send us an email soon!
+<br>If you're thinking about selling your house, this is a great market to list in and find your next home and we'd love to help. Just give us a call or send us an email soon!
