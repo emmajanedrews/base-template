@@ -41,8 +41,8 @@ sidebar_CTA:
   - CTA_image_path: /img/cta-images/006.jpg
     CTA_title: Looking to Build Your Real Estate Career?
     CTA_text: Let's talk about how The Dave Friedman Team can take your business to new heights.
-    CTA_link_text: Home Search Tool
-    CTA_url: /homesearch/
+    CTA_link_text: Request a Free Strategy Session
+    CTA_url: 'http://davefriedmancoaching.com/#contact'
 
 lender:
   show_section: false
