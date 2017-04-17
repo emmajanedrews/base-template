@@ -5,7 +5,7 @@ tags:
   - Venue Reviews
 excerpt: Today I’m coming to you from the beautiful Emerald Coast.
 enclosure:
-pullquote: Topsail State Park is a beautiful place to get away and really think about the important stuff in life.
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
