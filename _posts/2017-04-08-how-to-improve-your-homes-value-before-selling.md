@@ -5,7 +5,7 @@ date: 2017-04-08 06:00:00
 tags:
   - Home Seller Tips
 excerpt: There is a lot you can do to increase your home’s value prior to selling. Here are a few of our top tips.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Chris+Gorman/Triangle+Area+Real+Estate-+Smart+Investments+to+Improve+Your+Home%2527s+Value.mp4'
 pullquote: Flooring and paint are the two most obvious areas to improve.
 enclosure_type: video/mp4
 enclosure_time:
