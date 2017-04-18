@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Who Should You Turn to If You Need a Mortgage?
-date: 2017-04-18 11:56:07
+date: 2017-04-18 11:56:00
 tags:
   - Home Buyer Tips
 excerpt: 'Getting a mortgage is not as simple as clicking a button, which is why you should opt for a local mortgage lender instead of an online provider.'
@@ -9,9 +9,9 @@ enclosure: 'http://vyralmarketing.s3.amazonaws.com/rare%20Properties/Raleigh%20R
 pullquote: You’ll never have an online lender give you their cell phone number in case you have questions.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/no-pb-4.jpg
-youtube_code: v-aecuIOVlg
+use_youtube_image: false
+youtube_alternate_image: /uploads/pb-3.jpg
+youtube_code: p0OSqlSVmN0
 ---
 
 
