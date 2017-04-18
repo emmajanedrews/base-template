@@ -7,20 +7,20 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Steve Case
   license_number:
   about_markdown: |
-
+    Steve is your registered financial adviser focusing on 401(k) plans. With over 27 years of experience in strategic retirement planning, his vision and experience in sound retirement planning has helped Financial Independence become a well-rounded 401(k) provider. Steve is a graduate of Cornell University with a Bachelor of Science in Business Administration and Applied Economics. To schedule a consultation with Steve, please call Kelsey at <a href="tel:248-282-9905">248-282-9905.</a>
   market:
-  brand:
-  brokerage:
-  address:
-  phone:
-  phone_type:
-  phone2:
-  phone2_type:
-  email:
-  url:
+  brand: Financial Independence, LLC
+  brokerage: Personal Wealth Management & 401K Resource
+  address: 3883 Telegraph Road Suite 203 Bloomfield Hills, MI 48302
+  phone: 248-594-8114
+  phone_type: Cell
+  phone2: 1-866-844-4102
+  phone2_type: Office
+  email: scase@fscadvisor.com
+  url: http://www.financial-independence.com
 
 CTAs:
   first_CTA_text: Home Valuation
@@ -37,25 +37,21 @@ sidebar_CTA:
     CTA_url: /homesearch/
 
 lender:
-  show_section: false
-  header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
-  logo_path: /img/logo.png
+  show_section: true
+  header_text:
+  headshot_path: /img/headshot2.png
+  logo_path:
   logo_path_2:
-  name: Bill Murray
-  brand: Lender Co.
-  phone: 555-555-5555
-  email: bill@murray.com
-  url: http://eyegoop.com
+  name: Evan Pawloski
+  brand: 401k Sales Assistant
+  phone: 313-283-7488
+  email: epawloski@fscadvisor.com
+  url:
 
 welcome_box:
-  welcome_headline: Join Our -- MARKET -- VIP List
+  welcome_headline: Get Educated About Your Financial Future
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
-    professionals can answer any questions you might have about real estate.
-    Subscribe to this blog to get the latest news on local market trends and
-    receive expert tips for buying or selling a home.
+    Our mission at -- CLIENT BRAND -- is to be your best resource for financial advice. Our team of professionals can answer any questions you might have about finance. Subscribe to this blog to get the latest news on finance and receive expert tips for preparing yourself for your financial future.
 
 socials:
   review_sm_icons: false
