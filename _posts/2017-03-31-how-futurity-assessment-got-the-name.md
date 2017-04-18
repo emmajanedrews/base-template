@@ -20,7 +20,7 @@ Do you know how Futurity Assessment got its name or what our process is?
 
 A couple years ago, I was visiting a client in Chicago and having a conversation with their CEO. The conversation took a unique shift.
 
-We were talking about how important it was that the company focused on how they would prepare for the future and not just on how they were performing today. At that point, the CEO told me that no one was actually speaking to him about the future readiness of his organization, and **if that's what I wanted to talk about, he'd actually stand up and listen.**
+We were talking about how important it was that the company focused on how they would prepare for the future and not just on how they were performing today. At that point, the CEO told me that no one was actually speaking to him about the future readiness of his organization, and&nbsp;**if that's what I wanted to talk about, he'd actually stand up and listen.**
 
 Obviously, this conversation was very impactful to me. When I got home from the trip, I knew I had to find a name that really defines future readiness. Just like everyone, I hopped online to start and I found the word 'futurity.' Oddly enough, 'futurity' is actually a horse show in which young horses are judged on what their future abilities look like.
 
