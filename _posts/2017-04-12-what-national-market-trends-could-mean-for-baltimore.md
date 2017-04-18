@@ -4,7 +4,7 @@ title: What National Market Trends Could Mean for Baltimore
 tags:
   - Market Update
 excerpt: "Today we've got an update for you on the national real estate market and how it affects our local market here in the Baltimore metro area."
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Wes+Peters/Baltimore+Metro+Real+Estate-+How+Baltimore+reflects+the+national+market.mp4'
 pullquote: Our shortage of inventory makes it more important than ever to work with an experienced real estate expert.
 enclosure_type: video/mp4
 enclosure_time:
