@@ -15,9 +15,7 @@ tags:
 ---
 
 
-{% include youtube.html %} }
-
-I’ve got some really exciting news to share today. As most of you know, I’ve been practicing real estate for a little over 10 years and I’ve recently decided to start sharing some of my expertise with you through a real estate video blog. I wanted to make sure I included all of you.
+{% include youtube.html %}I’ve got some really exciting news to share today. As most of you know, I’ve been practicing real estate for a little over 10 years and I’ve recently decided to start sharing some of my expertise with you through a real estate video blog. I wanted to make sure I included all of you.
 
 Each month, I’ll be sending out two emails addressing trends in our local real estate market. I’ll also be touching on changes in the lending world and providing you with tips to navigate this wonderful world of real estate.
 
