@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Should Your Next Home Be a Resale Purchase or a New Build?
-date: 2017-04-13 14:39:54
+date: 2017-04-13 14:39:00
 tags:
   - Home Buyer Tips
 excerpt: Choosing between building a new home yourself or buying a resale property comes down to whether you want the perfect home or the perfect deal.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Jason+Wilson/Woodstock%252C+GA+Real+Estate+Agent-+The+perfect+home+vs.+the+perfect+deal.mp4'
 pullquote: Do you want the perfect home or the ideal value?
 enclosure_type: video/mp4
 enclosure_time:
