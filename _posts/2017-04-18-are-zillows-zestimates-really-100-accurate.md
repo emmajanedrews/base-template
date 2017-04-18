@@ -4,7 +4,7 @@ title: 'Are Zillow’s Zestimates Really 100% Accurate?'
 date: 2017-04-18 00:00:00
 tags:
   - Home Seller Tips
-excerpt: 'If you’re a home seller, should you really trust Zillow to give your home an accurate value? In case you don’t know, Zillow uses a computer algorithm of third-party data to formulate its home valuations, or Zestimates. Today I want to talk about why this process is so limiting. Zillow has never been to your house, so how much could it possibly know? To learn more about how Zillow works and what you should do to find your home’s true value, watch my latest video.'
+excerpt: 'If you’re looking to get an estimate of your home’s worth, you should be wary of trusting Zillow down to the last cent.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Dave+Silva/Roseville+Real+Estate+The+truth+behind+Zillow%E2%80%99s+Zestimates.mp4'
 pullquote: When was the last time Zillow was actually at your place?
 enclosure_type: video/mp4
