@@ -4,7 +4,7 @@ title: An Update on Our Team and the Local Market
 tags:
   - Market Update
 excerpt: 'My wife Jennifer joined our real estate team about six months ago. She was a teacher at Hillcrest Elementary for 11 years and since she made the switch, she has been a huge part of our growth and success.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Wes+Peters/Baltimore+Metro+Real+Estate-+A+market+update%252C+team+update%252C+and+happy+hour.mp4'
 pullquote: 'We hope to give over $10,000 to the Cool Kids Campaign.'
 enclosure_type: video/mp4
 enclosure_time:
