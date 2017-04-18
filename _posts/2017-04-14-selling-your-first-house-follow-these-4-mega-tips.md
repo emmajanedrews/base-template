@@ -5,7 +5,7 @@ date: 2017-04-14 10:42:00
 tags:
   - Home Seller Tips
 excerpt: "If you're thinking of selling your first home, these four tips will help you have a smooth sale."
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Steve+Schwab/Portland+Real+Estate+Agent-+4+Mega+Tips+for+Listing+Your+First+Home.mp4'
 pullquote: "iPhones may take good pictures, but you shouldn't market a home with them."
 enclosure_type: video/mp4
 enclosure_time:
