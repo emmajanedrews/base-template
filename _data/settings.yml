@@ -88,8 +88,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#D21242'
-  theme_color: '#231F20'
+  brand_color: '#810101'
+  theme_color: '#999999'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -98,7 +98,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: "#6D9FD1"
+  shadow_color: "#eeeeee"
 
 buttons:
   button_radius_number: 0
@@ -108,5 +108,5 @@ buttons:
   button_background_color: '#ffffff'
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: 'rgba(0, 0, 0, 0)'
+  secondary_button_background_color: '#810101'
   secondary_button_text_color: '#ffffff'
