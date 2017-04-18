@@ -9,8 +9,8 @@ enclosure: 'https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/2017+Re
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/davefriedman-screenshot-email-01-01-01-01-01-01-01-01-01-01.jpg
 youtube_code: g5fU9A-JCkU
 ---
 
@@ -22,7 +22,7 @@ Above, you’ll find a replay of my full discussion with Frank Klesitz of Vyral 
 (0:50) My professional story. How I got into real estate and built my company from the ground up.
 <br>(5:00) How I took the next step in my business by implementing different systems.
 <br>(8:05) How many people I talk to a week and how I went from three to 30 sales a year from my database.
-<br>(10:25) How many opt-ins I get every week.&nbsp;
+<br>(10:25) How many opt-ins I get every week.
 <br>(15:20) What caused my recent increase in production? The conversion of previous leads we already had or the increased attention to my database?
 <br>(20:00) How to avoid spam when marketing online.
 <br>(21: 50) My take on traditional real estate farming.
