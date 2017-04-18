@@ -7,34 +7,35 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Mindy and Jay Robbins
   license_number:
   about_markdown: |
 
-  market:
-  brand:
+  market: Dallas-Fort Worth Texas Real Estate
+  brand: Robbins Real Estate
   brokerage:
-  address:
-  phone:
+  address: 5495 Beltline Road Suite 135 Dallas, TX 75254
+  phone: 214-444-9014
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Mindy@TeamRobbins.com
+  email2: Jay@TeamRobbins.com
+  url: http://www.teamrobbins.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: https://www.teamrobbins.com/sell/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: https://www.teamrobbins.com/results-gallery/
   VR_form:
 
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/004.jpg
+  - CTA_image_path: /img/cta-images/005.jpg
     CTA_title: Looking to Buy a Home?
     CTA_text: Search the entire MLS for homes located in -- MARKET --.
     CTA_link_text: Home Search Tool
-    CTA_url: /homesearch/
+    CTA_url: https://www.teamrobbins.com/results-gallery/
 
 lender:
   show_section: false
@@ -59,16 +60,16 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: http://facebook.com/RobbinsRealEstateGroup
+  linkedin_url: https://www.linkedin.com/in/mindyrobbins
+  gplus_url: https://plus.google.com/+RobbinsRealEstateDallas
+  youtube_url: https://www.youtube.com/user/RobbinsRealEstateGrp
+  twitter_url: http://twitter.com/TeamRobbins
   instagram_url:
   pinterest_url:
-  zillow_url:
+  zillow_url: https://www.zillow.com/profile/jayrobbins/
   trulia_url:
-  yelp_url:
+  yelp_url: https://www.yelp.com/biz/robbins-real-estate-dallas
   podcast_url:
 
 podcast:
@@ -83,14 +84,14 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 20
   hero_text: Real Estate Video Blog
   hero_background_hex: '#094264'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#C14547'
-  theme_color: '#005473'
+  brand_color: '#055961'
+  theme_color: '#002B6E'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
