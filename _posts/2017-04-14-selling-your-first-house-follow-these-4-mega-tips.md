@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Selling Your First House? Follow These 4 Mega Tips
-date: 2017-04-14 10:42:16
+date: 2017-04-14 10:42:00
 tags:
   - Home Seller Tips
 excerpt: "If you're thinking of selling your first home, these four tips will help you have a smooth sale."
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/onCOSSBAquA'
+youtube_code: 'https://youtu.be/F3diBtAz8F0'
 ---
 
 
