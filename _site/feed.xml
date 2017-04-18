@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>-- CLIENT BRAND --</title>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Strong Tower Associates - your professional Strong Tower Associates Real Estate Agents.</description>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Ash Toumayants - your professional Strong Tower Associates Real Estate Agents.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 13 Apr 2017 13:52:34 -0500</pubDate>
-    <lastBuildDate>Thu, 13 Apr 2017 13:52:34 -0500</lastBuildDate>
+    <pubDate>Tue, 18 Apr 2017 13:42:40 -0500</pubDate>
+    <lastBuildDate>Tue, 18 Apr 2017 13:42:40 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
