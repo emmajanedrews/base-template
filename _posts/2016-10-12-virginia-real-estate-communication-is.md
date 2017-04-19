@@ -11,8 +11,6 @@ layout: post
 title: Why Communication Is Key When Selecting an Agent
 date: '2016-10-12T12:35:00.000-07:00'
 author: Vyral Admin
-tags:
-- Virgina Real Estate
 modified_time: '2016-11-14T12:45:43.849-08:00'
 thumbnail: https://img.youtube.com/vi/xlw1wHD1PKA/default.jpg
 blogger_id: tag:blogger.com,1999:blog-6864382172167323444.post-8632848351796037287
