@@ -1,5 +1,5 @@
 audit_header: false
-title: -- CLIENT BRAND --
+title: Michigan 401k under Financial Independence
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -23,18 +23,18 @@ client:
   url: http://www.financial-independence.com
 
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
-  second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  first_CTA_text: Schedule a Consultation
+  first_CTA_URL: http://www.financial-independence.com/contact
+  second_CTA_text:
+  second_CTA_URL:
   VR_form:
 
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: Looking to Buy a Home?
-    CTA_text: Search the entire MLS for homes located in -- MARKET --.
-    CTA_link_text: Home Search Tool
-    CTA_url: /homesearch/
+  - CTA_image_path: /img/cta-images/006.jpg
+    CTA_title: Looking for Financial Advice?
+    CTA_text: Let's talk about how we can help you get Financial Independence
+    CTA_link_text: Schedule a Consultation
+    CTA_url: http://www.financial-independence.com/contact
 
 lender:
   show_section: true
