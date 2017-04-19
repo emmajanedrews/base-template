@@ -34,4 +34,4 @@ Sometimes, when we get out of area customers that are in strong markets, like Ch
 
 **Montana has a lower population base and a limited economic base** that does not fuel the market in the same way, so we really depend on those outside resources to come in. Lately, those outside resources have been lagging a bit. We’ll see what will happen in 2017.
 
-If you have any other questions about our current market or if you would like to learn more about  other real estate topics, just give me a call or send me an email. I would be happy to help you!
+If you have any other questions about our current market or if you would like to learn more about other real estate topics, just give me a call or send me an email. I would be happy to help you!
