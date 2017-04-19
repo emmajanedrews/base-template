@@ -8,7 +8,7 @@ custom_links:
   - title: About
     url: 'https://www.wickerhomesgroup.com/agents/'
 client:
-  name:
+  name: 'Tad & Debbie Wicker'
   license_number:
   about_markdown: "The Wicker Homes Group is comprised of a team of local real estate professionals committed to selling some of the most desired homes in Loudoun & Fairfax Counties. Selling these \"right addresses\" is the mission of Wicker Homes Group. Let us know what you're looking for. Please take advantage of the helpful tools on this website, including our exclusive Loudoun & Fairfax Counties Real Estate search, but also feel free to contact us personally."
   market:
@@ -62,7 +62,8 @@ socials:
   podcast_url:
 podcast:
   title: Northern Virginia Real Estate Video Blog with The Wicker Homes Group
-  categories: Education
+  categories:
+    - Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
