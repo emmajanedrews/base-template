@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Importance of a Pre-Approval Letter When Buying a Home
+time: 4-28-17
 tags:
 excerpt:
 enclosure:
