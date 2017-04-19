@@ -33,4 +33,4 @@ There are four main things a Realtor brings to the table, so here's how you migh
 
 **4. Negotiation:** Most people think this is all about a line in the sand, but we call that competitive negotiation. Collaborative negotiation is more complex and used less, but can often get you much further toward what you want. It's about asking the right questions, learning about the other party, and crafting a proposal that's a win-win for both. Come up with a list of questions to ask buyers to find out why they're moving, their timeline, and what's important to them.
 
-<br>If you have any questions at all for us—even if you're thinking of selling on your own—we're always happy to help. Just give us a call or send us an email and we'd be happy to help you soon.
+If you have any questions at all for us—even if you're thinking of selling on your own—we're always happy to help. Just give us a call or send us an email and we'd be happy to help you soon.
