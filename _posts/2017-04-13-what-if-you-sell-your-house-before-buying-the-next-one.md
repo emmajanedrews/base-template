@@ -4,7 +4,7 @@ title: What If You Sell Your House Before Buying the Next One?
 tags:
   - Home Seller Tips
 excerpt: "In a seller's market like ours, homeowners sometimes run into the issue of selling their house before they find their next home. Here's how to handle it."
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Scott+Hardesty/Greater+Nashville+Real+Estate-+What+If+I+Sell+my+Home+Before+I+Buy.mp4'
 pullquote: "You'll have extra leverage as a seller in our market, which helps you get the terms you want."
 enclosure_type: video/mp4
 enclosure_time:
