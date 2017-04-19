@@ -28,7 +28,7 @@ CTAs:
   first_CTA_URL: http://strongtowerpa.com/ebook
   second_CTA_text: Connect with Ash
   second_CTA_URL: http://strongtowerpa.com/contact/
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=6db492815f
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.png
