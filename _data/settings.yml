@@ -1,5 +1,5 @@
 audit_header: false
-title: -- CLIENT BRAND --
+title: '-- CLIENT BRAND --'
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -8,8 +8,14 @@ custom_links:
 client:
   name: Dave Heeter
   license_number:
-  about_markdown: |
-    The Heeter Home team was created to provide customers with an enhanced experience by combining the strengths of multiple real estate professionals. Time is of the essence and a tight-knit, experienced team will be able to pool its resources to work towards completing your goal. When you choose the Heeter Home team you will be put in the hands of our capable, caring staff whose goal is to provide you with a positive experience when selling or purchasing a home.
+  about_markdown: >
+    The Heeter Home team was created to provide customers with an enhanced
+    experience by combining the strengths of multiple real estate professionals.
+    Time is of the essence and a tight-knit, experienced team will be able to
+    pool its resources to work towards completing your goal. When you choose the
+    Heeter Home team you will be put in the hands of our capable, caring staff
+    whose goal is to provide you with a positive experience when selling or
+    purchasing a home.
   market: Southern New Hampshire
   brand: Heeter Home Team
   brokerage:
@@ -19,34 +25,30 @@ client:
   phone2:
   phone2_type:
   email: dave@heeterhometeam.com
-  url: http://www.heeterrealestate.com
-
+  url: 'http://www.heeterrealestate.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.heeterrealestate.com/cma/property-valuation/
+  first_CTA_URL: 'http://www.heeterrealestate.com/cma/property-valuation/'
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.heeterrealestate.com/
+  second_CTA_URL: 'http://www.heeterrealestate.com/search/advanced_search/'
   VR_form:
-
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/007.jpg
     CTA_title: Looking to Buy a Home?
     CTA_text: Search the entire MLS for homes located in -- MARKET --.
     CTA_link_text: Home Search Tool
-    CTA_url: http://www.heeterrealestate.com/
-
+    CTA_url: 'http://www.heeterrealestate.com/'
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
+  headshot_path: 'http://fillmurray.com/200/200'
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: http://eyegoop.com
-
+  url: 'http://eyegoop.com'
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
@@ -55,30 +57,28 @@ welcome_box:
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
-
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/Heeter-Home-Team-Southern-NH-Real-Estate-182240648469964
-  linkedin_url: https://www.linkedin.com/in/david-heeter-72a10611/
-  gplus_url: https://plus.google.com/b/116841641164441666134/116841641164441666134
-  youtube_url: https://www.youtube.com/channel/UC7LfQfcaiZ9bwjm7G7dwsAQ
-  twitter_url: http://twitter.com/DaveHeeter1
+  facebook_url: 'https://www.facebook.com/Heeter-Home-Team-Southern-NH-Real-Estate-182240648469964'
+  linkedin_url: 'https://www.linkedin.com/in/david-heeter-72a10611/'
+  gplus_url: 'https://plus.google.com/b/116841641164441666134/116841641164441666134'
+  youtube_url: 'https://www.youtube.com/channel/UC7LfQfcaiZ9bwjm7G7dwsAQ'
+  twitter_url: 'http://twitter.com/DaveHeeter1'
   instagram_url:
   pinterest_url:
-  zillow_url: https://www.zillow.com/profile/Dave2354/
-  trulia_url: https://www.trulia.com/profile/dave-heeter-team-agent-nashua-nh-zg5pmdys/overview
-  yelp_url: https://www.yelp.com/biz/heeter-home-team-nashua
+  zillow_url: 'https://www.zillow.com/profile/Dave2354/'
+  trulia_url: 'https://www.trulia.com/profile/dave-heeter-team-agent-nashua-nh-zg5pmdys/overview'
+  yelp_url: 'https://www.yelp.com/biz/heeter-home-team-nashua'
   podcast_url:
-
 podcast:
   title: Southern New Hampshire Real Estate Podcast with Dave Heeter
-  categories: Education
+  categories:
+    - Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
   author: '-- CLIENT NAME --'
-
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
@@ -93,13 +93,11 @@ site_colors:
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: "#eeeeee"
-
+  shadow_color: '#eeeeee'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
