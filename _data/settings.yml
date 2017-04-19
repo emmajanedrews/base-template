@@ -85,7 +85,7 @@ podcast:
 images:
   client_headshot_path: http://i.imgur.com/fCc5ZbX.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 60
+  logo_width_number: 80
   hero_text: Real Estate Video Journal
   hero_background_hex: '#3B342A'
   hero_image_path: /img/background.jpg
