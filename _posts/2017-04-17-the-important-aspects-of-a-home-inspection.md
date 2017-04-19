@@ -18,11 +18,11 @@ youtube_code: knH_rJ4wpvk
 
 {% include youtube.html %}
 
-When you get a home inspection, your first step is to make sure you pick them properly by making sure they're a member of the National Association of Home Inspectors, or NAHA. They have standards for practice as well as a code of ethics that members must follow.
+When you get a home inspection, your first step is to make sure you properly pick a home inspector by checking that they're a member of the National Association of Certified Home Inspectors, or NACHI. They have standards for practice as well as a code of ethics that members must follow.
 
-Inspectors only have to be licensed in the state, so there's no additional training they have to go through. Being a member of the NAHA makes a big difference in the way they carry themselves and conduct your inspection because of the standards of practice.
+Inspectors only have to be licensed in the state, so there's no additional training they have to go through. Being a member of the NACHI makes a big difference in the way they carry themselves and conduct your inspection because of the standards of practice.
 
-<br>Home inspections seek to find what we call 'material defects,' which means anything that adversely affects the value of a home. Home inspections don't look for cosmetic flaws like stains in the carpet or cracked drywall, though. Material defects will occur with things like the mechanical systems, the roof, window, or electrical systems, among many others. These things can adversely affect the value of your home, which is why they want to address them.
+Home inspections seek to find what we call 'material defects,' which means anything that adversely affects the value of a home. Home inspections don't look for cosmetic flaws like stains in the carpet or cracked drywall, though. Material defects will occur with things like the mechanical systems, the roof, window, or electrical systems, among many others. These things can adversely affect the value of your home, which is why they want to address them.
 
 {% include pullquote.html %}
 
