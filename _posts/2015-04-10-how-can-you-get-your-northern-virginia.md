@@ -12,7 +12,6 @@ title: Tips for Selling Your Northern Virginia Home This Spring
 date: '2015-04-10T08:00:00.000-07:00'
 author: Vyral Admin
 tags:
-- Virgina Real Estate Seller tips
 modified_time: '2015-05-07T14:49:30.050-07:00'
 thumbnail: https://img.youtube.com/vi/JzMskHYCtO8/default.jpg
 blogger_id: tag:blogger.com,1999:blog-6864382172167323444.post-5861154075674867547

@@ -12,9 +12,6 @@ title: How Can a Reverse Mortgage Be Beneficial to You?
 date: '2015-09-10T13:01:00.001-07:00'
 author: Vyral Admin
 tags:
-- Loudoun County Real Estate Agent
-- Virginia real estate buyer tips
-- Virgina Real Estate Seller tips
 - Loudoun County Home Owner Tips
 modified_time: '2015-09-10T13:16:23.430-07:00'
 thumbnail: https://img.youtube.com/vi/ua3zWtv4HUk/default.jpg
