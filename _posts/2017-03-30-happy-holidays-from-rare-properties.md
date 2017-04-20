@@ -19,7 +19,7 @@ youtube_code: RiMYZB9fnOo
 
 We just wanted to take a moment to thank you for your continued support this year, as well as wish you a happy holidays. We owe a lot of our success to you. It has been a pleasure to help make your real estate dreams a reality.
 
-**We hope you enjoy this holiday season and make some wonderful memories with friends and family. It truly is the most wonderful time of the year.&nbsp;**
+**We hope you enjoy this holiday season and make some wonderful memories with friends and family. It truly is the most wonderful time of the year.**
 
 As a bonus, enjoy our many failed attempts at a full team holiday greeting in the video above. We think you’ll like it.
 
