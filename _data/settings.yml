@@ -7,34 +7,39 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Dr. Quoc & Dr. Ho
   license_number:
   about_markdown: |
+   Many people meet doctors only after they've lost their health. Dr. Q has a purpose to educate as many families as possible towards optimal health and wellness through chiropractic and wellness lifestyle education, coaching and role-modeling. Ideally this would begin even before health is lost.
+   Dr. Q's message is that you must eat, move and think right and be spiritually connected to express 100% of your God-given potential.  Health talks presented by Dr. Q describe living a wellness lifestyle -- eating right, moving right, and thinking right.  He has created and taught customized workouts to help improve the overall fitness level of his patients, with ages ranging from 12 to 90.
+   <br><br>
+   Through this experience Dr. Ho became a team leader not just for his staff, but also for his community.  He led his team and patients to better health through wellness lectures, group exercise classes, and most importantly through role modeling because he believe and practice what he preach.  He looks forward to bringing unique and advanced chiropractic care to the people of San Antonio.
+   Dr. Ho's life purpose is to help people achieve a better quality of life.  He shares Pinnacle Wellness' vision to be the best health coach to as many families as possible and to bring this type of healthcare to the forefront of our healthcare system here in San Antonio.
 
   market:
-  brand:
-  brokerage:
-  address:
-  phone:
+  brand: Hacking Your Health
+  brokerage: Presented by Pinnacle Wellness
+  address: 4553 North Loop 1604 West Access Rd, Ste. 1107 San Antonio, TX 78249
+  phone: 210-674-1234
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: hyh@pinnaclehealthchoice.com
+  url: http://www.pinnaclehealthchoice.com/
 
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
-  second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  first_CTA_text: Meet Us
+  first_CTA_URL: http://pinnaclehealthchoice.com/meet-our-team.html?_ga=1.53080747.2099816095.1491592372
+  second_CTA_text: Request Appoinment
+  second_CTA_URL: https://my.chiromatrixbase.com/pinnaclehealthchoice.com/req-app.html
   VR_form:
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: Looking to Buy a Home?
-    CTA_text: Search the entire MLS for homes located in -- MARKET --.
-    CTA_link_text: Home Search Tool
-    CTA_url: /homesearch/
+    CTA_title: Visit Our Website
+    CTA_text: See all of our services today!
+    CTA_link_text: Wellness Awaits You
+    CTA_url: https://pinnaclehealthchoice.chiromatrixbase.com/
 
 lender:
   show_section: false
@@ -51,17 +56,15 @@ lender:
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
-    professionals can answer any questions you might have about real estate.
-    Subscribe to this blog to get the latest news on local market trends and
-    receive expert tips for buying or selling a home.
+    Our mission at Hacking Your Health presented by Pinnacle Wellness is to be your best resource for valuable information, strategy and tips on how to improve your health and your life.
+    Subscribe to this blog to get the latest news on Chiropractic and receive expert tips for your experience and concerns.
+    Chiropractic is the only health care system that works to maximize the natural, God-given strengths of the human body and its capacity to heal itself without the use of drugs or surgery.
 
 socials:
   review_sm_icons: false
-  facebook_url:
+  facebook_url: https://www.facebook.com/Pinnwell?ref=ts
   linkedin_url:
-  gplus_url:
+  gplus_url: https://plus.google.com/100257215422913955297?gl=us&hl=en
   youtube_url:
   twitter_url:
   instagram_url:
@@ -81,16 +84,16 @@ podcast:
   author: '-- CLIENT NAME --'
 
 images:
-  client_headshot_path: /img/headshot.jpg
+  client_headshot_path: /img/headshots.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: Real Estate Video Blog
+  hero_text: Video Blog
   hero_background_hex: '#094264'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#C14547'
-  theme_color: '#005473'
+  brand_color: '#008FC3'
+  theme_color: '#008FC3'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -105,9 +108,9 @@ buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
-  button_border_color: '#ffffff'
+  button_border_color: '#B5DA00'
   button_background_color: '#ffffff'
   button_text_color: '#123456'
-  secondary_button_border_color: '#ffffff'
+  secondary_button_border_color: '#B5DA00'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'
