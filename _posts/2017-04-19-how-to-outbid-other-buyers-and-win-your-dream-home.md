@@ -23,7 +23,7 @@ If you’re a buyer involved in a multiple offer situation, **one thing that can
 
 {% include pullquote.html %}
 
-Another thing you can do is write a letter to the seller about how wonderful their house is and how you can see you and your family being placed in that house.
+Another thing you can do is write a letter to the seller about how wonderful their house is and how you can see you and your family in that house.
 
 In today’s market, it’s very important to put your best foot forward when you’re involved in a multiple offer situation. Increasing your deposit from the standard 3% or 5% to 10% will make you stand out from the competition and give you a better opportunity to get the house you want.
 
