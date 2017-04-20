@@ -8,7 +8,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
-title: Sell your home for top dollar – 4 key factors
+title: Sell Your Home for Top Dollar – 4 Key Factors
 date: 2017-04-11 10:00:00
 author: Vyral Admin
 tags:
