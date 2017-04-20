@@ -8,11 +8,11 @@ custom_links:
   - title: About
     url: 'https://www.wickerhomesgroup.com/agents/'
 client:
-  name: 'Tad & Debbie Wicker'
+  name:
   license_number:
   about_markdown: At the Wicker Homes Group we are committed to helping families and individuals find a place they love to call home. And we're committed to helping our clients receive top dollar for their homes to grow their wealth through real estate. Let us know how we can help you. Please take advantage of the helpful tools on this website, including our exclusive Loudoun & Fairfax County Home Search. And of course, feel free to call us with any real estate questions.
   market:
-  brand: The Wicker Homes Group
+  brand: Wicker Homes Group
   brokerage: Keller Williams Realty
   address: '46169 Westlake Dr. Suite 200<br>Potomac Falls, VA 20165'
   phone: 571-210-4997
