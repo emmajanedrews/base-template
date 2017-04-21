@@ -1797,7 +1797,7 @@ a {
     color: #58bedb; }
 
 .button, .button-ghost, button, input[type="button"], input[type="submit"] {
-  color: black;
+  color: white;
   background: #248BA9;
   padding: 1rem 2rem;
   border: 1px solid #248BA9;
@@ -1962,9 +1962,9 @@ table tr, table td {
   display: block; }
 
 .readlink > a {
-  background: #FF8116;
+  background: #414141;
   color: white;
-  border: #FF8116;
+  border: #414141;
   border-radius: 0px;
   padding: 10px 20px;
   margin-top: 20px;
