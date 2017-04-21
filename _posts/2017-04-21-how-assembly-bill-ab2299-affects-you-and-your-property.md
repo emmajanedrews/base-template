@@ -32,7 +32,7 @@ So how will this impact you?
 
 {% include pullquote.html %}
 
-Say you're in a condo right now and you're close to being able to afford a house, but not quite there yet. If you find a house with a garage, you could convert it to livable space and possibly even rent it out, which cuts out a big part of a mortgage payment and make it more affordable to move into a home.
+Say you're in a condo right now and you're close to being able to afford a house but not quite there yet. If you find a house with a garage, you could convert it to livable space and possibly even rent it out, which cuts out a big part of a mortgage payment and makes it more affordable to move into a home.
 
 **It could also be helpful if you want to have family come live with you and you don't have the space right now.** If that's your in-laws, that could be a good thing or a bad thing!
 
