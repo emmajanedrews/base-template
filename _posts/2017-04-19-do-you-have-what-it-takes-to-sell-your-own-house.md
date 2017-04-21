@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do You Have What It Takes to Sell Your Own House?
-date: 2017-04-19 16:01:32
+date: 2017-04-19 16:01:00
 tags:
   - Home Seller Tips
 excerpt: "Do you think you can sell your house on your own? Breaking down exactly what a Realtor offers can help you determine whether you're qualified to take this task on."
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/DLeY5IKZ9F4'
+youtube_code: 'https://youtu.be/Uv_n2WMlorw'
 ---
 
 
