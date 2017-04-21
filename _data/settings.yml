@@ -7,7 +7,7 @@ custom_links:
     url:
 
 client:
-  name: Jeff Smith
+  name: 'Jeff "Smitty" Smith'
   license_number:
   about_markdown: |
     The HomeSmiths Team guarantees a team of top local real estate experts ready to reveal the secrets of how we can help you sell your home. From setting the price to creating marketing campaigns for traditional media and Web, we've got a proven plan that will match your home with the right buyers for the right price.
@@ -28,7 +28,7 @@ CTAs:
   first_CTA_URL: http://www.denvercohomeprice.com/
   second_CTA_text: Home Search
   second_CTA_URL: https://www.homesmiths.com/results/
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=38908e7fa4
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/005.jpg
@@ -70,7 +70,7 @@ socials:
   podcast_url:
 
 podcast:
-  title:
+  title: 'Greater Denver Real Estate Podcast With Jeff "Smitty" Smith'
   categories: Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'

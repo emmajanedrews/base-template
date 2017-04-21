@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title></title>
+    <title>Greater Denver Real Estate Podcast With Jeff "Smitty" Smith</title>
     <link>localhost:4000</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Home Smiths Team - your professional Denver Real Estate Real Estate Agents.</description>
     <language>en</language>
-    <managingEditor>Jeff Smith</managingEditor>
-    <lastBuildDate>2017-04-21 16:22:33 -0500</lastBuildDate>
-    <media:copyright>Jeff Smith</media:copyright>
+    <managingEditor>Jeff "Smitty" Smith</managingEditor>
+    <lastBuildDate>2017-04-21 16:53:33 -0500</lastBuildDate>
+    <media:copyright>Jeff "Smitty" Smith</media:copyright>
     <media:thumbnail url="/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Denver Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
       <itunes:email>info@HomeSmiths.com</itunes:email>
-      <itunes:name>Jeff Smith</itunes:name>
+      <itunes:name>Jeff "Smitty" Smith</itunes:name>
     </itunes:owner>
-    <itunes:author>Jeff Smith</itunes:author>
+    <itunes:author>Jeff "Smitty" Smith</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Denver Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
@@ -30,7 +30,7 @@
         
           <category>Home Buyer Tips</category>
         
-        <author>Jeff Smith</author>
+        <author>Jeff "Smitty" Smith</author>
         <pubDate>2017-03-27 14:01:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -54,7 +54,7 @@ If you have any questions for us or you need a referral for a great accountant t
         <itunes:subtitle>
 
 </itunes:subtitle>
-        <itunes:author>Jeff Smith</itunes:author>
+        <itunes:author>Jeff "Smitty" Smith</itunes:author>
         <itunes:summary>
 
 </itunes:summary>
@@ -67,7 +67,7 @@ If you have any questions for us or you need a referral for a great accountant t
         
           <category>Denver Real Estate Tips</category>
         
-        <author>Jeff Smith</author>
+        <author>Jeff "Smitty" Smith</author>
         <pubDate>2016-11-22 12:04:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -99,7 +99,7 @@ If you have any other questions about a self-directed IRA or you’re interested
 If you are an investor, feel comfortable in real estate, and want to diversify your retirement portfolio, I recommend setting up a self-directed IRA.
 
 </itunes:subtitle>
-        <itunes:author>Jeff Smith</itunes:author>
+        <itunes:author>Jeff "Smitty" Smith</itunes:author>
         <itunes:summary>
 
 If you are an investor, feel comfortable in real estate, and want to diversify your retirement portfolio, I recommend setting up a self-directed IRA.
@@ -114,7 +114,7 @@ If you are an investor, feel comfortable in real estate, and want to diversify y
         
           <category>The HomeSmiths Team</category>
         
-        <author>Jeff Smith</author>
+        <author>Jeff "Smitty" Smith</author>
         <pubDate>2016-11-08 12:18:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -136,7 +136,7 @@ Keep an eye out in the mail for our postcard, which has all the details about yo
 In the midst of an incredible season in Denver, I wanted to reach out to all of you. As Thanksgiving approaches, we wanted to let you know how much we appreciate you, from our friends and family to all of our past, present, and future clients.
 
 </itunes:subtitle>
-        <itunes:author>Jeff Smith</itunes:author>
+        <itunes:author>Jeff "Smitty" Smith</itunes:author>
         <itunes:summary>
 
 In the midst of an incredible season in Denver, I wanted to reach out to all of you. As Thanksgiving approaches, we wanted to let you know how much we appreciate you, from our friends and family to all of our past, present, and future clients.
@@ -151,7 +151,7 @@ In the midst of an incredible season in Denver, I wanted to reach out to all of 
         
           <category>Advice for Denver Sellers</category>
         
-        <author>Jeff Smith</author>
+        <author>Jeff "Smitty" Smith</author>
         <pubDate>2016-08-18 14:03:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -181,7 +181,7 @@ If you’re looking to buy a home, sell a home, or invest in real estate, we’r
 How do you avoid paying the capital gains tax on the sale of your home?
 
 </itunes:subtitle>
-        <itunes:author>Jeff Smith</itunes:author>
+        <itunes:author>Jeff "Smitty" Smith</itunes:author>
         <itunes:summary>
 
 How do you avoid paying the capital gains tax on the sale of your home?
@@ -196,7 +196,7 @@ How do you avoid paying the capital gains tax on the sale of your home?
         
           <category>Home Seller Tips</category>
         
-        <author>Jeff Smith</author>
+        <author>Jeff "Smitty" Smith</author>
         <pubDate>2016-07-27 17:46:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -224,7 +224,7 @@ What do you do if your appraisal comes in low in the middle of a transaction?
 This is a real challenge in our marketplace today. Low appraisals can happen because our market is appreciating very quickly and has been for the last several years, there are fewer comparable properties, and each sale seems to be higher than the last one.
 
 </itunes:subtitle>
-        <itunes:author>Jeff Smith</itunes:author>
+        <itunes:author>Jeff "Smitty" Smith</itunes:author>
         <itunes:summary>
 
 What do you do if your appraisal comes in low in the middle of a transaction?
@@ -240,7 +240,7 @@ This is a real challenge in our marketplace today. Low appraisals can happen bec
         
           <category>Real Estate Tips</category>
         
-        <author>Jeff Smith</author>
+        <author>Jeff "Smitty" Smith</author>
         <pubDate>2016-06-30 11:13:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -278,7 +278,7 @@ If you are interested in one of our reports for more details on these questions,
 What questions do you ask when you are hiring a real estate professional? There are about a dozen you should ask to find the right person to help you buy or sell a home. Remember, not all agents are created equal.
 
 </itunes:subtitle>
-        <itunes:author>Jeff Smith</itunes:author>
+        <itunes:author>Jeff "Smitty" Smith</itunes:author>
         <itunes:summary>
 
 What questions do you ask when you are hiring a real estate professional? There are about a dozen you should ask to find the right person to help you buy or sell a home. Remember, not all agents are created equal.
@@ -293,7 +293,7 @@ What questions do you ask when you are hiring a real estate professional? There 
         
           <category>Home Seller Tips</category>
         
-        <author>Jeff Smith</author>
+        <author>Jeff "Smitty" Smith</author>
         <pubDate>2016-06-17 08:38:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -340,7 +340,7 @@ Hopefully, this list of costly issues will be helpful to you and give you a bett
 Thanks for stopping by! There are several mistakes you want to avoid when moving up to a larger home or selling your property. I’ve narrowed the list down to the most important seven, which I want to discuss today.
 
 </itunes:subtitle>
-        <itunes:author>Jeff Smith</itunes:author>
+        <itunes:author>Jeff "Smitty" Smith</itunes:author>
         <itunes:summary>
 
 Thanks for stopping by! There are several mistakes you want to avoid when moving up to a larger home or selling your property. I’ve narrowed the list down to the most important seven, which I want to discuss today.
@@ -355,7 +355,7 @@ Thanks for stopping by! There are several mistakes you want to avoid when moving
         
           <category>Denver Home Loans</category>
         
-        <author>Jeff Smith</author>
+        <author>Jeff "Smitty" Smith</author>
         <pubDate>2016-04-27 09:01:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -385,7 +385,7 @@ Figuring out what you can afford is the first step you should take in the buying
 Every case is different, but your affordability mostly depends on your income and other financial obligations. The general rule of thumb is that you can afford approximately 30% of your gross monthly income on a house payment. They are going to also allow 10% of your monthly income towards other debts, without it negatively affecting your mortgage.
 
 </itunes:subtitle>
-        <itunes:author>Jeff Smith</itunes:author>
+        <itunes:author>Jeff "Smitty" Smith</itunes:author>
         <itunes:summary>
 
 Every case is different, but your affordability mostly depends on your income and other financial obligations. The general rule of thumb is that you can afford approximately 30% of your gross monthly income on a house payment. They are going to also allow 10% of your monthly income towards other debts, without it negatively affecting your mortgage.
@@ -400,7 +400,7 @@ Every case is different, but your affordability mostly depends on your income an
         
           <category>Advice for Denver Sellers</category>
         
-        <author>Jeff Smith</author>
+        <author>Jeff "Smitty" Smith</author>
         <pubDate>2016-04-12 12:26:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -430,7 +430,7 @@ I also have a quick sheet with tips to help you prepare for your showings. If yo
 Lately, a lot of sellers have been asking, “Should I be present during my home showings?” My answer is absolutely not! There’s never an instance where that’s a good idea.
 
 </itunes:subtitle>
-        <itunes:author>Jeff Smith</itunes:author>
+        <itunes:author>Jeff "Smitty" Smith</itunes:author>
         <itunes:summary>
 
 Lately, a lot of sellers have been asking, “Should I be present during my home showings?” My answer is absolutely not! There’s never an instance where that’s a good idea.
@@ -439,8 +439,8 @@ Lately, a lot of sellers have been asking, “Should I be present during my home
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Denver Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
-    <copyright>Jeff Smith</copyright>
-    <media:credit role="author">Jeff Smith</media:credit>
+    <copyright>Jeff "Smitty" Smith</copyright>
+    <media:credit role="author">Jeff "Smitty" Smith</media:credit>
     <media:rating>nonadult</media:rating>
     <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Home Smiths Team - your professional Denver Real Estate Real Estate Agents.</media:description>
   </channel>
