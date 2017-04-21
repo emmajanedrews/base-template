@@ -25,11 +25,7 @@ If you do proceed with a remodel, **don’t remodel without permits.** If you do
 
 **Don’t limit your showing hours.** Buyers have busy schedules just like you do, so it’s important that you are flexible with your showing hours in order to get the maximum exposure on your home.
 
-&nbsp;
-
 {% include pullquote.html %}
-
-&nbsp;
 
 Finally, make sure that you follow your agent's advice. A lot of folks don’t want to follow their agent’s advice, but your Realtor is a professional. You are paying them to sell your home. You have to trust and have confidence in their knowledge of the area.
 
