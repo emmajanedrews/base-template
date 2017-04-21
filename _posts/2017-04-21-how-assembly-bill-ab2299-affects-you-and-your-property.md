@@ -1,0 +1,36 @@
+---
+layout: post
+title: How Assembly Bill AB2299 Affects You and Your Property
+tags:
+  - Real Estate
+excerpt: "There's a new bill here in California that could have a significant impact on your living space."
+enclosure: 'http://vyralmarketing.s3.amazonaws.com/Dave%20Knight/How%20Assembly%20Bill%20AB2299%20Affects%20You%20and%20Your%20Property.mp4'
+pullquote: Renting out your converted garaged could significantly offset your mortgage.
+enclosure_type: video/mp4
+enclosure_time:
+use_youtube_image: false
+youtube_alternate_image: /uploads/no-pb-13.jpg
+youtube_code: bLDkcbpiLZM
+---
+
+
+{% include youtube.html %}
+
+Can you put your in-laws in the garage?
+
+Hopefully I've got your attention with that question! I actually wanted to address a new bill that passed in California which allows you to add a second unit to your property or convert your garage into livable space. **Here are the main bullet points you should understand:**
+
+* Assembly bill AB2299 and senate bill SV1069 are the names. You'll need to do a little homework to see how they relate to what you can do with your specific property.
+* It was signed last year and took effect January 1st. Counties and cities are still figuring out the impact on certain areas.
+* Secondary units will now be referred to as 'accessory dwelling units,' or ADUs.
+* **There are some restrictions.** For example, you can't build the unit in front of your house and you can't add more than 50% of your existing home's square footage or up to 1,200 square feet.
+
+So how will this impact you?
+
+{% include pullquote.html %}
+
+Say you're in a condo right now and you're close to being able to afford a house, but not quite there yet. If you find a house with a garage, you could convert it to livable space and possibly even rent it out, which cuts out a big part of a mortgage payment and make it more affordable to move into a home.
+
+**It could also be helpful if you want to have family come live with you and you don't have the space right now.** If that's your in-laws, that could be a good thing or a bad thing!
+
+This is just a general overview of this new bill, so if you have any questions, don't hesitate to give me a call or send me an email. I'm here to help.
