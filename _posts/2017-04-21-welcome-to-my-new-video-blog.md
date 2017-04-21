@@ -3,8 +3,6 @@ layout: post
 title: Welcome to My New Video Blog
 date: 2017-04-21 00:00:00
 tags:
-  - Market Update
-  - Real Estate
   - Home Seller Tips
 excerpt: Ever wonder what’s going on in the real estate world? I’ve got answers for you.
 enclosure:
