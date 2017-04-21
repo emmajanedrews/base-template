@@ -17,7 +17,7 @@ youtube_code: 8vgpY02cgZs
 
 {% include youtube.html %}If you haven't received fresh quotes for your homeowners insurance or reviewed your policy with your provider in the last year, you need to do it right away.
 <br>
-<br>After Katrina, rates skyrocketed on the Mississippi Gulf Coast and most homeowners were forced into the state [wind pool?]. However, vendors have moved back into the market in recent years, driving competition up and rates down. We've even seen cases of rates getting cut in half as people come out of the [windpool?] and back into private coverage.
+<br>After Katrina, rates skyrocketed on the Mississippi Gulf Coast and most homeowners were forced into the state wind pool. However, vendors have moved back into the market in recent years, driving competition up and rates down. We've even seen cases of rates getting cut in half as people come out of the windpool and back into private coverage.
 
 {% include pullquote.html %}
 
