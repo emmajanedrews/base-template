@@ -1,7 +1,7 @@
 ---
 layout: post
 title: San Diego Real Estate Market Update
-date: 2016-09-28
+date: 2016-09-28 00:00:00
 tags:
   - Market Update
 excerpt: "What's going on in the San Diego market? I've got a full report on what you can expect whether you're buying or selling a home in our market this year."
@@ -19,9 +19,9 @@ youtube_code: Dxve1kEI-yA
 
 As we move forward in 2017, there are a few things you can expect from the San Diego real estate market.
 
-I'm often asked whether we're in a buyer's or seller's market, and in 2017, we're largely forecasted to stay firmly in a seller's market. The market will be filled with increasing prices, low inventory, and fierce competition between homebuyers. It's all driven by low interest rates. The low inventory is also driven by the fact that there are more people on the market looking to buy a home than people looking to sell their home. This low inventory and surplus of buyers will directly impact the value of homes in your area.
+I'm often asked whether we're in a buyer's or seller's market, and **in 2017, we're largely forecasted to stay firmly in a seller's market.** The market will be filled with increasing prices, low inventory, and fierce competition between homebuyers. It's all driven by low interest rates. The low inventory is also driven by the fact that there are more people on the market looking to buy a home than people looking to sell their home. This low inventory and surplus of buyers will directly impact the value of homes in your area.
 <br>
-<br>As a homebuyer, this makes it all a bit tougher to negotiate a lower purchase price, escrow timelines, or contingencies. At the end of last year, we even saw prices climb despite a mini spike in interest rates, and in the first quarter of 2017, we've already seen prices bump up a bit in many areas in San Diego. Buyers are absorbing this price increase with open arms. Sellers are reaping the benefits of this, and buyers are doing their best to capitalize quickly on any new listings with strong offers.
+<br>**As a homebuyer, this makes it all a bit tougher** to negotiate a lower purchase price, escrow timelines, or contingencies. At the end of last year, we even saw prices climb despite a mini spike in interest rates, and in the first quarter of 2017, we've already seen prices bump up a bit in many areas in San Diego. Buyers are absorbing this price increase with open arms. Sellers are reaping the benefits of this, and buyers are doing their best to capitalize quickly on any new listings with strong offers.
 
 {% include pullquote.html %}
 
