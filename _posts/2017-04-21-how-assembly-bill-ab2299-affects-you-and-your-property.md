@@ -2,7 +2,7 @@
 layout: post
 title: How Assembly Bill AB2299 Affects You and Your Property
 tags:
-  - Real Estate
+  - Homeowner Tips
 excerpt: "There's a new bill here in California that could have a significant impact on your living space."
 enclosure: 'http://vyralmarketing.s3.amazonaws.com/Dave%20Knight/How%20Assembly%20Bill%20AB2299%20Affects%20You%20and%20Your%20Property.mp4'
 pullquote: Renting out your converted garaged could significantly offset your mortgage.
