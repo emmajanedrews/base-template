@@ -1,7 +1,7 @@
 ---
 layout: post
 title: San Diego Real Estate Market Update
-date: 2016-09-28 00:00:00
+date: 2017-04-21 09:00:00
 tags:
   - Market Update
 excerpt: "What's going on in the San Diego market? I've got a full report on what you can expect whether you're buying or selling a home in our market this year."
@@ -27,6 +27,6 @@ I'm often asked whether we're in a buyer's or seller's market, and **in 2017, we
 
 It goes without saying that buyers want the lowest interest rate for mortgages, but these low rates also benefit sellers by giving them an abundance of qualified buyers for their house.
 
-So what does all this information mean for anyone looking to buy or sell a home? It all sounds too good to be true for homeowners. Buyers looking to close this year need to keep and open mind, be flexible, and be prepared to move quickly when they find a home that meets their needs. You don't want to rush into anything.
+So what does all this information mean for anyone looking to buy or sell a home? It all sounds too good to be true for homeowners. Buyers looking to close this year need to keep an open mind, be flexible, and be prepared to move quickly when they find a home that meets their needs. You don't want to rush into anything.
 
 For sellers, the key to getting ahead in the San Diego market is all about pricing, which is so important. We also have to focus on marketing your home to get the maximum return. Experience counts in times like these, so if you have any questions about buying or selling a home here in San Diego, give us a call or send us an email. We look forward to hearing from you soon.
