@@ -21,6 +21,21 @@ client:
   phone: 719-999-5789
   email: brian@briancanady.com
   url: http://www.buysprings.com
+lender:
+  show_section: true
+  header_text: Our Preferred Mortgage Resource
+  headshot_path: /img/lender.jpg
+  logo_path: /img/NaderGroup.jpg
+  url:
+  logo_path_2: /img/baycapital.png
+  url_2:
+  name: 
+  title: 
+  license: 'NMLS# '
+  brand: 
+  phone: 
+  email: 
+  
   first_CTA_text: Home Evaluation
   first_CTA_URL: http://www.buysprings.com/market-report/​
   second_CTA_text: Home Search
