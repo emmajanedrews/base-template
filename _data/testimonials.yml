@@ -1,5 +1,22 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
-    audio:
+  - quote: LOVE LOVE LOVE DC Corporate Headshots. Delane takes the time to geet the perfect shot, and I am thrilled with the results. I would also highly recommend his hair and makeup person. The combination of the two was magical.
+    name: Kirra J.
+  - quote: I worked with DC Corporate Headshots to update my corporate headshot. Delane was wonderful to work with – he was able to capture a number of really great shots. The only problem I had was having too many options to choose from when our shoot was over!
+    name: Brittani C.
+  - quote: You guys did a great job! Passing these along to my designers today to insert them into the Annual Report. Thanks again so much for the quick turn on these and skill with which they were executed. Will definitely be reaching back out for future needs!
+    name: Max M.
+  - quote: Delane is an excellent photographer. My shots came out really well. He knows how to relax the subject to get their best. He was also helpful with recommendations for background colors to match my website. Lastly, he delivered ahead of schedule on the final prints.
+    name: Jordan
+  - quote: What a wonderful service. This photographer was professional, accommodating and had excellent pictures at a reasonable price. He puts you at ease when you shoot with him. I LOVE my pictures and would highly recommend Delane to anyone looking for a professional headshot.
+    name: Dr. Joelle
+  - quote: Dude, these photos are amazing! They look fantastic.
+    name: Alex K.
+  - quote: Extremely professional, client-focused, accommodating, and determined to make sure I was pleased with the result. Wonderful experience and would recommend to everyone.
+    name: Robert L.
+  - quote: Top-notch. Professional, talented, and a pleasure to work with.
+    name: Esther G.
+  - quote: Everything about working with Delane and DC Corporate Headshots was terrific. The appointment process was easy and the reminders with specific instruction on where the studio is located and where to park were so helpful.
+    name: Scott
+  - quote: I haven’t had my picture taken professionally since college and I was very skeptical as to whether the results would be something I would like because of my prior experience. However, I was very, very happy with the pictures taken by DC Corporate Headshots.
+    name: Heather
