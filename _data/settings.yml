@@ -15,8 +15,8 @@ client:
     We will strive to serve each person with the utmost respect and integrity to ensure they reach success with our company and trust us to do business with their friends and family.
     We are your one stop shop for ALL THINGS REAL ESTATE.
   market: Colorado Springs Real Estate
-  brand: Brian Canady & Tim Chase
-  brokerage:
+  brand: All Things Real Estate
+  brokerage: Premier Real Estate Group
   address: 605 South Tejon Street <br> Colorado Springs, Colorado 80903
   phone: 719-999-5789
   email: brian@briancanady.com
@@ -29,18 +29,18 @@ lender:
   url:
   logo_path_2: /img/baycapital.png
   url_2:
-  name: 
-  title: 
-  license: 'NMLS# '
-  brand: 
-  phone: 
-  email: 
-  
+  name: Tim Chase
+  title:
+  license: 'NMLS#'
+  brand: 719 Lending
+  phone: 719-231-4893
+  email: contacttimchase@gmail.com
   first_CTA_text: Home Evaluation
-  first_CTA_URL: http://www.buysprings.com/market-report/​
+  first_CTA_URL: http://www.buysprings.com/market-report/
   second_CTA_text: Home Search
   second_CTA_URL: http://www.buysprings.com/
   VR_form:
+
 socials:
   review_sm_icons: false
   facebook_url: https://www.facebook.com/buysprings/
