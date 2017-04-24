@@ -3,6 +3,9 @@ layout: post
 title: A New Tool to Better Your Investing
 date: 2017-04-24 12:00:00
 tags:
+  - 401K Advisors
+  - Financial Planning
+  - Retirement Planning
 excerpt: 'I have some exciting news for investors. There’s a new tool I want to tell you about called Riskalyze. It’s the modern, efficient way to figure out what your risk number is and enhance your financial portfolio. If you’re an investor, you need to find out if your portfolio is too risky or conservative. To find out how Riskalyze can reshape your investing goals, watch this short video.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Ash+Toumayants/Videos/2017/A+New+Tool+to+Better+Your+Investing.mp4'
 pullquote: 'Riskalyze is the modern, efficient way to figure out what your risk number is.'
