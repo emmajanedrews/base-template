@@ -1,57 +1,58 @@
 audit_header: false
-title: Campbell & Keller Team Real Estate Video Blog
+title: Brian Canady & Tim Chase Video Blog
 description: If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Campbell & Keller Team - your professional Baltimore & Carroll Counties Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
     url:
 client:
-  name: Nick Kellar
+  name: Brian Canady
   license_number:
   about_markdown: |
-    Campbell & Kellar Team of Keller Williams Legacy is a fast growing, progressive Real Estate team pioneering evolution of our industry and kicking a dent in the Baltimore metro community and local real estate market.  Our approach is Family Helping Families be strategic in making decisions with clear direction while supporting with strong leadership, communication, expectations, and accountability.
+    It's our mission, as a team to provide individuals and families with a full service Real Estate practice.
 
-    We use progressive systems & tactics, strategic thinking, and years of experience to help position our clients to have the right information so that they can ultimately make the right decisions.
-  market: Baltimore & Carroll Counties
-  brand: Campbell & Keller Team
+    To ensure our buyers and sellers make the most educated decision for their needs we will provide resources for them throughout the real estate transaction and most importantly, after the sale too.
+    We will strive to serve each person with the utmost respect and integrity to ensure they reach success with our company and trust us to do business with their friends and family.
+    We are your one stop shop for ALL THINGS REAL ESTATE.
+  market: Colorado Springs Real Estate
+  brand: Brian Canady & Tim Chase
   brokerage:
-  address: 1515 Reisterstown Road, 2nd floor<br>Pikesville, MD 21208
-  phone: 443-660-9229
-  email: Nick@theCKteam.com
-  url: www.CampbellandKellarTeam.com
+  address: 605 South Tejon Street <br> Colorado Springs, Colorado 80903
+  phone: 719-999-5789
+  email: brian@briancanady.com
+  url: http://www.buysprings.com
   first_CTA_text: Home Evaluation
-  first_CTA_URL: http://www.bestmdhomesearch.com/homevalue/value/?src=vyral​
+  first_CTA_URL: http://www.buysprings.com/market-report/​
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.bestmdhomesearch.com/?src=vyral
-  VR_form: http://oi.vresp.com?fid=b75e53759f
+  second_CTA_URL: http://www.buysprings.com/
+  VR_form:
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/theCKteam/
-  linkedin_url: https://www.linkedin.com/in/nick-kellar-b3a33112
-  gplus_url:
-  youtube_url: https://www.youtube.com/channel/UCtNQYKYMqRRtJVLwGppVZPA
-  twitter_url: https://twitter.com/theckteamnick
+  facebook_url: https://www.facebook.com/buysprings/
+  linkedin_url: https://www.linkedin.com/in/briancanady/
+  gplus_url: https://plus.google.com/u/0/b/108693056410575195716/+Buysprings?_ga=1.3364146.325397046.1493055869
+  youtube_url: https://www.youtube.com/channel/UCZTBz55B8IUcMppXvC8RIzQ
+  twitter_url: https://twitter.com/briancanady
   instagram_url:
   pinterest_url:
-  zillow_url: http://www.zillow.com/profile/CKteam/
-  trulia_url:
+  zillow_url: https://www.zillow.com/profile/Tiffany-and-Brian-Canady/
+  trulia_url: https://www.trulia.com/profile/tiffany-brian-canady-agent-colorado-springs-co-zgkr745r/overview
   yelp_url:
   podcast_url:
 podcast:
-  title: Campbell & Keller Team Real Estate Podcast
-  categories: News & Politics
+  title:
+  categories:
   image:
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Baltimore & Carroll Counties Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Campbell & Keller Team - your professional Baltimore & Carroll Counties Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Baltimore & Carroll Counties, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author:
+  subtitle:
+  description:
+  keywords:
 images:
   client_headshot_path: '/img/headshot.jpg'
   hero_logo_path: '/img/logo.png'
   hero_text: Real Estate Video Blog
   hero_background_hex: '#fff'
   hero_image_path: '/img/background.jpg'
-brand_color: '#008AAC'
+brand_color: '#b00200'
 theme_color: '#000'
 theme_text_color: '#fff'
 main_body_color: '#ffffff'

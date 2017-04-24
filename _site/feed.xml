@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Campbell &amp; Keller Team Real Estate Video Blog</title>
+    <title>Brian Canady &amp; Tim Chase Video Blog</title>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Campbell &amp; Keller Team - your professional Baltimore &amp; Carroll Counties Real Estate Agents.</description>
     <link>localhost:5000/</link>
     <atom:link href="localhost:5000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Oct 2016 17:06:38 -0500</pubDate>
-    <lastBuildDate>Tue, 25 Oct 2016 17:06:38 -0500</lastBuildDate>
+    <pubDate>Mon, 24 Apr 2017 14:00:42 -0500</pubDate>
+    <lastBuildDate>Mon, 24 Apr 2017 14:00:42 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
