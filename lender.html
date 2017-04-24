@@ -1,0 +1,28 @@
+{% if site.data.settings.lender.show_section == true %}
+<div class="lender">
+
+	<h5>{{site.data.settings.lender.header_text}}</h5>
+	<hr>
+	<div class="lender-info">
+		{% if site.data.settings.lender.headshot_path != null %}
+		<div class="lender-headshot">
+			<img src="{{site.data.settings.lender.headshot_path}}"/>
+		</div>
+		{% endif %}
+		<p>
+		{{site.data.settings.lender.name}}<br>
+		{{site.data.settings.lender.license}}<br>
+		{{site.data.settings.lender.brand}}<br>
+		<a href="tel:{{site.data.settings.lender.phone}}" target="_blank">{{site.data.settings.lender.phone}}</a><br>
+		<a href="mailto:{{site.data.settings.lender.email}}" target="_blank">{{site.data.settings.lender.email}}</a><br>
+		<a href="{{site.data.settings.lender.url}}" target="_blank">{{site.data.settings.lender.url | remove: 'http://'}}</a>
+	</p>
+	</div>
+	<div class="lender-logo">
+		<a href="{{site.data.settings.lender.url}}" target="_blank"><img src="{{site.data.settings.lender.logo_path}}"/></a>
+		{% if site.data.settings.lender.logo_path_2 != null %}
+		<a href="{{site.data.settings.lender.url_2}}" target="_blank"><img src="{{site.data.settings.lender.logo_path_2}}"/></a>
+		{% endif %}
+	</div>
+</div>
+{% endif %}
