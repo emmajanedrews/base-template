@@ -19,7 +19,7 @@ youtube_code: Go9REEbQHdc
 
 There are a few vices that you want to avoid if you want to sell your home.
 
-First, make sure you don’t **overimprove your home.** If you want to do a large master bathroom remodel or kitchen remodel, then I would recommend finding out what’s going on in your neighbor’s houses. What does your neighbor’s bathroom look like? What does their kitchen look like? Similar houses in your neighborhood will really determine the value of your property.
+First, make sure you don’t **overimprove your home.** If you want to do a large master bathroom remodel or kitchen remodel, then I would recommend finding out what’s going on in your neighbors' houses. What does your neighbors' bathroom look like? What does their kitchen look like? Similar houses in your neighborhood will really determine the value of your property.
 
 If you do proceed with a remodel, **don’t remodel without permits.** If you don’t get the proper permits, then you allow the buyer to doubt that the work was done by licensed professionals. If they are worried about the quality of the remodel, then chances are you will get a lower bid or price.
 
