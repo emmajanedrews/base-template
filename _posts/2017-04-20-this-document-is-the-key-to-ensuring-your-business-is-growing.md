@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/2NXMmoWZJjk'
 
 There’s one critical tool you need to use every day to assure you grow your business.
 
-There are plenty of quick fixes and shiny objects out there that you’ve probably been tempted to spend a lot of time and money on to grow your business, but as we all know, to grow a sales business, you have to be in contact with a lot of people. There a lot of ways to do this, but one phrase that stands out to me is, “we respect what we inspect.”
+There are plenty of quick fixes and shiny objects out there that you’ve probably been tempted to spend a lot of time and money on to grow your business, but as we all know, to grow a sales business, you have to be in contact with a lot of people. There a lot of ways to do this, but one phrase that stands out to me is, “We respect what we inspect.”
 
 <br>There’s no better thing to inspect than our critical activities used to get in touch with people. And that’s why my agents and I carry a document called the **Weekly Critical Activities Success Tracker** every day. You can take a look at this document in the video above.
 
