@@ -1470,7 +1470,7 @@ html[xmlns] .flexslider .slides {
   margin-top: 15px; }
   .navbar-left > li > a:hover {
     background: transparent;
-    color: #c8d8dc; }
+    color: black; }
 
 .fa-bars {
   color: #89Abb5; }
@@ -2863,7 +2863,7 @@ form select {
   transition: 0.3s; }
   .cta:hover {
     background: transparent;
-    color: #c8d8dc;
+    color: #005473;
     box-shadow: 4px 4px 0 #c8d8dc;
     border: 2px solid #89ABB5;
     -webkit-transform: scale(1.05);

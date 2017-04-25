@@ -14,7 +14,7 @@ client:
   market: Utah County Real Estate
   brand: The Utah Homes Team
   brokerage:
-  address: 1443 West. 800 North, Suite 201, Orem, UT 84057
+  address: 1443 West. 800 North, Suite 201 <br> Orem, UT 84057
   phone: 801-610-9155
   phone_type: Direct
   phone2:
