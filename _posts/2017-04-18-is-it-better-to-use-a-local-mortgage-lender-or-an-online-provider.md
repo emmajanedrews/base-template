@@ -15,9 +15,9 @@ youtube_code: p0OSqlSVmN0
 ---
 
 
-Today I’m joined again by Brandon Harris from Perennial Mortgage Group to answer an important question: What’s the difference between working with a local mortgage lender and an online mortgage provider?
-
 {% include youtube.html %}
+
+Today I’m joined again by Brandon Harris from Perennial Mortgage Group to answer an important question: What’s the difference between working with a local mortgage lender and an online mortgage provider?
 
 The main difference boils down to human interaction. With so many of our daily tasks already automated, it’s not surprising that some people opt for online mortgage providers. When you’re looking to finance a home purchase, however, you need to work with someone you can communicate regularly with and meet in person.
 
