@@ -36,7 +36,7 @@ layout: null
         <author>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}</author>
         <pubDate>{{post.date}}</pubDate>
         <guid>{{post.enclosure}}</guid>
-        <description>{{post.content | strip_html}}</description>
+        <description>{{post.excerpt | strip_html}}</description>
         <enclosure url="{{post.enclosure}}" length="{{post.enclosure_time}}" type="{{post.enclosure_type}}"/>
         <media:thumbnail url="{{post.image | prepend: site.url}}" height="72" width="72"/>
         <media:content url="{{post.enclosure}}" type="{{post.enclosure_type}}"/>
