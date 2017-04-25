@@ -1,54 +1,47 @@
 audit_header: false
-title: -- CLIENT BRAND --
+title: '-- CLIENT BRAND --'
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
   - title:
     url:
-
 client:
   name: Loodmy Jacques
   license_number:
-  about_markdown: |
-      Loodmy Jacques is a highly successful real estate professional. He is currently ranked in the Top 1% of CENTURY 21 Tenace agents in the State of Florida and serves the area covering Miami Beach to Jupiter. Loodmy specializes in several different areas of real estate. Some of his areas of expertise include: New Construction, Relocation, Active Adult Communities, Luxury Homes, Country Clubs and Ocean Front Properties. He prides himself on customer service and is available 24 hours a day, seven days a week for his clients. His professionalism and dedication set him apart from the rest of the agents. Choosing to work with Loodmy Jacques ensures that you will always get the best results.
-
-  market: Boynton Beach Florida Real Estate
+  about_markdown: 'Loodmy Jacques is a highly successful real estate professional. He is currently ranked in the Top 1% of CENTURY 21 Tenace agents in the State of Florida and serves the area covering Miami Beach to Jupiter. Loodmy specializes in several different areas of real estate. Some of his areas of expertise include: New Construction, Relocation, Active Adult Communities, Luxury Homes, Country Clubs and Ocean Front Properties. He prides himself on customer service and is available 24 hours a day, seven days a week for his clients. His professionalism and dedication set him apart from the rest of the agents. Choosing to work with Loodmy Jacques ensures that you will always get the best results.'
+  market: Boynton Beach Florida
   brand: Jacques Realty Group
   brokerage: Century 21 Tenace Realty
-  address: 3960 Hypoluxo Rd <br> Boyton Beach FL, 33437
+  address: '3960 Hypoluxo Rd <br> Boyton Beach FL, 33436'
   phone: 561-305-8988
   phone_type: Cell
   phone2: 561-740-2100
   phone2_type: Office
-  email: loodmy@gmail.com
-  url: homeforsalelocal.com
-
+  email: Loodmy@gmail.com
+  url: 'http://www.homeforsalelocal.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.homeforsalelocal.com/sell/
+  first_CTA_URL: 'http://www.homeforsalelocal.com/sell/'
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.homeforsalelocal.com/map/
+  second_CTA_URL: 'http://www.homeforsalelocal.com/map/'
   VR_form: 'http://oi.vresp.com?fid=47510cd99a'
-
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/005.jpg
     CTA_title: Looking to Buy a Home?
     CTA_text: Search the entire MLS for homes located in -- MARKET --.
     CTA_link_text: Home Search Tool
-    CTA_url: http://www.homeforsalelocal.com/map/
-
+    CTA_url: 'http://www.homeforsalelocal.com/map/'
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
+  headshot_path: 'http://fillmurray.com/200/200'
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: http://eyegoop.com
-
+  url: 'http://eyegoop.com'
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
@@ -57,51 +50,47 @@ welcome_box:
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
-
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/Jacques-Realty-Group-1541552879445668/
-  linkedin_url: https://www.linkedin.com/in/loodmy-jacques-31a60614/
-  gplus_url: https://plus.google.com/u/0/115082858052408326867
-  youtube_url: https://www.youtube.com/channel/UCRcbPkbkBeB156lZkdDywCQ
-  twitter_url: https://twitter.com/@loodmy
+  facebook_url: 'https://www.facebook.com/Jacques-Realty-Group-1541552879445668/'
+  linkedin_url: 'https://www.linkedin.com/in/loodmy-jacques-31a60614/'
+  gplus_url: 'https://plus.google.com/u/0/115082858052408326867'
+  youtube_url: 'https://www.youtube.com/channel/UCRcbPkbkBeB156lZkdDywCQ'
+  twitter_url: 'https://twitter.com/@loodmy'
   instagram_url:
   pinterest_url:
-  zillow_url: https://www.zillow.com/profile/loodmy0/
-  trulia_url: https://www.trulia.com/profile/loodmy-jacques-agent-boynton-beach-fl-zgtm76nq/overview
-  yelp_url: https://www.yelp.com/biz/loodmy-jacques-pa-boynton-beach-4
+  zillow_url: 'https://www.zillow.com/profile/loodmy0/'
+  trulia_url: 'https://www.trulia.com/profile/loodmy-jacques-agent-boynton-beach-fl-zgtm76nq/overview'
+  yelp_url: 'https://www.yelp.com/biz/loodmy-jacques-pa-boynton-beach-4'
   podcast_url:
-
 podcast:
   title:
-  categories: Education
+  categories:
+    - Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
   author: '-- CLIENT NAME --'
-
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 60
   hero_text: Real Estate Video Blog
-  hero_background_hex: '#000'
+  hero_background_hex: '#000000'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#4373B8'
-  theme_color: '#4373B8'
+  brand_color: '#4373b8'
+  theme_color: '#4373b8'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 1px
   shadow_spread: 3px
-  shadow_color: "#83838B"
-
+  shadow_color: '#83838b'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
