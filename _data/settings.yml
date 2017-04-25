@@ -7,34 +7,34 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Andrew Ford
   license_number:
   about_markdown: |
-
-  market:
-  brand:
+    The Utah Homes Team with Re/Max Results is comprised of a team of local real estate professionals committed to selling some of the most desired homes in Utah. Selling these "right addresses" is the mission of The Utah Homes Team with Re/Max Results. Let us know what you're looking for. Please take advantage of the helpful tools on this website, including our exclusive Utah Real Estate search, but also feel free to contact us personally.
+  market: Utah County Real Estate
+  brand: The Utah Homes Team
   brokerage:
-  address:
-  phone:
-  phone_type:
+  address: 1443 West. 800 North, Suite 201, Orem, UT 84057
+  phone: 801-610-9155
+  phone_type: Direct
   phone2:
   phone2_type:
-  email:
-  url:
+  email: andrew@theutahhomes.com
+  url: https://www.theutahhomes.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: https://www.theutahhomes.com/sell/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: https://www.theutahhomes.com/results/
   VR_form:
 
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/004.jpg
+  - CTA_image_path: /img/cta-images/005.jpg
     CTA_title: Looking to Buy a Home?
     CTA_text: Search the entire MLS for homes located in -- MARKET --.
     CTA_link_text: Home Search Tool
-    CTA_url: /homesearch/
+    CTA_url: https://www.theutahhomes.com/results/
 
 lender:
   show_section: false
@@ -59,16 +59,16 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/TheUtahHomes
+  linkedin_url: https://www.linkedin.com/in/andrewfordutah
+  gplus_url: https://plus.google.com/u/0/b/114303237816144250408/114303237816144250408
+  youtube_url: https://www.youtube.com/channel/UCAItg7KHIZg-Ry_N34yBauw/
+  twitter_url: https://twitter.com/theutahhomes
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
+  zillow_url: https://www.zillow.com/profile/The-Utah-Homes-Team/
+  trulia_url: http://andrewfordrealty.blogspot.com/www.trulia.com/profile/andrew-ford-agent-van-steuban-detroit-mi-1456592
+  yelp_url: https://www.yelp.com/biz/the-utah-homes-team-homesmart-advantage-orem
   podcast_url:
 
 podcast:
@@ -83,13 +83,13 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 110
   hero_text: Real Estate Video Blog
-  hero_background_hex: '#094264'
+  hero_background_hex: '#004964'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#C14547'
+  brand_color: '#89Abb5'
   theme_color: '#005473'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
@@ -105,8 +105,8 @@ buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
-  button_border_color: '#ffffff'
-  button_background_color: '#ffffff'
+  button_border_color: '#89ABB5'
+  button_background_color: '#89ABB5'
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
