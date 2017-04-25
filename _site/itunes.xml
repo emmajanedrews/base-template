@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Vyral Marketing - your professional Omaha Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Client Name</managingEditor>
-    <lastBuildDate>2017-04-25 10:41:54 -0500</lastBuildDate>
+    <lastBuildDate>2017-04-25 10:57:44 -0500</lastBuildDate>
     <media:copyright>Client Name</media:copyright>
     <media:thumbnail url="/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Omaha, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -36,7 +36,7 @@
         
         <author>Client Name</author>
         <pubDate>2016-10-04 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/rare+Properties/First+10+CloudCannon+Vids/Were+Having+a+Clothing+Drive+for+Note+in+the+Pocket.mp4</guid>
         <description>
 
 }
@@ -53,9 +53,9 @@ Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper 
 
 Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/rare+Properties/First+10+CloudCannon+Vids/Were+Having+a+Clothing+Drive+for+Note+in+the+Pocket.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/rare+Properties/First+10+CloudCannon+Vids/Were+Having+a+Clothing+Drive+for+Note+in+the+Pocket.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
         <itunes:author>Client Name</itunes:author>

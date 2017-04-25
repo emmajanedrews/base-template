@@ -1,8 +1,5 @@
 ---
-youtube_code: 
-excerpt:
-enclosure:
-pullquote:
+enclosure: https://s3.amazonaws.com/vyralmarketing/rare+Properties/First+10+CloudCannon+Vids/Were+Having+a+Clothing+Drive+for+Note+in+the+Pocket.mp4
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -15,12 +12,7 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: 'Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.'
-enclosure:
 pullquote: This is an example of a pull quote
-enclosure_type: video/mp4
-enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
 youtube_code: SFFy_drFrZs
 ---
 {% include youtube.html %}
