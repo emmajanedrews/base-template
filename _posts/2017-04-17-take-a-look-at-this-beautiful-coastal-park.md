@@ -22,4 +22,6 @@ Today I’m coming to you from the beautiful Emerald Coast. My son and I are at 
 
 If you have any questions, please feel free to give me a call or send me an email. I look forward to hearing from you!
 
+[Get directions to or learn more about what Topsail has to offer.](https://www.floridastateparks.org/park/Topsail-Hill)
+
 ![](/uploads/versions/top-comp-resize---x----1003-292x---.jpg)
