@@ -19,13 +19,13 @@ youtube_code: WyqGWqIUCAw
 
 There are four common mistakes that first-time homebuyers make that you should avoid:&nbsp;
 
-1. **Not getting pre-approved before you look at homes**. That would be like going on a shopping spree without knowing how much money is in your bank account. It’s important to get pre-approved so that you don’t fall in love with a home you can’t afford. On the other hand, getting pre-approved also prevents you from “underbuying” a home and winding up in a bad neighborhood when you could have actually afforded your dream home.&nbsp;
+1.**Not getting pre-approved before you look at homes**. That would be like going on a shopping spree without knowing how much money is in your bank account. It’s important to get pre-approved so that you don’t fall in love with a home you can’t afford. On the other hand, getting pre-approved also prevents you from “underbuying” a home and winding up in a bad neighborhood when you could have actually afforded your dream home.&nbsp;
 
-2. **Not moving fast enough**. If you just sit around and wait for a home in today’s fast, competitive market, then you will lose out. Don’t wait and watch your dream home slip away from you because someone else made a move and you didn’t. Taking action will definitely benefit you in today’s market.&nbsp;
+2.**Not moving fast enough**. If you just sit around and wait for a home in today’s fast, competitive market, then you will lose out. Don’t wait and watch your dream home slip away from you because someone else made a move and you didn’t. Taking action will definitely benefit you in today’s market.&nbsp;
 
-3. **Making a lowball offer**. Everyone wants to save money, but we are in an extremely competitive market. As your agent, we will tell you how to make the best offer so that you can beat the competition without breaking the bank. However, it’s important that the offer isn’t so low that it insults the seller. We will work to negotiate with the seller and find the price that works for you.&nbsp;
+3.**Making a lowball offer**. Everyone wants to save money, but we are in an extremely competitive market. As your agent, we will tell you how to make the best offer so that you can beat the competition without breaking the bank. However, it’s important that the offer isn’t so low that it insults the seller. We will work to negotiate with the seller and find the price that works for you.&nbsp;
 
-4. **Relying too heavily on the Internet**. Zillow and Realtor.com can provide great information on some real estate topics. However, their home value estimates can be off by as much as 15%. That is a lot of money when it comes to buying a home. Plus, think of it this way: If you were sick, would you rely solely on WebMD or would you go to a doctor? You would go to a doctor! Having a true expert work for you will save you time, frustration, and money. As real estate experts, we have the inside track through the MLS that these websites do not have.&nbsp;
+4.**Relying too heavily on the Internet**. Zillow and Realtor.com can provide great information on some real estate topics. However, their home value estimates can be off by as much as 15%. That is a lot of money when it comes to buying a home. Plus, think of it this way: If you were sick, would you rely solely on WebMD or would you go to a doctor? You would go to a doctor! Having a true expert work for you will save you time, frustration, and money. As real estate experts, we have the inside track through the MLS that these websites do not have.&nbsp;
 
 {% include pullquote.html %}
 
