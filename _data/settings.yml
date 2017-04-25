@@ -95,7 +95,7 @@ images:
   logo_width_number: 80
   hero_text:
   hero_background_hex: '#3a8dbc'
-  hero_image_path: /img/background.jpg
+  hero_image_path: /uploads/fries-bkg-brighter.png
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#b52f26'
