@@ -5,7 +5,7 @@ date: 2017-04-19 16:01:00
 tags:
   - Home Seller Tips
 excerpt: "Do you think you can sell your house on your own? Breaking down exactly what a Realtor offers can help you determine whether you're qualified to take this task on."
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Central+PA+Real+Estate+Agent-+How+to+List+Your+House+Without+a+Realtor.mp4'
 pullquote: "If you're experienced enough to sell your own house, you absolutely should."
 enclosure_type: video/mp4
 enclosure_time:
