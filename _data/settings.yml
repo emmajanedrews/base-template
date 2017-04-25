@@ -7,46 +7,49 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Brian Canady
   license_number:
   about_markdown: |
-
-  market:
-  brand:
+    It's our mission, as a team to provide individuals and families with a full service Real Estate practice.
+    To ensure our buyers and sellers make the most educated decision for their needs we will provide resources for them throughout the real estate transaction and most importantly, after the sale too.
+    We will strive to serve each person with the utmost respect and integrity to ensure they reach success with our company and trust us to do business with their friends and family.
+    We are your one stop shop for ALL THINGS REAL ESTATE.
+  market: Colorado Springs Real Estate
+  brand: All Things Real Estate
   brokerage:
-  address:
-  phone:
-  phone_type:
-  phone2:
-  phone2_type:
-  email:
-  url:
+  address: 605 South Tejon Street <br> Colorado Springs, Colorado 80903
+  phone: 719-999-5789
+  phone_type: Direct
+  phone2: 720-260-0789
+  phone2_type: Cell
+  email: brian@briancanady.com
+  url: http://www.buysprings.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.buysprings.com/market-report/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.buysprings.com/
   VR_form:
 
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/004.jpg
+  - CTA_image_path: /img/cta-images/005.jpg
     CTA_title: Looking to Buy a Home?
     CTA_text: Search the entire MLS for homes located in -- MARKET --.
     CTA_link_text: Home Search Tool
-    CTA_url: /homesearch/
+    CTA_url: http://www.buysprings.com/
 
 lender:
-  show_section: false
+  show_section: true
   header_text: Preferred Lender
   headshot_path: http://fillmurray.com/200/200
   logo_path: /img/logo.png
   logo_path_2:
-  name: Bill Murray
-  brand: Lender Co.
-  phone: 555-555-5555
-  email: bill@murray.com
-  url: http://eyegoop.com
+  name: Tim Chase
+  brand: 719 Lending
+  phone: 719-231-4893
+  email: contacttimchase@gmail.com
+  url: 
 
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
@@ -59,15 +62,15 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/buysprings/
+  linkedin_url: https://www.linkedin.com/in/briancanady/
+  gplus_url: https://plus.google.com/u/0/b/108693056410575195716/+Buysprings?_ga=1.3364146.325397046.1493055869
+  youtube_url: https://www.youtube.com/channel/UCZTBz55B8IUcMppXvC8RIzQ
+  twitter_url: https://twitter.com/briancanady
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
+  zillow_url: https://www.zillow.com/profile/Tiffany-and-Brian-Canady/
+  trulia_url: https://www.trulia.com/profile/tiffany-brian-canady-agent-colorado-springs-co-zgkr745r/overview
   yelp_url:
   podcast_url:
 
@@ -83,15 +86,15 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 80
   hero_text: Real Estate Video Blog
   hero_background_hex: '#094264'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#C14547'
-  theme_color: '#005473'
-  theme_text_color: '#353535'
+  brand_color: '#b00200'
+  theme_color: '#000'
+  theme_text_color: '#fff'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
 
