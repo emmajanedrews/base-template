@@ -7,19 +7,19 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Client Name
   license_number:
   about_markdown: |
 
-  market:
-  brand:
+  market: Omaha
+  brand: Vyral Marketing
   brokerage:
   address:
   phone:
   phone_type:
   phone2:
   phone2_type:
-  email:
+  email: getvyral@gmail.com
   url:
 
 CTAs:
@@ -72,7 +72,7 @@ socials:
   podcast_url:
 
 podcast:
-  title:
+  title: Vyral Test Podcast
   categories: Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
