@@ -1,11 +1,11 @@
 ---
 layout: post
 title: This Document Is the Key to Ensuring Your Business Is Growing
-date: 2017-04-20 15:54:05
+date: 2017-04-20 15:54:00
 tags:
   - Real Estate
 excerpt: Keeping track of your critical activities is the key to assuring you grow your business. Here’s how our team does it.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/Central+PA+Real+Estate+Agent-+How+we+track+our+critical+activities.mp4'
 pullquote: This document tracks everything we do on a daily basis.
 enclosure_type: video/mp4
 enclosure_time:
