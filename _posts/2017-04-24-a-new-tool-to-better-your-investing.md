@@ -21,7 +21,7 @@ youtube_code: WrBJaw0i1K8
 
 Today I want to talk to you about a new tool we have to help our friends and clients. It’s called **Riskalyze** and it’s the leading tool to help you find out what your risk number is when investing.
 
-The old fashioned way to find out your risk number was to use a long, drawn-out questionnaire. Riskalyze actually modernized that questionnaire to help you more easily figure out how much you’re willing to risk and how much gain you’re willing to expose your assets to.
+The old-fashioned way to find out your risk number was to use a long, drawn-out questionnaire. Riskalyze actually modernized that questionnaire to help you more easily figure out how much you’re willing to risk and how much gain you’re willing to expose your assets to.
 
 **It not only helps you find out what you’re comfortable with in terms of investing, but also if your investments are ultimately matching up with your end goals.** Some people have portfolios that are way too risky for their comfort levels, and some people have portfolios that are way too conservative.
 
