@@ -19,7 +19,7 @@ youtube_code: zygdPtgLMPE
 
 Marketing, as it relates to real estate, has become an online game. In fact, **92% of all buyers start their search online**. If you visit websites like Realtor.com or Zillow, what is the first thing you see? Photos. That’s why they’re so important. They’re the first tool we use to engage prospective buyers.
 
-They’re not the only tool, though. If buyers like what they see, we use additional tools like **aerial videos** to give them an idea of where the home is in respect to its surrounding environment. Aerial videos are very engaging and give a different perspective of the home. We can write that at home “has canyon views,” but it’s a completely different experience if we can actually swoop through those canyons.
+They’re not the only tool, though. If buyers like what they see, we use additional tools like **aerial videos** to give them an idea of where the home is with respect to its surrounding environment. Aerial videos are very engaging and give a different perspective of the home. We can write that a home “has canyon views,” but it’s a completely different experience if we can actually swoop through those canyons.
 
 It’s also important to note that 11% of buyers in San Diego County come from outside the U.S. The top five countries they come from are Mexico, Canada, India, the U.K., and China. We take advantage of this with a program called **Buyers Without Borders**, which was started four years ago when our founder, Gary Keller, negotiated 84 agreements with MLS systems outside the U.S. Now, when we list a home in our local MLS, it gets syndicated to 84 other MLS systems throughout the world and reaches 500,000 agents globally.
 
