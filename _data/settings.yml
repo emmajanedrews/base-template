@@ -13,9 +13,9 @@ client:
       Loodmy Jacques is a highly successful real estate professional. He is currently ranked in the Top 1% of CENTURY 21 Tenace agents in the State of Florida and serves the area covering Miami Beach to Jupiter. Loodmy specializes in several different areas of real estate. Some of his areas of expertise include: New Construction, Relocation, Active Adult Communities, Luxury Homes, Country Clubs and Ocean Front Properties. He prides himself on customer service and is available 24 hours a day, seven days a week for his clients. His professionalism and dedication set him apart from the rest of the agents. Choosing to work with Loodmy Jacques ensures that you will always get the best results.
 
   market: Boynton Beach Florida Real Estate
-  brand: Century 21 Tenace Realty
-  brokerage:
-  address: 3960 Hypoluxo Rd Boyton Beach FL, 33437
+  brand: Jacques Realty Group
+  brokerage: Century 21 Tenace Realty
+  address: 3960 Hypoluxo Rd <br> Boyton Beach FL, 33437
   phone: 561-305-8988
   phone_type: Cell
   phone2: 561-740-2100
@@ -61,14 +61,14 @@ welcome_box:
 socials:
   review_sm_icons: false
   facebook_url: https://www.facebook.com/Jacques-Realty-Group-1541552879445668/
-  linkedin_url:
-  gplus_url: https://plus.google.com/108140840819481943213
-  youtube_url:
+  linkedin_url: https://www.linkedin.com/in/loodmy-jacques-31a60614/
+  gplus_url: https://plus.google.com/u/0/115082858052408326867
+  youtube_url: https://www.youtube.com/channel/UCRcbPkbkBeB156lZkdDywCQ
   twitter_url: https://twitter.com/@loodmy
   instagram_url:
   pinterest_url:
   zillow_url: https://www.zillow.com/profile/loodmy0/
-  trulia_url:
+  trulia_url: https://www.trulia.com/profile/loodmy-jacques-agent-boynton-beach-fl-zgtm76nq/overview
   yelp_url: https://www.yelp.com/biz/loodmy-jacques-pa-boynton-beach-4
   podcast_url:
 
