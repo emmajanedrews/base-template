@@ -3,7 +3,7 @@ layout: default
 title: About
 permalink: /about/
 ---
-<br><h2>Philipp Fries</h2>
+<h2>Philipp Fries</h2>
 
 In 2008 I moved to Tampa from Dusseldorf, Germany to pursue my MBA at the University of Tampa. I have always been passionate about experiencing the customs and people in other parts of the world, so I jumped at the opportunity to relocate. Here I fell in love with Floridian culture and my wife Michele. Since then, we have had a beautiful baby and begun a wonderful life, and now a business, together.
 
