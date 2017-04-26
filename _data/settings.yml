@@ -8,18 +8,12 @@ custom_links:
 client:
   name: 'Emily & Paul Hervieux'
   license_number:
-  about_markdown: >
-    The Hervieux Real Estate Group believes that when selling a home, you have an
-    amazing opportunity to increase its value. We provide a room by room review
-    to identify the intelligent fix-ups, complementary staging, local
-    & international marketing, and expert negotiating. This proven process will
-    ensure the highest sales price of your home. We invite you to meet with us
-    for a private consultation or come to one of our home selling events.
+  about_markdown: 'The Hervieux Real Estate Group believes that when selling a home, you have an amazing opportunity to increase its value. We provide a room by room review to identify the intelligent fix-ups, complementary staging, local & international marketing, and expert negotiating. This proven process will ensure the highest sales price of your home. We invite you to meet with us for a private consultation or come to one of our home selling events.'
   market: San Diego
   brand:
   brokerage:
   address: '12780 High Bluff Dr, Suite 130<br>San Diego, CA 92130'
-  phone: 858-356-5463
+  phone: 858-395-6315
   phone_type:
   phone2:
   phone2_type:
