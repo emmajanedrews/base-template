@@ -7,7 +7,7 @@ custom_links:
     url:
 client:
   name: Travis Chatwin
-  license_number: CA BRE Lic# 01331747
+  license_number:
   about_markdown: "Travis Chatwin Real Estate is comprised of a team of local real estate professionals committed to selling some of the most desired homes in Greater San Diego. Selling these \"right addresses\" is the mission of Travis Chatwin Real Estate. Let us know what you're looking for. Please take advantage of the helpful tools on this website, including our exclusive Greater San Diego Real Estate search, but also feel free to contact us personally."
   market: San Diego
   brand: Beach and Sun Homes
@@ -62,7 +62,7 @@ podcast:
   author: '-- CLIENT NAME --'
 images:
   client_headshot_path: /img/headshot.jpg
-  hero_logo_path: /img/logo.png
+  hero_logo_path: /uploads/chatwin-double-logo-with-tagline-option-for-blog.png
   logo_width_number: 40
   hero_text:
   hero_background_hex: '#737373'
