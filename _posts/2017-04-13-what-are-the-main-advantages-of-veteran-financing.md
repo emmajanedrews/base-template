@@ -5,7 +5,7 @@ date: 2017-04-13 11:16:00
 tags:
   - Home Buyer Tips
 excerpt: 'As an agent, I get asked about VA loans all the time. Today I’m going to talk about what they are, what their benefits are, and how you can apply for one.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+VA+loans+are+fantastic.mp4'
 pullquote: Hire a good lender to see if you qualify.
 enclosure_type: video/mp4
 enclosure_time:
