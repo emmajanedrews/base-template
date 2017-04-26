@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Draft
+title: Does the Orange County Market Benefit Buyers or Sellers?
 tags:
 excerpt:
 enclosure:
@@ -11,6 +11,8 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code:
 ---
+
+
 {% include youtube.html %}
 
 {% include pullquote.html %}
