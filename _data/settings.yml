@@ -8,7 +8,7 @@ custom_links:
 client:
   name: Scott Hardesty
   license_number: 306088
-  about_markdown: >
+  about_markdown: |
     Scott can best be described as a man of high energy with a passion for
     Nashville real estate. He is a professional with a strong desire to listen
     and understand his client’s particular needs. Scott’s market expertise
@@ -69,8 +69,7 @@ socials:
   podcast_url: 'https://itunes.apple.com/us/podcast/house-to-home-nashville-real-estate-podcast/id1217918134?mt=2'
 podcast:
   title: House to Home Nashville Real Estate Podcast
-  categories:
-    - Education
+  categories: Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
@@ -78,8 +77,8 @@ podcast:
   author: '-- CLIENT NAME --'
 images:
   client_headshot_path: /img/headshot.jpg
-  hero_logo_path: /uploads/scott-hardesty-double-logo.png
-  logo_width_number:
+  hero_logo_path: /img/logo.png
+  logo_width_number: 40
   hero_text:
   hero_background_hex: '#ffffff'
   hero_image_path: /img/background.jpg
@@ -94,10 +93,11 @@ header_shadow:
   w_shadow: 2px
   shadow_spread: 7px
   shadow_color: 'rgba(0, 0, 0, 0)'
+
 buttons:
-  button_radius_number:
-  button_padding_width_number:
-  button_padding_height_number:
+  button_radius_number: 0
+  button_padding_width_number: 10
+  button_padding_height_number: 15
   button_border_color: '#c0252c'
   button_background_color: '#c0252c'
   button_text_color: '#ffffff'

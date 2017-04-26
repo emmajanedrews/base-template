@@ -2,15 +2,15 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>House to Home Nashville Real Estate Podcast</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://housetohomenashblog.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://housetohomenashblog.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from House to Home Nashville - your professional Nashville Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Scott Hardesty</managingEditor>
-    <lastBuildDate>2017-02-13 15:52:33 -0600</lastBuildDate>
+    <lastBuildDate>2017-04-26 14:40:43 -0500</lastBuildDate>
     <media:copyright>Scott Hardesty</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.png"/>
-    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
+    <media:thumbnail url="http://housetohomenashblog.com/img/podcast.jpg"/>
+    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Nashville, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
       <itunes:email>scott@housetohomenash.com</itunes:email>
@@ -18,159 +18,122 @@
     </itunes:owner>
     <itunes:author>Scott Hardesty</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.png"/>
-    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
+    <itunes:image href="http://housetohomenashblog.com/img/podcast.jpg"/>
+    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Nashville, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Nashville Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from House to Home Nashville - your professional Nashville Real Estate Agents.</itunes:summary>
       <itunes:category text="News &amp; Politics"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>localhost:4000/this-is-a-test.html</link>
-        
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
-        
-          <category>Buyer Tips</category>
-        
-          <category>Home Seller Tips</category>
+        <title>Can You Trust Zillow’s Zestimates?</title>
+        <link>http://housetohomenashblog.com/can-you-trust-zillows-zestimates.html</link>
         
         <author>Scott Hardesty</author>
-        <pubDate>2016-10-04 00:00:00 -0500</pubDate>
+        <pubDate>2017-04-21 00:00:00 -0500</pubDate>
         <guid></guid>
         <description>
+Just how accurate are Zillow’s home value estimates, or Zestimates?
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+You first have to understand where Zillow gets its data for the Zestimates from. Public tax records show things like the number of bedrooms and bathrooms and the square footage. If you own a home, you can also log into Zillow and manually update information about it. You can enter if you have granite countertops or new hardwood floors and they’ll increase your Zestimate.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+Zillow combines this into a general value of your home in your neighborhood. However, people don’t always go on Zillow and enter what they’ve done to their home. If not, Zillow has no way of knowing if you added 500 square feet, for example. They can’t keep up with the exact data. They can’t account for your neighbor’s home, either.
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+The Zestimate can be a good general starting point to get an idea of what your home is worth, but it’s not an appraisal or an exact price. You don’t want to use it to price your house.
 
-“This is an example of a pull quote”
+“The Zestimate can be a good general starting point, but it’s not an appraisal.”
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+So how far off are they really? The median error is 5%, so half of the homes on Zillow will be under 5% off the sales price. The other half are off by more than 5%. It may not seem like much, but for a $350,000 house, the sales price could be off by $17,500.
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+To get a true market value of your home, you need to consult a real estate professional who does it every day. We look at all the specific data, not just general tax records. We consider the age, size, condition, updates, materials, and other similar homes in the area, to name a few details. The smaller details are how we keep from overpricing or underpricing your home.
+
+If you’d like to know what your home is worth or you’re thinking about buying or selling a home the Nashville market, don’t hesitate to give me a call or send me an email. I’d be glad to help.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://housetohomenashblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>What are Zillow’s Zestimates, exactly? How are they determined? How accurate are they?</itunes:subtitle>
         <itunes:author>Scott Hardesty</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:summary>What are Zillow’s Zestimates, exactly? How are they determined? How accurate are they?</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Nashville, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>this is a test</title>
-        <link>localhost:4000/a-fox-in-space.html</link>
-        
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
-        
-          <category>Buyer Tips</category>
+        <title>What If You Sell Your House Before Buying the Next One?</title>
+        <link>http://housetohomenashblog.com/what-if-you-sell-your-house-before-buying-the-next-one.html</link>
         
           <category>Home Seller Tips</category>
         
         <author>Scott Hardesty</author>
-        <pubDate>2016-09-28 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2017-04-13 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Scott+Hardesty/Greater+Nashville+Real+Estate-+What+If+I+Sell+my+Home+Before+I+Buy.mp4</guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+What happens if you sell your house before you find your next one? It’s a tough situation that can happen to almost anyone since most people need to sell their current house in order to buy the next one.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+In a seller’s market like we’re currently seeing in Nashville, the problem is that if your offer on a home has a sale contingency and you’re competing against three or four other offers, the others might have an advantage.
 
+There are a few ways we help buyers avoid this issue.
 
-  list item
-  list item
-  list item
-  list item
-  list item
+The first is to go out and start looking at properties so you can be sure there are a few things out there that you like. That way, you won’t have to hesitate when the time comes to write an offer. From there, my next recommendation is to put your house on the market and try to get a contract. The good thing about a seller’s market is that you as the seller have a little bit more control over the contract. That means you can dictate those terms better.
 
+“You’ll have extra leverage as a seller in our market, which helps you get the terms you want.”
 
+Since you have extra leverage, I recommend that my clients push closing out 45 or 60 days rather than the usual 30. That’ll give you more time and less stress when finding your next home.
 
-  list item
-  list item
-  list item
-  list item
-  list item
+Another option to bridge this gap would be a short-term rental, like Airbnb or VRBO. These are great options if you need to stay somewhere for a month or two while you find your next house, and they’re furnished. This will help you avoid having to move twice.
 
+My least favorite option is to ask the buyer of your home for a temporary occupancy agreement. You would close on the house but then stay in it for a specified amount of time. You’ll want to get renter’s insurance for your belongings since your homeowner’s insurance won’t cover your personal items once you close on the home. It can get messy, but it can work if you truly need that extra time to get into your new place.
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+Each case is different, so don’t hesitate to give me a call if you have any questions. I’m always happy to help!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Scott+Hardesty/Greater+Nashville+Real+Estate-+What+If+I+Sell+my+Home+Before+I+Buy.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://housetohomenashblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Scott+Hardesty/Greater+Nashville+Real+Estate-+What+If+I+Sell+my+Home+Before+I+Buy.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>In a seller's market like ours, homeowners sometimes run into the issue of selling their house before they find their next home. Here's how to handle it.</itunes:subtitle>
         <itunes:author>Scott Hardesty</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:summary>In a seller's market like ours, homeowners sometimes run into the issue of selling their house before they find their next home. Here's how to handle it.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Nashville, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>this is a test</title>
-        <link>localhost:4000/a-fox-in-space.html</link>
+        <title>What Can You Expect From the 2017 Market?</title>
+        <link>http://housetohomenashblog.com/what-can-you-expect-from-the-2017-market.html</link>
         
           <category>Market Update</category>
         
-          <category>Real Estate</category>
-        
-          <category>Buyer Tips</category>
-        
-          <category>Home Seller Tips</category>
-        
         <author>Scott Hardesty</author>
-        <pubDate>2016-09-27 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2017-03-15 01:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Scott+Hardesty/Greater+Nashville+Real+Estate-+2017+Nashville+Market+Predictions.mp4</guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+Now that 2017 is underway, I want to go over a few things you can expect to see in our real estate market.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+We are still in a strong seller’s market, which means we have more demand than supply. We’re seeing rising prices, multiple offer situations, and homes selling the second they hit the market. Sometimes, multiple offers can cause a home to sell for well above asking price.
 
+We saw a rise in interest rates around the election and my lender tells me we are right around the 4% to 4.5% range, which is still very low.
 
-  list item
-  list item
-  list item
-  list item
-  list item
+So, what does this mean for buyers and sellers?
 
+“As a buyer, be smart, be quick, and be aggressive.”
 
+As a buyer, you’ll want to be knowledgeable about the market. You’re going to want to keep a close eye on what’s hitting the market so you can get there quickly to see it and make an offer if you like it.
 
-  list item
-  list item
-  list item
-  list item
-  list item
+You also have to be very aggressive as a buyer in this market. If there are not multiple offers on a property right away, there probably will be, so you want to make your first offer your best. You don’t want to spend time trying to negotiate as that would give other people time to send an offer in.
 
+If you’re a seller, right now is a great time to list your home. In fact, there are fewer than 2,000 homes for sale in Davidson County. You can price it in a great range and it will more than likely sell quickly with multiple offers on the table. Our market is projected to be one of the hottest in 2017.
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+If you are looking to buy or sell a home, or if you have any other questions, please feel free to reach out to me with a phone call or a quick email. I look forward to hearing from you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Scott+Hardesty/Greater+Nashville+Real+Estate-+2017+Nashville+Market+Predictions.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://housetohomenashblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Scott+Hardesty/Greater+Nashville+Real+Estate-+2017+Nashville+Market+Predictions.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>Here’s a quick look at what to expect from our 2017 real estate market.</itunes:subtitle>
         <itunes:author>Scott Hardesty</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:summary>Here’s a quick look at what to expect from our 2017 real estate market.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Nashville, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
     <copyright>Scott Hardesty</copyright>

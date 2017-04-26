@@ -3,37 +3,63 @@
   <channel>
     <title>House to Home Nashville</title>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from House to Home Nashville - your professional Nashville Real Estate Agents.</description>
-    <link>localhost:4000/</link>
-    <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Feb 2017 15:52:33 -0600</pubDate>
-    <lastBuildDate>Mon, 13 Feb 2017 15:52:33 -0600</lastBuildDate>
+    <link>http://housetohomenashblog.com/</link>
+    <atom:link href="http://housetohomenashblog.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 26 Apr 2017 14:40:43 -0500</pubDate>
+    <lastBuildDate>Wed, 26 Apr 2017 14:40:43 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>this is a test post</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SFFy_drFrZs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>Can You Trust Zillow’s Zestimates?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/AwgS2WMHhSc?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;Just how accurate are Zillow’s home value estimates, or Zestimates?&lt;/p&gt;
 
-&lt;p&gt;Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps &lt;strong&gt;gastropub marfa r&lt;/strong&gt;etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.&lt;/p&gt;
+&lt;p&gt;You first have to understand where Zillow gets its data for the Zestimates from. Public tax records show things like the number of bedrooms and bathrooms and the square footage. &lt;strong&gt;If you own a home, you can also log into Zillow and manually update information about it.&lt;/strong&gt; You can enter if you have granite countertops or new hardwood floors and they’ll increase your Zestimate.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Bushwick&lt;/em&gt; &lt;a href=&quot;'http://google.com'&quot;&gt;marfa&lt;/a&gt; wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.&lt;/p&gt;
+&lt;p&gt;Zillow combines this into a general value of your home in your neighborhood. However, people don’t always go on Zillow and enter what they’ve done to their home. If not, Zillow has no way of knowing if you added 500 square feet, for example. They can’t keep up with the exact data. They can’t account for your neighbor’s home, either.&lt;/p&gt;
 
-&lt;p&gt;Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Zestimate can be a good general starting point to get an idea of what your home is worth, but it’s not an appraisal or an exact price.&lt;/strong&gt; You don’t want to use it to price your house.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This is an example of a pull quote%20localhost:4000/this-is-a-test.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This is an example of a pull quote”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=The Zestimate can be a good general starting point, but it’s not an appraisal.%20http://housetohomenashblog.com/can-you-trust-zillows-zestimates.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“The Zestimate can be a good general starting point, but it’s not an appraisal.”&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.&lt;/p&gt;
+&lt;p&gt;So how far off are they really? The median error is 5%, so half of the homes on Zillow will be under 5% off the sales price. The other half are off by more than 5%. It may not seem like much, but for a $350,000 house, the sales price could be off by $17,500.&lt;/p&gt;
 
-&lt;p&gt;Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…&lt;/p&gt;
+&lt;p&gt;To get a true market value of your home, you need to consult a real estate professional who does it every day. We look at all the specific data, not just general tax records. We consider the age, size, condition, updates, materials, and other similar homes in the area, to name a few details. The smaller details are how we keep from overpricing or underpricing your home.
+&lt;br /&gt;
+&lt;br /&gt;If you’d like to know what your home is worth or you’re thinking about buying or selling a home the Nashville market, don’t hesitate to give me a call or send me an email. I’d be glad to help.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 04 Oct 2016 00:00:00 -0500</pubDate>
-        <link>localhost:4000/this-is-a-test.html</link>
-        <guid isPermaLink="true">localhost:4000/this-is-a-test.html</guid>
+        <pubDate>Fri, 21 Apr 2017 00:00:00 -0500</pubDate>
+        <link>http://housetohomenashblog.com/can-you-trust-zillows-zestimates.html</link>
+        <guid isPermaLink="true">http://housetohomenashblog.com/can-you-trust-zillows-zestimates.html</guid>
         
-        <category>Market Update</category>
         
-        <category>Real Estate</category>
-        
-        <category>Buyer Tips</category>
+      </item>
+    
+      <item>
+        <title>What If You Sell Your House Before Buying the Next One?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/lG_E5MfjwvQ?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;What happens if you sell your house before you find your next one? It’s a tough situation that can happen to almost anyone since most people need to sell their current house in order to buy the next one.&lt;/p&gt;
+
+&lt;p&gt;In a seller’s market like we’re currently seeing in Nashville, the problem is that if your offer on a home has a sale contingency and you’re competing against three or four other offers, the others might have an advantage.&lt;/p&gt;
+
+&lt;p&gt;There are a few ways we help buyers avoid this issue.&lt;/p&gt;
+
+&lt;p&gt;The first is to go out and start looking at properties so you can be sure there are a few things out there that you like. &lt;strong&gt;That way, you won’t have to hesitate when the time comes to write an offer.&lt;/strong&gt; From there, my next recommendation is to put your house on the market and try to get a contract. The good thing about a seller’s market is that you as the seller have a little bit more control over the contract. That means you can dictate those terms better.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=You'll have extra leverage as a seller in our market, which helps you get the terms you want.%20http://housetohomenashblog.com/what-if-you-sell-your-house-before-buying-the-next-one.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“You’ll have extra leverage as a seller in our market, which helps you get the terms you want.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Since you have extra leverage, I recommend that my clients push closing out 45 or 60 days rather than the usual 30. That’ll give you more time and less stress when finding your next home.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Another option to bridge this gap would be a short-term rental, like Airbnb or VRBO.&lt;/strong&gt; These are great options if you need to stay somewhere for a month or two while you find your next house, and they’re furnished. This will help you avoid having to move twice.&lt;/p&gt;
+
+&lt;p&gt;My least favorite option is to ask the buyer of your home for a temporary occupancy agreement. You would close on the house but then stay in it for a specified amount of time. You’ll want to get renter’s insurance for your belongings since your homeowner’s insurance won’t cover your personal items once you close on the home. It can get messy, but it can work if you truly need that extra time to get into your new place.
+&lt;br /&gt;
+&lt;br /&gt;Each case is different, so don’t hesitate to give me a call if you have any questions. I’m always happy to help!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 13 Apr 2017 00:00:00 -0500</pubDate>
+        <link>http://housetohomenashblog.com/what-if-you-sell-your-house-before-buying-the-next-one.html</link>
+        <guid isPermaLink="true">http://housetohomenashblog.com/what-if-you-sell-your-house-before-buying-the-next-one.html</guid>
         
         <category>Home Seller Tips</category>
         
@@ -41,95 +67,32 @@
       </item>
     
       <item>
-        <title>this is a test</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SFFy_drFrZs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>What Can You Expect From the 2017 Market?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ZS2B5up4Bxg?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps &lt;strong&gt;gastropub marfa r&lt;/strong&gt;etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.&lt;/p&gt;
+&lt;p&gt;Now that 2017 is underway, I want to go over a few things you can expect to see in our real estate market.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Bushwick&lt;/em&gt; &lt;a href=&quot;'http://google.com'&quot;&gt;marfa&lt;/a&gt; wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We are still in a strong seller’s market&lt;/strong&gt;, which means we have more demand than supply. We’re seeing rising prices, multiple offer situations, and homes selling the second they hit the market. Sometimes, multiple offers can cause a home to sell for well above asking price.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;We saw a rise in interest rates around the election and my lender tells me we are right around the 4% to 4.5% range, which is still very low.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;So, what does this mean for buyers and sellers?&lt;/p&gt;
 
-&lt;p&gt;Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=As a buyer, be smart, be quick, and be aggressive.%20http://housetohomenashblog.com/what-can-you-expect-from-the-2017-market.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“As a buyer, be smart, be quick, and be aggressive.”&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This is an example of a pull quote%20localhost:4000/a-fox-in-space.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This is an example of a pull quote”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;As a buyer, &lt;strong&gt;you’ll want to be knowledgeable about the market.&lt;/strong&gt; You’re going to want to keep a close eye on what’s hitting the market so you can get there quickly to see it and make an offer if you like it.&lt;/p&gt;
 
-&lt;p&gt;Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.&lt;/p&gt;
+&lt;p&gt;You also have to be very aggressive as a buyer in this market. If there are not multiple offers on a property right away, there probably will be, so you want to make your first offer your best. You don’t want to spend time trying to negotiate as that would give other people time to send an offer in.&lt;/p&gt;
 
-&lt;p&gt;Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…&lt;/p&gt;
+&lt;p&gt;If you’re a seller, &lt;strong&gt;right now is a great time to list your home.&lt;/strong&gt; In fact, there are fewer than 2,000 homes for sale in Davidson County. You can price it in a great range and it will more than likely sell quickly with multiple offers on the table. Our market is projected to be one of the hottest in 2017.
+&lt;br /&gt;
+&lt;br /&gt;If you are looking to buy or sell a home, or if you have any other questions, please feel free to reach out to me with a phone call or a quick email. I look forward to hearing from you!&lt;/p&gt;
 </description>
-        <pubDate>Wed, 28 Sep 2016 00:00:00 -0500</pubDate>
-        <link>localhost:4000/a-fox-in-space.html</link>
-        <guid isPermaLink="true">localhost:4000/a-fox-in-space.html</guid>
+        <pubDate>Wed, 15 Mar 2017 01:00:00 -0500</pubDate>
+        <link>http://housetohomenashblog.com/what-can-you-expect-from-the-2017-market.html</link>
+        <guid isPermaLink="true">http://housetohomenashblog.com/what-can-you-expect-from-the-2017-market.html</guid>
         
         <category>Market Update</category>
-        
-        <category>Real Estate</category>
-        
-        <category>Buyer Tips</category>
-        
-        <category>Home Seller Tips</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>this is a test</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SFFy_drFrZs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps &lt;strong&gt;gastropub marfa r&lt;/strong&gt;etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Bushwick&lt;/em&gt; &lt;a href=&quot;'http://google.com'&quot;&gt;marfa&lt;/a&gt; wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This is an example of a pull quote%20localhost:4000/a-fox-in-space.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This is an example of a pull quote”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.&lt;/p&gt;
-
-&lt;p&gt;Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…&lt;/p&gt;
-</description>
-        <pubDate>Tue, 27 Sep 2016 00:00:00 -0500</pubDate>
-        <link>localhost:4000/a-fox-in-space.html</link>
-        <guid isPermaLink="true">localhost:4000/a-fox-in-space.html</guid>
-        
-        <category>Market Update</category>
-        
-        <category>Real Estate</category>
-        
-        <category>Buyer Tips</category>
-        
-        <category>Home Seller Tips</category>
         
         
       </item>
