@@ -9,8 +9,8 @@ enclosure:
 pullquote: Pre-marketing helps generate excitement before you list your home.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/tad-wicker-screenshot-premarketing-youtube.jpg
 youtube_code: GXP6RffKk-E
 ---
 
