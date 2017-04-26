@@ -69,7 +69,7 @@ socials:
   zillow_url:
   trulia_url:
   yelp_url:
-  podcast_url:
+  podcast_url: https://itunes.apple.com/us/podcast/vyral-test-podcast/id1230142324?mt=2
 
 podcast:
   title: Vyral Test Podcast
