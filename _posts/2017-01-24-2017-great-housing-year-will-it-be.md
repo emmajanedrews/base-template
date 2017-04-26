@@ -4,7 +4,7 @@ title: '2017: Great Housing Year, Will It Be?'
 date: 2017-01-24 00:00:00
 tags:
   - Market Update
-excerpt: 'We’re going to have a good year. The question is: will it going to be a great year?'
+excerpt: 'We’re going to have a good year. The question is: will it be a great year?'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
