@@ -15,7 +15,7 @@ youtube_code:
 ---
 
 
-We’re going to have a good year. The question is: will it going to be a great year?
+We’re going to have a good year. The question is: will it be a great year?
 
 Consumer confidence is through the roof. That means people are feeling good about the economy. They’re feeling good about their own personal finances. And that means that people are going to be moving out of the house they’re currently in, moving into a bigger home, maybe downsizing where they are and buying a vacation home, either in the mountains or on the water. Things are going to… People just feel good right now. Now, part of the reason, as we’ll explain in some of these news clips, that people are feeling good, is that after the election, they see the country going in a very positive direction.
 
