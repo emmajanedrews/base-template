@@ -23,6 +23,7 @@ client:
   phone2: 720-260-0789
   phone2_type: Cell
   email: brian@briancanady.com
+  email2: tiffany@buyspring.com
   url: http://www.buysprings.com
 
 CTAs:
@@ -42,14 +43,14 @@ sidebar_CTA:
 lender:
   show_section: true
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
-  logo_path: /img/logo.png
+  headshot_path: /img/lender-headshot.jpg
+  logo_path: /img/lender-logo.png
   logo_path_2:
   name: Tim Chase
   brand: 719 Lending
   phone: 719-231-4893
   email: contacttimchase@gmail.com
-  url: 
+  url:
 
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
@@ -66,7 +67,7 @@ socials:
   linkedin_url: https://www.linkedin.com/in/briancanady/
   gplus_url: https://plus.google.com/u/0/b/108693056410575195716/+Buysprings?_ga=1.3364146.325397046.1493055869
   youtube_url: https://www.youtube.com/channel/UCZTBz55B8IUcMppXvC8RIzQ
-  twitter_url: https://twitter.com/briancanady
+  twitter_url: https://twitter.com/buywithtiffany
   instagram_url:
   pinterest_url:
   zillow_url: https://www.zillow.com/profile/Tiffany-and-Brian-Canady/
