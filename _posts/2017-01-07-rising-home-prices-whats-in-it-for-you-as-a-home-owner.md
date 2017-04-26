@@ -10,7 +10,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/images.jpg
+youtube_alternate_image:
 youtube_code:
 ---
 
@@ -36,5 +36,5 @@ The added equity is helping families put their children through college, and eve
 **Bottom Line**
 {: .present-before-paste}
 
-[CoreLogic](http://www.corelogic.com/search.aspx?q=rising%20home%20prices%202017&amp;start=1)&nbsp;predicts that home prices will appreciate by another 5% by this time next year. If you are a homeowner looking to take advantage of your home equity by moving up to your dream home, let's discuss your options!
+[CoreLogic](http://www.corelogic.com/search.aspx?q=rising%20home%20prices%202017&amp;start=1) predicts that home prices will appreciate by another 5% by this time next year. If you are a homeowner looking to take advantage of your home equity by moving up to your dream home, let's discuss your options!
 {: .present-before-paste}
