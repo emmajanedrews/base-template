@@ -5,7 +5,7 @@ date: 2016-11-23 16:34:00
 tags:
   - Real Estate
 excerpt: There are many Realtors out there for you to choose from. How do you know which Realtor you should work with?
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Andrew+Ford/Utah+Real+Estate+Agent-+How+to+choose+the+best+Realtor.mp4'
 pullquote: Look for a Realtor who has the heart of a teacher.
 enclosure_type: video/mp4
 enclosure_time:
