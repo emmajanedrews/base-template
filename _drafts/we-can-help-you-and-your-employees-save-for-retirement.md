@@ -3,6 +3,9 @@ layout: post
 title: We Can Help You and Your Employees Save for Retirement
 date: 2017-04-26 12:00:00
 tags:
+  - 401K
+  - Financial Consultant
+  - Retirement Plans
 excerpt: '85% of employees won’t be ready to retire financially when the time comes. Here’s how you can make sure that doesn’t happen to you or your employees.'
 enclosure:
 pullquote: We have put all our expert advice in one place.
@@ -18,9 +21,9 @@ youtube_code: ugIdyq07aXg
 
 Imagine you’re getting ready to go on a great vacation and as your plane gets ready for takeoff, the flight attendant says, “Ladies and gentlemen, the captain would like me to inform you that there is an 85% chance that we will not get you to your destination on time and safely.” Are you going to stay on that flight? No way! Not with an 85% chance of failure!
 
-What we have learned in our 30 years of experience working with 401ks is that 85% of your employees have an **85% chance of not making it to retirement on time and safely.**That’s what this series is going to be all about.&nbsp;
+What we have learned in our 30 years of experience working with 401ks is that 85% of your employees have an **85% chance of not making it to retirement on time and safely.**That’s what this series is going to be all about.
 
-We have written a book called “Tracking Retirement” where we used our experience to put all the secrets to creating a successful 401k plan together in one place for both you and your participants. Our goal is to help you help them to create paychecks for life for themselves.&nbsp;
+We have written a book called “Tracking Retirement” where we used our experience to put all the secrets to creating a successful 401k plan together in one place for both you and your participants. Our goal is to help you help them to create paychecks for life for themselves.
 
 {% include pullquote.html %}
 
