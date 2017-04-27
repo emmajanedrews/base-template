@@ -4,7 +4,7 @@ title: Take a Look at This Beautiful Coastal Park
 tags:
   - Venue Reviews
 excerpt: Today I’m coming to you from the beautiful Emerald Coast.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Nathan+Abbott/videoplayback.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -22,6 +22,6 @@ Today I’m coming to you from the beautiful Emerald Coast. My son and I are at 
 
 If you have any questions, please feel free to give me a call or send me an email. I look forward to hearing from you!
 
-[Get directions to or learn more about Topsail Gulf Front State Park.](https://www.floridastateparks.org/park/Topsail-Hill){:target="_blank"}
+[Get directions to or learn more about Topsail Gulf Front State Park.](https://www.floridastateparks.org/park/Topsail-Hill)
 
 ![](/uploads/versions/top-comp-resize---x----1003-292x---.jpg)
