@@ -1,71 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title></title>
-    <link>localhost:5000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:5000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.</description>
+    <title>Greater Calgary Group - Podcast about Real Estate</title>
+    <link>http://yycrealestateblog.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://yycrealestateblog.com"/>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from the Greater Calgary Group - your professional Calgary Real Estate Agents.</description>
     <language>en</language>
-    <managingEditor></managingEditor>
-    <lastBuildDate>2016-11-14 13:19:11 -0600</lastBuildDate>
-    <media:copyright></media:copyright>
-    <media:thumbnail url="localhost:5000"/>
-    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
+    <managingEditor>Greater Calgary Group</managingEditor>
+    <lastBuildDate>2017-04-27 15:47:11 -0500</lastBuildDate>
+    <media:copyright>Greater Calgary Group</media:copyright>
+    <media:thumbnail url="http://yycrealestateblog.com/img/podcast.png"/>
+    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Calgary, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
       <itunes:email>office@greatercalgarygroup.com</itunes:email>
-      <itunes:name></itunes:name>
+      <itunes:name>Greater Calgary Group</itunes:name>
     </itunes:owner>
-    <itunes:author></itunes:author>
+    <itunes:author>Greater Calgary Group</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:5000"/>
-    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.</itunes:summary>
+    <itunes:image href="http://yycrealestateblog.com/img/podcast.png"/>
+    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Calgary, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Greater Calgary Area Real Estate Market</itunes:subtitle>
+    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from the Greater Calgary Group - your professional Calgary Real Estate Agents.</itunes:summary>
       <itunes:category text="News &amp; Politics"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>localhost:5000/this-is-a-test.html</link>
-        
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
+        <title>10 Secrets Every Homebuyer Deserves to Know</title>
+        <link>http://yycrealestateblog.com/10-secrets-every-homebuyer-deserves-to-know.html</link>
         
           <category>Buyer Tips</category>
         
-          <category>Home Seller Tips</category>
-        
-        <author></author>
-        <pubDate>2016-10-04 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <author>Greater Calgary Group</author>
+        <pubDate>2017-04-13 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Greater+Calgary+Group/Greater+Calgary+Group-+10+secrets+for+new+construction+homebuyers.mp4</guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+Most homes up for sale on the market are resale homes, but one out of every four homebuyers opts for a brand new home. New and resale homes each come with their own advantages.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+So how do you know which is the right choice for you?
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+On average, resale homes are less expensive and generally have the warmth and feeling of an established neighborhood. New homes, on the other hand, offer modern energy efficiency, innovative use of space, and everything is new—including the neighbors.
 
-“This is an example of a pull quote”
+Determining which option is best for you depends on many things from your tastes to your family makeup and your finances.
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+“This report is full of secrets that most homebuyers don’t know and builders won’t divulge.”
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+Fortunately, there’s a new special report recently released that shares 10 secrets that every buyer should know.
+
+If you’re looking to buy a new home, there are 10 secrets that we wanted to let you in on. These are secrets that most homebuyers don’t know and builders won’t divulge.
+
+Click here to see the full report
+
+This report will undoubtedly impact your decision to buy a new home or a resale property.
+
+If you have any other questions about the market here in the Calgary, don’t hesitate to give us a call or send us an email soon. We’re here to help!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:5000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Greater+Calgary+Group/Greater+Calgary+Group-+10+secrets+for+new+construction+homebuyers.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://yycrealestateblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Greater+Calgary+Group/Greater+Calgary+Group-+10+secrets+for+new+construction+homebuyers.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:subtitle>Thinking about buying a new home? A recent report lets you in on 10 secrets that builders won't tell you that will help you decide which home to buy.</itunes:subtitle>
+        <itunes:author>Greater Calgary Group</itunes:author>
+        <itunes:summary>Thinking about buying a new home? A recent report lets you in on 10 secrets that builders won't tell you that will help you decide which home to buy.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Calgary, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>this is a test</title>
-        <link>localhost:5000/a-fox-in-space.html</link>
+        <title>How to Buy a Home With Almost No Money Down</title>
+        <link>http://yycrealestateblog.com/how-to-buy-a-home-with-almost-no-money-down.html</link>
         
           <category>Market Update</category>
         
@@ -75,36 +77,166 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
         
           <category>Home Seller Tips</category>
         
-        <author></author>
-        <pubDate>2016-09-28 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <author>Greater Calgary Group</author>
+        <pubDate>2017-03-24 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Greater+Calgary+Group/Greater+Calgary+Group-+How+to+Buy+a+Home+With+Almost+No+Money+Down.mp4</guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+Coming up with an adequate down payment is perceived as an insurmountable barrier to many who wish to buy a home. However, there is a new homeownership program that lowers this barrier for qualified buyers.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+“End the waiting game and enter the real estate market!”
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+Regardless of whether you are renting and looking to buy your first home or if you have owned a home before, this program can help you purchase a home with little to no money down. You don’t need $20,000 or more for a down payment, so don’t hesitate to enter the market.
 
-“This is an example of a pull quote”
+After all, why not build your own equity instead of paying your landlord’s mortgage? Industry insiders have prepared a new special report called, “How to Buy a Home With Little or No Money Down” which explains how this new, innovative program can get you into the market immediately.
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+End the waiting by requesting your copy of this report here. If you have any other questions, please don’t hesitate to give me a call or send me an email. I would be happy to help you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:5000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Greater+Calgary+Group/Greater+Calgary+Group-+How+to+Buy+a+Home+With+Almost+No+Money+Down.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://yycrealestateblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Greater+Calgary+Group/Greater+Calgary+Group-+How+to+Buy+a+Home+With+Almost+No+Money+Down.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:subtitle>Don’t hesitate to enter the market because of the down payment. There is a new program available to homebuyers that can help you purchase a home with little to no money down.</itunes:subtitle>
+        <itunes:author>Greater Calgary Group</itunes:author>
+        <itunes:summary>Don’t hesitate to enter the market because of the down payment. There is a new program available to homebuyers that can help you purchase a home with little to no money down.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Calgary, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
-    <copyright></copyright>
-    <media:credit role="author"></media:credit>
+      <item>
+        <title>Where Can You Find the Best Homes on the Market?</title>
+        <link>http://yycrealestateblog.com/where-can-you-find-the-best-homes-on-the-market.html</link>
+        
+          <category>Buyer Tips</category>
+        
+        <author>Greater Calgary Group</author>
+        <pubDate>2017-02-23 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Greater+Calgary+Group/Greater+Calgary+Group-+A+hot+list+for+first-time+homebuyers.mp4</guid>
+        <description>
+
+Are you a first-time homebuyer? Affordable homes in desirable locations sell quickly, so timing is very important. You need to be ready to act when the right house comes along. Our hot list for first-time homebuyers gives you the information you need in order to be prepared.
+
+How does it work? You look at a free report with photos that identifies the best buys in the marketplace in your desired price range and location. This insider information is sent to you in a simple and efficient format at no cost or obligation.
+
+“This list will give you a huge advantage over other buyers in the marketplace.”
+
+You can request this free, first-time homebuyers hot list by visiting www.buyershotlist.ca and filling out the criteria.
+
+If you have any questions about how this list can help you or you’re thinking about buying or selling a home, feel free to reach out to us by phone or email. We’d be happy to help!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Greater+Calgary+Group/Greater+Calgary+Group-+A+hot+list+for+first-time+homebuyers.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://yycrealestateblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Greater+Calgary+Group/Greater+Calgary+Group-+A+hot+list+for+first-time+homebuyers.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>We have a hot list for first-time homebuyers that features all the best new properties in all the most desirable locations. Here’s where you can find it.</itunes:subtitle>
+        <itunes:author>Greater Calgary Group</itunes:author>
+        <itunes:summary>We have a hot list for first-time homebuyers that features all the best new properties in all the most desirable locations. Here’s where you can find it.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Calgary, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to Get Your Agent to Work 2x Harder</title>
+        <link>http://yycrealestateblog.com/how-to-get-your-agent-to-work-2x-harder.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Greater Calgary Group</author>
+        <pubDate>2017-02-02 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Greater+Calgary+Group/Greater+Calgary+Group-+Get+an+agent+who+works+harder.mp4</guid>
+        <description>
+
+Most agents operate a one-person show and they are probably breaking their backs trying to do a good job for their clients. Most agents couldn’t work harder than they are already working.
+
+Sometimes, clients can actually suffer from their agent’s good intentions. The fact is, you may be sympathetic to the fact that your agent is working as hard as humanly possible, but if the quality and profitability of your home sale suffers as a result of them trying to do everything themselves, you have the right to feel cheated.
+
+This is why we have built a team of professionals to help us be in 10 places at once and do 10 things at the same time, enhancing the quality of service we can deliver to our clients. This is how other professionals like your banks and lawyers run their businesses. On top of that, we have used cutting-edge technology to dramatically improve the speed, efficiency, and innovative capabilities of every part of the service we deliver.
+
+“Our clients’ homes sell for more money in less time.”
+
+We don’t expect you to care about the fine details of the inner-workings of our office. What you should care about is that because of the highly unique way we have structured our real estate office, our clients’ homes sell for more money in less time.
+
+Our team sells a lot of homes. We have extensive home selling experience that puts more money in our clients’ pockets. To find out more about how our team approach can make you more successful in the real estate market, simply visit www.getmorewithus.com and fill out the form. We’ll be in touch!
+
+If you have any questions for us, don’t hesitate to give us a call or send us an email. We would love to hear from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Greater+Calgary+Group/Greater+Calgary+Group-+Get+an+agent+who+works+harder.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://yycrealestateblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Greater+Calgary+Group/Greater+Calgary+Group-+Get+an+agent+who+works+harder.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>A solo agent is just one person, and they’re limited by that. Our team isn’t.</itunes:subtitle>
+        <itunes:author>Greater Calgary Group</itunes:author>
+        <itunes:summary>A solo agent is just one person, and they’re limited by that. Our team isn’t.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Calgary, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Mistakes Should You Avoid When Buying?</title>
+        <link>http://yycrealestateblog.com/what-mistakes-should-you-avoid-when-buying.html</link>
+        
+          <category>Buyer Tips</category>
+        
+        <author>Greater Calgary Group</author>
+        <pubDate>2016-12-30 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Greater+Calgary+Group/Greater+Calgary+Group-+Move+up+buyers+beware.mp4</guid>
+        <description>
+
+We have just released a brand-new report that identifies the six most common and costly mistakes home buyers make when moving up to a larger home. When you are ready to move up, certain factors can make a situation more complicated than a first home purchase.
+
+Aside from the issue of financing, you also have to time the sale of your current home to avoid the real estate catch-22. This is when you have to either bear the financial burden of paying for two mortgages, or have to find a place to live temporarily between closings.
+
+“This report will help you make informed choices.”
+
+We have prepared a special free report for you titled “6 Mistakes to Avoid When Moving Up to a Larger Home.” To get your free copy, simply follow this link, enter your information, and you will have instant access.
+
+This report will help you make informed choices about the sale of your home before you put it on the market so that you will have a successful sale free of worry and complications.
+
+If you have any questions for us in the meantime, you can always give us a call or send us an email. We look forward to hearing from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Greater+Calgary+Group/Greater+Calgary+Group-+Move+up+buyers+beware.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://yycrealestateblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Greater+Calgary+Group/Greater+Calgary+Group-+Move+up+buyers+beware.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Home buying mistakes aren’t always made by first-time buyers. Move up buyers can fall victim to bad mistakes as well.</itunes:subtitle>
+        <itunes:author>Greater Calgary Group</itunes:author>
+        <itunes:summary>Home buying mistakes aren’t always made by first-time buyers. Move up buyers can fall victim to bad mistakes as well.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Calgary, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to Negotiate the Highest Sale Price for Your Calgary Home</title>
+        <link>http://yycrealestateblog.com/how-to-negotiate-the-highest-sale-price-for-your-calgary-home.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Greater Calgary Group</author>
+        <pubDate>2016-11-30 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Greater+Calgary+Group/Greater+Calgary+Group-+How+to+negotiate+your+home%E2%80%99s+best+price.mp4</guid>
+        <description>
+
+For most people, “getting top dollar” is number one on their list of goals when selling their home. These same people, however, feel ill-equipped to achieve this goal. Since various market factors can cause large swings, pricing a home is an imperfect science to begin with, and the skill of the person responsible for negotiating for the home can also impact the outcome of the transaction.
+
+However, negotiating effectively doesn’t have to be as difficult or scary as you would expect. Like anything else, if you have a proven system to follow and know the signals and language, you can successfully turn the tables in your favor. Who better to borrow these skills from than professional negotiators who sit across the table to try to out-bargain their opponents every day?
+
+“The art of negotiation doesn’t have to be difficult or scary.”
+
+The system we follow as professionals is outlined in a new, free special report for home sellers that explains the four most common mistakes sellers make when negotiating the sale price of their home. One local area resident credits the knowledge gained from the information revealed in this free special report with netting thousands more than their original asking price.
+
+To get this report, visit www.gettopdollar.ca and find out how you can get the highest possible price when you sell your home.
+
+If you’re thinking about buying or selling your home, visit our website, call us, or email us today. Remember—make it a great day!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Greater+Calgary+Group/Greater+Calgary+Group-+How+to+negotiate+your+home%E2%80%99s+best+price.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://yycrealestateblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Greater+Calgary+Group/Greater+Calgary+Group-+How+to+negotiate+your+home%E2%80%99s+best+price.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Negotiating the highest possible sale price for your home isn’t as difficult as you think. We have a proven system to share with you that can help you achieve this goal.</itunes:subtitle>
+        <itunes:author>Greater Calgary Group</itunes:author>
+        <itunes:summary>Negotiating the highest possible sale price for your home isn’t as difficult as you think. We have a proven system to share with you that can help you achieve this goal.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Calgary, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+    <copyright>Greater Calgary Group</copyright>
+    <media:credit role="author">Greater Calgary Group</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.</media:description>
+    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from the Greater Calgary Group - your professional Calgary Real Estate Agents.</media:description>
   </channel>
 </rss>

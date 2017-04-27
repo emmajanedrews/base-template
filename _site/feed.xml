@@ -1,33 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Base Template</title>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.</description>
-    <link>localhost:5000/</link>
-    <atom:link href="localhost:5000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Nov 2016 13:19:11 -0600</pubDate>
-    <lastBuildDate>Mon, 14 Nov 2016 13:19:11 -0600</lastBuildDate>
+    <title>Greater Calgary Group Real Estate Video Blog</title>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from the Greater Calgary Group - your professional Calgary Real Estate Agents.</description>
+    <link>http://yycrealestateblog.com/</link>
+    <atom:link href="http://yycrealestateblog.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 27 Apr 2017 15:47:11 -0500</pubDate>
+    <lastBuildDate>Thu, 27 Apr 2017 15:47:11 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>this is a test post</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SFFy_drFrZs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>10 Secrets Every Homebuyer Deserves to Know</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/tlucGLGC_ks&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps &lt;strong&gt;gastropub marfa r&lt;/strong&gt;etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.&lt;/p&gt;
+&lt;p&gt;Most homes up for sale on the market are resale homes, but one out of every four homebuyers opts for a brand new home. New and resale homes each come with their own advantages.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Bushwick&lt;/em&gt; &lt;a href=&quot;'http://google.com'&quot;&gt;marfa&lt;/a&gt; wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.&lt;/p&gt;
+&lt;p&gt;So how do you know which is the right choice for you?
+&lt;br /&gt;
+&lt;br /&gt;On average, resale homes are less expensive and generally have the warmth and feeling of an established neighborhood. New homes, on the other hand, offer modern energy efficiency, innovative use of space, and everything is new—including the neighbors.&lt;/p&gt;
 
-&lt;p&gt;Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.&lt;/p&gt;
+&lt;p&gt;Determining which option is best for you depends on many things from your tastes to your family makeup and your finances.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This is an example of a pull quote%20localhost:5000/this-is-a-test.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This is an example of a pull quote”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This report is full of secrets that most homebuyers don't know and builders won't divulge.%20http://yycrealestateblog.com/10-secrets-every-homebuyer-deserves-to-know.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This report is full of secrets that most homebuyers don’t know and builders won’t divulge.”&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.&lt;/p&gt;
+&lt;p&gt;Fortunately, there’s a new special report recently released that shares 10 secrets that every buyer should know.&lt;/p&gt;
 
-&lt;p&gt;Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…&lt;/p&gt;
+&lt;p&gt;If you’re looking to buy a new home, there are 10 secrets that we wanted to let you in on. &lt;strong&gt;These are secrets that most homebuyers don’t know and builders won’t divulge.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.greatercalgarygroup.com/info/new-homes-vs-resale&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Click here to see the full report&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This report will undoubtedly impact your decision to buy a new home or a resale property.&lt;/p&gt;
+
+&lt;p&gt;If you have any other questions about the market here in the Calgary, don’t hesitate to give us a call or send us an email soon. We’re here to help!&lt;/p&gt;
 </description>
-        <pubDate>Tue, 04 Oct 2016 00:00:00 -0500</pubDate>
-        <link>localhost:5000/this-is-a-test.html</link>
-        <guid isPermaLink="true">localhost:5000/this-is-a-test.html</guid>
+        <pubDate>Thu, 13 Apr 2017 00:00:00 -0500</pubDate>
+        <link>http://yycrealestateblog.com/10-secrets-every-homebuyer-deserves-to-know.html</link>
+        <guid isPermaLink="true">http://yycrealestateblog.com/10-secrets-every-homebuyer-deserves-to-know.html</guid>
+        
+        <category>Buyer Tips</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>How to Buy a Home With Almost No Money Down</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/5XObF4aveBc&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Coming up with an adequate down payment is perceived as an insurmountable barrier to many who wish to buy a home. However, there is a new homeownership program that lowers this barrier for qualified buyers.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=End the waiting game and enter the real estate market!%20http://yycrealestateblog.com/how-to-buy-a-home-with-almost-no-money-down.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“End the waiting game and enter the real estate market!”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Regardless of whether you are renting and looking to buy your first home or if you have owned a home before, this program can help you purchase a home with little to no money down. You don’t need $20,000 or more for a down payment, so don’t hesitate to enter the market.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;After all, why not build your own equity instead of paying your landlord’s mortgage?&lt;/strong&gt; Industry insiders have prepared a new special report called, “How to Buy a Home With Little or No Money Down” which explains how this new, innovative program can get you into the market immediately.&lt;/p&gt;
+
+&lt;p&gt;End the waiting by requesting your copy of this report &lt;a href=&quot;http://www.greatercalgarygroup.com/info/buy-with-zero-down&quot;&gt;here.&lt;/a&gt; If you have any other questions, please don’t hesitate to give me a call or send me an email. I would be happy to help you!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 24 Mar 2017 00:00:00 -0500</pubDate>
+        <link>http://yycrealestateblog.com/how-to-buy-a-home-with-almost-no-money-down.html</link>
+        <guid isPermaLink="true">http://yycrealestateblog.com/how-to-buy-a-home-with-almost-no-money-down.html</guid>
         
         <category>Market Update</category>
         
@@ -41,30 +72,99 @@
       </item>
     
       <item>
-        <title>this is a test</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SFFy_drFrZs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>Where Can You Find the Best Homes on the Market?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/EqeBylDNU_4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps &lt;strong&gt;gastropub marfa r&lt;/strong&gt;etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.&lt;/p&gt;
+&lt;p&gt;Are you a first-time homebuyer? Affordable homes in desirable locations sell quickly, so timing is very important. You need to be ready to act when the right house comes along. &lt;strong&gt;Our hot list for first-time homebuyers gives you the information you need in order to be prepared.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Bushwick&lt;/em&gt; &lt;a href=&quot;'http://google.com'&quot;&gt;marfa&lt;/a&gt; wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.&lt;/p&gt;
+&lt;p&gt;How does it work? You look at a free report with photos that identifies the best buys in the marketplace in your desired price range and location. This insider information is sent to you in a simple and efficient format at no cost or obligation.&lt;/p&gt;
 
-&lt;p&gt;Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This list will give you a huge advantage over other buyers in the marketplace.%20http://yycrealestateblog.com/where-can-you-find-the-best-homes-on-the-market.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This list will give you a huge advantage over other buyers in the marketplace.”&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This is an example of a pull quote%20localhost:5000/a-fox-in-space.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This is an example of a pull quote”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can request this free, first-time homebuyers hot list by visiting &lt;a href=&quot;http://www.greatercalgarygroup.com/info/first-time-buyers-hotlist&quot;&gt;&lt;strong&gt;www.buyershotlist.ca&lt;/strong&gt;&lt;/a&gt; and filling out the criteria.&lt;/p&gt;
 
-&lt;p&gt;Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.&lt;/p&gt;
-
-&lt;p&gt;Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…&lt;/p&gt;
+&lt;p&gt;If you have any questions about how this list can help you or you’re thinking about buying or selling a home, feel free to reach out to us by phone or email. We’d be happy to help!&lt;/p&gt;
 </description>
-        <pubDate>Wed, 28 Sep 2016 00:00:00 -0500</pubDate>
-        <link>localhost:5000/a-fox-in-space.html</link>
-        <guid isPermaLink="true">localhost:5000/a-fox-in-space.html</guid>
+        <pubDate>Thu, 23 Feb 2017 00:00:00 -0600</pubDate>
+        <link>http://yycrealestateblog.com/where-can-you-find-the-best-homes-on-the-market.html</link>
+        <guid isPermaLink="true">http://yycrealestateblog.com/where-can-you-find-the-best-homes-on-the-market.html</guid>
         
-        <category>Market Update</category>
+        <category>Buyer Tips</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>How to Get Your Agent to Work 2x Harder</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/u3Uvqo4VF-M&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Most agents operate a one-person show and they are probably breaking their backs trying to do a good job for their clients. &lt;strong&gt;Most agents couldn’t work harder than they are already working.&lt;/strong&gt;
+&lt;br /&gt;
+&lt;br /&gt;Sometimes, clients can actually suffer from their agent’s good intentions. The fact is, you may be sympathetic to the fact that your agent is working as hard as humanly possible, but if the quality and profitability of your home sale suffers as a result of them trying to do everything themselves, you have the right to feel cheated.
+&lt;br /&gt;
+&lt;br /&gt;&lt;strong&gt;This is why we have built a team of professionals to help us be in 10 places at once and do 10 things at the same time,&lt;/strong&gt; enhancing the quality of service we can deliver to our clients. This is how other professionals like your banks and lawyers run their businesses. On top of that, we have used cutting-edge technology to dramatically improve the speed, efficiency, and innovative capabilities of every part of the service we deliver.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Our clients' homes sell for more money in less time.%20http://yycrealestateblog.com/how-to-get-your-agent-to-work-2x-harder.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Our clients’ homes sell for more money in less time.”&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;We don’t expect you to care about the fine details of the inner-workings of our office. What you should care about is that &lt;strong&gt;because of the highly unique way we have structured our real estate office, our clients’ homes sell for more money in less time.&lt;/strong&gt;
+&lt;br /&gt;
+&lt;br /&gt;Our team sells a lot of homes. We have extensive home selling experience that puts more money in our clients’ pockets. To find out more about how our team approach can make you more successful in the real estate market, simply visit &lt;a href=&quot;http://www.greatercalgarygroup.com/info/our-team&quot;&gt;www.getmorewithus.com&lt;/a&gt; and fill out the form. We’ll be in touch!
+&lt;br /&gt;
+&lt;br /&gt;If you have any questions for us, don’t hesitate to give us a call or send us an email. We would love to hear from you.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 02 Feb 2017 00:00:00 -0600</pubDate>
+        <link>http://yycrealestateblog.com/how-to-get-your-agent-to-work-2x-harder.html</link>
+        <guid isPermaLink="true">http://yycrealestateblog.com/how-to-get-your-agent-to-work-2x-harder.html</guid>
         
         <category>Real Estate</category>
         
+        
+      </item>
+    
+      <item>
+        <title>What Mistakes Should You Avoid When Buying?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/1iSLfPLpAF0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;We have just released a brand-new report that identifies the six most common and costly mistakes home buyers make when moving up to a larger home. When you are ready to move up, certain factors can make a situation more complicated than a first home purchase.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Aside from the issue of financing, you also have to time the sale of your current home to avoid the real estate catch-22.&lt;/strong&gt; This is when you have to either bear the financial burden of paying for two mortgages, or have to find a place to live temporarily between closings.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This report will help you make informed choices.%20http://yycrealestateblog.com/what-mistakes-should-you-avoid-when-buying.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This report will help you make informed choices.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;We have prepared a special free report for you titled “6 Mistakes to Avoid When Moving Up to a Larger Home.”&lt;/strong&gt; To get your free copy, simply follow &lt;a href=&quot;http://www.greatercalgarygroup.com/info/6-buyer-mistakes&quot;&gt;this link&lt;/a&gt;, enter your information, and you will have instant access.&lt;/p&gt;
+
+&lt;p&gt;This report will help you make informed choices about the sale of your home before you put it on the market so that you will have a successful sale free of worry and complications.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;If you have any questions for us in the meantime, you can always give us a call or send us an email. We look forward to hearing from you.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 30 Dec 2016 00:00:00 -0600</pubDate>
+        <link>http://yycrealestateblog.com/what-mistakes-should-you-avoid-when-buying.html</link>
+        <guid isPermaLink="true">http://yycrealestateblog.com/what-mistakes-should-you-avoid-when-buying.html</guid>
+        
         <category>Buyer Tips</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>How to Negotiate the Highest Sale Price for Your Calgary Home</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/z1xNk3BToWE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;For most people, “getting top dollar” is number one on their list of goals when selling their home. These same people, however, feel ill-equipped to achieve this goal. Since various market factors can cause large swings, pricing a home is an imperfect science to begin with, and the skill of the person responsible for negotiating for the home can also impact the outcome of the transaction.&lt;/p&gt;
+
+&lt;p&gt;However, negotiating effectively doesn’t have to be as difficult or scary as you would expect. Like anything else, if you have a proven system to follow and know the signals and language, you can successfully turn the tables in your favor. Who better to borrow these skills from than professional negotiators who sit across the table to try to out-bargain their opponents every day?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=The art of negotiation doesn’t have to be difficult or scary.%20http://yycrealestateblog.com/how-to-negotiate-the-highest-sale-price-for-your-calgary-home.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“The art of negotiation doesn’t have to be difficult or scary.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The system we follow as professionals is outlined in a new, free special report for home sellers that explains the four most common mistakes sellers make when negotiating the sale price of their home. One local area resident credits the knowledge gained from the information revealed in this free special report with netting thousands more than their original asking price.&lt;/p&gt;
+
+&lt;p&gt;To get this report, visit &lt;a href=&quot;http://www.greatercalgarygroup.com/info/getting-the-best-price&quot;&gt;www.gettopdollar.ca&lt;/a&gt; and find out how you can get the highest possible price when you sell your home.&lt;/p&gt;
+
+&lt;p&gt;If you’re thinking about buying or selling your home, visit our website, call us, or email us today. Remember—make it a great day!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 30 Nov 2016 00:00:00 -0600</pubDate>
+        <link>http://yycrealestateblog.com/how-to-negotiate-the-highest-sale-price-for-your-calgary-home.html</link>
+        <guid isPermaLink="true">http://yycrealestateblog.com/how-to-negotiate-the-highest-sale-price-for-your-calgary-home.html</guid>
         
         <category>Home Seller Tips</category>
         
