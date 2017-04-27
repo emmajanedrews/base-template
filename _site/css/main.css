@@ -378,7 +378,7 @@ th {
 * 12/29/2014
 */
 /* Table of contents
-––––––––––––––––––––––––––––––––––––––––––––––––––
+╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤
 - Grid
 - Base Styles
 - Typography
@@ -394,7 +394,7 @@ th {
 - Media Queries
 */
 /* Grid
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
 .container {
   position: relative;
   width: 100%;
@@ -531,7 +531,7 @@ th {
   .offset-by-one-half.columns {
     margin-left: 52%; } }
 /* Base Styles
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
 /* NOTE
 html is set to 62.5% so that all the REM measurements throughout Skeleton
 are based on 10px sizing. So basically 1.5rem = 15px :) */
@@ -546,7 +546,7 @@ body {
   color: #222; }
 
 /* Typography
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
 h1,
 h2,
 h3,
@@ -610,7 +610,7 @@ p {
   margin-top: 0; }
 
 /* Buttons
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
 .button, .button-ghost,
 button,
 input[type="button"],
@@ -669,7 +669,7 @@ input[type="submit"].button-primary:hover {
   background-color: #1EAEDB; }
 
 /* Forms
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
 input[type="email"],
 input[type="number"],
 input[type="password"],
@@ -738,7 +738,7 @@ label > .label-body {
   font-weight: normal; }
 
 /* Lists
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
 ul {
   list-style: circle inside; }
 
@@ -761,7 +761,7 @@ li {
   margin-bottom: 1rem; }
 
 /* Code
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
 code {
   padding: 0.2rem 0.5rem;
   margin: 0 0.2rem;
@@ -777,7 +777,7 @@ pre > code {
   white-space: pre; }
 
 /* Tables
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
 td,
 th {
   padding: 12px 15px;
@@ -793,7 +793,7 @@ th:last-child {
   padding-right: 0; }
 
 /* Spacing
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
 .button, .button-ghost,
 button {
   margin-bottom: 1rem; }
@@ -816,7 +816,7 @@ ul {
   margin-bottom: 2.5rem; }
 
 /* Utilities
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
 .u-full-width {
   width: 100%;
   box-sizing: border-box; }
@@ -832,7 +832,7 @@ ul {
   float: left; }
 
 /* Misc
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
 hr {
   margin-top: 3rem;
   margin-bottom: 3.5rem;
@@ -840,7 +840,7 @@ hr {
   border-top: 1px solid #E1E1E1; }
 
 /* Clearing
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
 /* Self Clearing Goodness */
 .container:after,
 .row:after,
@@ -850,7 +850,7 @@ hr {
   clear: both; }
 
 /* Media Queries
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
 /*
 Note: The best way to structure the use of media queries is to create the queries
 near the relevant code. For example, if you wanted to change the styles for buttons
@@ -978,7 +978,7 @@ html[xmlns] .flexslider .slides {
   overflow: hidden;
   opacity: 1;
   cursor: pointer;
-  color: #39D52D;
+  color: #39d52d;
   text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.3);
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out; }
@@ -988,7 +988,7 @@ html[xmlns] .flexslider .slides {
   font-size: 40px;
   display: inline-block;
   content: '\f001';
-  color: #39D52D;
+  color: #39d52d;
   text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.3); }
 
 .flex-direction-nav a.flex-next:before {
@@ -1184,7 +1184,7 @@ html[xmlns] .flexslider .slides {
   max-height: 0; }
 
 .welcome-box {
-  background: #39D52D;
+  background: #39d52d;
   padding: 20px 0px;
   color: white;
   margin-top: -21px;
@@ -1198,7 +1198,7 @@ html[xmlns] .flexslider .slides {
   opacity: 1;
   -webkit-transform: translateX(0);
           transform: translateX(0);
-  background: #39D52D;
+  background: #39d52d;
   padding: 20px 0px;
   color: white;
   margin-bottom: 20px;
@@ -1275,7 +1275,7 @@ html[xmlns] .flexslider .slides {
 
 .jp-audio {
   border: 0;
-  color: #39D52D;
+  color: #39d52d;
   font-family: 'Source Sans Pro',sans-serif;
   font-size: 0;
   line-height: 0;
@@ -1310,7 +1310,7 @@ html[xmlns] .flexslider .slides {
       background-color: transparent; }
     .jp-audio .jp-controls a {
       background-color: transparent;
-      color: #39D52D;
+      color: #39d52d;
       display: inline-block;
       line-height: 40px;
       text-align: center;
@@ -1332,7 +1332,7 @@ html[xmlns] .flexslider .slides {
       height: 100%;
       width: 0; }
   .jp-audio .timekeeper {
-    color: #39D52D;
+    color: #39d52d;
     font-size: 11px;
     text-align: right; }
   .jp-audio .jp-no-solution {
@@ -1351,13 +1351,13 @@ html[xmlns] .flexslider .slides {
   background: #5b5b5b;
   width: 100%; }
   .navbar-andross .cta {
-    background: #39D52D;
+    background: #39d52d;
     color: white;
     padding: 1.3rem 2rem;
     text-transform: capitalize;
     font-size: 2rem;
     font-weight: 300;
-    border: 2px solid #39D52D;
+    border: 2px solid #39d52d;
     -webkit-transition: 0.3s;
     transition: 0.3s; }
     .navbar-andross .cta:hover {
@@ -1374,12 +1374,12 @@ html[xmlns] .flexslider .slides {
       -webkit-transform: translateY(0rem);
       transform: translateY(0rem); }
   .navbar-andross .cta2 {
-    color: #39D52D;
+    color: #39d52d;
     padding: 1.3rem 2rem;
     text-transform: capitalize;
     font-size: 2rem;
     font-weight: 300;
-    border: 2px solid #39D52D;
+    border: 2px solid #39d52d;
     -webkit-transition: 0.3s;
     transition: 0.3s; }
     .navbar-andross .cta2:hover {
@@ -1397,7 +1397,7 @@ html[xmlns] .flexslider .slides {
       transform: translateY(0rem); }
 
 .navbar-andross .navbar-brand {
-  color: #39D52D;
+  color: #39d52d;
   padding-top: 20px;
   padding-bottom: 33px;
   font-size: 20px;
@@ -1420,14 +1420,14 @@ html[xmlns] .flexslider .slides {
 .navbar-left > li > a {
   border: 0;
   background: transparent;
-  color: #39D52D;
+  color: #39d52d;
   margin-top: 15px; }
   .navbar-left > li > a:hover {
     background: transparent;
     color: #89e682; }
 
 .fa-bars {
-  color: #39D52D; }
+  color: #39d52d; }
 
 .navbar-toggle {
   margin-top: 20px; }
@@ -1459,7 +1459,7 @@ html[xmlns] .flexslider .slides {
     max-width: 70%; } }
 .catbloc li {
   font-size: 20px;
-  color: #39D52D;
+  color: #39d52d;
   list-style: none;
   padding-left: 30px; }
 
@@ -1531,12 +1531,12 @@ html {
 
 ::-moz-selection {
   text-shadow: none;
-  background: #39D52D;
+  background: #39d52d;
   color: white; }
 
 ::selection {
   text-shadow: none;
-  background: #39D52D;
+  background: #39d52d;
   color: white; }
 
 .site-logo, h1.site-title {
@@ -1669,7 +1669,7 @@ h6 {
   margin: 0 auto; }
 
 a {
-  color: #39D52D;
+  color: #39d52d;
   text-decoration: none; }
   a:hover {
     text-decoration: none;
@@ -1677,9 +1677,9 @@ a {
 
 .button, .button-ghost, button, input[type="button"], input[type="submit"] {
   color: white;
-  background: #39D52D;
+  background: #39d52d;
   padding: 1rem 2rem;
-  border: 1px solid #39D52D;
+  border: 1px solid #39d52d;
   border-radius: 0px; }
   .button:hover, .button-ghost:hover, button:hover, input[type="button"]:hover, input[type="submit"]:hover {
     background: #89e682;
@@ -1694,11 +1694,11 @@ a {
   .button-ghost:hover {
     background: rgba(255, 255, 255, 0.7);
     border: 1px solid white;
-    color: #39D52D; }
+    color: #39d52d; }
 
 .button-ghost.brand {
-  border-color: #39D52D;
-  color: #39D52D; }
+  border-color: #39d52d;
+  color: #39d52d; }
   .button-ghost.brand:hover {
     border-color: #89e682;
     color: #89e682; }
@@ -1738,7 +1738,7 @@ table tr, table td {
   width: 100%;
   color: #dadada; }
   .paginator-links svg {
-    fill: #39D52D;
+    fill: #39d52d;
     height: 2rem;
     width: 2rem; }
   .paginator-links .disabled {
@@ -1830,9 +1830,9 @@ table tr, table td {
   display: block; }
 
 .readlink > a {
-  background: #39D52D;
+  background: #39d52d;
   color: white;
-  border: 1px solid #39D52D;
+  border: 1px solid #39d52d;
   border-radius: 5px;
   padding: 10px 20px;
   margin-top: 20px;
@@ -2029,7 +2029,7 @@ table tr, table td {
     margin-top: 2rem; }
 
 .checkmark {
-  fill: #39D52D;
+  fill: #39d52d;
   -webkit-animation: checkmark 2s cubic-bezier(0.455, 0.03, 0.515, 0.955) forwards;
   animation: checkmark 2s cubic-bezier(0.455, 0.03, 0.515, 0.955) forwards; }
 
@@ -2060,7 +2060,7 @@ table tr, table td {
       padding: 0.3rem;
       display: inline-block; }
   .socials svg {
-    fill: #39D52D;
+    fill: #39d52d;
     height: 3.5rem;
     width: 3.5rem;
     border-radius: 50%;
@@ -2087,7 +2087,7 @@ table tr, table td {
   .about .socials svg {
     height: 5rem;
     width: 5rem;
-    fill: #39D52D; }
+    fill: #39d52d; }
     .about .socials svg:hover {
       fill: #89e682; }
 
@@ -2102,7 +2102,7 @@ table tr, table td {
     height: 3rem;
     width: 3rem;
     border-radius: 50%;
-    fill: #39D52D;
+    fill: #39d52d;
     -webkit-transition: 1s cubic-bezier(0.4, 0, 0.2, 1);
     -webkit-transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
@@ -2157,7 +2157,7 @@ table tr, table td {
     font-size: 18px;
     border: 1px solid #c7c7c7;
     background: rgba(255, 255, 255, 0.1);
-    color: #39D52D;
+    color: #39d52d;
     font-size: 2rem;
     padding: 2.4rem;
     display: inline-block;
@@ -2174,18 +2174,18 @@ table tr, table td {
       color: #c7c7c7; }
     .search-box .search-input:focus {
       background: white;
-      color: #39D52D;
+      color: #39d52d;
       -webkit-transform: translateY(-0.2rem);
       transform: translateY(-0.2rem); }
   .search-box .search-submit {
-    background: #39D52D;
+    background: #39d52d;
     color: white;
     padding: 0.9rem 2rem;
     text-transform: capitalize;
     font-size: 2rem;
     border-radius: 5px;
     font-weight: 300;
-    border: 2px solid #39D52D;
+    border: 2px solid #39d52d;
     -webkit-transition: 0.3s;
     transition: 0.3s; }
     .search-box .search-submit:hover {
@@ -2254,7 +2254,7 @@ table tr, table td {
   border-radius: 50%;
   width: 200px;
   height: 200px;
-  border: 3px solid #39D52D;
+  border: 3px solid #39d52d;
   margin: 10px auto 0 6rem;
   overflow: hidden; }
 
@@ -2279,12 +2279,12 @@ table tr, table td {
 
 .footer {
   background: #5a5a5a;
-  color: #fff;
+  color: #ffffff;
   padding: 2rem;
   text-align: center;
   font-size: 18px; }
   .footer hr {
-    border-top: 2px solid #39D52D; }
+    border-top: 2px solid #39d52d; }
   .footer address {
     font-style: normal; }
 
@@ -2298,7 +2298,7 @@ table tr, table td {
   text-align: center; }
 
 .vyral-logo {
-  fill: #39D52D;
+  fill: #39d52d;
   display: inline;
   height: 2rem;
   width: 2rem;
@@ -2320,7 +2320,7 @@ table tr, table td {
   display: none; }
 
 .expand {
-  color: #39D52D;
+  color: #39d52d;
   font-size: 20px;
   text-align: center;
   cursor: pointer; }
@@ -2392,7 +2392,7 @@ table tr, table td {
       -ms-flex-pack: justify;
           justify-content: space-between; }
   .testimonial-navigation a {
-    color: #39D52D;
+    color: #39d52d;
     font-size: 4rem;
     position: relative;
     z-index: 5;
@@ -2506,7 +2506,7 @@ table tr, table td {
   position: absolute;
   right: 1rem;
   top: 1rem;
-  color: #39D52D;
+  color: #39d52d;
   -webkit-transition: all 0.15s ease-out 0s;
   transition: all 0.15s ease-out 0s;
   cursor: pointer;
@@ -2528,7 +2528,7 @@ form textarea {
   padding: 0.5rem;
   border-radius: 5px; }
 form select {
-  border: 1px solid #39D52D;
+  border: 1px solid #39d52d;
   padding: 0.5rem;
   display: block; }
 
@@ -2537,14 +2537,14 @@ form select {
   margin: 0 auto; }
   .home-value input, .home-value textarea, .home-value select {
     width: 100%;
-    border: 1px solid #39D52D; }
+    border: 1px solid #39d52d; }
   .home-value fieldset {
     padding: 1.5rem;
     border-radius: 5px; }
   .home-value input[type="submit"] {
     font-size: inherit;
     padding: 1rem;
-    border: 3px solid #39D52D; }
+    border: 3px solid #39d52d; }
     .home-value input[type="submit"]:hover {
       border: 3px solid #89e682; }
 
@@ -2569,7 +2569,7 @@ form select {
   .contact-form input[type="submit"] {
     font-size: 1.5rem;
     padding: 1rem;
-    border: 3px solid #39D52D;
+    border: 3px solid #39d52d;
     border-radius: 5px; }
     .contact-form input[type="submit"]:hover {
       background: white;
@@ -2581,12 +2581,12 @@ form select {
       -webkit-transform: translateY(-0.2rem);
       transform: translateY(-0.2rem); }
     .contact-form input[type="submit"]:active {
-      box-shadow: 0 0 0 #39D52D;
+      box-shadow: 0 0 0 #39d52d;
       -webkit-transform: translateY(0rem);
       transform: translateY(0rem); }
 
 .newsletter {
-  background: #39D52D;
+  background: #39d52d;
   color: white;
   text-align: center;
   margin-top: 20px;
@@ -2604,7 +2604,7 @@ form select {
   .newsletter_optin input[type='email'] {
     background: rgba(255, 255, 255, 0.3);
     border: 1px solid white;
-    color: #39D52D;
+    color: #39d52d;
     font-size: 2rem;
     padding: 2.4rem;
     width: 70%;
@@ -2622,7 +2622,7 @@ form select {
       color: white; }
     .newsletter_optin input[type='email']:focus {
       background: white;
-      color: #39D52D;
+      color: #39d52d;
       -webkit-transform: translateY(-0.2rem);
       transform: translateY(-0.2rem); }
       .newsletter_optin input[type='email']:focus::-webkit-input-placeholder {
@@ -2634,7 +2634,7 @@ form select {
       .newsletter_optin input[type='email']:focus:-ms-input-placeholder {
         color: transparent; }
   .newsletter_optin input[type="submit"] {
-    background: #39D52D;
+    background: #39d52d;
     color: white;
     padding: 1.3rem 2rem;
     text-transform: capitalize;
@@ -2654,7 +2654,7 @@ form select {
       -webkit-transform: translateY(-0.2rem);
       transform: translateY(-0.2rem); }
     .newsletter_optin input[type="submit"]:active {
-      box-shadow: 0 0 0 #39D52D;
+      box-shadow: 0 0 0 #39d52d;
       -webkit-transform: translateY(0rem);
       transform: translateY(0rem); }
 
@@ -2677,7 +2677,7 @@ form select {
 .navbar-right li .cta {
   background: #fff;
   border-color: #fff;
-  color: #39D52D;
+  color: #39d52d;
   font-weight: bold; }
   .navbar-right li .cta:hover {
     color: #fff; }
