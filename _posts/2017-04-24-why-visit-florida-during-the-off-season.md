@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Visit Florida During the Offseason?
+title: Why Visit Florida During the Off-season?
 tags:
   - Real Estate
 excerpt: 'Although the summer is considered the “offseason” in Florida, it’s still a great time to visit. Here are all the benefits you’ll see during this time of year.'
@@ -18,7 +18,7 @@ youtube_code: V4Sb0kr5x2A
 
 How would you like to save 30% on a Florida vacation this summer? I’m here to show you how.
 
-We’re heading into the “offseason” here in Florida, but **summertime may just be the best time to come down to Florida for a family vacation or to look at homes if you’re interested in buying here**. The hustle and bustle of winter is over and we’re on island time now.
+We’re heading into the “off-season” here in Florida, but **summertime may just be the best time to come down to Florida for a family vacation or to look at homes if you’re interested in buying here**. The hustle and bustle of winter is over and we’re on island time now.
 
 Airfare and lodging are going to cost you about 30% less in the summer than it does in the winter. Home prices also tend to drop off a little bit heading into summer. Let’s just say sellers are in more of a laid-back negotiating mood. This time of year is when the golf is beautiful, the water is nice and warm, and Florida is a fantastic place to be.
 
