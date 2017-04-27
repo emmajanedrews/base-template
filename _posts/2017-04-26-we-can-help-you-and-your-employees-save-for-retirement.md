@@ -7,7 +7,7 @@ tags:
   - Financial Consultant
   - Retirement Plans
 excerpt: '85% of employees won’t be ready to retire financially when the time comes. Here’s how you can make sure that doesn’t happen to you or your employees.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Steve+Case/Videos/2017/We+Can+Help+You+and+Your+Employees+Save+for+Retirement+-.mp4'
 pullquote: We have put all our expert advice in one place.
 enclosure_type: video/mp4
 enclosure_time:
