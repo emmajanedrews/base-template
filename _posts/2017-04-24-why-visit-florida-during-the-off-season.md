@@ -3,7 +3,7 @@ layout: post
 title: Why Visit Florida During the Off-season?
 tags:
   - Real Estate
-excerpt: 'Although the summer is considered the “offseason” in Florida, it’s still a great time to visit. Here are all the benefits you’ll see during this time of year.'
+excerpt: 'Although the summer is considered the “off-season” in Florida, it’s still a great time to visit. Here are all the benefits you’ll see during this time of year.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+It%E2%80%99s+a+perfect+time+to+visit+Florida.mp4'
 pullquote: 'Airfare and lodging rates are 30% cheaper in the summer.'
 enclosure_type: video/mp4
