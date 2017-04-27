@@ -5,7 +5,7 @@ date: 2017-04-26 00:00:00
 tags:
   - Home Seller Tips
 excerpt: Ever wonder what’s going on in the real estate world? I’ve got answers for you.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Philipp+Fries/Tampa+Bay+Area+Real+Estate+Agent-+Your+New+Real+Estate+Resource.mp4'
 pullquote: I’d love to answer your questions in a video.
 enclosure_type: video/mp4
 enclosure_time:
