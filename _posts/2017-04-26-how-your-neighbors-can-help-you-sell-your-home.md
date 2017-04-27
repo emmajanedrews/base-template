@@ -18,7 +18,7 @@ youtube_code: O2D599uZNDE
 
 If you're thinking of selling your home, you need to immediately start preparing your neighbors. Here’s what I mean.
 
-**Home appraisals are 5% to 10% lower if you have a so-called "bad" neighbor**, with an unkempt yard or poorly maintained exterior. That shouldn't be surprising when you consider that 63% of homebuyers drive by a home before coming for a showing. Make no mistake—these potential buyers won't just be impacted by the exterior of your home, but by the state of your neighborhood as well.
+**Home appraisals are 5% to 10% lower if you have a so-called "bad" neighbor**&nbsp;with an unkempt yard or poorly maintained exterior. That shouldn't be surprising when you consider that 63% of homebuyers drive by a home before coming for a showing. Make no mistake—these potential buyers won't just be impacted by the exterior of your home, but by the state of your neighborhood as well.
 
 On the other hand, your neighbors can also be your best friends in selling your home. They can provide you with free advertising, they can promote the neighborhood to inquiring buyers, and they might even actively work with you to help you achieve a higher price.
 
