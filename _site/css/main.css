@@ -1599,13 +1599,15 @@ label.tree-toggle {
 
 .site-logo {
   width: 90%;
-  max-width: 60rem;
-  -webkit-filter: drop-shadow(0px 2px 7px #83AFD5);
-  filter: drop-shadow(0px 2px 7px #83AFD5); }
+  max-width: 80rem;
+  margin-top: -2rem;
+  -webkit-filter: drop-shadow(0px 2px 7px #EDEBEE);
+  filter: drop-shadow(0px 2px 7px #EDEBEE); }
 
 .site-title {
-  color: white;
-  text-shadow: 0px 2px 7px #83AFD5;
+  color: black;
+  font-weight: 300;
+  text-shadow: 0px 2px 7px #EDEBEE;
   text-transform: uppercase;
   font-size: 6.5rem;
   padding-bottom: 4rem;
@@ -1616,17 +1618,17 @@ label.tree-toggle {
     font-size: 5rem; } }
 @media (max-width: 1000px) {
   .site-logo {
-    max-width: 20rem; } }
+    max-width: 40rem; } }
 @media (max-width: 760px) {
   .site-logo {
-    max-width: 20rem;
+    max-width: 40rem;
     margin-top: 4rem; }
 
   .site-title {
     font-size: 5rem; } }
 @media (max-width: 600px) {
   .site-logo {
-    max-width: 15rem;
+    max-width: 30rem;
     margin-top: 2rem; }
 
   .site-title {
@@ -2049,7 +2051,7 @@ table tr, table td {
   margin: 2rem 0;
   color: white;
   text-transform: uppercase;
-  text-shadow: 0px 2px 7px #83AFD5; }
+  text-shadow: 0px 2px 7px #EDEBEE; }
 .post .headshot {
   width: 100%;
   max-width: 15rem;
@@ -2064,7 +2066,7 @@ table tr, table td {
 
 .tag-container {
   color: white;
-  text-shadow: 0px 2px 7px #83AFD5;
+  text-shadow: 0px 2px 7px #EDEBEE;
   margin-bottom: 1rem; }
 
 .tag {
@@ -2075,7 +2077,7 @@ table tr, table td {
 .author-attribution {
   color: white;
   font-weight: 300;
-  text-shadow: 0px 2px 7px #83AFD5;
+  text-shadow: 0px 2px 7px #EDEBEE;
   margin-bottom: 2rem;
   font-style: italic; }
   .author-attribution a {
