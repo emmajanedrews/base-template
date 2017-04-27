@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt: 'Have a Happy New Year! We will see you in 2017!'
+excerpt: 'Have a Happy New Year! We will see you in 2017! This year is going to the the best year ever.'
 enclosure:
 pullquote: 'Have a Happy New Year! We will see you in 2017!'
 enclosure_type: video/mp4
