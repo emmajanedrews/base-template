@@ -17,7 +17,7 @@ youtube_code: GXP6RffKk-E
 
 {% include youtube.html %}Does your listing agent do any sort of pre-marketing, sales, or advertising for your home prior to putting it on the market?
 
-Those are important things that can make all the difference in getting your house sold quickly and for top dollar. We specialize in doing just that for our clients. We have vetted carefully chosen national and regional social media sites so that we help them get their house ready for the camera.
+Those are important things that can make all the difference in getting your house sold quickly and for top dollar. We specialize in doing just that for our clients. **We have vetted carefully chosen national and regional social media sites so that we help them get their house ready for the camera.**
 
 We also give our clients a little bit of space between the point that they actually market their home for sale live on the MLS. Prior to that is when we do our pre-marketing so that we can generate some excitement before officially listing the home.
 
