@@ -4,7 +4,7 @@ title: What Is Happening in the Montana Market?
 tags:
   - Market Update
 excerpt: What is the Montana real estate market? I’ll go over a few statewide trends from 2015 and 2016 and explore why those numbers are what they are.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Scott+Hollinger/Montana+Real+Estate++The+Hollinger+Team+Understanding+the+Montana+market.mp4'
 pullquote: Montana has a lower population base to drive the market.
 enclosure_type:
 enclosure_time:
