@@ -24,7 +24,7 @@ In many ways, though, the building and design industry is still old school. Jobs
 
 {% include pullquote.html %}
 
-**As online usage continues to grow, your online presence needs to measure up.**Consumers want the manufacturers to solve their problems, so manufacturers are realizing that just pushing their product isn’t enough to get their audience’s attention anymore. You really have to produce thought leadership through articles, blogs, videos, and other online content that really helps solve that everyday business problem.&nbsp;
+**As online usage continues to grow, your online presence needs to measure up.&nbsp;**Consumers want the manufacturers to solve their problems, so manufacturers are realizing that just pushing their product isn’t enough to get their audience’s attention anymore. You really have to produce thought leadership through articles, blogs, videos, and other online content that really helps solve that everyday business problem.&nbsp;
 
 Ultimately, great marketing helps the audience solve the issues that matter to them. Remember, people are not buying products; they are buying solutions.&nbsp;
 
