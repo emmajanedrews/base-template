@@ -5,7 +5,7 @@ date: 2017-04-21 00:00:00
 tags:
   - Real Estate
 excerpt: Have you reviewed your homeowners insurance policy in the last year? You might be surprised by what you hear now that rates are being driven down again.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Bryan+David/Mississippi+Gulf+Coast+Real+Estate+Agent-+Have+You+Reviewed+Your+Policy+This+Year%253F.mp4'
 pullquote: "Too often I see homeowners paying insurance that's way over what they need to pay."
 enclosure_type: video/mp4
 enclosure_time:
