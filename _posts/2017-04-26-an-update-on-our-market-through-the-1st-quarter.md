@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: gfg9VVuMs5o
+youtube_code: 04i2jpTsvZk
 ---
 
 
@@ -25,6 +25,6 @@ Overall, things are great though. There are 17 different mini-markets out there 
 
 {% include pullquote.html %}
 
-We’re having a very strong year. In fact, this could be the best year ever for our market. It could very well be the first year we have over 18,000 home sales in this market.
+We’re having a very strong year. In fact, this could be the best year ever for our market. It could very well be the first year we have more than 18,000 home sales in this market.
 
 I'll keep you updated with changes in the market as they come. If you have any questions in the meantime, give me a call or send me an email. I look forward to hearing from you.
