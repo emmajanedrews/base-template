@@ -7,34 +7,36 @@ custom_links:
     url:
 
 client:
-  name:
-  license_number:
+  name: Wade Betz
+  license_number: 'NMLS #280613'
   about_markdown: |
-
+    Wade joined Guardian Mortgage Company in January 2006 as a vice president of sales and branch manager at our Dallas, Texas location. <br>
+    <br>
+    Wade has a message for Guardian’s customers. There’s more to a mortgage than the close. Wade, like his Guardian counterparts, understands that a job well done is a job that lasts the duration of the home loan. Counsel, support and personal service are paramount to becoming a trusted mortgage advisor for Guardian’s clients.
   market:
-  brand:
-  brokerage:
-  address:
-  phone:
-  phone_type:
+  brand: The Betz Team
+  brokerage: Guardian Mortgage Company, Inc.
+  address: 5910 North Central Expressway <br> Ste 725, Dallas, TX 75206
+  phone: 214-361-5626
+  phone_type: Direct
   phone2:
   phone2_type:
-  email:
-  url:
+  email: TheBetzTeam@gmc-inc.com
+  url: http://thebetzteam.com
 
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
-  second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  first_CTA_text: Apply Online
+  first_CTA_URL: https://apply.guardianmortgageonline.com/signup?referrerId=TheBetzTeam@gmc-inc.com
+  second_CTA_text: Request a Consultation
+  second_CTA_URL: https://calendly.com/wadebetz/phone-consultation/11-22-2016?back=1
   VR_form:
 
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: Looking to Buy a Home?
+  - CTA_image_path: /img/cta-images/006.jpg
+    CTA_title: Ask Me A Question
     CTA_text: Search the entire MLS for homes located in -- MARKET --.
-    CTA_link_text: Home Search Tool
-    CTA_url: /homesearch/
+    CTA_link_text: Request a Consultation
+    CTA_url: https://calendly.com/wadebetz/phone-consultation/11-22-2016?back=1
 
 lender:
   show_section: false
@@ -51,25 +53,25 @@ lender:
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
+    Our mission at -- CLIENT BRAND -- is to be your best resource for financial
     advice. Whether you are a buyer, seller, or investor, our team of
-    professionals can answer any questions you might have about real estate.
-    Subscribe to this blog to get the latest news on local market trends and
-    receive expert tips for buying or selling a home.
+    professionals can answer any questions you might have about the lending process.
+    Subscribe to this blog to get the latest news on loans for purchase, refinance,
+    construction or cashout of residential and commercial property.
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/TheBetzTeam
+  linkedin_url: https://www.linkedin.com/in/wadebetz
+  gplus_url: https://plus.google.com/117707470100192820992
+  youtube_url: https://www.youtube.com/channel/UCnGrNrabM_Xeuz0Eidj9qsQ
+  twitter_url: https://twitter.com/winningwithwade
   instagram_url:
   pinterest_url:
   zillow_url:
   trulia_url:
-  yelp_url:
-  podcast_url:
+  yelp_url: http://www.yelp.com/biz/the-betz-team-guardian-mortgage-company-plano
+  podcast_url: https://itunes.apple.com/us/podcast/winning-wade-guardian-mortgage/id1178107062?mt=2
 
 podcast:
   title:
@@ -83,14 +85,14 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 60
   hero_text: Real Estate Video Blog
   hero_background_hex: '#094264'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#C14547'
-  theme_color: '#005473'
+  brand_color: '#B5C6D5'
+  theme_color: '#00422D'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
