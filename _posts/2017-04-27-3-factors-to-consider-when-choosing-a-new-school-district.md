@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 Overlooked Factors That Can Prove if a New School Is Really Right for You
+title: 3 Factors to Consider When Choosing a New School District
 tags:
   - Home Buyer Tips
 date: 2017-04-27 10:00:00
@@ -21,7 +21,7 @@ youtube_code: xTzdlx0J7hA
 
 {% include pullquote.html %}
 
-Secondly, **don’t just base your opinion of a school on how a school rating site rates them.** A website like GreatSchools.com is a great resource but it qualifies schools on a scale predicated solely on test scores. We all know there is more to a school than just test scores. In fact, we know that certain schools will just teach four test scores, and that doesn’t reflect how the children are growing and learning beyond academics. Find out extra information like what extracurricular activities the school has and what its culture is like?
+Secondly, **don’t just base your opinion of a school on how a school rating site rates them.** A website like GreatSchools.com is a great resource but it qualifies schools on a scale predicated solely on test scores. We all know there is more to a school than just test scores. In fact, we know that certain schools will just teach for test scores, and that doesn’t reflect how the children are growing and learning beyond academics. Find out extra information like what extracurricular activities the school has and what its culture is like.
 
 Third and most importantly, regardless of what the school’s rating system is or how it’s perceived, **the relationship your child has with its individual instructors and administrative staff will have the most impact.** In other words, your child’s experience may be completely different than what the school’s rating shows.
 
