@@ -8,7 +8,7 @@ enclosure: 'http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/Whats%20Happe
 pullquote: 'The median days on market has gone down 16% compared to this time last year.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/intro-00-03-42-08-still003.jpg
 youtube_code: IvRVVnuqL80
 ---
