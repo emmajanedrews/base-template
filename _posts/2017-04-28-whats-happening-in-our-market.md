@@ -9,7 +9,7 @@ pullquote: 'The median days on market has gone down 16% compared to this time la
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/no-pb-35.jpg
+youtube_alternate_image: /uploads/intro-00-03-42-08-still003.jpg
 youtube_code: IvRVVnuqL80
 ---
 
