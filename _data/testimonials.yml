@@ -1,17 +1,18 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
+  - quote: "We could not have had a better experience with the Betz Team and Guardian Mortgage. My husband and I were wrestling with a big bank loan, and after a lot of back and forth and unresponsiveness, we decided to switch to the Betz Team. Boy, what a difference! Wade, Felisa, Natalia, and Patrice are amazing and walked us through every step of the process. As first-time home buyers, we received the guidance and knowledge we needed. The customer service of the Betz Team is superior and we completely trusted them to help us through this important financial decision."
+    name: Katie
     audio:
-  - quote:
-    name:
+  - quote: "It was absolutely a pleasure working with Guardian Mortgage and the Betz Team; this is our fifth mortgage with Guardian, and the experience was just as smooth and expeditious as the very first time. The entire staff at Guardian was always so cheerful, responsive, courteous and knowledgeable; it truly eased the stress that such a potentially stressful process can create!"
+    name: Harris
     audio:
-  - quote:
-    name:
+  - quote: "The Betz Team was phenomenal in helping us buy our house. From the beginning when we needed help with our offer letters to then providing a quick close, The Betz Team made sure that we were taken care of. I will recommend them to anyone that is in need of mortgage services.
+ 10 STARS!"
+    name: Laura
     audio:
-  - quote:
-    name:
+  - quote: "We are thrilled to have obtained our mortgage through Wade Betz and his wonderful team at Guardian! I would thoroughly recommend working with him and Natasha and all the others who helped our loan go through. Their web portal was easy to upload documents to and when I had the inevitable question I was able to contact someone and get my answer quickly. I'm also happy to keep our mortgage locally here in Texas."
+    name: Heather
     audio:
-  - quote:
-    name:
+  - quote: "Great service, friendly staff, smooth transaction, as always! Wade is very pleasant to work with, as well as those on his team! He stayed in touch with me at each step along the way and he keeps in touch with us throughout the year as well with helpful tips, recipes and of course the Dallas Cowboys game schedule magnet for the fridge! Thanks for everything! I tell everyone how much I have loved working with Guardian Mortgage Co."
+    name: Elizabeth
     audio:

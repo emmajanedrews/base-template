@@ -5,14 +5,8 @@ show_custom_links: true
 custom_links:
   - title: Mortgage Map
     url: http://gmc29.mortgagemapp.com/
-  - title: Agent Training
-    url: http://thebetzteam.blogspot.com/p/agent-training.html
   - title: About
-    url: http://www.guardianmortgageonline.com/loan-officers/dallas-home-loan-officer-wade-betz/
-  - title: Contact
-    url: http://thebetzteam.blogspot.com/p/contact_21.html    
-  - title: Meet the Team
-    url: http://thebetzteam.blogspot.com/p/meet-team.html
+    url: https://www.guardianmortgageonline.com/our-story/
 
 client:
   name: Wade Betz

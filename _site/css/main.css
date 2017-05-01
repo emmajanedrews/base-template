@@ -1118,7 +1118,7 @@ html[xmlns] .flexslider .slides {
   .flex-direction-nav .flex-next {
     opacity: 1;
     right: 10px; } }
-/* 
+/*
  * 	Core Owl Carousel CSS File
  *	v1.3.3
  */
@@ -1792,7 +1792,7 @@ h6 {
   margin: 0 auto; }
 
 a {
-  color: #B5C6D5;
+  color: black;
   text-decoration: none; }
   a:hover {
     text-decoration: none;
@@ -2791,7 +2791,7 @@ form select {
   .newsletter_optin input[type='email'] {
     border-radius: 0px;
     background: rgba(255, 255, 255, 0.3);
-    border: 1px solid white;
+    border: 1px solid black;
     color: #B5C6D5;
     font-size: 2rem;
     padding: 2.4rem;
@@ -2801,7 +2801,7 @@ form select {
     -webkit-transition: 0.3s;
     transition: 0.3s; }
     .newsletter_optin input[type='email']::-webkit-input-placeholder {
-      color: white; }
+      color: black; }
     .newsletter_optin input[type='email']::-moz-placeholder {
       color: white; }
     .newsletter_optin input[type='email']:-moz-placeholder {
@@ -2823,13 +2823,13 @@ form select {
         color: transparent; }
   .newsletter_optin input[type="submit"] {
     background: transparent;
-    color: white;
+    color: black;
     padding: 1.3rem 2rem;
     text-transform: capitalize;
     font-size: 2rem;
     border-radius: 0px;
     font-weight: 300;
-    border: 1px solid white;
+    border: 1px solid black;
     -webkit-transition: 0.3s;
     transition: 0.3s; }
     .newsletter_optin input[type="submit"]:hover {
