@@ -4,7 +4,7 @@ title: What Are the Best Upgrades You Can Make as a Homebuyer or Seller?
 date: 2017-04-25 12:00:00
 tags:
   - Home Buyer Tips
-excerpt: 'Today one of our listing agents, Jonathan Bic, and I are covering which repairs and improvements you should make to your home both as a new homebuyer or a seller in today’s market.'
+excerpt: 'Today one of our listing agents, Jon Bick, and I are covering which repairs and improvements you should make to your home both as a new homebuyer or a seller in today’s market.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Rob+Ellis/Videos/2017/What+Are+the+Best+Upgrades+You+Can+Make+as+a+Homebuyer+or+Seller%253F+-+Central+Ohio+Real+Estate+Agent.mp4'
 pullquote: Make sure your flooring is in pristine condition to attract buyers.
 enclosure_type: video/mp4
