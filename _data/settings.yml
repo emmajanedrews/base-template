@@ -37,7 +37,7 @@ client:
   market: Charleston
   brand: Keller Williams Realty
   brokerage:
-  address: '496 Bramson Ct. Suite 200 Mt. Pleasant, SC 29464'
+  address: '496 Bramson Ct. Suite 200<br>Mt. Pleasant, SC 29464'
   phone: (843) 608-0647
   phone_type:
   phone2:
@@ -70,7 +70,7 @@ lender:
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
-    Our mission at MG Charleston Real Estate is to be your best resource for real
+    Our mission at Keller Williams Realty is to be your best resource for real
     estate advice. Whether you are a buyer, seller, or investor, our team of
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
