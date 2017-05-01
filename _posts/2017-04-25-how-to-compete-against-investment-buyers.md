@@ -25,4 +25,4 @@ I went back and looked at some of the recent properties that have sold and I fou
 
 It may not sound like a big deal, but these foreign investors are coming in and beating out hardworking families and first-time buyers for these homes. If you’re thinking of buying a property in this market, **it’s essential that you have a good agent who can assist you with buying**. It's a crucial step.
 
-I’d love to help you out with the homebuying process and share some of the strategies I’ve successfully used to help buyers secure the home of their dreams. If you have any questions or would like my assistance with your home purchase, just give me a call or send me an email. I would love to hear from you.
+I’d love to help you out with the home buying process and share some of the strategies I’ve successfully used to help buyers secure the home of their dreams. If you have any questions or would like my assistance with your home purchase, just give me a call or send me an email. I would love to hear from you.
