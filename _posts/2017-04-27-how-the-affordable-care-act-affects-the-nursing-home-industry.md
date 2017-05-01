@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/HadleyScreenShot-Obamacare.png
-youtube_code: s0dY1TMaQ8M
+youtube_code: An8Q5nWQy2A
 ---
 
 
@@ -18,7 +18,7 @@ youtube_code: s0dY1TMaQ8M
 
 The Affordable Care Act was designed to provide health care coverage for those who didn’t have insurance, so how is it affecting the nursing home industry?
 
-Within the nursing home industry, most residents do have some form of coverage whether it’s Medicare, Medicaid, or an HMO, so the thought was that the impact the Affordable Care Act would have on the nursing industry would be small, if any.
+Within the nursing home industry, most residents do have some form of coverage whether it’s Medicare, Medicaid, or an HMO, so the thought was that the impact the Affordable Care Act would have on the nursing home industry would be small, if any.
 
 The unforeseen consequence is that it really exacerbates the shortage and the demand for physicians. **It adds strain on the number of medical professionals available.** In fact, by the year 2025, there will be a shortage of 52,000 primary care physicians for a few reasons. The first is that very few study nursing home care while in medical school. Second, regulations are often very high, and third, the pay is often lower for that type of role.
 
