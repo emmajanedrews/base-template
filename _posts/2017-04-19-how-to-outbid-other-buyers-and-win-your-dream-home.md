@@ -1,11 +1,11 @@
 ---
 layout: post
 title: How to Outbid Other Buyers and Win Your Dream Home
-date: 2017-04-19 11:52:10
+date: 2017-04-19 11:52:00
 tags:
   - Home Buyer Tips
 excerpt: 'I’ve gotten a few questions lately from some clients I’ve worked with in multiple offer situations regarding their deposit, so today I want to talk about how this can influence your offer in the eyes of sellers.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Winning+a+multiple+offer+situation.mp4'
 pullquote: 'In today’s market, it’s very important to put your best foot forward.'
 enclosure_type: video/mp4
 enclosure_time:
