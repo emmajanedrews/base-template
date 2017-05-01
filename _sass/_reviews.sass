@@ -21,6 +21,7 @@
 		fill: $light-text
 		width: 100px
 	text-align: center
+	background: #005138
 	display: inline-block
 	width: 100%
 	margin-top: .5rem
@@ -30,14 +31,12 @@
 	@include transition(0.3s)
 	&:hover
 		svg
-			fill: #B5C6D5
-		background: transparent
+			fill: #005138
+		background: #B5C6D5
 		color: $brand-light
-		box-shadow: 4px 4px 0 #B5C6D5
 		@include transform(scale(1.05))
 		@include transform(translateY(-0.2rem))
 	&:active
-		box-shadow: 0 0 0 $brand-light
 		@include transform(translateY(0rem))
 
 @media (max-width: 990px)
