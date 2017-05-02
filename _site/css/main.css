@@ -1118,7 +1118,7 @@ html[xmlns] .flexslider .slides {
   .flex-direction-nav .flex-next {
     opacity: 1;
     right: 10px; } }
-/*
+/* 
  * 	Core Owl Carousel CSS File
  *	v1.3.3
  */
@@ -1600,17 +1600,17 @@ label.tree-toggle {
 .site-logo {
   width: 90%;
   max-width: 40rem;
+  padding-bottom: 12rem;
   -webkit-filter: drop-shadow(0px 2px 7px #eeeeee);
   filter: drop-shadow(0px 2px 7px #eeeeee); }
 
 .site-title {
-  color: white;
-  text-shadow: #000;
+  color: #ffffff;
+  text-shadow: filter(drop-shadow(#000000));
   text-transform: uppercase;
   font-size: 6.5rem;
   padding-bottom: 4rem;
-  margin-bottom: 0;
-  font-weight: 400; }
+  margin-bottom: 0; }
 
 @media (max-width: 1100px) {
   .site-title {
@@ -2944,8 +2944,8 @@ form select {
   margin-top: 10px; }
 
 .site-title {
-  color: white;
-  font-weight: 500; }
+  color: black;
+  font-weight: 300; }
 
 .cta2 {
   background: #810101;
