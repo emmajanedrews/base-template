@@ -5,7 +5,7 @@ tags:
   - Real Estate
 excerpt: 'Our market is incredibly busy right now. If you’re looking to buy or sell a home, there’s a good chance you’ll find yourself in a multiple offer situation. Luckily, I’ve got some great tips on how to navigate that situation whether you’re a buyer or a seller. There are some key things to look for in offers as a seller as well as some great ways to make your offer stand out as a buyer. To get all the details, watch this short video.'
 pullquote: Oftentimes there are components of an offer that are actually more important to sellers than the sales price.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Jason+McIntosh/+Videos/2017/May/Savannah+Real+Estate+Agent-+Navigating+Multiple+Offers+as+a+Buyer+or+Seller.mp4'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
