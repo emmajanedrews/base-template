@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/loodmy-jacques-introduction-youtube.jpg
-youtube_code: fjo7Rprkvgo
+youtube_code: w2gBGw4WvKI
 ---
 
 
@@ -23,4 +23,4 @@ youtube_code: fjo7Rprkvgo
 
 That being said, if you have any questions, topics you’re confused about, or anything else you want me to talk about, give me a call or send me an email and I’d be happy to make a video about it. If you have a question, chances are that someone else has that question too and would benefit from the answer as well.
 <br>
-<br>**If you have any questions for me, don’t hesitate to give me a call or send me an email.&nbsp;**We look forward to hearing from you soon.
+<br>**If you have any questions for me, don’t hesitate to give me a call or send me an email.**We look forward to hearing from you soon.
