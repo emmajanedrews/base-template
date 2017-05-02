@@ -1,25 +1,26 @@
 ---
 youtube_code: t497FX695do
-excerpt: When hiring an agent to sell your home, make sure to ask them these seven questions in order to pick the best one for the job.
-enclosure:
+excerpt: 'When hiring an agent to sell your home, make sure to ask them these seven questions in order to pick the best one for the job.'
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Central+PA+Real+Estate+Agent-+Finding+the+best+agent+to+sell+your+home.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
-title: '7 Questions to Ask Before Hiring an Agent '
-date: '2016-11-29T11:02:00.000-08:00'
+title: 7 Questions to Ask Before Hiring an Agent
+date: 2016-11-29 19:02:00
 author: Vyral Admin
 tags:
-- Home Seller Tips
-modified_time: '2016-12-01T13:14:47.353-08:00'
-thumbnail: https://img.youtube.com/vi/t497FX695do/default.jpg
-blogger_id: tag:blogger.com,1999:blog-1667775301366790924.post-3830503414550580723
-blogger_orig_url: http://davehooke.blogspot.com/2016/11/7-questions-to-ask-before-hiring-agent.html
+  - Home Seller Tips
+modified_time:
+thumbnail: 'https://img.youtube.com/vi/t497FX695do/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-1667775301366790924.post-3830503414550580723'
+blogger_orig_url: 'http://davehooke.blogspot.com/2016/11/7-questions-to-ask-before-hiring-agent.html'
 ---
-{% include youtube.html %}
-If you are planning on selling your home, how can you make sure that you select the best agent for the job? We have seven questions that you should ask when interviewing agents in order to hire the best one.
+
+
+{% include youtube.html %}If you are planning on selling your home, how can you make sure that you select the best agent for the job? We have seven questions that you should ask when interviewing agents in order to hire the best one.
 
 1. How long have you been selling homes? You wouldn’t want to go to a doctor who’s just one year out of medical school. It’s helpful to have an agent that’s been in the business a while and has some experience under their belt.
 2. How many homes did you sell last year? A lot of agents like to tout the success of their company. Ask them how they have done year to year. Ask them to bring that data along to the interview. Again, it’s helpful to work with an agent who has a lot of experience. You could have a long-time veteran agent who has been in the industry for 20 years but only sells two homes a year, or you could have an agent who’s been working for four years but sells 30 to 40 homes a year. The second agent would have more experience.
