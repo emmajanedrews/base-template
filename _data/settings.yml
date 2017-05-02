@@ -35,7 +35,7 @@ CTAs:
   first_CTA_URL: https://apply.guardianmortgageonline.com/signup?referrerId=TheBetzTeam@gmc-inc.com
   second_CTA_text: Request a Consultation
   second_CTA_URL: https://calendly.com/wadebetz/phone-consultation/11-22-2016?back=1
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=41c99825aa
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/006.jpg
