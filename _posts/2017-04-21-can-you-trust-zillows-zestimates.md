@@ -3,7 +3,7 @@ layout: post
 title: Can You Trust Zillow’s Zestimates?
 tags:
 excerpt: 'What are Zillow’s Zestimates, exactly? How are they determined? How accurate are they?'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Scott+Hardesty/Greater+Nashville+Real+Estate-+How+Reliable+Are+Zillow%2527s+Zestimates%253F.mp4'
 pullquote: 'The Zestimate can be a good general starting point, but it’s not an appraisal.'
 enclosure_type: video/mp4
 enclosure_time:
