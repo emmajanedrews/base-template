@@ -1236,11 +1236,13 @@ html[xmlns] .flexslider .slides {
     max-width: 100%;
     width: 1000px; }
   .cta-sidebar-container h5 {
-    padding-left: 10px; }
+    padding-left: 10px;
+    width: 100%; }
   .cta-sidebar-container p {
     font-size: 18px;
     padding: 10px;
-    color: #555; }
+    color: #555;
+    width: 100%; }
 
 .ctacontainer {
   margin: 0px auto 30px; }
