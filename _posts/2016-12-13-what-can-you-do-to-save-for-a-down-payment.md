@@ -1,25 +1,26 @@
 ---
 youtube_code: PcqKeP9rS9Y
-excerpt: Every buyer knows that they need a down payment in order to purchase a home. Today, I’ll go over five unique options you can use to save for your down payment.
-enclosure:
+excerpt: 'Every buyer knows that they need a down payment in order to purchase a home. Today, I’ll go over five unique options you can use to save for your down payment.'
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Central+PA+Real+Estate+Agent-+5+ways+to+save+for+a+down+payment.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
-title: 'What Can You Do to Save for a Down Payment? '
-date: '2016-12-13T10:08:00.000-08:00'
+title: What Can You Do to Save for a Down Payment?
+date: 2016-12-13 18:08:00
 author: Vyral Admin
 tags:
-- Home Buyer Tips
-modified_time: '2016-12-29T13:36:02.933-08:00'
-thumbnail: https://img.youtube.com/vi/PcqKeP9rS9Y/default.jpg
-blogger_id: tag:blogger.com,1999:blog-1667775301366790924.post-1767173221793804869
-blogger_orig_url: http://davehooke.blogspot.com/2016/12/what-can-you-do-to-save-for-down-payment.html
+  - Home Buyer Tips
+modified_time:
+thumbnail: 'https://img.youtube.com/vi/PcqKeP9rS9Y/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-1667775301366790924.post-1767173221793804869'
+blogger_orig_url: 'http://davehooke.blogspot.com/2016/12/what-can-you-do-to-save-for-down-payment.html'
 ---
-{% include youtube.html %}
-When buying a home, it’s very important that you have your down payment ready to go. Here are a few unique options to help you save for a down payment:
+
+
+{% include youtube.html %}When buying a home, it’s very important that you have your down payment ready to go. Here are a few unique options to help you save for a down payment:
 
 1. Consider crowdsourcing your home.
 2. Ask the seller for help. Asking the seller to assist with closing costs is a common way to free up more money for your down payment. Ask your lender what the limits for closing costs are on your loan program, and then ask your Realtor to help negotiate for the seller to pay the closing costs on your behalf.
