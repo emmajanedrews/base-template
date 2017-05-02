@@ -1,6 +1,6 @@
 audit_header: false
-title: Michigan 401k under Financial Independence
-description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
+title: Michigan 401k Resource Video Blog
+description: 'Helping Metro Detroit Businesses 401(k) Retirement Plans | Personal Wealth Mangement'
 show_custom_links: false
 custom_links:
   - title:
@@ -27,7 +27,7 @@ CTAs:
   first_CTA_URL: http://#
   second_CTA_text: Schedule a Consultation
   second_CTA_URL: http://www.financial-independence.com/contact
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=4e1782c081
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/006.png
@@ -56,9 +56,9 @@ welcome_box:
 socials:
   review_sm_icons: false
   facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
+  linkedin_url: https://www.linkedin.com/in/stevenjcase/
+  gplus_url: https://plus.google.com/109876721259206167459
+  youtube_url: https://www.youtube.com/channel/UCvFtfIncZaCqFqfE3zXu8pw
   twitter_url:
   instagram_url:
   pinterest_url:
@@ -68,12 +68,12 @@ socials:
   podcast_url:
 
 podcast:
-  title:
+  title: Michigan 401k Resource Podcast
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: 'Helping Metro Detroit Businesses 401(k) Retirement Plans | Personal Wealth Mangement'
+  description: Learn all the tips, tricks and more for Personal Wealth Management and 401K Retirement Plans'
+  keywords: 'Financial Advisors, Financial Planning, 401K, Retirement plans, financial independence, Financial planners, 401K resource'
   author: '-- CLIENT NAME --'
 
 images:
