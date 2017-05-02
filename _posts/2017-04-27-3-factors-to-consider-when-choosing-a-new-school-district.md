@@ -5,7 +5,7 @@ tags:
   - Home Buyer Tips
 date: 2017-04-27 10:00:00
 excerpt: There are three factors you need to consider to know if the school located near your new home is really right for you.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Chris+Gorman/Triangle+Area+Real+Estate-+School+Choice+and+You.mp4'
 pullquote: Don’t base such a huge decision on bits and pieces of information about schools.
 enclosure_type: video/mp4
 enclosure_time:
