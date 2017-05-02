@@ -1,29 +1,30 @@
 ---
 youtube_code: Tb8S1MwT1GI
-excerpt: Can you trust Zillow’s Zestimates to come up with the correct value for your home? Unfortunately, the answer is no, and there are three reasons why.
-enclosure:
+excerpt: 'Can you trust Zillow’s Zestimates to come up with the correct value for your home? Unfortunately, the answer is no, and there are three reasons why.'
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Central+PA+Real+Estate+Agent-+The+problem+with+Zillows+Zestimates.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
-title: '3 Reasons Why You Can’t Trust a Zestimate '
-date: '2017-02-09T13:26:00.000-08:00'
+title: 3 Reasons Why You Can’t Trust a Zestimate
+date: 2017-02-09 21:26:00
 author: Vyral Admin
 tags:
-- Home Seller Tips
-modified_time: '2017-02-14T08:50:55.516-08:00'
-thumbnail: https://img.youtube.com/vi/Tb8S1MwT1GI/default.jpg
-blogger_id: tag:blogger.com,1999:blog-1667775301366790924.post-6050232649580636614
-blogger_orig_url: http://davehooke.blogspot.com/2017/02/3-reasons-why-you-cant-trust-zestimate.html
+  - Home Seller Tips
+modified_time:
+thumbnail: 'https://img.youtube.com/vi/Tb8S1MwT1GI/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-1667775301366790924.post-6050232649580636614'
+blogger_orig_url: 'http://davehooke.blogspot.com/2017/02/3-reasons-why-you-cant-trust-zestimate.html'
 ---
-{% include youtube.html %}
-A lot of people ask whether the home value they find on Zillow, also known as a Zestimate, is accurate. Can you really trust that Zestimate?
+
+
+{% include youtube.html %}A lot of people ask whether the home value they find on Zillow, also known as a Zestimate, is accurate. Can you really trust that Zestimate?
 
 Zestimates work almost the same way as a tax assessment: Zillow’s algorithm takes the sale prices of homes that are similar to yours and in the same area, then it compares that information to your property’s square footage in order to come up with an estimate on the value of your property.
 
-Unfortunately, the reality is that, although they can be accurate sometimes, Zestimates are often incorrect. On average, the Zestimate has a margin of error of about 20%. 
+Unfortunately, the reality is that, although they can be accurate sometimes, Zestimates are often incorrect. On average, the Zestimate has a margin of error of about 20%.
 
 There are three factors that impact the accuracy (or inaccuracy) of your Zestimate:
 
