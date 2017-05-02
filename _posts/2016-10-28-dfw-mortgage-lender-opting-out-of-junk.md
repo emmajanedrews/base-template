@@ -1,7 +1,7 @@
 ---
 youtube_code: WmafYepAIGo
 excerpt:
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20Opting%20Out%20of%20Junk%20Mail%20Is%20Easy.mp4
 pullquote: "The less junk mail the better."
 enclosure_type: video/mp4
 enclosure_time:

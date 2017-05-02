@@ -1,7 +1,7 @@
 ---
 youtube_code: s2cDOcklKKI
 excerpt:
-enclosure:
+enclosure: http://thebetzteam.blogspot.com/2017/02/the-different-types-of-mortgage.html
 pullquote: "Know the goals of your property before picking a mortgage insurance."
 enclosure_type: video/mp4
 enclosure_time:
