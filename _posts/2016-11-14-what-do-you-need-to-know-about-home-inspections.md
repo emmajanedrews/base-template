@@ -1,7 +1,7 @@
 ---
 youtube_code: fXwsC-NjWH8
-excerpt: If you’re a home buyer, there are five things you need to know about how home inspections function.
-enclosure:
+excerpt: 'If you’re a home buyer, there are five things you need to know about how home inspections function.'
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Central+PA+Real+Estate+Agent-+5+things+you+should+know+about+home+inspections.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -9,17 +9,18 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: What Do You Need to Know About Home Inspections?
-date: '2016-11-14T09:04:00.000-08:00'
+date: 2016-11-14 17:04:00
 author: Vyral Admin
 tags:
-- Home Buyer Tips
-modified_time: '2016-11-17T07:56:52.055-08:00'
-thumbnail: https://img.youtube.com/vi/fXwsC-NjWH8/default.jpg
-blogger_id: tag:blogger.com,1999:blog-1667775301366790924.post-2037538154496620428
-blogger_orig_url: http://davehooke.blogspot.com/2016/11/what-do-you-need-to-know-about-home.html
+  - Home Buyer Tips
+modified_time:
+thumbnail: 'https://img.youtube.com/vi/fXwsC-NjWH8/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-1667775301366790924.post-2037538154496620428'
+blogger_orig_url: 'http://davehooke.blogspot.com/2016/11/what-do-you-need-to-know-about-home.html'
 ---
-{% include youtube.html %}
-As a home buyer, what are the five most important things to know about home inspections?
+
+
+{% include youtube.html %}As a home buyer, what are the five most important things to know about home inspections?
 
 1. You can choose your own inspector. You can get a referral from a real estate agent or someone else who’s recently bought a home or just  look up the National Association of Home Inspectors. This is an association that home inspectors are typically members of if they’re qualified. If they’re members of that association, they’ve typically completed a training program, shown competence in the home inspection trade, and completed a written exam.
 2. Inspections are not a pass/fail process. A lot of our clients believe that the inspection is a black and white result, but that’s not the case. On the contrary, home inspections are often general reports that consist of 20 to 40 pages of general information about the home which you can use for many years into the future in reference to the structural elements of your home. They do include a list of material defects and (usually) safety issues, and it’s your responsibility to determine if those things are concerning enough to impact whether you’re going to purchase the home or not.
