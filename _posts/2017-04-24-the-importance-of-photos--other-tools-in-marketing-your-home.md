@@ -5,7 +5,7 @@ date: 2017-04-24 00:00:00
 tags:
   - Home Seller Tips
 excerpt: 'Using professional photos is crucial to marketing your home, but there are other tools our marketing program offers that we want to show you.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Hervieux+Real+Estate/San+Diego+Real+Estate-+The+Importance+of+Photos+in+Marketing+Your+Home.mp4'
 pullquote: Real estate marketing has become an online game.
 enclosure_type: video/mp4
 enclosure_time:
