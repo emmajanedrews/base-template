@@ -1,25 +1,26 @@
 ---
-youtube_code: -8wJ7L1YWuQ
+youtube_code: '-8wJ7L1YWuQ'
 excerpt:
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Central+PA+Real+Estate+Agent-+5+ways+to+add+value+to+your+home.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
-title: '5 Quick Ways to Add Value to Your Central PA Home '
-date: '2016-07-28T13:04:00.000-07:00'
+title: 5 Quick Ways to Add Value to Your Central PA Home
+date: 2016-07-28 20:04:00
 author: Vyral Admin
 tags:
-- Home Seller Tips
-modified_time: '2016-08-11T07:41:35.515-07:00'
-thumbnail: https://img.youtube.com/vi/-8wJ7L1YWuQ/default.jpg
-blogger_id: tag:blogger.com,1999:blog-1667775301366790924.post-6293753789067687200
-blogger_orig_url: http://davehooke.blogspot.com/2016/07/central-pa-real-estate-agent-5-ways-to.html
+  - Home Seller Tips
+modified_time:
+thumbnail: 'https://img.youtube.com/vi/-8wJ7L1YWuQ/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-1667775301366790924.post-6293753789067687200'
+blogger_orig_url: 'http://davehooke.blogspot.com/2016/07/central-pa-real-estate-agent-5-ways-to.html'
 ---
-{% include youtube.html %}
-If you’re planning on selling your home this summer, there are five things you can do to increase your home’s value:
+
+
+{% include youtube.html %}If you’re planning on selling your home this summer, there are five things you can do to increase your home’s value:
 
 1. Paint. I always recommend a fresh coat of paint. If you don’t have an eye for color, a coat of crisp white paint can go a long way. If you do have an eye for color, consider a light sand tone or shade of gray. A fresh coat of paint will give your house a nice finish and you will cover fingerprints and stains throughout the house.
 2. Address your front door. A bright red or yellow door can differentiate your home from the rest of the properties on your street and make a great first impression on the buyer.
