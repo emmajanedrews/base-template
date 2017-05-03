@@ -9,9 +9,16 @@ client:
   name: Valerie Van de Zilver
   license_number:
   about_markdown: >-
-    Currently the owner of The Zilver Realty Group as well as Valerie’s Vacation Homes, Valerie dedicates her time to both helping buyers and sellers, and managing forty-plus vacation homes in Orange County, CA. Maintaining a sincere devotion and respect for her clients, Valerie’s network of lenders, buyers and sellers is predominantly by referral and a client-base whom have been with her since she began.<br><br>
+    Currently the owner of The Zilver Realty Group as well as Valerie’s Vacation
+    Homes, Valerie dedicates her time to both helping buyers and sellers, and
+    managing forty-plus vacation homes in Orange County, CA. Maintaining
+    a sincere devotion and respect for her clients, Valerie’s network of lenders,
+    buyers and sellers is predominantly by referral and a client-base whom have
+    been with her since she began.<br><br>
 
-    With over three decades of Mortgage Lending and Real Estate experience, Valerie Van de Zilver has built a career on matching her clients with that perfect home and that unmatched connection as soon as they walk in the door.
+    With over three decades of Mortgage Lending and Real Estate experience,
+    Valerie Van de Zilver has built a career on matching her clients with that
+    perfect home and that unmatched connection as soon as they walk in the door.
   market:
   brand: Zilver Realty Group
   brokerage:
@@ -47,8 +54,8 @@ socials:
   facebook_url: 'https://www.facebook.com/zilverrealtygroup/'
   linkedin_url: 'https://www.linkedin.com/in/valerie-van-de-zilver-8258324'
   gplus_url:
-  youtube_url:
-  twitter_url:
+  youtube_url: 'https://www.youtube.com/channel/UCEDByOnNZ8Yor0UQ1ySlcwA/featured'
+  twitter_url: 'https://twitter.com/ValerieV'
   instagram_url:
   pinterest_url:
   zillow_url: 'https://www.zillow.com/profile/Valerie4Homes/'
