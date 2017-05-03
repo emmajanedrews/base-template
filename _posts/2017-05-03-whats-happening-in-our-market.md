@@ -18,7 +18,7 @@ youtube_code: P9v-fPss0Ts
 
 There are four main statistical numbers that we track to understand what the market is doing. Today we’re looking at those numbers from March 2016 to March 2017.&nbsp;
 
-1. &nbsp;The first number we’re going to look at is the median increase in sales price. What we’ve seen in the last 12 months is a **7.6% median increase in sales price across all property types in the entire metro area.**
+1. The first number we’re going to look at is the median increase in sales price. What we’ve seen in the last 12 months is a **7.6% median increase in sales price across all property types in the entire metro area.**
 
 2. The second number, the median days on market, is decreasing. In fact, we’ve seen the median days on market go down by 16% compared to last year.&nbsp;
 
