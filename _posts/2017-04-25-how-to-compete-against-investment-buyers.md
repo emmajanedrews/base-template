@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Compete Against Investment Buyers
-date: 2017-04-25 11:05:01
+date: 2017-04-25 11:05:00
 tags:
   - Home Buyer Tips
 excerpt: Foreign investors are scooping up homes at an alarming pace. Here’s how you can make your offer stand up to theirs.
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: ZknkD1JN3Y4
+youtube_code: RF7I01jpUOw
 ---
 
 
