@@ -5,7 +5,7 @@ date: 2017-04-26 09:00:00
 tags:
   - Market Update
 excerpt: 'Right now, Orange County is in a unique market that favors both buyers and sellers. I’ll go over a few details that you need to know about this market today.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Valerie+Van+de+Zilver/Orange+County+Real+Estate-+Early+2017+Market+Update.mp4'
 pullquote: Now is a great time to be in the real estate market.
 enclosure_type: video/mp4
 enclosure_time:
