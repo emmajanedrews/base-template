@@ -16,7 +16,7 @@ client:
   brokerage: Personal Wealth Management & 401K Resource
   address: 3883 Telegraph Road Suite 203 Bloomfield Hills, MI 48302
   phone: 248-594-8114
-  phone_type: Cell
+  phone_type: Direct
   phone2: 1-866-844-4102
   phone2_type: Office
   email: scase@fscadvisor.com
@@ -34,7 +34,7 @@ sidebar_CTA:
     CTA_title: Download Your Free eBook
     CTA_text: Tracking Retirement
     CTA_link_text: Download Now
-    CTA_url: http://www.financial-independence.com/contact
+    CTA_url: http://www.fillmypig.com/contact
 
 lender:
   show_section: true
@@ -44,7 +44,7 @@ lender:
   logo_path_2:
   name: Evan Pawloski
   brand: 401k Sales Assistant
-  phone: 313-283-7488
+  phone: 1-866-844-4102
   email: epawloski@fscadvisor.com
   url:
 
