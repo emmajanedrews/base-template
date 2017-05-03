@@ -5,7 +5,7 @@ date: 2017-04-28 00:00:00
 tags:
   - Real Estate
 excerpt: I am happy to present to you my brand-new video blog. Here’s what you can expect.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Loodmy+Jacques/Boyton+Beach+Real+Estate+Agent-+Introducing+My+New+Blog.mp4'
 pullquote: I’m happy to answer any questions you have.
 enclosure_type: video/mp4
 enclosure_time:
