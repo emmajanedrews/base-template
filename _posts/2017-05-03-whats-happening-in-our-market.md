@@ -28,6 +28,6 @@ There are four main statistical numbers that we track to understand what the mar
 
 So what does that mean for you?
 
-1. 4. That brings me to the final number to look at, number of properties for sale.There are over 6,000 less properties for sale than this time last year, which means competition is increasing. More competition is great news for sellers because **houses are selling faster and for more money.** On the buyer’s side, interest rates are still low, so you still have a good amount of purchasing power.&nbsp;
+4. That brings me to the final number to look at, number of properties for sale.There are over 6,000 less properties for sale than this time last year, which means competition is increasing. More competition is great news for sellers because **houses are selling faster and for more money.** On the buyer’s side, interest rates are still low, so you still have a good amount of purchasing power.&nbsp;
 
 If you or anyone you know is looking to buy, sell, or invest, please feel free to give me a call or send me an email. I’m happy to help and look forward to hearing from you!
