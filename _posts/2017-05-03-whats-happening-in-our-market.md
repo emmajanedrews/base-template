@@ -22,7 +22,7 @@ There are four main statistical numbers that we track to understand what the mar
 
 2. The second number, the median days on market, is decreasing. In fact, we’ve seen the median days on market go down by 16% compared to last year.
 
-3. The next number we’re going to take a look at is the month’s supply of inventory, which is a measurement of how many months it would take to sell all the inventory currently on the market if no new properties were added, is very helpful in determining if we are in a seller’s, buyer’s or balanced market. We’ve actually seen a **decrease in the months supply of inventory of 16%** in the last year and have been hovering in a firm seller’s market.&nbsp;
+3. The next number we’re going to take a look at is the month’s supply of inventory, which is a measurement of how many months it would take to sell all the inventory currently on the market if no new properties were added, is very helpful in determining if we are in a seller’s, buyer’s or balanced market. We’ve actually seen a **decrease in the months supply of inventory of 16%** in the last year and have been hovering in a firm seller’s market. &nbsp;
 
 {% include pullquote.html %}
 
