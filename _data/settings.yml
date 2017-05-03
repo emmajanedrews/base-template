@@ -34,7 +34,7 @@ CTAs:
   first_CTA_URL: 'http://www.zilverrealtygroup.com/what-is-my-home-worth/'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://www.zilverrealtygroup.com/property-search/'
-  VR_form:
+  VR_form: 'http://oi.vresp.com?fid=773dab1052'
 sidebar_CTA:
   CTA_image_path: /img/cta-images/004.jpg
   CTA_title: Looking to Buy a Home?
