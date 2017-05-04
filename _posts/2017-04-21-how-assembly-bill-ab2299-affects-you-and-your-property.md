@@ -18,22 +18,15 @@ youtube_code: bLDkcbpiLZM
 
 Can you put your in-laws in the garage?
 
-Hopefully I've got your attention with that question! I actually wanted to address a new bill that passed in California which allows you to add a second unit to your property or convert your garage into livable space. **Here are the main bullet points you should understand:**
+Hopefully I've got your attention with that question! It actually pertains to **a new bill that passed in California which allows you to add a second unit to your property and rent it out or convert your garage into livable space.&nbsp;**
 
-• Assembly bill AB2299 and senate bill SV1069 are the names. You'll need to do a little homework to see how they relate to what you can do with your specific property.
+Here are the main bullet points you should understand:
 
-• It was signed last year and took effect January 1st. Counties and cities are still figuring out the impact on certain areas.
+* **Assembly bill AB2299 and senate bill SV1069** are the names. You'll need to do a little homework to see how they relate to what you can do with your specific property.&nbsp;
+* **Secondary units will now be referred to as 'accessory dwelling units,' or ADUs.** It was signed last year and took effect January 1st. Counties and cities are still figuring out the impact on certain areas. You can visit the LA County website's page on ADUs[link] to learn more.
 
-• Secondary units will now be referred to as 'accessory dwelling units,' or ADUs.
-
-**• There are some restrictions.** For example, you can't build the unit in front of your house and you can't add more than 50% of your existing home's square footage or up to 1,200 square feet.
-
-So how will this impact you?
-
-{% include pullquote.html %}
-
-Say you're in a condo right now and you're close to being able to afford a house but not quite there yet. If you find a house with a garage, you could convert it to livable space and possibly even rent it out, which cuts out a big part of a mortgage payment and makes it more affordable to move into a home.
-
-**It could also be helpful if you want to have family come live with you and you don't have the space right now.** If that's your in-laws, that could be a good thing or a bad thing!
+This bill is a result of a statewide need for more affordable housing and was done simply to make it easier for property owners to add more rentable space to their property. It aims to create more rentable space and in turn, increase the supply of affordable housing.
 
 This is just a general overview of this new bill, so if you have any questions, don't hesitate to give me a call or send me an email. I'm here to help.
+
+{% include pullquote.html %}
