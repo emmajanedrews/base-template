@@ -16,7 +16,7 @@ youtube_code: '-V12Eq1yCNs'
 
 {% include youtube.html %}
 
-The cost of living here in the L.A. area is quite high, so many millennials are having trouble saving for a down payment. Luckily, there’s a great option to get them into a home.
+The cost of living here in the LA area is quite high, so many millennials are having trouble saving for a down payment. Luckily, there’s a great option to get them into a home.
 
 An increasingly popular option for millennials is for their parents to gift them the funds for a home. Instead of leaving money to their children when they pass away, they are making use of the money now so their children can purchase a house. Interest rates are low right now, so it’s a great time for parents to get their kids into a new home.
 
