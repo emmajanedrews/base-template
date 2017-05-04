@@ -5,7 +5,7 @@ date: 2017-05-04 10:00:00
 tags:
   - Home Seller Tips
 excerpt: 'Effective pre-marketing of your home can mean MORE dollars in your pocket and a faster, less stressful sale.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Tad+%26+Debbie+Wicker/Virginia+Real+Estate-+Is+Your+Agent+Doing+Any+Pre-Marketing%253F.mp4'
 pullquote: Pre-marketing helps generate excitement before your home goes live on the market.
 enclosure_type: video/mp4
 enclosure_time:
