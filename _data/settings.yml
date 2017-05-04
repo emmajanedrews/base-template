@@ -7,7 +7,7 @@ custom_links:
     url:
 
 client:
-  name: Dr. Quoc & Dr. Ho
+  name: Dr. Q & Dr. Ho
   license_number:
   about_markdown: |
    Many people meet doctors only after they've lost their health. Dr. Q has a purpose to educate as many families as possible towards optimal health and wellness through chiropractic and wellness lifestyle education, coaching and role-modeling. Ideally this would begin even before health is lost.
@@ -66,7 +66,7 @@ socials:
   linkedin_url:
   gplus_url: https://plus.google.com/100257215422913955297?gl=us&hl=en
   youtube_url: https://www.youtube.com/channel/UCx9r87_UHy9AVLCc7u0M18w
-  twitter_url:
+  twitter_url: https://twitter.com/Hack_YourHealth
   instagram_url:
   pinterest_url:
   zillow_url:
