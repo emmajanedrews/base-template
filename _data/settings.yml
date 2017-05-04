@@ -32,7 +32,7 @@ client:
   phone2:
   phone2_type: Cell
   email: daveknight@kw.com
-  url: 'http://daveknightrealestate.com'
+  url: www.daveknightrealestate.com
   first_CTA_text: Home Valuation
   first_CTA_URL: 'https://daveknightrealestateteam.brivityvaluations.com/'
   second_CTA_text: Home Search
