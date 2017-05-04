@@ -1118,7 +1118,7 @@ html[xmlns] .flexslider .slides {
   .flex-direction-nav .flex-next {
     opacity: 1;
     right: 10px; } }
-/*
+/* 
  * 	Core Owl Carousel CSS File
  *	v1.3.3
  */
@@ -2479,7 +2479,7 @@ table tr, table td {
   text-align: center;
   font-size: 18px; }
   .footer hr {
-    border-top: 2px solid white; }
+    border-top: 2px solid #002B6E; }
   .footer address {
     font-style: normal; }
 
