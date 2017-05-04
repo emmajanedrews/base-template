@@ -23,10 +23,10 @@ Hopefully I've got your attention with that question! It actually pertains to **
 Here are the main bullet points you should understand:
 
 * **Assembly bill AB2299 and senate bill SV1069** are the names. You'll need to do a little homework to see how they relate to what you can do with your specific property.
-* **Secondary units will now be referred to as 'accessory dwelling units,' or ADUs.** It was signed last year and took effect January 1st. Counties and cities are still figuring out the impact on certain areas. You can visit the LA County website's page on ADUs[link] to learn more.
+* **Secondary units will now be referred to as 'accessory dwelling units,' or ADUs.** It was signed last year and took effect January 1st. Counties and cities are still figuring out the impact on certain areas. You can visit the [LA County website's page on ADUs](http://planning.lacounty.gov/adu/)&nbsp;to learn more.
+
+{% include pullquote.html %}
 
 This bill is a result of a statewide need for more affordable housing and was done simply to make it easier for property owners to add more rentable space to their property. It aims to create more rentable space and in turn, increase the supply of affordable housing.
 
 This is just a general overview of this new bill, so if you have any questions, don't hesitate to give me a call or send me an email. I'm here to help.
-
-{% include pullquote.html %}
