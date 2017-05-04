@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Importance of Pre-Marketing
+title: Pre-Marketing Matters.
 date: 2017-05-04 10:00:00
 tags:
   - Home Seller Tips
@@ -29,6 +29,6 @@ As a result, we had a buyer contact their agent to see the home on Thursday BEFO
 
 My sellers were thrilled that they didn’t have to have their home on the market for a long time, managing weeks of showings. The buyers were also thrilled that they were able to buy the home they really wanted.
 
-The next time you’re selecting an agent to help you market your home for sale, remember some carefully thought out pre-marketing can make a big difference.&nbsp;
+The next time you’re selecting an agent to help you market your home for sale, remember some carefully thought out pre-marketing can make a big difference.
 <br>
 <br>If I can help you with anything in the wonderful world of real estate, please feel free to email me or give me a call. I look forward to hearing from you!
