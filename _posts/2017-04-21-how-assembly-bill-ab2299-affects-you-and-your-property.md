@@ -20,12 +20,12 @@ Can you put your in-laws in the garage?
 
 Hopefully I've got your attention with that question! It actually pertains to **a new bill that passed in California which allows you to add a second unit to your property and rent it out or convert your garage into livable space.**
 
+{% include pullquote.html %}
+
 Here are the main bullet points you should understand:
 
 * **Assembly bill AB2299 and senate bill SV1069** are the names. You'll need to do a little homework to see how they relate to what you can do with your specific property.
 * **Secondary units will now be referred to as 'accessory dwelling units,' or ADUs.** It was signed last year and took effect January 1st. Counties and cities are still figuring out the impact on certain areas. You can visit the [LA County website's page on ADUs](http://planning.lacounty.gov/adu/)&nbsp;to learn more.
-
-{% include pullquote.html %}
 
 This bill is a result of a statewide need for more affordable housing and was done simply to make it easier for property owners to add more rentable space to their property. It aims to create more rentable space and in turn, increase the supply of affordable housing.
 
