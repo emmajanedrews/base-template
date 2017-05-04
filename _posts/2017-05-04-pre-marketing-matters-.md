@@ -4,7 +4,7 @@ title: Pre-Marketing Matters.
 date: 2017-05-04 10:00:00
 tags:
   - Home Seller Tips
-excerpt: Having an agent that does pre-marketing for your home means your home likely won’t be exposed to the market for too long.
+excerpt: 'Effective pre-marketing of your home can mean MORE dollars in your pocket and a faster, less stressful sale.'
 enclosure:
 pullquote: Pre-marketing helps generate excitement before your home goes live on the market.
 enclosure_type: video/mp4
