@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 5 hidden costs of homeownership
-date:
+date: 2017-05-05 10:42:09
 tags:
   - Home Buyer Tips
 excerpt: "When you buy a house, don't forget to account for these five costs that tend to go overlooked."
