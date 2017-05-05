@@ -1,5 +1,17 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
+  - quote: "My moving experience couldn't have been more successful and stress free thanks to Sarita and her team.  Sarita's straight forward, friendly and funny attitude was exactly what my wife and I were looking for in a realtor.  Transaction coordinator, Ramy, was attentive, friendly and always happy to   explain things to me.  We're 100% satisfied and have already recommended Sarita and her team to friends"
+    name: Trevor
+    audio:
+  - quote: "The sale could not have gone smoother.  Sarita and her staff were extremely helpful and responsive.  And, the best part is when we had 5 offers to choose from, Sarita negotiated a deal that was a win-win for all involved.  I highly recommend Sarita."
+    name: Lisa
+    audio:
+  - quote: "We were moving from Seattle to Portland and Sarita and her team did a great job to ensure our time together was efficient and focused on looking at the things that were right for us. he was great throughout the whole process and I felt like she really represented my family's best interest.  Since we closed on our house, Sarita has been a great resource for questions about the market as well as connecting with great contractors for  plumbing, electric and counters."
+    name: Kendall
+    audio:
+  - quote: "Sarita and her team were amazing to work with. My husband and I had 1 day to look at houses and we were shown incredible options within our budget. After only 1 day of looking, we found our perfect home thanks to this team. The process was so easy and seamless, Sarita handled everything with ease.   She is quick to respond to emails and texts and on top of any small issue that may arise. From her assistants who showed us the property and dealt with back end details (Candace and Ramey) we couldn't have been more impressed with the entire team. We especially appreciated all of their honesty! Would highly recommend!"
+    name: Alli
+    audio:
+  - quote: "Sarita is very professional, and very focused when it comes to selling a house.  She knew exactly what she needed done to make the house show the best, and executed that plan flawlessly.  The staged house was absolutely beautiful.  We had and accepted an offer within the first week for a house   priced in a very difficult price bracket.  And her help didn't stop at getting the offer -- she helped every step of the way through negotiating with the buyers on inspection items, paperwork, and the logistics."
+    name: Joe
     audio:
