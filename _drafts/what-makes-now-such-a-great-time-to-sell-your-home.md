@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Makes Now Such a Great Time to Sell Your Home?
-time: 05-17-2017
+date: 05-17-2017
 tags:
   - Home Seller Tips
 excerpt: "If you've thought about selling your house, there are a few reasons why now might be your best opportunity in years."
