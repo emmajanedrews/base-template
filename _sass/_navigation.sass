@@ -7,12 +7,12 @@
 	overflow: hidden
 
 .navbar-andross .navbar-brand
-	color: $brand
 	padding-top: 20px
 	padding-bottom: 33px
 	font-size: 20px
 	text-transform: uppercase
 	max-width: 65%
+	color: white
 
 .navbar-nav>li
 	margin-right: 10px
@@ -20,11 +20,11 @@
 
 .navbar-left>li>a
 	border: 0
-	background: transparent
-	color: #25211D
+	background: $brand
+	color: white
 	margin-top: 15px
 	&:hover
-		background: transparent
+		background: white
 		color: $brand-light
 
 .fa-bars
@@ -53,6 +53,7 @@
 			opacity: 0
 .scroll-nav-color
 	background: transparentize($theme, 0)
+	color: white
 	animation: .5s fadeNavigation ease-in-out
 	+shadow
 @keyframes fadeNavigation
@@ -66,6 +67,7 @@
 	// 	background: $brand
 	100%
 		background: transparentize($theme, 0)
+		color: white
 		transform: translateY(0)
 		+shadow
 		// background: $theme
