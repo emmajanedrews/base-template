@@ -18,12 +18,12 @@ youtube_code: 3YpLvQkFn40
 
 If you have a home to sell, agent caravan can be very beneficial to you. It's where a bunch of agents from one or multiple offices get together to talk about new listings to benefit our clients.
 
-In the video above, you can actually see agents' cars starting to gather around me for agent caravan. **We'll talk about the new properties and their benefits, as well as the prices.** We'll then pitch it to the other agents. Then, someone might stand up and say they have an interested buyer or that they want to go see it.&nbsp;
+In the video above, you can actually see agents' cars starting to gather around me for agent caravan. **We'll talk about the new properties and their benefits, as well as the prices.** We'll then pitch it to the other agents. Then, someone might stand up and say they have an interested buyer or that they want to go see it.
 
 {% include pullquote.html %}
 
 We might have as many as 40 agents trekking through a house before it even hits the market to help their buyer.
 
-It's very powerful tool to use to attract buyers to your home. **You can get a lot of traffic and feedback on your house before it even goes on the market, which are both extremely valuable assets when selling a home.**&nbsp;
+It's very powerful tool to use to attract buyers to your home. **You can get a lot of traffic and feedback on your house before it even goes on the market, which are both extremely valuable assets when selling a home.**
 
 If you're thinking about selling your house or you're curious about using agent caravan to get more traffic and feedback on your home, don't hesitate to give me a call or send me an email. I'd be happy to help you!
