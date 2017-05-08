@@ -4,7 +4,7 @@ title: 4 Ways to Make Your Offer More Attractive Without Paying More
 tags:
   - Buyer Tips
 excerpt: There are four main ways to make your offer on a Portland home stand out without raising your offer price.
-enclosure:
+enclosure: 'http://vyralmarketing.s3.amazonaws.com/Trudy%20Coler/4%20Ways%20to%20Make%20Your%20Offer%20More%20Attractive%20Without%20Paying%20More.mp4'
 pullquote: Shortening your closing time frame reduces the risk for the seller.
 enclosure_type: video/mp4
 enclosure_time:
