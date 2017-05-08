@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 'Hacking Your Health: The Additive Health Effect'
-date: 2017-05-08 10:30:28
-tags: 
+date: 2017-05-08 10:30:00
+tags:
+  - General Health
 excerpt: 'The additive health effect is important to remember whenever you are tempted to give up on exercise, healthy eating habits, or a positive mindset.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Dr.+Q/Hacking+Your+Health+The+Additive+Health+Effect.mp4'
 pullquote: 'Don’t give up on eating better or working out more in just two weeks!'
