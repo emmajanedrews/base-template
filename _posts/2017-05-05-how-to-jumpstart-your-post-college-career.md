@@ -20,7 +20,9 @@ If you just finished college but you aren’t sure what you want to do or how to
 
 First of all, you need to be aware of the latest demographic trends and how they will affect your career. Baby boomers are retiring at a rate of 10,000 people a day. There simply aren’t enough experienced people to replace the baby boomers, which creates an opportunity for up and comers.&nbsp;
 
-Secondly, I recommend that you read **[“Outliers” by Malcolm Gladwell](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930/ref=sr_1_1?ie=UTF8&amp;qid=1488484320&amp;sr=8-1&amp;keywords=book+the+outliers)**. This is a great book and its fundamental thesis is that it takes 10,000 hours for you to become really good at any skillset. From athletics to music to software programming, you need 10,000 hours of experience to fully understand the skills needed for the job.&nbsp;
+Secondly, I recommend that you read **[“Outliers” by Malcolm Gladwell](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930/ref=sr_1_1?ie=UTF8&amp;qid=1488484320&amp;sr=8-1&amp;keywords=book+the+outliers)**. This is a great book and its fundamental thesis is that it takes 10,000 hours for you to become really good at any skill set. From athletics to music to software programming, you need 10,000 hours of experience to fully understand the skills needed for the job.&nbsp;
+
+{% include pullquote.html %}
 
 **As a recent college graduate, you need to figure out how you can combine the demographic trends with the 10,000 hour rule.**&nbsp;
 
@@ -33,5 +35,3 @@ So, you need to go into an area where you can develop some passion for the job a
 **Companies are dying to hire people who know their space and can bring value to the table.** To be successful in your career, you need to become that person.&nbsp;
 
 If you have any other questions about entering the real world of business, give me a call or send me an email. I would be happy to help you!
-
-{% include pullquote.html %}
