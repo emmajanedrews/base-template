@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Be Careful When Making Upgrades Before Selling Your Home
-date: 2017-04-28 11:38:28
+date: 2017-04-28 11:38:00
 tags:
   - Home Seller Tips
 excerpt: 'Making repairs before you sell your home is smart. Beware of over improving, however.'
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/8amsxcsO5_Y'
+youtube_code: 'https://youtu.be/7GpEX7Idqug'
 ---
 
 
