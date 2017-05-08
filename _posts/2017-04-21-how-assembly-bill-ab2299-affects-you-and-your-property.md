@@ -4,7 +4,7 @@ title: How Assembly Bill AB2299 Affects You and Your Property
 tags:
   - Homeowner Tips
 excerpt: "There's a new bill here in California that could have a significant impact on your living space."
-enclosure: 'http://vyralmarketing.s3.amazonaws.com/Dave%20Knight/How%20Assembly%20Bill%20AB2299%20Affects%20You%20and%20Your%20Property.mp4'
+enclosure: 'http://vyralmarketing.s3.amazonaws.com/Dave%20Knight/How%20Assembly%20Bill%20AB2299%20Affects%20You%20and%20Your%20Property%20%281%29.mp4'
 pullquote: This bill aims to create more affordable housing statewide.
 enclosure_type: video/mp4
 enclosure_time:
