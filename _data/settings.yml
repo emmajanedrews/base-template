@@ -19,12 +19,12 @@ client:
   phone2:
   phone2_type:
   email: Bryan@BDGRealEstate.com
-  url: http://coasthomesearch.com
+  url: 'http://coasthomesearch.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'http://coasthomesearch.com/sell//'
+  first_CTA_URL: 'http://www.coasthomesales.com/cma/property-valuation/'
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://coasthomesearch.com/'
+  second_CTA_URL: 'http://www.coasthomesales.com/'
   VR_form: 'http://oi.vresp.com?fid=ee203e8ab4'
 sidebar_CTA:
   CTA_image_path: /img/cta-images/003.jpg
