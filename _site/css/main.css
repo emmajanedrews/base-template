@@ -1118,7 +1118,7 @@ html[xmlns] .flexslider .slides {
   .flex-direction-nav .flex-next {
     opacity: 1;
     right: 10px; } }
-/*
+/* 
  * 	Core Owl Carousel CSS File
  *	v1.3.3
  */
@@ -1588,7 +1588,7 @@ label.tree-toggle {
   background-position: center;
   background-size: cover;
   padding-top: 10rem;
-  padding-bottom: 2rem; }
+  padding-bottom: 6rem; }
 
 #hero {
   background-position: center;
@@ -1609,7 +1609,7 @@ label.tree-toggle {
   text-transform: uppercase;
   font-size: 6.5rem;
   padding-bottom: 0;
-  margin-bottom: 4rem;
+  margin-bottom: 0;
   margin-top: 4rem;
   background: #fff; }
 
@@ -1633,7 +1633,6 @@ label.tree-toggle {
 
   .site-title {
     font-size: 3.5rem; }
-
 
   .cta {
     padding: 1rem; } }
