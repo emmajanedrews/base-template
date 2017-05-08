@@ -16,7 +16,7 @@ youtube_code: zdXSKi982jw
 
 {% include youtube.html %}
 
-Welcome to the second part of our three-part series on how to invest in real estate. If you missed our first entry, you can see it [**here**](http://colemererealtyvideoblog.com/considering-an-investment-property-part-1.html). Click **[here](https://drive.google.com/file/d/0B2GvIfUP4V3RTThQdm9lLTNTalE/view?usp=sharing)** to view a .pdf of investment formulas to help you out!
+Welcome to the second part of our three-part series on how to invest in real estate. If you missed our first entry, you can see it [**here**](http://colemererealtyvideoblog.com/considering-an-investment-property-part-1.html). Click **[here](https://drive.google.com/file/d/0B2GvIfUP4V3RTThQdm9lLTNTalE/view?usp=sharing)**{: target-"_blank"} to view a .pdf of investment formulas to help you out!
 
 Now that you’ve found a property you like, what happens next? Next, you have to evaluate that property, and there are three important factors to take into consideration.&nbsp;
 
