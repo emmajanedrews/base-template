@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A Creative Method to Creative Buzz & Exposure for Your Listing'
+title: 'A Creative Method to Creating Buzz & Exposure for Your Listing'
 tags:
   - Home Seller Tips
 excerpt: "Agent caravan brings a large pool of agents to your home to give it exposure before even hitting the market. Here's how it works."
