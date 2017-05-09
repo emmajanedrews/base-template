@@ -8,8 +8,8 @@ enclosure: 'http://vyralmarketing.s3.amazonaws.com/Casey%20Cooke/A%20Creative%20
 pullquote: Agent caravan is a powerful tool to expose your home before even going on the market.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/no-pb-20.jpg
 youtube_code: 3YpLvQkFn40
 ---
 
