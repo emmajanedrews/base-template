@@ -8,8 +8,8 @@ enclosure: 'http://vyralmarketing.s3.amazonaws.com/Trudy%20Coler/4%20Ways%20to%2
 pullquote: Shortening your closing time frame reduces the risk for the seller.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/no-pb-21.jpg
 youtube_code: PZXHz8pmF9g
 ---
 
