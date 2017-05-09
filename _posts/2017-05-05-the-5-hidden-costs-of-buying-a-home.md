@@ -5,7 +5,7 @@ date: 2017-05-05 10:42:00
 tags:
   - Home Buyer Tips
 excerpt: "When you buy a house, don't forget to account for these five costs that tend to go overlooked."
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Central+PA+Real+Estate+Agent-+The+5+hidden+costs+of+homeownership.mp4'
 pullquote: "Don't forget about the maintenance costs you could have five to 10 years down the road."
 enclosure_type: video/mp4
 enclosure_time:
@@ -21,7 +21,7 @@ As a homeowner, there are five hidden costs that you might run into:
 
 **1. Closing costs:** Everyone knows about the down payment when you buy a house, but many forget about the closing costs like the transfer tax, title insurance, and lender fees to name a few.
 
-**2. Furniture:&nbsp;**Study after study has shown that the amount you'll spend on furniture is the most commonly underestimated cost in buying a home. Make sure you consider (and overestimate) the money you'll spend on furniture and decor before you get a mortgage pre-approval and decide on your purchase price range.
+**2. Furniture:**Study after study has shown that the amount you'll spend on furniture is the most commonly underestimated cost in buying a home. Make sure you consider (and overestimate) the money you'll spend on furniture and decor before you get a mortgage pre-approval and decide on your purchase price range.
 
 {% include pullquote.html %}
 
