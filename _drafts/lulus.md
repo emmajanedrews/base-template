@@ -2,19 +2,20 @@
 layout: post
 title: "Lulu's"
 tags:
-  - Market Update
-  - Real Estate
-  - Buyer Tips
-  - Home Seller Tips
+  - Venue Reviews
 excerpt:
 enclosure:
-pullquote: 'Andross, the Final Boss'
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image:
-youtube_code: uieM18rZdHY
+youtube_code: EJz6XucRfeI
 ---
+
+
 {% include youtube.html %}
 
-{% include pullquote.html %}
+I’m here today to talk to you about one of my favorite places in the area that you may not know about. We're visiting it today, and I’m excited to talk about it.
+
+This is Lulu’s, a restaurant in Destin right by the Mid-Bay Bridge. They have a big outdoor beach, lots of great seating, and all kinds of activities and events for kids. It has beautiful views of the ocean with both outdoor and indoor seating.
