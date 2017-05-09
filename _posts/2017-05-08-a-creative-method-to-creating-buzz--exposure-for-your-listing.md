@@ -24,6 +24,6 @@ In the video above, you can actually see agents' cars starting to gather around 
 
 We might have as many as 40 agents trekking through a house before it even hits the market to help their buyer.
 
-It's very powerful tool to use to attract buyers to your home. **You can get a lot of traffic and feedback on your house before it even goes on the market, which are both extremely valuable assets when selling a home.**
+It's a very powerful tool to use to attract buyers to your home. **You can get a lot of traffic and feedback on your house before it even goes on the market, which are both extremely valuable assets when selling a home.**
 
 If you're thinking about selling your house or you're curious about using agent caravan to get more traffic and feedback on your home, don't hesitate to give me a call or send me an email. I'd be happy to help you!
