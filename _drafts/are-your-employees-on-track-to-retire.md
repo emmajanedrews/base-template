@@ -22,7 +22,7 @@ In my many years as a 401(k) coach and advisor, I’ve learned that 85% of emplo
 
 {% include pullquote.html %}
 
-This video series is going to be all about my book and my strategies to getting your employees to reach their retirement goals. If you'd like to get started right away, you can get a free copy of my book by clicking here[link]. Otherwise, over the next year, I’ll be sending you a couple videos a month that will detail how to ensure your employees get that paycheck for life.
+This video series is going to be all about my book and my strategies to getting your employees to reach their retirement goals. If you'd like to get started right away, you can get a free copy of my book by [clicking here](http://ccadvisors.com/about-cca-financial-planning/the-team/mario-c-giganti-cpa-cfp-aifa/). Otherwise, over the next year, I’ll be sending you a couple videos a month that will detail how to ensure your employees get that paycheck for life.
 
 The videos will be short and informative and will cover topics relating to your employee’s retirement. For example, in 2006 the Pension Protection Act was passed. This allows you as an employer to follow specific procedures when setting up retirement for your employees that will keep you protected.
 
