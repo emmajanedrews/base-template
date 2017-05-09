@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 'Our Key to Time & Task Management Success'
-date: 2017-05-05 10:55:55
+date: 2017-05-05 10:55:00
 tags:
   - Real Estate
 excerpt: You should always work on a few projects in 90-minute chunks each week to grow the business.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/Central+PA+Real+Estate+Agent-+Our+time+management+worksheet+(1).mp4'
 pullquote: You should always work on a few projects in 90-minute chunks each week to grow the business.
 enclosure_type: video/mp4
 enclosure_time:
@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/yDJvJIdtkPw'
 
 When it comes to time management and planning your week, there's one critical tool you must have. We call it the "Dominate Your Day, Win Your Week" worksheet and we fill one out every morning to stay focused on growth activities.
 
-As you can see on the sample sheet in the video above, we put 'on business' projects on top. We consider 'on business' things to be systems and other things that will grow the business like projects and lead generation. **You should always be working on two or three projects in 90-minute time chunks each week&nbsp;****to grow the business.**
+As you can see on the sample sheet in the video above, we put 'on business' projects on top. We consider 'on business' things to be systems and other things that will grow the business like projects and lead generation. **You should always be working on two or three projects in 90-minute time chunks each week****to grow the business.**
 
 Below that is a breakdown of the top six money-making activities for a given day. For example, prospecting to 20 people or hand writing two notes could be a top task every single day. Then, you can categorize other tasks that are good to get done each day, but aren't completely necessary.
 
