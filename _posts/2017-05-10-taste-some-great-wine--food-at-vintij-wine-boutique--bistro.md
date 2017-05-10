@@ -34,6 +34,7 @@ He prefers guests’ experience to be simple. He knows they’re there to have a
 
 This is a place our team loves to go to, and it’s one of the top-rated restaurants in town. We always feel welcome there, the food is always superb, and they support the local residents. We highly recommend you try the experience for yourself.
 
-We want to thank Todd for sitting down to talk with us. If you’d like to know more about Vin’tij, visit their website at [www.Vintij.com.](http://www.vintij.com/)
+We want to thank Todd for sitting down to talk with us. If you’d like to know more about Vin’tij, visit their website at [www.Vintij.com.](http://www.vintij.com/){:target="_blank"}
+
 
 If you have any other questions for us, feel free to give us a call or shoot us an email. We’d be happy to help.
