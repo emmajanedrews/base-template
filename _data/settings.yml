@@ -7,11 +7,11 @@ custom_links:
     url:
 
 client:
-  name: Patty Sells NC Team
+  name: Patty Gillepsie
   license_number:
   about_markdown: |
 
-  market:
+  market: Raleigh Real Estate
   brand: Patty Sells NC Team
   brokerage: Keller Williams Elite Realty
   address: 245 E NC HWY 54 Suite 101 <br> Durham, NC 27713
@@ -20,7 +20,7 @@ client:
   phone2:
   phone2_type:
   email: info@pattsellsnc.com
-  url: pattysellsnc.com
+  url: http://pattysellsnc.com
 
 CTAs:
   first_CTA_text: Home Valuation
@@ -30,7 +30,7 @@ CTAs:
   VR_form:
 
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/004.jpg
+  - CTA_image_path: /img/cta-images/005.jpg
     CTA_title: Looking to Buy a Home?
     CTA_text: Search the entire MLS for homes located in -- MARKET --.
     CTA_link_text: Home Search Tool
