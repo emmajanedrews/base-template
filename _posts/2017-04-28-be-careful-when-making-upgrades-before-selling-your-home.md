@@ -5,7 +5,7 @@ date: 2017-04-28 11:38:00
 tags:
   - Home Seller Tips
 excerpt: 'Making repairs before you sell your home is smart. Beware of over improving, however.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Jason+Wilson/Woodstock%252C+GA+Real+Estate+Agent-+Not+Every+Repair+Is+Smart.mp4'
 pullquote: Simple fixes like paint and flooring are always recommended.
 enclosure_type: video/mp4
 enclosure_time:
