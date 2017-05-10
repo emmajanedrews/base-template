@@ -9,7 +9,7 @@ pullquote: Shortening your closing time frame reduces the risk for the seller.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/no-pb-21.jpg
+youtube_alternate_image: /uploads/no-pb-33.jpg
 youtube_code: PZXHz8pmF9g
 ---
 
