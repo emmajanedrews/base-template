@@ -7,7 +7,7 @@ custom_links:
     url:
 
 client:
-  name: Brian Canady
+  name: Brian & Tiffany Canady
   license_number:
   about_markdown: |
     It's our mission, as a team to provide individuals and families with a full service Real Estate practice.
@@ -28,7 +28,7 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.buysprings.com/market-report/
+  first_CTA_URL: http://www.buysprings.com/cma/property-valuation/
   second_CTA_text: Home Search
   second_CTA_URL: http://www.buysprings.com/
   VR_form:
