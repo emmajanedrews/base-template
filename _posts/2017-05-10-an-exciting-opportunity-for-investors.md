@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An exciting opportunity for investors
-date:
+date: 2017-05-10 16:17:43
 tags:
   - Real Estate
 excerpt: 'If you’re looking to invest, you might want to consider the Airbnb strategy. I’ll go over the details today.'
