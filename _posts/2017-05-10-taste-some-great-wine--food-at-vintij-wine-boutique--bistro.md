@@ -3,7 +3,7 @@ layout: post
 title: 'Taste Some Great Wine & Food at Vin’tij Wine Boutique & Bistro'
 tags:
   - Venue Reviews
-excerpt:
+excerpt: 'Have you been to Vin’tij Wine Boutique & Bistro yet? We recently sat down with owner Todd Reber to give you a taste of what you’re missing in our latest local venue spotlight.'
 enclosure:
 pullquote: 'We always feel welcome at Vin’tij, and the food is superb.'
 enclosure_type: video/mp4
