@@ -22,7 +22,10 @@ youtube_code: ugv6c_dSkVY
 1. **Be financially ready.**You need to have a pre-qualification letter. Many offers get overlooked because the buyer is not yet qualified.
 2. **Consider your loan type.** Conventional loans are considered a little less risky than an FHA loan. When viewed side by side, the offer with the conventional loan will have the edge.
 3. **Shorten your loan approval time.** Once you’ve gotten a pre-qualification letter, continue to work with your lender to get pre-approved. A pre-approval means you can shorten the commitment time on the purchase of the home. It also shows the seller you are taking the necessary steps to get your mortgage.
-4. **Consider pre-inspecting the property.** If you can get the property inspected prior to writing a purchase in sale, you can omit the contingency for inspection on your offer. This will put you in a great spot compared to other offers with inspection contingencies.{% include pullquote.html %}
+4. **Consider pre-inspecting the property.** If you can get the property inspected prior to writing a purchase in sale, you can omit the contingency for inspection on your offer. This will put you in a great spot compared to other offers with inspection contingencies.
+   <br>
+   <br>{% include pullquote.html %}
+   <br>&nbsp;
 5. **Waive the appraisal contingency.** If you are comfortable that the price you’re offering is the price you’re going to pay, you can remove the appraisal contingency. If you can’t afford to do that, consider offering a premium above the appraisal, which means you’re willing to offer a certain dollar amount above what the appraisal values the home at.
 6. **Earnest money.** Typically earnest money is between 1% and 3%. Offering between 3% and 5% lets the seller you know you are in a good spot financially.
 7. **Consider non-refundable funds.** If you’re comfortable with the property and your ability to get a loan, you may want to make your earnest money non-refundable.
