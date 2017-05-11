@@ -5,7 +5,7 @@ date: 2017-05-10 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: 'If you’re looking to buy a home in our market, you’ll need to know how to make your offer stand out. I’ve got 10 tips to help you do just that.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Dave+Heeter/Southern+New+Hampshire+Real+Estate+Agent-+10+Tips+for+Winning+Your+Dream+Home.mp4'
 pullquote: Getting your offer accepted isn’t always about offering the highest price.
 enclosure_type: video/mp4
 enclosure_time:
@@ -19,7 +19,7 @@ youtube_code: RNoR65o2RTE
 <br>
 <br>It’s not always about offering the highest price. Don’t get me wrong, the offer needs to be strong, but coming in with favorable terms for the seller can improve your position over a buyer who’s coming in with a slightly higher offer. That being said, I have a few tips you can use if you’re looking to buy a home in this seller’s market:
 
-1. **Be financially ready.**You need to have a pre-qualification letter. &nbsp;Many offers get overlooked because the buyer is not yet qualified.
+1. **Be financially ready.**You need to have a pre-qualification letter.  Many offers get overlooked because the buyer is not yet qualified.
 2. **Consider your loan type.** Conventional loans are considered a little less risky than an FHA loan. When viewed side by side, the offer with the conventional loan will have the edge.
 3. **Shorten your loan approval time.** Once you’ve gotten a pre-qualification letter, continue to work with your lender to get pre-approved. A pre-approval means you can shorten the commitment time on the purchase of the home. It also shows the seller you are taking the necessary steps to get your mortgage.
 4. **Consider pre-inspecting the property.** If you can get the property inspected prior to writing a purchase in sale, you can omit the contingency for inspection on your offer. This will put you in a great spot compared to other offers with inspection contingencies.
