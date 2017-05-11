@@ -10,7 +10,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/kids.jpg
 youtube_code:
 ---
 
@@ -27,4 +27,4 @@ This has been an argument for the last couple of years. People who own homes hav
 
 Well, people that are homeowners can help their kids out with that. They can look their kids in the eye and say, “Are you worth the investment? Is it worth me taking money out of the house to invest in you?” And so many parents see that yes, it is. And that’s what the study from Boston Federal Reserve shows. Homeowners’ children – the income of homeowners’ children rises as values rise. The more they’re able to invest in their kids, the better future their kids have.
 
-Again, we don’t list and sell houses for a living.&nbsp;**We change people’s lives for a living.**&nbsp;We do it by listing and selling homes.
+Again, we don’t list and sell houses for a living. **We change people’s lives for a living.** We do it by listing and selling homes.
