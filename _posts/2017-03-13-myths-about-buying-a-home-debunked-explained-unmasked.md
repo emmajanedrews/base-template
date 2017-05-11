@@ -7,7 +7,7 @@ tags:
 excerpt: Here are the 2 myths that may be holding you back from buying
 enclosure:
 pullquote:
-enclosure_type: application/pdf
+enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/screenshot-1-600x400.png

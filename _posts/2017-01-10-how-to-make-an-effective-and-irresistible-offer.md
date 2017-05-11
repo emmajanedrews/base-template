@@ -7,7 +7,7 @@ tags:
 excerpt: 'So you’ve been searching for that perfect house to call a ‘home’ and you finally found one! The price is right, and in such a competitive market you want to make sure you make a good offer so that you can guarantee your dream of making this house yours comes true!'
 enclosure:
 pullquote:
-enclosure_type: application/pdf
+enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/untitled-2-600x400.png

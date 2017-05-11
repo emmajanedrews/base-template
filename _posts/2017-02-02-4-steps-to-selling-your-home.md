@@ -7,7 +7,7 @@ tags:
 excerpt: "The best part in homeownership is the one where you and your loved ones create lifetime memories together. It is your own sanctuary of emotions and experiences. But there will come a time when you'll be in great need to move on in life, and selling your beloved home which mirrors who you will be fundamental."
 enclosure:
 pullquote:
-enclosure_type: application/pdf
+enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/1-1-600x400.png

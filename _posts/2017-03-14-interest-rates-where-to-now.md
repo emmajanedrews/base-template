@@ -7,7 +7,7 @@ tags:
 excerpt: 'WHERE ARE INTEREST RATES HEADED?  If you are considering moving up to your dream home, it may be better to do it sooner than later.'
 enclosure:
 pullquote:
-enclosure_type: application/pdf
+enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/screenshot-3.png

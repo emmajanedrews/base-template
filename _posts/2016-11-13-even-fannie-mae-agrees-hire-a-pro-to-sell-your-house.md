@@ -7,7 +7,7 @@ tags:
 excerpt: 'Do you really need an agent to sell your house in today’s market? Here’s what Fannie Mae suggests to sellers on the “Know Your Options” section of their website:'
 enclosure:
 pullquote:
-enclosure_type: application/pdf
+enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/screenshot-1.png

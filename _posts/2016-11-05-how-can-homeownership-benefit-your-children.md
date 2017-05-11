@@ -7,7 +7,7 @@ tags:
 excerpt: There are a lot of things that homeownership brings to communities. Homeownership provides social benefits beyond pure financial economic benefits.
 enclosure:
 pullquote:
-enclosure_type: application/pdf
+enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/kids.jpg

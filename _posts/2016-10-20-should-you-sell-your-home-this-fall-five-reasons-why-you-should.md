@@ -5,9 +5,9 @@ date: 2016-10-20 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: 'The fall real estate market is upon us. Should you sell your home now or wait for spring? Here are five reasons why you should consider listing your home now:'
-enclosure:
+enclosure: 
 pullquote:
-enclosure_type: application/pdf
+enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/10-01-2013-autumn-leaves.jpg

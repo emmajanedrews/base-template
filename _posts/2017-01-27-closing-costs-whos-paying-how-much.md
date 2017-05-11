@@ -7,7 +7,7 @@ tags:
 excerpt: 'There are many potential homebuyers, and even sellers, who believe that you need at least a  20% down payment in order to buy a home, or move on to their next home. Time after time,  we have dispelled this myth'
 enclosure:
 pullquote:
-enclosure_type: application/pdf
+enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/picture2.png

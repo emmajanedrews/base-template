@@ -7,7 +7,7 @@ tags:
 excerpt: 'n this day and age of being able to shop for anything anywhere, it is really important to know what you’re looking for when you start your home search.'
 enclosure:
 pullquote:
-enclosure_type: application/pdf
+enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/20161019-share-kcm-600x315.jpg

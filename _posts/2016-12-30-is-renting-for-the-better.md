@@ -7,7 +7,7 @@ tags:
 excerpt: 'BUYING IS NOW 37.7% CHEAPER THAN RENTING IN THE US.'
 enclosure:
 pullquote:
-enclosure_type: application/pdf
+enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/winterbuyer-600x400.png

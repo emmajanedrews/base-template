@@ -7,7 +7,7 @@ tags:
 excerpt: 'So you made an offer, it was accepted, and  now your next task is to have the home  inspected prior to closing. More often than  not, your agent may have made your offer  contingent on a clean home inspection.'
 enclosure:
 pullquote:
-enclosure_type: application/pdf
+enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/picture1.png

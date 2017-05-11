@@ -7,7 +7,7 @@ tags:
 excerpt: So you’ve decided to sell your house. You’ve hired a real estate professional to help you with the entire process and they have asked you what level of access you want to provide to potential buyers.
 enclosure:
 pullquote:
-enclosure_type: application/pdf
+enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/the-role-access-plays-in-getting-your-house-sold-1-600x400.png

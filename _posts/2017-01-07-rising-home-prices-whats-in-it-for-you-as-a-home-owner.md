@@ -7,7 +7,7 @@ tags:
 excerpt: 'Recently there has been a lot of talk about home prices and if they are accelerating too quickly. In some areas of the country, seller supply (homes for sale) cannot keep up with the number of buyers out looking for a home, which has caused prices to rise.'
 enclosure:
 pullquote:
-enclosure_type: application/pdf
+enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/improving-housing-market-up-arrow-keyimage.jpg
