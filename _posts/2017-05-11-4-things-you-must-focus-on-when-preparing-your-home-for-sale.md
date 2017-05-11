@@ -21,13 +21,13 @@ What’s the best way to prep your home for sale?
 
 This is a question we get asked all the time. To answer it, we focus on four things in particular that will save you a lot of time, money, and frustration:
 
-1.**Curb appeal**: What’s the first the first thing you want buyers to see when they drive up to the house? Is the lawn green? Is the grass trimmed? Do you have some nice, colorful flowers planted?
+1.&nbsp;**Curb appeal**: What’s the first the first thing you want buyers to see when they drive up to the house? Is the lawn green? Is the grass trimmed? Do you have some nice, colorful flowers planted?
 
-2.**Decluttering**: Buyers don’t want to see your personal items. You want to make your house look as big and spacious as possible. Specifically, your countertops must be clear, clean, and shiny.
+2.&nbsp;**Decluttering**: Buyers don’t want to see your personal items. You want to make your house look as big and spacious as possible. Specifically, your countertops must be clear, clean, and shiny.
 
-3.**Repainting**: Be careful with the tones that you select. What may be a beautiful or appropriate color to you may not be to someone else. You want buyers to be able to walk inside your house and see their own furniture and decor. We suggest you use earth tones.
+3.&nbsp;**Repainting**: Be careful with the tones that you select. What may be a beautiful or appropriate color to you may not be to someone else. You want buyers to be able to walk inside your house and see their own furniture and decor. We suggest you use earth tones.
 
-4.**Pets, smoke, and smells**: You may have grown accustomed to all the odors in your house, but it’s very important that you understand that a buyer is coming in with a fresh nose.
+4.&nbsp;**Pets, smoke, and smells**: You may have grown accustomed to all the odors in your house, but it’s very important that you understand that a buyer is coming in with a fresh nose.
 
 {% include pullquote.html %}
 
