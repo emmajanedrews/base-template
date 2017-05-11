@@ -7,7 +7,7 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Chad and Sara Huebener
   license_number:
   about_markdown: |
     We are excited at the opportunity to work on your behalf to help you sell and buy a home. We are ranked within the top 50 agents in Edina Realty companywide, and have received Edina’s highest award for successful client closings - the Chairman's Circle Award - multiple, consecutive years running. If you are looking for experienced agents to guide you through today's challenging real estate transaction, we can help! All appointments are confidential. We look forward to hearing from you!
@@ -24,10 +24,10 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: https://www.edinarealty.com/chad-and-sara-huebener-realtor/Selling/sell-a-home#/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
-  VR_form:
+  second_CTA_URL: https://www.edinarealty.com/chad-and-sara-huebener-realtor/listing/listingsearch#/properties?minPrice=0&maxPrice=0&nBed=0&nBath=0&pt_val=ForSale&age=age_any&sts_sale=1&sts_con=1&addl_stat=addl_stat_any&int_min_sqft=0&int_max_sqft=0&ext_min_sqft=0&ext_max_sqft=0&ext_gar=0&pgeSize=200&pgeNum=1&srtBy=DateListed
+  VR_form: http://oi.vresp.com?fid=3a54546ef4
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
@@ -51,7 +51,7 @@ lender:
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
+    Our mission at Edina Realty is to be your best resource for real estate
     advice. Whether you are a buyer, seller, or investor, our team of
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
@@ -74,11 +74,11 @@ socials:
 podcast:
   title:
   categories: Education
-  image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: '-- CLIENT NAME --'
+  image: /img/podcast.png
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Shakopee Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Edina Realty - your professional Real Estate Agents.'
+  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Shakopee, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  author: 'Chad and Sara Huebener'
 
 images:
   client_headshot_path: /img/headshot.png
@@ -99,7 +99,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: "#000"
+  shadow_color: transperant
 
 buttons:
   button_radius_number: 0
