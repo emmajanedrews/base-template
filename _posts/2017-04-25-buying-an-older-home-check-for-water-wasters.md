@@ -7,7 +7,7 @@ tags:
 excerpt: 'If you’re buying an older home, you may be shocked the first time you receive a water bill. Older homes don’t always have the latest in water-saving devices. Some even have a few water-gobbling features!'
 enclosure:
 pullquote:
-enclosure_type: video/mp4
+enclosure_type: application/pdf
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/faucet-running-water-shutterstock-153406115-e1493162460150.jpg

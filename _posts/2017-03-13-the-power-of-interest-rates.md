@@ -7,7 +7,7 @@ tags:
 excerpt: 'Can low interest rates affect your purchasing power? How exactly?  According to Freddie Mac’s latest Primary Mortgage Market Survey, interest rates for a 30-year fixed rate mortgage are currently around 4%, which is still very low in comparison to recent history!'
 enclosure:
 pullquote:
-enclosure_type: video/mp4
+enclosure_type: application/pdf
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/screenshot-1-1-600x400.png

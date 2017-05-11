@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title></title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <title>Utah Real Estate Podcast With Andrew Ford</title>
+    <link>http://theutahhomesteam.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://theutahhomesteam.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Utah Homes Team - your professional Utah County Real Estate Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Andrew Ford</managingEditor>
-    <lastBuildDate>2017-04-28 10:03:17 -0500</lastBuildDate>
+    <lastBuildDate>2017-05-11 12:08:01 -0500</lastBuildDate>
     <media:copyright>Andrew Ford</media:copyright>
-    <media:thumbnail url="/img/podcast.jpg"/>
+    <media:thumbnail url="http://i.imgur.com/SOOHqvx.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah County Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,15 +18,48 @@
     </itunes:owner>
     <itunes:author>Andrew Ford</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="/img/podcast.jpg"/>
+    <itunes:image href="http://i.imgur.com/SOOHqvx.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah County Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Utah County Real Estate Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Utah Homes Team - your professional Utah County Real Estate Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
+        <title>Can Our Real Estate Market Sustain This Pace?</title>
+        <link>http://theutahhomesteam.com/can-our-real-estate-market-sustain-this-pace.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Andrew Ford</author>
+        <pubDate>2017-04-28 10:11:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Andrew+Ford/Utah+Real+Estate+Agent-+Were+in+the+midst+of+a+historic+market.mp4</guid>
+        <description>This past year has been recognized as one of Utah’s best real estate markets ever. I’ve got a quick update for you to let you know what’s happening right now and what you can expect for the rest of the year. We’ll look at both national and local numbers to get the best picture possible.
+
+Realtor.com has recently placed Provo, Orem, and Salt Lake City among the top 25 markets to watch. A big reason for this is because last year we had 15,000 people move into the state of Utah. A lot of them had high-earning jobs. With a strong economy, low employment, and one of the highest demographics for millennials in the country, we are going to see prices increase.
+
+From the first quarter of 2015 to the first quarter of 2017, we have seen a 12% increase in home values. That’s a big jump, and they’re expected to go up by another 5% this year. For those of you worried about the market going into the toilet anytime soon, it’s not going to happen.
+
+“Home values have increased by 12% since 2015.”
+
+If you are a buyer this year, I would suggest coming in with your highest and best offer from the start. If you’re a seller, don’t get too greedy. Make sure your home is priced right because those properties are going under contract in less than two weeks in most cases.
+
+The average days on market right now for active homes is between 30 and 40. This is telling me some sellers are pricing a little too high. Like I said before, those homes should be selling within a few weeks.
+
+If you have any questions about the market or what you can expect from it in the coming months, give us a call or send us an email. We would love to hear from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Andrew+Ford/Utah+Real+Estate+Agent-+Were+in+the+midst+of+a+historic+market.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://theutahhomesteam.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Andrew+Ford/Utah+Real+Estate+Agent-+Were+in+the+midst+of+a+historic+market.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>This past year has been recognized as one of Utah’s best real estate markets ever. I’ve got a quick update for you to let you know what’s happening right now and what you can expect for the rest of the year. We’ll look at both national and local numbers to get the best picture possible.</itunes:subtitle>
+        <itunes:author>Andrew Ford</itunes:author>
+        <itunes:summary>This past year has been recognized as one of Utah’s best real estate markets ever. I’ve got a quick update for you to let you know what’s happening right now and what you can expect for the rest of the year. We’ll look at both national and local numbers to get the best picture possible.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah County Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>Buying an older home? Check for water-wasters</title>
-        <link>localhost:4000/buying-an-older-home-check-for-water-wasters.html</link>
+        <link>http://theutahhomesteam.com/buying-an-older-home-check-for-water-wasters.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -53,9 +86,9 @@ Another good way to save?
 
 Talk to your water company. Many municipalities have water-saving programs and incentives that can save you money. In some cases, they may be able to determine if you need a water pressure regulator, which could help cut down on your water use.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="" length="" type="application/pdf"/>
+        <media:thumbnail url="http://theutahhomesteam.com" height="72" width="72"/>
+        <media:content url="" type="application/pdf"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>If you’re buying an older home, you may be shocked the first time you receive a water bill. Older homes don’t always have the latest in water-saving devices. Some even have a few water-gobbling features!</itunes:subtitle>
         <itunes:author>Andrew Ford</itunes:author>
@@ -65,7 +98,7 @@ Talk to your water company. Many municipalities have water-saving programs and i
       
       <item>
         <title>Interest Rates: Where To, Now?</title>
-        <link>localhost:4000/interest-rates-where-to-now.html</link>
+        <link>http://theutahhomesteam.com/interest-rates-where-to-now.html</link>
         
           <category>Market Update</category>
         
@@ -96,9 +129,9 @@ Bottom Line
 
 If you are feeling good about your family’s economic future and are considering making a move to your dream home, doing it sooner rather than later makes the most sense!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="" length="" type="application/pdf"/>
+        <media:thumbnail url="http://theutahhomesteam.com" height="72" width="72"/>
+        <media:content url="" type="application/pdf"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>WHERE ARE INTEREST RATES HEADED?  If you are considering moving up to your dream home, it may be better to do it sooner than later.</itunes:subtitle>
         <itunes:author>Andrew Ford</itunes:author>
@@ -108,7 +141,7 @@ If you are feeling good about your family’s economic future and are considerin
       
       <item>
         <title>The Power of Interest Rates</title>
-        <link>localhost:4000/the-power-of-interest-rates.html</link>
+        <link>http://theutahhomesteam.com/the-power-of-interest-rates.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -131,9 +164,9 @@ With each quarter of a percent increase in interest rate, the value of the home 
 
 It will be really wise to act NOW and get that dream house for your hard-earned money.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="" length="" type="application/pdf"/>
+        <media:thumbnail url="http://theutahhomesteam.com" height="72" width="72"/>
+        <media:content url="" type="application/pdf"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Can low interest rates affect your purchasing power? How exactly?  According to Freddie Mac’s latest Primary Mortgage Market Survey, interest rates for a 30-year fixed rate mortgage are currently around 4%, which is still very low in comparison to recent history!</itunes:subtitle>
         <itunes:author>Andrew Ford</itunes:author>
@@ -143,7 +176,7 @@ It will be really wise to act NOW and get that dream house for your hard-earned 
       
       <item>
         <title>Myths About Buying A Home: Debunked, Explained, Unmasked!</title>
-        <link>localhost:4000/myths-about-buying-a-home-debunked-explained-unmasked.html</link>
+        <link>http://theutahhomesteam.com/myths-about-buying-a-home-debunked-explained-unmasked.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -172,9 +205,9 @@ Bottom Line
 
 Whether buying your first home or moving up to your dream home, knowing your options will make the mortgage process easier. Your dream home may already be within your reach!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="" length="" type="application/pdf"/>
+        <media:thumbnail url="http://theutahhomesteam.com" height="72" width="72"/>
+        <media:content url="" type="application/pdf"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Here are the 2 myths that may be holding you back from buying</itunes:subtitle>
         <itunes:author>Andrew Ford</itunes:author>
@@ -184,7 +217,7 @@ Whether buying your first home or moving up to your dream home, knowing your opt
       
       <item>
         <title>4 Steps to Selling Your Home</title>
-        <link>localhost:4000/4-steps-to-selling-your-home.html</link>
+        <link>http://theutahhomesteam.com/4-steps-to-selling-your-home.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -215,9 +248,9 @@ Happy selling!
 
 
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="" length="" type="application/pdf"/>
+        <media:thumbnail url="http://theutahhomesteam.com" height="72" width="72"/>
+        <media:content url="" type="application/pdf"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>The best part in homeownership is the one where you and your loved ones create lifetime memories together. It is your own sanctuary of emotions and experiences. But there will come a time when you'll be in great need to move on in life, and selling your beloved home which mirrors who you will be fundamental.</itunes:subtitle>
         <itunes:author>Andrew Ford</itunes:author>
@@ -227,7 +260,7 @@ Happy selling!
       
       <item>
         <title>Expectation In Home Inspection</title>
-        <link>localhost:4000/expectation-in-home-inspection.html</link>
+        <link>http://theutahhomesteam.com/expectation-in-home-inspection.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -274,9 +307,9 @@ Bottom Line
 
 They say ‘ignorance is bliss,’ but not when investing your hard-earned money in a home of  your own. Work with a professional you can trust to give you the most information possible  about your new home so that you can make the most educated decision about your purchase.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="" length="" type="application/pdf"/>
+        <media:thumbnail url="http://theutahhomesteam.com" height="72" width="72"/>
+        <media:content url="" type="application/pdf"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>So you made an offer, it was accepted, and  now your next task is to have the home  inspected prior to closing. More often than  not, your agent may have made your offer  contingent on a clean home inspection.</itunes:subtitle>
         <itunes:author>Andrew Ford</itunes:author>
@@ -286,7 +319,7 @@ They say ‘ignorance is bliss,’ but not when investing your hard-earned money
       
       <item>
         <title>Closing Costs: Who's Paying How Much?</title>
-        <link>localhost:4000/closing-costs-whos-paying-how-much.html</link>
+        <link>http://theutahhomesteam.com/closing-costs-whos-paying-how-much.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -331,9 +364,9 @@ Bottom Line
 
 Speak with your lender and agent early and often to determine how much you’ll be  responsible for at closing. Finding out you’ll need to come up with thousands of dollars right  before closing is not a surprise anyone is ever looking forward to.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="" length="" type="application/pdf"/>
+        <media:thumbnail url="http://theutahhomesteam.com" height="72" width="72"/>
+        <media:content url="" type="application/pdf"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>There are many potential homebuyers, and even sellers, who believe that you need at least a  20% down payment in order to buy a home, or move on to their next home. Time after time,  we have dispelled this myth</itunes:subtitle>
         <itunes:author>Andrew Ford</itunes:author>
@@ -343,7 +376,7 @@ Speak with your lender and agent early and often to determine how much you’ll 
       
       <item>
         <title>2017: Great Housing Year, Will It Be?</title>
-        <link>localhost:4000/2017-great-housing-year-will-it-be.html</link>
+        <link>http://theutahhomesteam.com/2017-great-housing-year-will-it-be.html</link>
         
           <category>Market Update</category>
         
@@ -378,9 +411,9 @@ SmartAsset.com, just this past month, had an article about housing. And this is 
 
 You need to know! Whether you want to buy or sell, you need to know exactly what’s happening. That’s why we do. You need someone you can trust for up-to-date information, and we are here to help you.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="" length="" type="application/pdf"/>
+        <media:thumbnail url="http://theutahhomesteam.com" height="72" width="72"/>
+        <media:content url="" type="application/pdf"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>We’re going to have a good year. The question is: will it be a great year?</itunes:subtitle>
         <itunes:author>Andrew Ford</itunes:author>
@@ -390,7 +423,7 @@ You need to know! Whether you want to buy or sell, you need to know exactly what
       
       <item>
         <title>Importance Of "Access" In Getting Your House Sold</title>
-        <link>localhost:4000/importance-of-access-in-getting-your-house-sold.html</link>
+        <link>http://theutahhomesteam.com/importance-of-access-in-getting-your-house-sold.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -423,9 +456,9 @@ There are four elements to a quality listing. At the top of the list is Access, 
 
 “”
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="" length="" type="application/pdf"/>
+        <media:thumbnail url="http://theutahhomesteam.com" height="72" width="72"/>
+        <media:content url="" type="application/pdf"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>So you’ve decided to sell your house. You’ve hired a real estate professional to help you with the entire process and they have asked you what level of access you want to provide to potential buyers.</itunes:subtitle>
         <itunes:author>Andrew Ford</itunes:author>
@@ -435,7 +468,7 @@ There are four elements to a quality listing. At the top of the list is Access, 
       
       <item>
         <title>How To Make An Effective And Irresistible Offer</title>
-        <link>localhost:4000/how-to-make-an-effective-and-irresistible-offer.html</link>
+        <link>http://theutahhomesteam.com/how-to-make-an-effective-and-irresistible-offer.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -484,9 +517,9 @@ Bottom Line
 
 Whether buying your first home or your fifth, having a local real estate professional who is an expert in their market on your side is your best bet to make sure the process goes smoothly. Let’s talk about how we can make your dreams of homeownership a reality!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="" length="" type="application/pdf"/>
+        <media:thumbnail url="http://theutahhomesteam.com" height="72" width="72"/>
+        <media:content url="" type="application/pdf"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>So you’ve been searching for that perfect house to call a ‘home’ and you finally found one! The price is right, and in such a competitive market you want to make sure you make a good offer so that you can guarantee your dream of making this house yours comes true!</itunes:subtitle>
         <itunes:author>Andrew Ford</itunes:author>
@@ -496,7 +529,7 @@ Whether buying your first home or your fifth, having a local real estate profess
       
       <item>
         <title>Rising Home Prices: What's In It For You as a Home Owner</title>
-        <link>localhost:4000/rising-home-prices-whats-in-it-for-you-as-a-home-owner.html</link>
+        <link>http://theutahhomesteam.com/rising-home-prices-whats-in-it-for-you-as-a-home-owner.html</link>
         
           <category>Market Update</category>
         
@@ -519,9 +552,9 @@ Bottom Line
 
 CoreLogic predicts that home prices will appreciate by another 5% by this time next year. If you are a homeowner looking to take advantage of your home equity by moving up to your dream home, let’s discuss your options!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="" length="" type="application/pdf"/>
+        <media:thumbnail url="http://theutahhomesteam.com" height="72" width="72"/>
+        <media:content url="" type="application/pdf"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Recently there has been a lot of talk about home prices and if they are accelerating too quickly. In some areas of the country, seller supply (homes for sale) cannot keep up with the number of buyers out looking for a home, which has caused prices to rise.</itunes:subtitle>
         <itunes:author>Andrew Ford</itunes:author>
@@ -531,7 +564,7 @@ CoreLogic predicts that home prices will appreciate by another 5% by this time 
       
       <item>
         <title>2 Steps To Help You Find Your Next Home</title>
-        <link>localhost:4000/2-steps-to-help-you-find-your-next-home.html</link>
+        <link>http://theutahhomesteam.com/2-steps-to-help-you-find-your-next-home.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -562,9 +595,9 @@ Bottom Line
 
 Having this list flushed out before starting your search will save you time and frustration, while also letting your agent know what features are most important to you before starting to show you houses in your desired area.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="" length="" type="application/pdf"/>
+        <media:thumbnail url="http://theutahhomesteam.com" height="72" width="72"/>
+        <media:content url="" type="application/pdf"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>n this day and age of being able to shop for anything anywhere, it is really important to know what you’re looking for when you start your home search.</itunes:subtitle>
         <itunes:author>Andrew Ford</itunes:author>
@@ -574,7 +607,7 @@ Having this list flushed out before starting your search will save you time and 
       
       <item>
         <title>Why Do Home Prices Continue To Rise?</title>
-        <link>localhost:4000/why-do-home-prices-continue-to-rise.html</link>
+        <link>http://theutahhomesteam.com/why-do-home-prices-continue-to-rise.html</link>
         
           <category>Market Update</category>
         
@@ -607,9 +640,9 @@ Bottom Line
 
 Looking at the maps above, it is not hard to see why prices are appreciating in many areas of the country. Until the supply of homes for sale starts to meet the buyer demand, prices will continue to increase.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="" length="" type="application/pdf"/>
+        <media:thumbnail url="http://theutahhomesteam.com" height="72" width="72"/>
+        <media:content url="" type="application/pdf"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>The price of any item is determined by the supply of that item, as well as the market demand.</itunes:subtitle>
         <itunes:author>Andrew Ford</itunes:author>
@@ -619,7 +652,7 @@ Looking at the maps above, it is not hard to see why prices are appreciating in 
       
       <item>
         <title>Is Renting For The Better?</title>
-        <link>localhost:4000/is-renting-for-the-better.html</link>
+        <link>http://theutahhomesteam.com/is-renting-for-the-better.html</link>
         
           <category>Real Estate</category>
         
@@ -646,9 +679,9 @@ Bottom Line
 
 Buying a home makes sense socially and financially. If you are one of the many renters out there who would like to evaluate your ability to buy this year, let’s get together to find your dream home.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="" length="" type="application/pdf"/>
+        <media:thumbnail url="http://theutahhomesteam.com" height="72" width="72"/>
+        <media:content url="" type="application/pdf"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>BUYING IS NOW 37.7% CHEAPER THAN RENTING IN THE US.</itunes:subtitle>
         <itunes:author>Andrew Ford</itunes:author>
@@ -658,7 +691,7 @@ Buying a home makes sense socially and financially. If you are one of the many r
       
       <item>
         <title>Making the Most of a Winter Sale</title>
-        <link>localhost:4000/making-the-most-of-a-winter-sale.html</link>
+        <link>http://theutahhomesteam.com/making-the-most-of-a-winter-sale.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -686,7 +719,7 @@ Finally, use the holiday scents to your advantage. Don’t go overboard since so
 If you have any other questions about preparing your home to sell in the fall and winter or you have any questions about real estate in Utah, give me a call or send me an email today. I’d love to help you out!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Andrew+Ford/Utah+Real+Estate+Agent-+How+to+prepare+your+house+for+a+winter+sale.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://theutahhomesteam.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Andrew+Ford/Utah+Real+Estate+Agent-+How+to+prepare+your+house+for+a+winter+sale.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>If you sell your home in the fall or winter, there are a few specific things that you really need to pay attention to.</itunes:subtitle>
@@ -697,7 +730,7 @@ If you have any other questions about preparing your home to sell in the fall an
       
       <item>
         <title>5 Questions You Need to Ask Yourself Before Buying a Home</title>
-        <link>localhost:4000/5-questions-you-need-to-ask-yourself-before-buying-a-home.html</link>
+        <link>http://theutahhomesteam.com/5-questions-you-need-to-ask-yourself-before-buying-a-home.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -714,7 +747,7 @@ If you currently live in a rental property and you’re thinking about buying yo
 
 3. Are you emotionally ready? If you can manage those aforementioned compromises, you’ll be in far better shape in answering this question.
 
-&lt;a href=”https://twitter.com/home/?status=”If you own a home, you’re free to do what you want.”%20localhost:4000/5-questions-you-need-to-ask-yourself-before-buying-a-home.html%20via%40” target=’_blank’ class=”pullquote”&gt;““If you own a home, you’re free to do what you want.””&lt;/a&gt;
+&lt;a href=”https://twitter.com/home/?status=”If you own a home, you’re free to do what you want.”%20http://theutahhomesteam.com/5-questions-you-need-to-ask-yourself-before-buying-a-home.html%20via%40” target=’_blank’ class=”pullquote”&gt;““If you own a home, you’re free to do what you want.””&lt;/a&gt;
 
 4. Will owning a home pay off in the long run? If you’re going to live in the home for less than two years, there’s a good chance it’s not worth buying. If you’re going to be there longer, not only will you build some equity in the home, but you’ll also get a good tax deduction from the mortgage interest.
 
@@ -723,7 +756,7 @@ If you currently live in a rental property and you’re thinking about buying yo
 If you have any questions on this topic or have a topic in mind you’d like to see me discuss in a future video, feel free to reach out to me by phone or email. I look forward to helping you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Andrew+Ford/Utah+Real+Estate+Agent-+Making+the+leap+from+renting+to+owning.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://theutahhomesteam.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Andrew+Ford/Utah+Real+Estate+Agent-+Making+the+leap+from+renting+to+owning.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>If you currently live in a rental property and you’re thinking about buying your first house, there are a few questions you need to ask yourself before you make that leap:</itunes:subtitle>
@@ -734,7 +767,7 @@ If you have any questions on this topic or have a topic in mind you’d like to 
       
       <item>
         <title>How Do You Know Which Realtor to Work With?</title>
-        <link>localhost:4000/how-do-you-know-which-realtor-to-work-with.html</link>
+        <link>http://theutahhomesteam.com/how-do-you-know-which-realtor-to-work-with.html</link>
         
           <category>Real Estate</category>
         
@@ -760,7 +793,7 @@ Sometimes, we get too excited about a house or an offer and forget to look aroun
 We can certainly help you do that. If you have any questions, just give us a call or send us an email. We would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Andrew+Ford/Utah+Real+Estate+Agent-+How+to+choose+the+best+Realtor.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://theutahhomesteam.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Andrew+Ford/Utah+Real+Estate+Agent-+How+to+choose+the+best+Realtor.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>There are many Realtors out there for you to choose from. How do you know which Realtor you should work with?</itunes:subtitle>
@@ -771,7 +804,7 @@ We can certainly help you do that. If you have any questions, just give us a cal
       
       <item>
         <title>Even FANNIE MAE Agrees: Hire A Pro To Sell Your House</title>
-        <link>localhost:4000/even-fannie-mae-agrees-hire-a-pro-to-sell-your-house.html</link>
+        <link>http://theutahhomesteam.com/even-fannie-mae-agrees-hire-a-pro-to-sell-your-house.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -796,9 +829,9 @@ Let’s go over the points they made:
 
 If Fannie Mae says that using an agent probably makes sense, perhaps you should interview an agent before putting your house up for sale.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="" length="" type="application/pdf"/>
+        <media:thumbnail url="http://theutahhomesteam.com" height="72" width="72"/>
+        <media:content url="" type="application/pdf"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Do you really need an agent to sell your house in today’s market? Here’s what Fannie Mae suggests to sellers on the “Know Your Options” section of their website:</itunes:subtitle>
         <itunes:author>Andrew Ford</itunes:author>
@@ -808,7 +841,7 @@ If Fannie Mae says that using an agent probably makes sense, perhaps you should 
       
       <item>
         <title>How Can Homeownership Benefit Your Children?</title>
-        <link>localhost:4000/how-can-homeownership-benefit-your-children.html</link>
+        <link>http://theutahhomesteam.com/how-can-homeownership-benefit-your-children.html</link>
         
           <category>Real Estate</category>
         
@@ -829,9 +862,9 @@ Well, people that are homeowners can help their kids out with that. They can loo
 
 Again, we don’t list and sell houses for a living. We change people’s lives for a living. We do it by listing and selling homes.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="" length="" type="application/pdf"/>
+        <media:thumbnail url="http://theutahhomesteam.com" height="72" width="72"/>
+        <media:content url="" type="application/pdf"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>There are a lot of things that homeownership brings to communities. Homeownership provides social benefits beyond pure financial economic benefits.</itunes:subtitle>
         <itunes:author>Andrew Ford</itunes:author>
@@ -841,7 +874,7 @@ Again, we don’t list and sell houses for a living. We change people’s lives
       
       <item>
         <title>Should You Sell Your Home This Fall? Five Reasons Why You Should!</title>
-        <link>localhost:4000/should-you-sell-your-home-this-fall-five-reasons-why-you-should.html</link>
+        <link>http://theutahhomesteam.com/should-you-sell-your-home-this-fall-five-reasons-why-you-should.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -866,9 +899,9 @@ If you have any other questions about the fall market or about real estate in ge
 
  
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="" length="" type="application/pdf"/>
+        <media:thumbnail url="http://theutahhomesteam.com" height="72" width="72"/>
+        <media:content url="" type="application/pdf"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>The fall real estate market is upon us. Should you sell your home now or wait for spring? Here are five reasons why you should consider listing your home now:</itunes:subtitle>
         <itunes:author>Andrew Ford</itunes:author>

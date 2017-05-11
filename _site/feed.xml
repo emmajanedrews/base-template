@@ -3,11 +3,36 @@
   <channel>
     <title>-- CLIENT BRAND --</title>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Utah Homes Team - your professional Utah County Real Estate Real Estate Agents.</description>
-    <link>localhost:4000/</link>
-    <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 28 Apr 2017 10:03:17 -0500</pubDate>
-    <lastBuildDate>Fri, 28 Apr 2017 10:03:17 -0500</lastBuildDate>
+    <link>http://theutahhomesteam.com/</link>
+    <atom:link href="http://theutahhomesteam.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 11 May 2017 12:08:01 -0500</pubDate>
+    <lastBuildDate>Thu, 11 May 2017 12:08:01 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Can Our Real Estate Market Sustain This Pace?</title>
+        <description>&lt;p&gt;This past year has been recognized as one of Utah’s best real estate markets ever. I’ve got a quick update for you to let you know what’s happening right now and what you can expect for the rest of the year. We’ll look at both national and local numbers to get the best picture possible.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Realtor.com has recently placed Provo, Orem, and Salt Lake City among the top 25 markets to watch.&lt;/strong&gt; A big reason for this is because last year we had 15,000 people move into the state of Utah. A lot of them had high-earning jobs. With a strong economy, low employment, and one of the highest demographics for millennials in the country, we are going to see prices increase.&lt;/p&gt;
+
+&lt;p&gt;From the first quarter of 2015 to the first quarter of 2017, we have seen a 12% increase in home values. That’s a big jump, and they’re expected to go up by another 5% this year. &lt;strong&gt;For those of you worried about the market going into the toilet anytime soon, it’s not going to happen.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Home values have increased by 12% since 2015.%20http://theutahhomesteam.com/can-our-real-estate-market-sustain-this-pace.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Home values have increased by 12% since 2015.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you are a buyer this year, I would suggest coming in with your highest and best offer from the start. If you’re a seller, don’t get too greedy. Make sure your home is priced right because &lt;strong&gt;those properties are going under contract in less than two weeks in most cases.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The average days on market right now for active homes is between 30 and 40. This is telling me some sellers are pricing a little too high. Like I said before, those homes should be selling within a few weeks.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions about the market or what you can expect from it in the coming months, give us a call or send us an email. We would love to hear from you.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 28 Apr 2017 10:11:00 -0500</pubDate>
+        <link>http://theutahhomesteam.com/can-our-real-estate-market-sustain-this-pace.html</link>
+        <guid isPermaLink="true">http://theutahhomesteam.com/can-our-real-estate-market-sustain-this-pace.html</guid>
+        
+        <category>Market Update</category>
+        
+        
+      </item>
     
       <item>
         <title>Buying an older home? Check for water-wasters</title>
@@ -32,8 +57,8 @@
 &lt;p&gt;Talk to your water company. Many municipalities have water-saving programs and incentives that can save you money. In some cases, they may be able to determine if you need a water pressure regulator, which could help cut down on your water use.&lt;/p&gt;
 </description>
         <pubDate>Mon, 24 Apr 2017 19:00:00 -0500</pubDate>
-        <link>localhost:4000/buying-an-older-home-check-for-water-wasters.html</link>
-        <guid isPermaLink="true">localhost:4000/buying-an-older-home-check-for-water-wasters.html</guid>
+        <link>http://theutahhomesteam.com/buying-an-older-home-check-for-water-wasters.html</link>
+        <guid isPermaLink="true">http://theutahhomesteam.com/buying-an-older-home-check-for-water-wasters.html</guid>
         
         <category>Home Buyer Tips</category>
         
@@ -67,8 +92,8 @@
 &lt;p&gt;If you are feeling good about your family’s economic future and are considering making a move to your dream home, doing it sooner rather than later makes the most sense!&lt;/p&gt;
 </description>
         <pubDate>Mon, 13 Mar 2017 19:00:00 -0500</pubDate>
-        <link>localhost:4000/interest-rates-where-to-now.html</link>
-        <guid isPermaLink="true">localhost:4000/interest-rates-where-to-now.html</guid>
+        <link>http://theutahhomesteam.com/interest-rates-where-to-now.html</link>
+        <guid isPermaLink="true">http://theutahhomesteam.com/interest-rates-where-to-now.html</guid>
         
         <category>Market Update</category>
         
@@ -94,8 +119,8 @@
 &lt;p&gt;&lt;strong&gt;It will be really wise to act NOW and get that dream house for your hard-earned money.&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 12 Mar 2017 19:00:00 -0500</pubDate>
-        <link>localhost:4000/the-power-of-interest-rates.html</link>
-        <guid isPermaLink="true">localhost:4000/the-power-of-interest-rates.html</guid>
+        <link>http://theutahhomesteam.com/the-power-of-interest-rates.html</link>
+        <guid isPermaLink="true">http://theutahhomesteam.com/the-power-of-interest-rates.html</guid>
         
         <category>Home Buyer Tips</category>
         
@@ -127,8 +152,8 @@
 &lt;p&gt;Whether buying your first home or moving up to your dream home, knowing your options will make the mortgage process easier. Your dream home may already be within your reach!&lt;/p&gt;
 </description>
         <pubDate>Sun, 12 Mar 2017 19:00:00 -0500</pubDate>
-        <link>localhost:4000/myths-about-buying-a-home-debunked-explained-unmasked.html</link>
-        <guid isPermaLink="true">localhost:4000/myths-about-buying-a-home-debunked-explained-unmasked.html</guid>
+        <link>http://theutahhomesteam.com/myths-about-buying-a-home-debunked-explained-unmasked.html</link>
+        <guid isPermaLink="true">http://theutahhomesteam.com/myths-about-buying-a-home-debunked-explained-unmasked.html</guid>
         
         <category>Home Buyer Tips</category>
         
@@ -162,8 +187,8 @@
 &lt;p&gt;&lt;img src=&quot;/uploads/versions/whats-your-home-worth-1024x512---x----1022-354x---.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Feb 2017 18:00:00 -0600</pubDate>
-        <link>localhost:4000/4-steps-to-selling-your-home.html</link>
-        <guid isPermaLink="true">localhost:4000/4-steps-to-selling-your-home.html</guid>
+        <link>http://theutahhomesteam.com/4-steps-to-selling-your-home.html</link>
+        <guid isPermaLink="true">http://theutahhomesteam.com/4-steps-to-selling-your-home.html</guid>
         
         <category>Home Seller Tips</category>
         
@@ -213,8 +238,8 @@
 &lt;p&gt;They say ‘ignorance is bliss,’ but not when investing your hard-earned money in a home of  your own. Work with a professional you can trust to give you the most information possible  about your new home so that you can make the most educated decision about your purchase.&lt;/p&gt;
 </description>
         <pubDate>Thu, 26 Jan 2017 18:00:00 -0600</pubDate>
-        <link>localhost:4000/expectation-in-home-inspection.html</link>
-        <guid isPermaLink="true">localhost:4000/expectation-in-home-inspection.html</guid>
+        <link>http://theutahhomesteam.com/expectation-in-home-inspection.html</link>
+        <guid isPermaLink="true">http://theutahhomesteam.com/expectation-in-home-inspection.html</guid>
         
         <category>Home Buyer Tips</category>
         
@@ -262,8 +287,8 @@
 &lt;p&gt;Speak with your lender and agent early and often to determine how much you’ll be  responsible for at closing. Finding out you’ll need to come up with thousands of dollars right  before closing is not a surprise anyone is ever looking forward to.&lt;/p&gt;
 </description>
         <pubDate>Thu, 26 Jan 2017 18:00:00 -0600</pubDate>
-        <link>localhost:4000/closing-costs-whos-paying-how-much.html</link>
-        <guid isPermaLink="true">localhost:4000/closing-costs-whos-paying-how-much.html</guid>
+        <link>http://theutahhomesteam.com/closing-costs-whos-paying-how-much.html</link>
+        <guid isPermaLink="true">http://theutahhomesteam.com/closing-costs-whos-paying-how-much.html</guid>
         
         <category>Home Buyer Tips</category>
         
@@ -301,8 +326,8 @@
 &lt;p&gt;You need to know! Whether you want to buy or sell, you need to know exactly what’s happening. That’s why we do. You need someone you can trust for up-to-date information, and we are here to help you.&lt;/p&gt;
 </description>
         <pubDate>Mon, 23 Jan 2017 18:00:00 -0600</pubDate>
-        <link>localhost:4000/2017-great-housing-year-will-it-be.html</link>
-        <guid isPermaLink="true">localhost:4000/2017-great-housing-year-will-it-be.html</guid>
+        <link>http://theutahhomesteam.com/2017-great-housing-year-will-it-be.html</link>
+        <guid isPermaLink="true">http://theutahhomesteam.com/2017-great-housing-year-will-it-be.html</guid>
         
         <category>Market Update</category>
         
@@ -335,66 +360,13 @@
 
 &lt;p&gt;There are four elements to a quality listing. At the top of the list is Access, followed by Condition, Financing and Price. There are many levels of access that you could provide to your agent to be able to show your home.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=%20localhost:4000/importance-of-access-in-getting-your-house-sold.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=%20http://theutahhomesteam.com/importance-of-access-in-getting-your-house-sold.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“”&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 10 Jan 2017 18:00:00 -0600</pubDate>
-        <link>localhost:4000/importance-of-access-in-getting-your-house-sold.html</link>
-        <guid isPermaLink="true">localhost:4000/importance-of-access-in-getting-your-house-sold.html</guid>
+        <link>http://theutahhomesteam.com/importance-of-access-in-getting-your-house-sold.html</link>
+        <guid isPermaLink="true">http://theutahhomesteam.com/importance-of-access-in-getting-your-house-sold.html</guid>
         
         <category>Home Seller Tips</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>How To Make An Effective And Irresistible Offer</title>
-        <description>&lt;p&gt;READY TO MAKE AN OFFER? 4 TIPS FOR SUCCESS&lt;/p&gt;
-
-&lt;p&gt;So you’ve been searching for that perfect house to call a ‘home’ and you finally found one! The price is right, and in such a competitive market you want to make sure you make a good offer so that you can guarantee your dream of making this house yours comes true!&lt;/p&gt;
-
-&lt;p&gt;Freddie Mac covered “4 Tips for Making an Offer” in their latest Executive Perspective. Here are the 4 tips they covered along with some additional information for your consideration:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;1. Understand How Much You Can Afford&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;“While it’s not nearly as fun as house hunting, fully understanding your finances is critical in making an offer.”&lt;/p&gt;
-
-&lt;p&gt;This ‘tip’ or ‘step’ really should take place before you start your home search process.&lt;/p&gt;
-
-&lt;p&gt;Getting pre-approved is one of many steps that will show home sellers that you are serious about buying, and will allow you to make your offer with the confidence of knowing that you have already been approved for a mortgage for that amount. You will also need to know if you are prepared to make any repairs that may need to be made to the house (ex: new roof, new furnace).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2. Act Fast&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;“Even though there are fewer investors, the inventory of homes for sale is also low and competition for housing continues to heat up in many parts of the country.”&lt;/p&gt;
-
-&lt;p&gt;The inventory of homes listed for sale has remained well below the 6-month supply that is needed for a ‘normal’ market. Buyer demand has continued to outpace the supply of homes for sale, causing buyers to compete with each other for their dream home.&lt;/p&gt;
-
-&lt;p&gt;Make sure that as soon as you decide that you want to make an offer, you work with your agent to present it as soon as possible.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3. Make a Solid Offer&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Freddie Mac offers this advice to help make your offer the strongest it can be:&lt;/p&gt;
-
-&lt;p&gt;“Your strongest offer will be comparable with other sales and listings in the neighborhood. A licensed real estate agent active in the neighborhoods you are considering will be instrumental in helping you put in a solid offer based on their experience and other key considerations such as recent sales of similar homes, the condition of the house and what you can afford.”&lt;/p&gt;
-
-&lt;p&gt;Consider ways of making your offer stand out! Many buyers write a personal letter to the seller letting them know how much they would love to be the new homeowners. Your agent will be able to help you figure out if there are any other ways your offer could stand above the rest.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;4. Be Prepared to Negotiate&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;“It’s likely that you’ll get at least one counteroffer from the sellers so be prepared. The two things most likely to be negotiated are the selling price and closing date. Given that, you’ll be glad you did your homework first to understand how much you can afford.&lt;/p&gt;
-
-&lt;p&gt;Your agent will also be key in the negotiation process, giving you guidance on the counteroffer and making sure that the agreed-to contract terms are met.”&lt;/p&gt;
-
-&lt;p&gt;If your offer is approved, Freddie Mac urges you to “always get an independent home inspection, so you know the true condition of the home. If the inspection uncovers undisclosed problems or issues, you can typically re-negotiate the terms or cancel the contract.”&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bottom Line&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Whether buying your first home or your fifth, having a local real estate professional who is an expert in their market on your side is your best bet to make sure the process goes smoothly. Let’s talk about how we can make your dreams of homeownership a reality!&lt;/p&gt;
-</description>
-        <pubDate>Mon, 09 Jan 2017 18:00:00 -0600</pubDate>
-        <link>localhost:4000/how-to-make-an-effective-and-irresistible-offer.html</link>
-        <guid isPermaLink="true">localhost:4000/how-to-make-an-effective-and-irresistible-offer.html</guid>
-        
-        <category>Home Buyer Tips</category>
         
         
       </item>

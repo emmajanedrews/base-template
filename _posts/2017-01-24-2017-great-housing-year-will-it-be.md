@@ -7,7 +7,7 @@ tags:
 excerpt: 'We’re going to have a good year. The question is: will it be a great year?'
 enclosure:
 pullquote:
-enclosure_type: video/mp4
+enclosure_type: application/pdf
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/january2017-034-600x400.jpg
