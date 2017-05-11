@@ -16,7 +16,7 @@ youtube_code: 7PtvBjc8EnQ
 
 {% include youtube.html %}
 
-Hello Friends!
+**Hello Friends!**
 <br>
 <br>On Mother's Day, I will be walking with my team (@Home Property Group, LLC) &nbsp;to support Rose Haven, a local shelter for women and children. I would love it if you could come walk with us but life's busy- I get it. &nbsp;☺ &nbsp;So, if you would consider even a tiny donation to @HOME's fundraising page, I would be ever so grateful as every little bit helps! Below is a bit about Rose Haven and this Event and scroll all the way down to the bottom to donate or participate! Thank you and I hope to see you on the walk! XXOXO
 
