@@ -7,7 +7,7 @@ tags:
 excerpt: 'The price of any item is determined by the supply of that item, as well as the market demand.'
 enclosure:
 pullquote:
-enclosure_type: video/mp4
+enclosure_type: application/pdf
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/mortgage.jpg
