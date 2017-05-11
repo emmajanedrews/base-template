@@ -3,7 +3,7 @@ layout: post
 title: 'Help Us Pay it Foward!'
 tags:
   - Charity Event
-excerpt:
+excerpt: "Join hundreds of people this Mother's Day to honor a special woman in your life, and raise funds to empower women and children of Rose Haven experiencing homeless, abuse and other disruptive life events."
 enclosure:
 pullquote:
 enclosure_type: video/mp4
