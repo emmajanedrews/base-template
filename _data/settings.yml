@@ -24,7 +24,7 @@ CTAs:
   first_CTA_URL: 'https://www.beachandsunhomes.com/sell/'
   second_CTA_text: Home Search
   second_CTA_URL: 'https://www.beachandsunhomes.com/results-gallery/?sort=importdate&photo=1'
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=2aa61a049f
 sidebar_CTA:
   CTA_image_path: /img/cta-images/002.jpg
   CTA_title: Looking to Buy a Home?
