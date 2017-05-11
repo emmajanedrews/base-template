@@ -15,7 +15,7 @@ youtube_code: MN9tmSqVnII
 ---
 
 
-{ include youtube.html } If you’re thinking about selling your home, especially if it’s more than 10 years old, you might be considering doing some renovations to get it ready for the market. I’ll go over the most popular renovations I’ve been seeing on the market to help guide you when it comes to where you should and shouldn’t spend your money.
+{ % include youtube.html % } If you’re thinking about selling your home, especially if it’s more than 10 years old, you might be considering doing some renovations to get it ready for the market. I’ll go over the most popular renovations I’ve been seeing on the market to help guide you when it comes to where you should and shouldn’t spend your money.
 
 {% include pullquote.html %}
 
