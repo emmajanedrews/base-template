@@ -8,17 +8,10 @@ custom_links:
 client:
   name: Dave Heeter
   license_number:
-  about_markdown: >
-    The Heeter Home team was created to provide customers with an enhanced
-    experience by combining the strengths of multiple real estate professionals.
-    Time is of the essence and a tight-knit, experienced team will be able to
-    pool its resources to work towards completing your goal. When you choose the
-    Heeter Home team you will be put in the hands of our capable, caring staff
-    whose goal is to provide you with a positive experience when selling or
-    purchasing a home.
+  about_markdown: 'The Heeter Home team was created to provide customers with an enhanced experience by combining the strengths of multiple real estate professionals. Time is of the essence and a tight-knit, experienced team will be able to pool its resources to work towards completing your goal. When you choose the Heeter Home team you will be put in the hands of our capable, caring staff whose goal is to provide you with a positive experience when selling or purchasing a home.'
   market: Southern New Hampshire
   brand: Heeter Home Team
-  brokerage:
+  brokerage: Keller Williams Realty
   address: '20 Trafalgar Sq. Suite 101<br>Nashua, NH 03063'
   phone: 603-821-1134
   phone_type:
@@ -31,7 +24,7 @@ CTAs:
   first_CTA_URL: 'http://www.heeterrealestate.com/cma/property-valuation/'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://www.heeterrealestate.com/search/advanced_search/'
-  VR_form: http://oi.vresp.com?fid=f33703d3e2
+  VR_form: 'http://oi.vresp.com?fid=f33703d3e2'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/007.jpg
     CTA_title: Looking to Buy a Home?
@@ -74,7 +67,7 @@ podcast:
   title: Southern New Hampshire Real Estate Podcast with Dave Heeter
   categories:
     - Education
-  image: http://i.imgur.com/Pnw5y7E.jpg
+  image: 'http://i.imgur.com/Pnw5y7E.jpg'
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
