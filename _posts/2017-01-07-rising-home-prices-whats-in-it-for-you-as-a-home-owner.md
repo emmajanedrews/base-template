@@ -10,7 +10,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/improving-housing-market-up-arrow-keyimage.jpg
 youtube_code:
 ---
 
