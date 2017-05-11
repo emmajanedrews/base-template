@@ -1,17 +1,17 @@
 ---
 layout: post
 title: Can Our Real Estate Market Sustain This Pace?
-date: 2017-04-28 15:11:41
+date: 2017-04-28 15:11:00
 tags:
   - Market Update
 excerpt: This past year has been recognized as one of Utah’s best real estate markets ever. I’ve got a quick update for you to let you know what’s happening right now and what you can expect for the rest of the year. We’ll look at both national and local numbers to get the best picture possible.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Andrew+Ford/Utah+Real+Estate+Agent-+Were+in+the+midst+of+a+historic+market.mp4'
 pullquote: 'Home values have increased by 12% since 2015.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: h7SiO8_Rlk4
+youtube_code: BkkqdPHhafM
 ---
 
 
