@@ -25,6 +25,7 @@ youtube_code: RNoR65o2RTE
 4. **Consider pre-inspecting the property.** If you can get the property inspected prior to writing a purchase in sale, you can omit the contingency for inspection on your offer. This will put you in a great spot compared to other offers with inspection contingencies.
    <br>
    <br>{% include pullquote.html %}
+   <br>&nbsp;
 5. **Waive the appraisal contingency.** If you are comfortable that the price you’re offering is the price you’re going to pay, you can remove the appraisal contingency. If you can’t afford to do that, consider offering a premium above the appraisal, which means you’re willing to offer a certain dollar amount above what the appraisal values the home at.
 6. **Earnest money.** Typically earnest money is between 1% and 3%. Offering between 3% and 5% lets the seller know you are in a good spot financially.
 7. **Consider non-refundable funds.** If you’re comfortable with the property and your ability to get a loan, you may want to make your earnest money non-refundable.
