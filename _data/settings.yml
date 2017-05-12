@@ -31,11 +31,11 @@ CTAs:
   first_CTA_URL: http://web2.webagentsolutions.com/agents/shspence/custompages_reports.php?key=b1979
   second_CTA_text: Home Search
   second_CTA_URL: http://web2.webagentsolutions.com/agents/shspence/custompages_reports.php?key=buyerpage
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=236a0fac9c
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: Looking to Buy a Home?
+    CTA_title: Looking to Buy a San Antonio Home?
     CTA_text: Search the entire MLS for homes located in -- MARKET --.
     CTA_link_text: Home Search Tool
     CTA_url: http://web2.webagentsolutions.com/agents/shspence/custompages_reports.php?key=buyerpage
@@ -94,7 +94,7 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 60
   hero_text: Real Estate Video Blog
   hero_background_hex: '#094264'
   hero_image_path: /img/background.jpg
