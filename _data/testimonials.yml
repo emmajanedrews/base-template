@@ -1,5 +1,8 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
+  - quote: "Spencer and his team met all of our expectations!! We could not believe how fast he sold our home. From the day it was listed to the day we closed was only 3 weeks! His team was very professional, and always available to answer any of our questions day or night. I would highly recommend Ultimate Realty to any of my family or friends."
+    name:
+    audio:
+  - quote: "I have listed and sold multiple properties with Spencer and I have always gotten top dollar! Very professional and always available when I needed to speak with him. The office staff was also very helpful and professional when he wasn't available and often times could resolve my issues without every having to speak directly with Spencer. Very well run organization and would recommend Spencer and Ultimate to all my friends and family!"
     name:
     audio:

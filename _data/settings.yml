@@ -1,32 +1,36 @@
 audit_header: false
 title: -- CLIENT BRAND --
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: Our Listings
+    url: https://www.bestsanantoniohomesearch.com/results/?OfficeMLS=HASH00
+  - title: Resources
+    url: https://www.bestsanantoniohomesearch.com/resources/
+  - title: Contact
+    url: https://www.bestsanantoniohomesearch.com/contactus/
 
 client:
-  name:
+  name: Spencer Hasch
   license_number:
   about_markdown: |
+    We will create the most productive and influential real estate team in the world by focusing on teamwork, leadership, proactive marketing, technology and personal growth to achieve our goals. We will provide world class service and in return, will create raving fans. We will create an image that is known throughout our community for service, results, and innovation. Our dedication to our mission will produce significant financial returns, allowing us to give back to our team and our community.
 
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
-  phone_type:
+  market: Great San Antonio Real Estate
+  brand: Ultimate Realty
+  address: 8122 Whisper Oak <br> San Antonio, TX 78266
+  phone: 210-826-5300
+  phone_type: Direct
   phone2:
   phone2_type:
-  email:
-  url:
+  email: insidesales@ultimaterealtysa.com
+  url: https://www.bestsanantoniohomesearch.com/
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://web2.webagentsolutions.com/agents/shspence/custompages_reports.php?key=b1979
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://web2.webagentsolutions.com/agents/shspence/custompages_reports.php?key=buyerpage
   VR_form:
 
 sidebar_CTA:
@@ -34,14 +38,14 @@ sidebar_CTA:
     CTA_title: Looking to Buy a Home?
     CTA_text: Search the entire MLS for homes located in -- MARKET --.
     CTA_link_text: Home Search Tool
-    CTA_url: /homesearch/
+    CTA_url: http://web2.webagentsolutions.com/agents/shspence/custompages_reports.php?key=buyerpage
 
 second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/005.jpg
+  - CTA_image_path2: /img/cta-images/007.jpg
     CTA_title2: What's Your Home Worth?
     CTA_text2: Thinking of selling or interested in learning about a neighbor's house? We can help you see what it's worth.
     CTA_link_text2: Free Home Value Report
-    CTA_url2: /homevalue/
+    CTA_url2: http://web2.webagentsolutions.com/agents/shspence/custompages_reports.php?key=b1979
 
 lender:
   show_section: false
@@ -66,15 +70,15 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/pages/Ultimate-Realty/537376979724086?ref=hl
+  linkedin_url: https://www.linkedin.com/pub/spencer-hasch/20/8b7/bb1
+  gplus_url: https://plus.google.com/u/0/b/100798837332844433733/100798837332844433733/about
+  youtube_url: https://www.youtube.com/channel/UCysdJgoBGXFxy33vggF1g_Q
+  twitter_url: https://twitter.com/Ultimate_Realty
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
+  zillow_url: https://www.zillow.com/profile/Spencer-Hasch/
+  trulia_url: http://www.trulia.com/profile/spencer-hasch-agent-san-antonio-tx-364554/overview
   yelp_url:
   podcast_url:
 
