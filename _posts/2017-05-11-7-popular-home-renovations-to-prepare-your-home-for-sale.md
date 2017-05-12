@@ -24,7 +24,7 @@ youtube_code: MN9tmSqVnII
 3. **Flooring.** Replace carpet with a hard surface such as wood or tile. The hottest flooring material in Arizona right now is ceramic wood planks.
 4. **Smart homes.** Things such as alarms, heating and cooling systems, and window treatments can be operated from a mobile device in most new construction homes. If you’re looking to replace any of those items, setting up similar technology will be a huge plus.
 5. **Bathroom remodels.** Like in the kitchen, white cabinets with brushed nickel or chrome are dominating in popularity. It’s also becoming incredibly common to get rid of the bathtub in the master bath and instead focus on a new shower.
-6. **General landscaping.** Landscaping is probably the best return on the dollar spent out of anything you’d do on a home remodel. Here in Tucson we don’t do a lot of grass, so focus on crushed designer rock and minor green shrubbery to balance out the look. It’s a very inexpensive, clean way to give your home fantastic curb appeal.
+6. **General landscaping.** Landscaping is probably the best return on the dollar spent out of anything you’d do on a home remodel. Here in Tucson, we don’t do a lot of grass, so focus on crushed designer rock and minor green shrubbery to balance out the look. It’s a very inexpensive, clean way to give your home fantastic curb appeal.
 7. **Stacked stone.** Having stacked stone around entryways and fireplaces is very popular right now as well. It makes those areas pop, and people really love to see it.
 
 If you have any questions about remodels, or if you are looking to buy or sell a home, don’t hesitate to give us a call or send us an email. We’re always happy to help.
