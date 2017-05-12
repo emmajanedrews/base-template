@@ -88,6 +88,7 @@ images:
   hero_logo_path: /img/logo.png
   logo_width_number: 60
   hero_text: <br>
+  hero_image_path: /img/background.jpg
   hero_background_hex: '#FFF'
   post_cover: /img/cover.jpg
 site_colors:

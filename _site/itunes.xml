@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title></title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>davefriedmancoaching.com"</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="davefriedmancoaching.com""/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Dave Friedman Team - your professional Charleston Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Dave Friedman</managingEditor>
-    <lastBuildDate>2017-04-05 15:57:01 -0500</lastBuildDate>
+    <lastBuildDate>2017-05-12 15:56:18 -0500</lastBuildDate>
     <media:copyright>Dave Friedman</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="davefriedmancoaching.com"/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
@@ -18,15 +18,47 @@
     </itunes:owner>
     <itunes:author>Dave Friedman</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="davefriedmancoaching.com"/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Charleston Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Dave Friedman Team - your professional Charleston Real Estate Agents.</itunes:summary>
       <itunes:category text="News &amp; Politics"/>
     
       <item>
+        <title>How I Increased My Business by Working My Database</title>
+        <link>davefriedmancoaching.com"/how-i-increased-my-business-by-working-my-database.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Dave Friedman</author>
+        <pubDate>2017-04-17 19:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/2017+Recruiting/How+I+doubled+my+business+in+one+year+-+Charleston+%2526+Mt.+Pleasant+Real+Estate+Agent.mp4</guid>
+        <description>
+
+Above, you’ll find a replay of my full discussion with Frank Klesitz of Vyral Marketing. Here is what we covered with timestamps so you can jump to the section that most interests you:
+
+(0:50) My professional story. How I got into real estate and built my company from the ground up.
+(5:00) How I took the next step in my business by implementing different systems.
+(8:05) How many people I talk to a week and how I went from three to 30 sales a year from my database.
+(10:25) How many opt-ins I get every week.
+(15:20) What caused my recent increase in production? The conversion of previous leads we already had or the increased attention to my database?
+(20:00) How to avoid spam when marketing online.
+(21: 50) My take on traditional real estate farming.
+(26:45) What do I recommend for you to feed your database?
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/2017+Recruiting/How+I+doubled+my+business+in+one+year+-+Charleston+%2526+Mt.+Pleasant+Real+Estate+Agent.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="davefriedmancoaching.com"" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/2017+Recruiting/How+I+doubled+my+business+in+one+year+-+Charleston+%2526+Mt.+Pleasant+Real+Estate+Agent.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>I went from only getting three deals from my database each year to more than thirty last year. Here’s how I did it.</itunes:subtitle>
+        <itunes:author>Dave Friedman</itunes:author>
+        <itunes:summary>I went from only getting three deals from my database each year to more than thirty last year. Here’s how I did it.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>How Our Team Finds Success With This Unique Tool</title>
-        <link>localhost:4000/how-our-team-finds-success-with-this.html</link>
+        <link>davefriedmancoaching.com"/how-our-team-finds-success-with-this.html</link>
         
           <category>Increase Business</category>
         
@@ -59,7 +91,7 @@ If you have any questions about this form or would like to get a copy of your ow
 Send me an email and I’d be happy to get you one. I look forward to hearing from you soon.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="davefriedmancoaching.com"" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -78,7 +110,7 @@ A lot of people want to know how our team is able to be so productive. Our agent
       
       <item>
         <title>What’s Sexy About Consistency?</title>
-        <link>localhost:4000/whats-sexy-about-consistency.html</link>
+        <link>davefriedmancoaching.com"/whats-sexy-about-consistency.html</link>
         
           <category>Increase Business</category>
         
@@ -123,7 +155,7 @@ I highly recommend that you listen to all of the Real Estate Success Rocks podca
 As always, if you have any questions about how to improve your business, just give me a call or send me an email. I look forward to hearing from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="davefriedmancoaching.com"" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Recently, I had the pleasure of being a guest on Patrick Lilly’s Real Estate Success Rocks podcast. Patrick puts on phenomenal masterminds with a select group of top-producing real estate agents across North America; his podcasts are a great way to get a sneak peek into those masterminds.
@@ -138,7 +170,7 @@ As always, if you have any questions about how to improve your business, just gi
       
       <item>
         <title>How Do You Build a Winning Real Estate Team? </title>
-        <link>localhost:4000/how-do-you-build-winning-real-estate.html</link>
+        <link>davefriedmancoaching.com"/how-do-you-build-winning-real-estate.html</link>
         
           <category>Build a Real Estate Team</category>
         
@@ -180,7 +212,7 @@ Of course, if you have any questions for me, please don’t hesitate to reach ou
 
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="davefriedmancoaching.com"" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>I recently had the pleasure of appearing on Pat Hiban’s Real Estate Rockstars Radio, where Pat interviews the top voices in the real estate industry. On this episode, you’ll learn:
@@ -195,7 +227,7 @@ Of course, if you have any questions for me, please don’t hesitate to reach ou
       
       <item>
         <title>Join Us and Make 2017 the Best Year of Your Life</title>
-        <link>localhost:4000/join-us-and-make-2017-best-year-of-your.html</link>
+        <link>davefriedmancoaching.com"/join-us-and-make-2017-best-year-of-your.html</link>
         
           <category>Increase Business</category>
         
@@ -210,7 +242,7 @@ We’re looking for motivated, energetic, talented people to join our team, and 
 
 On average each agent produces $10M in volume and sells 40 homes per year. In comparison to the average agent who sells 4 homes a year, its obvious our team has created a proven and repeatable system for Realtors to become extremely successful. If you didn’t achieve what you set out to do in 2016, this tool will help you immensely.
 
-“This tool will help you reach all of your personal and professional goals.”
+&lt;a href=”https://twitter.com/home/?status=This tool will help you reach all of your personal and professional goals.%20davefriedmancoaching.com”/join-us-and-make-2017-best-year-of-your.html%20via%40” target=’_blank’ class=”pullquote”&gt;“This tool will help you reach all of your personal and professional goals.”&lt;/a&gt;
 
 We have many job openings listed on this blog, so if you’re interested in achieving all the goals that you didn’t in 2016, reach out to me so I can share this tool with you and discuss the opportunities we have to offer.
 
@@ -219,7 +251,7 @@ I look forward to hearing from you! , reach out to me so I can share this tool w
 I look forward to hearing from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="davefriedmancoaching.com"" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -238,7 +270,7 @@ Did you reach all of your personal and professional goals in 2016? Do you want t
       
       <item>
         <title>How I Doubled My Dealings In One Year</title>
-        <link>localhost:4000/how-i-doubled-my-dealings-in-one-year.html</link>
+        <link>davefriedmancoaching.com"/how-i-doubled-my-dealings-in-one-year.html</link>
         
           <category>Increase Business</category>
         
@@ -262,7 +294,7 @@ Here is an overview of what we covered with time-stamps so you can jump to the s
 15:00- Other systems that help us dial in what my business is looking like.  If you have any questions on what we talked about, reach out to me through a call or email. I’d love to chat and see what I can do to help you! ut, reach out to me through a call or email. I’d love to chat and see what I can do to help you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="davefriedmancoaching.com"" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -281,7 +313,7 @@ Here is an overview of what we covered with time-stamps so you can jump to the s
       
       <item>
         <title>How I Increased Sales From My Database</title>
-        <link>localhost:4000/how-i-doubled-my-business-in-one-year.html</link>
+        <link>davefriedmancoaching.com"/how-i-doubled-my-business-in-one-year.html</link>
         
           <category>Hangout</category>
         
@@ -313,7 +345,7 @@ I want to thank Frank Klesitz for having me on this hangout.
 If you have any questions about what we discussed, give me a call or send me an email. I’d love to help you out in any way I can! bout what we discussed, give me a call or send me an email. I’d love to help you out in any way I can!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="davefriedmancoaching.com"" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
