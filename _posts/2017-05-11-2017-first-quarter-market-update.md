@@ -22,7 +22,7 @@ We had a long winter with lots of snow followed by a lot of rain. We are almost 
 
 {% include pullquote.html %}
 
-First, on all the lakes combines, there were 10 residential sales this year compared to eight residential sales last year. However, there were only two vacant lot sales this year compared to four last year.
+First, on all the lakes combined, there were 10 residential sales this year compared to eight residential sales last year. However, there were only two vacant lot sales this year compared to four last year.
 
 **Flathead Lake** has 89 residential active listings and 42 vacant active listings. This year in the first quarter there were seven residential sales, zero vacant sales, and four pending sales compared to seven residential sales, two vacant sales, and one pending sale in the first quarter of 2016.
 
@@ -38,7 +38,7 @@ Out west, the three lakes out there have had some activity, mainly on Ashley Lak
 
 **McGregor Lake** has three residential active listings and six vacant active listings. Neither 2017 nor 2016 saw any residential or vacant sales in the first quarter, but there is one pending sale compared to zero pending sales last year.
 
-**Bitterroot Lake**has seven residential active listings and four vacant active listings. This year in the first quarter there were two residential sales, zero vacant sales, and one pending sale compared to zero residential sales, zero vacant sales, and zero pending sales in the first quarter of 2016.
+**Bitterroot Lake&nbsp;**has seven residential active listings and four vacant active listings. This year in the first quarter there were two residential sales, zero vacant sales, and one pending sale compared to zero residential sales, zero vacant sales, and zero pending sales in the first quarter of 2016.
 
 I’ve talked before about the surge in residential waterfront in Flathead Lake on the condominium sales side. There are 47 active listings right now, four of which have sold compared to eight last year. There is also one pending sale.
 
