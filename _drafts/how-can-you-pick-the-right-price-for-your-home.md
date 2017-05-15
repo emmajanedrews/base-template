@@ -21,11 +21,13 @@ By then, buyers will have two questions: What’s wrong with your house? How muc
 <br>
 <br>Ideally, you should have no more than one price reduction when selling your home. Here are a few guidelines for you to consider when pricing your property:
 
-1. Your agent is not your adversary. Your agent is on your side, so enlist their help.
-2. Pull up pending sales. How many days did the home spend on market? How often was the price reduced and by how much? You won’t know the sold price yet, but you can determine the average price reduction percentages.
+1. **Your agent is not your adversary.** Your agent is on your side, so enlist their help.
+2. **Pull up pending sales.** How many days did the home spend on market? How often was the price reduced and by how much? You won’t know the sold price yet, but you can determine the average price reduction percentages.
 
 {% include pullquote.html %}
 
-1. Pull up an active listing’s history to determine how many days a home was on the market before prices were reduced.
-2. Ignore listings without price reductions, unless they are similar to your home and the days on market are low. &nbsp;
-3. Run a side-by-side comparison of active listings that are near the price point you are considering. Price your home so that it falls in the bottom two to five listings or, if you are really determined to sell, price your home lower than anything else on the market.
+1. **Pull up an active listing’s history** to determine how many days a home was on the market before prices were reduced.
+2. **Ignore listings without price reductions,** unless they are similar to your home and the days on market are low. &nbsp;
+3. **Run a side-by-side comparison of active listings** that are near the price point you are considering. Price your home so that it falls in the bottom two to five listings or, if you are really determined to sell, price your home lower than anything else on the market.
+
+Your agent can help you determine the best price for your home. If you have any other questions for me, just give me a call or send me an email. I would be happy to help you!
