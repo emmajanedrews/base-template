@@ -10,8 +10,8 @@ pullquote: 'Housing inventory is at record lows, driving up prices.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/daniel-dixon--spring-2017-denver-home-price-update-youtube.jpg
-youtube_code: j2cYiHZcDY8
+youtube_alternate_image: /uploads/daniel-dixon--spring-2017-denver-home-price-update-youtube-1.jpg
+youtube_code: 8i55ACJMY08
 ---
 
 
