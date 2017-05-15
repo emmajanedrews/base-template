@@ -27,14 +27,21 @@ CTAs:
   first_CTA_URL: http://www.trianglehousehunting.com/s/Find-Out-How-Much-Your-North-Carolina-Home-Is-Worth?utm_campaign=patty
   second_CTA_text: Home Search
   second_CTA_URL: http://www.trianglehousehunting.com/search.aspx
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=196692a4fb
 
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/005.jpg
+  - CTA_image_path: /img/cta-images/007.jpg
     CTA_title: Looking to Buy a Home?
     CTA_text: Search the entire MLS for homes located in -- MARKET --.
     CTA_link_text: Home Search Tool
     CTA_url: http://www.trianglehousehunting.com/search.aspx
+
+second_sidebar_CTA:
+  - CTA_image_path2: /img/cta-images/005.jpg
+    CTA_title2: What's Your Home Worth?
+    CTA_text2: Thinking of selling or interested in learning about a neighbor's house? We can help you see what it's worth.
+    CTA_link_text2: Free Home Value Report
+    CTA_url2: http://www.trianglehousehunting.com/s/Find-Out-How-Much-Your-North-Carolina-Home-Is-Worth?utm_campaign=patty
 
 lender:
   show_section: false
