@@ -1,10 +1,11 @@
 ---
 layout: post
 title: 4 Things You Must Do to Your Home After Buying It
-date: 2017-05-10 15:32:22
+date: 2017-05-10 15:32:00
 tags:
+  - Home Buyer Tips
 excerpt: 'After you’ve bought your first home, there are still some tasks left to be done that can make your living experience that much more pleasant.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Don+Williams/Don+Williams+Group-+4+important+tips+for+new+homeowners.mp4'
 pullquote: 'Unless you want to smell someone else’s air, change your air filters.'
 enclosure_type: video/mp4
 enclosure_time:
