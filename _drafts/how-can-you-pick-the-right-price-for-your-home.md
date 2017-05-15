@@ -26,8 +26,8 @@ By then, buyers will have two questions: What’s wrong with your house? How muc
 
 {% include pullquote.html %}
 
-1. **Pull up an active listing’s history** to determine how many days a home was on the market before prices were reduced.
-2. **Ignore listings without price reductions,** unless they are similar to your home and the days on market are low. &nbsp;
-3. **Run a side-by-side comparison of active listings** that are near the price point you are considering. Price your home so that it falls in the bottom two to five listings or, if you are really determined to sell, price your home lower than anything else on the market.
+3. **Pull up an active listing’s history** to determine how many days a home was on the market before prices were reduced.
+4. **Ignore listings without price reductions,** unless they are similar to your home and the days on market are low. &nbsp;
+5. **Run a side-by-side comparison of active listings** that are near the price point you are considering. Price your home so that it falls in the bottom two to five listings or, if you are really determined to sell, price your home lower than anything else on the market.
 
 Your agent can help you determine the best price for your home. If you have any other questions for me, just give me a call or send me an email. I would be happy to help you!
