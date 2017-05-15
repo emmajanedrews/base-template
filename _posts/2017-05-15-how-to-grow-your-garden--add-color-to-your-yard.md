@@ -25,6 +25,6 @@ Ideally, you want to **prepare your soil with fertilizers and mulches.** It’s 
 
 {% include pullquote.html %}
 
-It’s also a good idea to** check your sprinklers** and readjust your timers to prevent overwatering and make sure they’re watering the areas they’re intended for and not producing any runoff that might go into the street or a neighboring property.
+It’s also a good idea to **check your sprinklers**&nbsp;and readjust your timers to prevent overwatering and make sure they’re watering the areas they’re intended for and not producing any runoff that might go into the street or a neighboring property.
 
 If you have any questions about gardening and/or maintaining your yard this time of year, don’t hesitate to reach out to me. You can also reach Mike at (818) 842-2660. We’d be happy to help you!
