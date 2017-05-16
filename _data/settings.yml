@@ -85,7 +85,7 @@ site_colors:
   main_body_text_color: '#353535'
 
 header:
-  hero_text: Real Estate Video Blog
+  hero_text: Baltimore Real Estate Video Blog
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 2px
