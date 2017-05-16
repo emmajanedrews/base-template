@@ -1,5 +1,13 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
-    audio:
+  - name: Ellie Kuuskvere
+    youtube_code: 'S34OOxUbcw0'
+testimonial:
+  - name: Evan Dua
+    youtube_code: 'S34OOxUbcw0'
+testimonial:
+  - name: Jackie Moore
+    youtube_code: 'S34OOxUbcw0'
+testimonial:
+  - name: Josh Finigan
+    youtube_code: 'S34OOxUbcw0'
