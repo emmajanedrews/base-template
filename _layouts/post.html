@@ -36,6 +36,15 @@
 			<div class="row">
 				{% include share-buttons.html %}
 			</div>
+			{% if page.taxes == true %}
+				{% include taxes.html %}
+			{% endif %}
+			{% if page.annuities == true %}
+				{% include annuities.html %}
+			{% endif %}
+			{% if page.wealthguard == true %}
+				{% include wealthguard.html %}
+			{% endif %}
 		<!-- </div> -->
 	</main>
 			</div>
