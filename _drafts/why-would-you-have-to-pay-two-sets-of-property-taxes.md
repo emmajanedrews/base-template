@@ -4,7 +4,7 @@ title: Why Would You Have to Pay Two Sets of Property Taxes?
 date:
 tags:
   - Real Estate
-excerpt: 'When you buy a home that is worth more than your previous home, you will probably have to pay a second property tax bill. Here’s why.'
+excerpt: 'When you buy a home that is worth more than your previous home, you will probably have to pay a second property tax bill. Here’s an explanation why.'
 enclosure:
 pullquote: "The county assessor's fiscal year begins in July."
 enclosure_type: video/mp4
