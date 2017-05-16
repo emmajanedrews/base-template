@@ -4,7 +4,7 @@ title: 'Introducing Our Newest Staging & Design Expert'
 tags:
   - Real Estate
 excerpt: Rose has been with us almost six months and is a big part of our listing process. She decided to work here because it gave her the unique opportunity to combine her background in interior design with real estate.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Wes+Peters/Baltimore+Metro+Real+Estate-+Introducing+Rose.mp4'
 pullquote: I highly recommend using Rose to help you prepare your home for the market.
 enclosure_type: video/mp4
 enclosure_time:
@@ -18,7 +18,7 @@ youtube_code: QTxIsx1VMBM
 
 Have you met our expert stager/designer, Rose Bennett?
 
-**Rose has been with us almost six months and is a big part of our listing process.&nbsp;**She decided to work here because it gave her the unique opportunity to combine her background in interior design with real estate. She works on the listing side of the team helping sellers stage and design their homes for the market and staying with them all the way through settlement.
+**Rose has been with us almost six months and is a big part of our listing process.**She decided to work here because it gave her the unique opportunity to combine her background in interior design with real estate. She works on the listing side of the team helping sellers stage and design their homes for the market and staying with them all the way through settlement.
 
 Her duties consist of coming out to the home and writing up a full staging report so the homeowner knows everything they need to do to prepare the home for the market. **With Rose on the team, staged homes have been selling 43% faster than vacant homes** and at an average of 97% of the listing price once we’ve gone through the process of getting them ready. Our average days on market is also down to just 16 days.
 
