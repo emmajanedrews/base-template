@@ -15,7 +15,7 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: WrBJaw0i1K8
 taxes: false
-annuities: false
+annuities: true
 wealthguard: false
 ---
 
