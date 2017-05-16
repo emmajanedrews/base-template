@@ -19,7 +19,7 @@ youtube_code: OPc2m_Bc5Is
 
 What does your yard look like this spring?
 
-I’ve once again enlisted the advice of Mike of Mike’s Custom Lawn Care to give you some pointers on gardening and lawn care. This is the prime season to plant your vegetable garden and add some color around the exterior of your property with flowers. We had a great winter that produced lots of water, so if you haven’t done so already, now is the time to get started on these items.
+I’ve once again enlisted the advice from Mike of Mike’s Custom Lawn Care to give you some pointers on gardening and lawn care. This is the prime season to plant your vegetable garden and add some color around the exterior of your property with flowers. We had a great winter that produced lots of water, so if you haven’t done so already, now is the time to get started on these items.
 
 Ideally, you want to **prepare your soil with fertilizers and mulches.** It’s also a great time to plant your annuals so your summer color can go into effect. Pansies, primroses, primulas, and snapdragons are all great at adding color to small areas with bare spots.
 
