@@ -5,7 +5,7 @@ date: 2017-05-10 16:17:00
 tags:
   - Real Estate
 excerpt: 'If you’re looking to invest, you might want to consider the Airbnb strategy. I’ll go over the details today.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Steve+Schwab/Portland+Real+Estate+Agent-+An+exciting+opportunity+for+investors.mp4'
 pullquote: Using a management company means you don’t have to worry about the day-to-day upkeep.
 enclosure_type: video/mp4
 enclosure_time:
