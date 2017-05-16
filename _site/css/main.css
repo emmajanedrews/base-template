@@ -2202,7 +2202,7 @@ table tr, table td {
       padding: 0.3rem;
       display: inline-block; }
   .socials svg {
-    fill: #50697D;
+    fill: #0d4156;
     height: 3.5rem;
     width: 3.5rem;
     border-radius: 50%;
@@ -2857,7 +2857,7 @@ form select {
     margin: 10px auto;
     width: 90%; } }
 .cta {
-  background: #50697D;
+  background: #0d4156;
   color: #ffffff;
   padding: 1.3rem 2rem;
   text-transform: capitalize;
@@ -2870,7 +2870,7 @@ form select {
     background: transparent;
     color: #8f7a65;
     box-shadow: 4px 4px 0 #8f7a65;
-    border: 2px solid #50697D;
+    border: 2px solid #0d4156;
     -webkit-transform: scale(1.05);
     transform: scale(1.05);
     -webkit-transform: translateY(-0.2rem);
