@@ -26,7 +26,7 @@ client:
 
 CTAs:
   first_CTA_text: Get A Copy Of My Book
-  first_CTA_URL: http://ccadvisors.com/about-cca-financial-planning/the-team/mario-c-giganti-cpa-cfp-aifa/
+  first_CTA_URL: '#contact'
   second_CTA_text: Schedule a Consultation
   second_CTA_URL: http://ccadvisors.com/contact-us/
   VR_form: http://oi.vresp.com?fid=a2e54c7817
