@@ -82,8 +82,8 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 70
-  hero_text: Corporate 401K Planning Video Blog
-  hero_background_hex: '#29605E'
+  hero_text: The Retirement Bullseye Video Blog
+  hero_background_hex: '#50697D'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
@@ -103,8 +103,8 @@ buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
-  button_border_color: '#29605E'
-  button_background_color: '#29605E'
+  button_border_color: '#50697D'
+  button_background_color: '#50697D'
   button_text_color: '#ffffff'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
