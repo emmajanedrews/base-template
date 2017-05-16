@@ -7,13 +7,11 @@ custom_links:
     url: https://www.bestsanantoniohomesearch.com/results/?OfficeMLS=HASH00
   - title: Resources
     url: https://www.bestsanantoniohomesearch.com/resources/
-  - title: Contact
-    url: https://www.bestsanantoniohomesearch.com/contactus/
 
 client:
   name: Spencer Hasch
   license_number:
-  about_markdown: |
+  about_markdown: |+
     We will create the most productive and influential real estate team in the world by focusing on teamwork, leadership, proactive marketing, technology and personal growth to achieve our goals. We will provide world class service and in return, will create raving fans. We will create an image that is known throughout our community for service, results, and innovation. Our dedication to our mission will produce significant financial returns, allowing us to give back to our team and our community.
 
   market: Great San Antonio Real Estate
