@@ -22,7 +22,7 @@ youtube_code: yibGHVZxgXs
 
 {% include pullquote.html %}
 
-1. Using bad photography: The difference between the photos you can take with your phone and those taken by a professional photographer is like night and day. Your home's photos online and in print are a huge part of your marketing, so they should be of the highest possible quality.
-2. Overlooking the exterior: Your home's curb appeal and landscaping create the first impression on buyers and indicate how well the house has been maintained. Manicured plants and grass show that you loved the whole property and maintained it well.
+3. Using bad photography: The difference between the photos you can take with your phone and those taken by a professional photographer is like night and day. Your home's photos online and in print are a huge part of your marketing, so they should be of the highest possible quality.
+4. Overlooking the exterior: Your home's curb appeal and landscaping create the first impression on buyers and indicate how well the house has been maintained. Manicured plants and grass show that you loved the whole property and maintained it well.
 
 If you have any other questions about how to have a more successful home sale, give us a call or send us an email. We're always here to help.
