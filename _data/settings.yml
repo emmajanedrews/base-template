@@ -1,6 +1,6 @@
 audit_header: false
 title: Salt Lake County Real Estate Video Blog with Joshua Stern
-description: 	If you are looking to buy or sell a Salt Lake County home, get all the information and the latest updates, tips, and tricks from The Stern Team - your professional Salt Lake City Real Estate Agents.
+description: 'Josh Stern is the leader of the Stern Team, a full-service real estate team that has helped sell and purchase thousands of homes in Salt Lake City and the Wasatch Front since 2002. Right now, they sell about a property a day! If you are looking to buy or sell a Salt Lake County home and would like to receive all of the latest market updates, tips, and tricks, make sure you follow the Stern Team, your professional Salt Lake City Real Estate agents.'
 show_custom_links: true
 custom_links:
   - title: About
@@ -58,8 +58,7 @@ podcast:
   author: Joshua Stern
 images:
   client_headshot_path: '/img/headshot.jpg'
-  hero_logo_path: '/img/logo.png'
-  hero_text:
+  hero_logo_path: '/img/logo.png'  hero_text:
   hero_background_hex: '#ab0000'
   hero_image_path: '/img/background.jpg'
 brand_color: '#ab0000'
