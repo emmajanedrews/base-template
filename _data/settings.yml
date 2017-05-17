@@ -24,24 +24,24 @@ client:
   url: KLTre.com
 
 CTAs:
-  first_CTA_text: Home Valuation
+  first_CTA_text: Products
   first_CTA_URL: http://revealmyhomevalue.com/
-  second_CTA_text: Home Search
+  second_CTA_text: Join Us 
   second_CTA_URL: https://www.discoverazhomesforsale.com/
   VR_form: http://oi.vresp.com?fid=f217b02ad7
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free -- MARKET -- Home Value Report"
+    CTA_title: "Products"
+    CTA_text: "Agent Training Seminars"
+    CTA_link_text: "Download for Agent Training Seminars"
     CTA_url: http://revealmyhomevalue.com/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
+    CTA_title2: "Join Us"
+    CTA_text2: "Let's talk about how The Kevin Langan Team can build your Real Estate Career."
+    CTA_link_text2: "Looking to Build Your Real Estate Career?"
     CTA_url2: https://www.discoverazhomesforsale.com/
 
 lender:
