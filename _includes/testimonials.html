@@ -7,8 +7,10 @@
 		  		<a class="testimonial-btn next"><i class="fa fa-arrow-right"></i></a>
 				</div>
 				<div id="owl-carousel" class="owl-carousel">
-						<!-- <div class="item-container">
+					{% for item in site.data.testimonials.testimonial %}
+						<div class="item-container">
 							<div class="item">
+		            {{item.name | prepend: '<p class="testimonial-attribute">' | append: '</p>'}}
 								<div id="item-truncated">
 		            {{item.quote | prepend: '<p class="testimonial">' | append: '</p>' | truncate: 300 }}
 								{% if item.quote.size >= 296 %}
@@ -21,17 +23,18 @@
 									<p class="expand item-toggle">Show Less <i class="fa fa-minus-square-o expand"></i></p>
 								{% endif %}
 								</div>
-		            {{item.name | prepend: '<p class="testimonial-attribute"> - ' | append: '</p>'}}
-								<div class="testimonial-audio">
+								<!-- <div class="testimonial-audio">
 									{% if item.audio != null %}
 										<p>Listen to the whole Interview:</p>
 										<audio class="jp-player-simple" src="{{item.audio}}" preload="auto">Your browser does not support HTML5 audio, please <a href="http://browsehappy.com/">update your browser.</a></audio>
 									{% endif %}
 									<i class="fa fa-quote-right fa-2x"></i>
-								</div>
-							</div> -->
-					{% for item in site.data.testimonials.testimonial %}
-					<div class="item-container">
+								</div> -->
+								{% if item.youtube_code != null %}
+								<iframe width="560" height="315" src="https://www.youtube.com/embed/{{item.youtube_code | remove: 'https://youtu.be/' | remove: 'https://www.youtube.com/watch?v='}}?rel=0" frameborder="0" allowfullscreen></iframe>
+								{% endif %}
+							</div>
+					<!-- <div class="item-container">
 						<div class="item">
 							<p class="testimonial-attribute">Brett Kelly</p>
 							<p class="testimonial">How Brett's life has changed personally and professionally after leaving the corporate world. He will sell over 40 homes for $10 Million in volume in his first full year as a Buyer Partner.</p>
@@ -63,8 +66,8 @@
 						<div class="item">
 							<p class="testimonial-attribute">Ellie Kuuskvere</p>
 							<p class="testimonial">Ellie explains her transition from selling 8 homes a year in Washington to 20 homes within her first 6 months on The Dave Friedman Team. She has transitioned into the team's Operations Manager and soon to be CEO of Expert Realtor Services.</p>
-							<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/{{item.youtube_code | remove: 'https://youtu.be/' | remove: 'https://www.youtube.com/watch?v='}}?rel=0" frameborder="0" allowfullscreen></iframe> -->
-						</div>
+							 <iframe width="560" height="315" src="https://www.youtube.com/embed/{{item.youtube_code | remove: 'https://youtu.be/' | remove: 'https://www.youtube.com/watch?v='}}?rel=0" frameborder="0" allowfullscreen></iframe>
+						</div> -->
 					</div>
 					{% endfor %}
 				</div>
