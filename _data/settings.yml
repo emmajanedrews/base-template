@@ -4,11 +4,9 @@ description: 'If you are looking to buy or sell a home, get all the information 
 show_custom_links: true
 custom_links:
   - title: Careers
-    url: http://clickcharlestonsc.com/resources.php
+    url: https://dave-friedman-team.breezy.hr/#positions
   - title: Meet the Team
     url: http://clickcharlestonsc.com/agents.php
-  - title: Partners
-    url: http://clickcharlestonsc.com/resources/raving-fan-club-and-vendors
 
 client:
   name: Dave Friedman
@@ -30,7 +28,7 @@ client:
 
 CTAs:
   first_CTA_text: Apply Now
-  first_CTA_URL: http://clickcharlestonsc.com/recruit.php
+  first_CTA_URL: https://dave-friedman-team.breezy.hr/#positions
   second_CTA_text:
   second_CTA_URL:
   VR_form: http://oi.vresp.com?fid=d66117ef71
