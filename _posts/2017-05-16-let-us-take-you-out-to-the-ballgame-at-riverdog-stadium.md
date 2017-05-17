@@ -25,6 +25,6 @@ This fund is truly amazing, and I know for a fact that all the money that was ra
 
 {% include pullquote.html %}
 
-The best part? It’s 100% free. **If you’re interested in attending, just reply back to our email and let me know how many ticket vouchers you need.**Look for me in front inside the Dave Friedman Team tent where you can exchange your vouchers for tickets.
+The best part? It’s 100% free. **If you’re interested in attending, just reply back to our email and let me know how many ticket vouchers you need.&nbsp;**Look for me in front inside the Dave Friedman Team tent where you can exchange your vouchers for tickets.
 
 If you have any questions about this event, don’t hesitate to reach out to me. I look forward to seeing you soon!
