@@ -5,7 +5,7 @@ date: 2017-05-05 09:00:00
 tags:
   - Home Seller Tips
 excerpt: "If you've thought about selling your house, there are a few reasons why now might be your best opportunity in years."
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Daniel+Dixon/Denver+Real+Estate-+Spring+2017+Denver+Home+Price+Update.mp4'
 pullquote: 'Housing inventory is at record lows, driving up prices.'
 enclosure_type: video/mp4
 enclosure_time:
