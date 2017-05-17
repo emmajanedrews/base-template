@@ -17,12 +17,12 @@ youtube_code: yibGHVZxgXs
 
 {% include youtube.html %}When you sell your house, you want to avoid these four big mistakes during the process:
 
-* Listing as a 'For Sale By Owner' seller: People looking to score a deal are the only type of buyers looking at 'For Sale By Owner' listings. These people will try to directly contact the seller since they're not working with a real estate agent which means they'll save some money on commission. The problem is that the seller is trying to save money in the same way. You can't both save the same money, so you usually end up selling for less. I believe the national average is actually 8% to 10% less than listing with an agent.
-* Pricing your home wrong: Pricing too high likely means you'll have to go through price reductions to get to where it should have been all along. You accumulate days on market and show up as a reduced price listing, which encourages buyers to make a lower offer since they'll see it as a sign of desperation.
+* **Listing as a 'For Sale By Owner' seller:** People looking to score a deal are the only type of buyers looking at 'For Sale By Owner' listings. These people will try to directly contact the seller since they're not working with a real estate agent which means they'll save some money on commission. The problem is that the seller is trying to save money in the same way. You can't both save the same money, so you usually end up selling for less. I believe the national average is actually 8% to 10% less than listing with an agent.
+* **Pricing your home wrong:** Pricing too high likely means you'll have to go through price reductions to get to where it should have been all along. You accumulate days on market and show up as a reduced price listing, which encourages buyers to make a lower offer since they'll see it as a sign of desperation.
 
 {% include pullquote.html %}
 
-* Using bad photography: The difference between the photos you can take with your phone and those taken by a professional photographer is like night and day. Your home's photos online and in print are a huge part of your marketing, so they should be of the highest possible quality.
-* Overlooking the exterior: Your home's curb appeal and landscaping create the first impression on buyers and indicate how well the house has been maintained. Manicured plants and grass show that you loved the whole property and maintained it well.
+* **Using bad photography:** The difference between the photos you can take with your phone and those taken by a professional photographer is like night and day. Your home's photos online and in print are a huge part of your marketing, so they should be of the highest possible quality.
+* **Overlooking the exterior:** Your home's curb appeal and landscaping create the first impression on buyers and indicate how well the house has been maintained. Manicured plants and grass show that you loved the whole property and maintained it well.
 
 If you have any other questions about how to have a more successful home sale, give us a call or send us an email. We're always here to help.
