@@ -34,7 +34,7 @@ sidebar_CTA:
     CTA_title: Looking to Buy a Home?
     CTA_text: Search the entire MLS for homes located in -- MARKET --.
     CTA_link_text: Home Search Tool
-    CTA_url: /homesearch/
+    CTA_url: https://www.edinarealty.com/chad-and-sara-huebener-realtor/listing/listingsearch#/properties?minPrice=0&maxPrice=0&nBed=0&nBath=0&pt_val=ForSale&age=age_any&sts_sale=1&sts_con=1&addl_stat=addl_stat_any&int_min_sqft=0&int_max_sqft=0&ext_min_sqft=0&ext_max_sqft=0&ext_gar=0&pgeSize=200&pgeNum=1&srtBy=DateListed
 
 lender:
   show_section: false
