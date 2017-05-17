@@ -36,4 +36,4 @@ As you can imagine, it can be very challenging for the agent to be impartial and
 
 Whether you are buying or selling a home, it’s important to understand who the agent represents and to have someone who represents and advocates for you.
 
-<br>If you have any other questions about buyer’s agents, listing agents, or dual agency, just give us a call or send us an email. We would be happy to help you!
+If you have any other questions about buyer’s agents, listing agents, or dual agency, just give us a call or send us an email. We would be happy to help you!
