@@ -6,7 +6,7 @@ tags:
   - Market Update
 excerpt: The amount of inventory in our market is affecting buyers and sellers in very different ways. Today I’ll go over what’s happening with inventory and how buyers and sellers should approach the market.
 enclosure:
-pullquote: Value is rising is every price range.
+pullquote: Value is rising in every price range.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
