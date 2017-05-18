@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Can Buyers and Sellers Expect From the Current Market?
-date: 2017-05-16 10:00:00
+date: 2017-05-18 10:00:00
 tags:
   - Market Update
 excerpt: The amount of inventory in our market is affecting buyers and sellers in very different ways. Today I’ll go over what’s happening with inventory and how buyers and sellers should approach the market.
