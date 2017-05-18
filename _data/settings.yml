@@ -7,41 +7,41 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Joe Richardson
   license_number:
   about_markdown: |
-
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
-  phone_type:
+    We understand that buying or selling a home is more than just a transaction: it’s a life-changing experience. That’s why our team of highly-seasoned real estate professionals is dedicated to providing exceptional, personalized service for all of our clients. We take great pride in the relationships we build and always work relentlessly on the client’s behalf to help them achieve their real estate goals.
+  market: Milwaukee Real Estate
+  brand: Richardson Real Estate
+  brokerage: RE/MAX Realty 100
+  address: 10303 W Oklahoma Ave <br> Milwaukee, WI 53227
+  phone: 414-604-1455
+  phone_type: Direct
   phone2:
   phone2_type:
-  email:
-  url:
+  email: JoeRichardsonRE@gmail.com
+  url: http://richardsonhomes.net
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.searchwihomes.com/cma/property-valuation/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.searchwihomes.com/
   VR_form:
 
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/004.jpg
+  - CTA_image_path: /img/cta-images/005.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free -- MARKET -- Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.searchwihomes.com/cma/property-valuation/
 
 second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/005.jpg
+  - CTA_image_path2: /img/cta-images/007.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://www.searchwihomes.com/
 
 lender:
   show_section: false
@@ -66,20 +66,20 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/richardsonre
+  linkedin_url: https://www.linkedin.com/in/joerealtor
+  gplus_url: https://plus.google.com/b/103574464181287079885
+  youtube_url: https://www.youtube.com/channel/UCr13yzVIIAMAO5xs5dzetvA
+  twitter_url: https://twitter.com/joerichardson
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
+  zillow_url: https://www.zillow.com/profile/JoeRichardson/
+  trulia_url: https://www.trulia.com/profile/joe-richardson-agent-milwaukee-wi-zgg9dk15/overview/
+  yelp_url: https://www.yelp.com/biz/joe-richardson-re-max-realty-100-milwaukee
   podcast_url:
 
 podcast:
-  title:
+  title: Milwaukee Real Estate Podcast With Joe Richardson
   categories: Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
@@ -96,8 +96,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#976caf'
-  theme_color: '#67c4a9'
+  brand_color: '#009DFA'
+  theme_color: '#02639A'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
