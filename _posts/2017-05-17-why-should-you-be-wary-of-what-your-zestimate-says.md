@@ -10,7 +10,7 @@ pullquote: Enlist the help of a real estate agent to find out your home’s true
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/Rob_Ellis_-_Zillow_Estimates_EMAIL-01.jpg
 youtube_code: 876b3E9RRu0
 ---
 
