@@ -19,7 +19,7 @@ youtube_code: 0jkSG4rmpe8
 
 We’re delighted to be joined today by Chelsey Reilly of Landmark Home Warranty to talk a little bit about home warranties, what they cover, and how you can get one if you don’t have one already.
 
-**A home warranty isn’t a true warranty on the home itself, it’s actually a service contract providing coverage on major systems in the home and appliances within the home.** It covers the major systems in your home, like your HVAC, your plumbing, as well as appliances like your dishwasher, refrigerator, and washer/dryer.
+**A home warranty isn’t a true warranty on the home itself; it’s actually a service contract providing coverage on major systems in the home and appliances within the home.** It covers the major systems in your home, like your HVAC, your plumbing, as well as appliances like your dishwasher, refrigerator, and washer/dryer.
 
 {% include pullquote.html %}
 
