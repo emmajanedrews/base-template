@@ -4,7 +4,7 @@ title: How to Win a Nashville Home Bidding War
 tags:
   - Home Buyer Tips
 excerpt: 'If you have to compete against multiple offers from other buyers for a home you want, there are a few steps you can take to give yourself a competitive edge.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Scott+Hardesty/Videos/17/Greater+Nashville+Real+Estate-+How+to+Win+a+Home+Bidding+War.mp4'
 pullquote: 'Price is always a big part, so come in with your strongest offer price.'
 enclosure_type: video/mp4
 enclosure_time:
