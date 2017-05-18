@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Do Buyers and Sellers Pay for at Closing?
-date: 2017-05-18 00:00:00
+date: 2017-05-18 10:00:00
 tags:
   - Real Estate
 excerpt: 'Who pays for what in a real estate transaction? Today, we’ll go over what both the seller and the buyer is responsible for at closing.'
