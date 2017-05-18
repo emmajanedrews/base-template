@@ -2,10 +2,6 @@
 layout: post
 title: 3 Questions That Lead to the Perfect Hire
 tags:
-  - Bio Pharma
-  - Building Products
-  - Careers
-  - Futurity
   - Health Care
 excerpt: 'If you want to make a better hiring decision, ask yourself these three questions when interviewing candidates.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Govig/Healthcare/Videos/2017/3+Questions+That+Lead+to+the+Perfect+Hire.mp4'
