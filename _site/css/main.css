@@ -1470,7 +1470,7 @@ html[xmlns] .flexslider .slides {
   margin-top: 15px; }
   .navbar-left > li > a:hover {
     background: transparent;
-    color: #61c4ff; }
+    color: #007dc7; }
 
 .fa-bars {
   color: #009DFA; }
@@ -1605,7 +1605,7 @@ label.tree-toggle {
 
 .site-title {
   color: white;
-  text-shadow: 0px 2px 7px #000;
+  text-shadow: 2px 2px 6px #000;
   text-transform: uppercase;
   font-size: 6.5rem;
   padding-bottom: 4rem;
@@ -2199,7 +2199,7 @@ table tr, table td {
       padding: 0.3rem;
       display: inline-block; }
   .socials svg {
-    fill: #009DFA;
+    fill: #066299;
     height: 3.5rem;
     width: 3.5rem;
     border-radius: 50%;
@@ -2855,7 +2855,7 @@ form select {
     width: 90%; } }
 .cta {
   background: #ffffff;
-  color: #123456;
+  color: #009DFA;
   padding: 1.3rem 2rem;
   text-transform: capitalize;
   font-size: 2rem;
@@ -2865,7 +2865,7 @@ form select {
   transition: 0.3s; }
   .cta:hover {
     background: transparent;
-    color: #61c4ff;
+    color: #066299;
     box-shadow: 4px 4px 0 #61c4ff;
     border: 2px solid #ffffff;
     -webkit-transform: scale(1.05);
@@ -2893,7 +2893,7 @@ form select {
   transition: 0.3s; }
   .cta2:hover {
     background: transparent;
-    color: #123456;
+    color: #009DFA;
     box-shadow: 4px 4px 0 #61c4ff;
     border: 2px solid #ffffff;
     -webkit-transform: scale(1.05);
