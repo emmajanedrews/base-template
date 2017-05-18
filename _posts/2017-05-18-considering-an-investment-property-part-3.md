@@ -22,11 +22,11 @@ You can read part one **[here](http://colemererealtyvideoblog.com/considering-an
 
 After you’ve determined what kind of investment you’re going to make, it’s time to figure out your financing. **These three options work best:**
 
-1.**Traditional financing**. Most lenders will require anywhere from 10% to 25% down. You need to be able to qualify for the loan based on your credit. You also need to have cash reserves in the bank.&nbsp;
+1.&nbsp;**Traditional financing**. Most lenders will require anywhere from 10% to 25% down. You need to be able to qualify for the loan based on your credit. You also need to have cash reserves in the bank.&nbsp;
 
-2.**Cash financing**. If you don’t have all the cash in your bank account, you can use a 1030 exchange in order to get cash as well. Ask us more about this option if you’re curious.
+2.&nbsp;**Cash financing**. If you don’t have all the cash in your bank account, you can use a 1030 exchange in order to get cash as well. Ask us more about this option if you’re curious.
 
-3.**Seller financing**. This is where you get a little creative. All the terms can be negotiable, from how much you want to put down on the property to how long the seller will finance the property. With this method, you really take the seller’s existing financing and wrap around that.
+3.&nbsp;**Seller financing**. This is where you get a little creative. All the terms can be negotiable, from how much you want to put down on the property to how long the seller will finance the property. With this method, you really take the seller’s existing financing and wrap around that.
 
 {% include pullquote.html %}
 
