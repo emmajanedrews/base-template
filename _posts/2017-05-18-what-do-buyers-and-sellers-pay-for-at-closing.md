@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: KJDPcv9snio
+youtube_code: ZYg-lwImP2I
 ---
 
 
@@ -25,6 +25,6 @@ There are always going to be escrow and title fees in any transaction. **The esc
 
 Sellers usually provide a one-year home warranty to the buyer and pay for a termite clearance. There’s also a county transfer tax and sometimes a homeowners association transfer fee that the seller pays for.
 
-**Overall, the seller’s fees are usually about 1% of the purchase price.&nbsp;**The buyer’s fees are going to be a bit more expensive because of the lender’s fees.
+**Overall, the seller’s fees are usually about 1% of the purchase price.**The buyer’s fees are going to be a bit more expensive because of the lender’s fees.
 
 If you have any other questions about this topic or if you have any other questions about real estate, please feel free to give us a call or send us an email. We look forward to hearing from you.
