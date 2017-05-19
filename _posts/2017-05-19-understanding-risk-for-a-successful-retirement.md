@@ -36,6 +36,6 @@ In the beginning years, not only was the second friend getting very low returns,
 
 This is what the sequence of return risk is all about. **If you get bad returns in the beginning of your retirement when you’re taking money out, it’s very difficult to recover from your returns in later years.**That’s why it’s so important to understand your portfolio's risk number. If your portfolio holds too much risk and you have bad returns in the first three to five years of your retirement, it could be almost impossible to recover from it if you need to continue to take money out.&nbsp;
 
-If you would like to figure out your risk number, you can use the Riskalize tool on my website. You can learn all about Riskalize by checking out my previous video here. [Link to Riskalize post]&nbsp;
+If you would like to figure out your risk number, you can use the Riskalize tool on my website. You can learn all about Riskalize by checking out my [previous video here](http://ashtoumayants.com/a-new-tool-to-better-your-investing.html).&nbsp;
 
 If you have any other questions for me please feel free to give me a call or send me an email. I’m always happy to help!&nbsp;
