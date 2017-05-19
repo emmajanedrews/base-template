@@ -25,7 +25,7 @@ You can visit Zillow for the full definition, but it’s basically **an algorith
 
 When I bought this property, its Zestimate was between $265,000 and $270,000. As I updated the information that Zillow had for it, the value went up and then varied a bit over time. As of this week, I’m selling this property for $318,500 and its Zestimate is $313,000. In my case, my Zestimate was off by 10% to 15% when I started and is within 2% now.
 
-So, are Zestimates accurate representations of a home’s worth? Zillow themselves more or less answered this question by saying that **they encourage buyers and sellers to supplement their Zestimate with other researched information.**
+So, are Zestimates accurate representations of a home’s worth? Even Zillow&nbsp;**encourages buyers and sellers to supplement their Zestimate with other researched information.**
 
 {% include pullquote.html %}
 
