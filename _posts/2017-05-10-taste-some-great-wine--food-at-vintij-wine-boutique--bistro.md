@@ -4,7 +4,7 @@ title: 'Taste Some Great Wine & Food at Vin’tij Wine Boutique & Bistro'
 tags:
   - Venue Reviews
 excerpt: 'Have you been to Vin’tij Wine Boutique & Bistro yet? We recently sat down with owner Todd Reber to give you a taste of what you’re missing in our latest local venue spotlight.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Nathan+Abbott/Nathan+Abbott+Team-+Find+great+wine+and+food+at+VinTij.mp4'
 pullquote: 'We always feel welcome at Vin’tij, and the food is superb.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -34,6 +34,6 @@ He prefers guests’ experience to be simple. He knows they’re there to have a
 
 **This is a place our team loves to go to, and it’s one of the top-rated restaurants in town.** We always feel welcome there, the food is always superb, and they support the local residents. We highly recommend you try the experience for yourself.
 
-We want to thank Todd for sitting down to talk with us. If you’d like to know more about Vin’tij, visit their website at [www.Vintij.com.](http://www.vintij.com/){:target="_blank"}
+We want to thank Todd for sitting down to talk with us. If you’d like to know more about Vin’tij, visit their website at [www.Vintij.com.](http://www.vintij.com/)
 
 If you have any other questions for us, feel free to give us a call or shoot us an email. We’d be happy to help.
