@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Reality of House Flipping That You Won't See on TV"
+date: 5-9-17
 tags:
   - Real Estate
 excerpt: 'Are you one of the many people who has thought about flipping a house? It can be a good way to make money, but the reality of it all is nothing like what you see on TV.'
