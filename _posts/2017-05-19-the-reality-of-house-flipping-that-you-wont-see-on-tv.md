@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Reality of House Flipping That You Won't See on TV"
-date: 5-9-17
+date: 2017-05-19 10:00:00
 tags:
   - Real Estate
 excerpt: 'Are you one of the many people who has thought about flipping a house? It can be a good way to make money, but the reality of it all is nothing like what you see on TV.'
@@ -15,13 +15,13 @@ youtube_code: pIRxsUg3cQA
 ---
 
 
-{% include youtube.html %}There are many opportunities to invest in real estate, and flipping houses has become very popular thanks to lovely reality TV. However, let me tell you that there's nothing real about house flipping reality TV shows.&nbsp;
+{% include youtube.html %}There are many opportunities to invest in real estate, and flipping houses has become very popular thanks to lovely reality TV. However, let me tell you that there's nothing real about house flipping reality TV shows.
 
 **In reality, 12% of all flips actually lose money and 30% make less than 20% profit**—which is just a fancy way of saying they break even. That's six months of headaches just to break even!
 
 Every investor has their own secret sauce, but here's my cost formula: Your purchase price plus 30% plus remodeling costs plus expense. Expenses is a keyword as it will cost you money to sell the house, and you'll also have carrying costs. You'll have financing costs, too.
 
-For example, say you buy a $120,000 house and have $25,000 in repairs plus $25,000 in expenses. You'll need to sell that house for $200,000 in order to make $30,000 profit.&nbsp;
+For example, say you buy a $120,000 house and have $25,000 in repairs plus $25,000 in expenses. You'll need to sell that house for $200,000 in order to make $30,000 profit.
 
 {% include pullquote.html %}
 
