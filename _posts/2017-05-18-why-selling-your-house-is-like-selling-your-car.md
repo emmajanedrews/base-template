@@ -17,12 +17,12 @@ youtube_code: 15kwtm4morI
 
 {% include youtube.html %}If you think about it, selling a house is just like selling a car.
 
-When you get ready to sell you car, what do you do with it first? Do you just drive it into a used car lot or let it sit in your driveway and wait for buyers to show up and take a look at it?
+When you get ready to sell your car, what do you do with it first? Do you just drive it into a used car lot or let it sit in your driveway and wait for buyers to show up and take a look at it?
 
 No, you don’t. **If you’re smart, savvy, and want to get top dollar for that car, you give it a complete makeover.** This means taking it to the car wash to get scrubbed inside and out, getting it detailed, changing the oil, pumping up the tires, polishing the windows, and having it look nice and sparkly and completely ready for the next owner to fall in love with it.
 <br>{% include pullquote.html %}
 
-Selling your house is a pretty darn similar process. **You also want to make it squeaky clean and attractive for that next owner.**This means painting the exterior and packing up or getting rid of all the extra junk on the inside. From the outside, you also want to do things like spruce up the mulch and trim the flower bushes so the home’s pictures can attract a buyer that’s looking at it online to come see it in person
+Selling your house is a pretty darn similar process. **You also want to make it squeaky clean and attractive for that next owner.&nbsp;**This means painting the exterior and packing up or getting rid of all the extra junk on the inside. From the outside, you also want to do things like spruce up the mulch and trim the flower bushes so the home’s pictures can attract a buyer that’s looking at it online to come see it in person
 
 If you want to sell your home for top dollar, just remember to do it the same way you would with your car.
 
