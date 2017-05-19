@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First Quarter Market Update
-date:
+date: 2017-05-19 15:19:12
 tags:
   - Market Update
 excerpt: "What's going on in our market right now? It's hot for sellers due to the number of available homes going down and the demand for homes going up."
@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/NVn7xc--nrI'
 
 What's happening the south central Pennsylvania market right now?
 
-According to the National Association of Realtors, we've seen an $11,800 increase in average residential home values in the first four months of 2017 compared to the first four months of 2016. That's a pretty significant bump; about **6.7% appreciation.** We haven't seen that kind of appreciation since the 2007 and 2008 market.&nbsp;
+According to the National Association of Realtors, we've seen an $11,800 increase in average residential home values in the first four months of 2017 compared to the first four months of 2016. That's a pretty significant bump; about **6.7% appreciation.** We haven't seen that kind of appreciation since the 2007 and 2008 market.
 
 We've also seen a change in inventory levels. In the first four months of 2017, there were actually 471 fewer homes for sale than the same time last year, which is about a 10% decline. Conversely, 139 more homes sold this year compared to last year; a 5.3% increase in sold homes.
 
