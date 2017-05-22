@@ -7,34 +7,36 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Prashant Vanka
   license_number:
   about_markdown: |
+    Prashant Vanka is an astute real estate advisor and has been recognized as a top 30 Agent at Intero Real Estate (2016) and as a part of the No. 1 national sales team for KW (2014), selling over $179 Million of residential real estate. Besides helping identify investment properties, Prashant and his team know how to create inventory in a low turnover market, navigating and executing in one of the most competitive markets in the country.
 
-  market:
-  brand:
+    Growing up in Silicon Valley and continuing his education at Cal Poly - San Luis Obispo with a concentration in Finance and emphasis in Econometrics helps him understand clients better. Prashant offers clients top quality service, responds to email and phone enquiries promptly.
+  market: Bay Area
+  brand: INTERO Real Estate
   brokerage:
-  address:
-  phone:
+  address: 10275 N De Anza Blvd Cupertino, CA 95014
+  phone: 650-485-3537
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: homes@vankagroup.com
+  url: https://www.vankagroup.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.vankagroup.com/sell/
   second_CTA_text: Home Search
   second_CTA_URL: /homesearch/
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=d9d2181a4b
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free -- MARKET -- Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.vankagroup.com/sell/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
@@ -66,14 +68,14 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
+  facebook_url: https://www.facebook.com/Vanka-Group-Real-Estate-1815310168726754/
+  linkedin_url: https://www.linkedin.com/in/prashantvanka/
+  gplus_url: https://plus.google.com/u/0/b/116430106353435985792
+  youtube_url: https://www.youtube.com/channel/UCftx5YyiNXJsZ8zB_U3MXKg
   twitter_url:
   instagram_url:
   pinterest_url:
-  zillow_url:
+  zillow_url: http://www.zillow.com/profile/vankagroup/
   trulia_url:
   yelp_url:
   podcast_url:
@@ -96,8 +98,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#976caf'
-  theme_color: '#67c4a9'
+  brand_color: '#292929'
+  theme_color: '#292929'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -106,7 +108,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: 292929
 
 buttons:
   button_radius_number: 0

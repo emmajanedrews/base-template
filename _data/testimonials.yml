@@ -1,5 +1,29 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
+  - quote: Prashant is the future of real estate. He is aggressive, knowledgeable, and talented in negotiations. He also has a great skill for finding profitable projects for developer clients. Anyone who wants the highest level real estate service should work with Prashant.
+    name: David Lawver
+    audio:
+  - quote: Prashant is very detailed oriented and listens to ones needs. I highly recommend working with Prashant to anyone who is wanting high quality service.
+    name: Vanessa Romero
+    audio:
+  - quote: 'We were first time home buyers and had a great experience working with Prashant. While we were looking for a home, he went out of his way to make the process convenient for us. We toured several homes with Prashant over 4 months and he arranged these tours around our work schedule and in many cases within a few hours of us asking. He genuinely knows the market and his price estimates were always accurate. When we finally found the right home, Prashant negotiated a pre-emptive offer with the seller and got us a great deal and helped us avoid a bidding war (inevitable in this competitive market). He helped us understand the process in advance, gave prompt advice whenever required and everything right from making the offer to closing escrow went without a single glitch with minimal effort on our end. Prashant even worked with our lender to get the right pre-approval letters as needed and made sure the house appraisal came in at the right amount. Would highly recommend Prashant to anyone looking for a home in the bay area'
+    name: Huzaifa Neralwala
+    audio:
+  - quote: I bought my first home. Prashant made sure that we make the winning offer and packaged it well. I don't think I could have got this home, without his help. I will highly recommend Prashant to my friends and family.
+    name: Nagarajan Madhavan
+    audio:
+  - quote: Prashant helped me identify potential investment properties and was very well educated in how to evaluate them. I now have made my first cash flow investment with his team and can't wait to do more.
+    name: Ramesh Kumar
+    audio:
+  - quote: My name is Drew. I am happy to say Prashant and his team helped me successfully find my dream home. I came across other qualified individuals that could help me find my home but something about Prashant and his presentation automatically drew me to him. His team and him assisted through the whole process and made me feel apart of the family. I am thankful for his services and would highly recommend him to anyone.
+    name: Drew Langley
+    audio:
+  - quote: Hi, my name is Luis. My wife and I were looking to move to the bay area for work leaving Scottsdale, Arizona. Prashant and his team were very well detailed and oriented and listened to all our needs and quickly identified the home we were looking for in a very competitive environment. We were competing against 6 other offers
+    name: Luis Basilio
+    audio:
+  - quote: My husband and I met Prashant while casually looking at an open house. We chose to eventually work with him because of his responsiveness and reputation...I am so glad we did! I am not one to be easily impressed as whichever professional I choose to work with I expect a lot from, however I was very impressed working with Prashant and his team. I felt like they were working for us in every aspect of the home buying process. I appreciated his responsiveness and knowledge and felt like he was my go to person with any questions I had. Within 24 hours our offer was accepted even during a open house weekend. I know he was working hard to negotiate for us. You will not be disappointed if you choose to work with Prashant and his team. He is very skillful and will get the job done! Looking forward to working with him in the future and will definitely refer him to family and friends.
+    name: Lauren Avila
+    audio:
+  - quote: Prashant helped us buy our home. He is very detailed and focused. He gathered our home requirements and accordingly helped on our home search. He showed us homes that fulfilled our needs and budget. He pin pointed pros and cons of all the homes that we shortlisted. He is very good at negotiation and finally we won the bid. He is very easy to approach and works round the clock. Even after winning the bid he continuously answered all our questions and concerns throughout the loan and escrow process. He exceeded our expectations. I will definitely recommend him to my friends and family.
+    name: Konteya Joshi
     audio:
