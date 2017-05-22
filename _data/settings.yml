@@ -27,7 +27,7 @@ CTAs:
   first_CTA_URL: http://www.letsgohousehunting.com/cma/property-valuation/
   second_CTA_text: Home Search
   second_CTA_URL: http://www.letsgohousehunting.com/search/advanced_search/
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=3f55b98e72
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
