@@ -25,6 +25,6 @@ If so, we encourage you to **get together with a group of friends and share your
 
 At the end of the day, as human beings, we’re not meant to be on an island all by ourselves. We’re meant for communities and interaction. **Finding like-minded people with the same fitness goals will help motivate you**.&nbsp;
 
-So join a boot camp. Join a crossfit gym. Find a workout partner you can exercise with. Doing this kind of thing will push you toward your goal and make it easier to obtain. Get together with some friends and start building your fitness community. You deserve to be healthy.&nbsp;
+So join a boot camp. Join a CrossFit gym. Find a workout partner you can exercise with. Doing this kind of thing will push you toward your goal and make it easier to obtain. Get together with some friends and start building your fitness community. You deserve to be healthy.&nbsp;
 
 If you have any questions about this topic, don’t hesitate to reach out to us. We’d be happy to help you.
