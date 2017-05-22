@@ -1,126 +1,677 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title></title>
+    <title>Utah Real Estate Podcast with David Robinson</title>
     <link>localhost:4000</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</description>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Canovo Group - your professional Utah Valley Real Estate Agents.</description>
     <language>en</language>
-    <managingEditor></managingEditor>
-    <lastBuildDate>2017-05-15 10:59:57 -0500</lastBuildDate>
-    <media:copyright></media:copyright>
+    <managingEditor>David Robinson</managingEditor>
+    <lastBuildDate>2017-05-22 12:18:49 -0500</lastBuildDate>
+    <media:copyright>David Robinson</media:copyright>
     <media:thumbnail url="/img/podcast.jpg"/>
-    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
+    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
-      <itunes:email></itunes:email>
-      <itunes:name></itunes:name>
+      <itunes:email>Info@canovogroup.com</itunes:email>
+      <itunes:name>David Robinson</itunes:name>
     </itunes:owner>
-    <itunes:author></itunes:author>
+    <itunes:author>David Robinson</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="/img/podcast.jpg"/>
-    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the  Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</itunes:summary>
+    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Utah Valley Area Real Estate Market</itunes:subtitle>
+    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Canovo Group - your professional Utah Valley Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>localhost:4000/this-is-a-test-post.html</link>
+        <title>Have You Met New Agent Daniel Pust?</title>
+        <link>localhost:4000/utah-real-estate-agent-meet-one-of-our.html</link>
         
-          <category>Market Update</category>
+          <category>The Canovo Group</category>
         
-          <category>Real Estate</category>
-        
-          <category>Home Seller Tips</category>
-        
-        <author></author>
-        <pubDate>2016-10-04 00:00:00 -0500</pubDate>
+        <author>David Robinson</author>
+        <pubDate>2017-04-08 14:05:00 -0500</pubDate>
         <guid></guid>
         <description>
 
-}
+Today it’s my pleasure to introduce you to one of the new agents on our team, Daniel Pust.
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+Daniel is happily married with a young son in 1st grade. He grew up in the Santaquin/Payson area and still lives there because he loves it. He worked in law enforcement for seven years and eventually became a detective before transitioning into real estate.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+Ironically enough, he came into his new profession through a failed transaction, which inspired him to educate himself about our line of work. When he bought his first home in 2004, the market was so hot he hardly remembers even talking to his agent at the time. Three years later, he and his wife had built up quite a bit of equity in that home, and when they found their dream home up in the Santaquin mountains, they decided they wanted to buy it.
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+Unfortunately, the two agents who worked on that transaction didn’t know what they were doing and it cost them that home purchase. That experience inspired Daniel to take it upon himself to treat his clients with professionalism, stay on top of what’s going on, and provide them with whatever they need, whether they’re buying a home or selling one.
 
-“This is an example of a pull quote”
+Daniel chose Keller Williams because of the education we provide. As a detective, his job was very demanding, and KW offered training sessions that were compatible with his schedule. He also credits his mentor for taking time out of her busy schedule and encouraging him to stay involved. He ended up here at the Canovo Group through knowing someone who also worked here whose life was transformed positively because of the experience. Working with fellow agents Dane Hill and Ali Garbero on a transaction, which he describes as an “amazing experience,” also sealed the deal.
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+Daniel’s goal is to establish our brand in South Utah County. He works hard every day and has run into quite a few people who want to move but haven’t put much thought in how they’re going to do it. He enjoys being able to provide a resource for them. Daniel is a person who has both his clients’, friends’, and family’s best interests at heart. He’s full of integrity and will do the right thing regardless of how it impacts him and his business.
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+“DANIEL ALWAYS HAS HIS CLIENTS’ BEST INTERESTS AT HEART.”
+
+We’re certainly excited to have him on our team. If you’d like to contact him, you can reach him at (801) 850-5656. If you have any other questions, feel free to give me a call or send me an email. We look forward to serving you in the future!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
-        <itunes:author></itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:subtitle>Today it’s my pleasure to introduce you to one of the new agents on our team, Daniel Pust. Daniel is happily married with a young son in 1st grade. He grew up in the Santaquin/Payson area and still lives there because he loves it. He worked in law enforcement for seven years and eventually became a detective before transitioning into real estate.</itunes:subtitle>
+        <itunes:author>David Robinson</itunes:author>
+        <itunes:summary>Today it’s my pleasure to introduce you to one of the new agents on our team, Daniel Pust. Daniel is happily married with a young son in 1st grade. He grew up in the Santaquin/Payson area and still lives there because he loves it. He worked in law enforcement for seven years and eventually became a detective before transitioning into real estate.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>A Fox in Space</title>
-        <link>localhost:4000/a-fox-in-space.html</link>
+        <title>Has the Utah Real Estate Market Improved over Last Year?</title>
+        <link>localhost:4000/utah-real-estate-agent-comparing-utah.html</link>
         
           <category>Market Update</category>
         
-          <category>Real Estate</category>
+        <author>David Robinson</author>
+        <pubDate>2017-03-21 15:22:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Has+the+Utah+real+estate+market+improved+over+last+year.mp4</guid>
+        <description>
+
+The first quarter of the year has nearly come and gone, so I wanted to show you some of the most recent numbers from the Utah market and compare them to what we saw in the first quarter of 2016.
+
+The average days on market for homes listed for sale stayed pretty steady. We went from an average of 33 days in 2016 to an average of 34 days in 2017. Homes are still selling really fast. Home sales have gone down from 6,300 at this point last year to just 6,000 this year. However, inventory is down by around 10% too.
+
+Finally, let’s talk about home appreciation. It seems to be the one thing everyone asks about. To determine this, we’ll look at the median sale price in our market. At this point in 2016, it was $230,000. There has been a significant jump since, and the median sale price in our market right now is $251,000.
+
+As we have predicted in the past, the market remains strong. As long as rates remain relatively low, we’ll continue to see this trend and we will see anywhere from 4% to 7% appreciation again this year. Some of the top economists in the country have made predictions on the higher end of that spectrum.
+
+“AS LONG AS RATES STAY LOW, OUR MARKET WILL CONTINUE ITS RISE.”
+
+If you are thinking about taking advantage of current market conditions by buying or selling a home, give me a call or send me an email. I would love to hear from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Has+the+Utah+real+estate+market+improved+over+last+year.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Has+the+Utah+real+estate+market+improved+over+last+year.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>The first quarter of the year has nearly come and gone, so I wanted to show you some of the most recent numbers from the Utah market and compare them to what we saw in the first quarter of 2016. The average days on market for homes listed for sale stayed pretty steady. We went from an average of 33 days in 2016 to an average of 34 days in 2017. Homes are still selling really fast. Home sales have gone down from 6,300 at this point last year to just 6,000 this year. However, inventory is down by around 10% too.</itunes:subtitle>
+        <itunes:author>David Robinson</itunes:author>
+        <itunes:summary>The first quarter of the year has nearly come and gone, so I wanted to show you some of the most recent numbers from the Utah market and compare them to what we saw in the first quarter of 2016. The average days on market for homes listed for sale stayed pretty steady. We went from an average of 33 days in 2016 to an average of 34 days in 2017. Homes are still selling really fast. Home sales have gone down from 6,300 at this point last year to just 6,000 this year. However, inventory is down by around 10% too.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Buying Just Got Easier With the NHF Sapphire Program</title>
+        <link>localhost:4000/utah-real-estate-agent-how-nhf-sapphire.html</link>
         
-          <category>Home Seller Tips</category>
+          <category>Home Buyer Tips</category>
         
-        <author></author>
-        <pubDate>2016-09-28 00:00:00 -0500</pubDate>
+        <author>David Robinson</author>
+        <pubDate>2017-02-13 16:52:00 -0600</pubDate>
         <guid></guid>
         <description>
 
-}
+Today, a good friend of mine and my preferred lender, Austin Ingersoll with Academy Mortgage, is joining me to have a chat about a new program that just became available for buyers in our market.
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+It’s called the NHF Sapphire Program and it’s a true grant program, which means you don’t have to repay the funds that are given to you. You can use the program for a VA, USDA, or an FHA loan.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+Depending on your credit score, you can get all the way up to 4.5% of your loan amount given to you. To put that into perspective, on a $300,000 loan, that’s $13,500 which can be used for your down payment and closing costs.
 
+As far as requirements go for qualifying, they mirror the loan you are applying for whether it’s an FHA, VA, or a USDA loan. However, to get the most out of this program, you want to have a credit score of at least 680, but you can go as low as 620.
 
-  list item
-  list item
-  list item
-  list item
-  list item
+“This program can help get buyers off the sidelines and into their new homes.”
 
+All in all this program is great for buyers out there who are sitting on the sidelines because they may think they don’t have enough money for a down payment.
 
-
-  list item
-  list item
-  list item
-  list item
-  list item
-
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+To see if you qualify for this program or if you have any other real estate questions, give me a call or send me an email. I would be more than happy to help.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
-        <itunes:author></itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:subtitle>Today, a good friend of mine and my preferred lender, Austin Ingersoll with Academy Mortgage, is joining me to have a chat about a new program that just became available for buyers in our market.</itunes:subtitle>
+        <itunes:author>David Robinson</itunes:author>
+        <itunes:summary>Today, a good friend of mine and my preferred lender, Austin Ingersoll with Academy Mortgage, is joining me to have a chat about a new program that just became available for buyers in our market.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
-    <copyright></copyright>
-    <media:credit role="author"></media:credit>
+      <item>
+        <title>What Can You Expect From the 2017 Real Estate Market?</title>
+        <link>localhost:4000/utah-real-estate-agent-2017-market.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>David Robinson</author>
+        <pubDate>2017-01-24 19:17:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+2017+market+predictions.mp4</guid>
+        <description>
+
+How did our market do in 2016? What can you expect from the 2017 market?
+
+To get a sense of how the market did overall last year, I wanted to compare some key statistics from the year before. Here’s what happened between 2015 and 2016:
+
+• The average days on market dropped 45% from 53 days to 29 days.
+• The number of homes sold rose by 1.7% from 8,400 to 8,550.
+• The median sale price increased by 6.9%.
+
+“We had a great 2016, and it’s all thanks to you.”
+
+All in all, it was a great year for real estate. What about 2017?
+
+This year, I believe the average days on market will gradually creep back up. I don’t foresee a significant increase, but I do think homes will stay on the market slightly longer than they did in the recent past. Sales, on the other hand, should remain fairly steady and may even drop slightly due to the predicted rise in interest rates and how that will remove a portion of buyers from the market. Overall, though, I predict that we’ll still see some appreciation of between 4% and 7%.
+
+The market is looking strong for 2017, so if you have any real estate needs at all, please don’t hesitate to reach out to me or anyone on my team. We look forward to helping you and we hope you have a great year!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+2017+market+predictions.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+2017+market+predictions.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>How did our market do in 2016? What can you expect from the 2017 market? To get a sense of how the market did overall last year, I wanted to compare some key statistics from the year before. Here’s what happened between 2015 and 2016</itunes:subtitle>
+        <itunes:author>David Robinson</itunes:author>
+        <itunes:summary>How did our market do in 2016? What can you expect from the 2017 market? To get a sense of how the market did overall last year, I wanted to compare some key statistics from the year before. Here’s what happened between 2015 and 2016</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Should You Sell This Winter?</title>
+        <link>localhost:4000/utah-real-estate-agent-should-you-sell_12.html</link>
+        
+          <category>Utah Real Estate</category>
+        
+        <author>David Robinson</author>
+        <pubDate>2016-12-12 18:15:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Should+you+sell+your+home+now+or+wait.mp4</guid>
+        <description>
+
+Every year around this time, we’re asked the same thing by sellers: “Should I sell my home now or wait until spring?” Many of our clients are thinking of hunkering down, waiting out the winter, and selling in the spring. I want to give you four reasons why you might want to consider selling now versus waiting until spring to do so.
+
+
+  
+    More competition during the spring. That means less competition right now. While many people have the same thought process as most of our clients and are waiting until spring, you can get a jump on the competition by selling now and taking advantage of the low inventory.
+  
+  
+    Interest rates may be higher in the spring. Right now, rates are near all-time lows. With the election passing and the Federal Reserve saying they won’t be making any adjustments in the near future, that’s good news for buyers right now. If rates do tick up a bit this spring, it will eliminate a lot of buyers in the market and diminish the purchasing power of many others.
+  
+  
+    A lot of job transfers happen at the beginning of the year. A lot of these people are looking for homes as we speak. This is just another segment of buyers you won’t be able to capture in the spring and summer.
+  
+  
+    More serious buyers. If you’re a buyer out looking for homes during the cold, snowy winter months, there is a good reason for doing so. These buyers are likely motivated to get into a home as soon as possible.
+  
+
+
+“These are just a few reasons to consider selling now.”
+
+These are just four of the reasons why you should consider selling now to take advantage of the market. If you have any questions for us or are thinking about selling, give us a call or send us an email. We’d be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Should+you+sell+your+home+now+or+wait.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Should+you+sell+your+home+now+or+wait.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Every year around this time, we’re asked the same thing by sellers: “Should I sell my home now or wait until spring?” Many of our clients are thinking of hunkering down, waiting out the winter, and selling in the spring. I want to give you four reasons why you might want to consider selling now versus waiting until spring to do so.</itunes:subtitle>
+        <itunes:author>David Robinson</itunes:author>
+        <itunes:summary>Every year around this time, we’re asked the same thing by sellers: “Should I sell my home now or wait until spring?” Many of our clients are thinking of hunkering down, waiting out the winter, and selling in the spring. I want to give you four reasons why you might want to consider selling now versus waiting until spring to do so.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Can You Keep Your Home Safe During Your Holiday Vacation?</title>
+        <link>localhost:4000/utah-real-estate-agent-protecting-your.html</link>
+        
+          <category>Educate Yourself</category>
+        
+        <author>David Robinson</author>
+        <pubDate>2016-11-29 15:08:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Protecting+your+home+while+you%E2%80%99re+on+vacation.mp4</guid>
+        <description>
+
+The holidays are just around the corner, which means you may have a fun family vacation in the works. Here are five tips to keep your home safe while you’re away:
+
+
+  
+    Get a Wi-Fi doorbell. If you don’t already have an alarm system installed in your home, you might want to consider this. How does it work? The doorbell is connected to your smartphone, so anytime someone rings the doorbell, you will be able to see who it is and respond accordingly.
+  
+  
+    Add some exterior lighting. If you have areas around your property that are dark, you may want to consider installing new lighting fixtures or just double-check that the bulbs in the existing light fixtures work. To go a step further, you may want to also consider installing a motion sensor light.
+  
+
+
+“Extra lighting is an excellent deterrent for potential intruders.”
+
+
+  
+    Let a trusted neighbor know that you’ll be gone. Tell them when you’re leaving and when you’re coming back so they can keep an eye on things.
+  
+  
+    Adjust delivery of your mail and newspapers. If you’re still one of those people that receives a newspaper, you want to make sure those aren’t accumulating atop your driveway. That’s a surefire indicator to any watchful intruder that nobody’s home. Ditto for mail overflowing out of your mailbox or packages piling up on your front steps.
+  
+  
+    Double-check that all doors and windows are locked. According to Safewise.com, 30% of all home invasions happen through an unforced entry. This means almost a full third of every home invasion occurs because someone forgot to lock a window or door. Before you leave, check one last time that everything is locked.
+  
+
+
+If you have any questions about what’s going on in the market or you’re curious about your home’s value, don’t hesitate to give us a call or send us an email. We hope to talk to you soon!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Protecting+your+home+while+you%E2%80%99re+on+vacation.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Protecting+your+home+while+you%E2%80%99re+on+vacation.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>The holidays are just around the corner, which means you may have a fun family vacation in the works. Here are five tips to keep your home safe while you’re away</itunes:subtitle>
+        <itunes:author>David Robinson</itunes:author>
+        <itunes:summary>The holidays are just around the corner, which means you may have a fun family vacation in the works. Here are five tips to keep your home safe while you’re away</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Every Great Seller's Market Has Its End</title>
+        <link>localhost:4000/utah-real-estate-agent-every-great.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>David Robinson</author>
+        <pubDate>2016-10-25 10:26:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Every+great+seller%E2%80%99s+market+has+its+end.mp4</guid>
+        <description>
+
+There has been a lot of discussion about the great appreciation and quick home sales we’ve been experiencing in our market lately. No one knows for sure how long this will last, but we do know that markets always shift. It has happened in the past and it will happen again.
+
+I’ve got some strategies to share today that are quite useful in a shifting market. Pricing your home is one of the most important aspects of your sale. Here are some strategies that we share with our sellers on how to price appropriately in a shifting market.
+
+In an appreciating market, you usually see low inventory and high demand. This is what drives prices up. Sellers have the luxury of pricing ahead in this type of market. As long as the market continues in an upward trend, they will get their price.
+
+Things are different in a depreciating market. When supply goes up and demand drops, home prices come back down. If you try to price ahead in a depreciating market, you may find yourself chasing that market down and you may never get your price.
+
+“Pricing ahead in a depreciating market can be toxic.”
+
+We like to consult our clients about what’s happening in the market right now and we are in a funny place today. We have seen a lot of sellers get away with pricing ahead, but that is a recipe for disaster if we start to shift to a depreciating market.
+
+If you have any questions about how to price your home appropriately in a shifting market, give us a call or send us an email. We look forward to hearing from you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Every+great+seller%E2%80%99s+market+has+its+end.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Every+great+seller%E2%80%99s+market+has+its+end.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>There has been a lot of discussion about the great appreciation and quick home sales we’ve been experiencing in our market lately. No one knows for sure how long this will last, but we do know that markets always shift. It has happened in the past and it will happen again.</itunes:subtitle>
+        <itunes:author>David Robinson</itunes:author>
+        <itunes:summary>There has been a lot of discussion about the great appreciation and quick home sales we’ve been experiencing in our market lately. No one knows for sure how long this will last, but we do know that markets always shift. It has happened in the past and it will happen again.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Much Has Our Market Changed in a Year?</title>
+        <link>localhost:4000/utah-real-estate-agent-fantastic.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>David Robinson</author>
+        <pubDate>2016-10-11 11:50:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+We are diving deep into the numbers today. The statistics are in for the third quarter of this year, and we’re going to compare them to the numbers we saw at the same time last year.
+
+In the 3rd quarter of 2015, we saw 16,023 homes listed on the market. This year, we saw 16,606 homes listed in the same time frame. That’s an increase of nearly 4%, which hasn’t happened in a while.
+
+As for home sales, the 3rd quarter of 2015 saw 12,661 homes sell. This year, that number was 12,156. This is about a 4% decrease. Inventory is going up and sales are going down. I think this is something we really need to keep an eye on because it may be an indication that things are starting to change in our market.
+
+“We need to keep an eye on how things progress.”
+
+The next thing we want to focus on is the days on market. We saw a huge 38% drop from 2015 to 2016. In the 3rd quarter of 2015, the average days on market was 24. At the end of the 3rd quarter this year, that number was at 15. I didn’t think homes could sell any faster than they did last year, but I was wrong. Homes that are priced right and in good condition are selling within weeks and sometimes even within days.
+
+Finally, let’s talk about home appreciation. At the end of the 3rd quarter in 2015, our median home price was $230,000. This year, that number is at $250,000. This 8.7% increase is even more good news for sellers.
+
+We are seeing fantastic conditions for sellers right now, but how long is it going to last? No one knows for sure. What we do know, however, is that increased appreciation and such few days on market is a great recipe for seller success.
+
+If you have any questions for me or if you’re thinking about buying or selling a home, give me a call or send me an email. I look forward to hearing from you!
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>We are diving deep into the numbers today. The statistics are in for the third quarter of this year, and we’re going to compare them to the numbers we saw at the same time last year.</itunes:subtitle>
+        <itunes:author>David Robinson</itunes:author>
+        <itunes:summary>We are diving deep into the numbers today. The statistics are in for the third quarter of this year, and we’re going to compare them to the numbers we saw at the same time last year.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Are Your Utah Property Tax Valuations Too High?</title>
+        <link>localhost:4000/utah-real-estate-agent-are-you-paying.html</link>
+        
+          <category>Educate Yourself</category>
+        
+        <author>David Robinson</author>
+        <pubDate>2016-08-27 12:49:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Are+you+paying+too+much+in+property+taxes.mp4</guid>
+        <description>
+
+By now, you have probably seen your property tax valuation. What happens if the property tax valuation is wrong?
+
+Most of the time, clients have property tax valuations that are much lower than the appraised value or the fair market value of their home, which means you are probably paying less in property taxes than you should be. If this is the case, you probably don’t want to dispute the property tax valuation.
+
+However, if your property tax valuation seems too high, we can help. We will do a free home value analysis and provide the paperwork you need to dispute the valuation. Disputing your property taxes may seem like an overwhelming process, but it is actually quite simple, and we are here to guide you through it.
+
+If you have any questions about your property tax valuation, give us a call or send us an email. We would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Are+you+paying+too+much+in+property+taxes.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Are+you+paying+too+much+in+property+taxes.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>By now, you have probably seen your property tax valuation. What happens if the property tax valuation is wrong?</itunes:subtitle>
+        <itunes:author>David Robinson</itunes:author>
+        <itunes:summary>By now, you have probably seen your property tax valuation. What happens if the property tax valuation is wrong?</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Tips for Buying and Listing a Home at the Same Time</title>
+        <link>localhost:4000/utah-real-estate-agent-listing-buying.html</link>
+        
+          <category>Educate Yourself</category>
+        
+        <author>David Robinson</author>
+        <pubDate>2016-08-18 12:08:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Listing+%26+buying+a+home+at+the+same+time.mp4</guid>
+        <description>
+
+Is it really better to find the home you plan on buying first, or should you sell your current home before you start looking at other properties?
+
+This is the main question I get from clients who are looking to buy and sell at the same time. Most clients want to find the home they are going to purchase before they even list their current property. They don’t want to sell their current home and then get left high and dry; they want to make the transition from the sale of their current home to the new one as smooth as possible by only moving once.
+
+**When a client waits to list their home until they find the home they want to purchase, it can become a very frustrating experience. Here is what happens: **
+
+You decided to wait to list your home but start searching the market. Our buyer specialist then finds you the perfect home for your family. You want to write an offer but, since your current home isn’t even on the market yet, that offer is subject to the sale of your existing home.
+
+The problem with that situation is we are in a seller’s market. Generally, if a home is priced right and in good condition, someone else will fall in love with that property, too. Buyers often end up competing. If the seller gets your offer and it’s subject to the sale of your home, you may end up having a seller reject your offer. The seller may tell you to come back when your current home is under contract, but in the meantime, the seller will continue to market the home to other buyers.
+
+In other words, making your offer subject to the sale of your current home could mean losing out on your dream home because you are in a poor position to negotiate with the seller.
+Instead of making a contingent offer, attack both angles with a more effective strategy. Go ahead and start looking for that perfect home, but put your current home on the market at the same time. We will work to generate an offer on your home so that when you go to make an offer on your dream home, the seller will be more willing to accept your offer.
+
+“List your current home and generate offers while you look at new homes.”
+
+If you haven’t found a new home yet and you receive an offer on a current home, you can make the sale subject to you finding a replacement home within a certain period of time. This strategy makes the entire process easier and keeps you in a strong negotiating position.
+
+As you can see, the process of buying and selling a home at the same time can be a little complex. Please don’t hesitate to call me with any questions you may have. I would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Listing+%26+buying+a+home+at+the+same+time.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Listing+%26+buying+a+home+at+the+same+time.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Is it really better to find the home you plan on buying first, or should you sell your current home before you start looking at other properties?</itunes:subtitle>
+        <itunes:author>David Robinson</itunes:author>
+        <itunes:summary>Is it really better to find the home you plan on buying first, or should you sell your current home before you start looking at other properties?</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Comparing the 2nd Quarter Performances of 2016 and 2015</title>
+        <link>localhost:4000/utah-real-estate-agent-utah-2nd-quarter.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>David Robinson</author>
+        <pubDate>2016-07-18 13:35:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Utah+2nd+quarter+market+update.mp4</guid>
+        <description>
+
+How does this year’s 2nd quarter compare to last year’s 2nd quarter?
+
+In 2015, the number of new listings that came on the market was 3,456. This year, the number of new listings is 3,631. That’s an increase in inventory of 5%. In 2015, there was a total of 2,508 homes sold. This year, the total is 2,389 homes sold. That’s a drop of 5% in sold listings - the first significant drop in sales in about five years. Whether the drop will continue is something to keep an eye on in the future.
+
+The 2nd quarter median sales price rose from $235,000 in 2015 to $255,000 in 2016. That’s an increase of 8.6%. This is a good thing. Values continue to rise– the only question is how high they are going to go and whether or not this rise presents any sort of risk.
+
+“Home values continue to rise, the only question is how high they’ll go.”
+
+Homes are selling very fast. The average number of days on market dropped from 22 in 2015 to 12 in 2016. Right now the best homes - if they’re priced right and in good condition - are going in a matter of weeks, if not days.
+
+Home values continue to rise; the only concern is the 5% drop in the number of home sales. The market is still hot, however, and with interest rates as low as they are, I feel we’ll see a strong 3rd and 4th quarter here in Utah.
+
+If you have any questions about what’s going on in your area, or have friends/family looking to buy or sell a home, please reach out to me or a member of my team by phone or email. We’d love to help you out.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Utah+2nd+quarter+market+update.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Utah+2nd+quarter+market+update.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>How does this year’s 2nd quarter compare to last year’s 2nd quarter? In 2015, the number of new listings that came on the market was 3,456. This year, the number of new listings is 3,631. That’s an increase in inventory of 5%. In 2015, there was a total of 2,508 homes sold.</itunes:subtitle>
+        <itunes:author>David Robinson</itunes:author>
+        <itunes:summary>How does this year’s 2nd quarter compare to last year’s 2nd quarter? In 2015, the number of new listings that came on the market was 3,456. This year, the number of new listings is 3,631. That’s an increase in inventory of 5%. In 2015, there was a total of 2,508 homes sold.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>3 Home Staging Secrets for Utah Sellers</title>
+        <link>localhost:4000/utah-real-estate-agent-three-utah-home.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>David Robinson</author>
+        <pubDate>2016-06-14 16:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+3+Utah+home+staging+tips.mp4</guid>
+        <description>
+
+The point of staging your home is to make it look open, clean, and inviting to potential buyers. You want to make your home stand apart from others on the market, and you can do this in three different ways.
+
+
+  
+    The 50% Rule: This means that you should eliminate 50% of everything in your home. When you’re preparing to move out of your home, it’s a good opportunity to get rid of what you don’t need. Either donate it, put it in storage, or toss it. This goes for furniture, decor, and everything else.
+  
+  
+    The Basketball Rule: Eliminate anything smaller than the size of a basketball. Small objects can make a room feel cramped and compact, so get rid of picture frames, books, knickknacks, and other things that are smaller than the size of a basketball.
+  
+  
+    Bare Countertops Rule: Clearing off your countertops is an essential part of making your home feel larger and more open. Whatever you have laying around on your countertops, get rid of it. You’ll thank us later.
+  
+
+
+“Clear off your countertops!”
+
+If you’d like a copy of our 67-point Home Staging Checklist, please don’t hesitate to reach out to us. It’s a great time to get your home ready to sell!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+3+Utah+home+staging+tips.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+3+Utah+home+staging+tips.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>The point of staging your home is to make it look open, clean, and inviting to potential buyers. You want to make your home stand apart from others on the market, and you can do this in three different ways.</itunes:subtitle>
+        <itunes:author>David Robinson</itunes:author>
+        <itunes:summary>The point of staging your home is to make it look open, clean, and inviting to potential buyers. You want to make your home stand apart from others on the market, and you can do this in three different ways.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Should You Consider a Pre-Sale Inspection?</title>
+        <link>localhost:4000/utah-real-estate-agent-should-you.html</link>
+        
+          <category>Accurate Pricing</category>
+        
+        <author>David Robinson</author>
+        <pubDate>2016-05-06 14:10:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Should+you+consider+pre-sale+inspections.mp4</guid>
+        <description>
+
+Are pre-sale inspections a good idea or a bad idea? Can they help you save money? What’s the deal?
+
+This is where a lot of sellers lose money or even their buyers. For instance, if you’ve accepted an offer, many buyers add a contingency in the contract, which includes a home inspection. If the inspection comes back with items of concern, that’s another area a buyer can negotiate with you. They might not only want you to fix these repairs but bring down the price of their offer. It might even deter buyers to withdraw their offer entirely.
+
+Don’t let this happen to you! We want to put you in charge as a seller. There’s a simple way to take control of the situation before you even list your property in Utah.
+
+By conducting a pre-sale inspection, you remove inspection-related contingencies from the contract. This benefits you because it no longer becomes something to negotiate with the buyer. You additionally have the opportunity to repair those problem areas before you even list your property on the market. We want you to be comfortable and confident that issues won’t arise after you’ve listed your home.
+
+“We want you to be comfortable and confident.”
+
+If you’re thinking about buying or selling a Utah home, I’d be happy to help and answer your questions. Give me a call or send me an email at your earliest convenience!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Should+you+consider+pre-sale+inspections.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Should+you+consider+pre-sale+inspections.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Are pre-sale inspections a good idea or a bad idea? Can they help you save money? What’s the deal?</itunes:subtitle>
+        <itunes:author>David Robinson</itunes:author>
+        <itunes:summary>Are pre-sale inspections a good idea or a bad idea? Can they help you save money? What’s the deal?</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Heres How the Market Has Changed in Just a Year</title>
+        <link>localhost:4000/utah-real-estate-agent-great-changes.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>David Robinson</author>
+        <pubDate>2016-04-26 15:33:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Great+changes+we%E2%80%99re+seeing+in+the+market.mp4</guid>
+        <description>
+
+Today we’re going to be talking about what’s been going on in the Wasatch Front market since this time last year. There’s been a lot of changes, and a lot of positive changes at that.
+
+The first thing we want to mention is the days on market, a measurement of how long it takes a home to sell. Last year at this time, it was around 30 days. Since then, we’ve seen a 48% drop and the average now sits at 20 days. Homes that are priced right for their condition are continuing to sell extremely fast.
+
+“Homes are selling in an average of 20 days!”
+
+The number of home sales has dropped a little bit from last year, by about 6%. However, inventory has dropped as well, by almost 8%. Even though sales are down, inventory is down even lower. That’s causing homes to continue to increase in price while selling quickly.
+
+Finally, we wanted to mention appreciation, or median sales price. We went from $233,000 last year to $250,000 this year, a 6% jump.
+
+There you have it. As you can see, we’re in a great market for buyers or sellers right now. The big question in the industry is whether or not we are in a bubble. There’s currently a debate going on and there’s a pretty good argument that in the future, a shift will take place in the market. However, we don’t see anything happening this year, as there’s still a lot of growth taking place right now in the Wasatch Front.
+
+If you have any questions for us, or you’re thinking about buying or selling, give us a call or send us an email. We would love to hear from you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Great+changes+we%E2%80%99re+seeing+in+the+market.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Great+changes+we%E2%80%99re+seeing+in+the+market.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today we’re going to be talking about what’s been going on in the Wasatch Front market since this time last year. There’s been a lot of changes, and a lot of positive changes at that.</itunes:subtitle>
+        <itunes:author>David Robinson</itunes:author>
+        <itunes:summary>Today we’re going to be talking about what’s been going on in the Wasatch Front market since this time last year. There’s been a lot of changes, and a lot of positive changes at that.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Do You Need a Preliminary Title Report to Sell in Utah?</title>
+        <link>localhost:4000/utah-real-estate-agent-stop-real-estate.html</link>
+        
+          <category>Preliminary Title Report</category>
+        
+        <author>David Robinson</author>
+        <pubDate>2016-04-05 11:27:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Stop+a+real+estate+disaster.mp4</guid>
+        <description>
+
+Today I’m going to talk about why it’s important to get a preliminary title report when you’re selling a home in Utah. This issue doesn’t come into play extremely often, but when it does, it can be disastrous for your home sale.
+
+“This prevents a disaster before it happens.”
+
+Hiring a title company to find out whether there are any liens or judgements on your property is critical because a buyer will not come anywhere near your home if it does. We’ve seen many home sellers find out that there were liens or judgements against their home, and they had no idea about them even while they had lived in the property for a number of years.
+
+If you’re thinking of selling your home, please contact us. We know a lot of good title professionals in the area who can make sure you have no outstanding liens on your home. This is one way to clear the bumps in the road.
+
+We look forward to hearing from you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Stop+a+real+estate+disaster.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Stop+a+real+estate+disaster.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today I’m going to talk about why it’s important to get a preliminary title report when you’re selling a home in Utah. This issue doesn’t come into play extremely often, but when it does, it can be disastrous for your home sale.</itunes:subtitle>
+        <itunes:author>David Robinson</itunes:author>
+        <itunes:summary>Today I’m going to talk about why it’s important to get a preliminary title report when you’re selling a home in Utah. This issue doesn’t come into play extremely often, but when it does, it can be disastrous for your home sale.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Whats the Secret to Finding the True Value of Your Utah Home? </title>
+        <link>localhost:4000/utah-real-estate-agent-do-your-homework.html</link>
+        
+          <category>Educate Yourself</category>
+        
+        <author>David Robinson</author>
+        <pubDate>2016-03-31 10:20:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+When determining the sales price for your Utah home, it’s crucial to do your homework. Many agents in our market today don’t take the time and effort that they should in helping their clients determine the proper sales price for their home. Oftentimes, an agent gets a call from a friend or family member asking them if they’ll list their home; the agent usually takes the time to pull up a few comparable properties, but not much else. They then come up with a sales price based solely on the comparables without even stepping foot in the home!
+
+Here at the Canovo Group, we go far more in depth to determine a list price for our clients. When we have a client who is looking to sell, the first thing we do is a rough estimate. This is a basic analysis used to determine what price range you can expect to sell your home in; the purpose of this is to give you some information to go off of to start making some basic decisions about whether you even want to move forward with the sale of your home.
+
+If your home falls in a price range that makes sense for you, and you want to pursue it further, we will then schedule a walkthrough appointment of your home. During it, we will take notes and snap some pictures in order to become familiar with your property. We want to understand the condition, the fixtures, the finishes – the unique selling features of your home. We want to experience all this for ourselves so we can determine what makes your home unique and figure out how we can leverage those features to sell your home quickly and for top dollar.
+
+Once this part of the process is down, we head back to the office in order to do a full, in-depth equity evaluation. From there, we will develop a comprehensive selling strategy for you. Over the last 12 years of selling real estate, we have devised a very specific selling system to help us identify the optimal sales price for you. We want to avoid leaving money on the table, but we also want to avoid overpricing your home and having it sit on the market for months with no interest.
+
+“When determining the sales price for your Utah home, it’s crucial to do your homework.”
+
+We’re going to do our due diligence and take some time to really make sure that we’ve done our job to ensure that we’re helping you make a decision on where you price your home to get top dollar and sell it quickly. So, make sure you do your homework before you put a price on your home! A good agent will walk you through the entire process I just described, so it doesn’t need to be a stressful or difficult experience!
+
+If you have any questions about this topic or about real estate in general, please don’t hesitate to reach out to us. We would love to hear from you!
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>When determining the sales price for your Utah home, it’s crucial to do your homework. Many agents in our market today don’t take the time and effort that they should in helping their clients determine the proper sales price for their home.</itunes:subtitle>
+        <itunes:author>David Robinson</itunes:author>
+        <itunes:summary>When determining the sales price for your Utah home, it’s crucial to do your homework. Many agents in our market today don’t take the time and effort that they should in helping their clients determine the proper sales price for their home.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Don't Rely on Third Party Data When Pricing Your Home for Sale</title>
+        <link>localhost:4000/utah-real-estate-agent-dont-rely-on.html</link>
+        
+          <category>Accurate Pricing</category>
+        
+        <author>David Robinson</author>
+        <pubDate>2016-02-03 15:27:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Don%27t+rely+on+Third+Party+Data+when+Pricing+Your+Home+for+Sale.mp4</guid>
+        <description>
+
+Today we are talking about our third tip to sell your home faster and for more money. Today we are talking about one of the most important aspects of your home sale, home pricing.
+
+When you’re getting ready to sell and figuring out where to price, one thing you want to avoid is relying on third-party data, like a Zillow Zestimate or other automated home valuation sites. This information can give you a misunderstanding about what your home value is.
+
+“Zillow’s Zestimate is pretty inaccurate.”
+
+We recently heard of a new agent in the business who was using tax data to determine the value of a home they were selling. The value they came up with was drastically below market value, and was a steal for the buyer that gobbled it up. Zillow’s Zestimate is pretty inaccurate, as they don’t take into account any upgrades or improvements made on your house.
+
+What you really need to price your home correctly is a great agent who knows what they are doing when it comes to pricing. Someone who can use current market data and facts to help determine your home’s true value.
+
+If you have any questions for us, don’t hesitate to give us a call or send us an email. We would love to hear from you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Don%27t+rely+on+Third+Party+Data+when+Pricing+Your+Home+for+Sale.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Don%27t+rely+on+Third+Party+Data+when+Pricing+Your+Home+for+Sale.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today we are talking about our third tip to sell your home faster and for more money. Today we are talking about one of the most important aspects of your home sale, home pricing.</itunes:subtitle>
+        <itunes:author>David Robinson</itunes:author>
+        <itunes:summary>Today we are talking about our third tip to sell your home faster and for more money. Today we are talking about one of the most important aspects of your home sale, home pricing.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Expert Tip for Utah Home Sellers</title>
+        <link>localhost:4000/utah-real-estate-agent-why-keep-secrets.html</link>
+        
+          <category>Confidential Selling</category>
+        
+        <author>David Robinson</author>
+        <pubDate>2016-02-03 15:01:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Why+Keep+secrets+when+selling.mp4</guid>
+        <description>
+
+Today I have another home selling tip for you, and it has to do with keeping your motivation for selling under wraps. If a buyer knows why you’re selling, they can use that against you.
+
+Your reason for selling will have a major impact on negotiations. For example, if you need to relocate to an area quickly, this will impact the sale. If the buyer knew you were on a deadline, they could use that against you in a negotiation. We don’t want to give the buyer any reason to think that they have an advantage against us.
+
+“Keep your motives for selling confidential.”
+
+You’re better off keeping your reason for selling confidential. Only speak about this with your listing agent. This will put you in the best possible position when you negotiate for price.
+
+If you need any other assistance when buying or selling, please don’t hesitate to contact me!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Why+Keep+secrets+when+selling.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Why+Keep+secrets+when+selling.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today I have another home selling tip for you, and it has to do with keeping your motivation for selling under wraps. If a buyer knows why you’re selling, they can use that against you.</itunes:subtitle>
+        <itunes:author>David Robinson</itunes:author>
+        <itunes:summary>Today I have another home selling tip for you, and it has to do with keeping your motivation for selling under wraps. If a buyer knows why you’re selling, they can use that against you.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+    <copyright>David Robinson</copyright>
+    <media:credit role="author">David Robinson</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</media:description>
+    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Canovo Group - your professional Utah Valley Real Estate Agents.</media:description>
   </channel>
 </rss>

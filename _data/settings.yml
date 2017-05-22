@@ -7,53 +7,57 @@ custom_links:
     url:
 
 client:
-  name:
+  name: David Robinson
   license_number:
   about_markdown: |
+    David is one of Utah’s top real estate professionals. With over a decade of experience and hundreds of real estate transactions under his belt David understands what it takes to get results for his clients.
 
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    David believes in straight talk. He understands that what you most want and need right now is answers, honest advice, realistic expectations and expert help during the buying or selling process.
+
+    David and his team focus heavily on internet marketing. They believe that it’s their job to stay on the cutting edge of real estate technology so his clients have a competitive advantage.
+  market: Utah Valley
+  brand: Canovo Group
+  brokerage: Keller Williams Westfield Realty
+  address: 841 North 900 West Orem, UT 84057
+  phone: 801-214-1662
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Info@canovogroup.com
+  url: https://www.canovogroup.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.canovogroup.com/home-valuation/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
-  VR_form:
+  second_CTA_URL: http://www.canovogroup.com/
+  VR_form: http://oi.vresp.com?fid=8cce8d5eee
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free -- MARKET -- Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.canovogroup.com/home-valuation/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://www.canovogroup.com/
 
 lender:
-  show_section: false
+  show_section: true
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
-  logo_path: /img/logo.png
-  logo_path_2:
-  name: Bill Murray
+  headshot_path: /img/lender-headshot.png
+  logo_path: /img/lender-logo.jpg
+  logo_path_2: /img/lender-logo2.png
+  name: Austin Ingersoll
   brand: Lender Co.
-  phone: 555-555-5555
-  email: bill@murray.com
-  url: http://eyegoop.com
+  phone: 801-901-6203
+  email: austin.ingersoll@AcademyMortgage.com
+  url: http://www.academymortgage.com/austiningersoll
 
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
@@ -66,20 +70,20 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
+  facebook_url: https://www.facebook.com/CanovoGroup
+  linkedin_url: https://www.linkedin.com/in/david-robinson-27aa9225
+  gplus_url: https://plus.google.com/+CanovoGroupSells
+  youtube_url: https://www.youtube.com/user/CanovoGroup
   twitter_url:
-  instagram_url:
+  instagram_url: https://www.instagram.com/canovogroup/
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
+  zillow_url: http://www.zillow.com/profile/DavidTheon/
+  trulia_url: http://www.trulia.com/profile/david-t-robinson-broker-orem-ut-8292480/
+  yelp_url: http://www.yelp.com/biz/david-t-robinson-real-estate-team-orem
   podcast_url:
 
 podcast:
-  title:
+  title: Utah Real Estate Podcast with David Robinson
   categories: Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
@@ -90,14 +94,14 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 80
   hero_text: -- MARKET -- Real Estate Video Blog
-  hero_background_hex: '#094264'
+  hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#976caf'
-  theme_color: '#67c4a9'
+  brand_color: '#b40101'
+  theme_color: '#999999'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -105,8 +109,8 @@ site_colors:
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
-  shadow_spread: 7px
-  shadow_color: transparent
+  shadow_spread: 15px
+  shadow_color: white
 
 buttons:
   button_radius_number: 0

@@ -1,5 +1,53 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
+  - quote: Good house, good price. It was exactly what I was looking for. Dane Hill was good about getting me information. He always kept in touch with me, always gave me updates of what he was doing, what's been done, and what needs to be done. He was really helpful as far as getting everything set up goes. Making sure my home inspections were on track; making sure my home appraisals came in - I would definitely recommend them. As soon as we found a house we were closed in less than 30 days, so I was really impressed!
+    name: Colton Garrison, Home Buyer
+    audio: /uploads/audio/colton.mp3
+  - quote: It was good! We had kind of a strange scenario looking into a house that was in bankruptcy - and they figured out, working with lawyers and everything how to make it all work and we got in the house! It was pretty awesome, actually.
+    name: Bryan Borough, Buyer
+    audio: /uploads/audio/bryan.mp3
+  - quote: David was recommended to us by our son who lived in the area at the time and when we contacted him, he was confident that he could help us. However, he never gave us false hopes or promises. David was always very professional, but concerned with our needs. I feel that he is my friend. He was always very helpful when I had questions and he took the time to answer them to my satisfaction. I have very much enjoyed working with David and I would recommend him and his team to my family and friends or anyone who is looking to sell their home.
+    name: Jan Yamamoto
     audio:
+  - quote: We were very pleased with the results that we got when we worked with David and the DTR Team. He had statistics to back up how much we should ask for the house and it was very realistic. We were able to get an offer in and closed within a short time and they always kept us in the loop so it was a great experience!
+    name: Wendy
+    audio: /uploads/audio/wendy.mp3
+  - quote: We didn’t have the worst scenario, but it was pretty difficult to sell our home. We had several buyers pull out and a lot of other weird things but they were just always on top of it. They made sure to call up with updates and always had a good game plan when things went wrong.
+    name: Valerie
+    audio: /uploads/audio/valerie.mp3
+  - quote: We had really specific needs for a new home. Our in-laws were moving in and we needed to find a great mother-in-law apartment which is not easy to find. They were just able to make the magic happen and get the perfect house for us. We’ve very grateful for them!
+    name: Kerstin
+    audio: /uploads/audio/kerstin.mp3
+  - quote: We couldn’t ask for better results, they had our house under contract in 36 hours. Every question we had was answered in a timely manner and they provided good insight and detail. David was very strategic with how he priced our house, it wasn’t emotional and it was very statistically driven. I think that was the biggest thing that helped us sell our house.
+    name: Jon
+    audio: /uploads/audio/jon.mp3
+  - quote: Jayne Gray and Dane Hill helped us find our house and we had no complaints at all! Jayne was very prompt and willing to help us look at multiple houses. Dane communicated with us very well and made sure that we got all the appraisals and inspections. They were just always available to us and very reassuring!
+    name: Jaycie
+    audio: /uploads/audio/jaycie.mp3
+  - quote: We were able to close on the property fairly quickly, like in a matter of days of listing, which was very good. One thing that stood out to me about David Robinson and the DTR Team was that the overall communication and interaction was just very helpful.
+    name: Jared
+    audio: /uploads/audio/jared.mp3
+  - quote: I was very impressed with them. They listed the house and took great pictures. They were always available any time of the day and any day of the week. They were just professional, efficient, and great to work with!
+    name: April
+    audio: /uploads/audio/april.mp3
+  - quote: We were in the process of looking for a home and the agent we worked with helped us get it done! Our agent Kris, really went to the full extent to do everything for us so we’re very happy.
+    name: Brian
+    audio: /uploads/audio/brian.mp3
+  - quote: They were very fast listing our home. Within five days we had a buyer, so we were very happy with that. I loved the way they set up our home for showings. David and Dane both went above and beyond in order to get our home listed so quickly. I remember Dane went into the office on Christmas Eve just to upload our listing. That meant so much to me, that he would help us out like that.
+    name: Jammie
+    audio: /uploads/audio/jammie.mp3
+  - quote: Dane was thorough, prompt, and on the ball. He always gave us a lot of options. I was on the fence about whether to buy or rent, and Dane showed us what was available for rent and purchase so that I could understand better what was in the area. He was very helpful and understanding. He went with us to look at several houses, got us lunch, and answered our questions. He was phenomenal!
+    name: Tawny
+    audio: /uploads/audio/tawny.mp3
+  - quote: He was very helpful. I told him what I was looking for, and within a day, he came back with listings so I could get started looking for a house. It was a great experience. Dane is very professional, and a hard worker. I was looking at an older bungalow that had some plumbing issues, and made an appointment with a plumber so that I would know what I was getting into if I purchase the house. Some things came up and I couldn’t make it to the appointment, so Dane drove up and took care of the whole appointment. That was above and beyond!
+    name: Brooks
+    audio: /uploads/audio/brooks.mp3
+  - quote: We were able to close in a timely fashion. Overall, it went very smoothly. Dane helped us with a carpet issue when we were closing. The sellers were being a bit challenging, and he went above and beyond to get the carpet issue resolved so that we could close in a timely fashion.
+    name: James
+    audio: /uploads/audio/james.mp3
+  - quote: It took a long time to find a home, but they stayed with us. Jayne was very helpful. She kept helping me even though we had a hard time finding what we wanted. There was a house that we wanted to look at, and she couldn’t make it. She arranged for one of her colleagues to meet us because we needed to see it that day. It was going to go fast. Her colleague made time for us and met us. He was great!
+    name: Arlene
+    audio: /uploads/audio/arlene.mp3
+  - quote: We successfully purchased a home! Jayne was extremely flexible with her availability in order to show us homes. She was very willing and able to explain things about the home purchasing process that we hadn’t known before!
+    name: Daniel
+    audio: /uploads/audio/daniel.mp3
