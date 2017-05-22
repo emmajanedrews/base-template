@@ -5,8 +5,8 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 15 May 2017 10:59:57 -0500</pubDate>
-    <lastBuildDate>Mon, 15 May 2017 10:59:57 -0500</lastBuildDate>
+    <pubDate>Mon, 22 May 2017 15:13:18 -0500</pubDate>
+    <lastBuildDate>Mon, 22 May 2017 15:13:18 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -31,11 +31,11 @@
         <link>localhost:4000/this-is-a-test-post.html</link>
         <guid isPermaLink="true">localhost:4000/this-is-a-test-post.html</guid>
         
-        <category>Market Update</category>
+        <category>401K Advisors</category>
         
-        <category>Real Estate</category>
+        <category>Financial Planning</category>
         
-        <category>Home Seller Tips</category>
+        <category>Retirement Planning</category>
         
         
       </item>
@@ -78,11 +78,11 @@
         <link>localhost:4000/a-fox-in-space.html</link>
         <guid isPermaLink="true">localhost:4000/a-fox-in-space.html</guid>
         
-        <category>Market Update</category>
+        <category>401K Advisors</category>
         
-        <category>Real Estate</category>
+        <category>Financial Planning</category>
         
-        <category>Home Seller Tips</category>
+        <category>Retirement Planning</category>
         
         
       </item>
