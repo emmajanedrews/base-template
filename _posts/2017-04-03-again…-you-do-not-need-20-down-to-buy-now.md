@@ -12,7 +12,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/4-3.jpg
 youtube_code:
 date: 2017-04-03 00:00:00
 ---
