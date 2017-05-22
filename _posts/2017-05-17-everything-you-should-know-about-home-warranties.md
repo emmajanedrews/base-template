@@ -27,4 +27,4 @@ In the event of a major malfunction to one of the systems or appliances in the h
 
 The cost of a home warranty will range anywhere from $300 to $600. **Landmark Home Warranty has rates between $300 and $500.** When you consider the out of pocket expenses for repairing a major system or replacing an appliance, the $300 to $500 bill is an incredible savings.
 
-If you have any questions for us about home warranties or anything else relating to real estate, don’t hesitate to give us a call or send us an email. We look forward to hearing from you.
+If you have any questions for us about home warranties or anything else relating to real estate, don’t hesitate to give us a call or send us an email. You can also contact Chelsey directly at (503) 444-1151 or email her at chelsey@landmarkhw.com. We look forward to hearing from you.
