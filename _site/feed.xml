@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>-- CLIENT BRAND --</title>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</description>
+    <description>A Video Blog about  Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 15 May 2017 10:16:35 -0500</pubDate>
-    <lastBuildDate>Mon, 15 May 2017 10:16:35 -0500</lastBuildDate>
+    <pubDate>Mon, 22 May 2017 14:42:01 -0500</pubDate>
+    <lastBuildDate>Mon, 22 May 2017 14:42:01 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -31,11 +31,13 @@
         <link>localhost:4000/this-is-a-test-post.html</link>
         <guid isPermaLink="true">localhost:4000/this-is-a-test-post.html</guid>
         
-        <category>Market Update</category>
+        <category>Real Estate Careers</category>
         
-        <category>Real Estate</category>
+        <category>Realtors</category>
         
-        <category>Home Seller Tips</category>
+        <category>Build a Real Estate Team</category>
+        
+        <category>Real Estate Business Tips</category>
         
         
       </item>
@@ -78,11 +80,13 @@
         <link>localhost:4000/a-fox-in-space.html</link>
         <guid isPermaLink="true">localhost:4000/a-fox-in-space.html</guid>
         
-        <category>Market Update</category>
+        <category>Real Estate Careers</category>
         
-        <category>Real Estate</category>
+        <category>Realtors</category>
         
-        <category>Home Seller Tips</category>
+        <category>Build a Real Estate Team</category>
+        
+        <category>Real Estate Business Tips</category>
         
         
       </item>
