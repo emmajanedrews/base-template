@@ -5,7 +5,7 @@ tags:
   - Home Seller Tips
 date: 2017-05-17 10:00:00
 excerpt: There are four major mistakes you should try to avoid when the time comes to sell your house.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Chris+Gorman/Videos/May+17/Triangle+Area+Real+Estate-+4+Mistakes+to+Avoid+When+Listing+Your+House.mp4'
 pullquote: Price reductions and a high number of days on the market can make you look desperate.
 enclosure_type: video/mp4
 enclosure_time:
