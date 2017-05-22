@@ -2895,7 +2895,7 @@ form select {
   text-transform: capitalize;
   font-size: 2rem;
   font-weight: 300;
-  border: 2px solid #ffffff;
+  border: 2px solid #b40101;
   -webkit-transition: 0.3s;
   transition: 0.3s; }
   .cta2:hover {
@@ -2950,3 +2950,7 @@ form select {
 .navbar-andross .navbar-brand {
   color: #fff;
   margin-top: 10px; }
+
+#kw {
+  width: 80%;
+  margin-left: 10%; }
