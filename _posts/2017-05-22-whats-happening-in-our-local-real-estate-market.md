@@ -5,7 +5,7 @@ date: 2017-05-22 15:44:00
 tags:
   - Market Update
 excerpt: 'We’re here with your latest market update. Today, we’ll explore what’s happening with home prices, inventory, and the absorption rate. While inventory is down across Scott County, some price points have lower inventory than others. To find out what that means for you, watch this short video.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/May/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Whats+Happening+in+Our+Local+Real+Estate+Market%253F.mp4'
 pullquote: 'Inventory is extremely low under $350,000.'
 enclosure_type: video/mp4
 enclosure_time:
