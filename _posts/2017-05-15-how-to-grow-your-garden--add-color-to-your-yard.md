@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 'How to Grow Your Garden & Add Color to Your Yard'
-date: 2017-05-15 15:19:19
+date: 2017-05-15 15:19:00
 tags:
   - Real Estate
 excerpt: What does your yard look like this spring?  I’ve once again enlisted the advice of Mike of Mike’s Custom Lawn Care to give you some pointers on gardening and lawn care.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Growing+a+better+garden+%2526+lawn.mp4'
 pullquote: Now is the time to add some color to your property.
 enclosure_type: video/mp4
 enclosure_time:
@@ -25,6 +25,6 @@ Ideally, you want to **prepare your soil with fertilizers and mulches.** It’s 
 
 {% include pullquote.html %}
 
-It’s also a good idea to **check your sprinklers**&nbsp;and readjust your timers to prevent overwatering and make sure they’re watering the areas they’re intended for and not producing any runoff that might go into the street or a neighboring property.
+It’s also a good idea to **check your sprinklers** and readjust your timers to prevent overwatering and make sure they’re watering the areas they’re intended for and not producing any runoff that might go into the street or a neighboring property.
 
 If you have any questions about gardening and/or maintaining your yard this time of year, don’t hesitate to reach out to me. You can also reach Mike at (818) 842-2660. We’d be happy to help you!
