@@ -6,8 +6,8 @@ tags:
   - 401K Advisors
   - Financial Planning
   - Retirement Planning
-excerpt: 'https://s3.amazonaws.com/vyralmarketing/Ash+Toumayants/Videos/2017/The+Best+Way+to+Budget+Effectively+-+401K+Advisor.mp4'
-enclosure: 'If you hate budgeting, I have a solution that I want to share with you today.'
+excerpt: 'If you hate budgeting, I have a solution that I want to share with you today.'
+enclosure: https://s3.amazonaws.com/vyralmarketing/Ash+Toumayants/Videos/2017/The+Best+Way+to+Budget+Effectively+-+401K+Advisor.mp4
 pullquote: Knowing your necessary and discretionary expenses are is crucial.
 enclosure_type: video/mp4
 enclosure_time:
