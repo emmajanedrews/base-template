@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: pIRxsUg3cQA
+youtube_code: i2392EesrmY
 ---
 
 
@@ -19,7 +19,7 @@ youtube_code: pIRxsUg3cQA
 
 **In reality, 12% of all flips actually lose money and 30% make less than 20% profit**—which is just a fancy way of saying they break even. That's six months of headaches just to break even!
 
-Every investor has their own secret sauce, but here's my cost formula: Your purchase price plus 30% plus remodeling costs plus expense. Expenses is a keyword as it will cost you money to sell the house, and you'll also have carrying costs. You'll have financing costs, too.
+Every investor has their own secret sauce, but here's my cost formula: Your purchase price plus 30% plus remodeling costs plus expenses. Expenses is a keyword as it will cost you money to sell the house, and you'll also have carrying costs. You'll have financing costs, too.
 
 For example, say you buy a $120,000 house and have $25,000 in repairs plus $25,000 in expenses. You'll need to sell that house for $200,000 in order to make $30,000 profit.
 
