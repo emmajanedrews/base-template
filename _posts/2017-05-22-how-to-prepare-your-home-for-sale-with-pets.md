@@ -4,13 +4,13 @@ title: How to Prepare Your Home for Sale With Pets
 tags:
   - Home Seller Tips
 excerpt: "Today, I'd like to show you a few steps you can take to help sell your home if you are a pet owner."
-enclosure:
+enclosure: 'http://vyralmarketing.s3.amazonaws.com/Eric%20Vallee/videos/How%20to%20Prepare%20Your%20Home%20for%20Sale%20With%20Pets%20%282%29.mp4'
 pullquote: Pet owners are less sensitive to odors in their home than prospective buyers are.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/no-pb.jpg
-youtube_code:
+youtube_code: 8iWMvrkhGP4
 ---
 
 
