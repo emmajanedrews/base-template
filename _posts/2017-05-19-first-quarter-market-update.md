@@ -25,7 +25,7 @@ We've also seen a change in inventory levels. In the first four months of 2017, 
 
 {% include pullquote.html %}
 
-When you have fewer homes listed and more homes sold, you get a decline in inventory. **Any time you have a decrease in supply and demand that stays the same of increases, you get an increase in average prices.**
+When you have fewer homes listed and more homes sold, you get a decline in inventory. **Any time you have a decrease in supply and demand that stays the same or increases, you get an increase in average prices.**
 
 Our market is a very strong seller's market. In fact, it's one of the stronger seller's markets that I've seen in my 15 years in real estate. We haven't quite reached the point I thought we were at in 2007 and 2008, but we are seeing homes going on the market and getting a barrage of showings. This can be inconvenient for sellers, but if homes are priced right, they might receive multiple offers.
 
