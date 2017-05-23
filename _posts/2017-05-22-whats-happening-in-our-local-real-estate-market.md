@@ -23,7 +23,7 @@ If you compare pricing from 2016 to 2017, home prices have gone up 5% in the met
 
 **Inventory in the metro area is down 16%, while inventory in Scott County is down almost 17.5%.** So, what does the absorption rate look like?
 
-The absorption rate is how long it would take to sell all of the homes currently on the market if no other homes came on the market. An absorption rate of five to seven months is considered a balanced market, while anything under five months is a seller’s market. In the metro and Scott County, the absorption rate is in the upper twos, which is even lower than the 3 months of inventory we had last year.
+The absorption rate is how long it would take to sell all of the homes currently on the market if no other homes came on the market. An absorption rate of five to seven months is considered a balanced market, while anything under five months is a seller’s market. In the metro and Scott County, the absorption rate is in the upper twos, which is even lower than the three months of inventory we had last year.
 
 However, the absorption rate is different in each price point. Homes under $350,000 have an absorption rate of 1.7 months. Homes over $350,000 have an absorption rate of five to six months, so there is a more balanced market in those higher price points.
 
@@ -31,7 +31,7 @@ However, the absorption rate is different in each price point. Homes under $350,
 
 **What does that mean for our market?**
 
-If you are trying to buy a home under $250,000, there are a lot of multiple offers. Homes priced between $300,000 and $350,000 will move quickly and may also draw multiple offers.
+If you are trying to buy a home under $250,000, there are a lot of multiple offer situations. Homes priced between $300,000 and $350,000 will move quickly and may also draw multiple offers.
 
 For example, last week our buyers made an offer on a home that was priced at $209,000. Even though our offer was $30,000 over the listing price, there were many other offers on the table, and ours was not the highest one.
 
