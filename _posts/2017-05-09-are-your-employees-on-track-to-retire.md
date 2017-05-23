@@ -22,9 +22,9 @@ In my many years as a 401(k) advisor, I’ve learned that 85% of employees won�
 
 {% include pullquote.html %}
 
-This video series is going to be all about my book and my strategies to getting your employees to reach their retirement goals. If you'd like to get started right away, you can get a free copy of my book by clicking here[link]. Otherwise, over the next year, I’ll be sending you a couple videos a month that will detail how to ensure your employees get that paycheck for life.
+This video series is going to be all about my book and my strategies to getting your employees to reach their retirement goals. If you'd like to get started right away, you can get a free copy of my book by [clicking here](javascript:void(location.href='mailto:'+String.fromCharCode(105,110,102,111,64,99,99,97,100,118,105,115,111,114,115,46,99,111,109))). Otherwise, over the next year, I’ll be sending you a couple videos a month that will detail how to ensure your employees get that paycheck for life.
 
-The videos will be short and informative and will cover topics relating to your employee’s retirement. For example, in 2006 the Pension Protection Act was passed. This encourages you as an employer to follow specific ways to add automatic features to your retirement plan design.  By taking advantage of automatic features, you can help your employees save more money now, invest wisely, and retire on time with enough money to create a paycheck for life.
+The videos will be short and informative and will cover topics relating to your employee’s retirement. For example, in 2006 the Pension Protection Act was passed. This encourages you as an employer to follow specific ways to add automatic features to your retirement plan design. &nbsp;By taking advantage of automatic features, you can help your employees save more money now, invest wisely, and retire on time with enough money to create a paycheck for life.
 
 If you’d like to hear more, stay tuned!
 
