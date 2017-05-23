@@ -24,13 +24,13 @@ CTAs:
   first_CTA_URL: 'http://josephsabato.kwrealty.com/sell/'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://www.josephsabato.com/listings-search/#/2033763787'
-  VR_form: http://oi.vresp.com?fid=4a42c50754
+  VR_form: 'http://oi.vresp.com?fid=4a42c50754'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/005.jpg
     CTA_title: Looking to Buy a Home?
     CTA_text: Search the entire MLS for homes located in -- MARKET --.
     CTA_link_text: Home Search Tool
-    CTA_url: http://www.josephsabato.com/listings-search/
+    CTA_url: 'http://www.josephsabato.com/listings-search/'
 lender:
   show_section: false
   header_text: Preferred Lender
@@ -53,10 +53,10 @@ welcome_box:
 socials:
   review_sm_icons: false
   facebook_url: 'https://www.facebook.com/SabatoPropertyGroup/'
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  linkedin_url: 'https://www.linkedin.com/in/joseph-sabato-90501312/'
+  gplus_url: 'https://plus.google.com/b/110844094534126112236/110844094534126112236'
+  youtube_url: 'https://www.youtube.com/channel/UC4yBe-LRsb6n8SmtBwqclsg'
+  twitter_url: 'https://twitter.com/JosephSabato'
   instagram_url:
   pinterest_url:
   zillow_url: 'https://www.zillow.com/profile/JosephSabato/'
