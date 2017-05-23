@@ -18,7 +18,7 @@ youtube_code: 8iWMvrkhGP4
 
 If you have a pet and you're looking to sell your home, then read on for some helpful advice.
 
-The good news is, many homebuyers are looking for a pet-friendly home.
+The good news is many homebuyers are looking for a pet-friendly home.
 
 Two out of three of us have a pet, and 61% of pet owners say they have trouble finding a home that is a good match for their pet.
 
