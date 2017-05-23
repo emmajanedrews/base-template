@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Price Your Home When You Sell
-date:
+date: 2017-05-23 16:22:01
 tags:
   - Home Seller Tips
 excerpt: Pricing your home is one of the most important factors in selling it. This is how we determine what a property could sell for.
