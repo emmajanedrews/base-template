@@ -11,13 +11,13 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Y9kf1FcPwt4
+youtube_code: _1CzjpBukTY
 ---
 
 
 {% include youtube.html %}If you plan on selling your home, there are a few mistakes that you should avoid:
 
-* **Trying to sell it by yourself as “For Sale By Owner.”** There are quite a few disadvantages to selling your home by yourself without an agent. A huge one is ensuring that the paperwork is done correctly. Just last year, the state of Mississippi changed their paperwork from a four-page to an eight-page document. An agent will help you with these forms and make sure they’re filed correctly.
+* **Trying to sell it by yourself as “For Sale By Owner.”** There are quite a few disadvantages to selling your home by yourself without an agent. &nbsp;A huge one is not being able to ensure that the paperwork is done correctly. Just last year, the state of Mississippi changed their paperwork from a four-page to an eight-page document. An agent will help you with these forms and make sure they’re filed correctly.
   <br>
   <br>When selling your home by yourself, it can also be hard to determine if the people coming to look at your house are trustworthy individuals who aren’t there for other reasons. **An agent can help vet potential buyers** and ensure the security of your home during showings.
   <br>
@@ -29,8 +29,8 @@ youtube_code: Y9kf1FcPwt4
 
 {% include pullquote.html %}
 
-* **Photo quality can make or break a home sale.** In the age of the internet, buyers are looking at your home before they even know where it’s at. They want to see many high quality photos of every portion of the house. What they don’t want to see are grainy photos. They won’t look at listings that don’t have any photos at all. When looking for an agent, check out their past listings and make sure they use professional photography when selling your home.
+* **Photo quality can make or break a home sale.** In the age of the Internet, buyers are looking at your home before they even know where it’s at. They want to see many high quality photos of every portion of the house. They don't want to see grainy photos. They won’t look at listings that don’t have any photos at all. When looking for an agent, check out their past listings and make sure they use professional photography when selling your home.
   <br>&nbsp;
-* **Limiting access to buyers.**Buyers are usually on a tight schedule with many houses they need to see in a day. Sometimes, buyers fly in from out of town to see many homes and may not have the time to fit a specific showing time into their schedule. By making your home more accessible and allowing an open schedule of showings, you’ll expose your home to as many buyers as possible and increase your chances of selling quickly and for a great price.
+* **Limiting access to buyers.&nbsp;**Buyers are usually on a tight schedule with many houses they need to see in a day. Sometimes, buyers fly in from out of town to see many homes and may not have the time to fit a specific showing time into their schedule. By making your home more accessible and allowing an open schedule of showings, you’ll expose your home to as many buyers as possible and increase your chances of selling quickly and for a great price.
 
 If you’re thinking about buying or selling your home, please don’t hesitate to give me a call or send me an email. I look forward to hearing from you!
