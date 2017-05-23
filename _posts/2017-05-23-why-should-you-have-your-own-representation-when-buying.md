@@ -26,6 +26,6 @@ Always make sure your agent is included in the transaction. What I mean is that 
 
 It’s important to know that **any agent on a yard sign who is showing a home to you is actually representing the seller.** They have their best interests in mind, not your own. You don’t want to hire that same person who is representing the seller. You want someone who can look out for your best interests instead.
 
-Whether you are working with an agent now or not, **I encourage you to reach out to a few different agents to interview them for the job.**That’s how you’ll get the best results for your home sale.
+Whether you are working with an agent now or not, **I encourage you to reach out to a few different agents to interview them for the job.&nbsp;**That’s how you’ll get the best results for your home sale.
 
 If you have any questions for me, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
