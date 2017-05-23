@@ -1,5 +1,5 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
-    audio:
+  - quote: '"They extended themselves in every way, with their service, their professionalism, with their ability to create interest in a property, and several other things. They really did a lot, and I enjoyed the whole process! "'
+    name: Tyrone Ervin
+    audio: '<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/324158602&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>'
