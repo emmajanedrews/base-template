@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time: '10:39 am'
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: piKyk9kHh4c
+youtube_code: 7owEQzxCjYE
 ---
 
 
@@ -26,7 +26,7 @@ Not just our clients’ needs, but the needs of each member on our team as well.
 
 Don’t just take our word for it, however. **Here is what a few Stern Team agents had to say about working on this team.**
 
-*“Who wouldn’t want to be on the number one real estate team in Utah? The Stern Team has the most amazing people. They’ve been super open to me, very welcoming and make me feel like I’m really part of the team."&nbsp;*- Tara Horton
+*“Who wouldn’t want to be on the number one real estate team in Utah? The Stern Team has the most amazing people. They’ve been super open to me, very welcoming and make me feel like I’m really part of the team."*- Tara Horton
 
 *“As a seasoned agent, I thrive in a supportive environment with coaching and accountability. If I was going to join a team, I wanted to make sure I joined the best team around in Salt Lake County and I feel like The Stern Team is the best choice.”* - Cyndi Shelton
 
