@@ -4,7 +4,7 @@ title: 2017 First Quarter Market Update
 tags:
   - Market Update
 excerpt: 'What does our real estate market look like now that we are done with the first quarter? I’ll go over some numbers from this year and compare to 2016 to give you an idea of what’s changed and what has stayed the same. We’ve had quite a bit of precipitation this year which played a huge part on the first quarter numbers. Luckily, I am quite confident we are in a position for a great second quarter. To get all the details and see what’s going on with real estate in your area, watch this short video.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Scott+Hollinger/Montana+Real+Estate++The+Hollinger+Team+First+quarter+market+update+2017.mp4'
 pullquote: 'We are almost at 100% above average for precipitation this year, which affected first quarter activity.'
 enclosure_type:
 enclosure_time:
@@ -38,7 +38,7 @@ Out west, the three lakes out there have had some activity, mainly on Ashley Lak
 
 **McGregor Lake** has three residential active listings and six vacant active listings. Neither 2017 nor 2016 saw any residential or vacant sales in the first quarter, but there is one pending sale compared to zero pending sales last year.
 
-**Bitterroot Lake&nbsp;**has seven residential active listings and four vacant active listings. This year in the first quarter there were two residential sales, zero vacant sales, and one pending sale compared to zero residential sales, zero vacant sales, and zero pending sales in the first quarter of 2016.
+**Bitterroot Lake**has seven residential active listings and four vacant active listings. This year in the first quarter there were two residential sales, zero vacant sales, and one pending sale compared to zero residential sales, zero vacant sales, and zero pending sales in the first quarter of 2016.
 
 I’ve talked before about the surge in residential waterfront in Flathead Lake on the condominium sales side. There are 47 active listings right now, four of which have sold compared to eight last year. There is also one pending sale.
 
