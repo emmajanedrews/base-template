@@ -1,8 +1,11 @@
 show_testimonials_section: true
 testimonial:
-  - quote: '"They extended themselves in every way, with their service, their professionalism, with their ability to create interest in a property, and several other things. They really did a lot, and I enjoyed the whole process! "'
-    name: Tyrone Ervin
-    audio: 'https://s3.amazonaws.com/vyralmarketing/Dave+Knight/Testimonials/Dave+Knight-+Tyrone.mp3'
+  - quote: '"I had a great experience, everything went it extremely well. It was done very quickly, and we closed on the house within a month. Everything was taken care of. It was a very rough time for me, moving from California to Florida, and Dave and his team did an amazing job in taking most of the work responsibility off of my plate so that we could close as quickly as possible."'
+    name: Lea Wald
+    audio: 'https://s3.amazonaws.com/vyralmarketing/Dave+Knight/Testimonials/Dave+Knight-+Lea+Wald.mp3'
   - quote: "\"They're very thorough and extremely reliable. One of the things I really appreciated is that when there ended up being an unexpected expense, my agent covered it all on his own. They really show great follow through.\""
     name: Luz Moya
     audio: 'https://s3.amazonaws.com/vyralmarketing/Dave+Knight/Testimonials/Dave+Knight-+Luz+Moya.mp3'
+  - quote: '"They extended themselves in every way, with their service, their professionalism, with their ability to create interest in a property, and several other things. They really did a lot, and I enjoyed the whole process! "'
+    name: Tyrone Ervin
+    audio: 'https://s3.amazonaws.com/vyralmarketing/Dave+Knight/Testimonials/Dave+Knight-+Tyrone.mp3'
