@@ -26,4 +26,4 @@ For telephone interviews, the best tip I have for you is to stand up. By standin
 
 When you’re doing a Skype interview, it’s not as simple. You typically have to sit down in that situation, so standing up can be difficult. **The big thing to remember is to keep distractions at a minimum.** That means making sure everything shown on camera is neat and anyone else in the house with you knows to keep loud noises at a minimum for the duration of your interview.
 
-<br>If you have any questions about this topic or want to learn more interview tips, give me a call or send me an email. I would be glad to discuss this topic further with you.
+If you have any questions about this topic or want to learn more interview tips, give me a call or send me an email. I would be glad to discuss this topic further with you.
