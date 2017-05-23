@@ -72,10 +72,10 @@ socials:
   zillow_url:
   trulia_url:
   yelp_url:
-  podcast_url:
+  podcast_url: https://itunes.apple.com/us/podcast/hacking-your-health-podcast/id1234350825?mt=2
 
 podcast:
-  title: Hacking Your health podcast
+  title: Hacking Your Health Podcast
   categories: Education
   image: /img/podcast.png
   subtitle: 'Find your best resource for valuable information, strategy and tips on how to improve your health and your life'
