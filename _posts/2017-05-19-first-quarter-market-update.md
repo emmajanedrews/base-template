@@ -1,11 +1,11 @@
 ---
 layout: post
 title: First Quarter Market Update
-date: 2017-05-19 15:19:12
+date: 2017-05-19 15:19:00
 tags:
   - Market Update
 excerpt: "What's going on in our market right now? It's hot for sellers due to the number of available homes going down and the demand for homes going up."
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Central+PA+Real+Estate+Agent-+South+central+Pennsylvania+market+update.mp4'
 pullquote: "Our market is a very strong seller's market."
 enclosure_type: video/mp4
 enclosure_time:
