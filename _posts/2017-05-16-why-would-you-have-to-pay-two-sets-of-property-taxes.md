@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Would You Have to Pay Two Sets of Property Taxes?
-date: 2017-05-16 12:46:37
+date: 2017-05-16 12:46:00
 tags:
   - Real Estate
 excerpt: 'When you buy a home that is worth more than your previous home, you will probably have to pay a second property tax bill. Here’s an explanation why.'
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/TOf31D0Dnts'
+youtube_code: 'https://youtu.be/f7eM_1kHGnc'
 ---
 
 
