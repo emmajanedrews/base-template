@@ -18,20 +18,20 @@ date: 2017-04-03 00:00:00
 ---
 
 
-A survey by Ipsos found that the American public is still somewhat confused about what is required to qualify for a home mortgage loan in today’s housing market. There are two major misconceptions that we want to address today.
+A survey by Ipsos found that the American public is still somewhat confused about what is required to qualify for a home mortgage loan in today’s housing market. There are two major misconceptions that we want to address today.![](/uploads/versions/4-3-gresh-image-for-text-post---x----750-410x---.jpg)
 
-1. Down Payment
+1. **Down Payment**
 
 The survey revealed that consumers overestimate the down payment funds needed to qualify for a home loan. According to the report, 40% of consumers think a 20% down payment is always required. In actuality, there are many loans written with a down payment of 3% or less.
 
 Many renters may actually be able to enter the housing market sooner than they ever imagined with new programs that have emerged allowing less cash out of pocket.
 
-1. FICO® Scores
+1. **FICO&reg; Scores**
 
-The survey also revealed that 62% of respondents believe they need excellent credit to buy a home, with 43% thinking a “good credit score” is over 780. In actuality, the average FICO® scores of approved conventional and FHA mortgages are much lower.
+The survey also revealed that 62% of respondents believe they need excellent credit to buy a home, with 43% thinking a “good credit score” is over 780. In actuality, the average FICO&reg; scores of approved conventional and FHA mortgages are much lower.
 
-The average conventional loan closed in February had a credit score of 752, while FHA mortgages closed with a score of 686. The average across all loans closed in February was 720. The chart below shows the distribution of FICO® Scores for all loans approved in February.
+The average conventional loan closed in February had a credit score of 752, while FHA mortgages closed with a score of 686. The average across all loans closed in February was 720. The chart below shows the distribution of FICO&reg; Scores for all loans approved in February.
 
-Bottom Line
+**Bottom Line**
 
 If you are a prospective buyer who is ‘ready’ and ‘willing’ to act now, but are not sure if you are ‘able’ to, let’s sit down to help you understand your true options.
