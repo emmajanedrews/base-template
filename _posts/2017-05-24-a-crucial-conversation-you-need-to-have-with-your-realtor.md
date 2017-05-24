@@ -23,8 +23,8 @@ When buying a house, your Realtor will ask you some questions about your financi
 <br>Your offer on a home should also include that letter of pre-qualification. Without it, your offer isn’t going anywhere. If you’re a cash buyer, your Realtor will want to know how much you can spend and they’ll want to see your proof of funds. Like the pre-qualification letter, your Realtor will submit your proof of funds along with any offers you submit.
 
 {% include pullquote.html %}
-<br>&nbsp;
-<br>**You should be concerned if you haven’t had this conversation with your Realtor early on in the home buying process**, and certainly before you start looking at homes. If you haven’t, you might not be working with a professional. Sellers’ Realtors have a responsibility to show their client’s house to qualified buyers, so shouldn’t you expect the same thing?
+
+**You should be concerned if you haven’t had this conversation with your Realtor early on in the home buying process**, and certainly before you start looking at homes. If you haven’t, you might not be working with a professional. Sellers’ Realtors have a responsibility to show their client’s house to qualified buyers, so shouldn’t you expect the same thing?
 <br>&nbsp;
 <br>Finally, if you’re just trying to get a feel for the area or get a better idea of what your money can buy here, that’s common, but just tell your Realtor. Most Realtors will be fine with getting an opportunity to meet you and get to know you and possibly do business with you in the future.
 <br>&nbsp;
