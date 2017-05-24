@@ -23,7 +23,7 @@ Fixer upper homes can represent a great opportunity for you to buy a home for le
 
 **Doing some research before deciding if your next Calgary property will be a fixer upper or not can save you a whole lot in the long term.** Many buyers romanticize the process, only to be shocked and even financially crippled when confronted with cold reality.
 
-If you’re wondering whether a fixer upper fits your personal or financial needs, you’ll be happy to know that we have a free report from industry experts titled “Fixer Uppers: Myths and Facts” that we would be happy to send out to you.&nbsp;
+If you’re wondering whether a fixer upper fits your personal or financial needs, you’ll be happy to know that we have a free report from industry experts titled “Fixer Uppers: Myths and Facts” that we would be happy to send out to you.
 
 This report dispels the five most commonly held myths surrounding fixer upper homes in Calgary. **It also includes a simple financial formula that will help you estimate your profit and savings by going this route.**To order the report, [**follow this link.**](greaterpropertygroup.com/fixeruppermyths.php)
 
