@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Who Pays Your Agent’s Commission as a Buyer?
-date: 2017-05-23 11:40:56
+date: 2017-05-23 11:40:00
 tags:
   - Home Buyer Tips
 excerpt: 'When you work with a buyer’s agent, do you have to pay them commission?'
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 2GbUonzsm90
+youtube_code: AxQi4-G9oM4
 ---
 
 
