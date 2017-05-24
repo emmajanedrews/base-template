@@ -16,7 +16,7 @@ youtube_code: COGTqH4l15I
 
 {% include youtube.html %}
 
-Mortgage interest rates are one of the hottest topics with homebuyers right now. Many buyers are currently wondering whether they should wait for interest rates to go back down, but they are only expected to go up. The Federal Reserve has already increased rates and signaled that there are more to come.
+Mortgage interest rates are one of the hottest topics with homebuyers right now. Many buyers are currently wondering whether they should wait for interest rates to go back down, but they are only expected to go up. The Federal Reserve has already increased rates and signaled that there are more increases to come.
 
 The days of 3% interest rates are gone right now, but the good news is that rates are still at historic lows at about 4% currently. Here's an example of why it's smart to buy now and lock in a low rate rather than waiting six months or a year.&nbsp;
 
