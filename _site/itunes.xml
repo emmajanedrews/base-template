@@ -2,35 +2,124 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Utah Real Estate Podcast with David Robinson</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Canovo Group - your professional Utah Valley Real Estate Agents.</description>
+    <link>http://www.canovogroup.tv</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://www.canovogroup.tv"/>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Canovo Group - your professional  Real Estate Agents.</description>
     <language>en</language>
-    <managingEditor>David Robinson</managingEditor>
-    <lastBuildDate>2017-05-22 12:30:30 -0500</lastBuildDate>
-    <media:copyright>David Robinson</media:copyright>
+    <managingEditor>The Canovo Group</managingEditor>
+    <lastBuildDate>2017-05-24 11:22:30 -0500</lastBuildDate>
+    <media:copyright>The Canovo Group</media:copyright>
     <media:thumbnail url="/img/podcast.jpg"/>
-    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
+    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
       <itunes:email>Info@canovogroup.com</itunes:email>
-      <itunes:name>David Robinson</itunes:name>
+      <itunes:name>The Canovo Group</itunes:name>
     </itunes:owner>
-    <itunes:author>David Robinson</itunes:author>
+    <itunes:author>The Canovo Group</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="/img/podcast.jpg"/>
-    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Utah Valley Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Canovo Group - your professional Utah Valley Real Estate Agents.</itunes:summary>
+    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the  Area Real Estate Market</itunes:subtitle>
+    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Canovo Group - your professional  Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
+        <title>Agent Highlight: Meet Brandon Evans</title>
+        <link>http://www.canovogroup.tv/agent-highlight-meet-brandon-evans.html</link>
+        
+        <author>The Canovo Group</author>
+        <pubDate>2017-05-23 14:05:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+Today, I’m excited to introduce you to Brandon Evans, one of our real estate agents. The Agent Highlight series will help you get to know some of the agents that you’re working with.
+
+Brandon worked as a police officer for about five years. “I have a lot of respect for police officers, but it just wasn’t my area of expertise,” says Brandon. “I had some good learning experiences, but it just wasn’t my thing.”
+
+“I came across the Keller Williams website, started inquiring more about it, and met with someone in the Riverton office,” Brandon adds. “She sent me down here, and I had several positive conversations that let me know that this is the place where I wanted to work.”
+
+Brandon continued working graveyard shifts while he went through real estate school. “Then I got set up with David and the rest is history,” Brandon says. “I found the right home.”
+
+One of the biggest challenges Brandon faced when he dove in as a full-time real estate agent was the financial aspect. “I spent 20 years working hourly jobs and getting a paycheck every two weeks, and this job is sales,” says Brandon. “I got one deal in three months and it wasn’t that big—I only got $1,200 from it—but everything counts. Then, it started clicking, things started rolling, and I’ve had a pretty steady paycheck since then.”
+
+One of the things I’ve noticed over the years is that agents get into real estate for two reasons: an unlimited income ceiling and flexibility. However, those are also the two reasons why people leave. They think they will immediately make money and that there won’t be any lag between your efforts and your results.
+
+The truth is that you will work for at least 90 days before you see any income, and it will take about six months before you start to see consistent income. If you work through that, you can be a successful agent.
+
+The freedom and flexibility is great, but many agents leave because they are not used to holding themselves accountable. As a result, they don’t keep up with the tasks they need to generate the kind of results that will provide for themselves and their families.
+
+Family is very important to Brandon. “I’ve been married for eight years now, and we have four kids,” says Brandon. “We like to get out and do some motorcycle riding, and I’m a fan of all sports. I love football, and I am a Seahawks fan. Plus, we’re in the process of building our own home, so we’ve got our hands full right now.”
+
+According to Brandon, the best thing about working in real estate is that you have the potential to provide a lifestyle for your family. “I never thought I would be able to come out and build on property,” says Brandon. “Police officers aren’t paid very much. They aren’t paid enough. We see that all the time and it’s unfortunate, but I wanted to be able to build a home and provide a life for my kids. I don’t want to have to say no when they ask to play this sport or go to dance school. My family is my driving force to get out there, work hard, and be successful.”
+
+“My family is my driving force to get out there, work hard, and be successful.”
+
+Brandon is a great person and a great real estate agent. I hope this has given you some insight into who he is. If you have any questions about real estate, please don’t hesitate to reach out to Brandon or anyone else on our real estate team.
+
+If you are interested in learning more about getting into the real estate business or if you are curious about joining our team, simply fill out this form. We look forward to hearing from you!
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://www.canovogroup.tv" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today, I’m excited to introduce you to Brandon Evans, one of our real estate agents. The Agent Highlight series will help you get to know some of the agents that you’re working with. 
+ 
+Brandon worked as a police officer for about five years. “I have a lot of respect for police officers, but it just wasn’t my area of expertise,” says Brandon. “I had some good learning experiences, but it just wasn’t my thing.” 
+ 
+“I came across the Keller Williams website, started inquiring more about it, and met with someone in the Riverton office,” Brandon adds. “She sent me down here, and I had several positive conversations that let me know that this is the place where I wanted to work.” 
+ 
+Brandon continued working graveyard shifts while he went through real estate school. “Then I got set up with David and the rest is history,” Brandon says. “I found the right home.” 
+ 
+One of the biggest challenges Brandon faced when he dove in as a full-time real estate agent was the financial aspect. “I spent 20 years working hourly jobs and getting a paycheck every two weeks, and this job is sales,” says Brandon. “I got one deal in three months and it wasn’t that big—I only got $1,200 from it—but everything counts. Then, it started clicking, things started rolling, and I’ve had a pretty steady paycheck since then.” 
+ 
+One of the things I’ve noticed over the years is that agents get into real estate for two reasons: an unlimited income ceiling and flexibility. However, those are also the two reasons why people leave. They think they will immediately make money and that there won’t be any lag between your efforts and your results. 
+ 
+The truth is that you will work for at least 90 days before you see any income, and it will take about six months before you start to see consistent income. If you work through that, you can be a successful agent. 
+ 
+The freedom and flexibility is great, but many agents leave because they are not used to holding themselves accountable. As a result, they don’t keep up with the tasks they need to generate the kind of results that will provide for themselves and their families. 
+ 
+Family is very important to Brandon. “I’ve been married for eight years now, and we have four kids,” says Brandon. “We like to get out and do some motorcycle riding, and I’m a fan of all sports. I love football, and I am a Seahawks fan. Plus, we’re in the process of building our own home, so we’ve got our hands full right now.”
+ 
+According to Brandon, the best thing about working in real estate is that you have the potential to provide a lifestyle for your family. “I never thought I would be able to come out and build on property,” says Brandon. “Police officers aren’t paid very much. They aren’t paid enough. We see that all the time and it’s unfortunate, but I wanted to be able to build a home and provide a life for my kids. I don’t want to have to say no when they ask to play this sport or go to dance school. My family is my driving force to get out there, work hard, and be successful.” 
+ 
+Brandon is a great person and a great real estate agent. I hope this has given you some insight into who he is. If you have any questions about real estate, please don’t hesitate to reach out to Brandon or anyone else on our real estate team. 
+ 
+If you are interested in learning more about getting into the real estate business or if you are curious about joining our team, simply fill out this form. We look forward to hearing from you!</itunes:subtitle>
+        <itunes:author>The Canovo Group</itunes:author>
+        <itunes:summary>Today, I’m excited to introduce you to Brandon Evans, one of our real estate agents. The Agent Highlight series will help you get to know some of the agents that you’re working with. 
+ 
+Brandon worked as a police officer for about five years. “I have a lot of respect for police officers, but it just wasn’t my area of expertise,” says Brandon. “I had some good learning experiences, but it just wasn’t my thing.” 
+ 
+“I came across the Keller Williams website, started inquiring more about it, and met with someone in the Riverton office,” Brandon adds. “She sent me down here, and I had several positive conversations that let me know that this is the place where I wanted to work.” 
+ 
+Brandon continued working graveyard shifts while he went through real estate school. “Then I got set up with David and the rest is history,” Brandon says. “I found the right home.” 
+ 
+One of the biggest challenges Brandon faced when he dove in as a full-time real estate agent was the financial aspect. “I spent 20 years working hourly jobs and getting a paycheck every two weeks, and this job is sales,” says Brandon. “I got one deal in three months and it wasn’t that big—I only got $1,200 from it—but everything counts. Then, it started clicking, things started rolling, and I’ve had a pretty steady paycheck since then.” 
+ 
+One of the things I’ve noticed over the years is that agents get into real estate for two reasons: an unlimited income ceiling and flexibility. However, those are also the two reasons why people leave. They think they will immediately make money and that there won’t be any lag between your efforts and your results. 
+ 
+The truth is that you will work for at least 90 days before you see any income, and it will take about six months before you start to see consistent income. If you work through that, you can be a successful agent. 
+ 
+The freedom and flexibility is great, but many agents leave because they are not used to holding themselves accountable. As a result, they don’t keep up with the tasks they need to generate the kind of results that will provide for themselves and their families. 
+ 
+Family is very important to Brandon. “I’ve been married for eight years now, and we have four kids,” says Brandon. “We like to get out and do some motorcycle riding, and I’m a fan of all sports. I love football, and I am a Seahawks fan. Plus, we’re in the process of building our own home, so we’ve got our hands full right now.”
+ 
+According to Brandon, the best thing about working in real estate is that you have the potential to provide a lifestyle for your family. “I never thought I would be able to come out and build on property,” says Brandon. “Police officers aren’t paid very much. They aren’t paid enough. We see that all the time and it’s unfortunate, but I wanted to be able to build a home and provide a life for my kids. I don’t want to have to say no when they ask to play this sport or go to dance school. My family is my driving force to get out there, work hard, and be successful.” 
+ 
+Brandon is a great person and a great real estate agent. I hope this has given you some insight into who he is. If you have any questions about real estate, please don’t hesitate to reach out to Brandon or anyone else on our real estate team. 
+ 
+If you are interested in learning more about getting into the real estate business or if you are curious about joining our team, simply fill out this form. We look forward to hearing from you!</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>Have You Met New Agent Daniel Pust?</title>
-        <link>localhost:4000/utah-real-estate-agent-meet-one-of-our.html</link>
+        <link>http://www.canovogroup.tv/utah-real-estate-agent-meet-one-of-our.html</link>
         
           <category>The Canovo Group</category>
         
-        <author>David Robinson</author>
+        <author>The Canovo Group</author>
         <pubDate>2017-04-08 14:05:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -52,22 +141,22 @@ Daniel’s goal is to establish our brand in South Utah County. He works hard ev
 We’re certainly excited to have him on our team. If you’d like to contact him, you can reach him at (801) 850-5656. If you have any other questions, feel free to give me a call or send me an email. We look forward to serving you in the future!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.canovogroup.tv" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Today it’s my pleasure to introduce you to one of the new agents on our team, Daniel Pust. Daniel is happily married with a young son in 1st grade. He grew up in the Santaquin/Payson area and still lives there because he loves it. He worked in law enforcement for seven years and eventually became a detective before transitioning into real estate.</itunes:subtitle>
-        <itunes:author>David Robinson</itunes:author>
+        <itunes:author>The Canovo Group</itunes:author>
         <itunes:summary>Today it’s my pleasure to introduce you to one of the new agents on our team, Daniel Pust. Daniel is happily married with a young son in 1st grade. He grew up in the Santaquin/Payson area and still lives there because he loves it. He worked in law enforcement for seven years and eventually became a detective before transitioning into real estate.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Has the Utah Real Estate Market Improved over Last Year?</title>
-        <link>localhost:4000/utah-real-estate-agent-comparing-utah.html</link>
+        <link>http://www.canovogroup.tv/utah-real-estate-agent-comparing-utah.html</link>
         
           <category>Market Update</category>
         
-        <author>David Robinson</author>
+        <author>The Canovo Group</author>
         <pubDate>2017-03-21 15:22:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Has+the+Utah+real+estate+market+improved+over+last+year.mp4</guid>
         <description>
@@ -85,22 +174,22 @@ As we have predicted in the past, the market remains strong. As long as rates re
 If you are thinking about taking advantage of current market conditions by buying or selling a home, give me a call or send me an email. I would love to hear from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Has+the+Utah+real+estate+market+improved+over+last+year.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.canovogroup.tv" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Has+the+Utah+real+estate+market+improved+over+last+year.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>The first quarter of the year has nearly come and gone, so I wanted to show you some of the most recent numbers from the Utah market and compare them to what we saw in the first quarter of 2016. The average days on market for homes listed for sale stayed pretty steady. We went from an average of 33 days in 2016 to an average of 34 days in 2017. Homes are still selling really fast. Home sales have gone down from 6,300 at this point last year to just 6,000 this year. However, inventory is down by around 10% too.</itunes:subtitle>
-        <itunes:author>David Robinson</itunes:author>
+        <itunes:author>The Canovo Group</itunes:author>
         <itunes:summary>The first quarter of the year has nearly come and gone, so I wanted to show you some of the most recent numbers from the Utah market and compare them to what we saw in the first quarter of 2016. The average days on market for homes listed for sale stayed pretty steady. We went from an average of 33 days in 2016 to an average of 34 days in 2017. Homes are still selling really fast. Home sales have gone down from 6,300 at this point last year to just 6,000 this year. However, inventory is down by around 10% too.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Buying Just Got Easier With the NHF Sapphire Program</title>
-        <link>localhost:4000/utah-real-estate-agent-how-nhf-sapphire.html</link>
+        <link>http://www.canovogroup.tv/utah-real-estate-agent-how-nhf-sapphire.html</link>
         
           <category>Home Buyer Tips</category>
         
-        <author>David Robinson</author>
+        <author>The Canovo Group</author>
         <pubDate>2017-02-13 16:52:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -120,22 +209,22 @@ All in all this program is great for buyers out there who are sitting on the sid
 To see if you qualify for this program or if you have any other real estate questions, give me a call or send me an email. I would be more than happy to help.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.canovogroup.tv" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Today, a good friend of mine and my preferred lender, Austin Ingersoll with Academy Mortgage, is joining me to have a chat about a new program that just became available for buyers in our market.</itunes:subtitle>
-        <itunes:author>David Robinson</itunes:author>
+        <itunes:author>The Canovo Group</itunes:author>
         <itunes:summary>Today, a good friend of mine and my preferred lender, Austin Ingersoll with Academy Mortgage, is joining me to have a chat about a new program that just became available for buyers in our market.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>What Can You Expect From the 2017 Real Estate Market?</title>
-        <link>localhost:4000/utah-real-estate-agent-2017-market.html</link>
+        <link>http://www.canovogroup.tv/utah-real-estate-agent-2017-market.html</link>
         
           <category>Market Update</category>
         
-        <author>David Robinson</author>
+        <author>The Canovo Group</author>
         <pubDate>2017-01-24 19:17:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+2017+market+predictions.mp4</guid>
         <description>
@@ -157,22 +246,22 @@ This year, I believe the average days on market will gradually creep back up. I 
 The market is looking strong for 2017, so if you have any real estate needs at all, please don’t hesitate to reach out to me or anyone on my team. We look forward to helping you and we hope you have a great year!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+2017+market+predictions.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.canovogroup.tv" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+2017+market+predictions.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>How did our market do in 2016? What can you expect from the 2017 market? To get a sense of how the market did overall last year, I wanted to compare some key statistics from the year before. Here’s what happened between 2015 and 2016</itunes:subtitle>
-        <itunes:author>David Robinson</itunes:author>
+        <itunes:author>The Canovo Group</itunes:author>
         <itunes:summary>How did our market do in 2016? What can you expect from the 2017 market? To get a sense of how the market did overall last year, I wanted to compare some key statistics from the year before. Here’s what happened between 2015 and 2016</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Why Should You Sell This Winter?</title>
-        <link>localhost:4000/utah-real-estate-agent-should-you-sell_12.html</link>
+        <link>http://www.canovogroup.tv/utah-real-estate-agent-should-you-sell_12.html</link>
         
           <category>Utah Real Estate</category>
         
-        <author>David Robinson</author>
+        <author>The Canovo Group</author>
         <pubDate>2016-12-12 18:15:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Should+you+sell+your+home+now+or+wait.mp4</guid>
         <description>
@@ -199,22 +288,22 @@ Every year around this time, we’re asked the same thing by sellers: “Should 
 These are just four of the reasons why you should consider selling now to take advantage of the market. If you have any questions for us or are thinking about selling, give us a call or send us an email. We’d be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Should+you+sell+your+home+now+or+wait.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.canovogroup.tv" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Should+you+sell+your+home+now+or+wait.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Every year around this time, we’re asked the same thing by sellers: “Should I sell my home now or wait until spring?” Many of our clients are thinking of hunkering down, waiting out the winter, and selling in the spring. I want to give you four reasons why you might want to consider selling now versus waiting until spring to do so.</itunes:subtitle>
-        <itunes:author>David Robinson</itunes:author>
+        <itunes:author>The Canovo Group</itunes:author>
         <itunes:summary>Every year around this time, we’re asked the same thing by sellers: “Should I sell my home now or wait until spring?” Many of our clients are thinking of hunkering down, waiting out the winter, and selling in the spring. I want to give you four reasons why you might want to consider selling now versus waiting until spring to do so.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>How Can You Keep Your Home Safe During Your Holiday Vacation?</title>
-        <link>localhost:4000/utah-real-estate-agent-protecting-your.html</link>
+        <link>http://www.canovogroup.tv/utah-real-estate-agent-protecting-your.html</link>
         
           <category>Educate Yourself</category>
         
-        <author>David Robinson</author>
+        <author>The Canovo Group</author>
         <pubDate>2016-11-29 15:08:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Protecting+your+home+while+you%E2%80%99re+on+vacation.mp4</guid>
         <description>
@@ -247,22 +336,22 @@ The holidays are just around the corner, which means you may have a fun family v
 If you have any questions about what’s going on in the market or you’re curious about your home’s value, don’t hesitate to give us a call or send us an email. We hope to talk to you soon!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Protecting+your+home+while+you%E2%80%99re+on+vacation.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.canovogroup.tv" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Protecting+your+home+while+you%E2%80%99re+on+vacation.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>The holidays are just around the corner, which means you may have a fun family vacation in the works. Here are five tips to keep your home safe while you’re away</itunes:subtitle>
-        <itunes:author>David Robinson</itunes:author>
+        <itunes:author>The Canovo Group</itunes:author>
         <itunes:summary>The holidays are just around the corner, which means you may have a fun family vacation in the works. Here are five tips to keep your home safe while you’re away</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Every Great Seller's Market Has Its End</title>
-        <link>localhost:4000/utah-real-estate-agent-every-great.html</link>
+        <link>http://www.canovogroup.tv/utah-real-estate-agent-every-great.html</link>
         
           <category>Home Seller Tips</category>
         
-        <author>David Robinson</author>
+        <author>The Canovo Group</author>
         <pubDate>2016-10-25 10:26:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Every+great+seller%E2%80%99s+market+has+its+end.mp4</guid>
         <description>
@@ -282,22 +371,22 @@ We like to consult our clients about what’s happening in the market right now 
 If you have any questions about how to price your home appropriately in a shifting market, give us a call or send us an email. We look forward to hearing from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Every+great+seller%E2%80%99s+market+has+its+end.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.canovogroup.tv" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Every+great+seller%E2%80%99s+market+has+its+end.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>There has been a lot of discussion about the great appreciation and quick home sales we’ve been experiencing in our market lately. No one knows for sure how long this will last, but we do know that markets always shift. It has happened in the past and it will happen again.</itunes:subtitle>
-        <itunes:author>David Robinson</itunes:author>
+        <itunes:author>The Canovo Group</itunes:author>
         <itunes:summary>There has been a lot of discussion about the great appreciation and quick home sales we’ve been experiencing in our market lately. No one knows for sure how long this will last, but we do know that markets always shift. It has happened in the past and it will happen again.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>How Much Has Our Market Changed in a Year?</title>
-        <link>localhost:4000/utah-real-estate-agent-fantastic.html</link>
+        <link>http://www.canovogroup.tv/utah-real-estate-agent-fantastic.html</link>
         
           <category>Market Update</category>
         
-        <author>David Robinson</author>
+        <author>The Canovo Group</author>
         <pubDate>2016-10-11 11:50:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -319,22 +408,22 @@ We are seeing fantastic conditions for sellers right now, but how long is it goi
 If you have any questions for me or if you’re thinking about buying or selling a home, give me a call or send me an email. I look forward to hearing from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.canovogroup.tv" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>We are diving deep into the numbers today. The statistics are in for the third quarter of this year, and we’re going to compare them to the numbers we saw at the same time last year.</itunes:subtitle>
-        <itunes:author>David Robinson</itunes:author>
+        <itunes:author>The Canovo Group</itunes:author>
         <itunes:summary>We are diving deep into the numbers today. The statistics are in for the third quarter of this year, and we’re going to compare them to the numbers we saw at the same time last year.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Are Your Utah Property Tax Valuations Too High?</title>
-        <link>localhost:4000/utah-real-estate-agent-are-you-paying.html</link>
+        <link>http://www.canovogroup.tv/utah-real-estate-agent-are-you-paying.html</link>
         
           <category>Educate Yourself</category>
         
-        <author>David Robinson</author>
+        <author>The Canovo Group</author>
         <pubDate>2016-08-27 12:49:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Are+you+paying+too+much+in+property+taxes.mp4</guid>
         <description>
@@ -348,22 +437,22 @@ However, if your property tax valuation seems too high, we can help. We will do 
 If you have any questions about your property tax valuation, give us a call or send us an email. We would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Are+you+paying+too+much+in+property+taxes.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.canovogroup.tv" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Are+you+paying+too+much+in+property+taxes.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>By now, you have probably seen your property tax valuation. What happens if the property tax valuation is wrong?</itunes:subtitle>
-        <itunes:author>David Robinson</itunes:author>
+        <itunes:author>The Canovo Group</itunes:author>
         <itunes:summary>By now, you have probably seen your property tax valuation. What happens if the property tax valuation is wrong?</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Tips for Buying and Listing a Home at the Same Time</title>
-        <link>localhost:4000/utah-real-estate-agent-listing-buying.html</link>
+        <link>http://www.canovogroup.tv/utah-real-estate-agent-listing-buying.html</link>
         
           <category>Educate Yourself</category>
         
-        <author>David Robinson</author>
+        <author>The Canovo Group</author>
         <pubDate>2016-08-18 12:08:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Listing+%26+buying+a+home+at+the+same+time.mp4</guid>
         <description>
@@ -388,22 +477,22 @@ If you haven’t found a new home yet and you receive an offer on a current home
 As you can see, the process of buying and selling a home at the same time can be a little complex. Please don’t hesitate to call me with any questions you may have. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Listing+%26+buying+a+home+at+the+same+time.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.canovogroup.tv" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Listing+%26+buying+a+home+at+the+same+time.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Is it really better to find the home you plan on buying first, or should you sell your current home before you start looking at other properties?</itunes:subtitle>
-        <itunes:author>David Robinson</itunes:author>
+        <itunes:author>The Canovo Group</itunes:author>
         <itunes:summary>Is it really better to find the home you plan on buying first, or should you sell your current home before you start looking at other properties?</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Comparing the 2nd Quarter Performances of 2016 and 2015</title>
-        <link>localhost:4000/utah-real-estate-agent-utah-2nd-quarter.html</link>
+        <link>http://www.canovogroup.tv/utah-real-estate-agent-utah-2nd-quarter.html</link>
         
           <category>Market Update</category>
         
-        <author>David Robinson</author>
+        <author>The Canovo Group</author>
         <pubDate>2016-07-18 13:35:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Utah+2nd+quarter+market+update.mp4</guid>
         <description>
@@ -423,22 +512,22 @@ Home values continue to rise; the only concern is the 5% drop in the number of h
 If you have any questions about what’s going on in your area, or have friends/family looking to buy or sell a home, please reach out to me or a member of my team by phone or email. We’d love to help you out.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Utah+2nd+quarter+market+update.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.canovogroup.tv" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Utah+2nd+quarter+market+update.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>How does this year’s 2nd quarter compare to last year’s 2nd quarter? In 2015, the number of new listings that came on the market was 3,456. This year, the number of new listings is 3,631. That’s an increase in inventory of 5%. In 2015, there was a total of 2,508 homes sold.</itunes:subtitle>
-        <itunes:author>David Robinson</itunes:author>
+        <itunes:author>The Canovo Group</itunes:author>
         <itunes:summary>How does this year’s 2nd quarter compare to last year’s 2nd quarter? In 2015, the number of new listings that came on the market was 3,456. This year, the number of new listings is 3,631. That’s an increase in inventory of 5%. In 2015, there was a total of 2,508 homes sold.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>3 Home Staging Secrets for Utah Sellers</title>
-        <link>localhost:4000/utah-real-estate-agent-three-utah-home.html</link>
+        <link>http://www.canovogroup.tv/utah-real-estate-agent-three-utah-home.html</link>
         
           <category>Home Seller Tips</category>
         
-        <author>David Robinson</author>
+        <author>The Canovo Group</author>
         <pubDate>2016-06-14 16:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+3+Utah+home+staging+tips.mp4</guid>
         <description>
@@ -462,22 +551,22 @@ The point of staging your home is to make it look open, clean, and inviting to p
 If you’d like a copy of our 67-point Home Staging Checklist, please don’t hesitate to reach out to us. It’s a great time to get your home ready to sell!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+3+Utah+home+staging+tips.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.canovogroup.tv" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+3+Utah+home+staging+tips.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>The point of staging your home is to make it look open, clean, and inviting to potential buyers. You want to make your home stand apart from others on the market, and you can do this in three different ways.</itunes:subtitle>
-        <itunes:author>David Robinson</itunes:author>
+        <itunes:author>The Canovo Group</itunes:author>
         <itunes:summary>The point of staging your home is to make it look open, clean, and inviting to potential buyers. You want to make your home stand apart from others on the market, and you can do this in three different ways.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Why Should You Consider a Pre-Sale Inspection?</title>
-        <link>localhost:4000/utah-real-estate-agent-should-you.html</link>
+        <link>http://www.canovogroup.tv/utah-real-estate-agent-should-you.html</link>
         
           <category>Accurate Pricing</category>
         
-        <author>David Robinson</author>
+        <author>The Canovo Group</author>
         <pubDate>2016-05-06 14:10:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Should+you+consider+pre-sale+inspections.mp4</guid>
         <description>
@@ -495,22 +584,22 @@ By conducting a pre-sale inspection, you remove inspection-related contingencies
 If you’re thinking about buying or selling a Utah home, I’d be happy to help and answer your questions. Give me a call or send me an email at your earliest convenience!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Should+you+consider+pre-sale+inspections.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.canovogroup.tv" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Should+you+consider+pre-sale+inspections.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Are pre-sale inspections a good idea or a bad idea? Can they help you save money? What’s the deal?</itunes:subtitle>
-        <itunes:author>David Robinson</itunes:author>
+        <itunes:author>The Canovo Group</itunes:author>
         <itunes:summary>Are pre-sale inspections a good idea or a bad idea? Can they help you save money? What’s the deal?</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Heres How the Market Has Changed in Just a Year</title>
-        <link>localhost:4000/utah-real-estate-agent-great-changes.html</link>
+        <link>http://www.canovogroup.tv/utah-real-estate-agent-great-changes.html</link>
         
           <category>Market Update</category>
         
-        <author>David Robinson</author>
+        <author>The Canovo Group</author>
         <pubDate>2016-04-26 15:33:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Great+changes+we%E2%80%99re+seeing+in+the+market.mp4</guid>
         <description>
@@ -530,22 +619,22 @@ There you have it. As you can see, we’re in a great market for buyers or selle
 If you have any questions for us, or you’re thinking about buying or selling, give us a call or send us an email. We would love to hear from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Great+changes+we%E2%80%99re+seeing+in+the+market.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.canovogroup.tv" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Great+changes+we%E2%80%99re+seeing+in+the+market.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Today we’re going to be talking about what’s been going on in the Wasatch Front market since this time last year. There’s been a lot of changes, and a lot of positive changes at that.</itunes:subtitle>
-        <itunes:author>David Robinson</itunes:author>
+        <itunes:author>The Canovo Group</itunes:author>
         <itunes:summary>Today we’re going to be talking about what’s been going on in the Wasatch Front market since this time last year. There’s been a lot of changes, and a lot of positive changes at that.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Why Do You Need a Preliminary Title Report to Sell in Utah?</title>
-        <link>localhost:4000/utah-real-estate-agent-stop-real-estate.html</link>
+        <link>http://www.canovogroup.tv/utah-real-estate-agent-stop-real-estate.html</link>
         
           <category>Preliminary Title Report</category>
         
-        <author>David Robinson</author>
+        <author>The Canovo Group</author>
         <pubDate>2016-04-05 11:27:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Stop+a+real+estate+disaster.mp4</guid>
         <description>
@@ -561,22 +650,22 @@ If you’re thinking of selling your home, please contact us. We know a lot of g
 We look forward to hearing from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Stop+a+real+estate+disaster.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.canovogroup.tv" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Stop+a+real+estate+disaster.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Today I’m going to talk about why it’s important to get a preliminary title report when you’re selling a home in Utah. This issue doesn’t come into play extremely often, but when it does, it can be disastrous for your home sale.</itunes:subtitle>
-        <itunes:author>David Robinson</itunes:author>
+        <itunes:author>The Canovo Group</itunes:author>
         <itunes:summary>Today I’m going to talk about why it’s important to get a preliminary title report when you’re selling a home in Utah. This issue doesn’t come into play extremely often, but when it does, it can be disastrous for your home sale.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Whats the Secret to Finding the True Value of Your Utah Home? </title>
-        <link>localhost:4000/utah-real-estate-agent-do-your-homework.html</link>
+        <link>http://www.canovogroup.tv/utah-real-estate-agent-do-your-homework.html</link>
         
           <category>Educate Yourself</category>
         
-        <author>David Robinson</author>
+        <author>The Canovo Group</author>
         <pubDate>2016-03-31 10:20:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -596,22 +685,22 @@ We’re going to do our due diligence and take some time to really make sure tha
 If you have any questions about this topic or about real estate in general, please don’t hesitate to reach out to us. We would love to hear from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.canovogroup.tv" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>When determining the sales price for your Utah home, it’s crucial to do your homework. Many agents in our market today don’t take the time and effort that they should in helping their clients determine the proper sales price for their home.</itunes:subtitle>
-        <itunes:author>David Robinson</itunes:author>
+        <itunes:author>The Canovo Group</itunes:author>
         <itunes:summary>When determining the sales price for your Utah home, it’s crucial to do your homework. Many agents in our market today don’t take the time and effort that they should in helping their clients determine the proper sales price for their home.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Don't Rely on Third Party Data When Pricing Your Home for Sale</title>
-        <link>localhost:4000/utah-real-estate-agent-dont-rely-on.html</link>
+        <link>http://www.canovogroup.tv/utah-real-estate-agent-dont-rely-on.html</link>
         
           <category>Accurate Pricing</category>
         
-        <author>David Robinson</author>
+        <author>The Canovo Group</author>
         <pubDate>2016-02-03 15:27:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Don%27t+rely+on+Third+Party+Data+when+Pricing+Your+Home+for+Sale.mp4</guid>
         <description>
@@ -629,22 +718,22 @@ What you really need to price your home correctly is a great agent who knows wha
 If you have any questions for us, don’t hesitate to give us a call or send us an email. We would love to hear from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Don%27t+rely+on+Third+Party+Data+when+Pricing+Your+Home+for+Sale.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.canovogroup.tv" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Don%27t+rely+on+Third+Party+Data+when+Pricing+Your+Home+for+Sale.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Today we are talking about our third tip to sell your home faster and for more money. Today we are talking about one of the most important aspects of your home sale, home pricing.</itunes:subtitle>
-        <itunes:author>David Robinson</itunes:author>
+        <itunes:author>The Canovo Group</itunes:author>
         <itunes:summary>Today we are talking about our third tip to sell your home faster and for more money. Today we are talking about one of the most important aspects of your home sale, home pricing.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Expert Tip for Utah Home Sellers</title>
-        <link>localhost:4000/utah-real-estate-agent-why-keep-secrets.html</link>
+        <link>http://www.canovogroup.tv/utah-real-estate-agent-why-keep-secrets.html</link>
         
           <category>Confidential Selling</category>
         
-        <author>David Robinson</author>
+        <author>The Canovo Group</author>
         <pubDate>2016-02-03 15:01:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Why+Keep+secrets+when+selling.mp4</guid>
         <description>
@@ -660,18 +749,18 @@ You’re better off keeping your reason for selling confidential. Only speak abo
 If you need any other assistance when buying or selling, please don’t hesitate to contact me!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Why+Keep+secrets+when+selling.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.canovogroup.tv" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Why+Keep+secrets+when+selling.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Today I have another home selling tip for you, and it has to do with keeping your motivation for selling under wraps. If a buyer knows why you’re selling, they can use that against you.</itunes:subtitle>
-        <itunes:author>David Robinson</itunes:author>
+        <itunes:author>The Canovo Group</itunes:author>
         <itunes:summary>Today I have another home selling tip for you, and it has to do with keeping your motivation for selling under wraps. If a buyer knows why you’re selling, they can use that against you.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
-    <copyright>David Robinson</copyright>
-    <media:credit role="author">David Robinson</media:credit>
+    <copyright>The Canovo Group</copyright>
+    <media:credit role="author">The Canovo Group</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Canovo Group - your professional Utah Valley Real Estate Agents.</media:description>
+    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Canovo Group - your professional  Real Estate Agents.</media:description>
   </channel>
 </rss>
