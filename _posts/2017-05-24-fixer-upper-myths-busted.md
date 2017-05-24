@@ -5,7 +5,7 @@ tags:
   - Real Estate
   - Buyer Tips
 excerpt: Is buying a fixer upper worth your time and money? Here are a few ways to figure that out.
-enclosure: '<iframe width="560" height="315" src="https://www.youtube.com/embed/FySGb9LaQwk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>'
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Greater+Toronto+Group/Greater+Toronto+Group+Are+fixer+uppers+worth+it.mp4'
 pullquote: Examining fixer uppers as investments
 enclosure_type: video/mp4
 enclosure_time:
