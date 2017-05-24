@@ -16,11 +16,11 @@ youtube_code: ST0zF9-Nw1o
 
 {% include youtube.html %}
 
-When you’re getting geared up to purchase a home, it’s important that you are represented by an agent. This agent could represent you as either a customer or a client. **The agent you want is the one who will represent you as a client.**
+When you’re gearing up to purchase a home, it’s important that you are represented by an agent. This agent could represent you as either a customer or a client. **The agent you want is the one who will represent you as a client.**
 
 When you’re a client, the agent has your best interests at heart. They aren’t just looking at you as a number or someone they can provide a service for; they want to share their opinion, their expertise, and guide you through the process step by step.
 
-Always make sure your agent is included in the transaction. What I mean is that sometimes buyers will go look at homes without their agent and jump the gun, so to speak. They will make an offer or write a contract with the seller’s agent and totally forget about the agent working on their behalf.
+Always make sure your agent is included in the transaction. Sometimes buyers will go look at homes without their agent and jump the gun, so to speak. They will make an offer or write a contract with the seller’s agent and totally forget about the agent working on their behalf.
 
 {% include pullquote.html %}
 
