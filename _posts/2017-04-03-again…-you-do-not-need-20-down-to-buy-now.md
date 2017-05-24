@@ -11,7 +11,7 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/4-3.jpg
 youtube_code:
 date: 2017-04-03 00:00:00
@@ -26,11 +26,11 @@ The survey revealed that consumers overestimate the down payment funds needed to
 
 Many renters may actually be able to enter the housing market sooner than they ever imagined with new programs that have emerged allowing less cash out of pocket.
 
-2. FICO&reg; Scores
+1. FICO® Scores
 
-The survey also revealed that 62% of respondents believe they need excellent credit to buy a home, with 43% thinking a “good credit score” is over 780. In actuality, the average FICO&reg; scores of approved conventional and FHA mortgages are much lower.
+The survey also revealed that 62% of respondents believe they need excellent credit to buy a home, with 43% thinking a “good credit score” is over 780. In actuality, the average FICO® scores of approved conventional and FHA mortgages are much lower.
 
-The average conventional loan closed in February had a credit score of 752, while FHA mortgages closed with a score of 686. The average across all loans closed in February was 720. The chart below shows the distribution of FICO&reg; Scores for all loans approved in February.
+The average conventional loan closed in February had a credit score of 752, while FHA mortgages closed with a score of 686. The average across all loans closed in February was 720. The chart below shows the distribution of FICO® Scores for all loans approved in February.
 
 Bottom Line
 
