@@ -27,4 +27,4 @@ Gary is a respected artist who approaches his craft with the same heart and pass
 
 **It is always our goal to make your transaction a smooth one. That’s why we guarantee to sell your home**. If we can’t sell your home, we will buy it instead.
 
-Please check out the video above for the full video. If you have any real estate questions, give me a call or send me an email. I would be happy to help you!
+Please check out the video above for the full endorsement. If you have any real estate questions, give me a call or send me an email. I would be happy to help you!
