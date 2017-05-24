@@ -25,6 +25,6 @@ Fixer upper homes can represent a great opportunity for you to buy a home for le
 <br>
 <br>If you’re wondering whether a fixer upper fits your personal or financial needs, you’ll be happy to know that we have a free report from industry experts titled “Fixer Uppers: Myths and Facts” that we would be happy to send out to you.
 <br>
-<br>**This report dispels the five most commonly held myths surrounding fixer upper homes in Toronto.** It also includes a simple financial formula that will help you estimate your profit and savings by going this route. To order the report, [follow this link](http://www.greatertorontogroup.com/info/fixer-uppers-myths-and-facts).
+<br>**This report dispels the five most commonly held myths surrounding fixer upper homes in Toronto.** It also includes a simple financial formula that will help you estimate your profit and savings by going this route. To order the report,&nbsp;[follow this link.](http://www.greatertorontogroup.com/info/fixer-uppers-myths-and-facts)
 <br>
 <br>If you have any other questions for us in the meantime, don’t hesitate to give us a call or send us an email. We look forward to hearing from you.
