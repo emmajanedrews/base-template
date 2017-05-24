@@ -17,9 +17,6 @@ youtube_code:
 date: 2017-04-03 00:00:00
 ---
 
-
-![](/uploads/versions/4-3-gresh-image-for-text-post---x0-0-750-410-750-410x---.jpg)
-
 A survey by Ipsos found that the American public is still somewhat confused about what is required to qualify for a home mortgage loan in today’s housing market. There are two major misconceptions that we want to address today.
 
 1. **Down Payment**
@@ -27,6 +24,11 @@ A survey by Ipsos found that the American public is still somewhat confused abou
 The survey revealed that consumers overestimate the down payment funds needed to qualify for a home loan. According to the report, 40% of consumers think a 20% down payment is always required. In actuality, there are many loans written with a down payment of 3% or less.
 
 Many renters may actually be able to enter the housing market sooner than they ever imagined with new programs that have emerged allowing less cash out of pocket.
+
+
+
+![](/uploads/versions/4-3-gresh-image-for-text-post---x0-0-750-410-750-410x---.jpg)
+
 
 1. **FICO&reg; Scores**
 
