@@ -18,7 +18,9 @@ date: 2017-04-03 00:00:00
 ---
 
 
-A survey by Ipsos found that the American public is still somewhat confused about what is required to qualify for a home mortgage loan in today’s housing market. There are two major misconceptions that we want to address today.![](/uploads/versions/4-3-gresh-image-for-text-post---x0-0-750-410-750-410x---.jpg)
+![](/uploads/versions/4-3-gresh-image-for-text-post---x0-0-750-410-750-410x---.jpg)
+
+A survey by Ipsos found that the American public is still somewhat confused about what is required to qualify for a home mortgage loan in today’s housing market. There are two major misconceptions that we want to address today.
 
 1. **Down Payment**
 
