@@ -15,7 +15,7 @@ youtube_code: em48Wjy_nC8
 ---
 
 
-{{ include youtube.html }}
+{ include youtube.html }
 
 Here are a few things you should avoid if you’re preparing your home for sale this summer:
 <br>
