@@ -66,16 +66,16 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/JohnMeulsteeRealEstate/
+  linkedin_url: https://www.linkedin.com/in/john-meulstee-0705435/
   gplus_url:
   youtube_url:
   twitter_url:
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
+  zillow_url: https://www.zillow.com/profile/John-Meulstee/
+  trulia_url: https://www.trulia.com/profile/john-meulstee-agent-doylestown-township-pa-zg8xb86m/overview
+  yelp_url: https://www.yelp.com/biz/john-meulstee-home-selling-team-doylestown
   podcast_url:
 
 podcast:
