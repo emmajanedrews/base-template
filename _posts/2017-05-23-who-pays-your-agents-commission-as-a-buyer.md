@@ -5,7 +5,7 @@ date: 2017-05-23 11:40:00
 tags:
   - Home Buyer Tips
 excerpt: 'When you work with a buyer’s agent, do you have to pay them commission?'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+The+cost+of+hiring+an+agent.mp4'
 pullquote: The seller pays the commission for the buyer’s agent.
 enclosure_type: video/mp4
 enclosure_time:
