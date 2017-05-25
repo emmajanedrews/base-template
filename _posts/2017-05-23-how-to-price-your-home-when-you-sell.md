@@ -1,11 +1,11 @@
 ---
 layout: post
 title: How to Price Your Home When You Sell
-date: 2017-05-23 16:22:01
+date: 2017-05-23 16:22:00
 tags:
   - Home Seller Tips
 excerpt: Pricing your home is one of the most important factors in selling it. This is how we determine what a property could sell for.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Jason+Wilson/Woodstock%252C+GA+Real+Estate+Agent-+How+to+determine+your+home%2527s+market+value.mp4'
 pullquote: "Numbers are unemotional and they don't lie."
 enclosure_type: video/mp4
 enclosure_time:
