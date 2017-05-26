@@ -24,11 +24,10 @@ Instead, focus on repairs that you might have neglected over the years. Take a w
 **It’s a really good idea to have a schedule for repairs.** If you leave unlimited time to the work done, then you will probably take that time.
 
 Next, you need to depersonalize and declutter your home. The goal is to make your house look like you don’t live there. Take down personal photos so that people can picture themselves and their family in your home.
-<br>
 <br>{% include pullquote.html %}
 
 Take a look at your decor. Remember, the decor that’s appealing to you may not appeal to everyone, so consider packing some things up. Clear off your kitchen and bathroom counters and consider putting away your winter or summer clothes. Even a big closet can feel small if there are a lot of clothes in there. You have to pack anyway, so save yourself some time and put certain items away now.
 
 **Finally, clean your house from top to bottom.** This is the most important part of preparing your house for the market. Pay attention to the kitchen and the bathrooms, and make sure that your windows are crystal clear.
 
-Many people think they can handle cleaning on their own, but it can be well worth the money to hire a professional cleaning service. Hiring a professional also takes some of the stress out of those last-minute preparations.
+Many people think they can handle cleaning on their own, but it can be well worth the money to hire a professional cleaning service. Hiring a professional also takes some of the stress out of those last-minute preparations.&nbsp;
