@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Do I Predict for Our Market in the Coming Months?
-date: 2017-05-23 16:44:31
+date: 2017-05-23 16:44:00
 tags:
   - Market Update
 excerpt: A lot of people have been asking me what’s going to happen in our market for the rest of 2017. I have my predictions to share with you.
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: UA6n9Qs0Y_Y
+youtube_code: GreO52gCtGw
 ---
 
 
