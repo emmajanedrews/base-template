@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Things You Should Avoid When Preparing Your Home for Sale
-date: 2017-05-25 16:48:13
+date: 2017-05-25 16:48:00
 tags:
   - Home Seller Tips
 excerpt: There are five things you should avoid when preparing your home for sale.
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: em48Wjy_nC8
+youtube_code: nCGaaYrU834
 ---
 
 
@@ -19,7 +19,7 @@ youtube_code: em48Wjy_nC8
 
 Here are a few things you should avoid if you’re preparing your home for sale this summer:
 <br>
-<br>**1. Wallpaper:&nbsp;**If you have a 15- or 20-year-old home, it was probably originally a model by the builder and has a lot of wallpaper. This is unfortunate because wallpaper is out of fashion right now. Don’t replace any wallpaper you have. If you have to make any repairs, I recommend you remove it instead.
+<br>**1. Wallpaper:**If you have a 15- or 20-year-old home, it was probably originally a model by the builder and has a lot of wallpaper. This is unfortunate because wallpaper is out of fashion right now. Don’t replace any wallpaper you have. If you have to make any repairs, I recommend you remove it instead.
 <br>
 <br>**2. Lavish light fixtures:** Big, ornate light fixtures act as detractors for your home. You’re better off replacing them with a light fixture that’s more simply designed.
 
