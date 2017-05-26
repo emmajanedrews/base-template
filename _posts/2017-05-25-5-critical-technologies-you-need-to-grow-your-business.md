@@ -27,7 +27,7 @@ As an agent, I’m a big advocate of not getting distracted by shiny objects. Th
 <br>
 <br>**4. A call recording and tracking system.** It’s important that you track your business as you grow it so you can decide what’s worth spending money on and what’s not. A call recording and tracking system can help you improve quality control for training purposes and ensure that your team members treat your clients in the most effective and personable way possible. It can also track where you’re getting your leads from.
 <br>
-<br>**5. A business tracking system.** There are all kinds of business tracking systems out there in the real estate world, but something on an excel spreadsheet works as well as anything. Make sure that every lead source that brings a prospect into your world has a tracking code on it and every appointment that’s set contains that tracking code. At the end of that month, do a reconciliation to figure out where your business is coming from and what the return on each of those advertising investments has been.
+<br>**5. A business tracking system.** There are all kinds of business tracking systems out there in the real estate world, but something on an Excel spreadsheet works as well as anything. Make sure that every lead source that brings a prospect into your world has a tracking code on it and every appointment that’s set contains that tracking code. At the end of that month, do a reconciliation to figure out where your business is coming from and what the return on each of those advertising investments has been.
 
 {% include pullquote.html %}
 
