@@ -17,7 +17,7 @@ youtube_code: igMTjB6kG0Y
 
 {% include youtube.html %}What do you need to do to get your house ready for sale? I believe that you should pay most of your attention to repairs, decluttering and depersonalizing, and cleaning your house from top to bottom.
 
-When it comes to repairs, a lot of people aren’t sure where to start. Should you remodel the bathroom? Put in hardwood floors? Add granite countertops? The answer** really depends on the price range of your house.&nbsp;**If it’s going to cost you more money to make those repairs than what you’re going to get back, then it’s not worth it.
+When it comes to repairs, a lot of people aren’t sure where to start. Should you remodel the bathroom? Put in hardwood floors? Add granite countertops? The answer\*\* really depends on the price range of your house. \*\*If it’s going to cost you more money to make those repairs than what you’re going to get back, then it’s not worth it.
 
 Instead, focus on repairs that you might have neglected over the years. Take a walk around the outside and inside of your house. If you have stained carpeting, replace it. If the walls are scratched, consider painting. Keep a list of everything you need to do and start early so that if you need any help, you have plenty of time to hire someone.
 
