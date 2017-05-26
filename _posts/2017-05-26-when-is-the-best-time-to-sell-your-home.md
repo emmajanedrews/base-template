@@ -1,11 +1,11 @@
 ---
 layout: post
 title: When Is the Best Time to Sell Your Home?
-date: 2017-05-26 11:36:27
+date: 2017-05-26 11:36:00
 tags:
   - Home Seller Tips
 excerpt: 'I was just talking to a seller the other day who said, “I was thinking about timing. I want to sell my home this summer; can I be on the market in a couple of weeks or should I wait until the end of next month?”'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Timing%2520the%2520real%2520estate%2520market.mp4'
 pullquote: There is absolutely no reason to wait to sell your home.
 enclosure_type: video/mp4
 enclosure_time:
