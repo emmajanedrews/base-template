@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How You Can Get the Home You Want in Our Portland Market
-date:
+date: 2017-05-26 13:44:06
 tags:
   - Home Buyer Tips
 excerpt: 'Buyers are having a tough time in our market right now, but there are a few tips and strategies you can use to get the home you want.'
