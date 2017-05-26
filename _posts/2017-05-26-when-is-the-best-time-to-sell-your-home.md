@@ -21,7 +21,7 @@ I was just talking to a seller the other day who said, “I was thinking about t
 <br>
 <br>In short, when is the best time to sell your home?&nbsp;
 <br>
-<br>In a market with low inventory like ours, the best time to sell is actually right now. Technically, the best time to sell your home was yesterday.
+<br>In a market with low inventory like ours, **the best time to sell is actually right now.** Technically, the best time to sell your home was yesterday.
 <br>
 <br>In a low inventory market, you don’t have as much competition. In fact, your neighbor can put their house on the market, price their house wrong, and kind of mess things up for your sale if you wait too long.
 <br>
@@ -29,6 +29,6 @@ I was just talking to a seller the other day who said, “I was thinking about t
 
 {% include pullquote.html %}
 
-If you want to get your house on the market as quickly as possible, you are not alone. Everyone wants to get their home on the market, so we may see an influx of other properties coming on the market as time goes on. Low inventory situations like ours can change very quickly.&nbsp;
+If you want to get your house on the market as quickly as possible, you are not alone. Everyone wants to get their home on the market, so we may see an influx of other properties coming on the market as time goes on. **Low inventory situations like ours can change very quickly.&nbsp;**
 <br>
 <br>So, the best time to sell in a low inventory market is right now. Don’t wait. If you have any questions about getting your house on the market, just give me a call or send me an email. I would be happy to help you!
