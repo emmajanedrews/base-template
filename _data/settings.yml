@@ -8,9 +8,8 @@ custom_links:
 client:
   name: Jesse Myles
   license_number: 555916
-  about_markdown: |
-    The Myles Group is comprised of a team of local real estate professionals committed to selling some of the most desired homes in Greater Harker Heights. Selling these "right addresses" is the mission of The Myles Group. Let us know what you're looking for. Please take advantage of the helpful tools on this website, including our exclusive Greater Harker Heights Real Estate search, but also feel free to contact us personally.
-  market: Austin
+  about_markdown: "The Myles Group is comprised of a team of local real estate professionals committed to selling some of the most desired homes in Greater Harker Heights. Selling these \"right addresses\" is the mission of The Myles Group. Let us know what you're looking for. Please take advantage of the helpful tools on this website, including our exclusive Greater Harker Heights Real Estate search, but also feel free to contact us personally."
+  market: Greater Harker Heights
   brand: The Myles Group
   brokerage: Keller Williams
   address: '12535 Research Blvd<br>Austin Tx, 76759'
@@ -25,7 +24,7 @@ CTAs:
   first_CTA_URL: 'https://www.backatyou.com/home-value/C18CFDE3-2B6B-4F79-88A5-14CCB0D3EA72?r=baygcb_fb_5720'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://www.themylesgroup.net/results-map/?sort=importdate&status=A&swlat=30.234771697852793&swlng=-98.26135228417968&nelat=30.626710567328356&nelng=-97.2629697158203&midlat=30.430938&midlng=-97.76216099999999&zoom=11'
-  VR_form: http://oi.vresp.com?fid=bfc28e12a5
+  VR_form: 'http://oi.vresp.com?fid=bfc28e12a5'
 sidebar_CTA:
   CTA_image_path: /img/cta-images/004.jpg
   CTA_title: Looking to Buy a Home?
@@ -44,9 +43,9 @@ socials:
   review_sm_icons: false
   facebook_url: 'https://www.facebook.com/mylesgroup/'
   linkedin_url: 'https://www.linkedin.com/in/jesse-myles-3653b645/'
-  gplus_url: https://plus.google.com/107282079909342522356
-  youtube_url: https://www.youtube.com/channel/UC_ijOhQ7aWRH6GqL1a-G5Dg
-  twitter_url: https://twitter.com/TheMyles_Group
+  gplus_url: 'https://plus.google.com/107282079909342522356'
+  youtube_url: 'https://www.youtube.com/channel/UC_ijOhQ7aWRH6GqL1a-G5Dg'
+  twitter_url: 'https://twitter.com/TheMyles_Group'
   instagram_url:
   pinterest_url:
   zillow_url: 'http://www.zillow.com/profile/Jesse-Myles9/'
@@ -55,7 +54,8 @@ socials:
   podcast_url: 'https://itunes.apple.com/us/podcast/austin-real-estate-podcast-with-jesse-myles/id1215430468?mt=2'
 podcast:
   title: Austin Real Estate Podcast with Jesse Myles
-  categories: Education
+  categories:
+    - Education
   image: /img/podcast.png
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
