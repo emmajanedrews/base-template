@@ -14,10 +14,8 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: NOcl17HIa7c
-date: 2017-05-29 00:00:00
+date: 2017-05-29 12:21:00
 ---
 
 
 {% include youtube.html %}
-
-{% include pullquote.html %}
