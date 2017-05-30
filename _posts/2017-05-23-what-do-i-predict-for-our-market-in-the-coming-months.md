@@ -5,7 +5,7 @@ date: 2017-05-23 16:44:00
 tags:
   - Market Update
 excerpt: A lot of people have been asking me what’s going to happen in our market for the rest of 2017. I have my predictions to share with you.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Andrew+Ford/Utah+Real+Estate+Agent-+Real+estate+market+predictions.mp4'
 pullquote: The best homes are going under contract within a week.
 enclosure_type: video/mp4
 enclosure_time:
