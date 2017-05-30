@@ -3,7 +3,7 @@ layout: post
 title: How Do We Set Our Homes Apart?
 tags:
   - Home Seller Tips
-excerpt: 'The Northern Virginia real estate market is heating up. Homes are selling faster on average, and that’s certainly true of our listings. We are currently using a technique to get all of our listings on the first page of search results on Google for more than 50 different terms. To learn how we are using the power of Google search to help our sellers expedite their sales, watch this short video.'
+excerpt: Our market is heating up quickly. We’re helping our sellers sell in record time with the use of a new technique.
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Ernie+Dill/Northern+Virginia+Real+Estate+Team+Selling+homes+with+the+power+of+Google.mp4'
 pullquote: We ensure properties show up on the first page of results.
 enclosure_type: video/mp4
