@@ -19,7 +19,7 @@ youtube_code: NxvghZMuYhQ
 
 Trying to buy a home in a seller's market can be difficult, especially when available listings receive multiple offers.
 <br>
-<br>The Simi Valley market is red hot for sellers right now, leaving many buyers wondering if it's even worth it to try and submit an offer on a home. When inventory is low like here, it's common for sellers to receive as many as 10 offers for their home. This can make it seem intimidating, but it's almost always worth it to submit your offer.
+<br>Our current real estate market is red hot for sellers right now, leaving many buyers wondering if it's even worth it to try and submit an offer on a home. When inventory is low like here, it's common for sellers to receive as many as 10 offers for their home. This can make it seem intimidating, but it's almost always worth it to submit your offer.
 <br>
 <br>To make sure your offer outshines the rest, use these tips:
 <br>
