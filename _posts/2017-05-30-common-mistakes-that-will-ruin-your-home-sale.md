@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Common Mistakes That Will Ruin Your Home Sale
-date:
+date: 2017-05-30 10:37:14
 tags:
   - Home Seller Tips
 excerpt: 'Home selling mistakes are common, but easy to avoid. Here’s what to watch out for.'
@@ -26,8 +26,8 @@ Another big one is ignoring small flaws throughout the home. Even though you may
 {% include pullquote.html %}
 
 Excess clutter is another huge no-no. You want to create a blank slate for buyers with minimal furniture and decorations. Decluttering helps buyers envision themselves and their stuff in your home.
-<br>&nbsp;
-<br>Finally, you need to avoid joining ranks with the wrong Realtor. You need someone who is passionate about selling your home, will work hard to get the job done, and have good communication with you throughout the process. **If your Realtor isn’t answering your calls or texts right away, you might want to look for someone new.**&nbsp;
-<br>&nbsp;
+<br>
+<br>Finally, you need to avoid joining ranks with the wrong Realtor. You need someone who is passionate about selling your home, will work hard to get the job done, and have good communication with you throughout the process. **If your Realtor isn’t answering your calls or texts right away, you might want to look for someone new.**
+<br>
 <br>If you have any questions for us about selling your home or if you want to know what we can do differently to get you the results you want, give us a call or send us an email. We look forward to hearing from you soon.
-<br>&nbsp;
+<br>
