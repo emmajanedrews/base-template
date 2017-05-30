@@ -1,7 +1,7 @@
 ---
 youtube_code: xG8EGeTmbXU
-excerpt: Getting homeowners insurance can only help you in the long run, but knowing what plan works best for you depends on a few important factors we’ll discuss today.
-enclosure:
+excerpt: 'Getting homeowners insurance can only help you in the long run, but knowing what plan works best for you depends on a few important factors we’ll discuss today.'
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/Old+Videos/The+Meat+and+Potatoes+of+Homeowners+Insurance+%2528Part+1%2529-+Charleston+Real+Estate+Agent.mp4'
 pullquote: Lowcountry residents need to be mindful of deductibles.
 enclosure_type: video/mp4
 enclosure_time:
@@ -9,17 +9,17 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: The Meat and Potatoes of Homeowners Insurance
-date: '2016-12-02T12:35:00.001-08:00'
+date: 2016-12-02 20:35:00
 author: Vyral Admin
 tags:
-- Real Estate Tips
-modified_time: '2016-12-02T12:40:05.154-08:00'
-thumbnail: https://img.youtube.com/vi/xG8EGeTmbXU/default.jpg
-blogger_id: tag:blogger.com,1999:blog-7848340592101578541.post-2515026351864699530
-blogger_orig_url: http://www.davefriedmantv.com/2016/12/getting-homeowners-insurance-can-only.html
+modified_time:
+thumbnail: 'https://img.youtube.com/vi/xG8EGeTmbXU/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-7848340592101578541.post-2515026351864699530'
+blogger_orig_url: 'http://www.davefriedmantv.com/2016/12/getting-homeowners-insurance-can-only.html'
 ---
-{% include youtube.html %}
-As we all know, weather isn’t exactly predictable. That’s why, as a homeowner, it’s absolutely necessary that you have an insurance plan in place that will protect you and your property in the long run. Insurance agents provide an invisible safety net that saves you money and time down the line.
+
+
+{% include youtube.html %}As we all know, weather isn’t exactly predictable. That’s why, as a homeowner, it’s absolutely necessary that you have an insurance plan in place that will protect you and your property in the long run. Insurance agents provide an invisible safety net that saves you money and time down the line.
 
 With that in mind, today we’re joined by Mark Allen from 1st Capital Insurance to explain the basics of what sort of insurance plans you should investigate and the typical costs of obtaining them.
 
