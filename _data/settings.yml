@@ -5,6 +5,10 @@ show_custom_links: true
 custom_links:
   - title: Featured Listings
     url: 'http://www.themylesgroup.net/results-gallery/?userID=all'
+  - title: Brokerage Services Information
+    url: 'http://vyralmarketing.s3.amazonaws.com/Jesse%20Myles/IABS%201-0%20FILLED%20IN-%20AAC.pdf'
+  - title: Consumer Protection Notice
+    url: 'http://vyralmarketing.s3.amazonaws.com/Jesse%20Myles/Consumer%20Protection.pdf'
 client:
   name: Jesse Myles
   license_number: 555916
