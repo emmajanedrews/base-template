@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Cornerstone Capital Advisors - your professional Corporate 401K Planning Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Mario Giganti</managingEditor>
-    <lastBuildDate>2017-05-17 10:03:43 -0500</lastBuildDate>
+    <lastBuildDate>2017-05-30 09:24:52 -0500</lastBuildDate>
     <media:copyright>Mario Giganti</media:copyright>
     <media:thumbnail url="http://i.imgur.com/YVy7X4T.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Corporate 401K Planning, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -25,88 +25,35 @@
       <itunes:category text="Education"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>localhost:4000/this-is-a-test-post.html</link>
-        
-          <category>Retirement Plans</category>
+        <title>Are Your Employees on Track to Retire?</title>
+        <link>localhost:4000/are-your-employees-on-track-to-retire.html</link>
         
         <author>Mario Giganti</author>
-        <pubDate>2016-10-04 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2017-05-08 19:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Mario+Giganti/Helping+Your+Clients+Meet+Their+Retirement+Goals-1.mp4</guid>
         <description>
 
-}
+Imagine you’re getting ready to go on a great vacation and you’re standing at the gate at the Cleveland Hopkins International Airport. All of the sudden, the gate agents says. “Ladies and gentleman, the captain would like to inform you that there is an 85% chance that this flight will not make it to your destination.” Are you going to get on that flight? Of course not!
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+In my many years as a 401(k) advisor, I’ve learned that 85% of employees won’t meet their retirement savings goals. I would like to share proven strategies that will help your employees meet their retirement goals, which are detailed in my new book, “The Retirement Bullseye.”
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+“85% of employees won’t meet their retirement savings goals.”
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+This video series is going to be all about my book and my strategies to getting your employees to reach their retirement goals. If you’d like to get started right away, you can get a free copy of my book by clicking here. Otherwise, over the next year, I’ll be sending you a couple videos a month that will detail how to ensure your employees get that paycheck for life.
 
-“This is an example of a pull quote”
+The videos will be short and informative and will cover topics relating to your employee’s retirement. For example, in 2006 the Pension Protection Act was passed. This encourages you as an employer to follow specific ways to add automatic features to your retirement plan design.  By taking advantage of automatic features, you can help your employees save more money now, invest wisely, and retire on time with enough money to create a paycheck for life.
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+If you’d like to hear more, stay tuned!
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+In the meantime, if you have any questions or comments, please send me an email. I look forward to hearing from you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Mario+Giganti/Helping+Your+Clients+Meet+Their+Retirement+Goals-1.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Mario+Giganti/Helping+Your+Clients+Meet+Their+Retirement+Goals-1.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>Welcome to my new video series all about helping your employees meet their retirement goals.</itunes:subtitle>
         <itunes:author>Mario Giganti</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Corporate 401K Planning, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-      </item>
-      
-      <item>
-        <title>A Fox in Space</title>
-        <link>localhost:4000/a-fox-in-space.html</link>
-        
-          <category>401k</category>
-        
-        <author>Mario Giganti</author>
-        <pubDate>2016-09-28 00:00:00 -0500</pubDate>
-        <guid></guid>
-        <description>
-
-}
-
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
-
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
-
-
-  list item
-  list item
-  list item
-  list item
-  list item
-
-
-
-  list item
-  list item
-  list item
-  list item
-  list item
-
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
-</description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
-        <itunes:author>Mario Giganti</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>Welcome to my new video series all about helping your employees meet their retirement goals.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Corporate 401K Planning, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
