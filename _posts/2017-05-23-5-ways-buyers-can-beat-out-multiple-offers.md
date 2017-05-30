@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 5 Tips for Beating the Competition for the Home You Want
-date: 2017-05-23 14:53:20
+title: 5 Ways Buyers Can Beat Out Multiple Offers
+date: 2017-05-23 14:53:00
 tags:
   - Home Buyer Tips
 excerpt: "It's tough to buy a home here in the Simi Valley market, especially when the home you want receives multiple offers. These five tips will make your offer stand out amongst the competition."
@@ -10,19 +10,19 @@ pullquote: Giving the seller just a couple extra days to move after close goes a
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/no-pb-13.jpg
+youtube_alternate_image: /uploads/no-pb-34.jpg
 youtube_code: NxvghZMuYhQ
 ---
 
 
 {% include youtube.html %}
 
-Trying to buy a home in a seller's market can be difficult, especially when available listings receive multiple offers.&nbsp;
-<br>&nbsp;
+Trying to buy a home in a seller's market can be difficult, especially when available listings receive multiple offers.
+<br>
 <br>The Simi Valley market is red hot for sellers right now, leaving many buyers wondering if it's even worth it to try and submit an offer on a home. When inventory is low like here, it's common for sellers to receive as many as 10 offers for their home. This can make it seem intimidating, but it's almost always worth it to submit your offer.
-<br>&nbsp;
+<br>
 <br>To make sure your offer outshines the rest, use these tips:
-<br>&nbsp;
+<br>
 <br>**1. Submit a large earnest money deposit:** Sometimes deals fall apart and escrow blows up, and sellers worry about this. They worry that a buyer might cancel the contract or default on it. Your earnest money deposit stays in escrow during the transaction and goes toward your down payment, so putting a larger amount into escrow shows sellers that you're serious and committed and gives them peace of mind. It's just a little extra money you have to put into escrow, but it speaks volumes to the seller.
 
 **2. Send the seller your pre-approval letter:** First, talk to your lender and make sure you're pre-approved—not pre-qualified—for financing and that they write it in a letter you can submit with your offer. This is absolutely critical in our market and shows sellers that you're a strong buyer.
