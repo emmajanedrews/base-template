@@ -25,6 +25,7 @@ Today we’ve got a quick recap of the first quarter here in the Ft. Worth marke
 
 {% include pullquote.html %}
 <br>&nbsp;
-<br>Even though the number of sold properties decreased year over year, that number increased every month in the first quarter of 2017. That’s why **now is such a great time to sell your house****.** If you hire the right real estate agent, they will price your home accurately so that only qualified buyers come to view it.&nbsp;
+
+Even though the number of sold properties decreased year over year, that number increased every month in the first quarter of 2017. That’s why **now is such a great time to sell your house****.** If you hire the right real estate agent, they will price your home accurately so that only qualified buyers come to view it.&nbsp;
 <br>&nbsp;
 <br>Hopefully this gives you a better perspective of what’s going on in our market. If you have any questions or you’re thinking about buying or selling a home in our market, give us a call or send us an email. We’d love to hear from you!
