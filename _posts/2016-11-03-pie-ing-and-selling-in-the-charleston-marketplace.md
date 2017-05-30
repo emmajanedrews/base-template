@@ -1,25 +1,26 @@
 ---
 youtube_code: zUJAg2v4XI8
-excerpt: Our annual free pie giveaway is right around the corner, and if you have a house that you need to sell, now is the time to list it.
-enclosure:
-pullquote: There aren’t many buyers out there, but there are even fewer sellers.
+excerpt: 'Our annual free pie giveaway is right around the corner, and if you have a house that you need to sell, now is the time to list it.'
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/Old+Videos/Charleston+Real+Estate+Agent-+Our+pie+giveaway+and+our+shifting+market.mp4'
+pullquote: 'There aren’t many buyers out there, but there are even fewer sellers.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: Pie-ing and Selling in the Charleston Marketplace
-date: '2016-11-03T14:25:00.004-07:00'
+date: 2016-11-03 21:25:00
 author: Vyral Admin
 tags:
-- Market Update
-modified_time: '2016-11-09T12:14:24.509-08:00'
-thumbnail: https://img.youtube.com/vi/zUJAg2v4XI8/default.jpg
-blogger_id: tag:blogger.com,1999:blog-7848340592101578541.post-6364191900472483582
-blogger_orig_url: http://www.davefriedmantv.com/2016/11/pie-ing-and-selling-in-charleston.html
+  - Market Update
+modified_time:
+thumbnail: 'https://img.youtube.com/vi/zUJAg2v4XI8/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-7848340592101578541.post-6364191900472483582'
+blogger_orig_url: 'http://www.davefriedmantv.com/2016/11/pie-ing-and-selling-in-charleston.html'
 ---
-{% include youtube.html %}
-Today, I wanted to discuss our annual pie giveaway and give you a quick market update.
+
+
+{% include youtube.html %}Today, I wanted to discuss our annual pie giveaway and give you a quick market update.
 
 For years, our team has been giving away pies to all of our fans. It’s that time of year again, and we already have people calling us to RSVP for their pie. Because we’re so grateful to our wonderful community for supporting our business, giving you a pie is the least we can do.
 
