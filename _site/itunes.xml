@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title></title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Betz Team - your professional  Real Estate Agents.</description>
+    <title>The Betz Team Mortgae Podcast</title>
+    <link>http://winningwithwade.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://winningwithwade.com"/>
+    <description>Get all the information and and the latest updates, tips, and tricks of Personal Finance and Mortgages from The Betz Team</description>
     <language>en</language>
     <managingEditor>Wade Betz</managingEditor>
-    <lastBuildDate>2017-05-02 10:46:22 -0500</lastBuildDate>
+    <lastBuildDate>2017-05-30 16:33:30 -0500</lastBuildDate>
     <media:copyright>Wade Betz</media:copyright>
-    <media:thumbnail url="/img/podcast.jpg"/>
+    <media:thumbnail url="http://winningwithwade.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,15 +18,15 @@
     </itunes:owner>
     <itunes:author>Wade Betz</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="/img/podcast.jpg"/>
+    <itunes:image href="http://winningwithwade.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the  Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Betz Team - your professional  Real Estate Agents.</itunes:summary>
+    <itunes:subtitle>A podcast for home buyers curious about the lending process. Learn Tips, tricks and more educational material from The Betz Team</itunes:subtitle>
+    <itunes:summary>Get all the information and and the latest updates, tips, and tricks of Personal Finance and Mortgages from The Betz Team</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
         <title>How to Handle a Mortgage During a Divorce</title>
-        <link>localhost:4000/how-to-handle-mortgage-during-divorce.html</link>
+        <link>http://winningwithwade.com/how-to-handle-mortgage-during-divorce.html</link>
         
           <category>Mortgage Tips</category>
         
@@ -54,7 +54,7 @@ For more information on this sensitive topic, click here.
 If you or anyone you know is in this situation and needs guidance, don’t hesitate to give me a call or send me an email. It would be my honor to help you through this process.
 </description>
         <enclosure url="http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20How%20to%20Handle%20a%20Mortgage%20During%20a%20Divorce.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://winningwithwade.com" height="72" width="72"/>
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20How%20to%20Handle%20a%20Mortgage%20During%20a%20Divorce.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -73,7 +73,7 @@ If a marriage ends, what happens to the house and the mortgage?
       
       <item>
         <title>The Different Types of Mortgage Insurance and How They Function</title>
-        <link>localhost:4000/the-different-types-of-mortgage.html</link>
+        <link>http://winningwithwade.com/the-different-types-of-mortgage.html</link>
         
           <category>Mortgage Tips</category>
         
@@ -99,7 +99,7 @@ The rules to remove monthly insurance are pretty complicated, and which structur
 My staff and I would be honored to help walk you through this, so if you have any more questions or know anyone looking to purchase a home in the next six months, please don’t hesitate to give us a call. we‘d love to speak with you!
 </description>
         <enclosure url="http://thebetzteam.blogspot.com/2017/02/the-different-types-of-mortgage.html" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://winningwithwade.com" height="72" width="72"/>
         <media:content url="http://thebetzteam.blogspot.com/2017/02/the-different-types-of-mortgage.html" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -118,7 +118,7 @@ To many people, the topic of mortgage insurance carries a negative connotation, 
       
       <item>
         <title>How Can You Get the Effect of Bi-Weekly Payments Without the Middleman?</title>
-        <link>localhost:4000/how-can-you-get-effect-of-bi-weekly.html</link>
+        <link>http://winningwithwade.com/how-can-you-get-effect-of-bi-weekly.html</link>
         
           <category>Mortgage Tips</category>
         
@@ -140,7 +140,7 @@ I advise my clients to take that monthly payment you’re paying to your lender 
 If you have any questions about this payment plan, don’t hesitate to give me a call or send me an email. I’d be honored to help!
 </description>
         <enclosure url="http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20Feb%201.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://winningwithwade.com" height="72" width="72"/>
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20Feb%201.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -159,7 +159,7 @@ We often get questions from clients asking about bi-weekly payment options.
       
       <item>
         <title>Can Your Lender Close on Time?</title>
-        <link>localhost:4000/can-your-lender-close-on-time.html</link>
+        <link>http://winningwithwade.com/can-your-lender-close-on-time.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -181,7 +181,7 @@ Nationwide, about one-third of all home loans don’t close on time, according t
 Who you partner with for your financing has a large impact on whether you have a successful closing or not. If you or someone you know is planning on purchasing a home in the next six months, please don’t hesitate to give us a call or shoot us an email so we can set up a consultation. We’d be happy to help!
 </description>
         <enclosure url="http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20Jan%202.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://winningwithwade.com" height="72" width="72"/>
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20Jan%202.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -200,7 +200,7 @@ Closing on time is a promise that every lender makes, but the reality is that ve
       
       <item>
         <title>What Are the Benefits of Using a Piggyback Loan?</title>
-        <link>localhost:4000/what-are-benefits-of-using-piggyback.html</link>
+        <link>http://winningwithwade.com/what-are-benefits-of-using-piggyback.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -224,7 +224,7 @@ At that point, they can then contact us to recast the loan so it acts as a retro
 If you find yourself in a unique situation and you want to talk through it with me and my team, just give us a call or send us an email. We’d be more than happy to help.
 </description>
         <enclosure url="http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20What%20Are%20the%20Benefits%20of%20Using%20a%20Piggyback%20Loan%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://winningwithwade.com" height="72" width="72"/>
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20What%20Are%20the%20Benefits%20of%20Using%20a%20Piggyback%20Loan%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -243,7 +243,7 @@ What makes piggyback loans beneficial to home buyers? Why would a recast be more
       
       <item>
         <title>How Do You Finance New Construction Homes?</title>
-        <link>localhost:4000/how-do-you-finance-new-construction.html</link>
+        <link>http://winningwithwade.com/how-do-you-finance-new-construction.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -265,7 +265,7 @@ The alternative is to structure it with two separate loans, or a two-time close.
 If you have more questions about financing a new construction home in the DFW area, give me a call or send me an email. My team and I would be more than happy to help you.
 </description>
         <enclosure url="http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20How%20Do%20You%20Finance%20New%20Construction%20Homes%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://winningwithwade.com" height="72" width="72"/>
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20How%20Do%20You%20Finance%20New%20Construction%20Homes%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -284,7 +284,7 @@ When buying a new construction home, the financing works a bit differently. But 
       
       <item>
         <title>Opting Out of Junk Mail Is Easy</title>
-        <link>localhost:4000/dfw-mortgage-lender-opting-out-of-junk.html</link>
+        <link>http://winningwithwade.com/dfw-mortgage-lender-opting-out-of-junk.html</link>
         
         <author>Wade Betz</author>
         <pubDate>2016-10-28 14:19:00 -0500</pubDate>
@@ -312,7 +312,7 @@ With that being said, there are three things you can do to reduce the amount of 
 The days when we don’t receive any junk mail are sometimes the greatest days of all. If you have any questions for us or any real estate needs we can help service, don’t hesitate to give us a call or send us an email. We look forward to hearing from you.
 </description>
         <enclosure url="https://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20Opting%20Out%20of%20Junk%20Mail%20Is%20Easy.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://winningwithwade.com" height="72" width="72"/>
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20Opting%20Out%20of%20Junk%20Mail%20Is%20Easy.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -331,7 +331,7 @@ After you close a real estate transaction, there are certain documents that have
       
       <item>
         <title>2 Ways to Finance Your New Construction Home </title>
-        <link>localhost:4000/dfw-mortgage-lender-2-ways-to-finance.html</link>
+        <link>http://winningwithwade.com/dfw-mortgage-lender-2-ways-to-finance.html</link>
         
         <author>Wade Betz</author>
         <pubDate>2016-09-22 11:28:00 -0500</pubDate>
@@ -351,7 +351,7 @@ A two-time close allows you to take out a construction loan to purchase the prop
 Ultimately, there are pros and cons to each financing option. If you are buying a new construction house and would like to learn more, my team and I would be happy to answer any questions you may have. Just give us a call or send us an email. We would be happy to help you!
 </description>
         <enclosure url="http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%202%20Ways%20to%20Finance%20Your%20New%20Construction%20Home.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://winningwithwade.com" height="72" width="72"/>
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%202%20Ways%20to%20Finance%20Your%20New%20Construction%20Home.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -370,7 +370,7 @@ When you buy a new construction home, there are basically two financing options 
       
       <item>
         <title>How to Handle a Low Appraisal</title>
-        <link>localhost:4000/dfw-mortgage-lender-how-to-handle-low.html</link>
+        <link>http://winningwithwade.com/dfw-mortgage-lender-how-to-handle-low.html</link>
         
           <category>Mortgage Tips</category>
         
@@ -396,7 +396,7 @@ For a purchase loan, it’s a little more different and complex. The sales price
 That’s kind of the big picture overview of what happens when you have a low appraisal. No matter what happens, your loan officer will be contacting you to resolve these issues as soon as possible. If you have any questions for us, don’t hesitate to give us a call or send us an email. We look forward to hearing from you.
 </description>
         <enclosure url="http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20How%20to%20Handle%20a%20Low%20Appraisal.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://winningwithwade.com" height="72" width="72"/>
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20How%20to%20Handle%20a%20Low%20Appraisal.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -415,7 +415,7 @@ Many people have no idea what to do if an appraisal comes in low on a home they 
       
       <item>
         <title>Dissecting the Loan Process for You</title>
-        <link>localhost:4000/dissecting-loan-process-for-you.html</link>
+        <link>http://winningwithwade.com/dissecting-loan-process-for-you.html</link>
         
           <category>Mortgage Tips</category>
         
@@ -441,7 +441,7 @@ Stretch out your forearm beforehand, because you will be signing a lot of docume
 If you have any more questions or need help with this process, just give us a call or send us an email. My team would be happy to help.
 </description>
         <enclosure url="http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20Dissecting%20the%20Loan%20Process%20for%20You.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://winningwithwade.com" height="72" width="72"/>
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20Dissecting%20the%20Loan%20Process%20for%20You.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -460,7 +460,7 @@ What all goes into the loan process?
       
       <item>
         <title>You Need These Documents to Get Pre-Approved</title>
-        <link>localhost:4000/you-need-these-documents-to-get-pre.html</link>
+        <link>http://winningwithwade.com/you-need-these-documents-to-get-pre.html</link>
         
           <category>Mortgage Tips</category>
         
@@ -482,7 +482,7 @@ At the end of the day, our goal is to be in compliance with the government by sh
 If you have any questions for us, don’t hesitate to reach out. Give us a call or send us an email, we would love to hear from you.
 </description>
         <enclosure url="http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20You%20Need%20These%20Documents%20to%20Get%20Pre-Approved.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://winningwithwade.com" height="72" width="72"/>
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20You%20Need%20These%20Documents%20to%20Get%20Pre-Approved.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -501,7 +501,7 @@ To get fully approved for a mortgage, you need to make sure all of your document
       
       <item>
         <title>The Difference Between Pre-Qualification & Pre-Approval</title>
-        <link>localhost:4000/the-difference-between-pre.html</link>
+        <link>http://winningwithwade.com/the-difference-between-pre.html</link>
         
           <category>Mortgage Tips</category>
         
@@ -525,7 +525,7 @@ Again, there is that second type of letter in the state of Texas - the condition
 If you’re looking to buy and looking for a lender, we’d be honored to serve you. Send us an email or give us a call and our team will get working with you right away.
 </description>
         <enclosure url="http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/Do%20This%20Before%20Buying%20a%20Home%20in%20Texas.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://winningwithwade.com" height="72" width="72"/>
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/Do%20This%20Before%20Buying%20a%20Home%20in%20Texas.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -545,6 +545,6 @@ You may have heard real estate professionals tell you that you need a pre-approv
     <copyright>Wade Betz</copyright>
     <media:credit role="author">Wade Betz</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Betz Team - your professional  Real Estate Agents.</media:description>
+    <media:description type="plain">Get all the information and and the latest updates, tips, and tricks of Personal Finance and Mortgages from The Betz Team</media:description>
   </channel>
 </rss>
