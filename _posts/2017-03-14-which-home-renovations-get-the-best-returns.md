@@ -1,26 +1,25 @@
 ---
 youtube_code: NIDPF-0nhM0
 excerpt: Some renovations are better than others when it comes to preparing your home for the market. Think about the renovation cost versus the return you will get on your investment.
-enclosure:
-pullquote: Generally speaking, less is more.
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/2017/Which+Home+Renovations+Get+the+Best+Returns%253F+-+Charleston+%2526+Mt.+Pleasant+Real+Estate+Agent.mp4'
+pullquote: 'Generally speaking, less is more.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
-title: 'Which Home Renovations Get the Best Returns? '
-date: '2017-03-14T11:13:00.001-07:00'
+title: Which Home Renovations Get the Best Returns?
+date: 2017-03-14 18:13:00
 author: Vyral Admin
 tags:
-- Mt. Pleasant Real estate
-- Charleston real estate
-modified_time: '2017-03-15T08:09:25.994-07:00'
-thumbnail: https://img.youtube.com/vi/NIDPF-0nhM0/default.jpg
-blogger_id: tag:blogger.com,1999:blog-7848340592101578541.post-5075698451399240456
-blogger_orig_url: http://www.davefriedmantv.com/2017/03/which-home-renovations-get-best-returns.html
+modified_time:
+thumbnail: 'https://img.youtube.com/vi/NIDPF-0nhM0/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-7848340592101578541.post-5075698451399240456'
+blogger_orig_url: 'http://www.davefriedmantv.com/2017/03/which-home-renovations-get-best-returns.html'
 ---
-{% include youtube.html %}
-When you are preparing your home for the market, you may want to make some renovations in order to net more money on your home sale. Which renovations get better returns than others?
+
+
+{% include youtube.html %}When you are preparing your home for the market, you may want to make some renovations in order to net more money on your home sale. Which renovations get better returns than others?
 
 Keep in mind that less is more. Large-scale jobs aren’t likely to return their full costs but there are investments worth doing in anticipation of an upcoming sale. Some renovations return 100% of their costs while others get less than half of the money back. Still, some renovations can improve your market position and the probability that your home will sell.
 
