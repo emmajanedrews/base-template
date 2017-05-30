@@ -5,7 +5,7 @@ show_custom_links: true
 custom_links:
   - title: Neighborhood Finder
     url: 'http://homesfromhouston.com/neighborhoods'
-  - title: Testinomials
+  - title: Testimonials
     url: /client-testimonials
 client:
   name: Mike Gray
