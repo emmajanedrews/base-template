@@ -4,7 +4,7 @@ title: What Are the Various Roles of a Real Estate Agent?
 tags:
   - Real Estate
 excerpt: What is the difference between listing agents and buyer’s agents? Should you consider a dual agency? I’ll answer these questions today.
-enclosure: 'http://vyralmarketing.s3.amazonaws.com/Dave%20Knight/3%20Different%20Types%20of%20Real%20Estate%20Agents.mp4'
+enclosure: 'http://vyralmarketing.s3.amazonaws.com/Dave%20Knight/What%20Are%20the%20Various%20Roles%20of%20a%20Real%20Estate%20Agent%253F.mp4'
 pullquote: Having someone to advocate for your interests is very important.
 enclosure_type: video/mp4
 enclosure_time:
