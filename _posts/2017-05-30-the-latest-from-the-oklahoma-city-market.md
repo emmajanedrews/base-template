@@ -21,7 +21,6 @@ youtube_code: '-ehYU5ciHj0'
 Because of the energy sector being out of work as long as they have been, it's truly a buyer's market in the upper end of homes, or those priced $350,000 and up. In the normal price ranges where average folks buy, you'll find that it's basically a seller's market. However, nine times out of 10, sellers still pay the buyer's closing costs.
 
 You've probably heard about low housing inventory in the national news, and it's the same here. We just don't have many homes for sale in the price ranges where most people shop; about $100,000 to $300,000. However, inventory in the upper end is plentiful, which has actually driven prices down.
-<br>
 <br>{% include pullquote.html %}
 
 Mortgage interest rates, which affect your buying power, are still really good. They're hovering just above or below the 4% mark right now, and it's pretty easy to get a mortgage these days if you have a job and a down payment.
