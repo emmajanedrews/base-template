@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 Different Types of Real Estate Agents
+title: What Are the Various Roles of a Real Estate Agent?
 tags:
   - Real Estate
 excerpt: What is the difference between listing agents and buyer’s agents? Should you consider a dual agency? I’ll answer these questions today.
