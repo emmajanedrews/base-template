@@ -1,7 +1,7 @@
 ---
 youtube_code: fFpxuUd6eiQ
 excerpt:
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/Old+Videos/Charleston+Real+Estate+Agent-+Were+taking+you+out+to+the+ball+game.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -9,17 +9,17 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: We Want to Take You Out to the Ballgame
-date: '2016-06-09T07:47:00.000-07:00'
+date: 2016-06-09 14:47:00
 author: Vyral Admin
 tags:
-- Charleston Spring Events
-modified_time: '2016-09-21T07:21:32.289-07:00'
-thumbnail: https://img.youtube.com/vi/fFpxuUd6eiQ/default.jpg
-blogger_id: tag:blogger.com,1999:blog-7848340592101578541.post-5868666107879775228
-blogger_orig_url: http://www.davefriedmantv.com/2016/06/we-want-to-take-you-out-to-ballgame.html
+modified_time:
+thumbnail: 'https://img.youtube.com/vi/fFpxuUd6eiQ/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-7848340592101578541.post-5868666107879775228'
+blogger_orig_url: 'http://www.davefriedmantv.com/2016/06/we-want-to-take-you-out-to-ballgame.html'
 ---
-{% include youtube.html %}
-We want to invite you to a Charleston RiverDogs game at Joseph P. Riley Jr. Park as a way to say thank you, and we’re also raising money for charity. All of our friends, colleagues, and past and current clients are welcome. The game is on June 14th, and our free picnic will start at 6:00 p.m.
+
+
+{% include youtube.html %}We want to invite you to a Charleston RiverDogs game at Joseph P. Riley Jr. Park as a way to say thank you, and we’re also raising money for charity. All of our friends, colleagues, and past and current clients are welcome. The game is on June 14th, and our free picnic will start at 6:00 p.m.
 
 For every person that attends, we will donate $10 to the MUSC Children’s Fund in order to send children to Camp Can-Do, which is over on Seabrook Island.
 
