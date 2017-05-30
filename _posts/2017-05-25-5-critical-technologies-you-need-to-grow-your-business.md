@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 5 Critical Technologies You Need to Grow Your Business
-date: 2017-05-25 12:55:28
+date: 2017-05-25 12:55:00
 tags:
   - Real Estate
 excerpt: Don’t be fooled by things you don’t need to spend your money on—here are five technologies that are essential to helping your business grow.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/Central+PA+Real+Estate+Agent-+5+technologies+that+will+grow+your+business.mp4'
 pullquote: These five technologies will help your business immensely.
 enclosure_type: video/mp4
 enclosure_time:
