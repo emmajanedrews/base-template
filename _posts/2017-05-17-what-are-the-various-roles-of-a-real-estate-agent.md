@@ -8,8 +8,8 @@ enclosure: 'http://vyralmarketing.s3.amazonaws.com/Dave%20Knight/3%20Different%2
 pullquote: Having someone to advocate for your interests is very important.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/no-pb-47.jpg
+use_youtube_image: false
+youtube_alternate_image: /uploads/no-pb-35.jpg
 youtube_code: 1dQtUSmBZDA
 ---
 
