@@ -27,5 +27,3 @@ We are able to create these videos with up to 50 different search terms and with
 In addition to that, we also have a 4.5% listing, where we only take 1.5% for our commission after having to pay 3% to the buyer side (it’s unavoidable). **We can do phenomenal marketing for you at a much lower price than our competitors, and that includes getting you on page one of Google.**
 
 If you have any questions or you’re looking to list your home and get top dollar, give us a call or send us an email. We look forward to hearing from you.
-
-Teaser: The Northern Virginia real estate market is heating up. Homes are selling faster on average, and that’s certainly true of our listings. We are currently using a technique to get all of our listings on the first page of search results on Google for more than 50 different terms. To learn how we are using the power of Google search to help our sellers expedite their sales, watch this short video.
