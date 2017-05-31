@@ -31,3 +31,5 @@ Take a look at your decor. Remember, the decor that’s appealing to you may not
 **Finally, clean your house from top to bottom.** This is the most important part of preparing your house for the market. Pay attention to the kitchen and the bathrooms, and make sure that your windows are crystal clear.
 
 Many people think they can handle cleaning on their own, but it can be well worth the money to hire a professional cleaning service. Hiring a professional also takes some of the stress out of those last-minute preparations.&nbsp;
+<br>
+<br>If you have any questions about this or any other topic, please don't hesitate to call me. I look forward to hearing from you.
