@@ -37,13 +37,6 @@ sidebar_CTA:
     CTA_link_text: "Looking to Build Your Real Estate Career?"
     CTA_url: https://www.discoverazhomesforsale.com/
 
-second_sidebar_CTA:
-  - CTA_image_path2:
-    CTA_title2:
-    CTA_text2:
-    CTA_link_text2:
-    CTA_url2:
-
 lender:
   show_section: false
   header_text: Preferred Lender
