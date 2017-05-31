@@ -5,7 +5,7 @@ date: 2017-05-19 10:00:00
 tags:
   - Real Estate
 excerpt: 'Are you one of the many people who has thought about flipping a house? It can be a good way to make money, but the reality of it all is nothing like what you see on TV.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Kyle+Fernandez/Videos/May+17/St.+Louis+County+Real+Estate-+The+Reality+of+House+Flipping.mp4'
 pullquote: '12% of flips lose money and another 30% only break even.'
 enclosure_type: video/mp4
 enclosure_time:
