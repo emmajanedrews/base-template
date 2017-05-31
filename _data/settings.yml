@@ -7,26 +7,27 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Brian Riolo
   license_number:
   about_markdown: |
-
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
-  phone_type:
-  phone2:
-  phone2_type:
-  email:
-  url:
+    Brian has spent nearly a decade studying our market, our area, and the very best strategies to effectively expose each home we sell to the most qualified buyers. He employs the latest technologies to help ensure the highest price possible for each home he sells. He stays at the forefront of the ever-changing real estate business through continuing education.
+    Brian and the Riolo Residential Group at Weichert Realtors® proudly serves the real estate needs of residents in Hoboken, Downtown Jersey City, Jersey City Heights, Weehawken, Port Imperial along with Manasquan, Sea Girt, Spring Lake and Point Pleasant.
+  market: Hoboken
+  brand: Riolo Residential Group
+  brokerage: Weichert Realtors
+  address: 1 Newark Street Hoboken, NJ 07030
+  phone: 201-253-5594
+  phone_type: Cell
+  phone2: 201-653-8488
+  phone2_type: Office
+  email: Brian@RioloResidentialGroup.com
+  url: http://RioloResidentialGroup.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.rioloresidentialgroup.com/Sellers/Get-a-Free-Home-Evaluation
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.rioloresidentialgroup.com/
   VR_form:
 
 sidebar_CTA:
@@ -34,14 +35,14 @@ sidebar_CTA:
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free -- MARKET -- Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.rioloresidentialgroup.com/Sellers/Get-a-Free-Home-Evaluation
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://www.rioloresidentialgroup.com/
 
 lender:
   show_section: false
@@ -66,20 +67,20 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: http://www.facebook.com/brianriolorealestate
+  linkedin_url: https://www.linkedin.com/in/brianriolo
+  gplus_url: http://plus.google.com/u/0/+BrianRioloRealtor
+  youtube_url: http://www.youtube.com/c/BrianRioloRealtor
+  twitter_url: https://twitter.com/brianriolo
   instagram_url:
-  pinterest_url:
-  zillow_url:
-  trulia_url:
+  pinterest_url: https://www.pinterest.com/brianriolo
+  zillow_url: https://www.zillow.com/profile/Brian-Riolo/
+  trulia_url: https://www.trulia.com/profile/brian-riolo-agent-hoboken-nj-zgcfhss6/overview
   yelp_url:
   podcast_url:
 
 podcast:
-  title:
+  title: Hoboken Real Estate Podcast with Brian Riolo
   categories: Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
@@ -90,14 +91,14 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  logo_width_number: 80
+  hero_text:
   hero_background_hex: '#094264'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#976caf'
-  theme_color: '#67c4a9'
+  brand_color: '#91bfde'
+  theme_color: '#141414'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
