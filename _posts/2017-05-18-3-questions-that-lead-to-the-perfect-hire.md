@@ -16,7 +16,7 @@ youtube_code: iIMyBCLaua0
 
 {% include youtube.html %}Making a better hiring decision boils down to three questions you should ask yourself when interviewing any candidate for your organization.
 
-First, **can do they do the job?**Do they have the mental ability, skill set, and personality to do the job well? If they don’t have the skill set to do the job well, do you have the ability to train them and teach them the required skills to get them up to speed quickly to give you a return on investment for that hire?
+First, **can do they do the job?&nbsp;**Do they have the mental ability, skill set, and personality to do the job well? If they don’t have the skill set to do the job well, do you have the ability to train them and teach them the required skills to get them up to speed quickly to give you a return on investment for that hire?
 
 {% include pullquote.html %}
 
