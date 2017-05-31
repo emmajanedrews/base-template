@@ -93,7 +93,7 @@ images:
   hero_logo_path: /img/logo.png
   logo_width_number: 80
   hero_text:
-  hero_background_hex: '#094264'
+  hero_background_hex: '#91bfde'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
@@ -107,7 +107,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: rgba(238, 238, 238, 3)
 
 buttons:
   button_radius_number: 0

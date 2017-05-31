@@ -15,16 +15,16 @@
 		border-radius: 50%
 		@include transition
 		&:hover
-			fill: $brand-light
+			fill: $brand-dark
 			background: transparent
-			color: $brand-light
+			color: $brand-dark
 			+shadow
 			// box-shadow: 4px 4px 0 $brand-light
 			// border: 2px solid $brand-light
 			@include transform(scale(1.05))
 			@include transform(translateY(-0.2rem))
 		&:active
-			box-shadow: 0 0 0 $brand-light
+			box-shadow: 0 0 0 $brand-dark
 			@include transform(translateY(0rem))
 
 //For about page
