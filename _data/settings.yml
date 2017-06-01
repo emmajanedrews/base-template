@@ -25,7 +25,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: https://www.edinarealty.com/chad-and-sara-huebener-realtor/Selling/sell-a-home#/
   second_CTA_text: Home Search
-  second_CTA_URL: https://www.edinarealty.com/chad-and-sara-huebener-realtor/listing/listingsearch#/properties?minPrice=0&maxPrice=0&nBed=0&nBath=0&pt_val=ForSale&age=age_any&sts_sale=1&sts_con=1&addl_stat=addl_stat_any&int_min_sqft=0&int_max_sqft=0&ext_min_sqft=0&ext_max_sqft=0&ext_gar=0&pgeSize=200&pgeNum=1&srtBy=DateListed
+  second_CTA_URL: 'https://www.edinarealty.com/chad-and-sara-huebener-realtor/listing/listingsearch#/properties?minPrice=0&maxPrice=0&nBed=0&nBath=0&pt_val=ForSale&age=age_any&sts_sale=1&sts_con=1&addl_stat=addl_stat_any&int_min_sqft=0&int_max_sqft=0&ext_min_sqft=0&ext_max_sqft=0&ext_gar=0&pgeSize=200&pgeNum=1&srtBy=DateListed'
   VR_form: http://oi.vresp.com?fid=3a54546ef4
 
 sidebar_CTA:
@@ -33,7 +33,7 @@ sidebar_CTA:
     CTA_title: Looking to Buy a Home?
     CTA_text: Search the entire MLS for homes located in -- MARKET --.
     CTA_link_text: Home Search Tool
-    CTA_url: https://www.edinarealty.com/chad-and-sara-huebener-realtor/listing/listingsearch#/properties?minPrice=0&maxPrice=0&nBed=0&nBath=0&pt_val=ForSale&age=age_any&sts_sale=1&sts_con=1&addl_stat=addl_stat_any&int_min_sqft=0&int_max_sqft=0&ext_min_sqft=0&ext_max_sqft=0&ext_gar=0&pgeSize=200&pgeNum=1&srtBy=DateListed
+    CTA_url: 'https://www.edinarealty.com/chad-and-sara-huebener-realtor/listing/listingsearch#/properties?minPrice=0&maxPrice=0&nBed=0&nBath=0&pt_val=ForSale&age=age_any&sts_sale=1&sts_con=1&addl_stat=addl_stat_any&int_min_sqft=0&int_max_sqft=0&ext_min_sqft=0&ext_max_sqft=0&ext_gar=0&pgeSize=200&pgeNum=1&srtBy=DateListed'
 
 lender:
   show_section: false
@@ -68,7 +68,7 @@ socials:
   zillow_url:
   trulia_url:
   yelp_url:
-  podcast_url:
+  podcast_url: https://itunes.apple.com/us/podcast/minnesota-real-estate-podcast-with-chad-and-sara-huebener/id1240303274?mt=2
 
 podcast:
   title: Minnesota Real Estate Podcast With Chad and Sara Huebener 
