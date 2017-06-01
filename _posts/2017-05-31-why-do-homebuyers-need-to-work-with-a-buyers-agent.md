@@ -9,8 +9,8 @@ enclosure: 'https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/2017/Wh
 pullquote: Working with a buyer’s agent is the best money you haven’t spent.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/davefriedman-screenshot-email-youneedbuyersagent.jpg
 youtube_code: zw_wtCnUZ2k
 ---
 
