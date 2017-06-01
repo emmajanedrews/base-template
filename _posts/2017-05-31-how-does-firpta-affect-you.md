@@ -26,8 +26,8 @@ Remember, **there is a 10% to 15% withholding right at closing,** depending on t
 <br>&nbsp;
 <br>These stipulations can be somewhat confusing, but the IRS has authorized administrators to help foreign investors in this situation with things like the paperwork, holding the money, and filing the returns so the process is not as daunting.&nbsp;
 <br>&nbsp;
-<br>It’s also important to note that during the closing phase of the selling process, if what you owe on the property and what it sells for is less than 10% or 15%, **you may have to bring money to closing to satisfy that withholding requirement by the IRS.**&nbsp;
+<br>It’s also important to note that during the closing phase of the selling process if what you owe on the property and what it sells for is less than 10% or 15%, **you may have to bring money to closing to satisfy that withholding requirement by the IRS.**&nbsp;
 <br>&nbsp;
-<br>If you would like to get in contact with an expert on this subject or you would like more information,** [click here.](https://www.irs.gov/individuals/international-taxpayers/firpta-withholding)** You can also simply Google “FIRPTA” and it will answer a lot of your questions.&nbsp;
+<br>If you would like to get in contact with an expert on this subject or you would like more information,&nbsp;[click here.](https://www.irs.gov/individuals/international-taxpayers/firpta-withholding)&nbsp;You can also simply Google “FIRPTA” and it will answer a lot of your questions.&nbsp;
 <br>&nbsp;
 <br>If you have any more questions about this topic, feel free to give me a call or send me an email. I would be happy to help you.
