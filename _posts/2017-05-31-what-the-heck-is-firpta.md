@@ -16,6 +16,12 @@ youtube_code: eID0DgAFQzw
 
 {% include youtube.html %}
 
+[IRS FIRPTA information](https://www.irs.gov/individuals/international-taxpayers/firpta-withholding)
+
+[Montana FIRPTA facilitator](http://www.lorimillerlaw.com/withholding-agent/)
+
+[Blog about FIRPTA issues](http://www.lorimillerlaw.com/blog/)
+
 Are you a foreign investor getting ready to sell an investment property? If so, there are a few things you should know about how the Foreign Investment in Real Property Tax Act affects you. &nbsp;
 <br>&nbsp;
 <br>The Foreign Investment in Real Property Tax Act (FIRPTA) spells out what needs to be done at closing as far as withholding goes. With the exchange rate as it is, it’s quite favorable for foreign investors (Canadians especially) to sell and realize a profit.
