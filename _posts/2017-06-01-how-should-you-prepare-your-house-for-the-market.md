@@ -5,7 +5,7 @@ date: 2017-06-01 00:00:00
 tags:
   - Home Seller Tips
 excerpt: 'There are three main steps to preparing your home for the market, and I’ll give you those tips today.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Dave+Heeter/Southern+New+Hampshire+Real+Estate+Agent-+Preparing+Your+Home+for+the+Market.mp4'
 pullquote: Depersonalize your home so that buyers can picture themselves living there.
 enclosure_type: video/mp4
 enclosure_time:
