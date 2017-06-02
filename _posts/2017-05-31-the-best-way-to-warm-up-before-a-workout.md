@@ -27,7 +27,7 @@ Welcome back to another edition of “Hacking Your Health.” Today we’re at t
 
 {% include pullquote.html %}
 <br>&nbsp;
-<br>Next, we do some lunges. This is another great exercise to open up the upper body and the hips. With each lunge, you want to reach up high with the arm on the same side that your knee is touching the ground on. Then we do lunges with a twist, to work on that thoracic mobility and loosen up the shoulders.&nbsp;
+<br>Next, we do some lunges. This is another great exercise to open up the upper body and the hips. With each lunge, you want to reach up high with the arm on the same side that your knee is touching the ground on. Then we do lunges with a twist to work on that thoracic mobility and loosen up the shoulders.&nbsp;
 <br>&nbsp;
 <br>With all of these dynamic stretches, do about 10 to 15 reps and just hold them for a few seconds.&nbsp;
 <br>&nbsp;
