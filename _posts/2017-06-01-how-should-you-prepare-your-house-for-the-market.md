@@ -1,17 +1,17 @@
 ---
 layout: post
 title: How Should You Prepare Your House for the Market?
-date: 2017-05-26 00:00:00
+date: 2017-06-01 00:00:00
 tags:
   - Home Seller Tips
-excerpt: 'There are three main steps to preparing your home for the market, and I’ll give you a few tips today.'
+excerpt: 'There are three main steps to preparing your home for the market, and I’ll give you those tips today.'
 enclosure:
 pullquote: Depersonalize your home so that buyers can picture themselves living there.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: b4vYBI1NGC8
+youtube_code: 'https://youtu.be/b4vYBI1NGC8'
 ---
 
 
