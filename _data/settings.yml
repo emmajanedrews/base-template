@@ -25,7 +25,7 @@ client:
 
 CTAs:
   first_CTA_text: Join Us 
-  first_CTA_URL: https://www.discoverazhomesforsale.com/
+  first_CTA_URL: https://www.discoverazhomesforsale.com/join-our-team/
   second_CTA_text:
   second_CTA_URL:
   VR_form: http://oi.vresp.com?fid=f217b02ad7
@@ -35,7 +35,7 @@ sidebar_CTA:
     CTA_title: "Join Us"
     CTA_text: "Let's talk about how The Kevin Langan Team can build your Real Estate Career."
     CTA_link_text: "Looking to Build Your Real Estate Career?"
-    CTA_url: https://www.discoverazhomesforsale.com/
+    CTA_url: https://www.discoverazhomesforsale.com/join-our-team/
 
 lender:
   show_section: false
