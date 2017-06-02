@@ -1804,7 +1804,7 @@ table tr, table td {
   background: #ab0d1f;
   color: white;
   border: 1px solid #ab0d1f;
-  border-radius: 4px;
+  border-radius: px;
   padding: 10px 20px;
   margin-top: 20px;
   text-decoration: none;
@@ -2127,7 +2127,7 @@ table tr, table td {
     padding: 20px 10px;
     font-size: 18px;
     border: 1px solid #c7c7c7;
-    border-radius: 4px;
+    border-radius: px;
     background: rgba(255, 255, 255, 0.1);
     color: #ab0d1f;
     font-size: 2rem;
@@ -2155,7 +2155,7 @@ table tr, table td {
     padding: 0.9rem 2rem;
     text-transform: capitalize;
     font-size: 2rem;
-    border-radius: 4px;
+    border-radius: px;
     font-weight: 300;
     border: 2px solid #ab0d1f;
     -webkit-transition: 0.3s;
@@ -2574,7 +2574,7 @@ form select {
   .newsletter_optin input {
     vertical-align: middle; }
   .newsletter_optin input[type='email'] {
-    border-radius: 4px;
+    border-radius: px;
     background: rgba(255, 255, 255, 0.3);
     border: 1px solid white;
     color: #ab0d1f;
@@ -2612,7 +2612,7 @@ form select {
     padding: 1.3rem 2rem;
     text-transform: capitalize;
     font-size: 2rem;
-    border-radius: 4px;
+    border-radius: px;
     font-weight: 300;
     border: 1px solid white;
     -webkit-transition: 0.3s;
@@ -2686,7 +2686,7 @@ form select {
   font-size: 20px;
   margin-top: 12px;
   padding: 15px;
-  border-radius: 4px;
+  border-radius: px;
   -webkit-transition: all 0.15s ease-out 0s;
   transition: all 0.15s ease-out 0s; }
 
