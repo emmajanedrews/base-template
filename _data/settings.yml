@@ -39,9 +39,9 @@ client:
   url: 'http://www.OrlandoPropertyGroup.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: www.centralfloridahousevalue.com
+  first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://www.orlandopropertygroup.com/search.php?#?q_limit=9&q_prioritize=agents.0.id=261091912%7Coffice.id=261011739&mlsId=28&q_sort=createdAt-&q_offset=0'
+  second_CTA_URL: /homesearch/
   phone_CTA: true
   VR_form: 'http://oi.vresp.com?fid=17c0da686f'
 sidebar_CTA:
