@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Does FIRPTA Affect You?
+title: What the Heck Is FIRPTA
 tags:
   - Real Estate
 excerpt: 'If you’re a foreign investor selling property, here is how FIRPTA will affect your sale.'
