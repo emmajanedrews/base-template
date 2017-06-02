@@ -37,7 +37,8 @@ Can you really trust Zillow’s Zestimate tool?&nbsp;
 <br>Zillow even admits that more **than 90% of the homes in the Orlando area have Zestimates that are only within 20% of the final sales price.** That means if you have a $400,000 house, your Zestimate could be $80,000 higher or lower than it should be.&nbsp;
 <br>&nbsp;
 <br>This is why you need to get in touch with a local expert, like myself, to get the most accurate comparative market analysis possible.&nbsp;
-<br>Ultimately, Zillow is like WebMD. If you’re curious about an illness you think you might have, then you will probably go to WebMD to research the symptoms. However, you’re going to go to a real doctor to get a diagnosis and treatment.&nbsp;
+
+Ultimately, Zillow is like WebMD. If you’re curious about an illness you think you might have, then you will probably go to WebMD to research the symptoms. However, you’re going to go to a real doctor to get a diagnosis and treatment.&nbsp;
 <br>&nbsp;
 <br>If you just want to look at home values, then Zillow is fine. If you plan on selling your home, then you need to talk to a professional.&nbsp;
 <br>&nbsp;
