@@ -17,7 +17,7 @@ youtube_code: zw_wtCnUZ2k
 
 {% include youtube.html %}
 
-A lot of people have been asking me recently, “What’s up with buyer agency agreement? What does that even mean?”
+A lot of people have been asking me recently, “What’s up with the buyer agency agreement? What does it even mean?”
 <br>
 <br>When you call the number on a ‘For Sale’ sign inquiring about the home that’s for sale, you end up talking to the listing agent that the seller has hired. That person has a legal obligation to sell that person’s home for the most amount of money in the least amount of time.
 <br>
