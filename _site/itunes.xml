@@ -2,108 +2,92 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Orlando Real Estate Podcast with Chris Myers</title>
-    <link>localhost:5000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:5000"/>
+    <link>http://floridapropertygroup.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://floridapropertygroup.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Orlando Property Group - your professional Orlando Real Estate Agents.</description>
     <language>en</language>
-    <managingEditor>-- CLIENT NAME --</managingEditor>
-    <lastBuildDate>2016-12-13 16:50:47 -0600</lastBuildDate>
-    <media:copyright>-- CLIENT NAME --</media:copyright>
-    <media:thumbnail url="localhost:5000/img/Podcast.jpg"/>
+    <managingEditor>Chris Myers</managingEditor>
+    <lastBuildDate>2017-06-02 13:57:24 -0500</lastBuildDate>
+    <media:copyright>Chris Myers</media:copyright>
+    <media:thumbnail url="http://floridapropertygroup.com/img/Podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
       <itunes:email>Chris@OrlandoPropertyGroup.com</itunes:email>
-      <itunes:name>-- CLIENT NAME --</itunes:name>
+      <itunes:name>Chris Myers</itunes:name>
     </itunes:owner>
-    <itunes:author>-- CLIENT NAME --</itunes:author>
+    <itunes:author>Chris Myers</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:5000/img/Podcast.jpg"/>
+    <itunes:image href="http://floridapropertygroup.com/img/Podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Orlando Property Group - your professional Orlando Real Estate Agents.</itunes:summary>
       <itunes:category text="News &amp; Politics"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>localhost:5000/this-is-a-test.html</link>
-        
-          <category>Market Update</category>
+        <title>Welcome to My Orlando Real Estate Video Blog</title>
+        <link>http://floridapropertygroup.com/welcome-to-my-orlando-real-estate-video-blog.html</link>
         
           <category>Real Estate</category>
         
-          <category>Buyer Tips</category>
-        
-          <category>Home Seller Tips</category>
-        
-        <author>-- CLIENT NAME --</author>
-        <pubDate>2016-10-04 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <author>Chris Myers</author>
+        <pubDate>2017-01-03 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Chris+Myers/Orlando+Property+Group+Welcome+to+My+Real+Estate+Video+Blog.mp4</guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
-
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+Welcome to my YouTube channel! Here, you can find seller tips, buyer tips, and market updates. I want this to be a resource for all of your real estate needs. If you would like to know more about a specific topic, please let me know and I’ll answer your question with a video. To learn more about my channel, watch this short video.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:5000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Chris+Myers/Orlando+Property+Group+Welcome+to+My+Real+Estate+Video+Blog.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://floridapropertygroup.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Chris+Myers/Orlando+Property+Group+Welcome+to+My+Real+Estate+Video+Blog.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:author>Chris Myers</itunes:author>
+        <itunes:summary>Welcome to my YouTube channel! Here, you can find seller tips, buyer tips, and market updates. I want this to be a resource for all of your real estate needs.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>this is a test</title>
-        <link>localhost:5000/a-fox-in-space.html</link>
+        <title>How Will the Orlando Real Estate Market Change in 2017?</title>
+        <link>http://floridapropertygroup.com/how-will-the-orlando-real-estate-market-change-in-2017.html</link>
         
           <category>Market Update</category>
         
-          <category>Real Estate</category>
-        
-          <category>Buyer Tips</category>
-        
-          <category>Home Seller Tips</category>
-        
-        <author>-- CLIENT NAME --</author>
-        <pubDate>2016-09-28 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <author>Chris Myers</author>
+        <pubDate>2017-01-03 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Chris+Myers/Orlando+Property+Group+Market+Update.mp4</guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+What is the Orlando real estate market like? Today, I’ll go over the latest market update as well as what you can expect from the market in 2017. 
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+Right now, there is a shortage of inventory on the market, which creates a huge opportunity for sellers. There is less competition among people looking to sell their home, but demand is still incredibly high. There are many buyers in the market right now, and that heavy competition is expected to continue throughout 2017. 
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+Due to low inventory, it’s fairly common to see bidding wars and multiple offers on the same property. Buyers have to go in strong with their offer price and move very quickly in our current market. 
 
-“This is an example of a pull quote”
+Throughout 2017, we expect to see an influx of millennial home buyers in the market. These first-time home buyers will create even more demand. 
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+Right after the election, we saw a dramatic increase in mortgage interest rates. Rates had been in the mid-threes throughout 2016. Now, rates range from 4.25% to 4.85%, and they are expected to rise to 5% or even higher by the end of 2017. 
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+“Interest rates should surpass 5% by the end of 2017.”
+
+Those rising interest rates will put downward pressure on pricing and impact inventory even more. People who want to move up into a larger home may get priced out of the market thanks to those higher interest rates. Buyers may stay in lower-priced homes to avoid paying a higher mortgage rate. 
+
+The good news is that Orlando is one of the top 10 growing real estate markets in the country. Next year, we can expect another 5% to 6% increase in home prices, so there are lots of opportunities for buyers and sellers. 
+
+That said, considering that prices and interest rates will both go up in 2017, now is the time to get off the fence and start your home search. If you have any questions about the buying process or would like to learn more details about our current market, give me a call or send me an email. I would be happy to help you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:5000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Chris+Myers/Orlando+Property+Group+Market+Update.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://floridapropertygroup.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Chris+Myers/Orlando+Property+Group+Market+Update.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:author>Chris Myers</itunes:author>
+        <itunes:summary>What is happening in the Orlando real estate market? I’ll go over the latest market update today, as well as my predictions for the 2017 real estate market.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
-    <copyright>-- CLIENT NAME --</copyright>
-    <media:credit role="author">-- CLIENT NAME --</media:credit>
+    <copyright>Chris Myers</copyright>
+    <media:credit role="author">Chris Myers</media:credit>
     <media:rating>nonadult</media:rating>
     <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Orlando Property Group - your professional Orlando Real Estate Agents.</media:description>
   </channel>

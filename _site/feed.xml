@@ -3,70 +3,54 @@
   <channel>
     <title>Orlando Real Estate Video Blog with Chris Myers</title>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Orlando Property Group - your professional Orlando Real Estate Agents.</description>
-    <link>localhost:5000/</link>
-    <atom:link href="localhost:5000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 13 Dec 2016 16:50:47 -0600</pubDate>
-    <lastBuildDate>Tue, 13 Dec 2016 16:50:47 -0600</lastBuildDate>
+    <link>http://floridapropertygroup.com/</link>
+    <atom:link href="http://floridapropertygroup.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 02 Jun 2017 13:57:24 -0500</pubDate>
+    <lastBuildDate>Fri, 02 Jun 2017 13:57:24 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>this is a test post</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SFFy_drFrZs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>Welcome to My Orlando Real Estate Video Blog</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/v8W6xT8UCJQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps &lt;strong&gt;gastropub marfa r&lt;/strong&gt;etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Bushwick&lt;/em&gt; &lt;a href=&quot;'http://google.com'&quot;&gt;marfa&lt;/a&gt; wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.&lt;/p&gt;
-
-&lt;p&gt;Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This is an example of a pull quote%20localhost:5000/this-is-a-test.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This is an example of a pull quote”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.&lt;/p&gt;
-
-&lt;p&gt;Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…&lt;/p&gt;
+&lt;p&gt;Welcome to my YouTube channel! Here, you can find seller tips, buyer tips, and market updates. I want this to be a resource for all of your real estate needs. If you would like to know more about a specific topic, please let me know and I’ll answer your question with a video. To learn more about my channel, watch this short video.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 04 Oct 2016 00:00:00 -0500</pubDate>
-        <link>localhost:5000/this-is-a-test.html</link>
-        <guid isPermaLink="true">localhost:5000/this-is-a-test.html</guid>
-        
-        <category>Market Update</category>
+        <pubDate>Tue, 03 Jan 2017 00:00:00 -0600</pubDate>
+        <link>http://floridapropertygroup.com/welcome-to-my-orlando-real-estate-video-blog.html</link>
+        <guid isPermaLink="true">http://floridapropertygroup.com/welcome-to-my-orlando-real-estate-video-blog.html</guid>
         
         <category>Real Estate</category>
-        
-        <category>Buyer Tips</category>
-        
-        <category>Home Seller Tips</category>
         
         
       </item>
     
       <item>
-        <title>this is a test</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SFFy_drFrZs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>How Will the Orlando Real Estate Market Change in 2017?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/L7uekGk5fA0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps &lt;strong&gt;gastropub marfa r&lt;/strong&gt;etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.&lt;/p&gt;
+&lt;p&gt;What is the Orlando real estate market like? Today, I’ll go over the latest market update as well as what you can expect from the market in 2017. &lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Bushwick&lt;/em&gt; &lt;a href=&quot;'http://google.com'&quot;&gt;marfa&lt;/a&gt; wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.&lt;/p&gt;
+&lt;p&gt;Right now, there is a shortage of inventory on the market, which creates a huge opportunity for sellers. There is less competition among people looking to sell their home, but demand is still incredibly high. There are many buyers in the market right now, and that heavy competition is expected to continue throughout 2017. &lt;/p&gt;
 
-&lt;p&gt;Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Due to low inventory, it’s fairly common to see bidding wars and multiple offers on the same property&lt;/strong&gt;. Buyers have to go in strong with their offer price and move very quickly in our current market. &lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This is an example of a pull quote%20localhost:5000/a-fox-in-space.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This is an example of a pull quote”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Throughout 2017, we expect to see an influx of millennial home buyers in the market. These first-time home buyers will create even more demand. &lt;/p&gt;
 
-&lt;p&gt;Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.&lt;/p&gt;
+&lt;p&gt;Right after the election, we saw a dramatic increase in mortgage interest rates. Rates had been in the mid-threes throughout 2016. Now, rates range from 4.25% to 4.85%, and they are expected to rise to 5% or even higher by the end of 2017. &lt;/p&gt;
 
-&lt;p&gt;Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Interest rates should surpass 5% by the end of 2017.%20http://floridapropertygroup.com/how-will-the-orlando-real-estate-market-change-in-2017.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Interest rates should surpass 5% by the end of 2017.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Those rising interest rates will put downward pressure on pricing and impact inventory even more. People who want to move up into a larger home may get priced out of the market thanks to those higher interest rates. Buyers may stay in lower-priced homes to avoid paying a higher mortgage rate. &lt;/p&gt;
+
+&lt;p&gt;The good news is that &lt;strong&gt;Orlando is one of the top 10 growing real estate markets in the country&lt;/strong&gt;. Next year, we can expect another 5% to 6% increase in home prices, so there are lots of opportunities for buyers and sellers. &lt;/p&gt;
+
+&lt;p&gt;That said, considering that prices and interest rates will both go up in 2017, now is the time to get off the fence and start your home search. If you have any questions about the buying process or would like to learn more details about our current market, give me a call or send me an email. I would be happy to help you!&lt;/p&gt;
 </description>
-        <pubDate>Wed, 28 Sep 2016 00:00:00 -0500</pubDate>
-        <link>localhost:5000/a-fox-in-space.html</link>
-        <guid isPermaLink="true">localhost:5000/a-fox-in-space.html</guid>
+        <pubDate>Tue, 03 Jan 2017 00:00:00 -0600</pubDate>
+        <link>http://floridapropertygroup.com/how-will-the-orlando-real-estate-market-change-in-2017.html</link>
+        <guid isPermaLink="true">http://floridapropertygroup.com/how-will-the-orlando-real-estate-market-change-in-2017.html</guid>
         
         <category>Market Update</category>
-        
-        <category>Real Estate</category>
-        
-        <category>Buyer Tips</category>
-        
-        <category>Home Seller Tips</category>
         
         
       </item>
