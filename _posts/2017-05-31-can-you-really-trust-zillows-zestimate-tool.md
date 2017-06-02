@@ -29,7 +29,7 @@ Barbara adds, “Her home was put in with a basket of other homes that have no b
 
 Zillow has since released a statement saying that their Zestimate is a good starting point for homeowners and buyers, but it’s not an official appraisal.
 
-Barbara agrees, noting that the company has been very forthcoming about the fact that the Zestimate is not a real appraisal. However, the problem is that the buyer does not realize that Zestimates have a fault factor of 5%, and that one in 10 homes get a Zestimate that’s 20% less than its true market value.
+Barbara agrees, noting that the company has been very forthcoming about the fact that the Zestimate is not a real appraisal. However, the problem is that the buyer does not realize that Zestimates have a fault factor of 5% and that one in 10 homes get a Zestimate that’s 20% less than its true market value.
 
 “They say it’s a starting point, but it’s not reliable,” says Barbara. “Every consumer out there knows about the Zestimate. They know to check it, and they use it as though it’s an appraisal. That’s the basis of the lawsuit.”
 
