@@ -16,10 +16,6 @@ youtube_code: KTVNplLKWhQ
 
 {% include youtube.html %}
 
-<center><em>Lender Jayson Kisselburg stopped by the Stern Team office today with some good news about buying a home with a lot of student loan debt.</em></center>
-
-<center>&nbsp;</center>
-
 Today I’m here with Jayson Kisselburg from Veritas Funding with some good news for those buying a home with a lot of student loan debt.
 
 Student loan debt in America is incredible, as college is not cheap. If you have a lot of student debt, it can be daunting to purchase a home. However, Fannie Mae, one of the mortgage giants in our country, **actually allows you to do a cash-out loan on your property.**
