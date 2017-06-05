@@ -7,41 +7,41 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Kari Kohler
   license_number:
   about_markdown: |
-
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    Kari Kohler’s 10 plus years of successful real estate experience make her an invaluable asset to her clients, and it is her endless energy, work ethic, intuitive nature and grace under pressure that make her the Realtor clients trust and recommend. Kari’s clients appreciate her keen listening skills, detail orientation and gentle take charge personality. She is highly motivated, smart, and customer-centric as she serves St. Charles, Geneva, Batavia, Elgin, Naperville, Barrington and surrounding communities. Kari leads the Kohler Group’s efforts. She works seamlessly together, with her team, to deliver specifically designed results tailored to meet the individual needs of her clients. Kari Kohler is a true professional, and her depth of market knowledge and experience speaks to her $150,000,000 in sales volume. The Kohler Group shares a vision based on dedication to delivering first class service and the results her clients deserve on each and every transaction.
+  market: St. Charles
+  brand: The Kohler Group
+  brokerage: Coldwell Banker
+  address: 2690 E. Main Street, St. Charles, IL 60174
+  phone: 630-673-4586
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: KariKohler@TheKohlerGroup.com
+  url: http://TheKohlerGroup.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://thekohlergroup.cbintouch.com/sell/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
-  VR_form:
+  second_CTA_URL: http://TheKohlerGroup.com
+  VR_form: http://oi.vresp.com?fid=306f9e2885
 
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/004.jpg
+  - CTA_image_path: /img/cta-images/002.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free -- MARKET -- Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://thekohlergroup.cbintouch.com/sell/
 
 second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/005.jpg
+  - CTA_image_path2: /img/cta-images/001.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://TheKohlerGroup.com
 
 lender:
   show_section: false
@@ -66,20 +66,20 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/TheKohlerGroupColdwellBanker/
+  linkedin_url: https://www.linkedin.com/in/karikohler/
+  gplus_url: https://plus.google.com/114091649217803270795
+  youtube_url: https://www.youtube.com/channel/UCuIZspqOuTP7RKeBf8xjgaA
+  twitter_url: https://twitter.com/TheKohlerGroup
   instagram_url:
-  pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
+  pinterest_url: https://www.pinterest.com/kari_kohler/
+  zillow_url: https://www.zillow.com/profile/karikohler/
+  trulia_url: https://www.trulia.com/profile/kari-kohler-agent-saint-charles-il-zg3dzbrq/overview
+  yelp_url: https://www.yelp.com/biz/kari-kohler-re-max-excels-geneva
   podcast_url:
 
 podcast:
-  title:
+  title: St. Cloud Real Estate Podcast with Kari Kohler
   categories: Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
@@ -90,14 +90,14 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 80
   hero_text: -- MARKET -- Real Estate Video Blog
   hero_background_hex: '#094264'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#976caf'
-  theme_color: '#67c4a9'
+  brand_color: '#004990'
+  theme_color: '#999999'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -106,7 +106,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: rgba(0, 0, 0, .35)
 
 buttons:
   button_radius_number: 0
