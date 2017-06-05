@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Which Loan Product Is Best for You?
-date:
+date: 2017-06-05 12:55:32
 tags:
   - Home Buyer Tips
 excerpt: Which kind of home loan product do you qualify for? I’ll break down a few different options for you today.
