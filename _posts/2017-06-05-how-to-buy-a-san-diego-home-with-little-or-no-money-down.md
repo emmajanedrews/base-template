@@ -22,7 +22,7 @@ And with the continuing growth of home prices, things aren't getting any easier.
 
 A decade ago, many lenders were offering easy, no-money-down mortgages. However, after the financial crisis, mortgage standards have become more restrictive. A typical mortgage now requires a 20% down payment.
 
-Here's the good news. If you have decent credit and a steady income, you might qualify for a number of specialized programs that require no or very little down payment.
+Here's the good news. **If you have decent credit and a steady income, you might qualify for a number of specialized programs that require no or very little down payment.**
 
 First, there's the USDA loan, which is valid for homes in certain regions, such as rural and suburban areas. With zero money down and lenient credit requirements, the USDA loan can be a great choice for many homeowners.
 
@@ -30,7 +30,7 @@ Second, there’s the VA loan, which you can apply for if you or your spouse ser
 <br>
 <br>{% include pullquote.html %}
 
-Third, there's the FHA loan. It requires a 3.5% down payment — still drastically more achievable than the 20% required for a conventional mortgage.
+Third, there's the **FHA loan.** It requires a 3.5% down payment — still drastically more achievable than the 20% required for a conventional mortgage.
 
 Finally, there are a number credit unions and first-time homebuyer programs that might apply to your particular situation. There’s one important thing you should know. If you get one of these no-money-down mortgages, chances are good you will be required to pay private mortgage insurance, which can drive up your monthly payments.
 
