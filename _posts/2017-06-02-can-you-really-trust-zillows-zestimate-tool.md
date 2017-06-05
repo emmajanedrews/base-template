@@ -7,7 +7,7 @@ tags:
   - Home Seller Tips
   - Home Buyer Tips
 excerpt: Zillow’s Zestimates are under scrutiny thanks to a lawsuit filed by one Illinois homeowner. Can you really trust them to figure out your home value?
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Becky+Ivins/Videos/Oklahoma+City+Metro+Real+Estate+Agent-+Zillow%2527s+Zestimate+Goes+to+Court.mp4'
 pullquote: 'One in 10 homes get a Zestimate that is 20% under its actual market value.'
 enclosure_type: video/mp4
 enclosure_time:
