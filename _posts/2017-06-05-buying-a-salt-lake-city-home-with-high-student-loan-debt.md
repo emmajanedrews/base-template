@@ -16,7 +16,9 @@ youtube_code: KTVNplLKWhQ
 
 {% include youtube.html %}
 
-<center>*Lender Jayson Kisselburg stopped by the Stern Team office today with some good news about buying a home with a lot of student loan debt.*</center>
+<center><em>Lender Jayson Kisselburg stopped by the Stern Team office today with some good news about buying a home with a lot of student loan debt.</em></center>
+
+<center>&nbsp;</center>
 
 Today I’m here with Jayson Kisselburg from Veritas Funding with some good news for those buying a home with a lot of student loan debt.
 
