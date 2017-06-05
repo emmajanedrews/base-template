@@ -1497,7 +1497,7 @@ label.tree-toggle {
 
 .site-logo {
   width: 90%;
-  max-width: rem;
+  max-width: 40rem;
   -webkit-filter: drop-shadow(0 2px 7px black);
   filter: drop-shadow(0 2px 7px black); }
 
