@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Can You Really Trust Zillow’s Zestimate Tool?
-date: 2017-05-31 00:00:00
+date: 2017-06-02 00:00:00
 tags:
   - Real Estate
   - Home Seller Tips
