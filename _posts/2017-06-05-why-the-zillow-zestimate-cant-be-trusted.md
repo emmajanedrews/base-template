@@ -19,13 +19,13 @@ youtube_code: epwgeF7O_sc
 
 {% include youtube.html %}How does Zillow come up with it’s Zestimate values? Zillow uses an algorithm that pulls public information from our multiple listing system (MLS), tax records, and other online public records that will help it figure out the number of bedrooms, bathrooms, square footage, etc.
 
-Usually when you use a computer, there will always be level of inaccuracy. According to Zillow, they report inaccuracies from 6.4% all the way up to 20% in some areas.
+Usually when you use a computer, there will always be a level of inaccuracy. According to Zillow, they report inaccuracies from 6.4% all the way up to 20% in some areas.
 
 This means if you’re looking at a $200,000 property, the Zillow estimate at 6% may be $12,000 over or under that number. If it’s 20%, your $200,000 home may show that it’s worth $160,000. **That is a big difference.**
 
 A number of months ago, Zillow’s CEO bought a home for $1.6 million&nbsp;**more&nbsp;**than what the Zestimate estimated as the value of the property. When he sold his home, he sold it for 40% less than the Zestimate value.
 
-Another thing to consider is how exactly you come up with a real evaluation of your home’s value**. The first thing you should do is reach out to a local Realtor.&nbsp;**Make sure they have had a few transactions in the area are familiar with the market. They should be able to give you pretty accurate information on the value of your property.
+Another thing to consider is how exactly you come up with a real evaluation of your home’s value**. The first thing you should do is reach out to a local Realtor.&nbsp;**Make sure they have had a few transactions in the area and are familiar with the market. They should be able to give you pretty accurate information on the value of your property.
 <br>
 <br>{% include pullquote.html %}
 
