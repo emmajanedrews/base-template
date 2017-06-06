@@ -26,7 +26,7 @@ When you pull the equity out to pay off your student loans, the loan is then tie
 
 {% include pullquote.html %}
 
-Another benefit of this program is that if you qualify for another Wasatch Front home now, then **you don’t have to report that debt against your income.**Before, you would have to include a payment all the way up to 1%, no matter what the credit bureaus were reporting. Now, we can go off the exact payment from your student loan company.
+Another benefit of this program is that if you qualify for another Wasatch Front home now, then **you don’t have to report that debt against your income.&nbsp;**Before, you would have to include a payment all the way up to 1%, no matter what the credit bureaus were reporting. Now, we can go off the exact payment from your student loan company.
 
 As a loan officer, Jayson sees a lot high student loan debt. Fannie Mae offers a way for more people to qualify to buy a home.
 
