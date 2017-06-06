@@ -4,7 +4,7 @@ title: A Great Way to Help Your Millennial Purchase a Home
 tags:
   - Home Buyer Tips
 excerpt: 'The cost of living here in the L.A. area is quite high, so many millennials are having trouble saving for a down payment. Luckily, there’s a great option to get them into a home.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+How+to+help+your+millennial+purchase+a+home.mp4'
 pullquote: 'Interest rates are low right now, so it’s a great time for parents to get their kids into a new home.'
 enclosure_type: video/mp4
 enclosure_time:
