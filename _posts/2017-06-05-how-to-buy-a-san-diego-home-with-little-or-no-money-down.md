@@ -32,7 +32,7 @@ Second, there’s the VA loan, which you can apply for if you or your spouse ser
 
 Third, there's the **FHA loan.** It requires a 3.5% down payment — still drastically more achievable than the 20% required for a conventional mortgage.
 
-Finally, there are a number credit unions and first-time homebuyer programs that might apply to your particular situation. There’s one important thing you should know. If you get one of these no-money-down mortgages, chances are good you will be required to pay private mortgage insurance, which can drive up your monthly payments.
+Finally, there are a number of credit unions and first-time homebuyer programs that might apply to your particular situation. There’s one important thing you should know. If you get one of these no-money-down mortgages, chances are good you will be required to pay private mortgage insurance, which can drive up your monthly payments.
 
 Fortunately, private mortgage insurance will disappear after your mortgage balance is under 80%. Also, the money you do pay will be tax deductible in most cases. In short, there are lots of options to make owning a home a reality for you, even if you haven't saved up tens of thousands of dollars.
 
