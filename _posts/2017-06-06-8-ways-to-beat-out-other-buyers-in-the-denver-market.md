@@ -8,8 +8,8 @@ enclosure:
 pullquote: There are eight ways you can strengthen your offer to beat the competition.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/daniel-dixon-eight-ways-youtube.jpg
 youtube_code: jhCsYc1egFc
 ---
 
