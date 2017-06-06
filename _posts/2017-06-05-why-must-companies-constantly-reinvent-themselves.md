@@ -26,6 +26,6 @@ To keep pace with constant changes in the market and in the world at large, busi
 <br>&nbsp;
 <br>An evolving business can be like that. **When you think about the technology advancement, market shorts, organic growth, and new leadership all playing a part in a company’s future, what can appear to be calm on the outside is often chaotic from the inside.**
 <br>&nbsp;
-<br>When you’re living in a business day in and day out, you don’t necessarily see what’s going on. So take a step back and be objective when looking at your organization and how it needs to adapt in order to continue its success in the future. **What was relevant yesterday just might not be relative today.**
+<br>When you’re living in a business day in and day out, you don’t necessarily see what’s going on. So take a step back and be objective when looking at your organization and how it needs to adapt in order to continue its success in the future. **What was relevant yesterday just might not be relevant today.**
 <br>&nbsp;
 <br>If you’d like to talk more about your business or how you can ensure it’s as efficient and effective as possible, give me a call or send me an email. I look forward to hearing from you soon.
