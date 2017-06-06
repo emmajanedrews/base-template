@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title></title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <title>Sacramento Real Estate Podcast with Heidi Phong</title>
+    <link>http://heidiphong.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://heidiphong.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Heidi Phong Real Estate Team - your professional Sacramento Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Heidi Phong</managingEditor>
-    <lastBuildDate>2017-03-10 14:18:28 -0600</lastBuildDate>
+    <lastBuildDate>2017-06-06 11:05:30 -0500</lastBuildDate>
     <media:copyright>Heidi Phong</media:copyright>
-    <media:thumbnail url="localhost:4000"/>
+    <media:thumbnail url="http://i.imgur.com/nMXsHvZ.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Sacramento, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
@@ -18,15 +18,184 @@
     </itunes:owner>
     <itunes:author>Heidi Phong</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000"/>
+    <itunes:image href="http://i.imgur.com/nMXsHvZ.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Sacramento, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Sacramento Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Heidi Phong Real Estate Team - your professional Sacramento Real Estate Agents.</itunes:summary>
       <itunes:category text="News &amp; Politics"/>
     
       <item>
+        <title>Who Pays Your Agent’s Commission as a Buyer?</title>
+        <link>http://heidiphong.com/who-pays-your-agents-commission-as-a-buyer.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Heidi Phong</author>
+        <pubDate>2017-05-23 06:40:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+The+cost+of+hiring+an+agent.mp4</guid>
+        <description>
+
+When you work with a buyer’s agent, do you have to pay them commission?
+
+Believe it or not, the answer is no. The buyer’s agent’s commission has already been figured out and agreed upon by the seller.
+
+A lot of first-time homebuyers may worry that their Realtor’s commission will cut into their savings for the down payment. Some homebuyers even skip hiring a buyer’s agent for that reason. However, that’s the beauty of hiring a buyer’s agent: when it’s all said and done, the seller pays for your agent’s commission.
+
+“The seller pays the commission for the buyer’s agent.”
+
+If you’re not already working with a professional to help you find homes, we recommend hiring a Realtor at no cost to you to find the best home.
+
+If you have any questions about beginning your home search or if you would like to learn more about real estate in general, just give us a call or send us an email. We would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+The+cost+of+hiring+an+agent.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+The+cost+of+hiring+an+agent.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>When you work with a buyer’s agent, do you have to pay them commission?</itunes:subtitle>
+        <itunes:author>Heidi Phong</itunes:author>
+        <itunes:summary>When you work with a buyer’s agent, do you have to pay them commission?</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Sacramento, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Are the Main Advantages of  Veteran Financing?</title>
+        <link>http://heidiphong.com/what-are-the-main-advantages-of-veteran-financing.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Heidi Phong</author>
+        <pubDate>2017-04-13 06:16:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+VA+loans+are+fantastic.mp4</guid>
+        <description>
+
+As an agent, I get asked about VA loans all the time. Today I’m going to talk about what they are, what their benefits are, and how you can apply for one.
+
+First off, it’s important to note that in order to qualify for a VA loan, you will need to be active-duty military or an active-duty veteran. The biggest benefit to VA loans is that there is no down payment required. That’s an awesome benefit considering you’d need around $10,000 to get into a $300,000 home at 3.5% down with a conventional loan, not including closing costs.
+
+If you want to apply for a VA loan, the first thing you should do is find a good lender. You want to find someone you can trust. They’ll be able to make sure you are eligible for a VA loan and can help out if there are any hiccups.
+
+“Hire a good lender to see if you qualify.”
+
+After you find a good lender, find a good real estate agent who is also familiar with VA loans. They will be able to avoid the pitfalls that other people come across when looking for a house. Since a VA loan is federally backed, they have much higher standards for homes they’re willing to approve. If there are any problems, it won’t qualify for the VA loan and the seller would have to either make all the necessary repairs or find another buyer instead.
+
+If you have any questions, don’t hesitate to give us a call or send us an email. We are always happy to answer them.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+VA+loans+are+fantastic.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+VA+loans+are+fantastic.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>As an agent, I get asked about VA loans all the time. Today I’m going to talk about what they are, what their benefits are, and how you can apply for one.</itunes:subtitle>
+        <itunes:author>Heidi Phong</itunes:author>
+        <itunes:summary>As an agent, I get asked about VA loans all the time. Today I’m going to talk about what they are, what their benefits are, and how you can apply for one.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Sacramento, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Buyer Advice From Lending Expert Nick Street</title>
+        <link>http://heidiphong.com/buyer-advice-from-lending-expert-nick-street.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Heidi Phong</author>
+        <pubDate>2017-04-11 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Expert+advice+from+Nick+Street.mp4</guid>
+        <description>
+
+Today we’re back with Nick Street, the branch manager at Mountain West Financial, to go over some important advice for homebuyers. You can check out the first part of our conversation here.
+
+There is a large percentage of first-time buyers in our current market. Nick says that there are many loan programs available for first-time buyers, but some are shrinking and some are changing. What’s available today might not be available tomorrow.
+
+The best thing you can do is meet with a loan officer to go over your specific situation so that you can find the program that is best for you. You still need to have good credit, a job, and verifiable income. Some programs even give you a low down payment option, but keep in mind that it’s always best to have access to some funds when buying a home, as there are definitely costs that come with the transaction.
+
+It’s incredibly important that you find a lender you are comfortable with before you start looking at homes. You need to know what your options are and what your buying power is. Some people start looking at homes in a certain price range only to discover that they cannot afford to buy those homes. That can make the home search process frustrating, as you are constantly comparing the homes you can afford to the homes you want in that other, higher price bracket. Knowing your buying power helps you set realistic expectations for your home search.
+
+“Make sure you talk to a lender before you start looking at homes.”
+
+On the other hand, some buyers may get approved at that higher number but they don’t want to buy in that price range. If you look at your own budget and set a more comfortable number, that is perfectly fine. No one understands your financing better than you do, so it’s really important that you talk to your lender and develop a plan that is based on your wants, needs, and goals.
+
+If you have any other lending questions for Nick, you can reach him at 916-262-7631 or email him at Nick.Street@MWFInc.com. As always, if you have any real estate questions, please don’t hesitate to reach out to us. We would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Expert+advice+from+Nick+Street.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Expert+advice+from+Nick+Street.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Nick Street, the branch manager at Mountain West Financial, is back to go over some lending advice for homebuyers.</itunes:subtitle>
+        <itunes:author>Heidi Phong</itunes:author>
+        <itunes:summary>Nick Street, the branch manager at Mountain West Financial, is back to go over some lending advice for homebuyers.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Sacramento, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Part 1 of Our Sit Down With Nick Street</title>
+        <link>http://heidiphong.com/part-1-of-our-sit-down-with-nick-street.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Heidi Phong</author>
+        <pubDate>2017-03-30 19:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+A+closer+look+at+interest+rates.mp4</guid>
+        <description>
+
+I recently sat down with Nick Street, a branch manager with Mountain West Financial. We had a great conversation about mortgages, interest rates, and more. For part one of our conversation, we talked about the current state of interest rates and what the future holds for them.
+
+Nick has been in the mortgage industry since 2004, so he has a wealth of knowledge to share. One of the things he has taken notice of in the last few years is that many people aren’t aware that interest rates are affected by how our economy is doing. When the economy is suffering, rates are going to be pushed down. When our economy is doing well, like it is right now, you will start to see rates increase.
+
+Interest rates greatly affect buying power in this market. If you’re approved for a $300,000 home right now with current interest rates, you would only be able to afford a $270,000 home if rates went up by just 1%.
+
+“Interest rates have a big impact on buying power.”
+
+Right now is actually a great time to buy for a number of reasons. For one, interest rates remain historically low. While it’s true they aren’t as low as they were last summer, when you look at historical data it’s clear that rates are still just about as low as they ever have been. Our market specifically gives buyers a lot of advantages that renters don’t have. Sacramento is a fairly affordable market as well.
+
+In part two, we’ll talk more with Nick about all things mortgage. If you have any questions for Nick, you can reach him at 916.262.7631 or at Nick.Street@MWFInc.com. If you have any questions for us in the meantime, give us a call or send us an email. We look forward to hearing from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+A+closer+look+at+interest+rates.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+A+closer+look+at+interest+rates.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>I recently sat down with Nick Street, a branch manager with Mountain West Financial. We had a great conversation about mortgages, interest rates, and more. For part one of our conversation, we talked about the current state of interest rates and what the future holds for them.</itunes:subtitle>
+        <itunes:author>Heidi Phong</itunes:author>
+        <itunes:summary>I recently sat down with Nick Street, a branch manager with Mountain West Financial. We had a great conversation about mortgages, interest rates, and more. For part one of our conversation, we talked about the current state of interest rates and what the future holds for them.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Sacramento, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>The Benefits of Hiring a Buyer’s Agent</title>
+        <link>http://heidiphong.com/the-benefits-of-hiring-a-buyers-agent.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Heidi Phong</author>
+        <pubDate>2017-03-17 10:31:01 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Why+you+need+an+agent+when+purchasing+a+home.mp4</guid>
+        <description>
+
+Why do you need to hire an agent when buying a home? There are actually a few reasons you’ll want representation when making that big of a purchase.
+
+First, the agent won’t cost you anything. Your agent’s commission actually comes from the seller as payment for bringing the buyer to the property. The bottom line is that you don’t pay a dime to have a buyer’s agent on your side.
+
+“An agent will show you all the homes you want to see.”
+
+Next, a buyer’s agent knows exactly how to negotiate the transaction. Things might come up that need to be negotiated such as repairs you want to be done before closing or complications with the appraisal. You’ll want someone on your side who you are confident can handle those situations for you.
+
+An agent can also show you all the homes you want to see. This means you won’t have to rely on open houses and drive-bys.
+
+Lastly, you want the transaction to be smooth, exciting, and fun. An agent will do all the heavy lifting for you so you can enjoy the process of buying your first home!
+
+If you have any other questions or if you are looking to buy or sell a home, please feel free to give me a call or send me an email. I look forward to hearing from you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Why+you+need+an+agent+when+purchasing+a+home.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Why+you+need+an+agent+when+purchasing+a+home.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Why do you need to hire an agent when buying a home? There are actually a few reasons you’ll want representation when making that big of a purchase.</itunes:subtitle>
+        <itunes:author>Heidi Phong</itunes:author>
+        <itunes:summary>Why do you need to hire an agent when buying a home? There are actually a few reasons you’ll want representation when making that big of a purchase.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Sacramento, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>Thuc’s Record Making Sale with Heidi Phong Real Estate</title>
-        <link>localhost:4000/thucs-record-making-sale-with-heidi.html</link>
+        <link>http://heidiphong.com/thucs-record-making-sale-with-heidi.html</link>
         
           <category>Testimonial</category>
         
@@ -37,7 +206,7 @@
 “Well the results were extremely surprising. I knew the market was hot but I didn’t expect to get what I got and I think it’s due in large part to the agents I picked, Heidi and Billy. They really negotiated and marketed the house well. For my floor plan and model I got the highest selling price ever, so that was awesome. Their responsiveness is top notch, first of all. They answered all of my questions, they responded to every email and text I sent them. As far as going above and beyond that, I know they marketed the property in every place imaginable, they conducted the open house very well from what I saw. Yeah, a just overall great experience.”
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -52,17 +221,16 @@
       
       <item>
         <title>The 10 Steps of Buying a Home</title>
-        <link>localhost:4000/the-10-steps-of-buying-home.html</link>
+        <link>http://heidiphong.com/the-10-steps-of-buying-a-home.html</link>
         
           <category>Home Buyer Tips</category>
         
         <author>Heidi Phong</author>
         <pubDate>2017-02-27 11:44:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+The+10+steps+of+a+home+purchase.mp4</guid>
         <description>
 
-“Do your due diligence.”
-If you’re thinking about buying a home, you should know the transaction will be a little bit more complicated than your average purchase. Today I’ll give you the steps of buying a home so you can be better prepared to jump into the market:
+“Do your due diligence.”If you’re thinking about buying a home, you should know the transaction will be a little bit more complicated than your average purchase. Today I’ll give you the steps of buying a home so you can be better prepared to jump into the market:
 
 
   Consult a real estate agent. Make sure the agent you hire knows your wants, needs, and time frame.
@@ -79,9 +247,9 @@ If you’re thinking about buying a home, you should know the transaction will b
 
 If you have any other questions about buying a home, please feel free to give me a call or send me an email. I look forward to hearing from you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+The+10+steps+of+a+home+purchase.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+The+10+steps+of+a+home+purchase.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>If you want to have a successful home purchase, educating yourself on these 10 steps will help you prepare.</itunes:subtitle>
         <itunes:author>Heidi Phong</itunes:author>
@@ -91,7 +259,7 @@ If you have any other questions about buying a home, please feel free to give me
       
       <item>
         <title>How HP Real Estate Helped Jennifer Through the Home Buying Process</title>
-        <link>localhost:4000/how-hp-real-estate-helped-jennifer.html</link>
+        <link>http://heidiphong.com/how-hp-real-estate-helped-jennifer.html</link>
         
           <category>Testimonial</category>
         
@@ -102,7 +270,7 @@ If you have any other questions about buying a home, please feel free to give me
 “It was really good working with them. Our real estate agent Chia Vang, he was really good, very professional. Whenever we had a question, he was always there to answer them. He was really quick with his response. And for us, because we work during the day until 5, Chia knew that we were getting nervous during the house search and so he worked with our schedule. When we would email him he would respond right away, call he would always answer, text message he would reply back very soon. We were fairly young, it’s our first time purchasing a home, we didn’t know the process to it and so, like example, when we really liked a house, and we told him we were interested in it he helped us through the process and he explained to us exactly what was going to happen. And then when we saw a few things wrong with the house that needed to be fixed he made sure to tell us, don’t worry I’ll make sure that the seller will address it and I’ll make sure to address it with the seller’s agent. We were very happy because we got a new roof. They didn’t just fix the roof, the shingles were replaced three times so they put in a brand new roof. Things around the house that we saw were fixed right away. When we did notice [something] after the final walk-through Chia was able to push for the seller to give us money towards our closing costs so I was very happy with that. Chia, our Realtor, is actually my cousin. He’s like my older brother. One thing that’s really special about him is that he never let family come into it. He didn’t push me to do things just because he was my cousin. I remember asking him about, I think the house inspection, I was like should we do all of it or what do you think? And he was just like, this is what I suggest, but I would never tell what to do exactly. This is the outcome if you do it this way or if you don’t. That was one thing I really appreciated from him was when I didn’t know something he would explain it to me from both perspectives and I was like, alright, that gives we a better understanding of what we need to do for the house.”
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>It was really good working with them. Our real estate agent Chia Vang, he was really good, very professional...</itunes:subtitle>
@@ -113,15 +281,14 @@ If you have any other questions about buying a home, please feel free to give me
       
       <item>
         <title>How Do Pre-Approvals Determine Your Purchasing Power?</title>
-        <link>localhost:4000/how-do-pre-approvals-determine-your.html</link>
+        <link>http://heidiphong.com/how-do-pre-approvals-determine-your-purchasing-power.html</link>
         
           <category>Home Buyer Tips</category>
         
         <author>Heidi Phong</author>
         <pubDate>2017-02-13 09:46:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Why+are+pre-approvals+so+important%253F.mp4</guid>
         <description>
-
 Why is a pre-approval so important? What all goes into the pre-approval process?
 
 First off, you need to get pre-approved so you know what kind of home you are able to buy. Your pre-approval number is generally referred to as your purchasing power.
@@ -138,9 +305,9 @@ Many times, I have to explain this process to my clients in more detail, so if y
 
 If you have any questions or are looking to buy or sell a home, feel free to reach out to us. We’d be happy to help!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Why+are+pre-approvals+so+important%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Why+are+pre-approvals+so+important%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>The pre-approval process is crucial in determining your buying power. Here’s how it works.</itunes:subtitle>
         <itunes:author>Heidi Phong</itunes:author>
@@ -150,15 +317,12 @@ If you have any questions or are looking to buy or sell a home, feel free to rea
       
       <item>
         <title>How the MLS and Lockboxes Help You Buy and Sell a Home</title>
-        <link>localhost:4000/how-mls-and-lockboxes-help-you-buy-and.html</link>
-        
-          <category>Real Estate Tips and Tricks</category>
+        <link>http://heidiphong.com/how-the-mls-and-lockboxes-help-you-buy-and-sell-a-home.html</link>
         
         <author>Heidi Phong</author>
         <pubDate>2017-01-27 15:15:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+How+agents+show+homes+listed+by+other+agents+(1).mp4</guid>
         <description>
-
 Lately, I’ve had a lot of buyers wondering how I’m able to show them homes that I don’t personally have listed. If my picture isn’t on the ‘for sale’ sign, how can I show the home?
 
 When a homeowner decides to sell their home with the help of an agent, they’re working with a listing agent. The listing agent puts the home on a service called the MLS (multiple listing service), which basically advertises that home to every agent who has access to the MLS. Why would you want your home advertised to these agents, though? When a home is put on the market, there’s a certain commission that’s agreed upon by the seller to pay the listing agent and the agent who brings them a willing buyer. The agent who brings a buyer is known as a buyer’s agent.
@@ -171,9 +335,9 @@ This will give sellers an idea of whether their home is priced right and attract
 
 I hope this helps you understand the MLS and how showings work, no matter who the listing agent is. If you have any other questions or you’re looking to buy or sell a Sacramento home, give us a call or send us an email. We’d love to help you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+How+agents+show+homes+listed+by+other+agents+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+How+agents+show+homes+listed+by+other+agents+(1).mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>How is an agent able to show homes to their clients that they don't have as their own listings? I've received this question a lot lately, so I wanted to explain how it works and how we use the MLS.</itunes:subtitle>
         <itunes:author>Heidi Phong</itunes:author>
@@ -183,7 +347,7 @@ I hope this helps you understand the MLS and how showings work, no matter who th
       
       <item>
         <title>How HP Real Estate Helped De</title>
-        <link>localhost:4000/how-hp-real-estate-helped-de.html</link>
+        <link>http://heidiphong.com/how-hp-real-estate-helped-de.html</link>
         
           <category>Testimonial</category>
         
@@ -194,7 +358,7 @@ I hope this helps you understand the MLS and how showings work, no matter who th
 “It was great. We ended up with the house we wanted and we got it for a price and interest rate that we thought was good. Very prompt in responding to all inquiry and questions. Very knowledgeable, have a good amount of resources and people to refer to with other questions, for something he needed to figure out, he was quick with it, prompt.”
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -209,26 +373,22 @@ I hope this helps you understand the MLS and how showings work, no matter who th
       
       <item>
         <title>Wishing You a Safe and Happy Holiday Season</title>
-        <link>localhost:4000/wishing-you-safe-and-happy-holiday.html</link>
-        
-          <category>General</category>
+        <link>http://heidiphong.com/wishing-you-a-safe-and-happy-holiday-season.html</link>
         
         <author>Heidi Phong</author>
         <pubDate>2016-12-19 10:16:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Thanks+for+helping+us+make+2016+great.mp4</guid>
         <description>
 
-“We couldn’t have done it without you!”
-With 2016 coming to a close, we just wanted to reach out today to wish you a happy holiday season as we head into the new chapter of 2017. Thank you so much for your support, your love, and your trust in us to serve you in buying or selling a home.
+“We couldn’t have done it without you!”With 2016 coming to a close, we just wanted to reach out today to wish you a happy holiday season as we head into the new chapter of 2017. Thank you so much for your support, your love, and your trust in us to serve you in buying or selling a home.
 
-We not only met but exceeded our goals this year and we couldn’t have done it without your support.
-We hope you and your family have a warm and safe holiday season. We look forward to serving you in the future.
+We not only met but exceeded our goals this year and we couldn’t have done it without your support.We hope you and your family have a warm and safe holiday season. We look forward to serving you in the future.
 
 As always, if you have any questions or you’re looking to buy or sell a home in Sacramento, we’re always here to help!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Thanks+for+helping+us+make+2016+great.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Thanks+for+helping+us+make+2016+great.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Today's video is dedicated to you. Thanks for all your support in 2016 and beyond.</itunes:subtitle>
         <itunes:author>Heidi Phong</itunes:author>
@@ -237,16 +397,47 @@ As always, if you have any questions or you’re looking to buy or sell a home i
       </item>
       
       <item>
-        <title>Why Is Buying Financially Smarter Than Renting?</title>
-        <link>localhost:4000/why-is-buying-financially-smarter-than.html</link>
+        <title>Why Is Owning a Home More Beneficial in the Long Run?</title>
+        <link>http://heidiphong.com/why-is-owning-a-home-more-beneficial-in-the-long-run.html</link>
         
           <category>Home Buyer Tips</category>
         
         <author>Heidi Phong</author>
         <pubDate>2016-11-28 13:28:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Should+you+buy+a+home+or+keep+renting%253F.mp4</guid>
         <description>
+Owning a home doesn’t just provide you and your family with a place to live; it’s also a great investment. Today, I wanted to share three reasons why:
 
+
+  A mortgage is fixed, but rent is not. It depends on the landlord as to how much, but your rent will go up over time. A mortgage payment will stay the same throughout the lifetime of your loan.
+  A mortgage acts as a forced savings account. Down the road, as you pay your mortgage and reduce the balance on your loan, you also increase your equity in the mortgage. If an emergency occurs or you want to make upgrades to your home, you can pull equity out of your mortgage because it acts like a savings account from the beginning.
+  You can rent out your home if you need to move, and they can pay down your mortgage. You can even potentially earn income from that renter.
+
+
+“A mortgage acts as a forced savings account.”
+
+These are just three reasons why owning a home is beneficial to your finances. If you’re looking for more reasons or you’re ready to buy or sell a house, give me a call or send me an email soon. I’d love to help you out!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Should+you+buy+a+home+or+keep+renting%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Should+you+buy+a+home+or+keep+renting%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Owning a home doesn't just give you a place to live; it's also a great investment. Allow me to explain why today.</itunes:subtitle>
+        <itunes:author>Heidi Phong</itunes:author>
+        <itunes:summary>Owning a home doesn't just give you a place to live; it's also a great investment. Allow me to explain why today.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Sacramento, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Is Buying Financially Smarter Than Renting?</title>
+        <link>http://heidiphong.com/why-is-buying-financially-smarter-than-renting.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Heidi Phong</author>
+        <pubDate>2016-11-28 13:28:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+3+reasons+homeownership+is+a+great+investment.mp4</guid>
+        <description>
 Today, I have good news and bad news that I want to share with you.
 
 The bad news? Since the election, interest rates have gone up. Sadly, they’re no longer hovering around their all-time low average of 3%. The good news? It’s still a good time to buy. Why?
@@ -259,9 +450,9 @@ Now that we’re almost into 2017, our interest rates are averaging 4%. So, as y
 
 If you’re looking to buy or sell a home, don’t hesitate to reach out to me by phone or email. I hope to hear from you soon!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+3+reasons+homeownership+is+a+great+investment.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+3+reasons+homeownership+is+a+great+investment.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Interest rates have risen since the election, but if you bought a home now, you’d still lock in a lower rate than your parents ever could.</itunes:subtitle>
         <itunes:author>Heidi Phong</itunes:author>
@@ -271,15 +462,14 @@ If you’re looking to buy or sell a home, don’t hesitate to reach out to me b
       
       <item>
         <title>Is It Still a Good Time to Buy?</title>
-        <link>localhost:4000/is-it-still-good-time-to-buy.html</link>
+        <link>http://heidiphong.com/is-it-still-a-good-time-to-buy.html</link>
         
           <category>Market Update</category>
         
         <author>Heidi Phong</author>
         <pubDate>2016-11-28 13:28:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Are+interest+rates+still+favorable%253F+(1).mp4</guid>
         <description>
-
 One of my clients recently ask me, “Should I buy now and own a home, or should I keep renting and save for a bigger down payment?”
 
 This is an important question. Everybody’s situation is a little bit different, but if you find that you’re asking yourself the same question, I can tell you that there are three reasons you should stop renting and go ahead and buy.
@@ -296,18 +486,16 @@ Do you want to be able to do whatever you want to the house you’re living in? 
 
 If you have any questions about this topic, please feel free to reach out to me by phone or email. I look forward to hearing from you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Are+interest+rates+still+favorable%253F+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Are+interest+rates+still+favorable%253F+(1).mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 One of my clients recently ask me, “Should I buy now and own a home, or should I keep renting and save for a bigger down payment?”
 
 </itunes:subtitle>
         <itunes:author>Heidi Phong</itunes:author>
         <itunes:summary>
-
 One of my clients recently ask me, “Should I buy now and own a home, or should I keep renting and save for a bigger down payment?”
 
 </itunes:summary>
@@ -315,41 +503,8 @@ One of my clients recently ask me, “Should I buy now and own a home, or should
       </item>
       
       <item>
-        <title>Why Is Owning a Home More Beneficial in the Long Run?</title>
-        <link>localhost:4000/why-is-owning-home-more-beneficial-in.html</link>
-        
-          <category>Home Buyer Tips</category>
-        
-        <author>Heidi Phong</author>
-        <pubDate>2016-11-28 13:28:00 -0600</pubDate>
-        <guid></guid>
-        <description>
-
-Owning a home doesn’t just provide you and your family with a place to live; it’s also a great investment. Today, I wanted to share three reasons why:
-
-
-  A mortgage is fixed, but rent is not. It depends on the landlord as to how much, but your rent will go up over time. A mortgage payment will stay the same throughout the lifetime of your loan.
-  A mortgage acts as a forced savings account. Down the road, as you pay your mortgage and reduce the balance on your loan, you also increase your equity in the mortgage. If an emergency occurs or you want to make upgrades to your home, you can pull equity out of your mortgage because it acts like a savings account from the beginning.
-  You can rent out your home if you need to move, and they can pay down your mortgage. You can even potentially earn income from that renter.
-
-
-“A mortgage acts as a forced savings account.”
-
-These are just three reasons why owning a home is beneficial to your finances. If you’re looking for more reasons or you’re ready to buy or sell a house, give me a call or send me an email soon. I’d love to help you out!
-</description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Owning a home doesn't just give you a place to live; it's also a great investment. Allow me to explain why today.</itunes:subtitle>
-        <itunes:author>Heidi Phong</itunes:author>
-        <itunes:summary>Owning a home doesn't just give you a place to live; it's also a great investment. Allow me to explain why today.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Sacramento, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-      </item>
-      
-      <item>
         <title>How HP Real Estate Got Alex the House He Wanted</title>
-        <link>localhost:4000/how-hp-real-estate-got-alex-house-he.html</link>
+        <link>http://heidiphong.com/how-hp-real-estate-got-alex-house-he.html</link>
         
           <category>Testimonial</category>
         
@@ -360,7 +515,7 @@ These are just three reasons why owning a home is beneficial to your finances. I
 “Well I got the house that we really wanted after a process that was very competitive for the buyer of course. But yeah, very happy with the results. Chia ended up coming through, so very thankful that he was able to help us get the house that we wanted. The lender that I was using, the first lender, was actually charging me more than was expected and my agent Chia was able to get me over to, he looked at my documents and he was able to get me switched over to a lender to get me a better deal and he was able to get me to do that in a timely fashion where we were able to pull it off and we did this after a couple of weeks of working with the first lender so he did everything that was essential to make it work and in a timely fashion once again. He was there from the very beginning, throughout the whole process, very encouraging, he really helped out with that. If he had not gone through with the new lender, getting me a better deal, which saved me a lot of money, thousands of dollars then we would have lost the house that we wanted.”
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -375,15 +530,12 @@ These are just three reasons why owning a home is beneficial to your finances. I
       
       <item>
         <title>The Most Important Parts of the Home Inspection</title>
-        <link>localhost:4000/the-most-important-parts-of-home.html</link>
-        
-          <category>Real Estate Tips and Tricks</category>
+        <link>http://heidiphong.com/the-most-important-parts-of-the-home-inspection.html</link>
         
         <author>Heidi Phong</author>
         <pubDate>2016-10-27 10:06:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+What+to+expect+when+you%2527re+inspecting.mp4</guid>
         <description>
-
 Today I wanted to discuss three important aspects of home inspections.
 
 The first thing to remember is that you as a buyer will have to pay for the home inspection. You don’t want the seller to pay for the inspection because if they do, they will choose the inspector. As a result, the inspector will look out for the seller’s best interests instead of yours. You want the inspector to be working for you so that he or she can give you an unbiased opinion of the home.
@@ -398,18 +550,16 @@ Hopefully, this gives you a better idea of what to expect when it comes to home 
 
 If you have any more questions about home inspections or you’re thinking about buying or selling a home in the Sacramento area, give me a call or send me an email. I’d love to help you out!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+What+to+expect+when+you%2527re+inspecting.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+What+to+expect+when+you%2527re+inspecting.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Today I wanted to discuss three important aspects of home inspections.
 
 </itunes:subtitle>
         <itunes:author>Heidi Phong</itunes:author>
         <itunes:summary>
-
 Today I wanted to discuss three important aspects of home inspections.
 
 </itunes:summary>
@@ -418,38 +568,34 @@ Today I wanted to discuss three important aspects of home inspections.
       
       <item>
         <title>3 Reasons to Get Pre-Approved</title>
-        <link>localhost:4000/3-reasons-to-get-pre-approved.html</link>
+        <link>http://heidiphong.com/3-reasons-to-get-pre-approved.html</link>
         
           <category>Home Buyer Tips</category>
         
         <author>Heidi Phong</author>
         <pubDate>2016-10-10 10:15:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Don%2527t+ever+skip+this+step+when+buying+a+home.mp4</guid>
         <description>
-
 There are three reasons to get pre-approved for a mortgage before you shop for a home:
 
 
   You’ll know what you can afford. People will come to me wanting to look at homes in a certain price range and then proceed to get pre-approved. Many times, these buyers end up qualifying for more than they thought and have more options for buying a home. You won’t have to cap yourself because you’ll know what you can afford.
-  You won’t know what interest rates will be until you lock them in. If you look for a home first and then get pre-approved, you won’t have a good idea of what your payment is. You might find out that payments are more than you can afford on a monthly basis, and we have to reduce the purchase price. Interest affects more than just the price, so you want to lock in your rate before shopping.
-“Getting pre-approved tells toy exactly what you can afford.”
+  You won’t know what interest rates will be until you lock them in. If you look for a home first and then get pre-approved, you won’t have a good idea of what your payment is. You might find out that payments are more than you can afford on a monthly basis, and we have to reduce the purchase price. Interest affects more than just the price, so you want to lock in your rate before shopping.“Getting pre-approved tells toy exactly what you can afford.”
   You can provide the seller with the pre-approval letter. This is huge if you find yourself up against other offers. If you don’t have a pre-approval letter and the offer you’re competing against does, the seller will most likely go with the offer with the pre-approval. Why? All the lender information is there to verify that the buyer has the necessary funds. Sometimes sellers who go under contract with buyers who aren’t pre-approved will cancel the deal within a week when they find out about their pre-approval status.
 
 
 Don’t underestimate any of these three points about getting pre-approved for a loan before you look at homes. If you have any questions about the pre-approval process or you’re thinking about buying a home in Sacramento, give us a call or send us an email. We’d be happy to help!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Don%2527t+ever+skip+this+step+when+buying+a+home.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Don%2527t+ever+skip+this+step+when+buying+a+home.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 There are three reasons to get pre-approved for a mortgage before you shop for a home:
 
 </itunes:subtitle>
         <itunes:author>Heidi Phong</itunes:author>
         <itunes:summary>
-
 There are three reasons to get pre-approved for a mortgage before you shop for a home:
 
 </itunes:summary>
@@ -458,15 +604,14 @@ There are three reasons to get pre-approved for a mortgage before you shop for a
       
       <item>
         <title>3 Tips for Winning a Multiple Offer Situation</title>
-        <link>localhost:4000/3-tips-for-winning-multiple-offer.html</link>
+        <link>http://heidiphong.com/3-tips-for-winning-a-multiple-offer-situation.html</link>
         
           <category>Home Buyer Tips</category>
         
         <author>Heidi Phong</author>
         <pubDate>2016-09-27 14:21:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+How+to+win+a+multiple+offer+situation.mp4</guid>
         <description>
-
 There are three strategies that you as a buyer can utilize to win a multiple offer situation.
 
 The first is shortening the contingency period in your offer. A contingency period in a normal offer is anywhere from 17 to 21 days. Your offer may look stronger if you shorten up your contingency period to perhaps 15 or 10 days.
@@ -481,18 +626,16 @@ The third strategy is to include your lender’s information in your offer. This
 
 If you’re looking to buy our sell a home, don’t hesitate to get in contact with us. Just give us a call or send us an email, and we’d be happy to help you.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+How+to+win+a+multiple+offer+situation.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+How+to+win+a+multiple+offer+situation.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 There are three strategies that you as a buyer can utilize to win a multiple offer situation.
 
 </itunes:subtitle>
         <itunes:author>Heidi Phong</itunes:author>
         <itunes:summary>
-
 There are three strategies that you as a buyer can utilize to win a multiple offer situation.
 
 </itunes:summary>
@@ -501,7 +644,7 @@ There are three strategies that you as a buyer can utilize to win a multiple off
       
       <item>
         <title>How Heidi Made Samantha Feel like her Needs Were Priority </title>
-        <link>localhost:4000/how-heidi-made-samantha-feel-like-her.html</link>
+        <link>http://heidiphong.com/how-heidi-made-samantha-feel-like-her.html</link>
         
           <category>Testimonial</category>
         
@@ -512,7 +655,7 @@ There are three strategies that you as a buyer can utilize to win a multiple off
 “I’m actually from New York and California was very unfamiliar to me and when I first came here I was actually referred to Heidi Phong Real Estate Team, one of the things, as soon as I came into her office and I saw her bright smile, welcoming, I felt very fortunate because she’s this young but successful career woman but she’s also got this great personality, very similar to mine actually. The way she presented her company, the values she talked to me about her company, for me customer service is very important and I really felt that she felt, she made me feel [like I was] priority. She knew what I wanted. I told her what my criteria were, she tried to meet every part of it. Throughout the entire time she and her team, they were very patient with me. I’m somebody who, I want to buy a house, I want to go see this house. They really, really accommodated me around my schedule, even at night time I would still text Heidi and say Heidi what’s the status of this property? And she’s very good at it, she’s always updating me. She’s on top of her game. Very, very respectful and always fighting on behalf of me as her buyer. So I really respect that from her. The good thing is I saw a house I wanted, it was like a dream house to me, she closed in 15 days. She even got me a discount, she got me lower than the listing price, so I’m very, very happy. “
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -527,15 +670,12 @@ There are three strategies that you as a buyer can utilize to win a multiple off
       
       <item>
         <title>Why Do You Need a Listing Appointment to Help Sell Your Sacramento Home?</title>
-        <link>localhost:4000/why-do-you-need-listing-appointment-to.html</link>
-        
-          <category>Real Estate Tips and Tricks</category>
+        <link>http://heidiphong.com/why-do-you-need-a-listing-appointment-to-help-sell-your-sacramento-home.html</link>
         
         <author>Heidi Phong</author>
         <pubDate>2016-05-10 11:22:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+What+happens+in+a+listing+appointment%253F.mp4</guid>
         <description>
-
 What happens on a listing appointment? Typically, sellers who contact us have a general idea of what the house is worth. Thanks to different sites like Zillow and Redfin, you can get a good approximation of what the home is worth. So why have us walk through the house?
 
 First, we give our professional opinion. We let you know exactly what to do to net the most money for your home and sell it the fastest.
@@ -550,18 +690,16 @@ At our listing appointments, we cover everything from A to Z. We have contractor
 
 If you have any other questions, give us a call or send us an email. We would be happy to help you.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+What+happens+in+a+listing+appointment%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+What+happens+in+a+listing+appointment%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 What happens on a listing appointment? Typically, sellers who contact us have a general idea of what the house is worth. Thanks to different sites like Zillow and Redfin, you can get a good approximation of what the home is worth. So why have us walk through the house?
 
 </itunes:subtitle>
         <itunes:author>Heidi Phong</itunes:author>
         <itunes:summary>
-
 What happens on a listing appointment? Typically, sellers who contact us have a general idea of what the house is worth. Thanks to different sites like Zillow and Redfin, you can get a good approximation of what the home is worth. So why have us walk through the house?
 
 </itunes:summary>
@@ -569,16 +707,15 @@ What happens on a listing appointment? Typically, sellers who contact us have a 
       </item>
       
       <item>
-        <title>How Is the Sacramento Real Estate Market Really Doing? </title>
-        <link>localhost:4000/how-is-sacramento-real-estate-market.html</link>
+        <title>How Is the Sacramento Real Estate Market Really Doing?</title>
+        <link>http://heidiphong.com/how-is-the-sacramento-real-estate-market-really-doing.html</link>
         
           <category>Market Update</category>
         
         <author>Heidi Phong</author>
         <pubDate>2016-05-10 10:34:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+The+Sacramento+real+estate+market+is+booming%2521.mp4</guid>
         <description>
-
 Recently, I had a buyer consultation with a client, and she asked, “How is the real estate market doing?”
 
 Right now, Sacramento has about 1.3 months of housing inventory available. To put that in perspective, a balanced market has four to six months of inventory. Anything below that is considered a seller’s market.
@@ -593,18 +730,16 @@ The second quarter of 2016 is even better than the first. Since this is such a s
 
 In April, we closed 27 transactions, which is almost a deal a day. As you can see, the Sacramento market is booming. If you have any questions, just give us a call or send us an email. We would be happy to help you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+The+Sacramento+real+estate+market+is+booming%2521.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+The+Sacramento+real+estate+market+is+booming%2521.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Recently, I had a buyer consultation with a client, and she asked, “How is the real estate market doing?”
 
 </itunes:subtitle>
         <itunes:author>Heidi Phong</itunes:author>
         <itunes:summary>
-
 Recently, I had a buyer consultation with a client, and she asked, “How is the real estate market doing?”
 
 </itunes:summary>
@@ -613,15 +748,12 @@ Recently, I had a buyer consultation with a client, and she asked, “How is the
       
       <item>
         <title>How to See Sacramento Listings Online in Real Time</title>
-        <link>localhost:4000/how-to-see-sacramento-listings-online.html</link>
-        
-          <category>Real Estate Tips and Tricks</category>
+        <link>http://heidiphong.com/how-to-see-sacramento-listings-online-in-real-time.html</link>
         
         <author>Heidi Phong</author>
         <pubDate>2016-05-03 15:50:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Dont+fall+for+stale%252C+outdated+listings+online.mp4</guid>
         <description>
-
 What’s the best way to find your dream home online in Sacramento? You’ve probably visited at least one of the three real estate giants online in Zillow, Trulia or Redfin, which make up almost 80% of online real estate market. The problem is, the listings are often outdated.
 
 Have you or anyone you know found a home you really loved online, only to find that it sold weeks or even months ago?
@@ -634,18 +766,16 @@ Us Realtors have access to what’s called the MLS, which is where all new busin
 
 If you’re looking for homes in the near future or even just shopping around, you want to visit this website. And as always, if you or anyone you know is looking to buy or sell, think of us. We’d love to work with you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Dont+fall+for+stale%252C+outdated+listings+online.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Dont+fall+for+stale%252C+outdated+listings+online.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 What’s the best way to find your dream home online in Sacramento? You’ve probably visited at least one of the three real estate giants online in Zillow, Trulia or Redfin, which make up almost 80% of online real estate market. The problem is, the listings are often outdated.
 
 </itunes:subtitle>
         <itunes:author>Heidi Phong</itunes:author>
         <itunes:summary>
-
 What’s the best way to find your dream home online in Sacramento? You’ve probably visited at least one of the three real estate giants online in Zillow, Trulia or Redfin, which make up almost 80% of online real estate market. The problem is, the listings are often outdated.
 
 </itunes:summary>
@@ -654,17 +784,15 @@ What’s the best way to find your dream home online in Sacramento? You’ve pro
       
       <item>
         <title>Is Now the Time to Become a Homeowner in Sacramento?</title>
-        <link>localhost:4000/is-now-time-to-become-homeowner-in.html</link>
+        <link>http://heidiphong.com/is-now-the-time-to-become-a-homeowner-in-sacramento.html</link>
         
           <category>Home Buyer Tips</category>
         
         <author>Heidi Phong</author>
         <pubDate>2016-03-21 13:55:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Renting+vs.+buying.mp4</guid>
         <description>
-
-Is it better to own a home or to rent? As a real estate advisor, there really isn’t a straight answer. In fact, to find out what the right answer is for a particular client’s situation,
-I ask the following questions:
+Is it better to own a home or to rent? As a real estate advisor, there really isn’t a straight answer. In fact, to find out what the right answer is for a particular client’s situation,I ask the following questions:
 
 
   What are your plans for the next 2-5 years? You need to think about your relationships and your job before you make the leap into homeownership. If you may be relocating in coming years, locking in a mortgage may not be the best option.
@@ -679,21 +807,17 @@ Whether you should buy or rent really depends on how you react to these question
 
 If you want our help determining what might be best for you, or if you need real estate assistance of any kind, please don’t hesitate to reach out to us. We would love to hear from you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Renting+vs.+buying.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Renting+vs.+buying.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
-Is it better to own a home or to rent? As a real estate advisor, there really isn’t a straight answer. In fact, to find out what the right answer is for a particular client’s situation,
-I ask the following questions:
+Is it better to own a home or to rent? As a real estate advisor, there really isn’t a straight answer. In fact, to find out what the right answer is for a particular client’s situation,I ask the following questions:
 
 </itunes:subtitle>
         <itunes:author>Heidi Phong</itunes:author>
         <itunes:summary>
-
-Is it better to own a home or to rent? As a real estate advisor, there really isn’t a straight answer. In fact, to find out what the right answer is for a particular client’s situation,
-I ask the following questions:
+Is it better to own a home or to rent? As a real estate advisor, there really isn’t a straight answer. In fact, to find out what the right answer is for a particular client’s situation,I ask the following questions:
 
 </itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Sacramento, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
@@ -701,7 +825,7 @@ I ask the following questions:
       
       <item>
         <title>Ideas for Dressing Up Your Home for Spring</title>
-        <link>localhost:4000/ideas-for-dressing-up-your-home-for.html</link>
+        <link>http://heidiphong.com/ideas-for-dressing-up-your-home-for.html</link>
         
         <author>Heidi Phong</author>
         <pubDate>2016-03-18 19:22:00 -0500</pubDate>
@@ -725,7 +849,7 @@ Spring means good sunlight. Let those rays grace your room by putting up simple 
 New life, new beginnings, and renewed hope; these are the things that Spring Season gives each and every one of us. So start celebrating spring season in your very own abode.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Spring is already in the horizon and very soon we have to get rid of the winter clothes that we have in our closets and replace it with clothes more appropriate with this season of blooming flowers. We should not forget that our homes will be in line with the spring fashion line!
@@ -739,45 +863,8 @@ New life, new beginnings, and renewed hope; these are the things that Spring Sea
       </item>
       
       <item>
-        <title>Get to Know Our Sacramento Agents: Meet Chia </title>
-        <link>localhost:4000/get-to-know-our-sacramento-agents-meet.html</link>
-        
-          <category>Team Members</category>
-        
-        <author>Heidi Phong</author>
-        <pubDate>2016-03-16 15:00:00 -0500</pubDate>
-        <guid></guid>
-        <description>
-
-The Heidi Phong Team has been around for 8 years now, helping families buy and sell homes. At the HP team, we are real estate advisors, not real estate salespeople. We’d like to take a moment to introduce one of our agents, Chia Vang.
-
-“We are the real estate advisors, not salespeople.”
-
-As a real estate advisor, Chia’s goal is to give you the best advice so you feel confident about your decision. He is a full-time agent who knows how to get the job done. Chia believes that a real estate transaction should be fun, exciting, and simple for his clients.
-
-If you have any questions for Chia, give us a call or send us an email. We look forward to hearing from you!
-</description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-The Heidi Phong Team has been around for 8 years now, helping families buy and sell homes. At the HP team, we are real estate advisors, not real estate salespeople. We’d like to take a moment to introduce one of our agents, Chia Vang.
-
-</itunes:subtitle>
-        <itunes:author>Heidi Phong</itunes:author>
-        <itunes:summary>
-
-The Heidi Phong Team has been around for 8 years now, helping families buy and sell homes. At the HP team, we are real estate advisors, not real estate salespeople. We’d like to take a moment to introduce one of our agents, Chia Vang.
-
-</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Sacramento, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-      </item>
-      
-      <item>
         <title>Spring Cleaning Tips: Preparing Your Home for This Season</title>
-        <link>localhost:4000/spring-cleaning-tips-preparing-your.html</link>
+        <link>http://heidiphong.com/spring-cleaning-tips-preparing-your.html</link>
         
         <author>Heidi Phong</author>
         <pubDate>2016-03-04 20:01:00 -0600</pubDate>
@@ -799,7 +886,7 @@ Sixth and probably the most important is to get your home organized. Declutter y
 These are just some of the things that you can do to make your home feel refreshing this spring. Make a note to yourself though that you should also change your wardrobe since the winter season is over!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Every year, there are things that we should to make sure that our home is ready for the upcoming season. This is to make sure our house is well maintained. So for this spring, we have to make sure that our house will be as refreshing as the season.
@@ -813,16 +900,15 @@ These are just some of the things that you can do to make your home feel refresh
       </item>
       
       <item>
-        <title>How to Avoid a Failed Sacramento Home Sale </title>
-        <link>localhost:4000/how-to-avoid-failed-sacramento-home-sale.html</link>
+        <title>How to Avoid a Failed Sacramento Home Sale</title>
+        <link>http://heidiphong.com/how-to-avoid-a-failed-sacramento-home-sale.html</link>
         
           <category>Home Seller Tips</category>
         
         <author>Heidi Phong</author>
         <pubDate>2016-02-29 13:03:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Four+reasons+homes+dont+sell+(1).mp4</guid>
         <description>
-
 Have you ever wondered why some homes fail to sell? Typically, there are four reasons for this:
 
 
@@ -836,18 +922,16 @@ Have you ever wondered why some homes fail to sell? Typically, there are four re
 
 If your home failed to sell for one of these reasons, or if you want to avoid the same fate as other buyers, please don’t hesitate to reach out to us. We would love to hear from you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Four+reasons+homes+dont+sell+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Four+reasons+homes+dont+sell+(1).mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Have you ever wondered why some homes fail to sell? Typically, there are four reasons for this:
 
 </itunes:subtitle>
         <itunes:author>Heidi Phong</itunes:author>
         <itunes:summary>
-
 Have you ever wondered why some homes fail to sell? Typically, there are four reasons for this:
 
 </itunes:summary>
@@ -856,7 +940,7 @@ Have you ever wondered why some homes fail to sell? Typically, there are four re
       
       <item>
         <title>Spring Home Staging</title>
-        <link>localhost:4000/spring-home-staging.html</link>
+        <link>http://heidiphong.com/spring-home-staging.html</link>
         
           <category>Real Estate Tips and Tricks</category>
         
@@ -891,7 +975,7 @@ You don’t have to spend a lot just to stage your home. A simple flower vase wi
 More seller tips at: www.heidiphonghomes.com
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>We all agree that staging is a big part of selling your house.  You have to make sure that it will leave a mark to your buyers. Giving your buyers a wow factor will definitely remind them of your house when it’s time for them to choose among the open houses that they’ve attended. Of course, it’s not enough to just stage your house for it to look good. You have to stage your house according to the current season. And since it is spring, here are some tips on how to stage your house during this season.
@@ -906,40 +990,29 @@ More seller tips at: www.heidiphonghomes.com
       
       <item>
         <title>What Should You Look for in a Realtor in Sacramento?</title>
-        <link>localhost:4000/what-should-you-look-for-in-realtor-in.html</link>
-        
-          <category>Real Estate Tips and Tricks</category>
+        <link>http://heidiphong.com/what-should-you-look-for-in-a-realtor-in-sacramento.html</link>
         
         <author>Heidi Phong</author>
         <pubDate>2016-02-24 11:46:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Two+things+to+ask+your+Realtor.mp4</guid>
         <description>
-
-Whether you’re buying or selling a home, before you hire a Realtor you need to ask them a few questions. We’ll be discussing two very important questions today.
-1. Is your Realtor full time or part time? You want a full-time Realtor if you’re buying or selling. Why would you let a part-time worker help you make such an important investment? You want someone that is dedicated to you and your needs.
-1. How many homes did they sell last year? If they sold less than 20 or 30 homes, you may want to find someone with more experience. This industry isn’t easy, and you need someone that can help guide you through it, especially in the tough Sacramento market.
+Whether you’re buying or selling a home, before you hire a Realtor you need to ask them a few questions. We’ll be discussing two very important questions today.1. Is your Realtor full time or part time? You want a full-time Realtor if you’re buying or selling. Why would you let a part-time worker help you make such an important investment? You want someone that is dedicated to you and your needs.1. How many homes did they sell last year? If they sold less than 20 or 30 homes, you may want to find someone with more experience. This industry isn’t easy, and you need someone that can help guide you through it, especially in the tough Sacramento market.
 
 “You need an experienced, full-time real estate agent.”
 
 If you want to hear more questions you should ask your Realtor, please don’t hesitate to contact me. I look forward to hearing from you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Two+things+to+ask+your+Realtor.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Two+things+to+ask+your+Realtor.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
-Whether you’re buying or selling a home, before you hire a Realtor you need to ask them a few questions. We’ll be discussing two very important questions today.
-1. Is your Realtor full time or part time? You want a full-time Realtor if you’re buying or selling. Why would you let a part-time worker help you make such an important investment? You want someone that is dedicated to you and your needs.
-1. How many homes did they sell last year? If they sold less than 20 or 30 homes, you may want to find someone with more experience. This industry isn’t easy, and you need someone that can help guide you through it, especially in the tough Sacramento market.
+Whether you’re buying or selling a home, before you hire a Realtor you need to ask them a few questions. We’ll be discussing two very important questions today.1. Is your Realtor full time or part time? You want a full-time Realtor if you’re buying or selling. Why would you let a part-time worker help you make such an important investment? You want someone that is dedicated to you and your needs.1. How many homes did they sell last year? If they sold less than 20 or 30 homes, you may want to find someone with more experience. This industry isn’t easy, and you need someone that can help guide you through it, especially in the tough Sacramento market.
 
 </itunes:subtitle>
         <itunes:author>Heidi Phong</itunes:author>
         <itunes:summary>
-
-Whether you’re buying or selling a home, before you hire a Realtor you need to ask them a few questions. We’ll be discussing two very important questions today.
-1. Is your Realtor full time or part time? You want a full-time Realtor if you’re buying or selling. Why would you let a part-time worker help you make such an important investment? You want someone that is dedicated to you and your needs.
-1. How many homes did they sell last year? If they sold less than 20 or 30 homes, you may want to find someone with more experience. This industry isn’t easy, and you need someone that can help guide you through it, especially in the tough Sacramento market.
+Whether you’re buying or selling a home, before you hire a Realtor you need to ask them a few questions. We’ll be discussing two very important questions today.1. Is your Realtor full time or part time? You want a full-time Realtor if you’re buying or selling. Why would you let a part-time worker help you make such an important investment? You want someone that is dedicated to you and your needs.1. How many homes did they sell last year? If they sold less than 20 or 30 homes, you may want to find someone with more experience. This industry isn’t easy, and you need someone that can help guide you through it, especially in the tough Sacramento market.
 
 </itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Sacramento, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
@@ -947,7 +1020,7 @@ Whether you’re buying or selling a home, before you hire a Realtor you need to
       
       <item>
         <title>How the HP Real Estate Team Made Jeff’s Sale a Success</title>
-        <link>localhost:4000/how-hp-real-estate-team-made-jeffs-sale.html</link>
+        <link>http://heidiphong.com/how-hp-real-estate-team-made-jeffs-sale.html</link>
         
           <category>Testimonial</category>
         
@@ -958,7 +1031,7 @@ Whether you’re buying or selling a home, before you hire a Realtor you need to
 “Heidi and Billy were excellent, they were very professional, their real estate game plan was well thought out and well executed. They sold my home for the price I wanted and they were instrumental in making the sale a success. They always answered the phone, their communication was fantastic.”
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -972,16 +1045,15 @@ Whether you’re buying or selling a home, before you hire a Realtor you need to
       </item>
       
       <item>
-        <title> Why Is it Such a Great Time to Sell in Sacramento?</title>
-        <link>localhost:4000/why-is-it-such-great-time-to-sell-in.html</link>
+        <title>Why Is it Such a Great Time to Sell in Sacramento?</title>
+        <link>http://heidiphong.com/why-is-it-such-a-great-time-to-sell-in-sacramento.html</link>
         
           <category>Market Update</category>
         
         <author>Heidi Phong</author>
         <pubDate>2016-01-22 11:15:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-When+is+a+good+time+to+sell+your+house%253F.mp4</guid>
         <description>
-
 There really is only one reason to buy or sell a home right now. That has to do with supply and demand. We have an extremely low supply of homes and a major demand for them.
 
 We only have about a 40-day supply of homes here in Sacramento, which is uncharacteristically low. A healthy market would have 4 months of supply, so we need homes on the market! Homes are selling within 25 days and if your home is priced well and in good condition, it could sell even faster.
@@ -994,18 +1066,16 @@ If you’re interested in buying a home, I suggest that you do so now. The same 
 
 I look forward to hearing from you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-When+is+a+good+time+to+sell+your+house%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-When+is+a+good+time+to+sell+your+house%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 There really is only one reason to buy or sell a home right now. That has to do with supply and demand. We have an extremely low supply of homes and a major demand for them.
 
 </itunes:subtitle>
         <itunes:author>Heidi Phong</itunes:author>
         <itunes:summary>
-
 There really is only one reason to buy or sell a home right now. That has to do with supply and demand. We have an extremely low supply of homes and a major demand for them.
 
 </itunes:summary>
@@ -1014,34 +1084,31 @@ There really is only one reason to buy or sell a home right now. That has to do 
       
       <item>
         <title>Happy New Year, Sacramento!</title>
-        <link>localhost:4000/sacramento-real-estate-new-year-greeting.html</link>
+        <link>http://heidiphong.com/happy-new-year-sacramento.html</link>
         
         <author>Heidi Phong</author>
         <pubDate>2015-12-30 09:59:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Thanks+to+our+wonderful+clients%2521.mp4</guid>
         <description>
-
 On behalf of our team, we just want to say thank you so much! Because of you, we’ve had our best year in 2015. We value our relationship with you, and just wanted to wish you a Happy New Year.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Thanks+to+our+wonderful+clients%2521.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Thanks+to+our+wonderful+clients%2521.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 On behalf of our team, we just want to say thank you so much! Because of you, we’ve had our best year in 2015. We value our relationship with you, and just wanted to wish you a Happy New Year.
 </itunes:subtitle>
         <itunes:author>Heidi Phong</itunes:author>
         <itunes:summary>
-
 On behalf of our team, we just want to say thank you so much! Because of you, we’ve had our best year in 2015. We value our relationship with you, and just wanted to wish you a Happy New Year.
 </itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Sacramento, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>Prepare Your Home for the Holidays with these Decorating Tips! </title>
-        <link>localhost:4000/sacramento-real-estate-holiday.html</link>
+        <title>Prepare Your Home for the Holidays with these Decorating Tips!</title>
+        <link>http://heidiphong.com/prepare-your-home-for-the-holidays-with-these-decorating-tips.html</link>
         
         <author>Heidi Phong</author>
         <pubDate>2015-12-07 11:06:00 -0600</pubDate>
@@ -1058,9 +1125,9 @@ On behalf of our team, we just want to say thank you so much! Because of you, we
 
 As you can see, it doesn’t take much to make your home feel more festive. If you have any questions, give us a call or send us an email. We would be happy to help you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="" length="" type=""/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
+        <media:content url="" type=""/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>The holidays are approaching. Today, we thought we’d do something a little different and share this festive video on holiday decorating tips from HGTV. Designer Angelo Surmelis shares several great ideas to spread holiday cheer throughout the home. Here are some of our favorites.
 
@@ -1074,7 +1141,7 @@ As you can see, it doesn’t take much to make your home feel more festive. If y
       
       <item>
         <title>Why Aren’t Millennials Buying Homes More Frequently?</title>
-        <link>localhost:4000/sacramento-real-estate-millennial-home.html</link>
+        <link>http://heidiphong.com/sacramento-real-estate-millennial-home.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -1103,7 +1170,7 @@ The Money Source, a mortgage lender, examined applications from 5,404 millennial
 Thanks for joining me today. Talk to you soon!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -1122,26 +1189,21 @@ One thing we know for certain about the real estate market is that it is never g
       
       <item>
         <title>What Are the Best Repairs to Make on Your Home?</title>
-        <link>localhost:4000/sacramento-real-estate-adding-value-to.html</link>
+        <link>http://heidiphong.com/what-are-the-best-repairs-to-make-on-your-home.html</link>
         
           <category>Home Seller Tips</category>
         
         <author>Heidi Phong</author>
         <pubDate>2015-08-26 14:07:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+4+cost-effective+home+repairs.mp4</guid>
         <description>
-
 With the selling season in full swing, I wanted to share four inexpensive ways to add some value to your home. These things can be done right before a sale, and they can put some extra cash in your pocket at closing.
 
 
-  Appliances
-Many of our homes have older appliances within them, and you might be surprised at how inexpensive it is to get new appliances. A company I know of called ABT is able to swap out all of your appliances to get you the stainless steel that buyers love to see these days.
-  Painting
-This may be one of the easiest ways to add value to your property. Fresh paint is an extremely cost-effective way to add value to your home, and can go a long way to make buyers believe that your home is brand new. Just make sure that colors throughout your home are uniform, and buyers typically prefer lighter earth tones.
-  Staging
-We provide a free home stager when you work with us, and he or she will come out to arrange your home in an enticing way. Homes that are dolled up and staged often sell for more money than homes that have not been altered prior to selling. This is a fantastic way to put some extra cash in your pocket at closing.
-  Depersonalize / declutter
-Buyers don’t like to see messy homes, and they also need to imagine themselves living within the space of your home. Cleaning up and organizing your home can go a long way towards making potential buyers feel more comfortable within your home. Remove any collections of photos, art, or other personal items. You don’t need your home to be empty, but don’t let your particular lifestyle be readily apparent to everyone who walks inside your home.
+  AppliancesMany of our homes have older appliances within them, and you might be surprised at how inexpensive it is to get new appliances. A company I know of called ABT is able to swap out all of your appliances to get you the stainless steel that buyers love to see these days.
+  PaintingThis may be one of the easiest ways to add value to your property. Fresh paint is an extremely cost-effective way to add value to your home, and can go a long way to make buyers believe that your home is brand new. Just make sure that colors throughout your home are uniform, and buyers typically prefer lighter earth tones.
+  StagingWe provide a free home stager when you work with us, and he or she will come out to arrange your home in an enticing way. Homes that are dolled up and staged often sell for more money than homes that have not been altered prior to selling. This is a fantastic way to put some extra cash in your pocket at closing.
+  Depersonalize / declutterBuyers don’t like to see messy homes, and they also need to imagine themselves living within the space of your home. Cleaning up and organizing your home can go a long way towards making potential buyers feel more comfortable within your home. Remove any collections of photos, art, or other personal items. You don’t need your home to be empty, but don’t let your particular lifestyle be readily apparent to everyone who walks inside your home.
 
 
 “Fresh paint is an extremely cost-effective way to add value to your home.”
@@ -1150,18 +1212,16 @@ As you prepare to sell your home, I hope that these tips will be able to put mor
 
 Please don’t hesitate to contact me with any questions you might have about real estate in Sacramento!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+4+cost-effective+home+repairs.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+4+cost-effective+home+repairs.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 With the selling season in full swing, I wanted to share four inexpensive ways to add some value to your home. These things can be done right before a sale, and they can put some extra cash in your pocket at closing.
 
 </itunes:subtitle>
         <itunes:author>Heidi Phong</itunes:author>
         <itunes:summary>
-
 With the selling season in full swing, I wanted to share four inexpensive ways to add some value to your home. These things can be done right before a sale, and they can put some extra cash in your pocket at closing.
 
 </itunes:summary>
@@ -1170,7 +1230,7 @@ With the selling season in full swing, I wanted to share four inexpensive ways t
       
       <item>
         <title>The Most Important Part of Renovating Your Sacramento Home </title>
-        <link>localhost:4000/sacramento-real-estate-home-renovation.html</link>
+        <link>http://heidiphong.com/sacramento-real-estate-home-renovation.html</link>
         
           <category>Home Renovation Tips</category>
         
@@ -1191,7 +1251,7 @@ Just remember, there is no such thing as too much planning! If you plan on renov
 I look forward to hearing from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Plan Ahead When Renovating
@@ -1208,15 +1268,12 @@ Today, I want to share a video from HGTV to discuss how you can plan ahead when 
       
       <item>
         <title>Four Reasons Why You Need a Realtor</title>
-        <link>localhost:4000/sacramento-real-estate-tips-and-tricks.html</link>
-        
-          <category>Real Estate Tips and Tricks</category>
+        <link>http://heidiphong.com/four-reasons-why-you-need-a-realtor.html</link>
         
         <author>Heidi Phong</author>
         <pubDate>2015-05-21 10:18:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Four+reasons+why+you+need+a+Realtor.mp4</guid>
         <description>
-
 Today I wanted to speak about four reasons why you should hire an agent to sell your home in Sacramento. A real estate agent can represent you and your best interests, so here are four reasons why you should hire one to sell your home.
 
 
@@ -1230,18 +1287,16 @@ If you have any further questions about how we can help you, please don’t hesi
 
 We hope to hear from you soon!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Four+reasons+why+you+need+a+Realtor.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Four+reasons+why+you+need+a+Realtor.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Today I wanted to speak about four reasons why you should hire an agent to sell your home in Sacramento. A real estate agent can represent you and your best interests, so here are four reasons why you should hire one to sell your home.
 
 </itunes:subtitle>
         <itunes:author>Heidi Phong</itunes:author>
         <itunes:summary>
-
 Today I wanted to speak about four reasons why you should hire an agent to sell your home in Sacramento. A real estate agent can represent you and your best interests, so here are four reasons why you should hire one to sell your home.
 
 </itunes:summary>
@@ -1250,15 +1305,14 @@ Today I wanted to speak about four reasons why you should hire an agent to sell 
       
       <item>
         <title>Is It a Good Time to Sell Your Sacramento Home?</title>
-        <link>localhost:4000/sacramento-real-estate-home-seller-tips.html</link>
+        <link>http://heidiphong.com/is-it-a-good-time-to-sell-your-sacramento-home.html</link>
         
           <category>Home Seller Tips</category>
         
         <author>Heidi Phong</author>
         <pubDate>2015-05-21 09:09:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Is+now+the+perfect+time+to+sell%253F.mp4</guid>
         <description>
-
 A lot of people have been asking me when the best time to sell their home is. A lot of people think that the spring and summer months are the best choice, but to be honest, it’s always a good time to sell a home.
 
 It’s true that we do sell a lot of homes in spring and summer, and if you’re interested in selling we can give you a comprehensive informational package to help you sell for top dollar. This will come at no cost to you!
@@ -1269,18 +1323,16 @@ We can also do a free and no obligation ROI consultation to see what types of up
 
 If you’re interested in selling your home, please contact me. It’s a great time to enter the market!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Is+now+the+perfect+time+to+sell%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Is+now+the+perfect+time+to+sell%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 A lot of people have been asking me when the best time to sell their home is. A lot of people think that the spring and summer months are the best choice, but to be honest, it’s always a good time to sell a home.
 
 </itunes:subtitle>
         <itunes:author>Heidi Phong</itunes:author>
         <itunes:summary>
-
 A lot of people have been asking me when the best time to sell their home is. A lot of people think that the spring and summer months are the best choice, but to be honest, it’s always a good time to sell a home.
 
 </itunes:summary>
@@ -1289,15 +1341,14 @@ A lot of people have been asking me when the best time to sell their home is. A 
       
       <item>
         <title>Four Easy Ways to Add Value to Your Sacramento Home</title>
-        <link>localhost:4000/sacramento-real-estate-home-seller-tips-1.html</link>
+        <link>http://heidiphong.com/four-easy-ways-to-add-value-to-your-sacramento-home.html</link>
         
           <category>Home Seller Tips</category>
         
         <author>Heidi Phong</author>
         <pubDate>2015-03-26 13:48:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+4+cost-effective+home+repairs.mp4</guid>
         <description>
-
 With the spring selling season in full swing, I wanted to share four inexpensive ways to add some value to your home. These things can be done right before a sale, and they can put some extra cash in your pocket at closing.
 
 
@@ -1313,18 +1364,16 @@ As you prepare to sell your home this spring, I hope that these tips will be abl
 
 Please don’t hesitate to contact me with any questions you might have about real estate in Sacramento!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+4+cost-effective+home+repairs.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+4+cost-effective+home+repairs.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 With the spring selling season in full swing, I wanted to share four inexpensive ways to add some value to your home. These things can be done right before a sale, and they can put some extra cash in your pocket at closing.
 
 </itunes:subtitle>
         <itunes:author>Heidi Phong</itunes:author>
         <itunes:summary>
-
 With the spring selling season in full swing, I wanted to share four inexpensive ways to add some value to your home. These things can be done right before a sale, and they can put some extra cash in your pocket at closing.
 
 </itunes:summary>
@@ -1333,38 +1382,34 @@ With the spring selling season in full swing, I wanted to share four inexpensive
       
       <item>
         <title>What's Happening with the Market in Elk Grove?</title>
-        <link>localhost:4000/feb-2015-market-update.html</link>
+        <link>http://heidiphong.com/whats-happening-with-the-market-in-elk-grove.html</link>
         
           <category>Market Update</category>
         
         <author>Heidi Phong</author>
         <pubDate>2015-02-12 14:43:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Elk+Grove+Real+Estate-+Do+you+know+what%2527s+happening+in+our+real+estate+market%253F.mp4</guid>
         <description>
-
 Today I’d like to provide you with a brief market update for the Elk Grove and Sacramento areas. I usually like to reserve these market analyses for individual cases, but today I’ll give you a generalized look at what’s happening in our area.
 
 
   Low interest rates have kept the market strong because it’s an incentive for buyers to purchase, and it’s also making sellers want to list their homes because of increased demand.
   We’re currently seeing about 3 months of inventory in Elk Grove. With our marketing strategies we can probably cut that number down to one month (contact us if you want to sell quickly and for more money).
-  For the most part, buyers want to come out and purchase homes right now because of high affordability. New loan products from Fannie Mae and Freddie Mac with only a 3% down payment requirement should also bolster buying power, which should cause an extra surge of activity in Elk Grove.
-“Buyers want to come out and purchase homes right now because of high affordability.”
+  For the most part, buyers want to come out and purchase homes right now because of high affordability. New loan products from Fannie Mae and Freddie Mac with only a 3% down payment requirement should also bolster buying power, which should cause an extra surge of activity in Elk Grove.“Buyers want to come out and purchase homes right now because of high affordability.”
 
 
 This is a generalized report on our market, but please feel free to contact me if you would like to sit down and discuss your particular situation. As always, please don’t hesitate to contact my team with any questions!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Elk+Grove+Real+Estate-+Do+you+know+what%2527s+happening+in+our+real+estate+market%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://heidiphong.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Elk+Grove+Real+Estate-+Do+you+know+what%2527s+happening+in+our+real+estate+market%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Today I’d like to provide you with a brief market update for the Elk Grove and Sacramento areas. I usually like to reserve these market analyses for individual cases, but today I’ll give you a generalized look at what’s happening in our area.
 
 </itunes:subtitle>
         <itunes:author>Heidi Phong</itunes:author>
         <itunes:summary>
-
 Today I’d like to provide you with a brief market update for the Elk Grove and Sacramento areas. I usually like to reserve these market analyses for individual cases, but today I’ll give you a generalized look at what’s happening in our area.
 
 </itunes:summary>

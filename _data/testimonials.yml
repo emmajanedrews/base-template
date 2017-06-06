@@ -1,5 +1,23 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
-    audio:
+  - quote: “We got fantastic results working with Heidi and Billy. Not only did the process go smoothly but we ended up with a payout on the home we sold that was greater than the listing and in fact greater than the initial offer. So they went back, they did what they promised they would do. They marketed the place in a way that made it stand out and they negotiated a deal that was really better than was expected. They were there for us to explain their strategy and the factors that were going into the strategy every step of the way. Even down to the point of providing us with marketing information to explain to us how they were going to list our home, why they were listing it the price they were, how they were going to market it. This kind of attention they are providing you gives you a level of confidence in the whole process and in their skills, frankly, which gives you comfort and confidence that they are going to deliver for you."
+    name: Christopher
+    audio: /uploads/audio/001.mp3
+  - quote: “Well the results were extremely surprising. I knew the market was hot but I didn’t expect to get what I got and I think it’s due in large part to the agents I picked, Heidi and Billy. They really negotiated and marketed the house well. For my floor plan and model I got the highest selling price ever, so that was awesome. Their responsiveness is top notch, first of all. They answered all of my questions, they responded to every email and text I sent them. As far as going above and    beyond that, I know they marketed the property in every place imaginable, they conducted the open house very well from what I saw. Yeah, a just overall great experience.”
+    name: Thuc
+    audio: /uploads/audio/002.mp3
+  - quote: “It was really good working with them. Our real estate agent Chia Vang, he was really good, very professional. Whenever we had a question, he was always there to answer them. He was really quick with his response. And for us, because we work during the day until 5, Chia knew that we were getting nervous during the house search and so he worked with our schedule. When we would email him he would respond right away, call he would always answer, text message he would reply back very soon. We were fairly young, it’s our first time purchasing a home, we didn’t know the process to it and so, like example, when we really liked a house, and we told him we were interested in it he helped us through the process and he explained to us exactly what was going to happen."
+    name: Jennifer
+    audio: /uploads/audio/003.mp3
+  - quote: “It was great. We ended up with the house we wanted and we got it for a price and interest rate that we thought was good. Very prompt in responding to all inquiry and questions. Very knowledgeable, have a good amount of resources and people to refer to with other questions, for something he needed to figure out, he was quick with it, prompt.”
+    name: De
+    audio: /uploads/audio/004.mp3
+  - quote: “Well I got the house that we really wanted after a process that was very competitive for the buyer of course. Chia ended up coming through, so very thankful that he was able to help us get the house that we wanted. The first lender that I was using, was actually charging me more than was expected and my agent Chia was able to get me over to, he looked at my documents and he was able to get me switched over to a lender to get me a better deal and he was able to get me to do that in a timely fashion where we were able to pull it off and we did this after a couple of weeks of working with the first lender so he did everything that was essential to make it work and in a timely fashion once again. He was there from the very beginning, throughout the whole process, very encouraging, he really helped out with that. If he had not gone through with the new lender, getting me a better deal, which saved me thousands of dollars then we would have lost the house that we wanted."
+    name: Alex
+    audio: /uploads/audio/005.mp3
+  - quote: “I’m actually from New York and California was very unfamiliar to me and when I first came here I was actually referred to Heidi Phong Real Estate Team, one of the things, as soon as I came into her office and I saw her bright smile, welcoming, I felt very fortunate because she’s this young but successful career woman but she’s also got this great personality, very similar to mine actually. The way she presented her company, the values she talked to me about her company, for me customer service is very important and I really felt that she felt, she made me feel [like I was] priority. She knew what I wanted. I told her what my criteria were, she tried to meet every part of it. Throughout the entire time she and her team, they were very patient with me. I’m somebody who, I want to buy a house, I want to go see this house. They really, really accommodated me around my schedule, even at night time."
+    name: Samantha
+    audio: /uploads/audio/006.mp3
+  - quote: “Heidi and Billy were excellent, they were very professional, their real estate game plan was well thought out and well executed. They sold my home for the price I wanted and they were instrumental in making the sale a success. They always answered the phone, their communication was fantastic.”
+    name: Jeff
+    audio: /uploads/audio/007.mp3
