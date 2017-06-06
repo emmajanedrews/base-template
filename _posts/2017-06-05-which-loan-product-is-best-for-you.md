@@ -41,6 +41,6 @@ If your debt-to-income ratio is low enough, I would recommend going with the con
 
 The USDA loan is another loan product that does not require a down payment. However, that loan has more to do with where the house is located, as you cannot get a USDA loan in certain areas. If you are interested in this type of loan, you need to make sure that it is within the USDA footprint, which are in more rural areas.
 
-<br>Like conventional loans, the USDA loan also operates with a lower debt-to-income ratio, which means that you cannot get a USDA loan with a debt-to-income ratio of 55%.
+Like conventional loans, the USDA loan also operates with a lower debt-to-income ratio, which means that you cannot get a USDA loan with a debt-to-income ratio of 55%.
 
 If you have any other questions about these loan programs or you would like to learn more about buying a home, give me a call or send me an email. I would be happy to help you!
