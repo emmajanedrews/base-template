@@ -18,7 +18,7 @@ youtube_code: 39YPZsUX3zs
 
 Employers, employees, and reporters often ask me a basic question: “How much do I need to save in order to prepare for retirement?”
 
-On average, employees need to save at least 10% of their pay year in and year out to effectively accumulate enough money to create a paycheck for life. More importantly, your employees need to calculate how much of their income they need to replace when they get to retirement to successfully replace their income and have that paycheck for life. in our experience, most employees don’t know how to do this or don’t spend the time to do so, which is unfortunate because it’s such an important number.
+On average, employees need to save at least 10% of their pay year in and year out to effectively accumulate enough money to create a paycheck for life. More importantly, your employees need to calculate how much of their income they need to replace when they get to retirement to successfully replace their income and have that paycheck for life. In our experience, most employees don’t know how to do this or don’t spend the time to do so, which is unfortunate because it’s such an important number.
 
 How is this calculated? We have a technical word for it called the “income replacement ratio,” or the “income replacement formula.” Every employee should know this, and every plan sponsor should know this for their employees. Here’s how it works:
 
@@ -28,7 +28,7 @@ Let’s imagine that you’re 40 years old, your annual income is $50,000, and y
 
 The economic definition of inflation, in layman’s terms, is too much money chasing too few goods. Inflation erodes your purchasing power over the years, so you need your income and your savings growing to adjust for a higher cost of living.
 
-This is where what’s called the “Rule of 72” comes into play. The Rule of 72 is a shortcut to figuring out how fast your money will be eroded by inflation. The Rule of 72 helps you figure out how long until you rincome erodes in half.
+This is where what’s called the “Rule of 72” comes into play. The Rule of 72 is a shortcut to figuring out how fast your money will be eroded by inflation. The Rule of 72 helps you figure out how long until your income erodes in half.
 
 As an example, if inflation rates are at 3%, you’ll take the number 72 and divide it by 3, giving you 24. Therefore, it would take 24 years for $50,000 of purchasing power to erode to $25,000.
 
@@ -46,6 +46,6 @@ What we’re covering here is very important. If your employees don’t know the
 
 In addition to the record keepers’ calculations, we can create something called a “gap statement” for each employee. The gap statement simply performs the retirement bullseye calculation for them. As a matter of fact, with all our plans, we create a gap statement for all their employees. If you’d like a copy of an example of our gap statement, feel free to email me again at the aforementioned address.
 
-If you’re interested in learning more about my process or the strategies for creating your optimal retirement plan, click here [LINK] and I’ll send you a free copy of my book “The Retirement Bullseye.”
+If you’re interested in learning more about my process or the strategies for creating your optimal retirement plan, [click here](info@ccadvisors.com) and I’ll send you a free copy of my book “The Retirement Bullseye.”
 
 If you have any other questions about this topic or you’d like to connect with me, don’t hesitate to send me an email. I look forward to helping you.
