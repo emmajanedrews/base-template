@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Tips for Homebuyers in Multiple Offer Situations
-date: 2017-06-06 12:51:30
+date: 2017-06-08 12:51:00
 tags:
   - Home Buyer Tips
 excerpt: 'As a homebuyer, is it even worth it to make an offer in such a competitive market? I say that it is, and I have a few tips to help you win your home.'
