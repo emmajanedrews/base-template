@@ -32,6 +32,6 @@ As a loan officer, Jayson sees a lot high student loan debt. Fannie Mae offers a
 
 This is great because student loan debt is a real problem in the U.S. Finally, the government stepped in with the Fannie Mae program to actually help people with student debt get into a home.
 
-If you have any questions about how to qualify for a home loan, make sure you contact Jayson at 385.202.4759 or [sternteamlending@vfund.com](javascript:void(location.href='mailto:'+String.fromCharCode(115,116,101,114,110,116,101,97,109,108,101,110,100,105,110,103,64,118,102,117,110,100,46,99,111,109))).
+If you have any questions about how to qualify for a home loan, make sure you contact Jayson at 801-638-1005 or [sternteamlending@vfund.com](javascript:void(location.href='mailto:'+String.fromCharCode(115,116,101,114,110,116,101,97,109,108,101,110,100,105,110,103,64,118,102,117,110,100,46,99,111,109))).
 
 As always, if you have any Salt Lake City real estate questions, please don’t hesitate to reach out to the Stern Team. We would be happy to help you!
