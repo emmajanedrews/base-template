@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Should I Have Real Estate in My Retirement?
-date:
+date: 2017-06-07 15:41:17
 tags:
   - Real Estate
 excerpt: Should you invest in real estate as part of your retirement? Today I’ve listed some pros and cons to help you decide if this is right for you.
@@ -18,7 +18,7 @@ youtube_code: 'https://youtu.be/aBsQ11sKg5E'
 {% include youtube.html %}
 
 Today I want to talk to you about investing in real estate as part of your retirement plan. I’m a little biased because I have invested in real estate as part of my own retirement, but I’ll do my best to be objective. Here are some pros and cons of investing in real estate:
-<br>&nbsp;
+<br>
 <br>**Cons**
 
 1. **You need active knowledge about the industry.** If you want to invest in real estate locally, you have to learn about the industry and understand its inner workings.
