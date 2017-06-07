@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What’s Happening in Our Local Real Estate Market?
+title: How We Network Your Property Before It Hits the Market
 date: 2017-06-07 00:00:00
 tags:
   - Market Update
