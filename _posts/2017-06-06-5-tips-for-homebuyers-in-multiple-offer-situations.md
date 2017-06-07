@@ -5,7 +5,7 @@ date: 2017-06-06 12:51:00
 tags:
   - Home Buyer Tips
 excerpt: 'As a homebuyer, is it even worth it to make an offer in such a competitive market? I say that it is, and I have a few tips to help you win your home.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Philipp+Fries/videos/Tampa+Bay+Area+Real+Estate+Agent-+3+Top+Tips+for+Staging+Your+Home.mp4'
 pullquote: Write your best offer.
 enclosure_type: video/mp4
 enclosure_time:
