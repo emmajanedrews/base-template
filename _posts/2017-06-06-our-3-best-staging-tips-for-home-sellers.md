@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our 3 Best Staging Tips for Home Sellers
-date: 2017-05-25 00:00:00
+date: 2017-06-06 00:00:00
 tags:
   - Home Seller Tips
 excerpt: How do you stage your home for sale while you’re still living in it?
@@ -23,6 +23,6 @@ youtube_code: 'https://youtu.be/krejBmr3T6M'
 
 {% include pullquote.html %}
 
-**3. Make use of a storage unit.&nbsp;**As you start packing, you may want to move some of your belongings out of the house. A lot of people just cram all of the boxes in the garage but that may not be the most ideal situation, as many prospective buyers may want to walk through the garage. A storage space gives you easy access to your belongings and allows you to clear away any pieces that don’t look as stylish or make your home seem smaller than it actually is.
+**3. Make use of a storage unit.**As you start packing, you may want to move some of your belongings out of the house. A lot of people just cram all of the boxes in the garage but that may not be the most ideal situation, as many prospective buyers may want to walk through the garage. A storage space gives you easy access to your belongings and allows you to clear away any pieces that don’t look as stylish or make your home seem smaller than it actually is.
 
 If you follow these three tips, your home will be more appealing to buyers and fairly easy to live in while it’s on the market. If you have any other questions about staging or selling your home, just give me a call or send me an email. I would be happy to help you!
