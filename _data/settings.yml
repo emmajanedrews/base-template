@@ -22,6 +22,8 @@ client:
 
 
 
+
+
     Please feel free to reach out to us with any of your real estate questions or
     concerns. We are more than pleased to help!
   market: Tampa Bay Area
@@ -36,10 +38,10 @@ client:
   url: 'http://www.FriesandDupree.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'http://friesanddupree.com/home-value-analysis/'
+  first_CTA_URL: 'http://friesanddupree.kwrealty.com/sell/'
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://friesanddupree.com/basic-search/'
-  VR_form: http://oi.vresp.com?fid=52a8a07d77
+  second_CTA_URL: 'http://friesanddupree.kwrealty.com/map/'
+  VR_form: 'http://oi.vresp.com?fid=52a8a07d77'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: Looking to Buy a Home?
