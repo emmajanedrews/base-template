@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Which Loan Product Is Best for You?
-date: 2017-06-05 12:55:32
+date: 2017-06-05 12:55:00
 tags:
   - Home Buyer Tips
 excerpt: Which kind of home loan product do you qualify for? I’ll break down a few different options for you today.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Jason+Wilson/Woodstock%252C+GA+Real+Estate+Agent-+Financing+your+home+purchase.mp4'
 pullquote: 'If you have a higher debt-to-income ratio, you may want to go with an FHA loan.'
 enclosure_type: video/mp4
 enclosure_time:
