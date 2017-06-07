@@ -11,11 +11,11 @@ client:
   license_number:
   about_markdown: |
     The Elite Home Team is a powerhouse team made up of top agents and an excellent office staff. The team was put together to offer clients a real estate experience that exceed expectations backed by a guarantee. With individualized buyers' agents and sellers’ agents we can offer additional expertise to help you find your dream home or sell your current home. As part of our comprehensive and specialized team approach, you have a group of full-time and high-octane professionals ready to serve you. One great real estate agent is a beneficial resource but a team of great agents is an invaluable asset that can provide both exemplary service and optimal results. We're always here to answer any questions you may have about buying a new home or selling your current one!
-  market:
+  market: Denver
   brand: Elite Home Team
   brokerage: Your Castle Real Estate
   address: 9090 S Ridgeline Blvd 110 Highlands Ranch CO 80129
-  phone: 720-515-1738 
+  phone: 720-515-1738
   phone_type:
   phone2:
   phone2_type:
@@ -79,7 +79,7 @@ socials:
   podcast_url:
 
 podcast:
-  title:
+  title: Greater Denver Area Real Estate Podcast with Rex Jarnagin
   categories: Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Colorado Area Real Estate Market'
@@ -90,14 +90,14 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 60
   hero_text: -- MARKET -- Real Estate Video Blog
-  hero_background_hex: '#094264'
+  hero_background_hex: '#2f1747'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#2f1747'
-  theme_color: '#824d9f'
+  brand_color: '#824d9f'
+  theme_color: '#2f1747'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
