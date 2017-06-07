@@ -1,11 +1,11 @@
 ---
 layout: post
 title: The Key to Finding the Perfect Neighborhood
-date: 2017-06-07 13:31:10
+date: 2017-06-07 13:31:00
 tags:
   - Home Buyer Tips
 excerpt: Today I want to share my foolproof checklist for finding the perfect neighborhood to purchase your new home in.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Patty+Sells+NC/The+Patty+Sells+NC+Team-+Finding+the+perfect+neighborhood.mp4'
 pullquote: Test run your work commute from each neighborhood.
 enclosure_type: video/mp4
 enclosure_time:
