@@ -22,7 +22,7 @@ Today I want to talk to you about investing in real estate as part of your retir
 <br>**Cons**
 
 1. **You need active knowledge about the industry.** If you want to invest in real estate locally, you have to learn about the industry and understand its inner workings.
-2. **You have to actively manage the properties.** This can be time consuming, because you will be actively managing maintenance calls, setting up showings, and running the properties. Unless you have a ton of capital, you’ll be doing all these things yourself.
+2. **You have to actively manage the properties.** This can be time consuming because you will be actively managing maintenance calls, setting up showings, and running the properties. Unless you have a ton of capital, you’ll be doing all these things yourself.
 3. **You need a significant amount of capital.** There are stories about ways to get creative and put little or no money down, but those are the exception, not the rule.
 
 **Pros**
