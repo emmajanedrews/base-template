@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 3 Ways Working With a Team Beats Working With a Solo Agent
-date: 2017-06-06 11:18:07
+date: 2017-06-06 11:18:00
 tags:
   - Real Estate
 excerpt: 'When it comes to buying and selling properties, there are three main benefits of working with an agent who’s a part of a team instead of a solo agent.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Solo+agents+vs.+real+estate+teams.mp4'
 pullquote: Your needs are always the top priority when you work with a team.
 enclosure_type: video/mp4
 enclosure_time:
