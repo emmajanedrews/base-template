@@ -27,7 +27,6 @@ youtube_code: jhCsYc1egFc
 5. **An escalation clause.** This means your offer automatically escalates by a certain dollar amount to beat out any other buyers up to a certain amount. That way, you won't lose out on your home over just $5,000.
    <br>
    <br>{% include pullquote.html %}
-   <br>&nbsp;
 6. **Offer a larger earnest money or escrow deposit.**This shows the seller that you're very willing and able to purchase their home and that you're willing to put a little more skin in the game.
    <br>&nbsp;
 7. **Bring the price difference if the home doesn't appraise.**Homes in a bidding war can get blown up tens of thousands of dollars over the asking price in our market. The seller wants to know that if the home doesn't appraise, you can and will pay the difference between the appraised value and the actual purchase price. You can put a clause in the contract agreeing to pay a certain amount above the appraised value to let the seller know what their bottom line proceeds will look like before the appraisal even happens. This is a strong tactic, but we try to keep it in our back pocket so we can keep our buyers from overpaying for a home if we can help it.
