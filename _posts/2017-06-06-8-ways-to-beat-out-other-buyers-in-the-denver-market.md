@@ -25,7 +25,6 @@ youtube_code: jhCsYc1egFc
 4. **Be able to offer a quick close.** Some of the lenders we work with can close as quickly as 14 days, which helps your offer compete with cash offers. If you're competing against other financed offers that typically close in 30 to 40 days, you can better that time frame by half.
    <br>&nbsp;
 5. **An escalation clause.** This means your offer automatically escalates by a certain dollar amount to beat out any other buyers up to a certain amount. That way, you won't lose out on your home over just $5,000.
-   <br>
    <br>{% include pullquote.html %}
 6. **Offer a larger earnest money or escrow deposit.**This shows the seller that you're very willing and able to purchase their home and that you're willing to put a little more skin in the game.
    <br>&nbsp;
