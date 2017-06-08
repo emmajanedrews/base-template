@@ -13,7 +13,7 @@ client:
     Victoria Sandoval has the touch of sold. Victoria was born and raised and lived in San Diego for over 30 years. As a bilingual San Diego native, she understands the different neighborhoods and their particular nuances. Victoria sets a new standard in building relationships with all her clients and maximizing the exposure of your home to potential buyers. Known for her smooth transactions, Victoria routinely unites all sides of the real estate process, creating a seamless operation for her clients. She is approachable and adaptive, working well with all personality types. Her intimate knowledge of the market will save you, the homeowner, time and money in searching for your new home.
 
     As one of the top leading Realtor® in the county, Victoria has received multiple awards, She is an honest, professional business woman, She is hard working, dedicated and a great listener. Her approachable demeanor makes everyone feel comfortable. Your goals become hers, with customer service as a top priority. Victoria will use her skills to make your dreams a reality! Searching for a new home or selling your current home can be a complicated and exhausting experience. It is absolutely essential to find a real estate agent that is deeply involved in the business and loves what they do to show you the way.
-  market:
+  market: San Diego
   brand: Sandoval Select Premier Properties
   brokerage:
   address: 1419 University Ave, Suite D San Diego, CA 92103
@@ -22,7 +22,7 @@ client:
   phone2:
   phone2_type:
   email: relyonvicky@gmail.com
-  url: www.victoriasandoval.com
+  url: http://www.victoriasandoval.com
 
 CTAs:
   first_CTA_text: Home Valuation
@@ -35,7 +35,7 @@ sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free -- MARKET -- Home Value Report"
+    CTA_link_text: "Free Home Value Report"
     CTA_url: http://www.selectpremierproperties.com/index.html#u4183-18
 
 second_sidebar_CTA:
@@ -70,8 +70,8 @@ socials:
   review_sm_icons: false
   facebook_url: https://www.facebook.com/victoriasandovalrealtor/
   linkedin_url: https://www.linkedin.com/in/victoria-sandoval-25515b11/
-  gplus_url:
-  youtube_url:
+  gplus_url: https://plus.google.com/+VictoriaSandovalRealtorSanDiego
+  youtube_url: https://www.youtube.com/channel/UCRCo_6OtTqU1ZOgDbR64yuw
   twitter_url: https://twitter.com/vickysellssd
   instagram_url:
   pinterest_url:
@@ -81,7 +81,7 @@ socials:
   podcast_url:
 
 podcast:
-  title:
+  title: San Diego Real Estate Podcast with Victoria Sandoval
   categories: Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the San Diego Area Real Estate Market'
