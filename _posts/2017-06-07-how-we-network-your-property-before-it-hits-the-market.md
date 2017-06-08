@@ -21,7 +21,7 @@ When we talk about networking properties, we are talking about how we connect wi
 
 After that, there are a few different ways to network your property. We do that through other agents and brokers, our internal systems, our local database, and a tool in the MLS called reverse prospecting.
 
-**How does reverse prospecting work?** When we have a listing, we’re able to search for other agents who have buyers in that price point. Then, we can communicate with those other agents regarding our listings.
+**How does reverse prospecting work?** When we have a listing, we’re able to search for other agents who have buyers at that price point. Then, we can communicate with those other agents regarding our listings.
 
 {% include pullquote.html %}
 
