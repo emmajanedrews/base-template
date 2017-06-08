@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "I'm Here to Help You Navigate Real Estate Like a Pro"
-date:
+date: 2017-06-08 00:00:00
 tags:
-excerpt:
-enclosure:
-pullquote:
+  - Real Estate
+excerpt: "I'm excited to let you know that if you're reading this, I'd love for you to be part of my new real estate video blog. I'll be sending two emails each month with informational videos about real estate and tips for navigating the world of real estate like a pro. I want to include you as much as I can. If there are topics you're confused about or want to learn more about, I'd love to create a helpful video about them. For more details on your new real estate resource, watch this short video."
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/John+McAdams/Videos/2017/June/Ocean+City+Real+Estate+Agent-+I%2527m+Here+to+Help+You+Navigate+Real+Estate+Like+a+Pro.mp4'
+pullquote: 'To truly get the most out of the real estate market, you need to know all these fields.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
