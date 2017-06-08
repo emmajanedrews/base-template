@@ -5,7 +5,7 @@ date: 2017-06-06 00:00:00
 tags:
   - Home Seller Tips
 excerpt: How do you stage your home for sale while you’re still living in it?
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Philipp+Fries/videos/Tampa+Bay+Area+Real+Estate+Agent-+3+Top+Tips+for+Staging+Your+Home.mp4'
 pullquote: The buyer needs to be able to visualize themselves in your home.
 enclosure_type: video/mp4
 enclosure_time:
