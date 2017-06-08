@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Should I Have Real Estate in My Retirement?
-date: 2017-06-07 15:41:17
+date: 2017-06-07 15:41:00
 tags:
   - Real Estate
 excerpt: Should you invest in real estate as part of your retirement? Today I’ve listed some pros and cons to help you decide if this is right for you.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Central+PA+Real+Estate+Agent-+Should+You+Invest+in+Real+Estate%253F.mp4'
 pullquote: A good strategy is to buy a property at or around the birth of a child.
 enclosure_type: video/mp4
 enclosure_time:
