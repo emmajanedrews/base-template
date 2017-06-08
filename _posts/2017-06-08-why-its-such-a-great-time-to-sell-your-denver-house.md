@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why It’s Such a Great Time to Sell Your Denver House
-date:
+date: 2017-06-08 14:17:46
 tags:
   - Market Update
 excerpt: The Denver market is about as good as it ever has been. There are a few key reasons why.
@@ -18,9 +18,9 @@ youtube_code: 'https://youtu.be/Fk-oz6hJz_A'
 {% include youtube.html %}
 
 Our market is pretty insane right now. It’s a great time to sell your house if you’ve been thinking about it. Truthfully, this is the best market Denver has ever seen. We have the lowest interest rates and the lowest competition levels we’ve ever seen.
-<br>&nbsp;
-<br>However, there is one thing to be wary of in this market: failed transactions. The number of deals falling out of contract nearly doubled last month. The Denver Post wrote that 23% of all transactions fell out last month.&nbsp;
-<br>&nbsp;
+<br>
+<br>However, there is one thing to be wary of in this market: failed transactions. The number of deals falling out of contract nearly doubled last month. The Denver Post wrote that 23% of all transactions fell out last month.
+<br>
 <br>**One problem that’s causing this is how complicated the market is.** With record low inventory, most agents don’t have the experience or the expertise to navigate this market. Most agents only close between four and 12 deals per year, so they simply don’t have enough experience to get deals done the right way.
 
 {% include pullquote.html %}
