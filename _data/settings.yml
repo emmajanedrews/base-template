@@ -23,14 +23,14 @@ client:
   email: info@greaterpropertygroup.com
   url: http://www.greaterpropertygroup.com/calgary
   first_CTA_text: Home Evaluation
-  first_CTA_URL: http://www.greatercalgarygroup.com/homevalue/value
+  first_CTA_URL: http://www.greaterpropertygroup.com/cma-calgary.php
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.searchcalgaryhomelistings.com/search
+  second_CTA_URL: http://www.greaterpropertygroup.com/idx/?feed=creb&search_location=
   phone_CTA: true
   VR_form: http://oi.vresp.com?fid=fc52d51b70
 welcome_headline: Get Educated About Real Estate
 welcome_text_markdown: |
-  Our mission at the Greater Calgary Group is to be your best resource for real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. Subscribe to this blog to get the latest news on local market trends and receive expert tips for buying or selling a home.
+  Our mission at the Greater Property Group Calgary is to be your best resource for real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. Subscribe to this blog to get the latest news on local market trends and receive expert tips for buying or selling a home.
 socials:
   review_sm_icons: false
   facebook_url: https://www.facebook.com/GreaterCalgaryGroup/?fref=ts
@@ -39,7 +39,7 @@ socials:
   youtube_url: https://www.youtube.com/channel/UCGVb90uFiLPbTQ6_DS5K-kQ
   twitter_url: https://twitter.com/GCG_Marketing
   instagram_url: https://www.instagram.com/greatercalgarygroup/
-  pinterest_url: https://au.pinterest.com/GCalgaryGroup/greater-calgary-group/
+  pinterest_url:
   zillow_url:
   trulia_url:
   yelp_url:
