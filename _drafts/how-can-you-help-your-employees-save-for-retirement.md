@@ -18,7 +18,7 @@ youtube_code: 39YPZsUX3zs
 
 Employers, employees, and reporters often ask me a basic question: “How much do I need to save in order to prepare for retirement?”
 
-On average, employees need to save at least 10% of their pay year in and year out to effectively accumulate enough money to create a paycheck for life. More importantly, your employees need to calculate how much of their income they need to replace when they get to retirement to successfully replace their income and have that paycheck for life. In our experience, most employees don’t know how to do this or don’t spend the time to do so, which is unfortunate because it’s such an important number.
+On average, employees need to save at least 10% of their pay year in and year out to effectively accumulate enough money to create a paycheck for life. More importantly, your employees need to calculate how much of their income they need to replace in retirement to successfully create that paycheck for life. In our experience, most employees don’t know how to do this or don’t spend the time to do so, which is unfortunate because it’s such an important number.
 
 How is this calculated? We have a technical word for it called the “income replacement ratio,” or the “income replacement formula.” Every employee should know this, and every plan sponsor should know this for their employees. Here’s how it works:
 
@@ -40,7 +40,7 @@ If you’re thinking this sounds too complicated or you’re wondering how your 
 
 For example, if somebody needs $2,000 a month to live on and they have only $1,300 projected, the calculator will notify them that they’re short $700 per month and inform them how much additional money they would need to save at a reasonable rate of return and a 3% inflation rate in order to create that paycheck for life.
 
-If you’d like a list of the record keepers that actually do those calculations or convert the lump sum amount that they’ve saved into a monthly amount, email me at rrieger@ccadvisors.com
+If you’d like a list of the record keepers that actually do those calculations or convert the lump sum amount that they’ve saved into a monthly amount, email me at info@ccadvisors.com
 
 What we’re covering here is very important. If your employees don’t know their retirement bullseye, which is how much income they need to replace, what inflation will do to their paycheck over time, and what they need to save as a percentage of their wages, they likely won’t have enough money in their retirement account to create that paycheck for life.
 
