@@ -1,7 +1,7 @@
 ---
 youtube_code: EX4qt2HXbyk
 excerpt: 'I recently sat down with some of my top agents. We discussed where they were finding some of their biggest successes, and the answer was surprising. Many of my agents were having great success in finding their buyer’s homes through Homie.com. They found that many of the homes listed through this real estate service are underpriced. To find out why that is, watch this short video.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Be+wary+of+going+down+this+path.mp4'
 pullquote: These homes don’t get nearly as much exposure as they should.
 enclosure_type: video/mp4
 enclosure_time:
