@@ -16,9 +16,9 @@ client:
   brokerage: KW Professionals Keller Williams Realty
   address: 9755 SW Barnes Road, Suite 560 Portland, OR 97225
   phone: 503-828-9551
-  phone_type:
-  phone2:
-  phone2_type:
+  phone_type: Portland
+  phone2: 360-356-1941
+  phone2_type: Vancouver
   email: info@sadlerealestate.com
   url: https://www.portlandvancouverhomesearch.com
 
@@ -27,7 +27,7 @@ CTAs:
   first_CTA_URL: https://www.portlandvancouverhomesearch.com/home-valuation/
   second_CTA_text: Home Search
   second_CTA_URL: https://www.portlandvancouverhomesearch.com/results/
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=d512f98fef
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
