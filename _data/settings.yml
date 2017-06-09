@@ -1,47 +1,47 @@
 audit_header: false
 title: -- CLIENT BRAND --
-description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
+description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Zach Sikes - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
   - title:
     url:
 
 client:
-  name:
+  name: Zach Sikes
   license_number:
   about_markdown: |
-
+    Zach is the Broker/Owner of Homestead & Co. Zach developed a passion for real estate early on. He has specialized in every area of real estate and decided to pursue his dream of owning his own brokerage. He spends his time at Homestead & Co as the lead listing specialist and working on the development of the company. He enjoys the little free time he has with his wife and two daughters.
   market:
-  brand:
+  brand: Homestead & Co.
   brokerage:
-  address:
-  phone:
+  address: 3825 NW 166th, Suite D6, Edmond OK 73012
+  phone: 405-509-0541
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: zach@homesteadrealtyco.com
+  url: https://www.homesteadrealtyco.com/
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: https://www.homesteadrealtyco.com/home-valuation/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
-  VR_form:
+  second_CTA_URL: https://www.homesteadrealtyco.com/
+  VR_form: http://oi.vresp.com?fid=de1f192dbe
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free -- MARKET -- Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: https://www.homesteadrealtyco.com/home-valuation/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: https://www.homesteadrealtyco.com/
 
 lender:
   show_section: false
@@ -58,7 +58,7 @@ lender:
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
+    Our mission at Homestead & Co. is to be your best resource for real estate
     advice. Whether you are a buyer, seller, or investor, our team of
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
@@ -66,11 +66,11 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/HomesteadRealtyCo/
+  linkedin_url: https://www.linkedin.com/in/zachsikes/
   gplus_url:
   youtube_url:
-  twitter_url:
+  twitter_url: https://twitter.com/zsikes
   instagram_url:
   pinterest_url:
   zillow_url:
@@ -79,13 +79,13 @@ socials:
   podcast_url:
 
 podcast:
-  title:
+  title: Homestead & Co. Podcast with Zach Sikes
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: '-- CLIENT NAME --'
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Zach Sikes - your professional -- MARKET -- Real Estate Agents.'
+  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Edmond, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  author: 'Zach Sikes'
 
 images:
   client_headshot_path: /img/headshot.jpg
@@ -96,8 +96,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#976caf'
-  theme_color: '#67c4a9'
+  brand_color: '#6b6a69'
+  theme_color: black
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -106,7 +106,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: rgba(100, 100, 100, .5)
 
 buttons:
   button_radius_number: 0

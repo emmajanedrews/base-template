@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>-- CLIENT BRAND --</title>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</description>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Zach Sikes - your professional  Real Estate Agents.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 09 Jun 2017 15:26:34 -0500</pubDate>
-    <lastBuildDate>Fri, 09 Jun 2017 15:26:34 -0500</lastBuildDate>
+    <pubDate>Fri, 09 Jun 2017 16:08:09 -0500</pubDate>
+    <lastBuildDate>Fri, 09 Jun 2017 16:08:09 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
