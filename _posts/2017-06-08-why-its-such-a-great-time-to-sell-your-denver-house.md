@@ -27,7 +27,7 @@ Our market is pretty insane right now. It’s a great time to sell your house if
 
 Another big problem for sellers is appraisals. Homes are selling for much higher prices than they are actually appraising for. This isn’t a problem for cash buyers, but it is for the overwhelming majority of buyers who have financing. **If a home doesn’t appraise as high as its sale price, the deal is more likely to fall apart if you’re not working with an experienced agent.**
 
-Finally, a lot of buyers are having to make offers they aren’t fully comfortable with. They get sick of getting outbid and make a high offer, only to get cold feet after they go under contract. Most of the time, the monthly payment is just more than they are comfortable paying.
+Finally, a lot of buyers are having to make offers they aren’t fully comfortable with. They get sick of getting outbid and making a high offer, only to get cold feet after they go under contract. Most of the time, the monthly payment is just more than they are comfortable paying.
 
 This is a difficult market to be in, but it can be a very lucrative market if you have the right help. Having a good agent to keep your deal from falling apart is an invaluable tool in this market. For the record, **we didn’t have any deals fall apart last month because we make them every day and we know how to get them done.**
 
