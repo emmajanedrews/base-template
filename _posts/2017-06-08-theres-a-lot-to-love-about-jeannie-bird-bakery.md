@@ -20,7 +20,7 @@ We’re taking a bit of a break from real estate to talk to you about one of our
 <br>
 <br>**If you’ve never visited Jeannie Bird Bakery before, you’re missing out.** It’s an old-world style bakery that makes everything from scratch with as many local ingredients as possible. They opened on Black Friday in 2014 and haven’t looked back since.
 <br>
-<br>Bernie and his wife actually met in the restaurant industry in the mid 1980s. They had always planned to open a business of their own, but they also wanted to raise a family. They decided first to raise the family, right here in Carroll County. As the children got older, the idea to open a bakery was always on the backburner and they carefully documented all their ideas on the way. 25 years later, they had a solid business plan and were ready to start.
+<br>Bernie and his wife actually met in the restaurant industry in the mid-1980s. They had always planned to open a business of their own, but they also wanted to raise a family. They decided first to raise the family, right here in Carroll County. As the children got older, the idea to open a bakery was always on the backburner and they carefully documented all their ideas on the way. 25 years later, they had a solid business plan and were ready to start.
 
 {% include pullquote.html %}
 <br>
