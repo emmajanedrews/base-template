@@ -9,7 +9,7 @@ client:
   name:
   license_number:
   about_markdown: >-
-    The Greater Toronto Group with Re/Max First is a boutique real estate firm
+    The Greater Property Group Toronto with Re/Max First is a boutique real estate firm
     comprised of premier real estate professionals working together to serve
     Toronto and Area. We offer the best of both world's - the power of an
     international brand and personalized service of a boutique office.
@@ -29,15 +29,15 @@ client:
   phone2:
   phone2_type:
   email: office@greatertorontogroup.com
-  url: 'http://www.GreaterTorontoGroup.com'
+  url: 'http://www.greaterpropertygroup.com/Toronto'
   first_CTA_text: Home Evaluation
-  first_CTA_URL: 'http://www.greatertorontogroup.com/homevalue/value'
+  first_CTA_URL: 'http://www.greaterpropertygroup.com/cma-toronto.php'
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://www.searchtorontohomelistings.com/search'
+  second_CTA_URL: 'http://www.greaterpropertygroup.com/idx/?feed=treb&search_location='
   phone_CTA: true
   VR_form: 'http://oi.vresp.com?fid=0df242f0d6'
 welcome_headline: Get Educated About Real Estate
-welcome_text_markdown: 'Our mission at the Greater Toronto Group is to be your best resource for real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. Subscribe to this blog to get the latest news on local market trends and receive expert tips for buying or selling a home.'
+welcome_text_markdown: 'Our mission at the Greater Property Group Toronto is to be your best resource for real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. Subscribe to this blog to get the latest news on local market trends and receive expert tips for buying or selling a home.'
 socials:
   review_sm_icons: false
   facebook_url: 'https://www.facebook.com/GPGToronto/'
@@ -52,7 +52,7 @@ socials:
   yelp_url:
   podcast_url: 'https://itunes.apple.com/us/podcast/greater-toronto-group-real/id1185931137?mt=2'
 podcast:
-  title: Greater Toronto Group - Podcast about Real Estate
+  title: Greater Property Group Toronto - Podcast about Real Estate
   categories:
   image: /img/Toronto_podcast.png
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Toronto Area Real Estate Market'
