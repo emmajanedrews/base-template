@@ -11,15 +11,15 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: KxTeP9HIkbs
+youtube_code: '-OkX6bJFf_o'
 ---
 
 
 {% include youtube.html %}What's going on with Zillow today? You've probably seen their Zestimate feature, which is Zillow's best guess about a home's value. It can be a good starting point to determine if you should sell your home or whether a home you're thinking of buying is a ripoff.
 <br>
-<br>**However, Zillow has been in the news lately in regards to a lawsuit over a Zestimate.** They've even offered a $1 million reward for anyone who can improve the algorithm for their Zestimates. These Zestimates tend to be far off from a home's true value, leading to misunderstanding for buyers and sellers. Since the San Diego market has jumped so much in recent years, we still see discrepancies with Zestimates.
+<br>**However, Zillow has been in the news lately in regards to a lawsuit over a Zestimate.** They've even offered a $1 million reward for anyone who can improve the algorithm for their Zestimates. These Zestimates tend to be far off from a home's true value, leading to misunderstandings for buyers and sellers. Since the San Diego market has jumped so much in recent years, we still see discrepancies with Zestimates.
 <br>
-<br>Zestimates have a median error rate of 5.6%, meaning half of homes sell for almost 6% above or below what the Zestimate said it was worth. It can be much worse; last year, Zillow CEO Spencer Rascoff sold his Seattle home for 40% less than what the Zestimate said it was worth! He then bought a home for $1.6 million higher than the Zestimate called for.
+<br>Zestimates have a median error rate of 5.6%, meaning half of homes sell for almost 6% above or below what the Zestimate said it was worth. It can be much worse; last year, Zillow CEO Spencer Rascoff sold his Seattle home for 40% less than what the Zestimate said it was worth! He then bought a home for $1.6 million more than what the Zestimate called for.
 <br>
 <br>{% include pullquote.html %}
 <br>
