@@ -31,13 +31,13 @@ client:
   email: sales@greatervancouvergroup.com
   url: 'http://www.GreaterVancouverGroup.com'
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'http://www.greatervancouvergroup.com/homevalue/gvgweb'
+  first_CTA_URL: 'http://www.greaterpropertygroup.com/cma-vancouver.php'
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://www.greatervancouvergroup.com/search'
+  second_CTA_URL: 'http://www.greaterpropertygroup.com/idx/?feed=rebgv&search_location='
   phone_CTA: true
   VR_form: 'http://oi.vresp.com?fid=38ebfc097a'
 welcome_headline: Get Educated About Real Estate
-welcome_text_markdown: 'Our mission at the Greater Vancouver Group is to be your best resource for real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. Subscribe to this blog to get the latest news on local market trends and receive expert tips for buying or selling a home.'
+welcome_text_markdown: 'Our mission at the Greater Property Group Vancouver is to be your best resource for real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. Subscribe to this blog to get the latest news on local market trends and receive expert tips for buying or selling a home.'
 socials:
   review_sm_icons: false
   facebook_url: 'https://www.facebook.com/greatervancouvergroup/'
@@ -52,7 +52,7 @@ socials:
   yelp_url:
   podcast_url: 'https://itunes.apple.com/us/podcast/greater-vancouver-group-real/id1185936335?mt=2'
 podcast:
-  title: Greater Vancouver Group - Podcast about Real Estate
+  title: Greater Property Group Vancouver - Podcast about Real Estate
   categories: Education
   image: /img/Vancouver_podcast.png
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Vancouver Area Real Estate Market'
