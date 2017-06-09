@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Can You Ensure All Your Clients Are Serviced Equally?
-date:
+date: 2017-06-09 12:25:58
 tags:
   - Real Estate
 excerpt: You can use a action items to make your business processes repeatable and make sure all your clients get the same level of service.
