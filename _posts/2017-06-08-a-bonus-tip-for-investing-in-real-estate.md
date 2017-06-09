@@ -18,11 +18,11 @@ youtube_code: j_z8znhbytE
 
 We recently did a three-part series on investing, but we’re back with a bonus round to talk about the 1031 exchange and how it can benefit you when buying an investment property.&nbsp;
 
-[**Click here for part 1.**](http://colemererealtyvideoblog.com/considering-an-investment-property-part-1.html)
+[**Click here for part 1.**](http://colemererealtyvideoblog.com/considering-an-investment-property-part-1.html){: target-"_blank"}
 
-[**Click here for part 2.**](http://colemererealtyvideoblog.com/considering-an-investment-property-part-2.html)
+[**Click here for part 2.**](http://colemererealtyvideoblog.com/considering-an-investment-property-part-2.html){: target-"_blank"}
 
-[**Click here for part 3.**](http://colemererealtyvideoblog.com/considering-an-investment-property-part-3.html)
+[**Click here for part 3.**](http://colemererealtyvideoblog.com/considering-an-investment-property-part-3.html){: target-"_blank"}
 <br>&nbsp;
 <br>1031 is an IRS code that allows an individual to move the gains from the sale of one asset to the purchase of a like-kind asset without paying taxes on it. The 1031 can be a little tricky, but there are some basic rules to follow:&nbsp;
 <br>&nbsp;
