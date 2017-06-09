@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Just How Trustworthy Is Zillow, Anyway?'
+title: Why You Shouldn’t Trust Zillow’s Zestimates
 date: 2017-06-08 00:00:00
 tags:
   - Real Estate
