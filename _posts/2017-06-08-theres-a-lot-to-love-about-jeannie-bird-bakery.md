@@ -16,7 +16,7 @@ youtube_code: IpwNCcjbMys
 
 {% include youtube.html %}
 
-We’re taking a bit of a break from real estate to talk to you about one of our favorite local businesses. [Jeannie Bird Bakery](https://www.jeanniebird.com/) is owned and operated by Bernie Vogel, and he has graciously joined us to tell us about his story, his business, and his love for the Westminster community.
+We’re taking a bit of a break from real estate to talk to you about one of our favorite local businesses. [Jeannie Bird Bakery](https://www.jeanniebird.com/){: target-"_blank"} is owned and operated by Bernie Vogel, and he has graciously joined us to tell us about his story, his business, and his love for the Westminster community.
 <br>
 <br>**If you’ve never visited Jeannie Bird Bakery before, you’re missing out.** It’s an old-world style bakery that makes everything from scratch with as many local ingredients as possible. They opened on Black Friday in 2014 and haven’t looked back since.
 <br>
@@ -28,6 +28,6 @@ We’re taking a bit of a break from real estate to talk to you about one of our
 <br>
 <br>As Bernie puts it, community is the key to their success. They work hard to hire crew members who live in and respect the community, and their dedication to customer service is inspiring. This is all a way for Bernie to give back. The community really helped him out when he lost his wife tragically. **Although the heartbreak was devastating, Bernie said it was the community who came together and carried him through the tough times.**
 <br>
-<br>One thing you might not know about Bernie is that he is an avid reader, backpacker, and hiker. If you have any questions for him or you’re just looking for something sweet, come on down to Jeannie Bird Bakery today. You can also check out their Instagram [here](https://www.instagram.com/jeanniebirdbaking/) and their Facebook page [here](https://www.facebook.com/jeanniebirdbakingcompany/?ref=hl).
+<br>One thing you might not know about Bernie is that he is an avid reader, backpacker, and hiker. If you have any questions for him or you’re just looking for something sweet, come on down to Jeannie Bird Bakery today. You can also check out their Instagram [here](https://www.instagram.com/jeanniebirdbaking/){: target-"_blank"} and their Facebook page [here](https://www.facebook.com/jeanniebirdbakingcompany/?ref=hl){: target-"_blank"}.
 <br>
 <br>If you have any real estate related questions, we are always here to answer them. Just give us a call or send us an email. We look forward to hearing from you.
