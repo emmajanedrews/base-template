@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Common Mistakes That Will Ruin Your Home Sale
-date: 2017-05-30 10:37:14
+date: 2017-05-30 10:37:00
 tags:
   - Home Seller Tips
 excerpt: 'Home selling mistakes are common, but easy to avoid. Here’s what to watch out for.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Don+Williams/Don+Williams+Group-+Communication+is+key.mp4'
 pullquote: Excess clutter really turns buyers off.
 enclosure_type: video/mp4
 enclosure_time:
