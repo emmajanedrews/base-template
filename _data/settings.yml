@@ -29,7 +29,7 @@ client:
   phone2:
   phone2_type:
   email: info@greaterpropertygroup.com
-  url: 'greaterpropertygroup.com/Vancouver'
+  url: 'http://www.greaterpropertygroup.com/Vancouver'
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://www.greaterpropertygroup.com/cma-vancouver.php'
   second_CTA_text: Home Search
