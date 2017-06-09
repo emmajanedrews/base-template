@@ -2883,12 +2883,13 @@ form select {
     color: #fff; }
 
 .cta2 {
+  background: #b01f24;
   color: #ffffff;
   padding: 1.3rem 2rem;
   text-transform: capitalize;
   font-size: 2rem;
   font-weight: 300;
-  border: 2px solid #ffffff;
+  border: 2px solid #b01f24;
   -webkit-transition: 0.3s;
   transition: 0.3s; }
   .cta2:hover {
@@ -2935,7 +2936,7 @@ form select {
   background: #a31d21; }
 
 .navbar-left li a {
-  color: #fff; }
+  color: #b01f24; }
 
 .fa-bars {
   color: #fff; }
