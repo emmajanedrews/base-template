@@ -21,7 +21,7 @@ client:
   phone2:
   phone2_type:
   email: info@greaterpropertygroup.com
-  url: http://www.greaterpropertygroup.com/calgary
+  url: greaterpropertygroup.com/calgary
   first_CTA_text: Home Evaluation
   first_CTA_URL: http://www.greaterpropertygroup.com/cma-calgary.php
   second_CTA_text: Home Search
