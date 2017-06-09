@@ -27,6 +27,8 @@ It’s important that you help them find something that fits their needs. Don’
 
 Be honest and have integrity. You have a duty to put your clients’ needs before your own.
 
+What traits should you look for in an agent if you're looking to hire one?
+
 **Your agent needs to be a good communicator.** After all, your agent has to deal with other agents and a number of other people during the real estate process. They also need to be good at negotiating repairs or terms to make the deal happen.
 
 A proactive agent has the foresight to see problems that may arise and nip them in the bud. &nbsp;
