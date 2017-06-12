@@ -36,7 +36,7 @@ Our core values are what define us as a team, and they’re very important to us
 **4. Being silly:** This is a very stressful business, so we take the time to be silly and happy. You have to take time out of the day to laugh. As the expression goes, “If you don’t laugh, you’ll cry,” and sometimes we feel like that.
 {: .present-before-paste}
 
-**5. Abundance:**When living in a world of abundance, you have to give in order to get. One of the things I’m most proud of with our team is the fact that we’re a giving team. We like to give back to our community, and we help sponsor several different organizations across Arkansas. We also have our Compassion Campaign, where every time we sell a home we put money into an account that helps with urgent needs within our community.
+**5. Abundance:&nbsp;**When living in a world of abundance, you have to give in order to get. One of the things I’m most proud of with our team is the fact that we’re a giving team. We like to give back to our community, and we help sponsor several different organizations across Arkansas. We also have our Compassion Campaign, where every time we sell a home we put money into an account that helps with urgent needs within our community.
 {: .present-before-paste}
 
 **6. Being coachable:** I’ve been in this business since 2004, and I still learn something new every day. We’re never going to know it all, and that’s what I love about real estate. It’s always changing, and there’s something new to learn each and every day. We can all learn something new, and if I ever felt like I knew it all, it wouldn’t be as much fun to be in this business.
