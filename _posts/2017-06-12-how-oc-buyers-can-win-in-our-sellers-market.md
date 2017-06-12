@@ -24,7 +24,6 @@ youtube_code: EZOXt7f37vg
 <br>**You can also gain an edge by making your offer more personal.**Give the seller a reason to believe they should sell you their home! You can also make an effort to make your offer look good. Sellers will receive a stack of papers for each offer—would you accept an offer that was messy, poorly presented, and half complete, or would you accept an offer that's well-presented and professional?
 <br>
 <br>{% include pullquote.html %}
-<br>
 <br>Finally, the most important way to win the home you want is by **choosing the right agent.** The right agent will do their research in advance and give you all the information you need, as well as finding the seller's motivations. This will help you craft an offer that has all the important elements and will make your offer stand out to the seller above all other offers.
 <br>
 <br>If you have any other questions about buying a home in seller's market or you're thinking about selling your current house, just give us a call or send us an email. We'd love to help you out!
