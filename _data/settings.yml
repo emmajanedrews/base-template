@@ -94,12 +94,12 @@ images:
   hero_logo_path: /img/logo.png
   logo_width_number: 60
   hero_text: Real Estate Video Blog
-  hero_background_hex: '#094264'
+  hero_background_hex: '#b40101'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#FE0000'
-  theme_color: '#FE0000'
+  brand_color: '#b40101'
+  theme_color: '#b40101'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
