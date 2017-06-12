@@ -5,7 +5,7 @@ date: 2017-06-08 00:00:00
 tags:
   - Real Estate
 excerpt: 'Millions of people think Zillow is a trustworthy source for home value information, but fail to realize that these estimates are computer-generated and have a significant error rate.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/San+Diego+Real+Estate-+Why+You+Need+to+Be+Careful+With+Zillow.mp4'
 pullquote: Zillow has been in the news lately in regards to a lawsuit over a Zestimate
 enclosure_type: video/mp4
 enclosure_time:
