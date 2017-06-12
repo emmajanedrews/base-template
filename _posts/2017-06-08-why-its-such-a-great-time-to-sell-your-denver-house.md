@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why It’s Such a Great Time to Sell Your Denver House
-date: 2017-06-08 14:17:46
+date: 2017-06-08 14:17:00
 tags:
   - Market Update
 excerpt: The Denver market is about as good as it ever has been. There are a few key reasons why.
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/Fk-oz6hJz_A'
+youtube_code: 'https://youtu.be/NYnZGV5qC0U'
 ---
 
 
