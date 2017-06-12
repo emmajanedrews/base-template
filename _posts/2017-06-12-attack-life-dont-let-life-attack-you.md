@@ -17,7 +17,7 @@ youtube_code: 34sBaXcsDus
 
 {% include youtube.html %}
 
-How many times have you felt like life is choking you out? Maybe your health isn't where it should be, your wealth isn't where it should be, and life feels like it's just sitting on top of you suffocating you?
+How many times have you felt like life is choking you out? Maybe your health isn't where it should be, your wealth isn't where it should be, and life feels like it's just sitting on top of you and suffocating you?
 <br>&nbsp;
 <br>**We encourage you to stick with it, be persistent and patient, and before you know it, you'll have a reversal and a breakthrough.** Life's a grind and it can be a battle, but we're here to tell you to keep grinding it out and to attack life—don't let life attack you!
 <br>&nbsp;
