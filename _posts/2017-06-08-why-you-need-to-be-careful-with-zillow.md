@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why You Shouldn’t Trust Zillow’s Zestimates
+title: Why You Need to Be Careful With Zillow
 date: 2017-06-08 00:00:00
 tags:
   - Real Estate
