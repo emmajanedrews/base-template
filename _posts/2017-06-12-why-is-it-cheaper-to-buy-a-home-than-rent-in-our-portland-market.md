@@ -19,7 +19,7 @@ youtube_code: mDCf5AMOKOk
 
 Many potential first-time homebuyers don’t realize it, but it can be much cheaper to buy a home than continue renting.
 
-According to Keeping Current Matters, now more than ever, it is much cheaper to buy a home than rent. The percentage of income needed to afford a median home is 15.3%, while the percentage of income needed to afford a median rent is 30.1%.
+According to Keeping Current Matters, now more than ever, it is much cheaper to buy a home than to rent. The percentage of income needed to afford a median home is 15.3%, while the percentage of income needed to afford a median rent is 30.1%.
 
 The reason for this disparity—especially in our Portland market—is that **rents are at an all-time high.** Although it’s expensive to buy as well, interest rates are still at historic lows, so if you can get a down payment together, you’ll still be buying at an extremely low rate. You’ll also have an equity position. When you think about it, if you’re going to pay a mortgage, you might as well pay yours—not your landlord’s.
 
