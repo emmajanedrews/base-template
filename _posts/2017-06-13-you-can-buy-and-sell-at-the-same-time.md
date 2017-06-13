@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You Can Buy and Sell at the Same Time
-date:
+date: 2017-06-13 13:14:16
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -17,11 +17,11 @@ youtube_code: oPtJwEGBj0U
 
 
 {% include youtube.html %}The need to buy and sell real estate simultaneously is a common occurrence. Most people can’t afford two mortgages at once, so a home sale must be completed before funding can be approved for a home purchase. **If you anticipate being in a similar situation in the near future, I’ve got some tips to share to help you out.**
-<br>&nbsp;
-<br>The first thing you should do is figure out the true value of your home by sitting down with a Realtor, appraiser, or another real estate market expert. As soon as you find out how much it is worth, the next step is to list the home. **Now, you have a few different options with how you want to handle this.&nbsp;**
-<br>&nbsp;{% include pullquote.html %}
-<br>One option is accepting an offer that is contingent on you finding your next home. It can be a little tricky, but because inventory is so low in the market, a lot of buyers will be OK with this kind of deal.&nbsp;
-<br>&nbsp;
+<br>
+<br>The first thing you should do is figure out the true value of your home by sitting down with a Realtor, appraiser, or another real estate market expert. As soon as you find out how much it is worth, the next step is to list the home. **Now, you have a few different options with how you want to handle this.**
+<br> {% include pullquote.html %}
+<br>One option is accepting an offer that is contingent on you finding your next home. It can be a little tricky, but because inventory is so low in the market, a lot of buyers will be OK with this kind of deal.
+<br>
 <br>You’ll need to figure out how much you can qualify for in your next home before you make an offer on one. **When you make an offer, it might be wise to make the offer contingent on you selling your home.** If your home already has an offer or is under contract, this only improves your chances of securing the home.
-<br>&nbsp;
+<br>
 <br>It all comes down to finding the right knowledgeable, experienced Realtor with the right tools to help you succeed. We’ve helped many people in this exact situation, and we’ve got the tools to help you too. If you have any questions for us or are looking to buy or sell a home, give us a call or send us an email. We look forward to hearing from you.
