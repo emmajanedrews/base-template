@@ -1600,8 +1600,8 @@ label.tree-toggle {
 .site-logo {
   width: 90%;
   max-width: 40rem;
-  -webkit-filter: drop-shadow(0px 2px 7px #000);
-  filter: drop-shadow(0px 2px 7px #000); }
+  -webkit-filter: drop-shadow(0px 2px 7px #132E28);
+  filter: drop-shadow(0px 2px 7px #132E28); }
 
 .site-title {
   color: white;
@@ -2051,7 +2051,7 @@ table tr, table td {
   margin: 2rem 0;
   color: white;
   text-transform: uppercase;
-  text-shadow: 0px 2px 7px #000; }
+  text-shadow: 0px 2px 7px #132E28; }
 .post .headshot {
   width: 100%;
   max-width: 15rem;
@@ -2066,7 +2066,7 @@ table tr, table td {
 
 .tag-container {
   color: white;
-  text-shadow: 0px 2px 7px #000;
+  text-shadow: 0px 2px 7px #132E28;
   margin-bottom: 1rem; }
 
 .tag {
@@ -2077,7 +2077,7 @@ table tr, table td {
 .author-attribution {
   color: white;
   font-weight: 300;
-  text-shadow: 0px 2px 7px #000;
+  text-shadow: 0px 2px 7px #132E28;
   margin-bottom: 2rem;
   font-style: italic; }
   .author-attribution a {
@@ -2883,12 +2883,13 @@ form select {
     color: #fff; }
 
 .cta2 {
+  background: #02639A;
   color: #ffffff;
   padding: 1.3rem 2rem;
   text-transform: capitalize;
   font-size: 2rem;
   font-weight: 300;
-  border: 2px solid #ffffff;
+  border: 2px solid #02639A;
   -webkit-transition: 0.3s;
   transition: 0.3s; }
   .cta2:hover {

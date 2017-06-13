@@ -20,7 +20,7 @@ client:
   phone2:
   phone2_type:
   email: JoeRichardsonRE@gmail.com
-  url: http://richardsonhomes.net
+  url: http://RichardsonHomes.net
 
 CTAs:
   first_CTA_text: Home Valuation
@@ -33,7 +33,7 @@ sidebar_CTA:
   - CTA_image_path: /img/cta-images/005.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free -- MARKET -- Home Value Report"
+    CTA_link_text: "Free Home Value Report"
     CTA_url: http://www.searchwihomes.com/cma/property-valuation/
 
 second_sidebar_CTA:
@@ -106,7 +106,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: "#000"
+  shadow_color: "#132E28"
 
 buttons:
   button_radius_number: 0
