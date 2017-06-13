@@ -3,7 +3,7 @@ layout: post
 title: Why I Joined Palmer House
 tags:
   - Real Estate
-excerpt: I recently made the switch Palmer House and today I wanted to give you a little insight to what agents get as members of this team.
+excerpt: I recently made the switch to Palmer House and today I wanted to give you a little insight to what agents get as members of this team.
 enclosure:
 pullquote: They let agents be entrepreneurs and set their own commissions.
 enclosure_type: video/mp4
