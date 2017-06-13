@@ -5,7 +5,7 @@ date: 2017-06-08 14:17:00
 tags:
   - Market Update
 excerpt: The Denver market is about as good as it ever has been. There are a few key reasons why.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Rex+Jarnagin/Elite+Home+Team-+A+closer+look+at+the+market.mp4'
 pullquote: Low appraisals have become a big problem.
 enclosure_type: video/mp4
 enclosure_time:
