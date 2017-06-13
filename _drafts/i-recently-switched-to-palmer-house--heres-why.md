@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I Recently Switched to Palmer House. Here's Why"
+title: Why I Joined Palmer House
 tags:
 excerpt:
 enclosure:
@@ -11,6 +11,8 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code:
 ---
+
+
 {% include youtube.html %}
 
 {% include pullquote.html %}
