@@ -23,7 +23,7 @@ If you have a student loan or you are a cosigner on one, there is some good news
 
 Fannie Mae, the nation's largest underwriter of mortgages, recently introduced three new rules that affect those with student debt.
 
-**These****new rules can make it easier to get a mortgage, and they can make it easier to pay off your (or your kids’) student loans.**
+**These&nbsp;****new rules can make it easier to get a mortgage, and they can make it easier to pay off your (or your kids’) student loans.**
 
 Here's more detail on all three of the recent changes:
 
