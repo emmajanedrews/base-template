@@ -4,7 +4,7 @@ title: "What You Can Learn From Zillow's Lawsuit"
 tags:
   - Home Seller Tips
 excerpt: 'Recently, Zillow and their Zestimate have been in the news because of a homeowner taking issue with how the Zestimate has negatively affected her home sale.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Wes+Peters/Baltimore+Metro+Real+Estate-+Zillow+might+be+in+hot+water+because+of+this.mp4'
 pullquote: The Zestimate is meant to be just a starting point for buyers.
 enclosure_type: video/mp4
 enclosure_time:
@@ -26,7 +26,7 @@ The argument by the homeowner (which hasn't quite gone to court yet) is that Zil
 
 {% include pullquote.html %}
 
-If you want to know what your home is worth, you can use a website like Zillow or you can hire a licensed appraiser, and there is an argument to be made for both. **A licensed appraiser will take a more analytical approach by accounting for price per square foot and make adjustments for amenities.&nbsp;**However, many times, the appraiser hasn't actually seen the homes they compare yours to when coming up with a value. They don't know if the home had a strong odor, backed up to power lines, or sat on the market for a long time, for instance.
+If you want to know what your home is worth, you can use a website like Zillow or you can hire a licensed appraiser, and there is an argument to be made for both. **A licensed appraiser will take a more analytical approach by accounting for price per square foot and make adjustments for amenities.**However, many times, the appraiser hasn't actually seen the homes they compare yours to when coming up with a value. They don't know if the home had a strong odor, backed up to power lines, or sat on the market for a long time, for instance.
 
 An appraiser doesn't have their finger on the pulse of the active market like a real estate agent who has been in the majority of homes that you're comparing it to.
 
