@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "When It's Smarter to Buy Than Rent in Chicagoland"
+title: "Why It's Smarter to Buy Than Rent in Chicagoland"
 tags:
   - Home Buyer Tips
 excerpt: "With rental rates rising steadily over the last five years and housing affordability so strong, we've reached a point where buying a home could actually be cheaper than renting."
