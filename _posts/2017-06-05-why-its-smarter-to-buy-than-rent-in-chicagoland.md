@@ -22,8 +22,6 @@ Even though prices have gone up steadily over the last five years, **the key que
 
 {% include pullquote.html %}
 
-Now, you'll still have an association fee or 'assessment' if you buy a condominium, as well as a county property tax bill. However, adding those numbers up and comparing them to a similar rental unit in the same neighborhood, you'll find that the cost is the same, and in some cases, hundreds of dollars less.
-
-Rental rates here in the Chicagoland market have been high and increasing over the last five years. If you rent now and you're getting sick of paying your landlord's mortgage, you really should consider buying a home. **Those low interest rates are what make buying a home so affordable right now.**
+Now, you'll still have an association fee or 'assessment' if you buy a condominium, as well as a county property tax bill. Rental rates here in the Chicagoland market have been high and increasing over the last five years. If you rent now and you're getting sick of paying your landlord's mortgage, you really should consider buying a home. **Those low interest rates are what make buying a home so affordable right now.**
 
 If you or anyone you know wants to talk about the costs of buying a home and how it compares to renting, give us a call or send us an email. We'd love to sit down with you soon!
