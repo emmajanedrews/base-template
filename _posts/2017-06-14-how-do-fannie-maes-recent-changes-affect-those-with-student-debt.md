@@ -55,7 +55,7 @@ And if you can qualify for a mortgage right now, you definitely should. Rates ar
 
 You can check them all out here:
 
-Search\*\* [here](https://www.portlandpropertyfinders.com/results/)\*\* to see all Portland homes for sale
+Search&nbsp;**[here](https://www.portlandpropertyfinders.com/results/)**&nbsp;to see all Portland homes for sale
 
 **3. Refinancing a mortgage to pay off student debt**
 
