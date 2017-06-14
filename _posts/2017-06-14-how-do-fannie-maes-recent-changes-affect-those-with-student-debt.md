@@ -5,7 +5,7 @@ date: 2017-06-14 10:00:00
 tags:
   - Home Buyer Tips
 excerpt: 'If you have a student loan or are a cosigner on one, listen up. Fannie Mae just introduced three new rule changes that will affect those with student debt. The first change has to do with income-based repayment plans, which is the top reason for not being approved by a mortgage if you have a high debt-to-income ratio. With the new rule change, your ratio will be determined by your monthly payment, not the conservative 1% of the total loan that they were using. To learn more about all of these changes in more detail, watch this short video.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Stellar+Realty+Portland/+Videos/2017/June/Portland+Real+Estate+Agent-+How+Do+Fannie+Maes+Recent+Changes+Affect+Those+With+Student+Debt%253F.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -39,7 +39,7 @@ From now on, it will calculate the debt-to-income ratio using the monthly paymen
 
 If you have an income-based loan, this can drastically lower your debt-to-income ratio, and give you a much better chance of qualifying for a mortgage.
 
-2. In case of third-party student-debt payments
+1. In case of third-party student-debt payments
 
 Some folks are lucky enough to have their student debt paid by their parents or even by their employer.
 
@@ -55,9 +55,9 @@ And if you can qualify for a mortgage right now, you definitely should. Rates ar
 
 You can check them all out here:
 
-Search** [here](https://www.portlandpropertyfinders.com/results/)** to see all Portland homes for sale
+Search\*\* [here](https://www.portlandpropertyfinders.com/results/)\*\* to see all Portland homes for sale
 
-3. Refinancing a mortgage to pay off student debt
+1. Refinancing a mortgage to pay off student debt
 
 Fannie Mae makes it possible to refinance your mortgage for more than the value of your home.
 
@@ -73,4 +73,4 @@ However, if the mortgage rate is significantly lower than the student loan rate,
 
 These three new rules from Fannie Mae can be a big money saver for the right person.
 
-If you need help understanding these new guidelines to see whether they’re right for you, or you have questions about putting them into practice, get in touch with us at 503-265-8153. I’ll be glad to help.&nbsp;
+If you need help understanding these new guidelines to see whether they’re right for you, or you have questions about putting them into practice, get in touch with us at 503-265-8153. I’ll be glad to help.
