@@ -18,7 +18,7 @@ youtube_code: 8TUkW7yZIYg
 
 One of the first things people think of when they visit the Destin area is our white sand beaches and the Gulf of Mexico, but **this is also a boater's dream with plenty of places to explore** throughout all of our coastal waterways. There are so many wonderful places to explore by water to create memories that last forever.
 
-Recently I visiting the 41 beach sound on the west side of Mary Esther to do a little boating on the adjoining intercoastal waterway and along the Destin harbor. There are many beaches like the one I’m standing on in the video above scattered up and down the coastline, and we’re fortunate to live in such a beautiful area.
+Recently I visiting the Fort Walton Beach sound on the west side of Mary Esther to do a little boating on the adjoining intercoastal waterway and along the Destin harbor. There are many beaches like the one I’m standing on in the video above scattered up and down the coastline, and we’re fortunate to live in such a beautiful area.
 
 {% include pullquote.html %}
 
