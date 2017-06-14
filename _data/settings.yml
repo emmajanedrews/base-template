@@ -8,7 +8,7 @@ custom_links:
 client:
   name: Travis Chatwin
   license_number:
-  about_markdown: "Travis Chatwin Real Estate is comprised of a team of local real estate professionals committed to selling some of the most desired homes in Greater San Diego. Selling these \"right addresses\" is the mission of Travis Chatwin Real Estate. Let us know what you're looking for. Please take advantage of the helpful tools on this website, including our exclusive Greater San Diego Real Estate search, but also feel free to contact us personally."
+  about_markdown: "Travis Chatwin Real Estate is comprised of a team of local real estate professionals committed to selling some of the most desired homes in Greater San Diego. Let us know what you're looking for. Please take advantage of the helpful tools on this website, including our exclusive Greater San Diego Real Estate search, but also feel free to contact us personally."
   market: San Diego
   brand: Beach and Sun Homes
   brokerage: A Division of Aaron Roth Real Estate
@@ -24,7 +24,7 @@ CTAs:
   first_CTA_URL: 'https://www.beachandsunhomes.com/sell/'
   second_CTA_text: Home Search
   second_CTA_URL: 'https://www.beachandsunhomes.com/results-gallery/?sort=importdate&photo=1'
-  VR_form: http://oi.vresp.com?fid=2aa61a049f
+  VR_form: 'http://oi.vresp.com?fid=2aa61a049f'
 sidebar_CTA:
   CTA_image_path: /img/cta-images/002.jpg
   CTA_title: Looking to Buy a Home?
@@ -54,8 +54,9 @@ socials:
   podcast_url: 'https://itunes.apple.com/us/podcast/san-diego-real-estate-podcast-with-travix-chatwin/id1235677414?mt=2'
 podcast:
   title: San Diego Real Estate Podcast With Travix Chatwin
-  categories: Education
-  image: http://i.imgur.com/4C18r6h.jpg
+  categories:
+    - Education
+  image: 'http://i.imgur.com/4C18r6h.jpg'
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
