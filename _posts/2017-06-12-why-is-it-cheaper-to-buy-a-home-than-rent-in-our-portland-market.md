@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Why Is It Cheaper to Buy a Home Than Rent in Our Portland Market?
-date: 2017-06-12 15:33:32
+date: 2017-06-12 15:33:00
 tags:
   - Home Buyer Tips
 excerpt: 'Many potential first-time homebuyers don’t realize it, but it can be much cheaper to buy a home than continue renting.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Purchasing%2520vs.%2520renting%2520in%2520our%2520market.mp4'
 pullquote: 'If you’re going to pay a mortgage, you might as well pay yours—not your landlord’s.'
 enclosure_type: video/mp4
 enclosure_time:
