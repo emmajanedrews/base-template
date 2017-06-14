@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Buy a San Diego Home With Little or No Money Down
-date: 2017-06-05 00:00:00
+date: 2017-06-14 00:00:00
 tags:
   - Home Buyer Tips
   - Real Estate
