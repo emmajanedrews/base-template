@@ -5,7 +5,7 @@ date: 2017-06-15 16:50:00
 tags:
   - Market Update
 excerpt: 'What’s our market look like as we head into the summer season? Inventory might be at its lowest level in 15 years, and prices are stable. This makes our market especially good for sellers. There are a few things you must know, though, to truly take advantage of that. To find out more, watch my latest video.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/John+McAdams/Videos/2017/June/Ocean+City+Real+Estate+Agent-+Whos+Our+Market+Favoring+Entering+Summer%253F+(1).mp4'
 pullquote: 'If you list your home and price it properly, it may attract multiple offers.'
 enclosure_type: video/mp4
 enclosure_time:
