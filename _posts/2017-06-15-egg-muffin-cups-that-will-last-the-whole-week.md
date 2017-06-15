@@ -25,7 +25,6 @@ Egg muffin cups is a recipe that can be prepped at the beginning of the week and
 * Pink Himalayan sea salt and pepper to taste. Stay away from cheap table salt.
 
 {% include pullquote.html %}&nbsp;
-<br>&nbsp;
-<br>Start by preheating your oven to 400 degrees. Whisk your eggs together with salt and pepper and mix in the vegetables. Pre-line a muffin tin with paper muffin cups and grease the cups with organic butter or coconut oil. Using a ladle or large spoon, fill up the cups halfway with the egg mixture. Bake mixture for about 15 minutes. This recipe will make six cups for the week, and your breakfast prep is out of the way.
+<br>&nbsp;Start by preheating your oven to 400 degrees. Whisk your eggs together with salt and pepper and mix in the vegetables. Pre-line a muffin tin with paper muffin cups and grease the cups with organic butter or coconut oil. Using a ladle or large spoon, fill up the cups halfway with the egg mixture. Bake mixture for about 15 minutes. This recipe will make six cups for the week, and your breakfast prep is out of the way.
 <br>&nbsp;
 <br>If you have any questions for us or you'd like to talk more about hacking your health, you can always give us a call or send us an email. We're here to help!
