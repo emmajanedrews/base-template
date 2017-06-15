@@ -18,7 +18,7 @@ youtube_code: 8TUkW7yZIYg
 
 One of the first things people think of when they visit the Destin area is our white sand beaches and the Gulf of Mexico, but **this is also a boater's dream with plenty of places to explore** throughout all of our coastal waterways. There are so many wonderful places to explore by water to create memories that last forever.
 
-Recently I visiting the Fort Walton Beach sound on the west side of Mary Esther to do a little boating on the adjoining intercoastal waterway and along the Destin harbor. There are many beaches like the one I’m standing on in the video above scattered up and down the coastline, and we’re fortunate to live in such a beautiful area.
+Recently I visited the Fort Walton Beach sound on the west side of Mary Esther to do a little boating on the adjoining intercoastal waterway and along the Destin harbor. There are many beaches like the one I’m standing on in the video above scattered up and down the coastline, and we’re fortunate to live in such a beautiful area.
 
 {% include pullquote.html %}
 
@@ -26,4 +26,4 @@ Destin's original tag line was "The World's Luckiest Fishing Village" due to our
 
 We live this lifestyle and if you ever want to explore waterfront real estate opportunities by boat, we would be honored to give you a private tour. Looking at real estate and our area by water gives you a much different perspective than by land.
 
-If you have any questions or you think you might like to take a ride to look at some waterfront properties, don’t hesitate to give me call. You don’t have to twist my arm to get me out of the office.
+If you have any questions or you think you might like to take a ride to look at some waterfront properties, don’t hesitate to give me a call. You don’t have to twist my arm to get me out of the office.
