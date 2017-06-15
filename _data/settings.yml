@@ -23,9 +23,9 @@ client:
       email: Dianna.lodolce@govig.com
       VR_form: 'http://oi.vresp.com?fid=edc00c84dc'
       about_markdown: >-
-        Dianna LoDolce is the Senior Vice President, General Manager of the Biopharma 
-        Division at Govig & Associates. With over 28 years of recruiting experience, 
-        Dianna’s team successfully places professionals in a diverse range of 
+        Dianna LoDolce is the Senior Vice President, General Manager of the Biopharma
+        Division at Govig & Associates. With over 28 years of recruiting experience,
+        Dianna’s team successfully places professionals in a diverse range of
         pharmaceutical and biotech companies across the nation.
 
 
@@ -104,14 +104,24 @@ client:
         insight on each vertical that Govig specializes in. He has led Govig
         & Associates to become one of the largest and most successful privately
         held recruiting firms in Arizona.
-
-
-
-
-
-        Todd received his B.A. in Business Administration from Colorado College
-        in 1981. An aviation enthusiast, Todd also enjoys telemark skiing and
-        white water kayaking. Todd and his four children live in Phoenix.
+    - name: Justinn Sbresny
+      title: Talent Acquisition Manager
+      specialty: Careers
+      client_headshot_path: /img/headshot6.jpg
+      phone:
+      email: justinn.sbresny@govig.com
+      VR_form:
+      about_markdown: >-
+        Justinn Sbresny is the Talent Acquisition Manager at Govig & Associates. She started with Govig as a recruiter in the biopharma division and recently transitioned into talent acquisition. The talent acquisition team focuses on recruiting local talent along with establishing and maintaining a presence on the college campus. Justinn has a degree in special education and taught elementary school special education prior to working with Govig.
+    - name: Jade Gingras
+      title: Campus Recruiter
+      specialty: Careers
+      client_headshot_path: /img/headshot7.jpg
+      phone:
+      email: jade.gingras@govig.com
+      VR_form:
+      about_markdown: >-
+        Jade Gingras is the Campus Recruiter of the Talent Acquisition team at Govig and Associates. She successfully places college professionals in an internship program that provides multiple learning objectives. Jade graduated from University of Arizona with a degree in Psychology and Business in 2015. Jade’s goals are to become an expert in the Human Resources field, help businesses become more efficient in their processes and give professionals opportunities to help further their careers.
     - name: Sherri Huston
       title: Sr. Vice President/ General Manager
       specialty: Futurity
@@ -120,28 +130,28 @@ client:
       email: sherri.huston@govig.com
       VR_form: 'http://oi.vresp.com?fid=e08fb53196'
       about_markdown: >-
-        Sherri Huston is the Senior Vice President, General Manager of Govig Futurity. Futurity helps companies 
-        align their human capital strategy with their business strategy. Futurity is 
-        an innovative talent focused solution that provides companies and employees with 
+        Sherri Huston is the Senior Vice President, General Manager of Govig Futurity. Futurity helps companies
+        align their human capital strategy with their business strategy. Futurity is
+        an innovative talent focused solution that provides companies and employees with
         a road-map and tools to accelerate future growth.
 
 
 
-        Futurity measures the organization’s capability to build the future they envision. 
-        In addition, the process promotes employee engagement and provides the company with 
-        individual development plans to enhance future growth opportunities. 
+        Futurity measures the organization’s capability to build the future they envision.
+        In addition, the process promotes employee engagement and provides the company with
+        individual development plans to enhance future growth opportunities.
 
 
 
-        Sherri has been with Govig for thirteen years and prior to leading Govig Futurity, 
-        she led Govig’s Healthcare Group, one of the largest executive search firms serving 
+        Sherri has been with Govig for thirteen years and prior to leading Govig Futurity,
+        she led Govig’s Healthcare Group, one of the largest executive search firms serving
         the senior housing industry.
 
 
 
-        Govig has a history of being a Best Places to work company with a culture that changes 
-        people’s lives. Govig & Associates is the largest privately held firm in the Executive 
-        Search Industry. The firm was founded in 1978, located in Scottsdale Arizona and works 
+        Govig has a history of being a Best Places to work company with a culture that changes
+        people’s lives. Govig & Associates is the largest privately held firm in the Executive
+        Search Industry. The firm was founded in 1978, located in Scottsdale Arizona and works
         nationwide in Construction, Building Products, Healthcare and the Biopharmaceutical industries.
 
 

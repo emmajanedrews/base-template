@@ -42,7 +42,9 @@
 	</div><br>
 		<p><b>{{ client.name }}</b><br>
 		{{ client.title }}</br>
+		{% if site.data.settings.client.brokerage != null %}
 		{{ client.phone }}<br />
+		{% endif %}
 		<a href="mailto:{{ client.email }}" target="_blank">{{ client.email }}</a><br>
 		{{client.about_markdown | markdownify }}
 		{% endif %}
