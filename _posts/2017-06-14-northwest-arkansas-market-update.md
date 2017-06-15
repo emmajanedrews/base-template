@@ -4,7 +4,7 @@ title: Northwest Arkansas Market Update
 date: 2017-06-14 12:57:00
 tags:
   - Market Update
-excerpt: 'Things have been crazy in the northwest Arkansas real estate market. Both sales and prices are up and homes are selling faster than even last year when the market was hot. Today, I wanted to stop by with a full market update broken down by Benton and Washington County. With what’s going on in the market, now might be the time to make a move if you’ve been considering it. For more details, watch my latest video.'
+excerpt: 'Things have been crazy in the Northwest Arkansas real estate market. Both sales and prices are up and homes are selling faster than even last year when the market was hot. Today, I want to stop by with a full market update broken down by Benton and Washington County. With what’s going on in the market, now might be the time to make a move if you’ve been considering it. For more details, watch my latest video.'
 enclosure:
 pullquote: Prices are definitely up.
 enclosure_type: video/mp4
@@ -17,7 +17,7 @@ youtube_code: gElAfdWJpx4
 
 {% include youtube.html %}
 
-There’s a lot going on in the northwest Arkansas market this year.
+There’s a lot going on in the Northwest Arkansas market this year.
 
 **The market is booming and there are a lot of great things happening.** According to the Northwest Arkansas Council, there are 31 people moving in every day and research from the University of Arkansas shows that the average age of residents here is 33.
 
@@ -27,7 +27,7 @@ There are currently about 1,500 homes for sale in Benton County and roughly a qu
 
 {% include pullquote.html %}
 
-Interestingly, **prices are definitely up**. In Benton County, price per square foot rose about $8. The number of days it takes to sell a home on average has held steady in Benton County, but in Washington County, homes are selling in an average of about 30 days faster than last year. Prices in Benton County are also up by about $7 per square foot.
+Interestingly, prices are definitely up. In Benton County, price per square foot rose about $8. The number of days it takes to sell a home on average has held steady in Benton County, but in Washington County, homes are selling in an average of about 30 days faster than last year. Prices in Washington County are also up by about $7 per square foot.
 
 New construction home sales are up by about 80 this year in Benton County and up by about 60 in Washington County. Prices are also up about $8 a square foot for such homes. If you thought about buying a home last year but waited until this year, it will cost you about $20,000 more on average.
 
