@@ -29,6 +29,6 @@ There are a lot of myths out there believed by first-time homebuyers that we wan
 
 **4.) MYTH: Renting will be cheaper than buying.** In the Raleigh market, your rent is likely to go up every year. A mortgage payment, on the other hand, stays the same every year. When you rent, you don't build any equity, but spend your money paying off your landlord's mortgage instead of investing in your own equity.
 
-**5.) MYTH: You need a credit score of more than 700.** Many programs allow you to have a score in the low- to mid-600 range and still buy a home. in certain situations, we can even go as low as 580.
+**5.) MYTH: You need a credit score of more than 700.** Many programs allow you to have a score in the low- to mid-600 range and still buy a home. In certain situations, we can even go as low as 580.
 
 If you have any questions about buying your first home, don't hesitate to give us a call or send us an email. We're here to help!
