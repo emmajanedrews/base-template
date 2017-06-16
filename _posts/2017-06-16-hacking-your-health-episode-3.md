@@ -25,11 +25,11 @@ Today we’re standing in the middle of my front lawn to talk about how you can 
 <br>&nbsp;
 <br>The first thing you must do is **schedule out your time.**&nbsp;If you’re not scheduling it, it’s not happening. We hack our minds by doing things like guided meditation each morning at 6 a.m. For 10 minutes, we listen to apps like Calm and Headspace. We also like to hack our minds while we drive to work by listening to educational audiobooks and podcasts. This is also a neat trick to take your mind off how frustrating traffic can be.&nbsp;
 <br>&nbsp;
-<br>The second thing you must do is **exercise****.**The No. 1 reason people claim they don’t exercise is they don’t have time, but you only need 10 to 15 minutes to get a good workout in. We get our exercise in by doing high-interval intensity training. An example of this would be to do 10 reps of three different movements like pushups, pull-ups, and air squats. The goal of these workouts is to go hard, take a small break, and go hard again. Pushing your heart rate up, letting it go down, and pushing it up again will raise your metabolism and burn more fat.&nbsp;
+<br>The second thing you must do is **exercise****.&nbsp;**The No. 1 reason people claim they don’t exercise is they don’t have time, but you only need 10 to 15 minutes to get a good workout in. We get our exercise in by doing high-interval intensity training. An example of this would be to do 10 reps of three different movements like pushups, pull-ups, and air squats. The goal of these workouts is to go hard, take a small break, and go hard again. Pushing your heart rate up, letting it go down, and pushing it up again will raise your metabolism and burn more fat.&nbsp;
 
 {% include pullquote.html %}
-<br>
-<br>The last thing you must do is **meal preparation****.** This is usually the biggest struggle that most people have, but it’s not as hard as you think. After Dr. Ho and his wife go grocery shopping, for example, they take an hour and a half to plan out their lunch and dinner meals for the rest of the week. Crockpots and pressure cookers are two pieces of equipment that come in handy for this process.&nbsp;
+
+The last thing you must do is **meal preparation****.** This is usually the biggest struggle that most people have, but it’s not as hard as you think. After Dr. Ho and his wife go grocery shopping, for example, they take an hour and a half to plan out their lunch and dinner meals for the rest of the week. Crockpots and pressure cookers are two pieces of equipment that come in handy for this process.&nbsp;
 <br>&nbsp;
 <br>**When people don’t prep their meals, they tend to settle for fast food.** Not only is this far less healthy, but it’s also more expensive. When you prep your meals, you know what’s in your food and you know you’re getting a good, healthy meal every single time.&nbsp;
 <br>&nbsp;
