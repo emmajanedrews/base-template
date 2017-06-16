@@ -4,7 +4,7 @@ title: 3 Tips to Help You Downsize
 tags:
   - Home Seller Tips
 excerpt: 'Downsizing can seem like a big hassle, but these three tips will help make the whole process smoother.'
-enclosure:
+enclosure: 'http://vyralmarketing.s3.amazonaws.com/Trudy%20Coler/3%20Tips%20to%20Help%20You%20Downsize.mp4'
 pullquote: Do not put your home on the market until you know where you’re going next.
 enclosure_type: video/mp4
 enclosure_time:
