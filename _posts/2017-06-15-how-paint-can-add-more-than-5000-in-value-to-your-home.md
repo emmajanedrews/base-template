@@ -18,7 +18,7 @@ youtube_code: E8ROdLqAG6E
 
 Investing $50 in a can of paint can boost your home's sale price by more than $5,000 when the time comes to list it on the market.&nbsp;
 <br>&nbsp;
-<br>Zillow recently did a study that compared sold homes and their paint colors found that having a light blue or light periwinkle master bathroom can increase your home's price by $5,400. There are other colors that increase the value of other rooms, too.
+<br>Zillow recently did a study that compared sold homes and their paint colors and found that having a light blue or light periwinkle master bathroom can increase your home's price by $5,400. There are other colors that increase the value of other rooms, too.
 <br>&nbsp;
 <br>Light sage was found to be a good color for master bedrooms and light tan and taupe in bathrooms were found to increase sales price as well. Light yellows in the kitchen and light purple in the dining room had the same effect.
 
