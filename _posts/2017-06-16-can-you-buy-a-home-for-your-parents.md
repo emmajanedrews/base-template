@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Can You Buy a Home for Your Parents?
-date: 2017-06-16 16:29:25
+date: 2017-06-16 16:29:00
 tags:
   - Home Buyer Tips
-excerpt: Can You Buy a Home for Your Parents?   Have you thought about buying a home for your parents? Their level of mortgage qualification goes a long way in determining how the transaction will play out.
+excerpt: Have you thought about buying a home for your parents? Their level of mortgage qualification goes a long way in determining how the transaction will play out.
 enclosure: 'http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20Can%20You%20Buy%20a%20Home%20for%20Your%20Parents%253F.mp4'
 pullquote: How you buy a house for your parents depends on their unique circumstances.
 enclosure_type: video/mp4
@@ -19,7 +19,7 @@ youtube_code: RpzletUHTGQ
 
 Many people would like to buy a home for their parents, but don't know the best way how. The answer largely depends on the circumstances of the parents.
 
-Fannie Mae guidelines allow a child to buy a property for their parents, **and if the parents don't qualify, the child can purchase it as a primary residence.**The advantage of this is the lower interest rates and lower down payment requirements.&nbsp;
+Fannie Mae guidelines allow a child to buy a property for their parents, **and if the parents don't qualify, the child can purchase it as a primary residence.**The advantage of this is the lower interest rates and lower down payment requirements.
 
 {% include pullquote.html %}
 
