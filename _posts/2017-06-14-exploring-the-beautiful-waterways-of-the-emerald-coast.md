@@ -4,7 +4,7 @@ title: Exploring the Beautiful Waterways of the Emerald Coast
 tags:
   - Venue Reviews
 excerpt: "One of the first things people think of when they visit the Destin area is our white sand beaches and the Gulf of Mexico, but this is also a boater's dream with plenty of places to explore throughout all of our coastal waterways."
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Nathan+Abbott/Nathan+Abbott+Team-+Cruising+the+Emerald+Coast+waterways.mp4'
 pullquote: We’d be honored to give you a private tour of waterfront properties if you want.
 enclosure_type: video/mp4
 enclosure_time:
