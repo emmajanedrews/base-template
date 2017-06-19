@@ -7,20 +7,23 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Seth and Alyce Dailey
   license_number:
   about_markdown: |
-
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
-  phone_type:
-  phone2:
-  phone2_type:
-  email:
-  url:
+    The Dailey Group is comprised of a team of local real estate professionals committed to selling some of the most desired homes in Greater Baltimore Area. Selling these "right addresses" is the mission of The Dailey Group. Let us know what you're looking for. Please take advantage of the helpful tools on this website, including our exclusive Greater Baltimore Area Real Estate search, but also feel free to contact us personally.
+  market: Baltimore
+  brand: The Dailey Group
+  brokerage: Keller Williams Gateway
+  address: 8015 Corporate Drive, Suite C Baltimore, MD 21236
+  phone: 443-738-5588
+  phone_type: Seth
+  phone2: 443-629-6279
+  phone2_type: Alyce
+  email: Seth@TheDaileyGroup.com
+  email_type: Seth
+  email2: Alyce@TheDaileyGroup.com
+  email2_type: Alyce
+  url: TheDaileyGroup.com
 
 CTAs:
   first_CTA_text: Home Valuation
@@ -66,8 +69,8 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/thedaileygroup
+  linkedin_url: https://www.linkedin.com/company-beta/1257880/
   gplus_url:
   youtube_url:
   twitter_url:
@@ -96,8 +99,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#976caf'
-  theme_color: '#67c4a9'
+  brand_color: '#b40101'
+  theme_color: '#999999'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -106,7 +109,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: black
 
 buttons:
   button_radius_number: 0
