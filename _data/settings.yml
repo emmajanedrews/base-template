@@ -28,13 +28,12 @@ CTAs:
   VR_form:
 sidebar_CTA:
   CTA_image_path: /img/cta-images/004.jpg
-  CTA_title: "What’s Your -- MARKET -- Home Worth?"
+  CTA_title: "What’s Your Home Worth?"
   CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-  CTA_link_text: "Free -- MARKET -- Home Value Report"
+  CTA_link_text: "Free Home Value Report"
   CTA_url: http://www.hhande.com/home-evaluation.php
-  
 second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/005.jpg
+    CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
