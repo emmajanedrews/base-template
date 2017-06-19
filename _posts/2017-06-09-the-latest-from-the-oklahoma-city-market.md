@@ -6,7 +6,7 @@ tags:
   - Market Update
   - Real Estate
 excerpt: "What's going on in the Oklahoma City metro area market? Depending on which segment of the market you're looking in, you'll get a different answer."
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Becky+Ivins/Videos/Oklahoma+City+Metro+Real+Estate+Agent-+OKC+Metro+Area+Market+Update.mp4'
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Becky+Ivins/Videos/Oklahoma+City+Metro+Real+Estate+Agent-+OKC+Metro+Area+Market+Update+(1).mp4'
 pullquote: Low interest rates mean you have a lot of buying power.
 enclosure_type: video/mp4
 enclosure_time:
