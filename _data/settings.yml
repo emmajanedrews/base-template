@@ -23,13 +23,13 @@ client:
   email_type: Seth
   email2: Alyce@TheDaileyGroup.com
   email2_type: Alyce
-  url: TheDaileyGroup.com
+  url: http://TheDaileyGroup.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: https://www.thedaileygroup.com/home-valuation/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: https://www.thedaileygroup.com/
   VR_form:
 
 sidebar_CTA:
@@ -37,14 +37,14 @@ sidebar_CTA:
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free -- MARKET -- Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: https://www.thedaileygroup.com/home-valuation/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: https://www.thedaileygroup.com/
 
 lender:
   show_section: false
@@ -71,14 +71,14 @@ socials:
   review_sm_icons: false
   facebook_url: https://www.facebook.com/thedaileygroup
   linkedin_url: https://www.linkedin.com/company-beta/1257880/
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  gplus_url: https://plus.google.com/b/115391039795230903679
+  youtube_url: https://www.youtube.com/channel/UCyMYgJtDz9h4XkjT_4dh6OQ
+  twitter_url: http://twitter.com/thedaileygroup
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
+  zillow_url: https://www.zillow.com/profile/The-Dailey-Group/
+  trulia_url: https://www.trulia.com/profile/the-dailey-group-agent-baltimore-md-zg1683nj/overview
+  yelp_url: https://www.yelp.com/biz/the-dailey-group-keller-williams-gateway-baltimore
   podcast_url:
 
 podcast:
@@ -91,9 +91,9 @@ podcast:
   author: '-- CLIENT NAME --'
 
 images:
-  client_headshot_path: /img/headshot.jpg
+  client_headshot_path: /img/headshot.png
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 60
   hero_text: -- MARKET -- Real Estate Video Blog
   hero_background_hex: '#094264'
   hero_image_path: /img/background.jpg
