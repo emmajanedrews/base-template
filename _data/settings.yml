@@ -18,24 +18,31 @@ client:
   phone_type:
   phone2:
   phone2_type:
-  email: Matt@thinkhhe.com
+  email: andrew@thinkhhe.com
   url: 'http://www.thinkhhe.com'
 CTAs:
-  first_CTA_text: Contact Us
-  first_CTA_URL: '#contact'
-  second_CTA_text:
-  second_CTA_URL:
+  first_CTA_text: Home Valuation
+  first_CTA_URL: http://www.hhande.com/home-evaluation.php
+  second_CTA_text: Home Search
+  second_CTA_URL: http://www.hhande.com/
   VR_form:
 sidebar_CTA:
-  CTA_image_path: /img/cta-images/006.jpg
-  CTA_title: Looking to jump start your real estate career?
-  CTA_text: "If you are ready to talk, so are we. I'd enjoy the chance to discuss the Hooke, Hooke & Eckman Realtors team and what we can do for you."
-  CTA_link_text: Why become an agent with us?
-  CTA_url: '#contact'
+  CTA_image_path: /img/cta-images/004.jpg
+  CTA_title: "What’s Your -- MARKET -- Home Worth?"
+  CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
+  CTA_link_text: "Free -- MARKET -- Home Value Report"
+  CTA_url: http://www.hhande.com/home-evaluation.php
+  
+second_sidebar_CTA:
+  - CTA_image_path2: /img/cta-images/005.jpg
+    CTA_title2: "Looking for a -- MARKET -- Home?"
+    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
+    CTA_link_text2: "Search the MLS"
+    CTA_url2: http://www.hhande.com/
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
+    Our mission at Hooke, Hooke & Eckman Realtors, LLC is to be your best resource for real estate
     education. Our team of professionals can answer any questions you might have
     about real estate. Subscribe to this blog to get expert tips for building
     your real estate career.
@@ -57,9 +64,9 @@ podcast:
   categories:
   image:
   subtitle: 'Learn all the tips, tricks and more for real estate professionals  in the -- MARKET -- Area'
-  description: 'Improve your real estate career by getting all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
+  description: 'Improve your real estate career by getting all the information and the latest updates, tips, and tricks from Hooke, Hooke & Eckman Realtors, LLC - your professional Real Estate Agents.'
   keywords: 'Real Estate training, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, -- MARKET --, estate agent, realestate'
-  author: '-- CLIENT NAME --'
+  author: Andrew Kronenberg
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
