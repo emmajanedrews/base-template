@@ -1,126 +1,975 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title></title>
+    <title>Charleston Real Estate Podcast with Jeff Cook</title>
     <link>localhost:4000</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</description>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Jeff Cook Real Estate - your professional Charleston Real Estate Agents.</description>
     <language>en</language>
-    <managingEditor></managingEditor>
-    <lastBuildDate>2017-05-15 10:59:57 -0500</lastBuildDate>
-    <media:copyright></media:copyright>
+    <managingEditor>Jeff Cook</managingEditor>
+    <lastBuildDate>2017-06-19 17:16:00 -0500</lastBuildDate>
+    <media:copyright>Jeff Cook</media:copyright>
     <media:thumbnail url="/img/podcast.jpg"/>
-    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
+    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
-      <itunes:email></itunes:email>
-      <itunes:name></itunes:name>
+      <itunes:email>Info@JeffCookRealEstate.com</itunes:email>
+      <itunes:name>Jeff Cook</itunes:name>
     </itunes:owner>
-    <itunes:author></itunes:author>
+    <itunes:author>Jeff Cook</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="/img/podcast.jpg"/>
-    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the  Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</itunes:summary>
+    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Charleston Area Real Estate Market</itunes:subtitle>
+    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Jeff Cook Real Estate - your professional Charleston Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>localhost:4000/this-is-a-test-post.html</link>
-        
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
+        <title>Some Useful Home Staging Tips</title>
+        <link>localhost:4000/some-useful-home-staging-tips.html</link>
         
           <category>Home Seller Tips</category>
         
-        <author></author>
-        <pubDate>2016-10-04 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <author>Jeff Cook</author>
+        <pubDate>2017-06-09 15:11:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/2017/Charleston+Real+Estate+Agent-+Staging+Tips.mp4</guid>
         <description>
 
-}
+The first impression your home leaves a buyer with is the most important. When we bring a buyer through a home, we have one good shot at showing it in its best possible light. Here are a few home staging tips you can use to capture that light when it comes time to sell.
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+It’s important to know that buyers really care about kitchens and bathrooms. It’s also important to know that before they even make their way to those rooms, 75% of buyers have already made up their mind about a home by the time they get out of the car. Observe your home as a potential buyer, and pay close attention to its curb appeal. Note how it feels to walk up the driveway to your house to get an idea of what buyers see. Is there fresh paint? Does it smell nice?
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+“WE ARE THE NO. 1 TEAM IN CHARLESTON.”
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+Here’s the good news: Our market is on fire. Inventory is down a whopping 17%, which means buyers have fewer homes to choose from. Because of this, homes can take anywhere from 30 to 90 days to sell. During this period, we want to present your home in its best possible light to the buyers on the market. Because we are the No. 1 team in Charleston, we have the ability to bring our technology, our resources, and our marketing to you to ensure that your home sells in the shortest time period and for the most amount of money.
 
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+If you have any questions for us about home staging or anything else related to buying or selling a home, give us a call or send us an email. We are always here to help.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/2017/Charleston+Real+Estate+Agent-+Staging+Tips.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/2017/Charleston+Real+Estate+Agent-+Staging+Tips.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
-        <itunes:author></itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:subtitle>The first impression your home leaves a buyer with is the most important. When we bring a buyer through a home, we have one good shot at showing it in its best possible light. Here are a few home staging tips you can use to capture that light when it comes time to sell.</itunes:subtitle>
+        <itunes:author>Jeff Cook</itunes:author>
+        <itunes:summary>The first impression your home leaves a buyer with is the most important. When we bring a buyer through a home, we have one good shot at showing it in its best possible light. Here are a few home staging tips you can use to capture that light when it comes time to sell.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>A Fox in Space</title>
-        <link>localhost:4000/a-fox-in-space.html</link>
+        <title>4 Renovation Tips that Will Help You Maximize Your Homes Value</title>
+        <link>localhost:4000/4-renovation-tips-that-will-help-you.html</link>
         
-          <category>Market Update</category>
+          <category>Homeowner Tips</category>
         
-          <category>Real Estate</category>
+        <author>Jeff Cook</author>
+        <pubDate>2017-05-30 10:55:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/2017/Charleston+Real+Estate+Agent-+Home+Reno+Tips.mp4</guid>
+        <description>
+
+Which improvements and renovations can you do to your home to maximize its value?
+
+First, keep your renovations moderate. When you’re attempting to do a renovation or an upgrade, ask yourself one question: Will the majority of buyers coming through this home appreciate this renovation, or will I have to do it again if I decide to sell this home at a later date?
+
+Second, pay attention to curb appeal. Your curb appeal creates the first impression of your home. In our office, we abide by something we call the three second rule. This means whenever we bring a buyer to a property, they will determine whether they want to seriously consider purchasing that property or not within the first three seconds of pulling in the driveway. Spend some money on landscaping and other areas out front to make your home more inviting for any prospective buyers.
+
+“SPEND THE MAJORITY OF YOUR MONEY IN KITCHENS AND BATHROOMS.”
+
+Third, have as much hardwood flooring in your home as you can. Buyers love neutral, hardwood floors. If you can’t afford to install hardwood floors, make your current flooring as clean and neat as possible.
+
+Lastly, spend the majority of your money in kitchens and bathrooms. These are the places in the home where you’ll get your best return on investment. You can typically achieve a two-to-one return on investment, meaning you’ll get $2 in return on the sale of your home for every $1 you spend.
+
+If you have any questions about how to maximize your home’s value or you’re thinking about buying or selling a house, feel free to reach out to us. We’d love to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/2017/Charleston+Real+Estate+Agent-+Home+Reno+Tips.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/2017/Charleston+Real+Estate+Agent-+Home+Reno+Tips.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Which improvements and renovations can you do to your home to maximize its value?
+
+</itunes:subtitle>
+        <itunes:author>Jeff Cook</itunes:author>
+        <itunes:summary>
+
+Which improvements and renovations can you do to your home to maximize its value?
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Pet Owner? Follow These 4 Rules When Listing</title>
+        <link>localhost:4000/pet-owner-follow-these-4-rules-when.html</link>
         
           <category>Home Seller Tips</category>
         
-        <author></author>
-        <pubDate>2016-09-28 00:00:00 -0500</pubDate>
+        <author>Jeff Cook</author>
+        <pubDate>2017-05-10 16:12:00 -0500</pubDate>
         <guid></guid>
         <description>
 
-}
-
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
-
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+Are you a pet owner looking to sell their home? If so, there are four rules you need to know.
 
 
-  list item
-  list item
-  list item
-  list item
-  list item
+  
+    Remove the pets from the home. I know it’s a challenge, but when I bring a buyer into your home I want to show it off in the best light possible. A cat or dog following a buyer around the house might make it difficult for them see all of the features that your home has to offer.
+  
+  
+    Take a long look at the backyard. Make sure holes are filled in and pet toys are put away. I want a buyer to be able to envision having picnics or their kids playing in the backyard, so making sure it’s manicured is essential.
+  
 
 
-
-  list item
-  list item
-  list item
-  list item
-  list item
+“ASK A FRIEND OR NEIGHBOR TO COME OVER TO SEE IF THEY NOTICE A SMELL.”
 
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+  
+    Eliminate any pet odors inside the home. I own a dog, so I understand that you might not always pick up on scents. Ask a friend or neighbor to come over to see if they notice a smell. If they do, we can install Glade plug-ins or have the carpets cleaned.
+  
+  
+    Get rid of any potential pet hair. Our goal is to have multiple showings with multiple buyers, so you need to vacuum before every showing. This makes sure a buyer with allergies doesn’t get a bad impression of your home.
+  
 
-“This is an example of a pull quote”
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+If you have any questions about this topic, or if you have any other real estate questions, feel free to give me a call or send me an email. I’m always happy to help.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="" length="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/2017/Charleston+Real+Estate+Agent-+4+Rules+That+Pet+Owners+Must+Know+When+Selling+Your+Home.mp4" type="video/mp4"/>
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
-        <itunes:author></itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:subtitle>
+
+Are you a pet owner looking to sell their home? If so, there are four rules you need to know.
+
+</itunes:subtitle>
+        <itunes:author>Jeff Cook</itunes:author>
+        <itunes:summary>
+
+Are you a pet owner looking to sell their home? If so, there are four rules you need to know.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
-    <copyright></copyright>
-    <media:credit role="author"></media:credit>
+      <item>
+        <title>3 Tips for First-Time Homebuyers</title>
+        <link>localhost:4000/3-tips-for-first-time-homebuyers.html</link>
+        
+          <category>Home Buying Tips</category>
+        
+        <author>Jeff Cook</author>
+        <pubDate>2017-04-27 13:57:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/2017/Charleston+Real+Estate+Agent-+Home+Buying+Tips+for+First-Time+Buyers+and+Newlyweds.mp4</guid>
+        <description>
+
+If you’re a first-time homebuyer or a newlywed buying a home, these tips will help you:
+
+
+  
+    It’s all about the budget: Your house is more than just a mortgage payment. Over time, you’ll have to pay for maintenance and insurance. That’s why we recommend you pay between 25% and 35% of your household disposable income toward that mortgage payment.
+  
+  
+    Location, location, location: Think about school districts even if you don’t have kids. When the time comes to sell in the future, it’ll be easier if you’re in a positive school district.
+  
+
+
+“THINK ABOUT SCHOOL DISTRICTS EVEN IF YOU DON’T HAVE KIDS.”
+
+
+  Communicate about the top features of the home: During our free buyer consultation, we’ll get a list of features that you and anyone living in the home would like to have. Then, we compare the lists and merge them into one list of must-haves so we can find your dream home.
+
+
+If you have any other questions about preparing to buy your first home, give us a call or send us an email. We’d be glad to help!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/2017/Charleston+Real+Estate+Agent-+Home+Buying+Tips+for+First-Time+Buyers+and+Newlyweds.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/2017/Charleston+Real+Estate+Agent-+Home+Buying+Tips+for+First-Time+Buyers+and+Newlyweds.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+If you’re a first-time homebuyer or a newlywed buying a home, these tips will help you:
+
+</itunes:subtitle>
+        <itunes:author>Jeff Cook</itunes:author>
+        <itunes:summary>
+
+If you’re a first-time homebuyer or a newlywed buying a home, these tips will help you:
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What I Think We'll See in the 2nd Quarter Market</title>
+        <link>localhost:4000/what-i-think-well-see-in-2nd-quarter.html</link>
+        
+          <category>Charleston Real Estate Market Update</category>
+        
+        <author>Jeff Cook</author>
+        <pubDate>2017-04-04 13:11:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/2017/Charleston+Real+Estate+Agent-+Market+Update+Re-upload.mp4</guid>
+        <description>
+
+The first important thing to note is that there was a lot of pent-up demand last year because of the storms we had and because of the election. **The first quarter of 2017 was absolutely amazing though with more people putting their home on the market than normal, more sales, and more people moving to Charleston. This is a testament to the market because the first quarter is typically one of the slowest quarters of the year. **
+
+So what does it all mean for the second quarter?
+
+“EVERYBODY WANTS TO MOVE DURING THE SUMMER WHEN THE KIDS ARE OUT OF SCHOOL AND THE DAYS ARE LONGER.”
+
+Remember that even more people get their homes ready to go on the market at this time of year. They want to move during the summertime when the kids aren’t in school and they have more all-around flexibility, along with longer days. The real estate market typically has the highest turnover rate in the second and third quarters.
+
+However, it’s important to remember that all the people planning to move to Charleston are planning their move during this period. That’s why if you’re considering selling your house, now might be the absolute best time. We can help you figure out exactly what you need to do to get your house ready for sale because now might be a perfect time.
+
+If you’re thinking about selling your house or you have any other questions we can answer, don’t hesitate to give me a call or send me an email. I’d love to help you out!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/2017/Charleston+Real+Estate+Agent-+Market+Update+Re-upload.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/2017/Charleston+Real+Estate+Agent-+Market+Update+Re-upload.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+The first important thing to note is that there was a lot of pent-up demand last year because of the storms we had and because of the election. **The first quarter of 2017 was absolutely amazing though with more people putting their home on the market than normal, more sales, and more people moving to Charleston. This is a testament to the market because the first quarter is typically one of the slowest quarters of the year. **
+
+</itunes:subtitle>
+        <itunes:author>Jeff Cook</itunes:author>
+        <itunes:summary>
+
+The first important thing to note is that there was a lot of pent-up demand last year because of the storms we had and because of the election. **The first quarter of 2017 was absolutely amazing though with more people putting their home on the market than normal, more sales, and more people moving to Charleston. This is a testament to the market because the first quarter is typically one of the slowest quarters of the year. **
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What 5 Statistics Define the Charleston Real Estate Market?</title>
+        <link>localhost:4000/what-5-statistics-define-charleston.html</link>
+        
+          <category>Charleston Real Estate Market Update</category>
+        
+        <author>Jeff Cook</author>
+        <pubDate>2017-03-03 15:45:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/2017/Charleston+Real+Estate+Agent-+Annual+Market+Repor.mp4</guid>
+        <description>
+
+I just got a report with all the latest statistics from the Charleston real estate market and I wanted to share some of the most important numbers with you. These five statistics paint a promising picture of our market and show just how far we’ve come since the recession.
+
+
+  
+    New listings. Almost 23,000 new homes have come on the market in the last 12 months.
+  
+  
+    Home sales. How many homes were sold during the same time frame? Some of you may be under the impression that every home that comes on the market is selling. However, that’s not what’s happening in reality. Out of those 23,000 listings, only 17,700 sold. That means there are between 5,000 and 6,000 properties that failed to sell. Regardless of what you think about the market, I encourage you to make sure that your Realtor has a strong marketing plan in place to sell your home. That’s really the only way to guarantee a sale in this market.
+  
+
+
+“IT IS TAKING AN AVERAGE OF 11 SHOWINGS TO SELL A HOME.”
+
+
+  
+    Median sale price. This is intriguing. During the recession, the median sale price was around $180,000. Today, it’s at $240,000. It’s increased by over $50,000 in the past five years, but there are people who still think their home won’t sell. If that’s the impression you’re under, I invite you to give us a call. If you tell us how much you owe and how much you’d like to sell for, we would be happy to give you our honest, professional opinion if that is doable.
+  
+  
+    Market time. How long does it take a home to sell on average? Over the past 12 months, the answer is 58 days.
+  
+  
+    Average showings. Finally, let’s look at the average number of showings it takes for a home to get an offer. Right now, homes are getting offers after an average of 11 showings.
+  
+
+
+If you’re interested in learning more and taking a better look at these statistics, you can view them in their entirety here.
+
+If you have any other questions about Charleston real estate, don’t hesitate to give us a call or send us an email. We would love to hear from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/2017/Charleston+Real+Estate+Agent-+Annual+Market+Repor.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/2017/Charleston+Real+Estate+Agent-+Annual+Market+Repor.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+I just got a report with all the latest statistics from the Charleston real estate market and I wanted to share some of the most important numbers with you. These five statistics paint a promising picture of our market and show just how far we’ve come since the recession.
+
+</itunes:subtitle>
+        <itunes:author>Jeff Cook</itunes:author>
+        <itunes:summary>
+
+I just got a report with all the latest statistics from the Charleston real estate market and I wanted to share some of the most important numbers with you. These five statistics paint a promising picture of our market and show just how far we’ve come since the recession.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>A Unique Opportunity for You</title>
+        <link>localhost:4000/a-unique-opportunity-for-you.html</link>
+        
+          <category>Help Wanted</category>
+        
+        <author>Jeff Cook</author>
+        <pubDate>2017-02-21 17:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/2017/Charleston+Real+Estate+Agent-+Unique+Opportunity.mp4</guid>
+        <description>
+
+I’ve been working in real estate here in Charleston for 13 years, so I’ve seen the highs, the lows, and a lot of other things in between. During that time, I’ve developed one of Charleston’s first real estate teams, which has expanded into multiple locations.
+
+“WE’RE LOOKING TO ADD TWO OR THREE SALESPEOPLE AT EACH OF OUR FOUR LOCATIONS.”
+
+In the past 30 days, our team generated 3,813 leads of people who are either moving to the area or who live here already and are thinking about moving. About two-thirds of the leads we generated are from outside the area by people looking to move into Charleston. Did you know that 53 people move to Charleston every single day? We can get you in front of those people looking to buy a home here, and that’s a huge opportunity!
+
+Within our team, we share these leads with our agents, and we literally are not able to get to all of them currently.  We need YOU!   We’re looking to add two or three great salespeople to each our four locations.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/2017/Charleston+Real+Estate+Agent-+Unique+Opportunity.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/2017/Charleston+Real+Estate+Agent-+Unique+Opportunity.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+I’ve been working in real estate here in Charleston for 13 years, so I’ve seen the highs, the lows, and a lot of other things in between. During that time, I’ve developed one of Charleston’s first real estate teams, which has expanded into multiple locations.
+
+</itunes:subtitle>
+        <itunes:author>Jeff Cook</itunes:author>
+        <itunes:summary>
+
+I’ve been working in real estate here in Charleston for 13 years, so I’ve seen the highs, the lows, and a lot of other things in between. During that time, I’ve developed one of Charleston’s first real estate teams, which has expanded into multiple locations.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Do Rising Interest Rates Mean for You?</title>
+        <link>localhost:4000/what-do-rising-interest-rates-mean-for.html</link>
+        
+          <category>Increased Interest Rates</category>
+        
+        <author>Jeff Cook</author>
+        <pubDate>2017-02-09 14:40:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+What+rising+mortgage+rates+mean+to+you.mp4</guid>
+        <description>
+
+Extra! Extra! Read all about it! Have you heard? Interest rates are on the rise. What does that mean for your home’s value? That is exactly what I wanted to discuss today.
+
+The entity that sets interest rates, the Federal Reserve, meets on a quarterly basis. In 2016, they increased interest rates in two of their four meetings, including the one in December. They have predicted that this year they will raise rates in three out of the four meetings.
+
+Let’s just say they go up 1% from 4.5% to 5.5%, which is what many experts are predicting. Logic says that is still an amazingly low rate, and based on 20- and 30-year trends, it is. However, here is what that increase means for you specifically if you’re trying to buy a home.
+
+“THIS IS THE TIME TO BUY OR SELL BEFORE THEY GO UP.”
+
+If you get approved today for up to $300,000 at 4.5%, just a 1% increase will greatly affect your buying power. With a 5.5% rate, you would only be able to afford a $270,000 home and your mortgage payment will end up about the same as it would have been with a $300,000 home at 4.5%.
+
+If you’re trying to get the maximum amount of money possible out of your home sale, now might be a good time to consider putting your home on the market. There are a lot of buyers out there looking right now and the more potential eyeballs looking at your home, the better. On the flip side, if you plan on purchasing a new home in the near future, it is a good idea to take advantage of the money while it’s cheap and before rates go up.
+
+If you have any questions for me or if you are looking to buy or sell a home in Charleston, don’t hesitate to give me a call or send me an email. I would love to hear from you and discuss your specific situation further.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+What+rising+mortgage+rates+mean+to+you.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+What+rising+mortgage+rates+mean+to+you.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>The entity that sets interest rates, the Federal Reserve, meets on a quarterly basis. In 2016, they increased interest rates in two of their four meetings, including the one in December.</itunes:subtitle>
+        <itunes:author>Jeff Cook</itunes:author>
+        <itunes:summary>The entity that sets interest rates, the Federal Reserve, meets on a quarterly basis. In 2016, they increased interest rates in two of their four meetings, including the one in December.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Do You Know Youre Picking the Right Mortgage Lender?</title>
+        <link>localhost:4000/how-do-you-know-youre-picking-right.html</link>
+        
+          <category>Home Buying Tips</category>
+        
+        <author>Jeff Cook</author>
+        <pubDate>2017-02-03 15:29:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+Best+Mortgage.mp4</guid>
+        <description>
+
+There are so many options out there in the lending world. You have online banks, brick-and-mortar banks, and non-depository institutions like us. How do you know which one is right for you?
+
+There are different factors to consider, such as rates, fees, and services. Without going from bank to bank to bank, how do you establish that? Let’s examine your options.
+
+With an online bank, you’re a one-time client for them. After your business is completed, they’re not thinking about you ever again, so they don’t have the motivation to service you properly and make the process as easy as possible.
+
+“MY TEAM CAN TAKE GREAT CARE OF YOU.”
+
+With brick-and-mortar banks, their end goal is to make you a customer so they can sell you additional products like car loans, IRAs, bank accounts, etc.
+
+With non-depository institutions like us, our goal is to create that continual referral source by providing outstanding customer service, great rates, low fees, and making the mortgage process as easy as possible.
+
+If you have any questions or are in need of a great lender, please don’t hesitate to give me a call or send me an email. I look forward to helping you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+Best+Mortgage.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+Best+Mortgage.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+There are so many options out there in the lending world. You have online banks, brick-and-mortar banks, and non-depository institutions like us. How do you know which one is right for you?
+
+</itunes:subtitle>
+        <itunes:author>Jeff Cook</itunes:author>
+        <itunes:summary>
+
+There are so many options out there in the lending world. You have online banks, brick-and-mortar banks, and non-depository institutions like us. How do you know which one is right for you?
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Do You Finance a Tiny Home? </title>
+        <link>localhost:4000/how-do-you-finance-tiny-home.html</link>
+        
+          <category>Homeowner Tips</category>
+        
+        <author>Jeff Cook</author>
+        <pubDate>2017-01-18 11:58:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+Can+You+Finance+a+Tiny+Home%253F+w-+Chris+Gonzalez+of+Tabor+Mortgage.mp4</guid>
+        <description>
+
+A lot of people are downsizing and moving into tiny homes. Chris Gonzalez from Tabor Mortgage is here to answer the question, **“Can you finance a tiny home?” **
+
+The answer is yes, but it may not be the traditional mortgage that you’re thinking of.
+
+“THERE ARE ONLY TWO WAYS TO FINANCE A TINY HOUSE.”
+
+First, you should know that there are a few different types of tiny homes out there:
+
+
+  
+    A trailer you can move.
+  
+  
+    A tiny home on land you can own.
+  
+  
+    A tiny home on land you rent from a development.
+  
+
+
+That said, there are only two ways to finance a tiny home. One option is to apply for a personal loan from a local bank. The other is to get an actual RV loan from your local bank.
+
+If you have any other questions about financing a tiny home, you can reach Chris at (843) 840-4821 or &lt;a href=”mailto:Chris@TaborMortgage.com” target=”_blank&gt;Chris@TaborMortgage.com&lt;/a&gt;. As always, if you have any real estate questions, don’t hesitate to reach out to us. We would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+Can+You+Finance+a+Tiny+Home%253F+w-+Chris+Gonzalez+of+Tabor+Mortgage.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+Can+You+Finance+a+Tiny+Home%253F+w-+Chris+Gonzalez+of+Tabor+Mortgage.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>A lot of people are downsizing and moving into tiny homes. Chris Gonzalez from Tabor Mortgage is here to answer the question, “Can you finance a tiny home?”</itunes:subtitle>
+        <itunes:author>Jeff Cook</itunes:author>
+        <itunes:summary>A lot of people are downsizing and moving into tiny homes. Chris Gonzalez from Tabor Mortgage is here to answer the question, “Can you finance a tiny home?”</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Merry Christmas From Our Team!</title>
+        <link>localhost:4000/merry-christmas-from-our-team.html</link>
+        
+          <category>Happy Holidays</category>
+        
+        <author>Jeff Cook</author>
+        <pubDate>2016-12-22 10:43:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+Christmas+Snowing+With+Mask.mp4</guid>
+        <description>
+
+I wanted to stop by quickly today and just say merry Christmas. I want to thank everyone for your support this year and in years past.
+
+There’s one thing I wanted to share with you today.
+
+How you been outside lately and seen the stars and the amazing landscape, sunset, and the moon? If God was able to create all of this, and you still have a beating heart, you still have a purpose in life. Not only did God create all those amazing things, He breathed His very life into creating you.
+
+“REMEMBER THE REASON FOR THE SEASON.”
+
+This Christmas, reach out to those around you and love your neighbor. Be encouraged and cheerful, and remember the reason for the season!
+
+I look forward to hearing from you soon! Merry Christmas!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+Christmas+Snowing+With+Mask.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+Christmas+Snowing+With+Mask.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+I wanted to stop by quickly today and just say merry Christmas. I want to thank everyone for your support this year and in years past.
+
+</itunes:subtitle>
+        <itunes:author>Jeff Cook</itunes:author>
+        <itunes:summary>
+
+I wanted to stop by quickly today and just say merry Christmas. I want to thank everyone for your support this year and in years past.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Can You Buy a Charleston Home With No Money Down?</title>
+        <link>localhost:4000/how-can-you-buy-charleston-home-with-no.html</link>
+        
+          <category>Home Buying Tips</category>
+        
+        <author>Jeff Cook</author>
+        <pubDate>2016-12-15 16:28:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+Four+Ways+to+Buy+a+Home+With+Little+or+No+Money+Down.mp4</guid>
+        <description>
+
+Many times we see buyers who are ready to own a home but just don’t have the money for a down payment. Did you know you can buy a home with very little or even zero money down? Today I wanted to share the top four ways you can do this in the Charleston market.
+
+Since interest rates are low, it’s still a fantastic time to buy a house. These are the ways you can take advantage with little or no money down:
+
+
+  
+    VA (veterans) loan: You can buy a home if you’re a veteran for 100% financing.
+  
+  
+    State Housing: This is a grant for your down payment. Depending on your income and the county you’re buying in, it could be repaid or it could be completely forgivable.
+  
+
+
+“STATE HOUSING IS A DOWN PAYMENT GRANT THAT CAN BE TOTALLY FORGIVABLE.”
+
+
+  
+    USDA: This lets you buy a home in what’s considered a rural area. Many areas around Monk’s Quarter, Goose Creek, and Summerville are still considered rural because of lines that were drawn many, many years ago. This loan also lets you finance 100% of the price.
+  
+  
+    A gift fund from a relative or family member: This lets you buy a home with a conventional down payment, but you utilize it as a gift from a family member or relative that’s applied directly to the home purchase.
+At the end of the day, if you have about $1,200, we can get the seller of the home you want to buy to pay the majority of the closing costs. The $1,200 will allow you to get the property inspected and put down your earnest money so you can buy the home.
+  
+
+
+With a 620 or better credit score and gainful employment, we may be able to help you get into a home with little or no money down. If you have any questions about qualifying or you’re interested in buying a home in the Charleston area, don’t hesitate to give me a call or send me an email. I’d love to help you out!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+Four+Ways+to+Buy+a+Home+With+Little+or+No+Money+Down.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+Four+Ways+to+Buy+a+Home+With+Little+or+No+Money+Down.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Many times we see buyers who are ready to own a home but just don’t have the money for a down payment. Did you know you can buy a home with very little or even zero money down? Today I wanted to share the top four ways you can do this in the Charleston market.
+
+</itunes:subtitle>
+        <itunes:author>Jeff Cook</itunes:author>
+        <itunes:summary>
+
+Many times we see buyers who are ready to own a home but just don’t have the money for a down payment. Did you know you can buy a home with very little or even zero money down? Today I wanted to share the top four ways you can do this in the Charleston market.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why It's Better to Own a Home than Rent One</title>
+        <link>localhost:4000/why-its-better-to-own-home-than-rent-one.html</link>
+        
+          <category>Home Buying Tips</category>
+        
+        <author>Jeff Cook</author>
+        <pubDate>2016-11-30 13:42:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+5+Major+Reasons+to+Own+a+Home+Rather+Than+Rent.mp4</guid>
+        <description>
+
+The first reason is that you build equity with each mortgage payment. Say you take out a mortgage for $200,000. Every time you make a payment, that $200,000 balance continues to drop and your equity increases. The second reason is that you enjoy many tax benefits by being a homeowner. At the end of the year when it’s time to file your taxes, the interest and other things you’ve paid can be deducted to release your tax burden.
+
+The third reason is that buying a home is actually cheaper than renting in the long term. Say that $200,000 mortgage we talked about has a $1,200 a month payment, and you have a friend who rents a $1,200 a month home. The following year, your mortgage payment will still be $1,200, but your friend’s rent is probably going to go up by $50 or $100 per month, and will continue to increase at that rate every single year. In 30 years, you’ll still be paying $1,200 a month, and your friend could be paying up to $4,000 in rent!
+
+“BUYING A HOME IS ACTUALLY CHEAPER THAN RENTING.”
+
+The fourth reason to own a home rather than rent one is that you will establish a solid credit history. Every single time you make a mortgage payment on time, your credit score continues to rise, which helps you in other aspects of life like getting better rates on insurance, cell phone payments, and anything else that requires credit.
+
+Finally, homeownership is healthy for families and the community. Just think about what happens in a home – the word “homemaker” comes to mind. Family comes over for holidays, friends come over for a cookout, neighbors become closer, kids are raised in the home, and relationships get stronger. It’s truly a wonderful thing.
+
+If you have any questions about homeownership or you’re interested in buying a home in the Charleston area, give me a call or send me an email. I’d love to hear from you and help you out.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+5+Major+Reasons+to+Own+a+Home+Rather+Than+Rent.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+5+Major+Reasons+to+Own+a+Home+Rather+Than+Rent.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+The first reason is that you build equity with each mortgage payment. Say you take out a mortgage for $200,000. Every time you make a payment, that $200,000 balance continues to drop and your equity increases. The second reason is that you enjoy many tax benefits by being a homeowner. At the end of the year when it’s time to file your taxes, the interest and other things you’ve paid can be deducted to release your tax burden.
+
+</itunes:subtitle>
+        <itunes:author>Jeff Cook</itunes:author>
+        <itunes:summary>
+
+The first reason is that you build equity with each mortgage payment. Say you take out a mortgage for $200,000. Every time you make a payment, that $200,000 balance continues to drop and your equity increases. The second reason is that you enjoy many tax benefits by being a homeowner. At the end of the year when it’s time to file your taxes, the interest and other things you’ve paid can be deducted to release your tax burden.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Happy Thanksgiving from Our Family to Yours</title>
+        <link>localhost:4000/happy-thanksgiving-from-our-family-to.html</link>
+        
+          <category>Happy Thanksgiving</category>
+        
+        <author>Jeff Cook</author>
+        <pubDate>2016-11-21 12:06:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+Happy+Thanksgiving+from+us+to+you.mp4</guid>
+        <description>
+
+With all of the holiday noise and Black Friday messages flooding your inbox, I just wanted to take this opportunity to say Happy Thanksgiving from the Jeff Cook Real Estate Team.
+
+I know that I personally am so grateful for my amazing family, my incredible wife, Sarah, my two children, Ava and Jason, and our dog, Johnny.
+
+I’d also like to give you a challenge. It’s very easy to get caught up in everything going on during the hustle and bustle during this time of year, but I’d like you to pick one person you know and one person you don’t know and lift their spirits this Thanksgiving.
+
+“WE ARE BETTER TOGETHER WHEN WE LOVE AND ENCOURAGE ONE ANOTHER.”
+
+Not everybody is as fortunate as we are to have a great holiday season, so it’s important to make sure everybody knows that they’re appreciated.
+
+At Jeff Cook Real Estate, this is our mission. This means that my job as the team leader is to empower my team so that we can empower the whole community. We are truly better together when we love one another and encourage each other.
+
+Again, I just wanted to say Happy Thanksgiving to all of you. Enjoy your time with your friends and family and don’t eat too much turkey!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+Happy+Thanksgiving+from+us+to+you.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+Happy+Thanksgiving+from+us+to+you.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>With all of the holiday noise and Black Friday messages flooding your inbox, I just wanted to take this opportunity to say Happy Thanksgiving from the Jeff Cook Real Estate Team.</itunes:subtitle>
+        <itunes:author>Jeff Cook</itunes:author>
+        <itunes:summary>With all of the holiday noise and Black Friday messages flooding your inbox, I just wanted to take this opportunity to say Happy Thanksgiving from the Jeff Cook Real Estate Team.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Does the Charleston Market Look Like?</title>
+        <link>localhost:4000/what-does-charleston-market-look-like.html</link>
+        
+          <category>Charleston Real Estate Market Update</category>
+        
+        <author>Jeff Cook</author>
+        <pubDate>2016-11-14 16:55:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+October+Market+Update.mp4</guid>
+        <description>
+
+We’ve got the latest numbers for the Charleston real estate market and we wanted to share them with you today. So far in 2016, 19,000 homes have been listed on the market and 14,000 of those have sold. A large percentage have sold, but there will always be homes that don’t sell for a variety of reasons. Whether it’s because they are priced too high, they’re unable to accommodate showings, or they simply go too long without an offer, not every home will sell.
+
+This year, the median price in Charleston is $239,000, a 5.7% jump from last year’s median price. Our average sale price is also up by around 4.5% to $320,000.
+
+Last year, we had about a five-month supply of inventory at this time. Right now, our supply is at 3.6 months. What we mean by this is that if no more new homes came on the market after now, it would take 3.6 months to sell all the homes on the market at the current rate homes are selling. Anything below five to six months is considered a seller’s market, so that’s what we are in right now in Charleston.
+
+“BUYERS ARE MORE RELUCTANT TO PAY FULL PRICE.”
+
+I do want to caution you that in this fourth quarter, we have seen a growing trend of buyers becoming a little reluctant to pay full price. However, a lot of people are taking their homes off the market right now before the holidays, so you have a window of opportunity to sell high now.
+
+If your home is eligible to be shown during the holidays, I recommend you get it on the market right now. You can get ahead of the January rush that will come and get your home under contract while there is less competition and more serious buyers.
+
+We are in a tremendous market for home sellers. If you have any questions for us or you’re thinking or buying or selling, give us a call or send us an email. We would be happy to come out to your home and give you a complimentary home valuation to show you what you could really sell for this holiday season. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+October+Market+Update.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+October+Market+Update.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+We’ve got the latest numbers for the Charleston real estate market and we wanted to share them with you today. So far in 2016, 19,000 homes have been listed on the market and 14,000 of those have sold. A large percentage have sold, but there will always be homes that don’t sell for a variety of reasons. Whether it’s because they are priced too high, they’re unable to accommodate showings, or they simply go too long without an offer, not every home will sell.
+
+</itunes:subtitle>
+        <itunes:author>Jeff Cook</itunes:author>
+        <itunes:summary>
+
+We’ve got the latest numbers for the Charleston real estate market and we wanted to share them with you today. So far in 2016, 19,000 homes have been listed on the market and 14,000 of those have sold. A large percentage have sold, but there will always be homes that don’t sell for a variety of reasons. Whether it’s because they are priced too high, they’re unable to accommodate showings, or they simply go too long without an offer, not every home will sell.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How We Can Help You Achieve Your Goals</title>
+        <link>localhost:4000/how-we-can-help-you-achieve-your-goals.html</link>
+        
+          <category>Jeff Cook Real Estate</category>
+        
+        <author>Jeff Cook</author>
+        <pubDate>2016-10-31 14:42:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+Did+You+Achieve+Your+Goals+for+2016%253F.mp4</guid>
+        <description>
+
+I just wanted to thank our Realtor community for everything that they’ve done this year to help us achieve our goals. With the help of the community, we were able to make all of our transactions a win-win for all parties involved.
+
+With the new year approaching, I just wanted to ask you one question: based on what you’ve done this year, have you achieved all of the goals that you set for yourself? Were you able to meet or exceed the number of home sales that you set out to sell? Were you able to service the number of families that you wanted to? Did you bring in the income that you desired?
+
+My team and I were able to service over 800 families this year, which is absolutely tremendous. We hope to push this number toward 1,000 or 1,100 this coming year.
+
+“DID YOU ACHIEVE ALL OF YOUR GOALS FOR THIS YEAR?”
+
+If you have any interest in chatting a little bit more about a potential new real estate career with our team, I’d love to talk with you.
+
+With the support of the Realtor community this year, we were also able to open our Johnnie Dodds office this year, located at 311 Johnnie Dodds Blvd. in Mount Pleasant. This is in addition to our offices on 821 Orleans Rd. in West Ashley, in the Oakbrook/North Charleston area, and in downtown Summerville. We have three or four positions available at each of these offices, and the agents in our office are rewarded with leads, a steady stream of contacts, as well as a business plan that allows them to reach the income level that they desire.
+
+If you have any interest in joining our team, simply give me a call or send me an email and I’ll keep your response 100% confidential. I would love to chat with you to see if we can get your real estate career to take off in the coming year. I look forward to hearing from you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+Did+You+Achieve+Your+Goals+for+2016%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+Did+You+Achieve+Your+Goals+for+2016%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+I just wanted to thank our Realtor community for everything that they’ve done this year to help us achieve our goals. With the help of the community, we were able to make all of our transactions a win-win for all parties involved.
+
+</itunes:subtitle>
+        <itunes:author>Jeff Cook</itunes:author>
+        <itunes:summary>
+
+I just wanted to thank our Realtor community for everything that they’ve done this year to help us achieve our goals. With the help of the community, we were able to make all of our transactions a win-win for all parties involved.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Help Us Rebuild Charleston</title>
+        <link>localhost:4000/help-us-rebuild-charleston.html</link>
+        
+          <category>Charleston Real Estate</category>
+        
+        <author>Jeff Cook</author>
+        <pubDate>2016-10-18 11:19:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+Hurricane+Matthew%2527s+Effect+on+the+Real+Estate+Market.mp4</guid>
+        <description>
+
+Today we’re in the city of North Charleston in a neighborhood called Park Hill. Hurricane Matthew just rolled through here a couple of days ago, and the majority of the houses along the street I’m currently standing at have flooded. We decided to come down here and lend a hand to the people in this community because that’s what we do in Charleston.
+
+A lot of people have been asking me what all this storm’s impact means for the real estate market. Overall, this won’t hurt Charleston’s real estate prices. Just because this is a hurricane-prone area doesn’t mean that the market suffers after one hits.
+
+“GET IN TOUCH WITH US IF YOU’RE INTERESTED IN ASSISTING THOSE WHO HAVE BEEN AFFECTED.”
+
+If you’re interested in assisting us with rebuilding this neighborhood, you can get in touch with us on Twitter at @rebuildparkhill or visit our website we’ll soon be launching called rebuildparkhill.com. There you’ll also be able to see pictures of some of the houses that we’ve worked on to get a better idea of the devastation and how we’re rebuilding.
+
+We’re still in business, so if you have any questions please give us a call or just reply to this email. We look forward to hearing from you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+Hurricane+Matthew%2527s+Effect+on+the+Real+Estate+Market.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+Hurricane+Matthew%2527s+Effect+on+the+Real+Estate+Market.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today we’re in the city of North Charleston in a neighborhood called Park Hill. Hurricane Matthew just rolled through here a couple of days ago, and the majority of the houses along the street I’m currently standing at have flooded. We decided to come down here and lend a hand to the people in this community because that’s what we do in Charleston.</itunes:subtitle>
+        <itunes:author>Jeff Cook</itunes:author>
+        <itunes:summary>Today we’re in the city of North Charleston in a neighborhood called Park Hill. Hurricane Matthew just rolled through here a couple of days ago, and the majority of the houses along the street I’m currently standing at have flooded. We decided to come down here and lend a hand to the people in this community because that’s what we do in Charleston.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to Knock 8 Years off of Your Mortgage</title>
+        <link>localhost:4000/charleston-real-estate-agent-easy-way.html</link>
+        
+          <category>Homeowner Tips</category>
+        
+        <author>Jeff Cook</author>
+        <pubDate>2016-09-08 14:43:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+How+to+Pay+Off+Your+Mortgage+In+22+Years.mp4</guid>
+        <description>
+
+There’s a really simple and effective trick for paying off your 30-year mortgage in just 22 years that I wanted to share with you. In fact, there are two ways.
+
+Say it’s tax refund time or Christmas, and you’ve come across a little extra money. **Did you know that if you make a 13th mortgage payment each year, you’ll knock eight years off of the life of your 30-year mortgage? **
+
+The second strategy is especially helpful for those who get paid on a bi-weekly basis. Instead of making a monthly mortgage payment, talk to your mortgage company about setting up bi-weekly payments on your mortgage. Since there are 52 weeks in a year, making half of your mortgage payment every two weeks rather than a full payment every month equates to making 26 half payments over the course of the year. Of course, that equates to 13 full payments a year instead of 12, which you would get by making one full payment per month.
+
+“BOTH OPTIONS WILL SAVE YOU THOUSANDS IN INTEREST!”
+
+Just like in the first scenario, you would knock eight years off of your 30-year mortgage. Think of the savings in interest!
+
+If you have any more questions about this topic or you’re thinking about buying or selling a home, give me a call or send me an email. I’d love to hear from you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+How+to+Pay+Off+Your+Mortgage+In+22+Years.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+How+to+Pay+Off+Your+Mortgage+In+22+Years.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>There's a really simple and effective trick for paying off your 30-year mortgage in just 22 years that I wanted to share with you. In fact, there are two ways.</itunes:subtitle>
+        <itunes:author>Jeff Cook</itunes:author>
+        <itunes:summary>There's a really simple and effective trick for paying off your 30-year mortgage in just 22 years that I wanted to share with you. In fact, there are two ways.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Your Charleston Homes Value Has Probably Risen</title>
+        <link>localhost:4000/charleston-real-estate-agent-charleston.html</link>
+        
+          <category>Charleston Real Estate Market Update</category>
+        
+        <author>Jeff Cook</author>
+        <pubDate>2016-08-19 12:33:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+Charleston+Has+Been+Ranked+%25232+In+Popularity+for+Movers.mp4</guid>
+        <description>
+
+We’ve got some great news to share about our great city. Charleston has recently been ranked the number two most popular destination for movers in 2016. The three contributing factors to this are strong job growth, low vacancy rates, and high affordability.
+
+For us in Charleston, this means a few things. For one, more people are moving to the area. That’s obvious. We have 43 newcomers each day on average. Jobs will also continue to grow, as the Charleston region is ranked in the top-10 in the U.S. for job seekers.
+
+“OUR MEDIAN SALE PRICE HAS RISEN BY 11.4%!”
+
+If you own a Charleston home, its value has likely risen. The median sales price is 11.4% higher right now than it was at the same time last year.
+
+If you’re interested in finding out what your home is worth or want to see what is out there for purchase, check out the links above. You can also give me a call or send me an email with any questions. I look forward to hearing from you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+Charleston+Has+Been+Ranked+%25232+In+Popularity+for+Movers.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+Charleston+Has+Been+Ranked+%25232+In+Popularity+for+Movers.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>We’ve got some great news to share about our great city. Charleston has recently been ranked the number two most popular destination for movers in 2016. The three contributing factors to this are strong job growth, low vacancy rates, and high affordability.</itunes:subtitle>
+        <itunes:author>Jeff Cook</itunes:author>
+        <itunes:summary>We’ve got some great news to share about our great city. Charleston has recently been ranked the number two most popular destination for movers in 2016. The three contributing factors to this are strong job growth, low vacancy rates, and high affordability.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Now Is the Time to Sell Your Charleston Home</title>
+        <link>localhost:4000/charleston-real-estate-agent-taking.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Jeff Cook</author>
+        <pubDate>2016-08-08 13:50:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+Why+Now+Is+the+Time+to+Sell+Your+Home.mp4</guid>
+        <description>
+
+Are you sitting on the fence trying to figure out whether now is the time to sell your Charleston home? I have four compelling reasons why you should:
+
+
+  
+    Low inventory, high demand. Not only do we have the people living in Charleston looking to purchase a home, but 70% of the people inquiring on our websites right now are folks living outside the area intending to move here soon. A lot of people want to be a part of our long-kept secret!
+  
+  
+    An influx of millennials purchasing. We refer to this as “pent-up demand.” These are people who are now old enough to purchase a home after living with their parents or renting for longer than they wanted due to the previous recession. Their collective need to buy homes has caused the market to continue to boom.
+  
+
+
+“A lot of people want to be a part of our long-kept secret!”
+
+
+  
+    Home values are up. Did you know that we’re in a 9% higher price point than we were a year ago? If you couldn’t previously sell your home, you may now be able to.
+  
+  
+    Interest rates are at an all-time low. If interest rates go up 1%, that cuts a buyer’s purchasing power by 10%. This means that if you own a home that’s worth $300,000 and interest rates rise by 1%, a potential buyer for that house that could’ve gotten approved at $300,000 can now only get approved for $270,000.
+  
+
+
+If you’re interested in finding out exactly what your home will sell for for in today’s market, click on the links above or reply to this email specifically. If all else fails, just give me a call. I look forward to talking to you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+Why+Now+Is+the+Time+to+Sell+Your+Home.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+Why+Now+Is+the+Time+to+Sell+Your+Home.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Are you sitting on the fence trying to figure out whether now is the time to sell your Charleston home? I have four compelling reasons why you should</itunes:subtitle>
+        <itunes:author>Jeff Cook</itunes:author>
+        <itunes:summary>Are you sitting on the fence trying to figure out whether now is the time to sell your Charleston home? I have four compelling reasons why you should</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Do Open Houses Help Sell Your Charleston Home? </title>
+        <link>localhost:4000/charleston-real-estate-agent-do-open.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Jeff Cook</author>
+        <pubDate>2016-06-27 15:10:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+Open+Houses.mp4</guid>
+        <description>
+
+Should you have an open house or not? We are huge fans of open houses. The open house is an integral part of our marketing system in order to help you get top dollar for your home. Having an open house creates energy and gives buyers the opportunity to see your home.
+
+Think about it: let’s say someone is shopping online for a three-bedroom, two-bath home with a two-car garage, but you only have a one-car garage. The online buyer wouldn’t see your home. Open houses only increase your chances for selling your home at top dollar. Three reasons:
+
+
+  People may miss your home if it doesn’t have every detail you think you want. Again, if they’re thinking they want a two-car garage, they may change their mind when they see your house in person.
+
+
+“Give buyers a chance to see your home in person.”
+
+
+  
+    Consider general foot traffic. Someone who walks into your open house is probably someone who didn’t know about your home previously.
+  
+  
+    **More buyers coming in increases the overall interest in your home. **
+  
+
+
+If you have any questions, give us a call or send us an email. We would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+Open+Houses.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+Open+Houses.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Should you have an open house or not? We are huge fans of open houses. The open house is an integral part of our marketing system in order to help you get top dollar for your home. Having an open house creates energy and gives buyers the opportunity to see your home.</itunes:subtitle>
+        <itunes:author>Jeff Cook</itunes:author>
+        <itunes:summary>Should you have an open house or not? We are huge fans of open houses. The open house is an integral part of our marketing system in order to help you get top dollar for your home. Having an open house creates energy and gives buyers the opportunity to see your home.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Top 3 Low-Cost Ways to Add Value in Charleston</title>
+        <link>localhost:4000/charleston-real-estate-agent-3-most.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+          <category>Charleston Real Estate</category>
+        
+          <category>Real Estate Seller Tips</category>
+        
+        <author>Jeff Cook</author>
+        <pubDate>2016-06-20 10:24:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jeff+Cohn/Charleston+Real+Estate+Agent-+The+3+most+cost-effective+home+improvements.mp4</guid>
+        <description>
+
+Today I’m happy to be joined by Tommy Welch of 1st Class Painting &amp; Restoration to talk about the top three things you can do to get the most value for your home.
+
+It’s a great question, Tommy said, and provided a contractor’s perspective. First and foremost, (and yes, Tommy says he’s a bit biased) you’ve got to make sure your paint is solid and neutral. He loves a good hot pink or your daughter’s bright blue bathroom, but not when you’re selling your home. It’s not just important to be neutral, it’s important that the quality of the work is good, so hire a professional.
+
+Secondly, Tommy said, know that buyers go straight to kitchens and bathrooms when they view a house. You want the kitchen to be functional, clean, and open. If your flooring is up to date, you’re probably ahead of the curve. Take a few minutes and take a non-biased look at your kitchen and bathrooms to look for what stands out as needing to be fixed or updated.
+
+“These are game-changers when it comes to listing your house.”
+
+Lastly, don’t forget the outdoors. We live here in Charleston so we can spend 365 days a year outside, so spruce up your yard. Keep the lawn cut, get rid of overgrowth, and make sure fences and decks are properly sealed, clean, and safe. You want people viewing your home to walk outside and think “Wow! I can hang out here!”
+
+All these things aren’t just cost-effective, they’re game-changers when it comes to listing your house and making a move. Tommy would love to come out and give you a totally free estimate on any of these things. You can call him at 843-324-6006 or you can email him at Tommy@1stClassCharleston.com.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cohn/Charleston+Real+Estate+Agent-+The+3+most+cost-effective+home+improvements.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cohn/Charleston+Real+Estate+Agent-+The+3+most+cost-effective+home+improvements.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today I'm happy to be joined by Tommy Welch of 1st Class Painting & Restoration to talk about the top three things you can do to get the most value for your home.</itunes:subtitle>
+        <itunes:author>Jeff Cook</itunes:author>
+        <itunes:summary>Today I'm happy to be joined by Tommy Welch of 1st Class Painting & Restoration to talk about the top three things you can do to get the most value for your home.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Should You Buy New or Old in Charleston?</title>
+        <link>localhost:4000/charleston-real-estate-agent-should-you.html</link>
+        
+          <category>Home Buying Tips</category>
+        
+        <author>Jeff Cook</author>
+        <pubDate>2016-06-01 15:35:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+New+Construction+VS+Resale+Homes.mp4</guid>
+        <description>
+
+Today, I’m discussing the advantages and disadvantages of new construction and resale properties when buying in Charleston. Whenever we sit down with buyers for initial consultations, they often know whether they want an older or newer home.
+
+If you’re interested in an older home, typically it’ll be in a mature neighborhood with developed trees and larger yard sizes on average. Oftentimes, you’ll notice smaller kitchens and bathrooms compared to new construction developments.
+
+“You have the opportunity to choose your add-ons with new construction properties.”
+
+New construction includes full warranties, but sometimes the yard sizes are smaller and the neighborhoods aren’t fully matured. The surrounding community might still be in construction mode, even though your home has already been built. You have the opportunity to personally choose your add-ons, such as flooring, colors, and other features. Additionally, you have built-in equity to a recently built home; the value increased during construction, even though you’re not making payments.
+
+If you’re thinking about buying or selling a home in the surrounding area, reach out by phone or email. I’d be happy to help answer your questions and serve your local real estate needs!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+New+Construction+VS+Resale+Homes.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/Charleston+Real+Estate+Agent-+New+Construction+VS+Resale+Homes.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today, I’m discussing the advantages and disadvantages of new construction and resale properties when buying in Charleston. Whenever we sit down with buyers for initial consultations, they often know whether they want an older or newer home.</itunes:subtitle>
+        <itunes:author>Jeff Cook</itunes:author>
+        <itunes:summary>Today, I’m discussing the advantages and disadvantages of new construction and resale properties when buying in Charleston. Whenever we sit down with buyers for initial consultations, they often know whether they want an older or newer home.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+    <copyright>Jeff Cook</copyright>
+    <media:credit role="author">Jeff Cook</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</media:description>
+    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Jeff Cook Real Estate - your professional Charleston Real Estate Agents.</media:description>
   </channel>
 </rss>

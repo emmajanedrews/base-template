@@ -1,5 +1,20 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
+  - quote: The Jeff Cook team was very helpful through the whole process. Everyone was incredibly pleasant and they really kept me calm during times I was worried that nothing was going to happen. They always gave me good information and were very willing to work with me.
+    name: Erich
+    audio: /uploads/audio/001.mp3
+  - quote: I was very impressed with how they kept in contact with me. There wasn’t a week that went by where I didn’t hear from them. Jeff has the most knowledge and we really felt that he would be able to take care of our needs and concerns.
+    name: Lee
+    audio: /uploads/audio/001.mp3
+  - quote: When we found the home we wanted, we told our Realtor at Jeff Cook Real Estate and told her what we were looking for. She worked very hard to get us into the house quickly and really made sure things were moving along. She even made calls to the utility company and home inspectors that, to me, was above and beyond!
+    name:  Jeff
+    audio: /uploads/audio/001.mp3
+  - quote: Our home was listed on a Thursday. We had 2-3 showings a day immediately. By the following Tuesday we had two offers and accepted an offer above listing price. Well managed and professional staff.”
+    name: Debbie C.
+    audio:
+  - quote: We sold a home in the Summerville area, took about 3 months from start to finish. They were very helpful and got our home sold quickly. We worked with an agent who had great knowledge of the market.
+    name: Dennis L.
+    audio:
+  - quote: We love our new home. And the staff at Jeff Cook Real Estate made the process of buying our first home simple and fast, stress-free, and overall just a great experience!
+    name: Brandon and Edna S.
     audio:
