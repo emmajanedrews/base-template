@@ -6,28 +6,10 @@ custom_links:
   - title:
     url:
 client:
-  name: Matt Madden
+  name: Andrew Kronenberg
   license_number:
   about_markdown: >-
-    Matt Madden has been President of Hooke, Hooke & Eckman Realtors since
-    January of 2016. Prior to taking the role, Matt spent 13 years as a full time
-    Realtor, serving buyers and sellers of residential real estate, farms,
-    residential development projects and investment real estate. Matt provides
-    visioning and strategic planning for the growth of the brokerage and its
-    agents.
-
-    <br>
-
-    <br>Matt is committed to community involvement and the real estate industry.
-    He current serves on the Finance Committee for the Partnership for Better
-    Health, is a GHAR RPAC Trustee and has represented Carlisle as a member of
-    the Carlisle Borough Council, board member for the Downtown Carlisle
-    Association.
-
-    <br>
-
-    <br>Matt lives in the Carlisle Borough with his wife Katie and their golden
-    retriever, Buddy.
+        Realtor specializing in residential listings and buyers, new construction and commercial/investment leasing and purchase
   market: Pennsylvania
   brand: 'Hooke, Hooke & Eckman Realtors, LLC'
   brokerage:
@@ -60,9 +42,9 @@ welcome_box:
 socials:
   review_sm_icons: false
   facebook_url:
-  linkedin_url: 'https://www.linkedin.com/in/matt-madden-55691413/'
-  gplus_url: 'https://plus.google.com/u/0/b/111804477931178277158/111804477931178277158'
-  youtube_url: 'https://www.youtube.com/channel/UCsklHMynvZxl036ZG-CREnw'
+  linkedin_url: 'https://www.linkedin.com/in/andrew-kronenberg-18152a15/'
+  gplus_url:
+  youtube_url:
   twitter_url:
   instagram_url:
   pinterest_url:
@@ -82,7 +64,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: 'Real Estate Career<br>Video Blog'
+  hero_text: 'Real Estate Video Blog'
   hero_background_hex: '#262624'
   hero_image_path: /img/background1.jpg
 site_colors:
