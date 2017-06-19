@@ -11,6 +11,8 @@ custom_links:
     url: /agent-training
   - title: Meet the Team
     url: /meet-the-team
+  - title: Testimonials
+    url: /client-testimonials
 client:
   name: Wade Betz
   license_number:
