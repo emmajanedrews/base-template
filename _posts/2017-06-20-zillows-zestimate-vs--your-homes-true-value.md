@@ -25,6 +25,6 @@ Zillow has been in the news a lot lately; but, for all the wrong reasons.
 
 {% include pullquote.html %}
 
-Zillow is now facing a lawsuit from a homeowner claiming that her home’s Zestimate devalued it and prevented her from selling it for the price it was truly worth. This development was alarming enough that Rascoff created a contest for anyone who could come up with a modified algorithm to help Zillow determine more accurate prices for homes. This contest has a grand prize of $1 million.**
+Zillow is now facing a lawsuit from a homeowner claiming that her home’s Zestimate devalued it and prevented her from selling it for the price it was truly worth. This development was alarming enough that Rascoff created a contest for anyone who could come up with a modified algorithm to help Zillow determine more accurate prices for homes. This contest has a grand prize of $1 million.
 <br>
-<br>To find out what your home is really worth in today’s market, you should reach out to a real estate professional such as myself.**If you’re thinking of putting your home on the market and you want an accurate valuation, feel free to give me a call or shoot me an email. I look forward to hearing from you.
+<br>**To find out what your home is really worth in today’s market, you should reach out to a real estate professional such as myself.&nbsp;**If you’re thinking of putting your home on the market and you want an accurate valuation, feel free to give me a call or shoot me an email. I look forward to hearing from you.
