@@ -2,7 +2,6 @@
 layout: post
 title: Should You Seek Out Low Condo Association Fees?
 tags:
-  - Real Estate 
   - Real Estate Educational
 excerpt: 'More often than not, whenever we have people looking for a resort condominium project to buy, the first thing they desire is low condo association fees. Is it a good idea to seek out low condo association fees, though?'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Nathan+Abbott/Nathan+Abbott+Team-+The+pros+and+cons+of+condo+association+fees.mp4'
