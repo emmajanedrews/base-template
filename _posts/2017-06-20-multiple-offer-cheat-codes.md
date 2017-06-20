@@ -20,6 +20,8 @@ We’ve had to deal with quite a few multiple offer situations recently. These c
 <br>&nbsp;
 <br>**The first important thing is to make sure your agent tells the sellers your story**. Striking an emotional chord with a seller will go a long way when it comes time for them to accept an offer. A lot of sellers are interested in the buyer who will live in their home next. You want your agent to present your case to the sellers as strongly as possible.
 
+&nbsp;
+
 {% include pullquote.html %}
 <br>&nbsp;
 <br>We recently had a buyer who was a nurse at a local hospital and ended up getting her offer accepted because of the seller’s connection to the nurses at that hospital. **Making sure the deadlines on the offer are nice and tight is another good strategy**.
