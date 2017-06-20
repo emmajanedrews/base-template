@@ -4,24 +4,24 @@
     <title></title>
     <link>localhost:4000</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
-    <description>A Podcast about  Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</description>
+    <description>A Podcast about Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</description>
     <language>en</language>
-    <managingEditor></managingEditor>
-    <lastBuildDate>2017-05-22 14:50:23 -0500</lastBuildDate>
-    <media:copyright></media:copyright>
+    <managingEditor>John Meulstee</managingEditor>
+    <lastBuildDate>2017-06-20 11:25:27 -0500</lastBuildDate>
+    <media:copyright>John Meulstee</media:copyright>
     <media:thumbnail url="/img/podcast.jpg"/>
-    <media:keywords> Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</media:keywords>
+    <media:keywords>Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
-      <itunes:email></itunes:email>
-      <itunes:name></itunes:name>
+      <itunes:email>realtyonegrouplegacy@gmail.com</itunes:email>
+      <itunes:name>John Meulstee</itunes:name>
     </itunes:owner>
-    <itunes:author></itunes:author>
+    <itunes:author>John Meulstee</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="/img/podcast.jpg"/>
-    <itunes:keywords> Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
-    <itunes:subtitle>Boost your Career with Veteran Real Estate Agent </itunes:subtitle>
-    <itunes:summary>A Podcast about  Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</itunes:summary>
+    <itunes:keywords>Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+    <itunes:subtitle>Boost your Career with Veteran Real Estate Agent John Meulstee</itunes:subtitle>
+    <itunes:summary>A Podcast about Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
@@ -36,7 +36,7 @@
         
           <category>Real Estate Business Tips</category>
         
-        <author></author>
+        <author>John Meulstee</author>
         <pubDate>2016-10-04 00:00:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -60,9 +60,9 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>John Meulstee</itunes:author>
         <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords> Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+        <itunes:keywords>Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
       </item>
       
       <item>
@@ -77,7 +77,7 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
         
           <category>Real Estate Business Tips</category>
         
-        <author></author>
+        <author>John Meulstee</author>
         <pubDate>2016-09-28 00:00:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -117,14 +117,14 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>John Meulstee</itunes:author>
         <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords> Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+        <itunes:keywords>Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
       </item>
       
-    <copyright></copyright>
-    <media:credit role="author"></media:credit>
+    <copyright>John Meulstee</copyright>
+    <media:credit role="author">John Meulstee</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">A Podcast about  Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</media:description>
+    <media:description type="plain">A Podcast about Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</media:description>
   </channel>
 </rss>
