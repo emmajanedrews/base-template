@@ -25,5 +25,4 @@ As an agent, there are three things that will determine your success (or failure
 3. **Commitment to do whatever it takes to succeed:** For one, this means digging to find the resources you need to level up in your business. As a sales agent, you can practice on your scripts or sales presentation, for example. Secondly, you need the inner drive and total commitment to do whatever it takes.
 
 {% include pullquote.html %}&nbsp;
-
 <br>If you're in the East Valley and you're looking for other options or solutions to improve yourself and take your business to the next level, I'd love to meet with you. Just give me a call or send me an email soon and let's keep this conversation going. I look forward to meeting you!
