@@ -2,7 +2,7 @@
 layout: post
 title: Take a Look at This Beautiful Coastal Park
 tags:
-  - Venue Reviews
+  - Outdoor Entertainment
 excerpt: Today I’m coming to you from the beautiful Emerald Coast.
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Nathan+Abbott/videoplayback.mp4'
 pullquote:
