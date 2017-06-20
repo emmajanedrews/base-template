@@ -1,5 +1,49 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
+  - quote: Jody made the home selling and buying experience hassle-free. He was available whenever we had questions, and saw any concerns through until the were resolved. Jody is a fantastic agent, and should be at the top of everyone's list.
+    name: Mike B. - Aldie, VA (Buyer)
+    audio:
+
+  - quote: Jody was incredibly helpful and understanding. He listened to all of our concerns/questions and did everything to help us. He quickly answered all of our questions no matter what time of day we contacted him. He is a great agent!!
+    name: Jorge, Alexandria (Buyer)
+    audio:
+
+  - quote: Jody Donaldson is top notch. We would gladly use him again and do recommend him to family and friends.
+    name: Dan and Suz, Chantilly Va. (Seller)
+    audio:
+
+  - quote: Jody knew we had to move fast to make an offer given the market so he was always available if I had questions or wanted to look at a property. He turned docs around that I needed to sign fast and he kept me informed every step of the way which I greatly appreciated b/c buying a house on my own was a new experience. I was nervous about buying a house on my own at first, but Jody made it enjoyable.
+    name: Sheila W. (Buyer)
+    audio:
+
+  - quote: Selling a house can be a stressful experience. Jody meets the sellers where they are and makes the process easy to understand and navigate. He is available whenever needed, and patient. He has the best interest of his clients in mind always. Exceptional service.
+    name: Meg Brinker, Vienna, VA (Seller)
+    audio:
+
+  - quote: 'Jody is a true professional, delivering quality service with a personal touch, by listening attentively, clarifying information, sharing expertise in knowledge and resources, and following through promptly and courteously. He has a way of making the sometimes stressful process more fun and enjoyable with his friendly, kind, caring disposition. He will always be my #1 choice for real estate transactions and referral source.'
+    name: Tricia, Ashburn, VA (Buyer)
+    audio:
+
+  - quote: Jody Donaldson was a tremendous help in selling our home. He had excellent suggestions for how to prepare our home for sale to get the maximum return on our investment. We worked with his recommended staging designer and followed both Jody's and her directions. Our house was listed for two days when we received three offers at or above asking price. We sold our home above the comps for our neighborhood. Jody was professional and friendly throughout the entire process. He was available whenever we had questions. It was a very pleasant experience and we will definitely talk to Jody if we need a real estate agent in the future. We highly recommend him and his team to anyone looking to buy or sell a home.
+    name: David Hish, Centreville (Seller)
+    audio:
+
+  - quote: Jody was great to work with in all aspects of our transaction from initial contact 6 months prior when we asked him to come and look at the property to let us know what we needed to do to make the home sales ready, to now when the sale has been complete but there is an ongoing issue for the new owners with the septic. Jody has been attentive and gone beyond all expectations that we had. Exceptional service. Thank you.
+    name: Hazlett Family, Manassas, VA (Seller)
+    audio:
+
+  - quote: Jody is a tremendous agent. He was responsive, polite, and understanding. We first met him through Century 21's website while searching for a rental property. He contacted us within an hour of that search and was able to find the perfect house for our purposes within 1 hour of our inquiry, simply fantastic! We came back to him 2 years later in our search for our first home purchase. An email in the dark and he not only remembered me, my wife, my 2 year old son (only 3 months old during the rental search) but he remembered everyone's name and personal tidbits about all of us. This may seem like an insignificant detail, but it's level of personal dedication that Jody will commit to you that makes you feel like he really cares about helping you.
+    name: Jeremy Ray, Centreville, VA (Buyer)
+    audio:
+
+  - quote: Jody was supportive, calm, and positive through the entire experience. We were on vacation when we heard from a first offer; despite both of us being out of town, he was able to be prompt and accurate with information during the first offer process. Although the first offer fell through, both us and Jody knew that it wasn't a good fit for either party. Our next offer proved to be "the one" and was a perfect fit. Jody was able to hone in on recognizing the strengths in this offer and the buyers agent, thus resulting and a quick, easy and fair transaction for all families involved. It was truly a joy to work with Jody.
+    name: Claudia, Aldie VA (Seller)
+    audio:
+
+  - quote: From the very first moment that we dealt with Jody Donaldson on the sale of our home, we were impressed with his professionalism, market knowledge, interpersonal skills, and positive outlook. Before selling our property, we were dreading having to go through the process but our experience with Jody was tremendous. He did outstanding work at every stage of the process. The process was truly effortless from our perspective. Jody took care of everything. He communicated clearly and regularly with us throughout the process. He was always straightforward with us and delivered on all his promises. We simply cannot say enough good things about Jody and his performance. We highly recommend him and would work with him again without a doubt.
+    name: Mike Zikes, Fairfax (Seller)
+    audio:
+
+  - quote: Jody was a joy to work with. We are so glad we had someone who truly cared about the biggest investment of our lives and helped us so much along the way. He was very flexible and patient, and we really needed that in our situation. I have, and will continue to, recommend him to my family and friends who are in the market as either buyers or sellers. His professionalism and compassion really shows throughout the whole process, and I can't thank him enough!
+    name: AJ, Sterling (Buyer)
     audio:
