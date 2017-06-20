@@ -3,11 +3,42 @@
   <channel>
     <title>-- CLIENT BRAND --</title>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Limbird Real Estate Group - your professional Northwest Arkansas Real Estate Real Estate Agents.</description>
-    <link>localhost:4000/</link>
-    <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 Apr 2017 13:03:48 -0500</pubDate>
-    <lastBuildDate>Fri, 21 Apr 2017 13:03:48 -0500</lastBuildDate>
+    <link>http://limbirdteamblog.com/</link>
+    <atom:link href="http://limbirdteamblog.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 20 Jun 2017 10:41:40 -0500</pubDate>
+    <lastBuildDate>Tue, 20 Jun 2017 10:41:40 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Northwest Arkansas Market Update</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/-76mqYTPvJ8?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;There’s a lot going on in the Northwest Arkansas market this year.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The market is booming and there are a lot of great things happening.&lt;/strong&gt; According to the Northwest Arkansas Council, there are 31 people moving in every day and research from the University of Arkansas shows that the average age of residents here is 33.&lt;/p&gt;
+
+&lt;p&gt;As for market activity, I wanted to look at things in terms of Benton County and Washington County.&lt;/p&gt;
+
+&lt;p&gt;There are currently about 1,500 homes for sale in Benton County and roughly a quarter are new builds. In Washington County, there are 738 homes for sale with 149 being new builds. Through the first five months of the year in Benton County, 2,375 homes have sold compared to 2,279 during the same period last year. In Washington County, 1,406 homes sold in the first five months of 2017. That number last year was 1,341.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Prices are definitely up.%20http://limbirdteamblog.com/northwest-arkansas-market-update.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Prices are definitely up.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Interestingly, prices are definitely up. In Benton County, price per square foot rose about $8. The number of days it takes to sell a home on average has held steady in Benton County, but in Washington County, homes are selling in an average of about 30 days faster than last year. Prices in Washington County are also up by about $7 per square foot.&lt;/p&gt;
+
+&lt;p&gt;New construction home sales are up by about 80 this year in Benton County and up by about 60 in Washington County. Prices are also up about $8 a square foot for such homes. If you thought about buying a home last year but waited until this year, it will cost you about $20,000 more on average.&lt;/p&gt;
+
+&lt;p&gt;Interest rates are still low for homes, making it still a great time to buy. March marked the 31st consecutive quarter of incline in the economy, tying for third-longest in the history of the U.S. economy.&lt;/p&gt;
+
+&lt;p&gt;If you’re interested in buying a home or you have any other questions, don’t hesitate to give us a call or send us an email. We’re here to help.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 14 Jun 2017 07:57:00 -0500</pubDate>
+        <link>http://limbirdteamblog.com/northwest-arkansas-market-update.html</link>
+        <guid isPermaLink="true">http://limbirdteamblog.com/northwest-arkansas-market-update.html</guid>
+        
+        <category>Market Update</category>
+        
+        
+      </item>
     
       <item>
         <title>The Limbird Real Estate Group Is Investing in the Future</title>
@@ -17,7 +48,7 @@
 
 &lt;p&gt;We are investing in a three-dimensional experience for our buyers and sellers. Open houses are usually only held for a few hours each week. With our easy-to-navigate 3-D tours, however, your home can be open 24/7, 365 days a year.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=With these tours, you have a 360-degree view of each room.%20localhost:4000/the-limbird-real-estate-group-is.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“With these tours, you have a 360-degree view of each room.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=With these tours, you have a 360-degree view of each room.%20http://limbirdteamblog.com/the-limbird-real-estate-group-is.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“With these tours, you have a 360-degree view of each room.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;We take you beyond the real world with a complete digital scan that gives buyers an unprecedented insight into your home like never before. With the use of lasers and high-tech cameras, potential buyers can select any room to view and instantly place themselves inside that space with the ability to maneuver inside the room and view it in 360 degrees. Buyers will be able to virtually walk through your home, get a feel for its layout, and notice details and features that they typically wouldn’t with still images.&lt;/p&gt;
 
@@ -26,8 +57,8 @@
 &lt;p&gt;If you have any questions for us, don’t hesitate to give us a call or send us an email. We would love to hear from you.&lt;/p&gt;
 </description>
         <pubDate>Mon, 20 Feb 2017 13:50:00 -0600</pubDate>
-        <link>localhost:4000/the-limbird-real-estate-group-is.html</link>
-        <guid isPermaLink="true">localhost:4000/the-limbird-real-estate-group-is.html</guid>
+        <link>http://limbirdteamblog.com/the-limbird-real-estate-group-is.html</link>
+        <guid isPermaLink="true">http://limbirdteamblog.com/the-limbird-real-estate-group-is.html</guid>
         
         <category>Best Northwest Arkansas Real Estate Team</category>
         
@@ -42,7 +73,7 @@
 
 &lt;p&gt;In our market, we have a large relocation of clients that move in and out of the area each year. These people usually make their moves toward the end or beginning of the year. We also have a situation where sellers who took their homes off the market during the holidays are mostly waiting until spring to list.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=You have a window of opportunity right now.%20localhost:4000/why-now-is-good-time-to-sell-in-our.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“You have a window of opportunity right now.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=You have a window of opportunity right now.%20http://limbirdteamblog.com/why-now-is-good-time-to-sell-in-our.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“You have a window of opportunity right now.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This gives you a window of opportunity now in which there isn’t a lot of inventory, but you also have a ton of buyers looking and a time of year where people are getting their tax refunds or bonus checks. When buyers have extra money burning a hole in their pocket, they are ready to spend.&lt;/p&gt;
 
@@ -51,8 +82,8 @@
 &lt;p&gt;If you have any questions for us or want to sell your home, give us a call or send us an email. We would love to help you out and give you the straight answer. We look forward to hearing from you!&lt;/p&gt;
 </description>
         <pubDate>Mon, 06 Feb 2017 12:01:00 -0600</pubDate>
-        <link>localhost:4000/why-now-is-good-time-to-sell-in-our.html</link>
-        <guid isPermaLink="true">localhost:4000/why-now-is-good-time-to-sell-in-our.html</guid>
+        <link>http://limbirdteamblog.com/why-now-is-good-time-to-sell-in-our.html</link>
+        <guid isPermaLink="true">http://limbirdteamblog.com/why-now-is-good-time-to-sell-in-our.html</guid>
         
         <category>Seller Tips</category>
         
@@ -67,7 +98,7 @@
 
 &lt;p&gt;As you might remember, we’ll give you a big box of chocolates that you can keep for yourself or give to your sweetheart as an early Valentine’s Day gift.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=We'll have chocolate, cocktails, and champagne%20localhost:4000/come-to-our-3rd-annual-valentines-day_25.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“We’ll have chocolate, cocktails, and champagne”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=We'll have chocolate, cocktails, and champagne%20http://limbirdteamblog.com/come-to-our-3rd-annual-valentines-day_25.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“We’ll have chocolate, cocktails, and champagne”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The party is coming up on Tuesday, February 7th from 4 p.m. to 7 p.m. Other than your big box of chocolates, we’ll also have drinks, champagne, and chocolate-covered strawberries. It’ll be a great time to come by after work and unwind with some chocolate and champagne.&lt;/p&gt;
 
@@ -78,8 +109,8 @@
 &lt;p&gt;We look forward to seeing you there!&lt;/p&gt;
 </description>
         <pubDate>Wed, 25 Jan 2017 13:16:00 -0600</pubDate>
-        <link>localhost:4000/come-to-our-3rd-annual-valentines-day_25.html</link>
-        <guid isPermaLink="true">localhost:4000/come-to-our-3rd-annual-valentines-day_25.html</guid>
+        <link>http://limbirdteamblog.com/come-to-our-3rd-annual-valentines-day_25.html</link>
+        <guid isPermaLink="true">http://limbirdteamblog.com/come-to-our-3rd-annual-valentines-day_25.html</guid>
         
         <category>Valentine's day</category>
         
@@ -94,7 +125,7 @@
 
 &lt;p&gt;As you may remember back in November, we gave away pies to our loyalty club members for Thanksgiving and gave you a chance to vote on which of our team members deserved a pie in the face.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Check out the fun things that've happened with our team.%20localhost:4000/not-1-but-2-fun-video-updates.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Check out the fun things that’ve happened with our team.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Check out the fun things that've happened with our team.%20http://limbirdteamblog.com/not-1-but-2-fun-video-updates.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Check out the fun things that’ve happened with our team.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Well, yours truly was lucky enough to be one of them. You can see me get pied in the face here.&lt;/p&gt;
 
@@ -103,8 +134,8 @@
 &lt;p&gt;We had a lot of fun in the last few weeks and we’re really looking forward to a great 2017. If there’s anything you have questions about in real estate or you’re thinking about buying or selling a home, don’t hesitate to give us a call or send us an email. We’d love to help you!&lt;/p&gt;
 </description>
         <pubDate>Wed, 28 Dec 2016 13:08:00 -0600</pubDate>
-        <link>localhost:4000/not-1-but-2-fun-video-updates.html</link>
-        <guid isPermaLink="true">localhost:4000/not-1-but-2-fun-video-updates.html</guid>
+        <link>http://limbirdteamblog.com/not-1-but-2-fun-video-updates.html</link>
+        <guid isPermaLink="true">http://limbirdteamblog.com/not-1-but-2-fun-video-updates.html</guid>
         
         <category>Northwest Arkansas Real Estate</category>
         
@@ -132,13 +163,13 @@
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Homes that sell faster sell for more money.%20localhost:4000/outsell-your-neighbors-with-these-4-tips.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Homes that sell faster sell for more money.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Homes that sell faster sell for more money.%20http://limbirdteamblog.com/outsell-your-neighbors-with-these-4-tips.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Homes that sell faster sell for more money.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Follow these four tips, and you’ll sell your home faster than anybody else on your block. If you have any other questions about buying or selling a home in the Northwest Arkansas market, give me a call or send me an email. I’d be happy to help you!&lt;/p&gt;
 </description>
         <pubDate>Wed, 05 Oct 2016 12:29:00 -0500</pubDate>
-        <link>localhost:4000/outsell-your-neighbors-with-these-4-tips.html</link>
-        <guid isPermaLink="true">localhost:4000/outsell-your-neighbors-with-these-4-tips.html</guid>
+        <link>http://limbirdteamblog.com/outsell-your-neighbors-with-these-4-tips.html</link>
+        <guid isPermaLink="true">http://limbirdteamblog.com/outsell-your-neighbors-with-these-4-tips.html</guid>
         
         <category>Seller Tips</category>
         
@@ -155,7 +186,7 @@
 
 &lt;p&gt;Home surveillance technology is also very important. Cameras can be mounted discreetly on the walls and ceilings. Buyers will appreciate that they can check in on their home even if they are at work or on vacation. Not only that, you will feel more secure knowing that you can see what is going on in your home.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=About 94% of buyers would sacrifice 1,000 sq ft of living space for new technology.%20localhost:4000/use-technology-to-draw-buyers-to-your.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“About 94% of buyers would sacrifice 1,000 sq ft of living space for new technology.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=About 94% of buyers would sacrifice 1,000 sq ft of living space for new technology.%20http://limbirdteamblog.com/use-technology-to-draw-buyers-to-your.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“About 94% of buyers would sacrifice 1,000 sq ft of living space for new technology.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;You should also pay attention to technological developments in the kitchen. There are touchless water faucets that come on with just a hand motion, and there are also smart refrigerators. Smart refrigerators will alert you when you’re running low on groceries so that you know when it’s time to head to the store. You can also get a Bluetooth thermostat so that your meals will be perfectly cooked all the time.&lt;/p&gt;
 
@@ -164,8 +195,8 @@
 &lt;p&gt;If you have any questions about the latest trends in home technology or want to know more ways to prepare your home for the market, give me a call or send me an email. I would be happy to help you!&lt;/p&gt;
 </description>
         <pubDate>Mon, 26 Sep 2016 14:17:00 -0500</pubDate>
-        <link>localhost:4000/use-technology-to-draw-buyers-to-your.html</link>
-        <guid isPermaLink="true">localhost:4000/use-technology-to-draw-buyers-to-your.html</guid>
+        <link>http://limbirdteamblog.com/use-technology-to-draw-buyers-to-your.html</link>
+        <guid isPermaLink="true">http://limbirdteamblog.com/use-technology-to-draw-buyers-to-your.html</guid>
         
         
       </item>
@@ -182,7 +213,7 @@
 
 &lt;p&gt;Our team works with several lenders on a daily basis, and we definitely trust them. It is much easier to get things done when you work with someone local. Local lenders close loans faster, and there aren’t as many headaches during the closing process. Why complicate the biggest purchase you will ever make by working with someone from out of town?&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Make sure you are pre-approved%20localhost:4000/tips-to-win-in-sellers-market.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Make sure you are pre-approved”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Make sure you are pre-approved%20http://limbirdteamblog.com/tips-to-win-in-sellers-market.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Make sure you are pre-approved”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Another tip for buyers in multiple offer situations is to be flexible. Sellers don’t necessarily go for the offer with the best price. Other factors often come into play. Some sellers might not want to move until school is out, so if you can be flexible with your closing date, you will have the advantage over other buyers.&lt;/p&gt;
 
@@ -191,8 +222,8 @@
 &lt;p&gt;If you have any questions, give me a call or send me an email. I would be happy to help you!&lt;/p&gt;
 </description>
         <pubDate>Mon, 16 May 2016 14:29:00 -0500</pubDate>
-        <link>localhost:4000/tips-to-win-in-sellers-market.html</link>
-        <guid isPermaLink="true">localhost:4000/tips-to-win-in-sellers-market.html</guid>
+        <link>http://limbirdteamblog.com/tips-to-win-in-sellers-market.html</link>
+        <guid isPermaLink="true">http://limbirdteamblog.com/tips-to-win-in-sellers-market.html</guid>
         
         <category>Buyer Tips</category>
         
@@ -214,8 +245,8 @@
 &lt;p&gt;If you’re selling your home, you owe it to yourself to come down and meet us. We would love the opportunity to help you buy or sell a home!&lt;/p&gt;
 </description>
         <pubDate>Thu, 28 Apr 2016 16:27:00 -0500</pubDate>
-        <link>localhost:4000/how-can-we-guarantee-that-your-home.html</link>
-        <guid isPermaLink="true">localhost:4000/how-can-we-guarantee-that-your-home.html</guid>
+        <link>http://limbirdteamblog.com/how-can-we-guarantee-that-your-home.html</link>
+        <guid isPermaLink="true">http://limbirdteamblog.com/how-can-we-guarantee-that-your-home.html</guid>
         
         <category>Northwest Arkansas Real Estate</category>
         
@@ -243,42 +274,10 @@
 &lt;p&gt;These are just a few of the questions you should be asking when researching homes. If you have any questions for us, or want to learn some more of the questions you should be asking when looking for a home, give us a call or send us an email. We would love to help!&lt;/p&gt;
 </description>
         <pubDate>Wed, 06 Jan 2016 10:53:00 -0600</pubDate>
-        <link>localhost:4000/arkansas-real-estate-agent-questions.html</link>
-        <guid isPermaLink="true">localhost:4000/arkansas-real-estate-agent-questions.html</guid>
+        <link>http://limbirdteamblog.com/arkansas-real-estate-agent-questions.html</link>
+        <guid isPermaLink="true">http://limbirdteamblog.com/arkansas-real-estate-agent-questions.html</guid>
         
         <category>Buyer Tips</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Is It Possible to Live in Your Northwest Arkansas Home While Selling It? </title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/raiA6t-oo3s?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Living in a For Sale home is often a very stressful experience, but it doesn’t have to be. I have a few tips to help make the selling process go as smoothly as possible in this situation:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Start packing now. The nice thing about starting the packing process soon than later is it gets rid of the clutter. One thing to remember is that clutter eats equity, so this is a crucial thing to do when selling.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Clean up your home. Make sure everything from your baseboards to your ceiling fans are clean. If clutter eats equity, clean means green, which means more money in your pocket when you sell.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Store valuables in a safe place. We’ve never had anything go missing from one of our listings, but it does happen! Make sure your valuables are in a safe place, away from anywhere a buyer might be looking.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Get your kids involved. Getting your kids involved in the selling process will take a lot of the stress off. Have the kids help you get the home ready for showtime!&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;If you’re living in your home while it’s on the market, these things should make a huge difference! If you need real estate assistance, or if you have any questions for us, please don’t hesitate to reach out to us. We would love to hear from you!&lt;/p&gt;
-</description>
-        <pubDate>Tue, 15 Dec 2015 12:48:00 -0600</pubDate>
-        <link>localhost:4000/how-to-survive-in-for-sale-home.html</link>
-        <guid isPermaLink="true">localhost:4000/how-to-survive-in-for-sale-home.html</guid>
-        
-        <category>Seller Tips</category>
         
         
       </item>

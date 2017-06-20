@@ -68,5 +68,11 @@
 		outline: 0
 		border: 0
 
-.welcome-hidden-margin
-	margin-bottom: 20px
+// .welcome-hidden-margin
+// 	margin-bottom: 20px
+//
+#welcome::before
+	display: table
+	@-moz-document url-prefix()
+		&:
+			display: inline-block

@@ -2,12 +2,12 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title></title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://limbirdteamblog.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://limbirdteamblog.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Limbird Real Estate Group - your professional Northwest Arkansas Real Estate Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Tara Limbird</managingEditor>
-    <lastBuildDate>2017-04-21 13:03:48 -0500</lastBuildDate>
+    <lastBuildDate>2017-06-20 10:41:40 -0500</lastBuildDate>
     <media:copyright>Tara Limbird</media:copyright>
     <media:thumbnail url="/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northwest Arkansas Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -25,8 +25,47 @@
       <itunes:category text="Education"/>
     
       <item>
+        <title>Northwest Arkansas Market Update</title>
+        <link>http://limbirdteamblog.com/northwest-arkansas-market-update.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Tara Limbird</author>
+        <pubDate>2017-06-14 07:57:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+There’s a lot going on in the Northwest Arkansas market this year.
+
+The market is booming and there are a lot of great things happening. According to the Northwest Arkansas Council, there are 31 people moving in every day and research from the University of Arkansas shows that the average age of residents here is 33.
+
+As for market activity, I wanted to look at things in terms of Benton County and Washington County.
+
+There are currently about 1,500 homes for sale in Benton County and roughly a quarter are new builds. In Washington County, there are 738 homes for sale with 149 being new builds. Through the first five months of the year in Benton County, 2,375 homes have sold compared to 2,279 during the same period last year. In Washington County, 1,406 homes sold in the first five months of 2017. That number last year was 1,341.
+
+“Prices are definitely up.”
+
+Interestingly, prices are definitely up. In Benton County, price per square foot rose about $8. The number of days it takes to sell a home on average has held steady in Benton County, but in Washington County, homes are selling in an average of about 30 days faster than last year. Prices in Washington County are also up by about $7 per square foot.
+
+New construction home sales are up by about 80 this year in Benton County and up by about 60 in Washington County. Prices are also up about $8 a square foot for such homes. If you thought about buying a home last year but waited until this year, it will cost you about $20,000 more on average.
+
+Interest rates are still low for homes, making it still a great time to buy. March marked the 31st consecutive quarter of incline in the economy, tying for third-longest in the history of the U.S. economy.
+
+If you’re interested in buying a home or you have any other questions, don’t hesitate to give us a call or send us an email. We’re here to help.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://limbirdteamblog.com" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Things have been crazy in the Northwest Arkansas real estate market. Both sales and prices are up and homes are selling faster than even last year when the market was hot. Today, I want to stop by with a full market update broken down by Benton and Washington County. With what’s going on in the market, now might be the time to make a move if you’ve been considering it. For more details, watch my latest video.</itunes:subtitle>
+        <itunes:author>Tara Limbird</itunes:author>
+        <itunes:summary>Things have been crazy in the Northwest Arkansas real estate market. Both sales and prices are up and homes are selling faster than even last year when the market was hot. Today, I want to stop by with a full market update broken down by Benton and Washington County. With what’s going on in the market, now might be the time to make a move if you’ve been considering it. For more details, watch my latest video.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northwest Arkansas Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>The Limbird Real Estate Group Is Investing in the Future</title>
-        <link>localhost:4000/the-limbird-real-estate-group-is.html</link>
+        <link>http://limbirdteamblog.com/the-limbird-real-estate-group-is.html</link>
         
           <category>Best Northwest Arkansas Real Estate Team</category>
         
@@ -48,7 +87,7 @@ When you combine the fact that the majority of homebuyers start their search onl
 If you have any questions for us, don’t hesitate to give us a call or send us an email. We would love to hear from you.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://limbirdteamblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -67,7 +106,7 @@ At the Limbird Real Estate Group, we are proud to always be on the cutting edge 
       
       <item>
         <title>Why Now Is a Good Time to Sell in Our Market</title>
-        <link>localhost:4000/why-now-is-good-time-to-sell-in-our.html</link>
+        <link>http://limbirdteamblog.com/why-now-is-good-time-to-sell-in-our.html</link>
         
           <category>Seller Tips</category>
         
@@ -89,7 +128,7 @@ There aren’t a whole lot of homes for them to look at right now. The chances o
 If you have any questions for us or want to sell your home, give us a call or send us an email. We would love to help you out and give you the straight answer. We look forward to hearing from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://limbirdteamblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -108,7 +147,7 @@ This time of year, we get a lot of people telling us they are going to wait to s
       
       <item>
         <title>Come to Our 3rd Annual Valentine's Day Celebration!</title>
-        <link>localhost:4000/come-to-our-3rd-annual-valentines-day_25.html</link>
+        <link>http://limbirdteamblog.com/come-to-our-3rd-annual-valentines-day_25.html</link>
         
           <category>Valentine's day</category>
         
@@ -132,7 +171,7 @@ This year, we will have two locations to make it even more convenient for you to
 We look forward to seeing you there!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://limbirdteamblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -151,7 +190,7 @@ It’s that time of year—the time for our Valentine Love Fest for our clients 
       
       <item>
         <title>Not One, but Two Fun Video Updates</title>
-        <link>localhost:4000/not-1-but-2-fun-video-updates.html</link>
+        <link>http://limbirdteamblog.com/not-1-but-2-fun-video-updates.html</link>
         
           <category>Northwest Arkansas Real Estate</category>
         
@@ -173,7 +212,7 @@ We also gave away a trip to one lucky client, and you can see their video here.
 We had a lot of fun in the last few weeks and we’re really looking forward to a great 2017. If there’s anything you have questions about in real estate or you’re thinking about buying or selling a home, don’t hesitate to give us a call or send us an email. We’d love to help you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://limbirdteamblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -192,7 +231,7 @@ Today I have not one, but two fun videos that I wanted to share.
       
       <item>
         <title>Outsell Your Neighbors With These 4 Tips</title>
-        <link>localhost:4000/outsell-your-neighbors-with-these-4-tips.html</link>
+        <link>http://limbirdteamblog.com/outsell-your-neighbors-with-these-4-tips.html</link>
         
           <category>Seller Tips</category>
         
@@ -223,7 +262,7 @@ If you’re selling your home, there are four things that you can do to sell you
 Follow these four tips, and you’ll sell your home faster than anybody else on your block. If you have any other questions about buying or selling a home in the Northwest Arkansas market, give me a call or send me an email. I’d be happy to help you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://limbirdteamblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -242,7 +281,7 @@ If you’re selling your home, there are four things that you can do to sell you
       
       <item>
         <title>Use Technology to Draw Buyers to Your Home </title>
-        <link>localhost:4000/use-technology-to-draw-buyers-to-your.html</link>
+        <link>http://limbirdteamblog.com/use-technology-to-draw-buyers-to-your.html</link>
         
         <author>Tara Limbird</author>
         <pubDate>2016-09-26 14:17:00 -0500</pubDate>
@@ -264,7 +303,7 @@ Finally, luxury entertainment is always a big draw for home buyers. Flat screen 
 If you have any questions about the latest trends in home technology or want to know more ways to prepare your home for the market, give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://limbirdteamblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -283,7 +322,7 @@ How can technology attract high-end buyers to your home? HGTV actually said that
       
       <item>
         <title>Tips to Win in a Seller's Market</title>
-        <link>localhost:4000/tips-to-win-in-sellers-market.html</link>
+        <link>http://limbirdteamblog.com/tips-to-win-in-sellers-market.html</link>
         
           <category>Buyer Tips</category>
         
@@ -309,7 +348,7 @@ The main thing you can do to win in a multiple offer situation is work with a pr
 If you have any questions, give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://limbirdteamblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -328,7 +367,7 @@ As you may have heard, the real estate market is incredibly busy. A lot of our b
       
       <item>
         <title>How Can We Guarantee that Your Home Sells?</title>
-        <link>localhost:4000/how-can-we-guarantee-that-your-home.html</link>
+        <link>http://limbirdteamblog.com/how-can-we-guarantee-that-your-home.html</link>
         
           <category>Northwest Arkansas Real Estate</category>
         
@@ -348,7 +387,7 @@ Keep in mind that the Guaranteed Sale Program is only available in Benton and Wa
 If you’re selling your home, you owe it to yourself to come down and meet us. We would love the opportunity to help you buy or sell a home!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://limbirdteamblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -367,7 +406,7 @@ I know that people always wonder about our guaranteed sale program and how it wo
       
       <item>
         <title>Important Questions to Ask Before Buying a Home</title>
-        <link>localhost:4000/arkansas-real-estate-agent-questions.html</link>
+        <link>http://limbirdteamblog.com/arkansas-real-estate-agent-questions.html</link>
         
           <category>Buyer Tips</category>
         
@@ -393,7 +432,7 @@ There are a ton of different, little things you need to check up on when researc
 These are just a few of the questions you should be asking when researching homes. If you have any questions for us, or want to learn some more of the questions you should be asking when looking for a home, give us a call or send us an email. We would love to help!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://limbirdteamblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -412,7 +451,7 @@ Choosing to buy a home is an important decision, and one you shouldn’t make wi
       
       <item>
         <title>Is It Possible to Live in Your Northwest Arkansas Home While Selling It? </title>
-        <link>localhost:4000/how-to-survive-in-for-sale-home.html</link>
+        <link>http://limbirdteamblog.com/how-to-survive-in-for-sale-home.html</link>
         
           <category>Seller Tips</category>
         
@@ -441,7 +480,7 @@ Living in a For Sale home is often a very stressful experience, but it doesn’t
 If you’re living in your home while it’s on the market, these things should make a huge difference! If you need real estate assistance, or if you have any questions for us, please don’t hesitate to reach out to us. We would love to hear from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://limbirdteamblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>

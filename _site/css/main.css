@@ -1368,9 +1368,11 @@ html[xmlns] .flexslider .slides {
     outline: 0;
     border: 0; }
 
-.welcome-hidden-margin {
-  margin-bottom: 20px; }
-
+#welcome::before {
+  display: table; }
+@-moz-document url-prefix() {
+  #welcome::before {
+    display: inline-block; } }
 .jp-audio {
   border: 0;
   color: #248BA9;
@@ -2793,8 +2795,9 @@ form select {
     border: 1px solid white;
     color: #248BA9;
     font-size: 2rem;
-    padding: 2.4rem;
+    padding: 1.3rem;
     width: 70%;
+    height: auto;
     display: inline-block;
     margin-right: 1rem;
     -webkit-transition: 0.3s;
@@ -2938,4 +2941,7 @@ form select {
 
 .navbar-andross .navbar-brand {
   color: #fff;
+  margin-top: 10px; }
+
+.side-video {
   margin-top: 10px; }
