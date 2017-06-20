@@ -22,7 +22,15 @@
     		{% endfor %}
 			{% endif %}
 			{% if site.data.settings.CTAs.first_CTA_URL != '#contact' and site.data.settings.CTAs.second_CTA_URL != '#contact' %}
-		<li><a href="#contact" id="contact">Contact</a></li>
+			<li class="dropdown" id="nav-drop">
+				<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Videos <span class="caret"></span></a>
+				<ul class="dropdown-menu">
+					<li><a href="/venuereviews.html">Venue Reviews</a></li>
+					<li><a href="/realestate.html">Real Estate Educational</a></li>
+					<li><a href="/outdoor.html">Outdoor Entertainment</a></li>
+				</ul>
+			</li>
+			<li><a href="#contact" id="contact">Contact</a></li>
 		{% endif %}
 
 		</ul>

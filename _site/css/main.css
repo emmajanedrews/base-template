@@ -1442,6 +1442,10 @@ html[xmlns] .flexslider .slides {
 @media(max-width: 347px) {
   .navbar-header a.navbar-brand {
     color: #09A5E4; } }
+.navbar-nav > li > .dropdown-menu {
+  position: relative;
+  background: transparent; }
+
 .navbar-andross-bottom {
   background: #09A5E4;
   color: #fff;
