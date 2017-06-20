@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Thinking About Investing in Real Estate?
-date: 2017-06-09 10:44:52
+date: 2017-06-09 10:44:00
 tags:
   - Real Estate
 excerpt: 'A few of my clients have been speaking with me recently about the fact that the stock market is at an all-time high and they are worried that a market correction is imminent. No matter when or if this correction comes, it’s smart to have a balanced portfolio.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Diversify+your+portfolio.mp4'
 pullquote: I’d be happy to sit down with you.
 enclosure_type: video/mp4
 enclosure_time:
