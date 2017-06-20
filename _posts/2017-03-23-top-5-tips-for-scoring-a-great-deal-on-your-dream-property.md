@@ -3,7 +3,7 @@ layout: post
 title: Top 5 Tips for Scoring a Great Deal on Your Dream Property
 tags:
   - Buyer Tips
-  - Real Estate Educational
+  - Real Estate 
 excerpt: 'Today I want to give you some creative buyer tips to get a great deal on the perfect property.  1. Be very specific about what you want. The more you share with us, the easier it will be to find that dream property.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Nathan+Abbott/Nathan+Abbott+Team-+5+tips+to+get+a+great+deal+on+your+dream+home.mp4'
 pullquote: 'The more you share with us, the easier it will be to find that dream property.'
