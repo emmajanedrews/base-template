@@ -2,125 +2,31 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title></title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
-    <description>Improve your real estate career by getting all the information and the latest updates, tips, and tricks from Hooke, Hooke & Eckman Realtors, LLC - your professional Pennsylvania Real Estate Agents.</description>
+    <link>http://growmygoals.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://growmygoals.com"/>
+    <description>Improve your real estate career by getting all the information and the latest updates, tips, and tricks from Hooke, Hooke & Eckman Realtors, LLC - your professional Real Estate Agents.</description>
     <language>en</language>
-    <managingEditor>Matt Madden</managingEditor>
-    <lastBuildDate>2017-02-21 15:51:42 -0600</lastBuildDate>
-    <media:copyright>Matt Madden</media:copyright>
-    <media:thumbnail url="localhost:4000"/>
+    <managingEditor>Andrew Kronenberg</managingEditor>
+    <lastBuildDate>2017-06-21 13:49:14 -0500</lastBuildDate>
+    <media:copyright>Andrew Kronenberg</media:copyright>
+    <media:thumbnail url="http://growmygoals.com"/>
     <media:keywords>Real Estate training, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, Pennsylvania, estate agent, realestate</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
-      <itunes:email>matt@thinkhhe.com</itunes:email>
-      <itunes:name>Matt Madden</itunes:name>
+      <itunes:email>andrew@thinkhhe.com</itunes:email>
+      <itunes:name>Andrew Kronenberg</itunes:name>
     </itunes:owner>
-    <itunes:author>Matt Madden</itunes:author>
+    <itunes:author>Andrew Kronenberg</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000"/>
+    <itunes:image href="http://growmygoals.com"/>
     <itunes:keywords>Real Estate training, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, Pennsylvania, estate agent, realestate</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for real estate professionals  in the Pennsylvania Area</itunes:subtitle>
-    <itunes:summary>Improve your real estate career by getting all the information and the latest updates, tips, and tricks from Hooke, Hooke & Eckman Realtors, LLC - your professional Pennsylvania Real Estate Agents.</itunes:summary>
+    <itunes:summary>Improve your real estate career by getting all the information and the latest updates, tips, and tricks from Hooke, Hooke & Eckman Realtors, LLC - your professional Real Estate Agents.</itunes:summary>
       <itunes:category text="News &amp; Politics"/>
     
-      <item>
-        <title>this is a test post</title>
-        <link>localhost:4000/this-is-a-test.html</link>
-        
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
-        
-          <category>Buyer Tips</category>
-        
-          <category>Home Seller Tips</category>
-        
-        <author>Matt Madden</author>
-        <pubDate>2016-10-04 00:00:00 -0500</pubDate>
-        <guid></guid>
-        <description>
-
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
-
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
-</description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
-        <itunes:author>Matt Madden</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate training, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, Pennsylvania, estate agent, realestate</itunes:keywords>
-      </item>
-      
-      <item>
-        <title>this is a test</title>
-        <link>localhost:4000/a-fox-in-space.html</link>
-        
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
-        
-          <category>Buyer Tips</category>
-        
-          <category>Home Seller Tips</category>
-        
-        <author>Matt Madden</author>
-        <pubDate>2016-09-28 00:00:00 -0500</pubDate>
-        <guid></guid>
-        <description>
-
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
-
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
-
-
-  list item
-  list item
-  list item
-  list item
-  list item
-
-
-
-  list item
-  list item
-  list item
-  list item
-  list item
-
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
-</description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
-        <itunes:author>Matt Madden</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate training, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, Pennsylvania, estate agent, realestate</itunes:keywords>
-      </item>
-      
-    <copyright>Matt Madden</copyright>
-    <media:credit role="author">Matt Madden</media:credit>
+    <copyright>Andrew Kronenberg</copyright>
+    <media:credit role="author">Andrew Kronenberg</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">Improve your real estate career by getting all the information and the latest updates, tips, and tricks from Hooke, Hooke & Eckman Realtors, LLC - your professional Pennsylvania Real Estate Agents.</media:description>
+    <media:description type="plain">Improve your real estate career by getting all the information and the latest updates, tips, and tricks from Hooke, Hooke & Eckman Realtors, LLC - your professional Real Estate Agents.</media:description>
   </channel>
 </rss>
