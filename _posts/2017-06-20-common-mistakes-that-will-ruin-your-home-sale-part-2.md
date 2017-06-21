@@ -19,12 +19,11 @@ youtube_code: 'https://youtu.be/UuKgzfKme8g'
 
 We’re back with part two of our conversation about the common mistakes home sellers make and how you can avoid them. To catch up, [you can watch part one here.](http://donwilliamsgroupblog.com/common-mistakes-that-will-ruin-your-home-sale.html)
 <br>
-<br>As you might recall us mentioning previously, when picking your agent, it’s important to make sure they answer the phone when you call. It’s also important that they know your market and have done business in it. Verifying this information can be done easily by reading their testimonials on Trulia and Zillow. That will tell you whether they’re a good agent.
+<br>As you might recall us mentioning previously, when picking your agent it’s important to make sure they answer the phone when you call. It’s also important that they know your market and have done business in it. Verifying this information can be done easily by reading their testimonials on Trulia and Zillow. That will tell you whether they’re a good agent.
 <br>
 <br>**When putting your home on the market, make sure it stays showroom-ready,** meaning you can show the house at any time. In order to sell your house, you must make it available for buyers to see it. If they can’t see it, they’ll move on and purchase something else. 80% of all Realtors won’t reschedule an appointment that’s been canceled. We don’t want to make it convenient for you—we want to make it convenient for the purchaser to come and look at your house.
 <br>
 <br>Another point I want to reiterate from our previous video is not to be emotional with your house during its sale. Divorce yourself from the house as soon as you put it on the market. It’s no longer your property, so if a buyer comes in and says they’re going to repaint it, don’t get upset.
-<br>
 
 {% include pullquote.html %}
 
