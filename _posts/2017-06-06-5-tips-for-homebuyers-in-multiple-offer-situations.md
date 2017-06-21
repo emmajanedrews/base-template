@@ -5,7 +5,7 @@ date: 2017-06-06 12:51:00
 tags:
   - Home Buyer Tips
 excerpt: 'As a homebuyer, is it even worth it to make an offer in such a competitive market? I say that it is, and I have a few tips to help you win your home.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Philipp+Fries/videos/Tampa+Bay+Area+Real+Estate+Agent-+5+Tips+for+Homebuyers+in+a+Competitive+Market.mp4'
 pullquote: Write your best offer.
 enclosure_type: video/mp4
 enclosure_time:
@@ -25,7 +25,7 @@ It is almost always a good idea to write an offer anyway. Here are a few tips to
 
 **3. Give the seller some time to move.** It’s already difficult to juggle multiple closings if you are buying and selling a home at the same time. If the seller is doing the same, it’s even more difficult. Offering the seller two or three days to move out after closing (without asking for any compensation in return) would be a good idea.
 <br>{% include pullquote.html %}
-<br>**4. Shorten or waive contingencies.&nbsp;**Per the contract, you have 15 days to do a home inspection. You should always do a home inspection, but you can shorten the time frame. If your loan meets the pre-approval contingency, ask your agent about comparable sales, as you may be able to remove the appraisal contingency.
+<br>**4. Shorten or waive contingencies.**Per the contract, you have 15 days to do a home inspection. You should always do a home inspection, but you can shorten the time frame. If your loan meets the pre-approval contingency, ask your agent about comparable sales, as you may be able to remove the appraisal contingency.
 
 **5. Write your best offer.** Don’t hope for negotiations; offer your highest price. You may even want to go over asking price. Ask your agent for a comparable market analysis to see what the market value of the property is. Sometimes, sellers price their home slightly below market value in order to drive multiple offers. In other words, paying over asking price does not necessarily mean paying more than market value. Your agent will be able to guide you on that decision.
 
