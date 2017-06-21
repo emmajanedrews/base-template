@@ -5,7 +5,7 @@ date: 2017-06-20 13:27:00
 tags:
   - Home Seller Tips
 excerpt: 'If you’re relying exclusively on Zillow to give your home an accurate valuation, you might be making a big mistake. Here’s why.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Steve+Schwab/Portland+Real+Estate+Agent-+The+pitfalls+of+using+Zillow.mp4'
 pullquote: You don’t want to rely exclusively on a Zestimate.
 enclosure_type: video/mp4
 enclosure_time:
