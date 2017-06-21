@@ -17,9 +17,9 @@ client:
   brokerage:
   address: '977 Walnut Bottom Road<br>Carlisle, PA 17015'
   phone: 717-249-1844
-  phone_type: cell
+  phone_type: office
   phone2: 717-609-8265
-  phone2_type: office
+  phone2_type: direct
   email: andrew@thinkhhe.com
   url: 'http://www.thinkhhe.com'
 CTAs:
