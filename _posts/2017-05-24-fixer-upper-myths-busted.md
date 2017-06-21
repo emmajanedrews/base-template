@@ -19,9 +19,9 @@ youtube_code: 8kBlT_OTHzw
 
 Fixer upper homes can represent a great opportunity for you to buy a home for less money than a traditional sale, but it’s important that you run the numbers and thoroughly research the facts before you buy one.
 
-{% include pullquote.html %}
-
 **Doing some research before deciding if your next Calgary property will be a fixer upper or not can save you a whole lot in the long term.** Many buyers romanticize the process, only to be shocked and even financially crippled when confronted with cold reality.
+
+{% include pullquote.html %}
 
 If you’re wondering whether a fixer upper fits your personal or financial needs, you’ll be happy to know that we have a free report from industry experts titled “Fixer Uppers: Myths and Facts” that we would be happy to send out to you.
 
