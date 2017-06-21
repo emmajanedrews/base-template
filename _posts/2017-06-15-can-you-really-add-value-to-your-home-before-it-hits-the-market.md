@@ -24,6 +24,6 @@ Over the years, my response has always been to do small things that add nice tou
 
 {% include pullquote.html %}
 
-You can see a more complete list of the research results about smart home [upgrades here.](http://www.remodeling.hw.net/cost-vs-value/2015/)
+You can see a more complete list of the research results about smart home **[upgrades here.](http://www.remodeling.hw.net/cost-vs-value/2015/)**
 
 If you have any questions about updating your home for the market or you're thinking about making a move, don't hesitate to give me a call or send me an email. I'd be happy to help!
