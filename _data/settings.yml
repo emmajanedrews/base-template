@@ -17,7 +17,7 @@ client:
   brokerage:
   address: '977 Walnut Bottom Road<br>Carlisle, PA 17015'
   phone: 717-249-1844
-  phone_type: 
+  phone_type: cell
   phone2: 717-609-8265
   phone2_type: office
   email: andrew@thinkhhe.com
@@ -49,7 +49,7 @@ welcome_box:
     your real estate career.
 socials:
   review_sm_icons: false
-  facebook_url:
+  facebook_url: 'https://www.facebook.com/AndrewKronenbergRealtor/'
   linkedin_url: 'https://www.linkedin.com/in/andrew-kronenberg-18152a15/'
   gplus_url:
   youtube_url:
