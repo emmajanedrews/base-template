@@ -4,7 +4,7 @@ title: Can You Really Add Value to Your Home Before It Hits the Market?
 tags:
   - Real Estate
 excerpt: "Many home sellers want to make updates to their home before it hits the market to try to add some value. If you're considering this route, be careful where you spend your money."
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Scott+Hollinger/Montana+Real+Estate++The+Hollinger+Team+Are+Those+Home+Upgrades+Really+Worth+It.mp4'
 pullquote: Some of the best things to consider are those that make the home more saleable rather than trying to create value.
 enclosure_type:
 enclosure_time:
