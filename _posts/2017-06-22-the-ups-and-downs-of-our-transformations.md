@@ -19,10 +19,8 @@ youtube_code: rCC57lVgxeY
 
 Since the end of February, Dr. Ho and Dr. Q embarked on a new journey of health and wellness. &nbsp;Both were out of shape, overweight, energy deficient and knew they needed to make changes. &nbsp;They were healthy and fit in the past, but they slacked off due to the hustle and bustle of life. &nbsp;This time, however, **they would try out new health hacks to get quicker and better results**. &nbsp;Each week they have recorded those health hacks to share with the community. &nbsp;Here is what they looked like before:
 
-![](/uploads/versions/dr--ho---x----396-504x---.jpg)![](/uploads/versions/dr--q---x----396-504x---.jpg)
+![](/uploads/versions/dr--ho---x----396-504x---.jpg)![](/uploads/versions/dr--q---x----396-504x---.jpg){% include pullquote.html %}
 
 &nbsp;
-
-{% include pullquote.html %}
 
 After 4 months, they’ve made tremendous progress, but of course, like everyone else, faced certain struggles. &nbsp;From dietary struggles, to getting back into the swing of things after a vacation, the doctors share **their biggest struggles and victories throughout this 4 month process**. &nbsp;Watch this video till the very end so you can see their progress and exactly where they are today. &nbsp;
