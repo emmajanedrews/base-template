@@ -1,11 +1,11 @@
 ---
 layout: post
 title: How Political Scandal Affects Mortgages Rates and Buying Patterns
-date: 2017-06-21 13:05:06
+date: 2017-06-21 13:05:00
 tags:
   - Market Update
 excerpt: What do the political shenanigans of our government have to do with mortgage rates? Today I’m explaining how.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Rick+Sadle/Sadle+Real+Estate+Team-+Political+scandal+and+mortgage+rates.mp4'
 pullquote: 'While rates are this low, it’s a great time to get off the fence and back into the market.'
 enclosure_type: video/mp4
 enclosure_time:
