@@ -23,9 +23,11 @@ If you want to buy a house but have little or no money to put down, you still ha
 <br>&nbsp;
 <br>**You can get financing with as little as zero down** with either a USDA loan or VA loan. You must be a veteran or active military service member. USDA loans are property-specific, meaning the house you buy must be USDA-eligible. There are some income limitations as well.
 
+&nbsp;
+
 {% include pullquote.html %}
 <br>&nbsp;
-<br>Then, you have the conventional home loans with a 3% or 5% down payment, which have some income limitations too. To help with these costs, there are also some down payment assistance programs. Some are county-specific and some are only in regards to your employer and whether they're a participant in down payment assistance programs. The amount of assistance you could receive depends on many factors, but it ranges from** $5,000 up to about $30,000**.
+<br>Then, you have the conventional home loans with a 3% or 5% down payment, which have some income limitations too. To help with these costs, there are also some down payment assistance programs. Some are county-specific and some are only in regards to your employer and whether they're a participant in down payment assistance programs. The amount of assistance you could receive depends on many factors, but it ranges from\*\* $5,000 up to about $30,000\*\*.
 <br>&nbsp;
 <br>Our job is to try to preserve as much of your cash as possible, so we can also negotiate on your behalf to have a home seller pay the majority of all of those closing costs.&nbsp;
 <br>&nbsp;
