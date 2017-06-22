@@ -14,15 +14,15 @@ client:
   market: Baltimore
   brand: The Dailey Group
   brokerage: Keller Williams Gateway
-  address: 8015 Corporate Drive, Suite C Baltimore, MD 21236
-  phone: 443-738-5588
-  phone_type: Seth
-  phone2: 443-629-6279
-  phone2_type: Alyce
-  email: Seth@TheDaileyGroup.com
-  email_type: Seth
-  email2: Alyce@TheDaileyGroup.com
-  email2_type: Alyce
+  address: 8015 Corporate Drive, Suite C<br>Baltimore, MD 21236
+  phone: 800-214-1245
+  phone_type: Office
+  phone2:
+  phone2_type:
+  email: Hello@TheDaileyGroup.com
+  # email_type: Seth
+  # email2: Alyce@TheDaileyGroup.com
+  # email2_type: Alyce
   url: http://TheDaileyGroup.com
 
 CTAs:
@@ -91,7 +91,7 @@ podcast:
   author: '-- CLIENT NAME --'
 
 images:
-  client_headshot_path: /img/headshot.png
+  client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 60
   hero_text: -- MARKET -- Real Estate Video Blog

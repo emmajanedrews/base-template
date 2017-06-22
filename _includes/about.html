@@ -2,7 +2,7 @@
 		<div class="row">
 			<div class="col-lg-10 col-lg-offset-1">
 
-				<h4>About {{site.data.settings.client.name}}</h4>
+				<h4>About {{site.data.settings.client.brand}}</h4>
 			</div>
 		</div>
 	<div class="row">
@@ -18,11 +18,11 @@
 		</div>
 		<div class="col-lg-3">
 			<p class="contact-text">
-				<b>{{ site.data.settings.client.name }}</b><br />
+				<b>{{ site.data.settings.client.brand }}</b><br />
 				{% if site.data.settings.client.license_number != null %}
 				{{ site.data.settings.client.license_number }}</br>
 				{% endif %}
-				{{ site.data.settings.client.brand }}<br />
+				{{ site.data.settings.client.name }}<br />
 				{% if site.data.settings.client.brokerage != null %}
 				{{ site.data.settings.client.brokerage }}<br />
 				{% endif %}
@@ -31,10 +31,11 @@
 				{{ site.data.settings.client.phone_type }}: {{ site.data.settings.client.phone }}<br />
 				{{ site.data.settings.client.phone2_type }}: {{ site.data.settings.client.phone2 }}<br />
 				{% else %}
-				{{ site.data.settings.client.phone }}<br />
+				{{ site.data.settings.client.phone_type }}: {{ site.data.settings.client.phone }}<br />
 				{% endif %}
-				{{ site.data.settings.client.email_type }}: <a href="mailto:{{ site.data.settings.client.email }}" target="_blank">{{ site.data.settings.client.email }}</a><br />
-				{{ site.data.settings.client.email2_type }}: <a href="mailto:{{ site.data.settings.client.email2 }}" target="_blank">{{ site.data.settings.client.email2 }}</a><br />
+				<!-- {{ site.data.settings.client.email_type }}:-->
+				<a href="mailto:{{ site.data.settings.client.email }}" target="_blank">{{ site.data.settings.client.email }}</a><br />
+				<!-- {{ site.data.settings.client.email2_type }}: <a href="mailto:{{ site.data.settings.client.email2 }}" target="_blank">{{ site.data.settings.client.email2 }}</a><br /> -->
 				<a href="{{ site.data.settings.client.url }}" target="_blank">{{ site.data.settings.client.url | remove: 'http://' | remove: 'https://' }}</a><br />
 			</p>
 		</div>

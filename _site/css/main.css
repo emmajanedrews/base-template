@@ -1609,7 +1609,8 @@ label.tree-toggle {
   text-transform: uppercase;
   font-size: 6.5rem;
   padding-bottom: 4rem;
-  margin-bottom: 0; }
+  margin-bottom: 0;
+  font-weight: 400; }
 
 @media (max-width: 1100px) {
   .site-title {
@@ -2430,7 +2431,6 @@ table tr, table td {
   border-radius: 50%;
   width: 200px;
   height: 200px;
-  border: 3px solid #b40101;
   overflow: hidden;
   display: inline-block;
   margin: auto; }
