@@ -19,7 +19,7 @@ youtube_code: Ydv1bRwUVQ8
 
 If you want to buy a home here in San Diego, getting your offer accepted can be a challenge.
 <br>
-<br>To ensure you win the home you want, the first thing you should do is **hire an aggressive agent** with a history of closing at least 15 transactions per year. I've noticed that agent who don't close at least 15 transactions a year haven't really developed the negotiation skills you need to help you get your offer accepted, so do your homework and find an agent with aggressive negotiation skills.
+<br>To ensure you win the home you want, the first thing you should do is **hire an aggressive agent** with a history of closing at least 15 transactions per year. I've noticed that agents who don't close at least 15 transactions a year haven't really developed the negotiation skills you need to help you get your offer accepted, so do your homework and find an agent with aggressive negotiation skills.
 
 {% include pullquote.html %}
 <br>
