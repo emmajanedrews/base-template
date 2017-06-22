@@ -21,6 +21,8 @@ Since the end of February, Dr. Ho and Dr. Q embarked on a new journey of health 
 
 ![](/uploads/versions/dr--ho---x----396-504x---.jpg)![](/uploads/versions/dr--q---x----396-504x---.jpg)
 
+&nbsp;
+
 {% include pullquote.html %}
 
 &nbsp;
