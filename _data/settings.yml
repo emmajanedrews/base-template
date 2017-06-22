@@ -31,7 +31,7 @@ client:
     Guardian’s clients.
   market:
   brand: The Betz Team
-  brokerage: Guardian Mortgage
+  brokerage: Guardian Mortgage,<br>a Division of Sunflower Bank, N.A.
   address: '5910 North Central Expressway <br> Ste 725, Dallas, TX 75206'
   phone: 214-361-5626
   phone_type: Direct
