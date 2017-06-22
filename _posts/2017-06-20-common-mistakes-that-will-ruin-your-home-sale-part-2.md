@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 'Common Mistakes That Will Ruin Your Home Sale: Part 2'
-date: 2017-06-20 15:59:20
+date: 2017-06-20 15:59:00
 tags:
   - Home Seller Tips
 excerpt: Here are some more common home selling mistakes and how you can avoid them.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Don+Williams/Don+Williams+Group-+Communication+is+key.mp4'
 pullquote: '80% of all Realtors won’t reschedule an appointment that’s been canceled.'
 enclosure_type: video/mp4
 enclosure_time:
