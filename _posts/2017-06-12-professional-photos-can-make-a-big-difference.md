@@ -19,7 +19,7 @@ youtube_code: qmF5IOAYTQA
 
 I recently received an email from a good friend of ours with the subject line, “worst home photos ever.” Boy, they weren’t kidding. The photos were from a home in Ashburn that was for sale. I couldn’t resist clicking on the link. These photos were so bad they would have made an amateur blush.
 <br>
-<br>I’m talking dirty dishes in the sink and on the counter, laundry on the floor, and unmade beds. In one photo it looked like there was a body in the bed! It looked like a set for a horror movie, NOT a home for sale. In my humble opinion, marketing a property like that is malpractice. Clients deserve better.
+<br>I’m talking dirty dishes in the sink and on the counter, laundry on the floor, and unmade beds. In one photo it looked like there was a body in the bed! It looked like a set for a horror movie, NOT a home for sale. In my humble opinion, marketing a property like that is malpractice. Clients deserve better. And oh by the way that home never sold.
 
 **Unfortunately, it’s shocking to see what some Realtors consider to be good marketing.**
 <br>&nbsp;{% include pullquote.html %}
