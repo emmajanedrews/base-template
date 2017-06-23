@@ -22,7 +22,9 @@ I recently received an email from a good friend of ours with the subject line, �
 <br>I’m talking dirty dishes in the sink and on the counter, laundry on the floor, and unmade beds. In one photo it looked like there was a body in the bed! It looked like a set for a horror movie, NOT a home for sale. In my humble opinion, marketing a property like that is malpractice. Clients deserve better.
 
 **Unfortunately, it’s shocking to see what some Realtors consider to be good marketing.**
-<br> {% include pullquote.html %}
-<br>Professional photography sells homes. It’s imperative in this day and age if you want to sell your home for top dollar in the shortest amount of time. **Every day buyers make decisions on which homes they want to see in person based on what they see online.** Impressive, high quality professional photography is critical for getting them off the couch and into their car to come see your home in person.
+<br>&nbsp;{% include pullquote.html %}
+<br>Professional photography sells homes. It’s imperative in this day and age if you want to sell your home for top dollar in the shortest amount of time. **Every day buyers make decisions on which homes they want to see in person based on what they see online.**&nbsp;Impressive, high quality professional photography is critical for getting them off the couch and into their car to come see your home in person.
 <br>
 <br>If you have any questions for me about professional photography or anything else relating to real estate, don’t hesitate to give me a call or send me an email. I would be happy to help.
+
+**[Click HERE](https://www.wickerhomesgroup.com/blog/professional-photos-can-make-a-big-difference/) to check out some examples of great professional photos taken for some of our listings compared to bad photos from other realtors!**
