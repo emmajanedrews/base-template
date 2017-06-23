@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Three Things to Consider When Investing in Real Estate Investing
+title: Three Things to Consider When Investing in Real Estate
 tags:
   - Home Buyer Tips
 date: 2017-06-21 17:43:00
