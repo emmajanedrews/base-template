@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 5 Home Maintenance Tasks for the Summer
-date: 2017-06-22 13:23:13
+date: 2017-06-22 13:23:00
 tags:
   - Home Seller Tips
 excerpt: 'Today, I’ll go over five home maintenance tips you should do this June in order to prepare your home for another summer season.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Patty+Sells+NC/Patty+Sells+NC-+Get+your+home+ready+for+summer+fun.mp4'
 pullquote: Fix uneven areas in your patio to stay safe this summer.
 enclosure_type: video/mp4
 enclosure_time:
