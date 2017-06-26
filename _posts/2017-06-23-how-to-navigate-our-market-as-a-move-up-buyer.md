@@ -3,7 +3,7 @@ layout: post
 title: How to Navigate Our Market as a Move-Up Buyer
 tags:
   - Home Buyer Tips
-excerpt: 'You might notice something a little bit different about me today—for the first time in two years, I shaved my beard. I felt like I needed a fresh start for the summer, and the idea of a fresh start reminded me of a lot of clients I’ve been working with lately, who are move-up buyers.'
+excerpt: "Some of the clients I’ve been working with lately are what you call\_\"move-up buyers.\" Who are move-up buyers? What are they trying to achieve?"
 enclosure:
 pullquote: Having good people in place will help you make good decisions.
 enclosure_type: video/mp4
@@ -16,9 +16,7 @@ youtube_code: DzIlXi2W2nc
 
 {% include youtube.html %}
 
-You might notice something a little bit different about me today—for the first time in two years, I shaved my beard. I felt like I needed a fresh start for the summer, and the idea of a fresh start reminded me of a lot of clients I’ve been working with lately, who are move-up buyers.
-
-Who are move-up buyers? What are they trying to achieve?
+Some of the clients I’ve been working with lately are what you call "move-up buyers." Who are move-up buyers? What are they trying to achieve?
 
 **Move-up buyers are often living in their first home and are hitting a point where they need a little bit more space** or have different family goals. Hence, they’re seeking a fresh start and a new home. When I meet with these buyers, I’ll ask them a few important questions, such as:
 
