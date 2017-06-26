@@ -17,7 +17,7 @@ youtube_code: rCC57lVgxeY
 
 {% include youtube.html %}
 
-Since the end of February, Dr. Ho and Dr. Q embarked on a new journey of health and wellness. &nbsp;Both were out of shape, overweight, energy deficient and knew they needed to make changes. &nbsp;They were healthy and fit in the past, but they slacked off due to the hustle and bustle of life. &nbsp;This time, however, **they would try out new health hacks to get quicker and better results**. &nbsp;Each week they have recorded those health hacks to share with the community. &nbsp;Here is what they looked like before:
+Since the end of February, Dr. Ho and Dr. Q have embarked on a new journey of health and wellness. &nbsp;Both were out of shape, overweight, energy deficient, and knew they needed to make changes. &nbsp;They were healthy and fit in the past, but they slacked off due to the hustle and bustle of life. &nbsp;This time, however, **they would try out new health hacks to get quicker and better results**. &nbsp;Each week they have recorded those health hacks to share with the community. &nbsp;Here is what they looked like before:
 
 &nbsp;
 
