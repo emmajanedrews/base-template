@@ -6,7 +6,7 @@ tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: 'Coming up with a down payment to buy a home is a big roadblock for many people. However, there are plenty of options for buyers in this position.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/videos/San+Diego+Real+Estate-+How+to+Buy+a+San+Diego+Home+With+Little+or+No+Money+Down.mp4'
 pullquote: 'If you have decent credit and a steady income, you might qualify for specialized programs that require no or very little down payment.'
 enclosure_type: video/mp4
 enclosure_time:
