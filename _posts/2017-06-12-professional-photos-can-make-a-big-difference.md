@@ -5,7 +5,7 @@ date: 2017-06-12 00:00:00
 tags:
   - Home Seller Tips
 excerpt: It’s important to have professional photos taken of any home you are selling. You’re starting off at a huge disadvantage without them.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Tad+%26+Debbie+Wicker/Videos/Northern+Virginia+Real+Estate-+Worst+Home+Photos+Ever%2521.mp4'
 pullquote: 'Impressive, professional photography sells.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -22,8 +22,8 @@ I recently received an email from a good friend of ours with the subject line, �
 <br>I’m talking dirty dishes in the sink and on the counter, laundry on the floor, and unmade beds. In one photo it looked like there was a body in the bed! It looked like a set for a horror movie, NOT a home for sale. In my humble opinion, marketing a property like that is malpractice. Clients deserve better. And oh by the way, that home NEVER sold.
 
 **Unfortunately, it’s shocking to see what some Realtors consider to be good marketing.**
-<br>&nbsp;{% include pullquote.html %}
-<br>Professional photography sells homes. It’s imperative in this day and age if you want to sell your home for top dollar in the shortest amount of time. **Every day buyers make decisions on which homes they want to see in person based on what they see online.**&nbsp;Impressive, high quality professional photography is critical for getting them off the couch and into their car to come see your home in person.
+<br> {% include pullquote.html %}
+<br>Professional photography sells homes. It’s imperative in this day and age if you want to sell your home for top dollar in the shortest amount of time. **Every day buyers make decisions on which homes they want to see in person based on what they see online.** Impressive, high quality professional photography is critical for getting them off the couch and into their car to come see your home in person.
 <br>
 <br>If you have any questions for me about professional photography or anything else relating to real estate, don’t hesitate to give me a call or send me an email. I would be happy to help.
 
