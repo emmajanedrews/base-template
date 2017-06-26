@@ -22,7 +22,7 @@ Late in 2015, Congress made major changes in the social security claiming strate
 
 Congress actually eliminated some of the benefits that would have allowed you or your spouse to maximize social security income. The good news is that it's not easier for your employees to calculate their benefits. So what do you and your employees need to know?
 
-First, everyone should go to www.ssa.gov, log in, enter your personal info and create an idea, then generate your social security report. It will tell you what you'll receive for income at age 62, what you'll receive if you wait for full social security age at 66 (or 67 if you were born after 1960), and what you'll receive if you wait until age 70. Age 70 receives the largest benefit, but you must forgo payments until that time.
+First, everyone should go to www.ssa.gov, log in, enter your personal info and create an ID, then generate your social security report. It will tell you what you'll receive for income at age 62, what you'll receive if you wait for full social security age at 66 (or 67 if you were born after 1960), and what you'll receive if you wait until age 70. Age 70 receives the largest benefit, but you must forgo payments until that time.
 
 So when should you take social security? **It depends on many factors, primarily the state of your health, whether you can work, and whether you have other savings/investments to draw on during the early years of retirement.** Another big factor is whether distributions from investment accounts are taxable.
 
@@ -40,6 +40,6 @@ However, every year that you wait between 62 and full retirement age, your benef
 
 So what happens if they take social security away? If you're 55 or older, I'm confident that you can count on social security to be there for you in its present form. If you're 50 or younger, depending on how much money you have at retirement some day, my guess is that the government may means test your benefits. That means your social security benefits are likely to be reduced.
 
-Something like this must happen to fix the system, and this is the most logical solution in my mind. There are simply too few people paying into the system and too many taking out of it. There hasn't been a president or congress yet with enough political clout (or guts) to take on the social security problem.
+Something like this must happen to fix the system, and this is the most logical solution in my mind. There are simply too few people paying into the system and too many taking out of it. There hasn't been a president or Congress yet with enough political clout (or guts) to take on the social security problem.
 
 If you'd like to schedule a meeting with your employees, we can explain these situations and help them analyze their social security benefits and options. Just send me a quick email, I'd love to help you out!
