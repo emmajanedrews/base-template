@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Get Rid of Private Mortgage Premiums for Good
-date: 2017-06-26 13:28:17
+date: 2017-06-26 13:28:00
 tags:
   - Home Buyer Tips
   - Real Estate
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: GY1IHqfB48
+youtube_code: _GY1IHqfB48
 ---
 
 
