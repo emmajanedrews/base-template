@@ -18,12 +18,12 @@ youtube_code: LwXhUrt2nEw
 
 We offer a service in our business called **The 1+ Program** designed for clients interested in investing in real estate and accumulating wealth over time with it. It's straightforward and low-risk compared to other types of investments and it doesn't require tens of thousands of dollars.
 
-The 1+ Program is named very literally; the aim is for you to own one property in addition to your primary residence. Over the last 17 years, we've really seen how significant it can be for homeowners. **Many use the money to pay for college tuition or to retire** faster or better than their current savings and investments would allow.
+The 1+ Program is named very literally; the aim is for you to own one property in addition to your primary residence. Over the last 17 years, we've really seen how significant it can be for homeowners. **Many use the money to pay for college tuition or to retire** faster, or better, than their current savings and investments would allow.
 
 {% include pullquote.html %}
 
-We're very passionate about this topic, so we'd love to tell you more about the steps to take forward with it. It's much easier and simpler than you think.
+We're very passionate about this topic, so we'd love to tell you more about the steps to take going forward with it. It's much easier and simpler than you think.
 
-If you have a smaller amount of additional discretionary income that you’d like to use as an investment, we'd love to hear from you. If you already own a home you live in, you could potentially qualify. Even first-time homebuyers can utilize the 1+ program if you take some basic steps on the front end and you can put yourself in an incredible position within just a year or two or buying your first home.
+If you have a smaller amount of additional discretionary income that you’d like to use as an investment, we'd love to hear from you. If you already own a home you live in, you could potentially qualify. Even first-time homebuyers can utilize The 1+ Program by taking some basic steps on the front end. By doing this, you can put yourself in an incredible position within just a year or two of buying your first home.
 
 If you'd like to learn more, give us call or send me an email. I look forward to working with you!
