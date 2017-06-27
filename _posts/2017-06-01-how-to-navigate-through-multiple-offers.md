@@ -3,8 +3,8 @@ layout: post
 title: How to Navigate Through Multiple Offers
 tags:
   - Home Seller Tips
-excerpt: 'https://s3.amazonaws.com/vyralmarketing/Randy+Plaice/Videos/2017/How+to+Navigate+Through+Multiple+Offers+-+Santa+Clarita+Real+Estate+Agent.mp4'
-enclosure: 'If your home is in a desirable location and reasonably priced, expect multiple offers. Here’s how you can pick out the best one from the crowd.'
+excerpt: 'If your home is in a desirable location and reasonably priced, expect multiple offers. Here’s how you can pick out the best one from the crowd.'
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Randy+Plaice/Videos/2017/How+to+Navigate+Through+Multiple+Offers+-+Santa+Clarita+Real+Estate+Agent.mp4'
 pullquote: This is a good problem to have.
 enclosure_type: video/mp4
 enclosure_time:
