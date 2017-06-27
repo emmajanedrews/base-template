@@ -21,7 +21,7 @@ I have seen a lot of things happen during real estate transactions, and there ar
 
 **1. Don’t quit your job in the middle of escrow.** It’s very important that you stay in your current job for loan approval. Even if you are thinking of changing jobs, you don’t want to do it while in the middle of a transaction.
 
-**2. Don’t make major purchases.** Of course, you’re excited and you want to buy that new TV or washer/dryer for your new home. Just wait. Don’t buy a car or major appliance while you’re in escrow. Those purchases will impact your credit score, and you don’t want to jeopardize your credit mid-transaction.
+**2. Don’t make major purchases.** Of course you’re excited and you want to buy that new TV or washer/dryer for your new home, but you should wait. Just wait. Don’t buy a car or major appliance while you’re in escrow. Those purchases will impact your credit score, and you don’t want to jeopardize your credit mid-transaction.
 
 {% include pullquote.html %}
 
