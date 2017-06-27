@@ -58,10 +58,10 @@ lender:
   url: http://eyegoop.com
 
 welcome_box:
-  welcome_headline: Join Our -- MARKET -- VIP List
+  welcome_headline: Get Educated About Real Estate
   welcome_text_markdown: >
-    Our mission at Royal Pacific Realty is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
+    My mission at Vancouver Realt Estate Videos is to be your best resource for real estate
+    advice. Whether you are a buyer, seller, or investor, my team of
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
@@ -93,7 +93,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: Alex Lam's Real Estate Video Blog
+  hero_text: 
   hero_background_hex: '#094264'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
