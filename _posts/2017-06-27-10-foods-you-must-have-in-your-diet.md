@@ -22,7 +22,6 @@ Welcome back to another edition of “Hacking Your Health.” This time, we’re
 To help you remember these foods, there’s a technique that we learned from Jim Quake, a brain expert. It’s all about associating the different foods with different parts of your body. You’ll have to use your imagination a bit, but the silliness is worth it.&nbsp;
 
 1.**Avocados**. These are a good source of healthy fat and will improve the blood flow to your brain. Pretend you are balancing an avocado on the top of your head.
-
 2.**Blueberries**. Or brainberries, as we like to call them because they are high in antioxidants. Imagine dozens of little blueberries coming out of your nose.
 3.**Broccoli**. High in fiber, rich in Vitamin K, and a good enhancer of cognitive function. Imagine a steaming head of broccoli bursting out of your mouth.
 4.**Coconut oil**. Another healthy source of good fats. Tilt your head to the side and pretend that coconut oil is coming out of your ears.
