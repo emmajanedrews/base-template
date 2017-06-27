@@ -9,7 +9,7 @@ pullquote: 'An inspection will cost about $300, but it can save you thousands.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/no-pb-19.jpg
+youtube_alternate_image: /uploads/no-pb-34.jpg
 youtube_code: U0A3_sACk_M
 ---
 
