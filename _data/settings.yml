@@ -27,7 +27,7 @@ CTAs:
   first_CTA_URL: http://www.viewnwahomes.com/homevalue/northwestarkansas
   second_CTA_text: Home Search
   second_CTA_URL: http://www.viewnwahomes.com/
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=2624a10bfe
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/005.jpg
