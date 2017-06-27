@@ -8,7 +8,7 @@ enclosure: 'https://s3.amazonaws.com/vyralmarketing/Randy+Plaice/Videos/2017/How
 pullquote: This is a good problem to have.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /uploads/Randy_ScreenShot_Email-MultipleOffers2.jpg
 youtube_code: DTxs1khQjv4
 ---
