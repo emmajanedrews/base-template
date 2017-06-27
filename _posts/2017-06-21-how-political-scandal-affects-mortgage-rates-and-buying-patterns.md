@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Political Scandal Affects Mortgages Rates and Buying Patterns
+title: How Political Scandal Affects Mortgage Rates and Buying Patterns
 date: 2017-06-21 13:05:00
 tags:
   - Market Update
