@@ -4,7 +4,7 @@ title: How to Navigate Our Market as a Move-Up Buyer
 tags:
   - Home Buyer Tips
 excerpt: "Some of the clients I’ve been working with lately are what you call\_\"move-up buyers.\" Who are move-up buyers? What are they trying to achieve?"
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Wes+Peters/Baltimore+Metro+Real+Estate-+Moving+up+in+our+Maryland+market.mp4'
 pullquote: Having good people in place will help you make good decisions.
 enclosure_type: video/mp4
 enclosure_time:
