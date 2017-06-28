@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What You Should Know About Edina Real Estate
-date:
+date: 2017-06-28 10:59:21
 tags:
   - Market Update
 excerpt: 'We’re halfway through the summer here in Edina, and we wanted to give you a quick update on how the real estate market is looking and what you can expect from it as the year progresses.'
