@@ -8,7 +8,7 @@ enclosure: 'https://s3.amazonaws.com/vyralmarketing/Greater+Calgary+Group/Greate
 pullquote: 'It’s easy to refer your friends, family members, neighbors, and colleagues.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image:
 youtube_code: ZC9rzsTe7Ek
 ---
