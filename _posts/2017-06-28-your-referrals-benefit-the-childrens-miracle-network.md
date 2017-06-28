@@ -24,4 +24,4 @@ Here at the Greater Calgary Group we are on a mission to raise $25,000 for the c
 
 Who do you know that is looking to buy or sell a home that you can refer to our real estate team? **Not only will they benefit from our exceptional service,** but we will also donate a substantial portion of our income from every home sale to this incredible organization.
 
-It’s easy to refer your friends, family members, neighbors, and colleagues. If you or someone you know is looking to buy or sell a home, call us directly or click this link here [PROVIDE LINK]. We look forward to working with you.
+It’s easy to refer your friends, family members, neighbors, and colleagues. If you or someone you know is looking to buy or sell a home, call us directly or click this [link here](http://www.greaterpropertygroup.com/referrals.php). We look forward to working with you.
