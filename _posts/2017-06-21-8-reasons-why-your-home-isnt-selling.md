@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "8 Reasons Why Your Home Isn't Selling"
-date: 2017-06-21 13:58:18
+date: 2017-06-21 13:58:00
 tags:
   - Home Seller Tips
 excerpt: Are you wondering why your home isn’t selling? I’ve compiled a list of eight reasons below.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Rex+Jarnagin/Elite%2520Home%2520Team-%2520Reasons%2520your%2520home%2520wont%2520sell.mp4'
 pullquote: You only get one chance to make a first impression.
 enclosure_type: video/mp4
 enclosure_time:
