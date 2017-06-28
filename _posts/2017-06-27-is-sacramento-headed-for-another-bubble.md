@@ -19,7 +19,7 @@ youtube_code: ZJnFK5jEFSs
 
 With home prices continuing to rise and new developments popping up, are we approaching another bubble in the Sacramento market like we saw in 2007?
 
-Looking back 10 years ago, mortgage lending standards were very lenient. With so many unqualified buyers coming into the market, the market tanked, and many of them lost their homes. Fast forward 10 years and we see that **lenders have learned from that mistake.** To get a home loan now, you have to verify your job and income, and your credit score and debt have to meet certain standards.
+Looking back 10 years ago, mortgage lending standards were very lenient. With so many unqualified buyers coming into the market, the market tanked and many of them lost their homes. Fast forward 10 years and we see that **lenders have learned from that mistake.** To get a home loan now, you have to verify your job and income, and your credit score and debt have to meet certain standards.
 
 So what about all those new homes and developments? What happens when the supply explodes and nobody is able to buy them?
 
