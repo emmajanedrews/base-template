@@ -15,10 +15,10 @@ client:
   brand: The Dailey Group
   brokerage: Keller Williams Gateway
   address: 8015 Corporate Drive, Suite C<br>Baltimore, MD 21236
-  phone: 800-214-1245
-  phone_type: Office
-  phone2:
-  phone2_type:
+  phone: 443-267-2435
+  phone_type: Direct
+  phone2: 800-214-1245
+  phone2_type: Office
   email: Hello@TheDaileyGroup.com
   # email_type: Seth
   # email2: Alyce@TheDaileyGroup.com
