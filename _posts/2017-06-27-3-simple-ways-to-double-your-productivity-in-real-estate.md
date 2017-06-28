@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 3 Simple Ways to Double Your Productivity in Real Estate
-date: 2017-06-27 14:40:24
+date: 2017-06-27 14:40:00
 tags:
   - Real Estate
 excerpt: 'We can’t control the amount of time we have as real estate agents, but we can control how we spend that time. I’m here to tell you that if you can improve that control, you can double your productivity.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Central%2520PA%2520Real%2520Estate%2520Agent-%2520Focus%2520your%2520time%2520here.mp4'
 pullquote: I have time set aside each day for money-producing activities.
 enclosure_type: video/mp4
 enclosure_time:
