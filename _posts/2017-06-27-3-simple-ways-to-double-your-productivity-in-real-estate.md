@@ -19,11 +19,11 @@ youtube_code: x0GimVpfyV8
 
 We can’t control the amount of time we have as real estate agents, but we can control how we spend that time. I’m here to tell you that if you can improve that control, you can double your productivity.
 
-In order to do this, you need to focus on the actions and tasks that are going to give you the highest return on your investment for your time. **These are activities like following up with leads and prospecting.** They are very important, but we often don’t treat them that way. We tend to procrastinate them.
+To do this, you need to focus on the actions and tasks that give you the highest return on the investment of your time. **These are activities like following up with leads and prospecting.** They are very important, but we often don’t treat them that way. We tend to procrastinate on them.
 
 {% include pullquote.html %}
 
-To manage your time more wisely, I recommend using activity blocking to make sure you have specific times set aside in your calendar each day where you can focus on those money making activities. As you can see in my calendar in the video above, I have time set aside each day for specific tasks and time set aside for not focusing on work. Here are my three steps to doubling your productivity:
+To manage your time more wisely, I recommend using activity blocking to make sure you have specific times set aside in your calendar each day where you can focus on those money-making activities. As you can see in my calendar in the video above, I have time set aside each day for specific tasks and time set aside for focusing on things other than work. Here are my three steps to doubling your productivity:
 
 **1. Block time out in your schedule each day where you are specifically not working.**
 
