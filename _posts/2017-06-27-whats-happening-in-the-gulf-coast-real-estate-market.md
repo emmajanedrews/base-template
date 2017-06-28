@@ -24,7 +24,7 @@ Now as we’re going into July, it’s important to note that there is still a b
 
 However, when it comes to homes priced from $350,000 and up, their time on the market jumps up slightly to about 45 days on average. A step further up to higher price points, though, shows much less consistency as luxury homes tend to follow different market trends.
 
-So what does this mean for you as a buyer? First of all, it’s important to sort out your financing. Secondly, take a good, but realistic, look at your want list. Keeping your budget in perspective and listening to your Realtor can help immensely with not only this, but the entire process as well.
+So what does this mean for you as a buyer? First of all, it’s important to sort out your financing. Secondly, take a good but realistic look at your want list. Keeping your budget in perspective and listening to your Realtor can help immensely with not only this but the entire process as well.
 
 {% include pullquote.html %}
 
@@ -38,4 +38,4 @@ With the market moving quickly and homes going off the market on an average betw
 
 Another final thing to keep in mind is to be prepared when interest rates go up. Be sure to keep an eye on this, as it can definitely influence the market.&nbsp;
 
-That being said, buying a home now will certainly be less expensive than it will be next year. So if you’ve been thinking of buying, don’t wait. And remember, if you’d like to learn more, or have any questions, feel free to get in touch with by dropping me an email or giving me a call. I look forward to hearing from you.
+That being said, buying a home now will certainly be less expensive than it will be next year. So if you’ve been thinking of buying, don’t wait. And remember, if you’d like to learn more or have any questions, feel free to get in touch with by dropping me an email or giving me a call. I look forward to hearing from you.
