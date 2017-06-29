@@ -34,7 +34,7 @@ The fewer contingencies you have, whether they are for loan, appraisal, or physi
 
 After running the numbers and examining their current property, I predicted that this wouldn’t be a problem. They had a great home that I knew would get off the market quickly, and I was right. Their home sold within 10 days with multiple offers, and they were able to fund my client’s listing with the money they made.
 
-This can work great for some people. But, another similar option that might work well for some others is to put up your home on the market now, but with any offer you accept, have a contingency upon your finding a replacement property.
+This can work great for some people. But, another similar option that might work well for some others is to put your home on the market now, but with any offer you accept, have a contingency upon your finding a replacement property.
 
 It’s important to consider timing with this option, though. **Unless we are in a strong seller’s market where demand is high, you could see that buyers might be hesitant to wait around on your contingency.**
 
