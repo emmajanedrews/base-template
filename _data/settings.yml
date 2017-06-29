@@ -1,5 +1,5 @@
 audit_header: false
-title: -- CLIENT BRAND --
+title: John Meulstee Home Selling Team Video Blog
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -19,8 +19,8 @@ client:
   phone_type:
   phone2:
   phone2_type:
-  email: realtyonegrouplegacy@gmail.com
-  url: http://www.roglegacy.com/
+  email: john@meulsteeteam.com
+  url: http://www.johnmeulstee.com
 
 CTAs:
   first_CTA_text: Home Valuation
