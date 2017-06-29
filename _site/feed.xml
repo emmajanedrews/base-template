@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>-- CLIENT BRAND --</title>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</description>
+    <title>Standard Mortgage Company with Adam Cohn</title>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Standard Mortgage Company - your professional  Real Estate Agents.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Jun 2017 11:07:57 -0500</pubDate>
-    <lastBuildDate>Tue, 20 Jun 2017 11:07:57 -0500</lastBuildDate>
+    <pubDate>Thu, 29 Jun 2017 14:49:00 -0500</pubDate>
+    <lastBuildDate>Thu, 29 Jun 2017 14:49:00 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>

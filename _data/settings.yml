@@ -1,5 +1,5 @@
 audit_header: false
-title: -- CLIENT BRAND --
+title: Standard Mortgage Company with Adam Cohn
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -7,41 +7,34 @@ custom_links:
     url:
 
 client:
-  name:
-  license_number:
+  name: Adam R. Cohn
+  license_number: NMLS 294053
   about_markdown: |
-
+    Adam R. Cohn has over 10 years of mortgage banking experience, his knowledge of the business can help you close on you're loan fast and hassle free even in this hectic mortgage and real estate market.
   market:
-  brand:
+  brand: Standard Mortgage Company
   brokerage:
-  address:
-  phone:
+  address: 301 W. Atlantic Ave Suite 1 Delray Beach, Florida 33444
+  phone: 561-289-0125
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: adam@standardmortgagecompany.com
+  url: standardmortgagecompany.com
 
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
-  second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  first_CTA_text: Apply Now
+  first_CTA_URL: https://9050993320.mortgage-application.net/WebApp/Start.aspx?oempage=1
+  second_CTA_text:
+  second_CTA_URL:
   VR_form:
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free -- MARKET -- Home Value Report"
-    CTA_url: /homevalue/
-
-second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_title: "Apply Now"
+    CTA_text: "Take the time to fill out our loan application"
+    CTA_link_text: "Apply Now"
+    CTA_url: https://9050993320.mortgage-application.net/WebApp/Start.aspx?oempage=1
 
 lender:
   show_section: false
@@ -66,8 +59,8 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/AdamIsMyMortgageBanker/
+  linkedin_url: https://www.linkedin.com/in/adam-r-cohn-846aa718/
   gplus_url:
   youtube_url:
   twitter_url:
@@ -91,13 +84,13 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  hero_text: Florida & North Carolina Mortgage Expert <br> Adam R. Cohn
   hero_background_hex: '#094264'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#976caf'
-  theme_color: '#67c4a9'
+  brand_color: '#022917'
+  theme_color: '#298C53'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
