@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: KKDXa_A9vwY
+youtube_code: N82OjIP_dOU
 ---
 
 
@@ -24,7 +24,7 @@ The trouble is that **when everyone wants the best, it can make the best hard to
 
 Today, I’m here to offer you a solution called “The Dream Finder Program.”
 
-What we do is compile a secret list of awesome homes that were withdrawn or expired from the market. We contact those homes’ sellers with a letter, and use our own methods to get those homes back and ready to sell for buyers like you.
+What we do is compile a secret list of awesome homes that were withdrawn or expired from the market. We contact those homes’ sellers with a letter and use our own methods to get those homes back and ready to sell for buyers like you.
 
 {% include pullquote.html %}
 
