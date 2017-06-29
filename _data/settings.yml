@@ -20,7 +20,7 @@ client:
   phone2:
   phone2_type:
   email: john@meulsteeteam.com
-  url: http://www.johnmeulstee.com
+  url: http://johnmeulsteeteam.com
 
 CTAs:
   first_CTA_text: Home Valuation
