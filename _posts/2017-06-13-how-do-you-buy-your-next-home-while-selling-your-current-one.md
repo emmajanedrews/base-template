@@ -1,7 +1,7 @@
 ---
 layout: post
-title: You Can Buy and Sell at the Same Time
-date: 2017-06-13 13:14:16
+title: How Do You Buy Your Next Home While Selling Your Current One?
+date: 2017-06-13 13:14:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
