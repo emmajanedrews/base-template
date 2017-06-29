@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 3 Mistakes That Will Ruin Your Real Estate Transaction
-date: 2017-06-26 13:03:17
+date: 2017-06-26 13:03:00
 tags:
   - Home Buyer Tips
 excerpt: 'I have seen a lot of things happen during real estate transactions, and there are three things that will almost definitely ruin your home sale every time:'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%25203%2520ways%2520to%2520ruin%2520any%2520real%2520estate%2520transaction.mp4'
 pullquote: Be open and honest with your loan officer and your Realtor.
 enclosure_type: video/mp4
 enclosure_time:
