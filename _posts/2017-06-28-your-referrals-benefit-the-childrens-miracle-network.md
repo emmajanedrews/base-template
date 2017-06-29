@@ -16,7 +16,7 @@ youtube_code: ZC9rzsTe7Ek
 
 {% include youtube.html %}
 
-Here at the Greater Calgary Group we are on a mission to raise $25,000 for the children in our community. For every house we sell this year, we will be donating a portion of the income to the Children’s Miracle Network.
+Here at the Greater Calgary Group, we are on a mission to raise $25,000 for the children in our community. For every house we sell this year, we will be donating a portion of the income to the Children’s Miracle Network.
 
 **This organization does amazing work in helping kids fight through and recover from debilitating diseases.** It provides support to families, needed medical equipment, and most importantly allows children be children while fighting their illness. So your referral to our group really does help the kids.
 
