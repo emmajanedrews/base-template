@@ -32,7 +32,9 @@ CTAs:
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/006.png
     CTA_title: Download Your Free eBook
-    CTA_text: Tracking Retirement
+    CTA_text: <p>TRACKING RETIREMENT. As an employer sponsoring a 401(k) plan, are you taking advantage of powerful techniques that will enhance the chances of your employees making it to their retirement destination? Are you using the right processes, systems, and techniques to responsibly manage your company's retirement plan? Are you doing everything you can to ensure your employees feel confident that they will have enough money to retire and pay for all the things they desire to do someday? Beating the Best reveals valuable strategies that will significantly impact retirement outcome results for you and your employees.</p>
+
+<p>Authors Steve Case and Evan Pawlowski will help you give your employees a properly designed 401(k) that can replace the pensions of generations past and become the reliable lifetime income employees need to enjoy a successful retirement</p>
     CTA_link_text: Download Now
     CTA_url: http://www.michigan401kadvisors.com
 
