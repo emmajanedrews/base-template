@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What's the Latest From the St. Charles Real Estate Market?"
-date: 2017-06-29 10:57:53
+date: 2017-06-29 10:57:00
 tags:
   - Market Update
 excerpt: "What's been going on in the market here in the St. Charles area?"
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: cTmL8PuWro8
+youtube_code: LM5WkXXuCng
 ---
 
 
