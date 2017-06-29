@@ -5,7 +5,7 @@ date: 2017-06-29 10:57:00
 tags:
   - Market Update
 excerpt: "What's been going on in the market here in the St. Charles area?"
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+The+current+state+of+the+St.+Charles+market.mp4'
 pullquote: Current conditions provide an incredible opportunity for savvy homebuyers and sellers alike.
 enclosure_type: video/mp4
 enclosure_time:
