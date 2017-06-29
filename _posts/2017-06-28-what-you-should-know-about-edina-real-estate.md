@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What You Should Know About Edina Real Estate
+title: What You Should Know About The Market
 date: 2017-06-28 10:59:21
 tags:
   - Market Update
