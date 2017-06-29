@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Quick OKC Real Estate Market Update
-date:
+date: 2017-06-29 13:48:35
 tags:
   - Market Update
 excerpt: 'If you’ve been wondering about the OKC real estate market, you’re in luck. We have the latest numbers to share today.'
