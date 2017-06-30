@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Things Every First-Time Homebuyer Should Know
-date:
+date: 2017-06-30 12:20:51
 tags:
   - Home Buyer Tips
 excerpt: 'Buying your first home can be an incredibly exciting time. However, it requires a huge commitment and a sizable investment. That’s why I want to share my three top tips to help first-time homebuyers protect themselves during this crucial period.'
