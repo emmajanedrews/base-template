@@ -5,7 +5,7 @@ date: 2017-06-29 10:48:00
 tags:
   - Home Seller Tips
 excerpt: 'If you need to get your home ready to sell, there are a few tips you can use to get it looking its best in no time.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/Mississippi+Gulf+Coast+Real+Estate+Agent-+Tips+to+Get+Your+Home+Ready+for+the+Market.mp4'
 pullquote: A fresh coat of paint can go a long way.
 enclosure_type: video/mp4
 enclosure_time:
