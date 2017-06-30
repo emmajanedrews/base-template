@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: d5xVl773HTU
+youtube_code: uQ_muSu92C0
 ---
 
 
@@ -19,7 +19,7 @@ youtube_code: d5xVl773HTU
 
 I’ve got a quick market update to share with you today regarding the OKC metro market. Here are the latest numbers as we head into the dog days of summer.
 
-**We had a great month in May, closing just over 2,4000 units.** That’s 29% more closings than we had just last month. However, we saw a dip in new and pending contracts this month.
+**We had a great month in May, closing just over 2,400 units.** That’s 29% more closings than we had just last month. However, we saw a dip in new and pending contracts this month.
 
 Overall, we are seeing about 8,000 active units on the market and just over four months of inventory available. That puts us in a seller’s market.
 
