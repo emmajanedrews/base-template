@@ -26,7 +26,7 @@ client:
 
 CTAs:
   first_CTA_text: Request a Free Strategy Session
-  first_CTA_URL: http://www.viewcentralpahouses.com/join-the-team/join-the-dave-hooke-team-application
+  first_CTA_URL: http://www.viewcentralpahouses.com/join-the-team
   second_CTA_text:
   second_CTA_URL:
   VR_form: http://oi.vresp.com?fid=1593df562e
@@ -36,7 +36,7 @@ sidebar_CTA:
     CTA_title: Looking to Build Your Real Estate Career?
     CTA_text: Let's talk about how The Dave Hooke Team can take your business to new heights.
     CTA_link_text: Request a Free Strategy Session
-    CTA_url: http://www.viewcentralpahouses.com/join-the-team/join-the-dave-hooke-team-application
+    CTA_url: http://www.viewcentralpahouses.com/join-the-team
 
 lender:
   show_section: false
