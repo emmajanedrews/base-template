@@ -21,12 +21,12 @@ client:
   phone2: 717-609-8265
   phone2_type: direct
   email: andrew@thinkhhe.com
-  url: 'http://www.thinkhhe.com'
+  url: 'http://andrew.hhande.com'
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: http://www.hhande.com/home-evaluation.php
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.hhande.com/
+  second_CTA_URL: http://andrew.hhande.com/idx/
   VR_form:
 sidebar_CTA:
   CTA_image_path: /img/cta-images/004.jpg
@@ -39,7 +39,7 @@ sidebar_CTA2:
   CTA_title2: "Looking for a Home?"
   CTA_text2: "Search the entire MLS for your home."
   CTA_link_text2: "Search the MLS"
-  CTA_url2: http://www.hhande.com/
+  CTA_url2: http://andrew.hhande.com/idx/
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
