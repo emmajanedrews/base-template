@@ -37,3 +37,5 @@ In order to be a ready, willing, and able buyer, you must already have done your
 We’d love for you to get in touch with us. Let us help you to pre-qualify and become a ready, willing, and able buyer so we can find you your perfect dream home. &nbsp;
 
 If you want more information or have any other questions give us a call or send us an email, soon. We look forward to hearing from you.
+
+![](/uploads/versions/ernie-dram---x----3828-2088x---.jpg)
