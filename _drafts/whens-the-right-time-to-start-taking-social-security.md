@@ -26,7 +26,7 @@ First, everyone should go to www.ssa.gov, log in, enter your personal info and c
 
 So when should you take social security? It depends on many factors, primarily the state of your health, whether you can work, and whether you have other savings/investments to draw on during the early years of retirement. Another big factor is whether distributions from investment accounts are taxable or not.
 
-Say, for example, Jim retired two years ago and had money in cash, a Roth IRA, and his 401(k) plan, and his retired wife receives a monthly pension and is already taking her social security. Jim needs to determine when to take social security benefits in connection with the spend-down plan for his investments.
+Say, for example, Jim, a hypothetical client, retired two years ago and had money in cash, a Roth IRA, and his 401(k) plan, and his retired wife receives a monthly pension and is already taking her social security. Jim needs to determine when to take social security benefits in connection with the spend-down plan for his investments.
 
 After calculating the total family income projection, we analyzed the expected spending needed for each year. This created a gap that needed to be filled with Jim's social security income, other income, or distributions from other investments. We went to work on an appropriate social security timing and maximization plan, which included an analysis of the taxation elements of each strategy.
 
