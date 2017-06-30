@@ -1,11 +1,11 @@
 ---
 layout: post
 title: A Quick OKC Real Estate Market Update
-date: 2017-06-29 13:48:35
+date: 2017-06-29 13:48:00
 tags:
   - Market Update
 excerpt: 'If you’ve been wondering about the OKC real estate market, you’re in luck. We have the latest numbers to share today.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Zach+Sikes/Zach+Sikes+-+May+was+great+for+the+market.mp4'
 pullquote: It’s more important than ever to hire a market expert.
 enclosure_type: video/mp4
 enclosure_time:
