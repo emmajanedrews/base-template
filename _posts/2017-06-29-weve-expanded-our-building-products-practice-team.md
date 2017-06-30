@@ -24,7 +24,7 @@ Recently we added seven new employees, five of which are executive recruiters an
 
 {% include pullquote.html %}
 
-**Each of the executive recruiters on this team reach out to nearly 100 people**each day. Our team is 13 people strong, reaching out to 100 people each every day in this industry. That’s an average of 1300 people each and every day. That enables us to continue to remain dialed in to what’s going on in this industry.
+**Each of the executive recruiters on this team reach out to nearly 100 people&nbsp;**each day. Our team is 13 people strong, reaching out to 100 people each every day in this industry. That’s an average of 1300 people each and every day. That enables us to continue to remain dialed in to what’s going on in this industry.
 
 As a reminder, we do specialize with manufacturers and distributors, both in the residential and commercial sides. We also work with interior products as well as exterior products in all types of roles within the organization.&nbsp;
 
