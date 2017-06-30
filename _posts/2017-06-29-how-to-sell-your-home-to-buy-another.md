@@ -9,7 +9,7 @@ pullquote: 'Every situation is different, and I personally love helping people f
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/no-pb-44.jpg
+youtube_alternate_image: /uploads/no-pb-56.jpg
 youtube_code: GYKffwlBpdU
 ---
 
