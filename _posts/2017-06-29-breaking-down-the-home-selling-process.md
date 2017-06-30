@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/no-pb-43.jpg
-youtube_code: fABdlQzzi4Q
+youtube_code: aphDYQwZ3jc
 ---
 
 
@@ -18,7 +18,7 @@ youtube_code: fABdlQzzi4Q
 
 I'm often asked about the home selling process by homeowners who can be anywhere from three weeks to a year away from actually listing their house.
 
-**The first step I always advise is getting in touch with a good Realtor,** because they'll guide you on where to start with the important steps. At the first meeting, we'll tour the house and talk about what's important before going over a comparable analysis.
+**The first step I always advise is getting in touch with a good Realtor**&nbsp;because they'll guide you on where to start with the important steps. At the first meeting, we'll tour the house and talk about what's important before going over a comparable analysis.
 
 In this analysis, we'll look at what similar homes are currently selling for to determine the value of their home. Personally, I will have already looked at comparable homes within a one- or two-mile radius before the meeting.
 
@@ -34,8 +34,8 @@ From there, we go through the house room-by-room to make suggestions on things l
 
 After that step, the marketing crew gets to work—professional photographers, drone photography, and video could all be a part. Our team even has a professional writer who we'll bring in to work with you to highlight the home's best features and make it compelling.
 
-I also like to have **a home pre-listing inspection** performed. One of the biggest disappointments a home seller can have is receiving an offer only to have the buyer perform and inspection and uncover a bunch of issues with the home that could jeopardize the sale.
+I also like to have **a home pre-listing inspection** performed. One of the biggest disappointments a home seller can have is receiving an offer only to have the buyer perform an inspection and uncover a bunch of issues with the home that could jeopardize the sale.
 
 Then, we'll get the home listed and up on the multiple listing service, or MLS. We'll display the photos and provide written narration for each one, then pump the listing out on more than 600 different websites. We'll also do a print marketing campaign with thousands of print mailers.
 
-From there, the goal is to get a great offer and go into escrow, but we'll discuss that in our net video. If you have any questions in the meantime or you're thinking of buying or selling a home, don't hesitate to give us a call or send us an email. We're here to help!
+From there, the goal is to get a great offer and go into escrow, but we'll discuss that in our next video. If you have any questions in the meantime or you're thinking of buying or selling a home, don't hesitate to give us a call or send us an email. We're here to help!
