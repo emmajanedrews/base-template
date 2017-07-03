@@ -3,7 +3,7 @@ layout: post
 title: Why Listing Your Home in Summer Is Key
 tags:
   - Home Seller Tips
-excerpt:
+excerpt: 'Summer is a great reason to sell your home for a few key reasons, some of which you might not have considered before now.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Victoria+Sandoval/Sandoval-Why+Listing+Your+Home+in+Summer+Is+Key.mp4'
 pullquote: 'As inventory drops, competition increases, meaning buyers have a smaller selection to choose from.'
 enclosure_type: video/mp4
@@ -30,4 +30,4 @@ Here are just a few reasons why that is:
 
 If you or anyone you know are interested in buying or selling a home or if you have any other questions, feel free to contact me by sending me an email or giving me a call. I look forward to hearing from you soon.
 
-{% include pullquote.html %}
+&nbsp;
