@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Draft
+title: Why Listing Your Home in Summer Is Key
 tags:
   - Home Seller Tips
 excerpt:
