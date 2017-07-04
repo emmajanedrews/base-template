@@ -1,5 +1,5 @@
 ---
-youtube_code: RHZrHUM7l74?rel=0
+youtube_code: RHZrHUM7l74
 excerpt:
 enclosure:
 pullquote:
@@ -18,11 +18,9 @@ thumbnail: https://img.youtube.com/vi/RHZrHUM7l74/default.jpg
 blogger_id: tag:blogger.com,1999:blog-5912202199970471220.post-6778447853742808147
 blogger_orig_url: http://www.tomcafarella.com/2017/06/featured-on-team-building-podcast.html
 ---
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/327326066&amp;color=ff5500"></iframe>
+Listen to Matt Johnson and Tom Cafarella discuss the systems he and his 140 agents use to build business and use leads effectively in both residential and investment real estate. Also featuring Jeff Cohn.
+
+**[Learn more: The Team Building Podcast](http://eliterealestatesystems.com/how-tom-cafarella-built-a-brokerage-with-140-agents/)**
+
 {% include youtube.html %}
-<span style="font-size: normal;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Listen to Matt Johnson and Tom Cafarella discuss the systems he and his 140 agents use to build business and use leads effectively in both residential and investment real estate. Also featuring Jeff Cohn. 
-<span style="font-size: normal;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"> 
-**[<span style="font-size: normal;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Learn more: The Team Building Podcast](http://eliterealestatesystems.com/how-tom-cafarella-built-a-brokerage-with-140-agents/)** 
-
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/RHZrHUM7l74?rel=0" width="560"></iframe> Learn more: The Team Building Podcast](http://eliterealestatesystems.com/how-tom-cafarella-built-a-brokerage-with-140-agents/)** 
-
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/RHZrHUM7l74?rel=0" width="560"></iframe> 

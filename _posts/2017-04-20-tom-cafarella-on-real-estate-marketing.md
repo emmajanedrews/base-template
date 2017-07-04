@@ -1,5 +1,5 @@
 ---
-youtube_code: lOfceyMt_JU?rel=0
+youtube_code: lOfceyMt_JU
 excerpt:
 enclosure:
 pullquote:
@@ -18,14 +18,11 @@ thumbnail: https://img.youtube.com/vi/lOfceyMt_JU/default.jpg
 blogger_id: tag:blogger.com,1999:blog-5912202199970471220.post-7641074982466053686
 blogger_orig_url: http://www.tomcafarella.com/2017/04/tom-cafarella-on-real-estate-marketing.html
 ---
-{% include youtube.html %}
-<span style="font-size: normal;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Tom and Mike Cuevas discuss why it's crucial for investors and agents to work together in order to <span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">avoid losing mon<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">ey. 
-<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><b></b> 
-<span style="font-size: normal;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">You'll also <span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">hear about different mark<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">eting st<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">rategies an<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">d systems that have worked to build <span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Tom's business<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">, includ<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">ing effective s<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">cripts fo<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">r call<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">ing leads. 
+Tom and Mike Cuevas discuss why it's crucial for investors and agents to work together in order to avoid losing money.
 
-<iframe allowfullscreen="" frameborder="0" height="370" src="https://www.youtube.com/embed/lOfceyMt_JU?rel=0" width="658"></iframe> 
-<span style="font-size: normal;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">**[<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Se<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">e additional content<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"> from this epi<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">sode of Real Estate Marketing Dude<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">.](http://www.realestatemarketingdude.com/podcast/podcast/scaling-business-investors/)** <b> 
-</b> 
-<span style="font-size: normal;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"> 
-<div class="separator" style="clear: both; text-align: center;">[<img alt="http://www.realestatemarketingdude.com/podcast/podcast/scaling-business-investors/" border="0" src="http://www.realestatemarketingdude.com/wp-content/uploads/2015/08/REMD-ClearLogo.11.png" height="200" width="400" />](http://www.realestatemarketingdude.com/podcast/podcast/scaling-business-investors/) rif;"> 
-<div class="separator" style="clear: both; text-align: center;">[<img alt="http://www.realestatemarketingdude.com/podcast/podcast/scaling-business-investors/" border="0" src="http://www.realestatemarketingdude.com/wp-content/uploads/2015/08/REMD-ClearLogo.11.png" height="200" width="400" />](http://www.realestatemarketingdude.com/podcast/podcast/scaling-business-investors/) 
+You'll also hear about different marketing strategies and systems that have worked to build Tom's business, including effective scripts for calling leads.
+
+{% include youtube.html %}
+
+**[See additional content from this episode of Real Estate Marketing Dude](http://www.realestatemarketingdude.com/podcast/podcast/scaling-business-investors/)**
+[![](http://www.realestatemarketingdude.com/wp-content/uploads/2015/08/REMD-ClearLogo.11.png)](http://www.realestatemarketingdude.com/podcast/podcast/scaling-business-investors/)

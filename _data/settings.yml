@@ -1,5 +1,5 @@
 audit_header: false
-title: -- CLIENT BRAND --
+title: Real Estate Investing Made Easy
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: true
 custom_links:
@@ -105,12 +105,12 @@ images:
   hero_logo_path_2: /img/logo2.png
   logo_width_number: 70
   hero_text: Real Estate Video Blog
-  hero_background_hex: '#094264'
-  hero_image_path: /img/background.jpg
+  hero_background_hex: '#fff'
+  hero_image_path: /img/background-gradient.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#0083c0'
-  theme_color: '#000'
+  brand_color: '#005DAB'
+  theme_color: '#f5f5f5'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'

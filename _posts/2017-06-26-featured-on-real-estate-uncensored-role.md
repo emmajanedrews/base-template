@@ -1,5 +1,5 @@
 ---
-youtube_code: _Rq-wCIiL5k?rel=0
+youtube_code: _Rq-wCIiL5k
 excerpt:
 enclosure:
 pullquote:
@@ -20,4 +20,3 @@ blogger_id: tag:blogger.com,1999:blog-5912202199970471220.post-14875716434278887
 blogger_orig_url: http://www.tomcafarella.com/2017/06/featured-on-real-estate-uncensored-role.html
 ---
 {% include youtube.html %}
- frameborder="0" height="315" src="https://www.youtube.com/embed/_Rq-wCIiL5k?rel=0" width="560"></iframe> 

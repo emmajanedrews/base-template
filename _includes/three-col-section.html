@@ -1,13 +1,65 @@
 
 <div class="row video-block">
-	{% for highlight in site.data.settings.highlights | limit: 3 %}
+	{% for highlight in site.categories.["QA"] | limit: 1%}
 	<div class="col-lg-4">
 		<div class="video-container">
-			<img src="{{highlight.image}}" class="highlight-image" />
+      <a href="{{highlight.url}}">
+        {% if highlight.use_youtube_image == true %}
+        <img src="http://img.youtube.com/vi/{{highlight.youtube_code | remove: 'https://youtu.be/' | remove: 'https://www.youtube.com/watch?v='}}/maxresdefault.jpg" alt="{{highlight.title}}" class="post-image" />
+        {% else %}
+          {% if highlight.youtube_alternate_image != null %}
+            <img src="{{highlight.youtube_alternate_image}}" alt="{{highlight.title}}" class="post-image"/>
+          {% else %}
+            <img src="{{ site.data.settings.images.post_cover }}" alt="{{highlight.title}}" class="post-image"/>
+          {% endif %}
+        {% endif %}
+      </a>
 			<h4>{{highlight.title}}</h4>
 			<hr>
 			<p>{{highlight.text}}</p>
-			<a href="{{highlight.url}}" class="ctalink">{{highlight.cta}}</a>
+			<a href="{{highlight.url}}" class="ctalink">Watch the Video</a>
+		</div>
+	</div>
+	{% endfor %}
+	{% for highlight in site.categories.weeklyrecording | limit: 1%}
+	<div class="col-lg-4">
+		<div class="video-container">
+      <a href="{{highlight.url}}">
+        {% if highlight.use_youtube_image == true %}
+        <img src="http://img.youtube.com/vi/{{highlight.youtube_code | remove: 'https://youtu.be/' | remove: 'https://www.youtube.com/watch?v='}}/maxresdefault.jpg" alt="{{highlight.title}}" class="post-image" />
+        {% else %}
+          {% if highlight.youtube_alternate_image != null %}
+            <img src="{{highlight.youtube_alternate_image}}" alt="{{highlight.title}}" class="post-image"/>
+          {% else %}
+            <img src="{{ site.data.settings.images.post_cover }}" alt="{{highlight.title}}" class="post-image"/>
+          {% endif %}
+        {% endif %}
+      </a>
+			<h4>{{highlight.title}}</h4>
+			<hr>
+			<p>{{highlight.text}}</p>
+			<a href="{{highlight.url}}" class="ctalink">Watch the Video</a>
+		</div>
+	</div>
+	{% endfor %}
+	{% for highlight in site.categories.strategysession | limit: 1%}
+	<div class="col-lg-4">
+		<div class="video-container">
+      <a href="{{highlight.url}}">
+        {% if highlight.use_youtube_image == true %}
+        <img src="http://img.youtube.com/vi/{{highlight.youtube_code | remove: 'https://youtu.be/' | remove: 'https://www.youtube.com/watch?v='}}/maxresdefault.jpg" alt="{{highlight.title}}" class="post-image" />
+        {% else %}
+          {% if highlight.youtube_alternate_image != null %}
+            <img src="{{highlight.youtube_alternate_image}}" alt="{{highlight.title}}" class="post-image"/>
+          {% else %}
+            <img src="{{ site.data.settings.images.post_cover }}" alt="{{highlight.title}}" class="post-image"/>
+          {% endif %}
+        {% endif %}
+      </a>
+			<h4>{{highlight.title}}</h4>
+			<hr>
+			<p>{{highlight.text}}</p>
+			<a href="{{highlight.url}}" class="ctalink">Watch the Video</a>
 		</div>
 	</div>
 	{% endfor %}

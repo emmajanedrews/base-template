@@ -1,84 +1,264 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>-- CLIENT BRAND --</title>
+    <title>Real Estate Investing Made Easy</title>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 21 Jun 2017 20:14:52 -0500</pubDate>
-    <lastBuildDate>Wed, 21 Jun 2017 20:14:52 -0500</lastBuildDate>
+    <pubDate>Mon, 03 Jul 2017 19:50:41 -0500</pubDate>
+    <lastBuildDate>Mon, 03 Jul 2017 19:50:41 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>this is a test post</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SFFy_drFrZs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>This is a Weekly Recording post</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps &lt;strong&gt;gastropub marfa r&lt;/strong&gt;etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Bushwick&lt;/em&gt; &lt;a href=&quot;'http://google.com'&quot;&gt;marfa&lt;/a&gt; wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. &lt;a href=&quot;http://google.com&quot;&gt;Fanny&lt;/a&gt; pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.&lt;/p&gt;
-
-&lt;p&gt;Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This is an example of a pull quote%20localhost:4000/this-is-a-test-post.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This is an example of a pull quote”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.&lt;/p&gt;
-
-&lt;p&gt;Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=%20localhost:4000/weeklyrecording/weeklyrecording.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“”&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 04 Oct 2016 00:00:00 -0500</pubDate>
-        <link>localhost:4000/this-is-a-test-post.html</link>
-        <guid isPermaLink="true">localhost:4000/this-is-a-test-post.html</guid>
+        <pubDate>Sat, 01 Jul 2017 15:47:00 -0500</pubDate>
+        <link>localhost:4000/weeklyrecording/weeklyrecording.html</link>
+        <guid isPermaLink="true">localhost:4000/weeklyrecording/weeklyrecording.html</guid>
         
-        <category>Market Update</category>
+        <category>Q</category>
         
-        <category>Real Estate</category>
+        <category>&amp;</category>
         
-        <category>Home Seller Tips</category>
+        <category>A</category>
+        
+        
+        <category>weeklyrecording</category>
+        
+      </item>
+    
+      <item>
+        <title>This is a Q and A post</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=%20localhost:4000/qa/QandAtest.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“”&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 01 Jul 2017 15:47:00 -0500</pubDate>
+        <link>localhost:4000/qa/QandAtest.html</link>
+        <guid isPermaLink="true">localhost:4000/qa/QandAtest.html</guid>
+        
+        <category>Q</category>
+        
+        <category>&amp;</category>
+        
+        <category>A</category>
+        
+        
+        <category>QA</category>
+        
+      </item>
+    
+      <item>
+        <title>This is a Strategy Session post</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=%20localhost:4000/strategysession/strategysessions.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“”&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 01 Jul 2017 15:47:00 -0500</pubDate>
+        <link>localhost:4000/strategysession/strategysessions.html</link>
+        <guid isPermaLink="true">localhost:4000/strategysession/strategysessions.html</guid>
+        
+        <category>Q</category>
+        
+        <category>&amp;</category>
+        
+        <category>A</category>
+        
+        
+        <category>strategysession</category>
+        
+      </item>
+    
+      <item>
+        <title>Featured on Flipnerd.com: Motivated Seller Leads for Investors</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/MERd1JMVCyQ?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Tom Cafarella discusses what works and what doesn’t when you are generating motivated seller leads. &lt;strong&gt;&lt;a href=&quot;https://flipnerd.com/show/motivated-seller-leads-investors/&quot;&gt;Learn more.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 28 Jun 2017 15:47:00 -0500</pubDate>
+        <link>localhost:4000/featured-on-flipnerdcom-motivated.html</link>
+        <guid isPermaLink="true">localhost:4000/featured-on-flipnerdcom-motivated.html</guid>
+        
+        <category>Interviews</category>
         
         
       </item>
     
       <item>
-        <title>A Fox in Space</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SFFy_drFrZs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>Featured On: Real Estate Uncensored - The Role of Emotions in Real Estate Marketing</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/_Rq-wCIiL5k?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps &lt;strong&gt;&lt;a href=&quot;http://google.com&quot; target=&quot;_blank&quot;&gt;gastropub&lt;/a&gt; marfa r&lt;/strong&gt;etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 26 Jun 2017 10:18:00 -0500</pubDate>
+        <link>localhost:4000/featured-on-real-estate-uncensored-role.html</link>
+        <guid isPermaLink="true">localhost:4000/featured-on-real-estate-uncensored-role.html</guid>
+        
+        <category>Interviews</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>How To Generate Motivated Seller Leads</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/PyeiNpb9hvU?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;em&gt;Bushwick&lt;/em&gt; &lt;a href=&quot;'http://google.com'&quot; target=&quot;_blank&quot;&gt;marfa&lt;/a&gt; wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 22 Jun 2017 10:48:00 -0500</pubDate>
+        <link>localhost:4000/How-To-Generate-Motivated-Seller-Leads.html</link>
+        <guid isPermaLink="true">localhost:4000/How-To-Generate-Motivated-Seller-Leads.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Amanda Chaves</title>
+        <description>&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/329391332&amp;amp;color=ff5500&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;strong&gt;When did you join Cameron Real Estate Group?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;January of this year. [2017]&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Where did you work before coming to Cameron?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Keller Williams.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What was life/business like before making the decision to work with Cameron? What were you up to, how was it different?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Slow to non-existent. I didn’t do any business while I was at Keller Williams.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Were you unsure and/or skeptical before deciding to work at Cameron? What were you unsure about?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I wasn’t really unsure. I was on a team at Keller Williams and the team that I was on decided to come over. They’re all kind of veteran agents and I knew that if they were coming over it was going to be a good choice for me to do. So I didn’t have any hesitation about going.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What was it specifically that ultimately helped you make the decision to join Cameron?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;That they would provide leads. That was a huge thing for me, being new in the business. I didn’t get that kind of support when I was with Keller Williams and when I found out that they had offered an endless supply of leads it was a no-brainer to go there.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What benefits have you received since making the decision to work with Tom? How is life or business different?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The benefits of working, it’s definitely the leads I’ve gotten. I’ve gotten a ton of buyers, I’m constantly busy now. Also they offered me a position as a buyer nurturer so I actually get all the leads in and I get to hand pick the ones that I want so it’s been fantastic. They provide me with all the tools I need, it’s perfect.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tom always tells everyone he has tons of leads and most agents think it is too good to be true. What would you say about that?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;It is completely true. I myself get between 40 and 60 leads a day and what you do with them is really your own business. I can attest that they have nothing but leads. I cannot be bored working at Cameron at all.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What would you say to someone who is on the fence about choosing to join Cameron?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Especially if you’re a new agent you have to join Cameron, they give you all the support that you need. Everyone is fantastic, everyone helps each other out. They give you every opportunity to be a successful agent. Their goal is really to get you up and running. They want you to have your own leads and do your own business but they are going to give you everything you need to get up to where you need to be. her out. They give you every opportunity to be a successful agent. Their goal is really to get you up and running. They want you to have your own leads and do your own business but they are going to give you everything you need to get up to where you need to be.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 21 Jun 2017 16:24:00 -0500</pubDate>
+        <link>localhost:4000/amanda-chaves.html</link>
+        <guid isPermaLink="true">localhost:4000/amanda-chaves.html</guid>
+        
+        <category>Testimonials</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Featured on The Team Building Podcast</title>
+        <description>&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/327326066&amp;amp;color=ff5500&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;Listen to Matt Johnson and Tom Cafarella discuss the systems he and his 140 agents use to build business and use leads effectively in both residential and investment real estate. Also featuring Jeff Cohn.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://eliterealestatesystems.com/how-tom-cafarella-built-a-brokerage-with-140-agents/&quot;&gt;Learn more: The Team Building Podcast&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/RHZrHUM7l74?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+</description>
+        <pubDate>Fri, 09 Jun 2017 14:15:00 -0500</pubDate>
+        <link>localhost:4000/featured-on-team-building-podcast.html</link>
+        <guid isPermaLink="true">localhost:4000/featured-on-team-building-podcast.html</guid>
+        
+        <category>Interviews</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Kyle's Feedback on The Ocean City Development Lead Generation System</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://3.bp.blogspot.com/-QduGZ3Nwi-w/WSdMqYQbaYI/AAAAAAAAA5c/1trxX3sAPZguDKiGflWN2zqWnfJKFqFvQCLcB/s1600/unnamed%2B%25283%2529.jpg#center&quot; alt=&quot;&quot; /&gt;
+Kyle had some older leads that were initially non-responsive, Tom Cafarella of Ocean City Development helped him convert those leads by sending a custom designed email blast out to them.&lt;/p&gt;
+
+&lt;p&gt;Kyle’s Feedback:&lt;/p&gt;
+
+&lt;p&gt;Tom, The email went out today and I got 26 responses and 4 phone calls. I have set up several appointments, some will be for listings and there is a few that look like promising assignment leads. I do love this system. I am looking forward to the trip in July.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 25 May 2017 16:30:00 -0500</pubDate>
+        <link>localhost:4000/kyles-feedback-on-ocean-city.html</link>
+        <guid isPermaLink="true">localhost:4000/kyles-feedback-on-ocean-city.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Zillow Instant Offers: How It Will Impact Local Real Estate Investors</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://2.bp.blogspot.com/-Lv1feqhjzRM/WSbvEIWR_uI/AAAAAAAAA5A/ZgYZQgPREgAm-pYyFjSkpu3BP5KH-G9ygCK4B/s1600/zillow%2Binstant%2Boffer.png#center&quot; alt=&quot;&quot; /&gt;
+I’ve been flooded with questions about Zillow “Instant Offers” and so I wanted to address it formally with everyone.&lt;/p&gt;
+
+&lt;p&gt;Yesterday Zillow announced ‘Instant Offers’ where off-market sellers can put their homes on Zillow and receive offers without agents who don’t work for them.&lt;/p&gt;
+
+&lt;p&gt;When a seller clicks on the “Get offer” button, their information will be sent out to 15 investors and those investors will have the option to offer on the property.&lt;/p&gt;
+
+&lt;p&gt;The seller will then have the opportunity to accept or reject the offer.&lt;/p&gt;
+
+&lt;p&gt;From the limited information they have released, it looks like the investors will be large institutional investors(Wall Street) and not local area investors.&lt;/p&gt;
+
+&lt;p&gt;Right now they are running the test in two markets: Las Vegas and Orlando.&lt;/p&gt;
+
+&lt;p&gt;If they like the results they are going to consider adding additional markets.&lt;/p&gt;
+
+&lt;p&gt;If not, they may just kill the idea altogether.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;My opinion on this:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
+  &lt;li&gt;Right now, it isn’t really something to think much about.  Even if it gains traction it won’t be an overnight thing so as of today it is business as usual.&lt;/li&gt;
+  &lt;li&gt;Most sellers want to do business face to face when they sell a home.  Their house is typically their biggest asset and at least in the beginning, I think most sellers are going to be nervous about getting “scammed” selling their house online until it becomes mainstream(if it ever does).  I think there is a good chance that many sellers may get that quote online(just like they look at the Zestimate) and then call someone local who they can meet and talk to in person.&lt;/li&gt;
+  &lt;li&gt;There’s already a bunch of backlash from real estate agents who feel that Zillow is now trying to cut them out of transactions.  Keep in mind, Zillow’s main source of income is selling real estate agents buyer leads.  If too many agents get upset about this, Zillow may feel pressured to discontinue the service.&lt;/li&gt;
+  &lt;li&gt;Even if they do allow at some point local area investors to be one of the 15 bidders, these will never be good deals for us.  If we are competing against 14 other investors, we will never get a good enough price to buy - someone is always willing to overpay.&lt;/li&gt;
+  &lt;li&gt;The prospecting methods that we utilize will always allow us to get to sellers first and will always work to get great deals.  If Zillow is successful, they will only get a fraction of the total motivated seller market share.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.&lt;/p&gt;
+&lt;p&gt;Overall, on the whole, I would project this to be a complete non-event for us, BUT as with everything else it is something to always keep an eye on.  Things are always changing and we are always keeping an eye out for anything that may impact our or your investment business.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This is an example of a pull quote%20localhost:4000/a-fox-in-space.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This is an example of a pull quote”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Here is the article that was released yesterday in case you want further details:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Today, Zillow launched a pilot program in two cities — Las Vegas and Orlando, Florida — called “Zillow Instant Offers,” with the promise that a home sale transaction can be completed in as little as a week.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The new Zillow product allows prospective homesellers to receive all-cash offers from a hand-selected group of 15 large private investors along with a side-by-side comparative market analysis (CMA) from a local Zillow Premier Agent.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Zillow Instant Offers mobile view.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Homesellers who accept one of the offers are encouraged by Zillow to use an agent in the process, but they are not required to do so.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Once offers are received from participating investors, the homeowner can choose one of three options:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;em&gt;Accept an offer and sell directly to an investor&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Accept an offer and use an agent to manage and close the transaction&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Reject the offers and list the property on the MLS with an agent&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;em&gt;The initiative promises a more streamlined and friction-free transaction, managed by Zillow-owned dotloop, and a process that may give the seller more certainty.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Zillow is leveraging its consumer brand and distribution to offer a radical new business model for homesellers first pioneered by Opendoor and gaining favor with investors and homesellers in test markets.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Even though it is a two-market test, and Zillow will collect no money from the test, the move may jolt some in the real estate industry who are suspicious of Zillow’s every move.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;How it works&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Homeowners participating in the Instant Offers program take the following steps:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;em&gt;Sellers can sign up their home for Instant Offers by providing several photos of the home and filling out key information about the property, including home type, bedrooms, features, roof type, flooring, any major remodels, painting history, age of appliances, HOA status and any other important disclosures.&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;The home description then goes to the 15 Wall Street investors, who are either licensed as brokers or use a third-party broker license, and the property details also get sent to participating Zillow Premier Agents, who will be asked to submit a CMA. Investors and agents have 24 hours to submit an offer, and their offers expire in five days.&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
 </description>
-        <pubDate>Wed, 28 Sep 2016 00:00:00 -0500</pubDate>
-        <link>localhost:4000/a-fox-in-space.html</link>
-        <guid isPermaLink="true">localhost:4000/a-fox-in-space.html</guid>
-        
-        <category>Market Update</category>
-        
-        <category>Real Estate</category>
-        
-        <category>Home Seller Tips</category>
+        <pubDate>Thu, 25 May 2017 09:50:00 -0500</pubDate>
+        <link>localhost:4000/zillow-instant-offers-how-it-will.html</link>
+        <guid isPermaLink="true">localhost:4000/zillow-instant-offers-how-it-will.html</guid>
         
         
       </item>

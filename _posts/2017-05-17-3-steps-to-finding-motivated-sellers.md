@@ -1,8 +1,8 @@
 ---
-youtube_code: 25zsPoickj4?rel=0
-excerpt:
+youtube_code: https://youtu.be/25zsPoickj4
+excerpt: "Cold calling isn't always a fun activity, but with the right tools and systems in place, it's one of the best ways to generate motivated sellers."
 enclosure:
-pullquote:
+pullquote: 'A dialer prevents wasted time.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -19,15 +19,14 @@ blogger_id: tag:blogger.com,1999:blog-5912202199970471220.post-93826824295160353
 blogger_orig_url: http://www.tomcafarella.com/2017/05/3-steps-to-finding-motivated-sellers.html
 ---
 {% include youtube.html %}
- 
-<div style="text-align: center;">*<span style="font-size: NORMAL;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Cold calling isn't always a fun activity, but with the right tools and systems in place, it's one of the best ways to generate motivated sellers.*<div style="text-align: center;"> 
-<div style="text-align: center;">*<span style="font-size: normal;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><span style="font-size: normal;">[<span style="font-size: normal;"><i>**<span style="font-size: normal;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">My Best Training<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">***](http://onlinemeetingnow.com/register/?id=r8ljircnf5)</i><div style="text-align: center;">[<span style="font-size: normal;">***<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Partner With Us***](http://www.tomcafarella.com/p/partner-with-us.html)<div style="text-align: center;"> 
+Cold calling is the tried and true method for finding motivated sellers. It's not the most fun thing in the world, but it flat-out works. However, there are few things you need to keep in mind to cold call effectively, or you might end up giving up far too easily.
 
-<span style="font-size: NORMAL;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Cold calling is the tried and true method for finding motivated sellers. It's not the most fun thing in the world, but it flat-out works. However, there are few things you need to keep in mind to cold call effectively, or you might end up giving up far too easily. 
+**First, make sure that you load your phone records into a dialer when calling.** We recommend a dialer called **Mojo Dialer**. For $150 a month, you can make between 500 and 700 calls per day. The benefit of this kind of software is that it prevents wasting time; you dial from one person to the next with no pause. If it goes to voicemail, you just click a button to leave a message rather than saying the same thing over and over again.
 
-## First, make sure that you load your phone records into a dialer when calling. We recommend a dialer called **[Mojo Dialer](http://www.mojosells.com/)**. For $150 a month, you can make between 500 and 700 calls per day. The benefit of this kind of software is that it prevents wasting time; you dial from one person to the next with no pause. If it goes to voicemail, you just click a button to leave a message rather than saying the same thing over and over again. 
-<div class="quote-box"><div class="quote-text"><span style="font-size: NORMAL;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">A dialer prevents wasted time. <span style="font-size: NORMAL;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">**The second important thing to be sure of is that you're dialing the right people. **You want to call motivated sellers that make sense to call. Two groups that I like are people in a notice of default situation or absentee owners that don't live at the house in question. 
+{% include pullquote.html %}
 
-The next most important aspect is to make sure you have the right phone numbers. You also need to get cell phone records. **Home records work, but cell phone records will get calls picked up three times more on average.** With good phone numbers, you'll get a higher contact rate. A good contact rate to shoot for is 10%, meaning you actually talk to 10% of all the people that you dial. A contact rate of 3% means you don't have good phone numbers. 
+**The second important thing to be sure of is that you're dialing the right people.** You want to call motivated sellers that make sense to call. Two groups that I like are people in a notice of default situation or absentee owners that don't live at the house in question.
 
-With a dialer and good phone numbers, you'll find that cold calling is a very useful way to generate motivated sellers. If you want to get more details on exactly how we do this, check out my training at **[www.realestateinvestingiseasy.com](http://onlinemeetingnow.com/register/?id=r8ljircnf5)**. If you have any other questions, you can always call or email me. I'm happy to help. /?id=r8ljircnf5)**. If you have any other questions, you can always call or email me. I'm happy to help. 
+The next most important aspect is to make sure you have the right phone numbers. You also need to get cell phone records. **Home records work, but cell phone records will get calls picked up three times more on average.** With good phone numbers, you'll get a higher contact rate. A good contact rate to shoot for is 10%, meaning you actually talk to 10% of all the people that you dial. A contact rate of 3% means you don't have good phone numbers.
+
+With a dialer and good phone numbers, you'll find that cold calling is a very useful way to generate motivated sellers. If you want to get more details on exactly how we do this, check out my training at [www.realestateinvestingiseasy.com](http://onlinemeetingnow.com/register/?id=r8ljircnf5). If you have any other questions, you can always call or email me. I'm happy to help.

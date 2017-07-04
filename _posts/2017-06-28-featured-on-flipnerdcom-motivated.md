@@ -1,5 +1,5 @@
 ---
-youtube_code: MERd1JMVCyQ?rel=0
+youtube_code: MERd1JMVCyQ
 excerpt:
 enclosure:
 pullquote:
@@ -19,6 +19,4 @@ blogger_id: tag:blogger.com,1999:blog-5912202199970471220.post-29951954419713272
 blogger_orig_url: http://www.tomcafarella.com/2017/06/featured-on-flipnerdcom-motivated.html
 ---
 {% include youtube.html %}
- <span style="font-size: normal;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Tom Cafarella discusses what works and what doesn't when you are generating motivated seller leads. 
-
-<span style="font-size: normal;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">**[Learn more. ](https://flipnerd.com/show/motivated-seller-leads-investors/)** ica&quot; , sans-serif;">**[Learn more. ](https://flipnerd.com/show/motivated-seller-leads-investors/)** 
+Tom Cafarella discusses what works and what doesn’t when you are generating motivated seller leads. **[Learn more.](https://flipnerd.com/show/motivated-seller-leads-investors/)**
