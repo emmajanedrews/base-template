@@ -3,7 +3,7 @@ layout: post
 title: Why Millennials Need to Take Another Look at Homeownership
 tags:
   - Home Buyer Tips
-date: 2017-07-03 11:59:04
+date: 2017-07-03 11:59:00
 excerpt: "If you're a millennial paying rent and you've ever thought about making the leap to homeownership, listen up."
 enclosure:
 pullquote: "Don't disqualify yourself just because you don't think you have enough money for a down payment."
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: BctaXYmUuNE
+youtube_code: fgUuuIsTlkI
 ---
 
 
