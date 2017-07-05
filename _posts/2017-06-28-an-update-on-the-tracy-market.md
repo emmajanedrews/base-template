@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Update on the Tracy Market
-date: 2017-06-28 10:38:05
+date: 2017-06-28 10:38:00
 tags:
   - Market Update
 excerpt: "We've got an update for you on the current state of affairs here in the Tracy real estate market."
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: FYZ_VjZ32HA
+youtube_code: oQ3Ly-ATwvo
 ---
 
 
