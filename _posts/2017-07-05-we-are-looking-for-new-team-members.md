@@ -18,6 +18,7 @@ youtube_code: ngFWXkx2wSA
 {% include youtube.html %}I just wanted to put a little bug in your ear and let you know that Wicker Homes Group is hiring. We are looking for a talented agent (or agents) to join our team, but we’re not just looking for anyone.
 
 **We want someone who has a strong work ethic, is committed to growing their career, and loves serving their clients.** We want someone who can help us deliver the excellent customer service and expertise that our clients have come to expect.
+<br>
 <br>{% include pullquote.html %}
 <br>If this sounds like it would be a good fit for you or someone you know, do us a favor and **head over (or have them head over) to [tonyrobbins.com](https://www.tonyrobbins.com/disc/) and take the DISC personality test.** Once the results are in, send them on over to [careers@wickerhomes.com](javascript:void(location.href='mailto:'+String.fromCharCode(99,97,114,101,101,114,115,64,119,105,99,107,101,114,104,111,109,101,115,46,99,111,109))) and we will be in touch!
 
