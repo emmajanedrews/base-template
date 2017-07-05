@@ -23,6 +23,6 @@ The Zestimate is Zillow’s tool for calculating home values. It gives you an in
 
 {% include pullquote.html %}
 <br>
-<br>No matter what, you should probably talk to a real estate professional if you want an accurate valuation. **Only an expert in the market will be able to understand what your home’s value truly is** based on current market conditions and the most recent comparable sales data.
+<br>No matter what, you should talk to a real estate professional if you want an accurate valuation. **Only an expert in the market will be able to understand what your home’s value truly is** based on current market conditions and the most recent comparable sales data.
 <br>
 <br>If you need a professional opinion on your home’s value or if you just have any questions, you can always give me a call or send me an email. I look forward to hearing from you soon.
