@@ -39,20 +39,20 @@
 	          <address itemprop="address">{{site.data.settings.client.address}}</address>
 	        </div>
 	      {% else %}
-	        <div class="col-sm-3">
+	        <div class="col-sm-4">
 	          <span itemprop="founder">{{site.data.settings.client.name}}</span>
 						{% if site.data.settings.client.license_number != null %}
 						<br><span>#{{site.data.settings.client.license_number }}
 					{% endif %}
 	        </div>
-	        <div class="col-sm-3">
+	        <div class="col-sm-4">
 	          <span itemprop="brand">{{site.data.settings.client.brand}}</span>
 	        </div>
-	        <div class="col-sm-3">
+	        <div class="col-sm-4">
 	          <span itemprop="branchof">{{site.data.settings.client.brokerage}}</span>
 	        </div>
-	        <div class="col-sm-3">
-	          <address itemprop="address">{{site.data.settings.client.address}}</address>
+	        <!-- <div class="col-sm-3">
+	          <address itemprop="address">{{site.data.settings.client.address}}</address> -->
 	        </div>
 	      {% endif %}
 	    </div>
