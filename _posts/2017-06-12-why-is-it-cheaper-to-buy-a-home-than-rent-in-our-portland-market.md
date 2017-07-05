@@ -9,8 +9,8 @@ enclosure: 'https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real
 pullquote: 'If you’re going to pay a mortgage, you might as well pay yours—not your landlord’s.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/002.jpg
 youtube_code: mDCf5AMOKOk
 ---
 

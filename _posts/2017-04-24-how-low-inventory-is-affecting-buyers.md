@@ -5,8 +5,8 @@ enclosure: https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland+Real+Esta
 pullquote: "Both buyers and sellers should hire a pro before entering the market."
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /img/cover.jpg
+use_youtube_image: false
+youtube_alternate_image: /uploads/004.jpg
 layout: post
 title: 'How Low Inventory Is Affecting Buyers and Sellers '
 date: '2017-04-24T10:59:00.000-07:00'

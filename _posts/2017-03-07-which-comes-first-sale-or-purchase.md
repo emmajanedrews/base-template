@@ -5,8 +5,8 @@ enclosure: https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland+Real+Esta
 pullquote: "Buying your next home before selling the old one provides maximum convenience."
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /img/cover.jpg
+use_youtube_image: false
+youtube_alternate_image: /uploads/005.jpg
 layout: post
 title: Which Comes First, the Sale or the Purchase?
 date: '2017-03-07T11:09:00.000-08:00'
