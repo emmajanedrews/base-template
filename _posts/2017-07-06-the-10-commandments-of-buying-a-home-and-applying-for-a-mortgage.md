@@ -18,7 +18,7 @@ youtube_code: Tc9odiFLcHk
 
 We give our customers a buyer’s guide that shares the 10 commandments of things you should never do when going through the process. Today I’ve listed those ten things below:
 
-**1. Thou shalt not change your job or quit your job during the mortgage period.** Even if you’ve been awarded a promotion or offered a chance to change your environment, you don’t want to make these changes during the loan process. Lenders like consistency, not change.
+**1. Thou shalt not change your job or quit your job during the mortgage approval period.** Even if you’ve been awarded a promotion or offered a chance to change your environment, you don’t want to make these changes during the loan process. Lenders like consistency, not change.
 
 **2. Thou shalt not buy furniture or decor for your home before you buy it.&nbsp;**Sometimes people use their funds that they have set aside for the closing and buy furniture or home decor. It’s easy to get excited, but you don’t even own the home yet! Focus on the mortgage first and then when you close, you can start looking at furniture for your home.
 
