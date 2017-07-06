@@ -7,7 +7,7 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: Zillow is one of the most-used websites by people trying to find the value of homes on the market today. But it turns out that the Zestimate may not be as accurate as you might think.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Mindy+Robbins/Videos/Dallas+-+Fort+Worth+Real+Estate+Agent-+Think+Twice+Before+Trusting+Zillow.mp4'
 pullquote: The best way to make sure that your estimate is accurate is to hire a real estate professional.
 enclosure_type: video/mp4
 enclosure_time:
