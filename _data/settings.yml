@@ -61,7 +61,7 @@ socials:
   zillow_url: 'https://www.zillow.com/profile/Valerie4Homes/'
   trulia_url: 'https://www.trulia.com/profile/valerie-van-de-zilver-agent-tustin-ca-zgywvss2/reviews'
   yelp_url:
-  podcast_url:
+  podcast_url: https://itunes.apple.com/us/podcast/orange-county-real-estate-podcast-valerie-van-zilver/id1254489145?mt=2
 podcast:
   title: Orange County Real Estate Podcast with Valerie Van de Zilver
   categories: Education
