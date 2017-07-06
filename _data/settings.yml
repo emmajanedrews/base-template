@@ -7,26 +7,26 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Brent Dildine
   license_number:
   about_markdown: |
-
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    Brent Dildine has over 15 years experience in the Real Estate industry. He works with both buyers and sellers, specializing in residential re-sale properties, and new construction. His extensive knowledge of the Greater Boise area, as well as many professional relationships with lenders, builders, title companies, and developers makes Brent Dildine your best source for your real estate needs!
+  market: Boise
+  brand: Buy Boise
+  brokerage: Realty One Centre of Boise
+  address: 7310 Potomac Drive Boise, ID 83704
+  phone: 208-919-2424
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Brent@BuyBoise.net
+  url: http://www.BuyBoise.net
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://brent.buyboise.net/sell.php
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.buyboise.net/index.php?quick=1&display=Boise%2C+&areas[]=city%3ABoise&types[]=1&beds=0&baths=0&min=0&max=100000000
   VR_form:
 
 sidebar_CTA:
@@ -34,14 +34,14 @@ sidebar_CTA:
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free -- MARKET -- Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://brent.buyboise.net/sell.php
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://www.buyboise.net/index.php?quick=1&display=Boise%2C+&areas[]=city%3ABoise&types[]=1&beds=0&baths=0&min=0&max=100000000
 
 lender:
   show_section: false
@@ -66,20 +66,20 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/amazingboisehomes
+  linkedin_url: https://www.linkedin.com/in/brent-dildine-782bb265/
   gplus_url:
-  youtube_url:
-  twitter_url:
+  youtube_url: http://www.youtube.com/channel/UCltGh39pKyVyQc8ra2xBrQA
+  twitter_url: http://www.twitter.com/https://twitter.com/brentbuyboise
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
+  zillow_url: https://www.zillow.com/profile/Brent-Dildine/
+  trulia_url: https://www.trulia.com/profile/brent-dildine-agent-boise-id-zgkx1fq0/overview
   yelp_url:
   podcast_url:
 
 podcast:
-  title:
+  title: Boise Real Estate Podcast with Brent Dildine
   categories: Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
@@ -92,12 +92,12 @@ images:
   hero_logo_path: /img/logo.png
   logo_width_number: 40
   hero_text: -- MARKET -- Real Estate Video Blog
-  hero_background_hex: '#094264'
+  hero_background_hex: '#f26337'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#976caf'
-  theme_color: '#67c4a9'
+  brand_color: '#f26337'
+  theme_color: '#233b77'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -106,7 +106,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: rgba(81,76,80,.4)
 
 buttons:
   button_radius_number: 0
