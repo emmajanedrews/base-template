@@ -4,7 +4,7 @@ title: Staying Represented While Building a New Home
 tags:
   - Buyer Tips
 excerpt: Buyers that are thinking of building a home or buying a home directly from a builder need to seriously consider how well they are being represented in the process.
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Getting+Your+Offer+Accepted.mp4'
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Buyer+Representation+with+Builder.mp4'
 pullquote: It’s nice to have someone around who is familiar with the ins and outs of the process.
 enclosure_type: video/mp4
 enclosure_time:
