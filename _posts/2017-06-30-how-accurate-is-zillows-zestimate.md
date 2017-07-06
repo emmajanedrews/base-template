@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/mindy-and-jay-robbins--zillow-youtube.jpg
-youtube_code: qoOGcUr8SrY
+youtube_code: GtQEAbmnyM4
 ---
 
 
@@ -24,7 +24,7 @@ youtube_code: qoOGcUr8SrY
 <br>In other words, the Zestimate can be and often is, inaccurate. Right here in Dallas, it tends to be off by an average of 5%.
 <br>
 <br>This might sound like a fairly close evaluation but for those seriously considering buying or selling a home 5% could total about $15,000 in today’s local market
-<br>&nbsp;**{% include pullquote.html %}**
+<br> **{% include pullquote.html %}**
 <br>The best way to make sure that your estimate is accurate and that you are making the most out of a real estate transaction is to hire a real estate professional.
 <br>
 <br>Working alongside someone able to determine a realistic price is going to make a big difference in your pocket.
