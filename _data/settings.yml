@@ -8,14 +8,7 @@ custom_links:
 client:
   name: Mindy and Jay Robbins
   license_number:
-  about_markdown: >
-    Robbins Real Estate Group is a boutique firm focused on home sales in Dallas,
-    Park Cities, Richardson, and the North Dallas suburbs. The company is proudly
-    owned and operated by the husband and wife team of Jay Robbins and Mindy
-    Robbins. If you are looking for a real estate broker in Dallas, Park Cities,
-    Richardson, or the North Dallas suburbs, call the company that will exceed
-    your expectations. Call Mindy and Jay Robbins with Robbins Real Estate
-    Group.
+  about_markdown: 'Robbins Real Estate Group is a boutique firm focused on home sales in Dallas, Park Cities, Richardson, and the North Dallas suburbs. The company is proudly owned and operated by the husband and wife team of Jay Robbins and Mindy Robbins. If you are looking for a real estate broker in Dallas, Park Cities, Richardson, or the North Dallas suburbs, call the company that will exceed your expectations. Call Mindy and Jay Robbins with Robbins Real Estate Group.'
   market: Dallas-Fort Worth Texas Real Estate
   brand: Robbins Real Estate
   brokerage:
@@ -24,8 +17,8 @@ client:
   phone_type:
   phone2:
   phone2_type:
-  email: Mindy@TeamRobbins.com
-  email2: Jay@TeamRobbins.com
+  email: Jay@TeamRobbins.com
+  email2: Mindy@TeamRobbins.com
   url: 'http://www.teamrobbins.com'
 CTAs:
   first_CTA_text: Home Valuation
