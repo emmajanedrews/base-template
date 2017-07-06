@@ -19,11 +19,11 @@ youtube_code: XNDLFObzy-o
 
 When selling your home, keep these three things that buyers look for in mind:
 
-**1. Curb appeal:** Buyers should be impressed from the moment they pull up to the curb. Sweep the driveway and entryway, power wash the exterior, and plant fresh flowers outside the home. You want them to be excited as soon as they step out of the car.
+**1. Curb appeal:** Buyers should be impressed from the moment they pull up to the curb. Sweep the driveway and entryway, power-wash the exterior, and plant fresh flowers outside the home. You want them to be excited as soon as they step out of the car.
 
 {% include pullquote.html %}
 
-**2. Space:** Get rid of all the clutter in your home even if you have a lot of space; excess clutter is one of the biggest turnoffs for buyers. You could rent a storage unit at a minimal cost. For a better return on your final sale price by getting rid of all the knickknacks and making sure all countertop and floor space is available.
+**2. Space:** Get rid of all the clutter in your home even if you have a lot of space; excess clutter is one of the biggest turnoffs for buyers. You could rent a storage unit at a minimal cost. For a better return on your final sale price, get rid of all the knicknacks and make sure all countertop and floor space is available.
 
 **3. Updates:** You don't need to replace the whole kitchen, but try to upgrade things that are outdated. That could be the countertops, appliances, or hardware like the faucet and cabinet pulls.
 
