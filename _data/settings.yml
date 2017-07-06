@@ -62,7 +62,7 @@ socials:
   zillow_url: 'https://www.zillow.com/profile/John-McAdams/'
   trulia_url: 'https://www.trulia.com/profile/john-mcadams-agent-ocean-city-md-zgc0593k/overview'
   yelp_url:
-  podcast_url:
+  podcast_url: https://itunes.apple.com/us/podcast/ocean-city-real-estate-podcast-with-john-mcadams/id1246862457?mt=2
 podcast:
   title: Ocean City Real Estate Podcast with John McAdams
   categories:
