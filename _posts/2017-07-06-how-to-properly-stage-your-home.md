@@ -5,7 +5,7 @@ date: 2017-07-06 13:45:00
 tags:
   - Home Seller Tips
 excerpt: Today I wanted to talk to you about how to stage your home for showings while you’re still living in it.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Patty+Sells+NC/Email+Assets/++Videos/2017/July/Patty+Sells+NC-+How+to+Properly+Stage+Your+Home.mp4'
 pullquote: A homebuyer should be able to envision themselves in the home.
 enclosure_type: video/mp4
 enclosure_time:
