@@ -21,13 +21,13 @@ Today we’d like to introduce you to one of the great new members of our team. 
 
 She had been in real estate for a few years working on her own, but realized that joining a team would be a much better fit for her and a much better place to grow her business. **Once she joined us, things took off quickly.&nbsp;**
 
-She closed one home in her first three months, but now has three homes set to close this month. There has been a lot of learning, but Michelle has taken off quickly. Since her first appointment with Rob, she has consistently receiving weekly appointments. **The focus that she used to spend on lead generation and cold calling can now be spent on ensuring her clients’ transactions move along smoothly.**
+She closed one home in her first three months, but now has three homes set to close this month. There has been a lot of learning, but Michelle has taken off quickly. Since her first appointment with Rob, she has consistently received weekly appointments. **The focus that she used to spend on lead generation and cold calling can now be spent on ensuring her clients’ transactions move along smoothly.**
 
 {% include pullquote.html %}
 
 Michelle is straightforward, honest, and respects her clients. She wants them to be as informed as possible about what they can expect from her and from the market. Here are a few more fun facts about Michelle:
 
-* She is married with three kids, ages 16, nine, and two.
+* She is married with three kids, ages 16, nine, and two
 * She is a big movie buff
 * She loves to bake in her free time
 
