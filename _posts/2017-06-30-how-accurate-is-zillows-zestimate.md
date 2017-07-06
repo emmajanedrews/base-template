@@ -11,8 +11,8 @@ enclosure:
 pullquote: The best way to make sure that your estimate is accurate is to hire a real estate professional.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/mindy-and-jay-robbins--zillow-youtube.jpg
 youtube_code: qoOGcUr8SrY
 ---
 
@@ -33,4 +33,4 @@ youtube_code: qoOGcUr8SrY
 <br>
 <br>**A home’s value is determined by what a buyer is willing to pay as well as what the seller is willing to list it for.** These two figures can be vastly different from what a computer might estimate.
 <br>
-<br>If you’re looking to buy or sell a home, want professional advice, or have any other questions, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+<br>If you’re looking to buy or sell a home, want professional advice, or have any other questions, feel free to give us a call at (214) 444-9014 or send us an email at Jay@TeamRobbins.com. We look forward to hearing from you soon.
