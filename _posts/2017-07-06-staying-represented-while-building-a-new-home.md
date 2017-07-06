@@ -14,7 +14,7 @@ youtube_code: Hy6bFJtVOFg
 ---
 
 
-{% include youtube.html &nbsp;%}
+{% include youtube.html %}
 
 Inventory has been shrinking recently and a lot of buyers are turning to building new homes instead.
 
