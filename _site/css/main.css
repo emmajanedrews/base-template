@@ -2935,7 +2935,8 @@ form select {
   .footer .socials svg {
     fill: #212121; }
     .footer .socials svg:hover {
-      background: #fff; }
+      background: #fff;
+      fill: #8b8786; }
   .footer a {
     color: #212121; }
 
