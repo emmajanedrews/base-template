@@ -31,7 +31,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'https://www.teamrobbins.com/sell/'
   second_CTA_text: Home Search
-  second_CTA_URL: 'https://goo.gl/1s2xvh'
+  second_CTA_URL: 'https://www.teamrobbins.com/results-gallery/?sort=importdate&status=A&custom=41826&area=2935,2922&hood=93950,5382593,594913,96694&city=6261&minprice=250000&proptype=SF,C,VT&photo=1'
   VR_form:
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/005.jpg
