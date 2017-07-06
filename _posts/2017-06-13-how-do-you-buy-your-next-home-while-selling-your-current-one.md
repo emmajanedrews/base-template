@@ -6,7 +6,7 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: Balancing transactions can be tricky. Here’s how we recommend you attack the situation.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Loodmy+Jacques/Boynton+Beach+Real+Estate+Agent-+Listing+Your+Home+While+Searching+for+the+Next.mp4'
 pullquote: 'It can be tricky, but you have more pull as a seller in this market.'
 enclosure_type: video/mp4
 enclosure_time:
