@@ -18,13 +18,13 @@ youtube_code: Tc9odiFLcHk
 
 We give our customers a buyer’s guide that shares the 10 commandments of things you should never do when going through the process. Today I’ve listed those ten things below:
 
-**1. Thou shalt not change your jobs or quit your job during the mortgage period.** Even if you’ve been awarded a promotion or offered a chance to change your environment, you don’t want to make these changes during the loan process. Lenders like consistency, not change.
+**1. Thou shalt not change your job or quit your job during the mortgage period.** Even if you’ve been awarded a promotion or offered a chance to change your environment, you don’t want to make these changes during the loan process. Lenders like consistency, not change.
 
-**2. Thou shalt not buy furniture or decor for your home before you buy it.**Sometimes people use their funds that they have set aside for the closing and buy furniture or home decor. It’s easy to get excited, but you don’t even own the home yet! Focus on the mortgage first and then when you close, you can start looking at furniture for your home.
+**2. Thou shalt not buy furniture or decor for your home before you buy it.&nbsp;**Sometimes people use their funds that they have set aside for the closing and buy furniture or home decor. It’s easy to get excited, but you don’t even own the home yet! Focus on the mortgage first and then when you close, you can start looking at furniture for your home.
 
 **3. Thou shalt not use credit cards excessively and miss your payment due dates.** Little dings can affect your credit and you’d be surprised at how much that can put you in jeopardy of not being approved for your home loan. Keep that spending at a minimum and make your payments on time.
 
-**4. Thou shalt not buy a car, boat, truck, or any large item.**It’s not a good idea to get a loan on that item, and even if you’re paying cash, it’s better to wait to make that purchase until your mortgage process is complete.
+**4. Thou shalt not buy a car, boat, truck, or any large item.&nbsp;**It’s not a good idea to get a loan on that item, and even if you’re paying cash, it’s better to wait to make that purchase until your mortgage process is complete.
 
 **5. Thou shalt not omit debts from your credit application.** A lot of times folks want to make themselves look good on paper and leave stuff off their loan application. Omitting any items could get you in trouble and jeopardize your loan process if any of those things come up.
 
