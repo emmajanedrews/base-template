@@ -25,6 +25,6 @@ Some homeowners will need to stage their home for showings while they’re still
 
 **2. Re-define each room’s purpose.** Adjusting the use of converted spaces back to their original purpose will help you get the home sold.
 
-**3. Make use of a storage unit.** Investing in a storage unit close to your home will give you quick access to items that you may need, while still allowing you to remove some items so that seller’s can see the entire space without clutter.
+**3. Make use of a storage unit.** Investing in a storage unit close to your home will give you quick access to items that you may need, while still allowing you to remove some items so that sellers can see the entire space without clutter.
 
 If you have any questions or you’d like to schedule a free in-home consultation with our team stager, give us a call. We’d be happy to help!
