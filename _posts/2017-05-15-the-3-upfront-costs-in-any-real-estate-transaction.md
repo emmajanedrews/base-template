@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: IgeD-G1BItA
+youtube_code: eiIGe5GS0cU
 ---
 
 
@@ -19,8 +19,8 @@ youtube_code: IgeD-G1BItA
 
 Any real estate transaction will come with three upfront costs:
 
-1. **Earnest money**: This is like a security deposit you pay as if you were renting. Usually, it's 1% of the purchase price and acts as a safety net for the home sale so you can move forward with the transaction.&nbsp;
-2. **Home inspection**: This is a huge part of the process and the cost usually depends on the size and age of the home. It's usually around $300 to $500, but it's the best money you'll spend throughout the process. Your due diligence is an important part of buying a home, and during inspection periods you can also do sewer and radon tests.&nbsp;
+1. **Earnest money**: This is like a security deposit you pay as if you were renting. Usually, it's 1% of the purchase price and acts as a safety net for the home sale so you can move forward with the transaction.
+2. **Home inspection**: This is a huge part of the process and the cost usually depends on the size and age of the home. It's usually around $300 to $500, but it's the best money you'll spend throughout the process. Your due diligence is an important part of buying a home, and during inspection periods you can also do sewer and radon tests.
 3. **Appraisals**: You'll have to pay for this requirement if you're getting a home loan. The appraiser will go to the home and opine what it's actually worth, and the cool part is that it will keep you from overpaying for the house. This typically costs between $550 and $800.
 
 {% include pullquote.html %}
