@@ -1,55 +1,58 @@
 audit_header: false
-title: -- CLIENT BRAND --
+title: '-- CLIENT BRAND --'
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: true
 custom_links:
   - title: Our Listings
-    url: http://scottparealestate.com/featured_properties
+    url: 'http://scottparealestate.com/featured_properties'
   - title: About
-    url: http://scottparealestate.com/about_
-
+    url: 'http://scottparealestate.com/about_'
 client:
   name: Scott Irvin
   license_number:
-  about_markdown: |
-    Over the years I have made it my focus to selectively identify the essential needs my buyers and sellers desire from me daily. This focus over the years has given me a keen sense to meeting and exceeding the needs and expectations of my clients, day-after-day. This also explains why close to 100% of my clients score me at a level of 9.8 out of 10 or higher, on average. There is nothing more rewarding to our team than to earn the repeated business of you, your family, and your friends! If there is ever anything I can do for you please don''t hesitate to contact me…and ask me about my Raving Fan Club and how it can help you!
+  about_markdown: >
+    Over the years I have made it my focus to selectively identify the essential
+    needs my buyers and sellers desire from me daily. This focus over the years
+    has given me a keen sense to meeting and exceeding the needs and expectations
+    of my clients, day-after-day. This also explains why close to 100% of my
+    clients score me at a level of 9.8 out of 10 or higher, on average. There is
+    nothing more rewarding to our team than to earn the repeated business of you,
+    your family, and your friends! If there is ever anything I can do for you
+    please don''t hesitate to contact me…and ask me about my Raving Fan Club and
+    how it can help you!
   market: Greater Philadelphia
   brand: Scott Irvin and Associates
   brokerage: REMAX Centre
-  address: 2701 York Rd<br>Jamison, PA 18929
+  address: '2701 York Rd<br>Jamison, PA 18929'
   phone: 215-918-1920
   phone_type:
   phone2:
   phone2_type:
   email: Scott@ScottIrvin.com
-  url: http://www.ScottIrvin.com
-
+  url: 'http://www.ScottIrvin.com'
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
-  VR_form: http://oi.vresp.com?fid=b659b90932
-
+  second_CTA_URL: 'https://www.parealestatesearch.com/'
+  VR_form: 'http://oi.vresp.com?fid=b659b90932'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/005.jpg
     CTA_title: Looking to Buy a Home?
     CTA_text: Search the entire MLS for homes located in -- MARKET --.
     CTA_link_text: Home Search Tool
     CTA_url: /homesearch/
-
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
+  headshot_path: 'http://fillmurray.com/200/200'
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: http://eyegoop.com
-
+  url: 'http://eyegoop.com'
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
@@ -58,58 +61,54 @@ welcome_box:
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
-
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/gettingbuckshomessold/
-  linkedin_url: https://www.linkedin.com/in/scott-irvin-a86b5841
-  gplus_url: https://plus.google.com/103156464819315376827
-  youtube_url: https://www.youtube.com/channel/UCUMAKwhKI5qqoQSJVT568lg
+  facebook_url: 'https://www.facebook.com/gettingbuckshomessold/'
+  linkedin_url: 'https://www.linkedin.com/in/scott-irvin-a86b5841'
+  gplus_url: 'https://plus.google.com/103156464819315376827'
+  youtube_url: 'https://www.youtube.com/channel/UCUMAKwhKI5qqoQSJVT568lg'
   twitter_url:
   instagram_url:
   pinterest_url:
-  zillow_url: http://www.zillow.com/profile/Scott-Irvin/
-  trulia_url: https://www.trulia.com/profile/scott-irvin-associates-agent-doylestown-pa-zgd72n0n/overview
-  yelp_url: https://www.yelp.com/biz/scott-irvin-and-associates-doylestown
+  zillow_url: 'http://www.zillow.com/profile/Scott-Irvin/'
+  trulia_url: 'https://www.trulia.com/profile/scott-irvin-associates-agent-doylestown-pa-zgd72n0n/overview'
+  yelp_url: 'https://www.yelp.com/biz/scott-irvin-and-associates-doylestown'
   podcast_url:
-
 podcast:
   title: Greater Philadelphia Real Estate Podcast
-  categories: Education
+  categories:
+    - Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
   author: '-- CLIENT NAME --'
-
 images:
-  client_headshot_path: http://i.imgur.com/fCc5ZbX.jpg
+  client_headshot_path: 'http://i.imgur.com/fCc5ZbX.jpg'
   hero_logo_path: /img/logo.png
   logo_width_number: 80
   hero_text: Real Estate Video Journal
-  hero_background_hex: '#3B342A'
+  hero_background_hex: '#3b342a'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#cfa93d'
-  theme_color: '#3B342A'
+  theme_color: '#3b342a'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: "#000"
-
+  shadow_color: '#000000'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
   button_background_color: '#ffffff'
-  button_text_color: '#3B342A'
+  button_text_color: '#3b342a'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'
