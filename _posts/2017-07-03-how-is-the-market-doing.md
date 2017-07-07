@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Is the Philadelphia Market Doing?
+title: How Is the Market Doing?
 date: 2017-07-03 00:00:00
 tags:
   - Market Update
