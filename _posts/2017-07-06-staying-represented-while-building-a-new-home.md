@@ -32,7 +32,7 @@ Next, buyers should remember that **many builders use their own purchase agreeme
 
 So having someone who is representing you available to read and interpret these kinds of documents will be very important to the process and your understanding of it.
 
-Finally, **the purchase of a home is an emotional decision**. All else aside, a home is somewhere you are going to put down roots, make memories, and spend time with your family. It can be hard to separate yourself from this emotion so having someone who will be able to help you do so is greatly helpful.&nbsp;
+Finally, **the purchase of a home is an emotional decision**. All else aside, a home is somewhere you are going to put down roots, make memories, and spend time with your family. It can be hard to separate yourself from this emotion, so having someone who will be able to help you do so is greatly helpful.&nbsp;
 
 Ultimately it’s nice to have someone around who is familiar with the ins and outs of the process and can help you make the many decisions associated with homeownership.
 
