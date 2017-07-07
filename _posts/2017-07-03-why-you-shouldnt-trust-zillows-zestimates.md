@@ -6,7 +6,7 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: 'To get the most accurate home valuation possible, don’t go to Zillow. Use this method instead.'
-enclosure: 'To get the most accurate home valuation possible, don’t go to Zillow. Use this method instead.'
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Philipp+Fries/videos/Tampa+Bay+Area+Real+Estate+Agent-+You+Can%2527t+Trust+Zestimates.mp4'
 pullquote: Zillow’s data is often outdated and inaccurate.
 enclosure_type: video/mp4
 enclosure_time:
