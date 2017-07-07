@@ -4,7 +4,7 @@ title: How Is the Market Doing?
 date: 2017-07-03 00:00:00
 tags:
   - Market Update
-excerpt: What’s happening in the Philadelphia real estate market this summer? I’ll go over the latest market update today.
+excerpt: What’s happening in the real estate market this summer? I’ll go over the latest market update today.
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Scott+Irvin/Philadelphia+Real+Estate+Philadelphia+real+estate+update.mp4'
 pullquote: The market is very strong overall.
 enclosure_type: video/mp4
