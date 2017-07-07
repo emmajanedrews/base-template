@@ -5,6 +5,8 @@ show_custom_links: true
 custom_links:
   - title: Testimonials
     url: /testimonials.html
+  - title: Our Team
+    url: /our-team.html
 
 client:
   name: Tom Cafarella
