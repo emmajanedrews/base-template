@@ -1,0 +1,39 @@
+<!DOCTYPE html><html><head><meta http-equiv="X-UA-Compatible" content="IE=Edge"/></head><body onload="init()"><script type="text/javascript">
+
+function init() {
+  var cb = window;
+  var tmpWin;
+  var id = 'gtn-roster-iframe-id';
+  while (true) {
+    try {
+      if (cb.frames[id]) {
+        // Found the iframe we want.
+        break;
+      }
+    } catch (e) {
+      // May get exception if cross domain.
+    }
+
+    // If a window is its own parent, we need to try opener.
+    if (cb == cb.parent) {
+      // This could still be in a popout window.
+      if (cb.opener) {
+        // It is!  Hooray!
+        cb = cb.opener;
+      } else {
+        // This is a failure scenario where we can't find the parent frame.
+        break;
+      }
+    } else {
+      // This is where we walk up frames in a page to find the parent.
+      cb = cb.parent;
+    }
+  }
+  if (cb.frames[id]) {
+    cb.frames[id]['_GC_OnFrameReady'](window);
+  } else {
+    throw Error();
+  }
+}
+
+</script></body></html>

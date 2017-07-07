@@ -195,9 +195,6 @@
 <loc>localhost:4000/about/</loc>
 </url>
 <url>
-<loc>localhost:4000/core-values.html</loc>
-</url>
-<url>
 <loc>localhost:4000/homesearch/</loc>
 </url>
 <url>
@@ -208,6 +205,9 @@
 </url>
 <url>
 <loc>localhost:4000/search.html</loc>
+</url>
+<url>
+<loc>localhost:4000/testimonials.html</loc>
 </url>
 <url>
 <loc>localhost:4000/thankyou/</loc>
@@ -238,5 +238,9 @@
 </url>
 <url>
 <loc>localhost:4000/page10/</loc>
+</url>
+<url>
+<loc>localhost:4000/img/frame3.html</loc>
+<lastmod>2017-07-06T21:54:50-05:00</lastmod>
 </url>
 </urlset>

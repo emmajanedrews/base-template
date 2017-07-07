@@ -1,0 +1,33 @@
+---
+layout: page
+title: Testimonials
+---
+<!-- blog feed -->
+{% for post in site.tags.Testimonials %}
+<div class="row">
+	<div class="col-lg-8 col-lg-offset-2">
+
+ 	 <h2 class="post-overview-title"><a class="post-link" href="{{ post.url }}">{{ post.title | truncate: 70 }}</a></h2>
+ 	 <hr />
+  </div>
+    <div class="col-lg-2 col-lg-offset-2 testimonial-excerpts">
+
+			<a href="{{post.url}}">
+				{% if post.use_youtube_image == true %}
+				<img src="http://img.youtube.com/vi/{{post.youtube_code | remove: 'https://youtu.be/' | remove: 'https://www.youtube.com/watch?v='}}/maxresdefault.jpg" alt="{{post.title}}" class="testimonial-image"  height="150px" width="auto" />
+				{% else %}
+					{% if post.youtube_alternate_image != null %}
+						<img src="{{post.youtube_alternate_image}}" alt="{{post.title}}"  class="testimonial-image" height="150px" width="auto"/>
+					{% else %}
+						<img src="{{ site.data.settings.images.post_cover }}" alt="{{post.title}}"  class="testimonial-image" height="150px" width="auto"/>
+					{% endif %}
+				{% endif %}
+			</a>
+		</div>
+		<div class="col-lg-6">
+
+			{{ post.excerpt | strip_html | prepend: "<p class='excerpt'>" | append: "<p>" | truncate: 320 }}<br><br>
+				<a href="{{post.url}}" class="readlink">Read More</a>
+		</div>
+    </div>
+{% endfor %}

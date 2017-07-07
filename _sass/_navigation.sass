@@ -7,28 +7,30 @@
 	overflow: hidden
 
 .navbar-andross .navbar-brand
-	color: $brand
 	padding-top: 20px
 	// padding-bottom: 33px
 	font-size: 20px
 	text-transform: uppercase
 	max-width: 65%
+	// color: #fff
 
 .navbar-nav>li
 	margin-right: 10px
 	@include transition
 
-.navbar-left>li>a
+.nav-item
 	border: 0
 	background: transparent
-	color: $brand
+	color: #fff
 	margin-top: 15px
 	&:hover
 		background: transparent
-		color: $brand-light
+		color: #D4DA0C
 
+.nav>li>a:focus, .nav>li>a:hover
+	background: transparent
 .fa-bars
-	color: $brand
+	color: #fff
 
 .navbar-toggle
 	margin-top: 20px
@@ -51,6 +53,12 @@
 			overflow: hidden
 			display: none
 			opacity: 0
+
+@media (max-width: 767px)
+	.nav-item
+		color: $brand
+	.navbar-brand
+		color: #fff
 .scroll-nav-color
 	background: transparentize($theme, 0)
 	animation: .5s fadeNavigation ease-in-out
@@ -73,3 +81,6 @@
 	+shadow
 	background: $theme
 	animation: .3s fadein ease-in-out
+
+.navbar-left-scroll
+	color: $brand

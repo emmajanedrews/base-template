@@ -3,24 +3,24 @@ title: Real Estate Investing Made Easy
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: true
 custom_links:
-  - title: Core Values
-    url: /core-values
+  - title: Testimonials
+    url: /testimonials.html
 
 client:
-  name:
+  name: Tom Cafarella
   license_number:
   about_markdown: |
 
   market:
-  brand:
+  brand: Ocean City Development
   brokerage:
-  address:
-  phone:
+  address: 20 Delcarmine Street<br>Wakefield, MA 01880
+  phone: 781-916-8800
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: tc@ocbuyshouse.com
+  url: http://www.ocbuyshouses.com
 
 CTAs:
   first_CTA_text: Register for a lunch and learn

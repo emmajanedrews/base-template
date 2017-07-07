@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Real Estate Investing Made Easy</title>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</description>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Ocean City Development - your professional  Real Estate Agents.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 03 Jul 2017 19:50:41 -0500</pubDate>
-    <lastBuildDate>Mon, 03 Jul 2017 19:50:41 -0500</lastBuildDate>
+    <pubDate>Fri, 07 Jul 2017 00:22:40 -0500</pubDate>
+    <lastBuildDate>Fri, 07 Jul 2017 00:22:40 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -18,12 +18,6 @@
         <pubDate>Sat, 01 Jul 2017 15:47:00 -0500</pubDate>
         <link>localhost:4000/weeklyrecording/weeklyrecording.html</link>
         <guid isPermaLink="true">localhost:4000/weeklyrecording/weeklyrecording.html</guid>
-        
-        <category>Q</category>
-        
-        <category>&amp;</category>
-        
-        <category>A</category>
         
         
         <category>weeklyrecording</category>
@@ -40,12 +34,6 @@
         <link>localhost:4000/qa/QandAtest.html</link>
         <guid isPermaLink="true">localhost:4000/qa/QandAtest.html</guid>
         
-        <category>Q</category>
-        
-        <category>&amp;</category>
-        
-        <category>A</category>
-        
         
         <category>QA</category>
         
@@ -60,12 +48,6 @@
         <pubDate>Sat, 01 Jul 2017 15:47:00 -0500</pubDate>
         <link>localhost:4000/strategysession/strategysessions.html</link>
         <guid isPermaLink="true">localhost:4000/strategysession/strategysessions.html</guid>
-        
-        <category>Q</category>
-        
-        <category>&amp;</category>
-        
-        <category>A</category>
         
         
         <category>strategysession</category>
