@@ -23,11 +23,11 @@ As we head into the summer months and the third quarter, it’s a good time to l
 
 Overall, inventory in our market is down 29% from this time last year. In the higher price points, those statistics changed. Demand is strongest for homes under $300,000. Inventory in this price point has dropped by 54% year over year. Multiple offer situations are incredibly common in this price point.
 
+{% include pullquote.html %}
+
 In the $300,000 to $600,000 price point, inventory has dropped 23% compared to this time last year. This market is still strong.
 
 When you look at the $600,000 to $900,000 price range, the market is not as strong as it is in those lower price points. Inventory dropped 14% year over year, but this is still a good market.
-
-{% include pullquote.html %}
 
 We should start to see inventory creep up over the next few months, as buyers tend to slow down a bit in the summer. **However, the market is still doing very well overall.**
 
