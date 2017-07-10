@@ -26,7 +26,7 @@ I want to make sure that your home can sell for top dollar, and there are some s
 
 {% include pullquote.html %}
 
-We have an extensive list of contractors, painters, landscapers, and stagers that can truly make your home shine like a diamond. As for specific improvements, that’s determined on a case-by-case basis, which I am more than happy to assist with. Here are five things sellers should to focus on when preparing their home for market:
+We have an extensive list of contractors, painters, landscapers, and stagers that can truly make your home shine like a diamond. As for specific improvements, those are determined on a case-by-case basis, which I am more than happy to assist with. Here are five things sellers should focus on when preparing their home for the market:
 
 **1. Landscaping.** Statistically speaking, potential buyers will experience an emotional attachment to a home they are touring within the first few minutes of arriving at the property. The landscaping is the first point of contact for potential homebuyers on their visit, which makes it an extremely important part of preparing your home.
 
