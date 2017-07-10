@@ -31,7 +31,7 @@ If you’re looking to cut energy costs for the summer season, here are nine use
 
 **5. Unplug, unplug, unplug.** Computers, TVs, mobile devices, and any other devices such as these that are plugged in can use up energy while they’re not in use. Unplug them when you don’t use them and you’re not around so they’re not drawing energy while you’re not there.
 
-1. Cut back on oven usage. Using a grill or outdoor cooktop instead will reduce the amount of heat being generated in your house.
+**6. Cut back on oven usage.** Using a grill or outdoor cooktop instead will reduce the amount of heat being generated in your house.
 
 **7. Turn down the thermostat on your water heater.** Lowering the temperature from—say—130 degrees to 115 degrees can save you around $50 a year, which can add up over the long term.
 
