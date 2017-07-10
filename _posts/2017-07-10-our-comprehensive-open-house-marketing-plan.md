@@ -6,7 +6,7 @@ tags:
   - Real Estate
 excerpt: "Our team has a proven track record of successful open houses, so I thought I'd share some of our secrets."
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/2017+Recruiting/Our+Comprehensive+Open+House+Marketing+Plan+-+Charleston+%2526+Mt.+Pleasant+Real+Estate+Agent.mp4'
-pullquote: 'To get people inside the home, the outside has to be beautiful.'
+pullquote: To get people inside the home, the outside has to be beautiful.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
