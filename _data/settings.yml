@@ -20,7 +20,7 @@ client:
   phone2:
   phone2_type:
   email: shawnabrooks@kw.com
-  url: http://www.shawnashometeam.com
+  url:
 
 CTAs:
   first_CTA_text: Home Valuation
