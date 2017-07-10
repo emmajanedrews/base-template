@@ -31,4 +31,4 @@ You probably want to consider other things, like timing. If you need to get out 
 
 Another reason we like to rank offers is setting up a couple backup offers. This will not only give you a buyer to go to in case the winning bidder backs out of the deal, it also gives you much more negotiating power during repair requests. Buyers might have a home inspection, and ask you to repair certain things or reduce the price of the home to account for the costs. However, you can tell them you won't make those repairs or reduce the price because you have a backup offer in place if they don't want to go through with it.
 
-There are many more nuances to getting the most out of multiple offers, so don't hesitate to give me a call or send me an email with you have any questions or comments. I'd love to hear from you.
+There are many more nuances to getting the most out of multiple offers, so don't hesitate to give me a call or send me an email if you have any questions or comments. I'd love to hear from you.
