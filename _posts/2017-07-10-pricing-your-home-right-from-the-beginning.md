@@ -18,9 +18,9 @@ youtube_code: Ld6A2Eh20IM
 
 As a seller, it’s really important for you to do your research. It’s important for you know what the value of your home really is. Generally, the value comes to you in a range and you’ll want to make sure you’re aware of that range so you can price it accordingly.
 
-Sometimes people are tempted to price it on the high side because they want to get the most money out of their home. By doing that, you run the risk of isolating a lot of buyers who either don’t think your home is worth that much or it’s outside the amount that they can afford or be pre-approved for.&nbsp;
+Sometimes people are tempted to price it on the high side because they want to get the most money out of their home. **By doing that, you run the risk of isolating a lot of buyers** who either don’t think your home is worth that much or it’s outside the amount that they can afford or be pre-approved for.&nbsp;
 
-You can’t price your home too high if you want to get the maximum response out of the market, but that doesn’t mean that you’ll be selling your home at a discount price. What it means is that we’re pricing it strategically so that more people see it, more people have an interest in it, and more people actually come through the property to see it in person.
+You can’t price your home too high if you want to get the maximum response out of the market, but that **doesn’t mean that you’ll be selling your home at a discount price.** What it means is that we’re pricing it strategically so that more people see it, more people have an interest in it, and more people actually come through the property to see it in person.
 
 {% include pullquote.html %}
 
