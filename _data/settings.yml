@@ -26,10 +26,10 @@ client:
   url: 'http://troycopeland.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'http://cloudcma.com/api_widget/1edf8c56a990235c10440d6124da451f/show?post_url=cloudcma.com&source_url=ua'
+  first_CTA_URL: 'https://www.friscoarearealestate.com/cma/property-valuation/'
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
-  VR_form: 'http://oi.vresp.com?fid=df8fa1ee3d'
+  second_CTA_URL: 'https://www.friscoarearealestate.com/search/advanced_search/'
+  VR_form:
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: Looking to Buy a Home?
