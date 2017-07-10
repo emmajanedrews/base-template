@@ -1,126 +1,693 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title></title>
+    <title>Greater Indianapolis Real Estate Video Blog with Shawna Brooks</title>
     <link>localhost:4000</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</description>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Shawna's Home Team - your professional Indianapolis Real Estate Agents.</description>
     <language>en</language>
-    <managingEditor></managingEditor>
-    <lastBuildDate>2017-06-20 11:07:57 -0500</lastBuildDate>
-    <media:copyright></media:copyright>
+    <managingEditor>Shawna Brooks</managingEditor>
+    <lastBuildDate>2017-07-10 15:23:32 -0500</lastBuildDate>
+    <media:copyright>Shawna Brooks</media:copyright>
     <media:thumbnail url="/img/podcast.jpg"/>
-    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
+    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Indianapolis, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
-      <itunes:email></itunes:email>
-      <itunes:name></itunes:name>
+      <itunes:email>shawnabrooks@kw.com</itunes:email>
+      <itunes:name>Shawna Brooks</itunes:name>
     </itunes:owner>
-    <itunes:author></itunes:author>
+    <itunes:author>Shawna Brooks</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="/img/podcast.jpg"/>
-    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the  Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</itunes:summary>
+    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Indianapolis, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Indianapolis Area Real Estate Market</itunes:subtitle>
+    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Shawna's Home Team - your professional Indianapolis Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
+        <title>What Do the Number of Home Showings Say About Our Market?</title>
+        <link>localhost:4000/what-do-number-of-home-showings-say.html</link>
         
           <category>Market Update</category>
         
-          <category>Real Estate</category>
-        
-          <category>Home Seller Tips</category>
-        
-        <author></author>
-        <pubDate>2016-10-04 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <author>Shawna Brooks</author>
+        <pubDate>2017-07-05 16:13:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate-+Your+latest+Indianapolis+market+update.mp4</guid>
         <description>
 
-}
+Over the last couple of weeks, we’ve been noticing a little bit of a stillness in our real estate market. We also noticed this little hiccup wasn’t just happening to our local market—it was happening nationwide.
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+Industry experts are calling this a “blip on the radar,” and it will be interesting to see if it carries into July. **If it happens for two months in a row, we’re experiencing a trend, but for now it’s just a blip on the radar. **
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+When looking at the numbers for the first half of this year in the 46143 zip code, I noticed a low number of showings in January, but that number climbed in February and March. For example, in January, for homes priced between $200,000 and $300,000, there were 318 showings. In February, that number rose to 412. In March, it went up to 592. In April, that momentum caused it to climb all the way up to 671. In May, that number plateaued around 670. In June, it dropped to 650.
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+“FOR NOW, THIS STILLNESS IS JUST A BLIP ON THE RADAR.”
 
-“This is an example of a pull quote”
+This is nothing to be alarmed about, but like I said above, this decline was something the whole market felt from coast to coast. In any case, we will stay on top of this development. At Shawna’s Home Team, **our average days on market is still just 22 days, and our homes are selling for 98.6% of our asking price. **
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+If you have any questions or you’re thinking about buying or selling a home in our market, don’t hesitate to reach out to us by phone or email. We’d be glad to help you.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate-+Your+latest+Indianapolis+market+update.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate-+Your+latest+Indianapolis+market+update.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
-        <itunes:author></itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:subtitle>
+
+Over the last couple of weeks, we’ve been noticing a little bit of a stillness in our real estate market. We also noticed this little hiccup wasn’t just happening to our local market—it was happening nationwide.
+
+</itunes:subtitle>
+        <itunes:author>Shawna Brooks</itunes:author>
+        <itunes:summary>
+
+Over the last couple of weeks, we’ve been noticing a little bit of a stillness in our real estate market. We also noticed this little hiccup wasn’t just happening to our local market—it was happening nationwide.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Indianapolis, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>A Fox in Space</title>
-        <link>localhost:4000/a-fox-in-space.html</link>
+        <title>Dont Be Afraid of This Sellers Market </title>
+        <link>localhost:4000/dont-be-afraid-of-this-sellers-market.html</link>
         
-          <category>Market Update</category>
+          <category>Home Buyer Tips</category>
         
-          <category>Real Estate</category>
-        
-          <category>Home Seller Tips</category>
-        
-        <author></author>
-        <pubDate>2016-09-28 00:00:00 -0500</pubDate>
+        <author>Shawna Brooks</author>
+        <pubDate>2017-06-29 10:19:00 -0500</pubDate>
         <guid></guid>
         <description>
 
-}
+These days, a lot of sellers are worried about finding their next home. They say, “We know our home will sell quickly, but we just can’t find the perfect home on the market. What should we do about that?”
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+On our team, we work to make up for that challenge every single day. We have a team of five agents who are dedicated to getting on the phone for two hours every morning to call homeowners in the neighborhoods our buyers are looking in.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+This happens every single day from 9 a.m. to 11 a.m. You can even stop by our office and see our team in action!
 
+We call these homeowners to let them know that we have a pre-approved buyer interested in their neighborhoods. We tell them, “Our buyer has seen everything currently on the market. I’m calling to see if you know of anyone in your area who wants to sell their home.”
 
-  list item
-  list item
-  list item
-  list item
-  list item
+“OUR AGENTS ARE PROACTIVELY FINDING HOMES BEFORE THEY EVEN HIT THE MARKET!”
 
+Neighbors are giving us the inside scoop on who wants to sell in their area. Sometimes, the homeowner that we call ends up selling their home. It’s been a lot of fun to take our buyers out to these neighborhoods and show them a home that doesn’t even have a sign in the yard yet.
 
+So, if you’re scared of this market, just know that you don’t have to be. There are proactive agents out there doing whatever it takes to find you a home. I can tell you right now that we have not let any of our clients go without a home in this market.
 
-  list item
-  list item
-  list item
-  list item
-  list item
-
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+If you have any questions, please don’t hesitate to give me a call or send me an email. My team and I would be happy to help you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
-        <itunes:author></itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:subtitle>
+
+These days, a lot of sellers are worried about finding their next home. They say, “We know our home will sell quickly, but we just can’t find the perfect home on the market. What should we do about that?”
+
+</itunes:subtitle>
+        <itunes:author>Shawna Brooks</itunes:author>
+        <itunes:summary>
+
+These days, a lot of sellers are worried about finding their next home. They say, “We know our home will sell quickly, but we just can’t find the perfect home on the market. What should we do about that?”
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Indianapolis, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
-    <copyright></copyright>
-    <media:credit role="author"></media:credit>
+      <item>
+        <title>3 Things Every First-Time Homebuyer Should Know</title>
+        <link>localhost:4000/3-things-every-first-time-homebuyer.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Shawna Brooks</author>
+        <pubDate>2017-06-16 10:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate-+3+tips+to+protect+first-time+homebuyers.mp4</guid>
+        <description>
+
+I want to share my three top tips to help first-time homebuyers protect themselves during this crucial period:
+
+
+  Know what you can afford
+
+
+Your mortgage is only a part of what you will need to pay when you buy a home. Homeownership comes with plenty of other expenses, including closing costs, taxes, property insurance, maintenance costs, and homeowner association fees.
+
+Once you have a clear idea of how much all of these items will cost, you can compare it to your current monthly expenses. Then you can figure out the kind of home you can honestly afford without getting carried away and without getting bogged down in debt.
+
+
+  Choose your lender wisely
+
+
+Choosing a lender is not something you should base only on the lowest rate. A competent and trustworthy lender will offer you advice on how to improve your credit and also help you take advantage of special homebuyer programs that might benefit you.
+
+But how do you find the right lender specifically for you? It’s often best to get recommendations from friends who have already worked with a lender or from a real estate agent you trust.
+
+“AN INSPECTION WILL COST ABOUT $300, BUT IT CAN SAVE YOU THOUSANDS.”
+
+
+  Don’t overlook the details
+
+
+There are many details that go into buying a home, and missing any of them can be a costly mistake. I always advise buyers to get a professional inspection done on their home, separate from the appraisal. An inspection will set you back about $300, but it can save you thousands of dollars down the line, and it can even prevent you from making a decision to buy a home that you would later regret.
+
+A second example is understanding the fine print in the various contracts you will be signing. If there’s anything that isn’t clear to you, talk to your real estate agent and have it spelled out.
+
+The process of buying a home can be intimidating, and that’s why professional real estate agents are there to help. These three quick tips are only the start of the things you need to watch out for when buying your first home.
+
+If you need more advice or you are ready to start looking for a home, give me a call or send me an email. I love working with first-time homebuyers, and I can help you get your perfect new home with minimum hassle.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate-+3+tips+to+protect+first-time+homebuyers.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate-+3+tips+to+protect+first-time+homebuyers.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+I want to share my three top tips to help first-time homebuyers protect themselves during this crucial period:
+
+</itunes:subtitle>
+        <itunes:author>Shawna Brooks</itunes:author>
+        <itunes:summary>
+
+I want to share my three top tips to help first-time homebuyers protect themselves during this crucial period:
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Indianapolis, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to Get Your Home Sold If You Have a Pet</title>
+        <link>localhost:4000/tips-for-pet-owners-who-want-to-sell.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Shawna Brooks</author>
+        <pubDate>2017-05-18 12:40:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+The good news is, many homebuyers are looking for a pet-friendly home.
+
+Two out of three of us have a pet, and 61% of pet owners say they have trouble finding a home that is a good match for their pet.
+
+In fact, a recent survey estimates that 31% of animal owners frequently don’t put in an offer because a home would not suit their pet.
+
+This means that if your home is a good match for a pet, it will be attractive to a large pool of dedicated animal owners.
+
+On the other hand, 67% of Realtors also estimate that actually having a pet in your home can make it harder for you to sell.
+
+So what can you do? Here are three things I typically recommend:
+
+1. Repair any damage
+
+Floors, walls, doors, the yard — these are some typical areas that pets love to chew, scratch, and dig up.
+
+Repairing this damage is an investment that will pay for itself many times over in terms of a higher selling price.
+
+2. Get a professional to remove pet odors
+
+Many pet owners are less sensitive to odors in their home than prospective buyers will be.
+
+“PET OWNERS ARE LESS SENSITIVE TO ODORS IN THEIR HOME THAN PROSPECTIVE BUYERS ARE.”
+
+That’s why you should hire a professional cleaning crew to clean any carpets, rugs, or upholstery that have absorbed pet odors.
+
+Once you’re done with the cleaning, ask a friend or your Realtor for a sniff assessment to make sure the job is really complete.
+
+3. Take your pet out during showings
+
+Some people are afraid of animals. Others are allergic. And regardless of the time, money, and effort you’ve put in to clean and repair your home, many buyers will be prejudiced by knowing that a pet currently lives there.
+
+That’s why I recommend taking your pet out during showings and also removing any pet objects such as toys, food bowls, or scratching posts.
+
+By following these three simple guidelines, you will be able to sell your home for top dollar, whether the buyer is a pet owner or not.
+
+And in case you have any questions or concerns about preparing your home for a sale, give me a call. I’m here to help.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+The good news is, many homebuyers are looking for a pet-friendly home.
+
+</itunes:subtitle>
+        <itunes:author>Shawna Brooks</itunes:author>
+        <itunes:summary>
+
+The good news is, many homebuyers are looking for a pet-friendly home.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Indianapolis, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>FHA Loans Aren't Just for First-Time Homebuyers</title>
+        <link>localhost:4000/fha-loans-arent-just-for-first-time.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Shawna Brooks</author>
+        <pubDate>2017-03-28 12:14:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate-+You+probably+didn%2527t+know+this+about+FHA+loans.mp4</guid>
+        <description>
+
+Do you know if you qualify for an FHA mortgage?
+
+You may already know that the Indianapolis market is a super hot seller’s market right now. Inventory is low and buyers are scrambling for properties, and the largest majority of buyers today are FHA buyers. However, FHA mortgages aren’t just for first-time homebuyers. That’s a common misconception.
+
+FHA mortgages are government loans, not just first-time buyer loans. So how do you qualify?
+
+For starters, you can’t have more than one FHA loan at a time. If you currently own a property with an FHA mortgage, you’ll need to refinance it to a conventional mortgage or sell the property if you want to buy another home with an FHA loan.
+
+There are a few rare exceptions, however. For example, you might be able to get a second if you got one as a single buyer and then got married, had kids, and no longer fit in the home anymore but wanted to rent it out instead of selling it.
+
+“FHA LOAN AMOUNTS ARE NOW ALL THE WAY UP TO $308,200.”
+
+For the most part, anyone can get an FHA mortgage as long as you have a credit score of 580 or higher and can make a down payment of 3.5%. That low down payment is one of the reasons FHA loans are so attractive right now; with interest rates so low, it doesn’t cost buyers hardly anything to borrow money. It’s smarter to possibly have your money earning more for you in other places rather than dumping it into your down payment.
+
+Here’s the kicker: FHA loan amounts are all the way up to $308,200.
+
+We’re seeing a lot of our sellers pleasantly surprised to find out that even though they’re not first-time buyers, they can still qualify for an FHA mortgage for their next home. In fact, we recently helped a couple meet with a builder about a beautiful new $200,000 home that they’re buying with an FHA loan.
+
+If you have any questions about buying a home with an FHA loan or you’re thinking about selling your house in the Indianapolis area, give me a call or send me an email soon. I’d love to help you out!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate-+You+probably+didn%2527t+know+this+about+FHA+loans.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate-+You+probably+didn%2527t+know+this+about+FHA+loans.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Do you know if you qualify for an FHA mortgage?
+
+</itunes:subtitle>
+        <itunes:author>Shawna Brooks</itunes:author>
+        <itunes:summary>
+
+Do you know if you qualify for an FHA mortgage?
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Indianapolis, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>We Have 5 Amazing New Listings Coming on the Market</title>
+        <link>localhost:4000/we-have-5-amazing-new-listings-coming.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Shawna Brooks</author>
+        <pubDate>2017-03-10 13:10:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate-+Preview+5+great+new+listings.mp4</guid>
+        <description>
+
+As you all know, housing inventory is incredibly low right now. Today, I want to share five amazing new listings that you won’t be able to find anywhere on the web or on the MLS. **These listings aren’t even on the market yet; I just wanted to share them with you and give you a head start. **
+
+First, if you are interested in the Lawrence Township, then check out this three-bedroom, one-bath midcentury ranch home with its original hardwood floors. This is a very cute property and it will hit the market listed at $100,000.
+
+We have two new listings coming up in Center Grove, and both will be listed at $185,000. The first is a three-bed, 2 ½ bath home with 1 ½ stories. The kitchen has been completely gutted and the home features a gorgeous screened-in porch and fantastic laminate, hardwood floors. This property sits on a corner lot in the Pebble Run subdivision.
+
+“LEARN MORE ABOUT THESE HOMES BEFORE THEY HIT THE MARKET!”
+
+The other property is a stone ranch with a walkout basement in the El Dorado subdivision. This home is right on the golf course, and it’s also on a nice cul-de-sac.
+
+In Greenwood, there is a beautiful property available in the Clark-Pleasant School District. This ranch home is getting fresh paint and all new carpeting. The listing price is $135,000.
+
+Finally, our fifth listing is in Center Grove. This home sits on four acres with a huge, 50-by-50 pole barn and has an attached three-car garage. It is a beautiful, historic home and will be listed at $400,000.
+
+No one else knows about these homes yet, which is why I have not included their addresses today. If you are interested in any of these listings and would like more details, just give me a call or send me an email. I would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate-+Preview+5+great+new+listings.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate-+Preview+5+great+new+listings.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+As you all know, housing inventory is incredibly low right now. Today, I want to share five amazing new listings that you won’t be able to find anywhere on the web or on the MLS. **These listings aren’t even on the market yet; I just wanted to share them with you and give you a head start. **
+
+</itunes:subtitle>
+        <itunes:author>Shawna Brooks</itunes:author>
+        <itunes:summary>
+
+As you all know, housing inventory is incredibly low right now. Today, I want to share five amazing new listings that you won’t be able to find anywhere on the web or on the MLS. **These listings aren’t even on the market yet; I just wanted to share them with you and give you a head start. **
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Indianapolis, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Happy Valentine's Day</title>
+        <link>localhost:4000/happy-valentines-day.html</link>
+        
+          <category>General</category>
+        
+        <author>Shawna Brooks</author>
+        <pubDate>2017-02-07 10:46:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate-+Happy+Valentine%2527s+Day%2521.mp4</guid>
+        <description>
+
+We just wanted to take a second to introduce our newest team member, Killian, and wish you a happy Valentine’s Day. We appreciate everything your business and want to send you much love in 2017.
+
+“THANK YOU SO MUCH FOR YOUR BUSINESS.”
+
+As always if you have any real estate related questions, please feel free to give us a call or send us email! We look forward to hearing from you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate-+Happy+Valentine%2527s+Day%2521.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate-+Happy+Valentine%2527s+Day%2521.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+We just wanted to take a second to introduce our newest team member, Killian, and wish you a happy Valentine’s Day. We appreciate everything your business and want to send you much love in 2017.
+
+</itunes:subtitle>
+        <itunes:author>Shawna Brooks</itunes:author>
+        <itunes:summary>
+
+We just wanted to take a second to introduce our newest team member, Killian, and wish you a happy Valentine’s Day. We appreciate everything your business and want to send you much love in 2017.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Indianapolis, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Do Rising Interest Rates Affect Buyers?</title>
+        <link>localhost:4000/how-do-rising-interest-rates-affect.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Shawna Brooks</author>
+        <pubDate>2017-01-24 12:48:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate-+How+rising+interest+rates+affect+buying+power.mp4</guid>
+        <description>
+
+How do changing interest rates affect you as a buyer? I’ll go over the answer to that and give you a quick market recap today.
+
+For December, overall sales were up 4.2% from November, and as we ended 2016, the fourth quarter ended 10.2% higher than the third quarter. That was interesting to see, as the fourth quarter is usually not as strong for sales.
+
+Now, let’s talk about how changes in interest rates are affecting buying power. Right now, interest rates are at about 4%, but that may not be your specific interest rate. The interest rate you get depends on your credit score, your income, and your debt ratio.
+
+“NOW IS THE TIME TO BUY YOUR DREAM HOME.”
+
+However, let’s say your interest rate was 4% and your lender had approved you for a loan of $250,000. For every 0.5% increase in your interest rate, your buying power is reduced by 10%. So, if your rate went up to 4.5% and you lost 10% of your buying power, you’d now only be approved for a $225,000 loan.
+
+That is a significant difference. As a buyer you really need to grasp how substantially that affects your buying power. If your goal is to buy your dream home, I promise you the time is now. Every time interest rates go up, your buying power goes down. Now really is the time to take action and I am here to help!
+
+If you have any other questions, please feel free to give me a call or send me a text. I look forward to hearing from you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate-+How+rising+interest+rates+affect+buying+power.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate-+How+rising+interest+rates+affect+buying+power.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+How do changing interest rates affect you as a buyer? I’ll go over the answer to that and give you a quick market recap today.
+
+</itunes:subtitle>
+        <itunes:author>Shawna Brooks</itunes:author>
+        <itunes:summary>
+
+How do changing interest rates affect you as a buyer? I’ll go over the answer to that and give you a quick market recap today.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Indianapolis, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Do Decorating Allowances Help or Hurt the Seller?</title>
+        <link>localhost:4000/why-offering-allowances-hurts-seller.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Shawna Brooks</author>
+        <pubDate>2017-01-11 13:21:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate-+Do+decorating+allowances+help+or+hurt+the+seller%253F.mp4</guid>
+        <description>
+
+Today, I wanted to talk about painting, carpeting, and decorating allowances when selling a house in the Indianapolis market.
+
+We often see sellers who realize that their carpet or kitchen flooring, for example, is outdated or needs to be replaced. Many times, these sellers will opt to give a flooring allowance. However, I would advise you not to allow any sort of flooring allowance or decorating allowance up front.
+
+Why? When you make an offer like that, it’s like making an up-front offer to your kids—they just don’t appreciate it. Secondly, when a buyer walks through your home and sees 2,000 square feet that needs new flooring, **the amount of money they will think it takes to replace all of it will be much larger than the actual number it will cost. **
+
+“BUYERS WILL ALWAYS ASSUME FLOORING REPLACEMENT WILL COST MORE THAN IT ACTUALLY WOULD.”
+
+Instead, have your Realtor call a flooring person to come out and replace the flooring up front. If you replace it up front, it will not only cost you less than the amount a buyer would have asked for, but it will also help your home sell faster and for more money.
+
+When we sell a home and say there’s a carpeting allowance, people tend to automatically assume the house has filthy orange shag carpet when in reality, it might not be that bad to begin with.
+
+If you have any other questions about selling your house, don’t hesitate to give me a call or send me an email. I’d be happy to help!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate-+Do+decorating+allowances+help+or+hurt+the+seller%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate-+Do+decorating+allowances+help+or+hurt+the+seller%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Today, I wanted to talk about painting, carpeting, and decorating allowances when selling a house in the Indianapolis market.
+
+</itunes:subtitle>
+        <itunes:author>Shawna Brooks</itunes:author>
+        <itunes:summary>
+
+Today, I wanted to talk about painting, carpeting, and decorating allowances when selling a house in the Indianapolis market.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Indianapolis, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Do You Need a Buyer Consultation?</title>
+        <link>localhost:4000/why-do-you-need-buyer-consultation.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Shawna Brooks</author>
+        <pubDate>2016-12-09 11:39:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate+The+purpose+of+a+buyer+consultation.mp4</guid>
+        <description>
+
+We are very excited to be joined today by Libby Sanders, our lead buyer’s agent, who is going to talk a little bit about buyer consultations and the role that they play in preparing those who are in the market to purchase a home.
+
+A buyer consultation is where a buyer meets with their buyer’s agent for the first time. This is where your agent will go through the entire process with you, detailing the ins and outs of the whole process. It’s also an opportunity for you to ask any questions you have and get to know an agent to determine if they are a good fit.
+
+“YOU WANT TO HAVE THIS MEETING WHILE THE STAKES ARE LOW.”
+
+It would make sense to have this meeting in a setting where the emotions are low-key. The ideal time is before you begin the search process. You don’t want to just be meeting an agent when you’re under the gun and emotions are high.
+
+If you’re someone who thinks they will just call the agent on whatever sign they come across to help them buy, you might want to think again. Those agents work for the seller, not you, and they have the seller’s best interests at heart. Hiring a buyer’s agent will give you someone on your side who will have your best interests in mind.
+
+If you have any questions for us, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate+The+purpose+of+a+buyer+consultation.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate+The+purpose+of+a+buyer+consultation.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+We are very excited to be joined today by Libby Sanders, our lead buyer’s agent, who is going to talk a little bit about buyer consultations and the role that they play in preparing those who are in the market to purchase a home.
+
+</itunes:subtitle>
+        <itunes:author>Shawna Brooks</itunes:author>
+        <itunes:summary>
+
+We are very excited to be joined today by Libby Sanders, our lead buyer’s agent, who is going to talk a little bit about buyer consultations and the role that they play in preparing those who are in the market to purchase a home.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Indianapolis, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Happy Holidays From the Shawna Brooks Team!</title>
+        <link>localhost:4000/happy-holidays-from-shawna-brooks-team.html</link>
+        
+        <author>Shawna Brooks</author>
+        <pubDate>2016-12-09 09:49:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate-+A+holiday+greeting+from+the+Shawna+Brooks+team.mp4</guid>
+        <description>
+
+With the holidays fast approaching, we wanted to take a second to say thank you to all of you who have worked with us in the past.
+
+We look forward to working with you, your family, and your friends in the near future.
+
+Merry Christmas and happy Holidays everyone!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate-+A+holiday+greeting+from+the+Shawna+Brooks+team.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate-+A+holiday+greeting+from+the+Shawna+Brooks+team.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+With the holidays fast approaching, we wanted to take a second to say thank you to all of you who have worked with us in the past.
+
+</itunes:subtitle>
+        <itunes:author>Shawna Brooks</itunes:author>
+        <itunes:summary>
+
+With the holidays fast approaching, we wanted to take a second to say thank you to all of you who have worked with us in the past.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Indianapolis, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Should You Budget for Closing Costs as a Seller?</title>
+        <link>localhost:4000/what-should-you-budget-for-closing.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Shawna Brooks</author>
+        <pubDate>2016-11-18 12:17:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate-+Preparing+for+closing+costs+as+a+home+seller.mp4</guid>
+        <description>
+
+We often associate the term ‘closing costs’ with buying a home. While buyers will always have closing costs, many people aren’t aware that the sellers will always have them too. These costs are there for you as a seller whether you use a Realtor or not.
+
+Closing costs for sellers include, but are not limited to: title insurance, prorated taxes, deed and affidavit recording fees, and a home warranty. Taxes are prorated in Indiana because the state thinks it’s a great idea to pay our taxes one full year late. That’s a big chunk of the costs. You will also have to pay your final sewer bill as part of your closing costs as a seller.
+
+“SELLERS HAVE CLOSING COSTS, TOO.”
+
+We have found lately that most of our offers come in in the evenings or on the weekends. It’s always a pain to try and contact title companies during that time to get sellers a more accurate idea of what their closing costs will be, so I suggest abiding by this rule of thumb: seller closing costs typically come out to about 3% of the sale price of the home. Budget for that amount and you won’t be left hanging out to dry in the end.
+
+If you are thinking about selling and want to know exactly how much money you are going to walk away with, give us a call or send us an email. We would love to help out and answer any questions you may have.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate-+Preparing+for+closing+costs+as+a+home+seller.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate-+Preparing+for+closing+costs+as+a+home+seller.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+We often associate the term ‘closing costs’ with buying a home. While buyers will always have closing costs, many people aren’t aware that the sellers will always have them too. These costs are there for you as a seller whether you use a Realtor or not.
+
+</itunes:subtitle>
+        <itunes:author>Shawna Brooks</itunes:author>
+        <itunes:summary>
+
+We often associate the term ‘closing costs’ with buying a home. While buyers will always have closing costs, many people aren’t aware that the sellers will always have them too. These costs are there for you as a seller whether you use a Realtor or not.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Indianapolis, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to Get Your Offer Accepted</title>
+        <link>localhost:4000/how-to-get-your-offer-accepted.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Shawna Brooks</author>
+        <pubDate>2016-11-18 12:17:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+We have some really helpful tips to share with you today about how to get your offer accepted in a multiple offer situation.
+
+First off, I encourage you to make a decent earnest money deposit. We recommend an amount that is about 1% of the purchase price If you know you’re competing, you might want to offer a little bit more earnest money. It will go toward your down payment and closing costs anyway, and by offering more earnest money, you help your home stand out.
+
+Secondly, you should have your agent call the listing agent to find out what’s important to the seller in an offer. We are looking for something that would cater to the seller’s needs. For some sellers, price isn’t the most important thing. Some sellers need to have a specific closing date or possession date so they don’t have to make two moves. You can use that information to write in a rent-back into your offer. There are a lot of ways to help position your offer better other than just the price.
+
+“INCREASING YOUR EARNEST MONEY DEPOSIT IS A GOOD IDEA.”
+
+On the topic of price, remember that if you’re asking for closing costs in an offer, the seller only cares about their bottom line. If you want to make a full-price offer and still ask for closing costs, make an offer that’s above list price and ask the seller to pay those closing costs. A full-price offer that asks for closing costs is not a true full-price offer.
+
+If you have any questions for us, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+We have some really helpful tips to share with you today about how to get your offer accepted in a multiple offer situation.
+
+</itunes:subtitle>
+        <itunes:author>Shawna Brooks</itunes:author>
+        <itunes:summary>
+
+We have some really helpful tips to share with you today about how to get your offer accepted in a multiple offer situation.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Indianapolis, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to Win in a Multiple Offer Situation</title>
+        <link>localhost:4000/how-to-win-in-multiple-offer-situation.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Shawna Brooks</author>
+        <pubDate>2016-11-03 15:23:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate-+How+to+win+in+a+multiple+offer+situation.mp4</guid>
+        <description>
+
+If you’re a buyer and you find yourself in a multiple offer situation, I have two key tactics for you to follow that will help you win that home:
+
+The first is to *get pre-approved by a local lender before making your offer. This act will add a lot of credibility to your offer, not only because you got pre-approved, but also because you worked with somebody local. A local lender will have a lot more skin in the game to get your deal to the closing table.
+
+The second tactic is to give a very small window of opportunity for your seller to respond. If you make an offer on a home today, whether you know you’re competing or not, do not give the seller 48 hours to respond. Don’t even give them 24 hours. A sharp listing agent will take your offer, show it to all the other listing agents who have seen the home, and use that as leverage to get more offers for their seller. By giving a small window of opportunity to respond, you can prevent this from happening and increase your chances of getting your offer accepted.
+
+“GIVE A VERY SMALL WINDOW OF OPPORTUNITY FOR YOUR SELLER TO RESPOND.”
+
+If you have any questions, feel free to email me or give me a call. I look forward to hearing from you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate-+How+to+win+in+a+multiple+offer+situation.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate-+How+to+win+in+a+multiple+offer+situation.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+If you’re a buyer and you find yourself in a multiple offer situation, I have two key tactics for you to follow that will help you win that home:
+
+</itunes:subtitle>
+        <itunes:author>Shawna Brooks</itunes:author>
+        <itunes:summary>
+
+If you’re a buyer and you find yourself in a multiple offer situation, I have two key tactics for you to follow that will help you win that home:
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Indianapolis, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>We Would Love to Answer Your Questions</title>
+        <link>localhost:4000/we-would-love-to-answer-your-questions.html</link>
+        
+          <category>General</category>
+        
+        <author>Shawna Brooks</author>
+        <pubDate>2016-10-19 14:09:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate-+Your+questions+are+important+to+us.mp4</guid>
+        <description>
+
+We have some exciting news to share today. We have decided to create our own video blog to stay in touch with you. Twice a month, we will upload a video that is educational and provides valuable information. We want this to be a forum to answer your questions about the local Indianapolis real estate market.
+
+We want to be able to get this information out to all of our clients, family, and friends. We will highlight seller tips, buyer tips, and more as we answer your questions. **We will also talk about the mortgage and title industries, which are important to real estate as well. **
+
+“WE WANT THIS TO BE A FORUM TO ANSWER YOUR QUESTIONS.”
+
+If you have a specific topic you’d like to know more about or if you have a specific question you would like us to answer, let us know by reaching out and sending us an email or giving us a call. We want this blog to be a valuable resource for you now and in the future.
+
+If you have any questions, don’t hesitate to reach out. We look forward to hearing from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate-+Your+questions+are+important+to+us.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate-+Your+questions+are+important+to+us.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+We have some exciting news to share today. We have decided to create our own video blog to stay in touch with you. Twice a month, we will upload a video that is educational and provides valuable information. We want this to be a forum to answer your questions about the local Indianapolis real estate market.
+
+</itunes:subtitle>
+        <itunes:author>Shawna Brooks</itunes:author>
+        <itunes:summary>
+
+We have some exciting news to share today. We have decided to create our own video blog to stay in touch with you. Twice a month, we will upload a video that is educational and provides valuable information. We want this to be a forum to answer your questions about the local Indianapolis real estate market.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Indianapolis, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+    <copyright>Shawna Brooks</copyright>
+    <media:credit role="author">Shawna Brooks</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</media:description>
+    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Shawna's Home Team - your professional Indianapolis Real Estate Agents.</media:description>
   </channel>
 </rss>

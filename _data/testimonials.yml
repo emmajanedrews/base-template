@@ -1,5 +1,16 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
-    audio:
+  - quote: She’s very nice, she’s a go-getter. I told her in the very beginning, I’m in sales myself, and I said I like to communicate and she said that’s good, because so do I. She communicates with her clients. We put the, our condo, on the market, listed it with Shawna. It hit the market the day after Thanksgiving and she sold it around Christmas time. We closed January 9th. It was a smooth process, we had numerous showings and she’s great. She’s got this service via the internet, and she sends out emails, and I like this because every time there was a showing, it’s a service I guess her company provides, she sends out emails of when we’re going to have another showing. Whether it be her as the agent or another agent showing the property and then after the showing we got feedback from the customer. And I like that very well. She just worked very hard, long hours, very polite.
+    name: Ray
+    audio: /uploads/audio/001.mp3
+  - quote: Well it was fabulous. It was the second time we’ve used Shawna. We used her ten years ago when we bought the home we just sold through her again. We wouldn’t have done it twice in ten years’ time if we hadn’t had a great result with Shawna. She’s kind of an unusual person I think she does that for everyone but she always seems to anticipate ahead of time what’s going to happen next and kind of prepared us for anything that was coming our way. We had a few issues this time and it kind of made the process more difficult but Shawna and Jason went out of their way to help us walk through that so it was less of an issue for us. So I think that takes a special person to anticipate and let her clients know ahead of time so we can deal with it.
+    name: Mary
+    audio: /uploads/audio/002.mp3
+  - quote: Incredibly wonderful! I have to tell you, I knew her years ago, I used to sell real estate also, and she and I worked in the same office and this is back in, I want to say, 1999 or 2000 and I always knew she was a go-getter. We parted ways, and then I ran into her several months ago and then when we decided to look for a home, kind of downsize, she was the person that I contacted. It’s just been very swell. She’s gone above and beyond, we went ahead and bought a house before we sold this one because the bank is kind of crazy and said we could do that and we were like, “No we can’t!” So we got lucky, not lucky, but Shawna got this house sold in 8 days. 8 days! And so we’re moving on Monday, we close on the house we bought tomorrow, and the new buyers of this house close on the 15th. [It’s been] nothing but excellent, [she] just always responds, and takes care of everything. She’s just fun and dependable, any question you ask she knows the answer.
+    name: Debbie
+    audio: /uploads/audio/003.mp3
+  - quote: Our results were fantastic. Shawna listed our house and by, I believe, night of day four we had two offers on the table. It was quick and easy and great. My husband and I were pretty limited on scheduling so even if she wasn’t able to take us to go look at homes she found someone who was able to. For our house, she came to our home, walked in each room, very thorough on what we needed to do before we listed our house. Was pretty specific on giving us ideas and things we needed to accomplish. And I believe that played a large role in selling our house so quickly.
+    name: Jessica
+  - quote: Well we were very satisfied. The time from when we listed to when we sold was very good, very good. Our cash that we got from our sale was also satisfactory. We had previously listed with someone else and were very dissatisfied with their service. Shawna had more showings in three months than the other Realtor had in nearly a year. Like I said, we were very satisfied. The communication was always very good. They helped us find our new house which we had to do in a very short time. And we found a place that we really liked and we were able to get it at a price that we were satisfied with.
+    name: Mike
+    audio: /uploads/audio/004.mp3
