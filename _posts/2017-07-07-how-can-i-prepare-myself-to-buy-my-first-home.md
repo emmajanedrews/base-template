@@ -23,7 +23,7 @@ My team and I work with buyers all the time who are three, six, eight, or more m
 
 Whether you’re actively looking for a home or just starting to think about doing so, I’ve got two tips for you that will help you when it comes to planning for your first homebuying experience.
 
-First and foremost you should talk to a lender. There are a few reasons that this is important. Not only will lenders be able to check out your credit and tell you how much you need to improve it if it is too low but they will also walk you through the steps to achieving a better score.
+First and foremost, you should talk to a lender. There are a few reasons that this is important. Not only will lenders be able to check out your credit and tell you how much you need to improve it if it is too low but they will also walk you through the steps to achieving a better score.
 
 **Even small things like getting a secure credit card can help you get a better interest rate when you do move on to buy your home.**
 
@@ -33,11 +33,10 @@ Finally, if you’ve had something like a bankruptcy, foreclosure, or another po
 
 {% include pullquote.html %}
 
-The next tip is to talk to a real estate professional. First time homebuyers especially need to get in contact with someone who knows the ins and outs of the real estate business.  Meeting with an agent can help you figure out a specific plan that you might miss out on if you rely on online resources like Zillow.
+The next tip is to talk to a real estate professional. First-time homebuyers especially need to get in contact with someone who knows the ins and outs of the real estate business. &nbsp;Meeting with an agent can help you figure out a specific plan that you might miss out on if you rely on online resources like Zillow.
 
-Additionally, having an agent to talk to will put you in a better position when it comes to not only finding homes with features you’re looking for but also when it comes times to making smart trade-offs in order to find the best deal for your needs.
+Additionally, having an agent to talk to will put you in a better position when it comes to not only finding homes with features you’re looking for but also making smart trade-offs in order to find the best deal for your needs.
 
 **Realistically, no one home will likely check off every item on your list.** An agent will help you to maximize your options while discussing ways to work with your wants and needs. Of course this also depends a lot on the area in which the home is located. A Realtor will know all of these things and will be able to point you in the right direction.
 
 So if you’re a first-time homebuyer looking for the next step in the process we’d love to help. If you have any other questions or want any more information feel free to give us a call or send us an email. We look forward to hearing from you.
-<br>
