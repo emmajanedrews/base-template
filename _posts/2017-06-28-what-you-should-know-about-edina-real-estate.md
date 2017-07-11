@@ -4,7 +4,7 @@ title: What You Should Know About The Market
 date: 2017-06-28 10:59:21
 tags:
   - Market Update
-excerpt: 'We’re halfway through the summer here in Edina, and we wanted to give you a quick update on how the real estate market is looking and what you can expect from it as the year progresses.'
+excerpt: 'We’re halfway through the summer here in Scott County, and we wanted to give you a quick update on how the real estate market is looking and what you can expect from it as the year progresses.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/June/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Whats+Happening+in+Our+Local+Real+Estate+Market%253F.mp4'
 pullquote: Homes are selling in an average of just 33 days.
 enclosure_type: video/mp4
@@ -17,7 +17,7 @@ youtube_code: uTNOe0znamY
 
 {% include youtube.html %}
 
-We’re halfway through the summer here in Edina, and we wanted to give you a quick update on how the real estate market is looking and what you can expect from it as the year progresses.
+We’re halfway through the summer here in Scott County, and we wanted to give you a quick update on how the real estate market is looking and what you can expect from it as the year progresses.
 
 **As far as inventory is concerned, not much has changed since our last update.** We still have very few homes for sale, especially in the $300,000 and below price range. For homes priced above $400,000, the market is a little more balanced.
 
