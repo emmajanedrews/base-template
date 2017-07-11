@@ -2,6 +2,7 @@
 layout: post
 title: What’s the Biggest Challenge Facing Sellers in Our Utah Market?
 tags:
+  - Market Update
 excerpt: Low appraisals are one of the most common issues hounding sellers in our market. There are a couple ways to resolve a situation like this during a home sale.
 enclosure:
 pullquote: The buyer and seller usually meet somewhere in the middle to resolve a low appraisal.
