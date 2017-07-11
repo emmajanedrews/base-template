@@ -19,7 +19,7 @@ youtube_code: '-hoYgkXATss'
 
 One thing we pride ourselves on here at Wilson Realty Group is our service. Our aim is and always has been to provide our clients with the best experience possible. There are only 24 hours in a day, so I have great people on my team like Sabrina, Davis, and more who help create this excellent experience on a daily basis. **We’re always here to keep you informed, and we’re always going to be a step ahead.**
 
-That’s why we are excited to announce a merger with another great team who takes the same level of pride in the service they provide, Ursula & Associates. With more people, more systems, and more resources, **we are going to put together an even better client experience together than we were offering on our own.**
+That’s why we are excited to announce a merger with another great team who takes the same level of pride in the service they provide, Ursula & Associates. With more people, more systems, and more resources, **we are going to put together an even better client experience than we were offering on our own.**
 
 {% include pullquote.html %}
 
