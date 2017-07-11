@@ -1,5 +1,5 @@
 audit_header: false
-title: -- CLIENT BRAND --
+title: The Sadle Home Selling Team Video Blog
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -12,8 +12,8 @@ client:
   about_markdown: |
     The Sadle Home Selling Team is comprised of a team of local real estate professionals committed to selling some of the most desired homes in Portland and Vancouver. Selling these "right addresses" is the mission of The Sadle Home Selling Team. Let us know what you're looking for. Please take advantage of the helpful tools on this website, including our exclusive Portland and Vancouver Real Estate search, but also feel free to contact us personally.
   market: Portland and Vancouver
-  brand: Sadle Home Selling Team
-  brokerage: KW Professionals Keller Williams Realty
+  brand: The Sadle Home Selling Team
+  brokerage: Keller Williams Realty Professionals
   address: 9755 SW Barnes Road, Suite 560 Portland, OR 97225
   phone: 503-828-9551
   phone_type: Portland
@@ -58,7 +58,7 @@ lender:
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
+    Our mission at The Sadle Home Selling Team is to be your best resource for real estate
     advice. Whether you are a buyer, seller, or investor, our team of
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
