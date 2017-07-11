@@ -17,7 +17,7 @@ youtube_code: cMwhtIvasYA
 
 {% include youtube.html %}
 
-I recently came across this [article](https://www.forbes.com/sites/brandonturner/2016/11/07/the-10-hottest-real-estate-markets-for-investors-in-2016/3/#3b761de3c513) that talked about the top 10 markets for investors, and Portland was ranked No. 2 on that list. It really got me thinking about what investors are looking for and what are some of the things that we need to think about for investors when they’re buying in Portland.
+I recently came across this [article](https://www.forbes.com/sites/brandonturner/2016/11/07/the-10-hottest-real-estate-markets-for-investors-in-2016/3/#3b761de3c513){:target="_blank"} that talked about the top 10 markets for investors, and Portland was ranked No. 2 on that list. It really got me thinking about what investors are looking for and what are some of the things that we need to think about for investors when they’re buying in Portland.
 
 Our prices have appreciated quite a bit, so it can be a great market if you can buy in as an investor. Investors are quite competitive and are usually cash buyers, but the No. 1 thing that I see that trips up investors the most is that they’re looking at the property like they’re going to live in it. This is especially true for new investors who have made profits elsewhere and have cash to spend or investors coming in from other U.S. markets or overseas.
 
