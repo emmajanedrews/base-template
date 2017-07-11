@@ -32,7 +32,7 @@ The condition is that if you’re looking for your dream home and want us to hel
 
 **With how quickly dream homes sell, being ready, willing, and able to buy one will be the key to your success.**
 
-In order to be a ready, willing, and able buyer, you must already have done your pre-qualification, have your mortgage money lined up, and you must be sure by the time you make your move.
+In order to be a ready, willing, and able buyer, you must already have done your pre-qualification, have your mortgage money lined up, and you must be "Sure Thing" by the time you make your move.
 
 We’d love for you to get in touch with us. Let us help you to pre-qualify and become a ready, willing, and able buyer so we can find you your perfect dream home.
 
