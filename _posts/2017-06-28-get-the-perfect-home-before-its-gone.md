@@ -38,6 +38,6 @@ We’d love for you to get in touch with us. Let us help you to pre-qualify and 
 
 If you want more information or have any other questions give us a call or send us an email, soon. We look forward to hearing from you.
 
-![](/uploads/versions/ernie-dill-dream---x----500-273x---.jpg)
+![](/uploads/versions/ernie-dill-dream---x0-0-438-239-500-273x---.jpg)
 
 &nbsp;
