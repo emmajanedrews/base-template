@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: N82OjIP_dOU
+youtube_code: 33tQPluBRPc
 ---
 
 
@@ -34,12 +34,8 @@ The condition is that if you’re looking for your dream home and want us to hel
 
 In order to be a ready, willing, and able buyer, you must already have done your pre-qualification, have your mortgage money lined up, and you must be sure by the time you make your move.
 
-We’d love for you to get in touch with us. Let us help you to pre-qualify and become a ready, willing, and able buyer so we can find you your perfect dream home. &nbsp;
+We’d love for you to get in touch with us. Let us help you to pre-qualify and become a ready, willing, and able buyer so we can find you your perfect dream home.
 
 If you want more information or have any other questions give us a call or send us an email, soon. We look forward to hearing from you.
-
-&nbsp;
-
-&nbsp;
 
 ![](/uploads/versions/ernie-dill-dream---x0-0-500-273-500-273x---.jpg)
