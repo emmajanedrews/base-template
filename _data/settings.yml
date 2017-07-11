@@ -23,7 +23,7 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.northernvahomefinder.com/homevalue/value
+  first_CTA_URL: http://www.northernvahomefinder.com/what-is-my-home-worth
   second_CTA_text: Home Search
   second_CTA_URL: http://www.northernvahomefinder.com/
   phone_CTA: true
