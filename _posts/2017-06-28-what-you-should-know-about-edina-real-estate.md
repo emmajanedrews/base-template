@@ -27,4 +27,4 @@ The average days on market has dropped since last year, and homes are now sellin
 
 With such low inventory, new construction has been on the rise, particularly in the $400,000 to $600,000 range. We’ll continue to see increased inventory in this range, too. **We met with some builders recently and they told us that they will keep building as long as inventory is low and demand is high.**
 
-If you have any additional questions about our real estate market or you’re looking to buy or sell a home in Edina, give us a call or send us an email. We would be delighted to hear from you.
+If you have any additional questions about our real estate market or you’re looking to buy or sell a home in Scott County, give us a call or send us an email. We would be delighted to hear from you.
