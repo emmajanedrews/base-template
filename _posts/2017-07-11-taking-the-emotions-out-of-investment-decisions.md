@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The No. 1 mistake investors make
-date: 2017-07-11 12:19:36
+title: Taking the Emotions out of Investment Decisions
+date: 2017-07-11 12:19:00
 tags:
   - Home Buyer Tips
 excerpt: 'I recently came across this article that talked about the top 10 markets for investors, and Portland was ranked No. 2 on that list.'
