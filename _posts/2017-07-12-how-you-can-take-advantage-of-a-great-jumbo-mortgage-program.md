@@ -16,7 +16,7 @@ youtube_code: 6sTt8WLrqqY
 
 {% include youtube.html %}
 
-Realtrends.com came out with their list of the top agents in the country recently, and while we weren’t quite able to make the top 1,000 real estate agents in the country, we are excited to announce that we were ranked No. 20 in the state of Maryland for 2016 in terms of all units sold. Considering that there are around 26,000 agents in Maryland and D.C., we are pretty proud of that accomplishment and wanted to thank all of our clients for supporting us.
+[Realtrends.com](http://www.realtrends.com/) came out with their list of the top agents in the country recently, and while we weren’t quite able to make the top 1,000 real estate agents in the country, we are excited to announce that we were ranked No. 20 in the state of Maryland for 2016 in terms of all units sold. Considering that there are around 26,000 agents in Maryland and D.C., we are pretty proud of that accomplishment and wanted to thank all of our clients for supporting us.
 
 I also wanted to take a little bit to talk about jumbo mortgages and what’s going on in the jumbo mortgage industry. Traditionally, if you wanted to borrow anywhere from $500,000 to $1 million, it would’ve been more expensive in the Maryland area to borrow $1 million than a couple hundred thousand.
 
