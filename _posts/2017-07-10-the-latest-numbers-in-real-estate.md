@@ -23,6 +23,8 @@ According to the National Association of Realtors,&nbsp;**the number of projecte
 
 Finally, according to Freddie Mac, the national average for a 30-year fixed mortgage **dropped from 4.03% last month to 3.94% this month,** which is good news for homebuyers.
 
-If you are curious about how the real estate market is doing locally in Martin County please feel free to reach out to me. Or go ahead and **[click here](https://s3.amazonaws.com/vyralmarketing/Joe+Sabato/May_2017_IDA_Stats.pdf)** to check out the numbers from May 2017.
+**If you are curious about how the real estate market is doing locally in Martin County please feel free to reach out to me. Or go ahead and [CLICK HERE](https://s3.amazonaws.com/vyralmarketing/Joe+Sabato/May_2017_IDA_Stats.pdf)&nbsp;to check out the numbers from May 2017.**
 
 If you have any questions about how these numbers affect you and your real estate goals, just give us a call or send us an email. We would be happy to help you!
+
+#### [Martin County Real Estate Statistics for May 2017](https://s3.amazonaws.com/vyralmarketing/Joe+Sabato/May_2017_IDA_Stats.pdf)
