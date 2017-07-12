@@ -4,7 +4,7 @@ title: 5 Tips to Get Your Home Ready to Sell for Top Dollar
 date: 2017-07-07 00:00:00
 tags:
 excerpt: 'If you’ve been thinking about selling your home, you may be worried that it’s not ready to sell. I’ve listed a few things you can do to get your home ready to sell for top dollar.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/videos/San+Diego+Real+Estate-+5+Tips+to+Get+Your+Home+Ready+for+the+Market.mp4'
 pullquote: 'Even in a seller’s market, buyers are extremely savvy and cannot be fooled.'
 enclosure_type: video/mp4
 enclosure_time:
