@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title></title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <title>San Antonio Real Estate Podcast With Spencer Hasch</title>
+    <link>http://guaranteedsoldsanantonio.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://guaranteedsoldsanantonio.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Ultimate Realty - your professional Great San Antonio Real Estate Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Spencer Hasch</managingEditor>
-    <lastBuildDate>2017-05-18 09:17:15 -0500</lastBuildDate>
+    <lastBuildDate>2017-07-12 13:47:00 -0500</lastBuildDate>
     <media:copyright>Spencer Hasch</media:copyright>
-    <media:thumbnail url="/img/podcast.jpg"/>
+    <media:thumbnail url="http://i.imgur.com/o5QGeLd.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Great San Antonio Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,15 +18,60 @@
     </itunes:owner>
     <itunes:author>Spencer Hasch</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="/img/podcast.jpg"/>
+    <itunes:image href="http://i.imgur.com/o5QGeLd.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Great San Antonio Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Great San Antonio Real Estate Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Ultimate Realty - your professional Great San Antonio Real Estate Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
+        <title>9 Ways to Cut Energy Costs This Summer</title>
+        <link>http://guaranteedsoldsanantonio.com/9-ways-to-cut-energy-costs-this-summer.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Spencer Hasch</author>
+        <pubDate>2017-07-10 06:36:10 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+If you’re looking to cut energy costs for the summer season, here are nine useful methods that will save you money without sacrificing comfort:
+
+1. Plug any holes you may have in your house. Use plastic film on any drafty windows or just replace them if you have the budget, as leaking air is one of the biggest ways energy gets sucked out of your house and costs you money. Foam and caulk any other problem areas you see, like gaps around your doors and windows and around your outlet plates.
+
+2. Close the shades. Anything that keeps the sunshine from coming directly into your house will help lower your energy costs.
+
+3. Keep your filters clean. You should check your AC filter at least once a month to make sure it’s clean and you should be replacing it as necessary. This way your air conditioner isn’t working twice as hard to circulate cool air throughout your house.
+
+4. Program your thermostat. If you aren’t home, you obviously don’t need it to be as cool as when you’re there, so feel free to raise the temperature a little bit. Only about half of all people actually take advantage of their programmable thermostat, which is unfortunate because it’s a cheap and effective way to reduce energy costs. Also, overhead fans can circulate and cool air a lot more cheaply than a low thermostat, so don’t forget to use them if you have them or install a couple to help keep your air just how you like it.
+
+“If you aren’t home, you obviously don’t need it to be as cool as when you’re there.”
+
+5. Unplug, unplug, unplug. Computers, TVs, mobile devices, and any other devices such as these that are plugged in can use up energy while they’re not in use. Unplug them when you don’t use them and you’re not around so they’re not drawing energy while you’re not there.
+
+6. Cut back on oven usage. Using a grill or outdoor cooktop instead will reduce the amount of heat being generated in your house.
+
+7. Turn down the thermostat on your water heater. Lowering the temperature from—say—130 degrees to 115 degrees can save you around $50 a year, which can add up over the long term.
+
+8. Get your HVAC tuned up. Don’t ignore your air conditioner until something goes wrong with it, because if it malfunctions when it’s 100 degrees out in San Antonio, you’ll want someone to fix it right away, and it will probably cost you a lot of money to get that done.
+
+9. Upgrade your systems. This means things like changing your light bulbs and replacing major appliances like your refrigerator, washer, or dryer. If and when you do, make sure you check out the energy efficiency rating of these items before you buy another so its replacement has a higher rating.
+
+If you have any questions about cutting summer energy costs or you’re thinking about buying or selling a home in the San Antonio market, don’t hesitate to reach out to me. I’d be glad to help you.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://guaranteedsoldsanantonio.com" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you’re looking to cut energy costs for the summer season, here are nine useful methods that will save you money without sacrificing comfort:</itunes:subtitle>
+        <itunes:author>Spencer Hasch</itunes:author>
+        <itunes:summary>If you’re looking to cut energy costs for the summer season, here are nine useful methods that will save you money without sacrificing comfort:</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Great San Antonio Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>5 Obstacles to Buying Your First Home</title>
-        <link>localhost:4000/5-obstacles-to-buying-your-first-home.html</link>
+        <link>http://guaranteedsoldsanantonio.com/5-obstacles-to-buying-your-first-home.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -79,7 +124,7 @@ That’s why it’s important to disclose everything about yourself and your fin
 These are just a few of the most common obstacles first-time homebuyers may encounter. If you have any other questions, just give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+Common+obstacles+to+homeownership.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://guaranteedsoldsanantonio.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+Common+obstacles+to+homeownership.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -98,7 +143,7 @@ Buying a home is not always an easy process, and there are many obstacles that a
       
       <item>
         <title>6 Tips for Buying in a Sellers Market</title>
-        <link>localhost:4000/6-tips-for-buying-in-sellers-market.html</link>
+        <link>http://guaranteedsoldsanantonio.com/6-tips-for-buying-in-sellers-market.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -140,7 +185,7 @@ If it’s a seller’s market like the one we are seeing right now, buyers can g
 If you have any questions for us or you’re interested in buying or selling a home in San Antonio, give us a call or send  us an email. We would love to hear from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+6+helpful+strategies.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://guaranteedsoldsanantonio.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+6+helpful+strategies.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -159,7 +204,7 @@ The real estate market often fluctuates, so planning for mistakes in advance is 
       
       <item>
         <title>5 Easily Forgettable Tasks to Complete Before Moving</title>
-        <link>localhost:4000/5-easily-forgettable-tasks-to-complete.html</link>
+        <link>http://guaranteedsoldsanantonio.com/5-easily-forgettable-tasks-to-complete.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -194,7 +239,7 @@ Moving to a new town can be difficult. There are just so many different things t
 These are just a few of the things that you should do before you move. If you have any questions or want any more tips, don’t hesitate to give me a call or send me an email. I look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+You+would+probably+forget+about+these.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://guaranteedsoldsanantonio.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+You+would+probably+forget+about+these.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -213,7 +258,7 @@ Moving to a new town can be difficult. There are just so many different things t
       
       <item>
         <title>What Will Happen If Rates Go Up?</title>
-        <link>localhost:4000/what-will-happen-if-rates-go-up.html</link>
+        <link>http://guaranteedsoldsanantonio.com/what-will-happen-if-rates-go-up.html</link>
         
           <category>Market Update</category>
         
@@ -246,7 +291,7 @@ In short, the market is doing great right now and it’s likely to stay that way
 If you have any questions for me or want to take advantage of current market conditions, give me a call or send me an email. I look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+Some+thoughts+on+interest+rates.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://guaranteedsoldsanantonio.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+Some+thoughts+on+interest+rates.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -265,7 +310,7 @@ Over the past few months, there has been a lot of buzz about potential interest 
       
       <item>
         <title>6 Home Maintenance Tasks You Need to Do </title>
-        <link>localhost:4000/6-home-maintenance-tasks-you-need-to-do.html</link>
+        <link>http://guaranteedsoldsanantonio.com/6-home-maintenance-tasks-you-need-to-do.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -307,7 +352,7 @@ Taking care of these six home maintenance items will make your home more appeali
 If you have any other questions about home maintenance or about selling your home, give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+6+crucial+home+maintenance+tips.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://guaranteedsoldsanantonio.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+6+crucial+home+maintenance+tips.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -326,7 +371,7 @@ As a homeowner, it’s important that you keep up with home maintenance. It’s 
       
       <item>
         <title>Should You Invest in a Fixer-Upper?</title>
-        <link>localhost:4000/should-you-invest-in-fixer-upper.html</link>
+        <link>http://guaranteedsoldsanantonio.com/should-you-invest-in-fixer-upper.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -354,7 +399,7 @@ Lastly, hire an expert to help you through the process. Have someone who is fami
 If you have any other questions about fixer-uppers or if you have any other real-estate related questions, please don’t hesitate to give me a call or send me an email. I’m more than happy to help.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+Is+purchasing+a+fixer-upper+worth+it%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://guaranteedsoldsanantonio.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+Is+purchasing+a+fixer-upper+worth+it%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -373,7 +418,7 @@ Today I want to talk a little bit about buying a fixer-upper. Is it worth it? Ho
       
       <item>
         <title>6 Staging Tips to Help You Sell for Top Dollar</title>
-        <link>localhost:4000/6-staging-tips-to-help-you-sell-for-top.html</link>
+        <link>http://guaranteedsoldsanantonio.com/6-staging-tips-to-help-you-sell-for-top.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -413,7 +458,7 @@ Staging your home is incredibly important when selling. Today, I’ll go over si
 If you have any other questions about selling your home, give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+6+home+staging+tips+for+sellers.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://guaranteedsoldsanantonio.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+6+home+staging+tips+for+sellers.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -432,7 +477,7 @@ Staging your home is incredibly important when selling. Today, I’ll go over si
       
       <item>
         <title>3 Key Home Buying Considerations</title>
-        <link>localhost:4000/3-key-home-buying-considerations.html</link>
+        <link>http://guaranteedsoldsanantonio.com/3-key-home-buying-considerations.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -460,7 +505,7 @@ We often see buyers look for homes with window dressings or modern fixtures and 
 If you have any other questions about the important things to look for in a home, or you’re thinking about buying or selling a home in the San Antonio market, give me a call or send me an email. We’d be happy to help.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+3+most+critical+home+buying+considerations.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://guaranteedsoldsanantonio.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+3+most+critical+home+buying+considerations.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -475,7 +520,7 @@ If you have any other questions about the important things to look for in a home
       
       <item>
         <title>5 Tips for Keeping Your Home Safe While on Vacation</title>
-        <link>localhost:4000/5-tips-for-keeping-your-home-safe-while.html</link>
+        <link>http://guaranteedsoldsanantonio.com/5-tips-for-keeping-your-home-safe-while.html</link>
         
           <category>Real Estate Tips and Tricks</category>
         
@@ -512,7 +557,7 @@ While you’re relaxing on a tropical beach or strolling through a quaint Europe
 Following these steps will help you rest easier while you’re away and ensure that everything is safe and sound when you come back. If you have any questions, please feel free to give me a call or shoot me an email. I’d be happy to help!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+Keep+your+home+safe+during+vacation.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://guaranteedsoldsanantonio.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+Keep+your+home+safe+during+vacation.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -531,7 +576,7 @@ While you’re relaxing on a tropical beach or strolling through a quaint Europe
       
       <item>
         <title>Our Top 3 Tips for Selling Your Home in the Winter</title>
-        <link>localhost:4000/our-top-3-tips-for-selling-your-home.html</link>
+        <link>http://guaranteedsoldsanantonio.com/our-top-3-tips-for-selling-your-home.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -563,7 +608,7 @@ So, let in the light. Always make sure that your blinds are open and the windows
 These tips will definitely help your home appeal to buyers this fall and winter. If you have any other questions about the home selling process or about real estate in general, give us a call or send us an email. We would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+Our+top+3+winter+selling+tips.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://guaranteedsoldsanantonio.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+Our+top+3+winter+selling+tips.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -582,7 +627,7 @@ There are several things you can do to prepare your home to sell in winter. Here
       
       <item>
         <title>Energy and Maintenance Savings: Part 1</title>
-        <link>localhost:4000/energy-maintenance-savings-part-1.html</link>
+        <link>http://guaranteedsoldsanantonio.com/energy-maintenance-savings-part-1.html</link>
         
           <category>Real Estate Tips and Tricks</category>
         
@@ -631,7 +676,7 @@ Today I wanted to share with you the first nine of 17 things you can do to immed
 All these measures will help save you time and money when it comes to maintenance and energy costs. If you have questions about this topic, feel free to give me a call or send me an email. Stay tuned for part two, where we’ll discuss the rest of the items on this list.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+9+ways+to+save+energy+and+maintenance+costs.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://guaranteedsoldsanantonio.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+9+ways+to+save+energy+and+maintenance+costs.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -650,7 +695,7 @@ Today I wanted to share with you the first nine of 17 things you can do to immed
       
       <item>
         <title>3 Questions Every Buyer Should Ask Themselves</title>
-        <link>localhost:4000/3-questions-every-buyer-should-ask.html</link>
+        <link>http://guaranteedsoldsanantonio.com/3-questions-every-buyer-should-ask.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -679,7 +724,7 @@ There are three questions every buyer should ask themselves:
 If you’re thinking of buying or selling a home, call or email us today and we’ll get right back to you for a free, no-obligation consultation.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+3+questions+home+buyers+should+ask+themselves.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://guaranteedsoldsanantonio.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+3+questions+home+buyers+should+ask+themselves.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -698,7 +743,7 @@ There are three questions every buyer should ask themselves:
       
       <item>
         <title>Your San Antonio Listing Expired. Now What?</title>
-        <link>localhost:4000/your-san-antonio-listing-expired-now.html</link>
+        <link>http://guaranteedsoldsanantonio.com/your-san-antonio-listing-expired-now.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -720,7 +765,7 @@ Then again, it could indicate that you either aren’t priced right or your hous
 If you’re thinking of buying or selling a home, or you’ve tried to sell and your listing expired, feel free to give us a call for a free consultation. We’d be happy to help you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+Your+listing+expired.+Now+what%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://guaranteedsoldsanantonio.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+Your+listing+expired.+Now+what%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -739,7 +784,7 @@ If you have your home listed on the market and the listing expires, what do you 
       
       <item>
         <title>What to Consider When Shifting from Renting to Buying</title>
-        <link>localhost:4000/what-to-consider-when-shifting-from.html</link>
+        <link>http://guaranteedsoldsanantonio.com/what-to-consider-when-shifting-from.html</link>
         
           <category>Real Estate Tips and Tricks</category>
         
@@ -765,7 +810,7 @@ Finally, it’s never too early to talk to an agent about what the home buying p
 If you have any questions regarding this or anything else, please give us a call or send us an email. We’d love to help you out!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+Shifting+from+renting+to+owning.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://guaranteedsoldsanantonio.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+Shifting+from+renting+to+owning.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -784,7 +829,7 @@ If you’re currently renting a property and thinking about making the shift tow
       
       <item>
         <title>Why You Should Make a Home Needs List Today</title>
-        <link>localhost:4000/why-you-should-make-home-needs-list.html</link>
+        <link>http://guaranteedsoldsanantonio.com/why-you-should-make-home-needs-list.html</link>
         
           <category>Real Estate Tips and Tricks</category>
         
@@ -806,7 +851,7 @@ Remember, you can always trade up a few times before you find the ultimate home,
 If you’re thinking of buying or selling a home, call or email us today for a free real estate consultation. We’d be happy to help you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+What+do+you+need+from+your+next+home%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://guaranteedsoldsanantonio.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+What+do+you+need+from+your+next+home%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -825,7 +870,7 @@ Today I’d like to discuss the difference between buying what you need and buyi
       
       <item>
         <title>Should You Work with a Real Estate Team or Individual Agent?</title>
-        <link>localhost:4000/should-you-work-with-real-estate-team.html</link>
+        <link>http://guaranteedsoldsanantonio.com/should-you-work-with-real-estate-team.html</link>
         
           <category>Real Estate Tips and Tricks</category>
         
@@ -851,7 +896,7 @@ There is a lot to the home selling and buying process. Many new individual agent
 If you have any questions, give us a call or send us an email. My team and I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+Real+estate+teams+vs.+individual+agents.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://guaranteedsoldsanantonio.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+Real+estate+teams+vs.+individual+agents.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -870,7 +915,7 @@ If you are planning on buying or selling a home, should you work with a solo age
       
       <item>
         <title>Why You Should Be Setting a Realistic Budget Now</title>
-        <link>localhost:4000/why-you-should-be-setting-realistic.html</link>
+        <link>http://guaranteedsoldsanantonio.com/why-you-should-be-setting-realistic.html</link>
         
           <category>Real Estate Tips and Tricks</category>
         
@@ -892,7 +937,7 @@ It’s also a good idea to keep six to nine months of mortgage payments in the b
 If you’re thinking of buying or selling a home, call or email us today for a free real estate consultation. We’d be happy to help you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+How+to+set+a+realistic+budget.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://guaranteedsoldsanantonio.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+How+to+set+a+realistic+budget.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -911,7 +956,7 @@ Today I’d like to talk to you about setting a realistic budget.
       
       <item>
         <title>Dont Forget About Extra Ending Costs</title>
-        <link>localhost:4000/dont-forget-about-extra-ending-costs.html</link>
+        <link>http://guaranteedsoldsanantonio.com/dont-forget-about-extra-ending-costs.html</link>
         
           <category>Real Estate Financial Tips</category>
         
@@ -933,7 +978,7 @@ If you’re going to furnish the property, you need to make sure you have a budg
 If you’re thinking about buying or selling a home, call or email us today for a free real estate consultation. Have a great day.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+Overlooking+extra+ending+costs.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://guaranteedsoldsanantonio.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+Overlooking+extra+ending+costs.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -952,7 +997,7 @@ Buying a home is not just about the money that you spend up front. It’s also a
       
       <item>
         <title>Which Home Improvement Projects Require Permits? </title>
-        <link>localhost:4000/which-home-improvement-projects-require.html</link>
+        <link>http://guaranteedsoldsanantonio.com/which-home-improvement-projects-require.html</link>
         
           <category>Homeowner Tips</category>
         
@@ -972,7 +1017,7 @@ If you are inside the city limits, you will definitely need to obtain the necess
 If you have any questions, give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+Which+home+renovations+require+permits%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://guaranteedsoldsanantonio.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+Which+home+renovations+require+permits%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -991,7 +1036,7 @@ Do you need permits to build a deck, shed, fence, or other additions to your hom
       
       <item>
         <title>Is It Time to Tear Apart Your Kitchen in San Antonio?</title>
-        <link>localhost:4000/is-it-time-to-tear-apart-your-kitchen.html</link>
+        <link>http://guaranteedsoldsanantonio.com/is-it-time-to-tear-apart-your-kitchen.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -1030,7 +1075,7 @@ An updated kitchen will certainly attract buyers. You know that people gravitate
 Please contact me or anyone on my team. We’re willing to come see your home and suggest improvements that will bring you the maximum return on your investment.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+Is+it+time+to+tear+apart+your+kitchen-.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://guaranteedsoldsanantonio.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+Is+it+time+to+tear+apart+your+kitchen-.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -1049,7 +1094,7 @@ Your kitchen is the heart of your home, and buyers will always gravitate towards
       
       <item>
         <title>What Are the Benefits of a HOA?</title>
-        <link>localhost:4000/what-are-benefits-of-hoa.html</link>
+        <link>http://guaranteedsoldsanantonio.com/what-are-benefits-of-hoa.html</link>
         
           <category>Real Estate Tips and Tricks</category>
         
@@ -1071,7 +1116,7 @@ Most all HOA’s have a fee associated with them, as well as a governing set of 
 If you have any questions for us about HOA’s, or about real estate in general, we would love to hear from you. Give us a call or send us an email to get in touch!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+What+do+HOA%2527s+do%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://guaranteedsoldsanantonio.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+What+do+HOA%2527s+do%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
