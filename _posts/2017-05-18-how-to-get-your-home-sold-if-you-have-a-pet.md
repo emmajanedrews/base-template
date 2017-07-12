@@ -1,7 +1,7 @@
 ---
 youtube_code: lLXRzq20gaY
 excerpt:
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate-+How+to+sell+your+home+if+you%2527ve+got+a+pet.mp4'
 pullquote: PET OWNERS ARE LESS SENSITIVE TO ODORS IN THEIR HOME THAN PROSPECTIVE BUYERS ARE.
 enclosure_type: video/mp4
 enclosure_time:
@@ -9,17 +9,18 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: How to Get Your Home Sold If You Have a Pet
-date: '2017-05-18T10:40:00.000-07:00'
+date: 2017-05-18 17:40:00
 author: Vyral Admin
 tags:
-- Home Seller Tips
-modified_time: '2017-05-19T09:53:09.175-07:00'
-thumbnail: https://img.youtube.com/vi/lLXRzq20gaY/default.jpg
-blogger_id: tag:blogger.com,1999:blog-3975737605728970530.post-6190861759640585108
-blogger_orig_url: http://www.shawnashometeam.com/2017/05/tips-for-pet-owners-who-want-to-sell.html
+  - Home Seller Tips
+modified_time:
+thumbnail: 'https://img.youtube.com/vi/lLXRzq20gaY/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-3975737605728970530.post-6190861759640585108'
+blogger_orig_url: 'http://www.shawnashometeam.com/2017/05/tips-for-pet-owners-who-want-to-sell.html'
 ---
-{% include youtube.html %}
-The good news is, many homebuyers are looking for a pet-friendly home.
+
+
+{% include youtube.html %}The good news is, many homebuyers are looking for a pet-friendly home.
 
 Two out of three of us have a pet, and 61% of pet owners say they have trouble finding a home that is a good match for their pet.
 
