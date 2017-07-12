@@ -21,16 +21,16 @@ client:
   url: 'http://www.josephsabato.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'http://josephsabato.kwrealty.com/sell/'
+  first_CTA_URL: 'http://www.findmartincountyflhomes.com/homevalue/'
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://www.josephsabato.com/listings-search/#/2033763787'
+  second_CTA_URL: 'http://www.findmartincountyflhomes.com/'
   VR_form: 'http://oi.vresp.com?fid=4a42c50754'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/005.jpg
     CTA_title: Looking to Buy a Home?
     CTA_text: Search the entire MLS for homes located in -- MARKET --.
     CTA_link_text: Home Search Tool
-    CTA_url: 'http://www.josephsabato.com/listings-search/'
+    CTA_url: 'http://www.findmartincountyflhomes.com/'
 lender:
   show_section: false
   header_text: Preferred Lender
