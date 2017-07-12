@@ -1,5 +1,5 @@
 audit_header: false
-title: Wilson Realty Group
+title: Ursula & Associates
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: true
 custom_links:
@@ -10,9 +10,9 @@ client:
   name: Jason Wilson
   license_number: 333062
   about_markdown: |
-    Jason is the lead agent and owner of the Wilson Realty Group. He has been a national speaker and teacher for the real estate industry for years. "We are students of the market and excel in knowing how to help our clients navigate the market with ease. We work to get our clients top dollar with expert knowledge, in the least amount of time with the industry’s strongest marketing plan."
+    Jason is the lead agent and owner of Ursula & Associates. He has been a national speaker and teacher for the real estate industry for years. "We are students of the market and excel in knowing how to help our clients navigate the market with ease. We work to get our clients top dollar with expert knowledge, in the least amount of time with the industry’s strongest marketing plan."
   market: Woodstock
-  brand: Wilson Realty Group
+  brand: Ursula & Associates
   brokerage: Keller Williams Realty Partners
   address: '220 Heritage Walk #101<br>Woodstock, GA 30188'
   phone: 678-389-3887
