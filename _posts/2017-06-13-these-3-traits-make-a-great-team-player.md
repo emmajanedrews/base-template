@@ -8,8 +8,8 @@ enclosure: 'https://s3.amazonaws.com/vyralmarketing/Govig/Healthcare/Videos/2017
 pullquote: 'Someone who is hungry will want more responsibility, to learn more, and be self-motivated.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/image001.png
 youtube_code: KpGLfMjYqxA
 ---
 
