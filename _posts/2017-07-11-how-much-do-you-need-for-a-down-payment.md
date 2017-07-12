@@ -17,7 +17,7 @@ youtube_code: WJx0AlT53ZE
 
 {% include youtube.html %}I recently sat down with some buyer specialists and they said that one of the biggest problems buyers are facing today is misinformation. **One of the biggest pieces of misinformation that has spread around is that you need a 20% down payment to purchase a home.&nbsp;**
 
-This simply isn’t true. There are a number of options you can choose where you won’t have to save up a fortune to buy a home. Fannie Mae and Freddie Mac both offer 3% down programs. FHA financing offers a 3.5% down payment and USDA and VA loans offer 0% down programs. USDA loans are for rural properties, and many homes here on the Gulf Coast qualify for it. VA loans are for active duty members and veterans of the Armed Forces.
+This simply isn’t true. There are a number of options you can choose where you won’t have to save up a fortune to buy a home. Fannie Mae and Freddie Mac both offer 3% down programs. FHA financing offers a 3.5% down payment and USDA and VA loans offer 0% down programs. USDA loans are for rural properties, and many homes here on the Gulf Coast qualify for it. VA loans are for active duty members and veterans of the armed forces.
 <br>{% include pullquote.html %}
 <br>A lot of these programs are for “first-time buyers,” but that doesn’t just limit them to people who are buying their first home. **Technically, a “first-time buyer” is someone who hasn’t bought a home in the last three years.** That’s it. If you’ve been sitting on the sidelines waiting to make a move, this may be your opportunity.
 
