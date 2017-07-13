@@ -3,8 +3,8 @@ layout: post
 title: How You Can Take Advantage of a Great Jumbo Mortgage Program
 tags:
   - Home Buyer Tips
-excerpt:
-enclosure:
+excerpt: 'Realtrends.com came out with their list of the top agents in the country recently, and while we weren’t quite able to make the top 1,000 real estate agents in the country, we are excited to announce that we were ranked No. 20 in the state of Maryland for 2016 in terms of all units sold.'
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Wes+Peters/Baltimore+Metro+Real+Estate-+Ranked+%252320+In+All+Of+Maryland.mp4'
 pullquote: Interest rates do get better as you have a larger down payment.
 enclosure_type: video/mp4
 enclosure_time:
