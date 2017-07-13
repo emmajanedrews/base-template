@@ -75,6 +75,7 @@ socials:
   pinterest_url:
   zillow_url: https://www.zillow.com/profile/The-Dee-Team/
   trulia_url: https://www.trulia.com/profile/deepak-gupta-agent-orlando-fl-zg5yvxj4/overview
+  realtor_url: http://www.realtor.com/realestateagents/DEEPAK-GUPTA_Orlando_FL_976331_568209837
   yelp_url:
   podcast_url:
 
@@ -90,8 +91,8 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 30
-  hero_text: -- MARKET -- Real Estate Video Blog
+  logo_width_number: 80
+  hero_text: Central Florida and Orlando Real Estate Video Blog
   hero_background_hex: '#094264'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
@@ -106,7 +107,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: rgba(36, 35, 42, .4)
+  shadow_color: rgb(64, 65, 88)
 
 buttons:
   button_radius_number: 0

@@ -1604,13 +1604,13 @@ label.tree-toggle {
 
 .site-logo {
   width: 90%;
-  max-width: 30rem;
-  -webkit-filter: drop-shadow(0px 2px 7px rgba(36, 35, 42, 0.4));
-  filter: drop-shadow(0px 2px 7px rgba(36, 35, 42, 0.4)); }
+  max-width: 80rem;
+  -webkit-filter: drop-shadow(0px 2px 7px #404158);
+  filter: drop-shadow(0px 2px 7px #404158); }
 
 .site-title {
   color: white;
-  text-shadow: 0px 2px 7px rgba(36, 35, 42, 0.4);
+  text-shadow: 0px 2px 7px #404158;
   text-transform: uppercase;
   font-size: 6.5rem;
   padding-bottom: 4rem;
@@ -2056,7 +2056,7 @@ table tr, table td {
   margin: 2rem 0;
   color: white;
   text-transform: uppercase;
-  text-shadow: 0px 2px 7px rgba(36, 35, 42, 0.4); }
+  text-shadow: 0px 2px 7px #404158; }
 .post .headshot {
   width: 100%;
   max-width: 15rem;
@@ -2071,7 +2071,7 @@ table tr, table td {
 
 .tag-container {
   color: white;
-  text-shadow: 0px 2px 7px rgba(36, 35, 42, 0.4);
+  text-shadow: 0px 2px 7px #404158;
   margin-bottom: 1rem; }
 
 .tag {
@@ -2082,7 +2082,7 @@ table tr, table td {
 .author-attribution {
   color: white;
   font-weight: 300;
-  text-shadow: 0px 2px 7px rgba(36, 35, 42, 0.4);
+  text-shadow: 0px 2px 7px #404158;
   margin-bottom: 2rem;
   font-style: italic; }
   .author-attribution a {
@@ -2387,7 +2387,7 @@ table tr, table td {
   .search-box {
     max-width: 95%;
     margin: 0 auto; } }
-.zillow-logo, .trulia-logo, .yelp-logo {
+.zillow-logo, .trulia-logo, .yelp-logo, .realtor-logo {
   fill: white;
   max-height: 3rem;
   position: relative;
@@ -2395,6 +2395,9 @@ table tr, table td {
 
 .trulia-logo {
   top: 0.2rem; }
+
+#realtor-logo {
+  width: 150px; }
 
 .review-button-wrapper {
   text-align: left;
