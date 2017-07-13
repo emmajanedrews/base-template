@@ -12,42 +12,44 @@
 .site-logo
 	width: 90%
 	max-width: $logo-width
+	margin-bottom: 2rem
 	@include filter(drop-shadow($header-shadow))
 
 .site-title
 	color: $header-font-color
 	text-shadow: $header-shadow
+	background: rgba(7,7,7,.6)
 	text-transform: uppercase
-	font-size: 6.5rem
-	padding-bottom: 4rem
+	font-size: 5rem
+	padding-bottom: 3rem
 	margin-bottom: 0
 	font-weight: 400
 
 @media (max-width: 1100px)
 	.site-title
-		font-size: 5rem
+		font-size: 3rem
 
 @media (max-width: 1000px)
 	.site-logo
-		max-width: 30rem
+		max-width: 40rem
 
 @media (max-width: 760px)
 	#hero
 		// height: 33rem
 	.site-logo
-		max-width: 30rem
+		max-width: 40rem
 		margin-top: 4rem
 	.site-title
-		font-size: 5rem
+		font-size: 3rem
 
 @media (max-width: 600px)
 	#hero
 		// height: 31rem
 	.site-logo
-		max-width: 20rem
+		max-width: 30rem
 		margin-top: 2rem
 	.site-title
-		font-size: 3.5rem
+		font-size: 2rem
 	.cta
 		padding: 1rem
 @media (max-width: 400px)
