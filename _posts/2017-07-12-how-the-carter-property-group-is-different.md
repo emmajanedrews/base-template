@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How The Carter Property Group Is Different
+title: How the Carter Property Group Is Different
 tags:
   - Real Estate
 excerpt: 'As a real estate professional working with Carter Property Group, my job is to ensure that communication is clear all the way through closing.'
@@ -16,7 +16,7 @@ youtube_code: RhHVMFZwaEY
 
 {% include youtube.html %}
 
-As a transaction coordinator and operations manager, my job involves handling the benchmarks and communication from the time a property goes under contract all the way through closing.
+Hello, my name is Paul Pop, and I am the transaction coordinator and operations manager for the Carter Property Group. &nbsp;As a transaction coordinator and operations manager, my job involves handling the benchmarks and communication from the time a property goes under contract all the way through closing.
 
 Between attorneys, other agents, clients, lenders, and appraisers, about six other people enter the transaction once a property goes under contract.
 
@@ -24,11 +24,11 @@ What this means is that I communicate with all of these people to make sure we�
 
 {% include pullquote.html %}
 
-Additionally, I make sure that the client is in-the-know all the way through the process.
+Additionally, I make sure that the client is in the know all the way through the process.
 
 After getting my license in 2005, I worked first as an individual agent before meeting Ashley in 2008.
 
-One of the things I found most interesting about my job with The Carter Property Group is that I’ve been put in a position where I’ve done the things I am best at.
+One of the things I found most interesting about my job with the Carter Property Group is that I’ve been put in a position where I’ve done the things I am best at.
 
 There’s a high level of customer service, communication, and organization here. The opportunities I’ve found here remind me of the reason I got into real estate to begin with.
 
