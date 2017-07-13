@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 9 Ways to Cut Energy Costs This Summer
-date: 2017-07-10 11:36:10
+date: 2017-07-10 11:36:00
 tags:
   - Real Estate
 excerpt: 'If you’re looking to cut energy costs for the summer season, here are nine useful methods that will save you money without sacrificing comfort:'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+9+ways+to+cut+summer+energy+costs.mp4'
 pullquote: 'If you aren’t home, you obviously don’t need it to be as cool as when you’re there.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -37,6 +37,6 @@ If you’re looking to cut energy costs for the summer season, here are nine use
 
 **8. Get your HVAC tuned up.** Don’t ignore your air conditioner until something goes wrong with it, because if it malfunctions when it’s 100 degrees out in San Antonio, you’ll want someone to fix it right away, and it will probably cost you a lot of money to get that done.
 
-**9. Upgrade your systems.&nbsp;**This means things like changing your light bulbs and replacing major appliances like your refrigerator, washer, or dryer. If and when you do, make sure you check out the energy efficiency rating of these items before you buy another so its replacement has a higher rating.
+**9. Upgrade your systems.**This means things like changing your light bulbs and replacing major appliances like your refrigerator, washer, or dryer. If and when you do, make sure you check out the energy efficiency rating of these items before you buy another so its replacement has a higher rating.
 
 If you have any questions about cutting summer energy costs or you’re thinking about buying or selling a home in the San Antonio market, don’t hesitate to reach out to me. I’d be glad to help you.
