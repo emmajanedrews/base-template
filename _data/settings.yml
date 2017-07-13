@@ -36,7 +36,7 @@ sidebar_CTA:
   CTA_title: Looking to Buy a Home?
   CTA_text: Search the entire MLS for homes located in -- MARKET --.
   CTA_link_text: Home Search Tool
-  CTA_url: 'http://www.themylesgroup.net/buy/'
+  CTA_url: 'https://www.themylesgroup.net/results-map/?city=100227%2C100236%2C100230&custom=98897%2C98896%2C98898&midlat=31.025577376963536&midlng=-97.7484455919922&nelat=31.238931209374297&nelng=-97.34023483759768&sort=importdate&status=A&swlat=30.811744623058598&swlng=-98.15665634638674&zoom=11'
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
