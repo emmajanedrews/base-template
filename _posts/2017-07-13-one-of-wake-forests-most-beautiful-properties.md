@@ -21,6 +21,6 @@ We have a very special home tour to show you today. **This Spanish-style propert
 
 {% include pullquote.html %}
 
-Inside the home, you’ll find a gorgeous 1st-floor master bedroom with his and hers closets. This home also has three different fireplaces, a fitness room, rec room, media room, and even an elevator. All of this sits on a 58,000 square foot. lot that also houses a horse facility.
+Inside the home, you’ll find a gorgeous 1st-floor master bedroom with his and hers closets. This home also has three different fireplaces, a fitness room, rec room, media room, and even an elevator. All of this sits on a 58,000 square foot lot that also houses a horse facility.
 
 **We could talk about this home all day, but seeing it in person is another story.** Check out the video above for a virtual tour and if you’d like to see the home in person, just give us a call or send us an email. We look forward to hearing from you.
