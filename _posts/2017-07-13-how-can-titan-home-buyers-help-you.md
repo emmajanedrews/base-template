@@ -1,11 +1,11 @@
 ---
 layout: post
 title: How Can Titan Home Buyers Help You?
-date: 2017-07-13 15:06:09
+date: 2017-07-13 15:06:00
 tags:
   - Home Seller Tips
 excerpt: 'Our sister company, Titan Home Buyers, helps out homeowners who face an uphill battle in selling their home. They give those homeowners an easy way out, complete with a cash offer.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/2017/Charleston+Real+Estate+Agent-+Titan+Home+Buyers.mp4'
 pullquote: They have helped three military families sell just this month.
 enclosure_type: video/mp4
 enclosure_time:
@@ -29,7 +29,7 @@ If you are part of a military family and you don’t want to go through the hass
 
 **If you are facing a foreclosure, you can save your credit and get a cash offer by working with Titan Home Buyers.**
 
-If you or anyone you know is going through a tough time and is in need of a quick home sale, give Glenda and our friends at Titan Home Buyers a call at (843) 603-3377.&nbsp;
+If you or anyone you know is going through a tough time and is in need of a quick home sale, give Glenda and our friends at Titan Home Buyers a call at (843) 603-3377.
 
 If you have any other real estate questions for us, don’t hesitate to reach out and give us a call or send us an email. We would love to hear from you.
-<br>&nbsp;
+<br>
