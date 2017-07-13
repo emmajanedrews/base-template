@@ -16,7 +16,7 @@ youtube_code: 32bWZnEZJnA
 
 {% include youtube.html %}
 
-Hello, my name is Paul Pop, and I am the transaction coordinator and operations manager for the Carter Property Group. &nbsp;As a transaction coordinator and operations manager, my job involves handling the benchmarks and communication from the time a property goes under contract all the way through closing.
+Hello, my name is Paul Popp, and I am the transaction coordinator and operations manager for the Carter Property Group. &nbsp;As a transaction coordinator and operations manager, my job involves handling the benchmarks and communication from the time a property goes under contract all the way through closing.
 
 Between attorneys, other agents, clients, lenders, and appraisers, about six other people enter the transaction once a property goes under contract.
 
