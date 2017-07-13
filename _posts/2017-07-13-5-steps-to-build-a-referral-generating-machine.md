@@ -5,7 +5,7 @@ date: 2017-07-13 01:30:00
 tags:
   - Real Estate
 excerpt: How can you increase your chance of getting solid referrals? Today I’ve laid out five steps that will help you do just that.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/+Video/2017/July/Central+PA+Real+Estate+Agent-+5+Steps+to+Build+a+Referral-Generating+Machine.mp4'
 pullquote: Bring an item of value to your meetings with your contacts.
 enclosure_type: video/mp4
 enclosure_time:
