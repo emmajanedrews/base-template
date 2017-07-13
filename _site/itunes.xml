@@ -7,9 +7,9 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Richardson Real Estate - your professional Milwaukee Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Joe Richardson</managingEditor>
-    <lastBuildDate>2017-06-13 16:15:47 -0500</lastBuildDate>
+    <lastBuildDate>2017-07-13 16:27:44 -0500</lastBuildDate>
     <media:copyright>Joe Richardson</media:copyright>
-    <media:thumbnail url="/img/podcast.jpg"/>
+    <media:thumbnail url="http://i.imgur.com/W2EXYv5.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Milwaukee, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,103 +18,73 @@
     </itunes:owner>
     <itunes:author>Joe Richardson</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="/img/podcast.jpg"/>
+    <itunes:image href="http://i.imgur.com/W2EXYv5.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Milwaukee, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Milwaukee Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Richardson Real Estate - your professional Milwaukee Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>http://navthenoise.com/this-is-a-test-post.html</link>
-        
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
+        <title>Can You Trust a Zestimate?</title>
+        <link>http://navthenoise.com/can-you-trust-a-zestimate.html</link>
         
           <category>Home Seller Tips</category>
         
         <author>Joe Richardson</author>
-        <pubDate>2016-10-04 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2017-07-05 05:51:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Joe+Richardson/Richardson+Real+Estate+The+Zestimate+effect.mp4</guid>
         <description>
 
-}
+The Zestimate is Zillow’s tool for calculating home values. It gives you an instant home value based on a complex algorithm, but the accuracy can be spotty.
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+If you’re in a neighborhood, for example, that has a lot of recent sales of similar homes, your Zestimate can be pretty accurate. However, if you’re in an area that has a new subdivision nearby or your house is a little older or a little newer than the most recently sold homes, the estimate probably isn’t very accurate.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+“The accuracy can be pretty spotty.”
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+No matter what, you should talk to a real estate professional if you want an accurate valuation. Only an expert in the market will be able to understand what your home’s value truly is based on current market conditions and the most recent comparable sales data.
 
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+If you need a professional opinion on your home’s value or if you just have any questions, you can always give me a call or send me an email. I look forward to hearing from you soon.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Joe+Richardson/Richardson+Real+Estate+The+Zestimate+effect.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="http://navthenoise.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Joe+Richardson/Richardson+Real+Estate+The+Zestimate+effect.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>Zestimates can be tricky. Their accuracy depends on a lot of factors that have nothing to do with your home.</itunes:subtitle>
         <itunes:author>Joe Richardson</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>Zestimates can be tricky. Their accuracy depends on a lot of factors that have nothing to do with your home.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Milwaukee, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>A Fox in Space</title>
-        <link>http://navthenoise.com/a-fox-in-space.html</link>
-        
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
+        <title>Which Is Better: Doing a Major Renovation or Some Minor Remodeling?</title>
+        <link>http://navthenoise.com/which-is-better-doing-a-major-renovation-or-some-minor-remodeling.html</link>
         
           <category>Home Seller Tips</category>
         
         <author>Joe Richardson</author>
-        <pubDate>2016-09-28 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2017-07-05 05:13:47 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Joe+Richardson/Richardson+Real+Estate+Making+smart+upgrades+to+boost+your+home+sale+(2).mp4</guid>
         <description>
 
-}
+One question I’ve been getting a lot lately is, “When I list my home, should I do a major renovation project or am I better off doing some minor remodeling?”
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+“Buyers are drawn to things like curb appeal and attractive landscaping.”
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+The answer I give to 99% of the people I meet with is to do a minor type of remodeling or upgrade, as this will bring you a better return on your investment.Don’t get me wrong—a brand-new kitchen or bathroom will help your home sell hand over fist, but by the time you get done with that type of project, there’s usually a lot of unanticipated costs that can also cost you time and prevent you from getting top dollar for your home sale.
 
+Research indicates you should start your upgrades outside. Buyers are drawn to things like curb appeal and attractive landscaping. Avoid getting too customized with your renovations, though. Not everybody likes a certain color or style, so you’re better off maintaining neutrality.
 
-  list item
-  list item
-  list item
-  list item
-  list item
+Lastly, do some decluttering. It’s an often-overlooked task, but it’s an easy one to accomplish. I understand if you have things you appreciate lying around the house, but clutter can become distracting to a potential buyer.
 
-
-
-  list item
-  list item
-  list item
-  list item
-  list item
-
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+If you have any questions about which minor upgrades you can make to increase your home’s value and sale-ability, don’t hesitate to give me a call or shoot me an email. I’d be glad to help.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Joe+Richardson/Richardson+Real+Estate+Making+smart+upgrades+to+boost+your+home+sale+(2).mp4" length="" type="video/mp4"/>
         <media:thumbnail url="http://navthenoise.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Joe+Richardson/Richardson+Real+Estate+Making+smart+upgrades+to+boost+your+home+sale+(2).mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>Are you better off doing a major renovations or some minor remodeling when listing your home? 99% of the time, you’re better off sticking with some minor remodeling or upgrades. These will bring you a better return on your investment than a large-scale renovation project. Research indicates you should start your upgrades outside. To learn more about which upgrades will bring you the best return on your investment, watch my latest video.</itunes:subtitle>
         <itunes:author>Joe Richardson</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>Are you better off doing a major renovations or some minor remodeling when listing your home? 99% of the time, you’re better off sticking with some minor remodeling or upgrades. These will bring you a better return on your investment than a large-scale renovation project. Research indicates you should start your upgrades outside. To learn more about which upgrades will bring you the best return on your investment, watch my latest video.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Milwaukee, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
