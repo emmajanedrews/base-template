@@ -23,7 +23,7 @@ First, **get handy**. As homeowners, we can often get into a lull of letting sma
 
 {% include pullquote.html %}
 
-Second, remember that **cleanliness matters**. There’s a huge correlation between the cleanliness of a home and a home that hasn’t been cleaned over time. Do yourself a favor and schedule a weekly full cleaning of your house so a habit is formed. Things like bugs and rodents that can get into your garage, basement, attic space, and other corners of your home that you don’t go into can really add up over time. It also helps to have a contract with a pest control company.
+Second, remember that **cleanliness matters**. There’s a huge correlation between the cleanliness of a home and a home that hasn’t been cleaned over time. Do yourself a favor and schedule a weekly full cleaning of your house so a habit is formed. Things like bugs and rodents that can get into your garage, basement, attic space, and other corners of your home that you don’t go into and can really add up over time. It also helps to have a contract with a pest control company.
 
 Lastly, **think outside the box**. There’s another huge correlation between first impressions and the curb appeal of a house and what a property sells for. If you get into a habit of letting your lawn and other parts of your landscaping go, that can add up when it’s time to put your home on the market. Pay attention to your lawn, the mulching, the edging, the aerating, and other things like that. If those basic items are taken care of year after year, it shows buyers that you’ve maintained the exterior of your home, and it will correlate to an average of a 100% return on investment for both your time and money.
 
