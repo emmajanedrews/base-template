@@ -22,7 +22,7 @@ This seems obvious. Why wouldn’t you look for the best home out there?
 
 The trouble is that **when everyone wants the best, it can make the best hard to find.** With pristine homes moving off the market just days after listing, sometimes it can feel like you never had a chance to get your offer in and seal the deal on your dream home.
 
-Today, I’m here to offer you a solution called “The Dream Finder Program.”
+Today, I’m here to offer you a solution called “The Dream Home Finder Program.”
 
 What we do is compile a secret list of awesome homes that were withdrawn or expired from the market. We contact those homes’ sellers with a letter and use our own methods to get those homes back and ready to sell for buyers like you.
 
