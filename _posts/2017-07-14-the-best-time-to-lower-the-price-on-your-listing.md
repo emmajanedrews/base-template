@@ -17,9 +17,9 @@ youtube_code: 8UnHG23MlqE
 
 {% include youtube.html %}
 
-When you first list your home, something magical happens. Like a new kid at a high school dance, all eyes are going to be upon your listing. Buyers and agents alike are going to make some rapid judgments about your home: is it over priced, is the condition of your home in good shape, and is the location an ideal location for the buyer.
+When you first list your home something magical happens. Like a new kid at a high school dance, all eyes are going to be upon your listing. Buyers and agents alike are going to make some rapid judgments about your home: is it over priced, is the condition of your home in good shape, and is the location an ideal location for the buyer.
 
-The first impression of your home in the first few weeks of it being listed is going to determine whether or not people come to see it. If you not getting very many showings or no showings at all, you’ve got a problem. It means that the market as a whole is rejecting your value proposition.
+The first impression of your home in the first few weeks of it being listed is going to determine whether or not people come to see it. If you're not getting very many showings or no showings at all, you’ve got a problem. It means that the market as a whole is rejecting your value proposition.
 
 {% include pullquote.html %}
 
