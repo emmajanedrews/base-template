@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Northwest Arkansas Market Update
+title: The Best Time to Lower the Price on Your Listing
 date: 2017-06-14 12:57:00
 tags:
   - Market Update
-excerpt: 'Things have been crazy in the Northwest Arkansas real estate market. Both sales and prices are up and homes are selling faster than even last year when the market was hot. Today, I want to stop by with a full market update broken down by Benton and Washington County. With what’s going on in the market, now might be the time to make a move if you’ve been considering it. For more details, watch my latest video.'
+excerpt: 'When you first list your home on the market, something magical happens. All eyes are on your home, and buyers and agents will be looking for the right conditions to be met. These are price, condition, and location. If you aren’t getting showings, then you might need to lower the price. When is the best time to do this? The answer may surprise you. To learn more about lowering the price on your listing, watch my latest video.'
 enclosure:
 pullquote: Prices are definitely up.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: '-76mqYTPvJ8'
+youtube_code: 8UnHG23MlqE
 ---
 
 
