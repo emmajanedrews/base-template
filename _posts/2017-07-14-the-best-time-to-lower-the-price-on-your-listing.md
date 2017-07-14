@@ -3,6 +3,7 @@ layout: post
 title: The Best Time to Lower the Price on Your Listing
 date: 2017-07-14 00:00:00
 tags:
+  - Home Seller Tips
 excerpt: 'When you first list your home on the market, something magical happens. All eyes are on your home, and buyers and agents will be looking for the right conditions to be met. These are price, condition, and location. If you aren’t getting showings, then you might need to lower the price. When is the best time to do this? The answer may surprise you. To learn more about lowering the price on your listing, watch my latest video.'
 enclosure:
 pullquote: 'The sooner you lower the price, the better.'
