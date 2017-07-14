@@ -1,0 +1,36 @@
+---
+layout: post
+title: Northwest Arkansas Market Update
+date: 2017-06-14 12:57:00
+tags:
+  - Market Update
+excerpt: 'Things have been crazy in the Northwest Arkansas real estate market. Both sales and prices are up and homes are selling faster than even last year when the market was hot. Today, I want to stop by with a full market update broken down by Benton and Washington County. With what’s going on in the market, now might be the time to make a move if you’ve been considering it. For more details, watch my latest video.'
+enclosure:
+pullquote: Prices are definitely up.
+enclosure_type: video/mp4
+enclosure_time:
+use_youtube_image: true
+youtube_alternate_image:
+youtube_code: '-76mqYTPvJ8'
+---
+
+
+{% include youtube.html %}
+
+There’s a lot going on in the Northwest Arkansas market this year.
+
+**The market is booming and there are a lot of great things happening.** According to the Northwest Arkansas Council, there are 31 people moving in every day and research from the University of Arkansas shows that the average age of residents here is 33.
+
+As for market activity, I wanted to look at things in terms of Benton County and Washington County.
+
+There are currently about 1,500 homes for sale in Benton County and roughly a quarter are new builds. In Washington County, there are 738 homes for sale with 149 being new builds. Through the first five months of the year in Benton County, 2,375 homes have sold compared to 2,279 during the same period last year. In Washington County, 1,406 homes sold in the first five months of 2017. That number last year was 1,341.
+
+{% include pullquote.html %}
+
+Interestingly, prices are definitely up. In Benton County, price per square foot rose about $8. The number of days it takes to sell a home on average has held steady in Benton County, but in Washington County, homes are selling in an average of about 30 days faster than last year. Prices in Washington County are also up by about $7 per square foot.
+
+New construction home sales are up by about 80 this year in Benton County and up by about 60 in Washington County. Prices are also up about $8 a square foot for such homes. If you thought about buying a home last year but waited until this year, it will cost you about $20,000 more on average.
+
+Interest rates are still low for homes, making it still a great time to buy. March marked the 31st consecutive quarter of incline in the economy, tying for third-longest in the history of the U.S. economy.
+
+If you’re interested in buying a home or you have any other questions, don’t hesitate to give us a call or send us an email. We’re here to help.
