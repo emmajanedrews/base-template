@@ -6,7 +6,7 @@ tags:
   - Market Update
 excerpt: 'When you first list your home on the market, something magical happens. All eyes are on your home, and buyers and agents will be looking for the right conditions to be met. These are price, condition, and location. If you aren’t getting showings, then you might need to lower the price. When is the best time to do this? The answer may surprise you. To learn more about lowering the price on your listing, watch my latest video.'
 enclosure:
-pullquote: Prices are definitely up.
+pullquote: 'The sooner you lower the price, the better.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -17,20 +17,16 @@ youtube_code: 8UnHG23MlqE
 
 {% include youtube.html %}
 
-There’s a lot going on in the Northwest Arkansas market this year.
+When you first list your home, something magical happens. Like a new kid at a high school dance, all eyes are going to be upon your listing. Buyers and agents alike are going to make some rapid judgments about your home: is it over priced, is the condition of your home in good shape, and is the location an ideal location for the buyer.
 
-**The market is booming and there are a lot of great things happening.** According to the Northwest Arkansas Council, there are 31 people moving in every day and research from the University of Arkansas shows that the average age of residents here is 33.
-
-As for market activity, I wanted to look at things in terms of Benton County and Washington County.
-
-There are currently about 1,500 homes for sale in Benton County and roughly a quarter are new builds. In Washington County, there are 738 homes for sale with 149 being new builds. Through the first five months of the year in Benton County, 2,375 homes have sold compared to 2,279 during the same period last year. In Washington County, 1,406 homes sold in the first five months of 2017. That number last year was 1,341.
+The first impression of your home in the first few weeks of it being listed is going to determine whether or not people come to see it. If you not getting very many showings or no showings at all, you’ve got a problem. It means that the market as a whole is rejecting your value proposition.
 
 {% include pullquote.html %}
 
-Interestingly, prices are definitely up. In Benton County, price per square foot rose about $8. The number of days it takes to sell a home on average has held steady in Benton County, but in Washington County, homes are selling in an average of about 30 days faster than last year. Prices in Washington County are also up by about $7 per square foot.
+At that point, there is only one thing can typically be done is to lower the price and the sooner, the better. You may be thinking, “Why in such a short time? Why not keep the price as it is for a few more weeks?”
 
-New construction home sales are up by about 80 this year in Benton County and up by about 60 in Washington County. Prices are also up about $8 a square foot for such homes. If you thought about buying a home last year but waited until this year, it will cost you about $20,000 more on average.
+Think of the real estate market as an audience in a movie theater. When the movie first hits the screen, the audience members are going to make a determination about whether they like the movie or not. More time isn’t going to change their mind. At that point, you’re just waiting for new audience members to trickle in and against all odds, they love it.
 
-Interest rates are still low for homes, making it still a great time to buy. March marked the 31st consecutive quarter of incline in the economy, tying for third-longest in the history of the U.S. economy.
+More than likely, the best decision when you aren’t getting showings is to edit the price and get it back up on the MLS.
 
-If you’re interested in buying a home or you have any other questions, don’t hesitate to give us a call or send us an email. We’re here to help.
+If you have any questions about this topic or you’re looking to buy or sell a home, give me a call. I’d be happy to help you!
