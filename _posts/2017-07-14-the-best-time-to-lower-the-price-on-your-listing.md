@@ -23,9 +23,9 @@ The first impression of your home in the first few weeks of it being listed is g
 
 {% include pullquote.html %}
 
-At that point, there is only one thing can typically be done is to lower the price and the sooner, the better. You may be thinking, “Why in such a short time? Why not keep the price as it is for a few more weeks?”
+At that point, the only thing that can typically be done is to lower the price and the sooner, the better. You may be thinking, “Why in such a short time? Why not keep the price as it is for a few more weeks?”
 
-Think of the real estate market as an audience in a movie theater. When the movie first hits the screen, the audience members are going to make a determination about whether they like the movie or not. More time isn’t going to change their mind. At that point, you’re just waiting for new audience members to trickle in and against all odds, they love it.
+Think of the real estate market as an audience in a movie theater. When the movie first hits the screen, the audience members are going to make a determination about whether they like the movie or not. More time isn’t going to change their minds. At that point, you’re just waiting for new audience members to trickle in and against all odds, they love it.
 
 More than likely, the best decision when you aren’t getting showings is to edit the price and get it back up on the MLS.
 
