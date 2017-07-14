@@ -1,25 +1,25 @@
 ---
-youtube_code: X2mFO1q9Gro
+youtube_code: E4PpwgF-4Vg
 excerpt:
-enclosure: https://s3.amazonaws.com/vyralmarketing/Jody+Donaldson/Northern+Virginia+Real+Estate+Agent-+How+do+guaranteed+home+sale+programs+work%253F.mp4
-pullquote: If this program seems too good to be true, it probably is.
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Jody+Donaldson/Northern+Virginia+Real+Estate+Agent-+How+do+guaranteed+home+sale+programs+work%253F.mp4'
+pullquote: 'If this program seems too good to be true, it probably is.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: Do Guaranteed Home Sale Programs Really Work in Northern Virginia?
-date: '2016-03-04T08:17:00.002-08:00'
+date: 2016-03-04 16:17:00
 author: Vyral Admin
 tags:
-- Real Estate Tips and Tricks
-modified_time: '2016-03-09T11:49:26.656-08:00'
-thumbnail: https://img.youtube.com/vi/X2mFO1q9Gro/default.jpg
-blogger_id: tag:blogger.com,1999:blog-2145316695881808469.post-8738417951721494827
-blogger_orig_url: http://www.jodydonaldson.tv/2016/03/do-guaranteed-sale-programs-really-work.html
+modified_time:
+thumbnail: 'https://img.youtube.com/vi/X2mFO1q9Gro/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-2145316695881808469.post-8738417951721494827'
+blogger_orig_url: 'http://www.jodydonaldson.tv/2016/03/do-guaranteed-sale-programs-really-work.html'
 ---
-{% include youtube.html %}
-You’ve seen the signs: I’ll sell your home in 60 days, or I’ll buy it. I want to take a minute and share with you **how those programs work,** and what you should be aware of when considering this type of program.
+
+
+{% include youtube.html %}You’ve seen the signs: I’ll sell your home in 60 days, or I’ll buy it. I want to take a minute and share with you **how those programs work,** and what you should be aware of when considering this type of program.
 
 Personally, I don’t have a guaranteed sale program. I can’t offer something in good conscience that, in my opinion, is **a bait and switch marketing tactic.** I have nothing against the Realtors that use these programs, and a lot of the most successful agents in this country have some form of this program in their business plan.
 
@@ -29,7 +29,7 @@ Some of these programs include **an agreed upon list price,** which is solely ba
 
 {% include pullquote.html %}
 
-In addition, the pre-agreed upon price that the agent would pay for the home is usually **well below market value** and includes the same seller commissions and fees as a regular transaction.  
+In addition, the pre-agreed upon price that the agent would pay for the home is usually **well below market value** and includes the same seller commissions and fees as a regular transaction.
 
 The reality is that these types of programs might work for a small percentage of people, but ultimately, **guaranteed sale programs are a marketing tool to get the agent’s phone to ring,** and it often works. I’ve talked to several who use these programs, and they all say that it’s a huge lead generation system for them.
 
