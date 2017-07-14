@@ -1,26 +1,27 @@
 ---
-youtube_code: fNyU7f7XTl0
+youtube_code: HWiCMwDLGog
 excerpt:
-enclosure: https://s3.amazonaws.com/vyralmarketing/Jody+Donaldson/Northern+Virginia+Real+Estate+-+The+pros+and+cons+of+remodeling+your+home.mp4
-pullquote: In my own experience, I think it's easier to remodel than to build new, but your case may not be the same as my own.
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Jody+Donaldson/Northern+Virginia+Real+Estate+-+The+pros+and+cons+of+remodeling+your+home.mp4'
+pullquote: "In my own experience, I think it's easier to remodel than to build new, but your case may not be the same as my own."
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: 'Remodeling vs. Building New Homes: Which Is Better for You?'
-date: '2015-03-16T07:38:00.000-07:00'
+date: 2015-03-16 14:38:00
 author: Vyral Admin
 tags:
-- Home Seller Tips
-- Home Buyer Tips
-modified_time: '2015-03-16T11:11:35.268-07:00'
-thumbnail: https://img.youtube.com/vi/fNyU7f7XTl0/default.jpg
-blogger_id: tag:blogger.com,1999:blog-2145316695881808469.post-438123433350954284
-blogger_orig_url: http://www.jodydonaldson.tv/2015/03/northern-virginia-real-estate-tips.html
+  - Home Seller Tips
+  - Home Buyer Tips
+modified_time:
+thumbnail: 'https://img.youtube.com/vi/fNyU7f7XTl0/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-2145316695881808469.post-438123433350954284'
+blogger_orig_url: 'http://www.jodydonaldson.tv/2015/03/northern-virginia-real-estate-tips.html'
 ---
-{% include youtube.html %}
-People often debate whether to remodel their current homes or simply sell their current property and build a new one. **Some things to consider before committing to such a process are the costs, if it will add value down the road, and what might be best for you and your loved ones.** In my own experience, I think it's easier to remodel than to build new, but your case may not be the same as my own.
+
+
+{% include youtube.html %}People often debate whether to remodel their current homes or simply sell their current property and build a new one. **Some things to consider before committing to such a process are the costs, if it will add value down the road, and what might be best for you and your loved ones.** In my own experience, I think it's easier to remodel than to build new, but your case may not be the same as my own.
 
 **Will you be able to finance the home improvement yourself?** Or will you have to take out a loan? If you need to finance your project, you will need to consider how much equity you have in the home. If you have a solid amount of equity, you'll be able to get a line of credit or a home equity loan.
 
