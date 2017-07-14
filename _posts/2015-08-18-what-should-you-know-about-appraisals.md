@@ -1,7 +1,7 @@
 ---
-youtube_code: UqHxCmFBbN4
+youtube_code: kSoFlbwFlTQ
 excerpt:
-enclosure: https://s3.amazonaws.com/vyralmarketing/Jody+Donaldson/Northern+Virginia+Real+Estate+Agent-+All+you+need+to+know+about+appraisals.mp4
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Jody+Donaldson/Northern+Virginia+Real+Estate+Agent-+All+you+need+to+know+about+appraisals.mp4'
 pullquote: An appraisal is an important part of the transaction process.
 enclosure_type: video/mp4
 enclosure_time:
@@ -9,17 +9,17 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: What Should You Know About Appraisals?
-date: '2015-08-18T09:19:00.004-07:00'
+date: 2015-08-18 16:19:00
 author: Vyral Admin
 tags:
-- Real Estate Tips and Tricks
-modified_time: '2015-08-19T06:59:25.727-07:00'
-thumbnail: https://img.youtube.com/vi/UqHxCmFBbN4/default.jpg
-blogger_id: tag:blogger.com,1999:blog-2145316695881808469.post-1308643925316256364
-blogger_orig_url: http://www.jodydonaldson.tv/2015/08/northern-virginia-real-estate-appraisal.html
+modified_time:
+thumbnail: 'https://img.youtube.com/vi/UqHxCmFBbN4/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-2145316695881808469.post-1308643925316256364'
+blogger_orig_url: 'http://www.jodydonaldson.tv/2015/08/northern-virginia-real-estate-appraisal.html'
 ---
-{% include youtube.html %}
-Today, I want to discuss what a home appraisal is and why they are needed when purchasing a house.
+
+
+{% include youtube.html %}Today, I want to discuss what a home appraisal is and why they are needed when purchasing a house.
 
 An appraisal is an unbiased professional opinion of a home's value. In a purchase and sale transaction, an appraisal is used to determine whether a home's contract price is appropriate given the home's conditions, location, and features.
 
