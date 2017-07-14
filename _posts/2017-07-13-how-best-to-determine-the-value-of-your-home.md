@@ -29,4 +29,4 @@ There are more than a few different ways that you can determine the value of you
 
 **A competitive market analysis.** This is the best way to get an assessment of your home’s value, as it means we compare your home to like properties in the area, with similar square footage, that have sold in the last three months, as well as active listings on the market currently. Additionally, when we look at the photos from those other homes, we will also be comparing them to the amenities in your home to determine the best fair market value for your property.
 
-If you have any questions about this topic or you’d like to get a comparative market analysis for your home, give a call. We would be happy to assist you!
+If you have any questions about this topic or you’d like to get a comparative market analysis for your home, give us a call. We would be happy to assist you!
