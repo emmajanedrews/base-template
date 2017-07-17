@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What 4 Questions Should All House Hunters Ask?
-date:
+date: 2017-07-17 12:21:49
 tags:
   - Home Buyer Tips
 excerpt: There are four questions you need to ask when searching for a home. I’ll go over each one for you today.
@@ -15,9 +15,7 @@ youtube_code: VYgTepWDeRo
 ---
 
 
-{% include youtube.html %}
-
-Before you buy your first home—or any home, really—there are four questions that you must ask:&nbsp;
+{% include youtube.html %}Before you buy your first home—or any home, really—there are four questions that you must ask:&nbsp;
 
 **1. How is the neighborhood?** You’re going to live there for a long time, so make sure that you like and enjoy the area. I tell everyone to drive through potential neighborhoods during the weekend and at night. Most of the time, everyone is home. The neighbors may be outside working on their lawn. If they are, you can ask if they like living there. Their answers will give you a good frame of reference.
 
