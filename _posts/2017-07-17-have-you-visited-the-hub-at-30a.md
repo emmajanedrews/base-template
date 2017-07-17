@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Have You Visited the HUB at 30A?
+title: Have You Visited The HUB at 30A?
 tags:
   - Outdoor Entertainment
 excerpt: 'Recently, I took some time to visit the HUB at 30A.  This amazing outdoor venue has a lot of covered areas...'
@@ -28,7 +28,7 @@ This includes live music, movie nights, and football games shown on the big scre
 
 With as many options as there are for food and drink, including a nice wrap-around bar, it’s a great place to visit.
 
-On top of everything, **the venue is very conveniently located**—right outside of Water Sound just down from Rosemary.
+On top of everything, **the venue is very conveniently located**—right outside of Watersound just down from Rosemary.
 
 Overall, it’s a great complex.
 
