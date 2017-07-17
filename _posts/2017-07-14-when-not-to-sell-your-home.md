@@ -38,6 +38,6 @@ The next question to consider is whether you can build more square footage.
 
 To start, let’s estimate an approximate $250 per square foot on an addition. Keep in mind, though, that we can also estimate a value of $500 per square foot.
 
-In this case the money you are putting in is actually being doubled. But **you’ve got to be careful that you aren’t overbuilding for the neighborhood.**Determining if this is the case is something I’d be happy to help with.
+In this case the money you are putting in is actually being doubled. But **you’ve got to be careful that you aren’t overbuilding for the neighborhood.&nbsp;**Determining if this is the case is something I’d be happy to help with.
 
-If you have any other questions or want more information feel free to give me a call or send me an email. I look forward to hearing from you.
+If you have any other questions or want more information, feel free to give me a call or send me an email. I look forward to hearing from you.
