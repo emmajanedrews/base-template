@@ -1,5 +1,5 @@
 audit_header: false
-title: -- CLIENT BRAND --
+title: -- CLIENT BRAND -- Career and Training Video Blog
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -7,41 +7,41 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Nancy Seraphin
   license_number:
   about_markdown: |
-
-  market:
-  brand:
+    We're focused on creating a brokerage where all agents thrive in an environment of professionalism, productivity and empowerment placing us as the clear leader in the Park City Real Estate market.
+  market: Park City
+  brand: Keller Williams Park City
   brokerage:
-  address:
-  phone:
+  address: 1750 Sun Peak Drive Park City, UT 84098
+  phone: 435-776-7486
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Nancy@KWParkCity.com
+  url: http://kwparkcity.com
 
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
-  second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
-  VR_form:
+  first_CTA_text: Free Strategy Session
+  first_CTA_URL: /consultation/
+  second_CTA_text: Career Information
+  second_CTA_URL: http://kwpc.yourkwoffice.com/mcj/user/whyKW.html?pageId=45186
+  VR_form: http://oi.vresp.com?fid=3fe7e5cc5e
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free -- MARKET -- Home Value Report"
-    CTA_url: /homevalue/
+    CTA_title: "Looking to Build Your Real Estate Career?"
+    CTA_text: "Let's talk about how Keller Williams can take your business to new heights."
+    CTA_link_text: "Free Strategy Session"
+    CTA_url: /consultation/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_title2: "Join Our Team"
+    CTA_text2: "Sell more homes by joining forces with the most dynamic real estate company in the world."
+    CTA_link_text2: "Career Information"
+    CTA_url2: http://kwpc.yourkwoffice.com/mcj/user/whyKW.html?pageId=45186
 
 lender:
   show_section: false
@@ -56,27 +56,23 @@ lender:
   url: http://eyegoop.com
 
 welcome_box:
-  welcome_headline: Join Our -- MARKET -- VIP List
+  welcome_headline: When you choose to join Keller Williams, you join forces with the most dynamic real estate company in the world!
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
-    professionals can answer any questions you might have about real estate.
-    Subscribe to this blog to get the latest news on local market trends and
-    receive expert tips for buying or selling a home.
+    I educate Real Estate Agents on how to build a better buiness and sell more homes, while sharing the benefits of what it's like to have a career with Keller Williams.
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/kwParkCity
+  linkedin_url: https://www.linkedin.com/pub/nancy-seraphin/26/50a/10a
+  gplus_url: https://plus.google.com/107770123702121582184
+  youtube_url: https://www.youtube.com/channel/UCA6-qepVuilYrpj_yYa53oA
+  twitter_url: https://twitter.com/kw_parkcity
   instagram_url:
   pinterest_url:
   zillow_url:
   trulia_url:
   yelp_url:
-  podcast_url:
+  podcast_url: https://itunes.apple.com/us/podcast/greater-park-city-real-estate/id1032851455?mt=2
 
 podcast:
   title:
@@ -90,14 +86,14 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
-  hero_background_hex: '#094264'
+  logo_width_number: 60
+  hero_text: -- MARKET -- Real Estate Career and Training Video Blog
+  hero_background_hex: '#b40101'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#976caf'
-  theme_color: '#67c4a9'
+  brand_color: '#b40101'
+  theme_color: '#999999'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'

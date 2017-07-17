@@ -1,5 +1,14 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
-    audio:
+  - quote: I had an opportunity to help launch the Keller Williams Market Center back in 2005. That was something of great interesting to me. Simultaneously, I was offered the opportunity to have some ownership in the company as well as some ownership in the real estate venture that would house the new Market Center, so that was all very interesting to me. It was also a period in my life where the opportunity to make a change from the brokerage I had been at for 23 years, the timing was right. My career in real estate in Park City was fairly well advanced. I was experiencing quite good success and moving to Keller Williams offered me a different business model to work under as I operated my real estate business
+    name: David Dorius
+    audio: /uploads/audio/001.mp3
+  - quote: I started to work at KW Park City because I evaluated the leading brokerages in Park City and it seemed to be the best fit for myself and my team to allow us to carry out business as we had in the past. We are a very self-contained team, so it's allowed us to continue to create business through our innovation, our website, and our agents. They give us the autonomy we need, and the support we need for processing transactions. Kudos to Nancy, she provides good support not only for the members on my team, but the members of the office overall.
+    name: -Ron Wilstein, Team Leader of the Wilstein Team
+    audio: /uploads/audio/002.mp3
+  - quote: “There were a few factors. The first was the previous company that I worked with had fallen on financial hard times and they bounced a $50,000 commission check to me. That was when I realized something was wrong and I needed to make a change. To me, Keller Williams was the best option out there. It's been great to have a connection with the KW mothership and being a part of the largest brokerage by agent count has some real benefits. I was in Austin, Texas yesterday and was able to meet with a lot of movers and shakers in the KW empire. It's a great, collaborative type of culture that I really appreciate. It's competitive, but when working with agents in non-competing markets, there is a tremendous sharing of ideas. The value proposition is also very high, compared to the amount I paid my previous broker. What I get from Keller Williams is a spectacular return on investment.”
+    name: -Erik Asarian, Team Leader of the Deer Valley Real Estate Guide Team
+    audio: /uploads/audio/003.mp3
+  - quote: You know what, I think the way that its added value is just the support system, which Nancy is. And I wanted that support system and getting on a one-on-one every often to just help me with the direction and the goals I’m trying to obtain and that’s so far worked out really good for me. That support there and also the support of the marketing and also the support of the transaction coordinator. Those have been really plusses for me. Very accessible too.
+    name: Steve Kotsenburg - Team Member
+    audio: /uploads/audio/004.mp3
