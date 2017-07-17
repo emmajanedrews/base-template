@@ -15,7 +15,7 @@ youtube_code: AsASRwP4bKI
 ---
 
 
-{% include youtube.html %}Congratulations on getting your home under contract! I’m very excited for you and excited that we can take this next step in the process. Today I wanted to talk to you about what the next step in the process is and what to expect.
+{% include youtube.html %}Congratulations on getting your home under contract! I’m very excited for you and that we can take this next step in the process. Today I wanted to talk to you about what the next step in the process is and what to expect.
 {: .present-before-paste}
 
 I wanted to remind you as you celebrate to not celebrate too hard, as there is still work to be done and we haven’t closed on your home just yet. We have a saying in the business: “Buyers die, lenders lie, and stuff happens.” It’s a little grim, but it’s the truth. In fact, **one out of every 2,000 buyers will die before closing.**
@@ -44,7 +44,7 @@ Once we get everything buttoned up and that due diligence period ends, it should
 **They will also do a final walkthrough of the home the day before or day of closing.** Hopefully by this time you have moved everything out of the home, as this is a great time for the buyer to double check that the home has been left in good condition and that no additional damage occurred during the move.
 {: .present-before-paste}
 
-Assuming everything goes well, that’s the time that we go to closing. Generally we as your agents will go to closing for you, unless you have a burning desire to go. By this point you will have already gone into the attorney’s office to sign what you need to sign, and then I will go on your behalf to sign the closing statement (that you’ve seen beforehand).
+Assuming everything goes well, that’s the time that we go to closing. Generally, we as your agents will go to closing for you unless you have a burning desire to go. By this point, you will have already gone into the attorney’s office to sign what you need to sign, and then I will go on your behalf to sign the closing statement (that you’ve seen beforehand).
 {: .present-before-paste}
 
 We get out of there pretty quickly, but the buyer has far more documents to sign so it will take longer for them to finish up their part of the closing process.
