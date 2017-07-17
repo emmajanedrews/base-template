@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Can You Trust Zillow to Find Your Home Value?
-date:
+date: 2017-07-17 10:59:51
 tags:
   - Real Estate
 excerpt: 'Zillow’s Zestimate is an algorithm that provides an automatic value of your home. However, Zestimates are often wrong. I just checked the Zestimate for our own home, and it was 20% over the actual market value of our property! So, if you can’t trust Zillow, how can you find out what your home is worth? Even if you’re not going to sell, it can be fun to know where you stand in the market. To learn more, watch this short video.'
