@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Is the Market Cooling Off?
-date: 2017-07-14 15:34:37
+title: How Is the Dallas Market Doing?
+date: 2017-07-14 15:34:00
 tags:
   - Market Update
 excerpt: Today Mindy and I wanted to discuss the state of our local market and what it means for your real estate transaction.
