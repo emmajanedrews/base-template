@@ -3,7 +3,7 @@ layout: post
 title: Have You Visited The HUB at 30A?
 tags:
   - Outdoor Entertainment
-excerpt: 'Recently, I took some time to visit the HUB at 30A.  This amazing outdoor venue has a lot of covered areas...'
+excerpt: 'Recently, I took some time to visit The HUB at 30A.  This amazing outdoor venue has a lot of covered areas...'
 enclosure:
 pullquote: 'The complex also holds a lot of events, typically as often as four nights each week.'
 enclosure_type: video/mp4
@@ -16,7 +16,7 @@ youtube_code: xa2HIZErWgI
 
 {% include youtube.html %}
 
-Recently, I took some time to visit the HUB at 30A.
+Recently, I took some time to visit The HUB at 30A.
 
 This amazing outdoor venue has a lot of covered areas and about **10 different dining options as well as several bars.** Additionally, there’s a shopping pavilion outside of the amphitheater.
 
