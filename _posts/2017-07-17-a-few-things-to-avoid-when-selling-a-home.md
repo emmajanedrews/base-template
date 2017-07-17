@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Few Things to Avoid When Selling a Home
-date:
+date: 2017-07-17 16:04:52
 tags:
 excerpt: 'Even though we are in a hot market, you can still mess up as a seller. Here are four common mishaps to avoid.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Victoria+Sandoval/A+Few+Things+to+Avoid+When+Selling+a+Home.mp4'
