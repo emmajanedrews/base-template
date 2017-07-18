@@ -22,9 +22,9 @@ Even in a hot market like the one we’re currently seeing in San Diego, sellers
 
 2. **Remove clutter**. This allows buyers to see the openness of the home. Rent a storage locker or shift the clutter into the garage.
 
-3. **Make minor repairs**. If you have any knowledge of small or minor defects in the home that can be repaired relatively cheaply, do yourself a favor and complete them before you list on the market. If you wait and the buyer requests those repairs, it’s going to cost you a lot more. &nbsp;{% include pullquote.html %}
+3. **Make minor repairs**. If you have any knowledge of small or minor defects in the home that can be repaired relatively cheaply, do yourself a favor and complete them before you list on the market. If you wait and the buyer requests those repairs, it’s going to cost you a lot more. {% include pullquote.html %}
 
-4.** Keep your emotions out of the sale**. Of course you love your home, but once you decide to sell you should look at it as more of an asset than anything else. If you receive a lowball offer or the seller asks for repairs, keep a level head and know that the negotiations aren’t over yet.
+4. **Keep your emotions out of the sale.** Of course you love your home, but once you decide to sell you should look at it as more of an asset than anything else. If you receive a lowball offer or the seller asks for repairs, keep a level head and know that the negotiations aren’t over yet.
 
 5. **Maintain great curb appeal**. Most buyers will decide whether they like your home within the first 10 seconds of seeing it. You only have one shot at a great first impression. To ensure great curb appeal, be sure to have your lawn mowed, power-wash your exterior (if it’s dirty), and paint or patch up any cosmetic defects.
 
