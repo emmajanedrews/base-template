@@ -22,5 +22,7 @@ With Airbnb, you have the opportunity to generate huge cash flow by buying prope
 2. **Hiring a management company to manage the property**: With nightly rentals, there will be a lot of turnover with people going in and out, and many potential issues could arise from day to day. We recommend hiring a third-party management company to handle the essential maintenance tasks so that doesn’t become a full-time job for you.
 3. **Having an exit strategy in place**: Specifically, there are two strategies we want to mention. First, make sure that if short-term rentals become unavailable, the property can still generate cash flow in a long-term rental scenario. Second, if the property doesn’t work out and you need to sell quickly, make sure you buy into an area with enough appreciation that you won’t lose money during that quick sale.&nbsp;
 
+{% include pullquote.html %}
+
 If you have any questions about investing in real estate, please don’t hesitate to give us a call. We’d be happy to assist you.&nbsp;
 <br>&nbsp;
