@@ -8,8 +8,8 @@ enclosure:
 pullquote: 'The complex also holds a lot of events, typically as often as four nights each week.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/nathan-abbott-real-ss.jpg
 youtube_code: xa2HIZErWgI
 ---
 
