@@ -30,4 +30,4 @@ Even in a hot market like the one we’re currently seeing in San Diego, sellers
 
 If you have any questions for us or know anyone who is interested in buying or selling a home in San Diego, give me a call or send me an email. I look forward to hearing from you.
 
-Teaser: There are certain things sellers should avoid in this market. We have a list of four of the most important ones to watch out for. Overpricing your home could be a huge mistake because similar homes that aren’t overpriced are going to sell before it does. They’re going to sell faster and for more money too. To learn more, watch this short video.
+Teaser: There are certain t
