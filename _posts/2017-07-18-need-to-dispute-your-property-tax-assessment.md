@@ -18,7 +18,7 @@ youtube_code: VWFiH5Oi574
 
 In Utah, July is known for many things. One of the lesser-known things is the fact that it’s also the month we get our property tax assessment notices in the mail.
 
-I’m not an expert as to how the county calculates property tax values, but I do know one thing—they’re not always on the mark. The assessment is comprised of your proposed tax assessment for 2016 and the change in value from 2015 to 2016.
+I’m not an expert as to how the county calculates property tax values, but I do know one thing: they’re not always on the mark. The assessment is comprised of your proposed tax assessment for 2016 and the change in value from 2015 to 2016.
 
 We’ve been helping our clients dispute these tax evaluations for years, so **if you feel like your 2016 property tax assessment is too high, send us the front part of your notice.** We’ll take a look at the value and provide you with three to five comparable sales to your property that may show a lower value. You can then fill out the official appeal form and send it in by September 15th along with the comparable sales we provided you.
 
