@@ -9,7 +9,7 @@ pullquote: 'The complex also holds a lot of events, typically as often as four n
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/nathan-abbott-real-ss.jpg
+youtube_alternate_image: /uploads/Nathan_Abbott_SS.jpg
 youtube_code: xa2HIZErWgI
 ---
 
