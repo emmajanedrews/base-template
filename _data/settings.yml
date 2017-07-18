@@ -68,8 +68,8 @@ socials:
   review_sm_icons: false
   facebook_url: https://www.facebook.com/amazingboisehomes
   linkedin_url: https://www.linkedin.com/in/brent-dildine-782bb265/
-  gplus_url:
-  youtube_url: http://www.youtube.com/channel/UCltGh39pKyVyQc8ra2xBrQA
+  gplus_url: https://plus.google.com/u/0/b/109062457005029558448
+  youtube_url: https://www.youtube.com/channel/UCcTaDuadEGo2l0r5jhYLmIA
   twitter_url: http://www.twitter.com/https://twitter.com/brentbuyboise
   instagram_url:
   pinterest_url:
@@ -96,8 +96,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#f26337'
-  theme_color: '#233b77'
+  brand_color: '#0C218E'
+  theme_color: '#B4D2F8'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
