@@ -5,7 +5,7 @@ date: 2017-07-18 03:00:00
 tags:
   - Home Buyer Tips
 excerpt: 'When working with a buyer in our highly competitive summer market, here are four tips you can use to help them win the home they want.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Nancy+Seraphin/+Videos/2017/July/Park+City+Real+Estate+Careers-+4+Tips+for+Helping+Your+Buyers+in+Our+Highly+Competitive+Market+(1).mp4'
 pullquote: Preparation is key in this marketplace.
 enclosure_type: video/mp4
 enclosure_time:
