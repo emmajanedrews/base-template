@@ -2,12 +2,12 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title></title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://parkcityrealestatecareers.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://parkcityrealestatecareers.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Keller Williams Park City - your professional Park City Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Nancy Seraphin</managingEditor>
-    <lastBuildDate>2017-07-17 16:30:00 -0500</lastBuildDate>
+    <lastBuildDate>2017-07-19 09:24:38 -0500</lastBuildDate>
     <media:copyright>Nancy Seraphin</media:copyright>
     <media:thumbnail url="/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Park City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -26,7 +26,7 @@
     
       <item>
         <title>Why Your Clients Should Hire a Certified Inspection Expert</title>
-        <link>localhost:4000/why-your-clients-should-hire-certified.html</link>
+        <link>http://parkcityrealestatecareers.com/why-your-clients-should-hire-certified.html</link>
         
           <category>Park City Real Estate Agent</category>
         
@@ -58,7 +58,7 @@ If you have any questions about this topic or you'd like to talk further about h
 
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://parkcityrealestatecareers.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -85,7 +85,7 @@ We've all been trained to give the names of three home inspectors when your clie
       
       <item>
         <title>Embrace the Zestimate</title>
-        <link>localhost:4000/embrace-zestimate.html</link>
+        <link>http://parkcityrealestatecareers.com/embrace-zestimate.html</link>
         
           <category>Real Estate Career Tips</category>
         
@@ -107,7 +107,7 @@ Before you go on a listing presentation, check out the Zestimate for that partic
 All you need to do to embrace Zillow is understand what it does and does not do when it comes to determining a home’s value. If you have any questions for me in the meantime, don’t hesitate to give me a call or send me an email. We look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nancy+Seraphin/Park+City+Real+Estate+Careers-+Use+Zillow+to+your+advantage.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://parkcityrealestatecareers.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nancy+Seraphin/Park+City+Real+Estate+Careers-+Use+Zillow+to+your+advantage.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -126,7 +126,7 @@ As most of you know, Zillow is by far the largest consumer facing web portal out
       
       <item>
         <title>Helping Your Buyers Avoid Down Payment Pitfalls</title>
-        <link>localhost:4000/helping-your-buyers-avoid-down-payment.html</link>
+        <link>http://parkcityrealestatecareers.com/helping-your-buyers-avoid-down-payment.html</link>
         
           <category>Real Estate Tips</category>
         
@@ -150,7 +150,7 @@ Finally, counsel your buyers not to buy something like a car or furniture until 
 If you have any questions about avoiding down payment pitfalls, don’t hesitate to reach out to me. I would be happy to assist you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nancy+Seraphin/Park+City+Real+Estate+Careers-+How+to+Avoid+Down+Payment+Pitfalls.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://parkcityrealestatecareers.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nancy+Seraphin/Park+City+Real+Estate+Careers-+How+to+Avoid+Down+Payment+Pitfalls.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -169,7 +169,7 @@ As you’re beginning to work with buyers who you know will require a loan to pu
       
       <item>
         <title>Why Staging is Crucial When Listing Your Home</title>
-        <link>localhost:4000/why-staging-is-crucial-when-listing.html</link>
+        <link>http://parkcityrealestatecareers.com/why-staging-is-crucial-when-listing.html</link>
         
           <category>Staging Tips</category>
         
@@ -199,7 +199,7 @@ Felicity Gardner is available to assist your clients whose homes need editing.  
 As always, if you have any questions about real estate, please feel free to give me a call or send me an email. I look forward to hearing from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nancy+Seraphin/Park+City+Real+Estate+Careers-+Stage+Your+Home+for+a+Quick%252C+Lucrative+Sale.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://parkcityrealestatecareers.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nancy+Seraphin/Park+City+Real+Estate+Careers-+Stage+Your+Home+for+a+Quick%252C+Lucrative+Sale.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -218,7 +218,7 @@ What makes staging so important? The simple answer is that staged homes sell qui
       
       <item>
         <title>How to Maximize the Value of Your Marketing With Follow Up</title>
-        <link>localhost:4000/how-to-maximize-value-of-your-marketing.html</link>
+        <link>http://parkcityrealestatecareers.com/how-to-maximize-value-of-your-marketing.html</link>
         
           <category>Growing Your Business</category>
         
@@ -244,7 +244,7 @@ In the end, don’t just rely on the marketing to do all the heavy lifting. Be p
 If you have any more questions about how to do this or about your real estate career, give me a call or send me an email. I’d love to hear from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nancy+Seraphin/Park+City+Real+Estate+Careers-+The+right+way+to+follow+up.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://parkcityrealestatecareers.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nancy+Seraphin/Park+City+Real+Estate+Careers-+The+right+way+to+follow+up.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -263,7 +263,7 @@ When you sell real estate, it’s important to maximize the value of your market
       
       <item>
         <title>Get Your Clients Home Sold Fast Using These 2 Tips </title>
-        <link>localhost:4000/get-your-clients-home-sold-fast-using.html</link>
+        <link>http://parkcityrealestatecareers.com/get-your-clients-home-sold-fast-using.html</link>
         
           <category>Real Estate Tips</category>
         
@@ -287,7 +287,7 @@ The appraisal is going to be the best tool you can use for pricing the home. Pri
 If you have any other questions about pricing a home for a quick sale or if you are curious about other real estate topics, please feel free to give me a call or send me an email. I look forward to hearing from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nancy+Seraphin/Park+City+Real+Estate+Careers-+2+Tips+for+Low+Days+on+Market.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://parkcityrealestatecareers.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nancy+Seraphin/Park+City+Real+Estate+Careers-+2+Tips+for+Low+Days+on+Market.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -306,7 +306,7 @@ Now that warmer weather is fast approaching, you’re probably anxious to start 
       
       <item>
         <title>5 Social Media Marketing Tips for 2017</title>
-        <link>localhost:4000/5-social-media-marketing-tips-for-2017.html</link>
+        <link>http://parkcityrealestatecareers.com/5-social-media-marketing-tips-for-2017.html</link>
         
           <category>Real Estate Career Tips</category>
         
@@ -345,7 +345,7 @@ Did you know that 75% of adults are active on some social media channel? The tri
 Good luck with your social media strategy in 2017! If you have any other questions, don’t hesitate to give me a call or send me an email. I’d be glad to help!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nancy+Seraphin/Park+City+Real+Estate+Careers-+5+tips+for+social+media+marketing+in+real+estate.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://parkcityrealestatecareers.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nancy+Seraphin/Park+City+Real+Estate+Careers-+5+tips+for+social+media+marketing+in+real+estate.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -364,7 +364,7 @@ Many of you are probably looking to social media as a marketing channel as you f
       
       <item>
         <title>4 Major Trends for Millennial Home Buyers</title>
-        <link>localhost:4000/4-major-trends-for-millennial-home.html</link>
+        <link>http://parkcityrealestatecareers.com/4-major-trends-for-millennial-home.html</link>
         
           <category>Real Estate Career Tips</category>
         
@@ -398,7 +398,7 @@ Millennials (people under 35) are finally hitting the real estate market. It’s
 If you understand these trends, you will be able to help your millennial buyer find the right home. If you have any questions for me, just give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nancy+Seraphin/Park+City+Real+Estate+Careers-+4+trends+for+millennial+home+buyers.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://parkcityrealestatecareers.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nancy+Seraphin/Park+City+Real+Estate+Careers-+4+trends+for+millennial+home+buyers.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -417,7 +417,7 @@ Millennials (people under 35) are finally hitting the real estate market. It’s
       
       <item>
         <title>Marketing Tips for New Construction</title>
-        <link>localhost:4000/marketing-tips-for-new-construction.html</link>
+        <link>http://parkcityrealestatecareers.com/marketing-tips-for-new-construction.html</link>
         
           <category>Real Estate Career Tips</category>
         
@@ -451,7 +451,7 @@ You also want to have a good idea of what the budget will be ahead of time. You 
 I hope you all enjoyed hearing from Heather today. If you have any questions for her or me, give us a call, send us an email, or fill out the form below and we’ll follow up with you. We look forward to hearing from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nancy+Seraphin/Park+City+Real+Estate+Careers-+Marketing+new+construction+homes.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://parkcityrealestatecareers.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nancy+Seraphin/Park+City+Real+Estate+Careers-+Marketing+new+construction+homes.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -470,7 +470,7 @@ We are excited to be joined today by Heather Feldman, who is going to talk to us
       
       <item>
         <title>The Importance of Gratitude</title>
-        <link>localhost:4000/the-importance-of-gratitude.html</link>
+        <link>http://parkcityrealestatecareers.com/the-importance-of-gratitude.html</link>
         
           <category>Helpful Career Advice</category>
         
@@ -496,7 +496,7 @@ With it being so close to Thanksgiving, I’m going to challenge you. Try to not
 Remember: gratitude breeds positivity. I’d love to hear your results! If you have any other questions about this topic or anything else, give me a call or send me an email. I look forward to hearing from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nancy+Seraphin/Park+City+Real+Estate+Careers-+What+are+you+grateful+for%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://parkcityrealestatecareers.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nancy+Seraphin/Park+City+Real+Estate+Careers-+What+are+you+grateful+for%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -515,7 +515,7 @@ With Thanksgiving just around the corner, I thought it would be appropriate to t
       
       <item>
         <title>Whats the Key to Maintaining a Good Energy Level?</title>
-        <link>localhost:4000/whats-key-to-maintaining-good-energy.html</link>
+        <link>http://parkcityrealestatecareers.com/whats-key-to-maintaining-good-energy.html</link>
         
           <category>Real Estate Careers</category>
         
@@ -535,7 +535,7 @@ For some of us, a great morning workout helps us get our day on track. We feel e
 If you have any questions about energy management, give me a call or send me an email. I would love to hear from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nancy+Seraphin/Park+City+Real+Estate+Careers-+Energy+management+tips.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://parkcityrealestatecareers.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nancy+Seraphin/Park+City+Real+Estate+Careers-+Energy+management+tips.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -554,7 +554,7 @@ In previous videos we talked about time blocking and time management as a way to
       
       <item>
         <title>How to Use Branding to Set Your Business Apart </title>
-        <link>localhost:4000/how-to-use-branding-to-set-your.html</link>
+        <link>http://parkcityrealestatecareers.com/how-to-use-branding-to-set-your.html</link>
         
           <category>Real Estate Careers</category>
         
@@ -584,7 +584,7 @@ Since joining Keller Williams, Steve has gotten more responses from his SOI and 
 If you would like to see an example of Steve’s branding, check out www.TheKotsenburgGroup.com. You can email Steve with any questions at Steve@TheKotsenburgGroup.com. Also, please don’t hesitate to reach out to me with any questions or concerns you might have. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nancy+Seraphin/Park+City+Real+Estate+Careers-+The+importance+of+branding.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://parkcityrealestatecareers.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nancy+Seraphin/Park+City+Real+Estate+Careers-+The+importance+of+branding.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -603,7 +603,7 @@ Branding helps agents differentiate themselves from one another. Branding also a
       
       <item>
         <title>What You Gain from 'Send, Call, See'</title>
-        <link>localhost:4000/what-you-gain-from-send-call-see.html</link>
+        <link>http://parkcityrealestatecareers.com/what-you-gain-from-send-call-see.html</link>
         
           <category>Growing Your Business</category>
         
@@ -625,7 +625,7 @@ Finally, we have the “See” portion, because you want to see your clients twi
 I hope you’ve found some value from this message. If you have questions, you can always give me a call or send me an email. I would be happy to help you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nancy+Seraphin/Park+City+Real+Estate+Careers-+Send%252C+call%252C+see.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://parkcityrealestatecareers.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nancy+Seraphin/Park+City+Real+Estate+Careers-+Send%252C+call%252C+see.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -644,7 +644,7 @@ If I said, “Send, Call, See,” would you know what I meant?
       
       <item>
         <title>How to Turn Property Tax Notices Into an Opportunity</title>
-        <link>localhost:4000/park-city-real-estate-careersturning.html</link>
+        <link>http://parkcityrealestatecareers.com/park-city-real-estate-careersturning.html</link>
         
           <category>Real Estate Tips</category>
         
@@ -670,7 +670,7 @@ There are usually a handful of people who do a really good job on the appeal pro
 I hope you find this helpful. Believe it or not, you can turn taxes into opportunities. Give me a call with any questions you may have.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://parkcityrealestatecareers.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -689,7 +689,7 @@ Today I wanted to talk about turning taxes notices into an opportunity. How can 
       
       <item>
         <title>How Do You Get More Leverage in Your Business?</title>
-        <link>localhost:4000/park-city-real-estate-careers-got.html</link>
+        <link>http://parkcityrealestatecareers.com/park-city-real-estate-careers-got.html</link>
         
           <category>Real Estate Careers</category>
         
@@ -713,7 +713,7 @@ They have plenty of excuses, whether they say it takes too much time or they don
 At a certain point, you’ll have to look into hiring a personal assistant or creating a team and hiring a buyer agent. But for now, look at your hourly rate, and see if you would be able to hire some competent help so you can leverage your business and make more money and be more successful. If you have any questions for me, don’t hesitate to give me a call or send me an email. I would love to hear from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nancy+Seraphin/Park+City+Real+Estate+Careers-+Got+leverage%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://parkcityrealestatecareers.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nancy+Seraphin/Park+City+Real+Estate+Careers-+Got+leverage%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -732,7 +732,7 @@ Leveraging yourself and your time is an important part of growing any real estat
       
       <item>
         <title>7 Productivity Tips from Successful Entrepreneurs </title>
-        <link>localhost:4000/park-city-real-estate-agent-7-tips-of.html</link>
+        <link>http://parkcityrealestatecareers.com/park-city-real-estate-agent-7-tips-of.html</link>
         
           <category>Park City Real Estate Agents</category>
         
@@ -760,7 +760,7 @@ Learn when to cut your losses: We’ve all had bad systems, bad clients, or bad 
 I hope you’ve found these tips helpful, and I love hearing from everyone so please don’t be afraid to reach out to me!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://parkcityrealestatecareers.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -781,7 +781,7 @@ Today I’ll be sharing some secrets to maximize your time as a busy professiona
       
       <item>
         <title>2 Important Statistics to Consider When Selling in Park City</title>
-        <link>localhost:4000/park-city-real-estate-agent-selling.html</link>
+        <link>http://parkcityrealestatecareers.com/park-city-real-estate-agent-selling.html</link>
         
           <category>Park City Real Estate Trends</category>
         
@@ -803,7 +803,7 @@ However, if you price over the median sale price, it can take you 22 to 24 month
 If you have any questions, give us a call or send us an email. We would be happy to help you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://parkcityrealestatecareers.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -822,7 +822,7 @@ There are 2 fascinating takeaways from the first quarter statistics for sellers 
       
       <item>
         <title>Whats the Secret to Getting Better Results for Your Seller Clients? </title>
-        <link>localhost:4000/park-city-real-estate-agent-how-to.html</link>
+        <link>http://parkcityrealestatecareers.com/park-city-real-estate-agent-how-to.html</link>
         
           <category>Park City Moving Mindset</category>
         
@@ -842,7 +842,7 @@ Next, give staging and packing advice to your clients. Suggest they take family 
 If you would like additional tips on how to get your sellers into the mindset to move, please don’t hesitate to reach out to us. We’re always available to help you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://parkcityrealestatecareers.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
