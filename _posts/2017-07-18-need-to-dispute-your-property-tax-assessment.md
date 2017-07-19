@@ -24,7 +24,7 @@ We’ve been helping our clients dispute these tax evaluations for years, so **i
 
 {% include pullquote.html %}
 
-If you purchased your property in the past year and the purchase price was less than the assessed value, you can simply fill out the appeal form and send in the HUD settlement statement you signed at the title company. To get the process started click HERE.&nbsp;
+If you purchased your property in the past year and the purchase price was less than the assessed value, you can simply fill out the appeal form and send in the HUD settlement statement you signed at the title company. To get the process started click <a href="">HERE.</a>
 
 If you had an appraisal done in 2016 or early 2017 that came in lower than the tax assessed value, you can send in a copy of that appraisal with your appeal form.
 
