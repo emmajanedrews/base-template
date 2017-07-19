@@ -112,6 +112,7 @@
 	font-size: 2rem
 	font-weight: 300
 	border: 2px solid $button-border
+	border-radius: 0
 	@include transition(0.3s)
 	&:hover
 		// background: transparent
@@ -138,3 +139,8 @@
 .dropdown-header
 	font-size: 1.5rem
 	font-style: oblique
+
+.divider
+	&:hover
+		box-shadow: 0 solid transparent
+		@include transform(scale(1))
