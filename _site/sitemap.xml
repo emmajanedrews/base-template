@@ -32,4 +32,8 @@
 <url>
 <loc>localhost:4000/thankyou/</loc>
 </url>
+<url>
+<loc>localhost:4000/contact-us.html</loc>
+<lastmod>2017-07-19T12:36:50-05:00</lastmod>
+</url>
 </urlset>

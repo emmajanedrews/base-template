@@ -1453,7 +1453,7 @@ html[xmlns] .flexslider .slides {
   min-height: 65px;
   background: transparent;
   width: 100%;
-  overflow: hidden; }
+  overflow: visible; }
 
 .navbar-andross .navbar-brand {
   color: #00aeef;
@@ -1497,7 +1497,6 @@ html[xmlns] .flexslider .slides {
 
   .navbar-header a.navbar-brand {
     width: 0;
-    overflow: hidden;
     display: none;
     opacity: 0; } }
 .scroll-nav-color {
@@ -1532,6 +1531,78 @@ html[xmlns] .flexslider .slides {
   background: #025b8e;
   -webkit-animation: 0.3s fadein ease-in-out;
           animation: 0.3s fadein ease-in-out; }
+
+.dropdown {
+  overflow: visible !important;
+  float: right;
+  margin: 10px 0 0 10px; }
+
+.dropdown-toggle {
+  background: #ffffff;
+  color: #123456;
+  padding: 1.3rem 2rem;
+  text-transform: capitalize;
+  font-size: 2rem;
+  font-weight: 300;
+  border: 2px solid #ffffff;
+  -webkit-transition: 0.3s;
+  transition: 0.3s; }
+  .dropdown-toggle:hover {
+    background: transparent;
+    color: #0089bc;
+    box-shadow: 4px 4px 0 #0089bc;
+    border: 2px solid #ffffff;
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05);
+    -webkit-transform: translateY(-0.2rem);
+    transform: translateY(-0.2rem); }
+  .dropdown-toggle:active {
+    box-shadow: 0 0 0 #0089bc;
+    -webkit-transform: translateY(0rem);
+    transform: translateY(0rem);
+    text-decoration: none;
+    color: #fff; }
+  .dropdown-toggle:focus {
+    text-decoration: none;
+    color: #fff; }
+
+.dropdown-menu > li {
+  background: #ffffff;
+  color: #123456;
+  padding: 1.3rem 2rem;
+  text-transform: capitalize;
+  font-size: 2rem;
+  font-weight: 300;
+  border: 2px solid #ffffff;
+  -webkit-transition: 0.3s;
+  transition: 0.3s; }
+  .dropdown-menu > li:hover {
+    color: #0089bc;
+    box-shadow: 4px 4px 0 #0089bc;
+    border: 2px solid #ffffff;
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05);
+    -webkit-transform: translateY(-0.2rem);
+    transform: translateY(-0.2rem); }
+  .dropdown-menu > li:active {
+    box-shadow: 0 0 0 #0089bc;
+    -webkit-transform: translateY(0rem);
+    transform: translateY(0rem);
+    text-decoration: none;
+    color: #fff; }
+  .dropdown-menu > li:focus {
+    text-decoration: none;
+    color: #fff; }
+
+.dropdown-menu > li > a {
+  background: transparent;
+  color: #025b8e; }
+  .dropdown-menu > li > a:hover {
+    background: transparent; }
+
+.dropdown-header {
+  font-size: 1.5rem;
+  font-style: oblique; }
 
 .navbar-andross-bottom {
   background: #025b8e;
