@@ -4,7 +4,7 @@ title: How Should You Treat a Termite Infestation?
 tags:
   - Home Seller Tips
 excerpt: We’re talking about termites today. Here’s everything you need to know.
-enclosure:
+enclosure: 'http://vyralmarketing.s3.amazonaws.com/Casey%20Cooke/San%20Diego%20Real%20Estate%20Agent-%20How%20Should%20You%20Treat%20a%20Termite%20Infestation%253F.mp4'
 pullquote: There are two types of termites.
 enclosure_type: video/mp4
 enclosure_time:
