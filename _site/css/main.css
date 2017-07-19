@@ -2697,6 +2697,17 @@ form select {
   padding: 0.5rem;
   display: block; }
 
+.industry {
+  text-transform: uppercase;
+  font-size: 2rem;
+  color: #95969a;
+  margin: 0 20px 0 10px; }
+
+.form-title {
+  font-size: 3.5rem;
+  color: #f76c29;
+  text-transform: uppercase; }
+
 .home-value {
   max-width: 50rem;
   margin: 0 auto; }
@@ -2713,22 +2724,26 @@ form select {
     .home-value input[type="submit"]:hover {
       border: 3px solid #fbb08b; }
 
+.full-width {
+  width: 100%; }
+
 .contact-form {
   width: 100%;
   margin-bottom: 0; }
   .contact-form input, .contact-form textarea {
-    width: 100%;
     border: 1px solid gray;
     -webkit-transition: 0.3s;
     transition: 0.3s; }
-    .contact-form input:focus::-webkit-input-placeholder, .contact-form textarea:focus::-webkit-input-placeholder {
-      color: transparent; }
-    .contact-form input:focus::-moz-placeholder, .contact-form textarea:focus::-moz-placeholder {
-      color: transparent; }
-    .contact-form input:focus:-moz-placeholder, .contact-form textarea:focus:-moz-placeholder {
-      color: transparent; }
-    .contact-form input:focus:-ms-input-placeholder, .contact-form textarea:focus:-ms-input-placeholder {
-      color: transparent; }
+    .contact-form input:focus, .contact-form textarea:focus {
+      border: 1px solid #f76c29; }
+      .contact-form input:focus::-webkit-input-placeholder, .contact-form textarea:focus::-webkit-input-placeholder {
+        color: transparent; }
+      .contact-form input:focus::-moz-placeholder, .contact-form textarea:focus::-moz-placeholder {
+        color: transparent; }
+      .contact-form input:focus:-moz-placeholder, .contact-form textarea:focus:-moz-placeholder {
+        color: transparent; }
+      .contact-form input:focus:-ms-input-placeholder, .contact-form textarea:focus:-ms-input-placeholder {
+        color: transparent; }
   .contact-form textarea {
     height: 15rem; }
   .contact-form input[type="submit"] {

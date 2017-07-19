@@ -1,0 +1,31 @@
+---
+layout: default
+tags:
+  - Video Blog
+perma-link: /contact-us/
+---
+
+<form class="contact-form" method="post" action="http://formspree.io/emma@getvyral.com">
+  <span class="form-title">Choose an Industry</span>
+  <div class="form-group">
+    <input type="radio" name="industry" value="Bio Pharma" required><span class="industry">Bio Pharma</span><br>
+    <input type="radio" name="industry" value="Building Products" required><span class="industry">Building Products</span><br>
+    <input type="radio" name="industry" value="Careers" required><span class="industry">Careers</span><br>
+    <input type="radio" name="industry" value="Futurity" required><span class="industry">Futurity</span><br>
+    <input type="radio" name="industry" value="Health Care" required><span class="industry">Health Care</span>
+  </div>
+  <input type="hidden" name="_subject" value="New message from Govig Blog" />
+  <input type="text" name="company" placeholder="Company Name" class="full-width">
+  <input type="text" name="name" placeholder="Contact Name" required class="full-width">
+  <input type="email" name="_replyto" placeholder="Email" required class="full-width">
+  <input type="text" name="phone" placeholder="Phone" class="full-width">
+  <textarea name="Message" placeholder="Message" class="full-width"></textarea>
+  <!-- Cloud cannon settings field -->
+  <div class="hidden">
+    <input type="hidden" name="_to" value="{{site.data.settings.client.email}}">
+    <input type="hidden" name="_subject" value="Contact Message From Your {{site.data.settings.title}}">
+    <input type="text" name="_gotcha">
+  </div>
+
+  <input type="submit" value="submit">
+</form>
