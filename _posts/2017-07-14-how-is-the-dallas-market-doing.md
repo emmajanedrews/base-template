@@ -35,5 +35,5 @@ And if you’re a buyer, this shift in the market could mean you’ll have more 
 Homes under $300,000 still have a lot of high demand and are likely to continue seeing multiple-offer situations. However, these conditions still aren’t quite as harsh as what we've seen in the last couple of years.
 {: .present-before-paste}
 
-If you have any other questions or would like more information, feel free to give us a call at (214) 444-9014 or send us an email at Jay@TeamRobbins.com. We look forward to hearing from you soon.
+If you have any other questions or would like more information, feel free to give us a call at (214) 444-9014 or send us an email at Jay@TeamRobbins.com. &nbsp;We look forward to hearing from you soon.
 {: .present-before-paste}
