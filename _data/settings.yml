@@ -25,7 +25,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://www.viewcentralpahouses.com/what-is-my-home-worth'
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://www.viewcentralpahouses.com/'
+  second_CTA_URL: 'http://www.viewcentralpahouses.com/what-is-my-home-worth'
   VR_form: 'http://oi.vresp.com?fid=1593df562e'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
