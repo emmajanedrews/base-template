@@ -18,7 +18,7 @@ youtube_code: KGVoxvFiyok
 
 Even in a hot market like the one we’re currently seeing in San Diego, sellers can make mistakes that will ultimately end up costing them on their bottom line. Here are four things all sellers should avoid doing in this market:
 
-1. **Overpricing your home**. Lots of buyers think they can overprice because the market is so hot. However, when you’re competing against similar properties that are not overpriced, you’re going to lose out more often than not. Buyers are going to scoop up those homes that are fairly priced and if your home sits on the market too long, buyers may start to think something is wrong with it.
+1. **Overpricing your home**. Lots of sellers think they can overprice because the market is so hot. However, when you’re competing against similar properties that are not overpriced, you’re going to lose out more often than not. Buyers are going to scoop up those homes that are fairly priced and if your home sits on the market too long, buyers may start to think something is wrong with it.
 
 2.&nbsp; **Remove clutter**. This allows buyers to see the openness of the home. Rent a storage locker or shift the clutter into the garage.
 
