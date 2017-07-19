@@ -26,8 +26,8 @@ Even in a hot market like the one we’re currently seeing in San Diego, sellers
 
 4.&nbsp; **Keep your emotions out of the sale**. Of course you love your home, but once you decide to sell you should look at it as more of an asset than anything else. If you receive a lowball offer or the seller asks for repairs, keep a level head and know that the negotiations aren’t over yet.
 
-5.&nbsp; **Maintain great curb appeal**. Most buyers will decide whether they like your home within the first 10 seconds of seeing it. You only have one shot at a great first impression. To ensure great curb appeal, be sure to have your lawn mowed, power-wash your exterior (if it’s dirty), and paint or patch up any cosmetic defects.
+5.&nbsp; **Maintain great curb appeal**. Most buyers will decide whether they like your home within the first 10 seconds of seeing it. You only have one shot at a great first impression. To ensure great curb appeal, be sure to have your lawn mowed, power-wash your exterior if it’s dirty, and paint or patch up any cosmetic defects.
 
 If you have any questions for us or know anyone who is interested in buying or selling a home in San Diego, give me a call or send me an email. I look forward to hearing from you.
 
-Teaser: There are certain t
+&nbsp;
