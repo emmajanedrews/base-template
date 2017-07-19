@@ -19,7 +19,7 @@ youtube_code: PuvrxgG1JPs
 
 If you’re considering selling your home and it’s more than 10 years old, you might be thinking about doing some renovations on it to prepare it for the market. Here are the seven most popular and cost-efficient renovations on the market right now that you can make:
 
-* **Panel lights:** Lights that hang from the ceiling in both the kitchen and bathrooms are very popular right now, and the best part is they’re inexpensive and relatively easy to install.
+* **Pendant lights:** Lights that hang from the ceiling in both the kitchen and bathrooms are very popular right now, and the best part is they’re inexpensive and relatively easy to install.
 * **Kitchen remodels:** If your home is 15 to 20 years old, this renovation is probably on the top of your list. For countertops, quartz is replacing granite in terms of popularity. As far as cabinets go, open-shelf is the most popular style and white is the most popular color. You can also consider finishing off your cabinets with brushed chrome hardware.
 * **Flooring:** If you have carpet, replace that with hard-surface wood or tile. The hardest flooring material right now is ceramic wood planks.
   <br>{% include pullquote.html %}
