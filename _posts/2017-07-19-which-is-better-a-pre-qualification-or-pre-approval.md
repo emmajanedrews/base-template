@@ -19,7 +19,7 @@ youtube_code: F_XkwB1A9Jw
 
 What is the difference between a pre-qualification letter and a pre-approval? As a buyer, which one is stronger? As a seller, which one will make you more comfortable about your home sale?
 
-**If you get pre-qualified, the lender simply looks through your finances** for things like your credit score, assets, incomes, and liabilities. Then, based on whatever information you tell the lender, they will give you a pre-qualification letter.
+**If you get pre-qualified, the lender simply looks through your finances** for things like your credit score, assets, income, and liabilities. Then, based on whatever information you tell the lender, they will give you a pre-qualification letter.
 
 A pre-approval is a lot strong stronger than pre-qualification. The lender will verify your financial information by looking through bank statements, W-2s, tax returns, and pay stubs. That way, when you submit your offer, the seller knows that there won’t be any financial roadblocks in the way of closing.
 
