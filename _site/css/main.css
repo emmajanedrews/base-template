@@ -2216,7 +2216,8 @@ table tr, table td {
     transform: rotate(0deg) scale(1) translate(-209px, -148px); } }
 .socials {
   padding: 0.7rem;
-  margin-bottom: 0.7rem; }
+  margin-bottom: 0.7rem;
+  margin-top: 1rem; }
   .socials ul {
     margin-bottom: 0.1rem;
     max-height: 5rem;
@@ -2706,7 +2707,8 @@ form select {
 .form-title {
   font-size: 3.5rem;
   color: #f76c29;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+  margin-top: 20px; }
 
 .home-value {
   max-width: 50rem;
