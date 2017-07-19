@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: FqzydtczLrk
+youtube_code: 1RAH5vE1p78
 ---
 
 
@@ -24,9 +24,9 @@ Here are the baseline things to do when you are creating an autonomous group. As
 
 {% include pullquote.html %}
 
-If a person feels like there will significant personal ramifications for failures, then it’s difficult for them to take those risks that could be beneficial to the projects they are working on.&nbsp;
+If a person feels like there will be significant personal ramifications for failures, then it’s difficult for them to take those risks that could be beneficial to the projects they are working on.&nbsp;
 
-What I would recommend to help you delegate to your employees without feeling completely out of control as a manager is to have them send you an outline of what they accomplished during their work day. **This way you’re able to keep a record of their progress on an ongoing basis.**This will help you, as well help them see what progress they’re making.
+What I would recommend to help you delegate to your employees without feeling completely out of control as a manager is to have them send you an outline of what they accomplished during their work day. **This way you’re able to keep a record of their progress on an ongoing basis.&nbsp;**This will help you, as well help them see what progress they’re making.
 
 Lastly, if you can delegate without micromanaging and allow your employees to feel autonomous, what will happen is your people will feel fulfilled, creative, like they are trusted and respected, and they will be able to grow quickly in terms of their skillsets and abilities.
 
