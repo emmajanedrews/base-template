@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Top Renovations to Prepare Your Home for the Market
-date: 2017-07-17 15:16:32
+date: 2017-07-17 15:16:00
 tags:
   - Home Seller Tips
 excerpt: 'I have seven smart, cost-effective renovations you can make to your home before putting it on the market.'
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: PuvrxgG1JPs
+youtube_code: 7tWSW-N_8To1JPs
 ---
 
 
