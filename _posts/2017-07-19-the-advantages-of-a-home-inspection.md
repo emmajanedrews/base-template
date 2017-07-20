@@ -19,7 +19,7 @@ youtube_code: ndEorE1AwNE
 
 Every buyer should have a home inspection done on the home they plan to purchase. However, not all inspectors are created the same. You need to know that you are dealing with a reputable inspector, so we have some tips to share today to help you do just that.
 
-First, let’s talk about how you should go about finding a home inspector. Your best resource is going to be the real estate agent or team you are working with. They should have a short list of inspectors that they have worked with before who they like and trust that they can provide you. **We always give our clients at least three different names of inspectors so they can have options and figure out which is best for them.**
+First, let’s talk about how you should go about finding a home inspector. Your best resource is going to be the real estate agent or team you are working with. They should have a short list of inspectors who they have worked with, like, and trust that they can provide you. **We always give our clients at least three different names of inspectors so they can have options and figure out which is best for them.**
 
 {% include pullquote.html %}
 
