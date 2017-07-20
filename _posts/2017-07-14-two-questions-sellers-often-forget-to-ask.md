@@ -9,7 +9,7 @@ pullquote: Something I love about my job as a Realtor is helping people figure o
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/no-pb-14.jpg
+youtube_alternate_image: /uploads/no-pb-25.jpg
 youtube_code: ulXKlOBikHw
 ---
 
