@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Announcing a Change with Your Credit
-date: 2017-07-19 12:05:13
+date: 2017-07-19 12:05:00
 tags:
   - Home Buyer Tips
 excerpt: Today I wanted to talk to you about some exciting news that I just heard about.
@@ -9,9 +9,9 @@ enclosure:
 pullquote: 'With a lower rate, you have more buying power to get the home of your dreams.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code: E3fE0r-tUac
+use_youtube_image: false
+youtube_alternate_image: /uploads/korbyt7-19.jpg
+youtube_code: N8-rMP_UVf0
 ---
 
 
