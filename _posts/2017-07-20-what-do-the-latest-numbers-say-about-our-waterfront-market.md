@@ -21,6 +21,8 @@ How are things looking in our waterfront market as we reach the mid-year point?
 
 Things got off to a slow start with a snowy, rainy spring, but our market is starting to pick up, so it’s likely that our third quarter report will be substantially different.
 
+{% include pullquote.html %}
+
 In the meantime, **there have been 48 total vacant land and residential sales on the waterfront,** which is down three from the 51 we saw at this time last year. We also currently have 17 pending sales, so there’s a good number out there waiting to close.
 
 At the end of last year, the big story was the number of waterfront condominiums that had sold on Flathead Lake. This year, Flathead Lake has seen 8 condominiums sell, which is down from the 12 we saw at this point last year. There are five pending sales in this category, however, so we’re getting pretty close to catching up. Right now, there are 47 condominiums actively for sale.
@@ -42,6 +44,3 @@ Heading over to the “West Lakes”—Ashley Lake, Bitterroot Lake, and McGrego
 On the vacant land side, there have been three sales on Ashley Lake so far this year. Last year, there was one on Ashley and one on Bitterroot. There is currently one pending sale on Ashley and 31 active vacants for sale at a median price of $710,000.
 
 If you have any questions about these statistics or some of the market trends we’re seeing, don’t hesitate to reach out to me. I look forward to hearing from you, and I hope you have a good rest of the summer.
-<br>
-
-{% include pullquote.html %}
