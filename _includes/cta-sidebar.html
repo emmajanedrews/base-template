@@ -14,7 +14,19 @@
 	<p>
 		{{cta.CTA_text}}
 	</p>
-	<div class="ctacontainer">
+	<div class="dropdown">
+	  <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+	    Request a Consultation
+	    <span class="caret"></span>
+	  </button>
+	  <ul class="dropdown-menu" aria-labelledby="dropdownMenu">
+	    <li class="dropdown-header">Speak with us about a career at KW:<br>Request a consultation to work in one of our offices.</li>
+	    <li role="separator" class="divider" id="divider"></li>
+	    <li class="link-transform"><a href="http://kathymoore.myhomehq.biz/" target="_blank">Kathy Moore | Midvale</a></li>
+	    <li class="link-transform"><a href="http://darlenecarter.kwrealty.com/" target="_blank">Darlene Carter | Layton</a></li>
+	  </ul>
+	</div>
+	<!-- <div class="ctacontainer">
 		{% if cta.CTA_link_text == null or cta.CTA_url == null%}
 		<a class="ctalink" href="{{site.data.settings.CTAs.first_CTA_URL}}" target="_blank">
 			{{site.data.settings.CTAs.first_CTA_text}}
@@ -24,7 +36,7 @@
 			{{cta.CTA_link_text | replace: '-- MARKET --', site.data.settings.client.market}}
 		</a>
 		{% endif %}
-	</div>
+	</div> -->
 </div>
 {% endfor %}
 {% for cta in site.data.settings.second_sidebar_CTA %}
@@ -42,7 +54,8 @@
 	<p>
 		{{cta.CTA_text2 | replace: '-- MARKET --', site.data.settings.client.market}}
 	</p>
-	<div class="ctacontainer">
+	{% include dropdown.html %}
+	<!-- <div class="ctacontainer">
 		{% if cta.CTA_link_text2 == null or cta.CTA_url2 == null%}
 		<a class="ctalink" href="{{site.data.settings.CTAs.second_CTA_URL}}" target="_blank">
 			{{site.data.settings.CTAs.second_CTA_text}}
@@ -52,6 +65,6 @@
 			{{cta.CTA_link_text2 | replace: '-- MARKET --', site.data.settings.client.market}}
 		</a>
 		{% endif %}
-	</div>
+	</div> -->
 </div>
 {% endfor %}

@@ -34,7 +34,7 @@ CTAs:
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "Looking to Build Your Real Estate Career?"
-    CTA_text: "Let's talk about how Keller Williams can take your business to new heights."
+    CTA_text: "Speak With Us About A Career At KW: Request A Consultation To Work In One Of Our Offices."
     CTA_link_text: "Free Strategy Session"
     CTA_url: /consultation/
 
@@ -60,11 +60,7 @@ lender:
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
-    professionals can answer any questions you might have about real estate.
-    Subscribe to this blog to get the latest news on local market trends and
-    receive expert tips for buying or selling a home.
+    When you choose to join Keller Williams, you join forces with the most dynamic real estate company in the world! I educate Real Estate Agents on how to build a better buiness and sell more homes, while sharing the benefits of what it's like to have a career with Keller Williams.
 
 socials:
   review_sm_icons: false

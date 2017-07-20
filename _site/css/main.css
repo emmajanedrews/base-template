@@ -1474,8 +1474,13 @@ html[xmlns] .flexslider .slides {
   color: #00aeef;
   margin-top: 15px; }
   .navbar-left > li > a:hover {
-    background: transparent;
-    color: #56d1ff; }
+    color: #0089bc;
+    box-shadow: 4px 4px 0 #0089bc;
+    border: 2px solid #ffffff;
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05);
+    -webkit-transform: translateY(-0.2rem);
+    transform: translateY(-0.2rem); }
 
 .fa-bars {
   color: #00aeef; }
@@ -1545,10 +1550,10 @@ html[xmlns] .flexslider .slides {
   font-size: 2rem;
   font-weight: 300;
   border: 2px solid #ffffff;
+  border-radius: 0;
   -webkit-transition: 0.3s;
   transition: 0.3s; }
   .dropdown-toggle:hover {
-    background: transparent;
     color: #0089bc;
     box-shadow: 4px 4px 0 #0089bc;
     border: 2px solid #ffffff;
@@ -1561,39 +1566,40 @@ html[xmlns] .flexslider .slides {
     -webkit-transform: translateY(0rem);
     transform: translateY(0rem);
     text-decoration: none;
-    color: #fff; }
+    color: #00aeef; }
   .dropdown-toggle:focus {
     text-decoration: none;
-    color: #fff; }
+    color: #00aeef; }
 
 .dropdown-menu > li {
   background: #ffffff;
   color: #123456;
-  padding: 1.3rem 2rem;
+  padding: 1rem 2rem;
   text-transform: capitalize;
   font-size: 2rem;
   font-weight: 300;
   border: 2px solid #ffffff;
-  border-radius: 0;
   -webkit-transition: 0.3s;
   transition: 0.3s; }
-  .dropdown-menu > li:hover {
-    color: #0089bc;
-    box-shadow: 4px 4px 0 #0089bc;
-    border: 2px solid #ffffff;
-    -webkit-transform: scale(1.05);
-    transform: scale(1.05);
-    -webkit-transform: translateY(-0.2rem);
-    transform: translateY(-0.2rem); }
-  .dropdown-menu > li:active {
-    box-shadow: 0 0 0 #0089bc;
-    -webkit-transform: translateY(0rem);
-    transform: translateY(0rem);
-    text-decoration: none;
-    color: #fff; }
-  .dropdown-menu > li:focus {
-    text-decoration: none;
-    color: #fff; }
+
+.link-transform:hover {
+  background: #eeeeee;
+  color: #0089bc;
+  box-shadow: 4px 4px 0 #0089bc;
+  border: 2px solid #ffffff;
+  -webkit-transform: scale(1.05);
+  transform: scale(1.05);
+  -webkit-transform: translateY(-0.2rem);
+  transform: translateY(-0.2rem); }
+.link-transform:active {
+  box-shadow: 0 0 0 #0089bc;
+  -webkit-transform: translateY(0rem);
+  transform: translateY(0rem);
+  text-decoration: none;
+  color: #fff; }
+.link-transform:focus {
+  text-decoration: none;
+  color: #fff; }
 
 .dropdown-menu > li > a {
   background: transparent;
@@ -1602,13 +1608,15 @@ html[xmlns] .flexslider .slides {
     background: transparent; }
 
 .dropdown-header {
-  font-size: 1.5rem;
-  font-style: oblique; }
+  font-size: 1rem;
+  font-style: oblique;
+  margin-bottom: -10px; }
 
 .divider:hover {
-  box-shadow: 0 solid transparent;
-  -webkit-transform: scale(1);
-  transform: scale(1); }
+  box-shadow: 0 solid transparent; }
+
+#divider {
+  margin-bottom: -25px; }
 
 .navbar-andross-bottom {
   background: #025b8e;
