@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How You Can Take Advantage of Our St. Charles Marketplace
-date: 2017-07-20 10:52:13
+date: 2017-07-20 10:52:00
 tags:
   - Market Update
 excerpt: There are a few things you should be aware of right now in the St. Charles marketplace.
@@ -9,8 +9,8 @@ enclosure:
 pullquote: The current market provides incredible opportunities for both savvy buyers as well as savvy sellers.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/kari-ssyt7-20.jpg
 youtube_code: crZ67M7mQUg
 ---
 
