@@ -5,7 +5,7 @@ tags:
 perma-link: /contact-us/
 ---
 
-<form class="contact-form" method="post" action="http://formspree.io/{{ site.data.settings.client.email }}">
+<form class="contact-form" method="post" action="http://formspree.io/emma@getvyral.com">
   <span class="form-title">Choose an Industry</span>
   <div class="form-group">
     <input type="radio" name="industry" value="Bio Pharma" required><span class="industry">Bio Pharma</span><br>
@@ -19,8 +19,14 @@ perma-link: /contact-us/
   <input type="text" name="name" placeholder="*Contact Name" required class="full-width">
   <input type="email" name="_replyto" placeholder="*Email" required class="full-width">
   <input type="text" name="phone" placeholder="Phone" class="full-width">
-  <input type="text" name="referral" placeholder="How Did You Hear About Us?" class="full-width">
   <textarea name="Message" placeholder="Message" class="full-width"></textarea>
+  <span class="form-title">How Did You Hear About Us?</span>
+  <select name="question" data-name="selectbox1">
+    <option name="question" value="Blog">Blog</option>
+    <option name="question" value="Website">Website</option>
+    <option name="question" value="LinkedIn">LinkedIn</option>
+    <option name="question" value="Other">Other</option>
+  </select>
   <!-- Cloud cannon settings field -->
   <div class="hidden">
     <input type="hidden" name="_to" value="{{site.data.settings.client.email}}">
