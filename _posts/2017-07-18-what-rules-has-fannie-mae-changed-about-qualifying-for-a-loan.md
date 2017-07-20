@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: pUj_TveDg9U
+youtube_code: dzo_MBfA38o
 ---
 
 
@@ -19,7 +19,7 @@ youtube_code: pUj_TveDg9U
 
 Fannie Mae recently made some important rule changes regarding what it takes to qualify for a loan.
 
-These changes mostly apply to what we call the “debt-to-income ratio,” or how many revolving payments show on your credit versus what the payment of the house you would like to buy is, and what percentage of your income that totals to. This factor is what prevents most people from qualifying for a loan.
+These changes mostly apply to what we call the “debt-to-income ratio,” or how many revolving payments show on your credit versus the payment of the house you would like to buy, and what percentage of your income that totals to. This factor is what prevents most people from qualifying for a loan.
 
 **The first change they made applies to third-party payments.** In the past, if you had student loan debt, your monthly payments would be counted against your debt-to-income ratio. For example, if your payment was $500 a month, the house you could afford would be $500 a month less.
 
@@ -27,7 +27,7 @@ Now, if you can prove a parent or a business (such as your employer) has been pa
 
 {% include pullquote.html %}
 
-**The second change applies to how Fannie Mae calculates the payment.**Previously, they calculated 1% of the total debt each month. For example, if you owed $100,000, you had to pay $1,000 a month. However, if you were in a forbearance or an income-based payment plan where—for example—you couldn’t make enough to pay $1,000 but you could make enough to pay $180, and they granted you a $180 per month payment plan, they would only use that $180 sum rather than that 1% (or $1,000 sum) to count against your debt-to-income ratio.
+**The second change applies to how Fannie Mae calculates the payment.&nbsp;**Previously, they calculated 1% of the total debt each month. For example, if you owed $100,000, you had to pay $1,000 a month. However, if you were in a forbearance or an income-based payment plan where—for example—you couldn’t make enough to pay $1,000 but you could make enough to pay $180, and they granted you a $180 per month payment plan, they would only use that $180 sum rather than that 1% (or $1,000 sum) to count against your debt-to-income ratio.
 
 **The third change applies to refinancing process.** This is for homeowners who have student loan debt or have children who have student loan debt and they want to refinance their house with a Fannie Mae loan and use the equity to pay off that debt.
 
