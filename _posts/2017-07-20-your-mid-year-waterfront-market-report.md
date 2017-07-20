@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your mid-year waterfront market report
-date:
+date: 2017-07-20 09:56:33
 tags:
 excerpt:
 enclosure:
@@ -12,6 +12,8 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code:
 ---
+
+
 {% include youtube.html %}
 
 {% include pullquote.html %}
