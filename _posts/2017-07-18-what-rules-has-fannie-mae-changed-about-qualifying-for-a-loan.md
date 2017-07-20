@@ -5,7 +5,7 @@ date: 2017-07-18 13:50:00
 tags:
   - Home Buyer Tips
 excerpt: Fannie Mae recently made three important rule changes regarding what it takes to qualify for a loan. Here are the changes and how they affect you.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Jason+Wilson/+Videos/2017/July/Woodstock%252C+GA+Real+Estate+Agent-+What+Rules+Has+Fannie+Mae+Changed+About+Qualifying+for+a+Loan%253F.mp4'
 pullquote: These changes most apply to your debt-to-income ratio.
 enclosure_type: video/mp4
 enclosure_time:
@@ -27,7 +27,7 @@ Now, if you can prove a parent or a business (such as your employer) has been pa
 
 {% include pullquote.html %}
 
-**The second change applies to how Fannie Mae calculates the payment.&nbsp;**Previously, they calculated 1% of the total debt each month. For example, if you owed $100,000, you had to pay $1,000 a month. However, if you were in a forbearance or an income-based payment plan where—for example—you couldn’t make enough to pay $1,000 but you could make enough to pay $180, and they granted you a $180 per month payment plan, they would only use that $180 sum rather than that 1% (or $1,000 sum) to count against your debt-to-income ratio.
+**The second change applies to how Fannie Mae calculates the payment.**Previously, they calculated 1% of the total debt each month. For example, if you owed $100,000, you had to pay $1,000 a month. However, if you were in a forbearance or an income-based payment plan where—for example—you couldn’t make enough to pay $1,000 but you could make enough to pay $180, and they granted you a $180 per month payment plan, they would only use that $180 sum rather than that 1% (or $1,000 sum) to count against your debt-to-income ratio.
 
 **The third change applies to refinancing process.** This is for homeowners who have student loan debt or have children who have student loan debt and they want to refinance their house with a Fannie Mae loan and use the equity to pay off that debt.
 
