@@ -268,26 +268,27 @@
 				<div class="col-lg-7 col-md-7 col-lg-offset-1">
 					<form class="contact-form" method="post" action="http://formspree.io/emma@getvyral.com">
   <span class="form-title">Choose an Industry</span>
-  <div class="form-group">
-    <input type="radio" name="industry" value="Bio Pharma" required><span class="industry">Bio Pharma</span><br>
-    <input type="radio" name="industry" value="Building Products" required><span class="industry">Building Products</span><br>
-    <input type="radio" name="industry" value="Careers" required><span class="industry">Careers</span><br>
-    <input type="radio" name="industry" value="Futurity" required><span class="industry">Futurity</span><br>
-    <input type="radio" name="industry" value="Health Care" required><span class="industry">Health Care</span>
-  </div>
+  <select name="industry" data-name="selectbox1" required>
+    <option name="industry" value="Bio Pharma">Bio Pharma</option>
+    <option name="industry" value="Building Products">Building Products</option>
+    <option name="industry" value="Careers">Careers</option>
+    <option name="industry" value="futurity">Futurity</option>
+    <option name="industry" value="Health Care">Health Care</option>
+  </select>
+  <span class="form-title">How Did You Hear About Us?</span>
+  <select name="heardfrom" data-name="selectbox1" required>
+    <option name="heardfrom" value="Blog">Blog</option>
+    <option name="heardfrom" value="Website">Website</option>
+    <option name="heardfrom" value="LinkedIn">LinkedIn</option>
+    <option name="heardfrom" value="Other">Other</option>
+  </select>
+  <br>
   <input type="hidden" name="_subject" value="New message from Govig Blog" />
   <input type="text" name="company" placeholder="Company Name" class="full-width">
   <input type="text" name="name" placeholder="*Contact Name" required class="full-width">
   <input type="email" name="_replyto" placeholder="*Email" required class="full-width">
-  <input type="text" name="phone" placeholder=*"Phone" required class="full-width">
+  <input type="text" name="phone" placeholder="*Phone" required class="full-width">
   <textarea name="Message" placeholder="Message" class="full-width"></textarea>
-  <span class="form-title">How Did You Hear About Us?</span>
-  <select name="question" data-name="selectbox1" required>
-    <option name="question" value="Blog">Blog</option>
-    <option name="question" value="Website">Website</option>
-    <option name="question" value="LinkedIn">LinkedIn</option>
-    <option name="question" value="Other">Other</option>
-  </select>
   <!-- Cloud cannon settings field -->
   <div class="hidden">
     <input type="hidden" name="_to" value="">
