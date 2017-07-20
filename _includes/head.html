@@ -54,4 +54,28 @@
 	<link rel="manifest" href="/img/favicons/manifest.json">
 	<link rel="mask-icon" href="/img/favicons/safari-pinned-tab.svg" color="#5bbad5">
 	<meta name="theme-color" content="{{site.data.settings.site_colors.theme_color}}">
+
+	<meta charset="utf-8">
+	<title>Our Raving Fans</title>
+	<meta name="description" content="{{ content.meta_description }}">
+
+	<!-- MyList Styles -->
+	<link rel="stylesheet" href="/css/mylist-player.css" />
+
+	<!-- MyList PLAYER SETTINGS -->
+	<script type="text/javascript">
+		var playListID = ["PL28F7794F7D345EC6"]; // replace with your desired youtube playlist ID
+		var apiKey = "AIzaSyBMRyIdlgyAKIoKe9ptUZgejHZQB3RWumY"; // this default YouTube API key will work but you should change it to your own
+		var autoPlayNext = 0; // auto play next video in list when current ends? 0 for no. 1 for yes.
+		var showPlayerControls = 1; // display YouTube video player controls? 0 for no. 1 for yes.
+		var showVideoInfo = 1; // display video title on youtube player? 0 for no. 1 for yes.
+		var showRelatedVideos = 0; // display related videos after video ends? 0 for no. 1 for yes.
+		var showTitlesInList = 1; // display video titles under each thumbnail in playlist? 0 for no. 1 for yes.
+	</script>
+
+	<!-- jQuery -->
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+	<!-- MyList Javascript -->
+	<script src="/js/mylist-player.js"></script>
 </head>
