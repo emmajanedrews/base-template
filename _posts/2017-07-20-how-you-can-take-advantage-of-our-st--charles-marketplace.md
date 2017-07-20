@@ -25,11 +25,11 @@ These market conditions point to great news for sellers. **Assuming it is priced
 
 Speaking from a technical perspective, the market’s current absorption rate is about eight months—a number that actually favors buyers.
 
-{% include pullquote.html %}
-
 But the current market provides incredible opportunities for both savvy buyers as well as savvy sellers because we are so near an equilibrium point of inventory.
 
 It’s for this reason that it is so critical to list and/or buy with a top producing agent like myself.
+
+{% include pullquote.html %}
 
 Be sure to keep interest rates in mind, as well. The Fed recently increased short-term rates by a quarter of a percent. But, because this increase was anticipated it has already baked into the market. 30-year fixed mortgage rates have dipped just under 4%.
 
