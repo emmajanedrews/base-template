@@ -5,7 +5,7 @@ date: 2017-07-17 15:16:00
 tags:
   - Home Seller Tips
 excerpt: 'I have seven smart, cost-effective renovations you can make to your home before putting it on the market.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Philipp+Fries/videos/Tampa+Bay+Area+Real+Estate+Agent-+3+Top+Tips+for+Staging+Your+Home.mp4'
 pullquote: Here are the seven most popular and cost-efficient renovations you can make to your home.
 enclosure_type: video/mp4
 enclosure_time:
