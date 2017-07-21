@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title></title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <title>North Carolina Real Estate Podcast with Patty Gillepsie</title>
+    <link>http://www.pattytalks.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://www.pattytalks.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Patty Sells NC Team - your professional Raleigh Real Estate Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Patty Gillepsie</managingEditor>
-    <lastBuildDate>2017-05-16 13:49:10 -0500</lastBuildDate>
+    <lastBuildDate>2017-07-21 09:54:01 -0500</lastBuildDate>
     <media:copyright>Patty Gillepsie</media:copyright>
-    <media:thumbnail url="/img/podcast.jpg"/>
+    <media:thumbnail url="http://i.imgur.com/xwMWat6.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Raleigh Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,103 +18,116 @@
     </itunes:owner>
     <itunes:author>Patty Gillepsie</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="/img/podcast.jpg"/>
+    <itunes:image href="http://i.imgur.com/xwMWat6.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Raleigh Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Raleigh Real Estate Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Patty Sells NC Team - your professional Raleigh Real Estate Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>localhost:4000/this-is-a-test-post.html</link>
-        
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
+        <title>How to Properly Stage Your Home</title>
+        <link>http://www.pattytalks.com/how-to-properly-stage-your-home.html</link>
         
           <category>Home Seller Tips</category>
         
         <author>Patty Gillepsie</author>
-        <pubDate>2016-10-04 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2017-07-06 08:45:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Patty+Sells+NC/Email+Assets/++Videos/2017/July/Patty+Sells+NC-+How+to+Properly+Stage+Your+Home.mp4</guid>
         <description>
 
-}
+Some homeowners will need to stage their home for showings while they’re still living in the property. Today I’ve listed a few tips to help make the staging process easier.
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+1. Remove all signs of personalization. A homebuyer should be able to envision themselves in the home through its design, and if too many personal items are around, they won’t be able to do that.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+“A homebuyer should be able to envision themselves in the home.”
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+2. Re-define each room’s purpose. Adjusting the use of converted spaces back to their original purpose will help you get the home sold.
 
-“This is an example of a pull quote”
+3. Make use of a storage unit. Investing in a storage unit close to your home will give you quick access to items that you may need, while still allowing you to remove some items so that sellers can see the entire space without clutter.
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+If you have any questions or you’d like to schedule a free in-home consultation with our team stager, give us a call. We’d be happy to help!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Patty+Sells+NC/Email+Assets/++Videos/2017/July/Patty+Sells+NC-+How+to+Properly+Stage+Your+Home.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://www.pattytalks.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Patty+Sells+NC/Email+Assets/++Videos/2017/July/Patty+Sells+NC-+How+to+Properly+Stage+Your+Home.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>Today I wanted to talk to you about how to stage your home for showings while you’re still living in it.</itunes:subtitle>
         <itunes:author>Patty Gillepsie</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>Today I wanted to talk to you about how to stage your home for showings while you’re still living in it.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Raleigh Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>A Fox in Space</title>
-        <link>localhost:4000/a-fox-in-space.html</link>
-        
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
+        <title>5 Home Maintenance Tasks for the Summer</title>
+        <link>http://www.pattytalks.com/5-home-maintenance-tasks-for-the-summer.html</link>
         
           <category>Home Seller Tips</category>
         
         <author>Patty Gillepsie</author>
-        <pubDate>2016-09-28 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2017-06-22 08:23:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Patty+Sells+NC/Patty+Sells+NC-+Get+your+home+ready+for+summer+fun.mp4</guid>
         <description>
 
-}
+There are five home maintenance tasks you should definitely tackle this June:
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+1. Inspect brick or stone patios and walkways. Freezing temperatures can wreak havoc on hardscape surfaces made of loose, unmortared brick, stone, concrete, or other paving materials. If frost heave and erosion have caused pavers to shift, rise, or sink, you’ll want to fix any unevenness for safety and aesthetic reasons.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+2. Feed your lawn. After a wet spring, your lawn may look very nice and lush. Since Mother Nature did all the hard work, you can relax now, right? Unfortunately, no. Grass loves nutrients. Now is a great time to add a high nitrogen fertilizer to help suppress weeds and keep your lawn looking great for the summer.
 
+“Fix uneven areas in your patio to stay safe this summer.”
 
-  list item
-  list item
-  list item
-  list item
-  list item
+3. Repair wooden fences and gates. Cycles of cold and wet weather can cause wood to move, twist, and warp. Garden gates can fall out of alignment and fence pickets can become loose or fall off. Check for any loose fencing and fix sagging gate areas.
 
+4. Mulch your flower and vegetable beds. Insulate your planting beds with two to five inches of mulch to prevent evaporation and keep weeds in check.
 
+5. Get your grill in gear. Nobody wants a rack of ribs with last year’s grill gunk on them, so make sure your grill is clean and that the gas hoses and connections are tight and secure.
 
-  list item
-  list item
-  list item
-  list item
-  list item
+If you take care of these items on our “check yourself” list, then your house is ready for another great summer season. If you have any questions about home maintenance or if you are interested in our current real estate market, just give me a call or send me an email. I would be happy to help you!
 
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Patty+Sells+NC/Patty+Sells+NC-+Get+your+home+ready+for+summer+fun.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://www.pattytalks.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Patty+Sells+NC/Patty+Sells+NC-+Get+your+home+ready+for+summer+fun.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>Today, I’ll go over five home maintenance tips you should do this June in order to prepare your home for another summer season.</itunes:subtitle>
         <itunes:author>Patty Gillepsie</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>Today, I’ll go over five home maintenance tips you should do this June in order to prepare your home for another summer season.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Raleigh Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>The Key to Finding the Perfect Neighborhood</title>
+        <link>http://www.pattytalks.com/the-key-to-finding-the-perfect-neighborhood.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Patty Gillepsie</author>
+        <pubDate>2017-06-07 08:31:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Patty+Sells+NC/The+Patty+Sells+NC+Team-+Finding+the+perfect+neighborhood.mp4</guid>
+        <description>
+
+If you want to ensure your new home is in a neighborhood you will absolutely love, I’ve got just the checklist for you.
+
+1. Check the list! Google the best places to live in the Triangle or a specific city in the Triangle that’s of interest to you. You’ll get pages of options to sift through. The websites and news outlets have done a lot of the legwork for you, and they will provide you with data and statistics that will help you quickly see where you might want to concentrate your search. At the very least, they will provide you with a good starting point that will allow you to do further research.
+
+2. Consider the value. There are countless ways to look at the value of an area, but one of the strongest indicators of growth in neighborhoods today is what can be found around it. For example, a popular coffee shop. Proximity to a coffee shop has a very real and positive effect on home values. In fact, in the 17 years leading up to 2014, homes adjacent to a Starbucks almost doubled in value up to 96%. Those further out appreciated by 65% over the same period.
+
+“Test run your work commute from each neighborhood.”
+
+3. Make the drive. Commuting is a big deal for everyone, and if you have a limit to how much time you want to spend in the car, it makes sense to drive from any of the neighborhoods you like to work and back during rush hour. You might find that the drive from one of those neighborhoods is too long, so you can eliminate it as an option.
+
+4. Spend as much time as possible in the area. This will tell you if it’s a good fit. Make a list of your needs and figure out if that area will meet them.
+
+If you have any questions about finding the perfect neighborhood, or if you are looking to buy or sell a home, feel free to give me a call or send me an email. I look forward to speaking with you soon!
+
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Patty+Sells+NC/The+Patty+Sells+NC+Team-+Finding+the+perfect+neighborhood.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://www.pattytalks.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Patty+Sells+NC/The+Patty+Sells+NC+Team-+Finding+the+perfect+neighborhood.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today I want to share my foolproof checklist for finding the perfect neighborhood to purchase your new home in.</itunes:subtitle>
+        <itunes:author>Patty Gillepsie</itunes:author>
+        <itunes:summary>Today I want to share my foolproof checklist for finding the perfect neighborhood to purchase your new home in.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Raleigh Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
