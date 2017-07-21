@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Can You Get Top Dollar for Your Home?
-date: 2017-07-21 10:20:41
+date: 2017-07-21 10:20:00
 tags:
   - Home Seller Tips
 excerpt: 'In order to get top dollar in today’s marketplace, there are a few simple steps you can take.'
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/kari-ss27-21yt.jpg
-youtube_code: jPjv7vaozC4
+youtube_code: 3agBpR8NHTE
 ---
 
 
