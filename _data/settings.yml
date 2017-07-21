@@ -27,8 +27,8 @@ client:
 CTAs:
   first_CTA_text: Free Strategy Session
   first_CTA_URL: /consultation/
-  # second_CTA_text: Home Search
-  # second_CTA_URL: /homesearch/
+  second_CTA_text: Home Search
+  second_CTA_URL: /homesearch/
   VR_form:
 
 sidebar_CTA:
@@ -38,12 +38,12 @@ sidebar_CTA:
     CTA_link_text: "Free Strategy Session"
     CTA_url: /consultation/
 
-# second_sidebar_CTA:
-#   - CTA_image_path2: /img/cta-images/005.jpg
-#     CTA_title2: "Looking for a -- MARKET -- Home?"
-#     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-#     CTA_link_text2: "Search the MLS"
-#     CTA_url2: /homesearch/
+second_sidebar_CTA:
+  - CTA_image_path2: /img/cta-images/005.jpg
+    CTA_title2: "Want to learn more?"
+    CTA_text2: "Attend One Of Our Training Classes At Our Offices"
+    CTA_link_text2: "Classes"
+    CTA_url2: /homesearch/
 
 lender:
   show_section: false
@@ -77,7 +77,7 @@ socials:
   podcast_url:
 
 podcast:
-  title:
+  title: Savvy Agent Real Estate Video Blog with Marcus Green
   categories: Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
