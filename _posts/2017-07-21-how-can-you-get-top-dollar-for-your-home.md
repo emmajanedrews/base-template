@@ -19,7 +19,7 @@ youtube_code: jPjv7vaozC4
 
 In order to get top dollar in today’s marketplace, there are a few simple steps you can take.
 
-**One of the first and best ways to obtain top dollar is by hiring and working with a top producing agent.** Working with a quality real estate agent who specializes in the market in which you are selling is key.
+**One of the first and best ways to obtain top dollar is by hiring and working with a top-producing agent.** Working with a quality real estate agent who specializes in the market in which you are selling is key.
 
 You need to hire an agent with a proven track record and a reputation for success. To be sure of this, interview the agent. Watch and listen carefully to see what kind of sales skills they apply during the conversation.
 
