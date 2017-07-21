@@ -25,9 +25,9 @@ Things got off to a slow start with a snowy, rainy spring, but our market is sta
 
 In the meantime, **there have been 48 total vacant land and residential sales on the waterfront,** which is down three from the 51 we saw at this time last year. We also currently have 17 pending sales, so there’s a good number out there waiting to close.
 
-At the end of last year, the big story was the number of waterfront condominiums that had sold on Flathead Lake. This year, Flathead Lake has seen 8 condominiums sell, which is down from the 12 we saw at this point last year. There are five pending sales in this category, however, so we’re getting pretty close to catching up. Right now, there are 47 condominiums actively for sale.
+At the end of last year, the big story was the number of waterfront condominiums that had sold on Flathead Lake. This year, Flathead Lake has seen eight condominiums sell, which is down from the 12 we saw at this point last year. There are five pending sales in this category, however, so we’re getting pretty close to catching up. Right now, there are 47 condominiums actively for sale.
 
-**Staying in Flathead Lake, 21 homes have sold this year,** which is down slightly from the 27 that sold last year. The median home price, however, rose from $560,000 to $628,000. Two of those 21 homes sold for more than $1 million. Last year, three homes had sold at this point for more than $1 million, so both years started out rather slowly in that price range. There are five pending sales, and all are all priced under $775,000.
+**Staying in Flathead Lake, 21 homes have sold this year,** which is down slightly from the 27 that sold last year. The median home price, however, rose from $560,000 to $628,000. Two of those 21 homes sold for more than $1 million. Last year, three homes had sold at this point for more than $1 million, so both years started out rather slowly in that price range. There are five pending sales, and all are priced under $775,000.
 
 If we look at the current inventory of 115 homes for sale on Flathead Lake, 58 of those are priced for more than $1 million. If you’re a buyer or seller in this price range, you can expect to see some shifting happening soon.
 
@@ -37,7 +37,7 @@ On the vacant land side, there have been five sales, which is up slightly from t
 
 On the vacant land side, there have been no sales so far this year. Last year, there were two. However, there is one sale pending and 11 active vacants on the market, of which the median price is $395,000.
 
-**On Echo Lake and Lake Blaine, there have been no vacant land or residential sales,** and last year there weren’t any sales in either of these two categories either. There are two pending residential sales—one on Echo Lake and one on Lake Blaine. There are 15 residential homes active on the market and 11 vacant lots for sale. The median price is $1 million for residential homes and $500,000 for vacant lands. There are also a couple cabin properties for sale on Deer Island inside Echo Lake.
+**On Echo Lake and Lake Blaine, there have been no vacant land or residential sales,** and last year there weren’t any sales in either of these two categories. There are two pending residential sales—one on Echo Lake and one on Lake Blaine. There are 15 residential homes active on the market and 11 vacant lots for sale. The median price is $1 million for residential homes and $500,000 for vacant lands. There are also a couple cabin properties for sale on Deer Island inside Echo Lake.
 
 Heading over to the “West Lakes”—Ashley Lake, Bitterroot Lake, and McGregor Lake—**there have been seven residential sales so far this year:** two on Mcgregor, three on Bitterroot, and two on Ashley. Last year, there were two total residential sales encompassing this area, so this year has seen quite an uptick. There are two pending sales in the West Lakes—one on Ashley and one on Bitterroot. There are also 23 active homes for sale with a median price of $710,000.
 
