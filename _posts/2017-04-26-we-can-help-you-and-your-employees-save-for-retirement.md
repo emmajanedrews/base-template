@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: ugIdyq07aXg
+youtube_code: 8L0JbVfnrw4
 ---
 
 
@@ -32,3 +32,7 @@ We have written a book called “Tracking Retirement” where we used our experi
 The Pension Protection Act says that if you use specific automatic features in your 401k, you can get complete fiduciary liability. Guess what? Those same features improve the quality of the plan for those participants trying to create those paychecks for life. If you like what you’ve heard so far, stay tuned for our next post.
 
 If you have any questions in the meantime, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.
+
+&nbsp;
+
+<div>Securities and advisory services offered through FSC Securities Corporation, member FINRA/SIPC. Michigan 401k and Financial Independence are marketing names.</div>
