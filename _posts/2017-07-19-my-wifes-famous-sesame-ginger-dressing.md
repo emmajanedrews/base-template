@@ -21,15 +21,15 @@ Welcome to another episode of “Hacking Your Health.” We’re here in the kit
 
 **Here’s what you’ll need for the dressing**:
 
-* Sesame Ginger Dressing Recipe: 3/4 to 1 Cup of Bragg's Liquid Aminos (less Bragg's if you do not want it as salty).
-* 4 cloves of garlic
-* A Knob of ginger
-* 1 tablespoon Tahini
+* 3/4 to 1 Cup of Bragg's Liquid Aminos (less Bragg's if you do not want it as salty).
+* 4 Cloves of Garlic
+* A Knob of Ginger
+* 1 Tablespoon Tahini
 * 5 Tablespoon Sesame Oil
 * 1-2 Tablespoon Raw Honey
 * 1 Tablespoon of Rice Wine Vinegar
 * 1 Cup of Orange Juice
-* 1/2-1 Cup of olive oil
+* 1/2-1 Cup of Olive Oil
 
 Blend everything together except the olive oil. After everything is mixed up, slowly add in the olive oil while the blender is on. After about 30 seconds, your dressing is ready to go.
 
