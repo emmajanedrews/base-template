@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Go About Buying a New Home
-date: 2017-07-20 14:42:55
+date: 2017-07-20 14:42:00
 tags:
   - Home Buyer Tips
 excerpt: 'The process of buying a new home isn’t easy, but the steps to follow are.'
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/no-pb-24.jpg
-youtube_code: y65jN7-RgF0
+youtube_code: LsySJNZSbXQ
 ---
 
 
