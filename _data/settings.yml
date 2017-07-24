@@ -1,41 +1,36 @@
 audit_header: false
-title: Ursula & Associates
+title: 'Ursula & Associates'
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: true
 custom_links:
   - title: About
     url: www.wilsonkw.com
-
 client:
   name: Jason Wilson
   license_number: 333062
-  about_markdown: |
-    Jason is the lead agent and owner of Ursula & Associates. He has been a national speaker and teacher for the real estate industry for years. "We are students of the market and excel in knowing how to help our clients navigate the market with ease. We work to get our clients top dollar with expert knowledge, in the least amount of time with the industry’s strongest marketing plan."
+  about_markdown: 'Jason is the lead agent and owner of Ursula & Associates. He has been a national speaker and teacher for the real estate industry for years. "We are students of the market and excel in knowing how to help our clients navigate the market with ease. We work to get our clients top dollar with expert knowledge, in the least amount of time with the industry’s strongest marketing plan."'
   market: Woodstock
-  brand: Ursula & Associates
+  brand: 'Ursula & Associates'
   brokerage: Keller Williams Realty Partners
   address: '220 Heritage Walk #101<br>Woodstock, GA 30188'
   phone: 678-389-3887
   phone_type: Direct
   phone2: 678-494-0644
   phone2_type: Office
-  email: homes@WilsonKW.com
-  url: http://wilsonkw.com
-
+  email: Jason@callursula.com
+  url: www.CallUrsula.com
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.wilsonkw.com
+  first_CTA_URL: 'http://www.wilsonkw.com'
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.wilsonkw.com
-  VR_form: http://oi.vresp.com?fid=9c5a0ebf6b
-
+  second_CTA_URL: 'http://www.wilsonkw.com'
+  VR_form: 'http://oi.vresp.com?fid=9c5a0ebf6b'
 sidebar_CTA:
   CTA_image_path: /img/cta-images/001.jpg
   CTA_title: Looking to Buy a Home?
   CTA_text: Search the entire MLS for homes located in -- MARKET --.
   CTA_link_text: Home Search Tool
-  CTA_url: http://www.wilsonkw.com
-
+  CTA_url: 'http://www.wilsonkw.com'
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
@@ -44,30 +39,28 @@ welcome_box:
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
-
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/wilsonrealtygroupkw/
-  linkedin_url: https://www.linkedin.com/in/jason-wilson-8990416/
-  gplus_url: https://plus.google.com/u/0/113272801296021688721
-  youtube_url: https://www.youtube.com/channel/UCyw8mdXnZVdGYVGffQuKIcg
-  twitter_url: https://twitter.com/wilsonrealtykw
+  facebook_url: 'https://www.facebook.com/wilsonrealtygroupkw/'
+  linkedin_url: 'https://www.linkedin.com/in/jason-wilson-8990416/'
+  gplus_url: 'https://plus.google.com/u/0/113272801296021688721'
+  youtube_url: 'https://www.youtube.com/channel/UCyw8mdXnZVdGYVGffQuKIcg'
+  twitter_url: 'https://twitter.com/wilsonrealtykw'
   instagram_url:
   pinterest_url:
-  zillow_url: https://www.zillow.com/profile/Jason-Wilson-WRG/
-  trulia_url: https://www.trulia.com/profile/jason-wilson-agent-woodstock-ga-zg5979m1/overview
+  zillow_url: 'https://www.zillow.com/profile/Jason-Wilson-WRG/'
+  trulia_url: 'https://www.trulia.com/profile/jason-wilson-agent-woodstock-ga-zg5979m1/overview'
   yelp_url:
-  podcast_url: https://itunes.apple.com/us/podcast/wilson-realty-group-podcast/id1215843982?mt=2
-
+  podcast_url: 'https://itunes.apple.com/us/podcast/wilson-realty-group-podcast/id1215843982?mt=2'
 podcast:
   title: Wilson Realty Group Podcast
-  categories: Education
+  categories:
+    - Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
   author: '-- CLIENT NAME --'
-
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
@@ -75,20 +68,17 @@ images:
   hero_text: Real Estate Video Blog
   hero_background_hex: '#353535'
   hero_image_path: /img/background.jpg
-
 site_colors:
   brand_color: '#b40101'
   theme_color: '#353535'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: "#000"
-
+  shadow_color: '#000000'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
