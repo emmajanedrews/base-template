@@ -30,7 +30,7 @@ What does this mean for you?
 
 **These conditions make it very easy for you to sell your home right away for a very favorable price,** but they also point to a correction which might appear soon in our market. For example, the increase in sales numbers is likely to push up mortgage rates, making it less affordable for buyers to buy. The ongoing Federal Reserve rate hike might contribute to this as well.
 
-Furthermore, the continuing demand and high home prices will eventually spur construction of new homes. The record-high confidence levels reported recently the the National Association of Homebuilders support this. All this new construction will certainly impact the growth of home prices, and might even drive them down.
+Furthermore, the continuing demand and high home prices will eventually spur construction of new homes. The record-high confidence levels reported recently the National Association of Homebuilders support this. All this new construction will certainly impact the growth of home prices, and might even drive them down.
 
 So, again, if you’re thinking of selling your home, the time to do so is now.
 
