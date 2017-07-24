@@ -20,12 +20,12 @@ client:
   phone_type:
   phone2:
   phone2_type:
-  email: northtexasre@sbcglobal.net
+  email: john@trgdfw.com
   url: http://www.johnteixeira.com
   first_CTA_text: Home Evaluation
-  first_CTA_URL: http://150489818.homesconnect.com/search/comparablehomes.aspx
+  first_CTA_URL: http://www.jtexsells.com/evaluation
   second_CTA_text: Home Search
-  second_CTA_URL: http://150489818.homesconnect.com/search/residentialadvancedsearch.aspx
+  second_CTA_URL: http://www.jtexsells.com/listing
   phone_CTA: true
   VR_form: http://oi.vresp.com?fid=e45d0c2036
 welcome_headline: Get Educated About Real Estate
