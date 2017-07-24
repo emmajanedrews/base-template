@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s Happening in the Hoboken Real Estate Market?
-date:
+date: 2017-07-24 15:33:26
 tags:
 excerpt: 'How is the Hoboken real estate market doing? Although there is concern about another real estate bubble, it doesn’t look like there’s anything to worry about.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Brian+Riolo+/Riolo+July+1+What%E2%80%99s+Happening+in+the+Hoboken+Real+Estate+Market.mp4'
