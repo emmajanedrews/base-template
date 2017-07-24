@@ -23,7 +23,7 @@ So, I want to let you know about some of the great enhancements that will make o
 
 One of the first improvements is that the tax ID number will be delineated separately from the address section. Plus, “included items” now include solar panels, water softeners, TV wall mounts, and any speakers associated with that system.&nbsp;
 
-The agreement better addresses issues of personal property. Prorations deal very nicely with rental deposits, which is especially important for long-term rental properties. That can be a little trickier with short-term rentals such as Airbnb or HomeAway. These platforms don’t have contracts but allow renters to prepay, so how do you deal with those?
+**The agreement better addresses issues of personal property.** Prorations deal very nicely with rental deposits, which is especially important for long-term rental properties. That can be a little trickier with short-term rentals such as Airbnb or HomeAway. These platforms don’t have contracts but allow renters to prepay, so how do you deal with those?
 
 {% include pullquote.html %}
 
@@ -31,7 +31,7 @@ The new REPC also cleaned things up on the leasing side and added a FIRPTA claus
 
 Another important change is that the license number has to be included in the agency disclosure section.&nbsp;
 
-The new REPC even nicely addresses changes that happen during the escrow period, such as significant construction or the buyer incurring additional debt. The language has been cleaned up to make things more clear to both parties.&nbsp;
+**The new REPC even nicely addresses changes that happen during the escrow period,** such as significant construction or the buyer incurring additional debt. The language has been cleaned up to make things more clear to both parties.&nbsp;
 
 Again, these changes are coming this September, so be prepared. Overall, though, I think these changes are good, and I hope you’ll agree.&nbsp;
 
