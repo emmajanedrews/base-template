@@ -23,12 +23,13 @@ I wanted to touch on two important topics briefly today, starting with the quest
 <br>&nbsp;
 <br>In general, we tell people you need to save 10% to retire. It's a little more complicated than that though because you need to figure out what percentage of your current income you need. We call this the 'income replacement ratio' or 'income replacement formula.'&nbsp;
 <br>&nbsp;
-<br>As an example, say we had a 40-year-old worker who makes $50,000 a year and knows he wants to retire at 66. It sounds simple to just say he needs 80% of his income—$40,000—but you have to consider inflation. Inflation chews into your spending power. The average price of a new car was just $11,500 25 years ago and today, it's $33,500. We know we have inflation to battle against, but how?
 
-{% include pullquote.html %}
-<br>&nbsp;
-<br>This is where the Rule of 72 comes in. We can use this rule to engineer what your retirement needs to look like in the future. We have an average inflation of 3%, so we take 72 and divide by that three, giving us 24. This tells us that in 24 years, your spending power will be cut in half. If we go back to our 40-year-old who wants to retire in 26 years, he will need $80,000, not $40,000.&nbsp;
-<br>&nbsp;
+As a hypothetical scenario, let’s say we had a 40-year-old worker who makes $50,000 a year and knows he wants to retire at 66. It sounds simple to just say he needs 80% of his income—$40,000—but you have to consider inflation. Inflation chews into your spending power. We know we have inflation to battle against, but how?
+
+{% include pullquote.html %} &nbsp;
+
+This is where the Rule of 72 comes in. We can use this rule to engineer what your retirement needs to look like in the future. For the purpose of this example, let’s say our national average inflation rate was 3%. We’d then take 72 and divide by that three, giving us 24. This tells us that in 24 years, your spending power would be cut in half. If we go back to our 40-year-old who wants to retire in 26 years, he would need $80,000, not $40,000.
+
 <br>Now, you might be thinking that this sounds too complicated and that your employees would never be able to figure it out. However, most 401(k) providers will do the calculations that will tell you how much income you'll be able to replace. Some will even take that lump sum and turn it into a monthly income. If you'd like a list of these providers, I'd be happy to provide you one.
 <br>&nbsp;
 <br>This is mission critical. If your employees don't know what they need to save for retirement, they are going to arrive at a point where they don't have enough money to fund their retirement. This sounds like it can get difficult, but we provide a service to our clients called a 'gap analysis.' This takes a look at what you have in your plan, what you’re saving, and how it gets you to your retirement.&nbsp;
