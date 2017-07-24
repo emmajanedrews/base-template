@@ -11,13 +11,13 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: wStGDEGEQKo
+youtube_code: SuQk4ztORnI
 ---
 
 
 {% include youtube.html %}
 
-Many sellers have recently asked me how we have such great turnout at our open houses, so I wanted to share some quick advice.&nbsp;
+Many sellers have recently asked me how we have such great turnout at our open houses, so I wanted to share some quick advice.
 
 **We have a 15-page marketing plan that explains our whole open house process** that I'd be happy to send to you, but for now, I wanted to give you the main points.
 
@@ -32,4 +32,4 @@ Additionally, we generate a lot of interest with our digital marketing. We have 
 Publications also work great, so I publish a 15-page real estate-related newspaper that goes to 28,000 homes with an open house section where we feature homes. Finally, we try to get everyone to register once they come in so we can follow up with them and ask questions.
 
 Again, if you'd like our full 15-page document, I'd be happy to share it with you. If you have any questions about open houses or anything in your real estate career, don't hesitate to give me a call or send me an email. I hope to hear from you soon!
-<br>&nbsp;
+<br>
