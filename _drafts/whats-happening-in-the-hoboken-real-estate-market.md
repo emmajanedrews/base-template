@@ -26,7 +26,7 @@ In the higher end of the market, specifically above the $1.25 million price poin
 
 {% include pullquote.html %}
 
-Interest rates will also play a major part in our market for the next six months to a year. The Fed is expected to raise rates again in the third quarter. However, positive job numbers should ease off some of the bond buying in our market.
+**Interest rates will also play a major part in our market** for the next six months to a year. The Fed is expected to raise rates again in the third quarter. However, positive job numbers should ease off some of the bond buying in our market.
 
 There has been a slight uptick in inventory. Due to a huge build up in rental properties along River Road and in downtown Jersey City, investors and landlords have seen a negative impact in their bottom line, as some of these investors have had to lower their rental prices.
 
