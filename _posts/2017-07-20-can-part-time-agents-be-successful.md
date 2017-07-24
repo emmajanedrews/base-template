@@ -23,15 +23,15 @@ A friend of mine, for example, has been thinking about getting into the world of
 
 From my experience with this, I found that it was difficult to work with the leads that I needed. I was struggling because I was only putting in part-time effort instead of making my work a full-time focus.
 
-**The moment I transitioned to full-time I saw an increase in the number of appointments I was getting,** the number of people I was showing homes, and the number of listings I was getting. Four to five months in I started closing consistently, and found success that I hadn’t when I was just working part-time.
+**The moment I transitioned to full-time I saw an increase in the number of appointments I was getting,** the number of people I was showing homes to, and the number of listings I was getting. Four to five months in, I started closing consistently and found success that I hadn’t when I was just working part time.
 
-Working with my current team, we get 400 to 500 leads a month. **Everyone benefits from each other but in order to really work as a part of this environment you need to be full-time.**
+Working with my current team, we get 400 to 500 leads a month. **Everyone benefits from each other but in order to really work as a part of this environment you need to be full time.**
 
 If you are working another job concurrently to your work as a real estate agent, you won’t be able to reach the level of focus that will drive you to success.
 
 {% include pullquote.html %}
 
-Consider if you were at a second job and you’re contacted by a lead. Instead of being able to work with them right away as you would if you were a full-time agent, you might end up making them wait; and people expect a quick response. The standard on our team, for example, is within five minutes.
+Consider if you were at a second job and you’re contacted by a lead. Instead of being able to work with them right away as you would if you were a full-time agent, you might end up making them wait, and people expect a quick response. The standard on our team, for example, is within five minutes.
 
 Also, there are a lot of commitments at all times of the day that come along with being an agent. It would be incredibly difficult as a part-time agent to be able to meet these obligations. Take the case of hosting open houses.
 
@@ -42,4 +42,3 @@ Ultimately, the decision to be full or part-time is something that depends on wh
 But, being a full-time agent means you will be finding more leads, closing more homes, and finding a higher volume of success in general. When it comes to preparing our newer agents, our team has a “jump right in” approach.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you.
-<br>
