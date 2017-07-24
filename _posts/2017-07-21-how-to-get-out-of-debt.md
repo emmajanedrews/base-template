@@ -21,7 +21,7 @@ Today I’m here with Greg Brock and Matt Nader to talk to you about some tips t
 
 We work with a lot of people who aren’t in the position to purchase a home, and sometimes this is due to debt.&nbsp;
 
-1. **Start with a budget**. A budget is a great resource to know how much money is coming in and how much is going out. Money needs to managed, and this is a tool to help you do that. When you budget, you need to track, and when you track, you can improve.&nbsp;
+1. **Start with a budget**. A budget is a great resource to know how much money is coming in and how much is going out. Money needs to be managed, and this is a tool to help you do that. When you budget, you need to track, and when you track, you can improve.&nbsp;
 2. **Set attainable goals**. You’ll chip away at your debt a little at a time, but over time, you’ll be able to knock down your debt. Set small goals to start.
 3. **Be mindful of what you’re charging to credit cards**, or don’t use credit cards at all. At the very least, don’t put anything on a credit card that you can’t pay for with cash. It’s okay to have credit cards, and they can sometimes be useful in building credit, but you have to be mindful of what you’re using the cards for and make sure you can pay down those balances on a monthly basis.
 4. **Pay down anything with a high interest rate**. If you can, talk with a financial advisor or even a lender to determine which interest rates you need to be paying down first.
