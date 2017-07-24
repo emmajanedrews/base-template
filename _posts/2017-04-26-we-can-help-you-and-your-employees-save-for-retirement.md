@@ -35,4 +35,4 @@ If you have any questions in the meantime, don’t hesitate to give us a call or
 
 &nbsp;
 
-<div>Securities and advisory services offered through FSC Securities Corporation, member FINRA/SIPC. Michigan 401k and Financial Independence are marketing names.</div>
+<div><em>(Securities and advisory services offered through FSC Securities Corporation, member FINRA/SIPC. Michigan 401k and Financial Independence are marketing names.)</em></div>
