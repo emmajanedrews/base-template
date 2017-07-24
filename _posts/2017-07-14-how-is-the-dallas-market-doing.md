@@ -5,7 +5,7 @@ date: 2017-07-14 15:34:00
 tags:
   - Market Update
 excerpt: Today Mindy and I wanted to discuss the state of our local market and what it means for your real estate transaction.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Mindy+Robbins/Videos/Dallas+-+Fort+Worth+Real+Estate+Agent-+Is+the+Dallas+Market+Cooling+Off%253F.mp4'
 pullquote: Our market here in Dallas is very healthy.
 enclosure_type: video/mp4
 enclosure_time:
@@ -26,7 +26,7 @@ Recently we had lunch with a big, local lender who told us that applications for
 
 This information points to a potential balancing off coming into the market.
 <br>{% include pullquote.html %}
-<br>But this doesn’t mean that you should panic if you’re a seller.&nbsp;**If you have a good Realtor who will be able to do the right kind of marketing, you can still command top dollar for your listing.**
+<br>But this doesn’t mean that you should panic if you’re a seller. **If you have a good Realtor who will be able to do the right kind of marketing, you can still command top dollar for your listing.**
 {: .present-before-paste}
 
 And if you’re a buyer, this shift in the market could mean you’ll have more leverage so long as you know where to look.
@@ -35,5 +35,5 @@ And if you’re a buyer, this shift in the market could mean you’ll have more 
 Homes under $300,000 still have a lot of high demand and are likely to continue seeing multiple-offer situations. However, these conditions still aren’t quite as harsh as what we've seen in the last couple of years.
 {: .present-before-paste}
 
-If you have any other questions or would like more information, feel free to give us a call at (214) 444-9014 or send us an email at Jay@TeamRobbins.com. &nbsp;We look forward to hearing from you soon.
+If you have any other questions or would like more information, feel free to give us a call at (214) 444-9014 or send us an email at Jay@TeamRobbins.com.  We look forward to hearing from you soon.
 {: .present-before-paste}
