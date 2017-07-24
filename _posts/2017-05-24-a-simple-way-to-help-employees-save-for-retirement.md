@@ -35,4 +35,6 @@ I wanted to touch on two important topics briefly today, starting with the quest
 <br>&nbsp;
 <br>If you'd like a sample report of the gap analysis or you have any questions for us, give us a call. We would love to hear from you.
 
-Securities and advisory services offered through FSC Securities Corporation, member FINRA/SIPC. Michigan 401k and Financial Independence are marketing names.
+&nbsp;
+
+*(Securities and advisory services offered through FSC Securities Corporation, member FINRA/SIPC. Michigan 401k and Financial Independence are marketing names.)*
