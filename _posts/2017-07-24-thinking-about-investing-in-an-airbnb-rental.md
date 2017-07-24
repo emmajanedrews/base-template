@@ -20,13 +20,13 @@ youtube_code: 'https://youtu.be/tdynL9k0hCM'
 How do you know if a short-term rental like Airbnb is right for you? This is a hot topic here in the Nashville area right now.
 {: .present-before-paste}
 
-First, be aware that **you need a permit to have an Airbnb property,**The best way to get this is by visiting the&nbsp;**[Nashville metro government website's page](http://www.nashville.gov/Codes-Administration/Construction-and-Permits/Short-Term-Rentals.aspx),**that tells you what it takes to apply for such a permit. It will cost you $50, and you'll want to download the **[QLESS app](https://www.qless.com/L)**, which will allow you to get in line at the office.
+First, be aware that **you need a permit to have an Airbnb property.**Visit the&nbsp;**[Nashville metro government website's page](http://www.nashville.gov/Codes-Administration/Construction-and-Permits/Short-Term-Rentals.aspx)&nbsp;**to learn what you'll need to apply for one. It will cost you $50 and you'll want to download the **[QLESS app](https://www.qless.com/L)**, which will allow you to get in line at the office.
 {: .present-before-paste}
 
 You also want to be sure you have insurance for it. Airbnb offers you a $1 million per occurrence once you put your house on their site, which you'll need to apply for a permit. Be prepared for a lengthy process.
 {: .present-before-paste}
 
-You also only have to apply for an owner-occupied permit right now, meaning you have to live in the home. There's a vote coming up to get rid of all non-owner-occupied permits by the end of 2019, so, you can't even apply for one at this time.
+You also only have to apply for an owner-occupied permit right now, meaning you have to live in the home. There's a vote coming up to get rid of all non-owner-occupied permits by the end of 2019, so you can't even apply for one at this time.
 {: .present-before-paste}
 
 {% include pullquote.html %}
