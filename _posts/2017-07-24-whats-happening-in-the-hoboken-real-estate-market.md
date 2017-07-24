@@ -18,7 +18,7 @@ youtube_code: llQScLP7syo
 
 Lately, a lot of people are asking, “Are we approaching another real estate bubble?”
 
-**Here in Hoboken, the market trends are not point to another bubble**. Right now, there is enough equity built into homes that we should be able to sustain any interruption in the market or any decrease in pricing.
+**Here in Hoboken, the market trends are not pointing to another bubble**. Right now, there is enough equity built into homes that we should be able to sustain any interruption in the market or any decrease in pricing.
 
 Historically, real estate trends on a seven-year scale. Since we are reaching the latter end of the scale, it makes sense that we’re starting to see a bit of a slowdown in the market, as well as an increase in the absorption rate this year as opposed to last year.
 
