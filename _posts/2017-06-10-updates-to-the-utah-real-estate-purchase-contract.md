@@ -5,7 +5,7 @@ date: 2017-06-10 12:00:00
 tags:
   - Home Buyer Tips
 excerpt: How will the Utah real estate purchase contract change this September?
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Nancy+Seraphin/+Videos/2017/July/Park+City+Real+Estate+Careers-+The+new+Utah+REPC.mp4'
 pullquote: The new REPC will make our business lives much easier.
 enclosure_type: video/mp4
 enclosure_time:
