@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Home Pricing Strategies: Explained'
-date:
+date: 2017-07-25 10:40:30
 tags:
 excerpt: How can pricing strategies affect the sale of your home? Let’s find out.
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Zach+Sikes/Sikes+July+2-+Home+Pricing+Strategies-+Explained.mp4'
