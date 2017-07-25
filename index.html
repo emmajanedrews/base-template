@@ -112,7 +112,7 @@ tags:
 		<a class="view-all-posts" href="{{page.URL}}/careers">View All Posts</a>
 	</div>
 </div>
-	<div class="row selection-container gray-section">
+	<!-- <div class="row selection-container gray-section">
 		<div class="col-xs-12 col-sm-12 col-md-6 col-md-push-6 col-lg-7 col-lg-push-5 selection-box">
 			<a href="{{page.URL}}/futurity"><figure class="effect-lily">
 				<img src="{{site.data.settings.images.selection_image4_path}}" alt="Futurity" />
@@ -146,9 +146,9 @@ tags:
 			</ul>
 			<a class="view-all-posts" href="{{page.URL}}/futurity">View All</a>
 		</div>
-	</div>
-	<div class="row selection-container white-section">
-		<div class="col-xs-12 col-sm-12 col-md-6 col-lg-7 selection-box">
+	</div> -->
+   <div class="row selection-container gray-section">
+		<div class="col-xs-12 col-sm-12 col-md-6 col-md-push-6 col-lg-7 col-lg-push-5 selection-box">
 			<a href="{{page.URL}}/health-care"><figure class="effect-lily">
 				<img src="{{site.data.settings.images.selection_image5_path}}" alt="Health Care" />
 					<figcaption>
@@ -159,7 +159,7 @@ tags:
 					</figcaption>
 				</figure></a>
 		</div>
-		<div class="col-xs-12 col-sm-12 col-md-6 col-lg-5 selection-box limit-3">
+		<div class="col-xs-12 col-sm-12 col-md-6 col-md-pull-6 col-lg-5 col-lg-pull-7 selection-box limit-3">
 			<ul>
 			{% for post in site.tags.["Health Care"] limit: 3 %}
 				<li class="leading-article">
@@ -170,7 +170,7 @@ tags:
 			</ul>
 			<a class="view-all-posts" href="{{page.URL}}/health-care">View All Posts</a>
 		</div>
-		<div class="col-xs-12 col-sm-12 col-md-6 col-lg-5 selection-box limit-1">
+		<div class="col-xs-12 col-sm-12 col-md-6 col-md-pull-6 col-lg-5 col-lg-pull-7 selection-box limit-1">
 			<ul>
 			{% for post in site.tags.["Health Care"] limit: 1 %}
 				<li class="leading-article">
@@ -179,6 +179,6 @@ tags:
 				</li>
 			{% endfor %}
 			</ul>
-			<a class="view-all-posts" href="{{page.URL}}/health-care">View All Posts</a>
+			<a class="view-all-posts" href="{{page.URL}}/health-care">View All</a>
 		</div>
 	</div>
