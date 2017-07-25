@@ -5,7 +5,7 @@ date: 2017-07-25 12:00:00
 tags:
   - Real Estate
 excerpt: We are here to help. We’ll answer any questions you have.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Steve+Schwab/+Videos/2017/July/Portland+Real+Estate+Agent-+We+Can+Answer+Any+Real+Estate+Question.mp4'
 pullquote: 'We want to be a resource, first and foremost.'
 enclosure_type: video/mp4
 enclosure_time:
