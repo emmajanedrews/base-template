@@ -5,7 +5,7 @@ date: 2017-07-19 12:05:00
 tags:
   - Home Buyer Tips
 excerpt: Today I wanted to talk to you about some exciting news that I just heard about.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Announcing+a+change+with+your+credit.mp4'
 pullquote: 'With a lower rate, you have more buying power to get the home of your dreams.'
 enclosure_type: video/mp4
 enclosure_time:
