@@ -3,10 +3,10 @@
   <channel>
     <title>-- CLIENT BRAND --</title>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Treu Group - your professional  Real Estate Agents.</description>
-    <link>localhost:4000/</link>
-    <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Jul 2017 13:37:36 -0500</pubDate>
-    <lastBuildDate>Mon, 10 Jul 2017 13:37:36 -0500</lastBuildDate>
+    <link>http://treugroupsouthflorida.com/</link>
+    <atom:link href="http://treugroupsouthflorida.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 25 Jul 2017 17:00:34 -0500</pubDate>
+    <lastBuildDate>Tue, 25 Jul 2017 17:00:34 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -21,7 +21,7 @@
 
 &lt;p&gt;A question frequently asked is this: “Are you buying or selling in a buyer’s market or seller’s market?” It depends on two things: the area and the price range that you’re in. For example, if you’re buying or selling a single-family home in the $200,000 to $250,000 range, then you’re in a very strong seller’s market. There are only about two months inventory in this price range.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=THERE’S ALWAYS AN OPPORTUNITY IN THE MARKET.%20localhost:4000/things-to-know-about-palm-beach-county.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“THERE’S ALWAYS AN OPPORTUNITY IN THE MARKET.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=THERE’S ALWAYS AN OPPORTUNITY IN THE MARKET.%20http://treugroupsouthflorida.com/things-to-know-about-palm-beach-county.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“THERE’S ALWAYS AN OPPORTUNITY IN THE MARKET.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;If you increase your budget and you’re buying or selling in the $300,000 to $400,000 range, then you’re still in a seller’s market and there’s only about three months of inventory. Sellers are receiving multiple offers for these homes and buyers are going to have a hard time beating out the competition.&lt;/p&gt;
 
@@ -34,8 +34,8 @@
 &lt;p&gt;If you have any other questions about real estate, or you’re looking to buy or sell a home, please give a call or shoot us an email. We’d love to help!&lt;/p&gt;
 </description>
         <pubDate>Tue, 27 Jun 2017 10:31:00 -0500</pubDate>
-        <link>localhost:4000/things-to-know-about-palm-beach-county.html</link>
-        <guid isPermaLink="true">localhost:4000/things-to-know-about-palm-beach-county.html</guid>
+        <link>http://treugroupsouthflorida.com/things-to-know-about-palm-beach-county.html</link>
+        <guid isPermaLink="true">http://treugroupsouthflorida.com/things-to-know-about-palm-beach-county.html</guid>
         
         <category>2017 Real Estate Market</category>
         
@@ -48,8 +48,8 @@
 &lt;p&gt;Buying your first home can be an intimidating process. Lisa Treu, of Treu Group Real Estate, talks about everything you should know before making your first real estate purchase. Did you know that most people underestimate their ability to buy a home? From tips on saving up for that down payment, to advice on building your credit score, Lisa covers everything first time homebuyers need to take into consideration before selecting their home.&lt;/p&gt;
 </description>
         <pubDate>Mon, 19 Jun 2017 11:44:00 -0500</pubDate>
-        <link>localhost:4000/tips-for-buying-home.html</link>
-        <guid isPermaLink="true">localhost:4000/tips-for-buying-home.html</guid>
+        <link>http://treugroupsouthflorida.com/tips-for-buying-home.html</link>
+        <guid isPermaLink="true">http://treugroupsouthflorida.com/tips-for-buying-home.html</guid>
         
         <category>WJNO Radio show</category>
         
@@ -68,7 +68,7 @@
 
 &lt;p&gt;You can do one of two things. First, you can search on a site like ours, which pulls information directly from the MLS. That way, when a home hits the market, you will know right away. The other option is to allow us to do all of the hard work for you.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=OUR WEBSITE PULLS INFORMATION DIRECTLY FROM THE MLS.%20localhost:4000/the-truth-about-websites-like-zillow.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“OUR WEBSITE PULLS INFORMATION DIRECTLY FROM THE MLS.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=OUR WEBSITE PULLS INFORMATION DIRECTLY FROM THE MLS.%20http://treugroupsouthflorida.com/the-truth-about-websites-like-zillow.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“OUR WEBSITE PULLS INFORMATION DIRECTLY FROM THE MLS.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The last few buyers we’ve worked with only viewed four homes until they found their dream home. That might not seem very impressive, but one of those buyers had been searching with another agent and on their own for two long years.&lt;/p&gt;
 
@@ -79,8 +79,8 @@
 &lt;p&gt;At Treu Group real estate, we understand how to help you buy, sell, and, most importantly, how to help you win. If you have any questions, we are here to help you. Just give us a call!&lt;/p&gt;
 </description>
         <pubDate>Wed, 07 Jun 2017 14:06:00 -0500</pubDate>
-        <link>localhost:4000/the-truth-about-websites-like-zillow.html</link>
-        <guid isPermaLink="true">localhost:4000/the-truth-about-websites-like-zillow.html</guid>
+        <link>http://treugroupsouthflorida.com/the-truth-about-websites-like-zillow.html</link>
+        <guid isPermaLink="true">http://treugroupsouthflorida.com/the-truth-about-websites-like-zillow.html</guid>
         
         <category>Zillow</category>
         
@@ -95,8 +95,8 @@
 &lt;p&gt;Chris was kind enough to offer a 20% discount code which you get by listening to the show. These are great gifts or can be used for your personal or corporate Word.&lt;/p&gt;
 </description>
         <pubDate>Mon, 05 Jun 2017 09:53:00 -0500</pubDate>
-        <link>localhost:4000/whats-your-word-discover-your-word-with.html</link>
-        <guid isPermaLink="true">localhost:4000/whats-your-word-discover-your-word-with.html</guid>
+        <link>http://treugroupsouthflorida.com/whats-your-word-discover-your-word-with.html</link>
+        <guid isPermaLink="true">http://treugroupsouthflorida.com/whats-your-word-discover-your-word-with.html</guid>
         
         <category>WJNO Radio show</category>
         
@@ -109,8 +109,8 @@
 &lt;p&gt;Out of all 50 states, Florida has the most international buyers. This means more opportunities for you! This means more potential buyers for your home and an active real estate market. Most international buyers pay cash for vacation homes, and add to the local economy when they come to visit. Understanding which countries are interested in Florida is important, and at Treu Group Real Estate we stay informed of what’s happening abroad. Our understanding of the international market helps us better navigate our local real estate markets, and help you make an informed decision when making your next big real estate transaction.&lt;/p&gt;
 </description>
         <pubDate>Fri, 02 Jun 2017 10:06:00 -0500</pubDate>
-        <link>localhost:4000/international-interest-in-south-florida.html</link>
-        <guid isPermaLink="true">localhost:4000/international-interest-in-south-florida.html</guid>
+        <link>http://treugroupsouthflorida.com/international-interest-in-south-florida.html</link>
+        <guid isPermaLink="true">http://treugroupsouthflorida.com/international-interest-in-south-florida.html</guid>
         
         <category>WJNO Radio show</category>
         
@@ -123,8 +123,8 @@
 &lt;p&gt;Lisa Treu shares the low down on what’s happening right now in the real estate market of Palm Beach County. Are we currently in a buyer’s or seller’s market; and what’s the difference? Tune in to hear Lisa’s expert advice on how to go about selling or buying your home in today’s market. Get the latest scoop on everything from luxury real estate to active adult communities.&lt;/p&gt;
 </description>
         <pubDate>Mon, 08 May 2017 12:10:00 -0500</pubDate>
-        <link>localhost:4000/whats-happening-with-pbc-real-estate.html</link>
-        <guid isPermaLink="true">localhost:4000/whats-happening-with-pbc-real-estate.html</guid>
+        <link>http://treugroupsouthflorida.com/whats-happening-with-pbc-real-estate.html</link>
+        <guid isPermaLink="true">http://treugroupsouthflorida.com/whats-happening-with-pbc-real-estate.html</guid>
         
         <category>WJNO Radio show</category>
         
@@ -139,7 +139,7 @@
 
 &lt;p&gt;If you’re looking to buy or sell here in Palm Beach County, you probably know about some of the many challenges that could cause the deal to fall apart. There are issues with financing and inspections that may need to be solved. Lack of experience could play a role as well.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=GAMES ARE FUN, BUT SO IS A SUCCESSFUL REAL ESTATE TRANSACTION.%20localhost:4000/we-dont-play-games-when-it-comes-to.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“GAMES ARE FUN, BUT SO IS A SUCCESSFUL REAL ESTATE TRANSACTION.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=GAMES ARE FUN, BUT SO IS A SUCCESSFUL REAL ESTATE TRANSACTION.%20http://treugroupsouthflorida.com/we-dont-play-games-when-it-comes-to.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“GAMES ARE FUN, BUT SO IS A SUCCESSFUL REAL ESTATE TRANSACTION.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;At Treu Group Real Estate, we want you to have a professional on your side that is going to be there for you to help you overcome all of the challenges you might face in order to get you to the closing table.&lt;/p&gt;
 
@@ -148,8 +148,8 @@
 &lt;p&gt;Don’t monkey around with your real estate transaction. If you have any questions or need any help, our team is just a phone call or email away. We look forward to hearing from you.&lt;/p&gt;
 </description>
         <pubDate>Fri, 05 May 2017 15:35:00 -0500</pubDate>
-        <link>localhost:4000/we-dont-play-games-when-it-comes-to.html</link>
-        <guid isPermaLink="true">localhost:4000/we-dont-play-games-when-it-comes-to.html</guid>
+        <link>http://treugroupsouthflorida.com/we-dont-play-games-when-it-comes-to.html</link>
+        <guid isPermaLink="true">http://treugroupsouthflorida.com/we-dont-play-games-when-it-comes-to.html</guid>
         
         <category>treu group real estate</category>
         
@@ -162,8 +162,8 @@
 &lt;p&gt;It takes 10,000 hours to master something. Having the right agent who knows what to do when dealing with a unique contract is essential in avoiding a real estate pitfall. At Treu Group Real Estate, our team of experts works together to help you avoid pitfalls, and to work through them when they do arise. Listen in for details on how to close your real estate deal and avoid the pitfalls.&lt;/p&gt;
 </description>
         <pubDate>Fri, 21 Apr 2017 11:28:00 -0500</pubDate>
-        <link>localhost:4000/treu-solutions-to-avoid-5-biggest-real.html</link>
-        <guid isPermaLink="true">localhost:4000/treu-solutions-to-avoid-5-biggest-real.html</guid>
+        <link>http://treugroupsouthflorida.com/treu-solutions-to-avoid-5-biggest-real.html</link>
+        <guid isPermaLink="true">http://treugroupsouthflorida.com/treu-solutions-to-avoid-5-biggest-real.html</guid>
         
         <category>WJNO Radio show</category>
         
@@ -176,8 +176,8 @@
 &lt;p&gt;There’s more to buying a home than just buying. Do you know the difference between pre-qualified and pre-approved? When you’re buying a home, the deal isn’t done until all the paperwork is signed. Treu Group Real Estate has broken down the buying process into 5 simple steps so you can know what to expect throughout the buying process.&lt;/p&gt;
 </description>
         <pubDate>Mon, 10 Apr 2017 13:42:00 -0500</pubDate>
-        <link>localhost:4000/5-steps-to-buying-success.html</link>
-        <guid isPermaLink="true">localhost:4000/5-steps-to-buying-success.html</guid>
+        <link>http://treugroupsouthflorida.com/5-steps-to-buying-success.html</link>
+        <guid isPermaLink="true">http://treugroupsouthflorida.com/5-steps-to-buying-success.html</guid>
         
         <category>Home Buyer Tips</category>
         
@@ -196,7 +196,7 @@
 
 &lt;p&gt;Let me tell you a quick story: When I first purchased a home, I got a 13.5% adjustable mortgage rate. Compared to today’s low interest rate, you can see that homes are more affordable. You can ask your friends and your parents what their first home’s interest rates were, and I think you will agree that even a 4% interest rate is an absolute gift to the real estate market.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=OWNING A HOME IS THE FIRST STEP IN CREATING YOUR OWN WEALTH.%20localhost:4000/3-unique-opportunities-in-market-today.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“OWNING A HOME IS THE FIRST STEP IN CREATING YOUR OWN WEALTH.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=OWNING A HOME IS THE FIRST STEP IN CREATING YOUR OWN WEALTH.%20http://treugroupsouthflorida.com/3-unique-opportunities-in-market-today.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“OWNING A HOME IS THE FIRST STEP IN CREATING YOUR OWN WEALTH.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Secondly, if you already own your first home, &lt;strong&gt;now is a great time to upgrade to your next home or maybe even your dream home.&lt;/strong&gt; Why? If you sell your current home, you are probably selling in a seller’s market. Depending on what price range you are moving up to, you will likely be buying in a buyer’s market. So, the market currently allows you to sell in the best position possible and have more options when you go to buy.&lt;/p&gt;
 
@@ -205,8 +205,8 @@
 &lt;p&gt;So, it is time to capitalize on these three great opportunities in our current market. If you have any questions about buying or selling a home, just give me a call or send me an email. I would be happy to help you!&lt;/p&gt;
 </description>
         <pubDate>Fri, 31 Mar 2017 11:36:00 -0500</pubDate>
-        <link>localhost:4000/3-unique-opportunities-in-market-today.html</link>
-        <guid isPermaLink="true">localhost:4000/3-unique-opportunities-in-market-today.html</guid>
+        <link>http://treugroupsouthflorida.com/3-unique-opportunities-in-market-today.html</link>
+        <guid isPermaLink="true">http://treugroupsouthflorida.com/3-unique-opportunities-in-market-today.html</guid>
         
         <category>2017 Real Estate Market</category>
         

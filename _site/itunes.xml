@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title></title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Treu Group - your professional  Real Estate Agents.</description>
+    <title>Palm Beach Real Estate Podcast with The Treu Group</title>
+    <link>http://treugroupsouthflorida.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://treugroupsouthflorida.com"/>
+    <description>I'll update you with how to make a smart decision in real estate, improve the value of your home, and keep you up to date on what's happening in our local Palm Beach & Martin County real estate market.</description>
     <language>en</language>
-    <managingEditor>Lisa Treu</managingEditor>
-    <lastBuildDate>2017-07-10 13:37:36 -0500</lastBuildDate>
-    <media:copyright>Lisa Treu</media:copyright>
-    <media:thumbnail url="/img/podcast.jpg"/>
-    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
+    <managingEditor>The Treu Group</managingEditor>
+    <lastBuildDate>2017-07-25 17:00:34 -0500</lastBuildDate>
+    <media:copyright>The Treu Group</media:copyright>
+    <media:thumbnail url="http://i.imgur.com/9KV2FyM.jpg"/>
+    <media:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
       <itunes:email>lisa@treugroup.com</itunes:email>
-      <itunes:name>Lisa Treu</itunes:name>
+      <itunes:name>The Treu Group</itunes:name>
     </itunes:owner>
-    <itunes:author>Lisa Treu</itunes:author>
+    <itunes:author>The Treu Group</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="/img/podcast.jpg"/>
-    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the  Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Treu Group - your professional  Real Estate Agents.</itunes:summary>
+    <itunes:image href="http://i.imgur.com/9KV2FyM.jpg"/>
+    <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
+    <itunes:subtitle>Real Estate Tips and Tricks for the Palm Beach and Martin County market</itunes:subtitle>
+    <itunes:summary>I'll update you with how to make a smart decision in real estate, improve the value of your home, and keep you up to date on what's happening in our local Palm Beach & Martin County real estate market.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
         <title>Things to Know About the Palm Beach County Market</title>
-        <link>localhost:4000/things-to-know-about-palm-beach-county.html</link>
+        <link>http://treugroupsouthflorida.com/things-to-know-about-palm-beach-county.html</link>
         
           <category>2017 Real Estate Market</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2017-06-27 10:31:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -56,7 +56,7 @@ If you’re in the luxury market and you’re frustrated because your home isn�
 If you have any other questions about real estate, or you’re looking to buy or sell a home, please give a call or shoot us an email. We’d love to help!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -64,48 +64,48 @@ If you have any other questions about real estate, or you’re looking to buy or
 The real estate market can be a little bit confusing, especially if you’re getting your information from friends, family, or the news. So I wanted to give you some accurate information about the Palm Beach County market.
 
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 
 The real estate market can be a little bit confusing, especially if you’re getting your information from friends, family, or the news. So I wanted to give you some accurate information about the Palm Beach County market.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>Tips for Buying a Home</title>
-        <link>localhost:4000/tips-for-buying-home.html</link>
+        <link>http://treugroupsouthflorida.com/tips-for-buying-home.html</link>
         
           <category>WJNO Radio show</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2017-06-19 11:44:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/+Radio+Show/Your+best+buy+with+the+Treu+Group+(1).mp3</guid>
         <description>
 Buying your first home can be an intimidating process. Lisa Treu, of Treu Group Real Estate, talks about everything you should know before making your first real estate purchase. Did you know that most people underestimate their ability to buy a home? From tips on saving up for that down payment, to advice on building your credit score, Lisa covers everything first time homebuyers need to take into consideration before selecting their home.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/+Radio+Show/Your+best+buy+with+the+Treu+Group+(1).mp3" length="" type="audio/mpeg"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/+Radio+Show/Your+best+buy+with+the+Treu+Group+(1).mp3" type="audio/mpeg"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 Buying your first home can be an intimidating process. Lisa Treu, of Treu Group Real Estate, talks about everything you should know before making your first real estate purchase. Did you know that most people underestimate their ability to buy a home? From tips on saving up for that down payment, to advice on building your credit score, Lisa covers everything first time homebuyers need to take into consideration before selecting their home.
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 Buying your first home can be an intimidating process. Lisa Treu, of Treu Group Real Estate, talks about everything you should know before making your first real estate purchase. Did you know that most people underestimate their ability to buy a home? From tips on saving up for that down payment, to advice on building your credit score, Lisa covers everything first time homebuyers need to take into consideration before selecting their home.
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>Does Zillow Hurt Your Chances of Buying or Selling? </title>
-        <link>localhost:4000/the-truth-about-websites-like-zillow.html</link>
+        <link>http://treugroupsouthflorida.com/the-truth-about-websites-like-zillow.html</link>
         
           <category>Zillow</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2017-06-07 14:06:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -129,7 +129,7 @@ It’s important to understand how these sites work and competitively list your 
 At Treu Group real estate, we understand how to help you buy, sell, and, most importantly, how to help you win. If you have any questions, we are here to help you. Just give us a call!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -137,22 +137,22 @@ At Treu Group real estate, we understand how to help you buy, sell, and, most im
 Sites like Zillow, Realtor.com, and Trulia can be a challenge for buyers and sellers. Why?
 
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 
 Sites like Zillow, Realtor.com, and Trulia can be a challenge for buyers and sellers. Why?
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>What's your Word? Discover your Word with Chris Pan from MyIntent.org.</title>
-        <link>localhost:4000/whats-your-word-discover-your-word-with.html</link>
+        <link>http://treugroupsouthflorida.com/whats-your-word-discover-your-word-with.html</link>
         
           <category>WJNO Radio show</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2017-06-05 09:53:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/+Radio+Show/Treu+intentions+featuring+Chris+Pan.mp3</guid>
         <description>
@@ -161,80 +161,80 @@ Lisa discussed how she met Chris Pan and discovered MyIntent.org and the power o
 Chris was kind enough to offer a 20% discount code which you get by listening to the show. These are great gifts or can be used for your personal or corporate Word.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/+Radio+Show/Treu+intentions+featuring+Chris+Pan.mp3" length="" type="audio/mpeg"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/+Radio+Show/Treu+intentions+featuring+Chris+Pan.mp3" type="audio/mpeg"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 Lisa discussed how she met Chris Pan and discovered MyIntent.org and the power of Treu Group Real Estate’s Word. The 2017 Word is Commitment. It is a constant reminder that they will Say What needs to be said, Do whatever needs to be done and Go where they need to go to help them accomplish their clients and team goals. Chris Pan, the founder of myintent.org, shares that bracelet product that is more than just a fashion piece. Chris talked about the bracelet not as jewelry but as a reminder of one’s idea of what he/she wants more from life, what challenges he/she wants to overcome, or what is something he/she is really passionate about in life.
 
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 Lisa discussed how she met Chris Pan and discovered MyIntent.org and the power of Treu Group Real Estate’s Word. The 2017 Word is Commitment. It is a constant reminder that they will Say What needs to be said, Do whatever needs to be done and Go where they need to go to help them accomplish their clients and team goals. Chris Pan, the founder of myintent.org, shares that bracelet product that is more than just a fashion piece. Chris talked about the bracelet not as jewelry but as a reminder of one’s idea of what he/she wants more from life, what challenges he/she wants to overcome, or what is something he/she is really passionate about in life.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>International Interest In South Florida Is An Opportunity For You</title>
-        <link>localhost:4000/international-interest-in-south-florida.html</link>
+        <link>http://treugroupsouthflorida.com/international-interest-in-south-florida.html</link>
         
           <category>WJNO Radio show</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2017-06-02 10:06:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/+Radio+Show/International+interst+in+South+Florida+is+an+opportunity+for+you.mp3</guid>
         <description>
 Out of all 50 states, Florida has the most international buyers. This means more opportunities for you! This means more potential buyers for your home and an active real estate market. Most international buyers pay cash for vacation homes, and add to the local economy when they come to visit. Understanding which countries are interested in Florida is important, and at Treu Group Real Estate we stay informed of what’s happening abroad. Our understanding of the international market helps us better navigate our local real estate markets, and help you make an informed decision when making your next big real estate transaction.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/+Radio+Show/International+interst+in+South+Florida+is+an+opportunity+for+you.mp3" length="" type="audio/mpeg"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/+Radio+Show/International+interst+in+South+Florida+is+an+opportunity+for+you.mp3" type="audio/mpeg"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 Out of all 50 states, Florida has the most international buyers. This means more opportunities for you! This means more potential buyers for your home and an active real estate market. Most international buyers pay cash for vacation homes, and add to the local economy when they come to visit. Understanding which countries are interested in Florida is important, and at Treu Group Real Estate we stay informed of what’s happening abroad. Our understanding of the international market helps us better navigate our local real estate markets, and help you make an informed decision when making your next big real estate transaction.
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 Out of all 50 states, Florida has the most international buyers. This means more opportunities for you! This means more potential buyers for your home and an active real estate market. Most international buyers pay cash for vacation homes, and add to the local economy when they come to visit. Understanding which countries are interested in Florida is important, and at Treu Group Real Estate we stay informed of what’s happening abroad. Our understanding of the international market helps us better navigate our local real estate markets, and help you make an informed decision when making your next big real estate transaction.
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>What's Happening with PBC Real Estate Right Now</title>
-        <link>localhost:4000/whats-happening-with-pbc-real-estate.html</link>
+        <link>http://treugroupsouthflorida.com/whats-happening-with-pbc-real-estate.html</link>
         
           <category>WJNO Radio show</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2017-05-08 12:10:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/+Radio+Show/What%27s+happening+with+PBC+real-estate+right+now+Mixdown+1+(1).mp3</guid>
         <description>
 Lisa Treu shares the low down on what’s happening right now in the real estate market of Palm Beach County. Are we currently in a buyer’s or seller’s market; and what’s the difference? Tune in to hear Lisa’s expert advice on how to go about selling or buying your home in today’s market. Get the latest scoop on everything from luxury real estate to active adult communities.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/+Radio+Show/What%27s+happening+with+PBC+real-estate+right+now+Mixdown+1+(1).mp3" length="" type="audio/mpeg"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/+Radio+Show/What%27s+happening+with+PBC+real-estate+right+now+Mixdown+1+(1).mp3" type="audio/mpeg"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 Lisa Treu shares the low down on what’s happening right now in the real estate market of Palm Beach County. Are we currently in a buyer’s or seller’s market; and what’s the difference? Tune in to hear Lisa’s expert advice on how to go about selling or buying your home in today’s market. Get the latest scoop on everything from luxury real estate to active adult communities.
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 Lisa Treu shares the low down on what’s happening right now in the real estate market of Palm Beach County. Are we currently in a buyer’s or seller’s market; and what’s the difference? Tune in to hear Lisa’s expert advice on how to go about selling or buying your home in today’s market. Get the latest scoop on everything from luxury real estate to active adult communities.
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>We Dont Play Games When It Comes to Achieving Results for You</title>
-        <link>localhost:4000/we-dont-play-games-when-it-comes-to.html</link>
+        <link>http://treugroupsouthflorida.com/we-dont-play-games-when-it-comes-to.html</link>
         
           <category>treu group real estate</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2017-05-05 15:35:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -252,7 +252,7 @@ Experience matters, and experts say that it takes 10,000 hours to master a skill
 Don’t monkey around with your real estate transaction. If you have any questions or need any help, our team is just a phone call or email away. We look forward to hearing from you.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -260,74 +260,74 @@ Don’t monkey around with your real estate transaction. If you have any questio
 Playgrounds are a lot of fun for kids. They can be fun for us, too. However, you don’t want the job of helping you buy or sell a home becoming a game for your agent.
 
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 
 Playgrounds are a lot of fun for kids. They can be fun for us, too. However, you don’t want the job of helping you buy or sell a home becoming a game for your agent.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>Treu Solutions To Avoid The 5 Biggest Real Estate Pitfalls</title>
-        <link>localhost:4000/treu-solutions-to-avoid-5-biggest-real.html</link>
+        <link>http://treugroupsouthflorida.com/treu-solutions-to-avoid-5-biggest-real.html</link>
         
           <category>WJNO Radio show</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2017-04-21 11:28:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/+Radio+Show/Treu+Solutions+to+avoid+the+5+biggest+real-estate+pitfalls.mp3</guid>
         <description>
 It takes 10,000 hours to master something. Having the right agent who knows what to do when dealing with a unique contract is essential in avoiding a real estate pitfall. At Treu Group Real Estate, our team of experts works together to help you avoid pitfalls, and to work through them when they do arise. Listen in for details on how to close your real estate deal and avoid the pitfalls.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/+Radio+Show/Treu+Solutions+to+avoid+the+5+biggest+real-estate+pitfalls.mp3" length="" type="audio/mpeg"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/+Radio+Show/Treu+Solutions+to+avoid+the+5+biggest+real-estate+pitfalls.mp3" type="audio/mpeg"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 It takes 10,000 hours to master something. Having the right agent who knows what to do when dealing with a unique contract is essential in avoiding a real estate pitfall. At Treu Group Real Estate, our team of experts works together to help you avoid pitfalls, and to work through them when they do arise. Listen in for details on how to close your real estate deal and avoid the pitfalls.
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 It takes 10,000 hours to master something. Having the right agent who knows what to do when dealing with a unique contract is essential in avoiding a real estate pitfall. At Treu Group Real Estate, our team of experts works together to help you avoid pitfalls, and to work through them when they do arise. Listen in for details on how to close your real estate deal and avoid the pitfalls.
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>5 Steps To Buying Success</title>
-        <link>localhost:4000/5-steps-to-buying-success.html</link>
+        <link>http://treugroupsouthflorida.com/5-steps-to-buying-success.html</link>
         
           <category>Home Buyer Tips</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2017-04-10 13:42:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/+Radio+Show/The+Treu+Group%27s+5+steps+to+buying+success+Mixdown+1.mp3</guid>
         <description>
 There’s more to buying a home than just buying. Do you know the difference between pre-qualified and pre-approved? When you’re buying a home, the deal isn’t done until all the paperwork is signed. Treu Group Real Estate has broken down the buying process into 5 simple steps so you can know what to expect throughout the buying process.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/+Radio+Show/The+Treu+Group%27s+5+steps+to+buying+success+Mixdown+1.mp3" length="" type="audio/mpeg"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/+Radio+Show/The+Treu+Group%27s+5+steps+to+buying+success+Mixdown+1.mp3" type="audio/mpeg"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 There’s more to buying a home than just buying. Do you know the difference between pre-qualified and pre-approved? When you’re buying a home, the deal isn’t done until all the paperwork is signed. Treu Group Real Estate has broken down the buying process into 5 simple steps so you can know what to expect throughout the buying process.
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 There’s more to buying a home than just buying. Do you know the difference between pre-qualified and pre-approved? When you’re buying a home, the deal isn’t done until all the paperwork is signed. Treu Group Real Estate has broken down the buying process into 5 simple steps so you can know what to expect throughout the buying process.
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>3 Unique Opportunities in the Market Today</title>
-        <link>localhost:4000/3-unique-opportunities-in-market-today.html</link>
+        <link>http://treugroupsouthflorida.com/3-unique-opportunities-in-market-today.html</link>
         
           <category>2017 Real Estate Market</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2017-03-31 11:36:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -349,7 +349,7 @@ Finally, if you are ready to retire and want top dollar for your home, you can d
 So, it is time to capitalize on these three great opportunities in our current market. If you have any questions about buying or selling a home, just give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -357,100 +357,100 @@ So, it is time to capitalize on these three great opportunities in our current m
 There are opportunities in every real estate market, and I want to share three of them with you today.
 
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 
 There are opportunities in every real estate market, and I want to share three of them with you today.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>Maximizing Your Real Estate Success</title>
-        <link>localhost:4000/maximizing-your-real-estate-success.html</link>
+        <link>http://treugroupsouthflorida.com/maximizing-your-real-estate-success.html</link>
         
           <category>WJNO Radio show</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2017-03-27 15:33:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/+Radio+Show/Maximizing+your+real-estate+success+(2).mp3</guid>
         <description>
 Lisa Treu of Treu Group Real Estate to talks mortgage rates, special loan programs, and explains what Treu Group Real Estate can do for you when you’re getting ready to buy a home. Lisa talks about raving fans, property taxes, why the rent is rising, and reasons you should join the homeowner’s club.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/+Radio+Show/Maximizing+your+real-estate+success+(2).mp3" length="" type="audio/mpeg"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/+Radio+Show/Maximizing+your+real-estate+success+(2).mp3" type="audio/mpeg"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 Lisa Treu of Treu Group Real Estate to talks mortgage rates, special loan programs, and explains what Treu Group Real Estate can do for you when you’re getting ready to buy a home. Lisa talks about raving fans, property taxes, why the rent is rising, and reasons you should join the homeowner’s club.
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 Lisa Treu of Treu Group Real Estate to talks mortgage rates, special loan programs, and explains what Treu Group Real Estate can do for you when you’re getting ready to buy a home. Lisa talks about raving fans, property taxes, why the rent is rising, and reasons you should join the homeowner’s club.
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>Master Your Mortgage With The Treu Group</title>
-        <link>localhost:4000/master-your-mortgage-with-treu-group.html</link>
+        <link>http://treugroupsouthflorida.com/master-your-mortgage-with-treu-group.html</link>
         
           <category>WJNO Radio show</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2017-03-10 16:47:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/+Radio+Show/Master+your+mortgage+with+the+Treu+Group.mp3</guid>
         <description>
 Treu Group Real Estate and Erick Cantele from Academy Mortgage team up to share all you need to know before buying a home. What are your best options for types of loans? What do you need for a down payment? Do you need to be pre-approved, or pre-qualified? Listen in to let Lisa and Erick answer all your questions about getting ready to buy a new home.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/+Radio+Show/Master+your+mortgage+with+the+Treu+Group.mp3" length="" type="audio/mpeg"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/+Radio+Show/Master+your+mortgage+with+the+Treu+Group.mp3" type="audio/mpeg"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 Treu Group Real Estate and Erick Cantele from Academy Mortgage team up to share all you need to know before buying a home. What are your best options for types of loans? What do you need for a down payment? Do you need to be pre-approved, or pre-qualified? Listen in to let Lisa and Erick answer all your questions about getting ready to buy a new home.
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 Treu Group Real Estate and Erick Cantele from Academy Mortgage team up to share all you need to know before buying a home. What are your best options for types of loans? What do you need for a down payment? Do you need to be pre-approved, or pre-qualified? Listen in to let Lisa and Erick answer all your questions about getting ready to buy a new home.
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>Getting Down To Business With Kelly Smallridge</title>
-        <link>localhost:4000/getting-down-to-business-with-kelly_24.html</link>
+        <link>http://treugroupsouthflorida.com/getting-down-to-business-with-kelly_24.html</link>
         
           <category>WJNO Radio show</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2017-02-24 11:34:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/+Radio+Show/Getting+down+to+business+with+Kelly+Smallridge.mp3</guid>
         <description>
 Lisa Treu of Treu Group Real Estate would like to invite you to join us with Kellly Smallridge, President and CEO of the Business Development Board of Palm Beach County. Kelly shares how she is working to bring business to our area and the concerns of corporations considering moving to Palm Beach County.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/+Radio+Show/Getting+down+to+business+with+Kelly+Smallridge.mp3" length="" type="audio/mpeg"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/+Radio+Show/Getting+down+to+business+with+Kelly+Smallridge.mp3" type="audio/mpeg"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 Lisa Treu of Treu Group Real Estate would like to invite you to join us with Kellly Smallridge, President and CEO of the Business Development Board of Palm Beach County. Kelly shares how she is working to bring business to our area and the concerns of corporations considering moving to Palm Beach County.
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 Lisa Treu of Treu Group Real Estate would like to invite you to join us with Kellly Smallridge, President and CEO of the Business Development Board of Palm Beach County. Kelly shares how she is working to bring business to our area and the concerns of corporations considering moving to Palm Beach County.
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>3 Ways We Can Help You Reach Your Real Estate Goals</title>
-        <link>localhost:4000/3-ways-we-can-help-you-reach-your-real.html</link>
+        <link>http://treugroupsouthflorida.com/3-ways-we-can-help-you-reach-your-real.html</link>
         
           <category>Home Buyer Tips</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2017-02-22 14:24:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -475,7 +475,7 @@ No matter what your goals are in real estate, the Treu Group can help. Here are 
 You deserve to have a team like True Group Real Estate by your side whether buying, selling, investing, or building. If you have any questions for us or are thinking about making a move yourself, give us a call or send us an email today. We would love to hear from you.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -483,48 +483,48 @@ You deserve to have a team like True Group Real Estate by your side whether buyi
 No matter what your goals are in real estate, the Treu Group can help. Here are three specific ways that our team can assist you in achieving your real estate dreams:
 
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 
 No matter what your goals are in real estate, the Treu Group can help. Here are three specific ways that our team can assist you in achieving your real estate dreams:
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>Buying Wise With The Treu Group</title>
-        <link>localhost:4000/buying-wise-with-treu-group.html</link>
+        <link>http://treugroupsouthflorida.com/buying-wise-with-treu-group.html</link>
         
           <category>Radio Show</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2017-02-17 16:50:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/+Radio+Show/Buying+wise+with+the+Treu+Group.mp3</guid>
         <description>
 Whether it’s your first home, one of many, or just an investment, the Treu team will represent you, not the transaction. Treu Group is the best option for representation when you’re buying a home. Having the expertise and connections of the entire Treu team on your side will not only save you money on the deal, you don’t pay us any fees! We have a few secret weapons for getting you to the closing table fast. Tune in to hear how Treu Group can help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/+Radio+Show/Buying+wise+with+the+Treu+Group.mp3" length="" type="audio/mpeg"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/+Radio+Show/Buying+wise+with+the+Treu+Group.mp3" type="audio/mpeg"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 Whether it’s your first home, one of many, or just an investment, the Treu team will represent you, not the transaction. Treu Group is the best option for representation when you’re buying a home. Having the expertise and connections of the entire Treu team on your side will not only save you money on the deal, you don’t pay us any fees! We have a few secret weapons for getting you to the closing table fast. Tune in to hear how Treu Group can help you!
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 Whether it’s your first home, one of many, or just an investment, the Treu team will represent you, not the transaction. Treu Group is the best option for representation when you’re buying a home. Having the expertise and connections of the entire Treu team on your side will not only save you money on the deal, you don’t pay us any fees! We have a few secret weapons for getting you to the closing table fast. Tune in to hear how Treu Group can help you!
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>Buying a Home and Making a Difference</title>
-        <link>localhost:4000/buying-home-and-making-difference.html</link>
+        <link>http://treugroupsouthflorida.com/buying-home-and-making-difference.html</link>
         
           <category>Buying a Home</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2017-02-07 13:08:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -548,7 +548,7 @@ If none of those are convenient, we can come pick up your donation or even buy t
 If you’re looking to buy or sell a home or if you would like more information on our diaper drive, please feel free to give me a call or send me an email. I would be more than happy to help.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -556,74 +556,74 @@ If you’re looking to buy or sell a home or if you would like more information 
 It turns out that the FHA will no longer implement a reduction in fees. Because of this change, there are some things you should know about buying a home in 2017.
 
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 
 It turns out that the FHA will no longer implement a reduction in fees. Because of this change, there are some things you should know about buying a home in 2017.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>Palm Beach County stats to start 2017</title>
-        <link>localhost:4000/palm-beach-county-stats-to-start-2017.html</link>
+        <link>http://treugroupsouthflorida.com/palm-beach-county-stats-to-start-2017.html</link>
         
           <category>WJNO Radio show</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2017-01-30 17:13:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/+Radio+Show/Palm+Beach+County+stats+to+start+2017.mp3</guid>
         <description>
 What’s happening in local real estate? The stats are out, and Lisa Treu will let you know what this data means for real estate in Palm Beach County.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/+Radio+Show/Palm+Beach+County+stats+to+start+2017.mp3" length="" type="audio/mpeg"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/+Radio+Show/Palm+Beach+County+stats+to+start+2017.mp3" type="audio/mpeg"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 What’s happening in local real estate? The stats are out, and Lisa Treu will let you know what this data means for real estate in Palm Beach County.
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 What’s happening in local real estate? The stats are out, and Lisa Treu will let you know what this data means for real estate in Palm Beach County.
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>Getting real with Palm Beach County Real Estate</title>
-        <link>localhost:4000/getting-real-with-palm-beach-county.html</link>
+        <link>http://treugroupsouthflorida.com/getting-real-with-palm-beach-county.html</link>
         
           <category>WJNO Radio show</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2017-01-30 17:09:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/+Radio+Show/Getting+real+with+Palm+Beach+County+Real-Estate+Mixdown+1.mp3</guid>
         <description>
 Sell or stay? Will 2017 be your year to by or sell? What’s new in the real estate market for the new year?
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/+Radio+Show/Getting+real+with+Palm+Beach+County+Real-Estate+Mixdown+1.mp3" length="" type="audio/mpeg"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/+Radio+Show/Getting+real+with+Palm+Beach+County+Real-Estate+Mixdown+1.mp3" type="audio/mpeg"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 Sell or stay? Will 2017 be your year to by or sell? What’s new in the real estate market for the new year?
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 Sell or stay? Will 2017 be your year to by or sell? What’s new in the real estate market for the new year?
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>Selling Your Home During Major Life Changes</title>
-        <link>localhost:4000/selling-your-home-during-major-life.html</link>
+        <link>http://treugroupsouthflorida.com/selling-your-home-during-major-life.html</link>
         
           <category>Home Seller Tips</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2017-01-12 11:02:00 -0600</pubDate>
         <guid>WHICH OPTION WORKS BEST FOR YOU?</guid>
         <description>
@@ -643,7 +643,7 @@ The third major life event that can be challenging is when you lose a loved one.
 My team and I are here to help you so that you can make the right decisions for your situation. There is no one-size-fits-all solution. We are here to help you come up with the right plan, so if you find yourself in a stressful situation, give us a call. We would be happy to help you!
 </description>
         <enclosure url="WHICH OPTION WORKS BEST FOR YOU?" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="WHICH OPTION WORKS BEST FOR YOU?" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -651,22 +651,22 @@ My team and I are here to help you so that you can make the right decisions for 
 A major life change can definitely impact your real estate transaction. When people face trying times, they tend to make mistakes during their real estate transaction. We’re only human after all. Today, I’ll go over a few common mistakes for you to avoid.
 
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 
 A major life change can definitely impact your real estate transaction. When people face trying times, they tend to make mistakes during their real estate transaction. We’re only human after all. Today, I’ll go over a few common mistakes for you to avoid.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>Will You Take Advantage of the 2017 Palm Beach Market?</title>
-        <link>localhost:4000/will-you-take-advantage-of-2017-palm.html</link>
+        <link>http://treugroupsouthflorida.com/will-you-take-advantage-of-2017-palm.html</link>
         
           <category>2017 Real Estate Market</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2016-12-30 16:03:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -690,7 +690,7 @@ Finally, if you take a look in the video above, you’ll see that I’m in an ic
 I hope to hear from you soon!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -698,48 +698,48 @@ I hope to hear from you soon!
 Three groups will have big opportunities in the 2017 Palm Beach real estate market. Today I’ll explain how the groups stand to benefit from market conditions.
 
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 
 Three groups will have big opportunities in the 2017 Palm Beach real estate market. Today I’ll explain how the groups stand to benefit from market conditions.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>How to Get the Best Mortgage Rates Right Away</title>
-        <link>localhost:4000/how-to-get-best-mortgage-rates-right.html</link>
+        <link>http://treugroupsouthflorida.com/how-to-get-best-mortgage-rates-right.html</link>
         
           <category>WJNO Radio show</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2016-12-22 15:57:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Radio+Show+2016/How+to+get+the+best+mortgage+rates+right+now+Mixdown+1.mp3</guid>
         <description>
 Let’s talk mortgage rates! What could increasing rates mean for the buying or selling of your home? Mortgage expert, Eric Cantele, from American Academy Mortgage give his take on today’s and tomorrow’s mortgage rates. December is a great time to be on the market in South Florida, listen to what you should know before listing!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Radio+Show+2016/How+to+get+the+best+mortgage+rates+right+now+Mixdown+1.mp3" length="" type="audio/mpeg"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Radio+Show+2016/How+to+get+the+best+mortgage+rates+right+now+Mixdown+1.mp3" type="audio/mpeg"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 Let’s talk mortgage rates! What could increasing rates mean for the buying or selling of your home? Mortgage expert, Eric Cantele, from American Academy Mortgage give his take on today’s and tomorrow’s mortgage rates. December is a great time to be on the market in South Florida, listen to what you should know before listing!
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 Let’s talk mortgage rates! What could increasing rates mean for the buying or selling of your home? Mortgage expert, Eric Cantele, from American Academy Mortgage give his take on today’s and tomorrow’s mortgage rates. December is a great time to be on the market in South Florida, listen to what you should know before listing!
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>How Is the International Market Affecting South Florida Real Estate?</title>
-        <link>localhost:4000/how-is-international-market-affecting.html</link>
+        <link>http://treugroupsouthflorida.com/how-is-international-market-affecting.html</link>
         
           <category>market update</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2016-12-05 12:05:00 -0600</pubDate>
         <guid>WE KNOW HOW TO MARKET YOUR PROPERTY TO INTERNATIONAL BUYERS.</guid>
         <description>
@@ -765,7 +765,7 @@ We are also introducing a new game called “Where’s Lisa?” I will be at dif
 If you think you know where I am, don’t forget to reply to this email or go to our Facebook or Twitter page with your answer followed by #TreuGroupContest. In the meantime, if you have any other questions feel free to give us a call or send us an email!
 </description>
         <enclosure url="WE KNOW HOW TO MARKET YOUR PROPERTY TO INTERNATIONAL BUYERS." length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="WE KNOW HOW TO MARKET YOUR PROPERTY TO INTERNATIONAL BUYERS." type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -773,74 +773,74 @@ If you think you know where I am, don’t forget to reply to this email or go to
 South Florida is a destination spot for many international homebuyers, but which two countries will affect the real estate market the most?
 
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 
 South Florida is a destination spot for many international homebuyers, but which two countries will affect the real estate market the most?
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>Homes For The Holidays - Changing Rates & Real Estate</title>
-        <link>localhost:4000/homes-for-holidays-changing-rates-real.html</link>
+        <link>http://treugroupsouthflorida.com/homes-for-holidays-changing-rates-real.html</link>
         
           <category>Radio Show</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2016-11-29 10:05:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Radio+Show+2016/Homes+for+the+holidays+-+Changing+rates+%26+real-estate+Mixdown+1+(1).mp3</guid>
         <description>
 Everything you need to know about buying a home during the holiday season. Listen to what Lisa has to say about current interest rates and how this will impact the purchase or sale of your home. Let Treu Group Real Estate bring you home for the holidays!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Radio+Show+2016/Homes+for+the+holidays+-+Changing+rates+%26+real-estate+Mixdown+1+(1).mp3" length="" type="audio/mpeg"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Radio+Show+2016/Homes+for+the+holidays+-+Changing+rates+%26+real-estate+Mixdown+1+(1).mp3" type="audio/mpeg"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 Everything you need to know about buying a home during the holiday season. Listen to what Lisa has to say about current interest rates and how this will impact the purchase or sale of your home. Let Treu Group Real Estate bring you home for the holidays!
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 Everything you need to know about buying a home during the holiday season. Listen to what Lisa has to say about current interest rates and how this will impact the purchase or sale of your home. Let Treu Group Real Estate bring you home for the holidays!
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>Treu Tips to Save Money on Your Home</title>
-        <link>localhost:4000/treu-tips-to-save-money-on-your-home.html</link>
+        <link>http://treugroupsouthflorida.com/treu-tips-to-save-money-on-your-home.html</link>
         
           <category>Treu Group Tips</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2016-11-16 13:38:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Radio+Show+2016/Palm+Beach+Real+Estate+Agent+Treu+Tips+to+Save+Money+on+Your+Home.mp3</guid>
         <description>
 Looking at the principal you owe on your home can be incredibly daunting, but there are some steps you can take to lower the amount. Even if you are just at the point of looking into buying, there are some things you should consider when it comes to what type of mortgage to get. Listen to hear our podcast on saving money and making smart financial decisions in the world of real estate.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Radio+Show+2016/Palm+Beach+Real+Estate+Agent+Treu+Tips+to+Save+Money+on+Your+Home.mp3" length="" type="audio/mpeg"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Radio+Show+2016/Palm+Beach+Real+Estate+Agent+Treu+Tips+to+Save+Money+on+Your+Home.mp3" type="audio/mpeg"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 Looking at the principal you owe on your home can be incredibly daunting, but there are some steps you can take to lower the amount. Even if you are just at the point of looking into buying, there are some things you should consider when it comes to what type of mortgage to get. Listen to hear our podcast on saving money and making smart financial decisions in the world of real estate.
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 Looking at the principal you owe on your home can be incredibly daunting, but there are some steps you can take to lower the amount. Even if you are just at the point of looking into buying, there are some things you should consider when it comes to what type of mortgage to get. Listen to hear our podcast on saving money and making smart financial decisions in the world of real estate.
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>3 Great Opportunities in Palm Beach Real Estate </title>
-        <link>localhost:4000/3-great-opportunities-in-palm-beach.html</link>
+        <link>http://treugroupsouthflorida.com/3-great-opportunities-in-palm-beach.html</link>
         
           <category>market update</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2016-11-03 09:26:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -867,7 +867,7 @@ There are opportunities all around us, and today, I want to share the three bigg
 No matter which opportunity you choose, we always want to help you get that competitive advantage in the real estate market. If you have any questions about buying, selling, or investing in a home, just give us a call or send us an email. We would be happy to help you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -875,72 +875,72 @@ No matter which opportunity you choose, we always want to help you get that comp
 The current Palm Beach real estate market has three amazing opportunities for buyers, sellers, and investors. I will go over each of them today.
 
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 
 The current Palm Beach real estate market has three amazing opportunities for buyers, sellers, and investors. I will go over each of them today.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>Latest Real Estate Update</title>
-        <link>localhost:4000/latest-real-estate-update.html</link>
+        <link>http://treugroupsouthflorida.com/latest-real-estate-update.html</link>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2016-10-31 15:58:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Palm+Beach+County+Real+Estate+Agent+-+Latest+Real+Estate+Update.mp3</guid>
         <description>
 Home values are on the rise! Everything you need to know about buying or selling a home in Palm Beach County. Home values are rising which could be both good or bad news. Tune in to get the latest updates on home appreciation, renting vs. buying, and property tax.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Palm+Beach+County+Real+Estate+Agent+-+Latest+Real+Estate+Update.mp3" length="" type="audio/mpeg"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Palm+Beach+County+Real+Estate+Agent+-+Latest+Real+Estate+Update.mp3" type="audio/mpeg"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 Home values are on the rise! Everything you need to know about buying or selling a home in Palm Beach County. Home values are rising which could be both good or bad news. Tune in to get the latest updates on home appreciation, renting vs. buying, and property tax.
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 Home values are on the rise! Everything you need to know about buying or selling a home in Palm Beach County. Home values are rising which could be both good or bad news. Tune in to get the latest updates on home appreciation, renting vs. buying, and property tax.
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>Financing Tips</title>
-        <link>localhost:4000/financing-tips.html</link>
+        <link>http://treugroupsouthflorida.com/financing-tips.html</link>
         
           <category>WJNO Radio show</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2016-10-14 15:03:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Palm+Beach+County+Real+Estate+Agent-+Financing+Tips.mp3</guid>
         <description>
 Learn how you can increase your chance of getting your dream with the right lender. Understanding the mortgage timeline is critical especially as we are heading into the end of the year. There is still time to close by the Holiday season or the end of the year to qualify for the homestead exemption.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Palm+Beach+County+Real+Estate+Agent-+Financing+Tips.mp3" length="" type="audio/mpeg"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Palm+Beach+County+Real+Estate+Agent-+Financing+Tips.mp3" type="audio/mpeg"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 Learn how you can increase your chance of getting your dream with the right lender. Understanding the mortgage timeline is critical especially as we are heading into the end of the year. There is still time to close by the Holiday season or the end of the year to qualify for the homestead exemption.
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 Learn how you can increase your chance of getting your dream with the right lender. Understanding the mortgage timeline is critical especially as we are heading into the end of the year. There is still time to close by the Holiday season or the end of the year to qualify for the homestead exemption.
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>Saving Thousands of Dollars on Property Taxes</title>
-        <link>localhost:4000/saving-thousands-of-dollars-on-property.html</link>
+        <link>http://treugroupsouthflorida.com/saving-thousands-of-dollars-on-property.html</link>
         
           <category>Treu Group Real Esate</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2016-10-12 11:05:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -976,7 +976,7 @@ So, go ahead and file for the homestead if you can. If you sold a home in Florid
 If you’re interested in learning more about property taxes and homestead exemption in Florida, click here. If you have any more questions about property taxes, give us a call or send us an email. We look forward to hearing from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -985,51 +985,51 @@ Since market values have gone up 9.5% on our taxes for homes
 in the past year, you need to know how to budget for your tax amount.
 
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 
 Since market values have gone up 9.5% on our taxes for homes
 in the past year, you need to know how to budget for your tax amount.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>Latest Real Estate Market Update</title>
-        <link>localhost:4000/latest-real-estate-market-update.html</link>
+        <link>http://treugroupsouthflorida.com/latest-real-estate-market-update.html</link>
         
           <category>WJNO Radio show</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2016-10-05 12:38:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Palm+Beach+County+Real+Estate+Agent+-+Latest+Real+Estate+Market+Update.mp3</guid>
         <description>
 The latest real estate update with the latest statistics including the hot and cool areas in Palm Beach County.  Listen to learn the strategies and best opportunities to position yourself to win when buying or selling real estate.  If you are a move up buyer now may be your time to shine. Homes in the luxury market are having a harder time selling, and that is why you need the right price and the right marketing! We are also noticing some neighborhoods are in finally in recovery, and there are less distress sales. This is important to those who are thinking of selling their home in the near future. With fewer short sales and foreclosures many sellers are no longer underwater.  Please check us out at treugroup.com for real time updates on homes for sale in your area.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Palm+Beach+County+Real+Estate+Agent+-+Latest+Real+Estate+Market+Update.mp3" length="" type="audio/mpeg"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Palm+Beach+County+Real+Estate+Agent+-+Latest+Real+Estate+Market+Update.mp3" type="audio/mpeg"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 The latest real estate update with the latest statistics including the hot and cool areas in Palm Beach County.  Listen to learn the strategies and best opportunities to position yourself to win when buying or selling real estate.  If you are a move up buyer now may be your time to shine. Homes in the luxury market are having a harder time selling, and that is why you need the right price and the right marketing! We are also noticing some neighborhoods are in finally in recovery, and there are less distress sales. This is important to those who are thinking of selling their home in the near future. With fewer short sales and foreclosures many sellers are no longer underwater.  Please check us out at treugroup.com for real time updates on homes for sale in your area.
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 The latest real estate update with the latest statistics including the hot and cool areas in Palm Beach County.  Listen to learn the strategies and best opportunities to position yourself to win when buying or selling real estate.  If you are a move up buyer now may be your time to shine. Homes in the luxury market are having a harder time selling, and that is why you need the right price and the right marketing! We are also noticing some neighborhoods are in finally in recovery, and there are less distress sales. This is important to those who are thinking of selling their home in the near future. With fewer short sales and foreclosures many sellers are no longer underwater.  Please check us out at treugroup.com for real time updates on homes for sale in your area.
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>The 4 Valuable Lessons I Learned in Greece</title>
-        <link>localhost:4000/the-4-valuable-lessons-i-learned-in.html</link>
+        <link>http://treugroupsouthflorida.com/the-4-valuable-lessons-i-learned-in.html</link>
         
           <category>The Treu Group</category>
         
           <category>Palm Beach County Real Estate</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2016-09-27 11:51:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1049,7 +1049,7 @@ Finally, the fourth thing I learned was to set big goals and allow yourself to d
 I hope you’ll take these four lessons I’ve learned and give them a try to create something amazing for yourself. If you have any questions for me, please don’t hesitate to give me a call or send me an email. I’d love to keep this conversation going!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -1057,74 +1057,74 @@ I hope you’ll take these four lessons I’ve learned and give them a try to cr
 Today I wanted to switch things up a bit and share with you the four lessons that I learned while on vacation in Greece. There are lessons all around us everywhere we go.
 
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 
 Today I wanted to switch things up a bit and share with you the four lessons that I learned while on vacation in Greece. There are lessons all around us everywhere we go.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>Property Taxes and Your Palm Beach County Home</title>
-        <link>localhost:4000/property-taxes-and-your-palm-beach.html</link>
+        <link>http://treugroupsouthflorida.com/property-taxes-and-your-palm-beach.html</link>
         
           <category>WJNO Radio show</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2016-09-20 11:51:00 -0500</pubDate>
         <guid></guid>
         <description>
 Palm Beach County proposed property tax notices are out. The question we get most is: will my taxes go up?  It really depends on where you live. Lisa Treu and Brian Mudd welcome in this episode the Appraiser Gary Nikolits to discuss property taxes and how property owners may be impacted by the latest changes and updates.
 </description>
         <enclosure url="" length="" type="audio/mpeg"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="" type="audio/mpeg"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 Palm Beach County proposed property tax notices are out. The question we get most is: will my taxes go up?  It really depends on where you live. Lisa Treu and Brian Mudd welcome in this episode the Appraiser Gary Nikolits to discuss property taxes and how property owners may be impacted by the latest changes and updates.
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 Palm Beach County proposed property tax notices are out. The question we get most is: will my taxes go up?  It really depends on where you live. Lisa Treu and Brian Mudd welcome in this episode the Appraiser Gary Nikolits to discuss property taxes and how property owners may be impacted by the latest changes and updates.
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>Tips on Preparing to Buy a New Home and Opportunities in a New Market</title>
-        <link>localhost:4000/tips-on-preparing-to-buy-new-home-and.html</link>
+        <link>http://treugroupsouthflorida.com/tips-on-preparing-to-buy-new-home-and.html</link>
         
           <category>WJNO Radio show</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2016-09-16 10:08:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Palm+Beach+County+Real+Estate+-+Tips+on+Preparing+to+Buy+a+New+Home+and+Opportunities+in+a+New+Market.mp3</guid>
         <description>
 In this ever changing market you need to pay close attention to tips on how to make buying a home easier for you. Lenders look closely at credit history, scores and work history. Now is the time where there are opportunities in the luxury market for move up buyers. Investors are now looking to buy for long term. More people are now buying for cash flow, and making the market more competitive.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Palm+Beach+County+Real+Estate+-+Tips+on+Preparing+to+Buy+a+New+Home+and+Opportunities+in+a+New+Market.mp3" length="" type="audio/mpeg"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Palm+Beach+County+Real+Estate+-+Tips+on+Preparing+to+Buy+a+New+Home+and+Opportunities+in+a+New+Market.mp3" type="audio/mpeg"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 In this ever changing market you need to pay close attention to tips on how to make buying a home easier for you. Lenders look closely at credit history, scores and work history. Now is the time where there are opportunities in the luxury market for move up buyers. Investors are now looking to buy for long term. More people are now buying for cash flow, and making the market more competitive.
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 In this ever changing market you need to pay close attention to tips on how to make buying a home easier for you. Lenders look closely at credit history, scores and work history. Now is the time where there are opportunities in the luxury market for move up buyers. Investors are now looking to buy for long term. More people are now buying for cash flow, and making the market more competitive.
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>See My Latest Endorsement from Real Estate Guru Barbara Corcoran</title>
-        <link>localhost:4000/see-my-latest-endorsement-from-real.html</link>
+        <link>http://treugroupsouthflorida.com/see-my-latest-endorsement-from-real.html</link>
         
           <category>endorsement</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2016-08-16 11:18:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1138,7 +1138,7 @@ Won’t you take 30 seconds and check out my latest TV commercial, featuring Bar
 Thank you again for your time. If you have any questions at all about our Guaranteed Sale Program, please feel free to call or email us today!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -1146,50 +1146,50 @@ Thank you again for your time. If you have any questions at all about our Guaran
 I’m proud to serve the Palm Beach County real estate market and call it home. I’m also very proud to be the only agent in Palm Beach County with the endorsement of Barbara Corcoran. You may have seen Barbara on ABC’s hit show “Shark Tank,” where she has invested her own money into more than 20 businesses and shepherded them to success.
 
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 
 I’m proud to serve the Palm Beach County real estate market and call it home. I’m also very proud to be the only agent in Palm Beach County with the endorsement of Barbara Corcoran. You may have seen Barbara on ABC’s hit show “Shark Tank,” where she has invested her own money into more than 20 businesses and shepherded them to success.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>Updates in Real Estate in Palm Beach: Tips and Advice to Sell Your Home.</title>
-        <link>localhost:4000/updates-in-real-estate-in-palm-beach.html</link>
+        <link>http://treugroupsouthflorida.com/updates-in-real-estate-in-palm-beach.html</link>
         
           <category>Treu Group Real Esate</category>
         
           <category>WJNO Radio show</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2016-08-05 16:53:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Palm+Beach+County+Real+Estate+Agent+-+Updates+in+Real+Estate+in+Palm+Beach+-+Tips+and+Advice+to+Sell+Your+Home.mp3</guid>
         <description>
 In this fluctuating market, traditional subdivision are selling faster and easier than luxury homes. It is really important for sellers to have the three factors right: price, condition, and marketing to reach a successful closing. It is also imperative for high-end property owners to do something especial to stand out. Having the help of an agent that knows and understand those changes in the market can make all the difference. Join Lisa Treu and Brian Mudd while they share the most reliable market analysis and the best advice to get your home sold fast and for the most money.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Palm+Beach+County+Real+Estate+Agent+-+Updates+in+Real+Estate+in+Palm+Beach+-+Tips+and+Advice+to+Sell+Your+Home.mp3" length="" type="audio/mpeg"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Palm+Beach+County+Real+Estate+Agent+-+Updates+in+Real+Estate+in+Palm+Beach+-+Tips+and+Advice+to+Sell+Your+Home.mp3" type="audio/mpeg"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 In this fluctuating market, traditional subdivision are selling faster and easier than luxury homes. It is really important for sellers to have the three factors right: price, condition, and marketing to reach a successful closing. It is also imperative for high-end property owners to do something especial to stand out. Having the help of an agent that knows and understand those changes in the market can make all the difference. Join Lisa Treu and Brian Mudd while they share the most reliable market analysis and the best advice to get your home sold fast and for the most money.
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 In this fluctuating market, traditional subdivision are selling faster and easier than luxury homes. It is really important for sellers to have the three factors right: price, condition, and marketing to reach a successful closing. It is also imperative for high-end property owners to do something especial to stand out. Having the help of an agent that knows and understand those changes in the market can make all the difference. Join Lisa Treu and Brian Mudd while they share the most reliable market analysis and the best advice to get your home sold fast and for the most money.
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>Fun Things to Do in Palm Beach County</title>
-        <link>localhost:4000/fun-things-to-do-in-palm-beach-county.html</link>
+        <link>http://treugroupsouthflorida.com/fun-things-to-do-in-palm-beach-county.html</link>
         
           <category>Palm Beach County</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2016-08-03 11:23:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1215,7 +1215,7 @@ Our tour wouldn’t be complete without a trip to the beach. Many of our beaches
 If you have any questions for us about any of the places we’ve talked about today, give us a call or send us an email. We look forward to hearing from you.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -1223,68 +1223,68 @@ If you have any questions for us about any of the places we’ve talked about to
 People ask me all the time what my favorite things to do are in and around Palm Beach County. There is so much to do that I don’t know if I’ll be able to get to it all, but I’ll try.
 
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 
 People ask me all the time what my favorite things to do are in and around Palm Beach County. There is so much to do that I don’t know if I’ll be able to get to it all, but I’ll try.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>Technology, New Trends and Real Estate: The Impact of Millennial Buyers in Real Estate</title>
-        <link>localhost:4000/technology-new-trends-and-real-estate.html</link>
+        <link>http://treugroupsouthflorida.com/technology-new-trends-and-real-estate.html</link>
         
           <category>WJNO Radio show</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2016-07-25 11:31:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Palm+Beach+County+Real+Estate+Agent+-+Technology%2C+New+Trends+and+Real+Estate+-+The+Impact+of+Millennial+Buyers+in+Real+Estate.mp3</guid>
         <description>One of the main challenges that many real estate agents face these days is the growing demands on technology, new trends, and creative marketing. Innovation is an always-changing subject. What works today may not work tomorrow as the millennial buyers are changing the way real estate agents communicate and market properties. Pokémon Go popularity is a great example and the question that we are always asking ourselves is “How will the new craze impact real estate?”. Treu Group Real Estate is committed to having the latest technology, the best tools and a team that can create innovative ideas and adapt to the fast paced changes out there. We are always ready for whatever comes next.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Palm+Beach+County+Real+Estate+Agent+-+Technology%2C+New+Trends+and+Real+Estate+-+The+Impact+of+Millennial+Buyers+in+Real+Estate.mp3" length="" type="audio/mpeg"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Palm+Beach+County+Real+Estate+Agent+-+Technology%2C+New+Trends+and+Real+Estate+-+The+Impact+of+Millennial+Buyers+in+Real+Estate.mp3" type="audio/mpeg"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>One of the main challenges that many real estate agents face these days is the growing demands on technology, new trends, and creative marketing. Innovation is an always-changing subject. What works today may not work tomorrow as the millennial buyers are changing the way real estate agents communicate and market properties. Pokémon Go popularity is a great example and the question that we are always asking ourselves is “How will the new craze impact real estate?”. Treu Group Real Estate is committed to having the latest technology, the best tools and a team that can create innovative ideas and adapt to the fast paced changes out there. We are always ready for whatever comes next.
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>One of the main challenges that many real estate agents face these days is the growing demands on technology, new trends, and creative marketing. Innovation is an always-changing subject. What works today may not work tomorrow as the millennial buyers are changing the way real estate agents communicate and market properties. Pokémon Go popularity is a great example and the question that we are always asking ourselves is “How will the new craze impact real estate?”. Treu Group Real Estate is committed to having the latest technology, the best tools and a team that can create innovative ideas and adapt to the fast paced changes out there. We are always ready for whatever comes next.
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>Technology for the Home: What Upgrades May Increase the Value of Your Property?  </title>
-        <link>localhost:4000/technology-for-home-what-upgrades-may.html</link>
+        <link>http://treugroupsouthflorida.com/technology-for-home-what-upgrades-may.html</link>
         
           <category>WJNO Radio show</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2016-07-12 17:05:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Palm+Beach+County+Real+Estate+Agent+-+Technology+for+the+Home+-+What+Upgrades+May+Increase+the+Value+of+Your+Property.mp3</guid>
         <description>Technology is all around us, and in the past years has become an important part of our lives and everyday activities. The technology advances have not left behind homeowners. Every day we see more and more products and systems for homes in the market, and with mainstream usage comes accessibility. Using technological upgrades in our homes is easy, affordable and convenient. With over 350 million mobile device users in the United States alone and Millennials in charge of technology trends, smart systems and smart technology for the home is becoming part of the everyday standards for homeowners.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Palm+Beach+County+Real+Estate+Agent+-+Technology+for+the+Home+-+What+Upgrades+May+Increase+the+Value+of+Your+Property.mp3" length="" type="audio/mpeg"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Palm+Beach+County+Real+Estate+Agent+-+Technology+for+the+Home+-+What+Upgrades+May+Increase+the+Value+of+Your+Property.mp3" type="audio/mpeg"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Technology is all around us, and in the past years has become an important part of our lives and everyday activities. The technology advances have not left behind homeowners. Every day we see more and more products and systems for homes in the market, and with mainstream usage comes accessibility. Using technological upgrades in our homes is easy, affordable and convenient. With over 350 million mobile device users in the United States alone and Millennials in charge of technology trends, smart systems and smart technology for the home is becoming part of the everyday standards for homeowners.
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>Technology is all around us, and in the past years has become an important part of our lives and everyday activities. The technology advances have not left behind homeowners. Every day we see more and more products and systems for homes in the market, and with mainstream usage comes accessibility. Using technological upgrades in our homes is easy, affordable and convenient. With over 350 million mobile device users in the United States alone and Millennials in charge of technology trends, smart systems and smart technology for the home is becoming part of the everyday standards for homeowners.
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>Ready to Get App Happy?</title>
-        <link>localhost:4000/essential-apps-for-homeowners.html</link>
+        <link>http://treugroupsouthflorida.com/essential-apps-for-homeowners.html</link>
         
           <category>Home Owner Tips</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2016-07-05 09:53:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1320,7 +1320,7 @@ Your smartphone can be a great ally to you whether you’re buying, selling, or 
 These are just a few of our favorite apps. If you have any questions about any of them or if you’re looking to buy or sell, give us a call or send us an email. We look forward to hearing from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -1328,48 +1328,48 @@ These are just a few of our favorite apps. If you have any questions about any o
 Your smartphone can be a great ally to you whether you’re buying, selling, or simply owning a home. We are excited to share with you a few of our favorite “home” apps that will help you do everything from scheduling a plumber to remodeling your kitchen. Here are our favorites:
 
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 
 Your smartphone can be a great ally to you whether you’re buying, selling, or simply owning a home. We are excited to share with you a few of our favorite “home” apps that will help you do everything from scheduling a plumber to remodeling your kitchen. Here are our favorites:
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>Tales of Two Markets: Analyzing the Latest Statistics in Our Real Estate Market. </title>
-        <link>localhost:4000/how-to-win-in-palm-beach-county.html</link>
+        <link>http://treugroupsouthflorida.com/how-to-win-in-palm-beach-county.html</link>
         
           <category>WJNO Radio show</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2016-06-27 10:37:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Palm+Beach+County+Real+Estate+-+How+to+Win+in+Palm+Beach+County.mp3</guid>
         <description>
 In a market defined as a Seller’s Market we are experiencing a divided scene with separation being around the $500,000 threshold. For those selling or buying under this line the market is showing quick sales and multiple offers. For those selling with a price tag over the mentioned level, the market shows a slower panorama with fewer buyers and more inventory available and by consequence property prices are getting higher. Join Lisa Treu in this episode of the Real Estate 911 podcast where the latest data and statistics are analyzed to understand the two markets we are experiencing in the area.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Palm+Beach+County+Real+Estate+-+How+to+Win+in+Palm+Beach+County.mp3" length="" type="audio/mpeg"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Palm+Beach+County+Real+Estate+-+How+to+Win+in+Palm+Beach+County.mp3" type="audio/mpeg"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 In a market defined as a Seller’s Market we are experiencing a divided scene with separation being around the $500,000 threshold. For those selling or buying under this line the market is showing quick sales and multiple offers. For those selling with a price tag over the mentioned level, the market shows a slower panorama with fewer buyers and more inventory available and by consequence property prices are getting higher. Join Lisa Treu in this episode of the Real Estate 911 podcast where the latest data and statistics are analyzed to understand the two markets we are experiencing in the area.
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 In a market defined as a Seller’s Market we are experiencing a divided scene with separation being around the $500,000 threshold. For those selling or buying under this line the market is showing quick sales and multiple offers. For those selling with a price tag over the mentioned level, the market shows a slower panorama with fewer buyers and more inventory available and by consequence property prices are getting higher. Join Lisa Treu in this episode of the Real Estate 911 podcast where the latest data and statistics are analyzed to understand the two markets we are experiencing in the area.
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>Can You Still Get Financing After a Foreclosure?</title>
-        <link>localhost:4000/can-you-still-get-financing-after.html</link>
+        <link>http://treugroupsouthflorida.com/can-you-still-get-financing-after.html</link>
         
           <category>palm beach foreclosures</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2016-06-16 11:19:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1389,7 +1389,7 @@ Last but not least, don’t forget to check out one of our favorite restaurants 
 If you have any questions, please don’t hesitate to contact us!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -1397,44 +1397,44 @@ If you have any questions, please don’t hesitate to contact us!
 One of the common questions I get from my clients is how quickly can they enter back into the real estate market if they have suffered through a short sale, deed-in-lieu, foreclosure, Chapter 7 bankruptcy, or Chapter 13 bankruptcy.
 
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 
 One of the common questions I get from my clients is how quickly can they enter back into the real estate market if they have suffered through a short sale, deed-in-lieu, foreclosure, Chapter 7 bankruptcy, or Chapter 13 bankruptcy.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
       <item>
         <title>Staged For Success: Importance of Home Staging and Tips to Sell Your Home for the Most Money</title>
-        <link>localhost:4000/staged-for-success.html</link>
+        <link>http://treugroupsouthflorida.com/staged-for-success.html</link>
         
           <category>Home Seller Tips</category>
         
-        <author>Lisa Treu</author>
+        <author>The Treu Group</author>
         <pubDate>2016-06-10 11:17:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Palm+Beach+County+Real+Estate+-+Staged+For+Success.mp3</guid>
         <description>
 Over 95% of realtors believe that staging directly impacts your chances of getting your home sold for the most money. Accompany us while Lisa Treu shares her professional tips to increase your home’s appeal and positively influence the value of the property through staging. This Treu Real Estate 911 podcast brings you the best professional advice while coaching you about the latest trends in the Real Estate market.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Palm+Beach+County+Real+Estate+-+Staged+For+Success.mp3" length="" type="audio/mpeg"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://treugroupsouthflorida.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Palm+Beach+County+Real+Estate+-+Staged+For+Success.mp3" type="audio/mpeg"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 Over 95% of realtors believe that staging directly impacts your chances of getting your home sold for the most money. Accompany us while Lisa Treu shares her professional tips to increase your home’s appeal and positively influence the value of the property through staging. This Treu Real Estate 911 podcast brings you the best professional advice while coaching you about the latest trends in the Real Estate market.
 </itunes:subtitle>
-        <itunes:author>Lisa Treu</itunes:author>
+        <itunes:author>The Treu Group</itunes:author>
         <itunes:summary>
 Over 95% of realtors believe that staging directly impacts your chances of getting your home sold for the most money. Accompany us while Lisa Treu shares her professional tips to increase your home’s appeal and positively influence the value of the property through staging. This Treu Real Estate 911 podcast brings you the best professional advice while coaching you about the latest trends in the Real Estate market.
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real,Estate,Palm,Beach,Market,Sale,Lisa,Treu,Group,Tips,Tricks,South,Florida,agents,educational,informative,housing,house,short,talk,show,radio,martin,county</itunes:keywords>
       </item>
       
-    <copyright>Lisa Treu</copyright>
-    <media:credit role="author">Lisa Treu</media:credit>
+    <copyright>The Treu Group</copyright>
+    <media:credit role="author">The Treu Group</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Treu Group - your professional  Real Estate Agents.</media:description>
+    <media:description type="plain">I'll update you with how to make a smart decision in real estate, improve the value of your home, and keep you up to date on what's happening in our local Palm Beach & Martin County real estate market.</media:description>
   </channel>
 </rss>
