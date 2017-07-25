@@ -28,6 +28,6 @@ In the higher end of the market, specifically above the $1.25 million price poin
 
 **Interest rates will also play a major part in our market** for the next six months to a year. The Fed is expected to raise rates again in the third quarter. However, positive job numbers should ease off some of the bond buying in our market.
 
-There has been a slight uptick in inventory. Due to a huge build up in rental properties along River Road and in downtown Jersey City, investors and landlords have seen a negative impact in their bottom line, as some of these investors have had to lower their rental prices.
+There has been a slight uptick in inventory. Due to a huge build up in rental properties along River Road and in downtown Jersey City, investors and landlords have seen a negative impact on their bottom line, as some of these investors have had to lower their rental prices.
 
 That said, every situation is different. If you have any questions about buying, selling, or investing in our market, just give us a call or send us an email. We would be happy to help you!
