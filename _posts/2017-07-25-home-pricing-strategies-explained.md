@@ -28,7 +28,7 @@ Imagine one home that has just gone on the market, where the sellers have barely
 
 If these properties were exactly the same, how would your offers be different? The truth is that most people will offer less for a home that has spent more time on the market.
 
-The longer we’re on the market, the lower the offers will be. So **selling sooner, rather than later, is key.**
+The longer we’re on the market, the lower the offers will be. So **selling sooner rather than later is key.**
 
 If you are a buyer, however, you can use this fact to get a great deal. By finding a home that’s spent a lot of time on the market, and has no other issues other than having been initially priced far too high, **you could have a great opportunity to get into a house that may now actually be cheaper and see less competition.**
 
