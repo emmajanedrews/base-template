@@ -1464,13 +1464,31 @@ html[xmlns] .flexslider .slides {
   transition: all 0.15s ease-out 0s; }
 
 .navbar-left > li > a {
-  border: 0;
-  background: transparent;
-  color: #91bfde;
-  margin-top: 15px; }
+  background: #91bfde;
+  color: #ffffff;
+  padding: 1.3rem 2rem;
+  text-transform: capitalize;
+  font-size: 2rem;
+  font-weight: 300;
+  border: 2px solid #91bfde;
+  -webkit-transition: 0.3s;
+  transition: 0.3s; }
   .navbar-left > li > a:hover {
-    background: transparent;
-    color: #dfedf6; }
+    background: #eee;
+    color: #123456;
+    box-shadow: 4px 4px 0 #dfedf6;
+    border: 2px solid #ffffff;
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05);
+    -webkit-transform: translateY(-0.2rem);
+    transform: translateY(-0.2rem); }
+  .navbar-left > li > a:active {
+    box-shadow: 0 0 0 #dfedf6;
+    -webkit-transform: translateY(0rem);
+    transform: translateY(0rem); }
+  .navbar-left > li > a:focus {
+    text-decoration: none;
+    color: #fff; }
 
 .fa-bars {
   color: #91bfde; }
