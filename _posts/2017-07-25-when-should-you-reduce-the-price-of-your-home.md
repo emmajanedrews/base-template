@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When Should You Reduce the Price of Your Home?
-date:
+date: 2017-07-25 09:24:29
 tags:
   - Home Seller Tips
 excerpt: 'If your home has little or no showings the first few weeks after it’s been listed, you have a problem. The only solution is to reprice it.'
