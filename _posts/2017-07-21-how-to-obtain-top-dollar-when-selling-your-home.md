@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Can You Get Top Dollar for Your Home?
+title: How To Obtain Top Dollar When Selling Your Home
 date: 2017-07-21 10:20:00
 tags:
   - Home Seller Tips
