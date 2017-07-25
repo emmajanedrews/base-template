@@ -4,7 +4,7 @@ title: Have You Visited The HUB at 30A?
 tags:
   - Outdoor Entertainment
 excerpt: 'Recently, I took some time to visit The HUB at 30A.  This amazing outdoor venue has a lot of covered areas...'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Nathan+Abbott/Nathan+Abbott+Team-+Video+tour+of+The+HUB+at+30A.mp4'
 pullquote: 'The complex also holds a lot of events, typically as often as four nights each week.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -28,6 +28,6 @@ This includes live music, movie nights, and football games shown on the big scre
 
 With as many options as there are for food and drink, including a nice wrap-around bar, it’s a great place to visit.
 
-On top of everything, **the venue is very conveniently located**—right outside of Watersound just down from Rosemary. It's centered within the Prominence subdivision that offers new homes and townhomes on the market. You don't have to leave to entertain. Check out The HUB and Prominence today.&nbsp;
+On top of everything, **the venue is very conveniently located**—right outside of Watersound just down from Rosemary. It's centered within the Prominence subdivision that offers new homes and townhomes on the market. You don't have to leave to entertain. Check out The HUB and Prominence today.
 
 If you have any questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
