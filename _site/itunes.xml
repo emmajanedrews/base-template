@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title></title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Dailey Group - your professional Baltimore Real Estate Agents.</description>
+    <title>Baltimore Real Estate Careers Podcast with Seth and Alyce Dailey</title>
+    <link>http://thebaltimorebuzz.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://thebaltimorebuzz.com"/>
+    <description>A Podcast about Baltimore Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</description>
     <language>en</language>
     <managingEditor>Seth and Alyce Dailey</managingEditor>
-    <lastBuildDate>2017-06-22 14:13:13 -0500</lastBuildDate>
+    <lastBuildDate>2017-07-25 10:38:08 -0500</lastBuildDate>
     <media:copyright>Seth and Alyce Dailey</media:copyright>
     <media:thumbnail url="/img/podcast.jpg"/>
-    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Baltimore, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
+    <media:keywords>Baltimore Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
       <itunes:email>Hello@TheDaileyGroup.com</itunes:email>
@@ -19,14 +19,14 @@
     <itunes:author>Seth and Alyce Dailey</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="/img/podcast.jpg"/>
-    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Baltimore, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Baltimore Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Dailey Group - your professional Baltimore Real Estate Agents.</itunes:summary>
+    <itunes:keywords>Baltimore Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+    <itunes:subtitle>Boost your Career with Veteran Real Estate Agent -- CLIENT NAME --</itunes:subtitle>
+    <itunes:summary>A Podcast about Baltimore Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
         <title>this is a test post</title>
-        <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
+        <link>http://thebaltimorebuzz.com/this-is-a-test-post-copy-2.html</link>
         
           <category>Market Update</category>
         
@@ -54,18 +54,18 @@ Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper 
 Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://thebaltimorebuzz.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
         <itunes:author>Seth and Alyce Dailey</itunes:author>
         <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Baltimore, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Baltimore Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
       </item>
       
       <item>
         <title>A Fox in Space</title>
-        <link>localhost:4000/a-fox-in-space.html</link>
+        <link>http://thebaltimorebuzz.com/a-fox-in-space.html</link>
         
           <category>Market Update</category>
         
@@ -109,18 +109,18 @@ Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper 
 Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://thebaltimorebuzz.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
         <itunes:author>Seth and Alyce Dailey</itunes:author>
         <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Baltimore, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Baltimore Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
       </item>
       
     <copyright>Seth and Alyce Dailey</copyright>
     <media:credit role="author">Seth and Alyce Dailey</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Dailey Group - your professional Baltimore Real Estate Agents.</media:description>
+    <media:description type="plain">A Podcast about Baltimore Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</media:description>
   </channel>
 </rss>
