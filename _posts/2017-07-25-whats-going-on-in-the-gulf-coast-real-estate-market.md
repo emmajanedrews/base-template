@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s Going on in the Gulf Coast Real Estate Market?
-date:
+date: 2017-07-25 10:44:04
 tags:
   - Market Update
 excerpt: 'Have you been keeping tabs on the Gulf Coast market lately? If not, no worries. We have.'
