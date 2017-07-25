@@ -22,7 +22,7 @@ Oftentimes, I encounter people who falsely believe that the best route is to ove
 
 But, imagine for a second in this circumstance that you’re the buyer. When you put on your “buyer hat,” **it isn’t hard to see why someone looking for a home might be deterred from an overpriced listing.**
 
-Imagine one home that has just gone on the market, where the sellers have only just barely had time to put the sign in their yard. Then, imagine a property that has been on the market for 180, or even 210 days.
+Imagine one home that has just gone on the market, where the sellers have barely had time to put the sign in their yard. Then, imagine a property that has been on the market for 180, or even 210 days.
 
 {% include pullquote.html %}
 
