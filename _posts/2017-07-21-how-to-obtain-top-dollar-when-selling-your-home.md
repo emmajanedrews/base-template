@@ -9,9 +9,9 @@ enclosure:
 pullquote: Working with a quality agent is key.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /uploads/kari-ss27-21yt.jpg
-youtube_code: 3agBpR8NHTE
+use_youtube_image: true
+youtube_alternate_image:
+youtube_code: 'U&video_id'
 ---
 
 
