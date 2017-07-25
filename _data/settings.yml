@@ -7,41 +7,44 @@ custom_links:
     url:
 
 client:
-  name:
-  license_number:
+  name: Shane & Clint Neal
+  license_number: 609739 | 608871
   about_markdown: |
-
-  market:
-  brand:
+    Neal & Neal Team is comprised of a team of local real estate professionals committed to selling some of the most desired homes in San Antonio. Selling these "right addresses" is the mission of Neal & Neal Team. Let us know what you're looking for. Please take advantage of the helpful tools on this website, including our exclusive San Antonio Real Estate search, but also feel free to contact us personally.
+  market: San Antonio
+  brand: Neal Bros, LLC
   brokerage:
-  address:
-  phone:
+  address: 10999 IH10 W Suite 175 San Antonio, TX 78230
+  phone: 210-844-0393
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: clint@nealteam.com
+  email_type: Clint
+  email2: shane@nealteam.com
+  email2_type: Shane
+  url: https://www.mysanantoniohomesearch.com
 
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
-  second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  first_CTA_text: Reach Out to Us
+  first_CTA_URL: /#
+  # second_CTA_text: Home Search
+  # second_CTA_URL: /homesearch/
   VR_form:
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free -- MARKET -- Home Value Report"
-    CTA_url: /homevalue/
+    CTA_title: "Reach Out to Us!"
+    CTA_text: "Have a property that might work?"
+    CTA_link_text: "Send It to Us Here"
+    CTA_url: /#
 
-second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+# second_sidebar_CTA:
+#   - CTA_image_path2: /img/cta-images/005.jpg
+#     CTA_title2: "Looking for a -- MARKET -- Home?"
+#     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
+#     CTA_link_text2: "Search the MLS"
+#     CTA_url2: /homesearch/
 
 lender:
   show_section: false
@@ -90,14 +93,14 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 80
   hero_text: -- MARKET -- Real Estate Video Blog
-  hero_background_hex: '#094264'
+  hero_background_hex: '#fff'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#976caf'
-  theme_color: '#67c4a9'
+  brand_color: '#046997'
+  theme_color: '#4d4d4d'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
