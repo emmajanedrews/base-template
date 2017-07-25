@@ -4,7 +4,7 @@ title: 'Home Pricing Strategies: Explained'
 date:
 tags:
 excerpt: How can pricing strategies affect the sale of your home? Let’s find out.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Zach+Sikes/Sikes+July+2-+Home+Pricing+Strategies-+Explained.mp4'
 pullquote: 'The longer we’re on the market, the lower the offers will be.'
 enclosure_type: video/mp4
 enclosure_time:
