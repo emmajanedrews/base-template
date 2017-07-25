@@ -29,7 +29,7 @@ That being said, remember to stay involved in the building process. Visiting the
 
 {% include pullquote.html %}
 
-Also, learn the neighborhood. **You can choose the way your house is built, but once it’s finished you need to consider the neighborhood you’ll be left in.**Partnering with an agent who knows the area will help you avoid any mistakes or conflicts.
+Also, learn the neighborhood. **You can choose the way your house is built, but once it’s finished you need to consider the neighborhood you’ll be left in.&nbsp;**Partnering with an agent who knows the area will help you avoid any mistakes or conflicts.
 
 Keep in mind, too, that building is a lot different than simply buying a home. It is a messy process, so you’ll need to be patient and flexible. Deadlines may shift and issues will come up, so make sure you have contingency plans in place.
 
