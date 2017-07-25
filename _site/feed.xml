@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>-- CLIENT BRAND --</title>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</description>
+    <title>J. Qualley &amp; Associates Video Blog</title>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from J. Qualley &amp; Associates - your professional  Real Estate Agents.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Jun 2017 11:07:57 -0500</pubDate>
-    <lastBuildDate>Tue, 20 Jun 2017 11:07:57 -0500</lastBuildDate>
+    <pubDate>Tue, 25 Jul 2017 15:53:14 -0500</pubDate>
+    <lastBuildDate>Tue, 25 Jul 2017 15:53:14 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
