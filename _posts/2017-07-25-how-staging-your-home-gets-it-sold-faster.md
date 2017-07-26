@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Staging Your Home Gets It Sold Faster
-date: 2017-07-25 13:10:04
+date: 2017-07-25 13:10:00
 tags:
   - Home Seller Tips
 excerpt: 'Today I wanted to answer a question that I get from a lot of sellers: does staging really work?'
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: a5Q0anxrss0
+youtube_code: WHgJN6H9HX0
 ---
 
 
