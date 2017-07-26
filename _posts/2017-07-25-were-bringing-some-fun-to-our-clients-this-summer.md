@@ -24,7 +24,7 @@ Coming up this weekend, July 29th, the next event is country-themed and family-f
 
 {% include pullquote.html %}
 
-A couple of weeks later, we have another concert in the park on August 19th. For that date, you can come see more free music. [**The information for that can be found here**.](http://calendar.santa-clarita.com/event/40_oz_to_freedom_concerts_in_the_park?utm_campaign=widget&amp;utm_medium=widget&amp;utm_source=Santa+Clarita+Community+Calendar#.WXeuXYjyuHt) And then on August 25th—we’ll be doing Cocktails on the Roof at the Westfield Valencia Town Center. T[**ickets for this event will go fast, so be sure to grab yours here!**](http://cocktailsontheroofscv.org/)
+A couple of weeks later, we have another concert in the park on August 19th. For that date, you can come see more free music. [**The information for that can be found here**.](http://calendar.santa-clarita.com/event/40_oz_to_freedom_concerts_in_the_park?utm_campaign=widget&amp;utm_medium=widget&amp;utm_source=Santa+Clarita+Community+Calendar#.WXeuXYjyuHt) And then on August 25th—we’ll be doing Cocktails on the Roof at the Westfield Valencia Town Center. [**Tickets for this event will go fast, so be sure to grab yours here!**](http://cocktailsontheroofscv.org/)
 
 This event, which has taken place for the last four or five years, **is a fun way to mingle, meet new people, and make new business connections. &nbsp;**
 
