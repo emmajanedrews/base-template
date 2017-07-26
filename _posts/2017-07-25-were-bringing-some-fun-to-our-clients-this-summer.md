@@ -13,6 +13,7 @@ youtube_alternate_image:
 youtube_code: H5Mhj1tiE_4
 ---
 
+
 {% include youtube.html %}
 
 There’s a lot going on this summer in our area. Many events have already happened, but there are still many more yet to come.&nbsp;
@@ -27,7 +28,7 @@ A couple of weeks later, we have another concert in the park on August 19th. For
 
 This event, which has taken place for the last four or five years, **is a fun way to mingle, meet new people, and make new business connections. &nbsp;**
 
-On September 7th we will be at the Salt Creek Grill for our Client Appreciation event. This will be a fun, laid back event where we can connect and give back to the people who support us. If you’re interested, [**please RSVP ahead of time.**](https://www.facebook.com/events/1391013464312644/?acontext={%22source%22:5,%22page_id_source%22:415210508563712,%22action_history%22:[{%22surface%22:%22page%22,%22mechanism%22:%22main_list%22,%22extra_data%22:%22{\%22page_id\%22:415210508563712,\%22tour_id\%22:null}%22}],%22has_source%22:true})
+On September 7th we will be at the Salt Creek Grill for our Client Appreciation event. This will be a fun, laid back event where we can connect and give back to the people who support us. If you’re interested, [**please RSVP ahead of time.**](https://www.facebook.com/events/1391013464312644)
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.&nbsp;
 <br>&nbsp;
