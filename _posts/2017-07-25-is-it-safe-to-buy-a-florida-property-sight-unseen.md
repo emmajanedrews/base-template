@@ -20,7 +20,7 @@ Buying a property sight unseen can be a little scary, but it’s becoming more c
 
 Back in 2016, only one in five people bought properties without walking through them. Now, one in three people in our market are buying a property sight unseen. In our high-end market, **40% of buyers are comfortable with buying a home without seeing it in person**.&nbsp;
 
-Homebuyers say that new technology such as high-definition photos, virtual tours, and FaceTime calls with their Realtors help them feel like they’re in the home already, so it’s fairly risk free.&nbsp;
+Homebuyers say that new technology such as high-definition photos, virtual tours, and FaceTime calls with their Realtors help them feel like they’re in the home already, so it’s fairly risk-free.&nbsp;
 
 We do have a lot of people who go ahead and make a bid, buy the property, and close without ever seeing the home.&nbsp;
 
