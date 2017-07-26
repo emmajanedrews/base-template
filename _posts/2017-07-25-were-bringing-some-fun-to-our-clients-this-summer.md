@@ -13,7 +13,6 @@ youtube_alternate_image:
 youtube_code: H5Mhj1tiE_4
 ---
 
-
 {% include youtube.html %}
 
 There’s a lot going on this summer in our area. Many events have already happened, but there are still many more yet to come.&nbsp;
