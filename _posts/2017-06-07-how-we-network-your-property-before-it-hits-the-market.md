@@ -5,7 +5,7 @@ date: 2017-06-07 00:00:00
 tags:
   - Market Update
 excerpt: 'Networking properties is a great way to get exposure and create interest among prospective buyers. We use a few different tools to communicate with other agents regarding our listing and buyer needs. We even have a tool called Network One that helps create interest for properties before they are officially on the market. To learn more about how networking properties can help you, watch this short video.'
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/June/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Whats+Happening+in+Our+Local+Real+Estate+Market%253F.mp4'
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/July/Chad+%2526+Sara+Huebener+With+Edina+Realty-+How+We+Network+Your+Property+Before+It+Hits+the+Market.mp4'
 pullquote: The MLS is the best place to market your home online.
 enclosure_type: video/mp4
 enclosure_time:
