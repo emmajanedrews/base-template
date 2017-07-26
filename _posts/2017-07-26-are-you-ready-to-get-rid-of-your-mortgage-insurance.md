@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are You Ready to Get Rid of Your Mortgage Insurance?
-date:
+date: 2017-07-26 15:54:25
 tags:
   - Home Buyer Tips
 excerpt: How can you get rid of your mortgage insurance? The answer depends on your loan type.
