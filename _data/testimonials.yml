@@ -1,5 +1,20 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
+  - quote: Andy and I want to thank you so much for helping us buy our new house! We could not have imagined a better experience. It was so nice not to worry even during an experience that could be so stressful. We knew you were going to handle everything for us. We really cannot thank you enough for all that you did! Hope to see you soon. Thank you again!
+    name: Andy & Meredith Irwin
+    audio:
+  - quote: Words cannot express my appreciation for you. You have not just been an agent, but you have been a true friend. Thank you so much. God bless you.
+    name: Marva Johnson
+    audio:
+  - quote: Thank you so much for the wonderful job you did helping us sell our house. You were always available and so helpful with all of our questions and issues. We will recommend you to anyone who needs a Realtor!! We could not be more satisfied with your service and knowledge.
+    name: Paul & Katie Balthrop
+    audio:
+  - quote: Melissa was very professional and responded to any inquiries with a quickness. Our house only needed to be on the market for 7 days before receiving 2 competing offers that increased the selling price of our home. At the same time, she sent us listings that matched our criteria and showed us homes in a timely manner that enabled us to find, purchase, and move in to the new home on the same day we closed on our home! Everything happened so quickly, but it was a smooth and painless process thanks to Melissa's expertise.
+    name: Daniel & Ilana Sellari
+    audio:
+  - quote: My husband and I were house hunting and were having trouble finding exactly what we wanted. Then, we came upon a neighborhood where Melissa had three new homes available. We immediately set up and appointment with her and discussed our needs; we felt so confident with the quality of the homes and Melissa's professional input that we were quickly ready to work with her to start the construction of our own home in our Arlington neighborhood. Melissa was a great agent for the next six months; she even helped us time the completion of the home to coordinate with the end of the lease on our apartment. At closing, she helped us feel at ease. And, after closing she even sent a housewarming gift that we truly enjoyed. Melissa's attitude and consideration to our needs and wants made buying our first home a great experience.
+    name: Mr. and Mrs. Harris
+    audio:
+  - quote: Melissa was a pleasure to work with. She consistently made me feel like I was her only client. She was very professional, friendly, helpful, thoughtful and was there as a guide throughout every step of the process. Melissa is not only a great real estate agent, but I can honestly say she has become a good friend! Many thanks! I would definitely recommend her to anyone looking to buy or sell a home.
+    name: Jason Frazier
     audio:

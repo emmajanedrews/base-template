@@ -11,14 +11,16 @@
 		{% endif %}
 		<p>
 		{{site.data.settings.lender.name}}<br>
+		{{site.data.settings.lender.nmls}}<br>
 		{{site.data.settings.lender.brand}}<br>
+		{{site.data.settings.lender.address}}<br>
 		{{site.data.settings.lender.phone}}<br>
 		{{site.data.settings.lender.email}}<br>
 		{{site.data.settings.lender.url | remove: 'http://'}}
 	</p>
 	</div>
 	<div class="lender-logo">
-		<img src="{{site.data.settings.lender.logo_path}}"/>
+		<!-- <img src="{{site.data.settings.lender.logo_path}}"/> -->
 		{% if site.data.settings.lender.logo_path_2 != null %}
 		<img src="{{site.data.settings.lender.logo_path_2}}"/>
 		{% endif %}
