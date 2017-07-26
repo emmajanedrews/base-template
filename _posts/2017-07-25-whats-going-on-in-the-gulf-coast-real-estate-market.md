@@ -17,7 +17,7 @@ youtube_code: 'https://youtu.be/upUuihYcUbI'
 
 {% include youtube.html %}The last time we gave you an update on how the Gulf Coast market was in the spring, but now we are in the dead of summer. Here’s what we’ve been seeing over the last few months.
 
-Inventory is still down. We only have about six months on average across the coast. Some areas, like Ocean Springs, have only four months. That signifies a seller’s market. In a seller’s market: we see increased prices.
+Inventory is still down. We only have about six months on average across the coast. Some areas, like Ocean Springs, have only four months. That signifies a seller’s market. In a seller’s market, we see increased prices.
 
 Case in point, the average price for a home along the coast is $150,000. That number jumps up near $190,000 in Ocean Springs. Those are just the average prices, though. **There are certainly options for every budget.
 <br>{% include pullquote.html %}**
