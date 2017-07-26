@@ -1,10 +1,10 @@
 ---
 youtube_code: x2aIONXEvXs
 excerpt:
-enclosure:
+enclosure: https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/Memphis+Real+Estate+Agent-+Is+your+tax+appraisal+too+high%253F.mp4
 pullquote: MAKE SURE YOUR LENDER IS USING THE CORRECT TAX ASSESSMENT.
 enclosure_type: video/mp4
-enclosure_time: https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/Memphis+Real+Estate+Agent-+Is+your+tax+appraisal+too+high%253F.mp4
+enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
