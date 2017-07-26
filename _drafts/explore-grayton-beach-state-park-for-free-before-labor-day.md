@@ -3,7 +3,7 @@ layout: post
 title: Explore Grayton Beach State Park for Free Before Labor Day
 tags:
   - Outdoor Entertainment
-excerpt:
+excerpt: 'Instead of talking about Northwest Florida real estate, today I want to bring you along on a tour of Grayton Beach State Park.'
 enclosure:
 pullquote: Grayton Beach is a great place to escape and enjoy the beauty of Florida.
 enclosure_type: video/mp4
