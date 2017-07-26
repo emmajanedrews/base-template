@@ -19,7 +19,7 @@ youtube_code: 8bh7kXfyjE0
 
 Before deciding to build a new property, there are a few key things you should be aware of first.
 
-The first, and probably most important tip to know is to choose a builder who is reputable and won’t leave you hanging during the process. Unfortunately, some builders will vanish before the job is totally completed and leave the buyer with a load of unpaid bills.
+The first and probably most important tip to know is to choose a builder who is reputable and won’t leave you hanging during the process. Unfortunately, some builders will vanish before the job is totally completed and leave the buyer with a load of unpaid bills.
 
 A good builder will not only meet your building needs, but will also service your house under the long-term warranty. **Talking to people within your community, especially your agent, can help you choose the right builder.**
 
