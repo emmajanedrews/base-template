@@ -10,10 +10,10 @@ client:
   name: Eddie Lakkees
   license_number:
   about_markdown: |
-
+    The Eddie Lakkees Group at RE/MAX Champions is comprised of a team of local real estate professionals committed to selling some of the most desired homes in Inland Empire. Selling these "right addresses" is the mission of The Eddie Lakkees Group at RE/MAX Champions. Let us know what you're looking for.
   market:
   brand: The Lakkees Group
-  brokerage: Keller Williams
+  brokerage: RE/MAX Champions
   address: 5344 Strawberry Way<br>Fontana, CA 92336
   phone: 909-260-1618
   phone_type:
@@ -59,7 +59,7 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
+  facebook_url: https://www.facebook.com/The-Lakkees-Group-at-REMAX-Champions-1319697648122943/
   linkedin_url: https://www.linkedin.com/in/eddie-lakkees-8836b582/
   gplus_url: https://plus.google.com/u/0/b/103822178601431703394/103822178601431703394
   youtube_url: https://www.youtube.com/channel/UC5J6edaROtdUzacLW9AQBYQ
@@ -83,23 +83,23 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 80
   hero_text:
   hero_background_hex: '#333333'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#333333'
+  brand_color: '#618cac'
+  theme_color: '#9a7a58'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
 
 header_shadow:
-  h_shadow: 0px
-  w_shadow: 2px
+  h_shadow: 7px
+  w_shadow: 7px
   shadow_spread: 7px
-  shadow_color: "#000000"
+  shadow_color: "#DEDDDB"
 
 buttons:
   button_radius_number: 0
@@ -107,7 +107,7 @@ buttons:
   button_padding_height_number: 15
   button_border_color: '#ffffff'
   button_background_color: '#ffffff'
-  button_text_color: '#C52233'
+  button_text_color: '#618cac'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'
