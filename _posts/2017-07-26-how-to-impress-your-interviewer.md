@@ -16,11 +16,11 @@ youtube_code: 1drk44FcdxI
 
 {% include youtube.html %}
 
-Today I wanted to answer this question: how can you stand out against competitors in an interview?
+How can you stand out against competitors in an interview?
 
 **The simple answer is research.** More often than not, candidates come to an interview dressed professionally and ready to answer any questions about their background or resume, but usually fall short when asked any questions about the company or the position that they applied for.&nbsp;
 
-Coming prepared to an interview is a clear indication that you are actually interested in the company and the position you applied for. If you research the company beforehand, you will actually be more comfortable in the interview. If you know the company’s goals, you are more equipped to ask well-thought out questions, which in turn impresses the interviewer and shows that you can come prepared in any situation.
+Coming prepared to an interview is a clear indication that you are actually interested in the company and the position you applied for. If you research the company beforehand, you will actually be more comfortable in the interview. If you know the company’s goals, you are more equipped to ask well thought-out questions, which in turn impresses the interviewer and shows that you can come prepared in any situation.
 
 If you research the position beforehand, **you can tailor your answers to help the interviewer understand that you can or cannot do the tasks that are required.** If you cannot, you can either show them a close example of the task required or show them a reason why you think you can.
 
