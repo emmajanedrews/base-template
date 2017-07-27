@@ -5,7 +5,7 @@ date: 2017-07-25 13:10:00
 tags:
   - Home Seller Tips
 excerpt: 'Today I wanted to answer a question that I get from a lot of sellers: does staging really work?'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Why%2520staging%2520your%2520home%2520works.mp4'
 pullquote: 'Staging works!'
 enclosure_type: video/mp4
 enclosure_time:
