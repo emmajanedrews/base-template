@@ -21,7 +21,7 @@ Removing mortgage insurance is different for conventional and FHA loans. However
 
 If you take out an FHA loan, your ability to remove mortgage insurance is predicated on the down payment amount. If you put more than 10% down, you are only required to pay mortgage insurance for 11 years. If you put less than 10% down, **then you have to pay mortgage insurance for the entire life of the loan.** So, keep that in mind if you are considering an FHA.
 
-Conventional loans carry private mortgage insurance, or PMI. Most people think that once they get to 80% loan to value, the mortgage insurance falls off. That’s not exactly true. The rule states that if you pay mortgage insurance, it automatically falls off at 78% loan to value, but you can request to remove it at 80% LTV. Contact your loan servicer once you reach 80% and ask to get that PMI removed.
+Conventional loans carry private mortgage insurance, or PMI. Most people think that once they get to 80% loan to value, the mortgage insurance falls off. That’s not exactly true. The rule states that if you pay mortgage insurance, it automatically falls off at 78% loan to value—but you can request to remove it at 80% LTV. Contact your loan servicer once you reach 80% and ask to get that PMI removed.
 
 {% include pullquote.html %}
 
