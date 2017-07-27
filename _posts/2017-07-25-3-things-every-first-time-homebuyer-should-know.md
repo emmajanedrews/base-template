@@ -1,11 +1,11 @@
 ---
 layout: post
-title: What Advice Do We Have for First-Time Homebuyers?
+title: 3 Things Every First-Time Homebuyer Should Know
 tags:
   - Home Buyer Tips
-excerpt: 'An inspection will cost about $300, but it can save you thousands.'
+excerpt: 'It’s always exciting to be a first-time homebuyer. However, you should know what you’re getting into before you take the plunge. The biggest piece of advice I can give you is to know what you can afford. Homeownership comes with a lot of expenses that you may not be aware of. To learn more about this and two more things every first-time buyer should know, watch this short video.'
 enclosure:
-pullquote: There’s no such thing as a dumb question.
+pullquote: 'An inspection will cost about $300, but it can save you thousands.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -25,12 +25,14 @@ Once you have a clear idea of how much all of these items will cost, you can com
 **2. Choose your lender wisely**
 
 Choosing a lender is not something you should base only on the lowest rate. A competent and trustworthy lender will offer you advice on how to improve your credit and the right lender will also help you take advantage of special homebuyer programs that might benefit you.
-<br>{% include pullquote.html %}
+<br>
 <br>But how do you find the right lender specifically for you? It's often best to get recommendations from friends who have already worked with a lender or from a real estate agent you trust.
 
 **3. Don't overlook the details**
 
 There are many details that go into buying a home, and missing any of them can be a costly mistake. For example, I always advise my clients to get a professional inspection done on their home, separate from the appraisal. In Colorado, you don’t have to be a licensed inspector to do an inspection, so we give out a vendor list that has licensed professionals who we trust and work with. An inspection will set you back about $300, but it can save you thousands of dollars down the line, and it can prevent you from making a decision to buy a home that you would later regret.
+
+{% include pullquote.html %}
 
 A second example is understanding the fine print in the various contracts you will be signing. If there's anything that isn't clear to you, talk to your real estate agent and have it spelled out.
 
