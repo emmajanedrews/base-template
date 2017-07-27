@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: w-HgnbEesc0
+youtube_code: fG3KK1TcxmY
 ---
 
 
@@ -28,6 +28,6 @@ A couple of weeks later, we will have our final concert in the park on August 19
 
 This event, which has taken place for the last four or five years, **is a fun way to mingle, meet new people, and make new business connections.**
 
-On September 7th we will be at the Salt Creek Grill for our Client Appreciation event. This will be a fun, laid back event where we can connect and give back to the people who support us. If you’re interested, **[please RSVP ahead of time.](https://www.facebook.com/events/1391013464312644)&nbsp;**You can also RSVP by emailing Nikki at [**Nikki@randyplaice.com**](javascript:void(location.href='mailto:'+String.fromCharCode(78,105,107,107,105,64,114,97,110,100,121,112,108,97,105,99,101,46,99,111,109)))
+On September 7th we will be at the Salt Creek Grill for our Client Appreciation event. This will be a fun, laid back event where we can connect and give back to the people who support us. If you’re interested, **[please RSVP ahead of time.](https://www.facebook.com/events/1391013464312644)**You can also RSVP by emailing Nikki at [**Nikki@randyplaice.com**](javascript:void(location.href='mailto:'+String.fromCharCode(78,105,107,107,105,64,114,97,110,100,121,112,108,97,105,99,101,46,99,111,109)))
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
