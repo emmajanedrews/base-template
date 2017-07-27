@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What to Know About Building a New Home
-date: 2017-07-25 13:20:14
+date: 2017-07-25 13:20:00
 tags:
   - Home Buyer Tips
 excerpt: 'Before deciding to build a new property, there are a few key things you should be aware of first.'
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 8bh7kXfyjE0
+youtube_code: YwXRcfZ-aRQ
 ---
 
 
@@ -29,7 +29,7 @@ That being said, remember to stay involved in the building process. Visiting the
 
 {% include pullquote.html %}
 
-Also, learn the neighborhood. **You can choose the way your house is built, but once it’s finished you need to consider the neighborhood you’ll be left in.&nbsp;**Partnering with an agent who knows the area will help you avoid any mistakes or conflicts.
+Also, learn the neighborhood. **You can choose the way your house is built, but once it’s finished you need to consider the neighborhood you’ll be left in.**Partnering with an agent who knows the area will help you avoid any mistakes or conflicts.
 
 Keep in mind, too, that building is a lot different than simply buying a home. It is a messy process, so you’ll need to be patient and flexible. Deadlines may shift and issues will come up, so make sure you have contingency plans in place.
 
