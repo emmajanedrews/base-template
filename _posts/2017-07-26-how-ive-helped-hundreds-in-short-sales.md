@@ -31,3 +31,5 @@ This kind of circumstance is called a short sale.
 If this is a situation in which you and your family have found yourselves, don’t worry. I am here to help.
 
 I want to lift the weight from your shoulders and give you a better understanding of how to correct the problem at hand.
+
+Give me a call or send me an email if you have any questions.
