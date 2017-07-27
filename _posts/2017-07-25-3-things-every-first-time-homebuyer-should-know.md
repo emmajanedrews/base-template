@@ -8,8 +8,8 @@ enclosure:
 pullquote: 'An inspection will cost about $300, but it can save you thousands.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/daniel-dixon-homebuyer-video-willie-mathews-youtube.jpg
 youtube_code: fSS4epQq64s
 ---
 
