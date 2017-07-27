@@ -27,7 +27,7 @@ The first staging success story I'd like to share involves a seller who had thei
 
 {% include pullquote.html %}
 
-The second story is about a listing that was in an area with a wonderful school district and was just a beautiful house. It started at $575,000 with a different agent, went through a series of price reductions until it was at $547,000, and it still didn’t sell.
+The second story is about a listing that was in an area with a wonderful school district and was just a beautiful house. It started at $575,000 with a different agent, went through a series of price reductions until it was at $549,000, and it still didn’t sell.
 
 When the seller came to me, I looked at the home and decided that it needed to be staged. It was a huge vacant home that had a versatile floor plan and just needed to be staged. After staging it, we set the price for $559,000 and three days later, we sold the house for $580,000— $5,000 more than their original asking price.
 
