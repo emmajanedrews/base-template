@@ -6,7 +6,7 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: 'Many people turn to the internet during their home search process, but did you know that Zillow’s information can be severely inaccurate?'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Joe+Sabato/Videos/Stuart+Real+Estate+Agent-+Think+Twice+Before+Trusting+Zillow.mp4'
 pullquote: I would think twice about trusting the Zestimate.
 enclosure_type: video/mp4
 enclosure_time:
