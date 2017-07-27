@@ -19,7 +19,7 @@ youtube_code: irJ_86vA5Cw
 
 When it comes to selling your home, when is the best time to do it? Should you wait, or should you make your move? What time of year is best?
 
-When people ask these kind of questions, they’re already a step closer to the truth than they might think. They already understand that **timing is the most important factor in selling.**
+When people ask this kind of question, they’re already a step closer to the truth than they might think. They already understand that **timing is the most important factor in selling.**
 
 Lately, the Denver metro area has been one of the biggest selling hotspots in the nation. With several instances of multiple offers, consistently rising home prices, and record sales, this definitely seems to be the case.
 
@@ -31,7 +31,7 @@ However, waiting around based on predictions may not be a good idea. A lot of th
 
 {% include pullquote.html %}
 
-We simply don’t know what the future of the housing market will look like. What we do know is that right now is a great time to be a seller. In fact, **this is one of the best selling markets in our history.**
+We simply don’t know what the future of the housing market will look like. What we do know is that right now is a great time to be a seller. In fact, **this is one of the best-selling markets in our history.**
 
 But regardless of other factors, the time of year does consistently have an impact on the market. Spring and summer are typically the busiest times of year in real estate, while fall and winter tend to be less so.
 
