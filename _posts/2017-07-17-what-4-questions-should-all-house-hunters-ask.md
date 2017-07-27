@@ -5,7 +5,7 @@ date: 2017-07-17 12:21:00
 tags:
   - Home Buyer Tips
 excerpt: There are four questions you need to ask when searching for a home. I’ll go over each one for you today.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Loodmy+Jacques/Boynton+Beach+Real+Estate+Agent-+4+Questions+All+House+Hunters+Should+Ask.mp4'
 pullquote: Don’t forget to ask about the utility bills.
 enclosure_type: video/mp4
 enclosure_time:
