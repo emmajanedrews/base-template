@@ -5,7 +5,7 @@ date: 2017-07-20 09:56:00
 tags:
   - Market Update
 excerpt: 'We’re at the halfway point of 2017, and I have the latest mid-year statistics from our market to share with you.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Scott+Hollinger/Montana+Real+Estate++The+Hollinger+Team+Your+mid-year+waterfront+market+report.mp4'
 pullquote: 'Things got off to a slow start, but our market is starting to pick up.'
 enclosure_type: video/mp4
 enclosure_time:
