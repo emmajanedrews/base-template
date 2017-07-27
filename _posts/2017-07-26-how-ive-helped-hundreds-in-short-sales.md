@@ -16,7 +16,7 @@ youtube_code: cZSfyVN-JVI
 
 {% include youtube.html %}
 
-You might be surprised to find out that in the Fredericksburg-Stafford, Virginia area, there are 148 foreclosed homes and over 320 homes in pre-forclosure on the market.
+You might be surprised to find out that in the Fredericksburg-Stafford, Virginia area, there are 148 foreclosed homes and over 320 homes in pre-foreclosure on the market.
 
 Also, about 2,200 families’ homes mortgages are 60 to 90 days late. This is especially startling since we’re following a fairly nice market run up from the last crash we had in 2010 or 2011.
 
