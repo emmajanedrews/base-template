@@ -25,7 +25,7 @@ Today I have three questions for buyers who think they might want to wait until 
 
 {% include pullquote.html %}
 
-**3. How are the mortgage rates right now?**These rates are projected to continue to rise, and if you wait until next year to lock in that rate, you might find you have less buying power than if you started looking now.&nbsp;
+**3. How are the mortgage rates right now?&nbsp;**These rates are projected to continue to rise, and if you wait until next year to lock in that rate, you might find you have less buying power than if you started looking now.&nbsp;
 
 If you’re indecisive and you’re still sitting on the fence about whether to buy or wait, hopefully considering these questions will help you made a better decision for you and your family.
 
