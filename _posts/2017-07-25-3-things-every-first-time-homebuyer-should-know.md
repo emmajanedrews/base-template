@@ -3,7 +3,7 @@ layout: post
 title: 3 Things Every First-Time Homebuyer Should Know
 tags:
   - Home Buyer Tips
-excerpt: 'It’s always exciting to be a first-time homebuyer. However, you should know what you’re getting into before you take the plunge. The biggest piece of advice I can give you is to know what you can afford. Homeownership comes with a lot of expenses that you may not be aware of. To learn more about this and two more things every first-time buyer should know, watch this short video.'
+excerpt: Check out these three tips every first-time homebuyer should know.
 enclosure:
 pullquote: 'An inspection will cost about $300, but it can save you thousands.'
 enclosure_type: video/mp4
