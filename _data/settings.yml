@@ -10,7 +10,7 @@ client:
   name: Shane & Clint Neal
   license_number: 609739 | 608871
   about_markdown: |
-    Neal & Neal Team is comprised of a team of local real estate professionals committed to selling some of the most desired homes in San Antonio. Selling these "right addresses" is the mission of Neal & Neal Team. Let us know what you're looking for. Please take advantage of the helpful tools on this website, including our exclusive San Antonio Real Estate search, but also feel free to contact us personally.
+    Neal & Neal Team is comprised of a team of local real estate professionals committed to selling some of the most desired homes in San Antonio. Selling these "right addresses" is the mission of Neal & Neal Team. Let us know what you're looking for. Please reach out to us with any questions you may have about investing in real estate.
   market: San Antonio
   brand: Neal Bros, LLC
   brokerage:
@@ -26,8 +26,8 @@ client:
   url: https://www.mysanantoniohomesearch.com
 
 CTAs:
-  first_CTA_text: Reach Out to Us
-  first_CTA_URL: /#
+  first_CTA_text: Reach Out To Us
+  first_CTA_URL: /contact-us
   # second_CTA_text: Home Search
   # second_CTA_URL: /homesearch/
   VR_form: http://oi.vresp.com?fid=d669a10a71
@@ -35,7 +35,7 @@ CTAs:
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "Reach Out to Us!"
-    CTA_text: "Have a property that might work?"
+    CTA_text: "Have a property that might work? We give a 5% equity stake to the agent that flips us the deal plus the commission they earn."
     CTA_link_text: "Send It to Us Here"
     CTA_url: /#
 
@@ -63,9 +63,9 @@ welcome_box:
   welcome_text_markdown: >
     Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
     advice. Whether you are a buyer, seller, or investor, our team of
-    professionals can answer any questions you might have about real estate.
+    professionals can answer any questions you might have about real estate investments.
     Subscribe to this blog to get the latest news on local market trends and
-    receive expert tips for buying or selling a home.
+    receive expert tips for buying or selling a home for investing.
 
 socials:
   review_sm_icons: false
