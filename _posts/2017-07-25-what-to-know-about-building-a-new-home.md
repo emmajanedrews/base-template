@@ -5,7 +5,7 @@ date: 2017-07-25 13:20:00
 tags:
   - Home Buyer Tips
 excerpt: 'Before deciding to build a new property, there are a few key things you should be aware of first.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+Watch+to+find+out+if+you+should+build.mp4'
 pullquote: Always stay involved in the building process.
 enclosure_type: video/mp4
 enclosure_time:
