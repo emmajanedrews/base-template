@@ -1,11 +1,11 @@
 ---
 layout: post
 title: What’s Going on in the Gulf Coast Real Estate Market?
-date: 2017-07-25 10:44:04
+date: 2017-07-25 10:44:00
 tags:
   - Market Update
 excerpt: 'Have you been keeping tabs on the Gulf Coast market lately? If not, no worries. We have.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/Mississippi+Gulf+Coast+Real+Estate+Agent-+Gulf+Coast+Summer+Market+Update.mp4'
 pullquote: 'Homes in Biloxi are selling in just 70 days, on average.'
 enclosure_type: video/mp4
 enclosure_time:
