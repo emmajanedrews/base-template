@@ -9,7 +9,7 @@ pullquote: You’re invited to our upcoming first-time homebuyers social.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/ashley-ss-event-noplay.jpg
+youtube_alternate_image: /uploads/carter-ss.jpg
 youtube_code: cxPnmge1k9k
 ---
 
