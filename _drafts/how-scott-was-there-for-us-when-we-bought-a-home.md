@@ -12,6 +12,10 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code:
 ---
+
+
 {% include youtube.html %}
 
 {% include pullquote.html %}
+
+"Good Results. Anytime we needed Scott, we worked with Scott for years showing us home. He was always right there. We love Scott, Dane, and the Hollingers. They were there every time we needed them. They would drive clear around the lake anytime we needed them. They were there, seems like they went out of their way. I highly recommend them, and I have been recommending them. We just love them."
