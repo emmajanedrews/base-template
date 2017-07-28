@@ -1,7 +1,7 @@
 ---
 layout: post
 title: One of Wake Forest’s Most Beautiful Properties
-date: 2017-07-13 13:01:41
+date: 2017-08-13 13:01:00
 tags:
   - Real Estate
 excerpt: You won’t believe this property. Have a look for yourself.
@@ -17,7 +17,7 @@ youtube_code: QxcemIBSgqk
 
 {% include youtube.html %}
 
-We have a very special home tour to show you today. **This Spanish-style property, located in the Wake Forest area of Raleigh, is the epitome of luxury.&nbsp;**It has an enormous backyard complete with a heated saltwater pool, a hot tub, and a gorgeous view overlooking a lake and the 9th hole of a championship golf course.
+We have a very special home tour to show you today. **This Spanish-style property, located in the Wake Forest area of Raleigh, is the epitome of luxury.**It has an enormous backyard complete with a heated saltwater pool, a hot tub, and a gorgeous view overlooking a lake and the 9th hole of a championship golf course.
 
 {% include pullquote.html %}
 
