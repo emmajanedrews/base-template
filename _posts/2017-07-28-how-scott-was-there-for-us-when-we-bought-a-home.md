@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Scott Was There For Us When We Bought A Home
-date:
+date: 2017-07-28 13:15:19
 tags:
 excerpt:
 enclosure:
