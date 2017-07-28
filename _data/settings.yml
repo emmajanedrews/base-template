@@ -37,7 +37,7 @@ sidebar_CTA:
     CTA_title: "Reach Out to Us!"
     CTA_text: "Have a property that might work? We give a 5% equity stake to the agent that flips us the deal plus the commission they earn."
     CTA_link_text: "Send It to Us Here"
-    CTA_url: /#
+    CTA_url: /contact-us
 
 # second_sidebar_CTA:
 #   - CTA_image_path2: /img/cta-images/005.jpg
