@@ -2,31 +2,602 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Mansfield Real Estate Video Blog</title>
-    <link>localhost:5000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:5000"/>
+    <link>http://jtexvideoblog.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://jtexvideoblog.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Teixeira Realty Group - your professional Mansfield Area Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>John Teixeira</managingEditor>
-    <lastBuildDate>2016-11-23 13:49:27 -0600</lastBuildDate>
+    <lastBuildDate>2017-07-28 10:03:57 -0500</lastBuildDate>
     <media:copyright>John Teixeira</media:copyright>
-    <media:thumbnail url="localhost:5000"/>
+    <media:thumbnail url="http://jtexvideoblog.com/img/podcast.png"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
-      <itunes:email>northtexasre@sbcglobal.net</itunes:email>
+      <itunes:email>john@trgdfw.com</itunes:email>
       <itunes:name>John Teixeira</itunes:name>
     </itunes:owner>
     <itunes:author>John Teixeira</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:5000"/>
+    <itunes:image href="http://jtexvideoblog.com/img/podcast.png"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Mansfield Area Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Teixeira Realty Group - your professional Mansfield Area Real Estate Agents.</itunes:summary>
       <itunes:category text="News &amp; Politics"/>
     
       <item>
+        <title>A Path to Homeownership Is Already Paved</title>
+        <link>http://jtexvideoblog.com/a-path-to-homeownership-is-already-paved.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>John Teixeira</author>
+        <pubDate>2017-06-20 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+Down+Payment+Assistance.mp4</guid>
+        <description>
+
+What’s the biggest obstacle to homeownership?
+
+According to a recent survey, “saving enough for a down payment” comes at the top of the list. A whopping 55% of prospective homebuyers cited this as their main stumbling block. With the continuing growth of home prices, things aren’t getting any easier. In fact, homeownership rates reached a 20-year low last November.
+
+It wasn’t always like this. A decade ago, many lenders were offering easy, no-money-down mortgages. However, after the financial crisis, mortgage standards have become more restrictive. A typical mortgage now requires a 20% down payment. 
+
+Here’s the good news. If you have decent credit and a steady income, you might be qualified for a number of specialized programs that require no or very little down payment. Here are a few of the top options.
+
+First, there’s the USDA loan, which is valid for homes in certain regions, such as rural and suburban areas. With zero money down and lenient credit requirements, the USDA loan can be a great choice for many homeowners. 
+
+Second, there’s the VA loan, which you can apply for if you or your spouse served in a branch of the military. It’s possibly the most generous zero-money-down mortgage because of low interest rates and low closing costs.
+
+Third, there’s the FHA loan. It does require a 3.5% down payment — still drastically more achievable than the 20% required for a conventional mortgage. 
+
+Finally, there are a number credit unions and first-time homebuyer programs that might apply to your particular situation.
+
+“There are many ways to make owning a home a reality.”
+There’s one important thing you should know. If you get one of these no-money-down mortgages, chances are good you will be required to pay private mortgage insurance, which can drive up your monthly payments.
+
+Fortunately, private mortgage insurance will disappear after your mortgage balance is under 80%. Also, the money you do pay will be tax deductible in most cases. In short, there are lots of options to make owning a home a reality for you, even if you haven’t saved up tens of thousands of dollars.
+ 
+If you have any questions for me or you’re looking to buy or sell a home in Mansfield, give me a call or send me an email. I look forward to hearing from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+Down+Payment+Assistance.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+Down+Payment+Assistance.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>The biggest reason people give for not buying a home is not having a down payment saved up. If you really want to buy a home, you don’t even technically need one.</itunes:subtitle>
+        <itunes:author>John Teixeira</itunes:author>
+        <itunes:summary>The biggest reason people give for not buying a home is not having a down payment saved up. If you really want to buy a home, you don’t even technically need one.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Home Selling Tips for Pet Owners</title>
+        <link>http://jtexvideoblog.com/home-selling-tips-for-pet-owners.html</link>
+        
+          <category>Market Updates</category>
+        
+          <category>Real Estate</category>
+        
+          <category>Home Buyer Tips</category>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>John Teixeira</author>
+        <pubDate>2017-06-06 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+Selling+with+pets.mp4</guid>
+        <description>
+
+If you have a pet and you’re looking to sell your home, we have some helpful advice for you.
+
+The good news is, many homebuyers are looking for a pet-friendly home. Two out of three of us have a pet, and 61% of pet owners say they have trouble finding a home that is a good match for their pet.
+
+In fact, a recent survey estimates that 31% of animal owners frequently don’t put in an offer because a home would not suit their pet. This means that if your home is a good match for a pet, it will be attractive to a large pool of dedicated animal owners.
+
+On the other hand, 67% of Realtors also estimate that actually having a pet in your home can make it harder for you to sell. So what can you do? Here are three things I typically recommend:
+
+1. Repair any damage. Floors, walls, doors, the yard — these are some typical areas that pets love to chew, scratch, and dig up. Repairing this damage is an investment that will pay for itself many times over in terms of a higher selling price.
+
+2. Get a professional to remove pet odors. Many pet owners are less sensitive to odors in their home than prospective buyers will be. That’s why you should hire a professional cleaning crew to clean any carpets, rugs, or upholstery that have absorbed pet odors. Once you’re done with the cleaning, ask a friend or your Realtor for a sniff assessment to make sure the job is really complete.
+
+3. Take your pet out during showings. Some people are afraid of animals. Others are allergic. And regardless of the time, money, and effort you’ve put in to clean and repair your home, many buyers will be prejudiced by knowing that a pet currently lives there. That’s why I recommend taking your pet out during showings and also removing any pet objects such as toys, food bowls, or scratching posts.
+
+“The good news is that many buyers want a pet-friendly home.”
+
+By following these three simple guidelines, you will be able to sell your home for top dollar, whether the buyer is a pet owner or not.
+
+And in case you have any questions or concerns about preparing your home for a sale, give me a call. I’m here to help. In the meantime, have a great day, from all of us at Teixeira Realty Group.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+Selling+with+pets.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+Selling+with+pets.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Having pets can make your home a bit harder to sell. Here are some tips to prepare your home so well that buyers won’t have the slightest clue you are a pet owner.</itunes:subtitle>
+        <itunes:author>John Teixeira</itunes:author>
+        <itunes:summary>Having pets can make your home a bit harder to sell. Here are some tips to prepare your home so well that buyers won’t have the slightest clue you are a pet owner.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Mortgage Minute: The Cost of Waiting</title>
+        <link>http://jtexvideoblog.com/mortgage-minute-the-cost-of-waiting.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>John Teixeira</author>
+        <pubDate>2017-05-23 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+Mortgage+Minute+%231.mp4</guid>
+        <description>
+
+Mortgage interest rates are one of the hottest topics with homebuyers right now. Many buyers are currently wondering whether they should wait for interest rates to go back down, but they are only expected to go up. The Federal Reserve has already increased rates and signaled that there are more increases to come.
+
+The days of 3% interest rates are gone right now, but the good news is that rates are still at historic lows at about 4% currently. Here’s an example of why it’s smart to buy now and lock in a low rate rather than waiting six months or a year. 
+
+For a $250,000 house under current rates, your principal and interest payments would be about $1,189 a month. Conservatively estimating that the house will appreciate 5%, waiting a year would mean the same house would cost about $262,500. If interest rates went up 0.5% this year as expected, the same house would cost you an additional $136 a month.
+
+“Both values and interest rates could tick up if you wait to buy a home.”
+
+If you’re selling your house, remember that as rates tick up, the buyer pool for your home shrinks since fewer people will qualify for your home at an increased price. If a buyer’s income doesn’t go up, they might be priced out of that house.
+
+Buying a home sooner also means you will start building equity sooner in addition to getting it cheaper. There’s really no reason to wait and watch interest rates and home values continue to go up.
+
+If you have any mortgage or financing questions for Trever, you can call him at (972) 822-7408 or email him at Trever.Kerr@GatewayLoan.com.
+
+If you have any questions about the Mansfield real estate market or you’re thinking of buying or selling a home, you can always give me a call or send me an email. I’m here to help.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+Mortgage+Minute+%231.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+Mortgage+Minute+%231.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>In today's Mortgage Minute, we're discussing why it's in your best interest to buy a home now instead of waiting for interest rates to fall again.</itunes:subtitle>
+        <itunes:author>John Teixeira</itunes:author>
+        <itunes:summary>In today's Mortgage Minute, we're discussing why it's in your best interest to buy a home now instead of waiting for interest rates to fall again.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What You Need to Know About the Mortgage Lending Process</title>
+        <link>http://jtexvideoblog.com/what-you-need-to-know-about-the-mortgage-lending-process.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>John Teixeira</author>
+        <pubDate>2017-05-09 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+Introduction+to+Trevor.mp4</guid>
+        <description>
+
+If you’re thinking about buying a home, your first step before actually looking at homes should be to understand the mortgage lending process. 
+
+To help me broach this topic, I’m joined for the very first time today by my preferred lender, Trever Kerr of Gateway Mortgage. Trever has been in the business for 15 years, and I’ve been working with him for over 10 years. He’s the only lender I refer to my clients, and Gateway Mortgage makes many exceptions for their clients that other lenders can’t. 
+
+The first part of the mortgage lending process is to find out whether you qualify for a loan. If you don’t qualify, your lender can tell you what you need to do to get qualified down the road. In addition to knowing what you qualify for, you also have to work with your lender to know what your comfort level is as far as what your monthly payments will be. Even though you might qualify for a $300,000 home, you might only want payments on a $200,000 home. 
+
+If you don’t speak to a lender, you won’t know what your roadmap to homeownership is. Some people think they can qualify when they can’t, while others think they can’t qualify when they actually can. These people do the wrong things for their credit thinking they’re doing the right things, like paying off their collections once they think they’ll purchase a house soon. Trever and I both see this happen all the time. 
+
+“If you don’t speak to a lender, you won’t know what your roadmap to homeownership is.”
+
+Paying credit repair companies to help you fix your credit score isn’t necessarily the best idea, either. Many of these companies end up doing things that hurt their customers. To be clear, I’m not bashing the credit repair industry as a whole. There’s a place for it for some people, but overall, a lot of it is unnecessary, especially when you can call an expert like Trever and get his advice for free. 
+
+Your loan qualification guidelines in our current market can depend on the type of loan product you intend to get, but you can generally qualify with a credit score as low as 600. If you don’t have the cash for the down payment and closing costs, there are different gift programs available for first-time homebuyers. 
+
+Lastly, your debt-to-income ratio must also be in line. As a general rule of thumb, a debt-to-income ratio for the purchase of a home should be 35% of your total gross income before taxes. The second part of that ratio is the 45% of your total gross income you’re allowed to use to cover your house payment, taxes, insurance, and other bills.
+
+I want to thank Trever for helping me today. Stay tuned for more videos featuring both Trever and I where we’ll talk more in depth about credit scores, debt-to-income ratios, and other facets of the lending process. If you have any questions for him, you can call him at (972) 822-7408 or email him at Trever.Kerr@gatewayloan.com. 
+
+If you have any questions for me, please feel free to give me a call or shoot me an email. I’d be happy to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+Introduction+to+Trevor.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+Introduction+to+Trevor.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Understanding the mortgage lending process is key when buying a home. Here’s what you need to know about it.</itunes:subtitle>
+        <itunes:author>John Teixeira</itunes:author>
+        <itunes:summary>Understanding the mortgage lending process is key when buying a home. Here’s what you need to know about it.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Your Neighbors Can Help You Sell Your Home</title>
+        <link>http://jtexvideoblog.com/how-your-neighbors-can-help-you-sell-your-home.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>John Teixeira</author>
+        <pubDate>2017-04-26 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+Neighbors+Can+Help+You+Sell.mp4</guid>
+        <description>
+
+If you’re thinking of selling your home, you need to immediately start preparing your neighbors. Here’s what I mean.
+
+Home appraisals are 5% to 10% lower if you have a so-called “bad” neighbor with an unkempt yard or poorly maintained exterior. That shouldn’t be surprising when you consider that 63% of homebuyers drive by a home before coming for a showing. Make no mistake—these potential buyers won’t just be impacted by the exterior of your home, but by the state of your neighborhood as well.
+
+On the other hand, your neighbors can also be your best friends in selling your home. They can provide you with free advertising, they can promote the neighborhood to inquiring buyers, and they might even actively work with you to help you achieve a higher price.
+
+Here are three tips on working with your neighbors to achieve a faster, more profitable sale.
+
+First, set up a special open house just for your neighbors. Many neighbors will be curious for a peek inside your home. You can make the deal even more enticing by providing some free snacks and drinks. Use this open house as an opportunity to show off your home, as well as to build better relationships with your neighbors so they’ll be more inclined to help you during the sale process.
+
+One way to do this is to be forthcoming with information, including the price you’re aiming for, renovations you’re planning, or showings that might eat up local parking for an afternoon. Get your neighbors involved, ask them for suggestions, and ask them how you can make the process easier for them.
+
+“Your neighbors can be your best friends when selling your house.”
+
+Also, don’t forget to mention that if you are successful in selling your home, this will positively impact the values of all homes in the neighborhood.
+
+Second, organize a neighborhood cleanup party. This is an opportunity to boost the image and value of your entire neighborhood, as well as to further cement good relations with your neighbors. You can also use this as a discreet way to suggest small home improvement projects to your neighbors. Which leads me to the third and final tip.
+
+You can also offer to help with—or even pay for—any upgrades you’d like to see on your neighbors’ homes. For example, if you’re having a landscaping crew come as part of your sale preparations, ask your neighbors with the overgrown lawn if they’d be ok with the landscapers also taking care of their yard for free. These kinds of small investments can be worth thousands of dollars in terms of your final sale price.
+
+If you want to get an estimate of what your home is currently worth without any of these upgrades or you need more advice on dealing with your neighbors in preparation for a home sale, just give me a call or send me an email. I’d be happy to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+Neighbors+Can+Help+You+Sell.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+Neighbors+Can+Help+You+Sell.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>There are three tips for working with your neighbors to achieve a faster, more profitable sale that I want to share with you today.</itunes:subtitle>
+        <itunes:author>John Teixeira</itunes:author>
+        <itunes:summary>There are three tips for working with your neighbors to achieve a faster, more profitable sale that I want to share with you today.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to File Taxes as a Homeowner in 2017</title>
+        <link>http://jtexvideoblog.com/how-to-file-taxes-as-a-homeowner-in-2017.html</link>
+        
+          <category>Home Owner Tips</category>
+        
+        <author>John Teixeira</author>
+        <pubDate>2017-03-30 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+Filing+Taxes.mp4</guid>
+        <description>
+
+If you bought your first home in 2016, then you are in for a very new tax experience this year. Why? After you buy a house, it makes sense to itemize your taxes. 
+
+The good news is that itemizing your taxes is surprisingly easy to do. There are a few things you need to keep in mind in order to save the most on taxes while minimizing your filing headaches. 
+
+First of all, you need to locate your closing disclosure agreement. This is part of your closing paperwork provided by your lender. Then, you can add up the four main real estate deductions: 
+
+
+  Loan costs and fees: These are the different fees from your lender spread throughout the closing disclosure agreement. Different lenders will call them by different names, so look for terms like “application fee,” “underwriting fee,” and “loan cost.
+  Mortgage interest: You can deduct the entire interest portion of your mortgage payments. This will probably be your biggest deduction, especially at the start of your mortgage when interest rates are highest.
+  Property taxes: You can deduct property taxes for the part of the year in which you owned the home. Amazingly, you can claim this deduction even if you managed to negotiate for the seller to pay the full year’s property taxes.
+  Mortgage insurance: If you put less than 20% down when you bought the house, you probably have to pay private mortgage insurance. The good news is that PMI is tax deductible. Keep in mind that private mortgage insurance is completely different from homeowners insurance, which is not deductible.
+
+
+“You can deduct the entire interest portion from your monthly mortgage payments.”
+
+There are a few other items that you might be able to itemize when filing your taxes. For example, if you gave away furniture or appliances before moving in, those items can be deducted as a charitable donation. If you work from home, then you can claim additional deductions from that. 
+
+The standard deduction for individuals is $6,300 while the standard deduction for married couples is $12,600. If your total is less than the standard deduction, then congratulations; you will save more money this year by itemizing your taxes. 
+
+Although most of these tips are for new homeowners, other homeowners can also save money by itemizing their taxes. If you have any questions about filing taxes as a homeowner, or if you would like to know more about becoming a homeowner in 2017, give us a call. We would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+Filing+Taxes.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+Filing+Taxes.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you bought a home in 2016, you should itemize your taxes when you file this year. We’ll go over a few tips to help you save the most money and stress during the filing process.</itunes:subtitle>
+        <itunes:author>John Teixeira</itunes:author>
+        <itunes:summary>If you bought a home in 2016, you should itemize your taxes when you file this year. We’ll go over a few tips to help you save the most money and stress during the filing process.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Rising Interest Rates Will Affect the Mansfield Market</title>
+        <link>http://jtexvideoblog.com/how-rising-interest-rates-will-affect-the-mansfield-market.html</link>
+        
+          <category>Market Updates</category>
+        
+        <author>John Teixeira</author>
+        <pubDate>2017-03-13 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+Mortgage+Rates.mp4</guid>
+        <description>
+
+If you’re concerned about the recent rise in mortgage rates, I want to reassure you—things are much better than they might seem.
+
+Yes, mortgage rates have certainly risen. From a low of 3.44% last August, the 30-year fixed mortgage rate reached 4.12% recently.
+
+This increase means that if you took out a 30-year mortgage on a $250,000 home, you’d pay almost $100 more each month. Your overall mortgage cost would be almost $35,000 higher. That’s a sizeable change, and it’s got some people nervous about a possible slowdown in the real estate market.
+
+However, the current rise in rates is unlikely to affect the real estate market any time soon. The rates we saw last year were an all-time record low. Historically, rates have been far higher.
+
+Ten years ago, the same 30-year mortgage rate stood at 6.34%. For much of the 90s, rates hovered between 7% and 10%. Throughout the 80s, average annual rates never dipped below 10%. In 1982, they were as high as 16%. When viewed in this context, it’s clear that current mortgage rates are still very low, and that the real estate market is actually in a very good place.
+
+So what does this mean for you?
+
+First, if you are looking to buy a home, the current low rates offer a great opportunity to afford an amazing home. Second, if you’re looking to sell your home, you are in a great position to do so quickly and at top price.
+
+“The current rise in rates is unlikely to affect the real estate market any time soon.”
+
+Last December saw a drop in home sales, but not because of any rise in mortgage rates. Instead, this slowdown was due to a constrained supply of new homes. In fact, there are plenty of eager buyers around Mansfield and prices continue to rise.
+
+If you want to discuss upcoming trends in mortgage rates and how they could affect you—whether you’re buying or selling a house—give me a call or send me an email. I’d be happy to help however I can.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+Mortgage+Rates.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+Mortgage+Rates.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Should you worry about the recent rises in mortgage interest rates? In my opinion, no, and here's why.</itunes:subtitle>
+        <itunes:author>John Teixeira</itunes:author>
+        <itunes:summary>Should you worry about the recent rises in mortgage interest rates? In my opinion, no, and here's why.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How New Tax Rules Could Affect the Mansfield Market</title>
+        <link>http://jtexvideoblog.com/how-new-tax-rules-could-affect-the-mansfield-market.html</link>
+        
+          <category>Market Updates</category>
+        
+        <author>John Teixeira</author>
+        <pubDate>2017-02-27 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+New+Tax+Plan.mp4</guid>
+        <description>
+
+Have you heard the news?
+
+The new administration is looking to revamp the tax code in a way that affects the long-standing mortgage interest deduction (MID). Some people are concerned this might impact home sales and drive down home values. 
+
+I believe it will do just the opposite. 
+
+First — a bit of background. Under the current system, you can include the interest you pay on your mortgage in your itemized tax deductions. If your itemized deductions turn out to be more than your standard deduction, you save more on taxes. 
+
+Currently, about 20% of homeowners who have a mortgage take advantage of the MID for an annual average savings of $2,000 in taxes. Under the proposed new tax plan, the standard tax deduction would almost double. For example, the standard deduction for a married couple would go from $12,600 to $24,000. 
+
+If this happens, an estimated 84% of people who currently itemize taxes would simply go for the standard deduction, and this is the part that has some people worried. After all, if people don’t take advantage of the MID, won’t this decrease the value of owning a home?
+
+Here are two reasons why that won’t happen. 
+
+First, most people do not buy a home in order to save on taxes. A survey from 2015 confirms this fact. The top reasons why people buy a home include the need for change, an increase in income, or a baby on the way, but there’s no mention of saving on taxes. This bears out what most real estate professionals see in real life. 
+
+“People don’t buy a home just to save on taxes.”
+
+Second, taxes will actually be lower under the proposed new plan. Traditional estimates of the impact of the MID assume other taxes stay the same. In this case, if the deduction goes away, home prices can indeed suffer to an extent. 
+
+But under the proposed new plan, the overall tax burden will be less than it currently is. 
+
+In other words, most people will not lose money because they aren’t claiming the MID. Instead, they will gain money by paying less in taxes altogether. 
+
+With more disposable income, people will be free to spend more on a home. This will drive sales as well as prices. The fact is, current home prices around Mansfield keep increasing — not because of tax breaks, but because of tight supply. 
+
+If you have any questions about the new tax plan and how it will affect the real estate market or you’re thinking of buying or selling a home in the Mansfield area, give us a call or send us an email. We’re always happy to help!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+New+Tax+Plan.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+New+Tax+Plan.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Could the new administration’s proposed tax plan have an effect on the Mansfield real estate market? Here’s what we think.</itunes:subtitle>
+        <itunes:author>John Teixeira</itunes:author>
+        <itunes:summary>Could the new administration’s proposed tax plan have an effect on the Mansfield real estate market? Here’s what we think.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Don’t Wait for Spring to Sell Your Home</title>
+        <link>http://jtexvideoblog.com/dont-wait-for-spring-to-sell-your-home.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>John Teixeira</author>
+        <pubDate>2017-02-13 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+Listing+in+the+Winter.mp4</guid>
+        <description>
+
+Is listing your home in the winter a good idea? The answer is yes, and here’s why.
+
+Homes listed during the winter are 9% more likely to sell than homes listed during the other seasons. These properties, on average, sell a week faster, sell for 1.2% more than their list price, and are more likely to sell above asking price than the homes listed in summer or fall.
+
+If you’re surprised by these statistics, you’re not alone. Conventional real estate wisdom says to pass on the winter market and wait for the spring. However, as you can see from the numbers, passing on the winter market would be a mistake.
+
+It’s true that there are less buyers in the winter, but that isn’t necessarily a problem as buyers during the winter are more motivated. Some of them might need to get into a new home for a job relocation, some might want to take advantage of low interest rates before another increase occurs, and some have been searching for months with no luck in finding their dream home.
+
+“Homes listed during the winter sell a week faster than those listed during the other seasons.”
+
+If you are looking to sell your home, I would definitely recommend selling in the winter. However, keep in mind that the winter market is a whole different ballgame. For example, you really need to list your home as close to market value as possible because an overpriced home causes low buyer interest and strips away time for any price reductions.
+
+If you would like to know the current value of your home, get advice on how to prepare your home for the winter market, or if you have any other real estate related questions, feel free to give me a call or send me an email. I would be happy to help!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+Listing+in+the+Winter.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+Listing+in+the+Winter.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Should you wait for spring to sell your home? The answer is no, and here’s why.</itunes:subtitle>
+        <itunes:author>John Teixeira</itunes:author>
+        <itunes:summary>Should you wait for spring to sell your home? The answer is no, and here’s why.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>A Quick Update on the Mansfield Market</title>
+        <link>http://jtexvideoblog.com/a-quick-update-on-the-mansfield-market.html</link>
+        
+          <category>Market Updates</category>
+        
+        <author>John Teixeira</author>
+        <pubDate>2017-01-27 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Optimistic+Market.mp4</guid>
+        <description>
+
+With regards to how our market has fared since the election, there is some good news and some bad news.
+
+First, the bad: mortgage rates have shot up since the election.
+
+From a low of 3.74% on November 7th, the average fixed 30-year mortgage rate increased to over 4% by the end of November.
+
+Economists are saying this kind of volatility is likely to continue, with day-to-day changes driven by the moves and statements of the new administration.
+
+The good news is that there are plenty of reasons to be optimistic down the line.
+
+Promised tax breaks for high earners could reinvigorate sales of luxury homes, which have seen a glut lately.
+
+This could have a ripple effect throughout the rest of the real estate market, spurring sales and construction of mid-level and lower-priced housing.
+
+Also, looser financial regulation could make it easier for buyers to obtain mortgages.
+
+One piece of good news is that the election is finally over. Also, you might have seen that the stock market has been surging in the past few weeks.
+
+“More people are entering the market now that the election is over.”
+
+That might be a vote of confidence for our President and his anticipated business-friendly policies.
+
+It certainly seems things are getting back to normal as people come to realize the world’s not ending.
+
+In fact, many people who were waiting on the sidelines while the election was going on are now entering the real estate market.
+
+It’s a great time to take advantage of this if you are selling.
+
+If you want an idea of what your home could sell for in the current market, just send me an email to myhomesvalue@jteixsells.com with your address in the subject line and I’ll get back to you.
+
+And if you’re looking to buy, there are two things you should know.
+
+First, even though mortgage rates have gone up, they are still historically very low, and worth taking advantage of.
+
+Second, many new homes have entered the market since the election, and more new listings will arrive as the spring market approaches.
+
+It’s definitely worth investigating what’s available around DFW right now.
+
+If you have any questions, don’t hesitate to reach out and give us a call or send us an email.  We look forward to hearing from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Optimistic+Market.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Optimistic+Market.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>We’ve seen some very positive signs coming out of our market lately. Things are shaping up nicely for both buyers and sellers right now.</itunes:subtitle>
+        <itunes:author>John Teixeira</itunes:author>
+        <itunes:summary>We’ve seen some very positive signs coming out of our market lately. Things are shaping up nicely for both buyers and sellers right now.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Are We in the Midst of Another Housing Bubble?</title>
+        <link>http://jtexvideoblog.com/are-we-in-the-midst-of-another-housing-bubble.html</link>
+        
+          <category>Market Updates</category>
+        
+        <author>John Teixeira</author>
+        <pubDate>2016-12-20 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+Housing+Bubble.mp4</guid>
+        <description>
+
+In June of this year, home prices rose for the 50th straight month. Nationwide, current home prices are only about 1% below record highs from 2006, which was the beginning of the housing crisis. At the same time, mortgage rates are trending lower and lower. The average 30-year fixed mortgage rate is now just 3.49%, which is only a few points above the all-time low of 3.31%.
+
+When you put these two factors together, many people are wondering the same thing: Are we in the middle of a new housing bubble? 
+
+The rising home prices over the passover years is undeniable, as are the low mortgage rates. However, the situation today is very different from the housing bubble that happened 10 years ago. 
+
+Why?
+
+First,** lending has been cleaned up**. The risky mortgages that fueled the housing bubble a decade ago aren’t happening today because of new laws like the Dodd-Frank Act. In fact, the stricter regulations surrounding lending is one of the reasons why mortgage rates are so low right now. Since banks have tighter criteria for the lenders they approve, they can afford to lend money at a lower rate.
+
+“The situation today is very different than that of 10 years ago.”
+
+Second, the current level of new home construction is below historical averages and is only a fraction of the level of 2006. This is the opposite of what you’d expect in a bubble. Home builders are simply not finding it profitable to build new housing right now. This shortage also explains the high prices that existing homes are selling for. 
+
+In other words, demand is higher than supply right now. This means that it’s a great time to sell. If you’re curious about your current home value, send us an email at myhomesvalue@jtextsells.com. Put your address in that email and we’ll respond with its current market value.
+
+The big housing crisis of 10 years ago was set of by speculation and loose borrowing. We’re not seeing either of those things right now. Instead, what we’re seeing is a shortage of certain kinds of homes on the market, which has increased the level of home prices. However, thanks to the lower mortgage rates, those homes are actually affordable. 
+
+If you’re thinking about selling your home or buying a new one, just give me a call or shoot me an email. I’d be happy to help!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+Housing+Bubble.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+Housing+Bubble.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Though it may appear that way on the surface, we’re not in another housing bubble. The market situation we have now is far different than the one we had 10 years ago, and today I want to tell you why.</itunes:subtitle>
+        <itunes:author>John Teixeira</itunes:author>
+        <itunes:summary>Though it may appear that way on the surface, we’re not in another housing bubble. The market situation we have now is far different than the one we had 10 years ago, and today I want to tell you why.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Does the Housing Shortage Mean For You?</title>
+        <link>http://jtexvideoblog.com/what-does-the-housing-shortage-mean-for-you.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>John Teixeira</author>
+        <pubDate>2016-12-06 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+Housing+Shortages.mp4</guid>
+        <description>
+
+If you have been thinking about trading up to your dream home, now is an excellent time. 
+
+Builders have been focusing on new high-level homes, and investors have been turning mid-level, lower cost homes into rentals, causing the number of available mid-level, low priced homes to decline 40% in the last four years. 
+
+This has caused a shortage of mid-level, low cost homes. 
+
+The shortage is fantastic news for you as a seller. It means you will be able to sell your home more quickly. This summer, the typical home stayed on the market for just 17 days, and 64% of homes sold in less than a month. It also means you can sell your home for more in the current market. Prices are higher now than a year ago, and many sellers are getting more than the asking price. 
+
+“You could get above asking price for your home.”
+
+Because the shortage of homes doesn’t apply to high level dream homes, you have a fantastic chance to sell your home above asking price and buy your new dream home for a steal. 
+
+If you have other questions about how to get your dream home, feel free to give me a call or send me an email.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+Housing+Shortages.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+Housing+Shortages.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you are looking to upgrade to your dream home, I’ll show you how to make the housing shortage work to your advantage.</itunes:subtitle>
+        <itunes:author>John Teixeira</itunes:author>
+        <itunes:summary>If you are looking to upgrade to your dream home, I’ll show you how to make the housing shortage work to your advantage.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What the Future Holds for Interest Rates</title>
+        <link>http://jtexvideoblog.com/what-the-future-holds-for-interest-rates.html</link>
+        
+          <category>Market Updates</category>
+        
+        <author>John Teixeira</author>
+        <pubDate>2016-11-30 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+An+update+on+Fed+interest+rate+changes.mp4</guid>
+        <description>
+
+Are Fed Rates going up?
+
+Over the past few months, we’ve been hearing about a possible rate increase from the Federal Reserve. First, experts were predicting that the Fed would raise interest rates in September.
+
+That didn’t happen. Now we’re being told rates will go up in mid-December… we just don’t know by how much.
+
+All this uncertainty is making people very uncomfortable.
+
+Because of the uncertainty, news outlets are parsing every word Fed members are saying, and everyone is wondering: Will there be a rate increase? Will mortgage rates increase as well? What will happen to the real estate market?
+
+My personal opinion is this: the moves by the Fed are nothing to worry about. I think it’s simply another case of people getting nervous while waiting for the test results.
+
+In fact, I believe that an increase in the Fed Rate will have minimal impact on the real estate market in Mansfield for three reasons.
+
+First, mortgage rates often move independently of the Fed Rate. An increase in the Fed Rate might actually lead to a decrease in mortgage rates — this is exactly what happened the last time the Fed increased rates, back in December of 2015.
+
+Second, the likely rate increase will be small, probably 0.25%. If mortgage rates were to increase by the same amount, they would still would be at historically low levels.
+
+Third, we know the members of the Fed are concerned with the shortage of new housing right now — it’s right there in their September meeting notes. Because of this, any actions they take will keep the real estate market in mind.  
+
+In short: the real estate market is doing great right now—and it’s likely to stay that way, with or without a Fed Rate increase. 
+
+“The real estate market looks great right now.”
+
+Right now, if you’re selling, you can benefit from stable prices and strong demand:
+
+Check out how much your home is worth based on current Mansfield prices. 
+
+And if you’re buying, you can benefit from historically-low mortgage rates so you can afford a great home in Mansfield:
+
+See available Mansfield homes that are for sale right now. 
+
+Either way, if you have questions, or you just want to talk about what the Fed might do next, give me a call. I’m here to help.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+An+update+on+Fed+interest+rate+changes.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+An+update+on+Fed+interest+rate+changes.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Recent speculation about potential increases in interest rates has many people nervous. Here’s what I think will happen with rates in the near future.</itunes:subtitle>
+        <itunes:author>John Teixeira</itunes:author>
+        <itunes:summary>Recent speculation about potential increases in interest rates has many people nervous. Here’s what I think will happen with rates in the near future.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>Don’t Wait Until After the Election to Sell</title>
-        <link>localhost:5000/6-reasons-to-consider-selling-now-27.html</link>
+        <link>http://jtexvideoblog.com/6-reasons-to-consider-selling-now-27.html</link>
         
           <category>Market Updates</category>
         
@@ -60,10 +631,10 @@ A lot of them want to wait until the election is over to sell, but that would be
 If you have any questions for us or are interested in buying or selling a home, we would love to hear from you. It’s a good time to make a move right now.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:5000" height="72" width="72"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Mansfield Area Area Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>Many home sellers are waiting until after the presidential election to list. By selling now, you can take advantage of the trends they are missing out on.</itunes:subtitle>
         <itunes:author>John Teixeira</itunes:author>
         <itunes:summary>Many home sellers are waiting until after the presidential election to list. By selling now, you can take advantage of the trends they are missing out on.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
@@ -71,7 +642,7 @@ If you have any questions for us or are interested in buying or selling a home, 
       
       <item>
         <title>Why Mortgage Rates Are So Low Right Now</title>
-        <link>localhost:5000/why-mortgage-rates-are-so-low-right-now-26.html</link>
+        <link>http://jtexvideoblog.com/why-mortgage-rates-are-so-low-right-now-26.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -105,10 +676,10 @@ As you can imagine, these ultra-low mortgage rates won’t last forever and will
 If you are looking to take advantage of this unique situation while it lasts, give me a call or send me an email. I’m always here to help.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:5000" height="72" width="72"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Mansfield Area Area Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>Why are interest rates so low right now? Global economics have made American real estate a great haven for investments, so rates have dropped.</itunes:subtitle>
         <itunes:author>John Teixeira</itunes:author>
         <itunes:summary>Why are interest rates so low right now? Global economics have made American real estate a great haven for investments, so rates have dropped.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
@@ -116,7 +687,7 @@ If you are looking to take advantage of this unique situation while it lasts, gi
       
       <item>
         <title>Fall Is a Great Time to Sell in Mansfield</title>
-        <link>localhost:5000/why-fall-is-great-time-to-sell-home-25.html</link>
+        <link>http://jtexvideoblog.com/why-fall-is-great-time-to-sell-home-25.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -152,10 +723,10 @@ On the other hand, those serious buyers I mentioned earlier might be willing to 
 It’s a balancing act. It’s also something I can definitely help you with. Give me a call if you are considering selling this fall, and I’ll give you my recommendations on how to price your home based on current conditions in Mansfield.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:5000" height="72" width="72"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Mansfield Area Area Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>Contrary to popular belief, the fall is actually a great time to sell a home. You may not see as many buyers as you would in the spring and summer, but you can be sure that fall buyers are more serious.</itunes:subtitle>
         <itunes:author>John Teixeira</itunes:author>
         <itunes:summary>Contrary to popular belief, the fall is actually a great time to sell a home. You may not see as many buyers as you would in the spring and summer, but you can be sure that fall buyers are more serious.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
@@ -163,7 +734,7 @@ It’s a balancing act. It’s also something I can definitely help you with. Gi
       
       <item>
         <title>Which Updates Will Help Sell Your Mansfield Home? </title>
-        <link>localhost:5000/the-dos-and-donts-of-home-renovations-24.html</link>
+        <link>http://jtexvideoblog.com/the-dos-and-donts-of-home-renovations-24.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -201,10 +772,14 @@ People want to see a yard that they can entertain friends in. A cluttered and un
 If you have any questions about getting your home ready for the market or about real estate in general, give us a call or send us an email. We would be happy to help you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:5000" height="72" width="72"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Mansfield Area Area Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+If you are considering selling your home in the near future, you are probably planning on making a few renovations. However, some renovations are more appealing to buyers than others.
+
+</itunes:subtitle>
         <itunes:author>John Teixeira</itunes:author>
         <itunes:summary>
 
@@ -216,7 +791,7 @@ If you are considering selling your home in the near future, you are probably pl
       
       <item>
         <title>8 Inexpensive Tips to Add Value to Your Bathroom</title>
-        <link>localhost:5000/tips-for-updating-your-bathroom-23.html</link>
+        <link>http://jtexvideoblog.com/tips-for-updating-your-bathroom-23.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -241,10 +816,14 @@ It’s commonly known that kitchens and bathrooms sell homes. Making improvement
 If you have any questions, or have plans to buy or sell a home in the near future, please don’t hesitate to give us a call or send an email.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:5000" height="72" width="72"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Mansfield Area Area Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+It’s commonly known that kitchens and bathrooms sell homes. Making improvements to your bathroom, therefore, is one of the best ways to create value to your home if you’re considering selling in the future. Here are eight inexpensive ways to do just that:
+
+</itunes:subtitle>
         <itunes:author>John Teixeira</itunes:author>
         <itunes:summary>
 
@@ -256,9 +835,9 @@ It’s commonly known that kitchens and bathrooms sell homes. Making improvement
       
       <item>
         <title>An Update on the Summer Real Estate Market in Mansfield</title>
-        <link>localhost:5000/this-is-what-were-seeing-in-mansfield-22.html</link>
+        <link>http://jtexvideoblog.com/this-is-what-were-seeing-in-mansfield-22.html</link>
         
-          <category>Market Update</category>
+          <category>Market Updates</category>
         
         <author>John Teixeira</author>
         <pubDate>2016-08-11 11:16:00 -0500</pubDate>
@@ -276,10 +855,14 @@ Our average days on market are 26 days, six days fewer than last year. We have o
 If you have any questions for us or are considering buying or selling a home, give us a call or send us an email. We would be happy to help in any way we can.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:5000" height="72" width="72"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Mansfield Area Area Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+The latest numbers are in for the Mansfield real estate market, so we wanted to share them with you. We’ll compare them to the figures we saw at this time last year to show how the market has changed in the past year.
+
+</itunes:subtitle>
         <itunes:author>John Teixeira</itunes:author>
         <itunes:summary>
 
@@ -291,9 +874,9 @@ The latest numbers are in for the Mansfield real estate market, so we wanted to 
       
       <item>
         <title>Arlington Real Estate Market Update</title>
-        <link>localhost:5000/arlington-real-estate-market-update-21.html</link>
+        <link>http://jtexvideoblog.com/arlington-real-estate-market-update-21.html</link>
         
-          <category>Market Update</category>
+          <category>Market Updates</category>
         
         <author>John Teixeira</author>
         <pubDate>2016-08-11 10:52:00 -0500</pubDate>
@@ -314,10 +897,14 @@ Let’s review some numbers from June 2016 and see how they compare to June 2015
 That’s it for our Arlington housing report. If you have any questions about real estate, or are looking to buy or sell a home, give us a call soon. We guarantee service, experience, and teamwork.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:5000" height="72" width="72"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Mansfield Area Area Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Let’s review some numbers from June 2016 and see how they compare to June 2015:
+
+</itunes:subtitle>
         <itunes:author>John Teixeira</itunes:author>
         <itunes:summary>
 
@@ -329,7 +916,7 @@ Let’s review some numbers from June 2016 and see how they compare to June 2015
       
       <item>
         <title>Introducing Our Newest Listing With Some Free Tacos</title>
-        <link>localhost:5000/open-house-featuring-free-tacos-20.html</link>
+        <link>http://jtexvideoblog.com/open-house-featuring-free-tacos-20.html</link>
         
           <category>Real Estate</category>
         
@@ -345,10 +932,14 @@ We’re here today to introduce our newest listing at 4407 Meadow Knoll Lane in 
 We’d love to have you come check it out for yourself at our open house this Saturday, August 6th, from 1 p.m. to 3 p.m. Since we ran out of pizza, this time we’ll be serving free tacos. Who doesn’t like free tacos?
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:5000" height="72" width="72"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Mansfield Area Area Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+We’re here today to introduce our newest listing at 4407 Meadow Knoll Lane in Mansfield, Texas. It’s a beautiful home featuring four bedrooms, three living rooms, and three full bathrooms built inside its nearly 3,100 sq ft area. Tucked within the Meadow Glen subdivision, the neighborhood is great for raising a family. Nearby you can find community parks, pools, playgrounds, and Lake Ridge High School.
+
+</itunes:subtitle>
         <itunes:author>John Teixeira</itunes:author>
         <itunes:summary>
 
@@ -360,7 +951,7 @@ We’re here today to introduce our newest listing at 4407 Meadow Knoll Lane in 
       
       <item>
         <title>Introducing Our Newest Listing in South Arlington</title>
-        <link>localhost:5000/open-house-in-south-arlington-19.html</link>
+        <link>http://jtexvideoblog.com/open-house-in-south-arlington-19.html</link>
         
           <category>Real Estate</category>
         
@@ -375,10 +966,14 @@ Today we want to introduce our newest listing here at 6406 Berlinetta Drive. It�
  The location falls under the esteemed jurisdiction of the Mansfield school district. The outside features an enormous backyard that’s adjoined by a covered patio. The inside features a floor plan that is somewhat open with a large living space that leads into a spacious dining room. It’s a house that’s great for entertaining guests, and for the price of $175,000 in South Arlington, you can’t beat that deal.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:5000" height="72" width="72"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Mansfield Area Area Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Today we want to introduce our newest listing here at 6406 Berlinetta Drive. It’s a beautiful corner lot with a 3-bedroom home in South Arlington measuring almost 1,900 square feet.
+
+</itunes:subtitle>
         <itunes:author>John Teixeira</itunes:author>
         <itunes:summary>
 
@@ -390,7 +985,9 @@ Today we want to introduce our newest listing here at 6406 Berlinetta Drive. It�
       
       <item>
         <title>Don’t Miss This Beautiful Listing in Mira Lagos</title>
-        <link>localhost:5000/get-sneak-peek-before-next-open-house-18.html</link>
+        <link>http://jtexvideoblog.com/get-sneak-peek-before-next-open-house-18.html</link>
+        
+          <category>Real Estate</category>
         
         <author>John Teixeira</author>
         <pubDate>2016-07-21 14:24:00 -0500</pubDate>
@@ -414,10 +1011,14 @@ The kitchen features gorgeous granite counter tops and opens up to a breakfast a
 Again, don’t miss the open house this Saturday at 2927 Mirado Drive from 1 to 3 p.m. If you have any questions about the property, don’t hesitate to give us a call or send us an email in the meantime. We look forward to seeing you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:5000" height="72" width="72"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Mansfield Area Area Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+We’re here at our new listing, 2927 Mirado Drive. Located in Mira Lagos, this beautiful, 3,100 square foot home features four bedrooms, two bedrooms, a game room, and a gorgeous open floor plan.
+
+</itunes:subtitle>
         <itunes:author>John Teixeira</itunes:author>
         <itunes:summary>
 
@@ -429,7 +1030,7 @@ We’re here at our new listing, 2927 Mirado Drive. Located in Mira Lagos, this 
       
       <item>
         <title>Now on the Market: This Arlington Oasis</title>
-        <link>localhost:5000/a-great-conversation-with-our-home-17.html</link>
+        <link>http://jtexvideoblog.com/a-great-conversation-with-our-home-17.html</link>
         
           <category>Real Estate</category>
         
@@ -453,10 +1054,14 @@ Although Carol is selling because she is semi-retired and choosing to move out t
 We really appreciate Carol taking time out of her day to join us and talk about her beautiful home. If you have any questions for us or if you’d like to see the home in person, give us a call or send us an email. We would love to hear from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:5000" height="72" width="72"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Mansfield Area Area Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+We’re very excited to talk about a special home that has just been listed on the market. The home is located at 9321 Marble Falls in the Southwind subdivision in the southernmost part of Arlington. At 2,230 sq. ft. with four bedrooms, granite counters, and wood floors, this home has just been put on the market for $240,000. The home’s owner, Carol, is here today to discuss her home, why she’s selling, and why she will be sad to leave it.
+
+</itunes:subtitle>
         <itunes:author>John Teixeira</itunes:author>
         <itunes:summary>
 
@@ -468,7 +1073,7 @@ We’re very excited to talk about a special home that has just been listed on t
       
       <item>
         <title>Don’t Miss Out on the Mansfield Shootout</title>
-        <link>localhost:5000/coming-to-shootout-16.html</link>
+        <link>http://jtexvideoblog.com/coming-to-shootout-16.html</link>
         
           <category>Real Estate</category>
         
@@ -486,10 +1091,14 @@ Last but not least, we are still looking for sponsors for our event. For just $1
 Also, if you’ve never shot a gun, this tournament is a great place to start. The event will be taking place on June 18th at the Alpine Shooting Range at 5482 Shelby Rd. in Fort Worth. It’s $100 for one shooter or $385 for four. All proceeds are going to benefit the Trinity Habitat for Humanity.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:5000" height="72" width="72"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Mansfield Area Area Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Today I’m with a sponsor for the Mansfield Shootout, Dr. Bobbit with Mansfield Chiropractic. Dr. Bobbit loves to help out the community, and he is eager to help us, as all of our donations will go to Habitat for Humanity to help build homes for those in need.
+
+</itunes:subtitle>
         <itunes:author>John Teixeira</itunes:author>
         <itunes:summary>
 
@@ -501,7 +1110,7 @@ Today I’m with a sponsor for the Mansfield Shootout, Dr. Bobbit with Mansfield
       
       <item>
         <title>How to Price Your Mansfield Home in Today’s Market</title>
-        <link>localhost:5000/mansfield-real-estate-agent-accurately-15.html</link>
+        <link>http://jtexvideoblog.com/mansfield-real-estate-agent-accurately-15.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -523,10 +1132,14 @@ Ultimately, price your home appropriately. Don’t go too high and you will wind
 If you have any questions, give us a call or send us an email. We would be happy to help you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:5000" height="72" width="72"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Mansfield Area Area Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Setting the right sales price is incredibly important before you list your property. You don’t want to price your home too low or too high. Today, we’ll go over how to set your price so you can net the most money for your home.
+
+</itunes:subtitle>
         <itunes:author>John Teixeira</itunes:author>
         <itunes:summary>
 
@@ -538,7 +1151,7 @@ Setting the right sales price is incredibly important before you list your prope
       
       <item>
         <title>Should You Buy a Mansfield Home Without an Inspection?</title>
-        <link>localhost:5000/mansfield-real-estate-agent-should-you-14.html</link>
+        <link>http://jtexvideoblog.com/mansfield-real-estate-agent-should-you-14.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -558,10 +1171,14 @@ I always build in an option period for my buyers. During this period, and inspec
 If you’re thinking about buying or selling a home in the surrounding area, give me a call or send me an email at your earliest convenience. I’d be happy to help you with any questions you might have!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:5000" height="72" width="72"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Mansfield Area Area Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Today, we’ll talk about buying a home with a professional inspection. What should you do in this particular situation in Mansfield?
+
+</itunes:subtitle>
         <itunes:author>John Teixeira</itunes:author>
         <itunes:summary>
 
@@ -573,7 +1190,7 @@ Today, we’ll talk about buying a home with a professional inspection. What sho
       
       <item>
         <title>How Is the Mansfield Market Performing this Spring?</title>
-        <link>localhost:5000/mansfield-real-estate-agent-mansfields-13.html</link>
+        <link>http://jtexvideoblog.com/mansfield-real-estate-agent-mansfields-13.html</link>
         
           <category>Market Updates</category>
         
@@ -599,10 +1216,14 @@ For investors, there is a lot of competition out there, just as there is for reg
 If you have any questions, don’t hesitate to give me a call or send me an email. I’d love to hear from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:5000" height="72" width="72"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Mansfield Area Area Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Today we are going to be discussing the current market here in Mansfield. A lot of people have been asking us about the market’s current stats, and we’re here to share an update with you.
+
+</itunes:subtitle>
         <itunes:author>John Teixeira</itunes:author>
         <itunes:summary>
 
@@ -614,7 +1235,7 @@ Today we are going to be discussing the current market here in Mansfield. A lot 
       
       <item>
         <title>Avoid These 4 Mistakes When Selling in Mansfield</title>
-        <link>localhost:5000/mansfield-real-estate-agent-avoid-these-12.html</link>
+        <link>http://jtexvideoblog.com/mansfield-real-estate-agent-avoid-these-12.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -638,10 +1259,14 @@ The final mistake is forgetting about the backyard. We all tend to focus on curb
 If you have any questions, give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:5000" height="72" width="72"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Mansfield Area Area Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+As an experienced Mansfield Realtor, I oftentimes identify common mistakes within the local marketplace. It’s mind-boggling! Today, we’ll review the four most common mistakes, so you can avoid them when selling your home.
+
+</itunes:subtitle>
         <itunes:author>John Teixeira</itunes:author>
         <itunes:summary>
 
@@ -653,7 +1278,7 @@ As an experienced Mansfield Realtor, I oftentimes identify common mistakes withi
       
       <item>
         <title>Introducing Our Newest Team Member</title>
-        <link>localhost:5000/mansfield-real-estate-agent-introducing-11.html</link>
+        <link>http://jtexvideoblog.com/mansfield-real-estate-agent-introducing-11.html</link>
         
           <category>Real Estate</category>
         
@@ -671,10 +1296,14 @@ April’s passion has always been to help others, which she has done for the pas
 If you or anyone you know is looking to buy or sell, don’t forget us! We will use our passion, experience, and teamwork to serve you and your referrals to the best of our ability. Give us a call or send us a quick email to get in touch!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:5000" height="72" width="72"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Mansfield Area Area Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+I hope you are all enjoying a great start to the new year. Today we are very excited to introduce you to the newest member of our team!
+
+</itunes:subtitle>
         <itunes:author>John Teixeira</itunes:author>
         <itunes:summary>
 
@@ -686,7 +1315,7 @@ I hope you are all enjoying a great start to the new year. Today we are very exc
       
       <item>
         <title>Happy Holidays, Mansfield!</title>
-        <link>localhost:5000/mansfield-real-estate-agent-happy-10.html</link>
+        <link>http://jtexvideoblog.com/mansfield-real-estate-agent-happy-10.html</link>
         
           <category>Real Estate</category>
         
@@ -702,10 +1331,14 @@ Today, we thank everyone for your continual support and endless referrals. You�
 Please continue to remember us as our team grows and the market remains hot in 2016! We wish you all happy holidays! We wish you a successful new year.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:5000" height="72" width="72"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Mansfield Area Area Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Today, we thank everyone for your continual support and endless referrals. You’re so important to us. We hope you enjoy the holiday season with your family.
+
+</itunes:subtitle>
         <itunes:author>John Teixeira</itunes:author>
         <itunes:summary>
 
@@ -717,7 +1350,7 @@ Today, we thank everyone for your continual support and endless referrals. You�
       
       <item>
         <title>How Important Is the Age of a Home When Buying?</title>
-        <link>localhost:5000/mansfield-real-estate-agent-old-vs-new-9.html</link>
+        <link>http://jtexvideoblog.com/mansfield-real-estate-agent-old-vs-new-9.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -739,10 +1372,14 @@ My appeal to you is to go with what suits your personality. Don’t let the fact
 If you have any questions, give us a call or send us an email. We look forward to hearing from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:5000" height="72" width="72"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Mansfield Area Area Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Today, we’ll talk about the importance of the age of your home when buying. You may not want an older home because you are looking for a newer neighborhood, or you may prefer an older neighborhood with mature trees. Older homes also have different character than newer homes.
+
+</itunes:subtitle>
         <itunes:author>John Teixeira</itunes:author>
         <itunes:summary>
 
@@ -754,7 +1391,7 @@ Today, we’ll talk about the importance of the age of your home when buying. Yo
       
       <item>
         <title>How to Build Wealth from Real Estate</title>
-        <link>localhost:5000/mansfield-arlington-real-estate-agent-8.html</link>
+        <link>http://jtexvideoblog.com/mansfield-arlington-real-estate-agent-8.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -780,10 +1417,14 @@ If you own a home right now, I invite you to give me a call to talk about invest
 Please don’t hesitate to contact me in regard to Mansfield real estate. I look forward to speaking with you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:5000" height="72" width="72"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Mansfield Area Area Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Real estate is a fantastic way to build wealth. People have been doing it forever, and real estate investments are actually some of the best long-term investments that you can make.
+
+</itunes:subtitle>
         <itunes:author>John Teixeira</itunes:author>
         <itunes:summary>
 
@@ -795,7 +1436,7 @@ Real estate is a fantastic way to build wealth. People have been doing it foreve
       
       <item>
         <title>What's Happening with Mansfield's Inventory Levels?</title>
-        <link>localhost:5000/mansfield-real-estate-agent-inventory-7.html</link>
+        <link>http://jtexvideoblog.com/mansfield-real-estate-agent-inventory-7.html</link>
         
           <category>Market Updates</category>
         
@@ -815,10 +1456,14 @@ It’s different all across the country. In the Northeast, they still aren’t b
 If you have any further questions, please feel free to reach out to me. If you’re thinking of buying or selling a home, call or email me today for a free consultation.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:5000" height="72" width="72"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Mansfield Area Area Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Lately, I’ve found myself explaining real estate inventory levels to many people. Our market is crazy right now, and it seems like there are 10 buyers for each house on the market. Guess what? That’s because there is! Right now, there is a supply and demand problem that primarily affects buyers. Essentially, that problem exists because we have not been fulfilling our industry inventory levels since 2008.
+
+</itunes:subtitle>
         <itunes:author>John Teixeira</itunes:author>
         <itunes:summary>
 
@@ -830,7 +1475,7 @@ Lately, I’ve found myself explaining real estate inventory levels to many peop
       
       <item>
         <title>What's the First Move Before Buying a Home?</title>
-        <link>localhost:5000/mansfield-real-estate-agent-lender-6.html</link>
+        <link>http://jtexvideoblog.com/mansfield-real-estate-agent-lender-6.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -852,10 +1497,14 @@ We have a lender that we refer all our clients to, and that is Trevor Kerr at Ga
 If you have any questions for us, or are looking to buy or sell a home in Mansfield, give us a call or send us an email! We would love to hear from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:5000" height="72" width="72"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Mansfield Area Area Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Welcome back. Today we are asking one of the most common questions we get asked, “What is the first step in the real estate process in Mansfield?”
+
+</itunes:subtitle>
         <itunes:author>John Teixeira</itunes:author>
         <itunes:summary>
 
@@ -867,7 +1516,7 @@ Welcome back. Today we are asking one of the most common questions we get asked,
       
       <item>
         <title>The Pros and Cons of Building a New Home</title>
-        <link>localhost:5000/mansfield-real-estate-agent-build-home-4.html</link>
+        <link>http://jtexvideoblog.com/mansfield-real-estate-agent-build-home-4.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -889,10 +1538,14 @@ Another option is to build a new home, so then you can have a slow move in and h
 If you’re interested in moving up, please contact me and ask about my move up discount. I’d love to help you out!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:5000" height="72" width="72"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Mansfield Area Area Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+There comes a point in time when people need to move into bigger, better homes. Whether it’s because of a growing family or simply a wish to invest in a better property, people do this all of the time.
+
+</itunes:subtitle>
         <itunes:author>John Teixeira</itunes:author>
         <itunes:summary>
 
@@ -904,7 +1557,7 @@ There comes a point in time when people need to move into bigger, better homes. 
       
       <item>
         <title>Have You Been Thinking of Buying a Better Home?</title>
-        <link>localhost:5000/mansfield-real-estate-agent-move-up-5.html</link>
+        <link>http://jtexvideoblog.com/mansfield-real-estate-agent-move-up-5.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -928,10 +1581,14 @@ If you’re thinking of building a new home, I would advise you to use a Realtor
 As always, if you have any questions or concerns, please don’t hesitate to contact me in regards to Mansfield real estate.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:5000" height="72" width="72"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Mansfield Area Area Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+There are a lot of benefits to building a new home in Mansfield, especially right now when we have low inventory.
+
+</itunes:subtitle>
         <itunes:author>John Teixeira</itunes:author>
         <itunes:summary>
 
@@ -943,7 +1600,7 @@ There are a lot of benefits to building a new home in Mansfield, especially righ
       
       <item>
         <title>What Are the Hottest Neighborhoods in Mansfield?</title>
-        <link>localhost:5000/mansfield-real-estate-agent-hot-spots-3.html</link>
+        <link>http://jtexvideoblog.com/mansfield-real-estate-agent-hot-spots-3.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -969,10 +1626,14 @@ Overall, Mansfield is becoming a hot spot to live, so if you plan on buying in t
 I look forward to speaking with you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:5000" height="72" width="72"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Mansfield Area Area Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Today I wanted to discuss some of the more popular neighborhoods in Mansfield. Now is a great time to buy, so these are some of the neighborhoods that you might want to investigate:
+
+</itunes:subtitle>
         <itunes:author>John Teixeira</itunes:author>
         <itunes:summary>
 
@@ -984,7 +1645,7 @@ Today I wanted to discuss some of the more popular neighborhoods in Mansfield. N
       
       <item>
         <title>Do You Know How to Handle Multiple Offer Situations?</title>
-        <link>localhost:5000/mansfield-real-estate-multiple-offers-2.html</link>
+        <link>http://jtexvideoblog.com/mansfield-real-estate-multiple-offers-2.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -1001,10 +1662,14 @@ The important thing to know as a buyer is that your competition will be fierce, 
 If you’re a seller in a multiple offer situation, it’s important to have patience as we expose your property to a large audience of buyers. When you do get multiple offers, you want to ensure that the offers are from pre-qualified buyers, because they’re serious about purchasing a home. Cash offers are also good, but you just want to see proof of funds. However, sometimes cash is not the most important, sometimes the best offer is the one that has the highest likelihood of closing. Every seller has a different motivation, so sometimes it’s also just a matter of what works f
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:5000" height="72" width="72"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Mansfield Area Area Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+The market here in Mansfield is extremely active and we’re seeing a lot of multiple offers happening. This is why I thought I would shed some light on this topic, as a lot of my clients have been asking about it. There are different strategies that buyers and sellers can take when faced with this problem, and I’m here to tell you about them.
+
+</itunes:subtitle>
         <itunes:author>John Teixeira</itunes:author>
         <itunes:summary>
 
@@ -1016,7 +1681,7 @@ The market here in Mansfield is extremely active and we’re seeing a lot of mul
       
       <item>
         <title>How Can You Take Advantage of Mansfield Real Estate?</title>
-        <link>localhost:5000/mansfield-real-estate-market-update-1.html</link>
+        <link>http://jtexvideoblog.com/mansfield-real-estate-market-update-1.html</link>
         
           <category>Market Updates</category>
         
@@ -1038,10 +1703,14 @@ Overall, inventory is extremely low in our area. If your home is worth more than
 If you’d like any assistance buying, selling, or investing in a new home, then please don’t hesitate to reach out to me. I would be very happy to assist you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:5000" height="72" width="72"/>
+        <media:thumbnail url="http://jtexvideoblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Mansfield Area Area Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+People always ask me how the local real estate market is performing, and the answer always depends on whether you’re buying, selling, or investing.
+
+</itunes:subtitle>
         <itunes:author>John Teixeira</itunes:author>
         <itunes:summary>
 

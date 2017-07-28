@@ -6,11 +6,11 @@
 			<span class="sr-only">Toggle navigation</span>
 			<i class="fa fa-bars fa-2x"></i>
 		</button>
-		{% if site.data.settings.client.phone_CTA == true %}
+		<!-- {% if site.data.settings.client.phone_CTA == true %}
 			<button type="button" class="navbar-toggle phone">
 				<a href="tel:{{site.data.settings.client.phone}}"><i class="fa fa-phone fa-2x" aria-hidden="true"></i></a>
 			</button>
-		{% endif %}
+		{% endif %} -->
 	</div>
 
  	<div id="navbarCollapse" class="collapse navbar-collapse">
@@ -27,29 +27,29 @@
 
 		</ul>
 		<ul class="nav navbar-nav navbar-right">
-			{% if site.data.settings.client.first_CTA_text and site.data.settings.client.first_CTA_URL != null %}
+			{% if site.data.settings.ctas.first_CTA_text and site.data.settings.ctas.first_CTA_URL != null %}
 			<li>
-				{% if site.data.settings.client.first_CTA_URL == '/homevalue/' %}
-				<a class="cta" href="{{site.data.settings.client.first_CTA_URL}}">
-					{% elsif site.data.settings.client.first_CTA_URL == '#contact' %}
+				{% if site.data.settings.ctas.first_CTA_URL == '/homevalue/' %}
+				<a class="cta" href="{{site.data.settings.ctas.first_CTA_URL}}">
+					{% elsif site.data.settings.ctas.first_CTA_URL == '#contact' %}
 					<a class="cta" id="contact" href="#contact">
 					{% else %}
-					<a class="cta" href="{{site.data.settings.client.first_CTA_URL}}" target="_blank">
+					<a class="cta" href="{{site.data.settings.ctas.first_CTA_URL}}" target="_blank">
 					{% endif %}
-					{{site.data.settings.client.first_CTA_text}}
+					{{site.data.settings.ctas.first_CTA_text}}
 				</a>
 			</li>
 			{% endif %}
-			{% if site.data.settings.client.second_CTA_text and site.data.settings.client.second_CTA_URL != null %}
+			{% if site.data.settings.ctas.second_CTA_text and site.data.settings.ctas.second_CTA_URL != null %}
 			<li>
-				{% if site.data.settings.client.second_CTA_URL == '/homesearch/' %}
-				<a class="cta2" href="{{site.data.settings.client.second_CTA_URL}}">
-					{% elsif site.data.settings.client.second_CTA_URL == '#contact' %}
+				{% if site.data.settings.ctast.second_CTA_URL == '/homesearch/' %}
+				<a class="cta2" href="{{site.data.settings.ctas.second_CTA_URL}}">
+					{% elsif site.data.settings.ctas.second_CTA_URL == '#contact' %}
 					<a class="cta2" id="contact" href="#contact">
 					{% else %}
-				<a class="cta2" href="{{site.data.settings.client.second_CTA_URL}}" target="_blank">
+				<a class="cta2" href="{{site.data.settings.ctas.second_CTA_URL}}" target="_blank">
 				{% endif %}
-					{{site.data.settings.client.second_CTA_text}}
+					{{site.data.settings.ctas.second_CTA_text}}
 				</a>
 			</li>
 			{% endif %}

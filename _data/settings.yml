@@ -22,11 +22,11 @@ client:
   phone2_type:
   email: john@trgdfw.com
   url: http://www.johnteixeira.com
+ctas:
   first_CTA_text: Home Evaluation
-  first_CTA_URL: http://www.jtexsells.com/evaluation
+  first_CTA_URL: http://www.trgdfw.com/evaluation
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.jtexsells.com/listing
-  phone_CTA: false
+  second_CTA_URL: http://www.trgdfw.com/listing
   VR_form: http://oi.vresp.com?fid=e45d0c2036
 welcome_headline: Get Educated About Real Estate
 welcome_text_markdown: |
