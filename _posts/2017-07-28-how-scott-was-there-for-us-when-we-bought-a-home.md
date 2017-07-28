@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Scott Was There For Us When We Bought A Home
-date: 2017-07-28 13:15:19
+date: 2017-07-28 13:15:00
 tags:
 excerpt:
 enclosure:
@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/hollinger-audio-graphic.jpg
 youtube_code:
 ---
 
