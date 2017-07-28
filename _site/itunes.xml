@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title>Salt Lake County Real Estate Podcast with Joshua Stern</title>
+    <title>Salt Lake City Real Estate Podcast with Joshua Stern</title>
     <link>http://sternteam.org</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://sternteam.org"/>
-    <description>If you are looking to buy or sell a Salt Lake County home, get all the information and the latest updates, tips, and tricks from The Stern Team - your professional Salt Lake City Real Estate Agents.</description>
+    <description>If you are looking to buy or sell a Salt Lake City home, get all the information and the latest updates, tips, and tricks from The Stern Team - your professional Salt Lake City Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Joshua Stern</managingEditor>
-    <lastBuildDate>2017-01-24 09:36:43 -0600</lastBuildDate>
+    <lastBuildDate>2017-07-28 13:53:35 -0500</lastBuildDate>
     <media:copyright>Joshua Stern</media:copyright>
     <media:thumbnail url="http://sternteam.org/img/Stern_podcast.png"/>
-    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
+    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
       <itunes:email>josh@servingsaltlake.com</itunes:email>
@@ -19,14 +19,511 @@
     <itunes:author>Joshua Stern</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://sternteam.org/img/Stern_podcast.png"/>
-    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a Salt Lake County home, get all the information and the latest updates, tips, and tricks from The Stern Team - your professional Salt Lake City Real Estate Agents.</itunes:summary>
+    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake City Real Estate Market</itunes:subtitle>
+    <itunes:summary>If you are looking to buy or sell a Salt Lake City home, get all the information and the latest updates, tips, and tricks from The Stern Team - your professional Salt Lake City Real Estate Agents.</itunes:summary>
       <itunes:category text="News &amp; Politics"/>
     
       <item>
+        <title>Need to Dispute Your Property Tax Assessment?</title>
+        <link>http://sternteam.org/need-to-dispute-your-property-tax-assessment.html</link>
+        
+          <category>Tax Assessment</category>
+        
+        <author>Joshua Stern</author>
+        <pubDate>2017-07-18 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/July/The+Stern+Team-+Property+Tax+Assessments.mp4</guid>
+        <description>
+
+In Utah, July is known for many things. One of the lesser-known things is the fact that it’s also the month we get our property tax assessment notices in the mail.
+
+I’m not an expert as to how the county calculates property tax values, but I do know one thing: they’re not always on the mark. The assessment is comprised of your proposed tax assessment for 2016 and the change in value from 2015 to 2016.
+
+We’ve been helping our clients dispute these tax evaluations for years, so if you feel like your 2016 property tax assessment is too high, send us the front part of your notice. We’ll take a look at the value and provide you with three to five comparable sales to your property that may show a lower value. You can then fill out the official appeal form and send it in by September 15th along with the comparable sales we provided you.
+
+“This is a free service we offer.”
+
+If you purchased your property in the past year and the purchase price was less than the assessed value, you can simply fill out the appeal form and send in the HUD settlement statement you signed at the title company. To get the process started click HERE.  
+
+Sample Property Valuation Form
+
+If you had an appraisal done in 2016 or early 2017 that came in lower than the tax assessed value, you can send in a copy of that appraisal with your appeal form.
+
+This is a free service we offer to our past clients, current clients, and anyone who’s sent us a referral. Once you’ve sent in your appeal, you should know where you stand. Hopefully, the final decision rendered by the county is one that benefits you.
+
+If you have any other questions about disputing your property tax assessment or you’re looking to buy or sell a home in our market, don’t hesitate to reach out to us. We’d be happy to assist you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/July/The+Stern+Team-+Property+Tax+Assessments.mp4" length="10:39 am" type="video/mp4"/>
+        <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/July/The+Stern+Team-+Property+Tax+Assessments.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Do you feel like your property tax assessment is too high? If so, we can help you. As you know, the county calculates your property tax value, and these values aren’t always on the mark. There is an appeal process that we can assist you with so you can get a second opinion on your assessment. To find out how this process works and what you need to do to appeal your assessment, watch our latest video.</itunes:subtitle>
+        <itunes:author>Joshua Stern</itunes:author>
+        <itunes:summary>Do you feel like your property tax assessment is too high? If so, we can help you. As you know, the county calculates your property tax value, and these values aren’t always on the mark. There is an appeal process that we can assist you with so you can get a second opinion on your assessment. To find out how this process works and what you need to do to appeal your assessment, watch our latest video.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Does Gary LeVox of Rascal Flatts Trust The Stern Team?</title>
+        <link>http://sternteam.org/why-does-gary-levox-of-rascal-flatts-trust-the-stern-team.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Joshua Stern</author>
+        <pubDate>2017-06-29 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/Utah+Real+Estate+Team+Gary+LeVox+Endorses+The+Stern+Team.mp4</guid>
+        <description>
+
+Recently, my team and I received a fantastic endorsement from Gary LeVox, lead singer of the Grammy award-winning country music group, Rascal Flatts. 
+
+Gary is a respected artist who approaches his craft with the same heart and passion that my team and I have for each real estate transaction. Here is what Gary had to say: 
+
+“When ‘I’m Moving On’ won the award for ACM song of the year, it struck a chord with folks who understand the challenges that come with life’s big changes. For many, that time comes when they sell their home. If you’re moving on, you want a real estate agent who will make selling your home easy and stress-free.” - Gary LeVox 
+
+“It is our goal to make your transaction a smooth one.”
+
+It is always our goal to make your transaction a smooth one. If we can’t sell your home at a price and deadline that we both agree to, we will buy it. 
+
+Please check out the video above for the complete endorsement. If you have any real estate questions, give me a call or send me an email. I would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/Utah+Real+Estate+Team+Gary+LeVox+Endorses+The+Stern+Team.mp4" length="10:39 am" type="video/mp4"/>
+        <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/Utah+Real+Estate+Team+Gary+LeVox+Endorses+The+Stern+Team.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Recently, The Stern Team was fortunate enough to be endorsed by Gary LeVox of Rascal Flatts!</itunes:subtitle>
+        <itunes:author>Joshua Stern</itunes:author>
+        <itunes:summary>Recently, The Stern Team was fortunate enough to be endorsed by Gary LeVox of Rascal Flatts!</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Did Our Wasatch Front Market Do in the 1st Quarter?</title>
+        <link>http://sternteam.org/how-did-our-wasatch-front-market-do-in-the-1st-quarter.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Joshua Stern</author>
+        <pubDate>2017-06-20 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/June/The+Stern+Team-+How+Did+Our+Wasatch+Front+Market+Do+in+the+1st+Quarter%253F.mp4</guid>
+        <description>
+
+How does the first quarter of 2017 compare to the first quarter of 2016 along the Wasatch Front?
+
+First, our average sold home price is at $308,000, which is up 11% from the $277,000 mark set last year. The average days on market decreased 10% from 59 days to 53 days. We’re seeing the number of available homes to sell also decrease, as our inventory—which was already low in 2016—has decreased another 4.25%. As a result, the average price for listings is up 8.5%.
+
+What’s interesting is that the number of properties in the “pending” status—meaning the offer has been accepted between the buyer and seller and is waiting for closing—exceeds the number of properties actively for sale. The failure rate of pending properties is also higher than in years past, which means we’re having more appraisal issues and buyers getting cold feet or finding a property they like better and canceling the contract. Either way, as a buyer in this market, it’s a good idea to consider placing a backup offer on a property you want because there’s a 24% chance you’ll win it.
+
+“Take advantage of this market while you can.”
+
+Under the $350,000 price point, there is less than a two-month supply of inventory, which means it’s a great time to be a seller and the waters are a little bit testier for buyers. If you’re a buyer, make sure you have a winning strategy before entering this market.
+
+Based on my experience coaching other top agents across the country, the market in Utah is similar to the markets all across the nation. Inventory is tight, prices have risen, interest rates are still very low, and I suspect we’ll see this type of market throughout the summer and fall and perhaps the rest of 2017.
+
+If you have any questions about our market or you’re thinking of buying or selling a home, don’t hesitate to give me a call or shoot me an email. I’d be glad to help.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/June/The+Stern+Team-+How+Did+Our+Wasatch+Front+Market+Do+in+the+1st+Quarter%253F.mp4" length="10:39 am" type="video/mp4"/>
+        <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/June/The+Stern+Team-+How+Did+Our+Wasatch+Front+Market+Do+in+the+1st+Quarter%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today I want to give you a first quarter market update for the entire Wasatch Front. I have the latest statistics, and the way they stack up compared to last year’s first quarter numbers tell us it’s a great time to sell your house and a trickier time to be a homebuyer. The average sold home price rose 11% from $277,000 to $308,000. The average days on market decreased 10% from 59 days to 53 days. To learn more about how our Wasatch Front market did this past quarter and how you can take advantage of it, watch my latest video.</itunes:subtitle>
+        <itunes:author>Joshua Stern</itunes:author>
+        <itunes:summary>Today I want to give you a first quarter market update for the entire Wasatch Front. I have the latest statistics, and the way they stack up compared to last year’s first quarter numbers tell us it’s a great time to sell your house and a trickier time to be a homebuyer. The average sold home price rose 11% from $277,000 to $308,000. The average days on market decreased 10% from 59 days to 53 days. To learn more about how our Wasatch Front market did this past quarter and how you can take advantage of it, watch my latest video.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Buying a Salt Lake City Home With High Student Loan Debt</title>
+        <link>http://sternteam.org/buying-a-salt-lake-city-home-with-high-student-loan-debt.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Joshua Stern</author>
+        <pubDate>2017-06-05 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/June/The+Stern+Team-+Buying+a+Salt+Lake+City+Home+With+High+Student+Loan+Debt.mp4</guid>
+        <description>
+
+Today I’m here with Jayson Kisselburg from Veritas Funding with some good news for those buying a home with a lot of student loan debt.
+
+Student loan debt in America is incredible, as college is not cheap. If you have a lot of student debt, it can be daunting to purchase a home. However, Fannie Mae, one of the mortgage giants in our country, actually allows you to do a cash-out loan on your property.
+
+Basically, your home will be appraised and then you can take out a substantial amount of equity to pay off those student loans.
+
+When you pull the equity out to pay off your student loans, the loan is then tied against the house, which turns it into a tax deduction. When the time comes to sell your house, you can actually sell your home student-loan free.
+
+“This Fannie Mae program will help more people with student debt qualify for home loans.”
+
+Another benefit of this program is that if you qualify for another Wasatch Front home now, then you don’t have to report that debt against your income. Before, you would have to include a payment all the way up to 1%, no matter what the credit bureaus were reporting. Now, we can go off the exact payment from your student loan company.
+
+As a loan officer, Jayson sees a lot high student loan debt. Fannie Mae offers a way for more people to qualify to buy a home.
+
+This is great because student loan debt is a real problem in the U.S. Finally, the government stepped in with the Fannie Mae program to actually help people with student debt get into a home.
+
+If you have any questions about how to qualify for a home loan, make sure you contact Jayson at 801-638-1005 or sternteamlending@vfund.com.
+
+As always, if you have any Salt Lake City real estate questions, please don’t hesitate to reach out to the Stern Team. We would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/June/The+Stern+Team-+Buying+a+Salt+Lake+City+Home+With+High+Student+Loan+Debt.mp4" length="10:39 am" type="video/mp4"/>
+        <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/June/The+Stern+Team-+Buying+a+Salt+Lake+City+Home+With+High+Student+Loan+Debt.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Jayson Kisselburg from Veritas Funding joins me today to discuss some good news for those of you who have high student loan debt but want to buy a home. College loan debt is a burden for many Americans and finally, the government has stepped in with a new Fannie Mae program to help. This program allows you to take equity out of your current home and use it to pay off your student loans. To learn how exactly this program can benefit you, watch this short video.</itunes:subtitle>
+        <itunes:author>Joshua Stern</itunes:author>
+        <itunes:summary>Jayson Kisselburg from Veritas Funding joins me today to discuss some good news for those of you who have high student loan debt but want to buy a home. College loan debt is a burden for many Americans and finally, the government has stepped in with a new Fannie Mae program to help. This program allows you to take equity out of your current home and use it to pay off your student loans. To learn how exactly this program can benefit you, watch this short video.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Agents Choose to Work on The Stern Team</title>
+        <link>http://sternteam.org/why-agents-choose-to-work-on-the-stern-team.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Joshua Stern</author>
+        <pubDate>2017-05-22 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/Salt+Lake+County+Real+Estate+Agent-+Heres+Why+Glenn+Beck+Endorses+Our+Team.mp4</guid>
+        <description>
+
+At The Stern Team, we believe that when we take care of other people’s needs, our own needs are taken care of too. We have a big focus on making sure our client experience is exceptional. We do the same for our agents.
+
+With The Stern Team, you’ll get one-on-one mentorship, coaching, consulting, training, leadership, and motivation. Our culture is open, welcoming, and inviting. All of our training information and education is available to our agents daily. We are focused on taking care of people’s needs.
+
+Not just our clients’ needs, but the needs of each member on our team as well. Their business needs, their personal needs, and their financial needs. With a team, together everyone achieves more.
+
+“The Stern Team is simply the best choice.”
+
+Don’t just take our word for it, however. Here is what a few Stern Team agents had to say about working on this team.
+
+“Who wouldn’t want to be on the number one real estate team in Utah? The Stern Team has the most amazing people. They’ve been super open to me, very welcoming and make me feel like I’m really part of the team.”- Tara Horton
+
+“As a seasoned agent, I thrive in a supportive environment with coaching and accountability. If I was going to join a team, I wanted to make sure I joined the best team around in Salt Lake County and I feel like The Stern Team is the best choice.” - Cyndi Shelton
+
+“What I love most about being on the Stern Team is that I have this vast resource of people who have been in the business for such a long time. All the training, all the information and education that I gain daily from being on the team is priceless.” - Jacquie Reagh
+
+If you want to learn more about joining The Stern Team, one of the top real estate teams in Salt Lake County, give us a call or send us an email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/Salt+Lake+County+Real+Estate+Agent-+Heres+Why+Glenn+Beck+Endorses+Our+Team.mp4" length="10:39 am" type="video/mp4"/>
+        <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/Salt+Lake+County+Real+Estate+Agent-+Heres+Why+Glenn+Beck+Endorses+Our+Team.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Why do agents choose to join The Stern Team? It could be because we are the top team in the state of Utah. It could be because we offer one-on-one mentorship, coaching, training, and motivation. For these three women, it was all the above. To see what some of our own agents have to say about working on our team, watch this short video.</itunes:subtitle>
+        <itunes:author>Joshua Stern</itunes:author>
+        <itunes:summary>Why do agents choose to join The Stern Team? It could be because we are the top team in the state of Utah. It could be because we offer one-on-one mentorship, coaching, training, and motivation. For these three women, it was all the above. To see what some of our own agents have to say about working on our team, watch this short video.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Answering Some Important Questions About Radon Gas</title>
+        <link>http://sternteam.org/answering-some-important-questions-about-radon-gas.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Joshua Stern</author>
+        <pubDate>2017-05-08 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/May/Salt+Lake+County+Real+Estate+Agent-+Answering+Some+Important+Questions+About+Radon+Gas+(1).mp4</guid>
+        <description>
+
+What is radon gas and where does it come from?
+
+Radon gas is a colorless, odorless, tasteless, radioactive gas that is formed during the natural breakdown of uranium in soil, rock, and water. Radon exits the ground and can seep into your home through cracks and holes in the foundation. Radon gas can also contaminate well water.
+
+Radon gas is the second leading cause of lung cancer in the United States. The first leading cause of lung cancer is of course smoking, which kills 120,000 people every year. Radon kills anywhere from 20,000 to 22,000 people per year.
+
+At what level should you be concerned about radon gas? There is no safe level of radon gas. However, the U.S. EPA has indicated that any home that tests four picocuries per liter should be mitigated. If there are less than four picocuries, you are still at risk for lung cancer. Again, there is no safe level.
+
+“There is no safe level of radon gas.”
+
+How can you test for radon gas? Testing for radon gas is very simple. You can test the home yourself, or you can have a professional test the home. When selling a home, a third-party tester is recommended to get a non-partial, certified test.
+
+Are there any myths about radon gas people should be aware of? There are actually a number of myths and misinformation out there. For example, people will say they did a radon test but the home was closed up for a month, giving them an inaccurate test. However, radon has a half-life of three-and-a-half days, so even if a home is vacant for a month, the test will be accurate.
+
+If you have any questions for Dave you can send him an email at dave@hometekutah.com or give me call at (801) 673-5050.
+
+As always, if you have any questions for me or are looking to buy or sell a home, please don’t hesitate to give me a call or send me an email. I’m always happy to help.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/May/Salt+Lake+County+Real+Estate+Agent-+Answering+Some+Important+Questions+About+Radon+Gas+(1).mp4" length="1:16 pm" type="video/mp4"/>
+        <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/May/Salt+Lake+County+Real+Estate+Agent-+Answering+Some+Important+Questions+About+Radon+Gas+(1).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today I’m joined by my friend Dave Evans with HomeTek Radon Mitigation Services to answer some important questions about radon gas.</itunes:subtitle>
+        <itunes:author>Joshua Stern</itunes:author>
+        <itunes:summary>Today I’m joined by my friend Dave Evans with HomeTek Radon Mitigation Services to answer some important questions about radon gas.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>6 Home Selling Mistakes That Can Sink Your Sale</title>
+        <link>http://sternteam.org/6-home-selling-mistakes-that-can-sink-your-sale.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Joshua Stern</author>
+        <pubDate>2017-04-21 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/Salt+Lake+County+Real+Estate+Agent-+Heres+Why+Glenn+Beck+Endorses+Our+Team.mp4</guid>
+        <description>
+
+When you sell your house, there are six mistakes that can sink your sale. Here’s how to avoid them:
+
+1. Don’t go it alone: Use a Realtor to help you because 90% of home sales in 2016 took place with one. The National Association of Realtors found last year that homes sold by their owner fetched an average of $210,000 while homes sold with a Realtor sold for $249,000. They sold faster, too.
+
+2. Don’t decide on an agent based on the price they tell you they’ll sell your house for: Instead, ask them their strategy for marketing your home.
+
+3. Don’t trust automated values: They’re easy to find on Zillow or Trulia, but since Utah is a non-disclosure state, it’s impossible for them to see comparable home sales. We often find these values are much higher or lower than your home’s true market value, so make sure you get a complete equity evaluation.
+
+“Buyers are sensitive to a home’s presentation.”
+
+4. Have professional photos of your home taken: 100% of buyers will decide whether they want to see your home in person based on what they see online, and they gravitate toward great photos. Don’t try to take listing photos with an iPhone! Waiting an extra week for a professional photographer is well worth it.
+
+5. Don’t ignore your agent’s request for some fixes around the home: You might want to consider staging as well, or at a minimum, a deep clean. Buyers are sensitive to a home’s presentation and they have no imagination.
+
+6. Don’t refuse to negotiate: You might receive low offers and it’s easy to get offended, but always send a counteroffer, even if it’s just $100 off of your list price. You always want to keep things moving forward. Drawing a line in the sand sends a message to the buyer that you’re not really interested in selling. Instead, say something like, “I really appreciate you taking the time to put an offer together, but unfortunately, it doesn’t allow us to exit the property with what we need. So, we’d like to give you a counteroffer back at XX.”
+
+As always, give me a call or send me an email if you have any questions or you’re thinking of buying or selling a home in Salt Lake County. I look forward to helping you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/Salt+Lake+County+Real+Estate+Agent-+Heres+Why+Glenn+Beck+Endorses+Our+Team.mp4" length="1:50 pm" type="video/mp4"/>
+        <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/Salt+Lake+County+Real+Estate+Agent-+Heres+Why+Glenn+Beck+Endorses+Our+Team.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>When you sell your house, there are a few steps you can take to put yourself in a great position to sell quickly and for the most money possible. However, there are also plenty of things you can do that can sink your home’s sale. Today, I wanted to highlight the top six home sale sinkers that you should avoid at all costs. For example, you don’t want to do it on your own, because people who hire an agent sell their house faster and for tens of thousands of dollars more on average. To learn more, watch my latest video.</itunes:subtitle>
+        <itunes:author>Joshua Stern</itunes:author>
+        <itunes:summary>When you sell your house, there are a few steps you can take to put yourself in a great position to sell quickly and for the most money possible. However, there are also plenty of things you can do that can sink your home’s sale. Today, I wanted to highlight the top six home sale sinkers that you should avoid at all costs. For example, you don’t want to do it on your own, because people who hire an agent sell their house faster and for tens of thousands of dollars more on average. To learn more, watch my latest video.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Sets Realtors Apart From Normal Agents?</title>
+        <link>http://sternteam.org/what-sets-realtors-apart-from-normal-agents.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Joshua Stern</author>
+        <pubDate>2017-04-12 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/April/Salt+Lake+County+Real+Estate+Agent-+What+Sets+Realtors+Apart+From+Normal+Agents%253F.mp4</guid>
+        <description>
+
+Some people think that all real estate agents are Realtors. What makes a Realtor different than a real estate agent?
+
+A career in real estate is complicated enough, and many brokerages require their agents to become Realtors, but it’s not legally required. So, your Realtor is a real estate agent or an affiliated professional who is also a member of the National Association of Realtors, or the NAR for short. Realtors are located all across the world, and if you ask them what sets them apart from a regular real estate agent, they’ll point out being held to a higher standard.
+
+That higher standard is called the Realtor Code of Ethics. If you can believe, real estate agents were considered peddlers way back in the early 1900s. When they agree to become a Realtor, they must agree to conduct their business in a way that adheres to the NAR Code of Ethics, which covers ethical requirements that deal with all aspects of the job from working with consumers and fellow agents to creating truthful advertising.
+
+Multiple listing services (or MLS) are groups of local agents who have banded together in order to share listings more effectively. Most of these groups are affiliated with their state and national Realtor associations, and typically require all MLS agents to become members of both those groups. Agents pay dues to their state and to local Realtor organizations, and they may also pay fees to maintain their membership with local MLSs. Realtors can also be held accountable for their actions; you can file a complaint against another Realtor, and the organization accepts complaints from consumers, as well. Complaints can affect membership status, and at times, fines can be levied against members who have been involved in wrongdoings.
+
+“Realtors are held to a higher standard and a code of ethics.”
+
+Licenses in the U.S. are granted by each state and only the state can revoke it. Complaints are first assessed by a grievance committee, which is made up of volunteers. The group doesn’t establish whether the complaint is valid or true, but rather determines if the facts as stated are true and whether there could be a violation or the Code of Ethics. If the answer is yes, a hearing date is established. A complaint is generally based on a possible violation of an article of the Code of Ethics. During the hearing, the Realtor can obtain legal counsel and will get an opportunity to present their side. The verdict is final and if the Realtor is found guilty, the punishment can include temporary or permanent revocation of benefits or could include a monetary fine.
+
+Now, Realtors also have to continue their education—all licensed agents are required to take continuing education courses approved by their state licensing board, and to retain membership in the NAR, Realtors must take additional continuing education classes, which are often focused on ethical work habits and other consumer protection topics. Realtors must complete an ethics course every two years.
+
+If you have any other questions about what sets Realtors apart from regular real estate agents, don’t hesitate to give us a call. We’d be glad to help!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/April/Salt+Lake+County+Real+Estate+Agent-+What+Sets+Realtors+Apart+From+Normal+Agents%253F.mp4" length="10:39 am" type="video/mp4"/>
+        <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/April/Salt+Lake+County+Real+Estate+Agent-+What+Sets+Realtors+Apart+From+Normal+Agents%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What sets Realtors apart from regular real estate agents? Many people use the two terms interchangeably, but not all agents are true Realtors. In fact, Realtors are held to a higher standard of practice and ethics and belong to state and national boards. They must also continue their education in real estate constantly. For more details on the difference between real estate agents and Realtors and what it means for you, watch my latest video.</itunes:subtitle>
+        <itunes:author>Joshua Stern</itunes:author>
+        <itunes:summary>What sets Realtors apart from regular real estate agents? Many people use the two terms interchangeably, but not all agents are true Realtors. In fact, Realtors are held to a higher standard of practice and ethics and belong to state and national boards. They must also continue their education in real estate constantly. For more details on the difference between real estate agents and Realtors and what it means for you, watch my latest video.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to Freshen Your Home up After the Winter Months</title>
+        <link>http://sternteam.org/how-to-freshen-your-home-up-after-the-winter-months.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Joshua Stern</author>
+        <pubDate>2017-03-27 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/March/Salt+Lake+County+Real+Estate+Agent-+How+to+Freshen+Your+Home+Up+After+the+Winter+Months.mp4</guid>
+        <description>
+
+Spring’s nearly here and as a homeowner, it’s an exciting time to get your home ready. Many parts of the house might have been neglected or unused over the winter since you’re staying inside for most of the season, so it’s important to get out and check on these things.
+
+The first thing you should check on is your hose bibs. If you left your hose open over the winter, you could have frozen or cracked pipes. Before you turn the bib back on, remove the hose and turn on the water—if no water comes out, you could have an issue with a cracked or broken pipe, which could leak into your house. You can also have someone inside the house look at the spot where the bib comes into the house while you turn the water on to make sure.
+
+Outside your home, take a look at any caulking around the windows and doors, as well as the condition of the weather stripping around windows. Now is also a good time to wash away any winter muck from the windows as well.
+
+“Spring is a great time for your annual HVAC service, which you may need to maintain the warranty.”
+
+While you’re at it, take a look at your shingles and roof. If you noticed any big icicles in any areas of your house during the wintertime, it could be a sign of ice damming. In that case, you might want to put additional insulation around the eaves where the icicles occurred.
+
+Also take a look to see if your gutters need to be re-secured to your house or cleaned. Finally, put some accordion-style downspout extenders on to keep the water away from the foundation.
+
+Inside your home, now is a great time to change your HVAC filter and have the system serviced. Many people don’t realize that if you don’t have them serviced annually, you can actually void the warranty.
+
+Lastly, take a look in your attic for any water stains on the sheathing. You could have cracked or corroded vent pipes, or you might need to add flashing to your roof where two gable ends meet.
+
+If you have any questions about refreshing your home this spring or you’re thinking of selling your home in the Salt Lake area, give me a call or send me an email. I’d be glad to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/March/Salt+Lake+County+Real+Estate+Agent-+How+to+Freshen+Your+Home+Up+After+the+Winter+Months.mp4" length="10:39 am" type="video/mp4"/>
+        <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/March/Salt+Lake+County+Real+Estate+Agent-+How+to+Freshen+Your+Home+Up+After+the+Winter+Months.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>With spring just around the corner, now is a great time to start taking care of some important home maintenance items. Most people tend to neglect certain parts of their home during the winter when we spend most of our time inside. For example, go outside your home to check out exterior caulking, your shingles, and places on your home where icicles formed during the winter. It's also a great time for annual HVAC servicing, which might even be mandatory to keep your warranty. For more tips, watch this short video.</itunes:subtitle>
+        <itunes:author>Joshua Stern</itunes:author>
+        <itunes:summary>With spring just around the corner, now is a great time to start taking care of some important home maintenance items. Most people tend to neglect certain parts of their home during the winter when we spend most of our time inside. For example, go outside your home to check out exterior caulking, your shingles, and places on your home where icicles formed during the winter. It's also a great time for annual HVAC servicing, which might even be mandatory to keep your warranty. For more tips, watch this short video.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How We Do Things at The Stern Team</title>
+        <link>http://sternteam.org/how-we-do-things-at-the-stern-team.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Joshua Stern</author>
+        <pubDate>2017-03-14 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/March/Salt+Lake+County+Real+Estate+Agent-+How+We+Do+Things+at+The+Stern+Team.mp4</guid>
+        <description>
+
+“People don’t care how much we know until they know how much we care.”
+
+Since 2002, that’s been our motto at The Stern Team. Today we asked our own employees how we uphold this motto. In the video above, you can get an idea of what it’s like to work for us in their own words.
+
+“We are proud of our guaranteed sale program.”
+
+Some of them are former clients of ours who appreciated our service so much that they decided they wanted to be a part of our team. Some wanted to learn from the best. Others wanted to maximize their potential and knew we had the ability to train them to take their careers to the next level.
+
+How can we take your career to the next level just like we did theirs? We offer a great platform to build your own business and reach your goals in a much faster way than you could on your own with structure, mentorship, training, and accountability. Between our employees, the theme isn’t competition—it’s contribution. We’re invested in your happiness and your success.
+
+If you have any questions or are looking to buy, sell, or invest in real estate, please don’t hesitate to reach out to us. We look forward to helping you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/March/Salt+Lake+County+Real+Estate+Agent-+How+We+Do+Things+at+The+Stern+Team.mp4" length="10:34 am" type="video/mp4"/>
+        <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/March/Salt+Lake+County+Real+Estate+Agent-+How+We+Do+Things+at+The+Stern+Team.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Why work with us here at The Stern Team? Today we want to share with you a few testimonials from our own employees. Some of them were clients of ours who joined because they wanted to be a part of the service we offer. Others stayed because of our ability to take their career to the next level. To learn more about how we do things at The Stern Team, watch our latest video.</itunes:subtitle>
+        <itunes:author>Joshua Stern</itunes:author>
+        <itunes:summary>Why work with us here at The Stern Team? Today we want to share with you a few testimonials from our own employees. Some of them were clients of ours who joined because they wanted to be a part of the service we offer. Others stayed because of our ability to take their career to the next level. To learn more about how we do things at The Stern Team, watch our latest video.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Where Buyers and Sellers Stand in Our Market</title>
+        <link>http://sternteam.org/where-buyers-and-sellers-stand-in-our-market.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Joshua Stern</author>
+        <pubDate>2017-02-27 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/February/Salt+Lake+County+Real+Estate+Agent-+Is+Our+Late+Winter+Market+Favoring+Buyers+or+Sellers%253F.mp4</guid>
+        <description>The supply of homes coming onto the Wasatch Front market has dwindled lately. Where has this left homebuyers and sellers?
+
+
+
+What’s been happening the last 60 days across the Wasatch Front market?
+
+Single-family homes are entering market much more slowly than buyers would like. Only 1,532 have been listed since January 1st. Compare that to the nearly 25,000 homes that sold in 2016 and you can understand their frustration.
+
+Pair that with the fact that 2,204 homes have moved into pending status (meaning the offer was accepted between the buyer and seller and it’s waiting to close) since the beginning of the year and you can see there are a lot more homes going off the market than coming onto it. 2,538 homes have sold since the beginning of the year, which means we’ve had a total of 4,742 homes that were for sale come off the market.
+
+Moving into the condo and townhome market, we see a similar pattern in that we have an undersupply of inventory. There are 557 condos and townhomes currently for sale, with 752 in a pending status. 750 condos and townhomes have sold since the beginning of the year.
+
+All markets are driven by supply and demand. In real estate, it’s considered a level market when there is a four- to six-month supply of homes available. We currently have about a 1.5-month supply of single-family homes. This favors the seller considerably. We also have about 1.75-month supply of townhomes and condos. This too favors sellers.
+
+“Our market favors sellers right now.”
+
+If you are a buyer in this market, hire an agent who either has immediate access to homes that come on the market that fit your criteria or knows about homes getting ready to be listed, which we call pre-list properties.
+
+On our team, we call this our VIP Buyer System, which guarantees our clients priority access to all listings from all brokerages. They also have advanced notice of our pre-list properties as well as a full-time buyer’s agent whose only job is to get them in front of these homes and weed out the competition.
+
+If you are a seller, this may be your time to shine. Take advantage of staging and get professional photos taken. You only get once chance at a first impression, and almost all buyers start looking for homes online.
+
+Be sure your agent launches the home live on the market to all buyers at the same time and has a grand opening that weekend. That way, all interested buyers have an equal opportunity to view your home. This also ensures you won’t have to show your home weeks or months at a time and increases the likelihood that you’ll generate multiple offers and create an auction-like environment to sell your home for the most amount of money possible.
+
+If you have any other questions about our market or are looking to buy or sell a home, feel free to call me or send me an email. I’d be happy to help!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/February/Salt+Lake+County+Real+Estate+Agent-+Is+Our+Late+Winter+Market+Favoring+Buyers+or+Sellers%253F.mp4" length="10:15 am" type="video/mp4"/>
+        <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/February/Salt+Lake+County+Real+Estate+Agent-+Is+Our+Late+Winter+Market+Favoring+Buyers+or+Sellers%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>How’s the Wasatch Front real estate market been doing these last two months? Single-family homes are entering market much more slowly than homebuyers would prefer. There are a lot more homes going off the market than coming onto it. Inventory is low for single-family homes, condos, and townhomes. To learn more about the state of our market and what you should do as a buyer or seller to take advantage of these conditions, watch my latest video.</itunes:subtitle>
+        <itunes:author>Joshua Stern</itunes:author>
+        <itunes:summary>How’s the Wasatch Front real estate market been doing these last two months? Single-family homes are entering market much more slowly than homebuyers would prefer. There are a lot more homes going off the market than coming onto it. Inventory is low for single-family homes, condos, and townhomes. To learn more about the state of our market and what you should do as a buyer or seller to take advantage of these conditions, watch my latest video.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>You’re Invited to Our Death By Chocolate Party!</title>
+        <link>http://sternteam.org/youre-invited-to-our-death-by-chocolate-party.html</link>
+        
+          <category>Market Update</category>
+        
+          <category>Real Estate</category>
+        
+          <category>Home Buyer Tips</category>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Joshua Stern</author>
+        <pubDate>2017-01-23 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/January/Salt+Lake+County+Real+Estate+Agent-+What+Is+a+Bridge+Loan%253F.mp4</guid>
+        <description>
+
+We have a very important message for you today.
+
+We want you to come to our Death By Chocolate party on March 7th from 5 p.m. to 8 p.m.
+
+“Join us on March 7th from 5 p.m. to 8 p.m.”
+
+This is a party we put on for all of our current and past clients as a way of saying thank you for all you’ve done for the Stern Team. If you are interested in attending, please click here.
+
+If you have any questions about this party, feel free to reach out to us so we can fill you in on any details. We look forward to seeing you there!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/January/Salt+Lake+County+Real+Estate+Agent-+What+Is+a+Bridge+Loan%253F.mp4" length="1:02 pm" type="video/mp4"/>
+        <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/January/Salt+Lake+County+Real+Estate+Agent-+What+Is+a+Bridge+Loan%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>As a current or past client of ours, you’re hereby invited to a party we’re throwing soon. It’s our way of saying thank you for all you’ve done for the Stern Team. This is no ordinary party, though. It’s involves death by chocolate. To find out more, watch our latest video.</itunes:subtitle>
+        <itunes:author>Joshua Stern</itunes:author>
+        <itunes:summary>As a current or past client of ours, you’re hereby invited to a party we’re throwing soon. It’s our way of saying thank you for all you’ve done for the Stern Team. This is no ordinary party, though. It’s involves death by chocolate. To find out more, watch our latest video.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Is a Bridge Loan?</title>
+        <link>http://sternteam.org/what-is-a-bridge-loan-copy.html</link>
+        
+          <category>Market Update</category>
+        
+          <category>Real Estate</category>
+        
+          <category>Home Buyer Tips</category>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Joshua Stern</author>
+        <pubDate>2017-01-23 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/January/Salt+Lake+County+Real+Estate+Agent-+What+Is+a+Bridge+Loan%253F.mp4</guid>
+        <description>
+
+What is a bridge loan? Bridge loans are popular when you are purchasing another home before selling your current one.
+
+In that scenario, there are two common ways to find the down payment for the new home. One way is financing through a bridge loan and the other is a home equity loan, or line of credit.
+
+I advise sellers to wait until they sell their current home before they buy another one. However, some people can’t do that.
+
+“There are many benefits to using a bridge loan.”
+
+Bridge loans are temporary loans that bridge the gap between the sales price of your new home and the new mortgage in the event that your home has not yet sold. The bridge loan is secured to your existing home. Then, the funds from the bridge loan are used as a down payment for your move-up home.
+
+There are benefits to using a bridge loan. For one, you can immediately put your home up on the market without any restrictions. Plus, bridge loans may not require monthly payments right away. Also, if you make a contingent offer on a property and the seller offers a notice to perform, you can remove that contingency, sell the house, and still move forward with that purchase.
+
+If you have any other questions about bridge loans, we work with a terrific financing company called Veritas Funding that we can connect you with. As always, if you have any real estate questions, give me a call or send me an email. I would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/January/Salt+Lake+County+Real+Estate+Agent-+What+Is+a+Bridge+Loan%253F.mp4" length="11:34 am" type="video/mp4"/>
+        <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/January/Salt+Lake+County+Real+Estate+Agent-+What+Is+a+Bridge+Loan%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you cannot sell your current home before buying your next one, bridge loans are a great option for you. What are bridge loans and how do they work? Basically, bridge loans are temporary loans that help you purchase a new home while you are still in your current one. To learn more details about how bridge loans work, watch this short video.</itunes:subtitle>
+        <itunes:author>Joshua Stern</itunes:author>
+        <itunes:summary>If you cannot sell your current home before buying your next one, bridge loans are a great option for you. What are bridge loans and how do they work? Basically, bridge loans are temporary loans that help you purchase a new home while you are still in your current one. To learn more details about how bridge loans work, watch this short video.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>Here's Why Glenn Beck Endorses Our Team</title>
-        <link>http://sternteam.org/heres-why-glenn-beck-endorses-our-team.html</link>
+        <link>http://sternteam.org/heres-why-glenn-beck-endorses-our-team-copy.html</link>
         
           <category>Market Update</category>
         
@@ -55,10 +552,10 @@ If you have any real estate questions or would like to know more about our guara
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/Salt+Lake+County+Real+Estate+Agent-+Heres+Why+Glenn+Beck+Endorses+Our+Team.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>We are thrilled to share some exciting news with you today. We have recently been endorsed by Glenn Beck. He had some great words to say about our team, and we’re very proud of that. We are also proud of our guaranteed sale program, which Glenn explains in detail in his endorsement. To hear what Glenn Beck has to say about our team, watch this short video.</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>We are thrilled to share some exciting news with you today. We have recently been endorsed by Glenn Beck. He had some great words to say about our team, and we’re very proud of that. We are also proud of our guaranteed sale program, which Glenn explains in detail in his endorsement. To hear what Glenn Beck has to say about our team, watch this short video.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -102,10 +599,10 @@ If you have any questions about buying or selling a Salt Lake City home, give me
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/January/Salt+Lake+County+Real+Estate+Agent-+What+to+Expect+When+Youre+Inspecting.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>Getting a home inspection is a very important part of a real estate transaction. Whether you’re a buyer or a seller, being in the know about the home inspection will make the process go much smoother. Today, I’m joined by professional inspector Fred Larsen to tell you everything you need to know about home inspections. For example, home inspectors are not required to have a license in Utah, so you better make sure you know exactly who you hire. To find out what else you should know about home inspections, watch this short video.</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>Getting a home inspection is a very important part of a real estate transaction. Whether you’re a buyer or a seller, being in the know about the home inspection will make the process go much smoother. Today, I’m joined by professional inspector Fred Larsen to tell you everything you need to know about home inspections. For example, home inspectors are not required to have a license in Utah, so you better make sure you know exactly who you hire. To find out what else you should know about home inspections, watch this short video.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -147,10 +644,10 @@ If you have any further questions about what’s going on in the the market, or 
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/Salt+Lake+County+Real+Estate+Agent-+2016+Wasatch+Front+Market+Report.mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>As the year comes to a close, it’s time to take a look at the 2016 report card for the Wasatch Front home sales.</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>As the year comes to a close, it’s time to take a look at the 2016 report card for the Wasatch Front home sales.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -190,10 +687,10 @@ If you have any questions for us, don’t hesitate to give us a call or send us 
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/Salt+Lake+County+Real+Estate+Agent-+Our+Client+Appreciation+Event+Was+a+Huge+Success.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>We had a great time at our client appreciation event. We hope you did too, as we are already looking forward to the next one.</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>We had a great time at our client appreciation event. We hope you did too, as we are already looking forward to the next one.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -237,10 +734,10 @@ There are many benefits to putting your home on the market during the holiday se
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/Salt+Lake+County+Real+Estate+Agent-+The+Top+6+Reasons+to+Sell+Your+Home+During+the+Holidays.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>Today, I’ll go over the top six reasons why you should sell your home during the holidays.</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>Today, I’ll go over the top six reasons why you should sell your home during the holidays.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -267,13 +764,16 @@ Finally, don’t let cold air sneak into your home. If you add up all of the cra
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/Salt+Lake+County+Real+Estate+Agent+-+3+Costly+Mistakes+to+Avoid+This+Winter.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+It’s that time of year, folks — winter is coming. It’s going to get cold. Now is the time to harvest what is left of your garden, winterize your sprinklers, and cozy up at home with your friends and family.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 It’s that time of year, folks — winter is coming. It’s going to get cold. Now is the time to harvest what is left of your garden, winterize your sprinklers, and cozy up at home with your friends and family.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -313,14 +813,18 @@ Regardless of what tale our market is telling, I want you to win. If you have an
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/Salt+Lake+County+Real+Estate+Agent+-+The+Tale+of+2+Markets.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+A couple of weeks ago, I did a market update for our local radio station KNRS. As I was preparing the data for the show, I realized that we had a tale of two markets on our hands.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 A couple of weeks ago, I did a market update for our local radio station KNRS. As I was preparing the data for the show, I realized that we had a tale of two markets on our hands.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -354,14 +858,18 @@ If you have any questions about the home selling process or if you’re having t
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/Salt+Lake+County+Real+Estate+Agent+-+How+We+Sold+an+Expired+Listing+in+Less+Than+2+Weeks" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+We recently sold a property for more than list price in less than two weeks. Prior to working with us, these clients had their home on the market for over six months before the listing expired.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 We recently sold a property for more than list price in less than two weeks. Prior to working with us, these clients had their home on the market for over six months before the listing expired.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -409,14 +917,18 @@ If you have any questions about fixer-upper properties or need to get in touch w
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/Salt+Lake+County+Real+Estate+Agent+-+Do+You+Want+to+Buy+a+Fixer-Upper.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Today I have a few tips for buying a home that needs work. There are different types of fixer-uppers out there and some need more work than others. The way you pursue a purchase offer on the home most likely depends on which fixer-upper category it is in.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 Today I have a few tips for buying a home that needs work. There are different types of fixer-uppers out there and some need more work than others. The way you pursue a purchase offer on the home most likely depends on which fixer-upper category it is in.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -455,14 +967,18 @@ If you have any questions for me, don’t hesitate to give me a call or send me 
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/Salt+Lake+County+Real+Estate+Agent+-+Using+Football+to+Explain+Your+Home%27s+Closing.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+How does football relate to the closing of your property? The analogy we’ve come up with makes a lot of sense, and we hope it will help shine some new light on the process for you if you’ve been thinking about selling.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 How does football relate to the closing of your property? The analogy we’ve come up with makes a lot of sense, and we hope it will help shine some new light on the process for you if you’ve been thinking about selling.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -505,14 +1021,18 @@ If you have any questions about what to do or what not to do in order to get you
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+When updating or renovating your home, you may be under the impression that making major renovations to your property will net you more money on the appraisal. This may not always be the case. In fact, some improvements may not increase your home’s value at all, leaving you with a sunk cost. In an effort to help you avoid this situation, I’d like to share with you seven home improvements that will not add to the value of your home.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 When updating or renovating your home, you may be under the impression that making major renovations to your property will net you more money on the appraisal. This may not always be the case. In fact, some improvements may not increase your home’s value at all, leaving you with a sunk cost. In an effort to help you avoid this situation, I’d like to share with you seven home improvements that will not add to the value of your home.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -544,14 +1064,18 @@ If you have any questions for us, don’t hesitate to give us a call or send us 
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+What are the signs of a strong housing market? We’re here to tell you.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 What are the signs of a strong housing market? We’re here to tell you.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -589,14 +1113,18 @@ If you have any questions for us, feel free to give us a call or send us an emai
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+The question of when you should respond to an offer as a seller is one we get quite frequently, especially in a market like this. Most agents are advising their clients to hold off on responding to offers until after the first weekend they’ve listed, in which an open house will often be held.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 The question of when you should respond to an offer as a seller is one we get quite frequently, especially in a market like this. Most agents are advising their clients to hold off on responding to offers until after the first weekend they’ve listed, in which an open house will often be held.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -628,14 +1156,18 @@ If you have any questions, give us a call or send us an email. We look forward t
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+The law of supply and demand in real estate is irrefutable. It’s important to understand. Generally, if there’s a low supply and a high demand, price will be high, of course. In contrast, the higher the supply and the lower the demand, the lower the price.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 The law of supply and demand in real estate is irrefutable. It’s important to understand. Generally, if there’s a low supply and a high demand, price will be high, of course. In contrast, the higher the supply and the lower the demand, the lower the price.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -669,14 +1201,18 @@ If you or anyone you know has any real estate questions, email me or give me a c
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+There are eight things that we feel you can do to compete to get the home you want in the Wasatch market.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 There are eight things that we feel you can do to compete to get the home you want in the Wasatch market.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -710,14 +1246,18 @@ If you have any questions, give us a call or send us an email. We would be happy
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Today, we are going to talk about inspecting your sewer line before you buy your home, especially if you are buying an older property.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 Today, we are going to talk about inspecting your sewer line before you buy your home, especially if you are buying an older property.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -758,14 +1298,18 @@ Thanks for joining us today. If you have any questions, or are looking to buy or
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+If you make an offer on a home on The Wasatch Front, there’s always a chance it will get rejected. To decrease the chances of getting your offer rejected, we are going to give you four different reasons why your offer could get rejected.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 If you make an offer on a home on The Wasatch Front, there’s always a chance it will get rejected. To decrease the chances of getting your offer rejected, we are going to give you four different reasons why your offer could get rejected.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -795,14 +1339,18 @@ If you have any questions, give me a call or send me an email. I would be happy 
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Today, we’re going to talk about closing costs. What are they, and who pays them?
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 Today, we’re going to talk about closing costs. What are they, and who pays them?
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -832,14 +1380,18 @@ Finally, don’t skip repairs. According to NAR, 24% of all offers accepted betw
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Today, we’re going to talk about what not to do when selling in the surrounding Salt Lake County area.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 Today, we’re going to talk about what not to do when selling in the surrounding Salt Lake County area.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -869,14 +1421,18 @@ If you would like to learn more about how we get things done on the buying side 
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+When selling, there are many reasons why you should hire a buyer specialist and a showing agent team to go to work for you in 2016. Today, we share the five best ones:
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 When selling, there are many reasons why you should hire a buyer specialist and a showing agent team to go to work for you in 2016. Today, we share the five best ones:
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -906,14 +1462,18 @@ These five tips should help you add value to your home! If you would like additi
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+When you’re choosing what home improvements to invest in, it’s important to know what types of improvement will bring you the highest value. Here are the five safest bets when it comes to making worthwhile improvements.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 When you’re choosing what home improvements to invest in, it’s important to know what types of improvement will bring you the highest value. Here are the five safest bets when it comes to making worthwhile improvements.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -946,14 +1506,18 @@ If you have any questions about today’s video, give us a call or send us an em
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Selling your home is one of the most important steps in your financial life. Today, we’ll go over the seven deadly mistakes most home sellers make. Knowing these mistakes will help you maximize your profits, maintain control, reduce stress, and help you make good decisions with your moving goals.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 Selling your home is one of the most important steps in your financial life. Today, we’ll go over the seven deadly mistakes most home sellers make. Knowing these mistakes will help you maximize your profits, maintain control, reduce stress, and help you make good decisions with your moving goals.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -985,14 +1549,18 @@ I hope this makes sense and helps you digest the affordability of housing now ve
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Today, we’ll talk about what rising interest rates mean for you as a buyer in the Wasatch Front.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 Today, we’ll talk about what rising interest rates mean for you as a buyer in the Wasatch Front.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1029,14 +1597,18 @@ We look forward to hearing from you!
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+There are 4 common strategies that most sellers use to price their homes. It is unwise to assume that a higher asking price will net you a higher selling price. In fact, this equation works in reverse if you’re not paying attention to what the market is telling you. Bear this research in mind when you set your asking price.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 There are 4 common strategies that most sellers use to price their homes. It is unwise to assume that a higher asking price will net you a higher selling price. In fact, this equation works in reverse if you’re not paying attention to what the market is telling you. Bear this research in mind when you set your asking price.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1080,14 +1652,18 @@ As you can see, there are many good reasons to purchase a home this winter in Sa
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+A lot of people think that the real estate market freezes up through the winter and during the Holiday season. However, people are always buying and selling homes. The market never just disappears.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 A lot of people think that the real estate market freezes up through the winter and during the Holiday season. However, people are always buying and selling homes. The market never just disappears.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1132,14 +1708,18 @@ I would love the opportunity to find you your dream home!
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+When the real estate market gets tough and you’ve found a home that you absolutely love, then it might be time to take some drastic actions in order to secure it. I have three things that you can do to improve your chances of buying your dream home.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 When the real estate market gets tough and you’ve found a home that you absolutely love, then it might be time to take some drastic actions in order to secure it. I have three things that you can do to improve your chances of buying your dream home.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1186,14 +1766,18 @@ Don’t make these mistakes! If you have any questions for us, feel free to give
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Many people are getting ready to put their home on the market this holiday season, so today we wanted to talk about the most common mistakes when selling a home. We want you to avoid these when it comes time for you to sell, no matter what time of year it is. Here’s what you need to avoid as a seller:
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 Many people are getting ready to put their home on the market this holiday season, so today we wanted to talk about the most common mistakes when selling a home. We want you to avoid these when it comes time for you to sell, no matter what time of year it is. Here’s what you need to avoid as a seller:
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1223,14 +1807,18 @@ Thanks again for taking the time to watch our blog! If you have any questions, f
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Today, we’ll talk about the TRID Mortgage Disclosure Form, which affects both buyers and sellers. This new integrated disclosure rule is the Federal Government’s attempt to clean up and simplify the mortgage closing process. It helps make things easier to understand for buyers. The rule has a good basis, but it also has some unintended consequences for both parties.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 Today, we’ll talk about the TRID Mortgage Disclosure Form, which affects both buyers and sellers. This new integrated disclosure rule is the Federal Government’s attempt to clean up and simplify the mortgage closing process. It helps make things easier to understand for buyers. The rule has a good basis, but it also has some unintended consequences for both parties.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1256,14 +1844,18 @@ If you’re looking for certainty in the marketplace and want your best chance a
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Do rising interest rates affect home values on the Wasatch Front? The answer might surprise you.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 Do rising interest rates affect home values on the Wasatch Front? The answer might surprise you.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1293,14 +1885,18 @@ If you’re thinking about crowdfunding on a local or national level and you’d
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Today we are going to talk about real estate investing, crowdfunding style. This morning, when I woke up, I went online and researched crowdfunding in real estate. What I began to notice is that there are dozens of platforms for individuals to begin investing in real estate.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 Today we are going to talk about real estate investing, crowdfunding style. This morning, when I woke up, I went online and researched crowdfunding in real estate. What I began to notice is that there are dozens of platforms for individuals to begin investing in real estate.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1333,14 +1929,18 @@ A good home inspector can save you lots of money and give you peace of mind. Fee
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+I find most folks are willing to take a used car to a mechanic to look it over before they purchase the car. They probably spend about $150 to do this, and the car may cost between $5,000 and $10,000. So, why wouldn’t you consider having your home inspected by a house “mechanic” before spending $200,000 to $300,000?
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 I find most folks are willing to take a used car to a mechanic to look it over before they purchase the car. They probably spend about $150 to do this, and the car may cost between $5,000 and $10,000. So, why wouldn’t you consider having your home inspected by a house “mechanic” before spending $200,000 to $300,000?
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1370,14 +1970,18 @@ Both of these changes are going to significantly affect your qualification. Now 
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Today we’ve got a special guest joining us, Mandi Henriod of Veritas Funding who is going to talk to us about some guideline changes that are coming for FHA loans that you should be aware of. There are two things you really need to know about, and here they are:
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 Today we’ve got a special guest joining us, Mandi Henriod of Veritas Funding who is going to talk to us about some guideline changes that are coming for FHA loans that you should be aware of. There are two things you really need to know about, and here they are:
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1405,14 +2009,18 @@ Give us a call or shoot us an email if you would like our assistance with anythi
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Today, I want to talk briefly about why you should be concerned about KSL classifieds for home buying.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 Today, I want to talk briefly about why you should be concerned about KSL classifieds for home buying.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1442,14 +2050,18 @@ If you have any questions about today’s video, please give us a call or send u
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Today, we’ll talk about keeping score. We’re a little over halfway through 2015, and it’s been a record sales year for housing across the Wasatch Front.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 Today, we’ll talk about keeping score. We’re a little over halfway through 2015, and it’s been a record sales year for housing across the Wasatch Front.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1503,14 +2115,18 @@ Tooele County
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+So, tax notices are coming out in the middle to the end of July.  If you think the tax assessed value has come in too high, you have a few options to consider that will assist you with the dispute.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 So, tax notices are coming out in the middle to the end of July.  If you think the tax assessed value has come in too high, you have a few options to consider that will assist you with the dispute.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1544,14 +2160,18 @@ If you need any assistance coordinating this process, please don’t hesitate to
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Moving is absolutely one of the most stressful parts of the buying and selling process. In order to reduce stress, you should start preparing at least 60 days in advance.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 Moving is absolutely one of the most stressful parts of the buying and selling process. In order to reduce stress, you should start preparing at least 60 days in advance.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1583,14 +2203,18 @@ Thanks for watching again, and if you need any help buying or selling real estat
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Today I’d like to speak about how you can get multiple offers on your home and get top dollar when you sell in Salt Lake.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 Today I’d like to speak about how you can get multiple offers on your home and get top dollar when you sell in Salt Lake.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1618,14 +2242,18 @@ Hopefully these tips can help you out when you’re looking to buy a home, but i
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Today I want to speak about some common mistakes that I see Millennial home buyers making when they set out to buy homes. This is going to be brief, because we’re in the busy summer market here in Salt Lake City, but here is what you need to avoid:
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 Today I want to speak about some common mistakes that I see Millennial home buyers making when they set out to buy homes. This is going to be brief, because we’re in the busy summer market here in Salt Lake City, but here is what you need to avoid:
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1655,14 +2283,18 @@ If you have any questions for us, feel free to give us a call or send us a quick
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Hey guys, thanks for coming back. If you are a buyer, you’ve likely noticed that the market is hot. We have very little inventory, but there are several things you can do to help you and your offer stand out in this market.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 Hey guys, thanks for coming back. If you are a buyer, you’ve likely noticed that the market is hot. We have very little inventory, but there are several things you can do to help you and your offer stand out in this market.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1690,14 +2322,18 @@ If you have any questions for us, make sure to give us a call or send us an emai
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Welcome back, and thanks for joining us again. Today, I’m going to be talking about how sellers can benefit from multiple offers.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 Welcome back, and thanks for joining us again. Today, I’m going to be talking about how sellers can benefit from multiple offers.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1727,14 +2363,18 @@ If you have any questions for us, we are always here to take you call or email! 
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Hey everyone, we are back on the Wasatch Front with a special guest today, Chris Van Leeuwen, who has access to a mortgage product that covers 100% financing, with a forgiving grant. We have invited Chris in to tell you about this grant today.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 Hey everyone, we are back on the Wasatch Front with a special guest today, Chris Van Leeuwen, who has access to a mortgage product that covers 100% financing, with a forgiving grant. We have invited Chris in to tell you about this grant today.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1762,14 +2402,18 @@ One thing we want to make sure you know is that interest rates are going to rise
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Today I want to talk to you about the affordability of buying a home in today’s market. As we take a look at the Wasatch Front through the history books, let’s first examine the affordability of a home in 1989.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 Today I want to talk to you about the affordability of buying a home in today’s market. As we take a look at the Wasatch Front through the history books, let’s first examine the affordability of a home in 1989.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1809,14 +2453,18 @@ Hopefully these topics have been helpful to you. If you need any assistance buyi
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Today I’m going to take some time to answer your questions about the Salt Lake City and Wasatch Front real estate markets. I’ve been getting questions from a lot of different people regarding some different subjects, so if you don’t see your question answered here, please don’t hesitate to contact me and I’d be glad to assist you.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 Today I’m going to take some time to answer your questions about the Salt Lake City and Wasatch Front real estate markets. I’ve been getting questions from a lot of different people regarding some different subjects, so if you don’t see your question answered here, please don’t hesitate to contact me and I’d be glad to assist you.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1842,14 +2490,18 @@ If you’re interested in buying or selling real estate in Salt Lake City this s
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+I recently came across an interesting article on Zillow that was talking about the strange effect that Starbucks was having on home values across the country.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 I recently came across an interesting article on Zillow that was talking about the strange effect that Starbucks was having on home values across the country.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1881,14 +2533,18 @@ If you have any questions, feel free to give us a call or send us an email anyti
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Hey everyone, welcome back to our blog. Today we want to discuss a few things you can do to prepare your home for sale in the market this spring on the Wasatch Front.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 Hey everyone, welcome back to our blog. Today we want to discuss a few things you can do to prepare your home for sale in the market this spring on the Wasatch Front.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1914,14 +2570,18 @@ We will check up on these predictions soon and throughout the year, but if you h
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+We have been having a great 2015 so far, and wanted to let you know today what to expect in the coming year, because a lot of our clients have been asking us.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 We have been having a great 2015 so far, and wanted to let you know today what to expect in the coming year, because a lot of our clients have been asking us.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1947,14 +2607,18 @@ Thanks again for taking a moment to check out our predictions for 2015. If you h
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Thanks for joining us once again, as we continue to give you the most up-to-date information about real esate on the Wasatch Front. This time of year, all of our clients have been asking us what to expect in 2015 from a real estate perspective. So let’s take a look at what we believe is in store for the housing market in 2015.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 Thanks for joining us once again, as we continue to give you the most up-to-date information about real esate on the Wasatch Front. This time of year, all of our clients have been asking us what to expect in 2015 from a real estate perspective. So let’s take a look at what we believe is in store for the housing market in 2015.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -1980,14 +2644,18 @@ Now is a great time to downgrade if you are an empty nester. If you would like s
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Today, we’re going to address a problem we’re seeing here on the Wasatch Front. Many empty nesters - couples whose kids have moved from the house and are looking to make a move - have been hesitant to sell their homes in the last 6 months. The reasoning behind this is they are waiting for the market to rebound so they can get top dollar for their home. However, many of these empty nesters don’t realize that the market has changed and their property values have likely gone up.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 Today, we’re going to address a problem we’re seeing here on the Wasatch Front. Many empty nesters - couples whose kids have moved from the house and are looking to make a move - have been hesitant to sell their homes in the last 6 months. The reasoning behind this is they are waiting for the market to rebound so they can get top dollar for their home. However, many of these empty nesters don’t realize that the market has changed and their property values have likely gone up.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -2011,14 +2679,18 @@ Once we’ve collected the coats, we’ll drop them off at the Road Home Shelter
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Recently, our buyer team has put together a coat drive to collect jackets and coats for the Road Home Shelter here in Salt Lake City. The goal is to collect as many coats as possible for those less fortunate than ourselves. It’s going to be a cold winter, and we don’t want anyone to be without the proper protection.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 Recently, our buyer team has put together a coat drive to collect jackets and coats for the Road Home Shelter here in Salt Lake City. The goal is to collect as many coats as possible for those less fortunate than ourselves. It’s going to be a cold winter, and we don’t want anyone to be without the proper protection.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -2040,14 +2712,18 @@ By filling out a review, your name will be entered in a drawing to win a $250 gi
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+We’ve had the privilege of working with so many great people over that last few years, and today we want to say thanks for all the support. We are grateful you, your families, and your friends have chosen us to represent you during your real estate transactions, so we want to show you how much we appreciate it.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 We’ve had the privilege of working with so many great people over that last few years, and today we want to say thanks for all the support. We are grateful you, your families, and your friends have chosen us to represent you during your real estate transactions, so we want to show you how much we appreciate it.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -2073,14 +2749,18 @@ If you have any questions about this interesting selling season, don’t hesitat
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+With summer coming to an end, many buyers who wanted to find a home before school starts have left the market. Because of this, sellers have a tendency to leave the market as well - they feel it’s better to wait until the spring selling season.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 With summer coming to an end, many buyers who wanted to find a home before school starts have left the market. Because of this, sellers have a tendency to leave the market as well - they feel it’s better to wait until the spring selling season.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -2110,14 +2790,18 @@ We hope to be your number one source for real estate information in Salt Lake Co
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+We came across a CNN Money article the other day in which an expert described the real estate market as a “crapshoot.” He explained that there is no guarantee that home prices will continue to rise, so investing in real estate is essentially a gamble. In a sense, he’s right - market conditions are ultimately unpredictable. But the fact that there are no guarantees in real estate doesn’t mean you can’t make a safe bet.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 We came across a CNN Money article the other day in which an expert described the real estate market as a “crapshoot.” He explained that there is no guarantee that home prices will continue to rise, so investing in real estate is essentially a gamble. In a sense, he’s right - market conditions are ultimately unpredictable. But the fact that there are no guarantees in real estate doesn’t mean you can’t make a safe bet.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -2139,14 +2823,18 @@ The key is figuring out how much your home is worth so you know how much you hav
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Today, we’re going to talk about bigger homes and why now might be the time to make your move on the Wasatch Front. The other day, we saw a report on CNN that talked about average home size. It said the average home is now 2,600 square feet, which is 500 square feet larger than it was only 20 years ago. Have you always wanted a great room, or a few extra bedrooms? How about a home office? It’s likely your family’s need have changed since you moved into your current home, so now might be the time to get an evaluation done on your property, so you can get that newer, larger home before school starts.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 Today, we’re going to talk about bigger homes and why now might be the time to make your move on the Wasatch Front. The other day, we saw a report on CNN that talked about average home size. It said the average home is now 2,600 square feet, which is 500 square feet larger than it was only 20 years ago. Have you always wanted a great room, or a few extra bedrooms? How about a home office? It’s likely your family’s need have changed since you moved into your current home, so now might be the time to get an evaluation done on your property, so you can get that newer, larger home before school starts.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -2188,14 +2876,18 @@ If you want to sell your home and need to get into your new property by the begi
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Today our blog is all about home sellers. If you are thinking of selling your home, you might have already noticed a lot of mixed signals in this shifting market. Interest rates have gone up in some areas, while they have remained still in others. Here in Salt Lake County,  FHA loan rates are staying steady at 4.25%, while conventional mortgage interest rates remain at around 4.5%.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 Today our blog is all about home sellers. If you are thinking of selling your home, you might have already noticed a lot of mixed signals in this shifting market. Interest rates have gone up in some areas, while they have remained still in others. Here in Salt Lake County,  FHA loan rates are staying steady at 4.25%, while conventional mortgage interest rates remain at around 4.5%.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -2229,14 +2921,18 @@ The current surge in the market makes now an ideal time to consider buying or se
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+In our latest video, we’re sharing some recent developments in the Wasatch Front housing market, and what they mean for you. Our local market is on par with the nation as a whole, with pending home sales rising only one half of a percent since last month. While that’s less than expected, here on the Wasatch Front we’ve seen a surge in home sales in the last 45 days. In fact, homes priced under $300,000 have less than a four month supply.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 In our latest video, we’re sharing some recent developments in the Wasatch Front housing market, and what they mean for you. Our local market is on par with the nation as a whole, with pending home sales rising only one half of a percent since last month. While that’s less than expected, here on the Wasatch Front we’ve seen a surge in home sales in the last 45 days. In fact, homes priced under $300,000 have less than a four month supply.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -2268,14 +2964,18 @@ Thanks for watching and as always, if you’re looking to buy or sell a home in 
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Today we’re talking about homeowners who are underwater- they owe more on their home than it’s worth.
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 Today we’re talking about homeowners who are underwater- they owe more on their home than it’s worth.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -2305,14 +3005,18 @@ Whether you’re a buyer or a seller, NOW is the time to act. Contact us at (801
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>
+
+Here is a brief update on the Salt Lake County real estate market:
+
+</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>
 
 Here is a brief update on the Salt Lake County real estate market:
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -2340,15 +3044,15 @@ Also, if you’re looking to buy or sell property anywhere in Salt Lake County, 
         <media:thumbnail url="http://sternteam.org" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Salt Lake County Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>I am very excited to announce our new Salt Lake County real estate video blog. I will be updating you twice a month with tips and advice so you can make informed decisions. My goal is to educate my clients or anyone else looking to take part in the Salt Lake County real estate market by providing you with the latest information.</itunes:subtitle>
         <itunes:author>Joshua Stern</itunes:author>
         <itunes:summary>I am very excited to announce our new Salt Lake County real estate video blog. I will be updating you twice a month with tips and advice so you can make informed decisions. My goal is to educate my clients or anyone else looking to take part in the Salt Lake County real estate market by providing you with the latest information.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
     <copyright>Joshua Stern</copyright>
     <media:credit role="author">Joshua Stern</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a Salt Lake County home, get all the information and the latest updates, tips, and tricks from The Stern Team - your professional Salt Lake City Real Estate Agents.</media:description>
+    <media:description type="plain">If you are looking to buy or sell a Salt Lake City home, get all the information and the latest updates, tips, and tricks from The Stern Team - your professional Salt Lake City Real Estate Agents.</media:description>
   </channel>
 </rss>
