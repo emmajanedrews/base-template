@@ -24,7 +24,7 @@ We’d love for you to come out and take advantage of this no cost social, where
 
 **The event will take place at Old Town Social on North Avenue from 6 p.m. to 8 p.m. on Thursday, August 3rd.**
 
-Don’t let this opportunity pass you by. Once you RSVP, which you can do [**here**](https://www.eventbrite.com/e/youre-invited-to-old-town-social-for-a-first-time-homebuyers-seminar-and-happy-hour-registration-36514310285){: target="_blank"}, you’re all set to learn and have fun.
+Don’t let this opportunity pass you by. Once you RSVP, which you can do [**here**](https://www.eventbrite.com/e/youre-invited-to-old-town-social-for-a-first-time-homebuyers-seminar-and-happy-hour-registration-36514310285), you’re all set to learn and have fun.
 
 Also, if you know anyone else who might be interested, please feel free to pass along the video or information about this event. We’d love to see you there.
 
