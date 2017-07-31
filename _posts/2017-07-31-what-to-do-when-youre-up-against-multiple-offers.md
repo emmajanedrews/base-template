@@ -21,7 +21,7 @@ The real estate market is crazy right now, especially in certain areas and price
 
 If you end up in a multiple offer situation, there are a few things you should take into consideration in order to make sure your offer stands out.
 
-**Of course, the first thing everyone thinks about is the price.** Price is important, but it’s not the only factor to pay attention to. If you are in a price point with a lot of buyers, go in with your highest and best offer.
+**Of course, the first thing everyone thinks about is the price.** Price is important, but it’s not the only factor to pay attention to. If you are at a price point with a lot of buyers, go in with your highest and best offer.
 
 This can be tough because everyone wants to negotiate and try to get the best deal. Think about it this way, though: How upset would you be if you lost out on this home? Some people may have another home in mind and may not panic if they lose out on this home. If it’s the only house on the market that you like, though, I’d hate for you to get beat out by $500. So, you may wind up paying more than you plan, but at least you’ll get the house you wanted.
 
