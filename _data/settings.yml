@@ -92,7 +92,7 @@ images:
   hero_logo_path: /img/logo.png
   logo_width_number: 40
   hero_text: -- MARKET -- Real Estate Video Blog
-  hero_background_hex: '#f26337'
+  hero_background_hex: '#fff'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
