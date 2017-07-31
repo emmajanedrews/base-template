@@ -24,7 +24,7 @@ Buying your first home can be a very exciting time. It can also be overwhelming,
 **First of all, it’s important to pick a great agent.** Working with an agent does not cost the buyer anything; the seller pays both the buyer’s agent and the listing agent. Your agent will listen to your needs and what’s important to you in a home.
 {: .present-before-paste}
 
-Your agent will also help you develop a long-term plan. Maybe you plan on staying in the area for awhile, or maybe you’re waiting on a promotion that would require you to move in a few years. Either way, they will show you homes that match your needs and your long-term plan.
+Your agent will also help you develop a long-term plan. Maybe you plan on staying in the area for awhile, or maybe you’re waiting for a promotion that would require you to move in a few years. Either way, they will show you homes that match your needs and your long-term plan.
 {: .present-before-paste}
 
 You should also make sure that your agent is good at negotiating. That way, when you do make an offer on a home, you won’t get stuck paying the listing price. When the inspection comes back, your agent will need to negotiate with the seller on repairs as well.
