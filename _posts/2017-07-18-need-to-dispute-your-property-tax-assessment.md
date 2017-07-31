@@ -3,6 +3,12 @@ layout: post
 title: Need to Dispute Your Property Tax Assessment?
 tags:
   - Tax Assessment
+  - Josh Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team
+  - Stern Team Real Estate
+  - Joshua Stern
 excerpt: 'Do you feel like your property tax assessment is too high? If so, we can help you. As you know, the county calculates your property tax value, and these values aren’t always on the mark. There is an appeal process that we can assist you with so you can get a second opinion on your assessment. To find out how this process works and what you need to do to appeal your assessment, watch our latest video.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/July/The+Stern+Team-+Property+Tax+Assessments.mp4'
 pullquote: This is a free service we offer.
