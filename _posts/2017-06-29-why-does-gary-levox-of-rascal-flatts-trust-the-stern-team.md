@@ -3,6 +3,12 @@ layout: post
 title: Why Does Gary LeVox of Rascal Flatts Trust The Stern Team?
 tags:
   - Real Estate
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team
+  - Stern Team Real Estate
 excerpt: 'Recently, The Stern Team was fortunate enough to be endorsed by Gary LeVox of Rascal Flatts!'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/Utah+Real+Estate+Team+Gary+LeVox+Endorses+The+Stern+Team.mp4'
 pullquote: It is our goal to make your transaction a smooth one.
