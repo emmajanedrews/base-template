@@ -11,11 +11,11 @@ custom_links:
     url: /careers
   # - title: Futurity
   #   url: /futurity
-  - title: Health Care
+  - title: Healthcare
     url: /health-care
 client:
   clients:
-    - name: Dianna LoDolce
+    - name: Dianna LoDolceh
       title: Sr. Vice President/ General Manager
       specialty: Bio Pharma
       client_headshot_path: /img/headshot1.jpg
@@ -157,7 +157,7 @@ client:
 
     - name: Hadley Gayles
       title: Sr. Vice President/ General Manager
-      specialty: Health Care
+      specialty: Healthcare
       client_headshot_path: /img/headshot5.jpg
       phone: 480-718-6124
       email: hadley.gayles@govig.com
