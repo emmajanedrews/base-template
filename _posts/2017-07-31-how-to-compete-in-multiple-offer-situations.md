@@ -27,7 +27,7 @@ But today I have a few tips I’d like to share with you that will help your off
 
 First of all, earnest money is incredibly important. The more earnest money you put down, the more serious you will appear to the seller. In the $350,000 range, for example, the majority of buyers tend to put down $1,000 to $2,000.
 
-But, when your down payment on a home like that can run you $75,000 or more, why not put down the extra money to show you’re truly interested. **When you get the closing table, your earnest money will simply count toward that down payment.**
+But, when your down payment on a home like that can run you $75,000 or more, why not put down the extra money to show you’re truly interested?&nbsp;**When you get the closing table, your earnest money will simply count toward that down payment.**
 
 Putting more earnest money down won’t cost you any more than you’d already be paying for that down payment. So, why not make your offer stronger by putting down as much as you can?
 
