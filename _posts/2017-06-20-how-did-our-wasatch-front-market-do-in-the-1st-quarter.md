@@ -3,6 +3,13 @@ layout: post
 title: How Did Our Wasatch Front Market Do in the 1st Quarter?
 tags:
   - Market Update
+  - Josh Stern
+  - Joshua Stern
+  - Home Seller Tips
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team Real Estate
+  - Stern Team
 excerpt: 'Today I want to give you a first quarter market update for the entire Wasatch Front. I have the latest statistics, and the way they stack up compared to last year’s first quarter numbers tell us it’s a great time to sell your house and a trickier time to be a homebuyer. The average sold home price rose 11% from $277,000 to $308,000. The average days on market decreased 10% from 59 days to 53 days. To learn more about how our Wasatch Front market did this past quarter and how you can take advantage of it, watch my latest video.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/June/The+Stern+Team-+How+Did+Our+Wasatch+Front+Market+Do+in+the+1st+Quarter%253F.mp4'
 pullquote: Take advantage of this market while you can.
