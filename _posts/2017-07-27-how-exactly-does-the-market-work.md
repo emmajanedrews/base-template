@@ -3,9 +3,9 @@ layout: post
 title: How Exactly Does the Market Work?
 tags:
   - Real Estate
-date: 2017-07-27 10:08:02
+date: 2017-07-27 10:08:00
 excerpt: 'We all know that the real estate market affects us and our transactions, but how exactly does it work?'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Chris+Gorman/Videos/Triangle+Area+Real+Estate-+How+Does+the+Market+Work%253F.mp4'
 pullquote: The market only cares about what is happening today.
 enclosure_type: video/mp4
 enclosure_time:
@@ -18,7 +18,7 @@ youtube_code: 'https://youtu.be/BCN2C1YGh7A'
 {% include youtube.html %}We hear a lot about the market, especially in my line of work, but today I wanted to explain to you how the market actually works.
 {: .present-before-paste}
 
-**To tell the truth, the real estate market is a free market like any other market.&nbsp;**Take the stock market, for example. Let’s say you bought stock with Apple for $100 and now, today, that stock has gone up to $500. That $500 is what the market is willing to pay, assuming you want to sell your stock.
+**To tell the truth, the real estate market is a free market like any other market.**Take the stock market, for example. Let’s say you bought stock with Apple for $100 and now, today, that stock has gone up to $500. That $500 is what the market is willing to pay, assuming you want to sell your stock.
 {: .present-before-paste}
 
 The inverse is also true. If you buy something for $500 but the market ends up only valuing it at $100, the latter is how much you can expect to earn if you sell.
