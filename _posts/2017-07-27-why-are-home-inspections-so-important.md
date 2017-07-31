@@ -35,11 +35,11 @@ It also may surprise some to find out that it’s actually recommended for selle
 
 As Bill points out, this will allow sellers to repair components of the home at their leisure. It’s also a much cheaper option than waiting to have it performed later in the process.
 
-This is especially true because sellers will oftentimes not realize that certain smaller issues have damaged their home over time. Accumulated issues can lead to the buyer demanding a decrease in price or other stipulations.&nbsp;
+This is especially true because sellers will often times not realize that certain smaller issues have damaged their home over time. Accumulated issues can lead to the buyer demanding a decrease in price or other stipulations.&nbsp;
 
 **By having an inspection done ahead of time, the seller is able to make sure the home has a “clean bill of health”** before proceeding.&nbsp;
 
-However, Bill and I both personally recommend that you get an inspection on your home whether you’re selling or not. If you have lived on a property for a long time, it’s good to uncover potential repairs before they become an issue.
+However, Bill and I both personally recommend that you get an inspection on your home whether you’re selling or not. If you have lived in a property for a long time, it’s good to uncover potential repairs before they become an issue.
 
 If you’d like to reach out to Bill with any questions or for more information, you can give him a call at (843) 203-9418 or visit his website: [OTSInspections.com.](http://otsinspections.com/)
 
