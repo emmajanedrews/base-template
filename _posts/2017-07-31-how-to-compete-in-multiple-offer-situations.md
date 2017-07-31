@@ -6,6 +6,12 @@ tags:
   - Real Estate
   - Home Buyer Tips
   - Home Seller Tips
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Josh Stern
+  - Joshua Stern Realtor
+  - Stern Team
+  - Stern Team Real Estate
 excerpt: 'Inventory is extremely tight right now. There aren’t a lot of properties out there to choose from, which means buyers are being forced to compete for homes. But when it isn’t uncommon in our market for a listing to see 30 or more offers, how can you stand out? Sometimes, it might seem like the easiest thing to do is to walk away. However, don’t give up hope yet. I have some key tips that can help. To learn more, watch my latest video.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/The+Stern+Team-+Multiple+Offers+in+a+Sellers+Market.mp4'
 pullquote: Being considerate of the seller is just one more thing that will help you win in this market.
