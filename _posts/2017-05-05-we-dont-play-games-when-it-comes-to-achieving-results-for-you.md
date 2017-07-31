@@ -6,7 +6,7 @@ pullquote: 'GAMES ARE FUN, BUT SO IS A SUCCESSFUL REAL ESTATE TRANSACTION.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: '/img/Lisa_Treu_-_May_2017_-_#2_YouTube.jpg'
+youtube_alternate_image: /img/lisa_treu_may2.jpg
 layout: post
 title: We Dont Play Games When It Comes to Achieving Results for You
 date: 2017-05-05 20:35:00
