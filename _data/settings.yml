@@ -10,10 +10,11 @@ client:
   name: Seth and Alyce Dailey
   license_number:
   about_markdown: |
-    The Dailey Group is comprised of a team of local real estate professionals committed to selling some of the most desired homes in Greater Baltimore Area. Selling these "right addresses" is the mission of The Dailey Group. Let us know what you're looking for. Please take advantage of the helpful tools on this website, including our exclusive Greater Baltimore Area Real Estate search, but also feel free to contact us personally.
+    At Keller Williams Realty White Marsh/Perry Hall, we like to think we stand out from other real estate firms in many ways, but these areas in particular define Keller Williams Realty as an industry innovator and leader: Culture, Education, Profit Share, and Technology.
+We are a company built and shaped by talented, driven real estate professionals who know the value of having a great career, accomplished colleagues, work-life balance, and a reputation for being the best in the business.
   market: Baltimore
-  brand: The Dailey Group
-  brokerage: Keller Williams Gateway
+  brand: Keller Williams Gateway
+  brokerage: 
   address: 8015 Corporate Drive, Suite C<br>Baltimore, MD 21236
   phone: 443-267-2435
   phone_type: Direct
@@ -26,8 +27,8 @@ client:
   url: http://TheDaileyGroup.com
 
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: https://www.thedaileygroup.com/home-valuation/
+  first_CTA_text: Request a Free Strategy Session
+  first_CTA_URL: http://www.joinkwgateway.com/
   # second_CTA_text: Home Search
   # second_CTA_URL: https://www.thedaileygroup.com/
   VR_form: http://oi.vresp.com?fid=35206345f6
@@ -37,7 +38,7 @@ sidebar_CTA:
     CTA_title: "Looking to Build Your Real Estate Career?"
     CTA_text: "Let's talk about how we can take your business to new heights."
     CTA_link_text: "Request a Free Strategy Session"
-    CTA_url: https://www.thedaileygroup.com/home-valuation/
+    CTA_url: http://www.joinkwgateway.com/
 
 # second_sidebar_CTA:
 #   - CTA_image_path2: /img/cta-images/005.jpg
