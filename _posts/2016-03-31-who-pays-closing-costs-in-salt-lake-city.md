@@ -1,13 +1,19 @@
 ---
 layout: post
 title: Who Pays Closing Costs in Salt Lake City?
-date: '2016-03-31T10:31:00.000-07:00'
+date: 2016-03-31 17:31:00
 author: Vyral Admin
 tags:
-- Home Seller Tips
+  - Home Seller Tips
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team
+  - Stern Team Real Estate
 excerpt:
 enclosure:
-pullquote: In today's market, sellers aren't paying closing costs.
+pullquote: "In today's market, sellers aren't paying closing costs."
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
