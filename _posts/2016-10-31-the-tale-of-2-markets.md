@@ -1,12 +1,19 @@
 ---
 layout: post
 title: The Tale of 2 Markets
-date: '2016-10-31T11:33:00.003-07:00'
+date: 2016-10-31 18:33:00
 author: liz@getvyral.com
 tags:
-- Market Update
+  - Market Update
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team
+  - Stern Team Real Estate
 excerpt:
-enclosure: https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/Salt+Lake+County+Real+Estate+Agent+-+The+Tale+of+2+Markets.mp4
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/Salt+Lake+County+Real+Estate+Agent+-+The+Tale+of+2+Markets.mp4
 pullquote: I want you to be able to win no matter what market you're completing in.
 enclosure_type: video/mp4
 enclosure_time:
