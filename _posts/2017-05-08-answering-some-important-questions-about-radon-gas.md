@@ -3,8 +3,17 @@ layout: post
 title: Answering Some Important Questions About Radon Gas
 tags:
   - Real Estate
-excerpt: Today I’m joined by my friend Dave Evans with HomeTek Radon Mitigation Services to answer some important questions about radon gas.
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/May/Salt+Lake+County+Real+Estate+Agent-+Answering+Some+Important+Questions+About+Radon+Gas+(1).mp4'
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team
+  - Stern Team Real Estate
+excerpt: >-
+  Today I’m joined by my friend Dave Evans with HomeTek Radon Mitigation
+  Services to answer some important questions about radon gas.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/May/Salt+Lake+County+Real+Estate+Agent-+Answering+Some+Important+Questions+About+Radon+Gas+(1).mp4
 pullquote: There is no safe level of radon gas.
 enclosure_type: video/mp4
 enclosure_time: '1:16 pm'
