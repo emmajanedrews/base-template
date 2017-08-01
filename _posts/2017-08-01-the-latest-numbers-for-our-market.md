@@ -32,4 +32,4 @@ There is a chart below that shows the numbers for all the different municipaliti
 
 **The market is still very strong for sellers, but we aren’t seeing as many multiple offer situations.** If you have any questions about the market or about your home specifically, don’t hesitate to give me a call or send me an email today. I would love to hear from you.
 
-![](/uploads/versions/municipality-chart-01---x----576-384x---.jpg)
+<center>![](/uploads/versions/municipality-chart-01---x----576-384x---.jpg)</center>
