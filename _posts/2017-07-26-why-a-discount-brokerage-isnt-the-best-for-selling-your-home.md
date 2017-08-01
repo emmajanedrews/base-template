@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Why a Discount Brokerage Isn't the Best for Selling Your Home"
-date: 2017-07-26 11:46:44
+date: 2017-07-26 11:46:00
 tags:
   - Home Seller Tips
 excerpt: Today I have listing specialist Ali Garbero with me to talk about the benefits of working with a professional real estate agent or team.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+The+benefits+of+going+with+a+pro.mp4'
 pullquote: Professional agents only get paid when the home sells.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/7-21---pro-benefits---yt.jpg
+youtube_alternate_image: /uploads/7-21---pro-benefits---yt-1.jpg
 youtube_code: DzCW6OByqxc
 ---
 
