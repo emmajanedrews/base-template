@@ -27,7 +27,7 @@ client:
   phone2: 678-494-0644
   phone2_type: Office
   email: Jason@callursula.com
-  url: www.CallUrsula.com
+  url: http://www.callursula.com/
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://callursula.com/sellers'
