@@ -2,7 +2,7 @@
 layout: post
 title: Learning How to Delegate to Your Team
 tags:
-  - Bio Pharma
+  - BioPharma
 excerpt: 'In order to create an autonomous, highly creative team, you need to learn how to delegate as a manager and not micromanage.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Govig/BioPharma/Videos/2017/Learning+How+to+Delegate+to+Your+Team.mp4'
 pullquote: 'If you can delegate without micromanaging your employees, you will see great levels of growth and success.'

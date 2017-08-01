@@ -2,7 +2,7 @@
 layout: post
 title: How to Effectively Negotiate Your Salary
 tags:
-  - Bio Pharma
+  - BioPharma
 excerpt: 'Negotiating a salary isn’t an easy process. However, these three tips should help.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Govig/BioPharma/Videos/2017/How+to+Effectively+Negotiate+Your+Salary+-+Dianna+LoDolce.mp4'
 pullquote: Figure out what your yearly compensation is first.

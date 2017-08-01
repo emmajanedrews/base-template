@@ -2,7 +2,7 @@
 layout: post
 title: The Best Ways to Prepare for an Interview
 tags:
-  - Bio Pharma
+  - BioPharma
 excerpt: 'Most people have difficulty interviewing effectively. Today, we’ll go over two tips to help you prepare for an interview.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Govig/BioPharma/Videos/2017/The+Best+Ways+to+Prepare+for+an+Interview.mp4'
 pullquote: It’s absolutely crucial to prepare for an interview.

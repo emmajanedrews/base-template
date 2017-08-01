@@ -3,7 +3,7 @@ title: Career Advancement Video Blog
 description: 'Govig & Associates is one of the largest privately held firms in the Executive Search industry. With more than three decades in staffing and recruiting, we have the knowledge, the network and the speed to provide unparalleled service to our clients.'
 show_custom_links: true
 custom_links:
-  - title: Bio Pharma
+  - title: BioPharma
     url: /bio-pharma
   - title: Building Products
     url: /building-products
@@ -17,7 +17,7 @@ client:
   clients:
     - name: Dianna LoDolceh
       title: Sr. Vice President/ General Manager
-      specialty: Bio Pharma
+      specialty: BioPharma
       client_headshot_path: /img/headshot1.jpg
       phone: 480-718-6167
       email: Dianna.lodolce@govig.com

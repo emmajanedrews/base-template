@@ -2,7 +2,7 @@
 layout: post
 title: How Can You Create a Good Corporate Culture?
 tags:
-  - Bio Pharma
+  - BioPharma
 excerpt: 'In attracting top talent to your company, you need to foster transparency, present challenges to your employees, and be willing to help them grow in their roles.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/GoVig/BioPharma/Videos/2017/How+Can+You+Create+a+Good+Corporate+Culture%253F.mp4'
 pullquote: Can you present challenges to your employees and help them grow?

@@ -2,7 +2,7 @@
 layout: post
 title: Easy Tips That Make Networking a Breeze
 tags:
-  - Health Care
+  - Healthcare
 excerpt: 'Networking is an important, but sometimes daunting, task. Here are some tips that can help.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Govig/Healthcare/Videos/2017/Easy+Tips+That+Make+Networking+a+Breeze.mp4'
 pullquote: 'Networking is about quality, not quantity.'

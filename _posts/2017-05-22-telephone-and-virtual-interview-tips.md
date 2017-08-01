@@ -2,7 +2,7 @@
 layout: post
 title: Telephone and Virtual Interview Tips
 tags:
-  - Bio Pharma
+  - BioPharma
 excerpt: 'Are you interviewing via skype or over the telephone sometime soon? If so, I’ve got a few tips to share with you.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Govig/BioPharma/Videos/2017/Telephone+and+Virtual+Interview+Tips.mp4'
 pullquote: 'In either instance, you want to be prepared.'

@@ -2,7 +2,7 @@
 layout: post
 title: 'How Can You Compete in the Top 1% in Your Industry?'
 tags:
-  - Bio Pharma
+  - BioPharma
 excerpt: 'The key to competing in the top 1% in terms of career progression involves reading the right material and doing it over and over again. Here’s what I mean.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Govig/BioPharma/Videos/2017/How+Can+You+Compete+in+the+Top+1%2525+in+Your+Industry%253F.mp4'
 pullquote: There is no such thing as luck—it’s only preparation meeting opportunity.

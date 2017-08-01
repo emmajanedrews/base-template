@@ -2,7 +2,7 @@
 layout: post
 title: Conflict Resolution in the Workplace
 tags:
-  - Bio Pharma
+  - BioPharma
 excerpt: I’m always asked what some of the top leadership skills are. Today I wanted to talk to you about conflict resolution in the workplace.
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Govig/BioPharma/Videos/2017/Conflict+Resolution+in+the+Workplace.mp4'
 pullquote: Everything is team-oriented today.
