@@ -4,9 +4,12 @@ title: Are You Unsure If You Want to Buy a New Home?
 date: 2017-07-27 11:10:00
 tags:
   - Home Buyer Tips
-excerpt: 'Today I have three questions for buyers who think they might want to wait until next year to list their home:  1. Why do you need to buy?'
-enclosure:
-pullquote: 'Home prices have increased 5% to 10% since this time last year.'
+excerpt: >-
+  Today I have three questions for buyers who think they might want to wait
+  until next year to list their home:  1. Why do you need to buy?
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+3+questions+for+unsure+buyers.mp4
+pullquote: Home prices have increased 5% to 10% since this time last year.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
