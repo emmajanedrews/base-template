@@ -1,13 +1,20 @@
 ---
 layout: post
-title: 'How to Sell for Top Dollar on the Wasatch Front '
-date: '2016-01-07T10:29:00.003-08:00'
+title: How to Sell for Top Dollar on the Wasatch Front
+date: 2016-01-07 18:29:00
 author: Emily Peterson
 tags:
-- Home Seller Tips
+  - Home Seller Tips
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Real Estate
+  - Stern Team
+  - Stern Team Real Estate
 excerpt:
 enclosure:
-pullquote: Andross, the Final Boss
+pullquote: 'Andross, the Final Boss'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
