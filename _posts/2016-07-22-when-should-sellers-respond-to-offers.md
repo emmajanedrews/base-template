@@ -1,13 +1,19 @@
 ---
 layout: post
 title: When Should Sellers Respond to Offers?
-date: '2016-07-22T09:13:00.000-07:00'
+date: 2016-07-22 16:13:00
 author: liz@getvyral.com
 tags:
-- Home Buyer Tips
+  - Home Buyer Tips
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team
+  - Stern Team Real Estate
 excerpt:
 enclosure:
-pullquote: You want to be gracious, not forceful.
+pullquote: 'You want to be gracious, not forceful.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
