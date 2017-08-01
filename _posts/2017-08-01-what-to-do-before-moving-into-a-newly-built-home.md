@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What to Do Before Moving Into a Newly Built Home
-date:
+date: 2017-08-01 15:54:39
 tags:
 excerpt: Being involved in the construction of your new home is essential.
 enclosure: >-
@@ -10,7 +10,7 @@ pullquote: Always be involved with the building process
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/construction-youtube.jpg
 youtube_code: 0mPHYbuHUEU
 ---
 
@@ -21,7 +21,7 @@ Before you move into a newly built home, there are a few key things to keep in m
 
 First, choose a reputable developer. Talking to people within the community and going over online reviews can tell you a lot about the kind of person you’ll be working with and the quality of work they do.
 
-Beyond just knowing the quality of person you’re working with, you need to understand how the quality of materials will affect your new home. Add-ons like granite countertops, additional bathrooms, upgraded cabinets, and more will really add up in terms of price. **Choosing what is most important to you without going overboard is key. &nbsp;**
+Beyond just knowing the quality of person you’re working with, you need to understand how the quality of materials will affect your new home. Add-ons like granite countertops, additional bathrooms, upgraded cabinets, and more will really add up in terms of price. **Choosing what is most important to you without going overboard is key.**
 
 To ensure that your specifications are being met, that the process is going as it should, and that the job is being done correctly, stay in regular contact with the contractor. Always be involved with the building process by having regular meetings to discuss the home.
 
