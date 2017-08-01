@@ -1,10 +1,16 @@
 ---
 layout: post
 title: How Inventory Affects the Wasatch Front Market
-date: '2016-05-24T08:38:00.002-07:00'
+date: 2016-05-24 15:38:00
 author: liz@getvyral.com
 tags:
-- Real Estate
+  - Real Estate
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team
+  - Stern Team Real Estate
 excerpt:
 enclosure:
 pullquote: Realtors have the inside track on many new homes.
