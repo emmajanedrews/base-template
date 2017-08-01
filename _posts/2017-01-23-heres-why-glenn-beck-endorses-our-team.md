@@ -1,13 +1,25 @@
 ---
 layout: post
-title: "Here's Why Glenn Beck Endorses Our Team"
+title: Here's Why Glenn Beck Endorses Our Team
 tags:
   - Market Update
   - Real Estate
   - Home Buyer Tips
   - Home Seller Tips
-excerpt: 'We are thrilled to share some exciting news with you today. We have recently been endorsed by Glenn Beck. He had some great words to say about our team, and we’re very proud of that. We are also proud of our guaranteed sale program, which Glenn explains in detail in his endorsement. To hear what Glenn Beck has to say about our team, watch this short video.'
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/Salt+Lake+County+Real+Estate+Agent-+Heres+Why+Glenn+Beck+Endorses+Our+Team.mp4'
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team
+  - Stern Team Real Estate
+excerpt: >-
+  We are thrilled to share some exciting news with you today. We have recently
+  been endorsed by Glenn Beck. He had some great words to say about our team,
+  and we’re very proud of that. We are also proud of our guaranteed sale
+  program, which Glenn explains in detail in his endorsement. To hear what Glenn
+  Beck has to say about our team, watch this short video.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/Salt+Lake+County+Real+Estate+Agent-+Heres+Why+Glenn+Beck+Endorses+Our+Team.mp4
 pullquote: We are proud of our guaranteed sale program.
 enclosure_type: video/mp4
 enclosure_time: '10:39 am'
