@@ -26,15 +26,15 @@ First of all, interest rates have remained low, buyer demand has remained high, 
 
 Around this time last year, the number of homes for sale was 10,629. Since then, **that number has dipped to 9,141 homes. This is a 14% decrease in inventory, which is a huge drop**.&nbsp;
 
-For a market to be healthy it should have 6 months of inventory. But in today’s market, we have just 2.4 months.&nbsp;
+For a market to be healthy it should have six months of inventory. But in today’s market, we have just 2.4 months.&nbsp;
 
-As a result, competition between buyers has led to a lot of multiple offer situations. Also, homes are moving off the market more quickly than they were last year.
+As a result, competition among buyers has led to a lot of multiple offer situations. Also, homes are moving off the market more quickly than they were last year.
 
 {% include pullquote.html %}
 
 In June of 2016, homes spent an average of 62 days on market compared to today’s 55 days.&nbsp;
 
-This difference is much bigger than it seems, since we’re only speaking in terms of averages. **I’ve personally seem homes see between six to seven offers within just a week of being on the market**.
+This difference is much bigger than it seems, since we’re only speaking in terms of averages. **I’ve personally seen homes get between six to seven offers within just a week of being on the market**.
 
 In this hot market, we’d love to help you put together the best strategy to achieve your real estate goals.
 
