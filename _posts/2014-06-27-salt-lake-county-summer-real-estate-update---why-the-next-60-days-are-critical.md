@@ -1,13 +1,19 @@
 ---
 layout: post
 title: Salt Lake County Summer Real Estate Update - Why the Next 60 Days are Critical
-date: '2014-06-27T13:20:00.001-07:00'
+date: 2014-06-27 20:20:00
 author: Kaitlyn Brown
 tags:
-- Market Update
+  - Market Update
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team
+  - Stern Team Real Estate
 excerpt:
 enclosure:
-pullquote: Andross, the Final Boss
+pullquote: 'Andross, the Final Boss'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
