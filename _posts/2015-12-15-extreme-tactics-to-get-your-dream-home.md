@@ -1,13 +1,20 @@
 ---
 layout: post
-title: 'Extreme Tactics to Get Your Dream Home '
-date: '2015-12-15T07:06:00.000-08:00'
+title: Extreme Tactics to Get Your Dream Home
+date: 2015-12-15 15:06:00
 author: Emily Peterson
 tags:
-- Home Buyer Tips
+  - Home Buyer Tips
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Real Estate
+  - Stern Team
+  - Stern Team Real Estate
 excerpt:
 enclosure:
-pullquote: Andross, the Final Boss
+pullquote: 'Andross, the Final Boss'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
