@@ -1,13 +1,19 @@
 ---
 layout: post
 title: Millennial Home Buyer Mistakes You Should Avoid
-date: '2015-06-15T10:25:00.001-07:00'
+date: 2015-06-15 17:25:00
 author: Amy Dryden
 tags:
-- Home Buyer Tips
+  - Home Buyer Tips
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team
+  - Stern Team Real Estate
 excerpt:
 enclosure:
-pullquote: Andross, the Final Boss
+pullquote: 'Andross, the Final Boss'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
