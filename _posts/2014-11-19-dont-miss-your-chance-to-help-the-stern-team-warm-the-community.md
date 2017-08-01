@@ -1,13 +1,19 @@
 ---
 layout: post
-title: Don't Miss Your Chance to Help the Stern Team Warm the Community!
-date: '2014-11-19T07:07:00.000-08:00'
+title: "Don't Miss Your Chance to Help the Stern Team Warm the Community!"
+date: 2014-11-19 15:07:00
 author: Kaitlyn Brown
 tags:
-- Real Estate
+  - Real Estate
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team
+  - Stern Team Real Estate
 excerpt:
 enclosure:
-pullquote: Andross, the Final Boss
+pullquote: 'Andross, the Final Boss'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
