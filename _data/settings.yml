@@ -1,6 +1,6 @@
 audit_header: false
-title: -- CLIENT BRAND --
-description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
+title: Margolis Team
+description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Margolis Team - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
   - title:
@@ -66,11 +66,11 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/margolisteam/
+  linkedin_url: https://www.linkedin.com/in/kauairon/
+  gplus_url: 
+  youtube_url: https://www.youtube.com/channel/UClMr8tCG_H8uBeoKYs4ZASQ
+  twitter_url: 
   instagram_url:
   pinterest_url:
   zillow_url: https://www.zillow.com/profile/realtorronkauai/
