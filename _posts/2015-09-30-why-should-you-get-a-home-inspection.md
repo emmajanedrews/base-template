@@ -1,13 +1,19 @@
 ---
 layout: post
 title: Why Should You Get a Home Inspection?
-date: '2015-09-30T08:47:00.000-07:00'
+date: 2015-09-30 15:47:00
 author: Emily Peterson
 tags:
-- Home Buyer Tips
+  - Home Buyer Tips
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team
+  - Stern Team Real Estate
 excerpt:
 enclosure:
-pullquote: Andross, the Final Boss
+pullquote: 'Andross, the Final Boss'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
