@@ -3,10 +3,19 @@ layout: post
 title: 2016 Wasatch Front Market Report
 tags:
   - Market Update
-excerpt: As the year comes to a close, it’s time to take a look at the 2016 report card for the Wasatch Front home sales.
-enclosure: 
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team
+  - Stern Team Real Estate
+excerpt: >-
+  As the year comes to a close, it’s time to take a look at the 2016 report card
+  for the Wasatch Front home sales.
+enclosure:
 pullquote: First-time home buyers should buy before a rate increase.
-enclosure_type: 'https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/Salt+Lake+County+Real+Estate+Agent-+2016+Wasatch+Front+Market+Report.mp4'
+enclosure_type: >-
+  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/Salt+Lake+County+Real+Estate+Agent-+2016+Wasatch+Front+Market+Report.mp4
 enclosure_time: '12:00 am'
 use_youtube_image: true
 youtube_alternate_image:
