@@ -1,13 +1,19 @@
 ---
 layout: post
 title: Do You Have Access to Every Available Home on KSL.com?
-date: '2015-08-18T10:01:00.001-07:00'
+date: 2015-08-18 17:01:00
 author: Amy Dryden
 tags:
-- Home Buyer Tips
+  - Home Buyer Tips
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team
+  - Stern Team Real Estate
 excerpt:
 enclosure:
-pullquote: Andross, the Final Boss
+pullquote: 'Andross, the Final Boss'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
