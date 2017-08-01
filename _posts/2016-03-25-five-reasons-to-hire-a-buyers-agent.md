@@ -1,13 +1,20 @@
 ---
 layout: post
-title: Five Reasons to Hire a Buyer's Agent
-date: '2016-03-25T13:46:00.000-07:00'
+title: "Five Reasons to Hire a Buyer's Agent"
+date: 2016-03-25 20:46:00
 author: liz@getvyral.com
 tags:
-- Home Buyer Tips
+  - Home Buyer Tips
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Real Estate
+  - Stern Team
+  - Stern Team Real Estate
 excerpt:
 enclosure:
-pullquote: Andross, the Final Boss
+pullquote: 'Andross, the Final Boss'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
