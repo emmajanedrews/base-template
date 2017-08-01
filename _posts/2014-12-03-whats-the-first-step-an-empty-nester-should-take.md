@@ -1,13 +1,20 @@
 ---
 layout: post
-title: What's the First Step an Empty Nester Should Take?
-date: '2014-12-03T15:14:00.000-08:00'
+title: "What's the First Step an Empty Nester Should Take?"
+date: 2014-12-03 23:14:00
 author: Vyral Admin
 tags:
-- Home Seller Tips
+  - Home Seller Tips
+  - Joshua Stern
+  - Josh Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Real Estate
+  - Stern Team
+  - Stern Team Real Estate
 excerpt:
 enclosure:
-pullquote: If you're an empty nester who's ready to sell, now is a great time to start searching for a new home.
+pullquote: "If you're an empty nester who's ready to sell, now is a great time to start searching for a new home."
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
