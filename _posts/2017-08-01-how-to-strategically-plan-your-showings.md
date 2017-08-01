@@ -5,7 +5,7 @@ date: 2017-08-01 01:00:00
 tags:
   - Real Estate
 excerpt: Showing multiple properties in one afternoon can get tricky. Here’s how you should go about it.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Nancy+Seraphin/+Videos/2017/August/Park+City+Real+Estate+Careers-+How+to+Strategically+Plan+Your+Showings.mp4'
 pullquote: Don’t neglect your buyer’s emotional reactions to homes.
 enclosure_type: video/mp4
 enclosure_time:
