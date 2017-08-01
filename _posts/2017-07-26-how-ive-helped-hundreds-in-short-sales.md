@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "How I've Helped Hundreds in Short Sales"
+title: How I've Helped Hundreds in Short Sales
 tags:
   - Home Seller Tips
 excerpt: Short sales have become a major issue in our local market.
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Ernie+Dill/Northern+Virginia+Real+Estate+Team+Stuck+in+a+short+sale.mp4'
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Ernie+Dill/Northern+Virginia+Real+Estate+Team+Stuck+in+a+short+sale.mp4
 pullquote: I am here to help.
 enclosure_type: video/mp4
 enclosure_time:
@@ -22,7 +23,7 @@ Also, about 2,200 families’ homes mortgages are 60 to 90 days late. This is es
 
 Even still, 15% to 20% of homes in our local market are worth less than the amount owed on the mortgages.
 
-I’ve personally worked with and helped hundreds of people across Northern Virginia to overcome situations just these kind of situations. These people needed to sell, but owed more than their homes were currently worth.
+I’ve personally worked with and helped hundreds of people across Northern Virginia to overcome just these kind of situations. These people needed to sell, but owed more than their homes were currently worth.
 
 This kind of circumstance is called a short sale.
 
