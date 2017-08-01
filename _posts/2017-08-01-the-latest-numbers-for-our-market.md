@@ -5,7 +5,7 @@ date: 2017-08-01 13:28:00
 tags:
   - Market Update
 excerpt: I’ve got a quick update for you today on our real estate market. Here’s what you need to know.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/+Videos/2017/August/Memphis+Real+Estate+Agent-+The+Latest+Numbers+for+Our+Market.mp4'
 pullquote: 'Bank-owned properties are down a whopping 20%.'
 enclosure_type: video/mp4
 enclosure_time:
