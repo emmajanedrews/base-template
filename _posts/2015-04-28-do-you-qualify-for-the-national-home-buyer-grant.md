@@ -1,18 +1,24 @@
 ---
 layout: post
 title: Do You Qualify for the National Home Buyer Grant?
-date: '2015-04-28T09:00:00.000-07:00'
+date: 2015-04-28 16:00:00
 author: Amy Dryden
 tags:
-- Home Buyer Tips
+  - Home Buyer Tips
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team
+  - Stern Team Real Estate
 excerpt:
 enclosure:
-pullquote: Andross, the Final Boss
+pullquote: 'Andross, the Final Boss'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: -Aq9M41GUuo
+youtube_code: '-Aq9M41GUuo'
 ---
 {% include youtube.html %}
 Hey everyone, we are back on the Wasatch Front with a special guest today, Chris Van Leeuwen, who has access to a mortgage product that covers 100% financing, with a forgiving grant. We have invited Chris in to tell you about this grant today.
