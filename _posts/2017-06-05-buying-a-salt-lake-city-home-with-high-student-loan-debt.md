@@ -3,9 +3,25 @@ layout: post
 title: Buying a Salt Lake City Home With High Student Loan Debt
 tags:
   - Home Buyer Tips
-excerpt: 'Jayson Kisselburg from Veritas Funding joins me today to discuss some good news for those of you who have high student loan debt but want to buy a home. College loan debt is a burden for many Americans and finally, the government has stepped in with a new Fannie Mae program to help. This program allows you to take equity out of your current home and use it to pay off your student loans. To learn how exactly this program can benefit you, watch this short video.'
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/June/The+Stern+Team-+Buying+a+Salt+Lake+City+Home+With+High+Student+Loan+Debt.mp4'
-pullquote: This Fannie Mae program will help more people with student debt qualify for home loans.
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team
+  - Stern Team Real Estate
+excerpt: >-
+  Jayson Kisselburg from Veritas Funding joins me today to discuss some good
+  news for those of you who have high student loan debt but want to buy a home.
+  College loan debt is a burden for many Americans and finally, the government
+  has stepped in with a new Fannie Mae program to help. This program allows you
+  to take equity out of your current home and use it to pay off your student
+  loans. To learn how exactly this program can benefit you, watch this short
+  video.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/June/The+Stern+Team-+Buying+a+Salt+Lake+City+Home+With+High+Student+Loan+Debt.mp4
+pullquote: >-
+  This Fannie Mae program will help more people with student debt qualify for
+  home loans.
 enclosure_type: video/mp4
 enclosure_time: '10:39 am'
 use_youtube_image: true
