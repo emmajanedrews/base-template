@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Rules Has Fannie Mae Changed About Qualifying for a Loan?
-date: 2017-07-18 13:50:00
+date: 2017-08-01 13:50:00
 tags:
   - Home Buyer Tips
 excerpt: >-
