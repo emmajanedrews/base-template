@@ -1,13 +1,19 @@
 ---
 layout: post
 title: Why Is Homeownership so Affordable in 2015?
-date: '2015-03-19T09:28:00.002-07:00'
+date: 2015-03-19 16:28:00
 author: Vyral Admin
 tags:
-- Home Buyer Tips
+  - Home Buyer Tips
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team
+  - Stern Team Real Estate
 excerpt:
 enclosure:
-pullquote: In 2014, an average person would only have to spend 15% of their income to purchase a home, the 3rd lowest figure on record.
+pullquote: 'In 2014, an average person would only have to spend 15% of their income to purchase a home, the 3rd lowest figure on record.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
