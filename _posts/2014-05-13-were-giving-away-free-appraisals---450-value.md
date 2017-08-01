@@ -1,10 +1,16 @@
 ---
 layout: post
-title: We're Giving Away Free Appraisals - $450 Value
-date: '2014-05-13T15:11:00.000-07:00'
+title: "We're Giving Away Free Appraisals - $450 Value"
+date: 2014-05-13 22:11:00
 author: Eric@getvyral.com
 tags:
-modified_time: '2014-06-30T10:40:15.459-07:00'
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team Real Estate
+  - Stern Team
+modified_time:
 excerpt: I am very excited to announce our new Salt Lake County real estate video blog. I will be updating you twice a month with tips and advice so you can make informed decisions. My goal is to educate my clients or anyone else looking to take part in the Salt Lake County real estate market by providing you with the latest information.
 enclosure:
 pullquote:
