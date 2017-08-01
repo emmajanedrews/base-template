@@ -1,13 +1,19 @@
 ---
 layout: post
-title: An Expert Described the Market as a "Crapshoot" - We Disagree
-date: '2014-08-12T07:43:00.000-07:00'
+title: 'An Expert Described the Market as a "Crapshoot" - We Disagree'
+date: 2014-08-12 14:43:00
 author: Kaitlyn Brown
 tags:
-- Market Update
+  - Market Update
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team
+  - Stern Team Real Estate
 excerpt:
 enclosure:
-pullquote: Andross, the Final Boss
+pullquote: 'Andross, the Final Boss'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
