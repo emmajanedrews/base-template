@@ -1,13 +1,19 @@
 ---
 layout: post
 title: How Can You Get Your Dream Home on the Wasatch Front?
-date: '2015-05-21T09:00:00.000-07:00'
+date: 2015-05-21 16:00:00
 author: Amy Dryden
 tags:
-- Home Buyer Tips
+  - Home Buyer Tips
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team
+  - Stern Team Real Estate
 excerpt:
 enclosure:
-pullquote: Andross, the Final Boss
+pullquote: 'Andross, the Final Boss'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
