@@ -3,8 +3,20 @@ layout: post
 title: How We Do Things at The Stern Team
 tags:
   - Real Estate
-excerpt: 'Why work with us here at The Stern Team? Today we want to share with you a few testimonials from our own employees. Some of them were clients of ours who joined because they wanted to be a part of the service we offer. Others stayed because of our ability to take their career to the next level. To learn more about how we do things at The Stern Team, watch our latest video.'
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/March/Salt+Lake+County+Real+Estate+Agent-+How+We+Do+Things+at+The+Stern+Team.mp4'
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team
+  - Stern Team Real Estate
+excerpt: >-
+  Why work with us here at The Stern Team? Today we want to share with you a few
+  testimonials from our own employees. Some of them were clients of ours who
+  joined because they wanted to be a part of the service we offer. Others stayed
+  because of our ability to take their career to the next level. To learn more
+  about how we do things at The Stern Team, watch our latest video.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/March/Salt+Lake+County+Real+Estate+Agent-+How+We+Do+Things+at+The+Stern+Team.mp4
 pullquote: We are proud of our guaranteed sale program.
 enclosure_type: video/mp4
 enclosure_time: '10:34 am'
