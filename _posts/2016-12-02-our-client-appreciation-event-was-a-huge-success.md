@@ -6,8 +6,17 @@ tags:
   - Real Estate
   - Home Buyer Tips
   - Home Seller Tips
-excerpt: 'We had a great time at our client appreciation event. We hope you did too, as we are already looking forward to the next one.'
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/Salt+Lake+County+Real+Estate+Agent-+Our+Client+Appreciation+Event+Was+a+Huge+Success.mp4'
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team
+  - Stern Team Real Estate
+excerpt: >-
+  We had a great time at our client appreciation event. We hope you did too, as
+  we are already looking forward to the next one.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/Salt+Lake+County+Real+Estate+Agent-+Our+Client+Appreciation+Event+Was+a+Huge+Success.mp4
 pullquote: We were thrilled that so many of you were able to come out.
 enclosure_type: video/mp4
 enclosure_time:
