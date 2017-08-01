@@ -1,10 +1,16 @@
 ---
 layout: post
 title: How Do We Know Our Market Is Strong?
-date: '2016-08-02T10:12:00.001-07:00'
+date: 2016-08-02 17:12:00
 author: liz@getvyral.com
 tags:
-- Market Update
+  - Market Update
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team
+  - Stern Team Real Estate
 excerpt:
 enclosure:
 pullquote: Now is the time to get involved in buyer or selling real estate.
