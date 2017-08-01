@@ -6,8 +6,20 @@ tags:
   - Real Estate
   - Home Buyer Tips
   - Home Seller Tips
-excerpt: 'If you cannot sell your current home before buying your next one, bridge loans are a great option for you. What are bridge loans and how do they work? Basically, bridge loans are temporary loans that help you purchase a new home while you are still in your current one. To learn more details about how bridge loans work, watch this short video.'
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/January/Salt+Lake+County+Real+Estate+Agent-+What+Is+a+Bridge+Loan%253F.mp4'
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team
+  - Stern Team Real Estate
+excerpt: >-
+  If you cannot sell your current home before buying your next one, bridge loans
+  are a great option for you. What are bridge loans and how do they work?
+  Basically, bridge loans are temporary loans that help you purchase a new home
+  while you are still in your current one. To learn more details about how
+  bridge loans work, watch this short video.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/January/Salt+Lake+County+Real+Estate+Agent-+What+Is+a+Bridge+Loan%253F.mp4
 pullquote: There are many benefits to using a bridge loan.
 enclosure_type: video/mp4
 enclosure_time: '11:34 am'
