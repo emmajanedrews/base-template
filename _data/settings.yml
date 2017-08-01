@@ -7,26 +7,26 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Joe DeSane
   license_number:
   about_markdown: |
-
+    Joe DeSane, born and raised in Palm Beach County, he understands the area and knows how to get top dollar for his clients. When working with Joe you can expect him and his team to negotiate you top dollar for your property. Their negotiation skills guide every buyer and seller through real estate obstacles leading them happily to the closing table. Joe and his team take a more aggressive approach when it comes to buying and selling real estate in today’s forever changing market. Joe possesses the ability to empower agents and create a collaborative, cooperative team. Continuously stressing the importance of building and maintaining client relationships, he provides agents with market knowledge, technology, and resources they require to effectively meet their clients’ needs. As a team in 2015, DeSane Realty Group sold over 140 homes to Palm Beach County Residents. In 2016, Joe’s team plans to assist over 200 buyers & sellers with their home needs.
   market:
-  brand:
-  brokerage:
-  address:
-  phone:
+  brand: DeSane & Associates
+  brokerage: Keller Williams Realty
+  address: 12008 South Shore Blvd Suite 201. Wellington, FL 33414
+  phone: 561-320-2085
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Joe@DeSaneAndAssociates.com
+  url: http://www.desaneandassociates.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.desaneandassociates.com/what-s-your-home-really-worth/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.desaneandassociates.com/
   VR_form:
 
 sidebar_CTA:
@@ -34,14 +34,14 @@ sidebar_CTA:
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free -- MARKET -- Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.desaneandassociates.com/what-s-your-home-really-worth/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://www.desaneandassociates.com/
 
 lender:
   show_section: false
@@ -66,16 +66,16 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/DESANEANDASSOCIATES/
+  linkedin_url: https://www.linkedin.com/in/joe-desane-2b946793/
   gplus_url:
-  youtube_url:
-  twitter_url:
+  youtube_url: http://www.youtube.com/channel/UCVFxMZ5y_mhaJHX_zvcC5PQ
+  twitter_url: https://twitter.com/DESANANDASSOC
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
+  zillow_url: https://www.zillow.com/profile/DeSane_And_Assoc./
+  trulia_url: https://www.trulia.com/profile/joe-desane-agent-wellington-fl-zg96prr4/overview
+  yelp_url: https://www.yelp.com/biz/desane-and-associates-wellington
   podcast_url:
 
 podcast:
@@ -90,7 +90,7 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 80
   hero_text: -- MARKET -- Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
