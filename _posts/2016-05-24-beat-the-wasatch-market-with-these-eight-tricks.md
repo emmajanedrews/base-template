@@ -1,10 +1,16 @@
 ---
 layout: post
 title: Beat the Wasatch Market With These Eight Tricks
-date: '2016-05-24T09:02:00.000-07:00'
+date: 2016-05-24 16:02:00
 author: liz@getvyral.com
 tags:
-- Home Buyer Tips
+  - Home Buyer Tips
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team
+  - Stern Team Real Estate
 excerpt:
 enclosure:
 pullquote: You need a strong Realtor to help you navigate this market.
