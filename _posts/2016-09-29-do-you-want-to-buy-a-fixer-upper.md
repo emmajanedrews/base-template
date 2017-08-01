@@ -1,12 +1,19 @@
 ---
 layout: post
-title: 'Do You Want to Buy a Fixer-Upper? '
-date: '2016-09-29T14:25:00.002-07:00'
+title: Do You Want to Buy a Fixer-Upper?
+date: 2016-09-29 21:25:00
 author: liz@getvyral.com
 tags:
-- Home Buyer Tips
+  - Home Buyer Tips
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team
+  - Stern Team Real Estate
 excerpt:
-enclosure: https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/Salt+Lake+County+Real+Estate+Agent+-+Do+You+Want+to+Buy+a+Fixer-Upper.mp4
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/Salt+Lake+County+Real+Estate+Agent+-+Do+You+Want+to+Buy+a+Fixer-Upper.mp4
 pullquote: Always look at comparable properties to see if the property is fairly priced.
 enclosure_type: video/mp4
 enclosure_time:
