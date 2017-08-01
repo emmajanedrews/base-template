@@ -3,8 +3,20 @@ layout: post
 title: Why Agents Choose to Work on The Stern Team
 tags:
   - Real Estate
-excerpt: 'Why do agents choose to join The Stern Team? It could be because we are the top team in the state of Utah. It could be because we offer one-on-one mentorship, coaching, training, and motivation. For these three women, it was all the above. To see what some of our own agents have to say about working on our team, watch this short video.'
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/Salt+Lake+County+Real+Estate+Agent-+Heres+Why+Glenn+Beck+Endorses+Our+Team.mp4'
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team
+  - Stern Team Real Estate
+excerpt: >-
+  Why do agents choose to join The Stern Team? It could be because we are the
+  top team in the state of Utah. It could be because we offer one-on-one
+  mentorship, coaching, training, and motivation. For these three women, it was
+  all the above. To see what some of our own agents have to say about working on
+  our team, watch this short video.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/Salt+Lake+County+Real+Estate+Agent-+Heres+Why+Glenn+Beck+Endorses+Our+Team.mp4
 pullquote: The Stern Team is simply the best choice.
 enclosure_type: video/mp4
 enclosure_time: '10:39 am'
