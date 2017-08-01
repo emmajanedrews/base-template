@@ -1,13 +1,19 @@
 ---
 layout: post
-title: 'How Will Rising Interest Rates Affect Wasatch Front Home Values? '
-date: '2015-11-04T08:51:00.000-08:00'
+title: How Will Rising Interest Rates Affect Wasatch Front Home Values?
+date: 2015-11-04 16:51:00
 author: Emily Peterson
 tags:
-- Home Seller Tips
+  - Home Seller Tips
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team
+  - Stern Team Real Estate
 excerpt:
 enclosure:
-pullquote: Andross, the Final Boss
+pullquote: 'Andross, the Final Boss'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
