@@ -1,13 +1,19 @@
 ---
 layout: post
 title: Why Was Your Offer Rejected?
-date: '2016-04-29T10:15:00.000-07:00'
+date: 2016-04-29 17:15:00
 author: Vyral Admin
 tags:
-- Home Buyer Tips
+  - Home Buyer Tips
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team
+  - Stern Team Real Estate
 excerpt:
 enclosure:
-pullquote: Whenever an agent fails to show professionalism, it’s bad.
+pullquote: 'Whenever an agent fails to show professionalism, it’s bad.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
