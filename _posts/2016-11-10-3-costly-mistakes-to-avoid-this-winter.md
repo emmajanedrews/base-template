@@ -5,8 +5,15 @@ date: 2016-11-10 17:07:00
 author: liz@getvyral.com
 tags:
   - Home Buyer Tips
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team
+  - Stern Team Real Estate
 excerpt:
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/Salt+Lake+County+Real+Estate+Agent+-+3+Costly+Mistakes+to+Avoid+This+Winter.mp4'
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/Salt+Lake+County+Real+Estate+Agent+-+3+Costly+Mistakes+to+Avoid+This+Winter.mp4
 pullquote: 'A little ice can cause a lot of big, costly problems for your home.'
 enclosure_type: video/mp4
 enclosure_time:
