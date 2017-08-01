@@ -1,13 +1,19 @@
 ---
 layout: post
-title: What's Happening with Salt Lake County Real Estate?
-date: '2015-08-13T13:57:00.000-07:00'
+title: "What's Happening with Salt Lake County Real Estate?"
+date: 2015-08-13 20:57:00
 author: Amy Dryden
 tags:
-- Market Update
+  - Market Update
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team
+  - Stern Team Real Estate
 excerpt:
 enclosure:
-pullquote: Andross, the Final Boss
+pullquote: 'Andross, the Final Boss'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
