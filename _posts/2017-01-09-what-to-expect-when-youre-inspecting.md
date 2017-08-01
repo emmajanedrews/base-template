@@ -1,13 +1,28 @@
 ---
 layout: post
-title: "What to Expect When You're Inspecting"
+title: What to Expect When You're Inspecting
 tags:
   - Market Update
   - Real Estate
   - Home Buyer Tips
   - Home Seller Tips
-excerpt: 'Getting a home inspection is a very important part of a real estate transaction. Whether you’re a buyer or a seller, being in the know about the home inspection will make the process go much smoother. Today, I’m joined by professional inspector Fred Larsen to tell you everything you need to know about home inspections. For example, home inspectors are not required to have a license in Utah, so you better make sure you know exactly who you hire. To find out what else you should know about home inspections, watch this short video.'
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/January/Salt+Lake+County+Real+Estate+Agent-+What+to+Expect+When+Youre+Inspecting.mp4'
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team
+  - Stern Team Real Estate
+excerpt: >-
+  Getting a home inspection is a very important part of a real estate
+  transaction. Whether you’re a buyer or a seller, being in the know about the
+  home inspection will make the process go much smoother. Today, I’m joined by
+  professional inspector Fred Larsen to tell you everything you need to know
+  about home inspections. For example, home inspectors are not required to have
+  a license in Utah, so you better make sure you know exactly who you hire. To
+  find out what else you should know about home inspections, watch this short
+  video.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/January/Salt+Lake+County+Real+Estate+Agent-+What+to+Expect+When+Youre+Inspecting.mp4
 pullquote: 'If you’re a buyer, get the inspection done as early as possible.'
 enclosure_type: video/mp4
 enclosure_time:
