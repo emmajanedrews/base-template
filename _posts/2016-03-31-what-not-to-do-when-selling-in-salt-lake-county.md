@@ -1,10 +1,16 @@
 ---
 layout: post
-title: 'What Not To Do When Selling in Salt Lake County '
-date: '2016-03-31T10:18:00.001-07:00'
+title: What Not To Do When Selling in Salt Lake County
+date: 2016-03-31 17:18:00
 author: Vyral Admin
 tags:
-- Home Seller Tips
+  - Home Seller Tips
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team
+  - Stern Team Real Estate
 excerpt:
 enclosure:
 pullquote: Overpricing your home costs you time and money.
