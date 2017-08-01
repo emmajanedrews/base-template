@@ -19,9 +19,9 @@ client:
   phone_type:
   phone2:
   phone2_type:
-  email: clint@nealteam.com
+  email: Clint@nealteam.com
   email_type: Clint
-  email2: shane@nealteam.com
+  email2: Shane@nealteam.com
   email2_type: Shane
   url: https://www.mysanantoniohomesearch.com
 
@@ -37,7 +37,7 @@ sidebar_CTA:
     CTA_title: "Reach Out to Us!"
     CTA_text: "Have a property that might work? We give a 5% equity stake to the agent that flips us the deal plus the commission they earn."
     CTA_link_text: "Send It to Us Here"
-    CTA_url: /#
+    CTA_url: /contact-us
 
 # second_sidebar_CTA:
 #   - CTA_image_path2: /img/cta-images/005.jpg
