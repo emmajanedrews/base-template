@@ -3,8 +3,21 @@ layout: post
 title: What Sets Realtors Apart From Normal Agents?
 tags:
   - Real Estate
-excerpt: 'What sets Realtors apart from regular real estate agents? Many people use the two terms interchangeably, but not all agents are true Realtors. In fact, Realtors are held to a higher standard of practice and ethics and belong to state and national boards. They must also continue their education in real estate constantly. For more details on the difference between real estate agents and Realtors and what it means for you, watch my latest video.'
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/April/Salt+Lake+County+Real+Estate+Agent-+What+Sets+Realtors+Apart+From+Normal+Agents%253F.mp4'
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team
+  - Stern Team Real Estate
+excerpt: >-
+  What sets Realtors apart from regular real estate agents? Many people use the
+  two terms interchangeably, but not all agents are true Realtors. In fact,
+  Realtors are held to a higher standard of practice and ethics and belong to
+  state and national boards. They must also continue their education in real
+  estate constantly. For more details on the difference between real estate
+  agents and Realtors and what it means for you, watch my latest video.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/April/Salt+Lake+County+Real+Estate+Agent-+What+Sets+Realtors+Apart+From+Normal+Agents%253F.mp4
 pullquote: Realtors are held to a higher standard and a code of ethics.
 enclosure_type: video/mp4
 enclosure_time: '10:39 am'
