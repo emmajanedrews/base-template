@@ -1,12 +1,19 @@
 ---
 layout: post
-title: Have a Night Out on Us!
-date: '2014-10-30T09:13:00.000-07:00'
+title: 'Have a Night Out on Us!'
+date: 2014-10-30 16:13:00
 author: Kaitlyn Brown
 tags:
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Real Estate
+  - Stern Team
+  - Stern Team Real Estate
 excerpt:
 enclosure:
-pullquote: Andross, the Final Boss
+pullquote: 'Andross, the Final Boss'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
