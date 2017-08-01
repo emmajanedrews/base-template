@@ -3,9 +3,26 @@ layout: post
 title: How to Freshen Your Home up After the Winter Months
 tags:
   - Home Seller Tips
-excerpt: "With spring just around the corner, now is a great time to start taking care of some important home maintenance items. Most people tend to neglect certain parts of their home during the winter when we spend most of our time inside. For example, go outside your home to check out exterior caulking, your shingles, and places on your home where icicles formed during the winter. It's also a great time for annual HVAC servicing, which might even be mandatory to keep your warranty. For more tips, watch this short video."
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/March/Salt+Lake+County+Real+Estate+Agent-+How+to+Freshen+Your+Home+Up+After+the+Winter+Months.mp4'
-pullquote: 'Spring is a great time for your annual HVAC service, which you may need to maintain the warranty.'
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Real Estate
+  - Stern Team
+  - Stern Team Real Estate
+excerpt: >-
+  With spring just around the corner, now is a great time to start taking care
+  of some important home maintenance items. Most people tend to neglect certain
+  parts of their home during the winter when we spend most of our time inside.
+  For example, go outside your home to check out exterior caulking, your
+  shingles, and places on your home where icicles formed during the winter. It's
+  also a great time for annual HVAC servicing, which might even be mandatory to
+  keep your warranty. For more tips, watch this short video.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2017/March/Salt+Lake+County+Real+Estate+Agent-+How+to+Freshen+Your+Home+Up+After+the+Winter+Months.mp4
+pullquote: >-
+  Spring is a great time for your annual HVAC service, which you may need to
+  maintain the warranty.
 enclosure_type: video/mp4
 enclosure_time: '10:39 am'
 use_youtube_image: true
