@@ -3,8 +3,23 @@ layout: post
 title: 6 Home Selling Mistakes That Can Sink Your Sale
 tags:
   - Home Seller Tips
-excerpt: 'When you sell your house, there are a few steps you can take to put yourself in a great position to sell quickly and for the most money possible. However, there are also plenty of things you can do that can sink your home’s sale. Today, I wanted to highlight the top six home sale sinkers that you should avoid at all costs. For example, you don’t want to do it on your own, because people who hire an agent sell their house faster and for tens of thousands of dollars more on average. To learn more, watch my latest video.'
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/Salt+Lake+County+Real+Estate+Agent-+Heres+Why+Glenn+Beck+Endorses+Our+Team.mp4'
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Real Estate
+  - Stern Team
+  - Stern Team Real Estate
+excerpt: >-
+  When you sell your house, there are a few steps you can take to put yourself
+  in a great position to sell quickly and for the most money possible. However,
+  there are also plenty of things you can do that can sink your home’s sale.
+  Today, I wanted to highlight the top six home sale sinkers that you should
+  avoid at all costs. For example, you don’t want to do it on your own, because
+  people who hire an agent sell their house faster and for tens of thousands of
+  dollars more on average. To learn more, watch my latest video.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/Salt+Lake+County+Real+Estate+Agent-+Heres+Why+Glenn+Beck+Endorses+Our+Team.mp4
 pullquote: Buyers are sensitive to a home’s presentation.
 enclosure_type: video/mp4
 enclosure_time: '1:50 pm'
