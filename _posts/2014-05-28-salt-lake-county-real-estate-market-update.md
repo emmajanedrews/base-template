@@ -1,9 +1,15 @@
 ---
 layout: post
 title: Salt Lake County Real Estate Market Update
-date: '2014-05-28T06:44:00.001-07:00'
+date: 2014-05-28 13:44:00
 tags:
   - Market Update
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team
+  - Stern Team Real Estate
 excerpt:
 enclosure:
 pullquote:
