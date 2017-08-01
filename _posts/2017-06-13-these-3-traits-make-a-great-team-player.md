@@ -2,7 +2,7 @@
 layout: post
 title: These 3 Traits Make a Great Team Player
 tags:
-  - Health Care
+  - Healthcare
 excerpt: "When it comes to team dynamics, there are three traits we like to look for that we've borrowed from the book \"The Ideal Team Player.\""
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Govig/Healthcare/Videos/2017/These+3+Traits+Make+a+Great+Team+Player+(1).mp4'
 pullquote: 'Someone who is hungry will want more responsibility, to learn more, and be self-motivated.'

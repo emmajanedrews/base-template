@@ -2,7 +2,7 @@
 layout: post
 title: How the Affordable Care Act Affects the Nursing Home Industry
 tags:
-  - Health Care
+  - Healthcare
 excerpt: How does the Affordable Care Act affect the nursing home industry? I’ll answer that for you today.
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Govig/Healthcare/Videos/2017/How+the+Affordable+Care+Act+Affects+the+Nursing+Home+Industry.mp4'
 pullquote: 'By the year 2025, there will be a shortage of 52,000 primary care physicians.'

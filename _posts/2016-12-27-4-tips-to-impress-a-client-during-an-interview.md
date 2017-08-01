@@ -2,7 +2,7 @@
 layout: post
 title: 4 Tips to Impress a Client During an Interview
 tags:
-  - Health Care
+  - Healthcare
 excerpt: 'If you’re interviewing for a job, the way to impress the hiring authorities is to be prepared and be punctual. Today I have four tips to achieve each of these objectives.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/GoVig/Healthcare/Videos/Hadley+Gayles+%252812-5-2016%2529+Interviewing.mp4'
 pullquote: Always ask questions.

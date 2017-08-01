@@ -2,7 +2,7 @@
 layout: post
 title: When Is the Right Time for a Retained Search?
 tags:
-  - Health Care
+  - Healthcare
 excerpt: "Today we're answering some questions we receive about the difference between contingent and retained searches, as well as how they affect both the client and the candidates."
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Govig/Healthcare/Videos/2017/When+Is+the+Right+Time+for+a+Retained+Search%253F.mp4'
 pullquote: Retained searches usually provide a more exhaustive search.

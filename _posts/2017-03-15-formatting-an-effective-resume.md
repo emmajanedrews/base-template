@@ -2,7 +2,7 @@
 layout: post
 title: Formatting an Effective Resume
 tags:
-  - Health Care
+  - Healthcare
 excerpt: Today I want to take you through a few steps that will ensure your resume is the most effective.
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Govig/Healthcare/Videos/2017/4+Ways+to+Spruce+Up+Your+Resume.mp4'
 pullquote: Make sure all of your contact information is up to date.

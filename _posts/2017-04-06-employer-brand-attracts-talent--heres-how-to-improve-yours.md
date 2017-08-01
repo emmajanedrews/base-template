@@ -2,7 +2,7 @@
 layout: post
 title: "Employer Brand Attracts Talent. Here's How to Improve Yours"
 tags:
-  - Health Care
+  - Healthcare
 excerpt: Employer brand can be just as important as your product or services. Here are few ways to improve that brand to help attract top talent.
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Govig/Healthcare/Videos/2017/Employer+Brand+Attracts+Talent.+Here%2527s+How+to+Improve+Yours.mp4'
 pullquote:

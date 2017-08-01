@@ -11,7 +11,7 @@ custom_links:
     url: /careers
   # - title: Futurity
   #   url: /futurity
-  - title: Health Care
+  - title: Healthcare
     url: /health-care
 client:
   clients:
@@ -157,7 +157,7 @@ client:
 
     - name: Hadley Gayles
       title: Sr. Vice President/ General Manager
-      specialty: Health Care
+      specialty: Healthcare
       client_headshot_path: /img/headshot5.jpg
       phone: 480-718-6124
       email: hadley.gayles@govig.com

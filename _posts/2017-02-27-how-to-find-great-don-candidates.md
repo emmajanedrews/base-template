@@ -2,7 +2,7 @@
 layout: post
 title: How to Find Great DON Candidates
 tags:
-  - Health Care
+  - Healthcare
 excerpt: "What does it take to recruit a great candidate for a director of nursing? Today I'll go over the resources you can look to for finding a great candidate."
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Govig/Healthcare/Videos/2017/How+to+Find+Great+DON+Candidates.mp4'
 pullquote: Interview for potential rather than just experience.
