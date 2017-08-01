@@ -4,8 +4,11 @@ title: What Rules Has Fannie Mae Changed About Qualifying for a Loan?
 date: 2017-07-18 13:50:00
 tags:
   - Home Buyer Tips
-excerpt: Fannie Mae recently made three important rule changes regarding what it takes to qualify for a loan. Here are the changes and how they affect you.
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Jason+Wilson/+Videos/2017/July/Woodstock%252C+GA+Real+Estate+Agent-+What+Rules+Has+Fannie+Mae+Changed+About+Qualifying+for+a+Loan%253F.mp4'
+excerpt: >-
+  Fannie Mae recently made three important rule changes regarding what it takes
+  to qualify for a loan. Here are the changes and how they affect you.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jason+Wilson/+Videos/2017/July/Woodstock%252C+GA+Real+Estate+Agent-+What+Rules+Has+Fannie+Mae+Changed+About+Qualifying+for+a+Loan%253F.mp4
 pullquote: These changes most apply to your debt-to-income ratio.
 enclosure_type: video/mp4
 enclosure_time:
