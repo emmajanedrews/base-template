@@ -1,16 +1,25 @@
 audit_header: false
-title: 'Ursula & Associates'
-description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
+title: Ursula & Associates
+description: >-
+  If you are looking to buy or sell a home, get all the information and the
+  latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+  -- MARKET -- Real Estate Agents.
 show_custom_links: true
 custom_links:
   - title: About
-    url: www.wilsonkw.com
+    url: 'http://www.callursula.com/'
 client:
   name: Jason Wilson
   license_number: 333062
-  about_markdown: 'Jason is the lead agent and owner of Ursula & Associates. He has been a national speaker and teacher for the real estate industry for years. "We are students of the market and excel in knowing how to help our clients navigate the market with ease. We work to get our clients top dollar with expert knowledge, in the least amount of time with the industry’s strongest marketing plan."'
+  about_markdown: >-
+    Jason is the lead agent and owner of Ursula & Associates. He has been a
+    national speaker and teacher for the real estate industry for years. "We are
+    students of the market and excel in knowing how to help our clients navigate
+    the market with ease. We work to get our clients top dollar with expert
+    knowledge, in the least amount of time with the industry’s strongest
+    marketing plan."
   market: Woodstock
-  brand: 'Ursula & Associates'
+  brand: Ursula & Associates
   brokerage: Keller Williams Realty Partners
   address: '220 Heritage Walk #101<br>Woodstock, GA 30188'
   phone: 678-389-3887
@@ -34,8 +43,8 @@ sidebar_CTA:
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
+    Our mission at -- CLIENT BRAND -- is to be your best resource for real
+    estate advice. Whether you are a buyer, seller, or investor, our team of
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
@@ -49,17 +58,30 @@ socials:
   instagram_url:
   pinterest_url:
   zillow_url: 'https://www.zillow.com/profile/Jason-Wilson-WRG/'
-  trulia_url: 'https://www.trulia.com/profile/jason-wilson-agent-woodstock-ga-zg5979m1/overview'
+  trulia_url: >-
+    https://www.trulia.com/profile/jason-wilson-agent-woodstock-ga-zg5979m1/overview
   yelp_url:
-  podcast_url: 'https://itunes.apple.com/us/podcast/wilson-realty-group-podcast/id1215843982?mt=2'
+  podcast_url: >-
+    https://itunes.apple.com/us/podcast/wilson-realty-group-podcast/id1215843982?mt=2
 podcast:
   title: Wilson Realty Group Podcast
   categories:
     - Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the -- MARKET
+    -- Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+    -- MARKET -- Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in -- MARKET --,
+    home selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
   author: '-- CLIENT NAME --'
 images:
   client_headshot_path: /img/headshot.jpg
