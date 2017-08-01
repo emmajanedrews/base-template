@@ -5,9 +5,19 @@ date: 2016-11-29 12:00:00
 author: alyssa@getvyral.com
 tags:
   - Home Seller Tips
-excerpt: 'Today, I’ll go over the top six reasons why you should sell your home during the holidays.'
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/Salt+Lake+County+Real+Estate+Agent-+The+Top+6+Reasons+to+Sell+Your+Home+During+the+Holidays.mp4'
-pullquote: 'Buyers are ready to purchase your home right away!'
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Real Estate
+  - Stern Team
+  - Stern Team Real Estate
+excerpt: >-
+  Today, I’ll go over the top six reasons why you should sell your home during
+  the holidays.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/Salt+Lake+County+Real+Estate+Agent-+The+Top+6+Reasons+to+Sell+Your+Home+During+the+Holidays.mp4
+pullquote: Buyers are ready to purchase your home right away!
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
