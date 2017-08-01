@@ -1,10 +1,16 @@
 ---
 layout: post
-title: 'Don’t Skip This Inspection When Buying in Salt Lake County '
-date: '2016-05-06T09:35:00.000-07:00'
+title: Don’t Skip This Inspection When Buying in Salt Lake County
+date: 2016-05-06 16:35:00
 author: liz@getvyral.com
 tags:
-- Home Buyer Tips
+  - Home Buyer Tips
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team
+  - Stern Team Real Estate
 excerpt:
 enclosure:
 pullquote: You need to get your sewer lines inspected.
