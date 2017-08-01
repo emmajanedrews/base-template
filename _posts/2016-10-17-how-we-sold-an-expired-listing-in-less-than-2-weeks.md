@@ -1,12 +1,19 @@
 ---
 layout: post
-title: 'How We Sold an Expired Listing in Less Than 2 Weeks '
-date: '2016-10-17T13:51:00.000-07:00'
+title: How We Sold an Expired Listing in Less Than 2 Weeks
+date: 2016-10-17 20:51:00
 author: liz@getvyral.com
 tags:
-- Home Seller Tips
+  - Home Seller Tips
+  - Josh Stern
+  - Joshua Stern
+  - Joshua Stern Real Estate
+  - Joshua Stern Realtor
+  - Stern Team
+  - Stern Team Real Estate
 excerpt:
-enclosure: https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/Salt+Lake+County+Real+Estate+Agent+-+How+We+Sold+an+Expired+Listing+in+Less+Than+2+Weeks
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/Salt+Lake+County+Real+Estate+Agent+-+How+We+Sold+an+Expired+Listing+in+Less+Than+2+Weeks
 pullquote: Always look at comparable properties to see if the property is fairly priced.
 enclosure_type: video/mp4
 enclosure_time:
