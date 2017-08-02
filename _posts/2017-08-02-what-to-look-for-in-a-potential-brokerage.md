@@ -5,7 +5,7 @@ date: 2017-08-02 11:00:00
 tags:
   - Real Estate
 excerpt: There are many different options for you when choosing a brokerage. Here are some things to consider before you choose.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/+Video/2017/August/Central+PA+Real+Estate+Agent-+What+to+Look+for+in+a+Potential+Brokerage.mp4'
 pullquote: Do a thorough job at researching and vetting brokerages.
 enclosure_type: video/mp4
 enclosure_time:
