@@ -21,10 +21,6 @@ Today we want to shed some light on why it’s important to have a buyer’s age
 
 **The best part of working with a buyer’s agent is that it is free to you**. The seller’s actually pay us to bring them qualified buyers to sell their home. So, most of the time, you can work with a buyer’s agent for free!
 
-Remember, there are always unique exceptions to the rule. 60% of the time, it works all the time.&nbsp;
-
-Seriously, though—generally speaking, you can work with a buyer’s agent for free.&nbsp;
-
 Now, in Colorado you can be represented by a buyer’s agent, a seller’s agent, or a transaction broker. &nbsp;When you work with a buyer’s agent, you have an advocate in your corner who is looking out for your best interests and has fiduciary duties to you, not the seller.&nbsp;
 
 {% include pullquote.html %}
