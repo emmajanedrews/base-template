@@ -7,26 +7,26 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Jonathan Carbutti
   license_number:
   about_markdown: |
-
-  market:
-  brand:
+    Jonathan defines himself as an educator first, and real estate broker second. He enjoys educating the consumer, Buyers and Sellers alike, and dispelling many of the “myths” of buying and selling. As a successful real estate investor as well Jonathan is able to offer practical and useful advice whether you are the first-time investor or seasoned pro.
+  market: New Haven
+  brand: Carbutti & Co Realtors
   brokerage:
-  address:
-  phone:
+  address: 72 South Main Street <br> Wallingford, CT 06492
+  phone: (203) 269-4910
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Jonathan.Carbutti@gmail.com
+  url: https://www.carbuttirealestate.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.carbuttirealestate.com/home-valuation
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.carbuttirealestate.com
   VR_form:
 
 sidebar_CTA:
@@ -34,26 +34,40 @@ sidebar_CTA:
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free -- MARKET -- Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.carbuttirealestate.com/home-valuation
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://www.carbuttirealestate.com
 
 lender:
-  show_section: false
-  header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
-  logo_path: /img/logo.png
+  show_section: true
+  header_text: Preferred Lenders
+  # headshot_path:
+  logo_path: /img/lender-logo.jpg
   logo_path_2:
-  name: Bill Murray
-  brand: Lender Co.
-  phone: 555-555-5555
-  email: bill@murray.com
-  url: http://eyegoop.com
+  name: Dave Beckman
+  brand: Guaranteed Rate
+  license_number: 'NMLS#10930 CT-LO 10930-17196'
+  phone: 203-641-8287
+  email: dbeckman@guaranteedrate.com
+  # url: http://eyegoop.com
+
+lender2:
+  show_section: true
+  # header_text: Preferred Lenders
+  # headshot_path:
+  # logo_path: /img/logo.png
+  logo_path_2:
+  name: Joanne Johansen
+  brand: Mortgage Assistance Company LLC
+  license_number: 'NMLS IDS: LO-58896 LO-8200'
+  phone: 203-589-4677
+  email: jojo826@cox.net
+  # url: http://eyegoop.com
 
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
@@ -66,17 +80,17 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/carbuttirealtors
+  linkedin_url: https://www.linkedin.com/in/jonathancarbutti
+  gplus_url: https://plus.google.com/u/0/106419527654513649170/posts
+  youtube_url: https://www.youtube.com/channel/UCiKVxtj6Si3d6fCxp1Vag2w
+  twitter_url: https://twitter.com/CarbuttiBlog
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
-  podcast_url:
+  zillow_url: http://www.zillow.com/
+  trulia_url: http://www.trulia.com/
+  yelp_url: http://www.yelp.com/biz/carbutti-and-co-realtors-wallingford-2
+  podcast_url: https://itunes.apple.com/us/podcast/new-haven-fairfield-county/id1178093104?mt=2
 
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
@@ -90,14 +104,14 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 60
   hero_text: -- MARKET -- Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#0070AC'
+  theme_color: '#B2B7BB'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -106,7 +120,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: rgba (238,238,238,0.5)
 
 buttons:
   button_radius_number: 0

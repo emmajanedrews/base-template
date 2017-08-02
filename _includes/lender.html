@@ -3,6 +3,12 @@
 
 	<h5>{{site.data.settings.lender.header_text}}</h5>
 	<hr>
+	<div class="lender-logo">
+		<img src="{{site.data.settings.lender.logo_path}}"/>
+		{% if site.data.settings.lender.logo_path_2 != null %}
+		<img src="{{site.data.settings.lender.logo_path_2}}"/>
+		{% endif %}
+	</div>
 	<div class="lender-info">
 		{% if site.data.settings.lender.headshot_path != null %}
 		<div class="lender-headshot">
@@ -10,17 +16,36 @@
 		</div>
 		{% endif %}
 		<p>
-		{{site.data.settings.lender.name}}<br>
+		<strong>{{site.data.settings.lender.name}}</strong><br>
 		{{site.data.settings.lender.brand}}<br>
-		{{site.data.settings.lender.phone}}<br>
-		{{site.data.settings.lender.email}}<br>
+		{{site.data.settings.lender.license_number}}<br>
+		<a href="tel:{{site.data.settings.lender.phone}}">{{site.data.settings.lender.phone}}</a><br>
+		<a href="mailto:{{site.data.settings.lender.email}}">{{site.data.settings.lender.email}}</a><br>
 		{{site.data.settings.lender.url | remove: 'http://'}}
 	</p>
 	</div>
+
+	<h5>{{site.data.settings.lender2.header_text}}</h5>
+	<hr>
+	<div class="lender-info">
+		{% if site.data.settings.lender2.headshot_path != null %}
+		<div class="lender-headshot">
+			<img src="{{site.data.settings.lender2.headshot_path}}"/>
+		</div>
+		{% endif %}
+		<p>
+		<strong>{{site.data.settings.lender2.name}}</strong><br>
+		{{site.data.settings.lender2.brand}}<br>
+		{{site.data.settings.lender2.license_number}}<br>
+		<a href="tel:{{site.data.settings.lender2.phone}}">{{site.data.settings.lender2.phone}}</a><br>
+		<a href="mailto:{{site.data.settings.lender2.email}}">{{site.data.settings.lender2.email}}</a><br>
+		{{site.data.settings.lender2.url | remove: 'http://'}}
+	</p>
+	</div>
 	<div class="lender-logo">
-		<img src="{{site.data.settings.lender.logo_path}}"/>
-		{% if site.data.settings.lender.logo_path_2 != null %}
-		<img src="{{site.data.settings.lender.logo_path_2}}"/>
+		<img src="{{site.data.settings.lender2.logo_path}}"/>
+		{% if site.data.settings.lender2.logo_path_2 != null %}
+		<img src="{{site.data.settings.lender2.logo_path_2}}"/>
 		{% endif %}
 	</div>
 </div>
