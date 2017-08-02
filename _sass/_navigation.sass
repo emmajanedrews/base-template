@@ -19,13 +19,24 @@
 	@include transition
 
 .navbar-left>li>a
-	border: 0
-	background: transparent
-	color: $brand
-	margin-top: 15px
+	background: #ff7f2f
+	color: #fff
+	padding: 1.3rem 2rem
+	text-transform: capitalize
+	font-size: 2rem
+	font-weight: 300
+	border: 2px solid #ff7f2f
+	@include transition(0.3s)
 	&:hover
-		background: transparent
-		color: $brand-light
+		background: #fff
+		color: #ff7f2f
+		box-shadow: 4px 4px 0 #ff7f2f
+		border: 2px solid #ff7f2f
+		@include transform(scale(1.05))
+		@include transform(translateY(-0.2rem))
+	&:active
+		box-shadow: 0 0 0 #ff7f2f
+		@include transform(translateY(0rem))
 
 .fa-bars
 	color: $brand

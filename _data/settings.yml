@@ -48,7 +48,7 @@ welcome_box:
 socials:
   review_sm_icons: false
   facebook_url: https://www.facebook.com/TheMcIntoshTeam
-  linkedin_url: 
+  linkedin_url:
   gplus_url: https://plus.google.com/112357686805757201473/about
   youtube_url: https://www.youtube.com/channel/UCdUe_hATTrfe8dqdwnjWmqw
   twitter_url: https://twitter.com/McIntoshTeamKW
@@ -56,7 +56,7 @@ socials:
   pinterest_url:
   zillow_url: http://www.zillow.com/profile/McIntosh-Realty-Team/
   trulia_url: http://www.trulia.com/profile/jason-and-christina-mcintosh-broker-savannah-ga-2995007/
-  yelp_url: 
+  yelp_url:
   podcast_url: https://itunes.apple.com/us/podcast/the-mcintosh-team/id1203020545?mt=2
 
 podcast:
@@ -77,8 +77,8 @@ images:
   hero_image_path: /img/background.jpg
 
 site_colors:
-  brand_color: '#bbdce5'
-  theme_color: '#726359'
+  brand_color: '#726359'
+  theme_color: '#bbdce5'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'

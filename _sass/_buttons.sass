@@ -1,6 +1,6 @@
 .cta
 	background: $button-background
-	color: $button-text
+	color: #ff7f2f
 	padding: 1.3rem 2rem
 	text-transform: capitalize
 	font-size: 2rem
@@ -9,9 +9,9 @@
 	@include transition(0.3s)
 	&:hover
 		background: transparent
-		color: $brand-light
-		box-shadow: 4px 4px 0 $brand-light
-		border: 2px solid $button-border
+		color: #ff7f2f
+		box-shadow: 4px 4px 0 #ff7f2f
+		border: 2px solid #ff7f2f
 		@include transform(scale(1.05))
 		@include transform(translateY(-0.2rem))
 	&:active
@@ -19,23 +19,23 @@
 		@include transform(translateY(0rem))
 
 .cta2
-	// background: $light-text
+	background: #ff7f2f
 	color: $secondary-button-text
 	padding: 1.3rem 2rem
 	text-transform: capitalize
 	font-size: 2rem
 	font-weight: 300
-	border: 2px solid $secondary-button-border
+	border: 2px solid #ff7f2f
 	@include transition(0.3s)
 	&:hover
 		background: transparent
 		color: $button-text
-		box-shadow: 4px 4px 0 $brand-light
-		border: 2px solid $secondary-button-border
+		box-shadow: 4px 4px 0 #ff7f2f
+		border: 2px solid #ff7f2f
 		@include transform(scale(1.05))
 		@include transform(translateY(-0.2rem))
 	&:active
-		box-shadow: 0 0 0 $brand-light
+		box-shadow: 0 0 0 #ff7f2f
 		@include transform(translateY(0rem))
 
 .navbar-nav>li>a
