@@ -1,17 +1,16 @@
 ---
 layout: post
 title: What to Do Before Moving Into a Newly Built Home
-date: 2017-08-01 15:54:39
+date: 2017-08-01 15:54:00
 tags:
 excerpt: Being involved in the construction of your new home is essential.
-enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Victoria+Sandoval/Victoria+Sandoval-+What+to+Do+Before+Moving+Into+a+Newly+Built+Home.mp4
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Victoria+Sandoval/Victoria+Sandoval-+What+to+Do+Before+Moving+Into+a+Newly+Built+Home.mp4'
 pullquote: Always be involved with the building process
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/construction-youtube.jpg
-youtube_code: 0mPHYbuHUEU
+youtube_code: DJXApeS8lE0
 ---
 
 
@@ -37,6 +36,6 @@ Always have a plan for where you’ll be staying if you need to move out of your
 
 Once the home is ready, though, you should perform a final walkthrough before closing escrow. Inspect the property carefully for any defects. If everything goes smoothly, you still should look into new home warranties and insurance. Get a copy of the builder’s warranty, which usually lasts for 10 years, and also purchase additional coverage through a local home warranty company.
 
-Your agent will be a wealth of knowledge throughout the process, so when as things come to a close remember to ask them for their recommendations on home insurance. They are there to help.
+Your agent will be a wealth of knowledge throughout the process, so as things come to a close remember to ask them for their recommendations on home insurance. They are there to help.
 
 If you have any other questions or want more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
