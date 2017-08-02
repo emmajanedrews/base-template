@@ -1,11 +1,11 @@
 ---
 layout: post
 title: We Are Looking for New Team Members
-date: 2017-07-05 16:02:21
+date: 2017-07-05 16:02:00
 tags:
   - Real Estate
 excerpt: The Wicker Homes Group is hiring. Here’s who we are looking for.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Tad+%26+Debbie+Wicker/Videos/Virginia+Real+Estate-+We%2527re+Looking+for+Someone+Special.mp4'
 pullquote: We’re not looking for just anyone.
 enclosure_type: video/mp4
 enclosure_time:
@@ -19,7 +19,7 @@ youtube_code: ngFWXkx2wSA
 
 **We want someone who has a strong work ethic, is committed to growing their career, and loves serving their clients.** We want someone who can help us deliver the excellent customer service and expertise that our clients have come to expect.
 
-{% include pullquote.html %}If this sounds like it could be a good fit for you or someone you know,&nbsp;**go to (or have them go to)&nbsp;[TonyRobbins.com](TonyRobbins.com)&nbsp;and take the DISC behavioral assessment.**&nbsp;Once the results are in, please send them to&nbsp;[Careers@WickerHomes.com](javascript:void(location.href='mailto:'+String.fromCharCode(99,97,114,101,101,114,115,64,119,105,99,107,101,114,104,111,109,101,115,46,99,111,109)))&nbsp;and we will be in touch!
+{% include pullquote.html %}If this sounds like it could be a good fit for you or someone you know, **go to (or have them go to) [TonyRobbins.com](TonyRobbins.com) and take the DISC behavioral assessment.** Once the results are in, please send them to [Careers@WickerHomes.com](javascript:void(location.href='mailto:'+String.fromCharCode(99,97,114,101,101,114,115,64,119,105,99,107,101,114,104,111,109,101,115,46,99,111,109))) and we will be in touch!
 
 If you have any other questions in the meantime, you can always give us a call or send us an email. We look forward to hearing from you.
-<br>&nbsp;
+<br>
