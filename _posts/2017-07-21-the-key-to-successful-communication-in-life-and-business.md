@@ -17,7 +17,7 @@ youtube_code: NUQoJCE4rQI
 
 {% include youtube.html %}
 
-The two most critical skills to succeed at a high level in both business and in life are &nbsp;communication and problem-solving.
+The two most critical skills to succeed at a high level in both business and in life are communication and problem-solving.
 
 One of my favorite quotes is: **“The single greatest problem in communication is the illusion that it has taken place.”**
 
