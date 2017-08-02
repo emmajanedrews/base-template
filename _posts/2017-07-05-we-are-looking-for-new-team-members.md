@@ -19,7 +19,7 @@ youtube_code: ngFWXkx2wSA
 
 **We want someone who has a strong work ethic, is committed to growing their career, and loves serving their clients.** We want someone who can help us deliver the excellent customer service and expertise that our clients have come to expect.
 
-{% include pullquote.html %}If this sounds like it could be a good fit for you or someone you know, do&nbsp;**go to (or have them go to) to&nbsp;[tonyrobbins.com](tonyrobbins.com)&nbsp;and take the DISC behavioral assessment.**&nbsp;Once the results are in, please send them to&nbsp;[careers@wickerhomes.com](javascript:void(location.href='mailto:'+String.fromCharCode(99,97,114,101,101,114,115,64,119,105,99,107,101,114,104,111,109,101,115,46,99,111,109)))&nbsp;and we will be in touch!
+{% include pullquote.html %}If this sounds like it could be a good fit for you or someone you know,&nbsp;**go to (or have them go to)&nbsp;[tonyrobbins.com](tonyrobbins.com)&nbsp;and take the DISC behavioral assessment.**&nbsp;Once the results are in, please send them to&nbsp;[careers@wickerhomes.com](javascript:void(location.href='mailto:'+String.fromCharCode(99,97,114,101,101,114,115,64,119,105,99,107,101,114,104,111,109,101,115,46,99,111,109)))&nbsp;and we will be in touch!
 
 If you have any other questions in the meantime, you can always give us a call or send us an email. We look forward to hearing from you.
 <br>&nbsp;
