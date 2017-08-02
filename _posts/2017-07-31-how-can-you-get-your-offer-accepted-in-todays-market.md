@@ -33,7 +33,7 @@ Removing those contingencies will definitely strengthen your offer.&nbsp;
 
 You also need to work with a strong, knowledgeable buyer’s agent. Your buyer’s agent should be comfortable contacting the listing agent to let us know what’s going on. A good, proactive buyer’s agent wants to communicate with the listing agent.&nbsp;
 
-A lot of buyers also write letters to the seller. While seller’s really do take those stories into consideration, at the end of the day, **the seller is going to look at their bottom line**. Sometimes there is an emotional attachment, but the seller is really looking for somebody who’s going to close on the house.&nbsp;
+A lot of buyers also write letters to the seller. While sellers really do take those stories into consideration, at the end of the day, **the seller is going to look at their bottom line**. Sometimes there is an emotional attachment, but the seller is really looking for somebody who’s going to close on the house.&nbsp;
 
 So, absolutely go ahead and write your letters. Just keep in mind that it’s more important to make sure that your offer is written correctly, your lender is on your side, and your agent knows and understands how important it is to communicate with the listing agent.&nbsp;
 
