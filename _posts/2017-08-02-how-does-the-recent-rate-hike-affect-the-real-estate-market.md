@@ -5,7 +5,7 @@ date: 2017-08-02 11:15:00
 tags:
   - Market Update
 excerpt: 'Despite some misgivings, the recent federal funds rate increase is actually a good thing for our real estate market. Allow me to explain why.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/+Video/2017/August/Central+PA+Real+Estate+Agent-+How+Does+the+Recent+Rate+Hike+Affect+the+Real+Estate+Market%253F.mp4'
 pullquote: The real estate market continues to be extremely healthy.
 enclosure_type: video/mp4
 enclosure_time:
