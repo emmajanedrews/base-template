@@ -19,7 +19,7 @@ youtube_code: lTqMYASDLmg
 
 Today I have a message for the buyers in the Tucson area. Most of you are aware, if you’ve been listening to the news, that the market here in Tucson is heating up. By that I mean that private properties are selling quickly and inventory is getting considerably lower. **This means that we’re in a pretty good seller’s market at this time.**
 
-Most price points under $300,000 in Tucson are experiencing a seller’s market. What this means is that we have more buyers than houses available. If you’re a buyer and you’re looking for a new home, you need to be prepared to put down a strong offer very quickly in order to compete in this market.&nbsp;
+Most price points under $300,000 in Tucson are experiencing a seller’s market. Therefore, we have more buyers than houses available. If you’re a buyer and you’re looking for a new home, you need to be prepared to put down a strong offer very quickly in order to compete in this market.&nbsp;
 
 {% include pullquote.html %}
 
