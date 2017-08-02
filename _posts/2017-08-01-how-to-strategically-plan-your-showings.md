@@ -17,7 +17,7 @@ youtube_code: E6taRK0jpiE
 
 {% include youtube.html %}
 
-In today’s tight market, you might have to show four or five properties in an afternoon. That’s a lot of work. I just wanted to offer a few questions and comments for you to ponder before you go ahead and schedule your next home showing tour.
+In today’s tight market, you might have to show four or five properties in an afternoon. That’s a lot of work. I just want to offer a few questions and comments for you to ponder before you go ahead and schedule your next home showing tour.
 
 The first thing to think about is how much time you need for each property. It will depend on the size, location, and uniqueness of the home.
 
