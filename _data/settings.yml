@@ -24,7 +24,7 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://myhousepage.com/fmhomevalues
   second_CTA_text: Home Search
   second_CTA_URL: http://www.skrealtyinc.com/idx/search/?OrderBy=-ListPrice&SavedSearch=20111019152906787970000000
   VR_form: http://oi.vresp.com?fid=1fb5da0dfd
