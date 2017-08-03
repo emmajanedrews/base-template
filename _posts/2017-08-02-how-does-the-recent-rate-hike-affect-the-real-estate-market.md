@@ -23,7 +23,7 @@ In June 2017, the Federal Reserve increased the federal funds rate by about 0.25
 
 Why?
 
-For one thing, **mortgage interest rates have actually moved down in the wake of the recent increase.** In fact, it’s pretty common for mortgage interest rates to move in the opposite direction of the federal funds rate, at least in the short term, and this has happened the last couple of times the Fed increased its federal funds rate.
+For one thing, **mortgage interest rates have actually moved down in the wake of the recent increases.** In fact, it’s pretty common for mortgage interest rates to move in the opposite direction of the federal funds rate, at least in the short term, and this has happened the last couple of times the Fed increased its federal funds rate.
 
 {% include pullquote.html %}
 
