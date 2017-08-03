@@ -1,11 +1,10 @@
 ---
 layout: post
-title: How I've Helped Hundreds in Short Sales
+title: 'You Owe More Than Your Home Is Worth and Need to Sell? Let Me Help!'
 tags:
   - Home Seller Tips
 excerpt: Short sales have become a major issue in our local market.
-enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Ernie+Dill/Northern+Virginia+Real+Estate+Team+Stuck+in+a+short+sale.mp4
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Ernie+Dill/Northern+Virginia+Real+Estate+Team+Stuck+in+a+short+sale.mp4'
 pullquote: I am here to help.
 enclosure_type: video/mp4
 enclosure_time:
