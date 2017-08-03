@@ -23,6 +23,6 @@ We have very limited inventory, and the good news for sellers is homes are selli
 
 {% include pullquote.html %}
 
-Our average days on market is fewer than 30 days, and home prices are 5% to 7% higher compared to this time last year, and **this momentum doesn’t seem like it will slow down for the rest of the summer or the foreseeable future.**
+Our average days on market is fewer than 30 days, home prices are 5% to 7% higher compared to this time last year, and **this momentum doesn’t seem like it will slow down for the rest of the summer or the foreseeable future.**
 
 If you have any other questions about the state of our current market or you’re thinking about buying or selling a home, feel free to give me a call or shoot me an email. I’d be happy to assist you.
