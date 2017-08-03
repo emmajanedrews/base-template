@@ -48,7 +48,7 @@ CTAs:
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/006.jpg
     CTA_title: Ask Me A Question
-    CTA_text: Search the entire MLS for homes located in -- MARKET --.
+    CTA_text: Looking to buy a home?
     CTA_link_text: Request a Consultation
     CTA_url: 'https://calendly.com/wadebetz/phone-consultation/11-22-2016?back=1'
 lender:
