@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Cyber Security Tips for Homebuyers and Sellers
-date: 2017-08-03 11:51:57
+date: 2017-08-03 11:51:00
 tags:
   - Real Estate
 excerpt: 'There are a number of hackers from all over the world who continue to target the real estate industry. These hackers send false wiring instructions via email and, instead of making a deposit to the title company, buyers send money to a fraudulent account. Luckily, there are a few things you can do to protect yourself. Edina Realty has also taken proactive steps to protect our clients. To learn more, watch this short video.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/August/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Email+Fraud.mp4'
-pullquote:
+pullquote: Real estate cyber security tips / Hackers target the real estate industry
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -27,7 +27,7 @@ Unfortunately, these hackers are getting more sophisticated and are targeting th
 The hacker will get into a buyer’s, seller’s, or Realtor’s email, determine the closing date of the property, and find the parties in charge of handling the transaction. Then, the hackers go behind the scenes and mimic one of those email addresses. From there, they send an email to the buyer requesting a wire transfer for the purchase of the home.
 {: .present-before-paste}
 
-Instead of making a deposit to the title company,** these buyers are sending their funds to a fraudulent account.**
+Instead of making a deposit to the title company, **these buyers are sending their funds to a fraudulent account.**
 {: .present-before-paste}
 
 Again, these hackers are seriously targeting the real estate industry. Our IT department sent us a screenshot the other day to show us the number of hits against the Edina Realty firewall. Every 12 seconds, there was another hit. As you can imagine, the list of attempts was very long, and these hackers are from all over the world.
