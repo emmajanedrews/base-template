@@ -76,6 +76,7 @@ images:
   logo_width_number: 50rem
   hero_background_hex: '#094264'
   hero_image_path: /img/background.jpg
+  hero_text: Baltimore Real Estate Video Blog
 
 site_colors:
   brand_color: '#BF202F'
@@ -85,7 +86,7 @@ site_colors:
   main_body_text_color: '#353535'
 
 header:
-  hero_text: Baltimore Real Estate Video Blog
+  # hero_text: Baltimore Real Estate Video Blog
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 2px
