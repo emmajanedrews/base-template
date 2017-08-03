@@ -10,7 +10,7 @@ pullquote: Appreciation in value adds a bit of a wrinkle to this process.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/wade-betz-july-1-ss-no-play.jpg
+youtube_alternate_image: /uploads/no-pb-6.jpg
 youtube_code: wiWFgIXXxzA
 ---
 
