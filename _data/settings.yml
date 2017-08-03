@@ -48,7 +48,7 @@ CTAs:
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/006.jpg
     CTA_title: Ask Me A Question
-    CTA_text: Looking to buy a home?
+    CTA_text: Are you looking to buy a home in the Dallas area?
     CTA_link_text: Request a Consultation
     CTA_url: 'https://calendly.com/wadebetz/phone-consultation/11-22-2016?back=1'
 lender:
