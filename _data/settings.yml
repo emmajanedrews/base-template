@@ -11,7 +11,7 @@ client:
   license_number:
   about_markdown: |
     At the Chad Smith Team, we are achieving great results for our clients.    In the last 12 months, Chad and his team have sold 185 homes and our  listings have sold for over 99.2% of list price!  Our commitment is to treat every one of our clients with a spirit of excellence in every aspect of the home buying or home selling process.
-  market: Dallas
+  market: Dallas/Fort Worth
   brand: Chad Smith Real Estate Solutions Team
   brokerage: Keller Williams Realty
   address: 1301 S Bowen Road Suite 125, Arlington, TX 76013
@@ -33,7 +33,7 @@ sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free -- MARKET -- Home Value Report"
+    CTA_link_text: "Free Home Value Report"
     CTA_url: https://www.dfwpowersearch.com/home-valuation/
 
 second_sidebar_CTA:
