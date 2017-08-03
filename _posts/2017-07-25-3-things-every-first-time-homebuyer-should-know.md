@@ -4,12 +4,12 @@ title: 3 Things Every First-Time Homebuyer Should Know
 tags:
   - Home Buyer Tips
 excerpt: Check out these three tips every first-time homebuyer should know.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Daniel+Dixon/Denver+Real+Estate-+Helpful+Homebuyer+Tips.mp4'
 pullquote: 'An inspection will cost about $300, but it can save you thousands.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/daniel-dix-willie-vid-take-2-youtube.jpg
 youtube_code: 'https://youtu.be/poLp2xcWMSY'
 ---
 
