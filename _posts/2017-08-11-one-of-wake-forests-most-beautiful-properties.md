@@ -1,7 +1,7 @@
 ---
 layout: post
 title: One of Wake Forest’s Most Beautiful Properties
-date: 2017-08-13 13:01:00
+date: 2017-08-11 08:01:00
 tags:
   - Real Estate
 excerpt: You won’t believe this property. Have a look for yourself.
