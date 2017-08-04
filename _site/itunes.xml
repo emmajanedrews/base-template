@@ -7,7 +7,7 @@
     <description>A Podcast about Honolulu Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</description>
     <language>en</language>
     <managingEditor>Adrienne Lally & Attilio Leonardi</managingEditor>
-    <lastBuildDate>2017-08-04 15:21:52 -0500</lastBuildDate>
+    <lastBuildDate>2017-08-04 16:32:02 -0500</lastBuildDate>
     <media:copyright>Adrienne Lally & Attilio Leonardi</media:copyright>
     <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
     <media:keywords>Honolulu Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</media:keywords>
@@ -25,96 +25,760 @@
       <itunes:category text="Education"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
-        
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
-        
-          <category>Home Seller Tips</category>
+        <title></title>
+        <link>localhost:4000/2016-10-13-expansion-partner-needed-for-maui.html</link>
         
         <author>Adrienne Lally & Attilio Leonardi</author>
-        <pubDate>2016-10-04 00:00:00 -0500</pubDate>
+        <pubDate>2017-08-04 16:32:02 -0500</pubDate>
         <guid></guid>
         <description>
 
-}
+We want to invite you to sit down and have a talk with us so we can help you grow your business.
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+Buying a home? Click here to perform a full home search
+Selling a home? Click here for a FREE Home Price Evaluation
+Call us at (808) 426-7211 for a FREE home buying or selling consultation
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+We would like to thank you for a great transaction. We know that good agents make for great transactions, and as a thank you, we would like to invite you for a cup of coffee or for lunch. Don’t have the time for either? Well, how about a 15-minute conversation on the phone?
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+We’d like to answer any questions you have about us or our team, how we can help you grow your business, some of the mistakes we’ve made along the way and learned from that you should avoid, and basically anything that you’d want to discuss that could be helpful to you.
 
-“This is an example of a pull quote”
+“”
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+There are two types of people in this world: givers and takers. We want to give back to you.
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+Simply hit “reply all” to this email, and our team will schedule that conversation, cup of coffee, or lunch.
+
+If you have any questions, feel free to give us a call or shoot us an email. We look forward to hearing from you. Thanks, and aloha!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="" length="" type=""/>
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="" type=""/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle></itunes:subtitle>
         <itunes:author>Adrienne Lally & Attilio Leonardi</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary></itunes:summary>
         <itunes:keywords>Honolulu Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
       </item>
       
       <item>
-        <title>A Fox in Space</title>
-        <link>localhost:4000/a-fox-in-space.html</link>
+        <title>Team Lally Looking For Superstars</title>
+        <link>localhost:4000/team-lally-looking-for-superstars.html</link>
         
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
-        
-          <category>Home Seller Tips</category>
+          <category>Agent Tips</category>
         
         <author>Adrienne Lally & Attilio Leonardi</author>
-        <pubDate>2016-09-28 00:00:00 -0500</pubDate>
+        <pubDate>2017-07-12 11:55:00 -0500</pubDate>
         <guid></guid>
         <description>
 
-}
+If you are a licensed Realtor looking to make a change and find success, consider joining us at Team Lally.
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+Check Out Our Career Opportunities
+Check Out Our Upcoming Career Night
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+Are you a licensed Realtor? We at Team Lally are currently recruiting real estate professionals seeking to take advantage of our abundant leads, our great training, and our “80K guarantee.”
 
+That’s right. If you don’t make $80,000 in your first year with us, we’ll write a check for the difference.
 
-  list item
-  list item
-  list item
-  list item
-  list item
+Success is simple, not easy. Success is as simple as knowing what to do, but it’s only easy when you have someone to guide you.
 
+SUCCESS IS SIMPLE, NOT EASY.
 
+We can help you achieve success because we provide accountability.
 
-  list item
-  list item
-  list item
-  list item
-  list item
+So, if you’re ready to find success and make a change, visit JoinTeamLally.com or drop by one of our career nights.
 
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+Don’t hesitate to take this opportunity. If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>
+
+</itunes:subtitle>
         <itunes:author>Adrienne Lally & Attilio Leonardi</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Honolulu Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Meet Benjy Gilholm, Our Listing Partner Specialist</title>
+        <link>localhost:4000/meet-benjy-gilholm-our-listing-partner.html</link>
+        
+          <category>Word Of Mouse Team Lally</category>
+        
+        <author>Adrienne Lally & Attilio Leonardi</author>
+        <pubDate>2017-06-27 09:41:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+Meet Benjy—a listing partner specialist at Team Lally. Through a combination of teamwork and working closely with clients, Team Lally remains a step above the rest.
+
+Check Out Our Career Opportunities
+
+At Team Lally, we have a unique and collaborative approach to real estate—which is one of the main reasons why Benjy Gilholm is so excited to be working as a part of it.
+
+This hands-on, team-oriented way of thinking benefits not only us but also our clients. Through a combination of teamwork and maintaining continuous contact with our clients, we are able to get the most out of what we do for you.
+
+“AS A TEAM, WE REMAIN A STEP ABOVE THE REST.”
+
+In order to ensure that we are working together efficiently and putting out the best work for you, we hold weekly meetings between our buyer agents, seller agents, listing partner specialists, like Benjy, our in-house escrow officer, and our in-house listing manager.
+
+This helps to ensure that, as a team, we remain a step above the rest.
+
+We consider the way we work together to be one of our greatest tools—it allows us to close on the highest volume of homes possible.
+
+If you have any questions or would like to learn more about Team Lally and what we can do for you, feel free to call or email us. We look forward to hearing from you!
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Adrienne Lally & Attilio Leonardi</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Honolulu Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Kapolei Mastermind Key to Success - Last Friday Of Every Month</title>
+        <link>localhost:4000/kapolei-mastermind-key-to-success-last.html</link>
+        
+          <category>Team Lally Mastermind</category>
+        
+        <author>Adrienne Lally & Attilio Leonardi</author>
+        <pubDate>2017-05-19 11:46:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+We have another mastermind coming up and we’d love for you to join us.
+
+RSVP
+Check Out Our Career Opportunities
+
+Today we wanted to talk to you about the power of the mastermind.
+
+Dr. Napoleon Hill calls the mastermind the key that will open the door to your desires—whatever they may be. He defines it as two or more people that work in perfect harmony for the attainment of a definite purpose.
+
+We are holding a mastermind session in our Kapolei Business Center like we do every month on the last Friday from 12:30 p.m. to 1:30 p.m. The agenda is always filled with topics that will bring you success.
+
+“THIS INVITATION IS FOR ANYONE INTERESTED IN LEARNING THESE SUCCESS SECRETS.”
+
+This mastermind will feature Mr. William, a professional voice coach. He will teach you how to improve your ability to communicate with clients and loved ones. This will bring you more clients and improve your relationships. Become a trained speaker whether one-on-one or to a group. His most important points are power, confidence, and clarity.
+
+Want to learn how to do all this? All you have to do is click here to RSVP.
+
+Thanks and Aloha!
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Adrienne Lally & Attilio Leonardi</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Honolulu Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Miranda Helps Your Real Estate Transaction Run Smoothly</title>
+        <link>localhost:4000/how-miranda-helps-your-real-estate.html</link>
+        
+          <category>Meet Team Lally</category>
+        
+        <author>Adrienne Lally & Attilio Leonardi</author>
+        <pubDate>2017-04-05 12:39:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+Today we’d like you to meet Miranda, one of our inside sales agents. Her job is to guide buyers and listing agents to any resources or information they need.
+
+Check Out Our Career Opportunities
+
+Today we wanted to introduce you to Miranda Haws, one of our beloved inside sales agents here at Team Lally.
+
+Miranda heard about Team Lally from the radio and also by seeing our yard signs throughout the community. She was motivated to join us after hearing about our success as the No. 1 team in Hawaii.
+
+“I had to come and see what all the rave was about,” she says. “It turned out that Adrienne and Attilio are just really down-to-earth people. They care about the team and they care about their business.”
+
+“HER FAVORITE PART OF THE JOB IS THE COLLABORATION EVERYONE BRINGS TO THE TABLE.”
+
+As an inside sales agent, Miranda works hand-in-hand with buyers and listing agents to help guide our clients to the best resources and all the information they desire. Her favorite part of the job is the collaboration everyone brings to the table from their many years of experience.
+
+“Any time there’s a problem or conflict that comes up, we can all work together to figure it out,” Miranda says.
+
+If you have any questions for Miranda or you’re thinking of buying or selling a home here in Hawaii, you can always give us a call or send us an email. We’re here to help!
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Adrienne Lally & Attilio Leonardi</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Honolulu Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>A Strategic Driven Business Is How We Did $82 Million Last Year </title>
+        <link>localhost:4000/a-strategic-driven-business-is-how-we.html</link>
+        
+          <category>Real Estate Agent Insiders</category>
+        
+        <author>Adrienne Lally & Attilio Leonardi</author>
+        <pubDate>2017-03-29 15:15:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Real+Estate+Agents-+Recruiting_2.mp4</guid>
+        <description>
+
+Have you thought about starting a career in real estate? Here’s how to approach it to set yourself up for a prosperous career.
+
+Check Out Our Career Opportunities
+Click Here for Our Career Night Schedule
+
+Today we want to talk for a minute about a career in real estate.
+
+People always ask how the market is and whether now is a good time to get into real estate. A common misconception is that the answer depends on what kind of market we’re in.
+
+Here’s what we have learned from being in real estate for more than 10 years.
+
+It’s not what the market conditions are, but whether you have the right strategies for success. How do we know this? We had a phenomenal year during the worst real estate bubble in history. We did a ton of short sales.
+
+“WE ADJUST TO THE MARKET WE’RE IN TO MAINTAIN A HIGH LEVEL OF SUCCESS.”
+
+That is an example of having the right strategy—we adjusted for the market we were in. In fact, we have been able to grow strategically year over year for the last 10 years.
+
+We have what we call a strategically driven business, and not an economically driven business. The difference? Our business does not go up and down with the economy, but rises upward with strategic growth. How do we do that? Come to one of our Career Nights or check out JoinTeamLally.com to learn more. We’d love to see you there!
+
+Thanks and Aloha!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Real+Estate+Agents-+Recruiting_2.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Real+Estate+Agents-+Recruiting_2.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Adrienne Lally & Attilio Leonardi</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Honolulu Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+      </item>
+      
+      <item>
+        <title> Team Lally Shares the Dirt on $82 Million in Sales </title>
+        <link>localhost:4000/team-lally-shares-dirt-on-82-million-in.html</link>
+        
+          <category>Team Lally Real Estate</category>
+        
+        <author>Adrienne Lally & Attilio Leonardi</author>
+        <pubDate>2017-02-15 11:38:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Real+Estate+Agents-+Career+-NoMG.mp4</guid>
+        <description>
+
+We want to give you a peek behind the curtain into what a true real estate career looks like with a career night. Here’s how you can join us.
+
+Check Out Our Career Opportunities
+RSVP for Our Career Night
+
+Today we want to talk to you about a career in real estate.
+
+Everyone’s perception of real estate is what they see on those reality shows. Well, here’s the reality about reality TV—it’s not real!
+
+That’s why we want to give you a peek behind the curtain into the real real estate career. We’re everyday people providing exceptional levels of service, and we’re looking for superstars to join us. How do we do that? With a career night, which will be held on March 6th, 2017.
+
+Please RSVP &lt;a href=https://www.teamlally.com/career-night.php”&gt;here&lt;/a&gt; to save a seat, because we do fill up.
+
+Some of the things you will learn include:
+- The first three steps to becoming a successful Realtor.
+- The two critical mistakes brand-new Realtors make.
+
+We’ll also answer any questions you may have. If you have any questions in the meantime, please don’t hesitate to reach out to us. We’re looking forward to meeting you there in person. Thanks and aloha!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Real+Estate+Agents-+Career+-NoMG.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Real+Estate+Agents-+Career+-NoMG.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Adrienne Lally & Attilio Leonardi</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Honolulu Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Kapolei Mastermind Key to Success - Last Friday Of Every Month</title>
+        <link>localhost:4000/kapolei-mastermind-key-to-success-last.html</link>
+        
+          <category>Agent Tips</category>
+        
+        <author>Adrienne Lally & Attilio Leonardi</author>
+        <pubDate>2017-02-06 13:56:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+The power of the mastermind is undeniable. We’d love for you to join us on the last Friday of the month for one.
+
+Check Out Our Career Opportunities
+
+Today we want to talk about the power of the mastermind.
+
+Dr. Napoleon Hill calls the mastermind “the key that will open the door to your desires,” whatever they may be. He defines it as two or more people that work in perfect harmony for the attainment of a definite purpose.
+
+We want to bring this to you, so we’re holding a mastermind session in our Kapolei Business Center. We do this every month on the last Friday of the month from 12:30 p.m. to 1:30 p.m. The agenda is filled with topics that, if implemented, will make you more money in 2017. The invitation is to anyone interested in learning our secrets of success.
+
+“THESE SECRETS HELPED US GENERATE OVER $82 MILLION IN SALES LAST YEAR.”
+
+These secrets helped us generate over $82 million in sales in 2016 and we are going to share them with you. Now, we know that you’re thinking we won’t really share our secrets, but you’re wrong. We have learned that it is good to be abundant-minded and that sharing is caring.
+
+If you still don’t believe us, RSVP here and bring your questions to us on the last Friday of the month. In the meantime, take a look at this recent Forbes article we found that will give you seven better reasons to join a mastermind.
+
+If you have any questions, feel free to give us a call or send us an email. Thanks and aloha!
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Adrienne Lally & Attilio Leonardi</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Honolulu Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Team Lally Interviews President of the CCIM Board Anthony Provenzano </title>
+        <link>localhost:4000/team-lally-interviews-president-of-ccim.html</link>
+        
+          <category>Real Estate Events</category>
+        
+        <author>Adrienne Lally & Attilio Leonardi</author>
+        <pubDate>2017-01-17 09:29:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Real+Estate+Agents-+Team+Lally+Interviews+President+of+the+CCIM+Board+Anthony+Provenzano.mp4</guid>
+        <description>
+
+The CCIM Board of Hawaii is hosting an upcoming event to talk about the 2017 market forecast. We caught up with their President to talk about the event.
+
+Check Out Our Career Opportunities
+
+Today we want to talk to you about a special event coming up. This is the CCIM Annual Forecast event to be held at the Hawaii Convention Center. CCIM stands for Certified Commercial Investment Member.
+
+This event takes place Friday, February 3rd from 8 a.m. to 11 a.m. Paul Brewbaker, a local economist, with be one of the speakers. Topics include a forecast for industrial, investment, office, retail and residential real estate.
+
+Click here to RSVP. Parking and breakfast are included.
+
+With us today we have the of the President of the CCIM Hawaii chapter, Anthony Provenzano, who also has his broker designation and is the Senior Vice President of Sofos Realty. He is here to give us his top three reasons to attend this event, which are:
+
+1. Network with more than 600 industry professionals.
+2. Learn where the industry experts see their specialty going in 2017.
+3. Gain an overall understanding of the economy and commercial real estate for 2017.
+
+“YOU WILL GAIN INVALUABLE INFORMATION AT THIS EVENT.”
+
+In prior years, speakers made 10 to 15 minute presentations, and questions and answers were done at the end of the program. This year, speakers will limit their slide presentation to two to three slides. The moderator, along with the audience, will be able to ask questions to the speaker at the time of the presentation.
+
+The mission statement of the CCIM is to provide the best commercial and investment real estate education and services which afford members a unique competitive advantage in the marketplace, and recognition of the designation as the hallmark of competence, integrity, and professionalism in the industry.
+
+To get even more information about this event, you can also check out the interview with Anthony about the event from our radio show, which you can listen to on our podcast.
+
+Don’t miss this opportunity to attend one of the largest events of the year for the those who want to be in the know regarding our local real estate market.
+
+CCIM has also extended the deadline for their CI101 scholarships to January 27, 2017! For all those interested, you can you can find a scholarship application here. Find CI101 registration forms here.
+
+If you have any questions, don’t hesitate to reach out and give us a call or send us an email. Thanks and Aloha!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Real+Estate+Agents-+Team+Lally+Interviews+President+of+the+CCIM+Board+Anthony+Provenzano.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Real+Estate+Agents-+Team+Lally+Interviews+President+of+the+CCIM+Board+Anthony+Provenzano.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Adrienne Lally & Attilio Leonardi</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Honolulu Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Did Benjy Gilholm Join Our Team?</title>
+        <link>localhost:4000/why-did-benjy-gilholm-join-our-team.html</link>
+        
+          <category>Meet Team Lally</category>
+        
+        <author>Adrienne Lally & Attilio Leonardi</author>
+        <pubDate>2016-12-09 15:22:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Adrienne+Lally/2016+/December/Hawaii+Real+Estate+Agents-+Why+Did+Benjy+Gilholm+Join+Our+Team%253F.mp4</guid>
+        <description>
+
+Benjy Gilholm is a great listing partner on our team.
+Hear from the man himself about how he came to join our team.
+
+Want to sell your Hawaii Area Home? Get a home value report
+Want to buy a Hawaii area home? Search all homes for sale
+
+We are excited to introduce another great member of our team. Benjy Gilholm is a listing partner with Team Lally and he is going to talk about what led him to us today.
+
+Benjy had actually heard about us first in 2008 when he was working for a different team. His team referred all their short sales to us. The first thing that attracted him to us was the fact that we did a good job with those referrals and had a stellar reputation for doing so.
+
+“Benjy’s number one goal is taking care of his clients.”
+
+The thing that gave Benjy the fire to actually join our team was listening to our Sunday morning radio show. Benjy joined us as a listing partner because he loves getting on the phone, getting people into properties, and helping sellers list their homes successfully. His number one goal is always to take care of his clients.
+
+Benjy loves the team environment and the fact that the process of joining our team was so competitive. He looks forward to closing 180 homes this year and continuing his success in the future.
+
+If you have any questions for Benjy or if you’re looking to get your home on the market, give him a call at (808)-647-0002. If you have any other questions, don’t hesitate to reach out. Talk to you soon!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Adrienne+Lally/2016+/December/Hawaii+Real+Estate+Agents-+Why+Did+Benjy+Gilholm+Join+Our+Team%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Adrienne+Lally/2016+/December/Hawaii+Real+Estate+Agents-+Why+Did+Benjy+Gilholm+Join+Our+Team%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Adrienne Lally & Attilio Leonardi</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Honolulu Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Meet Tina Funk, a Buyer Specialist on Team Lally</title>
+        <link>localhost:4000/meet-tina-funk-buyer-specialist-on-team.html</link>
+        
+          <category>Meet Team Lally</category>
+        
+        <author>Adrienne Lally & Attilio Leonardi</author>
+        <pubDate>2016-11-30 09:52:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Adrienne+Lally/2016+/November/Hawaii+Real+Estate+Agents-+Meet+Tina+Funk%2C+A+Buyer+Specialist+on+Team+Lally.mp4</guid>
+        <description>
+
+Tina Funk is one of our great buyer specialists. She is here today to talk about what attracted her to our team and why she enjoys working with us.
+
+Check Out Our Career Opportunities
+
+We are back to introduce yet another great member of Team Lally. Tina Funk heard about us from another agent in Honolulu that thought she would be a great fit with us. She came out and met with us and left very impressed about how much we care about our clients and how we treat our agents.
+
+“TINA HAS BEEN A GREAT FIT.”
+
+From there, Tina joined our team as a buyer specialist and she loves the role because she is responsible for one thing and one thing only, taking care of our buyers. She knows that she has the support of our team through training, technology, and marketing, among other things. Tina uses all of this to bring together an incredible experience for our clients.
+
+If you have any questions for Tina about buying a home, send her an email to tina@teamlally.com or give her a call at (808) 888-5021. If you have any other questions, don’t hesitate to reach out to us. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Adrienne+Lally/2016+/November/Hawaii+Real+Estate+Agents-+Meet+Tina+Funk%2C+A+Buyer+Specialist+on+Team+Lally.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Adrienne+Lally/2016+/November/Hawaii+Real+Estate+Agents-+Meet+Tina+Funk%2C+A+Buyer+Specialist+on+Team+Lally.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Adrienne Lally & Attilio Leonardi</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Honolulu Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Have You Met Kelii Lum?</title>
+        <link>localhost:4000/have-you-met-kelii-lum.html</link>
+        
+        <author>Adrienne Lally & Attilio Leonardi</author>
+        <pubDate>2016-11-03 10:08:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Real+Estate+Agent+-+Have+You+Met+Keli%27i+Lum.mp4</guid>
+        <description>
+
+Keli’i Lum is a buyer specialist here at Team Lally. What he enjoys most about working with us is the atmosphere and support we provide.
+
+Check Out Our Career Opportunities
+
+Today, we wanted you to get to know a little bit about Keli’i Lum.
+
+How did you hear about Team Lally?
+A while ago, I decided I wanted to be a real estate investor, so I went to a real estate seminar and thought to myself: “I want to get out there and hit the real estate market and start selling homes and buying homes. Everything under the sun dealing with real estate.” So I went to these seminars and they advised reaching out to a real estate company and spending six months or so learning from professionals within the industry.
+
+What motivated you to join Team Lally?
+They’re among the top teams and top companies in Hawaii, and that’s what led me to go out there and join them. If you want to be the best, you have to learn from the best. I want to serve my clients and customers the best way I possibly can.
+
+“IF YOU WANT TO BE THE BEST, YOU HAVE TO LEARN FROM THE BEST.”
+
+What’s your role on the team?
+I’m a buyer specialist. I’m here to help buyers get into homes, educate them about the process, and get them into a comfortable state so that by the time we get to the end, they’re a happy customer.
+
+What do you enjoy most about working on a team?
+I love the atmosphere here. There is a lot to learn from a team. With a team by your side, you have a lot of support. There is a pool of information and experience you have access to that as a single agent you wouldn’t have access to. What’s even better, it’s a lot of fun being on a team!
+
+If you have any questions for Keli’i or need help buying or selling, please feel free to give us a call or shoot us an email. We look forward to hearing from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Real+Estate+Agent+-+Have+You+Met+Keli%27i+Lum.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Real+Estate+Agent+-+Have+You+Met+Keli%27i+Lum.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Adrienne Lally & Attilio Leonardi</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Honolulu Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Leading vs. Managing and Leadership Listing</title>
+        <link>localhost:4000/leading-vs-managing-and-leadership.html</link>
+        
+          <category>Agent Tips</category>
+        
+        <author>Adrienne Lally & Attilio Leonardi</author>
+        <pubDate>2016-10-20 14:10:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Real+Estate+Agents+-+Leading+VS+Managing+and+Leadership+Listing.mp4</guid>
+        <description>
+
+*What does it take to be a leader instead of a manager?
+
+You can start by asking questions instead of giving answers.*
+
+Want to sell your Hawaii Area Home? Get a home value report
+Want to buy a Hawaii area home? Search all homes for sale
+
+Today we wanted to give you some helpful information on how to be a leader.
+
+Managers give answers –  Leaders asked questions
+Managers manage work –  Leaders lead people
+Managers develop subordinates –  Leaders develop other leaders
+Managers dictate plans –  Leaders cast a vision
+Managers insist on control –  Leaders inspire collaboration
+
+Managers are also accustomed to being the go-to person for answers they’re used to given direction and giving their opinion it makes them feel valued important and reinforces their position of authority.  Also some managers prefer to deliver answers because they think that it will save precious time.
+
+Unfortunately when managers routinely dish out the answers they become enablers that to a dysfunctional cycle.   Which is actually a huge time waster now because team members regular have to seek out the manager for solutions rather than being problem solvers themselves.
+
+“Stop giving answers and start asking questions.”
+
+This prevents the ability to develop real solutions. Stifles the team member growth and ultimately limits the organization’s productivity. Additionally when team members are used to going to the manager for answers and direction they actually transfer the ownership of the problem from themselves to the manager. Consequently they can then blame the manager for the goals shortcomings and failures.
+
+It is no longer their fault because they didn’t provide the solution.  The manager did. Assigning team members with the task of uncovering the reason for their list goal or creating a viable solution to a problem challenge puts the responsibility back where it ultimately belongs.   So how do you do all this by not providing answers.  Instead answer every question with a question. Teach people to think and learn and grow for themselves.
+
+Click on this link we’ve provided to a Darren Hardy video to learn some awesome concepts from him on how to be a great leader.
+
+He mainly talks about training your people to be problem solvers. Darren also talks about how managers give answers while leaders ask questions. He recommends that you stop giving answers because when your team members problem solve on their own, they take ownership of the problem.
+
+If you have any questions give us a call or send us an email. We would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Real+Estate+Agents+-+Leading+VS+Managing+and+Leadership+Listing.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Real+Estate+Agents+-+Leading+VS+Managing+and+Leadership+Listing.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Adrienne Lally & Attilio Leonardi</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Honolulu Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Getting to Know Brooks Bowman</title>
+        <link>localhost:4000/getting-to-know-brooks-bowman.html</link>
+        
+          <category>Meet Team Lally</category>
+        
+        <author>Adrienne Lally & Attilio Leonardi</author>
+        <pubDate>2016-10-13 11:57:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Real+Estate+Agents+-+Getting+to+Know+Brooks+Bowman.mp4</guid>
+        <description>
+
+Brooks Bowman is a Listing Partner here at Team Lally, and
+he enjoys the camaraderie of working on a team very much.
+
+Want to sell your Hawaii Area Home? Get a home value report
+Want to buy a Hawaii area home? Search all homes for sale
+
+Today, we wanted you to get to know a little bit about Brooks Bowman.
+
+How did you hear about Team Lally?
+I first heard about Team Lally when I was in a brokerage of my own about six or seven years ago. I watched Adrienne and Attilio thrive during the market collapse of 2008 and 2009 when quite a few of us were being taken down. During that time, they built a great business, so I was very impressed.
+
+What motivated you to join Team Lally?
+I was motivated to join Team Lally because of their success. They have a great track record and they’re extremely successful in the marketplace. As I was wondering about the future of my own brokerage, I would see their signs all over my own neighborhood and the surrounding areas.
+
+“I joined Team Lally because of their success.”
+
+What’s your role on the team?
+My role on the team is as a Listing Partner. That means I work with owners and sellers but not with buyers.
+
+What do you enjoy most about working on a team?
+I enjoy working on a team because of the efficiency it produces and the camaraderie it provides. Each transaction is dealt with in such a way that so much gets done in such an efficient manner. Additionally, the team ends up becoming your friends and family. I have many friends here on Team Lally, and I enjoy that. Experiencing the negotiation of transactions with our chief negotiator Howard Net has been phenomenal. All of the other agents and our administrative staff have been great to work with as well.
+
+If you have any questions for Brooks or need help buying or selling, please feel free to give us a call or shoot us an email. We look forward to hearing from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Real+Estate+Agents+-+Getting+to+Know+Brooks+Bowman.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Real+Estate+Agents+-+Getting+to+Know+Brooks+Bowman.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Adrienne Lally & Attilio Leonardi</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Honolulu Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Is Your Career Vision?</title>
+        <link>localhost:4000/what-is-your-career-vision.html</link>
+        
+          <category>educational</category>
+        
+          <category>Team Lally Real Estate</category>
+        
+        <author>Adrienne Lally & Attilio Leonardi</author>
+        <pubDate>2016-09-30 10:27:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+Your success depends on your talent and the talent of those around you.
+ We can teach you how to find, grow, and lead that talent to become even more successful.
+Buying a home? Click here to perform a full home search
+Selling a home? Click here for a FREE Home Price Evaluation
+Call us at (808) 426-7211 for a FREE home buying or selling consultation
+
+Talent is the number one ingredient to success. Because of this, we want to invite you to a class that will teach you how to recruit the right talent for your team or company and how to put them in the right positions.
+
+The class is called “Career Envisioning.” A bad hire could end up costing you hundreds of thousands of dollars.
+
+We want to help you learn how to find, train, and lead your talent for the best results possible.
+
+“A bad hire could end up costing you hundreds of thousands of dollars.”
+
+To RSVP, send us an email at frontdesk946@kw.com.
+
+If you have any questions for us, don’t hesitate to give us a call or send us an email. We would be glad to help.
+
+Thanks and aloha!
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Adrienne Lally & Attilio Leonardi</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Honolulu Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Have You Met Rachel Yet?</title>
+        <link>localhost:4000/have-you-met-rachel-yet.html</link>
+        
+          <category>Buyer's Agent in Hawaii</category>
+        
+        <author>Adrienne Lally & Attilio Leonardi</author>
+        <pubDate>2016-09-20 14:39:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+Buying a home? Click here to perform a full home search
+Selling a home? Click here for a FREE Home Price Evaluation
+Call us at (808) 426-7211 for a FREE home buying or selling consultation
+
+BIO: Born and raised on the Island of Oahu, Rachel grew up on the Windward Side and attended James B. Castle High School. She graduated in 2011 in Kaneohe. Rachel is of full Filipino ancestry, a former Miss Oahu Junior Teen 2008, and Miss Hawaii Teen United States 2009. She competed and placed in the top 10 of the Miss Teen United States Scholarship Pageant and hosted “Brown Bags to Stardom” on OC 16, a local TV show supporting Hawaii’s musically talented and well-rounded students. After graduating, Rachel attended Hawaii Pacific University on a full ride scholarship to pursue a degree in Business Management. She currently resides in Kapolei with her new, growing family.
+
+“They seemed to suit me best.”
+
+I live right here in Kapolei, and have seen the Team Lally “Guaranteed Sold” cars around all the time. I knew that I wanted to join a team that was confident and the fact that we guarantee to sell homes or we will buy them ourselves really made a big statement to me.
+
+Team Lally is the only team in the area endorsed by Barbara Corcoran, so that made a big statement to me too when compared to the other companies out there. It shows that we are confident and we know what we are doing.
+
+When I met with Adrienne and Atilio, I knew there wasn’t another company that could give me the opportunity they could. Everyone is great, the team is excellent, and the atmosphere is amazing. They seemed to suit me best.
+
+With a team, everyone here is unified and wants to help each other out to meet our clients’ needs effectively and efficiently. There is less room for mistakes and that’s why being with a team is very awesome. I’m just very excited to be with Team Lally and excited to help you find the home of your dreams!”
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Adrienne Lally & Attilio Leonardi</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Honolulu Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Shift Happens - Are You Ready?</title>
+        <link>localhost:4000/an-opportunity-to-learn-millionaire.html</link>
+        
+          <category>Hawaii Real Estate</category>
+        
+        <author>Adrienne Lally & Attilio Leonardi</author>
+        <pubDate>2016-08-22 12:39:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Real+Estate+Agents+-+An+Opportunity+to+Learn+the+Millionaire+Mindset.mp4</guid>
+        <description>
+
+If you’ve never heard of the millionaire mindset, now’s the time to learn.
+
+One of the key aspects of the millionaire mindset is having a strategic game plan that will smooth out the ups and downs of each economic swing. That being said, we want to personally invite you to a class that will teach you about growth, mastering the millionaire mindset, and negotiating real estate shifts. At this class, you will learn about five specific things you can do now to maintain a profitable business in a down cycle.
+
+
+
+“Don’t be unprepared for the inevitable market shift.”
+
+Don’t be one of those agents that’s unprepared for the inevitable market shift. We have personally implemented these strategies, and they work. The only regret that you’ll have after attending this class is that you didn’t learn this information sooner.
+
+If you have any questions in the meantime, give us a call or send us an email. We would be happy to help you. Thanks, and Aloha!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Real+Estate+Agents+-+An+Opportunity+to+Learn+the+Millionaire+Mindset.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Real+Estate+Agents+-+An+Opportunity+to+Learn+the+Millionaire+Mindset.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+If you’ve never heard of the millionaire mindset, now’s the time to learn.
+
+</itunes:subtitle>
+        <itunes:author>Adrienne Lally & Attilio Leonardi</itunes:author>
+        <itunes:summary>
+
+If you’ve never heard of the millionaire mindset, now’s the time to learn.
+
+</itunes:summary>
         <itunes:keywords>Honolulu Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
       </item>
       
