@@ -4,8 +4,11 @@ title: Where Does Our Baltimore Market Stand for Buyers and Sellers?
 tags:
   - Market Update
 excerpt: What’s the latest news from our Baltimore metro area market?
-enclosure:
-pullquote: 'If you’ve missed out on a home, August might be a great time to find a good value.'
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Wes+Peters/Baltimore+Metro+Real+Estate-+Your+latest+Baltimore+metro+market+update.mp4
+pullquote: >-
+  If you’ve missed out on a home, August might be a great time to find a good
+  value.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
