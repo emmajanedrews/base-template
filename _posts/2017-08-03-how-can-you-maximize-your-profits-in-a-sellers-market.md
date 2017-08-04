@@ -4,7 +4,9 @@ title: How Can You Maximize Your Profits in a Seller’s Market?
 date: 2017-08-03 16:41:45
 tags:
   - Home Seller Tips
-excerpt: Maximizing your home sale in a seller’s market means focusing on some important factors besides price
+excerpt: >-
+  Maximizing your home sale in a seller’s market means focusing on some
+  important factors besides price
 enclosure:
 pullquote: Have a winning agent on your side who knows how to close deals.
 enclosure_type: video/mp4
@@ -17,7 +19,7 @@ youtube_code: A_JV388_i-s
 
 {% include youtube.html %}We’ve all heard that it’s a seller’s market out there, meaning there is more demand than supply. When a home goes on the market that’s priced reasonably well, it will likely receive multiple offers.&nbsp;
 
-If you’re a home seller, here are a few tips on how to make your home sale even more successful under these market conditions. You might be surprised to know it’s not only about price. After all, what’s does it accomplish if your home sells but you don’t really receive top dollar for it or it doesn’t close on time?&nbsp;
+If you’re a home seller, here are a few tips on how to make your home sale even more successful under these market conditions. You might be surprised to know it’s not only about price. After all, what does it accomplish if your home sells but you don’t really receive top dollar for it or it doesn’t close on time?&nbsp;
 
 The first tip is to **make sure you have a winning agent.** The right agent will strategize with you and create a position within the market that gives you the best exposure and the best offer. This includes professional photography, strategic marketing, and open houses. After all, you want to have maximum exposure.&nbsp;
 <br>{% include pullquote.html %}
