@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Buy and Sell Simultaneously
-date:
+date: 2017-08-04 11:23:06
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -26,6 +26,6 @@ The second option you have is listing your home first, finding a buyer, and maki
 <br>{% include pullquote.html %}
 <br>You can also decide to list your house, find a buyer, complete the sale, and negotiate a rent-back while you find your new home. You’ll agree to pay them rent for a few months, and it will give you enough time to get approved and find your next house.
 
-Finally, you can decide to sell your home and temporarily rent one for six to twelve months while you figure out what your next step is going to be.&nbsp;
+Finally, you can decide to sell your home and temporarily rent one for six to twelve months while you figure out what your next step is going to be.
 
 **It’s a lot to juggle, so don’t try and go through it alone.**If you have any questions about the process or need any help through it, give me a call or send me an email. I look forward to hearing from you.
