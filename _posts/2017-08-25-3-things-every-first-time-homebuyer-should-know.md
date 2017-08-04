@@ -1,11 +1,16 @@
 ---
 layout: post
 title: 3 Things Every First-Time Homebuyer Should Know
-date: 2017-08-10 12:20:00
+date: 2017-08-25 12:20:00
 tags:
   - Home Buyer Tips
-excerpt: 'Buying your first home can be an incredibly exciting time. However, it requires a huge commitment and a sizable investment. That’s why I want to share my three top tips to help first-time homebuyers protect themselves during this crucial period.'
-enclosure: 'http://vyralmarketing.s3.amazonaws.com/rare%20Properties/Raleigh%20Real%20Estate-%203%20Things%20Every%20First-Time%20Homebuyer%20Should%20Know.mp4'
+excerpt: >-
+  Buying your first home can be an incredibly exciting time. However, it
+  requires a huge commitment and a sizable investment. That’s why I want to
+  share my three top tips to help first-time homebuyers protect themselves
+  during this crucial period.
+enclosure: >-
+  http://vyralmarketing.s3.amazonaws.com/rare%20Properties/Raleigh%20Real%20Estate-%203%20Things%20Every%20First-Time%20Homebuyer%20Should%20Know.mp4
 pullquote: 'An inspection will cost about $300, but it can save you thousands.'
 enclosure_type: video/mp4
 enclosure_time:
