@@ -1,126 +1,340 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title></title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Wilson Realty Group - your professional  Real Estate Agents.</description>
+    <title>Wilson Realty Group Podcast</title>
+    <link>http://wilsonrealty.group</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://wilsonrealty.group"/>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Ursula & Associates - your professional Woodstock Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Jason Wilson</managingEditor>
-    <lastBuildDate>2017-02-13 11:57:13 -0600</lastBuildDate>
+    <lastBuildDate>2017-08-04 13:42:59 -0500</lastBuildDate>
     <media:copyright>Jason Wilson</media:copyright>
-    <media:thumbnail url="localhost:4000"/>
-    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
+    <media:thumbnail url="http://wilsonrealty.group/img/podcast.jpg"/>
+    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Woodstock, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
-      <itunes:email>homes@WilsonKW.com</itunes:email>
+      <itunes:email>Jason@callursula.com</itunes:email>
       <itunes:name>Jason Wilson</itunes:name>
     </itunes:owner>
     <itunes:author>Jason Wilson</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000"/>
-    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the  Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Wilson Realty Group - your professional  Real Estate Agents.</itunes:summary>
+    <itunes:image href="http://wilsonrealty.group/img/podcast.jpg"/>
+    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Woodstock, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Woodstock Area Real Estate Market</itunes:subtitle>
+    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Ursula & Associates - your professional Woodstock Real Estate Agents.</itunes:summary>
       <itunes:category text="News &amp; Politics"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>localhost:4000/this-is-a-test.html</link>
+        <title>What Rules Has Fannie Mae Changed About Qualifying for a Loan?</title>
+        <link>http://wilsonrealty.group/what-rules-has-fannie-mae-changed-about-qualifying-for-a-loan.html</link>
         
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
-        
-          <category>Buyer Tips</category>
-        
-          <category>Home Seller Tips</category>
+          <category>Home Buyer Tips</category>
         
         <author>Jason Wilson</author>
-        <pubDate>2016-10-04 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2017-08-01 08:50:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jason+Wilson/+Videos/2017/July/Woodstock%252C+GA+Real+Estate+Agent-+What+Rules+Has+Fannie+Mae+Changed+About+Qualifying+for+a+Loan%253F.mp4</guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+Fannie Mae recently made some important rule changes regarding what it takes to qualify for a loan.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+These changes mostly apply to what we call the “debt-to-income ratio,” or how many revolving payments show on your credit versus the payment of the house you would like to buy, and what percentage of your income that totals to. This factor is what prevents most people from qualifying for a loan.
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+The first change they made applies to third-party payments. In the past, if you had student loan debt, your monthly payments would be counted against your debt-to-income ratio. For example, if your payment was $500 a month, the house you could afford would be $500 a month less.
 
-“This is an example of a pull quote”
+Now, if you can prove a parent or a business (such as your employer) has been paying that debt for 12 consecutive months prior, they don’t have to count that debt against you. This is a major change because a lot of people have their parents pay their debt, but it’s still counted against them.
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+“These changes most apply to your debt-to-income ratio.”
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+The second change applies to how Fannie Mae calculates the payment. Previously, they calculated 1% of the total debt each month. For example, if you owed $100,000, you had to pay $1,000 a month. However, if you were in a forbearance or an income-based payment plan where—for example—you couldn’t make enough to pay $1,000 but you could make enough to pay $180, and they granted you a $180 per month payment plan, they would only use that $180 sum rather than that 1% (or $1,000 sum) to count against your debt-to-income ratio.
+
+The third change applies to refinancing process. This is for homeowners who have student loan debt or have children who have student loan debt and they want to refinance their house with a Fannie Mae loan and use the equity to pay off that debt.
+
+Refinancing only makes sense if your student loan interest rate and mortgage rate follow a certain ratio. If your student loan interest rate is 8% and the new mortgage rates are 4%, for instance, refinancing would make sense. If your student loan interest rate is 2% and the new mortgage rates are 4%, though, it wouldn’t make sense.
+
+Fannie Mae previously charged a quarter point fee to be able to do this, but now they’ve waived that fee, thereby encouraging homeowners to pull that debt out of the student loan area to put it into their home.
+
+If you have any questions about these changes or you have student loan debt and that is the reason you didn’t qualify for a loan, please don’t hesitate to reach out to me. I’d be happy to help you.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jason+Wilson/+Videos/2017/July/Woodstock%252C+GA+Real+Estate+Agent-+What+Rules+Has+Fannie+Mae+Changed+About+Qualifying+for+a+Loan%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://wilsonrealty.group" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jason+Wilson/+Videos/2017/July/Woodstock%252C+GA+Real+Estate+Agent-+What+Rules+Has+Fannie+Mae+Changed+About+Qualifying+for+a+Loan%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the  Area Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>Fannie Mae recently made three important rule changes regarding what it takes to qualify for a loan. Here are the changes and how they affect you.</itunes:subtitle>
         <itunes:author>Jason Wilson</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:summary>Fannie Mae recently made three important rule changes regarding what it takes to qualify for a loan. Here are the changes and how they affect you.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Woodstock, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>this is a test</title>
-        <link>localhost:4000/a-fox-in-space.html</link>
+        <title>July 2017 Towne Lake Real Estate Market Update</title>
+        <link>http://wilsonrealty.group/july-2017-towne-lake-real-estate-market-update.html</link>
         
           <category>Market Update</category>
         
+        <author>Jason Wilson</author>
+        <pubDate>2017-07-20 20:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jason+Wilson/+Videos/2017/July/Woodstock%252C+GA+Real+Estate+Agent-+July+2017+Towne+Lake+Real+Estate+Market+Update+(1).mp4</guid>
+        <description>
+
+Today I wanted to share with you a market update for Towne Lake. Everyone always asks, “Is it a seller’s market or a buyer’s market?” Many are asking what the right strategy is, and with the influence of HGTV home buying shows, many buyers and sellers have a skewed perception of how they can approach the market.
+
+The numbers are unemotional and they do not lie. When we look at the numbers for Towne Lake, we’ve had 297 closed transactions within the last six months. With that, there are currently 109 active and 80 pending listings, and in June alone we saw about 75 closings.
+
+Looking at those numbers, we have about 2.2 months of inventory. What that means is that if no other listings came on the market, it would take about two months to sell all the homes that are currently listed. Anything less than six months of inventory is typically considered a seller’s market.
+
+Because there is more demand from buyers, it is the sellers that are driving the market. They can put their home on the market and charge higher prices for the updates they’ve done to the home, and because there are fewer choices, they can do that and get more money for their homes.
+
+“The numbers are unemotional and they do not lie.”
+
+When that happens, everybody starts to push the market, and that’s what we’re seeing. For example, “John” sells his home for $220,000, his neighbor then sells his home at $230,000, and so on. There is a cap of how much you can push the market due to the issue of affordability of homes.
+
+However, when there are more buyers than sellers, prices for homes climb. From my perspective, we’re starting to see the market cool off a bit. Fewer homes are selling almost immediately after listing, though that is still most often the case.
+
+Appreciation at 10% to 15% is not sustainable, so it has to back down at some point. If you’re trying to sell in the Towne Lake market, then you’ll more than likely be able to sell your home for top dollar. If you’re a buyer in this market, my advice is to call us and talk over some strategies of how you can win in a seller’s market and get the home of your dreams.
+
+If you have any other questions about this topic or you’re looking to buy or sell your home, please give us a call. We would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jason+Wilson/+Videos/2017/July/Woodstock%252C+GA+Real+Estate+Agent-+July+2017+Towne+Lake+Real+Estate+Market+Update+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://wilsonrealty.group" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jason+Wilson/+Videos/2017/July/Woodstock%252C+GA+Real+Estate+Agent-+July+2017+Towne+Lake+Real+Estate+Market+Update+(1).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you’re in the Towne Lake market, my latest market update is something you need to see.</itunes:subtitle>
+        <itunes:author>Jason Wilson</itunes:author>
+        <itunes:summary>If you’re in the Towne Lake market, my latest market update is something you need to see.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Woodstock, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>We’re Teaming Up With Ursula & Associates</title>
+        <link>http://wilsonrealty.group/were-teaming-up-with-ursula-associates.html</link>
+        
           <category>Real Estate</category>
         
-          <category>Buyer Tips</category>
+        <author>Jason Wilson</author>
+        <pubDate>2017-07-10 10:03:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jason+Wilson/+Videos/2017/July/Woodstock%252C+GA+Real+Estate+Agent-+Were+Teaming+Up+With+Ursula+%2526+Associates.mp4</guid>
+        <description>
+
+One thing we pride ourselves on here at Wilson Realty Group is our service. Our aim is and always has been to provide our clients with the best experience possible. There are only 24 hours in a day, so I have great people on my team like Sabrina, Davis, and more who help create this excellent experience on a daily basis. We’re always here to keep you informed, and we’re always going to be a step ahead.
+
+That’s why we are excited to announce a merger with another great team who takes the same level of pride in the service they provide, Ursula &amp; Associates. With more people, more systems, and more resources, we are going to put together an even better client experience than we were offering on our own.
+
+“A different name and even better service is coming.”
+
+Moving forward, you will see a lot of our branding change from Wilson Realty Group to Ursula &amp; Associates. I wanted to send this out to you and give you a quick primer on what to expect. Basically, a different name and better service. It’s a win-win for all of us.
+
+I hope you’re having a great summer. If you have any questions for me or need any help buying or selling a home, give me a call or send me an email. I look forward to hearing from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jason+Wilson/+Videos/2017/July/Woodstock%252C+GA+Real+Estate+Agent-+Were+Teaming+Up+With+Ursula+%2526+Associates.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://wilsonrealty.group" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jason+Wilson/+Videos/2017/July/Woodstock%252C+GA+Real+Estate+Agent-+Were+Teaming+Up+With+Ursula+%2526+Associates.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>We have an exciting announcement to make. Wilson Realty Group is officially merging with Ursula & Associates.</itunes:subtitle>
+        <itunes:author>Jason Wilson</itunes:author>
+        <itunes:summary>We have an exciting announcement to make. Wilson Realty Group is officially merging with Ursula & Associates.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Woodstock, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Which Loan Product Is Best for You?</title>
+        <link>http://wilsonrealty.group/which-loan-product-is-best-for-you.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Jason Wilson</author>
+        <pubDate>2017-06-05 07:55:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jason+Wilson/Woodstock%252C+GA+Real+Estate+Agent-+Financing+your+home+purchase.mp4</guid>
+        <description>
+
+What type of loan are you going to use to purchase a home? Different loan products come with different benefits, so today, I’ll go over a few different options: FHA, VA, USDA, and conventional loans.
+
+Of course, the loan that you go with depends on your individual situation.
+
+Two common loan options are conventional and FHA loans. Conventional loans require 3% down and FHA requires 3.5% down. So, the conventional loan does have a slightly lower down payment. However, in order to qualify for the 3% down conventional loan, one of the parties involved in the transaction has to be a first-time homebuyer. Otherwise, you will have to go with a 5% down conventional loan.
+
+With FHA, it doesn’t matter if you are a first-time homebuyer or not. You just have to purchase an owner-occupied home. In other words, you have to plan on living in the property; you cannot use an FHA loan for an investment property.
+
+How do you know if you should use an FHA loan or a conventional loan? There are a few limiting factors to consider.
+
+For example, if you get your income from a regular job and you do some additional work on the side, that side work might not be usable when your lender determines your debt-to-income ratio. For conventional loans, your debt-to-income ratio needs to be between 43% and 45% to qualify. For an FHA loan, you can have a 50% to 55% debt-to-income ratio.
+
+In other words, if you want to buy a particular home and you are a first-time homebuyer, you might be able to go with the 3% conventional loan and afford a $200,000 house. If the house you’re looking at is $225,000, you might decide to go with the FHA loan because you can get the property with a higher debt-to-income ratio.
+
+“If you have a higher debt-to-income ratio, you may want to go with an FHA loan.”
+
+You should also know that FHA loans come with mortgage insurance premiums that you have to pay for the life of the loan. Private mortgage insurance premiums also come with conventional loans, but you don’t have to pay them once you pay the house down to approximately 79% of loan to value.
+
+If your debt-to-income ratio is low enough, I would recommend going with the conventional loan. If it’s not, then FHA might be the way you want to go.
+
+There are a few other loan options available to homebuyers. For instance, the VA loan is available to veterans who have an eligibility certificate form from the VA. This loan allows those who have served our country to buy a home with no money down.
+
+The USDA loan is another loan product that does not require a down payment. However, that loan has more to do with where the house is located, as you cannot get a USDA loan in certain areas. If you are interested in this type of loan, you need to make sure that it is within the USDA footprint, which are in more rural areas.
+
+Like conventional loans, the USDA loan also operates with a lower debt-to-income ratio, which means that you cannot get a USDA loan with a debt-to-income ratio of 55%.
+
+If you have any other questions about these loan programs or you would like to learn more about buying a home, give me a call or send me an email. I would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jason+Wilson/Woodstock%252C+GA+Real+Estate+Agent-+Financing+your+home+purchase.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://wilsonrealty.group" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jason+Wilson/Woodstock%252C+GA+Real+Estate+Agent-+Financing+your+home+purchase.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Which kind of home loan product do you qualify for? I’ll break down a few different options for you today.</itunes:subtitle>
+        <itunes:author>Jason Wilson</itunes:author>
+        <itunes:summary>Which kind of home loan product do you qualify for? I’ll break down a few different options for you today.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Woodstock, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to Price Your Home When You Sell</title>
+        <link>http://wilsonrealty.group/how-to-price-your-home-when-you-sell.html</link>
         
           <category>Home Seller Tips</category>
         
         <author>Jason Wilson</author>
-        <pubDate>2016-09-28 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2017-05-23 11:22:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jason+Wilson/Woodstock%252C+GA+Real+Estate+Agent-+How+to+determine+your+home%2527s+market+value.mp4</guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+When the time comes to sell your house, pricing it is one of the most important factors.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+You have to start by determining what it’s worth, which is a process that has many factors of its own. Many people are emotionally attached to their house, but the bottom line to remember is that numbers are unemotional and they don’t lie. When evaluating a property, we’ll consider:
 
+1. The neighborhood: If possible, we only want to compare the house to properties in the same neighborhood. If you deviate from the area, you want to go no further than a mile out if possible. For rural properties, you might have to go as far as five miles out. For homes in a subdivision though, you want to look at similar homes. Some subdivisions might only have four or five specific models of home. You’ll look for comparable properties that have sold in the last 90 days if possible. If not, the last six months. You can go back as far as a year in an up market like we’re in here in Woodstock. If you can’t find a similar model that has recently sold, you’ll look at properties with similar square footage, similar features, and similar age.
 
-  list item
-  list item
-  list item
-  list item
-  list item
+2. Price per square foot: This is my least favorite, but it’s the confirming number. Once we establish a property’s value based on similar features and age in the same subdivision, we’ll go to dollar per square foot. The smaller the house, the more you’ll get per square foot, and vice versa (especially for houses with a finished basement). We use this method to confirm the price in the absence of a directly comparable property. We’ll use this in addition to making adjustments for condition, features, and upgrades to dial in the price as accurately as possible.
 
+“Numbers are unemotional and they don’t lie.”
 
-
-  list item
-  list item
-  list item
-  list item
-  list item
-
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+These processes all aim to bring you the most money possible when selling your home. If you have any questions or you’d like to know what your home could sell for in the current market, give me a call or send me an email. I’d be happy to help.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jason+Wilson/Woodstock%252C+GA+Real+Estate+Agent-+How+to+determine+your+home%2527s+market+value.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://wilsonrealty.group" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jason+Wilson/Woodstock%252C+GA+Real+Estate+Agent-+How+to+determine+your+home%2527s+market+value.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the  Area Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>Pricing your home is one of the most important factors in selling it. This is how we determine what a property could sell for.</itunes:subtitle>
         <itunes:author>Jason Wilson</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:summary>Pricing your home is one of the most important factors in selling it. This is how we determine what a property could sell for.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Woodstock, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Be Careful When Making Upgrades Before Selling Your Home</title>
+        <link>http://wilsonrealty.group/be-careful-when-making-upgrades-before-selling-your-home.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Jason Wilson</author>
+        <pubDate>2017-04-28 06:38:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jason+Wilson/Woodstock%252C+GA+Real+Estate+Agent-+Not+Every+Repair+Is+Smart.mp4</guid>
+        <description>
+
+Today I’m answering a question about home renovations, specifically the appropriate renovations to make while getting your home ready for the market.
+
+This is a very loaded question, one we could probably do a three-hour class on. However, the short answer is that it depends. First, it depends on your area. We want to step outside of your home and take a look at the surrounding area. We will compare your home to the other properties nearby to see what features they have.
+
+You don’t want to fall into the trap of over improving. Any fix will increase a home’s value, but it doesn’t mean that every repair will get you a dollar for dollar return. If you see eight out of the 10 homes for sale around you have brand new shingled roofs and yours is outdated, you probably should invest in a new roof. Conversely, if only one home in the area has a new roof, you are probably better off not replacing it. However, each individual case is different.
+
+When it comes to simple fixes, I always recommend painting the house and replacing any worn out carpets. Landscaping is another cheap, easy fix that gives you curb appeal and draws buyers to your home.
+
+“Simple fixes like paint and flooring are always recommended.”
+
+As far as other things you can do in the house, it depends on what’s going on in your area. If the homes that are selling around you all have a specific feature, it’s practically a must-have. In the end, you have to weigh the cost of making repairs versus the return you’ll get when you sell the house.
+
+You might put $30,000 into repairs, but only get $25,000 back on the sale of your home. Instead of having a net loss of $5,000, it might be more beneficial for you to take a lower price in order to increase your profit and get the most value out of your sale.
+
+I hope this answers any questions you have about making improvements before selling. If you have any other questions, don’t hesitate to give us a call or send us an email. We would love to hear from you soon!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jason+Wilson/Woodstock%252C+GA+Real+Estate+Agent-+Not+Every+Repair+Is+Smart.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://wilsonrealty.group" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jason+Wilson/Woodstock%252C+GA+Real+Estate+Agent-+Not+Every+Repair+Is+Smart.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Making repairs before you sell your home is smart. Beware of over improving, however.</itunes:subtitle>
+        <itunes:author>Jason Wilson</itunes:author>
+        <itunes:summary>Making repairs before you sell your home is smart. Beware of over improving, however.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Woodstock, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Should Your Next Home Be a Resale Purchase or a New Build?</title>
+        <link>http://wilsonrealty.group/should-your-next-home-be-a-resale-purchase-or-a-new-build.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Jason Wilson</author>
+        <pubDate>2017-04-13 09:39:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jason+Wilson/Woodstock%252C+GA+Real+Estate+Agent-+The+perfect+home+vs.+the+perfect+deal.mp4</guid>
+        <description>
+
+I recently received a question from one of my viewers named Dan. Dan and his wife bought a home in 2013, but now they want to live on a more private piece of property that will age with them.
+
+Since it’s difficult for them to find a home that meets all of their must-haves and is located on private property in their area, he’s wondering if they should buy land themselves and build a new construction home or wait for the right home to come onto the market. If he did buy land and build, how would the financing work?
+
+For Dan and anyone else facing this situation, the answer comes down to whether you want the perfect home or the ideal value.
+
+Whenever I ask homebuyers whether they want to look for the deal or pay retail, they usually want to purchase the home that is the deal. However, some people prefer homes that are cheap and they can fix up. They’re also willing to compromise on things like privacy, layout, square footage, and other things of that nature.
+
+To know what’s best for you, we have to examine this from a couple different angles.
+
+If this next house is something you want to age with you and you never want to buy another house, then building is the best choice. That way, you can lay it out however you want with the exact square footage you prefer and features you desire.
+
+“Do you want the perfect home or the ideal value?”
+
+There are a couple of limitations with this option, though. One of which is there is only so much land out there to buy. Most of the land in this area is going to be more rural, so you should be able to find some lots that are slightly larger and can satisfy your need for more privacy.
+
+You also have to obtain a construction loan, and they can be a little bit of a nightmare. There are very specific types of loans where they do draws so the builder can afford to put up certain sections. They then pay against that draw and eventually convert it into a singular mortgage. There are fewer options for that kind of loan out there right now, but it still can be done.
+
+On the other side, is it a better dollar value to buy a property that already exists? From a dollar-to-dollar value, resale is definitely a better choice. However, you have to sacrifice certain things when buying a resale property. This is because if you didn’t design it, it will be less likely to feature all of your must-haves.
+
+At the end of the day, you simply must ask yourself if this next house will be the one you grow old in. If so, look for some land that meets all of your must-haves as far as scenery and location. After that, we can recommend some builders who can get you the custom home that fits your needs.
+
+If you have any other questions, please don’t hesitate to reach out to us. We would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jason+Wilson/Woodstock%252C+GA+Real+Estate+Agent-+The+perfect+home+vs.+the+perfect+deal.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://wilsonrealty.group" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jason+Wilson/Woodstock%252C+GA+Real+Estate+Agent-+The+perfect+home+vs.+the+perfect+deal.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Choosing between building a new home yourself or buying a resale property comes down to whether you want the perfect home or the perfect deal.</itunes:subtitle>
+        <itunes:author>Jason Wilson</itunes:author>
+        <itunes:summary>Choosing between building a new home yourself or buying a resale property comes down to whether you want the perfect home or the perfect deal.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Woodstock, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>3 Tips to Increase Your Home’s Value</title>
+        <link>http://wilsonrealty.group/3-tips-to-increase-your-homes-value.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Jason Wilson</author>
+        <pubDate>2017-03-14 05:25:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jason+Wilson/Woodstock%252C+GA+Real+Estate+Agent-+3+Ways+to+Add+Value+to+Your+Home.mp4</guid>
+        <description>
+
+If you are planning on selling your home, here are a few simple, inexpensive things that will help you increase your home’s value:
+
+1. Declutter your home.This is a low or no cost task that helps you make money. When staging your house for the market, remember, less is more. The bigger your home feels, the better. Make sure the countertops are clear. If you aren’t sure whether something should stay or go, you can always call us for help. In most cases, if you’re uncertain about a piece of furniture, it should probably go. Yard sales are a great way to get rid of things that you don’t need anymore. Not only is decluttering very profitable, it’s also very freeing.
+
+“When staging your house, remember, less is more.”
+
+2. Paint your house.You may need to paint the entire house, but simply painting all of the trim will go a long way. People tend to invent what they don’t know about a house, so if they see scuffed-up baseboards, they will think that the house hasn’t been taken care of. Take care of scuff marks by painting over them and then blending them up so that the fresh paint doesn’t stand out on your walls. Painting the trim provides clean lines. You should also do some touch-ups if there are marks on your walls.
+
+3. Clean up the yard. Curb appeal is a big deal because people drive through neighborhoods and look at homes before they call their Realtor. You want those people to make that phone call because they are interested in your home. Take care of some of the less expensive landscaping, like adding fresh mulch, trimming hedges, and edging the lawn. You can even pressure wash the outside of your house to make the exterior paint look nice and fresh. Just make sure your home looks clean and crisp on the outside.
+
+These inexpensive tasks are easy ways to add value to your home before putting it on the market. If you have any other questions about the spring market or about real estate in general, give me a call or send me an email. I would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jason+Wilson/Woodstock%252C+GA+Real+Estate+Agent-+3+Ways+to+Add+Value+to+Your+Home.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://wilsonrealty.group" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jason+Wilson/Woodstock%252C+GA+Real+Estate+Agent-+3+Ways+to+Add+Value+to+Your+Home.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you want to put your home on the market this spring, there are three ways you can make your home more appealing to buyers and increase its value.</itunes:subtitle>
+        <itunes:author>Jason Wilson</itunes:author>
+        <itunes:summary>If you want to put your home on the market this spring, there are three ways you can make your home more appealing to buyers and increase its value.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Woodstock, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
     <copyright>Jason Wilson</copyright>
     <media:credit role="author">Jason Wilson</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Wilson Realty Group - your professional  Real Estate Agents.</media:description>
+    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Ursula & Associates - your professional Woodstock Real Estate Agents.</media:description>
   </channel>
 </rss>

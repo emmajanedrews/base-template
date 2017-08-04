@@ -1,39 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Base Template</title>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Wilson Realty Group - your professional  Real Estate Agents.</description>
-    <link>localhost:4000/</link>
-    <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Feb 2017 11:57:13 -0600</pubDate>
-    <lastBuildDate>Mon, 13 Feb 2017 11:57:13 -0600</lastBuildDate>
+    <title>Ursula &amp; Associates</title>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Ursula &amp; Associates - your professional Woodstock Real Estate Agents.</description>
+    <link>http://wilsonrealty.group/</link>
+    <atom:link href="http://wilsonrealty.group/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 04 Aug 2017 13:42:59 -0500</pubDate>
+    <lastBuildDate>Fri, 04 Aug 2017 13:42:59 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>this is a test post</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SFFy_drFrZs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>What Rules Has Fannie Mae Changed About Qualifying for a Loan?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/TRvBNEMFhj0?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps &lt;strong&gt;gastropub marfa r&lt;/strong&gt;etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.&lt;/p&gt;
+&lt;p&gt;Fannie Mae recently made some important rule changes regarding what it takes to qualify for a loan.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Bushwick&lt;/em&gt; &lt;a href=&quot;'http://google.com'&quot;&gt;marfa&lt;/a&gt; wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.&lt;/p&gt;
+&lt;p&gt;These changes mostly apply to what we call the “debt-to-income ratio,” or how many revolving payments show on your credit versus the payment of the house you would like to buy, and what percentage of your income that totals to. This factor is what prevents most people from qualifying for a loan.&lt;/p&gt;
 
-&lt;p&gt;Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The first change they made applies to third-party payments.&lt;/strong&gt; In the past, if you had student loan debt, your monthly payments would be counted against your debt-to-income ratio. For example, if your payment was $500 a month, the house you could afford would be $500 a month less.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This is an example of a pull quote%20localhost:4000/this-is-a-test.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This is an example of a pull quote”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Now, if you can prove a parent or a business (such as your employer) has been paying that debt for 12 consecutive months prior, they don’t have to count that debt against you. This is a major change because a lot of people have their parents pay their debt, but it’s still counted against them.&lt;/p&gt;
 
-&lt;p&gt;Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=These changes most apply to your debt-to-income ratio.%20http://wilsonrealty.group/what-rules-has-fannie-mae-changed-about-qualifying-for-a-loan.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“These changes most apply to your debt-to-income ratio.”&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The second change applies to how Fannie Mae calculates the payment. &lt;/strong&gt;Previously, they calculated 1% of the total debt each month. For example, if you owed $100,000, you had to pay $1,000 a month. However, if you were in a forbearance or an income-based payment plan where—for example—you couldn’t make enough to pay $1,000 but you could make enough to pay $180, and they granted you a $180 per month payment plan, they would only use that $180 sum rather than that 1% (or $1,000 sum) to count against your debt-to-income ratio.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The third change applies to refinancing process.&lt;/strong&gt; This is for homeowners who have student loan debt or have children who have student loan debt and they want to refinance their house with a Fannie Mae loan and use the equity to pay off that debt.&lt;/p&gt;
+
+&lt;p&gt;Refinancing only makes sense if your student loan interest rate and mortgage rate follow a certain ratio. If your student loan interest rate is 8% and the new mortgage rates are 4%, for instance, refinancing would make sense. If your student loan interest rate is 2% and the new mortgage rates are 4%, though, it wouldn’t make sense.&lt;/p&gt;
+
+&lt;p&gt;Fannie Mae previously charged a quarter point fee to be able to do this, but now they’ve waived that fee, thereby encouraging homeowners to pull that debt out of the student loan area to put it into their home.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions about these changes or you have student loan debt and that is the reason you didn’t qualify for a loan, please don’t hesitate to reach out to me. I’d be happy to help you.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 04 Oct 2016 00:00:00 -0500</pubDate>
-        <link>localhost:4000/this-is-a-test.html</link>
-        <guid isPermaLink="true">localhost:4000/this-is-a-test.html</guid>
+        <pubDate>Tue, 01 Aug 2017 08:50:00 -0500</pubDate>
+        <link>http://wilsonrealty.group/what-rules-has-fannie-mae-changed-about-qualifying-for-a-loan.html</link>
+        <guid isPermaLink="true">http://wilsonrealty.group/what-rules-has-fannie-mae-changed-about-qualifying-for-a-loan.html</guid>
+        
+        <category>Home Buyer Tips</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>July 2017 Towne Lake Real Estate Market Update</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/oc3oSSQdJrk?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Today I wanted to share with you a market update for Towne Lake. Everyone always asks, “Is it a seller’s market or a buyer’s market?” Many are asking what the right strategy is, and with the influence of HGTV home buying shows, many buyers and sellers have a skewed perception of how they can approach the market.&lt;/p&gt;
+
+&lt;p&gt;The numbers are unemotional and they do not lie. When we look at the numbers for Towne Lake, we’ve had 297 closed transactions within the last six months. With that, there are currently 109 active and 80 pending listings, and in June alone we saw about 75 closings.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Looking at those numbers, we have about 2.2 months of inventory.&lt;/strong&gt; What that means is that if no other listings came on the market, it would take about two months to sell all the homes that are currently listed. Anything less than six months of inventory is typically considered a seller’s market.&lt;/p&gt;
+
+&lt;p&gt;Because there is more demand from buyers, &lt;strong&gt;it is the sellers that are driving the market.&lt;/strong&gt; They can put their home on the market and charge higher prices for the updates they’ve done to the home, and because there are fewer choices, they can do that and get more money for their homes.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=The numbers are unemotional and they do not lie.%20http://wilsonrealty.group/july-2017-towne-lake-real-estate-market-update.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“The numbers are unemotional and they do not lie.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;When that happens, everybody starts to push the market, and that’s what we’re seeing. For example, “John” sells his home for $220,000, his neighbor then sells his home at $230,000, and so on. There is a cap of how much you can push the market due to the issue of affordability of homes.&lt;/p&gt;
+
+&lt;p&gt;However, when there are more buyers than sellers, &lt;strong&gt;prices for homes climb.&lt;/strong&gt; From my perspective, we’re starting to see the market cool off a bit. Fewer homes are selling almost immediately after listing, though that is still most often the case.&lt;/p&gt;
+
+&lt;p&gt;Appreciation at 10% to 15% is not sustainable, so it has to back down at some point. If you’re trying to sell in the Towne Lake market, then you’ll more than likely be able to sell your home for top dollar. If you’re a buyer in this market, my advice is to call us and talk over some strategies of how you can win in a seller’s market and get the home of your dreams.&lt;/p&gt;
+
+&lt;p&gt;If you have any other questions about this topic or you’re looking to buy or sell your home, please give us a call. We would be happy to help you!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 20 Jul 2017 20:00:00 -0500</pubDate>
+        <link>http://wilsonrealty.group/july-2017-towne-lake-real-estate-market-update.html</link>
+        <guid isPermaLink="true">http://wilsonrealty.group/july-2017-towne-lake-real-estate-market-update.html</guid>
         
         <category>Market Update</category>
         
+        
+      </item>
+    
+      <item>
+        <title>We’re Teaming Up With Ursula &amp; Associates</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/-hoYgkXATss?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;One thing we pride ourselves on here at Wilson Realty Group is our service. Our aim is and always has been to provide our clients with the best experience possible. There are only 24 hours in a day, so I have great people on my team like Sabrina, Davis, and more who help create this excellent experience on a daily basis. &lt;strong&gt;We’re always here to keep you informed, and we’re always going to be a step ahead.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;That’s why we are excited to announce a merger with another great team who takes the same level of pride in the service they provide, Ursula &amp;amp; Associates. With more people, more systems, and more resources, &lt;strong&gt;we are going to put together an even better client experience than we were offering on our own.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=A different name and even better service is coming.%20http://wilsonrealty.group/were-teaming-up-with-ursula-associates.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“A different name and even better service is coming.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Moving forward, you will see a lot of our branding change from Wilson Realty Group to Ursula &amp;amp; Associates. I wanted to send this out to you and give you a quick primer on what to expect. Basically, a different name and better service. It’s a win-win for all of us.&lt;/p&gt;
+
+&lt;p&gt;I hope you’re having a great summer. If you have any questions for me or need any help buying or selling a home, give me a call or send me an email. I look forward to hearing from you.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 10 Jul 2017 10:03:00 -0500</pubDate>
+        <link>http://wilsonrealty.group/were-teaming-up-with-ursula-associates.html</link>
+        <guid isPermaLink="true">http://wilsonrealty.group/were-teaming-up-with-ursula-associates.html</guid>
+        
         <category>Real Estate</category>
         
-        <category>Buyer Tips</category>
+        
+      </item>
+    
+      <item>
+        <title>Which Loan Product Is Best for You?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/0yYNBTUhN1s?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;What type of loan are you going to use to purchase a home? Different loan products come with different benefits, so today, I’ll go over a few different options: FHA, VA, USDA, and conventional loans.&lt;/p&gt;
+
+&lt;p&gt;Of course, the loan that you go with depends on your individual situation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Two common loan options are conventional and FHA loans.&lt;/strong&gt; Conventional loans require 3% down and FHA requires 3.5% down. So, the conventional loan does have a slightly lower down payment. However, in order to qualify for the 3% down conventional loan, one of the parties involved in the transaction has to be a first-time homebuyer. Otherwise, you will have to go with a 5% down conventional loan.&lt;/p&gt;
+
+&lt;p&gt;With FHA, it doesn’t matter if you are a first-time homebuyer or not. You just have to purchase an owner-occupied home. In other words, you have to plan on living in the property; you cannot use an FHA loan for an investment property.&lt;/p&gt;
+
+&lt;p&gt;How do you know if you should use an FHA loan or a conventional loan? &lt;strong&gt;There are a few limiting factors to consider.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;For example, if you get your income from a regular job and you do some additional work on the side, that side work might not be usable when your lender determines your debt-to-income ratio. For conventional loans, your debt-to-income ratio needs to be between 43% and 45% to qualify. For an FHA loan, you can have a 50% to 55% debt-to-income ratio.&lt;/p&gt;
+
+&lt;p&gt;In other words, if you want to buy a particular home and you are a first-time homebuyer, you might be able to go with the 3% conventional loan and afford a $200,000 house. If the house you’re looking at is $225,000, you might decide to go with the FHA loan because you can get the property with a higher debt-to-income ratio.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=If you have a higher debt-to-income ratio, you may want to go with an FHA loan.%20http://wilsonrealty.group/which-loan-product-is-best-for-you.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“If you have a higher debt-to-income ratio, you may want to go with an FHA loan.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;You should also know that FHA loans come with mortgage insurance premiums that you have to pay for the life of the loan. Private mortgage insurance premiums also come with conventional loans, but you don’t have to pay them once you pay the house down to approximately 79% of loan to value.&lt;/p&gt;
+
+&lt;p&gt;If your debt-to-income ratio is low enough, I would recommend going with the conventional loan. If it’s not, then FHA might be the way you want to go.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;There are a few other loan options available to homebuyers.&lt;/strong&gt; For instance, the VA loan is available to veterans who have an eligibility certificate form from the VA. This loan allows those who have served our country to buy a home with no money down.&lt;/p&gt;
+
+&lt;p&gt;The USDA loan is another loan product that does not require a down payment. However, that loan has more to do with where the house is located, as you cannot get a USDA loan in certain areas. If you are interested in this type of loan, you need to make sure that it is within the USDA footprint, which are in more rural areas.&lt;/p&gt;
+
+&lt;p&gt;Like conventional loans, the USDA loan also operates with a lower debt-to-income ratio, which means that you cannot get a USDA loan with a debt-to-income ratio of 55%.&lt;/p&gt;
+
+&lt;p&gt;If you have any other questions about these loan programs or you would like to learn more about buying a home, give me a call or send me an email. I would be happy to help you!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 05 Jun 2017 07:55:00 -0500</pubDate>
+        <link>http://wilsonrealty.group/which-loan-product-is-best-for-you.html</link>
+        <guid isPermaLink="true">http://wilsonrealty.group/which-loan-product-is-best-for-you.html</guid>
+        
+        <category>Home Buyer Tips</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>How to Price Your Home When You Sell</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/HKEeNEh8htM?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;When the time comes to sell your house, pricing it is one of the most important factors.&lt;/p&gt;
+
+&lt;p&gt;You have to start by determining what it’s worth, which is a process that has many factors of its own. Many people are emotionally attached to their house, but the bottom line to remember is that numbers are unemotional and they don’t lie. When evaluating a property, we’ll consider:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. The neighborhood:&lt;/strong&gt; If possible, we only want to compare the house to properties in the same neighborhood. If you deviate from the area, you want to go no further than a mile out if possible. For rural properties, you might have to go as far as five miles out. For homes in a subdivision though, you want to look at similar homes. Some subdivisions might only have four or five specific models of home. You’ll look for comparable properties that have sold in the last 90 days if possible. If not, the last six months. You can go back as far as a year in an up market like we’re in here in Woodstock. If you can’t find a similar model that has recently sold, you’ll look at properties with similar square footage, similar features, and similar age.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Price per square foot:&lt;/strong&gt; This is my least favorite, but it’s the confirming number. Once we establish a property’s value based on similar features and age in the same subdivision, we’ll go to dollar per square foot. The smaller the house, the more you’ll get per square foot, and vice versa (especially for houses with a finished basement). We use this method to confirm the price in the absence of a directly comparable property. We’ll use this in addition to making adjustments for condition, features, and upgrades to dial in the price as accurately as possible.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Numbers are unemotional and they don't lie.%20http://wilsonrealty.group/how-to-price-your-home-when-you-sell.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Numbers are unemotional and they don’t lie.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;These processes all aim to bring you the most money possible when selling your home. If you have any questions or you’d like to know what your home could sell for in the current market, give me a call or send me an email. I’d be happy to help.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 23 May 2017 11:22:00 -0500</pubDate>
+        <link>http://wilsonrealty.group/how-to-price-your-home-when-you-sell.html</link>
+        <guid isPermaLink="true">http://wilsonrealty.group/how-to-price-your-home-when-you-sell.html</guid>
         
         <category>Home Seller Tips</category>
         
@@ -41,46 +163,90 @@
       </item>
     
       <item>
-        <title>this is a test</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SFFy_drFrZs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>Be Careful When Making Upgrades Before Selling Your Home</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7GpEX7Idqug?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps &lt;strong&gt;gastropub marfa r&lt;/strong&gt;etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.&lt;/p&gt;
+&lt;p&gt;Today I’m answering a question about home renovations, specifically the appropriate renovations to make while getting your home ready for the market.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Bushwick&lt;/em&gt; &lt;a href=&quot;'http://google.com'&quot;&gt;marfa&lt;/a&gt; wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This is a very loaded question, one we could probably do a three-hour class on.&lt;/strong&gt; However, the short answer is that it depends. First, it depends on your area. We want to step outside of your home and take a look at the surrounding area. We will compare your home to the other properties nearby to see what features they have.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;You don’t want to fall into the trap of over improving. Any fix will increase a home’s value, but &lt;strong&gt;it doesn’t mean that every repair will get you a dollar for dollar return.&lt;/strong&gt; If you see eight out of the 10 homes for sale around you have brand new shingled roofs and yours is outdated, you probably should invest in a new roof. Conversely, if only one home in the area has a new roof, you are probably better off not replacing it. However, each individual case is different.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;&lt;br /&gt;When it comes to simple fixes, I always recommend painting the house and replacing any worn out carpets. Landscaping is another cheap, easy fix that gives you curb appeal and draws buyers to your home.&lt;/p&gt;
 
-&lt;p&gt;Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Simple fixes like paint and flooring are always recommended.%20http://wilsonrealty.group/be-careful-when-making-upgrades-before-selling-your-home.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Simple fixes like paint and flooring are always recommended.”&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This is an example of a pull quote%20localhost:4000/a-fox-in-space.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This is an example of a pull quote”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;As far as other things you can do in the house, it depends on what’s going on in your area. If the homes that are selling around you all have a specific feature, it’s practically a must-have. &lt;strong&gt;In the end, you have to weigh the cost of making repairs versus the return you’ll get when you sell the house.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.&lt;/p&gt;
+&lt;p&gt;You might put $30,000 into repairs, but only get $25,000 back on the sale of your home. Instead of having a net loss of $5,000, it might be more beneficial for you to take a lower price in order to increase your profit and get the most value out of your sale.&lt;/p&gt;
 
-&lt;p&gt;Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;I hope this answers any questions you have about making improvements before selling. If you have any other questions, don’t hesitate to give us a call or send us an email. We would love to hear from you soon!&lt;/p&gt;
 </description>
-        <pubDate>Wed, 28 Sep 2016 00:00:00 -0500</pubDate>
-        <link>localhost:4000/a-fox-in-space.html</link>
-        <guid isPermaLink="true">localhost:4000/a-fox-in-space.html</guid>
+        <pubDate>Fri, 28 Apr 2017 06:38:00 -0500</pubDate>
+        <link>http://wilsonrealty.group/be-careful-when-making-upgrades-before-selling-your-home.html</link>
+        <guid isPermaLink="true">http://wilsonrealty.group/be-careful-when-making-upgrades-before-selling-your-home.html</guid>
         
-        <category>Market Update</category>
+        <category>Home Seller Tips</category>
         
-        <category>Real Estate</category>
         
-        <category>Buyer Tips</category>
+      </item>
+    
+      <item>
+        <title>Should Your Next Home Be a Resale Purchase or a New Build?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/pNoWMzMQgSQ?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;I recently received a question from one of my viewers named Dan. Dan and his wife bought a home in 2013, but now they want to live on a more private piece of property that will age with them.&lt;/p&gt;
+
+&lt;p&gt;Since it’s difficult for them to find a home that meets all of their must-haves and is located on private property in their area, he’s wondering if they should buy land themselves and build a new construction home or wait for the right home to come onto the market. If he did buy land and build, how would the financing work?&lt;/p&gt;
+
+&lt;p&gt;For Dan and anyone else facing this situation, the answer comes down to whether you want the perfect home or the ideal value.&lt;/p&gt;
+
+&lt;p&gt;Whenever I ask homebuyers whether they want to look for the deal or pay retail, they usually want to purchase the home that is the deal. However, some people prefer homes that are cheap and they can fix up. They’re also willing to compromise on things like privacy, layout, square footage, and other things of that nature.&lt;/p&gt;
+
+&lt;p&gt;To know what’s best for you, we have to examine this from a couple different angles.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If this next house is something you want to age with you and you never want to buy another house, then building is the best choice.&lt;/strong&gt; That way, you can lay it out however you want with the exact square footage you prefer and features you desire.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Do you want the perfect home or the ideal value?%20http://wilsonrealty.group/should-your-next-home-be-a-resale-purchase-or-a-new-build.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Do you want the perfect home or the ideal value?”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;There are a couple of limitations with this option, though. One of which is there is only so much land out there to buy. Most of the land in this area is going to be more rural, so you should be able to find some lots that are slightly larger and can satisfy your need for more privacy.&lt;/p&gt;
+
+&lt;p&gt;You also have to obtain a construction loan, and they can be a little bit of a nightmare. There are very specific types of loans where they do draws so the builder can afford to put up certain sections. They then pay against that draw and eventually convert it into a singular mortgage. There are fewer options for that kind of loan out there right now, but it still can be done.&lt;/p&gt;
+
+&lt;p&gt;On the other side, is it a better dollar value to buy a property that already exists? &lt;strong&gt;From a dollar-to-dollar value, resale is definitely a better choice.&lt;/strong&gt; However, you have to sacrifice certain things when buying a resale property. This is because if you didn’t design it, it will be less likely to feature all of your must-haves.&lt;/p&gt;
+
+&lt;p&gt;At the end of the day, you simply must ask yourself if this next house will be the one you grow old in. If so, look for some land that meets all of your must-haves as far as scenery and location. After that, we can recommend some builders who can get you the custom home that fits your needs.&lt;/p&gt;
+
+&lt;p&gt;If you have any other questions, please don’t hesitate to reach out to us. We would be happy to help you!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 13 Apr 2017 09:39:00 -0500</pubDate>
+        <link>http://wilsonrealty.group/should-your-next-home-be-a-resale-purchase-or-a-new-build.html</link>
+        <guid isPermaLink="true">http://wilsonrealty.group/should-your-next-home-be-a-resale-purchase-or-a-new-build.html</guid>
+        
+        <category>Home Buyer Tips</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>3 Tips to Increase Your Home’s Value</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/XHO8mMnIoPw?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;If you are planning on selling your home, here are a few simple, inexpensive things that will help you increase your home’s value:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Declutter your home.&lt;/strong&gt;This is a low or no cost task that helps you make money. When staging your house for the market, remember, less is more. The bigger your home feels, the better. Make sure the countertops are clear. If you aren’t sure whether something should stay or go, you can always call us for help. In most cases, if you’re uncertain about a piece of furniture, it should probably go. Yard sales are a great way to get rid of things that you don’t need anymore. Not only is decluttering very profitable, it’s also very freeing.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=When staging your house, remember, less is more.%20http://wilsonrealty.group/3-tips-to-increase-your-homes-value.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“When staging your house, remember, less is more.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Paint your house.&lt;/strong&gt;You may need to paint the entire house, but simply painting all of the trim will go a long way. People tend to invent what they don’t know about a house, so if they see scuffed-up baseboards, they will think that the house hasn’t been taken care of. Take care of scuff marks by painting over them and then blending them up so that the fresh paint doesn’t stand out on your walls. Painting the trim provides clean lines. You should also do some touch-ups if there are marks on your walls.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Clean up the yard.&lt;/strong&gt; Curb appeal is a big deal because people drive through neighborhoods and look at homes before they call their Realtor. You want those people to make that phone call because they are interested in your home. Take care of some of the less expensive landscaping, like adding fresh mulch, trimming hedges, and edging the lawn. You can even pressure wash the outside of your house to make the exterior paint look nice and fresh. Just make sure your home looks clean and crisp on the outside.&lt;/p&gt;
+
+&lt;p&gt;These inexpensive tasks are easy ways to add value to your home before putting it on the market. If you have any other questions about the spring market or about real estate in general, give me a call or send me an email. I would be happy to help you!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 14 Mar 2017 05:25:00 -0500</pubDate>
+        <link>http://wilsonrealty.group/3-tips-to-increase-your-homes-value.html</link>
+        <guid isPermaLink="true">http://wilsonrealty.group/3-tips-to-increase-your-homes-value.html</guid>
         
         <category>Home Seller Tips</category>
         
