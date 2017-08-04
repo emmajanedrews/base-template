@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you don’t know whether you’re eligible for refinancing, now is the time to
   find out.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Scott+Irvin/+Videos/Greater+Philadelphia+Real+Estate-+Are+You+Eligible+for+Refinancing%253F.mp4
 pullquote: >-
   About $1 billion in total savings have been left on the table that homeowners
   aren’t taking advantage of.
