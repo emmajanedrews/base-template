@@ -1,11 +1,14 @@
 ---
 layout: post
-title: '5 Costly First-Time Homebuyer Mistakes & How to Avoid Them'
+title: 5 Costly First-Time Homebuyer Mistakes & How to Avoid Them
 date: 2017-07-31 13:47:00
 tags:
   - Home Buyer Tips
-excerpt: 'There are five common, costly mistakes that first-time homebuyers make. I’ll share how to avoid them today'
-enclosure:
+excerpt: >-
+  There are five common, costly mistakes that first-time homebuyers make. I’ll
+  share how to avoid them today
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Dave+Heeter/Southern+New+Hampshire+Real+Estate+Agent-+5+Costly+Mistakes+to+Avoid.mp4
 pullquote: Make sure you get pre-qualified before you start looking at homes.
 enclosure_type: video/mp4
 enclosure_time:
