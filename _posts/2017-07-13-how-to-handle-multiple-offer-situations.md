@@ -4,7 +4,9 @@ title: How to Handle Multiple-Offer Situations
 date: 2017-07-13 16:21:26
 tags:
   - Home Seller Tips
-excerpt: What happens when you’re presented with multiple offers on your home? Today I want to walk you through the process.
+excerpt: >-
+  What happens when you’re presented with multiple offers on your home? Today I
+  want to walk you through the process.
 enclosure:
 pullquote: The highest offer isn’t necessarily the best offer.
 enclosure_type: video/mp4
@@ -29,8 +31,8 @@ When we have a deadline for these offers to come in and they are received, I wil
 
 The highest offer isn’t necessarily the best offer—it’s more about the bottom line and how much the seller can net for their property. It also needs to fall within the range of value that I have determined for the property. A price higher than the appraised value of the home can cause problems.
 
-Is a cash offer better than a financed offer? The cash offer is better if you have a big earnest money check. The buyer can talk a walk through the property on the day of closing and drop the deal. If the check is small, then they don’t lose a lot of money by walking away.
+Is a cash offer better than a financed offer? The cash offer is better if you have a big earnest money check. The buyer can take a walk through the property on the day of closing and drop the deal. If the check is small, then they don’t lose a lot of money by walking away.
 
-How can you as a qualified professional help the seller find the right offer? Before you even take a listing, you should know what the seller needs. **Those needs should be realistic.**They need a certain bottom line, closing date, and make sure that they have a qualified buyer. Knowing this information will help you find the right offer for your client.
+How can you as a qualified professional help the seller find the right offer? Before you even take a listing, you should know what the seller needs. **Those needs should be realistic.&nbsp;**They need a certain bottom line, closing date, and make sure that they have a qualified buyer. Knowing this information will help you find the right offer for your client.
 
 If you have any other questions about this topic or you’re looking to buy or sell a home, give me a call. I’d be happy to help.
