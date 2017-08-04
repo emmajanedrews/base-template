@@ -3,8 +3,11 @@ layout: post
 title: What Positions Do We Typically Work On?
 tags:
   - Building Products
-excerpt: Today I wanted to talk about the types of positions we’re looking to place right now.
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Govig/Building+Products/Videos/2017/What+Positions+Do+We+Typically+Work+On%253F.mp4'
+excerpt: >-
+  Today I wanted to talk about the types of positions we’re looking to place
+  right now.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Govig/Building+Products/Videos/2017/What+Positions+Do+We+Typically+Work+On%253F.mp4
 pullquote: We place many types of roles.
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,11 +19,11 @@ youtube_code: EvK-dv0BuTo
 
 {% include youtube.html %}
 
-What types of positions are we seeing being implemented back into the marketplace today, and what types of positions do typically work on?
+What types of positions are we seeing being implemented back into the marketplace today, and what types of positions do we typically work on?
 
 When the market turned, we began to see organizations start to downsize or rightsize. **Currently, they are feeling very optimistic that the market is heading back in the right direction,** so we’re seeing more opportunity in individual roles in sales and product development.
 
-Companies are realizing that their employees were spread way too thin during the economic downturn, especially salespeople. They were able to be value-added employees in the marketplace because they were spread just way too thin.
+Companies are realizing that their employees were spread way too thin during the economic downturn, especially salespeople. They weren't able to be value-added employees in the marketplace because they were spread just way too thin.
 
 {% include pullquote.html %}
 
