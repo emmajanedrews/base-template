@@ -1,34 +1,26 @@
 ---
 youtube_code: E1jh3BrmGeA
 excerpt:
-enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Real+Estate+Agents-+Meet+listing+partner+specialist+Benjy.mp4
-pullquote: 'AS A TEAM, WE REMAIN A STEP ABOVE THE REST.'
+enclosure: https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Real+Estate+Agents-+Meet+listing+partner+specialist+Benjy.mp4
+pullquote: AS A TEAM, WE REMAIN A STEP ABOVE THE REST.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
-title: 'Meet Benjy Gilholm, Our Listing Partner Specialist'
-date: 2017-06-27 14:41:00
+title: Meet Benjy Gilholm, Our Listing Partner Specialist
+date: '2017-06-27T07:41:00.000-07:00'
 author: Vyral Admin
 tags:
-modified_time:
-thumbnail: 'https://img.youtube.com/vi/E1jh3BrmGeA/default.jpg'
-blogger_id: 'tag:blogger.com,1999:blog-1503358679504459581.post-3345032063102488357'
-blogger_orig_url: >-
-  http://www.realestatecareerhawaii.com/2017/06/meet-benjy-gilholm-our-listing-partner.html
+- Word Of Mouse Team Lally
+modified_time: '2017-06-28T07:41:18.625-07:00'
+thumbnail: https://img.youtube.com/vi/E1jh3BrmGeA/default.jpg
+blogger_id: tag:blogger.com,1999:blog-1503358679504459581.post-3345032063102488357
+blogger_orig_url: http://www.realestatecareerhawaii.com/2017/06/meet-benjy-gilholm-our-listing-partner.html
 ---
-
-
 {% include youtube.html %}
 *Meet Benjy—a listing partner specialist at Team Lally. Through a combination of teamwork and working closely with clients, Team Lally remains a step above the rest.*
 
-<<<<<<< HEAD:_posts/2017-06-27-meet-benjy-gilholm-our-listing-partner.md
-=======
-[Check Out Our Career Opportunities](https://www.teamlally.com/open-positions.php)
-
->>>>>>> 89c23df23187045b6c7e3068991e6f101ea04b69:_posts/2017-06-27-meet-benjy-gilholm-our-listing-partner-specialist.md
 At Team Lally, we have a unique and collaborative approach to real estate—which is one of the main reasons why Benjy Gilholm is so excited to be working as a part of it.
 
 This hands-on, team-oriented way of thinking benefits not only us but also our clients. **Through a combination of teamwork and maintaining continuous contact with our clients, we are able to get the most out of what we do for you.**
