@@ -26,9 +26,9 @@ A recent study found that **4.5 million homeowners are still eligible to refinan
 
 With that amount of homeowners, they’ve estimated that about $1 billion in total savings have been left on the table that homeowners aren’t taking advantage of.
 <br>
-<br>Many homeowners are saying the reason they haven’t is because they’re not sure if the value of their home would support a refinance.
+<br>Many homeowners are saying the reason they haven’t is that they’re not sure if the value of their home would support a refinance.
 
-This is certainly something to look into. Though, **the average homeowner does save about $260 a month when they refinance.**
+This is certainly something to look into. **The average homeowner does save about $260 a month when they refinance.**
 
 {% include pullquote.html %}
 
@@ -38,4 +38,4 @@ Mortgage rates are currently hovering around 4% or slightly less, and homes have
 
 We at Scott Irvin & Associates would be glad to help by giving you an analysis of your home to determine value.
 
-If you have any other questions or would like more information, feel free to give us a call or send an email. We look forward to hearing from you, soon.
+If you have any other questions or would like more information, feel free to give us a call or send an email. We look forward to hearing from you soon.
