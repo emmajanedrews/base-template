@@ -1,11 +1,8 @@
 ---
 youtube_code: 8-86eYOstng
 excerpt:
-enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Real+Estate+Agents-+Get+to+know+another+member+of+Team+Lally.mp4
-pullquote: >-
-  HER FAVORITE PART OF THE JOB IS THE COLLABORATION EVERYONE BRINGS TO THE
-  TABLE.
+enclosure:https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Real+Estate+Agents-+Get+to+know+another+member+of+Team+Lally.mp4
+pullquote: HER FAVORITE PART OF THE JOB IS THE COLLABORATION EVERYONE BRINGS TO THE TABLE.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -18,24 +15,16 @@ tags:
 modified_time:
 thumbnail: 'https://img.youtube.com/vi/8-86eYOstng/default.jpg'
 blogger_id: 'tag:blogger.com,1999:blog-1503358679504459581.post-5330705151700873491'
-blogger_orig_url: >-
-  http://www.realestatecareerhawaii.com/2017/04/how-miranda-helps-your-real-estate.html
+blogger_orig_url: http://www.realestatecareerhawaii.com/2017/04/how-miranda-helps-your-real-estate.html
 ---
 
 
 {% include youtube.html %}
-*Today we'd like you to meet Miranda, one of our inside sales agents. Her job is to guide buyers and listing agents to any resources or information they need.*
+*Today we wanted to introduce you to Miranda Haws, one of our beloved inside sales agents here at Team Lally.*
 
-<<<<<<< HEAD:_posts/2017-04-05-how-miranda-helps-your-real-estate.md
-=======
-[Check Out Our Career Opportunities](https://www.teamlally.com/open-positions.php)
+Miranda heard about Team Lally from the radio and also by seeing our yard signs throughout the community. She was motivated to join us after hearing about our success as the No. 1 team in Hawaii. 
 
->>>>>>> 89c23df23187045b6c7e3068991e6f101ea04b69:_posts/2017-04-05-how-miranda-helps-your-real-estate-transaction-run-smoothly.md
-Today we wanted to introduce you to Miranda Haws, one of our beloved inside sales agents here at Team Lally.
-
-Miranda heard about Team Lally from the radio and also by seeing our yard signs throughout the community. She was motivated to join us after hearing about our success as the No. 1 team in Hawaii.
-
-"I had to come and see what all the rave was about," she says. "It turned out that Adrienne and Attilio are just really down-to-earth people. **They care about the team and they care about their business."**
+"I had to come and see what all the rave was about," she says. "It turned out that Adrienne and Attilio are just really down-to-earth people. They care about the team and they care about their business."
 
 {% include pullquote.html %}
 
