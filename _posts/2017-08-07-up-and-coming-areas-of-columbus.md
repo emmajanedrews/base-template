@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Up and Coming Areas of Columbus
+title: Up-and-Coming Areas of Columbus
 date: 2017-08-07 12:00:00
 tags:
   - Real Estate
