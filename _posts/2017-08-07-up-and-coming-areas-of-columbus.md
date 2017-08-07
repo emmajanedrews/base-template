@@ -12,8 +12,8 @@ enclosure: >-
 pullquote: 'You can find great, affordable homes in these areas.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/RobEllis_ScreenShot_Email-NewScenesInColumbus.jpg
 youtube_code: eb5MbLA-WXo
 ---
 
@@ -31,4 +31,4 @@ There are a lot of up and coming areas here in Columbus, but we wanted to focus 
 **3. Olde Towne east.** This historic neighborhood is just east of downtown Columbus. Some of the oldest and largest homes in town were built here in the late 19th century.
 
 If you have any questions about any of these neighborhoods or you’re curious about what kinds of homes are for sale here, give us a call or send us an email. We would love to hear from you soon.
-<br>&nbsp;
+<br>
