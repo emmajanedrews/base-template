@@ -1,8 +1,7 @@
 ---
 youtube_code: JcohR1oP1ng
 excerpt:
-enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Real+Estate+Agents-+Career+Visioning.mp4
+enclosure: https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Real+Estate+Agents-+Career+Visioning.mp4
 pullquote: A bad hire could end up costing you hundreds of thousands of dollars.
 enclosure_type: video/mp4
 enclosure_time:
