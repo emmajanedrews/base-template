@@ -1,7 +1,7 @@
 ---
 youtube_code: Fb7pt3hLWaM
 excerpt:
-enclosure:
+enclosure: https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Real+Estate+Agents-+Kapolei+Mastermind+Key+to+Success+-+Last+Friday+Of+Every+Month.mp4
 pullquote: THESE SECRETS HELPED US GENERATE OVER $82 MILLION IN SALES LAST YEAR.
 enclosure_type: video/mp4
 enclosure_time:
