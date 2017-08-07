@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Positions Do We Typically Work On?
+title: What Type Of Positions Are Currently In the Marketplace?
 tags:
   - Building Products
 excerpt: >-
