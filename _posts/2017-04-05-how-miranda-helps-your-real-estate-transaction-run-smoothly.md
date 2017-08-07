@@ -1,7 +1,7 @@
 ---
 youtube_code: 8-86eYOstng
 excerpt:
-enclosure:https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Real+Estate+Agents-+Get+to+know+another+member+of+Team+Lally.mp4
+enclosure: https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Real+Estate+Agents-+Get+to+know+another+member+of+Team+Lally.mp4
 pullquote: HER FAVORITE PART OF THE JOB IS THE COLLABORATION EVERYONE BRINGS TO THE TABLE.
 enclosure_type: video/mp4
 enclosure_time:
@@ -22,7 +22,7 @@ blogger_orig_url: http://www.realestatecareerhawaii.com/2017/04/how-miranda-help
 {% include youtube.html %}
 *Today we wanted to introduce you to Miranda Haws, one of our beloved inside sales agents here at Team Lally.*
 
-Miranda heard about Team Lally from the radio and also by seeing our yard signs throughout the community. She was motivated to join us after hearing about our success as the No. 1 team in Hawaii. 
+Miranda heard about Team Lally from the radio and also by seeing our yard signs throughout the community. She was motivated to join us after hearing about our success as the No. 1 team in Hawaii.
 
 "I had to come and see what all the rave was about," she says. "It turned out that Adrienne and Attilio are just really down-to-earth people. They care about the team and they care about their business."
 

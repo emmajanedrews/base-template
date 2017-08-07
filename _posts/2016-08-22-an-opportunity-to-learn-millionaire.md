@@ -23,7 +23,7 @@ If you’ve never heard of the millionaire mindset, now’s the time to learn.
 
 One of the key aspects of the millionaire mindset is having a strategic game plan that will smooth out the ups and downs of each economic swing. That being said, we want to personally invite you to a class that will teach you about growth, mastering the millionaire mindset, and negotiating real estate shifts. **At this class, you will learn about five specific things you can do now to maintain a profitable business in a down cycle.**
 
-![](/img/001.jpg)
+![](/img/001.jpg){: .image-center}
 
 {% include pullquote.html %}
 
