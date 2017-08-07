@@ -27,7 +27,7 @@ CTAs:
   first_CTA_URL: https://www.teamlally.com/careers.php
   # second_CTA_text: Apply
   # second_CTA_URL: /apply/
-  VR_form:
+  VR_form: "http://oi.vresp.com?fid=51fb012705"
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/006.jpg
