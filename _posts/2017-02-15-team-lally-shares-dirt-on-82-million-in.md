@@ -19,11 +19,7 @@ blogger_id: tag:blogger.com,1999:blog-1503358679504459581.post-76814843497987250
 blogger_orig_url: http://www.realestatecareerhawaii.com/2017/02/team-lally-shares-dirt-on-82-million-in.html
 ---
 {% include youtube.html %}
-
 *We want to give you a peek behind the curtain into what a true real estate career looks like with a career night. Here’s how you can join us.*
-
-<a href="https://www.teamlally.com/open-positions.php">Check Out Our Career Opportunities</a>
-<a href="https://www.teamlally.com/career-night.php">RSVP for Our Career Night</a>
 
 Today we want to talk to you about a career in real estate.
 

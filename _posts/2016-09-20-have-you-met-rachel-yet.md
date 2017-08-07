@@ -19,11 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-1503358679504459581.post-64440272793878269
 blogger_orig_url: http://www.realestatecareerhawaii.com/2016/09/have-you-met-rachel-yet.html
 ---
 {% include youtube.html %}
-
-*Buying a home? <a href="http://www.besthawaiirealestatesearch.com/results-gallery/?width=200&utm_source=QUICKSEARCH&utm_campaign=OtherWebsite&utm_medium=referral">Click here to perform a full home search</a>
-Selling a home? <a href="http://hawaii.guaranteedsale.com/">Click here for a FREE Home Price Evaluation</a>
-Call us at (808) 426-7211 for a FREE home buying or selling consultation*
-
 **BIO:** Born and raised on the Island of Oahu, Rachel grew up on the Windward Side and attended James B. Castle High School. She graduated in 2011 in Kaneohe. Rachel is of full Filipino ancestry, a former Miss Oahu Junior Teen 2008, and Miss Hawaii Teen United States 2009. She competed and placed in the top 10 of the Miss Teen United States Scholarship Pageant and hosted "Brown Bags to Stardom" on OC 16, a local TV show supporting Hawaii's musically talented and well-rounded students. After graduating, Rachel attended Hawaii Pacific University on a full ride scholarship to pursue a degree in Business Management. She currently resides in Kapolei with her new, growing family.
 
 {% include pullquote.html %}

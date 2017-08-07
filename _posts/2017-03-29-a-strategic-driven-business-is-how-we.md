@@ -19,12 +19,7 @@ blogger_id: tag:blogger.com,1999:blog-1503358679504459581.post-87853493921235692
 blogger_orig_url: http://www.realestatecareerhawaii.com/2017/03/a-strategic-driven-business-is-how-we.html
 ---
 {% include youtube.html %}
-
 *Have you thought about starting a career in real estate? Here’s how to approach it to set yourself up for a prosperous career.*
-
-<a href="https://www.teamlally.com/open-positions.php">Check Out Our Career Opportunities</a>
-<a href="https://www.teamlally.com/career-night.php">Click Here for Our Career Night Schedule</a>
-
 
 Today we want to talk for a minute about a career in real estate.
 

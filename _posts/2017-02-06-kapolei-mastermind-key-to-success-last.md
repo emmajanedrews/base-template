@@ -19,10 +19,7 @@ blogger_id: tag:blogger.com,1999:blog-1503358679504459581.post-51571906181179197
 blogger_orig_url: http://www.realestatecareerhawaii.com/2017/02/kapolei-mastermind-key-to-success-last.html
 ---
 {% include youtube.html %}
-
 *The power of the mastermind is undeniable. We’d love for you to join us on the last Friday of the month for one.*
-
-<a href="https://www.teamlally.com/open-positions.php">Check Out Our Career Opportunities</a>
 
 Today we want to talk about the power of the mastermind.
 

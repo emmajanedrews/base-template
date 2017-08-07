@@ -19,10 +19,7 @@ blogger_id: tag:blogger.com,1999:blog-1503358679504459581.post-53307051517008734
 blogger_orig_url: http://www.realestatecareerhawaii.com/2017/04/how-miranda-helps-your-real-estate.html
 ---
 {% include youtube.html %}
-
 *Today we'd like you to meet Miranda, one of our inside sales agents. Her job is to guide buyers and listing agents to any resources or information they need.*
-
-<a href="https://www.teamlally.com/open-positions.php">Check Out Our Career Opportunities</a>
 
 Today we wanted to introduce you to Miranda Haws, one of our beloved inside sales agents here at Team Lally.
 

@@ -10,11 +10,11 @@ client:
   name: Adrienne Lally & Attilio Leonardi
   license_number: '#RB - 21303'
   about_markdown: |
-    Team Lally is currently ranked in the Top 5 Real Estate Team in the State of Hawaii for Sales & Volume! Adrienne Lally, President of Team Lally has been awarded 7-time consecutive years place in Hawaii Business Top 100 Realtors in Hawaii. The awards include one of the top ranked teams in all production categories including homes sold, Gross Commission Income and number of listings taken and sold. We have completed over 300 plus short sales giving us a depth of knowledge regarding the largest Residential Correction since the The Great Depression.  We have been in Hawaii Business Magazine's  - Top 100 Realtors for the last 7 years.  We have led our team in selling over 100+ homes per year in Hawaii for multiple years. In 2016 we closed out the year with 171 closed transactions and 82 million in sales.
+    Team Lally is currently ranked in the Top 5 Real Estate Team in the State of Hawaii for Sales & Volume! Adrienne Lally, President of Team Lally has been awarded 7-time consecutive years place in Hawaii Business Top 100 Realtors in Hawaii. We have led our team in selling over 100+ homes per year in Hawaii for multiple years. In 2016 we closed out the year with 171 closed transactions and 82 million in sales.
   market: Honolulu
   brand: Team Lally
   brokerage: Keller Williams Honolulu
-  address: '1001 Kamokila Blvd #106 <br> Kapolei HI 96707'
+  address: '1001 Kamokila Blvd #106 <br> Kapolei, HI 96707'
   phone: 808-426-7211
   phone_type:
   phone2:
@@ -85,6 +85,7 @@ podcast:
 
 images:
   client_headshot_path: /img/headshot.jpg
+  client_headshot2_path: /img/headshot2.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 80
   hero_text: Real Estate Careers and Training Video Blog

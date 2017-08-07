@@ -19,10 +19,7 @@ blogger_id: tag:blogger.com,1999:blog-1503358679504459581.post-27368051890438395
 blogger_orig_url: http://www.realestatecareerhawaii.com/2016/11/meet-tina-funk-buyer-specialist-on-team.html
 ---
 {% include youtube.html %}
-
 *Tina Funk is one of our great buyer specialists. She is here today to talk about what attracted her to our team and why she enjoys working with us.*
-
-<a href="https://www.teamlally.com/open-positions.php">Check Out Our Career Opportunities</a>
 
 We are back to introduce yet another great member of Team Lally. Tina Funk heard about us from another agent in Honolulu that thought she would be a great fit with us. She came out and met with us and left very impressed about how much we care about our clients and how we treat our agents.
 

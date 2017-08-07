@@ -18,11 +18,7 @@ blogger_id: tag:blogger.com,1999:blog-1503358679504459581.post-25105302818674048
 blogger_orig_url: http://www.realestatecareerhawaii.com/2016/11/have-you-met-kelii-lum.html
 ---
 {% include youtube.html %}
-
 *Keli’i Lum is a buyer specialist here at Team Lally. What he enjoys most about working with us is the atmosphere and support we provide.*
-
-<a href="https://www.teamlally.com/open-positions.php">Check Out Our Career Opportunities</a>
-
 
 Today, we wanted you to get to know a little bit about Keli’i Lum.
 

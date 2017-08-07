@@ -2,7 +2,7 @@
 youtube_code: pe7TNfPoWr4
 excerpt:
 enclosure:
-pullquote: There are two types of people in this world: givers and takers.
+pullquote: 'There are two types of people in this world: givers and takers.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -20,10 +20,6 @@ blogger_orig_url: http://www.realestatecareerhawaii.com/2016/10/expansion-partne
 ---
 {% include youtube.html %}
 *We want to invite you to sit down and have a talk with us so we can help you grow your business.*
-
-Buying a home? <a href="http://www.besthawaiirealestatesearch.com/results-gallery/?width=200&utm_source=QUICKSEARCH&utm_campaign=OtherWebsite&utm_medium=referral">Click here to perform a full home search</a>
-Selling a home? <a href="http://hawaii.guaranteedsale.com/">Click here for a FREE Home Price Evaluation</a>
-Call us at (808) 426-7211 for a FREE home buying or selling consultation
 
 We would like to thank you for a great transaction. We know that good agents make for great transactions, and as a thank you, we would like to invite you for a cup of coffee or for lunch. Don’t have the time for either? Well, how about a 15-minute conversation on the phone?
 

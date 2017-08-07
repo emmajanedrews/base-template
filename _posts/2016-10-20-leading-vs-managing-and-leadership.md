@@ -19,13 +19,9 @@ blogger_id: tag:blogger.com,1999:blog-1503358679504459581.post-45146531965509066
 blogger_orig_url: http://www.realestatecareerhawaii.com/2016/10/leading-vs-managing-and-leadership.html
 ---
 {% include youtube.html %}
-
 *What does it take to be a leader instead of a manager?
 
 You can start by asking questions instead of giving answers.*
-
-<a href="http://808.guaranteedsale.com/">Want to sell your Hawaii Area Home? Get a home value report</a>
-<a href="http://www.besthawaiirealestatesearch.com/">Want to buy a Hawaii area home? Search all homes for sale</a>
 
 Today we wanted to give you some helpful information on how to be a leader.
 

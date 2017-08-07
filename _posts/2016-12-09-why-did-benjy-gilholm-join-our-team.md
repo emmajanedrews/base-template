@@ -19,12 +19,8 @@ blogger_id: tag:blogger.com,1999:blog-1503358679504459581.post-91587153969037766
 blogger_orig_url: http://www.realestatecareerhawaii.com/2016/12/why-did-benjy-gilholm-join-our-team.html
 ---
 {% include youtube.html %}
-
 *Benjy Gilholm is a great listing partner on our team.
 Hear from the man himself about how he came to join our team.*
-
-<a href="http://808.guaranteedsale.com/">Want to sell your Hawaii Area Home? Get a home value report</a>
-<a href="http://www.besthawaiirealestatesearch.com/">Want to buy a Hawaii area home? Search all homes for sale</a>
 
 We are excited to introduce another great member of our team. Benjy Gilholm is a listing partner with Team Lally and he is going to talk about what led him to us today.
 

@@ -19,12 +19,7 @@ blogger_id: tag:blogger.com,1999:blog-1503358679504459581.post-39278509858855502
 blogger_orig_url: http://www.realestatecareerhawaii.com/2017/05/kapolei-mastermind-key-to-success-last.html
 ---
 {% include youtube.html %}
-
 *We have another mastermind coming up and we'd love for you to join us.*
-
-<a href="https://www.teamlally.com/kw-mastermind.php">RSVP</a>
-<a href="https://www.teamlally.com/open-positions.php">Check Out Our Career Opportunities</a>
-
 
 Today we wanted to talk to you about the power of the mastermind.
 

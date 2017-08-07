@@ -19,12 +19,8 @@ blogger_id: tag:blogger.com,1999:blog-1503358679504459581.post-73006626733171770
 blogger_orig_url: http://www.realestatecareerhawaii.com/2016/10/getting-to-know-brooks-bowman.html
 ---
 {% include youtube.html %}
-
 *Brooks Bowman is a Listing Partner here at Team Lally, and
 he enjoys the camaraderie of working on a team very much.*
-
-<a href="http://808.guaranteedsale.com/">Want to sell your Hawaii Area Home? Get a home value report</a>
-<a href="http://www.besthawaiirealestatesearch.com/">Want to buy a Hawaii area home? Search all homes for sale</a>
 
 Today, we wanted you to get to know a little bit about Brooks Bowman.
 

@@ -19,12 +19,7 @@ blogger_id: tag:blogger.com,1999:blog-1503358679504459581.post-59314661056443256
 blogger_orig_url: http://www.realestatecareerhawaii.com/2017/07/team-lally-looking-for-superstars.html
 ---
 {% include youtube.html %}
-
 *If you are a licensed Realtor looking to make a change and find success, consider joining us at Team Lally.*
-
-<a href="https://www.teamlally.com/open-positions.php">Check Out Our Career Opportunities</a>
-<a href="https://www.teamlally.com/career-night.php">Check Out Our Upcoming Career Night</a>
-
 
 Are you a licensed Realtor? We at Team Lally are currently recruiting real estate professionals seeking to take advantage of our abundant leads, our great training, and our “80K guarantee.”
 

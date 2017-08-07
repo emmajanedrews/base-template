@@ -20,13 +20,6 @@ blogger_id: tag:blogger.com,1999:blog-1503358679504459581.post-50945613864348870
 blogger_orig_url: http://www.realestatecareerhawaii.com/2016/09/what-is-your-career-vision.html
 ---
 {% include youtube.html %}
-
-*Your success depends on your talent and the talent of those around you.
- We can teach you how to find, grow, and lead that talent to become even more successful.*
-Buying a home? <a href="http://www.besthawaiirealestatesearch.com/results-gallery/?width=200&utm_source=QUICKSEARCH&utm_campaign=OtherWebsite&utm_medium=referral">Click here to perform a full home search</a>
-Selling a home? <a href="http://hawaii.guaranteedsale.com/">Click here for a FREE Home Price Evaluation</a>
-Call us at (808) 426-7211 for a FREE home buying or selling consultation
-
 Talent is the number one ingredient to success. Because of this, we want to invite you to a class that will teach you how to recruit the right talent for your team or company and how to put them in the right positions.
 
 **The class is called “Career Envisioning.”** A bad hire could end up costing you hundreds of thousands of dollars.
