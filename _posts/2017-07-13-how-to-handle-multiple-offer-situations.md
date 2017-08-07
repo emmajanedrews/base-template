@@ -1,13 +1,14 @@
 ---
 layout: post
 title: How to Handle Multiple-Offer Situations
-date: 2017-07-13 16:21:26
+date: 2017-07-13 16:21:00
 tags:
   - Home Seller Tips
 excerpt: >-
   What happens when you’re presented with multiple offers on your home? Today I
   want to walk you through the process.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Becky+Ivins/Videos/Oklahoma+City+Metro+Real+Estate+Agent-+How+to+Handle+Multiple+Offers.mp4
 pullquote: The highest offer isn’t necessarily the best offer.
 enclosure_type: video/mp4
 enclosure_time:
@@ -17,7 +18,7 @@ youtube_code: Dro7wZ-gs5g
 ---
 
 
-{% include youtube.html %}In any market, a property can receive multiple offers. We deal with this in our office on a near-daily basis. What that typically means is that folks may like a certain property and that property receives several different offers.&nbsp;
+{% include youtube.html %}In any market, a property can receive multiple offers. We deal with this in our office on a near-daily basis. What that typically means is that folks may like a certain property and that property receives several different offers.
 
 When you have a multiple offer situation, there are several different ways to handle it. The first thing to remember is that it’s not the agent’s prerogative as to how to handle the multiple offer, and many agents are confused about that. **Our real estate commission rules and regulations state that you must follow the instructions of the seller.** My job as a real estate agent is to tell the seller what the options are and allow them to choose.
 
@@ -33,6 +34,6 @@ The highest offer isn’t necessarily the best offer—it’s more about the bot
 
 Is a cash offer better than a financed offer? The cash offer is better if you have a big earnest money check. The buyer can take a walk through the property on the day of closing and drop the deal. If the check is small, then they don’t lose a lot of money by walking away.
 
-How can you as a qualified professional help the seller find the right offer? Before you even take a listing, you should know what the seller needs. **Those needs should be realistic.&nbsp;**They need a certain bottom line, closing date, and make sure that they have a qualified buyer. Knowing this information will help you find the right offer for your client.
+How can you as a qualified professional help the seller find the right offer? Before you even take a listing, you should know what the seller needs. **Those needs should be realistic.**They need a certain bottom line, closing date, and make sure that they have a qualified buyer. Knowing this information will help you find the right offer for your client.
 
 If you have any other questions about this topic or you’re looking to buy or sell a home, give me a call. I’d be happy to help.
