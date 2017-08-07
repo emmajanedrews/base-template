@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Key Tips for Buying or Investing in Waterfront Properties
-date:
+date: 2017-08-07 13:14:00
 tags:
   - Home Buyer Tips
 excerpt: >-
