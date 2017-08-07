@@ -7,27 +7,27 @@ custom_links:
     url:
 
 client:
-  name:
-  license_number:
+  name: Scott Fuller
+  license_number: BRE#01334119
   about_markdown: |
-
+    I'm a full time real estate broker with over 13 years experience in the industry. Consistently ranked in the top 1% for closed sales in the East Bay, we specialize in helping homeowners sell their home for the most money and in the shortest time. My full service team includes dedicated buyers agents, full time marketing experts and more. We use some of the most cutting edge marketing available to help get you top dollar for your home. My background and education in information systems, web programming and technology sets me apart from other real estate professionals.
   market:
-  brand:
-  brokerage:
-  address:
-  phone:
+  brand: The Scott Fuller Team
+  brokerage: Keller Williams Realty
+  address: 760 Camino Ramon, Ste. 200 Danville, CA 94526
+  phone: 925-855-3432
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Scott@TheScottFullerTeam.com
+  url: http://TheScottFullerTeam.com
 
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
-  VR_form:
+  second_CTA_URL: http://www.searchsanramonvalleyhomes.com/
+  VR_form: http://oi.vresp.com?fid=7c4789e0b7
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
@@ -41,7 +41,7 @@ second_sidebar_CTA:
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://www.searchsanramonvalleyhomes.com/
 
 lender:
   show_section: false
@@ -66,17 +66,17 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/TheScottFullerTeam
+  linkedin_url: https://www.linkedin.com/pub/scott-r-fuller/7/41/854
   gplus_url:
-  youtube_url:
+  youtube_url: https://www.youtube.com/user/TheFullerGroupRE
   twitter_url:
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
-  podcast_url:
+  zillow_url: https://www.zillow.com/profile/TheScottFullerTeam/
+  trulia_url: https://www.trulia.com/profile/scott-fuller-agent-danville-ca-zg8ll128/overview
+  yelp_url: http://www.yelp.com/biz/the-scott-fuller-team-keller-williams-realty-danville
+  podcast_url: https://itunes.apple.com/us/podcast/east-bay-real-estate-journal/id865680009?mt=2
 
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
@@ -90,7 +90,7 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 60
   hero_text: -- MARKET -- Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
