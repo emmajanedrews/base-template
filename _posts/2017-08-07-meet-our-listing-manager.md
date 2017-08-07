@@ -33,4 +33,4 @@ A typical day for Shannon starts with making sure that everyone on the team has 
 
 As for a few fun facts about Shannon: “I like to bike a lot. I’ve really gotten into biking recently; it’s my primary way of getting to work. I also have a dog that I probably talk too much about,” Shannon says, laughing. “Just ask anyone on the team.”
 
-If you have any questions for Shannon, or anyone else in the Carter Property Group, give us a call or send us an email. We would be happy to help you!
+If you have any questions for Shannon or anyone else in the Carter Property Group, give us a call or send us an email. We would be happy to help you!
