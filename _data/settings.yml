@@ -13,11 +13,11 @@ client:
   brand: The REllis Group
   brokerage: Key Realty
   address: '1350 West 5th Ave. Suite 326<br>Columbus, OH 43212'
-  phone: 614-949-5025
+  phone: 614-400-8762
   phone_type:
   phone2:
   phone2_type:
-  email: REllisGroupSales@gmail.com
+  email: REllisGroup@gmail.com
   url: 'http://REllisGroup.com'
 CTAs:
   first_CTA_text: Home Valuation
