@@ -1,7 +1,7 @@
 ---
 youtube_code: pe7TNfPoWr4
 excerpt:
-enclosure:
+enclosure: https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Real+Estate+Agents-+Thank+You+for+a+Great+Transaction.mp4
 pullquote: 'There are two types of people in this world: givers and takers.'
 enclosure_type: video/mp4
 enclosure_time:
