@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Should You Invest in Short-Term Rental Properties?
-date:
+date: 2017-08-08 12:27:35
 tags:
   - Real Estate
 excerpt: >-
@@ -21,7 +21,7 @@ youtube_code: laRVr3zCVZY
 
 A popular trend this summer has been people looking to invest in short-term rental properties, also known as vacation rental properties. With that in mind, I wanted to talk about a few things that I think are really important.
 
-**First, you have to remember that our market is seasonal.** It would be difficult for you stay during the summer and then rent your property out in the winter—our typical off-season. It just won’t generate the kind of income you’re looking for.&nbsp;
+**First, you have to remember that our market is seasonal.** It would be difficult for you stay during the summer and then rent your property out in the winter—our typical off-season. It just won’t generate the kind of income you’re looking for.
 
 Given that our market is seasonal, **people are coming and going at different times.** Because of this, you’re likely to end up with your property staying empty for a period of time during the month. This inconsistency won’t do great things for your bottom line.
 
@@ -29,9 +29,9 @@ You also need to **take into consideration the rules and regulations** of the co
 
 **Then there is the question of management.** Management of your property can be done long distance or you can hire a local property manager with experience in short term rentals that can take care of the property for you. Be aware of the costs associated with that as well.
 
-If you do use the property yourself for a portion of the year, then there are some tax limitations that you need to be aware of. There is a certain period of time that you can stay at the property and still consider it an investment rental property.&nbsp;
+If you do use the property yourself for a portion of the year, then there are some tax limitations that you need to be aware of. There is a certain period of time that you can stay at the property and still consider it an investment rental property.
 
-Finally, **you need to have an exit strategy.** If it doesn’t work out for you, is this property something that you will be able to sell easily, or is it going to be an ongoing economic burden until you can get it sold?&nbsp;
+Finally, **you need to have an exit strategy.** If it doesn’t work out for you, is this property something that you will be able to sell easily, or is it going to be an ongoing economic burden until you can get it sold?
 
 {% include pullquote.html %}
 
