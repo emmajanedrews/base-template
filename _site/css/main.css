@@ -2532,6 +2532,9 @@ table tr, table td {
 .footer-pad {
   padding-top: 20px; }
 
+.credentials {
+  font-size: 12px; }
+
 .item-container {
   margin: 3rem 5rem;
   box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
