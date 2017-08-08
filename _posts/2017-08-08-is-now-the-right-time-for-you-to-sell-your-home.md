@@ -25,7 +25,7 @@ A lot of our clients are asking if they should sell now or wait until next year.
 
 Harvard just completed their 2017 State of the Nation Housing Study and concluded that, for the fourth year in a row, national sales inventory has dropped. A normal, steady absorption rate is 6%. Nationally, sales inventory is at 3.6%. Locally, we’re at about 2% to 2.5%, which is an increase from the end of 2016, when we only had a 1.5% absorption rate.
 
-The absorption rate determines whether we are in a buyer’s, seller’s, or neutral market. Theoretically, with a 2% absorption rate, if no new homes came on the market, we would run out of inventory in just two months.
+**The absorption rate determines whether we are in a buyer’s, seller’s, or neutral market.** Theoretically, with a 2% absorption rate, if no new homes came on the market, we would run out of inventory in just two months.
 
 Not only that, fewer homes have been built over the past 10 years. In fact, there are fewer new construction homes than at any 10-year period in recent history, since the 1970s.
 
