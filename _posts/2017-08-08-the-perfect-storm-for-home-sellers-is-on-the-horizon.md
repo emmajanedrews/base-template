@@ -3,8 +3,11 @@ layout: post
 title: The Perfect Storm for Home Sellers Is on the Horizon
 tags:
   - Home Seller Tips
-excerpt: 'This summer is shaping up to be the perfect storm for home sellers in our market. However, you need to act fast.'
-enclosure: 'http://vyralmarketing.s3.amazonaws.com/Heather%20Upton/The%20Perfect%20Storm%20for%20Home%20Sellers%20Is%20on%20the%20Horizon.mp4'
+excerpt: >-
+  This summer is shaping up to be the perfect storm for home sellers in our
+  market. However, you need to act fast.
+enclosure: >-
+  http://vyralmarketing.s3.amazonaws.com/Heather%20Upton/The%20Perfect%20Storm%20for%20Home%20Sellers%20Is%20on%20the%20Horizon.mp4
 pullquote: 'If you’re thinking of selling your home, the time to do so is now.'
 enclosure_type: video/mp4
 enclosure_time:
