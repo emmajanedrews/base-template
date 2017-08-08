@@ -3,14 +3,21 @@ layout: post
 title: What You Need to Know About the Closing Process
 tags:
   - Home Buyer Tips
-excerpt: 'What happens during the closing process? What is closing? Closing is the culmination of the contract between a buyer and a seller. No matter which side of the transaction you’re on, there are a few things you should know to make the process go smoother. For one, although the buyer often chooses the closing attorney, the attorney doesn’t represent the buyer or the seller in a financed offer. To learn more, watch this short video.'
+excerpt: >-
+  What happens during the closing process? What is closing? Closing is the
+  culmination of the contract between a buyer and a seller. No matter which side
+  of the transaction you’re on, there are a few things you should know to make
+  the process go smoother. For one, although the buyer often chooses the closing
+  attorney, the attorney doesn’t represent the buyer or the seller in a financed
+  offer. To learn more, watch this short video.
 pullquote: The closing attorney represents the lender.
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Jason+McIntosh/+Videos/2017/Savannah+Real+Estate+Agent-+Closing+Transaction.mp4'
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jason+McIntosh/+Videos/2017/Savannah+Real+Estate+Agent-+Closing+Transaction.mp4
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: FHtJTBrDkEI
+youtube_code: wCGjLytUJfQ
 ---
 
 
