@@ -24,7 +24,7 @@ What’s the difference in commission between a solo agent and one who works on 
 
 **If you’re on a team, you take a split of the total gross commission**. Taking a split of the total gross commission is like taking the split of a much bigger pie, whereas taking the entire commission (or 100%) as a solo agent is like taking 100% of a much smaller pie. 100% of nothing is still nothing.&nbsp;
 
-Is 100% commission even a real thing in real estate? Actually, no. Even if you look at a minimum service brokerage that claim 100% commissions, there’s still some type of cost or fee that comes out of your commission. In addition to that, there are other expenses you have to provide yourself, **so there is never 100% profit when it comes to real estate sales**.&nbsp;
+Is 100% commission even a real thing in real estate? Actually, no. Even if you look at a minimum service brokerage that claims 100% commissions, there’s still some type of cost or fee that comes out of your commission. In addition to that, there are other expenses you have to provide yourself, **so there is never 100% profit when it comes to real estate sales**.&nbsp;
 
 If you’re only focused on the split itself instead of the greater opportunity of what is available to you, you could be missing out on something that could be amazing for your career.&nbsp;
 
