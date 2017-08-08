@@ -4,9 +4,12 @@ title: The Latest Numbers for Our Market
 date: 2017-08-01 13:28:00
 tags:
   - Market Update
-excerpt: I’ve got a quick update for you today on our real estate market. Here’s what you need to know.
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/+Videos/2017/August/Memphis+Real+Estate+Agent-+The+Latest+Numbers+for+Our+Market.mp4'
-pullquote: 'Bank-owned properties are down a whopping 20%.'
+excerpt: >-
+  I’ve got a quick update for you today on our real estate market. Here’s what
+  you need to know.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/+Videos/2017/August/Memphis+Real+Estate+Agent-+The+Latest+Numbers+for+Our+Market.mp4
+pullquote: Bank-owned properties are down a whopping 20%.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -17,7 +20,7 @@ youtube_code: aK6qJh5y96M
 
 {% include youtube.html %}
 
-Today I want to give you an update on the latest numbers and trends that we’ve seen in our real estate market. June was a great month and we saw a lot of promising trends, such as:
+Today I want to give you an update on the latest numbers and trends that we’ve seen in our real estate market. According to [chandlerreports.com](http://www.chandlerreports.com/Site/Default.asp), June was a great month and we saw a lot of promising trends, such as:
 
 * Overall home sales are up by 8%.
 * Average sale prices are up by 5%.
