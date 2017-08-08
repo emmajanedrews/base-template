@@ -1,11 +1,12 @@
 ---
 layout: post
 title: How Does Our Summertime LA Market Look?
-date: 2017-08-02 12:17:12
+date: 2017-08-02 12:17:00
 tags:
   - Market Update
 excerpt: What’s been going on in our summertime market lately?
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Your+latest+LA+summertime+market+update.mp4
 pullquote: The news is good for sellers in our market.
 enclosure_type: video/mp4
 enclosure_time:
