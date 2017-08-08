@@ -187,8 +187,8 @@ client:
   url: 'http://govig.com'
   first_CTA_text: Request a Consultation
   first_CTA_URL: /contact-us
-  second_CTA_text: Hire Us
-  second_CTA_URL: /contact-us
+  # second_CTA_text: Hire Us
+  # second_CTA_URL: /contact-us
 welcome_headline: Free Career Advancement Video Tips
 welcome_text_markdown: Subscribe to our email list to get answers when working with a recruiter to find your dream career or place your perfect candidate.
 socials:
