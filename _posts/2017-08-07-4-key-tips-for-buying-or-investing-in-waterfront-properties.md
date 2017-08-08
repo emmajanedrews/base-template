@@ -29,7 +29,7 @@ There is a lot of interest these days in waterfront property. However, there are
 
 {% include pullquote.html %}
 
-**3. Inspect any existing bulkheads or piers on the property.** We don’t want you to buy something that’s been eaten up by worms or is starting to cave in. It can be costly to get those torn out or replaced, so we want to make sure your new bulkhead or pier is planned into your budget. It can cost anywhere from $150 to $250 per linear foot to replace, depending on how deep the water and how extensive the job is.
+**3. Inspect any existing bulkheads or piers on the property.** We don’t want you to buy something that’s been eaten up by worms or is starting to cave in. It can be costly to get those torn out or replaced. &nbsp;Also, if you require a new bulkhead or pier we want to make sure it is planned into your budget. It can cost anywhere from $150 to $250 per linear foot to replace, depending on how deep the water and how extensive the job is.
 
 **4. What is the build elevation on the lot that you intend to purchase?** You need to get down to the planning department to find out. You should also look for other restrictions that may come with building on a waterfront property, as that can wind up being extensive and costly as well.
 
