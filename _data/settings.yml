@@ -7,41 +7,41 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Abel Tejeda
   license_number:
   about_markdown: |
-
-  market:
-  brand:
+      'Our “About Us” web page would be more appropriately called “About You”, as our focus is on closing your loans faster and more efficiently. Our winning strategy consists of a carefully crafted blend of excellent Interest Rates, Flexible Loan Products and Exceptional Customer Service . This concept combines the winning combination: paperless loan process with instant automated loan approvals.'
+  market: San Diego
+  brand: American Mortgage Group
   brokerage:
-  address:
-  phone:
+  address: 1419 University Ave <br>San Diego, CA 93103
+  phone: 619-948-2996
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: abel@abeltejeda.com
+  url: http://www.abeltejeda.com
 
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
-  second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  first_CTA_text: Loan Calculator
+  first_CTA_URL: http://abeltejeda.com/loan-calculator/
+  second_CTA_text: Apply Online
+  second_CTA_URL: http://abeltejeda.com/pre-qualification/
   VR_form:
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free -- MARKET -- Home Value Report"
-    CTA_url: /homevalue/
+    CTA_title: "Get Your Mortgage Today!"
+    CTA_text: "Are you thinking of buying a home in the San Diego area? We can help."
+    CTA_link_text: "Get Pre-Qualified"
+    CTA_url: http://abeltejeda.com/pre-qualification/
 
-second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+# second_sidebar_CTA:
+#   - CTA_image_path2: /img/cta-images/005.jpg
+#     CTA_title2: "Looking for a -- MARKET -- Home?"
+#     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
+#     CTA_link_text2: "Search the MLS"
+#     CTA_url2: /homesearch/
 
 lender:
   show_section: false
@@ -66,16 +66,16 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
+  facebook_url: https://www.facebook.com/Abel-Tejeda-American-Mortgage-Group-993302390783767
+  linkedin_url: https://www.linkedin.com/in/abel-tejeda-8aaba16
+  gplus_url: https://plus.google.com/109416905498767543671/about
   youtube_url:
   twitter_url:
   instagram_url:
   pinterest_url:
   zillow_url:
   trulia_url:
-  yelp_url:
+  yelp_url: http://www.yelp.com/biz/abel-tejeda-american-mortgage-group-san-diego-2
   podcast_url:
 
 podcast:
@@ -90,14 +90,14 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 60
   hero_text: -- MARKET -- Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#203F76'
+  theme_color: '#111'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
