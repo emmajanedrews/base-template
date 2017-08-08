@@ -1,9 +1,9 @@
 
 <div class="about-container">
 	<p>
-		{% if page.tags contains "Bio Pharma" %}
+		{% if page.tags contains "BioPharma" %}
 		{% for client in site.data.settings.client.clients %}
-		{% if client.specialty == "Bio Pharma" %}
+		{% if client.specialty == "BioPharma" %}
 		<h5>About&nbsp;{{ client.name }}</h5>
 			<div class="client-image-container">
 		<img src="{{client.client_headshot_path }}" alt="{{client.company}}" class="client-image" />
@@ -67,9 +67,9 @@
 		{% endfor %}
 		{% endif %}
 
-		{% if page.tags contains "Health Care" %}
+		{% if page.tags contains "Healthcare" %}
 		{% for client in site.data.settings.client.clients %}
-		{% if client.specialty == "Health Care" %}
+		{% if client.specialty == "Healthcare" %}
 		<h5>About&nbsp;{{ client.name }}</h5>
 			<div class="client-image-container">
 		<img src="{{client.client_headshot_path }}" alt="{{client.company}}" class="client-image" />
