@@ -3,8 +3,11 @@ layout: post
 title: Explore Grayton Beach State Park for Free Before Labor Day
 tags:
   - Outdoor Entertainment
-excerpt: 'Instead of talking about Northwest Florida real estate, today I want to bring you along on a tour of Grayton Beach State Park.'
-enclosure:
+excerpt: >-
+  Instead of talking about Northwest Florida real estate, today I want to bring
+  you along on a tour of Grayton Beach State Park.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Nathan+Abbott/Nathan+Abbott+Team-+Have+you+explored+Grayton+Beach%253F.mp4
 pullquote: Grayton Beach is a great place to escape and enjoy the beauty of Florida.
 enclosure_type: video/mp4
 enclosure_time:
@@ -30,6 +33,6 @@ Western Lake is also the perfect place to paddleboard or kayak. It’s a 100-acr
 
 I highly recommend this park. The Florida State Parks are all fantastic, and **Grayton Beach will be open to the public for free through Labor Day.** It really is a great place to take your family and just explore.
 
-For more details about Grayton Beach, check out this [website](https://www.floridastateparks.org/park/Grayton-Beach){:target="_blank"}. I hope you take some time to get out there and roam through this beautiful state park.
+For more details about Grayton Beach, check out this [website](https://www.floridastateparks.org/park/Grayton-Beach). I hope you take some time to get out there and roam through this beautiful state park.
 
 In the meantime, if you have any real estate questions, just give me a call or send me an email. I would be happy to help you!
