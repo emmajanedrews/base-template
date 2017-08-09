@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Now the Right Time for You to Sell Your Home?
-date: 2017-08-08 08:50:15
+date: 2017-08-08 08:50:00
 tags:
 excerpt: >-
   Is now the best time to put your home on the market? Let’s take a look at the
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: qfiSaQy1PuU
+youtube_code: WPDEcvlXVwk
 ---
 
 
