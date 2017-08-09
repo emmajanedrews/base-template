@@ -7,26 +7,26 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Marjorie Dick Stuart
   license_number:
   about_markdown: |
-
-  market:
-  brand:
+    Marjorie Dick Stuart’s trademark is doing things a little differently than usual. Whether it’s having a pet lizard or making her own jewelry, she is a unique individual with interests that exemplify her one-of-a-kind take on life. As one of Cleveland Park’s top real estate professionals, Marjorie stays ahead of the pack by handling her clients’ important investments with innovative strategies and creative solutions.
+  market: Cleveland Park
+  brand: W.C. & A.N. Miller Realtors
   brokerage:
-  address:
-  phone:
+  address: 4910 Massachusetts Ave NW, Ste 119 <br> Washington, DC 20016
+  phone: 240-731-8079
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: marjorie@marjoriedickstuart.com
+  url: http://www.marjoriedickstuart.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.marjoriedickstuart.com/home-evaluation.php
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.marjoriedickstuart.com/home-finder.php
   VR_form:
 
 sidebar_CTA:
@@ -34,14 +34,14 @@ sidebar_CTA:
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free -- MARKET -- Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.marjoriedickstuart.com/home-evaluation.php
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_link_text2: "Find Your New Home"
+    CTA_url2: http://www.marjoriedickstuart.com/home-finder.php
 
 lender:
   show_section: false
@@ -66,16 +66,16 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: http://www.facebook.com/marjoriedickstuart
+  linkedin_url: https://www.linkedin.com/in/marjoriedickstuart
+  gplus_url: https://plus.google.com/109721335090332346830
+  youtube_url: https://www.youtube.com/channel/UCoyuWDEIG-HcgDzx_y5hqJw
+  twitter_url: https://twitter.com/MarjorieDickStu
   instagram_url:
   pinterest_url:
   zillow_url:
   trulia_url:
-  yelp_url:
+  yelp_url: https://www.yelp.com/biz/marjorie-dick-stuart-washington
   podcast_url:
 
 podcast:
@@ -96,7 +96,7 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
+  brand_color: '#981B1E'
   theme_color: '#999'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
