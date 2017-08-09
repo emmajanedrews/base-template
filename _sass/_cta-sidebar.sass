@@ -6,7 +6,7 @@
 	flex-wrap: wrap
 	margin-bottom: 20px
 	margin-top: 20px
-	overflow: visible
+	overflow: hidden
 	.cta-img-container
 		a
 			img
@@ -26,12 +26,7 @@
 	// padding: 20px
 	margin: 0px auto 30px
 
-.dropdown-cta
-	position: relative
-	overflow: visible !important
-	margin: 0px auto 20px
-
-.dropdown-toggle-cta
+.ctalink
 	justify-content: center
 	background: $brand
 	border: 1px solid $brand
@@ -45,37 +40,11 @@
 		text-align: center
 	&:hover
 		background: transparent
-		color: $brand-light
-		box-shadow: 4px 4px 0 $brand-light
-		border: 1px solid $brand-light
+		color: $brand-dark
+		box-shadow: 4px 4px 0 $brand-dark
+		border: 1px solid $brand-dark
 		@include transform(scale(1.05))
 		@include transform(translateY(-0.2rem))
 	&:active
-		box-shadow: 0 0 0 $brand-light
+		box-shadow: 0 0 0 $brand-dark
 		@include transform(translateY(0rem))
-
-// .dropdown-toggle-cta
-// 	background: $button-background
-// 	color: $button-text
-// 	padding: 1.3rem 2rem
-// 	text-transform: capitalize
-// 	font-size: 2rem
-// 	font-weight: 300
-// 	border: 2px solid $button-border
-// 	border-radius: 0
-// 	@include transition(0.3s)
-// 	&:hover
-// 		// background: $button-background
-// 		color: $brand-dark
-// 		box-shadow: 4px 4px 0 $brand-dark
-// 		border: 2px solid $button-border
-// 		@include transform(scale(1.05))
-// 		@include transform(translateY(-0.2rem))
-// 	&:active
-// 		box-shadow: 0 0 0 $brand-dark
-// 		@include transform(translateY(0rem))
-// 		text-decoration: none
-// 		color: $brand
-// 	&:focus
-// 		text-decoration: none
-// 		color: $brand

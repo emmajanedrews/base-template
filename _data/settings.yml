@@ -25,25 +25,25 @@ client:
   url: http://SavvyAgent.biz
 
 CTAs:
-  first_CTA_text: Free Strategy Session
-  first_CTA_URL: /consultation/
-  second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  first_CTA_text: Request a Consultation
+  first_CTA_URL: http://savvyagent.biz/
+  second_CTA_text: Training Classes
+  second_CTA_URL: /#
   VR_form: http://oi.vresp.com?fid=4c7f249ffd
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "Looking to Build Your Real Estate Career?"
     CTA_text: "Speak With Us About A Career At KW: Request A Consultation To Work In One Of Our Offices."
-    CTA_link_text: "Free Strategy Session"
-    CTA_url: /consultation/
+    CTA_link_text: "Request a Consultation"
+    CTA_url: http://savvyagent.biz/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Want to learn more?"
     CTA_text2: "Attend One Of Our Training Classes At Our Offices"
-    CTA_link_text2: "Classes"
-    CTA_url2: /homesearch/
+    CTA_link_text2: "Training Classes"
+    CTA_url2: /#
 
 lender:
   show_section: false

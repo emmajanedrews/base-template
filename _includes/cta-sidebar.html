@@ -14,24 +14,27 @@
 	<p>
 		{{cta.CTA_text}}
 	</p>
-	<div class="dropdown-cta">
-	  <button class="btn btn-default dropdown-toggle-cta" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
-	    Request a Consultation
-	    <span class="caret"></span>
-	  </button>
-	  <ul class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenu">
-	    <li class="dropdown-header">Speak with us about a career at KW:<br>Request a consultation to work in one of our offices.</li>
-	    <li role="separator" class="divider" id="divider"></li>
-	    <li class="link-transform"><a href="http://kathymoore.myhomehq.biz/" target="_blank">Kathy Moore | Midvale</a></li>
-	    <li class="link-transform"><a href="http://darlenecarter.kwrealty.com/" target="_blank">Darlene Carter | Layton</a></li>
-	  </ul>
+	<div class="ctacontainer">
+		{% if cta.CTA_link_text == null or cta.CTA_url == null%}
+		<a class="ctalink" href="{{site.data.settings.CTAs.first_CTA_URL}}" target="_blank">
+			{{site.data.settings.CTAs.first_CTA_text}}
+		</a>
+		{% else %}
+		<a class="ctalink" href="{{cta.CTA_url}}" target="_blank">
+			{{cta.CTA_link_text | replace: '-- MARKET --', site.data.settings.client.market}}
+		</a>
+		{% endif %}
 	</div>
 </div>
 {% endfor %}
-<div class="cta-sidebar-container">
 {% for cta in site.data.settings.second_sidebar_CTA %}
+<div class="cta-sidebar-container">
 	<div class="cta-img-container">
+		{% if cta.CTA_link_text2 == null or cta.CTA_url2 == null%}
 	<a href="{{cta.second_CTA_URL}}" target="_blank">
+		{% else %}
+		<a href="{{cta.CTA_url2}}" target="_blank">
+		{%endif%}
 		<img src="{{cta.CTA_image_path2}}" alt="" />
 	</a>
 	</div>
@@ -39,17 +42,16 @@
 	<p>
 		{{cta.CTA_text2 | replace: '-- MARKET --', site.data.settings.client.market}}
 	</p>
-	<div class="dropdown-cta">
-	  <button class="btn btn-default dropdown-toggle-cta" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
-	    Training Classes
-	    <span class="caret"></span>
-	  </button>
-	  <ul class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenu1">
-	    <li class="dropdown-header">Attend one of our training classes at our offices</li>
-	    <li role="separator" class="divider" id="divider"></li>
-	    <li class="link-transform"><a href="http://kathymoore.myhomehq.biz/" target="_blank">KW Utah Realtors | Midvale</a></li>
-	    <li class="link-transform"><a href="http://darlenecarter.kwrealty.com/" target="_blank">KW Legacy | Layton</a></li>
-	  </ul>
+	<div class="ctacontainer">
+		{% if cta.CTA_link_text2 == null or cta.CTA_url2 == null%}
+		<a class="ctalink" href="{{site.data.settings.CTAs.second_CTA_URL}}" target="_blank">
+			{{site.data.settings.CTAs.second_CTA_text}}
+		</a>
+		{% else %}
+		<a class="ctalink" href="{{cta.CTA_url2}}" target="_blank">
+			{{cta.CTA_link_text2 | replace: '-- MARKET --', site.data.settings.client.market}}
+		</a>
+		{% endif %}
 	</div>
 </div>
 {% endfor %}
