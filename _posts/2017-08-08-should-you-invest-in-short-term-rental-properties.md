@@ -27,7 +27,7 @@ Given that our market is seasonal, **people are coming and going at different ti
 
 You also need to **take into consideration the rules and regulations** of the county and homeowners associations that your property is governed by. In our area, Flathead and Lake Counties are putting or have already put regulations into place for short-term rentals, so you need to be aware of those to avoid any legal troubles later on.
 
-**Then there is the question of management.** Management of your property can be done long distance or you can hire a local property manager with experience in short-term rentals that can take care of the property for you. Be aware of the costs associated with that as well.
+**Then, there is the question of management.** Management of your property can be done long distance or you can hire a local property manager with experience in short-term rentals that can take care of the property for you. Be aware of the costs associated with that as well.
 
 If you do use the property yourself for a portion of the year, then there are some tax limitations that you need to be aware of. There is a certain period of time that you can stay at the property and still consider it an investment rental property.
 
