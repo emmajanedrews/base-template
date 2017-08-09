@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 9 ways to keep cool and cut costs
+title: How to Cool Down and Cut Energy Costs This Summer
 date:
 tags:
 excerpt:
@@ -12,6 +12,8 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code:
 ---
+
+
 {% include youtube.html %}
 
 {% include pullquote.html %}
