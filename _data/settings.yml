@@ -1,47 +1,47 @@
 audit_header: false
-title: -- CLIENT BRAND --
-description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
+title: The Josh Cooley Team
+description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Josh Cooley - your professional Real Estate Agents.'
 show_custom_links: false
 custom_links:
   - title:
     url:
 
 client:
-  name:
+  name: Josh Cooley
   license_number:
   about_markdown: |
-
+    Principal Broker, Listing Specialist Born in Oregon, Josh loves it here and wants to keep us moving forward. This exactly what he does every day when helping in the consultation process of a real estate purchase. From process beginning to end, it is his objective to make sure you have as much information as possible to make the best decision possible. It is important that he is able to first know why you are making a move or purchasing investment property so that he may help with your big picture. Not every decision needs his input and he understands this. When necessary, he will provide his experience and market knowledge to help keep you on track for your real estate goals. Let him know what your real estate goals are. He can help.
   market:
-  brand:
-  brokerage:
-  address:
-  phone:
+  brand: The Josh Cooley Team
+  brokerage: Keller Williams
+  address: 2644 Suzanne Way Eugene, OR 97408
+  phone: 541-359-1999
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: info@eugenere.com
+  url: http://eugenere.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.eugenere.com/sell//
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
-  VR_form:
+  second_CTA_URL: http://www.eugenere.com/Search/?
+  VR_form: http://oi.vresp.com?fid=67d0f2651f
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free -- MARKET -- Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.eugenere.com/sell//
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://www.eugenere.com/Search/?
 
 lender:
   show_section: false
@@ -66,37 +66,37 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/eugenesellerRE
+  linkedin_url: https://www.linkedin.com/in/joshuacooley/
   gplus_url:
-  youtube_url:
-  twitter_url:
+  youtube_url: https://www.youtube.com/user/EugeneHomes
+  twitter_url: https://twitter.com/EugeneSeller
   instagram_url:
-  pinterest_url:
-  zillow_url:
-  trulia_url:
+  pinterest_url: https://www.pinterest.com/JoshCooleyTeam/
+  zillow_url: https://www.zillow.com/profile/TheJoshCooleyTeam/
+  trulia_url: https://www.trulia.com/profile/the-josh-cooley-team-agent-eugene-or-zg73z4jr/overview
   yelp_url:
   podcast_url:
 
 podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
+  title: 'Eugene, OR Real Estate Podcast with Josh Cooley Team'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Eugene, OR Area Real Estate Market'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: '-- CLIENT NAME --'
+  author: 'Josh Cooley'
 
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 80
   hero_text: -- MARKET -- Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
+  brand_color: '#AC3801'
   theme_color: '#999'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
@@ -106,7 +106,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: black
 
 buttons:
   button_radius_number: 0
