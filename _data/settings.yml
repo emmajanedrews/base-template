@@ -27,13 +27,13 @@ CTAs:
   first_CTA_URL: http://www.marjoriedickstuart.com/home-evaluation.php
   second_CTA_text: Home Search
   second_CTA_URL: http://www.marjoriedickstuart.com/home-finder.php
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=29ea58349e
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free -- MARKET -- Home Value Report"
+    CTA_link_text: "Free Home Value Report"
     CTA_url: http://www.marjoriedickstuart.com/home-evaluation.php
 
 second_sidebar_CTA:
