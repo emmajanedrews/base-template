@@ -12,7 +12,7 @@ pullquote: You need to have an exit strategy in case it doesn’t work out for y
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/8-7---short-term---yt.jpg
+youtube_alternate_image: /uploads/8-7---short-term---yt-1.jpg
 youtube_code: ajNLJAhbfEQ
 ---
 
