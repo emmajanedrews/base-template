@@ -11,8 +11,8 @@ enclosure:
 pullquote: Make sure this decision is right for you.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/shawna-brooks-ssnp.jpg
 youtube_code: MG0x7wVkx7c
 ---
 
