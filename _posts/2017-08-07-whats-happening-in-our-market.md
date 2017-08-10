@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What's Happening in Our Market?
-date: 2017-08-07 14:34:42
+date: 2017-08-07 14:34:00
 tags:
   - Market Update
 excerpt: Inventory is low and demand is high. So what does that mean for our market?
@@ -11,8 +11,8 @@ pullquote: Tight inventory has been a feature of our market since 2016.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/no-pb-17.jpg
-youtube_code: izQTdgHmxR4
+youtube_alternate_image: /uploads/no-pb-28.jpg
+youtube_code: kMWj9VJJ48M
 ---
 
 
@@ -28,7 +28,7 @@ Since fewer distressed sales mean a lowered likelihood of short sales or foreclo
 
 However, our momentum may slow down due to low supply. These supply levels simply may not be able to keep pace with the buyer demand that could carry us through the summer.
 
-**National Association of Realtors Chief Economist Lawrence Yun has noted that "Sellers are in the driver’s seat...."**
+**National Association of Realtors Chief Economist Lawrence Yun has noted that "Sellers are in the driver’s seat…."**
 
 As a result of hot competition among buyers, we’re definitely seeing stronger offers coming out. Buyers are showing resilience, but inventory is simply too low.
 
