@@ -1,6 +1,6 @@
 audit_header: false
-title: '-- CLIENT BRAND --'
-description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
+title: Southern New Hampshire Real Estate Video Blog with The Heeter Home Team
+description: 'Our mission at The Heeter Home Team is to be your best resource for Southern New Hampshire real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
   - title:
@@ -8,10 +8,17 @@ custom_links:
 client:
   name: Dave Heeter
   license_number:
-  about_markdown: 'The Heeter Home team was created to provide customers with an enhanced experience by combining the strengths of multiple real estate professionals. Time is of the essence and a tight-knit, experienced team will be able to pool its resources to work towards completing your goal. When you choose the Heeter Home team you will be put in the hands of our capable, caring staff whose goal is to provide you with a positive experience when selling or purchasing a home.'
+  about_markdown: >
+    The Heeter Home team was created to provide customers with an enhanced
+    experience by combining the strengths of multiple real estate professionals.
+    Time is of the essence and a tight-knit, experienced team will be able to
+    pool its resources to work towards completing your goal. When you choose the
+    Heeter Home team you will be put in the hands of our capable, caring staff
+    whose goal is to provide you with a positive experience when selling or
+    purchasing a home.
   market: Southern New Hampshire
   brand: Heeter Home Team
-  brokerage: Keller Williams Realty
+  brokerage:
   address: '20 Trafalgar Sq. Suite 101<br>Nashua, NH 03063'
   phone: 603-821-1134
   phone_type:
@@ -24,7 +31,7 @@ CTAs:
   first_CTA_URL: 'http://www.heeterrealestate.com/cma/property-valuation/'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://www.heeterrealestate.com/search/advanced_search/'
-  VR_form: 'http://oi.vresp.com?fid=f33703d3e2'
+  VR_form:
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/007.jpg
     CTA_title: Looking to Buy a Home?
@@ -62,14 +69,14 @@ socials:
   zillow_url: 'https://www.zillow.com/profile/Dave2354/'
   trulia_url: 'https://www.trulia.com/profile/dave-heeter-team-agent-nashua-nh-zg5pmdys/overview'
   yelp_url: 'https://www.yelp.com/biz/heeter-home-team-nashua'
-  podcast_url: 'https://itunes.apple.com/us/podcast/southern-new-hampshire-real-estate-podcast-dave-heeter/id1235682555?mt=2'
+  podcast_url:
 podcast:
   title: Southern New Hampshire Real Estate Podcast with Dave Heeter
   categories:
     - Education
-  image: 'http://i.imgur.com/Pnw5y7E.jpg'
+  image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
+  description: 'If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
   author: '-- CLIENT NAME --'
 images:
