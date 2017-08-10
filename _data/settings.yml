@@ -41,7 +41,7 @@ CTAs:
   first_CTA_URL: 'http://andrew.hhande.com/whats-my-home-worth.php'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://andrew.hhande.com/idx/'
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=9f6f3d7b4d
 sidebar_CTA:
   CTA_image_path: /img/cta-images/004.jpg
   CTA_title: What’s Your Home Worth?
@@ -68,8 +68,8 @@ socials:
   review_sm_icons: false
   facebook_url: 'https://www.facebook.com/AndrewKronenbergRealtor/'
   linkedin_url: 'https://www.linkedin.com/in/andrew-kronenberg-18152a15/'
-  gplus_url:
-  youtube_url: 'https://www.youtube.com/channel/UC9N1tquRfvl_O3hMB83o14Q/featured'
+  gplus_url: 'https://plus.google.com/u/0/b/103331678449225135934'
+  youtube_url: 'https://www.youtube.com/channel/UC9N1tquRfvl_O3hMB83o14Q'
   twitter_url:
   instagram_url:
   pinterest_url:
