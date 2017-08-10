@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Deciding Between a Resale Home & New Construction
-date: 2017-08-07 14:11:45
+date: 2017-08-07 14:11:00
 tags:
   - Home Buyer Tips
 excerpt: >-
   One question I get asked all the time by buyers is, “Should I buy a new
   construction home or a resale home?”
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Which%2520housing%2520option%2520is%2520best%2520for%2520you%253F.mp4
 pullquote: Each option has its pros and cons.
 enclosure_type: video/mp4
 enclosure_time:
