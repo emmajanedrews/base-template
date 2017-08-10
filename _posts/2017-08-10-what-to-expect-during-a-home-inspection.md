@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What to Expect During a Home Inspection
-date: 2017-08-10 16:49:05
+date: 2017-08-10 16:49:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -11,7 +11,7 @@ enclosure:
 pullquote: Make sure that your inspector has an active license.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/bryan-david--home-inspection-youtube.jpg
 youtube_code: 'https://youtu.be/rw9xJEvYh94'
 ---
