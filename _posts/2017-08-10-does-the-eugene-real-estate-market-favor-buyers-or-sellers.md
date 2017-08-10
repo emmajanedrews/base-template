@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Does the Eugene Real Estate Market Favor Buyers or Sellers?
-date:
+date: 2017-08-10 10:44:22
 tags:
   - Market Update
 excerpt: >-
