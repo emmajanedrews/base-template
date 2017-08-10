@@ -12,7 +12,7 @@ title: Fun Things to Do in Palm Beach County
 date: '2016-08-03T09:23:00.000-07:00'
 author: liz@getvyral.com
 tags:
-- Palm Beach County
+- Helpful Hints for Homeowners
 modified_time: '2016-08-04T10:51:13.734-07:00'
 thumbnail: https://img.youtube.com/vi/Ako8TuygZpw/default.jpg
 blogger_id: tag:blogger.com,1999:blog-4494959587145446966.post-7802030194028647213

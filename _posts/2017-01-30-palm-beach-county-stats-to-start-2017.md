@@ -12,7 +12,7 @@ title: Palm Beach County stats to start 2017
 date: '2017-01-30T15:13:00.000-08:00'
 author: Alyssa Sisco
 tags:
-- WJNO Radio show
+- Radio Show
 modified_time: '2017-01-30T15:13:07.930-08:00'
 blogger_id: tag:blogger.com,1999:blog-4494959587145446966.post-585283516113041534
 blogger_orig_url: http://videoblog.everypalmbeachcountylisting.com/2017/01/palm-beach-county-stats-to-start-2017.html

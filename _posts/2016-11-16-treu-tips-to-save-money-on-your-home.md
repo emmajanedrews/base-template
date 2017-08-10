@@ -12,7 +12,7 @@ title: Treu Tips to Save Money on Your Home
 date: '2016-11-16T11:38:00.000-08:00'
 author: liz@getvyral.com
 tags:
-- Treu Group Tips
+- Radio Show
 modified_time: '2016-12-05T07:50:34.145-08:00'
 blogger_id: tag:blogger.com,1999:blog-4494959587145446966.post-2895973310818627304
 blogger_orig_url: http://videoblog.everypalmbeachcountylisting.com/2016/11/treu-tips-to-save-money-on-your-home.html

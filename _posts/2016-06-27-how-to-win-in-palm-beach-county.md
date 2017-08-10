@@ -12,7 +12,7 @@ title: 'Tales of Two Markets: Analyzing the Latest Statistics in Our Real Estate
 date: '2016-06-27T08:37:00.000-07:00'
 author: liz@getvyral.com
 tags:
-- WJNO Radio show
+- Radio Show
 modified_time: '2016-07-05T07:51:22.094-07:00'
 blogger_id: tag:blogger.com,1999:blog-4494959587145446966.post-5254865456774919694
 blogger_orig_url: http://videoblog.everypalmbeachcountylisting.com/2016/06/how-to-win-in-palm-beach-county.html

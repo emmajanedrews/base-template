@@ -12,7 +12,7 @@ title: Property Taxes and Your Palm Beach County Home
 date: '2016-09-20T09:51:00.000-07:00'
 author: liz@getvyral.com
 tags:
-- WJNO Radio show
+- Radio Show
 modified_time: '2017-01-31T07:02:43.050-08:00'
 blogger_id: tag:blogger.com,1999:blog-4494959587145446966.post-4908550953779690749
 blogger_orig_url: http://videoblog.everypalmbeachcountylisting.com/2016/09/property-taxes-and-your-palm-beach.html

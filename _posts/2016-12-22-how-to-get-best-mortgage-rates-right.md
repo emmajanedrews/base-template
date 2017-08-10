@@ -12,7 +12,7 @@ title: How to Get the Best Mortgage Rates Right Away
 date: '2016-12-22T13:57:00.000-08:00'
 author: Alyssa Sisco
 tags:
-- WJNO Radio show
+- Radio Show
 modified_time: '2016-12-22T13:57:09.356-08:00'
 blogger_id: tag:blogger.com,1999:blog-4494959587145446966.post-1024721791723280491
 blogger_orig_url: http://videoblog.everypalmbeachcountylisting.com/2016/12/how-to-get-best-mortgage-rates-right.html

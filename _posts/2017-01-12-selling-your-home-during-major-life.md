@@ -12,7 +12,7 @@ title: Selling Your Home During Major Life Changes
 date: '2017-01-12T09:02:00.000-08:00'
 author: Alyssa Sisco
 tags:
-- Home Seller Tips
+- Selling a Home
 modified_time: '2017-01-20T08:33:49.552-08:00'
 thumbnail: https://img.youtube.com/vi/zhZS5v8-Gfo/default.jpg
 blogger_id: tag:blogger.com,1999:blog-4494959587145446966.post-2003949177650447879

@@ -12,6 +12,7 @@ title: We Dont Play Games When It Comes to Achieving Results for You
 date: 2017-05-05 20:35:00
 author: Alyssa Sisco
 tags:
+- Lisa's Tips
 modified_time:
 thumbnail: 'https://img.youtube.com/vi/siNoGpmg9cU/default.jpg'
 blogger_id: 'tag:blogger.com,1999:blog-4494959587145446966.post-9163252914076829977'
@@ -19,7 +20,8 @@ blogger_orig_url: 'http://videoblog.everypalmbeachcountylisting.com/2017/05/we-d
 ---
 
 
-{% include youtube.html %}Playgrounds are a lot of fun for kids. They can be fun for us, too. However, you don’t want the job of helping you buy or sell a home becoming a game for your agent.
+{% include youtube.html %}
+Playgrounds are a lot of fun for kids. They can be fun for us, too. However, you don’t want the job of helping you buy or sell a home becoming a game for your agent.
 
 If you’re looking to buy or sell here in Palm Beach County, you probably know about some of the many challenges that could cause the deal to fall apart. There are issues with financing and inspections that may need to be solved. Lack of experience could play a role as well.
 

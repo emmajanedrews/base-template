@@ -12,7 +12,7 @@ title: 'Technology for the Home: What Upgrades May Increase the Value of Your Pr
 date: '2016-07-12T15:05:00.000-07:00'
 author: liz@getvyral.com
 tags:
-- WJNO Radio show
+- Radio Show
 modified_time: '2016-07-12T15:05:13.411-07:00'
 blogger_id: tag:blogger.com,1999:blog-4494959587145446966.post-906504728411075563
 blogger_orig_url: http://videoblog.everypalmbeachcountylisting.com/2016/07/technology-for-home-what-upgrades-may.html

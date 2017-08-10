@@ -12,8 +12,7 @@ title: 'Updates in Real Estate in Palm Beach: Tips and Advice to Sell Your Home.
 date: '2016-08-05T14:53:00.000-07:00'
 author: liz@getvyral.com
 tags:
-- Treu Group Real Esate
-- WJNO Radio show
+- Radio Show
 modified_time: '2016-08-05T14:56:56.941-07:00'
 blogger_id: tag:blogger.com,1999:blog-4494959587145446966.post-7565051959205097555
 blogger_orig_url: http://videoblog.everypalmbeachcountylisting.com/2016/08/updates-in-real-estate-in-palm-beach.html

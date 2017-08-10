@@ -12,7 +12,7 @@ title: Ready to Get App Happy?
 date: '2016-07-05T07:53:00.001-07:00'
 author: liz@getvyral.com
 tags:
-- Home Owner Tips
+- Helpful Hints for Homeowners
 modified_time: '2016-07-07T09:03:50.589-07:00'
 thumbnail: https://img.youtube.com/vi/CLHw9Yt_x8E/default.jpg
 blogger_id: tag:blogger.com,1999:blog-4494959587145446966.post-1031336116747848854

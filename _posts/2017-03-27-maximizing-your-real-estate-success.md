@@ -12,7 +12,7 @@ title: Maximizing Your Real Estate Success
 date: '2017-03-27T13:33:00.000-07:00'
 author: Alyssa Sisco
 tags:
-- WJNO Radio show
+- Radio Show
 modified_time: '2017-03-30T07:30:34.788-07:00'
 blogger_id: tag:blogger.com,1999:blog-4494959587145446966.post-5112730000069083603
 blogger_orig_url: http://videoblog.everypalmbeachcountylisting.com/2017/03/maximizing-your-real-estate-success.html

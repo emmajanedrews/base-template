@@ -12,7 +12,7 @@ title: Financing Tips
 date: '2016-10-14T13:03:00.000-07:00'
 author: liz@getvyral.com
 tags:
-- WJNO Radio show
+- Radio Show
 modified_time: '2016-11-08T12:42:26.900-08:00'
 blogger_id: tag:blogger.com,1999:blog-4494959587145446966.post-3211561739670804328
 blogger_orig_url: http://videoblog.everypalmbeachcountylisting.com/2016/10/financing-tips.html

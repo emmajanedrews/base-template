@@ -12,7 +12,7 @@ title: '3 Great Opportunities in Palm Beach Real Estate '
 date: '2016-11-03T07:26:00.003-07:00'
 author: liz@getvyral.com
 tags:
-- market update
+- Real Estate Market Info
 modified_time: '2016-11-15T08:55:41.525-08:00'
 thumbnail: https://img.youtube.com/vi/u8Bv9BDSBQY/default.jpg
 blogger_id: tag:blogger.com,1999:blog-4494959587145446966.post-2030192056774344797

@@ -12,7 +12,7 @@ title: Things to Know About the Palm Beach County Market
 date: '2017-06-27T08:31:00.001-07:00'
 author: Alyssa Sisco
 tags:
-- 2017 Real Estate Market
+- Real Estate Market Info
 modified_time: '2017-06-28T10:26:40.104-07:00'
 thumbnail: https://img.youtube.com/vi/PzqeHzODsAE/default.jpg
 blogger_id: tag:blogger.com,1999:blog-4494959587145446966.post-6903919879114673967

@@ -12,7 +12,7 @@ title: How Is the International Market Affecting South Florida Real Estate?
 date: '2016-12-05T10:05:00.000-08:00'
 author: Alyssa Sisco
 tags:
-- market update
+- Real Estate Market Info
 modified_time: '2016-12-19T15:10:47.902-08:00'
 thumbnail: https://img.youtube.com/vi/ij8NmfgiZR4/default.jpg
 blogger_id: tag:blogger.com,1999:blog-4494959587145446966.post-3033822146308923048

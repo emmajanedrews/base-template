@@ -12,7 +12,7 @@ title: 3 Ways We Can Help You Reach Your Real Estate Goals
 date: '2017-02-22T12:24:00.000-08:00'
 author: Alyssa Sisco
 tags:
-- Home Buyer Tips
+- Selling a Home
 modified_time: '2017-02-22T13:00:10.359-08:00'
 thumbnail: https://img.youtube.com/vi/ig9k8VN_Gao/default.jpg
 blogger_id: tag:blogger.com,1999:blog-4494959587145446966.post-4055257591687670962

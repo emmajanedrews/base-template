@@ -13,7 +13,7 @@ title: 'Technology, New Trends and Real Estate: The Impact of Millennial Buyers 
 date: '2016-07-25T09:31:00.000-07:00'
 author: liz@getvyral.com
 tags:
-- WJNO Radio show
+- Radio Show
 modified_time: '2016-07-25T09:31:22.991-07:00'
 blogger_id: tag:blogger.com,1999:blog-4494959587145446966.post-5387438467528501282
 blogger_orig_url: http://videoblog.everypalmbeachcountylisting.com/2016/07/technology-new-trends-and-real-estate.html

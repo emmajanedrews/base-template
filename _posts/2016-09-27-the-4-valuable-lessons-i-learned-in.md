@@ -12,8 +12,7 @@ title: The 4 Valuable Lessons I Learned in Greece
 date: '2016-09-27T09:51:00.000-07:00'
 author: liz@getvyral.com
 tags:
-- The Treu Group
-- Palm Beach County Real Estate
+- Lisa's Tips
 modified_time: '2016-09-28T07:30:17.200-07:00'
 thumbnail: https://img.youtube.com/vi/2ssmUGoypCI/default.jpg
 blogger_id: tag:blogger.com,1999:blog-4494959587145446966.post-88754788597605807

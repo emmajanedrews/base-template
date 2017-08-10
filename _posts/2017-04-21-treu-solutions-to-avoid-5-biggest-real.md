@@ -12,7 +12,7 @@ title: Treu Solutions To Avoid The 5 Biggest Real Estate Pitfalls
 date: '2017-04-21T09:28:00.000-07:00'
 author: Alyssa Sisco
 tags:
-- WJNO Radio show
+- Radio Show
 modified_time: '2017-04-21T09:28:46.548-07:00'
 blogger_id: tag:blogger.com,1999:blog-4494959587145446966.post-1296138662477657097
 blogger_orig_url: http://videoblog.everypalmbeachcountylisting.com/2017/04/treu-solutions-to-avoid-5-biggest-real.html

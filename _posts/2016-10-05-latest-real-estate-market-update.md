@@ -12,7 +12,7 @@ title: Latest Real Estate Market Update
 date: '2016-10-05T10:38:00.001-07:00'
 author: liz@getvyral.com
 tags:
-- WJNO Radio show
+- Radio Show
 modified_time: '2016-10-05T10:38:53.901-07:00'
 blogger_id: tag:blogger.com,1999:blog-4494959587145446966.post-15204200947532564
 blogger_orig_url: http://videoblog.everypalmbeachcountylisting.com/2016/10/latest-real-estate-market-update.html

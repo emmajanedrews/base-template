@@ -1,5 +1,5 @@
 ---
-youtube_code: sAG3BlI4Jkg
+youtube_code: afYzTzcNUlE
 excerpt:
 enclosure:
 pullquote: OUR WEBSITE PULLS INFORMATION DIRECTLY FROM THE MLS.
@@ -12,14 +12,14 @@ title: Does Zillow Hurt Your Chances of Buying or Selling?
 date: 2017-06-07 19:06:00
 author: Alyssa Sisco
 tags:
+- Buying a Home
 modified_time:
 thumbnail: 'https://img.youtube.com/vi/sAG3BlI4Jkg/default.jpg'
 blogger_id: 'tag:blogger.com,1999:blog-4494959587145446966.post-6363106468135875930'
 blogger_orig_url: 'http://videoblog.everypalmbeachcountylisting.com/2017/06/the-truth-about-websites-like-zillow.html'
 ---
-
-
-{% include youtube.html %}Sites like Zillow, Realtor.com, and Trulia can be a challenge for buyers and sellers. Why?
+{% include youtube.html %}
+Sites like Zillow, Realtor.com, and Trulia can be a challenge for buyers and sellers. Why?
 
 Let’s say that you are buying a home and looking for your dream home on these sites. If you call the listing agent, **you will probably hear that the property has already sold.** That’s because there is a delay between what you see on those websites and what professional agents see. As real estate agents, we actually get a head start of up to seven days on the best properties.
 

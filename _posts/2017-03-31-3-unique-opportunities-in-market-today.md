@@ -12,7 +12,7 @@ title: 3 Unique Opportunities in the Market Today
 date: '2017-03-31T09:36:00.001-07:00'
 author: Alyssa Sisco
 tags:
-- 2017 Real Estate Market
+- Real Estate Market Info
 modified_time: '2017-04-12T07:27:59.426-07:00'
 thumbnail: https://img.youtube.com/vi/Y36GwtfZey4/default.jpg
 blogger_id: tag:blogger.com,1999:blog-4494959587145446966.post-4636435510148570121

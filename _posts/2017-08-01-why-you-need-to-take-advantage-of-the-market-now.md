@@ -3,7 +3,7 @@ layout: post
 title: Why You Need to Take Advantage of the Market Now
 date: 2017-08-01 10:18:27
 tags:
-  - 2017 Real Estate Market
+  - Real Estate Market Info
 excerpt: >-
   Rising interest rates mean now is the time for both buyers and sellers to make
   a move in our market.

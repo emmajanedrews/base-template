@@ -11,8 +11,8 @@ layout: post
 title: Saving Thousands of Dollars on Property Taxes
 date: '2016-10-12T09:05:00.000-07:00'
 author: liz@getvyral.com
-tags:
-- Treu Group Real Esate
+tags: 
+- Helpful Hints for Homeowners
 modified_time: '2016-10-14T12:36:32.238-07:00'
 thumbnail: https://img.youtube.com/vi/-TyvtDE7HD4/default.jpg
 blogger_id: tag:blogger.com,1999:blog-4494959587145446966.post-1240901705816457466

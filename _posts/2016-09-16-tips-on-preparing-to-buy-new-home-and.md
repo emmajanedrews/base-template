@@ -12,7 +12,7 @@ title: Tips on Preparing to Buy a New Home and Opportunities in a New Market
 date: '2016-09-16T08:08:00.000-07:00'
 author: liz@getvyral.com
 tags:
-- WJNO Radio show
+- Radio Show
 modified_time: '2016-09-16T08:10:45.065-07:00'
 blogger_id: tag:blogger.com,1999:blog-4494959587145446966.post-7126673770857933676
 blogger_orig_url: http://videoblog.everypalmbeachcountylisting.com/2016/09/tips-on-preparing-to-buy-new-home-and.html

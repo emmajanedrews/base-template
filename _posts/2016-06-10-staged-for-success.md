@@ -13,7 +13,7 @@ title: 'Staged For Success: Importance of Home Staging and Tips to Sell Your Hom
 date: '2016-06-10T09:17:00.000-07:00'
 author: liz@getvyral.com
 tags:
-- Home Seller Tips
+- Radio Show
 modified_time: '2016-06-13T08:26:10.979-07:00'
 blogger_id: tag:blogger.com,1999:blog-4494959587145446966.post-3719967021224523063
 blogger_orig_url: http://videoblog.everypalmbeachcountylisting.com/2016/06/staged-for-success.html

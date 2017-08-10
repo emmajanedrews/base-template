@@ -12,7 +12,7 @@ title: Will You Take Advantage of the 2017 Palm Beach Market?
 date: '2016-12-30T14:03:00.000-08:00'
 author: Alyssa Sisco
 tags:
-- 2017 Real Estate Market
+- Real Estate Market Info
 modified_time: '2017-01-26T10:53:46.340-08:00'
 thumbnail: https://img.youtube.com/vi/mnHu_RUf9fI/default.jpg
 blogger_id: tag:blogger.com,1999:blog-4494959587145446966.post-5447251803885717513
@@ -23,7 +23,7 @@ Three groups will have big opportunities in the 2017 Palm Beach real estate mark
 
 We believe there’s always a great opportunity to be had in the real estate market, and you just have to position yourself to take advantage of it. That’s why today, I wanted to talk a bit about some of the great opportunities that will be available in the Palm Beach market in 2017.
 
-**The first opportunity lies with people currently renting homes.** As a renter, your rent payment goes up when your landlord’s costs go up. By buying a house in 2017, you can lock in two things: your interest rate and your property taxes. If you rent, it’s time to get off the fence and into your new home. 
+**The first opportunity lies with people currently renting homes.** As a renter, your rent payment goes up when your landlord’s costs go up. By buying a house in 2017, you can lock in two things: your interest rate and your property taxes. If you rent, it’s time to get off the fence and into your new home.
 
 Move-up buyers also have big opportunities in 2017. Many homeowners have a home in a seller’s market price range, giving them the perfect chance to move up into their dream home. **If you own a house under $400,000, it’s likely the best time for you to take advantage of the record-low rates and the cooling luxury market.** You would be selling in a seller’s market and likely moving up to a buyer’s market.
 

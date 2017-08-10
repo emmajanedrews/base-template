@@ -12,7 +12,7 @@ title: What's Happening with PBC Real Estate Right Now
 date: '2017-05-08T10:10:00.000-07:00'
 author: Alyssa Sisco
 tags:
-- WJNO Radio show
+- Radio Show
 modified_time: '2017-05-08T10:10:22.439-07:00'
 blogger_id: tag:blogger.com,1999:blog-4494959587145446966.post-5439441128859905950
 blogger_orig_url: http://videoblog.everypalmbeachcountylisting.com/2017/05/whats-happening-with-pbc-real-estate.html

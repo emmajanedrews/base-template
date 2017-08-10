@@ -12,7 +12,7 @@ title: What's your Word? Discover your Word with Chris Pan from MyIntent.org.
 date: '2017-06-05T07:53:00.000-07:00'
 author: Alyssa Sisco
 tags:
-- WJNO Radio show
+- Radio Show
 modified_time: '2017-06-05T07:53:43.831-07:00'
 blogger_id: tag:blogger.com,1999:blog-4494959587145446966.post-1243059378077891912
 blogger_orig_url: http://videoblog.everypalmbeachcountylisting.com/2017/06/whats-your-word-discover-your-word-with.html

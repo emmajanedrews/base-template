@@ -12,7 +12,7 @@ title: International Interest In South Florida Is An Opportunity For You
 date: '2017-06-02T08:06:00.000-07:00'
 author: Alyssa Sisco
 tags:
-- WJNO Radio show
+- Radio Show
 modified_time: '2017-06-02T08:06:29.794-07:00'
 blogger_id: tag:blogger.com,1999:blog-4494959587145446966.post-6711840249216540315
 blogger_orig_url: http://videoblog.everypalmbeachcountylisting.com/2017/06/international-interest-in-south-florida.html

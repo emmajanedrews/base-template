@@ -12,7 +12,7 @@ title: Can You Still Get Financing After a Foreclosure?
 date: '2016-06-16T09:19:00.001-07:00'
 author: liz@getvyral.com
 tags:
-- palm beach foreclosures
+- Buying a Home
 modified_time: '2016-06-16T13:20:51.207-07:00'
 thumbnail: https://img.youtube.com/vi/7mJiTjlOVUo/default.jpg
 blogger_id: tag:blogger.com,1999:blog-4494959587145446966.post-4903585340154891996

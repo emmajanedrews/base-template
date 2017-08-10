@@ -12,7 +12,7 @@ title: Getting Down To Business With Kelly Smallridge
 date: '2017-02-24T09:34:00.000-08:00'
 author: Vyral Admin
 tags:
-- WJNO Radio show
+- Radio Show
 modified_time: '2017-02-24T09:34:07.957-08:00'
 blogger_id: tag:blogger.com,1999:blog-4494959587145446966.post-8130082163212468431
 blogger_orig_url: http://videoblog.everypalmbeachcountylisting.com/2017/02/getting-down-to-business-with-kelly_24.html

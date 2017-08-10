@@ -12,7 +12,7 @@ title: Tips for Buying a Home
 date: '2017-06-19T09:44:00.000-07:00'
 author: Alyssa Sisco
 tags:
-- WJNO Radio show
+- Radio Show
 modified_time: '2017-06-19T09:44:19.321-07:00'
 blogger_id: tag:blogger.com,1999:blog-4494959587145446966.post-7526353682034173870
 blogger_orig_url: http://videoblog.everypalmbeachcountylisting.com/2017/06/tips-for-buying-home.html

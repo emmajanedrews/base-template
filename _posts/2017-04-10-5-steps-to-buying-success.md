@@ -12,7 +12,7 @@ title: 5 Steps To Buying Success
 date: '2017-04-10T11:42:00.000-07:00'
 author: Alyssa Sisco
 tags:
-- Home Buyer Tips
+- Radio Show
 modified_time: '2017-04-10T11:42:12.082-07:00'
 blogger_id: tag:blogger.com,1999:blog-4494959587145446966.post-3766170717041717911
 blogger_orig_url: http://videoblog.everypalmbeachcountylisting.com/2017/04/5-steps-to-buying-success.html
