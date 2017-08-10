@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   There are four hidden costs that you should be mindful of when selling your
   home. Here’s how you can mediate them.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Rex+Jarnagin/Videos/2017/August/Elite+Home+Team-+4+Hidden+Costs+That+Can+Sneak+Up+on+You+When+Listing+Your+Home.mp4
 pullquote: >-
   Don’t go under contract on your new home until you’ve listed and begun selling
   your old one.
