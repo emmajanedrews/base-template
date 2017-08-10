@@ -1,7 +1,8 @@
 ---
 youtube_code: 0nPrQzZUx7A
 excerpt:
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/East+Bay+Real+Estate+Agent-+3+Home+Improvements+That+Add+the+Most+Value+(1).mp4
 pullquote: INSULATING YOUR ATTIC CAN NET YOU A 150% RETURN ON INVESTMENT.
 enclosure_type: video/mp4
 enclosure_time:
@@ -9,17 +10,18 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: These 3 Renovations Add the Most Value to Your Home
-date: '2016-10-17T14:40:00.003-07:00'
+date: 2016-10-17 21:40:00
 author: Vyral Admin
 tags:
-- East Bay Real Estate
-modified_time: '2016-10-17T14:40:57.983-07:00'
-thumbnail: https://img.youtube.com/vi/0nPrQzZUx7A/default.jpg
-blogger_id: tag:blogger.com,1999:blog-4704929661931063210.post-6187913951297225439
-blogger_orig_url: http://www.eastbayrealestatejournal.net/2016/10/east-bay-real-estate-agent-3-home.html
+modified_time:
+thumbnail: 'https://img.youtube.com/vi/0nPrQzZUx7A/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-4704929661931063210.post-6187913951297225439'
+blogger_orig_url: >-
+  http://www.eastbayrealestatejournal.net/2016/10/east-bay-real-estate-agent-3-home.html
 ---
-{% include youtube.html %}
-If you’re thinking about selling your home, you may be wondering which improvements will get you the best return on investment.
+
+
+{% include youtube.html %}If you’re thinking about selling your home, you may be wondering which improvements will get you the best return on investment.
 
 A couple of weeks ago, we sent out an email asking all of you to send us your questions about real estate and, overwhelmingly, the most asked question was, “Which additions or enhancements to my home will get me the best return on investment?” Here are my top three picks:
 
