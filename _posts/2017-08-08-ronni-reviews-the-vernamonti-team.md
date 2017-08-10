@@ -8,7 +8,7 @@ pullquote: 'Andross, the Final Boss'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/square-logo-1.jpg
+youtube_alternate_image: /uploads/square-logo-1-1.jpg
 youtube_code: uieM18rZdHY
 ---
 
