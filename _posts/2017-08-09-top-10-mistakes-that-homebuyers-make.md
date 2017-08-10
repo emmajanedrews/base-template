@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: qa3C2OZi9FI
+youtube_code: MG0x7wVkx7c
 ---
 
 
@@ -25,7 +25,7 @@ Today I wanted to take some time to lay out the 10 mistakes that I see homebuyer
 
 **2. Forgetting about the costs involved in buying a home.** The price tag on the home isn’t the only cost you’ll run into. I will go over all the other costs involved with you so that you know that you’re ready to buy a home.
 
-**3. Not getting approved for a home loan.&nbsp;**You don’t want to put the cart before the horse—you have to know exactly what you’re comfortable with price-wise in order to create an offer. It’s also good to work with lenders that are local. They hold a bit more ground than online banks.
+**3. Not getting approved for a home loan.**You don’t want to put the cart before the horse—you have to know exactly what you’re comfortable with price-wise in order to create an offer. It’s also good to work with lenders that are local. They hold a bit more ground than online banks.
 
 **4. Not budgeting properly for your monthly payment.** It’s not the goal to become house poor. It’s my job as your buyer’s agent to remind you of where you stand within your comfort level and not move into a price range that you may not be able to afford in monthly payments.
 
