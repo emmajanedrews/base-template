@@ -1,7 +1,8 @@
 ---
 youtube_code: 9aUEDDCjKMk
 excerpt:
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/East+Bay+Real+Estate+Agent-+Should+You+Accept+a+Contingent+Offer%253F.mp4
 pullquote: CONTINGENT OFFERS CAN POTENTIALLY BE BETTER THAN OTHERS.
 enclosure_type: video/mp4
 enclosure_time:
@@ -9,17 +10,18 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: Should You Accept a Contingent Offer from a Buyer?
-date: '2016-09-26T14:09:00.000-07:00'
+date: 2016-09-26 21:09:00
 author: Vyral Admin
 tags:
-- East Bay Real Estate Seller Tips
-modified_time: '2016-09-28T14:51:34.374-07:00'
-thumbnail: https://img.youtube.com/vi/9aUEDDCjKMk/default.jpg
-blogger_id: tag:blogger.com,1999:blog-4704929661931063210.post-6584973797253576749
-blogger_orig_url: http://www.eastbayrealestatejournal.net/2016/09/east-bay-real-estate-agent-should-you.html
+modified_time:
+thumbnail: 'https://img.youtube.com/vi/9aUEDDCjKMk/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-4704929661931063210.post-6584973797253576749'
+blogger_orig_url: >-
+  http://www.eastbayrealestatejournal.net/2016/09/east-bay-real-estate-agent-should-you.html
 ---
-{% include youtube.html %}
-When deciding whether to accept a contingent offer, there are a few questions you should ask first.
+
+
+{% include youtube.html %}When deciding whether to accept a contingent offer, there are a few questions you should ask first.
 
 Let’s say you’ve got your home for sale on the market and you receive an offer from a buyer that is contingent on them selling their existing home. Should you accept it?
 
