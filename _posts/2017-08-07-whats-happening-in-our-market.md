@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/no-pb-28.jpg
-youtube_code: kMWj9VJJ48M
+youtube_code: Q64hTYSNGMg
 ---
 
 
@@ -28,7 +28,7 @@ Since fewer distressed sales mean a lowered likelihood of short sales or foreclo
 
 However, our momentum may slow down due to low supply. These supply levels simply may not be able to keep pace with the buyer demand that could carry us through the summer.
 
-**National Association of Realtors Chief Economist Lawrence Yun has noted that "Sellers are in the driver’s seat…."**
+**National Association of Realtors Chief Economist Lawrence Yun has been saying that sellers are absolutely in the driver’s seat.**
 
 As a result of hot competition among buyers, we’re definitely seeing stronger offers coming out. Buyers are showing resilience, but inventory is simply too low.
 
