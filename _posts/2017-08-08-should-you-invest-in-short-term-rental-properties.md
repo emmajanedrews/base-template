@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Are you thinking of buying an investment property for short term rentals? I
   have a couple of things for you to consider when making your decision.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Scott+Hollinger/Montana+Real+Estate++The+Hollinger+Team+Should+you+invest+in+short-term+rentals.mp4
 pullquote: You need to have an exit strategy in case it doesn’t work out for you.
 enclosure_type: video/mp4
 enclosure_time:
