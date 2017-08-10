@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   With housing prices slowing down, a lot of people are asking themselves if
   there is a meltdown coming in the housing market.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+Is+a+meltdown+coming%253F.mp4
 pullquote: The market is cyclical and there will always be ups and downs.
 enclosure_type: video/mp4
 enclosure_time:
