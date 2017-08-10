@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Ronni Reviews The Vernamonti Team!
+title: Ronni Reviews the Wendy Sells Florida Team!
 tags:
-excerpt: Ronni Reviews The Vernamonti Team!
+excerpt: Ronni Reviews the Wendy Sells Florida Team!
 enclosure:
 pullquote: 'Andross, the Final Boss'
 enclosure_type: video/mp4
