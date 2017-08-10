@@ -2,10 +2,6 @@
 layout: post
 title: Ronni Reviews The Vernamonti Team!
 tags:
-  - Market Update
-  - Real Estate
-  - Buyer Tips
-  - Home Seller Tips
 excerpt: Ronni Reviews The Vernamonti Team!
 enclosure:
 pullquote: 'Andross, the Final Boss'
