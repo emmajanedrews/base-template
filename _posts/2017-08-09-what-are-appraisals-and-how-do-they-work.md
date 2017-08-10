@@ -35,15 +35,14 @@ However, **regulations now typically require a third-party appraisal company to 
 
 {% include pullquote.html %}
 
-So what exactly does the appraisal do? Well, outside of simply determining value, it can also impact the transaction. If the appraisal is lower than the amount offered by the buyer and accepted by the seller, the buyer may not be able to bower as much as you may need for the mortgage.
+So what exactly does the appraisal do? Well, outside of simply determining value, it can also impact the transaction. If the appraisal is lower than the amount offered by the buyer and accepted by the seller, the buyer may not be able to borrow as much as they may need for the mortgage.
 
 This is why it’s so important that your Realtor’s market value is very thorough before you even order an appraisal.
 
 The seller can also be affected. Even though a seller may price a property however they want, regardless of an appraisal, it would be difficult to find a cash buyer willing to pay any amount.
 
-This isn’t often the case. In most cases, buyers need mortgages; and, as I mentioned earlier, **an appraisal must be of sufficient value to support the purchase price.**
+This isn’t often the case. In most cases, buyers need mortgages, and as I mentioned earlier, **an appraisal must be of sufficient value to support the purchase price.**
 
 If an appraiser can’t justify a value, the seller will often have to reduce the value or the buyer will need to supplement the price with cash. Situations like these, if not handled correctly, can lead to a broken deal.
 
-If you have any other questions or would like more information, feel free to give me a call or send me an email.
-<br>
+If you have any other questions or would like more information, feel free to give me a call or send me an email, I would be happy to help you!
