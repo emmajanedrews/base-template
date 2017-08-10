@@ -1,6 +1,9 @@
 audit_header: false
 title:
-description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
+description: >-
+  If you are looking to buy or sell a home, get all the information and the
+  latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+  -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
@@ -8,7 +11,12 @@ custom_links:
 client:
   name: Travis Chatwin
   license_number:
-  about_markdown: "Travis Chatwin Real Estate is comprised of a team of local real estate professionals committed to selling some of the most desired homes in Greater San Diego. Let us know what you're looking for. Please take advantage of the helpful tools on this website, including our exclusive Greater San Diego Real Estate search, but also feel free to contact us personally."
+  about_markdown: >-
+    Travis Chatwin Real Estate is comprised of a team of local real estate
+    professionals committed to selling some of the most desired homes in Greater
+    San Diego. Let us know what you're looking for. Please take advantage of the
+    helpful tools on this website, including our exclusive Greater San Diego
+    Real Estate search, but also feel free to contact us personally.
   market: San Diego
   brand: Beach and Sun Homes
   brokerage: A Division of Aaron Roth Real Estate
@@ -26,7 +34,7 @@ CTAs:
   second_CTA_URL: 'https://www.beachandsunhomes.com/results-gallery/?sort=importdate&photo=1'
   VR_form: 'http://oi.vresp.com?fid=2aa61a049f'
 sidebar_CTA:
-  CTA_image_path: /img/cta-images/002.jpg
+  CTA_image_path: /uploads/dji-0013.jpg
   CTA_title: Looking to Buy a Home?
   CTA_text: Search the entire MLS for homes located in -- MARKET --.
   CTA_link_text: Home Search Tool
@@ -34,8 +42,8 @@ sidebar_CTA:
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
+    Our mission at -- CLIENT BRAND -- is to be your best resource for real
+    estate advice. Whether you are a buyer, seller, or investor, our team of
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
@@ -49,21 +57,35 @@ socials:
   instagram_url:
   pinterest_url:
   zillow_url: 'http://www.zillow.com/profile/1travischatwin/'
-  trulia_url: 'https://www.trulia.com/profile/travis-chatwin-agent-solana-beach-ca-zg15b7yb/overview'
+  trulia_url: >-
+    https://www.trulia.com/profile/travis-chatwin-agent-solana-beach-ca-zg15b7yb/overview
   yelp_url:
-  podcast_url: 'https://itunes.apple.com/us/podcast/san-diego-real-estate-podcast-with-travix-chatwin/id1235677414?mt=2'
+  podcast_url: >-
+    https://itunes.apple.com/us/podcast/san-diego-real-estate-podcast-with-travix-chatwin/id1235677414?mt=2
 podcast:
   title: San Diego Real Estate Podcast With Travix Chatwin
   categories:
     - Education
   image: 'http://i.imgur.com/4C18r6h.jpg'
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the -- MARKET
+    -- Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+    -- MARKET -- Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in -- MARKET --,
+    home selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
   author: '-- CLIENT NAME --'
 images:
   client_headshot_path: /img/headshot.jpg
-  hero_logo_path: /uploads/chatwin-double-logo-with-tagline-and-white-for-blog-edited-5-9-17white.png
+  hero_logo_path: >-
+    /uploads/chatwin-double-logo-with-tagline-and-white-for-blog-edited-5-9-17white.png
   logo_width_number: 40
   hero_text:
   hero_background_hex: '#737373'
