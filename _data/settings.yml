@@ -1,6 +1,6 @@
 audit_header: false
 title:  J. Qualley & Associates Video Blog
-description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
+description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Jeremy Qualley - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
   - title:
@@ -71,7 +71,7 @@ socials:
   facebook_url: https://www.facebook.com/JeremyQ.SKRealty/
   linkedin_url: https://www.linkedin.com/in/jeremyqualley/
   gplus_url: https://plus.google.com/u/0/b/109815595532751966109
-  youtube_url:
+  youtube_url: https://www.youtube.com/channel/UCFmsVrYJjvLp8uAwMx-hoqw
   twitter_url: https://twitter.com/JeremyQualley
   instagram_url:
   pinterest_url:
