@@ -41,7 +41,7 @@ First, we need to explain the benefits of conventional loans vs. FHA loans. If y
 
 However, the advantage of the FHA loan is that low down payment. When you combine the FHA loan program with Utah housing programs, you can get into a house for no money down.
 
-Luckily, Mandy has a tool that will help you get a conventional loan **and pay even less money out of pocket for a home than you would with an FHA loan.**
+Luckily, Mandi has a tool that will help you get a conventional loan **and pay even less money out of pocket for a home than you would with an FHA loan.**
 
 {% include pullquote.html %}
 
