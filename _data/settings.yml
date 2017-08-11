@@ -1,6 +1,9 @@
 audit_header: false
 title: Steen Realty Group
-description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
+description: >-
+  If you are looking to buy or sell a home, get all the information and the
+  latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+  -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
@@ -8,17 +11,21 @@ custom_links:
 client:
   name: Breanne Steen
   license_number:
-  about_markdown: >
+  about_markdown: >-
     Breanne is respected by her clients for her hard work, dedication and
     attention to detail. In fact, many of her clients have used her for multiple
     transactions and have referred friends and family, which she considers to be
-    the highest form of compliment. <br><br>Representing buyers and sellers in
-    her market, Breanne has amassed numerous awards for “Top Producer”
-    acknowledging her outstanding sales achievements.
+    the highest form of compliment.
+
+    <br>
+
+    <br>Representing buyers and sellers in her market, Breanne has amassed
+    numerous awards for “Top Producer” acknowledging her outstanding sales
+    achievements.
   market: Ventura County
   brand: Steen Realty Group
   brokerage: Keller Williams
-  address: '2655 First St, Suite 150<br>Simi Valley, CA 93065'
+  address: '30700 Russell Ranch Rd, Suite 200<br>Westlake Village, CA 91362'
   phone: 805-551-3854
   phone_type:
   phone2:
@@ -40,8 +47,8 @@ sidebar_CTA:
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
+    Our mission at -- CLIENT BRAND -- is to be your best resource for real
+    estate advice. Whether you are a buyer, seller, or investor, our team of
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
@@ -55,17 +62,30 @@ socials:
   instagram_url:
   pinterest_url: 'http://www.pinterest.com/breannesteen'
   zillow_url: 'http://www.zillow.com/profile/Breanne.Steen'
-  trulia_url: 'https://www.trulia.com/profile/breanne-steen-agent-simi-valley-ca-zgdmx1g7/overview'
+  trulia_url: >-
+    https://www.trulia.com/profile/breanne-steen-agent-simi-valley-ca-zgdmx1g7/overview
   yelp_url: 'https://www.yelp.com/biz/breanne-steen-realtor-simi-valley'
-  podcast_url: 'https://itunes.apple.com/us/podcast/steen-realty-group-podcast/id1212974767?mt=2'
+  podcast_url: >-
+    https://itunes.apple.com/us/podcast/steen-realty-group-podcast/id1212974767?mt=2
 podcast:
   title: Steen Realty Group Podcast
   categories:
     - Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the -- MARKET
+    -- Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+    -- MARKET -- Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in -- MARKET --,
+    home selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
   author: '-- CLIENT NAME --'
 images:
   client_headshot_path: /img/headshot.jpg
