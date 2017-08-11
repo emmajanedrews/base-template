@@ -20,9 +20,9 @@ client:
   phone2:
   phone2_type:
   email: Clint@nealteam.com
-  email_type: Clint
+  email_type: Email
   email2: Shane@nealteam.com
-  email2_type: Shane
+  email2_type: Email
   url: https://www.mysanantoniohomesearch.com
 
 CTAs:
