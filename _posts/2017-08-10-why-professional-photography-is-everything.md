@@ -22,7 +22,7 @@ youtube_code: bLgZNE7t5es
 
 **Your home is your most valuable asset,** and professional photography is essential to featuring it in its best light. 90% to 95% of homebuyers start their home search online, and you only get one chance to make a great impression.
 
-**The photos of your home that you post online will determine whether or not a buyer wants to come see your home in person or not.** Make sure that your agent uses HD photography to showcase your home, and never use an iPhone or other mobile device to take photos. If you do, your photos may look grainy or small when you post them online.
+**The photos of your home that you post online will determine whether or not a buyer wants to come see your home in person.** Make sure that your agent uses HD photography to showcase your home, and never use an iPhone or other mobile device to take photos. If you do, your photos may look grainy or small when you post them online.
 
 {% include pullquote.html %}
 
