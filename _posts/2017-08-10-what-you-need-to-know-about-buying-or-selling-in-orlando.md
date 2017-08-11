@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/no-pb-30.jpg
-youtube_code: q4FmVwyNeRI
+youtube_code: rMnSi1Sepx0
 ---
 
 
@@ -39,7 +39,7 @@ As the saying goes: **“It’s all about location, location, location.”** So 
 
 First of all, get a solid grip on your finances and speak to a real estate professional before you start looking. The market is very competitive right now, so your financing needs to be in order before you find a home you’re interested in. Submitting an offer right away is critical.
 
-Even Consumer Corner Host Danielle Knox, who has bought eight homes, was surprised by just how competitive the market was when she first moved here to Central Florida.
+Even "Consumer Corner" host Danielle Knox, who has bought eight homes, was surprised by just how competitive the market was when she first moved here to Central Florida.
 
 If you’re a buyer, don’t be discouraged. There is a lot of competition in our market but there’s also a lot of opportunity.
 
