@@ -3,8 +3,10 @@ layout: post
 title: How Accurate Is Zillow's Zestimate?
 date: 2017-08-10 00:00:00
 tags:
+  - Real Estate
 excerpt: You may have heard of Zillow’s Zestimate feature—but is it accurate?
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Mike+Gray/Videos/Houston+Real+Estate+Agent-+Think+Twice+Before+Trusting+Zillow%2527s+Zestimate.mp4
 pullquote: >-
   If you truly want to determine your home’s value, you’ll need professional
   help.
