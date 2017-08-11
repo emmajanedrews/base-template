@@ -34,7 +34,7 @@ For now, though, here are four hidden costs you may incur during the selling pro
 
 {% include pullquote.html %}
 
-**2. Closing costs:** this is where our net sheet comes in handy. Take title insurance, for example. This is usually the seller’s responsibility to pay to ensure the title is free and clear. Another closing cost is the HOA status transfer fee. Both of these costs can be substantial, and there are quite a few smaller costs that come with the contract, so make sure you know what they are.
+**2. Closing costs:**This is where our net sheet comes in handy. Take title insurance, for example. This is usually the seller’s responsibility to pay to ensure the title is free and clear. Another closing cost is the HOA status transfer fee. Both of these costs can be substantial, and there are quite a few smaller costs that come with the contract, so make sure you know what they are.
 
 **3. Moving expenses:** Sometimes sellers just don’t consider what it will cost them to move. There will be moving expenses whether you’re hiring a moving company or doing it yourself. Get an estimate so you’re aware of what your moving expenses will be.
 
