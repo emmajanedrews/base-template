@@ -1,6 +1,6 @@
 audit_header: false
 title: '-- CLIENT BRAND --'
-description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
+description: 'If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND -- , your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: true
 custom_links:
   - title: Neighborhood Finder
@@ -18,21 +18,21 @@ client:
   phone: 832-428-6453
   phone_type: Cell
   phone2: 713-341-1763
-  phone2_type: Direct
+  phone2_type: Office
   email: Mike@TheMikeGrayTeam.com
   url: 'http://www.homesfromhouston.com'
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://www.yourhoustonhomesearch.com/homevalue/houston'
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://www.yourhoustonhomesearch.com'
+  second_CTA_URL: 'http://www.yourhoustonhomesearch.com/search'
   VR_form: http://oi.vresp.com?fid=6527c6308e
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/005.jpg
     CTA_title: Looking to Buy a Home?
     CTA_text: Search the entire MLS for homes located in -- MARKET --.
     CTA_link_text: Home Search Tool
-    CTA_url: 'http://www.yourhoustonhomesearch.com'
+    CTA_url: 'http://www.yourhoustonhomesearch.com/search'
 lender:
   show_section: false
   header_text: Preferred Lender
@@ -47,7 +47,7 @@ lender:
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
+    Our mission at the -- CLIENT BRAND -- is to be your best resource for real estate
     advice. Whether you are a buyer, seller, or investor, our team of
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
@@ -71,7 +71,7 @@ podcast:
     - Education
   image: http://i.imgur.com/CAs1AFf.png
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
+  description: 'If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from the -- CLIENT BRAND -- , your professional -- MARKET -- Real Estate Agents.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
   author: '-- CLIENT NAME --'
 images:
