@@ -24,9 +24,9 @@ youtube_code: JmaQBOS3zCY
 
 When people are preparing their homes for sale, there are a lot of things that can go wrong. Today, I’ll be going over five of the biggest and most common mistakes people tend to make during this process.
 
-It’s no secret that preparing your home for market can be stressful. However, knowing how to avoid mistakes before you make them will make a huge difference.
+It’s no secret that preparing your home for the market can be stressful. However, knowing how to avoid mistakes before you make them will make a huge difference.
 
-The first common mistake we see is overpricing. **A correctly-priced house, even one with a poor marketing plan, will always sell above one that is overpriced.**
+The first common mistake we see is overpricing. **A correctly priced house, even one with a poor marketing plan, will always sell above one that is overpriced.**
 
 Next, don’t wait until after you list to make necessary, simple repairs around the property. Trying to fix these things once a home is already on the market will make things much more stressful than they should be.
 
