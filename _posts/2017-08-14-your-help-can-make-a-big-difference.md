@@ -17,7 +17,7 @@ youtube_code: wIc77s8kgmU
 ---
 
 
-&nbsp;
+{% include youtube.html %}
 
 Recently, Scott and I were joined by Aaron Morgan from Academy Mortgage.&nbsp;
 
@@ -27,11 +27,13 @@ The Academy Mortgage Foundation is what Aaron describes as an opportunity to giv
 
 From the end of August until the first part of September, he and members of his team will be in Africa doing just that: giving back.
 
-Aaron wants to spread the word about what he’s doing and how you can help. If you’d like to donate, you can click here[link] to do so. Anything helps.
+Aaron wants to spread the word about what he’s doing and how you can help. If you’d like to donate, you can click here[link] to do so. **Anything helps**.
+
+{% include pullquote.html %}
 
 As a partner to Academy Mortgage, Colemere Realty is happy for the opportunity to promote this opportunity to make a difference.&nbsp;
 
-We also accept drop-off donations at our office. We accept anything from clothing to shoes to books, and a number of other necessary items.
+**We also accept drop-off donations at our office**. We accept anything from clothing to shoes to books, and a number of other necessary items.
 
 Ultimately, we have seen how charitable our friends, clients, and colleagues have been in the past and continue to be today. We appreciate your willingness to give.
 
