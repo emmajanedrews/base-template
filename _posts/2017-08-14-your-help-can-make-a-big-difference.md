@@ -21,7 +21,7 @@ youtube_code: wIc77s8kgmU
 
 Recently, Scott and I were joined by Aaron Morgan from Academy Mortgage.&nbsp;
 
-On a recent trip to Africa that Scott and I took with our family members, we gathered donations for an underprivileged school. Aaron and Academy mortgage will soon be doing similar work, but on a much larger scale.
+On a recent trip to Africa that Scott and I took with our family members, we gathered donations for an underprivileged school. Aaron and Academy Mortgage will soon be doing similar work, but on a much larger scale.
 
 The Academy Mortgage Foundation is what Aaron describes as an opportunity to give back.&nbsp;
 
