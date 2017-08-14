@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Do the Latest Numbers Say About Our National Market?
-date:
+date: 2017-08-14 14:48:35
 tags:
   - Market Update
 excerpt: >-
