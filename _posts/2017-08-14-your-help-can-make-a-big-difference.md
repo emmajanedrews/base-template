@@ -27,7 +27,7 @@ The Academy Mortgage Foundation is what Aaron describes as an opportunity to giv
 
 From the end of August until the first part of September, he and members of his team will be in Africa doing just that: giving back.
 
-Aaron wants to spread the word about what he’s doing and how you can help. If you’d like to donate, you can click here[link] to do so. **Anything helps**.
+Aaron wants to spread the word about what he’s doing and how you can help. If you’d like to donate, you can click [**here**](https://academymortgagefoundation.org/)&nbsp;to do so. **Anything helps**.
 
 {% include pullquote.html %}
 
