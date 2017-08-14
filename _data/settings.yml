@@ -7,41 +7,42 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Karlyn Ellis
   license_number:
   about_markdown: |
+    A Native Californian, Karlyn moved to Texas in 1994 and never looked back. In 1999, she began her career in real estate. After having worked for several different brokerages in town and gaining extensive knowledge of the industry, she decided it was time to start her own brokerage, and that is where Prosper Properties was born! Since its beginning in 2012, Prosper Properties has been a local stand out agency in Hays County, boasting over 30 real estate agents that specialize in the Buda, Kyle, San Marcos and Austin areas.  Karlyn and her team have the knowledge, the wisdom and the experience to get your home sold quickly and for maximum profit. Call her today, you will not be disappointed.
 
-  market:
-  brand:
+  market: Buda
+  brand: Prosper Properties Realty Services
   brokerage:
-  address:
-  phone:
+  address: 305 Railroad Street, Ste A <br> Buda, TX 78610
+  phone: (512) 658-6476
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: karlyn@prosperprops.com
+  url: http://www.prosperprops.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.BudaKyleHomeValues.com
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.ProsperProps.com
   VR_form:
 
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/004.jpg
+  - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free -- MARKET -- Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.BudaKyleHomeValues.com
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://www.ProsperProps.com
 
 lender:
   show_section: false
@@ -66,16 +67,16 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/TheEllisTeamWithProsperProperties
+  linkedin_url: https://www.linkedin.com/in/karlyn-ellis-3093b424
+  gplus_url: https://plus.google.com/102712706683570003304
+  youtube_url: https://www.youtube.com/user/ProsperProperties
+  twitter_url: https://twitter.com/The_Ellis_Team
   instagram_url:
   pinterest_url:
-  zillow_url:
+  zillow_url: https://www.zillow.com/profile/karlyn55/#reviews
   trulia_url:
-  yelp_url:
+  yelp_url: https://www.yelp.com/biz/prosper-properties-buda
   podcast_url:
 
 podcast:
@@ -90,14 +91,14 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 60
   hero_text: -- MARKET -- Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#4389A2'
+  theme_color: '#1A0C04'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
