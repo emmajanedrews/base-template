@@ -22,7 +22,7 @@ youtube_code: LfupZTVqPYc
 
 Are backup offers effective?
 
-In the past, we didn’t often suggest that people utilize backup offers. Often, backup offers may not even be considered next to the offers of other buyers.
+In the past, we didn’t generally suggest that people utilize backup offers. Often, backup offers may not even be considered next to the offers of other buyers.
 
 Additionally, backup buyers tend to keep looking even after having made an offer. In general, backup offers were kind of a waste of time.
 
@@ -30,7 +30,7 @@ However, some things have recently changed in our Portland/Vancouver market. **R
 
 {% include pullquote.html %}
 
-In fact, we’ve got less than two months on the market. With as few options as there are, backup deals must sometimes be considered. The lack of choices has also lead buyers to feel nervous about settling on a particular deal.
+In fact, we’ve got less than two months of inventory on the market. With as few options as there are, backup deals must sometimes be considered. The lack of choices has lead buyers to feel nervous about settling on a particular deal.
 
 The low inventory has also contributed to a lot of bidding wars. **Ironically, sometimes when a buyer wins a bidding war, they will experience buyer’s remorse** and feel as if they’ve spent too much. At this point, some buyers will simply back out.
 
