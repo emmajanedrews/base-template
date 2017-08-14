@@ -42,7 +42,7 @@ However, paying 20% isn’t necessary. **There are many loan programs out there,
 
 This is especially important because your down payment isn’t the only money required in the transaction. You will also need money for your closing costs. These closing costs include several different fees associated with buying a home, but the good news is that you can negotiate.
 
-However, this will depend on circumstance. **If you are in a multiple offer situation, the seller will feel less of an obligation to negotiate in your favor.**Ultimately, your loan officer and agent will be able to help you determine the right way to navigate this situation.
+However, this will depend on circumstance. If you are in a multiple offer situation, the seller will feel less of an obligation to negotiate in your favor. Ultimately, your loan officer and agent will be able to help you determine the right way to navigate this situation.
 
 Finally, the fifth thing you’ll need to buy a home is money for the home inspector. This cost will depend on the size of the home and be taken out of pocket.
 
