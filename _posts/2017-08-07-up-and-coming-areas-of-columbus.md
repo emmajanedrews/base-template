@@ -22,7 +22,7 @@ youtube_code: YQazpUi1hns
 
 There are a lot of up-and-coming areas here in Columbus, but we wanted to focus on three of them in particular today. These are the areas where we’re seeing a ton of increased activity as of late.
 
-**1. Weiland Park.** Besides all of the new development there, the university is putting a lot of money in this area by buying vacant buildings and renovating them. First-time buyers have been offered grants to purchase in the area at a discount.
+**1. Weinland Park.** Besides all of the new development there, the university is putting a lot of money in this area by buying vacant buildings and renovating them. First-time buyers have been offered grants to purchase in the area at a discount.
 
 {% include pullquote.html %}
 
