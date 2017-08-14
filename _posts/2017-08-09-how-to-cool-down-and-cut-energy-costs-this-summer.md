@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Cool Down and Cut Energy Costs This Summer
-date: 2017-08-09 14:56:46
+date: 2017-08-09 14:56:00
 tags:
   - Real Estate
 excerpt: >-
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/travis-chatwin-9-ways-to-stay-cool-and-cut-costs-youtube.jpg
-youtube_code: 'https://youtu.be/_-4oe_yLxbw'
+youtube_code: 'https://youtu.be/xye_B1kGldM'
 ---
 
 
@@ -29,7 +29,7 @@ If you have the budget, you can even replace your windows with retrofit windows.
 
 **2. Close the shades.** If you have direct sunshine coming in your house during the morning or evening, your home will be warmer. Just keeping your shades closed at those times of the day will drastically reduce your home’s temperature and help keep energy costs down. At the very least, make sure that you keep the shades closed while you’re at work so your home will stay cool during the day.
 
-**3. Clean your air conditioning filters.&nbsp;**Clean your filters every month, especially during the summer when your AC is running most of the time.
+**3. Clean your air conditioning filters.**Clean your filters every month, especially during the summer when your AC is running most of the time.
 
 **4. Program the thermostat.** If you aren’t home for most of the day, your home doesn’t need to be as cool as it is when you are there. During the day, raise the temperature just a little bit. Take advantage of those smart thermostats and let them work for you in your home.
 
