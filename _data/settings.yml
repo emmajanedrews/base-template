@@ -20,13 +20,13 @@ client:
   phone2: 1-866-844-4102
   phone2_type: Office
   email: scase@fscadvisor.com
-  url: http://www.financial-independence.com
+  # url: http://www.financial-independence.com
 
 CTAs:
   first_CTA_text: Get Your Free eBook
   first_CTA_URL: http://michigan401kadvisors.com
   second_CTA_text: Schedule a Consultation
-  second_CTA_URL: http://www.financial-independence.com/contact
+  second_CTA_URL: http://michigan401kadvisors.com/contact
   VR_form: http://oi.vresp.com?fid=4e1782c081
 
 sidebar_CTA:
