@@ -23,7 +23,7 @@ If you’ve been considering selling your home, now is the time to do it. This s
 
 However, this moment won’t last forever.
 
-Mortgage rates are still very low. Right now, the 30-year mortgage rate has dipped to 3.9%, which is far from the 4.5% experts predicted for 2017. These continuing low mortgage rates translate into more affordable homes and eager buyers looking to lock in these low rates while they last.
+Mortgage rates are still very low. Right now, the 30-year mortgage rate has dipped to 3.9%, which is far from the 4.5% experts predicted for 2017. These continuing low mortgage rates translate into more affordable homes and eager buyers looking to lock in these low rates while they last.&nbsp;
 
 We’ve seen this eagerness in action lately. Demand is so strong that home sales actually increased in both April and May, despite the fact that the supply of homes on the market is currently at a seven-year low. As a result of strong demand and tight inventory, home prices reached a record high this May, rising 6% compared to May 2016. It was the 63rd straight month of year-over-year gains.
 
