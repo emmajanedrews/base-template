@@ -4,14 +4,17 @@ title: Tips for First-Time Homebuyers
 date: 2017-07-28 00:00:00
 tags:
   - Home Buyer Tips
-excerpt: 'If you’re buying a home for the first time, I have a few tips to help guide you through the process.'
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Dave+Silva/Roseville+Real+Estate+Tips+for+first-time+homebuyers.mp4'
+excerpt: >-
+  If you’re buying a home for the first time, I have a few tips to help guide
+  you through the process.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Dave+Silva/Roseville+Real+Estate+Tips+for+first-time+homebuyers.mp4
 pullquote: It’s best to work with a local lender rather than an online lender.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: pqlXOF5439I
+youtube_code: KxNHUuNDAkk
 ---
 
 
