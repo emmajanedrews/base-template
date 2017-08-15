@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   What’s happening in the Central Pennsylvania market right now? Does the market
   favor buyers or sellers?
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Andrew+Kronenberg+/Central+Pennsylvania+Real+Estate-+What%2527s+Happening+in+Our+Local+Market%253F.mp4
 pullquote: Low inventory and high demand place us firmly in a seller’s market.
 enclosure_type: video/mp4
 enclosure_time:
