@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tips for Being a Prepared Buyer in a Seller's Market
-date: 2017-08-15 14:51:29
+date: 2017-08-15 14:51:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -13,7 +13,7 @@ pullquote: >-
   success.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/andrew-kronenberg-how-to-be-a-prepared-buyer-youtube.jpg
 youtube_code: 'https://youtu.be/ckrzKyOfSt4'
 ---
@@ -27,7 +27,7 @@ First of all, get pre-qualified. This is a critical step. I’d be more than hap
 
 Do keep in mind, though, **to not deviate too much in your spending habits during your qualification period.** Large purchases, like a new car, or purchases outside of your routine can vastly influence the outcome of the qualification period.
 
-<br>Your lender will qualify you at the uppermost level you can afford based on your debt and income, but take care to also alert them of your comfort level. **You should always be comfortable with what you’re going to be spending.** This is an extremely important factor.
+Your lender will qualify you at the uppermost level you can afford based on your debt and income, but take care to also alert them of your comfort level. **You should always be comfortable with what you’re going to be spending.** This is an extremely important factor.
 
 {% include pullquote.html %}
 
