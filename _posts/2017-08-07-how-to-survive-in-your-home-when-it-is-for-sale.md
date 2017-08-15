@@ -1,13 +1,14 @@
 ---
 layout: post
 title: How to Survive in Your Home When It Is for Sale
-date: 2017-08-07 15:39:15
+date: 2017-08-07 15:39:00
 tags:
   - Home Seller Tips
 excerpt: >-
   How do you live in a home you’ve already listed for sale? Follow these five
   tips:
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+How+to+Survive+in+Your+Home+When+It+Is+for+Sale.mp4
 pullquote: 'A clean house can gain you $5,000 to $10,000 on your home sale.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -33,4 +34,4 @@ How do you live in a home you’ve already listed for sale? Follow these five ti
 
 **5. Hire a real estate stylist.** Real estate stylists are essential when your home is for sale, so ask your agent to recommend one. They help with furniture placement and can help confirm that a home is best prepared for showings. We have found that a furnished home sells faster. Ask your agent or stylist for recommendations on renting furniture if needed.
 
-If you have any questions about this topic or how I can help you capitalize on our market, don’t hesitate to call or email me. I’d be glad to help. &nbsp;
+If you have any questions about this topic or how I can help you capitalize on our market, don’t hesitate to call or email me. I’d be glad to help.
