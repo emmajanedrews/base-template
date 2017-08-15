@@ -1,8 +1,6 @@
 ---
 layout: post
-title: >-
-  Memphis Real Estate Agent: Smooth Out Your New Construction Home Purchase With
-  These Tips
+title: Smooth Out Your New Construction Home Purchase With These Tips
 date: 2017-08-15 11:00:00
 tags:
   - Home Buyer Tips
