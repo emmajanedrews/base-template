@@ -20,7 +20,7 @@ client:
   phone2:
   phone2_type:
   email: adam@standardmortgagecompany.com
-  url: standardmortgagecompany.com
+  url: http://standardmortgagecompany.com/
 
 CTAs:
   first_CTA_text: Apply Now
