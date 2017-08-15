@@ -4,8 +4,11 @@ title: How To Obtain Top Dollar When Selling Your Home
 date: 2017-07-21 10:20:00
 tags:
   - Home Seller Tips
-excerpt: 'In order to get top dollar in today’s marketplace, there are a few simple steps you can take.'
-enclosure:
+excerpt: >-
+  In order to get top dollar in today’s marketplace, there are a few simple
+  steps you can take.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+How+To+Obtain+Top+Dollar+When+Selling+Your+Home.mp4
 pullquote: Working with a quality agent is key.
 enclosure_type: video/mp4
 enclosure_time:
