@@ -19,9 +19,7 @@ youtube_code: 'https://youtu.be/b_5oRXf9sns'
 
 Today, we’ll be going over the most recent market numbers for our local area. To help, I’ve brought on a very special guest—my oldest daughter Taylor Sabato.
 
-Taylor and I are excited to be bringing you these updates so that you can stay informed about our market.
-
-We’ll be looking comparing several factors in terms of how things looked last year versus how they are right now. In just a year’s worth of time, the market has changed quite a bit.
+We’ll be comparing several factors in terms of how things looked last year versus how they are right now. In just a year’s worth of time, the market has changed quite a bit.
 
 In June of 2016, we had 4.7 month’s supply of inventory. For those of you who don’t know, **month’s supply of inventory is one of the most important factors in our market.** This factor can drive supply up or down.
 
