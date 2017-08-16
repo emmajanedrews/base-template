@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Things Every First-Time Homebuyer Should Know
-date: 2017-08-25 12:20:00
+date: 2017-08-24 12:20:00
 tags:
   - Home Buyer Tips
 excerpt: >-
