@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Debbie's List Has a Contract for Any Need You Have
-date: 2017-08-10 16:15:26
+title: Check Out Our Trusted Service Providers on Debbie’s List
+date: 2017-08-10 16:15:00
 tags:
-  - Real Estate
 excerpt: >-
-  If you need a professional contractor or service provider of any kind of task
-  in or around your home, we've got just the resource for you.
+  If you need a professional contractor or service provider for any task in or
+  around your home, we've got just the resource for you.
 enclosure:
 pullquote: >-
   If you're a contractor in the Northern Virginia area, you want to be on
@@ -15,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/tad-wicker--debbie-s-list-youtube.jpg
-youtube_code: 'https://youtu.be/SsLqJxjMfno'
+youtube_code: 'https://youtu.be/o-UZlxn2FE8'
 ---
 
 
@@ -23,11 +22,11 @@ youtube_code: 'https://youtu.be/SsLqJxjMfno'
 
 Finding a great contractor at a fair price isn't easy. We all have a laundry list of to-dos that we'd like to get done around the house, but many of the times, we just don't have the time or know-how to get it all done.
 
-**That's why we turn to Debbie's List.**
-
-If you're a contractor in the Northern Virginia area, you want to be on Debbie's list. The list is filled with contractors and service providers we've used over my 30-year career with great success and reasonable prices.
+**That's why we created Debbie's List.**
 
 {% include pullquote.html %}
+
+If you're a contractor in the Northern Virginia area, you want to be on Debbie's list. The list is filled with contractors and service providers like plumbers, electricians, roofers, and more that we've used over my 30-year career with great success and reasonable prices.&nbsp;
 
 [**Click here to check out Debbie's List**](https://www.yumpu.com/en/document/view/55881214/debbies-list-virginia-contractors-2017)
 
