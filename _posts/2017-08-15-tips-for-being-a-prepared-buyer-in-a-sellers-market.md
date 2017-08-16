@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/andrew-kronenberg-how-to-be-a-prepared-buyer-youtube.jpg
-youtube_code: 'https://youtu.be/ckrzKyOfSt4'
+youtube_code: 'https://youtu.be/yaQVKRGIb6w'
 ---
 
 
