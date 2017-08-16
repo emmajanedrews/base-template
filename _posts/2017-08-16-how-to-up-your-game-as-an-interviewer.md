@@ -2,7 +2,7 @@
 layout: post
 title: How to up Your Game as an Interviewer
 tags:
-  - Bio Pharma
+  - BioPharma
 excerpt: >-
   Before interviewing candidates for an open position, how can you as a manager
   best prepare to make the right decision?
