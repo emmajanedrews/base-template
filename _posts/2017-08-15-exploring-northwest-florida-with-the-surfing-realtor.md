@@ -21,7 +21,7 @@ youtube_code: cbSyDAaMBlk
 
 {% include youtube.html %}
 
-Recently, my sister Amanda Abbott was featured on Vacation Differently’s [website.](http://www.vacationdifferently.com/we-travel-for-adventure-a-locals-take-on-northwest-florida-adventure-part-1/) Amanda is a fantastic real estate agent who enjoys exploring all that Northwest Florida has to offer.
+Recently, my sister Amanda Abbott was featured on Vacation Differently’s [website.](http://www.vacationdifferently.com/we-travel-for-adventure-a-locals-take-on-northwest-florida-adventure-part-1/){:target="_blank"} Amanda is a fantastic real estate agent who enjoys exploring all that Northwest Florida has to offer.
 
 Our dad and our uncle started one of the first real estate companies in the area. I jumped into the real estate business soon after college, but Amanda explored a little before returning home and becoming an agent in her own right.
 
