@@ -12,7 +12,7 @@ title: A Special Market Update from Cancun
 date: '2016-12-07T10:55:00.000-08:00'
 author: Vyral Admin
 tags:
-- home seller tips
+- Home Seller Tips
 modified_time: '2017-04-14T09:53:32.945-07:00'
 thumbnail: https://img.youtube.com/vi/dJkMaiV6cxQ/default.jpg
 blogger_id: tag:blogger.com,1999:blog-4482807303712550328.post-3744676581522702422

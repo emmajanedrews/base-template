@@ -5,8 +5,8 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Sokoler Medley Team - your professional Louisville Real Estate Agents.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 15 Aug 2017 15:28:44 -0500</pubDate>
-    <lastBuildDate>Tue, 15 Aug 2017 15:28:44 -0500</lastBuildDate>
+    <pubDate>Wed, 16 Aug 2017 11:13:32 -0500</pubDate>
+    <lastBuildDate>Wed, 16 Aug 2017 11:13:32 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -162,7 +162,7 @@
         <link>localhost:4000/how-much-do-you-really-need-to-put-down.html</link>
         <guid isPermaLink="true">localhost:4000/how-much-do-you-really-need-to-put-down.html</guid>
         
-        <category>homebuyer tips</category>
+        <category>Homebuyer Tips</category>
         
         
       </item>
@@ -193,7 +193,7 @@
         <link>localhost:4000/why-zestimates-cant-give-your-home-true.html</link>
         <guid isPermaLink="true">localhost:4000/why-zestimates-cant-give-your-home-true.html</guid>
         
-        <category>home seller tips</category>
+        <category>Home Seller Tips</category>
         
         
       </item>

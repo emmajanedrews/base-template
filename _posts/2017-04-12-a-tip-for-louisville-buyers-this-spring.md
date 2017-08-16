@@ -12,7 +12,7 @@ title: A Tip for Louisville Buyers This Spring
 date: '2017-04-12T14:27:00.000-07:00'
 author: Vyral Admin
 tags:
-- homebuyer tips
+- Homebuyer Tips
 modified_time: '2017-04-12T14:28:59.146-07:00'
 thumbnail: https://img.youtube.com/vi/0aZzq6wa-rk/default.jpg
 blogger_id: tag:blogger.com,1999:blog-4482807303712550328.post-2604483627231462057

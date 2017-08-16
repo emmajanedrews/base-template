@@ -12,7 +12,7 @@ title: Why Zestimates Cant Give Your Home a True Value
 date: '2017-05-16T13:25:00.001-07:00'
 author: Vyral Admin
 tags:
-- home seller tips
+- Home Seller Tips
 modified_time: '2017-05-17T09:05:50.662-07:00'
 thumbnail: https://img.youtube.com/vi/NRwqk3WFM80/default.jpg
 blogger_id: tag:blogger.com,1999:blog-4482807303712550328.post-6274227175242237893

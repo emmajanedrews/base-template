@@ -12,7 +12,7 @@ title: 'How Much Do You Really Need to Put Down to Buy a Louisville Home? '
 date: '2017-06-01T10:45:00.001-07:00'
 author: Vyral Admin
 tags:
-- homebuyer tips
+- Homebuyer Tips
 modified_time: '2017-06-01T10:45:12.184-07:00'
 thumbnail: https://img.youtube.com/vi/RWI54TQfWAg/default.jpg
 blogger_id: tag:blogger.com,1999:blog-4482807303712550328.post-1020095623691413606
