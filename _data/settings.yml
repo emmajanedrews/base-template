@@ -1,7 +1,7 @@
 audit_header: false
 title: -- CLIENT BRAND --
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-show_custom_links: true
+show_custom_links: false
 custom_links:
   - title: KW Legacy
     url: http://darlenecarter.kwrealty.com/
@@ -28,7 +28,7 @@ CTAs:
   first_CTA_text: Request a Consultation
   first_CTA_URL: http://savvyagent.biz/
   second_CTA_text: Training Classes
-  second_CTA_URL: /#
+  second_CTA_URL: http://savvyagent.biz/calendar/
   VR_form: http://oi.vresp.com?fid=4c7f249ffd
 
 sidebar_CTA:
@@ -43,7 +43,7 @@ second_sidebar_CTA:
     CTA_title2: "Want to learn more?"
     CTA_text2: "Attend One Of Our Training Classes At Our Offices"
     CTA_link_text2: "Training Classes"
-    CTA_url2: /#
+    CTA_url2: http://savvyagent.biz/calendar/
 
 lender:
   show_section: false
@@ -90,7 +90,7 @@ images:
   client_headshot_path2: /img/headshot2.jpg
   client_headshot_path3: /img/headshot3.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 60
+  logo_width_number: 80
   side_logo_path: /img/kwlogo.png
   hero_text: Real Estate Coaching & Training Blog with Marcus Green & Team
   hero_background_hex: '#818285'
