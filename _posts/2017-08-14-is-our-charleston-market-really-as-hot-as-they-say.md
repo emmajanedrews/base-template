@@ -20,9 +20,9 @@ youtube_code: s2Vt-d3YHyY
 
 {% include youtube.html %}
 
-Everybody’s saying our real estate market is how right now, but is it really that hot? How easy is it to buy or sell a home?
+Everybody’s saying our real estate market is hot right now, but is it really that hot? How easy is it to buy or sell a home?
 
-We can get a good idea by determining year-over-year statistics, so let’s compare the year-to-date statistics from 2017 to where we were at this point in 2016.
+We can get a good idea by comparing year-over-year statistics, so let’s compare the year-to-date statistics from 2017 to where we were at this point in 2016.
 
 Right now, there are about 5,000 available homes for sale, which is about 600 more properties that have been put on the market than last year. This is a decent number, and it means there are more available options to choose from. **It’s true that homes are selling fast, but there is still a healthy number of homes for sale.**
 
