@@ -7,7 +7,7 @@ excerpt: >-
   Today I wanted to breakdown why it is essential that you use an experienced,
   professional agent for your real estate transaction.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Communicating+with+your+realtor.mp4
+  https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Finding+The+Right+Agent.mp4
 pullquote: Don’t risk this huge investment using an inexperienced agent.
 enclosure_type: video/mp4
 enclosure_time:
