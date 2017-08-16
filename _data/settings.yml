@@ -7,53 +7,56 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Dan Jones
   license_number:
   about_markdown: |
+    If you are looking for an agent that you can trust to earn your business, then Dan Jones is your Realtor. Dan focuses on building a long term relationship and getting his clients the best deal in every transaction. He has years of experience successfully buying and selling homes in Charlotte and South Carolina. He knows the neighborhoods, schools, market conditions, zoning regulations, and local economy and will keep you up-to-date with new listings and conditions as they impact the market.
 
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    Dan will not waste your time. When an offer is made, He will require acceptance or a counter offer within 24-48 hours. You will have the advantage of personal, one-on-one attention to go along with Dan's dynamic web and email resources. Having an agent like Dan Jones is like having a best friend that you never knew you had. He looks forward to meeting with you.
+  market: Charlotte
+  brand: The Dan Jones Group
+  brokerage: Carolina Real Estate Experts
+  address: 16930 W Catawba Ave., Suite 202 Cornelius, NC 28031
+  phone: 704-800-6459
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Sold@MyHomeCarolinas.com
+  url: http://ListWithDanJones.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.myequityevaluation.com/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
-  VR_form:
+  second_CTA_URL: http://charlottehomehub.com/a/tlx/search?landing=1&rgu=0
+  VR_form: http://oi.vresp.com?fid=2f1ac2785a
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free -- MARKET -- Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.myequityevaluation.com/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://charlottehomehub.com/a/tlx/search?landing=1&rgu=0
 
 lender:
-  show_section: false
+  show_section: true
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
-  logo_path: /img/logo.png
+  headshot_path: /img/lender.jpg
+  # logo_path: /img/lender-logo.png
   logo_path_2:
-  name: Bill Murray
+  name: David Frum
   brand: Lender Co.
-  phone: 555-555-5555
-  email: bill@murray.com
-  url: http://eyegoop.com
+  license_number: NMLS# 83406
+  phone: 704-691-5956
+  email: David.Frum@Caliberhomeloans.com
+  url: https://caliberhomeloans.com/loan-consultant/north-carolina/Charlotte-NC/dfrum
 
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
@@ -66,17 +69,17 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/pages/MyHomeCharlotte-Dan-Jones-REMAX-in-Lake-Norman-Charlotte-Area/143010512451642
+  linkedin_url: https://www.linkedin.com/pub/dan-jones/23/873/8a0
+  gplus_url: https://plus.google.com/115513134709644637808/about
+  youtube_url: https://www.youtube.com/user/MyHomeCharlotte
+  twitter_url: https://twitter.com/MyHomeCharlotte
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
-  podcast_url:
+  zillow_url: http://www.zillow.com/profile/DanJonesCarolina/
+  trulia_url: http://www.trulia.com/profile/dan-jones-broker-huntersville-nc-1624421/overview
+  yelp_url: http://www.yelp.com/biz/dan-jones-home-selling-team-charlotte
+  podcast_url: https://itunes.apple.com/us/podcast/charlotte-real-estate-podcast/id925034066?mt=2
 
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
@@ -90,14 +93,14 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 60
   hero_text: -- MARKET -- Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#76b3df'
+  theme_color: '#c30932'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -106,7 +109,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: rgba(8, 18, 20, .7)
 
 buttons:
   button_radius_number: 0

@@ -1,5 +1,29 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
-    audio:
+  - quote: It’s been a great experience. Working with Dan Jones can give me accountability and form that I need and I’m looking for. So far it’s been a great ride. For me it’s been a blessing because sometimes I hate the paperwork. When we have a contract, I just hand them to the closing coordinator and they give me and my clients all the support. They make sure every ‘T’ is crossed and ‘I’ is dotted, so it’s been great.
+    name: Tim
+    audio: /uploads/audio/001.mp3
+  - quote: It’s been a very good experience so far! He’s a very ambitious team leader. He has goals and things that he wants to achieve and he’s very passionate about helping his team achieve the goals that they have set for themselves as well!
+    name: Patrick
+    audio: /uploads/audio/002.mp3
+  # - quote: I’ve been working for him off and on. It’s been good!” Q. How many leads do you get a month? A. “Wow! Like, 50 or 60.” Q. How is the support staff and having a closing coordinator? A. “It’s awesome!” Q. Do you feel like you’re being coached well? A. “Yes!”
+  #   name: Mike
+  #   audio: /uploads/audio/003.mp3
+  # - quote: Working with Dan has been awesome! Dan’s patience and his perseverance, he’s just driven and compassionate. He’s like a sponge and absorbs everything our clients say!” Q. How is the support staff and having a closing coordinator? A. “We brought on Daniel Storms as an admin to be my backup and support. The team has really stepped up and we hold each other up and accountable for our actions!” Q. Do you feel like you have plenty of opportunity to reach your goals in real estate? A. “Yes! Especially working with our team. With what Dan provides, the support that we have and, the resources that are provided, there is no reason that anyone who works for the Dan Jones Group doesn’t make or exceed their goals working with us. 1. The market is great. 2. You have the resources. 3. We have an awesome leader. 4. You have great support and staff behind you. So yes, it is very attainable!”
+  #   name: Gwen
+  #   audio: /uploads/audio/004.mp3
+  - quote: I had previously worked with another Realtor and I wasn’t happy with the results. I actually relisted and then Dan reached out to me and the experience was one of the best, if not the best Realtor experience I’ve had in all of my transactions. I invest in homes and he walked me through every little step as if I was a beginner, not taking for granted me knowledge. They really took care of me from day one.
+    name: Daryl
+    audio: /uploads/audio/005.mp3
+  - quote: When we worked with Dan, I had just moved back to Charlotte and wasn’t too sure of whether or not to buy or build. He probably showed up 15 or 20 homes before we decided to build and then he led us through that whole process. He was really great to work with and helped us get the best price possible, even from the builder. At the end of the day, he ever got us some add-ons and upgrades that we probably weren’t entitled to in the beginning. He just really looked out for us.
+    name: Josh
+    audio: /uploads/audio/006.mp3
+  - quote: Dan actually represented us to both purchase a home and sell our home and they really did a good job with it. We had the first buyers back out and he was just resilient in helped identify a second set of buyers in a short manner. Dan was also had great follow up in making sure that all the “I’s” were dotted and “T’s” were crossed. It was just tremendous, the whole experience.
+    name: Jeff
+    audio: /uploads/audio/007.mp3
+  # - quote:
+  #   name:
+  #   audio: /uploads/audio/008.mp3
+  # - quote:
+  #   name:
+  #   audio: /uploads/audio/009.mp3
