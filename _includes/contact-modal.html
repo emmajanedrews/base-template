@@ -37,8 +37,9 @@
     <i class="fa fa-times-circle fa-2x exit" aria-hidden="true"></i>
 
     <form class="contact-form" method="post" action="http://formspree.io/{{site.data.settings.client.email}}">
-      <input type="text" name="name" placeholder="Name" required>
-      <input type="email" name="_replyto" placeholder="Email" required>
+      <input type="text" name="name" placeholder="*Name" required>
+      <input type="email" name="_replyto" placeholder="*Email" required>
+      <input type="text" name="phone" placeholder="Phone">
       <textarea name="Message" placeholder="Message"></textarea>
       <!-- Cloud cannon settings field -->
       <div class="hidden">

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title></title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <title>Charleston Real Estate Video Blog with Dave Friedman</title>
+    <link>davefriedmantv.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="davefriedmantv.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Dave Friedman Team - your professional Charleston Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Dave Friedman</managingEditor>
-    <lastBuildDate>2017-04-07 13:17:53 -0500</lastBuildDate>
+    <lastBuildDate>2017-08-16 14:17:31 -0500</lastBuildDate>
     <media:copyright>Dave Friedman</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://i.imgur.com/eBUH7tb.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
@@ -18,25 +18,168 @@
     </itunes:owner>
     <itunes:author>Dave Friedman</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://i.imgur.com/eBUH7tb.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Charleston Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Dave Friedman Team - your professional Charleston Real Estate Agents.</itunes:summary>
       <itunes:category text="News &amp; Politics"/>
     
       <item>
-        <title>Which Home Renovations Get the Best Returns? </title>
-        <link>localhost:4000/which-home-renovations-get-best-returns.html</link>
+        <title>The Shockingly High Margin of Error With Zestimates</title>
+        <link>davefriedmantv.com/the-shockingly-high-margin-of-error-with-zestimates.html</link>
         
-          <category>Mt. Pleasant Real estate</category>
+          <category>Real Estate</category>
         
-          <category>Charleston real estate</category>
+        <author>Dave Friedman</author>
+        <pubDate>2017-08-10 07:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/2017/The+Shockingly+High+Margin+of+Error+With+Zestimates+-+Charleston+%2526+Mt.+Pleasant+Real+Estate+Agent.mp4</guid>
+        <description>
+
+How accurate are Zillow’s Zestimates? 
+
+Zestimates are within 20% of a home’s sale price 80% of the time, which is a huge margin of error. For a $300,000 home, that margin of error could swing from $240,000 to $360,000. 
+
+Zestimates are within 10% of the sale price just 70% of the time as well. In our $300,000 example home, the Zestimate could be off by $30,000 on the high or low side seven out of 10 times.
+
+“Zestimates are within 5% of a home’s actual value less than half the time.”
+
+Finally, Zillow’s Zestimates are within 5% of the sales price just 45% of the time. That’s still a $30,000 margin of error, and that’s as accurate as they get. 
+
+As a professional real estate agent, I would have been out of the business a long time ago if I was off by 5% on home value estimates that often. That would mean I either overprice the home and it won’t sell, or I underprice it and leave thousands and thousands of dollars on the table!
+
+If you have any questions about how to find your home’s actual value or about using Zillow, don’t hesitate to give me a call or send me an email. I’m always happy to help.
+ 
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/2017/The+Shockingly+High+Margin+of+Error+With+Zestimates+-+Charleston+%2526+Mt.+Pleasant+Real+Estate+Agent.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="davefriedmantv.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/2017/The+Shockingly+High+Margin+of+Error+With+Zestimates+-+Charleston+%2526+Mt.+Pleasant+Real+Estate+Agent.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Just how accurate are those Zestimate home values you see on Zillow? Far less than you think.</itunes:subtitle>
+        <itunes:author>Dave Friedman</itunes:author>
+        <itunes:summary>Just how accurate are those Zestimate home values you see on Zillow? Far less than you think.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Do Homebuyers Need to Work With a Buyer’s Agent?</title>
+        <link>davefriedmantv.com/why-do-homebuyers-need-to-work-with-a-buyers-agent.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Dave Friedman</author>
+        <pubDate>2017-05-31 07:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/2017/Why+Do+Homebuyers+Need+to+Work+With+a+Buyers+Agent%253F+-+Charleston+%2526+Mt.+Pleasant+Real+Estate+Agent.mp4</guid>
+        <description>
+
+A lot of people have been asking me recently, “What’s up with the buyer agency agreement? What does it even mean?”
+
+When you call the number on a ‘For Sale’ sign inquiring about the home that’s for sale, you end up talking to the listing agent that the seller has hired. That person has a legal obligation to sell that person’s home for the most amount of money in the least amount of time.
+
+Is that the person you want to work with? The person who has a direct responsibility to the seller to fulfill those obligations? I don’t think so.
+
+That’s why the state came up with buyer representation. In the words of a good friend of mine, “It’s the best money you haven’t spent.” It doesn’t cost you anything to work with a buyer’s agent, so why wouldn’t you?
+
+There are many benefits to working with a buyer’s agent, such as:
+
+
+  We make sure you don’t overpay for a home.
+  We shop interest rates for you to make sure you have the best financing available.
+  We negotiate the best deal for you.
+  We find the best home inspector to make sure the home doesn’t have any problems. If it does, we have the seller fix them for you.
+
+
+Furthermore, there are other guarantees packaged into our team’s buyer agency agreement. For example, you can cancel our agreement at any time. Most Realtors want to lock you into a late fee contract, but not us. We want to hold ourselves accountable to you because we know for a fact that as long as you’re happy, you’ll have no reason to work with anybody else.
+
+“Working with a buyer’s agent is the best money you haven’t spent.”
+
+Even if you walk into a home and immediately fall in love with it, we’ll give you reasons why you shouldn’t buy it. We don’t want you to make a bad decision, which alludes to our second guarantee: if you buy a home and you’re dissatisfied with it for whatever reason within the first 24 months, I’ll come over and sell it for free. Lastly, if we can’t negotiate a home warranty into the contract for you, then we’ll buy the house for you.
+
+If you have any more questions about the legal obligations and requirements of the buyer’s agency agreement, don’t hesitate to give me a call. I’d be more than happy to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/2017/Why+Do+Homebuyers+Need+to+Work+With+a+Buyers+Agent%253F+-+Charleston+%2526+Mt.+Pleasant+Real+Estate+Agent.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="davefriedmantv.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/2017/Why+Do+Homebuyers+Need+to+Work+With+a+Buyers+Agent%253F+-+Charleston+%2526+Mt.+Pleasant+Real+Estate+Agent.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you’re a homebuyer, there are many reasons you need to work with a buyer’s agent instead of a listing agent</itunes:subtitle>
+        <itunes:author>Dave Friedman</itunes:author>
+        <itunes:summary>If you’re a homebuyer, there are many reasons you need to work with a buyer’s agent instead of a listing agent</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Let Us Take You Out to the Ballgame at Riverdog Stadium</title>
+        <link>davefriedmantv.com/let-us-take-you-out-to-the-ballgame-at-riverdog-stadium.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Dave Friedman</author>
+        <pubDate>2017-05-15 19:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/2017/Let+Us+Take+You+Out+to+the+Ballgame+at+Riverdog+Stadium+-+Charleston+%2526+Mt.+Pleasant+Agent.mp4</guid>
+        <description>
+
+You’re hereby invited to our annual community appreciation event at the Riverdog Stadium on June 7th at 7:05 p.m.
+
+This is a very special event in which we’ve teamed up with ServiceMaster Lawton Hayes to host it for the last three years. We’ll have drinks, food, and for every person who attends the game, I’ll donate $10 to the Burned Children’s Fund at MUSC.
+
+This fund is truly amazing, and I know for a fact that all the money that was raised at this same event last year was used to install 3,000 smoke detectors into homes that needed them. Two different people have even confirmed for a fact that their lives were saved based on this event and everybody showing up and contributing.
+
+“We’d love for you to join us at the ballpark.”
+
+The best part? It’s 100% free. If you’re interested in attending, just reply back to our email and let me know how many ticket vouchers you need. Look for me in front inside the Dave Friedman Team tent where you can exchange your vouchers for tickets.
+
+If you have any questions about this event, don’t hesitate to reach out to me. I look forward to seeing you soon!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/2017/Let+Us+Take+You+Out+to+the+Ballgame+at+Riverdog+Stadium+-+Charleston+%2526+Mt.+Pleasant+Agent.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="davefriedmantv.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/2017/Let+Us+Take+You+Out+to+the+Ballgame+at+Riverdog+Stadium+-+Charleston+%2526+Mt.+Pleasant+Agent.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Our annual client appreciation event at Riverdog Stadium is coming up, and you’re officially invited.</itunes:subtitle>
+        <itunes:author>Dave Friedman</itunes:author>
+        <itunes:summary>Our annual client appreciation event at Riverdog Stadium is coming up, and you’re officially invited.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>An Update on Our Market Through the 1st Quarter</title>
+        <link>davefriedmantv.com/an-update-on-our-market-through-the-1st-quarter.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Dave Friedman</author>
+        <pubDate>2017-04-26 07:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/2017/An+Update+on+Our+Market+Through+the+1st+Quarter+-+Charleston+%2526+Mt.+Pleasant+Real+Estate+Agent.mp4</guid>
+        <description>
+
+As we head into the summer, I wanted to reach out and check in with you about what we saw in the first quarter in our market.
+
+The number of transactions in the market as a whole is up by 13.5% from last year and the median sale price is up by 4.5% too, which is fantastic. However, there is something strange going on in three specific markets out there where the median sale price is down in comparison to last year. Those markets would be Hanahan, Cainhoy, and Mt. Pleasant.
+
+Overall, things are great though. There are 17 different mini-markets out there that have less than 4.5 months of inventory available, making them all seller’s markets. At the same time, there are about seven mini-markets that are right around six months of inventory, which is considered a balanced market. If you want to know what kind of market you are in specifically, don’t hesitate to reach out to me.
+
+“We’re having a very strong year.”
+
+We’re having a very strong year. In fact, this could be the best year ever for our market. It could very well be the first year we have more than 18,000 home sales in this market.
+
+I’ll keep you updated with changes in the market as they come. If you have any questions in the meantime, give me a call or send me an email. I look forward to hearing from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/2017/An+Update+on+Our+Market+Through+the+1st+Quarter+-+Charleston+%2526+Mt.+Pleasant+Real+Estate+Agent.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="davefriedmantv.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/2017/An+Update+on+Our+Market+Through+the+1st+Quarter+-+Charleston+%2526+Mt.+Pleasant+Real+Estate+Agent.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Our market has been doing fantastic. Sales are up, prices are up, and we are anticipating our strongest year ever.</itunes:subtitle>
+        <itunes:author>Dave Friedman</itunes:author>
+        <itunes:summary>Our market has been doing fantastic. Sales are up, prices are up, and we are anticipating our strongest year ever.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Which Home Renovations Get the Best Returns?</title>
+        <link>davefriedmantv.com/which-home-renovations-get-the-best-returns.html</link>
         
         <author>Dave Friedman</author>
         <pubDate>2017-03-14 13:13:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/2017/Which+Home+Renovations+Get+the+Best+Returns%253F+-+Charleston+%2526+Mt.+Pleasant+Real+Estate+Agent.mp4</guid>
         <description>
-
 When you are preparing your home for the market, you may want to make some renovations in order to net more money on your home sale. Which renovations get better returns than others?
 
 Keep in mind that less is more. Large-scale jobs aren’t likely to return their full costs but there are investments worth doing in anticipation of an upcoming sale. Some renovations return 100% of their costs while others get less than half of the money back. Still, some renovations can improve your market position and the probability that your home will sell.
@@ -55,9 +198,9 @@ Check out this cost versus value report before you get into any renovations or r
 
 If you have any questions, please don’t hesitate to reach out to us. We would be happy to help you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/2017/Which+Home+Renovations+Get+the+Best+Returns%253F+-+Charleston+%2526+Mt.+Pleasant+Real+Estate+Agent.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="davefriedmantv.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/2017/Which+Home+Renovations+Get+the+Best+Returns%253F+-+Charleston+%2526+Mt.+Pleasant+Real+Estate+Agent.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Some renovations are better than others when it comes to preparing your home for the market. Think about the renovation cost versus the return you will get on your investment.</itunes:subtitle>
         <itunes:author>Dave Friedman</itunes:author>
@@ -67,15 +210,12 @@ If you have any questions, please don’t hesitate to reach out to us. We would 
       
       <item>
         <title>Introducing a Tool That Will Make 2017 Your Best Year Yet</title>
-        <link>localhost:4000/introducing-tool-that-will-make-2017.html</link>
-        
-          <category>Personal growth tips</category>
+        <link>davefriedmantv.com/introducing-a-tool-that-will-make-2017-your-best-year-yet.html</link>
         
         <author>Dave Friedman</author>
         <pubDate>2017-02-07 16:32:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/2017/Introducing+a+Tool+That+Will+Make+2017+Your+Best+Year+Yet+-+Charleston+%2526+Mt.+Pleasant.mp4</guid>
         <description>
-
 Today I have a tool that I want to show you that will help you achieve the success you desire in 2017. This tool is a goal-setting template, and it’s the same one my team and I use to reach our goals. Within this template, there are 10 categories through which you can divide your goals for a more comprehensive personal and professional development:
 
 
@@ -99,9 +239,9 @@ In the video above, I’ve used the finances category as an example of how effec
 
 I really hope you use this tool so that 2017 is the best year you’ve ever had. I know that it’s going to create the best year for me, and I want the same for you, too. If you have any questions about this tool or would like me to email it to you, please reach out to me so I can share it with you. I would be happy to help!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/2017/Introducing+a+Tool+That+Will+Make+2017+Your+Best+Year+Yet+-+Charleston+%2526+Mt.+Pleasant.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="davefriedmantv.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/2017/Introducing+a+Tool+That+Will+Make+2017+Your+Best+Year+Yet+-+Charleston+%2526+Mt.+Pleasant.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>I have a tool that I want to show you that will help you make 2017 the best year of your life.</itunes:subtitle>
         <itunes:author>Dave Friedman</itunes:author>
@@ -111,17 +251,12 @@ I really hope you use this tool so that 2017 is the best year you’ve ever had.
       
       <item>
         <title>How Are Rising Interest Rates Shaping Our Market?</title>
-        <link>localhost:4000/how-are-rising-interest-rates-shaping.html</link>
-        
-          <category>Mt. Pleasant Real estate</category>
-        
-          <category>Charleston real estate</category>
+        <link>davefriedmantv.com/how-are-rising-interest-rates-shaping-our-market.html</link>
         
         <author>Dave Friedman</author>
         <pubDate>2017-01-18 10:14:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/2017/How+Are+Rising+Interest+Rates+Shaping+Our+Market%253F+-+Charleston+%2526+Mt.+Pleasant.mp4</guid>
         <description>
-
 In case you haven’t heard, the Federal Reserve increased interest rates last December and are planning an aggressive approach in 2017. Since the election, rates have risen in total by about 0.75%, and we can expect them to rise further by a full percentage point by mid-summer.
 
 What does that mean for you as a buyer or seller?
@@ -134,9 +269,9 @@ If you’re planning on buying, do it now while you have a much better chance to
 
 If you have any questions or are interested in buying or selling soon, feel free to pick up the phone and give me a call. I look forward to helping you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/2017/How+Are+Rising+Interest+Rates+Shaping+Our+Market%253F+-+Charleston+%2526+Mt.+Pleasant.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="davefriedmantv.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/2017/How+Are+Rising+Interest+Rates+Shaping+Our+Market%253F+-+Charleston+%2526+Mt.+Pleasant.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Interest rates are on the rise in our market. If you’re planning on buying or selling, here’s what you need to do.</itunes:subtitle>
         <itunes:author>Dave Friedman</itunes:author>
@@ -146,15 +281,12 @@ If you have any questions or are interested in buying or selling soon, feel free
       
       <item>
         <title>What You Should Know About Flood Insurance</title>
-        <link>localhost:4000/what-you-should-know-about-flood.html</link>
-        
-          <category>flood insurance charleston</category>
+        <link>davefriedmantv.com/what-you-should-know-about-flood-insurance.html</link>
         
         <author>Dave Friedman</author>
         <pubDate>2016-12-16 12:34:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/Old+Videos/What+You+Should+Know+About+Flood+Insurance+-+Charleston+Real+Estate+Agent.mp4</guid>
         <description>
-
 We all know that weather can be unpredictable, and although hurricane Matthew was luckily not as bad as we expected it to be, it showed how important it is to have flood insurance in the Charleston area.
 
 Insurance expert Mark Allen dropped by to explain why it’s so important to have an insurance plan in place and what to look out for when selecting a policy. Here are some things to consider when selecting flood insurance:
@@ -172,9 +304,9 @@ Insurance expert Mark Allen dropped by to explain why it’s so important to hav
 
 If you have any further questions regarding flood or homeowners insurance feel free to give Mark a call, visit 1stCapitalIns.com, or shoot him an email. If you have any questions about the Charleston or Mt. Pleasant real estate markets or you’re considering buying or selling a home, give me a call or send me an email. I’d be happy to help.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/Old+Videos/What+You+Should+Know+About+Flood+Insurance+-+Charleston+Real+Estate+Agent.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="davefriedmantv.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/Old+Videos/What+You+Should+Know+About+Flood+Insurance+-+Charleston+Real+Estate+Agent.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>I sat down with insurance expert Mark Allen to find out the keys things you need to know when considering flood insurance.</itunes:subtitle>
         <itunes:author>Dave Friedman</itunes:author>
@@ -184,15 +316,12 @@ If you have any further questions regarding flood or homeowners insurance feel f
       
       <item>
         <title>The Meat and Potatoes of Homeowners Insurance</title>
-        <link>localhost:4000/getting-homeowners-insurance-can-only.html</link>
-        
-          <category>Real Estate Tips</category>
+        <link>davefriedmantv.com/the-meat-and-potatoes-of-homeowners-insurance.html</link>
         
         <author>Dave Friedman</author>
         <pubDate>2016-12-02 14:35:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/Old+Videos/The+Meat+and+Potatoes+of+Homeowners+Insurance+%2528Part+1%2529-+Charleston+Real+Estate+Agent.mp4</guid>
         <description>
-
 As we all know, weather isn’t exactly predictable. That’s why, as a homeowner, it’s absolutely necessary that you have an insurance plan in place that will protect you and your property in the long run. Insurance agents provide an invisible safety net that saves you money and time down the line.
 
 With that in mind, today we’re joined by Mark Allen from 1st Capital Insurance to explain the basics of what sort of insurance plans you should investigate and the typical costs of obtaining them.
@@ -211,9 +340,9 @@ Stay tuned for part two of our series with Mark where we’ll cover the business
 
 If you have any other questions, feel free to give me a call or shoot me an email. I look forward to helping you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/Old+Videos/The+Meat+and+Potatoes+of+Homeowners+Insurance+%2528Part+1%2529-+Charleston+Real+Estate+Agent.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="davefriedmantv.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/Old+Videos/The+Meat+and+Potatoes+of+Homeowners+Insurance+%2528Part+1%2529-+Charleston+Real+Estate+Agent.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Getting homeowners insurance can only help you in the long run, but knowing what plan works best for you depends on a few important factors we’ll discuss today.</itunes:subtitle>
         <itunes:author>Dave Friedman</itunes:author>
@@ -223,15 +352,14 @@ If you have any other questions, feel free to give me a call or shoot me an emai
       
       <item>
         <title>Pie-ing and Selling in the Charleston Marketplace</title>
-        <link>localhost:4000/pie-ing-and-selling-in-charleston.html</link>
+        <link>davefriedmantv.com/pie-ing-and-selling-in-the-charleston-marketplace.html</link>
         
           <category>Market Update</category>
         
         <author>Dave Friedman</author>
         <pubDate>2016-11-03 16:25:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/Old+Videos/Charleston+Real+Estate+Agent-+Our+pie+giveaway+and+our+shifting+market.mp4</guid>
         <description>
-
 Today, I wanted to discuss our annual pie giveaway and give you a quick market update.
 
 For years, our team has been giving away pies to all of our fans. It’s that time of year again, and we already have people calling us to RSVP for their pie. Because we’re so grateful to our wonderful community for supporting our business, giving you a pie is the least we can do.
@@ -246,9 +374,9 @@ How? There are fewer buyers, but there are also even fewer sellers. That means l
 
 If you have any questions about buying or selling a home, please feel free to give me a call or shoot me an email for a free consultation or a free home evaluation report. I look forward to helping you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/Old+Videos/Charleston+Real+Estate+Agent-+Our+pie+giveaway+and+our+shifting+market.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="davefriedmantv.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/Old+Videos/Charleston+Real+Estate+Agent-+Our+pie+giveaway+and+our+shifting+market.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Our annual free pie giveaway is right around the corner, and if you have a house that you need to sell, now is the time to list it.</itunes:subtitle>
         <itunes:author>Dave Friedman</itunes:author>
@@ -257,16 +385,15 @@ If you have any questions about buying or selling a home, please feel free to gi
       </item>
       
       <item>
-        <title>How Do Buyers Know If a Home Is Priced Fairly? </title>
-        <link>localhost:4000/how-do-buyers-know-if-home-is-priced.html</link>
+        <title>How Do Buyers Know If a Home Is Priced Fairly?</title>
+        <link>davefriedmantv.com/how-do-buyers-know-if-a-home-is-priced-fairly.html</link>
         
           <category>Home Buyer Tips</category>
         
         <author>Dave Friedman</author>
         <pubDate>2016-10-06 13:50:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/Old+Videos/Charleston+Real+Estate+Agent-+How+do+you+know+if+a+home+is+priced+fairly%253F.mp4</guid>
         <description>
-
 All home buyers have one thing in common: they do not want to get ripped off. In today’s increasingly busy housing market, sales have risen to 5.46 million, which, according to the National Association of Realtors, is 7.7% higher than last year. In this busy market, it’s especially important to make sure that you’re getting the right price.
 
 How do you know if you’re getting a fair value? Even if you’re in a tight market, you can figure out if a home is priced fairly before you make the offer. There are certain ways you can evaluate whether the price of any home is a sound investment or if you’re getting ripped off.
@@ -283,9 +410,9 @@ If you are in a market with high days on market, lots of inventory, and very lit
 
 If you have any other questions about determining market value or about real estate in general, give me a call or send me an email. I would be happy to help you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/Old+Videos/Charleston+Real+Estate+Agent-+How+do+you+know+if+a+home+is+priced+fairly%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="davefriedmantv.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/Old+Videos/Charleston+Real+Estate+Agent-+How+do+you+know+if+a+home+is+priced+fairly%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>All home buyers have one thing in common: they do not want to get ripped off. Luckily, there are a few ways you can tell if a home is priced fairly.</itunes:subtitle>
         <itunes:author>Dave Friedman</itunes:author>
@@ -295,15 +422,12 @@ If you have any other questions about determining market value or about real est
       
       <item>
         <title>Can You Predict How Home Values Will Appreciate?</title>
-        <link>localhost:4000/can-you-predict-how-home-values-will.html</link>
-        
-          <category>Real Estate Tips</category>
+        <link>davefriedmantv.com/can-you-predict-how-home-values-will-appreciate.html</link>
         
         <author>Dave Friedman</author>
         <pubDate>2016-09-16 13:56:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/Old+Videos/Charleston+Real+Estate+Agent-+Predicting+home+value+appreciation.mp4</guid>
         <description>
-
 I’m often asked about appreciation, so I wanted to talk about how you can predict the annual appreciation or depreciation for your real estate investment.
 
 My team and I study the market daily to predict appreciation rates for our clients. We look at sales over the last year compared to the current inventory, and based on this, we can determine the months of inventory.
@@ -318,18 +442,16 @@ If a builder came in and bought land at a very good value and started developing
 
 If you’d like a report about appreciation rates in your specific area, I’d be more than happy to put one together for you at no cost. If you have any questions about the Charleston market, give me a call or send me an email. I look forward to hearing from you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/Old+Videos/Charleston+Real+Estate+Agent-+Predicting+home+value+appreciation.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="davefriedmantv.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/Old+Videos/Charleston+Real+Estate+Agent-+Predicting+home+value+appreciation.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 I’m often asked about appreciation, so I wanted to talk about how you can predict the annual appreciation or depreciation for your real estate investment.
 
 </itunes:subtitle>
         <itunes:author>Dave Friedman</itunes:author>
         <itunes:summary>
-
 I’m often asked about appreciation, so I wanted to talk about how you can predict the annual appreciation or depreciation for your real estate investment.
 
 </itunes:summary>
@@ -338,15 +460,12 @@ I’m often asked about appreciation, so I wanted to talk about how you can pred
       
       <item>
         <title>The Benefits of Owning a Home Over Renting One</title>
-        <link>localhost:4000/the-benefits-of-owning-home-instead-of.html</link>
-        
-          <category>Charleston real estate</category>
+        <link>davefriedmantv.com/the-benefits-of-owning-a-home-over-renting-one.html</link>
         
         <author>Dave Friedman</author>
         <pubDate>2016-08-25 16:03:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/Old+Videos/Charleston+Real+Estate+Agent-+Owning+a+home+vs.+renting+one.mp4</guid>
         <description>
-
 Why does it make more sense for a person to own a home rather than rent one? There are many benefits, but according to a recent study done by Harvard University, all of them fall under two categories: financial reasons and emotional reasons. These two reasons can sometimes overlap, but we’ll review some of the financials first.
 
 For starters, housing is a leveraged investment. Ask yourself—what else can you get a 30-year fixed low-interest rate loan on for an investment? On top of that, homes in our area appreciate anywhere between 3% and 5% per year. The second financial benefit is that you’re paying for a home whether you own it or rent it. You need shelter and a place to live, right? You might as well own it and turn it into an investment instead of making your landlord rich.
@@ -359,18 +478,16 @@ The emotional reasons need far less explanation. For one thing, we all share the
 
 If you have any questions about real estate or homeownership, give me a call or send me an email. I’d be happy to help you out!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/Old+Videos/Charleston+Real+Estate+Agent-+Owning+a+home+vs.+renting+one.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="davefriedmantv.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/Old+Videos/Charleston+Real+Estate+Agent-+Owning+a+home+vs.+renting+one.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Why does it make more sense for a person to own a home rather than rent one? There are many benefits, but according to a recent study done by Harvard University, all of them fall under two categories: financial reasons and emotional reasons. These two reasons can sometimes overlap, but we’ll review some of the financials first.
 
 </itunes:subtitle>
         <itunes:author>Dave Friedman</itunes:author>
         <itunes:summary>
-
 Why does it make more sense for a person to own a home rather than rent one? There are many benefits, but according to a recent study done by Harvard University, all of them fall under two categories: financial reasons and emotional reasons. These two reasons can sometimes overlap, but we’ll review some of the financials first.
 
 </itunes:summary>
@@ -379,15 +496,12 @@ Why does it make more sense for a person to own a home rather than rent one? The
       
       <item>
         <title>We Want to Take You Out to the Ballgame</title>
-        <link>localhost:4000/we-want-to-take-you-out-to-ballgame.html</link>
-        
-          <category>Charleston Spring Events</category>
+        <link>davefriedmantv.com/we-want-to-take-you-out-to-the-ballgame.html</link>
         
         <author>Dave Friedman</author>
         <pubDate>2016-06-09 09:47:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/Old+Videos/Charleston+Real+Estate+Agent-+Were+taking+you+out+to+the+ball+game.mp4</guid>
         <description>
-
 We want to invite you to a Charleston RiverDogs game at Joseph P. Riley Jr. Park as a way to say thank you, and we’re also raising money for charity. All of our friends, colleagues, and past and current clients are welcome. The game is on June 14th, and our free picnic will start at 6:00 p.m.
 
 For every person that attends, we will donate $10 to the MUSC Children’s Fund in order to send children to Camp Can-Do, which is over on Seabrook Island.
@@ -402,106 +516,17 @@ Buyers should also be aware that it’s a great time to purchase with interest r
 
 If you have any questions about this event or about our local real estate market, please don’t hesitate to contact me!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/Old+Videos/Charleston+Real+Estate+Agent-+Were+taking+you+out+to+the+ball+game.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="davefriedmantv.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/Old+Videos/Charleston+Real+Estate+Agent-+Were+taking+you+out+to+the+ball+game.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 We want to invite you to a Charleston RiverDogs game at Joseph P. Riley Jr. Park as a way to say thank you, and we’re also raising money for charity. All of our friends, colleagues, and past and current clients are welcome. The game is on June 14th, and our free picnic will start at 6:00 p.m.
 
 </itunes:subtitle>
         <itunes:author>Dave Friedman</itunes:author>
         <itunes:summary>
-
 We want to invite you to a Charleston RiverDogs game at Joseph P. Riley Jr. Park as a way to say thank you, and we’re also raising money for charity. All of our friends, colleagues, and past and current clients are welcome. The game is on June 14th, and our free picnic will start at 6:00 p.m.
-
-</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-      </item>
-      
-      <item>
-        <title>What Does the Charleston Housing Market Look Like?</title>
-        <link>localhost:4000/charleston-real-estate-agent-springtime.html</link>
-        
-          <category>Charleston Spring Events</category>
-        
-        <author>Dave Friedman</author>
-        <pubDate>2016-04-13 12:59:00 -0500</pubDate>
-        <guid></guid>
-        <description>
-
-Today, I’m here with a real estate market update for the Charleston area. I’m reviewing some data from this year’s first quarter! Additionally, I’ll talk about some great events happening locally in the next few weeks.
-
-April is here and the azaleas are in full bloom! Our city looks beautiful this time of year. Summerville just had a great Flowertown Festival weekend. The weather was great for such a gorgeous event! It’s an opportune time to take a relaxing stroll through the Middleton or Magnolia Gardens. They’re definitely a must-see this season.
-
-We recently had 35,000 visitors in town for the Cooper River Bridge Run. Despite the rain, the event went on with flying colors. Isn’t that incredible? We also had the WTA Tennis Tournament on Daniel Island from April 2nd to the 10th.
-
-There’s still time to take advantage of other fun events happening this April in our area. Enjoy the 69th annual Garden Tours festival until the 25th. The Farmer’s Market has also already started with live performances. The Spoleto Festival is coming up in May, so it’s time to start planning for that, too!
-
-And now it’s time for a market update. Our housing market is booming here in Charleston. Market activity has increased while inventory levels have stayed incredibly low.  Prices increased to 6.6% compared to last year, but they’re doing so at a reasonable pace consumers can keep up with. In January and February, buyer activity increased 10% compared to 2015. The median sales price right now rests at around $235,000. Will buyer activity exceed 2005’s and 2006’s records?
-
-Charleston is at the top of the charts. Our city was voted number one by Conde Naste and other major publications. U.S. News &amp; World Reports ranked our area as the 19th place to live in the entire country.
-
-If you’re thinking about buying or selling a home in Charleston, reach out via phone or email. I’d be happy to help answer any questions you might have!
-</description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-Today, I’m here with a real estate market update for the Charleston area. I’m reviewing some data from this year’s first quarter! Additionally, I’ll talk about some great events happening locally in the next few weeks.
-
-</itunes:subtitle>
-        <itunes:author>Dave Friedman</itunes:author>
-        <itunes:summary>
-
-Today, I’m here with a real estate market update for the Charleston area. I’m reviewing some data from this year’s first quarter! Additionally, I’ll talk about some great events happening locally in the next few weeks.
-
-</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-      </item>
-      
-      <item>
-        <title>6 Problems to Avoid to Make it to the Closing Table in Charleston</title>
-        <link>localhost:4000/charleston-real-estate-agent-avoid.html</link>
-        
-          <category>Closing Tips</category>
-        
-        <author>Dave Friedman</author>
-        <pubDate>2016-03-07 16:59:00 -0600</pubDate>
-        <guid></guid>
-        <description>
-
-There are many reasons why a real estate deal that seems legitimate might not make it to the closing table. Today, I want to cover six reasons home deals can go straight to hell.
-
-
-  Your credit score changes. It’s extremely important for the buyer to understand they can’t get any hard inquiries on their credit report. Don’t go out and buy a car or a big piece of furniture. Avoid anything that will impact your credit score throughout the home buying process. There’s a document we send to buyers to make sure they understand that, because sometimes their lender or Realtor won’t educate them on those things.
-  An inspection creates conflict. We recommend that sellers do a pre-inspection before putting their home on the market. That way, you don’t have to worry about any surprises after the home is under contract. You can address any issues ahead of time, and the buyer won’t back out of the contract during the inspection period.
-  A buyer isn’t pre-approved for a home loan. Many buyers will come to me with a pre-approval when they’re looking to buy a home. However, oftentimes the pre-approval is not worth the paper that it’s written on. It’s really important that you work with a great lender when getting that pre-approval. I make sure that the lender fills out a verification form that confirms that they have checked the buyer’s credit, employment history, source of down payment, income, and debt. This is a lot more powerful than a simple pre-approval.
-  Buyers run out of money. A lot of buyers go into the transaction not knowing how much money it takes. There’s a number of items you have to pay for up front, such as an appraisal and a home inspection. By the time you get to the closing table, you might not have the money for the down payment. On the seller side, I always verify what the payoff letter is. The payoff is $1,000 to $2,000 more than your mortgage statement.
-  Either party blows small problems out of proportion. This comes down to experience. I’ve been in the business for 17 years. My experience allows me to mitigate small issues in order to get you to the closing table.
-  Buyers get cold feet. It’s extremely important to keep the buyer engaged and excited about the home throughout the transaction. If you’re a seller, you don’t want the closed date to be set 60 days from now. Statistically, the farther away the closing date is, the more likely it is that the deal will fall through. Instead, go for a 30 or 40 day closing period. Lenders shouldn’t need any more time than that.
-
-
-These are six reasons home deals might fall through. Check out this link that details other problems that could send a deal straight to hell.
-
-If you have any questions, give me a call or send me an email. I would be happy to help you!
-</description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-There are many reasons why a real estate deal that seems legitimate might not make it to the closing table. Today, I want to cover six reasons home deals can go straight to hell.
-
-</itunes:subtitle>
-        <itunes:author>Dave Friedman</itunes:author>
-        <itunes:summary>
-
-There are many reasons why a real estate deal that seems legitimate might not make it to the closing table. Today, I want to cover six reasons home deals can go straight to hell.
 
 </itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
