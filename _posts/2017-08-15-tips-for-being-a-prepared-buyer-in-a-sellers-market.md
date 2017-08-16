@@ -33,7 +33,7 @@ Your lender will qualify you at the uppermost level you can afford based on your
 
 The next thing to do in order to be a prepared buyer is to meet with an agent, like myself, to perform a search on the MLS—the multiple listing service. With the MLS search, you’ll be notified of updates more quickly than you would be by other websites, such as Realtor.com, Zillow, or Trulia.
 
-The search will be based on what you want and need in a home. However, if you’re notified of a home that fits your criteria, you’ll need to move quickly. A well-priced, good quality home will not last long on today’s competitive market. Staying alert and being ready to seize opportunities as they come will be critical to your success.
+The search will be based on what you want and need in a home. However, if you’re notified of a home that fits your criteria, you’ll need to move quickly. A well-priced, good-quality home will not last long on today’s competitive market. Staying alert and being ready to seize opportunities as they come will be critical to your success.
 
 Thirdly, **understanding the offer and contract process ahead of time will greatly help you** to feel and be prepared as a buyer. Items such as the deposit money, inspections, financing contingency and appraisal contingency, as well other important items are all key to this process.
 
