@@ -43,7 +43,7 @@ second_sidebar_CTA:
     CTA_title2: "Moving?"
     CTA_text2: "Buy or sell with The Sokoler and Medley Team and use our moving truck for free."
     CTA_link_text2: "Use Our Truck"
-    CTA_url2: http://www.weselllouisville.com/property-search/search-form/
+    CTA_url2: http://www.welistlouisville.com/use_our_moving_truck
 
 lender:
   show_section: false
