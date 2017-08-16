@@ -1,11 +1,8 @@
 ---
 layout: post
-title: Why It's Important to Work with an Experienced Agent
+title: Why It's Important to Work With an Experienced Agent
 tags:
-  - Market Update
   - Real Estate
-  - Buyer Tips
-  - Home Seller Tips
 excerpt: >-
   Today I wanted to breakdown why it is essential that you use an experienced,
   professional agent for your real estate transaction.
@@ -22,6 +19,8 @@ youtube_code: 1rEieW4Sxds
 
 {% include youtube.html %}
 
+When buying or selling a home, it's important that you work with an agent who is experienced.
+
 Most real estate agents only do four to six deals in a whole year. That is a startling fact—six deals a year isn’t enough to truly get the kind of experience people will want and expect from a professional. There are too many things that can come up in a real estate transaction that won’t necessarily happen all the time. If an agent isn’t doing enough deals, then they aren’t being exposed to those kinds of learning experiences.
 
 **You must have an agent with deal IQ**. This only comes from experience through working many deals. You want to make sure that if a problem arises, your agent knows how to handle and solve that situation before it gets worse.
@@ -30,6 +29,6 @@ Don’t risk this huge investment using an inexperienced agent. Check their onli
 
 {% include pullquote.html %}
 
-New agents are great in that they’re enthusiastic and excited to jumpstart their careers, but should only be hired if they’re working with a team of professionals to back them up. Stay tuned for an episode on new agents.
+New agents are great in that they’re enthusiastic and excited to jumpstart their careers, but they should only be hired if they’re working with a team of professionals to back them up. Stay tuned for an episode on new agents.
 
 If you have any additional questions about this topic or you’re looking to buy or sell a home, please give me a call. I would be happy to help you!
