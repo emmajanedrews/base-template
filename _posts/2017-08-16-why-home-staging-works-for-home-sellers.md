@@ -20,7 +20,7 @@ youtube_code: xDmjXx9VKnc
 
 {% include youtube.html %}
 
-Welcome to another episode of “What’s Working Now!”
+Welcome to another episode of *“What’s Working Now!”*
 
 Today, I’m reporting to you live from my new listing at 3201 Garfield Street NW on the edge of Cleveland Park. This home is on the market for $1.795 million.
 
@@ -42,7 +42,6 @@ To learn more about the value of preparing your home for the market, you can <u>
 
 If you would like a tour of my new listing, <u>click here</u> for a tour from the seller.
 
-Thank you for watching “What’s Working Now!” Be sure to tune in next time, when I’ll discuss a breakthrough in technology that may actually be a step backward.
+Thank you for watching *“What’s Working Now!”* Be sure to tune in next time, when I’ll discuss a breakthrough in technology that may actually be a step backward.
 
 In the meantime, if you have any other questions about real estate or the current market, just give me a call or send me an email. I would be happy to help you!
-<br>
