@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Remember These Key Tips Before Closing
-date:
+date: 2017-08-17 12:54:27
 tags:
 excerpt: >-
   Even when you are nearly at the closing table, there are still a few things
