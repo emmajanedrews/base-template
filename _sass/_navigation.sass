@@ -40,6 +40,16 @@
 	padding-right: 15px
 	padding-left: 15px
 
+.nav-podcast
+	margin-top: 10px
+	float: left !important
+	&:hover
+		@include transform(scale(1.05))
+		@include transform(translateY(-0.2rem))
+
+@media(max-width: 850px)
+	.nav-podcast
+		display: none
 
 @media(max-width: 347px)
 	.navbar
