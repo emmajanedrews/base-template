@@ -20,7 +20,7 @@ youtube_code: rS6yutKyeHA
 
 {% include youtube.html %}
 
-If you’ve been looking to buy or sell in today’s real estate market, there is some important information you’ll need to know before moving forward. Today, I’m bringing you a market update.
+If you’ve been looking to buy or sell in today’s real estate market, there is some important information you’ll need to know before moving forward. Today, I’m bringing you a market update.  &#174;
 
 Right now, sales have dropped dramatically. This isn’t because people aren’t buying—it’s because, currently, **the supply is far too low for the high demand in our area.**
 
