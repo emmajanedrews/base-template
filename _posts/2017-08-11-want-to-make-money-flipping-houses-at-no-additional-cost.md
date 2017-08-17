@@ -22,16 +22,16 @@ youtube_code: yK7fyXWOxoM
 
 {% include youtube.html %}
 
-Are you an agent that has a property that could be a good flip?
+Are you an agent who has a property in mind that could be a good flip?
 
-We’ve been flipping homes for three years now, and we have another company apart from our real estate team called Neal Bros, LLC which specializes in house flipping and investments. With this company, **we offer a program for agents who come across properties that could be a good flip.**
+We’ve been flipping homes for three years now through another company apart from our real estate team called Neal Bros, LLC which specializes in house flipping and investments. With this company, we now offer a program for agents who come across properties that could be a good flip.
 
- For example, if you've ever gone on a listing appointment with a seller who is in a distressed situation or may not have enough money to fix the property up to sale, we'd love to take a look at the house to see if the numbers will work. This is just a couple of the many different situations that sellers may be in and we are willing to look at anything!
+For example, if you’ve ever gone on a listing appointment with a seller who is in a distressed situation, or may not have enough money to fix-up the property to sell, we’d love to take a look at the house to see if the numbers will work. This is just one of many different scenarios that sellers may find themselves in and we are willing to consider anything!
 
 {% include pullquote.html %}
 
-With this program, we pay the commissions to you when we close on the house and at the same time really cater to the needs of the seller ( lease backs, quick close, extended close, etc) We also give you an equity stake which is 5% of net profit after the house has been renovated and sold in the future. There are no strings attached and you have zero money in the deal.
+With this program, we pay the commissions to you when we close on the house while truly catering to the needs of the seller (lease backs, quick close, extended close, etc). We also give you an equity stake, 5% of net profit, after the house has been renovated and sold in the future. There are no strings attached and no risk involved on your end!&nbsp;
 
-There are a lot of agents that want to get into this business, and this program is a way for agents to get involved with no added cost creating a win/win.  **Not only can you earn money on the profit of each sale, but you can also build a strong referral network.**
+There are a lot of agents who want to get into this business, so this program is an opportunity for agents to become involved with no added cost creating a total win/win. &nbsp;Not only can you earn money on the profit of each sale, but you can also build a strong referral network.
 
 If you have any questions about how this process works, give us a call or reply to this email and we’d be happy to sit down and talk with you. We look forward to hearing from you.
