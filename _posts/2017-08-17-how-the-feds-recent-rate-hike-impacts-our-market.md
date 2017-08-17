@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How the Fed’s Recent Rate Hike Impacts Our Market
-date: 2017-08-17 09:10:13
+date: 2017-08-17 09:10:00
 tags:
 excerpt: >-
   The Federal Reserve increased its federal funds interest rate by 0.25%, and
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: iw5Iqku5FNw
+youtube_code: SPXKiGrwcU8
 ---
 
 
