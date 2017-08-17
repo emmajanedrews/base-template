@@ -1,6 +1,7 @@
 .newsletter
-	background: $brand
-	color: $light-text
+	background: #fff
+	background-image: url(/img/background.jpg)
+	color: #000
 	text-align: center
 	// margin-top: 20px
 	padding: 1rem
@@ -15,8 +16,8 @@
 		vertical-align: middle
 	input[type='email']
 		border-radius: $button-radius
-		background: rgba($light-text,0.3)
-		border: 1px solid $light-text
+		background: rgba(#fff,0.3)
+		border: 1px solid #000
 		color: $brand
 		font-size: 2rem
 		padding: 1.3rem
@@ -26,30 +27,29 @@
 		margin-right: 1rem
 		@include transition(0.3s)
 		@include placeholder
-			color: $light-text
+			color: #000
 		&:focus
-			background: $light-text
+			background: #fff
 			color: $brand
 			@include transform(translateY(-0.2rem))
 			@include placeholder
 				color: transparent
 	input[type="submit"]
 		background: transparent
-		color: $light-text
+		color: #000
 		padding: 1.3rem 2rem
 		text-transform: capitalize
 		font-size: 2rem
 		border-radius: $button-radius
 		font-weight: 300
-		border: 1px solid $light-text
+		border: 1px solid #000
 		@include transition(0.3s)
 		&:hover
 			background: transparent
-			color: $light-text
-			box-shadow: 4px 4px 0 $brand-light
-			border: 1px solid $brand-light
-			@include transform(scale(1.05))
-			@include transform(translateY(-0.2rem))
+			color: $brand
+			border: 1px solid $brand
+			// @include transform(scale(1.05))
+			// @include transform(translateY(-0.2rem))
 		&:active
 			box-shadow: 0 0 0 $brand
 			@include transform(translateY(0rem))

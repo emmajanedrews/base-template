@@ -7,41 +7,41 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Aaron Hendon
   license_number:
   about_markdown: |
-
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    We believe that we work for you and you are the boss in every way. We believe that our job is to take the stress of buying or selling a home off your plate. We believe that you are going to live with the impact of the decisions that get made during the transaction far longer than we will so you need to stay informed and up to date every step of the way. We believe your money and time are important to you and therefore they are important to us. We believe that our job is to deliver so much value and such extraordinary service that you can’t help but tell your friends and family.
+  market: Seattle
+  brand: Christine & Company
+  brokerage: Keller Williams
+  address: '1307 N 45th Street #300 Seattle, WA 98103'
+  phone: 206-353-8787
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Aaron@CandCo.me
+  url: http://www.FindAllSeattleAreaHomes.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.findallseattleareahomes.com/homevalue/seattle
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
-  VR_form:
+  second_CTA_URL: http://www.findallseattleareahomes.com/search
+  VR_form: http://oi.vresp.com?fid=0a4e0c7b0b
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free -- MARKET -- Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.findallseattleareahomes.com/homevalue/seattle
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://www.findallseattleareahomes.com/search
 
 lender:
   show_section: false
@@ -65,18 +65,18 @@ welcome_box:
     receive expert tips for buying or selling a home.
 
 socials:
-  review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  review_sm_icons: true
+  facebook_url: https://www.facebook.com/christineandco.seattle
+  linkedin_url: https://www.linkedin.com/in/hendonhomes
+  gplus_url: http://plus.google.com/106229337498979668704
+  youtube_url: https://www.youtube.com/channel/UCT6e-v4Op37lKCinYiApCyg
+  twitter_url: https://twitter.com/christineandco
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
+  zillow_url: http://www.zillow.com/profile/ChristineandCompany/
+  trulia_url: http://www.trulia.com/profile/christine-robertson-company-agent-seattle-wa-zgq1rvs0/overview
   yelp_url:
-  podcast_url:
+  podcast_url: https://itunes.apple.com/us/podcast/seattle-real-estate-podcast/id1107700922?mt=2
 
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
@@ -90,14 +90,14 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
-  hero_background_hex: '#999'
+  logo_width_number: 80
+  # hero_text: -- MARKET -- Real Estate Video Blog
+  hero_background_hex: '#fff'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#8a221a'
+  theme_color: '#ccc'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'

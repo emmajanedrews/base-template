@@ -3,19 +3,22 @@
 // 	max-width: 40rem
 
 .footer
-	color: #fff
+	color: #000
 	.attribution
 		svg
-			fill: #fff
+			fill: #000
 	.socials
 		svg
-			fill: #fff
+			fill: #000
+			&:hover
+				fill: $brand
 	a
-		color: #fff
+		color: #000
 
 .newsletter
-	background: darken($theme, 3%)
-
+	background: #eee
+	border-top: 1px solid #000
+	border-bottom: 1px solid #000
 
 
 
@@ -26,4 +29,7 @@
 .navbar-andross
 	.navbar-brand
 		color: #fff
-		margin-top: 10px
+		// margin-top: 10px
+#side-logo
+	width: 90%
+	margin: 0 auto

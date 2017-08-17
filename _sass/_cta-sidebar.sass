@@ -1,6 +1,6 @@
 .cta-sidebar-container
 	width: 100%
-	border: 1px solid #cfcfcf
+	border: 1px solid #000
 	border-radius: $button-radius
 	display: flex
 	flex-wrap: wrap
@@ -12,6 +12,8 @@
 			img
 				max-width: 100%
 				width: 1000px
+				border-bottom: 1px solid #000
+				padding: 10px
 	h5
 		// position: relative
 		// top: 0
@@ -28,21 +30,20 @@
 
 .ctalink
 	justify-content: center
-	background: $brand
-	border: 1px solid $brand
+	background: #fff
+	border: 1px solid #000
 	border-radius: $button-radius
 	padding: 10px 20px
 	text-decoration: none
 	font-size: 18px
-	color: $light-text
+	color: #000
 	+transition
 	a
 		text-align: center
 	&:hover
 		background: transparent
-		color: $brand-light
-		box-shadow: 4px 4px 0 $brand-light
-		border: 1px solid $brand-light
+		color: $brand
+		border: 1px solid $brand
 		@include transform(scale(1.05))
 		@include transform(translateY(-0.2rem))
 	&:active
