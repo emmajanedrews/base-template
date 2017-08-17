@@ -2970,3 +2970,10 @@ form select {
     transform: scale(1.05);
     -webkit-transform: translateY(-0.2rem);
     transform: translateY(-0.2rem); }
+
+.radio-tag {
+  font-size: 20px;
+  color: #B52129;
+  list-style: none;
+  padding-left: 30px;
+  font-weight: bold; }
