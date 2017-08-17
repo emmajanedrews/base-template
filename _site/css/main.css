@@ -2348,9 +2348,18 @@ table tr, table td {
     display: -ms-flexbox;
     display: flex; }
 
-.about-text p {
-  vertical-align: middle;
-  margin: auto 0; }
+.about-text {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column; }
+  .about-text p {
+    vertical-align: middle;
+    margin: auto 0;
+    padding: 10px; }
 
 .gray {
   background: #ededed; }

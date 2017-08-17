@@ -8,34 +8,18 @@ custom_links:
 client:
   name: Scott Hardesty
   license_number: 306088
-  about_markdown: >-
-    Scott can best be described as a man of high energy with a passion for
-    Nashville real estate. He is a professional with a strong desire to listen
-    and understand his client’s particular needs. Scott’s market expertise
-    coupled with his superior negotiating skills set him apart from the rest.
+  about_markdown: |
+    Scott can best be described as a man of high energy with a passion for Nashville real estate. He is a professional with a strong desire to listen and understand his client’s particular needs. Scott’s market expertise coupled with his superior negotiating skills set him apart from the rest.
 
-
-
-    <br>&nbsp;
-
-
-
-    For his buyer clients, Scott takes a keen interest in finding not only the
-    ideal Nashville property but, more importantly, a property that proves to be
-    priced fairly, with minimal risk, and optimal return on investment. For his
-    seller clients, Scott uses his market knowledge to list the property at the
-    right price, attracting many buyers and selling homes in the shortest amount
-    of time. With the most comprehensive resources, services, and solutions
-    available to make every transition as seamless as possible, Scott continues
-    to provide assistance after the sale is closed.
+    For his buyer clients, Scott takes a keen interest in finding not only the ideal Nashville property but, more importantly, a property that proves to be priced fairly, with minimal risk, and optimal return on investment. For his seller clients, Scott uses his market knowledge to list the property at the right price, attracting many buyers and selling homes in the shortest amount of time. With the most comprehensive resources, services, and solutions available to make every transition as seamless as possible, Scott continues to provide assistance after the sale is closed.
   market: Nashville
   brand: House to Home Nashville
   brokerage: 'Benchmark Realty, LLC'
   address: '2500 21st Ave S Suite 102<br>Nashville, TN 37212'
   phone: 615-432-2919
-  phone_type: Office
-  phone2: 615-995-8610
-  phone2_type: Direct
+  phone_type:
+  phone2:
+  phone2_type:
   email: scott@housetohomenash.com
   url: 'http://www.housetohomenash.com'
 CTAs:
@@ -73,8 +57,7 @@ socials:
   podcast_url: 'https://itunes.apple.com/us/podcast/house-to-home-nashville-real-estate-podcast/id1217918134?mt=2'
 podcast:
   title: House to Home Nashville Real Estate Podcast
-  categories:
-    - Education
+  categories: Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
@@ -82,8 +65,8 @@ podcast:
   author: '-- CLIENT NAME --'
 images:
   client_headshot_path: /img/headshot.jpg
-  hero_logo_path: /img/Scott-hardesty-double-logobetter.png
-  logo_width_number: 14
+  hero_logo_path: /img/logo.png
+  logo_width_number: 20
   hero_text:
   hero_background_hex: '#ffffff'
   hero_image_path: /img/background.jpg
@@ -98,6 +81,7 @@ header_shadow:
   w_shadow: 2px
   shadow_spread: 7px
   shadow_color: 'rgba(0, 0, 0, 0)'
+
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
