@@ -24,7 +24,7 @@ youtube_code: yK7fyXWOxoM
 
 Are you an agent who has a property in mind that could be a good flip?
 
-We’ve been flipping homes for three years now through another company apart from our real estate team called Neal Bros, LLC which specializes in house flipping and investments. With this company, we now offer a program for agents who come across properties that could be a good flip.
+We’ve been flipping homes for three years now through another company apart from our real estate team called Neal Bros, LLC which specializes in house flipping and investments. With this company, we now offer a program for agents who come across properties that could be a good flip in the San Antonio and all surrounding areas.
 
 For example, if you’ve ever gone on a listing appointment with a seller who is in a distressed situation, or may not have enough money to fix-up the property to sell, we’d love to take a look at the house to see if the numbers will work. This is just one of many different scenarios that sellers may find themselves in and we are willing to consider anything!
 
