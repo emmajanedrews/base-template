@@ -3,12 +3,16 @@ layout: post
 title: Thinking About Investing in an Airbnb Rental?
 tags:
   - Real Estate
-excerpt: "If you've thought about rental property as an investment, you've probably considered using Airbnb. How do you know if these short-term rentals are right for you?"
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Scott+Hardesty/Videos/17/Greater+Nashville+Real+Estate-+Is+Airbnb+Right+for+You%253F.mp4'
+excerpt: >-
+  If you've thought about rental property as an investment, you've probably
+  considered using Airbnb. How do you know if these short-term rentals are right
+  for you?
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Scott+Hardesty/Videos/17/Greater+Nashville+Real+Estate-+Is+Airbnb+Right+for+You%253F.mp4
 pullquote: You can only seek an owner-occupied property permit.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/scott-hardesty--airbnb-youtube.jpg
 youtube_code: 'https://youtu.be/tdynL9k0hCM'
 ---
