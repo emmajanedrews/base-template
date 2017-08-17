@@ -25,7 +25,7 @@ How much will your appraisal cost? This is a question many people wonder at some
 
 The cost of a home appraisal is typically paid in advance by the homebuyer after acceptance. This usually happens once the inspection is completed to satisfaction.
 
-However, fees will vary. **This variation is largely dependent upon location, complexity of the appraisal, and, to some degree, market demand.**
+However, fees will vary. **This variation is largely dependent upon location, complexity of the appraisal, and to some degree, market demand.**
 
 In our San Antonio area, residential appraisal fees will typically cost between $350 to $500. If a property is a farm, ranch, acreage, or is complex in another way, this amount can be a little more.
 
@@ -35,7 +35,7 @@ So, how is an appraiser selected? This is something that will depend on your len
 
 However, after the Dodd-Frank era, it has since been necessary that lenders rotate their certified area appraisers.
 
-While they are aware of the stakes for both the buyer and seller, **an appraiser cannot base their appraisal strictly on the sales price.**Appraisers will look at comparable homes to help them determine value.
+While they are aware of the stakes for both the buyer and seller, **an appraiser cannot base their appraisal strictly on the sales price.&nbsp;**Appraisers will look at comparable homes to help them determine value.
 
 Low appraisals can happen. At that time, however, you have a couple of options. You can either renegotiate the contract or, in some cases, you may get a second opinion.
 
