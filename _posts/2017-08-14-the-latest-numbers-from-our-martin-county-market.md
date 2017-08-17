@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/joe-sabato-update-youtube.jpg
-youtube_code: 'https://youtu.be/b_5oRXf9sns'
+youtube_code: 'https://youtu.be/jc2S4DOZSUw'
 ---
 
 
