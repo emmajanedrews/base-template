@@ -38,4 +38,4 @@ Case in point: since the Fed started raising its rate in December 2016, total mo
 
 In conclusion, while any move by the Fed is likely to lead to a lot of hand-wringing, I believe the real estate market will not be affected and will continue on its own healthy course. Nonetheless, it’s clear that right now is a uniquely good moment for everyone in the real estate market. Today’s low mortgage rates are good for homebuyers because they make homes more affordable.
 
-If you have any questions about our market or you’re thinking of buying or selling a home, give me a call at (561) 352-3056 or send me an email at &nbsp;lisa@treugroup.com. I’d love to help.
+If you have any questions about our market or you’re thinking of buying or selling a home, give me a call at (561) 352-3056 or send me an email at lisa@treugroup.com. I’d love to help.
