@@ -23,7 +23,7 @@ There are many different loan types, including conventional, FHA, rehab, VA loan
 
 If you’re buying a standard, move-in ready home and you’re a first-time buyer, your credit history, employment history, down payment, and long-term goals will all factor into the type of loan that you want to apply for. &nbsp;
 
-**I always say, “The more down, the merrier.”** If you can put 20% down on your home, you can avoid things like private mortgage insurance, but for most people that’s just not an option. FHA loan are popular because they allow you to put less down and allow you to keep more money in your pocket.
+**I always say, “The more down, the merrier.”** If you can put 20% down on your home, you can avoid things like private mortgage insurance, but for most people that’s just not an option. FHA loans are popular because they allow you to put less down and allow you to keep more money in your pocket.
 
 {% include pullquote.html %}
 
