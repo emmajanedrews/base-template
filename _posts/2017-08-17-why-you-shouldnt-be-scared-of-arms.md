@@ -27,5 +27,3 @@ Those who benefit from ARMs have a defined holding period and know exactly how l
 {% include pullquote.html %}
 
 An ARM definitely has a place in the lender’s toolbox, but there is some risk involved. If you have any questions for us about ARMs or any other type of loan, don’t hesitate to give us a call or send us an email. We would love to hear from you.
-
-Teaser: Adjustable-rate mortgages, or ARMs, get a bad rap. They gained notoriety during the market crash of 2008, but most people have the wrong idea about them. For certain buyers, ARMs make the most sense. Depending on your goals as a homeowner, and ARM could save you a ton of money. To learn more, watch our latest video.
