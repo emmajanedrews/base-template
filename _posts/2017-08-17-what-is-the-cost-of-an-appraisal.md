@@ -1,9 +1,9 @@
 ---
 layout: post
 title: What Is the Cost of an Appraisal?
-date: 2017-08-17 13:13:57
+date: 2017-08-17 13:13:00
 tags:
-  - Home Seller Tips
+  - Home Buyer Tips
 excerpt: >-
   How much will your appraisal cost? This is a question many people wonder at
   some point in their real estate transaction.
