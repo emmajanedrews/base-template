@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Why Home Staging Works for Home Sellers
-date: 2017-08-16 12:27:46
+title: What's Working Now! - Why Home Staging Works for Home Sellers
+date: 2017-08-16 12:27:00
 tags:
   - Home Seller Tips
 excerpt: >-
