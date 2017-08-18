@@ -1480,7 +1480,7 @@ html[xmlns] .flexslider .slides {
   -webkit-transition: 0.3s;
   transition: 0.3s; }
   .navbar-left > li > a:hover {
-    background: transparent;
+    background: #eee;
     color: #4d9cd5;
     box-shadow: 4px 4px 0 #4d9cd5;
     border: 2px solid #ffffff;
@@ -2892,7 +2892,7 @@ form select {
   -webkit-transition: 0.3s;
   transition: 0.3s; }
   .cta:hover {
-    background: transparent;
+    background: #eee;
     color: #4d9cd5;
     box-shadow: 4px 4px 0 #4d9cd5;
     border: 2px solid #ffffff;
