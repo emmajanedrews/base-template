@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Which Home Upgrades Aren't Worth Making?
-date:
+date: 2017-08-18 15:30:51
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -28,7 +28,7 @@ Knowing what kind of upgrades are and aren’t worth the effort is essential. So
 
 **1. Adding a swimming pool.** This upgrade can be hit or miss. One of the biggest factors that goes into determining whether or not adding a pool will be a good investment is location. If you are selling a home in Florida, or anywhere else a pool might be used year-round, a pool will be more likely to have a better return. However, even in circumstances like these it’s unlikely you will exceed or even earn back the money you invested in installing the pool to begin with.
 
-**2. Highly personalized or customized designs.** When something about your home is too personalized, you are vastly decreasing the number of people who will find it appealing. Unless you are going to be staying in your home for years upon years to come, you should avoid making design choices that are too risky. Buyers’ tastes won’t always align with your own. &nbsp;This causes issues not only in attracting buyers, but in other ways as well. Buyers looking at a home that is too customized will take into consideration the cost of changing features that simply aren’t their style. If that price isn’t worth it to them, you’ll be losing a lot of offers.
+**2. Highly personalized or customized designs.** When something about your home is too personalized, you are vastly decreasing the number of people who will find it appealing. Unless you are going to be staying in your home for years upon years to come, you should avoid making design choices that are too risky. Buyers’ tastes won’t always align with your own.  This causes issues not only in attracting buyers, but in other ways as well. Buyers looking at a home that is too customized will take into consideration the cost of changing features that simply aren’t their style. If that price isn’t worth it to them, you’ll be losing a lot of offers.
 
 {% include pullquote.html %}
 
