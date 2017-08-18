@@ -5,7 +5,7 @@ show_custom_links: true
 custom_links:
   - title: Join Our Team
     url: 'http://unbouncepages.com/join-canovo/'
-  - title: Testimonials
+  - title: Client Testimonials
     url: '/client-testimonials'
 
 client:
