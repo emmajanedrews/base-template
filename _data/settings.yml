@@ -5,6 +5,8 @@ show_custom_links: true
 custom_links:
   - title: Join Our Team
     url: 'http://unbouncepages.com/join-canovo/'
+  - title: Testimonials
+    url: '/client-testimonials'
 
 client:
   name: The Canovo Group
@@ -13,7 +15,7 @@ client:
     The Canovo Group is one of Utah’s top real estate teams. With over a decade of experience and hundreds of real estate transactions under their belt, The Canovo Group understands what it takes to get results for their clients.
 
     They believe in straight talk. They understand that what you most want and need right now is answers, honest advice, realistic expectations and expert help during the buying or selling process.
-    
+
     The Canovo Group focus heavily on internet marketing. They believe that it’s their job to stay on the cutting edge of real estate technology so their clients have a competitive advantage.
   brand: The Canovo Group
   brokerage: Keller Williams Westfield Realty
