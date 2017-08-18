@@ -10,6 +10,6 @@ layout: default
 "Atia, my real estate agent was amazing! She was very friendly and helpful, willing to accommodate me anytime. She made sure she came to my closing and even changed her schedule so she could make it. I will recommend more people to her!"
 </p>
 <p class="testimonial-author">
-Desiree
+-Desiree
 </p>
 <hr>
