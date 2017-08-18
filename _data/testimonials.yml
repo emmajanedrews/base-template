@@ -1,5 +1,14 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
+  - quote: >-
+      Jeremy is an outstanding individual with a the work mentality as good as
+      anyone around. His knowledge and expertise help my wife and I find the
+      home of our dreams. I would recommend Jeremy to anyone I know. There isn’t
+      a realtor out there, that I would trust more with one of the most
+      important decision in one’s life than him. He is a hardworking, honest,
+      and kind person.
+    name: 'Corey & Danielle / West Fargo, ND (Buyer)'
+    audio:
   - quote:
     name:
     audio:
