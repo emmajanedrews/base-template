@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Today I wanted to take some time to lay out the 10 mistakes that I see
   homebuyers making:
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate-+Top+10+mistakes+to+avoid+making.mp4
 pullquote: Make sure this decision is right for you.
 enclosure_type: video/mp4
 enclosure_time:
