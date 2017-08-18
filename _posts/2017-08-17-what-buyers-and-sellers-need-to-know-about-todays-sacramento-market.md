@@ -8,7 +8,8 @@ excerpt: >-
   If you’ve been looking to buy or sell in today’s real estate market, there is
   some important information you’ll need to know before moving forward. Today,
   I’m bringing you a market update.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Market+Update.mp4
 pullquote: Today’s market has a lot to offer for buyers and sellers alike.
 enclosure_type: video/mp4
 enclosure_time:
