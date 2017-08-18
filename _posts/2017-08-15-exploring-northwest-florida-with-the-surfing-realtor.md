@@ -34,3 +34,5 @@ Amanda really believes in finding a balance between working hard and taking time
 You can see a little of how Amanda spends her days in the video above. **Congratulations on such a wonderful spotlight, Amanda!**
 
 As always, if you have any real estate questions, just give me a call or send me an email. I would be happy to help you.
+
+- Nathan Abbott
