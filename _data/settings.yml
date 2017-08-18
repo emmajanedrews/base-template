@@ -27,7 +27,7 @@ CTAs:
   first_CTA_URL: http://brent.buyboise.net/sell.php
   second_CTA_text: Home Search
   second_CTA_URL: http://www.buyboise.net/index.php?quick=1&display=Boise%2C+&areas[]=city%3ABoise&types[]=1&beds=0&baths=0&min=0&max=100000000
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=eb913c5943
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
@@ -70,7 +70,7 @@ socials:
   linkedin_url: https://www.linkedin.com/in/brent-dildine-782bb265/
   gplus_url: https://plus.google.com/u/0/b/109062457005029558448
   youtube_url: https://www.youtube.com/channel/UCcTaDuadEGo2l0r5jhYLmIA
-  twitter_url: http://www.twitter.com/https://twitter.com/brentbuyboise
+  twitter_url: https://twitter.com/brentbuyboise
   instagram_url:
   pinterest_url:
   zillow_url: https://www.zillow.com/profile/Brent-Dildine/
