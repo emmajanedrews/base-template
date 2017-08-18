@@ -1,6 +1,6 @@
 audit_header: false
-title: -- CLIENT BRAND --
-description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
+title: Charlotte Real Estate Careers and Training Video Blog with Dan Jones
+description: A Video Blog about Charlotte Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!
 show_custom_links: false
 custom_links:
   - title:
@@ -25,47 +25,21 @@ client:
   url: http://ListWithDanJones.com
 
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.myequityevaluation.com/
-  second_CTA_text: Home Search
-  second_CTA_URL: http://charlottehomehub.com/a/tlx/search?landing=1&rgu=0
-  VR_form: http://oi.vresp.com?fid=2f1ac2785a
+  first_CTA_text: Join Our Team
+  first_CTA_URL: https://carolina-real-estate-experts-the-dan-jones-group.breezy.hr/p/032744e37181
+  VR_form: http://oi.vresp.com?fid=c8967d1ea2
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free -- MARKET -- Home Value Report"
-    CTA_url: http://www.myequityevaluation.com/
-
-second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: http://charlottehomehub.com/a/tlx/search?landing=1&rgu=0
-
-lender:
-  show_section: true
-  header_text: Preferred Lender
-  headshot_path: /img/lender.jpg
-  # logo_path: /img/lender-logo.png
-  logo_path_2:
-  name: David Frum
-  brand: Lender Co.
-  license_number: NMLS# 83406
-  phone: 704-691-5956
-  email: David.Frum@Caliberhomeloans.com
-  url: https://caliberhomeloans.com/loan-consultant/north-carolina/Charlotte-NC/dfrum
+    CTA_title: "Hiring Top Talent Realtors"
+    CTA_text: "We are a top producing team of agents that have a proven track record to to get agents to $100k quickly and with a plan. If you are a new agent or an agent with experience we have the tools, the leads and world class coaching that will take you to 6 figures."
+    CTA_link_text: "Apply Here"
+    CTA_url: https://carolina-real-estate-experts-the-dan-jones-group.breezy.hr/p/032744e37181
 
 welcome_box:
-  welcome_headline: Join Our -- MARKET -- VIP List
+  welcome_headline: How to Sell More Homes
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
-    professionals can answer any questions you might have about real estate.
-    Subscribe to this blog to get the latest news on local market trends and
-    receive expert tips for buying or selling a home.
+    Whether you are just starting out, or you are licensed Broker, our team of professionals can answer any questions you might have about real estate. Subscribe to this blog to get the latest news on local market trends and receive expert tips for buying or selling a home.
 
 socials:
   review_sm_icons: false
@@ -81,23 +55,24 @@ socials:
   yelp_url: http://www.yelp.com/biz/dan-jones-home-selling-team-charlotte
   podcast_url: https://itunes.apple.com/us/podcast/charlotte-real-estate-podcast/id925034066?mt=2
 
-podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
-  categories: Education
-  image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: '-- CLIENT NAME --'
+# podcast:
+#   title: Charlotte Real Estate Careers and Training Podcast with Dan Jones
+#   categories: Education
+#   image: /img/podcast.jpg
+#   subtitle: 'Boost your Career with Veteran Real Estate Agent, Dan Jones'
+#   description: 'A Podcast about Charlotte Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!'
+#   keywords: 'Charlotte Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make'
+#   author: 'Dan Jones'
 
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 60
-  hero_text: -- MARKET -- Real Estate Video Blog
+  hero_text: Charlotte Real Estate Careers and Training Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
+
 site_colors:
   brand_color: '#76b3df'
   theme_color: '#c30932'

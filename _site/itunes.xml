@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title>Charlotte Real Estate Podcast with Dan Jones</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Dan Jones Group - your professional Charlotte Real Estate Agents.</description>
+    <title></title>
+    <link>http://www.danjonescoaching.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://www.danjonescoaching.com"/>
+    <description></description>
     <language>en</language>
-    <managingEditor>Dan Jones</managingEditor>
-    <lastBuildDate>2017-08-16 15:56:31 -0500</lastBuildDate>
-    <media:copyright>Dan Jones</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
-    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charlotte, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
-    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
+    <managingEditor></managingEditor>
+    <lastBuildDate>2017-08-18 14:45:26 -0500</lastBuildDate>
+    <media:copyright></media:copyright>
+    <media:thumbnail url="http://www.danjonescoaching.com"/>
+    <media:keywords></media:keywords>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd"></media:category>
     <itunes:owner>
       <itunes:email>Sold@MyHomeCarolinas.com</itunes:email>
-      <itunes:name>Dan Jones</itunes:name>
+      <itunes:name></itunes:name>
     </itunes:owner>
-    <itunes:author>Dan Jones</itunes:author>
+    <itunes:author></itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
-    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charlotte, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Charlotte Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Dan Jones Group - your professional Charlotte Real Estate Agents.</itunes:summary>
-      <itunes:category text="Education"/>
+    <itunes:image href="http://www.danjonescoaching.com"/>
+    <itunes:keywords></itunes:keywords>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:summary></itunes:summary>
+      <itunes:category text=""/>
     
       <item>
         <title>Are We in a Bubble?</title>
-        <link>localhost:4000/are-we-in-bubble.html</link>
+        <link>http://www.danjonescoaching.com/are-we-in-bubble.html</link>
         
           <category>Market Update</category>
         
-        <author>Dan Jones</author>
+        <author></author>
         <pubDate>2017-08-11 14:41:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+Is+Charlotte+in+a+Real+Estate+Bubble%253F.mp4</guid>
         <description>
@@ -60,7 +60,7 @@ Overall, I’d have to say that most people would not agree that we’re in a bu
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+Is+Charlotte+in+a+Real+Estate+Bubble%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.danjonescoaching.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+Is+Charlotte+in+a+Real+Estate+Bubble%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -68,22 +68,22 @@ If you have any other questions or would like more information, feel free to giv
 A lot of people are asking if we’re in a bubble. To figure that out, the first place we should look is at the numbers themselves.
 
 </itunes:subtitle>
-        <itunes:author>Dan Jones</itunes:author>
+        <itunes:author></itunes:author>
         <itunes:summary>
 
 A lot of people are asking if we’re in a bubble. To figure that out, the first place we should look is at the numbers themselves.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charlotte, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords></itunes:keywords>
       </item>
       
       <item>
         <title>How Do You Choose a Quality Agent?</title>
-        <link>localhost:4000/how-do-you-choose-quality-agent.html</link>
+        <link>http://www.danjonescoaching.com/how-do-you-choose-quality-agent.html</link>
         
           <category>Home Seller Tips</category>
         
-        <author>Dan Jones</author>
+        <author></author>
         <pubDate>2017-07-27 13:02:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+How+to+find+a+good+agent.mp4</guid>
         <description>
@@ -115,7 +115,7 @@ One of the things that sets my team apart is that we only accept full price offe
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+How+to+find+a+good+agent.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.danjonescoaching.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+How+to+find+a+good+agent.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -123,22 +123,22 @@ If you have any other questions or would like more information, feel free to giv
 When you are looking for an agent to help with your real estate transaction, how can you know if they will do a good job?
 
 </itunes:subtitle>
-        <itunes:author>Dan Jones</itunes:author>
+        <itunes:author></itunes:author>
         <itunes:summary>
 
 When you are looking for an agent to help with your real estate transaction, how can you know if they will do a good job?
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charlotte, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords></itunes:keywords>
       </item>
       
       <item>
         <title>Who Can You Trust to Sell Your Rental Property?</title>
-        <link>localhost:4000/who-can-you-trust-to-sell-your-rental.html</link>
+        <link>http://www.danjonescoaching.com/who-can-you-trust-to-sell-your-rental.html</link>
         
           <category>Home Seller Tips</category>
         
-        <author>Dan Jones</author>
+        <author></author>
         <pubDate>2017-06-26 13:57:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+Who+Can+You+Trust+to+Sell+Your+Rental+Property%253F.mp4</guid>
         <description>
@@ -158,7 +158,7 @@ Someone once told me that when you ask someone to do something they don’t norm
 If you have a home that’s rented that you’re looking to sell, don’t hesitate to give me a call or send me an email. I’d be happy to help!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+Who+Can+You+Trust+to+Sell+Your+Rental+Property%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.danjonescoaching.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+Who+Can+You+Trust+to+Sell+Your+Rental+Property%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -166,22 +166,22 @@ If you have a home that’s rented that you’re looking to sell, don’t hesita
 If you want to sell your home that’s currently being rented, should you try to sell it through the leasing company? Here’s why I advise against it.
 
 </itunes:subtitle>
-        <itunes:author>Dan Jones</itunes:author>
+        <itunes:author></itunes:author>
         <itunes:summary>
 
 If you want to sell your home that’s currently being rented, should you try to sell it through the leasing company? Here’s why I advise against it.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charlotte, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords></itunes:keywords>
       </item>
       
       <item>
         <title>A Few Things to Know Before Buying New Construction</title>
-        <link>localhost:4000/a-few-things-to-know-before-buying-new.html</link>
+        <link>http://www.danjonescoaching.com/a-few-things-to-know-before-buying-new.html</link>
         
           <category>Home Buyer Tips</category>
         
-        <author>Dan Jones</author>
+        <author></author>
         <pubDate>2017-05-26 16:52:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+New+construction+Edited.mp4</guid>
         <description>
@@ -203,7 +203,7 @@ Speaking of our great agents, let me give a shout out to one of our new agents, 
 In the meantime, if you have any questions for us, don’t hesitate to give us a call or send us an email. We look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+New+construction+Edited.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.danjonescoaching.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+New+construction+Edited.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -211,22 +211,22 @@ In the meantime, if you have any questions for us, don’t hesitate to give us a
 Whatever you do, don’t start the new home building process without an agent’s help. You could be setting yourself up for failure without even trying.
 
 </itunes:subtitle>
-        <itunes:author>Dan Jones</itunes:author>
+        <itunes:author></itunes:author>
         <itunes:summary>
 
 Whatever you do, don’t start the new home building process without an agent’s help. You could be setting yourself up for failure without even trying.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charlotte, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords></itunes:keywords>
       </item>
       
       <item>
         <title>The Latest News From the Charlotte Real Estate Market</title>
-        <link>localhost:4000/the-latest-news-from-charlotte-real.html</link>
+        <link>http://www.danjonescoaching.com/the-latest-news-from-charlotte-real.html</link>
         
           <category>Market Update</category>
         
-        <author>Dan Jones</author>
+        <author></author>
         <pubDate>2017-05-16 13:37:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+Market+Update.mp4</guid>
         <description>
@@ -248,7 +248,7 @@ For buyers, interest rates are still incredibly low, but they are starting to cr
 If you have any questions about navigating our current market, give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+Market+Update.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.danjonescoaching.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+Market+Update.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -256,22 +256,22 @@ If you have any questions about navigating our current market, give me a call or
 It’s not summer yet, but the Charlotte real estate market is the hottest market we have ever seen. I’ll go over more details for you today.
 
 </itunes:subtitle>
-        <itunes:author>Dan Jones</itunes:author>
+        <itunes:author></itunes:author>
         <itunes:summary>
 
 It’s not summer yet, but the Charlotte real estate market is the hottest market we have ever seen. I’ll go over more details for you today.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charlotte, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords></itunes:keywords>
       </item>
       
       <item>
         <title>Why You Should Hire Us to Sell Your House</title>
-        <link>localhost:4000/why-you-should-hire-us-to-sell-your.html</link>
+        <link>http://www.danjonescoaching.com/why-you-should-hire-us-to-sell-your.html</link>
         
           <category>Home Seller Tips</category>
         
-        <author>Dan Jones</author>
+        <author></author>
         <pubDate>2017-04-11 15:28:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+Are+You+Thinking+About+Selling+Your+Home+This+Year%253F.mp4</guid>
         <description>
@@ -297,7 +297,7 @@ We do a full equity evaluation based on a market absorption sheet. We’ll look 
 If you’re thinking about selling, it’s a must. Just give us a call or send us an email if you’re thinking about selling, we’d love to help.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+Are+You+Thinking+About+Selling+Your+Home+This+Year%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.danjonescoaching.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+Are+You+Thinking+About+Selling+Your+Home+This+Year%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -305,22 +305,22 @@ If you’re thinking about selling, it’s a must. Just give us a call or send u
 If you’re thinking about selling your house this year, you need to reach out to us. Allow me to explain why.
 
 </itunes:subtitle>
-        <itunes:author>Dan Jones</itunes:author>
+        <itunes:author></itunes:author>
         <itunes:summary>
 
 If you’re thinking about selling your house this year, you need to reach out to us. Allow me to explain why.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charlotte, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords></itunes:keywords>
       </item>
       
       <item>
         <title>Stand out on the Market By Doing These 4 Things</title>
-        <link>localhost:4000/stand-out-on-market-by-doing-these-4.html</link>
+        <link>http://www.danjonescoaching.com/stand-out-on-market-by-doing-these-4.html</link>
         
           <category>Home Seller Tips</category>
         
-        <author>Dan Jones</author>
+        <author></author>
         <pubDate>2017-03-28 16:20:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+Affordable+Ways+to+Get+Your+Home+Ready+for+the+Market.mp4</guid>
         <description>
@@ -350,7 +350,7 @@ Assuming there are no major issues with your carpet or flooring, hitting the bas
 If you have any other questions, please feel free to give me a call or send me an email. I look forward to hearing from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+Affordable+Ways+to+Get+Your+Home+Ready+for+the+Market.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.danjonescoaching.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+Affordable+Ways+to+Get+Your+Home+Ready+for+the+Market.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -358,22 +358,22 @@ If you have any other questions, please feel free to give me a call or send me a
 Today I’m going to go over some great, affordable ways to prepare your home for the spring market.
 
 </itunes:subtitle>
-        <itunes:author>Dan Jones</itunes:author>
+        <itunes:author></itunes:author>
         <itunes:summary>
 
 Today I’m going to go over some great, affordable ways to prepare your home for the spring market.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charlotte, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords></itunes:keywords>
       </item>
       
       <item>
         <title>Why Work With One of Our Buyer Specialists?</title>
-        <link>localhost:4000/why-work-with-one-of-our-buyer.html</link>
+        <link>http://www.danjonescoaching.com/why-work-with-one-of-our-buyer.html</link>
         
           <category>Home Buyer Tips</category>
         
-        <author>Dan Jones</author>
+        <author></author>
         <pubDate>2017-03-10 15:42:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+What+Makes+Our+Buyer+Specialists+Different.mp4</guid>
         <description>
@@ -391,7 +391,7 @@ Another unique advantage our team offers is that we are coached at a very high l
 The average agent sells five homes per year and doesn’t know how to get their buyers the best deal possible. With our unique training and experience, we do. If you have any questions for us or would like to work with one of our expert buyer specialists, give us a call or send us an email. We look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+What+Makes+Our+Buyer+Specialists+Different.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.danjonescoaching.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+What+Makes+Our+Buyer+Specialists+Different.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -399,22 +399,22 @@ The average agent sells five homes per year and doesn’t know how to get their 
 Our market moves fast, especially for buyers. You can gain an advantage on your competition by hiring the right people to help you.
 
 </itunes:subtitle>
-        <itunes:author>Dan Jones</itunes:author>
+        <itunes:author></itunes:author>
         <itunes:summary>
 
 Our market moves fast, especially for buyers. You can gain an advantage on your competition by hiring the right people to help you.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charlotte, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords></itunes:keywords>
       </item>
       
       <item>
         <title>Whats Going on in the Charlotte Market?</title>
-        <link>localhost:4000/whats-going-on-in-charlotte-market.html</link>
+        <link>http://www.danjonescoaching.com/whats-going-on-in-charlotte-market.html</link>
         
           <category>Market Update</category>
         
-        <author>Dan Jones</author>
+        <author></author>
         <pubDate>2017-02-27 11:46:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+The+Charlotte+Market+is+On+Fire.mp4</guid>
         <description>
@@ -436,7 +436,7 @@ All in all, right now is a great time to buy or sell real estate. Also, if you h
 If you have any further questions or want to discuss how you can take advantage of Charlotte’s hot market, please feel free to give me a call or send me an email. I look forward to hearing from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+The+Charlotte+Market+is+On+Fire.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.danjonescoaching.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+The+Charlotte+Market+is+On+Fire.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -444,22 +444,22 @@ If you have any further questions or want to discuss how you can take advantage 
 The Charlotte market is on fire right now! I’ll go over what’s making our real estate market so hot today.
 
 </itunes:subtitle>
-        <itunes:author>Dan Jones</itunes:author>
+        <itunes:author></itunes:author>
         <itunes:summary>
 
 The Charlotte market is on fire right now! I’ll go over what’s making our real estate market so hot today.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charlotte, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords></itunes:keywords>
       </item>
       
       <item>
         <title>Great News for North Carolina Home Buyers </title>
-        <link>localhost:4000/great-news-for-north-carolina-home.html</link>
+        <link>http://www.danjonescoaching.com/great-news-for-north-carolina-home.html</link>
         
           <category>Home Buyer Tips</category>
         
-        <author>Dan Jones</author>
+        <author></author>
         <pubDate>2017-01-25 13:26:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+%252415K+Grant+Program+is+back.mp4</guid>
         <description>
@@ -487,7 +487,7 @@ If you’re not a first-time home buyer but you know someone who is, make sure t
 Last October, 3,000 grants were issued to home buyers. There are not many left today. Get in touch with us to take advantage of this great loan program. We would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+%252415K+Grant+Program+is+back.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.danjonescoaching.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+%252415K+Grant+Program+is+back.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -495,22 +495,22 @@ Last October, 3,000 grants were issued to home buyers. There are not many left t
 North Carolina recently brought back its $15,000 grant program. This is a great program for first-time home buyers. I’ll go over a few important details for you today.
 
 </itunes:subtitle>
-        <itunes:author>Dan Jones</itunes:author>
+        <itunes:author></itunes:author>
         <itunes:summary>
 
 North Carolina recently brought back its $15,000 grant program. This is a great program for first-time home buyers. I’ll go over a few important details for you today.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charlotte, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords></itunes:keywords>
       </item>
       
       <item>
         <title>Why Is Now a Great Time to List Your Home?</title>
-        <link>localhost:4000/why-is-now-great-time-to-list-your-home.html</link>
+        <link>http://www.danjonescoaching.com/why-is-now-great-time-to-list-your-home.html</link>
         
           <category>Home Seller Tips</category>
         
-        <author>Dan Jones</author>
+        <author></author>
         <pubDate>2017-01-11 11:04:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+Hiring+Buyer+Agents.mp4</guid>
         <description>
@@ -530,7 +530,7 @@ If you’ve been thinking about selling, get a time set up with one of our listi
 As always, if you have any questions, we would be glad to answer them. Just give us a call or send us an email. We can’t wait to hear from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+Hiring+Buyer+Agents.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.danjonescoaching.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+Hiring+Buyer+Agents.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -538,22 +538,22 @@ As always, if you have any questions, we would be glad to answer them. Just give
 There are a lot of serious buyers out in the market right now. Here’s why listing now will help you capture this segment of buyers.
 
 </itunes:subtitle>
-        <itunes:author>Dan Jones</itunes:author>
+        <itunes:author></itunes:author>
         <itunes:summary>
 
 There are a lot of serious buyers out in the market right now. Here’s why listing now will help you capture this segment of buyers.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charlotte, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords></itunes:keywords>
       </item>
       
       <item>
         <title>What Makes Zestimates Inaccurate?</title>
-        <link>localhost:4000/dan-jones-home-selling-team-perils-of.html</link>
+        <link>http://www.danjonescoaching.com/dan-jones-home-selling-team-perils-of.html</link>
         
           <category>Home Seller Tips</category>
         
-        <author>Dan Jones</author>
+        <author></author>
         <pubDate>2016-08-09 13:15:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+Why+Zillow+Zestimates+Are+So+Off.mp4</guid>
         <description>
@@ -571,7 +571,7 @@ Finally, Zestimates don’t take upgrades and updates into account. Your home’
 I have a rental property that Zillow recently told me is worth $80,000 more than it really is. If anyone out there would like to buy the home for the Zestimate price, let me know and we’ll get a contract written up. Otherwise, if you have any other questions or want to know what the true market value of your home is, give us a call. We would be happy to do an equity evaluation for you and give you a professional opinion on how much your home should sell for.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+Why+Zillow+Zestimates+Are+So+Off.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.danjonescoaching.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+Why+Zillow+Zestimates+Are+So+Off.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -579,22 +579,22 @@ I have a rental property that Zillow recently told me is worth $80,000 more than
 I’ve gotten a lot of questions recently about Zestimates, and I’m going to address them today. A Zestimate is just what its name implies - an estimate of your home’s value. An estimate is a reasonable approach to value in regard to real estate, but an estimate is, by definition, inexact. Enjoy using a Zestimate as a tool, but don’t be surprised by the inaccurate information that you receive from it.
 
 </itunes:subtitle>
-        <itunes:author>Dan Jones</itunes:author>
+        <itunes:author></itunes:author>
         <itunes:summary>
 
 I’ve gotten a lot of questions recently about Zestimates, and I’m going to address them today. A Zestimate is just what its name implies - an estimate of your home’s value. An estimate is a reasonable approach to value in regard to real estate, but an estimate is, by definition, inexact. Enjoy using a Zestimate as a tool, but don’t be surprised by the inaccurate information that you receive from it.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charlotte, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords></itunes:keywords>
       </item>
       
       <item>
         <title>What Are Some of the Hidden Costs of Selling a House?</title>
-        <link>localhost:4000/dan-jones-home-selling-team-hidden.html</link>
+        <link>http://www.danjonescoaching.com/dan-jones-home-selling-team-hidden.html</link>
         
           <category>Home Seller Tips</category>
         
-        <author>Dan Jones</author>
+        <author></author>
         <pubDate>2016-08-01 10:05:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+The+Hidden+Costs+of+Selling+a+House.mp4</guid>
         <description>
@@ -614,7 +614,7 @@ Finally, you have costs like additional repairs or attorney’s fees. If there a
 Be sure you’re aware of these omissions when it’s your time to sell so you’re prepared for the process. If you have any questions, please send me an email or give me a call. As always, I look forward to your referrals and talking to you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+The+Hidden+Costs+of+Selling+a+House.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.danjonescoaching.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+The+Hidden+Costs+of+Selling+a+House.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -622,22 +622,22 @@ Be sure you’re aware of these omissions when it’s your time to sell so you�
 There are several hidden costs of selling a house people usually don’t find out about until they get to the closing table. What I want to talk about today are some of those major expenses.
 
 </itunes:subtitle>
-        <itunes:author>Dan Jones</itunes:author>
+        <itunes:author></itunes:author>
         <itunes:summary>
 
 There are several hidden costs of selling a house people usually don’t find out about until they get to the closing table. What I want to talk about today are some of those major expenses.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charlotte, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords></itunes:keywords>
       </item>
       
       <item>
         <title>Pricing Errors that Cost Carolina Home Sellers Thousands</title>
-        <link>localhost:4000/dan-jones-home-selling-team-avoid-these.html</link>
+        <link>http://www.danjonescoaching.com/dan-jones-home-selling-team-avoid-these.html</link>
         
           <category>Home Seller Tips</category>
         
-        <author>Dan Jones</author>
+        <author></author>
         <pubDate>2016-07-20 11:57:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+The+Top+Reasons+Sellers+Lose+Thousands+of+Dollars+When+Selling.mp4</guid>
         <description>
@@ -659,7 +659,7 @@ Finally, choosing the wrong agent can cause you to lose tens of thousands of dol
 Let me know of any questions you have about pricing your home, or if you’re considering buying or selling a home. I look forward to speaking with you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+The+Top+Reasons+Sellers+Lose+Thousands+of+Dollars+When+Selling.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.danjonescoaching.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+The+Top+Reasons+Sellers+Lose+Thousands+of+Dollars+When+Selling.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -667,22 +667,22 @@ Let me know of any questions you have about pricing your home, or if you’re co
 Homeowners can lose thousands of dollars when they sell their house for a number of reasons. How is it possible to lose money when selling, you ask?
 
 </itunes:subtitle>
-        <itunes:author>Dan Jones</itunes:author>
+        <itunes:author></itunes:author>
         <itunes:summary>
 
 Homeowners can lose thousands of dollars when they sell their house for a number of reasons. How is it possible to lose money when selling, you ask?
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charlotte, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords></itunes:keywords>
       </item>
       
       <item>
         <title>Why Is the Carolina Market So Hot? </title>
-        <link>localhost:4000/dan-jones-home-selling-team-carolina.html</link>
+        <link>http://www.danjonescoaching.com/dan-jones-home-selling-team-carolina.html</link>
         
           <category>North Carolina Market Update</category>
         
-        <author>Dan Jones</author>
+        <author></author>
         <pubDate>2016-07-06 13:11:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+Why+is+the+Market+So+Hot%253F.mp4</guid>
         <description>
@@ -700,7 +700,7 @@ If you are thinking of selling in this market, I have one warning: Do not underp
 If you are thinking about selling, give us a call or send us an email. We will do a full equity evaluation of your property so you don’t leave a lot of money on the table. We look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+Why+is+the+Market+So+Hot%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.danjonescoaching.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+Why+is+the+Market+So+Hot%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -708,22 +708,22 @@ If you are thinking about selling, give us a call or send us an email. We will d
 Now is a great time to sell your house. In the last three to six months, we’ve had a lot of problems getting homes appraised because the market jumped up so quickly. However, now there are plenty of comparable sales to support those increases, and the market is on fire.
 
 </itunes:subtitle>
-        <itunes:author>Dan Jones</itunes:author>
+        <itunes:author></itunes:author>
         <itunes:summary>
 
 Now is a great time to sell your house. In the last three to six months, we’ve had a lot of problems getting homes appraised because the market jumped up so quickly. However, now there are plenty of comparable sales to support those increases, and the market is on fire.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charlotte, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords></itunes:keywords>
       </item>
       
       <item>
         <title>Dont Make This Common Buyer Mistake in Charlotte</title>
-        <link>localhost:4000/dan-jones-home-selling-team-hiring.html</link>
+        <link>http://www.danjonescoaching.com/dan-jones-home-selling-team-hiring.html</link>
         
           <category>Home Buyer Tips</category>
         
-        <author>Dan Jones</author>
+        <author></author>
         <pubDate>2016-06-01 14:33:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+The+Biggest+Buyer+Mistakes.mp4</guid>
         <description>
@@ -741,7 +741,7 @@ Make sure that if you’re going to work with someone, you don’t make the mist
 If you or your friends, family or co-workers have questions or real estate needs, reach out to us. I’d love to speak with you and help you with your real estate needs.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+The+Biggest+Buyer+Mistakes.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.danjonescoaching.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+The+Biggest+Buyer+Mistakes.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -749,22 +749,22 @@ If you or your friends, family or co-workers have questions or real estate needs
 There are unfortunately a lot of mistakes that buyers can make in the Charlotte market. Most of the time, it comes down to choosing the wrong agent.
 
 </itunes:subtitle>
-        <itunes:author>Dan Jones</itunes:author>
+        <itunes:author></itunes:author>
         <itunes:summary>
 
 There are unfortunately a lot of mistakes that buyers can make in the Charlotte market. Most of the time, it comes down to choosing the wrong agent.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charlotte, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords></itunes:keywords>
       </item>
       
       <item>
         <title>Avoid the Pitfalls of Hiring the Wrong Carolina Buyers Agent </title>
-        <link>localhost:4000/dan-jones-home-selling-team-wrong.html</link>
+        <link>http://www.danjonescoaching.com/dan-jones-home-selling-team-wrong.html</link>
         
           <category>Home Buyer Tips</category>
         
-        <author>Dan Jones</author>
+        <author></author>
         <pubDate>2016-05-13 11:09:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+The+Potential+Pitfalls+of+Choosing+the+Wrong+Buyer%2527s+Agent.mp4</guid>
         <description>
@@ -782,22 +782,22 @@ Think twice about what agent you’re using. Interview more than one agent. Make
 My team and I can get you to the closing process with the least amount of trouble. We can make this a very easy experience for you. If you have any questions, just give us a call or send us an email. We would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+The+Potential+Pitfalls+of+Choosing+the+Wrong+Buyer%2527s+Agent.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.danjonescoaching.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+The+Potential+Pitfalls+of+Choosing+the+Wrong+Buyer%2527s+Agent.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 
 </itunes:subtitle>
-        <itunes:author>Dan Jones</itunes:author>
+        <itunes:author></itunes:author>
         <itunes:summary>
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charlotte, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords></itunes:keywords>
       </item>
       
-    <copyright>Dan Jones</copyright>
-    <media:credit role="author">Dan Jones</media:credit>
+    <copyright></copyright>
+    <media:credit role="author"></media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Dan Jones Group - your professional Charlotte Real Estate Agents.</media:description>
+    <media:description type="plain"></media:description>
   </channel>
 </rss>
