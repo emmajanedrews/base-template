@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Buyers and Sellers Need to Know About Today's Sacramento Market
-date: 2017-08-17 13:31:38
+date: 2017-08-17 13:31:00
 tags:
   - Market Update
 excerpt: >-
@@ -14,13 +14,13 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: rS6yutKyeHA
+youtube_code: LfjcUIyP88Q
 ---
 
 
 {% include youtube.html %}
 
-If you’ve been looking to buy or sell in today’s real estate market, there is some important information you’ll need to know before moving forward. Today, I’m bringing you a market update.  
+If you’ve been looking to buy or sell in today’s real estate market, there is some important information you’ll need to know before moving forward. Today, I’m bringing you a market update.
 
 Right now, sales have dropped dramatically. This isn’t because people aren’t buying—it’s because, currently, **the supply is far too low for the high demand in our area.**
 
