@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Remember These Key Tips Before Closing
-date: 2017-08-17 12:54:27
+date: 2017-08-17 12:54:00
 tags:
 excerpt: >-
   Even when you are nearly at the closing table, there are still a few things
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/mistakes-youtube.jpg
-youtube_code: CVxYXh3b9s0
+youtube_code: '-8cQA0Dy8tI'
 ---
 
 
