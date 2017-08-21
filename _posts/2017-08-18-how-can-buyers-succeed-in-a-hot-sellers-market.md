@@ -36,4 +36,6 @@ Outside of having a local lender, the next best tip is to not be defeated. We of
 
 &nbsp;**Be prepared to miss out for a while, but eventually things will work out**.
 
-The market is tough but great professionals can help you navigate this hot seller’s market.
+The market is tough but great professionals can help you navigate this hot seller’s market.&nbsp;
+
+If you have any questions, just give us a call or send us an email. We would be happy to help you!
