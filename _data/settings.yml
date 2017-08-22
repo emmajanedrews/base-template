@@ -7,20 +7,19 @@ custom_links:
     url:
 
 client:
-  name: Gregory & Kimberli Taylor
+  name: Gregory Taylor
   license_number:
   about_markdown: |
-    Greg & Kim are dedicated professionals whose diligence and marketing savvy provide the best formula for continued success. Their determination to cater to clients specific needs, attention to detail and sharp negotiating skills allows them to receive first class service with utmost integrity. Whether it's a person looking for their first home or a company looking to do a condo conversion, Team Taylor Real Estate Group has the expertise and experience to get the job done. Their goal is to exceed your expectations. Their warm, sincere yet professional business style will turn you into a client for life.
+    Greg is a dedicated professional whose diligence and marketing savvy provide the best formula for continued success. His determination to cater to clients specific needs, attention to detail and sharp negotiating skills allows them to receive first class service with utmost integrity.
   market: New Jersey
   brand: Team Taylor Real Estate Group
   brokerage: Liberty Realty
-  address: 131 Washington St <br> Hoboken, NJ 07030
+  address: 131 Washington St Hoboken, NJ 07030
   phone: 917-805-5411
-  phone_type: Greg
-  phone2: 201-920-2604
-  phone2_type: Kimberli
+  phone_type:
+  phone2:
+  phone2_type:
   email: Greg@TeamTaylorInc.com
-  email2: Kim@TeamTaylorInc.com
   url: http://www.HudsonCountyHomes.com
 
 CTAs:
@@ -92,12 +91,12 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 80
-  hero_text: -- MARKET -- Real Estate Video Blog
+  # hero_text: -- MARKET -- Real Estate Video Blog
   hero_background_hex: '#094264'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#192d50'
+  brand_color: '#13a89e'
   theme_color: '#192d50'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
