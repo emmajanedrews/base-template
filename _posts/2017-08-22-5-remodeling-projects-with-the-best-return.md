@@ -11,7 +11,7 @@ enclosure:
 pullquote: Some will make more sense for your home than others.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /uploads/daniel-dixon-team-screenshot-with-new-agents-added-8-17youtube.jpg
 youtube_code: 'https://youtu.be/zQrQOjADnr4'
 ---
@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/zQrQOjADnr4'
 
 Home remodeling is hotter than ever.
 
-According to researchers at Harvard University, remodeling investment is up 6% over last year, and now makes up a $324 billion market.&nbsp;
+According to researchers at Harvard University, remodeling investment is up 6% over last year, and now makes up a $324 billion market.
 
 According to a survey of remodelers and real estate professionals, there are five remodeling projects that offer the best returns:
 
