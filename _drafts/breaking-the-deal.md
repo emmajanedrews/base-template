@@ -9,7 +9,8 @@ excerpt: >-
   and we’re on your side.  This means we protect you and your interests. If we
   were looking at a house, we would look at everything through the lens of your
   needs and interests.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland+Real+Estate+Agent-+Break+the+Deal.mp4
 pullquote: We’ve got your back.
 enclosure_type: video/mp4
 enclosure_time:
@@ -23,7 +24,7 @@ youtube_code: 0nbXfx_CiQQ
 
 When you work with the AskSarita Team as your buyer’s agent, we work with you and we’re on your side.
 
-This means we protect you and your interests. If we were looking at a house, we would look at everything through the lens of your needs and interests.
+**This means we protect you and your interests.** If we were looking at a house, we would look at everything through the lens of your needs and interests.
 
 If we were looking at a home on a Sunday afternoon on a busy street, it would be a bit quiet. Whereas you might fall in love with the home’s big kitchen or master closet, I would tell you to look at the busy street and the fact that it’s 3 p.m. on a Sunday and advise you to visit that house tomorrow morning at 6 a.m. to make sure the street’s not too busy.
 
@@ -35,6 +36,6 @@ That latter example is actually based on a true story. I was checking out a beau
 
 That’s what our team is about—we don’t mind breaking the deal. We will find you the right house, whether that means the one we’re currently looking at or the next one. In fact, when we’re under contract during the inspection period, you get to keep looking for houses.
 
-We break the deal because we’ve got your back.
+**We break the deal because we’ve got your back.**
 
 If you have any questions for us or are thinking of buying or selling a home in our Portland market, don’t hesitate to reach out to us. We’d love to help you.
