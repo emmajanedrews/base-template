@@ -7,7 +7,8 @@ date: 2017-08-18 10:55:00
 excerpt: >-
   Statistics show that For Sale By Owner properties sell for 8% less than
   properties listed by an agent. Why does that happen?
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Chris+Gorman/Videos/Triangle+Area+Real+Estate-+Skipping+the+Listing+Agent+Could+Cost+You.mp4
 pullquote: >-
   From a numbers standpoint, it simply makes more sense to hire a professional
   agent.
