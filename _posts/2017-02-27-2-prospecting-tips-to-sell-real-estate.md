@@ -5,7 +5,7 @@ enclosure: https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home
 pullquote: DON’T PLAY THE CHASING GAME—GO FOR THE APPOINTMENT.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /uploads/feb-2-ss.jpg
 layout: post
 title: 2 Prospecting Tips to Sell Real Estate at a Higher Level

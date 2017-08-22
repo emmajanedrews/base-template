@@ -5,7 +5,7 @@ enclosure: https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home
 pullquote: TRACKING ON A DAILY, WEEKLY, AND MONTHLY BASIS WILL ALLOW YOU TO FIND TRENDS IN YOUR NUMBERS AND USE THEM TO HIT 40 TO 50 SALES PER YEAR.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /uploads/jun-27-ss.jpg
 layout: post
 title: Tracking Your Numbers Is the Key to Success

@@ -5,7 +5,7 @@ enclosure: https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home
 pullquote: ASK WHEN THEY WANT TO SEE THE HOME RIGHT AWAY!
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /uploads/mar-3-ss.jpg
 layout: post
 title: 'The 4-Step Process to Handle Agent Request Leads '

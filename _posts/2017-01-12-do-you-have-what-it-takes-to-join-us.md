@@ -5,7 +5,7 @@ enclosure: https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Sell
 pullquote: OUR TEAM HIT ALL OUR GOALS FOR 2016.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /uploads/jan-1-ss.jpg
 layout: post
 title: Do You Have What It Takes to Join Us?
