@@ -1,6 +1,6 @@
 audit_header: false
 title: -- CLIENT BRAND --
-description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
+description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
   - title:
@@ -14,7 +14,7 @@ client:
   market:
   brand: DeSane & Associates
   brokerage: Keller Williams Realty
-  address: 12008 South Shore Blvd Suite 201. Wellington, FL 33414
+  address: 12008 South Shore Blvd Suite 201<br>Wellington, FL 33414
   phone: 561-320-2085
   phone_type:
   phone2:
@@ -70,7 +70,7 @@ socials:
   linkedin_url: https://www.linkedin.com/in/joe-desane-2b946793/
   gplus_url:
   youtube_url: http://www.youtube.com/channel/UCVFxMZ5y_mhaJHX_zvcC5PQ
-  twitter_url: https://twitter.com/DESANANDASSOC
+  twitter_url: https://twitter.com/DeSaneandAssoc
   instagram_url:
   pinterest_url:
   zillow_url: https://www.zillow.com/profile/DeSane_And_Assoc./
