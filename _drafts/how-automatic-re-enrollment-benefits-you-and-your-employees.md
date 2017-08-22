@@ -18,13 +18,13 @@ youtube_code: 1ldStaVNlkw
 
 {% include youtube.html %}
 
-As the author of “The Retirement Bullseye,” I’ve been talking for the last couple of months about courageous plan design and concept we call Auto to the 5th Power.
+As the author of “The Retirement Bullseye,” I’ve been talking for the last couple of months about courageous plan design and a&nbsp;concept we call Auto to the 5th Power.
 
-Before we dive into automatic re-enrollment, there are a few things you should keep in mind about automatic features.
+Before we dive into today’s topic, “automatic re-enrollment”, there are a few things you should keep in mind about automatic features.
 
 First, you need to make sure that you review your plan document to ensure it reflects that automatic features are elected.
 
-Do you have a process in place to implement and monitor these automatic features?
+Second, do you have a process in place to implement and monitor these automatic features?
 
 **Most importantly, you have to give your employees notice.&nbsp;**You can lead them to water, but they decide whether to drink. The notices lets them know what their options are.
 
