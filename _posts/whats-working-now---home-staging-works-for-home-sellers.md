@@ -40,7 +40,7 @@ After that, we came in and made sure to pack away all personal photos that were 
 
 To learn more about the value of preparing your home for the market, you can [<u>sign up here</u>](http://www.homesellerhalfhour.tv/) to watch our Seller Half Hour seminar online. Remember, you can learn everything you need to know about selling a home in just 30 minutes.
 
-If you would like a tour of my new listing, <u><a href="http://www.3201garfield.com/">click here</a>&nbsp;</u>for a tour from the seller.
+If you would like a tour of my new listing, <u><a href="http://www.3201garfield.com/">click here</a>&nbsp;&nbsp;</u>for a tour from the seller.
 
 Thank you for watching ***“What’s Working Now!”***Be sure to tune in next time, when I’ll discuss a breakthrough in technology that may actually be a step backward.
 
