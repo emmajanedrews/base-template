@@ -11,7 +11,7 @@ enclosure: >-
 pullquote: Diverse marketing is the best approach.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image:
 youtube_code: FZvNzZAT75I
 ---
