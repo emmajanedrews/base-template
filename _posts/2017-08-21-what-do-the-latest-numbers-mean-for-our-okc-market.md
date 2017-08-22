@@ -1,7 +1,7 @@
 ---
 layout: post
-title: What Do the Latest Numbers Mean for Our Atlanta Market?
-date: 2017-08-21 15:23:57
+title: What Do the Latest Numbers Mean for Our OKC Market?
+date: 2017-08-21 15:23:00
 tags:
 excerpt: >-
   Inventory is rising in our market, but home affordability is dropping. Here’s
@@ -19,7 +19,7 @@ youtube_code: aLNLzT7UK7w
 
 {% include youtube.html %}
 
-How does our current Atlanta market compare with where we were last year?
+How does our current OKC market compare with where we were last year?
 
 From July 2016 to July 2017, the number of new listings hitting the market increased 8.6%, the number of pending sales increased 16%, and the number of closed sales increased 4.7%. What’s interesting about these statistics is the falloff between pending sales and closed sales, and it’s definitely something to keep an eye on throughout the rest of the year. &nbsp;
 
