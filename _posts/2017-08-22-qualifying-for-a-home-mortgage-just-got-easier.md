@@ -36,5 +36,4 @@ Another key change is that you may now qualify using future primary employment i
 
 Finally, timeshares are no longer considered mortgages. So, if you’re attempting to qualify for a home purchase you will no longer have to worry about a timeshare counting as a current mortgage.
 
-If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you, soon.
-<br>
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
