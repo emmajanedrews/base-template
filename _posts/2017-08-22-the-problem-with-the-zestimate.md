@@ -39,6 +39,6 @@ There are a number of other things the Zestimate can’t take into account. Any 
 
 These types of things can add a ton of value to a home. Zillow simply can’t measure certain key factors. This becomes a huge issue in the accuracy of the Zestimate—because these factors really add up.
 
-At The Dailey Group, we want to help. **We provide custom valuations by taking into account the things Zillow simply cant.**
+At The Dailey Group, we want to help. **We provide custom valuations by taking into account the things Zillow simply can't.**
 
 If you’re interested in that, have any other questions, or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
