@@ -7,7 +7,7 @@ excerpt: >-
   Inventory is rising in our market, but home affordability is dropping. Here’s
   what that means for buyers and sellers.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Zach+Sikes/Homestead+%2526+Co-+What+Do+the+Latest+Numbers+Mean+for+Our+Atlanta+Market%253F.mp4
+  https://s3.amazonaws.com/vyralmarketing/Zach+Sikes/Homestead+%2526+Co-+What+Do+the+Latest+Numbers+Mean+for+Our+OKC+Market%253F.mp4
 pullquote: 'If you’re a seller, now would be a good time to put your home on the market'
 enclosure_type: video/mp4
 enclosure_time:
@@ -21,7 +21,7 @@ youtube_code: aLNLzT7UK7w
 
 How does our current OKC market compare with where we were last year?
 
-From July 2016 to July 2017, the number of new listings hitting the market increased 8.6%, the number of pending sales increased 16%, and the number of closed sales increased 4.7%. What’s interesting about these statistics is the falloff between pending sales and closed sales, and it’s definitely something to keep an eye on throughout the rest of the year. &nbsp;
+From July 2016 to July 2017, the number of new listings hitting the market increased 8.6%, the number of pending sales increased 16%, and the number of closed sales increased 4.7%. What’s interesting about these statistics is the falloff between pending sales and closed sales, and it’s definitely something to keep an eye on throughout the rest of the year.
 
 {% include pullquote.html %}
 
