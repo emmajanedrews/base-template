@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why We Don’t Mind Breaking the Deal
-date:
+date: 2017-08-22 13:37:45
 tags:
   - Home Buyer Tips
 excerpt: >-
