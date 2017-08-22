@@ -3,7 +3,7 @@ layout: post
 title: Why Do FSBO Sellers Lose Money on Their Home Sale?
 tags:
   - Home Seller Tips
-date: 2017-08-18 10:55:09
+date: 2017-08-18 10:55:00
 excerpt: >-
   Statistics show that For Sale By Owner properties sell for 8% less than
   properties listed by an agent. Why does that happen?
@@ -13,8 +13,8 @@ pullquote: >-
   agent.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /uploads/chris-gorman-fsbo-youtube.jpg
+use_youtube_image: true
+youtube_alternate_image:
 youtube_code: 'https://youtu.be/K5r5D-uyYDE'
 ---
 
