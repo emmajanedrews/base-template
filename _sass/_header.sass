@@ -2,6 +2,7 @@
 	background-position: center
 	background-size: cover
 	padding-top: $nav-height + 5rem
+	height: 400px
 #hero
 	background-position: center
 	background-size: cover
@@ -9,10 +10,32 @@
 	background-repeat: no-repeat
 	text-align: center
 
+.header-contact
+	z-index: 10
+	display: flex
+	flex-wrap: wrap
+	position: absolute
+	margin-top: -100px
+	font-size: 16px
+	padding-left: 20px
+	a
+		color: $theme
+		font-size: 20px
+		font-weight: bold
+		margin-left: 20px
+		margin-right: 20px
+		&:hover
+			color: lighten($theme, 25%)
+
 .site-logo
 	width: 90%
+	float: left
+	// margin: auto 2.5%
 	max-width: $logo-width
 	@include filter(drop-shadow($header-shadow))
+	position: absolute
+	z-index: 1
+	left: 20px
 
 .site-title
 	color: $theme
@@ -29,13 +52,13 @@
 
 @media (max-width: 1000px)
 	.site-logo
-		max-width: 20rem
+		max-width: 80rem
 
 @media (max-width: 760px)
 	#hero
 		// height: 33rem
 	.site-logo
-		max-width: 20rem
+		max-width: 60rem
 		margin-top: 4rem
 	.site-title
 		font-size: 5rem
@@ -44,7 +67,7 @@
 	#hero
 		// height: 31rem
 	.site-logo
-		max-width: 15rem
+		max-width: 40rem
 		margin-top: 2rem
 	.site-title
 		font-size: 3.5rem
