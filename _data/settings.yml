@@ -7,26 +7,26 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Christy Morrison
   license_number:
   about_markdown: |
-
-  market:
-  brand:
+    Christy, a Truckee/North Tahoe resident since 1988, stands out as a leader in the area’s real estate market. Her pro-active business approach keeps her consistently ranked in the top 1% of local agents. With nearly $40 million in sales over the past ten years, Christy knows how to get the job done. Christy’s mission is to bring buyers and sellers together in order for them to reach their investment,financial, and personal goals. By working closely with buyers and productive real estate agents in the area, Christy is able to give your property the maximum amount of exposure so that you can net the most money possible on the sale.
+  market: Tahoe-Truckee
+  brand: Oliver Luxury Real Estate
   brokerage:
-  address:
-  phone:
+  address: 11890 Donner Pass Rd Ste 6<br>Truckee, CA 96161
+  phone: 530-582-6900
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Christy@OliverLux.com
+  url: http://oliverlux.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://morrisonsellstruckee.blogspot.com/p/httpmorrisonsellstruckee.html
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.yourtahoetruckeerealestateexpert.com/
   VR_form:
 
 sidebar_CTA:
@@ -34,14 +34,14 @@ sidebar_CTA:
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free -- MARKET -- Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://morrisonsellstruckee.blogspot.com/p/httpmorrisonsellstruckee.html
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://www.yourtahoetruckeerealestateexpert.com/
 
 lender:
   show_section: false
@@ -66,16 +66,16 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
-  instagram_url:
-  pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
+  facebook_url: https://www.facebook.com/pages/Christy-Morrison-Oliver-Luxury-Real-Estate/436427926456653?skip_nax_wizard=true
+  linkedin_url: http://www.linkedin.com/pub/christy-morrison/86/717/13a/
+  gplus_url: https://plus.google.com/106546719802949152657
+  youtube_url: https://www.youtube.com/channel/UCShPaJWNcE1r7uN4mSFENVg
+  twitter_url: https://twitter.com/CMorrisonRE
+  instagram_url: http://www.instagram.com/oliverluxuryrealestate
+  pinterest_url: http://www.pinterest.com/oliverlux/
+  zillow_url: http://www.zillow.com/profile/Christy-Morrison/
+  trulia_url: http://www.trulia.com/profile/christymorrison/
+  yelp_url: http://www.yelp.com/biz/morrison-sales-team-of-oliver-luxury-real-estate-truckee
   podcast_url:
 
 podcast:
@@ -96,8 +96,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#6a747c'
+  theme_color: '#000'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
