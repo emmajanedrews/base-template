@@ -5,7 +5,8 @@ date: 2017-08-14 14:48:00
 tags:
   - Market Update
 excerpt: 'Today, it’s time to take a look at some of the latest numbers from our market.'
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Joe+Sabato/Videos/Stuart+Real+Estate+Agent-+Think+Twice+Before+Trusting+Zillow.mp4
 pullquote: The number of new home listings has increased by about 22% from last June.
 enclosure_type: video/mp4
 enclosure_time:
