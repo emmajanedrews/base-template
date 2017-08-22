@@ -2,7 +2,7 @@
 layout: post
 title: What Are the Benefits of Hiring Govig?
 tags:
-  - Health Care
+  - Healthcare
 excerpt: >-
   There are a few good reasons why clients hire us and why you should consider
   doing so too.
@@ -19,7 +19,7 @@ youtube_code: s3CLOF1YFfU
 
 {% include youtube.html %}
 
-Why should you hire Govig? We stand out from the competition in a few important ways. &nbsp;
+Why should you hire Govig? We stand out from the competition in a few important ways.
 
 First of all, as the vice president and executive recruiter, I’ve been in the industry for more than 18 years, so I appreciate the challenges operators face. In those 18 years, I’ve made some great contacts with passively looking people you wouldn’t otherwise have access to.
 
