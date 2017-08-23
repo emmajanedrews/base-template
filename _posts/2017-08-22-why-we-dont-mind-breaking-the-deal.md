@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why We Don’t Mind Breaking the Deal
-date: 2017-08-22 13:37:45
+date: 2017-08-22 13:37:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -15,8 +15,8 @@ pullquote: We’ve got your back.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code: 0nbXfx_CiQQ
+youtube_alternate_image: /uploads/sarita-dua-ss.png
+youtube_code: 'https://www.youtube.com/watch?v=ONhmZ9vuZyw&feature=youtu.be'
 ---
 
 
