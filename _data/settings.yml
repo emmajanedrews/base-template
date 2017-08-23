@@ -1,5 +1,5 @@
 audit_header: false
-title: -- CLIENT BRAND --
+title: What's Working Now!
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -12,8 +12,8 @@ client:
   about_markdown: |
     Marjorie Dick Stuart’s trademark is doing things a little differently than usual. Whether it’s having a pet lizard or making her own jewelry, she is a unique individual with interests that exemplify her one-of-a-kind take on life. As one of Cleveland Park’s top real estate professionals, Marjorie stays ahead of the pack by handling her clients’ important investments with innovative strategies and creative solutions.
   market: Cleveland Park
-  brand: W.C. & A.N. Miller Realtors
-  brokerage:
+  brand: What's Working Now!
+  brokerage: W.C. & A.N. Miller Realtors
   address: 4910 Massachusetts Ave NW, Ste 119 <br> Washington, DC 20016
   phone: 240-731-8079
   phone_type:
@@ -87,7 +87,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  hero_text: 
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
