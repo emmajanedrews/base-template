@@ -122,7 +122,7 @@ site_colors:
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
-  shadow_spread: 7px
+  shadow_spread: 10px
   shadow_color: '#ffffff'
 buttons:
   button_radius_number: 0
