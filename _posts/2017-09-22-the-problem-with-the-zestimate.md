@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Problem With the Zestimate
-date: 2017-08-22 12:37:50
+date: 2017-09-22 12:37:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -21,21 +21,21 @@ youtube_code: rGaTOIsYjS4
 
 {% include youtube.html %}
 
-If you haven’t already heard, Zillow has an estimate feature on their website. They call this feature a Zestimate.&nbsp;
+If you haven’t already heard, Zillow has an estimate feature on their website. They call this feature a Zestimate.
 
 When it comes to pricing their home, clients bring up their Zestimates all the time. However, many people may not entirely understand what a Zestimate truly is.
 
 The **Zestimate is based on an algorithm Zillow developed to determine estimated home values.** However, Zestimates aren’t always accurate.
 
-Unfortunately, Zillow simply can’t measure certain important factors that go into your home’s value.&nbsp;
+Unfortunately, Zillow simply can’t measure certain important factors that go into your home’s value.
 
 {% include pullquote.html %}
 
 If your home is in the kind of neighborhood where all the homes look exactly alike, a Zestimate might be a bit more accurate.
 
-However, **anywhere else and you may run into a few different issues.** This is especially the case if you live in a rural area.&nbsp;
+However, **anywhere else and you may run into a few different issues.** This is especially the case if you live in a rural area.
 
-There are a number of other things the Zestimate can’t take into account. Any upgrades to kitchens or bathrooms, for example, won’t be factored into a home’s Zestimate.&nbsp;
+There are a number of other things the Zestimate can’t take into account. Any upgrades to kitchens or bathrooms, for example, won’t be factored into a home’s Zestimate.
 
 These types of things can add a ton of value to a home. Zillow simply can’t measure certain key factors. This becomes a huge issue in the accuracy of the Zestimate—because these factors really add up.
 
