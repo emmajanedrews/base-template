@@ -18,7 +18,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: 6BdyghCayVg
 ---
 
 
@@ -26,7 +26,7 @@ youtube_code:
 
 What is Auto to the 5th? In short, it’s a way that you can use technology to improve the quality of your retirement plan.
 
-**Not only does it increase your employees’ participation in the plan, but it also protects you from liability.**&nbsp;
+**Not only does it increase your employees’ participation in the plan, but it also protects you from liability.**
 
 The first feature of Auto the 5th is automatic enrollment. Auto enroll is greatly helpful, especially if you are an HR director who’s constantly busy chasing employees trying to get them to participate in the plan.
 
