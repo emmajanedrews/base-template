@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Does Our Diverse Marketing Approach Work so Well?
+title: Why Does Our Diverse Marketing Approach Work So Well?
 tags:
   - Real Estate
 excerpt: >-
