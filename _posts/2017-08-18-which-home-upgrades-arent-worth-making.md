@@ -12,8 +12,8 @@ enclosure:
 pullquote: Upgrades that seem valuable to you may not be valuable to potential buyers.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/jody-donaldson-ssnp.png
 youtube_code: xLJmpA1xGIo
 ---
 
