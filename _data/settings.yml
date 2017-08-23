@@ -17,11 +17,11 @@ client:
   address: 4910 Massachusetts Ave NW, Ste 119 <br> Washington, DC 20016
   phone: 240-731-8079
   phone_type:
-  phone2:
+  phone2: http://www.christiesrealestate.com/eng
   phone2_type:
   email: marjorie@marjoriedickstuart.com
   url: http://www.marjoriedickstuart.com
-
+  
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: http://www.marjoriedickstuart.com/home-evaluation.php
