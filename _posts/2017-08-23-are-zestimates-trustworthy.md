@@ -29,11 +29,11 @@ However, there have been a lot of questions raised recently about researching ho
 
 In fact, **an Illinois homeowner is actually suing Zillow because of how she believes the Zestimate has damaged her listing.** She believes that the Zestimate massively undervalued her home.
 
-Our endorser Barbara Corcoran, real estate mogul and star of the show “Shark Tank,” recently went on Good Morning America to talk about Zillow and this lawsuit.
+Our endorser Barbara Corcoran, real estate mogul and star of the show “Shark Tank,” recently went on "Good Morning America" to talk about Zillow and this lawsuit.
 
 This lawsuit, Barbara says, actually makes sense. The homeowner believed her home was **worth $626,000 compared to the Zestimate’s value of $562,000—that’s a $64,000 difference.** This homeowner claimed this made a difference because buyers saw and responded to that lower price while doing their research on Zillow.
 
-After the lawsuit was filed, Zillow actually responded by saying that “the Zestimate is a starting point to determine a home’s value and isn’t an official appraisal. The plaintiff can update her own Zestimate by adding the square footage of her home.”
+After the lawsuit was filed, Zillow actually responded by saying that “The Zestimate is a starting point to determine a home’s value and isn’t an official appraisal. The plaintiff can update her own Zestimate by adding the square footage of her home.”
 
 {% include pullquote.html %}
 
