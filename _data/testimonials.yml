@@ -1,5 +1,28 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
-    audio:
+  - quote: >-
+      "Above anything else, they were more than willing to answer my questions
+      like at any time of day. Which, I’m sure, they were super thrilled with,
+      but it was really great getting to work with them because they are both
+      very knowledgeable and if there was anything they didn’t have the answer
+      too or they weren’t sure about, they would always reach out and get an
+      answer to me as fast as they possibly could so it felt like we were in
+      very good capable hands with them and I always felt comfortable asking
+      questions throughout the process."
+    name: >-
+      How We Provided a Supportive Environment for Hannah to Ask Questions About
+      the Process
+    audio: >-
+      https://s3.amazonaws.com/vyralmarketing/Zach+Sikes/Sikes+Testimonial-Hannah+Belocik.mp3
+  - quote: >-
+      “I’ve known Wes for several years and it just kind of happened to where we
+      went looking for a house but we were just searching on our own and found
+      one that we liked so we just called Wes and said ‘Hey, do you want to be
+      our Realtor?’ and he very enthusiastically accepted. So we just found a
+      house we liked and then Wes hooked us up with Zach. Zach listed
+      everything. Wes  worked on the  house that we ended up ultimately buying.
+      Wes just went above and beyond. Anytime we needed something he’d just jump
+      on it.”
+    name: How We Went Above and Beyond with Stephen
+    audio: >-
+      https://s3.amazonaws.com/vyralmarketing/Zach+Sikes/Sikes+Testimonial-Stephen+Stepher.mp3
