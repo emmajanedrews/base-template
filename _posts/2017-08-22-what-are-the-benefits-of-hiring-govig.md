@@ -23,7 +23,7 @@ Why should you hire Govig? We stand out from the competition in a few important 
 
 First of all, as the vice president and executive recruiter, I’ve been in the industry for more than 18 years, so I appreciate the challenges operators face. In those 18 years, I’ve made some great contacts with passively looking people you wouldn’t otherwise have access to.
 
-Secondly, **we have an awesome team.**Our average tenure is seven-and-a-half years, and last year we had 239 hires. We work on positions from the facility level all the way to the C suite. With that tenure, we really know the blocking and tackling of recruitment.
+Secondly, **we have an awesome team.&nbsp;**Our average tenure is seven-and-a-half years, and last year we had 239 hires. We work on positions from the facility level all the way to the C suite. With that tenure, we really know the blocking and tackling of recruitment.
 
 {% include pullquote.html %}
 
