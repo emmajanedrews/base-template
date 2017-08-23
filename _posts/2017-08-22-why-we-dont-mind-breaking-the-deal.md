@@ -14,7 +14,7 @@ enclosure: >-
 pullquote: We’ve got your back.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/sarita-dua-ss.png
 youtube_code: ONhmZ9vuZyw
 ---
