@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Andrey Bustamante</managingEditor>
-    <lastBuildDate>2017-04-11 17:58:33 -0500</lastBuildDate>
+    <lastBuildDate>2017-08-23 17:50:54 -0500</lastBuildDate>
     <media:copyright>Andrey Bustamante</media:copyright>
     <media:thumbnail url="http://bustamanteblog.com/img/podcast.png"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -25,37 +25,51 @@
       <itunes:category text="News &amp; Politics"/>
     
       <item>
-        <title>The Latest Scoop on Orlando Real Estate</title>
-        <link>http://bustamanteblog.com/the-latest-scoop-on-orlando-real-estate.html</link>
+        <title>Are Zestimates Trustworthy?</title>
+        <link>http://bustamanteblog.com/are-zestimates-trustworthy.html</link>
+        
+          <category>Home Seller Tips</category>
         
         <author>Andrey Bustamante</author>
-        <pubDate>2017-02-03 00:00:00 -0600</pubDate>
-        <guid>http://vyralmarketing.s3.amazonaws.com/Andrey%20Bustamante/Jan%201%20%283%29.mp4</guid>
+        <pubDate>2017-08-23 00:00:00 -0500</pubDate>
+        <guid>http://vyralmarketing.s3.amazonaws.com/Andrey%20Bustamante/Are%20Zestimates%20Trustworthy%253F.mp4</guid>
         <description>
 
-Some of you know already, but we have recently relocated our corporate headquarters to downtown Orlando. We’re very excited about the opportunity to host you and your family in our new state-of-the-art office. I get lots of questions about the Orlando market, so I want to address one of them now. Are we in a buyer’s or seller’s market?
+How do you go about determining the value of your home?
 
-It depends on the price point more than anything else. In the lower price points, we have more of a seller’s market. There isn’t as much inventory and there are first-time buyers and investors all fighting for the same type of property.
+Well, in today’s modern world, much of our research for any real estate transaction starts online. This is true for determining home values as well.
 
-The current inventory as a whole is rather short. There is a shortage of houses on the market, particularly in the lower price points. As you get higher in price point, there is a lot more inventory. In those basic price points, however, there is definitely a shortage of homes.
+However, there have been a lot of questions raised recently about researching home value online. Zillow’s Zestimate in particular has been the topic of many conversations lately.
 
-“Some homes are even selling over list price.”
+In fact, an Illinois homeowner is actually suing Zillow because of how she believes the Zestimate has damaged her listing. She believes that the Zestimate massively undervalued her home.
 
-This affects home values. The higher-priced homes are seeing a lot of price reductions to help them move. They are selling for about 90% to 93% of their list price on average. The homes in the lower price range are selling closer to 100% of their list price—some are even selling for more than that.
+Our endorser Barbara Corcoran, real estate mogul and star of the show “Shark Tank,” recently went on “Good Morning America” to talk about Zillow and this lawsuit.
 
-Interest rates have gone up recently and they are expected to continue to climb even further. A few months ago they were hovering around 3.25%, and now they are upwards of 4.2%.
+This lawsuit, Barbara says, actually makes sense. The homeowner believed her home was worth $626,000 compared to the Zestimate’s value of $562,000—that’s a $64,000 difference. This homeowner claimed this made a difference because buyers saw and responded to that lower price while doing their research on Zillow.
 
-What does this mean to you as a buyer or seller? The general market conditions are still very good. Buyers are buying houses on a daily basis. As a matter of fact, 2,654 homes were sold in the last month. The median price of these sales is right around $205,000. The market is extremely healthy right now and should continue to be healthy in the coming months. It’s a great time to buy and sell.
+After the lawsuit was filed, Zillow actually responded by saying that “The Zestimate is a starting point to determine a home’s value and isn’t an official appraisal. The plaintiff can update her own Zestimate by adding the square footage of her home.”
 
-If you have any questions, comments, or concerns for us, we would love to hear from you. Just give us a call or send us an email. We would also love to help out if you or someone you know is looking to make a move. We look forward to hearing from you!
+“Zillow doesn’t claim that their Zestimate is an appraisal, but consumers are using it like one.”
+
+Barbara Corcoran admits that Zillow has been very upfront about their Zestimate not being an official appraisal. However, the issue is that this doesn’t change the fact that many buyers assume this information is accurate. This is especially problematic given the fact that the margin of error for the Zestimate is about 5%. Additionally, one in 10 homes are valued at more than 20% less than they’re actually worth.
+
+The Zestimate, Barbara says, is not accurate. Instead, it should be a starting point. The Zestimate will give you a range of values, but can’t take into consideration things like upgrades. If you’ve extended the patio, added a pool, renovated the kitchen, or made other improvements, the Zestimate simply can’t account for these changes.
+
+As much as technology companies would like to replace agents in real estate transactions, it simply won’t happen.
+
+Even though Zillow doesn’t claim that their Zestimate is an appraisal, consumers are using it as if it is one.
+
+If homeowners truly want to get the best price, they need to deeply understand its value. Barbara recommends relying on the help of a real estate professional instead of on an algorithm.
+
+If you’d like to learn how we can help you sell your home, want more information, or have any other questions, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
-        <enclosure url="http://vyralmarketing.s3.amazonaws.com/Andrey%20Bustamante/Jan%201%20%283%29.mp4" length="" type="video/mp4"/>
+        <enclosure url="http://vyralmarketing.s3.amazonaws.com/Andrey%20Bustamante/Are%20Zestimates%20Trustworthy%253F.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="http://bustamanteblog.com" height="72" width="72"/>
-        <media:content url="http://vyralmarketing.s3.amazonaws.com/Andrey%20Bustamante/Jan%201%20%283%29.mp4" type="video/mp4"/>
+        <media:content url="http://vyralmarketing.s3.amazonaws.com/Andrey%20Bustamante/Are%20Zestimates%20Trustworthy%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>The Orlando market looks great. Here’s what you should know.</itunes:subtitle>
+        <itunes:subtitle>Our endorser Barbara Corcoran recently went on Good Morning America to talk about the Zillow Zestimate and one Illinois homeowners lawsuit against it.</itunes:subtitle>
         <itunes:author>Andrey Bustamante</itunes:author>
-        <itunes:summary>The Orlando market looks great. Here’s what you should know.</itunes:summary>
+        <itunes:summary>Our endorser Barbara Corcoran recently went on Good Morning America to talk about the Zillow Zestimate and one Illinois homeowners lawsuit against it.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       

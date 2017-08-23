@@ -3,14 +3,9 @@ layout: post
 title: Are Zestimates Trustworthy?
 tags:
   - Home Seller Tips
-excerpt: >-
-  Our endorser Barbara Corcoran recently went on Good Morning America to talk
-  about the Zillow Zestimate and one Illinois homeowners lawsuit against it.
-enclosure: >-
-  http://vyralmarketing.s3.amazonaws.com/Andrey%20Bustamante/Are%20Zestimates%20Trustworthy%253F.mp4
-pullquote: >-
-  Zillow doesn’t claim that their Zestimate is an appraisal, but consumers are
-  using it like one.
+excerpt: Our endorser Barbara Corcoran recently went on Good Morning America to talk about the Zillow Zestimate and one Illinois homeowners lawsuit against it.
+enclosure: http://vyralmarketing.s3.amazonaws.com/Andrey%20Bustamante/Are%20Zestimates%20Trustworthy%253F.mp4
+pullquote: Zillow doesn’t claim that their Zestimate is an appraisal, but consumers are using it like one.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -20,7 +15,6 @@ youtube_code: X1Va84E5LCI
 
 
 {% include youtube.html %}
-
 How do you go about determining the value of your home?
 
 Well, in today’s modern world, much of our research for any real estate transaction starts online. This is true for determining home values as well.
