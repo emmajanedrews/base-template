@@ -20,11 +20,11 @@ youtube_code: tVdMioYL2KE
 
 {% include youtube.html %}
 
-In my opinion, the most important qualities you should have are accountability and coaching. **You have to have a good coach who is going to teach you all the right things to do that will help you be more productive.**On the flipside, you have to be held accountable to what you said you were going to do in regards to appointments and prospecting.
+In my opinion, the most important qualities you should have are accountability and coaching. **You have to have a good coach who is going to teach you all the right things to do that will help you be more productive.&nbsp;**On the flipside, you have to be held accountable to what you said you were going to do in regards to appointments and prospecting.
 
 In order to maintain that accountability, each agent has a written tracker sheet that helps them track things like how many meaningful conversations they’ve had in a day, how many offers have been written, which ones are under contract, and how many hours they’ve put into prospecting as well.
 
-In regards to prospecting, **a great agent will be able to handle any type of situation that they come across over the phone.** They have to be prepared with the answers to each objection, and work toward securing a face-to-face meeting with a potential client. If you haven’t reached that level of comfortability over the phone, then you should really consider a good coach and go through those potential scenarios so that you can secure more loyal clients and build that database.
+In regards to prospecting, **a great agent will be able to handle any type of situation that they come across over the phone.** They have to be prepared with the answers to each objection and work toward securing a face-to-face meeting with a potential client. If you haven’t reached that level of comfortability over the phone, then you should really consider a good coach and go through those potential scenarios so that you can secure more loyal clients and build that database.
 
 {% include pullquote.html %}
 
