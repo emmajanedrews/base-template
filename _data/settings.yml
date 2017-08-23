@@ -123,7 +123,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: 'rgba(0, 0, 0, 0)'
+  shadow_color: '#ffffff'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
