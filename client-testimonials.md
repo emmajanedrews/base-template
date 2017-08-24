@@ -41,11 +41,11 @@ layout: default
 </p>
 <hr>
 <div class="client-testimonial">
-<!-- add soundcloud iframe here -->
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/335274133&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 <p class="testimonial-text">
-<!--quote-->
+"I actually purchased a home through them and it was very successful. I worked with Drew Hollinger and he helped navigate the financing situation providing all the documents that our lender needed. Drew was able to connect me with the other owners of the other side of the duplex that I purchased actually it was a two-unit condo and I purchased one side of it. We had trouble trying to understand some of the homeowner association documents and so he was able to actually locate the owner of the other side and help us answer some questions."
 </p>
 <p class="testimonial-author">
-<!-- quote author -->
+-Kristie H.
 </p>
 <hr>
