@@ -20,7 +20,7 @@ youtube_code: XXUAriQsk5g
 
 {% include youtube.html %}
 
-The latest numbers are in for our real estate market here in Northern Virginia so we wanted to highlight a few of the changes we’ve seen for you. H**ome purchase activity is a little different than it was at this time last year.**
+The latest numbers are in for our real estate market here in Northern Virginia so we wanted to highlight a few of the changes we’ve seen for you. **Home purchase activity is a little different than it was at this time last year.**
 
 Pending contracts have dropped off by about 4.4% from last year, but the number of closed sales increased 2.6% to 2,802.
 
