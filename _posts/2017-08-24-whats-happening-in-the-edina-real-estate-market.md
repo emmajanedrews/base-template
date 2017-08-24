@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s Happening in the Edina Real Estate Market?
-date:
+date: 2017-08-24 13:47:36
 tags:
   - Market Update
 excerpt: >-
