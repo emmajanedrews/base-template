@@ -13,3 +13,12 @@ layout: default
 -Beverly H.
 </p>
 <hr>
+<div class="client-testimonial">
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/335265586&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<p class="testimonial-text">
+"I worked with Dane Hollinger who helped me put together the transaction. I was able to meet with him on short notice to ask questions and go over the transaction details. But as I look back at the sale what really stood out for me was Dane's willingness to do whatever it took to help me make this run smoothly. In fact he is at the house helping me move things into storage driving his truck down to the location and actually helping me load things up. I don't think it gets any better than that."
+</p>
+<p class="testimonial-author">
+-Doug H.
+</p>
+<hr>
