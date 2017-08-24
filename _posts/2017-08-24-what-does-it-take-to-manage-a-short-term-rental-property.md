@@ -37,4 +37,4 @@ However, there are some added expectations and requirements for a short-term ren
 
 **Though there are now companies that specialize in the turnover process.** They’ll change sheets and help turn properties around for the next resident. So, there are absolutely resources out there that can help.
 
-If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you, soon.
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
