@@ -22,3 +22,30 @@ layout: default
 -Doug H.
 </p>
 <hr>
+<div class="client-testimonial">
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/335268000&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<p class="testimonial-text">
+"We obviously were able to sell our home which is the result that we wanted. They did a fabulous job of making a video of our house to post it so that potential buyers would be able to view our home both inside and outside."
+</p>
+<p class="testimonial-author">
+-Gwen C.
+</p>
+<hr>
+<div class="client-testimonial">
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/335268541&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<p class="testimonial-text">
+"My results were great I was selling a property in Polson Montana and it was a very unique property because it was a lakefront property with a building that wasn't finished yet it's an unfinished building which is kind of hard to sell. The Hollinger team was great they came out and helped me. They're always calling me and helping me and they were very good. They seemed they were always above and beyond. I wasn't always in town and they would always call me or tell me of a showing or tell me how it went afterwards. They would always be available anytime I would call, their own cell numbers or Scott Hollinger was great and the whole team. I would recommend them to anybody that I knew selling or buying a property."
+</p>
+<p class="testimonial-author">
+-Jan G.
+</p>
+<hr>
+<div class="client-testimonial">
+<!-- add soundcloud iframe here -->
+<p class="testimonial-text">
+<!--quote-->
+</p>
+<p class="testimonial-author">
+<!-- quote author -->
+</p>
+<hr>
