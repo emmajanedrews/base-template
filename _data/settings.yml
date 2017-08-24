@@ -7,21 +7,21 @@ custom_links:
     url:
 
 client:
-  name: 
+  name: Marjorie Dick Stuart
   license_number:
   about_markdown: |
     Marjorie Dick Stuart’s trademark is doing things a little differently than usual. Whether it’s having a pet lizard or making her own jewelry, she is a unique individual with interests that exemplify her one-of-a-kind take on life. As one of Cleveland Park’s top real estate professionals, Marjorie stays ahead of the pack by handling her clients’ important investments with innovative strategies and creative solutions.
   market: Cleveland Park
-  brand: Marjorie Dick Stuart
-  brokerage: W.C. & A.N. Miller Realtors
+  brand: W.C. & A.N. Miller Realtors
+  brokerage:
   address: 4910 Massachusetts Ave NW, Ste 119 <br> Washington, DC 20016
   phone: 240-731-8079
   phone_type:
-  phone2: 
+  phone2:
   phone2_type:
   email: marjorie@marjoriedickstuart.com
   url: http://www.marjoriedickstuart.com
-  
+
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: http://www.marjoriedickstuart.com/home-evaluation.php
@@ -87,7 +87,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 80
-  hero_text: 
+  hero_text:
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
