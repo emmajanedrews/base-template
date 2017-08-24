@@ -5,7 +5,6 @@ show_custom_links: true
 custom_links:
   - title: Testimonials
     url: /client-testimonials
-
 client:
   name: Jonathan Carbutti
   license_number:
