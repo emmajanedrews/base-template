@@ -35,6 +35,6 @@ But not only are short-term rental landlords earning more income, they are also 
 
 However, there are some added expectations and requirements for a short-term rental property. From a management perspective, you as the landlord must offer the property furnished. Managing bookings and turnover is also different than it would be in a month-to-month rental property.
 
-**Though there are now companies that specialize in the turnover process.** They’ll change sheets and help turn properties around for the next resident. So, there are absolutely resources out there that can help.
+**There are now companies that specialize in the turnover process.** They’ll change sheets and help turn properties around for the next resident. So, there are absolutely resources out there that can help.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
