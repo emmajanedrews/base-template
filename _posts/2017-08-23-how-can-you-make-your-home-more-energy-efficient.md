@@ -30,10 +30,7 @@ Making your home more energy efficient doesn’t have to be a difficult task. In
 By **visiting the Delaware Division of Energy and Climate online, you’ll find a list of contractors** you can use to take your first step: getting an energy audit.
 {: .present-before-paste}
 
-These professionals will come into your home and search it for sources of wasted energy
-{: .present-before-paste}
-
-—like leaking air conditioning ducts. **Leaking ducts can actually cause up to a 15% loss of your AC.**
+These professionals will come into your home and search it for sources of wasted energy—like leaking air conditioning ducts. **Leaking ducts can actually cause up to a 15% loss of your AC.**
 {: .present-before-paste}
 
 {% include pullquote.html %}
