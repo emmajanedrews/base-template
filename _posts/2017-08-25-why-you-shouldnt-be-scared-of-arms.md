@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why You Shouldn’t Be Scared of ARMs
-date: 2017-08-25 13:24:00
+date: 2017-08-25 09:24:00
 tags:
   - Home Buyer Tips
 excerpt: ARMs are nothing to be afraid of. You’ve just got to know how to use them.
