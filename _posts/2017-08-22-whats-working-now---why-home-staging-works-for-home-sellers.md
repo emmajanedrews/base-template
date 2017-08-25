@@ -24,7 +24,7 @@ youtube_code: xDmjXx9VKnc
 Welcome to another episode of “What’s Working Now!”
 {: .present-before-paste}
 
-Today, I’m reporting to you live from my new listing at 3201 Garfield Street NW on the edge of Cleveland Park. This home is on the market for $1.795 million.
+Today, I’m reporting to you live from my new listing at 3201 Garfield Street NW on the edge of Cleveland Park. This home is on the market for $1.695 million.
 {: .present-before-paste}
 
 You all know how I feel about staging, and something happened at the Garfield house that demonstrates exactly how important staging is.
