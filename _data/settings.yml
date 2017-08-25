@@ -20,14 +20,14 @@ client:
     innovative strategies and creative solutions.
   market: Cleveland Park
   brand: 240-731-8079
-  brokerage: marketing@marjoriedickstuart.com
-  address: 'http://www.marjoriedickstuart.com'
-  phone: Christie’s International Real Estate
+  brokerage: Christie’s International Real Estate
+  address: W.C. & A.N. Miller 202.362.1300
+  phone:
   phone_type:
   phone2:
   phone2_type:
-  email: W.C. & A.N. Miller
-  url: 202.362.1300
+  email: marketing@marjoriedickstuart.com
+  url: 'http://www.marjoriedickstuart.com'
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://www.marjoriedickstuart.com/home-evaluation.php'
