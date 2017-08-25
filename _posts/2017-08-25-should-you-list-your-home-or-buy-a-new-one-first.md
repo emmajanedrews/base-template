@@ -1,16 +1,21 @@
 ---
 layout: post
 title: Should You List Your Home or Buy a New One First?
-date:
+date: 2017-08-25 14:00:00
 tags:
-excerpt:
-enclosure:
-pullquote:
+  - Home Buyer Tips
+  - Home Seller Tips
+excerpt: >-
+  Should you list your home or buy a new one first? I’ve laid out the best
+  strategy to tackle this type of scenario below.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Rex+Jarnagin/Videos/2017/August/Elite+Home+Team-+Should+You+List+Your+Home+or+Buy+a+New+One+First%253F.mp4
+pullquote: 'There’s really no other way around it: you have to list your home first.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: f1lnl4wA4es
 ---
 
 
