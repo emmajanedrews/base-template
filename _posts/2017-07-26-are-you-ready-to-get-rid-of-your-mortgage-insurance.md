@@ -4,8 +4,11 @@ title: Are You Ready to Get Rid of Your Mortgage Insurance?
 date: 2017-07-26 15:54:00
 tags:
   - Home Buyer Tips
-excerpt: How can you get rid of your mortgage insurance? The answer depends on your loan type.
-enclosure: 'http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20Are%20You%20Ready%20to%20Get%20Rid%20of%20Your%20Mortgage%20Insurance%253F.mp4'
+excerpt: >-
+  How can you get rid of your mortgage insurance? The answer depends on your
+  loan type.
+enclosure: >-
+  http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20Are%20You%20Ready%20to%20Get%20Rid%20of%20Your%20Mortgage%20Insurance%253F.mp4
 pullquote: Appreciation in value adds a bit of a wrinkle to this process.
 enclosure_type: video/mp4
 enclosure_time:
@@ -29,6 +32,6 @@ Conventional loans carry private mortgage insurance, or PMI. Most people think t
 
 That is fine, but the rules for using appreciation as justification are different than the rules based on the original purchase price. You are ineligible to use appreciation as justification years zero through two of owning the home. Between the two and five-year mark, you need 25% equity for justification; after five years, that number goes back down to 20%.
 
-Your loan service will require an updated appraisal at that time to make sure that you have subsequent equity levels.
+Your loan servicer will require an updated appraisal at that time to make sure that you have subsequent equity levels.
 
 If you have any other questions about removing mortgage insurance, just give me a call or send me an email. I would be happy to help you!
