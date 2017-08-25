@@ -27,7 +27,7 @@ During the process of selling your home, there are certain things you should abs
 <br>Today, I’d like to share four major seller mistakes that could negatively impact your home sale.&nbsp;
 
 1. **Selling your home by yourself.** Doing this is a big risk. Certain data, such as the Multiple Listing Service’s sold information, isn’t available to you without the help of a professional. Additionally, when you sell your home without an agent, you are doing so without the kind of marketing leverage a professional can provide. Most homebuyers begin their search online. This means that you will need strong marketing to set your listing apart. Even if you do get your home sold, how can you be sure you did so for the highest price and with the best possible terms? Using an agent is always preferable.
-2. **Pricing your home incorrectly.**It’s difficult to know exactly how to price your home. In order to do so correctly, you’ll need to strike a balance between what is too low and what is too high. A home with a high price will bring buyers with higher expectations. Your home should ideally be priced to what the average potential buyer will be willing to pay.
+2. **Pricing your home incorrectly.&nbsp;**It’s difficult to know exactly how to price your home. In order to do so correctly, you’ll need to strike a balance between what is too low and what is too high. A home with a high price will bring buyers with higher expectations. Your home should ideally be priced to what the average potential buyer will be willing to pay.
    <br>
    <br>{% include pullquote.html %}
    <br>&nbsp;
