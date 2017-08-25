@@ -86,7 +86,7 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 60
+  logo_width_number: 40
   hero_text: -- MARKET -- Mortgage Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
@@ -101,8 +101,8 @@ site_colors:
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
-  shadow_spread: 7px
-  shadow_color: transparent
+  shadow_spread: 10px
+  shadow_color: rgba (32, 63, 118, 0.8)
 
 buttons:
   button_radius_number: 0
