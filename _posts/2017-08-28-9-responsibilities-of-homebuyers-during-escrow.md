@@ -39,4 +39,4 @@ youtube_code: faITCO61v2Y
 
 **9. Schedule a final walkthrough with your agent to ensure the home is in the right condition.**
 
-These are the basic steps you need to take, but this list doesn’t include everything you need to do throughout the process. If you have any questions or need any help through the homebuying process, give us a call or send us an email. We would be glad to help.
+These are the basic steps you need to take, but this list doesn’t include everything you need to do throughout the process. If you have any questions or need any help through the home buying process, give us a call or send us an email. We would be glad to help.
