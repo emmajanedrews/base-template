@@ -4,11 +4,8 @@ title: The Latest News From Our 100th Home Sale GIveaway and the Memphis Market
 date: 2017-08-28 07:00:00
 tags:
   - Market Update
-excerpt: >-
-  Our market is still in good shape, and a few important numbers are up compared
-  to July 2016.
-enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/+Videos/2017/August/Memphis+Real+Estate+Agent-+The+Latest+News+From+Our+100th+Home+Sale+GIveaway+and+the+Memphis+Market.mp4
+excerpt: Our market is still in good shape, and a few important numbers are up compared to July 2016.
+enclosure: https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/+Videos/2017/August/Memphis+Real+Estate+Agent-+The+Latest+News+From+Our+100th+Home+Sale+GIveaway+and+the+Memphis+Market.mp4
 pullquote: 'Overall, the market is still good.'
 enclosure_type: video/mp4
 enclosure_time:

@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Memphis Real Estate Podcast with Melissa Thompson</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://www.weknowmemphis.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://www.weknowmemphis.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Your Key To Memphis - your professional Memphis Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Melissa Thompson</managingEditor>
-    <lastBuildDate>2017-07-26 13:12:32 -0500</lastBuildDate>
+    <lastBuildDate>2017-08-28 11:43:46 -0500</lastBuildDate>
     <media:copyright>Melissa Thompson</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://www.weknowmemphis.com/img/podcast.png"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Memphis, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,255 +18,131 @@
     </itunes:owner>
     <itunes:author>Melissa Thompson</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://www.weknowmemphis.com/img/podcast.png"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Memphis, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Memphis Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Your Key To Memphis - your professional Memphis Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
-        <title>101 Things To Do In Memphis #76: The Bar-B-Q Shop</title>
-        <link>localhost:4000/101-things-to-do-in-memphis-76-bar-b-q.html</link>
+        <title>The Latest News From Our 100th Home Sale GIveaway and the Memphis Market</title>
+        <link>http://www.weknowmemphis.com/the-latest-news-from-our-100th-home-sale-giveaway-and-the-memphis-market.html</link>
         
-          <category>101 Things to do in Memphis</category>
+          <category>Market Update</category>
         
         <author>Melissa Thompson</author>
-        <pubDate>2017-07-26 10:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2017-08-28 02:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/+Videos/2017/August/Memphis+Real+Estate+Agent-+The+Latest+News+From+Our+100th+Home+Sale+GIveaway+and+the+Memphis+Market.mp4</guid>
         <description>
-The Bar-B-Q Shop, voted #1 ribs in America by the Food Network’s “Top Five Restaurants”, located in the heart of Midtown, less than a mile from the Overton Square Entertainment District, is a local Memphis barbecue eatery that opened in November of 1987. It is a place known for real-pit barbecue with old fashioned barbecue sauces and cole slaw that are made from scratch.
 
-The unique taste of The Bar-B-Q Shop’s gourmet award winning sauces has always been something that has set The Bar-B-Q Shop off from other barbeque restaurants. The recipes for our gourmet sauces have been around for over fifty years.
+What’s the latest word from our Memphis market?
 
-The Original (mild) Sauce provides a thickness that can be used to baste, marinade, or provide flavoring for your meat of choice.
+We’ll get to that, but first, we have an exciting announcement to make. We’ve helped 118 families buy and sell homes this year, but as you know, we’ve been asking people to vote for one of two local charities—Hope Works and Youth Villages—to win our 100th home sale giveaway and receive the majority of the proceeds from that sale.
 
-Our Hot Sauce also provides the same level of thickness but with a little warmth behind it. Our Hot Sauce does an excellent job of providing your meat with a hot flavor without taking away from the barbeque, smokey flavor itself.
+The voters have spoken, and the 1st place winner of our 100th home sale giveaway is…
 
-The Bar-B-Q Shop’s Dry Seasoning was created later by Frank Vernon in the mid eighties. Our Dry Seasoning is an extraordinary seasoning because it can be used to season anything from chicken breasts, hamburger steaks, salmon or fillet catfish, to even a beef roast. The seasoning can be used with a marinade while prepping your food item, or it can be applied when your food comes out of the oven.
+Hope Works!
 
-1782 Madison Ave, Memphis, TN 38104
-Restaurant: 901.272.1277
-Sauce Order: 888.372.8237
+We were glad to be able to drop off our check to this wonderful organization and learn more about their ministry in the process. We were also happy to deliver Youth Villages their 2nd place check and learn more about them as well.
 
-By and photo credit: The Bar-B-Q Shop
+“Overall, the market is still good.”
+
+Now, let’s look at the latest numbers from our market and how they compare with where we were this time last year.
+
+The number of units for sale is up 14% compared to July 2016. For the first seven months of the year, they were up 9% compared to last year. The average home sale price is up 3%. Interest rates are rumored to be going up again in the future, but we haven’t seen anything yet. Overall, the market is still good.
+
+If you have any questions about our Memphis market or you’re thinking of buying or selling a home soon, feel free to get in touch with us. We’d love to help you!
 </description>
-        <enclosure url="" length="" type=""/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type=""/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/+Videos/2017/August/Memphis+Real+Estate+Agent-+The+Latest+News+From+Our+100th+Home+Sale+GIveaway+and+the+Memphis+Market.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://www.weknowmemphis.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/+Videos/2017/August/Memphis+Real+Estate+Agent-+The+Latest+News+From+Our+100th+Home+Sale+GIveaway+and+the+Memphis+Market.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-The Bar-B-Q Shop, voted #1 ribs in America by the Food Network’s “Top Five Restaurants”, located in the heart of Midtown, less than a mile from the Overton Square Entertainment District, is a local Memphis barbecue eatery that opened in November of 1987. It is a place known for real-pit barbecue with old fashioned barbecue sauces and cole slaw that are made from scratch.
-
-</itunes:subtitle>
+        <itunes:subtitle>Our market is still in good shape, and a few important numbers are up compared to July 2016.</itunes:subtitle>
         <itunes:author>Melissa Thompson</itunes:author>
-        <itunes:summary>
-The Bar-B-Q Shop, voted #1 ribs in America by the Food Network’s “Top Five Restaurants”, located in the heart of Midtown, less than a mile from the Overton Square Entertainment District, is a local Memphis barbecue eatery that opened in November of 1987. It is a place known for real-pit barbecue with old fashioned barbecue sauces and cole slaw that are made from scratch.
-
-</itunes:summary>
+        <itunes:summary>Our market is still in good shape, and a few important numbers are up compared to July 2016.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Memphis, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>101 Things To Do In Memphis #76: The Bar-B-Q Shop</title>
-        <link>localhost:4000/singles-are-falling-for-their-dream.html</link>
+        <title>Smooth Out Your New Construction Home Purchase With These Tips</title>
+        <link>http://www.weknowmemphis.com/smooth-out-your-new-construction-home-purchase-with-these-tips.html</link>
         
-          <category>101 Things to do in Memphis</category>
+          <category>Home Buyer Tips</category>
         
         <author>Melissa Thompson</author>
-        <pubDate>2017-07-26 10:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2017-08-15 06:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/+Videos/2017/August/Memphis+Real+Estate+Agent-+Smooth+Out+Your+New+Construction+Home+Purchase+With+These+Tips.mp4</guid>
         <description>
-Some Highlights:
 
--According to NAR’s Profile of Home Buyers &amp; Sellers, the share of recent homebuyers who were single at the time of purchase held steady at 24% last year.
+I recently read an article in Realtor Magazine that claimed 2017 was the best year in a decade for new construction homes—not just in the Memphis area, but everywhere.
 
--The percentage of first-time buyers who were single females rose to 17% (up from 16%), as the share of single men dropped from 11% to 8%.
+According to this article, “A shortage of homes for sale combined with growing buyer demand will likely spark home builders to construct the most homes this year than in the last decade.”
 
--The primary reason for buying a home amongst singles was the desire to own a home of their own (38% for women and 37% for men).
-​
-​Contact your local expert’s at The Melissa Thompson Team 901-729-9526 to find out if you qualify to buy your dream home!
+If you’re interested in buying a newly built home, there are a few tips you should know to make the process go smoother.
 
-By: KCM Crew
+First, choose a reputable builder. Make sure they’re a member of the Home Builders Association (in our case, the West Tennessee Home Builders), which allows them to provide a one-year warranty. Beware of all of the add-ons, too, because there are many things that could be considered upgrades that might pull you out of your budget. Stay involved in the building process and don’t be afraid to ask questions. Also, learn about the surrounding neighborhood before you buy.
+
+“Stay involved in the building process and don’t be afraid to ask questions.”
+
+Next, be flexible. With the weather being how it is, builders can’t always determine when your house will be totally completed. They should be able to keep you updated and informed, but you’ll need some flexible dates in mind so everything can be controlled.
+
+Lastly, it’s not a bad idea to have a home inspection. The builder will do a walkthrough with you, but it’s still worth the money to have a home inspection and let someone else take a look at the home to make sure nothing gets overlooked.
+
+If you have any questions about buying new construction or any other real estate topic, feel free to give me a call. I’d be happy to speak with you.
 </description>
-        <enclosure url="" length="" type=""/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type=""/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/+Videos/2017/August/Memphis+Real+Estate+Agent-+Smooth+Out+Your+New+Construction+Home+Purchase+With+These+Tips.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://www.weknowmemphis.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/+Videos/2017/August/Memphis+Real+Estate+Agent-+Smooth+Out+Your+New+Construction+Home+Purchase+With+These+Tips.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-Some Highlights:
-
-</itunes:subtitle>
+        <itunes:subtitle>If you’re interested in buying a new construction home, here are a few tips to make the process go smoother.</itunes:subtitle>
         <itunes:author>Melissa Thompson</itunes:author>
-        <itunes:summary>
-Some Highlights:
-
-</itunes:summary>
+        <itunes:summary>If you’re interested in buying a new construction home, here are a few tips to make the process go smoother.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Memphis, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>Luxurious Laundry Rooms</title>
-        <link>localhost:4000/luxurious-laundry-rooms.html</link>
+        <title>The Latest Numbers for Our Market</title>
+        <link>http://www.weknowmemphis.com/the-latest-numbers-for-our-market.html</link>
         
-          <category>Home Improvement</category>
-        
-        <author>Melissa Thompson</author>
-        <pubDate>2017-07-24 11:00:00 -0500</pubDate>
-        <guid></guid>
-        <description>The laundry room is probably not the first space you think of when you hear the word luxurious.  But it is a room you spend a lot of time in.  Doing laundry is a necessary part of life, so why not make it more appealing by creating a comfortable, practical and pretty environment that will make it feel less like a chore and more like a pleasant task. You don’t have to spend a lot of money to make your laundry room a calm and soothing work space.  There are opulent touches you can add that will improve your disposition while performing the essential duties of washing, drying, folding and ironing.
-*Paint the room in a soft, neutral color - choose from greens, blues or yellow.
-
--Hang some art on the walls.  Pick pieces that you love or are meaningful to you. You don’t have to spend a lot of money…just choose paintings or pictures that bring you joy.
-
-
-
--If you lack storage in your laundry room, add some simple shelves with clean lines.  Get some clear containers for your detergent, fabric softener sheets, clothes pins etc. so you can dispose of the unsightly bags and boxes they come in.
-
--Use baskets or bins to pre-sort clothes into whites, colors, sheets, towels etc.
-
--If your laundry room is spacious, create a folding area.  You can have a table or if you are using front loading machines, design a counter to go on top of them.
-
-
-
--Add a small, wall-mounted television and a comfy chair, and folding clothes won’t seem so boring anymore.
-
--Add a small vase with fresh flowers.  Being amidst the beauty of nature will make you feel better about being stuck indoors doing laundry!
-
-Remember, guests are not likely to see your laundry room, so make it all about YOU.  Be funky and unique with your décor and have fun with it!  Before you know it, you will look forward to doing all that washing, drying and folding.  Ok…maybe you won’t look forward to it, but at least you won’t dread it!
-
-More Resources:
-Quick Fix Tricks to Make Your House Sparkling Clean
-Top Home Renovations for Maximum ROI
-Clearing the Clutter
-</description>
-        <enclosure url="" length="" type=""/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type=""/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>The laundry room is probably not the first space you think of when you hear the word luxurious.  But it is a room you spend a lot of time in.  Doing laundry is a necessary part of life, so why not make it more appealing by creating a comfortable, practical and pretty environment that will make it feel less like a chore and more like a pleasant task. You don’t have to spend a lot of money to make your laundry room a calm and soothing work space.  There are opulent touches you can add that will improve your disposition while performing the essential duties of washing, drying, folding and ironing.
-*Paint the room in a soft, neutral color - choose from greens, blues or yellow.
-
-</itunes:subtitle>
-        <itunes:author>Melissa Thompson</itunes:author>
-        <itunes:summary>The laundry room is probably not the first space you think of when you hear the word luxurious.  But it is a room you spend a lot of time in.  Doing laundry is a necessary part of life, so why not make it more appealing by creating a comfortable, practical and pretty environment that will make it feel less like a chore and more like a pleasant task. You don’t have to spend a lot of money to make your laundry room a calm and soothing work space.  There are opulent touches you can add that will improve your disposition while performing the essential duties of washing, drying, folding and ironing.
-*Paint the room in a soft, neutral color - choose from greens, blues or yellow.
-
-</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Memphis, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-      </item>
-      
-      <item>
-        <title>101 Things To Do In Memphis #75: 29th Annual WEVL Blues on the Bluff</title>
-        <link>localhost:4000/101-things-to-do-in-memphis-75-29th.html</link>
-        
-          <category>101 Things to do in Memphis</category>
+          <category>Market Update</category>
         
         <author>Melissa Thompson</author>
-        <pubDate>2017-07-19 13:52:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2017-08-01 08:28:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/+Videos/2017/August/Memphis+Real+Estate+Agent-+The+Latest+Numbers+for+Our+Market.mp4</guid>
         <description>
-Bring your chairs and blankets and celebrate 29 years of fun on the bluffs of the Mississippi River in a beautiful park-like setting on the grounds of The Metal Museum.
-Giant shady oaks, cool river breezes, the smell of BBQ, fantastic music, and absolutely the best view of the Mississippi in the entire mid-South!
 
-Details:
-Schlafly Beer is the beer sponsor.
-Beer, wine and non-alcoholic drinks being sold
-Award-winning BBQ and more from Central BBQ Food Truck being sold
-No pets or outside food or beverage permitted
-Kids welcome when accompanied by watchful parents
-Silent auction
-WEVL Merchandise and Blues on the Bluff posters for sale
-Free guarded parking
+Today I want to give you an update on the latest numbers and trends that we’ve seen in our real estate market. According to chandlerreports.com, June was a great month and we saw a lot of promising trends, such as:
 
-The line-up:
-The MD’s
-6:30 p.m.
-The Ghost Town Blues Band
-8 p.m.
-Marcella &amp; Her Lovers
-9:35 p.m.
 
-Admission is $20 in advance, $25 at the gate
-Kids 11 and under are $12 at the gate
+  Overall home sales are up by 8%.
+  Average sale prices are up by 5%.
+  Bank-owned property sales are down by 20%.
+  Home sales over $500,000 are up over 30%.
 
-Saturday, July 22nd
-Gates open at 6 p.m.
 
-By and photo credit: http://wevl.org/bob
+As far as that steep drop in bank-owned property sales is concerned, it’s actually a good sign for our market. A drop in the number of foreclosed properties is good for your resale value. There are still foreclosures available out there, but they are a little harder to find now.
+
+“Bank-owned properties are down a whopping 20%.”
+
+There is a chart below that shows the numbers for all the different municipalities in the area. As you can see, the average sale price has increased in Arlington, Bartlett, Collierville, and Germantown.
+
+The market is still very strong for sellers, but we aren’t seeing as many multiple offer situations. If you have any questions about the market or about your home specifically, don’t hesitate to give me a call or send me an email today. I would love to hear from you.
+
+
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/+Videos/2017/August/Memphis+Real+Estate+Agent-+The+Latest+Numbers+for+Our+Market.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://www.weknowmemphis.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/+Videos/2017/August/Memphis+Real+Estate+Agent-+The+Latest+Numbers+for+Our+Market.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-Bring your chairs and blankets and celebrate 29 years of fun on the bluffs of the Mississippi River in a beautiful park-like setting on the grounds of The Metal Museum.
-Giant shady oaks, cool river breezes, the smell of BBQ, fantastic music, and absolutely the best view of the Mississippi in the entire mid-South!
-
-</itunes:subtitle>
+        <itunes:subtitle>I’ve got a quick update for you today on our real estate market. Here’s what you need to know.</itunes:subtitle>
         <itunes:author>Melissa Thompson</itunes:author>
-        <itunes:summary>
-Bring your chairs and blankets and celebrate 29 years of fun on the bluffs of the Mississippi River in a beautiful park-like setting on the grounds of The Metal Museum.
-Giant shady oaks, cool river breezes, the smell of BBQ, fantastic music, and absolutely the best view of the Mississippi in the entire mid-South!
-
-</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Memphis, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-      </item>
-      
-      <item>
-        <title>5 Important Things to Fix Before Putting Your House on the Market</title>
-        <link>localhost:4000/5-important-things-to-fix-before.html</link>
-        
-          <category>Home Improvement</category>
-        
-        <author>Melissa Thompson</author>
-        <pubDate>2017-07-17 14:13:00 -0500</pubDate>
-        <guid></guid>
-        <description>
-If you want the best price for your house, you may have to do some repairs before selling it. Potential buyers will be willing to spend more for a home that doesn’t need a lot of work.  Here are 5 important things to fix before selling:
-
-
-  
-    Exterior - When was the last time the exterior of your house was painted?  Is the paint faded and chipping?  Is wood rotting around the windows?  Is your front door dingy?  First impressions matter when it comes to selling your home and buyers will get their first impression when they see the outside of your house whether in pictures or in person.  Don’t forget the landscaping.  A well-kept lawn and simple, but clean flower beds will go a long way toward creating an enticing aesthetic for your property.
-  
-  
-    Interior Paint - If the walls are looking a bit shabby and the trim a bit grimy, painting is a quick and easy fix.  The same applies if you went through a crazy color phase a few years back and decorated with hues that might not appeal to everyone.  Choose neutral colors that will allow buyers to focus on the spaces without being distracted.
-  
-  
-    Kitchen - The kitchen is one of the most important rooms that buyers focus on when looking at a house.  So, if yours is looking run-down you will want to update it.  It will be worth the investment to replace appliances that are on their last legs or putting in a new granite counter.  Or it might be as simple as repainting cabinets and adding shiny, new handles.
-  
-  
-    Bathroom - Nothing turns buyers off faster than an unsightly bathroom.  Sparkling, clean fixtures and a fresh coat of paint will go a long way toward impressing someone searching for their dream home.  Inexpensive touches like a decorative mirror or a lovely picture on the wall will add to the ambiance without breaking the bank.
-  
-  
-    Flooring - If your carpets are stained or thread bare, it is worth your while to replace them.  Otherwise, buyers may ask for a carpet allowance when they make an offer on your house.  The same applies if your vinyl floors are in bad shape.  Hardwoods are always popular, but you may want to consider getting them refinished if they are looking old and scruffy.
-  
-
-
-It may seem counter intuitive to spend money on repairing or fixing up a house you are getting ready to sell, but at the end of the day, it will not only help you sell your house faster, but you will get a better price for it too.
-
-More Resources:
-Quick Fix Tricks to Make Your House Sparkling
-Tips for Showing Your Home to Potential Buyers
-</description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-If you want the best price for your house, you may have to do some repairs before selling it. Potential buyers will be willing to spend more for a home that doesn’t need a lot of work.  Here are 5 important things to fix before selling:
-
-</itunes:subtitle>
-        <itunes:author>Melissa Thompson</itunes:author>
-        <itunes:summary>
-If you want the best price for your house, you may have to do some repairs before selling it. Potential buyers will be willing to spend more for a home that doesn’t need a lot of work.  Here are 5 important things to fix before selling:
-
-</itunes:summary>
+        <itunes:summary>I’ve got a quick update for you today on our real estate market. Here’s what you need to know.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Memphis, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>3 Tips to Protect First-Time Homebuyers</title>
-        <link>localhost:4000/3-tips-to-protect-first-time-homebuyers.html</link>
+        <link>http://www.weknowmemphis.com/3-tips-to-protect-first-time-homebuyers.html</link>
         
           <category>Buying a House</category>
         
@@ -295,7 +171,7 @@ If you or someone you know is considering buying a home for the first time, ther
 These are just three tips for successfully buying a home for the first time. If you would like some more tips or just have a question, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/+Videos/2017/Memphis+Real+Estate+Agent-+3+Tips+to+Protect+First-Time+Homebuyers.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.weknowmemphis.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/+Videos/2017/Memphis+Real+Estate+Agent-+3+Tips+to+Protect+First-Time+Homebuyers.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -314,7 +190,7 @@ If you or someone you know is considering buying a home for the first time, ther
       
       <item>
         <title>Promising Numbers From Our Memphis Market</title>
-        <link>localhost:4000/promising-numbers-from-our-memphis.html</link>
+        <link>http://www.weknowmemphis.com/promising-numbers-from-our-memphis.html</link>
         
           <category>Market Update</category>
         
@@ -334,7 +210,7 @@ On a related note, I’d like to remind you that we’re donating the commission
 If you have any questions about our market, you’d like to know what your home is worth, or you’re thinking about buying or selling a home, feel free to reach out to me. I’d be happy to assist you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/Memphis+Real+Estate+Agent-+Your+latest+Memphis+market+update.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.weknowmemphis.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/Memphis+Real+Estate+Agent-+Your+latest+Memphis+market+update.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -353,7 +229,7 @@ How do the numbers from our current market compare to where we were at this time
       
       <item>
         <title>How to Make Your Offer on a Memphis Home Stand Out</title>
-        <link>localhost:4000/how-to-make-your-offer-on-memphis-home.html</link>
+        <link>http://www.weknowmemphis.com/how-to-make-your-offer-on-memphis-home.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -379,7 +255,7 @@ Finally, add a personal touch by writing a letter telling the seller why you lov
 If you have any questions about multiple offer situations when buying a home, give us a call or send us an email soon. We’d be more than happy to help!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/Memphis+Real+Estate+Agent-How+to+win+a+multiple+offer+situation.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.weknowmemphis.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/Memphis+Real+Estate+Agent-How+to+win+a+multiple+offer+situation.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -398,7 +274,7 @@ If you’re looking to buy a home here in Memphis, you might have to compete aga
       
       <item>
         <title>How to Get the Best Possible Credit When Applying for a Home Loan</title>
-        <link>localhost:4000/how-to-get-best-possible-credit-when.html</link>
+        <link>http://www.weknowmemphis.com/how-to-get-best-possible-credit-when.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -422,7 +298,7 @@ Finally, don’t make any big purchases until after closing on a home. After you
 If you have any questions or are looking to buy or sell a home, please feel free to give me a call or send me an email. I’m always happy to help.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/Memphis+Real+Estate+Agent-+How+to+get+your+credit+mortgage+loan+ready.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.weknowmemphis.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/Memphis+Real+Estate+Agent-+How+to+get+your+credit+mortgage+loan+ready.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -441,7 +317,7 @@ If you’re thinking about buying a home, you need to start preparing to have th
       
       <item>
         <title>What Homeowners & Homebuyers Need to Know About Taxes</title>
-        <link>localhost:4000/what-homeowners-homebuyers-need-to-know.html</link>
+        <link>http://www.weknowmemphis.com/what-homeowners-homebuyers-need-to-know.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -449,7 +325,7 @@ If you’re thinking about buying a home, you need to start preparing to have th
         
         <author>Melissa Thompson</author>
         <pubDate>2017-04-20 12:39:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/Memphis+Real+Estate+Agent-+Is+your+tax+appraisal+too+high%253F.mp4</guid>
         <description>
 
 Today I’m here with Wendy Thompson of the Wendy Thompson Lending Team to talk about your tax appraisal. Unless you live in the downtown area, you should have received your appraisal by now.
@@ -464,9 +340,9 @@ If you are a buyer and you are currently under contract to purchase a home, make
 
 As always, if you have any questions about this topic, just give us a call or send us an email. We would be happy to help you!
 </description>
-        <enclosure url="" length="https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/Memphis+Real+Estate+Agent-+Is+your+tax+appraisal+too+high%253F.mp4" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/Memphis+Real+Estate+Agent-+Is+your+tax+appraisal+too+high%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://www.weknowmemphis.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/Memphis+Real+Estate+Agent-+Is+your+tax+appraisal+too+high%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 
@@ -484,7 +360,7 @@ Today I’m here with Wendy Thompson of the Wendy Thompson Lending Team to talk 
       
       <item>
         <title>How Will Recent Interest Rate Changes Affect You?</title>
-        <link>localhost:4000/how-will-recent-interest-rate-changes.html</link>
+        <link>http://www.weknowmemphis.com/how-will-recent-interest-rate-changes.html</link>
         
           <category>Market Update</category>
         
@@ -510,7 +386,7 @@ If you have any questions for Wendy about rates or getting approved for a home l
 As always, if you have any questions about our market or you’re thinking about buying or selling a home, don’t hesitate to give me a call or send me an email. I’d be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/Memphis+Real+Estate+Agent-+How+recent+interest+rate+changes+affect+you.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.weknowmemphis.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/Memphis+Real+Estate+Agent-+How+recent+interest+rate+changes+affect+you.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -529,7 +405,7 @@ Interest rates have been a hot topic recently, so today, I’ve brought in Wendy
       
       <item>
         <title>Dont Let Your Pets Mess up Your Home Sale</title>
-        <link>localhost:4000/dont-let-your-pets-mess-up-your-home.html</link>
+        <link>http://www.weknowmemphis.com/dont-let-your-pets-mess-up-your-home.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -566,7 +442,7 @@ I have a pet and I love animals but, unfortunately, pets can mess up your home s
 Take care of these five things so that your home shows well. If you have any other questions about selling with pets or about the home-selling process in general, give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/Memphis+Real+Estate+Agent-+5+ways+Fido+can+ruin+your+home+showings.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.weknowmemphis.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/Memphis+Real+Estate+Agent-+5+ways+Fido+can+ruin+your+home+showings.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -585,7 +461,7 @@ I have a pet and I love animals but, unfortunately, pets can mess up your home s
       
       <item>
         <title>Selling in 2017? Start Your Renovations Now</title>
-        <link>localhost:4000/selling-in-2017-start-your-renovations.html</link>
+        <link>http://www.weknowmemphis.com/selling-in-2017-start-your-renovations.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -613,7 +489,7 @@ Finally, if you make the right renovations, you’ll see a good return on your i
 If you’re thinking about selling your house this year and you’d like to know more about the smart renovations that will increase your net sales price, give me a call or send me an email. I’d be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/Memphis+Real+Estate+Agent-+Why+Make+Those+Pre-List+Renovations+Now%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.weknowmemphis.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/Memphis+Real+Estate+Agent-+Why+Make+Those+Pre-List+Renovations+Now%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -631,58 +507,8 @@ There are a few good reasons to do some renovations in your home, especially if 
       </item>
       
       <item>
-        <title>Get Pre-Approved Before You Start Your Home Search</title>
-        <link>localhost:4000/get-pre-approved-before-you-start-your.html</link>
-        
-          <category>Home Buyer Tips</category>
-        
-        <author>Melissa Thompson</author>
-        <pubDate>2017-03-02 16:28:00 -0600</pubDate>
-        <guid></guid>
-        <description>
-
-Before you start your home search, it is incredibly important that you get pre-approved for a mortgage. There are many reasons why, but Fannie Mae recently released an article about the four C’s:
-
-
-  
-    Capacity: This refers to your current and future ability to make your house payments. What do you want to spend? You don’t want all of your money to go to house payments or you will end up house poor.
-  
-  
-    Capital or cash reserves: How much money do you have available? What do you want to put down in order to get the home?
-  
-  
-    Collateral: What type of home do you want? What size should the home be?
-  
-  
-    Credit history: The lender will look at your credit score and your credit history.
-  
-
-
-“WHAT DO YOU WANT TO SPEND ON YOUR MONTHLY HOUSE PAYMENTS?”
-
-We have several great lenders that can help you get pre-approved before you start looking at homes. If you would like more information, just give me a call or send me an email. I would be happy to help you!
-</description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-Before you start your home search, it is incredibly important that you get pre-approved for a mortgage. There are many reasons why, but Fannie Mae recently released an article about the four C’s:
-
-</itunes:subtitle>
-        <itunes:author>Melissa Thompson</itunes:author>
-        <itunes:summary>
-
-Before you start your home search, it is incredibly important that you get pre-approved for a mortgage. There are many reasons why, but Fannie Mae recently released an article about the four C’s:
-
-</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Memphis, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-      </item>
-      
-      <item>
         <title>What Can You Expect When Hiring a Home Inspector?</title>
-        <link>localhost:4000/what-can-you-expect-when-hiring-home.html</link>
+        <link>http://www.weknowmemphis.com/what-can-you-expect-when-hiring-home.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -702,7 +528,7 @@ After they’re done inspecting those items, they’ll give you a report on the 
 If you have any questions about this topic or are looking to buy or sell a home in our market, please feel free to give me a call or shoot me an email. I’d be happy to speak with you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/Memphis+Real+Estate+Agent-+What+can+you+expect+from+home+inspectors%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.weknowmemphis.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/Memphis+Real+Estate+Agent-+What+can+you+expect+from+home+inspectors%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -721,7 +547,7 @@ Once you’re under contract for a home and you’ve hired a home inspector to d
       
       <item>
         <title>What Do You Need to Know About TRID?</title>
-        <link>localhost:4000/what-do-you-need-to-know-about-trid.html</link>
+        <link>http://www.weknowmemphis.com/what-do-you-need-to-know-about-trid.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -741,7 +567,7 @@ As a seller, you have a closing date and a possession date which is however many
 Make sure your lender gets it out in time because although we will do everything we can to have this not affect your closing, it still can. If you have any questions, don’t hesitate to reach out and give me a call or send me an email. We look forward to hearing from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/Memphis+Real+Estate+Agent-+What+does+TRID+do%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.weknowmemphis.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/Memphis+Real+Estate+Agent-+What+does+TRID+do%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -760,7 +586,7 @@ You may have heard the acronym TRID before, but you also may not be totally clea
       
       <item>
         <title>Why Is Winter a Good Time to Sell Your House?</title>
-        <link>localhost:4000/why-is-winter-good-time-to-sell-your.html</link>
+        <link>http://www.weknowmemphis.com/why-is-winter-good-time-to-sell-your.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -780,7 +606,7 @@ Interest rates went up a little bit after the election, but they are still very 
 If you have any questions about selling during the winter or you’re thinking about buying or selling a house, give me a call or send me an email soon. I’d be happy to help in any way I can!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/Memphis+Real+Estate+Agent-+Why+winter+is+a+great+time+to+sell+your+house.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.weknowmemphis.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/Memphis+Real+Estate+Agent-+Why+winter+is+a+great+time+to+sell+your+house.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
