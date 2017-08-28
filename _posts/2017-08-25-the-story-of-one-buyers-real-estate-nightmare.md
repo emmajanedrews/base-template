@@ -22,7 +22,7 @@ youtube_code: fTWQm6rAOpI
 
 Today, I’ve got a story to tell you about a buyer who lost their dream home all because they decided to sleep on the decision instead of making a move.
 
-A while back I had a listing on a market. In today’s market, things are moving quickly—listings often receive multiple offers within a week. In the case of this listing, specifically, a buyer came along after just a couple of days and gave an offer that was under the asking price.
+A while back I had a listing on the market. In today’s market, things are moving quickly—listings often receive multiple offers within a week. In the case of this listing, specifically, a buyer came along after just a couple of days and gave an offer that was under the asking price.
 
 Since the seller was already receiving a lot of activity and competing offers, they felt confident shooting back a counteroffer that was a little higher than the one the buyer originally gave.
 
