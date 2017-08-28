@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Buyout Program for Sellers in Need
-date: 2017-08-25 13:28:48
+date: 2017-08-25 13:28:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 0-5oa31D62k
+youtube_code: qPrl6rIH4Q4
 ---
 
 
