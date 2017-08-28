@@ -5,7 +5,8 @@ date: 2017-08-28 00:00:00
 tags:
   - Market Update
 excerpt: Here’s what you need to know about the Kauai real estate market.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Ron+Margolis/KW+Kauai+Real+Estate+Kauai+real+estate%E2%80%99s+latest+news.mp4
 pullquote: 'Anything under $600,000 is in heavy demand.'
 enclosure_type: video/mp4
 enclosure_time:
