@@ -2450,8 +2450,8 @@ table tr, table td {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  padding: 0px 10px 40px;
-  font-size: 18px; }
+  padding: 0px 20px 40px;
+  font-size: 16px; }
   .about-container div {
     display: -webkit-box;
     display: -ms-flexbox;
