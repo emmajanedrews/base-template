@@ -1323,6 +1323,29 @@ html[xmlns] .flexslider .slides {
   -webkit-animation: 1s pull-up ease-in-out forwards;
           animation: 1s pull-up ease-in-out forwards; }
 
+.welcome-link {
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  background: #fff;
+  border: 1px solid #fff;
+  border-radius: 0px;
+  padding: 10px 20px;
+  text-decoration: none;
+  font-size: 18px;
+  color: #046997;
+  -webkit-transition: all 0.15s ease-out 0s;
+  transition: all 0.15s ease-out 0s; }
+  .welcome-link:hover {
+    background: #FFF;
+    color: #09adf8;
+    box-shadow: 4px 4px 0 #09adf8;
+    border: 1px solid #09adf8;
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05);
+    -webkit-transform: translateY(-0.2rem);
+    transform: translateY(-0.2rem); }
+
 @-webkit-keyframes drop-down {
   0% {
     -webkit-transform: translateY(-1000px);

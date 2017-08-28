@@ -58,9 +58,10 @@ lender:
   url: http://eyegoop.com
 
 welcome_box:
-  welcome_headline: Join Our VIP List
+  welcome_headline: Submit a Property
   welcome_text_markdown: >
-    We are a full-service investment group that focuses on the relationships with real estate agents. Our mission is to provide top notch service and be an allied resource when an agent has a property that will be a hard sell or distressed situation.
+    Have a property that might work? Not only will you make the commissions when we purchase the property, but we will give you a 5% equity stake where you will make an additional 5% of the actual profit after we renovate the property and sell it.
+  link_text: Submit Your Property Here
 
 socials:
   review_sm_icons: false
