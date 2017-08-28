@@ -26,10 +26,10 @@ We all know that there’s an extremely low barrier of entry into the real estat
 
 2. **How to generate business**. Real estate school won’t teach you how to generate business as a new agent. A lot of new agents end up focusing their energy in the wrong areas. We see a lot of passive lead generation techniques like flyers and social media posts. Although these things have value, they have to be used in a combination with good old-fashioned lead generation. Before you can be a great agent, you need to learn how to become a great salesperson.
 
-{% include pullquote.html %}
-
 3. **You have to learn how to deal with rejection**. This is a tough concept for most people to grasp. However, when you realize in our business that one yes trumps hundreds of no’s, rejection won’t bother you much. Conversely, it will motivate you to try that much harder to get the next person to say yes.
 
 4. **Don’t overlook culture and environment when choosing a brokerage**. It’s essential to put yourself in an environment that fosters growth, provides education, and surrounds you with people who are going to inspire you to reach your goals.
+
+{% include pullquote.html %}
 
 We believe our team has the kind of culture you’re looking for. If you have any questions for us about our business or would just like to talk about your career path in general, we’d love to be of assistance. Just give us a call or send us an email anytime. We look forward to hearing from you soon.
