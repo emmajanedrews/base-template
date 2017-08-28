@@ -31,7 +31,7 @@ During the process of selling your home, there are certain things you should abs
    <br>
    <br>{% include pullquote.html %}
    <br>&nbsp;
-3. **Using poor photography.** With the majority of people turning to the internet when they begin looking at homes, the first impression your home will give off will be through photographs. Hiring a quality, professional photographer will be absolutely essential to ensuring that your home is put forward in the best possible light. Having attractive photos of your home will always help you attract more buyers.
+3. **Using poor photography.** With the majority of people turning to the Internet when they begin looking at homes, the first impression your home will give off will be through photographs. Hiring a quality, professional photographer will be absolutely essential to ensuring that your home is put forward in the best possible light. Having attractive photos of your home will always help you attract more buyers.
 4. **Ignoring your backyard.** While curb appeal tips tend to focus on the front of your home, you should never neglect the state of your backyard. Remember to remove weeds and trim your hedges. If you need or would like help with completing this, I have a great list of professional landscapers who I would be happy to recommend to you.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
