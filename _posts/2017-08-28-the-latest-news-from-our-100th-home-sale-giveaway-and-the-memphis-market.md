@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Latest News From Our 100th Home Sale GIveaway and the Memphis Market
-date: 2017-08-28 11:00:00
+date: 2017-08-28 10:00:00
 tags:
   - Market Update
 excerpt: >-
