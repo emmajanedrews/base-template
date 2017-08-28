@@ -12,7 +12,7 @@ title: Holiday Greetings from Carbutti & Company
 date: '2016-12-20T12:39:00.000-08:00'
 author: Vyral Admin
 tags:
-- happy holidays
+- Happy Holidays
 modified_time: '2016-12-20T12:40:31.095-08:00'
 thumbnail: https://img.youtube.com/vi/u8rAx2Pktf4/default.jpg
 blogger_id: tag:blogger.com,1999:blog-3684825543721465996.post-7211752951269705091

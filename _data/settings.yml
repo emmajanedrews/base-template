@@ -5,69 +5,57 @@ show_custom_links: true
 custom_links:
   - title: Testimonials
     url: /client-testimonials
+  - title: Book an Appointment with Jonathan
+    url: http://calendly.com/jonathan-carbutti
 
 client:
   name: Jonathan Carbutti
   license_number:
   about_markdown: |
-    Jonathan defines himself as an educator first, and real estate broker second. He enjoys educating the consumer, Buyers and Sellers alike, and dispelling many of the “myths” of buying and selling. As a successful real estate investor as well Jonathan is able to offer practical and useful advice whether you are the first-time investor or seasoned pro.
-  market: New Haven
+    We love Connecticut. And we're passionate about the real estate market here. We want to provide you with the best local content, and additional professional services, - if and when your situation requires it. Our goal is to be helpful, not a nuisance. There is no obligation required from you. We look forward to earning your trust and respect through our 'on-call' level of service and our extensive local knowledge.
+  market: New Haven & Fairfield County
   brand: Carbutti & Co Realtors
   brokerage:
-  address: 72 South Main Street <br> Wallingford, CT 06492
-  phone: (203) 269-4910
+  address: 72 South Main Street<br>Wallingford, CT 06492
+  phone: 203-980-6886
   phone_type:
   phone2:
   phone2_type:
   email: Jonathan.Carbutti@gmail.com
-  url: https://www.carbuttirealestate.com
+  url: https://www.CarbuttiRealEstate.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.carbuttirealestate.com/home-valuation
+  first_CTA_URL: http://www.carbuttirealestate.com/home-valuation/
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.carbuttirealestate.com
-  VR_form: http://oi.vresp.com?fid=bb38540c56
+  second_CTA_URL: http://www.carbuttirealestate.com/
+  VR_form:
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free -- MARKET -- Home Value Report"
-    CTA_url: http://www.carbuttirealestate.com/home-valuation
+    CTA_link_text: "Free Home Value Report"
+    CTA_url: http://www.carbuttirealestate.com/home-valuation/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: http://www.carbuttirealestate.com
+    CTA_url2: http://www.carbuttirealestate.com/
 
 lender:
-  show_section: true
-  header_text: Preferred Lenders
-  # headshot_path:
-  logo_path: /img/lender-logo.jpg
+  show_section: false
+  header_text: Preferred Lender
+  headshot_path: http://fillmurray.com/200/200
+  logo_path: /img/logo.png
   logo_path_2:
-  name: Dave Beckman
-  brand: Guaranteed Rate
-  license_number: 'NMLS#10930 CT-LO 10930-17196'
-  phone: 203-641-8287
-  email: dbeckman@guaranteedrate.com
-  # url: http://eyegoop.com
-
-lender2:
-  show_section: true
-  # header_text: Preferred Lenders
-  # headshot_path:
-  # logo_path: /img/logo.png
-  logo_path_2:
-  name: Joanne Johansen
-  brand: Mortgage Assistance Company LLC
-  license_number: 'NMLS IDS: LO-58896 LO-8200'
-  phone: 203-589-4677
-  email: jojo826@cox.net
-  # url: http://eyegoop.com
+  name: Bill Murray
+  brand: Lender Co.
+  phone: 555-555-5555
+  email: bill@murray.com
+  url: http://eyegoop.com
 
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
@@ -87,15 +75,15 @@ socials:
   twitter_url: https://twitter.com/CarbuttiBlog
   instagram_url:
   pinterest_url:
-  zillow_url: http://www.zillow.com/
-  trulia_url: http://www.trulia.com/
+  zillow_url:
+  trulia_url:
   yelp_url: http://www.yelp.com/biz/carbutti-and-co-realtors-wallingford-2
   podcast_url: https://itunes.apple.com/us/podcast/new-haven-fairfield-county/id1178093104?mt=2
 
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
   categories: Education
-  image: /img/podcast.png
+  image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
@@ -110,8 +98,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#0070AC'
-  theme_color: '#B2B7BB'
+  brand_color: '#0070ab'
+  theme_color: '#b0b7bc'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -120,7 +108,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: rgba (238,238,238,0.5)
+  shadow_color: rgba(250, 250, 250, .4)
 
 buttons:
   button_radius_number: 0

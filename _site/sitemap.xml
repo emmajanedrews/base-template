@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>localhost:4000/welcome-to-alyssas-cakery.html</loc>
+<lastmod>2017-08-23T07:09:29-05:00</lastmod>
+</url>
+<url>
 <loc>localhost:4000/the-carbutti-home-makeover-contest-is.html</loc>
 <lastmod>2017-07-25T11:14:00-05:00</lastmod>
 </url>
@@ -51,6 +55,12 @@
 <loc>localhost:4000/about/</loc>
 </url>
 <url>
+<loc>localhost:4000/client-testimonials.html</loc>
+</url>
+<url>
+<loc>localhost:4000/client-testimonials.html</loc>
+</url>
+<url>
 <loc>localhost:4000/homesearch/</loc>
 </url>
 <url>
@@ -67,8 +77,5 @@
 </url>
 <url>
 <loc>localhost:4000/page2/</loc>
-</url>
-<url>
-<loc>localhost:4000/page3/</loc>
 </url>
 </urlset>
