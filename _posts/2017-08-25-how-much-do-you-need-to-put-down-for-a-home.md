@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Much Do You Need to Put Down for a Home?
-date: 2017-08-25 14:04:31
+date: 2017-08-25 14:04:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -20,7 +20,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: oOF7ZasAnS0
+youtube_code: jfM8Lrrh1is
 ---
 
 
