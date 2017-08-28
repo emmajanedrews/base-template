@@ -31,9 +31,9 @@ If the house is already listed or under contract, it really changes the offer in
 
 There’s really no other way around it: you have to list your home first.
 
-{% include pullquote.html %}
-
 We understand that this is a really stressful situation for you. We do this type of transaction every day, and we help people through this scenario all the time. We’ve found over the years that there are three key things that we can do to put you into the best position.
+
+{% include pullquote.html %}
 
 The first thing we do is **pre-market your home for several days before showings.** While you’re looking for the home you want to buy, we’ll get the marketing set up. We’ll get the listing written, get all the paperwork together, and let other agents know that your home is coming for sale.
 
