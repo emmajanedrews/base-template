@@ -23,7 +23,7 @@ If you’ve never purchased a condo before, you may not realize that there are s
 
 Not only do you have to qualify for underwriting, but the property itself needs to do so, as well.
 
-This is quite a bit different from what many are used to. Qualifying for this kind of underwriting will involve looking at finances, documents, as well as the property’s management team.&nbsp;
+This is quite a bit different from what many are used to. Qualifying for this kind of underwriting will involve looking at finances, documents, and the property’s management team.&nbsp;
 
 Another difference is that getting VA or FHA financing for condos will be difficult. **With a condo, a conventional mortgage loan will probably be your best option**.
 
