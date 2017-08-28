@@ -37,6 +37,7 @@
 	        </div>
 	        <div class="col-sm-4">
 	          <address itemprop="address">{{site.data.settings.client.address}}</address>
+						<a href="tel:{{site.data.settings.client.phone | prepend: "1-"}}" itemprop="telephone">{{site.data.settings.client.phone}}</a>
 	        </div>
 	      {% else %}
 	        <div class="col-sm-3">
@@ -52,24 +53,14 @@
 	          <span itemprop="branchof">{{site.data.settings.client.brokerage}}</span>
 	        </div>
 	        <div class="col-sm-3">
-	          <address itemprop="address">{{site.data.settings.client.address}}</address>
+	          <address itemprop="address">{{site.data.settings.client.address}}</address><br>
+						<a href="tel:{{site.data.settings.client.phone | prepend: "1-"}}" itemprop="telephone">{{site.data.settings.client.phone}}</a>
 	        </div>
 	      {% endif %}
 	    </div>
 	    <hr>
-	    <div class="row">
-	      <div class="col-sm-4">
-					{% if site.data.settings.client.phone2 != null %}
-					{{ site.data.settings.client.phone_type }}: <a href="tel:{{site.data.settings.client.phone | prepend: "1-"}}" itemprop="telephone">{{ site.data.settings.client.phone }}</a><br />
-					{{ site.data.settings.client.phone2_type }}: <a href="tel:{{site.data.settings.client.phone2 | prepend: "1-"}}" itemprop="telephone">{{ site.data.settings.client.phone2 }}</a><br />
-					{% else %}
-	        <a href="tel:{{site.data.settings.client.phone | prepend: "1-"}}" itemprop="telephone">{{site.data.settings.client.phone}}</a>
-					{% endif %}
-
-	      </div>
-	      <div class="col-sm-4">{{site.data.settings.client.email_type}}: <a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a><br>
-				{{site.data.settings.client.email2_type}}: <a href="mailto:{{site.data.settings.client.email2}}">{{site.data.settings.client.email2}}</a></div>
-	      <div class="col-sm-4"><a href="{{site.data.settings.client.url}}" target="_blank">{{site.data.settings.client.url | remove: "http://" | remove: "https://"}}</a></div>
+			<p>Clint and Shane Neal are licensed real estate agents in the State of Texas</p>
+			<img src="/img/kw.png" class="kw-footer">
 	    </div>
 	    <div class="row">
 	      <div class="twelve columns footer-socials">
