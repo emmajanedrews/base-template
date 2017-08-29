@@ -23,7 +23,7 @@ Lately, I’ve gotten a lot of questions about home inspections, so I decided to
 
 **1. &nbsp;When?** As soon as we get a contract on your house, one of the very first things we’ll do is order a home inspection. The contract generally has a short period to get your inspection done and request repairs from the seller.
 
-**2. &nbsp;Who?** There are a lot of home inspectors out there. You can do a search on the Internet or we can recommend a few inspectors who have helped our clients in the past. That said, you need to make sure that the home inspector has an active license. Check out this **[website](http://www.coastalmississippihomesearch.com/)** to make sure your home inspector’s license is active.
+**2. &nbsp;Who?** There are a lot of home inspectors out there. You can do a search on the Internet or we can recommend a few inspectors who have helped our clients in the past. That said, you need to make sure that the home inspector has an active license. Check out this **[website](http://www.mrec.state.ms.us/)** to make sure your home inspector’s license is active.
 
 {% include pullquote.html %}
 
