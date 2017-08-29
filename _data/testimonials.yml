@@ -1,5 +1,25 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
-    audio:
+  - quote: “Well we had an excellent experience. Kurt was sending me house listings about every week I would say. We were in Washington, our children live in Austin and we are moving to Austin next year. And we wanted to actually buy in with our kids. And one of the houses he sent me, I told him we’re looking for something with a mother-in-law, father-in-law type apartment, and he would try to always send me something along that line. And we found this one house, I talked to my kids and said let’s go look at it. I called Kurt, and we were on a very short time frame because we were coming home from there in like three days. He quickly set up a viewing of the house so we could go in and see and we quickly made a decision that we were interested in putting in an offer and he jumped through a lot of hoops in a very short time to get us going on purchasing that home. And by the time we left and came back to Washington it was well under progress so that we could do the rest of it remotely."
+    name: April
+    audio: /uploads/audio/april.mp3
+
+  - quote: “He achieved selling our house in a timely and fashionable manner. Kurt always goes above and beyond for us. He works very hard at getting our house on the market and getting the best selling price that he can possibly for us. He’s just very professional and very courteous.”
+    name: Danna
+    audio: /uploads/audio/danna.mp3
+
+  - quote: “We sold a house, it was amazing, because it took only two days to get it done. His suggestions about what to fix and what to leave to the next owners was very accurate. It was amazing, the whole process. He actually helped me find a handyman to fix little details that the buyers wanted us to fix. He basically took care of everything. I just showed up and signed and hired a handyman. It was super-fast and easy.”
+    name: Alex
+    audio: /uploads/audio/alex.mp3
+
+  - quote: “I was looking one night on the internet, at Zillow, and liked several of the houses and my wife, recently we discovered that she is not going to be able to do everything that she’s done before in her life. She’s had several brain surgeries and is now handicapped because of that. I put in all of the information that we were looking for, and I mean very specific in some areas. I entered it into the system and received a phone call back from Kurt either the next day or a few days later. We worked together from August 2016 to current. He put me in touch with someone who could sell our home in San Antonio and I wasn’t real happy with the conversations we had. So Kurt said, well you know what, have you ever considered doing an online sale, like an auction? I said, no I hadn’t. And he said well I can do that for you if you’re interested. I said absolutely. He even worked with my family in the process because I had family as renters, helping them to find another place."
+    name: Eric
+    audio: /uploads/audio/eric.mp3
+
+  - quote: “My wife met Kurt at an open house and she decided that he should be our Realtor then. We were looking to move, we didn’t know exactly where. So we worked with Kurt, first to get our home ready to sell and then eventually to find our new house, which was a new build. During the sale of our home, our existing home, we actually had a fair amount of difficulty with that process and Kurt was always very clear in his communication and kind of advising us on what we should do next. Even though we kind of came up against some road blocks and actually were under two different contracts. So that was something Mandy and I really appreciated. Kurt is extremely good at listening and understanding his clients’ needs. And also very clear regarding the options that they’ll have for buying and selling a home and how their needs kind of fit with the different options.”
+    name: Paul
+    audio: /uploads/audio/paul.mp3
+
+  - quote: “Kurt actually was referred to us by a friend that worked for one of his previous companies so it was a happy accident that we met him in the first place and have since become pretty good friends with him. We’ve refereed him to quite a few people. The sale of our first house was brutal for everybody involved. The market was down at the time. Kurt stuck with us through five offers that fell through including two the week of closing. Through that it really was a huge ordeal for all of us and it was a no-brainer to go to him when it was time to buy again and sell again. Whatever you’re going to go through this guy’s going to do everything that he can to help you out and be there for you. And like I said, he’s become more than just a Realtor, he’s become a good friend.”
+    name: Cain
+    audio: /uploads/audio/cain.mp3
