@@ -41,7 +41,7 @@ For Lee Stern, one of our elite listing specialists, the fact that she’s taken
 
 Her clients love the fact that the first question she asks them is how she can make them a raving fan. **“We have a promise that we use on The Stern Team—to make the experience better than the clients ever could’ve imagined.”**
 
-Buyer Specialist Justin Acheson came to us wanting to provide a better customer experience for his clients. He was still new to the industry, so he didn’t quite have the knowledge to provide a great service. He wanted to emulate the professionalism portrayed on our team, and the quickest way for him to do so was learn from us.
+Buyer Specialist Justin Acheson came to us wanting to provide a better customer experience for his clients. He was still new to the industry, so he didn’t quite have the knowledge to provide a great service. He wanted to emulate the professionalism portrayed on our team, and the quickest way for him to do so was to learn from us.
 
 “You won’t find better management,” he says. “You won’t find a more caring group of people. When you join the team, they genuinely want you to succeed.”
 
