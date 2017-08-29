@@ -1,13 +1,14 @@
 ---
 layout: post
 title: What Do Buyers and Sellers Need to Know About Appraisals?
-date: 2017-08-16 10:12:25
+date: 2017-08-16 10:12:00
 tags:
   - Real Estate
 excerpt: >-
   Here are some key things you need to know about appraisals and how the
   appraisal process works.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+What+you+must+know+about+appraisals.mp4
 pullquote: 'If a low appraisal happens, you can renegotiate or get a second opinion.'
 enclosure_type: video/mp4
 enclosure_time:
