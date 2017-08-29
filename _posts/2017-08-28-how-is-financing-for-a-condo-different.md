@@ -35,6 +35,6 @@ If you’re working with an experienced loan originator, they will be able to wa
 
 Even if you are paying cash, it is critical that you **pay attention to the HOA and financing documents**. Your Realtor should give you all of these items for you to review.
 
-To know more about condo financing,* [**check out this article**](https://www.homebridge.com/2017/07/11/what-you-want-to-know-about-florida-condo-financing/)* by Brian McMahon, a mortgage loan originator with Homebridge Financial Services.&nbsp;
+To know more about condo financing,&nbsp;*[**check out this article**](https://www.homebridge.com/2017/07/11/what-you-want-to-know-about-florida-condo-financing/)*&nbsp;by Brian McMahon, a mortgage loan originator with Homebridge Financial Services.&nbsp;
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
