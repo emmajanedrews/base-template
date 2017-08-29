@@ -1604,14 +1604,14 @@ label.tree-toggle {
 
 .site-logo {
   width: 90%;
-  max-width: 60rem;
+  max-width: 35rem;
   margin-bottom: 2rem;
-  -webkit-filter: drop-shadow(0px 2px 7px #404158);
-  filter: drop-shadow(0px 2px 7px #404158); }
+  -webkit-filter: drop-shadow(0px 2px 7px transparent);
+  filter: drop-shadow(0px 2px 7px transparent); }
 
 .site-title {
   color: white;
-  text-shadow: 0px 2px 7px #404158;
+  text-shadow: 0px 2px 7px transparent;
   background: rgba(7, 7, 7, 0.6);
   text-transform: uppercase;
   font-size: 5rem;
@@ -2059,7 +2059,7 @@ table tr, table td {
   margin: 2rem 0;
   color: white;
   text-transform: uppercase;
-  text-shadow: 0px 2px 7px #404158; }
+  text-shadow: 0px 2px 7px transparent; }
 .post .headshot {
   width: 100%;
   max-width: 15rem;
@@ -2074,7 +2074,7 @@ table tr, table td {
 
 .tag-container {
   color: white;
-  text-shadow: 0px 2px 7px #404158;
+  text-shadow: 0px 2px 7px transparent;
   margin-bottom: 1rem; }
 
 .tag {
@@ -2085,7 +2085,7 @@ table tr, table td {
 .author-attribution {
   color: white;
   font-weight: 300;
-  text-shadow: 0px 2px 7px #404158;
+  text-shadow: 0px 2px 7px transparent;
   margin-bottom: 2rem;
   font-style: italic; }
   .author-attribution a {
