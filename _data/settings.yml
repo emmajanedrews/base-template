@@ -13,15 +13,15 @@ client:
       We understand that buying or selling a home is more than just a transaction. It’s a life-changing experience. That’s why our team of highly-seasoned real estate professionals is dedicated to providing exceptional, personalized service for all of our clients. We take great pride in the relationships we build and always work relentlessly on the client’s behalf to help them achieve their real estate goals.
       Our team of experts represents the best and brightest in the industry, and we’re always striving to lead the field in research, innovation, and consumer education. Today’s buyers and sellers need a trusted resource that can guide them through the complex world of real estate. With our extensive knowledge and commitment to providing only the best and most timely information to our clients, we are your go-to source for real estate industry insight and advice.
   market:
-  brand: The Kevin Langan Team
+  brand: BTG Real Estate
   brokerage: Keller Williams East Valley
-  address: 2077 E Warner Rd, Ste 110, Tempe, Arizona 85284
-  phone: (480) 378-0057
+  address: 2077 E Warner Rd, Ste 110, Tempe, AZ 85284
+  phone: (480)-626-5034
   phone_type:
   phone2:
   phone2_type:
-  email: Kevin@KLTre.com
-  url: KLTre.com
+  email: inquiries@btgrealestate.com
+  url: btgrealestate.com
 
 CTAs:
   first_CTA_text: Join Us 
