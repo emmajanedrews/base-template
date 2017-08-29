@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What's Working Now! - Why Home Staging Works for Home Sellers
-date: 2017-08-22 16:24:52
+date: 2017-08-22 16:24:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: xDmjXx9VKnc
+youtube_code: H27lZhj6Vn0
 ---
 
 
@@ -51,7 +51,7 @@ As you can see, staging your home makes a huge difference.
 To learn more about the value of preparing your home for the market, you can [sign up here](http://www.homesellerhalfhour.tv/) to watch our Seller Half Hour seminar online. Remember, you can learn everything you need to know about selling a home in just 30 minutes.
 {: .present-before-paste}
 
-If you would like a tour of my new listing, [click here&nbsp;](http://www.3201garfield.com/)for a tour from the seller.
+If you would like a tour of my new listing, [click here](http://www.3201garfield.com/)for a tour from the seller.
 {: .present-before-paste}
 
 Thank you for watching “What’s Working Now!”Be sure to tune in next time, when I’ll discuss a breakthrough in technology that may actually be a step backward.
