@@ -7,26 +7,26 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Eric Mortimer
   license_number:
   about_markdown: |
-
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    Your Next Journey STARTS HERE. Along the journey of life come many milestones. Eric Mortimer is an expert at helping you make the most of one of life’s most important – the sale or purchase of a home. As a leading Calgary real estate professional, Eric brings a big-picture perspective to your move, weighing the impact on you, your family and your financial situation. That’s why he’s able to make your move so successful. Contact Eric prior to your next move For a Successful Journey.
+  market: Calgary
+  brand: Eric Mortimer & Associates
+  brokerage: Maxwell Capital Realty
+  address: '#150, 75 Crowfoot Rise NW Calgary, Alberta T3G 4P5'
+  phone: 403-827-8081
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Eric@EricMortimer.com
+  url: http://EricMortimer.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://ericmortimer.com/sell
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://search.ericmortimer.com/idx/results/listings?pt=3&srt=newest
   VR_form:
 
 sidebar_CTA:
@@ -34,14 +34,14 @@ sidebar_CTA:
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free -- MARKET -- Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://ericmortimer.com/sell
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://search.ericmortimer.com/idx/results/listings?pt=3&srt=newest
 
 lender:
   show_section: false
@@ -66,11 +66,11 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/EricMortimerRealtor
+  linkedin_url: https://www.linkedin.com/in/ericcmortimer/
+  gplus_url: https://plus.google.com/b/117170520389733592224
+  youtube_url: https://www.youtube.com/channel/UCQhx0HNyY95NIahfYbXPlIA
+  twitter_url: https://twitter.com/EricCMortimer
   instagram_url:
   pinterest_url:
   zillow_url:
@@ -96,7 +96,7 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
+  brand_color: '#EA1D28'
   theme_color: '#999'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
@@ -106,7 +106,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: rgba(0, 0, 0, .6)
 
 buttons:
   button_radius_number: 0
