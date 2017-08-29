@@ -26,11 +26,11 @@ youtube_code: Y8NB38CyXcU
 
 It’s that time of year once again. We’ve been fortunate enough to win the honor of “Best real estate team in &nbsp;Northwest Arkansas” for the last five years. With your help, we’d like to make it six in a row.
 
-There are a few different ways that you can vote for us, and it’s super easy. One option is to simply head on over to www.nwadg.com/best, locate the “Business service and retail” section and vote for The Limbird Team as the “Best real estate team.”
+**There are a few different ways that you can vote for us, and it’s super easy.**One option is to simply head on over to [www.nwadg.com/best](www.nwadg.com/best), locate the “Business service and retail” section and vote for The Limbird Team as the “Best real estate team.”
 
 {% include pullquote.html %}
 
 You can also vote for us via text. Text “nwabest” to 313-131 and wait for a response. Once you’ve received one, reply back with the code “FM265” and you’re all done!
 
-Thanks in advance for your support. If you have any questions for us or real estate needs we can assist you with in the meantime, give us a call or send us an email. We look forward to hearing from you soon.
+**Thanks in advance for your support.** If you have any questions for us or real estate needs we can assist you with in the meantime, give us a call or send us an email. We look forward to hearing from you soon.
 <br>&nbsp;
