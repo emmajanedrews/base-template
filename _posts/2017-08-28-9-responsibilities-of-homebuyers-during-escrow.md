@@ -27,7 +27,7 @@ youtube_code: faITCO61v2Y
 
 **3. Shop around for homeowners insurance.** Once you’ve decided on a policy, make sure escrow is provided with a name, phone number, and address. Advise your insurance agent of your purchase so they can get you a policy before the close of escrow.
 
-**4. Review disclosures.**These ensure that the property doesn’t have any defects or malfunctions. {% include pullquote.html %}
+**4. Review disclosures.** These ensure that the property doesn’t have any defects or malfunctions. {% include pullquote.html %}
 
 **5. Order a home inspection.** Even though the seller will disclose everything they know about the home, there could very well be problems that they are unaware of. An inspection ensures all of the areas of the home are looked at with a fine-toothed comb.
 
