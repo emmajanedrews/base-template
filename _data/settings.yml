@@ -20,14 +20,14 @@ client:
   phone2:
   phone2_type:
   email: Christy@OliverLux.com
-  url: http://oliverlux.com
+  url: http://OliverLux.com
 
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: http://morrisonsellstruckee.blogspot.com/p/httpmorrisonsellstruckee.html
   second_CTA_text: Home Search
   second_CTA_URL: http://www.yourtahoetruckeerealestateexpert.com/
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=84d03510c0
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
