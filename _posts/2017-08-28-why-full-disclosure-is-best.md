@@ -19,9 +19,9 @@ youtube_code: 0cgfZ_UI7eg
 
 {% include youtube.html %}
 
-In the state of Texas, there are certain disclosures that you are required to provide as a seller unless your home is brand-new or in an estate. These disclosures cover any and everything that has gone on in the home, from water damage to mold to any other mechanical or cosmetic issue. **You’re also required to disclose any environmental dangers that a home possesses.**
+In the state of Texas, there are certain disclosures that you are required to provide as a seller unless your home is brand new or in an estate. These disclosures cover anything and everything that has gone on in the home, from water damage to mold to any other mechanical or cosmetic issue. **You’re also required to disclose any environmental dangers that a home possesses.**
 
-There are certain federal disclosures that also apply no matter where you live. For example, if you own a home that was built prior to 1978, you must comply with The Residential Lead-Based
+There are certain federal disclosures that also apply no matter where you live. For example, if you own a home that was built prior to 1978, you must comply with The Residential Lead-Based Paint Hazard Reduction Act of 1992 and provide an addendum on your contract.
 
 {% include pullquote.html %}
 
