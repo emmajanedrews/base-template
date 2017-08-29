@@ -17,9 +17,7 @@ youtube_code: 'https://youtu.be/S_8xsZ9xVTM'
 ---
 
 
-{% include youtube.html %}&nbsp;
-
-Today I’m excited to be joined by Janae Papazian, our lead buyer specialist, to talk about how to find and purchase off-market properties.
+{% include youtube.html %} Today I’m excited to be joined by Janae Papazian, our lead buyer specialist, to talk about how to find and purchase off-market properties.
 
 Off-market properties are a great and often untapped opportunity. Janae has personally helped people find their home in this way. **When a home isn’t on the MLS, she says, the only real challenge is to go out and search** for homes by calling around or knocking on doors. &nbsp;
 
