@@ -23,7 +23,7 @@ blogger_orig_url: http://morrisonsellstruckee.blogspot.com/2017/03/truckee-real-
 
 When is the best time to sell your house in the Truckee-Tahoe area? There are a few factors to consider:
 
-1. **What percentage of homes are selling on a monthly basis?** In March and April of last year, over 18% of homes on the market actually went into escrow. In August, 20% of homes went into escrow. That number dropped to 18% in September but jumped back up to 22% in November.
+**1. What percentage of homes are selling on a monthly basis?** In March and April of last year, over 18% of homes on the market actually went into escrow. In August, 20% of homes went into escrow. That number dropped to 18% in September but jumped back up to 22% in November.
 
 In short, March, April, August, and November had the highest percentages of homes in escrow last year.
 
@@ -33,12 +33,12 @@ Last April, Tahoe Donner had 58% of homes on the market enter escrow. That numbe
 
 Overall, keep in mind that spring and fall have a higher percentage of homes go into escrow.
 
-2. **What is the average selling price?** Between January and May, the average sales price in our area was $808,000; from August through December, the average price dropped to $776,000. Prices go up when homes sell in the spring and drop a bit through the second half of the year.
+**2. What is the average selling price?** Between January and May, the average sales price in our area was $808,000; from August through December, the average price dropped to $776,000. Prices go up when homes sell in the spring and drop a bit through the second half of the year.
 
 {% include pullquote.html %}
 
 In Tahoe Donner, the average price from January through May was $603,000. From August through December, the average sales price dropped to $575,000. Even luxury markets like Old Greenwood experience a similar trend, with an average sales price of $1.88 million in the spring and $1.6 million in the fall.
 
-3. **When is it most convenient for you to put your home on the market?** Of course, this is the most important factor of all. When does it make the most sense for you to sell your home? When do you need to move? What makes the most financial sense for you?
+**3. When is it most convenient for you to put your home on the market?** Of course, this is the most important factor of all. When does it make the most sense for you to sell your home? When do you need to move? What makes the most financial sense for you?
 
 If you have any other questions about when to put your home on the market, please don’t hesitate to reach out to me. I would be happy to help you!

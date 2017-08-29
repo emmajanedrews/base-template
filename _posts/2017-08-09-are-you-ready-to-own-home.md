@@ -35,7 +35,7 @@ At this price, you would need to pay 15% down—which in this case would be $63,
 
 **This is an opportunity that doesn’t come around often.** In fact, you have several options you could implement here. If you would prefer, you could live in the studio and rent out the house, instead.
 
-We also have a few single-family homes in this price range, as well. **When it comes to these kinds of properties, you can put as little as 3% down with the Home Ready Mortgage. **
+We also have a few single-family homes in this price range, as well. **When it comes to these kinds of properties, you can put as little as 3% down with the Home Ready Mortgage.**
 
 To utilize this program you’ll need about a credit score of 660 to 680, and for the FHA you need a score of about 580. There’s really a lot of flexibility.
 

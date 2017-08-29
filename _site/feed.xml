@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>-- CLIENT BRAND --</title>
-    <description>Our mission at Oliver Luxury Real Estate is to be your best resource for Tahoe-Truckee real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Oliver Luxury Real Estate, your professional Tahoe-Truckee Real Estate Agents.</description>
+    <description>Our mission at Oliver Luxury Real Estate is to be your best resource for Truckee-Tahoe real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Oliver Luxury Real Estate, your professional Truckee-Tahoe Real Estate Agents.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Aug 2017 17:27:48 -0500</pubDate>
-    <lastBuildDate>Mon, 28 Aug 2017 17:27:48 -0500</lastBuildDate>
+    <pubDate>Tue, 29 Aug 2017 12:43:05 -0500</pubDate>
+    <lastBuildDate>Tue, 29 Aug 2017 12:43:05 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -29,7 +29,7 @@
 
 &lt;p&gt;&lt;strong&gt;This is an opportunity that doesn’t come around often.&lt;/strong&gt; In fact, you have several options you could implement here. If you would prefer, you could live in the studio and rent out the house, instead.&lt;/p&gt;
 
-&lt;p&gt;We also have a few single-family homes in this price range, as well. **When it comes to these kinds of properties, you can put as little as 3% down with the Home Ready Mortgage. **&lt;/p&gt;
+&lt;p&gt;We also have a few single-family homes in this price range, as well. &lt;strong&gt;When it comes to these kinds of properties, you can put as little as 3% down with the Home Ready Mortgage.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;To utilize this program you’ll need about a credit score of 660 to 680, and for the FHA you need a score of about 580. There’s really a lot of flexibility.&lt;/p&gt;
 
@@ -83,9 +83,7 @@
 
 &lt;p&gt;When is the best time to sell your house in the Truckee-Tahoe area? There are a few factors to consider:&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;What percentage of homes are selling on a monthly basis?&lt;/strong&gt; In March and April of last year, over 18% of homes on the market actually went into escrow. In August, 20% of homes went into escrow. That number dropped to 18% in September but jumped back up to 22% in November.&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;1. What percentage of homes are selling on a monthly basis?&lt;/strong&gt; In March and April of last year, over 18% of homes on the market actually went into escrow. In August, 20% of homes went into escrow. That number dropped to 18% in September but jumped back up to 22% in November.&lt;/p&gt;
 
 &lt;p&gt;In short, March, April, August, and November had the highest percentages of homes in escrow last year.&lt;/p&gt;
 
@@ -95,17 +93,13 @@
 
 &lt;p&gt;Overall, keep in mind that spring and fall have a higher percentage of homes go into escrow.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;What is the average selling price?&lt;/strong&gt; Between January and May, the average sales price in our area was $808,000; from August through December, the average price dropped to $776,000. Prices go up when homes sell in the spring and drop a bit through the second half of the year.&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;2. What is the average selling price?&lt;/strong&gt; Between January and May, the average sales price in our area was $808,000; from August through December, the average price dropped to $776,000. Prices go up when homes sell in the spring and drop a bit through the second half of the year.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Prices go up when homes sell in the spring and drop a bit through the second half of the year.%20localhost:4000/truckee-real-estate-agent-when-is-best.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Prices go up when homes sell in the spring and drop a bit through the second half of the year.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;In Tahoe Donner, the average price from January through May was $603,000. From August through December, the average sales price dropped to $575,000. Even luxury markets like Old Greenwood experience a similar trend, with an average sales price of $1.88 million in the spring and $1.6 million in the fall.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;When is it most convenient for you to put your home on the market?&lt;/strong&gt; Of course, this is the most important factor of all. When does it make the most sense for you to sell your home? When do you need to move? What makes the most financial sense for you?&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;3. When is it most convenient for you to put your home on the market?&lt;/strong&gt; Of course, this is the most important factor of all. When does it make the most sense for you to sell your home? When do you need to move? What makes the most financial sense for you?&lt;/p&gt;
 
 &lt;p&gt;If you have any other questions about when to put your home on the market, please don’t hesitate to reach out to me. I would be happy to help you!&lt;/p&gt;
 </description>
@@ -120,7 +114,7 @@
     
       <item>
         <title>Your 2016 Tahoe-Truckee Real Estate Market Wrap Up</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/NNJOvYmNRk?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/_NNJOvYmNRk?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;2016 is almost over, which means now is a great time to reflect on how the Tahoe-Truckee real estate market has changed in the past year.&lt;/p&gt;
 
@@ -161,26 +155,17 @@
 
 &lt;p&gt;That’s a tough question. Here in the Tahoe Truckee area, you can’t just put a “For Sale” sign in your yard and expect your home to go off the market. The answer, though, can usually be boiled down to one or a combination of five different reasons:&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;The home is overpriced.&lt;/strong&gt; Our average buyer is an out-of-towner who visits the area for the weekend, looks at several properties, and picks whichever one offers the best value. Price is a big factor in how emotionally attached they get to a home, as well. If you’re just waiting for an offer to come in, you’ll be waiting for a long time. Price the home correctly the first time to generate offers and give you the opportunity to choose the best one.&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;1. The home is overpriced.&lt;/strong&gt; Our average buyer is an out-of-towner who visits the area for the weekend, looks at several properties, and picks whichever one offers the best value. Price is a big factor in how emotionally attached they get to a home, as well. If you’re just waiting for an offer to come in, you’ll be waiting for a long time. Price the home correctly the first time to generate offers and give you the opportunity to choose the best one.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=IF YOU’RE JUST WAITING FOR AN OFFER TO COME IN, YOU’LL BE WAITING A LONG TIME.%20localhost:4000/truckee-real-estate-agent-5-reasons_20.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“IF YOU’RE JUST WAITING FOR AN OFFER TO COME IN, YOU’LL BE WAITING A LONG TIME.”&lt;/a&gt;&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;The presentation is off.&lt;/strong&gt; Have you ever gone into a house that didn’t quite smell right or just didn’t feel very good to be in? A house’s presentation is another factor that plays a large part in how emotionally attached a buyer is going to get to it. To present your home in the best possible light, make sure it’s clean, it smells good, and it’s nice and warm.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Poor marketing.&lt;/strong&gt; This can either be because the online photos don’t look very good, the property is unavailable on multiple websites, or the description of the property doesn’t correlate with its actual dimensions. Many agents look at the multiple listing services to decide what houses they’re going to show, so you need to make sure your house’s photos look spectacular and its description conveys exactly what it has to offer.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;The home is in bad condition.&lt;/strong&gt; Do you have a few light bulbs out? Is the carpeting peeling? Then you may have a problem. You want your house to stand out for the right reasons.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;The seller isn’t listening to feedback.&lt;/strong&gt; Whenever we have a listing being shown, we always get feedback from buyers and agents, and we listen to that feedback. That’s the primary way we know if there’s something that we need to correct. That’s also a good way to know if your competition is priced better.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;2. The presentation is off.&lt;/strong&gt; Have you ever gone into a house that didn’t quite smell right or just didn’t feel very good to be in? A house’s presentation is another factor that plays a large part in how emotionally attached a buyer is going to get to it. To present your home in the best possible light, make sure it’s clean, it smells good, and it’s nice and warm.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Poor marketing.&lt;/strong&gt; This can either be because the online photos don’t look very good, the property is unavailable on multiple websites, or the description of the property doesn’t correlate with its actual dimensions. Many agents look at the multiple listing services to decide what houses they’re going to show, so you need to make sure your house’s photos look spectacular and its description conveys exactly what it has to offer.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4. The home is in bad condition.&lt;/strong&gt; Do you have a few light bulbs out? Is the carpeting peeling? Then you may have a problem. You want your house to stand out for the right reasons.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5. The seller isn’t listening to feedback.&lt;/strong&gt; Whenever we have a listing being shown, we always get feedback from buyers and agents, and we listen to that feedback. That’s the primary way we know if there’s something that we need to correct. That’s also a good way to know if your competition is priced better.&lt;/p&gt;
 
 &lt;p&gt;We would love to share our marketing strategies and how we succeed in selling homes with you. If you have any questions or are looking to buy or sell real estate, please don’t hesitate to give us a call or send us an email. We’d be happy to help!&lt;/p&gt;
 </description>
@@ -306,7 +291,7 @@
         <link>localhost:4000/truckee-real-estate-agent-is-our.html</link>
         <guid isPermaLink="true">localhost:4000/truckee-real-estate-agent-is-our.html</guid>
         
-        <category>market updates</category>
+        <category>Market Update</category>
         
         
       </item>

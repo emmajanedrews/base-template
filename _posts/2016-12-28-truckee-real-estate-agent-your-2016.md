@@ -1,5 +1,5 @@
 ---
-youtube_code: NNJOvYmNRk
+youtube_code: _NNJOvYmNRk
 excerpt:
 enclosure: https://s3.amazonaws.com/vyralmarketing/Christy+Morrison/Truckee+Real+Estate+Agent+Your+2016+real+estate+market+wrap+up.mp4
 pullquote: 2016 saw some interesting real estate anomalies.

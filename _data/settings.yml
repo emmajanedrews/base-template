@@ -11,7 +11,7 @@ client:
   license_number:
   about_markdown: |
     Christy, a Truckee/North Tahoe resident since 1988, stands out as a leader in the area’s real estate market. Her pro-active business approach keeps her consistently ranked in the top 1% of local agents. With nearly $40 million in sales over the past ten years, Christy knows how to get the job done. Christy’s mission is to bring buyers and sellers together in order for them to reach their investment,financial, and personal goals. By working closely with buyers and productive real estate agents in the area, Christy is able to give your property the maximum amount of exposure so that you can net the most money possible on the sale.
-  market: Tahoe-Truckee
+  market: Truckee-Tahoe
   brand: Oliver Luxury Real Estate
   brokerage:
   address: 11890 Donner Pass Rd Ste 6<br>Truckee, CA 96161
@@ -33,7 +33,7 @@ sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free -- MARKET -- Home Value Report"
+    CTA_link_text: "Free Home Value Report"
     CTA_url: http://morrisonsellstruckee.blogspot.com/p/httpmorrisonsellstruckee.html
 
 second_sidebar_CTA:

@@ -12,7 +12,7 @@ title: Is Our Real Estate Market in Truckee and Lake Tahoe Softening?
 date: '2016-08-01T14:27:00.001-07:00'
 author: Vyral Admin
 tags:
-- market updates
+- Market Update
 modified_time: '2016-08-04T08:08:47.959-07:00'
 thumbnail: https://i.ytimg.com/vi/ngYYISNhmS8/default.jpg
 blogger_id: tag:blogger.com,1999:blog-70206141491176019.post-4159908486491059493
