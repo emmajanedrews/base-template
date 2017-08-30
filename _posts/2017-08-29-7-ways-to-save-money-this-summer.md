@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/_tqghBi9QiM'
 
 I just wanted to stop by quickly today and offer you a few tips to help you save on your energy bills this summer. Sometimes all it takes is a little fix to bring that bill way down. Here are seven things for you to consider:
 
-**1. Plug and fill any holes.** Seal those window or door gaps with caulk or foam. If you have an external A/C unit, make sure that’s sealed tight as well. Less leaks will allow your HVAC system to run a lot more efficiently.
+**1. Plug and fill any holes.** Seal those window or door gaps with caulk or foam. If you have an external A/C unit, make sure that’s sealed tight as well. Fewer leaks will allow your HVAC system to run a lot more efficiently.
 
 **2. Close your shades.** Sunlight heats your home when it doesn’t need to be, especially while you’re gone during the day.
 
