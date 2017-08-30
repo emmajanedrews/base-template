@@ -27,7 +27,7 @@ Since multiple offer situations are extremely common among most other listings o
 
 Additionally, off-market listings carry the potential of being better deals. People who have restricted their home search to simply looking on websites like Zillow or Trulia are actually doing themselves a disservice—they’re missing out on a lot of great listings that take a little extra care to discover.&nbsp;
 
-Zillow, especially, is often very delayed. **Many homes buyers find through this website may actually have already sold.** This can be incredibly frustrating.
+Zillow, especially, is often very delayed. **Many homes that buyers find through this website may actually have already sold.** This can be incredibly frustrating.
 
 {% include pullquote.html %}&nbsp;
 
