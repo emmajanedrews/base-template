@@ -13,7 +13,7 @@ pullquote: 'Overall, the market is still good.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/Another_Market_Update_Youtube.jpg
 youtube_code: nAunRmDStug
 ---
 
