@@ -11,8 +11,9 @@ enclosure: >-
 pullquote: The Nest thermostat could save you a lot on your utility bills.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: >-
+  /uploads/randy-screenshot-tube-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01.jpg
 youtube_code: uieM18rZdHY
 ---
 
@@ -30,4 +31,4 @@ Another thing I really like is the smart thermostat, which has been around for a
 **Nest cameras are great, too.**I can keep an eye on my house any time of the day and everything is in HD. It’s a great solution to help you keep your home and your family safe.
 
 I think all three of these items could make a difference for you in your home and in your life. If you have any questions for me about any of them, give me a call or send me an email. I would love to hear from you.
-<br>&nbsp;
+<br>
