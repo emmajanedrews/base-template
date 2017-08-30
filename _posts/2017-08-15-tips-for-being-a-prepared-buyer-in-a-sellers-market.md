@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   In a hot seller’s market, how can buyers prepare themselves for the home
   search process? Today, I’ve got a few key tips.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Andrew+Kronenberg+/August-Sept+17/Central+Pennsylvania+Real+Estate-+These+Steps+Can+Help+You+Find+Your+Dream+Home.mp4
 pullquote: >-
   Being ready to seize opportunities as they come will be critical to your
   success.
