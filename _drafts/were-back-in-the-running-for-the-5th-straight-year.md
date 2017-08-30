@@ -34,4 +34,4 @@ You can also vote for us via text. Text “nwabest” to 313-131 and wait for a 
 
 Thanks in advance for your support. If you have any questions for us or real estate needs we can assist you with in the meantime, give us a call or send us an email. We look forward to hearing from you soon.
 
-[![](/uploads/Limbird_500-&#40;2&#41;.jpg)]{: .center-image}(http://www.nwadg.com/best){:target="_blank"}
+[![Click Here to VOTE!](/uploads/Limbird_500-&#40;2&#41;.jpg)]{: .center-image}(http://www.nwadg.com/best){:target="_blank"}
