@@ -10,38 +10,38 @@ client:
   name:
   license_number:
   about_markdown: |
-
+      Carin understands the potential emotional stress and sometimes life altering experiences felt by clients during the real estate transaction process. Carin is unyielding in insisting on complete professionalism from herself and her team while understanding that real estate is a personal business. She thrives on managing the details and individuality of each transaction and client.  Her clients know that having Carin on their side means they have an advocate who cares about them and their needs. Carin is convinced that building relationships will ensure continued satisfaction and be reflected in future success.
   market:
-  brand:
-  brokerage:
-  address:
-  phone:
+  brand: The Carin Nguyen Team
+  brokerage: Keller Williams Realty Phoenix
+  address: 3920 S Rural Rd 110 Tempe, AZ 85282
+  phone: (623)-223-1663
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: info@soldbycarin.com
+  url: http://soldbycarin.com
 
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
-  second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
-  VR_form:
+  first_CTA_text: Join The Team
+  first_CTA_URL: http://soldbycarin.com/jointheteam/
+  second_CTA_text:
+  second_CTA_URL:
+  VR_form: http://oi.vresp.com?fid=77e10e9094
 
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free -- MARKET -- Home Value Report"
-    CTA_url: /homevalue/
+  - CTA_image_path: /img/cta-images/006.jpg
+    CTA_title: "Join The Team"
+    CTA_text: "Let's talk about how The Carin Nguyen Real Estate Network can build your Real Estate Career."
+    CTA_link_text: "Build your Real Estate Career"
+    CTA_url: http://soldbycarin.com/jointheteam/
 
-second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+# second_sidebar_CTA:
+#   - CTA_image_path2: /img/cta-images/005.jpg
+#     CTA_title2: "Looking for a -- MARKET -- Home?"
+#     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
+#     CTA_link_text2: "Search the MLS"
+#     CTA_url2: /homesearch/
 
 lender:
   show_section: false
@@ -56,11 +56,10 @@ lender:
   url: http://eyegoop.com
 
 welcome_box:
-  welcome_headline: Join Our -- MARKET -- VIP List
+  welcome_headline: Subscribe to Our Newsletter
   welcome_text_markdown: >
     Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
-    professionals can answer any questions you might have about real estate.
+    advice. Our team of professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
 
@@ -90,14 +89,14 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  logo_width_number: 60
+  hero_text: -- MARKET -- Real Estate Careers Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#223976'
+  theme_color: '#8f9194'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -106,7 +105,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: black
 
 buttons:
   button_radius_number: 0
