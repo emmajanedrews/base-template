@@ -31,7 +31,7 @@ When it comes to this myth and agent activities, single agents like to believe t
 
 The reality is, we all only have 24 hours in a day. As much as some of us want to think we’re Superman, there is not enough time in the day to increase business volume to what we think we’re capable of doing. This philosophy leads to agent burnout.&nbsp;
 
-You can spend your time scurrying around, putting up signs, and hanging lockboxes if you want. On a team, though, you have someone else doing those jobs so you can focus on writing purchase agreements, getting contracts signed, and prospecting.&nbsp;
+You can spend your time scurrying around, putting up signs, and hanging lock boxes if you want. On a team, though, you have someone else doing those jobs so you can focus on writing purchase agreements, getting contracts signed, and prospecting.&nbsp;
 
 You can work hard and be effective as a single agent, but **you will cap out at a certain volume because you don’t have enough time in the day to do it all**.&nbsp;
 
