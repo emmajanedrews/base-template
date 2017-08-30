@@ -1,13 +1,14 @@
 ---
 layout: post
 title: How Does Our Current Utah Market Look Compared to 2016?
-date: 2017-08-29 09:56:47
+date: 2017-08-29 09:56:00
 tags:
   - Market Update
 excerpt: >-
   Since 2016, home prices have increased in our market while the average days on
   market has stayed the same. What does this mean overall, though?
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Year-to-date+Utah+market+update.mp4
 pullquote: 'If you bought a home in mid-2011, you’re in really good shape right now.'
 enclosure_type: video/mp4
 enclosure_time:
