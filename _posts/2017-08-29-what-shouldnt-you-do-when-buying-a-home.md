@@ -25,13 +25,13 @@ When it comes to buying a home, many people tend to research tips on what they s
 
 **1. Don’t buy a home without an agent.** In most states, you’re entitled to a buyer’s agent. Listing agents represent the best interests of the sellers, as opposed to being primarily concerned with yours. When you begin the process of searching for a home, interview a few different agents who are highly recommended within your community. Preferably, you should find someone with strong references you can call. It’s also important that your agent’s personality meshes well with your own.
 
-**2. Don’t use the first mortgage lender you speak with.** Any professional you work with should be someone you “click” with. As is the case with your agent, interview a few different people to make sure you are going to be working with someone who will be able to provide you quality, customized service.
+**2. Don’t use the first mortgage lender you speak with.** Any professional you work with should be someone you click with. As is the case with your agent, interview a few different people to make sure you are going to be working with someone who will be able to provide you quality, customized service.
 
-**3. Don’t understate your budget.** When you’re hiring the professionals mentioned in the first and second step, be sure to provide them with truthful information. You want to find a home that will truly meet your needs.
+**3. Don’t understate your budget.** When you’re hiring the professionals mentioned in the first and second steps, be sure to provide them with truthful information. You want to find a home that will truly meet your needs.
 
 {% include pullquote.html %}
 
-**4. Don’t make lowball offers.** While some people may think that this is a good way to negotiate, it can actually drive away sellers and break a deal entirely. Instead, make a reasonably low offer that is structured with a couple of wins for the seller. The offer should provide benefits, whether with contingencies or otherwise, to the seller, while still being a good deal for you. A reasonable, yet low offer is more likely to land you with a response you’re happy with.
+**4. Don’t make lowball offers.** While some people may think that this is a good way to negotiate, it can actually drive away sellers and break a deal entirely. Instead, make a reasonably low offer that is structured with a couple of wins for the seller. The offer should provide benefits, whether with contingencies or otherwise, to the seller, while still being a good deal for you. A reasonable offer is more likely to land you with a response you're happy with, even if it's still a little low.
 
 **5. Don’t forget to budget for closing costs.** Closing costs should be factored in before you become too serious about a given house. When considering whether to buy a particular home, have a discussion with your agent and mortgage lender about what the closing costs might look like so that you can have a better idea of what you’ll be paying, in total, at the end of the deal.
 
