@@ -14,7 +14,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/randy-screenshot-tube-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01.jpg
-youtube_code: uieM18rZdHY
+youtube_code: D8-8O04PWmw
 ---
 
 
