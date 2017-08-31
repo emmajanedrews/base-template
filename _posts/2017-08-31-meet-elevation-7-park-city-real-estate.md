@@ -10,7 +10,7 @@ excerpt: >-
   their partnership.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Nancy+Seraphin/+Videos/2017/August/Park+City+Real+Estate+Careers-+Meet+Elevation+7+Park+City+Real+Estate.mp4
-pullquote: Nick and Carol Anne complement each other’s skillsets.
+pullquote: Nick and Carol Anne complement each other’s skill sets.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -45,7 +45,7 @@ Nick: Carol Anne knows that my children are the two most important people in my 
 
 Carol Anne: I’m not a morning person. Morning is when I do my workouts or walk my dogs. I like to be in the office in the afternoon. Having Nick as my partner has greatly enriched my ability to have a personal life, and that’s really important. Real estate can be all-consuming. It is a very demanding career and we love it, but it’s a never-ending challenge to find that balance. Having a good solid partner like Nick who’s got my back and will make sure our clients are getting the best possible service is essential.
 
-**The two of you have a very unique brand. You’re known as Elevation 7 Park City Real Estate. Tell me about E7.**
+**The two of you have a unique brand. You’re known as Elevation 7 Park City Real Estate. Tell me about E7.**
 
 Nick: Luxury real estate is elevated in Park City, and isn’t everything better over 7,000 feet? One thing that’s great about Keller Williams is that Keller Williams allows us as agents to brand ourselves. We get to create a unique brand within Keller Williams and we still get all of the support and backing from them. Keller Williams is a family that supports our brand, E7.
 
