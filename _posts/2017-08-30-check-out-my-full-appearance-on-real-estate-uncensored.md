@@ -11,13 +11,13 @@ enclosure:
 pullquote: Discipline and culture are the two biggest keys to our growth.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/maxresdefault.jpg
 youtube_code:
 ---
 
 
-I recently had the pleasure of being a guest on the Real Estate Uncensored podcast with Greg McDaniel and Matt Johnson. We had a wide-ranging discussion that touched on a number of topics.&nbsp;
+I recently had the pleasure of being a guest on the Real Estate Uncensored podcast with Greg McDaniel and Matt Johnson. We had a wide-ranging discussion that touched on a number of topics.
 
 **[Click here to listen to the full podcast.](http://realestateuncensored.libsyn.com/podcast/dave-friedman)**
 
@@ -43,5 +43,5 @@ The main area of focus was how I went from being a solo agent doing 40 deals a y
 
 52:00- Hungry and humble is the name of the game.
 
-If you have any questions for me, don’t hesitate to give me a call or send me an email. I’m here for you anytime.&nbsp;
-<br>&nbsp;
+If you have any questions for me, don’t hesitate to give me a call or send me an email. I’m here for you anytime.
+<br>
