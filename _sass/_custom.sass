@@ -39,3 +39,22 @@
 .testimonial-author
 	color: #b40101
 	margin-top: -20px
+
+.previous-post
+	text-align: center
+	display: inline-block
+	width: 100%
+	margin-top: .5rem
+	margin-bottom: .5rem
+	font-size: 2rem
+	border-radius: $button-radius
+	@include transition(0.3s)
+	&:hover
+		background: transparent
+		color: $brand-light
+		box-shadow: 4px 4px 0 $brand-light
+		@include transform(scale(1.05))
+		@include transform(translateY(-0.2rem))
+	&:active
+		box-shadow: 0 0 0 $brand-light
+		@include transform(translateY(0rem))
