@@ -1,13 +1,14 @@
 ---
 layout: post
 title: What Are Appraisals and How Do They Work?
-date: 2017-08-09 14:25:12
+date: 2017-08-09 14:25:00
 tags:
   - Real Estate
 excerpt: >-
   Appraisals are an integral part of any real estate transaction. Today, I’ll
   explain what exactly they are and how they work.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Becky+Ivins/Videos/Oklahoma+City+Metro+Real+Estate+Agent-+What+Appraisals+Do+Other+Than+Determine+Value.mp4
 pullquote: >-
   Outside of simply determining value, appraisals can also impact the
   transaction.
