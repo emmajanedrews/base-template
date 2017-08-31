@@ -4,11 +4,11 @@ description: A Video Blog about -- MARKET -- Real Estate; It's industry, and the
 show_custom_links: true
 custom_links:
   - title: We Recommend
-    url: /vendors
+    url: /vendors/
   - title: Testimonials
-    url: /client-testimonials
+    url: /client-testimonials/
   - title: Our Agents
-    url: /our-agents
+    url: /our-agents/
 
 client:
   name: Adrienne Lally & Attilio Leonardi
