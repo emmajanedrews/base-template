@@ -28,4 +28,4 @@ The number one question I’ve been getting asked recently is, “Are we heading
 
 **3.** **The nationwide market hasn’t fully recovered.** Although our market has recovered from the crash, 30% to 40% of the country is still recovering. This is keeping interest rates low for the time being, which is keeping buyers in the market.
 
-I have attached a slide and a link for you that shows you the numbers. All signs point to a healthy real estate market without any kind of bubble. If you have any questions for me, don’t hesitate to reach out and give me a call or send me an email. I look forward to hearing from you.
+**[I have attached a slide and a link here for you that shows you the numbers.](https://www.keepingcurrentmatters.com/2017/05/11/3-reasons-the-housing-market-is-not-in-a-bubble/)** All signs point to a healthy real estate market without any kind of bubble. If you have any questions for me, don’t hesitate to reach out and give me a call or send me an email. I look forward to hearing from you.
