@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Truckee-Tahoe Real Estate Podcast with Christy Morrison</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://morrisonsellstruckeetahoe.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://morrisonsellstruckeetahoe.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Oliver Luxury Real Estate - your professional Truckee-Tahoe Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Christy Morrison</managingEditor>
-    <lastBuildDate>2017-08-29 12:56:14 -0500</lastBuildDate>
+    <lastBuildDate>2017-09-01 15:35:43 -0500</lastBuildDate>
     <media:copyright>Christy Morrison</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://morrisonsellstruckeetahoe.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Truckee-Tahoe, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,15 +18,62 @@
     </itunes:owner>
     <itunes:author>Christy Morrison</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://morrisonsellstruckeetahoe.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Truckee-Tahoe, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Truckee-Tahoe Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Oliver Luxury Real Estate - your professional Truckee-Tahoe Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
+        <title>Is It Time for You to Buy or Sell in Our Tahoe-Truckee Market?</title>
+        <link>http://morrisonsellstruckeetahoe.com/is-it-time-for-you-to-buy-or-sell-in-our-tahoe-truckee-market.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Christy Morrison</author>
+        <pubDate>2017-09-01 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Christy+Morrison/Videos/2017/Is+It+Time+for+You+to+Buy+or+Sell+in+Our+Tahoe-Truckee+Market%253F+-+Truckee+Real+Estate+Agent.mp4</guid>
+        <description>
+
+Are we in a buyer’s or seller’s market? The answer depends on your location, but it’s arguably a good time to both buy and sell.
+
+A lot of my clients often ask, “Are we currently in a buyer’s or a seller’s market?”
+
+Right now in the Tahoe-Truckee area, the answer depends on which neighborhood you’re looking in. For example, in Lahong, there are more than 22 great homes for sale, and about two to four are selling every month. The same is true for some of the high-end homes in Tahoe-Donner and around the lake.
+
+If you’re looking for a high-end property, it’s definitely a buyer’s market. If you’re a first-time homebuyer looking in the $400,000 to $500,000 range, you’ll face a lot of competition, so that price point is definitely a seller’s market.
+
+Our current inventory is about 12% less compared to where it was at this time last year. Supply is down, but there is still quite a good selection of homes on the market. Inventory isn’t quite low enough to cause prices to spike—they rose 5% from January to March, but they’ve since stabilized and are now what’s keeping our market level. Interest rates are still very low as well, especially on jumbo properties, and some of our clients are still getting rates between 4% and 4.25%.
+
+“SUPPLY IS DOWN, BUT THERE IS STILL QUITE A GOOD SELECTION OF HOMES ON THE MARKET.”
+
+To summarize, it’s not only a great time to buy, but it’s also a great time to sell because you’re selling in a market where buyers can get incredible rates on their loans. We’re still about 10% below our peak pricing, so buyers should be aware that we still have quite a ways to go in terms of appreciation.
+
+As a seller, you need to pay attention to what other homes are selling for and make sure yours stands out in terms of its condition. As always, listen to your Realtor and stage your home as best you can to attract the best buyer possible.
+
+If you have any other questions about our Tahoe-Truckee market or are thinking of buying or selling a home, don’t hesitate to get in contact with me. I’d love to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Christy+Morrison/Videos/2017/Is+It+Time+for+You+to+Buy+or+Sell+in+Our+Tahoe-Truckee+Market%253F+-+Truckee+Real+Estate+Agent.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://morrisonsellstruckeetahoe.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Christy+Morrison/Videos/2017/Is+It+Time+for+You+to+Buy+or+Sell+in+Our+Tahoe-Truckee+Market%253F+-+Truckee+Real+Estate+Agent.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Are we in a buyer’s or seller’s market? The answer depends on your location, but it’s arguably a good time to both buy and sell.
+
+</itunes:subtitle>
+        <itunes:author>Christy Morrison</itunes:author>
+        <itunes:summary>
+
+Are we in a buyer’s or seller’s market? The answer depends on your location, but it’s arguably a good time to both buy and sell.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Truckee-Tahoe, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>Programs for First-Time Homebuyers</title>
-        <link>localhost:4000/are-you-ready-to-own-home.html</link>
+        <link>http://morrisonsellstruckeetahoe.com/are-you-ready-to-own-home.html</link>
         
           <category>Buyer Tips</category>
         
@@ -60,7 +107,7 @@ The first step is to speak to a local expert, like Suzi, who can look at your in
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://morrisonsellstruckeetahoe.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -79,7 +126,7 @@ If you’re looking to purchase a home for the first time, it can seem like a da
       
       <item>
         <title>How Does the Tahoe-Truckee Spring Market Look?</title>
-        <link>localhost:4000/truckee-real-estate-agent-tahoe-truckee.html</link>
+        <link>http://morrisonsellstruckeetahoe.com/truckee-real-estate-agent-tahoe-truckee.html</link>
         
           <category>Market Update</category>
         
@@ -105,7 +152,7 @@ Now is still a great time to sell your home. Homes that are priced right and in 
 If you have any questions about navigating our current market, just give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Christy+Morrison/Truckee+Real+Estate+Agent+Tahoe-Truckee+spring+market+update.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://morrisonsellstruckeetahoe.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Christy+Morrison/Truckee+Real+Estate+Agent+Tahoe-Truckee+spring+market+update.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -124,7 +171,7 @@ The spring real estate market has begun. What’s happening so far in the Tahoe-
       
       <item>
         <title>When Is the Best Time to Sell Your Home in the Mountains?</title>
-        <link>localhost:4000/truckee-real-estate-agent-when-is-best.html</link>
+        <link>http://morrisonsellstruckeetahoe.com/truckee-real-estate-agent-when-is-best.html</link>
         
           <category>Home seller Tips</category>
         
@@ -158,7 +205,7 @@ In Tahoe Donner, the average price from January through May was $603,000. From A
 If you have any other questions about when to put your home on the market, please don’t hesitate to reach out to me. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Christy+Morrison/Truckee+Real+Estate+Agent+When+is+the+best+time+to+sell+your+home+in+the+mountains.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://morrisonsellstruckeetahoe.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Christy+Morrison/Truckee+Real+Estate+Agent+When+is+the+best+time+to+sell+your+home+in+the+mountains.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -177,7 +224,7 @@ How do you know when the best time is to put your home on the market? There are 
       
       <item>
         <title>Your 2016 Tahoe-Truckee Real Estate Market Wrap Up</title>
-        <link>localhost:4000/truckee-real-estate-agent-your-2016.html</link>
+        <link>http://morrisonsellstruckeetahoe.com/truckee-real-estate-agent-your-2016.html</link>
         
           <category>Market Update</category>
         
@@ -209,7 +256,7 @@ If you haven’t been to Northstar lately, there are some incredible new homes o
 If you are interested in the specific numbers for your neighborhood, click here for a full report. You can also search all local real estate on my website. As always, if you have any real estate questions, please don’t hesitate to reach out to me. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Christy+Morrison/Truckee+Real+Estate+Agent+Your+2016+real+estate+market+wrap+up.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://morrisonsellstruckeetahoe.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Christy+Morrison/Truckee+Real+Estate+Agent+Your+2016+real+estate+market+wrap+up.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -228,7 +275,7 @@ If you are interested in the specific numbers for your neighborhood, click here 
       
       <item>
         <title>Christy's Tips on Getting Your Home Sold</title>
-        <link>localhost:4000/truckee-real-estate-agent-5-reasons_20.html</link>
+        <link>http://morrisonsellstruckeetahoe.com/truckee-real-estate-agent-5-reasons_20.html</link>
         
           <category>Home seller Tips</category>
         
@@ -256,7 +303,7 @@ That’s a tough question. Here in the Tahoe Truckee area, you can’t just put 
 We would love to share our marketing strategies and how we succeed in selling homes with you. If you have any questions or are looking to buy or sell real estate, please don’t hesitate to give us a call or send us an email. We’d be happy to help!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Christy+Morrison/Truckee+Real+Estate+Agent+Christy%27s+tips+on+getting+your+home+sold.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://morrisonsellstruckeetahoe.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Christy+Morrison/Truckee+Real+Estate+Agent+Christy%27s+tips+on+getting+your+home+sold.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -275,7 +322,7 @@ Why is your home not selling?
       
       <item>
         <title>Forecasting the Tahoe Truckee Market</title>
-        <link>localhost:4000/truckee-real-estate-agent-how-is-tahoe.html</link>
+        <link>http://morrisonsellstruckeetahoe.com/truckee-real-estate-agent-how-is-tahoe.html</link>
         
           <category>Market Update</category>
         
@@ -301,7 +348,7 @@ Why the fluctuation? With a lower amount of inventory, prices start creeping up.
 If you are interested in capturing this great seller’s market we’ll be experiencing from now through the end of March, please don’t hesitate to call me or shoot me an email. I’m happy to help!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Christy+Morrison/Truckee+Real+Estate+Agent+Your+TruckeeTahoe+Real+Estate+Update+for+October.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://morrisonsellstruckeetahoe.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Christy+Morrison/Truckee+Real+Estate+Agent+Your+TruckeeTahoe+Real+Estate+Update+for+October.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -320,7 +367,7 @@ Over the past year, the average sales price rose in Tahoe Truckee by 8%. We’re
       
       <item>
         <title>Our Fall Market Is Great for Home Buyers & Sellers</title>
-        <link>localhost:4000/truckee-real-estate-agent-planning-to.html</link>
+        <link>http://morrisonsellstruckeetahoe.com/truckee-real-estate-agent-planning-to.html</link>
         
           <category>Market Update</category>
         
@@ -348,7 +395,7 @@ If you are a buyer right now, there are some really good deals. There are seller
 If you’re interested in buying or selling in the Tahoe/Truckee area, don’t hesitate to give me a call or send me an email. I would love to hear from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Christy+Morrison/Truckee+Real+Estate+Agent+Planning+to+buy+or+sell+in+Tahoe+this+fall.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://morrisonsellstruckeetahoe.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Christy+Morrison/Truckee+Real+Estate+Agent+Planning+to+buy+or+sell+in+Tahoe+this+fall.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -367,7 +414,7 @@ The fall is a great time to buy and sell real estate in Tahoe/Truckee. Inventory
       
       <item>
         <title>Fall Real Estate Forecast for the Tahoe Truckee Area</title>
-        <link>localhost:4000/truckee-real-estate-agent-tahoe-truckee.html</link>
+        <link>http://morrisonsellstruckeetahoe.com/truckee-real-estate-agent-tahoe-truckee.html</link>
         
           <category>Market Update</category>
         
@@ -391,7 +438,7 @@ Another reason why this fall selling season is going to be a busy one is because
 If you have any questions about the fall market or anything else, please feel free to give me a call or send me a text or email. I look forward to speaking with you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Christy+Morrison/Truckee+Real+Estate+Agent+Tahoe+Truckee+fall+market+forecast.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://morrisonsellstruckeetahoe.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Christy+Morrison/Truckee+Real+Estate+Agent+Tahoe+Truckee+fall+market+forecast.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -410,7 +457,7 @@ What happens in the Tahoe Truckee market as summer comes to a close and kids go 
       
       <item>
         <title>Is Our Real Estate Market in Truckee and Lake Tahoe Softening?</title>
-        <link>localhost:4000/truckee-real-estate-agent-is-our.html</link>
+        <link>http://morrisonsellstruckeetahoe.com/truckee-real-estate-agent-is-our.html</link>
         
           <category>Market Update</category>
         
@@ -438,7 +485,7 @@ If you’re thinking about selling, now is a great time. If you’re a buyer - g
 If you have any questions or any interest in buying or selling a home, contact me soon. Your prime window may be closing!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Christy+Morrison/Truckee+Real+Estate+Agent+Is+our+housing+market+really+declining.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://morrisonsellstruckeetahoe.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Christy+Morrison/Truckee+Real+Estate+Agent+Is+our+housing+market+really+declining.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -457,7 +504,7 @@ I just got back from a real estate conference with more than 4,000 of the top re
       
       <item>
         <title>Tahoe-Truckee Market Report for June 2016</title>
-        <link>localhost:4000/truckee-real-estate-agent-june-2016.html</link>
+        <link>http://morrisonsellstruckeetahoe.com/truckee-real-estate-agent-june-2016.html</link>
         
           <category>Market Update</category>
         
@@ -477,7 +524,7 @@ What’s happening with the prices right now? Overall, our sales are up over 11%
 If you have any questions regarding your particular neighborhood or anything real-estate-related, feel free to give me a call or send me an email.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Christy+Morrison/Truckee+Real+Estate+Agent+June+2016+market+report.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://morrisonsellstruckeetahoe.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Christy+Morrison/Truckee+Real+Estate+Agent+June+2016+market+report.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>

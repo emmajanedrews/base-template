@@ -3,11 +3,42 @@
   <channel>
     <title>-- CLIENT BRAND --</title>
     <description>Our mission at Oliver Luxury Real Estate is to be your best resource for Truckee-Tahoe real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Oliver Luxury Real Estate, your professional Truckee-Tahoe Real Estate Agents.</description>
-    <link>localhost:4000/</link>
-    <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 29 Aug 2017 12:56:14 -0500</pubDate>
-    <lastBuildDate>Tue, 29 Aug 2017 12:56:14 -0500</lastBuildDate>
+    <link>http://morrisonsellstruckeetahoe.com/</link>
+    <atom:link href="http://morrisonsellstruckeetahoe.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 01 Sep 2017 15:35:43 -0500</pubDate>
+    <lastBuildDate>Fri, 01 Sep 2017 15:35:43 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Is It Time for You to Buy or Sell in Our Tahoe-Truckee Market?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/wGHbejszw_M?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Are we in a buyer’s or seller’s market? The answer depends on your location, but it’s arguably a good time to both buy and sell.&lt;/p&gt;
+
+&lt;p&gt;A lot of my clients often ask, “Are we currently in a buyer’s or a seller’s market?”&lt;/p&gt;
+
+&lt;p&gt;Right now in the Tahoe-Truckee area, &lt;strong&gt;the answer depends on which neighborhood you’re looking in.&lt;/strong&gt; For example, in Lahong, there are more than 22 great homes for sale, and about two to four are selling every month. The same is true for some of the high-end homes in Tahoe-Donner and around the lake.&lt;/p&gt;
+
+&lt;p&gt;If you’re looking for a high-end property, it’s definitely a buyer’s market. If you’re a first-time homebuyer looking in the $400,000 to $500,000 range, you’ll face a lot of competition, so that price point is definitely a seller’s market.&lt;/p&gt;
+
+&lt;p&gt;Our current inventory is about 12% less compared to where it was at this time last year. Supply is down, but there is still quite a good selection of homes on the market. Inventory isn’t quite low enough to cause prices to spike—they rose 5% from January to March, but they’ve since stabilized and are now what’s keeping our market level. Interest rates are still very low as well, especially on jumbo properties, and some of our clients are still getting rates between 4% and 4.25%.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=SUPPLY IS DOWN, BUT THERE IS STILL QUITE A GOOD SELECTION OF HOMES ON THE MARKET.%20http://morrisonsellstruckeetahoe.com/is-it-time-for-you-to-buy-or-sell-in-our-tahoe-truckee-market.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“SUPPLY IS DOWN, BUT THERE IS STILL QUITE A GOOD SELECTION OF HOMES ON THE MARKET.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;To summarize, &lt;strong&gt;it’s not only a great time to buy, but it’s also a great time to sell&lt;/strong&gt; because you’re selling in a market where buyers can get incredible rates on their loans. We’re still about 10% below our peak pricing, so buyers should be aware that we still have quite a ways to go in terms of appreciation.&lt;/p&gt;
+
+&lt;p&gt;As a seller, you need to pay attention to what other homes are selling for and make sure yours stands out in terms of its condition. As always, listen to your Realtor and stage your home as best you can to attract the best buyer possible.&lt;/p&gt;
+
+&lt;p&gt;If you have any other questions about our Tahoe-Truckee market or are thinking of buying or selling a home, don’t hesitate to get in contact with me. I’d love to help you!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Sep 2017 00:00:00 -0500</pubDate>
+        <link>http://morrisonsellstruckeetahoe.com/is-it-time-for-you-to-buy-or-sell-in-our-tahoe-truckee-market.html</link>
+        <guid isPermaLink="true">http://morrisonsellstruckeetahoe.com/is-it-time-for-you-to-buy-or-sell-in-our-tahoe-truckee-market.html</guid>
+        
+        <category>Market Update</category>
+        
+        
+      </item>
     
       <item>
         <title>Programs for First-Time Homebuyers</title>
@@ -19,7 +50,7 @@
 
 &lt;p&gt;As you likely already know, &lt;strong&gt;our area is currently in somewhat of a housing crisis.&lt;/strong&gt; But if you’ve been forced to move from place to place while renting under various, unreliable landlords, don’t give up. There are strategies you can implement to purchase your own home.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=THERE ARE STRATEGIES YOU CAN IMPLEMENT TO PURCHASE YOUR OWN HOME.%20localhost:4000/are-you-ready-to-own-home.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“THERE ARE STRATEGIES YOU CAN IMPLEMENT TO PURCHASE YOUR OWN HOME.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=THERE ARE STRATEGIES YOU CAN IMPLEMENT TO PURCHASE YOUR OWN HOME.%20http://morrisonsellstruckeetahoe.com/are-you-ready-to-own-home.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“THERE ARE STRATEGIES YOU CAN IMPLEMENT TO PURCHASE YOUR OWN HOME.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;A program called the Home Ready Mortgage, for example, is one Suzi was excited to share with us. With this program, buyers need as little as 3% down and the income requirements are very flexible. As long as you can prove it, you can have income coming from roommates, family members, or elsewhere.&lt;/p&gt;
 
@@ -38,8 +69,8 @@
 &lt;p&gt;If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.&lt;/p&gt;
 </description>
         <pubDate>Wed, 09 Aug 2017 12:21:00 -0500</pubDate>
-        <link>localhost:4000/are-you-ready-to-own-home.html</link>
-        <guid isPermaLink="true">localhost:4000/are-you-ready-to-own-home.html</guid>
+        <link>http://morrisonsellstruckeetahoe.com/are-you-ready-to-own-home.html</link>
+        <guid isPermaLink="true">http://morrisonsellstruckeetahoe.com/are-you-ready-to-own-home.html</guid>
         
         <category>Buyer Tips</category>
         
@@ -60,15 +91,15 @@
 
 &lt;p&gt;In the last three weeks, more homes have come on the market now that people are able to get out of the snow and get their houses ready for sale.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Homes that are priced right and in great condition will sell quickly.%20localhost:4000/truckee-real-estate-agent-tahoe-truckee.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Homes that are priced right and in great condition will sell quickly.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Homes that are priced right and in great condition will sell quickly.%20http://morrisonsellstruckeetahoe.com/truckee-real-estate-agent-tahoe-truckee.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Homes that are priced right and in great condition will sell quickly.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Now is still a great time to sell your home.&lt;/strong&gt; Homes that are priced right and in great condition are selling very quickly. If you are trying to buy a home, let us know exactly what you are looking for so that we can notify you as soon as that property hits the market.&lt;/p&gt;
 
 &lt;p&gt;If you have any questions about navigating our current market, just give me a call or send me an email. I would be happy to help you!&lt;/p&gt;
 </description>
         <pubDate>Wed, 17 May 2017 13:31:00 -0500</pubDate>
-        <link>localhost:4000/truckee-real-estate-agent-tahoe-truckee.html</link>
-        <guid isPermaLink="true">localhost:4000/truckee-real-estate-agent-tahoe-truckee.html</guid>
+        <link>http://morrisonsellstruckeetahoe.com/truckee-real-estate-agent-tahoe-truckee.html</link>
+        <guid isPermaLink="true">http://morrisonsellstruckeetahoe.com/truckee-real-estate-agent-tahoe-truckee.html</guid>
         
         <category>Market Update</category>
         
@@ -95,7 +126,7 @@
 
 &lt;p&gt;&lt;strong&gt;2. What is the average selling price?&lt;/strong&gt; Between January and May, the average sales price in our area was $808,000; from August through December, the average price dropped to $776,000. Prices go up when homes sell in the spring and drop a bit through the second half of the year.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Prices go up when homes sell in the spring and drop a bit through the second half of the year.%20localhost:4000/truckee-real-estate-agent-when-is-best.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Prices go up when homes sell in the spring and drop a bit through the second half of the year.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Prices go up when homes sell in the spring and drop a bit through the second half of the year.%20http://morrisonsellstruckeetahoe.com/truckee-real-estate-agent-when-is-best.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Prices go up when homes sell in the spring and drop a bit through the second half of the year.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;In Tahoe Donner, the average price from January through May was $603,000. From August through December, the average sales price dropped to $575,000. Even luxury markets like Old Greenwood experience a similar trend, with an average sales price of $1.88 million in the spring and $1.6 million in the fall.&lt;/p&gt;
 
@@ -104,8 +135,8 @@
 &lt;p&gt;If you have any other questions about when to put your home on the market, please don’t hesitate to reach out to me. I would be happy to help you!&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Mar 2017 12:43:00 -0600</pubDate>
-        <link>localhost:4000/truckee-real-estate-agent-when-is-best.html</link>
-        <guid isPermaLink="true">localhost:4000/truckee-real-estate-agent-when-is-best.html</guid>
+        <link>http://morrisonsellstruckeetahoe.com/truckee-real-estate-agent-when-is-best.html</link>
+        <guid isPermaLink="true">http://morrisonsellstruckeetahoe.com/truckee-real-estate-agent-when-is-best.html</guid>
         
         <category>Home seller Tips</category>
         
@@ -126,7 +157,7 @@
 
 &lt;p&gt;There were some interesting anomalies in our 2016 real estate market.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=2016 saw some interesting real estate anomalies.%20localhost:4000/truckee-real-estate-agent-your-2016.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“2016 saw some interesting real estate anomalies.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=2016 saw some interesting real estate anomalies.%20http://morrisonsellstruckeetahoe.com/truckee-real-estate-agent-your-2016.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“2016 saw some interesting real estate anomalies.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;In Martis Camp, home sales doubled in 2016. However, the average sales price is actually down by 6%, and the median sales price is down 14%. In Squaw Valley, sales also doubled but the average sales price went up 7%. On the other hand, the median sales price went down by 4%.&lt;/p&gt;
 
@@ -139,8 +170,8 @@
 &lt;p&gt;If you are interested in the specific numbers for your neighborhood, click &lt;a href=&quot;https://s3.amazonaws.com/vyralmarketing/Christy+Morrison/Paragon-Year-to-Year-2016-12-29.xls&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt; for a full report. You can also search all local real estate on my &lt;a href=&quot;http://www.yourtahoetruckeerealestateexpert.com/&quot; target=&quot;_blank&quot;&gt;website&lt;/a&gt;. As always, if you have any real estate questions, please don’t hesitate to reach out to me. I would be happy to help you!&lt;/p&gt;
 </description>
         <pubDate>Wed, 28 Dec 2016 18:13:00 -0600</pubDate>
-        <link>localhost:4000/truckee-real-estate-agent-your-2016.html</link>
-        <guid isPermaLink="true">localhost:4000/truckee-real-estate-agent-your-2016.html</guid>
+        <link>http://morrisonsellstruckeetahoe.com/truckee-real-estate-agent-your-2016.html</link>
+        <guid isPermaLink="true">http://morrisonsellstruckeetahoe.com/truckee-real-estate-agent-your-2016.html</guid>
         
         <category>Market Update</category>
         
@@ -157,7 +188,7 @@
 
 &lt;p&gt;&lt;strong&gt;1. The home is overpriced.&lt;/strong&gt; Our average buyer is an out-of-towner who visits the area for the weekend, looks at several properties, and picks whichever one offers the best value. Price is a big factor in how emotionally attached they get to a home, as well. If you’re just waiting for an offer to come in, you’ll be waiting for a long time. Price the home correctly the first time to generate offers and give you the opportunity to choose the best one.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=IF YOU’RE JUST WAITING FOR AN OFFER TO COME IN, YOU’LL BE WAITING A LONG TIME.%20localhost:4000/truckee-real-estate-agent-5-reasons_20.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“IF YOU’RE JUST WAITING FOR AN OFFER TO COME IN, YOU’LL BE WAITING A LONG TIME.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=IF YOU’RE JUST WAITING FOR AN OFFER TO COME IN, YOU’LL BE WAITING A LONG TIME.%20http://morrisonsellstruckeetahoe.com/truckee-real-estate-agent-5-reasons_20.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“IF YOU’RE JUST WAITING FOR AN OFFER TO COME IN, YOU’LL BE WAITING A LONG TIME.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;2. The presentation is off.&lt;/strong&gt; Have you ever gone into a house that didn’t quite smell right or just didn’t feel very good to be in? A house’s presentation is another factor that plays a large part in how emotionally attached a buyer is going to get to it. To present your home in the best possible light, make sure it’s clean, it smells good, and it’s nice and warm.&lt;/p&gt;
 
@@ -170,8 +201,8 @@
 &lt;p&gt;We would love to share our marketing strategies and how we succeed in selling homes with you. If you have any questions or are looking to buy or sell real estate, please don’t hesitate to give us a call or send us an email. We’d be happy to help!&lt;/p&gt;
 </description>
         <pubDate>Tue, 20 Dec 2016 16:26:00 -0600</pubDate>
-        <link>localhost:4000/truckee-real-estate-agent-5-reasons_20.html</link>
-        <guid isPermaLink="true">localhost:4000/truckee-real-estate-agent-5-reasons_20.html</guid>
+        <link>http://morrisonsellstruckeetahoe.com/truckee-real-estate-agent-5-reasons_20.html</link>
+        <guid isPermaLink="true">http://morrisonsellstruckeetahoe.com/truckee-real-estate-agent-5-reasons_20.html</guid>
         
         <category>Home seller Tips</category>
         
@@ -190,7 +221,7 @@
 
 &lt;p&gt;It’s not uncommon to see frustrated sellers want to take advantage of getting some rental income at the end of the year, so we’ll probably see most of those properties come back on the market in April or May. In the meantime, the sellers that decide to stay the course can take advantage of the low inventory.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Sellers can potentially take advantage of the low amount of inventory.%20localhost:4000/truckee-real-estate-agent-how-is-tahoe.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Sellers can potentially take advantage of the low amount of inventory.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Sellers can potentially take advantage of the low amount of inventory.%20http://morrisonsellstruckeetahoe.com/truckee-real-estate-agent-how-is-tahoe.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Sellers can potentially take advantage of the low amount of inventory.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;From October 2015 to October 2016, our average sales price rose 8%.&lt;/strong&gt; In certain neighborhoods, though, pricing has remained flat or even dropped a little bit. For example, in Tahoe Donner, the current average sales price is $634,000. In October 2015, it was $643,000.&lt;/p&gt;
 
@@ -199,8 +230,8 @@
 &lt;p&gt;If you are interested in capturing this great seller’s market we’ll be experiencing from now through the end of March, please don’t hesitate to call me or shoot me an email. I’m happy to help!&lt;/p&gt;
 </description>
         <pubDate>Thu, 10 Nov 2016 15:05:00 -0600</pubDate>
-        <link>localhost:4000/truckee-real-estate-agent-how-is-tahoe.html</link>
-        <guid isPermaLink="true">localhost:4000/truckee-real-estate-agent-how-is-tahoe.html</guid>
+        <link>http://morrisonsellstruckeetahoe.com/truckee-real-estate-agent-how-is-tahoe.html</link>
+        <guid isPermaLink="true">http://morrisonsellstruckeetahoe.com/truckee-real-estate-agent-how-is-tahoe.html</guid>
         
         <category>Market Update</category>
         
@@ -215,7 +246,7 @@
 
 &lt;p&gt;The fall is one of my favorite times to buy and sell real estate. Inventory has started to drop off, and buyers who are purchasing seem more motivated in getting a deal done before the winter. The same goes for sellers.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Inventory has started to drop off.%20localhost:4000/truckee-real-estate-agent-planning-to.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Inventory has started to drop off.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Inventory has started to drop off.%20http://morrisonsellstruckeetahoe.com/truckee-real-estate-agent-planning-to.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Inventory has started to drop off.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Right now, we have 1,002 homes on the market in Tahoe/Truckee, with 626 of them being single-family homes. This number is actually up from last year, when there were only 473 homes for sale.&lt;/p&gt;
 
@@ -230,8 +261,8 @@
 &lt;p&gt;If you’re interested in buying or selling in the Tahoe/Truckee area, don’t hesitate to give me a call or send me an email. I would love to hear from you.&lt;/p&gt;
 </description>
         <pubDate>Thu, 13 Oct 2016 15:52:00 -0500</pubDate>
-        <link>localhost:4000/truckee-real-estate-agent-planning-to.html</link>
-        <guid isPermaLink="true">localhost:4000/truckee-real-estate-agent-planning-to.html</guid>
+        <link>http://morrisonsellstruckeetahoe.com/truckee-real-estate-agent-planning-to.html</link>
+        <guid isPermaLink="true">http://morrisonsellstruckeetahoe.com/truckee-real-estate-agent-planning-to.html</guid>
         
         <category>Market Update</category>
         
@@ -250,15 +281,15 @@
 
 &lt;p&gt;&lt;strong&gt;So if you’re a seller and you’d like to set yourself apart while taking advantage of the declining supply and increased demand of the fall months, then it would make sense to list your property for sale now.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Fall’s low inventory and high demand make it a great time to list your home.%20localhost:4000/truckee-real-estate-agent-tahoe-truckee.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Fall’s low inventory and high demand make it a great time to list your home.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Fall’s low inventory and high demand make it a great time to list your home.%20http://morrisonsellstruckeetahoe.com/truckee-real-estate-agent-tahoe-truckee.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Fall’s low inventory and high demand make it a great time to list your home.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Another reason why this fall selling season is going to be a busy one is because our interest rates are still incredibly low – many of our buyers are getting rates that are under 4%. In addition, as we get into the fall, &lt;strong&gt;seasonal motivation tends to push buyers to purchase a home before wintertime, so demand will still be very high.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;If you have any questions about the fall market or anything else, please feel free to give me a call or send me a text or email. I look forward to speaking with you!&lt;/p&gt;
 </description>
         <pubDate>Fri, 26 Aug 2016 14:00:00 -0500</pubDate>
-        <link>localhost:4000/truckee-real-estate-agent-tahoe-truckee.html</link>
-        <guid isPermaLink="true">localhost:4000/truckee-real-estate-agent-tahoe-truckee.html</guid>
+        <link>http://morrisonsellstruckeetahoe.com/truckee-real-estate-agent-tahoe-truckee.html</link>
+        <guid isPermaLink="true">http://morrisonsellstruckeetahoe.com/truckee-real-estate-agent-tahoe-truckee.html</guid>
         
         <category>Market Update</category>
         
@@ -271,7 +302,7 @@
 
 &lt;p&gt;I just got back from a real estate conference with more than 4,000 of the top real estate agents in the country, and many talked about their markets declining and slowing down. These people were from markets like San Francisco, LA, Miami, and Dallas. What I wanted to talk about today is whether or not we’re seeing a shift or softening in our Tahoe Truckee market.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Is the market seeing a trend, or just usual seasonal softening?%20localhost:4000/truckee-real-estate-agent-is-our.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Is the market seeing a trend, or just usual seasonal softening?”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Is the market seeing a trend, or just usual seasonal softening?%20http://morrisonsellstruckeetahoe.com/truckee-real-estate-agent-is-our.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Is the market seeing a trend, or just usual seasonal softening?”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Let’s look at the factors that mark a softening market. One of the first signs is when the days on market begins increasing. Last month, the average was 143 days, and this month it’s 148, so it’s increasing a bit, but not enough to say whether this is a trend.&lt;/p&gt;
 
@@ -288,31 +319,8 @@
 &lt;p&gt;If you have any questions or any interest in buying or selling a home, contact me soon. Your prime window may be closing!&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Aug 2016 16:27:00 -0500</pubDate>
-        <link>localhost:4000/truckee-real-estate-agent-is-our.html</link>
-        <guid isPermaLink="true">localhost:4000/truckee-real-estate-agent-is-our.html</guid>
-        
-        <category>Market Update</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Tahoe-Truckee Market Report for June 2016</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/vfOXiEeQtKM?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;What’s happening with the Tahoe-Truckee real estate market for the month of June 2016?&lt;/p&gt;
-
-&lt;p&gt;Right now, there are 682 homes for sale in the area, with 86 having already been sold for the month. Basically we have an eight month supply of inventory of existing homes for sale. During the same time period, we also had 152 homes come on the market. As you can see, &lt;strong&gt;we’re having more homes come on the market than are selling,&lt;/strong&gt; which is typical for this time of year. Last year we had 103 homes sell during June. The average days on market during that period was 75, whereas this year that number is 81.&lt;/p&gt;
-
-&lt;p&gt;What’s happening with the prices right now? Overall, &lt;strong&gt;our sales are up over 11%,&lt;/strong&gt; so we’re seeing 11% more homes sell than we did last year. &lt;strong&gt;Our average is up 2% and the median price is up 6%.&lt;/strong&gt; As we’ve previously discussed, certain neighborhoods are hot right now in the Tahoe-Truckee area. For example, the sales in the Tahoe-Donner neighborhood are up 31%, and the average sales price is up 3%. Over in our Truckee neighborhoods, sales are up 38%, and the average price is up 5% over last year.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Overall, our sales are up over 11%%20localhost:4000/truckee-real-estate-agent-june-2016.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Overall, our sales are up over 11%”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;If you have any questions regarding your particular neighborhood or anything real-estate-related, feel free to give me a call or send me an email.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 07 Jul 2016 13:46:00 -0500</pubDate>
-        <link>localhost:4000/truckee-real-estate-agent-june-2016.html</link>
-        <guid isPermaLink="true">localhost:4000/truckee-real-estate-agent-june-2016.html</guid>
+        <link>http://morrisonsellstruckeetahoe.com/truckee-real-estate-agent-is-our.html</link>
+        <guid isPermaLink="true">http://morrisonsellstruckeetahoe.com/truckee-real-estate-agent-is-our.html</guid>
         
         <category>Market Update</category>
         
