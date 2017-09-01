@@ -22,7 +22,7 @@ The number one question I’ve been getting asked recently is, “Are we heading
 
 1. **Today’s mortgage industry standards.** The difference is day and night. It’s much harder for someone to get a loan than it was a decade ago.
 
-2. **Builders are being more cautious.** When getting a loan was as easy as fogging a mirror, builders were building as much and as fast as they could. From 2003 to 2006, there were 350,000 new homes available for purchase. Right now, there are just 142,000 new homes available.
+2.** Builders are being more cautious.** When getting a loan was as easy as fogging a mirror, builders were building as much and as fast as they could. From 2003 to 2006, there were 350,000 new homes available for purchase. Right now, there are just 142,000 new homes available.
 
 {% include pullquote.html %}
 
