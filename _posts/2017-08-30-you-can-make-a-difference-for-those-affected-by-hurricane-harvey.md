@@ -1,11 +1,12 @@
 ---
 layout: post
 title: You Can Make a Difference for Those Affected by Hurricane Harvey
-date: 2017-08-30 16:29:03
+date: 2017-08-30 16:29:00
 tags:
   - Real Estate
 excerpt: Hurricane Harvey has caused a great deal of destruction along our coast.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+Hurricane+Relief.mp4
 pullquote: These relief efforts are truly saving lives.
 enclosure_type: video/mp4
 enclosure_time:
@@ -33,6 +34,6 @@ This certainly is not a comprehensive list of the ways you can help. We merely w
 
 **Finally, we would like to extend our sincerest thanks to those who have already given their time and effort to this cause, and especially to those who have risked their lives in doing so.**
 
-We appreciate the resources, time, and money given by so many of you, already, &nbsp;to those in need. These relief efforts are truly saving lives. In this time of great hardship, please keep those affected in your thoughts, prayers, and daily efforts. May God bless Texas.
+We appreciate the resources, time, and money given by so many of you, already,  to those in need. These relief efforts are truly saving lives. In this time of great hardship, please keep those affected in your thoughts, prayers, and daily efforts. May God bless Texas.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
