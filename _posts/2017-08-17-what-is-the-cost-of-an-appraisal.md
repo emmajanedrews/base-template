@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   How much will your appraisal cost? This is a question many people wonder at
   some point in their real estate transaction.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+Appraisal+questions%253F+Watch+this+for+answers.mp4
 pullquote: >-
   You should ask your mortgage lender about the cost of appraisal as soon as
   possible.
@@ -35,7 +36,7 @@ So, how is an appraiser selected? This is something that will depend on your len
 
 However, after the Dodd-Frank era, it has since been necessary that lenders rotate their certified area appraisers.
 
-While they are aware of the stakes for both the buyer and seller, **an appraiser cannot base their appraisal strictly on the sales price.&nbsp;**Appraisers will look at comparable homes to help them determine value.
+While they are aware of the stakes for both the buyer and seller, **an appraiser cannot base their appraisal strictly on the sales price.**Appraisers will look at comparable homes to help them determine value.
 
 Low appraisals can happen. At that time, however, you have a couple of options. You can either renegotiate the contract or, in some cases, you may get a second opinion.
 
