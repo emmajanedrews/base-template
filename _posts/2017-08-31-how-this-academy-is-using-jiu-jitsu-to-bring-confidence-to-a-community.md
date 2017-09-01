@@ -26,7 +26,7 @@ Recently, my team member Greg Brock and I took a trip to Gracie Jiu-Jitsu Maryla
 
 Mike has been with the Gracie family for about seven years and has been involved in martial arts for his entire life. **At this academy, specifically, the focus is on Brazilian Jiu-Jitsu. There are classes for kids, adults, and also courses on self-defense**.
 
-Mike opened his first academy in 2009 in Clarksville, Maryland. However, his business eventually outgrew that space, so that academy was moved into a new, 7,500 square foot facility in Columbia. Growth is so rapid still, in fact, that they are looking to expand yet again. Mike also has another school in Severna Park [location at 1:33].
+Mike opened his first academy in 2009 in Clarksville, Maryland. However, his business eventually outgrew that space, so that academy was moved into a new, 7,500 square foot facility in Columbia. Growth is so rapid still, in fact, that they are looking to expand yet again. Mike also has another school in Severna Park.
 
 It’s certainly led him to a lot of success, but why did Mark choose Jiu-Jitsu in the first place?
 
@@ -46,12 +46,12 @@ Though the purpose of the academy was fairly singular, it has now grown to encom
 
 Martial arts isn’t merely about fighting, it is about having the self-assuredness to conquer daily challenges.
 
-As someone who is native to the area, Mike has a lot of ties to the community beyond what he does today. The building that is now Gracie Jiu-Jitsu Maryland was actually a VHS video rental store when Mike was a kid. Mike remembers coming to this very spot on Friday nights to get a movie.  One of the most rewarding things he’s seen from his work is seeing the direct effect he’s having on the community where his roots are planted.
+As someone who is native to the area, Mike has a lot of ties to the community beyond what he does today. The building that is now Gracie Jiu-Jitsu Maryland was actually a VHS video rental store when Mike was a kid. Mike remembers coming to this very spot on Friday nights to get a movie. &nbsp;One of the most rewarding things he’s seen from his work is seeing the direct effect he’s having on the community where his roots are planted.
 
 When he was growing up, there was no Jiu-Jitsu school in the area. In fact, there are a lot of things that Mike says have developed now that weren’t available to him when he was younger. Right now, life is really being breathed into this community.
 
 Mike especially appreciates the direct impact he has on imparting values like discipline and confidence onto the community's children. **However, he says it takes the physicality of the sport to help him reinforce the non-physical aspects**. But it isn’t just Mike who helps to uplift his students; they uplift each other, as well.
 
-If you’d like the opportunity to get involved with the academy and learn some Jiu-Jitsu, you can visit *[**www.RealJiuJitsu.com**](www.RealJiuJitsu.com)*. The website has a ton of videos, photos, and information available for you. Even if you don’t live in the direct area, there are several locations out there.
+If you’d like the opportunity to get involved with the academy and learn some Jiu-Jitsu, you can visit *[www.RealJiuJitsu.com](http://www.RealJiuJitsu.com)*. The website has a ton of videos, photos, and information available for you. Even if you don’t live in the direct area, there are several locations out there.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you.
