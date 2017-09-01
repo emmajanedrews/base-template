@@ -15,8 +15,8 @@ pullquote: Our Hot List will give you an advantage over other homebuyers.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
-youtube_code: uieM18rZdHY
+youtube_alternate_image: /uploads/ss-youtube-1.jpg
+youtube_code: gi0BBrwuVmg
 ---
 
 
