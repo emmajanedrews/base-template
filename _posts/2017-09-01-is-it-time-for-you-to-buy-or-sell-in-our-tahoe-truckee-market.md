@@ -1,24 +1,28 @@
 ---
 layout: post
 title: Is It Time for You to Buy or Sell in Our Tahoe-Truckee Market?
-date: 2017-09-01
+date: 2017-09-01 00:00:00
 tags:
-- Market Update
+  - Market Update
 excerpt:
-enclosure: https://s3.amazonaws.com/vyralmarketing/Christy+Morrison/Videos/2017/Is+It+Time+for+You+to+Buy+or+Sell+in+Our+Tahoe-Truckee+Market%253F+-+Truckee+Real+Estate+Agent.mp4
-pullquote: SUPPLY IS DOWN, BUT THERE IS STILL QUITE A GOOD SELECTION OF HOMES ON THE MARKET.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Christy+Morrison/Videos/2017/Is+It+Time+for+You+to+Buy+or+Sell+in+Our+Tahoe-Truckee+Market%253F+-+Truckee+Real+Estate+Agent.mp4
+pullquote: >-
+  SUPPLY IS DOWN, BUT THERE IS STILL QUITE A GOOD SELECTION OF HOMES ON THE
+  MARKET.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: wGHbejszw_M
 ---
-{% include youtube.html %}
-Are we in a buyer’s or seller’s market? The answer depends on your location, but it’s arguably a good time to both buy and sell.
+
+
+{% include youtube.html %} Are we in a buyer’s or seller’s market? The answer depends on your location, but it’s arguably a good time to both buy and sell.
 
 A lot of my clients often ask, “Are we currently in a buyer’s or a seller’s market?”
 
-Right now in the Tahoe-Truckee area, **the answer depends on which neighborhood you’re looking in.** For example, in Lahong, there are more than 22 great homes for sale, and about two to four are selling every month. The same is true for some of the high-end homes in Tahoe-Donner and around the lake.
+Right now in the Tahoe-Truckee area, **the answer depends on which neighborhood you’re looking in.** For example, in Lahontan, there are more than 22 great homes for sale, and about two to four are selling every month. The same is true for some of the high-end homes in Tahoe-Donner and around the lake.
 
 If you’re looking for a high-end property, it’s definitely a buyer’s market. If you’re a first-time homebuyer looking in the $400,000 to $500,000 range, you’ll face a lot of competition, so that price point is definitely a seller’s market.
 
