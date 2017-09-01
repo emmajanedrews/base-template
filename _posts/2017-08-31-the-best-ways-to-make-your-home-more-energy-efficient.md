@@ -32,7 +32,7 @@ Another way heat tends to penetrate homes is through single-pane windows. To sav
 
 You may want to replace your insulation, as well. If your home is between 20 and 30 years old, chances are that your insulation is, too. Through time, insulation compresses and becomes less efficient.
 
-All of these fixes can make an large impact on the energy efficiency of your home for minimal effort. You could be saving a lot of money for very little work.&nbsp;
+All of these fixes can make a large impact on the energy efficiency of your home for minimal effort. You could be saving a lot of money for very little work.&nbsp;
 
 **For more personalized ways to make your home, specifically, more energy efficient, you can hire energy efficiency testing companies** to come out, assess your property, and make suggestions.
 
