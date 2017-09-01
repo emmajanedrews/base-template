@@ -3,14 +3,17 @@ layout: post
 title: Don’t Miss Our New & Featured Listings
 date:
 tags:
-excerpt:
+  - Real Estate
+excerpt: >-
+  Don’t miss our newest listing at 3603 N Gomez Ave. Avenue or our featured
+  listings.
 enclosure:
-pullquote:
+pullquote: Declutter to showcase your counter space.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+use_youtube_image: false
+youtube_alternate_image: /uploads/philipp-fries-new-listing.jpg
+youtube_code: 'https://youtu.be/X-HC-HOlTPA'
 ---
 
 
