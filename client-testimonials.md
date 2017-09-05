@@ -5,6 +5,15 @@ layout: default
 <h1>Client Audio Testimonials</h1>
 
 <div class="client-testimonial">
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/337870855&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<p class="testimonial-text">
+"We were really happy with everything we did with The Canovo Group. Our buyer's agent was really fast at getting us in to see what we wanted and getting us exactly what we wanted. Our transaction agent was just great about everything that needed to be handled. They were right on top of things as well. We were very pleased. We were initially on the market last fall, and we had a contract fall through. Our agent actually called us up after the fact to talk and help us through it. Even though we weren't on the market anymore. She followed back up with us a number of times in the spring to help us get going again."
+</p>
+<p class="testimonial-author">
+-Carolyn C.
+</p>
+<hr>
+<div class="client-testimonial">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/337871270&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 <p class="testimonial-text">
 "We chose them because they were short sale specialists and that's what we wanted to do with our home. I thought they were fine. It took us two years to sell the home, but that had nothing to do with them because they had tons of walk-throughs. We had several offers, but the bank just took a really long time with processing [the transaction]. They did a great job. The house actually got broken into at one point. Some of the copper wiring's got pulled out. They had been keeping really good tabs on the house because we weren't living in it at the time. Dane, the Realtor, notified us immediately and helped me out with figuring out how to take care of it and negotiating with the bank. From that end, it was really helpful and took a big stress load off of us because had a bunch of other stuff going on at the time."
