@@ -29,7 +29,7 @@ Thanks for watching, 'What's Working Now!'
 
 You’ve probably noticed, I’m not at my desk. We’re doing something DIFFERENT.
 
-I’m going to record LIVE from my new listing at 4550 Klingle Street in Wesley Heights. It’s on the market for $1,850,000.
+I’m going to record LIVE from my new listing at 4550 Klingle Street in Wesley Heights. It’s on the market for $1,799,000.
 
 The staging is complete… It looks terriﬁc and I can’t wait for you to see it!
 
@@ -71,4 +71,4 @@ You’ll be amazed at the expanded spaces!
 
 So thanks for watching 'What's Working Now!'
 
-Be on the lookout for my next video...we'll talk about an important aspect of staging that most agents miss!
+Be on the lookout for my next video…we'll talk about an important aspect of staging that most agents miss!
