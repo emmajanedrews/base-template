@@ -18,6 +18,7 @@ layout: default
 <p class="testimonial-text">
 "They helped us find our new house. We worked specifically with Dane and it was a really great experience. We went and looked at several different places and he was super knowledgeable about the area having been from there and answered all of our questions and just provided a lot of really great feedback. We would go and look at a different property and currently we live in Nashville, Tennessee. And so we are moving to Montana but we're not super familiar with that area. We were kind of like alright what do think, you know is this a good price point or you know that the value is there. And he was really honest, he was just very knowledgeable about the market there. Even when we would ask, "Okay what kind of offer would you put on this house?" and obviously I know they're paid based on the total sale so it is in his best interest for the sale price to be as high as possible. He gave us a lot of really great feedback as far as like well I would put in an offer somewhere around this range. It was very credible and you know made me realize that we could really trust his opinion and it seemed like he really had our best interest at heart."
 </p>
+<p class="testimonial-author">
 -Mallory G.
 </p>
 <hr>
