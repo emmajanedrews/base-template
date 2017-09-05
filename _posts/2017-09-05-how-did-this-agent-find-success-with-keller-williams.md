@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   This is the story of William Nieves. Today, he’s sharing how he found success
   with Keller Williams.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Marcus+Green/VIdeos/2017/September/Northern+Utah+Real+Estate+Coaching-+How+Did+This+Agent+Find+Success+With+Keller+Williams%253F.mp4
 pullquote: 'When you are consistent, you will master what you do.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -37,7 +38,7 @@ This focus on consistency and tenacity is something William carries with him thr
 
 When you are consistent, you will master what you do. Time is the key to developing a skill set.
 
-But, that’s not the only thing that sets William apart from other agents in our area. William comes from the East Coast, where people are more direct. As a result, he isn’t afraid to get down and dirty. He attributes many things to his success, **including his upbringing in the Pennsylvania culture, his Black Belt, his hardships, and his time in law enforcement. &nbsp;**
+But, that’s not the only thing that sets William apart from other agents in our area. William comes from the East Coast, where people are more direct. As a result, he isn’t afraid to get down and dirty. He attributes many things to his success, **including his upbringing in the Pennsylvania culture, his Black Belt, his hardships, and his time in law enforcement.**
 
 Many agents say that they’re the best, but the bottom line is that none of them have lived the way William has. William treats every client like family—he knows what it’s like to experience the pain of not succeeding. This is one of the reasons he is so successful. In fact, he has a 99% closing rate. **As an agent and a person, he is truthful, consistent, and successful.**
 
