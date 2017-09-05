@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/robellis-screenshot-email-localinvestments.jpg
-youtube_code: byNxL9cYcvc
+youtube_code: FTBZKkEHQc0
 ---
 
 
