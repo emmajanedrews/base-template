@@ -1,6 +1,6 @@
 audit_header: false
 title: -- CLIENT BRAND --
-description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
+description: 'Patrick Fitzgerald, the VA Loan Guy, is located in San Antonio, Texas and is a true “One Stop Lender”. We originate, underwrite, and close all types of loans. We offer Texas Vet, Veterans, FHA, Conventional, Jumbo, Adjustable Rate, and Investment products.'
 show_custom_links: false
 custom_links:
   - title:
@@ -58,14 +58,11 @@ lender:
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
-    professionals can answer any questions you might have about real estate.
-    Subscribe to this blog to get the latest news on local market trends and
-    receive expert tips for buying or selling a home.
+    Our mission at -- CLIENT BRAND -- is to be your best resource for Mortgage Banking. I make my living helping Active Military people as well as Veterans. Whether you are a Prospective Client or a Realtor, our team of
+    professionals can answer any questions you might have about Texas Vet & VA Loans. Subscribe to this blog to get the answers to the most popular questions for you and to get the necessary tools to make a proper decision on a Home Loan using the Texas Veterans Land Board Program.
 
 socials:
-  review_sm_icons: false
+  review_sm_icons: true
   facebook_url: https://www.facebook.com/Texas-Vet-Loans-333049063705426/
   linkedin_url: https://www.linkedin.com/in/pat-fitzgerald-75207524?trk=hp-identity-photo
   gplus_url: https://plus.google.com/u/0/b/111020914519161365428
@@ -82,9 +79,9 @@ podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: 'Get the answers to the most popular questions for you and to get the necessary tools to make a proper decision on a Home Loan using the Texas Veterans Land Board Program.'
+  description: 'Patrick Fitzgerald, the VA Loan Guy, is located in San Antonio, Texas and is a true “One Stop Lender”. We originate, underwrite, and close all types of loans. We offer Texas Vet, Veterans, FHA, Conventional, Jumbo, Adjustable Rate, and Investment products.'
+  keywords: 'Texas Veteran Loans, VA Loans, The VA Loan Guy, Loans for Active Military, Mortgage Banking Firm, Mortgage Banking in Texas, VA Mortgages'
   author: '-- CLIENT NAME --'
 
 images:
