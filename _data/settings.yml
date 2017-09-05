@@ -105,7 +105,7 @@ site_colors:
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
-  shadow_spread: 7px
+  shadow_spread: 14px
   shadow_color: rgba(234, 234, 234, .5)
 
 buttons:
