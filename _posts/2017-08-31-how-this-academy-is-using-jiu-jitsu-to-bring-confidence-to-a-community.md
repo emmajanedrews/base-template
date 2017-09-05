@@ -8,7 +8,8 @@ excerpt: >-
   Today we had a conversation with Mike Stewart, owner and head instructor at
   Gracie Jiu-Jitsu Maryland, about the effect his academy is having on the
   community.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Nick+Kellar/CarrollCounty+Real+Estate+Jui+Jitsu+Spotlight.mp4
 pullquote: >-
   Martial arts isn’t merely about fighting, it is about having the
   self-assuredness to conquer daily challenges.
@@ -46,7 +47,7 @@ Though the purpose of the academy was fairly singular, it has now grown to encom
 
 Martial arts isn’t merely about fighting, it is about having the self-assuredness to conquer daily challenges.
 
-As someone who is native to the area, Mike has a lot of ties to the community beyond what he does today. The building that is now Gracie Jiu-Jitsu Maryland was actually a VHS video rental store when Mike was a kid. Mike remembers coming to this very spot on Friday nights to get a movie. &nbsp;One of the most rewarding things he’s seen from his work is seeing the direct effect he’s having on the community where his roots are planted.
+As someone who is native to the area, Mike has a lot of ties to the community beyond what he does today. The building that is now Gracie Jiu-Jitsu Maryland was actually a VHS video rental store when Mike was a kid. Mike remembers coming to this very spot on Friday nights to get a movie.  One of the most rewarding things he’s seen from his work is seeing the direct effect he’s having on the community where his roots are planted.
 
 When he was growing up, there was no Jiu-Jitsu school in the area. In fact, there are a lot of things that Mike says have developed now that weren’t available to him when he was younger. Right now, life is really being breathed into this community.
 
