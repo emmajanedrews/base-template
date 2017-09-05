@@ -5,6 +5,15 @@ layout: default
 <h1>Client Audio Testimonials</h1>
 
 <div class="client-testimonial">
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/335274793&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<p class="testimonial-text">
+"The results were very good. We worked with them over a period of time looking for land up in the Bigfork area. Scott's been incredibly responsive to all of our requests. He went out of his way on weekends to show us property when we were up there visiting and when we made the offer on the transaction that we just closed on. He went out of his way to get a lot of information for us and negotiate the deal. We're extremely satisfied. Given our experience with Scott and his team we would certainly use him again and recommend him to family, friends, or anybody. He's probably knowledgeable as anybody in that area so he comes highly recommended as far as we're concerned."
+</p>
+<p class="testimonial-author">
+-Roger P.
+</p>
+<hr>
+<div class="client-testimonial">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/335274543&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 <p class="testimonial-text">
 "They helped us find our new house. We worked specifically with Dane and it was a really great experience. We went and looked at several different places and he was super knowledgeable about the area having been from there and answered all of our questions and just provided a lot of really great feedback. We would go and look at a different property and currently we live in Nashville, Tennessee. And so we are moving to Montana but we're not super familiar with that area. We were kind of like alright what do think, you know is this a good price point or you know that the value is there. And he was really honest, he was just very knowledgeable about the market there. Even when we would ask, "Okay what kind of offer would you put on this house?" and obviously I know they're paid based on the total sale so it is in his best interest for the sale price to be as high as possible. He gave us a lot of really great feedback as far as like well I would put in an offer somewhere around this range. It was very credible and you know made me realize that we could really trust his opinion and it seemed like he really had our best interest at heart."
