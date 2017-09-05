@@ -54,6 +54,6 @@ Next, they will install a mitigation system—a 4-inch pipe that goes into the g
 
 However, after 10 years have passed from the time you installed your system, you will want to conduct another radon test to be safe.
 
-For more information about radon gas,** [click here](http://www.EPA.gov/Radon){:target="_blank"}.&nbsp;**
+For more information about radon gas,&nbsp;[click here](http://www.EPA.gov/Radon).
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
