@@ -20,23 +20,33 @@ youtube_code: nDnv58CoFzk
 
 
 {% include youtube.html %}
+{: .present-before-paste}
 
 What is a CMA, and how can it help you in your real estate transaction?
 <br>
-<br>A CMA is a comparative market analysis, which is a way for agents to help you determine how to price your home in order to get the best value in the least time.
+<br>A CMA is a Comparative Market Analysis, which is a way for agents to help you determine how to price your home in order to get the best value in the least time.
+{: .present-before-paste}
 
 **To conduct a CMA, agents will look at all active, pending, and sold homes in your neighborhood that are similar to your own property.** All of this data will be analyzed by your seller to help you effectively list your home.
+{: .present-before-paste}
 
 As a seller, having your home sit on the market for too long is one thing you should always do your best to avoid. When days turn into weeks, and weeks turn into months, your home listing can become stagnant.
+{: .present-before-paste}
 
 {% include pullquote.html %}
+{: .present-before-paste}
 
 When listing becomes so stale, your home will cease to be shown—buyers and agents alike will simply stop looking at your property.
+{: .present-before-paste}
 
 A few years ago, my team and I listed a home in West Boise. Because it was priced well, we received four different offers in just a few days of the home being on the market. At this point I sat down with the seller to go over these offers.
+{: .present-before-paste}
 
-The worst offer was just slightly under asking price, while the best was actually $10,000 over asking price with no contingencies or inspections.** This was an absolute dream scenario, and it was largely thanks to the CMA that we performed to establish a market value.**
+The worst offer was just slightly under asking price, while the best was actually $10,000 over asking price with no contingencies or inspections.\*\* This was an absolute dream scenario, and it was largely thanks to the CMA that we performed to establish a market value.\*\*
+{: .present-before-paste}
 
 Correct pricing led to a lot of buyer activity and ultimately to the seller receiving a great offer that was well over acting price.
+{: .present-before-paste}
 
 If you’ve been thinking of selling your home and would like our help, have any other questions, or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+{: .present-before-paste}
