@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Reduce the Radon Level in Your Home
-date: 2017-09-05 13:43:52
+date: 2017-09-05 13:43:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -20,7 +20,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: E2eVHYTSOT4
+youtube_code: puENmt49f9c
 ---
 
 
@@ -54,6 +54,6 @@ Next, they will install a mitigation system—a 4-inch pipe that goes into the g
 
 However, after 10 years have passed from the time you installed your system, you will want to conduct another radon test to be safe.
 
-For more information about radon gas,&nbsp;[click here](http://www.EPA.gov/Radon).
+For more information about radon gas, [click here](http://www.EPA.gov/Radon).
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
