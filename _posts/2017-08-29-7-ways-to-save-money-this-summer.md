@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   There are a lot of ways you can keep your utility bills under control during
   the summer. Here are a few of them.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Scott+Hardesty/Videos/Greater+Nashville+Real+Estate-+7+Summer+Saving+Tips.mp4
 pullquote: A smart thermostat is a wise investment.
 enclosure_type: video/mp4
 enclosure_time:
