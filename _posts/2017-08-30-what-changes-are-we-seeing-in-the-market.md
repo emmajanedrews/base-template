@@ -20,7 +20,7 @@ youtube_code: QeMBj7u6i70
 
 {% include youtube.html %}
 
-There are some big changes happening right now in our Mt. Pleasant market. We usually see a bit of a shift around this time of year, but some of the things we are noticing are pretty atypical.
+There are some big changes happening right now in the Greater Charleston area. We usually see a bit of a shift around this time of year, but some of the things we are noticing are pretty atypical.
 
 Over the last three months, we’ve had 5,200 homes come on the market. However, our pending listings have dropped from 3,500 to 3,000 in that same time frame. That’s a significant difference. In addition to that, the price per square foot is in the high $160s right now, but homes are selling for about $134. **It tells me that there are a lot of homes on the market right now that are overpriced.**
 
