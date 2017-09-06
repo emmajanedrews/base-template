@@ -28,6 +28,6 @@ Now, onto the latest real estate news. The Baltimore market experienced a little
 
 The good news if you’re a buyer, however, is that **you’ll see a new wave of homes coming on the market next week**—our team alone has about 10 homes being listed next Wednesday or Thursday.
 
-The good news if you’re seller is that **we’ll see an uptick in the market in the next 60 to 75 days**, which will provide you a great window to sell your home. It’s arguably a better time to sell during this timespan than the spring months because—from an appraisal standpoint— you have great comparables of homes that sold in May, June, and July.
+The good news if you’re a seller is that **we’ll see an uptick in the market in the next 60 to 75 days**, which will provide you a great window to sell your home. It’s arguably a better time to sell during this timespan than the spring months because—from an appraisal standpoint—you have great comparables of homes that sold in May, June, and July.
 
 If you have any questions about our market or you’re thinking about buying or selling a home soon, don’t hesitate to reach out to us. We’d be glad to help you.
