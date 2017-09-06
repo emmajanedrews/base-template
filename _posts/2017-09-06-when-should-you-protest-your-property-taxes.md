@@ -22,7 +22,7 @@ youtube_code: FiUaM0rK4hw
 
 We’re nearing the end of summer, which means you've probably received a notice in the mail recently from your county indicating the proposed value for your home in 2017. Keep in mind that **it’s not a tax bill so you don’t have to pay it, but you should take a close look at it to see what it says.**
 
-The county has the ability to raise your taxes by 2% each year due to Proposition 13. In most cases, they do. If you look at the form and feel your value is unfairly high or there is a missing exemption, you have the right to protest the assessment. However, the window of opportunity to do that is closing. The deadline for protesting your property taxes is September 15th for Ventura County. **[Here’s a handy graphic](http://vyralmarketing.s3.amazonaws.com/Breanne%20Steen/Tax_Info.pdf)** with a little information about how this all works.
+The county has the ability to raise your taxes by 2% each year due to Proposition 13. In most cases, they do. If you look at the form and feel your value is unfairly high or there is a missing exemption, you have the right to protest the assessment. However, the window of opportunity to do that is closing. The deadline for protesting your property taxes is September 15th for Ventura County. **[Here’s a handy graphic]{: target="_blank"}(http://vyralmarketing.s3.amazonaws.com/Breanne%20Steen/Tax_Info.pdf){: target="_blank"}** with a little information about how this all works.
 
 {% include pullquote.html %}
 
