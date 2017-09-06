@@ -21,9 +21,9 @@ The first thing that usually comes to mind in the summertime is going to the bea
 
 In Florida, they charge you more during the summer for your electric bill than they do in the wintertime. I’ve got a list of tips that will help reduce the sticker shock on your bill during the summer.
 
-**1. Try running your pool for only six hours a day.**
+**1. Try running your pool pump for only six hours a day.**
 
-**2. Set your A/C to 70 degrees or higher.** The best temperature during the day is at 82 degrees, and 75 to 77 degrees at night.
+**2. Set your A/C to 78 degrees or higher.** The best temperature during the day is at 82 degrees, and 75 to 77 degrees at night.
 
 **3. Turn the thermostat down on your hot water heater from 140 to 120 degrees.**
 
