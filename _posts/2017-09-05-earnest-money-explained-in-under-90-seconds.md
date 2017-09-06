@@ -18,7 +18,7 @@ youtube_code: 1UliTNjJiKE
 
 {% include youtube.html %}
 
-Today we’re here with Tim Chase from 719 Lending &nbsp;to explain everything you need to know about earnest money.&nbsp;
+Today we’re here with Tim Chase from 719 Lending to explain everything you need to know about earnest money.&nbsp;
 
 First of all, what exactly is earnest money?&nbsp;
 
@@ -32,7 +32,7 @@ A lot of buyers want to know if they can use a credit card to pay earnest money.
 
 Other buyers may have gift money that they want to use for the earnest money deposit. **Luckily, you can use gift money as earnest money!** It’s acceptable to have someone else provide you with earnest money, so long as they provide secured funds.
 
-Why are secured funds so important? Your lender is required to track where your earnest money comes from. Anti-money laundering laws require your lender to verify that the money you provide was in your bank account and &nbsp;came from your account. So once that earnest money check is cashed, plan on providing your lender with a new, updated bank statement.
+Why are secured funds so important? Your lender is required to track where your earnest money comes from. Anti-money laundering laws require your lender to verify that the money you provide was in your bank account and came from your account. So once that earnest money check is cashed, plan on providing your lender with a new, updated bank statement.
 
 Don’t forget that once you close, that earnest money is all yours!
 
