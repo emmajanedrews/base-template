@@ -3,6 +3,7 @@ layout: post
 title: How Maintaining the Forest Can Prevent Wildfires
 date: 2017-09-06 11:00:00
 tags:
+  - Real Estate
 excerpt: >-
   Today I’ve got a few key tips that could help you prevent wildfires as we
   approach a critical time of year.
