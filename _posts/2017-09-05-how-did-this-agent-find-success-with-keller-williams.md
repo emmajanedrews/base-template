@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: yIYBeAKWW9k
+youtube_code: zcg34IHjWSY
 ---
 
 
@@ -34,11 +34,11 @@ Now William is the team leader of the Nieves Realty Group. He has approximately 
 
 Within his team, it is expected and required that his agents follow the systems. He believes that following systems is the key to success. However, he also has said that with success comes failure. In order to find success, you have to have had failure. William himself has had many hardships in life. He came from poverty and had to work through many struggles. It is this pain and strife, he says, which he has harnessed in motivating himself to do more. **He has built upon the pain and loss to help his success blossom.**
 
-This focus on consistency and tenacity is something William carries with him through all aspects of his life and career. As a sixth degree in Kempo, he applies his Black Belt mindset to real estate. He says it’s as important to follow systems and procedures as an expert, or Black Belt, as it is as a novice, or White Belt.
+This focus on consistency and tenacity is something William carries with him through all aspects of his life and career. As a sixth degree in Kempo, he applies his black belt mindset to real estate. He says it’s as important to follow systems and procedures as an expert, or black belt, as it is as a novice, or white belt.
 
 When you are consistent, you will master what you do. Time is the key to developing a skill set.
 
-But, that’s not the only thing that sets William apart from other agents in our area. William comes from the East Coast, where people are more direct. As a result, he isn’t afraid to get down and dirty. He attributes many things to his success, **including his upbringing in the Pennsylvania culture, his Black Belt, his hardships, and his time in law enforcement.**
+But, that’s not the only thing that sets William apart from other agents in our area. William comes from the East Coast, where people are more direct. As a result, he isn’t afraid to get down and dirty. He attributes many things to his success, **including his upbringing in the Pennsylvania culture, his black belt, his hardships, and his time in law enforcement.**
 
 Many agents say that they’re the best, but the bottom line is that none of them have lived the way William has. William treats every client like family—he knows what it’s like to experience the pain of not succeeding. This is one of the reasons he is so successful. In fact, he has a 99% closing rate. **As an agent and a person, he is truthful, consistent, and successful.**
 
