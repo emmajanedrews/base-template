@@ -26,9 +26,8 @@ Smart technology has been around for awhile now, but we’re at the point now wh
 
 {% include pullquote.html %}
 
-Another thing I really like is the smart thermostat, which has been around for a while. I’ve had both Nest and Honeywell brands and have been impressed with both. They’re great solutions for saving on energy bills. You can set them up to keep the air off while you’re not home so you don’t have to run it all day.
+**Another thing I really like is the smart thermostat**, which has been around for a while. I’ve had both Nest and Honeywell brands and have been impressed with both. They’re great solutions for saving on energy bills. You can set them up to keep the air off while you’re not home so you don’t have to run it all day.
 
 **Nest cameras are great, too.**I can keep an eye on my house any time of the day and everything is in HD. It’s a great solution to help you keep your home and your family safe.
 
 I think all three of these items could make a difference for you in your home and in your life. If you have any questions for me about any of them, give me a call or send me an email. I would love to hear from you.
-<br>
