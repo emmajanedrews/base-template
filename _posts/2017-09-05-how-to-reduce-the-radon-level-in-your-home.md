@@ -30,11 +30,11 @@ Many people know that smoking is the No. 1 cause of lung cancer. However, a sign
 
 But what is radon? Where does it come from, and how can we get rid of it? To help me answer these questions and more, I was recently joined by a special guest: Jesse Stufflebeam of Xtra Mile Home Inspection Services.
 
-**Radon is an odorless, colorless, radioactive gas, which comes granite deposits in the ground.** From this granite, radium is produced and eventually turns into a gas called radon.
+**Radon is an odorless, colorless, radioactive gas, which comes from granite deposits in the ground.** From this granite, radium is produced and eventually turns into a gas called radon.
 
-Radon gas can be extremely harmful. Approximately 21,000 each year are diagnosed with lung cancer as a direct result of radon gas.
+Radon gas can be extremely harmful. Approximately 21,000 people each year are diagnosed with lung cancer as a direct result of radon gas.
 
-So, how can you test your home for its radon levels? According to Jesse, there are two ways of going about this. The first way is to go to the nearest lab and obtain a test kit. This test kit will come with two vials which you will need to set apart by about four inches apart, open, and leave to sit for approximately 48 hours.
+So, how can you test your home for its radon levels? According to Jesse, there are two ways of going about this. The first way is to go to the nearest lab and obtain a test kit. This test kit will come with two vials which you will need to set apart by about four inches apart, open them, and leave them to sit for approximately 48 hours.
 
 Once you have done this, you can send the vials off to your test lab. Because a trace amount of this gas is found in all homes, the important thing is that you pay attention to the amount of gas—which will be detailed in your results.
 
