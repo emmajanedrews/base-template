@@ -27,7 +27,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: http://www.BudaKyleHomeValues.com
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.ProsperProps.com
+  second_CTA_URL: http://www.prosperprops.com/?utm_source=vyral-newsletter&utm_medium=email
   VR_form:
 
 sidebar_CTA:
@@ -42,7 +42,7 @@ second_sidebar_CTA:
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: http://www.ProsperProps.com
+    CTA_url2: http://www.prosperprops.com/?utm_source=vyral-newsletter&utm_medium=email
 
 lender:
   show_section: false
