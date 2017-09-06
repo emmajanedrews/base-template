@@ -37,7 +37,7 @@ CTAs:
   first_CTA_URL: 'http://www.BudaKyleHomeValues.com'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://www.prosperprops.com/?utm_source=vyral-newsletter&utm_medium=email'
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=2a3ba98918
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: What’s Your -- MARKET -- Home Worth?
