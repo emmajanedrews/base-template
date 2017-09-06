@@ -21,7 +21,7 @@ youtube_code: 3U9N7DLnHyY
 
 If you’re thinking of listing your home FSBO or you already have, I have an important topic to discuss with you today. In our market, there are four different types of buyers. Understanding each of them is the key to making sure your home sells for top dollar. **Here are the four different types of buyers:**
 
-**1. Serious and in a hurry.**These buyers are the most aggressive. Whether they need to get into a home because they just sold theirs or they had an unexpected job transfer, they are ready to make a move.
+**1. Serious and in a hurry.** These buyers are the most aggressive. Whether they need to get into a home because they just sold theirs or they had an unexpected job transfer, they are ready to make a move.
 
 **2. Serious and not in a hurry.** Some of these buyers are homeowners who don’t have to move, but would if the right property came along. Some of them are first-time homebuyers who are proceeding very cautiously as to not make a mistake. {% include pullquote.html %}
 
