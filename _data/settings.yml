@@ -28,7 +28,7 @@ CTAs:
   first_CTA_URL: https://preapp1003.com/id/Patrick-Fitzgerald/
   # second_CTA_text: Home Search
   # second_CTA_URL: /homesearch/
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=6fbd80d201
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
