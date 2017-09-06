@@ -5,7 +5,7 @@
     {% assign maxPages = include.maxPages %}
   {% else %}
     <!-- maxPages attribute not passed in Liquid template, defaulting to 5 -->
-    {% assign maxPages = 5 %}
+    {% assign maxPages = 9 %}
   {% endif %}
 
   {% assign halfPages = maxPages | divided_by: 2 %}
@@ -39,7 +39,7 @@
     {% endif %}
   {% endif %}
 
-  {% if paginator.total_pages > 5 %}
+  {% if paginator.total_pages > 9 %}
     <!-- First page -->
     {% if paginator.previous_page %}
       <a href="/" class="first-page"></a>
