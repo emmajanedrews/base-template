@@ -25,7 +25,7 @@ If you’re thinking of listing your home FSBO or you already have, I have an im
 
 **2. Serious and not in a hurry.** Some of these buyers are homeowners who don’t have to move, but would if the right property came along. Some of them are first-time homebuyers who are proceeding very cautiously as to not make a mistake. {% include pullquote.html %}
 
-**3. Investors.** If you’ve already listed your home FSBO, you may have received a few calls from them already. Most of the time, these buyers are just looking for a deal, so they prey on FSBO sellers and make lowball offers in the hopes of getting a deal.
+**3. Investors.** If you’ve already listed your home For Sale By Owner, you may have received a few calls from them already. Most of the time, these buyers are just looking for a deal, so they prey on FSBO sellers and make lowball offers in the hopes of getting a deal.
 
 **4. Looky-loos.** I don’t even know if you can call them buyers. Most of the time, they can’t even qualify for a loan and are just looking at homes for fun or to get some decorating ideas. They will lead you on until the cows come home.
 
