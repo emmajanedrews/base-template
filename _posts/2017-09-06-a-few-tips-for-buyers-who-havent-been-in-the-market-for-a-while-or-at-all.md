@@ -1,7 +1,7 @@
 ---
 layout: post
-title: What to Expect When Buying Your First Home
-date: 2017-09-06 14:49:13
+title: A Few Tips for Buyers Who Haven’t Been in the Market for a While (or at All)
+date: 2017-09-06 14:49:00
 tags:
   - Buying a Home
 excerpt: >-
