@@ -28,7 +28,7 @@ CTAs:
   first_CTA_URL: http://www.johnschustergroup.com/home-evaluation.php
   second_CTA_text: Home Search
   second_CTA_URL: http://www.johnschustergroup.com/idx/map/
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=15e708f33e
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
