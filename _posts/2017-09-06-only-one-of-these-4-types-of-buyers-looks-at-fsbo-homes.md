@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Only One of These 4 Types of Buyers Looks at FSBO Homes
-date: 2017-09-06 11:39:16
+date: 2017-09-06 11:39:00
 tags:
 excerpt: >-
   If you’re trying to sell your home on your own, there’s a lot you need to
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/ss-youtube-6.jpg
-youtube_code: 3U9N7DLnHyY
+youtube_code: 2EMXS4mJX_Y
 ---
 
 
