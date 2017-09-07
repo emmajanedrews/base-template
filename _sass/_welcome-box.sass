@@ -6,6 +6,11 @@
 .welcome-0-height
 	max-height: 0
 
+#welcome::before
+	display: table
+	@-moz-document url-prefix()
+		display: inline-block
+
 .welcome-box
 	background: $brand
 	padding: 20px 0px

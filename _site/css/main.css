@@ -1280,6 +1280,11 @@ html[xmlns] .flexslider .slides {
 .welcome-0-height {
   max-height: 0; }
 
+#welcome::before {
+  display: table; }
+@-moz-document url-prefix() {
+  #welcome::before {
+    display: inline-block; } }
 .welcome-box {
   background: #810101;
   padding: 20px 0px;
@@ -2796,7 +2801,8 @@ form select {
     border: 1px solid white;
     color: #810101;
     font-size: 2rem;
-    padding: 2.4rem;
+    padding: 1.3rem;
+    height: auto;
     width: 70%;
     display: inline-block;
     margin-right: 1rem;
@@ -2942,10 +2948,6 @@ form select {
 .navbar-andross .navbar-brand {
   color: #fff;
   margin-top: 10px; }
-
-.site-title {
-  color: black;
-  font-weight: 300; }
 
 .cta2 {
   background: #810101;

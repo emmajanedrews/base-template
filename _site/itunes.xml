@@ -4,12 +4,12 @@
     <title>Southern New Hampshire Real Estate Podcast with Dave Heeter</title>
     <link>localhost:4000</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Heeter Home Team - your professional Southern New Hampshire Real Estate Agents.</description>
+    <description>If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Heeter Home Team, your professional Southern New Hampshire Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Dave Heeter</managingEditor>
-    <lastBuildDate>2017-05-02 13:54:11 -0500</lastBuildDate>
+    <lastBuildDate>2017-09-07 10:54:16 -0500</lastBuildDate>
     <media:copyright>Dave Heeter</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://i.imgur.com/Pnw5y7E.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Southern New Hampshire, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
@@ -18,47 +18,222 @@
     </itunes:owner>
     <itunes:author>Dave Heeter</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://i.imgur.com/Pnw5y7E.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Southern New Hampshire, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Southern New Hampshire Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Heeter Home Team - your professional Southern New Hampshire Real Estate Agents.</itunes:summary>
+    <itunes:summary>If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Heeter Home Team, your professional Southern New Hampshire Real Estate Agents.</itunes:summary>
       <itunes:category text="News &amp; Politics"/>
     
       <item>
-        <title>Your New Resource for All Things Real Estate</title>
-        <link>localhost:4000/your-new-resource-for-all-things-real-estate.html</link>
+        <title>How to Reduce the Radon Level in Your Home</title>
+        <link>localhost:4000/how-to-reduce-the-radon-level-in-your-home.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Dave Heeter</author>
+        <pubDate>2017-09-05 08:43:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Dave+Heeter/Videos/Southern+New+Hampshire+Real+Estate+Agent-+What+You+Should+Know+About+Radon.mp4</guid>
+        <description>
+
+Many people know that smoking is the No. 1 cause of lung cancer. However, a significantly smaller number of people are aware of the second leading cause—which is radon.
+
+But what is radon? Where does it come from, and how can we get rid of it? To help me answer these questions and more, I was recently joined by a special guest: Jesse Stufflebeam of Xtra Mile Home Inspection Services.
+
+Radon is an odorless, colorless, radioactive gas, which comes from granite deposits in the ground. From this granite, radium is produced and eventually turns into a gas called radon.
+
+Radon gas can be extremely harmful. Approximately 21,000 people each year are diagnosed with lung cancer as a direct result of radon gas.
+
+So, how can you test your home for its radon levels? According to Jesse, there are two ways of going about this. The first way is to go to the nearest lab and obtain a test kit. This test kit will come with two vials which you will need to set apart by about four inches apart, open them, and leave them to sit for approximately 48 hours.
+
+Once you have done this, you can send the vials off to your test lab. Because a trace amount of this gas is found in all homes, the important thing is that you pay attention to the amount of gas—which will be detailed in your results.
+
+Anything above 4.0 picoliters will need to be promptly taken care of.
+
+“Approximately 21,000 each year are diagnosed with lung cancer as a direct result of radon gas.”
+
+The second method of testing for radon gas is by using a continuous radon monitor. This device will take measurements of the radon levels each hour. Once sufficient data has been compiled, an average will be calculated. However, ownership of this device requires certification.
+
+So once your testing is complete, what steps can you take to get rid of the radon gas?
+
+The first thing you’ll want to do is to contact a radon mitigation company, who will then come out to assess the basement or lower living area of your home. They will also check for, and fill, any cracks that may exist in your flooring.
+
+Also, if you have a sump pump, they will likely fit it with a special lid to avoid further radon coming up from the ground.
+
+Next, they will install a mitigation system—a 4-inch pipe that goes into the ground and connects to a fan that will pump radon gas out of your home. Following installation, the radon gas levels in your home should be normal within about four days.
+
+However, after 10 years have passed from the time you installed your system, you will want to conduct another radon test to be safe.
+
+For more information about radon gas, click here.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Heeter/Videos/Southern+New+Hampshire+Real+Estate+Agent-+What+You+Should+Know+About+Radon.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Heeter/Videos/Southern+New+Hampshire+Real+Estate+Agent-+What+You+Should+Know+About+Radon.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Many people know that smoking is the No.1 cause of lung cancer, but did you know that radon gas is the second? Approximately 21,000 people each year are diagnosed with lung cancer as a direct result of radon gas. Today, I’ve got some information about what radon is, where it comes from, and how to get rid of it. The most important thing is that you are proactive about testing for the radon in your home. To learn more, watch my latest video.</itunes:subtitle>
+        <itunes:author>Dave Heeter</itunes:author>
+        <itunes:summary>Many people know that smoking is the No.1 cause of lung cancer, but did you know that radon gas is the second? Approximately 21,000 people each year are diagnosed with lung cancer as a direct result of radon gas. Today, I’ve got some information about what radon is, where it comes from, and how to get rid of it. The most important thing is that you are proactive about testing for the radon in your home. To learn more, watch my latest video.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Southern New Hampshire, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>5 Costly First-Time Homebuyer Mistakes & How to Avoid Them</title>
+        <link>localhost:4000/5-costly-first-time-homebuyer-mistakes-how-to-avoid-them.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Dave Heeter</author>
+        <pubDate>2017-07-31 08:47:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Dave+Heeter/Southern+New+Hampshire+Real+Estate+Agent-+5+Costly+Mistakes+to+Avoid.mp4</guid>
+        <description>
+Buying your first home can be very exciting, but many first-time homebuyers make a few mistakes. There are five costly mistakes that you should avoid:
+
+1. Starting the search process without getting pre-qualified. I’ve seen buyers find homes that they love only to speak with the mortgage company and discover that they don’t qualify to buy that home. Speaking to your mortgage person and getting pre-qualified prior to your home search is an important first step.
+
+2. Buying a home without considering your future needs. You never want to spend more than you need to on a home. You also don’t want to buy more home than you need, or less than you might need. It’s important to think three years down the road. Most people own homes for between three and seven years. If you buy less home than you need, then it could be expensive to sell and buy another home when making that purchase.
+
+3. Trying to navigate the process without an experienced buyer’s agent.Think of it this way: If you are entering an expensive race car in a race, would you hire a new, part-time mechanic or an experienced, full-time mechanic? You need a full-time, experienced buyer’s agent to guide you through this process. The good news is that working with a buyer’s agent won’t cost you any money in most cases, as the buyer’s agent is usually paid by the seller.
+“Make sure you get pre-qualified before you start looking at homes.”
+4. Paying for a professional home inspection without taking advantage of the inspection report. Inspections provide critical information about what’s wrong with the house, as well as upcoming repairs. The report is a great tool to help you understand your home. Homes don’t come with an owner’s manual, so knowing what you need to do to maintain that home is important.
+
+5. Spending money on an expensive item before closing.Your interest rate and your mortgage are based on your FICO score. Buying an expensive car, furniture, or appliances could affect your FICO score and negatively impact your interest rate. In fact, a big purchase may even prevent you from closing on the home, so hold off on those expensive items until after you’ve closed on the property.
+
+If you have any other questions about buying a home, just give me a call or send me an email. I would be happy to help you!
+
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Heeter/Southern+New+Hampshire+Real+Estate+Agent-+5+Costly+Mistakes+to+Avoid.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Heeter/Southern+New+Hampshire+Real+Estate+Agent-+5+Costly+Mistakes+to+Avoid.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>There are five common, costly mistakes that first-time homebuyers make. I’ll share how to avoid them today</itunes:subtitle>
+        <itunes:author>Dave Heeter</itunes:author>
+        <itunes:summary>There are five common, costly mistakes that first-time homebuyers make. I’ll share how to avoid them today</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Southern New Hampshire, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to Get Rid of Private Mortgage Premiums for Good</title>
+        <link>localhost:4000/how-to-get-rid-of-private-mortgage-premiums-for-good.html</link>
+        
+          <category>Home Buyer Tips</category>
         
           <category>Real Estate</category>
         
         <author>Dave Heeter</author>
-        <pubDate>2017-04-18 19:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2017-06-26 08:28:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Dave+Heeter/Southern+New+Hampshire+Real+Estate+Agent-+How+to+Get+Rid+of+PMI.mp4</guid>
         <description>
-}I’ve got some really exciting news to share today. I’ve recently decided to start sharing some of my expertise with you through a real estate video blog. I wanted to make sure I included all of you.
+I recently met up with Charley Farley, branch manager at Merrimack Mortgage, to talk a little bit about private mortgage insurance and how homeowners can get rid of it.
 
-Each month, I’ll be sending out two emails addressing trends in our local real estate market. I’ll also touch on changes in the lending world and providing you with tips to navigate this wonderful world of real estate. All of those industries are intertwined, and in order to take full advantage of the real estate market, you need to know about all of them.
+Private mortgage insurance (or PMI) comes in different varieties. For example, you pay it as a one-time funding fee for a VA loan. With an FHA loan, you would pay a monthly mortgage insurance premium. With a conventional mortgage, it’s just PMI. It’s defined as the fee the borrower pays when they buy a home but don’t put a full 20% down.
 
-Rather than simply guess what’s on your mind, I wanted to reach out to you and find out what you have specific questions about.
+In some instances, you can get rid of PMI and not have to pay it anymore. With the VA loan, it’s all paid at once in the funding fee, but with FHA loans, the PMI lasts for the life of the loan. The only way to get rid of PMI on an FHA loan is to sell the property, pay off the mortgage, or refinance the home.
 
-“What questions do you have about real estate?”
+It’s easy to get rid of PMI on a conventional loan. Call the number on your mortgage statement and speak to a customer service rep and demonstrate that you’ve fulfilled three requirements.
+ “It’s relatively easy to get rid of PMI on a conventional mortgage.”
+You have to demonstrate that you’ve made payments on time, you’ve made at least 24 payments, and that you have 20% equity in the property. A Realtor can help you verify whether you’ve got 20% equity in the home to save money on an appraisal. Otherwise, that appraisal could cost $400 to $500.
 
-Are there concepts that confuse you? Are you curious about the market in your particular neighborhood? If you have a question, there is probably someone out there with a similar question. If you have one, reach out to me and I’ll do my best to answer the question via video so someone else who has that question can hear the answer too.
+This topic came from a really good question posed by Dave Alphonso, and since we selected it, we’ll send Dave a $25 gift card.
 
-If you have any questions at all about buying or selling real estate, give me a call or send me an email. I would love to hear from you.
+If you have any questions about mortgages or financing for Charley, you can reach him at (603) 471-9300.
+
+If you have any questions for us about buying or selling a home in New Hampshire or about real estate in general, give me call or send me an email. I’m always happy to help!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Heeter/Southern+New+Hampshire+Real+Estate+Agent-+How+to+Get+Rid+of+PMI.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Heeter/Southern+New+Hampshire+Real+Estate+Agent-+How+to+Get+Rid+of+PMI.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>I want to introduce you to your new real estate resource.</itunes:subtitle>
+        <itunes:subtitle>If you have a certain type of loan that requires you to pay for private mortgage insurance, it’s easier to get rid of that cost than most people think.</itunes:subtitle>
         <itunes:author>Dave Heeter</itunes:author>
-        <itunes:summary>I want to introduce you to your new real estate resource.</itunes:summary>
+        <itunes:summary>If you have a certain type of loan that requires you to pay for private mortgage insurance, it’s easier to get rid of that cost than most people think.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Southern New Hampshire, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Should You Prepare Your House for the Market?</title>
+        <link>localhost:4000/how-should-you-prepare-your-house-for-the-market.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Dave Heeter</author>
+        <pubDate>2017-05-31 19:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Dave+Heeter/Southern+New+Hampshire+Real+Estate+Agent-+Preparing+Your+Home+for+the+Market.mp4</guid>
+        <description>
+What do you need to do to get your house ready for sale? I believe that you should pay most of your attention to repairs, decluttering and depersonalizing, and cleaning your house from top to bottom.
+
+When it comes to repairs, a lot of people aren’t sure where to start. Should you remodel the bathroom? Put in hardwood floors? Add granite countertops? The answer really depends on the price range of your house. If it’s going to cost you more money to make those repairs than what you’re going to get back, then it’s not worth it.
+
+Instead, focus on repairs that you might have neglected over the years. Take a walk around the outside and inside of your house. If you have stained carpeting, replace it. If the walls are scratched, consider painting. Keep a list of everything you need to do and start early so that if you need any help, you have plenty of time to hire someone.
+
+It’s a really good idea to have a schedule for repairs. If you leave unlimited time to the work done, then you will probably take that time.
+
+Next, you need to depersonalize and declutter your home. The goal is to make your house look like you don’t live there. Take down personal photos so that people can picture themselves and their family in your home.
+“Depersonalize your home so that buyers can picture themselves living there.”
+
+Take a look at your decor. Remember, the decor that’s appealing to you may not appeal to everyone, so consider packing some things up. Clear off your kitchen and bathroom counters and consider putting away your winter or summer clothes. Even a big closet can feel small if there are a lot of clothes in there. You have to pack anyway, so save yourself some time and put certain items away now.
+
+Finally, clean your house from top to bottom. This is the most important part of preparing your house for the market. Pay attention to the kitchen and the bathrooms, and make sure that your windows are crystal clear.
+
+Many people think they can handle cleaning on their own, but it can be well worth the money to hire a professional cleaning service. Hiring a professional also takes some of the stress out of those last-minute preparations.
+
+If you have any questions about this or any other topic, please don’t hesitate to call me. I look forward to hearing from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Heeter/Southern+New+Hampshire+Real+Estate+Agent-+Preparing+Your+Home+for+the+Market.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Heeter/Southern+New+Hampshire+Real+Estate+Agent-+Preparing+Your+Home+for+the+Market.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>There are three main steps to preparing your home for the market, and I’ll give you those tips today.</itunes:subtitle>
+        <itunes:author>Dave Heeter</itunes:author>
+        <itunes:summary>There are three main steps to preparing your home for the market, and I’ll give you those tips today.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Southern New Hampshire, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>10 Tips for Buying a Home in Our Seller’s Market</title>
+        <link>localhost:4000/10-tips-for-buying-a-home-in-our-sellers-market.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Dave Heeter</author>
+        <pubDate>2017-05-09 19:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Dave+Heeter/Southern+New+Hampshire+Real+Estate+Agent-+10+Tips+for+Winning+Your+Dream+Home.mp4</guid>
+        <description>
+Southern New Hampshire is experiencing one of the hottest real estate markets in recent history due to low inventory. There is a lot more demand than there is supply, giving sellers all the negotiating power. So what’s a buyer to do?
+
+It’s not always about offering the highest price. Don’t get me wrong, the offer needs to be strong, but coming in with favorable terms for the seller can improve your position over a buyer who’s coming in with a slightly higher offer. That being said, I have a few tips you can use if you’re looking to buy a home in this seller’s market:
+
+
+  Be financially ready.You need to have a pre-qualification letter.  Many offers get overlooked because the buyer is not yet qualified.
+  Consider your loan type. Conventional loans are considered a little less risky than an FHA loan. When viewed side by side, the offer with the conventional loan will have the edge.
+  Shorten your loan approval time. Once you’ve gotten a pre-qualification letter, continue to work with your lender to get pre-approved. A pre-approval means you can shorten the commitment time on the purchase of the home. It also shows the seller you are taking the necessary steps to get your mortgage.
+  Consider pre-inspecting the property. If you can get the property inspected prior to writing a purchase in sale, you can omit the contingency for inspection on your offer. This will put you in a great spot compared to other offers with inspection contingencies.
+
+“Getting your offer accepted isn’t always about offering the highest price.”
+
+  Waive the appraisal contingency. If you are comfortable that the price you’re offering is the price you’re going to pay, you can remove the appraisal contingency. If you can’t afford to do that, consider offering a premium above the appraisal, which means you’re willing to offer a certain dollar amount above what the appraisal values the home at.
+  Earnest money. Typically earnest money is between 1% and 3%. Offering between 3% and 5% lets the seller know you are in a good spot financially.
+  Consider non-refundable funds. If you’re comfortable with the property and your ability to get a loan, you may want to make your earnest money non-refundable.
+  Favorable closing date. Find out when the seller wants to close and let them know you can be flexible. In many cases, the seller might not know exactly when they will be able to move into their new home. Giving them some flexibility will make them feel more comfortable with you as a buyer.
+  The “New Love Letter.” For some time now, buyers have found that a letter or an email can tug at the heartstrings of a seller and maybe help sway their decision in your favor.
+  Consider making a video. Pull out your cell phone and make a recording of you and your family. Let the seller know how much you appreciate the house and how you can see yourself and your family growing in the home. Upload it to YouTube and send it as a private message to the seller. This can make a real difference when it comes to being noticed.
+
+
+If you have any questions on this topic or are looking to buy or sell a home, please don’t hesitate to give me a call or send me an email. I look forward to hearing from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Heeter/Southern+New+Hampshire+Real+Estate+Agent-+10+Tips+for+Winning+Your+Dream+Home.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Heeter/Southern+New+Hampshire+Real+Estate+Agent-+10+Tips+for+Winning+Your+Dream+Home.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you’re looking to buy a home in our market, you’ll need to know how to make your offer stand out. I’ve got 10 tips to help you do just that.</itunes:subtitle>
+        <itunes:author>Dave Heeter</itunes:author>
+        <itunes:summary>If you’re looking to buy a home in our market, you’ll need to know how to make your offer stand out. I’ve got 10 tips to help you do just that.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Southern New Hampshire, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
     <copyright>Dave Heeter</copyright>
     <media:credit role="author">Dave Heeter</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Heeter Home Team - your professional Southern New Hampshire Real Estate Agents.</media:description>
+    <media:description type="plain">If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Heeter Home Team, your professional Southern New Hampshire Real Estate Agents.</media:description>
   </channel>
 </rss>
