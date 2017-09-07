@@ -21,7 +21,7 @@ youtube_code: MtO4GRXjnPQ
 
 {% include youtube.html %}
 
-There are thousands of people on my website, www.northernvahomefinder.com, where you can find many different houses, set favorites, and narrow down the things you’re looking for in a home.
+There are thousands of people on my website, [www.northernvahomefinder.com](http://www.northernvahomefinder.com/), where you can find many different houses, set favorites, and narrow down the things you’re looking for in a home.
 
 However, I notice that a lot of people using this search site aren’t entirely serious about buying yet.
 
