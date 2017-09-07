@@ -21,7 +21,7 @@ client:
   phone2:
   phone2_type:
   email: jschuster@gmail.com
-  url: johnschustergroup.com
+  url: http://johnschustergroup.com
 
 CTAs:
   first_CTA_text: Home Valuation
