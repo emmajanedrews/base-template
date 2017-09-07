@@ -5,6 +5,15 @@ layout: default
 <h1>Client Audio Testimonials</h1>
 
 <div class="client-testimonial">
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/337871582&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<p class="testimonial-text">
+"We sold our house very quickly. It seems like it worked out well.
+</p>
+<p class="testimonial-author">
+-Lisa R.
+</p>
+<hr>
+<div class="client-testimonial">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/337870855&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 <p class="testimonial-text">
 "We were really happy with everything we did with The Canovo Group. Our buyer's agent was really fast at getting us in to see what we wanted and getting us exactly what we wanted. Our transaction agent was just great about everything that needed to be handled. They were right on top of things as well. We were very pleased. We were initially on the market last fall, and we had a contract fall through. Our agent actually called us up after the fact to talk and help us through it. Even though we weren't on the market anymore. She followed back up with us a number of times in the spring to help us get going again."
