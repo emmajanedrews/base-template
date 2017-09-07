@@ -40,6 +40,6 @@ Finally, there’s the home inspection. What does the home inspection cover, and
 
 The inspector will spend two to four hours at the home prior to closing. They are only going to be able to acknowledge any issues that they notice on that day, so the inspection is not a true guarantee. After all, an issue could arise the next week. However, it’s still very important that you have the inspection done. You need to look at the age of appliances and the mechanics in your home so that you can budget properly for the maintenance of your property.
 
-Keep these three things in mind before you purchase your home. Whether you are buying your first home or buying your first home in a long time,** we are here to make the process easier for you.**
+Keep these three things in mind before you purchase your home. Whether you are buying your first home or buying your first home in a long time,&nbsp;**we are here to make the process easier for you**.
 
 If you have any other questions, please don’t hesitate to give us a call or send us an email. We would be happy to help you!
