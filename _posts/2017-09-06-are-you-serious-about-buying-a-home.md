@@ -29,7 +29,7 @@ For many, you’ve gotten to know me over time. Despite the valuable information
 
 This is all simply because people sometimes don’t feel ready to move forward. In any real estate transaction, you have to feel ready.
 
-It’s not about when I’m ready, it’s about when you are. But, I’d like to propose something to you: **Get serious sooner.**
+It’s not about when I’m ready- it’s about when you are. But, I’d like to propose something to you: **get serious sooner.**
 
 Right now is a great time to buy a home and I’d love to help. My team and I have so many resources for you to use as you move forward with the search for your next home.
 
