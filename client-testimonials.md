@@ -5,6 +5,15 @@ layout: default
 <h1>Client Audio Testimonials</h1>
 
 <div class="client-testimonial">
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/335274986&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<p class="testimonial-text">
+"We ended up with a house. He is awesome. He was fantastic and he was very patient. It took us a very long time to find just what we were looking for and he never gave up. What realtor would stick with you for two years? So it was all above and beyond. I would recommend him to anybody."
+</p>
+<p class="testimonial-author">
+-Sarah L.
+</p>
+<hr>
+<div class="client-testimonial">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/335274793&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 <p class="testimonial-text">
 "The results were very good. We worked with them over a period of time looking for land up in the Bigfork area. Scott's been incredibly responsive to all of our requests. He went out of his way on weekends to show us property when we were up there visiting and when we made the offer on the transaction that we just closed on. He went out of his way to get a lot of information for us and negotiate the deal. We're extremely satisfied. Given our experience with Scott and his team we would certainly use him again and recommend him to family, friends, or anybody. He's probably knowledgeable as anybody in that area so he comes highly recommended as far as we're concerned."
