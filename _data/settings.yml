@@ -31,7 +31,7 @@ CTAs:
   VR_form: http://oi.vresp.com?fid=6fbd80d201
 
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/004.jpg
+  - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "Apply Now"
     CTA_text: "Using our online loan application, you can take your time and complete your application whenever it is convenient for you. And, you can always save your work and come back and complete it later if you need to."
     CTA_link_text: "Learn More"
@@ -87,8 +87,8 @@ podcast:
 
 images:
   client_headshot_path: /img/headshot.png
-  hero_logo_path: /img/logo.png
-  logo_width_number: 20
+  # hero_logo_path: /img/logo.png
+  # logo_width_number: 20
   hero_text: The VA Loan Guy Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg

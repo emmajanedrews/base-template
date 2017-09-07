@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title> Real Estate Podcast with Patrick Fitzgerald</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://www.thevaloanguy.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://www.thevaloanguy.com"/>
     <description>Patrick Fitzgerald, the VA Loan Guy, is located in San Antonio, Texas and is a true “One Stop Lender”. We originate, underwrite, and close all types of loans. We offer Texas Vet, Veterans, FHA, Conventional, Jumbo, Adjustable Rate, and Investment products.</description>
     <language>en</language>
     <managingEditor>Patrick Fitzgerald</managingEditor>
-    <lastBuildDate>2017-09-06 13:19:22 -0500</lastBuildDate>
+    <lastBuildDate>2017-09-07 13:04:49 -0500</lastBuildDate>
     <media:copyright>Patrick Fitzgerald</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://www.thevaloanguy.com/img/podcast.jpg"/>
     <media:keywords>Texas Veteran Loans, VA Loans, The VA Loan Guy, Loans for Active Military, Mortgage Banking Firm, Mortgage Banking in Texas, VA Mortgages</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,7 +18,7 @@
     </itunes:owner>
     <itunes:author>Patrick Fitzgerald</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://www.thevaloanguy.com/img/podcast.jpg"/>
     <itunes:keywords>Texas Veteran Loans, VA Loans, The VA Loan Guy, Loans for Active Military, Mortgage Banking Firm, Mortgage Banking in Texas, VA Mortgages</itunes:keywords>
     <itunes:subtitle>Get the answers to the most popular questions for you and to get the necessary tools to make a proper decision on a Home Loan using the Texas Veterans Land Board Program.</itunes:subtitle>
     <itunes:summary>Patrick Fitzgerald, the VA Loan Guy, is located in San Antonio, Texas and is a true “One Stop Lender”. We originate, underwrite, and close all types of loans. We offer Texas Vet, Veterans, FHA, Conventional, Jumbo, Adjustable Rate, and Investment products.</itunes:summary>
@@ -26,7 +26,7 @@
     
       <item>
         <title>Can You Build With the VA Loan?</title>
-        <link>localhost:4000/can-you-build-with-va-loan.html</link>
+        <link>http://www.thevaloanguy.com/can-you-build-with-va-loan.html</link>
         
           <category>VA Loans</category>
         
@@ -68,7 +68,7 @@ The funds from this 30-year VA loan will pay off the construction loan. It’s r
 If you have any other questions or would like more information, remember that it costs nothing to talk. Feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/Videos/2017/August/The+VA+Loan+Guy-+Can+You+Build+With+the+VA+Loan%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.thevaloanguy.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/Videos/2017/August/The+VA+Loan+Guy-+Can+You+Build+With+the+VA+Loan%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -87,7 +87,7 @@ Can you use a VA loan to build on land you own? Of course you can.
       
       <item>
         <title>Are VA Appraisals Any Different from Conventional Ones? </title>
-        <link>localhost:4000/are-va-appraisals-any-different-from.html</link>
+        <link>http://www.thevaloanguy.com/are-va-appraisals-any-different-from.html</link>
         
           <category>VA Loans</category>
         
@@ -121,7 +121,7 @@ If there’s a problem with the value, under the VA loan process we have an oppo
 If you have any additional questions about VA appraisals or any other VA loan-related topic, please give me a call. I’d be happy to help you.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.thevaloanguy.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -140,7 +140,7 @@ Today I wanted to talk about VA appraisals and how they differ from conventional
       
       <item>
         <title>How Taxes and Insurance Figure into VA Loans</title>
-        <link>localhost:4000/how-taxes-and-insurance-figure-into-va.html</link>
+        <link>http://www.thevaloanguy.com/how-taxes-and-insurance-figure-into-va.html</link>
         
           <category>VA Loans</category>
         
@@ -176,7 +176,7 @@ I would advise you to bundle your insurance if you can. If you combine your home
 Like I always say, it doesn’t cost a penny to talk, so if you have any questions at all, give me a call. I’d be happy to help!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/Videos/2017/July/The+VA+Loan+Guy-+Taxes%252C+VA+loans%252C+Insurance+July+1.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.thevaloanguy.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/Videos/2017/July/The+VA+Loan+Guy-+Taxes%252C+VA+loans%252C+Insurance+July+1.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -195,7 +195,7 @@ Today I wanted to talk a bit more in-depth about how property taxes and homeowne
       
       <item>
         <title>Manufactured Homes Made Simple</title>
-        <link>localhost:4000/manufactured-homes-made-simple.html</link>
+        <link>http://www.thevaloanguy.com/manufactured-homes-made-simple.html</link>
         
           <category>VA Loans</category>
         
@@ -235,7 +235,7 @@ Also, while many may say that acreages are not allowed under a VA loan with a ma
 If you want more information on VA loans and manufactured homes, or if I can answer any other questions for you, feel free to get in touch by giving me a call or sending me an email. I look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/Videos/2017/July/The+VA+Loan+Guy-+Manufactured+Homes+Made+Simple.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.thevaloanguy.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/Videos/2017/July/The+VA+Loan+Guy-+Manufactured+Homes+Made+Simple.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -254,7 +254,7 @@ There are a few key rules you should know about in order to get a VA loan under 
       
       <item>
         <title>What Is the Anatomy of a VA Loan?</title>
-        <link>localhost:4000/what-is-anatomy-of-va-loan.html</link>
+        <link>http://www.thevaloanguy.com/what-is-anatomy-of-va-loan.html</link>
         
           <category>VA Loans</category>
         
@@ -282,7 +282,7 @@ If the purchase price of the home is above $424,100, you would have to pay 25% o
 If you have any questions about the anatomy of a VA loan, don’t hesitate to reach out to me. As I always say, it doesn’t cost a penny to talk. Just give me a call and I’d be happy to help.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/The+VA+Loan+Guy-+How+veterans+financing+works.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.thevaloanguy.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/The+VA+Loan+Guy-+How+veterans+financing+works.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -301,7 +301,7 @@ If you’re thinking of applying for a VA loan, here’s what you should know ab
       
       <item>
         <title>Types of Property You Can Buy With VA Financing</title>
-        <link>localhost:4000/types-of-property-you-can-buy-with-va.html</link>
+        <link>http://www.thevaloanguy.com/types-of-property-you-can-buy-with-va.html</link>
         
           <category>Military Loans</category>
         
@@ -333,7 +333,7 @@ Finally, you can, in fact, use a VA loan for a home with an agricultural tax exe
 If you have any other questions about the types of property you can buy with a VA loan, don’t hesitate to give me a call or send me an email. Like I always say, it doesn’t cost a penny to talk.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/The+VA+Loan+Guy-+The+kinds+of+properties+you+can+purchase.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.thevaloanguy.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/The+VA+Loan+Guy-+The+kinds+of+properties+you+can+purchase.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -352,7 +352,7 @@ VA loans allow you to buy a wide variety of properties.
       
       <item>
         <title>Can You Still Get a VA Loan Post-Bankruptcy?</title>
-        <link>localhost:4000/can-you-still-get-va-loan-post.html</link>
+        <link>http://www.thevaloanguy.com/can-you-still-get-va-loan-post.html</link>
         
           <category>VA Loans</category>
         
@@ -378,7 +378,7 @@ Instead, they will send you a new certificate of eligibility request, note how m
 Remember, if you have any questions about this or any other subject, feel free to give me a call. I’d be happy to talk to you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/The+VA+Loan+Guy-+Veterans+financing+post-bankruptcy.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.thevaloanguy.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/The+VA+Loan+Guy-+Veterans+financing+post-bankruptcy.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -397,7 +397,7 @@ If you had a bankruptcy in the past and it involved a home that you used a VA lo
       
       <item>
         <title>Who Qualifies for VA Loans?</title>
-        <link>localhost:4000/who-qualifies-for-va-loans.html</link>
+        <link>http://www.thevaloanguy.com/who-qualifies-for-va-loans.html</link>
         
           <category>VA Loans</category>
         
@@ -425,7 +425,7 @@ The main thing that the VA wants to achieve is making sure the people taking adv
 If you have any other questions please feel free to give me a call or send me an email. I look forward to hearing from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/The+VA+Loan+Guy-+Who+Qualifies+for+a+VA+Loan%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.thevaloanguy.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/The+VA+Loan+Guy-+Who+Qualifies+for+a+VA+Loan%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -444,7 +444,7 @@ Who can qualify for a VA loan? Do you have to have military benefits? I’ll go 
       
       <item>
         <title>Answering Some Common VA Loan Questions</title>
-        <link>localhost:4000/answering-some-common-va-loan-questions.html</link>
+        <link>http://www.thevaloanguy.com/answering-some-common-va-loan-questions.html</link>
         
           <category>VA Loans</category>
         
@@ -472,7 +472,7 @@ Yes, you can have two VA loans at once, but there are some restrictions. You wil
 If you have any questions about this topic or any mortgage needs, give me a call or send me an email. I look forward to helping you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/The+VA+Loan+Guy-+Can+You+Have+Two+VA+Loans+at+Once%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.thevaloanguy.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/The+VA+Loan+Guy-+Can+You+Have+Two+VA+Loans+at+Once%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -491,7 +491,7 @@ I get a lot of questions about VA loans and the eligibility restrictions. Can yo
       
       <item>
         <title>I Specialize in Working with Military Clients</title>
-        <link>localhost:4000/i-specialize-in-working-with-military0.html</link>
+        <link>http://www.thevaloanguy.com/i-specialize-in-working-with-military0.html</link>
         
           <category>Military Loans</category>
         
@@ -515,7 +515,7 @@ One of the unique things I do is meet with my clients in person. A lot of our co
 If you have any questions for me, I would be glad to answer them. I’m here six days a week in my office and when you dial me, you will talk to me. I don’t have a receptionist or assistant answering my calls for me. I’m here for you, so don’t hesitate to give me a call. It doesn’t cost a thing to talk to me on the phone. I look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/The+VA+Loan+Guy-+My+specialty+is+military+loans.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.thevaloanguy.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/The+VA+Loan+Guy-+My+specialty+is+military+loans.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -534,7 +534,7 @@ I offer all types of mortgages, but my specialty is making sure military personn
       
       <item>
         <title>I Specialize in Working with Military Clients</title>
-        <link>localhost:4000/i-specialize-in-working-with-military.html</link>
+        <link>http://www.thevaloanguy.com/i-specialize-in-working-with-military.html</link>
         
           <category>Military Loans</category>
         
@@ -558,7 +558,7 @@ One of the unique things I do is meet with my clients in person. A lot of our co
 If you have any questions for me, I would be glad to answer them. I’m here six days a week in my office and when you dial me, you will talk to me. I don’t have a receptionist or assistant answering my calls for me. I’m here for you, so don’t hesitate to give me a call. It doesn’t cost a thing to talk to me on the phone. I look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/The+VA+Loan+Guy-+My+specialty+is+military+loans.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.thevaloanguy.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/The+VA+Loan+Guy-+My+specialty+is+military+loans.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
