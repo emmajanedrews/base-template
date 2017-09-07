@@ -27,12 +27,12 @@ Michael Sklarz, the CEO of Collateral Analytics, co-authored the study with Dr. 
 
 Because the full study was very lengthy, we’ve included it in a PDF that you can find here. [link to pdf]
 
-However, there was one main point uncovered by this study that I want to share with you. According to this study, For Sale By Owner listings sold for 5.5% less on average when compared to listings sold with a real estate agent.
+{% include pullquote.html %}
+
+However, there was one main point uncovered by this study that I want to share with you. According to this study, **For Sale By Owner listings sold for 5.5% less on average when compared to listings sold with a real estate agent.**
 
 Most homeowners who try to list on their own are doing so because they believe it will save money.
 
 What many people fail to realize is that listing this way is not only much more work, it also nets less money.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
-
-{% include pullquote.html %}
