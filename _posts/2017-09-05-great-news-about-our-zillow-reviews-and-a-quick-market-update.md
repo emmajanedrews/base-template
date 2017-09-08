@@ -4,7 +4,8 @@ title: Great News About Our Zillow Reviews and a Quick Market Update
 tags:
   - Market Update
 excerpt: What’s the latest word on our Baltimore market as we head into fall?
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Wes+Peters/Baltimore+Metro+Real+Estate-+We+hit+200+Zillow+reviews+thanks+to+you.mp4
 pullquote: We’ll see an uptick in the market in the next 60 to 75 days.
 enclosure_type: video/mp4
 enclosure_time:
