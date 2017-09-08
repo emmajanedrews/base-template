@@ -8,7 +8,8 @@ excerpt: >-
   I frequently get asked questions about home upgrades and the returns they may
   or may not bring. Many people wonder whether they’ll get the money they invest
   into improving their home back.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jody+Donaldson/Northern+Virginia+Real+Estate+Agent-+Don%2527t+waste+your+time+with+these+upgrades.mp4
 pullquote: Upgrades that seem valuable to you may not be valuable to potential buyers.
 enclosure_type: video/mp4
 enclosure_time:
