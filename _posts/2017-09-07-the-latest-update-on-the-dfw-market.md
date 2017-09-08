@@ -20,7 +20,7 @@ youtube_code: t5UuctpYFSI
 
 I’ve got a quick market update to share with you today regarding DFW real estate. To put it simply, we’re in a great market right now. Last year, we were the second-strongest market in the entire country. Since then, we’ve gotten even stronger.
 
-Our home sales are up by 5% in the last year. Our average sale price is also up to $299,000 after being at $261,000 just a few years ago. Homes are also continuing to sell even quicker, with the average days on market currently sitting at 41. With a lack of available homes to purchase, buyers are having to compete over what’s available.That’s part of the reason we’re seeing all these increases.
+Our home sales are up by 5% in the last year. Our average sale price is also up to $299,000 after being at $261,000 just a few years ago. Homes are also continuing to sell even quicker, with the average days on market currently sitting at 41. With a lack of available homes to purchase, buyers are having to compete over what’s available. That’s part of the reason we’re seeing all these increases.
 
 {% include pullquote.html %}
 
