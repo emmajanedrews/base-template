@@ -13,7 +13,7 @@ enclosure: >-
 pullquote: Accountability is a huge part of what we do on our team.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/robellis-screenshot-tube-01-01-01-01-01-01-01-01-01-01-01-01-01.jpg
 youtube_code: 3u_N7x_NwGo
 ---
