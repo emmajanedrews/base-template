@@ -1,5 +1,11 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
-    audio:
+  - quote: Tim went far and beyond what I expected from a real estate agent. He drove me around the city and took me to as many places and I needed to see. This was the first property I’ve ever bought in my life so there was nothing he wouldn’t do to make sure it was right. There really is nothing he wouldn’t do to please his clients!
+    name: Courtney
+    audio: /uploads/audio/courtney.mp3
+  - quote: I’ve worked with Tim on 3 transactions now and we’ve always had fantastic results! He’s just a really good Realtor and a really good guy. He’s always accessible and I really feel like he has my best interests in mind and that’s what’s so commendable. If it’s the right time to buy he’ll tell you if it’s the right offer or the wrong offer. There’s just something about him and his company where you just trust what they’re telling you. He’s really a guidance counselor, not just a real estate agent.
+    name: Will
+    audio: /uploads/audio/will.mp3
+  # - quote:
+  #   name:
+  #   audio:

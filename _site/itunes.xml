@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>SoCal Real Estate Podcast with Tim Majka</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://socalrealestatetips.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://socalrealestatetips.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Imagine Realty - your professional SoCal Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Tim Majka</managingEditor>
-    <lastBuildDate>2017-09-08 15:20:37 -0500</lastBuildDate>
+    <lastBuildDate>2017-09-08 15:55:10 -0500</lastBuildDate>
     <media:copyright>Tim Majka</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://socalrealestatetips.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in SoCal, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,7 +18,7 @@
     </itunes:owner>
     <itunes:author>Tim Majka</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://socalrealestatetips.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in SoCal, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the SoCal Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Imagine Realty - your professional SoCal Real Estate Agents.</itunes:summary>
@@ -26,7 +26,7 @@
     
       <item>
         <title>Estate Planning After the Loss of a Loved One</title>
-        <link>localhost:4000/estate-planning-after-loss-of-loved-one.html</link>
+        <link>http://socalrealestatetips.com/estate-planning-after-loss-of-loved-one.html</link>
         
           <category>Long Beach Real Estate Buyer & Seller Tips</category>
         
@@ -50,7 +50,7 @@ Next, see a professional. See an attorney that regularly practices in estate pla
 If you have any questions for Reba, you can call her at 562-621-6300 or visit her firm’s website at LongBeachLaw.com. If you have any questions for me, feel free to give me a call or shoot me an email. I look forward to hearing from you.
 </description>
         <enclosure url="http://vyralmarketing.s3.amazonaws.com/Tim%20Majka/Long%20Beach%20Real%20Estate%20Agent-%20Estate%20Planning%20After%20the%20Loss%20of%20a%20Loved%20One.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://socalrealestatetips.com" height="72" width="72"/>
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Tim%20Majka/Long%20Beach%20Real%20Estate%20Agent-%20Estate%20Planning%20After%20the%20Loss%20of%20a%20Loved%20One.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -69,7 +69,7 @@ When settling the estate of a recently deceased loved one, there are three key s
       
       <item>
         <title>How Pet Owners Can Sell Their Home Quickly & for Top Dollar</title>
-        <link>localhost:4000/how-pet-owners-can-sell-their-home.html</link>
+        <link>http://socalrealestatetips.com/how-pet-owners-can-sell-their-home.html</link>
         
           <category>Long Beach Real Estate Seller Tips</category>
         
@@ -97,7 +97,7 @@ Third, remove your pet during any showings. Regardless of the time and money you
 If you need more tips on how to sell your home with pets or you’re looking to buy or sell a home, feel free to give us a call or send us an email. We’d be happy to assist you.
 </description>
         <enclosure url="http://vyralmarketing.s3.amazonaws.com/Tim%20Majka/Long%20Beach%20Real%20Estate%20Agent-%20How%20Pet%20Owners%20Can%20Sell%20Their%20Home%20Quickly%20%2526%20for%20Top%20Dollar.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://socalrealestatetips.com" height="72" width="72"/>
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Tim%20Majka/Long%20Beach%20Real%20Estate%20Agent-%20How%20Pet%20Owners%20Can%20Sell%20Their%20Home%20Quickly%20%2526%20for%20Top%20Dollar.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -116,7 +116,7 @@ There are three guidelines you can follow if you’re a home seller and you have
       
       <item>
         <title>3 Reasons to Consider Selling Now</title>
-        <link>localhost:4000/3-reasons-to-consider-selling-now.html</link>
+        <link>http://socalrealestatetips.com/3-reasons-to-consider-selling-now.html</link>
         
           <category>Long Beach Real Estate Seller Tips</category>
         
@@ -142,7 +142,7 @@ What does all this mean for you? Well if you’re thinking about selling, right 
 It’s also a good time to buy with interest rates staying low and steady. This market is a win-win situation if you’re looking to make a move. If you or somebody you know is interested in buying or selling soon and taking advantage of this market, give us a call or send us an email. We look forward to hearing from you.
 </description>
         <enclosure url="http://vyralmarketing.s3.amazonaws.com/Tim%20Majka/Long%20Beach%20Real%20Estate%20Agent-%203%20Reasons%20to%20Consider%20Selling%20Now.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://socalrealestatetips.com" height="72" width="72"/>
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Tim%20Majka/Long%20Beach%20Real%20Estate%20Agent-%203%20Reasons%20to%20Consider%20Selling%20Now.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -161,7 +161,7 @@ Our market conditions are ripe for those looking to move into a new home. You ca
       
       <item>
         <title>Your Best Options When Selling and Buying Simultaneously</title>
-        <link>localhost:4000/your-best-options-when-selling-and.html</link>
+        <link>http://socalrealestatetips.com/your-best-options-when-selling-and.html</link>
         
           <category>Long Beach Real Estate Buyer & Seller Tips</category>
         
@@ -185,7 +185,7 @@ Like the first option, this option keeps you from paying two mortgages or moving
 If you’d like to see which option would work best for you or you are looking to buy or sell a home, please feel free to give me a call or send me an email. I’m always happy to help.
 </description>
         <enclosure url="http://vyralmarketing.s3.amazonaws.com/Tim%20Majka/Long%20Beach%20Real%20Estate%20Agent-%20Your%20Best%20Options%20When%20Selling%20and%20Buying%20Simultaneously.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://socalrealestatetips.com" height="72" width="72"/>
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Tim%20Majka/Long%20Beach%20Real%20Estate%20Agent-%20Your%20Best%20Options%20When%20Selling%20and%20Buying%20Simultaneously.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -204,7 +204,7 @@ Selling a home while trying to buy a new one can be a major obstacle. Luckily, t
       
       <item>
         <title>How Can a Reverse Mortgage Help You Purchase a Home?</title>
-        <link>localhost:4000/how-can-reverse-mortgage-help-you.html</link>
+        <link>http://socalrealestatetips.com/how-can-reverse-mortgage-help-you.html</link>
         
           <category>Long Beach Real Estate Buyer Tips</category>
         
@@ -234,7 +234,7 @@ I want to thank Andrew for joining me today. If you know anyone who is looking t
 If you or anyone you know are looking to buy, sell, or downsize, feel free to reach out to me. I’d be happy to help.
 </description>
         <enclosure url="http://vyralmarketing.s3.amazonaws.com/Tim%20Majka/Long%20Beach%20Real%20Estate%20Agent-%20How%20Can%20a%20Reverse%20Mortgage%20Help%20You%20Purchase%20a%20Home%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://socalrealestatetips.com" height="72" width="72"/>
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Tim%20Majka/Long%20Beach%20Real%20Estate%20Agent-%20How%20Can%20a%20Reverse%20Mortgage%20Help%20You%20Purchase%20a%20Home%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -253,7 +253,7 @@ Andrew Scammon from Alpine Mortgage joins me today to help explain how you can u
       
       <item>
         <title>What to Expect Going Forward in the LA Real Estate Market</title>
-        <link>localhost:4000/what-to-expect-going-forward-in-la-real.html</link>
+        <link>http://socalrealestatetips.com/what-to-expect-going-forward-in-la-real.html</link>
         
           <category>Real Estate Market Update</category>
         
@@ -281,7 +281,7 @@ This year, the California Association of Realtors forecasts that we will have an
 If you’d like me to tell you exactly what your home is worth or you’re thinking about buying a home in the LA area, give me a call or send me an email. I’d be glad to help!
 </description>
         <enclosure url="http://vyralmarketing.s3.amazonaws.com/Tim%20Majka/Long%20Beach%20Real%20Estate%20Agent-%20What%20to%20Expect%20Going%20Forward%20in%20the%20LA%20Real%20Estate%20Market.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://socalrealestatetips.com" height="72" width="72"/>
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Tim%20Majka/Long%20Beach%20Real%20Estate%20Agent-%20What%20to%20Expect%20Going%20Forward%20in%20the%20LA%20Real%20Estate%20Market.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -300,7 +300,7 @@ Today we’re taking a look back at how the market performed in 2016 and what we
       
       <item>
         <title>Thank you for participating in our 2017 Valentine's Day giveaway!</title>
-        <link>localhost:4000/have-some-sees-candy-on-us-this.html</link>
+        <link>http://socalrealestatetips.com/have-some-sees-candy-on-us-this.html</link>
         
           <category>Customer Appreciation</category>
         
@@ -314,7 +314,7 @@ Happy Valentine’s Day!
 Valentine’s Day is right around the corner, and we just wanted to take the time to say thank you! We had a great response from our clients for our See’s Candy Gift Card Giveaway. Due to such a great response, the giveaway has now come to a close.We hope your Valentine’s Day is a day filled with love and friendship, and looking forward to seeing you in 2017.6
 </description>
         <enclosure url="http://vyralmarketing.s3.amazonaws.com/Tim%20Majka/Long%20Beach%20Real%20Estate%20Agent-%20Jan%201.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://socalrealestatetips.com" height="72" width="72"/>
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Tim%20Majka/Long%20Beach%20Real%20Estate%20Agent-%20Jan%201.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -333,7 +333,7 @@ Happy Valentine’s Day!
       
       <item>
         <title>Happy Holidays from Imagine Realty</title>
-        <link>localhost:4000/happy-holidays-from-imagine-realty.html</link>
+        <link>http://socalrealestatetips.com/happy-holidays-from-imagine-realty.html</link>
         
           <category>Long Beach Happy Holidays</category>
         
@@ -353,7 +353,7 @@ We hope you enjoy this holiday season and make some wonderful memories with your
 Remember, we are always here to help you in any way we can. Just give us a call.
 </description>
         <enclosure url="http://vyralmarketing.s3.amazonaws.com/Tim%20Majka/Long%20Beach%20Real%20Estate%20Agent-%20Dec%202016%20Holiday%20Video.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://socalrealestatetips.com" height="72" width="72"/>
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Tim%20Majka/Long%20Beach%20Real%20Estate%20Agent-%20Dec%202016%20Holiday%20Video.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -372,7 +372,7 @@ Friends,
       
       <item>
         <title>Should You Have Your Home in a Trust?</title>
-        <link>localhost:4000/should-you-have-your-home-in-trust.html</link>
+        <link>http://socalrealestatetips.com/should-you-have-your-home-in-trust.html</link>
         
           <category>Home Trusts</category>
         
@@ -390,7 +390,7 @@ The con to having your home or property in a trust is that is does cost a little
 If you have any other questions, you can get a hold of Reba by phone at (562-621-6300) or go to www.longbeachlaw.com.
 </description>
         <enclosure url="http://vyralmarketing.s3.amazonaws.com/Tim%20Majka/Long%20Beach%20Real%20Estate%20Agent-%20Dec%201.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://socalrealestatetips.com" height="72" width="72"/>
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Tim%20Majka/Long%20Beach%20Real%20Estate%20Agent-%20Dec%201.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -409,7 +409,7 @@ The main pro to having your home or property in a trust is avoiding probate. Pro
       
       <item>
         <title>Are the Holidays a Good Time to Sell in LA & Orange County?</title>
-        <link>localhost:4000/are-holidays-good-time-to-sell-in-la.html</link>
+        <link>http://socalrealestatetips.com/are-holidays-good-time-to-sell-in-la.html</link>
         
           <category>L.A. & Orange County Real Estate Update</category>
         
@@ -439,7 +439,7 @@ In our experience, now is a better time to sell than if you wait. There are five
 If you or someone you know is looking to buy or sell a home in Long Beach, LA, or Orange County, give us a call or send us an email. We look forward to hearing from you.
 </description>
         <enclosure url="https://vyralmarketing.s3.amazonaws.com/Tim%20Majka/Long%20Beach%20Real%20Estate%20Agent-%20Nov%202.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://socalrealestatetips.com" height="72" width="72"/>
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Tim%20Majka/Long%20Beach%20Real%20Estate%20Agent-%20Nov%202.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
