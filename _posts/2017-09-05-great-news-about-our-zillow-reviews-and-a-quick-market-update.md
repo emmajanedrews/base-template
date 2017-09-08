@@ -20,7 +20,7 @@ What’s the latest word on our Baltimore market as we head into fall?
 
 First, I have some great news to share with you. Our team has reached 200 reviews on Zillow. It’s taken us years to accumulate this number, and it’s a milestone we’re extremely proud of. If you’re a past client of ours and you contributed one of those reviews, I want to personally thank you.
 
-![](/uploads/versions/300---x----300-334x---.jpg)
+&nbsp;
 
 Also, I want to remind you **that we’re hosting an outdoor cookout for all of our past clients on September 23rd at the Columbia Sports Park at 5 p.m.** My wife’s been putting a lot of effort into planning this event, so if you’re a past client and you haven’t gotten your invitation in the mail, we’d love for you to come join us. We’ll have a live DJ, an open bar, and plenty of fun activities for the whole family to enjoy.
 
