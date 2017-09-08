@@ -23,7 +23,7 @@ youtube_code: 3u_N7x_NwGo
 
 Tracking your numbers and staying accountable is going to make a huge difference in your success. This isn’t something I started seriously myself until this year, but it’s incredibly important.
 
-Recently we’ve been coaching with a Kansas organization that closes over 1,000 transactions and year and ranks No. 11 on RealTrends. During our on-site visit in June, something we noticed about all of the people on the team is that everyone tracked their numbers.
+Recently we’ve been coaching with a Kansas organization that closes over 1,000 transactions and year and ranks number 11 on RealTrends. During our on-site visit in June, something we noticed about all of the people on the team is that everyone tracked their numbers.
 
 Ever since then, this is something my team and I have implemented into our organization as well.
 
