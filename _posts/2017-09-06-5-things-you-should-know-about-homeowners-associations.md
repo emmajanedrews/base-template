@@ -8,7 +8,7 @@ excerpt: >-
   Before you purchase a home that’s part of a homeowners association, there are
   five questions you should ask.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2017/East+Bay+Real+Estate+Agent-+HOAs.mp4
+  https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2017/East+Bay+Real+Estate+Agent-+Should+You+Purchase+a+Home+Within+a+Homeowners+Association%253F.mp4
 pullquote: What is covered by the HOA and what benefits are available?
 enclosure_type: video/mp4
 enclosure_time:
