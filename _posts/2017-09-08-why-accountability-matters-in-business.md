@@ -43,6 +43,8 @@ Once that networking translates into deals, we compile that data onto what we ca
 
 Keeping track of these measures allows us to talk about our struggles and how we can improve. **Determining where we need improvements is one of the best ways to better ourselves as a business and as individuals**.
 
+[**Join us at our next happy hour!**](https://www.facebook.com/events/358537467915919/?acontext=%7B%22action_history%22%3A%22[%7B%5C%22surface%5C%22%3A%5C%22page%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22page_upcoming_events_card%5C%22%2C%5C%22extra_data%5C%22%3A[]%7D]%22%2C%22has_source%22%3Atrue%7D)
+
 We all help each other to achieve this. If one person is seeing more success in a certain area, they’ll often reach out and assist those who are struggling in that same realm.
 
 Accountability is a huge part of what we do on our team. When people join us, we put together business plans and hold them accountable to their goals. Tracking numbers is a solid way to achieve specific goals.
