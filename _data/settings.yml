@@ -27,7 +27,7 @@ CTAs:
   first_CTA_URL: http://lexingtonhomesnow.com/a/r/home_values?ms=314
   second_CTA_text: Home Search
   second_CTA_URL: http://lexingtonhomesnow.com/a/r/search?rgu=0#/hsearch?go=go&ob=price
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=8e3f5230b7
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
