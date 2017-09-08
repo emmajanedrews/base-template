@@ -18,7 +18,7 @@ youtube_code: aNkp5Uqul5A
 
 What’s the latest word on our Baltimore market as we head into fall?
 
-First, I have some great news to share with you. Our team has reached 200 reviews on Zillow. It’s taken us years to accumulate this number, and it’s a milestone we’re extremely proud of. If you’re a past client of ours and you contributed one of those reviews, I want to personally thank you.
+First, I have some great news to share with you. Our team has reached 200 reviews on Zillow. It’s taken us years to accumulate this number, and it’s a milestone we’re extremely proud of. If you’re a past client of ours and you contributed one of those reviews, I want to personally thank you.![](/uploads/versions/300-1---x0-0-300-334-300-334x---.jpg)
 
 ![](/uploads/versions/300---x----300-334x---.jpg)
 
