@@ -27,7 +27,7 @@ CTAs:
   first_CTA_URL: http://abeltejeda.com/loan-calculator/
   second_CTA_text: Apply Online
   second_CTA_URL: http://abeltejeda.com/pre-qualification/
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=979c5ae663
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
