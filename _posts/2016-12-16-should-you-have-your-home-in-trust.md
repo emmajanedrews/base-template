@@ -12,7 +12,7 @@ title: Should You Have Your Home in a Trust?
 date: '2016-12-16T11:24:00.000-08:00'
 author: Vyral Admin
 tags:
-- home trusts
+- Home Trusts
 modified_time: '2016-12-20T14:28:29.800-08:00'
 thumbnail: https://i.ytimg.com/vi/MLE3Zh30LJ8/default.jpg
 blogger_id: tag:blogger.com,1999:blog-442710829312238588.post-3521878982741668531

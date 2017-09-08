@@ -11,7 +11,7 @@ client:
   license_number:
   about_markdown: |
 
-  market:
+  market: SoCal
   brand: Imagine Realty
   brokerage:
   address: '3030 Old Ranch Pkwy #400 Seal Beach, CA 90720'
@@ -99,7 +99,7 @@ images:
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#b40101'
-  theme_color: '#999'
+  theme_color: '#000'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -108,7 +108,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: rgba(29, 39, 49, .5)
 
 buttons:
   button_radius_number: 0
