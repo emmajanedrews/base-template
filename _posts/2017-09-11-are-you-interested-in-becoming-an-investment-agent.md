@@ -13,7 +13,7 @@ enclosure: >-
 pullquote: There’s always room on our team for people who have a great mindset.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/robellis-screenshot-email-01-01-01-01-01-01-01-01-01-01-01-1.jpg
 youtube_code: eKiWk4MsJQg
 ---
