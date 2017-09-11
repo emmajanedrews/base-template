@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Do For Sale By Owner Listings Really Work?
+title: 'STUDY: For Sale by Owners Don''t Save Money'
 date: 2017-09-07 00:00:00
 tags:
   - Home Seller Tips
