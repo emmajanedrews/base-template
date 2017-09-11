@@ -20,7 +20,7 @@ youtube_code: GscDSa_CRyo
 
 {% include youtube.html %}
 
-I wanted to take just a moment today to talk to you a little bit about my site, geralddurhamgroup.com. My goal for this site was to provide a place where buyers and sellers alike could look at updated home listings as soon as they come on the market. In a fast-paced market like this one, it’s essential because many websites don’t update often or accurately.
+I wanted to take just a moment today to talk to you a little bit about my site, *[**geralddurhamgroup.com**](https://www.geralddurhamgroup.com/)*. My goal for this site was to provide a place where buyers and sellers alike could look at updated home listings as soon as they come on the market. In a fast-paced market like this one, it’s essential because many websites don’t update often or accurately.
 
 Homes are being sold within days, if not hours, in this market. Our site allows you to set up searches and search alerts that can be as broad or as detailed as you want it to be. You can search via a specific location, size of home, acreage, or plenty of other amenities. You can then have updates sent to you with new homes that match your criteria daily, weekly, or monthly. **You can even have them sent to you the instant that a home matching your criteria hits the market**.
 
