@@ -9,7 +9,7 @@ excerpt: >-
   plenty of them in Delaware.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Don+Williams/+Videos/2017/September/Don+Williams+Group-+Why+Consider+a+Move+to+Delaware%253F.mp4
-pullquote: The reasons why people are moving here are plain to see.
+pullquote: It's plain to see why people are moving to the Delaware coast.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -22,7 +22,7 @@ youtube_code: jQBXYLtPT9Q
 
 The coastal communities in Delaware have experienced unprecedented growth over the past few years. The reasons why are plain to see.
 
-If you and your spouse are nearing retirement or are empty nesters looking to downsize, coming here to the Delaware coast is a great option. &nbsp;Delaware has some of the lowest real estate taxes in the country. **There’s no sales tax here, either. This is one of the primary reasons that retirees look for homes here.**
+If you and your spouse are nearing retirement or are empty nesters looking to downsize, coming here to the Delaware coast is a great option.  Delaware has some of the lowest real estate taxes in the country. **There’s no sales tax here, either. This is one of the primary reasons that retirees look for homes here.**
 
 {% include pullquote.html %}
 
