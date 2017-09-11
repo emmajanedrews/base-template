@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Curb appeal is an essential part of home selling. Here’s what you should be
   focusing on.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/+Videos/2017/September/Memphis+Real+Estate+Agent-+A+Few+Easy+Ways+to+Increase+Your+Curb+Appeal.mp4
 pullquote: 'The better the curb appeal, the more interested the buyer is.'
 enclosure_type: video/mp4
 enclosure_time:
