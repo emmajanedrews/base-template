@@ -5,7 +5,8 @@ date: 2017-09-11 13:00:00
 tags:
   - Home Seller Tips
 excerpt: Making your move smooth and stress-free is simple if you follow these tips.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Scott+Irvin/+Videos/Greater+Philadelphia+Real+Estate-+How+Do+You+Know+Which+Moving+Company+Is+Right+for+You%253F+(1).mp4
 pullquote: 'When looking for a moving company, make sure you protect yourself.'
 enclosure_type: video/mp4
 enclosure_time:
