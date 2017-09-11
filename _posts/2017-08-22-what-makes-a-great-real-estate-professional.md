@@ -1,7 +1,7 @@
 ---
 layout: post
-title: What Makes a Great Real Estate Agent?
-date: 2017-08-22 15:05:22
+title: What Makes a Great Real Estate Professional?
+date: 2017-08-22 15:05:00
 tags:
   - Real Estate
 excerpt: >-
@@ -33,4 +33,3 @@ You have to have support in your business. What do I mean by that? I don’t mea
 If you’ve ever considered joining a team of top-producing agents in our area, this is your ticket. We just finished training two agents who are already getting sales and working up great numbers. **We are looking to hire two new agents to our team, so if you’re in our area and you’re interested in joining us, please give me a call.**
 
 If you have any additional questions or would just like to talk about how to grow your real estate business, give me a call. I’d be happy to help!
-<br>&nbsp;
