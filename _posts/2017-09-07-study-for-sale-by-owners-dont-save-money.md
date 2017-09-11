@@ -25,7 +25,7 @@ Recently, Collateral Analytics conducted a study that compared homeowners who li
 
 Michael Sklarz, the CEO of Collateral Analytics, co-authored the study with Dr. Norman Miller—a real estate professor at the University of San Diego.
 
-Because the full study was very lengthy, we’ve included it in a PDF that you can find here. [link to pdf]
+Because the full study was very lengthy, we’ve included it in a PDF that you can find [**here.**](https://docs.google.com/viewerng/viewer?url=https://www.inman.com/wp-content/uploads/2017/08/CA-RESEARCH-Saving-Real-Estate-Commissions-at-Any-Price-1.pdf&amp;hl=en_US#101922730)
 
 {% include pullquote.html %}
 
