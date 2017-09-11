@@ -1,14 +1,15 @@
 ---
 layout: post
 title: 'Introducing Veronika, Team Lally’s Newest Member'
-date: 2017-09-11 11:19:47
+date: 2017-09-11 11:19:00
 tags:
   - Real Estate
 excerpt: >-
   Our newest team member, Veronika Edwards, was born and raised in Russia and
   came to the U.S. at age 19. Her life took her all over the country until she
   settled in Clarksville, Tennessee...
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Real+Estate+Agents-+Meet+Veronika+Edwards.mp4
 pullquote: We’re excited to have her on the team.
 enclosure_type: video/mp4
 enclosure_time:
