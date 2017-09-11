@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/d4gjOW1k3gw'
 
 Not everybody is a competitor. Sometimes in a multiple offer situation, you’ll have people pull out just because they don’t want to compete. If buyers back out, you may not end up in a multiple offer position in the end. But how do you get your offer accepted?
 
-The first thing to do is to **look at the value of the property you’re interested in and figure out the highest price you are willing to pay** for that property. You want to make sure that you put down an substantial amount of earnest money.
+The first thing to do is to **look at the value of the property you’re interested in and figure out the highest price you are willing to pay** for that property. You want to make sure that you put down a substantial amount of earnest money.
 
 Price rules—and not just your purchase price. Your price at the bottom line rules as well. If you can afford to pay your closing costs instead of asking the seller to pay them, then do that. It’ll put you ahead of other offers that ask for those closing costs to be paid.
 
