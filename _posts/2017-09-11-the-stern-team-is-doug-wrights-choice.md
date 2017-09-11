@@ -34,6 +34,6 @@ We’ve got something to share with you today that’s a little different from o
 
 {% include pullquote.html %}
 
-Doug also talked about our popular home selling program. **After we sit down and agree to a time frame and price to sell your home, we’ll buy the home at that price if we fail to find a buyer.** You can also pull your listing with us at anytime if you aren’t satisfied with us. We don’t think it will come to that, though—we know Salt Lake City and Wasatch Front real estate, and we know how to get results in these markets.
+Doug also talked about our popular home selling program. **After we sit down and agree to a time frame and price to sell your home, we’ll buy the home at that price if we fail to find a buyer.** You can also pull your listing with us at any time if you aren’t satisfied with us. We don’t think it will come to that, though—we know Salt Lake City and Wasatch Front real estate, and we know how to get results in these markets.
 
 If you have any questions for us or you’re looking to buy, sell, or invest in Salt Lake City real estate, give us a call or send us an email. We would love to hear from you soon.
