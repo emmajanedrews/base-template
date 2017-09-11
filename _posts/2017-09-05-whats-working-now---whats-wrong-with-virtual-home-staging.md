@@ -43,8 +43,8 @@ Let’s say you can’t afford to stage your home to get top dollar and your hom
 
 Honestly, I’ve never tried virtual staging. If the right occasion arose, I would give it a shot. That said, I really want my clients to focus on what’s working now.
 
-If you are thinking about selling your home, <u>sign up</u> for our Seller Half Hour seminar online, where you’ll learn everything you need to know about selling a home in just 30 minutes.
+If you are thinking about selling your home, [<u>sign up</u>](www.homesellerhalfhour.tv)&nbsp;for our Seller Half Hour seminar online, where you’ll learn everything you need to know about selling a home in just 30 minutes.
 
-You can take a quick tour of our sold listing at 3540 39th Street <u>here</u>.
+You can take a quick tour of our sold listing at 3540 39th Street [<u>here</u>](www.354039th.com).
 
 Thanks for watching *“What’s Working Now!”* Stay tuned for our next video. In the meantime, if you have any other questions about real estate, just give me a call or send me an email. I would be happy to help you!
