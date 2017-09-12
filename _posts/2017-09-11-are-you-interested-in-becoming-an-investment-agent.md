@@ -21,7 +21,7 @@ youtube_code: eKiWk4MsJQg
 
 {% include youtube.html %}
 
-One of the primary focuses of the REllis Team is investment real estate. What’s it like being an investment agent, though?
+One of the primary focuses of the REllis Group is investment real estate. What’s it like being an investment agent, though?
 
 **Being an investment agent means working with individuals whose primary goal is to purchase real estate with the intent of making money**. We have both a residential team and an investment team, and we’re always on the lookout for investment-minded agents to work with us.
 
@@ -39,4 +39,4 @@ We’re on all of these platforms every month and engaging more business-minded 
 
 We’re always growing and looking for great talent, and there’s always room on our team for people who have a great mindset. I was a finance major at Ohio State, so I’ve always connected with the numbers. I enjoy the challenge that comes with working on the investment side of real estate.
 
-If you have the same mindset and are interested in becoming a full-time investment agent on our team, please don’t hesitate to give me a call or shoot me an email. I’d love to talk with you. <br>
+If you have the same mindset and are interested in becoming a full-time investment agent on our team, please don’t hesitate to give me a call or shoot me an email. I’d love to talk with you.&nbsp;
