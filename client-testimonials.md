@@ -10,7 +10,7 @@ layout: default
 "Ultimately, we got a house we're happy with, so that's the main thing. A couple of times I was able to schedule things around my own schedule where they were able to show us houses on really short notice which was very helpful."
 </p>
 <p class="testimonial-author">
--John Nielsen
+-John N.
 </p>
 <hr>
 <div class="client-testimonial">
