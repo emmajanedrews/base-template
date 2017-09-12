@@ -19,14 +19,14 @@ youtube_code: 3fOFum2eynI
 
 {% include youtube.html %}
 
-When people buy a home, a number of factors will influence their decision, including the home’s look, the number of bedrooms, the style of building, and what amenities come with the building. Child-related amenities are also important factors—is the school within walking distance, as well as any parks or similar facilities?
+When people buy a home, a number of factors will influence their decision, **including the home’s look, the number of bedrooms, the style of building, and what amenities come with the building.** Child-related amenities are also important factors—is the school within walking distance, as well as any parks or similar facilities?
 
-A lot of people may not realize this as they look through the history of Hoboken being a popular spot for pub-crawling students out of college, but the community has become much more family-friendly in recent times.
+A lot of people may not realize this as they look through the history of Hoboken being a popular spot for pub-crawling students out of college, **but the community has become much more family-friendly in recent times.**
 
 {% include pullquote.html %}
 
-New construction and school districts have encouraged families with kids to move to the area—here, schools for younger children are free. Additionally, Hoboken receives high scores for walkability, restaurants, and nightlife.
+New construction and school districts have encouraged families with kids to move to the area—here, schools for younger children are free. Additionally, **Hoboken receives high scores for walkability, restaurants, and nightlife.**
 
-People come from the New York area to take advantage of the city’s schools to save money— private schools can cost thousands of dollars elsewhere.
+People come from the New York area to take advantage of the city’s schools to save money— **private schools can cost thousands of dollars elsewhere.**
 
 If you have any questions or topic ideas for future videos feel free to contact us. We look forward to hearing from you!
