@@ -28,4 +28,4 @@ Homes are being sold within days, if not hours, in this market. Our site allows 
 
 The site has several tabs on it that provide you with additional information and resources. If you’re curious about what your home is worth, you can get a free, instant home valuation. If you want to get pre-approved, there is a tab that will get you in contact with one of our preferred lenders.
 
-If you’ve been searching for a home online but you haven’t visited my site yet, **I encourage you to visit it and see for yourself how helpful it can be. It’s all free—there’s no catch.** Even if we call you. If you have any additional questions for us or you want to get together for a cup of coffee, give me a call or send me an email. I look forward to hearing from you soon.
+If you’ve been searching for a home online but you haven’t visited my site yet, **I encourage you to visit it and see for yourself how helpful it can be. It’s all free—there’s no catch.**&nbsp;If you have any additional questions for us or you want to get together for a cup of coffee, give me a call or send me an email. I look forward to hearing from you soon.
