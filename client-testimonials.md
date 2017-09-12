@@ -5,6 +5,15 @@ layout: default
 <h1>Client Audio Testimonials</h1>
 
 <div class="client-testimonial">
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/337871863&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<p class="testimonial-text">
+"Ultimately, we got a house we're happy with, so that's the main thing. A couple of times I was able to schedule things around my own schedule where they were able to show us houses on really short notice which was very helpful."
+</p>
+<p class="testimonial-author">
+-John Nielsen
+</p>
+<hr>
+<div class="client-testimonial">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/337871582&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 <p class="testimonial-text">
 "We sold our house very quickly. It seems like it worked out well.
