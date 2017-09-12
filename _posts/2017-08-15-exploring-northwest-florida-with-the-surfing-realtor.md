@@ -4,7 +4,8 @@ title: Exploring Northwest Florida With the Surfing Realtor
 tags:
   - Real Estate
 excerpt: "Recently, my sister Amanda Abbott was featured on Wyndham's\_website. Amanda is a fantastic real estate agent who enjoys exploring all that Northwest Florida has to offer."
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Nathan+Abbott/Nathan+Abbott+Team-+Meet+the+Surfing+Realtor.mp4
 pullquote: >-
   Amanda encourages others to find a balance between hard work and taking time
   for yourself.
@@ -18,8 +19,7 @@ youtube_code: cbSyDAaMBlk
 
 {% include youtube.html %}
 
-Recently, my sister Amanda Abbott was featured on Wyndham's [website.](http://www.vacationdifferently.com/we-travel-for-adventure-a-locals-take-on-northwest-florida-adventure-part-1/){:target="_blank"}
- Amanda is a fantastic real estate agent who enjoys exploring all that Northwest Florida has to offer.
+Recently, my sister Amanda Abbott was featured on Wyndham's [website.](http://www.vacationdifferently.com/we-travel-for-adventure-a-locals-take-on-northwest-florida-adventure-part-1/) Amanda is a fantastic real estate agent who enjoys exploring all that Northwest Florida has to offer.
 
 Our dad and our uncle started one of the first real estate companies in the area—Abbott Realty. I jumped into the real estate business soon after college, but Amanda explored a little before returning home and becoming an agent in her own right.
 
@@ -35,4 +35,4 @@ You can see a little of how Amanda spends her days in the video above. **Congrat
 
 As always, if you have any real estate questions, just give me a call or send me an email. I would be happy to help you.
 
-- Nathan Abbott
+* Nathan Abbott
