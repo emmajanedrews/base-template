@@ -31,7 +31,7 @@ That’s why you need a professional to represent you, alleviate that responsibi
 
 **Second, do you think you have the networking capabilities to sell your own home?** This means having a network of thousands of local agents, the marketing expertise, the capability to field calls at midnight or times when you may be busy at your real job. These tasks can become very challenging, but that’s what we agents do for a living.
 
-**Third, do you know how to correctly price your home?** The tools, systems, and data you need to price your home are very important because you don’t want to overprice it. Pricing your home correctly right out to the gate is crucial to a successful home sale. This is why we provide precise market data to our clients—so we always set the right price? Once we do that, we’ll sell it within 14 days and for 99.8% of its price.
+**Third, do you know how to correctly price your home?** The tools, systems, and data you need to price your home are very important because you don’t want to overprice it. Pricing your home correctly right out of the gate is crucial to a successful home sale. This is why we provide precise market data to our clients—so we always set the right price. Once we do that, we’ll sell it within 14 days and for 99.8% of its price.
 
 <br>**Finally, can you be your own deterrent to selling your home?** Unfortunately, yes. Again, it all relates to your emotional connection to your house. It can be easy to get mad when talking to buyers about your own home, and overcoming that feeling is a big challenge.
 
