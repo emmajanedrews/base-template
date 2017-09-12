@@ -34,8 +34,8 @@ However, Zillow can be used to watch market trends—you can figure out whether 
 
 {% include pullquote.html %}
 
-But in terms of predicting a concrete value on your house, Zillow can’t see inside your house; it can’t see your interior or alter any estimates based on the condition of your home. The only way to get an accurate valuation of your home is to have a professional come out and give you a value.
+But in terms of predicting a concrete value for your house, Zillow can’t see inside your house; it can’t see your interior or alter any estimates based on the condition of your home. The only way to get an accurate valuation of your home is to have a professional come out and give you a value.
 
-**Zillow only comes within five percent of what a home will eventually sell for, and only 50% of the time.&nbsp;**It’s not actually much better than a coin toss. In fact, Spencer Rascoff, the CEO of Zillow, recently sold his house for a little over a million dollars, but the Zestimate at the time showed his house was worth $1.75 million, 40% more than what it was sold for.
+**Zillow only comes within 5% of what a home will eventually sell for, and only 50% of the time.&nbsp;**It’s not actually much better than a coin toss. In fact, Spencer Rascoff, the CEO of Zillow, recently sold his house for a little over a million dollars, but the Zestimate at the time showed his house was worth $1.75 million, 40% more than what it was sold for.
 
-If you want to know what your house is worth, go ahead and get on Zillow to see whether your house value is going up or down, and by how much, but if you want an exact figure, give us a call at our Portland number (503) 828-9551, or our Vancouver number (360) 356-1941. We look forward to hearing from you.
+If you want to know what your house is worth, go ahead and get on Zillow to see whether your house value is going up or down and by how much, but if you want an exact figure, give us a call at our Portland number (503) 828-9551 or our Vancouver number (360) 356-1941. We look forward to hearing from you.
