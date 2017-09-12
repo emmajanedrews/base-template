@@ -14,7 +14,7 @@ client:
   market: Calgary
   brand: Eric Mortimer & Associates
   brokerage: Maxwell Capital Realty
-  address: '#150, 75 Crowfoot Rise NW Calgary, Alberta T3G 4P5'
+  address: '#150, 75 Crowfoot Rise NW Calgary, Alberta T2E 0B8'
   phone: 403-827-8081
   phone_type:
   phone2:
@@ -30,14 +30,14 @@ CTAs:
   VR_form:
 
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/005.jpg
+  - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free -- MARKET -- Home Value Report"
     CTA_url: http://ericmortimer.com/sell
 
 second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/004.jpg
+  - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
