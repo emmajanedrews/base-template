@@ -5,10 +5,11 @@ date: 2017-09-12 11:00:00
 tags:
   - Real Estate
 excerpt: >-
-  https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/+Video/2017/September/Central+PA+Real+Estate+Agent-+Creating+a+For-Profit+Business+With+a+Nonprofit+Purpose.mp4
+  You can still run a for-profit business and have a nonprofit purpose. Here’s
+  what I mean.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/+Video/2017/September/Central+PA+Real+Estate+Agent-+Creating+a+For-Profit+Business+With+a+Nonprofit+Purpose.mp4
-pullquote:
+pullquote: This referral program has brought joy to many people.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
