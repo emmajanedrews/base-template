@@ -31,3 +31,5 @@ When I show a home to a buyer, the first thing they notice is its curb appeal. T
 **3. Make sure lightbulbs are working, doorknobs and knockers are polished, and the doorbell is working properly.**
 
 These are just a few of the things you can do to help buyers have a fantastic first impression when they come to see your home. If you have any questions for us about getting your home ready for sale, don’t hesitate to reach out. We would love to help.
+
+&nbsp;
