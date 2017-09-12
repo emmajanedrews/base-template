@@ -20,7 +20,7 @@ youtube_code: TWITNcfjx5Y
 
 {% include youtube.html %}
 
-When I show a home to a buyer, the first thing they notice is its curb appeal. That’s pretty much a term for how a home looks from the curb. The better the curb appeal, the more interested a buyer is in seeing the inside of your home. Here are a few areas you should focus your efforts on in order to improve your curb appeal.
+When I show a home to a buyer, the first thing they notice is its curb appeal. That’s a term for how a home looks from the curb. The better the curb appeal, the more interested a buyer is in seeing the inside of your home. Here are a few areas you should focus your efforts on in order to improve your curb appeal.
 
 **1. Paint.** Buyers are going to notice cracked or chipping paint. Even if it’s not cracked or chipped, a fresh coat of paint can really increase your curb appeal.
 
