@@ -1,17 +1,23 @@
 ---
 layout: post
 title:
-date:
 tags:
 excerpt:
-enclosure:
-pullquote:
-enclosure_type: video/mp4
-enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+use_youtube_image: false
 ---
-{% include youtube.html %}
+<h3></h3> - <a href=""></a>
+Sent to:   |  Opens:   |   Clicks:
 
-{% include pullquote.html %}
+<h3></h3> - <a href=""></a>
+Sent to:   |  Opens:   |   Clicks:
+
+<h3></h3> - <a href=""></a>
+Sent to:   |  Opens:   |   Clicks:
+
+<h3></h3> - <a href=""></a>
+Sent to:   |  Opens:   |   Clicks:
+
+<h3></h3> - <a href=""></a>
+Sent to:   |  Opens:   |   Clicks:
+
+<hr>
