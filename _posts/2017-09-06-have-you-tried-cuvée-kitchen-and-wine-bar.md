@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Today I’m excited to feature a great local restaurant that is sure to impress:
   Cuvée Kitchen and Wine Bar.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Nathan+Abbott/Nathan+Abbott+Team-+Have+you+tried+this+unique+local+restaurant%253F.mp4
 pullquote: >-
   Cuvée Kitchen is a place where people can gather to enjoy food, drink, and
   company.
@@ -44,6 +45,6 @@ Food and drink aren’t the only things Cuvée Kitchen has to offer. **Each week
 
 Each of these hours will feature small bites, sushi, local fish beignets, cocktails, and more.
 
-To learn more about Cuvée Kitchen, you can visit their website: [www.CuveeKitchen.com](http://www.cuveekitchen.com/){:target="_blank"}. Also, if you’re interested in dropping by to experience it for yourself, **you can find the restaurant in downtown Destin at 26120 Emerald Coast Parkway.**
+To learn more about Cuvée Kitchen, you can visit their website: [www.CuveeKitchen.com](http://www.cuveekitchen.com/). Also, if you’re interested in dropping by to experience it for yourself, **you can find the restaurant in downtown Destin at 26120 Emerald Coast Parkway.**
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
