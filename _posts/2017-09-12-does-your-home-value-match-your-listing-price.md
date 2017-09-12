@@ -31,9 +31,9 @@ Something magical happens the first day your home hits the market—like the new
 
 **Is the home overpriced?** Is it in good condition based on the photos? Is it in a great location?
 
-**The first impression will affect how many showings you receive during the first few weeks that the home is listed.**If you receive very few showings during that initial period, then you have a problem.
+**The first impression will affect how many showings you receive during the first few weeks that the home is listed.&nbsp;**If you receive very few showings during that initial period, then you have a problem.
 
-The market as a whole is rejecting that home’s value, and there’s only one solution: Make a price adjustment. The sooner you do this, the better.
+The market as a whole is rejecting that home’s value, and there’s only one solution: make a price adjustment. The sooner you do this, the better.
 
 {% include pullquote.html %}
 
