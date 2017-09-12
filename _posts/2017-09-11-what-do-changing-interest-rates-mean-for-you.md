@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Do Changing Interest Rates Mean for You?
-date: 2017-09-11 13:42:12
+date: 2017-09-11 13:42:00
 tags:
   - Market Update
 excerpt: >-
@@ -9,7 +9,7 @@ excerpt: >-
   July—what does that mean for you?
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Alex+Lam/Changing+Interest+Rates+-+Vancouver+Real+Estate+Agent.mp4
-pullquote: 'If you are thinking a move, do so before interest rates go up again.'
+pullquote: 'If you are thinking of making a move, do so before interest rates go up again.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -20,13 +20,13 @@ youtube_code: Fr0adgo9cTE
 
 {% include youtube.html %}
 
-On July 12, 2017, the central bank raised the benchmark interest rate for the first time in seven years from 0.5% to 0.75%.&nbsp;
+On July 12, 2017, the central bank raised the benchmark interest rate for the first time in seven years from 0.5% to 0.75%.
 
-The Bank of Canada is expected to increase rates a second time later this year.&nbsp;
+The Bank of Canada is expected to increase rates a second time later this year.
 
-What does this mean to you?&nbsp;
+What does this mean to you?
 
-**The rate increase reflects the confidence in our economy.** A quarter-point increase is not going to tank the housing market.&nbsp;
+**The rate increase reflects the confidence in our economy.** A quarter-point increase is not going to tank the housing market.
 
 {% include pullquote.html %}
 
