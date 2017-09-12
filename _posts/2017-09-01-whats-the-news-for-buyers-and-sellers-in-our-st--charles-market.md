@@ -1,13 +1,14 @@
 ---
 layout: post
 title: What’s the News for Buyers and Sellers in Our St. Charles Market?
-date: 2017-09-01 12:35:16
+date: 2017-09-01 12:35:00
 tags:
   - Market Update
 excerpt: >-
   There is great news in the St. Charles market right now for both buyers and
   sellers.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+Your+latest+St.+Charles+market+update.mp4
 pullquote: It’s a great time to be both a buyer and a seller.
 enclosure_type: video/mp4
 enclosure_time:
