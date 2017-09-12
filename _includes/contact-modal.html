@@ -3,7 +3,7 @@
   <div class="contact-modal" id="modal">
     <strong class="label">Contact Us</strong>
     <address>
-      <strong>{{site.data.settings.client.name}}</strong>
+      <strong>Vyral Marketing</strong>
       {% if site.data.settings.client.brand and site.data.settings.client.brokerage == null %}
         <br>
         {{site.data.settings.client.address}}
@@ -31,7 +31,7 @@
       {% endif %}
       <a href="tel:1-{{site.data.settings.client.phone}}">{{site.data.settings.client.phone}}</a>
       <br>
-      <a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a>
+      General Manager: <a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a>
     </address>
 
     <i class="fa fa-times-circle fa-2x exit" aria-hidden="true"></i>
