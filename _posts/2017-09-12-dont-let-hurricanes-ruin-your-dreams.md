@@ -23,7 +23,7 @@ Every place on Earth has weather risks; living in a tropical paradise means deal
 
 Our newer homes are built at higher elevations to combat flood risks, and have very sophisticated storm standards. Most of them would have withstood whatever wind that came our way.
 
-In the event of another hurricane, here’s what you need to know if you’re interested in living in the southwest-Florida area:
+In the event of another hurricane, here’s what you need to know if you’re interested in living in the southwest Florida area.
 
 First, no matter what, there will always be a vibrant real estate market. Market dynamics may have changed in the short term, but most homeowners would have been made whole, and many would have made improvements to their homes—their house would have been better in the long run.&nbsp;
 
