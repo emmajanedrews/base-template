@@ -1,7 +1,7 @@
 ---
 layout: post
 title: End of Summer Market Update
-date: 2017-09-06 00:00:00
+date: 2017-09-12 00:00:00
 tags:
 excerpt: >-
   Summer is over, but the real estate market never stops. Here’s what you can
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/aQHUi-ndcDA'
+youtube_code: 'https://youtu.be/glFgLh1WyWQ'
 ---
 
 
@@ -26,5 +26,4 @@ We’re at the end of summer already and heading into fall. I wanted to quickly 
 
 With almost half of our listings being new construction homes, buyers have options. They can pick a brand-new home with great incentives and custom finishes. **If you’re thinking of selling your home this fall, you’ll need to stage it and price it aggressively to compete with those model homes.**
 
-If you’re thinking about buying or selling anytime in the near future, give me a call or send me an email. I look forward to hearing from you.
-<br>
+If you’re thinking about buying or selling anytime in the near future, give me a call or send me an email. I look forward to hearing from you.<br>
