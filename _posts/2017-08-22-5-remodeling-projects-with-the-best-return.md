@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Home remodeling is as hot as it's ever been. Here are five projects that bring
   the best return on investment.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Daniel+Dixon/Denver+Real+Estate-+Home+Remodeling+Projects+With+the+Best+ROI.mp4
 pullquote: Some will make more sense for your home than others.
 enclosure_type: video/mp4
 enclosure_time:
