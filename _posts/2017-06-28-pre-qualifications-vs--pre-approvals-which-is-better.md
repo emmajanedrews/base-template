@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PRE-QUALIFICATIONS VS. PRE-APPROVALS: WHICH IS BETTER?'
-date: 2017-09-13 16:05:45
+date: 2017-06-28 17:05:00
 tags:
   - Home Buyer Tips
 excerpt: >-
