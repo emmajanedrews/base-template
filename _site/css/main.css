@@ -2961,3 +2961,6 @@ form select {
 #recruiting-photo {
   float: right;
   margin: 20px; }
+
+#page-bkg {
+  height: 250px; }
