@@ -2958,9 +2958,15 @@ form select {
   margin-top: 2rem;
   font-size: 18px; }
 
-#recruiting-photo {
+.recruiting-photo {
   float: right;
   margin: 20px; }
 
 #page-bkg {
   height: 250px; }
+
+.caption {
+  font-size: 16px;
+  font-style: oblique;
+  text-align: center;
+  margin-bottom: 20px; }

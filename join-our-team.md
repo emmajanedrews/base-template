@@ -3,9 +3,15 @@ layout: page
 title: Join Our Real Estate Team
 permalink: /join-our-team/
 ---
-
-<div class="client-image-container" id="recruiting-photo">
-  <img src="/img/matt.jpg" alt="Matt Madden" class="client-image"/>
+<div class="recruiting-photo">
+  <span class="client-image-container">
+    <img src="/img/matt.jpg" alt="Matt Madden" class="client-image"/>
+  </span>
+<figcaption class="caption">Matt Madden, President/Broker</figcaption>
+  <span class="client-image-container">
+    <img src="/img/headshot.png" alt="Dave Hooke" class="client-image"/>
+  </span>
+<figcaption class="caption">Dave Hooke, Team Lead</figcaption>
 </div>
 
 Fellow agent,
