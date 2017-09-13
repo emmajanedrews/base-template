@@ -1,7 +1,7 @@
 ---
 layout: post
 title: EXAMINING SOME OF THE OTHER COSTS OF HOMEOWNERSHIP
-date: 2017-09-13 16:11:43
+date: 2017-06-14 14:11:00
 tags:
   - Home Buyer Tips
 excerpt: >-
