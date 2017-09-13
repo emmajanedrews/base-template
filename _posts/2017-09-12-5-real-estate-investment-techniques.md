@@ -11,7 +11,7 @@ pullquote: Home flipping offered a record-breaking 49% return in 2016.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/scott-hardesty-screenshot.jpg
+youtube_alternate_image: /uploads/scott-hardesty-5-ways-to-invest-youtube.jpg
 youtube_code: 'https://youtu.be/frryMOoGtQk'
 ---
 
