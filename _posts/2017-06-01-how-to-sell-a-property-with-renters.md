@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HOW TO SELL A PROPERTY WITH RENTERS
-date: 2017-09-13 16:23:05
+date: 2017-06-01 13:23:00
 tags:
   - Home Seller Tips
 excerpt: >-
