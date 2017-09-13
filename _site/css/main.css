@@ -2955,7 +2955,8 @@ form select {
 #recruit {
   width: 75%;
   margin-left: 13%;
-  margin-top: 2rem; }
+  margin-top: 2rem;
+  font-size: 18px; }
 
 #recruiting-photo {
   float: right;
