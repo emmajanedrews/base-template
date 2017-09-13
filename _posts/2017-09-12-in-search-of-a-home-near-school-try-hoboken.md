@@ -25,7 +25,7 @@ A lot of people may not realize this as they look through the history of Hoboken
 
 {% include pullquote.html %}
 
-New construction and school districts have encouraged families with kids to move to the area—here, schools for younger children are free. Additionally, **Hoboken receives high scores for walkability, restaurants, and nightlife.**
+New construction and Quality Public and Charter Schools have encouraged families with kids to move to the area—here, schools for younger children are free. Additionally, **Hoboken receives high scores for walkability, restaurants, and nightlife.**
 
 People come from the New York area to take advantage of the city’s schools to save money— **private schools can cost thousands of dollars elsewhere.**
 
