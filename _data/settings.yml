@@ -1,7 +1,7 @@
 audit_header: false
 title: '-- CLIENT BRAND --'
 description: >-
-  If you are looking to buy or sell a home, get all the information and the
+  If you are looking to buy or sell a home, you can get all the information and the
   latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
   -- MARKET -- Real Estate Agents.
 show_custom_links: false
@@ -34,7 +34,7 @@ client:
   url: 'http://www.prosperprops.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'http://www.BudaKyleHomeValues.com'
+  first_CTA_URL: 'http://www.budakylehomevalues.com/?utm_source=vyral-newsletter&utm_medium=email'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://www.prosperprops.com/?utm_source=vyral-newsletter&utm_medium=email'
   VR_form: http://oi.vresp.com?fid=2a3ba98918
@@ -45,7 +45,7 @@ sidebar_CTA:
       Are you thinking of selling your home or interested in learning about home
       prices in your neighborhood? We can help you.
     CTA_link_text: Free -- MARKET -- Home Value Report
-    CTA_url: 'http://www.BudaKyleHomeValues.com'
+    CTA_url: 'http://www.budakylehomevalues.com/?utm_source=vyral-newsletter&utm_medium=email'
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: Looking for a -- MARKET -- Home?
