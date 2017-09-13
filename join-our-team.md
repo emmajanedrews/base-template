@@ -73,7 +73,7 @@ President / Broker
 </label>
 <textarea name="employer"></textarea>
 <!-- submit! -->
-<input class="submit light-light" type="submit" value="Submit" name="submitrecruitingForm">
+<input class="submit light-light" type="submit" value="Apply Now" name="submitrecruitingForm">
 <span class="asterisk">*</span>required
 </fieldset>
 <!-- Cloud cannon settings field -->
