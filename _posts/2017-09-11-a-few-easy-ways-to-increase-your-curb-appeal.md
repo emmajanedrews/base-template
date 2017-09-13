@@ -24,12 +24,16 @@ When I show a home to a buyer, the first thing they notice is its curb appeal. T
 
 **1. Paint.** Buyers are going to notice cracked or chipping paint. Even if it’s not cracked or chipped, a fresh coat of paint can really increase your curb appeal.
 
-{% include pullquote.html %}
-
 **2. Landscaping.** It doesn’t have to be elaborate, it just has to be clean. If your yard isn’t in the best shape, we’d be happy to refer you to someone who can help get it back on track.
 
-**3. Make sure lightbulbs are working, doorknobs and knockers are polished, and the doorbell is working properly.**
+{% include pullquote.html %}
+
+**4. Make sure doorknobs and knockers are polished**
+
+**5. Test your doorbell** to make sure it is working properly.
+
+**6. Make sure your address is clearly visible** on the house and the mailbox.
+
+**7. Get a new doormat**
 
 These are just a few of the things you can do to help buyers have a fantastic first impression when they come to see your home. If you have any questions for us about getting your home ready for sale, don’t hesitate to reach out. We would love to help.
-
-&nbsp;
