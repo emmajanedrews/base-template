@@ -6,13 +6,13 @@ tags:
   - Market Update
 excerpt: The latest news is in for the DFW real estate market. Here’s what it says.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Chad+Smith+(Texas)/2017/Arlington+Real+Estate+Agent-+Market+Update.mp4
+  https://s3.amazonaws.com/vyralmarketing/Chad+Smith+(Texas)/2017/Arlington+Real+Estate+Agent-+The+Latest+Update+on+the+DFW+Market+(1).mp4
 pullquote: Each market has its own set of challenges and opportunities.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: YJ5E0Vk23Z8
+youtube_code: SJycG6H_90A
 ---
 
 
