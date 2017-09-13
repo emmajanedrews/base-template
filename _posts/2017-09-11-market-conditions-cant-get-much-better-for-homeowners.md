@@ -19,7 +19,7 @@ youtube_code: G3MtS1Q8ScY
 
 {% include youtube.html %}
 
-When is the best time to sell your home if you’ve been thinking about selling at all in the near future? Right now. We have an epic shortage of inventory and if you’ve even considered the idea of selling your home, now is the time to do so.
+When is the best time to sell your home if you’ve been thinking about selling at all in the near future? Right now we have an epic shortage of inventory, and so if you’ve even considered the idea of selling your home, now is the time to do so.
 
 A normal market has about six months of inventory. **Right now, our market only has 2.4 months**. If no other homes were put on the market, we would sell out of homes in just over 2 months.
 
