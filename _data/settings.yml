@@ -7,20 +7,20 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Chip Free & Frank Free
   license_number:
   about_markdown: |
-
-  market:
-  brand:
+    Lake Realty is a local, family owned business with 35 agents and more than 25 years of experience in the Lake Norman Real Estate Market. We are here to answer all your questions quickly & accurately and believe in a no pressure, friendly response. Don't hesitate to reach out whether it's simple or complicated. The people and families we serve are what’s important to us and that’s why we are proud to have more 5 Star Google reviews than any other firm in the Lake Norman area.
+  market: Lake Norman Area
+  brand: Lake Realty
   brokerage:
-  address:
-  phone:
+  address: 19900 W. Catawba Ave. Suite 103, Cornelius, NC 28031
+  phone: 704-892-6350
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: chip@lakerealty.com
+  url: https://www.lakerealty.com
 
 CTAs:
   first_CTA_text: Home Valuation
@@ -31,7 +31,7 @@ CTAs:
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
+    CTA_title: "What’s Your Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free -- MARKET -- Home Value Report"
     CTA_url: /homevalue/
@@ -90,13 +90,13 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 60
   hero_text: -- MARKET -- Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
+  brand_color: '#0089CF'
   theme_color: '#999'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
