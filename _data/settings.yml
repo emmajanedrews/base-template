@@ -56,13 +56,10 @@ lender:
   url: http://eyegoop.com
 
 welcome_box:
-  welcome_headline: Join Our -- MARKET -- VIP List
+  welcome_headline: How to Sell More Homes
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
-    professionals can answer any questions you might have about real estate.
-    Subscribe to this blog to get the latest news on local market trends and
-    receive expert tips for buying or selling a home.
+    Whether you are just starting out, or you are licensed Broker, our team of professionals can answer any questions you might have about real estate.
+    Subscribe to this blog to get the latest news on local market trends and receive expert tips for buying or selling a home.
 
 socials:
   review_sm_icons: false
