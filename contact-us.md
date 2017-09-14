@@ -4,7 +4,7 @@ title: Contact Us
 permalink: /contact-us/
 ---
 
-<form method="post" class="home-value" action="http://vyralmarketing.com/staticforms/sendEmail.php" onsubmit="return setReturn()">
+<form method="post" class="home-value" action="http://formspree.io/chip@lakerealty.com" onsubmit="return setReturn()">
     <fieldset>
         <p id="thanks"></p>
         <label for="name">Name<span class="asterisk">*</span>
