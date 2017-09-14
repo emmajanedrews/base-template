@@ -15,11 +15,14 @@ client:
   brand: Lake Realty
   brokerage:
   address: 19900 W. Catawba Ave. Suite 103<br>Cornelius, NC 28031
-  phone: 704-892-6350
+  phone: 704-201-5262
   phone_type:
   phone2:
   phone2_type:
-  email: chip@lakerealty.com
+  email: Chip@LakeRealty.com
+  email_type: Chip
+  email2: Frank@LakeRealty.com
+  email2_type: Frank
   url: https://www.lakerealty.com
 
 CTAs:
@@ -89,7 +92,7 @@ images:
   client_headshot2_path: /img/headshot2.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  hero_text: Thriving vs. Surviving Real Estate
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
