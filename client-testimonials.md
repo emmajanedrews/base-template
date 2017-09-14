@@ -5,6 +5,15 @@ layout: default
 <h1>Client Audio Testimonials</h1>
 
 <div class="client-testimonial">
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/337872121&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<p class="testimonial-text">
+"It was great! We bought a house about two months ago. They were awesome, they helped us every time we requested to look for houses. The house was only up for 36 hours and there were a bunch of people that put offers in. They did a really good job helping us get it. They would come late at night and late in the evening if we needed to or on the weekends. I would highly recommend them. I couldn't imagine a better group to work with."
+</p>
+<p class="testimonial-author">
+-Taryn B.
+</p>
+<hr>
+<div class="client-testimonial">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/337871863&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 <p class="testimonial-text">
 "Ultimately, we got a house we're happy with, so that's the main thing. A couple of times I was able to schedule things around my own schedule where they were able to show us houses on really short notice which was very helpful."
