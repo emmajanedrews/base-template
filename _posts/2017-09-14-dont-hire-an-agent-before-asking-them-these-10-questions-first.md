@@ -30,13 +30,13 @@ Not all real estate agents are the same, and if you decide to seek the help of a
 
 There are 10 questions, specifically, that we encourage you to ask when interviewing an agent:
 
-1. What makes them different?
+1.&nbsp; What makes them different?
 
-2. What is their (or their company’s) track record?
+2.&nbsp; What is their (or their company’s) track record?
 
-3. What’s their marketing plan for your home?
+3.&nbsp; What’s their marketing plan for your home?
 
-4. What happens if you’re not happy with the job they’re doing to get your home sold?
+4.&nbsp; What happens if you’re not happy with the job they’re doing to get your home sold?
 
 **To learn all 10 interview questions you must ask,** **[click here.](http://fasthomepricing.net)**
 
