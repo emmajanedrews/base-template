@@ -26,13 +26,13 @@ Not all real estate agents are the same, and if you decide to seek the help of a
 
 **An agent can cost or save you thousands of dollars,** and there are questions you need to ask to ensure you have the best representation for your specific needs. Some agents may prefer that you don’t ask these questions since the knowledge you gain from them and their honest answers will give you a good idea of what to expect from them as your Realtor.
 
+**{% include pullquote.html %}**
+
 There are 10 questions, specifically, that we encourage you to ask when interviewing an agent:
 
 1. What makes them different?
 
 2. What is their (or their company’s) track record?
-
-**{% include pullquote.html %}**
 
 3. What’s their marketing plan for your home?
 
