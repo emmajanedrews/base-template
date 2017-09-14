@@ -23,7 +23,7 @@ youtube_code: keoXl1aLjX0
 
 As we move from summer into fall, let’s pause for a quick market update.&nbsp;
 
-First of all, is the market still hot? It depends on the inventory. If you are a buyer or seller in the $300,000 and under price range, inventory is still very tight—with only** two weeks of inventory available.**&nbsp;
+First of all, is the market still hot? It depends on the inventory. If you are a buyer or seller in the $300,000 and under price range, inventory is still very tight—with only two weeks of inventory available.&nbsp;
 
 If you are buying or selling in the $400,000 to $700,000 price range, there are some interesting things happening. Sellers are getting a little aggressive and price reductions are becoming more common.&nbsp;
 
