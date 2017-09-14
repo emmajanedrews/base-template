@@ -23,25 +23,25 @@ client:
   url: https://www.lakerealty.com
 
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
-  second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  first_CTA_text: Contact Us!
+  first_CTA_URL: /contact-us/
+  # second_CTA_text: Home Search
+  # second_CTA_URL: /homesearch/
   VR_form:
 
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free -- MARKET -- Home Value Report"
+  - CTA_image_path: /img/cta-images/005.jpg
+    CTA_title: "Looking to Build Your Real Estate Career?"
+    CTA_text: "Let's talk about how Lake Realty can take your business to new heights."
+    CTA_link_text: "Request a Free Strategy Session"
     CTA_url: /homevalue/
 
-second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+# second_sidebar_CTA:
+#   - CTA_image_path2: /img/cta-images/005.jpg
+#     CTA_title2: "Looking for a -- MARKET -- Home?"
+#     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
+#     CTA_link_text2: "Search the MLS"
+#     CTA_url2: /homesearch/
 
 lender:
   show_section: false
@@ -67,10 +67,10 @@ welcome_box:
 socials:
   review_sm_icons: false
   facebook_url: https://www.facebook.com/LakeRealtyNC
-  linkedin_url:
+  linkedin_url: https://www.linkedin.com/in/ffree/
   gplus_url: https://plus.google.com/102290382446647929946
-  youtube_url:
-  twitter_url:
+  youtube_url: https://www.youtube.com/channel/UCooU68TvzCt94t6zMUCEZYg
+  twitter_url: https://twitter.com/lakerealtync
   instagram_url:
   pinterest_url:
   zillow_url:
