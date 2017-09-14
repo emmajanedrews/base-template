@@ -1,7 +1,7 @@
 ---
 layout: post
 title: In Search of a Home Near School? Try Hoboken
-date: 2017-09-12 12:38:06
+date: 2017-09-12 12:38:00
 tags:
 excerpt: >-
   A home’s placement near a school can increase its value, especially to
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/ss-youtube-21.jpg
-youtube_code: 3fOFum2eynI
+youtube_code: bRG34_KbVzg
 ---
 
 
@@ -25,7 +25,7 @@ A lot of people may not realize this as they look through the history of Hoboken
 
 {% include pullquote.html %}
 
-New construction and Quality Public and Charter Schools have encouraged families with kids to move to the area—here, schools for younger children are free. Additionally, **Hoboken receives high scores for walkability, restaurants, and nightlife.**
+New construction and Quality Public and Charter Schools have encouraged families with kids to move to the area—here, schools for younger children are free to. In Hoboken Children ages 3 and up can enroll for a free highly praised Public education. Additionally, **Hoboken receives high scores for walkability, restaurants, and nightlife.**
 
 People come from the New York area to take advantage of the city’s schools to save money— **private schools can cost thousands of dollars elsewhere.**
 
