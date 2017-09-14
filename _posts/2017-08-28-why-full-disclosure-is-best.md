@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Why Full Disclosure Is Best
-date: 2017-08-28 15:08:39
+date: 2017-08-28 15:08:00
 tags:
   - Home Seller Tips
 excerpt: >-
   In the state of Texas, there are certain disclosures that you are required to
   provide as a seller unless your home is brand-new or in an estate.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+Full+disclosure+is+key.mp4
 pullquote: Full disclosure protects you legally.
 enclosure_type: video/mp4
 enclosure_time:
