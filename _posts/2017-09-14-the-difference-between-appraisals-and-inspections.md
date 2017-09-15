@@ -21,11 +21,9 @@ youtube_code: ZTPcNGTJ0A8
 
 What is the difference between a home appraisal and a home inspection?
 
-This is a question I commonly receive; so today, I thought I’d answer it.
-
 In short, a home appraisal proves value while an inspection proves condition.
 
-But, let’s go into some further detail. **A home appraisal proves value, specifically, to the lender, who will come into the home and take a few measurements.**
+<br>A **home appraisal proves value specifically to the lender,** **who will come into the home and take a few measurements.**
 
 &nbsp;From the information they gather, the lender will then compare your home to others in order to determine its value. A home appraisal allows the lender to be sure that the home is worth the collateral they need to give you a loan.
 
