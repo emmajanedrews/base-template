@@ -2,9 +2,6 @@
 layout: post
 title: Add Tremendous Value to Your Home With These 5 Remodeling Projects
 tags:
-  - Market Updates
-  - Real Estate
-  - Home Buyer Tips
   - Home Seller Tips
 excerpt: >-
   If you’re looking to add value to your home before selling it, there are five
@@ -32,7 +29,7 @@ But out of all the possible remodeling projects out there, which ones actually p
 
 **1. Your kitchen.** Kitchen remodeling can be as simple or as elaborate as you like. However, to maximize your return you should keep your investment to under 20% of the value of your home—as is recommended by surveyed real estate professionals. The outcome? **A whopping 85% return on your investment.**
 
-**2. Your bathroom.** A thorough bath remodeling project can cost up to $20,000. However, it's definitely worth it. Not only will it pay for itself, but it should give you an added 80% return.&nbsp;
+**2. Your bathroom.** A thorough bath remodeling project can cost up to $20,000. However, it's definitely worth it. Not only will it pay for itself, but it should give you an added 80% return.
 
 (If you already live in Arizona and are selling your home, you don’t need to worry so much about the next two items, but if you’re selling in other parts of the country before moving here, they’re definitely something you should consider.)
 
@@ -46,6 +43,6 @@ These are the top remodeling projects in terms of ROI. Clearly, some of them wil
 
 {% include pullquote.html %}
 
-Lastly, **I want to tell you about a new program we offer our clients called the Max Value Program.** If you’ve been contemplating selling your home but don’t have the time or money needed to make these repairs or updates, this might be perfect for you. By signing up, we’ll come to your house and do the repairs and updates we think it needs to make it as valuable as it can be in your area. This will allow you to get much more for your home than the needed repairs.&nbsp;
+Lastly, **I want to tell you about a new program we offer our clients called the Max Value Program.** If you’ve been contemplating selling your home but don’t have the time or money needed to make these repairs or updates, this might be perfect for you. By signing up, we’ll come to your house and do the repairs and updates we think it needs to make it as valuable as it can be in your area. This will allow you to get much more for your home than the needed repairs.
 
-If have any questions or want any additional advice about which home remodeling projects are right for you or you’re interested in the Max Value Program, don’t hesitate to give us a call. We’d love to help you.&nbsp;
+If have any questions or want any additional advice about which home remodeling projects are right for you or you’re interested in the Max Value Program, don’t hesitate to give us a call. We’d love to help you.
