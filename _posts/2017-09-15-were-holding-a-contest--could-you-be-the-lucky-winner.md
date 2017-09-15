@@ -39,7 +39,7 @@ Because we know that many of our clients, friends, and supporters are as excited
 
 It’s really as simple as that. With just two steps, you can qualify to win two tickets to what we’re sure will be an awesome game.
 
-There’s plenty of time to enter, so don’t forget to do so. **The contest starts today and the winner will be announced on Monday, October 2nd based on a random drawing.**
+There’s plenty of time to enter, but don't forget. **The contest starts today and the winner will be announced on Monday, October 2nd based on a random drawing.**
 
 We hope you’ll participate, because we’d love to make you the lucky winner.
 
