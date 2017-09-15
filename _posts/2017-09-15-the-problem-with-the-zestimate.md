@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/dailey-noplay.jpg
-youtube_code: 'https://youtu.be/PqrW_EuOKoM'
+youtube_code: PqrW_EuOKoM
 ---
 
 
