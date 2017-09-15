@@ -1,6 +1,9 @@
 audit_header: false
 title: Colemere Realty and Associates
-description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Colemere Realty and Associates - your professional Wasatch Front Real Estate Agents.'
+description: >-
+  If you are looking to buy or sell a home, get all the information and the
+  latest updates, tips, and tricks from Colemere Realty and Associates - your
+  professional Wasatch Front Real Estate Agents.
 show_custom_links:
 custom_links:
   - title:
@@ -24,8 +27,8 @@ client:
         each scenario. Bryan is a husband and father of three. In his personal
         life, he enjoys family time, coaching his kids, outdoor activities, and
         playing the piano. He has been featured as a guest speaker on webinars,
-        podcasts, and at national conferences. He loves sharing his knowledge and
-        experience with others by speaking on the important role real estate
+        podcasts, and at national conferences. He loves sharing his knowledge
+        and experience with others by speaking on the important role real estate
         agents have, and the art of selling Real Estate properly.
     - name: Scott Colemere
       client_headshot_path: /img/headshot2.jpg
@@ -41,7 +44,7 @@ client:
   market: Wasatch Front
   brand: Colemere Realty Associates
   brokerage:
-  address: '2061 Delmont Drive<br>Holladay, UT 84117'
+  address: '9661 S 700 E<br>Sandy, UT 84070'
   office_phone: 801-272-8192
   office_email: info@colemererealty.com
   url: 'http://colemererealty.com/'
@@ -52,7 +55,12 @@ client:
   VR_form: 'http://oi.vresp.com?fid=c3a9b44641'
   about_header: About Bryan and Scott Colemere
 welcome_headline: Get Educated About Your Real Estate
-welcome_text_markdown: Our mission at Colemere Realty and Associates is to be your best resource for real estate advice. Our team of professionals can answer any questions you might have about real estate. Subscribe to this blog to get the latest news on real estate and receive expert tips for preparing yourself for your buying or selling a home.
+welcome_text_markdown: >-
+  Our mission at Colemere Realty and Associates is to be your best resource for
+  real estate advice. Our team of professionals can answer any questions you
+  might have about real estate. Subscribe to this blog to get the latest news on
+  real estate and receive expert tips for preparing yourself for your buying or
+  selling a home.
 socials:
   review_sm_icons: false
   facebook_url: 'https://www.facebook.com/Colemere-Realty-Associates-207059249365713/'
@@ -65,14 +73,26 @@ socials:
   zillow_url: 'http://www.zillow.com/profile/bcolemere/'
   trulia_url:
   yelp_url: 'https://www.yelp.com/biz/bryan-colemere-colemere-realty-riverton'
-  podcast_url: 'https://itunes.apple.com/us/podcast/colemere-realty-associates/id1177583830?mt=2'
+  podcast_url: >-
+    https://itunes.apple.com/us/podcast/colemere-realty-associates/id1177583830?mt=2
 podcast:
   title: Colemere Realty and Associates Real Estate Podcast
   categories:
   image: /img/colemere_podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Portland Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Colemere Realty and Associates - your professional Wasatch Front Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the Portland
+    Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from Colemere Realty and Associates - your
+    professional Wasatch Front Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in Wasatch Front,
+    home selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
   author: Bryan Colemere
 images:
   client_headshot_path: /img/headshot.jpg
