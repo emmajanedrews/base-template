@@ -21,24 +21,24 @@ youtube_code: rGaTOIsYjS4
 
 {% include youtube.html %}
 
-If you haven’t already heard, Zillow has an estimate feature on their website. They call this feature a Zestimate.
+You’ve likely heard of Zestimates, Zillow’s instant online tool for determining home value. The Zestimate feature is something our clients bring up all the time when discussing where to price their home.
 
-When it comes to pricing their home, clients bring up their Zestimates all the time. However, many people may not entirely understand what a Zestimate truly is.
+However, a majority of people don’t truly understand what a Zestimate is, or how it works. The Zestimate is actually an algorithm created by Zillow which uses gathered information to determine home values.
 
-The **Zestimate is based on an algorithm Zillow developed to determine estimated home values.** However, Zestimates aren’t always accurate.
+But, is it accurate? This is the question on everyone’s mind. Most lawyers would typically answer that it all depends.
 
-Unfortunately, Zillow simply can’t measure certain important factors that go into your home’s value.
+There are certain factors that a Zestimate simply can’t take into account. One of the most notable examples of this is location. **Zestimates tend to be most accurate in cookie cutter neighborhoods where all the homes tend to look the same**. 
+
+If your home is unique or in a rural area, though, your Zestimate is likely going to be way off. 
 
 {% include pullquote.html %}
 
-If your home is in the kind of neighborhood where all the homes look exactly alike, a Zestimate might be a bit more accurate.
+Another important thing Zillow doesn’t take into account is the presence of any upgrades or additions in your home. **As you know, these things can dramatically change a home’s value**. Remodeled bathrooms, kitchens, or basements simply won’t be taken into consideration.
 
-However, **anywhere else and you may run into a few different issues.** This is especially the case if you live in a rural area.
+Even though these things add a ton of value, Zillow simply doesn’t consider them.
 
-There are a number of other things the Zestimate can’t take into account. Any upgrades to kitchens or bathrooms, for example, won’t be factored into a home’s Zestimate.
+As a more effective alternative, something I recommend to my clients is to allow my team and I to perform a custom valuation of your home. This is a great tool we offer to all of our clients who are thinking of selling their home. A Zestimate simply can’t compete with a real, custom valuation.
 
-These types of things can add a ton of value to a home. Zillow simply can’t measure certain key factors. This becomes a huge issue in the accuracy of the Zestimate—because these factors really add up.
+We will come out to your home and examine all of its features to determine its value in today’s market. The market is always changing, so getting a valuation with these current conditions in mind is key. 
 
-At The Dailey Group, we want to help. **We provide custom valuations by taking into account the things Zillow simply can't.**
-
-If you’re interested in that, have any other questions, or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+If you’re interested in a custom valuation, have any other questions, or would like more information, feel free to give me a call or send me an email. look forward to hearing from you soon.
