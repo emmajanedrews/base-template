@@ -32,7 +32,7 @@ This five-game series starts on October 6th, and we couldn’t be more excited.
 
 Because we know that all of our clients, friends, and supporters are as excited as we are, we’re giving away two tickets for the second game of the playoff series on Saturday night of October 7th.
 
-**There are two things you have to do to enter f**or a chance at winning the tickets**:**
+**There are two things you have to do to enter****for a chance at winning the tickets:**
 
 1. Like the [Wicker Homes Group Facebook page](https://www.facebook.com/WickerHomesGroup/)
 2. Share this video with your friends using the hashtag #WinWithWHG.
