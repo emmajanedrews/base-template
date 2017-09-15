@@ -33,6 +33,6 @@ So far, we have seen a tremendous outpouring of love from our volunteers and don
 
 As we work to rebuild these areas, **we could use your help.**
 
-Please consider donating to our [Red Relief program](https://www.kwrelief.org/){: target="_blank"}. Your contributions will help us supply food, water, clothing, and building supplies to these communities.
+Please consider donating to our [Red Relief program](https://www.kwrelief.org/). Your contributions will help us supply food, water, clothing, and building supplies to these communities.
 
 If you have any questions about KW Cares, the Red Relief program, and our ongoing disaster relief efforts, please don’t hesitate to reach out to us. We appreciate your support as we work to help others through this difficult time.
