@@ -34,7 +34,7 @@ Also known as home flipping, this involves buying a property and reselling it so
 
 **3. Real estate investment groups**
 
-Real estate investment groups are organizations that buy a set of properties and then sell them to individual investors.The main benefit of this approach is that you typically do not need to act as the landlord because the investment group handles property management for you (for a fee of course).
+Real estate investment groups are organizations that buy a set of properties and then sell them to individual investors. The main benefit of this approach is that you typically do not need to act as the landlord because the investment group handles property management for you (for a fee of course).
 
 {% include pullquote.html %}
 
