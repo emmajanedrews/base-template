@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We're Holding a Contest. Could You Be the Lucky Winner?
-date: 2017-09-15 12:26:42
+date: 2017-09-15 12:26:00
 tags:
 excerpt: >-
   The Wicker Homes Group is holding a contest in honor of the Washington
@@ -9,7 +9,7 @@ excerpt: >-
 enclosure:
 pullquote: >-
   We’re giving away two tickets for the second game of the playoff series on
-  Saturday night of October 7th.
+  Saturday night October 7th.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -30,7 +30,7 @@ This five-game series starts on October 6th, and we couldn’t be more excited.
 
 {% include pullquote.html %}
 
-Because we know that all of our clients, friends, and supporters are as excited as we are, we’re giving away two tickets for the second game of the playoff series on Saturday night of October 7th.
+Because we know that all of our clients, friends, and supporters are as excited as we are, we’re giving away two tickets for the second game of the playoff series on Saturday night October 7th.
 
 **There are two things you have to do to enter****for a chance at winning the tickets:**
 
