@@ -1281,7 +1281,8 @@ html[xmlns] .flexslider .slides {
   max-height: 0; }
 
 .welcome-box {
-  background: #b40101;
+  background: -webkit-linear-gradient(#336fa2, #0b2b44);
+  background: linear-gradient(#336fa2, #0b2b44);
   padding: 20px 0px;
   color: white;
   margin-top: -21px;
@@ -1296,7 +1297,8 @@ html[xmlns] .flexslider .slides {
   opacity: 1;
   -webkit-transform: translateX(0);
           transform: translateX(0);
-  background: #b40101;
+  background: -webkit-linear-gradient(#336fa2, #0b2b44);
+  background: linear-gradient(#336fa2, #0b2b44);
   padding: 20px 0px;
   color: white;
   margin-bottom: 20px;
@@ -1448,7 +1450,7 @@ html[xmlns] .flexslider .slides {
     text-align: center; }
 
 .navbar-andross {
-  border-bottom: 2px solid #999;
+  border-bottom: 2px solid #0b2b44;
   border-radius: 0;
   min-height: 52px;
   background: #ffffff;
@@ -1505,12 +1507,12 @@ html[xmlns] .flexslider .slides {
     opacity: 0; } }
 .brand-color {
   box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
-  background: #999;
+  background: #0b2b44;
   -webkit-animation: 0.3s fadein ease-in-out;
           animation: 0.3s fadein ease-in-out; }
 
 .navbar-andross-bottom {
-  background: #999;
+  background: #0b2b44;
   color: #fff;
   padding: 0;
   margin: 0;
@@ -1580,7 +1582,7 @@ label.tree-toggle {
 
 .site-logo {
   width: 90%;
-  max-width: 40rem;
+  max-width: 80rem;
   -webkit-filter: drop-shadow(0px 2px 7px transparent);
   filter: drop-shadow(0px 2px 7px transparent); }
 
@@ -1597,17 +1599,17 @@ label.tree-toggle {
     font-size: 5rem; } }
 @media (max-width: 1000px) {
   .site-logo {
-    max-width: 20rem; } }
+    max-width: 40rem; } }
 @media (max-width: 760px) {
   .site-logo {
-    max-width: 20rem;
+    max-width: 40rem;
     margin-top: 4rem; }
 
   .site-title {
     font-size: 5rem; } }
 @media (max-width: 600px) {
   .site-logo {
-    max-width: 15rem;
+    max-width: 30rem;
     margin-top: 2rem; }
 
   .site-title {
@@ -2456,7 +2458,7 @@ table tr, table td {
   margin: auto; }
 
 .footer {
-  background: #989898;
+  background: #0b2a43;
   color: #5d9bd3;
   padding: 2rem;
   text-align: center;
@@ -2862,13 +2864,7 @@ form select {
     color: #fff; }
 
 .newsletter {
-  background: #919191; }
-
-.fa-bars {
-  color: #fff; }
-
-.navbar-andross .navbar-brand {
-  color: #fff; }
+  background: #092337; }
 
 #side-logo {
   width: 90%;

@@ -7,41 +7,41 @@ custom_links:
     url:
 
 client:
-  name:
-  license_number:
+  name: Duke Kimhan
+  license_number: Broker License RB-21817
   about_markdown: |
-
-  market:
-  brand:
+    'When it came to delving into the world of Real Estate, Duke first bought and sold his own properties, then became a Broker himself. He has been a PB at Coldwell Banker in Florida, PB at Realty Experts in HI and Owner/Broker of Condo.Com in HI. His newest challenge is Managing HiPacific Property Management Division with Team Lally. Duke has earned numerous Real Estate Designations: ABR, CRS, CRB, GRI, SRES, CDPE, BPO, and continues to educate himself in all areas of Real Estate to better serve you, his Clients and Friends.'
+  market: Hawaii
+  brand: HI Pacific Property Management
   brokerage:
-  address:
-  phone:
+  address: '99-209 Moanalua Rd # 305<br>Aiea, HI 96701'
+  phone: 808-445-9223
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: info@HIPacificPM.com
+  url: http://HIPacificPM.com
 
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_text: Rent Your Home
+  first_CTA_URL: http://www.hipacificpm.com/Guaranteedrent
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
-  VR_form:
+  second_CTA_URL: http://www.hipacificpm.com/faqs
+  VR_form: http://oi.vresp.com?fid=bc9bd80877
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free -- MARKET -- Home Value Report"
-    CTA_url: /homevalue/
+    CTA_title: "If We Don’t Lease Your Home in 30 Days, We’ll pay the Rent!"
+    CTA_text: "If both you and HiPacificPM agree to enter into a Guaranteed Lease agreement, we will also guarantee that the tenant will pay the agreed upon rent for a minimum of 6 months."
+    CTA_link_text: "Rent Out Your Home"
+    CTA_url: http://www.hipacificpm.com/Guaranteedrent
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_title2: "Have a Question about the Guaranteed Rent Program?"
+    CTA_text2: "Check out these FAQ's from our Clients"
+    CTA_link_text2: "Frequently Asked Questions"
+    CTA_url2: http://www.hipacificpm.com/faqs
 
 lender:
   show_section: false
@@ -66,17 +66,17 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/HIPacific-Property-Management-1598929470384417
+  linkedin_url: https://www.linkedin.com/in/hipacificpm
+  gplus_url: https://plus.google.com/b/104259744657557878378/104259744657557878378
+  youtube_url: https://www.youtube.com/channel/UCfTHiiR-HtktD1L0hwrBHhA
+  twitter_url: https://twitter.com/HipacificPm
   instagram_url:
   pinterest_url:
   zillow_url:
   trulia_url:
-  yelp_url:
-  podcast_url:
+  yelp_url: http://www.yelp.com/biz/hawaii-pacific-property-management-aiea-2
+  podcast_url: https://itunes.apple.com/us/podcast/hawaii-property-management-podcast-with-duke-kimhan/id1218413212?mt=2
 
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
@@ -90,14 +90,14 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  logo_width_number: 80
+  hero_text: Hawaii Property Management Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#b40101'
-  theme_color: '#999'
+  theme_color: '#0b2b44'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
