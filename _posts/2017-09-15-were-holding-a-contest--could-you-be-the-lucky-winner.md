@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We're Holding a Contest. Could You Be the Lucky Winner?
-date:
+date: 2017-09-15 12:26:42
 tags:
 excerpt: >-
   The Wicker Homes Group is holding a contest in honor of the Washington
