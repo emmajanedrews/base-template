@@ -30,17 +30,17 @@ This five-game series starts on October 6th, and we couldn’t be more excited.
 
 {% include pullquote.html %}
 
-Because we know that all of our clients, friends, and supporters are as excited as we are, we’re giving away two tickets for the second game of the playoff series on Saturday night October 7th.
+Because we know that many of our clients, friends, and supporters are as excited as we are, we’re giving away two tickets for the second game of the playoff series on Saturday night October 7th.
 
-**There are two things you have to do to enter****for a chance at winning the tickets:**
+**There are two things you have to do to give yourself a chance at winning the tickets****:&nbsp;**
 
 1. Like the [Wicker Homes Group Facebook page](https://www.facebook.com/WickerHomesGroup/)
-2. Share this video with your friends using the hashtag #WinWithWHG.
+2. Share this video on your Facebook page using the hashtag, #WinWithWHG
 
 It’s really as simple as that. With just two steps, you can qualify to win two tickets to what we’re sure will be an awesome game.
 
-There’s plenty of time to enter, so don’t forget to do so. **The contest starts on September 15th and the winner will be announced on Monday, October 2nd.**
+There’s plenty of time to enter, so don’t forget to do so. **The contest starts today and the winner will be announced on Monday, October 2nd based on a random drawing.**
 
 We hope you’ll participate, because we’d love to make you the lucky winner.
 
-If you have any other questions or would like more information about how to enter, feel free to give us a call at (571) 210-4997 or send us an email at Info@WickerHomesGroup.com. We look forward to hearing from you soon.
+If you have any other questions or would like more information about how to enter, feel free to give us a call at **(571) 210-4997** or send us an email at **[Info@WickerHomesGroup.com](javascript:void(location.href='mailto:'+String.fromCharCode(73,110,102,111,64,87,105,99,107,101,114,72,111,109,101,115,71,114,111,117,112,46,99,111,109)))**. We look forward to hearing from you soon.
