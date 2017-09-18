@@ -21,13 +21,10 @@ youtube_code: SG73250XKv0
 
 We recently discussed automatic features that can help your employees create a paycheck for life. I’ve given you the first four elements of courageous plan design. In case you forgot, they are:
 
-Automatic enrollment
-
-Automatic escalation of the deferrals
-
-Automatic investment into the qualified default investment alternative
-
-Automatic re-enrollment of both the investments and those not contributing
+* Automatic enrollment
+* Automatic escalation of the deferrals
+* Automatic investment into the qualified default investment alternative
+* Automatic re-enrollment of both the investments and those not contributing
 
 The fifth element to courageous plan design and the topic for today is called the stretch match. **There are two main benefits:**
 
