@@ -16,7 +16,7 @@ Dear Real Estate Agent:
 
 I understand you may be working at a real estate brokerage or you may be a newer agent just getting started.   
 
-For some people, this can be painful.  When you’re a real estate agent at most brokerages, there is often very little income, support or training.  According to Real Estate Coach Tom Ferry, 87% of real estate agents fail in their first 5 years.  
+For some people, this can be painful.  When you’re a real estate agent at most brokerages, there is often very little income, support and training.  According to Real Estate Coach Tom Ferry, 87% of real estate agents fail in their first 5 years.  
 
 Here are the biggest problems facing existing real estate agents:
 
@@ -24,34 +24,33 @@ Here are the biggest problems facing existing real estate agents:
 - Juggling too many balls at the same time (having to do it all)
 - Lack of access to expensive systems and technology
 - No leads or money to help in a 100% commission environment
-- Losing out on buyers and listings due to more established agents and teams
+- Losing out on buyers and listings to more established agents and teams
 
 According to the National Association of Realtors in a 2015 study, the median **gross** income for an agent was $45,800.00.  The median take home income is far less than that. This is due to the average agent nationally only selling 9 homes per year.  It takes most agents at least 5 to 6 months to earn their first commission and for some even longer.  Most agents just can’t hang in there long enough to wait for another commission check that ‘might’ arrive.  There’s just too much uncertainty, stress and insecurity. 
 
-When I first got my license, I quickly realized that my name had been sold to thousands of vendors who would solicit me to buy their “get rich quick” programs and “magic lead generating strategies.”  I tried coaching programs, going to webinars, and purchasing various books.  In my first 2 years, I quit 3 times—mostly due to lack of support and inconsistent income.  Some agents end up on that same path: living commission check to commision check, until they find themselves at 75 years old; still working 65 hours a week; or working because they have to—not because they want to. 
+When I first got my license, I quickly realized that my name had been sold to thousands of vendors who would solicit me to buy their “get rich quick” programs and “magic lead generating strategies.”  I tried coaching programs, going to webinars and purchasing various books.  In my first 2 years, I quit 3 times—mostly due to lack of support and inconsistent income.  Some agents end up on that same path: living commission check to commision check, until they find themselves at 75 years old still working 65 hours a week and working because they have to—not because they want to. 
 
-My name is Dave Hooke and 15 years ago, I got into real estate right out of college.  Since then, myself and my team have sold over 1,000 homes.  We have 8 people on our real estate team located right here in PA.  I can relate to the pain you’re going through because I’ve been through it.  However, I think I can help and here’s how:  At The Dave Hooke Team, we’ve created an environment where our salespeople sell a minimum of 2 homes per month, earn a consistent income and take home a minimum of $50,000.00 per year.  Our team approach ensures you can focus on 1 thing, get really good at it and allow our team to take all the other things off your plate.  Essentially, we’ve created a team of specialists with an average production (per agent) of 30 homes per year (not the national average of 9).  
+My name is Dave Hooke and 15 years ago, I got into real estate right out of college.  Since then, myself and my team have sold over 1,000 homes.  We have 8 people on our real estate team located right here in PA.  I can relate to the pain you’re going through because I’ve been through it.  However, I think I can help and here’s how:  At The Dave Hooke Team, we’ve created an environment where our salespeople sell a minimum of 2 homes per month, earn a consistent income and **take home** a minimum of $50,000.00 per year.  Our team approach ensures you can focus on 1 thing, get really good at it and allow our team to take all the other things off your plate.  Essentially, we’ve created a team of specialists with an average production (per agent) of 30 homes per year compared to the national average of 9.  
 
 With our team you get:
-55 prospects/leads a month to get you to our minimum of $50,000.00 in take-home pay
-Full access to the industry’s top technology valued at $1,000.00 per month at zero cost
-Complete administrative support for paperwork and contract to close portion of the transaction.
-Daily Training at 8:30 a.m. and direct mentoring from one of the region's top industry producers in real estate
-To be part of a team with a big vision who leads with a Compassion Program that served over 40 hurting families with anonymous financial donations in the last 12 months.
 
-You can continue to cling to the ‘hope’ of another commission check and try and juggle it all yourself, or you can take a step into a proven system where not 1 single agent has failed to take home a minimum of $50,000.00 a year, and join a team where the average production per agent is 30 homes sold per year. 
+- 55 leads a month to get you to our minimum of $50,000.00 in take-home pay
+- Full access to the industry’s top technology valued at $1,000.00 per month at zero cost
+- Complete administrative support for paperwork and contract to close portion of the transaction.
+- Daily Training at 8:30 a.m. and direct mentoring from one of the region's top industry producers in real estate
+- To be part of a team with a big vision who leads with a Compassion Program that served over 40 hurting families with anonymous financial donations in the last 12 months.
 
-Now, don’t take my word for this. Let me tell you about one of our agents, Drue Richmond.  Before real estate, Drue worked in internet marketing and earned $29,000 per year.  She had a long commute, didn’t see it going anywhere, and decided to try real estate.  In her first 12 months, she earned $60,000.00, and after 4 years with us, she’ll earn $120,000.00.  Drue loves her position and finally feels the purpose and camaraderie of a team with a mission.
+You can continue to cling to the ‘hope’ of another commission check and try and juggle it all yourself, or you can take a step into a proven system. Where not 1 single agent has failed to take home a minimum of $50,000.00 a year and join a team where the average production per agent is 30 homes sold per year. 
+
+Now, don’t take my word for this. Let me tell you about one of our agents, Drue Richmond.  Before real estate, Drue worked in internet marketing and earned $29,000 per year.  She had a long commute, didn’t see it going anywhere and decided to try real estate.  In her first 12 months, she earned $60,000.00 and after 4 years with us, she’ll earn $120,000.00.  Drue loves her position and finally feels the purpose and camaraderie of a team with a mission.
  
 I want to offer you a position on our team.  
  
-On the day you get started with us, here’s exactly what’s going to happen.  You’re going to start our proven 30 Day Fast Start training and we’ll get you up and running to sell a home in your first 120 days as a Realtor.  
- 
-And if you follow our plan for you, we guarantee you will take home at least $50,000.00 per year with the potential to make 6 figures!
+On the day you get started with us, here’s exactly what’s going to happen.  You’re going to start our proven 30 Day Fast Start training and we’ll get you up and running to sell a home in your first 120 days as a Realtor.  And if you follow our plan for you, we guarantee you will take home at least $50,000.00 per year with the potential to make 6 figures!
 
-Here’s the thing. We need applicants right now. If you get started right away, we’ll pay for your time in training. Typically we require our new applicants do a certain amount of phone prospecting before they start taking new prospects from the team. If you start now, we’ll offer to pay you an hourly wage during that portion of your training.  That’s right, you can earn $700 to $800.00 while you’re training!  But to qualify for this, you’ve got to apply within the next 24 hours.  
+Here’s the thing. We need applicants right now. If you get started right away, we’ll pay for your time in training. Typically we require our new applicants do a certain amount of phone prospecting before they start taking new prospects from the team. If you start now, we’ll offer to pay you an hourly wage during that portion of your training.  That’s right, you can earn $700 to $800 while you’re training!  But to qualify for this, you’ve got to apply within the next 24 hours.  
  
-<a href="http://www.viewcentralpahouses.com/join-the-team" target="_blank">Click Here for answers to questions many applicants have asked, and the button to fill out the application is at the bottom of the page.</a>
+<a href="http://www.viewcentralpahouses.com/join-the-team" target="_blank">Click Here for answers to questions many applicants have asked</a>. The button to fill out the application is at the bottom of the page.
  
 Looking forward to talking with you soon!
 
