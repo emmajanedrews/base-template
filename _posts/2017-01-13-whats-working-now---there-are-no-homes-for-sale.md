@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What's Working Now! - There Are No Homes for Sale!
-date: 2017-09-18 16:17:11
+date: 2017-01-13 09:46:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -21,7 +21,7 @@ youtube_code: PUS1M-0ne58
 
 {% include youtube.html %}
 
-Welcome back to another edition of “What’s Working Now!" Today we’re going to discuss... wait, shh, listen to the lament of today's serious buyers, "There are no homes for sale right now!"
+Welcome back to another edition of “What’s Working Now!" Today we’re going to discuss… wait, shh, listen to the lament of today's serious buyers, "There are no homes for sale right now!"
 
 It’s true—there is a continuing trend in our market that has created an incredible opportunity for home sellers to make more money. The weather is cold outside and many are under the impression that no one is out looking at homes right now.
 
