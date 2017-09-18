@@ -49,7 +49,7 @@ And if you follow our plan for you, we guarantee you will take home at least $50
 
 Here’s the thing. We need applicants right now. If you get started right away, we’ll pay for your time in training. Typically we require our new applicants do a certain amount of phone prospecting before they start taking new prospects from the team. If you start now, we’ll offer to pay you an hourly wage during that portion of your training.  That’s right, you can earn $700 to $800.00 while you’re training!  But to qualify for this, you’ve got to apply within the next 24 hours.  
  
-Here’s answers to questions many applicants have asked, and the button to fill out the application is at the bottom of the page:  http://www.viewcentralpahouses.com/join-the-team
+<a href="http://www.viewcentralpahouses.com/join-the-team" target="_blank">Click Here for answers to questions many applicants have asked, and the button to fill out the application is at the bottom of the page.</a>
  
 Looking forward to talking with you soon!
 
