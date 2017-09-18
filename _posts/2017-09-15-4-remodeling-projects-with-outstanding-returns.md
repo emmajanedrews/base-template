@@ -22,9 +22,9 @@ youtube_code: 78R4rjJpZgU
 
 Which remodeling projects will bring you the most value?&nbsp;
 
-People ask us all the time what will bring them the most return on investment. This is a great question, since the right updates can really boost value in a property.
+People ask us all the time what will bring them the most return on investment. This is a great question since the right updates can really boost value in a property.
 
-First, &nbsp;we always recommend is starting with the kitchen. Spending some money on bringing your kitchen up to date could bring you an 85% return on investment.&nbsp;
+First, we always recommend starting with the kitchen. Spending some money on bringing your kitchen up to date could bring you an 85% return on investment.&nbsp;
 
 So long as you’re careful not to spend more than 20% of your home’s value, kitchen remodeling is a great place to start when improving your home. In fact, **the kitchen is one of the first places people look at during home showings.**
 
