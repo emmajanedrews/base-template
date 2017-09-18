@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Ways to Invest in Real Estate
-date: 2017-09-15 16:18:12
+date: 2017-09-15 16:18:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/no-pb-8.jpg
-youtube_code: xD-1Z3zdXD0
+youtube_code: rEv-XsBt0jA
 ---
 
 
