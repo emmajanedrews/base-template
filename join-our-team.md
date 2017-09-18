@@ -3,6 +3,13 @@ layout: page
 title: Join Our Team
 permalink: /join-our-team/
 ---
+<div class="recruiting-photo">
+   <span class="client-image-container">
+    <img src="/img/david.jpg" alt="David Robinson" class="client-image"/>
+  </span>
+<figcaption class="caption">David Robinson</figcaption> 
+</div>
+
 <h1>Join One of the Fastest Growing Real Estate Teams in Utah!</h1>
 <h5>How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</h5>
 
