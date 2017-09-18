@@ -5,12 +5,12 @@ permalink: /join-our-team/
 tags:
   - Join Our Team
 ---
-<div class="recruiting-photo">
+<!--<div class="recruiting-photo">
    <span class="client-image-container">
     <img src="/img/headshot.png" alt="client" class="client-image"/>
   </span>
 <figcaption class="caption">Client Name</figcaption> 
-</div>
+</div>-->
 Dear Successful Real Estate Agent,
 
 I understand that you are working at a brokerage that you are most likely satisfied with. Let me ask you a few questions: Are you selling as many homes as you would like? Are you making as much money as you would like? Do you feel like you are on call 24/7? Did you know that the median income for Realtors working well over 40 hours a week is $42,500 BEFORE expenses, while the median household income is $56,000? This is the case for many agents, who receive little to no help from their brokerage. Agents are among some of the most sold-to professionals there are. When I got my license, I was flooded with calls about coaching, marketing, and more. They all claimed to have a proverbial “magic pill” that would ensure my success. But why would someone spend thousands only to later discover there is no quick fix—no magic pill? If you remain among the ranks of the average agent, where will your life be in three months, six months, or a year from now? Will you be doing the things you want? If you have to transition out of the industry to make ends meet, what will you do? Will you have to work far into old age and live a lackluster life? 
