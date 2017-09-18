@@ -2,6 +2,8 @@
 layout: page
 title: Join Our Real Estate Team
 permalink: /join-our-team/
+tags:
+  - Join Our Team
 ---
 <div class="recruiting-photo">
    <span class="client-image-container">
