@@ -27,6 +27,8 @@ When Hurricane Harvey made landfall in Houston, it brought with it over two feet
 
 We recently had the opportunity to travel down to the Houston area with my Keller Williams colleagues to lend a hand to homeowners whose homes had flooded due to Hurricane Harvey. One home, in particular, belonged to a couple in their 90s, who needed help getting the drywall cut out, the carpet removed, and baseboards replaced.
 
-Overall, this experience has been incredibly rewarding. We got to help a lot of families, but there are many more people who still need help. Because of this, our Chicago-Lincoln Park office has pledged to contribute $100,000 back to hurricane relief. We’ll be putting together a fundraising drive in the next couple of weeks, so stay tuned!
+Overall, this experience has been incredibly rewarding. We got to help a lot of families, but there are many more people who still need help. Because of this, our Chicago-Lincoln Park office has pledged to contribute $100,000 back to hurricane relief. We want to work together to make the biggest impact possible, so we'll be hosting a telethon gives us the opportunity to give back to our communities on a local and national level.
+
+[For more information on how you can give back, click here.&nbsp;](https://www.reliefnow.info/)
 
 In the meantime, if you have any questions, don’t hesitate to give us a call or shoot us an email. We’d be happy to speak with you.
