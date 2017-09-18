@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are You Ready to Join an HOA?
-date: 2017-09-13 17:08:49
+date: 2017-09-13 17:08:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: YWmZXNfFj84
+youtube_code: I32q8W4XhgY
 ---
 
 
