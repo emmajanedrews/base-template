@@ -41,7 +41,7 @@ However, **being deceitful about your price range could cause you to miss out on
 
 {% include pullquote.html %}
 
-Fourth, don’t make ridiculously low offers. Everyone wants a good deal, but putting forward an unreasonably low offer could cost you the perfect home. A recent study by showed that 15% of agents believe that offering too little on a property is the biggest mistake an offer could make.
+Fourth, don’t make ridiculously low offers. Everyone wants a good deal, but putting forward an unreasonably low offer could cost you the perfect home. A recent study by Inman showed that 15% of agents believe that offering too little on a property is the biggest mistake an offer could make.
 
 Speaking of money, don’t forget to budget for closing costs. This can be a critical mistake, since these items can really add up. The seller will chip in for some things. However, you will be shouldering most of this cost.
 
