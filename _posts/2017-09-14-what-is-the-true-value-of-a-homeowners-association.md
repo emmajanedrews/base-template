@@ -23,7 +23,7 @@ youtube_code: VqinMIzwroA
 
 {% include youtube.html %}
 
-Today, I’d like to talk a little bit about Homeowners Associations (or HOAs).
+Today, I’d like to talk a little bit about homeowners associations (or HOAs).
 
 This topic came to me while I was out looking at properties with a client last week. The HOA fees on one property in particular were pretty high—even higher than the taxes. Initially, this turned my client off of the property.
 
@@ -35,7 +35,7 @@ In our local Tucson area, we have two extreme examples of HOAs that come to mind
 
 {% include pullquote.html %}
 
-First, we have Rancho Vistoso in. There, the fees within an average subdivision runs between $25 to $30 a month. This fee will be slightly higher for a gated community.
+First, we have Rancho Vistoso in Oro Valley. There, the fees within an average subdivision runs between $25 to $30 a month. This fee will be slightly higher for a gated community.
 
 These fees are designed to cover items such as maintenance of the common grounds.
 
