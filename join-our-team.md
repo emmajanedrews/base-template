@@ -55,7 +55,7 @@ Looking forward to talking with you soon!
 
 Dave Hooke
 
-**PS: If you’re thinking of closing this message, think about the next 30 years of your life.  An application doesn’t cost anything but it could mean the world to your future and could change your life.  All applications are completely free and confidential.  <a href="http://www.viewcentralpahouses.com/join-the-team/join-the-dave-hooke-team-application target="_blank">Click here for a free, no obligation direct application</a>.**
+**PS: If you’re thinking of closing this message, think about the next 30 years of your life.  An application doesn’t cost anything but it could mean the world to your future and could change your life.  All applications are completely free and confidential.  <a href="http://www.viewcentralpahouses.com/join-the-team/join-the-dave-hooke-team-application"  target="_blank">Click here for a free, no obligation direct application</a>.**
 
 
 <h2 class="recruiting">Let's Make You More Money</h2>
