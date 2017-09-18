@@ -2,7 +2,7 @@
 layout: post
 title: What Makes Someone Change Careers?
 tags:
-  - Bio Pharma
+  - BioPharma
 excerpt: >-
   What are the most common reasons people tend to make a change in their
   careers? Today, I’ve narrowed that list down to six primary factors.
