@@ -4,7 +4,7 @@ title: Join Our Team
 permalink: /join-our-team/
 ---
 <h1>Join One of the Fastest Growing Real Estate Teams in Utah!</h1>
-<h3>How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</h3>
+<h5>How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</h5>
 
 
 <p>Dear real estate agent or frustrated employee:</p>
@@ -60,15 +60,16 @@ permalink: /join-our-team/
 </ul>
 </p>
 
-<p>Take action today and schedule a time to meet with me to talk about your goals and answer any questions you may have. Together we’ll decide if we’re the right fit.</li>
+<p>Take action today and schedule a time to meet with me to talk about your goals and answer any questions you may have. Together we’ll decide if we’re the right fit.</p>
 
-<p>As a gift, once you schedule your appointment, I’ll send you a free copy of our <em>“90 Day New Agent Game Plan for Massive Results!”</em> It’ll show you all the steps top agents take to enjoy enormous success in their first 90 days and set a foundation of success in the future.</li>
+<p>As a gift, once you schedule your appointment, I’ll send you a free copy of our <em>“90 Day New Agent Game Plan for Massive Results!”</em> It’ll show you all the steps top agents take to enjoy enormous success in their first 90 days and set a foundation of success in the future.</p>
 
-<p>Give us a call or send us an email today to set your appointment and we’ll make sure you get taken care of.</li>
+<p>Give us a call or send us an email today to set your appointment and we’ll make sure you get taken care of.</p>
 
-<p>Until next time,</li>
+<p>Until next time,</p>
 
-<p>David Robinson</li>
+<p>David Robinson</p>
+
 
 
 
