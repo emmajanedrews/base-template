@@ -23,7 +23,7 @@ youtube_code: b0t1Lv_EDeo
 
 {% include youtube.html %}
 
-What are the factors that lead someone to make a job change? When people seek a career change, the reason usually comes down to one of six reasons.
+What are the factors that lead someone to make a job change? When people seek a career change, the reason usually comes down to one of six things.
 
 1. **Challenge**. If they feel that their current position lacks challenge, a person may feel inclined to leave. People who seek out opportunities to learn and grow in their career are unlikely to feel satisfied in an environment that doesn’t challenge them.
 2. **Location**. Mileage isn’t the only factor that goes into this point. People may also be put off by the location of their job or the length of time they must spend during their commute to get there. This can additionally reflect a change in an employee’s life. While commuting for an hour might work for someone at first, they might change their mind at a later time.
