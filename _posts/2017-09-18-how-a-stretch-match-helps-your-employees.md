@@ -28,9 +28,7 @@ We recently discussed automatic features that can help your employees create a p
 
 The fifth element to courageous plan design and the topic for today is called the stretch match. **There are two main benefits:**
 
-**1. It gives your employees the opportunity to save more now.** We know that gives them the opportunity to get to that retirement bullseye sooner and they can retire on time with a paycheck for life.
-
-<br>**2. It helps your highly-paid employees contribute more in a non-safe harbor plan.** If your employees are able to contribute more because they see you contributing more, they will be very happy.
+**1. It gives your employees the opportunity to save more now.** We know that gives them the opportunity to get to that retirement bullseye sooner and they can retire on time with a paycheck for life.<br><br>**2. It helps your highly-paid employees contribute more in a non-safe harbor plan.** If your employees are able to contribute more because they see you contributing more, they will be very happy.
 
 {% include pullquote.html %}
 
