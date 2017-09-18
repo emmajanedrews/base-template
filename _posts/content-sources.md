@@ -148,7 +148,87 @@ We also do a six-month walkthrough to make sure the home is cared for, four mont
 
 If you have any questions about assessing wear and tear or damage in a unit or you're interested in our property management services, don't hesitate to give us a call or send us an email. We'd be glad to speak with you further.
 
+/////////////////////////
 
+How Does Our Rent Guarantee Work?
+
+ge3_rf4ErF8
+WE ARE HERE TO MAKE YOU MONEY AND PROTECT YOUR PROPERTY.
+https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management-+How+our+rent+guarantee+helps+you.mp4
+
+What is a rent guarantee and why do we offer one? I’ll explain everything today.
+
+<a href="http://www.hipacificpm.com/Guaranteedrent" target="_blank">Find Out How Much Your Home Will Rent For in Today's Market </a>
+<a href="http://www.hipacificpm.com/faqs" target="_blank">Learn More About Guaranteed Rent</a>
+
+When you work with us, I guarantee that we’ll pay an agreed upon amount if we don’t rent your property in 30 days or less. 
+
+How do we do that? 
+
+First of all, very few property management companies guarantee their work. We will look at your property’s area, present you with a market rent, and **guarantee your rent at a certain amount.** For example, let’s say your house’s recommended rent is $3,000; we’ll guarantee your rent at $2,400 or $2,600. 
+
+There are many factors that go into renting your home. Until we actually look at the property, we don’t know how renting will go. We don’t know if the people who lived there used to bully the neighborhood, what the parking situation is, or if the house has pets.
+
+When we arrive at the house, we will look at all of those factors to determine whether or not we can rent your home. If we can, then you sign a contract that states that we will do everything in our power to rent your home. **The contract also offers a rent guarantee, an eviction guarantee, and a communication guarantee.**
+
+Many property management companies do not offer an eviction guarantee, even though they put the tenant in the property! If we have to go to eviction with a tenant, we will pay for that. We will also do a four and six-month walkthrough to make sure that your tenants are holding the line as far as your lease goes.
+
+{% include pullquote.html %}
+
+Our communication guarantee is extremely important. Many other property management companies can take a while to call you back if they call you back at all. We will give you an updated report each Monday to let you know how many people looked at the home, how many are interested in renting, and give you any feedback from the renters. You have three numbers to reach us: my number, your property manager’s number, and our 800 number that connects to all of our property managers. If you need to talk to us, someone will answer you, guaranteed.
+
+There are two reasons why I am here: to put money into your bank account and to protect your home. We promise and guarantee that we will do both of those things. If you have any questions for us, please don’t hesitate to give us a call. We are always happy to help you!
+
+///////////////////////////
+
+Meet Your Property Specialists - The Nurre Team 
+
+HIlDfTzCBeI
+https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management-+Meet+your+Property+Specialists+-+The+Nurre+Team.mp4
+
+Today we want to introduce you to Ikaika and Julie Nurre, or as we call them, the Nurre Team. 
+
+Find Out How Much Your Home Will Rent For in Today's Market 
+Learn More About Guaranteed Rent
+
+
+Ikaika Nurre is a property specialist who assists Julie Nurre for HI Pacific Property Management. He enjoys working our team's sophisticated management software system because of how efficiently it allows us to serve our owners.
+
+Julie is excited to be part of the dynamic team because of our focus on taking care of our owners. Not only do we take full care of our owners' investment properties, we put money in the bank for them.
+
+If you have any property management needs, don't hesitate to reach out to us! We'd love to work with you.
+
+///////////////////////////
+
+Filet Mignon For Property Owner With Rent Loss Insurance - No Hot Dogs!
+
+opX7-qx4uOg
+AS AN OWNER, YOUR LIABILITY COVERAGE WILL BE $100,000.
+https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Property+Management-+Filet+mignon+for+property+owner+with+rent+loss+-+no+hot+dogs%2521.mp4
+
+We recommend that our owners carry certain types of insurance coverage so they can maximize their investment property’s value.
+
+<a href="http://www.hipacificpm.com/Guaranteedrent" target="_blank">Find Out How Much Your Home Will Rent For in Today's Market </a>
+<a href="http://www.hipacificpm.com/faqs" target="_blank">Learn More About Guaranteed Rent</a>
+<a href="https://www.teamlally.com/blog/bradley-maruyama-of-allstate-insurance.html" target="_blank">Free Insurance Quote</a>
+
+One of the questions we get asked a lot by our owners is, “How much insurance should we carry on our home while we don’t live in it?” Today I want to delve into this topic to give you an idea of what owners and tenants can expect. 
+
+The first thing you must do as an owner is notify your current insurance company that you’re not using the property as your primary residence. This is an important detail for insurance companies because that makes the property an investment property. 
+
+After that’s done, we first recommend you **take out a renter’s insurance policy that covers at least $10,000 in personal property.** This is primarily to cover your appliances. This sum won’t be enough to cover a disaster like a wind storm blowing off your roof, but we’ve been fortunate enough in Hawaii to mostly avoid hurricanes and other storms capable of that kind of damage in the past 100 years. Your liability coverage will be $100,000, which is in place in case an accident happens on the property. 
+
+The other thing we recommend for owners is to **get loss of rent coverage.** This is important because if there’s a leak or your home incurs some type of water damage, the tenants probably won’t be able to reside in it and pay rent. The loss of rent coverage makes sure you are compensated for the lost rent on your investment. 
+
+{% include pullquote.html %}
+
+What do we ask on the tenant’s side? **We require all tenants to carry a renter’s policy,** which is a simple renter’s policy to cover a minimum of $10,000 on their property, $50,000 in liability, and more if they have a dangerous pet. If they happen to have what we consider a dangerous pet, we ask them to cover $100,000. We also ask them to have loss of rent coverage in their policy so that policy will kick in if something happens to them and prevents them from paying rent. 
+
+If your house has wood floors and experiences a water leak and the tenants can still live there but aren’t happy about it, the tenant’s coverage will take care of what they can cover, and the owner’s coverage will take care of the rest. We often see this situation happen with condos and townhouses. 
+
+Depending on the insurance company, this will cost an owner anywhere from $100 to $300 and a tenant anywhere from $100 to $200. It’s a minimal cost, and we require it of both our tenants before they move in and our owners before they have a tenant reside in their unit.
+
+If you have any questions about this topic, please feel free to reach out to us. We look forward to hearing from you!
 
 
 
