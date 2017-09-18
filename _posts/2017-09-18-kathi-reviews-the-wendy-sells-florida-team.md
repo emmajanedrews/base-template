@@ -8,11 +8,11 @@ tags:
   - Home Seller Tips
 excerpt:
 enclosure: Kathi Reviews the Wendy Sells Florida Team!
-pullquote: 'Andross, the Final Boss'
+pullquote: Kathi Reviews the Wendy Sells Florida Team!
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/square-logo-1-1.jpg
 youtube_code: uieM18rZdHY
 ---
 
