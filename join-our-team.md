@@ -42,7 +42,7 @@ Don’t worry. I assure you we will address each and every one of your concerns.
 
 <h2 class="recruiting">Let's Make You More Money</h2>
 <h4 class="recruiting">Request a phone call - it does not cost a dime to talk.</h4>
-<form method="post" class="home-value cta-forms" action="http://formspree.io/email" onsubmit="return setReturn()">
+<form method="post" class="home-value cta-forms" action="http://formspree.io/paul@kwgatewayhomes.com" onsubmit="return setReturn()">
     <fieldset>
         <p id="thanks"></p>
 <label for="firstname">First Name*</label>
@@ -73,7 +73,7 @@ Don’t worry. I assure you we will address each and every one of your concerns.
 </fieldset>
 <!-- Cloud cannon settings field -->
 <div class="hidden">
-<input type="hidden" name="_to" value="{{site.data.settings.client.email}}">
+<input type="hidden" name="_to" value="paul@kwgatewayhomes.com">
 <input type="hidden" name="_subject" value="Recruiting Contact Request Message From Your {{site.data.settings.title}}">
 <input type="text" name="_gotcha">
 </div>
