@@ -12,7 +12,7 @@ client:
   about_markdown: |
     Prime Toronto Neighbourhoods is a real estate brokerage firm that specializes in prime locations throughout the Toronto area. Rosalin Smith-Carr is one of the finest and well respected real estate agents in Toronto with a knack for locating homes that her clients are thrilled to discover and in getting them into those homes with minimal stress. The market for homes in Toronto is hotter than ever and it takes an exceptional real estate agent to help you get out in front of all the other buyers when you’re looking to buy a home. We know you have options for the agent you choose to work with and we’re confident that after you interview the rest, you’ll select Rosalin as your real estate agent of choice. Many of your neighbours already have!
   market:
-  brand: Prime Toronto Neighborhoods
+  brand: Prime Toronto Neighbourhoods
   brokerage: Johnston & Daniel Division
   address: 477 Mount Pleasant Road Toronto, Ontario Canada
   phone: 416-482-8360
@@ -32,7 +32,7 @@ CTAs:
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
+    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighbourhood? We can help you."
     CTA_link_text: "Free -- MARKET -- Home Value Report"
     CTA_url: /homevalue/
 
