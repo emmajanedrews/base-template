@@ -33,7 +33,7 @@ I also attend local meetups, the most prominent of which is an investment-based 
 
 In addition to that, our team has commercial, lead-focused, weekly meetings where we’re passing deals to each other and addressing any problems we’re encountering.
 
-**We’re also very involved with BiggerPockets.com—a website that’s like Facebook for real estate investors.**
+**We’re also very involved with <a href="https://www.biggerpockets.com/">BiggerPockets.com</a> —a website that’s like Facebook for real estate investors.**
 
 We’re on all of these platforms every month and engaging more business-minded clients than residential ones.
 
