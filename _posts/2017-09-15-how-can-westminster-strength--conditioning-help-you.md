@@ -34,7 +34,7 @@ Beau chose Westminster after exiting the military because it reminded him of hom
 
 Beau opens the gym every morning around 5 a.m. and stays motivated through the members that join him each and every day, no matter how busy their schedule is. “This is the first job in my life where I jump up every day and enjoy coming into work,” he explains. In his opinion, to run a successful business, you need to have a passion for it.&nbsp;
 
-There’s always some gym activity that everyone hates, though, and Beau is no different. His gym is known for it’s ability to teach people how to squat, but Beau himself doesn’t particularly enjoy that lift.&nbsp;
+There’s always some gym activity that everyone hates, though, and Beau is no different. His gym is known for its ability to teach people how to squat, but Beau himself doesn’t particularly enjoy that lift.&nbsp;
 
 If you’d like to live a healthier lifestyle, both mentally and physically, and you think you could benefit from being a part of Westminster Strength & Conditioning, give Beau a call at (540) 454-6697 or visit their website at *[**www.westminsterstrength.com**](http://www.westminsterstrength.com/)* and leave a message. They offer a free, week-long trial program, and **if you mention Atlas Premier Realty, they’ll give you a 50% discount for your first month of membership.**&nbsp;
 
