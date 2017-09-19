@@ -6,13 +6,14 @@ tags:
 excerpt: >-
   What are the most common reasons people tend to make a change in their
   careers? Today, I’ve narrowed that list down to six primary factors.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Govig/BioPharma/Videos/Why+People+Change+Careers.mp4
 pullquote: Being aware of these reasons can help you with new and future goals.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: b0t1Lv_EDeo
+youtube_code: oQdMJ4QGx3Q
 ---
 
 
