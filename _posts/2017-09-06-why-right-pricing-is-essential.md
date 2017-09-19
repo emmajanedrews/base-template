@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Why Right-Pricing Is Essential
-date: 2017-09-06 15:17:19
+date: 2017-09-06 15:17:00
 tags:
   - Home Seller Tips
 excerpt: >-
   A lot of people ask me, “What’s the best pricing strategy? Should I just price
   the home a little high so we can leave room to negotiate?” That strategy may
   work in certain markets, but not in this one.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Right-Pricing%2520Is%2520Key.mp4
 pullquote: Overpriced homes don’t sell.
 enclosure_type: video/mp4
 enclosure_time:
@@ -22,7 +23,7 @@ youtube_code: diE3UVM0ADM
 
 A lot of people ask me, “What’s the best pricing strategy? Should I just price the home a little high so we can leave room to negotiate?” That strategy may work in certain markets, but not in this one.
 
-**The most important thing when selling your home in this market is setting the right price.&nbsp;**To do this, we take a look at other properties that have recently sold and are similar to yours. We compare things like the square footage and home additions/improvements to get the right price.
+**The most important thing when selling your home in this market is setting the right price.**To do this, we take a look at other properties that have recently sold and are similar to yours. We compare things like the square footage and home additions/improvements to get the right price.
 
 {% include pullquote.html %}
 
