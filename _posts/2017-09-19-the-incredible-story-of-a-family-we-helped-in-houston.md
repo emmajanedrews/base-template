@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Incredible Story of a Family We Helped in Houston
-date:
+date: 2017-09-19 15:00:50
 tags:
 excerpt: >-
   Recently we visited Houston in an effort to help those affected by the recent
