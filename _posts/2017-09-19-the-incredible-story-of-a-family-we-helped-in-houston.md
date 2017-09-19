@@ -38,6 +38,6 @@ They had absolutely no idea we were coming. According to the wife and mother, it
 
 It is hard to describe the feeling of seeing the things we’ve seen here. Imagine opening a cabinet to find fish sitting in pots and pans. Some homes were filled with mud while others were just completely destroyed.
 
-This is exactly why we thought it was so important to help. We’ve supplied some manpower and made donations toward the relief effort.<br><br>If you have any goods or supplies to donate, we’re shipping supplies out from our Charleston area. Monetary donations are encouraged, as well. We’ve already raised about $10,000, and we’re still raising more. **Anything you can give, even if it’s only a dollar, is appreciated.** You can find the link to our GoFundMe page here. [3:24]
+This is exactly why we thought it was so important to help. We’ve supplied some manpower and made donations toward the relief effort.<br><br>If you have any goods or supplies to donate, we’re shipping supplies out from our Charleston area. Monetary donations are encouraged, as well. We’ve already raised about $10,000, and we’re still raising more. **Anything you can give, even if it’s only a dollar, is appreciated.** You can find the link to our GoFundMe page here.&nbsp;
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
