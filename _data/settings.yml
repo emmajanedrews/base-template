@@ -44,13 +44,13 @@ CTAs:
   second_CTA_URL: 'http://www.focusrealestateteam.com/featured-listing'
   VR_form: 'http://oi.vresp.com?fid=82a055f9f4'
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/004.jpg
+  - CTA_image_path: /uploads/5345.jpg
     CTA_title: What’s Your -- MARKET -- Home Worth?
     CTA_text: >-
       Are you thinking of selling your home or interested in learning about home
       prices in your neighborhood? We can help you.
     CTA_link_text: Free -- MARKET -- Home Value Report
-    CTA_url: /homevalue/www.focusrealestateteam.com/evaluation
+    CTA_url: 'http://www.focusrealestateteam.com/evaluation'
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: Looking for a -- MARKET -- Home?
