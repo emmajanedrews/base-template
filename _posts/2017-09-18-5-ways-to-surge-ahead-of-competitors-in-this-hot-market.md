@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Ways to Surge Ahead of Competitors in this Hot Market
-date: 2017-09-18 11:28:39
+date: 2017-09-18 11:28:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -13,8 +13,8 @@ pullquote: 'Chances are, if it’s your dream home, it’s also someone else’s
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/no-pb-1.jpg
-youtube_code: gB3Mid4Hk30
+youtube_alternate_image: /uploads/no-pb-10.jpg
+youtube_code: 7zeqZwMFOtc
 ---
 
 
