@@ -34,7 +34,7 @@ So, how can you make your offer stand out in the crowd?
 
 **3. Give the sellers more time to move.** Sellers may need a little time between the closing of escrows, so let them know up front that you’re willing to give them two or three days to comfortably move into their new home.
 
-**4. Shorten or waive some of your contingencies.** The standard contract gives you 17 days after your offer has been accepted to do the inspections and appraisals give the property your due diligence. If you’re willing to shorten that period and/or shorten the 21-day period of your loan contingency, that can also make your offer stand out.
+**4. Shorten or waive some of your contingencies.** The standard contract gives you 17 days after your offer has been accepted to do the inspections and appraisals and give the property your due diligence. If you’re willing to shorten that period and/or shorten the 21-day period of your loan contingency, that can also make your offer stand out.
 
 **5. Write your best offer.** The market is very competitive right now, so don’t look forward to doing a lot of negotiating back and forth. As far as your offer goes, lean toward making your best offer up front. This lets the seller know that you’re genuinely interested in their property, and certainly will put you in a stronger position.
 
