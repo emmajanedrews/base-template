@@ -4,6 +4,15 @@ layout: default
 
 <h1>Client Audio Testimonials</h1>
 
+div class="client-testimonial">
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/337872464&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<p class="testimonial-text">
+"It was nice dealing with the whole team I felt like they accomplished the goal. When they approached us they said they'd get above asking price, and they 100 percent did. We were very well satisfied and happy with the end result. They were always good to deal with, it went well for us. My work schedule is pretty full on, so a lot of times I'd be calling them after hours and they were on family vacations and what not, but they'd always answer and get back to me. They were very good to deal with, where I'd think normal people would have just ignored it or let it go to voicemail."
+</p>
+<p class="testimonial-author">
+-Casey C.
+</p>
+<hr>
 <div class="client-testimonial">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/337872121&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 <p class="testimonial-text">
