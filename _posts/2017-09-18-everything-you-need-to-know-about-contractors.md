@@ -27,7 +27,7 @@ Today’s subject is one we’ve covered in the past, but we recently had a situ
 
 In this particular situation, we had a client buying a house where there was a heated tile floor in the master bathroom. Because the tile was cracked, the seller agreed to have their own contractor replace it.
 
-The contractor came and broke up four tiles only to break the heating mat underneath. **Thinking they had repaired the issue, the contractor retiled overtop of the now broken heating mat.**
+The contractor came and broke up four tiles only to break the heating mat underneath. **Thinking they had repaired the issue, the contractor retiled over the top of the now broken heating mat.**
 
 Because they didn’t remove all of the mortar that held the tile down, the new tile they put in ended up sitting about an eighth to a quarter of an inch higher than the rest of the tile. This became a tripping hazard, and was truly a horrifying repair.
 
