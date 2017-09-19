@@ -1,98 +1,120 @@
 audit_header: false
-title: -- CLIENT BRAND --
-description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
+title: '-- CLIENT BRAND --'
+description: >-
+  Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET --
+  real estate advice. Whether you are a buyer, seller, or investor, our team of
+  professionals can answer any questions you might have about real estate. If
+  you are looking to buy or sell a home, you can get all the information and the
+  latest updates, tips, and tricks from The -- CLIENT BRAND --, your
+  professional -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
     url:
-
 client:
   name: Windy Ruffini & Traci Farrell
-  license_number: 01526913
-  about_markdown: |
-    Energy, experience, integrity and the calm efficiency to complete transactions smoothly. Those are the hallmarks of a professional. A professional you want on your side. Always FOCUSED on our clients, bringing hands on experience beyond the normal negotiation of real estate sales. That breadth of knowledge spans both residential and commercial properties. We have been a principal in a variety of projects, including entitlement of vacant land, development of luxury residential neighborhoods, multi-family, rehab of existing structures, as well as the acquisition and re-positioning of distressed properties. As an active real estate investor, we are frequent key note speakers on real estate. We constantly monitor rapidly changing market statistics. Local knowledge combined with proven strategies for marketing properties is our companies hallmark.
+  license_number: 1526913
+  about_markdown: >
+    Energy, experience, integrity and the calm efficiency to complete
+    transactions smoothly. Those are the hallmarks of a professional. A
+    professional you want on your side. Always FOCUSED on our clients, bringing
+    hands on experience beyond the normal negotiation of real estate sales. That
+    breadth of knowledge spans both residential and commercial properties. We
+    have been a principal in a variety of projects, including entitlement of
+    vacant land, development of luxury residential neighborhoods, multi-family,
+    rehab of existing structures, as well as the acquisition and re-positioning
+    of distressed properties. As an active real estate investor, we are frequent
+    key note speakers on real estate. We constantly monitor rapidly changing
+    market statistics. Local knowledge combined with proven strategies for
+    marketing properties is our companies hallmark.
   market:
   brand: Focus Real Estate Team
   brokerage: REmax Omega
-  address: 10 Corporate Park 110 Irvine, CA 92606
+  address: '10 Corporate Park 110 Irvine, CA 92606'
   phone: 949-887-1393
   phone_type:
   phone2:
   phone2_type:
   email: Windy@FocusRealEstateTeam.com
   url: www.FocusRealEstateTeam.com
-
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/www.focusrealestateteam.com/evaluation
+  first_CTA_URL: 'http://www.focusrealestateteam.com/evaluation'
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/www.focusrealestateteam.com/
-  VR_form: http://oi.vresp.com?fid=82a055f9f4
-
+  second_CTA_URL: 'http://www.focusrealestateteam.com/featured-listing'
+  VR_form: 'http://oi.vresp.com?fid=82a055f9f4'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free -- MARKET -- Home Value Report"
+    CTA_title: What’s Your -- MARKET -- Home Worth?
+    CTA_text: >-
+      Are you thinking of selling your home or interested in learning about home
+      prices in your neighborhood? We can help you.
+    CTA_link_text: Free -- MARKET -- Home Value Report
     CTA_url: /homevalue/www.focusrealestateteam.com/evaluation
-
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
+    CTA_title2: Looking for a -- MARKET -- Home?
+    CTA_text2: Search the entire MLS for your -- MARKET -- home.
+    CTA_link_text2: Search the MLS
     CTA_url2: /homesearch/www.focusrealestateteam.com/
-
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
+  headshot_path: 'http://fillmurray.com/200/200'
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: http://eyegoop.com
-
+  url: 'http://eyegoop.com'
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
+    Our mission at -- CLIENT BRAND -- is to be your best resource for real
+    estate advice. Whether you are a buyer, seller, or investor, our team of
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
-
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/focusrealestateteam
+  facebook_url: 'https://www.facebook.com/focusrealestateteam'
   linkedin_url:
-  gplus_url: https://plus.google.com/111696315013409971890
-  youtube_url: https://www.youtube.com/channel/UC6S4I0qy7eZZ_x_Dp-nV7bQ
-  twitter_url: https://twitter.com/JessReidCIRE
-  instagram_url: https://www.instagram.com/windyruffinifocusrealestate/
+  gplus_url: 'https://plus.google.com/111696315013409971890'
+  youtube_url: 'https://www.youtube.com/channel/UC6S4I0qy7eZZ_x_Dp-nV7bQ'
+  twitter_url: 'https://twitter.com/JessReidCIRE'
+  instagram_url: 'https://www.instagram.com/windyruffinifocusrealestate/'
   pinterest_url:
-  zillow_url: https://www.zillow.com/profile/windyruffini/
-  trulia_url: 
+  zillow_url: 'https://www.zillow.com/profile/windyruffini/'
+  trulia_url:
   yelp_url:
   podcast_url:
-
 podcast:
-  title: 'California Real Estate Podcast with Windy Ruffini & Traci Farrell'
-  categories: Education
+  title: California Real Estate Podcast with Windy Ruffini & Traci Farrell
+  categories:
+    - Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the California Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in California, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: 'Windy Ruffini & Traci Farrell'
-
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the California
+    Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+    Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in California, home
+    selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
+  author: Windy Ruffini & Traci Farrell
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 80
   hero_text:
-  hero_background_hex: '#999'
+  hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
@@ -101,13 +123,11 @@ site_colors:
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
   shadow_color: '#0b57a3'
-
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
