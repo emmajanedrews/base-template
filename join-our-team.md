@@ -6,7 +6,7 @@ permalink: /join-our-team/
 
 <h2 class="recruiting">Let's Make You More Money</h2>
 <h4 class="recruiting">Request a phone call - it does not cost a dime to talk.</h4>
-<form method="post" class="home-value cta-forms" action="http://formspree.io/email" onsubmit="return setReturn()">
+<form method="post" class="home-value cta-forms" action="http://formspree.io/Chip@LakeRealty.com" onsubmit="return setReturn()">
     <fieldset>
         <p id="thanks"></p>
 <label for="firstname">First Name*</label>
@@ -37,7 +37,7 @@ permalink: /join-our-team/
 </fieldset>
 <!-- Cloud cannon settings field -->
 <div class="hidden">
-<input type="hidden" name="_to" value="{{site.data.settings.client.email}}">
+<input type="hidden" name="_to" value="Chip@LakeRealty.com">
 <input type="hidden" name="_subject" value="Recruiting Contact Request Message From Your {{site.data.settings.title}}">
 <input type="text" name="_gotcha">
 </div>
