@@ -1736,7 +1736,8 @@ body {
   margin: 0;
   background: #ffffff;
   -webkit-animation: 1s ease-in-out fadein;
-          animation: 1s ease-in-out fadein; }
+          animation: 1s ease-in-out fadein;
+  font-size: 18px; }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Source Sans Pro", helvetica, arial, sans-serif;
@@ -1921,6 +1922,11 @@ table tr, table td {
 
 .post-image {
   width: 100%; }
+
+.post-image-small {
+  width: 25%;
+  float: left;
+  padding: 20px 20px 20px 0; }
 
 .post-image-container {
   padding: 0; }
