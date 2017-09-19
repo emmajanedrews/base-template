@@ -3,7 +3,16 @@ layout: page
 title: Join Our Team
 permalink: /join-our-team/
 ---
-
+<div class="recruiting-photo">
+  <span class="client-image-container">
+    <img src="/img/headshot.jpg" alt="Adrienne Lally" class="client-image"/>
+  </span>
+<figcaption class="caption">Adrienne Lally</figcaption>
+  <span class="client-image-container">
+    <img src="/img/headshot2.jpg" alt="Attilio Leonardi" class="client-image"/>
+  </span>
+<figcaption class="caption">Attilio Leonardi</figcaption>
+</div>
 Dear Frustrated Real Estate Agent or Tired Employee,
 
 We understand that you may be frustrated right now with your current brokerage or place of work. Perhaps you feel as if you aren’t receiving much, if any, support in building the wealth and success you deserve. You may even feel as if you have no room to grow in your current situation, or as if you simply aren’t being paid up to your worth.
