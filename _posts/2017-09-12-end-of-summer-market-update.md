@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Summer is over, but the real estate market never stops. Here’s what you can
   expect this fall.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Karlyn+Ellis/Buda%252C+Texas+Real+Estate-+A+Quick+Update+on+the+Market+(1).mp4
 pullquote: Almost half of our listings are new homes.
 enclosure_type: video/mp4
 enclosure_time:
