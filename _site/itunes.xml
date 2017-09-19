@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>California Real Estate Podcast with Windy Ruffini & Traci Farrell</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://focusrealestateteamblog.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://focusrealestateteamblog.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Focus Real Estate Team - your professional Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Windy Ruffini & Traci Farrell</managingEditor>
-    <lastBuildDate>2017-08-28 14:04:18 -0500</lastBuildDate>
+    <lastBuildDate>2017-09-19 15:48:40 -0500</lastBuildDate>
     <media:copyright>Windy Ruffini & Traci Farrell</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://focusrealestateteamblog.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in California, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,15 +18,297 @@
     </itunes:owner>
     <itunes:author>Windy Ruffini & Traci Farrell</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://focusrealestateteamblog.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in California, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the California Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Focus Real Estate Team - your professional Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
+        <title>How Does Student Debt Impact Your Ability to Buy a Home?</title>
+        <link>http://focusrealestateteamblog.com/how-does-student-debt-impact-your-ability-to-buy-a-home.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Windy Ruffini & Traci Farrell</author>
+        <pubDate>2017-08-08 10:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Windy+Ruffini/2017/South+Orange+County+Real+Estate-+Can+You+Qualify+for+a+Loan+With+Student+Debt%253F.mp4</guid>
+        <description>
+
+JJ Mazzo from Summit Funding is back to discuss the elephant in the room: student debt.
+
+Can you qualify for a home loan if you have a lot of student debt?
+
+Student debt is no different than other debt. JJ says that next to your credit score, your debt-to-income ratio is the most important thing your lender looks at. Your debt-to-income ratio is how much you spend each month, including your new housing payment, versus how much you make.
+
+It’s very important that you know what your debt load is.
+
+If you don’t have full amortized payments for your student loan debt, then you need to get it. Your fully amortized payment could be different from the amount that comes back on the credit report. JJ says if you can’t find that, then most loan programs will use 1% of the balance of the loan, which can make it a bit more difficult to qualify.
+
+Ultimately, getting that amortized payment is as important to your lender as it is to you. As your lender, JJ says, we want you to be in a position where we can ensure that you will be able to pay that money back and buy your new home with confidence.
+
+“Pay down smaller debts first.”
+
+It’s even more important to make sure that you’re keeping as much of your tax dollars as possible in your pocket. That way, if you do have other debts, you can pay them off faster.
+
+If you do have a lot of student debt, how can you increase your credit score and minimize your interest rate?
+
+JJ recommends that you tackle your debts from smallest to highest. Pay off the smaller debts first. It’s really a win-win situation. It feels great to start knocking out some of those small debts and go from five debts to three to one.
+
+You should also make sure that you make your payments on time. Don’t over-utilize your other credit cards and debts, either. For example, if you have a credit card with a $3,000 limit, try not to use more than $1,000 of your limit. In other words, try not to use more than 30% of your credit limit.
+
+We hope these tips help.
+
+If you have any other questions, you can reach our lending expert JJ Mazzo at 877-237-9694 or jj@mazzogroup.com. As always, if you have any real estate questions, just give me a call or send me an email. I would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Windy+Ruffini/2017/South+Orange+County+Real+Estate-+Can+You+Qualify+for+a+Loan+With+Student+Debt%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://focusrealestateteamblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Windy+Ruffini/2017/South+Orange+County+Real+Estate-+Can+You+Qualify+for+a+Loan+With+Student+Debt%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you have a large amount of student loan debt, can you still qualify for a home? JJ Mazzo from Summit Funding is here to offer a few tips.</itunes:subtitle>
+        <itunes:author>Windy Ruffini & Traci Farrell</itunes:author>
+        <itunes:summary>If you have a large amount of student loan debt, can you still qualify for a home? JJ Mazzo from Summit Funding is here to offer a few tips.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in California, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>PRE-QUALIFICATIONS VS. PRE-APPROVALS: WHICH IS BETTER?</title>
+        <link>http://focusrealestateteamblog.com/pre-qualifications-vs-pre-approvals-which-is-better.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Windy Ruffini & Traci Farrell</author>
+        <pubDate>2017-06-28 12:05:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Windy+Ruffini/2017/South+Orange+County+Real+Estate-+The+Difference+Between+Pre-Qualifications+and+Pre-Approvals.mp4</guid>
+        <description>
+
+“In the eyes of a seller, the difference between a pre-qualification and a pre-approval is huge.”
+
+What’s the difference between a pre-qualification and a pre-approval?
+
+According to JJ Mazzo of Summit Funding, the biggest difference is that with a pre-qualification lenders will take an application and run your credit, but they take factors like your income and assets only as a verbal affirmation. They don’t necessarily verify all of the hard evidence and documentation, and pre-qualifications also aren’t reviewed by an underwriter.
+
+With a pre-approval, however, lenders have all the documentation they need to give the seller the peace of mind they need. Unlike pre-qualifications, pre-approvals are reviewed by an underwriter, which allows the buyer to shop with more confidence.
+
+In the eyes of a seller, the difference between a pre-qualification and a pre-approval is huge. When a seller reviews an offer, a buyer who is pre-approved has a much higher standing. Oftentimes, we win out on a lot of our bids because our buyers have a pre-approval letter.
+
+When it comes to increasing the number of properties our clients are able to win, JJ and his team also have a 10-day close guarantee which states that for every day that they’re late to the closing, they give $100 to the seller. This gives the seller the peace of mind that if they can’t perform, they still have skin in the game. It’s 10 total calendar days, too—not business days.
+
+Sellers want their money and they want it fast, so we want to give our buyers the leverage to give them what they’re asking for. Being able to partner with JJ and his team has been a huge deal for our buyers to help them qualify for and win the properties they want. If you’d like to reach out to JJ, you can call him at (877) 237-9694 or email him at jj@mazzogroup.com.
+
+If you have any other questions for us or are thinking of buying or selling a home, please don’t hesitate to give us a call or shoot us an email. We’d be happy to help.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Windy+Ruffini/2017/South+Orange+County+Real+Estate-+The+Difference+Between+Pre-Qualifications+and+Pre-Approvals.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://focusrealestateteamblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Windy+Ruffini/2017/South+Orange+County+Real+Estate-+The+Difference+Between+Pre-Qualifications+and+Pre-Approvals.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>The biggest difference between a pre-approval and a pre-qualification is pre-approvals are much more thorough and put you in a much better standing in the eyes of sellers.</itunes:subtitle>
+        <itunes:author>Windy Ruffini & Traci Farrell</itunes:author>
+        <itunes:summary>The biggest difference between a pre-approval and a pre-qualification is pre-approvals are much more thorough and put you in a much better standing in the eyes of sellers.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in California, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>EXAMINING SOME OF THE OTHER COSTS OF HOMEOWNERSHIP</title>
+        <link>http://focusrealestateteamblog.com/examining-some-of-the-other-costs-of-homeownership.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Windy Ruffini & Traci Farrell</author>
+        <pubDate>2017-06-14 09:11:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Windy+Ruffini/2017/South+Orange+County+Real+Estate-+Examining+Some+of+the+Other+Costs+of+Homeownership.mp4</guid>
+        <description>
+
+What is the true cost of homeownership?
+
+Oftentimes when people purchase their homes, they think solely about what their mortgage and interest payments will be. If you’re thinking about purchasing a home, there are a few other things you’ll want to consider.
+
+The first is if there will be property taxes and Mello-Roos for your particular home. You might find Mello-Roos in newer communities that have just been built, such as some sections of Irvine where the developer is passing along the infrastructure cost in the form of a tax. Mello-Roos can raise your property tax by 1% to 2%, which can be a big hit to your cash flow on a monthly basis.
+
+“It’s also a good idea to factor in the cost of window coverings and furnishings”
+
+Additionally, some financial experts recommend that you keep a slush fund of 1% to 2% for maintenance issues that could arise on your new home. It’s also a good idea to ask the current owners if they wouldn’t mind sharing their utility bills over the course of a year. You may be surprised how much these fluctuate, especially if you’re in Orange County’s inland region during the summer months when the air conditioning bills can jump considerably.
+
+If you’re a first-time homebuyer moving from an apartment into a larger house, it’s also a good idea to factor in the cost of window coverings and furnishings and set aside a little cash for that.
+
+If you have any questions about the costs of homeownership, feel free to give me a call. I’d be happy to speak with you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Windy+Ruffini/2017/South+Orange+County+Real+Estate-+Examining+Some+of+the+Other+Costs+of+Homeownership.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://focusrealestateteamblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Windy+Ruffini/2017/South+Orange+County+Real+Estate-+Examining+Some+of+the+Other+Costs+of+Homeownership.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you’re thinking about buying a home, you’ll want to take into account these other costs you might not have considered yet.</itunes:subtitle>
+        <itunes:author>Windy Ruffini & Traci Farrell</itunes:author>
+        <itunes:summary>If you’re thinking about buying a home, you’ll want to take into account these other costs you might not have considered yet.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in California, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>HOW TO SELL A PROPERTY WITH RENTERS</title>
+        <link>http://focusrealestateteamblog.com/how-to-sell-a-property-with-renters.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Windy Ruffini & Traci Farrell</author>
+        <pubDate>2017-06-01 08:23:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Windy+Ruffini/2017/South+Orange+County+Real+Estate-+How+to+Sell+a+Property+With+Renters.mp4</guid>
+        <description>
+
+Can you sell a property if you have a renter living in the unit? The answer is absolutely yes, but you are limiting the pool of potential buyers to investors if you are in the middle of a lease.
+
+Most people actually wait until the lease is about to expire before they notify their tenants. Here in the state of California, there are two noticing periods if you would like the tenant to vacate. If the tenant has been in the property for less than a year, you need to give them 30 days. If the tenant has been in the property for over a year, you need to give them 60 days to vacate.Then, you can get in and clean up the property before you put it on the market.
+
+“Most people actually wait until the lease is about to expire before they notify their tenants.”
+
+However, if you’ve had really great tenants and you think they may be willing to work with you to sell the home, I actually recommend allowing them to stay in the property. Once their lease is over, simply put them on a month-to-month lease. That way, you can show the home while it’s still furnished, which is very beneficial as some people have difficulty visualizing where things will go in the property.
+
+If you do decide to sell while the tenant is still in the property, you have to provide 24-hours notice to the tenants before each showing. The showings also have to happen during normal business hours, as the tenant has the right to inhabit the property with peaceful enjoyment.
+
+If you have any other questions about selling your rental property, just give me a call or send me an email. I would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Windy+Ruffini/2017/South+Orange+County+Real+Estate-+How+to+Sell+a+Property+With+Renters.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://focusrealestateteamblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Windy+Ruffini/2017/South+Orange+County+Real+Estate-+How+to+Sell+a+Property+With+Renters.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Can you sell a property if you have a renter in the unit? There are actually a few different ways to approach this.</itunes:subtitle>
+        <itunes:author>Windy Ruffini & Traci Farrell</itunes:author>
+        <itunes:summary>Can you sell a property if you have a renter in the unit? There are actually a few different ways to approach this.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in California, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>HOW HAS THE SOUTH ORANGE COUNTY MARKET DONE THIS YEAR?</title>
+        <link>http://focusrealestateteamblog.com/how-has-the-south-orange-county-market-done-this-year.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Windy Ruffini & Traci Farrell</author>
+        <pubDate>2017-05-12 10:27:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Windy+Ruffini/2017/South+Orange+County+Real+Estate-+Market+Status.mp4</guid>
+        <description>
+
+We started the year with low inventory. Since there weren’t many properties available for sale at the beginning of the year, multiple offers came in on every reasonably priced single-family home on the market, which was great for sellers.
+
+There has been a 1.4% increase in sales prices over the last four months, and the average days on market has gone down. In January, homes spent an average of 45 days on market; at the end of April, that number dropped to 27 days.
+
+This tells us that sellers are more inclined to take an offer that has a faster close than the traditional 30-day closing.
+
+“We are still in a seller’s market”
+
+If you are a buyer, it’s still a great time to buy. We are within a half point of the lowest interest rates in our market. You should work with a lender who can help you closer in fewer than 30 days in order to make your offer more appealing to sellers. I have lenders who can get you closed in 10 to 14 days.
+
+That said, we are still in a seller’s market.
+
+If you are interested in buying or selling a home, or if you just have more questions about our current market, give me a call or send me an email. I would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Windy+Ruffini/2017/South+Orange+County+Real+Estate-+Market+Status.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://focusrealestateteamblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Windy+Ruffini/2017/South+Orange+County+Real+Estate-+Market+Status.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>The 2017 real estate market has been an interesting ride so far. Today, I’ll go over some of the significant trends you should know about.</itunes:subtitle>
+        <itunes:author>Windy Ruffini & Traci Farrell</itunes:author>
+        <itunes:summary>The 2017 real estate market has been an interesting ride so far. Today, I’ll go over some of the significant trends you should know about.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in California, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>DEBUNKING A FEW CREDIT MYTHS</title>
+        <link>http://focusrealestateteamblog.com/debunking-a-few-credit-myths.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Windy Ruffini & Traci Farrell</author>
+        <pubDate>2017-04-21 07:38:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Windy+Ruffini/2017/South+Orange+County+Real+Estate-+Debunking+the+Myths+of+Credit+Scores.mp4</guid>
+        <description>
+
+There seems to be a lot of misinformation out there when it comes to buying a home with low credit. A lot of people who comes to us and tell us they have bad credit are all but certain they won’t qualify for a loan. However, as our friend JJ Mazzo of Summit Funding puts it, there are types of loan programs out there for every kind of buyer, even one with a low credit score.
+
+JJ can get you a loan with a score as low as 550. However, he can also get you connected with a credit repair company to help you raise your score. The higher your score, the better rate and better loan terms you’ll be able to qualify for.
+
+“If you have a score of 750 but your spouse has a score of 550, we’ll have to take the 550.”
+
+What if your spouse has a low score? That could be a problem, depending on the type of loan you’re trying to get. Both spouse’s incomes aren’t always needed. If they only need the higher of the two scores to qualify, we’ll just take the higher score. However, there are some loans out there that require us to take the lower of the two scores. If you have a score of 750 but your spouse has a score of 550, we’ll have to take the 550.
+
+Does pulling your credit make a difference to your score? Yes and no. When a lender like JJ pulls your credit, it’s called a “hard pull.” A hard pull may affect your credit score for a temporary period of time. However, you can do what’s called a “soft pull” on your own. That’s where you go to one of the three major credit bureaus and have your score pulled. You can do this for free once per year with each of the bureaus. If you do plan on buying a home, a hard pull is worth it to get a better picture of your affordability.
+
+If you have any questions about credit or buying a home, give us a call or send us an email. We would love to hear from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Windy+Ruffini/2017/South+Orange+County+Real+Estate-+Debunking+the+Myths+of+Credit+Scores.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://focusrealestateteamblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Windy+Ruffini/2017/South+Orange+County+Real+Estate-+Debunking+the+Myths+of+Credit+Scores.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>There are a lot of myths surrounding homebuying and bad credit. Although you won’t be able to get the best rates, you can still qualify for a home loan with a low score.</itunes:subtitle>
+        <itunes:author>Windy Ruffini & Traci Farrell</itunes:author>
+        <itunes:summary>There are a lot of myths surrounding homebuying and bad credit. Although you won’t be able to get the best rates, you can still qualify for a home loan with a low score.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in California, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>EXPLAINING A FEW TERMS THAT TRIP UP FIRST-TIME HOMEBUYERS</title>
+        <link>http://focusrealestateteamblog.com/explaining-a-few-terms-that-trip-up-first-time-homebuyers.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Windy Ruffini & Traci Farrell</author>
+        <pubDate>2017-03-09 08:36:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Windy+Ruffini/2017/South+Orange+County+Real+Estate-+terms+that+trip+up+first+time+buyers.mp4</guid>
+        <description>
+
+What are some real estate terms that often trip up first-time homebuyers? We’ve compiled a list of them and explained each term’s definition to give you a better understanding of the home sale process.
+
+Mortgage pre-approval: A mortgage pre-approval is when a lender looks at all of your financials and determines what you can qualify for in terms of a loan or a mortgage.Escrow:Escrow is a neutral third party that helps both parties in a transaction with any funds that need to be held on either party’s behalf.Impound account: An impound account can be chosen by buyers and starts after escrow closes. This holds your property taxes, insurance payments and pays them on time. Every month, part of your monthly payment goes toward these homeowner expenses that would otherwise be a large lump sum payment.Earnest money deposit: When you put an offer on a property, a seller wants to know if you’re a serious buyer. To demonstrate that you are, you put down an earnest money deposit which is typically 3% or less of the purchase price. This money is deposited into escrow until the purchase is complete or until you decide to cancel the purchase. The earnest money deposit will go towards your total down payment.Contingencies: Contingencies are a type of condition that you put in place when you submit the offer to protect yourself as a buyer. For example, there is an inspection contingency that allows you the time to do inspections and back out of the transaction if you find something you can’t live with.Property taxes: There are two types of property taxes associated with properties. One is your base tax rate, which the county will assess. The second is Mello Roos Tax. This is a supplemental tax that is specific to a certain development. Mello-Roos is also called a CFD on a tax bill, which stands for community facilities district. This can be a major improvement like a road or a school district that’s added to your property tax bill. Not all communities within a given city have Mello-Roos. Typically, you’ll find this in newer communities, and Mello-Roos has a defined time before it expires and you no longer have to pay it.Final walkthrough (before you close): This is an opportunity for you as a buyer to walk through and make sure the house you put an offer on is still in the existing condition or in a better one if repairs have been made. The final walk through is typically done 3-5 days before close of escrow.Estimated closing statement: This will list all of the closing costs.Closing costs: There are both buyer closing costs and seller closing costs. These are the different fees associated with the closing of a home.If you have any questions about any of these terms or anything else about the world of real estate, please feel free to reach out to us at your convenience. We’d be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Windy+Ruffini/2017/South+Orange+County+Real+Estate-+terms+that+trip+up+first+time+buyers.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://focusrealestateteamblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Windy+Ruffini/2017/South+Orange+County+Real+Estate-+terms+that+trip+up+first+time+buyers.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>As a first-time homebuyer, are you confused by any real estate terms you’ve come across? We’ve provided a list to help you.</itunes:subtitle>
+        <itunes:author>Windy Ruffini & Traci Farrell</itunes:author>
+        <itunes:summary>As a first-time homebuyer, are you confused by any real estate terms you’ve come across? We’ve provided a list to help you.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in California, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>SELLING A HOME DURING A DIVORCE</title>
+        <link>http://focusrealestateteamblog.com/selling-a-home-during-a-divorce.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Windy Ruffini & Traci Farrell</author>
+        <pubDate>2017-02-28 09:51:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Windy+Ruffini/2017/South+Orange+County+Real+Estate-+Selling+a+Home+During+a+Divorce.mp4</guid>
+        <description>
+
+Going through a divorce and selling a home are probably two of the most trying and stressful events anyone can go through. When you have to do them both at the same time, it can be overwhelming. We’re here to help make the process easier by taking you through the different options you have.
+
+Your home is one of your largest assets, so how you handle it will be vitally important as you move forward in your divorce. The first thing you need to decide is what you want to do with the house.We usually see people take one of three routes.
+
+The first is to have one spouse buy out the other’s stake in the house. A lot of times, that’s not an option. Another option is to have one spouse live in the home with the children until the youngest child is 18 and then sell the house after and divide the proceeds.
+
+“The first thing you need to decide is what you want to do with the house.”
+
+The third option is to simply sell the house. Unless you don’t have any equity in the home, this is probably the best option because of the tax benefits you receive. It’s important that you know with this option, you are going to want to sell your house before the divorce is finalized. Here’s why.
+
+In California, married couples are entitled to a $500,000 capital gains exclusion. That means you can receive up to $500,000 of tax-free profit on your home sale. If you are single and selling, that exclusion only amounts to $250,000. That’s a huge swing.
+
+Once you have decided to sell, here are five tips that will help make things easier throughout the process:
+
+1. Proper preparation.We want to make sure that when you do sell, you don’t broadcast it to all of your coworkers or neighbors. The reason we say this is because when buyers find out that a home is being sold during a divorce, they start to view it as more of a distressed sale than anything else. This will lead to them sending lowball offers and trying to get the home as cheap as possible.2. Carefully select your agent. A family member or friend isn’t always the best idea. You want a neutral third party.3. Formulate a great communication plan. When emotions and tensions are high, communication becomes extra important. Work with your Realtor on a communication plan up front so each spouse feels included and respected throughout the entire process.4. How are you going to handle showings? We recommend putting a calendar together with your agent so you can maximize the number of showings.5. Make sure you have a written agreement on who gets what inside the home.If you have any questions for us or if you or someone you know is currently going through a situation like this, give us a call or send us an email. We are always happy to help.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Windy+Ruffini/2017/South+Orange+County+Real+Estate-+Selling+a+Home+During+a+Divorce.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://focusrealestateteamblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Windy+Ruffini/2017/South+Orange+County+Real+Estate-+Selling+a+Home+During+a+Divorce.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Divorce is stressful for the entire family. It is even more stressful when you need to sell at the same time.</itunes:subtitle>
+        <itunes:author>Windy Ruffini & Traci Farrell</itunes:author>
+        <itunes:summary>Divorce is stressful for the entire family. It is even more stressful when you need to sell at the same time.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in California, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>this is a test post</title>
-        <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
+        <link>http://focusrealestateteamblog.com/this-is-a-test-post-copy-2.html</link>
         
           <category>Market Update</category>
         
@@ -54,7 +336,7 @@ Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper 
 Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://focusrealestateteamblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
@@ -65,7 +347,7 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
       
       <item>
         <title>A Fox in Space</title>
-        <link>localhost:4000/a-fox-in-space.html</link>
+        <link>http://focusrealestateteamblog.com/a-fox-in-space.html</link>
         
           <category>Market Update</category>
         
@@ -109,7 +391,7 @@ Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper 
 Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://focusrealestateteamblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>

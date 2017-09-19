@@ -12,8 +12,10 @@ custom_links:
   - title:
     url:
 client:
-  name: Windy Ruffini & Traci Farrell
-  license_number: 1526913
+  name: Windy Ruffini
+  license_number: 'CalBRE #1526913'
+  name2: Traci Farrell
+  license_number2: 'CalBRE #01903217 | UT #1526913'
   about_markdown: >-
     Energy, experience, integrity and the calm efficiency to complete
     transactions smoothly. Those are the hallmarks of a professional. A
@@ -127,7 +129,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: '#0b57a3'
+  shadow_color: transparent
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10

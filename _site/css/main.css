@@ -1581,12 +1581,12 @@ label.tree-toggle {
 .site-logo {
   width: 90%;
   max-width: 80rem;
-  -webkit-filter: drop-shadow(0px 2px 7px #0b57a3);
-  filter: drop-shadow(0px 2px 7px #0b57a3); }
+  -webkit-filter: drop-shadow(0px 2px 7px transparent);
+  filter: drop-shadow(0px 2px 7px transparent); }
 
 .site-title {
   color: white;
-  text-shadow: 0px 2px 7px #0b57a3;
+  text-shadow: 0px 2px 7px transparent;
   text-transform: uppercase;
   font-size: 6.5rem;
   padding-bottom: 4rem;
@@ -1909,15 +1909,20 @@ table tr, table td {
 .post-overview-title {
   font-size: 3rem;
   text-align: left;
-  padding-left: 10px; }
+  padding-left: 10px;
+  color: black; }
 
 .post-title {
   font-size: 5rem;
-  text-align: left; }
+  text-align: left;
+  color: black; }
 
 .post-link {
+  color: black;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out; }
+  .post-link:hover {
+    color: #3F678B; }
 
 .post-image {
   width: 100%; }
@@ -2030,9 +2035,9 @@ table tr, table td {
 .post .post-title {
   font-size: 5rem;
   margin: 2rem 0;
-  color: white;
+  color: black;
   text-transform: uppercase;
-  text-shadow: 0px 2px 7px #0b57a3; }
+  text-shadow: 0px 2px 7px transparent; }
 .post .headshot {
   width: 100%;
   max-width: 15rem;
@@ -2047,7 +2052,7 @@ table tr, table td {
 
 .tag-container {
   color: white;
-  text-shadow: 0px 2px 7px #0b57a3;
+  text-shadow: 0px 2px 7px transparent;
   margin-bottom: 1rem; }
 
 .tag {
@@ -2058,7 +2063,7 @@ table tr, table td {
 .author-attribution {
   color: white;
   font-weight: 300;
-  text-shadow: 0px 2px 7px #0b57a3;
+  text-shadow: 0px 2px 7px transparent;
   margin-bottom: 2rem;
   font-style: italic; }
   .author-attribution a {
