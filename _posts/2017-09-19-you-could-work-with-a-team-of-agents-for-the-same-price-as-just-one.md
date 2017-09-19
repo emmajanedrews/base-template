@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You Could Work With a Team of Agents for the Same Price as Just One
-date:
+date: 2017-09-19 10:56:04
 tags:
   - Real Estate
 excerpt: >-
