@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Purchasing a Home? Avoid Doing These 6 Things at All Costs
-date: 2017-09-18 09:34:19
+date: 2017-09-18 09:34:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -10,7 +10,7 @@ excerpt: >-
 enclosure:
 pullquote: >-
   15% of agents believe that offering too little on a property is the biggest
-  mistake an offer could make.
+  mistake a buyer could make.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -25,7 +25,7 @@ Today I want to talk to you about the six things you should never do when buying
 
 First, don’t shop without an agent. If you’d like, you can start out by looking online at pictures of homes on the market.
 
-This can be a great way to get a lay of the land. But, when you want to become serious about buying a home, you should always get in touch with a quality agent. **Your agent is there to turn your dreams of homeownership into reality**, and will guide you through every step of the process.
+This can be a great way to get a lay of the land. But, when you want to become serious about buying a home, you should always get in touch with a quality agent. **Your agent is there to turn your dreams of homeownership into reality**&nbsp;and will guide you through every step of the process.
 
 The right professional will assist you in everything from getting your offer accepted to negotiating inspection repairs and more.
 
