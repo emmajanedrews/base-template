@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Dq1l_4Vwo2w
+youtube_code: dm10t3fAcLY
 ---
 
 
@@ -35,7 +35,7 @@ But out of all the possible remodeling projects out there, which ones actually p
 
 **3. Your deck.** Replacing your deck can cost you anywhere from a few thousand dollars to tens of thousands of dollars, depending on the size. The expected benefit will be similar to a bathroom remodeling project—**around an 80% return for a fresh, new deck.**
 
-**4. Your siding.&nbsp;**Fading or worn-out siding can turn off potential buyers before they even step foot in your home. Replacing old siding will make it much easier to sell your home, and in addition, it should give you an **80% return on an investment of around $10,000.**
+**4. Your siding.**Fading or worn-out siding can turn off potential buyers before they even step foot in your home. Replacing old siding will make it much easier to sell your home, and in addition, it should give you an **80% return on an investment of around $10,000.**
 
 **5. Your windows.** New windows can mean greater energy efficiency, increased thermal and acoustic comfort, and a more modern look. Homebuyers are well aware of this, and they are willing to pay accordingly. That's why a **typical window replacement should yield at least a 70% return on your investment.**
 
