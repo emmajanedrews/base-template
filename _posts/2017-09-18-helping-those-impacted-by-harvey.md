@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/ac1.jpg
-youtube_code: NrBcgMsBL8E
+youtube_code: shll94_gJb4
 ---
 
 
@@ -29,6 +29,6 @@ We recently had the opportunity to travel down to the Houston area with my Kelle
 
 Overall, this experience has been incredibly rewarding. We got to help a lot of families, but there are many more people who still need help. Because of this, our Chicago-Lincoln Park office has pledged to contribute $100,000 back to hurricane relief. We want to work together to make the biggest impact possible, so we'll be hosting a telethon gives us the opportunity to give back to our communities on a local and national level.
 
-[For more information on how you can give back, click here.&nbsp;](https://www.reliefnow.info/)
+[For more information on how you can give back, click here.](https://www.reliefnow.info/)
 
 In the meantime, if you have any questions, don’t hesitate to give us a call or shoot us an email. We’d be happy to speak with you.
