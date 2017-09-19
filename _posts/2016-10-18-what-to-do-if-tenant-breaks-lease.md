@@ -12,7 +12,7 @@ title: What to Do if a Tenant Breaks the Lease
 date: '2016-10-18T10:07:00.000-07:00'
 author: liz@getvyral.com
 tags:
-- property management tips
+- Property Management Tips
 modified_time: '2017-03-22T11:52:30.287-07:00'
 thumbnail: https://i.ytimg.com/vi/dZ-21OIr8a8/default.jpg
 blogger_id: tag:blogger.com,1999:blog-2658964271202230782.post-7725676146554403850

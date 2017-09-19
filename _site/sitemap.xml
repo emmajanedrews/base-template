@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>localhost:4000/2017-01-09-meet-evan-miyaki.html</loc>
-<lastmod>2017-09-19T08:41:28-05:00</lastmod>
-</url>
-<url>
 <loc>localhost:4000/how-do-we-handle-water-leaks-in-your.html</loc>
 <lastmod>2017-08-23T11:35:00-05:00</lastmod>
 </url>
@@ -41,12 +37,12 @@
 <lastmod>2017-04-19T11:45:00-05:00</lastmod>
 </url>
 <url>
-<loc>localhost:4000/how-do-we-handle-security-deposits.html</loc>
-<lastmod>2017-04-05T00:00:00-05:00</lastmod>
-</url>
-<url>
 <loc>localhost:4000/what-all-goes-into-services-we-offer.html</loc>
 <lastmod>2017-03-22T11:02:00-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/meet-evan-miyaki.html</loc>
+<lastmod>2017-01-09T10:12:00-06:00</lastmod>
 </url>
 <url>
 <loc>localhost:4000/meet-arlene-ichimura.html</loc>

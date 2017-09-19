@@ -12,7 +12,7 @@ title: Filet Mignon For Property Owner With Rent Loss Insurance - No Hot Dogs!
 date: '2017-04-19T09:45:00.001-07:00'
 author: Vyral Admin
 tags:
-- Hawaii Pacific Property Management tenants
+- Hawaii Pacific Property Management
 modified_time: '2017-04-26T09:36:56.913-07:00'
 thumbnail: https://i.ytimg.com/vi/opX7-qx4uOg/default.jpg
 blogger_id: tag:blogger.com,1999:blog-2658964271202230782.post-833495310368973545

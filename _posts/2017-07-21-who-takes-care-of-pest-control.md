@@ -12,7 +12,7 @@ title: Landlord or Tenant. Who Pays for Pest Control?
 date: '2017-07-21T13:22:00.000-07:00'
 author: Vyral Admin
 tags:
-- property management
+- Hawaii Pacific Property Management
 modified_time: '2017-08-02T07:28:47.064-07:00'
 thumbnail: https://i.ytimg.com/vi/C09p-r8fWlA/default.jpg
 blogger_id: tag:blogger.com,1999:blog-2658964271202230782.post-3831649409068842230

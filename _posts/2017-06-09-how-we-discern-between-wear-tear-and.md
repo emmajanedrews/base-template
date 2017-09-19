@@ -12,7 +12,7 @@ title: How We Discern Between Wear & Tear and Tenant Damage
 date: '2017-06-09T08:06:00.000-07:00'
 author: Vyral Admin
 tags:
-- Hawaii Pacific Property Management tenants
+- Hawaii Pacific Property Management Tenants
 modified_time: '2017-06-14T07:38:35.036-07:00'
 thumbnail: https://i.ytimg.com/vi/UeZlkCuhr0c/default.jpg
 blogger_id: tag:blogger.com,1999:blog-2658964271202230782.post-7695852876512373298

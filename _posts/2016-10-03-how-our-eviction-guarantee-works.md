@@ -12,7 +12,7 @@ title: 'How Our Eviction Guarantee Works '
 date: '2016-10-03T14:07:00.002-07:00'
 author: liz@getvyral.com
 tags:
-- property management tips
+- Property Management Tips
 modified_time: '2017-03-22T11:52:30.261-07:00'
 thumbnail: https://i.ytimg.com/vi/w67sOTvTQQ8/default.jpg
 blogger_id: tag:blogger.com,1999:blog-2658964271202230782.post-2596182963655167680

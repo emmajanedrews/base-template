@@ -12,7 +12,7 @@ title: How Our Move Out Addendum Benefits Us and Our Tenants
 date: '2016-11-18T11:29:00.000-08:00'
 author: liz@getvyral.com
 tags:
-- property management tips
+- Property Management Tips
 modified_time: '2017-03-22T11:52:30.290-07:00'
 thumbnail: https://i.ytimg.com/vi/lVnw8xC_d8s/default.jpg
 blogger_id: tag:blogger.com,1999:blog-2658964271202230782.post-7800061565661252987

@@ -12,7 +12,7 @@ title: 'Meet Evan Miyaki '
 date: '2017-01-09T08:12:00.000-08:00'
 author: Vyral Admin
 tags:
-- Hawaii property management
+- Hawaii Pacific Property Management
 modified_time: '2017-02-15T14:39:13.015-08:00'
 thumbnail: https://i.ytimg.com/vi/qDFPhxV27do/default.jpg
 blogger_id: tag:blogger.com,1999:blog-2658964271202230782.post-5936067239303208173
