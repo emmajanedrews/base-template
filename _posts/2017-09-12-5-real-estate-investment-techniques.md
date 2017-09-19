@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Real estate investing is on the rise. Here are five different ways you can get
   involved.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Scott+Hardesty/Greater+Nashville+Real+Estate-+5+ways+to+Invest+in+Real+Estate.mp4
 pullquote: Home flipping offered a record-breaking 49% return in 2016.
 enclosure_type: video/mp4
 enclosure_time:
