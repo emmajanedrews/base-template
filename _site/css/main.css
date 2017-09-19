@@ -2946,3 +2946,22 @@ form select {
 
 .navbar-left > li > a:focus, .navbar-left > li > a:hover {
   background: none; }
+
+.recruiting {
+  text-align: center; }
+
+#recruit {
+  width: 75%;
+  margin-left: 13%;
+  margin-top: 2rem;
+  font-size: 18px; }
+
+.recruiting-photo {
+  float: right;
+  margin: 20px; }
+
+.caption {
+  font-size: 16px;
+  font-style: oblique;
+  text-align: center;
+  margin-bottom: 20px; }
