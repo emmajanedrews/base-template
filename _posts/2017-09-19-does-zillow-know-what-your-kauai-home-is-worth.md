@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Does Zillow Know What Your Kauai Home is Worth?
-date:
+date: 2017-09-19 09:37:56
 tags:
   - Real Estate
 excerpt: >-
