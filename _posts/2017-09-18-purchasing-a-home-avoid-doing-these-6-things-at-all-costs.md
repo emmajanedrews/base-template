@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Today I want to talk to you about the six things you should never do when
   buying a home.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/David+Wyher/Greater+Philadelphia+Real+Estate-+Looking+for+a+home%253F+Don%2527t+do+these+6+things%253F.mp4
 pullquote: >-
   15% of agents believe that offering too little on a property is the biggest
   mistake a buyer could make.
@@ -25,7 +26,7 @@ Today I want to talk to you about the six things you should never do when buying
 
 First, don’t shop without an agent. If you’d like, you can start out by looking online at pictures of homes on the market.
 
-This can be a great way to get a lay of the land. But, when you want to become serious about buying a home, you should always get in touch with a quality agent. **Your agent is there to turn your dreams of homeownership into reality**&nbsp;and will guide you through every step of the process.
+This can be a great way to get a lay of the land. But, when you want to become serious about buying a home, you should always get in touch with a quality agent. **Your agent is there to turn your dreams of homeownership into reality** and will guide you through every step of the process.
 
 The right professional will assist you in everything from getting your offer accepted to negotiating inspection repairs and more.
 
