@@ -2046,7 +2046,7 @@ table tr, table td {
     content: "";
     height: 2rem;
     width: 2.5625rem;
-    background: url(/img/svg/tweetlink.svg);
+    background: url(/img/svg/fblink.svg);
     background-size: cover;
     background-position: right;
     display: inline-block;
