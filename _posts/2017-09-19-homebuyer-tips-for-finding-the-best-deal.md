@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Homebuyer Tips for Finding the Best Deal
-date: 2017-09-19 15:08:30
+date: 2017-09-19 15:08:00
 tags:
 excerpt: >-
   How can you find the best deal possible when buying a home in the current
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/ss-youtube-44.jpg
-youtube_code: Dbd9PAg9WRU
+youtube_code: X9IwNUKaxMk
 ---
 
 
