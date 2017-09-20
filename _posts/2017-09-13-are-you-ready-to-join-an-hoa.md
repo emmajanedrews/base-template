@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   This is Courtney Korb with the Brad Korb Real Estate Group today I’d like to
   answer 5 important questions about HOAs.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+5+things+to+know+about+HOAs.mp4
 pullquote: >-
   HOAs are always looking for new residents with new ideas to take part in the
   committees to try to make their community look even better.
