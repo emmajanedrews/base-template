@@ -2,7 +2,7 @@
 	border-bottom: 2px solid $theme
 	border-radius: 0
 	min-height: 52px
-	background: #ffffff
+	background: rgba(4, 20, 36, .8)
 	width: 100%
 	overflow: hidden
 
@@ -20,8 +20,7 @@
 	@include transition
 
 .navbar-left>li>a
-	background: $button-background
-	color: black
+	color: white
 	// padding: 1.3rem 2rem
 	text-transform: capitalize
 	font-size: 2rem
@@ -31,7 +30,6 @@
 	&:hover
 		background: #eeeeee
 		color: $brand-dark
-		border-bottom: 4px solid $brand
 		// @include transform(scale(1.05))
 		// @include transform(translateY(-0.2rem))
 	&:active
@@ -55,13 +53,14 @@
 .navbar
 	padding-right: 15px
 	padding-left: 15px
-	// height: 52px
+	height: 52px
 
 
 @media(max-width: 347px)
 	.navbar
 		padding-right: 5px
 		padding-left: 5px
+		height: 100%
 	.navbar-header
 		a.navbar-brand
 			width: 0
