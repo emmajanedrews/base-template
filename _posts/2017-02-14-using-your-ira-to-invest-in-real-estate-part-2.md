@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'USING YOUR IRA TO INVEST IN REAL ESTATE: PART 2'
-date: 2017-09-20 16:29:46
+date: 2017-02-14 10:45:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -37,4 +37,4 @@ Kaaren Hall, the CEO of uDirect IRA Services, is back to go into more detail abo
 
 <br>If you have any questions about opening a self-directed IRA, you can go to [www.uDirectIRA.com](www.uDirectIRA.com). To open an account, all you have to do is click the link, choose which IRA you want, open the account, and get it funded. Once your IRA is funded, you can use it to invest in property.
 
-<br>Please don’t hesitate to reach out to Kaaren via (714) 831-1866 or [info@uDirectIRA.com](javascript:void(location.href='mailto:'+String.fromCharCode(105,110,102,111,64,117,68,105,114,101,99,116,73,82,65,46,99,111,109))). As always, if you have any real estate questions, just give us a call or send us an email. We would be happy to help you!<br>&nbsp;
+<br>Please don’t hesitate to reach out to Kaaren via (714) 831-1866 or [info@uDirectIRA.com](javascript:void(location.href='mailto:'+String.fromCharCode(105,110,102,111,64,117,68,105,114,101,99,116,73,82,65,46,99,111,109))). As always, if you have any real estate questions, just give us a call or send us an email. We would be happy to help you!<br>
