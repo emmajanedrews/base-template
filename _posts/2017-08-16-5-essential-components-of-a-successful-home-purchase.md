@@ -1,14 +1,15 @@
 ---
 layout: post
 title: 5 Essential Components of a Successful Home Purchase
-date: 2017-08-16 14:23:10
+date: 2017-08-16 14:23:00
 tags:
   - Home Buyer Tips
 excerpt: >-
   If you’re a homebuyer in today’s market, you need to focus on doing five
   specific things in order to have the smoothest and most profitable transaction
   possible.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+5+ways+to+make+the+process+easier.mp4
 pullquote: 'The more you know about the seller, the better offer you can craft.'
 enclosure_type: video/mp4
 enclosure_time:
