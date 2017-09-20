@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   This is Courtney Korb with the Brad Korb Real Estate Group today I’d like to
   answer 5 important questions about HOAs.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/David+Wyher/Greater+Philadelphia+Real+Estate-+Looking+for+a+home%253F+Don%2527t+do+these+6+things%253F.mp4
 pullquote: >-
   HOAs are always looking for new residents with new ideas to take part in the
   committees to try to make their community look even better.
