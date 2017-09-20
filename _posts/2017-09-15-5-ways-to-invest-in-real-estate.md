@@ -34,7 +34,7 @@ This is probably the most traditional way to invest in real estate. It simply in
 
 **2. Buy and sell**
 
-Also known as home flipping, this involves buying a property and reselling it soon after for a profit. **Home flipping has offered a record-breaking 49%** return in 2016.
+Also known as home flipping, this involves buying a property and reselling it soon after for a profit. **Home flipping has offered a record-breaking 49****%** return in 2016.
 
 **3. Real estate investment groups**
 
