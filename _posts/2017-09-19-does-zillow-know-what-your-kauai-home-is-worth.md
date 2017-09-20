@@ -26,8 +26,8 @@ Many people turn to Zillow and their Zestimate, which is a computer algorithm th
 
 {% include pullquote.html %}
 
-Assessed values are pretty similar. While some states reassess home values upon the sale of a home, Kauai’s assessed values are based on the county’s formula alone. They reserve the right to be off by 20% in either direction. If buyers just look at assessed values, it could cause them to draw unfair conclusions about a home. Especially in the luxury home market, where we’ve seen a home that was assessed at $4.8 million sell for $16 million. **The county assessor is about as limited with their valuation as Zillow is.**
+Assessed values are pretty similar. While some states reassess home values based upon the sale of a home, Kauai’s assessed values are based on the county’s formula alone. They reserve the right to be off by 20% in either direction. If buyers just look at assessed values, it could cause them to draw unfair conclusions about a home. Especially in the luxury home market, where we’ve seen a home that was assessed at $4.8 million sell for $16 million. **The county assessor is about as limited with their valuation as Zillow is.**
 
-The best way to find out what the true value of your property is by calling professionals like us. We understand the market, so we understand home values. We will be able to get you a much more accurate valuation than you’ll ever get online.
+The best way to find what the true value of your property is by calling professionals like us. We understand the market, so we understand home values. We will be able to get you a much more accurate valuation than you’ll ever get online.
 
 If you have any questions for us or want to know what your home is really worth, give us a call or send us an email. We look forward to hearing from you soon.
