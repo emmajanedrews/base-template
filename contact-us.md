@@ -27,7 +27,7 @@ permalink: /contact-us/
       <!-- Cloud cannon settings field -->
       <div class="hidden">
         <input type="hidden" name="_to" value="{{site.data.settings.client.email}}">
-        <input type="hidden" name="_subject" value="Contact Message From Your {{site.data.settings.title}}">
+        <input type="hidden" name="_subject" value="Contact Message From Your Video Blog">
         <input type="text" name="_gotcha">
       </div>
     </form>
