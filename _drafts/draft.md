@@ -7,6 +7,29 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code:
 ---
-{% include youtube.html %}
+### Client name
 
-{% include pullquote.html %}
+[Post Title](insert post url){: .top5}<br>
+Sent to:   |  Opens:   |   Clicks:
+
+### Client name
+
+[Post Title](insert post url){: .top5}<br>
+Sent to:   |  Opens:   |   Clicks:
+
+### Client name
+
+[Post Title](insert post url){: .top5}<br>
+Sent to:   |  Opens:   |   Clicks:
+
+### Client name
+
+[Post Title](insert post url){: .top5}<br>
+Sent to:   |  Opens:   |   Clicks:
+
+### Client name
+
+[Post Title](insert post url){: .top5}<br>
+Sent to:   |  Opens:   |   Clicks:
+
+<hr>
