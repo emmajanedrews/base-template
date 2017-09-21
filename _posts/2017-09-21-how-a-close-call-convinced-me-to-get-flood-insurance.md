@@ -28,9 +28,7 @@ My family and I were able to get out in time. But in our absence, we were left w
 
 Our house happens to be located in Flood Zone X, where flood insurance is not mandatory. That being said, we did not have flood insurance. **If something would have hit in our area, we would have been in a very dire situation.**
 
-If you look at a map of the area showing where flood insurance is mandatory, you’ll find that there is actually very little correlation between that area and the area that is actually affected in the event of a storm.
-
-<br>**The range of a upper-category hurricanes actually goes well into the areas where flood insurance is not mandatory.** This means that many people who didn’t opt into coverage could very well be left without a means of recovery.
+If you look at a map of the area showing where flood insurance is mandatory, you’ll find that there is actually very little correlation between that area and the area that is actually affected in the event of a storm.<br><br>**The range of a upper-category hurricanes actually goes well into the areas where flood insurance is not mandatory.** This means that many people who didn’t opt into coverage could very well be left without a means of recovery.
 
 {% include pullquote.html %}
 
