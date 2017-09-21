@@ -1,19 +1,20 @@
 ---
 layout: post
 title: Does the Eugene Real Estate Market Favor Buyers or Sellers?
-date: 2017-08-10 10:44:22
+date: 2017-08-10 10:44:00
 tags:
   - Market Update
 excerpt: >-
   Does the Eugene real estate market favor buyers or sellers right now? Find out
   in today’s market update.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/josh+cooley/Eugene+Oregon+Real+Estate+Agent-+Eugene+Real+Estate+Market+Update.mp4
 pullquote: >-
   Even though it’s a seller’s market, there are great opportunities for buyers
   as well.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/josh-cooley-market-update-youtube.jpg
 youtube_code: 'https://youtu.be/_DpkK1FAs-A'
 ---
