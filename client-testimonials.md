@@ -5,6 +5,15 @@ layout: default
 <h1>Client Audio Testimonials</h1>
 
 div class="client-testimonial">
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/342220445&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<p class="testimonial-text">
+"My experience with The Canovo Group was amazing. My wife and I had been looking for the last two years to get into a home. When I was able to get in touch with a member of The Canovo Group, Ali Garbero, it was like a night and day difference. We were able to get listings on a weekly basis but also on a daily basis. She was right there with us the whole way, step by step. I can't believe how amazing it was to have that whole process laid out simply for us so that we could finally get into a home."
+</p>
+<p class="testimonial-author">
+-Shaun M.
+</p>
+<hr>
+div class="client-testimonial">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/337872464&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 <p class="testimonial-text">
 "It was nice dealing with the whole team I felt like they accomplished the goal. When they approached us they said they'd get above asking price, and they 100 percent did. We were very well satisfied and happy with the end result. They were always good to deal with, it went well for us. My work schedule is pretty full on, so a lot of times I'd be calling them after hours and they were on family vacations and what not, but they'd always answer and get back to me. They were very good to deal with, where I'd think normal people would have just ignored it or let it go to voicemail."
