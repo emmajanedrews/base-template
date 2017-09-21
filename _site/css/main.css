@@ -2907,3 +2907,12 @@ form select {
   font-style: oblique;
   text-align: center;
   margin-bottom: 20px; }
+
+.indent {
+  width: 80%;
+  margin-left: 10%; }
+
+.indent-num {
+  width: 80%;
+  margin-left: 10%;
+  list-style: decimal; }
