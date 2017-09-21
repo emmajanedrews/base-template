@@ -25,8 +25,8 @@ Out of necessity, many agents look to webinars, real estate conferences, Faceboo
 
 The structural issues that will prevent you from making serious money over the long term are:
 <ul class="indent-num">
-<li>1. High expenses in the form of low commission splits, monthly fees, franchise fees, marketing expenses, etc. At the end of the day, it's how much you take home.</li>
-<li>2. Investing your time and effort to build someone else's brand—not yours. Past clients and their referrals are critical to your success. For Realtors making over $150,000 a year, 57% of their business comes from past clients and referrals from past clients.</li>
+<li>High expenses in the form of low commission splits, monthly fees, franchise fees, marketing expenses, etc. At the end of the day, it's how much you take home.</li>
+<li>Investing your time and effort to build someone else's brand—not yours. Past clients and their referrals are critical to your success. For Realtors making over $150,000 a year, 57% of their business comes from past clients and referrals from past clients.</li>
 </ul>
 My name is Frank Free, and in addition to being the broker in charge and the owner of Lake Realty for 26 years, I have taught as a North Carolina licensed real estate instructor. I have advised many agents on how to grow their business and thrive at real estate. In fact, several of my agents have gone on to run their own successful brokerages.  
 
@@ -43,9 +43,9 @@ As an owner and as a Realtor, I felt like there had to be a better, balanced alt
 
 Technology:
 <ul class="indent">
-<li>A personalized website with an integrated CRM powered by TorchX. The individual agent package costs $399 a month plus the $949 setup fee. For more details, visit http://torchx.com/</li>
-<li>Circle Pix’s hassle-free marketing program, which costs $500 per year. For more details, visit https://circlepix.com</li>
-<li>A branded newsletter, which costs $20 to $45 per month. For more information, visit https://www.mynewsletterbuilder.com/</li>
+<li>A personalized website with an integrated CRM powered by TorchX. The individual agent package costs $399 a month plus the $949 setup fee. For more details, visit <a href="http://torchx.com/" target="_blank">torchx.com</a></li>
+<li>Circle Pix’s hassle-free marketing program, which costs $500 per year. For more details, visit <a href="https://circlepix.com" target="_blank">circlepix.com</a></li>
+<li>A branded newsletter, which costs $20 to $45 per month. For more information, visit <a href="https://www.mynewsletterbuilder.com" target="_blank">mynewsletterbuilder.com</a></li>
 </ul>
 Office & Print Materials:
 <ul class="indent">
@@ -77,7 +77,7 @@ Perks Available to You & Your Clients:
 <li>15 foot moving truck</li>
 <li>Lake Norman boat tours</li>
 <li>Branded Lake Realty display tent</li>
-<li>A power washer, cornhole boards, and more. Check out perks.lakerealty.com for more information.</li>
+<li>A power washer, cornhole boards, and more. Check out <a href="http://perks.lakerealty.com" target="_blank">perks.lakerealty.com</a> for more information.</li>
 </ul>
 Cutting Edge Compensation Plan:
 <ul class="indent">
@@ -88,7 +88,7 @@ Cutting Edge Compensation Plan:
 
 Your only require expenses are a $20-per-month errors and omission insurance fee (which starts when you have first contract), MLS dues, a supra key fee and the requirements for a NC Licensee, and a one-time 25% referral fee for internet leads from the lead program. Lake Realty-generated sales are excluded from cap total (i.e. internet leads, walk-ins, and company phone leads).
 
-How do we get results?
+**How do we get results?**
 
 To answer that, I want to share the story of two current agents of ours—Sue Nichols and Ana Sturt.
 
