@@ -1,8 +1,9 @@
 ---
 layout: post
 title: How a Close Call Convinced Me to Get Flood Insurance
-date:
+date: 2017-09-21 10:57:34
 tags:
+  - Real Estate
 excerpt: >-
   Today I’d like to tell you the story of my family’s close call with Hurricane
   Irma. We live in an area where flood insurance isn’t mandatory, but being
