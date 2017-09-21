@@ -19,7 +19,7 @@ permalink: /contact-us/
         <label for="phone">Phone Number</label>
         <input type="tel" name="phone">
         <label for="message">Message</label>
-        <textarea></textarea>
+        <textarea name="message"></textarea>
         <input type="submit" class="submit button" value="Submit" name="submitBuyerForm">
         <span class="asterisk">*</span>required
 
