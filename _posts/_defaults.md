@@ -7,19 +7,29 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code:
 ---
-<h3></h3> - <a href=""></a>
+### Client name
+
+[Post Title](insert post url){: .top5}<br>
 Sent to:   |  Opens:   |   Clicks:
 
-<h3></h3> - <a href=""></a>
+### Client name
+
+[Post Title](insert post url){: .top5}<br>
 Sent to:   |  Opens:   |   Clicks:
 
-<h3></h3> - <a href=""></a>
+### Client name
+
+[Post Title](insert post url){: .top5}<br>
 Sent to:   |  Opens:   |   Clicks:
 
-<h3></h3> - <a href=""></a>
+### Client name
+
+[Post Title](insert post url){: .top5}<br>
 Sent to:   |  Opens:   |   Clicks:
 
-<h3></h3> - <a href=""></a>
+### Client name
+
+[Post Title](insert post url){: .top5}<br>
 Sent to:   |  Opens:   |   Clicks:
 
 <hr>

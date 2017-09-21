@@ -24,11 +24,11 @@
 		<!-- <div class="container"> -->
 			<div class="row post-container">
 				<a href="{{page.url}}"><h1 class="post-title" itemprop="name headline">{{page.title}}</h1></a>
-				<time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished" style="display: none;">{{ page.date | date: "%b %-d, %Y" }}</time>
+				<!-- <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished" style="display: none;">{{ page.date | date: "%b %-d, %Y" }}</time> -->
 				<p class="tag-container">
 				<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 					<div class="twelve columns post-content"  itemprop="articleBody">
-						<p><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></p>
+						<!-- <p><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></p> -->
 						{{ content }}
 					</div>
 				</article>
