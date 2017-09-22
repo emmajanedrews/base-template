@@ -286,9 +286,12 @@ sub {
    */
 
   menu,
-  ol,
-  ul {
+  ol {
     *padding: 0 0 0 40px;
+  }
+
+  ul{
+    padding-left: 30px;
   }
 
   /*

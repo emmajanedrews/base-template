@@ -380,14 +380,14 @@ label > .label-body {
 /* Lists
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 ul {
-  list-style: circle inside;
+  list-style: disc;
 }
 ol {
   list-style: decimal inside;
 }
 ol,
 ul {
-  padding-left: 0;
+  padding-left: 4rem;
   margin-top: 0;
 }
 ol ol,

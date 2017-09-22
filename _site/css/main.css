@@ -743,14 +743,14 @@ label > .label-body {
 /* Lists
 ╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
 ul {
-  list-style: circle inside; }
+  list-style: disc; }
 
 ol {
   list-style: decimal inside; }
 
 ol,
 ul {
-  padding-left: 0;
+  padding-left: 4rem;
   margin-top: 0; }
 
 ol ol,
@@ -1931,7 +1931,17 @@ table tr, table td {
   transition: all 0.3s ease-in-out; }
 
 .post-image {
-  width: 100%; }
+  width: 50%;
+  margin: auto;
+  display: block; }
+
+.float-left {
+  float: left;
+  margin: 20px; }
+
+.float-right {
+  float: right;
+  margin: 20px; }
 
 .post-image-container {
   padding: 0; }
@@ -2874,6 +2884,10 @@ form select {
 
 .newsletter {
   background: #919191; }
+
+.list {
+  list-style: disc;
+  padding-left: 4rem; }
 
 #side-logo {
   width: 90%;
