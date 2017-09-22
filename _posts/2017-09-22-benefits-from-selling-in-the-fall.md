@@ -2,7 +2,6 @@
 layout: post
 title: Benefits from Selling in the Fall
 tags:
-  - Home Seller Tips
 excerpt: 'Fall is a great time to sell your home, and there are a few reasons why.'
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Randy+Plaice/Videos/2017/Why+You+Should+Sell+This+Fall+-+Santa+Clarita+Real+Estate+Agent.mp4
