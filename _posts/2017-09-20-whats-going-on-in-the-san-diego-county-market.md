@@ -27,7 +27,7 @@ New constructions haven’t yet come to the rescue of the low inventory in our m
 
 Going back to September of 2016 through August of this year, pending sales in San Diego County went up by 0.2%. However, the largest increase over that period was in the $1 million to $1.25 million price range, where there was a 21.3% increase.
 
-Also, the overall median sales price has gone up 8.8% to approximately $525,000. The largest price gains over this period was in townhouses and condos. The sales prices for townhomes and condos went up 7.5% to approximately $387,000.
+Also, the overall median sales price has gone up 8.8% to approximately $525,000. The largest price gains over this period were in townhouses and condos. The sales prices for townhomes and condos went up 7.5% to approximately $387,000.
 
 That said, this was not the quickest price range to sell. The price range with the fewest days on market was the $250,000 to $500,000 price range, where the average was 26 days on market.
 
