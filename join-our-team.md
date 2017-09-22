@@ -27,12 +27,12 @@ Here are the biggest problems that often lead to this result: &lt;ul class=”in
 
 &lt;/ul&gt; Out of necessity, many agents look to webinars, real estate conferences, Facebook groups, or the latest lead generation programs to help them discover the “secrets to success.” Education and knowledge are extremely powerful and helpful, but if you don’t resolve the underlying issues, the problem remains.
 
-The structural issues that will prevent you from making serious money over the long term are: &lt;ul class=”indent-num”&gt;
+The structural issues that will prevent you from making serious money over the long term are:&nbsp;
 
 * High expenses in the form of low commission splits, monthly fees, franchise fees, marketing expenses, etc. &nbsp;At the end of the day, it’s how much you take home.
 * Investing your time and effort to build someone else’s brand—not yours. Past clients and their referrals are critical to your success. For Realtors making over $150,000 a year, 57% of their business comes from past clients and referrals from past clients.
 
-&lt;/ul&gt;![](/uploads/versions/frankextractedupper190-fw-1---x----199-277x---.png)&lt;p&gt;My name is Frank Free, and in addition to being the broker in charge and the owner of Lake Realty for 26 years, I have taught as a North Carolina licensed real estate instructor. I have advised many agents on how to grow their business and thrive at real estate. In fact, several of my agents have gone on to run their own successful brokerages.&lt;/p&gt;
+![](/uploads/versions/frankextractedupper190-fw-1---x----199-277x---.png)&lt;p&gt;My name is Frank Free, and in addition to being the broker in charge and the owner of Lake Realty for 26 years, I have taught as a North Carolina licensed real estate instructor. I have advised many agents on how to grow their business and thrive at real estate. In fact, several of my agents have gone on to run their own successful brokerages.&lt;/p&gt;
 
 Through the years, I have seen hundreds of models and firms and watched agents struggle to find the right fit. Like most things in life, real estate is about tradeoffs. Often these tradeoffs feel like choosing the lesser of two evils. On one end of the spectrum, you can choose a transaction-based model that simply charges a fixed transaction fee for each deal. While the 100% commission is alluring, there are two areas in this model where I see agents run into trouble. &lt;ul class=”indent”&gt;
 
