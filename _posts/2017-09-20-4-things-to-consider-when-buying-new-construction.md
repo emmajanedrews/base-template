@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 4 Things Consider When Buying New Construction
-date: 2017-09-20 13:32:09
+title: 4 Things to Consider When Buying New Construction
+date: 2017-09-20 13:32:00
 tags:
   - Home Buyer Tips
 excerpt: >-
