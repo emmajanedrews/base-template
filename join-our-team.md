@@ -11,6 +11,8 @@ Most likely, you chose to get into real estate or are thinking about a career ch
 
 The challenge for many is not “if” I should do real estate, but “how” I should do real estate. If you don't make the right decision, you may find yourself disappointed and frustrated with your results. In fact, the median gross income for Realtors was $39,200 in 2015, as stated in the National Association of Realtors’ 2016 Members Profile. At the same time, agents at this income level spend, on average, $8,400 in expenses. Then once Uncle Sam gets his cut, the take home pay for the average Realtor is less than satisfactory.
 
+![](/uploads/versions/unsatisfied-1---x----350-190x---.jpg)
+
 Here are the biggest problems that often lead to this result: &lt;ul class="indent"&gt;
 
 * Lack of support & direction from their broker in charge
