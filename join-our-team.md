@@ -60,7 +60,6 @@ Office & Print Materials:&nbsp;
 * A “What Others Say” insert
 * A “Home Selling Insights” booklet ([Click Here to view](https://www.lakerealty.com/b/lake-norman-real-estate-home-selling-guide/))
 * Nine home selling tips
-
 * Standard copier usage
 * Office space to meet clients
 * Open house signs
@@ -76,7 +75,7 @@ Leads Program:&nbsp;
 
 * Opportunity to receive internet leads with three options: ISA (inside sales agent) filtered leads, raw leads, and/or a combination of both.
 
-&lt;/ul&gt; Perks Available to You & Your Clients: &lt;ul class=”indent”&gt;
+Perks Available to You & Your Clients:&nbsp;
 
 * 15 foot moving truck
 * Lake Norman boat tours
