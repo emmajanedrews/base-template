@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Don’t Trust a Zestimate
-date: 2017-09-22 09:22:08
+date: 2017-09-22 09:22:00
 tags:
   - Home Seller Tips
 excerpt: >-
   Why shouldn’t you trust the home value you get from Zillow? Let’s start with
   the fact that it’s inaccurate.
-enclosure:
+enclosure: >-
+  http://vyralmarketing.s3.amazonaws.com/Jesse%20Myles/Dont%20Trust%20a%20Zestimate.mp4
 pullquote: Zillow has a lot of missing information that’s important to your home’s value.
 enclosure_type: video/mp4
 enclosure_time:
