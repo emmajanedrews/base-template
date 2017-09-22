@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you’re selling your home this fall, here are four important tips for you to
   follow.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Don+Williams/+Videos/2017/September/Don+Williams+Group-+4+Tips+for+Selling+Your+Home+This+Fall.mp4
 pullquote: >-
   If you follow these tips, we guarantee your home will be a top contender to
   sell this fall.
