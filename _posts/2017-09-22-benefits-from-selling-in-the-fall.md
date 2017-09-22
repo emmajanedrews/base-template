@@ -29,8 +29,8 @@ It’s a good time to get more people through your house, and the more people wh
 
 {% include pullquote.html %}
 
-**You should also consider the tax benefit of selling in the fall**. A lot of times people want to sell their homes so they can capitalize on the tax benefit for that calendar year.&nbsp;
+**You should also consider the tax benefit of selling in the fall**. A lot of times people want to sell their homes so they can capitalize on the tax benefit for that calendar year.
 
 Well, because of an escrow term, even if we listed your home, sold it, and got it into escrow today, depending on the loan type, it might already be the end of December before we were able to close that loan. That’s something to be mindful of, so take action immediately if you are looking for that tax benefit.
 
-There are a lot of other reasons why the fall is a great time to put your home on the market. I’d love to talk to you about them and answer any questions you might have. Please reach out to us at any time. We hope to hear from you soon.<br>&nbsp;
+There are a lot of other reasons why the fall is a great time to put your home on the market. I’d love to talk to you about them and answer any questions you might have. Please reach out to us at any time. We hope to hear from you soon.<br>
