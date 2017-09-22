@@ -36,7 +36,7 @@ With our team you get: 55 leads a month to get you to our minimum of $50,000 in 
 
 You can continue to cling to the ‘hope’ of another commission check and try and juggle it all yourself, or you can take a step into a proven system. Not 1 single agent on our team has failed to take home a minimum of $50,000 a year, and the average production per agent is 30 homes sold per year.
 
-Now, don’t take my word for this. Let me tell you about one of our agents, Drue Richmond.  Before real estate, Drue worked in internet marketing and earned $29,000 per year.  She had a long commute, didn’t see it going anywhere and decided to try real estate.  In her first 12 months she earned $60,000, and after 4 years with us, she’ll earn $120,000.  Drue loves her position and finally feels the purpose and camaraderie of a team with a mission.
+Now, don’t take my word for this. Let me tell you about one of our agents, Drue Richmond.  Before real estate, Drue worked in internet marketing and earned $29,000 per year.  She had a long commute, didn’t see it going anywhere and decided to try real estate.  In her first 12 months she earned $60,000, and after 4 years with us, her income is well above that.  Drue loves her position and finally feels the purpose and camaraderie of a team with a mission.
 
 I want to offer you a position on our team.  
 
