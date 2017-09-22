@@ -37,7 +37,7 @@ There are many breathtaking parks that host music festivals and regular festival
 {% include pullquote.html %}
 {: .present-before-paste}
 
-At the Fox River, you can enjoy fishing, water skiing, boating, and kayaking down the river. There are many beautiful homes along the Fox River, as well as scenic bike paths for everyone to enjoy.
+At the Fox River, you can enjoy fishing, water skiing, boating, and kayaking. There are many beautiful homes along the Fox River, as well as scenic bike paths for everyone to enjoy.
 {: .present-before-paste}
 
 **In St. Charles, we take pride in our community.** There is a rich array of things to do. There are wonderful places of worship for all religions and beliefs. St. Charles also features gorgeous public and private golf courses; three country clubs in the area each feature their own challenging course.
