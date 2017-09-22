@@ -22,7 +22,7 @@ youtube_code: Oa2TPnpjLTE
 
 Today, Bob Taylor from Ticor Title is here to share some helpful information about vesting and how to hold title to your property.&nbsp;
 
-**The manner in which you take title is very important** because future events in ownership could be affected by how you take title today.&nbsp;
+**The manner in which you hold title is very important** because future events in ownership could be affected by how you take title today.&nbsp;
 
 As a husband and wife, you have a few different vesting options. You could be joint tenants, which means that when one spouse passes, the title automatically goes to the surviving tenant. You could also vest in community property. Although community property does have a tax advantage, it doesn’t automatically transfer the title to the surviving spouse. &nbsp;
 
@@ -30,7 +30,7 @@ Finally, you could vest in community property with right of survivorship, which 
 
 {% include pullquote.html %}
 
-As an individual, you can take title in your name, which means there would be no joint tenancy. When someone passes away, then you are looking at a probate situation, which is the last thing you want. If you are an individual owner, you need to have a will in place or you will go into probate court. If you don’t have any heirs, then the state of California gets your property.&nbsp;
+As an individual, you can hold title in your name, which means there would be no joint tenancy. When someone passes away, then you are looking at a probate situation, which is the last thing you want. If you are an individual owner, you need to have a will in place or you will go into probate court. If you don’t have any heirs, then the state of California gets your property.&nbsp;
 
 **In my opinion, the best way to hold title is through a trust.**According to Bob, a trust is a good way to stay out of the courts.
 
