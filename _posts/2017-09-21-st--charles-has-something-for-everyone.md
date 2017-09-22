@@ -1,7 +1,7 @@
 ---
 layout: post
 title: St. Charles Has Something for Everyone
-date: 2017-09-21 09:30:25
+date: 2017-09-21 09:30:00
 tags:
   - Real Estate
 excerpt: >-
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: JPb23KmoiqM
+youtube_code: SAHu-tS5Mt
 ---
 
 
@@ -49,7 +49,7 @@ St. Charles is also a horse lover’s paradise, with a number of well-known barn
 Our public schools are highly rated, and there are a number of sought-after private schools as well.
 {: .present-before-paste}
 
-I welcome you to visit St. Charles. You will love what you see. &nbsp;
+I welcome you to visit St. Charles. You will love what you see.
 {: .present-before-paste}
 
 If you have any other questions about visiting or living in St. Charles, just give me a call or send me an email. I would be happy to help you!
