@@ -13,7 +13,7 @@ The challenge for many is not “if” I should do real estate, but “how” I 
 
 ![](/uploads/versions/unsatisfied-1---x----350-190x---.jpg)
 
-Here are the biggest problems that often lead to this result: &lt;ul class=”indent”&gt;
+Here are the biggest problems that often lead to this result:
 
 * Lack of support & direction from their broker in charge
 * Lack of systems & technology
@@ -25,33 +25,33 @@ Here are the biggest problems that often lead to this result: &lt;ul class=”in
 * Lack of freedom to brand yourself and protect your referral base
 * Losing out on buyers and listings to other agents
 
-&lt;/ul&gt; Out of necessity, many agents look to webinars, real estate conferences, Facebook groups, or the latest lead generation programs to help them discover the “secrets to success.” Education and knowledge are extremely powerful and helpful, but if you don’t resolve the underlying issues, the problem remains.
+Out of necessity, many agents look to webinars, real estate conferences, Facebook groups, or the latest lead generation programs to help them discover the “secrets to success.” Education and knowledge are extremely powerful and helpful, but if you don’t resolve the underlying issues, the problem remains.
 
 The structural issues that will prevent you from making serious money over the long term are:&nbsp;
 
 * High expenses in the form of low commission splits, monthly fees, franchise fees, marketing expenses, etc. &nbsp;At the end of the day, it’s how much you take home.
 * Investing your time and effort to build someone else’s brand—not yours. Past clients and their referrals are critical to your success. For Realtors making over $150,000 a year, 57% of their business comes from past clients and referrals from past clients.
 
-![](/uploads/versions/frankextractedupper190-fw-1---x----199-277x---.png)&lt;p&gt;My name is Frank Free, and in addition to being the broker in charge and the owner of Lake Realty for 26 years, I have taught as a North Carolina licensed real estate instructor. I have advised many agents on how to grow their business and thrive at real estate. In fact, several of my agents have gone on to run their own successful brokerages.&lt;/p&gt;
+![](/uploads/versions/frankextractedupper190-fw-1---x----199-277x---.png)My name is Frank Free, and in addition to being the broker in charge and the owner of Lake Realty for 26 years, I have taught as a North Carolina licensed real estate instructor. I have advised many agents on how to grow their business and thrive at real estate. In fact, several of my agents have gone on to run their own successful brokerages.
 
-Through the years, I have seen hundreds of models and firms and watched agents struggle to find the right fit. Like most things in life, real estate is about tradeoffs. Often these tradeoffs feel like choosing the lesser of two evils. On one end of the spectrum, you can choose a transaction-based model that simply charges a fixed transaction fee for each deal. While the 100% commission is alluring, there are two areas in this model where I see agents run into trouble. &lt;ul class=”indent”&gt;
+Through the years, I have seen hundreds of models and firms and watched agents struggle to find the right fit. Like most things in life, real estate is about tradeoffs. Often these tradeoffs feel like choosing the lesser of two evils. On one end of the spectrum, you can choose a transaction-based model that simply charges a fixed transaction fee for each deal. While the 100% commission is alluring, there are two areas in this model where I see agents run into trouble.&nbsp;
 
 * Lack of support and response from BIC. Let’s face it, the model only works if you have lots of agents doing lots of deals. However, if you are in the middle of a deal and you need help, you don’t have the time to make an appointment.
 * Out-of-pocket expenses. You are responsible for covering all of your expenses (marketing, lead generation, CRM, etc.), so when you factor in these expenses, your actual cost is higher than the transaction fee suggests without getting the support you need.
 
-&lt;/ul&gt; On the other end of the spectrum, you can join a team whose team leader will act as your mentor. For many independent-minded people, the low commission splits and lack of freedom is a major negative. On top of that, you’re spending your time and effort to build someone else’s brand instead of your own.
+&nbsp;On the other end of the spectrum, you can join a team whose team leader will act as your mentor. For many independent-minded people, the low commission splits and lack of freedom is a major negative. On top of that, you’re spending your time and effort to build someone else’s brand instead of your own.
 
 As an owner and as a Realtor, I felt like there had to be a better, balanced alternative. My goal was to take all of the benefits of a full-service brokerage and match it with one of the most attractive compensation plans around.
 
 **I’m thrilled to share what we have developed. Here are the benefits of our full-service brokerage, at no extra cost to you:**
 
-Technology: &lt;ul class=”indent”&gt;
+Technology:&nbsp;
 
 * A personalized website with an integrated CRM powered by TorchX. The individual agent package costs $399 a month plus the $949 setup fee. For more details, visit [torchx.com](http://torchx.com/)
 * Circle Pix’s hassle-free marketing program, which costs $500 per year. For more details, visit [circlepix.com](https://circlepix.com)
 * A branded newsletter, which costs $20 to $45 per month. For more information, visit [mynewsletterbuilder.com](https://www.mynewsletterbuilder.com)
 
-&lt;/ul&gt; Office & Print Materials: &lt;ul class=”indent”&gt;
+Office & Print Materials:&nbsp;
 
 * Announcement cards & envelopes
 * A pre-listing package, including:
@@ -66,13 +66,13 @@ Technology: &lt;ul class=”indent”&gt;
 * Open house signs
 * A transition package (ff coming from another firm)
 
-&lt;/ul&gt; Support: &lt;ul class=”indent”&gt;
+Support:&nbsp;
 
 * From Frank Free, you will have direct access in office or by cell phone to the broker in charge of 26 Years.
 * From Chip Free, you will have direct access in office or by cell phone for tech support and general support.
 * A collaborative work environment—yes, our agents really help each other.
 
-&lt;/ul&gt; Leads Program: &lt;ul class=”indent”&gt;
+Leads Program:&nbsp;
 
 * Opportunity to receive internet leads with three options: ISA (inside sales agent) filtered leads, raw leads, and/or a combination of both.
 
@@ -83,13 +83,13 @@ Technology: &lt;ul class=”indent”&gt;
 * Branded Lake Realty display tent
 * A power washer, cornhole boards, and more. Check out [perks.lakerealty.com](http://perks.lakerealty.com) for more information.
 
-&lt;/ul&gt; Cutting Edge Compensation Plan: &lt;ul class=”indent”&gt;
+Cutting Edge Compensation Plan:&nbsp;
 
 * An 80/20 split until cap
 * An $18,000 cap and then a 100% commission with a $500-per-transaction fee
 * A revenue sharing plan where you’ll receive a percentage of revenue from recruiting up to seven levels deep.
 
-&lt;/ul&gt;
+&nbsp;
 
 Your only require expenses are a $20-per-month errors and omission insurance fee (which starts when you have first contract), MLS dues, a supra key fee and the requirements for a NC Licensee, and a one-time 25% referral fee for internet leads from the lead program. Lake Realty-generated sales are excluded from cap total (i.e. internet leads, walk-ins, and company phone leads).
 
