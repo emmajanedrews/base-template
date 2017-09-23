@@ -122,7 +122,7 @@ I shared these particular stories for two reasons.
 
 First, in addition to working hard and taking advangates of the support and systems we offer, both Sue and Ana realized an increase in their income in part due to a rise in the average price per sale. At Lake Realty, we receive a lot inquiries from buyers and sellers whose interests lie in properties on or near the lake. In general, these properties are more expensive, resulting in higher commissions.
 
-Second, both Sue and Ana are relatively new to Lake Realty. On average, our agents have been with Lake Realty for seven years—well above the industry average of three years, as noted in the NAR’s 2016 Members Profile. Your income and growth are determined by your effort—not your tenure.
+Second, both Sue and Ana are relatively new to Lake Realty. &nbsp;On average, our agents have been with Lake Realty for seven years—well above the industry average of three years, as noted in the NAR’s 2016 Members Profile. &nbsp;I want to emphasize that your income and growth are determined by your effort—not your tenure.
 
 If you want the benefits of joining a local, full-service brokerage with a cutting-edge compensation plan, then I would like to extend the opportunity for you to join Lake Realty.
 
