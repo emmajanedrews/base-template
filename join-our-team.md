@@ -85,13 +85,13 @@ Perks Available to You & Your Clients:
 
 Cutting Edge Compensation Plan:&nbsp;
 
-* An 80/20 split until cap
-* An $18,000 cap and then a 100% commission with a $500-per-transaction fee
+* An 80/20 split until cap\*
+* An $18,000 cap\*\* and then a 100% commission with a $500-per-transaction fee
 * A revenue sharing plan where you’ll receive a percentage of revenue from recruiting up to seven levels deep.
 
 &nbsp;
 
-Your only require expenses are a $20-per-month errors and omission insurance fee (which starts when you have first contract), MLS dues, a supra key fee and the requirements for a NC Licensee, and a one-time 25% referral fee for internet leads from the lead program. Lake Realty-generated sales are excluded from cap total (i.e. internet leads, walk-ins, and company phone leads).
+Your only required expenses are a $20-per-month errors and omission insurance fee (which starts when you have first contract), MLS dues, a supra key fee and the requirements for a NC Licensee. \*Internet leads from our leads program pay a one-time 25% referral. \*\*Lake Realty-generated sales are excluded from cap total (i.e. internet leads, walk-ins, and company phone leads).
 
 **How do we get results?**
 
@@ -118,7 +118,7 @@ I shared these stories for two reasons.
 
 ![](/img/success.png){: .float-right}
 
-First, both Sue and Ana realized an increase in income in part due to a rise in the average price per sale. Because we’re Lake Realty, we receive a lot inquiries from buyers and sellers whose interests lie in properties on or near the lake. In general, these properties are more expensive, resulting in higher commissions.
+First, in addition to working hard and taking advangates of the support and systems we offer, both Sue and Ana realized an increase in their income in part due to a rise in the average price per sale. Because we’re Lake Realty, we receive a lot inquiries from buyers and sellers whose interests lie in properties on or near the lake. In general, these properties are more expensive, resulting in higher commissions.
 
 Second, both Sue and Ana are relatively new to Lake Realty. On average, our agents have been with Lake Realty for seven years—well above the industry average of three years, as noted in the NAR’s 2016 Members Profile. Your income and growth are determined by your effort—not your tenure.
 
