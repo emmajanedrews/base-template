@@ -89,8 +89,6 @@ Cutting Edge Compensation Plan:&nbsp;
 * An $18,000 cap\*\* and then a 100% commission with a $500-per-transaction fee
 * A revenue sharing plan where you’ll receive a percentage of revenue from recruiting up to seven levels deep.
 
-&nbsp;
-
 Your only required expenses are a $20-per-month errors and omission insurance fee (which starts when you have first contract), MLS dues, a supra key fee and the requirements for a NC Licensee. \*Internet leads from our leads program pay a one-time 25% referral. \*\*Lake Realty-generated sales are excluded from cap total (i.e. internet leads, walk-ins, and company phone leads).
 
 **How do we get results?**
@@ -122,9 +120,9 @@ First, in addition to working hard and taking advangates of the support and syst
 
 Second, both Sue and Ana are relatively new to Lake Realty. On average, our agents have been with Lake Realty for seven years—well above the industry average of three years, as noted in the NAR’s 2016 Members Profile. Your income and growth are determined by your effort—not your tenure.
 
-I would like to extend the opportunity for you to join Lake Realty.
+If you want the benefits of joining a local, full-service brokerage with a cutting-edge compensation plan, then I would like to extend the opportunity for you to join Lake Realty.
 
-We have a limited number of positions available in our leads program for well-qualified individuals. If you want the benefits of joining a local, full-service brokerage with a cutting-edge compensation plan, then apply today.
+We have a limited number of positions available in our leads program for well-qualified individuals. &nbsp;Apply today.
 
 Sincerely,
 
