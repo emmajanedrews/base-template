@@ -34,10 +34,9 @@ The structural issues that will prevent you from making serious money over the l
 * High expenses in the form of low commission splits, monthly fees, franchise fees, marketing expenses, etc. &nbsp;At the end of the day, it’s how much you take home.
 * Investing your time and effort to build someone else’s brand—not yours. Past clients and their referrals are critical to your success. For Realtors making over $150,000 a year, 57% of their business comes from past clients and referrals from past clients.
 
-![](/uploads/versions/frankextractedupper190-fw-1---x----199-277x---.png){: .float-right}
-My name is Frank Free, and in addition to being the broker in charge and the owner of Lake Realty for 26 years, I have taught as a North Carolina licensed real estate instructor. I have advised many agents on how to grow their business and thrive at real estate. In fact, several of my agents have gone on to run their own successful brokerages.
+![](/uploads/versions/frankextractedupper190-fw-1---x----199-277x---.png){: .float-right} My name is Frank Free, and in addition to being the broker in charge and the owner of Lake Realty for 26 years, I have taught as a North Carolina licensed real estate instructor. I have advised many agents on how to grow their business and thrive at real estate. In fact, several of my agents have gone on to run their own successful brokerages.
 
-Through the years, I have seen hundreds of models and firms and watched agents struggle to find the right fit. Like most things in life, real estate is about tradeoffs. Often these tradeoffs feel like choosing the lesser of two evils. On one end of the spectrum, you can choose a transaction-based model that simply charges a fixed transaction fee for each deal. While the 100% commission is alluring, there are two areas in this model where I see agents run into trouble.&nbsp;
+Through the years, I have seen hundreds of models and firms and watched agents struggle to find the right fit. Like most things in life, real estate business model are about tradeoffs. Often these tradeoffs feel like choosing the lesser of two evils. On one end of the spectrum, you can choose a transaction-based model that simply charges a fixed transaction fee for each deal. While the 100% commission is alluring, there are two areas in this model where I see agents run into trouble.&nbsp;
 
 * Lack of support and response from BIC. Let’s face it, the model only works if you have lots of agents doing lots of deals. However, if you are in the middle of a deal and you need help, you don’t have the time to make an appointment.
 * Out-of-pocket expenses. You are responsible for covering all of your expenses (marketing, lead generation, CRM, etc.), so when you factor in these expenses, your actual cost is higher than the transaction fee suggests without getting the support you need.
@@ -65,7 +64,7 @@ Office & Print Materials:&nbsp;
 * Standard copier usage
 * Office space to meet clients
 * Open house signs
-* A transition package (ff coming from another firm)
+* A transition package (if coming from another firm)
 
 Support:&nbsp;
 
@@ -77,12 +76,12 @@ Leads Program:&nbsp;
 
 * Opportunity to receive internet leads with three options: ISA (inside sales agent) filtered leads, raw leads, and/or a combination of both.
 
-Perks Available to You & Your Clients:&nbsp;
+Perks Available to You & Your Clients:
 
 * 15 foot moving truck
 * Lake Norman boat tours
 * Branded Lake Realty display tent
-* A power washer, cornhole boards, and more. Check out [perks.lakerealty.com](http://perks.lakerealty.com) for more information.
+* A power washer, cornhole boards, and more. Check out [perks.lakerealty.com](http://perks.lakerealty.com) for more information.&nbsp;
 
 Cutting Edge Compensation Plan:&nbsp;
 
@@ -105,7 +104,6 @@ Sue Nichols started her real estate career with Lake Realty three year ago. Befo
 * In 2014, Sue had 14 transactions which generated $3,512,190 in sales volume and $74,706 for her commissions. Six of her transactions (43%) came from the Lake Realty leads program.
 * In 2015, Sue increased her sales to 23 transactions—$5,400,225 in sales volume and $107,857 for her commissions. Seven of her transactions (50%) came from the Lake Realty lead program.
 * In 2016, Sue closed 23 transactions again, but the average sales price jumped significantly. This drove her sales volume to $11,470,199 and her commission to $229,896. Nine of her transactions (39%) came from the Lake Realty leads program.
-
 
 In addition to the deals from the Lake Realty leads program, she had two deals from office call-ins and seven deals from clients calling her directly from the Lake Realty website. She’s also had four sales over $1,000,000. She accomplished all of this while spending a minimal amount on marketing.
 
@@ -131,7 +129,6 @@ We have a limited number of positions available in our leads program for well-qu
 Sincerely,
 
 Frank & Chip Free
-
 
 ## Let’s Make You More Money
 {: .recruiting}
