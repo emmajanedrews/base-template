@@ -95,13 +95,13 @@ Your only required expenses are a $20-per-month errors and omission insurance fe
 
 To answer that, I want to share the story of two current agents of ours—Sue Nichols and Ana Sturt.
 
-Sue Nichols started her real estate career with Lake Realty three year ago. Before real estate, she was a successful business analyst for an insurance brokerage firm. She made the career change because she was tired of all the traveling and living out of her suitcase.
+Sue Nichols started her real estate career with Lake Realty three years ago. Before real estate, she was a successful business analyst for an insurance brokerage firm. She made the career change because she was tired of all the traveling and 'living out of a suitcase'.
 
 ![](/img/sue.png){: .float-left}
 
 * In 2014, Sue had 14 transactions which generated $3,512,190 in sales volume and $74,706 for her commissions. Six of her transactions (43%) came from the Lake Realty leads program.
 * In 2015, Sue increased her sales to 23 transactions—$5,400,225 in sales volume and $107,857 for her commissions. Seven of her transactions (50%) came from the Lake Realty lead program.
-* In 2016, Sue closed 23 transactions again, but the average sales price jumped significantly. This drove her sales volume to $11,470,199 and her commission to $229,896. Nine of her transactions (39%) came from the Lake Realty leads program.
+* In 2016, Sue closed 23 transactions again, but the average sales price jumped significantly. This drove her sales volume to $11,470,199 and her commissions to $229,896. Nine of her transactions (39%) came from the Lake Realty leads program.
 
 In addition to the deals from the Lake Realty leads program, she had two deals from office call-ins and seven deals from clients calling her directly from the Lake Realty website. She’s also had four sales over $1,000,000. She accomplished all of this while spending a minimal amount on marketing.
 
@@ -112,11 +112,11 @@ Ana Sturt joined Lake Realty in 2015, making the switch from a transaction-based
 * In 2015, Ana had 10 transactions which generated $2,449,650 in sales volume and $54,480 for her commissions. One of her sales (10%) was from the Lake Realty leads program.
 * In 2016, Ana had 12 transactions which generated $4,158,839 in sales volume and $92,078 for her commissions. One of her sales (10%) was from the Lake Realty leads program.
 
-I shared these stories for two reasons.
+I shared these particular stories for two reasons.
 
 ![](/img/success.png){: .float-right}
 
-First, in addition to working hard and taking advangates of the support and systems we offer, both Sue and Ana realized an increase in their income in part due to a rise in the average price per sale. Because we’re Lake Realty, we receive a lot inquiries from buyers and sellers whose interests lie in properties on or near the lake. In general, these properties are more expensive, resulting in higher commissions.
+First, in addition to working hard and taking advangates of the support and systems we offer, both Sue and Ana realized an increase in their income in part due to a rise in the average price per sale. At Lake Realty, we receive a lot inquiries from buyers and sellers whose interests lie in properties on or near the lake. In general, these properties are more expensive, resulting in higher commissions.
 
 Second, both Sue and Ana are relatively new to Lake Realty. On average, our agents have been with Lake Realty for seven years—well above the industry average of three years, as noted in the NAR’s 2016 Members Profile. Your income and growth are determined by your effort—not your tenure.
 
