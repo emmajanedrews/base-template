@@ -32,6 +32,6 @@ Second, **avoid any gory decorations.** Not everyone celebrates Halloween with g
 
 Third, **let in a lot of natural light.** Our days are getting shorter, so clean your windows, pull back the shades, and do everything you can to let natural light in.
 
-Lastly, **make your space inviting.** Consider placing a few plush, fall-time pillows on the couch or a few throws on the bed. You might even consider making some homemade cookies and leaving them on the counter for buyers to see when they walk through the home.
+Lastly, **make your space inviting.** Consider placing a few plush, fall-themed pillows on the couch or a few throws on the bed. You might even consider making some homemade cookies and leaving them on the counter for buyers to see when they walk through the home.
 
-If you follow these tips, we guarantee your home will be a top contender to sell this fall. If you have any questions or you’d be interested in letting us help you list your home, don’t hesitate to reach out to us. We’d be happy to help.
+If you follow these tips, we guarantee your home will be a top contender to sell this fall. If you have any questions or you’d be interested in letting us help you list your home, don’t hesitate to give us a call or send us an email.
