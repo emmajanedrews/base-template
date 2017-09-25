@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Helping Those Impacted by Harvey
-date: 2017-09-25 15:33:20
+date: 2017-09-25 15:33:00
 tags:
   - Real Estate
 excerpt: >-
   We recently had the opportunity to travel down to the Houston area with my
   Keller Williams colleagues to lend a hand to homeowners whose homes had
   flooded due to Hurricane Harvey.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Seth+%26+Alyce+Dailey/Helping+Those+Impacted+by+Harvey.mp4
 pullquote: 'Overall, this experience has been incredibly rewarding.'
 enclosure_type: video/mp4
 enclosure_time:
