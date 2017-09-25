@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Helping Those Impacted by Harvey
-date:
+date: 2017-09-25 15:33:20
 tags:
   - Real Estate
 excerpt: >-
