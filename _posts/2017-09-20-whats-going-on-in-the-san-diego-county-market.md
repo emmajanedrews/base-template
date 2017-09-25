@@ -1,13 +1,14 @@
 ---
 layout: post
 title: What's Going on in the San Diego County Market?
-date: 2017-09-20 14:59:12
+date: 2017-09-20 14:59:00
 tags:
   - Market Update
 excerpt: >-
   What is going on in the market across San Diego County? Today, I’ve got the
   latest update.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/videos/San+Diego+Real+Estate-+Will+Changes+in+Our+Local+Market+Affect+You%253F.mp4
 pullquote: >-
   A surplus of buyers and a lack of inventory in the market is driving up
   competition, meaning you have the advantage as a seller.
