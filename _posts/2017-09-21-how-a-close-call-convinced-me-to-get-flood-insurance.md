@@ -1,14 +1,15 @@
 ---
 layout: post
 title: How a Close Call Convinced Me to Get Flood Insurance
-date: 2017-09-21 10:57:34
+date: 2017-09-21 10:57:00
 tags:
   - Real Estate
 excerpt: >-
   Today I’d like to tell you the story of my family’s close call with Hurricane
   Irma. We live in an area where flood insurance isn’t mandatory, but being
   without coverage proved to be more scary than we thought.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Philipp+Fries/videos/Tampa+Bay+Area+Real+Estate+Agent-+Think+Twice+Before+Skipping+Flood+Insurance.mp4
 pullquote: >-
   Even if you live in an area where flood insurance isn’t mandatory, you can
   still be affected by storms.
