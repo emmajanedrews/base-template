@@ -20,15 +20,15 @@ youtube_code: CgYGO5oVaOQ
 
 {% include youtube.html %}
 
-Recently I was able to sit on a meeting with Greg Schwartz, the Chief Business Officer for Zillow.
+Recently I was able to sit in on a meeting with Greg Schwartz, the Chief Business Officer for Zillow.
 
-With all of his experience, connections and knowledge, Schwartz’s input very much aligned with how my team and I want to run the real estate process for you.
+With all of his experience, connections, and knowledge, Schwartz’s input very much aligned with how my team and I want to run the real estate process for you.
 
 **The age of the discount business model has peaked.** When it comes to customer satisfaction, Realtors are toward the bottom of the list. Discounting has not equated to satisfaction or substantial market shares.
 
 {% include pullquote.html %}
 
-For example, consider Amazon. Right now, 60% of U.S. households have an Amazon Prime account while 70% have cable tv. Amazon hasn’t reinvented the wheel. They run your card like any other business, and don’t offer particularly low prices.
+For example, consider Amazon. Right now, 60% of U.S. households have an Amazon Prime account while 70% have cable TV. Amazon hasn’t reinvented the wheel. They run your card like any other business, and don’t offer particularly low prices.
 
 However, Amazon has made a business that is streamlined. Their business is predictable and consistent, which is what we really want. This is exactly the kind of process we want to bring to you.
 
