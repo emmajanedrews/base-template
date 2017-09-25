@@ -39,9 +39,9 @@ Don’t worry. I assure you we will address each and every one of your concerns.
 
 
 
-
+<div style="text-align:center;">
 <h2 class="recruiting">Let's Make You More Money</h2>
-<h4 class="recruiting">Request a phone call - it does not cost a dime to talk.</h4>
+<h4 class="recruiting">Request a phone call - it does not cost a dime to talk.</h4></div>
 <form method="post" class="home-value cta-forms" action="http://formspree.io/paul@kwgatewayhomes.com" onsubmit="return setReturn()">
     <fieldset>
         <p id="thanks"></p>
