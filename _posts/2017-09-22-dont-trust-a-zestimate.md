@@ -20,7 +20,7 @@ youtube_code: 4nGwSkN_JIE
 
 {% include youtube.html %}
 
-Do you have a friend who uses Web M.D. when they are sick to diagnose them without consulting a doctor at all? **That’s kind of like using Zillow to get the value of your home without speaking to a real estate agent.** You might be right, but chances are that you’re not. In fact, you might be way off.
+Do you have a friend who uses WebMD when they are sick to diagnose them without consulting a doctor at all? **That’s kind of like using Zillow to get the value of your home without speaking to a real estate agent.** You might be right, but chances are that you’re not. In fact, you might be way off.
 
 {% include pullquote.html %}
 
