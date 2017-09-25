@@ -29,7 +29,7 @@ We recently had the opportunity to travel down to the Houston area with my Kelle
 
 Rebuilding these areas is going to take more than a couple of weeks, so it’s important that we keep the energy going in the coming months as we help people get back to their normal lives.
 
-Please consider donating to our Red Relief program. Your contributions will help us supply food, water, clothing, and building supplies to these communities.
+[Please consider donating to our Red Relief program.](https://www.kwrelief.org/) Your contributions will help us supply food, water, clothing, and building supplies to these communities.
 
 If you have any questions about KW Cares, the Red Relief program, and our ongoing disaster relief efforts, please don’t hesitate to reach out to us.
 
