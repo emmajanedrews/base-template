@@ -23,7 +23,7 @@ youtube_code: HZAHaZJEGAk
 
 When Hurricane Harvey made landfall in Houston, it brought with it over two feet of rain and left in its wake tens of thousands of displaced people and hundreds of thousands more without power.
 
-We recently had the opportunity to travel down to the Houston area with my Keller Williams colleagues to lend a hand to homeowners whose homes had flooded due to Hurricane Harvey. Overall, this experience has been incredibly rewarding. We got to help a lot of families, but there are many more people who still need help.
+I recently had the opportunity to travel down to the Houston area with my Keller Williams colleagues to lend a hand to homeowners whose homes had flooded due to Hurricane Harvey. Overall, this experience has been incredibly rewarding. I got to help a lot of families, but there are many more people who still need help.
 
 {% include pullquote.html %}
 
@@ -33,4 +33,8 @@ Rebuilding these areas is going to take more than a couple of weeks, so it’s i
 
 If you have any questions about KW Cares, the Red Relief program, and our ongoing disaster relief efforts, please don’t hesitate to reach out to us.
 
-We appreciate your support as we work to help others through this difficult time.
+I appreciate your support as we work to help others through this difficult time.
+
+Sincerely,
+
+**Seth Dailey**<br>Operating Partner at Keller Williams Gateway<br>&nbsp;
