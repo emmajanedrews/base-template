@@ -25,7 +25,7 @@ Miranda was curious as to what set Team Lally apart from other real estate teams
 
 This is just part of the reason why we’re so successful. The opportunity for collaboration that this mindset brings is what Miranda says she enjoys most about working on our team.
 
-Each agent brings something different to the table, so e**veryone on the team combines their experiences and outlooks to find the best solutions for any transaction.**
+Each agent brings something different to the table, so **e******v**eryone on the team combines their experiences and outlooks to find the best solutions for any transaction.**
 
 {% include pullquote.html %}
 
