@@ -5,8 +5,8 @@
     <description>Our mission at Vyral Marketing is to be your best resource for  real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Vyral Marketing, your professional  Real Estate Agents.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 25 Sep 2017 12:37:15 -0500</pubDate>
-    <lastBuildDate>Mon, 25 Sep 2017 12:37:15 -0500</lastBuildDate>
+    <pubDate>Mon, 25 Sep 2017 13:40:32 -0500</pubDate>
+    <lastBuildDate>Mon, 25 Sep 2017 13:40:32 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -40,9 +40,9 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;2190&lt;/td&gt;
-      &lt;td&gt;26.12&lt;/td&gt;
-      &lt;td&gt;2.28&lt;/td&gt;
+      &lt;td&gt;Sent to 2,190&lt;/td&gt;
+      &lt;td&gt;Opens: 26.12&lt;/td&gt;
+      &lt;td&gt;Clicks: 2.28&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -52,9 +52,9 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;1,957&lt;/td&gt;
-      &lt;td&gt;21.67&lt;/td&gt;
-      &lt;td&gt;0.51&lt;/td&gt;
+      &lt;td&gt;Sent to: 1,957&lt;/td&gt;
+      &lt;td&gt;Opens: 21.67&lt;/td&gt;
+      &lt;td&gt;Clicks: 0.51&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -64,9 +64,9 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;1,049&lt;/td&gt;
-      &lt;td&gt;19.35&lt;/td&gt;
-      &lt;td&gt;4.29&lt;/td&gt;
+      &lt;td&gt;Sent to: 1,049&lt;/td&gt;
+      &lt;td&gt;Opens: 19.35&lt;/td&gt;
+      &lt;td&gt;Clicks: 4.29&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;

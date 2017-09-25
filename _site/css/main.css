@@ -1774,7 +1774,7 @@ a {
   text-decoration: none; }
   a:hover {
     text-decoration: none;
-    color: #1180c2; }
+    color: #f6600f; }
   a:visited {
     text-decoration: none; }
 
@@ -1955,16 +1955,15 @@ table tr, table td {
   -webkit-transition: all 0.15s ease-out 0s;
   transition: all 0.15s ease-out 0s; }
   .readlink > a:hover {
-    background: transparent;
-    color: #1180c2;
-    box-shadow: 4px 4px 0 #1180c2;
-    border: 1px solid #1180c2;
+    background: #f6600f;
+    color: white;
+    border: 1px solid #f6600f;
     -webkit-transform: scale(1.05);
     transform: scale(1.05);
     -webkit-transform: translateY(-0.2rem);
     transform: translateY(-0.2rem); }
   .readlink > a:active {
-    box-shadow: 0 0 0 #1180c2;
+    box-shadow: 0 0 0 #f6600f;
     -webkit-transform: translateY(0rem);
     transform: translateY(0rem); }
 
@@ -2061,7 +2060,7 @@ table tr, table td {
   .author-attribution a {
     color: white; }
     .author-attribution a:hover {
-      color: #1180c2; }
+      color: #f6600f; }
 
 .post-share {
   text-align: center;
@@ -2184,16 +2183,16 @@ table tr, table td {
     -webkit-transition: all 0.15s ease-out 0s;
     transition: all 0.15s ease-out 0s; }
     .socials svg:hover {
-      fill: #1180c2;
+      fill: #f6600f;
       background: transparent;
-      color: #1180c2;
+      color: #f6600f;
       box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
       -webkit-transform: scale(1.05);
       transform: scale(1.05);
       -webkit-transform: translateY(-0.2rem);
       transform: translateY(-0.2rem); }
     .socials svg:active {
-      box-shadow: 0 0 0 #1180c2;
+      box-shadow: 0 0 0 #f6600f;
       -webkit-transform: translateY(0rem);
       transform: translateY(0rem); }
 
@@ -2206,7 +2205,7 @@ table tr, table td {
     width: 5rem;
     fill: #094264; }
     .about .socials svg:hover {
-      fill: #1180c2; }
+      fill: #f6600f; }
 
 .footer-socials .socials {
   text-align: center;
@@ -2224,7 +2223,7 @@ table tr, table td {
     -webkit-transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
     .footer-socials .socials svg:hover {
-      fill: #1180c2;
+      fill: #f6600f;
       background: transparent; }
 
 @media (max-width: 1450px) {
@@ -2339,20 +2338,13 @@ table tr, table td {
     font-size: 2rem;
     border-radius: 0px;
     font-weight: 300;
-    border: 2px solid #094264;
-    -webkit-transition: 0.3s;
-    transition: 0.3s; }
+    border: 2px solid #094264; }
     .search-box .search-submit:hover {
-      background: transparent;
-      color: #1180c2;
-      box-shadow: 4px 4px 0 #1180c2;
-      border: 2px solid #1180c2;
-      -webkit-transform: scale(1.05);
-      transform: scale(1.05);
-      -webkit-transform: translateY(-0.2rem);
-      transform: translateY(-0.2rem); }
+      background: #f6600f;
+      color: white;
+      border: 2px solid #f6600f; }
     .search-box .search-submit:active {
-      box-shadow: 0 0 0 #1180c2;
+      box-shadow: 0 0 0 #f6600f;
       -webkit-transform: translateY(0rem);
       transform: translateY(0rem); }
 
