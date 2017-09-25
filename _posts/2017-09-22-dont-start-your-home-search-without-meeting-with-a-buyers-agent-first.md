@@ -25,7 +25,7 @@ youtube_code: OEauQjv671w
 
 If you’re a first-time homebuyer, **it’s imperative that you to meet with a seasoned buyer’s agent and do a buyer’s consultation before doing anything else.**
 
-I know I sound like a broken record because I’ve discussed this topic so many times in the past, but I still feel like buyer’s don’t quite understand the importance of doing this.
+I know I sound like a broken record because I’ve discussed this topic so many times in the past, but I still feel like buyers don’t quite understand the importance of doing this.
 
 In the state of Connecticut, we real estate agents either represent the interests of the seller or the buyer, and we have something called “**buyer brokerage,**” where a real estate agency and/or a Realtor can represent you exclusively as a buyer.
 
