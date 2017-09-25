@@ -1931,13 +1931,16 @@ table tr, table td {
   transition: all 0.3s ease-in-out; }
 
 .post-image {
+  width: 100%; }
+
+.in-post-image {
   width: 50%;
   margin: auto;
   display: block; }
 
 .float-left {
   float: left;
-  margin: 20px; }
+  margin: 30px; }
 
 .float-right {
   float: right;

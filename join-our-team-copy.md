@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Join Our Team 1
-permalink: /join-our-team/
+permalink: /join-our-team1/
 ---
 
 
@@ -9,7 +9,7 @@ permalink: /join-our-team/
 
 Most likely, you chose to get into real estate or are thinking about a career change into real estate because you are an independent person wanting to enjoy the benefits of running your own business. Real estate allows you to be your own boss, set your own schedule, and generate levels of income reflected by your efforts and not a corporate hierarchy. These benefits—coupled with a relatively low barrier of entry and a financial investment without the headache of employees—make real estate a very attractive career path.
 
-![](/uploads/versions/benefits-of-being-an-entrepreneur---x----557-354x---.jpg){: .post-image}
+![](/uploads/versions/benefits-of-being-an-entrepreneur---x----557-354x---.jpg){: .in-post-image}
 
 The challenge for many is not “if” I should do real estate, but “how” I should do real estate. If you don’t make the right decision, you may find yourself disappointed and frustrated with your results. In fact, the median gross income for Realtors was $39,200 in 2015, as stated in the National Association of Realtors’ 2016 Members Profile. At the same time, agents at this income level spend, on average, $8,400 in expenses. Then once Uncle Sam gets his cut, the take home pay for the average Realtor is less than satisfactory.
 
