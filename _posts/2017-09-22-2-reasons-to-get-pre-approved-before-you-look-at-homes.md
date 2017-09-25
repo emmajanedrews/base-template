@@ -24,7 +24,7 @@ Many buyers call me feeling excited to get out there and start looking at homes.
 
 There are a couple of reasons why.
 
-**First of all, getting pre-approved lets you know what your price range is.**There’s nothing worse than looking at homes in a higher price range and finding out that you can’t afford them.
+**First of all, getting pre-approved lets you know what your price range is.&nbsp;**There’s nothing worse than looking at homes in a higher price range and finding out that you can’t afford them.
 
 It’s like test-driving a Lexus only to be told that your budget will only allow you to buy a Camry. Nothing against the Camry, but it can be difficult to get excited about buying one after you’ve seen what the Lexus can do.
 
