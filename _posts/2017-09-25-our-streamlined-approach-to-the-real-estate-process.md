@@ -20,9 +20,9 @@ youtube_code: CgYGO5oVaOQ
 
 {% include youtube.html %}
 
-Recently I was able to sit on a meeting with Greg Schwartz, the chief business officer for Zillow.
+Recently I was able to sit on a meeting with Greg Schwartz, the Chief Business Officer for Zillow.
 
-With all of &nbsp;his experience, connections and knowledge, Schwartz’s input very much aligned with how my team and I want to run the real estate process for you.
+With all of his experience, connections and knowledge, Schwartz’s input very much aligned with how my team and I want to run the real estate process for you.
 
 **The age of the discount business model has peaked.** When it comes to customer satisfaction, Realtors are toward the bottom of the list. Discounting has not equated to satisfaction or substantial market shares.
 
