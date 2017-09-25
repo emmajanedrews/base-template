@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Does Our Rent Guarantee Benefit You?
-date: 2017-09-25 09:35:43
+date: 2017-09-25 09:35:00
 tags:
   - Real Estate
 excerpt: 'A rent guarantee is something no one else in Hawaii does, but we do.'
@@ -11,11 +11,9 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: mcitoNMd96M
+youtube_code: Zmt6-mm-6Z
 ---
 
-
-&nbsp;
 
 {% include youtube.html %}
 
