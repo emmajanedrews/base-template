@@ -1,11 +1,12 @@
 ---
 layout: post
 title: How to Win in a Multiple Offer Situation
-date: 2017-09-07 11:28:15
+date: 2017-09-07 11:28:00
 tags:
   - Home Buyer Tips
 excerpt: Today I wanted to give you some tips on how to get your offer accepted.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Becky+Ivins/Videos/Oklahoma+City+Metro+Real+Estate+Agent-+Getting+Your+Offer+Accepted.mp4
 pullquote: 'Price rules, but not just the purchase price.'
 enclosure_type: video/mp4
 enclosure_time:
