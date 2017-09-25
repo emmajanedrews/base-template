@@ -1,8 +1,95 @@
 ---
 layout: post
 title: Week of 9/18/17
-excerpt: This week's Top Performing Emails were sent by
+excerpt: >-
+  This week's Top Performing Emails were sent by Chad Huebener, Hal Sweasey,
+  John Simmonds, Charleston Homes, Greg McDaniel
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: 1o0CKKvrWns
 ---
+
+
+### Chad Huebener -&nbsp;[New inspection contingency changes](http://p0.vresp.com/tfChRr)
+
+3232 &nbsp;| &nbsp;21.5 &nbsp;| &nbsp;3.47
+
+### Hal Sweasey -&nbsp;
+
+### John Simmonds
+
+### Charleston Homes
+
+### Greg McDaniel
+
+Bo Winn - Watch to find out the latest market trends
+
+Mike Lafido - 2 record-breaking home sales
+
+Dave Friedman - My recent visit to Real Estate Uncensored
+
+Tina Caul - 5 Ways to Invest in Real Estate
+
+Renae Gibson - Red Relief—Helping Those Impacted by Harvey and Irma
+
+Ashley Carter - Helping Those Impacted by Harvey
+
+Jason Shinpaugh - Hurricane Recovery
+
+Chris Snow - Praying for Jacksonville
+
+Dave Knight - What Is the Mills Act?
+
+Dave Nimick - Local Lender vs Online Mortgage Provider
+
+Jay White - Is your home priced correctly for the market?
+
+Rob Ellish&nbsp;
+
+Gloria Buck - Red Relief—Helping Those Impacted by Harvey and Irma
+
+Lee Tessier - Questions Plain Text
+
+Ryan Butler - Real estate investing all text
+
+Ian Lobas - The importance of home staging
+
+Mark Brace - September Market Update
+
+Lisa Treu - The victims of Hurricane Irma need our help
+
+Anne-Marie McCormick - Keep up with San Diego real estate news
+
+Anne Stewart - An emerging challenge in our market
+
+Amanda Howard - Investing in your kid's college crib
+
+Robert & Shannon Rollings - Pricing for new construction & resale homes
+
+Jeff Ryder - The right color can add thousands in value
+
+Shawn Culhane - Hurricane Harvey - Plain Text
+
+Jan Leasure - 5 Ways to Invest in Real Estate
+
+Kris Miller - Where Do I Start My Day?
+
+Jason Penrose - What made our August market so different?
+
+Jason Bramblett - Our listing guarantee
+
+(ASI) Aesthetic Surgical Images - Recovering from a tummy tuck
+
+Haro Setian - Red Relief—Helping Those Impacted by Harvey and Irma
+
+Paul Herrick - Real Estate Myth Busting: Part 2
+
+John Hatch - Important stats from the Portland market
+
+Peter MacIntyre
+
+Curtis Johnson - 3 facts you need to know about the home-flipping craze
+
+Jeff Latham - My key to financial freedom
+
+Alex Lam - How interest rate increases affect you
