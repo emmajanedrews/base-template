@@ -26,7 +26,7 @@ Welcome to another episode of “What’s Working Now!”&nbsp;
 
 I’m recording live from our new listing at 4550 Klingle St. NW at Wesley Heights. I’m excited to announce that we are now sponsored by The Current Newspapers.&nbsp;
 
-I also want to discuss one of the smartest things a seller can do—price reductions. &nbsp;
+I also want to discuss one of the smartest things a seller can do: price reductions. &nbsp;
 
 **How do you know if you need a price reduction?** There are two main things to look for.&nbsp;
 
@@ -34,7 +34,7 @@ First of all, let’s say you have a brand-new listing in a hot market. If no on
 
 So, one of the signs that you may need a price reduction is when no one calls or asks questions about your brand-new listing.&nbsp;
 
-On the other hand, you may have 20 or 25 people come in for a showing. They look at your house, say that it’s looks great, but no one makes an offer. This tells you that **there is no urgency to make an offer on this product in this location at the current price.**&nbsp;
+On the other hand, you may have 20 or 25 people come in for a showing. They look at your house, say that it looks great, but no one makes an offer. This tells you that **there is no urgency to make an offer on this product in this location at the current price.**&nbsp;
 
 {% include pullquote.html %}
 
