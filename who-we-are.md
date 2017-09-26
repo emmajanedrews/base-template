@@ -8,15 +8,15 @@ permalink: /who-we-are/
 
 <h4>Christine and Company</h4>
 **About the Team**
-<p>Christine Robertson is the owner and broker of her team, Christine & Company, and has been named the Best of Seattle in Real Estate by Seattle Magazine for the 4th year in a row!</p> 
+<p>Christine Robertson is the owner and broker of her team, Christine & Company, and has been named the Best of Seattle in Real Estate by Seattle Magazine for the 4th year in a row.</p> 
 
-<p>At Christine & Company, they promise to out-perform all expectations. Better Service. Better Results. With the Statistics to Prove it.</p>  
+<p>At Christine & Company, they promise to out-perform all expectations. Better Service. Better Results. With the Statistics to Prove it.
 
-<p>As a team, they have the experience, knowledge, and expertise to to keep that promise, whether working with multi-million dollar sellers to first-time buyers, from Gig Harbor to Everett to Vashon and from the Puget Sound to the Issaquah Plateau.</p>
+As a team, they have the experience, knowledge, and expertise to to keep that promise, whether working with multi-million dollar sellers to first-time buyers, from Gig Harbor to Everett to Vashon and from the Puget Sound to the Issaquah Plateau.
 
-<p>Christine and the team are not only known for their results, they are famous for rolling out the red carpet for their clients. Bringing back classic high-touch, VIP and concierge services to their already high-tech real estate business has made them hard to compete with.</p>
+Christine and the team are not only known for their results, they are famous for rolling out the red carpet for their clients. Bringing back classic high-touch, VIP and concierge services to their already high-tech real estate business has made them hard to compete with.
 
-<p>When it comes to buying or selling in Washington, nobody out performs Christine & Company.</p>
+When it comes to buying or selling in Washington, nobody out performs Christine & Company.
 
 <h4>Christine Robertson</h4>
 **Broker, Owner**
