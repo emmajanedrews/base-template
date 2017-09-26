@@ -6,13 +6,11 @@ permalink: /who-we-are/
 
 <h1>Who We Are</h1>
 
-<h3>Christine and Company</h3>
+<p>At Christine & Company, we promise to out-perform all expectations. Better Service. Better Results. With the Statistics to Prove it.
 
-<p>At Christine & Company, they promise to out-perform all expectations. Better Service. Better Results. With the Statistics to Prove it.
+As a team, we have the experience, knowledge, and expertise to keep that promise, whether working with multi-million dollar sellers to first-time buyers, from Gig Harbor to Everett to Vashon and from the Puget Sound to the Issaquah Plateau.
 
-As a team, they have the experience, knowledge, and expertise to to keep that promise, whether working with multi-million dollar sellers to first-time buyers, from Gig Harbor to Everett to Vashon and from the Puget Sound to the Issaquah Plateau.
-
-Christine and the team are not only known for their results, they are famous for rolling out the red carpet for their clients. Bringing back classic high-touch, VIP and concierge services to their already high-tech real estate business has made them hard to compete with.
+Our team is not only known for our results, we are famous for rolling out the red carpet for our clients. Bringing back classic high-touch, VIP and concierge services to our already high-tech real estate business has made us hard to compete with.
 
 When it comes to buying or selling in Washington, nobody out performs Christine & Company.</p>
 
