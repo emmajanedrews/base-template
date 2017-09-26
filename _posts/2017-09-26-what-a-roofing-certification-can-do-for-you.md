@@ -51,7 +51,7 @@ This certification is something that will often be requested by FHA appraisers. 
 
 From the perspective of a seller or homeowner, it’s a really good idea to have a company like VIP Roofing come out. Roofing inspections can really give you a good idea of how your roof can be improved, and also how long you can expect it to last. People like Travis will also help you to identify ways you might be able to extend the life of your roof.&nbsp;
 
-**Roofing inspections are a little bit more in depth than a roofing certification.**During an inspection, the inspector is going to look for problem areas. Sometimes this can involve lifting a few shingles, pulling back some siding, or otherwise examining the roof beyond simply looking at it.&nbsp;<br>&nbsp;
+**Roofing inspections are a little bit more in-depth than a roofing certification.&nbsp;**During an inspection, the inspector is going to look for problem areas. Sometimes this can involve lifting a few shingles, pulling back some siding, or otherwise examining the roof beyond simply looking at it.&nbsp;<br>&nbsp;
 
 {% include pullquote.html %}
 
@@ -63,6 +63,6 @@ Another factor that can cause roofs to deteriorate more quickly is when shingles
 
 Our local climate is incredibly harsh. **From extreme heat in the summer to below freezing in the winter, the roof can see a lot of damage.**
 
-Whether you’re a buyer or a seller, roofing is more important than you might think to Salt Lake City real estate. VIP Roofing is a great place to go to make sure your roof will actually last. If you have any questions or would like more information from Travis, you can reach him at (801) 631-6182 or visit VIP Roofing’s website at [www.VIP-Roofing.com](http://www.VIP-Roofing.com){:target="_blank"}.
+Whether you’re a buyer or a seller, roofing is more important than you might think to Salt Lake City real estate. VIP Roofing is a great place to go to make sure your roof will actually last. If you have any questions or would like more information from Travis, you can reach him at (801) 631-6182 or visit VIP Roofing’s website at [www.VIP-Roofing.com](http://www.VIP-Roofing.com).
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
