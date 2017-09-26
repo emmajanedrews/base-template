@@ -38,8 +38,6 @@ The structural issues that will prevent you from making serious money over the l
 
 Through the years, I have seen hundreds of models and firms and watched agents struggle to find the right fit. Like most things in life, real estate is about tradeoffs. Often these tradeoffs feel like choosing the lesser of two evils. On one end of the spectrum, you can choose a transaction-based model that simply charges a fixed transaction fee for each deal. While the 100% commission is alluring, there are two areas in this model where I see agents run into trouble.
 
-On one end of the spectrum, you can choose a transaction-based model that simply charges a fixed transaction fee for each deal. While the 100% commission is alluring, there are two areas in this model where I see agents run into trouble.
-
 * Lack of support and response from BIC. Let’s face it, the model only works if you have lots of agents doing lots of deals. However, if you are in the middle of a deal and you need help, you don’t have the time to make an appointment.
 * Out-of-pocket expenses. You are responsible for covering all of your expenses (marketing, lead generation, CRM, etc.), so when you factor in these expenses, your actual cost is higher than the transaction fee suggests without getting the support you need.
 
@@ -70,7 +68,7 @@ Office & Print Materials:
 
 ***Support:***
 
-* From Frank Free, you will have direct access in office or by cell phone to the broker in charge of 26 Years.
+* From Frank Free, you will have direct access in office or by cell phone to the broker in charge of 26 years.
 * From Chip Free, you will have direct access in office or by cell phone for tech support and general support.
 * A collaborative work environment—yes, our agents really help each other.
 
@@ -97,7 +95,7 @@ Your only required expenses are a $20 per month errors and omission insurance fe
 
 To answer that, I want to share the story of two current agents of ours—Sue Nichols and Ana Sturt.
 
-Sue Nichols started her real estate career with Lake Realty three years ago. Before real estate, she was a successful business analyst for an insurance brokerage firm. She made the career change because she was tired of all the traveling and 'living out of a suitcase'.
+Sue Nichols started her real estate career with Lake Realty three years ago. Before real estate, she was a successful business analyst for an insurance brokerage firm. She made the career change because she was tired of all the traveling and "living out of a suitcase." 
 
 ![](/img/sue.png){: .float-left}
 
