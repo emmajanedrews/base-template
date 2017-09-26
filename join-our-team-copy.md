@@ -31,17 +31,19 @@ Out of necessity, many agents look to webinars, real estate conferences, Faceboo
 
 The structural issues that will prevent you from making serious money over the long term are:
 
-* High expenses in the form of low commission splits, monthly fees, franchise fees, marketing expenses, etc.  At the end of the day, it’s how much you take home.
+* High expenses in the form of low commission splits, monthly fees, franchise fees, marketing expenses, etc. &nbsp;At the end of the day, it’s how much you take home.
 * Investing your time and effort to build someone else’s brand—not yours. Past clients and their referrals are critical to your success. For Realtors making over $150,000 a year, 57% of their business comes from past clients and referrals from past clients.
 
 ![](/uploads/versions/frankextractedupper190-fw-1---x----199-277x---.png){: .float-right}My name is Frank Free, and in addition to being the broker in charge and the owner of Lake Realty for 26 years, I have taught as a North Carolina licensed real estate instructor. I have advised many agents on how to grow their business and thrive at real estate. In fact, several of my agents have gone on to run their own successful brokerages.
 
-Through the years, I have seen hundreds of models and firms and watched agents struggle to find the right fit. Like most things in life, real estate is about tradeoffs. Often these tradeoffs feel like choosing the lesser of two evils. On one end of the spectrum, you can choose a transaction-based model that simply charges a fixed transaction fee for each deal. While the 100% commission is alluring, there are two areas in this model where I see agents run into trouble.
+Through the years, I have seen hundreds of models and firms and watched agents struggle to find the right fit. Like most things in life, real estate is about tradeoffs. Often these tradeoffs feel like choosing the lesser of two evils.
+
+On one end of the spectrum, you can choose a transaction-based model that simply charges a fixed transaction fee for each deal. While the 100% commission is alluring, there are two areas in this model where I see agents run into trouble.
 
 * Lack of support and response from BIC. Let’s face it, the model only works if you have lots of agents doing lots of deals. However, if you are in the middle of a deal and you need help, you don’t have the time to make an appointment.
 * Out-of-pocket expenses. You are responsible for covering all of your expenses (marketing, lead generation, CRM, etc.), so when you factor in these expenses, your actual cost is higher than the transaction fee suggests without getting the support you need.
 
- On the other end of the spectrum, you can join a team whose team leader will act as your mentor. For many independent-minded people, the low commission splits and lack of freedom is a major negative. On top of that, you’re spending your time and effort to build someone else’s brand instead of your own.
+On the other end of the spectrum, you can join a team whose team leader will act as your mentor. For many independent-minded people, the low commission splits and lack of freedom is a major negative. On top of that, you’re spending your time and effort to build someone else’s brand instead of your own.
 
 As an owner and as a Realtor, I felt like there had to be a better, balanced alternative. My goal was to take all of the benefits of a full-service brokerage and match it with one of the most attractive compensation plans around.
 
