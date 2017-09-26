@@ -15,20 +15,23 @@ Christine and the team are not only known for their results, they are famous for
 
 When it comes to buying or selling in Washington, nobody out performs Christine & Company.</p>
 
-<h4>Rob Spring</h4>
-**Branch Manager, Loan Originator**
-<p>Rob has been in Mortgage and Real Estate for 15 years. He’s seen the ups and downs and excelled in thriving and retracting markets. He’s worked for the big bank, the Mom and Pop, ran branches and teams – but found his forever home in early 2014 with AmeriFirst. Rob is the Mortgage Guy other mortgage people call when they need the right answer.</p>
+<h4>Christine Robertson</h4>
+**Broker, Owner**
+<iframe width="854" height="480" src="https://www.youtube.com/embed/5Lo6p0CMWgo" frameborder="0" allowfullscreen></iframe><p>Christine is the broker/owner of Christine & Company. When she's not working, she loves to dance to Fifth Harmony. You can reach out to her at: Christine@christineandcompanyhomes.com</p>
 
 
-<h4>Chris Miller</h4>
-**Team Lead, Loan Originator**
-<p>Chris an Army Veteran got his start in the mortgage business in early 2013 after 8 years in medical staffing and recruiting. He quickly excelled working on a team that was the preferred lender for American Legend Homes, working 30+ contacts per month. Chris is timely, responsive and takes extra time to explain all the available options to his clients.</p>
+<h4>Aaron Hendon</h4>
+**Agent**
+<iframe width="854" height="480" src="https://www.youtube.com/embed/9-XU2awTpYw" frameborder="0" allowfullscreen></iframe>
+<p>Aaron is an agent at Christine & Company. He's a massive deadhead and owns a dog named Ozzy. You can reach him at: Aaron@christineandcompanyhomes.com</p>
 
-<h4>Jennifer Spring</h4>
-**Licensed Loan Officer and Team Loan Coordinator**
-<p>Jennifer is “The Communication Queen” – her job is to make sure the buyers, agents, builders and sales reps know exactly where we stand, what the next steps are and how long those steps will take. She keeps everyone on point and in the know, we couldn’t do what we do without her.</p>
+<h4>Rachel Cope</h4>
+**Listing Agent**
+<iframe width="854" height="480" src="https://www.youtube.com/embed/VYyWd-sRIC0" frameborder="0" allowfullscreen></iframe>
+<p>Rachel is a listing agent at Christine & Company. She's a fan of the theater. Catch a show with her anytime. You can reach her at: Rachel@christineandcompanyhomes.com</p>
 
 
-<h4>Natalie Worley</h4>
-**Operations**
-<p>Natalie has been in mortgage operations since the 2000’s. She’s held numerous positions but always wears the hat of a leader. Her knowledge is second to none and her care and love for her part on the team is very apparent.</p>
+<h4>Britta Lindborg</h4>
+**Transactions Coordinator**
+<iframe width="854" height="480" src="https://www.youtube.com/embed/3BdHC1pHa6Y" frameborder="0" allowfullscreen></iframe>
+<p>Britta is the transaction coordinator at Christine & Company. She's a classically trained opera singer that loves cats. You can reach her at: Rachel@christineandcompanyhomes.com</p>
