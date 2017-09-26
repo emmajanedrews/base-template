@@ -43,7 +43,7 @@ On one end of the spectrum, you can choose a transaction-based model that simply
 * Lack of support and response from BIC. Let’s face it, the model only works if you have lots of agents doing lots of deals. However, if you are in the middle of a deal and you need help, you don’t have the time to make an appointment.
 * Out-of-pocket expenses. You are responsible for covering all of your expenses (marketing, lead generation, CRM, etc.), so when you factor in these expenses, your actual cost is higher than the transaction fee suggests without getting the support you need.
 
-&nbsp;On the other end of the spectrum, you can join a team whose team leader will act as your mentor. For many independent-minded people, the low commission splits and lack of freedom is a major negative. On top of that, you’re spending your time and effort to build someone else’s brand instead of your own.
+On the other end of the spectrum, you can join a team whose team leader will act as your mentor. For many independent-minded people, the low commission splits and lack of freedom is a major negative. On top of that, you’re spending your time and effort to build someone else’s brand instead of your own.
 
 As an owner and as a Realtor, I felt like there had to be a better, balanced alternative. My goal was to take all of the benefits of a full-service brokerage and match it with one of the most attractive compensation plans around.
 
