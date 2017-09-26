@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Few Tips for Buyers Who Haven’t Been in the Market for a While (or at All)
+title: What Are the Top 3 Things That Buyers Should Know?
 date: 2017-09-07 10:00:00
 tags:
   - Buying a Home
