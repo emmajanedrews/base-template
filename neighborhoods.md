@@ -7,5 +7,5 @@ permalink: /neighborhoods/
 
 <p>At Christine & Company, we're not just real-estate experts. We’re community experts with deep knowledge of Seattle’s best neighborhoods. To search for properties in a specific area, or to learn more about a neighborhood, just click on one of the neighborhood links below.</p>
 
-<h2>[**Vashon Island**](http://www.findallseattleareahomes.com/page/vashon-island/cp3fb756319fbf45){: target="_blank"}&nbsp; 
+<h2>[**Vashon Island**](http://www.findallseattleareahomes.com/page/vashon-island/cp3fb756319fbf45){: target="_blank"}&nbsp;<h2>
 
