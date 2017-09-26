@@ -31,17 +31,19 @@ Out of necessity, many agents look to webinars, real estate conferences, Faceboo
 
 The structural issues that will prevent you from making serious money over the long term are:
 
-* High expenses in the form of low commission splits, monthly fees, franchise fees, marketing expenses, etc.  At the end of the day, it’s how much you take home.
+* High expenses in the form of low commission splits, monthly fees, franchise fees, marketing expenses, etc. &nbsp;At the end of the day, it’s how much you take home.
 * Investing your time and effort to build someone else’s brand—not yours. Past clients and their referrals are critical to your success. For Realtors making over $150,000 a year, 57% of their business comes from past clients and referrals from past clients.
 
 ![](/uploads/versions/frankextractedupper190-fw-1---x----199-277x---.png){: .float-right}My name is Frank Free, and in addition to being the broker in charge and the owner of Lake Realty for 26 years, I have taught as a North Carolina licensed real estate instructor. I have advised many agents on how to grow their business and thrive at real estate. In fact, several of my agents have gone on to run their own successful brokerages.
 
-Through the years, I have seen hundreds of models and firms and watched agents struggle to find the right fit. Like most things in life, real estate is about tradeoffs. Often these tradeoffs feel like choosing the lesser of two evils. On one end of the spectrum, you can choose a transaction-based model that simply charges a fixed transaction fee for each deal. While the 100% commission is alluring, there are two areas in this model where I see agents run into trouble.
+Through the years, I have seen hundreds of models and firms and watched agents struggle to find the right fit. Like most things in life, real estate is about tradeoffs. Often these tradeoffs feel like choosing the lesser of two evils.
+
+On one end of the spectrum, you can choose a transaction-based model that simply charges a fixed transaction fee for each deal. While the 100% commission is alluring, there are two areas in this model where I see agents run into trouble.
 
 * Lack of support and response from BIC. Let’s face it, the model only works if you have lots of agents doing lots of deals. However, if you are in the middle of a deal and you need help, you don’t have the time to make an appointment.
 * Out-of-pocket expenses. You are responsible for covering all of your expenses (marketing, lead generation, CRM, etc.), so when you factor in these expenses, your actual cost is higher than the transaction fee suggests without getting the support you need.
 
- On the other end of the spectrum, you can join a team whose team leader will act as your mentor. For many independent-minded people, the low commission splits and lack of freedom is a major negative. On top of that, you’re spending your time and effort to build someone else’s brand instead of your own.
+&nbsp;On the other end of the spectrum, you can join a team whose team leader will act as your mentor. For many independent-minded people, the low commission splits and lack of freedom is a major negative. On top of that, you’re spending your time and effort to build someone else’s brand instead of your own.
 
 As an owner and as a Realtor, I felt like there had to be a better, balanced alternative. My goal was to take all of the benefits of a full-service brokerage and match it with one of the most attractive compensation plans around.
 
@@ -95,7 +97,7 @@ Your only required expenses are a $20 per month errors and omission insurance fe
 
 To answer that, I want to share the story of two current agents of ours—Sue Nichols and Ana Sturt.
 
-Sue Nichols started her real estate career with Lake Realty three years ago. Before real estate, she was a successful business analyst for an insurance brokerage firm. She made the career change because she was tired of all the traveling and "living out of a suitcase." 
+Sue Nichols started her real estate career with Lake Realty three years ago. Before real estate, she was a successful business analyst for an insurance brokerage firm. She made the career change because she was tired of all the traveling and "living out of a suitcase."
 
 ![](/img/sue.png){: .float-left}
 
@@ -107,8 +109,7 @@ In addition to the deals from the Lake Realty leads program, she had two deals f
 
 Sue’s success has not only had a positive impact on her life, but on others as well. It has given her husband, who is the pastor of small church, the financial freedom to pursue his calling while also allowing them to help friends and families in need.
 
-Ana Sturt joined Lake Realty in 2015, making the switch from a transaction-based firm due to the lack of support and the high out-of-pocket expenses.
-![](/img/ana.jpg){: .float-left}
+Ana Sturt joined Lake Realty in 2015, making the switch from a transaction-based firm due to the lack of support and the high out-of-pocket expenses. ![](/img/ana.jpg){: .float-left}
 
 * In 2015, Ana had 10 transactions which generated $2,449,650 in sales volume and $54,480 for her commissions. One of her sales (10%) was from the Lake Realty leads program.
 * In 2016, Ana had 12 transactions which generated $4,158,839 in sales volume and $92,078 for her commissions. One of her sales (10%) was from the Lake Realty leads program.
