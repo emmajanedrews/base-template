@@ -16,7 +16,7 @@ As a team, they have the experience, knowledge, and expertise to to keep that pr
 
 Christine and the team are not only known for their results, they are famous for rolling out the red carpet for their clients. Bringing back classic high-touch, VIP and concierge services to their already high-tech real estate business has made them hard to compete with.
 
-When it comes to buying or selling in Washington, nobody out performs Christine & Company.
+When it comes to buying or selling in Washington, nobody out performs Christine & Company.</p> 
 
 <h4>Christine Robertson</h4>
 **Broker, Owner**
