@@ -1,7 +1,7 @@
 ---
 layout: page
 title: client-testimonials
-permalink: /client-testimonials
+permalink: /client-testimonials/
 ---
 <h2>How Christine and Company Helped Ben Englehart Buy His Home<br /><br /><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323932678&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></h2>
 <p><span style="color: #333333; font-family: Interstate, 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Garuda, Verdana, Tahoma, sans-serif; font-size: 14px; background-color: #f2f2f2;">"My husband and I recently bought a home with Aaron Hendon. We had an excellent experience. Aaron was available, he was helpful, and I always felt like he was always on our side. I felt like nothing was too big, or too annoying. He was always there for us. We enjoyed the experience immensely and would recommend Aaron time and time again."<br /></span></p>
