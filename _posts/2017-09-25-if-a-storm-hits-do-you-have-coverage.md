@@ -27,7 +27,7 @@ The terrible situations that have unfolded in Texas, Florida, and elsewhere are 
 
 So today, I wanted to talk about what flood insurance is and why it can be helpful in situations like these.
 
-The most important thing I want you to know is that **homeowners insurance does not cover rising water.** If water happens to come in above, like from the roof, it will be covered under homeowners insurance. If it comes from beneath and rises into your home, however, it is simply not covered.
+The most important thing I want you to know is that **homeowners insurance does not cover rising water.** If water happens to come in from the roof, it will be covered under homeowners insurance. If it comes from beneath and rises into your home, however, it is simply not covered.
 
 Of the approximately 185,000 homes that were flooded in Houston, 80% of them did not have flood insurance. Flood insurance is its own separate policy, meaning that you will need to call and request this specific type of coverage.
 
