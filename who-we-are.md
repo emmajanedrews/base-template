@@ -14,7 +14,9 @@ As a team, they have the experience, knowledge, and expertise to to keep that pr
 
 Christine and the team are not only known for their results, they are famous for rolling out the red carpet for their clients. Bringing back classic high-touch, VIP and concierge services to their already high-tech real estate business has made them hard to compete with.
 
-When it comes to buying or selling in Washington, nobody out performs Christine & Company.</p> 
+When it comes to buying or selling in Washington, nobody out performs Christine & Company.</p>
+
+<h1>Our Team</h1>
 
 <h4>Christine Robertson - Broker, Owner</h4>
 <p>Christine Robertson is the owner and broker of her team, Christine & Company, and has been named the Best of Seattle in Real Estate by Seattle Magazine for the 4th year in a row. When she's not working, she loves to dance to Fifth Harmony. You can reach out to her at: Christine@christineandcompanyhomes.com</p>
