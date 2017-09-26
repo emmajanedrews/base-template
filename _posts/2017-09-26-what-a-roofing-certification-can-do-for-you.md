@@ -63,6 +63,6 @@ Another factor that can cause roofs to deteriorate more quickly is when shingles
 
 Our local climate is incredibly harsh. **From extreme heat in the summer to below freezing in the winter, the roof can see a lot of damage.**
 
-Whether you’re a buyer or a seller, roofing is more important than you might think to Salt Lake City real estate. VIP Roofing is a great place to go to make sure your roof will actually last. If you have any questions or would like more information from Travis, you can reach him at (801) 631-6182 or visit VIP Roofing’s website at [www.VIP-Roofing.com/" target="_blank"](http://www.VIP-Roofing.com).
+Whether you’re a buyer or a seller, roofing is more important than you might think to Salt Lake City real estate. VIP Roofing is a great place to go to make sure your roof will actually last. If you have any questions or would like more information from Travis, you can reach him at (801) 631-6182 or visit VIP Roofing’s website at [www.VIP-Roofing.com](http://www.VIP-Roofing.com){:target="_blank"}.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
