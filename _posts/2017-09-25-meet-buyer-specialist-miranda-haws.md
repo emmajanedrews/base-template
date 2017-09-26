@@ -33,4 +33,4 @@ In her role as a buyer specialist, Miranda works with families who are looking t
 
 To help find the home that will best fit their criteria and lifestyle, Miranda sifts through a number of properties before finding the right ones to show them.
 
-If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
