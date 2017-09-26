@@ -8,7 +8,8 @@ excerpt: >-
   Making the decision to buy a home can seem daunting. However, sleeping on it
   could lead to you losing out on the property altogether. Is waiting to think
   about it worth it?
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Scott+Hollinger/Montana+Real+Estate++The+Hollinger+Team+Hesitating+on+the+right+home+can+be+a+mistake.mp4
 pullquote: 'If a home fits and is priced right, why wait?'
 enclosure_type: video/mp4
 enclosure_time:
