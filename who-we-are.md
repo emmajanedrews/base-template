@@ -5,6 +5,7 @@ permalink: /who-we-are/
 ---
 
 <h1>Who We Are</h1>
+**What We Believe**
 <p>Christine Robertson is the owner and broker of her team, Christine & Company, and has been named the Best of Seattle in Real Estate by Seattle Magazine for the 4th year in a row!<p/> 
 
 <p>At Christine & Company, they promise to out-perform all expectations. Better Service. Better Results. With the Statistics to Prove it.<p/>  
