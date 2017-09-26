@@ -32,7 +32,7 @@ When it comes to buying or selling in Washington, nobody out performs Christine 
 <h4>Britta Lindborg, Transactions Coordinator</h4>
 <p>Britta is the transaction coordinator at Christine & Company. She's a classically trained opera singer that loves cats. You can reach her at: Rachel@christineandcompanyhomes.com</p>
 
-<p>**Learn More About Us! Watch our Agent Interviews Below**</p>
+<h5>Learn More About Us! Watch our Agent Interviews Below:<h5>
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/5Lo6p0CMWgo" frameborder="0" allowfullscreen></iframe>
 <iframe width="854" height="480" src="https://www.youtube.com/embed/9-XU2awTpYw" frameborder="0" allowfullscreen></iframe>
