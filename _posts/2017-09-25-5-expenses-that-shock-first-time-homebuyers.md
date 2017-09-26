@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5 Expenses that Shock First-Time Homebuyers
+title: 5 Expenses That Shock First-Time Homebuyers
 date: 2017-09-25 11:00:00
 tags:
   - Home Buyer Tips
@@ -23,13 +23,13 @@ youtube_code: 2IWB3ISOl70
 
 A lot of homebuyers fail to realize that their home expenses don’t start and stop with their mortgage payment. There’s much more to being a homeowner than that. Here are five expenses that all homeowners have in addition to their mortgage:
 
-**1. Closing costs.**When you decide on a home, you’ll get an estimate of the closing costs. The estimate will break down what you need to bring to closing and what the mortgage company is giving you.
+**1. Closing costs.&nbsp;**When you decide on a home, you’ll get an estimate of the closing costs. The estimate will break down what you need to bring to closing and what the mortgage company is giving you.
 
 **2. Maintenance costs.** This can vary depending on the home, but you should budget for at least 1% to 2% of the home’s value each year to be used on maintenance costs.
 
 {% include pullquote.html %}
 
-**3. Utilities.**The national average is nearly $3,000 per year. If you want to get a better idea of what the utilities will cost in the home you’re interested in, you can always ask your agent to get that information from the seller.
+**3. Utilities.&nbsp;**The national average is nearly $3,000 per year. If you want to get a better idea of what the utilities will cost in the home you’re interested in, you can always ask your agent to get that information from the seller.
 
 **4. Taxes.** These will be escrowed into your mortgage.
 
