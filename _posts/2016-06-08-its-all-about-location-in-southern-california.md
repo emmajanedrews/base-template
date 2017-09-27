@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IT’S ALL ABOUT LOCATION IN SOUTHERN CALIFORNIA
-date: 2017-09-22 15:28:05
+date: 2016-06-08 15:28:00
 tags:
   - Home Buyer Tips
 excerpt: >-
