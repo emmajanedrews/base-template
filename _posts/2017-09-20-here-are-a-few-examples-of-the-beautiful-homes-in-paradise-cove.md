@@ -8,7 +8,8 @@ excerpt: >-
   Coast for over 40 years and bring an incredible level of expertise to our
   marketplace. You’ll see it in the level of interior detail they have in the
   model homes shown above.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Nathan+Abbott/Nathan+Abbott+Team-+Lovely+Paradise+Cove.mp4
 pullquote: Most builders charge extra for these features.
 enclosure_type: video/mp4
 enclosure_time:
