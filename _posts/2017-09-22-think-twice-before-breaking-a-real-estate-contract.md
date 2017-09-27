@@ -14,8 +14,8 @@ pullquote: >-
   them once they do.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/alexlam-screenshot-tube-01-01-01-01-01-01-01.jpg
 youtube_code: 571IMo6BFKU
 ---
 
