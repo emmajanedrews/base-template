@@ -1,10 +1,10 @@
 audit_header: false
 title: -- CLIENT BRAND --
 description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: Featured Listings
+    url: http://realestate.caulgroup.com/search
 
 client:
   name: Tina Caul
@@ -12,27 +12,27 @@ client:
   about_markdown: |
     With over 18 years of experience selling homes, Tina Caul has a knowledge of the housing market that is unmatched. By applying aggressive marketing and sales skills to get property “SOLD” for the highest price in the shortest period of time, she has consistently ranked as the #1 selling agent and currently ranks in the top 1% of Realtors® nationwide. Her most proud accomplishment as an agent is that over 65% of her business comes from client referrals and repeat customers. As the Team Leader of The Caul Real Estate Group, Tina is committed to making you a client for life!
   market: Raleigh
-  brand: The Caul Group Real Estate
+  brand: The Caul Real Estate Group
   brokerage: RE/MAX United
-  address: 51 Kilmayne Dr, Suite 100<br>Cary, NC 27511
-  address2: 9131 Anson Way Raleigh, NC 27615
+  address: Three Locations to Serve You<br>Cary | Raleigh | Holly Springs
+  # address2: 9131 Anson Way Raleigh, NC 27615
   phone: 919-469-6550
   phone_type:
   phone2:
   phone2_type:
   email: Team@CaulTeam.com
-  url: http://CaulTeam.com
+  url: http://CaulGroup.com
 
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: http://www.trianglerealestatehub.com/cma/property-valuation/
   second_CTA_text: Home Search
-  second_CTA_URL: http://realestate.caulgroup.com/search-city.php
+  second_CTA_URL: http://realestate.caulgroup.com/search
   VR_form: http://oi.vresp.com?fid=720f273a30
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
+    CTA_title: "What’s Your Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
     CTA_url: http://www.trianglerealestatehub.com/cma/property-valuation/
@@ -42,7 +42,7 @@ second_sidebar_CTA:
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: http://realestate.caulgroup.com/search-city.php
+    CTA_url2: http://realestate.caulgroup.com/search
 
 lender:
   show_section: false
@@ -92,7 +92,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  hero_text: The Caul Real Estate Group Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
