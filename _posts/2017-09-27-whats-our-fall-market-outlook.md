@@ -1,13 +1,14 @@
 ---
 layout: post
 title: What’s Our Fall Market Outlook?
-date: 2017-09-27 09:53:39
+date: 2017-09-27 09:53:00
 tags:
   - Market Update
 excerpt: >-
   Now that the season has changed, it’s time to look back on our market and
   update you on what’s happening now.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Nathan+Abbott/Nathan+Abbott+Team-+Lovely+Paradise+Cove.mp4
 pullquote: Homes are still very much in demand.
 enclosure_type: video/mp4
 enclosure_time:
