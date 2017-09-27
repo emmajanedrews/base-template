@@ -34,6 +34,6 @@ Second, take photographs of your home during the summer. Even if you plan on lis
 
 Third, come out of the gate competitively in terms of price, because the window of time before the new year period is limited.
 
-Lastly, **have patience.**There are typically fewer buyers out and about during an off-peak market, but those who do come out tend to be more serious about buying.
+Lastly, **have patience.&nbsp;**There are typically fewer buyers out and about during an off-peak market, but those who do come out tend to be more serious about buying.
 
 If you have any questions about selling in an off-peak market, don’t hesitate to give us a call or send us an email. We’d be glad to help you.
