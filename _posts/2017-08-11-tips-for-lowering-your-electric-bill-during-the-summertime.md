@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tips for Lowering Your Electric Bill During the Summertime
-date: 2017-08-11 11:23:39
+date: 2017-08-11 11:23:00
 tags:
   - Real Estate
 excerpt: Today I’ve listed 9 tips that will help lower your utility bill.
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/loodmy-jacques--lowering-utility-bills-youtube.jpg
-youtube_code: 'https://youtu.be/4zNvGpqdqeY'
+youtube_code: 'https://youtu.be/L7LsTQbqWLE'
 ---
 
 
