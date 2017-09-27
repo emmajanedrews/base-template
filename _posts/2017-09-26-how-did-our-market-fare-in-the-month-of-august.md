@@ -24,7 +24,7 @@ While Sandy and I are away at another mastermind in St. Louis, I have an update 
 
 **The number of homes sold rose 8.9% last August compared to August 2016.&nbsp;**The number of homes on the market is down 14%, which is making it very tough for buyers to find their dream home if it’s priced below $150,000. Around the country, the number of homes on the market is down: starter homes are down 17%, medium-sized homes are down 10%, and larger-sized homes are down 5%.
 
-**This shrinking inventory has caused a slowdown in the number of homes going under contract in both Louisville and around the country.** In fact, Svenja Gudell, the chief economist at Zillow, says “Everyone has been talking about tight inventory, but I think we are OK calling it a straight up inventory crisis at this point. We just don’t have enough homes.”
+**This shrinking inventory has caused a slowdown in the number of homes going under contract in both Louisville and around the country.** In fact, Svenja Gudell, the chief economist at Zillow, says, “Everyone has been talking about tight inventory, but I think we are OK calling it a straight up inventory crisis at this point. We just don’t have enough homes.”
 
 {% include pullquote.html %}
 
