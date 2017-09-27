@@ -6,8 +6,7 @@ tags:
 excerpt: >-
   Standing out as a job candidate requires energy and enthusiasm. Here are 3
   things you can do to give yourself the edge.
-enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Govig/Building+Products/Videos/2017/Interviewing+Over+The+Phone.mp4
+enclosure:
 pullquote: >-
   Companies want to hire someone who is excited about the opportunity and the
   organization itself.
@@ -15,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: QPETS5iAWYk
+youtube_code: nVtGvbT6jtU
 ---
 
 
@@ -25,7 +24,7 @@ youtube_code: QPETS5iAWYk
 There are three little things that tend to separate good candidates from the rest in the interviewing process
 {: .present-before-paste}
 
-First, **make sure that you’re standing up during the phone interview.** Sitting down compresses the diaphragm and naturally makes you sound as though you aren’t engaged or excited about the conversation. Phone interviews are difficult—you need to make sure you’re &nbsp;concerned with engaging the other person on the phone. You should be truly invested in the conversation, as opposed to focusing on taking notes and being afraid that you’ll miss something important. That energy level is the No. 1 knockout factor in telephone interviews today.
+First, **make sure that you’re standing up during the phone interview.** Sitting down compresses the diaphragm and naturally makes you sound as though you aren’t engaged or excited about the conversation. Phone interviews are difficult—you need to make sure you’re  concerned with engaging the other person on the phone. You should be truly invested in the conversation, as opposed to focusing on taking notes and being afraid that you’ll miss something important. That energy level is the No. 1 knockout factor in telephone interviews today.
 {: .present-before-paste}
 
 Second, **f****ollow up with any type of correspondence within 24 hours.** This includes email, voicemail, or text. Response time is absolutely indicative of someone’s excitement level—companies want to hire someone who is excited about the opportunity and the organization itself.
