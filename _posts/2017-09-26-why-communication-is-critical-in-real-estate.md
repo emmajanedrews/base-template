@@ -33,4 +33,4 @@ In essence, I was the one doing all the communication and making sure everyone e
 
 For example, if there’s a split settlement where the seller is using a different settlement company than you, you need to make sure they’re talking to each other and talking to your agent. **Everybody in every department that’s involved in your transaction should be in communication with each other** so you can know things like what your closing costs will be and whether title is coming through every step of the way.
 
-If you have any questions about how to keep everyone in your real estate transaction in communication with each other or you’re thinking of buying or selling a home in our northern Virginia market, don’t hesitate to give me a call or send me an email. I’d love to help you.
+If you have any questions about how to keep everyone in your real estate transaction in communication with each other or you’re thinking of buying or selling a home in our Northern Virginia market, don’t hesitate to give me a call or send me an email. I’d love to help you.
