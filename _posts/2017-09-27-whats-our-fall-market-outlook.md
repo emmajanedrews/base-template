@@ -7,8 +7,7 @@ tags:
 excerpt: >-
   Now that the season has changed, it’s time to look back on our market and
   update you on what’s happening now.
-enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Nathan+Abbott/Nathan+Abbott+Team-+Lovely+Paradise+Cove.mp4
+enclosure:
 pullquote: Homes are still very much in demand.
 enclosure_type: video/mp4
 enclosure_time:
