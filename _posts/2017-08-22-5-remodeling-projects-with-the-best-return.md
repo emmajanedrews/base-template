@@ -12,8 +12,9 @@ enclosure: >-
 pullquote: Some will make more sense for your home than others.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: >-
+  /uploads/daniel-dixon-team-screenshot-with-new-agents-added-9-13-17-home-remodel-youtube-1.jpg
 youtube_code: 'https://youtu.be/zQrQOjADnr4'
 ---
 
@@ -40,4 +41,4 @@ According to a survey of remodelers and real estate professionals, there are fiv
 
 Clearly, some of them will make more sense for your home than others. If you're considering selling your home, then just one of these projects could add tens of thousands of dollars to the price you'll be able to get.
 
-If you have any questions or want additional advice about which remodeling projects make sense for you, give me a call or send me an email. We can discuss all the details and I can give you an accurate estimate of what these projects could be worth. I look forward to hearing from you!&nbsp;
+If you have any questions or want additional advice about which remodeling projects make sense for you, give me a call or send me an email. We can discuss all the details and I can give you an accurate estimate of what these projects could be worth. I look forward to hearing from you!
