@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do You Need Professional Photos to Sell Your Home?
-date:
+date: 2017-09-27 12:02:05
 tags:
   - Home Seller Tips
 excerpt: >-
