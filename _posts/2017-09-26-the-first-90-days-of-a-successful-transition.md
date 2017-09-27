@@ -23,7 +23,7 @@ The first 90 days are essential to ensuring a successful transition. We’ve got
 
 **The first 30 days is a learning stage.** At this point, you want to be a sponge and absorb as much information as you can about the company, its culture, leadership, and more. This is when you should start to form relationships with coworkers. The most important part is to understand your boss’ expectations and how to meet and exceed them.
 
-<br>**The next 30 days are when you can start making a difference**by understanding problems within the company better and how you can contribute to its growth.
+<br>**The next 30 days are when you can start making a difference&nbsp;**by understanding problems within the company better and how you can contribute to its growth.
 
 {% include pullquote.html %}
 
