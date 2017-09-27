@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Tips to Sell Your Home During the Offseason
-date: 2017-09-27 10:16:44
+date: 2017-09-27 10:16:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -18,7 +18,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: Y7846vt7P4A
 ---
 
 
