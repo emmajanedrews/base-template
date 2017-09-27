@@ -1,4 +1,4 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
   - quote:
     name:
