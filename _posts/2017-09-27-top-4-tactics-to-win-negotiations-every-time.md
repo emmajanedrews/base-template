@@ -4,7 +4,7 @@ title: Top 4 Tactics to Win Negotiations Every Time
 tags:
   - Home Buyer Tips
   - Home Seller Tips
-date:
+date: 2017-09-27 14:31:43
 excerpt: >-
   I want to share my top four negotiation tactics with you today. These tactics
   will help you get to the closing table every time.
