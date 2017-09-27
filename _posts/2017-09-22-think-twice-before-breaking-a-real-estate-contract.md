@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Think Twice Before Breaking a Real Estate Contract
-date: 2017-09-22 10:54:20
+date: 2017-09-22 10:54:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: YsPD5TgepPE
+youtube_code: 571IMo6BFKU
 ---
 
 
@@ -24,9 +24,9 @@ youtube_code: YsPD5TgepPE
 
 What happens when a real estate deal collapses? Today, I’m here to give you the inside scoop.
 
-If you are a seller, don’t celebrate too soon when you think you’ve sold your property. Take a step back and realize that a real estate deal can collapse before or after subject removal.&nbsp;
+If you are a seller, don’t celebrate too soon when you think you’ve sold your property. Take a step back and realize that a real estate deal can collapse before or after subject removal.
 
-When a deal collapses subject removal, no deposit will be lost unless it is specified under contract. Personally, I recommend that you get any collapsed deal drawn up into writing. &nbsp;
+When a deal collapses subject removal, no deposit will be lost unless it is specified under contract. Personally, I recommend that you get any collapsed deal drawn up into writing.
 
 However, **a deal that collapses after subject removal will leave you subject to hefty fines.** CBC News recently highlighted this in a story of a person who bought a property last year. This buyer bought the property before the 15% foreigner’s tax. Once the tax was in place, the property ended up being worth 28% less than it was before.
 
@@ -36,6 +36,6 @@ However, **a deal that collapses after subject removal will leave you subject to
 
 If you’re a seller, you may be asking if this applies to you as well. Actually, it does.
 
-The lesson that can be learned from this story is that buyers and sellers alike need to always thoroughly read contracts before agreeing to them, and to honor them once they do.&nbsp;
+The lesson that can be learned from this story is that buyers and sellers alike need to always thoroughly read contracts before agreeing to them, and to honor them once they do.
 
-If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.&nbsp;<br>&nbsp;
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon. <br>
