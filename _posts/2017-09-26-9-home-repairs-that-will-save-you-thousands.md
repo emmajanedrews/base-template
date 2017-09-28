@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 9 Home Repairs that Will Save You Thousands
+title: 9 Home Repairs That Will Save You Thousands
 tags:
   - Real Estate
 excerpt: >-
