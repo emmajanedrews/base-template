@@ -24,9 +24,9 @@ client:
 
 CTAs:
   first_CTA_text: Loan Calculator
-  first_CTA_URL: http://abeltejeda.com/loan-calculator/
+  first_CTA_URL: https://www.abeltejeda.com/calculator/What-Is-Missing
   second_CTA_text: Apply Online
-  second_CTA_URL: http://abeltejeda.com/pre-qualification/
+  second_CTA_URL: https://abeltejeda-com.mysecureloan.com/applications/page1.php?lng=en
   VR_form: http://oi.vresp.com?fid=979c5ae663
 
 sidebar_CTA:
@@ -34,7 +34,7 @@ sidebar_CTA:
     CTA_title: "Get Your Mortgage Today!"
     CTA_text: "Are you thinking of buying a home in the San Diego area? We can help."
     CTA_link_text: "Get Pre-Qualified"
-    CTA_url: http://abeltejeda.com/pre-qualification/
+    CTA_url: https://abeltejeda-com.mysecureloan.com/applications/page1.php?lng=en
 
 # second_sidebar_CTA:
 #   - CTA_image_path2: /img/cta-images/005.jpg
