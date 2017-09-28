@@ -28,7 +28,7 @@ Here in Minnesota, most people signal market off-peak seasons once the weather t
 
 First, stage for the season. Whether it’s Halloween, Thanksgiving, Christmas, or Valentine’s Day, stage your house with the appropriate decorations in mind.
 
-Second, take photographs of your home during the summer. Even if you plan on listing during the winter, having a nice, green shot of your backyard or front yard to use for supplemental purposes is a nice touch.
+Second, take photographs of your home during the summer. Even if you plan on listing during the winter, having a nice, green shot of your yard to use for supplemental purposes is a nice touch.
 
 {% include pullquote.html %}
 
