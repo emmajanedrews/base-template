@@ -32,7 +32,7 @@ All of these factors will determine which outcome you achieve.
 
 {% include pullquote.html %}
 
-**3. Keep the conversation going.** Negotiations die when the conversation ends. As long as we continue to talk and work toward an acceptable outcome for both parties, we try to get a win-win for both parties. As along as both parties are still engaged and working toward that, then we have a live negotiation. When one person backs off, that’s when things start to die, so make sure to keep both parties at the table.
+**3. Keep the conversation going.** Negotiations die when the conversation ends. As long as we continue to talk and work toward an acceptable outcome for both parties, we try to get a win-win for both parties. As long as both parties are still engaged and working toward that, then we have a live negotiation. When one person backs off, that’s when things start to die, so make sure to keep both parties at the table.
 
 **4. Be flexible.** It’s human nature to want to dig our heels in and say, “That’s it, I’ve given an inch. I’m not giving any more.” When this happens, you’ve lost sight of your acceptable and ideal outcomes. Being flexible is more about the way you feel than the business side of the transaction. Digging your heels in is never good. You will aggravate the other party, the conversation will end, and you’ll be left with a dead negotiation.
 
