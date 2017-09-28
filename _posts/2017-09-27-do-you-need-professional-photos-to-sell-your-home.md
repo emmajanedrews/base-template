@@ -23,7 +23,7 @@ When listing your home, it’s very important that you use professional photogra
 
 **Listed homes that use professional photography typically attract more attention, sell faster, and sell for a higher price than those that don’t.** I have a few studies I want to show you that prove this fact.
 
-The first comes from IMOTO, a company that creates professional real estate photography. IMOTO did a study of 350 homes that used professional photography and 350 homes that didn’t, all 700 of which were located within the same zip code. They found that homes that had professional photography sold 50% faster and 39% closer to their original listing price.
+The first comes from IMOTO, a company that creates professional real estate photography. IMOTO did a study of 350 homes that used professional photography and 350 homes that didn’t, all 700 of which were located in the same zip code. They found that homes that had professional photography sold 50% faster and 39% closer to their original listing price.
 
 The second comes from Latter & Blum Inc., a New Orleans-based real estate agency. They conducted a study that found that homes that used professional photography attracted 118% more views online than comparable listings that didn’t use professional photography.
 
