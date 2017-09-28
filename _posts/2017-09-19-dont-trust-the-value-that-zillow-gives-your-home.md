@@ -3,6 +3,7 @@ layout: post
 title: Don't Trust the Value That Zillow Gives Your Home
 date: 2017-09-19 00:00:00
 tags:
+  - Home Buyer Tips
 excerpt: >-
   Instead of relying on a Zestimate for an accurate valuation of your home, you
   should contact a professional real estate agent.
