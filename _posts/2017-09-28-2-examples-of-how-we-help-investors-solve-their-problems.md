@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2 Examples of How We Help Investors Solve Their Problems
-date: 2017-09-28 11:37:54
+date: 2017-09-28 11:37:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,8 +14,8 @@ pullquote: >-
   challenges.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/robellis-screenshot-email-01-01-01-01-01-01-01-01-01-01-01-01.jpg
 youtube_code: 0SFvG67ECvs
 ---
 
@@ -28,7 +28,7 @@ The first case comes from an investor who purchased a nine-unit property—a sev
 
 This investor came to us wondering how he could use the equity he had in his property. We went through a couple different scenarios with him, and in the end he decided he wanted to sell the apartment complex to another investor for cash. We were then able to locate a condo developer who agreed to buy the complex with the intent of splitting those nine units into condos and selling them individually at a higher price.
 
-In this example,** we were able to bring both sides together and facilitate the transaction.**This first client went on to invest his money with his proceeds and purchase another 10 to 20 properties. Even not as a condo project, this was a great investment property because it was located in a class A area.
+In this example,\*\* we were able to bring both sides together and facilitate the transaction.\*\*This first client went on to invest his money with his proceeds and purchase another 10 to 20 properties. Even not as a condo project, this was a great investment property because it was located in a class A area.
 
 {% include pullquote.html %}
 
