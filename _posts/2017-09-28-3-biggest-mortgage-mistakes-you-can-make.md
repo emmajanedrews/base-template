@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Biggest Mortgage Mistakes You Can Make
-date:
+date: 2017-09-28 13:05:41
 tags:
 excerpt: >-
   There are a few things you should know if you’re trying to get a mortgage. For
