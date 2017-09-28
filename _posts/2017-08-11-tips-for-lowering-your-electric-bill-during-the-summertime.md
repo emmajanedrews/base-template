@@ -23,7 +23,7 @@ In Florida, they charge you more during the summer for your electric bill than t
 
 **1. Try running your pool pump for only six hours a day.**
 
-**2. Set your A/C to 78 degrees or higher.** The best temperature during the day is at 82 degrees, and 75 to 77 degrees at night.
+**2. Set your A/C to 75 degrees or higher.** The best temperature during the day is at 82 degrees, and 75 to 77 degrees at night.
 
 **3. Turn the thermostat down on your hot water heater from 140 to 120 degrees.**
 
