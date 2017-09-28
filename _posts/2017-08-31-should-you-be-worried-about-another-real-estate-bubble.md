@@ -18,9 +18,9 @@ youtube_code: d-x7SWqq6fw
 
 {% include youtube.html %}
 
-The number one question I’ve been getting asked recently is, “Are we heading for another market crash?” 10 years ago, our market crashed. Are we headed toward the same situation now? I have three reasons to believe that no, we are not.
+The number one question I’ve been getting asked recently is, “Are we heading for another market crash?” 10 years ago, our market crashed. Are we headed toward the same situation now? I have three reasons to believe that no, we are not. I have also included some information from [Keeping Current Matters](http://www.simplifyingthemarket.com/en/2017/05/11/3-reasons-the-housing-market-is-not-in-a-bubble/?a=323701-ea9cfdf9d119bc9a1cd75b3509ec10e4) to help explain why we are not in a bubble.&nbsp;
 
-**1.** **Today’s mortgage industry standards.** The difference is day and night. It’s much harder for someone to get a loan than it was a decade ago.
+**1.** **Today’s mortgage industry standards.** The difference is day and night. It’s much harder for someone to get a loan than it was a decade ago.&nbsp;
 
 **2. Builders are being more cautious.** When getting a loan was as easy as fogging a mirror, builders were building as much and as fast as they could. From 2003 to 2006, there were 350,000 new homes available for purchase. Right now, there are just 142,000 new homes available.
 
@@ -28,4 +28,4 @@ The number one question I’ve been getting asked recently is, “Are we heading
 
 **3.** **The nationwide market hasn’t fully recovered.** Although our market has recovered from the crash, 30% to 40% of the country is still recovering. This is keeping interest rates low for the time being, which is keeping buyers in the market.
 
-**[I have attached a slide and a link here for you that shows you the numbers.](https://www.keepingcurrentmatters.com/2017/05/11/3-reasons-the-housing-market-is-not-in-a-bubble/)** All signs point to a healthy real estate market without any kind of bubble. If you have any questions for me, don’t hesitate to reach out and give me a call or send me an email. I look forward to hearing from you.
+[**I have attached a slide and a link here from Truila.com for you that shows you the numbers.**](https://www.trulia.com/blog/trends/home-value-recovery-2017/?cid=soc%7Ctwitter%7Cpr%7Cresearchblog_bmkt&amp;linkId=37280386) All signs point to a healthy real estate market without any kind of bubble. If you have any questions for me, don’t hesitate to reach out and give me a call or send me an email. I look forward to hearing from you.
