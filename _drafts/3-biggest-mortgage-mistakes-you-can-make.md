@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   There are a few things you should know if you’re trying to get a mortgage. For
   one, you need to compare different lenders.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Abel+Tejeda/American+Mortgage+Group-+3+Biggest+Mortgage+Mistakes+You+Can+Make.mp4
 pullquote: Most advertised rates are not what they appear.
 enclosure_type: video/mp4
 enclosure_time:
