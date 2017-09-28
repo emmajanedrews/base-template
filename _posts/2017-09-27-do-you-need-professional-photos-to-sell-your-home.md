@@ -27,11 +27,11 @@ The first comes from IMOTO, a company that creates professional real estate phot
 
 The second comes from Latter & Blum Inc., a New Orleans-based real estate agency. They conducted a study that found that homes that used professional photography attracted 118% more views online than comparable listings that didn’t use professional photography.
 
-The last one is an in-house study we conducted right here in our office. I studied the backend of different websites we advertise on because it matters how long someone stays on your listing and reads everything that’s written about it. You can’t sell a home that’s not marketed, and you can’t set an appointment with someone who hasn’t seen your home’s photos. We found that properties on Realtor.com within our zip code that used professional photos were viewed 16x longer than homes that didn’t.
+The last one is an in-house study we conducted right here in our office. I studied the back end of different websites we advertise on because it matters how long someone stays on your listing and reads everything that’s written about it. You can’t sell a home that’s not marketed, and you can’t set an appointment with someone who hasn’t seen your home’s photos. We found that properties on Realtor.com within our zip code that used professional photos were viewed 16x longer than homes that didn’t.
 
 {% include pullquote.html %}
 
-In case you’re wondering, **we absolutely use professional photography for our listings.**We use three different professional photographers who each specialize in a different style of photography. After all, different-sized properties require different photographs. If you’re listing an acreage with a lake, for example, you need a drone. If you’re listing a smaller property, you’ll need an extremely wide-angle lens to capture its dimensions accurately.
+In case you’re wondering, **we absolutely use professional photography for our listings.&nbsp;**We use three different professional photographers who each specialize in a different style of photography. After all, different-sized properties require different photographs. If you’re listing an acreage with a lake, for example, you need a drone. If you’re listing a smaller property, you’ll need an extremely wide-angle lens to capture its dimensions accurately.
 
 We also use professional photography for a different reason than you might think. We use it to set a showing appointment—not necessarily to sell the house. This is because **our goal is to get someone to want to see your house.**
 
