@@ -23,13 +23,13 @@ youtube_code: C9rM9gjsNy0
 
 A lot of people ask me whether selling For Sale By Owner (or FSBO) is a good idea.
 
-When you list FSBO, the people who come to your home wanting to negotiate a deal are generally unqualified. They’ll come to your door without an agent and without a prequalification letter. In fact, most FSBO buyers need owner financing.&nbsp;
+When you list FSBO, the people who come to your home wanting to negotiate a deal are generally unqualified. They’ll come to your door without an agent and without a pre-qualification letter. In fact, most FSBO buyers need owner financing.&nbsp;
 
 Most people who want to sell their home simply can’t do owner financing, since they typically want to buy another home with what they earn from their listing.&nbsp;
 
-As you might expect, these kind of buyers aren’t bringing great offers to the table. People who know that you’re listing FSBO will be well aware of the fact that you aren’t being represented. Therefore, you can be sure **they’re going to try to take advantage of this fact by giving you a lowball offer.**
+As you might expect, these kinds of buyers aren’t bringing great offers to the table. People who know that you’re listing FSBO will be well aware of the fact that you aren’t being represented. Therefore, you can be sure **they’re going to try to take advantage of this fact by giving you a lowball offer.**
 
-Recently, the National Association of Realtors did up the percentage of successful FSBO listings from 2% or 3% up to 5% or 6% depending on the part of the country. Still, this leaves FSBO sellers with just a 6% chance at best to sell their homes on their own.&nbsp;
+Recently, the National Association of Realtors did up the percentage of successful FSBO listings from 2% or 3% to 5% or 6% depending on the part of the country. Still, this leaves FSBO sellers with just a 6% chance at best to sell their homes on their own.
 
 {% include pullquote.html %}
 
