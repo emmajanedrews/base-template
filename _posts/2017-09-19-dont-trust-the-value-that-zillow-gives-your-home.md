@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Instead of relying on a Zestimate for an accurate valuation of your home, you
   should contact a professional real estate agent.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Joe+DeSane/Palm+Beach+County+Real+Estate-+The+Problem+With+Zillow%2527s+Zestimates.mp4
 pullquote: 'Relying on a Zestimate can cost you up to $30,000 in Palm Beach County.'
 enclosure_type: video/mp4
 enclosure_time:
