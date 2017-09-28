@@ -1603,6 +1603,7 @@ label.tree-toggle {
   text-align: center; }
 
 .site-logo {
+  margin-right: 60rem;
   width: 90%;
   max-width: 35rem;
   margin-bottom: 2rem;
