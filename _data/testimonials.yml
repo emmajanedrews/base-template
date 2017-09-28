@@ -1,5 +1,21 @@
 show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
-    audio:
+  - quote: "They just did a great job for us. I was just really pleased they were on top of everything and we had no problems whatsoever, they were just a step ahead of everything. I was really pleased with the job that they did for us and the next transaction, I'm sure, we'll be with them again."
+    name: Ronald
+    audio: /uploads/audio/ronald.mp3
+
+  - quote: "They were great! They helped with the paperwork, and they coordinated to get everything together. They were all very nice!"
+    name: Deborah
+    audio: /uploads/audio/deborah.mp3
+
+  - quote: "Clare was superior to work with. She was efficient, only showed me homes that fit my criteria. We were only in town to look at homes for four days, but she has such a streamlined process that we were able to make an offer on the fourth day. It was excellent."
+    name: Kim
+    audio: /uploads/audio/kim.mp3
+
+  - quote: "We got great results. She was very organized, and once we made an offer, she kept everything moving. For instance, we wound up with an appraisal that was lower than what we had offered. She was able to come up with a package that worked for us and the sellers, and we were able to get the house at a lower price!"
+    name: Tyler
+    audio: /uploads/audio/tyler.mp3
+
+  - quote: "They were really great and did a very good job for us. We were on the market to purchase a home after we had sold our other property and we were looking in a particular area. John called us on a Sunday morning letting us know that a particular house on was going on the market. We ended up being here at the right moment of the open house and we absolutely loved it and made a bid on it. It was the perfect house for us and he knew it."
+    name: Juan
+    audio: /uploads/audio/juan.mp3
