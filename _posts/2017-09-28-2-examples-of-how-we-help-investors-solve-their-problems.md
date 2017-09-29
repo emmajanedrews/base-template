@@ -24,11 +24,11 @@ youtube_code: 0SFvG67ECvs
 
 Helping real estate investors overcome any challenges they face is something our team specializes in. Two recent transactions we worked on exemplify our commitment to helping people in commercial real estate.
 
-The first case comes from an investor who purchased a nine-unit property—a seven-unit apartment complex with a duplex attached to it—for roughly $100,000 30 years ago in an area called German Village right here in Columbus. This property has seen significant appreciation, and we estimated it to be worth almost $1 million.
+The first case comes from an investor who purchased a nine-unit property—a seven-unit apartment complex with a duplex attached to it—30 years ago for roughly $100,000 in an area called German Village right here in Columbus. This property has seen significant appreciation, and we estimated it to be worth almost $1 million.
 
 This investor came to us wondering how he could use the equity he had in his property. We went through a couple different scenarios with him, and in the end he decided he wanted to sell the apartment complex to another investor for cash. We were then able to locate a condo developer who agreed to buy the complex with the intent of splitting those nine units into condos and selling them individually at a higher price.
 
-In this example,\*\* we were able to bring both sides together and facilitate the transaction.\*\*This first client went on to invest his money with his proceeds and purchase another 10 to 20 properties. Even not as a condo project, this was a great investment property because it was located in a class A area.
+In this example, **we were able to bring both sides together and facilitate the transaction.** This first client went on to invest his money with his proceeds and purchase another 10 to 20 properties. Even not as a condo project, this was a great investment property because it was located in a class A area.
 
 {% include pullquote.html %}
 
