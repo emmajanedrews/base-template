@@ -5,7 +5,8 @@ date: 2017-09-25 09:35:00
 tags:
   - Real Estate
 excerpt: 'A rent guarantee is something no one else in Hawaii does, but we do.'
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management-+How+does+our+rent+guarantee+work%253F.mp4
 pullquote: We’re the only ones who provide a rent guarantee.
 enclosure_type: video/mp4
 enclosure_time:
