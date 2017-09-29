@@ -32,6 +32,6 @@ Our mortgage partnerships will **[get you access to fast, easy, and exclusive ra
 
 {% include pullquote.html %}
 
-Did you know we also offer free, instant home evaluations? Visit [**fasthomepricing.ca**](http://www.greaterpropertygroup.com/cma-calgary.php)and find out the value of your home instantly. We also provide free in-home consultations based on the specific details of your property. Simply visit **[60seconds.ca](http://60seconds.ca/)** and get started today!
+Did you know we also offer free, instant home evaluations? Visit [**fasthomepricing.ca**](http://www.greaterpropertygroup.com/cma-calgary.php) and find out the value of your home instantly. We also provide free in-home consultations based on the specific details of your property. Simply visit **[60seconds.ca](http://60seconds.ca/)** and get started today!
 
 If you have any questions or are thinking about buying or selling a home in the Calgary area, don’t hesitate to reach out to us. We’d be happy to help.
