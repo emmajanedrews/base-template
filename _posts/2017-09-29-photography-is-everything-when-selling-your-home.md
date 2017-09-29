@@ -23,7 +23,7 @@ I’m sure you know by now that 90% to 95% of homebuyers begin their home search
 
 When preparing your home for the market, make sure that you use professional, high-definition photography. Have you ever taken a photo on your cellphone outdoors only to have the sun wash the photo out? With professional photography, you totally eliminate that issue.
 
-We use HDR (high-definition realty photography) by taking three different exposures: underexposed, normally exposed, and overexposed. When then composite the exposures together so that the pictures look absolutely beautiful. This is the optimal way to showcase your property.
+We use HDR (high-definition realty) photography by taking three different exposures: underexposed, normally exposed, and overexposed. When then composite the exposures together so that the pictures look absolutely beautiful. This is the optimal way to showcase your property.
 
 {% include pullquote.html %}
 
