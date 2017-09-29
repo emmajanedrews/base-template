@@ -7,7 +7,7 @@ permalink: /join-our-team/
 
 ## Thriving vs. Surviving at Real Estate
 
-Most likely, you chose to get into real estate or are thinking about a career change into real estate because you are an independent person wanting to enjoy the benefits of running your own business. Real estate allows you to be your own boss, set your own schedule, and generate levels of income reflected by your efforts and not a corporate hierarchy. These benefits—coupled with a relatively low barrier of entry and a financial investment without the headache of employees—make real estate a very attractive career path.
+Most likely, you chose to get into real estate or are thinking about a career change into real estate because you are an independent person wanting to enjoy the benefits of running your own business. Real estate allows you to be your own boss, set your own schedule, and generate levels of income reflected by your efforts and not a corporate hierarchy. These benefits—coupled with a relatively low barrier of entry and financial investment without the headache of employees—make real estate a very attractive career path.
 
 ![](/uploads/versions/benefits-of-being-an-entrepreneur---x----557-354x---.jpg){: .in-post-image}
 
