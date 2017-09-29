@@ -26,7 +26,7 @@ youtube_code: sUF3pTU_lyo
 
 How can you get the best rates and the lowest closing costs in your home purchase?
 
-Our mortgage partnerships will** [get you access to fast, easy, and exclusive rates not offered by banks.](60seconds.ca)** That can often mean lower rates than even your own bank can offer you directly.
+Our mortgage partnerships will **[get you access to fast, easy, and exclusive rates not offered by banks.](60seconds.ca)** That can often mean lower rates than even your own bank can offer you directly.
 
 **These lower rates let you either pay less per month for the same house or get more house for the same monthly payment.**
 
