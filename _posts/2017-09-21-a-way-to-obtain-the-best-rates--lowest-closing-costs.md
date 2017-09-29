@@ -18,7 +18,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/ss-youtube-47.jpg
-youtube_code: vGop5AxBW2s
+youtube_code: ls8n7T3CVxY
 ---
 
 
