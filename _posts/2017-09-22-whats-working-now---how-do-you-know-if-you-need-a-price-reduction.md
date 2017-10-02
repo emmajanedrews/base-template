@@ -48,9 +48,9 @@ If the seller doesn’t believe you, look to a partner, manager, or someone else
 
 I’ve done this with my partner, and it’s been very effective. In fact, I just did this a week ago. My partner wrote a letter to the seller backing up my recommendation for a price reduction. The sellers agreed. **Soon after the price reduction, they got two offers and sold the house.** The inspection went through and they are heading to the closing table next week.&nbsp;
 
-If you would like to learn more about selling your home in the current market, click here to sign up for the Seller Half Hour Seminar online. I’ll cover everything you need to know in less than 30 minutes.&nbsp;
+If you would like to learn more about selling your home in the current market, [click here](www.homesellerhalfhour.tv) to sign up for the Seller Half Hour Seminar online. I’ll cover everything you need to know in less than 30 minutes.&nbsp;
 
-If you are interested in my listing at 4550 Klingle St. NW at Wesley Heights, take a virtual tour here.&nbsp;
+If you are interested in my listing at 4550 Klingle St. NW at Wesley Heights, take a [virtual tour here](www.4550Klingle.com).&nbsp;
 
 Thank you for watching “What’s Working Now!” Stay tuned for our next video, where I’ll discuss one of the latest market strategies that can make a big difference for both buyers and sellers.&nbsp;
 
