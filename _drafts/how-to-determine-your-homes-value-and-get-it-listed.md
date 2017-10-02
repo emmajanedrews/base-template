@@ -4,7 +4,7 @@ title: How to Determine Your Home’s Value and Get It Listed
 date:
 tags:
   - Home Owner Tips
-excerpt:
+excerpt: How do we determine a home’s value? The process is three-fold.
 enclosure:
 pullquote: Determining home value is pretty straight-forward for us.
 enclosure_type: video/mp4
