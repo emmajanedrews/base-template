@@ -23,11 +23,11 @@ I’m sure you know by now that 90% to 95% of homebuyers begin their home search
 
 When preparing your home for the market, make sure that you use professional, high-definition photography. Have you ever taken a photo on your cellphone outdoors only to have the sun wash the photo out? With professional photography, you totally eliminate that issue.
 
-We use HDR (high-definition realty) photography by taking three different exposures: underexposed, normally exposed, and overexposed. When then composite the exposures together so that the pictures look absolutely beautiful. This is the optimal way to showcase your property.
+We use HDR (high-definition realty) photography by taking three different exposures: underexposed, normally exposed, and overexposed. We then composite the exposures together so that the pictures look absolutely beautiful. This is the optimal way to showcase your property.
 
 {% include pullquote.html %}
 
-Some properties may also benefit from the use of a 3D Matterport camera. This camera creates a virtual model of your home so that online buyers can tour your property from the comfort of their own home. This way, potential buyers can get a good feel for what the property is like in real life.
+Some properties may also benefit from the use of a 3-D Matterport camera. This camera creates a virtual model of your home so that online buyers can tour your property from the comfort of their own home. This way, potential buyers can get a good feel for what the property is like in real life.
 
 Of course, here on gorgeous, tropical Kauai, **drone photos are an essential part of highlighting your property.** Drone photos allow the buyer to see the neighborhood, how private the location is, and its proximity to the ocean. Drone photography can also showcase views from the home and how the property is situated near the mountains.
 
