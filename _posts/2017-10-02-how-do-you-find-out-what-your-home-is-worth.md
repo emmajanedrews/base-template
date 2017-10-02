@@ -40,7 +40,7 @@ Despite the popularity of this method, these websites simply don’t work that w
 
 But the least-accurate option out there is checking the tax assessment. Very little time is put into these, which means they are way off.
 
-Truthfully, **the best option you have is to consult with an expert like myself.**Real estate agents who study homes and their prices every day are going to be much more reliable than other methods of finding value.
+Truthfully, **the best option you have is to consult with an expert like myself.&nbsp;**Real estate agents who study homes and their prices every day are going to be much more reliable than other methods of finding value.
 
 I’ve personally helped people determine the value of their property thousands of times in my career.
 
