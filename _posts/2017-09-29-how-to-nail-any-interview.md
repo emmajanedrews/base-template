@@ -31,7 +31,7 @@ Next, include a lot of detail in follow-up emails. Following up after an intervi
 
 {% include pullquote.html %}
 
-In any email communication, though, **be very careful of your spelling, grammar, and punctuation.**This not only shows the hiring manager your interest level and your writing abilities, but also your sense of email etiquette.
+In any email communication, though, **be very careful of your spelling, grammar, and punctuation.&nbsp;**This not only shows the hiring manager your interest level and your writing abilities, but also your sense of email etiquette.
 
 Subconsciously, humans tend to judge other people based on their appearances within the first 30 seconds of meeting them. This first impression is critical, so it’s important to dress for success. You don’t need an expensive outfit, but choose one that fits well and looks clean and professional.
 
