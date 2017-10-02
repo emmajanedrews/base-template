@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Things to Know About Flood Insurance
-date: 2017-09-30 14:39:00
+date: 2017-10-30 14:39:00
 tags:
   - Real Estate
 excerpt: >-
@@ -28,6 +28,6 @@ You have to pay for them in full prior to closing, and you have to have them esc
 
 {% include pullquote.html %}
 
-Being from New Orleans and having to go through Hurricane Katrina, I have deep sympathy for all of our friends in Houston and Florida. **I’ve learned from first-hand experience that the biggest floods tend to happen in non-flood zones.** Even if your home isn’t in one, I encourage you to at least have a conversation with your insurance professional about what exactly your policy covers. Many of them don’t protect against water damage at all. If you need a recommendation for a great insurance agent, I’d be happy to provide it.
+Being from New Orleans and having to go through Hurricane Katrina, I have deep sympathy for all of our friends in Houston and Florida. **I’ve learned from first-hand experience that the biggest floods tend to happen in non-flood zones.** Even if your home isn’t in one, I encourage you to at least have a conversation with your insurance professional about what exactly your policy covers. Many of them don’t protect against water damage at all.
 
 If you have any questions in the meantime or if you know anyone looking to buy a home in the near future, don’t hesitate to reach out and give me a call or send me an email. I look forward to hearing from you soon.
