@@ -4,7 +4,9 @@ title: What Buyers and Sellers Should Know About Appraisals
 tags:
   - Home Buyer Tips
   - Home Seller Tips
-excerpt:
+excerpt: >-
+  We’ve been getting a lot of questions about appraisals lately. Here are a few
+  basics you need to know.
 enclosure:
 pullquote: Appraisals are important for buyers and sellers.
 enclosure_type: video/mp4
