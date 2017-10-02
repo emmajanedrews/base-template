@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Determine Your Home’s Value and Get It Listed
-date:
+date: 2017-10-02 14:45:42
 tags:
   - Home Owner Tips
 excerpt: How do we determine a home’s value? The process is three-fold.
@@ -9,8 +9,8 @@ enclosure:
 pullquote: Determining home value is pretty straight-forward for us.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/andrew-kronenberg-happy-to-do-a-cma-youtube.jpg
 youtube_code: 'https://youtu.be/V8hVNm3ERkY'
 ---
 
