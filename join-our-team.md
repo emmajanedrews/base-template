@@ -116,7 +116,7 @@ Ana Sturt joined Lake Realty in 2015, making the switch from a transaction-based
 
 I shared these stories for two reasons.
 
-First, both Sue and Ana realized an increase in income in part due to a rise in the average price per sale. Because we’re Lake Realty, we receive a lot inquiries from buyers and sellers whose interests lie in properties on or near the lake. In general, these properties are more expensive, resulting in higher commissions.
+First, in addition to working hard and taking advantages of the opportunities presented, both Sue and Ana realized an increase in income in part due to a rise in the average price per sale. Because we’re Lake Realty, we receive a lot of inquiries from buyers and sellers whose interests lie in properties on or near the lake. In general, these properties are more expensive, resulting in higher commissions.
 
 ![](/img/success.png){: .float-right}
 
