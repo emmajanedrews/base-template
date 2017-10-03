@@ -9,7 +9,7 @@ excerpt: >-
   The recent situations in Houston and Florida are a good reminder of that.
 enclosure: >-
   http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20Things%20to%20Know%20About%20Flood%20Insurance.mp4
-pullquote: I’d be happy to recommend a trusted flood insurance agent.
+pullquote: Many of them don’t protect against water damage at all.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
