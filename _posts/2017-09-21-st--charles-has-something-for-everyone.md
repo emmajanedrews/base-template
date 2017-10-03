@@ -9,7 +9,8 @@ excerpt: >-
   area is built right along the Fox River and features excellent restaurants,
   fun bars with live entertainment, shopping, theaters, museums, and beautiful
   hotels.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+Why+visit+St.+Charles-.mp4
 pullquote: St. Charles has something for everyone.
 enclosure_type: video/mp4
 enclosure_time:
