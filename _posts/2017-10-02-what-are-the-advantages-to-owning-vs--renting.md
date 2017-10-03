@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 3C_txj4iWxE
+youtube_code: pfwdBNMjg78
 ---
 
 
@@ -36,10 +36,10 @@ A: Yes. You can enjoy the appreciation of value over time, and you also get to p
 
 Q: **Are there tax benefits to purchasing a home?**
 
-A: Yes. Compared to being a renter, you will enjoy a number of tax benefits from owning a home, and will ultimately save you money.
+A: Yes. Compared to being a renter, you will enjoy a number of tax benefits from owning a home, and it will ultimately save you money.
 
 Q: **Does my mortgage stay the same?**
 
 A: Yes. You’ll more than likely get a loan to purchase your home, and your mortgage payments are structured to be the same amount for the length of the loan, even while your property appreciates. Rent payments are subject to change all the time.
 
-If you’re a first-time buyer, the process could seem a little overwhelming, but it is well worth the time spent to be able to enjoy the benefits of being a homeowner, as opposed to renting from a landlord. We can help you with every single detail from start to finish, making sure you get the best deal. Give us a call or shoot us an email, we’ll get back to you as soon as possible.
+If you’re a first-time buyer, the process could seem a little overwhelming, but it is well worth the time spent to be able to enjoy the benefits of being a homeowner, as opposed to renting from a landlord. We can help you with every single detail from start to finish, making sure you get the best deal. Give us a call or send us an email. We would be happy to help you!
