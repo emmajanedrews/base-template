@@ -24,10 +24,10 @@ The first step is the most important. You need to choose an agent, but not just 
 
 {% include pullquote.html %}
 
-The next thing to do is will sit down and decide on a price. **To do that, we will look at many things, including the age, condition, and location of their home.** If your home is sitting on a corner lot or next to a busy boulevard, that can affect its value positively or negatively. We also look at the amenities of your home.
+The next thing to do is sit down with your agent and decide on a price. **To do that, we will look at many things, including the age, condition, and location of their home.** If your home is sitting on a corner lot or next to a busy boulevard, that can affect its value positively or negatively. We also look at the amenities of your home.
 
 After a price is decided, it's time to get the home’s condition up to par. Decluttering and staging are important steps in getting the home ready for a showing at a moment’s notice.
 
 Finally, we’ll get your home sold. We'll review any offers, go through the inspection, and negotiate any repairs with the buyer. Then, we’ll help you plan your move.
 
-**That’s just a small taste of what the home selling process is like.** If you have any questions for us or want to learn more about it, don't’ hesitate to give us a call or send us an email. We look forward to hearing from you.
+**That’s just a small taste of what the home selling process is like.** If you have any questions for us or want to learn more about it, don't hesitate to give us a call or send us an email. We look forward to hearing from you.
