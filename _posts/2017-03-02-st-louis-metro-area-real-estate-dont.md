@@ -5,7 +5,7 @@ enclosure: https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Metro+Ar
 pullquote: The decor doesn’t come with the home.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: 4 Reasons You Should Overlook Home Decor in Online Photos

@@ -5,7 +5,7 @@ enclosure: https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520
 pullquote: EVERY BUYER SHOULD HAVE A BUILDING INSPECTION.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: Which Home Inspections Should You Order?

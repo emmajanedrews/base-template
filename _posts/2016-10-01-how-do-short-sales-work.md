@@ -5,7 +5,7 @@ enclosure: https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Metro+Ar
 pullquote: The bank is in the business of loaning money; they don’t want your house.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: How Do Short Sales Work?
