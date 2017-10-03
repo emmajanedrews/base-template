@@ -3,7 +3,10 @@ layout: post
 title: Make Your Cash Work as Hard for You as You Do for It
 date:
 tags:
-excerpt:
+  - Real Estate
+excerpt: >-
+  Today, I’d like to share six key ways you can put your hard-earned money to
+  work for you.
 enclosure:
 pullquote: You work hard for your money—why not make it work hard for you?
 enclosure_type: video/mp4
