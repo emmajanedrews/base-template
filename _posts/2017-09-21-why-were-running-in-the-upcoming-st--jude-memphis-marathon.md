@@ -7,7 +7,8 @@ excerpt: >-
   Today I want to talk about something a little different. The St. Jude’s
   Children’s Research Hospital is hosting a marathon, and we need your help to
   make a difference.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Kyle+Fernandez/Videos/Oct/St.+Louis+County+Real+Estate-+You+Can+Make+a+Difference+for+Kids+in+Need.mp4
 pullquote: 'This is an incredibly important cause, and we want to do our part to help.'
 enclosure_type: video/mp4
 enclosure_time:
