@@ -12,8 +12,8 @@ enclosure: >-
 pullquote: You need all three of these things working together.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/3-reasons-homes-don-t-sell-youtube-02.jpg
 youtube_code: Jn8SZXf8Jzg
 ---
 
