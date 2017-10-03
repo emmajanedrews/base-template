@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Should You Hire a Realtor When Buying a New Construction Home?
-date: 2017-09-20 10:59:45
+date: 2017-09-20 10:59:00
 tags:
   - Home Buyer Tips
 excerpt: >-
   We don’t want you to make a mistake buying a new home. That’s why you need a
   buyer’s agent.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Karlyn+Ellis/Buda%252C+Texas+Real+Estate-+New+Construction+Seekers+Need+Agents%252C+Too.mp4
 pullquote: You need someone on your side of the transaction.
 enclosure_type: video/mp4
 enclosure_time:
