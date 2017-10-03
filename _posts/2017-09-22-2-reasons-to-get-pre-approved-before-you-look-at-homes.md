@@ -1,14 +1,15 @@
 ---
 layout: post
 title: 2 Reasons to Get Pre-Approved Before You Look at Homes
-date: 2017-09-22 11:52:59
+date: 2017-09-22 11:52:00
 tags:
   - Home Buyer Tips
 excerpt: >-
   Many buyers call me feeling excited to get out there and start looking at
   homes. However, I do recommend that you talk to a lender first, because it’s
   important to get pre-approved before you begin your home search.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Get%2520pre-approved%2520before%2520you%2520look%2520at%2520homes.mp4
 pullquote: Getting pre-approved lets you know what price range you should look in.
 enclosure_type: video/mp4
 enclosure_time:
@@ -24,7 +25,7 @@ Many buyers call me feeling excited to get out there and start looking at homes.
 
 There are a couple of reasons why.
 
-**First of all, getting pre-approved lets you know what your price range is.&nbsp;**There’s nothing worse than looking at homes in a higher price range and finding out that you can’t afford them.
+**First of all, getting pre-approved lets you know what your price range is.**There’s nothing worse than looking at homes in a higher price range and finding out that you can’t afford them.
 
 It’s like test-driving a Lexus only to be told that your budget will only allow you to buy a Camry. Nothing against the Camry, but it can be difficult to get excited about buying one after you’ve seen what the Lexus can do.
 
