@@ -27,7 +27,7 @@ If you don’t have the right strategy in place to make your finances grow, the 
 
 Today I want to share the six ways you can achieve just that.
 
-Save consistently. This might sound elementary, but it’s a lot easier said than done. The most efficient way to save is to make your savings automated. Set up your online banking so that each time you get paid, a portion will go into savings. Interest rates on traditional savings accounts are quite low, however. You may want to think about a high-yield savings account.
+1. Save consistently. This might sound elementary, but it’s a lot easier said&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; than done. The most efficient way to save is to make your savings&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; automated. Set up your online banking so that each time you get paid, a&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; portion will go into savings. Interest rates on traditional savings accounts&nbsp; &nbsp; &nbsp; are quite low, however. You may want to think about a high-yield savings&nbsp; &nbsp; &nbsp; account.
 
 Use credit cards strategically. Credit cards can be either harmful or helpful to your finances. If you are strategic, you can both build credit and earn rewards that you can use for food, clothes, travel, or even in the form of earning cash back. You could even put the cash you earn back into savings. Choose a card with strong rewards and use it for daily expenses. Then, pay it off consistently. Using credit cards responsibly and without overspending is key. The latest gadgets may be cool, but debt is absolutely not.
 
