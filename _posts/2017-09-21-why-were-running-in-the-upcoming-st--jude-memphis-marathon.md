@@ -21,9 +21,9 @@ youtube_code: 'https://youtu.be/mkkIjE6M8RA'
 
 Today I want to take a departure from our usual subject of real estate to talk about something a little different.
 
-The St. Jude’s Children’s Research Hospital is hosting a marathon. To help out with what we believe is a very worthy cause, Cal and I have committed to running in this event.
+The St. Jude’s Children’s Research Hospital is hosting a marathon. To help out with what we believe is a very worthy cause, Kyle and I have committed to running in this event.
 
-Cal will be running a full marathon and I will be running a half, and **we need your help. We have a goal of raising $5,000 total, or $2,500 a piece, to go towards helping children in need.**
+Kyle will be running a full marathon and I will be running a half, and **we need your help. We have a goal of raising $5,000 total, or $2,500 a piece, to go towards helping children in need.**
 
 For those of you who may not know, St. Jude’s helps children with serious illnesses like cancer.
 
@@ -31,6 +31,8 @@ For those of you who may not know, St. Jude’s helps children with serious illn
 
 The St. Jude Memphis Marathon will be taking place on the weekend of December 1st through the 3rd. This is an incredibly important cause, and we want to do our part to help. We hope that you’ll be able to help us do so.
 
-**Any amount is appreciated—all donations make a difference.** To donate or find more information, simply visit [this page.](https://www.stjude.org/get-involved/at-play/fitness-for-st-jude/memphis-marathon/races/marathon.html)
+**Any amount is appreciated—all donations make a difference.** To find more information, simply visit [this page.](https://www.stjude.org/get-involved/at-play/fitness-for-st-jude/memphis-marathon/races/marathon.html)
+
+**You can donate to our team [here.](http://fundraising.stjude.org/site/TR/Heroes/Heroes?pg=team&amp;fr_id=67039&amp;team_id=204911)**
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
