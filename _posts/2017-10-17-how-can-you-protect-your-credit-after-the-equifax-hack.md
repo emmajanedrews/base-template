@@ -24,11 +24,11 @@ As you’ve probably heard by now, the personal information of 145 million Ameri
 
 **Once your information is out there, it’s always out there.**We took certain steps to protect ourselves in light of this situations, and we wanted to make sure we shared with you what those steps were in case you wanted to take them as well.
 
-The very first thing I did was head over to [www.trustedidpremier.com/eligibility](www.trustedidpremier.com/eligibility){: target="_blank"}. This is the website that Equifax set up for people to check and see if their information was compromised. Unfortunately, myself, my wife, and my two sons were all affected.
+The very first thing I did was head over to [www.trustedidpremier.com/eligibility](www.trustedidpremier.com/eligibility). This is the website that Equifax set up for people to check and see if their information was compromised. Unfortunately, myself, my wife, and my two sons were all affected.
 
 {% include pullquote.html %}
 
-Because of that, we decided to sign up with [http://lifelock.com](http://lifelock.com){: target="_blank"}. There are a number of different credit protection companies out there that can help you out. We decided that LifeLock gave us the best peace of mind. If thieves were to get ahold of my kids’ info, they can have years or even decades of ruined credit on their hands without ever knowing about it.
+Because of that, we decided to sign up with [http://lifelock.com](http://lifelock.com). There are a number of different credit protection companies out there that can help you out. We decided that LifeLock gave us the best peace of mind. If thieves were to get ahold of my kids’ info, they can have years or even decades of ruined credit on their hands without ever knowing about it.
 
 **We actually decided to take it one step further and freeze our credit reports.** This may or may not make sense to you depending on your situation. A credit freeze means nobody can open or access lines of credit in your name, even you. If you don’t use credit very often, it’s something to consider.
 
