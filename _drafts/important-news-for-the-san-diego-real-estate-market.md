@@ -3,9 +3,11 @@ layout: post
 title: Important News for the San Diego Real Estate Market
 date:
 tags:
-excerpt:
+excerpt: >-
+  We’re proud to announce the merger of Kindred Real Estate and the Hervieux
+  Real Estate Group. Here’s how we’ll be able to serve you better.
 enclosure:
-pullquote:
+pullquote: Keep an eye out for your invite.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
