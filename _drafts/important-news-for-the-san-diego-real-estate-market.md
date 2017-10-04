@@ -12,7 +12,7 @@ pullquote: Keep an eye out for your invite.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/kindred-hervieux-announcement-youtube.jpg
 youtube_code: 'https://youtu.be/K7Jl-V3Tm48'
 ---
 
