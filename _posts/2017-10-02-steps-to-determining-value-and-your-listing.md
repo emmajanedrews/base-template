@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Determine Your Home’s Value and Get It Listed
+title: Steps to Determining Value and Your Listing
 date: 2017-10-02 14:45:00
 tags:
   - Real Estate
