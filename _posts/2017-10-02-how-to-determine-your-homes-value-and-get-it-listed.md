@@ -3,6 +3,7 @@ layout: post
 title: How to Determine Your Home’s Value and Get It Listed
 date: 2017-10-02 14:45:00
 tags:
+  - Real Estate
 excerpt: How do we determine a home’s value? The process is three-fold.
 enclosure:
 pullquote: Determining home value is pretty straightforward for us.
