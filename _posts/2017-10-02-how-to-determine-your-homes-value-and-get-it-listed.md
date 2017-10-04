@@ -1,12 +1,11 @@
 ---
 layout: post
 title: How to Determine Your Home’s Value and Get It Listed
-date: 2017-10-02 14:45:42
+date: 2017-10-02 14:45:00
 tags:
-  - Home Owner Tips
 excerpt: How do we determine a home’s value? The process is three-fold.
 enclosure:
-pullquote: Determining home value is pretty straight-forward for us.
+pullquote: Determining home value is pretty straightforward for us.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -23,7 +22,7 @@ For us, determining your home’s value is pretty straightforward. We start off 
 
 We’ll come out to your house, take a thorough look around, and take detailed notes. After we learn as much as we can about your home, we’ll take our data and schedule the next meeting at our office.
 
-In this 2nd meeting, we’ll review the value that we came up with for the home. We’ll walk you through the process step-by-step, including what homes we used to compare yours with and al the features of your home that add or decrease its value. You’ll walk away with our determination of what the market value of your home actually is. **The market moves quickly, however, so the analysis is only accurate for a month or two.**
+In this second meeting, we’ll review the value that we came up with for the home. We’ll walk you through the process step by step, including what homes we used to compare yours with and all the features of your home that add or decrease its value. You’ll walk away with our determination of what the market value of your home actually is. **The market moves quickly, however, so the analysis is only accurate for a month or two.**
 
 {% include pullquote.html %}
 
