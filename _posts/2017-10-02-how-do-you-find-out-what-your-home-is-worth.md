@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: tqTIb8-XLZ0
+youtube_code: IcfGULsDNcs
 ---
 
 
@@ -36,7 +36,7 @@ Recently the most popular way to find value is by looking online. Websites like 
 
 {% include pullquote.html %}
 
-Despite the popularity of this method, these websites simply don’t work that well. I wouldn’t put any credence in what they tell you about value. Their information is neither updated or accurate. **Zillow has even claimed that their online estimates are generally 8% off.** On top of that, they’ve recently been sued for violating consumer protection laws.
+Despite the popularity of this method, these websites simply don’t work that well. I wouldn’t put any credence in what they tell you about value. Their information is neither updated nor accurate. **Zillow has even claimed that their online estimates are generally 8% off.** On top of that, they’ve recently been sued for violating consumer protection laws.
 
 But the least-accurate option out there is checking the tax assessment. Very little time is put into these, which means they are way off.
 
