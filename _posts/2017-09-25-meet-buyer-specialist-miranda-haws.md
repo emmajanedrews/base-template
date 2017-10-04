@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Meet Buyer Specialist Miranda Haws
-date: 2017-09-25 11:23:20
+date: 2017-09-25 11:23:00
 tags:
   - Real Estate
 excerpt: Today we’d like to introduce our buyer specialist Miranda Haws.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Real+Estate+Agents-+Meet+buyer+specialist+Miranda+Haws.mp4
 pullquote: 'On Team Lally, everyone brings something different to the table.'
 enclosure_type: video/mp4
 enclosure_time:
