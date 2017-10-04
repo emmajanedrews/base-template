@@ -1,9 +1,9 @@
 ---
 layout: post
 title: What Do You Need to Know About Closing Costs?
-date: 2017-10-04 11:04:49
+date: 2017-10-04 11:04:00
 tags:
-  - Real Estate
+  - Home Buyer Tips
 excerpt: What are closing costs? How do you know what you’ll have to pay for them?
 enclosure:
 pullquote: Closing costs are usually 2% to 5% of the home’s purchase price.
