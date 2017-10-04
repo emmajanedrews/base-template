@@ -2,7 +2,7 @@
 layout: post
 title: The Keys to Improving Your Leadership
 tags:
-  - Bio Pharma
+  - BioPharma
 excerpt: >-
   There are plenty of ways to improve your leadership qualities. Here are a few
   of our best tips.
