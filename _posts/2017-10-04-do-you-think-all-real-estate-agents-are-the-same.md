@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do You Think All Real Estate Agents Are the Same?
-date:
+date: 2017-10-04 09:29:44
 tags:
   - Real Estate
 excerpt: >-
@@ -29,3 +29,11 @@ At Wicker Homes Group, we want to make sure that this doesn’t apply to us. In 
 We’ve been helping clients buy and sell homes for 30 years. In that time, we’ve developed a 19-point system that delivers proven results. &nbsp;<br><br>**To help our clients better understand this system and what it achieves, we’ve actually launched a new website:** [www.SellWithWHG.com.](http://www.sellwithwhg.com/)
 
 {% include pullquote.html %}
+
+There, you’ll not only find our 19-point selling system, but also samples of our marketing and professional photography. We believe in using high-quality service and marketing to help you get top dollar for your home.
+
+Additionally, you can find an area map showing the places within Northern Virginia we most frequently serve.
+
+But it isn’t just my team or I who believe we do a great job—to see what our clients are saying, **you can also find Zillow reviews from our clients on the website**, as well.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
