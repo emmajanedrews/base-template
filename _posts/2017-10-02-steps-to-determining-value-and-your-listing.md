@@ -10,7 +10,7 @@ pullquote: Determining home value is pretty straightforward for us.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/andrew-kronenberg-happy-to-do-a-cma-youtube.jpg
+youtube_alternate_image: /uploads/andrew-kronenberg-determining-value-youtube.jpg
 youtube_code: 'https://youtu.be/V8hVNm3ERkY'
 ---
 
