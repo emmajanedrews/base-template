@@ -23,7 +23,7 @@ Whether you’re just starting out in a position or you’ve been there for a wh
 
 The biggest piece of advice I can give is to be visible. One good way to do that is by attending Toastmasters. Everyone can use the training and practice to become better speakers and presenters. When you're effective at that, it gives you many more opportunities to be visible in the future.
 
-The next thing I would advise is to pay attention to Harvey McKay. **He’s one of the best out there when it comes to writing about leadership and leadership skills.&nbsp;**Subscribe to any of his newsletters or read any of his books and you’ll see what I mean. The techniques and tips he offers are invaluable.
+The next thing I would advise is to pay attention to Harvey MacKay. **He’s one of the best out there when it comes to writing about leadership and leadership skills.&nbsp;**Subscribe to any of his newsletters or read any of his books and you’ll see what I mean. The techniques and tips he offers are invaluable.
 
 {% include pullquote.html %}
 
