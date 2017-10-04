@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: dUvzq6KtWxE
+youtube_code: Dg67N5KWMUQ
 ---
 
 
@@ -27,6 +27,6 @@ When you’re actually in the process of getting a mortgage, you definitely don�
 
 {% include pullquote.html %}
 
-**For any credit cards you do have, you want to keep the balances under 30% of the utilization rate.** If your limits is $1000, that means keep the balance under $300. It can really mess up your debt-to-income ratio, which is crucial to your eligibility.
+**For any credit cards you do have, you want to keep the balances under 30% of the utilization rate.** If your limit is $1,000, that means keep the balance under $300. Not doing so can really mess up your debt-to-income ratio, which is crucial to your eligibility.
 
-Basically, make sure that when you’re applying for a mortgage you don’t use your credit, you pay it down instead. If you have any questions for us or have anything else you want to know about getting a mortgage, don’t hesitate to give me a call or send me an email. I look forward to hearing from you.
+Basically, make sure that when you’re applying for a mortgage you don’t use your credit, and you pay it down instead. If you have any questions for us or have anything else you want to know about getting a mortgage, don’t hesitate to give me a call or send me an email. I look forward to hearing from you.
