@@ -19,7 +19,7 @@ youtube_code: Nnzw9lPSXjc
 
 {% include youtube.html %}
 
-We recently received a great question from Lynn that we wanted to answer today. She wanted to know, **“Is there a good rule of thumb for how much to fix up a house before putting it on the market. Also, what improvements give homeowners the best return on their investment?”**
+We recently received a great question from Lynn that we wanted to answer today. She wanted to know, **“Is there a good rule of thumb for how much to fix up a house before putting it on the market?**** Also, what improvements give homeowners the best return on their investment?”**
 
 Every house is different, so there are a few different questions that we will typically ask to help us narrow down the answer. They include:
 
