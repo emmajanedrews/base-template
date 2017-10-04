@@ -19,7 +19,7 @@ youtube_code: hSIyRyMFjtg
 
 {% include youtube.html %}
 
-As summer ends and we begin fall in earnest, we’ve got an end-of-summer market update to share that will tell you all you need to know about the San Diego real estate market. Here are the numbers that stood out to us:
+As summer ends and we begin fall in earnest, we’ve got an end-of-summer market update to share that will tell you all you need to know about the San Diego real estate market. **Here are the numbers that stood out to us:**
 
 * The average sale price is $775,000 for single-family detached homes, up 9% from this time last year.
 * The median sale price for single-family detached homes is $610,000, an 8% increase from August 2016.
@@ -27,4 +27,4 @@ As summer ends and we begin fall in earnest, we’ve got an end-of-summer market
 * The average sale price for condos and townhomes is up 7% from last year and 5% from last month.
 * The median sale price for a condo or townhome is $400,000, a 6% increase from last year.
 
-Since last year, homes have significantly increased in price while selling twice as fast. As you can see, the San Diego market is still very hot. If you have any questions for us about it or you’re looking to buy or sell a home yourself, give us a call or send us an email. We look forward to hearing from you soon.
+**Since last year, homes have significantly increased in price while selling twice as fast.** As you can see, the San Diego market is still very hot. If you have any questions for us about it or you’re looking to buy or sell a home yourself, give us a call or send us an email. We look forward to hearing from you soon.
