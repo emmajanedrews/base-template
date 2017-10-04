@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Important News for the San Diego Real Estate Market
-date:
+date: 2017-10-04 12:28:23
 tags:
   - Real Estate
 excerpt: >-
