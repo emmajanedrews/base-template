@@ -34,6 +34,6 @@ There, you’ll not only find our 19-point selling system, but also samples of o
 
 Additionally, you can find an area map showing the places within Northern Virginia we most frequently serve.
 
-But it isn’t just my team or I who believe we do a great job—to see what our clients are saying, **you can also find Zillow reviews from our clients on the website**, as well.
+But it isn’t just my team and I who believe we do a great job—to see what our clients are saying, **you can also find Zillow reviews from our clients on the website**, as well.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
