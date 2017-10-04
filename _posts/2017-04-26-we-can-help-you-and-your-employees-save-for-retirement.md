@@ -6,8 +6,11 @@ tags:
   - 401K
   - Financial Consultant
   - Retirement Plans
-excerpt: '85% of employees won’t be ready to retire financially when the time comes. Here’s how you can make sure that doesn’t happen to you or your employees.'
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Steve+Case/Videos/2017/We+Can+Help+You+and+Your+Employees+Save+for+Retirement+-.mp4'
+excerpt: >-
+  85% of employees won’t be ready to retire financially when the time comes.
+  Here’s how you can make sure that doesn’t happen to you or your employees.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Steve+Case/Videos/2017/We+Can+Help+You+and+Your+Employees+Save+for+Retirement+-.mp4
 pullquote: We have put all our expert advice in one place.
 enclosure_type: video/mp4
 enclosure_time:
@@ -27,7 +30,7 @@ We have written a book called “Tracking Retirement” where we used our experi
 
 {% include pullquote.html %}
 
-**Over the course of the next year, we’ll discuss topics surrounding your 401k and ways you can improve it for yourself and your participants.&nbsp;**We will be sending a video out every other week covering a 401k topic, including how to reverse engineer your 401k expenses to reduce plan costs and how to get uncle Sam to pick up 30% or 40% of the bill.
+**Over the course of the next year, we’ll discuss topics surrounding your 401k and ways you can improve it for yourself and your participants.&nbsp;**We will be sending a video out every other week covering a 401k topic, including how to reverse engineer your 401k expenses to reduce plan costs and how to get Uncle Sam to pick up 30% or 40% of the bill.
 
 The Pension Protection Act says that if you use specific automatic features in your 401k, you can get complete fiduciary liability. Guess what? Those same features improve the quality of the plan for those participants trying to create those paychecks for life. If you like what you’ve heard so far, stay tuned for our next post.
 
