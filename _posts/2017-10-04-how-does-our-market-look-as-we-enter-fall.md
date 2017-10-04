@@ -23,7 +23,7 @@ youtube_code: rFKCTGgb1lg
 
 What’s going on in our North San Diego County market?
 
-Overall, things are about the same as they were during [our last market update.](http://caseycooke.com/our-market-is-on-fire-but-buyers-may-need-a-few-tips.html) Back then, we talked about how low inventory had been pushing prices up, and we’re still seeing that effect.
+Overall, things are about the same as they were during [our last market update.](http://caseycooke.com/our-market-is-on-fire-but-buyers-may-need-a-few-tips.html){: target="_blank"} Back then, we talked about how low inventory had been pushing prices up, and we’re still seeing that effect.
 
 According to the most recent data, **we have 2.2 months’ worth of inventory**, or slightly more than 2,000 homes for sale. That’s pretty low—a balanced market in our county is closer to three or four months, and nationwide, it’s closer to six months.
 
