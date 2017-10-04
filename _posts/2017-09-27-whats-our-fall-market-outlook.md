@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Now that the season has changed, it’s time to look back on our market and
   update you on what’s happening now.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+A+market+update+for+the+fall.mp4
 pullquote: Homes are still very much in demand.
 enclosure_type: video/mp4
 enclosure_time:
