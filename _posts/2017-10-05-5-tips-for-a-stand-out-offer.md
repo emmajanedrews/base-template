@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 5 Tips for a Stand-Out Offer
-date:
+date: 2017-10-05 16:28:57
 tags:
   - Home Buyer Tips
 excerpt: >-
   In today’s competitive market, how can you make sure your offer is going to
   stand out against the rest? Today, I’ve got five key tips to do just that.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Alex+Lam/Videos/2017/Winning+The+Bidding+War+-+Vancouver+Real+Estate+Agent.mp4
 pullquote: >-
   Face-to-face interactions are always better than those done via email or the
   phone.
