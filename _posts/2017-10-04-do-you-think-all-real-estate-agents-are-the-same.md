@@ -20,20 +20,22 @@ youtube_code: 'https://youtu.be/l0nPT-W02uY'
 
 {% include youtube.html %}
 
-Today, I’ve got a question to pose to you: Do you think all real estate agents are the same?
+Today, I’ve got a question for you: Do you think real estate agents are basically the same?
 
-Many people tend to believe this is the case, and, unfortunately, they’re usually right. **There are a lot of real estate agents out there who simply don’t stand out from one another.**
+I think many people would say, “yes.” And unfortunately, they are often right.
 
-At Wicker Homes Group, we want to make sure that this doesn’t apply to us. In fact, we think it’s unacceptable.
+At the Wicker Homes Group, we think that’s unacceptable. **We are on a mission to raise the bar in our industry.** We want to bring a new level of professionalism, service and integrity to real estate.
 
-We’ve been helping clients buy and sell homes for 30 years. In that time, we’ve developed a 19-point system that delivers proven results. &nbsp;<br><br>**To help our clients better understand this system and what it achieves, we’ve actually launched a new website:** [www.SellWithWHG.com.](http://www.sellwithwhg.com/)
+With 30 years of experience helping clients buy and sell homes, we’ve developed a 19-point system that delivers proven results for our sellers. &nbsp;<br><br>**To help our clients and friends better understand this system and the difference it makes, we’ve launched a new website: [www.SellWithWHG.com](http://www.sellwithwhg.com/).** It’s a one-stop shop for anyone thinking of selling their home.
 
 {% include pullquote.html %}
 
-There, you’ll not only find our 19-point selling system, but also samples of our marketing and professional photography. We believe in using high-quality service and marketing to help you get top dollar for your home.
+There, you’ll find our 19-point selling system, along with samples of our marketing and professional photography. Our goal is to drive as many potential buyers to see your home as possible. It’s all about making sure you get top dollar for your home.
 
-Additionally, you can find an area map showing the places within Northern Virginia we most frequently serve.
+On our seller portfolio site you will also see a map of our past sales, bios of seller team members, our awards, mission, vision and values, access to Debbie’s List and our video blog.
 
-But it isn’t just my team and I who believe we do a great job—to see what our clients are saying, **you can also find Zillow reviews from our clients on the website**, as well.
+We’ve also included **a page with our Zillow reviews so you can see what our clients have said about us.**
+
+Check out the new site and let us know what you think!
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
