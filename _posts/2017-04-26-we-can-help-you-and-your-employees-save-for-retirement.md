@@ -32,10 +32,10 @@ We have written a book called “Tracking Retirement” where we used our experi
 
 **Over the course of the next year, we’ll discuss topics surrounding your 401(k) and ways you can improve it for yourself and your participants.&nbsp;**We will be sending a video out every other week covering a 401(k) topic, including how to reverse engineer your 401(k) expenses to reduce plan costs and how to get Uncle Sam to pick up 30% or 40% of the bill.
 
-The Pension Protection Act says that if you use specific automatic features in your 401k, you can get complete fiduciary liability. Guess what? Those same features improve the quality of the plan for those participants trying to create those paychecks for life. If you like what you’ve heard so far, stay tuned for our next post.
+The Pension Protection Act says that if you use specific automatic features in your 401(k), you can get complete fiduciary liability. Guess what? Those same features improve the quality of the plan for those participants trying to create those paychecks for life. If you like what you’ve heard so far, stay tuned for our next post.
 
 If you have any questions in the meantime, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.
 
 &nbsp;
 
-<div><em>(Securities and advisory services offered through FSC Securities Corporation, member FINRA/SIPC. Michigan 401k and Financial Independence are marketing names.)</em></div>
+<div><em>(Securities and advisory services offered through FSC Securities Corporation, member FINRA/SIPC. Michigan 401(k) and Financial Independence are marketing names.)</em></div>
