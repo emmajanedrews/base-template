@@ -31,11 +31,11 @@ Today I want to share the six ways you can achieve just that.
 
 **2. Use credit cards strategically.** Credit cards can be either harmful or helpful to your finances. If you are strategic, you can both build credit and earn rewards that you can use for food, clothes, travel, or even in the form of earning cash back. You could even put the cash you earn back into savings. Choose a card with strong rewards and use it for daily expenses. Then, pay it off consistently. Using credit cards responsibly and without overspending is key. The latest gadgets may be cool, but debt is absolutely not.
 
-**3. 401(k) matching.** If your employer offers 401(k) matching, maximize the full amount they are willing to contribute to take advantage of free retirement money. Let’s say your employee will match your contributions dollar for dollar up to $1,500. If you take full advantage, you could double that money.
+**3. 401(k) matching.** If your employer offers 401(k) matching, maximize the full amount they are willing to contribute to take advantage of free retirement money. Let’s say your employer will match your contributions dollar for dollar up to $1,500. If you take full advantage, you could double that money.
 
 {% include pullquote.html %}
 
-**4. Opening an IRA.** IRAs, or individual retirement accounts, are another great way to grow your money. IRAs are tax-advantaged investment accounts that are specifically designed to help you with retirement. There are two types of IRAs: traditional and roth. With traditional, you contribute pre-tax dollars. These funds get taxes when you withdraw them in retirement. With a Roth IRA, the money you contribute is after tax, meaning it will not be taxed when you withdraw it.
+**4. Opening an IRA.** IRAs, or individual retirement accounts, are another great way to grow your money. IRAs are tax-advantaged investment accounts that are specifically designed to help you with retirement. There are two types of IRAs: traditional and Roth. With traditional, you contribute pre-tax dollars. These funds get taxed when you withdraw them in retirement. With a Roth IRA, the money you contribute is after tax, meaning it will not be taxed when you withdraw it.
 
 **5. Purchase real estate.** Homeownership is one of the smartest ways to build your wealth. Owning a home helps you build equity. Equity is a valuable asset that you can utilize later on. Also, if you are already a homeowner, you can use a rental property as an additional source of income.
 
