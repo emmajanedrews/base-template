@@ -2,10 +2,7 @@
 layout: post
 title: 5 Types of Real Estate Investing
 tags:
-  - Market Updates
-  - Real Estate
   - Home Buyer Tips
-  - Home Seller Tips
 excerpt: >-
   The number of those interested in real estate investment is on the rise, due
   to the attractiveness of the benefits that come with it.
