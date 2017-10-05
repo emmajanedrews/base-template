@@ -5,7 +5,8 @@ date: 2017-10-04 11:04:00
 tags:
   - Home Buyer Tips
 excerpt: What are closing costs? How do you know what you’ll have to pay for them?
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Dissecting+closing+costs.mp4
 pullquote: Closing costs are usually 2% to 5% of the home’s purchase price.
 enclosure_type: video/mp4
 enclosure_time:
