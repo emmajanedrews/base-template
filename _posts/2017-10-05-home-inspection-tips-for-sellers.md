@@ -23,7 +23,7 @@ It’s time for part two of our video series on home inspections. [Last time](ht
 
 If you plan on selling your house, **why should you consider getting a home inspection before you put your house on the market?**
 
-The number one reason to get an inspection before listing your home is that you can take care of all necessary repairs before your home hits the market. An inspection costs about $300, and you will be able to know exactly what condition your home is in and take care of about 90% of those repairs.
+The No. 1 reason to get an inspection before listing your home is that you can take care of all necessary repairs before your home hits the market. An inspection costs about $300, and you will be able to know exactly what condition your home is in and take care of about 90% of those repairs.
 
 Every home inspector is a little different. One may find something that another one doesn’t, but you can get most of those repairs taken care of. If there are any major repairs, you can get most of that done on your own time prior to getting an offer.
 
