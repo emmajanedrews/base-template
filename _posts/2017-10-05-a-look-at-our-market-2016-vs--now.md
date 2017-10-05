@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'A Look at Our Market: 2016 vs. Now'
-date:
+date: 2017-10-05 12:21:26
 tags:
   - Market Update
 excerpt: >-
