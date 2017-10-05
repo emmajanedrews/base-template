@@ -22,7 +22,7 @@ youtube_code: ZSUwqqnyzvQ
 
 As you’ve probably heard by now, the personal information of 145 million Americans was compromised by hackers who breached data from Equifax, one of the three major credit bureaus in the U.S. This is a big deal, and could be a significant issue for years if not decades to come.
 
-**Once your information is out there, it’s always out there.**We took certain steps to protect ourselves in light of this situations, and we wanted to make sure we shared with you what those steps were in case you wanted to take them as well.
+**Once your information is out there, it’s always out there.&nbsp;**We took certain steps to protect ourselves in light of this situation, and we wanted to make sure we shared with you what those steps were in case you wanted to take them as well.
 
 The very first thing I did was head over to [www.trustedidpremier.com/eligibility](www.trustedidpremier.com/eligibility). This is the website that Equifax set up for people to check and see if their information was compromised. Unfortunately, myself, my wife, and my two sons were all affected.
 
