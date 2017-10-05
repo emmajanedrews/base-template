@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   We’ve been getting a lot of questions about appraisals lately. Here are a few
   basics you need to know.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Daniel+Dixon/Oct/Denver+Real+Estate-+Appraisal+Questions+and+Answers.mp4
 pullquote: Appraisals are important for buyers and sellers.
 enclosure_type: video/mp4
 enclosure_time:
