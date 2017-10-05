@@ -5,8 +5,7 @@ show_custom_links: true
 custom_links: 
   - title: About
     url: http://anew.exprealty.com/agent/MM79760338798A416FA9D777CEB2C8C053
-    
-    title: Featured Listings
+  - title: Featured Listings
     url: http://anew.exprealty.com/
 
 client:
