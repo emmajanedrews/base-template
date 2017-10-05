@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/andrew-kronenberg-screenshot-new-youtube10-5-17.jpg
-youtube_code: 'https://youtu.be/V8hVNm3ERkY'
+youtube_code: 'https://youtu.be/5w7Qu1HIbOc'
 ---
 
 
