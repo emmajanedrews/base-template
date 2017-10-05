@@ -4,11 +4,12 @@ title: Top 4 Tactics to Win Negotiations Every Time
 tags:
   - Home Buyer Tips
   - Home Seller Tips
-date: 2017-09-27 14:31:43
+date: 2017-09-27 14:31:00
 excerpt: >-
   I want to share my top four negotiation tactics with you today. These tactics
   will help you get to the closing table every time.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Chris+Gorman/Videos/Oct/Triangle+Area+Real+Estate-+The+Top+4+Negotiation+Tactics+(1).mp4
 pullquote: 'If one party walks away from the conversation, the negotiation starts to die.'
 enclosure_type: video/mp4
 enclosure_time:
