@@ -24,14 +24,14 @@ If you want to sell your home quickly and for top dollar, here are five home sta
 
 **1.&nbsp;****Offer curb appeal.**&nbsp;Change out the house numbers, the outdoor lighting, the front-door color, and put out a tasteful welcome mat. It makes your house look well-maintained.
 
-**2.****Create ambiance.&nbsp;**Appeal to all five senses in your home. For sight, use lighting to brighten dark spaces. For smell, create a subtle, pleasant scent like vanilla or citrus. The key word here is “subtle,” because you don’t want buyers to think you’re hiding something. Incorporate textures or textiles that promote a personal touch. For sound, turn on some quiet music. For taste (my personal favorite), leave out a candy bowl or a water bottle with a nice welcome note that welcomes your guests to stay a little bit longer.
+**2.&nbsp;****Create ambiance.&nbsp;**Appeal to all five senses in your home. For sight, use lighting to brighten dark spaces. For smell, create a subtle, pleasant scent like vanilla or citrus. The key word here is “subtle,” because you don’t want buyers to think you’re hiding something. Incorporate textures or textiles that promote a personal touch. For sound, turn on some quiet music. For taste (my personal favorite), leave out a candy bowl or a water bottle with a nice welcome note that welcomes your guests to stay a little bit longer.
 
-**3.****Embrace the floor space.&nbsp;**Make your house feel spacious. Put breathing room around pieces of furniture and use mirrors to reflect natural light. We tend to fill up rooms when living in a house, but when selling, less is definitely more.
+**3.&nbsp;****Embrace the floor space.&nbsp;**Make your house feel spacious. Put breathing room around pieces of furniture and use mirrors to reflect natural light. We tend to fill up rooms when living in a house, but when selling, less is definitely more.
 
-**4.****Emphasize architectural details.** If there is a quirky space, play up its strengths. For example, turn an empty space under the stairs into a cozy reading nook.
+**4.&nbsp;****Emphasize architectural details.** If there is a quirky space, play up its strengths. For example, turn an empty space under the stairs into a cozy reading nook.
 
 {% include pullquote.html %}
 
-**5.****Play up a lifestyle.** You’re not just selling a house—you’re selling a lifestyle. Show buyers the kind of life they could be enjoying in their new home.
+**5.&nbsp;****Play up a lifestyle.** You’re not just selling a house—you’re selling a lifestyle. Show buyers the kind of life they could be enjoying in their new home.
 
 If you or anyone you know could use some help getting their home up to par to get the most money possible from its sale, don’t hesitate to reach out to us. We’d love to help!
