@@ -18,7 +18,7 @@ youtube_code: B7JV8GBnqlc
 
 We’re here today at the Sunset Bay Cafe with owner Bryce Jarvis. He’s here to talk a little bit about his restaurant and why you will love it the next time you stop in for a bite.
 
-Back in high school, Cryce worked in banquet setup with Abbott Resorts. He turned that experience into over 20 years of working in restaurants. **Now, he has one of his own.**
+Back in high school, Bryce worked in banquet setup with Abbott Resorts. He turned that experience into over 20 years of working in restaurants. **Now, he has one of his own.**
 
 When Bryce was looking for a location for his restaurant, he wanted something unique. He found that at Sandestin Resort, where Sunset Bay Cafe is located. There’s plenty of parking and space inside the restaurant and out on the patio. The vision was to put together a nice, family-friendly restaurant that you could come to for any occasion. That vision has clearly been realized.
 
