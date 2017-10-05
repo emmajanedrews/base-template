@@ -30,6 +30,6 @@ Home prices have actually risen by 6%, though specific prices will vary slightly
 
 Another notable statistic is the rise of overall home sales, which have increased by 21%. Additionally, **home sales over $500,000 are up 28%.** Home sales over $1 million, though, are the same as they were in 2016.
 
-Two other things that haven’t changed much are interest rates and inventory.
+Two other things that haven’t changed much are interest rates and inventory.&nbsp;
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
