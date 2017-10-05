@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Steps to Determining Value and Your Listing
+title: I Am Thinking About Selling. Now What?
 date: 2017-10-02 14:45:00
 tags:
   - Real Estate
