@@ -22,7 +22,7 @@ youtube_code: _mPHmul3AT8
 
 Today I want to bring you a quick look at how our market is faring right now. So, what’s been going on recently?
 
-Over the summer, home sales continued to soar.** Sales are up 14% compared to this time last year, and home prices have gone up as well.**
+Over the summer, home sales continued to soar. **Sales are up 14% compared to this time last year, and home prices have gone up as well.**
 
 {% include pullquote.html %}
 
