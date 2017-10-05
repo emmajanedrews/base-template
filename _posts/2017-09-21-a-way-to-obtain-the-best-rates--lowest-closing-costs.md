@@ -18,7 +18,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/ss-youtube-47.jpg
-youtube_code: ls8n7T3CVxY
+youtube_code: IM2u0TDDRCM
 ---
 
 
@@ -26,12 +26,12 @@ youtube_code: ls8n7T3CVxY
 
 How can you get the best rates and the lowest closing costs in your home purchase?
 
-Our mortgage partnerships will **[get you access to fast, easy, and exclusive rates not offered by banks.](http://60seconds.ca/)** That can often mean lower rates than even your own bank can offer you directly.
+Our mortgage partnerships will get you access to fast, easy, and exclusive rates not offered by banks. That can often mean lower rates than even your own bank can offer you directly. Simply visit **[60seconds.ca](http://60seconds.ca/)** and get started today!
 
 **These lower rates let you either pay less per month for the same house or get more house for the same monthly payment.**
 
 {% include pullquote.html %}
 
-Did you know we also offer free, instant home evaluations? Visit [**fasthomepricing.ca**](http://www.greaterpropertygroup.com/cma-calgary.php) and find out the value of your home instantly. We also provide free in-home consultations based on the specific details of your property. Simply visit **[60seconds.ca](http://60seconds.ca/)** and get started today!
+Did you know we also offer free, instant home evaluations? Visit [**fasthomepricing.ca**](http://www.greaterpropertygroup.com/cma-calgary.php) and find out the value of your home instantly. We also provide free in-home consultations based on the specific details of your property.
 
 If you have any questions or are thinking about buying or selling a home in the Calgary area, don’t hesitate to reach out to us. We’d be happy to help.
