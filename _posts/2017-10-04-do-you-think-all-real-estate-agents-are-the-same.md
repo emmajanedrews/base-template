@@ -30,7 +30,7 @@ With 30 years of experience helping clients buy and sell homes, we’ve develope
 
 {% include pullquote.html %}
 
-There, you’ll find our 19-point selling system, along with samples of our marketing and professional photography. Our goal is to drive as many potential buyers to see your home as possible. It’s all about making sure you get top dollar for your home.
+There, you’ll find our 19-point selling system, along with samples of our marketing and professional photography. Our goal is to drive as many potential buyers as possible to see your home. It’s all about making sure you get top dollar for your home.
 
 On our seller portfolio site you will also see a map of our past sales, bios of seller team members, our awards, mission, vision and values, access to Debbie’s List and our video blog.
 
