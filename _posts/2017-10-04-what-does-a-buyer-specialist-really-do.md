@@ -20,7 +20,7 @@ youtube_code: 2cCu_GD3GbI
 
 {% include youtube.html %}
 
-Today I’m joined by a special guest: our lead buyer specialist, Tyler Walker.&nbsp;
+Today I’m joined by our lead buyer specialist, Tyler Walker.&nbsp;
 
 As a lead buyer specialist, Tyler’s job is to negotiate the best price for you. Having been born and raised in West Fargo, he has a wealth of local knowledge.
 
@@ -28,7 +28,7 @@ As a lead buyer specialist, Tyler’s job is to negotiate the best price for you
 
 **It is using this local knowledge combined with his real estate expertise that Tyler helps buyers** get into the right house for the best terms.
 
-Tyler says his job is to make buyers happy, and that exactly what he intends to do. He wants to make sure no buyer overpays for a property, and that the deal goes as smoothly as possible from every angle.&nbsp;
+Tyler says his job is to make buyers happy, and that's exactly what he intends to do. He wants to make sure no buyer overpays for a property, and that the deal goes as smoothly as possible from every angle.&nbsp;
 
 Tyler has been in this role on our team for over a year now, and he’s doing a great job.&nbsp;
 
