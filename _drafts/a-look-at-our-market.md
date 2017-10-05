@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Look at Our Market
+title: 'A Look at Our Market: 2016 vs. Now'
 date: 2017-10-05 12:48:00
 tags:
   - Market Update
@@ -28,7 +28,7 @@ Over the summer, home sales continued to soar. **Sales are up 14% compared to th
 
 Home prices have actually risen by 6%, though specific prices will vary slightly depending on your specific subdivision. You can find a look at [how things differ depending on municipality here.](https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/Blog+Attachments/municipalities.jpg)
 
-Another notable statistic is the rise of overall home sales, which have increased by 21%. Additionally, **home sales over $500,000 are up 28%.&nbsp;**Home sales over $1 million, though, are the same as they were in 2016.
+Another notable statistic is the rise of overall home sales, which have increased by 21%. Additionally, **home sales over $500,000 are up 28%.**Home sales over $1 million, though, are the same as they were in 2016.
 
 Two other things that haven’t changed much are interest rates and inventory.
 
