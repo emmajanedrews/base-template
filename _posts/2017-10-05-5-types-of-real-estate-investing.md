@@ -9,7 +9,8 @@ tags:
 excerpt: >-
   The number of those interested in real estate investment is on the rise, due
   to the attractiveness of the benefits that come with it.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Mansfield+Real+Estate+Agent+5+Ways+to+Invest.mp4
 pullquote: >-
   89% of US investors are interested in putting their money in real estate
   because of benefits such as cash flow, tax incentives, leverage, and value
@@ -32,7 +33,7 @@ According to a recent survey, **real estate investors now make up to 15% of the 
 
 And real estate investing is on the rise. In fact, **89% of US investors are interested in putting their money in real estate because of benefits such as cash flow, tax incentives, leverage, and value appreciation.**
 
-Are you curious about investing in property yourself? Here are five different ways &nbsp;you can get started:
+Are you curious about investing in property yourself? Here are five different ways  you can get started:
 
 1. **Buy and rent.** This is probably the most traditional way to invest in real estate. It simply involves buying a property and renting it out. Now is a good time for this type of investing because rental rates are on the rise—up 8% since last year—while mortgage rates remain very low and affordable. The downside of this investing approach is the time and work that goes into managing and maintaining your investment, if you choose not to use a property management company. I always recommend that investors do use property management companies, and you can call us for more information about ours.
 2. **Buy and sell.** Also known as home flipping, this involves buying a property and reselling it soon after for a profit. There are two alternatives: you can simply wait for the price to increase, or you can make renovations or improvements to force the value to appreciate. Either way, home flipping has offered a record-breaking 49% return in 2016
