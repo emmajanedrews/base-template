@@ -1,5 +1,5 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
-    audio:
+  - quote: '"this is an example"'
+    name: Emma
+    audio: /_uploads/audio/emma.mp3
