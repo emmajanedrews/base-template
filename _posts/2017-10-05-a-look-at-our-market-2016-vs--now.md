@@ -33,5 +33,3 @@ Another notable statistic is the rise of overall home sales, which have increase
 Two other things that haven’t changed much are interest rates and inventory.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
-
-{% include pullquote.html %}
