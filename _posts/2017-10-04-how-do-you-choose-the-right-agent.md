@@ -33,6 +33,6 @@ This can help give you an idea of their performance.
 
 **If you want to get the best price, you’ll also want to ask about the last 15 homes the agent sold.** Also, ask about the percentage of asking price to sold price for those homes.
 
-I could talk all day about how to choose the right agents. I’ve sent the person who asked about today’s topic a great list of questions to ask any potential agents. If you text my team and I your email address, we can send you out that list, too.
+I could talk all day about how to choose the right agents. I’ve sent the person who asked about today’s topic a great list of questions to ask any potential agents. If you text us your email address, we can send you out that list, too.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
