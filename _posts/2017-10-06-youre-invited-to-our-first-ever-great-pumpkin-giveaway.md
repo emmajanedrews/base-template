@@ -24,11 +24,11 @@ youtube_code: grHSdCQ3mgQ
 
 Today I’m excited to invite you to our first-ever Great Pumpkin Giveaway.
 
-This community appreciation event is going to take place on Sunday, October 8th between 11 a.m. and 3 p.m., and you aren’t going to want to miss it.
+This community appreciation event is going to take place on **Sunday, October 8th between 11 a.m. and 3 p.m.**, and you aren’t going to want to miss it.
 
 The event will take place at 99 Harry M. Hallman, Junior Boulevard, Mt. Pleasant, SC 29464.
 
-We’ve got 1,200 pumpkins to give away, so invite all of your friends and family to come out for the fun.
+**We’ve got 1,200 pumpkins to give away**, so invite all of your friends and family to come out for the fun.
 
 {% include pullquote.html %}
 
