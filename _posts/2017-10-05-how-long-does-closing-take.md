@@ -39,7 +39,7 @@ At the point when a purchase agreement has been ratified, **the buyer and seller
 
 **After the inspection contingency is released, if it’s a financed property, the next stage is the appraisal process.** At this point, the bank is going to hire a third-party appraisal company to come out and verify if the price on the home truly reflects market value.
 
-During the appraisal process, **title work is likely being done at the same time.** In the state of Minnesota, the buyer hires a title company to go through and make sure there’s no cloud on title, that the property they’re purchasing is free of all defects on title, and they can buy it without any encumbrances.
+During the appraisal process, **title work is likely being done at the same time.** In the state of Minnesota, the buyer hires a title company to go through and make sure that the property they’re purchasing is free of all title defects and they can buy it without any encumbrances.
 
 Following the title work, and once the appraisal is completed, **the buyer moves into the final underwriting period, which can last from a couple days to a couple weeks.** Sometimes, lenders will need an updated copy of a pay stub, or they’ll have a question about the appraisal; lenders sometimes return to the buyer a few times, asking for updated items.
 
