@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Home Inspection Tips for Sellers
-date: 2017-10-05 09:42:11
+date: 2017-10-05 09:42:00
 tags:
   - Home Seller Tips
 excerpt: >-
   Home inspections aren’t just for buyers. There are a few reasons why you
   should order an inspection before your home hits the market.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/Oct/Mississippi+Gulf+Coast+Real+Estate+Agent-+Why+Order+an+Inspection+Before+Listing%253F.mp4
 pullquote: Take care of all necessary repairs before your home hits the market.
 enclosure_type: video/mp4
 enclosure_time:
