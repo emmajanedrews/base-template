@@ -25,11 +25,11 @@ We get this question all the time from both buyers and sellers: How long does it
 
 **The average timeframe to close a transaction is between 45 to 60 days.**
 
-**Now, there are many factors that can affect a closing date. The biggest one can be the type of financing that you’re doing on a property.** FHA or VA financing can take longer than conventional financing; there are longer and more stringent requirements for the appraisal and underwriting process.
+**Now, there are many factors that can affect a closing date. The biggest one can be the type of financing that you’re doing on a property.** FHA or VA financing can take longer than conventional financing; there are longer and more stringent requirements for the appraisal and underwriting processes.
 
 With FHA and VA financing, the appraiser will dig a little deeper than normal to make sure that everything is taken care of on the property, so that the buyer can move in without being burdened with repairs.
 
-Another kind of buyer you’ll see is a cash buyer or investor. These buyers may able to close as fast as 10 days. We’ve even seen investors come in and ask the seller to pick a closing date, which is a great option for some sellers who need the flexibility of a closing date that works for them. As long as the other terms work for an investor, you can see the time to close vary between 10 days and six months.
+Another kind of buyer you’ll see is a cash buyer or investor. These buyers may able to close within 10 days. We’ve even seen investors come in and ask the seller to pick a closing date, which is a great option for some sellers who need the flexibility of a closing date that works for them. As long as the other terms work for an investor, you can see the time to close vary between 10 days and six months.
 
 {% include pullquote.html %}
 
