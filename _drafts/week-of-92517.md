@@ -1,8 +1,139 @@
 ---
 layout: post
 title: Week of 9/25/17
-excerpt: This week's Top Performing Emails were sent by
+excerpt: >-
+  This week's Top Performing Emails were sent by Seth & Alice Dailey, Breanne
+  Steen, Justin Udy, Scott Hollinger, and Melida Potts
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: uroJAXaza6c
 ---
+
+
+### Seth & Alyce Dailey -&nbsp;[Helping Those Impacted by Harvey](http://p0.vresp.com/mm2MKO)
+
+Sent to: 5017 | Open: 32.21 | Click: 1.91
+
+### Breanne Steen -&nbsp;[Questions - Plain Text](http://p0.vresp.com/hySWKW)
+
+Sent to: 2019 | Open: 26.99 | Click: 0.74
+
+### Justin Udy -&nbsp;[3 Questions to Ask Yourself Before Joining a Team](http://p0.vresp.com/zxJ7Gy)
+
+Sent to: 2100 | Open: 25.62 | Click: 3.86
+
+### Scott Hollinger -&nbsp;[Hesitating on the right home can be a mistake](http://p0.vresp.com/KEQMNY)
+
+Sent to : 1863 | Open: 22.28 | Click: 3.27
+
+### Melida Potts -&nbsp;[Questions - Plain Text](http://p0.vresp.com/MzrD1C)
+
+Sent to: 1656 | Open: 19.32 | Click: 0.06
+
+Melinda Elmer - 5 ways to invest in real estate
+
+David Shutler - Debunking 2 major fitness myths
+
+John Simmonds - How to Maintain Your Pool During the Hurricane
+
+Anne-Marie McCormick - Market Update
+
+Jeremy Larkin - Career Opportunity with The Larkin Group!
+
+Jay White - Market update
+
+Gene Agustin - The difference between pre-approval and pre-qualification
+
+Mike Roth - Should You Trust Zillow With Your Home’s Value?
+
+Blaine Moore - Buying New Home Construction? Beware of These Agent Tricks
+
+Dan Ihara - Helping Those Impacted by Harvey
+
+Bill Black - 770 Acre Dam Site
+
+Aaron Hendon - Is Seattle in a Bubble? Part II
+
+Karen & Joe Donovan (Tampa Bay)
+
+Monique Walker - A New Arcadia-Lite Listing!
+
+David Rosen - What Are the Most Important Elements in a Property?
+
+Christal Johnson - The Tale of 2 Home Inspections
+
+Rodney & Jenn Wallner - Fall/Winter Preperations
+
+Chase Craig - Reconnect - Plain Text
+
+O.K Hogan - What Makes Today's Market So Great to List In?
+
+Chad Smith - 4 Things to Consider When Buying New Construction
+
+Shannon Rollings - Humanitree Juice Bar
+
+Thom Dallman - Core Group RealtyDon’t miss these fall listing tips
+
+Jesse Myles - Don’t Trust a Zestimate
+
+Tim Majka - 5 Ways to Surge Ahead of Competitors in this Hot Market
+
+Lee Tessier - How Can Renovations Affect Your Home Value?
+
+Chip Glennon - Market Update
+
+Christine Browning - The Role of Appraisals in Home Selling
+
+Jon Carbutti - Don’t Start Your Home Search Without Meeting With a Buyer’s Agent First
+
+Jodie Osofsky - Rounding Out the Top 10 Trends at Salt Lake Creative Homes
+
+Shawn Culhane - The Loan Officer Is Key to Closing on Your Home
+
+Todd Martin - Back-up Offers
+
+(ASI) Aesthetic Surgical Images - Strech marks
+
+Kelly Cook - 5 Ways You Can Invest in Real Estate
+
+Caleb Pearson - 5 Real Estate Investments
+
+Michael Perna - Harvey and Irma Victims still need us!!
+
+Bob Sokoler - How Did Our Market Fare in the Month of August?
+
+Jennifer Niederbrach - Zillow Lawsuit
+
+Jennie Wolek - Grogg’s Green Barn
+
+Christy Morrison - 5 reasons to list your home this fall
+
+Travis Chatwin - Will changes in our local market affect you?
+
+Becky Ivins - Getting your offer accepted
+
+Josh Heneveld - Trusting Zillow could be a mistake
+
+Dave Heeter - Market Update
+
+Philipp Fries - Think twice before skipping flood insurance
+
+Ryan Hummel - Alleviate lower back pain
+
+Erik Winegarden - Who pays the commission?
+
+Jack Barry - Will we see you at any of these events?
+
+Shane Neal - Our Red Relief program is here to help
+
+Art Lickunas - What an agent truly earns
+
+Jason McIntosh - For Sale By Owner
+
+Randy Plaice - Fall is a great time to sell your home
+
+Greg & Wendy Kime - Renting a home vs. owning one
+
+Greg Ismay - The new place you can find our newsletter
+
+Jason Morris - Do you need flood insurance?
