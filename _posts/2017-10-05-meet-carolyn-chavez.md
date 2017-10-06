@@ -46,6 +46,6 @@ My tenacity is one thing that sets me apart. People have described me as a dog w
 
 **What is one of your favorite client stories?**
 
-I have one client who I ran into at a Tony Robbins seminar a few months back in L.A. We had already established a business relationship and friendship, but it was great to get to see her outside of the business world. Since then, we’ve developed a deeper friendship and continue to keep in touch. I always feel tickled pink knowing that this relationship happened off of a sign call. It’s amazing what can happen in this industry when you’re open and eager to building relationships.
+I have one client who I ran into at a Tony Robbins seminar a few months back in L.A. We had already established a business relationship and friendship, but it was great to get to see her outside of the business world. Since then, we’ve developed a deeper friendship and continue to keep in touch. I always feel tickled pink knowing that this relationship happened off of a sign call. It’s amazing what can happen in this industry when you’re open and eager to build relationships.
 
 Thanks to Carolyn for spending some time with us. If you have any questions for us in the meantime about KW or what it’s like to work here, give us a call or send us an email. We look forward to hearing from you.
