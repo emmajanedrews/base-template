@@ -24,8 +24,8 @@ When Bryce was looking for a location for his restaurant, he wanted something un
 
 {% include pullquote.html %}
 
-The menu is as diverse as it is delicious. For breakfast, Bryce recommends the Hillbilly Benedict. It consists of a fried gouda grit cake, topped with a fried chicken breast, a poached egg, and hollandaise. For lunch, their shrimp and grits is the way to go. **Gouda grits, blackened shrimp, and a delicious red-eye gravy to top it off.**It’s fantastic.
+The menu is as diverse as it is delicious. For breakfast, Bryce recommends the Hillbilly Benedict. It consists of a fried gouda grit cake, topped with a fried chicken breast, a poached egg, and hollandaise. For lunch, their shrimp and grits is the way to go. **Gouda grits, blackened shrimp, and a delicious red-eye gravy to top it off.&nbsp;**It’s fantastic.
 
-Sunset Bay Cafe is located right on the Sandestin Golf and Beach Resort inside of the Linkside Conference Center at 158 Sandestin Blvd. N. You can learn plenty more about them at [www.sunsetbaycafesandestin.com.](http://www.sunsetbaycafesandestin.com/)
+Sunset Bay Cafe is located right on the Sandestin Golf and Beach Resort inside of the Linkside Conference Center at 158 Sandestin Boulevard N. You can learn plenty more about them at [www.sunsetbaycafesandestin.com.](http://www.sunsetbaycafesandestin.com/)
 
 In the meantime, if you have any real estate needs we can help fulfill or any questions at all, don’t hesitate to reach out and give us a call or send us an email. We look forward to hearing from you.
