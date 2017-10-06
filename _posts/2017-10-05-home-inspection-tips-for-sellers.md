@@ -27,7 +27,7 @@ The No. 1 reason to get an inspection before listing your home is that you can t
 
 Every home inspector is a little different. One may find something that another one doesn’t, but you can get most of those repairs taken care of. If there are any major repairs, you can get most of that done on your own time prior to getting an offer.
 
-Now, if you get a great offer on your house without taking care of the inspections and repairs, then the buyer will order their own inspection. I’ve seen many buyers get scared off by an inspection report because they cannot deal with the number of repairs.
+Now, if you get a great offer on your house without taking care of the inspections and repairs, then the buyer will order their own inspection. On occasion, we see buyers get scared off by an inspection report because they cannot deal with the number of repairs.
 
 {% include pullquote.html %}
 
