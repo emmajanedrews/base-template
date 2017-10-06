@@ -26,9 +26,9 @@ How can you buy a home with no money down? There are a few different options.
 
 If you are not a veteran, there are two ways you can purchase a home with no money down:
 
-1. Find a lender that can help you with an **FHA down payment assistance program.**
+1.) Find a lender that can help you with an **FHA down payment assistance program.**
 
-2. If you are buying in a rural area, you can apply for a **USDA loan**, which provides 100% financing.
+2.) If you are buying in a rural area, you can apply for a **USDA loan**, which provides 100% financing.
 
 {% include pullquote.html %}
 
