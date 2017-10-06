@@ -21,7 +21,7 @@ youtube_code: 6ramSfy3aMo
 
 What are a home’s four “L’s?”
 
-Before we get to that, I’d like to go over something I often ask my buyers to think about. When I sit down with clients, I like to ask them what their “must-haves” and “would-be-nices” are.** Must-haves are non-negotiable items, like the number of bedrooms or bathrooms they want in a home.**
+Before we get to that, I’d like to go over something I often ask my buyers to think about. When I sit down with clients, I like to ask them what their “must-haves” and “would-be-nices” are. **Must-haves are non-negotiable items, like the number of bedrooms or bathrooms they want in a home.**
 
 Would-be-nices are items like hardwood flooring, or other negotiable features.
 
