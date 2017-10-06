@@ -30,8 +30,8 @@ If you are not a veteran, there are two ways you can purchase a home with no mon
 
 2. If you are buying in a rural area, you can apply for a **USDA loan**, which provides 100% financing.
 
+{% include pullquote.html %}
+
 Those are just a few ways to purchase a home with little to no money down.
 
 If you have any other questions about buying a home, just give me a call or send me an email. I would be happy to help you!
-
-{% include pullquote.html %}
