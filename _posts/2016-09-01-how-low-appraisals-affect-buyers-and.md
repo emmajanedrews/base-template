@@ -1,7 +1,7 @@
 ---
 youtube_code: 5Jmr5xoJU0U
 excerpt:
-enclosure: 5Jmr5xoJU0U
+enclosure: https://s3.amazonaws.com/vyralmarketing/Josh+Lioce/Milford+MA+Real+Estate+Agent-+What+happens+when+an+appraisal+comes+in+low%253F.mp4
 pullquote: THE BUYER AND SELLER CAN NEGOTIATE THE DIFFERENCE BETWEEN THE APPRAISAL AND THE SALE PRICE.
 enclosure_type: video/mp4
 enclosure_time:

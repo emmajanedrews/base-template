@@ -3,10 +3,10 @@
   <channel>
     <title>-- CLIENT BRAND --</title>
     <description>Our mission at Lioce Properties Inc. is to be your best resource for Milford real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Lioce Properties Inc., your professional Milford Real Estate Agents.</description>
-    <link>localhost:4000/</link>
-    <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 Oct 2017 15:10:14 -0500</pubDate>
-    <lastBuildDate>Fri, 06 Oct 2017 15:10:14 -0500</lastBuildDate>
+    <link>http://lioceteamblog.com/</link>
+    <atom:link href="http://lioceteamblog.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 06 Oct 2017 15:19:17 -0500</pubDate>
+    <lastBuildDate>Fri, 06 Oct 2017 15:19:17 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -26,7 +26,7 @@
 
 &lt;p&gt;Before you do, &lt;strong&gt;make sure to scrape off the old paint in places where it might cause unsightly texture beneath the fresh coat.&lt;/strong&gt; Take your time when power washing, too.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=A LITTLE FRESH PAINT CAN GO A LONG WAY.%20localhost:4000/how-can-you-increase-your-homes-curb.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“A LITTLE FRESH PAINT CAN GO A LONG WAY.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=A LITTLE FRESH PAINT CAN GO A LONG WAY.%20http://lioceteamblog.com/how-can-you-increase-your-homes-curb.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“A LITTLE FRESH PAINT CAN GO A LONG WAY.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;But what if it’s your yard that is lacking luster? If you have an upcoming home showing and lack the time to mulch, you still have options. Getting already potted plants to put outside your home can add a lot of vibrancy to your home’s curb appeal.&lt;/p&gt;
 
@@ -39,8 +39,8 @@
 &lt;p&gt;If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.&lt;/p&gt;
 </description>
         <pubDate>Tue, 05 Sep 2017 13:53:00 -0500</pubDate>
-        <link>localhost:4000/how-can-you-increase-your-homes-curb.html</link>
-        <guid isPermaLink="true">localhost:4000/how-can-you-increase-your-homes-curb.html</guid>
+        <link>http://lioceteamblog.com/how-can-you-increase-your-homes-curb.html</link>
+        <guid isPermaLink="true">http://lioceteamblog.com/how-can-you-increase-your-homes-curb.html</guid>
         
         <category>Home Seller Tips</category>
         
@@ -64,7 +64,7 @@
 
 &lt;p&gt;&lt;strong&gt;3. What are the rules?&lt;/strong&gt; Understanding those rules and regulations will help you make a better decision about the neighborhood you’re moving into. Sometimes it will be in regards to what facilities you can use and when they’re open. Other times it will be about which days you can set out your trash, where you can park specific vehicles (or if you can park commercial vehicles in the driveway at all), and other regulations. If you don’t follow the HOA rules, then it could result in fines or expulsion from the HOA.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=UNDERSTANDING THOSE RULES AND REGULATIONS WILL HELP YOU MAKE A BETTER DECISION ABOUT THE NEIGHBORHOOD YOU’RE MOVING INTO.%20localhost:4000/5-things-you-need-to-know-if-youre.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“UNDERSTANDING THOSE RULES AND REGULATIONS WILL HELP YOU MAKE A BETTER DECISION ABOUT THE NEIGHBORHOOD YOU’RE MOVING INTO.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=UNDERSTANDING THOSE RULES AND REGULATIONS WILL HELP YOU MAKE A BETTER DECISION ABOUT THE NEIGHBORHOOD YOU’RE MOVING INTO.%20http://lioceteamblog.com/5-things-you-need-to-know-if-youre.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“UNDERSTANDING THOSE RULES AND REGULATIONS WILL HELP YOU MAKE A BETTER DECISION ABOUT THE NEIGHBORHOOD YOU’RE MOVING INTO.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;4. Are you happy with the way a property looks?&lt;/strong&gt; When you’re buying a property with an HOA, you more than likely won’t have control over certain things, like the colors of the house or front door, what can be hung from the porch, or if you can have a screen door. Make sure that you like the way everything looks when you buy your property, because you may not be able to change it.&lt;/p&gt;
 
@@ -73,8 +73,8 @@
 &lt;p&gt;Be sure to consider these things carefully before purchasing a home. If you have any additional questions or you’re looking to buy or sell a home, please give me a call. I’d be happy to help!&lt;/p&gt;
 </description>
         <pubDate>Tue, 22 Aug 2017 13:49:00 -0500</pubDate>
-        <link>localhost:4000/5-things-you-need-to-know-if-youre.html</link>
-        <guid isPermaLink="true">localhost:4000/5-things-you-need-to-know-if-youre.html</guid>
+        <link>http://lioceteamblog.com/5-things-you-need-to-know-if-youre.html</link>
+        <guid isPermaLink="true">http://lioceteamblog.com/5-things-you-need-to-know-if-youre.html</guid>
         
         <category>Home Buying Tips</category>
         
@@ -98,7 +98,7 @@
 
 &lt;p&gt;Third, watch out for the lowball bid. I’ve seen many instances of movers giving a person an extremely low bid, only to up their prices once the move starts. If something seems too good to be true, it typically is.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=DON’T JUST LOOK IN THE PHONE BOOK FOR THE CHEAPEST PERSON.%20localhost:4000/5-tips-to-protect-yourself-during-your.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“DON’T JUST LOOK IN THE PHONE BOOK FOR THE CHEAPEST PERSON.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=DON’T JUST LOOK IN THE PHONE BOOK FOR THE CHEAPEST PERSON.%20http://lioceteamblog.com/5-tips-to-protect-yourself-during-your.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“DON’T JUST LOOK IN THE PHONE BOOK FOR THE CHEAPEST PERSON.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Fourth, have a contingency plan. I always tell people to move out the day before their closing happens. That way if something unplanned happens, like the truck not showing up on time or not showing up at all, you have a day to deal with it. Get out the day before, put your belongings in storage overnight, and relieve some stress knowing that everything is taken care of and ahead of schedule.&lt;/p&gt;
 
@@ -107,8 +107,8 @@
 &lt;p&gt;If you have any questions about how to protect yourself during your move or any other real estate topics you can think of, feel free to give me a call or shoot me an email. I’d be happy to help.&lt;/p&gt;
 </description>
         <pubDate>Tue, 08 Aug 2017 15:12:00 -0500</pubDate>
-        <link>localhost:4000/5-tips-to-protect-yourself-during-your.html</link>
-        <guid isPermaLink="true">localhost:4000/5-tips-to-protect-yourself-during-your.html</guid>
+        <link>http://lioceteamblog.com/5-tips-to-protect-yourself-during-your.html</link>
+        <guid isPermaLink="true">http://lioceteamblog.com/5-tips-to-protect-yourself-during-your.html</guid>
         
         <category>Home Buying Tips</category>
         
@@ -130,7 +130,7 @@
 
 &lt;p&gt;&lt;strong&gt;2. Amp up your marketing&lt;/strong&gt;: The days of agents or homeowners taking their own marketing photos are long gone. Hire a professional photographer to shoot the home whether it costs $100,000 or $1 million. This is a must because of their ability to get the most out of the lighting, the angles, and the skyline. Many people make real estate decisions based on the photos they see online. Focus on social media as well; Facebook, LinkedIn, and Twitter should all give your property exposure. It will generate more activity on the home.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=THE DAYS OF REALTORS TAKING PHOTOS OF HOMES ARE LONG GONE.%20localhost:4000/4-things-that-can-make-or-break-your.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“THE DAYS OF REALTORS TAKING PHOTOS OF HOMES ARE LONG GONE.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=THE DAYS OF REALTORS TAKING PHOTOS OF HOMES ARE LONG GONE.%20http://lioceteamblog.com/4-things-that-can-make-or-break-your.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“THE DAYS OF REALTORS TAKING PHOTOS OF HOMES ARE LONG GONE.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;3. Staging&lt;/strong&gt;: I don’t necessarily mean hiring a stager to advise you, but to instead use what you have and take a decluttering approach. Make sure you remove all the extra stuff and make sure you utilize what’s available in each room. You want to stage the property by opening up floor space to showcase square footage. It will not only improve the home’s photography, it will help buyers gets a better feel for the space.&lt;/p&gt;
 
@@ -139,8 +139,8 @@
 &lt;p&gt;I hope you found this information helpful. If you have any questions or you’re thinking of buying or selling a home here in the Milford market, give me a call or send me an email soon. I’d be happy to help.&lt;/p&gt;
 </description>
         <pubDate>Thu, 06 Jul 2017 13:29:00 -0500</pubDate>
-        <link>localhost:4000/4-things-that-can-make-or-break-your.html</link>
-        <guid isPermaLink="true">localhost:4000/4-things-that-can-make-or-break-your.html</guid>
+        <link>http://lioceteamblog.com/4-things-that-can-make-or-break-your.html</link>
+        <guid isPermaLink="true">http://lioceteamblog.com/4-things-that-can-make-or-break-your.html</guid>
         
         <category>Home Seller Tips</category>
         
@@ -162,7 +162,7 @@
 
 &lt;p&gt;&lt;strong&gt;2. The tenant situation&lt;/strong&gt;: Is there a lease in place with existing tenants? How long have they been there? What’s their rental history? You also want to understand the management aspect and any issues a management company has faced, like tenants who have been late paying rent. This will help you understand what you’re buying and avoid buying into a bad rental situation.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=THE PERFECT PROPERTY WITH NO ISSUES OR FUTURE DEFERRED MAINTENANCE DOESN'T EXIST.%20localhost:4000/4-key-factors-in-determining-in.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“THE PERFECT PROPERTY WITH NO ISSUES OR FUTURE DEFERRED MAINTENANCE DOESN’T EXIST.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=THE PERFECT PROPERTY WITH NO ISSUES OR FUTURE DEFERRED MAINTENANCE DOESN'T EXIST.%20http://lioceteamblog.com/4-key-factors-in-determining-in.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“THE PERFECT PROPERTY WITH NO ISSUES OR FUTURE DEFERRED MAINTENANCE DOESN’T EXIST.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;3. Condition of the property&lt;/strong&gt;: You won’t find a property that’s perfect with everything ready to roll that lets you sit back for 30 years and enjoy the rental income because it doesn’t exist. Issues will always come up, so it’s important to understand what needs to be done in the short term and what you should be prepared to shell out some cash for. For example, needing a new roof obviously isn’t ideal, but it won’t disrupt the building. On the other hand, if the plumbing needs to be replaced, it will be both a huge expense and disruptive since you’ll have to tear into the units and common areas of a rental property. You might even need to have a vacant building if any tenants are displaced by issues like this.&lt;/p&gt;
 
@@ -171,8 +171,8 @@
 &lt;p&gt;If you have any questions about owning investment properties or you’re considering buying one, don’t hesitate to give me a call or send me an email. I’m always glad to help!&lt;/p&gt;
 </description>
         <pubDate>Thu, 22 Jun 2017 13:02:00 -0500</pubDate>
-        <link>localhost:4000/4-key-factors-in-determining-in.html</link>
-        <guid isPermaLink="true">localhost:4000/4-key-factors-in-determining-in.html</guid>
+        <link>http://lioceteamblog.com/4-key-factors-in-determining-in.html</link>
+        <guid isPermaLink="true">http://lioceteamblog.com/4-key-factors-in-determining-in.html</guid>
         
         <category>Home Buying Tips</category>
         
@@ -196,7 +196,7 @@
 
 &lt;p&gt;Third, &lt;strong&gt;check the condition of your fences.&lt;/strong&gt; This is especially important if you have a wooden fence, as wood is more prone to take a beating over the winter. Make sure no pieces have fallen off, and if they have, tack them back on securely. From an aesthetic standpoint, another thing you can do to those wooden stockades or wooden picket fences is power wash them. This will make it look like it did the day you installed it.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=THE SEASON IS UPON US TO GRILL AND BARBECUE.%20localhost:4000/get-your-home-ready-for-summer-with.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“THE SEASON IS UPON US TO GRILL AND BARBECUE.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=THE SEASON IS UPON US TO GRILL AND BARBECUE.%20http://lioceteamblog.com/get-your-home-ready-for-summer-with.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“THE SEASON IS UPON US TO GRILL AND BARBECUE.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Fourth, &lt;strong&gt;mulch your flower and vegetable beds.&lt;/strong&gt; You may be a few steps ahead of me with this tip. Personally, I like to wait to address my mulch beds until as late as early June. Make sure your flower and vegetable beds are getting enough water and you continue to weed them.&lt;/p&gt;
 
@@ -205,8 +205,8 @@
 &lt;p&gt;If you have any questions about how to get your home ready for summer or you’re thinking about buying or selling a home, don’t hesitate to give me a call or shoot me an email. I look forward to speaking with you.&lt;/p&gt;
 </description>
         <pubDate>Wed, 07 Jun 2017 14:28:00 -0500</pubDate>
-        <link>localhost:4000/get-your-home-ready-for-summer-with.html</link>
-        <guid isPermaLink="true">localhost:4000/get-your-home-ready-for-summer-with.html</guid>
+        <link>http://lioceteamblog.com/get-your-home-ready-for-summer-with.html</link>
+        <guid isPermaLink="true">http://lioceteamblog.com/get-your-home-ready-for-summer-with.html</guid>
         
         <category>Home Selling Tips</category>
         
@@ -232,13 +232,13 @@
 
 &lt;p&gt;&lt;strong&gt;4. Avoid making rooms specific to your style or use&lt;/strong&gt;: For example, don’t turn a bedroom into a dressing room or a photography darkroom. If you turn any spaces into a specific functioning space, make sure it is easy to convert it back or make it appear very neutral.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=YOU CAN'T CHANGE THE SIZE OF YOUR YARD, BUT YOU CAN MAKE IT INVITING.%20localhost:4000/4-ways-to-make-your-home-stand-out-to.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“YOU CAN’T CHANGE THE SIZE OF YOUR YARD, BUT YOU CAN MAKE IT INVITING.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=YOU CAN'T CHANGE THE SIZE OF YOUR YARD, BUT YOU CAN MAKE IT INVITING.%20http://lioceteamblog.com/4-ways-to-make-your-home-stand-out-to.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“YOU CAN’T CHANGE THE SIZE OF YOUR YARD, BUT YOU CAN MAKE IT INVITING.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Remember, you want to set your house up in a way that you enjoy, but you don’t want anything so permanent that it can’t be changed back. If you have any other questions about appealing your home to buyers or you’re thinking of buying or selling a home here in the Milford area, give me a call or send me an email. I’m here to help!&lt;/p&gt;
 </description>
         <pubDate>Wed, 24 May 2017 10:22:00 -0500</pubDate>
-        <link>localhost:4000/4-ways-to-make-your-home-stand-out-to.html</link>
-        <guid isPermaLink="true">localhost:4000/4-ways-to-make-your-home-stand-out-to.html</guid>
+        <link>http://lioceteamblog.com/4-ways-to-make-your-home-stand-out-to.html</link>
+        <guid isPermaLink="true">http://lioceteamblog.com/4-ways-to-make-your-home-stand-out-to.html</guid>
         
         <category>Home Selling Tips</category>
         
@@ -260,7 +260,7 @@
 
 &lt;p&gt;&lt;strong&gt;2. Make sure your Realtor can help you prepare your home for sale&lt;/strong&gt;: The preparation isn’t necessarily about staging, but using what you have and focusing on opening up the space, cleaning it as well as you can, and making it feel as big as possible. People focus on square footage and floor space.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=BUYERS FOCUS ON SQUARE FOOTAGE AND FLOOR SPACE.%20localhost:4000/selling-your-first-home-follow-these-4.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“BUYERS FOCUS ON SQUARE FOOTAGE AND FLOOR SPACE.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=BUYERS FOCUS ON SQUARE FOOTAGE AND FLOOR SPACE.%20http://lioceteamblog.com/selling-your-first-home-follow-these-4.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“BUYERS FOCUS ON SQUARE FOOTAGE AND FLOOR SPACE.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;3. Be flexible with showings&lt;/strong&gt;: Do your best to be available to leave the home if you work from home or have kids. The more open you are to showings, the quicker your home will sell.&lt;/p&gt;
 
@@ -269,8 +269,8 @@
 &lt;p&gt;If you have any other questions about selling a home, don’t hesitate to give me a call or send me an email. I’m always happy to help!&lt;/p&gt;
 </description>
         <pubDate>Mon, 08 May 2017 15:51:00 -0500</pubDate>
-        <link>localhost:4000/selling-your-first-home-follow-these-4.html</link>
-        <guid isPermaLink="true">localhost:4000/selling-your-first-home-follow-these-4.html</guid>
+        <link>http://lioceteamblog.com/selling-your-first-home-follow-these-4.html</link>
+        <guid isPermaLink="true">http://lioceteamblog.com/selling-your-first-home-follow-these-4.html</guid>
         
         
       </item>
@@ -292,7 +292,7 @@
 
 &lt;p&gt;&lt;strong&gt;3. Your social circle is going to expand&lt;/strong&gt;. You’re part of a community now, so get to know it! Say hi to people when taking out your trash or working in the yard and you’ll start to build lifelong friendships.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=IT MIGHT BE YOUR DISHWASHER OR PERHAPS YOUR A/C, BUT SOMETHING IS GOING TO BREAK.%20localhost:4000/5-things-you-can-expect-during-your.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“IT MIGHT BE YOUR DISHWASHER OR PERHAPS YOUR A/C, BUT SOMETHING IS GOING TO BREAK.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=IT MIGHT BE YOUR DISHWASHER OR PERHAPS YOUR A/C, BUT SOMETHING IS GOING TO BREAK.%20http://lioceteamblog.com/5-things-you-can-expect-during-your.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“IT MIGHT BE YOUR DISHWASHER OR PERHAPS YOUR A/C, BUT SOMETHING IS GOING TO BREAK.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;4. Your dreams will meet reality&lt;/strong&gt;. You might have some great plans to add on a sunroom or embark on a grand remodel, but you’ll realize those plans might have to take a back seat for awhile. It costs a lot of money to furnish a home, and having beds for the bedrooms and living room furniture for the living room is going to be a priority over that sunroom.&lt;/p&gt;
 
@@ -301,8 +301,8 @@
 &lt;p&gt;If you have any other questions about what to expect during your first year of homeownership, or if you are looking to buy or sell a home, please feel free to give me a call or send me an email. I look forward to hearing from you!&lt;/p&gt;
 </description>
         <pubDate>Fri, 21 Apr 2017 13:39:00 -0500</pubDate>
-        <link>localhost:4000/5-things-you-can-expect-during-your.html</link>
-        <guid isPermaLink="true">localhost:4000/5-things-you-can-expect-during-your.html</guid>
+        <link>http://lioceteamblog.com/5-things-you-can-expect-during-your.html</link>
+        <guid isPermaLink="true">http://lioceteamblog.com/5-things-you-can-expect-during-your.html</guid>
         
         <category>Home Buying Tips</category>
         
@@ -326,7 +326,7 @@
 
 &lt;p&gt;&lt;strong&gt;3. Can I bring in my food?&lt;/strong&gt; No. Never bring in food during a showing.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=NEVER TAKE A SELFIE WITH A PROPERTY.%20localhost:4000/the-proper-etiquette-when-attending.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“NEVER TAKE A SELFIE WITH A PROPERTY.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=NEVER TAKE A SELFIE WITH A PROPERTY.%20http://lioceteamblog.com/the-proper-etiquette-when-attending.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“NEVER TAKE A SELFIE WITH A PROPERTY.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;4. Can I peek in the closet?&lt;/strong&gt; Of course! You’re looking at the home with the possibility of purchasing it, which means you need to know what sort of space the home offers. Just remember to be mindful when peering into personal spaces. For example, don’t open the drawers of dressers or go through anything that won’t be staying with the property. Also, on the subject of respecting privacy and personal space, never take a selfie with the property.&lt;/p&gt;
 
@@ -335,8 +335,8 @@
 &lt;p&gt;If you are looking to buy or sell a home, or if you have any other questions, please feel free to give me a call or send me an email. I look forward to hearing from you!&lt;/p&gt;
 </description>
         <pubDate>Wed, 22 Mar 2017 13:18:00 -0500</pubDate>
-        <link>localhost:4000/the-proper-etiquette-when-attending.html</link>
-        <guid isPermaLink="true">localhost:4000/the-proper-etiquette-when-attending.html</guid>
+        <link>http://lioceteamblog.com/the-proper-etiquette-when-attending.html</link>
+        <guid isPermaLink="true">http://lioceteamblog.com/the-proper-etiquette-when-attending.html</guid>
         
         <category>Home Buying Tips</category>
         
