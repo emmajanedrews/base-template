@@ -4,7 +4,7 @@ title: Radio Show
 permalink: /radio-show/
 ---
 
- <iframe width="300" height="400" src="https://www.iheart.com/podcast/486-Treu-Group-Real-Estate-Wee-28236878/episode/listing-for-success-28507438/?embed=true" frameborder="0"></iframe>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/345632641&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 <hr>
 
