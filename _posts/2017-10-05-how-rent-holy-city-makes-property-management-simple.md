@@ -33,7 +33,7 @@ Additionally, Rent Holy City’s specialists will get in touch with any potentia
 
 {% include pullquote.html %}
 
-So, how does the accounting side of things work? If you choose to work with Rent Holy City , you will have access to their experienced accounting team and easy-to-use online portals. The **online portals allow tenants to pay their rent digitally, and also allows Rent Holy City to pay you,** the property’s owner, each month.&nbsp;
+So, how does the accounting side of things work? If you choose to work with Rent Holy City, you will have access to their experienced accounting team and easy-to-use online portals. The **online portals allow tenants to pay their rent digitally, and also allows Rent Holy City to pay you,** the property’s owner, each month.&nbsp;
 
 Truly, Rent Holy City makes property management hassle-free for the owner. They have many great systems in place which can be tailored to meet your needs. Rent Holy City can even help owners who are operating from afar. If you have relocated, they will be happy to perform property checkups for you.&nbsp;
 
