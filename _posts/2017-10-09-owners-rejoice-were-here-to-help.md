@@ -27,7 +27,7 @@ We have two reasons to be in your house: **to protect your home and to put money
 
 I live by those models, and I make all my decisions based on those two reasons to be in your home and manage your home.
 
-If you do decide to use us,** one of the things we do is a walk-through.** If we allow pets in your home, we will walk through the house every four months. We’ll get a picture of the pet and send it to you and get your approval before we even consider putting the pet in your home. If there is no pet (or a pet like a fish that won’t affect the flooring), we’ll come through every six months.
+If you do decide to use us, **one of the things we do is a walkthrough.**&nbsp;If we allow pets in your home, we will walk through the house every four months. We’ll get a picture of the pet and send it to you and get your approval before we even consider putting the pet in your home. If there is no pet (or a pet like a fish that won’t affect the flooring), we’ll come through every six months.
 
 {% include pullquote.html %}
 
