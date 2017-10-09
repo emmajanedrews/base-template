@@ -3,7 +3,6 @@ layout: post
 title: Read These 3 Books to Improve Your Business and Yourself
 date: 2017-10-09 13:51:00
 tags:
-  - Real Estate
 excerpt: >-
   Our agents regularly meet to discuss books we’ve read that have impacted our
   lives and our businesses. Here are three that I recommend.
