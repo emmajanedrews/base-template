@@ -30,11 +30,11 @@ The inspector not only finds things that are wrong, they also educate the buyer 
 
 {% include pullquote.html %}
 
-Once buyers know what’s wrong, they may start thinking about what they can realistically expect the seller to take care of. The level to which a seller might comply to these expectations can really vary.
+Once buyers know what’s wrong, they may start thinking about what they can realistically expect the seller to take care of. The level to which a seller might comply with these expectations can really vary.
 
 If a home has been sitting on the market for a while, a seller might be more willing to take care of more items. Ultimately, it’s all about negotiation. **Buyers and their agents can ask for repairs, but should know that the seller doesn’t have to agree.**
 
-If the seller doesn’t agree to fix something, the buyer may terminate and receive a refund. The important thing is to know that you can’t force the seller’s hand. They may have a backup offer in their pocket. It’s important to weigh your options before pulling out of a deal.
+If the seller doesn’t agree to fix something, the buyer may terminate the contract and receive a refund. The important thing is to know that you can’t force the seller’s hand. They may have a backup offer in their pocket. It’s important to weigh your options before pulling out of a deal.
 
 The inspection could scare you, but the right agent is going to be able to tell you what is normal and what isn’t. Agents like myself will also be able to provide you with access to a large network of quality vendors who can help. With the right person by your side, inspections don’t need to be scary.
 
