@@ -28,4 +28,6 @@ But we need to hear from you in order to have a pumpkin ready for you! RSVP usin
 
 We look forward to seeing you on pumpkin pickup day!
 
+For pumpkin carving ideas, check out our Pinterest board:&nbsp;[https://www.pinterest.com/carterpropgroup/pumpkin-carving-ideas/](https://www.pinterest.com/carterpropgroup/pumpkin-carving-ideas/)
+
 If you have any questions, don’t hesitate to reach out to us. We’d be glad to help you.
