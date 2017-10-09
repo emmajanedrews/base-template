@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Read These 3 Books to Improve Your Business and Yourself
-date: 2017-10-09 13:51:47
+date: 2017-10-09 13:51:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,8 +14,9 @@ pullquote: >-
   happy to lend you one.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: >-
+  /uploads/robellis-screenshot-tube-01-01-01-01-01-01-01-01-01-01-01-01-01-01.jpg
 youtube_code: BTJkR_ehX6s
 ---
 
@@ -28,7 +29,7 @@ One of the things that we at The REllis Group do as a team is, every single quar
 
 **The first book is called “The Go-Giver” by Bob Burg**, which talks about the five principles of a giving attitude. It’s an easy read—I actually read it in a night, but it’s a very good read that discusses how focusing on giving, rather than taking and trying to see what you can gain from a certain situation, can really impact someone’s life and your business.
 
-The second book that I’ve passed along to other agents is **“The Millionaire Real Estate Investor.”** Having that investment mindset is really critical to being a great agent, in my opinion. We sell a lot of multi-family investments, work with flippers, and all types of people. We also like to work with clients that have a little bit of financial sense—after they buy properties and make repairs, we help them prepare for the future by looking at trends from the past couple years.&nbsp;
+The second book that I’ve passed along to other agents is **“The Millionaire Real Estate Investor.”** Having that investment mindset is really critical to being a great agent, in my opinion. We sell a lot of multi-family investments, work with flippers, and all types of people. We also like to work with clients that have a little bit of financial sense—after they buy properties and make repairs, we help them prepare for the future by looking at trends from the past couple years.
 
 {% include pullquote.html %}
 
