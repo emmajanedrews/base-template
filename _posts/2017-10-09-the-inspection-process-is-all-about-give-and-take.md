@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Inspection Process Is All About Give and Take
-date: 2017-10-09 10:50:49
+date: 2017-10-09 10:50:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: aOq7UHYU-4
+youtube_code: aOq7UHYU-4w
 ---
 
 
