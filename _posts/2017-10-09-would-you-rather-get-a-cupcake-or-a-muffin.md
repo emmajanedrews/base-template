@@ -22,7 +22,7 @@ youtube_code: wfxiHxNox-c
 
 {% include youtube.html %}
 
-Working with the Treu Group Real Estate is like a cupcake. How?
+Working with Treu Group Real Estate is like a cupcake. How?
 
 If I baked a muffin and offered it to you, you would love and enjoy it. This represents what many agents do to get their client’s home sold, especially in a seller’s market. They may get you to the closing table, but the question is, “How much are you missing out on by having the muffin?”
 
