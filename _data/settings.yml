@@ -7,26 +7,26 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Mike Roth
   license_number:
   about_markdown: |
-
+    Over the last twelve months, we have closed over 190 transactions – compare this to the average real estate agent that sold less than four homes in the same period of time. More importantly, we are bringing our sellers an average of 96% or more of the asking price. This is all done on a timetable of 80 days that the home being on the market.  I’ve been in the real estate business for over 30 years and have closed over 3,500 deals. There hasn’t been a problem we’ve come across that we can’t solve in today’s market – especially in the challenging market we have today. We will also determine the best price that you can receive in this market. One of the biggest problems in this industry is the lack of communication between the seller and their agent. We have a dedicated team that will be available to you seven days a week. You can rest assured knowing that all of your questions will be answered and you will be updated through every step of the transaction. You also can expect Weekly Activity Reports that include how many hits your listing has gained from the internet, TV advertising, and feedback we’ve received from the buyers. When you’re ready to sell your home, give the Roth Team a call or send us an email.'
   market:
-  brand:
-  brokerage:
+  brand: The Roth Team
+  brokerage: Shorewest Realtors
   address:
-  phone:
-  phone_type:
-  phone2:
-  phone2_type:
-  email:
-  url:
+  phone: 262.797.6453
+  phone_type: Office
+  phone2: 262.798.1162
+  phone2_type: Direct
+  email: rothteam@shorewest.com
+  url: http://www.RothTeam.Shorewest.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.rothteam.shorewest.com/vp/AgentServlet?SITE=SHOREW&ScreenID=AGENT_WHATS_MY_HOME_WORTH&pres_agent=5281
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.rothteam.shorewest.com/vp/SearchServlet?SITE=SHOREW&ScreenID=AGENT_SEARCH_LISTING&pres_agent=5281
   VR_form:
 
 sidebar_CTA:
@@ -34,26 +34,27 @@ sidebar_CTA:
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free -- MARKET -- Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.rothteam.shorewest.com/vp/AgentServlet?SITE=SHOREW&ScreenID=AGENT_WHATS_MY_HOME_WORTH&pres_agent=5281
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://www.rothteam.shorewest.com/vp/SearchServlet?SITE=SHOREW&ScreenID=AGENT_SEARCH_LISTING&pres_agent=5281
 
 lender:
-  show_section: false
+  show_section: true
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
-  logo_path: /img/logo.png
-  logo_path_2:
-  name: Bill Murray
-  brand: Lender Co.
-  phone: 555-555-5555
-  email: bill@murray.com
-  url: http://eyegoop.com
+  headshot_path: /img/lender_headshot.jpg
+  logo_path: /img/lender_logo.png
+  # logo_path_2: /img/lender_logo2.png
+  name: Allan L. Ripple, CRMS
+  brand: JOHNSON BANK
+  phone: 414-852-7022
+  email: ARipple@JohnsonBank.com
+  license_number: NMLS# 552669
+  # url: http://eyegoop.com
 
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
@@ -66,17 +67,17 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/pages/Roth-Team-Real-Estate-Tips-Trends-Homes/136963786378401
+  linkedin_url: http://www.linkedin.com/in/rothteam1
+  gplus_url: https://plus.google.com/u/0/112410435343799616390
+  youtube_url: https://www.youtube.com/channel/UCO7jtl0aHG-tsEw6pX1hcaw
+  twitter_url: https://twitter.com/SellMilwaukee
   instagram_url:
   pinterest_url:
   zillow_url:
   trulia_url:
   yelp_url:
-  podcast_url:
+  podcast_url: https://itunes.apple.com/us/podcast/shorewest-greater-milwaukee/id911884769?mt=2
 
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
@@ -90,13 +91,13 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 60
   hero_text: -- MARKET -- Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
+  brand_color: '#273d90'
   theme_color: '#999'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
