@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Home Staging Tips That Will Have You Cashing in on Your Home Sale
-date: 2017-10-04 13:24:59
+date: 2017-10-09 13:24:59
 tags:
   - Home Seller Tips
 excerpt: >-
