@@ -25,11 +25,15 @@ Your Realtor is another professional who’s there to help you, but they need al
 
 **Here are a few tips for communicating with your Realtor so the transaction goes smoothly for the both of you:**
 
-* Discuss your financial situation with them. If there’s a problem, talk to them about it—they may have a solution. Be candid about what you qualify for or if you do or don’t have a pre-qualification or pre-approval letter.&nbsp;
-* Talk about what price range you want to shop in and what are your “must-haves” versus your “like-to-haves.”
-* Talk about your communication style. Are you a person who prefers texting, talking on the phone, or talking via email? How frequently do you prefer to communicate? This information will help you communicate in a positive way and get the job done.&nbsp;
-* Bring up any expectations that aren’t being met.&nbsp;
-* Be straightforward if you’re working with other Realtors. Some Realtors are OK with this, while other aren’t. Some take it as a challenge to be better than the other person you’re working with.
+1. Discuss your financial situation with them. If there’s a problem, talk to them about it—they may have a solution. Be candid about what you qualify for or if you do or don’t have a pre-qualification or pre-approval letter.&nbsp;
+
+2. Talk about what price range you want to shop in and what are your “must-haves” versus your “like-to-haves.”
+
+3. Talk about your communication style. Are you a person who prefers texting, talking on the phone, or talking via email? How frequently do you prefer to communicate? This information will help you communicate in a positive way and get the job done.&nbsp;
+
+4. Bring up any expectations that aren’t being met.&nbsp;
+
+5. Be straightforward if you’re working with other Realtors. Some Realtors are OK with this, while other aren’t. Some take it as a challenge to be better than the other person you’re working with.
 
 {% include pullquote.html %}
 
