@@ -35,6 +35,6 @@ Walkthroughs are so important, for a couple of reasons:
 
 **1. They let the tenant know that we are looking out for the owners.**
 
-**2. We’ll send the owners pictures of anything that’s affected by the tenant**—if there is any damage in the house that we find on our walk-throughs, we will give the tenant a 10-day warning. If they don’t correct the issues within 10 days, then we’ll terminate the lease. This is listed on the lease agreement with the tenant, and they’ll sign their move addendum up front, as well as a pet addendum, even if they don’t have one.
+**2. We’ll send the owners pictures of anything that’s affected by the tenant**—if there is any damage in the house that we find on our walkthroughs, we will give the tenant a 10-day warning. If they don’t correct the issues within 10 days, then we’ll terminate the lease. This is listed on the lease agreement with the tenant, and they’ll sign their move-in addendum up front, as well as a pet addendum, even if they don’t have one.
 
 Owners, we’re looking out for you. You are our first and only concern because you pay our bills, and I appreciate that. Please feel free to call me if you have any questions. Aloha!
