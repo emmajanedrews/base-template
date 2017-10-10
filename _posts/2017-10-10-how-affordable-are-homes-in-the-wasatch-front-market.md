@@ -61,6 +61,6 @@ For homes priced above $350,000 on the Wasatch Front, there’s just shy of six 
 
 To put all of this into perspective, let’s take a moment by talking about mortgage rates and affordability. Mortgage rates haven’t changed as much as was predicted. All in all, we’re hovering around the 4% mark. As prices have increased, this has helped things to remain affordable.
 
-**If you look at the average price of a $320,000 home at 4% on a 30-year mortgage, your principal and interest payment would be about $1,527.** Ten years ago, the average price of a home was just $271,000 but the average interest rate was 6.5%. This meant the mortgage payment was actually $1,707. With these conditions, it costs about 12% less to buy a home today than it was 10 years ago.
+**If you look at the average price of a $320,000 home at 4% on a 30-year mortgage, your principal and interest payment would be about $1,527.** Ten years ago, the average price of a home was just $271,000 but the average interest rate was 6.5%. This meant the mortgage payment was actually $1,707. With these conditions, it costs about 12% less to buy a home today than it did 10 years ago.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
