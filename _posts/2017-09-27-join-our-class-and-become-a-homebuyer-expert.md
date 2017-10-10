@@ -4,7 +4,13 @@ title: Join Our Class and Become a Homebuyer Expert
 date: 2017-09-27 11:59:00
 tags:
   - Home Buyer Tips
-excerpt:
+excerpt: >-
+  You’re invited to come join our exclusive home buying class on October 21st at
+  the Umpqua Bank in the Pearl. Teaching this class will be our very own Michele
+  Descombes, who will cover both what you need to know about the home buying
+  process and the state of our Portland market. All types of homebuyers are
+  welcome to attend. To find out what else you will learn in this class and how
+  you can register for it, watch our latest video.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/John+Hatch/+Videos/Portland+Real+Estate+Agent-+Come+Join+Our+Home+Buying+Class.mp4
 pullquote: All types of homebuyers are welcome to join us.
