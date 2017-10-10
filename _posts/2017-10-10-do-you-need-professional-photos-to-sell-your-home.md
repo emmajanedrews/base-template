@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do You Need Professional Photos to Sell Your Home?
-date: 2017-09-27 12:02:05
+date: 2017-10-10 00:02:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -31,7 +31,7 @@ The last one is an in-house study we conducted right here in our office. I studi
 
 {% include pullquote.html %}
 
-In case you’re wondering, **we absolutely use professional photography for our listings.&nbsp;**We use three different professional photographers who each specialize in a different style of photography. After all, different-sized properties require different photographs. If you’re listing an acreage with a lake, for example, you need a drone. If you’re listing a smaller property, you’ll need an extremely wide-angle lens to capture its dimensions accurately.
+In case you’re wondering, **we absolutely use professional photography for our listings.**We use three different professional photographers who each specialize in a different style of photography. After all, different-sized properties require different photographs. If you’re listing an acreage with a lake, for example, you need a drone. If you’re listing a smaller property, you’ll need an extremely wide-angle lens to capture its dimensions accurately.
 
 We also use professional photography for a different reason than you might think. We use it to set a showing appointment—not necessarily to sell the house. This is because **our goal is to get someone to want to see your house.**
 
