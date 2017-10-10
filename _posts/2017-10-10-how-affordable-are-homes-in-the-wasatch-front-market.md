@@ -24,7 +24,7 @@ excerpt: >-
   short video.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/Videos/2017/Videos/The+Stern+Team-+Our+Market+Update.mp4
-pullquote: It costs about 12% less to buy a home today than it was 10 years ago.
+pullquote: It costs about 12% less to buy a home today than it did 10 years ago.
 enclosure_type: video/mp4
 enclosure_time: '10:39 am'
 use_youtube_image: true
