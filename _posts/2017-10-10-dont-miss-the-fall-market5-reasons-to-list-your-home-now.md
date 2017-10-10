@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Don’t Miss the Fall Market—5 Reasons to List Your Home Now
-date: 2017-10-10 14:32:22
+date: 2017-10-10 14:32:00
 tags:
-  - Home Seller Tips
 excerpt: >-
   Should you put your home on the market this fall? My answer is yes, and there
   are five main reasons why.
