@@ -7,7 +7,7 @@ excerpt: >-
   Our agents regularly meet to discuss books we’ve read that have impacted our
   lives and our businesses. Here are three that I recommend.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Rob+Ellis/Videos/2017/Books+To+Boost+Your+Business+-+Central+Ohio+Real+Estate+Agent.mp4
+  https://s3.amazonaws.com/vyralmarketing/Rob+Ellis/Videos/2017/Books+To+Boost+Your+Business+-+Central+Ohio+Real+Estate+Agent+(1).mp4
 pullquote: >-
   If you need a copy of any of these books, please reach out to us and we’d be
   happy to lend you one.
@@ -16,7 +16,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/robellis-screenshot-tube-01-01-01-01-01-01-01-01-01-01-01-01-01-01.jpg
-youtube_code: BTJkR_ehX6s
+youtube_code: KNoPQNibhYY
 ---
 
 
@@ -24,7 +24,7 @@ youtube_code: BTJkR_ehX6s
 
 One of the things that we at The REllis Group do as a team is, every single quarter, we pick a book that makes a big impact—something we’ve read or heard about from someone else that impacts us personally or our business.
 
-**Today, I want to recommend three books that I’ve read that I believe will really impact your business as well.&nbsp;**If you don’t have a copy of one of these books, feel free to come grab one from our office, on us.
+**Today, I want to recommend three books that I’ve read that I believe will really impact your business as well.**If you don’t have a copy of one of these books, feel free to come grab one from our office, on us.
 
 **The first book is called “The Go-Giver” by Bob Burg**, which talks about the five principles of a giving attitude. It’s an easy read—I actually read it in a night, but it’s a very good read that discusses how focusing on giving, rather than taking and trying to see what you can gain from a certain situation, can really impact someone’s life and your business.
 
