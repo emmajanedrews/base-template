@@ -47,16 +47,16 @@ There are 15 active listings now and no pending sales on either lake. There were
 
 There are eight vacant lots for sale and one pending. The pending sale is over $1 million, so that just proves that you never know when lightning is going to strike. So far this year, there haven’t been any closings on Blaine or Echo.&nbsp;
 
-Next, let’s check on the lakes west of Kalispell: Ashley, Bitterroot, and McGregor.&nbsp;
+Next, let’s check on the **lakes west of Kalispell: Ashley, Bitterroot, and McGregor.**&nbsp;
 
 There are 16 properties for sale and seven pending sales. So far this year, 10 sales have closed. That is a 50% jump from the five sales these three lakes saw last year, which is interesting because inventory is down.&nbsp;
 
 There are 20 vacant lots and one pending sale. The five vacant land sales that have closed were all on Ashley Lake. In 2016, there were only four closing sales, two on Ashley and two on Bitterroot. McGregor hasn’t seen any land sales in the last couple years and over half of the available lots are on McGregor, which may mean it’s the place to look right now.&nbsp;
 
-Finally, let’s see what’s happening with Flathead condos.
+Finally, let’s see what’s happening with **Flathead condos.**
 
 There are 42 condos on the market right now, and two pending sales. So far this year, there have been 20 closed sales. Last year, there were 38. The median sales price last year was $305,000; this year, it’s $370,000. The interesting thing in this market is that we saw a 20% increase in the median sales price and a 20% decrease in sales at the same time.&nbsp;
 
-If you would like more details on any of these specific areas, please give me a call or send me an email. I would be happy to help you!<br>&nbsp;
+If you would like more details on any of these specific areas, please give me a call or send me an email. I would be happy to help you!
 
 {% include pullquote.html %}
