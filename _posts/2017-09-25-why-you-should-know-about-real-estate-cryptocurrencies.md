@@ -24,7 +24,7 @@ youtube_code: AWy2vB4PuLs
 
 {% include youtube.html %}
 
-***Please see an update on the portion of this article in regards to REcoin [here.](https://www.housingwire.com/articles/41463-sec-says-first-ever-cryptocurrency-backed-by-real-estate-is-a-fraud)***
+***\*UPDATE 10/10/2017 Please see an update on the portion of this article in regards to REcoin's founder being charged with defrauding investors [here.](https://www.housingwire.com/articles/41463-sec-says-first-ever-cryptocurrency-backed-by-real-estate-is-a-fraud)***
 
 In case you haven’t heard already, cryptocurrencies are meeting the world of real estate investing. It's a very exciting prospect, so let me explain what’s going on.
 
