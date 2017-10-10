@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Today I’m joined by a special guest, Andy Duda from Caliber Home Loans, to
   talk about the current state of mortgages.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Wes+Peters/Baltimore+Metro+Real+Estate-+How+has+the+lending+world+changed%253F.mp4
 pullquote: 'As technology moves forward, so does the world of real estate.'
 enclosure_type: video/mp4
 enclosure_time:
