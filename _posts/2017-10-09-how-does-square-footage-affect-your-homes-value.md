@@ -24,7 +24,7 @@ youtube_code: 63uDhIFt3zo
 
 How much does your home’s square footage affect its value? There are several factors to consider.
 
-If you own a two-story, 3,000 square foot home that Zillow says is only worth $275,000 and you’re comparing it a home across the street that’s also 3,000 square feet but has just sold for $350,000, why is that?
+If you own a two-story, 3,000 square foot home that Zillow says is only worth $275,000 and you’re comparing it to a home across the street that’s also 3,000 square feet but has just sold for $350,000, why is that?
 
 If the home across the street is a ranch-style home where all 3,000 square feet are on one level instead of two, your home won’t sell for the same price. One reason for this is **ranches are much more desirable in our Charlotte market.** Secondly, ranches are more expensive to build. The base of a ranch home is much larger, and it’s more expensive to build out than it is to build up because that involves more concrete, more plumbing, and more structure to be built around the property. This is why when you see homes that are $20 or $30 more per square foot for a single level, you can’t compare that.&nbsp;
 
