@@ -26,9 +26,9 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.coloradospringsrealestatemarket.com/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.coloradospringsehomes.com/Properties
   VR_form:
 
 sidebar_CTA:
@@ -36,14 +36,14 @@ sidebar_CTA:
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free -- MARKET -- Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.coloradospringsrealestatemarket.com/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://www.coloradospringsehomes.com/Properties
 
 lender:
   show_section: false
@@ -75,9 +75,9 @@ socials:
   twitter_url: https://twitter.com/parkaveprop
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
+  zillow_url: https://www.zillow.com/profile/TanyaKStevenson/
+  trulia_url: https://www.trulia.com/profile/tanya-stevenson-agent-colorado-springs-co-zgj4kvzn/overview
+  yelp_url: https://www.yelp.com/biz/park-avenue-properties-colorado-springs-2
   podcast_url:
 
 podcast:
