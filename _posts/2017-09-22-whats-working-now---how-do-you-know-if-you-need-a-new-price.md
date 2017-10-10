@@ -1,7 +1,7 @@
 ---
 layout: post
-title: What's Working Now! - How Do You Know If You Need a Price Reduction?
-date: 2017-09-22 13:34:57
+title: What's Working Now! - How Do You Know If You Need A New Price?
+date: 2017-09-22 13:34:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -24,7 +24,7 @@ youtube_code: LWx-va3aZDQ
 
 Welcome to another episode of “What’s Working Now!”&nbsp;
 
-I’m recording live from our new listing at 4550 Klingle St. NW at Wesley Heights. I’m excited to announce that we are now sponsored by The Current Newspapers.&nbsp;
+I’m recording live from our new listing at 4550 Klingle St. NW at Wesley Heights.&nbsp;
 
 I also want to discuss one of the smartest things a seller can do: price reductions. &nbsp;
 
