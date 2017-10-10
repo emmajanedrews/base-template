@@ -41,7 +41,9 @@ Swan Lake has 11 homes for sale and two pending sales. Nine of the listings are 
 
 As for vacant land, there are five properties for sale, and all but one are over $375,000. There is one pending sale and only one sale so far this year. There were only two sales last year, and not a lot of vacant lot sales over the last couple years. The three sales we’ve had were all under $300,000, so people are out shopping for affordable lake lots. Other price points are just struggling.&nbsp;
 
-Now let’s seeing what’s happening in **Echo/Blaine.**<br>There are 15 active listings now and no pending sales on either lake. There were two sales this year and three sales last year, so the market has been pretty steady.&nbsp;
+Now let’s seeing what’s happening in **Echo/Blaine.**&nbsp;
+
+There are 15 active listings now and no pending sales on either lake. There were two sales this year and three sales last year, so the market has been pretty steady.&nbsp;
 
 There are eight vacant lots for sale and one pending. The pending sale is over $1 million, so that just proves that you never know when lightning is going to strike. So far this year, there haven’t been any closings on Blaine or Echo.&nbsp;
 
