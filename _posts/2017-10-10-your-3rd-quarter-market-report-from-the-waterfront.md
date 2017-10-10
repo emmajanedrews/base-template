@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your 3rd Quarter Market Report From the Waterfront
-date:
+date: 2017-10-10 13:21:12
 tags:
   - Market Update
 excerpt: >-
