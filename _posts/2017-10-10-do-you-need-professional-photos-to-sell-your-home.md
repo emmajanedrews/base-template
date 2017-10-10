@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Listed homes that use professional photography typically attract more
   attention, sell faster, and sell for a higher price than those that don’t.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Becky+Ivins/Videos/Oklahoma+City+Metro+Real+Estate+Agent-+Do+Professional+Photos+Matter%253F.mp4
 pullquote: Photography matters.
 enclosure_type: video/mp4
 enclosure_time:
