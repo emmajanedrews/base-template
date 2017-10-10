@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Would You Rather Get a Cupcake or a Muffin?
-date: 2017-10-09 14:45:55
+date: 2017-10-09 14:45:00
 tags:
 excerpt: >-
   Would you prefer a muffin or a cupcake? The muffin represents what most agents
@@ -10,13 +10,13 @@ excerpt: >-
   asking price. To learn more about how the Treu Group is like a cupcake, watch
   this short video.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Videos/2017/October/How+is+the+Treu+Group+like+a+Cupcake%253F%257C+Palm+Beach.mp4
+  https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Videos/2017/October/How+is+the+Treu+Group+like+a+Cupcake%253F+%257C+Palm+Beach+Real+Estate.mp4
 pullquote: 'When you work with us, you get all the icing and sprinkles.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: wfxiHxNox-c
+youtube_code: DlhUdJBs9S8
 ---
 
 
