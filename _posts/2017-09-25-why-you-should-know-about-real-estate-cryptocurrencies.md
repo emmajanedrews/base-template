@@ -24,6 +24,8 @@ youtube_code: AWy2vB4PuLs
 
 {% include youtube.html %}
 
+***Please see an update on the portion of this article in regards to REcoin [here.](https://www.housingwire.com/articles/41463-sec-says-first-ever-cryptocurrency-backed-by-real-estate-is-a-fraud)***
+
 In case you haven’t heard already, cryptocurrencies are meeting the world of real estate investing. It's a very exciting prospect, so let me explain what’s going on.
 
 Cryptocurrencies are very much like regular money in that you can use them to pay for many things. **The best-known cryptocurrency right now is bitcoin.&nbsp;**At the moment, you can use bitcoin to buy software on the Microsoft site, to book a plane ticket on Expedia, or even to withdraw actual dollars from a number of bitcoin ATMs around the country.
