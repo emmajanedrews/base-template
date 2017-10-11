@@ -1,28 +1,30 @@
 ---
 youtube_code: ekWMkvKCU
 excerpt:
-enclosure: https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520Home%2520inspections%2520part%25201.mp4
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520Home%2520inspections%2520part%25201.mp4
 pullquote: EVERY BUYER SHOULD HAVE A BUILDING INSPECTION.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: Which Home Inspections Should You Order?
-date: '2017-08-28T12:22:00.000-07:00'
+date: 2017-08-28 19:22:00
 author: Vyral Admin
 tags:
-- Home Buyer Tips
-modified_time: '2017-08-28T12:35:44.310-07:00'
-thumbnail: https://i.ytimg.com/vi/__ekWMkvKCU/default.jpg
-blogger_id: tag:blogger.com,1999:blog-6616909685054893318.post-7994442329926110442
-blogger_orig_url: http://sandiehea.blogspot.com/2017/08/which-home-inspections-should-you-order.html
+  - Home Buyer Tips
+modified_time:
+thumbnail: 'https://i.ytimg.com/vi/__ekWMkvKCU/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-6616909685054893318.post-7994442329926110442'
+blogger_orig_url: >-
+  http://sandiehea.blogspot.com/2017/08/which-home-inspections-should-you-order.html
 ---
-{% include youtube.html %}
-What inspections should you have done on the home you’re buying? Here’s a few to get you started.
 
-Buying a home? <a href="http://www.stlouispropertysearch.net/" target="_blank">Click here to perform a full home search</a>
-Selling a home? <a href="http://www.stlouishomevalues.net/" target="_blank">Click here for a FREE Home Price Evaluation</a>
+
+{% include youtube.html %}What inspections should you have done on the home you’re buying? Here’s a few to get you started.
+
+Buying a home? [Click here to perform a full home search](http://www.stlouispropertysearch.net/)Selling a home? [Click here for a FREE Home Price Evaluation](http://www.stlouishomevalues.net/)
 
 Why should you have a home inspection when buying a home? Which inspections should you order? The first answer is obvious, but the second is not.
 
