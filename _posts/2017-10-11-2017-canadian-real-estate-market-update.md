@@ -34,7 +34,7 @@ Recently, the Canadian Mortgage and Housing Corporation (CMHC) released data for
 
 The data indicated that the housing starts trend decreased for the first time in many months. However, there are still areas of the market that are strong.
 
-“New home construction remains very strong [...]” according to CMHC’s chief economist Bob Dugan.
+“New home construction remains very strong […]” according to CMHC’s chief economist Bob Dugan.
 
 In Toronto specifically, the low-rise sector has remained strong, as has the pace of construction for new homes. **This is largely driven by strong demand.**
 
@@ -56,7 +56,7 @@ It is hard to say where the Canadian real estate market may be headed in the fut
 
 If you are thinking of selling your home, it may be time to do it now while competition is low and buyers are motivated.
 
-You can get started with this home value calculator on my site, which takes into account recent home sales:&nbsp;
+You can get started with this home value calculator on my site, which takes into account recent home sales:
 
 [Enter your street address here to find out what your home is worth](http://www.valleerealestate.ca/your-homes-value)
 
