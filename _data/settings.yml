@@ -1,6 +1,9 @@
 audit_header: false
 title: Orlando Real Estate Video Blog with Chris Myers
-description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
+description: >-
+  If you are looking to buy or sell a home, get all the information and the
+  latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+  -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
@@ -14,22 +17,20 @@ client:
     on the long family tradition by helping Central Floridians with their home
     buying and home selling goals. Prior to his real estate career, Chris worked
     in the advertising and marketing industry in Ohio until his passion for real
-    estate and the Florida lifestyle brought him to the Sunshine State.
-
-    <br>
-
-    <br>His professional experience as a business owner and sales professional
-    provides Chris the ability to see the bigger picture, especially when it
-    comes to developing long lasting relationships and providing genuine customer
-    care. Using his marketing background, Chris has developed effective and time
-    proven systems for buying and selling real estate. Using these systems, Chris
-    has built one of the most caring and efficient real estate sales teams in the
-    Country, resulting in his team selling over 800 properties in the last 10
-    years alone! Chris’ real estate expertise has also landed him on the news and
-    various other programs being interviewed about the local real estate market.
+    estate and the Florida lifestyle brought him to the Sunshine
+    State.<br><br>His professional experience as a business owner and sales
+    professional provides Chris the ability to see the bigger picture,
+    especially when it comes to developing long lasting relationships and
+    providing genuine customer care. Using his marketing background, Chris has
+    developed effective and time proven systems for buying and selling real
+    estate. Using these systems, Chris has built one of the most caring and
+    efficient real estate sales teams in the Country, resulting in his team
+    selling over 800 properties in the last 10 years alone! Chris’ real estate
+    expertise has also landed him on the news and various other programs being
+    interviewed about the local real estate market.
   market: Orlando
   brand: Orlando Property Group
-  brokerage: Charles Rutenberg Realty
+  brokerage: Allison James Estates & Homes
   phone: 407-477-5639
   address:
   phone_type:
@@ -41,7 +42,8 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://www.centralfloridahousevalue.com/'
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://www.orlandopropertygroup.com/search.php?#?q_limit=9&q_prioritize=agents.0.id=261091912%7Coffice.id=261011739&mlsId=28&q_sort=createdAt-&q_offset=0'
+  second_CTA_URL: >-
+    http://www.orlandopropertygroup.com/search.php?#?q_limit=9&q_prioritize=agents.0.id=261091912%7Coffice.id=261011739&mlsId=28&q_sort=createdAt-&q_offset=0
   phone_CTA: true
   VR_form: 'http://oi.vresp.com?fid=17c0da686f'
 sidebar_CTA:
@@ -49,12 +51,13 @@ sidebar_CTA:
   CTA_title: Looking to Buy a Home?
   CTA_text: Search the entire MLS for homes located in -- MARKET --.
   CTA_link_text: Home Search Tool
-  CTA_url: 'http://www.orlandopropertygroup.com/search.php?#?q_limit=9&q_prioritize=agents.0.id=261091912|office.id=261011739&mlsId=28&q_sort=createdAt-&q_offset=0'
+  CTA_url: >-
+    http://www.orlandopropertygroup.com/search.php?#?q_limit=9&q_prioritize=agents.0.id=261091912|office.id=261011739&mlsId=28&q_sort=createdAt-&q_offset=0
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
+    Our mission at -- CLIENT BRAND -- is to be your best resource for real
+    estate advice. Whether you are a buyer, seller, or investor, our team of
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
@@ -69,14 +72,26 @@ socials:
   zillow_url: 'http://www.zillow.com/profile/cjmyers/'
   trulia_url:
   yelp_url: 'https://www.yelp.com/biz/orlando-property-group-orlando'
-  podcast_url: 'https://itunes.apple.com/us/podcast/orlando-real-estate-podcast/id1197467563?mt=2'
+  podcast_url: >-
+    https://itunes.apple.com/us/podcast/orlando-real-estate-podcast/id1197467563?mt=2
 podcast:
   title: Orlando Real Estate Podcast with Chris Myers
   categories:
   image: /img/Podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the -- MARKET
+    -- Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+    -- MARKET -- Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in -- MARKET --,
+    home selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
   author: Chris Myers
 images:
   client_headshot_path: /img/headshot.jpg
