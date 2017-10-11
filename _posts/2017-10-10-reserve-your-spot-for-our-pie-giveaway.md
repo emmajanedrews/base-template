@@ -20,7 +20,7 @@ youtube_code: Oy_DUj9XWbM
 
 {% include youtube.html %}
 
-Welcome to October! Fall is finally here, which means it’s time to invite you to our Holiday Pie Giveaway!
+Welcome to October! Fall is finally here, which means it’s time to invite you to our holiday pie giveaway!
 
 **This is just our way of thanking you for your support over the years.**
 
@@ -30,7 +30,7 @@ We will be giving away pies at Town Lake Hills East on Friday, November 17th fro
 
 Santa Claus will make an appearance, and we will have a photographer available to take a free picture of you and your family. We will also have hors d'oeuvres and drinks, along with your free pie. &nbsp;
 
-**There are a limited number of spaces available for the photos,** so make sure you give us a call at 678-389-3887 &nbsp;to let us know that you’re coming, and Kathy will help you out.
+**There are a limited number of spaces available for the photos,** so make sure you give us a call at 678-389-3887 &nbsp;to let us know that you’re coming and Kathy will help you out.
 
 In the meantime, if you have any real estate questions, just give us a call or send us an email. We are here to help.
 
