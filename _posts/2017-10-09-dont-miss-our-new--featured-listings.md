@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don’t Miss Our New & Featured Listings
-date: 2017-09-01 15:36:34
+date: 2017-10-09 15:36:00
 tags:
   - Real Estate
 excerpt: >-
@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/X-HC-HOlTPA'
 
 We’re here at our new listing at **[3603 N Gomez Ave, Tampa, FL 33607](https://www.brivity.com/listings/3603-n-gomez-ave-tampa-fl-33607/property)**. This is a 2-bed, 2-bath single-family home with about 1,250 square feet.
 
-Check out this exclusive tour. &nbsp;
+Check out this exclusive tour.
 
 **The kitchen has beautiful white cabinets and stone countertops.** Whenever you list your home, I recommend that you declutter. Get rid of unnecessary items, especially in the kitchen. We want to show how much space your countertops have.
 
