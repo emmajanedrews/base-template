@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 3 Smart Tech Options That Bring Value to Your Home
-date: 2017-10-11 12:55:45
+date: 2017-10-11 12:55:00
 tags:
   - Real Estate
 excerpt: >-
   Today I want to talk about adding value to your home. Smart technology is a
   great way to achieve this in today’s market.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Mike+Gray/Videos/Houston+Real+Estate+Agent-+How+Smart+Is+Your+Home%253F.mp4
 pullquote: Tech-savvy buyers will especially appreciate these items.
 enclosure_type: video/mp4
 enclosure_time:
@@ -29,7 +30,7 @@ Today, I want to share three different tech options that can add value to your h
 
 {% include pullquote.html %}All of these things are relatively inexpensive, but they add a lot of value to your home. Tech-savvy buyers will especially appreciate these items.
 
-As a final note, I’d like to address people whose homes have flooded recently. If you find yourself in this situation and are wondering how to recover and make repairs,&nbsp;**remember to think about how long you plan on living there.**
+As a final note, I’d like to address people whose homes have flooded recently. If you find yourself in this situation and are wondering how to recover and make repairs, **remember to think about how long you plan on living there.**
 
 If you will be there short-term, think of your home as an investment. If you are going to be there for a medium length of time, still think of it in terms of an investment but also remember you’re still going to be living there. You want to make sure you don’t hate your living situation.
 
