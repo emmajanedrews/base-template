@@ -12,7 +12,7 @@ pullquote: 'If you want more details on a specific area, give me a call.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/10-10---3rd---yt.jpg
+youtube_alternate_image: /uploads/10-10---3rd---yt-1.jpg
 youtube_code: uFr1y0VN8VA
 ---
 
