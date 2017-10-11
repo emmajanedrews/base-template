@@ -33,3 +33,5 @@ What are the five things you shouldn’t overlook when purchasing a property in 
 **4. Whether or not you can rent out the property.** If you plan on purchasing the home for a short period of time and then renting it out, you might not be allowed to do so if the home is located in an HOA area.&nbsp;
 
 **5. Things you can’t change about the property later on.** If you don’t like the lot size, for example, you might be limited in making future enhancements to it, so take a look at that and decide whether you want to reconsider or not.
+
+If you have any other questions about buying a home in our area, just give me a call or send me an email. I would be happy to help you!
