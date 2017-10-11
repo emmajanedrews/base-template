@@ -31,7 +31,7 @@ All of these things are relatively inexpensive, but they add a lot of value to y
 
 {% include pullquote.html %}
 
-As a final note, I’d like to address people whose homes have flooded recently. If you find yourself in this situation and are wondering how to recover and make repairs,\*\* remember to think about how long you plan on living there.\*\*
+As a final note, I’d like to address people whose homes have flooded recently. If you find yourself in this situation and are wondering how to recover and make repairs, remember to think about how long you plan on living there.
 
 If you will be there short-term, think of your home as an investment. If you are going to be there for a medium length of time, still think of it in terms of an investment but also remember you’re still going to be living there. You want to make sure you don’t hate your living situation.
 
