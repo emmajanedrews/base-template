@@ -12,7 +12,7 @@ title: Improve Your Credit Score When Buying a Home Using These 4 Tips
 date: '2017-04-27T09:44:00.001-07:00'
 author: Vyral Admin
 tags:
-- Homebuyer Tips
+- Home Buyer Tips
 modified_time: '2017-04-27T09:44:47.932-07:00'
 thumbnail: https://i.ytimg.com/vi/M6ipd6nbCh8/default.jpg
 blogger_id: tag:blogger.com,1999:blog-1352949070381249388.post-7288277885993673446

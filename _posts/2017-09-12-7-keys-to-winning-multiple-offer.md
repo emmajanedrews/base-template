@@ -12,7 +12,7 @@ title: 7 Keys to Winning a Multiple Offer Situation in Our Market
 date: '2017-09-12T13:27:00.000-07:00'
 author: Vyral Admin
 tags:
-- Milwaukee Real Estate Buyer Tips
+- Home Buyer Tips
 modified_time: '2017-09-15T10:51:09.013-07:00'
 thumbnail: https://i.ytimg.com/vi/xoPM4bsSnsA/default.jpg
 blogger_id: tag:blogger.com,1999:blog-1352949070381249388.post-8962640640965483181

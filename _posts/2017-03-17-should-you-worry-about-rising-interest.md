@@ -12,7 +12,7 @@ title: 'Should You Worry About Rising Interest Rates? '
 date: '2017-03-17T12:59:00.000-07:00'
 author: Vyral Admin
 tags:
-- Milwaukee Real Estate Market Update
+- Market Update
 modified_time: '2017-03-20T07:14:20.234-07:00'
 thumbnail: https://i.ytimg.com/vi/wd4eqxGaJ0o/default.jpg
 blogger_id: tag:blogger.com,1999:blog-1352949070381249388.post-4224053084087932511

@@ -12,7 +12,7 @@ title: How to Avoid 7 Common Home Selling Mistakes
 date: '2017-05-10T13:32:00.000-07:00'
 author: Vyral Admin
 tags:
-- Milwaukee Real Estate Seller Tips
+- Home Seller Tips
 modified_time: '2017-05-11T10:47:51.435-07:00'
 thumbnail: https://i.ytimg.com/vi/xN_bGTr8mjA/default.jpg
 blogger_id: tag:blogger.com,1999:blog-1352949070381249388.post-4816689405772644498

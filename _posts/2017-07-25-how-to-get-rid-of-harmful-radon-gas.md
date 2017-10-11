@@ -12,7 +12,7 @@ title: How to Get Rid of Harmful Radon Gas
 date: '2017-07-25T08:20:00.001-07:00'
 author: Vyral Admin
 tags:
-- Homebuyer & Seller Tips
+- Home Seller Tips
 modified_time: '2017-07-27T07:29:27.007-07:00'
 thumbnail: https://i.ytimg.com/vi/C9bDR9APZwA/default.jpg
 blogger_id: tag:blogger.com,1999:blog-1352949070381249388.post-2308038388193741660

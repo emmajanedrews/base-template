@@ -12,7 +12,7 @@ title: Greater Milwaukee Area Market Update
 date: '2017-08-14T14:03:00.001-07:00'
 author: Vyral Admin
 tags:
-- Greater Milwaukee Area Real Estate Market Update
+- Market Update
 modified_time: '2017-08-15T14:41:17.214-07:00'
 thumbnail: https://i.ytimg.com/vi/56PFENvB7To/default.jpg
 blogger_id: tag:blogger.com,1999:blog-1352949070381249388.post-7276153670510250913

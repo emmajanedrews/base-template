@@ -11,7 +11,7 @@ client:
   license_number:
   about_markdown: |
     Over the last twelve months, we have closed over 190 transactions – compare this to the average real estate agent that sold less than four homes in the same period of time. More importantly, we are bringing our sellers an average of 96% or more of the asking price. This is all done on a timetable of 80 days that the home being on the market.  I’ve been in the real estate business for over 30 years and have closed over 3,500 deals. There hasn’t been a problem we’ve come across that we can’t solve in today’s market – especially in the challenging market we have today. We will also determine the best price that you can receive in this market. One of the biggest problems in this industry is the lack of communication between the seller and their agent. We have a dedicated team that will be available to you seven days a week. You can rest assured knowing that all of your questions will be answered and you will be updated through every step of the transaction. You also can expect Weekly Activity Reports that include how many hits your listing has gained from the internet, TV advertising, and feedback we’ve received from the buyers. When you’re ready to sell your home, give the Roth Team a call or send us an email.'
-  market:
+  market: Milwaukee
   brand: The Roth Team
   brokerage: Shorewest Realtors
   address:
@@ -27,11 +27,11 @@ CTAs:
   first_CTA_URL: http://www.rothteam.shorewest.com/vp/AgentServlet?SITE=SHOREW&ScreenID=AGENT_WHATS_MY_HOME_WORTH&pres_agent=5281
   second_CTA_text: Home Search
   second_CTA_URL: http://www.rothteam.shorewest.com/vp/SearchServlet?SITE=SHOREW&ScreenID=AGENT_SEARCH_LISTING&pres_agent=5281
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=40a3c403c8
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
+    CTA_title: "What’s Your Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free -- MARKET -- Home Value Report"
     CTA_url: http://www.rothteam.shorewest.com/vp/AgentServlet?SITE=SHOREW&ScreenID=AGENT_WHATS_MY_HOME_WORTH&pres_agent=5281
