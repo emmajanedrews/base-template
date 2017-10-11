@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   What is happening in the Waterfront real estate market? I’ve got the latest
   numbers from the third quarter to share with you today.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Scott+Hollinger/Montana+Real+Estate++The+Hollinger+Team+3rd+quarter+report+from+the+Waterfront.mp4
 pullquote: 'If you want more details on a specific area, give me a call.'
 enclosure_type: video/mp4
 enclosure_time:
