@@ -7,41 +7,43 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Lance Woodley
   license_number:
   about_markdown: |
+    With over 20 years of experience in real estate, Lance Woodley is among the most well-known and liked among the real estate professionals in the midlands of South Carolina. Lance and his team have been involved with the buying, selling, building, and management of homes in Columbia, South Carolina and adjacent areas including Richland, Lexington, and Kershaw counties. Since their start, they have been an important part of the local community by serving all of the area's real estate needs.
 
-  market:
-  brand:
+    Lance's passion is helping clients navigate the real estate market successfully and achieve their goals, whether it be buying, selling, or building a home. Lance has developed a company in SC Homes and Land Realty that gives real options to client to achieve positive cash flow from the start. Whether the goal is aesthetic or financial, Lance is equally comfortable and enthusiastic about both. Our mission is to be the leading real estate company in the midlands of South Carolina by providing systems of professionalism, consistency, and dedication to meet our client's needs.
+  market: Midlands of South Carolina
+  brand: SC Homes and Land Realty
   brokerage:
-  address:
-  phone:
+  address: 1085 Lake Murray Blvd Suite F Irmo, SC 29063
+  phone: 803-407-3883
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: lance@schlr.com
+  url: https://www.LanceWoodley.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.lancewoodley.com/what39s-your-home-worth
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
-  VR_form:
+  second_CTA_URL: http://www.lancewoodley.com/-/ListingSearch/index/2
+  VR_form: http://oi.vresp.com?fid=9b62bee7cf
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free -- MARKET -- Home Value Report"
-    CTA_url: /homevalue/
+    CTA_link_text: "Free Home Value Report"
+    CTA_url: http://www.lancewoodley.com/what39s-your-home-worth
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://www.lancewoodley.com/-/ListingSearch/index/2
 
 lender:
   show_section: false
@@ -66,17 +68,17 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/schomesandland
+  linkedin_url: https://www.linkedin.com/pub/lance-woodley/3a/58b/8b
+  gplus_url: https://plus.google.com/106178212767832606822/posts
+  youtube_url: https://www.youtube.com/user/SCHLR100?sub_confirmation=1
+  twitter_url: https://twitter.com/schomesandland
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
-  podcast_url:
+  zillow_url: http://www.zillow.com/profile/Lance-Woodley/
+  trulia_url: http://www.zillow.com/profile/Lance-Woodley/
+  yelp_url: http://www.yelp.com/biz/lance-woodley-irmo
+  podcast_url: https://itunes.apple.com/us/podcast/columbia-sc-real-estate-podcast/id1084424613?mt=2
 
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
@@ -96,8 +98,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#017f7e'
+  theme_color: '#00007e'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -106,7 +108,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: rgba(0, 0, 0, .5)
 
 buttons:
   button_radius_number: 0
