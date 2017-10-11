@@ -6,8 +6,8 @@ enclosure: >-
 pullquote: EVERY BUYER SHOULD HAVE A BUILDING INSPECTION.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /img/cover.jpg
+use_youtube_image: false
+youtube_alternate_image: /uploads/sandie-ss.jpg
 layout: post
 title: Which Home Inspections Should You Order?
 date: 2017-08-28 19:22:00
