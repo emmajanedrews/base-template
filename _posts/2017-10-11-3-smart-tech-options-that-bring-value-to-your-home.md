@@ -27,7 +27,7 @@ Today, I want to share three different tech options that can add value to your h
 2. **Smart thermostats.** Probably the best-known version of this technology is The Nest. Using this or another similar product, you can set and adjust the temperature of your home. Smart thermostats will even learn your habits and your lifestyle to better accommodate you through the temperature in your home. Ecobee is another brand of smart thermostat. This particular thermostat actually has sensors that can detect motion and adjust the temperature according to where you are in the home.
 3. **Video-capturing doorbells.** This technology allows you to see exactly who is visiting when they ring your doorbell. This also acts as a security measure.
 
-{% include pullquote.html %}<br><br>All of these things are relatively inexpensive, but they add a lot of value to your home. Tech-savvy buyers will especially appreciate these items.
+{% include pullquote.html %}<br>All of these things are relatively inexpensive, but they add a lot of value to your home. Tech-savvy buyers will especially appreciate these items.
 
 As a final note, I’d like to address people whose homes have flooded recently. If you find yourself in this situation and are wondering how to recover and make repairs,&nbsp;**remember to think about how long you plan on living there.**
 
