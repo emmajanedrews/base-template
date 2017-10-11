@@ -3,8 +3,12 @@ layout: post
 title: Have You Been to the Sunset Bay Cafe?
 tags:
   - Venue Reviews
-excerpt:
-enclosure:
+excerpt: >-
+  We’re here today at the Sunset Bay Cafe with owner Bryce Jarvis. He’s here to
+  talk a little bit about his restaurant and why you will love it the next time
+  you stop in for a bite.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Nathan+Abbott/Nathan+Abbott+Team-+Have+you+been+to+Sunset+Bay+Cafe%253F.mp4
 pullquote: The menu is as diverse as it is delicious.
 enclosure_type: video/mp4
 enclosure_time:
