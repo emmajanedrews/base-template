@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/philipp-fries-new-listing.jpg
-youtube_code: 'https://youtu.be/X-HC-HOlTPA'
+youtube_code: 'https://youtu.be/ui3q5t1C_88'
 ---
 
 
@@ -35,7 +35,7 @@ The second bathroom features a stand-up shower. There’s a laundry room inside 
 
 Plus, don’t miss our featured listings:
 
-* [5831 S 5th St in Tampa, FL 33611:](http://www.friesanddupree.com/homes-for-sale/FL/tampa/33611/5831-s-5th-st/efbf376410564f723fc0d430290ddcee)&nbsp;**SOLD** Price $485,000, 4 bedrooms, 3 bathrooms, 2,919 square feet
+* [5831 S 5th St in Tampa, FL 33611:](http://www.friesanddupree.com/homes-for-sale/FL/tampa/33611/5831-s-5th-st/efbf376410564f723fc0d430290ddcee) **SOLD** Price $485,000, 4 bedrooms, 3 bathrooms, 2,919 square feet
 * [1227 E Madison St Unit 506 N Tampa, FL 33602:](http://www.friesanddupree.com/homes-for-sale/FL/tampa/33602/1227-e-madison-st-unit-506/e00f828ea3cf019b0d99a1542123de97) Price $455,000, 2 bedrooms, 2 bathrooms, 1,927 square feet
 * [15017 Redcliff Dr Tampa, FL 33625:](http://www.friesanddupree.com/homes-for-sale/FL/tampa/33625/15017-redcliff-dr/d807be17a8f0098fc8e01afbfd7f226c) Price $309,900, 4 bedrooms, 2 bathrooms with pool, 2,314 square feet
 * [1020 E Crenshaw St Tampa, FL 33604:](http://www.friesanddupree.com/homes-for-sale/FL/tampa/33604/1020-e-crenshaw-st/fa5ba2f91fd79d47df8a7afcfa58ff09) Price $205,000, 3 bedrooms, 2 bathrooms, 1,138 square feet
