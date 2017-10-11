@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Charlotte Real Estate Podcast with Dan Jones</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://www.listwithdanjonesblog.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://www.listwithdanjonesblog.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Dan Jones Group - your professional Charlotte Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Dan Jones</managingEditor>
-    <lastBuildDate>2017-08-16 15:56:31 -0500</lastBuildDate>
+    <lastBuildDate>2017-10-11 12:50:40 -0500</lastBuildDate>
     <media:copyright>Dan Jones</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://www.listwithdanjonesblog.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charlotte, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,15 +18,184 @@
     </itunes:owner>
     <itunes:author>Dan Jones</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://www.listwithdanjonesblog.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charlotte, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Charlotte Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Dan Jones Group - your professional Charlotte Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
+        <title>How Does Square Footage Affect Your Home’s Value?</title>
+        <link>http://www.listwithdanjonesblog.com/how-does-square-footage-affect-your-homes-value.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Dan Jones</author>
+        <pubDate>2017-10-09 11:00:17 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+How+Does+Square+Footage+Affect+Home+Value%253F.mp4</guid>
+        <description>
+
+How much does your home’s square footage affect its value? There are several factors to consider.
+
+If you own a two-story, 3,000 square foot home that Zillow says is only worth $275,000 and you’re comparing it to a home across the street that’s also 3,000 square feet but has just sold for $350,000, why is that?
+
+If the home across the street is a ranch-style home where all 3,000 square feet are on one level instead of two, your home won’t sell for the same price. One reason for this is ranches are much more desirable in our Charlotte market. Secondly, ranches are more expensive to build. The base of a ranch home is much larger, and it’s more expensive to build out than it is to build up because that involves more concrete, more plumbing, and more structure to be built around the property. This is why when you see homes that are $20 or $30 more per square foot for a single level, you can’t compare that. 
+
+What about homes with basements? What if your home is 6,000 square feet with two stories and a basement and all the other two-story, 6,000 square foot homes without basements are selling for $125 per square foot?
+
+“When it comes to calculating your home’s market value, you have to do a full equity evaluation.”
+
+Your basement doesn’t cost as much to purchase as a home whose two stories account for all 6,000 square feet because your home’s square footage is 4,000 feet above ground and 2,000 feet below. That basement in general, depending on what sort of finishes it has, could be 30%, 40%, or 50% of the actual square footage cost of a home that has two stories instead of three.  
+
+If a home across the street sells for $500,000 and it’s the same square footage as yours, be careful in assuming yours will sell for $500,000 too. You don’t know what upgrades that home has had or if the previous homeowners made any structural differences to make it a completely open floor plan. If both of your homes were built at the same time, that kind of renovation and other kinds of renovations might make it look newer than yours.
+
+When it comes to making sure you know what your home is worth, you have to do a full equity evaluation that will account for square footage to a certain degree, but also the overall condition of a home, what upgrades have or have not been done, the location, and—most importantly—supply and demand. 
+
+In addition to the square footage, all of those factors determine the value of your home. 
+
+If you have any questions about this topic or you’re thinking of buying or selling a home in the Charlotte area, don’t hesitate to reach out to me. I’d love to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+How+Does+Square+Footage+Affect+Home+Value%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://www.listwithdanjonesblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+How+Does+Square+Footage+Affect+Home+Value%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Square footage is important, but it’s not the only factor that determines your home’s overall market value.</itunes:subtitle>
+        <itunes:author>Dan Jones</itunes:author>
+        <itunes:summary>Square footage is important, but it’s not the only factor that determines your home’s overall market value.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charlotte, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Thinking of Listing on Your Own? You May Want to Reconsider</title>
+        <link>http://www.listwithdanjonesblog.com/thinking-of-listing-on-your-own-you-may-want-to-reconsider.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Dan Jones</author>
+        <pubDate>2017-09-27 10:40:36 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+FSBO.mp4</guid>
+        <description>
+
+A lot of people ask me whether selling For Sale By Owner (or FSBO) is a good idea.
+
+When you list FSBO, the people who come to your home wanting to negotiate a deal are generally unqualified. They’ll come to your door without an agent and without a pre-qualification letter. In fact, most FSBO buyers need owner financing. 
+
+Most people who want to sell their home simply can’t do owner financing, since they typically want to buy another home with what they earn from their listing. 
+
+As you might expect, these kinds of buyers aren’t bringing great offers to the table. People who know that you’re listing FSBO will be well aware of the fact that you aren’t being represented. Therefore, you can be sure they’re going to try to take advantage of this fact by giving you a lowball offer.
+
+Recently, the National Association of Realtors did up the percentage of successful FSBO listings from 2% or 3% to 5% or 6% depending on the part of the country. Still, this leaves FSBO sellers with just a 6% chance at best to sell their homes on their own.
+
+“Don’t get caught without representation.”
+
+On top of that, those 6% of successful closings really aren’t that successful at all, since the final sale price is almost always far below the home’s true value.
+
+People sometimes falsely assume that they’re saving money by not working with a Realtor, but the truth is that FSBO sellers ultimately walk away with much less money. You really need to be careful trying to list on your own. 
+
+Last year, my team and I encountered a FSBO seller who only wanted $525,000 for a property. We were of course able to find a client willing to give that amount, but the home actually appraised for $615,000. 
+
+The seller was ecstatic at closing, since they believed they had gotten a great deal. From the perspective of our team, though, we saw that they actually still left a lot of money on the table. This could’ve been prevented with the help of a qualified agent.
+
+Don’t get caught without representation. The chances of success aren’t good, and people who are successful in listing FSBO still end up receiving 5%, 10%, or 15% less for their homes. 
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+FSBO.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://www.listwithdanjonesblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+FSBO.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Be careful trying to list your home on your own. Even those who successfully make it to closing this way still end up receiving much lower offers than they would while listing with an agent.</itunes:subtitle>
+        <itunes:author>Dan Jones</itunes:author>
+        <itunes:summary>Be careful trying to list your home on your own. Even those who successfully make it to closing this way still end up receiving much lower offers than they would while listing with an agent.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charlotte, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Don't Break the Bank With a Big Down Payment</title>
+        <link>http://www.listwithdanjonesblog.com/dont-break-the-bank-with-a-big-down-payment.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Dan Jones</author>
+        <pubDate>2017-09-11 04:33:17 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+No+Down+Payment+Options+for+Purchasing+Property.mp4</guid>
+        <description>
+
+There is a common misconception that you need a down payment of 10%, 15%, or 20% in order to purchase a home. However, there are actually a few options out there that allow buyers to put zero down on their home purchase. 
+
+The first option pertains specifically to people who are serving, or have previously served, in the military. As a way to thank our veterans and active duty military members for their service, the VA loan allows them to purchase a home for no money down and with a very low interest rate.
+
+For those who aren’t in the military, there are still options.
+
+The USDA loan, for example, is a great route for anyone considering living in a rural area. There are a few different applicable areas around the outskirts of Charlottesville, Belmont, Mount Holly, Troutman, and certain other places all qualify. 
+
+This loan is a great option, since it has low interest rates, no down payment, and requires no PMI—which is mortgage insurance. 
+
+If neither of these programs is applicable to you, there are still options. 
+
+“There are a few options out there that allow buyers to put zero money down for their home purchase.”
+
+Certain programs exist that allow you to pay as low as 1% down. A couple of our in-house lenders actually allow buyers to qualify for a conventional loan with just a 1% down payment. To qualify for this, you do need a credit score above 640 to 660 depending on your job and assets. 
+
+Finally, grant programs through the state can also provide down payment assistance. The North Carolina Grant Program is still offering $15,000 for first-time homebuyers. This is a great program. If you are a new buyer or haven’t bought a home in a few years, we’d love to help you look into this product.
+
+These days, making sure that you have the best financing options is incredibly important and could save you hundreds on a monthly basis. When you work with us, we do our best to make sure you get the best rates, terms, and conditions. 
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+No+Down+Payment+Options+for+Purchasing+Property.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://www.listwithdanjonesblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+No+Down+Payment+Options+for+Purchasing+Property.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>It isn’t easy to come up with the money for a sizeable down payment. Thankfully, certain loan products make it so that you don’t have to.</itunes:subtitle>
+        <itunes:author>Dan Jones</itunes:author>
+        <itunes:summary>It isn’t easy to come up with the money for a sizeable down payment. Thankfully, certain loan products make it so that you don’t have to.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charlotte, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to Generate Multiple Offers the Right Way</title>
+        <link>http://www.listwithdanjonesblog.com/how-to-generate-multiple-offers-the-right-way.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Dan Jones</author>
+        <pubDate>2017-08-29 10:20:38 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+How+to+Get+Multiple+Offers+on+Your+Property.mp4</guid>
+        <description>
+
+What is the key to getting multiple offers on your property?
+
+Many people assume they have to price their home $20,000 or $30,000 below market value, but that’s not true. What you do have to know, though, is how your home will fit into today’s market. To find this out, you have to do a full equity valuation on your property and a market absorption analysis to calculate its true market value. 
+
+The average person in our area does a CMA, or comparative market analysis, to calculate a home’s market value. This is an old-fashioned, real-estate-101 process that typically uses as little as three sold properties to come up with a number your home might be worth. 
+
+“If you allow a CMA to determine the market value for your home, you’re in trouble.”
+
+CMAs offer a little value, but when it comes to knowing the market, the problem with a CMA is you don’t know what happened with those three sold properties. Were they relocation homes? Was one of the properties a distressed home? Was there a divorce involved somewhere? 
+
+If you allow a CMA to determine the market value for your home, you’re in trouble. You might get multiple offers, but they’ll likely be for $20,000 or $30,000 less than what your home’s actually worth and you’ll end up leaving money on the table. 
+
+On the flipside, you can’t price your home extremely high, either. Regardless of the quality of your home’s marketing, overpricing it will turn off a large segment of buyers and force you to eventually reduce its price. Doing that will also cause buyers to wonder what might be wrong with your home. By the time you do finally reduce your home’s price to where it should’ve been in the first place, you’ll earn 5% to 10% less because buyers will deduct you for the number of days the home spent on the market. 
+
+To generate multiple offers the right way, I recommend hiring a professional team of agents like us to help you. We can come into your home, give it a full equity evaluation, and price it appropriately. From there, we’ll use aggressive marketing to attract a lot of offers from qualified buyers within a handful of days your home gets listed. 
+
+If you have any questions about getting multiple offers on your property, don’t hesitate to give us a call or send us an email. We look forward to seeing you at the closing table.
+ 
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+How+to+Get+Multiple+Offers+on+Your+Property.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://www.listwithdanjonesblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+How+to+Get+Multiple+Offers+on+Your+Property.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you want to get multiple offers on your property, you should hire a team of agents who can give it a full equity valuation, price it correctly, and market it to many qualified buyers.</itunes:subtitle>
+        <itunes:author>Dan Jones</itunes:author>
+        <itunes:summary>If you want to get multiple offers on your property, you should hire a team of agents who can give it a full equity valuation, price it correctly, and market it to many qualified buyers.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charlotte, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>Are We in a Bubble?</title>
-        <link>localhost:4000/are-we-in-bubble.html</link>
+        <link>http://www.listwithdanjonesblog.com/are-we-in-bubble.html</link>
         
           <category>Market Update</category>
         
@@ -60,7 +229,7 @@ Overall, I’d have to say that most people would not agree that we’re in a bu
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+Is+Charlotte+in+a+Real+Estate+Bubble%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.listwithdanjonesblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+Is+Charlotte+in+a+Real+Estate+Bubble%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -79,7 +248,7 @@ A lot of people are asking if we’re in a bubble. To figure that out, the first
       
       <item>
         <title>How Do You Choose a Quality Agent?</title>
-        <link>localhost:4000/how-do-you-choose-quality-agent.html</link>
+        <link>http://www.listwithdanjonesblog.com/how-do-you-choose-quality-agent.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -115,7 +284,7 @@ One of the things that sets my team apart is that we only accept full price offe
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+How+to+find+a+good+agent.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.listwithdanjonesblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+How+to+find+a+good+agent.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -134,7 +303,7 @@ When you are looking for an agent to help with your real estate transaction, how
       
       <item>
         <title>Who Can You Trust to Sell Your Rental Property?</title>
-        <link>localhost:4000/who-can-you-trust-to-sell-your-rental.html</link>
+        <link>http://www.listwithdanjonesblog.com/who-can-you-trust-to-sell-your-rental.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -158,7 +327,7 @@ Someone once told me that when you ask someone to do something they don’t norm
 If you have a home that’s rented that you’re looking to sell, don’t hesitate to give me a call or send me an email. I’d be happy to help!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+Who+Can+You+Trust+to+Sell+Your+Rental+Property%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.listwithdanjonesblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+Who+Can+You+Trust+to+Sell+Your+Rental+Property%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -177,7 +346,7 @@ If you want to sell your home that’s currently being rented, should you try to
       
       <item>
         <title>A Few Things to Know Before Buying New Construction</title>
-        <link>localhost:4000/a-few-things-to-know-before-buying-new.html</link>
+        <link>http://www.listwithdanjonesblog.com/a-few-things-to-know-before-buying-new.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -203,7 +372,7 @@ Speaking of our great agents, let me give a shout out to one of our new agents, 
 In the meantime, if you have any questions for us, don’t hesitate to give us a call or send us an email. We look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+New+construction+Edited.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.listwithdanjonesblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+New+construction+Edited.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -222,7 +391,7 @@ Whatever you do, don’t start the new home building process without an agent’
       
       <item>
         <title>The Latest News From the Charlotte Real Estate Market</title>
-        <link>localhost:4000/the-latest-news-from-charlotte-real.html</link>
+        <link>http://www.listwithdanjonesblog.com/the-latest-news-from-charlotte-real.html</link>
         
           <category>Market Update</category>
         
@@ -248,7 +417,7 @@ For buyers, interest rates are still incredibly low, but they are starting to cr
 If you have any questions about navigating our current market, give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+Market+Update.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.listwithdanjonesblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+Market+Update.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -267,7 +436,7 @@ It’s not summer yet, but the Charlotte real estate market is the hottest marke
       
       <item>
         <title>Why You Should Hire Us to Sell Your House</title>
-        <link>localhost:4000/why-you-should-hire-us-to-sell-your.html</link>
+        <link>http://www.listwithdanjonesblog.com/why-you-should-hire-us-to-sell-your.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -297,7 +466,7 @@ We do a full equity evaluation based on a market absorption sheet. We’ll look 
 If you’re thinking about selling, it’s a must. Just give us a call or send us an email if you’re thinking about selling, we’d love to help.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+Are+You+Thinking+About+Selling+Your+Home+This+Year%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.listwithdanjonesblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+Are+You+Thinking+About+Selling+Your+Home+This+Year%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -316,7 +485,7 @@ If you’re thinking about selling your house this year, you need to reach out t
       
       <item>
         <title>Stand out on the Market By Doing These 4 Things</title>
-        <link>localhost:4000/stand-out-on-market-by-doing-these-4.html</link>
+        <link>http://www.listwithdanjonesblog.com/stand-out-on-market-by-doing-these-4.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -350,7 +519,7 @@ Assuming there are no major issues with your carpet or flooring, hitting the bas
 If you have any other questions, please feel free to give me a call or send me an email. I look forward to hearing from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+Affordable+Ways+to+Get+Your+Home+Ready+for+the+Market.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.listwithdanjonesblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+Affordable+Ways+to+Get+Your+Home+Ready+for+the+Market.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -369,7 +538,7 @@ Today I’m going to go over some great, affordable ways to prepare your home fo
       
       <item>
         <title>Why Work With One of Our Buyer Specialists?</title>
-        <link>localhost:4000/why-work-with-one-of-our-buyer.html</link>
+        <link>http://www.listwithdanjonesblog.com/why-work-with-one-of-our-buyer.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -391,7 +560,7 @@ Another unique advantage our team offers is that we are coached at a very high l
 The average agent sells five homes per year and doesn’t know how to get their buyers the best deal possible. With our unique training and experience, we do. If you have any questions for us or would like to work with one of our expert buyer specialists, give us a call or send us an email. We look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+What+Makes+Our+Buyer+Specialists+Different.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.listwithdanjonesblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+What+Makes+Our+Buyer+Specialists+Different.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -410,7 +579,7 @@ Our market moves fast, especially for buyers. You can gain an advantage on your 
       
       <item>
         <title>Whats Going on in the Charlotte Market?</title>
-        <link>localhost:4000/whats-going-on-in-charlotte-market.html</link>
+        <link>http://www.listwithdanjonesblog.com/whats-going-on-in-charlotte-market.html</link>
         
           <category>Market Update</category>
         
@@ -436,7 +605,7 @@ All in all, right now is a great time to buy or sell real estate. Also, if you h
 If you have any further questions or want to discuss how you can take advantage of Charlotte’s hot market, please feel free to give me a call or send me an email. I look forward to hearing from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+The+Charlotte+Market+is+On+Fire.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.listwithdanjonesblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2017/Dan+Jones+Home+Selling+Team-+The+Charlotte+Market+is+On+Fire.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -455,7 +624,7 @@ The Charlotte market is on fire right now! I’ll go over what’s making our re
       
       <item>
         <title>Great News for North Carolina Home Buyers </title>
-        <link>localhost:4000/great-news-for-north-carolina-home.html</link>
+        <link>http://www.listwithdanjonesblog.com/great-news-for-north-carolina-home.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -487,7 +656,7 @@ If you’re not a first-time home buyer but you know someone who is, make sure t
 Last October, 3,000 grants were issued to home buyers. There are not many left today. Get in touch with us to take advantage of this great loan program. We would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+%252415K+Grant+Program+is+back.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.listwithdanjonesblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+%252415K+Grant+Program+is+back.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -506,7 +675,7 @@ North Carolina recently brought back its $15,000 grant program. This is a great 
       
       <item>
         <title>Why Is Now a Great Time to List Your Home?</title>
-        <link>localhost:4000/why-is-now-great-time-to-list-your-home.html</link>
+        <link>http://www.listwithdanjonesblog.com/why-is-now-great-time-to-list-your-home.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -530,7 +699,7 @@ If you’ve been thinking about selling, get a time set up with one of our listi
 As always, if you have any questions, we would be glad to answer them. Just give us a call or send us an email. We can’t wait to hear from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+Hiring+Buyer+Agents.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.listwithdanjonesblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+Hiring+Buyer+Agents.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -549,7 +718,7 @@ There are a lot of serious buyers out in the market right now. Here’s why list
       
       <item>
         <title>What Makes Zestimates Inaccurate?</title>
-        <link>localhost:4000/dan-jones-home-selling-team-perils-of.html</link>
+        <link>http://www.listwithdanjonesblog.com/dan-jones-home-selling-team-perils-of.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -571,7 +740,7 @@ Finally, Zestimates don’t take upgrades and updates into account. Your home’
 I have a rental property that Zillow recently told me is worth $80,000 more than it really is. If anyone out there would like to buy the home for the Zestimate price, let me know and we’ll get a contract written up. Otherwise, if you have any other questions or want to know what the true market value of your home is, give us a call. We would be happy to do an equity evaluation for you and give you a professional opinion on how much your home should sell for.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+Why+Zillow+Zestimates+Are+So+Off.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.listwithdanjonesblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+Why+Zillow+Zestimates+Are+So+Off.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -590,7 +759,7 @@ I’ve gotten a lot of questions recently about Zestimates, and I’m going to a
       
       <item>
         <title>What Are Some of the Hidden Costs of Selling a House?</title>
-        <link>localhost:4000/dan-jones-home-selling-team-hidden.html</link>
+        <link>http://www.listwithdanjonesblog.com/dan-jones-home-selling-team-hidden.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -614,7 +783,7 @@ Finally, you have costs like additional repairs or attorney’s fees. If there a
 Be sure you’re aware of these omissions when it’s your time to sell so you’re prepared for the process. If you have any questions, please send me an email or give me a call. As always, I look forward to your referrals and talking to you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+The+Hidden+Costs+of+Selling+a+House.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.listwithdanjonesblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+The+Hidden+Costs+of+Selling+a+House.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -633,7 +802,7 @@ There are several hidden costs of selling a house people usually don’t find ou
       
       <item>
         <title>Pricing Errors that Cost Carolina Home Sellers Thousands</title>
-        <link>localhost:4000/dan-jones-home-selling-team-avoid-these.html</link>
+        <link>http://www.listwithdanjonesblog.com/dan-jones-home-selling-team-avoid-these.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -659,7 +828,7 @@ Finally, choosing the wrong agent can cause you to lose tens of thousands of dol
 Let me know of any questions you have about pricing your home, or if you’re considering buying or selling a home. I look forward to speaking with you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+The+Top+Reasons+Sellers+Lose+Thousands+of+Dollars+When+Selling.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.listwithdanjonesblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+The+Top+Reasons+Sellers+Lose+Thousands+of+Dollars+When+Selling.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -678,7 +847,7 @@ Homeowners can lose thousands of dollars when they sell their house for a number
       
       <item>
         <title>Why Is the Carolina Market So Hot? </title>
-        <link>localhost:4000/dan-jones-home-selling-team-carolina.html</link>
+        <link>http://www.listwithdanjonesblog.com/dan-jones-home-selling-team-carolina.html</link>
         
           <category>North Carolina Market Update</category>
         
@@ -700,7 +869,7 @@ If you are thinking of selling in this market, I have one warning: Do not underp
 If you are thinking about selling, give us a call or send us an email. We will do a full equity evaluation of your property so you don’t leave a lot of money on the table. We look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+Why+is+the+Market+So+Hot%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.listwithdanjonesblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+Why+is+the+Market+So+Hot%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -719,7 +888,7 @@ Now is a great time to sell your house. In the last three to six months, we’ve
       
       <item>
         <title>Dont Make This Common Buyer Mistake in Charlotte</title>
-        <link>localhost:4000/dan-jones-home-selling-team-hiring.html</link>
+        <link>http://www.listwithdanjonesblog.com/dan-jones-home-selling-team-hiring.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -741,7 +910,7 @@ Make sure that if you’re going to work with someone, you don’t make the mist
 If you or your friends, family or co-workers have questions or real estate needs, reach out to us. I’d love to speak with you and help you with your real estate needs.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+The+Biggest+Buyer+Mistakes.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.listwithdanjonesblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+The+Biggest+Buyer+Mistakes.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -760,7 +929,7 @@ There are unfortunately a lot of mistakes that buyers can make in the Charlotte 
       
       <item>
         <title>Avoid the Pitfalls of Hiring the Wrong Carolina Buyers Agent </title>
-        <link>localhost:4000/dan-jones-home-selling-team-wrong.html</link>
+        <link>http://www.listwithdanjonesblog.com/dan-jones-home-selling-team-wrong.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -782,7 +951,7 @@ Think twice about what agent you’re using. Interview more than one agent. Make
 My team and I can get you to the closing process with the least amount of trouble. We can make this a very easy experience for you. If you have any questions, just give us a call or send us an email. We would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+The+Potential+Pitfalls+of+Choosing+the+Wrong+Buyer%2527s+Agent.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.listwithdanjonesblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dan+Jones/Dan+Jones+Home+Selling+Team-+The+Potential+Pitfalls+of+Choosing+the+Wrong+Buyer%2527s+Agent.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
