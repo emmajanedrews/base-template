@@ -1,9 +1,9 @@
 ---
 layout: post
 title: How Can You Increase the Value of Your Home?
-date: 2017-10-12 15:00:53
+date: 2017-10-12 15:00:00
 tags:
-  - Real Estate
+  - Home Seller Tips
 excerpt: You can increase your home’s value
 enclosure:
 pullquote: The best smell is no smell.
