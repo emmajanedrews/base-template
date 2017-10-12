@@ -1262,15 +1262,15 @@ html[xmlns] .flexslider .slides {
     text-align: center; }
   .ctalink:hover {
     background: transparent;
-    color: #02e4e2;
-    box-shadow: 4px 4px 0 #02e4e2;
-    border: 1px solid #02e4e2;
+    color: #00007e;
+    box-shadow: 4px 4px 0 #00007e;
+    border: 1px solid #00007e;
     -webkit-transform: scale(1.05);
     transform: scale(1.05);
     -webkit-transform: translateY(-0.2rem);
     transform: translateY(-0.2rem); }
   .ctalink:active {
-    box-shadow: 0 0 0 #02e4e2;
+    box-shadow: 0 0 0 #00007e;
     -webkit-transform: translateY(0rem);
     transform: translateY(0rem); }
 
@@ -1363,7 +1363,7 @@ html[xmlns] .flexslider .slides {
   transition: all 0.15s ease-out 0s;
   cursor: pointer; }
   .welcome-exit:hover {
-    color: #02e4e2; }
+    color: #00007e; }
   .welcome-exit:focus {
     outline: 0;
     border: 0; }
@@ -1385,7 +1385,7 @@ html[xmlns] .flexslider .slides {
   margin: 0;
   padding: 0;
   position: relative;
-  -webkit-tap-highlight-color: #02e4e2;
+  -webkit-tap-highlight-color: #00007e;
   text-align: left;
   -webkit-touch-callout: none;
   -webkit-user-select: none;
@@ -1422,7 +1422,7 @@ html[xmlns] .flexslider .slides {
       -webkit-transition: all 0.15s ease-out 0s;
       transition: all 0.15s ease-out 0s; }
       .jp-audio .jp-controls a:hover {
-        color: #02e4e2; }
+        color: #00007e; }
   .jp-audio .jp-progress {
     background-color: #fff;
     height: 10px;
@@ -1431,7 +1431,7 @@ html[xmlns] .flexslider .slides {
       cursor: pointer;
       height: 100%; }
     .jp-audio .jp-progress .jp-play-bar {
-      background-color: #02e4e2;
+      background-color: #00007e;
       height: 100%;
       width: 0; }
   .jp-audio .timekeeper {
@@ -1781,7 +1781,7 @@ a {
   text-decoration: none; }
   a:hover {
     text-decoration: none;
-    color: #02e4e2; }
+    color: #00007e; }
   a:visited {
     text-decoration: none; }
 
@@ -1792,8 +1792,8 @@ a {
   border: 1px solid #017f7e;
   border-radius: 0px; }
   .button:hover, .button-ghost:hover, button:hover, input[type="button"]:hover, input[type="submit"]:hover {
-    background: #02e4e2;
-    border: 1px solid #02e4e2;
+    background: #00007e;
+    border: 1px solid #00007e;
     color: white; }
   .button:visited, .button-ghost:visited, button:visited, input[type="button"]:visited, input[type="submit"]:visited {
     color: white; }
@@ -1810,8 +1810,8 @@ a {
   border-color: #017f7e;
   color: #017f7e; }
   .button-ghost.brand:hover {
-    border-color: #02e4e2;
-    color: #02e4e2; }
+    border-color: #00007e;
+    color: #00007e; }
 
 table tr, table td {
   border-bottom: 1px solid gray;
@@ -1963,15 +1963,15 @@ table tr, table td {
   transition: all 0.15s ease-out 0s; }
   .readlink > a:hover {
     background: transparent;
-    color: #02e4e2;
-    box-shadow: 4px 4px 0 #02e4e2;
-    border: 1px solid #02e4e2;
+    color: #00007e;
+    box-shadow: 4px 4px 0 #00007e;
+    border: 1px solid #00007e;
     -webkit-transform: scale(1.05);
     transform: scale(1.05);
     -webkit-transform: translateY(-0.2rem);
     transform: translateY(-0.2rem); }
   .readlink > a:active {
-    box-shadow: 0 0 0 #02e4e2;
+    box-shadow: 0 0 0 #00007e;
     -webkit-transform: translateY(0rem);
     transform: translateY(0rem); }
 
@@ -2068,7 +2068,7 @@ table tr, table td {
   .author-attribution a {
     color: white; }
     .author-attribution a:hover {
-      color: #02e4e2; }
+      color: #00007e; }
 
 .post-share {
   text-align: center;
@@ -2191,16 +2191,16 @@ table tr, table td {
     -webkit-transition: all 0.15s ease-out 0s;
     transition: all 0.15s ease-out 0s; }
     .socials svg:hover {
-      fill: #02e4e2;
+      fill: #00007e;
       background: transparent;
-      color: #02e4e2;
+      color: #00007e;
       box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
       -webkit-transform: scale(1.05);
       transform: scale(1.05);
       -webkit-transform: translateY(-0.2rem);
       transform: translateY(-0.2rem); }
     .socials svg:active {
-      box-shadow: 0 0 0 #02e4e2;
+      box-shadow: 0 0 0 #00007e;
       -webkit-transform: translateY(0rem);
       transform: translateY(0rem); }
 
@@ -2213,7 +2213,7 @@ table tr, table td {
     width: 5rem;
     fill: #017f7e; }
     .about .socials svg:hover {
-      fill: #02e4e2; }
+      fill: #00007e; }
 
 .footer-socials .socials {
   text-align: center;
@@ -2231,7 +2231,7 @@ table tr, table td {
     -webkit-transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
     .footer-socials .socials svg:hover {
-      fill: #02e4e2;
+      fill: #00007e;
       background: transparent; }
 
 @media (max-width: 1450px) {
@@ -2351,15 +2351,15 @@ table tr, table td {
     transition: 0.3s; }
     .search-box .search-submit:hover {
       background: transparent;
-      color: #02e4e2;
-      box-shadow: 4px 4px 0 #02e4e2;
-      border: 2px solid #02e4e2;
+      color: #00007e;
+      box-shadow: 4px 4px 0 #00007e;
+      border: 2px solid #00007e;
       -webkit-transform: scale(1.05);
       transform: scale(1.05);
       -webkit-transform: translateY(-0.2rem);
       transform: translateY(-0.2rem); }
     .search-box .search-submit:active {
-      box-shadow: 0 0 0 #02e4e2;
+      box-shadow: 0 0 0 #00007e;
       -webkit-transform: translateY(0rem);
       transform: translateY(0rem); }
 
@@ -2395,16 +2395,16 @@ table tr, table td {
     width: 100px; }
   .review.button:hover, .review.button-ghost:hover {
     background: transparent;
-    color: #02e4e2;
-    box-shadow: 4px 4px 0 #02e4e2;
+    color: #00007e;
+    box-shadow: 4px 4px 0 #00007e;
     -webkit-transform: scale(1.05);
     transform: scale(1.05);
     -webkit-transform: translateY(-0.2rem);
     transform: translateY(-0.2rem); }
     .review.button:hover svg, .review.button-ghost:hover svg {
-      fill: #02e4e2; }
+      fill: #00007e; }
   .review.button:active, .review.button-ghost:active {
-    box-shadow: 0 0 0 #02e4e2;
+    box-shadow: 0 0 0 #00007e;
     -webkit-transform: translateY(0rem);
     transform: translateY(0rem); }
 
@@ -2488,7 +2488,7 @@ table tr, table td {
   top: 0.5rem;
   margin-right: 0.1rem; }
   .vyral-logo:hover {
-    fill: #02e4e2; }
+    fill: #00007e; }
 
 .footer-pad {
   padding-top: 20px; }
@@ -2583,7 +2583,7 @@ table tr, table td {
     -webkit-transition: all 0.15s ease-out 0s;
     transition: all 0.15s ease-out 0s; }
     .testimonial-navigation a:hover {
-      color: #1cfdfb; }
+      color: #0000b1; }
   .testimonial-navigation h3 {
     padding: 0 10px;
     text-align: center; }
@@ -2695,7 +2695,7 @@ table tr, table td {
   background: #fff;
   border-radius: 50%; }
   .exit:hover {
-    color: #02e4e2; }
+    color: #00007e; }
   .exit:focus {
     outline: 0;
     border: 0; }
@@ -2728,7 +2728,7 @@ form select {
     padding: 1rem;
     border: 3px solid #017f7e; }
     .home-value input[type="submit"]:hover {
-      border: 3px solid #02e4e2; }
+      border: 3px solid #00007e; }
 
 .contact-form {
   width: 100%;
@@ -2749,9 +2749,9 @@ form select {
     border-radius: 5px; }
     .contact-form input[type="submit"]:hover {
       background: white;
-      color: #02e4e2;
-      box-shadow: 4px 4px 0 #02e4e2;
-      border: 2px solid #02e4e2;
+      color: #00007e;
+      box-shadow: 4px 4px 0 #00007e;
+      border: 2px solid #00007e;
       -webkit-transform: scale(1.05);
       transform: scale(1.05);
       -webkit-transform: translateY(-0.2rem);
@@ -2824,8 +2824,8 @@ form select {
     .newsletter_optin input[type="submit"]:hover {
       background: transparent;
       color: white;
-      box-shadow: 4px 4px 0 #02e4e2;
-      border: 1px solid #02e4e2;
+      box-shadow: 4px 4px 0 #00007e;
+      border: 1px solid #00007e;
       -webkit-transform: scale(1.05);
       transform: scale(1.05);
       -webkit-transform: translateY(-0.2rem);
@@ -2861,6 +2861,8 @@ form select {
     fill: #fff; }
   .footer .socials svg {
     fill: #fff; }
+    .footer .socials svg:hover {
+      fill: #017f7e; }
   .footer a {
     color: #fff; }
 

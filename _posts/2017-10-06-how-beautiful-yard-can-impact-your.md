@@ -12,7 +12,7 @@ title: How a Beautiful Yard Can Impact Your Listing
 date: '2017-10-06T07:38:00.001-07:00'
 author: Vyral Admin
 tags:
-- Columbia Real Estate Seller Tips
+- Home Seller Tips
 modified_time: '2017-10-09T13:49:50.136-07:00'
 thumbnail: https://i.ytimg.com/vi/0q_dG1Y8-go/default.jpg
 blogger_id: tag:blogger.com,1999:blog-7046739493561026435.post-3394505497286941906

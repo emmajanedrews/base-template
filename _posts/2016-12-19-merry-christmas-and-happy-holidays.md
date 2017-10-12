@@ -12,7 +12,7 @@ title: Merry Christmas and Happy Holidays!
 date: '2016-12-19T10:49:00.000-08:00'
 author: Vyral Admin
 tags:
-- happy holidays
+- Happy Holidays
 modified_time: '2017-05-02T11:50:03.421-07:00'
 thumbnail: https://i.ytimg.com/vi/yNU30qvauZ4/default.jpg
 blogger_id: tag:blogger.com,1999:blog-7046739493561026435.post-5979637503745688764

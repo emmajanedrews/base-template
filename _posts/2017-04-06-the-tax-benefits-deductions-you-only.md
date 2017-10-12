@@ -12,7 +12,7 @@ title: The Tax Benefits & Deductions You Only Get as a Homeowner
 date: '2017-04-06T10:20:00.000-07:00'
 author: Vyral Admin
 tags:
-- Columbia Real Estate Other
+- Columbia Real Estate
 modified_time: '2017-04-07T08:00:10.639-07:00'
 thumbnail: https://i.ytimg.com/vi/JUGpcn7mqck/default.jpg
 blogger_id: tag:blogger.com,1999:blog-7046739493561026435.post-6126235005275411854

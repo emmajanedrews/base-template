@@ -12,7 +12,7 @@ title: 'The Truth About Our Guaranteed Sale Program '
 date: '2017-02-27T12:49:00.000-08:00'
 author: Vyral Admin
 tags:
-- Sale Program
+- Guaranteed Sale Program
 modified_time: '2017-02-27T12:49:06.217-08:00'
 thumbnail: https://i.ytimg.com/vi/bXoBPhFH49k/default.jpg
 blogger_id: tag:blogger.com,1999:blog-7046739493561026435.post-319884753803244784

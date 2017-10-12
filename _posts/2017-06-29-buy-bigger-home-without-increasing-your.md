@@ -12,7 +12,7 @@ title: Buy a Bigger Home Without Increasing Your Payment
 date: '2017-06-29T09:59:00.000-07:00'
 author: Vyral Admin
 tags:
-- Columbia Real Estate Buyer Tips
+- Home Buyer Tips
 modified_time: '2017-07-11T07:50:51.962-07:00'
 thumbnail: https://i.ytimg.com/vi/wmgCjZw8-C0/default.jpg
 blogger_id: tag:blogger.com,1999:blog-7046739493561026435.post-6368958174022571971

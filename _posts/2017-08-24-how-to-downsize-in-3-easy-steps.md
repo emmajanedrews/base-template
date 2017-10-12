@@ -12,7 +12,7 @@ title: How to Downsize in 3 Easy Steps
 date: '2017-08-24T13:07:00.000-07:00'
 author: Vyral Admin
 tags:
-- Columbia Real Estate Seller Tips
+- Home Seller Tips
 modified_time: '2017-08-25T11:29:40.540-07:00'
 thumbnail: https://i.ytimg.com/vi/SlU1si-F4Ok/default.jpg
 blogger_id: tag:blogger.com,1999:blog-7046739493561026435.post-2657984599558471529
