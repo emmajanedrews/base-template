@@ -30,6 +30,6 @@ References are a vital step in securing a new role. It gives prospective employe
 
 **If you worked in teams before and had co-workers whom you knew and trusted, those would also be a great reference for you.** This would give prospective employers insight on how you worked in a team environment
 
-Lastly, if you’re new to the workforce and you haven’t had a lot of work experience but have recently graduated, **a professor would be an excellent person to reference;** they can share how you performed within their class and how you fit into various projects you may have done.
+Lastly, if you’re new to the workforce and you haven’t had a lot of work experience but have recently graduated, **a professor would be an excellent person to reference.**They can share how you performed within their class and how you fit into various projects you may have done.
 
 If you have any other questions about when to ask for references or who you should ask to be your reference, feel free to reach out to us. We’d be happy to help.
