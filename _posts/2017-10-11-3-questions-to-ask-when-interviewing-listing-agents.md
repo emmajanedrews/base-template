@@ -31,7 +31,7 @@ A home is the biggest financial investment you will likely ever make, so you wan
 
 {% include pullquote.html %}
 
-The third, and probably most important, question, is **whether the agent hires a professional photographer.**Photographs of your home are the very first impression that buyers get, since most people search first online. Don’t accept anything less than professional photography. It is going to make a world of difference in getting buyers in your door and eventually to the closing table.
+The third, and probably most important, question, is **whether the agent hires a professional photographer.&nbsp;**Photographs of your home are the very first impression that buyers get, since most people search first online. Don’t accept anything less than professional photography. It is going to make a world of difference in getting buyers in your door and eventually to the closing table.
 
 Finally, ask how many repeat clients and referrals an agent gets. When a high number of past clients are generating new referrals, this means they likely had a very positive experience with the agent.
 
