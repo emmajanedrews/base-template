@@ -20,4 +20,14 @@ youtube_code: 'https://youtu.be/T58GCkZggJQ'
 
 {% include youtube.html %}
 
+Today we’re excited to introduce Heather Sowa, a new team member of ours.
+
+She’s now helping us sell homes in our Denver market, so if you have any real estate needs in our local area, in Atlanta, or anywhere in the country, Heather would be more than happy to help make your experience as great as possible.<br><br>Heather also wants to let you know that now is a great time to buy. **Interest rates are going up and so are prices, so act while you can before they do.**
+
 {% include pullquote.html %}
+
+Thankfully, down payment assistance programs can help you get into the home of your dreams for less than expected.
+
+Heather would love to go over some of these programs with you, and to also talk about how you could pay less for a mortgage than for rent in our current market.
+
+If you have any other questions or would like more information, feel free to give Heather a call or send her an email. She looks forward to hearing from you soon.
