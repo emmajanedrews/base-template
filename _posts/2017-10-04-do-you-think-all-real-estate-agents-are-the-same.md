@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do You Think All Real Estate Agents Are the Same?
-date: 2017-10-04 09:29:44
+date: 2017-10-04 09:29:00
 tags:
   - Real Estate
 excerpt: >-
@@ -13,7 +13,7 @@ pullquote: We’ve been helping clients buy and sell homes for 30 years.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/tad-wicker-new-website-youtube-3.jpg
+youtube_alternate_image: /uploads/tad-wicker-makes-stand-out-youtube.jpg
 youtube_code: 'https://youtu.be/l0nPT-W02uY'
 ---
 
@@ -26,7 +26,7 @@ I think many people would say, “yes.” And unfortunately, they are often righ
 
 At the Wicker Homes Group, we think that’s unacceptable. **We are on a mission to raise the bar in our industry.** We want to bring a new level of professionalism, service and integrity to real estate.
 
-With 30 years of experience helping clients buy and sell homes, we’ve developed a 19-point system that delivers proven results for our sellers. &nbsp;<br><br>**To help our clients and friends better understand this system and the difference it makes, we’ve launched a new website: [www.SellWithWHG.com](http://www.sellwithwhg.com/).** It’s a one-stop shop for anyone thinking of selling their home.
+With 30 years of experience helping clients buy and sell homes, we’ve developed a 19-point system that delivers proven results for our sellers.  <br><br>**To help our clients and friends better understand this system and the difference it makes, we’ve launched a new website: [www.SellWithWHG.com](http://www.sellwithwhg.com/).** It’s a one-stop shop for anyone thinking of selling their home.
 
 {% include pullquote.html %}
 
