@@ -21,8 +21,8 @@ blogger_orig_url: http://thelancewoodleyrealtyteam.blogspot.com/2017/06/buy-bigg
 {% include youtube.html %}
 Now is a great time to move up into a new home. If you have a lot of equity, you can actually secure a lower monthly payment.
 
-Buying a Columbia Home? Search all Homes for Sale
-Selling a Columbia Home? Check out our FREE Home Value Report
+**Buying a Columbia Home?** <a href="" target="_blank">Search all Homes for Sale</a>
+**Selling a Columbia Home?** <a href="" target="_blank">Check out our FREE Home Value Report</a>
 
 A lot of people want to move up into a bigger, nicer house in a better neighborhood. Maybe they want a great view, like a golf course or a lake. It can be difficult to make the numbers work. However, with the latest market increase, if you’ve been in your home for a few years you may have more equity than you think.
 

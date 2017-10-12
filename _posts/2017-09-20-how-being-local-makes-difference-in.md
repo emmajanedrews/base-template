@@ -21,8 +21,8 @@ blogger_orig_url: http://thelancewoodleyrealtyteam.blogspot.com/2017/09/how-bein
 {% include youtube.html %}
 When it comes to real estate, the same thing doesn’t work in every area. Real estate is local, and it needs to be treated that way.
 
-Buying a Columbia Home? Search All Homes for Sale
-Selling a Columbia Home? Check out our FREE Home Value Report
+**Buying a Columbia Home?** <a href="" target="_blank">Search all Homes for Sale</a>
+**Selling a Columbia Home?** <a href="" target="_blank">Check out our FREE Home Value Report</a>
 
 Today I want to discuss the fact that real estate is local.
 

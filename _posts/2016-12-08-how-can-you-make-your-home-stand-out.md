@@ -21,8 +21,8 @@ blogger_orig_url: http://thelancewoodleyrealtyteam.blogspot.com/2016/12/how-can-
 {% include youtube.html %}
 If you’re selling a house during the wintertime, you need to set it up to show a little bit differently than you would in the spring or summer. I have some tips for just that.
 
-Buying a Columbia Home? Search all Homes for Sale
-Selling a Columbia Home? Check out our FREE Home Value Report
+**Buying a Columbia Home?** <a href="" target="_blank">Search all Homes for Sale</a>
+**Selling a Columbia Home?** <a href="" target="_blank">Check out our FREE Home Value Report</a>
 
 If you sell your home in the wintertime, there are a few things you need to do differently to make sure it shows well.
 

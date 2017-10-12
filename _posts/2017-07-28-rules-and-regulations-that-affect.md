@@ -21,8 +21,8 @@ blogger_orig_url: http://thelancewoodleyrealtyteam.blogspot.com/2017/07/rules-an
 {% include youtube.html %}
 Should investors be able to renovate homes they purchase in historic areas? I think so, but what’s your opinion?
 
-Buying a Columbia Home? Search All Homes for Sale
-Selling a Columbia Home? Check out our FREE Home Value Report
+**Buying a Columbia Home?** <a href="" target="_blank">Search all Homes for Sale</a>
+**Selling a Columbia Home?** <a href="" target="_blank">Check out our FREE Home Value Report</a>
 
 An interesting thing has been happening in our real estate market lately. The city of Columbia has started putting historic overlays on certain neighborhoods that we haven’t been able to fully understand. The historic overlays prevent homeowners from improving or renovating their homes, even in the most basic ways.
 

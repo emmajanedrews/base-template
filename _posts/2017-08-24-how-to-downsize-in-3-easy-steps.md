@@ -21,8 +21,8 @@ blogger_orig_url: http://thelancewoodleyrealtyteam.blogspot.com/2017/08/how-to-d
 {% include youtube.html %}
 We’ve been getting a lot of questions about downsizing as of late. Here’s what you should know about it.
 
-Buying a Columbia Home? Search All Homes for Sale
-Selling a Columbia Home? Check out our FREE Home Value Report
+**Buying a Columbia Home?** <a href="" target="_blank">Search all Homes for Sale</a>
+**Selling a Columbia Home?** <a href="" target="_blank">Check out our FREE Home Value Report</a>
 
 I’ve been getting a lot of questions lately about downsizing, so I wanted to offer some tips for any of you who are thinking of selling your big house and moving into something a bit more manageable. **Here are the first three things you should do:**
 

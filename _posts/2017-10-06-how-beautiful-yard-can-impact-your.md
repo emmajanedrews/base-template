@@ -21,9 +21,8 @@ blogger_orig_url: http://thelancewoodleyrealtyteam.blogspot.com/2017/10/how-beau
 {% include youtube.html %}
 If you are thinking of selling your home sometime in the future, there are certain things you can do ahead of time to make your property shine.
 
-Buying a Columbia Home? Search All Homes for Sale
-Selling a Columbia Home? Check out our FREE Home Value Report
-
+**Buying a Columbia Home?** <a href="" target="_blank">Search all Homes for Sale</a>
+**Selling a Columbia Home?** <a href="" target="_blank">Check out our FREE Home Value Report</a>
 
 If you are preparing to list your home, there are several things you can do to improve the value of your home. We all know that **a beautiful house sells faster and for money.**
 

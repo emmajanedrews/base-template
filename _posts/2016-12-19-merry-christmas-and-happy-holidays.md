@@ -21,8 +21,8 @@ blogger_orig_url: http://thelancewoodleyrealtyteam.blogspot.com/2016/12/merry-ch
 {% include youtube.html %}
 The holidays are almost here, so we wanted to take a minute to wish you the happiest, safest, and most fun holiday season.
 
-Buying a Columbia Home? Search all Homes for Sale
-Selling a Columbia Home? Check out our FREE Home Value Report
+**Buying a Columbia Home?** <a href="" target="_blank">Search all Homes for Sale</a>
+**Selling a Columbia Home?** <a href="" target="_blank">Check out our FREE Home Value Report</a>
 
 The holidays are almost here, so we wanted to take a minute to wish you the happiest, safest, and most fun holiday season.
 
