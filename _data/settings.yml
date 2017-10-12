@@ -7,41 +7,41 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Damon Gettier
   license_number:
   about_markdown: |
-
-  market:
-  brand:
+    Damon Gettier & Associates Realtors specializes in Roanoke, Lynchburg, Smith Mountain Lake and New River Valley VA Real Estate! Founder Damon Gettier formed Damon Gettier & Associates REALTORS ("DGA") out of an intense desire to give his Clients the attention, communication and service they deserved. We do the most for our clients and provide the absolute best service in Lynchburg, Roanoke, Smith Mountain Lake and the New River Valley. We realize that our clients are our business, our future, our lives, and we care. We are not here to sell you a home, we are here to serve. In serving you, we know that our needs will be met. We know that a home is not a home until our clients make it their home. It is our desire to make that process the easiest, most exciting, pain free, experience possible by treating you honestly, ethically, while exhibiting extreme competence and knowledge. We want you to know and trust that we care, not through our words, but through our service and friendship.
+  market: Roanoke
+  brand: Damon Gettier & Associates
   brokerage:
-  address:
-  phone:
+  address: 1611 E Main Street Salem, VA 24153
+  phone: 540-314-1199
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Damon@DamonGettier.com
+  url: http://www.DamonGettier.net
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.damongettier.com/list/sell/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
-  VR_form:
+  second_CTA_URL: http://www.damongettier.net/our-homes
+  VR_form: http://oi.vresp.com?fid=6ebcefa641
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free -- MARKET -- Home Value Report"
-    CTA_url: /homevalue/
+    CTA_link_text: "Free Home Value Report"
+    CTA_url: http://www.damongettier.com/list/sell/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://www.damongettier.net/our-homes
 
 lender:
   show_section: false
@@ -66,17 +66,17 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/DamonGettierandAssociates
+  linkedin_url: http://www.linkedin.com/in/damongettier/
+  gplus_url: https://plus.google.com/115577070629118145299
+  youtube_url: http://www.youtube.com/user/RoanokeLiving
+  twitter_url: https://twitter.com/DamonGettier
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
-  podcast_url:
+  zillow_url: http://www.zillow.com/profile/damongettier1/
+  trulia_url: http://www.trulia.com/profile/damon-gettier-broker-roanoke-va-198857/reviews
+  yelp_url: http://www.yelp.com/biz/damon-gettier-and-associates-roanoke?nb=1
+  podcast_url: https://itunes.apple.com/us/podcast/roanoke-real-estate-agent/id985298370?mt=2
 
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
@@ -96,8 +96,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#000'
+  theme_color: '#6F010F'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -106,7 +106,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: rgba(112, 1, 16, .5)
 
 buttons:
   button_radius_number: 0
