@@ -8,7 +8,8 @@ excerpt: >-
   Do you think all real estate agents are the same? Unfortunately, many are. But
   not us. To show you how we’re different from other teams out there, we’ve
   launched a new website.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Tad+%26+Debbie+Wicker/Videos/Northern+Virginia+Real+Estate-+What+Makes+Us+Stand+Out+Compared+to+Other+Agents%253F.mp4
 pullquote: We’ve been helping clients buy and sell homes for 30 years.
 enclosure_type: video/mp4
 enclosure_time:
