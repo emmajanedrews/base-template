@@ -30,12 +30,12 @@ That isn’t the only number that has changed. In that same period in 2017, 6,46
 
 {% include pullquote.html %}
 
-This shows us that there’s been an increase of demand but also a decrease of supply. Also, the number of sold homes has increased to 75%, meaning there’s been a 7% increase in sales.
+This shows us that there’s been an increase in demand but also a decrease of supply. Also, the number of sold homes has increased to 75%, meaning there’s been a 7% increase in sales.
 
 Next comes my favorite statistic of those I’ve listed so far. **Last year, the average sale price was $191,000, but this year it has increased to $201,000.**
 
 However, the average days on market has declined. Now, the average is 72 days in South Central Pennsylvania.
 
-As a final note, the amount of expired listings has decreased by 10%.
+As a final note, the number of expired listings has decreased by 10%.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
