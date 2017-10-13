@@ -12,7 +12,7 @@ title: Where Should You Begin Your Home Search?
 date: '2016-10-04T09:11:00.000-07:00'
 author: Vyral Admin
 tags:
-- North Jersey real estate buyer tips
+- Home Buyer Tips
 modified_time: '2016-10-05T08:33:51.425-07:00'
 thumbnail: https://i.ytimg.com/vi/y7FBBdphzVo/default.jpg
 blogger_id: tag:blogger.com,1999:blog-6678842248115522344.post-6673801570109161156

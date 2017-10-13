@@ -12,7 +12,7 @@ title: Why You Need to Start With a Strong Offer
 date: '2017-08-03T09:06:00.000-07:00'
 author: Vyral Admin
 tags:
-- North Jersey Real Estate Home Buyer Tips
+- Home Buyer Tips
 modified_time: '2017-08-04T09:09:05.369-07:00'
 thumbnail: https://i.ytimg.com/vi/V0SH7kNGUyA/default.jpg
 blogger_id: tag:blogger.com,1999:blog-6678842248115522344.post-6648025871440955037

@@ -12,7 +12,7 @@ title: 3 Tips for Winning a Bidding War
 date: '2017-02-01T11:44:00.000-08:00'
 author: Vyral Admin
 tags:
-- North Jersey Real Estate Home Buyer Tips
+- Home Buyer Tips
 modified_time: '2017-02-01T11:44:04.717-08:00'
 thumbnail: https://i.ytimg.com/vi/8-U4W2Q8P8I/default.jpg
 blogger_id: tag:blogger.com,1999:blog-6678842248115522344.post-623484437448861872

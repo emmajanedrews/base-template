@@ -12,7 +12,8 @@ title: Tips For Buying and Selling at the Same Time
 date: '2017-01-18T12:55:00.002-08:00'
 author: Vyral Admin
 tags:
-- North Jersey Real Estate Tips
+- Home Buyer Tips
+- Home Seller Tips
 modified_time: '2017-01-19T09:58:21.023-08:00'
 thumbnail: https://i.ytimg.com/vi/C3iNGJK9nro/default.jpg
 blogger_id: tag:blogger.com,1999:blog-6678842248115522344.post-2275903832699140818

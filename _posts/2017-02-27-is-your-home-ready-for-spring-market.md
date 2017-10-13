@@ -12,7 +12,7 @@ title: Is Your Home Ready for the Spring Market?
 date: '2017-02-27T12:20:00.000-08:00'
 author: Vyral Admin
 tags:
-- North Jersey Real Estate Seller Tips
+- Home Seller Tips
 modified_time: '2017-02-28T11:11:12.527-08:00'
 thumbnail: https://i.ytimg.com/vi/LmP1LsjHkks/default.jpg
 blogger_id: tag:blogger.com,1999:blog-6678842248115522344.post-3116076619271562445

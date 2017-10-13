@@ -12,7 +12,7 @@ title: How Has the Election Affected The Housing Market?
 date: '2016-12-09T11:52:00.000-08:00'
 author: Vyral Admin
 tags:
-- North Jersey Real Estate Market Update
+- Market Update
 modified_time: '2016-12-09T12:44:06.820-08:00'
 thumbnail: https://i.ytimg.com/vi/LEJW4Zw76DY/default.jpg
 blogger_id: tag:blogger.com,1999:blog-6678842248115522344.post-8110723158852228851

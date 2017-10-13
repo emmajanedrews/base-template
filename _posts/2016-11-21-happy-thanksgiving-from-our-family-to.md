@@ -12,7 +12,7 @@ title: Happy Thanksgiving from Our Family to Yours
 date: '2016-11-21T11:13:00.000-08:00'
 author: Vyral Admin
 tags:
-- Holiday
+- Happy Holidays
 modified_time: '2016-12-09T12:00:05.503-08:00'
 thumbnail: https://i.ytimg.com/vi/T9n8L_pdUiY/default.jpg
 blogger_id: tag:blogger.com,1999:blog-6678842248115522344.post-6874347841023686051

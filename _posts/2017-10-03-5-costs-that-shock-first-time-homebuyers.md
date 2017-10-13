@@ -12,7 +12,7 @@ title: 5 Costs That Shock First-Time Homebuyers
 date: '2017-10-03T08:49:00.001-07:00'
 author: Vyral Admin
 tags:
-- North Jersey Real Estate Home Buyer Tips
+- Home Buyer Tips
 modified_time: '2017-10-04T10:54:55.397-07:00'
 thumbnail: https://i.ytimg.com/vi/tAjtP4nsgGE/default.jpg
 blogger_id: tag:blogger.com,1999:blog-6678842248115522344.post-8773118929973710762

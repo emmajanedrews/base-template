@@ -12,7 +12,7 @@ title: What Should You Think About Before You Sell?
 date: '2017-08-17T11:57:00.000-07:00'
 author: Vyral Admin
 tags:
-- North Jersey Real Estate Seller Tips
+- Home Seller Tips
 modified_time: '2017-08-17T11:58:30.617-07:00'
 thumbnail: https://i.ytimg.com/vi/q2VJ_CKHuuY/default.jpg
 blogger_id: tag:blogger.com,1999:blog-6678842248115522344.post-6931083136103147356

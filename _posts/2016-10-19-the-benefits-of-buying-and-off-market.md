@@ -12,7 +12,7 @@ title: The Benefits of Buying an Off-Market Property
 date: '2016-10-19T11:25:00.000-07:00'
 author: Vyral Admin
 tags:
-- North Jersey Real Estate Home Buyer Tips
+- Home Buyer Tips
 modified_time: '2016-10-20T10:34:21.247-07:00'
 thumbnail: https://i.ytimg.com/vi/ISuWyyqy77Y/default.jpg
 blogger_id: tag:blogger.com,1999:blog-6678842248115522344.post-3156924661888232428
