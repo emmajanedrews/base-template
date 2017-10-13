@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How the Wilstein Team Uses Leverage
-date:
+date: 2017-10-13 14:20:27
 tags:
   - Real Estate
 excerpt: >-
