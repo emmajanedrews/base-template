@@ -44,16 +44,17 @@ second_sidebar_CTA:
     CTA_url2: http://www.damongettier.net/our-homes
 
 lender:
-  show_section: false
+  show_section: true
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
-  logo_path: /img/logo.png
+  headshot_path: /img/lender_headshot.jpg
+  logo_path: /img/lender_logo.jpg
   logo_path_2:
-  name: Bill Murray
-  brand: Lender Co.
-  phone: 555-555-5555
-  email: bill@murray.com
-  url: http://eyegoop.com
+  name: Joel Balsley
+  title: Mortgage Banker
+  license_number: 'NMLS #210455, Licensed in VA'
+  phone: 540-278-1430
+  email: JoelBalsley@AtlanticBay.com
+  url: http://AtlanticBay.com/JoelBalsley
 
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
@@ -96,8 +97,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#000'
-  theme_color: '#6F010F'
+  brand_color: '#6F010F'
+  theme_color: '#000'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -106,7 +107,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: rgba(112, 1, 16, .5)
+  shadow_color: rgba(250, 250, 250, .5)
 
 buttons:
   button_radius_number: 0
