@@ -30,7 +30,7 @@ As I often say, though, averages are dangerous. You can have your head in the ov
 
 {% include pullquote.html %}
 
-Take a look at our months of inventory, for example. In northwest Calgary, things are relatively hot, and we’re just above our three-month moving average. Just above that in north Calgary, the moving average is also just above three months, but in reality, things are much cooler because there is about 5.5 months of inventory available on the market right now.
+Take a look at our months of inventory, for example. In Northwest Calgary, things are relatively hot, and we’re just above our three-month moving average. Just above that in North Calgary, the moving average is also just above three months, but in reality, things are much cooler because there is about 5.5 months of inventory available on the market right now.
 
 **There are challenges and opportunities in both these kinds of markets**—it really just depends on where you are, having the right skill set, and having the right plan in place.&nbsp;
 
