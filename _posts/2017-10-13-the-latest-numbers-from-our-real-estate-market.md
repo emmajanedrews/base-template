@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Latest Numbers From Our Real Estate Market
-date:
+date: 2017-10-13 16:39:46
 tags:
   - Market Update
 excerpt: >-
