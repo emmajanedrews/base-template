@@ -21,9 +21,8 @@ blogger_orig_url: http://sellwithsikora.blogspot.com/2017/09/5-questions-to-ask-
 {% include youtube.html %}
 The first step in buying a home isn’t looking online for properties. It’s answering these five questions about your financial situation.
 
-Want to sell your home? Get a FREE home value report.  
-Want to buy a home? Search all homes for sale.
-
+**Want to sell your home?** <a href="http://www.sellwithsikora.com/cma/property-valuation/" target="_blank">Get a FREE home value report.</a>
+**Want to buy a home?** <a href="http://www.sellwithsikora.com/" target="_blank">Search all homes for sale.</a>
 
 If you’re thinking about buying a home, here are five questions that you should ask yourself before you even start the first step of the process:
 

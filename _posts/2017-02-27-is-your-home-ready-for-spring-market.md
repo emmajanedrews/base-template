@@ -21,8 +21,8 @@ blogger_orig_url: http://sellwithsikora.blogspot.com/2017/02/is-your-home-ready-
 {% include youtube.html %}
 Is your home ready for the spring selling season? If not, here are three simple things you can do now to make your home more appealing to buyers.
 
-Want to sell your home? Get a FREE home value report.  
-Want to buy a home? Search all homes for sale.
+**Want to sell your home?** <a href="http://www.sellwithsikora.com/cma/property-valuation/" target="_blank">Get a FREE home value report.</a>
+**Want to buy a home?** <a href="http://www.sellwithsikora.com/" target="_blank">Search all homes for sale.</a>
 
 The spring market is just around the corner, and there are three simple things that you can do to prepare your home to sell for top dollar:
 

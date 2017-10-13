@@ -21,9 +21,8 @@ blogger_orig_url: http://sellwithsikora.blogspot.com/2017/08/what-should-you-thi
 {% include youtube.html %}
 If you’re a seller, what are a some ways you can maximize your opportunity? Today, I’ve got two methods to share.
 
-Want to sell your home? Get a FREE home value report.  
-Want to buy a home? Search all homes for sale.
-
+**Want to sell your home?** <a href="http://www.sellwithsikora.com/cma/property-valuation/" target="_blank">Get a FREE home value report.</a>
+**Want to buy a home?** <a href="http://www.sellwithsikora.com/" target="_blank">Search all homes for sale.</a>
 
 How can you maximize your opportunity as a seller?
 

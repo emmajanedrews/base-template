@@ -21,8 +21,8 @@ blogger_orig_url: http://sellwithsikora.blogspot.com/2017/01/tips-for-buying-and
 {% include youtube.html %}
 If you are looking to upgrade or transition to a new home, you’ll want to know these three options for buying and selling at the same time.
 
-Want to sell your home? Get a FREE home value report.  
-Want to buy a home? Search all homes for sale.
+**Want to sell your home?** <a href="http://www.sellwithsikora.com/cma/property-valuation/" target="_blank">Get a FREE home value report.</a>
+**Want to buy a home?** <a href="http://www.sellwithsikora.com/" target="_blank">Search all homes for sale.</a>
 
 If it’s time for you to upgrade or transition to a different home, you might be wondering how you can navigate buying and selling a home at the same time. Here’s a quick rundown on how to make sure the process goes smoothly.
 

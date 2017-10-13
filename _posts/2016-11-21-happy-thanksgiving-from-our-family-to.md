@@ -21,8 +21,8 @@ blogger_orig_url: http://sellwithsikora.blogspot.com/2016/11/happy-thanksgiving-
 {% include youtube.html %}
 Happy Thanksgiving to all of our clients. Your referrals and support have made this our best year by far.
 
-Want to sell your home? Get a FREE home value report.  
-Want to buy a home? Search all homes for sale.
+**Want to sell your home?** <a href="http://www.sellwithsikora.com/cma/property-valuation/" target="_blank">Get a FREE home value report.</a>
+**Want to buy a home?** <a href="http://www.sellwithsikora.com/" target="_blank">Search all homes for sale.</a>
 
 With Thanksgiving coming up quickly, I just wanted to take a few moments to say thank you to all of our great clients.
 

@@ -21,9 +21,8 @@ blogger_orig_url: http://sellwithsikora.blogspot.com/2017/10/5-costs-that-shock-
 {% include youtube.html %}
 Your mortgage isn’t the only thing you’ll have to pay when you buy a home. Here are five unexpected costs.
 
-Want to sell your home? Get a FREE home value report.  
-Want to buy a home? Search all homes for sale.
-
+**Want to sell your home?** <a href="http://www.sellwithsikora.com/cma/property-valuation/" target="_blank">Get a FREE home value report.</a>
+**Want to buy a home?** <a href="http://www.sellwithsikora.com/" target="_blank">Search all homes for sale.</a>
 
 If you’re thinking about buying a home, you need to be aware of all of the costs associated before you decide to take the leap. **Here are five expenses that typically shock and/or creep up on first-time buyers.**
 

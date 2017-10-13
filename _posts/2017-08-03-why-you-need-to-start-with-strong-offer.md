@@ -21,9 +21,8 @@ blogger_orig_url: http://sellwithsikora.blogspot.com/2017/08/why-you-need-to-sta
 {% include youtube.html %}
 When you make your first offer on a home, it needs to be a strong one. There are a couple of main reasons why.
 
-Want to sell your home? Get a FREE home value report.  
-Want to buy a home? Search all homes for sale.
-
+**Want to sell your home?** <a href="http://www.sellwithsikora.com/cma/property-valuation/" target="_blank">Get a FREE home value report.</a>
+**Want to buy a home?** <a href="http://www.sellwithsikora.com/" target="_blank">Search all homes for sale.</a>
 
 When you make your first offer on a home, you need to make sure that it’s a strong offer. Why?
 

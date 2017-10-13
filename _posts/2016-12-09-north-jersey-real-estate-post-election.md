@@ -1,7 +1,7 @@
 ---
 youtube_code: LEJW4Zw76DY
 excerpt:
-enclosure: 
+enclosure:
 pullquote: THERE SEEMS TO BE A LOT OF CONSUMER CONFIDENCE RIGHT NOW.
 enclosure_type: video/mp4
 enclosure_time:
@@ -21,8 +21,8 @@ blogger_orig_url: http://sellwithsikora.blogspot.com/2016/12/north-jersey-real-e
 {% include youtube.html %}
 Here’s what’s happening in our post-election real estate market.
 
-Want to sell your home? Get a FREE home value report.  
-Want to buy a home? Search all homes for sale.
+**Want to sell your home?** <a href="http://www.sellwithsikora.com/cma/property-valuation/" target="_blank">Get a FREE home value report.</a>
+**Want to buy a home?** <a href="http://www.sellwithsikora.com/" target="_blank">Search all homes for sale.</a>
 
 People have been asking me what the market looks like now that the election is over. To be honest, the trend that we are seeing isn’t what I expected. What happened to the real estate market post-election?
 

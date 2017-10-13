@@ -21,8 +21,8 @@ blogger_orig_url: http://sellwithsikora.blogspot.com/2017/02/2-ways-to-calculate
 {% include youtube.html %}
 How can you figure out your investment return on your rental property? I’ll go over two ways to do that today.
 
-Want to sell your home? Get a FREE home value report.  
-Want to buy a home? Search all homes for sale.
+**Want to sell your home?** <a href="http://www.sellwithsikora.com/cma/property-valuation/" target="_blank">Get a FREE home value report.</a>
+**Want to buy a home?** <a href="http://www.sellwithsikora.com/" target="_blank">Search all homes for sale.</a>
 
 How can you calculate what your return will be on an investment? There are actually two ways.
 

@@ -21,8 +21,8 @@ blogger_orig_url: http://sellwithsikora.blogspot.com/2016/10/the-benefits-of-buy
 {% include youtube.html %}
 Are you tired of getting dragged into bidding wars? Off-market properties may be the solution for you.
 
-Want to sell your home? Get a FREE home value report.  
-Want to buy a home? Search all homes for sale.
+**Want to sell your home?** <a href="http://www.sellwithsikora.com/cma/property-valuation/" target="_blank">Get a FREE home value report.</a>
+**Want to buy a home?** <a href="http://www.sellwithsikora.com/" target="_blank">Search all homes for sale.</a>
 
 Why would a buyer be interested in an off-market property?
 
