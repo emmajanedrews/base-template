@@ -26,7 +26,7 @@ As most of you already know, I’m a big fan of home staging, and recently I wen
 
 **Let’s talk about what’s happening in the market right now.**
 
-The Portland/Vancouver market is super hot right now, and that’s mainly because we don’t have a lot of homes for sale, so things are going quickly. Basically, we have two month’s worth of inventory. To put it in layman’s terms, if we stop taking listings today, it would take us about two months to sell everything on the market. Anything below six months is considered a seller’s market, and anything above is considered a buyer’s market. We’re firmly entrenched in a buyer’s market right now.
+The Portland/Vancouver market is super hot right now, and that’s mainly because we don’t have a lot of homes for sale, so things are going quickly. Basically, we have two months worth of inventory. To put it in layman’s terms, if we stop taking listings today, it would take us about two months to sell everything on the market. Anything below six months is considered a seller’s market, and anything above is considered a buyer’s market. We’re firmly entrenched in a buyer’s market right now.
 
 **Does that mean there’s competition for those homes that are out there?**
 
@@ -48,15 +48,15 @@ It’s taking the owner’s personality out of the house and putting a more neut
 
 (For a before-and-after photo of what staging can do for a home, refer to the period between 2:20 and 3:00 in the video above.)
 
-**Well how much does it cost to stage something?**
+**Well, how much does it cost to stage something?**
 
-Right, so it can range anywhere from $2,000 to $4,000, and that can be a hit on someone’s pocket book.
+Right, so it can range anywhere from $2,000 to $4,000, and that can be a hit on someone’s pocketbook.
 
 **But you can do things on your own, can’t you?**
 
 One of the things we suggest if you can’t afford staging is to at least have a staging consultation with an interior designer; it’s only a couple hundred dollars for a consultation. They’ll give you assignments to do with your own furniture. You can also do what we call virtual staging, which is relatively new. For this, you’ll have to have vacant rooms. We’ll come in and take professional photos, and we put them into a software that places furniture and artwork in the room to make it warmer and more marketable.
 
-**From what I’ve heard, isn’t the number one rule depersonalize your house?**
+**From what I’ve heard, isn’t the number one rule to depersonalize your house?**
 
 Right, it sounds kind of cheesy and cliche, but it’s true. It makes it more possible for people to see themselves in the house.
 
