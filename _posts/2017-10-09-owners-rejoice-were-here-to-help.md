@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Owners, Rejoice: We''re Here to Help'
-date: 2017-10-09 10:39:18
+date: 2017-10-09 10:39:00
 tags:
   - Real Estate
 excerpt: >-
   This month, I want to talk to you about some of the things we do to protect
   our property owners.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management-+What+property+managers+have+to+offer.mp4
 pullquote: >-
   We have two reasons to be in your house: to protect your home and to put money
   in your account.
@@ -27,7 +28,7 @@ We have two reasons to be in your house: **to protect your home and to put money
 
 I live by those models, and I make all my decisions based on those two reasons to be in your home and manage your home.
 
-If you do decide to use us, **one of the things we do is a walkthrough.**&nbsp;If we allow pets in your home, we will walk through the house every four months. We’ll get a picture of the pet and send it to you and get your approval before we even consider putting the pet in your home. If there is no pet (or a pet like a fish that won’t affect the flooring), we’ll come through every six months.
+If you do decide to use us, **one of the things we do is a walkthrough.** If we allow pets in your home, we will walk through the house every four months. We’ll get a picture of the pet and send it to you and get your approval before we even consider putting the pet in your home. If there is no pet (or a pet like a fish that won’t affect the flooring), we’ll come through every six months.
 
 {% include pullquote.html %}
 
