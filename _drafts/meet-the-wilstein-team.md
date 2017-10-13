@@ -8,7 +8,8 @@ excerpt: >-
   Today, I interviewed the entire Wilstein Team to see how they use leverage in
   their business. Ron Wilstein also explains why he chose to start his team with
   Keller Williams.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Nancy+Seraphin/+Videos/2017/October/Park+City+Real+Estate+Careers-+How+the+Wilstein+Team+Uses+Leverage.mp4
 pullquote: >-
   Hire someone to take care of those important tasks so you can stay in front of
   buyers.
@@ -30,7 +31,7 @@ Today I’m talking to The Wilstein Team. First, let’s meet Ron Wilstein and D
 
 Ron: I received some good advice from someone who said, “There’s a lot involved in real estate. There are a lot of things you have to do and if you’re doing all of it, then you’re spending a lot of time doing that and not working with buyers and sellers.”
 
-So they basically said that if you can hire someone at a lower wage than your earning power to take care of those tasks that are important, that will put you in front of more buyers and sellers. That is how I know the importance of leverage. &nbsp;
+So they basically said that if you can hire someone at a lower wage than your earning power to take care of those tasks that are important, that will put you in front of more buyers and sellers. That is how I know the importance of leverage.
 
 **You’ve owned your own brokerage for 10 years. When you decided to get out of running the broker’s side of the world and just focus on the business, why did you choose to move to Keller Williams?**
 
@@ -54,7 +55,7 @@ Ron: We have a political giant on our team, so this is a good thing.
 
 Doug: I am excited to serve on the board of directors for the Park City Board of Realtors.
 
-_______________________________________
+---
 
 **After I met with Doug and Ron, I decided to sit down with the real heart of the organization: the admin team. Jennifer Lee and Lynette Thorn play very important roles on the Wilstein Team, and they took time out of their busy days to answer a few of my questions.**
 
@@ -76,9 +77,9 @@ Lynette: I think it’s going to be 21 years in January. I do work on the market
 
 I also keep multiple websites updated with current information and add pages to them so our viewers can have the most recent information available. We also send out hard copies of our newsletters, flyers, magazines, and postcards. I coordinate with Ron on getting those edited, printed, and mailed out. We try to keep them going on systematic calendar.
 
-_______________________________________
+---
 
-**Next, I’d like to introduce &nbsp;you to two of the three buyer’s agents on The Wilstein Team: Kathy Leitzke and Dean Deleone.**
+**Next, I’d like to introduce  you to two of the three buyer’s agents on The Wilstein Team: Kathy Leitzke and Dean Deleone.**
 
 **Kathy, you joined the team a few years back. How has being a buyer’s agent on a team changed your life?**
 
