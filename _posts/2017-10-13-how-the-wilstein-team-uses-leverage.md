@@ -95,6 +95,6 @@ Jeremey: The support of The Wilstein team has allowed me to pursue my love of re
 
 While traveling, I’ve been able to farm and stay in contact with all of my clients that I’ve developed over the last six or seven years, when I worked full-time in real estate. I’m still able to keep those relationships but if I’m not in town, they can go out and look at a property with another agent on our team. It’s been tremendous for me to continue my real estate business while continuing this love of travel and adventure and not wait until I’m older to experience it in life.
 
-**Thank you to The Wilstein Team for sitting down with me today.** If you would like to learn more about The Wilstein Team or have any questions for them, check out their website: [http://www.viewparkcityrealestate.com]{: target="_blank"}(http://www.viewparkcityrealestate.com).
+**Thank you to The Wilstein Team for sitting down with me today.** If you would like to learn more about The Wilstein Team or have any questions for them, check out their website: [http://www.viewparkcityrealestate.com](http://www.viewparkcityrealestate.com){: target="_blank"}.
 
 As always, if you have any questions for me, just give me a call or send me an email. I would be happy to help you!
