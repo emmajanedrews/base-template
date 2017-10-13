@@ -27,7 +27,7 @@ youtube_code: zINEDOkWDco
 
 I would like to invite you the Limbird Real Estate Group’s kickoff party.
 
-But the party isn’t for Limbird Real Estate, though—it’s for Kiss A Pig.<br><br>**Kiss A Pig is the biggest charity event in Arkansas and helps the American Diabetes Association.**
+But the party isn’t for Limbird Real Estate Group, though—it’s for Kiss A Pig.<br><br>**The Kiss A Pig Gala is the biggest charity event in Arkansas and helps the American Diabetes Association.**
 
 I’m going to be a candidate helping to raise money and awareness for diabetes from now until March 10th.
 
