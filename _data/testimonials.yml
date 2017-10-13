@@ -1,5 +1,11 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
-    audio:
+  - quote: Everything we asked for he did! He didn’t stop depending on the day, he didn’t stop depending on the time. Whatever we wanted he made sure we had. And he went above and beyond anything I could have asked for.
+    name: Mike
+    audio: /uploads/audio/mike.mp3
+  - quote: Brett was very helpful. He presented a few different opportunities to me that were off-market through word of mouth among other agents that he knew. In general he was very accommodating. I was working full time and he set up a number of showings and meetings that were outside of normal working hours. He never flinched at my requests to see a property at a time that might of been inconvenient for him. He was always super responsive and had an overall good experience with him.
+    name: Ryan
+    audio: /uploads/audio/ryan.mp3
+  - quote: He has helped me sell two homes. Both were sold over asking price in Jersey City and Hoboken. He always attended home inspections for the homes that I purchased with him.
+    name: Doogie
+    audio: /uploads/audio/doogie.mp3

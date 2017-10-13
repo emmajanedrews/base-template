@@ -7,41 +7,45 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Brett Sikora
   license_number:
   about_markdown: |
+    Real estate is my passion and you'll quickly see why my team separates itself from the competition.
 
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    I started in Morris County in 2007 and moved to Hoboken to grow one of the the strongest real estate teams in all of Hudson County. While maintaining a strong base in Hoboken and downtown Jersey City, I started growing a second team in Morris County.
+
+    Whether you're a 1st time home buyer or a large developer, my team's number one priority is making sure we're on the same page as our clients throughout the buying and selling process, so we can get through each transaction as smoothly and efficiently as possible. I always respond to calls/texts/emails immediately and if I'm not available, I'll make sure one of my partners responds to address any concern you may have. Give me a call today so we can get started!
+  market: North Jersey
+  brand: The Sikora Group
+  brokerage: Keller Williams City Life
+  address: 100 Washington Street Hoboken, NJ 07030
+  phone: 973-590-8205
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Brett@SellWithSikora.com
+  url: http://SellWithSikora.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.hobokenhomeprice.com/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
-  VR_form:
+  second_CTA_URL: http://sellwithsikora.com/
+  VR_form: http://oi.vresp.com?fid=5f7d22f87f
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free -- MARKET -- Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.hobokenhomeprice.com/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://sellwithsikora.com/
 
 lender:
   show_section: false
@@ -66,17 +70,17 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/homesbysikora
+  linkedin_url: https://www.linkedin.com/in/brettsikora
+  gplus_url: https://plus.google.com/+BRETTSIKORA
+  youtube_url: https://www.youtube.com/channel/UCHZYBPRhCIRBwkZi-K9MDgA
+  twitter_url: https://twitter.com/TheSikoraGroup
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
-  podcast_url:
+  zillow_url: http://www.zillow.com/profile/Brett-Sikora
+  trulia_url: http://www.trulia.com/profile/brett-sikora-agent-hoboken-nj-zgwy3ch4/overview
+  yelp_url: http://www.yelp.com/biz/brett-sikora-keller-williams-city-life-realty-hoboken
+  podcast_url: https://itunes.apple.com/us/podcast/hoboken-real-estate-podcast/id1068541254?mt=2
 
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
@@ -90,7 +94,7 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 30
   hero_text: -- MARKET -- Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg

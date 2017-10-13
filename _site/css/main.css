@@ -1584,21 +1584,21 @@ label.tree-toggle {
 
 .site-logo {
   width: 90%;
-  max-width: 40rem;
+  max-width: 30rem;
   -webkit-filter: drop-shadow(0px 2px 7px transparent);
   filter: drop-shadow(0px 2px 7px transparent); }
 
 .site-title {
-  color: white;
+  color: #000;
   text-shadow: 0px 2px 7px transparent;
   text-transform: uppercase;
-  font-size: 6.5rem;
+  font-size: 4rem;
   padding-bottom: 4rem;
   margin-bottom: 0; }
 
 @media (max-width: 1100px) {
   .site-title {
-    font-size: 5rem; } }
+    font-size: 3rem; } }
 @media (max-width: 1000px) {
   .site-logo {
     max-width: 20rem; } }
@@ -1608,14 +1608,14 @@ label.tree-toggle {
     margin-top: 4rem; }
 
   .site-title {
-    font-size: 5rem; } }
+    font-size: 3rem; } }
 @media (max-width: 600px) {
   .site-logo {
     max-width: 15rem;
     margin-top: 2rem; }
 
   .site-title {
-    font-size: 3.5rem; }
+    font-size: 2.5rem; }
 
   .cta {
     padding: 1rem; } }
@@ -2880,3 +2880,8 @@ form select {
 .testimonial-author {
   color: #b40101;
   margin-top: -20px; }
+
+.kw {
+  width: 80%;
+  margin-left: 10%;
+  margin-bottom: 15px; }
