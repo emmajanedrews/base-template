@@ -32,13 +32,13 @@ If you guessed that I’m talking about communication, then you are correct.
 
 On my team, one of the things we focus on is checking in with our listing or buyer clients once every seven days. When we contact them, we cover these four things:
 
-1) Here is what we did last week.
+1.) Here is what we did last week.
 
-2) Here is what the results were.
+2.) Here is what the results were.
 
-3) Here is what we’re doing next week.
+3.) Here is what we’re doing next week.
 
-4) What can we differently or better?
+4.) What can we differently or better?
 
 **If you can ask those four things every seven days, you will be a proactive agent** rather than a reactive agent. By being proactive, you will run your business instead of allowing your business to run you.
 
