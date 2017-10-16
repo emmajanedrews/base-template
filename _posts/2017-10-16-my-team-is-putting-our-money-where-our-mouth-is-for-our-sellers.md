@@ -26,7 +26,7 @@ This is where the Guaranteed Sale Program comes into play. This program lets me 
 
 {% include pullquote.html %}
 
-If the seller lists their home at a price my team and I recommend and agree with and doesn’t sell within 30-days, the listing will undergo an agreed-upon price reduction. This reduction is usually about 3%.** If the listing still doesn’t sell after a total of 60 days, we will continue to market your property at no cost**. Though we’ll still need to pay the buyer’s agent, my team and I will basically be working for free at that point.
+If the seller lists their home at a price my team and I recommend and agree with and doesn’t sell within 30 days, the listing will undergo an agreed-upon price reduction. This reduction is usually about 3%. **If the listing still doesn’t sell within 60 days, we will continue to market your property at no cost.** Though we’ll still need to pay the buyer’s agent, my team and I will basically be working for free at that point.
 
 This guarantee does not include short sales or tenant-occupied properties, and there needs to be equity in the property.
 
