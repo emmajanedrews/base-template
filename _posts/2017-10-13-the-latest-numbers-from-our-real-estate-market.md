@@ -27,7 +27,7 @@ First, letâ€™s take a look at some of the national real estate numbers that weâ€
 
 According to the National Association of Realtors, the number of projected sales dipped from 5.5 million last month to 5.4 million this month.
 
-**The national median home price decreased 1.9%** from $264,000 last month to $258,000 this month. That said, the median sales price is up 6.2% from the same time last year, when it was $243,000.
+**The national median home price decreased 1.9****%** from $264,000 last month to $258,000 this month. That said, the median sales price is up 6.2% from the same time last year, when it was $243,000.
 
 Finally, the national average for a 30-year fixed mortgage interest rate dropped from 3.96% to 3.86%.
 
