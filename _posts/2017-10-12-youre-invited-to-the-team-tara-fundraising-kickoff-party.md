@@ -35,7 +35,7 @@ I’m going to be a candidate helping to raise money and awareness for diabetes 
 
 Diabetes affects almost 30 million people in our country, so we need your help and your support.
 
-The American Diabetes Association Kiss A Pig Gala will be held **Thursday, October 19th, from 5 to 7 p.m. at Landers Toyota in Rogers, Arkansas.**
+The Team Tara fundraising kickoff party will be held **Thursday, October 19th, from 5 to 7 p.m. at Landers Toyota in Rogers, Arkansas.**
 
 I have never done anything like this before, and I’m so out of my element, but I really need your support.
 
