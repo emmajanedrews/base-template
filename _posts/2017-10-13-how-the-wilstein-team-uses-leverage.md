@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How the Wilstein Team Uses Leverage
-date: 2017-10-13 14:20:27
+title: How The Wilstein Team Uses Leverage
+date: 2017-10-13 14:20:00
 tags:
   - Real Estate
 excerpt: >-
@@ -57,7 +57,7 @@ Doug: I am excited to serve on the board of directors for the Park City Board of
 
 ---
 
-**After I met with Doug and Ron, I decided to sit down with the real heart of the organization: the admin team. Jennifer Lee and Lynette Thorn play very important roles on the Wilstein Team, and they took time out of their busy days to answer a few of my questions.**
+**After I met with Doug and Ron, I decided to sit down with the real heart of the organization: the admin team. Jennifer Lee and Lynette Thorn play very important roles on The Wilstein Team, and they took time out of their busy days to answer a few of my questions.**
 
 **Jen, I understand that you’ve been with Ron for 12 years as client care and transaction manager. What does that involve?**
 
@@ -75,26 +75,26 @@ One thing that keeps us on the same page is that we all use a shared calendar so
 
 Lynette: I think it’s going to be 21 years in January. I do work on the marketing side of the team. One of my goals is to have no prospect left behind. I try to get contact info from our agents on all of their prospects. Sometimes I have to beg, borrow, or steal from agents or other sources to get people into our database so we can start disseminating information to them, whether it be an update on a new listing, our newsletter, or the postcards that we send to different neighborhoods.
 
-I also keep multiple websites updated with current information and add pages to them so our viewers can have the most recent information available. We also send out hard copies of our newsletters, flyers, magazines, and postcards. I coordinate with Ron on getting those edited, printed, and mailed out. We try to keep them going on systematic calendar.
+I also keep multiple websites updated with current information and add pages to them so our viewers can have the most recent information available. We also send out hard copies of our newsletters, flyers, magazines, and postcards. I coordinate with Ron on getting those edited, printed, and mailed out. We try to keep them going on a systematic calendar.
 
 ---
 
-**Next, I’d like to introduce  you to two of the three buyer’s agents on The Wilstein Team: Kathy Leitzke and Dean Deleone.**
+**Next, I’d like to introduce you to two of the three buyer’s agents on The Wilstein Team: Kathy Leitzke and Dean Deleone.**
 
 **Kathy, you joined the team a few years back. How has being a buyer’s agent on a team changed your life?**
 
 Kathy: Joining the team allowed me to focus on my clients and my client’s needs. My team takes care of marketing and our web presence, which frees me up to focus on what I like best.
 
-**Dean, I know you had the good fortune of starting with the Wilstein team right out of business school. I know you had sales experience prior to this in another industry. How has that worked out for you?**
+**Dean, I know you had the good fortune of starting with The Wilstein Team right out of business school. I know you had sales experience prior to this in another industry. How has that worked out for you?**
 
 Dean: As Kathy mentioned, we have multiple websites that instantly get leads going. I don’t have to market and search for those leads. My past experience means I’m able to cultivate those leads and really hit the ground running, so it’s been a great experience.
 
 **Finally, Jeremy Wilstein sent in a video with some comments on working on a team as a buyer’s agent.**
 
-Jeremey: The support of The Wilstein team has allowed me to pursue my love of real estate while simultaneously pursuing my love of adventure and travel. Without a doubt, I would not be able to do what I’m doing without the support of my team: my father, Ron; Jennifer; Lynette, Doug, Kathy, and Dean.
+Jeremey: The support of The Wilstein Team has allowed me to pursue my love of real estate while simultaneously pursuing my love of adventure and travel. Without a doubt, I would not be able to do what I’m doing without the support of my team: my father, Ron; Jennifer; Lynette, Doug, Kathy, and Dean.
 
 While traveling, I’ve been able to farm and stay in contact with all of my clients that I’ve developed over the last six or seven years, when I worked full-time in real estate. I’m still able to keep those relationships but if I’m not in town, they can go out and look at a property with another agent on our team. It’s been tremendous for me to continue my real estate business while continuing this love of travel and adventure and not wait until I’m older to experience it in life.
 
-**Thank you to The Wilstein Team for sitting down with me today.** If you would like to learn more about The Wilstein Team or have any questions for them, check out their website: [http://www.viewparkcityrealestate.com](http://www.viewparkcityrealestate.com){: target="_blank"}.
+**Thank you to The Wilstein Team for sitting down with me today.** If you would like to learn more about The Wilstein Team or have any questions for them, check out their website: [http://www.viewparkcityrealestate.com](http://www.viewparkcityrealestate.com).
 
 As always, if you have any questions for me, just give me a call or send me an email. I would be happy to help you!
