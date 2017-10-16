@@ -20,7 +20,7 @@ youtube_code: n8VNBTgN474
 
 {% include youtube.html %}
 
-What is the number one thing that affects customer or client satisfaction?
+What is the No. 1 thing that affects customer or client satisfaction?
 
 It’s the same thing that affects all interpersonal relationships from friendships and marriages to business partnerships.
 
@@ -38,7 +38,7 @@ On my team, one of the things we focus on is checking in with our listing or buy
 
 3.) Here is what we’re doing next week.
 
-4.) What can we differently or better?
+4.) What can we do differently or better?
 
 **If you can ask those four things every seven days, you will be a proactive agent** rather than a reactive agent. By being proactive, you will run your business instead of allowing your business to run you.
 
