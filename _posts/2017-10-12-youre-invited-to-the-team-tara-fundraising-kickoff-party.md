@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You’re Invited toLimbird Real Estate Group’s Kickoff October 19th
+title: You're Invited to The Team Tara Fundraising Kickoff Party
 date: 2017-10-12 13:40:00
 tags:
   - Real Estate
