@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Things to Avoid When Buying Your First Home
-date:
+date: 2017-10-16 12:59:59
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/bryan-david-first-time-homebuyer-youtube-1.jpg
 youtube_code: 'https://youtu.be/WALL9fppeRc'
 ---
 
