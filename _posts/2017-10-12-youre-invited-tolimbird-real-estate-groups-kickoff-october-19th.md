@@ -1,7 +1,7 @@
 ---
 layout: post
-title: You’re Invited to Kiss A Pig on October 19th
-date: 2017-10-12 13:40:35
+title: You’re Invited toLimbird Real Estate Group’s Kickoff October 19th
+date: 2017-10-12 13:40:00
 tags:
   - Real Estate
 excerpt: >-
