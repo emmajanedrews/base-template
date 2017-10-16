@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Don’t miss our newest listing at 3603 N Gomez Ave. Avenue or our featured
   listings.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Philipp+Fries/videos/Tampa+Bay+Area+Real+Estate+Agent-+Tour+Our+Newest+Listing.mp4
 pullquote: Declutter to showcase your counter space.
 enclosure_type: video/mp4
 enclosure_time:
