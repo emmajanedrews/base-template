@@ -33,7 +33,7 @@ Finally, the national average for a 30-year fixed mortgage interest rate dropped
 
 {% include pullquote.html %}
 
-**Locally, we have 4.9 months of inventory available for single-family homes.**Anything less than six months is considered a seller’s market. I do think that number will rise as we head into the selling season.
+**Locally, we have 4.9 months of inventory available for single-family homes.&nbsp;**Anything less than six months is considered a seller’s market. I do think that number will rise as we head into the selling season.
 
 Most people in Florida wait for the selling season (January through May) before they put their homes on the market. That is when a lot of people come down from up North to purchase property, so we can expect a rise in inventory over the next couple of months.
 
