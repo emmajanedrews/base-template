@@ -12,7 +12,7 @@ title: How New Agents Can Get Leads
 date: '2016-11-01T11:29:00.000-07:00'
 author: Vyral Admin
 tags:
-- Coaching
+- Real Estate Coaching
 modified_time: '2016-11-03T10:33:58.127-07:00'
 thumbnail: https://i.ytimg.com/vi/W0zm5PuLK-o/default.jpg
 blogger_id: tag:blogger.com,1999:blog-2036096219448866576.post-749136268359141507

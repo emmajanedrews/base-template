@@ -12,8 +12,7 @@ title: Focus on What is Most Important by Implementing Systems!
 date: '2014-04-11T14:16:00.002-07:00'
 author: Jason McMillan
 tags:
-- Real Estate
-- Coaching
+- Real Estate Coaching
 modified_time: '2014-04-17T13:23:21.458-07:00'
 blogger_id: tag:blogger.com,1999:blog-2036096219448866576.post-5806950656657165951
 blogger_orig_url: http://roanokerealestatecareers.blogspot.com/2014/04/central-virginia-real-estate-systems.html

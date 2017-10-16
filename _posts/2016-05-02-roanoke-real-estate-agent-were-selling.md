@@ -12,8 +12,7 @@ title: How Our Clients Become Clients for Life
 date: '2016-05-02T10:24:00.001-07:00'
 author: Vyral Admin
 tags:
-- Make your clients
-- clients for life
+- Client Retention
 modified_time: '2016-05-03T08:49:36.315-07:00'
 thumbnail: https://i.ytimg.com/vi/ZCEeGTDeVeU/default.jpg
 blogger_id: tag:blogger.com,1999:blog-2036096219448866576.post-5284888826057762567

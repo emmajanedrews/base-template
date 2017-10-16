@@ -12,8 +12,7 @@ title: Avoid Becoming Overwhelmed this Selling Season
 date: '2014-05-12T14:15:00.000-07:00'
 author: Unknown
 tags:
-- Real Estate
-- Coaching
+- Real Estate Coaching
 modified_time: '2014-05-13T07:02:33.604-07:00'
 blogger_id: tag:blogger.com,1999:blog-2036096219448866576.post-1780344942373626993
 blogger_orig_url: http://roanokerealestatecareers.blogspot.com/2014/05/roanoke-virginia-real-estate-coaching.html
