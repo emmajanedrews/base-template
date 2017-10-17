@@ -16,7 +16,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/robellis-screenshot-tube-01-01-01-01-01-01-01-01-01-01-01-01-01-01-1.jpg
-youtube_code: KNoPQNibhYY
+youtube_code:
 ---
 
 
