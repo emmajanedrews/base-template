@@ -19,7 +19,7 @@ youtube_code: e4xhnoES39g
 
 {% include youtube.html %}
 
-<p class="center-text">How has the market changed since 2006? Let’s take a look back at some market trends from across recent years.</p>
+How has the market changed since 2006? Let’s take a look back at some market trends from across recent years.
 
 How has our real estate market changed over the recent years?
 
