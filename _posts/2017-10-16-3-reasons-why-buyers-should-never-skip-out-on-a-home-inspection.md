@@ -24,7 +24,7 @@ youtube_code: 20Ucwx4oHgU
 
 There are three very important reasons you should always order a home inspection when buying a home.&nbsp;
 
-**First, a professional inspector may uncover present or potential future issues with the home that a buyer wouldn’t normally find.** As the saying goes, “You can’t judge a book by its cover,” and the same logic applies when buying a home. The inspector will go through the home from top to bottom, checking over the electrical and plumbing systems, the furnace, the AC unit, and everything else. They’ll then inform you about anything that needs to maintained and offer tips to avoid any future issues.&nbsp;
+**First, a professional inspector may uncover present or potential future issues with the home that a buyer wouldn’t normally find.** As the saying goes, “You can’t judge a book by its cover,” and the same logic applies when buying a home. The inspector will go through the home from top to bottom, checking over the electrical and plumbing systems, the furnace, the AC unit, and everything else. They’ll then inform you about anything that needs to be maintained and offer tips to avoid any future issues.&nbsp;
 
 {% include pullquote.html %}
 
