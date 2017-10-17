@@ -29,7 +29,7 @@ And real estate investing is on the rise. In fact, 89% of U.S. investors are int
 
 Are you curious about investing in property yourself? Here are five different ways you can get started:
 
-**1. Buy and rent.**This is probably the most traditional way to invest in real estate. It simply involves buying a property and renting it out. Now is a good time for this kind of investing because rental rates are on the rise (8% since last year), while mortgage rates remain very low and affordable. However, the downside of this investing approach is the time and work that go into managing and maintaining your investment.
+**1. Buy and rent.&nbsp;**This is probably the most traditional way to invest in real estate. It simply involves buying a property and renting it out. Now is a good time for this kind of investing because rental rates are on the rise (8% since last year), while mortgage rates remain very low and affordable. However, the downside of this investing approach is the time and work that go into managing and maintaining your investment.
 
 **2. Buy and sell.** Also known as home flipping, this involves buying a property and reselling it soon after for a profit. There are two alternatives: You can simply sit and wait for the price to increase, or you can make renovations or improvements to force the value to appreciate. Either way, home flipping has offered a record-breaking 49% return in 2016.
 
@@ -37,9 +37,9 @@ Are you curious about investing in property yourself? Here are five different wa
 
 **3. Real estate investment groups.** Real estate investment groups are organizations that buy a set of properties and then sell them to individual investors. The main benefit of this approach is that you typically do not need to act as the landlord because the investment group handles property management for you (for a fee of course).
 
-**4. Crowdfunding sites.**Recently, there's been an explosion of sites such as Prosper and Lending Club, which allow individuals to invest in various real estate development projects. Through crowdfunding sites, you can be a part of a large-scale property investment while investing only a moderate amount of money. On the other hand, crowdfunding sites act as a middleman and charge fees which can eat into your profits.
+**4. Crowdfunding sites.&nbsp;**Recently, there's been an explosion of sites such as Prosper and Lending Club, which allow individuals to invest in various real estate development projects. Through crowdfunding sites, you can be a part of a large-scale property investment while investing only a moderate amount of money. On the other hand, crowdfunding sites act as a middleman and charge fees which can eat into your profits.
 
-**5. REITs Real estate investment trusts (REITs).**are like mutual funds for real estate. They typically pay high dividends (as much as 90% of their profits). However, they also do not offer many of the other main benefits of investing in real estate, such as increased leverage and tax benefits.
+**5. REITs Real estate investment trusts (REITs)&nbsp;**are like mutual funds for real estate. They typically pay high dividends (as much as 90% of their profits). However, they also do not offer many of the other main benefits of investing in real estate, such as increased leverage and tax benefits.
 
 Altogether, each of these investing approaches offers a tradeoff between possible profits, risks, and costs. The one constant is that you can minimize your risks with due diligence and by consulting with an experienced partner.
 
