@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Our agents regularly meet to discuss books we’ve read that have impacted our
   lives and our businesses. Here are three that I recommend.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Rob+Ellis/Videos/2017/Books+To+Boost+Your+Business+-+Central+Ohio+Real+Estate+Agent.mp4
 pullquote: >-
   If you need a copy of any of these books, please reach out to us and we’d be
   happy to lend you one.
@@ -15,7 +16,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/robellis-screenshot-tube-01-01-01-01-01-01-01-01-01-01-01-01-01-01-1.jpg
-youtube_code:
+youtube_code: KNoPQNibhYY
 ---
 
 
