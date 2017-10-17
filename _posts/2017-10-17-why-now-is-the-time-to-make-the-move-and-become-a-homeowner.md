@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Why Now Is the Time to Make the Move and Become a Homeowner
-date: 2017-10-17 15:34:55
+date: 2017-10-17 15:34:00
 tags:
-  - Home Buyer Tips
+  - Real Estate
 excerpt: >-
   Have you ever imagined only having to put 1% down on your first home? Well, if
   you qualify, this could be a reality. The fall market is in full swing right
