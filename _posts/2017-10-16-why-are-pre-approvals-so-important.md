@@ -26,7 +26,7 @@ Today we’re going to talk about a subject that is very important to us: pre-ap
 
 Prior to starting our real estate company, I was a mortgage broker, so I understand the pre-approval process. I’ve found a few important things over the last 20 years of being in the business.&nbsp;
 
-**You will save thousands of dollars if you focus on getting the pre-approval done first, before you go out shopping for homes.** You will also make the entire buying process easier and less overwhelming.&nbsp;
+**You will save thousands of dollars if you focus on getting the pre-approval done before you go out shopping for homes.** You will also make the entire buying process easier and less overwhelming.&nbsp;
 
 When people go out shopping first, they fall in love with a home. Then when they talk to a lender, they find that they are buying either way over their heads or way below what they can afford, and now they are stuck because they are under contract.&nbsp;
 
