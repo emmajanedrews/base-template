@@ -21,7 +21,7 @@ youtube_code: wxMcGa8pmzg
 
 What is the difference between a buyer’s agent and a seller’s agent? It’s a question I get a lot, but the answer is quite simple. If you see a sign in a yard with an agent’s phone number on it, that is the seller’s, or listing, agent. **They are hired by the seller and act with their best interests in mind.**
 
-This is great if you’re a seller. However, if you’re looking to buy a home, you need someone on your side as well. **That’s where a buyer's agent comes in.**Some of their duties include:
+This is great if you’re a seller. However, if you’re looking to buy a home, you need someone on your side as well. **That’s where a buyer's agent comes in.** Some of their duties include:
 
 * Showing you all the homes you want to see
 * Running comps to help strengthen your offer
