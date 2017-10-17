@@ -22,15 +22,15 @@ youtube_code: nyMujnqCQkE
 
 Now that fall is upon us, I’d like to take a look back at how our Central Vancouver real estate market fared over the month of September.
 
-To start off, the detached housing market had a 14% sales-to-active ratio. This is about 1% less than last month.
+To start off, the detached housing market had a 14% sales-to-actives ratio. This is about 1% less than last month.
 
-The reason this market hasn’t seen any increase in prices or activity is because total listing inventory has increased 36% since August. **These factors are a strong indicator that we’re in a buyer’s market.**
+The reason this market hasn’t seen any increase in prices or activity is that total listing inventory has increased 36% since August. **These factors are a strong indicator that we’re in a buyer’s market.**
 
-Let’s turn our attention to the condominium market. In that market, there was a 59% sales-to-active ratio. This is about 11% less than last month.
+Let’s turn our attention to the condominium market. In that market, there was a 59% sales-to-actives ratio. This is about 11% less than last month.
 
 {% include pullquote.html %}
 
-The condo market is still red hot. Inventory is low, about 29% less than last year, and there are a lot of multiple offer situations taking place.
+The condo market is still red hot. Inventory is about 29% lower than last year and there are a lot of multiple offer situations taking place.
 
 With all of this being said, I’m starting to notice my clients looking to sell their condos and buy detached homes instead.
 
