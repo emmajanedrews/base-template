@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Buy Your First Home for Just 1% Down
-date:
+date: 2017-10-17 15:21:52
 tags:
   - Home Buyer Tips
 excerpt: >-
