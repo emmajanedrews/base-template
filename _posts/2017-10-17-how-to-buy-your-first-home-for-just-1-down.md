@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Buy Your First Home for Just 1% Down
+title: Why Is Now the Right Time to Buy Your First Home?
 date: 2017-10-16 15:21:52
 tags:
   - Home Buyer Tips
