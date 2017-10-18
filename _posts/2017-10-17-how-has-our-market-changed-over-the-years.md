@@ -23,11 +23,11 @@ youtube_code: e4xhnoES39g
 
 How has our real estate market changed over the recent years?
 
-Let’s begin by looking at the median sales price. After rising consistently in the early 2000s, median the median sales price reached an initial peak in the third quarter of 2007 of $216,000. **After that, the median sales price rapidly declined until bottoming out at $173,000 in 2011’s third quarter.**&nbsp;
+Let’s begin by looking at the median sales price. After rising consistently in the early 2000s, the median sales price reached an initial peak in the third quarter of 2007 of $216,000. **After that, the median sales price rapidly declined until bottoming out at $173,000 in 2011’s third quarter.**&nbsp;
 
 Since then, we’ve had a significant increase in median sales price. As of this year’s third quarter, the statistic sat at $270,000. This constitutes a $20,000 increase from just one year ago.&nbsp;
 
-Next, I’d like to share what happened in terms of inventory over that same period of time. The number of homes listed peaked out in 2007’s third quarter at 24,112. In the third quarter of 2012, inventory bottomed out at 12,884. Inventory has rose slightly since then, but has generally stayed fairly level over the past four or five years.&nbsp;
+Next, I’d like to share what happened in terms of inventory over that same period of time. The number of homes listed peaked out in 2007’s third quarter at 24,112. In the third quarter of 2012, inventory bottomed out at 12,884. Inventory has risen slightly since then, but has generally stayed fairly level over the past four or five years.&nbsp;
 
 This helps to explain the housing shortage we’ve seen lately. A lot of buyers have come into the market over the last six or seven years **but the number of homes listed hasn’t increased to match demand.** This has been a major factor in driving up sales price.&nbsp;
 
@@ -41,7 +41,7 @@ I think it’s also important that we look at the median asking price for listin
 
 As we mentioned earlier, homes are actually generally selling at a median price of $270,000. This indicates that many sellers are likely overpricing their properties. This can lead to sellers getting even less in the long run.
 
-By all shapes and measures, the market is in a strong place. The economy here in Utah is strong and the unemployment rate is. This makes it an exciting time to be in the real estate business.
+By all shapes and measures, the market is in a strong place. The economy here in Utah is strong and the unemployment rate is significantly low. This makes it an exciting time to be in the real estate business.
 
 {% include pullquote.html %}
 
