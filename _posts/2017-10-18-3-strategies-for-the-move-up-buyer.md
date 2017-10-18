@@ -36,11 +36,11 @@ While they are getting their house ready to sell, the perfect house they want to
 
 There are a few different strategies you can use to get the house of your dreams and sell your current one:&nbsp;
 
-1. This plan doesn’t work for everyone, but you can put your house on the market, sell it, and **move in with a family member or friend until you find the perfect home to buy.**
+1.) This plan doesn’t work for everyone, but you can put your house on the market, sell it, and **move in with a family member or friend until you find the perfect home to buy.**
 
-2. Put your home on the market, get it under contract, and purchase a new home. Since your home is already under contract, the seller will be more likely to accept a contingent offer. You can even line the transactions up so that you **close both transactions on the same day, which is really the perfect scenario.&nbsp;**
+2.) Put your home on the market, get it under contract, and purchase a new home. Since your home is already under contract, the seller will be more likely to accept a contingent offer. You can even line the transactions up so that you **close both transactions on the same day, which is really the perfect scenario.&nbsp;**
 
-3. Recast the loan. Not many agents use this strategy, but our team has found it to be very successful.&nbsp;
+3.) Recast the loan. Not many agents use this strategy, but our team has found it to be very successful.&nbsp;
 
 {% include pullquote.html %}
 
