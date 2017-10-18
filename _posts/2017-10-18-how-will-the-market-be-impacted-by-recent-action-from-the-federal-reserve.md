@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Will the Market Be Impacted by Recent Action From the Federal Reserve?
-date:
+date: 2017-10-18 15:21:25
 tags:
   - Market Update
 excerpt: >-
