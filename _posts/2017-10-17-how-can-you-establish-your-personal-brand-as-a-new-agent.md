@@ -1,9 +1,8 @@
 ---
 layout: post
 title: How Can You Establish Your Personal Brand as a New Agent?
-date: 2017-10-17 11:17:03
+date: 2017-10-17 11:17:00
 tags:
-  - Real Estate
 excerpt: >-
   How can you establish your own brand as a newer real estate agent? I have a
   few tips to help get you started.
