@@ -8,7 +8,7 @@ enclosure:
 pullquote: This is an example of a pull quote
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/benefits-of-being-an-entrepreneur.jpg
 layout: post
 title: Let's Talk About Your Real Estate Career
