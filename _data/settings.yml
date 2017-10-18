@@ -28,14 +28,14 @@ client:
   phone2_type: Office
   email: scase@fscadvisor.com
 CTAs:
-  first_CTA_text: Get Your Free eBook
+  first_CTA_text: Get Your Free e-Book
   first_CTA_URL: 'http://www.michigan401kadvisors.com/tracking-retirement'
   second_CTA_text: Schedule a Consultation
   second_CTA_URL: 'http://michigan401kadvisors.com/contact'
   VR_form: 'http://oi.vresp.com?fid=4e1782c081'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/006.png
-    CTA_title: Download Your Free eBook
+    CTA_title: Download Your Free e-Book
     CTA_text: >-
       TRACKING RETIREMENT. As an employer sponsoring a 401(k) plan, are you
       taking advantage of powerful techniques that will enhance the chances of
