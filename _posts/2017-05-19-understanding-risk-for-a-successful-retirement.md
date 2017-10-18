@@ -6,8 +6,12 @@ tags:
   - 401K Advisors
   - Financial Planning
   - Retirement Planning
-excerpt: Today I’m going over a very important concept that ties to your retirement called sequence of return risk. Check out the video above to see the breakdown of what this concept is all about.
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Ash+Toumayants/Videos/2017/Understanding+Risk+for+a+Successful+Retirement+-+401K+Advisor.mp4'
+excerpt: >-
+  Today I’m going over a very important concept that ties to your retirement
+  called sequence of return risk. Check out the video above to see the breakdown
+  of what this concept is all about.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Ash+Toumayants/Videos/2017/Understanding+Risk+for+a+Successful+Retirement+-+401K+Advisor.mp4
 pullquote: It’s incredibly important to understand your portfolio’s risk number.
 enclosure_type: video/mp4
 enclosure_time:
@@ -22,7 +26,7 @@ wealthguard: false
 
 {% include youtube.html %}
 
-Today I’m going over a concept that is near and dear to my heart called **sequence of return risk.** It’s a fairly complicated concept, so to help me explain I’ve provided some graphic and numbers for you to follow along with in the video above.
+Today I’m going over a concept that is near and dear to my heart called **sequence of return risk.** It’s a fairly complicated concept, so to help me explain I’ve provided some graphics and numbers for you to follow along with in the video above.
 
 Say there are two friends who both have $500,000 and are getting ready to retire. They don’t have any more money to add to the $500,000, so they are relying on the market to deliver returns.
 
