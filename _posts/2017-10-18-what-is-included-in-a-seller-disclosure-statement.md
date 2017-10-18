@@ -27,11 +27,11 @@ youtube_code: USLobrmSNMY
 
 Here in the state of Minnesota, there are two types of seller disclosure statements.
 
-One is the seller’s property disclosure statement, also known as the full disclosure. There is also an alternatives form, which is only used in certain circumstances.
+**One is the seller’s property disclosure statement, also known as the full disclosure.** There is also an alternatives form, which is only used in certain circumstances.
 
 Usually, though, a seller will use the full property disclosure statement. This is a very lengthy, 10-page document that goes through everything a prospective buyer will need to know about the condition of the property.
 
-The full disclosure form will ask about the age of the roof and if the mechanical systems and appliances are in working order. If you have a private well or septic system, those need to be disclosed as well.
+The full disclosure form will ask about the age of the roof and if the mechanical systems and appliances are in working order.** If you have a private well or septic system, those need to be disclosed as well.**
 
 {% include pullquote.html %}
 
@@ -39,6 +39,6 @@ A couple of years ago, our state added a radon disclosure piece as well. One of 
 
 The state of Minnesota does not require a radon test prior to selling your home. However, if you’ve had a test completed in the past, you do need to give the results of the test to any potential buyers of the property.
 
-There will be a radon warning statement attached to the disclosure statement. The radon warning is a two-page document provided to the buyer at the time of their purchase agreement.
+**There will be a radon warning statement attached to the disclosure statement.** The radon warning is a two-page document provided to the buyer at the time of their purchase agreement.
 
 If you have any other questions about seller disclosure statements or real estate in general, just give us a call or send us an email. We would be happy to help you!
