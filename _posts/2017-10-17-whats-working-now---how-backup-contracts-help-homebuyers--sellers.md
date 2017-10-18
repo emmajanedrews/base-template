@@ -24,7 +24,7 @@ youtube_code: AyJbIjrDPro
 
 Welcome to the latest episode of *“What’s Working Now!”*&nbsp;
 
-I’m recording live from 4550 Klingle St. NW in Wesley Heights. Today, I want to discuss the value of backup contracts for both buyers and sellers.&nbsp;
+I’m recording live from 4550 Klingle Street NW in Wesley Heights. Today, I want to discuss the value of backup contracts for both buyers and sellers.&nbsp;
 
 First of all, what is a backup contract?&nbsp;
 
@@ -50,7 +50,7 @@ Whether you are buying or selling a home, make sure that you work with an agent 
 
 You can learn more about the value of getting your home market ready by watching the Home Seller Half Hour this week. <u>Sign up here</u> to learn everything you need to know about selling your home in less than 30 minutes.&nbsp;
 
-If you are interested in my listing at 4550 Klingle St. NW at Wesley Heights, take a <u>virtual tour here</u>.
+If you are interested in my listing at 4550 Klingle Street NW at Wesley Heights, take a <u>virtual tour here</u>.
 
 Don’t forget to visit [DCHomeNews.com](DCHomeNews.com) to see the latest stories from The Current Newspapers.&nbsp;
 
