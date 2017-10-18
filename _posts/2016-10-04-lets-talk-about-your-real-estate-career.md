@@ -1,9 +1,6 @@
 ---
 youtube_code:
-excerpt: >-
-  Most likely, you chose to get into real estate or are thinking about a career
-  change into real estate because you are an independent person wanting to enjoy
-  the benefits of running your own business.
+excerpt:
 enclosure:
 pullquote: This is an example of a pull quote
 enclosure_type: video/mp4
