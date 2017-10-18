@@ -27,4 +27,4 @@ Every year, we hold a fundraiser in order to give back even more to the local co
 
 In addition to great food, cocktails, and auctions, we’ll also be holding a raffle for a $10,000 grand prize. Get in touch with me if you’d like to buy a raffle ticket. They are $50 a piece.
 
-In the meantime, you can get your tickets to the event here. If you have any questions at all, don’t hesitate to reach out and give me a call or send me an email. I would love to hear from you.
+In the meantime, <a href="https://www.eventbrite.com/e/truckee-rotary-voodoo-ball-tickets-36522790650" target="_blank">you can get your tickets to the event here.</a> If you have any questions at all, don’t hesitate to reach out and give me a call or send me an email. I would love to hear from you.
