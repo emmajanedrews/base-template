@@ -51,6 +51,6 @@ At the same time, the seller could lower their price as well. If the home’s va
 
 If you are buying a home with an FHA loan, you’ll need to ask your lender for a list of approved appraisers. An FHA appraisal will stay with a home for an extended period of time. For conventional loans, you are subject to the rules of the HVCC. If an appraisal comes in on your home from a national appraiser and is low, you have every right to contact the lender and demand that a local appraiser be used.
 
-Finally, you always have the option of canceling the transaction with a low appraisal. If you’ve exhausted all other options, this might be the best course of action.
+Finally, **you always have the option of canceling the transaction** with a low appraisal. If you’ve exhausted all other options, this might be the best course of action.
 
 If you have any questions about low appraisals or anything else relating to real estate, give me a call or send me an email. I look forward to hearing from you soon.
