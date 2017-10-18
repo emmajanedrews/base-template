@@ -31,7 +31,7 @@ This presents a great opportunity for those who are willing to stay in the marke
 
 {% include pullquote.html %}
 
-However, there are a lot of benefits for this time of year from a seller’s perspective as well. The **only buyers on the market at this time of year are buyers who are very serious about finding a home.** While you still need to price your home aggressively, you definitely won’t need to worry about flakey offers.
+However, there are a lot of benefits for this time of year from a seller’s perspective as well. The **only buyers on the market at this time of year are buyers who are very serious about finding a home.** While you still need to price your home aggressively, you definitely won’t need to worry about flaky offers.
 
 Selling your home at this time of year isn’t like selling your home in spring or summer. Buyers aren’t merely floating from open house to open house; they are actually serious at this time of year. As a seller, you’re going to be able to dictate who, when, and how your home is sold at this time of year.
 
