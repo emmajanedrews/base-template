@@ -3,7 +3,7 @@ youtube_code:
 excerpt:
 enclosure:
 pullquote: This is an example of a pull quote
-enclosure_type: video/mp4
+enclosure_type:
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/benefits-of-being-an-entrepreneur.jpg
