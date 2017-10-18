@@ -50,9 +50,7 @@ Whether you are buying or selling a home, make sure that you work with an agent 
 
 You can learn more about the value of getting your home market ready by watching the Home Seller Half Hour this week. <u>Sign up here</u> to learn everything you need to know about selling your home in less than 30 minutes.&nbsp;
 
-If you are interested in my listing at 4550 Klingle Street NW at Wesley Heights, take a <u>virtual tour here</u>.
-
-Don’t forget to visit [DCHomeNews.com](DCHomeNews.com) to see the latest stories from The Current Newspapers.&nbsp;
+My listing here at 4550 Klingle Street NW at Wesley Heights SOLD for full price! Take a look at the virtual tour here. Let me know if you’d like me to find you a house like it. I’m here to help.
 
 Thank you for watching *“What’s Working Now!”* Be on the lookout for our next video, where I’ll go over some of the coolest things happening in our local market.&nbsp;
 
