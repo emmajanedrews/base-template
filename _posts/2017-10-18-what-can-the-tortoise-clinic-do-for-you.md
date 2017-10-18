@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: uieM18rZdHY
+youtube_code: UcVdUD1Dsgg
 ---
 
 
@@ -39,7 +39,7 @@ With all of that travelling, I wondered why Drew returned specifically to the Em
 
 Having previously worked in a chiropractic clinic, he knew it was time to pursue his passion. It was actually when he saw an ad for an acupuncture business online that he decided to reply, and see what happened. That’s when he found the Tortoise Clinic. Next thing Drew knew, he and his wife moved to the area and have been here for nearly ten years.
 
-As far as the benefits of acupuncture and eastern medicine, Drew believes the possibilities are as broad as the field itself. &nbsp;He says you could spend a lifetime studying the use of plants as medicine, and there would still be more to learn. **In order to do this for a living, he believes you have to be able to help every pain there is.**
+As far as the benefits of acupuncture and eastern medicine, Drew believes the possibilities are as broad as the field itself.  He says you could spend a lifetime studying the use of plants as medicine, and there would still be more to learn. **In order to do this for a living, he believes you have to be able to help every pain there is.**
 
 Personally, he enjoys helping people boost their fertility. He also says that acupuncture can benefit people emotionally and digestively. Eastern medicine has been around for so long, and is largely about your body healing itself through stimulation from acupuncture and herbal medicine.
 
