@@ -5,7 +5,7 @@ enclosure: https://s3.amazonaws.com/vyralmarketing/Shawn+Culhane/Austin+Real+Est
 pullquote: How the market is doing depends on a lot of specific factors.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: Where Is the Austin Market Headed?
