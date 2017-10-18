@@ -40,9 +40,9 @@ There are a few different strategies you can use to get the house of your dreams
 
 2.) Put your home on the market, get it under contract, and purchase a new home. Since your home is already under contract, the seller will be more likely to accept a contingent offer. You can even line the transactions up so that you **close both transactions on the same day, which is really the perfect scenario.&nbsp;**
 
-3.) Recast the loan. Not many agents use this strategy, but our team has found it to be very successful.&nbsp;
-
 {% include pullquote.html %}
+
+3.) Recast the loan. Not many agents use this strategy, but our team has found it to be very successful.&nbsp;
 
 Most people need to sell in order to buy because they want to move the large amount of equity from their current home to their new home. They also want to avoid a huge mortgage payment.&nbsp;
 
