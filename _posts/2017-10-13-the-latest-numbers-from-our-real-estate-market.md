@@ -1,13 +1,14 @@
 ---
 layout: post
 title: The Latest Numbers From Our Real Estate Market
-date: 2017-10-13 16:39:46
+date: 2017-10-13 16:39:00
 tags:
   - Market Update
 excerpt: >-
   I have some local and national numbers from the real estate market to share
   with you all today.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Joe+Sabato/Videos/Stuart+Real+Estate+Agent-+Market+Update-+Your+October+Real+Estate+Market+Update.mp4
 pullquote: >-
   We are in a seller’s market now, but inventory will go up over the next few
   months.
@@ -33,7 +34,7 @@ Finally, the national average for a 30-year fixed mortgage interest rate dropped
 
 {% include pullquote.html %}
 
-**Locally, we have 4.9 months of inventory available for single-family homes.&nbsp;**Anything less than six months is considered a seller’s market. I do think that number will rise as we head into the selling season.
+**Locally, we have 4.9 months of inventory available for single-family homes.**Anything less than six months is considered a seller’s market. I do think that number will rise as we head into the selling season.
 
 Most people in Florida wait for the selling season (January through May) before they put their homes on the market. That is when a lot of people come down from up North to purchase property, so we can expect a rise in inventory over the next couple of months.
 
