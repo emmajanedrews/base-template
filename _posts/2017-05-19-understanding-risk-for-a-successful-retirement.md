@@ -36,7 +36,7 @@ Above you can see the numbers broken down over the course of 10 years for both f
 
 Now, let’s say they both need to take out 4%, so $20,000 each year. The first friend who takes out $20,000 ends the 10 years with more than $500,000 because he had good returns in the beginning. On the other hand, the second friend ends with a significantly lower amount than $500,000 because he had bad returns in the beginning. They took out the same $200,000, so why does the second friend end the 10 years with a lower number?
 
-In the beginning years, not only was the second friend getting very low returns, but he was also taking money out which affected his ability to rebound. If you look at the end of the third year for both friends, you’ll notice that the first friend had a much greater amount because of his great returns in the beginning.
+In the beginning years, not only was the second friend getting very low returns, but he was also taking money out, which affected his ability to rebound. If you look at the end of the third year for both friends, you’ll notice that the first friend had a much greater amount because of his great returns in the beginning.
 
 This is what the sequence of return risk is all about. **If you get bad returns in the beginning of your retirement when you’re taking money out, it’s very difficult to recover from your returns in later years.**That’s why it’s so important to understand your portfolio's risk number. If your portfolio holds too much risk and you have bad returns in the first three to five years of your retirement, it could be almost impossible to recover from it if you need to continue to take money out.
 
