@@ -9,12 +9,12 @@ excerpt: >-
   affect our economy and our market. The Federal Reserve is rolling back the
   balance sheet.
 enclosure:
-pullquote:
+pullquote: 'If you’re thinking of buying or selling, don’t wait.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+use_youtube_image: false
+youtube_alternate_image: /uploads/joe-desanefed-rolling-backupdated-youtube-10.jpg
+youtube_code: 'https://youtu.be/N_rZimWXcwI'
 ---
 
 
