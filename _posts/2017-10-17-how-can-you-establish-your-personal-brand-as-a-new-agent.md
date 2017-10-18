@@ -21,7 +21,7 @@ youtube_code: cw1ymvS_PMA
 
 How can you establish your personal brand as a new agent? It’s not as difficult as you think it is.
 
-First of all, you have to **define why you are doing what you’re doing.**From there, you can establish the values you have within your team or within your business if you want to be a solo agent.
+First of all, you have to **define why you are doing what you’re doing.**  From there, you can establish the values you have within your team or within your business if you want to be a solo agent.
 
 Think about the people you want to impact, why you want to impact them, and what kind of market you want to work in.
 
