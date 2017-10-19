@@ -30,6 +30,8 @@ You have definitely filled your home with lots of love and memories. But when pe
 
 {% include pullquote.html %}
 
-Third: **clean, clean, and clean some more.** Focus on face plates, light fixtures, bathrooms, and any other spaces that need it. What are buyers going to notice when they walk into your home?&nbsp;
+Third: **clean, clean, and clean some more.** Focus on faceplates, light fixtures, bathrooms, and any other spaces that need it. What are buyers going to notice when they walk into your home?&nbsp;
 
 You want to make sure your home is sparkling before buyers go through the door.
+
+If you have any questions about preparing your home for resale, don't hesitate to reach out to us. We'd be happy to help
