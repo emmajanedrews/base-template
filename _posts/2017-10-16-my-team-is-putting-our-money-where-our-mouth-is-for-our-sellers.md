@@ -5,7 +5,9 @@ tags:
   - Home Seller Tips
 excerpt: "Today I wanted to take a minute to tell you all about our Guaranteed Sale\_Program."
 enclosure:
-pullquote: This program lets me put my money where my mouth is.
+pullquote: >-
+  If we can't sell your home for you within 60 days for a price you're happy
+  with, we will sell it for free!
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
