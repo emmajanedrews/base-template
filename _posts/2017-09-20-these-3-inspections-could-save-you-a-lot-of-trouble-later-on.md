@@ -1,7 +1,8 @@
 ---
 youtube_code: za84fMM39qs
 excerpt:
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%25203%2520home%2520inspections%2520that%2520are%2520well%2520worth%2520it.mp4
 pullquote: YOU NEED TO KNOW EXACTLY WHAT YOU’RE GETTING INTO WHEN YOU PURCHASE A HOME.
 enclosure_type: video/mp4
 enclosure_time:
@@ -9,20 +10,21 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: These 3 Inspections Could Save You a Lot of Trouble Later On
-date: '2017-09-20T08:37:00.005-07:00'
+date: 2017-09-20 15:37:00
 author: Vyral Admin
 tags:
-- Home Buyer Tips
-modified_time: '2017-09-27T07:24:02.276-07:00'
-thumbnail: https://i.ytimg.com/vi/za84fMM39qs/default.jpg
-blogger_id: tag:blogger.com,1999:blog-6616909685054893318.post-5342482375303767891
-blogger_orig_url: http://sandiehea.blogspot.com/2017/09/these-3-inspections-could-save-you-lot.html
+  - Home Buyer Tips
+modified_time:
+thumbnail: 'https://i.ytimg.com/vi/za84fMM39qs/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-6616909685054893318.post-5342482375303767891'
+blogger_orig_url: >-
+  http://sandiehea.blogspot.com/2017/09/these-3-inspections-could-save-you-lot.html
 ---
-{% include youtube.html %}
-Today I’m back talking about more home inspections I recommend you get before purchasing a property.
 
-Buying a home? <a href="http://www.stlouispropertysearch.net/" target="_blank">Click here to perform a full home search</a>
-Selling a home? <a href="http://www.stlouishomevalues.net/" target="_blank">Click here for a FREE Home Price Evaluation</a>
+
+{% include youtube.html %}Today I’m back talking about more home inspections I recommend you get before purchasing a property.
+
+Buying a home? [Click here to perform a full home search](http://www.stlouispropertysearch.net/)Selling a home? [Click here for a FREE Home Price Evaluation](http://www.stlouishomevalues.net/)
 
 Today we’re back with part two of our coverage on home inspections. Like last time, I’ll be going over a few inspections I think are the most important if you’re buying a new home. Whenever you are about to make a home purchase, you need to know exactly what you’re getting into.
 
