@@ -24,7 +24,7 @@ youtube_code: 'https://youtu.be/WALL9fppeRc'
 
 When I asked the buyer’s agents on my team what they found most gratifying about their jobs, they told me how much they love working with first-time homebuyers.
 
-Most of all, my agents enjoy helping these buyers to understand and navigate the home buying process for the first time, and then watching them succeed in doing so.
+Most of all, my agents enjoy helping these buyers understand and navigate the home buying process for the first time, and then watching them succeed in doing so.
 
 Part of the reason this is so gratifying is because these agents realize just how much goes into the process of searching for and purchasing a home. There are a lot of steps, which means a lot of room for error. For that reason, today I wanted to go over some of the most common mistakes first-time homebuyers make, so that you don’t repeat these mistakes yourself.
 
