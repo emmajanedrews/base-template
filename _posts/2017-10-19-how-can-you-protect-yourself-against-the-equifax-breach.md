@@ -24,7 +24,7 @@ Are you curious how you can protect yourself against the recent Equifax data bre
 
 **1. Know the facts.** Reach out to a professional and see if you’ve been affected.
 
-**2. Find out if you’ve been impacted.** You can visit [www.equifaxsecurity2017.com](http://www.equifaxsecurity2017.com) to do so.
+**2. Find out if you’ve been impacted.** You can visit [www.equifaxsecurity2017.com](http://www.equifaxsecurity2017.com){: target="_blank"} to do so.
 
 {% include pullquote.html %}
 
