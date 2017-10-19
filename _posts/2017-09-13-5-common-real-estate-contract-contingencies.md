@@ -1,28 +1,28 @@
 ---
 youtube_code: 0JBkrLDEyLA
 excerpt:
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520What%2520is%2520a%2520contingency%253F.mp4
 pullquote: THESE CONTINGENCIES ARE STANDARD.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /img/cover.jpg
+youtube_alternate_image:
 layout: post
 title: 5 Common Real Estate Contract Contingencies
-date: '2017-09-13T08:08:00.000-07:00'
+date: 2017-09-13 15:08:00
 author: Vyral Admin
 tags:
-- Real Estate Tips
-modified_time: '2017-09-20T08:28:04.166-07:00'
-thumbnail: https://i.ytimg.com/vi/0JBkrLDEyLA/default.jpg
-blogger_id: tag:blogger.com,1999:blog-6616909685054893318.post-482321040579784651
-blogger_orig_url: http://sandiehea.blogspot.com/2017/09/5-common-real-estate-contract.html
+modified_time:
+thumbnail: 'https://i.ytimg.com/vi/0JBkrLDEyLA/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-6616909685054893318.post-482321040579784651'
+blogger_orig_url: 'http://sandiehea.blogspot.com/2017/09/5-common-real-estate-contract.html'
 ---
-{% include youtube.html %}
-Which contingencies should you know about? Here are five of them.
 
-Buying a home? <a href="http://www.stlouispropertysearch.net/" target="_blank">Click here to perform a full home search</a>
-Selling a home? <a href="http://www.stlouishomevalues.net/" target="_blank">Click here for a FREE Home Price Evaluation</a>
+
+{% include youtube.html %}Which contingencies should you know about? Here are five of them.
+
+Buying a home? [Click here to perform a full home search](http://www.stlouispropertysearch.net/)Selling a home? [Click here for a FREE Home Price Evaluation](http://www.stlouishomevalues.net/)
 
 What is a real estate contingency? By definition, it’s a future event or circumstance that is possible but can not be predicted with certainty. There can be quite a few of them included within a real estate contract, as far as buyers are concerned. Here are five of the most common contingencies buyers include in a contract and what they mean:
 
