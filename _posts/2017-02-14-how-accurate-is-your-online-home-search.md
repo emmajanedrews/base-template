@@ -1,7 +1,8 @@
 ---
 youtube_code: zz6kNsQv38A
 excerpt:
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520Are%2520you%2520seeing%2520all%2520available%2520listings%2520out%2520there%253F.mp4
 pullquote: We don’t want you to be shortchanged.
 enclosure_type: video/mp4
 enclosure_time:
@@ -9,20 +10,21 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: How Accurate Is Your Online Home Search?
-date: '2017-02-14T13:36:00.001-08:00'
+date: 2017-02-14 21:36:00
 author: Vyral Admin
 tags:
-- Home Buyer Tips
-modified_time: '2017-03-28T08:10:40.138-07:00'
-thumbnail: https://i.ytimg.com/vi/zz6kNsQv38A/default.jpg
-blogger_id: tag:blogger.com,1999:blog-6616909685054893318.post-6610628807442337301
-blogger_orig_url: http://sandiehea.blogspot.com/2017/02/st-louis-metro-area-real-estate-are-you.html
+  - Home Buyer Tips
+modified_time:
+thumbnail: 'https://i.ytimg.com/vi/zz6kNsQv38A/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-6616909685054893318.post-6610628807442337301'
+blogger_orig_url: >-
+  http://sandiehea.blogspot.com/2017/02/st-louis-metro-area-real-estate-are-you.html
 ---
-{% include youtube.html %}
-When it comes to searching for homes, there are a lot of online resources that can serve you well, but you can’t do better than working with an actual real estate agent.
 
-Buying a home? <a href="http://www.stlouispropertysearch.net/" target="_blank">Click here to perform a full home search</a>
-Selling a home? <a href="http://www.stlouishomevalues.net/" target="_blank">Click here for a FREE Home Price Evaluation</a>
+
+{% include youtube.html %}When it comes to searching for homes, there are a lot of online resources that can serve you well, but you can’t do better than working with an actual real estate agent.
+
+Buying a home? [Click here to perform a full home search](http://www.stlouispropertysearch.net/)Selling a home? [Click here for a FREE Home Price Evaluation](http://www.stlouishomevalues.net/)
 
 As a homebuyer, how can you be sure that you’re seeing all the available houses out there that are for sale? I know that at least one of you watching the video above or reading this article is searching sites like Homes.com, Remax.com, or Realtor.com, and thinking that if you don’t check each and every website, you will miss out on your dream home.
 
