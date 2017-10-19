@@ -12,7 +12,7 @@ title: 'How Can You Grow Your Database and Your Real Estate Business? '
 date: '2017-10-11T08:05:00.001-07:00'
 author: Vyral Admin
 tags:
-- Real Estate Agent Success Tips
+- Success Tips
 modified_time: '2017-10-12T12:22:02.485-07:00'
 thumbnail: https://i.ytimg.com/vi/PrB9_u34-4g/default.jpg
 blogger_id: tag:blogger.com,1999:blog-4832930360015763104.post-5757050991500710719

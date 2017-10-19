@@ -12,7 +12,7 @@ title: Answering the Question of Why Do I Need a Real Estate Agent?
 date: '2016-10-31T12:05:00.000-07:00'
 author: Vyral Admin
 tags:
-- San Diego real estate careers
+- Real Estate Careers
 modified_time: '2016-11-08T14:02:07.134-08:00'
 thumbnail: https://i.ytimg.com/vi/HyJLBfSC8Fg/default.jpg
 blogger_id: tag:blogger.com,1999:blog-4832930360015763104.post-7071779800067983760

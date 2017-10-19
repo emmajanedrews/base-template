@@ -12,7 +12,7 @@ title: Why an Agent Cant Be Over-Reliant on the MLS
 date: '2016-11-21T13:45:00.000-08:00'
 author: Vyral Admin
 tags:
-- San Diego real estate careers
+- Real Estate Careers
 - Success Tips
 modified_time: '2016-11-29T09:04:21.777-08:00'
 thumbnail: https://i.ytimg.com/vi/uGbF2PK9Q7I/default.jpg

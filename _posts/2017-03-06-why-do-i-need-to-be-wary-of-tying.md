@@ -12,7 +12,7 @@ title: Why Do You Need to Be Wary of Tying Arrangements?
 date: '2017-03-06T14:49:00.000-08:00'
 author: Vyral Admin
 tags:
-- Real Estate Agent Success Tips
+- Success Tips
 modified_time: '2017-03-06T14:51:56.038-08:00'
 thumbnail: https://i.ytimg.com/vi/ETWGAXh0plQ/default.jpg
 blogger_id: tag:blogger.com,1999:blog-4832930360015763104.post-118738630949642326

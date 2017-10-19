@@ -12,7 +12,7 @@ title: 'How Should You Communicate With Your Database? '
 date: '2017-08-25T13:59:00.000-07:00'
 author: Vyral Admin
 tags:
-- San Diego real estate careers
+- Real Estate Careers
 modified_time: '2017-08-28T12:39:47.620-07:00'
 thumbnail: https://i.ytimg.com/vi/_ZbcwDtTGyA/default.jpg
 blogger_id: tag:blogger.com,1999:blog-4832930360015763104.post-141374007370427562

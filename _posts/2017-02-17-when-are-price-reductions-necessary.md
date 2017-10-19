@@ -12,7 +12,7 @@ title: When Are Price Reductions Necessary?
 date: '2017-02-17T12:42:00.000-08:00'
 author: Vyral Admin
 tags:
-- San Diego real estate careers
+- Real Estate Careers
 modified_time: '2017-02-20T13:54:40.030-08:00'
 thumbnail: https://i.ytimg.com/vi/v7RmBVLttC4/default.jpg
 blogger_id: tag:blogger.com,1999:blog-4832930360015763104.post-5094349663031254682

@@ -12,7 +12,7 @@ title: Helping Your Sellers Choose the Right Price
 date: '2017-01-31T14:12:00.000-08:00'
 author: Vyral Admin
 tags:
-- Real Estate Agent Success Tips
+- Success Tips
 modified_time: '2017-01-31T14:12:50.594-08:00'
 thumbnail: https://i.ytimg.com/vi/60R-WVAjRvc/default.jpg
 blogger_id: tag:blogger.com,1999:blog-4832930360015763104.post-8600986076031429146

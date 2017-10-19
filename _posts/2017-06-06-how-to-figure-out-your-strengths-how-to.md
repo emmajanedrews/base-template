@@ -12,7 +12,7 @@ title: How to Figure Out Your Strengths & How to Use Them
 date: '2017-06-06T07:53:00.001-07:00'
 author: Vyral Admin
 tags:
-- San Diego real estate careers
+- Real Estate Careers
 modified_time: '2017-06-07T12:46:13.464-07:00'
 thumbnail: https://i.ytimg.com/vi/c9k-D1kIP-Q/default.jpg
 blogger_id: tag:blogger.com,1999:blog-4832930360015763104.post-6149167227490470900

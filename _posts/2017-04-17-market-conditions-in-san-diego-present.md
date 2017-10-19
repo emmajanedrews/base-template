@@ -12,7 +12,7 @@ title: Market Conditions in San Diego Present a Unique Opportunity
 date: '2017-04-17T10:47:00.000-07:00'
 author: Vyral Admin
 tags:
-- San Diego Market Update
+- Market Update
 modified_time: '2017-04-18T09:37:37.486-07:00'
 thumbnail: https://i.ytimg.com/vi/bSJWq7GddxM/default.jpg
 blogger_id: tag:blogger.com,1999:blog-4832930360015763104.post-6802454558368693412

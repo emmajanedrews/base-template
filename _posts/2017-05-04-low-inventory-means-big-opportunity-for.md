@@ -12,7 +12,7 @@ title: 'Low Inventory Means Big Opportunity for Agents '
 date: '2017-05-04T11:28:00.000-07:00'
 author: Vyral Admin
 tags:
-- San Diego real estate careers
+- Real Estate Careers
 modified_time: '2017-05-16T07:45:10.206-07:00'
 thumbnail: https://i.ytimg.com/vi/BTaR3kH8OaA/default.jpg
 blogger_id: tag:blogger.com,1999:blog-4832930360015763104.post-7708694864207228907
