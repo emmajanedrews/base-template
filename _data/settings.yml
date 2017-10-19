@@ -24,7 +24,7 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.chasecraig.com/
   second_CTA_text: Home Search
   second_CTA_URL: http://www.chasecraig.com/search#?q_limit=36&q_prioritize=agents.0.id=9058|office.id=608&mlsId=113&q_sort=createdAt-&q_offset=0
   VR_form: http://oi.vresp.com?fid=2c5c958d5e
@@ -34,7 +34,7 @@ sidebar_CTA:
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free -- MARKET -- Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.chasecraig.com/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
