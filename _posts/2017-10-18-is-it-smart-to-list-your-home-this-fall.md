@@ -22,7 +22,7 @@ youtube_code: roppO1nIyTM
 
 Fall is upon us, and with it the end of the high season for real estate.
 
-However, if you're thinking you've missed your chance to sell your home, let me reassure you: **This autumn actually presents a fantastic moment to sell.**Here's why.
+However, if you're thinking you've missed your chance to sell your home, let me reassure you: **This autumn actually presents a fantastic moment to sell.&nbsp;**Here's why.
 
 First off, housing inventory is still incredibly low. In fact, according to data from the Census Bureau and the National Association of Realtors, inventory remains well below historic averages, and is 50% less than its peak in 2006. In addition, the recent slump in new construction means demand for existing homes will stay high in the near future.&nbsp;
 
