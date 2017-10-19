@@ -1,6 +1,6 @@
 audit_header: false
 title: San Diego Real Estate Careers and Training with Jerimiah Taylor
-description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
+description: A Video Blog about San Diego real estate - it's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or have been working in the field for a few years, tune in to get updates, tips, tricks and more!
 show_custom_links: true
 custom_links:
   - title: Why KW Now?
@@ -66,13 +66,9 @@ lender:
   url: http://eyegoop.com
 
 welcome_box:
-  welcome_headline: Join Our -- MARKET -- VIP List
+  welcome_headline: How to Sell More Homes
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
-    professionals can answer any questions you might have about real estate.
-    Subscribe to this blog to get the latest news on local market trends and
-    receive expert tips for buying or selling a home.
+    Whether you are just starting out, or you are licensed Broker, our team of professionals can answer any questions you might have about real estate. Subscribe to this blog to get the latest news on local market trends and receive expert tips for buying or selling a home.
 
 socials:
   review_sm_icons: false
@@ -89,12 +85,12 @@ socials:
   podcast_url: https://itunes.apple.com/us/podcast/what-you-can-expect-on-our/id817653906?i=252148011&mt=2
 
 podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
+  title: 'San Diego Real Estate Careers and Training Podcast with Jerimiah Taylor'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: 'Boost your Career with Veteran Real Estate Agent Jerimiah Taylor'
+  description: A Podcast about -- MARKET -- Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!
+  keywords: '-- MARKET -- Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make'
   author: '-- CLIENT NAME --'
 
 images:
