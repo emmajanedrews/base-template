@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Will the Market Be Impacted by Recent Action From the Federal Reserve?
-date: 2017-10-18 15:21:25
+date: 2017-10-18 15:21:00
 tags:
   - Market Update
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/joe-desanefed-rolling-backupdated-youtube-10.jpg
-youtube_code: 'https://youtu.be/N_rZimWXcwI'
+youtube_code: 'https://youtu.be/zGD9-jPRmqs'
 ---
 
 
