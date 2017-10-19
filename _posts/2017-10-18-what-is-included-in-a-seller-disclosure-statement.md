@@ -31,7 +31,7 @@ Here in the state of Minnesota, there are two types of seller disclosure stateme
 
 Usually, though, a seller will use the full property disclosure statement. This is a very lengthy, 10-page document that goes through everything a prospective buyer will need to know about the condition of the property.
 
-The full disclosure form will ask about the age of the roof and if the mechanical systems and appliances are in working order.** If you have a private well or septic system, those need to be disclosed as well.**
+The full disclosure form will ask about the age of the roof and if the mechanical systems and appliances are in working order. **If you have a private well or septic system, those need to be disclosed as well.**
 
 {% include pullquote.html %}
 
