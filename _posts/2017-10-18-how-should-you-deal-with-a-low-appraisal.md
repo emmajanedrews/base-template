@@ -36,17 +36,11 @@ youtube_code: by0qBSoO7nE
 A home appraisal is a part of every home that is bought with financing. **Low appraisals can happen for many reasons, including**:
 
 -Artificially inflated values because of multiple offers
-
 -Incorrect evaluation by the underwriter
-
 -An inexperienced appraiser who doesn’t understand influences on value
-
 -Market values rising due to limited inventory
-
 -Appraisers looking at pending sales data from the wrong areas
-
 -Declining market values due to fewer buyers shopping among a larger inventory
-
 -A fallout from an abundance of foreclosures and short sales in a neighborhood
 
 
