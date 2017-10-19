@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Makes Columbus So Great for Real Estate Investing?
-date: 2017-10-19 10:07:22
+date: 2017-10-19 10:07:00
 tags:
   - Real Estate
 excerpt: >-
@@ -13,8 +13,9 @@ enclosure: >-
 pullquote: 'From Dallas to Seattle, people are looking to Ohio for investments.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: >-
+  /uploads/robellis-screenshot-tube-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01.jpg
 youtube_code: 7wu595cRk3I
 ---
 
@@ -35,7 +36,7 @@ As of 2016, Columbus was growing at 9.8% year over year. As it continues to grow
 
 {% include pullquote.html %}
 
-I myself am actually part of this demographic. I’m not native to the city, but I did decide to stay in &nbsp; Columbus after graduating.
+I myself am actually part of this demographic. I’m not native to the city, but I did decide to stay in   Columbus after graduating.
 
 As the state’s capital, Columbus has a lot of opportunities and a lot of job opportunities fused into it. Companies like Nationwide Insurance, Cardinal Health, and more are all contributing to Columbus’ growth. Other submarkets in the area just don’t have the same things to offer.
 
@@ -43,4 +44,4 @@ Especially given the presence of Ohio State University, Columbus offers some uni
 
 Some people may choose to invest in properties in the suburbs, but the options are vastly limited compared to what is available within the city. **If you do want to invest outside of Columbus, certain tertiary markets can also be a good route to pursue.**
 
-If you have any other questions, &nbsp;would like more information, or need help determining what you’ll need to do to be successful as an investor, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+If you have any other questions,  would like more information, or need help determining what you’ll need to do to be successful as an investor, feel free to give me a call or send me an email. I look forward to hearing from you soon.
