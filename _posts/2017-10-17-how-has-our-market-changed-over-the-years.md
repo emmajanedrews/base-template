@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   How has the market changed since 2006? Let’s take a look back at some market
   trends from across recent years.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+What+past+trends+mean+for+our+current+market.mp4
 pullquote: 'By all shapes and measures, the market is in a strong place.'
 enclosure_type: video/mp4
 enclosure_time:
