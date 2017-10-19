@@ -48,7 +48,7 @@ You may also end up paying less for the property. Let’s say you didn’t get t
 
 Whether you are buying or selling a home, make sure that you work with an agent who understands the value of the backup contract.&nbsp;
 
-You can learn more about the value of getting your home market ready by watching the Home Seller Half Hour this week. <u>Sign up here</u> to learn everything you need to know about selling your home in less than 30 minutes.&nbsp;
+You can learn more about the value of getting your home market ready by watching the Home Seller Half Hour this week. [<u>Sign up here</u>](https://app.webinarjam.net/register/40860/ffb94e1c2b) to learn everything you need to know about selling your home in less than 30 minutes.&nbsp;
 
 My listing here at [4550 Klingle Street NW](https://www.google.com/maps/place/4550+Klingle+St+NW,+Washington,+DC+20016/@38.9313404,-77.0904095,3a,75y,185.8h,89.36t/data=!3m6!1e1!3m4!1spUUOxJ9umn0d14MaVUfEWQ!2e0!7i13312!8i6656!4m5!3m4!1s0x89b7b61d305faadb:0xea5abefb28b270f7!8m2!3d38.9311572!4d-77.0903391) at Wesley Heights SOLD for full price! <u><a href="http://spws.homevisit.com/hvid/201973">Take a look at the virtual tour here</a></u>. Let me know if you’d like me to find you a house like it. I’m here to help.
 
