@@ -17,7 +17,7 @@ youtube_code: odImzCJXBi4
 
 {% include youtube.html %}
 
-If you’re a real estate investor or thinking about becoming one, your cap rate is one of the most important things to know about. **To help explain what a cap rate is and how it’s calculated, I want to give you a quick example**with some real numbers.
+If you’re a real estate investor or thinking about becoming one, your cap rate is one of the most important things to know about. **To help explain what a cap rate is and how it’s calculated, I want to give you a quick example** with some real numbers.
 
 For example, let’s say you have an eight-family unit that is generating $6,400 per month in rent. That equals out to $76,800 per year. Now, let’s suppose that you have $21,800 in yearly expenses. These include things like lawn maintenance, snow removal, or a property management company.
 
