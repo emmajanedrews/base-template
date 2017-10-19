@@ -31,6 +31,6 @@ If you’re a buyer who needs closing costs assistance, but you do believe the h
 
 A common question that this brings up from sellers is when these agreed-upon closing costs actually need to be paid. Actually, this money will come out of the seller’s proceeds at the closing table.
 
-Buyers need to remember that the money will show up as a credit at closing. Buyers will still have to pay upfront for costs like the inspection and appraisal, but **they will be reimbursed by the seller for an agreed-upon amount at closing.**
+Buyers need to remember that the money will show up as a credit at closing. Buyers will still have to pay up front for costs like the inspection and appraisal, but **they will be reimbursed by the seller for an agreed-upon amount at closing.**
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
