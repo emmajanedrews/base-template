@@ -29,7 +29,7 @@ Today I’ve got a list to share with you of the five biggest advantages to buyi
 
 **3. Complete design control.** Building a new home gives you this and more. When you have complete design control, everything is the way that you want it from the start. You don’t have to spend time and/or money replacing or redesigning elements of your home.
 
-**4. Entertaining is easy.&nbsp;**Most new homes have open floor plans that support large groups, making entertaining simple. It was completely designed with large scale entertaining in mind.
+**4. Entertaining is easy.&nbsp;**Most new homes have open floor plans that support large groups, making entertaining simple. It was completely designed with large-scale entertaining in mind.
 
 **5. That “new home feel.”** There is no substitute for the feeling that you get when moving into a brand-new home. The model-like appearance of the home provides a very satisfying feeling of accomplishment and ownership.
 
