@@ -22,7 +22,7 @@ blogger_orig_url: http://sandiegorealestatecareers.blogspot.com/2017/08/how-shou
 How do our top agents stay in front of their databases and close hundreds of transactions per year? The answer is simple and I’m going to share it with you today.
 
 Thinking about a career in San Diego real estate sales?
- Email me today for a private San Diego real estate career consultation.
+<a href="mailto:JTaylor@kw.com">Email me today for a private San Diego real estate career consultation.</a>
 
 As an agent, your database is the core of your business. Even though we talk a lot about the database, it can be hard to truly grasp the significance of what it does for you and your real estate career.
 

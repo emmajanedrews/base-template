@@ -22,7 +22,7 @@ blogger_orig_url: http://sandiegorealestatecareers.blogspot.com/2017/01/helping-
 We're heading toward a market shift, so pricing a home properly is going to be a more important skill now that it has been in the last 10 years. How do you help your sellers do this?
 
 Thinking about a career in San Diego real estate sales?
- Email me today for a private San Diego real estate career consultation.
+<a href="mailto:JTaylor@kw.com">Email me today for a private San Diego real estate career consultation.</a>
 
 I wanted to give you some advice on helping your sellers choose the right price for their homes.
 

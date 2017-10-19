@@ -20,7 +20,7 @@ blogger_orig_url: http://sandiegorealestatecareers.blogspot.com/2017/10/thinking
 ---
 {% include youtube.html %}
 Thinking about a career in San Diego real estate sales?
- Email me today for a private San Diego real estate career consultation.
+<a href="mailto:JTaylor@kw.com">Email me today for a private San Diego real estate career consultation.</a>
 
 If you want to grow your database and your real estate business, most agents know that there are two ways you can go about it: **prospecting or marketing.**
 

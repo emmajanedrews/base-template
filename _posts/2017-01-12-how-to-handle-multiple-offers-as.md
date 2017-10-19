@@ -22,7 +22,7 @@ blogger_orig_url: http://sandiegorealestatecareers.blogspot.com/2017/01/how-to-h
 With inventory as low as it is, your sellers should be receiving multiple offers. You need to be prepared to help them pick the best offer for their unique situation.
 
 Thinking about a career in San Diego real estate sales?
- Email me today for a private San Diego real estate career consultation.
+<a href="mailto:JTaylor@kw.com">Email me today for a private San Diego real estate career consultation.</a>
 
 Inventory is at an all-time low, and if you have a property that is priced right, you should be concerned if you’re not getting multiple offers. As a listing agent, it is your job to help your sellers choose the best offer.
 

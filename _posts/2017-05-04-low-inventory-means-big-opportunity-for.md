@@ -22,7 +22,7 @@ blogger_orig_url: http://sandiegorealestatecareers.blogspot.com/2017/05/low-inve
 Low inventory actually means big opportunity for real estate agents, and I’ll explain why today.
 
 Thinking about a career in San Diego real estate sales?
- Email me today for a private San Diego real estate career consultation.
+<a href="mailto:JTaylor@kw.com">Email me today for a private San Diego real estate career consultation.</a>
 
 There are a lot of agents out there who are moping around because there are only one-and-a-half months of inventory on the market.
 

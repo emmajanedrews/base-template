@@ -22,7 +22,7 @@ blogger_orig_url: http://sandiegorealestatecareers.blogspot.com/2016/12/why-list
 A lot of sellers are assuming they should wait until spring to list their homes. As you will see, this is a mistake.
 
 Thinking about a career in San Diego real estate sales?
- Email me today for a private San Diego real estate career consultation.
+<a href="mailto:JTaylor@kw.com">Email me today for a private San Diego real estate career consultation.</a>
 
 A lot of our agents are hearing their clients say, “I’ll just wait until after the holidays are over and catch the spring market next year.”
 

@@ -22,7 +22,7 @@ blogger_orig_url: http://sandiegorealestatecareers.blogspot.com/2017/03/why-do-i
 Are you aware of tying arrangements and the risk they pose to agents? You need to be careful when tying a buying and selling transaction together with the same client.
 
 Thinking about a career in San Diego real estate sales?
- Email me today for a private San Diego real estate career consultation.
+<a href="mailto:JTaylor@kw.com">Email me today for a private San Diego real estate career consultation.</a>
 
 Most agents know about tying arrangements, they just don't know what they’re called.
 

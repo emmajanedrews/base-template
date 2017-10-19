@@ -22,7 +22,7 @@ blogger_orig_url: http://sandiegorealestatecareers.blogspot.com/2017/06/how-to-f
 For a limited time only, we’re allowing you to use the Keller Personality Assessment to find out what your strengths are and how to leverage them.
 
 Thinking about a career in San Diego real estate sales?
- Email me today for a private San Diego real estate career consultation.
+<a href="mailto:JTaylor@kw.com">Email me today for a private San Diego real estate career consultation.</a>
 
 Have you ever taken a behavioral assessment before?
 

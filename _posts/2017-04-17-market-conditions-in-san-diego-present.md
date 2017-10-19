@@ -22,7 +22,7 @@ blogger_orig_url: http://sandiegorealestatecareers.blogspot.com/2017/04/market-c
 The San Diego County market is suffering from an inventory crisis. However, the best agents are turning this into an opportunity for more business.
 
 Thinking about a career in San Diego real estate sales?
- Email me today for a private San Diego real estate career consultation.
+<a href="mailto:JTaylor@kw.com">Email me today for a private San Diego real estate career consultation.</a>
 
 The latest numbers are in for San Diego County, so I wanted to take a moment to talk about the real estate market and what I’m seeing right now.
 

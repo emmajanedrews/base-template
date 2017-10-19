@@ -23,7 +23,7 @@ blogger_orig_url: http://sandiegorealestatecareers.blogspot.com/2016/11/why-agen
 Today I want to talk about how the MLS has changed in our real estate industry. Ten years ago, our value proposition was centered almost entirely on it.
 
 Thinking about a career in San Diego real estate sales?
- Email me today for a private San Diego real estate career consultation.
+<a href="mailto:JTaylor@kw.com">Email me today for a private San Diego real estate career consultation.</a>
 
 You may see what’s happening out there in the market, but I want to talk about a functional perspective of the MLS and how it’s changed our real estate industry.
 

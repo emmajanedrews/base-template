@@ -22,7 +22,7 @@ blogger_orig_url: http://sandiegorealestatecareers.blogspot.com/2017/02/when-are
 Price reductions are never ideal. However, we have a good strategy to share for how to approach them.
 
 Thinking about a career in San Diego real estate sales?
- Email me today for a private San Diego real estate career consultation.
+<a href="mailto:JTaylor@kw.com">Email me today for a private San Diego real estate career consultation.</a>
 
 No seller likes to have to make price reductions, but sometimes they are necessary. How do you determine when your seller needs a price reduction?
 
