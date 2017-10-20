@@ -34,7 +34,7 @@ Your income bucket represents the first three to five years of living expenses y
 
 {% include pullquote.html %}
 
-What would you invest that money in? **You would invest that money in CDs, treasuries, and bonds that mature consistently with the timing of when you need those cash flows.**You can invest the other bucket—the growth bucket—into more aggressive securities like stocks because you have time to allow those to recover in case they go down during the first few years of your retirement.
+What would you invest that money in? **You would invest that money in CDs, treasuries, and bonds that mature consistently with the timing of when you need those cash flows.&nbsp;**You can invest the other bucket—the growth bucket—into more aggressive securities like stocks because you have time to allow those to recover in case they go down during the first few years of your retirement.
 
 When’s the best time to think about this retirement transition portfolio strategy? We think it’s a minimum of five years and a maximum of 10 years before you need to withdraw before you should consider this income and growth approach.
 
