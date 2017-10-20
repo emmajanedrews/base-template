@@ -24,7 +24,7 @@ Are you curious how you can protect yourself against the recent Equifax data bre
 
 **1. Know the facts.** Reach out to a professional and see if you’ve been affected.
 
-**2. Find out if you’ve been impacted.** You can visit [www.equifaxsecurity2017.com](http://www.equifaxsecurity2017.com){: target="_blank"} to do so.
+**2. Find out if you’ve been impacted.** You can visit [www.equifaxsecurity2017.com](http://www.equifaxsecurity2017.com) to do so.
 
 {% include pullquote.html %}
 
@@ -32,6 +32,6 @@ Are you curious how you can protect yourself against the recent Equifax data bre
 
 **4. Raise your awareness.** Be positive about the experience. We even have to send out notices to our clients about different things that can happen with our emails in real estate work.
 
-**5. If identity theft strikes, contact a resolution expert** so they can help you take care of it as fast as possible. Credit Karma actually has a service that let’s you know if something has been done so you can know about it immediately. Some people don’t check their credit often, so they can be tremendously affected by this kind of thing.
+**5. If identity theft strikes, contact a resolution expert** so they can help you take care of it as fast as possible. Credit Karma actually has a service that lets you know if something has been done so you can know about it immediately. Some people don’t check their credit often, so they can be tremendously affected by this kind of thing.
 
 If you have any questions about these tips, don’t hesitate to give me a call or send me an email. I’d be happy to help you.
