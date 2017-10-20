@@ -21,8 +21,8 @@ blogger_orig_url: http://successmortgagepartners.blogspot.com/2016/12/orlando-mo
 {% include youtube.html %}
 There are plenty of special loan programs out there for first-time buyers. We are going to talk about a few of them today.
 
-Check out the next Agent Mastermind
-Apply Online
+<a href="http://agentmastermind.com/kristinjamieson/" target="_blank">Check out the next Agent Mastermind</a>
+<a href="https://successmortgagepartners-com.mysecureloan.com/kristin/applications/page1.php?lng=en" target="_blank">Apply Online</a>
 
 We’ve been getting some great questions from our viewers about mortgages lately, and we wanted to answer one of them today. **This one comes from Ron who asks, “Which programs are out there for first-time home buyers?”**
 

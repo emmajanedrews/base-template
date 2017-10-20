@@ -21,8 +21,8 @@ blogger_orig_url: http://successmortgagepartners.blogspot.com/2016/11/orlando-mo
 {% include youtube.html %}
 By the time you’ve made it to the closing table in your transaction, the hard part is over.
 
-Check out the next Agent Mastermind
-Apply Online
+<a href="http://agentmastermind.com/kristinjamieson/" target="_blank">Check out the next Agent Mastermind</a>
+<a href="https://successmortgagepartners-com.mysecureloan.com/kristin/applications/page1.php?lng=en" target="_blank">Apply Online</a>
 
 Our walkthrough of the mortgage process continues with the closing day. First off, congratulations. You made it. This is what you’ve been working toward for weeks, maybe months. Let’s walk through what’s going to happen on closing day step-by-step.
 

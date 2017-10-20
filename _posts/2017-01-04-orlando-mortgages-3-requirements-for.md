@@ -21,8 +21,8 @@ blogger_orig_url: http://successmortgagepartners.blogspot.com/2017/01/orlando-mo
 {% include youtube.html %}
 Qualifying for a USDA loan is different than qualifying for other loan packages since it's 100% financing. These are the basic requirements you'll need to meet to qualify for this loan.
 
-Check out the next Agent Mastermind
-Apply Online
+<a href="http://agentmastermind.com/kristinjamieson/" target="_blank">Check out the next Agent Mastermind</a>
+<a href="https://successmortgagepartners-com.mysecureloan.com/kristin/applications/page1.php?lng=en" target="_blank">Apply Online</a>
 
 I recently had a Realtor ask for some clarification on USDA guidelines and how buyers can obtain approval for a USDA mortgage.
 

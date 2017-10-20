@@ -21,8 +21,8 @@ blogger_orig_url: http://successmortgagepartners.blogspot.com/2017/05/orlando-mo
 {% include youtube.html %}
 Today we’d like to introduce Evelyn, the receptionist (and your first point of contact) at Success Mortgage Partners.
 
-Check out the next Agent Mastermind
-Apply Online
+<a href="http://agentmastermind.com/kristinjamieson/" target="_blank">Check out the next Agent Mastermind</a>
+<a href="https://successmortgagepartners-com.mysecureloan.com/kristin/applications/page1.php?lng=en" target="_blank">Apply Online</a>
 
 Evelyn has worked at Success Mortgage Partners since September of 2016. **As a receptionist, she is your first point of contact when you inquire about an application.** She makes sure that you get the application and will answer your questions as well.
 

@@ -21,8 +21,8 @@ blogger_orig_url: http://successmortgagepartners.blogspot.com/2017/02/orlando-mo
 {% include youtube.html %}
 Today we’re answering a question about credit score requirements for different types of home loans and how you can get your score up if you don’t qualify.
 
-Check out the next Agent Mastermind
-Apply Online
+<a href="http://agentmastermind.com/kristinjamieson/" target="_blank">Check out the next Agent Mastermind</a>
+<a href="https://successmortgagepartners-com.mysecureloan.com/kristin/applications/page1.php?lng=en" target="_blank">Apply Online</a>
 
 Today we’re answering more questions from real estate agents about home loans. The question we’ll address today is, “What credit score is necessary for each type of loan?”
 

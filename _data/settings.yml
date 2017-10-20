@@ -16,10 +16,10 @@ client:
 
     Consumers wishing to file a complaint with Success Mortgage Partners, Inc. regarding their experience may complete the Consumer Complaint form and submit electronically. Complaints will be acknowledged by our Complaint Resolution Officer within 10-15 business days, however some may take longer due to the nature of the complaint.
   market:
-  brand: Success Mortgage Partners INC.
+  brand: Success Mortgage Partners
   license_number2: 'NMLS #130562'
   brokerage:
-  address: '16903 Lakeside Dr. Unit #6 Montverde, FL 34756'
+  address: '16903 Lakeside Dr. Unit #6<br>Montverde, FL 34756'
   phone: 352-242-1535
   phone_type:
   phone2:
@@ -32,7 +32,7 @@ CTAs:
   first_CTA_URL: http://agentmastermind.com/kristinjamieson/
   second_CTA_text: Online Application
   second_CTA_URL: https://successmortgagepartners-com.mysecureloan.com/kristin/applications/page1.php?lng=en
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=e03c9c1295
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
@@ -80,7 +80,7 @@ socials:
   podcast_url: https://itunes.apple.com/us/podcast/success-mortgage-partners-with-kristin-jamieson/id1206042832?mt=2
 
 podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
+  title: '-- MARKET -- Mortgage and Loan Podcast with -- CLIENT NAME --'
   categories: Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more to better prepare yourself for the future.'
@@ -107,7 +107,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: rgba(0, 0, 0, .5)
 
 buttons:
   button_radius_number: 0

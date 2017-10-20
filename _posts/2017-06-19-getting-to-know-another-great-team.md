@@ -20,8 +20,9 @@ blogger_orig_url: http://successmortgagepartners.blogspot.com/2017/06/getting-to
 ---
 {% include youtube.html %}
 Amie Sharpe joins us today to talk more about the loan process.
-Check out the next Agent Mastermind
-Apply Online
+
+<a href="http://agentmastermind.com/kristinjamieson/" target="_blank">Check out the next Agent Mastermind</a>
+<a href="https://successmortgagepartners-com.mysecureloan.com/kristin/applications/page1.php?lng=en" target="_blank">Apply Online</a>
 
 In our previous video, we talked to Crystal about the beginning of mortgage application process. This time, we’re talking with Amie about the closing part of the process.
 

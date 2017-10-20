@@ -4,10 +4,10 @@
     <title> Real Estate Podcast with Kristin Jamieson</title>
     <link>localhost:4000</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
-    <description>Our mission at Success Mortgage Partners INC. is to be your best resource for financial advice. Our team of professionals can answer any questions you might have about finance. Subscribe to this blog to get the latest news on finance and receive expert tips for preparing yourself for your financial future.</description>
+    <description>Our mission at Success Mortgage Partners is to be your best resource for financial advice. Our team of professionals can answer any questions you might have about finance. Subscribe to this blog to get the latest news on finance and receive expert tips for preparing yourself for your financial future.</description>
     <language>en</language>
     <managingEditor>Kristin Jamieson</managingEditor>
-    <lastBuildDate>2017-10-19 15:53:23 -0500</lastBuildDate>
+    <lastBuildDate>2017-10-20 10:33:42 -0500</lastBuildDate>
     <media:copyright>Kristin Jamieson</media:copyright>
     <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
     <media:keywords>finance, financial planning, retirement, retirement planning, 401K</media:keywords>
@@ -21,106 +21,683 @@
     <itunes:image href="localhost:4000/img/podcast.jpg"/>
     <itunes:keywords>finance, financial planning, retirement, retirement planning, 401K</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more to better prepare yourself for the future.</itunes:subtitle>
-    <itunes:summary>Our mission at Success Mortgage Partners INC. is to be your best resource for financial advice. Our team of professionals can answer any questions you might have about finance. Subscribe to this blog to get the latest news on finance and receive expert tips for preparing yourself for your financial future.</itunes:summary>
+    <itunes:summary>Our mission at Success Mortgage Partners is to be your best resource for financial advice. Our team of professionals can answer any questions you might have about finance. Subscribe to this blog to get the latest news on finance and receive expert tips for preparing yourself for your financial future.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
+        <title>What Is Sandy Tolen's Role on Our Team?</title>
+        <link>localhost:4000/orlando-mortgages-meet-our-team-member-sandy.html</link>
         
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
-        
-          <category>Home Seller Tips</category>
+          <category>Orlando Mortgages</category>
         
         <author>Kristin Jamieson</author>
-        <pubDate>2016-10-04 00:00:00 -0500</pubDate>
+        <pubDate>2017-09-07 10:31:00 -0500</pubDate>
         <guid></guid>
         <description>
 
-}
+Sandy Tolen, a loan processor on our team, is here today to give you a look at what she does with us. This is her introduction
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+Check out the next Agent Mastermind
+Apply Online
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+Meet Sandy Tolen, a loan processor on our team.
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+Sandy has worked with us for just over a year and a half, but has been in the mortgage industry for more than 15 years.
 
-“This is an example of a pull quote”
+As a loan processor, Sandy reviews documents provided by the borrowers to ensure that they meet underwriting guidelines.
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+She also works directly with the underwriters throughout the process to help loans be approved.
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+“SANDY SAYS THAT THE MOST REWARDING PART OF HER JOB IS HELPING PEOPLE GET INTO HOMES.”
+
+Sandy notes, also, that it is a common misconception that all loans are the same. In her role, she encounters and handles a variety different circumstances.
+
+The most rewarding part about her work on our team, though, is being able to get people into homes. This is what she says is her favorite part of her job.
+
+If you have any other questions or would like more information, feel free to give us a call or send us an email, we look forward to hearing from you soon.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>
+
+Sandy Tolen, a loan processor on our team, is here today to give you a look at what she does with us. This is her introduction
+
+</itunes:subtitle>
         <itunes:author>Kristin Jamieson</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>
+
+Sandy Tolen, a loan processor on our team, is here today to give you a look at what she does with us. This is her introduction
+
+</itunes:summary>
         <itunes:keywords>finance, financial planning, retirement, retirement planning, 401K</itunes:keywords>
       </item>
       
       <item>
-        <title>A Fox in Space</title>
-        <link>localhost:4000/a-fox-in-space.html</link>
+        <title>Meet Another Important Member of Our Team</title>
+        <link>localhost:4000/orlando-mortgages-have-you-met-nadia.html</link>
         
-          <category>Market Update</category>
+          <category>Orlando Mortgages</category>
         
-          <category>Real Estate</category>
-        
-          <category>Home Seller Tips</category>
+          <category>Mortgage Process</category>
         
         <author>Kristin Jamieson</author>
-        <pubDate>2016-09-28 00:00:00 -0500</pubDate>
+        <pubDate>2017-08-22 10:40:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+Meet+Nadia+Lokhnauth.mp4</guid>
+        <description>
+
+Nadia Lokhnauth has been with us for about two years now. Here’s why she is such an important member of our team.
+
+Check out the next Agent Mastermind
+Apply Online
+
+Today we are excited to introduce you to another important member of our team at Success Mortgage Partners, Inc.
+
+Nadia Lokhnauth has been with us for about two years now as a junior loan processor. She has recently started placing all the orders for our appraisals while still processing loans, herself. She puts all the documents together and makes sure it gets sent to our underwriters for loan approval. When the loan initially comes back from underwriting, she also works with the title company in getting certain documents recovered and back to underwriting for final approval.
+
+“THE MORTGAGE PROCESS ISN’T AS STRESSFUL AS YOU THINK.”
+
+One thing that Nadia wants people to know is that the mortgage process isn’t as stressful as you think. There are so many options and different programs available to borrowers, you’ll be just fine as long as you have the right lender helping you through the process.
+
+If you have any questions for us, don’t hesitate to reach out and give us a call or send us an email. Any time. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+Meet+Nadia+Lokhnauth.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+Meet+Nadia+Lokhnauth.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Nadia Lokhnauth has been with us for about two years now. Here’s why she is such an important member of our team.
+
+</itunes:subtitle>
+        <itunes:author>Kristin Jamieson</itunes:author>
+        <itunes:summary>
+
+Nadia Lokhnauth has been with us for about two years now. Here’s why she is such an important member of our team.
+
+</itunes:summary>
+        <itunes:keywords>finance, financial planning, retirement, retirement planning, 401K</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>From Application to Close: How Justin Guides You Through the Lending Process</title>
+        <link>localhost:4000/orlando-mortgages-meet-justin-tolen.html</link>
+        
+          <category>Mortgage Process</category>
+        
+        <author>Kristin Jamieson</author>
+        <pubDate>2017-07-05 15:26:00 -0500</pubDate>
         <guid></guid>
         <description>
 
-}
+Today one of our loan partners, Justin Tolen, will go over a little bit more about the loan process and share a little bit about himself.
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+Check out the next Agent Mastermind
+Apply Online
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+Last time, we talked to Crystal about the application process. Today, our loan partner Justin Tolen is here to explain how he helps you get to the closing table.
 
+Justin has been with Success Mortgage Partners for a little over a year, but he has worked in the mortgage industry for about 12. Before joining us, Justin was a program manager at another large mortgage company.
 
-  list item
-  list item
-  list item
-  list item
-  list item
+Justin guides buyers and agents from the point of application, to underwriting, to the closing table. He helps gather any necessary documentation along the way so that the process goes as smoothly as possible for all parties involved. Justin also helps translate any confusing mortgage jargon that could otherwise leave clients feeling lost.
 
+“THROUGHOUT THE PROCESS, OVER 20 PEOPLE WILL WORK ON YOUR LOAN.”
 
+“What I enjoy most about being a mortgage partner is being able to call people and tell them they are clear to close,” says Justin. “Who doesn’t like new things, and what’s better than a new house?”
 
-  list item
-  list item
-  list item
-  list item
-  list item
+One thing people tend not to think about when it comes to mortgages is the number of people behind the scenes who work on their loans. Throughout the entire process, there are over 20 people who may touch an individual loan. These people will check and recheck everything to help you get into your house as quickly as possible.
 
+“I’d like to add that you will not see me at the closing table. They don’t let me out very often,” Justin jokes.
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+If you have any other questions for Justin about the loan process, just give us a call or send us an email. We would be happy to help you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>
+
+Today one of our loan partners, Justin Tolen, will go over a little bit more about the loan process and share a little bit about himself.
+
+</itunes:subtitle>
         <itunes:author>Kristin Jamieson</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>
+
+Today one of our loan partners, Justin Tolen, will go over a little bit more about the loan process and share a little bit about himself.
+
+</itunes:summary>
+        <itunes:keywords>finance, financial planning, retirement, retirement planning, 401K</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Getting to Know Another Great Team Member: Amie Sharpe</title>
+        <link>localhost:4000/getting-to-know-another-great-team.html</link>
+        
+          <category>Mortgage Process</category>
+        
+        <author>Kristin Jamieson</author>
+        <pubDate>2017-06-19 11:04:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+Amie Sharpe joins us today to talk more about the loan process.
+
+Check out the next Agent Mastermind
+Apply Online
+
+In our previous video, we talked to Crystal about the beginning of mortgage application process. This time, we’re talking with Amie about the closing part of the process.
+
+As a loan partner, Amie has worked with us for almost two years and has worked in the mortgage industry for five years. Prior to joining us, she worked with a law firm negotiating short sales. Her role in the loan process is to collect documents from borrowers and make the process as painless as possible for them from beginning to end.
+
+When it comes to her job, what she enjoys most is that not every day is the same. “It’s always different,” she says. “It’s fast-paced and it keeps me focused.” She also enjoys the different people she gets to work with every day and helping them achieve their goal of owning a home.
+
+“I ENJOY HELPING PEOPLE ACHIEVE THEIR DREAM OF OWNING A HOME.”
+
+“We’re kind of like a family here. We all work together. We have a pretty good flow of how things go, from the pre-approval process to the closing process.”
+
+If there’s one thing she would like you to know about the mortgage process, it’s the volume of documents they have to collect. After the TRID guidelines took effect, they’ve had to collect more documents and ask more questions. Not because they want to pry into people’s personal lives, but because it’s for their own protection.
+
+If you have any questions or are thinking about purchasing a home and starting the pre-approval process, give us a call or send us an email. We’d be happy to help you.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Amie Sharpe joins us today to talk more about the loan process.
+
+</itunes:subtitle>
+        <itunes:author>Kristin Jamieson</itunes:author>
+        <itunes:summary>
+
+Amie Sharpe joins us today to talk more about the loan process.
+
+</itunes:summary>
+        <itunes:keywords>finance, financial planning, retirement, retirement planning, 401K</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Does the Mortgage Application Process Look Like?</title>
+        <link>localhost:4000/what-does-mortgage-application-process.html</link>
+        
+          <category>Mortgage Process</category>
+        
+        <author>Kristin Jamieson</author>
+        <pubDate>2017-05-25 15:05:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+A+Little+More+About+Mortgage+Applications.mp4</guid>
+        <description>
+
+Crystal Harris is here today to talk a little more about the loan application process.
+
+Check out the next Agent Mastermind
+Apply Online
+
+In our last video, we talked to Evelyn about the beginning of the application process. This time, we’re here with Crystal Harris to dig into the process a little further.
+
+Crystal has been with us for a little over a year, and this is her first job in the mortgage industry. After Evelyn gets applications sent out to clients, Crystal is responsible for helping you through the application process, answering any and every question you have.
+
+After the application is in, she is the one who will follow up with you and request a whole lot of paperwork. Be prepared for us to ask for a lot of information. It’s not going to be an easy thing to do to track down everything we need, but it will be worth it. The process is vastly different and more complex than it used to be, but it’s worth it in the end.
+
+“THE HARD WORK IS WORTH IT IN THE END.”
+
+After all your questions have been answered and you get your paperwork in, Crystal will make an appointment for you with Kristin where you can go over everything in further detail.
+
+Most people don’t know what the application process is going to be like and that’s why Crystal enjoys helping our clients by answering their questions, letting them know what to expect, and calming any fears they have.
+
+If you are interested in getting a loan application started or if you just have any questions, give us a call or send us an email. We look forward to hearing from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+A+Little+More+About+Mortgage+Applications.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+A+Little+More+About+Mortgage+Applications.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Crystal Harris is here today to talk a little more about the loan application process.
+
+</itunes:subtitle>
+        <itunes:author>Kristin Jamieson</itunes:author>
+        <itunes:summary>
+
+Crystal Harris is here today to talk a little more about the loan application process.
+
+</itunes:summary>
+        <itunes:keywords>finance, financial planning, retirement, retirement planning, 401K</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Meet the Success Mortgage Partners Team: Introducing Evelyn </title>
+        <link>localhost:4000/orlando-mortgages-introducing-evelyn.html</link>
+        
+          <category>Orlando Mortgages</category>
+        
+        <author>Kristin Jamieson</author>
+        <pubDate>2017-05-16 11:08:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Introducing+Evelyn.mp4</guid>
+        <description>
+
+Today we’d like to introduce Evelyn, the receptionist (and your first point of contact) at Success Mortgage Partners.
+
+Check out the next Agent Mastermind
+Apply Online
+
+Evelyn has worked at Success Mortgage Partners since September of 2016. As a receptionist, she is your first point of contact when you inquire about an application. She makes sure that you get the application and will answer your questions as well.
+
+“What I enjoy most is learning everything that I didn’t know before,” Evelyn says. “I have been able to soak in a lot of information about the mortgage process that I didn’t know before, so it’s been a really good experience so far.”
+
+“Kristin has a lot of knowledge and she will do everything she can to help you get a new home,” Evelyn adds.
+
+“THE SOONER YOU SEND IN YOUR INFORMATION, THE BETTER.”
+
+One thing Evelyn thinks that everyone should know about the mortgage process is that the whole process depends on you. “We will do everything we can on our end,” says Evelyn, “But it really depends on when we get your information. The quicker you send us your information, the faster we can start the whole process.”
+
+If you have any other questions for our team, just give us a call or send us an email. We would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Introducing+Evelyn.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Introducing+Evelyn.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Today we’d like to introduce Evelyn, the receptionist (and your first point of contact) at Success Mortgage Partners.
+
+</itunes:subtitle>
+        <itunes:author>Kristin Jamieson</itunes:author>
+        <itunes:summary>
+
+Today we’d like to introduce Evelyn, the receptionist (and your first point of contact) at Success Mortgage Partners.
+
+</itunes:summary>
+        <itunes:keywords>finance, financial planning, retirement, retirement planning, 401K</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Answering Your Questions About FHA Loan Limits</title>
+        <link>localhost:4000/orlando-mortgages-learning-about-fha.html</link>
+        
+          <category>Orlando Mortgages</category>
+        
+        <author>Kristin Jamieson</author>
+        <pubDate>2017-02-20 12:57:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Learning+About+FHA+Loan+Limits.mp4</guid>
+        <description>
+
+How can you have a loan amount that’s higher than the FHA limit in Lake County? Can a seller hold a small note for an FHA, like a second mortgage? Today we’ll answer both of these questions.
+
+Check out the next Agent Mastermind
+Apply Online
+
+In the final installment of our series where we answer agents’ questions, today we’re fielding a two-parter from Allison Wheatley of First Realty.
+
+First, she asks, “Someone said that the FHA loan limit in Lake County is $274,850; however, one of my buyers has a loan amount of $285,000. How does that work?”
+
+Secondly, she asks, “Can the seller hold a small note for an FHA, like a second mortgage?”
+
+To answer her first question, the FHA does set loan limits per county, and they’ll change based on what county you live in. The FHA loan limit in Lake County is $274,850, but that’s not the purchase price limit. People can purchase homes for however much they want, but the FHA has stated that they will not lend any more than the $274,850 limit in that county.
+
+“FHA LOAN LIMITS CHANGE BASED ON WHAT COUNTY YOU LIVE IN.”
+
+For example, if somebody wants to buy a house that costs $300,000, that’s perfectly OK; however, they’re going to have to put down the extra $25,150 to bring the base loan amount down to the FHA loan limit in our county.
+
+To answer her second question, the FHA doesn’t allow interested party contributions such as seller-held second mortgages into the transaction. The only thing the sellers can do, per FHA guidelines, is help pay up to 6% in closing costs into the transaction.
+
+If you or your buyers have any other questions in regard to FHA loans or their requirements, please don’t hesitate to give us a call. We’d be happy to help!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Learning+About+FHA+Loan+Limits.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Learning+About+FHA+Loan+Limits.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+How can you have a loan amount that’s higher than the FHA limit in Lake County? Can a seller hold a small note for an FHA, like a second mortgage? Today we’ll answer both of these questions.
+
+</itunes:subtitle>
+        <itunes:author>Kristin Jamieson</itunes:author>
+        <itunes:summary>
+
+How can you have a loan amount that’s higher than the FHA limit in Lake County? Can a seller hold a small note for an FHA, like a second mortgage? Today we’ll answer both of these questions.
+
+</itunes:summary>
+        <itunes:keywords>finance, financial planning, retirement, retirement planning, 401K</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Credit Scores Are Needed for Loans?</title>
+        <link>localhost:4000/orlando-mortgages-credit-scores-needed.html</link>
+        
+          <category>Orlando Mortgages</category>
+        
+        <author>Kristin Jamieson</author>
+        <pubDate>2017-02-06 10:34:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Credit+Scores+Needed+for+All+Loan+Types.mp4</guid>
+        <description>
+
+Today we’re answering a question about credit score requirements for different types of home loans and how you can get your score up if you don’t qualify.
+
+Check out the next Agent Mastermind
+Apply Online
+
+Today we’re answering more questions from real estate agents about home loans. The question we’ll address today is, “What credit score is necessary for each type of loan?”
+
+At Success Mortgage Partners, our credit score requirements might be a little different than other places, but we do have very liberal credit score requirements for each particular loan type. These are the scores we will lend for by type:
+
+• FHA: 600
+  • VA: 600
+  • USDA: 620 (if we are generating a credit score)
+  • Conventional: 620
+
+“THERE ARE THINGS WE CAN DO FOR BUYERS ON THE BORDERLINE WITH CREDIT SCORE.”
+
+There are things we can do for buyers on the borderline with their credit score, such as helping people have a higher balance on one of their credit cards. We can coach them on paying that balance down and working on credit rescore to get them to the point of qualifying.
+
+If someone is way out of the realm of qualifying, we don’t just turn our backs. We make referrals to credit repair companies that we’ve worked with who we know do a good job and care about their clients. Just like lenders, not all credit repair companies are created equal, so we’ve done a lot of research in this area.
+
+If someone you know has a score that’s below our requirements, don’t hesitate to reach out to us to start a conversation. If you have any other questions about lending guidelines or how we can help, give me a call or send us an email. We’d love to help!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Credit+Scores+Needed+for+All+Loan+Types.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Credit+Scores+Needed+for+All+Loan+Types.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Today we’re answering a question about credit score requirements for different types of home loans and how you can get your score up if you don’t qualify.
+
+</itunes:subtitle>
+        <itunes:author>Kristin Jamieson</itunes:author>
+        <itunes:summary>
+
+Today we’re answering a question about credit score requirements for different types of home loans and how you can get your score up if you don’t qualify.
+
+</itunes:summary>
+        <itunes:keywords>finance, financial planning, retirement, retirement planning, 401K</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Key Differences Between Home Renovation Loans</title>
+        <link>localhost:4000/orlando-mortgages-key-differences-in.html</link>
+        
+          <category>Orlando Mortgages</category>
+        
+        <author>Kristin Jamieson</author>
+        <pubDate>2017-01-18 10:14:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Key+Differences+in+Renovation+Loans.mp4</guid>
+        <description>
+
+FHA 203K loans and conventional renovation loans actually have a lot in common. You should, however, know the two main differences if you’re considering a loan with rehab costs built in.
+
+Check out the next Agent Mastermind
+Apply Online
+
+We had another question from an agent that we wanted to address today. The question was, “When dealing with a repair loan, I have made it through an FHA 203K; however, is there a conventional product as well, and what are some of the differences?”
+
+This is a great question. Yes, conventional does have a repair loan like FHA’s 203K, and it’s called the Fannie Mae HomeStyle Renovation loan. One of the biggest differences between a 203K loan and a conventional renovation loan is the same difference between an FHA loan and a conventional loan. With FHA, the private mortgage insurance lasts for the life of the loan, no matter what your down payment is, as opposed to a conventional loan, where PMI will drop off when your loan balance reaches 78% of the purchase price. This is just one of the benefits of a conventional loan over an FHA loan.
+
+Additionally, FHA 203K loans only let you make repairs to the property itself; you couldn’t add a pool or a fence since the repairs must be within the structure of the home. Conventional home renovation loans allow you to do pretty much whatever you want with the property, so you could install a pool or fence or update the landscaping.
+
+“OTHER THAN TWO BIG DIFFERENCES, BOTH LOANS BASICALLY PARALLEL EACH OTHER.”
+
+Other than these main differences, both loan types basically parallel each other in terms of their guidelines. Both loan programs will lend on the total price of the project, meaning the price of the home itself and the cost of the repairs.
+
+With these two loan packages, some people get confused about the involvement of an HUD consultant. With the FHA 203K loan, an HUD consultant will only be required when the total cost of the rehab exceeds $35,000. This actually parallels the Fannie Mae HomeStyle Renovation loan in that if the total cost of the rehab project is more than $35,000, we are going to require an HUD consultant to oversee the project along with the general contractor making the repairs.
+
+Now, this is just a general breakdown of Fannie Mae HomeStyle Renovation loans in a nutshell. Feel free to share this information with your clients or anyone you know who is interested in a home renovation loan! A lot of different factors come into play with this type of loan, so if you have any questions at all about them, give me a call or send me an email. I would be more than happy to help you out.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Key+Differences+in+Renovation+Loans.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Key+Differences+in+Renovation+Loans.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+FHA 203K loans and conventional renovation loans actually have a lot in common. You should, however, know the two main differences if you’re considering a loan with rehab costs built in.
+
+</itunes:subtitle>
+        <itunes:author>Kristin Jamieson</itunes:author>
+        <itunes:summary>
+
+FHA 203K loans and conventional renovation loans actually have a lot in common. You should, however, know the two main differences if you’re considering a loan with rehab costs built in.
+
+</itunes:summary>
+        <itunes:keywords>finance, financial planning, retirement, retirement planning, 401K</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Do You Qualify for a USDA Loan?</title>
+        <link>localhost:4000/orlando-mortgages-3-requirements-for.html</link>
+        
+          <category>Orlando Mortgages</category>
+        
+        <author>Kristin Jamieson</author>
+        <pubDate>2017-01-04 11:32:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+The+3+Requirements+for+a+USDA+Loan.mp4</guid>
+        <description>
+
+Qualifying for a USDA loan is different than qualifying for other loan packages since it’s 100% financing. These are the basic requirements you’ll need to meet to qualify for this loan.
+
+Check out the next Agent Mastermind
+Apply Online
+
+I recently had a Realtor ask for some clarification on USDA guidelines and how buyers can obtain approval for a USDA mortgage.
+
+There are three basic requirements for a USDA mortgage:
+
+1. The buyer has to buy in a USDA eligible area. Fortunately, Lake County and all surrounding counties are eligible.
+
+2. They have to meet household income requirements. It’s not just the buyer’s income, it’s the household’s income. If the buyer has children older than 18 living in the home, their income is considered, too, as well as a spouse that’s not included on the loan. An easy example is that a family of one to four can’t make more than $75,850 in our county, and a family of more than four can’t make more than $98,000. Things can be deducted from this income, though, like child care or disability expenses for older adults.
+
+3. At Success Mortgage Partners, we require a credit score of at least 620. Since it’s on the lower end, it’s not crazy for people to qualify for, but we do need them to meet that benchmark. USDA allows financing for those with no credit score, but that doesn’t mean a bad credit score. Some people have simply never used credit, and that’s OK. You can do this by confirming things like rent and insurance payments. USDA looks over the last 12 months. If you have a 620 credit score but still have some derogatory credit like collections or late payments popping up, it can disqualify you.
+
+USDA is also very strict on their debt-to-income requirements. Since it is a 100% financing loan, they want to make sure the buyer can afford the payments, so they are more strict than some other loan programs. They will only allow us to use 29% of their income for their housing expenses and 41% total income for all of their other expenses. This helps prevent buyers from becoming house rich and dirt poor.
+
+The other potential deal killer for a USDA loan is if you own another house. With a USDA loan, you can’t have two mortgages. However, there are some exceptions to the rule, like relocation from out of state that leaves you unable to sell your other house prior to your move, in some cases.
+
+Other than that, a USDA loan is just a conventional loan with FHA appraisal requirements; there can’t be health or safety concerns with the home as far as the appraisal is concerned.
+
+If you have any more questions about USDA loans or the guidelines surrounding them, please don’t hesitate to call or email me. I’d be glad to answer any questions you have!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+The+3+Requirements+for+a+USDA+Loan.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+The+3+Requirements+for+a+USDA+Loan.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Qualifying for a USDA loan is different than qualifying for other loan packages since it’s 100% financing. These are the basic requirements you’ll need to meet to qualify for this loan.
+
+</itunes:subtitle>
+        <itunes:author>Kristin Jamieson</itunes:author>
+        <itunes:summary>
+
+Qualifying for a USDA loan is different than qualifying for other loan packages since it’s 100% financing. These are the basic requirements you’ll need to meet to qualify for this loan.
+
+</itunes:summary>
+        <itunes:keywords>finance, financial planning, retirement, retirement planning, 401K</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Mortgage Programs Are Out There for First-Time Buyers?</title>
+        <link>localhost:4000/orlando-mortgages-programs-for-first.html</link>
+        
+          <category>Mortgage Process</category>
+        
+        <author>Kristin Jamieson</author>
+        <pubDate>2016-12-19 13:21:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Programs+for+First-Time+Home+Buyers.mp4</guid>
+        <description>
+
+There are plenty of special loan programs out there for first-time buyers. We are going to talk about a few of them today.
+
+Check out the next Agent Mastermind
+Apply Online
+
+We’ve been getting some great questions from our viewers about mortgages lately, and we wanted to answer one of them today. This one comes from Ron who asks, “Which programs are out there for first-time home buyers?”
+
+The first thing we should mention is that all of the loan programs we’ve previously talked about, including VA, USDA, FHA, and conventional loans can all be used by first-time buyers. However, there are some additional programs out there that you can combine with your loan if you’re a first-time buyer.
+
+What we like to do with our first-time buyers is pair our USDA 100% financing loan with the MCC tax credit program, which is for first-time buyers as well as buyers who haven’t owned a home in three years or longer.
+
+The MCC tax credit program provides those buyers with up to 50% of their mortgage interest paid on their tax return each year they live in and own the house as a primary residence. The value of this credit can be up to $2,000, which could equate to a few mortgage payments that will be covered just by agreeing to own a home.
+
+“THIS PROGRAM HELPS SWING THE PENDULUM IN FAVOR OF FIRST-TIME BUYERS.”
+
+One reason this tool is beneficial to our buyers is because, from an underwriting standpoint, it allows us to use the credit as income to offset your debt-to-income ratio. Salaries aren’t increasing at the same rate as home prices are, so a lot of our buyers are being priced out of the market. This program helps swing the pendulum in favor of first-time buyers.
+
+I hope this answers your question, Ron. If you have any other questions, don’t hesitate to reach out to us via phone or email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Programs+for+First-Time+Home+Buyers.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Programs+for+First-Time+Home+Buyers.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+There are plenty of special loan programs out there for first-time buyers. We are going to talk about a few of them today.
+
+</itunes:subtitle>
+        <itunes:author>Kristin Jamieson</itunes:author>
+        <itunes:summary>
+
+There are plenty of special loan programs out there for first-time buyers. We are going to talk about a few of them today.
+
+</itunes:summary>
+        <itunes:keywords>finance, financial planning, retirement, retirement planning, 401K</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Happens to Your Loan After You Close?</title>
+        <link>localhost:4000/orlando-mortgages-loans-after-closing.html</link>
+        
+          <category>Orlando Mortgages</category>
+        
+        <author>Kristin Jamieson</author>
+        <pubDate>2016-11-28 15:09:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Loans+After+Closing.mp4</guid>
+        <description>
+
+What happens to your loan after you close? It gets sent to our post-closing department where they package everything up and ship it off to secondary market investors to be sold on the secondary market.
+
+Check out the next Agent Mastermind
+Apply Online
+
+After your loan closes, it gets sent to our post-closing department where they package everything up and ship it off to secondary market investors to be sold on the secondary market. This is done for a few different reasons.
+
+The first is that this is how we mortgage bankers make money in our industry. We sell your loan with hundreds of other loans that month. That’s how we get paid, but the benefit for you as the buyer, the borrower, is that you get access to the bigger banks and their interest rates. The second reason is that it allows us to keep our fees very low compared to our competition because we’re not having to charge origination fees or discount points to make money on your loan.
+
+“AFTER YOUR LOAN CLOSES, IT GETS SOLD ON THE SECONDARY MARKET.”
+
+Does this change my payment or loan in any way? When your loan gets sold on the secondary market, the only thing that changes is where you make the payment to. Your interest rate, the loan balance, and the term of your loan has to stay exactly the same.
+
+Do you sell my loan to a bank of my choosing? Unfortunately, no. When we sell the loan on a secondary market, we have a group of investors that we at Success Mortgage Partners sell to. It may end up with your financial institution, but that institution may be one we’re either not approved to sell to or not actually involved in mortgage loan servicing, to begin with. From a lending standpoint, it depends on who we can package your loan with and who we can make the most money with.
+
+We understand that the post-closing process can sometimes be a little confusing, so if you ever have any questions about it, don’t hesitate to reach out. It is our goal to be your mortgage lender for life, whether it be for your next home purchase or a refinancing of the home you own now. Just call or send us an email and we can talk about it.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Loans+After+Closing.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Loans+After+Closing.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+What happens to your loan after you close? It gets sent to our post-closing department where they package everything up and ship it off to secondary market investors to be sold on the secondary market.
+
+</itunes:subtitle>
+        <itunes:author>Kristin Jamieson</itunes:author>
+        <itunes:summary>
+
+What happens to your loan after you close? It gets sent to our post-closing department where they package everything up and ship it off to secondary market investors to be sold on the secondary market.
+
+</itunes:summary>
+        <itunes:keywords>finance, financial planning, retirement, retirement planning, 401K</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Exactly Does Closing Day Work?</title>
+        <link>localhost:4000/orlando-mortgages-finally-last-step.html</link>
+        
+          <category>Orlando Mortgages</category>
+        
+        <author>Kristin Jamieson</author>
+        <pubDate>2016-11-14 13:13:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Finally%252C+the+Last+Step.mp4</guid>
+        <description>
+
+By the time you’ve made it to the closing table in your transaction, the hard part is over.
+
+Check out the next Agent Mastermind
+Apply Online
+
+Our walkthrough of the mortgage process continues with the closing day. First off, congratulations. You made it. This is what you’ve been working toward for weeks, maybe months. Let’s walk through what’s going to happen on closing day step-by-step.
+
+On your way to the closing table, you will wire your funds to the title company. Once you get to the title company, that’s where you will re-sign everything that you have previously signed. You may have done e-signatures all the way through, but we need your physical signature on every single document. Bring an ice pack for your hand if need be.
+
+You should also bring two forms of identification with you. One should be your driver’s license, and the other can be something that verifies your name or identity, like a social security card. The closing agent is going to review all the paperwork with you as you sign it. Once you are done signing the documents, they are going to take a few select documents and send them back to our closing department to get funding authorization. We as the lender will then have to review those documents before we release the money to the seller.
+
+“YOU HAVE ACHIEVED THE DREAM OF HOMEOWNERSHIP.”
+
+If you’ve been issued funding authorization and the buyer and seller documents are all signed, you can leave the closing table and go directly to your new house to celebrate. There’s no delay with you getting in, although it is a good idea to have your utilities switched over for when you take possession of the home.
+
+Congratulations, this is a huge accomplishment. You have achieved the dream of homeownership. If you have any questions for us or know anyone looking to buy a home, give us a call or send us an email. We look forward to hearing from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Finally%252C+the+Last+Step.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Finally%252C+the+Last+Step.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+By the time you’ve made it to the closing table in your transaction, the hard part is over.
+
+</itunes:subtitle>
+        <itunes:author>Kristin Jamieson</itunes:author>
+        <itunes:summary>
+
+By the time you’ve made it to the closing table in your transaction, the hard part is over.
+
+</itunes:summary>
+        <itunes:keywords>finance, financial planning, retirement, retirement planning, 401K</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Meet Jamie Lowe Our Business Development Representative</title>
+        <link>localhost:4000/orlando-mortgages-introducing-our.html</link>
+        
+          <category>Orlando Mortgages</category>
+        
+        <author>Kristin Jamieson</author>
+        <pubDate>2016-10-24 13:36:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Introducing+Our+Newest+Team+Member.mp4</guid>
+        <description>
+
+We’d like you to meet Jamie Lowe, the newest addition to the team. Jamie will be our business development representative.
+
+Check out the next Agent Mastermind
+Apply Online
+
+Today I wanted to introduce Jamie Lowe, our newest team member. As the business development representative for our team, Jamie will work with Realtors, builders, and others in the community to give support and build awareness for everything our team offers.
+
+Jamie will be in charge of marketing efforts both online and face to face. She will make sure your incoming referrals are followed up on in a timely and professional manner, and we’re really excited to have her on our team in this capacity.
+
+Jamie will be coming by your office in the near future to introduce herself and tell you more about what she can do for you. We are looking forward to having Jamie on our team to help us provide you with better service.
+
+In the meantime, if you have any questions about mortgages or the loan process, you can always call me at 352.242.1535 or you can email me at Kristin@KristinJamiesonFL.com.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Introducing+Our+Newest+Team+Member.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Introducing+Our+Newest+Team+Member.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+We’d like you to meet Jamie Lowe, the newest addition to the team. Jamie will be our business development representative.
+
+</itunes:subtitle>
+        <itunes:author>Kristin Jamieson</itunes:author>
+        <itunes:summary>
+
+We’d like you to meet Jamie Lowe, the newest addition to the team. Jamie will be our business development representative.
+
+</itunes:summary>
         <itunes:keywords>finance, financial planning, retirement, retirement planning, 401K</itunes:keywords>
       </item>
       
     <copyright>Kristin Jamieson</copyright>
     <media:credit role="author">Kristin Jamieson</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">Our mission at Success Mortgage Partners INC. is to be your best resource for financial advice. Our team of professionals can answer any questions you might have about finance. Subscribe to this blog to get the latest news on finance and receive expert tips for preparing yourself for your financial future.</media:description>
+    <media:description type="plain">Our mission at Success Mortgage Partners is to be your best resource for financial advice. Our team of professionals can answer any questions you might have about finance. Subscribe to this blog to get the latest news on finance and receive expert tips for preparing yourself for your financial future.</media:description>
   </channel>
 </rss>

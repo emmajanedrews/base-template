@@ -21,8 +21,8 @@ blogger_orig_url: http://successmortgagepartners.blogspot.com/2017/07/orlando-mo
 {% include youtube.html %}
 Today one of our loan partners, Justin Tolen, will go over a little bit more about the loan process and share a little bit about himself.
 
-Check out the next Agent Mastermind
-Apply Online
+<a href="http://agentmastermind.com/kristinjamieson/" target="_blank">Check out the next Agent Mastermind</a>
+<a href="https://successmortgagepartners-com.mysecureloan.com/kristin/applications/page1.php?lng=en" target="_blank">Apply Online</a>
 
 Last time, we talked to Crystal about the application process. Today, our loan partner Justin Tolen is here to explain how he helps you get to the closing table.
 

@@ -22,8 +22,8 @@ blogger_orig_url: http://successmortgagepartners.blogspot.com/2017/08/orlando-mo
 {% include youtube.html %}
 Nadia Lokhnauth has been with us for about two years now. Here’s why she is such an important member of our team.
 
-Check out the next Agent Mastermind
-Apply Online
+<a href="http://agentmastermind.com/kristinjamieson/" target="_blank">Check out the next Agent Mastermind</a>
+<a href="https://successmortgagepartners-com.mysecureloan.com/kristin/applications/page1.php?lng=en" target="_blank">Apply Online</a>
 
 Today we are excited to introduce you to another important member of our team at Success Mortgage Partners, Inc.
 

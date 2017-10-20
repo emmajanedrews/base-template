@@ -21,8 +21,8 @@ blogger_orig_url: http://successmortgagepartners.blogspot.com/2017/05/what-does-
 {% include youtube.html %}
 Crystal Harris is here today to talk a little more about the loan application process.
 
-Check out the next Agent Mastermind
-Apply Online
+<a href="http://agentmastermind.com/kristinjamieson/" target="_blank">Check out the next Agent Mastermind</a>
+<a href="https://successmortgagepartners-com.mysecureloan.com/kristin/applications/page1.php?lng=en" target="_blank">Apply Online</a>
 
 In our last video, we talked to Evelyn about the beginning of the application process. This time, we’re here with Crystal Harris to dig into the process a little further.
 

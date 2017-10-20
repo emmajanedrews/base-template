@@ -21,8 +21,8 @@ blogger_orig_url: http://successmortgagepartners.blogspot.com/2017/01/orlando-mo
 {% include youtube.html %}
 FHA 203K loans and conventional renovation loans actually have a lot in common. You should, however, know the two main differences if you're considering a loan with rehab costs built in.
 
-Check out the next Agent Mastermind
-Apply Online
+<a href="http://agentmastermind.com/kristinjamieson/" target="_blank">Check out the next Agent Mastermind</a>
+<a href="https://successmortgagepartners-com.mysecureloan.com/kristin/applications/page1.php?lng=en" target="_blank">Apply Online</a>
 
 We had another question from an agent that we wanted to address today. The question was, "When dealing with a repair loan, I have made it through an FHA 203K; however, is there a conventional product as well, and what are some of the differences?"
 

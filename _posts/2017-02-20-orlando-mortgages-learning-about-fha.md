@@ -21,8 +21,8 @@ blogger_orig_url: http://successmortgagepartners.blogspot.com/2017/02/orlando-mo
 {% include youtube.html %}
 How can you have a loan amount that’s higher than the FHA limit in Lake County? Can a seller hold a small note for an FHA, like a second mortgage? Today we’ll answer both of these questions.
 
-Check out the next Agent Mastermind
-Apply Online
+<a href="http://agentmastermind.com/kristinjamieson/" target="_blank">Check out the next Agent Mastermind</a>
+<a href="https://successmortgagepartners-com.mysecureloan.com/kristin/applications/page1.php?lng=en" target="_blank">Apply Online</a>
 
 In the final installment of our series where we answer agents' questions, today we’re fielding a two-parter from Allison Wheatley of First Realty.
 
