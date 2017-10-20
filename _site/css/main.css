@@ -1261,16 +1261,11 @@ html[xmlns] .flexslider .slides {
   .ctalink a {
     text-align: center; }
   .ctalink:hover {
-    background: transparent;
-    color: #e72329;
-    box-shadow: 4px 4px 0 #e72329;
-    border: 1px solid #e72329;
-    -webkit-transform: scale(1.05);
-    transform: scale(1.05);
-    -webkit-transform: translateY(-0.2rem);
-    transform: translateY(-0.2rem); }
+    background: #fff;
+    color: #941014;
+    border: 1px solid #941014; }
   .ctalink:active {
-    box-shadow: 0 0 0 #e72329;
+    box-shadow: 0 0 0 #941014;
     -webkit-transform: translateY(0rem);
     transform: translateY(0rem); }
 
@@ -1792,8 +1787,8 @@ a {
   border: 1px solid #941014;
   border-radius: 0px; }
   .button:hover, .button-ghost:hover, button:hover, input[type="button"]:hover, input[type="submit"]:hover {
-    background: #e72329;
-    border: 1px solid #e72329;
+    background: #941014;
+    border: 1px solid #941014;
     color: white; }
   .button:visited, .button-ghost:visited, button:visited, input[type="button"]:visited, input[type="submit"]:visited {
     color: white; }
@@ -1810,8 +1805,8 @@ a {
   border-color: #941014;
   color: #941014; }
   .button-ghost.brand:hover {
-    border-color: #e72329;
-    color: #e72329; }
+    border-color: #941014;
+    color: #941014; }
 
 table tr, table td {
   border-bottom: 1px solid gray;
@@ -1962,16 +1957,11 @@ table tr, table td {
   -webkit-transition: all 0.15s ease-out 0s;
   transition: all 0.15s ease-out 0s; }
   .readlink > a:hover {
-    background: transparent;
-    color: #e72329;
-    box-shadow: 4px 4px 0 #e72329;
-    border: 1px solid #e72329;
-    -webkit-transform: scale(1.05);
-    transform: scale(1.05);
-    -webkit-transform: translateY(-0.2rem);
-    transform: translateY(-0.2rem); }
+    background: #fff;
+    color: #941014;
+    border: 1px solid #941014; }
   .readlink > a:active {
-    box-shadow: 0 0 0 #e72329;
+    box-shadow: 0 0 0 #941014;
     -webkit-transform: translateY(0rem);
     transform: translateY(0rem); }
 
@@ -2346,20 +2336,15 @@ table tr, table td {
     font-size: 2rem;
     border-radius: 0px;
     font-weight: 300;
-    border: 2px solid #941014;
+    border: 1px solid #941014;
     -webkit-transition: 0.3s;
     transition: 0.3s; }
     .search-box .search-submit:hover {
-      background: transparent;
-      color: #e72329;
-      box-shadow: 4px 4px 0 #e72329;
-      border: 2px solid #e72329;
-      -webkit-transform: scale(1.05);
-      transform: scale(1.05);
-      -webkit-transform: translateY(-0.2rem);
-      transform: translateY(-0.2rem); }
+      background: #fff;
+      color: #941014;
+      border: 1px solid #941014; }
     .search-box .search-submit:active {
-      box-shadow: 0 0 0 #e72329;
+      box-shadow: 0 0 0 #941014;
       -webkit-transform: translateY(0rem);
       transform: translateY(0rem); }
 
@@ -2394,17 +2379,12 @@ table tr, table td {
     fill: white;
     width: 100px; }
   .review.button:hover, .review.button-ghost:hover {
-    background: transparent;
-    color: #e72329;
-    box-shadow: 4px 4px 0 #e72329;
-    -webkit-transform: scale(1.05);
-    transform: scale(1.05);
-    -webkit-transform: translateY(-0.2rem);
-    transform: translateY(-0.2rem); }
+    background: #fff;
+    color: #941014; }
     .review.button:hover svg, .review.button-ghost:hover svg {
-      fill: #e72329; }
+      fill: #941014; }
   .review.button:active, .review.button-ghost:active {
-    box-shadow: 0 0 0 #e72329;
+    box-shadow: 0 0 0 #941014;
     -webkit-transform: translateY(0rem);
     transform: translateY(0rem); }
 
@@ -2751,18 +2731,9 @@ form select {
     border: 3px solid #941014;
     border-radius: 5px; }
     .contact-form input[type="submit"]:hover {
-      background: white;
-      color: #e72329;
-      box-shadow: 4px 4px 0 #e72329;
-      border: 2px solid #e72329;
-      -webkit-transform: scale(1.05);
-      transform: scale(1.05);
-      -webkit-transform: translateY(-0.2rem);
-      transform: translateY(-0.2rem); }
-    .contact-form input[type="submit"]:active {
-      box-shadow: 0 0 0 #941014;
-      -webkit-transform: translateY(0rem);
-      transform: translateY(0rem); }
+      background: #fff;
+      color: #941014;
+      border: 1px solid #941014; }
 
 .newsletter {
   background: #941014;
@@ -2825,18 +2796,10 @@ form select {
     -webkit-transition: 0.3s;
     transition: 0.3s; }
     .newsletter_optin input[type="submit"]:hover {
-      background: transparent;
-      color: white;
-      box-shadow: 4px 4px 0 #e72329;
-      border: 1px solid #e72329;
-      -webkit-transform: scale(1.05);
-      transform: scale(1.05);
-      -webkit-transform: translateY(-0.2rem);
-      transform: translateY(-0.2rem); }
+      background: #fff;
+      color: #941014; }
     .newsletter_optin input[type="submit"]:active {
-      box-shadow: 0 0 0 #941014;
-      -webkit-transform: translateY(0rem);
-      transform: translateY(0rem); }
+      box-shadow: 0 0 0 #941014; }
 
 @media (max-width: 1113px) {
   .newsletter_optin input[type="submit"], .newsletter_optin input[type="email"] {
