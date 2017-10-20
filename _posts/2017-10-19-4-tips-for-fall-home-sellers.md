@@ -20,7 +20,7 @@ youtube_code: hHfUX0dPFGQ
 
 The nice, crisp fall weather has a lot of people out looking for homes to buy. If you’re thinking about taking advantage of the fall market by selling, **here are a few tips that will help you make sure your home looks its best:**
 
-**1. Have great curb appeal.**When a buyer pulls up to your house, you want them to be impressed. Make sure any mulch you have is fresh, the grass is cut, and any chipped or peeling paint is repainted.
+**1. Have great curb appeal.&nbsp;**When a buyer pulls up to your house, you want them to be impressed. Make sure any mulch you have is fresh, the grass is cut, and any chipped or peeling paint is repainted.
 
 **<br>2. Make sure the home is well-lit.** As the days get shorter, make sure the blinds are open, lamps are on, and you make a good impression with a bright, inviting home.
 
