@@ -27,7 +27,7 @@ Even though it hasn’t felt like it lately, the end of the year is drawing clos
 
 **1. Care for your trees and shrubs.** Also, remember to rake your leaves and clear out the underbrush. Now is a great time to do this, since there aren’t as many spiders or snakes out and about at this time.
 
-**2. Clean gutters and downspouts.**Making sure these are both clear will help you prepare for any oncoming rain or snow in the months ahead.
+**2. Clean gutters and downspouts.&nbsp;**Making sure these are both clear will help you prepare for any oncoming rain or snow in the months ahead.
 
 **3. Make exterior repairs.** If there are any projects you meant to take care of earlier in the year but didn’t, don’t put them off any longer. Take care of anything leftover on your to-do list for the exterior of your home. Exterior repairs like fixing your mailbox or removing wood rot shouldn’t wait any longer.
 
