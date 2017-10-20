@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Meet our new team member: Heather Sowa. Heather is excited to join us and
   start selling homes in our Denver market.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Daniel+Dixon/Oct/Denver+Real+Estate-+Meet+Agent+Heather+Sowa.mp4
 pullquote: >-
   Heather would be more than happy to help make your experience as great as
   possible.
