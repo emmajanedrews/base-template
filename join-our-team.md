@@ -47,7 +47,7 @@ On the other end of the spectrum, you can join a team whose team leader will act
 
 As an owner and as a Realtor, I felt like there had to be a better, balanced alternative. My goal was to take all of the benefits of a full-service brokerage and match it with one of the most attractive compensation plans around.
 
-**I’m thrilled to share what we have developed. Here are the benefits of our full-service brokerage, at no extra cost to you:**
+**I’m thrilled to share what we have developed. Here are the benefits of our full-service brokerage, at no extra cost to you: [Watch Video on Benefits & Compensation Plan](http://explore.lakerealty.com)**
 
 ***Technology:***
 
@@ -129,6 +129,8 @@ We have a limited number of positions available in our leads program for well-qu
 Sincerely,
 
 Frank & Chip Free
+
+[Watch Video on Benefits & Compensation Plan](http://explore.lakerealty.com)
 
 ## Let’s Make You More Money
 {: .recruiting}
