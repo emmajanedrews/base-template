@@ -16,13 +16,13 @@ client:
   market: Philadelphia
   brand: The Salas Team
   brokerage: RE/MAX Platinum
-  address: 2000 Market St, Suite 1470, Philadelphia, PA 19103
+  address: 2000 Market St, Suite 1470<br>Philadelphia, PA 19103
   phone: 267-288-8079
   phone_type: Office
   phone2: 610-649-4181
   phone2_type: Broker
   email: info@SalasTeam.net
-  url: http://www.SalasTeamRealEstate.com
+  url: http://SalasTeamRealEstate.com
 
 CTAs:
   first_CTA_text: Home Valuation

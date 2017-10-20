@@ -1448,15 +1448,15 @@ html[xmlns] .flexslider .slides {
     text-align: center; }
 
 .navbar-andross {
-  border-bottom: 2px solid #000;
+  border-bottom: 2px solid #941014;
   border-radius: 0;
   min-height: 52px;
-  background: #ffffff;
+  background: #000;
   width: 100%;
   overflow: hidden; }
 
 .navbar-andross .navbar-brand {
-  color: #941014;
+  color: #fff;
   padding-top: 20px;
   padding-bottom: 33px;
   font-size: 20px;
@@ -1470,8 +1470,8 @@ html[xmlns] .flexslider .slides {
   transition: all 0.15s ease-out 0s; }
 
 .navbar-left > li > a {
-  background: #ffffff;
-  color: black;
+  background: #000;
+  color: #fff;
   text-transform: capitalize;
   font-size: 2rem;
   font-weight: 300; }
@@ -1488,7 +1488,7 @@ html[xmlns] .flexslider .slides {
     color: #941014; }
 
 .fa-bars {
-  color: #941014; }
+  color: #fff; }
 
 .phone, .fa-phone {
   color: #fff; }
@@ -2493,6 +2493,9 @@ table tr, table td {
 .footer-pad {
   padding-top: 20px; }
 
+.remax {
+  width: 200px; }
+
 .item-container {
   margin: 3rem 5rem;
   box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
@@ -2840,8 +2843,8 @@ form select {
     margin: 10px auto;
     width: 90%; } }
 .cta {
-  background: #ffffff;
-  color: #123456;
+  background: #000;
+  color: #fff;
   text-transform: capitalize;
   font-size: 2rem;
   font-weight: 300; }
