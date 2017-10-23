@@ -34,6 +34,6 @@ Here are the top five reasons you should consider selling your home this fall:
 
 **5. Isn’t it time for you to be done with it?** If you’ve been thinking about selling your property for a while and you’ve been holding off or watching the market, this is a really good time for you to be done with it so your goal of selling your property is accomplished before next year.
 
-For more on why now is a good time to put your home on the market, click on this link.
+**For more on why now is a good time to put your home on the market, [click on this link.](http://www.simplifyingthemarket.com/en/2017/09/18/5-reasons-to-sell-this-fall-2/?a=323701-ea9cfdf9d119bc9a1cd75b3509ec10e4)**
 
 If you have any questions or you think you want to sell your home, don’t hesitate to give me a call or shoot me an email. I’d be glad to help you.
