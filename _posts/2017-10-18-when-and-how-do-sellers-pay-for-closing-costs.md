@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When and How Do Sellers Pay for Closing Costs?
-date: 2017-10-18 12:13:52
+date: 2017-10-18 12:13:00
 tags:
   - Real Estate
 excerpt: >-
@@ -9,7 +9,8 @@ excerpt: >-
   sellers assist them with the closing costs. If this happens, sellers and their
   agents will typically counter back and ask that the sales price be a little
   higher.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate-+Answering+a+common+closing+questions+(1).mp4
 pullquote: 'At the end of the day, sellers need to focus on their bottom line.'
 enclosure_type: video/mp4
 enclosure_time:
