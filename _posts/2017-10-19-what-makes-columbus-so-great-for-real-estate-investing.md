@@ -24,7 +24,7 @@ youtube_code: 7wu595cRk3I
 
 If you’re a real estate investor, there are a few reasons you should think about investing in the Columbus market.
 
-A question my team and I commonly get from investors here in our area, as well as across the country, is: **“Why should I consider Columbus?”** From Dallas to Seattle, people are looking to Ohio for investments.
+A question my team and I commonly get from investors here in our area, as well as across the country, is,&nbsp;**“Why should I consider Columbus?”** From Dallas to Seattle, people are looking to Ohio for investments.
 
 What makes Ohio so great is the steadiness of our values. **Things don’t fluctuate the way they do in coastal areas like California or Florida.**
 
@@ -36,7 +36,7 @@ As of 2016, Columbus was growing at 9.8% year over year. As it continues to grow
 
 {% include pullquote.html %}
 
-I myself am actually part of this demographic. I’m not native to the city, but I did decide to stay in   Columbus after graduating.
+I myself am actually part of this demographic. I’m not native to the city, but I did decide to stay in Columbus after graduating.
 
 As the state’s capital, Columbus has a lot of opportunities and a lot of job opportunities fused into it. Companies like Nationwide Insurance, Cardinal Health, and more are all contributing to Columbus’ growth. Other submarkets in the area just don’t have the same things to offer.
 
@@ -44,4 +44,4 @@ Especially given the presence of Ohio State University, Columbus offers some uni
 
 Some people may choose to invest in properties in the suburbs, but the options are vastly limited compared to what is available within the city. **If you do want to invest outside of Columbus, certain tertiary markets can also be a good route to pursue.**
 
-If you have any other questions,  would like more information, or need help determining what you’ll need to do to be successful as an investor, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+If you have any other questions, &nbsp;would like more information, or need help determining what you’ll need to do to be successful as an investor, feel free to give me a call or send me an email. I look forward to hearing from you soon.
