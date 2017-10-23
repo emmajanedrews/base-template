@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Unsure about the Buying Process? We’re Here to Help
-date: 2017-10-20 12:07:01
+title: Unsure About the Buying Process? We’re Here to Help
+date: 2017-10-20 12:07:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -20,17 +20,17 @@ youtube_code: 24CIQ223Rxc
 
 {% include youtube.html %}
 
-I’m here today with one of our buyer’s agents, Walter, to help you better understand where to start the home buying process. Do you have questions about the buying process? Are you a first-time homebuyer, or are you unsure about how this whole thing works? That’s what we’re going to talk about today.<br><br>We have a variety of resources for buyers—from first-time homebuyer loan packages, to helpful books and guides. Reach out to us.
+I’m here today with one of our buyer’s agents, Walter, to help you better understand where to start the home buying process. Do you have questions about the buying process? Are you a first-time homebuyer, or are you unsure about how this whole thing works? That’s what we’re going to talk about today.<br><br>We have a variety of resources for buyers—from first-time homebuyer loan packages to helpful books and guides. Reach out to us.
 
-In fact, the first step we’d recommend in the homebuying process is to get some guidance from us. It doesn’t cost you anything, and we’ll get you moving in the right direction. Every situation is different, and we can help you navigate through this difficult process based on your needs.
+In fact, the first step we’d recommend in the home buying process is to get some guidance from us. It doesn’t cost you anything, and we’ll get you moving in the right direction. Every situation is different, and we can help you navigate through this difficult process based on your needs.
 
 {% include pullquote.html %}
 
 Where does Walter say you should start to get the process going?<br><br>According to Walter, **you need to start off by talking to the right lender.** Find out what you qualify for. It doesn’t matter if you’re ready right now, or planning on starting next month or next year. Even if you think you can’t get qualified, or you don’t even have enough down payment, find out for sure. You might be surprised.
 
-Secondly, once we have you headed in the right direction with the lender, we’ll sit down with you on the phone, or in person, and **find out what exactly your timeframe is and what your expectations are.**If you’re ready, we’ll set you up on a search and discuss options for you and the market.
+Secondly, once we have you headed in the right direction with the lender, we’ll sit down with you on the phone, or in person, and **find out what exactly your time frame is and what your expectations are.&nbsp;**If you’re ready, we’ll set you up on a search and discuss options for you and the market.
 
-Keep in mind, you should be very careful about getting on the internet for research. **Websites like Zillow and Trulia just don’t have accurate information.** We can set you up on the MetroList directly, or you can search on our website or also on [www.LetsGoHouseHunting.com](http://www.LetsGoHouseHunting.com){: target="_blank"}.
+Keep in mind, you should be very careful about getting on the internet for research. **Websites like Zillow and Trulia just don’t have accurate information.** We can set you up on the MetroList directly, or you can search on our website or also on [www.LetsGoHouseHunting.com](http://www.LetsGoHouseHunting.com).
 
 Finally, once we’re ready, we start looking and begin the process. In this market, houses sometimes can go quickly, so we’re ready to show you houses right as they hit the market.
 
