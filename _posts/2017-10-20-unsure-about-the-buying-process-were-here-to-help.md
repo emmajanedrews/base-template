@@ -30,7 +30,7 @@ Where does Walter say you should start to get the process going?<br><br>Accordin
 
 Secondly, once we have you headed in the right direction with the lender, we’ll sit down with you on the phone, or in person, and **find out what exactly your time frame is and what your expectations are.&nbsp;**If you’re ready, we’ll set you up on a search and discuss options for you and the market.
 
-Keep in mind, you should be very careful about getting on the internet for research. **Websites like Zillow and Trulia just don’t have accurate information.** We can set you up on the MetroList directly, or you can search on our website or also on [www.LetsGoHouseHunting.com](http://www.LetsGoHouseHunting.com).
+Keep in mind, you should be very careful about getting on the internet for research. **Websites like Zillow and Trulia just don’t have accurate information.** We can set you up on the MetroList directly, or you can search on our website or also on [www.LetsGoHouseHunting.com](http://www.LetsGoHouseHunting.com){: target="_blank"}.
 
 Finally, once we’re ready, we start looking and begin the process. In this market, houses sometimes can go quickly, so we’re ready to show you houses right as they hit the market.
 
