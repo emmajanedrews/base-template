@@ -22,7 +22,7 @@ youtube_code: HCBPmN4SBLI
 
 Today I want to share some information about a new program we’re offering through the Chenoa Fund.
 
-This program is a great way for people who lack the money required for a home purchase to be able to make their move. Using this program, you can obtain the necessary 3.5% down payment on a FHA mortgage as a gift.
+This program is a great way for people who lack the money required for a home purchase to be able to make their move. Using this program, you can obtain the necessary 3.5% down payment on an FHA mortgage as a gift.
 
 {% include pullquote.html %}
 
