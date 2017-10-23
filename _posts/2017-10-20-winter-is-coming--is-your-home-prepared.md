@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Winter Is Coming. Is Your Home Prepared?
-date: 2017-10-20 10:22:56
+date: 2017-10-20 10:22:00
 tags:
   - Real Estate
 excerpt: >-
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: SAtQAvpW1wM
+youtube_code: lVRLHm7KqJg
 ---
 
 
