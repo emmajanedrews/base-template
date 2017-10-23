@@ -1,5 +1,5 @@
 audit_header: false
-title: -- CLIENT BRAND --
+title: Orlando Real Estate Careers and Training Video Blog with Tom Nickley
 description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -7,41 +7,41 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Tom Nickley
   license_number:
   about_markdown: |
-
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    After only a few short years, The Nickley Group is one of the top selling real estate teams in Florida, will sell over 300 homes this year. With offices in Central and South Florida, The Nickley Group is on pace for $85 million in sales volume and is currently the fastest growing real estate team in Florida. The Nickley Group team consists of experienced buyers specialists, seasoned listing specialists, an inside sales agent, a full time marketing guru, a full time operations expert, a listing coordinator and a client care coordinator.
+  market: Orlando
+  brand: Nickley Group Real Estate Advisors
+  brokerage: Keller Williams at the Parks
+  address: '708 E Colonial Dr #200<br>Orlando, FL 32803'
+  phone: 407-603-9240
   phone_type:
   phone2:
   phone2_type:
   email:
-  url:
+  url: http://www.vieworlandohouses.com
 
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
-  second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  # first_CTA_text: Contact Us
+  # first_CTA_URL: /contact/
+  # second_CTA_text: Home Search
+  # second_CTA_URL: /homesearch/
   VR_form:
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_title: "Are You Interested In A Real Estate Sales Career?"
+    CTA_text: "Join the #1 Real Estate Team in Orlando"
+    CTA_link_text: "Contact Us"
+    CTA_url: /contact/
 
-second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+# second_sidebar_CTA:
+#   - CTA_image_path2: /img/cta-images/005.jpg
+#     CTA_title2: "Looking for a -- MARKET -- Home?"
+#     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
+#     CTA_link_text2: "Search the MLS"
+#     CTA_url2: /homesearch/
 
 lender:
   show_section: false
@@ -66,11 +66,11 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/thenickleygroup/
+  linkedin_url: https://www.linkedin.com/company/the-nickley-group
+  gplus_url: https://plus.google.com/u/0/112812271100162846389
+  youtube_url: https://www.youtube.com/channel/UCwKpS7-hGVDz1yjvGd_Ea9A
+  twitter_url: https://twitter.com/BigMoveOrlando
   instagram_url:
   pinterest_url:
   zillow_url:
@@ -90,14 +90,14 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  logo_width_number: 60
+  hero_text: -- MARKET -- Real Estate Careers and Training Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#e85a4a'
+  theme_color: '#6d6e71'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -106,7 +106,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: rgba(0, 0, 0, .5)
 
 buttons:
   button_radius_number: 0
