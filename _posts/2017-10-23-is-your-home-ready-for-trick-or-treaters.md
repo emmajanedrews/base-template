@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Your Home Ready for Trick-or-Treaters?
-date: 2017-10-23 10:15:03
+date: 2017-10-23 10:15:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/halloween-tips-youtube-1.jpg
-youtube_code: 0KccdtM06Q
+youtube_code: _0KccdtM06Q
 ---
 
 
