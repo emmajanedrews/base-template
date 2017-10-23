@@ -31,7 +31,7 @@ Given the time of year, now is a great time to go over some tips for keeping hom
 
 **3. Have your HVAC system cleaned and serviced.** I’ve been to many homes where the owners had never had this done. Having the dirt and grime cleaned out of your HVAC system as well as having someone tune it up to make sure it’s working properly are two things that can make a big difference in the efficiency of your home. This should be done on an annual basis.
 
-**4. Turning down or programming the thermostat.** A lot of people without programmable thermostats leave their temperature set at a certain level all day long. If you aren’t even home to enjoy the comfortable level your thermostat is set at, why not crank it down by five or ten degrees in your absence? Little changes like this will really add up in helping you save. A programmable or smart thermostat is even better.
+**4. Turning down or programming the thermostat.** A lot of people without programmable thermostats leave their temperature set at a certain level all day long. If you aren’t even home to enjoy the comfortable level your thermostat is set at, why not crank it down by five or 10 degrees in your absence? Little changes like this will really add up in helping you save. A programmable or smart thermostat is even better.
 
 **5. Don’t heat unused space.** If you’ve got rooms or areas that never get used in your home, why waste energy heating the space? Close the doors and shut the vents in those rooms and areas. Heating unused rooms is a giant waste that many people are guilty of doing.
 
