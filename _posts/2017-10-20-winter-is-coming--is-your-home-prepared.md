@@ -23,7 +23,7 @@ youtube_code: SAtQAvpW1wM
 
 {% include youtube.html %}
 
-Even though it hasn’t felt like it lately, the end of the year is drawing close. Fall is here and winter is on its way. This means there are a few home maintenance and repair projects you should take care of before the weather gets colder and the days get shorter.
+Even though it hasn’t felt like it lately, the end of the year is drawing to a close. Fall is here and winter is on its way. This means there are a few home maintenance and repair projects you should take care of before the weather gets colder and the days get shorter.
 
 **1. Care for your trees and shrubs.** Also, remember to rake your leaves and clear out the underbrush. Now is a great time to do this, since there aren’t as many spiders or snakes out and about at this time.
 
@@ -39,14 +39,14 @@ Even though it hasn’t felt like it lately, the end of the year is drawing clos
 
 **6. Stock up on winter supplies.** Make sure that you have plenty of gas for the snowblower, salt and sand for the walkways, windshield washer fluid for your car, and any other items that will help you prepare for the coming season.
 
-**7. Shut off exterior water.** You probably won’t be needing your hoses our outside spigots for some time, so make sure that you shut them off and store these items in a dry and safe place.
+**7. Shut off exterior water.** You probably won’t be needing your hoses or outside spigots for some time, so make sure that you shut them off and store these items in a dry and safe place.
 
 **8. Check safety devices.** Make sure that your flashlights, smoke detectors, carbon monoxide detectors, and fire extinguishers are in working order. Also, replace the batteries in your smoke and carbon monoxide detectors regularly. This is something that is frequently overlooked, but is very important
 
 **9. Clean your dryer vents.** Making sure this is taken care of on a regular basis will help you prevent fires.
 
-**10. Schedule a chimney cleaning service and HVAC system maintenance.**These items should be taken care of before winter strikes. Preventative maintenance is key, but if you think your HVAC system might need more extensive repairs, hire a professional to help.
+**10. Schedule a chimney cleaning service and HVAC system maintenance.&nbsp;**These items should be taken care of before winter strikes. Preventative maintenance is key, but if you think your HVAC system might need more extensive repairs, hire a professional to help.
 
-**11. Check and purge your closets.**Look over these areas, as well as your cabinets and garage, for any infrequently used items that you can donate.
+**11. Check and purge your closets.&nbsp;**Look over these areas, as well as your cabinets and garage, for any infrequently used items that you can donate.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
