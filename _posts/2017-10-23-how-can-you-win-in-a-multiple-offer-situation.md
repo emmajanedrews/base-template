@@ -24,7 +24,7 @@ Here in the Boise, Idaho area we’re definitely in a seller’s market. That be
 
 Today, I want to discuss three points to help you win in a multiple-offer situation.
 
-**1.) Terms.**We know that price matters, but terms can be just as important. If I were to offer you $10,000 for your cell phone today, you would probably agree. But what if the terms were that I would only pay you $1 a month until I had paid it off? You might not be so eager to accept this kind of offer. When it comes to real estate, the terms that matter will vary from seller to seller and a great agent will be sure to identify what matters most to the seller you are dealing with.
+**1.) Terms.&nbsp;**We know that price matters, but terms can be just as important. If I were to offer you $10,000 for your cell phone today, you would probably agree. But what if the terms were that I would only pay you $1 a month until I had paid it off? You might not be so eager to accept this kind of offer. When it comes to real estate, the terms that matter will vary from seller to seller and a great agent will be sure to identify what matters most to the seller you are dealing with.
 
 **2.) Be ready to buy.** If you’re going to be getting a loan for your purchase, you need to be approved before you even set foot in a house. You don’t want to be caught unprepared after finding your perfect home. Get approved up front or be sure to have a proof of funds if paying cash to ensure you don’t miss out!
 
