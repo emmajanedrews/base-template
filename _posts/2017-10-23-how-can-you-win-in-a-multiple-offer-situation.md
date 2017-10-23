@@ -1,12 +1,12 @@
 ---
 layout: post
-title: How Can You Win in a Multiple-Offer Situation?
-date: 2017-10-23 12:53:51
+title: How Can You Win in a Multiple Offer Situation?
+date: 2017-10-23 12:53:00
 tags:
   - Home Buyer Tips
 excerpt: >-
   Here in the Boise, Idaho area we’re definitely in a seller’s market. Today, I
-  want to discuss three points to help you win in a multiple-offer situation.
+  want to discuss three points to help you win in a multiple offer situation.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Chase+Craig/Podcast+Videos/How+Can+You+Win+in+a+Multiple-Offer+Situation%253F.mp4
 pullquote: Be the kind of buyer who puts their best foot forward.
@@ -22,7 +22,7 @@ youtube_code: B-7BbrsAOPs
 
 Here in the Boise, Idaho area we’re definitely in a seller’s market. That being the case, listings are frequently receiving multiple offers. In fact, it isn’t uncommon for a home to see 10 or more offers.
 
-Today, I want to discuss three points to help you win in a multiple-offer situation.
+Today, I want to discuss three points to help you win in a multiple offer situation.
 
 **1.) Terms.&nbsp;**We know that price matters, but terms can be just as important. If I were to offer you $10,000 for your cell phone today, you would probably agree. But what if the terms were that I would only pay you $1 a month until I had paid it off? You might not be so eager to accept this kind of offer. When it comes to real estate, the terms that matter will vary from seller to seller and a great agent will be sure to identify what matters most to the seller you are dealing with.
 
