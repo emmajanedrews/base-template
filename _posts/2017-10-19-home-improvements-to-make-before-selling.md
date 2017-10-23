@@ -20,7 +20,7 @@ youtube_code: LC14zFFK9ko
 
 {% include youtube.html %}
 
-Where are the best places to spend money in your home on improvements in order to get the highest return? Here are a few of the best and most inexpensive fixes you can make:
+Where are the best places to spend money on improvements in your home in order to get the highest return? Here are a few of the best and most inexpensive fixes you can make:
 
 **1. Update your paint and carpet with neutral colors<br>2. Get rid of wallpaper<br>3. Update your light fixtures<br>4. Add a deck or patio (or refinish the one you already have)**
 
