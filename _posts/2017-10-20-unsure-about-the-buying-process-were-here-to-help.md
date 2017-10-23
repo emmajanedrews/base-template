@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/unsure-buying-process-youtube.jpg
-youtube_code: 24CIQ223Rxc
+youtube_code: AQ8sT9gWgmM
 ---
 
 
@@ -28,9 +28,9 @@ In fact, the first step we’d recommend in the home buying process is to get so
 
 Where does Walter say you should start to get the process going?<br><br>According to Walter, **you need to start off by talking to the right lender.** Find out what you qualify for. It doesn’t matter if you’re ready right now, or planning on starting next month or next year. Even if you think you can’t get qualified, or you don’t even have enough down payment, find out for sure. You might be surprised.
 
-Secondly, once we have you headed in the right direction with the lender, we’ll sit down with you on the phone, or in person, and **find out what exactly your time frame is and what your expectations are.&nbsp;**If you’re ready, we’ll set you up on a search and discuss options for you and the market.
+Secondly, once we have you headed in the right direction with the lender, we’ll sit down with you on the phone, or in person, and **find out what exactly your time frame is and what your expectations are.**If you’re ready, we’ll set you up on a search and discuss options for you and the market.
 
-Keep in mind, you should be very careful about getting on the internet for research. **Websites like Zillow and Trulia just don’t have accurate information.** We can set you up on the MetroList directly, or you can search on our website or also on [www.LetsGoHouseHunting.com](http://www.LetsGoHouseHunting.com){: target="_blank"}.
+Keep in mind, you should be very careful about getting on the internet for research. **Websites like Zillow and Trulia just don’t have accurate information.** We can set you up on the MetroList directly, or you can search on our website or also on [www.LetsGoHouseHunting.com](http://www.LetsGoHouseHunting.com).
 
 Finally, once we’re ready, we start looking and begin the process. In this market, houses sometimes can go quickly, so we’re ready to show you houses right as they hit the market.
 
