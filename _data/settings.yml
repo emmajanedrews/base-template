@@ -14,7 +14,7 @@ client:
   market: Orlando
   brand: K Mitchell Team
   brokerage: Keller Williams
-  address: 6900 Turkey Lake Rd Suite 1-3, Orlando, FL 32819
+  address: 6900 Turkey Lake Rd<br>Suite 1-3, Orlando, FL 32819
   phone: 407-353-7706
   phone_type:
   phone2:
@@ -90,7 +90,7 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 60
   hero_text: -- MARKET -- Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
@@ -106,7 +106,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: rgba(15, 37, 65, .6)
 
 buttons:
   button_radius_number: 0
