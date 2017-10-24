@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Orlando Real Estate Careers and Training Video Blog with Tom Nickley</title>
-    <description>Our mission at Nickley Group Real Estate Advisors is to be your best resource for Orlando real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Nickley Group Real Estate Advisors, your professional Orlando Real Estate Agents.</description>
+    <description>A Video Blog about Orlando Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 23 Oct 2017 16:43:07 -0500</pubDate>
-    <lastBuildDate>Mon, 23 Oct 2017 16:43:07 -0500</lastBuildDate>
+    <pubDate>Tue, 24 Oct 2017 10:19:02 -0500</pubDate>
+    <lastBuildDate>Tue, 24 Oct 2017 10:19:02 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
