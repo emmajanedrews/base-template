@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vacation Homes are No Longer Just for the Rich and Famous
-date:
+date: 2017-10-24 12:34:35
 tags:
   - Home Buyer Tips
 excerpt: >-
