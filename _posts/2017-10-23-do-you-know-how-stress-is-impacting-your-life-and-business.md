@@ -21,7 +21,7 @@ youtube_code: DCWPgzTsotg
 
 {% include youtube.html %}
 
-Today I want to discuss some strategies which can be used to manage against the stress caused by changes happening in the market and around us every single day.
+Today I want to discuss some strategies which can be used to manage the stress caused by changes happening in the market and around us every single day.
 
 **This kind of rapid change creates an overarching stress which can affect us in ways we don’t even realize.** Stress impacts everything we do each day. If you don’t acknowledge it up front, a lot of issues can arise. So, to address all of the stressful and rapid changes that occur around us all the time, we must work to change ourselves.
 
