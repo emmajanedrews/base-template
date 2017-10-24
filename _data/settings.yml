@@ -7,26 +7,28 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Mikki Ramey
   license_number:
   about_markdown: |
+    The Mikki Ramey team is in the top 1% for sales in Charleston (14 out of 4100 agents). Mikki has appeared on HGTV National Open House, and also has been featured in HGTV Magazine. She has been recognized by Charleston Moms as the “best real estate agent in Charleston” by Lowcountry Parent’s Magazine. In addition, Trulia picked her as one of the 1% of agents in the country with the 2014 Be st of Trulia Top Agent Award.
 
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    Mikki Ramey is the broker in charge for Healthy Realty and has served the Charleston area for over ten years. She has been recognized for her excellence in real estate as an East Cooper Top Producer and a Realtor of Distinction. Mikki is also certified as a Short Sale and Foreclosure specialist. She is a licensed real estate broker in South Carolina and is a member of the National Association of Realtors. As a realtor, she gives real estate lectures to students, residents, dentists, and doctors at the Medical University of South Carolina.
+  market: Charleston
+  brand: The Mikki Ramey Team
+  brokerage: Healthy Realty
+  address: 1429 Hooper St.<br>Charleston, SC 29492
+  phone: 843-729-0302
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: MikRamey@gmail.com
+  url: http://www.Healthy-Realty.com
 
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.healthy-realty.com/homes-for-sale-search/
   VR_form:
 
 sidebar_CTA:
@@ -41,7 +43,7 @@ second_sidebar_CTA:
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://www.healthy-realty.com/homes-for-sale-search/
 
 lender:
   show_section: false
@@ -66,14 +68,14 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/healthyrealty
+  linkedin_url: https://www.linkedin.com/in/mikkiramey/
   gplus_url:
   youtube_url:
-  twitter_url:
+  twitter_url: http://www.twitter.com/mikkiramey
   instagram_url:
   pinterest_url:
-  zillow_url:
+  zillow_url: https://www.zillow.com/profile/Mikki-Ramey/
   trulia_url:
   yelp_url:
   podcast_url:
@@ -96,8 +98,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#50A7B0'
+  theme_color: '#4E3224'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -106,7 +108,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: rgba(78, 50, 36, .5)
 
 buttons:
   button_radius_number: 0
