@@ -7,13 +7,13 @@
     <description>A Podcast about Orlando Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</description>
     <language>en</language>
     <managingEditor>Tom Nickley</managingEditor>
-    <lastBuildDate>2017-10-24 10:19:02 -0500</lastBuildDate>
+    <lastBuildDate>2017-10-24 12:12:00 -0500</lastBuildDate>
     <media:copyright>Tom Nickley</media:copyright>
     <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
     <media:keywords>Orlando Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
-      <itunes:email></itunes:email>
+      <itunes:email>recruiting@thenickleygroup.com</itunes:email>
       <itunes:name>Tom Nickley</itunes:name>
     </itunes:owner>
     <itunes:author>Tom Nickley</itunes:author>
