@@ -4,7 +4,8 @@ title: My Team Is Putting Our Money Where Our Mouth Is for Our Sellers
 tags:
   - Home Seller Tips
 excerpt: "Today I wanted to take a minute to tell you all about our Guaranteed Sale\_Program."
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Wes+Peters/Baltimore+Metro+Real+Estate-+We+guarantee+your+listings+success.mp4
 pullquote: >-
   If we can't sell your home for you within 60 days for a price you're happy
   with, we will sell it for free!
