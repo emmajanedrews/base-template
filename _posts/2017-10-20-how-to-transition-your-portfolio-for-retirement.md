@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How to Design a Proper Retirement Portfolio Transition Plan
-date: 2017-10-20 11:08:43
+title: How To Transition Your Portfolio For Retirement
+date: 2017-10-20 11:08:00
 tags:
 excerpt: >-
   Designing a proper retirement portfolio transition plan involves separating
@@ -34,7 +34,7 @@ Your income bucket represents the first three to five years of living expenses y
 
 {% include pullquote.html %}
 
-What would you invest that " income bucket" money in? **You would invest that money in CDs, treasuries, and bonds that mature consistently with the timing of when you need those cash flows.&nbsp;**You can invest the other bucket—the growth bucket—into more aggressive securities like stocks because you have time to allow those to recover in case they go down during the first few years of your retirement.
+What would you invest that " income bucket" money in? **You would invest that money in CDs, treasuries, and bonds that mature consistently with the timing of when you need those cash flows.**You can invest the other bucket—the growth bucket—into more aggressive securities like stocks because you have time to allow those to recover in case they go down during the first few years of your retirement.
 
 When’s the best time to think about this retirement transition portfolio strategy? We think it’s a minimum of five years and a maximum of 10 years before you need to withdraw before you should consider this income and growth approach.
 
