@@ -28,9 +28,9 @@ We’re coming to you during the scary month of October with a few tips to prepa
 
 {% include pullquote.html %}
 
-**3. Try to hide valuables from your front porch or yard.**We’re not worried about robbery. This is simply about preventing any accidental damage. Someone might knock into an important valuable on the porch and, suddenly, it’s broken. Remove anything of great value until Halloween is over.
+**3. Try to hide valuables from your front porch or yard.&nbsp;**We’re not worried about a robbery. This is simply about preventing any accidental damage. Someone might knock into an important valuable on the porch and, suddenly, it’s broken. Remove anything of great value until Halloween is over.
 
-**4. Stock up on candy.** We also suggest getting candy for kids with allergies, and maybe even some sugar free candy that’s friendly to everyone, no matter what kind of candy they can have.
+**4. Stock up on candy.** We also suggest getting candy for kids with allergies, and maybe even some sugar-free candy that’s friendly to everyone, no matter what kind of candy they can have.
 
 **5. Don’t forget a costume!** Dressing in costume just helps seal the whole experience when you open the door decked out in your own character.
 
