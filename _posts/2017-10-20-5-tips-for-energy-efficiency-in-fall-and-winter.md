@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Tips for Energy Efficiency in Fall and Winter
-date: 2017-10-20 13:00:33
+date: 2017-10-20 13:00:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/protect-against-flood-youtube.jpg
-youtube_code: IrH6pAnm7Go
+youtube_code: fyZksbQ6Ebc
 ---
 
 
