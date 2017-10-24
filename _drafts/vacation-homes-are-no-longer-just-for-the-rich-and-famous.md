@@ -14,9 +14,9 @@ pullquote: >-
   opportunity for so many people all over the world.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+use_youtube_image: false
+youtube_alternate_image: /uploads/zilver-vacation-homes-1.jpg
+youtube_code: 'https://youtu.be/nNqAjop4elo'
 ---
 
 
