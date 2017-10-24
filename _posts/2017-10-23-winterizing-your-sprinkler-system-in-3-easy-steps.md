@@ -26,7 +26,7 @@ To winterize your home’s sprinkler system and avoid costly damage, there are t
 
 First, go inside your home’s utility room and find the sprinkler feed that runs from the inside to the outside of the house. **Shut off the feed by flipping the lever 90 degrees so it runs parallel to the pipe.** Next, open up the drain beneath the lever by unscrewing the cap. Put a bucket underneath the drain to catch any excess water that trickles out of the pipe during steps two and three.&nbsp;
 
-**Second, move to the outside of the home and turn off the valves on your backflow preventer and sprinkler manifold.** You can shot off the valves on your backflow preventer by turning them to a 45 degree angle. This will prevent any water that could be behind the ball valves from freezing by allowing it to escape. Turn the screws on the backflow preventer to a 45 degree angle as well. Some systems have a valve at the bottom of the pipe leading back into the house and some don’t, but if yours does, unscrew the cap and let the excess water drain out.&nbsp;
+**Second, move to the outside of the home and turn off the valves on your backflow preventer and sprinkler manifold.** You can shot off the valves on your backflow preventer by turning them to a 45-degree angle. This will prevent any water that could be behind the ball valves from freezing by allowing it to escape. Turn the screws on the backflow preventer to a 45-degree angle as well. Some systems have a valve at the bottom of the pipe leading back into the house and some don’t, but if yours does, unscrew the cap and let the excess water drain out.&nbsp;
 
 {% include pullquote.html %}
 
