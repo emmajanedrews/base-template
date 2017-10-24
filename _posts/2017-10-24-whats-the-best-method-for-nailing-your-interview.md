@@ -29,7 +29,7 @@ We’re also noticing that it’s becoming common practice for companies to brin
 
 {% include pullquote.html %}
 
-**We’ve found it to be more effective when companies leave a five-to-10-minute buffer between those meetings.** The person who just interviewed the previous candidate can then download with the next person, not necessarily with the strengths, but with any concerns they had during that meeting that that next person can dive deeper into. Then, at the download time, they have something they can discus and they each went into it with a certain sense of what they were trying to accomplish during the meeting.
+**We’ve found it to be more effective when companies leave a five- to 10-minute buffer between those meetings.** The person who just interviewed the previous candidate can then download with the next person, not necessarily with the strengths, but with any concerns they had during that meeting that that next person can dive deeper into. Then, at the download time, they have something they can discus and they each went into it with a certain sense of what they were trying to accomplish during the meeting.
 
 We’ve found this method to be tremendously successful with the companies we’ve helped with implementing it. **Their meeting days are going much more effectively to identify the right candidates.**
 
