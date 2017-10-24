@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Today I’ve got a list to share with you of the five biggest advantages to
   buying a new construction home.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+Buying+new+construction+is+smart.mp4
 pullquote: Building a home gives you complete design control.
 enclosure_type: video/mp4
 enclosure_time:
