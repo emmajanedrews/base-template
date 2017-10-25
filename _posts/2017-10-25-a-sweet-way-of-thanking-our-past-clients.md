@@ -35,6 +35,10 @@ We’d love to get the chance to talk and to offer you a treat on us.
 
 However, this offer is for a limited time. In order to take advantage, **you’ll need to visit us on November 18th between 12 p.m. and 4 p.m.**
 
-Quantities will be limited, so don’t wait. You can RSVP [here](https://goo.gl/rSZniM){:target="_blank"}.
+Quantities will be limited, so don’t wait. You can RSVP [here](https://goo.gl/rSZniM).
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+
+![](/uploads/versions/rsz-stellar-realty-oct-1-bloopers-1---x----640-360x---.jpg)
+
+BLOOPERS!&nbsp;
