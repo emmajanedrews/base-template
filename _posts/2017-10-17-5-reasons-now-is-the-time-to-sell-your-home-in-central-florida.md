@@ -24,7 +24,7 @@ Here are the top five reasons you should consider selling your home this fall:
 
 **1. Inventory is still low.** Within certain price points, there are more buyers than there are properties available. [**Here is a link**](http://www.simplifyingthemarket.com/en/2017/09/18/5-reasons-to-sell-this-fall-2/?a=323701-ea9cfdf9d119bc9a1cd75b3509ec10e4) to a recent NAR report that explores in further detail the recent buyer activity happening in our market.
 
-![](/uploads/versions/dee---x----972-308x---.jpg)
+![](/uploads/versions/dee-1---x----768-308x---.jpg)
 
 **2. There is still less competition.** Since inventory is still low in most parts of the country and here in Central Florida, there are some price points where there aren’t enough homes and multiple buyers situations happening. Moreover, the buyers that are the most serious about buying are looking now. **[Click here to see the latest buyers report that shows how strong the demand is.](http://www.simplifyingthemarket.com/en/2017/09/18/5-reasons-to-sell-this-fall-2/?a=323701-ea9cfdf9d119bc9a1cd75b3509ec10e4)**&nbsp; Why else would they be trying to buy a home during the holiday season?
 
