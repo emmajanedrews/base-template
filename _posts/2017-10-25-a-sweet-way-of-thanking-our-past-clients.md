@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A 'Sweet' Way of Thanking Our Past Clients
-date:
+date: 2017-10-25 10:07:12
 tags:
   - Real Estate
 excerpt: >-
@@ -35,6 +35,6 @@ We’d love to get the chance to talk and to offer you a treat on us.
 
 However, this offer is for a limited time. In order to take advantage, **you’ll need to visit us on November 18th between 12 p.m. and 4 p.m.**
 
-Quantities will be limited, so don’t wait. You can RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSedHOkJNBbxqKXfUG12HAuQtLjqOXpwbkTOwq7_RZ1pZHBN8A/viewform){:target "_blank"}.
+Quantities will be limited, so don’t wait. You can RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSedHOkJNBbxqKXfUG12HAuQtLjqOXpwbkTOwq7_RZ1pZHBN8A/viewform).
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
