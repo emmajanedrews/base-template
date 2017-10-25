@@ -7,7 +7,8 @@ excerpt: >-
   You probably have already heard about the recent Equifax hack. Whether you
   were among the 145 million people who were affected or not, knowing how to
   stay protected is crucial.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Scott+Hardesty/Greater+Nashville+Real+Estate-+Were+You+Affected+by+the+Equifax+Hack%253F.mp4
 pullquote: 145 million Americans were affected by the recent Equifax hack.
 enclosure_type: video/mp4
 enclosure_time:
