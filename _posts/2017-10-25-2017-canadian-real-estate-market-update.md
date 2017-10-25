@@ -22,9 +22,9 @@ youtube_code: CcNEI5khZ8w
 
 {% include youtube.html %}
 
-In Greater Vancouver, homebuyer demand continues to differ based on housing type. We’re here today to take a closer look at what happened in the metro Vancouver housing market in September.
+In Greater Vancouver, homebuyer demand continues to differ based on the housing type. We’re here today to take a closer look at what happened in the metro Vancouver housing market in September.
 
-Realtors registered over 2,800 sales  on the MLS last month. That figure is up 25% from this time last year and up 13% when compared to the 10-year September sales average.
+Realtors registered over 2,800 sales on the MLS last month. That figure is up 25% from this time last year and up 13% when compared to the 10-year September sales average.
 
 {% include pullquote.html %}
 
@@ -34,6 +34,6 @@ To better understand the balance between supply and demand, let’s look at the 
 
 Home prices tell a similar story. Single-family homes have increased by 3% in price on average over the last year, while condos and townhomes have both seen double-digit gains.
 
-If you’re looking to enter the market as either a buyer or a seller, it’s important to work with your local Realtor so that you understand the latest market trends and set realistic expectations to help you achieve your housing goals.
+If you’re looking to enter the market as either a buyer or a seller, it’s important to work with your local realtor so you understand the latest market trends and set realistic expectations to help you achieve your housing goals.
 
 If you have any questions for us, don’t hesitate to reach out and give us a call or send us an email. We would love to hear from you.
