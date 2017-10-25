@@ -1,10 +1,14 @@
 audit_header: false
 title: Orlando Real Estate Careers and Training Video Blog with Tom Nickley
 description: A Video Blog about -- MARKET -- Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: About
+    url: /about/
+  - title: Our Agents
+    url: /agents/
+  - title: Webinars
+    url: /webinars/
 
 client:
   name: Tom Nickley
@@ -14,7 +18,7 @@ client:
   market: Orlando
   brand: Nickley Group Real Estate Advisors
   brokerage: Keller Williams at the Parks
-  address: '708 E Colonial Dr #200<br>Orlando, FL 32803'
+  address: '11 S. Bumby Ave, Suite 200<br>Orlando, FL 32803'
   phone: 407-357-0707
   phone_type:
   phone2:
@@ -27,7 +31,7 @@ CTAs:
   # first_CTA_URL: /contact/
   # second_CTA_text: Home Search
   # second_CTA_URL: /homesearch/
-  VR_form: http://oi.vresp.com?fid=eb4e66ef0e
+  VR_form: http://oi.vresp.com?fid=9312c244eb
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
@@ -69,8 +73,8 @@ socials:
   twitter_url: https://twitter.com/BigMoveOrlando
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
+  zillow_url: https://www.zillow.com/profile/The-Nickley-Group/
+  trulia_url: https://www.trulia.com/profile/the-nickley-group-agent-orlando-fl-zg2qp6f8/overview
   yelp_url:
   podcast_url:
 

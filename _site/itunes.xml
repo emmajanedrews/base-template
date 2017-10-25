@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Orlando Real Estate Careers and Training Podcast with Tom Nickley</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://www.tngrealestatecareers.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://www.tngrealestatecareers.com"/>
     <description>A Podcast about Orlando Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</description>
     <language>en</language>
     <managingEditor>Tom Nickley</managingEditor>
-    <lastBuildDate>2017-10-24 12:12:00 -0500</lastBuildDate>
+    <lastBuildDate>2017-10-25 13:47:05 -0500</lastBuildDate>
     <media:copyright>Tom Nickley</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://www.tngrealestatecareers.com/img/podcast.jpg"/>
     <media:keywords>Orlando Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,7 +18,7 @@
     </itunes:owner>
     <itunes:author>Tom Nickley</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://www.tngrealestatecareers.com/img/podcast.jpg"/>
     <itunes:keywords>Orlando Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
     <itunes:subtitle>Boost your Career with Veteran Real Estate Agent Tom Nickley</itunes:subtitle>
     <itunes:summary>A Podcast about Orlando Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</itunes:summary>
@@ -26,7 +26,7 @@
     
       <item>
         <title>this is a test post</title>
-        <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
+        <link>http://www.tngrealestatecareers.com/this-is-a-test-post-copy-2.html</link>
         
           <category>Market Update</category>
         
@@ -54,7 +54,7 @@ Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper 
 Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.tngrealestatecareers.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
@@ -65,7 +65,7 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
       
       <item>
         <title>A Fox in Space</title>
-        <link>localhost:4000/a-fox-in-space.html</link>
+        <link>http://www.tngrealestatecareers.com/a-fox-in-space.html</link>
         
           <category>Market Update</category>
         
@@ -109,7 +109,7 @@ Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper 
 Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.tngrealestatecareers.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
