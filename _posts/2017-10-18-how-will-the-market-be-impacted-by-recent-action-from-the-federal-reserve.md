@@ -8,7 +8,8 @@ excerpt: >-
   Today I’ve got an important announcement about a recent change that will
   affect our economy and our market. The Federal Reserve is rolling back the
   balance sheet.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Joe+DeSane/Palm+Beach+County+Real+Estate-+Big+Changes+Are+Coming+to+the+Economy.mp4
 pullquote: 'If you’re thinking of buying or selling, don’t wait.'
 enclosure_type: video/mp4
 enclosure_time:
