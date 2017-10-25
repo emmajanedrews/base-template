@@ -6,14 +6,18 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt:
-enclosure:
+excerpt: >-
+  Halloween is one of the best holidays of the year. It’s a time for
+  celebration, parties, and more. Santa Clarita is a place for family, and that
+  means it’s a great place to enjoy Halloween.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Randy+Plaice/Videos/2017/Halloween+Spirit+Around+Town+-+Santa+Clarita+Real+Estate+Agent.mp4
 pullquote: Santa Clarita really lends itself to a lot of Halloween activity.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image:
-youtube_code: uieM18rZdHY
+youtube_code: 195zGpdPSZk
 ---
 
 
