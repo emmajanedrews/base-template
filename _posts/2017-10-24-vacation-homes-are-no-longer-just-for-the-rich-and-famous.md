@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vacation Homes are No Longer Just for the Rich and Famous
-date: 2017-10-24 12:34:35
+date: 2017-10-24 12:34:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/zilver-vacation-homes-1.jpg
-youtube_code: 'https://youtu.be/nNqAjop4elo'
+youtube_code: 'https://youtu.be/NdJH7tbXE9c'
 ---
 
 
