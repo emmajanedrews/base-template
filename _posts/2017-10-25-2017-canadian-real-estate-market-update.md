@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/Vallee SS.jpg
-youtube_code: rkt8OKomW2U
+youtube_code: CcNEI5khZ8w
 ---
 
 
@@ -24,7 +24,7 @@ youtube_code: rkt8OKomW2U
 
 In Greater Vancouver, homebuyer demand continues to differ based on housing type. We’re here today to take a closer look at what happened in the metro Vancouver housing market in September.
 
-Realtors registered over 2,800 sales &nbsp;on the MLS last month. That figure is up 25% from this time last year and up 13% when compared to the 10-year September sales average.
+Realtors registered over 2,800 sales  on the MLS last month. That figure is up 25% from this time last year and up 13% when compared to the 10-year September sales average.
 
 {% include pullquote.html %}
 
