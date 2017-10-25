@@ -7,61 +7,33 @@ tags:
   - Buyer Tips
   - Home Seller Tips
 excerpt: >-
-  Today I want to take a moment to check in and let you know how our Canadian
-  real estate market is faring.  If you have been thinking of selling your home,
-  you should know that our current market still has some great opportunities.
+  In Greater Vancouver, homebuyer demand continues to differ based on housing
+  type. We’re here today to take a closer look at what happened in the metro
+  Vancouver housing market in September.
 enclosure:
-pullquote: >-
-  If you are thinking of selling your home, it may be time to do it now while
-  competition is low and buyers are motivated.
+pullquote: The condo and townhome market is very competitive.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/no-pb-28.jpg
+youtube_alternate_image: /uploads/Vallee SS.jpg
 youtube_code: rkt8OKomW2U
 ---
 
 
 {% include youtube.html %}
 
-Today I want to take a moment to check in and let you know how our Canadian real estate market is faring.
+In Greater Vancouver, homebuyer demand continues to differ based on housing type. We’re here today to take a closer look at what happened in the metro Vancouver housing market in September.
 
-**If you have been thinking of selling your home, you should know that our current market still has some great opportunities.**
-
-Recently, the Canadian Mortgage and Housing Corporation (CMHC) released data for September 1017.
+Realtors registered over 2,800 sales &nbsp;on the MLS last month. That figure is up 25% from this time last year and up 13% when compared to the 10-year September sales average.
 
 {% include pullquote.html %}
 
-The data indicated that the housing starts trend decreased for the first time in many months. However, there are still areas of the market that are strong.
+Condo and townhome activity continues to outpace the detached home market across Vancouver. In fact, detached homes made up just 30% of all sales in September while representing 62% of the total homes listed for sale on the MLS. In total, there are over 9,400 properties listed for sale in metro Vancouver.
 
-“New home construction remains very strong […]” according to CMHC’s chief economist Bob Dugan.
+To better understand the balance between supply and demand, let’s look at the sales-to-active-listings ratio. As you can see in the graph in the video above, downward pressure on home prices can occur when the ratio dips below the 12% mark for a sustained period. Conversely, home prices can experience an upward pressure when that ratio surpasses the 20% mark over several months. Today’s ratio across all housing types is 30%. When we break it down, detached homes are in a clear balanced market while condos and townhomes remain in a strong seller’s market.
 
-In Toronto specifically, the low-rise sector has remained strong, as has the pace of construction for new homes. **This is largely driven by strong demand.**
+Home prices tell a similar story. Single-family homes have increased by 3% in price on average over the last year, while condos and townhomes have both seen double-digit gains.
 
-Right now, buyers are eager. For this reason, Toronto Real Estate Board (TERB) President Tim Syrianos is predicting strong sales for the fall months.
+If you’re looking to enter the market as either a buyer or a seller, it’s important to work with your local Realtor so that you understand the latest market trends and set realistic expectations to help you achieve your housing goals.
 
-Buyers are also excited over the drop in house prices over the last 5 months. Nationally, the average home price decreased .4% from last year, sitting now at $478,696. While this trend has not seemed entirely favorable, it could help push encourage some stimulation in our market.
-
-**Additionally, the average rate for a one-year fixed rate closed mortgage has held steady, sitting at 3.14%.**
-
-Markets do experience fluctuations, so it’s hard to say how long these rates will last.
-
-Projected home sales are down from last month, going from approximately 39,900 to 39,392.
-
-Still, certain factors of our current market make it a great time for buyers to start looking for a home.
-
-The demand this creates means that sellers will be able to take advantage of our circumstances, as well.
-
-It is hard to say where the Canadian real estate market may be headed in the future. **However, we know that right now there are a few strong driving factors.**
-
-If you are thinking of selling your home, it may be time to do it now while competition is low and buyers are motivated.
-
-You can get started with this home value calculator on my site, which takes into account recent home sales:
-
-[Enter your street address here to find out what your home is worth](http://www.valleerealestate.ca/your-homes-value)
-
-This calculator will give you a good idea of what your home is worth in the current market.
-
-And if you want an even more accurate estimate, or if you have any questions concerning our real estate market, just give me a call. I'm here to help.
-
-Have a great day!
+If you have any questions for us, don’t hesitate to reach out and give us a call or send us an email. We would love to hear from you.
