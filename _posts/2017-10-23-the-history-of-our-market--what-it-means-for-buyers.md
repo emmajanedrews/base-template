@@ -1,13 +1,14 @@
 ---
 layout: post
 title: The History of Our Market & What It Means for Buyers
-date: 2017-10-23 13:59:01
+date: 2017-10-23 13:59:00
 tags:
   - Market Update
 excerpt: >-
   We’ve had eight years of slow movement in our market, but at some time that
   will go up. History has proven this trend.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Scott+Hollinger/Montana+Real+Estate++The+Hollinger+Team+Is+history+repeating+itself+in+our+market.mp4
 pullquote: >-
   We’ve had eight years of slow movement in our market, but at some time that
   will go up. History has proven this trend.
