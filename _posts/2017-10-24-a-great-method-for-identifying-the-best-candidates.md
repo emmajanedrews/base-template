@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What’s the Best Method for Nailing Your Interview?
+title: A Great Method for Identifying the Best Candidates
 tags:
   - Building Products
 excerpt: >-
