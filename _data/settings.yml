@@ -1,5 +1,5 @@
 audit_header: false
-title: -- CLIENT BRAND --
+title: Central Iowa Real Estate Video Blog with Misty Soldwisch
 description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -7,41 +7,43 @@ custom_links:
     url:
 
 client:
-  name:
-  license_number:
+  name: Misty Soldwisch
+  license_number: 'BRE #B40909000'
   about_markdown: |
+    Professional service with an emphasis on guidance, planning, and dedication to my clients' needs are my top priority. My greatest strength as a realtor is my ability to think outside the box--whether it is developing a unique marketing strategy or highlighting the potential in a property with my decorating and staging skills. I am a proactive, hands-on agent that is willing to do what it takes to meet your real estate needs.
 
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    In addition, offering a unique TEAM approach – where we have specialized roles in each step of the process —ensures an unparalleled expertise and customer service experience. We know that real estate transactions can be stressful and of great financial value to our clients—it is important to work with full time professionals with your best interest at heart!
+  market: Central Iowa
+  brand: The Misty SOLDwisch Home Selling Team
+  brokerage: Better Homes and Gardens Real Estate Innovations
+  address: 9325 Bishop Dr., Suite 110<br>West Des Moines, IA 50266
+  phone: 515-346-6204
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: misty@mistysold.com
+  url: http://mistysold.searchcentraliowahomes.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.centraliahomevalues.com/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
-  VR_form:
+  second_CTA_URL: https://mistysold.searchcentraliowahomes.com/
+  VR_form: http://oi.vresp.com?fid=590cc0a696
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.centraliahomevalues.com/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: https://mistysold.searchcentraliowahomes.com/
 
 lender:
   show_section: false
@@ -66,23 +68,23 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: http://www.facebook.com/MistySOLDTeam
+  linkedin_url: http://www.linkedin.com/in/mistysold/
+  gplus_url: https://plus.google.com/u/1/106768285720937357777
+  youtube_url: https://www.youtube.com/user/mistysold
+  twitter_url: https://twitter.com/MistySOLDTeam
   instagram_url:
   pinterest_url:
   zillow_url:
   trulia_url:
   yelp_url:
-  podcast_url:
+  podcast_url: https://itunes.apple.com/us/podcast/central-iowa-real-estate-podcast/id941324237?mt=2
 
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
+  subtitle: 'Changing Lives Through Real Estate'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
   author: '-- CLIENT NAME --'
@@ -90,14 +92,14 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 60
   hero_text: -- MARKET -- Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#439639'
+  theme_color: '#333333'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
