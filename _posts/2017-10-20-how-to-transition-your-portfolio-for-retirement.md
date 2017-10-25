@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/mario-giganti-new-youtube-1.jpg
+youtube_alternate_image: /uploads/Mario-Giganti-new-youtube.jpg
 youtube_code: Ga25CMHGUMc
 ---
 
