@@ -13,7 +13,7 @@ pullquote: There has never been a better time to move up or move down.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/dee-youtube.jpg
 youtube_code: Z7jAqkCiyXM
 ---
 
