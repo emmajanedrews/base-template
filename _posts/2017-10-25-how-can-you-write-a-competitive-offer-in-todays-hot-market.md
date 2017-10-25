@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Can You Write a Competitive Offer in Today's Hot Market?
-date: 2017-10-25 12:31:05
+date: 2017-10-25 12:31:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/bob-peterson-youtube.jpg
+youtube_alternate_image: /uploads/bob-peterson-youtube-1.jpg
 youtube_code: kq0uz0KKCbM
 ---
 
@@ -34,6 +34,6 @@ The third step is to **write a personal letter to the seller and let them know w
 
 {% include pullquote.html %}
 
-At the Peterson Team, we use strategies to help our buyers find homes before they even hit the market. We like to help people go into their new home before the sign goes up. &nbsp;
+At the Peterson Team, we use strategies to help our buyers find homes before they even hit the market. We like to help people go into their new home before the sign goes up.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
