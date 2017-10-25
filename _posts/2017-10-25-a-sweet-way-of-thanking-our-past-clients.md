@@ -39,4 +39,4 @@ Quantities will be limited, so don’t wait. You can RSVP [here](https://goo.gl/
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
 
-![](/uploads/versions/rsz-stellar-realty-oct-1-bloopers-1---x----640-360x---.jpg)
+[![](/uploads/versions/rsz-stellar-realty-oct-1-bloopers-1---x----640-360x---.jpg)](https://youtu.be/UKno6Pr25Zw)
