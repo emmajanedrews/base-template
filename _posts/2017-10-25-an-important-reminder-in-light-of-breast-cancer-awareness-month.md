@@ -1,13 +1,14 @@
 ---
 layout: post
 title: An Important Reminder in Light of Breast Cancer Awareness Month
-date: 2017-10-25 11:10:30
+date: 2017-10-25 11:10:00
 tags:
 excerpt: >-
   Today’s message regarding Breast Cancer Awareness Month is for all you ladies
   out there who, like me, don’t schedule annual mammograms. I would encourage
   you to change that habit starting now.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Shawna+Brooks/Greater+Indianapolis+Real+Estate-+It%2527s+Breast+Cancer+Awareness+Month.mp4
 pullquote: >-
   Get your mammogram scheduled so if anything’s wrong, you can get it taken care
   of as fast as possible.
@@ -21,11 +22,11 @@ youtube_code: 1jxCNDu9HKk
 
 {% include youtube.html %}
 
-Today’s message regarding Breast Cancer Awareness Month is for all you ladies out there who, like me, don’t schedule annual mammograms. I would encourage you to change that habit starting now.&nbsp;
+Today’s message regarding Breast Cancer Awareness Month is for all you ladies out there who, like me, don’t schedule annual mammograms. I would encourage you to change that habit starting now.
 
 Recently, I went in for my first mammogram ever. I hadn’t done any previously because, among other reasons, cancer doesn’t run in my family. By my own logic, I thought I didn’t need one. But I was wrong. Cancer was detected, but we’re in the process of getting that knocked out right now.
 
-So, **whether you’re in the habit or not, get your mammogram scheduled.** If there is a problem, you can get it out of the way as fast as possible.&nbsp;
+So, **whether you’re in the habit or not, get your mammogram scheduled.** If there is a problem, you can get it out of the way as fast as possible.
 
 {% include pullquote.html %}
 
