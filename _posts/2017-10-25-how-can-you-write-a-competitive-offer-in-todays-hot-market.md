@@ -15,14 +15,14 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/bob-peterson-youtube-1.jpg
+youtube_alternate_image: /uploads/bob-peterson-youtube-2.jpg
 youtube_code: kq0uz0KKCbM
 ---
 
 
 {% include youtube.html %}
 
-What is the best way to win a multiple-offer situation?
+What is the best way to win a multiple offer situation?
 
 In today’s seller’s market, this is a great question. To help me answer it, I enlisted the help of our lead buyer specialist.
 
