@@ -1,13 +1,14 @@
 ---
 layout: post
 title: How Much Money Down Is Too Much?
-date: 2017-10-26 11:57:57
+date: 2017-10-26 11:57:00
 tags:
   - Home Seller Tips
 excerpt: >-
   Despite what some may think, putting more money down than is necessary isn’t
   always the best way to save money on a new home.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+How+Much+Money+Down+Is+Too+Much%253F.mp4
 pullquote: >-
   Putting too much money down on the transaction is unnecessary and can
   dramatically deplete your reserves.
@@ -15,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/no-pb-1.jpg
-youtube_code: aKRCJYkPRQA
+youtube_code: 3TsJ4i-89HQ
 ---
 
 
