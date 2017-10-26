@@ -12,7 +12,7 @@ title: When Is the Right Time to Downsize?
 date: '2017-03-29T06:32:00.002-07:00'
 author: Vyral Admin
 tags:
-- Central Iowa Real Estate Home Seller Tips
+- Home Seller Tips
 modified_time: '2017-04-04T08:38:29.720-07:00'
 thumbnail: https://i.ytimg.com/vi/W23s2r2wmK0/default.jpg
 blogger_id: tag:blogger.com,1999:blog-4836409303082318395.post-3661397029630536976

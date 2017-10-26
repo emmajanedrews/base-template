@@ -12,7 +12,7 @@ title: 'What Should You Do When There Are Multiple Offers on Your Home?'
 date: '2017-05-30T08:39:00.001-07:00'
 author: Vyral Admin
 tags:
-- Central Iowa Home seller tips
+- Home Seller Tips
 modified_time: '2017-06-02T14:08:31.324-07:00'
 thumbnail: https://i.ytimg.com/vi/MqGVnzApnjg/default.jpg
 blogger_id: tag:blogger.com,1999:blog-4836409303082318395.post-2860096954755589390

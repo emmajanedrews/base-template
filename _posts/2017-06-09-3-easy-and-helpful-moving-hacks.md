@@ -12,7 +12,7 @@ title: 3 Easy and Helpful Moving Hacks
 date: '2017-06-09T12:09:00.000-07:00'
 author: Vyral Admin
 tags:
-- Central Iowa Real Estate Home Seller Tips
+- Home Seller Tips
 modified_time: '2017-06-27T15:32:00.613-07:00'
 thumbnail: https://i.ytimg.com/vi/i2Ha1YymoHw/default.jpg
 blogger_id: tag:blogger.com,1999:blog-4836409303082318395.post-662896837983000061

@@ -12,7 +12,7 @@ title: Were Excited to Join Forces With Better Homes and Gardens Real Estate
 date: '2017-07-31T09:03:00.000-07:00'
 author: Vyral Admin
 tags:
-- Central Iowa Real Estate Other
+- Central Iowa Real Estate
 modified_time: '2017-08-02T14:39:29.679-07:00'
 thumbnail: https://i.ytimg.com/vi/l94BUnQeU5k/default.jpg
 blogger_id: tag:blogger.com,1999:blog-4836409303082318395.post-4245217724253811773

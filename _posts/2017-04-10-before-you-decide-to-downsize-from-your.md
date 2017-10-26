@@ -12,7 +12,7 @@ title: 'Join Mistys Team:  Were Hiring a Home Selling Specialist!'
 date: '2017-04-10T09:56:00.004-07:00'
 author: Vyral Admin
 tags:
-- Central Iowa Real Estate Home Seller Tips
+- Home Seller Tips
 modified_time: '2017-04-14T07:54:46.261-07:00'
 thumbnail: https://i.ytimg.com/vi/r-L5ocH8JsA/default.jpg
 blogger_id: tag:blogger.com,1999:blog-4836409303082318395.post-4220085252880486868

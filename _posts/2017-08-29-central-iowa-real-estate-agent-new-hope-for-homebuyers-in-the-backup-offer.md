@@ -12,8 +12,7 @@ title: Get the Home You Want Through a Backup Offer
 date: '2017-08-29T12:40:00.000-07:00'
 author: Vyral Admin
 tags:
-- real estate
-- Central Iowa Home Buyer tips
+- Home Buyer Tips
 modified_time: '2017-09-01T14:10:56.306-07:00'
 thumbnail: https://i.ytimg.com/vi/72hc1l2pRQw/default.jpg
 blogger_id: tag:blogger.com,1999:blog-4836409303082318395.post-1435989631220150071

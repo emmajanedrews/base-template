@@ -12,7 +12,7 @@ title: 'Get an Extra Chance to Win $2,500 Towards Your Next Iowa Home '
 date: '2017-07-25T13:21:00.001-07:00'
 author: Vyral Admin
 tags:
-- Central Iowa Home Buyer tips
+- Home Buyer Tips
 modified_time: '2017-07-27T14:34:39.214-07:00'
 thumbnail: https://i.ytimg.com/vi/00rJ2OZqelY/default.jpg
 blogger_id: tag:blogger.com,1999:blog-4836409303082318395.post-7152911738042909287
