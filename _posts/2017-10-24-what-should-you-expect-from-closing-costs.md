@@ -29,6 +29,6 @@ According to a recent survey of 1,000 first-time homebuyers by Closing Corp, 17%
 
 According to Freddie Mac, closing costs typically account for 2% to 5% of your overall sale price. This can be a large amount of money, and it’s why we sit down with our buyers before we look at properties with them to make sure we go over everything step by step and they know everything that’s involved with the home buying process.
 
-**It’s important to speak with a lender before viewing any properties** so you know what’ you’ll have to pay out of pocket for your down payment and your closing costs.
+**It’s important to speak with a lender before viewing any properties** so you know what you’ll have to pay out of pocket for your down payment and your closing costs.
 
 If you have any further questions about closing costs or how to navigate the home buying process, don’t hesitate to give me a call or send me an email. I’d be happy to help you!
