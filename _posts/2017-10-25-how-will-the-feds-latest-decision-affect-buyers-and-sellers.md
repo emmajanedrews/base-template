@@ -42,4 +42,4 @@ But make no mistake, while the Fed's moves will take time to bear fruit, they wi
 
 **That's why if you've been thinking of getting into the real estate market, now is such a crucial time.**
 
-If you have any questions, whether about buying or selling your home, or about the details of the Fed's announcement and what they mean for you, give me a call at (phone). I'm here to help.
+If you have any questions, whether about buying or selling your home, or about the details of the Fed's announcement and what they mean for you, give me a call. I'm here to help.
