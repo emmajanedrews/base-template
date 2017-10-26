@@ -25,7 +25,7 @@ According to Mel, she and Laura have always had a dream of working together and 
 
 Outside of simply running the store, Mel and Laura also get involved in the community in other ways.
 
-{% include pullquote.html %}<br><br>**On October 25th, they are running a Fall Flower Workshop for pumpkin floral arrangements at the Buda Public Library.**Also, they are hosting a workshop called “BudaFest” on December third for making floral arrangements with mistletoe.
+{% include pullquote.html %}<br>**On October 25th, they are running a Fall Flower Workshop for pumpkin floral arrangements at the Buda Public Library.**Also, they are hosting a workshop called “BudaFest” on December third for making floral arrangements with mistletoe.
 
 In the future, they also hope to host future workshops at the store itself.
 
