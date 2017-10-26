@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Real Reason You Need a Home Inspection
-date: 2017-10-25 13:33:57
+date: 2017-10-25 13:33:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/john-schuster-youtube.jpg
-youtube_code: rEZIoqeNWSg
+youtube_code: oDlEYs0cgU4
 ---
 
 
