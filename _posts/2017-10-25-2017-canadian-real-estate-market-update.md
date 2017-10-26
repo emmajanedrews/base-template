@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/vallee-real-estate-ss-noplay.jpg
-youtube_code: wzoGzPLPL-M
+youtube_code: Im3YAfq6Wpw
 ---
 
 
