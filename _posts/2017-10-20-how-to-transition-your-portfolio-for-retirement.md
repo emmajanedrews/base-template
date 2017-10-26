@@ -40,4 +40,4 @@ When’s the best time to consider this retirement transition portfolio strategy
 
 If you only have one account, like a 401(k) plan like most people do, you can still implement this retirement transition plan strategy, you just need to do it inside of the same account. **When you look at your statement, you just need to know what’s for income and what’s for growth.**
 
-If you’d like to understand how a properly designed retirement transition portfolio can work for you, give us a call, shoot us an email, or message us on our website and ask one of our Certified Financial Planners (TM) for a consultation so they can design the perfect strategy for you. We look forward to hearing from you.
+If you’d like to understand how a properly designed retirement transition portfolio can work for you, give us a call, shoot us an email, or message us on our website and ask one of our Certified Financial Planners ™ for a consultation so they can design the perfect strategy for you. We look forward to hearing from you.
