@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Look Inside One of Buda's Newest Stores
-date:
+date: 2017-10-26 15:37:11
 tags:
   - Market Update
 excerpt: 'Today I met with two local business owners to discuss their store: Thatcher.'
