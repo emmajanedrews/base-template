@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Great Method for Identifying the Best Candidates
+title: How To Navigate Through a Day of Interviews
 tags:
   - Building Products
 excerpt: >-
