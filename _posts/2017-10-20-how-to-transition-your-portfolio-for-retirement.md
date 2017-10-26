@@ -26,7 +26,7 @@ The biggest mistake I see retirees make is not properly preparing their portfoli
 
 Let’s say we have a meaningful market decline in the first few years of your retirement—about 20% or more. If that happens, you may be forced to sell stocks when they’re down while you are also taking retirement portfolio distributions out of your investment portfolio . The impact of doing both in the first few years may jeopardize your ability to take retirement withdrawals for the remainder of your retirement. You might run out of money earlier than you thought you would.
 
-We call this risk “sequence risk.” It’s the risk that the first few years of retirement will produce negative returns first followed by positive returns versus producing positive returns first followed by negative returns. In both cases, your average return might be the same, but if those negative returns happen, when you withdraw money actually has a significant impact on the result of your retirement projections and your ability to live your lifestyle the way you want to.
+We call this risk “sequence risk.” It’s the risk that the first few years of retirement will produce negative returns first followed by positive returns versus producing positive returns first followed by negative returns. In both cases, your average return might be the same, but if those negative returns happen first, when you withdraw money actually has a significant impact on the result of your retirement projections and your ability to live your lifestyle the way you want to.
 
 How do you deal with sequence risk? When you’re saving or accumulating money, your investment is for one goal. All your money should be aligned for growth and you should be investing pretty aggressively. **When you retire, think about your money in two buckets—an income bucket and a growth bucket.**
 
@@ -34,9 +34,9 @@ Your income bucket represents the first three to five years of living expenses y
 
 {% include pullquote.html %}
 
-What would you invest that "income bucket" money in? **You would invest that money in CDs, treasuries, and bonds that mature consistently with the timing of when you need those cash flows.**You can invest the other bucket—the growth bucket—into more aggressive securities like stocks because you have time to allow those to recover in case they go down during the first few years of your retirement.
+What would you invest that "income bucket" money in? **Likly CDs, treasuries, and bonds that mature consistently with the timing of when you need those cash flows.&nbsp;**You can invest the other bucket—the growth bucket—into more aggressive securities like stocks because you have time to allow those to recover in case they go down during the first few years of your retirement.
 
-When’s the best time to think about this retirement transition portfolio strategy? We think it’s a minimum of five years and a maximum of 10 years before you need to withdraw before you should consider this income and growth approach.
+When’s the best time to consider this retirement transition portfolio strategy? We think it’s a minimum of five years and a maximum of 10 years before you need withdrawals from your portfolio before you should consider this income and growth approach.
 
 If you only have one account, like a 401(k) plan like most people do, you can still implement this retirement transition plan strategy, you just need to do it inside of the same account. **When you look at your statement, you just need to know what’s for income and what’s for growth.**
 
