@@ -1,16 +1,17 @@
 ---
 layout: post
 title: What’s the First Step in the Home Buying Process?
-date:
+date: 2017-10-27 12:27:33
 tags:
 excerpt: The very first step you must take when buying a home is to get pre-qualified.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Abel+Tejeda/Abel+Tejeda-+Whats+the+First+Step+in+the+Home+Buying+Process%253F.mp4
 pullquote: Getting pre-qualified is easier than you think.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+youtube_alternate_image: /uploads/tejeda-youtube.jpg
+youtube_code: SoR7jdHdVD4
 ---
 
 
