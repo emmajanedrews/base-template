@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Central Iowa Real Estate Podcast with Misty Soldwisch</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://changinglivesthroughrealestate.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://changinglivesthroughrealestate.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Misty SOLDwisch Home Selling Team - your professional Central Iowa Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Misty Soldwisch</managingEditor>
-    <lastBuildDate>2017-10-26 14:45:18 -0500</lastBuildDate>
+    <lastBuildDate>2017-10-27 15:49:38 -0500</lastBuildDate>
     <media:copyright>Misty Soldwisch</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://changinglivesthroughrealestate.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,7 +18,7 @@
     </itunes:owner>
     <itunes:author>Misty Soldwisch</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://changinglivesthroughrealestate.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Changing Lives Through Real Estate</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Misty SOLDwisch Home Selling Team - your professional Central Iowa Real Estate Agents.</itunes:summary>
@@ -26,7 +26,7 @@
     
       <item>
         <title>Come to Our Open Houses This Fall for a Chance to Win Something Delicious</title>
-        <link>localhost:4000/central-iowa-real-estate-agent-weve-cooked-up-a-fun-prize-for-you.html</link>
+        <link>http://changinglivesthroughrealestate.com/central-iowa-real-estate-agent-weve-cooked-up-a-fun-prize-for-you.html</link>
         
           <category>Central Iowa Real Estate</category>
         
@@ -57,7 +57,7 @@ If you’re considering making a change with your home, we would love to help.
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/videos/Central+Iowa+Real+Estate+Agent-+We%2527ve+Cooked+up+a+Fun+Prize+for+You.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://changinglivesthroughrealestate.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/videos/Central+Iowa+Real+Estate+Agent-+We%2527ve+Cooked+up+a+Fun+Prize+for+You.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -76,7 +76,7 @@ We’ve got a great chance for you to win the latest edition of the Better Homes
       
       <item>
         <title>Get the Home You Want Through a Backup Offer</title>
-        <link>localhost:4000/central-iowa-real-estate-agent-new-hope-for-homebuyers-in-the-backup-offer.html</link>
+        <link>http://changinglivesthroughrealestate.com/central-iowa-real-estate-agent-new-hope-for-homebuyers-in-the-backup-offer.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -113,7 +113,7 @@ If you have any questions about this strategy or anything else, just give us a c
 We look forward to hearing from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Get+the+Home+You+Want+Through+a+Backup+Offer.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://changinglivesthroughrealestate.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Get+the+Home+You+Want+Through+a+Backup+Offer.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -132,7 +132,7 @@ Frustrated homebuyers in the Central Iowa market may be able to use the backup o
       
       <item>
         <title>Were Excited to Join Forces With Better Homes and Gardens Real Estate</title>
-        <link>localhost:4000/central-iowa-real-estate-agent-an-announcement-from-our-team.html</link>
+        <link>http://changinglivesthroughrealestate.com/central-iowa-real-estate-agent-an-announcement-from-our-team.html</link>
         
           <category>Central Iowa Real Estate</category>
         
@@ -157,7 +157,7 @@ You’ll start seeing green Better Homes and Gardens signs up with our team’s 
 If you or anyone you know is thinking about buying, selling, or investing in real estate, give us a call or send us an email. We look forward to hearing from you.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://changinglivesthroughrealestate.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -176,7 +176,7 @@ We have an exciting announcement to make today. It’s going to change the futur
       
       <item>
         <title>Get an Extra Chance to Win $2,500 Towards Your Next Iowa Home </title>
-        <link>localhost:4000/central-iowa-real-estate-agent-dont-miss-this-chances.html</link>
+        <link>http://changinglivesthroughrealestate.com/central-iowa-real-estate-agent-dont-miss-this-chances.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -205,7 +205,7 @@ Whether you are buying a home for the first time or making a change, this is a g
 If you have any questions, feel free to reach out to us. In the meantime, go ahead and enter. We hope that someone who knows our team wins this opportunity. Good luck!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/videos/Central+Iowa+Real+Estate+Agent-+Don%2527t+Miss+This+Chance.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://changinglivesthroughrealestate.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/videos/Central+Iowa+Real+Estate+Agent-+Don%2527t+Miss+This+Chance.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -224,7 +224,7 @@ The Iowa Finance Authority has a special sweepstakes right now offering $2,500 i
       
       <item>
         <title>3 Easy and Helpful Moving Hacks</title>
-        <link>localhost:4000/3-easy-and-helpful-moving-hacks.html</link>
+        <link>http://changinglivesthroughrealestate.com/3-easy-and-helpful-moving-hacks.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -251,7 +251,7 @@ If you’re moving, these three tips should help you out quite a bit:
 If you’re thinking about making a move and need to buy and or sell a home, give us a call or send us an email. We’d love to help!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/videos/Central+Iowa+Real+Estate+Agent-+3+Easy+and+Helpful+Moving+Hacks.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://changinglivesthroughrealestate.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/videos/Central+Iowa+Real+Estate+Agent-+3+Easy+and+Helpful+Moving+Hacks.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -270,7 +270,7 @@ As a home seller, how do you know which offer to pick in a multiple offer situat
       
       <item>
         <title>What Should You Do When There Are Multiple Offers on Your Home?</title>
-        <link>localhost:4000/what-should-you-do-when-there-are.html</link>
+        <link>http://changinglivesthroughrealestate.com/what-should-you-do-when-there-are.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -303,7 +303,7 @@ Ultimately, we will sit down, look at all your different options, and work toget
 If you have any other questions about selling your home in our current market, just give us a call. We would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/videos/Central+Iowa+Real+Estate+Agent-+Choosing+the+Best+Offer+for+Your+Home.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://changinglivesthroughrealestate.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/videos/Central+Iowa+Real+Estate+Agent-+Choosing+the+Best+Offer+for+Your+Home.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -322,7 +322,7 @@ As a home seller, how do you know which offer to pick in a multiple offer situat
       
       <item>
         <title>Join Mistys Team:  Were Hiring a Home Selling Specialist!</title>
-        <link>localhost:4000/before-you-decide-to-downsize-from-your.html</link>
+        <link>http://changinglivesthroughrealestate.com/before-you-decide-to-downsize-from-your.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -359,7 +359,7 @@ If this sounds like something that would be of interest to you—to be able to l
 As always, if you have any real estate questions, I’d love to answer them. We’re here to help!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://changinglivesthroughrealestate.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -378,7 +378,7 @@ My team is on the lookout for a good Home Selling Specialist. Joining us comes w
       
       <item>
         <title>When Is the Right Time to Downsize?</title>
-        <link>localhost:4000/central-iowa-real-estate-agent-right.html</link>
+        <link>http://changinglivesthroughrealestate.com/central-iowa-real-estate-agent-right.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -405,7 +405,7 @@ One question we are asked on a pretty regular basis by clients is, “How do I k
 If you have any questions for us or are looking to buy or sell in Des Moines, give us a call or send us an email. We look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+The+Right+Time+to+Downsize+Is.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://changinglivesthroughrealestate.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+The+Right+Time+to+Downsize+Is.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -424,7 +424,7 @@ Before you decide to downsize from your current home, ask yourself these three q
       
       <item>
         <title>How Do Home Warranties Benefit Both Buyers and Sellers?</title>
-        <link>localhost:4000/central-iowa-real-estate-agent-should.html</link>
+        <link>http://changinglivesthroughrealestate.com/central-iowa-real-estate-agent-should.html</link>
         
           <category>Central Iowa Real Estate</category>
         
@@ -455,7 +455,7 @@ Our personal warranty provider is HWA Warranty. They have an awesome platinum wa
 If you have any other questions about how a home warranty can benefit you or anything else related to real estate in Central Iowa, feel free to give me a call or send me an email. I’d be happy to help you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://changinglivesthroughrealestate.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -474,7 +474,7 @@ Why do we recommend that every home buyer or seller gets a home warranty? Here a
       
       <item>
         <title>How to Avoid Surprise Costs When Buying an Iowa Home</title>
-        <link>localhost:4000/central-iowa-real-estate-agent-extra.html</link>
+        <link>http://changinglivesthroughrealestate.com/central-iowa-real-estate-agent-extra.html</link>
         
           <category>Central Iowa Real Estate</category>
         
@@ -507,7 +507,7 @@ All these items are very easy to overcome; it’s all about having the knowledge
 If you have any other questions about the costs of homeownership or you’re thinking about buying or selling a central Iowa home, just give me a call. I’d be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+The+Extra+Hidden+Costs+of+Buying+a+Home.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://changinglivesthroughrealestate.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+The+Extra+Hidden+Costs+of+Buying+a+Home.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -526,7 +526,7 @@ There tend to be a few common costs that buyers overlook when they purchase thei
       
       <item>
         <title>How Do You Know When to Sell Your Home?</title>
-        <link>localhost:4000/central-iowa-real-estate-agent-when.html</link>
+        <link>http://changinglivesthroughrealestate.com/central-iowa-real-estate-agent-when.html</link>
         
           <category>Central Iowa Real Estate</category>
         
@@ -555,7 +555,7 @@ If your house is in a newer neighborhood (e.g., the majority of the homes in the
 When it comes to helping you make the best decision regarding your home sale, we don’t deal in speculation—we strategize based on many different concrete factors. If you have any questions, feel free to reach out to us. We’re here to help!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+When+Should+You+Sell+Your+Home%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://changinglivesthroughrealestate.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+When+Should+You+Sell+Your+Home%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -574,7 +574,7 @@ There is no “right” time to sell your home; however, there are certain facto
       
       <item>
         <title>The Benefits of Our Certified Pre-Owned Home Program</title>
-        <link>localhost:4000/central-iowa-real-estate-agent-our.html</link>
+        <link>http://changinglivesthroughrealestate.com/central-iowa-real-estate-agent-our.html</link>
         
           <category>Central Iowa Real Estate</category>
         
@@ -605,7 +605,7 @@ We’re the only real estate company that offers this program, and we’re thril
 As always, if you have any other questions, please feel free to give me a call or shoot me an email. I look forward to hearing from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Our+Certified+Pre-Owned+Home+Program.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://changinglivesthroughrealestate.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Our+Certified+Pre-Owned+Home+Program.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -624,7 +624,7 @@ Our certified pre-owned home program allows our sellers to have their home pre-i
       
       <item>
         <title>What You Need to Know About Closing Fees</title>
-        <link>localhost:4000/central-iowa-real-estate-agent-home.html</link>
+        <link>http://changinglivesthroughrealestate.com/central-iowa-real-estate-agent-home.html</link>
         
           <category>Central Iowa Real Estate</category>
         
@@ -651,7 +651,7 @@ Whether it’s an attorney or an escrow company that does this, there are simila
 If you have any other questions about how this closing fee works, feel free to reach out to me by phone or email. I look forward to hearing from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Home+Sale+Closing+Fees.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://changinglivesthroughrealestate.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Home+Sale+Closing+Fees.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -670,7 +670,7 @@ If you have any other questions about how this closing fee works, feel free to r
       
       <item>
         <title>What Do Realtor Service Fees Cover? </title>
-        <link>localhost:4000/central-iowa-real-estate-agent-oct-2016.html</link>
+        <link>http://changinglivesthroughrealestate.com/central-iowa-real-estate-agent-oct-2016.html</link>
         
           <category>Central Iowa Real Estate</category>
         
@@ -701,7 +701,7 @@ Part of these service fees go to our marketing and our expertise, and another pa
 As I said, Realtor service fees are only part of the cost of selling your home. If you have any other questions about the cost of selling your home or about real estate in general, give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+What+Do+Realtor+Service+Fees+Cover%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://changinglivesthroughrealestate.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+What+Do+Realtor+Service+Fees+Cover%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -720,7 +720,7 @@ Want to know how much it will cost to sell your home? Ask different agents about
       
       <item>
         <title>Breaking Down the Abstracting Process</title>
-        <link>localhost:4000/central-iowa-real-estate-agent-what-you.html</link>
+        <link>http://changinglivesthroughrealestate.com/central-iowa-real-estate-agent-what-you.html</link>
         
           <category>Central Iowa Real Estate</category>
         
@@ -749,7 +749,7 @@ In other states, title insurance will usually take the place of an abstract. Thi
 If you have any other questions about abstracting or anything else related to real estate, feel free to reach out and give me a call or send me an email. I’d be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+What+You+Need+to+Know+about+Abstracts.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://changinglivesthroughrealestate.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+What+You+Need+to+Know+about+Abstracts.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
