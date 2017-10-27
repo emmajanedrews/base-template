@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are You Asking Agents the Right Questions?
-date: 2017-10-25 11:17:11
+date: 2017-10-25 11:17:00
 tags:
   - Real Estate
 excerpt: >-
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: elrtMCNqUjs
+youtube_code: 4j2-sEdZLsY
 ---
 
 
@@ -37,7 +37,7 @@ Imagine that you needed to get your appendix out. Who would you trust? Would you
 
 {% include pullquote.html %}
 
-The answer is obvious, and this is the same way you should approach your real estate needs.&nbsp;**Someone like myself who sells 150 homes per year and other agents who sell far less may have close to the same commission rate.**&nbsp;So, the only real way to determine which agent will provide you with the best service is by asking key questions.
+The answer is obvious, and this is the same way you should approach your real estate needs. **Someone like myself who sells 150 homes per year and other agents who sell far less may have close to the same commission rate.** So, the only real way to determine which agent will provide you with the best service is by asking key questions.
 
 An agent should be able to show you their experience and results. You need proof of their success and references to confirm their claims.
 
