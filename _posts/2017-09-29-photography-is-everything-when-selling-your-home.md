@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Photography Is Everything When Selling Your Home
-date: 2017-09-29 10:39:51
+date: 2017-09-29 10:39:00
 tags:
   - Real Estate
 excerpt: >-
@@ -11,7 +11,7 @@ enclosure:
 pullquote: Drone photos will highlight your property and the surrounding area.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image:
 youtube_code: iP0HASdQSdY
 ---
