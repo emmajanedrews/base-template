@@ -23,7 +23,7 @@ youtube_code: g8O8yN-0rt0
 
 {% include youtube.html %}
 
-We’d like to help you answer the question, “Is it better to buy or rent a home?” Generally speaking, there are obvious benefits to homeownership. For example, The Fed recently issued their [Survey of Consumer Finances,](https://www.federalreserve.gov/econres/scfindex.htm) in which they observed that homeowners on average have a net worth 36 times higher than that of home renters. From that perspective, the sooner you move into homeownership, the better!
+We’d like to help you answer the question, “Is it better to buy or rent a home?” Generally speaking, there are obvious benefits to homeownership. For example, The Fed recently issued their [Survey of Consumer Finances,](https://www.federalreserve.gov/econres/scfindex.htm){: target="_blank"} in which they observed that homeowners on average have a net worth 36 times higher than that of home renters. From that perspective, the sooner you move into homeownership, the better!
 
 Of course, there are other factors to consider. We’d like you to ask yourself three specific questions in determining whether this is the right time for you to buy a home.
 
