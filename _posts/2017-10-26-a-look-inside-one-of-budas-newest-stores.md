@@ -21,9 +21,9 @@ youtube_code: 'https://youtu.be/yZ63jDaIqLo'
 
 Today I’m excited to be coming to you from one of Buda’s newest stores: Thatcher. To learn a little more about the business and how it began, I spoke with owners Laura Howard and Mel Woods. Laura and Mel both live here In Buda with their families.
 
-According to Mel, she and Laura have always had a dream of working together and supporting their community. **They have a passion for making life simple and for natural cleaning products.** It was this passion that they wanted to bring to Buda.
+According to Mel, she and Laura have always had a dream of working together and supporting their community. **They have a passion for making life simple as well as for natural cleaning products.** It was this passion that they wanted to bring to Buda.
 
-Outside of simply running the store, Mel and Laura also get involved in the community in other ways.{% include pullquote.html %}**On October 25th, they are running a Fall Flower Workshop for pumpkin floral arrangements at the Buda Public Library.**Also, they are hosting a workshop called “BudaFest” on December third for making floral arrangements with mistletoe.
+Outside of simply running the store, Mel and Laura also get involved in the community in other ways.{% include pullquote.html %}**On October 25th, they are running a fall flower workshop for pumpkin floral arrangements at the Buda Public Library.&nbsp;**Also, they are hosting a workshop called “BudaFest” on December 3rd for making floral arrangements with mistletoe.
 
 In the future, they also hope to host future workshops at the store itself.
 
