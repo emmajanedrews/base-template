@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Make Your Cash Work as Hard for You as You Do for It
-date: 2017-10-03 14:45:51
+date: 2017-10-03 14:45:00
 tags:
   - Real Estate
 excerpt: >-
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/travis-chatwin---6-ways-to-make-your-money-youtube.jpg
-youtube_code: 'https://youtu.be/TLorn3lSjdE'
+youtube_code: 'https://youtu.be/pWa49mSsNlk'
 ---
 
 
@@ -41,4 +41,4 @@ Today I want to share the six ways you can achieve just that.
 
 **6. Private reserve banking.** This whole life insurance strategy is designed to develop or improve your financial position. This is achieved by avoiding unnecessary wealth transfers. Imagine if you never had to rely on a bank to finance your life. Only a handful of companies offer these policies, and you’ll want to make sure your agent is well informed about them.
 
-If you have any other questions or would like more information, feel free to give me a call or send me an email. You can also contact me if you have any video ideas. If we use your idea, we will thank you with a gift card. &nbsp;I look forward to hearing from you soon.
+If you have any other questions or would like more information, feel free to give me a call or send me an email. You can also contact me if you have any video ideas. If we use your idea, we will thank you with a gift card.  I look forward to hearing from you soon.
