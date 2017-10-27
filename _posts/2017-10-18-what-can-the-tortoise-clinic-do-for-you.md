@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: gSvos54rbCk
+youtube_code: '-uLhCKx-HdE'
 ---
 
 
@@ -43,6 +43,6 @@ As far as the benefits of acupuncture and eastern medicine, Drew believes the po
 
 Personally, he enjoys helping people boost their fertility. He also says that acupuncture can benefit people emotionally and digestively. Eastern medicine has been around for so long and is largely about your body healing itself through stimulation from acupuncture and herbal medicine.
 
-If you’d like to learn more about the Tortoise Clinic, you can visit their website at [www.TheTortoiseClinic.com](http://www.thetortoiseclinic.com/){:target="_blank"}. To drop by in person, simply go to 2441 US Highway 98 W Unit 111, Santa Rosa Beach. Their phone number is (850) 267-5611. I highly recommend checking them out.
+If you’d like to learn more about the Tortoise Clinic, you can visit their website at [www.TheTortoiseClinic.com](http://www.thetortoiseclinic.com/). To drop by in person, simply go to 2441 US Highway 98 W Unit 111, Santa Rosa Beach. Their phone number is (850) 267-5611. I highly recommend checking them out.
 
 Also, for all of your real estate needs, call The Nathan Abbott Team at (850) 632-0136. I look forward to hearing from you soon.
