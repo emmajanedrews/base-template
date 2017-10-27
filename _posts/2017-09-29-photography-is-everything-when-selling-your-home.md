@@ -12,7 +12,7 @@ pullquote: Drone photos will highlight your property and the surrounding area.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/ron-margolis-screenshot-youtube-2-1.jpg
 youtube_code: iP0HASdQSdY
 ---
 
