@@ -22,7 +22,7 @@ youtube_code: 1bcR94NoepY
 
 {% include youtube.html %}
 
-What are the seven habits of highly effective real estate agents? According to [Stephen Covey and Brandon Doyle,](https://www.inman.com/2017/08/01/7-habits-of-highly-effective-real-estate-agents/) these are the habits every agent should follow:
+What are the seven habits of highly effective real estate agents? According to [Stephen Covey and Brandon Doyle,](https://www.inman.com/2017/08/01/7-habits-of-highly-effective-real-estate-agents/){: target="_blank"} these are the habits every agent should follow:
 
 **1. Be proactive.** If you spend your day reacting to everyone else’s whims, your business will run you instead of the other way around. Make sure that you have time blocks and set boundaries around your time. Be proactive about communicating with your clients so they hear from you every week, instead of waiting to touch base after a problem comes up.
 
