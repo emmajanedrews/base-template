@@ -2,12 +2,12 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Greater Denver Real Estate Podcast With Jeff "Smitty" Smith</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://DenverRealEstateJournal.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://DenverRealEstateJournal.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Home Smiths Team - your professional Denver Real Estate Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Jeff "Smitty" Smith</managingEditor>
-    <lastBuildDate>2017-04-21 16:53:33 -0500</lastBuildDate>
+    <lastBuildDate>2017-10-30 16:00:41 -0500</lastBuildDate>
     <media:copyright>Jeff "Smitty" Smith</media:copyright>
     <media:thumbnail url="/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Denver Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -25,8 +25,45 @@
       <itunes:category text="Education"/>
     
       <item>
+        <title>What’s Been Happening in Our Denver Market Lately?</title>
+        <link>http://DenverRealEstateJournal.com/whats-been-happening-in-our-denver-market-lately.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Jeff "Smitty" Smith</author>
+        <pubDate>2017-10-27 10:03:08 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jeff+Smith/Denver+Real+Estate+Agent-+What%E2%80%99s+Been+Happening+in+Our+Denver+Market+Lately%3F.mp4</guid>
+        <description>
+
+Where is our Denver market headed from a short-term perspective? Let’s look at a few key factors and analyze their numbers.
+
+Inventory for condos and single-family homes for the month of September was at the highest level it’s been since 2013. For single-family homes, there were 7,950 available listings, which was an 8% increase compared to September 2016. For condos, there were 2,075 available listings, which was a 22% increase compared to September 2016.
+
+From August to September, the average sale price of single-family homes dropped from $466,055 to $457,836, but that latter number is still a 5% year-to-date increase from September 2016. For condos, the average sale price also dipped slightly from August to September to $311,157, but year-to-date that’s up 8% compared to September 2016.
+
+“It’s a great time to buy or sell.”
+
+Is demand keeping up with the increase in inventory? Absolutely. By the end of September, there were 35,597 total sales recorded since the beginning of the year, which was a 9% increase compared to the year-to-date total of September 2016. The year-to-date number of sales for condos was 13,095, which was also a 9% increase compared to last year.
+
+Lastly, the average days on market for single-family homes was 28 days, which was pretty close to last year. For condos, the average days on market was 22 days.
+
+Looking back at these numbers, we’re having a tremendous year with one of the highest sale totals we’ve ever recorded. Interest rates are also holding steady right around 4%, which is a historic low. The bottom line is it’s a great time to buy or sell.
+
+If you have any further questions about our Denver market or you’re thinking about buying or selling a home, don’t hesitate to reach out to me. I’d be glad to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jeff+Smith/Denver+Real+Estate+Agent-+What%E2%80%99s+Been+Happening+in+Our+Denver+Market+Lately%3F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://DenverRealEstateJournal.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jeff+Smith/Denver+Real+Estate+Agent-+What%E2%80%99s+Been+Happening+in+Our+Denver+Market+Lately%3F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Inventory is up and so is demand in our market. All in all, it’s a great time to buy or sell.</itunes:subtitle>
+        <itunes:author>Jeff "Smitty" Smith</itunes:author>
+        <itunes:summary>Inventory is up and so is demand in our market. All in all, it’s a great time to buy or sell.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Denver Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>Can You Save Money by Itemizing Your Taxes This Year?</title>
-        <link>localhost:4000/can-you-save-money-by-itemizing-your.html</link>
+        <link>http://DenverRealEstateJournal.com/can-you-save-money-by-itemizing-your.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -48,7 +85,7 @@ Add up that list and compare it to the standard deduction; $6,300 for a single p
 If you have any questions for us or you need a referral for a great accountant to help you out, we’re always here to help. Just give us a call or send us an email soon.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://DenverRealEstateJournal.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -63,7 +100,7 @@ If you have any questions for us or you need a referral for a great accountant t
       
       <item>
         <title>How to Use Real Estate for Retirement</title>
-        <link>localhost:4000/how-to-use-real-estate-for-retirement.html</link>
+        <link>http://DenverRealEstateJournal.com/how-to-use-real-estate-for-retirement.html</link>
         
           <category>Denver Real Estate Tips</category>
         
@@ -91,7 +128,7 @@ Since real estate is something that I understand, I would much rather invest in 
 If you have any other questions about a self-directed IRA or you’re interested in investing in real estate, give me a call or send me an email. I’d be happy to help!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://DenverRealEstateJournal.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -110,7 +147,7 @@ If you are an investor, feel comfortable in real estate, and want to diversify y
       
       <item>
         <title>Why Are We Already Making Pies for Thanksgiving?</title>
-        <link>localhost:4000/why-are-we-already-making-pies-for.html</link>
+        <link>http://DenverRealEstateJournal.com/why-are-we-already-making-pies-for.html</link>
         
           <category>The HomeSmiths Team</category>
         
@@ -128,7 +165,7 @@ The rest of our team is hard at work right now in the kitchen making Thanksgivin
 Keep an eye out in the mail for our postcard, which has all the details about your pie on it. If you haven’t received one yet, or would like to, give us a call or send us an email and we will send one out. We look forward to hearing from you soon.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://DenverRealEstateJournal.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -147,7 +184,7 @@ In the midst of an incredible season in Denver, I wanted to reach out to all of 
       
       <item>
         <title>Avoiding the Capital Gains Tax on Your Home Sale</title>
-        <link>localhost:4000/avoiding-capital-gains-tax-on-your-home.html</link>
+        <link>http://DenverRealEstateJournal.com/avoiding-capital-gains-tax-on-your-home.html</link>
         
           <category>Advice for Denver Sellers</category>
         
@@ -173,7 +210,7 @@ This information will allow you to use all the equity and be able to have more l
 If you’re looking to buy a home, sell a home, or invest in real estate, we’re here with expert advice and guaranteed results. Just give us a call or send us an email and we’d be happy to help.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://DenverRealEstateJournal.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -192,7 +229,7 @@ How do you avoid paying the capital gains tax on the sale of your home?
       
       <item>
         <title>How to Handle a Low Appraisal in the Middle of a Transaction</title>
-        <link>localhost:4000/denver-real-estate-agent-what-if-my.html</link>
+        <link>http://DenverRealEstateJournal.com/denver-real-estate-agent-what-if-my.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -215,7 +252,7 @@ In any event, it’s important to have a real estate expert in your corner to ma
 If you have any questions or concerns regarding a particular topic, drop us a line or send us an email and we’d be happy to cover it for you.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://DenverRealEstateJournal.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -236,7 +273,7 @@ This is a real challenge in our marketplace today. Low appraisals can happen bec
       
       <item>
         <title>12 Questions You Need to Ask Before Hiring an Agent</title>
-        <link>localhost:4000/denver-real-estate-agent-top-12.html</link>
+        <link>http://DenverRealEstateJournal.com/denver-real-estate-agent-top-12.html</link>
         
           <category>Real Estate Tips</category>
         
@@ -270,7 +307,7 @@ What questions do you ask when you are hiring a real estate professional? There 
 If you are interested in one of our reports for more details on these questions, give us a call or send us an email. We would be happy to help you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://DenverRealEstateJournal.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -289,7 +326,7 @@ What questions do you ask when you are hiring a real estate professional? There 
       
       <item>
         <title>Avoid These 7 Costly Mistakes When Selling Your Denver Property</title>
-        <link>localhost:4000/denver-real-estate-agent-7-mistakes-for.html</link>
+        <link>http://DenverRealEstateJournal.com/denver-real-estate-agent-7-mistakes-for.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -332,7 +369,7 @@ Thanks for stopping by! There are several mistakes you want to avoid when moving
 Hopefully, this list of costly issues will be helpful to you and give you a better idea of the right way to get your home sold. As always, we want to thank you for watching our video. We’re here to serve with expert advice and guaranteed results. Give us a call or shoot us an email if you have any questions.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://DenverRealEstateJournal.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -351,7 +388,7 @@ Thanks for stopping by! There are several mistakes you want to avoid when moving
       
       <item>
         <title> How Much Home Can You Afford?</title>
-        <link>localhost:4000/how-much-home-can-you-afford.html</link>
+        <link>http://DenverRealEstateJournal.com/how-much-home-can-you-afford.html</link>
         
           <category>Denver Home Loans</category>
         
@@ -377,7 +414,7 @@ If you are curious as to what kind of home you can afford, click here to use our
 Figuring out what you can afford is the first step you should take in the buying process. Getting pre-approved is crucial in this market. We really appreciate you and are here to serve you with expert advice and guaranteed results. If you have any questions for us, give us a call or send us an email. We look forward to hearing from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://DenverRealEstateJournal.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -396,7 +433,7 @@ Every case is different, but your affordability mostly depends on your income an
       
       <item>
         <title> Tips for Denver Sellers During Home Showings </title>
-        <link>localhost:4000/denver-real-estate-agent-how-to-handle.html</link>
+        <link>http://DenverRealEstateJournal.com/denver-real-estate-agent-how-to-handle.html</link>
         
           <category>Advice for Denver Sellers</category>
         
@@ -422,7 +459,7 @@ We are also going to request feedback. We ask every buyer who looks at your hous
 I also have a quick sheet with tips to help you prepare for your showings. If you are interested, just give me a call or send me an email. I’d be happy to share it with you and answer any other questions you might have!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://DenverRealEstateJournal.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>

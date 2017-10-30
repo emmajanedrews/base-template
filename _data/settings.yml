@@ -26,7 +26,7 @@ client:
   phone2:
   phone2_type:
   email: info@HomeSmiths.com
-  url: TheHomeSmithsTeam.com
+  url: http://TheHomeSmithsTeam.com
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://www.denvercohomeprice.com/'
@@ -34,11 +34,17 @@ CTAs:
   second_CTA_URL: 'https://www.homesmiths.com/results/'
   VR_form: 'http://oi.vresp.com?fid=38908e7fa4'
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/005.jpg
+  - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: Looking to Buy a Home?
     CTA_text: Search the entire MLS for homes located in -- MARKET --.
     CTA_link_text: Home Search Tool
     CTA_url: 'https://www.homesmiths.com/results/'
+second_sidebar_CTA:
+  - CTA_image_path2: /img/cta-images/002.jpg
+    CTA_title2: "What’s Your Denver Home Worth?"
+    CTA_text2: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
+    CTA_link_text2: "Free Home Value Report"
+    CTA_url2: http://www.denvercohomeprice.com/
 lender:
   show_section: true
   headshot_path: 'http://i.imgur.com/p2ft4p6.jpg'

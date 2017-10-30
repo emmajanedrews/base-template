@@ -3,11 +3,40 @@
   <channel>
     <title>-- CLIENT BRAND --</title>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Home Smiths Team - your professional Denver Real Estate Real Estate Agents.</description>
-    <link>localhost:4000/</link>
-    <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 Apr 2017 16:53:33 -0500</pubDate>
-    <lastBuildDate>Fri, 21 Apr 2017 16:53:33 -0500</lastBuildDate>
+    <link>http://DenverRealEstateJournal.com/</link>
+    <atom:link href="http://DenverRealEstateJournal.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 30 Oct 2017 16:00:41 -0500</pubDate>
+    <lastBuildDate>Mon, 30 Oct 2017 16:00:41 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>What’s Been Happening in Our Denver Market Lately?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/LDtTCMhJ1kQ?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Where is our Denver market headed from a short-term perspective? Let’s look at a few key factors and analyze their numbers.&lt;/p&gt;
+
+&lt;p&gt;Inventory for condos and single-family homes for the month of September was at the highest level it’s been since 2013. For single-family homes, there were 7,950 available listings, which was an 8% increase compared to September 2016. For condos, there were 2,075 available listings, which was a 22% increase compared to September 2016.&lt;/p&gt;
+
+&lt;p&gt;From August to September, the average sale price of single-family homes dropped from $466,055 to $457,836, but that latter number is still a 5% year-to-date increase from September 2016. For condos, the average sale price also dipped slightly from August to September to $311,157, but year-to-date that’s up 8% compared to September 2016.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=It’s a great time to buy or sell.%20http://DenverRealEstateJournal.com/whats-been-happening-in-our-denver-market-lately.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“It’s a great time to buy or sell.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Is demand keeping up with the increase in inventory? Absolutely.&lt;/strong&gt; By the end of September, there were 35,597 total sales recorded since the beginning of the year, which was a 9% increase compared to the year-to-date total of September 2016. The year-to-date number of sales for condos was 13,095, which was also a 9% increase compared to last year.&lt;/p&gt;
+
+&lt;p&gt;Lastly, the average days on market for single-family homes was 28 days, which was pretty close to last year. For condos, the average days on market was 22 days.&lt;/p&gt;
+
+&lt;p&gt;Looking back at these numbers, &lt;strong&gt;we’re having a tremendous year with one of the highest sale totals we’ve ever recorded.&lt;/strong&gt; Interest rates are also holding steady right around 4%, which is a historic low. The bottom line is it’s a great time to buy or sell.&lt;/p&gt;
+
+&lt;p&gt;If you have any further questions about our Denver market or you’re thinking about buying or selling a home, don’t hesitate to reach out to me. I’d be glad to help you.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 27 Oct 2017 10:03:08 -0500</pubDate>
+        <link>http://DenverRealEstateJournal.com/whats-been-happening-in-our-denver-market-lately.html</link>
+        <guid isPermaLink="true">http://DenverRealEstateJournal.com/whats-been-happening-in-our-denver-market-lately.html</guid>
+        
+        <category>Market Update</category>
+        
+        
+      </item>
     
       <item>
         <title>Can You Save Money by Itemizing Your Taxes This Year?</title>
@@ -19,15 +48,15 @@
 
 &lt;p&gt;You can also deduct property taxes, but only for the period of time that you’ve owned the home. If you put down less than 20% to buy your home and you have mortgage insurance, it can be itemized as well.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=If your costs exceed the standard deduction amount, you'll save money by itemizing your taxes.%20localhost:4000/can-you-save-money-by-itemizing-your.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“If your costs exceed the standard deduction amount, you’ll save money by itemizing your taxes.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=If your costs exceed the standard deduction amount, you'll save money by itemizing your taxes.%20http://DenverRealEstateJournal.com/can-you-save-money-by-itemizing-your.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“If your costs exceed the standard deduction amount, you’ll save money by itemizing your taxes.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Add up that list and compare it to the standard deduction; $6,300 for a single person or $12,600 if you’re married. If your list of costs exceeds the standard deduction, it makes more sense to itemize your taxes.&lt;/p&gt;
 
 &lt;p&gt;If you have any questions for us or you need a referral for a great accountant to help you out, we’re always here to help. Just give us a call or send us an email soon.&lt;/p&gt;
 </description>
         <pubDate>Mon, 27 Mar 2017 14:01:00 -0500</pubDate>
-        <link>localhost:4000/can-you-save-money-by-itemizing-your.html</link>
-        <guid isPermaLink="true">localhost:4000/can-you-save-money-by-itemizing-your.html</guid>
+        <link>http://DenverRealEstateJournal.com/can-you-save-money-by-itemizing-your.html</link>
+        <guid isPermaLink="true">http://DenverRealEstateJournal.com/can-you-save-money-by-itemizing-your.html</guid>
         
         <category>Home Buyer Tips</category>
         
@@ -44,7 +73,7 @@
 
 &lt;p&gt;What kinds of real estate can you purchase? You can purchase raw land, an apartment building, condos, a rental single-family home, and more.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=The self-directed IRA gives you more control.%20localhost:4000/how-to-use-real-estate-for-retirement.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“The self-directed IRA gives you more control.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=The self-directed IRA gives you more control.%20http://DenverRealEstateJournal.com/how-to-use-real-estate-for-retirement.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“The self-directed IRA gives you more control.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Of course, there are a few rules. I won’t go into all of them today, but here are a few you should be aware of:&lt;/p&gt;
 
@@ -57,8 +86,8 @@ You cannot collect the rents and use them for your personal funds; they have to 
 &lt;p&gt;If you have any other questions about a self-directed IRA or you’re interested in investing in real estate, give me a call or send me an email. I’d be happy to help!&lt;/p&gt;
 </description>
         <pubDate>Tue, 22 Nov 2016 12:04:00 -0600</pubDate>
-        <link>localhost:4000/how-to-use-real-estate-for-retirement.html</link>
-        <guid isPermaLink="true">localhost:4000/how-to-use-real-estate-for-retirement.html</guid>
+        <link>http://DenverRealEstateJournal.com/how-to-use-real-estate-for-retirement.html</link>
+        <guid isPermaLink="true">http://DenverRealEstateJournal.com/how-to-use-real-estate-for-retirement.html</guid>
         
         <category>Denver Real Estate Tips</category>
         
@@ -73,13 +102,13 @@ You cannot collect the rents and use them for your personal funds; they have to 
 
 &lt;p&gt;The rest of our team is hard at work right now in the kitchen making Thanksgiving pies for you all. We will be giving out pies once again this year to show our thanks. We’ll have pumpkin and apple this year, so make sure that you get one!&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Keep an eye out for the postcard in the mail.%20localhost:4000/why-are-we-already-making-pies-for.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Keep an eye out for the postcard in the mail.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Keep an eye out for the postcard in the mail.%20http://DenverRealEstateJournal.com/why-are-we-already-making-pies-for.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Keep an eye out for the postcard in the mail.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Keep an eye out in the mail for our postcard, which has all the details about your pie on it. If you haven’t received one yet, or would like to, give us a call or send us an email and we will send one out. We look forward to hearing from you soon.&lt;/p&gt;
 </description>
         <pubDate>Tue, 08 Nov 2016 12:18:00 -0600</pubDate>
-        <link>localhost:4000/why-are-we-already-making-pies-for.html</link>
-        <guid isPermaLink="true">localhost:4000/why-are-we-already-making-pies-for.html</guid>
+        <link>http://DenverRealEstateJournal.com/why-are-we-already-making-pies-for.html</link>
+        <guid isPermaLink="true">http://DenverRealEstateJournal.com/why-are-we-already-making-pies-for.html</guid>
         
         <category>The HomeSmiths Team</category>
         
@@ -100,15 +129,15 @@ You cannot collect the rents and use them for your personal funds; they have to 
   5. There are title requirements. You have to hold title in both properties. If one property was bought with a company name, for instance, the other has to be in that company’s name too.
   6. You have to reinvest all cash proceeds and purchase at equal or greater value.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Knowing these rules will help you generate more cash flow.%20localhost:4000/avoiding-capital-gains-tax-on-your-home.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Knowing these rules will help you generate more cash flow.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Knowing these rules will help you generate more cash flow.%20http://DenverRealEstateJournal.com/avoiding-capital-gains-tax-on-your-home.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Knowing these rules will help you generate more cash flow.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This information will allow you to use all the equity and be able to have more leverage to buy a bigger home or a different property.&lt;/p&gt;
 
 &lt;p&gt;If you’re looking to buy a home, sell a home, or invest in real estate, we’re here with expert advice and guaranteed results. Just give us a call or send us an email and we’d be happy to help.&lt;/p&gt;
 </description>
         <pubDate>Thu, 18 Aug 2016 14:03:00 -0500</pubDate>
-        <link>localhost:4000/avoiding-capital-gains-tax-on-your-home.html</link>
-        <guid isPermaLink="true">localhost:4000/avoiding-capital-gains-tax-on-your-home.html</guid>
+        <link>http://DenverRealEstateJournal.com/avoiding-capital-gains-tax-on-your-home.html</link>
+        <guid isPermaLink="true">http://DenverRealEstateJournal.com/avoiding-capital-gains-tax-on-your-home.html</guid>
         
         <category>Advice for Denver Sellers</category>
         
@@ -124,7 +153,7 @@ This is a real challenge in our marketplace today. Low appraisals can happen bec
 
 &lt;p&gt;What is the definition of  an appraisal? It’s what a willing buyer and a willing seller come to terms on. The reality, though, is that we have to sell the home and its value to three different groups: the brokers in the marketplace, the buyers themselves, and the bank. The brokers help us find the buyer for your home. The buyers need to believe your value is justified. The bank has to believe in the home’s value because they’re the ones putting up the majority of the money.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=We have to sell the home and its value to three different groups of people.%20localhost:4000/denver-real-estate-agent-what-if-my.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“We have to sell the home and its value to three different groups of people.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=We have to sell the home and its value to three different groups of people.%20http://DenverRealEstateJournal.com/denver-real-estate-agent-what-if-my.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“We have to sell the home and its value to three different groups of people.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;What happens if you get a low appraisal? There are three ways to proceed: the buyer can terminate the offer, the buyer can pay the difference in cash between the appraised price and the purchase price, or the buyer and seller can negotiate.&lt;/p&gt;
 
@@ -133,8 +162,8 @@ This is a real challenge in our marketplace today. Low appraisals can happen bec
 &lt;p&gt;If you have any questions or concerns regarding a particular topic, drop us a line or send us an email and we’d be happy to cover it for you.&lt;/p&gt;
 </description>
         <pubDate>Wed, 27 Jul 2016 17:46:00 -0500</pubDate>
-        <link>localhost:4000/denver-real-estate-agent-what-if-my.html</link>
-        <guid isPermaLink="true">localhost:4000/denver-real-estate-agent-what-if-my.html</guid>
+        <link>http://DenverRealEstateJournal.com/denver-real-estate-agent-what-if-my.html</link>
+        <guid isPermaLink="true">http://DenverRealEstateJournal.com/denver-real-estate-agent-what-if-my.html</guid>
         
         <category>Home Seller Tips</category>
         
@@ -156,7 +185,7 @@ This is a real challenge in our marketplace today. Low appraisals can happen bec
   &lt;li&gt;Do you have a formal and written marketing plan for selling homes? Don’t work with someone who just shoots from the hip. We have a 151-point strategy for selling your home.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Are they proactive about real estate?%20localhost:4000/denver-real-estate-agent-top-12.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Are they proactive about real estate?”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Are they proactive about real estate?%20http://DenverRealEstateJournal.com/denver-real-estate-agent-top-12.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Are they proactive about real estate?”&lt;/a&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;How often will I hear from you, and in what fashion? Make sure you have open communication with your agent throughout the process.&lt;/li&gt;
@@ -170,8 +199,8 @@ This is a real challenge in our marketplace today. Low appraisals can happen bec
 &lt;p&gt;If you are interested in one of our reports for more details on these questions, give us a call or send us an email. We would be happy to help you!&lt;/p&gt;
 </description>
         <pubDate>Thu, 30 Jun 2016 11:13:00 -0500</pubDate>
-        <link>localhost:4000/denver-real-estate-agent-top-12.html</link>
-        <guid isPermaLink="true">localhost:4000/denver-real-estate-agent-top-12.html</guid>
+        <link>http://DenverRealEstateJournal.com/denver-real-estate-agent-top-12.html</link>
+        <guid isPermaLink="true">http://DenverRealEstateJournal.com/denver-real-estate-agent-top-12.html</guid>
         
         <category>Real Estate Tips</category>
         
@@ -196,7 +225,7 @@ This is a real challenge in our marketplace today. Low appraisals can happen bec
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=How you position the property in the market is very important.%20localhost:4000/denver-real-estate-agent-7-mistakes-for.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“How you position the property in the market is very important.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=How you position the property in the market is very important.%20http://DenverRealEstateJournal.com/denver-real-estate-agent-7-mistakes-for.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“How you position the property in the market is very important.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -216,8 +245,8 @@ This is a real challenge in our marketplace today. Low appraisals can happen bec
 &lt;p&gt;Hopefully, this list of costly issues will be helpful to you and give you a better idea of the right way to get your home sold. As always, we want to thank you for watching our video. We’re here to serve with expert advice and guaranteed results. Give us a call or shoot us an email if you have any questions.&lt;/p&gt;
 </description>
         <pubDate>Fri, 17 Jun 2016 08:38:00 -0500</pubDate>
-        <link>localhost:4000/denver-real-estate-agent-7-mistakes-for.html</link>
-        <guid isPermaLink="true">localhost:4000/denver-real-estate-agent-7-mistakes-for.html</guid>
+        <link>http://DenverRealEstateJournal.com/denver-real-estate-agent-7-mistakes-for.html</link>
+        <guid isPermaLink="true">http://DenverRealEstateJournal.com/denver-real-estate-agent-7-mistakes-for.html</guid>
         
         <category>Home Seller Tips</category>
         
@@ -236,7 +265,7 @@ This is a real challenge in our marketplace today. Low appraisals can happen bec
 
 &lt;p&gt;There is a myth out there that you have to have a 20% down payment in order to get a loan. We’ve got programs available for as low as 3% down, and even lower in some cases. Consider this myth busted.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=You can get a loan for 3% or less down!%20localhost:4000/how-much-home-can-you-afford.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“You can get a loan for 3% or less down!”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=You can get a loan for 3% or less down!%20http://DenverRealEstateJournal.com/how-much-home-can-you-afford.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“You can get a loan for 3% or less down!”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Now, loan terms will affect how much your payment is each month and how much you can qualify for. If you want to really knock it out quick, you can get a 10-year or 15-year loan, but most people choose 30-year terms.&lt;/p&gt;
 
@@ -245,8 +274,8 @@ This is a real challenge in our marketplace today. Low appraisals can happen bec
 &lt;p&gt;Figuring out what you can afford is the first step you should take in the buying process. Getting pre-approved is crucial in this market. We really appreciate you and are here to serve you with expert advice and guaranteed results. If you have any questions for us, give us a call or send us an email. We look forward to hearing from you!&lt;/p&gt;
 </description>
         <pubDate>Wed, 27 Apr 2016 09:01:00 -0500</pubDate>
-        <link>localhost:4000/how-much-home-can-you-afford.html</link>
-        <guid isPermaLink="true">localhost:4000/how-much-home-can-you-afford.html</guid>
+        <link>http://DenverRealEstateJournal.com/how-much-home-can-you-afford.html</link>
+        <guid isPermaLink="true">http://DenverRealEstateJournal.com/how-much-home-can-you-afford.html</guid>
         
         <category>Denver Home Loans</category>
         
@@ -263,7 +292,7 @@ This is a real challenge in our marketplace today. Low appraisals can happen bec
 
 &lt;p&gt;When the homeowner is there, the buyer tends to clam up. They don’t talk. They don’t want to offend you. We need the buyer to be open and vocal. We need to hear what they think about the paint colors, the flooring, and the price of the home. That way, we can overcome any objections and get an offer.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Never turn down a showing%20localhost:4000/denver-real-estate-agent-how-to-handle.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Never turn down a showing”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Never turn down a showing%20http://DenverRealEstateJournal.com/denver-real-estate-agent-how-to-handle.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Never turn down a showing”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Most of our showings are going to be set up within a two-hour window. You don’t have to leave for the full two hours. Be ready to go. Have the dog and the kids in the car, and when the buyer shows up, go for a drive around the block. Most showings only take ten minutes. If you’re sitting at the corner waiting for them to leave and they’re taking half an hour, get excited! That means the buyer is likely interested in the property.&lt;/p&gt;
 
@@ -274,8 +303,8 @@ This is a real challenge in our marketplace today. Low appraisals can happen bec
 &lt;p&gt;I also have a quick sheet with tips to help you prepare for your showings. If you are interested, just give me a call or send me an email. I’d be happy to share it with you and answer any other questions you might have!&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Apr 2016 12:26:00 -0500</pubDate>
-        <link>localhost:4000/denver-real-estate-agent-how-to-handle.html</link>
-        <guid isPermaLink="true">localhost:4000/denver-real-estate-agent-how-to-handle.html</guid>
+        <link>http://DenverRealEstateJournal.com/denver-real-estate-agent-how-to-handle.html</link>
+        <guid isPermaLink="true">http://DenverRealEstateJournal.com/denver-real-estate-agent-how-to-handle.html</guid>
         
         <category>Advice for Denver Sellers</category>
         
