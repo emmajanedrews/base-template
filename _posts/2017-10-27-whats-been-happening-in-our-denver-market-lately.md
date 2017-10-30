@@ -28,7 +28,7 @@ From August to September, the average sale price of single-family homes dropped 
 
 {% include pullquote.html %}
 
-**Is demand keeping up with the increase in inventory? Absolutely.** By the end of September, there were 35,597 total sales recorded since the beginning of the year, which a 9% increase compared to the year-to-date total of September 2016. The year-to-date number of sales for condos was 13,095, which was also a 9% increase compared to last year.
+**Is demand keeping up with the increase in inventory? Absolutely.** By the end of September, there were 35,597 total sales recorded since the beginning of the year, which was a 9% increase compared to the year-to-date total of September 2016. The year-to-date number of sales for condos was 13,095, which was also a 9% increase compared to last year.
 
 Lastly, the average days on market for single-family homes was 28 days, which was pretty close to last year. For condos, the average days on market was 22 days.
 
