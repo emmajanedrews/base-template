@@ -3,9 +3,10 @@ layout: post
 title: What Makes Fall Such a Good Time to List?
 tags:
   - Home Seller Tips
-date: 2017-10-23 15:15:09
+date: 2017-10-23 15:15:00
 excerpt: The fall can be a great time to sell. Let’s go over some reasons why.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Chris+Gorman/Videos/Oct/Triangle+Area+Real+Estate-+The+Hidden+Benefits+of+Listing+in+Fall.mp4
 pullquote: The fall can be a great time to sell.
 enclosure_type: video/mp4
 enclosure_time:
