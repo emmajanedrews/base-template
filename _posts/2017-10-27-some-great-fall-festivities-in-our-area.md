@@ -25,13 +25,13 @@ There are some great places in our area to take the family for some fall fun.
 
 When it comes to seasonal festivities, **one of my personal favorites is something most people know about: Shadybrook Farm’s PumpkinFest.**
 
-But, I’ve also got a recommendation that might not be so familiar. Another great place I recommend is Eastburn Farms, located on Dorm Road in Newtown. Eastburn Farms is family-operated, and was actually started as a hobby.
+But, I’ve also got a recommendation that might not be so familiar. Another great place I recommend is Eastburn Farms, located on Dorm Road in Newtown. Eastburn Farms is family operated, and was actually started as a hobby.
 
 However, even now that it’s grown into something much bigger than a hobby, you can still expect to be treated with a lot of personal care.
 
 {% include pullquote.html %}
 
-The attention to detail that is put into Eastburn Farms is obvious in everything they do. They’ve got a wide variety and selection of pumpkins, **from Jarrahdale to Cinderella to your typical Jack-o’-Lantern style, and more.**They’ve also got a variety of squash, which are great for cooking.
+The attention to detail that is put into Eastburn Farms is obvious in everything they do. They’ve got a wide variety and selection of pumpkins, **from Jarrahdale to Cinderella to your typical Jack-o’-Lantern style, and more.** They’ve also got a variety of squash, which are great for cooking.
 
 I hope all of you have a great time taking advantage of our area’s fall festivities. Happy Halloween!
 
