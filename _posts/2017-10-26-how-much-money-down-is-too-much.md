@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/no-pb-1.jpg
+youtube_alternate_image: /uploads/kristin-jamieson-ss-noplay.jpg
 youtube_code: 3TsJ4i-89HQ
 ---
 
