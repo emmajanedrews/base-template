@@ -28,7 +28,7 @@ youtube_code: VZjgnJZEy7Y
 I wanted to touch on two important topics briefly today, starting with the question of how much your employees need to save to successfully retire. We'll then address the 'Rule of 72,' which gives you the ability to figure out how long it will take for your investments to double in value, as well how long it will take social security to eat into your spending power.<br>&nbsp;<br>In general, we tell people you need to save 10% to retire. It's a little more complicated than that though because you need to figure out what percentage of your current income you need. We call this the 'income replacement ratio' or 'income replacement formula.' &nbsp;
 {: .present-before-paste}
 
-As a hypothetical scenario, let’s say we had a 40-year-old worker who makes $50,000 a year and knows he wants to retire at 66. It sounds simple to just say he needs 80% of his income—$40,000—but you have to consider inflation.** Inflation chews into your spending power.** We know we have inflation to battle against, but how?
+As a hypothetical scenario, let’s say we had a 40-year-old worker who makes $50,000 a year and knows he wants to retire at 66. It sounds simple to just say he needs 80% of his income—$40,000—but you have to consider inflation. **Inflation chews into your spending power.**&nbsp;We know we have inflation to battle against, but how?
 {: .present-before-paste}
 
 {% include pullquote.html %} &nbsp;
