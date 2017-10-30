@@ -5,7 +5,8 @@ date: 2017-10-26 15:37:00
 tags:
   - Market Update
 excerpt: 'Today I met with two local business owners to discuss their store: Thatcher.'
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Karlyn+Ellis/Sept+17/Buda%252C+Texas+Real+Estate-+Have+You+Been+to+Thatcher%253F.mp4
 pullquote: >-
   Mel and Laura have always had a dream of working together and supporting their
   community.
@@ -23,7 +24,7 @@ Today I’m excited to be coming to you from one of Buda’s newest stores: That
 
 According to Mel, she and Laura have always had a dream of working together and supporting their community. **They have a passion for making life simple as well as for natural cleaning products.** It was this passion that they wanted to bring to Buda.
 
-Outside of simply running the store, Mel and Laura also get involved in the community in other ways.{% include pullquote.html %}**On October 25th, they are running a fall flower workshop for pumpkin floral arrangements at the Buda Public Library.&nbsp;**Also, they are hosting a workshop at BudaFest on December 3rd for making floral arrangements with mistletoe.
+Outside of simply running the store, Mel and Laura also get involved in the community in other ways.{% include pullquote.html %}**On October 25th, they are running a fall flower workshop for pumpkin floral arrangements at the Buda Public Library.**Also, they are hosting a workshop at BudaFest on December 3rd for making floral arrangements with mistletoe.
 
 In the future, they also hope to host future workshops at the store itself.
 
