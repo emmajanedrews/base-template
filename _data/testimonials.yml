@@ -1,5 +1,14 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
-    audio:
+  - quote: It was very positive. I was looking for a condominium and they found me this condo right away. They knew exactly what I was looking for and then it just moved quickly. They showed me some other units but I kept coming back to this one. And the closing, everything, they took care of everything. I had been working with a real estate agent previously, prior to contacting Peak, and it was a completely different company. It was like pulling teeth with this man to take some time to show me some property, because it’s all over town. On a long drive, Denver's really kind of sprawled out. And Jason was willing to take the time and we just kept at it.
+    name: Jack VanHeesch
+    audio: /uploads/audio/jack.mp3
+  - quote: It’s a crazy market there in Denver, so it took a little while. We tried to get in a house and look at them, but she was as available to me as she could be. She took me out to a new build area in Commerce City and we ended up getting it there. It was a life-saver. I don’t know where we’d be if we hadn’t found that place. At one site, we got there and signed the offer. She took me to their finance guy and he came in late in the game and still got me in there. They all did great. No complaints.
+    name: Andrew Cassidy
+    audio: /uploads/audio/andrew.mp3
+  - quote: Everything seemed to go pretty much like clockwork without any sort of problems. The gentleman we had, Jesse, and he was more of the realtor but he really seemed to help along with Chrissy Hickey and Kamie Randall and they both seemed to work well with any concerns I had that I emailed, they would tell me not to worry about it. And, everything worked out, actually this was our fourth house and it was probably the easiest.
+    name: Rick Sticka
+    audio: /uploads/audio/rick.mp3
+  - quote: I got a house and I got a house that I loved. Jason was my realtor and in every instance working with him was amazing. He was simply just wonderful to work with. When we were looking at houses he was fun to be around, he was easy to talk to, and it was easy for me to tell him what I did or didn’t like. He took all that under advisement and would then find houses based on what I had told him and sometimes even sometimes based on what I didn’t tell him, just by the looks on my face he could tell what my thoughts were So, he was able to use the input I would give him to find the right houses to for me look at.
+    name: Bruce Romero
+    audio: /uploads/audio/bruce.mp3
