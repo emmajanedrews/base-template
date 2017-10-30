@@ -32,18 +32,18 @@ CTAs:
   VR_form: http://oi.vresp.com?fid=590cc0a696
 
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
-    CTA_url: http://www.centraliahomevalues.com/
+  - CTA_image_path: /img/cta-images/006.jpg
+    CTA_title: "Looking to Build Your Real Estate Career?"
+    CTA_text: "Let's talk about how we can take your business to new heights."
+    CTA_link_text: "Request a Free Strategy Session"
+    CTA_url: /contact/
 
-second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: https://mistysold.searchcentraliowahomes.com/
+# second_sidebar_CTA:
+#   - CTA_image_path2: /img/cta-images/005.jpg
+#     CTA_title2: "Looking for a -- MARKET -- Home?"
+#     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
+#     CTA_link_text2: "Search the MLS"
+#     CTA_url2: https://mistysold.searchcentraliowahomes.com/
 
 lender:
   show_section: false
