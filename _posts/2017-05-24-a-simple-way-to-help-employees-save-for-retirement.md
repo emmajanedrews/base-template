@@ -40,4 +40,4 @@ This is where the Rule of 72 comes in. We can use this rule to engineer what you
 &nbsp;
 {: .present-before-paste}
 
-<div><em>(Securities and advisory services offered through FSC Securities Corporation, member FINRA/SIPC. Michigan 401k and Financial Independence are marketing names.)</em></div>
+<div><em>(Securities and advisory services offered through FSC Securities Corporation, member FINRA/SIPC. Michigan 401(k) and Financial Independence are marketing names.)</em></div>
