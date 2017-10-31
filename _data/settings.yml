@@ -1,5 +1,5 @@
 audit_header: false
-title: -- CLIENT BRAND --
+title: Baltimore Real Estate Video Blog with Seth and Alyce Dailey
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -15,10 +15,10 @@ client:
   brand: The Dailey Group
   brokerage: Keller Williams Gateway
   address: 8015 Corporate Drive, Suite C<br>Baltimore, MD 21236
-  phone: 443-267-2435
-  phone_type: Direct
-  phone2: 800-214-1245
-  phone2_type: Office
+  phone: 800-214-1245
+  phone_type: Office
+  phone2:
+  phone2_type:
   email: Hello@TheDaileyGroup.com
   # email_type: Seth
   # email2: Alyce@TheDaileyGroup.com
@@ -30,7 +30,7 @@ CTAs:
   first_CTA_URL: https://www.thedaileygroup.com/home-valuation/
   second_CTA_text: Home Search
   second_CTA_URL: https://www.thedaileygroup.com/
-  VR_form: http://oi.vresp.com?fid=f596820ea0
+  VR_form:
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
@@ -82,7 +82,7 @@ socials:
   podcast_url:
 
 podcast:
-  title:
+  title: Baltimore Real Estate Podcast with Seth and Alyce Dailey
   categories: Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
