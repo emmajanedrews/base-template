@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s Been Happening in Our Denver Market Lately?
-date: 2017-10-27 15:03:08
+date: 2017-10-27 15:03:00
 tags:
   - Market Update
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/market-update-youtube.jpg
-youtube_code: LDtTCMhJ1kQ
+youtube_code: Ujzto6yt060
 ---
 
 
