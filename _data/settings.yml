@@ -18,7 +18,7 @@ client:
   brokerage: RE/MAX Platinum
   address: 2000 Market St, Suite 1470<br>Philadelphia, PA 19103
   address1: 49 W Lancaster Ave<br>Ardmore, PA 19003
-  phone: 267-288-8079
+  phone: 267-982-2880
   phone_type: Office
   phone2: 610-649-4181
   phone2_type: Broker
@@ -29,7 +29,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: http://www.salasteamrealestate.com/sell/what-is-my-home-worth
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.salasteamrealestate.com/search/criteria/s_2
+  second_CTA_URL: http://www.salasteamrealestate.com/our-homes
   VR_form:
 
 sidebar_CTA:
@@ -44,7 +44,7 @@ second_sidebar_CTA:
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: http://www.salasteamrealestate.com/search/criteria/s_2
+    CTA_url2: http://www.salasteamrealestate.com/our-homes
 
 lender:
   show_section: false
