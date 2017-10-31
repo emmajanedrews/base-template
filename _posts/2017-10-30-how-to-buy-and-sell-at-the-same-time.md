@@ -22,15 +22,15 @@ youtube_code: 'https://youtu.be/If4EkA7O3yE'
 
 {% include youtube.html %}
 
-Today, I want to go over a situation that is common among my clients. Many people I work with wonder how they can deal with the issue of buying and selling at the same time.
+Today I want to go over a situation that is common among my clients. Many people I work with wonder how they can deal with the issue of buying and selling at the same time.
 
-There are actually a few different options for people in this kind of situation. The first and least effective option is to go out and find your next home, without already having yours under contract.
+There are actually a few different options for people in this kind of situation. The first and least effective option is to go out and find your next home without already having yours under contract.
 
 **Writing an offer on a home that is contingent on the sale of your house before you have a buyer lined up is something I don’t really recommend.**
 
-Then there’s the second option, which is to list your current property, find a buyer, come to an agreement, go under contract, and set a closing date.After that, you can go out and find your next house. When you’ve found the right property, you will write a contingent offer.
+Then there’s the second option, which is to list your current property, find a buyer, come to an agreement, go under contract, and set a closing date. After that, you can go out and find your next house. When you’ve found the right property, you will write a contingent offer.
 
-The difference with this second option is that you can let the seller of your next home know that you already have a qualified buyer lined up, so that they can feel assured your deal isn’t going to take forever or fall through.
+The difference with this second option is that you can let the seller of your next home know that you already have a qualified buyer lined up. This way, they can feel assured your deal isn’t going to take forever or fall through.
 
 {% include pullquote.html %}
 
