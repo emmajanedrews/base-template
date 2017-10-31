@@ -11,7 +11,7 @@ pullquote: Let in as much light as possible.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/oct-4-noplay.jpg
+youtube_alternate_image: /uploads/no-pb.jpg
 youtube_code: kZXyCwrT05w
 ---
 
