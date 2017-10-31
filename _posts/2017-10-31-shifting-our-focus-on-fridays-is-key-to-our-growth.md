@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shifting Our Focus on Fridays Is Key to Our Growth
-date: 2017-10-31 10:58:05
+date: 2017-10-31 10:58:00
 tags:
 excerpt: We spend Fridays focused on big deals. Here’s what I mean by that.
 enclosure: >-
@@ -12,7 +12,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/10-24-17youtube.jpg
 youtube_code: k7NxYfFCQaI
 ---
 
