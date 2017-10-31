@@ -26,6 +26,6 @@ A lot of prospective home sellers have been asking me lately if they should list
 
 **2. Serious buyers.** In Fargo, we only really get three to four months of actual summer. That’s when a lot of people take vacations and get ready for school. By listing now, you can take advantage of those serious homebuyers who need to be in a home by the holiday season.
 
-**3. Fall and holiday decorations.** With Thanksgiving, and Christmas coming up, you have ample opportunity to make your home as attractive as possible to potential buyers. When homes are decorate for the holidays, buyers also tend to become more emotional, which makes them more likely to make an offer.
+**3. Fall and holiday decorations.** With Thanksgiving and Christmas coming up, you have ample opportunity to make your home as attractive as possible to potential buyers. When homes are decorated for the holidays, buyers also tend to become more emotional, which makes them more likely to make an offer.
 
 If you have any questions for us or want to learn more about why fall is such a good time to sell your home, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
