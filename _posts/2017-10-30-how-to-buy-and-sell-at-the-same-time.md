@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Buy and Sell at the Same Time
-date: 2017-10-30 16:48:59
+date: 2017-10-30 16:48:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/joe-desane--buying-and-selling-youtube.jpg
-youtube_code: 'https://youtu.be/Mr0-gWANlDE'
+youtube_code: 'https://youtu.be/If4EkA7O3yE'
 ---
 
 
