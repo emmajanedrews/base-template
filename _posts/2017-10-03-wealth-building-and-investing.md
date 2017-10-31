@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Make Your Cash Work as Hard for You as You Do for It
+title: Wealth Building and Investing
 date: 2017-10-03 14:45:00
 tags:
   - Real Estate
