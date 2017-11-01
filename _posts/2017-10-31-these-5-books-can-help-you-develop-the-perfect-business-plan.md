@@ -32,7 +32,7 @@ Another book I think you should check out is “SMART Goals” by Jacob Gudger. 
 
 But in order to reach these goals, you’ll need a strategic plan. For this, I recommend reading “Mastering the Rockefeller Habits” by Vern Harnish. (You could also read “Traction” by Gino Wickman, and/or “Rocket Fuel” by Gino Wickman and Marc C. Winters.)
 
-Next, you want to consider the time frame. Develop your plan for moving forward by dividing goals and projects into the next one, three, and five years.** If you just develop three to five goals you need to accomplish each quarter, you will reach your goal in five years.** Gary Keller’s “The One Thing” is a good read that covers this subject.
+Next, you want to consider the time frame. Develop your plan for moving forward by dividing goals and projects into the next one, three, and five years. **If you just develop three to five goals you need to accomplish each quarter, you will reach your goal in five years.** Gary Keller’s “The One Thing” is a good read that covers this subject.
 
 The final thing you should do is to develop systems and processes. The best thing you can do is to stay in production, but hire an admin to help you develop these things while you’re continuing to produce.
 
