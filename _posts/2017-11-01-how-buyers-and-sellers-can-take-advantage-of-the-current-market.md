@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/SwUZvRZa-TU'
 
 {% include youtube.html %}
 
-It’s been a little while since we’ve given you an update on the northern Virginia real estate market, so we thought now would be as good a time as any to run through the latest news and information with you. Right now, there is good news for buyers and sellers in the market. **Interest rates are still at historic lows and we continue to see a low level of inventory.**
+It’s been a little while since we’ve given you an update on the Northern Virginia real estate market, so we thought now would be as good a time as any to run through the latest news and information with you. Right now, there is good news for buyers and sellers in the market. **Interest rates are still at historic lows and we continue to see a low level of inventory.**
 
 Buyers can take advantage of these low interest rates and lock them in for 10, 15 or 30 years. They can also take advantage of the fact that there are much fewer buyers out in the market during this time of year than in the spring or summer.<br><br>Sellers benefit from the limited supply, first and foremost.&nbsp;**Buyers will pay a premium in this market for well-priced homes in good condition.&nbsp;**There’s a huge advantage to selling now.
 
