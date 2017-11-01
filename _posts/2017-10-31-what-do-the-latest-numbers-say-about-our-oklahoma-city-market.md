@@ -19,7 +19,7 @@ youtube_code: li-BOCITpwM
 
 We just received our final numbers from September, and they confirm some hunches we’ve had about our Oklahoma City market recently.
 
-Year-to-date, our level of inventory is up 8.6% and our number of closed sales are up 4.6%. **New listings hitting the market continue to outpace sold properties, so we might see a shift toward a buyer’s market coming soon.** We thought as much back in September, and these numbers prove that notion.
+Year to date, our level of inventory is up 8.6% and our number of closed sales are up 4.6%. **New listings hitting the market continue to outpace sold properties, so we might see a shift toward a buyer’s market coming soon.** We thought as much back in September, and these numbers prove that notion.
 
 {% include pullquote.html %}
 
