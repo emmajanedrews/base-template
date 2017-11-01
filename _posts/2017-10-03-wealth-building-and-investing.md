@@ -41,4 +41,4 @@ Today I want to share the six ways you can achieve just that.
 
 **6. Private reserve banking.** This whole life insurance strategy is designed to develop or improve your financial position. This is achieved by avoiding unnecessary wealth transfers. Imagine if you never had to rely on a bank to finance your life. Only a handful of companies offer these policies, and you’ll want to make sure your agent is well informed about them.
 
-If you have any other questions or would like more information, feel free to give me a call or send me an email. You can also contact me if you have any video ideas. If we use your idea, we will thank you with a gift card.  I look forward to hearing from you soon.
+If you have any other questions or would like more information, feel free to give me a call or send me an email. You can also contact me if you have any video ideas. If we use your idea, we will thank you with a gift card. &nbsp;I look forward to hearing from you soon.
