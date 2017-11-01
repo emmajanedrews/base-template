@@ -7,19 +7,19 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Client
   license_number:
   about_markdown: |
 
-  market:
-  brand:
+  market: Omaha
+  brand: Vyral Marketing
   brokerage:
-  address:
-  phone:
+  address: '3205 North 90th Street #202 Omaha, Nebraska 68134'
+  phone: 402-496-3367
   phone_type:
   phone2:
   phone2_type:
-  email:
+  email: emma@getvyral.com
   url:
 
 CTAs:

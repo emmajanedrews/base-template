@@ -2665,7 +2665,7 @@ table tr, table td {
   color: #555;
   padding: 2rem;
   margin: 10% auto;
-  width: 90%;
+  width: 75%;
   max-width: 50rem;
   -webkit-animation: slide 0.5s;
           animation: slide 0.5s;
@@ -2699,6 +2699,12 @@ table tr, table td {
 @media (max-width: 500px) {
   .contact-modal {
     margin: 25% auto; } }
+.contact {
+  font-size: 24px;
+  margin-bottom: 20px;
+  margin-left: 13%;
+  margin-top: 20px; }
+
 form label {
   display: block; }
 form textarea {
@@ -2727,10 +2733,10 @@ form select {
       border: 3px solid #fe1d1d; }
 
 .contact-form {
-  width: 100%;
-  margin-bottom: 0; }
+  width: 75%;
+  margin: 0 auto; }
   .contact-form input, .contact-form textarea {
-    width: 100%;
+    width: 75%;
     border: 1px solid gray;
     -webkit-transition: 0.3s;
     transition: 0.3s; }
