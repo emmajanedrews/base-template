@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/travis-chatwin---6-ways-to-make-your-money-youtube.jpg
-youtube_code: 'https://youtu.be/xq-U-mHd-ww'
+youtube_code: 'https://youtu.be/WTueDwcebfg'
 ---
 
 
