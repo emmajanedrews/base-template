@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Look at Houston's Post-Harvey Market
-date: 2017-11-01 11:50:40
+date: 2017-11-01 11:50:00
 tags:
   - Market Update
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/mike-gray-post-harvey-market-youtube.jpg
-youtube_code: 'https://youtu.be/PAjJPAmSN84'
+youtube_code: 'https://youtu.be/1PJBYDeqOMk'
 ---
 
 
