@@ -1,12 +1,14 @@
 ---
 layout: post
 title: What Do the Latest Numbers Say About Our Oklahoma City Market?
-date: 2017-10-31 10:14:45
+date: 2017-10-31 10:14:00
 tags:
 excerpt: 'According to the latest numbers, we’re seeing a shift toward a buyer’s market.'
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Zach+Sikes/Homestead+%2526+Co-+What+Do+the+Latest+Numbers+Say+About+Our+Oklahoma+City+Market%253F.mp4
-pullquote: There are a lot more homes hitting the market and a lot fewer homes being sol
+pullquote: >-
+  There are a lot more homes hitting the market and a lot fewer homes being
+  sold.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
