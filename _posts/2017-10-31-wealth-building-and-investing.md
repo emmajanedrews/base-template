@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/travis-chatwin-wealth-building-video-youtube-2.jpg
-youtube_code: 'https://youtu.be/xq-U-mHd-ww'
+youtube_code: 'https://youtu.be/WTueDwcebfg'
 ---
 
 
