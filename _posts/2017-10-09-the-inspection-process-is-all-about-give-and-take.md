@@ -8,7 +8,8 @@ excerpt: >-
   Today’s topic is one that is near and dear to my heart: inspections. This
   subject is loaded with expectations. For right now, I’d like to cover it from
   the buyer’s perspective.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520What%2520to%2520expect%2520from%2520an%2520inspection.mp4
 pullquote: 'With the right person by your side, inspections don’t need to be scary.'
 enclosure_type: video/mp4
 enclosure_time:
