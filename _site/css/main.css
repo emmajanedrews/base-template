@@ -2763,8 +2763,8 @@ form select {
       border: 3px solid #454bc9; }
 
 .contact-form {
-  width: 100%;
-  margin-bottom: 0; }
+  width: 75%;
+  margin-left: 13%; }
   .contact-form input, .contact-form textarea {
     width: 100%;
     border: 1px solid gray;
@@ -2792,6 +2792,12 @@ form select {
       box-shadow: 0 0 0 #262a82;
       -webkit-transform: translateY(0rem);
       transform: translateY(0rem); }
+
+.contact {
+  font-size: 24px;
+  margin-bottom: 20px;
+  margin-left: 13%;
+  margin-top: 20px; }
 
 .newsletter {
   background: #262a82;
