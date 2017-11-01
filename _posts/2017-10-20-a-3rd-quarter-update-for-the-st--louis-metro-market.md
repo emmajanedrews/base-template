@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: iBmElp_AaDE
+youtube_code: ZCUK1zy9hZ4
 ---
 
 
@@ -23,7 +23,7 @@ youtube_code: iBmElp_AaDE
 
 It’s time for another market update. Today, I want to bring you some information from the third quarter of 2017 in St. Louis’ metro market. This update will include data from St. Louis City, St. Louis County, and Charles County.
 
-**St. Louis City saw an uptick of $10,000 in the median sales price this year compared to last.&nbsp;**In 2016, there were 1,024 sales in the third quarter. This year, there were 1,034 sales.
+**St. Louis City saw an uptick of $10,000 in the median sales price this year compared to last.**In 2016, there were 1,024 sales in the third quarter. This year, there were 1,034 sales.
 
 In St. Louis County, there were 4,428 sales this year. This is up from 4,340 sales last year. However, median sales price barely changed. Last year it was $190,554. This year, the median sales price for the third quarter was $191,333.
 
