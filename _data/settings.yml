@@ -9,7 +9,8 @@ custom_links:
     url: /agents/
   - title: Webinars
     url: /webinars/
-
+  - title: Training
+    url: /training/
 client:
   name: Tom Nickley
   license_number:
