@@ -20,9 +20,9 @@ youtube_code: bW_7BOq_nYU
 
 {% include youtube.html %}
 
-What’s the worst thing you can hear from a Realtor® that you hire? Maybe you think it’s something about how they have never sold a house before or how they promised you a price that wasn’t real.
+What’s the worst thing you can hear from a Realtor&reg; that you hire? Maybe you think it’s something about how they have never sold a house before or how they promised you a price that wasn’t real. However, agents can always reduce a price or get coaching for guidance through a transaction, but it is very difficult to change a lack in mentality.
 
-However, I think the worst possible thing you can hear from the professional agent you hire is, **“I really need this deal to happen.”**
+I think the worst possible thing you can hear from the professional agent you hire is, **“I really need this deal to happen.”**
 
 {% include pullquote.html %}
 
