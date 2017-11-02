@@ -24,9 +24,7 @@ Today I’m going to talk about the six reasons why employees leave their organi
 
 The six main reasons for which an employee will leave their organizations are: challenge, location, advancement, money, people, and stability.
 
-1. **Challenge.** Most employees want to feel challenged by the job that they’re doing. If they’re doing something monotonous, be sure to have some element the company can put in that will make the employee feel successful and accomplished.
-
-<br>2. **Location.** Make it as easy as possible for employees to get to work. If you have an employee who lives far from their office, consider enacting the ability to do telecommuting, while making it as streamlined as possible to get to the location.<br><br>3. **Advancement.** Employees want to feel like they have a path to excel in an organization and also have different areas where they can grow to fill different roles and have different responsibilities.
+1. **Challenge.** Most employees want to feel challenged by the job that they’re doing. If they’re doing something monotonous, be sure to have some element the company can put in that will make the employee feel successful and accomplished.<br><br>2. **Location.** Make it as easy as possible for employees to get to work. If you have an employee who lives far from their office, consider enacting the ability to do telecommuting, while making it as streamlined as possible to get to the location.<br><br>3. **Advancement.** Employees want to feel like they have a path to excel in an organization and also have different areas where they can grow to fill different roles and have different responsibilities.
 
 {% include pullquote.html %}
 
