@@ -7,7 +7,8 @@ excerpt: >-
   Today I’m super excited to bring you a look at a place my family and I have
   been visiting for years: the Tortoise Clinic. The acupuncture and herbal
   medicine they provide here are both absolutely amazing.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Nathan+Abbott/Nathan+Abbott+Team-+What+can+acupuncture+really+do%253F.mp4
 pullquote: >-
   The possibilities for what Eastern medicine can achieve are as broad as the
   field itself.
