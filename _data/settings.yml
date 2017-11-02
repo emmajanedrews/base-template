@@ -12,7 +12,7 @@ custom_links:
   - title: Fort Collins
     url: https://www.milehighhomeguide.com/results-gallery/?city=37925~3218&sort=importdate&status=A
   - title: Greeley
-    url: https://www.milehighhomeguide.com/results-gallery/?city=37925~3218%2C37898~3298&sort=importdate&status=A
+    url: https://www.milehighhomeguide.com/results-gallery/?city=37898~3298&sort=importdate&status=A
 
 client:
   name: Alex Tooke
@@ -55,7 +55,7 @@ second_sidebar_CTA:
     CTA_link_text4: "Fort Collins"
     CTA_url4: https://www.milehighhomeguide.com/results-gallery/?city=37925~3218&sort=importdate&status=A
     CTA_link_text5: "Greeley"
-    CTA_url5: https://www.milehighhomeguide.com/results-gallery/?city=37925~3218%2C37898~3298&sort=importdate&status=A
+    CTA_url5: https://www.milehighhomeguide.com/results-gallery/?city=37898~3298&sort=importdate&status=A
 
 lender:
   show_section: false
@@ -120,7 +120,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: rgba(102, 102, 102, .5)
+  shadow_color: rgb(88, 103, 139)
 
 buttons:
   button_radius_number: 0
