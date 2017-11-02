@@ -19,7 +19,7 @@ youtube_code: eH71h0am6K8
 
 {% include youtube.html %}
 
-I’m out at one of my newest listings in the Buena Creek area of Vista (756 Valley Crest Drive) to meet with a few agents who will be showing the property. I thought it would be a good time for me to answer a common question I’ve been getting, “Who should be present when my home is being shown?”
+I’m out at one of my newest listings in the Buena Creek area of Vista (756 Valley Crest Drive) to meet with a few agents who will be showing the property. I thought it would be a good time for me to answer a common question I’ve been getting: “Who should be present when my home is being shown?”
 
 **If you’re a homeowner, I recommend that you find something else to do while your home is being shown.** From my own experience, when sellers are present at showings it makes buyers feel uncomfortable. They don’t explore as much, they don’t ask as many questions, and they aren’t as honest with their feedback.
 
