@@ -1,10 +1,18 @@
 audit_header: false
 title: -- CLIENT BRAND --
 description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional Real Estate Agents.'
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: Home Valuation
+    url: https://www.milehighhomeguide.com/home-valuation/
+  - title: Colorado Springs
+    url: https://www.peakpropertiescos.com/results-gallery/?city=11601
+  - title: Denver
+    url: https://www.milehighhomeguide.com/results-gallery/?citylike=denver
+  - title: Fort Collins
+    url: https://www.milehighhomeguide.com/results-gallery/?city=37925~3218&sort=importdate&status=A
+  - title: Greeley
+    url: https://www.milehighhomeguide.com/results-gallery/?city=37925~3218%2C37898~3298&sort=importdate&status=A
 
 client:
   name: Alex Tooke
@@ -23,10 +31,10 @@ client:
   url: http://www.milehighhomeguide.com
 
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: https://www.milehighhomeguide.com/home-valuation/
-  second_CTA_text: Home Search
-  second_CTA_URL: https://www.milehighhomeguide.com/results/?status=A
+  # first_CTA_text: Home Valuation
+  # first_CTA_URL: https://www.milehighhomeguide.com/home-valuation/
+  # second_CTA_text: Home Search
+  # second_CTA_URL: https://www.milehighhomeguide.com/results/?status=A
   VR_form: http://oi.vresp.com?fid=b41490800b
 
 sidebar_CTA:
@@ -40,8 +48,14 @@ second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a Home?"
     CTA_text2: "Search the entire MLS for your home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: https://www.milehighhomeguide.com/results/?status=A
+    CTA_link_text2: "Colorado Springs"
+    CTA_url2: https://www.peakpropertiescos.com/results-gallery/?city=11601
+    CTA_link_text3: "Denver"
+    CTA_url3: https://www.milehighhomeguide.com/results-gallery/?citylike=denver
+    CTA_link_text4: "Fort Collins"
+    CTA_url4: https://www.milehighhomeguide.com/results-gallery/?city=37925~3218&sort=importdate&status=A
+    CTA_link_text5: "Greeley"
+    CTA_url5: https://www.milehighhomeguide.com/results-gallery/?city=37925~3218%2C37898~3298&sort=importdate&status=A
 
 lender:
   show_section: false

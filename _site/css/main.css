@@ -1245,13 +1245,15 @@ html[xmlns] .flexslider .slides {
 .ctacontainer {
   margin: 0px auto 30px; }
 
+.ctacontainer2 {
+  margin: -30px auto 10px; }
+
 .ctalink {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
   background: #a3c0e3;
   border: 1px solid #a3c0e3;
-  border-radius: 0px;
   padding: 10px 20px;
   text-decoration: none;
   font-size: 18px;
@@ -1268,6 +1270,12 @@ html[xmlns] .flexslider .slides {
     box-shadow: 0 0 0 #a3c0e3;
     -webkit-transform: translateY(0rem);
     transform: translateY(0rem); }
+
+.home-cta {
+  list-style: none;
+  text-align: center; }
+  .home-cta li {
+    margin-top: 30px; }
 
 #welcome-box form {
   padding-left: 30px; }
