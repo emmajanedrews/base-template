@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s the Worst Thing a Realtor® Can Say to You?
-date: 2017-10-18 12:38:53
+date: 2017-10-18 12:38:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,15 +14,15 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Sc44JBJ5rHU
+youtube_code: bW_7BOq_nYU
 ---
 
 
 {% include youtube.html %}
 
-What’s the worst thing you can hear from a Realtor&reg; that you hire? Maybe you think it’s something about how they have never sold a house before or how they promised you a price that wasn’t real.&nbsp;
+What’s the worst thing you can hear from a Realtor® that you hire? Maybe you think it’s something about how they have never sold a house before or how they promised you a price that wasn’t real.
 
-However, I think the worst possible thing you can hear from the professional agent you hire is, **“I really need this deal to happen.”**&nbsp;
+However, I think the worst possible thing you can hear from the professional agent you hire is, **“I really need this deal to happen.”**
 
 {% include pullquote.html %}
 
