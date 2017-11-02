@@ -1245,6 +1245,11 @@ html[xmlns] .flexslider .slides {
 .ctacontainer {
   margin: 0px auto 30px; }
 
+.cta-title a {
+  font-size: 2.5rem;
+  color: #262a82;
+  font-weight: 300; }
+
 .ctalink {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
@@ -2878,15 +2883,14 @@ form select {
     margin: 10px auto;
     width: 90%; } }
 .cta {
-  background: #ffffff;
-  color: #123456;
-  text-transform: capitalize;
+  background: #262a82;
+  color: #fff;
+  text-transform: uppercase;
   font-size: 2rem;
   font-weight: 300; }
   .cta:hover {
     background: #eeeeee;
-    color: #1a1d5b;
-    border-bottom: 2px solid #262a82; }
+    color: #262a82; }
   .cta:active {
     text-decoration: none;
     color: #262a82; }

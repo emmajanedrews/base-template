@@ -32,9 +32,9 @@ CTAs:
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "Apply Now"
+    CTA_title: "Online Loan Application"
     CTA_text: "Using our online loan application, you can take your time and complete your application whenever it is convenient for you. And, you can always save your work and come back and complete it later if you need to."
-    CTA_link_text: "Learn More"
+    CTA_link_text: "Apply Now"
     CTA_url: https://preapp1003.com/id/Patrick-Fitzgerald/
 
 # second_sidebar_CTA:
