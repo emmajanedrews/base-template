@@ -4,7 +4,7 @@ title: 3 Permanent Features That Damage a Home's Potential
 tags:
   - Home Buyer Tips
   - Home Seller Tips
-date:
+date: 2017-11-02 11:21:38
 excerpt: >-
   In any home, there are certain features that can’t be changed. Today, I’ve got
   three examples of these kinds of features that can make homes less attractive
