@@ -9,7 +9,8 @@ excerpt: >-
   information from the third quarter of 2017 in St. Louis’ metro market. This
   update will include data from St. Louis City, St. Louis County, and Charles
   County.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520The%2520latest%2520St.%2520Louis%2520metro%2520market%2520update.mp4
 pullquote: My overall feeling about the market is that now is a good time to buy.
 enclosure_type: video/mp4
 enclosure_time:
