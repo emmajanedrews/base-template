@@ -1,9 +1,8 @@
 ---
 layout: post
 title: The Latest Real Estate News in Charleston
-date: 2017-11-02 14:25:45
+date: 2017-11-02 14:25:00
 tags:
-  - Market Update
 excerpt: >-
   The end of the year will be here before you know it. Here’s what you should
   know about the Charleston real estate market.
@@ -31,5 +30,3 @@ Right now, the market average for inventory is just 3.1 months. That puts us in 
 Although the numbers above are an average of the entire Tri-County area, they don’t tell the full story of the market. Each little pocket of the market has its own unique set of characteristics. There are about 20 of those pockets that are in seller’s markets right now. Another nine pockets are seeing a bit more of a balanced market and there are three pockets out there that are in buyer’s markets.
 
 **If you want to know what’s going on in your specific pocket of the market, don’t hesitate to give me a call or send me an email.** We look forward to hearing from you soon.
-
-&nbsp;
