@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Importance of Working With a Buyer’s Agent
-date: 2017-10-30 11:58:40
+date: 2017-10-30 11:58:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: yxwVE6hhRWo
+youtube_code: ImGx6iquvTI
 ---
 
 
