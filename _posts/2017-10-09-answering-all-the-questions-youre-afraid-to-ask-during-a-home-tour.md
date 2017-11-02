@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Answering All the Questions You’re Afraid to Ask During a Home Tour
-date: 2017-10-09 10:05:06
+date: 2017-10-09 10:05:00
 tags:
   - Home Buyer Tips
 excerpt: >-
   Have any questions on what the proper decorum is for buyers touring a home?
   Here are your answers.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent-+All+your+home+touring+questions+answered.mp4
 pullquote: Respect the seller’s house as if it was your own.
 enclosure_type: video/mp4
 enclosure_time:
