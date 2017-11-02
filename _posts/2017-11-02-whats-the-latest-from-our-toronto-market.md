@@ -30,6 +30,6 @@ What do Toronto home prices look like this fall? **They’re not where they were
 
 {% include pullquote.html %}
 
-When looking at the number of homes listed for sale versus the number of actual sales, **we have a balanced market**, which is a two months of inventory in the GTA. However, market conditions vary considerably in various neighborhoods compared to the GTA, especially in downtown Toronto.
+When looking at the number of homes listed for sale versus the number of actual sales, **we have a balanced market**, which is two months of inventory in the GTA. However, market conditions vary considerably in various neighborhoods compared to the GTA, especially in downtown Toronto.
 
 That’s why it would be a mistake to come to any conclusion as to the value of your home without talking to an expert in your area. If you have any more questions about the current state of our Toronto market or you’re thinking about buying or selling a home, don’t hesitate to reach out to me. I would be happy to help you.
