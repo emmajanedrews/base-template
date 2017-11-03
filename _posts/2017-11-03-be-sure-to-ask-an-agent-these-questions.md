@@ -44,7 +44,7 @@ Do the agent postcard the neighborhood? Do they door-knock the neighborhood? Do 
 
 Also, do they reach out to other agents, or do they simply put your home on the MLS, and that’s it?
 
-You’ll also want ask about their success rates. **How many homes do they sell in a year?**
+You’ll also want to ask about their success rates. **How many homes do they sell in a year?**
 
 **Do they know the average listing price to selling price?&nbsp;**These are all important for you to determine before settling with a particular agent.
 
