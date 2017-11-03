@@ -29,7 +29,7 @@ CTAs:
   first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
   second_CTA_URL: http://www.healthy-realty.com/homes-for-sale-search/
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=4eec3c351b
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
