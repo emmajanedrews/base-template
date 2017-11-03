@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Reasons Pre-Approvals Are Essential
-date:
+date: 2017-11-03 14:23:38
 tags:
 excerpt: >-
   Though many people want to skip the boring parts of the home buying process,
