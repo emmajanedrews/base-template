@@ -26,6 +26,6 @@ This chart, though, has updated versions of them—they’re the new seven level
 
 {% include pullquote.html %}
 
-I’d love to share these models and systems with you. **You can download a PDF copy of this chart here.**
+I’d love to share these models and systems with you. <a href="https://s3.amazonaws.com/vyralmarketing/Jerimiah+Taylor/Email+Assets/San+Diego+Recruiting/mrea+2.0+org+chart+.pdf" target="_blank">You can download a PDF copy of this chart here.</a>
 
 If you have any more questions about how you can build your business to the seventh level, give me a call so we can sit down together and get started. I’d love to help you.
