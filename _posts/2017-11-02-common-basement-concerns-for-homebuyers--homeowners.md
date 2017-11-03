@@ -23,7 +23,7 @@ youtube_code: l7N2YfcROF8
 {% include youtube.html %}
 {: .present-before-paste}
 
-I’m joined by Chris Mancuso [sp], the owner of Accurate Basement Repair. Chris has been in the basement repair business for over a decade and helped hundreds of customers all throughout eastern Wisconsin.
+I’m joined by Chris Mancuso, the owner of Accurate Basement Repair. Chris has been in the basement repair business for over a decade and helped hundreds of customers all throughout eastern Wisconsin.
 {: .present-before-paste}
 
 Today, we’ll go over a few common questions buyers and homeowners alike have about their basements.
@@ -77,7 +77,7 @@ There are a lot of preventative measures you can take to make sure that you neve
 You should also look for efflorescence (or discoloration) on your basement walls. This could indicate a drain tile issue or a grading and downspout problem, as is the case with this property.
 {: .present-before-paste}
 
-Thanks to Chris for stopping by today. If you have any questions for him or if you would like him to inspect your basement, you can give him a call at 414-744-6900 or check out Accurate Basement Repair’s website [link].
+Thanks to Chris for stopping by today. If you have any questions for him or if you would like him to inspect your basement, you can give him a call at 414-744-6900 or check out Accurate Basement Repair’s [website](https://www.accuratebasementrepair.com/).
 {: .present-before-paste}
 
 As always, if you have any real estate questions, just give me a call or send me an email. I would be happy to help you!
