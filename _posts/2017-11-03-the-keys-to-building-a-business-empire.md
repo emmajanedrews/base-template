@@ -1,16 +1,20 @@
 ---
 layout: post
 title: The Keys to Building a Business Empire
-date:
+date: 2017-11-03 15:24:15
 tags:
-excerpt:
-enclosure:
-pullquote:
+  - Success Tips
+excerpt: >-
+  At KW Realty, we offer an organizational chart straight that can help you go
+  from being a solo agent to building a seventh-level business empire.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jerimiah+Taylor/Videos/San+Diego/2017/Building+A+Team+-+San+Diego+Real+Estate+Career.mp4
+pullquote: 'With this chart, you can build a seventh-level business empire too.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: XgZLzdQXfC8
 ---
 
 
@@ -26,6 +30,6 @@ This chart, though, has updated versions of them—they’re the new seven level
 
 {% include pullquote.html %}
 
-I’d love to share these models and systems with you. <a href="https://s3.amazonaws.com/vyralmarketing/Jerimiah+Taylor/Email+Assets/San+Diego+Recruiting/mrea+2.0+org+chart+.pdf" target="_blank">You can download a PDF copy of this chart here.</a>
+I’d love to share these models and systems with you. **[You can download a PDF copy of this chart here.](https://s3.amazonaws.com/vyralmarketing/Jerimiah+Taylor/Email+Assets/San+Diego+Recruiting/mrea+2.0+org+chart+.pdf)**
 
-If you have any more questions about how you can build your business to the seventh level, give me a call so we can sit down together and get started. I’d love to help you.
+If you have any more questions about how you can buildyour business to the seventh level, give me a call so we can sit down together and get started. I’d love to help you.
