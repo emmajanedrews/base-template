@@ -20,7 +20,7 @@ youtube_code: '-TkHvX6p8As'
 
 {% include youtube.html %}
 
-When buying a home, another unexpected cost you need to watch out for is the maintenance costs for that home.
+In addition to the costs I mentioned last time, another unexpected cost you need to watch out for is the maintenance for your home.
 
 When you rent a house, you don’t have the same external and internal maintenance duties you have when you buy a house. Of course, you don’t have the tax advantages either.
 
