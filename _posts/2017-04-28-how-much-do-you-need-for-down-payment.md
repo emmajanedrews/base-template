@@ -1,7 +1,7 @@
 ---
-youtube_code:
+youtube_code: nycch7dSDNw
 excerpt:
-enclosure:
+enclosure: https://s3.amazonaws.com/vyralmarketing/Valerie+Hunter-Kelly/Clarksville%252C+Tennessee+Real+Estate+Agent-+The+true+cost+of+purchasing+a+home.mp4
 pullquote: DEPENDING ON YOUR CREDIT SCORE, YOU CAN GET A CONVENTIONAL LOAN FOR 5%.
 enclosure_type: video/mp4
 enclosure_time:
