@@ -10,7 +10,7 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/capture-article.JPG
 youtube_code:
 ---
@@ -30,4 +30,4 @@ Builders who historically haven’t explored Carlisle are now looking at the are
 
 In fact, I am currently working on a residential subdivision off Meeting House Road in Carlisle to develop 18 single-family lots. These 18 lots will be available for construction in early 2018.
 
-If you have any questions or are interested in a new construction property, just give me a call at (717) 609-8265 or &nbsp;email me at AndrewK@HHandE.com. I would be happy to help you.
+If you have any questions or are interested in a new construction property, just give me a call at (717) 609-8265 or  email me at AndrewK@HHandE.com. I would be happy to help you.
