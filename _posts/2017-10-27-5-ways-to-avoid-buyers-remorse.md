@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Ways to Avoid Buyer's Remorse
-date: 2017-10-27 14:48:23
+date: 2017-10-27 14:48:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -9,7 +9,7 @@ excerpt: >-
   disappointed after they move in. Today, I’ve got some key tips for avoiding
   this situation.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Eric+Mortimer/Eric+Mortimer+%26+Associates%3A+5+Things+not+to+overlook
+  https://s3.amazonaws.com/vyralmarketing/Eric+Mortimer/Eric+Mortimer+%26+Associates+5+Things+not+to+overlook+when+buying.mp4
 pullquote: >-
   When it comes to real estate, regretting your purchase isn’t as simple as
   going back to a store and telling the cashier that you’ve changed your mind.
