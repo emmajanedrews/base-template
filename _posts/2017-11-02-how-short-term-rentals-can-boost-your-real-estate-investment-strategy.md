@@ -25,7 +25,7 @@ Reese had a few goals in mind when she got into real estate investing. Though sh
 
 To clarify, whereas “active income” is whatever comes from your primary occupation, “passive income” is typically the category where real estate investing falls, and that’s the way the IRS categorizes it as well.
 
-Reese was initially looking for multi-unit properties (specifically three-unit) with long-term renters, and she was identifying them specifically based on if they would be a good investment numbers-wise and make sense from their return perspective.
+Reese was initially looking for multi-unit properties (specifically three-unit) with long-term renters, and she was identifying them specifically based on whether they would be a good investment numbers-wise and make sense from their return perspective.
 
 One property in particular came up that was significantly higher in return. That property had one of its three units as a short-term rental. She then realized that short-term rentals could be applied to other three-unit properties with long-term renters. Once she was able to take that idea and apply it to other properties, several more options became available.
 
@@ -33,7 +33,7 @@ Initially, returns were in the single digits. From a percentage standpoint, thou
 
 In addition, her workload has decreased because their management company, like most management companies, has a handyman on call for maintenance issues within short-term properties. Many people wonder how much time they’ll have to devote to managing residential rental property, and the answer is usually less than you think.
 
-Reese has two main points of advice for anyone thinking about buying an investment property. The first is to **leave a little bit of a buffer from a dollar standpoint, especially with short-term rentals**. This is because there is a little bit of up front capital investment required, and issues can arise that you’ll need money set aside for.
+Reese has two main points of advice for anyone thinking about buying an investment property. The first is to **leave a little bit of a buffer from a dollar standpoint, especially with short-term rentals**. This is because there is a little bit of upfront capital investment required, and issues can arise that you’ll need money set aside for.
 
 {% include pullquote.html %}
 
