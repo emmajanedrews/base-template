@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: mMA6JN5Pt5M
+youtube_code: OMK05eF74Y8
 ---
 
 
@@ -24,13 +24,13 @@ Today I’m going to talk about the six reasons why employees leave their organi
 
 The six main reasons for which an employee will leave their organizations are: challenge, location, advancement, money, people, and stability.
 
-**1. Challenge.** Most employees want to feel challenged by the job that they’re doing. If they’re doing something monotonous, be sure to have some element the company can put in that will make the employee feel successful and accomplished.<br><br>**2. Location.&nbsp;**Make it as easy as possible for employees to get to work. If you have an employee who lives far from their office, consider enacting the ability to do telecommuting, while making it as streamlined as possible to get to the location.<br><br>**3. Advancement.&nbsp;**Employees want to feel like they have a path to excel in an organization and also have different areas where they can grow to fill different roles and have different responsibilities.<br><br>**4. Money.** Compensate your employees competitively in the market to ensure that they’re not looking at your competitors, who are going to pay just a little bit more.
+**1. Challenge.** Most employees want to feel challenged by the job that they’re doing. If they’re doing something monotonous, be sure to have some element the company can put in that will make the employee feel successful and accomplished.<br><br>**2. Location.**Make it as easy as possible for employees to get to work. If you have an employee who lives far from their office, consider enacting the ability to do telecommuting, while making it as streamlined as possible to get to the location.<br><br>**3. Advancement.**Employees want to feel like they have a path to excel in an organization and also have different areas where they can grow to fill different roles and have different responsibilities.<br><br>**4. Money.** Compensate your employees competitively in the market to ensure that they’re not looking at your competitors, who are going to pay just a little bit more.
 
 {% include pullquote.html %}
 
 **5. People.** You’ve heard the saying before: When an employee leaves their job, they don’t leave the company. They usually are leaving their boss. Make sure that you have a cohesive culture in your organization, and that the people in that organization are all moving forward with that same foot for success. Toxic cultures in the workplace drive employees away.
 
-**6. Stability.&nbsp;**With a lot of mergers, acquisitions, and leadership changes taking place, ensure that your workplace has a stable footprint and your employee isn’t concerned about the rug being pulled from underneath them.
+**6. Stability.**With a lot of mergers, acquisitions, and leadership changes taking place, ensure that your workplace has a stable footprint and your employee isn’t concerned about the rug being pulled from underneath them.
 
 As an employer, if you’re effective in those six areas, you can certainly retain your best employees.
 
