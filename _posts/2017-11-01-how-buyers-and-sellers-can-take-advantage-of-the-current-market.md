@@ -7,7 +7,7 @@ tags:
 excerpt: >-
   How is our real estate market beneficial to both buyers and sellers? Follow
   along for more.
-enclosure:
+enclosure: 'https://www.facebook.com/WickerHomesGroup/videos/1588172824572986/'
 pullquote: We've helped many clients sell their homes for record prices this year.
 enclosure_type: video/mp4
 enclosure_time:
@@ -19,9 +19,9 @@ youtube_code: 'https://youtu.be/SwUZvRZa-TU'
 
 {% include youtube.html %}
 
-It’s been a little while since we’ve given you an update on the Northern Virginia real estate market, so we thought this would be a good time to review exactly what we’re seeing in the market. Right now, there’s good news for both buyers and sellers.&nbsp;**Interest rates are still at historic lows and we continue to see a low level of inventory.​**
+It’s been a little while since we’ve given you an update on the Northern Virginia real estate market, so we thought this would be a good time to review exactly what we’re seeing in the market. Right now, there’s good news for both buyers and sellers. **Interest rates are still at historic lows and we continue to see a low level of inventory.​**
 
-Buyers can take advantage of these low interest rates and lock them in for 15 or 30 years. They can also take advantage of the fact that there are fewer buyers in the market during this time of year than in the spring or summer.<br><br>Sellers can benefit from the limited supply of homes for sale. Demand is high and supply is low - it’s economics 101.&nbsp;**We've helped many clients sell their homes for record prices this year.**&nbsp;There’s a huge advantage to selling now.
+Buyers can take advantage of these low interest rates and lock them in for 15 or 30 years. They can also take advantage of the fact that there are fewer buyers in the market during this time of year than in the spring or summer.<br><br>Sellers can benefit from the limited supply of homes for sale. Demand is high and supply is low - it’s economics 101. **We've helped many clients sell their homes for record prices this year.** There’s a huge advantage to selling now.
 
 {% include pullquote.html %}
 
