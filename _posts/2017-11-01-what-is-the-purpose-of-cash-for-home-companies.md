@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Is the Purpose of Cash-For-Home Companies?
-date: 2017-11-01 11:19:56
+date: 2017-11-01 11:19:00
 tags:
   - Home Seller Tips
 excerpt: “What’s the deal with the ‘We Pay Cash for Houses’ signs?”
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: MAVmzZDwDP8
+youtube_code: MAVmzZDwDP
 ---
 
 
