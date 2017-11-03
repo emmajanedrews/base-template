@@ -23,7 +23,7 @@ It’s been a little while since we’ve given you an update on the Northern Vir
 
 Buyers can take advantage of these low interest rates and lock them in for 15 or 30 years. They can also take advantage of the fact that there are fewer buyers in the market during this time of year than in the spring or summer.<br><br>Sellers can benefit from the limited supply of homes for sale. Demand is high and supply is low - it’s economics 101.&nbsp;**We have helped many clients sell their homes for record prices this year.**&nbsp;There’s a huge advantage to selling now.
 
-{% include pullquote.html %}
+[{% include pullquote.html %}](https://twitter.com/WickerHomes)
 
 The last thing I will say is that my crystal ball can’t predict what’s going to happen in the coming months with interest rates or national/global events. Both of which will impact buyers and sellers. What we can count on is our current market of low rates, low inventory, high buyer demand and strong sales. If you’re considering a move, don’t miss this opportunity in the market.
 
