@@ -24,7 +24,7 @@ As a result, new construction housing is beginning to accelerate. If you are una
 
 **I was recently featured in an article by the Central Penn Business Journal that explores new housing developments in the Carlisle area.**
 
-[**You can find the full article**](__notset__)**[here](https://s3.amazonaws.com/vyralmarketing/Andrew+Kronenberg+/Westward+Homes+Final.pdf)**[**.**](__notset__)
+**You can find the full article here**
 
 Cumberland Valley School District boasts some of the highest home prices in the county, causing buyers to look elsewhere. Large-scale projects in areas like Silver Spring and Hampden are also winding down. Land in those municipalities are at a premium. **Developers and builders are finding opportunities in the greater Carlisle area.**
 
