@@ -24,6 +24,8 @@ As a result, new construction housing is beginning to accelerate. If you are una
 
 **I was recently featured in an article by the Central Penn Business Journal that explores new housing developments in the Carlisle area.**
 
+&nbsp;
+
 #### **You can find the article [here](https://s3.amazonaws.com/vyralmarketing/Andrew+Kronenberg+/Westward+Homes+Final.pdf).**
 
 &nbsp;
