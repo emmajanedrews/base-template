@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>San Diego Real Estate Careers and Training Podcast with Jerimiah Taylor</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://realcareerssd.com/</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://realcareerssd.com/"/>
     <description>A Podcast about San Diego Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</description>
     <language>en</language>
     <managingEditor>Jerimiah Taylor</managingEditor>
-    <lastBuildDate>2017-10-19 14:54:04 -0500</lastBuildDate>
+    <lastBuildDate>2017-11-03 14:00:21 -0500</lastBuildDate>
     <media:copyright>Jerimiah Taylor</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://realcareerssd.com//img/podcast.jpg"/>
     <media:keywords>San Diego Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,7 +18,7 @@
     </itunes:owner>
     <itunes:author>Jerimiah Taylor</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://realcareerssd.com//img/podcast.jpg"/>
     <itunes:keywords>San Diego Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
     <itunes:subtitle>Boost your Career with Veteran Real Estate Agent Jerimiah Taylor</itunes:subtitle>
     <itunes:summary>A Podcast about San Diego Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</itunes:summary>
@@ -26,9 +26,9 @@
     
       <item>
         <title>How Can You Grow Your Database and Your Real Estate Business? </title>
-        <link>localhost:4000/thinking-about-career-in-san-diego-real.html</link>
+        <link>http://realcareerssd.com//thinking-about-career-in-san-diego-real.html</link>
         
-          <category>Real Estate Agent Success Tips</category>
+          <category>Success Tips</category>
         
         <author>Jerimiah Taylor</author>
         <pubDate>2017-10-11 10:05:00 -0500</pubDate>
@@ -53,7 +53,7 @@ In our Business By the Book class, we teach the top marketing and prospecting te
 If you have any other questions or you’re interested in our class, just give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jerimiah+Taylor/Videos/Growing+Your+Database+-+San+Diego+Real+Estate+Career.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realcareerssd.com/" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jerimiah+Taylor/Videos/Growing+Your+Database+-+San+Diego+Real+Estate+Career.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -74,9 +74,9 @@ Email me today for a private San Diego real estate career consultation.
       
       <item>
         <title>How Should You Communicate With Your Database? </title>
-        <link>localhost:4000/how-should-you-communicate-with-your.html</link>
+        <link>http://realcareerssd.com//how-should-you-communicate-with-your.html</link>
         
-          <category>San Diego real estate careers</category>
+          <category>Real Estate Careers</category>
         
         <author>Jerimiah Taylor</author>
         <pubDate>2017-08-25 15:59:00 -0500</pubDate>
@@ -105,7 +105,7 @@ Click here to view the marketing system for yourself.
 If you’d like to learn more, have any other questions, or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jerimiah+Taylor/Videos/San+Diego/2017/How+Should+You+Communicate+With+Your+Database%253F+-+San+Diego+Real+Estate+Career.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realcareerssd.com/" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jerimiah+Taylor/Videos/San+Diego/2017/How+Should+You+Communicate+With+Your+Database%253F+-+San+Diego+Real+Estate+Career.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -124,9 +124,9 @@ How do our top agents stay in front of their databases and close hundreds of tra
       
       <item>
         <title>How to Figure Out Your Strengths & How to Use Them</title>
-        <link>localhost:4000/how-to-figure-out-your-strengths-how-to.html</link>
+        <link>http://realcareerssd.com//how-to-figure-out-your-strengths-how-to.html</link>
         
-          <category>San Diego real estate careers</category>
+          <category>Real Estate Careers</category>
         
         <author>Jerimiah Taylor</author>
         <pubDate>2017-06-06 09:53:00 -0500</pubDate>
@@ -155,7 +155,7 @@ We’re very excited to be able to offer this to our agents. For a limited time 
 If you have any questions, don’t hesitate to give us a call or send us an email. We’re here to help.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jerimiah+Taylor/Videos/San+Diego/2017/How+to+Figure+Out+Your+Strengths+%2526+How+to+Use+Them+-+San+Diego+Real+Estate+Career.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realcareerssd.com/" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jerimiah+Taylor/Videos/San+Diego/2017/How+to+Figure+Out+Your+Strengths+%2526+How+to+Use+Them+-+San+Diego+Real+Estate+Career.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -174,9 +174,9 @@ For a limited time only, we’re allowing you to use the Keller Personality Asse
       
       <item>
         <title>Low Inventory Means Big Opportunity for Agents </title>
-        <link>localhost:4000/low-inventory-means-big-opportunity-for.html</link>
+        <link>http://realcareerssd.com//low-inventory-means-big-opportunity-for.html</link>
         
-          <category>San Diego real estate careers</category>
+          <category>Real Estate Careers</category>
         
         <author>Jerimiah Taylor</author>
         <pubDate>2017-05-04 13:28:00 -0500</pubDate>
@@ -209,7 +209,7 @@ Click here to download additional buyer plan of action strategies
 If you have any questions, please don’t hesitate to reach out to me. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jerimiah+Taylor/Videos/San+Diego/2017/Low+Inventory+Means+Big+Opportunity+for+Agents+-+San+Diego+Real+Estate+Career.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realcareerssd.com/" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jerimiah+Taylor/Videos/San+Diego/2017/Low+Inventory+Means+Big+Opportunity+for+Agents+-+San+Diego+Real+Estate+Career.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -228,9 +228,9 @@ Low inventory actually means big opportunity for real estate agents, and I’ll 
       
       <item>
         <title>Market Conditions in San Diego Present a Unique Opportunity</title>
-        <link>localhost:4000/market-conditions-in-san-diego-present.html</link>
+        <link>http://realcareerssd.com//market-conditions-in-san-diego-present.html</link>
         
-          <category>San Diego Market Update</category>
+          <category>Market Update</category>
         
         <author>Jerimiah Taylor</author>
         <pubDate>2017-04-17 12:47:00 -0500</pubDate>
@@ -261,7 +261,7 @@ Buyers face a scary proposition in this market. When you consider that half of b
 Next time, I’ll talk about how you can turn these market conditions into a big opportunity for your business. If you have any questions in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jerimiah+Taylor/Videos/San+Diego/2017/Market+Conditions+in+San+Diego+Present+an+Unique+Opportunity+-+San+Diego+Real+Estate+Career.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realcareerssd.com/" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jerimiah+Taylor/Videos/San+Diego/2017/Market+Conditions+in+San+Diego+Present+an+Unique+Opportunity+-+San+Diego+Real+Estate+Career.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -280,9 +280,9 @@ The San Diego County market is suffering from an inventory crisis. However, the 
       
       <item>
         <title>Why Do You Need to Be Wary of Tying Arrangements?</title>
-        <link>localhost:4000/why-do-i-need-to-be-wary-of-tying.html</link>
+        <link>http://realcareerssd.com//why-do-i-need-to-be-wary-of-tying.html</link>
         
-          <category>Real Estate Agent Success Tips</category>
+          <category>Success Tips</category>
         
         <author>Jerimiah Taylor</author>
         <pubDate>2017-03-06 16:49:00 -0600</pubDate>
@@ -307,7 +307,7 @@ It’s a tying arrangement and it just can’t be done. If you want to give them
 If you have any other questions about tying arrangements or any transactional violations, give me a call or send me an email. I’m here to help.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jerimiah+Taylor/Videos/San+Diego/2017/Why+Do+I+Need+to+Be+Wary+of+Tying+Arrangements%253F+-+San+Diego+Real+Estate+Career.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realcareerssd.com/" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jerimiah+Taylor/Videos/San+Diego/2017/Why+Do+I+Need+to+Be+Wary+of+Tying+Arrangements%253F+-+San+Diego+Real+Estate+Career.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -326,9 +326,9 @@ Are you aware of tying arrangements and the risk they pose to agents? You need t
       
       <item>
         <title>When Are Price Reductions Necessary?</title>
-        <link>localhost:4000/when-are-price-reductions-necessary.html</link>
+        <link>http://realcareerssd.com//when-are-price-reductions-necessary.html</link>
         
-          <category>San Diego real estate careers</category>
+          <category>Real Estate Careers</category>
         
         <author>Jerimiah Taylor</author>
         <pubDate>2017-02-17 14:42:00 -0600</pubDate>
@@ -357,7 +357,7 @@ If the market has spoken and the price is too high, we have two options for a re
 At this point, it’s not even an opinion that the home is overpriced, it’s a fact. If you have any questions for us about price reductions or anything else, give us a call or send us an email. We look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jerimiah+Taylor/Videos/San+Diego/2017/When+Are+Price+Reductions+Necessary%253F+-+San+Diego+Real+Estate+Careers.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realcareerssd.com/" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jerimiah+Taylor/Videos/San+Diego/2017/When+Are+Price+Reductions+Necessary%253F+-+San+Diego+Real+Estate+Careers.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -376,9 +376,9 @@ Price reductions are never ideal. However, we have a good strategy to share for 
       
       <item>
         <title>Helping Your Sellers Choose the Right Price</title>
-        <link>localhost:4000/helping-your-sellers-choose-right-price.html</link>
+        <link>http://realcareerssd.com//helping-your-sellers-choose-right-price.html</link>
         
-          <category>Real Estate Agent Success Tips</category>
+          <category>Success Tips</category>
         
         <author>Jerimiah Taylor</author>
         <pubDate>2017-01-31 16:12:00 -0600</pubDate>
@@ -409,7 +409,7 @@ If the property is worth $500,000 and you price it at $510,000, the property beg
 Do the right thing by helping your sellers pick the right price out of the gate and get the home sold quickly. If you have any more questions about pricing homes or I can help you in any way with your real estate career, give me a call or send me an email. I’d love to help you out!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jerimiah+Taylor/Videos/San+Diego/2017/Helping+Your+Sellers+Choose+the+Right+Price+-+San+Diego+Real+Estate+Agent.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realcareerssd.com/" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jerimiah+Taylor/Videos/San+Diego/2017/Helping+Your+Sellers+Choose+the+Right+Price+-+San+Diego+Real+Estate+Agent.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -428,7 +428,7 @@ We’re heading toward a market shift, so pricing a home properly is going to be
       
       <item>
         <title>How to Handle Multiple Offers as a Listing Agent</title>
-        <link>localhost:4000/how-to-handle-multiple-offers-as.html</link>
+        <link>http://realcareerssd.com//how-to-handle-multiple-offers-as.html</link>
         
           <category>Success Tips</category>
         
@@ -459,7 +459,7 @@ As the listing agent, our job is to fully educate the seller and help them see t
 If you have any questions about dealing with multiple offers or if there is anything else you want to know about, give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jerimiah+Taylor/Videos/San+Diego/How+to+Handle+Multiple+Offers+as+a+Listing+Agent+-+San+Diego+Real+Estate+Careers.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realcareerssd.com/" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jerimiah+Taylor/Videos/San+Diego/How+to+Handle+Multiple+Offers+as+a+Listing+Agent+-+San+Diego+Real+Estate+Careers.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -478,7 +478,7 @@ With inventory as low as it is, your sellers should be receiving multiple offers
       
       <item>
         <title>Why List Your Home Now?</title>
-        <link>localhost:4000/why-list-your-home-now.html</link>
+        <link>http://realcareerssd.com//why-list-your-home-now.html</link>
         
           <category>Success Tips</category>
         
@@ -505,7 +505,7 @@ If I’m a seller holding on to a property that I want to get top dollar for, I�
 If you have any questions about buying or selling, please feel free to get in touch with us. Just give me a call or send me an email, and I’d be happy to help you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jerimiah+Taylor/Videos/San+Diego/Should+You+Wait+To+List+Your+Home%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realcareerssd.com/" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jerimiah+Taylor/Videos/San+Diego/Should+You+Wait+To+List+Your+Home%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -524,9 +524,9 @@ A lot of sellers are assuming they should wait until spring to list their homes.
       
       <item>
         <title>Why an Agent Cant Be Over-Reliant on the MLS</title>
-        <link>localhost:4000/why-agent-cant-be-over-reliant-on-mls.html</link>
+        <link>http://realcareerssd.com//why-agent-cant-be-over-reliant-on-mls.html</link>
         
-          <category>San Diego real estate careers</category>
+          <category>Real Estate Careers</category>
         
           <category>Success Tips</category>
         
@@ -551,7 +551,7 @@ In today’s fast-changing world, you’ve got to do what other agents aren’t 
 If you have any questions, please feel free to drop me a line or shoot me an email.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jerimiah+Taylor/Videos/Videos+Oct-Nov+2016/San+Diego+Real+Estate+Career-+MLS.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realcareerssd.com/" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jerimiah+Taylor/Videos/Videos+Oct-Nov+2016/San+Diego+Real+Estate+Career-+MLS.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -570,9 +570,9 @@ Today I want to talk about how the MLS has changed in our real estate industry. 
       
       <item>
         <title>Answering the Question of Why Do I Need a Real Estate Agent?</title>
-        <link>localhost:4000/how-to-show-professionals-they-need.html</link>
+        <link>http://realcareerssd.com//how-to-show-professionals-they-need.html</link>
         
-          <category>San Diego real estate careers</category>
+          <category>Real Estate Careers</category>
         
         <author>Jerimiah Taylor</author>
         <pubDate>2016-10-31 14:05:00 -0500</pubDate>
@@ -599,7 +599,7 @@ In order to win with a professional client, you need to establish yourself as a 
 I hope this tip helps. If you have any questions for me, feel free to reach out and give me a call or shoot me an email. I hope to talk to you soon!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jerimiah+Taylor/Videos+Oct-Nov+2016/San+Diego+Real+Estate+Career-+Quick+Tip.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://realcareerssd.com/" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jerimiah+Taylor/Videos+Oct-Nov+2016/San+Diego+Real+Estate+Career-+Quick+Tip.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
