@@ -27,6 +27,6 @@ There are three things you should avoid when buying a home. These three things c
 
 1. **Steep driveway.** A big slope up or down will be a big turnoff for buyers. Homes with steep driveways do sell, but generally for less than properties with flat driveways.
 2. **High voltage powerlines.** If your property backs up to high-voltage power lines, you’re going to have a lot of trouble selling. People simply prefer not to live near power lines.{% include pullquote.html %}
-3. **Highways or airports.** Any home that is near a busy highway or an airport, there is going to be a lot of extra noise. Many buyers aren’t going to want to deal with this, and sellers will have a hard time listing these kinds of properties.
+3. **Highways or airports.** Any home that is near a busy highway or airport will be surrounded by a lot of extra noise. Many buyers aren’t going to want to deal with this, and sellers will have a hard time listing these kinds of properties.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
