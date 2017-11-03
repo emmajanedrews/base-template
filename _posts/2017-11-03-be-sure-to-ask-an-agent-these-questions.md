@@ -46,6 +46,6 @@ Also, do they reach out to other agents, or do they simply put your home on the 
 
 You’ll also want ask about their success rates. **How many homes do they sell in a year?**
 
-**Do they know the average listing price to selling price?**These are all important for you to determine before settling with a particular agent.
+**Do they know the average listing price to selling price?&nbsp;**These are all important for you to determine before settling with a particular agent.
 
 We’d love to sit down with you or someone you know and discuss what we do to get homes sold for the most money in the fastest time. Give us a call!
