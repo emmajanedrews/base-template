@@ -25,7 +25,7 @@ When buying a home, there are certain things you mustn't overlook. Here are the 
 
 **2. Pay attention to your daily commute**.
 
-**3. Know your neighborhood codes and restrictions**. This is especially important in neighborhoods that have HOAs (Homeowners Associations).
+**3. Know your neighborhood codes and restrictions**. This is especially important in neighborhoods that have HOAs (homeowners associations).
 
 **4. Don’t overlook the bedroom/bathroom count**. If you are looking at a 4-bedroom home, for example, make sure it doesn’t have just one bathroom.
 
