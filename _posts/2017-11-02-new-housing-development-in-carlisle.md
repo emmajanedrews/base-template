@@ -16,7 +16,7 @@ youtube_code:
 ---
 
 
-[![Click here to read the full article](/uploads/versions/capture-article-1---x----1000-583x---.JPG)](https://s3.amazonaws.com/vyralmarketing/Andrew+Kronenberg+/Westward+Homes+Final.pdf){: post-image}
+<img src="//d1qmdf3vop2l07.cloudfront.net/tall-octopus.cloudvent.net/compressed/440c7dae52612dc019b29cc63333df90.JPG" class="post-image" alt="Click here to read the full article" data-cms-original-src="/uploads/versions/capture-article-1---x----1000-583x---.JPG">
 
 You may have noticed, there are fewer homes available on the market this year compared to last year, and buyer demand is still very strong.
 
