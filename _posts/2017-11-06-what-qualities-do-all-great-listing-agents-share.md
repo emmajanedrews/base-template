@@ -19,7 +19,7 @@ youtube_code: zr7-dwQf7Jo
 
 Once you’ve decided that it’s time to list your home, it’s time to find the right listing agent. It’s important that the person you hire is someone you trust. After all, your home is one of your largest assets, if not the largest.&nbsp;
 
-**To gain that degree of trust, an agent must be concerned first and foremost with you and your family.**Steer clear from a Realtor who only brags about themselves or their agency. It’s important that the person you hire is successful of course, but you want your agent to leave their ego at the door to focus on what you need and what you expect from the transaction.
+**To gain that degree of trust, an agent must be concerned first and foremost with you and your family.** Steer clear from a Realtor who only brags about themselves or their agency. It’s important that the person you hire is successful of course, but you want your agent to leave their ego at the door to focus on what you need and what you expect from the transaction.
 
 {% include pullquote.html %}
 
