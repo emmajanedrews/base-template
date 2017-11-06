@@ -32,6 +32,6 @@ There is a lot that goes into the process of buying a home. Also, the expenses o
 
 **4. Utilities.** Things like gas, electric, cable, and more are going to add up. They are not cheap. The cost to run a home is going to be more expensive than the cost to run a small apartment.
 
-**5. Do you have an additional H.O.A. fee or condo fee?** This fee will be a monthly expense that you want to consider if they are applicable to you.
+**5. Do you have an additional HOA fee or condo fee?** This fee will be a monthly expense that you want to consider if they are applicable to you.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
