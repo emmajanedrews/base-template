@@ -22,6 +22,9 @@ youtube_code: v7JlxmVvmJc
 {% include youtube.html %}
 {: .present-before-paste}
 
+[RSVP HERE](https://www.kwhonoluluevents.com/business-planning)
+{: .present-before-paste}
+
 Are you a real estate agent who wants to build wealth, bring balance to your life, stabilize your income, and increase your profits?<br><br>Well, we’d like to invite you to attend our Agent Profitability Workshop. In this workshop, we’ll be giving away all our systems that you can use to build a profitable real estate business.
 {: .present-before-paste}
 
@@ -46,7 +49,7 @@ There will be an opportunity to ask us any questions that can help you grow your
 There is absolutely no obligation to meet with us, just our way of coming from contribution.
 {: .present-before-paste}
 
-Please RSVP here. Seating will be limited, and our workshops do fill up quickly.
+[Please RSVP here.](https://www.kwhonoluluevents.com/business-planning) Seating will be limited, and our workshops do fill up quickly.
 {: .present-before-paste}
 
 There is only one catch—you have to show up.
