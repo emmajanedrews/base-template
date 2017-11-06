@@ -38,7 +38,7 @@
 	</a>
 	</div>
 	<h5>{{cta.CTA_title2 | replace: '-- MARKET --', site.data.settings.client.market}}</h5>
-	<p>
+	<p class="cta-text">
 		{{cta.CTA_text2 | replace: '-- MARKET --', site.data.settings.client.market}}
 	</p>
 	<div class="ctacontainer2">
@@ -47,21 +47,37 @@
 			{{site.data.settings.CTAs.second_CTA_text}}
 		</a>
 		{% else %}
-		<ul class="home-cta">
-			<li><a class="ctalink" href="{{cta.CTA_url2}}" target="_blank">
-				{{cta.CTA_link_text2 | replace: '-- MARKET --', site.data.settings.client.market}}
-			</a></li>
-			<li><a class="ctalink" href="{{cta.CTA_url3}}" target="_blank">
-				{{cta.CTA_link_text3 | replace: '-- MARKET --', site.data.settings.client.market}}
-			</a></li>
-			<li><a class="ctalink" href="{{cta.CTA_url4}}" target="_blank">
-				{{cta.CTA_link_text4 | replace: '-- MARKET --', site.data.settings.client.market}}
-			</a></li>
-			<li><a class="ctalink" href="{{cta.CTA_url5}}" target="_blank">
-				{{cta.CTA_link_text5 | replace: '-- MARKET --', site.data.settings.client.market}}
-			</a></li>
-		<ul>
+		<div class="row">
+			<ul class="home-cta">
+				<div class="col-sm-7">
+					<li><a class="ctalink" href="{{cta.CTA_url2}}" target="_blank">
+						{{cta.CTA_link_text2 | replace: '-- MARKET --', site.data.settings.client.market}}
+					</a></li>
+				</div>
+				<div class="col-sm-5">
+					<li><a class="ctalink" href="{{cta.CTA_url3}}" target="_blank">
+						{{cta.CTA_link_text3 | replace: '-- MARKET --', site.data.settings.client.market}}
+					</a></li>
+				</div>
+				<div class="col-sm-7">
+					<li><a class="ctalink" href="{{cta.CTA_url4}}" target="_blank">
+						{{cta.CTA_link_text4 | replace: '-- MARKET --', site.data.settings.client.market}}
+					</a></li>
+				</div>
+				<div class="col-sm-5">
+					<li><a class="ctalink" href="{{cta.CTA_url5}}" target="_blank">
+						{{cta.CTA_link_text5 | replace: '-- MARKET --', site.data.settings.client.market}}
+					</a></li>
+				</div>
+			<ul>
+		</div>
 		{% endif %}
 	</div>
 </div>
 {% endfor %}
+<!-- <div class="interviews">
+	<a href="https://soundcloud.com/ppgdenver" target="_blank"><img src="/img/soundcloud.jpg" class="soundcloud"><span id="soundcloud">Listen to Client Interviews</span></a>
+</div> -->
+
+
+<iframe width="100%" height="350" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/216118894&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>

@@ -1246,7 +1246,7 @@ html[xmlns] .flexslider .slides {
   margin: 0px auto 30px; }
 
 .ctacontainer2 {
-  margin: -30px auto 10px; }
+  margin: -40px auto 10px; }
 
 .ctalink {
   -webkit-box-pack: center;
@@ -1276,6 +1276,23 @@ html[xmlns] .flexslider .slides {
   text-align: center; }
   .home-cta li {
     margin-top: 30px; }
+
+.cta-text p {
+  margin-botom: 10px; }
+
+.col-sm-7 {
+  padding-right: 0px; }
+
+.soundcloud {
+  width: 25%;
+  padding: 10px; }
+
+#soundcloud {
+  font-size: 2.2rem;
+  font-weight: 200; }
+
+.interviews {
+  margin: 0 auto; }
 
 #welcome-box form {
   padding-left: 30px; }
