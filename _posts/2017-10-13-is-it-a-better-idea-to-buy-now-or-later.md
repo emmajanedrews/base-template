@@ -28,7 +28,7 @@ What do those costs add up to over time? Well, an extra $145.33 per month will e
 
 {% include pullquote.html %}
 
-The home you’re looking at now is going to be listed for a higher price as well. With a modest 5% appreciation, a home with a list price of $250,000 this year will have a list price near $262,500 next year.
+The home you’re looking at now is going to be listed for a higher price as well. With a modest 5% appreciation, a home with a list price of $250,000 this year will have a list price near $262,500 next year. &nbsp;
 
 ![](/uploads/versions/cost-of-waiting-2---x----1215-857x---.jpg)
 
