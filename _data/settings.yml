@@ -13,8 +13,6 @@ client:
     Nate has been selling real estate in the Valley of the Sun for nearly thirty years. He is the co-owner of RE/MAX Professionals, founded in 2001 and has six valley locations in Glendale, Surprise, Anthem, Arrowhead Ranch, Avondale, and Sun City West.
 
     Nate believes in education and giving back to the real estate industry. His designations include ABR, CRS, GRI, CDPE, CIAS, CLHS, CRP, e-PRO and SFR Each year, Nate attends numerous seminars and training events across the country. As a guest speaker, Nate has been able to train hundreds of real estate professionals, while also learning from some of the best agents in the industry.
-
-    When he is not working, Nate enjoys spending time with his fiance, Tonya, his two daughters, Brandi and Mila and his son Nathan Jr. He is an avid sports enthusiastic, loves attending concerts and practicing his golf swing. Nate's personal philosophy is a quote from the great Wayne Gretsky, "skate to where the puck is going, not where its been!"
   market: Glendale
   brand: RE/MAX Professionals
   brokerage:
@@ -24,7 +22,7 @@ client:
   phone2:
   phone2_type:
   email: info@NatesHomes.com
-  url: http://nateshomes.com/
+  url: http://NatesHomes.com
 
 CTAs:
   first_CTA_text: Home Valuation
@@ -88,13 +86,13 @@ images:
   client_headshot_path: /img/headshot.png
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: Real Estate Video Blog
+  hero_text: -- MARKET -- Real Estate Video Blog
   hero_background_hex: '#094264'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#e11b22'
-  theme_color: '#0054a4'
+  brand_color: '#DB1C2D'
+  theme_color: '#054E99'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -111,7 +109,7 @@ buttons:
   button_padding_height_number: 15
   button_border_color: '#ffffff'
   button_background_color: '#ffffff'
-  button_text_color: '#e11b22'
+  button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'
