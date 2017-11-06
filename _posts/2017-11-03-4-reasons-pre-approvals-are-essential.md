@@ -33,4 +33,4 @@ There are four essential reasons why you should get a mortgage pre-approval.
 
 I hope this helps you better understand the importance of a pre-approval versus a pre-qualification.
 
-If you’re interested in knowing what is required to obtain a pre-approval, please feel free to message me and I can provide you with a list of qualified, trusted lenders.
+If you’re interested in knowing what is required to obtain a pre-approval, please feel free to message me and I can provide you with a list of qualified, trusted lenders. I would be happy to help you!
