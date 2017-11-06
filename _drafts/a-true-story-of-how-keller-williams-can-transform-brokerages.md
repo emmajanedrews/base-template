@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/testimonial-3-chris-martindale-email.jpg
-youtube_code:
+youtube_code: RK-YUxJ_x7I
 ---
 
 
