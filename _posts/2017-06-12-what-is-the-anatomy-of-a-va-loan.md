@@ -1,29 +1,30 @@
 ---
 youtube_code: 3m52zVgTT2g
 excerpt:
-enclosure: https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/The+VA+Loan+Guy-+How+veterans+financing+works.mp4
-pullquote: A VA LOAN ALLOWS YOU TO BORROW UP TO $424,000 WITH NO DOWN PAYMENT.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/The+VA+Loan+Guy-+How+veterans+financing+works.mp4
+pullquote: 'A VA LOAN ALLOWS YOU TO BORROW UP TO $424,000 WITH NO DOWN PAYMENT.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /img/cover.jpg
+use_youtube_image: false
+youtube_alternate_image: /uploads/anatomy-of-va-loan-email.jpg
 layout: post
 title: What Is the Anatomy of a VA Loan?
-date: '2017-06-12T09:30:00.000-07:00'
+date: 2017-06-12 16:30:00
 author: Vyral Admin
 tags:
-- VA Loans
-modified_time: '2017-06-27T15:45:28.855-07:00'
-thumbnail: https://i.ytimg.com/vi/3m52zVgTT2g/default.jpg
-blogger_id: tag:blogger.com,1999:blog-4130350860975241153.post-5695016289138504728
-blogger_orig_url: http://www.thevaloanguy.com/2017/06/what-is-anatomy-of-va-loan.html
+modified_time:
+thumbnail: 'https://i.ytimg.com/vi/3m52zVgTT2g/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-4130350860975241153.post-5695016289138504728'
+blogger_orig_url: 'http://www.thevaloanguy.com/2017/06/what-is-anatomy-of-va-loan.html'
 ---
-{% include youtube.html %}
-If you’re thinking of applying for a VA loan, here’s what you should know about them.
 
-It doesn't cost a penny to talk....<a href="http://texas-vet-loans.com/contact/" target="_blank">so call me right now and I will answer your questions!</a>
 
-<a href="https://preapp1003.com/id/Patrick-Fitzgerald/" target="_blank">Apply Now</a>
+{% include youtube.html %}If you’re thinking of applying for a VA loan, here’s what you should know about them.
+
+It doesn't cost a penny to talk….[so call me right now and I will answer your questions!](http://texas-vet-loans.com/contact/)
+
+[Apply Now](https://preapp1003.com/id/Patrick-Fitzgerald/)
 
 The anatomy of a VA loan features four components: principal, interest, property taxes, and homeowners insurance.
 
