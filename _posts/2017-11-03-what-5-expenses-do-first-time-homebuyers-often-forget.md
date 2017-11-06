@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What 5 Expenses Do First-Time Homebuyers Often Forget?
-date: 2017-11-03 11:28:51
+date: 2017-11-03 11:28:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/first-time-home-buying-expenses-youtube.jpg
-youtube_code: DkGbaE7iDTc
+youtube_code: o3DTYINzi9U
 ---
 
 
