@@ -12,7 +12,7 @@ enclosure: >-
 pullquote: The expenses of owning a home go beyond what many expect.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/first-time-home-buying-expenses-youtube.jpg
 youtube_code: o3DTYINzi9U
 ---
