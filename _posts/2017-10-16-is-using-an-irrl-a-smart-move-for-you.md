@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Using an IRRL a Smart Move for You?
-date: 2017-10-16 13:50:52
+date: 2017-10-16 13:50:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/irrl-youtube.jpg
+youtube_alternate_image: /uploads/irrl-email.jpg
 youtube_code: 'https://youtu.be/frniOTalob4'
 ---
 
