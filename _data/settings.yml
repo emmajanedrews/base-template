@@ -40,7 +40,7 @@ CTAs:
     http://www.hudsoncountyhomes.com/map_search/results/5/1/#/?city=all&baths_min=all&beds_min=all&area_min=all&list_price_max=all&type=res&type=con&list_price_min=50000&building_name=all&page=1&per_page=20
   VR_form: 'http://oi.vresp.com?fid=040fa9a4c9'
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/004.jpg
+  - CTA_image_path: /uploads/unnamed-6.jpg
     CTA_title: What’s Your -- MARKET -- Home Worth?
     CTA_text: >-
       Are you thinking of selling your home or interested in learning about home
