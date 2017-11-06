@@ -4,7 +4,9 @@ title: What Is the Purpose of Cash-For-Home Companies?
 date: 2017-11-01 11:19:00
 tags:
   - Home Seller Tips
-excerpt: “What’s the deal with the ‘We Pay Cash for Houses’ signs?”
+excerpt: >-
+  Byron will explain what sort of businesses put out signs that say ‘We Pay Cash
+  for Houses.’
 enclosure:
 pullquote: 'Unless you are truly desperate, stick with a brokerage and an agent.'
 enclosure_type: video/mp4
