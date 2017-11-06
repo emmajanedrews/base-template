@@ -1,29 +1,30 @@
 ---
 youtube_code: P6K15Amm1Zo
 excerpt:
-enclosure: https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/Videos/2017/July/The+VA+Loan+Guy-+Manufactured+Homes+Made+Simple.mp4
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/Videos/2017/July/The+VA+Loan+Guy-+Manufactured+Homes+Made+Simple.mp4
 pullquote: THE VA WANTS BUYERS TO BE SAFE AND HEALTHY WITHIN THEIR HOMES.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /img/cover.jpg
+use_youtube_image: false
+youtube_alternate_image: /uploads/va-loans-and-manufactured-homes-email.jpg
 layout: post
 title: Manufactured Homes Made Simple
-date: '2017-07-03T11:49:00.003-07:00'
+date: 2017-07-03 18:49:00
 author: Vyral Admin
 tags:
-- VA Loans
-modified_time: '2017-07-10T14:29:50.230-07:00'
-thumbnail: https://i.ytimg.com/vi/P6K15Amm1Zo/default.jpg
-blogger_id: tag:blogger.com,1999:blog-4130350860975241153.post-3054266218966199424
-blogger_orig_url: http://www.thevaloanguy.com/2017/07/manufactured-homes-made-simple.html
+modified_time:
+thumbnail: 'https://i.ytimg.com/vi/P6K15Amm1Zo/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-4130350860975241153.post-3054266218966199424'
+blogger_orig_url: 'http://www.thevaloanguy.com/2017/07/manufactured-homes-made-simple.html'
 ---
-{% include youtube.html %}
-There are a few key rules you should know about in order to get a VA loan under a manufactured home.
 
-It doesn't cost a penny to talk....<a href="http://texas-vet-loans.com/contact/" target="_blank">so call me right now and I will answer your questions!</a>
 
-<a href="https://preapp1003.com/id/Patrick-Fitzgerald/" target="_blank">Apply Now</a>
+{% include youtube.html %}There are a few key rules you should know about in order to get a VA loan under a manufactured home.
+
+It doesn't cost a penny to talk….[so call me right now and I will answer your questions!](http://texas-vet-loans.com/contact/)
+
+[Apply Now](https://preapp1003.com/id/Patrick-Fitzgerald/)
 
 If you’re considering using a VA Loan on a manufactured home, I have some information that you’ll need to know.
 
