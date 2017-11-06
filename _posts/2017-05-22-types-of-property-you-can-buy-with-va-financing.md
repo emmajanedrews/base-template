@@ -1,29 +1,31 @@
 ---
 youtube_code: FocUpIVAilk
 excerpt:
-enclosure: https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/The+VA+Loan+Guy-+The+kinds+of+properties+you+can+purchase.mp4
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/The+VA+Loan+Guy-+The+kinds+of+properties+you+can+purchase.mp4
 pullquote: YOU CAN BUY MULTI-FAMILY PROPERTIES UP TO FOUR UNITS WITH A VA LOAN.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /img/cover.jpg
+use_youtube_image: false
+youtube_alternate_image: >-
+  /uploads/patrick-fitzgerald---may-2017---1---property-types-for-a-va-loan-email.jpg
 layout: post
 title: Types of Property You Can Buy With VA Financing
-date: '2017-05-22T09:20:00.003-07:00'
+date: 2017-05-22 16:20:00
 author: Vyral Admin
 tags:
-- Military Loans
-modified_time: '2017-06-27T15:46:51.543-07:00'
-thumbnail: https://i.ytimg.com/vi/FocUpIVAilk/default.jpg
-blogger_id: tag:blogger.com,1999:blog-4130350860975241153.post-4921151342902688082
-blogger_orig_url: http://www.thevaloanguy.com/2017/05/types-of-property-you-can-buy-with-va.html
+modified_time:
+thumbnail: 'https://i.ytimg.com/vi/FocUpIVAilk/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-4130350860975241153.post-4921151342902688082'
+blogger_orig_url: 'http://www.thevaloanguy.com/2017/05/types-of-property-you-can-buy-with-va.html'
 ---
-{% include youtube.html %}
-VA loans allow you to buy a wide variety of properties.
 
-It doesn't cost a penny to talk....<a href="http://texas-vet-loans.com/contact/" target="_blank">so call me right now and I will answer your questions!</a>
 
-<a href="https://preapp1003.com/id/Patrick-Fitzgerald/" target="_blank">Apply Now</a>
+{% include youtube.html %}VA loans allow you to buy a wide variety of properties.
+
+It doesn't cost a penny to talk….[so call me right now and I will answer your questions!](http://texas-vet-loans.com/contact/)
+
+[Apply Now](https://preapp1003.com/id/Patrick-Fitzgerald/)
 
 If you plan to use a VA loan, you might be wondering what types of properties you can use your VA loan for.
 
