@@ -22,7 +22,7 @@ I’ve been getting this question a lot: “Should I buy a home now or should I 
 
 Interest rates are sitting right at about 3.83%, according to Fannie Mae and Freddie Mac. However, they are expected to go up to 4.4% in the next year. Let’s say the home you’re interested in is listed at $250,000. If interest rates were to go up to 4.4%, **that would increase your monthly mortgage payment from $1,169.17 to $1,314.50.**
 
-![](/uploads/versions/dee-2-1---x----230-129x---.jpg)
+![](/uploads/versions/dee-3---x----500-281x---.jpg)
 
 What do those costs add up to over time? Well, an extra $145.33 per month will eventually equal $1,743.16 per year and an incredible **$52,319 over the 30-year term of a typical mortgage.**
 
@@ -30,7 +30,7 @@ What do those costs add up to over time? Well, an extra $145.33 per month will e
 
 The home you’re looking at now is going to be listed for a higher price as well. With a modest 5% appreciation, a home with a list price of $250,000 this year will have a list price near $262,500 next year. &nbsp;
 
-&nbsp;
+![](/uploads/versions/cost-of-waiting-3---x----500-353x---.jpg)
 
 &nbsp;
 
