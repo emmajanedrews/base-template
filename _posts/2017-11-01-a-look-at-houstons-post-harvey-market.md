@@ -8,7 +8,8 @@ excerpt: >-
   As we draw closer to the end of the year, it’s time to take a look at our real
   estate market. Today, I’d like to bring you some insight on how things are
   doing post-Harvey.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Mike+Gray/Videos/Houston+Real+Estate+Agent-+How+Is+Our+Post-Harvey+Market%253F.mp4
 pullquote: You need to look at individual areas to see nuances within the market.
 enclosure_type: video/mp4
 enclosure_time:
