@@ -1,13 +1,14 @@
 ---
 layout: post
 title: A True Story of How Keller Williams Can Transform Brokerages
-date:
+date: 2017-11-06 16:11:58
 tags:
   - Keller Williams Success Stories
 excerpt: >-
   Chris Martindale was unhappy with his brokerage’s lack of structure. This was
   just one reason that he transitioned into working with Keller Williams.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Marcus+Green/VIdeos/2017/November/Northern+Utah+Real+Estate+Coaching-+A+True+Story+of+How+Keller+Williams+Can+Transform+Brokerages.mp4
 pullquote: >-
   Keller Williams provides support while still allowing agents to brand
   themselves.
