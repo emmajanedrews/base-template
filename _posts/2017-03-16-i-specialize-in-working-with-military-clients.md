@@ -14,7 +14,7 @@ date: 2017-03-16 18:31:00
 author: Vyral Admin
 tags:
 modified_time:
-thumbnail: 'https://i.ytimg.com/vi/_58kszftDUo/default.jpg'
+thumbnail: /uploads/patrick-fitzgerald-8-3-2016-3-of-4-email-1-2.jpg
 blogger_id: 'tag:blogger.com,1999:blog-4130350860975241153.post-3587739444376828876'
 blogger_orig_url: 'http://www.thevaloanguy.com/2017/03/i-specialize-in-working-with-military.html'
 ---
