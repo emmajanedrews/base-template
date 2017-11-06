@@ -1,29 +1,30 @@
 ---
 youtube_code: TdL7Va_oLTg
 excerpt:
-enclosure: https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/The+VA+Loan+Guy-+Who+Qualifies+for+a+VA+Loan%253F.mp4
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/The+VA+Loan+Guy-+Who+Qualifies+for+a+VA+Loan%253F.mp4
 pullquote: THE SPOUSE OF A VETERAN CAN QUALIFY FOR A VA LOAN.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /img/cover.jpg
+use_youtube_image: false
+youtube_alternate_image: /uploads/patrick-fitzgerald-8-3-2016-3-of-4-email-1.jpg
 layout: post
 title: Who Qualifies for VA Loans?
-date: '2017-04-24T12:54:00.000-07:00'
+date: 2017-04-24 19:54:00
 author: Vyral Admin
 tags:
-- VA Loans
-modified_time: '2017-06-27T15:48:32.616-07:00'
-thumbnail: https://i.ytimg.com/vi/TdL7Va_oLTg/default.jpg
-blogger_id: tag:blogger.com,1999:blog-4130350860975241153.post-9087585875808383908
-blogger_orig_url: http://www.thevaloanguy.com/2017/04/who-qualifies-for-va-loans.html
+modified_time:
+thumbnail: 'https://i.ytimg.com/vi/TdL7Va_oLTg/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-4130350860975241153.post-9087585875808383908'
+blogger_orig_url: 'http://www.thevaloanguy.com/2017/04/who-qualifies-for-va-loans.html'
 ---
-{% include youtube.html %}
-Who can qualify for a VA loan? Do you have to have military benefits? I’ll go over the answers to those questions today.
 
-It doesn't cost a penny to talk....<a href="http://texas-vet-loans.com/contact/" target="_blank">so call me right now and I will answer your questions!</a>
 
-<a href="https://preapp1003.com/id/Patrick-Fitzgerald/" target="_blank">Apply Now</a>
+{% include youtube.html %}Who can qualify for a VA loan? Do you have to have military benefits? I’ll go over the answers to those questions today.
+
+It doesn't cost a penny to talk….[so call me right now and I will answer your questions!](http://texas-vet-loans.com/contact/)
+
+[Apply Now](https://preapp1003.com/id/Patrick-Fitzgerald/)
 
 Who qualifies for a VA loan? I get asked this question quite often, and I’ll go over the details behind qualifying today.
 
