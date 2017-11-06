@@ -7,14 +7,14 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Jason Duraj
   license_number:
-  about_markdown: | 
-    My name is Jason Duraj. I am the owner and founder of Floridas Best Realtor.Net.  I am a local real estate developer, seasoned real estate agent, and mortgage broker. I have worked very hard over the last 19 years in the Real Estate business to build an outstanding relationship with  my  colleagues, clients and top professionals in the industry. We are a LOCAL full-service real estate brokerage office. We will guide you and advise you in every step of  home buying or selling process. We will carefully negotiate every deal on your behalf to get you the best possible result and greatest savings in your wallet.
+  about_markdown: |
+    My name is Jason Duraj. I am the owner and founder of FloridasBestRealtor.Net.  I am a local real estate developer, seasoned real estate agent, and mortgage broker. I have worked very hard over the last 19 years in the Real Estate business to build an outstanding relationship with  my  colleagues, clients and top professionals in the industry. We are a LOCAL full-service real estate brokerage office. We will guide you and advise you in every step of  home buying or selling process. We will carefully negotiate every deal on your behalf to get you the best possible result and greatest savings in your wallet.
 
-  market:
-  brand: Florida's Best Realtor Jason Duraj
-  brokerage: Future Home Realty
+  market: Pinellas County
+  brand: Future Home Realty
+  brokerage:
   address: 508 Meres Blvd, Tarpon Springs, FL 34689
   phone: 813-992-7771
   phone_type:
@@ -28,7 +28,7 @@ CTAs:
   first_CTA_URL: http://www.floridasbestrealtor.net/cma/property-valuation/
   second_CTA_text: Home Search
   second_CTA_URL: http://www.floridasbestrealtor.net/search/advanced_search/
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=10840efffb
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
@@ -47,8 +47,8 @@ second_sidebar_CTA:
 lender:
   show_section: true
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
-  logo_path: /img/logoblack.png
+  # headshot_path: http://fillmurray.com/200/200
+  logo_path: /img/prm.png
   logo_path_2:
   name: Justin Weissman
   brand: Lender Co.
@@ -67,16 +67,16 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/jasonsellspinellas
+  linkedin_url: https://www.linkedin.com/in/jason-duraj-988b3536/
   gplus_url:
   youtube_url:
   twitter_url:
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
+  zillow_url: https://www.zillow.com/profile/Jason-Duraj/
+  trulia_url: https://www.trulia.com/profile/jason-duraj-agent-tarpon-springs-fl-zgrfwv7w/overview
+  yelp_url: https://www.yelp.com/biz/jason-duraj-future-home-realty-tampa
   podcast_url:
 
 podcast:

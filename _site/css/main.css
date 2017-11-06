@@ -1191,8 +1191,6 @@ html[xmlns] .flexslider .slides {
     margin-bottom: 10px; }
   .lender .lender-headshot img {
     width: 100%; }
-  .lender .lender-logo img {
-    width: 100%; }
   .lender .lender-info {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -1219,6 +1217,10 @@ html[xmlns] .flexslider .slides {
       margin-bottom: 0;
       vertical-align: middle;
       margin-left: 10px; }
+
+.lender-logo {
+  width: 90%;
+  margin-left: 5%; }
 
 .cta-sidebar-container {
   width: 100%;
