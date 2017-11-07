@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Today, I’d like to share six key ways you can put your hard-earned money to
   work for you.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/videos/San+Diego+Real+Estate-+6+Ways+to+Build+Your+Wealth.mp4
 pullquote: You work hard for your money—why not make it work hard for you?
 enclosure_type: video/mp4
 enclosure_time:
