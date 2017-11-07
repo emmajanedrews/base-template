@@ -1,5 +1,12 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
-    audio:
+  - quote: >-
+      The experience was wonderful.  He found us the perfect home. We actually
+      just moved in this week and love it. Even after the sale they followed up
+      a lot, especially with Hurricane Irma. We really appreciated that, them
+      just reaching out to make sure that we’re safe. They went way beyond…one
+      of the best real estate agents to work with. They will find you the
+      perfect home. They work for you and are very personable as well.”
+    name: Karey
+    audio: >-
+      https://s3.amazonaws.com/vyralmarketing/Deepak+Gupta/Audio+Testimonials/Deepak_Gupta_-_Karey_Steve.mp3
