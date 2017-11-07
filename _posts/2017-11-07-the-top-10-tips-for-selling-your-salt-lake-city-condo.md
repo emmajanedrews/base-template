@@ -36,7 +36,7 @@ youtube_code: U_wFIR8cZk0
 
 What are 10 helpful tips you can use to sell your condo?
 
-**First, learn about the process of selling a condo.** One of the biggest mistakes condo owners make when selling is thinking it’s the same as selling a single-family home, so educate yourself on the condo-selling process so you know what to expect throughout that process. One of the easiest ways you can do this is by discovering helpful resources.
+**First, learn about the process of selling a condo in Salt Lake City.** One of the biggest mistakes condo owners make when selling is thinking it’s the same as selling a single-family home, so educate yourself on the condo-selling process so you know what to expect throughout that process. One of the easiest ways you can do this is by discovering helpful resources.
 
 **Second, know the condo association’s rules, regulations, fees, and assessments.** One of the major differences between selling a condo and selling a single-family home are the homeowners association’s rules, regulations, fees, and potential assessments involved. When selling a single-family home, it’s unlikely an HOA is involved, which typically makes the process easier. You’re obviously aware of the pros and cons of an HOA, but that doesn’t mean potential buyers will be, so be aware of them and disclose them to any buyer.
 
@@ -59,10 +59,10 @@ A common real estate contract contingency made by condo buyers is the ability to
 
 **Seventh, accommodate showing requests.** Restricting showing requests is one of the worst mistakes you can make when selling a property. While it may be inconvenient to leave your condo at 1 p.m. on a Sunday, it may be the only time a prospective buyer has to view your condo. Any time a seller is difficult with showing requests, it raises the question of whether they’re actually interesting in selling the property. Sellers who understand that preparing and accommodating for showings can be inconvenient are less stressed about the whole process.
 
-**Eight, prepare for inspections.** When selling a condo, it’s likely the buyer will want their own inspections done on it. A great way to prepare for these it to check the functionality of your systems and appliances and do your best to eliminate potential issues before they become issues. The inspection period is generally short (10 to 14 days), so make it count.
+**Eighth, prepare for inspections.** When selling a condo, it’s likely the buyer will want their own inspections done on it. A great way to prepare for these it to check the functionality of your systems and appliances and do your best to eliminate potential issues before they become issues. The inspection period is generally short (10 to 14 days), so make it count.
 
 **Ninth, hire an attorney.** This is optional in the state of Utah, but hiring an attorney who’s experienced in condo closings can assist you with the reviewal of HOA documents and other documents.
 
 **Lastly, start packing.** Since the ultimate goal of selling a condo is to get the property sold, it makes sense to begin packing and preparing for the move. It’s somewhat common for sellers to wait until the last minute to do this, and that doesn’t makes sense to me. Packaging and preparing early can greatly reduce the amount of stress you endure. Putting things in storage and boxing them up can also help with decluttering. Lining up a moving company in advance is also important, because these companies are often booked weeks in advance. Waiting until the last minute can create a huge issue if there are no reputable moving companies available.
 
-If you have questions about selling your condo or you need any more tips, feel free to reach out to me. I’d be happy to help you.
+If you have any questions about selling your condo in Salt Lake City or the Wasatch Front, just give me a call or send me an email. I'd be happy to help you.&nbsp;
