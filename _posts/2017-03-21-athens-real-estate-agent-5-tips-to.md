@@ -12,7 +12,7 @@ title: '5 Tips to Prepare Your Home for the Market '
 date: '2017-03-21T15:12:00.001-07:00'
 author: Vyral Admin
 tags:
-- Athens Real Estate Seller Tips
+- Home Seller Tips
 modified_time: '2017-03-24T14:39:19.065-07:00'
 thumbnail: https://i.ytimg.com/vi/2hC58WJR77k/default.jpg
 blogger_id: tag:blogger.com,1999:blog-313868897804491386.post-517749295799311820

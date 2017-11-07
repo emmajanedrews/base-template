@@ -12,7 +12,7 @@ title: What If You Can't Put Any Money Down?
 date: '2016-11-23T09:50:00.001-08:00'
 author: Vyral Admin
 tags:
-- Athen's GA Real Estate Agent
+- Athens Real Estate Agent
 modified_time: '2016-12-02T13:20:27.093-08:00'
 thumbnail: https://i.ytimg.com/vi/pVysTcmTza4/default.jpg
 blogger_id: tag:blogger.com,1999:blog-313868897804491386.post-6639639011849247343

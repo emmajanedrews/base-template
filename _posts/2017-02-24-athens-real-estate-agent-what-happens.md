@@ -12,7 +12,7 @@ title: What Happens If the Appraisal Comes in Low?
 date: '2017-02-24T09:50:00.001-08:00'
 author: Vyral Admin
 tags:
-- Athen's GA Real Estate Agent
+- Athens Real Estate Agent
 modified_time: '2017-03-01T14:01:24.914-08:00'
 thumbnail: https://i.ytimg.com/vi/Mun3B1HzN5k/default.jpg
 blogger_id: tag:blogger.com,1999:blog-313868897804491386.post-1820659694032545644

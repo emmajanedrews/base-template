@@ -12,7 +12,7 @@ title: What Does the Future Hold in Our Housing Market?
 date: '2016-12-27T11:28:00.002-08:00'
 author: Vyral Admin
 tags:
-- Athens Market Update
+- Market Update
 modified_time: '2016-12-30T11:46:30.393-08:00'
 thumbnail: https://i.ytimg.com/vi/iinJSb0PhwI/default.jpg
 blogger_id: tag:blogger.com,1999:blog-313868897804491386.post-4508776607728513738

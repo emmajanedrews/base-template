@@ -12,7 +12,7 @@ title: What Does It Really Take to Downsize?
 date: '2017-10-18T10:34:00.000-07:00'
 author: Vyral Admin
 tags:
-- Athens Real Estate Seller Tips
+- Home Seller Tips
 modified_time: '2017-10-19T13:18:15.792-07:00'
 thumbnail: https://i.ytimg.com/vi/ilYNKDIWlEo/default.jpg
 blogger_id: tag:blogger.com,1999:blog-313868897804491386.post-517771568602230252

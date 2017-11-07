@@ -12,7 +12,7 @@ title: We Have Exciting News To Share With You!
 date: '2017-05-23T11:45:00.000-07:00'
 author: Vyral Admin
 tags:
-- Athens Real Estate Other
+- Athens Real Estate Agent
 modified_time: '2017-05-31T13:43:34.721-07:00'
 thumbnail: https://i.ytimg.com/vi/O1VoD3uPfLg/default.jpg
 blogger_id: tag:blogger.com,1999:blog-313868897804491386.post-5847087136409463149

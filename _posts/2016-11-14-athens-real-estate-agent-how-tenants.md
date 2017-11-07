@@ -12,7 +12,7 @@ title: What Are Tenants' Rights?
 date: '2016-11-14T07:43:00.000-08:00'
 author: Vyral Admin
 tags:
-- Athen's GA Real Estate Agent
+- Athens Real Estate Agent
 modified_time: '2016-11-18T13:36:08.372-08:00'
 thumbnail: https://i.ytimg.com/vi/JOLk9PbuIrw/default.jpg
 blogger_id: tag:blogger.com,1999:blog-313868897804491386.post-826111429483990623

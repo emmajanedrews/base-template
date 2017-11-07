@@ -12,7 +12,7 @@ title: How to Stop Paying PMI Today
 date: '2017-04-19T11:33:00.002-07:00'
 author: Vyral Admin
 tags:
-- Greater Athen's Real Estate Buyer Tips
+- Home Buyer Tips
 modified_time: '2017-04-26T14:21:24.999-07:00'
 thumbnail: https://i.ytimg.com/vi/N6xXS022PGM/default.jpg
 blogger_id: tag:blogger.com,1999:blog-313868897804491386.post-3627316109283529123

@@ -12,7 +12,7 @@ title: How Do Rising Prices Affect Appraisals?
 date: '2017-02-14T11:30:00.001-08:00'
 author: Vyral Admin
 tags:
-- Athen's GA Real Estate Agent
+- Athens Real Estate Agent
 modified_time: '2017-02-16T13:46:24.308-08:00'
 thumbnail: https://i.ytimg.com/vi/sZVocKZYY4A/default.jpg
 blogger_id: tag:blogger.com,1999:blog-313868897804491386.post-7429992502159712431

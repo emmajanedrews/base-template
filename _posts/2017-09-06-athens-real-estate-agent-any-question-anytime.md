@@ -12,7 +12,7 @@ title: Were Happy to Answer Any Question, Anytime
 date: '2017-09-06T14:55:00.000-07:00'
 author: Vyral Admin
 tags:
-- Athen's GA Real Estate Agent
+- Athens Real Estate Agent
 modified_time: '2017-09-15T12:54:08.895-07:00'
 thumbnail: https://i.ytimg.com/vi/acaPL82yiMc/default.jpg
 blogger_id: tag:blogger.com,1999:blog-313868897804491386.post-4602361358350826274

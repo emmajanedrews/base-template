@@ -12,7 +12,7 @@ title: " Three Home Buyer Mistakes That Could Cost You Thousands!"
 date: '2017-06-23T10:50:00.000-07:00'
 author: Vyral Admin
 tags:
-- athens real estate buyer tips
+- Home Buyer Tips
 modified_time: '2017-06-28T15:45:20.933-07:00'
 thumbnail: https://i.ytimg.com/vi/KCBV3Tc4iKM/default.jpg
 blogger_id: tag:blogger.com,1999:blog-313868897804491386.post-3385887104442714743

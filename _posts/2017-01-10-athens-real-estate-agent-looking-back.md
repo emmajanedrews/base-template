@@ -12,7 +12,7 @@ title: Looking Back at Important Stats From the 2016 Market
 date: '2017-01-10T09:26:00.004-08:00'
 author: Vyral Admin
 tags:
-- Athen's GA Real Estate Agent
+- Athens Real Estate Agent
 modified_time: '2017-01-12T15:05:02.098-08:00'
 thumbnail: https://i.ytimg.com/vi/kae69vHa-wc/default.jpg
 blogger_id: tag:blogger.com,1999:blog-313868897804491386.post-4494240168378703930

@@ -12,8 +12,8 @@ title: 'How Is the Market Affecting the Appraisals of Homes? '
 date: '2017-08-23T12:25:00.000-07:00'
 author: Vyral Admin
 tags:
-- Athen's GA Real Estate Agent
-- Athens Market Update
+- Athens Real Estate Agent
+- Market Update
 - Appraisals
 modified_time: '2017-08-29T14:27:59.068-07:00'
 thumbnail: https://i.ytimg.com/vi/ed3qYe0oxzk/default.jpg

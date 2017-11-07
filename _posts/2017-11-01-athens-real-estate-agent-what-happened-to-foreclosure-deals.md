@@ -12,7 +12,7 @@ title: What Does the Lack of Foreclosure Deals Mean for the Economy?
 date: '2017-11-01T13:01:00.000-07:00'
 author: Vyral Admin
 tags:
-- Athens Market Update
+- Market Update
 modified_time: '2017-11-06T12:16:55.784-08:00'
 thumbnail: https://i.ytimg.com/vi/YmomDJplhYA/default.jpg
 blogger_id: tag:blogger.com,1999:blog-313868897804491386.post-4564647105425918177

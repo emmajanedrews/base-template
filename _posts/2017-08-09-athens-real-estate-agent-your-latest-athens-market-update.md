@@ -12,7 +12,7 @@ title: What Do the Latest Numbers Say About Our Athens Market?
 date: '2017-08-09T14:57:00.000-07:00'
 author: Vyral Admin
 tags:
-- Athens Real Estate Market Update
+- Market Update
 modified_time: '2017-08-10T10:22:37.194-07:00'
 thumbnail: https://i.ytimg.com/vi/hVE0e7bBmZ4/default.jpg
 blogger_id: tag:blogger.com,1999:blog-313868897804491386.post-3648516958102920787
