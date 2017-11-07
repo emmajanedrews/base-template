@@ -53,8 +53,8 @@ sidebar_CTA:
     CTA_url: 'http://www.eppraisal.com/partner/index/9177/'
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: Looking for a -- MARKET -- Home?
-    CTA_text2: Search the entire MLS for your -- MARKET -- home.
+    CTA_title2: Looking for a Home?
+    CTA_text2: Search the entire MLS for your home.
     CTA_link_text2: Search the MLS
     CTA_url2: 'http://www.lioceteam.com/search/criteria/gp_1/s_2'
 lender:
