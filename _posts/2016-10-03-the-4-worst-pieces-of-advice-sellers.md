@@ -12,7 +12,7 @@ title: The 4 Worst Pieces of Advice Sellers Usually Get
 date: '2016-10-03T09:25:00.000-07:00'
 author: Vyral Admin
 tags:
-- Home Selling Tips
+- Home Seller Tips
 modified_time: '2016-10-06T14:40:57.889-07:00'
 thumbnail: https://i.ytimg.com/vi/stcutZlmH50/default.jpg
 blogger_id: tag:blogger.com,1999:blog-3091638006768837578.post-2244606103535849467

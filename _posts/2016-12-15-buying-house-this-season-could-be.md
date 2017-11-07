@@ -12,7 +12,7 @@ title: Buying a House This Season Could Be the Smartest Choice Youll Ever Make
 date: '2016-12-15T11:02:00.000-08:00'
 author: Vyral Admin
 tags:
-- Home Buying Tips
+- Home Buyer Tips
 modified_time: '2016-12-19T08:35:33.052-08:00'
 thumbnail: https://i.ytimg.com/vi/83L1eXv4UnM/default.jpg
 blogger_id: tag:blogger.com,1999:blog-3091638006768837578.post-6840938706151342495

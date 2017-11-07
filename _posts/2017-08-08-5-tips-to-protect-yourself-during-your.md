@@ -12,7 +12,7 @@ title: 5 Tips to Protect Yourself During Your Move
 date: '2017-08-08T13:12:00.001-07:00'
 author: Vyral Admin
 tags:
-- Home Buying Tips
+- Home Buyer Tips
 modified_time: '2017-08-23T12:52:11.856-07:00'
 thumbnail: https://i.ytimg.com/vi/cLW2PmkrcdM/default.jpg
 blogger_id: tag:blogger.com,1999:blog-3091638006768837578.post-6642364810066541608

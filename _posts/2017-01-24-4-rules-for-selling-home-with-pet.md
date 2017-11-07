@@ -12,7 +12,7 @@ title: 4 Rules for Selling a Home With a Pet
 date: '2017-01-24T07:20:00.001-08:00'
 author: Vyral Admin
 tags:
-- Home Selling Tips
+- Home Seller Tips
 modified_time: '2017-01-30T13:16:21.436-08:00'
 thumbnail: https://i.ytimg.com/vi/UVXm4cmMoYE/default.jpg
 blogger_id: tag:blogger.com,1999:blog-3091638006768837578.post-7261791004802632825

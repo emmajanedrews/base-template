@@ -12,7 +12,7 @@ title: 'The Proper Etiquette When Attending an Open House'
 date: '2017-03-22T11:18:00.000-07:00'
 author: Vyral Admin
 tags:
-- Home Buying Tips
+- Home Buyer Tips
 modified_time: '2017-04-19T08:55:22.754-07:00'
 thumbnail: https://i.ytimg.com/vi/Ju44o3ym9Kg/default.jpg
 blogger_id: tag:blogger.com,1999:blog-3091638006768837578.post-6406546376835657993

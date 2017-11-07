@@ -12,7 +12,7 @@ title: 4 Tips to Help You Win the Milford Home You Want
 date: '2016-10-28T12:18:00.001-07:00'
 author: Vyral Admin
 tags:
-- Home Buying Tips
+- Home Buyer Tips
 modified_time: '2016-11-02T09:32:06.664-07:00'
 thumbnail: https://i.ytimg.com/vi/WLsbISeR0_M/default.jpg
 blogger_id: tag:blogger.com,1999:blog-3091638006768837578.post-363816516390727733

@@ -12,7 +12,7 @@ title: 6 Key Points Not to Overlook When Buying a Home
 date: '2016-09-16T12:23:00.001-07:00'
 author: Vyral Admin
 tags:
-- Home Buying Tips
+- Home Buyer Tips
 modified_time: '2016-09-20T09:19:00.585-07:00'
 thumbnail: https://i.ytimg.com/vi/Un0lhOH48hc/default.jpg
 blogger_id: tag:blogger.com,1999:blog-3091638006768837578.post-717691839503858910

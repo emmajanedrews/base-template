@@ -12,7 +12,7 @@ title: Is the Time Right to Stop Renting and Buy a House?
 date: '2016-11-28T10:29:00.000-08:00'
 author: Vyral Admin
 tags:
-- Home Buying Tips
+- Home Buyer Tips
 modified_time: '2016-12-01T09:44:15.312-08:00'
 thumbnail: https://i.ytimg.com/vi/U7PRyC6IRpM/default.jpg
 blogger_id: tag:blogger.com,1999:blog-3091638006768837578.post-8990921004829618678

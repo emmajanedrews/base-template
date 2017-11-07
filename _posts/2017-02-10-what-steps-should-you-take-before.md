@@ -12,7 +12,7 @@ title: What Steps Should You Take Before Buying a Home?
 date: '2017-02-10T10:04:00.000-08:00'
 author: Vyral Admin
 tags:
-- Home Buying Tips
+- Home Buyer Tips
 modified_time: '2017-02-13T09:06:45.320-08:00'
 thumbnail: https://i.ytimg.com/vi/acHYzQVolys/default.jpg
 blogger_id: tag:blogger.com,1999:blog-3091638006768837578.post-8498211893808074306

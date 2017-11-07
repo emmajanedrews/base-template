@@ -12,7 +12,7 @@ title: 5 Things You Can Expect During Your First Year of Homeownership
 date: '2017-04-21T11:39:00.000-07:00'
 author: Vyral Admin
 tags:
-- Home Buying Tips
+- Home Buyer Tips
 modified_time: '2017-04-26T08:29:45.096-07:00'
 thumbnail: https://i.ytimg.com/vi/A0i8J951Nkk/default.jpg
 blogger_id: tag:blogger.com,1999:blog-3091638006768837578.post-6067319431181577526

@@ -12,7 +12,7 @@ title: 5 Things You Need to Know If You're Buying a Property with an HOA
 date: '2017-08-22T11:49:00.005-07:00'
 author: Vyral Admin
 tags:
-- Home Buying Tips
+- Home Buyer Tips
 modified_time: '2017-08-24T11:26:02.565-07:00'
 thumbnail: https://i.ytimg.com/vi/JJZsf5ijNjY/default.jpg
 blogger_id: tag:blogger.com,1999:blog-3091638006768837578.post-7039511775881751466

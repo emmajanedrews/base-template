@@ -12,7 +12,7 @@ title: Get Your Home Ready for Summer With These 5 Maintenance Tips
 date: '2017-06-07T12:28:00.001-07:00'
 author: Vyral Admin
 tags:
-- Home Selling Tips
+- Home Seller Tips
 modified_time: '2017-06-09T07:23:43.957-07:00'
 thumbnail: https://i.ytimg.com/vi/7Z0xcNcO0aw/default.jpg
 blogger_id: tag:blogger.com,1999:blog-3091638006768837578.post-4047512674395552781

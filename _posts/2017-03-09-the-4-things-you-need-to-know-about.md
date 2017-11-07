@@ -12,7 +12,7 @@ title: The 4 Things You Need to Know About Home Inspections
 date: '2017-03-09T11:24:00.002-08:00'
 author: Vyral Admin
 tags:
-- Home Buying Tips
+- Home Buyer Tips
 modified_time: '2017-03-10T13:56:28.880-08:00'
 thumbnail: https://i.ytimg.com/vi/lKCCuLNcayk/default.jpg
 blogger_id: tag:blogger.com,1999:blog-3091638006768837578.post-6709294929754067691

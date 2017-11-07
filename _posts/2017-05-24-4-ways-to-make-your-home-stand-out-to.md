@@ -12,7 +12,7 @@ title: 4 Ways to Make Your Home Stand out to Buyers
 date: '2017-05-24T08:22:00.000-07:00'
 author: Vyral Admin
 tags:
-- Home Selling Tips
+- Home Seller Tips
 modified_time: '2017-05-26T08:21:35.549-07:00'
 thumbnail: https://i.ytimg.com/vi/fS9S-4W42As/default.jpg
 blogger_id: tag:blogger.com,1999:blog-3091638006768837578.post-4360966046450472523

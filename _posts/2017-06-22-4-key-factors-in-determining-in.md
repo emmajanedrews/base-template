@@ -12,7 +12,7 @@ title: 4 Key Factors in Determining in the Strength of an Investment Property
 date: '2017-06-22T11:02:00.000-07:00'
 author: Vyral Admin
 tags:
-- Home Buying Tips
+- Home Buyer Tips
 modified_time: '2017-06-26T12:04:23.129-07:00'
 thumbnail: https://i.ytimg.com/vi/XMV6nbZ56kQ/default.jpg
 blogger_id: tag:blogger.com,1999:blog-3091638006768837578.post-6396418064426418400

@@ -44,7 +44,7 @@ CTAs:
   second_CTA_URL: 'http://www.lioceteam.com/search/criteria/gp_1/s_2'
   VR_form: 'http://oi.vresp.com?fid=5d757c5752'
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/004.jpg
+  - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: What’s Your Home Worth?
     CTA_text: >-
       Are you thinking of selling your home or interested in learning about home
