@@ -28,7 +28,7 @@ CTAs:
   first_CTA_URL: https://www.emeraldsecure.com/form.cfm?ID=68&UID=16962&SSLID=16962&SN=691400819
   second_CTA_text:
   second_CTA_URL:
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=cc727acdcc
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/006.jpg
@@ -63,7 +63,7 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
+  facebook_url: https://www.facebook.com/Morrical-Financial-Services-123795974952511/
   linkedin_url:
   gplus_url:
   youtube_url:
