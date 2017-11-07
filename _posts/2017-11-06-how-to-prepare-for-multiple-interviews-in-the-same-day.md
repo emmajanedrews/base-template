@@ -27,6 +27,6 @@ However, you should also make sure that you ask a few of the same questions in e
 
 {% include pullquote.html %}
 
-There’s nothing worse than making it through to the last interview of the day, only to freeze up when they ask if you have any other questions. By creating these lists, you won’t have to pick through your brain or fumble over your words. **The questions will be right there with you and you can get the answers.**
+There’s nothing worse than making it through to the last interview of the day only to freeze up when they ask if you have any other questions. By creating these lists, you won’t have to pick through your brain or fumble over your words. **The questions will be right there with you and you can get the answers.**
 
 I hope this helps. If you have any questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you.
