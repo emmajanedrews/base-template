@@ -27,7 +27,7 @@ Thanksgiving is just around the corner, which means it’s time for our annual p
 
 We’ll send you a survey soon so that you can pick out which kind of pie you would like to enjoy with your family this Thanksgiving, so keep an eye out for that email to reserve your pie.
 
-Then on November [DATE], you can stop by our office for two or three hours, enjoy a drink with us, celebrate a bit, and then grab your pie.
+Then on November, you can stop by our office for two or three hours, enjoy a drink with us, celebrate a bit, and then grab your pie.
 
 {% include pullquote.html %}
 
