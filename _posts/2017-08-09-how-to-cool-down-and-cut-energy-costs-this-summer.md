@@ -13,15 +13,13 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/travis-chatwin-9-ways-to-stay-cool-and-cut-costs-youtube.jpg
-youtube_code: 'https://youtu.be/xye_B1kGldM'
+youtube_code: 'https://youtu.be/zBgpV-nPsKU'
 ---
 
 
 {% include youtube.html %}
 
-Here in San Diego, we are spoiled by amazing temperatures year-round. Every now and then, though, the heat and humidity can sneak up on us—so it’s always good to be prepared.
-<br>
-<br>Today, I have a few ways to help you be more comfortable in your home and save money on energy costs:
+Here in San Diego, we are spoiled by amazing temperatures year-round. Every now and then, though, the heat and humidity can sneak up on us—so it’s always good to be prepared.<br><br>Today, I have a few ways to help you be more comfortable in your home and save money on energy costs:
 
 **1. Plug up any holes that you see around your home.** If I walked into your home today, I bet we would find a hole or gap that is dragging all the cold air outside. Most of these gaps are around doors or windows. For doors, I recommend installing threshold sweeps to seal up the gap at the bottom, keep bugs out, and trap your cool air inside the house. I also recommend weather stripping around exterior doors.
 
