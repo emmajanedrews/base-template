@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s the Latest From Our Toronto Market?
-date: 2017-11-02 13:06:44
+date: 2017-11-02 13:06:00
 tags:
   - Market Update
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/no-pb-11.jpg
-youtube_code: 1Yyqp_LzwV0
+youtube_code: tOEThvdUNZE
 ---
 
 
