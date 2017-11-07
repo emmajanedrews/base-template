@@ -1,5 +1,5 @@
 audit_header: false
-title: The Betz Team
+title: '-- CLIENT BRAND --'
 description: >-
   If you are looking to buy or sell a home, get all the information and the
   latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
@@ -17,6 +17,8 @@ custom_links:
     url: /meet-the-team
   - title: Testimonials
     url: /client-testimonials
+  - title: Community Events
+    url: /community-events/
 client:
   name: Wade Betz
   license_number:
@@ -35,7 +37,7 @@ client:
     advisor for Guardian’s clients.
   market:
   brand: 'The Betz Team | NMLS # 280613'
-  brokerage: 'Guardian Mortgage,<br>a Division of Sunflower Bank, N.A. | NMLS #709491'
+  brokerage: 'Guardian Mortgage,<br>a Division of Sunflower Bank, N.A.'
   address: '5910 North Central Expressway <br> Ste 725, Dallas, TX 75206'
   phone: 214-361-5626
   phone_type: Direct
