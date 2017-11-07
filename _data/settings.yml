@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: Las Vegas Real Estate Video Blog with Mike Tchobanian
 description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -7,26 +7,28 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Mike Misak Tchobanian
   license_number:
   about_markdown: |
+    Mike Tchobanian & Vegas Capital Realty is a full service real estate and property management company, specializing in Selling, buying and property management. We provide expert advice that specializes in the local Las Vegas, Henderson Market. We offer excellent customer service while offering our clients the latest in cutting edge technology in order to gain maximum listing exposure to sell your house and buying the perfect home along with managing your rental property to maximize your profit.
 
-  market:
-  brand:
+    Let Mike Tchobanian & Vegas Capital Realty help you buy, sell, invest or property management today!
+  market: Las Vegas
+  brand: Vegas Capital Realty
   brokerage:
-  address:
-  phone:
+  address: '8860 S Maryland Pkwy Suite #123<br>Las Vegas, NV 89123'
+  phone: 702-666-8688
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: info@VegasCapital.com
+  url: http://www.VegasCapital.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.vegascapital.com/index.php/free-home-value/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.vegascapital.com/index.php/homes-for-sale-search-advanced/
   VR_form:
 
 sidebar_CTA:
@@ -34,14 +36,14 @@ sidebar_CTA:
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.vegascapital.com/index.php/free-home-value/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://www.vegascapital.com/index.php/homes-for-sale-search-advanced/
 
 lender:
   show_section: false
@@ -67,17 +69,17 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: http://www.facebook.com/VEGASCAPITALREALTY
+  linkedin_url: https://www.linkedin.com/in/mike-misak-tchobanian-77a40218
+  gplus_url: https://plus.google.com/115451540181467711631
+  youtube_url: https://www.youtube.com/channel/UCa_qhCRZiSJMxl82mbAs0-w
+  twitter_url: https://twitter.com/vegascapital
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
-  podcast_url:
+  zillow_url: http://www.zillow.com/profile/Mike-Tchobanian/
+  trulia_url: http://www.trulia.com/profile/mike-tchobanian-agent-henderson-nv-zgsxlckd/overview
+  yelp_url: http://www.yelp.com/biz/vegas-capital-realty-henderson
+  podcast_url: https://itunes.apple.com/us/podcast/feedburner-vegas-capital-realty/id1199532177?mt=2
 
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
@@ -91,14 +93,15 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 20
   hero_text: -- MARKET -- Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#231f20'
+  theme_color: '#424342'
+  accent_color: '#fec62e'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -107,7 +110,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: '#231f20'
 
 buttons:
   button_radius_number: 0
