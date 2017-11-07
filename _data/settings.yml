@@ -7,53 +7,54 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Justin Woodall
   license_number:
   about_markdown: |
-
-  market:
-  brand:
+    We seek to outperform the industry average while exceeding the expectations of our clients. 80% of the homes we sell are under contract in less than 90 days and buyers we work with have priority access to the hottest new listings before others know they are for sale.
+  market: Athens
+  brand: Woodall Realty Group
   brokerage:
-  address:
-  phone:
+  address: 100 Athens Town Boulevard, Ste 1 Athens, GA 30606
+  phone: 706-621-6085
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Justin@WoodallRealtyGroup.com
+  url: http://WoodallRealtyGroup.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.myathenshomevalue.com/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
-  VR_form:
+  second_CTA_URL: http://www.athensareahomesearch.com/?SRC=Blog
+  VR_form: http://oi.vresp.com?fid=12453cdeda
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.myathenshomevalue.com/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://www.athensareahomesearch.com/?SRC=Blog
 
 lender:
-  show_section: false
+  show_section: true
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
-  logo_path: /img/logo.png
-  logo_path_2:
-  name: Bill Murray
-  brand: Lender Co.
-  phone: 555-555-5555
-  email: bill@murray.com
-  url: http://eyegoop.com
+  # headshot_path: /img/lender-headshot.jpg
+  logo_path: /img/lender-logo.png
+  name: Russell Tanner
+  license_number: NMLS 204257
+  brand: Prime Lending
+  license_number2: License 26027
+  phone: 706-621-1704
+  email: Tanner@PrimeLending.com
+  # url: http://eyegoop.com
 
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
@@ -66,17 +67,17 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/woodallrealtygroup/?fref=ts
+  linkedin_url: http://www.linkedin.com/pub/justin-woodall/56/371/36a
+  gplus_url: https://plus.google.com/114169053669009564939/posts
+  youtube_url: https://www.youtube.com/channel/UCzU_pGIpjRotds3pFEN9gTA
+  twitter_url: https://twitter.com/justin_woodall
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
-  podcast_url:
+  zillow_url: http://www.zillow.com/profile/Woodall-Realty-Group/
+  trulia_url: http://www.trulia.com/profile/justin-woodall-agent-athens-ga-zgzbsjgs/overview
+  yelp_url: http://www.yelp.com/biz/the-justin-woodall-group-keller-williams-realty-greater-athens-watkinsville
+  podcast_url: https://itunes.apple.com/us/podcast/athens-real-estate-podcast/id933361524?mt=2
 
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
@@ -96,8 +97,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#0d2952'
+  theme_color: '#bfbfbf'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -106,7 +107,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: rgba(13, 41, 82, 1.0)
 
 buttons:
   button_radius_number: 0
