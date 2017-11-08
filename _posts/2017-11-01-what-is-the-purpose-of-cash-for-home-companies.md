@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Byron will explain what sort of businesses put out signs that say ‘We Pay Cash
   for Houses.’
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/David+Wyher/Greater+Philadelphia+Real+Estate-+Companies+are+targeting+desperate+owners.mp4
 pullquote: 'Unless you are truly desperate, stick with a brokerage and an agent.'
 enclosure_type: video/mp4
 enclosure_time:
