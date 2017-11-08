@@ -25,7 +25,7 @@ What do our current market conditions mean for buyers and sellers in Los Angeles
 
 Here’s the biggest thing you need to remember—historically, we’ve seen seven-year cycles in the real estate market over the last 100 years from top to bottom. Right now, we’re in year 10 of our current cycle, so we’ve lasted three more years on borrowed time. Based on that, we would expect to see a shift in the market with an increase in inventory and a decrease in demand and overall pricing.
 
-What we’re actually seeing right now, however, is the exact opposite. We’ve been to two masterminds in the past two weeks with some of the top real estate minds in the country, and we’ve learned that **one of the biggest changes taking place in our market is the reduced amount of new construction.**This has put a huge pinch on the amount of available inventory, especially for first-time homebuyers. Because inventory is incredibly low, we’re seeing many multiple offer situations with buyers fighting over homes and driving prices up.
+What we’re actually seeing right now, however, is the exact opposite. We’ve been to two masterminds in the past two weeks with some of the top real estate minds in the country, and we’ve learned that **one of the biggest changes taking place in our market is the reduced amount of new construction.&nbsp;**This has put a huge pinch on the amount of available inventory, especially for first-time homebuyers. Because inventory is incredibly low, we’re seeing many multiple offer situations with buyers fighting over homes and driving prices up.
 
 {% include pullquote.html %}
 
