@@ -26,7 +26,7 @@ Today I’m at the 25th Annual Heart Walk in downtown Louisville to raise money 
 
 Before I tell you why, let’s review the latest news and numbers from our Louisville and Southern Indiana market.
 
-**The big news is the mortgage interest deduction being capped in the proposed tax overhaul.** As of this report, it’s still up in the air. For now, though, if you own a home worth over $500,000, the mortgage deduction won’t be touched. This could be a very serious problem in states like California, but it should have little to no effect on home sales under $500,000 in the Louisville area. If you own a home worth over $500,000, it’s too early to know how all of this will shake out.
+**The big news is that the mortgage interest deduction is being capped in the proposed tax overhaul.** As of this report, it’s still up in the air. For now, though, if you own a home worth over $500,000, the mortgage deduction won’t be touched. This could be a very serious problem in states like California, but it should have little to no effect on home sales under $500,000 in the Louisville area. If you own a home worth over $500,000, it’s too early to know how all of this will shake out.
 
 This past October, the number of homes sales dropped 11.1% compared to October 2016. Inventory also dropped 8.8% compared to October of last year. This is making it very difficult for buyers to find homes. We know this for sure because our market’s absorption rate dropped in that same time span from 3.37 months to 2.93 months, and anything less than five months is considered a seller’s market.
 
