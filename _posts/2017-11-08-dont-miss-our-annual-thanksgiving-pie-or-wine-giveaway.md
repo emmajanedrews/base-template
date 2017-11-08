@@ -31,3 +31,5 @@ Make sure you join us on Tuesday, November 21 from 9 a.m. to 6 p.m. to receive y
 You can register to reserve your free pie or wine [here](http://limbirdloyaltyclub.com).
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+
+![](/uploads/versions/client-appreciation-giveaway-3---x----672-480x---.png)
