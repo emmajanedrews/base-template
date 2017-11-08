@@ -50,9 +50,9 @@ The housing market has been strong for the past four or five years. This year al
 
 What does all of this mean for you?
 
-If you’ve been thinking about buy a home, now may be a great time to do so before rates go up. If you’ve been thinking about your dream house, now is a great time to put your house on the market and move up into your dream property.
+If you’ve been thinking about buying a home, now may be a great time to do so before rates go up. If you’ve been thinking about your dream house, now is a great time to put your house on the market and move up into your dream property.
 
-Whether you’re in a 2-bedroom condo and want that 3-bedroom single-family home or you want to live by the beach or in a better school district, now may be the time to get a good price for your current home and capitalize on these low interest rates to purchase your dream home.
+Whether you’re in a 2-bedroom condo and want that 3-bedroom, single-family home or you want to live by the beach or in a better school district, now may be the time to get a good price for your current home and capitalize on these low interest rates to purchase your dream home.
 
 If that’s the case, you can always get an idea of what your home is worth in the current market with our online home valuation tool.
 
