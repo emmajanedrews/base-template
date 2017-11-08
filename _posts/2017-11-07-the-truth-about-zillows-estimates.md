@@ -24,7 +24,7 @@ youtube_code: yqn_y52ImNM
 
 <br>Today, I wanted to discuss the Zillow estimates (or Zestimates) that people have recently been receiving in their email inboxes.
 
-But, the estimates Zillow has been sending out to homeowners are greatly exaggerated in most cases.
+However, the estimates Zillow has been sending out to homeowners are greatly exaggerated in most cases.
 
 In fact, **I personally received an email from Zillow with a Zestimate that was $100,000 off from my home’s true value.**
 
