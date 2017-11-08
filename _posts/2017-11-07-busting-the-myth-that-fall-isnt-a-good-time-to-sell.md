@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Busting the Myth That Fall Isn't a Good Time to Sell
-date: 2017-11-07 14:55:27
+date: 2017-11-07 14:55:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/selling-in-the-fall-email-1.jpg
-youtube_code: X5Ip0iLg3vU
+youtube_code: EaCODpz3JUc
 ---
 
 
