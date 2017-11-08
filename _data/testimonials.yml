@@ -1,5 +1,20 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
+  - quote: We worked together twice, he helped me find my current unit. He’s really patient. We spent a lot of time looking for the best unit for me. He spent a lot of time and never pushed me to commit to a deal. The experience was very good. The two times were different cases. So, in one case, we found a place in Weehawken. But, then we realized there were some tax related things. So, if I bought the unit six months later I could potentially save some money on taxes. We opted for that deal and we waited for six months and started to look for that property again. It was really good for me. It’s not like he just wanted the deal to go through quickly. He’s really considerate on behalf of his clients.
+    name: Roy Yu - Home Buyer
+    audio: /uploads/audio/roy.mp3
+  - quote: Amazing, actually. He was able to identify a property for us to purchase that wasn’t even on the market. He gave a lot of due diligence to find us a property to meet our needs. We specifically bought a property for investment purposes. He really worked well with both my side of the buyer as well as the seller. We never had a hitch as far as like, timing or as far as not knowing what was going on. So, in the entire process, any time I had a question for the seller he definitely took it forward to the seller, asked the questions.
+    name: Wes French, Home Buyer
+    audio: /uploads/audio/wes.mp3
+  - quote:
+    name:
+    audio:
+  - quote:
+    name:
+    audio:
+  - quote:
+    name:
+    audio:
   - quote:
     name:
     audio:
