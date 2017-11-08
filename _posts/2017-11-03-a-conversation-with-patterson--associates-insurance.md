@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Conversation With Patterson & Associates Insurance
-date: 2017-11-03 14:03:22
+date: 2017-11-03 14:03:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 6iQVXDoiJwI
+youtube_code: QvIbC0AKQPg
 ---
 
 
