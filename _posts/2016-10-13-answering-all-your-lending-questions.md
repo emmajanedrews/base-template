@@ -26,7 +26,7 @@ Are you curious about when to get pre-approved or what might happen to interest 
 
 Today I’m joined by Baret Kechian, one of the best lenders in the country, to answer some questions you might have about the lending process if you’re thinking about buying a home.
 
- **hen should you get pre-approved?**
+**When should you get pre-approved?**
 
 The best time for that is usually around three months before you start looking at houses. That way, if there is something amiss regarding your credit, you can address that problem and remove it before it’s time to buy.
 

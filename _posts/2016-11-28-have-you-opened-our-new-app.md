@@ -26,7 +26,7 @@ We’ve got a few quick updates for you today about the technology we use and ho
 
 I’ve got two quick updates for you today about some of the new technology we are using in our business.
 
- The first is our new iPhone and iPad app with Keller Williams. It’s much better than what you’ll find on Zillow and Trulia. You can search for nearby homes, nearby rentals, and more. **You can see what open houses are going on this weekend, where all the homes are located, and even use a mortgage calculator to estimate your monthly payment.** Type http://app.kw.com/KW2Q08TPW into your iPhone browser to download app for free.
+ The first is our new iPhone and iPad app with Keller Williams. It’s much better than what you’ll find on Zillow and Trulia. You can search for nearby homes, nearby rentals, and more. **You can see what open houses are going on this weekend, where all the homes are located, and even use a mortgage calculator to estimate your monthly payment.** Type <a href="http://app.kw.com/KW2Q08TPW" target="_blank">http://app.kw.com/KW2Q08TPW</a> into your iPhone browser to download app for free.
 
  Secondly, we had some problems with our home value tool, so we installed a new one! All you have to do is enter your address and a few details and it will provide you with a quick evaluation. If you want a more in-depth evaluation, we can help with that, too.
 

@@ -1771,11 +1771,11 @@ h6 {
   margin: 0 auto; }
 
 a {
-  color: #000;
+  color: #b40101;
   text-decoration: none; }
   a:hover {
     text-decoration: none;
-    color: #333333; }
+    color: #999; }
   a:visited {
     text-decoration: none; }
 
