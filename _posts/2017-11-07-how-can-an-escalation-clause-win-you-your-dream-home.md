@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Can an Escalation Clause Win You Your Dream Home?
-date: 2017-11-07 12:57:50
+date: 2017-11-07 12:57:00
 tags:
   - Home Buyer Tips
 excerpt: What is an escalation clause? How does it pertain to you as a homebuyer?
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: fzJjm1JZb7k
+youtube_code: YQ7Bx1DBFzA
 ---
 
 
