@@ -29,7 +29,7 @@ I think the reason this question becomes so common in the fall and winter is tha
 
 Most people believe that fall and winter are poor times to sell. Kids are in school, the days are shorter, and the weather is cold. However, this way of thinking simply stems from assumptions.&nbsp;
 
-Personally, **I believe that the reason these assumptions exist is that real estate agents perpetuate them**. But, why would they do that? Well, most real estate agents are part time. Many agents work hard in the summer and slow down in the winter.&nbsp;
+Personally, **I believe that the reason these assumptions exist is that real estate agents perpetuate them**. But, why would they do that? Well, most real estate agents work part time. Many agents work hard in the summer and slow down in the winter.&nbsp;
 
 This is the reason I think agents like to tell people that homes sell best in the summer.&nbsp;
 
