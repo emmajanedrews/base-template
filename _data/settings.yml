@@ -1,47 +1,47 @@
 audit_header: false
 title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
 description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: Calculators
+    url: http://www.njrealtor.biz/calculators/
 
 client:
-  name:
+  name: Steven Rosado
   license_number:
   about_markdown: |
-
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    With over 15 years of marketing, sales, and service industry experience, I've had the opportunity to work with so many great clients. My business philosophy has always been a very simple one: "I give my clients MORE value than my competition can offer." I do this by out-working my competition, providing my clients with all relevant information, and creating customized plans of action to reach their specific goals.
+  market: Hoboken
+  brand: David DeVoe Group
+  brokerage: Keller Williams City Life Realty
+  address: 100 Washington St.<br>Hoboken, NJ 07030
+  phone: 551-200-1000
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: RosadoRealtor@gmail.com
+  url: http://www.stevenrosado.kw.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://rosadohomevaluation.com/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
-  VR_form:
+  second_CTA_URL: http://stevenrosado.kw.com/listings-search/#/398466887
+  VR_form: http://oi.vresp.com?fid=cc35f01cac
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://rosadohomevaluation.com/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://stevenrosado.kw.com/listings-search/#/398466887
 
 lender:
   show_section: false
@@ -67,17 +67,17 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/njrealestatepro/
+  linkedin_url: https://www.linkedin.com/in/steven-rosado-47b00a64
+  gplus_url: https://plus.google.com/u/0/b/100472509368525918810
+  youtube_url: https://www.youtube.com/channel/UCt_ZwcvRpX9g4CKKwSBKlKA
+  twitter_url: https://twitter.com/rosadosw
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
-  podcast_url:
+  zillow_url: http://www.zillow.com/profile/Steven-Rosado/
+  trulia_url: http://www.trulia.com/profile/steven-rosado-agent-hoboken-nj-zg4bv53k/overview
+  yelp_url: http://www.yelp.com/biz/steven-rosado-real-estate-agent-hoboken
+  podcast_url: https://itunes.apple.com/us/podcast/hoboken-real-estate-podcast/id1180712530?mt=2
 
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
@@ -91,14 +91,15 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 60
   hero_text: -- MARKET -- Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
+  brand_color: '#000'
   theme_color: '#999'
+  accent_color: '#b40101'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -107,14 +108,14 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: rgba(0, 0, 0, 1)
 
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: '#ffffff'
+  button_background_color: transparent
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
