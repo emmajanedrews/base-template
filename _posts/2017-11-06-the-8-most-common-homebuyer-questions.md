@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 8 Most Common Homebuyer Questions
-date: 2017-11-06 16:10:11
+date: 2017-11-06 16:10:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: kzM4j6YnPsY
+youtube_code: 2nJq_nMa1fY
 ---
 
 
@@ -30,7 +30,7 @@ Do you have questions about the home buying process? If so, you’re in luck. Bu
 
 **3. How many homes should I see before making an offer?** This depends on the individual buyer. Most usually check out at least five to 10 before putting in an offer. However, it might be the first home you see (or the 30th). To streamline the process, focus in on some specific neighborhoods that you’d like to be in.
 
-**4. What will the seller accept as a fair price?&nbsp;**Typically, knocking 3% to 5% off the list price is a good rule of thumb and won’t ruffle too many feathers. You never know how low a seller is willing to go. If they’re eager to move, you could luck out and score a deal.
+**4. What will the seller accept as a fair price?**Typically, knocking 3% to 5% off the list price is a good rule of thumb and won’t ruffle too many feathers. You never know how low a seller is willing to go. If they’re eager to move, you could luck out and score a deal.
 
 {% include pullquote.html %}
 
