@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Hoboken Real Estate Podcast with Brian Riolo</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://brianriologroup.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://brianriologroup.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Riolo Residential Group - your professional Hoboken Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Brian Riolo</managingEditor>
-    <lastBuildDate>2017-07-25 17:15:11 -0500</lastBuildDate>
+    <lastBuildDate>2017-11-08 14:02:45 -0600</lastBuildDate>
     <media:copyright>Brian Riolo</media:copyright>
-    <media:thumbnail url="/img/podcast.jpg"/>
+    <media:thumbnail url="http://brianriologroup.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Hoboken, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,18 +18,189 @@
     </itunes:owner>
     <itunes:author>Brian Riolo</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="/img/podcast.jpg"/>
+    <itunes:image href="http://brianriologroup.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Hoboken, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Hoboken Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Riolo Residential Group - your professional Hoboken Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
-        <title>What’s Happening in the Hoboken Real Estate Market?</title>
-        <link>localhost:4000/whats-happening-in-the-hoboken-real-estate-market.html</link>
+        <title>What Qualities Do All Great Listing Agents Share?</title>
+        <link>http://brianriologroup.com/what-qualities-do-all-great-listing-agents-share.html</link>
         
         <author>Brian Riolo</author>
-        <pubDate>2017-07-24 10:33:26 -0500</pubDate>
+        <pubDate>2017-11-06 06:56:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brian+Riolo+/Hoboken+Real+Estate-+What+Qualities+Do+All+Great+Listing+Agents+Share%253F.mp4</guid>
+        <description>
+
+Once you’ve decided that it’s time to list your home, it’s time to find the right listing agent. It’s important that the person you hire is someone you trust. After all, your home is one of your largest assets, if not the largest. 
+
+To gain that degree of trust, an agent must be concerned first and foremost with you and your family. Steer clear from a Realtor who only brags about themselves or their agency. It’s important that the person you hire is successful of course, but you want your agent to leave their ego at the door to focus on what you need and what you expect from the transaction.
+
+“Look for an agent with the heart of a teacher.”
+
+Look for an agent with the heart of a teacher, who comes in prepared to explain the current market and is patient enough to take the time to talk you through everything.
+
+If you’re looking for an agent who is going to put you and your needs first, look no further. If you have any questions or if you’re thinking about buying or selling, don’t hesitate to give me a call or send me an email. I would love to hear from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brian+Riolo+/Hoboken+Real+Estate-+What+Qualities+Do+All+Great+Listing+Agents+Share%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://brianriologroup.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brian+Riolo+/Hoboken+Real+Estate-+What+Qualities+Do+All+Great+Listing+Agents+Share%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What should you look for in a listing agent? Here’s what we think.</itunes:subtitle>
+        <itunes:author>Brian Riolo</itunes:author>
+        <itunes:summary>What should you look for in a listing agent? Here’s what we think.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Hoboken, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Should You Expect From Closing Costs?</title>
+        <link>http://brianriologroup.com/what-should-you-expect-from-closing-costs.html</link>
+        
+        <author>Brian Riolo</author>
+        <pubDate>2017-10-24 06:27:47 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brian+Riolo+/Hoboken+Real+Estate-+What+Should+You+Expect+From+Closing+Costs%253F.mp4</guid>
+        <description>
+
+What are closing costs? How much are they?
+
+According to a recent survey of 1,000 first-time homebuyers by Closing Corp, 17% of buyers were unaware of closing costs and 35% were unaware of the actual dollar volume that came with them.
+
+Some of the factors involved in closing costs that surprised people were mortgage insurance, points, and taxes. In our area, if you’re buying in a condo market, you’ll see associations asking for three, four, or five months of HOAs up front.
+
+“Closing costs typically account for 2% to 5% of your overall sale price.”
+
+According to Freddie Mac, closing costs typically account for 2% to 5% of your overall sale price. This can be a large amount of money, and it’s why we sit down with our buyers before we look at properties with them to make sure we go over everything step by step and they know everything that’s involved with the home buying process.
+
+It’s important to speak with a lender before viewing any properties so you know what you’ll have to pay out of pocket for your down payment and your closing costs.
+
+If you have any further questions about closing costs or how to navigate the home buying process, don’t hesitate to give me a call or send me an email. I’d be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brian+Riolo+/Hoboken+Real+Estate-+What+Should+You+Expect+From+Closing+Costs%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://brianriologroup.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brian+Riolo+/Hoboken+Real+Estate-+What+Should+You+Expect+From+Closing+Costs%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Closing costs are an important part of the home buying process. Here’s what you need to know about them.</itunes:subtitle>
+        <itunes:author>Brian Riolo</itunes:author>
+        <itunes:summary>Closing costs are an important part of the home buying process. Here’s what you need to know about them.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Hoboken, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Our Streamlined Approach to the Real Estate Process</title>
+        <link>http://brianriologroup.com/our-streamlined-approach-to-the-real-estate-process.html</link>
+        
+        <author>Brian Riolo</author>
+        <pubDate>2017-09-25 05:23:55 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brian+Riolo+/Hoboken+Real+Estate-+Our+Streamlined+Approach+to+the+Real+Estate+Process.mp4</guid>
+        <description>
+
+Recently I was able to sit in on a meeting with Greg Schwartz, the Chief Business Officer for Zillow.
+
+With all of his experience, connections, and knowledge, Schwartz’s input very much aligned with how my team and I want to run the real estate process for you.
+
+The age of the discount business model has peaked. When it comes to customer satisfaction, Realtors are toward the bottom of the list. Discounting has not equated to satisfaction or substantial market shares.
+
+“Simply put, you deserve better experiences.”
+
+For example, consider Amazon. Right now, 60% of U.S. households have an Amazon Prime account while 70% have cable TV. Amazon hasn’t reinvented the wheel. They run your card like any other business, and don’t offer particularly low prices.
+
+However, Amazon has made a business that is streamlined. Their business is predictable and consistent, which is what we really want. This is exactly the kind of process we want to bring to you.
+
+We have a persona-driven process where the flow of information is easy for you to understand. The flow of our real estate transaction is mapped out and we want to eliminate the stress involved in this process for you.
+
+This economy is highly concerned with the “ease of flow,” and we want to ensure that this translates to you and the service you receive. Simply put, you deserve better experiences.  
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brian+Riolo+/Hoboken+Real+Estate-+Our+Streamlined+Approach+to+the+Real+Estate+Process.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://brianriologroup.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brian+Riolo+/Hoboken+Real+Estate-+Our+Streamlined+Approach+to+the+Real+Estate+Process.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>It is our philosophy that the real estate process should flow easily for you. This is exactly the kind of better experience we’re trying to bring to the process.</itunes:subtitle>
+        <itunes:author>Brian Riolo</itunes:author>
+        <itunes:summary>It is our philosophy that the real estate process should flow easily for you. This is exactly the kind of better experience we’re trying to bring to the process.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Hoboken, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>In Search of a Home Near School? Try Hoboken</title>
+        <link>http://brianriologroup.com/in-search-of-a-home-near-school-try-hoboken.html</link>
+        
+        <author>Brian Riolo</author>
+        <pubDate>2017-09-12 07:38:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brian+Riolo+/Hoboken+Real+Estate-+In+Search+of+a+Home+Near+School%253F+Try+Hoboken.mp4</guid>
+        <description>
+
+When people buy a home, a number of factors will influence their decision, including the home’s look, the number of bedrooms, the style of building, and what amenities come with the building. Child-related amenities are also important factors—is the school within walking distance, as well as any parks or similar facilities?
+
+A lot of people may not realize this as they look through the history of Hoboken being a popular spot for pub-crawling students out of college, but the community has become much more family-friendly in recent times.
+
+“Hoboken receives high scores for walkability, restaurants, and nightlife.”
+
+New construction and Quality Public and Charter Schools have encouraged families with kids to move to the area—here, schools for younger children are free to. In Hoboken Children ages 3 and up can enroll for a free highly praised Public education. Additionally, Hoboken receives high scores for walkability, restaurants, and nightlife.
+
+People come from the New York area to take advantage of the city’s schools to save money— private schools can cost thousands of dollars elsewhere.
+
+If you have any questions or topic ideas for future videos feel free to contact us. We look forward to hearing from you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brian+Riolo+/Hoboken+Real+Estate-+In+Search+of+a+Home+Near+School%253F+Try+Hoboken.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://brianriologroup.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brian+Riolo+/Hoboken+Real+Estate-+In+Search+of+a+Home+Near+School%253F+Try+Hoboken.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>A home’s placement near a school can increase its value, especially to families with children.</itunes:subtitle>
+        <itunes:author>Brian Riolo</itunes:author>
+        <itunes:summary>A home’s placement near a school can increase its value, especially to families with children.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Hoboken, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Is Now the Right Time for You to Sell Your Home?</title>
+        <link>http://brianriologroup.com/is-now-the-right-time-for-you-to-sell-your-home.html</link>
+        
+        <author>Brian Riolo</author>
+        <pubDate>2017-08-08 03:50:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brian+Riolo+/Hoboken+Real+Estate-+Is+Now+the+Right+Time+for+You+to+Sell+Your+Home%253F.mp4</guid>
+        <description>
+
+Is now the right time for you to sell your home?
+
+A lot of our clients are asking if they should sell now or wait until next year. So, how do you know when it’s a good time to put your home on the market?
+
+Harvard just completed their 2017 State of the Nation Housing Study and concluded that, for the fourth year in a row, national sales inventory has dropped. A normal, steady absorption rate is 6%. Nationally, sales inventory is at 3.6%. Locally, we’re at about 2% to 2.5%, which is an increase from the end of 2016, when we only had a 1.5% absorption rate.
+
+The absorption rate determines whether we are in a buyer’s, seller’s, or neutral market. Theoretically, with a 2% absorption rate, if no new homes came on the market, we would run out of inventory in just two months.
+
+Not only that, fewer homes have been built over the past 10 years. In fact, there are fewer new construction homes than at any 10-year period in recent history, since the 1970s.
+
+“The data shows that now is the best time to sell your home.”
+
+Homeownership has also declined for the last 12 years. The homeownership rate finally flatlined last year and now, it’s starting to increase.
+
+The National Association of Realtors has also found a steady rise in buyer demand. The main challenge for homebuyers is there are not enough homes on the market. Many of them have a difficult time finding one they want to purchase.
+
+Inventory is starting to creep up a little bit and, with more increases looming on the horizon, the numbers certainly indicate that now is the best time to sell your home.
+
+Of course, every situation is different. If you have any questions about selling your home in the current market, just give me a call or send me an email. I would be happy to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brian+Riolo+/Hoboken+Real+Estate-+Is+Now+the+Right+Time+for+You+to+Sell+Your+Home%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://brianriologroup.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brian+Riolo+/Hoboken+Real+Estate-+Is+Now+the+Right+Time+for+You+to+Sell+Your+Home%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Is now the best time to put your home on the market? Let’s take a look at the market stats.</itunes:subtitle>
+        <itunes:author>Brian Riolo</itunes:author>
+        <itunes:summary>Is now the best time to put your home on the market? Let’s take a look at the market stats.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Hoboken, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What’s Happening in the Hoboken Real Estate Market?</title>
+        <link>http://brianriologroup.com/whats-happening-in-the-hoboken-real-estate-market.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Brian Riolo</author>
+        <pubDate>2017-07-24 10:33:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Brian+Riolo+/Riolo+July+1+What%E2%80%99s+Happening+in+the+Hoboken+Real+Estate+Market.mp4</guid>
         <description>
 
@@ -50,7 +221,7 @@ There has been a slight uptick in inventory. Due to a huge build up in rental pr
 That said, every situation is different. If you have any questions about buying, selling, or investing in our market, just give us a call or send us an email. We would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brian+Riolo+/Riolo+July+1+What%E2%80%99s+Happening+in+the+Hoboken+Real+Estate+Market.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://brianriologroup.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Brian+Riolo+/Riolo+July+1+What%E2%80%99s+Happening+in+the+Hoboken+Real+Estate+Market.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>How is the Hoboken real estate market doing? Although there is concern about another real estate bubble, it doesn’t look like there’s anything to worry about.</itunes:subtitle>

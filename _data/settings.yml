@@ -1,10 +1,10 @@
 audit_header: false
-title: Riolo Residential Group
+title: -- CLIENT BRAND --
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: Testimonials
+    url: /client-testimonials/
 
 client:
   name: Brian Riolo
@@ -15,7 +15,7 @@ client:
   market: Hoboken
   brand: Riolo Residential Group
   brokerage: Weichert Realtors
-  address: 1 Newark Street Hoboken, NJ 07030
+  address: 1 Newark Street<br>Hoboken, NJ 07030
   phone: 201-253-5594
   phone_type: Cell
   phone2: 201-653-8488
@@ -25,17 +25,18 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.rioloresidentialgroup.com/cma/property-valuation/
+  first_CTA_URL: http://www.rioloresidentialgroup.com/Sellers/Get-a-Free-Home-Evaluation
   second_CTA_text: Home Search
   second_CTA_URL: http://www.rioloresidentialgroup.com/
-  VR_form: http://oi.vresp.com?fid=afd90d0fc9
+  VR_form:
 
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/002.jpg
+  - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free -- MARKET -- Home Value Report"
-    CTA_url: http://www.rioloresidentialgroup.com/cma/property-valuation/
+    CTA_url: http://www.rioloresidentialgroup.com/Sellers/Get-a-Free-Home-Evaluation
+
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
@@ -76,7 +77,7 @@ socials:
   zillow_url: https://www.zillow.com/profile/Brian-Riolo/
   trulia_url: https://www.trulia.com/profile/brian-riolo-agent-hoboken-nj-zgcfhss6/overview
   yelp_url:
-  podcast_url: https://itunes.apple.com/us/podcast/hoboken-real-estate-podcast-with-brian-riolo/id1263668182?mt=2
+  podcast_url:
 
 podcast:
   title: Hoboken Real Estate Podcast with Brian Riolo

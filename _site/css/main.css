@@ -2963,3 +2963,13 @@ form select {
 .navbar-andross .navbar-brand {
   color: #fff;
   margin-top: 10px; }
+
+.client-testimonial {
+  margin-top: 10px; }
+
+.testimonial-text {
+  font-style: italic; }
+
+.testimonial-author {
+  color: #b40101;
+  margin-top: -20px; }
