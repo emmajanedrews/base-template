@@ -6,9 +6,8 @@ permalink: /client-testimonials/
 
 
 # Client Audio Testimonials
-<HR>
-&nbsp;
-{: .present-before-paste}
+
+---
 
 ## Brian Was a Great Real Estate Agent for Ali
 {: .present-before-paste}
