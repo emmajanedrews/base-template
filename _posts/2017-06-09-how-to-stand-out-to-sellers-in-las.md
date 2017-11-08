@@ -24,7 +24,7 @@ If you want to buy a home here in the Las Vegas market, it won't be easy. You ca
 **Want to sell your home?** <a href="http://www.vegascapital.com/index.php/free-home-value/" target="_blank">Get a FREE home value report.</a>
 **Want to buy a home?** <a href="http://www.vegascapital.com/index.php/homes-for-sale-search-advanced/" target="_blank">Search all homes for sale.</a>
 
-We're back to continue our conversation about how to get your offer accepted as a buyer in the crazy seller's market we're experiencing in Las Vegas. If you missed the first part of our discussion, you can see it <a href="">here.</a>
+We're back to continue our conversation about how to get your offer accepted as a buyer in the crazy seller's market we're experiencing in Las Vegas. If you missed the first part of our discussion, you can see it <a href="http://myvegasrealestateinfo.com/how-to-stand-out-to-sellers-in-las.html">here.</a>
 
 **Inventory is low across the country and Las Vegas is no different.** We have just 4,917 single-family houses for sale in the Las Vegas area. That might not sound like a shortage, but compared to the nearly 8,000 houses we had for sale at this time last year, you can see how drastically inventory has shrunk.
 
