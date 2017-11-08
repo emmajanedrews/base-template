@@ -1,5 +1,10 @@
 show_testimonials_section: false
 testimonial:
-  - quote:
-    name:
-    audio:
+  - quote: >-
+      "He [Brian] is the most trustful [sic] and experienced real estate guy
+      that I know. He listened to us and he understands [sic] what I was looking
+      for, and he focused on our budget and expectation on our home. He was a
+      great real estate person."
+    name: Brian Was a Great Real Estate Agent for Ali
+    audio: >-
+      https://s3.amazonaws.com/vyralmarketing/Brian+Riolo+/Brian+Riolo+01+-+Ali.mp3
