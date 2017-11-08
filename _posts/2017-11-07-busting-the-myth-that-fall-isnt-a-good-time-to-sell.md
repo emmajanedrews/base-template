@@ -26,7 +26,7 @@ Today, let’s dispel the myth that fall isn’t a good time to sell your home. 
 
 A lot of people think that the best time to sell their home is in the spring or summer, and while that may be true, it’s also true that you can sell your home just as well in the fall. Let’s talk about why selling in the fall can work for you.
 
-1.) Depending on when you close—for example, if you close before December 31st—there’s a chance **you could get some awesome tax breaks and write-offs for the next year.**
+1.) Depending on when you close—for example, if you close before December 31—there’s a chance **you could get some awesome tax breaks and write-offs for the next year.**
 
 2.) It’s a wonderful idea that **you could be in a brand-new home for the holidays.** There’s nothing more special than spending the holidays in the home that you’re going to live in and build memories in with your family.
 
