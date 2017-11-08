@@ -14,7 +14,7 @@ permalink: /client-testimonials/
 
 &nbsp;
 
-<style="font-size:20px">"He [Brian] is the most trustful [sic] and experienced real estate guy that I know. He listened to us and he understands [sic] what I was looking for, and he focused on our budget and expectation on our home. He was a great real estate person."</style>
+"He [Brian] is the most trustful [sic] and experienced real estate guy that I know. He listened to us and he understands [sic] what I was looking for, and he focused on our budget and expectation on our home. He was a great real estate person."&lt;/style&gt;
 {: .present-before-paste}
 
 &nbsp;
