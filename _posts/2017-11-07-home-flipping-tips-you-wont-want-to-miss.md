@@ -20,7 +20,7 @@ youtube_code: qFex5zOfacQ
 
 {% include youtube.html %}
 
-Recently, a new top ten list has come out for the most profitable cities in the US for home flipping.&nbsp;
+Recently, a new top 10 list has come out for the most profitable cities in the US for home flipping.&nbsp;
 
 WalletHub just conducted a 150-city study to get these results, so let’s dive into what they found.
 
