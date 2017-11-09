@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Today we’re coming at you with a two-part series, where we take a much deeper
   dive into the topic of short-term rentals.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/How+Short-Term+Rentals+Can+Boost+Your+Real+Estate+Investment+Strategy.mp4
 pullquote: "From a percentage standpoint, though,\_short-term rentals produced a 50% higher return than long-term rentals."
 enclosure_type: video/mp4
 enclosure_time:
@@ -34,6 +35,6 @@ One property in particular came up that was significantly higher in return. That
 
 Initially, returns were in the single digits. From a percentage standpoint, though, short-term rentals produced a 50% higher return than long-term rentals. Her family also decided to outsource the management of these properties, so they hired a company who handles the management of similar internal units, and that 50% was after that management company’s fees.
 
-We want to thank Reese for joining us today to help us explore the topic of short-term rentals! If you're considering investing in short term real estate, we encourage you to watch the second part of this series, where we discuss what it takes to manage an investment property, and give advice to those looking to diversify their investments with real estate.&nbsp;
+We want to thank Reese for joining us today to help us explore the topic of short-term rentals! If you're considering investing in short term real estate, we encourage you to watch the second part of this series, where we discuss what it takes to manage an investment property, and give advice to those looking to diversify their investments with real estate.
 
 If you have any more questions about investing in short-term rentals, don’t hesitate to reach out to us. We’d be happy to help you.
