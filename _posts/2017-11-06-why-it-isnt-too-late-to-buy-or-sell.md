@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why It Isn't Too Late to Buy or Sell
-date: 2017-11-06 13:37:08
+date: 2017-11-06 13:37:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/no-pb-22.jpg
-youtube_code: 'https://youtu.be/PympRK1Hxeg'
+youtube_code: IQGMV91JRQs
 ---
 
 
