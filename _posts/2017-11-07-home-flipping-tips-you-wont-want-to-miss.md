@@ -22,7 +22,7 @@ youtube_code: qFex5zOfacQ
 
 Recently, a new top 10 list has come out for the most profitable cities in the US for home flipping.&nbsp;
 
-[**WalletHub just conducted a 150-city study**](https://wallethub.com/edu/best-cities-to-flip-houses/23158/.) to get these results, so let’s dive into what they found.
+*[**WalletHub just conducted a 150-city study**](https://wallethub.com/edu/best-cities-to-flip-houses/23158/.)* to get these results, so let’s dive into what they found.
 
 First of all, coastal areas are mostly off-limits for this move. The cost of getting into these areas is generally high, so you might do better in some smaller markets. Sioux Falls, South Dakota, for example, was No. 2 on the list.&nbsp;
 
