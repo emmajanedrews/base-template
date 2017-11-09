@@ -33,7 +33,7 @@ CTAs:
   first_CTA_URL: /contact/
   # second_CTA_text: Home Search
   # second_CTA_URL: http://www.natemartinezteam.com/
-  VR_form: http://oi.vresp.com?fid=39d9e3ccea
+  VR_form: http://oi.vresp.com?fid=293f5cbd1f
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/006.jpg
@@ -61,7 +61,7 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/NateMartinezTeam/
+  facebook_url: https://www.facebook.com/REMAXProfessionalsAZ
   linkedin_url: http://www.linkedin.com/in/natemartinez
   gplus_url: https://plus.google.com/110224445429180454577
   youtube_url: https://www.youtube.com/user/natemartinez8
@@ -71,7 +71,7 @@ socials:
   zillow_url: http://www.zillow.com/profile/Nate-Martinez/
   trulia_url: https://www.trulia.com/profile/nate-martinez-agent-glendale-az-zgwmjqkx/overview
   yelp_url: https://www.yelp.com/biz/nate-martinez-re-max-professionals-glendale-2
-  podcast_url:
+  podcast_url: https://itunes.apple.com/us/podcast/glendale-real-estate-careers/id1194698644?mt=2
 
 podcast:
   title: Glendale Real Estate Careers and Training Podcast with Nate Martinez

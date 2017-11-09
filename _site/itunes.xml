@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Glendale Real Estate Careers and Training Podcast with Nate Martinez</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://joinremaxprofessionalsaz.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://joinremaxprofessionalsaz.com"/>
     <description>A Podcast about Glendale Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</description>
     <language>en</language>
     <managingEditor>Nate Martinez</managingEditor>
-    <lastBuildDate>2017-11-09 13:07:43 -0600</lastBuildDate>
+    <lastBuildDate>2017-11-09 14:24:13 -0600</lastBuildDate>
     <media:copyright>Nate Martinez</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://joinremaxprofessionalsaz.com/img/podcast.jpg"/>
     <media:keywords>Glendale Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
@@ -18,12 +18,452 @@
     </itunes:owner>
     <itunes:author>Nate Martinez</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://joinremaxprofessionalsaz.com/img/podcast.jpg"/>
     <itunes:keywords>Glendale Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
     <itunes:subtitle>Boost your Career with Veteran Real Estate Agent Nate Martinez</itunes:subtitle>
     <itunes:summary>A Podcast about Glendale Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</itunes:summary>
       <itunes:category text="News &amp; Politics"/>
     
+      <item>
+        <title>We Want to Teach You How to Build Your Wealth</title>
+        <link>http://joinremaxprofessionalsaz.com/we-want-to-teach-you-how-to-build-your.html</link>
+        
+          <category>Real Estate Coaching</category>
+        
+        <author>Nate Martinez</author>
+        <pubDate>2017-10-20 12:38:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Phoenix+Real+Estate+Agent-+We+Want+to+Teach+You+How+to+Build+Your+Wealth.mp4</guid>
+        <description>
+
+Are you a real estate agent who wants to build wealth? I want to let you know that you’re invited to our next training session, where you’ll learn how to do exactly that.
+
+Join RE/MAX Professionals
+
+Are you a real estate agent who wants to build wealth? I want to let you know that you’re invited to our next training session, where you’ll learn how to do exactly that. You’ll learn how to embrace the habits and mindsets of the wealthy.
+
+You’ll also learn the seven pillars of wealth-building from none other than the guy who wrote the book—literally. We’re flying in “Wealth Can’t Wait” author David Osborn. We’re going to give away all of our strategies and systems so you can build a profitable business.
+
+When the event is over, you’ll leave with not only the knowledge to build wealth, but also a copy of David’s book.
+
+“WE’RE GIVING AWAY ALL OF OUR STRATEGIES AND SYSTEMS SO YOU CAN BUILD A PROFITABLE BUSINESS.”
+
+However, space is limited so only the first 200 in attendance will receive this free copy. To RSVP for this free event, click here.
+
+But there is one catch after you register: you have to show up.
+
+We hope to see you there on Thursday, November 2nd starting at 8:30 a.m.
+
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Phoenix+Real+Estate+Agent-+We+Want+to+Teach+You+How+to+Build+Your+Wealth.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://joinremaxprofessionalsaz.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Phoenix+Real+Estate+Agent-+We+Want+to+Teach+You+How+to+Build+Your+Wealth.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Are you a real estate agent who wants to build wealth? I want to let you know that you’re invited to our next training session, where you’ll learn how to do exactly that.
+
+</itunes:subtitle>
+        <itunes:author>Nate Martinez</itunes:author>
+        <itunes:summary>
+
+Are you a real estate agent who wants to build wealth? I want to let you know that you’re invited to our next training session, where you’ll learn how to do exactly that.
+
+</itunes:summary>
+        <itunes:keywords>Glendale Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Did You Sell Any of the 14,904 Homes Yesterday?</title>
+        <link>http://joinremaxprofessionalsaz.com/did-you-sell-any-of-14904-homes.html</link>
+        
+          <category>Phoenix Real Estate</category>
+        
+        <author>Nate Martinez</author>
+        <pubDate>2017-09-26 10:31:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/September/Phoenix+Real+Estate+Agent-+Did+You+Sell+Any+of+the+14%252C904+Homes+Yesterday%253F.mp4</guid>
+        <description>
+
+Only a small percentage of agents make the most sales. Our team is part of that small percentage.
+
+Join RE/MAX Professionals
+
+Did you know that 14,904 homes sold yesterday alone? That’s straight from the National Association of Realtors.
+
+In the Phoenix area, there are about 88,000 home sales per year. That breaks down to 7,400 each month and 275 each day. With over 35,000 Realtors in the Valley of the Sun, there are at least 26,000 Realtors who didn’t even sell a home last month.
+
+How does this happen? As you may or may not know, a lot of licensed agents around here only work in real estate part-time. At Re/MAX Professionals, we focus on real estate as a full-time career. This is one of the reasons why our agents are able to sell 24 homes per year on average, the highest average in the Valley.
+
+“THERE ARE AT LEAST 26,000 REALTORS WHO DON’T SELL A HOME EACH MONTH.”
+
+We train well, we pay well, and we support well. We have several events coming up soon. For one, we offer two real estate classes, called Momentum, each week. Momentum is all about mastering the basics. To learn more about Momentum, click here.
+
+
+
+Also, I wan to remind you that I’m bringing in David Osborn, one of the authors of “Wealth Can’t Wait” on November 2nd. You’ll learn a lot and walk away with a free hardcover copy of David’s book. Learn more about the event here.
+
+
+
+If you have any other questions for us in the meantime, don’t hesitate to reach out and give us a call or send us an email. We look forward to hearing from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/September/Phoenix+Real+Estate+Agent-+Did+You+Sell+Any+of+the+14%252C904+Homes+Yesterday%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://joinremaxprofessionalsaz.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/September/Phoenix+Real+Estate+Agent-+Did+You+Sell+Any+of+the+14%252C904+Homes+Yesterday%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Only a small percentage of agents make the most sales. Our team is part of that small percentage.
+
+</itunes:subtitle>
+        <itunes:author>Nate Martinez</itunes:author>
+        <itunes:summary>
+
+Only a small percentage of agents make the most sales. Our team is part of that small percentage.
+
+</itunes:summary>
+        <itunes:keywords>Glendale Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Recent Trends in Hispanic Homeownership</title>
+        <link>http://joinremaxprofessionalsaz.com/recent-trends-in-hispanic-homeownership.html</link>
+        
+          <category>Phoenix Real Estate</category>
+        
+        <author>Nate Martinez</author>
+        <pubDate>2017-09-11 15:43:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/September/Phoenix+Real+Estate+Agent-+Recent+Trends+in+Hispanic+Homeownership.mp4</guid>
+        <description>
+
+It’s pretty amazing to see some of the home buying numbers in the Hispanic community. Here are a few that stick out to us.
+
+Join RE/MAX Professionals
+
+The National Association of Hispanic Real Estate Professionals has recently published a report that I wanted to talk about today. There are a lot of interesting numbers in here that point to an upward trend in Hispanic homeownership that no other demographic is seeing. Here’s what’s been going on:
+
+• In 2016, there were 7.3 million Hispanic homeowners in the U.S.
+
+• Also in 2016, there were 209,000 new Hispanic homeowners.
+
+• Hispanic people account for 60% of the U.S.’s overall growth in homeownership.
+
+• Hispanic people will account for 52% of new homeownership between 2010 and 2030.
+
+• From 2010 to 2015, Hispanics accounted for more than half the population growth in the U.S. according to the U.S. Census.
+
+• Six out of 10 Hispanic homebuyers are millennials.
+
+• The Hispanic purchasing power was $1.4 trillion in 2016—more than the entire country of Australia.
+
+• Hispanic people account for 76.4% of labor growth.
+
+In addition to these numbers, you can see a graph in the video above that shows the growth in owner-occupied units. You can see the Hispanic population of homeowners start to increase over the last decade or so now that growth has outpaced that of non-Hispanic homeowners.
+
+Another graph in the video above shows the net homeownership change. It’s interesting to note that Hispanics had an additional 1.1 million homeownership changes from 2010 to 2016, while non-Hispanic homeownership changes went down by 2.2 million.
+
+“HISPANIC HOMEOWNERSHIP IS AT AN ALL-TIME HIGH.”
+
+Some of these stats just absolutely blew me away. After reading into them more, it makes sense. As far as Hispanic attitudes toward homeownership are concerned, raising a family and wealth creation have proven to be the primary drivers. It appears that trend is likely to continue.
+
+Before I go, I wanted to quickly remind you that I’m bringing in David Osborn, one of the authors of “Wealth Can’t Wait” on November 2nd. You’ll walk away with a free hardcover copy of David’s book. Learn more about the event here.
+
+
+
+At RE/MAX Professionals, we have several events coming up, ourselves. For one, we offer two real estate classes, called Momentum, each week. Momentum is all about mastering the basics. To learn more about Momentum, click here.
+
+
+
+If you have any questions about that or about real estate in general, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/September/Phoenix+Real+Estate+Agent-+Recent+Trends+in+Hispanic+Homeownership.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://joinremaxprofessionalsaz.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/September/Phoenix+Real+Estate+Agent-+Recent+Trends+in+Hispanic+Homeownership.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+It’s pretty amazing to see some of the home buying numbers in the Hispanic community. Here are a few that stick out to us.
+
+</itunes:subtitle>
+        <itunes:author>Nate Martinez</itunes:author>
+        <itunes:summary>
+
+It’s pretty amazing to see some of the home buying numbers in the Hispanic community. Here are a few that stick out to us.
+
+</itunes:summary>
+        <itunes:keywords>Glendale Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Can You Master Your Craft?</title>
+        <link>http://joinremaxprofessionalsaz.com/how-can-you-master-your-craft.html</link>
+        
+          <category>Real Estate Coaching</category>
+        
+        <author>Nate Martinez</author>
+        <pubDate>2017-08-22 13:31:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/August/Phoenix+Real+Estate+Agent-+How+Can+You+Master+Your+Craft%253F.mp4</guid>
+        <description>
+
+What does it take to master your craft? Today, I’ve got a few stories on this subject as well as a few opportunities you should know about that can help.
+
+Join RE/MAX Professionals
+
+Right now, my family and I are taking a trip up to Jackson Hole, Wyoming for the total solar eclipse. But today, I wanted to talk to you about something different—mastering your craft.
+
+When it comes to mastering your craft, one story that comes to mind for me is that of my mentor: Howard Brinton. When it comes to becoming a surgeon, mastering your craft is an absolute necessity. Between college, med school, and practicing on cadavers, a lot of time and hard work goes into it.
+
+But, there are many ways you can master your craft. When it comes to real estate, the 90 minutes it takes to get your license isn’t where the fine-tuning ends. In real estate, experience with real clients is the best way to master your craft.
+
+In fact, experience is a great way to hone your skills in any endeavor. As a kid, Kurt Warner, who was just inducted into the NFL Hall of Fame, would practice every single day. He continued this through high school, college, and beyond. Even still, success doesn’t always come that simply.
+
+Kurt was cut after being drafted by the Green Bay Packers. He didn’t make the team, but kept practicing anyway. After gaining even more experience through arena football and even playing in Europe, he was contacted by the St. Louis Rams. Then when he started playing with them, he took the team to the Super Bowl—and they won.
+
+No matter what your passion is, it will take a lot of time to master it. As a real estate agent, you can master your craft by practicing scripts, listing presentations, and buyer presentations. If you want to be great at what you do, you’ve got to practice daily.
+
+I want to help. If you’re looking to further yourself in your real estate career, I’d like to sit down with you and speak one-on-one about how you can master your craft.
+
+For me, becoming skilled at what I do is something I’ve always strived for. As a child my hero was Bruce Lee. Seeing his statue was one of the reasons I took my recent trip to Hong Kong. Bruce Lee has been an inspiration to me, and many of the things he’s said still resonate with me, today. One quote of his in particular stands out: “I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times.”
+
+“EXPERIENCE WITH REAL CLIENTS IS THE BEST WAY TO MASTER YOUR CRAFT.”
+
+This is true not just of martial arts, but of any skill. To become truly masterful over what you do, you must put in a lot of time. As a real estate professional, there are a lot of events out there designed to help you master your craft.
+
+At RE/MAX Professionals, we have several events coming up, ourselves. For one, we offer two real estate classes, called Momentum, each week. Momentum is all about mastering the basics. To learn more about Momentum, click here.
+
+
+
+We’re also excited to announce that we will be hosting a special guest speaker, David Osborn, on November 2nd, 2017. David is going to share his story with us. After college, he took a year off to backpack around the world. After coming back to help his mom with her real estate endeavors, David now owns one of the nation’s largest real estate firms.
+
+Along with his story, David will also be speaking about his most recent book, “Wealth Can’t Wait.” On that note, we have exciting news. The first 200 people who sign up will receive a copy of David’s book on us. For more information about this event, click here. 
+
+
+
+If you’ve got any questions you’d like me to answer, send it in. If we use your question in one of our videos, I’ll send you out a $50 gift certificate.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/August/Phoenix+Real+Estate+Agent-+How+Can+You+Master+Your+Craft%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://joinremaxprofessionalsaz.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/August/Phoenix+Real+Estate+Agent-+How+Can+You+Master+Your+Craft%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+What does it take to master your craft? Today, I’ve got a few stories on this subject as well as a few opportunities you should know about that can help.
+
+</itunes:subtitle>
+        <itunes:author>Nate Martinez</itunes:author>
+        <itunes:summary>
+
+What does it take to master your craft? Today, I’ve got a few stories on this subject as well as a few opportunities you should know about that can help.
+
+</itunes:summary>
+        <itunes:keywords>Glendale Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Statistics About Real Estate in the Valley</title>
+        <link>http://joinremaxprofessionalsaz.com/statistics-about-real-estate-in-valley.html</link>
+        
+          <category>Phoenix Real Estate</category>
+        
+        <author>Nate Martinez</author>
+        <pubDate>2017-07-12 14:38:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/July/Phoenix+Real+Estate+Agent-+Statistics+About+Real+Estate+in+the+Valley.mp4</guid>
+        <description>
+
+Today I have some interesting statistics about real estate agents in the Valley, and an opportunity for those Realtors who want to improve their numbers.
+
+Join RE/MAX Professionals
+
+There are almost 38,000 active licenses in the Valley today that are Realtors, plus additional non-Realtor licenses as well. There are over 4,200 real estate offices in the Valley.
+
+One interesting statistic that stands out to me is that 15% of active agents have left the business after just one year. That’s about 5,700 agents who no longer have a license.
+
+10% of agents, or about 3,800, are only in business for 24 to 36 months. After three years in the business, an additional 5% of the remaining agents leave. So once you’ve made it past four years in the business, you can expect to be doing pretty well.
+
+“ONCE YOU’VE MADE IT PAST FOUR YEARS, YOU CAN EXPECT TO BE DOING PRETTY WELL.”
+
+Throughout 2016, the number of homes sold in the Valley was 88,713. Given the current number of agents that are active, that’s only 2.36 homes per agent! Our agents at RE/MAX Professionals sell 10 times that average. Some of our agents have sold over 100 homes in the last year.
+
+So if you have any questions on how to become a better real estate agent, we offer free training to anyone interested. You don’t have to join our company, but we would love to see you come through. We’ve created a better business model that focuses on helping regular agents become legendary agents.
+
+If you have any questions about our free training, please give me a call or shoot me an email. I’d be happy to help!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/July/Phoenix+Real+Estate+Agent-+Statistics+About+Real+Estate+in+the+Valley.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://joinremaxprofessionalsaz.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/July/Phoenix+Real+Estate+Agent-+Statistics+About+Real+Estate+in+the+Valley.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Today I have some interesting statistics about real estate agents in the Valley, and an opportunity for those Realtors who want to improve their numbers.
+
+</itunes:subtitle>
+        <itunes:author>Nate Martinez</itunes:author>
+        <itunes:summary>
+
+Today I have some interesting statistics about real estate agents in the Valley, and an opportunity for those Realtors who want to improve their numbers.
+
+</itunes:summary>
+        <itunes:keywords>Glendale Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>7 Common Habits of Wealthy Individuals</title>
+        <link>http://joinremaxprofessionalsaz.com/7-common-habits-of-wealthy-individuals.html</link>
+        
+          <category>Real Estate Coaching</category>
+        
+        <author>Nate Martinez</author>
+        <pubDate>2017-06-28 13:08:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+Everyone’s life is a different journey. However, if you start forming these habits now, your journey will lead to wealth.
+
+Join RE/MAX Professionals
+
+Today’s topic is right out of the book “Wealth Can’t Wait” by David Osborn and Paul Morris. I know these gentlemen personally and was very excited to read their book. In it, I found a ton of helpful, useful information on creating wealth. One of the things that stuck out to me the most was the list of seven habits that create wealth.
+
+1. Live by design. Think about how you want your life to be and create a plan to get there.
+
+2. Make business decisions based on a solid foundation and solid fundamentals.
+
+3. Stick with what you know and drill in deep. Our wealth should be built through our biggest competency.
+
+4. Earn more by learning more. I probably go to more seminars than most Realtors, and I believe they have helped me immensely in my career. There’s always something new you can learn.
+
+“MY CONSTANT EDUCATION HAS HELPED ME IMMENSELY IN MY CAREER.”
+
+5. Break down your big goals into smaller ones and add accountability.
+
+6. Spend less than you earn and invest the rest.
+
+7. Let go of the small stuff. We need to think and act bigger than that.
+
+This is just one of the many helpful passages I picked up by reading “Wealth Can’t Wait.” If you have any questions about the book, would like to discuss it further, or want to discuss your real estate career, give us a call or send us an email today. We look forward to hearing from you.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://joinremaxprofessionalsaz.com" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Everyone’s life is a different journey. However, if you start forming these habits now, your journey will lead to wealth.
+
+</itunes:subtitle>
+        <itunes:author>Nate Martinez</itunes:author>
+        <itunes:summary>
+
+Everyone’s life is a different journey. However, if you start forming these habits now, your journey will lead to wealth.
+
+</itunes:summary>
+        <itunes:keywords>Glendale Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>3 Internet Companies That Are Interrupting the Market</title>
+        <link>http://joinremaxprofessionalsaz.com/3-internet-companies-that-are.html</link>
+        
+          <category>Phoenix Real Estate</category>
+        
+        <author>Nate Martinez</author>
+        <pubDate>2017-06-12 10:41:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+Property acquisition companies have been around for a long time in our market, but we are just now starting to see more online-only companies. Today, I’ve listed three of the most popular.
+
+Join RE/MAX Professionals
+
+Today I wanted to talk to you about three companies based solely online that are interrupting our real estate market in the Phoenix metro area.
+
+1. Open Door has been around for the last couple of years, and it’s a pretty fascinating company to say the least. I can tell you that they aren’t going away anytime soon. They have an extraordinary management team and are valued at $550 million. They have $110 million in cash equity to buy properties, and have in total $180 million to acquire properties and run this platform.
+
+I’m currently representing a buyer who is looking to purchase a home through this site and it’s been an interesting experience. As far as I know, Phoenix was one of their first test markets, and they seem to be successful so far.
+
+2. OfferPad is an online application that helps you sell your home quickly and efficiently. It was started by a local Realtor and a gentleman from Blackstone in 2005, and they have $260 million in debt acquisition money and $30 million in equity.
+
+Due to one of the founder’s developed business models, this company is expanding to multiple cities at a faster rate than Open Door. They’ve captured a 2% market share in the Phoenix metro area.
+
+3. Zillow is a well-known company that has seen a lot of controversy over their Zestimate feature. They also have an Instant Offer Program that is being tested in Las Vegas and Orlando. It’s set up for big investor pools to directly buy homes from homeowners.
+
+“THESE COMPANIES HAVE BEEN AROUND FOR A LONG TIME.”
+
+There’s been some play to keep the agent involved in these transactions, but I’m sure that at some point those parties will work to find a way around paying a commission to the agent.
+
+Both Open Door and OfferPad are buying houses and advertising their ease of use. They claim to take the pain out of selling your home, and their popularity speaks for itself. What’s interesting is that both those apps also charge a commission for acquisitions that sits between 6% and 10%, depending on the risk factor.
+
+These types of companies have been around for a long time in the direct investor-to-homeowner market. We’ve seen their yellow signs at street lights that say “I’ll buy your house for cash,” or something similar. We’re just now seeing the online model move forward.
+
+I’d love to have your opinion about these online real estate companies. Do you think they’re going to “Uber-ize” the market? Will there be less need for agents? Shoot me an email or leave a comment below with your thoughts.
+
+If you have any other questions about this or any other real estate topics, give me a call. I’d be happy to help!
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://joinremaxprofessionalsaz.com" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Property acquisition companies have been around for a long time in our market, but we are just now starting to see more online-only companies. Today, I’ve listed three of the most popular.
+
+</itunes:subtitle>
+        <itunes:author>Nate Martinez</itunes:author>
+        <itunes:summary>
+
+Property acquisition companies have been around for a long time in our market, but we are just now starting to see more online-only companies. Today, I’ve listed three of the most popular.
+
+</itunes:summary>
+        <itunes:keywords>Glendale Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Are You Practicing the Right Lead Response Strategies?</title>
+        <link>http://joinremaxprofessionalsaz.com/are-you-practicing-right-lead-response.html</link>
+        
+          <category>Real Estate Coaching</category>
+        
+        <author>Nate Martinez</author>
+        <pubDate>2017-04-27 17:03:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Phoenix+Real+Estate+Agent-+Prospecting+by+the+Numbers.mp4</guid>
+        <description>
+
+What are the best practices for prospecting? We’ve got a great study from MIT about this topic to share with you today.
+
+Join RE/MAX Professionals
+
+I’ve got some great information to share today that I recently came across. A study conducted by MIT and published in the Harvard Business Review examined a number of different factors relating to response times for lead management. They collected more than 15,000 Internet leads in a three-year period and reached out to more than 100,000 different people in order to find the best times for getting responses.
+
+Although every day is a good day to make contact, the study found that you have the best odds of reaching someone on either a Wednesday or a Thursday. There was a 49% difference between calling on Thursday versus calling on Tuesday.
+
+As for the best time to make contact, the best results were found within the 3:30 to 5:30 p.m. time period. The next best time to call would be between 8 p.m. and 9 a.m. The difference between calling at 1:00 p.m. versus calling at 4 p.m. is 164%.
+
+“YOU HAVE THE BEST ODDS OF CONVERTING LEADS WITHIN FIVE MINUTES OF CAPTURING THEM.”
+
+You’ve probably heard before that making contact with prospects is all about timeliness. In fact, you do have the greatest odds of converting leads within the first five minutes of capturing them. After that, the conversion percentage decreases by 10 times. You absolutely have to respond to these leads as soon as they come in. There is more than a 400% difference between responding within five minutes and responding within 10.
+
+Another thing this study showed was that persistence is key. When making calls, the likelihood of conversion increases greatly after about the sixth call. Continuing to call and being persistent with your leads is another simple way to ensure the success of your real estate business.
+
+If you have any other questions for me, don’t hesitate to give me a call or send me an email. If you’d just like to sit down and have a chat about your career, I’d be happy to help with that as well. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Phoenix+Real+Estate+Agent-+Prospecting+by+the+Numbers.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://joinremaxprofessionalsaz.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Phoenix+Real+Estate+Agent-+Prospecting+by+the+Numbers.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+What are the best practices for prospecting? We’ve got a great study from MIT about this topic to share with you today.
+
+</itunes:subtitle>
+        <itunes:author>Nate Martinez</itunes:author>
+        <itunes:summary>
+
+What are the best practices for prospecting? We’ve got a great study from MIT about this topic to share with you today.
+
+</itunes:summary>
+        <itunes:keywords>Glendale Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+      </item>
+      
     <copyright>Nate Martinez</copyright>
     <media:credit role="author">Nate Martinez</media:credit>
     <media:rating>nonadult</media:rating>

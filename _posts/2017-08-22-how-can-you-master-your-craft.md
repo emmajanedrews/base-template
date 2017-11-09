@@ -45,13 +45,13 @@ This is true not just of martial arts, but of any skill. To become truly masterf
 
 At RE/MAX Professionals, we have several events coming up, ourselves. For one, we offer two real estate classes, called Momentum, each week. Momentum is all about mastering the basics. To learn more about Momentum, click here.
 
-![http://www.joinrmxprofessionals.com/Momentum-Complete-Agent-Development](/uploads/momentum.jpg){: .post-image}
+<a href="http://www.joinrmxprofessionals.com/Momentum-Complete-Agent-Development" target="_blank">![](/uploads/momentum.jpg){: .post-image}</a>
 
 We’re also excited to announce that we will be hosting a special guest speaker, David Osborn, on November 2nd, 2017. David is going to share his story with us. After college, he took a year off to backpack around the world. After coming back to help his mom with her real estate endeavors, David now owns one of the nation’s largest real estate firms.
 
  Along with his story, David will also be speaking about his most recent book, “Wealth Can’t Wait.” On that note, we have exciting news. **The first 200 people who sign up will receive a copy of David’s book on us.** For more information about this event, <a href="https://www.facebook.com/events/1621981244508240/?active_tab=about" target="_blank">click here. </a>
 
-![https://www.facebook.com/events/1621981244508240/?active_tab=about](/uploads/facebook.jpg){: .post-image}
+<a href="https://www.facebook.com/events/1621981244508240/" target="_blank">![](/uploads/facebook.jpg){: .post-image}</a>
 
 If you’ve got any questions you’d like me to answer, send it in. If we use your question in one of our videos, I’ll send you out a $50 gift certificate.
 

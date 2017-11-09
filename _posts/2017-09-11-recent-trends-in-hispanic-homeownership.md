@@ -26,12 +26,19 @@ Join RE/MAX Professionals
 The National Association of Hispanic Real Estate Professionals has recently published a report that I wanted to talk about today. There are a lot of interesting numbers in here that point to an upward trend in Hispanic homeownership that no other demographic is seeing. Here’s what’s been going on:
 
 • In 2016, there were 7.3 million Hispanic homeowners in the U.S.
+
 • Also in 2016, there were 209,000 new Hispanic homeowners.
+
 • Hispanic people account for 60% of the U.S.’s overall growth in homeownership.
+
 • Hispanic people will account for 52% of new homeownership between 2010 and 2030.
+
 • From 2010 to 2015, Hispanics accounted for more than half the population growth in the U.S. according to the U.S. Census.
+
 • Six out of 10 Hispanic homebuyers are millennials.
+
 • The Hispanic purchasing power was $1.4 trillion in 2016—more than the entire country of Australia.
+
 • Hispanic people account for 76.4% of labor growth.
 
  In addition to these numbers, you can see a graph in the video above that shows the growth in owner-occupied units. You can see the Hispanic population of homeowners start to increase over the last decade or so now that growth has outpaced that of non-Hispanic homeowners.
@@ -44,10 +51,10 @@ Some of these stats just absolutely blew me away. After reading into them more, 
 
  Before I go, I wanted to quickly remind you that I’m bringing in David Osborn, one of the authors of “Wealth Can’t Wait” on November 2nd. You’ll walk away with a free hardcover copy of David’s book. Learn more about the event here.
 
-![https://www.facebook.com/events/1621981244508240/?active_tab=about](/uploads/facebook.jpg){: .post-image}
+<a href="https://www.facebook.com/events/1621981244508240/" target="_blank">![](/uploads/facebook.jpg){: .post-image}</a>
 
 At RE/MAX Professionals, we have several events coming up, ourselves. For one, we offer two real estate classes, called Momentum, each week. Momentum is all about mastering the basics. To learn more about Momentum, <a href="http://www.joinrmxprofessionals.com/Momentum-Complete-Agent-Development" target="_blank">click here.</a>
 
-![http://www.joinrmxprofessionals.com/Momentum-Complete-Agent-Development](/uploads/momentum.jpg){: .post-image}
+<a href="http://www.joinrmxprofessionals.com/Momentum-Complete-Agent-Development" target="_blank">![](/uploads/momentum.jpg){: .post-image}</a>
 
 If you have any questions about that or about real estate in general, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.

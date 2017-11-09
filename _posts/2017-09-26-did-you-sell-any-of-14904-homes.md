@@ -33,10 +33,10 @@ How does this happen? As you may or may not know, a lot of licensed agents aroun
 
 We train well, we pay well, and we support well. We have several events coming up soon. For one, we offer two real estate classes, called Momentum, each week. Momentum is all about mastering the basics. To learn more about Momentum, <a href="http://www.joinrmxprofessionals.com/Momentum-Complete-Agent-Development" target="_blank">click here.</a>
 
-![http://www.joinrmxprofessionals.com/Momentum-Complete-Agent-Development](/uploads/momentum.jpg){: .post-image}
+<a href="http://www.joinrmxprofessionals.com/Momentum-Complete-Agent-Development" target="_blank">![](/uploads/momentum.jpg){: .post-image}</a>
 
 Also, I wan to remind you that I’m bringing in David Osborn, one of the authors of “Wealth Can’t Wait” on November 2nd. You’ll learn a lot and walk away with a free hardcover copy of David’s book. <a href="https://www.facebook.com/events/1621981244508240/?active_tab=about" target="_blank">Learn more about the event here.</a>
 
-![https://www.facebook.com/events/1621981244508240/?active_tab=about](/uploads/facebook.jpg){: .post-image}
+<a href="https://www.facebook.com/events/1621981244508240/" target="_blank">![](/uploads/facebook.jpg){: .post-image}</a>
 
 If you have any other questions for us in the meantime, don’t hesitate to reach out and give us a call or send us an email. We look forward to hearing from you.
