@@ -10,7 +10,8 @@ excerpt: >-
   bound to have a lot of questions throughout the process. Here are the eight
   most common home buying questions that I receive, along with my answers.
   Without further ado, let’s get to them:
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jody+Donaldson/Northern+Virginia+Real+Estate+Agent-+8+questions+you+probably+have.mp4
 pullquote: Contingencies are the best way out of a transaction.
 enclosure_type: video/mp4
 enclosure_time:
