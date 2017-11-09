@@ -21,7 +21,7 @@ blogger_orig_url: http://joinrmxprofessionals.blogspot.com/2017/09/recent-trends
 {% include youtube.html %}
 It’s pretty amazing to see some of the home buying numbers in the Hispanic community. Here are a few that stick out to us.
 
-Join RE/MAX Professionals
+<a href="http://www.joinrmxprofessionals.com/Join-Today" target="_blank">Join RE/MAX Professionals</a>
 
 The National Association of Hispanic Real Estate Professionals has recently published a report that I wanted to talk about today. There are a lot of interesting numbers in here that point to an upward trend in Hispanic homeownership that no other demographic is seeing. Here’s what’s been going on:
 

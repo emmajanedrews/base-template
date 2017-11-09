@@ -21,7 +21,7 @@ blogger_orig_url: http://joinrmxprofessionals.blogspot.com/2017/07/statistics-ab
 {% include youtube.html %}
 Today I have some interesting statistics about real estate agents in the Valley, and an opportunity for those Realtors who want to improve their numbers.
 
-Join RE/MAX Professionals
+<a href="http://www.joinrmxprofessionals.com/Join-Today" target="_blank">Join RE/MAX Professionals</a>
 
 There are almost 38,000 active licenses in the Valley today that are Realtors, plus additional non-Realtor licenses as well. There are over 4,200 real estate offices in the Valley.
 

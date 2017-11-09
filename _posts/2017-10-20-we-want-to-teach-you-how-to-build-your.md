@@ -21,7 +21,7 @@ blogger_orig_url: http://joinrmxprofessionals.blogspot.com/2017/10/we-want-to-te
 {% include youtube.html %}
 Are you a real estate agent who wants to build wealth? I want to let you know that you’re invited to our next training session, where you’ll learn how to do exactly that.
 
-Join RE/MAX Professionals
+<a href="http://www.joinrmxprofessionals.com/Join-Today" target="_blank">Join RE/MAX Professionals</a>
 
 Are you a real estate agent who wants to build wealth? I want to let you know that you’re invited to our next training session, where you’ll learn how to do exactly that. You’ll learn how to embrace the habits and mindsets of the wealthy.
 

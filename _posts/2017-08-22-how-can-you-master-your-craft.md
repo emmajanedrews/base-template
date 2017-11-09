@@ -21,7 +21,7 @@ blogger_orig_url: http://joinrmxprofessionals.blogspot.com/2017/08/how-can-you-m
 {% include youtube.html %}
 What does it take to master your craft? Today, I’ve got a few stories on this subject as well as a few opportunities you should know about that can help.
 
-Join RE/MAX Professionals
+<a href="http://www.joinrmxprofessionals.com/Join-Today" target="_blank">Join RE/MAX Professionals</a>
 
 Right now, my family and I are taking a trip up to Jackson Hole, Wyoming for the total solar eclipse. But today, I wanted to talk to you about something different—mastering your craft.
 

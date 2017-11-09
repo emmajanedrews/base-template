@@ -21,7 +21,7 @@ blogger_orig_url: http://joinrmxprofessionals.blogspot.com/2017/06/7-common-habi
 {% include youtube.html %}
 Everyone’s life is a different journey. However, if you start forming these habits now, your journey will lead to wealth.
 
-Join RE/MAX Professionals
+<a href="http://www.joinrmxprofessionals.com/Join-Today" target="_blank">Join RE/MAX Professionals</a>
 
 Today’s topic is right out of the book **“Wealth Can’t Wait”** by David Osborn and Paul Morris. I know these gentlemen personally and was very excited to read their book. In it, I found a ton of helpful, useful information on creating wealth. One of the things that stuck out to me the most was the list of seven habits that create wealth.
 

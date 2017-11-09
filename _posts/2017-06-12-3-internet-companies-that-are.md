@@ -21,7 +21,7 @@ blogger_orig_url: http://joinrmxprofessionals.blogspot.com/2017/06/3-internet-co
 {% include youtube.html %}
 Property acquisition companies have been around for a long time in our market, but we are just now starting to see more online-only companies. Today, I’ve listed three of the most popular.
 
-Join RE/MAX Professionals
+<a href="http://www.joinrmxprofessionals.com/Join-Today" target="_blank">Join RE/MAX Professionals</a>
 
 Today I wanted to talk to you about three companies based solely online that are interrupting our real estate market in the Phoenix metro area.
 

@@ -21,7 +21,7 @@ blogger_orig_url: http://joinrmxprofessionals.blogspot.com/2017/09/did-you-sell-
 {% include youtube.html %}
 Only a small percentage of agents make the most sales. Our team is part of that small percentage.
 
-Join RE/MAX Professionals
+<a href="http://www.joinrmxprofessionals.com/Join-Today" target="_blank">Join RE/MAX Professionals</a>
 
 Did you know that 14,904 homes sold yesterday alone? That’s straight from the National Association of Realtors.
 
