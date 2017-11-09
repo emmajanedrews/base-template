@@ -11,8 +11,8 @@ enclosure: >-
 pullquote: "From a percentage standpoint, though,\_short-term rentals produced a 50% higher return than long-term rentals."
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/no-pb-40.jpg
 youtube_code: e2qWEOXQ6r4
 ---
 
