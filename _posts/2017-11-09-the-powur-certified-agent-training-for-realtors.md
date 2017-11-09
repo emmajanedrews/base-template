@@ -17,7 +17,7 @@ youtube_code: R-jXH1bnMbE
 
 {% include youtube.html %}
 
-[REGISTER HERE](https://www.eventbrite.com/e/the-powur-certified-agent-training-for-realtors-tickets-39297245118?utm_source=KWCV-+Jim%27s+list+to+agents&amp;utm_campaign=fe1b0a4604-EMAIL_CAMPAIGN_2017_11_16&amp;utm_medium=email&amp;utm_term=0_2026cf1a3f-fe1b0a4604-197879241)
+[REGISTER HERE](https://www.eventbrite.com/e/the-powur-certified-agent-training-for-realtors-tickets-39297245118?utm_source=KWCV-+Jim%27s+list+to+agents&amp;utm_campaign=fe1b0a4604-EMAIL_CAMPAIGN_2017_11_16&amp;utm_medium=email&amp;utm_term=0_2026cf1a3f-fe1b0a4604-197879241){:target="_blank"}
 
 Keller Williams is proud to present The Powur Certified Agent Training for Realtors for **FREE on November 16th.**
 
@@ -53,4 +53,4 @@ This training will provide information and resources to help agents be prepared 
 
 **BYOB:**&nbsp;(Bring Your Own Bill) to learn how to read your bill and enter a drawing for a gift card.
 
-[REGISTER HERE](https://www.eventbrite.com/e/the-powur-certified-agent-training-for-realtors-tickets-39297245118?utm_source=KWCV-+Jim%27s+list+to+agents&amp;utm_campaign=fe1b0a4604-EMAIL_CAMPAIGN_2017_11_16&amp;utm_medium=email&amp;utm_term=0_2026cf1a3f-fe1b0a4604-197879241)
+[REGISTER HERE](https://www.eventbrite.com/e/the-powur-certified-agent-training-for-realtors-tickets-39297245118?utm_source=KWCV-+Jim%27s+list+to+agents&amp;utm_campaign=fe1b0a4604-EMAIL_CAMPAIGN_2017_11_16&amp;utm_medium=email&amp;utm_term=0_2026cf1a3f-fe1b0a4604-197879241){:target="_blank"}
