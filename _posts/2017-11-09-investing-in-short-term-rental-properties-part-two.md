@@ -23,7 +23,7 @@ Welcome to Part Two of our series on investing in short-term rentals, or, more s
 
 To watch the first part in this series, click here.
 
-In the first part of this series, Reece explained the return she received on this investment. &nbsp;Initially, returns were in the single digits. From a percentage standpoint, though, short-term rentals produced a 50% higher return than long-term rentals. Her family also decided to outsource the management of these properties, so they hired a company who handles the management of similar internal units, and that 50% was after that management company’s fees.
+In the first part of this series, Reece explained the return she received on this investment.  Initially, returns were in the single digits. From a percentage standpoint, though, short-term rentals produced a 50% higher return than long-term rentals. Her family also decided to outsource the management of these properties, so they hired a company who handles the management of similar internal units, and that 50% was after that management company’s fees.
 
 When it comes to managing the property itself, her workload has decreased because their management company, like most management companies, has a handyman on call for maintenance issues within short-term properties. Many people wonder how much time they’ll have to devote to managing residential rental property, and the answer is usually less than you think.
 
