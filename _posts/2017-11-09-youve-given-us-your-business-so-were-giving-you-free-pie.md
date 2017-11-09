@@ -26,7 +26,7 @@ Now, it’s our time to give back. This Thanksgiving, the pie is on us. That rig
 
 {% include pullquote.html %}
 
-**All you need to do is fill out the form below to order your choice of either apple, pumpkin, or pecan pie&nbsp;**by Sunday November 19th&nbsp;**and show up at our office **to pick it up&nbsp;**between 2 p.m. and 6 p.m. on Tuesday, November 21st.&nbsp;**
+**All you need to do is fill out the form below to order your choice of either apple, pumpkin, or pecan pie by Sunday November 19th and show up at our office to pick it up between 2 p.m. and 6 p.m. on Tuesday, November 21st. **
 
 You can place your order here.
 
