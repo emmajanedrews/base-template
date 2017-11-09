@@ -20,4 +20,18 @@ youtube_code: 'https://youtu.be/rRfxsCi0niM'
 
 {% include youtube.html %}
 
+With Thanksgiving just around the corner, I want to take a moment to let all of my clients know how much my team and I appreciate you. Thanks to your support, referrals, and loyalty, we’ve been able to sell hundreds of homes over the past three years.
+
+Now, it’s our time to give back. This Thanksgiving, the pie is on us. That right: we’re giving away free pies.
+
+**All you need to do is order your choice of either apple, pumpkin, or pecan pie, and show up at our office between 11 a.m. and 5 p.m. on Tuesday, November 21 to pick it up.**
+
 {% include pullquote.html %}
+
+You can place your order here.
+
+Now, my husband Jim graciously offered to bake each and every pie himself. But, to do that, he would’ve needed to start a long time ago. That’s why we’re using a bakery.
+
+If you want to see his attempt, however, you can check out the video above.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
