@@ -35,5 +35,3 @@ Now, my husband Jim graciously offered to bake each and every pie himself. But, 
 If you want to see his attempt, however, you can check out the video above.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
-
-&lt;iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdLosnlrZ1Mu64DftXiPdz6iPV7B5zVZ0yfLEUrkfII8VSo0g/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0"&gt;Loading...&lt;/iframe&gt;
