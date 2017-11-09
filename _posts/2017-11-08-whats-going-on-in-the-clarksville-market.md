@@ -44,3 +44,5 @@ The price range for the hottest homes on the market is still holding at the $140
 **We can help you make sure that you’re one of those houses that sell quickly.** We have houses selling in five days and even one day, and a lot of times we get competing offers on those houses. Making your house competitive sometimes allows you to get that higher price.
 
 I look forward to next month’s market update on the goings-on in Clarksville. See you then!
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
