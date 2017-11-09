@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/ron-margolis-11-6-17youtube.jpg
-youtube_code: nOu11srZS2U
+youtube_code: EY7eMzwW6DY
 ---
 
 
