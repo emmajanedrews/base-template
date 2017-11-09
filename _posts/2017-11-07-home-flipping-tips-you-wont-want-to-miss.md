@@ -44,6 +44,8 @@ In short, flipping is not for the weak of heart. You need cash, you need to move
 
 Here is a list of the top 10 cities:
 
-1. El Paso, Texas<br>2. Sioux Falls, South Dakota<br>3. Fort Wayne, Indiana<br>4. Peoria, Arizona<br>5. Oklahoma City, Oklahoma<br>6. Tampa, Florida<br>7. Grand Rapids, Michigan<br>8. Boise, Idaho<br>9. Greensboro, North Carolina<br>10. Springfield, Missouri
+<div>1. El Paso, Texas<br />2. Sioux Falls, South Dakota<br />3. Fort Wayne, Indiana<br />4. Peoria, Arizona<br />5. Oklahoma City, Oklahoma<br />6. Tampa, Florida<br />7. Grand Rapids, Michigan<br />8. Boise, Idaho<br />9. Greensboro, North Carolina<br />10. Springfield, Missouri</div>
+
+<div>&nbsp;</div>
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
