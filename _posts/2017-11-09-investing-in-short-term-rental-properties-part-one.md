@@ -23,7 +23,7 @@ Today we’re coming at you with a two-part series, where we take a much deeper 
 
 To discuss how short-term rentals can make a wise real estate investment strategy, we’ve brought in Reese, a client of ours who’s recently found success investing in short-term rentals.
 
-Reese had a few goals in mind when she got into real estate investing. Though she wasn’t initially thrilled about the idea, after a few conversations with us, it became clear to her that it was a great option to add to the current investments she has from a diversification standpoint. She also considered it important to gain some passive income in addition to her job. On a more personal note, it was important for her to have an investment dedicated to the medical needs of her son.
+**Reese had a few goals in mind when she got into real estate investing**. Though she wasn’t initially thrilled about the idea, after a few conversations with us, it became clear to her that it was a great option to add to the current investments she has from a diversification standpoint. She also considered it important to gain some passive income in addition to her job. On a more personal note, it was important for her to have an investment dedicated to the medical needs of her son.
 
 {% include pullquote.html %}
 
