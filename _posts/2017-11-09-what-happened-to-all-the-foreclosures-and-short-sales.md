@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Happened to All the Foreclosures and Short Sales?
-date:
+date: 2017-11-09 13:29:10
 tags:
   - Market Update
 excerpt: >-
@@ -14,7 +14,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/joe-sabato-foreclosure-deal-youtube-1.jpg
 youtube_code: 'https://youtu.be/y2IWwUWV8m0'
 ---
 
