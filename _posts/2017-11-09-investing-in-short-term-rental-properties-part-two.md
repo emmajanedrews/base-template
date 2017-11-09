@@ -8,7 +8,7 @@ excerpt: >-
   specifically, Airbnb properties. Joining me again is Reese, a client of ours
   who has recently used short-term rentals in her investing strategy.
 enclosure:
-pullquote: Always have a good team in place when investing in short-term rentals.
+pullquote: Always have a good team in place when investing in short-term rentals
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
