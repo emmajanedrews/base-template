@@ -29,7 +29,7 @@ With that being said, there are certain factors that will boost the value of you
 
 {% include pullquote.html %}
 
-Nevertheless, people tend to forget about the important things. When making repairs and updates to a home, there are a lot of “non sexy” fixes that can’t be overlooked. **Things like leaky faucets and peeling paint need to be taken care of before you can focus on more exciting updates.**
+Nevertheless, people tend to forget about the important things. When making repairs and updates to a home, there are a lot of “non-sexy” fixes that can’t be overlooked. **Things like leaky faucets and peeling paint need to be taken care of before you can focus on more exciting updates.**
 
 You’ll also want to make all necessary repairs or updates to your AC, furnace, or siding. These all yield about an 80% return and will be important to the buyer.
 
