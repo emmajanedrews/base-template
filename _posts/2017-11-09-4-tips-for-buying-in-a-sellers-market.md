@@ -26,10 +26,12 @@ Sometimes, homebuyers wonder if it’s even worth competing against other offers
 
 However, you shouldn’t be discouraged. Today, I’ve got four tips for navigating a seller’s market as a buyer.
 
-**1. Submit a large earnest deposit.** At closing, these funds will count toward your down payment. By offering beyond the normal limits, you are showing the seller that you are serious about buying. This can go a long way in getting your offer accepted.<br>**2. Show the sellers you’re qualified.** Almost every offer will be accompanied by a pre-approval letter. This is different from a prequalified letter. Being pre-approved makes you a stronger buyer in the seller’s eyes.
+**1. Submit a large earnest deposit.** At closing, these funds will count toward your down payment. By offering beyond the normal limits, you are showing the seller that you are serious about buying. This can go a long way in getting your offer accepted.<br>**2. Show the sellers you’re qualified.** Almost every offer will be accompanied by a pre-approval letter. This is different from a pre-qualified letter. Being pre-approved makes you a stronger buyer in the seller’s eyes.
 
 {% include pullquote.html %}
 
 **3. Give the sellers time to move.** Buyer possession is often a sticky point. Juggling multiple transactions can be different, especially if the seller is doing the same. Try to stay flexible, and consult with your agent on the desired move-in and move-out dates.<br>**4. Write your best offer.** Ask your agent for a comparative market analysis to help you determine pricing. Sometimes, sellers will intentionally price their home below comparative sales in order generate multiple offers. Don’t hope for negotiations. If you truly love the home, make your best offer from the very start. Paying a little extra doesn’t necessarily mean you’re paying over market value.
 
 As a bonus tip, did you know that our mortgage partners can guarantee your approval? Visit **[www.60seconds.ca](www.60seconds.ca)** and get approved fast.
+
+If you have any more questions about navigating a seller's market, don't hesitate to reach out to us. We'd be happy to help you.
