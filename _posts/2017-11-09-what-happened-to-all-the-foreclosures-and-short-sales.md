@@ -1,13 +1,14 @@
 ---
 layout: post
 title: What Happened to All the Foreclosures and Short Sales?
-date: 2017-11-09 13:29:10
+date: 2017-11-09 13:29:00
 tags:
   - Market Update
 excerpt: >-
   Every buyer wants a deal, but waiting around for a foreclosure or short sale
   is a bad option—those types of listings just don’t exist out there
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Joe+Sabato/Videos/Stuart+Real+Estate+Agent-+The+Disappearing+Deal-+Foreclosure+Sales+Are+Gone.mp4
 pullquote: >-
   The reality of the situation is that in today’s market, deals on foreclosures
   and short sales just don’t exist.
