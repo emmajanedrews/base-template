@@ -34,7 +34,7 @@ There are a lot of ways to succeed when selling a house and just as many ways to
 
 {% include pullquote.html %}
 
-3. Not making your property presentable. If you want to find a buyer for your real estate investment, you need to make sure that it looks presentable and ready to sell every time it’s shown. Vacuum the floors, paint the walls, and do everything else you can to keep your house as clean as possible.\*\* Since buyers expect a home to be spotless when they walk through, even a little bit of clutter could cost you an offer.\*\*
+3. Not making your property presentable. If you want to find a buyer for your real estate investment, you need to make sure that it looks presentable and ready to sell every time it’s shown. Vacuum the floors, paint the walls, and do everything else you can to keep your house as clean as possible.** Since buyers expect a home to be spotless when they walk through, even a little bit of clutter could cost you an offer.**
 
 <br>Selling a home isn’t easy in this market, but it will only get harder if you don’t take extra care to avoid these three major mistakes.
 
