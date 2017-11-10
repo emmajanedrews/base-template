@@ -5,14 +5,14 @@ tags:
   - Real Estate
 excerpt: >-
   Welcome to Part Two of our series on investing in short-term rentals, or, more
-  specifically, Airbnb properties. Joining me again is Reese, a client of ours
+  specifically, Airbnb properties. Joining me again is Rees, a client of ours
   who has recently used short-term rentals in her investing strategy.
 enclosure:
 pullquote: Always have a good team in place when investing in short-term rentals
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/intro-00-00-15-22-still004-1-1.jpg
 youtube_code: 0b1klbVLTis
 ---
 
@@ -23,7 +23,7 @@ Welcome to Part Two of our series on investing in short-term rentals. Joining me
 
 [**To watch the first part in this series, click here.**](/investing-in-short-term-rental-properties-part-one.html)
 
-**In the first part of this series, Rees explained the return she received on this investment.**&nbsp;Initially, returns were in the single digits. From a percentage standpoint, though, short-term rentals produced a 50% higher return than long-term rentals. Her family also decided to outsource the management of these properties, so they hired a company who handles the management of similar internal units, and that 50% was after that management company’s fees.
+**In the first part of this series, Rees explained the return she received on this investment.** Initially, returns were in the single digits. From a percentage standpoint, though, short-term rentals produced a 50% higher return than long-term rentals. Her family also decided to outsource the management of these properties, so they hired a company who handles the management of similar internal units, and that 50% was after that management company’s fees.
 
 When it comes to managing the property itself, her workload has decreased because their management company, like most management companies, has a handyman on call for maintenance issues within short-term properties. Many people wonder how much time they’ll have to devote to managing residential rental property, and the answer is usually less than you think.
 
