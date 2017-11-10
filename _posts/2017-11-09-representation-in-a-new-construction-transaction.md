@@ -29,7 +29,7 @@ When you buy a new build site, it’s important to know that the agent at the mo
 
 As a buyer, if you want to make an offer on a new build property, working with a buyer’s agent can be very important. We’ve seen a lot of people fall in love with all of the beautiful, shiny things that new construction has to offer. In terms of resale, it’s important to work with an agent who works in the existing resale market to figure out what you can do to make the home of value to others in the future should you ever decide to sell it.
 
-For example, we often see people put stainless steel appliances and granite countertops above a third garage sale in terms of importance. If you’re building a $500,000 house, the third stall is just an expectation at that point.
+For example, we often see people put stainless steel appliances and granite countertops above a third garage stall in terms of importance. If you’re building a $500,000 house, the third stall is just an expectation at that point.
 
 {% include pullquote.html %}
 
