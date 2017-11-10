@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A Question from a Past Client
-date: 2017-11-09 13:17:31
+title: A Question From a Past Client
+date: 2017-11-09 13:17:00
 tags:
   - Real Estate
 excerpt: >-
