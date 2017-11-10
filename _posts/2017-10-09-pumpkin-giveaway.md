@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pumpkin Giveaway!
+title: The Carter Property Group's Pumpkin Giveaway!
 tags:
   - Real Estate
 excerpt: >-
