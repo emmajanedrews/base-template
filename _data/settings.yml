@@ -43,7 +43,7 @@ client:
   phone2:
   phone2_type:
   email: becky@beckyivins.com
-  url: beckyivins.com
+  url: http://www.beckyivins.com/
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://www.beckyivins.com/home-valuation/'
