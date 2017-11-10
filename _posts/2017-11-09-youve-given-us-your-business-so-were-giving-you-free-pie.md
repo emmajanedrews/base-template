@@ -20,15 +20,15 @@ youtube_code: 'https://youtu.be/R8-4SFRXVZ8'
 
 {% include youtube.html %}
 
-With Thanksgiving just around the corner, I want to take a moment to let all of my clients know how much my team and I appreciate you. Thanks to your support, referrals, and loyalty, we’ve been able to sell hundreds of homes over the past three years.
+With Thanksgiving just around the corner, I want to take a moment to let all of my clients know how much my team and I appreciate you. Thanks to your support, referrals, and loyalty, we’ve been able to sell thousands of homes over the past three years.
 
 Now, it’s our time to give back. This Thanksgiving, the pie is on us. That right: we’re giving away free pies.
 
 {% include pullquote.html %}
 
-**All you need to do is fill out the form below to order your choice of either apple, pumpkin, or pecan pie by Sunday November 19th and show up at our office to pick it up between 2 p.m. and 6 p.m. on Tuesday, November 21st.&nbsp;**
+All you need to do is fill out the form linked below to **order your choice of either apple, pumpkin, or pecan pie by Sunday, November 19th** and show up at our office to pick it up between 2 p.m. and 6 p.m. on Tuesday, November 21st. Our office is located at 6905 NW 122nd Street Oklahoma City, OK 73142.
 
-[You can place your order here.](https://goo.gl/forms/j5S6OT03lI7S1fQ02)
+[You can place your order here.](https://goo.gl/forms/Jvy3DwahwaySUq9f2)
 
 Now, my husband Jim graciously offered to bake each and every pie himself. But, to do that, he would’ve needed to start a long time ago. That’s why we’re using a bakery.
 
