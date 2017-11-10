@@ -8,7 +8,8 @@ excerpt: >-
   With Thanksgiving just around the corner, I want to take a moment to let all
   of my clients know how much my team and I appreciate you. To show you we mean
   it, we’re giving away some free pies.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Becky+Ivins/Videos/NOV/Oklahoma+City+Metro+Real+Estate+Agent-+Let+Us+Provide+the+Pie+This+Thanksgiving.mp4
 pullquote: 'This Thanksgiving, the pie is on us.'
 enclosure_type: video/mp4
 enclosure_time:
