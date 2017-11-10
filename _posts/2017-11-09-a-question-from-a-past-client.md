@@ -30,6 +30,6 @@ I want to give a big thanks today to one of our past clients, Lamont, who asked,
 
 Shelby County currently has a website for foreclosure listings that total about 3,000 homes. They range in asking price from $12,000 to $390,000. **But the most critical issue with foreclosures is the cost of repairs**, as those must be completed and paid for by the buyer—foreclosures are sold as-is.
 
-Therefore, **one of the strengths the Peterson Team has always been its experience with home repairs and our connection with contractors** that are licensed and bonded. The estimates for repairs must be known if you want to avoid buying a money pit.
+Therefore, **one of the strengths of the Peterson Team has always been its experience with home repairs and our connection with contractors** that are licensed and bonded. The estimates for repairs must be known if you want to avoid buying a money pit.
 
 Want our help? Give us a call or email us. If you have any questions, please let us know.
