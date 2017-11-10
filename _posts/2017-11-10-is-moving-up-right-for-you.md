@@ -30,6 +30,6 @@ These are all important things to consider, but timing can also become a major i
 
 Having a professional help you through this process will be key. This is especially the case if you need to list your current property, as well. In this situation, **the ideal outcome would be for you to close on your current and new property at the same time.**
 
-Moving up will cost you if it goes wrong. That’s why my team and I want to make sure you do it right. **We’ve got a great opportunity for you to learn more at our upcoming event.** We hope you’ll join us at rightsizing seminar at Arrowhead Country Club. You can RSVP and [**find all of the details here.**](http://www.nateshomes.com/VIP-Seminar)
+Moving up will cost you if it goes wrong. That’s why my team and I want to make sure you do it right. **We’ve got a great opportunity for you to learn more at our upcoming event.** We hope you’ll join us at rightsizing seminar at Arrowhead Country Club. You can RSVP and [**find all of the details here.**](http://www.nateshomes.com/VIP-Seminar){: target="_blank"}
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
