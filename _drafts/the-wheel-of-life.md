@@ -22,7 +22,7 @@ youtube_code: VfqQjzeT0Ps
 
 {% include pullquote.html %}
 
-**On page one of the document, you’ll see that your life can be broken down into seven key areas**: work, money, love life, family, spirituality, friends, and self. Each of these areas will have significant struggles within them, so there is space for you to write down a few things you are struggling with in each of the areas. Rate them from 1-10 based on how you think you’re handling those areas of your life, with 10 being the best. At the bottom of the first page, complete the section that asks you what your biggest struggle is overall.
+**On page one of the document, you’ll see that your life can be broken down into seven key areas**: work, money, love life, family, spirituality, friends, and self. Each of these areas will have significant struggles within them, so there is space for you to write down a few things you are struggling with in each of the areas. Rate them from one to 10 based on how you think you’re handling those areas of your life, with 10 being the best. At the bottom of the first page, complete the section that asks you what your biggest struggle is overall.
 
 On the second page, you’ll see a wheel with seven spokes. Each of those spokes are for the areas of life that we mentioned above. Plot each one based on the numbers from the first page. You should end up with a perfect circle, but you probably won’t the first time you do this. My first wheel looked more like a flat tire. The idea is that **over time, your wheel will straighten out and become a perfect circle**. At the bottom of this page, write down the biggest “a-ha” moment you had.
 
