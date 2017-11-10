@@ -25,7 +25,7 @@ Is Zillow an accurate way to calculate your home’s value?
 
 **To calculate any home’s value, Zillow uses an automated value tool called a Zestimate**. Automated values work via a complex algorithm that takes into account neighboring home sales, available tax information, the last time your home sold, and numerous other data points.
 
-Some Realtors and brokers hate Zillow, but I’m not one of them. These automated values are better in some neighborhoods than others. If you live in a subdivision with 100 similar homes, Zillow can usually calculate your home’s value to within 10% of it’s likely sale price.
+Some Realtors and brokers hate Zillow, but I’m not one of them. These automated values are better in some neighborhoods than others. If you live in a subdivision with 100 similar homes, Zillow can usually calculate your home’s value to within 10% of its likely sale price.
 
 **The challenge with automated values is with homes that are unique**. In Minnesota, waterfront properties, homes with an acreage, or homes that are worth over $500,000 don’t work well with Zillow’s automated value system.
 
