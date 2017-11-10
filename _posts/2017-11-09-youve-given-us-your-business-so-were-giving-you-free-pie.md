@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/becky-ivins--thankgiving-pie-youtube.jpg
-youtube_code: 'https://youtu.be/R8-4SFRXVZ8'
+youtube_code: 'https://youtu.be/4KlL0dIzQ8U'
 ---
 
 
