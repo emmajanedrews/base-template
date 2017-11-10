@@ -7,20 +7,20 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Ryan Kalalau
   license_number:
   about_markdown: |
 
-  market:
-  brand:
+  market: Greater Puget Sound
+  brand: Stewart Title Company
   brokerage:
-  address:
-  phone:
-  phone_type:
-  phone2:
-  phone2_type:
-  email:
-  url:
+  address: '1420 5th Ave #440<br>Seattle, WA 98101'
+  phone: 206-437-3636
+  phone_type: Cell
+  phone2: 206-207-3636
+  phone2_type: Office
+  email: ryan.kalalau@stewart.com
+  url: https://www.stewart.com
 
 CTAs:
   first_CTA_text: Home Valuation
@@ -96,7 +96,7 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
+  brand_color: '#942332'
   theme_color: '#999'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
