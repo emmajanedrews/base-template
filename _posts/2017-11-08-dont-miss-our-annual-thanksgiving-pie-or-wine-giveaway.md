@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don't Miss Our Annual Thanksgiving Pie or Wine Giveaway
-date: 2017-11-08 13:20:48
+date: 2017-11-08 13:20:00
 tags:
 excerpt: >-
   It’s almost Thanksgiving and that means our annual Pie or Wine Giveaway is
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: ca7ZPkutR-U
+youtube_code: os07Jn_vqzA
 ---
 
 
