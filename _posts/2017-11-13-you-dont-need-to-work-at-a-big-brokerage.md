@@ -28,11 +28,11 @@ What’s my experience? Well, I’ve been at most of those brokerages, and I’l
 
 I’ve been at two Keller Williams agencies, and most of the reasons why I left came down to two things.
 
-**The first is recruiting.**If you own a team at a brokerage or if you’re an independent agent, a lot of the Keller Williams agencies have a cap system where you have to pay in $21,000, and as a buyer’s agent, you have a cap of around $8,500. In my experience at those brokerages, that sets up a system that makes it tough to recruit from within the brokerage.
+**The first is recruiting.&nbsp;**If you own a team at a brokerage or if you’re an independent agent, a lot of the Keller Williams agencies have a cap system where you have to pay in $21,000, and as a buyer’s agent, you have a cap of around $8,500. In my experience at those brokerages, that sets up a system that makes it tough to recruit from within the brokerage.
 
 I’m at Key Realty, and everyone here has the same split—**I pay the same as everyone on my team**, which is just a few thousand dollars, a sixth of the cost at Keller Williams.
 
-One of the big trade-offs is if I take a capping agent at Keller Williams (someone that takes $21,000 a year in commissions), and bring them onto my team where they only take $8,500, that loses Keller Williams $13,000 in company money.
+One of the big trade-offs is if I take a capping agent at Keller Williams (someone that takes $21,000 a year in commissions) and bring them onto my team where they only take $8,500, that loses Keller Williams $13,000 in company money.
 
 One of the things I heard from them was that they were going to help me build up my team, but in my time at two different Keller Williams agencies, I was never sent one person to interview. Most of that was done on my own, and I couldn’t let other people know that I was looking to recruit.<br><br>I’ve also been with smaller companies like List Realty and other brokerages. When I started, I had a 419 phone number and I made thousands of calls in my first few years. A lot of the time, people would ask where I was calling from. I would tell them I’m calling from central Ohio, and they’d ask why I had a 419 number.
 
