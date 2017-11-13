@@ -25,9 +25,9 @@ Thanksgiving is just around the corner, which means it’s time for our annual p
 
 **This is just our way of giving back to our clients.** We do this every year because our clients really enjoy it. It’s also a great chance for us to see everyone at our local office by Valencia High School.
 
-We’ll send you a survey soon so that you can pick out which kind of pie you would like to enjoy with your family this Thanksgiving, so keep an eye out for that email to reserve your pie.
+If you would like to join us and stop by and get your pie, [please fill out the survey and respond and let us know we can expect you.](https://www.surveymonkey.com/r/P7T5QDW)&nbsp; Quantities are limited.
 
-Then on Wednesday, November 22 from 4 p.m. to 6 p.m., you can stop by our office for two or three hours, enjoy a drink with us, celebrate a bit, and then grab your pie.
+Then on Wednesday, November 22 from 5 p.m. to 7 p.m., you can stop by our office for two or three hours, enjoy a drink with us, celebrate a bit, and then grab your pie.
 
 {% include pullquote.html %}
 
