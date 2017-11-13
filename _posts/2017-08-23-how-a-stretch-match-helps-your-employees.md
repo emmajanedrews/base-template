@@ -39,3 +39,5 @@ If that company changes their match to 50 cents on the dollar for the first 2% a
 Next time, we’ll discuss safe harbor continuations and how they allow you and your employees to contribute the maximum amount allowable under the government into your retirement plan.
 
 Meanwhile, if you have any other questions, give us a call or send us an email. We would be happy to help you!
+
+*(Securities and advisory services offered through FSC Securities Corporation, member FINRA/SIPC. Michigan 401(k) and Financial Independence are marketing names.)*
