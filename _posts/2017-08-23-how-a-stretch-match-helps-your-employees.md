@@ -40,4 +40,4 @@ Next time, we’ll discuss safe harbor continuations and how they allow you and 
 
 Meanwhile, if you have any other questions, give us a call or send us an email. We would be happy to help you!
 
-*(Securities and advisory services offered through FSC Securities Corporation, member FINRA/SIPC. Michigan 401(k) and Financial Independence are marketing names.)*
+<div><em>(Securities and advisory services offered through FSC Securities Corporation, member FINRA/SIPC. Michigan 401(k) and Financial Independence are marketing names.)</div></em>
