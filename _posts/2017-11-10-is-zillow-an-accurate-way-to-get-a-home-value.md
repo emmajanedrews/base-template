@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Zillow an Accurate Way to Get a Home Value?
-date: 2017-11-10 10:44:03
+date: 2017-11-10 10:44:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/john-s-youtube.jpg
-youtube_code: NzifSa5bBI8
+youtube_code: YL_SFvIJ6nE
 ---
 
 
