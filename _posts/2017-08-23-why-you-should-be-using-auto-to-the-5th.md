@@ -48,4 +48,4 @@ The key is the 30-day notice. This will protect you under the law so that your e
 
 If you have questions or would like more information feel free to give me a call or send me an email. I look forward to hearing from you soon.
 
-(Securities and advisory services offered through FSC Securities Corporation, member FINRA/SIPC. Michigan 401(k) and Financial Independence are marketing names.)
+<div><em>(Securities and advisory services offered through FSC Securities Corporation, member FINRA/SIPC. Michigan 401(k) and Financial Independence are marketing names.)</em></div>
