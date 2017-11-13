@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   The off-season isn’t a bad time to sell your home. In fact, a good percentage
   of the sales in our market take place during this time.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Scott+Hollinger/Montana+Real+Estate++The+Hollinger+Team+Advice+for+the+off-season.mp4
 pullquote: There are still plenty of buyers on the market.
 enclosure_type: video/mp4
 enclosure_time:
