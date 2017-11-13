@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Hoboken Real Estate Podcast with Steven Rosado</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from David DeVoe Group - your professional Hoboken Real Estate Agents.</description>
+    <link>http://rosadoblog.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://rosadoblog.com"/>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Keller Williams City Life Realty - your professional Hoboken Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Steven Rosado</managingEditor>
-    <lastBuildDate>2017-11-08 16:45:41 -0600</lastBuildDate>
+    <lastBuildDate>2017-11-13 15:21:50 -0600</lastBuildDate>
     <media:copyright>Steven Rosado</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://rosadoblog.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Hoboken, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,15 +18,48 @@
     </itunes:owner>
     <itunes:author>Steven Rosado</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://rosadoblog.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Hoboken, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Hoboken Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from David DeVoe Group - your professional Hoboken Real Estate Agents.</itunes:summary>
+    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Keller Williams City Life Realty - your professional Hoboken Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
+        <title>What Should Buyers and Sellers Expect From Our Holiday Hoboken Market?</title>
+        <link>http://rosadoblog.com/what-should-buyers-and-sellers-expect-from-our-holiday-hoboken-market.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Steven Rosado</author>
+        <pubDate>2017-11-13 08:33:32 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Steven+Rosado/Hoboken+Real+Estate+Home+for+the+Holidays.mp4</guid>
+        <description>
+
+The holiday season in our Hoboken market means different things for buyer and seller. 
+
+If you’re a seller and your home isn’t ready to be on the market in the next 10 to 15 days, you should probably think about waiting until 2018 to list. Generally speaking, the buyer pool decreases a tad from Thanksgiving to New Year’s and the market shifts away from you. 
+
+However, now is the perfect time to get started on your marketing for 2018, and there are a couple reason why. First, fall is a beautiful time of year, meaning your home’s photography will look a lot better. Secondly, now is the time of year when people focus on hosting friends and family for the holidays, which means homes will be cleaner and look nicer. From a staging standpoint, you can take advantage of this by taking pictures of the interior.
+
+“The buyer pool shrinks and homes tend to stay on the market longer this time of year.”
+
+If you’re a buyer, this is one of the few times of the year that the market will work in your favor in our area. As I said, the buyer pool shrinks and homes tend to sit on the market longer. 
+
+Whether you’re a buyer or a seller, if you have any more questions about our Hoboken market or you’re thinking of making a move soon, don’t hesitate to reach out to me. I’d be happy to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Steven+Rosado/Hoboken+Real+Estate+Home+for+the+Holidays.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://rosadoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Steven+Rosado/Hoboken+Real+Estate+Home+for+the+Holidays.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>During the holiday season, the buyer pool usually shrinks a little in our market, which is good for buyers but not so good for sellers whose homes aren’t ready to list right now.</itunes:subtitle>
+        <itunes:author>Steven Rosado</itunes:author>
+        <itunes:summary>During the holiday season, the buyer pool usually shrinks a little in our market, which is good for buyers but not so good for sellers whose homes aren’t ready to list right now.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Hoboken, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>How Long Does a Conventional Home Sale Usually Last?</title>
-        <link>localhost:4000/how-long-does-home-sale-last.html</link>
+        <link>http://rosadoblog.com/how-long-does-home-sale-last.html</link>
         
           <category>Home Sale Timeline</category>
         
@@ -63,7 +96,7 @@ Keep in mind, a conventional sale means having a mortgage involved. If the home 
 As always, if you have any questions, please feel free to give me a call or send me an email. I’m happy to help.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Steven+Rosado/Hoboken+Real+Estate+Contract+to+Closing+Timeline.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://rosadoblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Steven+Rosado/Hoboken+Real+Estate+Contract+to+Closing+Timeline.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -82,7 +115,7 @@ In tabulating the total length of a conventional home sale, we must examine each
       
       <item>
         <title>How Have Rising Mortgage Rates Impacted Our Market?</title>
-        <link>localhost:4000/the-effect-of-rising-mortgage-rates-in.html</link>
+        <link>http://rosadoblog.com/the-effect-of-rising-mortgage-rates-in.html</link>
         
           <category>Mortgage Rates</category>
         
@@ -113,7 +146,7 @@ If you’re a seller, now is a great time to sell as well. Your home will very l
 Whether you’re a buyer or seller, if you have any questions or are thinking about making a move in our market soon, please don’t hesitate to give me a call or send me an email. I look forward to hearing from you and I hope you have a great day!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Steven+Rosado/Hoboken+Real+Estate+Mortgage+Rates.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://rosadoblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Steven+Rosado/Hoboken+Real+Estate+Mortgage+Rates.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -132,7 +165,7 @@ Mortgage rates have risen lately, but as you’ll see, this shouldn’t stop bot
       
       <item>
         <title>Why You Should Never Trust a Zestimate</title>
-        <link>localhost:4000/why-you-should-never-trust-zestimate_17.html</link>
+        <link>http://rosadoblog.com/why-you-should-never-trust-zestimate_17.html</link>
         
           <category>Zestimates</category>
         
@@ -163,7 +196,7 @@ As you can see, these are huge swings in prices. The reason for this is that a Z
 If you’re serious about buying a home or getting an accurate value of a home you plan to sell, please feel free to reach out to me. I’d be happy to help!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Steven+Rosado/Hoboken+Real+Estate+Zestimates.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://rosadoblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Steven+Rosado/Hoboken+Real+Estate+Zestimates.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -182,7 +215,7 @@ If you’re a serious buyer or seller, you should never trust a Zestimate. Here�
       
       <item>
         <title>What Does the 2017 Real Estate Market Look Like?</title>
-        <link>localhost:4000/how-will-trump-affect-real-estate-market.html</link>
+        <link>http://rosadoblog.com/how-will-trump-affect-real-estate-market.html</link>
         
           <category>Market Updates</category>
         
@@ -223,7 +256,7 @@ Click here for the source of this information.
 If you have any other questions about real estate, feel free to reach out to me by giving me a call or sending me an email. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Steven+Rosado/Hoboken+Real+Estate+Trump+Market+Predictions.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://rosadoblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Steven+Rosado/Hoboken+Real+Estate+Trump+Market+Predictions.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -242,7 +275,7 @@ Today, I’m explaining what influence Trump will have on the real estate market
       
       <item>
         <title>Have You Seen Our Brand-New App?</title>
-        <link>localhost:4000/have-you-opened-our-new-app.html</link>
+        <link>http://rosadoblog.com/have-you-opened-our-new-app.html</link>
         
           <category>New App</category>
         
@@ -265,7 +298,7 @@ Secondly, we had some problems with our home value tool, so we installed a new o
 If you have any questions for us or are looking to buy or sell in the area, give us a call or send us an email. We look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Steven+Rosado/Hoboken+Real+Estate+New+Technology.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://rosadoblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Steven+Rosado/Hoboken+Real+Estate+New+Technology.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -284,7 +317,7 @@ We’ve got a few quick updates for you today about the technology we use and ho
       
       <item>
         <title>What You Need to Know About the Lending Process</title>
-        <link>localhost:4000/answering-all-your-lending-questions.html</link>
+        <link>http://rosadoblog.com/answering-all-your-lending-questions.html</link>
         
           <category>Lending</category>
         
@@ -327,7 +360,7 @@ If you want to get in touch with Baret to know more about the lending process, y
 If you have any other questions, feel free to give me a call or send me an email. I look forward to hearing from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Steven+Rosado/Hoboken+Real+Estate+Answering+All+Your+Lending+Questions.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://rosadoblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Steven+Rosado/Hoboken+Real+Estate+Answering+All+Your+Lending+Questions.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -346,7 +379,7 @@ Are you curious about when to get pre-approved or what might happen to interest 
       
       <item>
         <title>An Interview With Financial Advisor Marc Bautis</title>
-        <link>localhost:4000/an-interview-with-financial-advisor.html</link>
+        <link>http://rosadoblog.com/an-interview-with-financial-advisor.html</link>
         
           <category>Financial Advise</category>
         
@@ -383,7 +416,7 @@ For more financial advice from Marc, you can visit bautisfinancial.com or email 
 If you have any more questions for me, please feel free to give me a call or send me an email. I look forward to hearing from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Steven+Rosado/Hoboken+Real+Estate+Mark+Bautis+Interview.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://rosadoblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Steven+Rosado/Hoboken+Real+Estate+Mark+Bautis+Interview.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -402,7 +435,7 @@ As a financial advisor, Marc Bautis knows the proper ways to identify what price
       
       <item>
         <title>Is Your Hoboken Home Ready for the Market?</title>
-        <link>localhost:4000/preparing-your-home-for-market.html</link>
+        <link>http://rosadoblog.com/preparing-your-home-for-market.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -433,7 +466,7 @@ Now, there are three things that you shouldn’t do before you list your home. T
 If you have any questions about getting your home ready for the market, give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Steven+Rosado/Hoboken+Real+Estate+Preparing+your+home+for+the+market.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://rosadoblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Steven+Rosado/Hoboken+Real+Estate+Preparing+your+home+for+the+market.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -454,7 +487,7 @@ Want to buy a home? Search all homes for sale
       
       <item>
         <title>What's Really the Best Time to Sell in Hudson County</title>
-        <link>localhost:4000/when-is-actual-best-time-to-list.html</link>
+        <link>http://rosadoblog.com/when-is-actual-best-time-to-list.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -488,7 +521,7 @@ When timing your listing, a lot of people focus on seasons, but I like to focus 
 Next time, we’ll talk about some small renovations you should do when preparing to list. Until then, please give me a call with any questions, comments or concerns.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Steven+Rosado/Hoboken+Real+Estate+When+is+the+actual+best+time+to+list.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://rosadoblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Steven+Rosado/Hoboken+Real+Estate+When+is+the+actual+best+time+to+list.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -509,7 +542,7 @@ Want to buy a home? Search all homes for sale
       
       <item>
         <title>Win the Bid in Hudson County</title>
-        <link>localhost:4000/hoboken-real-estate-winning-bid.html</link>
+        <link>http://rosadoblog.com/hoboken-real-estate-winning-bid.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -538,7 +571,7 @@ Which would you choose? If you chose the second, congratulations! That’s the o
 I hope you found the exercise helpful. If you have any other questions, please feel free to call or email me.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Steven+Rosado/Hoboken+Real+Estate+Winning+the+Bid+(2).mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://rosadoblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Steven+Rosado/Hoboken+Real+Estate+Winning+the+Bid+(2).mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -559,7 +592,7 @@ Want to buy a home? Search all homes for sale
       
       <item>
         <title>The Keys to Being a Strong Buyer in a Sellers Market</title>
-        <link>localhost:4000/hoboken-real-estate-how-to-be-strong.html</link>
+        <link>http://rosadoblog.com/hoboken-real-estate-how-to-be-strong.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -591,7 +624,7 @@ Once you’ve gone through your buyer consultation, you’ll know where you want
 If you have any questions for us, or would like a buyer consultation, give us a call or send us an email. We would love to hear from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Steven+Rosado/Hoboken+Real+Estate+How+to+be+a+strong+buyer+in+a+market+for+sellers.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://rosadoblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Steven+Rosado/Hoboken+Real+Estate+How+to+be+a+strong+buyer+in+a+market+for+sellers.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -612,7 +645,7 @@ Want to buy a home? Search all homes for sale
       
       <item>
         <title>Check Out My New Real Estate Video Blog</title>
-        <link>localhost:4000/hoboken-real-estate-video-blog.html</link>
+        <link>http://rosadoblog.com/hoboken-real-estate-video-blog.html</link>
         
           <category>Hoboken Real Estate Video Blog</category>
         
@@ -631,7 +664,7 @@ Hi everyone, I wanted to take a moment today to invite you all over to my new vi
 I get hundreds of questions every week from buyers, sellers, and even real estate agents, so that’s why I created this project. I want to be your Hoboken resource and point-of-reference for all your real estate needs! If you have any questions, or there’s a specific topic you’re curious about, reach out to me by phone or email. I’d be happy to cover that topic in the future video. I look forward to your feedback!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://rosadoblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -653,6 +686,6 @@ Want to buy a home? Search all homes for sale
     <copyright>Steven Rosado</copyright>
     <media:credit role="author">Steven Rosado</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from David DeVoe Group - your professional Hoboken Real Estate Agents.</media:description>
+    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Keller Williams City Life Realty - your professional Hoboken Real Estate Agents.</media:description>
   </channel>
 </rss>

@@ -2,12 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>-- MARKET -- Real Estate Video Blog with -- CLIENT NAME --</title>
-    <description>Our mission at David DeVoe Group is to be your best resource for Hoboken real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The David DeVoe Group, your professional Hoboken Real Estate Agents.</description>
-    <link>localhost:4000/</link>
-    <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 08 Nov 2017 16:45:41 -0600</pubDate>
-    <lastBuildDate>Wed, 08 Nov 2017 16:45:41 -0600</lastBuildDate>
+    <description>Our mission at Keller Williams City Life Realty is to be your best resource for Hoboken real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Keller Williams City Life Realty, your professional Hoboken Real Estate Agents.</description>
+    <link>http://rosadoblog.com/</link>
+    <atom:link href="http://rosadoblog.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 13 Nov 2017 15:21:50 -0600</pubDate>
+    <lastBuildDate>Mon, 13 Nov 2017 15:21:50 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>What Should Buyers and Sellers Expect From Our Holiday Hoboken Market?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/eux7MeDt4HA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;The holiday season in our Hoboken market means different things for buyer and seller. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If you’re a seller and your home isn’t ready to be on the market in the next 10 to 15 days, you should probably think about waiting until 2018 to list&lt;/strong&gt;. Generally speaking, the buyer pool decreases a tad from Thanksgiving to New Year’s and the market shifts away from you. &lt;/p&gt;
+
+&lt;p&gt;However, now is the perfect time to get started on your marketing for 2018, and there are a couple reason why. First, fall is a beautiful time of year, meaning your home’s photography will look a lot better. Secondly, now is the time of year when people focus on hosting friends and family for the holidays, which means homes will be cleaner and look nicer. From a staging standpoint, you can take advantage of this by taking pictures of the interior.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=The buyer pool shrinks and homes tend to stay on the market longer this time of year.%20http://rosadoblog.com/what-should-buyers-and-sellers-expect-from-our-holiday-hoboken-market.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“The buyer pool shrinks and homes tend to stay on the market longer this time of year.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If you’re a buyer, this is one of the few times of the year that the market will work in your favor in our area&lt;/strong&gt;. As I said, the buyer pool shrinks and homes tend to sit on the market longer. &lt;/p&gt;
+
+&lt;p&gt;Whether you’re a buyer or a seller, if you have any more questions about our Hoboken market or you’re thinking of making a move soon, don’t hesitate to reach out to me. I’d be happy to help you.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 13 Nov 2017 08:33:32 -0600</pubDate>
+        <link>http://rosadoblog.com/what-should-buyers-and-sellers-expect-from-our-holiday-hoboken-market.html</link>
+        <guid isPermaLink="true">http://rosadoblog.com/what-should-buyers-and-sellers-expect-from-our-holiday-hoboken-market.html</guid>
+        
+        <category>Market Update</category>
+        
+        
+      </item>
     
       <item>
         <title>How Long Does a Conventional Home Sale Usually Last?</title>
@@ -28,7 +53,7 @@
 
 &lt;p&gt;The next step is the &lt;strong&gt;mortgage commitment phase.&lt;/strong&gt; This is the phase in which the appraisal is sent to the bank and goes to underwriting for approval. The underwriting department examines all the financial factors and checks the buyer’s criteria to make sure everything lines up with the loan. Phase length: 14 to 21 days.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=CONVENTIONAL HOME SALES TAKE LONGER THAN CASH PURCHASES.%20localhost:4000/how-long-does-home-sale-last.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“CONVENTIONAL HOME SALES TAKE LONGER THAN CASH PURCHASES.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=CONVENTIONAL HOME SALES TAKE LONGER THAN CASH PURCHASES.%20http://rosadoblog.com/how-long-does-home-sale-last.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“CONVENTIONAL HOME SALES TAKE LONGER THAN CASH PURCHASES.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;After the mortgage commitment has been issued, the &lt;strong&gt;title search phase&lt;/strong&gt; happens. The title company will take a look at the transfer history of the property and see if there are any additional parties that claim ownership of the property that haven’t been involved in the sale up until that point. Once those variables are settled and the title company deems the title clean and clear, they’ll issue title insurance. Phase length: seven to 10 days.&lt;/p&gt;
 
@@ -41,8 +66,8 @@
 &lt;p&gt;As always, if you have any questions, please feel free to give me a call or send me an email. I’m happy to help.&lt;/p&gt;
 </description>
         <pubDate>Fri, 17 Mar 2017 11:49:00 -0500</pubDate>
-        <link>localhost:4000/how-long-does-home-sale-last.html</link>
-        <guid isPermaLink="true">localhost:4000/how-long-does-home-sale-last.html</guid>
+        <link>http://rosadoblog.com/how-long-does-home-sale-last.html</link>
+        <guid isPermaLink="true">http://rosadoblog.com/how-long-does-home-sale-last.html</guid>
         
         <category>Home Sale Timeline</category>
         
@@ -66,7 +91,7 @@
 
 &lt;p&gt;If you look at it in a historical context, the same loans 10 years ago averaged over 6.3%. If you go back to the 90s, they hovered anywhere between 7% to 10%. In the 80s, they rarely dipped below 16%. As you can see, they’re still extremely low compared to the past.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=YES, MORTGAGE RATES HAVE RISEN LATELY, BUT THIS IS NOTHING TO BE SCARED OF.%20localhost:4000/the-effect-of-rising-mortgage-rates-in.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“YES, MORTGAGE RATES HAVE RISEN LATELY, BUT THIS IS NOTHING TO BE SCARED OF.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=YES, MORTGAGE RATES HAVE RISEN LATELY, BUT THIS IS NOTHING TO BE SCARED OF.%20http://rosadoblog.com/the-effect-of-rising-mortgage-rates-in.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“YES, MORTGAGE RATES HAVE RISEN LATELY, BUT THIS IS NOTHING TO BE SCARED OF.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;If you’re a buyer, now is still a great time to buy.&lt;/strong&gt; You’ll still get a great rate and there are plenty of loan products available to you. It’s just a matter of connecting with the right agent and finding the right home.&lt;/p&gt;
 
@@ -75,8 +100,8 @@
 &lt;p&gt;Whether you’re a buyer or seller, if you have any questions or are thinking about making a move in our market soon, please don’t hesitate to give me a call or send me an email. I look forward to hearing from you and I hope you have a great day!&lt;/p&gt;
 </description>
         <pubDate>Tue, 14 Feb 2017 15:04:00 -0600</pubDate>
-        <link>localhost:4000/the-effect-of-rising-mortgage-rates-in.html</link>
-        <guid isPermaLink="true">localhost:4000/the-effect-of-rising-mortgage-rates-in.html</guid>
+        <link>http://rosadoblog.com/the-effect-of-rising-mortgage-rates-in.html</link>
+        <guid isPermaLink="true">http://rosadoblog.com/the-effect-of-rising-mortgage-rates-in.html</guid>
         
         <category>Mortgage Rates</category>
         
@@ -100,7 +125,7 @@
 
 &lt;p&gt;The second example involves a buyer I’m working with to close on a home on Lydia Drive in Guttenberg whose Zestimate is $632,407 but got listed at $609,000. We haven’t closed yet, but my buyer has negotiated the price down to $590,000, and you can be sure he’s happy the owner didn’t go off the Zestimate value because that may have led him to believe that $609,000 wasn’t a bad list price.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=TRUSTING A ZESTIMATE CAN COST YOU A LOT OF MONEY IN A TRANSACTION.%20localhost:4000/why-you-should-never-trust-zestimate_17.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“TRUSTING A ZESTIMATE CAN COST YOU A LOT OF MONEY IN A TRANSACTION.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=TRUSTING A ZESTIMATE CAN COST YOU A LOT OF MONEY IN A TRANSACTION.%20http://rosadoblog.com/why-you-should-never-trust-zestimate_17.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“TRUSTING A ZESTIMATE CAN COST YOU A LOT OF MONEY IN A TRANSACTION.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The third example involves a single-family home in Hoboken that we recently helped sell. The Zestimate for it was $1.433 million, but we listed it at $1.525 million, received multiple offers, and sold it in less than 10 days.&lt;/p&gt;
 
@@ -109,8 +134,8 @@
 &lt;p&gt;If you’re serious about buying a home or getting an accurate value of a home you plan to sell, please feel free to reach out to me. I’d be happy to help!&lt;/p&gt;
 </description>
         <pubDate>Tue, 17 Jan 2017 13:45:00 -0600</pubDate>
-        <link>localhost:4000/why-you-should-never-trust-zestimate_17.html</link>
-        <guid isPermaLink="true">localhost:4000/why-you-should-never-trust-zestimate_17.html</guid>
+        <link>http://rosadoblog.com/why-you-should-never-trust-zestimate_17.html</link>
+        <guid isPermaLink="true">http://rosadoblog.com/why-you-should-never-trust-zestimate_17.html</guid>
         
         <category>Zestimates</category>
         
@@ -136,7 +161,7 @@
 
 &lt;p&gt;He will also implement a lot of tax code changes, which are expected to be the largest tax code changes a President has introduced since Ronald Reagan. He is going to offer a $30,000 tax exemption to married couples, which will make the tax reduction for mortgage loan interest less lucrative. This means there will be less incentive to buy.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=NEXT YEAR IS GOING TO BE A FANTASTIC YEAR FOR REAL ESTATE.%20localhost:4000/how-will-trump-affect-real-estate-market.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“NEXT YEAR IS GOING TO BE A FANTASTIC YEAR FOR REAL ESTATE.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=NEXT YEAR IS GOING TO BE A FANTASTIC YEAR FOR REAL ESTATE.%20http://rosadoblog.com/how-will-trump-affect-real-estate-market.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“NEXT YEAR IS GOING TO BE A FANTASTIC YEAR FOR REAL ESTATE.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;So, the tax code changes are going to be a wash for real estate, but the infrastructure and transportation plan should give people more of their bottom line income to spend.&lt;/p&gt;
 
@@ -153,8 +178,8 @@
 &lt;p&gt;If you have any other questions about real estate, feel free to reach out to me by giving me a call or sending me an email. I would be happy to help you!&lt;/p&gt;
 </description>
         <pubDate>Thu, 15 Dec 2016 15:22:00 -0600</pubDate>
-        <link>localhost:4000/how-will-trump-affect-real-estate-market.html</link>
-        <guid isPermaLink="true">localhost:4000/how-will-trump-affect-real-estate-market.html</guid>
+        <link>http://rosadoblog.com/how-will-trump-affect-real-estate-market.html</link>
+        <guid isPermaLink="true">http://rosadoblog.com/how-will-trump-affect-real-estate-market.html</guid>
         
         <category>Market Updates</category>
         
@@ -179,8 +204,8 @@
 &lt;p&gt;If you have any questions for us or are looking to buy or sell in the area, give us a call or send us an email. We look forward to hearing from you.&lt;/p&gt;
 </description>
         <pubDate>Mon, 28 Nov 2016 11:39:00 -0600</pubDate>
-        <link>localhost:4000/have-you-opened-our-new-app.html</link>
-        <guid isPermaLink="true">localhost:4000/have-you-opened-our-new-app.html</guid>
+        <link>http://rosadoblog.com/have-you-opened-our-new-app.html</link>
+        <guid isPermaLink="true">http://rosadoblog.com/have-you-opened-our-new-app.html</guid>
         
         <category>New App</category>
         
@@ -212,7 +237,7 @@
 
 &lt;p&gt;As one of the three major phases of the whole lending process (the other two being income and credit), it’s critical. A lot of people assume that they need 20% down to buy a property, but for anyone buying in the $400,000 to $500,000 range, that’s not the case. You can buy with as little as 5% down and still get great mortgages with reasonable PMI rates. You can even utilize a lender-paid PMI program that gets built into the interest rate.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=DON’T ASSUME YOU NEED 20% DOWN TO BUY A PROPERTY.%20localhost:4000/answering-all-your-lending-questions.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“DON’T ASSUME YOU NEED 20% DOWN TO BUY A PROPERTY.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=DON’T ASSUME YOU NEED 20% DOWN TO BUY A PROPERTY.%20http://rosadoblog.com/answering-all-your-lending-questions.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“DON’T ASSUME YOU NEED 20% DOWN TO BUY A PROPERTY.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;A 5% or 10% loan gets underwritten the same way as long as you cover the PMI cost. Some folks fall into the trap of waiting for that magical 20% number when they should have been buying a home earlier and building equity. On some of the larger loans, such as $1 million or $1.5 million, it’s more critical to have 20% down because that will give you more options.&lt;/p&gt;
 
@@ -225,8 +250,8 @@
 &lt;p&gt;If you have any other questions, feel free to give me a call or send me an email. I look forward to hearing from you!&lt;/p&gt;
 </description>
         <pubDate>Thu, 13 Oct 2016 11:48:00 -0500</pubDate>
-        <link>localhost:4000/answering-all-your-lending-questions.html</link>
-        <guid isPermaLink="true">localhost:4000/answering-all-your-lending-questions.html</guid>
+        <link>http://rosadoblog.com/answering-all-your-lending-questions.html</link>
+        <guid isPermaLink="true">http://rosadoblog.com/answering-all-your-lending-questions.html</guid>
         
         <category>Lending</category>
         
@@ -265,8 +290,8 @@
 &lt;p&gt;If you have any more questions for me, please feel free to give me a call or send me an email. I look forward to hearing from you!&lt;/p&gt;
 </description>
         <pubDate>Thu, 06 Oct 2016 12:22:00 -0500</pubDate>
-        <link>localhost:4000/an-interview-with-financial-advisor.html</link>
-        <guid isPermaLink="true">localhost:4000/an-interview-with-financial-advisor.html</guid>
+        <link>http://rosadoblog.com/an-interview-with-financial-advisor.html</link>
+        <guid isPermaLink="true">http://rosadoblog.com/an-interview-with-financial-advisor.html</guid>
         
         <category>Financial Advise</category>
         
@@ -299,8 +324,8 @@
 &lt;p&gt;If you have any questions about getting your home ready for the market, give me a call or send me an email. I would be happy to help you!&lt;/p&gt;
 </description>
         <pubDate>Mon, 25 Jul 2016 10:58:00 -0500</pubDate>
-        <link>localhost:4000/preparing-your-home-for-market.html</link>
-        <guid isPermaLink="true">localhost:4000/preparing-your-home-for-market.html</guid>
+        <link>http://rosadoblog.com/preparing-your-home-for-market.html</link>
+        <guid isPermaLink="true">http://rosadoblog.com/preparing-your-home-for-market.html</guid>
         
         <category>Home Seller Tips</category>
         
@@ -331,47 +356,15 @@
 
 &lt;p&gt;When timing your listing, &lt;strong&gt;a lot of people focus on seasons, but I like to focus on reasons.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=A lot of people focus on seasons, but I like to focus on reasons.%20localhost:4000/when-is-actual-best-time-to-list.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“A lot of people focus on seasons, but I like to focus on reasons.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=A lot of people focus on seasons, but I like to focus on reasons.%20http://rosadoblog.com/when-is-actual-best-time-to-list.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“A lot of people focus on seasons, but I like to focus on reasons.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Next time, we’ll talk about some small renovations you should do when preparing to list. Until then, please give me a call with any questions, comments or concerns.&lt;/p&gt;
 </description>
         <pubDate>Mon, 20 Jun 2016 10:39:00 -0500</pubDate>
-        <link>localhost:4000/when-is-actual-best-time-to-list.html</link>
-        <guid isPermaLink="true">localhost:4000/when-is-actual-best-time-to-list.html</guid>
+        <link>http://rosadoblog.com/when-is-actual-best-time-to-list.html</link>
+        <guid isPermaLink="true">http://rosadoblog.com/when-is-actual-best-time-to-list.html</guid>
         
         <category>Home Seller Tips</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Win the Bid in Hudson County</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/_U6vBZzz7QE?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;strong&gt;Want to sell your home?&lt;/strong&gt; &lt;a href=&quot;http://rosadorealtor.blogspot.com/p/free-home-value-report.html&quot; target=&quot;_blank&quot;&gt;Get a FREE home value report&lt;/a&gt;
-&lt;strong&gt;Want to buy a home?&lt;/strong&gt; &lt;a href=&quot;http://stevenrosado.kw.com/listings-search/#/398466887&quot; target=&quot;_blank&quot;&gt;Search all homes for sale&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;How do you win a bidding war in the competitive Hoboken real estate market? There are four incredibly important variables in this process: &lt;strong&gt;price, down payment, contingencies and timing.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;As a buyer, it’s important to look at an offer through the eyes of the seller.&lt;/strong&gt; How do we differentiate your offer from the rest? Ultimately, a good buyer’s agent will extract information from the listing agent to find what the seller wants.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=You need a buyer's agent who can extract information from the seller's side.%20localhost:4000/hoboken-real-estate-winning-bid.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“You need a buyer’s agent who can extract information from the seller’s side.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Let’s review different offers and determine which one the the seller prefers. For instance, you priced at $500,000, plan to move in 60 to 90 days, and hired Mortgage Masters as your lender. You’re then worried about appraisals.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Offer #1:&lt;/strong&gt; $510,000, putting down 20%, using Wells Fargo as their lender, and looking to close in 45 days.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Offer #2:&lt;/strong&gt; $510,000, also putting down 20%, using Mortgage Masters as their lender, looking to waive their appraisal within 3% of the asking price, and reducing their inspection contingencies to waive any repairs costing less than $500.&lt;/p&gt;
-
-&lt;p&gt;Which would you choose? If you chose the second, congratulations! That’s the offer the seller would choose oftentimes. It had everything they were looking for.&lt;/p&gt;
-
-&lt;p&gt;I hope you found the exercise helpful. If you have any other questions, please feel free to call or email me.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 19 May 2016 10:46:00 -0500</pubDate>
-        <link>localhost:4000/hoboken-real-estate-winning-bid.html</link>
-        <guid isPermaLink="true">localhost:4000/hoboken-real-estate-winning-bid.html</guid>
-        
-        <category>Home Buyer Tips</category>
         
         
       </item>
