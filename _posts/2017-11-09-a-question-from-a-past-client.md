@@ -24,7 +24,7 @@ youtube_code: zh9znvvOd1w
 
 I want to give a big thanks today to one of our past clients, Lamont, who asked, “Is the Memphis market still a good place to buy a foreclosure?” with the follow-up, “How experienced are you in identifying quality foreclosures?”
 
-**Foreclosures sold peaked in 2010** at about 1.2 million. Since then, they’ve declined almost 100,000 each year. If the current trend continues, foreclosures will be at the level they were in 2005 by the end of this year. In that market, we had very few, if any, foreclosures, and homes sold about as fast as they were built.
+**Foreclosures sold peaked in 2010** at about 1.2 million. Since then, they’ve declined almost 100,000 each year. If the current trend continues, foreclosures will be at the level they were in 2005 by the end of this year. In that market, we had very few, if any, foreclosures, and homes sold about as fast as they were built.&nbsp;
 
 {% include pullquote.html %}
 
