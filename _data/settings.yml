@@ -16,9 +16,9 @@ client:
   brokerage: Keller Williams Luxury
   address: '1018 River Road Suite #300, Boerne, Texas 78006'
   phone: 210-987-8801
-  phone_type:
-  phone2:
-  phone2_type:
+  phone_type: office
+  phone2: 210-987-8803
+  phone2_type: direct
   email: Alexis@AlexisWeigand.com
   url: https://www.WeigandRealEstate.com
 
