@@ -28,11 +28,11 @@ There are 14 vital activities that each Realtor should do. I’ll go over the fi
 
 **2. Converting leads.** Turn those leads into appointments and then into contracts.
 
-**3. Administrative work.** Most Realtors don’t like paperwork, which is why we have transaction coordinators to help us out. Administrative paperwork is a vital activity that we must do or delegate.
+**3. Administrative work.** Most Realtors don’t like paperwork, which is why we have transaction coordinators to help us out. Administrative paperwork is a vital activity that we must do ourselves or delegate to others.
 
 **4. Have good presentation.** It’s important to present at listing appointments, in front of buyers, and in the negotiation of contracts. Whether you are representing the buyer or seller, you have to be able to negotiate on their behalf.
 
-**5. Marketing.** You need to have a strategic marketing plan in place. Whether you are trying to connect to people through farming, Zillow, or wherever it may be that you are spending money to generate leads, marketing is a highly-important function of being a Realtor.
+**5. Marketing.** You need to have a strategic marketing plan in place. Whether you are trying to connect with people through farming, Zillow, or wherever it may be that you are spending money to generate leads, marketing is a highly important function of being a Realtor.
 
 {% include pullquote.html %}
 
