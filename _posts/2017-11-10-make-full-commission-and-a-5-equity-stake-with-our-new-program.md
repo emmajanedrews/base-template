@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Make Full Commission and a 5% Equity Stake With Our New Program
+title: <center>Make Full Commission and a 5% Equity Stake With Our New Program</center>
 date: 2017-11-10 11:49:24
 tags:
   - Real Estate
