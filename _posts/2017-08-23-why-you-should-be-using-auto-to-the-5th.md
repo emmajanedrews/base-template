@@ -47,3 +47,5 @@ However, the decision should ultimately be based on the rates that will work bes
 The key is the 30-day notice. This will protect you under the law so that your employees know they’re able to opt out.
 
 If you have questions or would like more information feel free to give me a call or send me an email. I look forward to hearing from you soon.
+
+(Securities and advisory services offered through FSC Securities Corporation, member FINRA/SIPC. Michigan 401(k) and Financial Independence are marketing names.)
