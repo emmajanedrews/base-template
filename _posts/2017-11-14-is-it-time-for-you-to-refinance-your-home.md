@@ -1,7 +1,7 @@
 ---
 layout: post
-title: When's the Right Time to Refinance Your Home Loan?
-date: 2017-11-14 09:25:48
+title: Is It Time for You to Refinance Your Home?
+date: 2017-11-14 09:25:00
 tags:
 excerpt: >-
   Today, I’d like to go over four of the main reasons people might choose to
