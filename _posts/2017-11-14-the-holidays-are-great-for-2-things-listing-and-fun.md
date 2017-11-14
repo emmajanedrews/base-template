@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Holidays Are Great for 2 Things: Listing and Fun'
-date:
+date: 2017-11-14 16:37:29
 tags:
   - Real Estate
 excerpt: >-
@@ -47,7 +47,7 @@ For now, I’d like to jump back into the holiday fun I mentioned earlier. There
 * November 17: [Fayetteville Lights of the Ozarks](http://www.experiencefayetteville.com/lights-of-the-ozarks)
 * November 18: [Siloam Springs 5K Turkey Trot](https://app.regwiz.io/register/sstt/292)
 * November 18: [Bentonville Lighting of the Square](https://www.arkansas.com/event/lighting-of-the-bentonville-square/149476)
-* November 23:&nbsp;[Don Gammie Turkey Trot](http://www.turkeytrotar.com/)
+* November 23: [Don Gammie Turkey Trot](http://www.turkeytrotar.com/)
 * December 1: [Rogers Christmas Parade](http://www.mainstreetrogers.com/event/christmas-parade-2/)
 * December 1: [Eureka Springs Chamber of Commerce Parade of Lights](http://www.eurekaspringschamber.com/events/details/2017-eureka-springs-chamber-of-commerce-parade-of-lights-460)
 * December 2: [“Red, White, and Who” Siloam Springs Christmas Parade](https://www.hlofss.com/christmas-parade.html)
