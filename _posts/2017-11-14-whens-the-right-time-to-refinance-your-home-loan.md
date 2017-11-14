@@ -19,7 +19,7 @@ youtube_code: LfWwuZeBV8Q
 
 {% include youtube.html %}
 
-People always ask me two questions: What is refinancing, and why would someone refinance their home?
+People always ask me why someone should refinance their home. To answer that question, I’ve got a few smart reasons why refinancing your home loan could be a good option for you.
 
 Well, today I’ve got a few reasons to refinance your home loan.
 
