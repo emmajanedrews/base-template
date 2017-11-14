@@ -33,7 +33,7 @@ According to Kadi, all of us are leaders in our own way. The John Maxwell quote 
 
 {% include pullquote.html %}
 
-Simply getting up in the morning and following through with your goals are good first steps toward self-leadership. When you can be a strong influence on yourself, you can be a positive influence for others.
+Simply getting up in the morning and following through with your goals are good first steps toward self-leadership. When you can be a strong influence on yourself, you can be a positive influence on others.
 
 This is an idea that comes into play in the realm of parenting, as well. And **parenting and leading a business have a lot in common**. The goal of any parent is to raise a self-sufficient and independent adult. This is the same goal leaders have for their businesses.
 
