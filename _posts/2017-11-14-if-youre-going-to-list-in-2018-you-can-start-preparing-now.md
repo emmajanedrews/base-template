@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'If You''re Going to List in 2018, You Can Start Preparing Now'
-date:
+date: 2017-11-14 11:54:55
 tags:
   - Home Seller Tips
 excerpt: >-
