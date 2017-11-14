@@ -2929,6 +2929,78 @@ form select {
     text-decoration: none;
     color: #fff; }
 
+.subscribe {
+  background: #b40101;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  margin-bottom: 20px; }
+  .subscribe p {
+    margin-bottom: 1.5rem; }
+
+.subscribe_optin {
+  max-width: 50rem;
+  margin: 3rem auto;
+  margin-bottom: 0rem;
+  margin-top: 4.5rem; }
+  .subscribe_optin input {
+    vertical-align: middle; }
+  .subscribe_optin input[type='email'] {
+    border-radius: 0px;
+    background: rgba(255, 255, 255, 0.3);
+    border: 1px solid white;
+    color: #b40101;
+    font-size: 2rem;
+    padding: 2.4rem;
+    width: 70%;
+    display: inline-block;
+    margin-right: 1rem;
+    -webkit-transition: 0.3s;
+    transition: 0.3s; }
+    .subscribe_optin input[type='email']::-webkit-input-placeholder {
+      color: white; }
+    .subscribe_optin input[type='email']::-moz-placeholder {
+      color: white; }
+    .subscribe_optin input[type='email']:-moz-placeholder {
+      color: white; }
+    .subscribe_optin input[type='email']:-ms-input-placeholder {
+      color: white; }
+    .subscribe_optin input[type='email']:focus {
+      background: white;
+      color: #b40101;
+      -webkit-transform: translateY(-0.2rem);
+      transform: translateY(-0.2rem); }
+      .subscribe_optin input[type='email']:focus::-webkit-input-placeholder {
+        color: transparent; }
+      .subscribe_optin input[type='email']:focus::-moz-placeholder {
+        color: transparent; }
+      .subscribe_optin input[type='email']:focus:-moz-placeholder {
+        color: transparent; }
+      .subscribe_optin input[type='email']:focus:-ms-input-placeholder {
+        color: transparent; }
+  .subscribe_optin input[type="submit"] {
+    background: transparent;
+    color: white;
+    padding: 1.3rem 2rem;
+    text-transform: capitalize;
+    font-size: 2rem;
+    border-radius: 0px;
+    font-weight: 300;
+    border: 1px solid white; }
+    .subscribe_optin input[type="submit"]:hover {
+      background: #fff;
+      color: #b40101;
+      border: 1px solid #b40101; }
+    .subscribe_optin input[type="submit"]:active {
+      box-shadow: 0 0 0 #b40101; }
+
+@media (max-width: 1113px) {
+  .subscribe_optin input[type="submit"], .subscribe_optin input[type="email"] {
+    margin: 10px auto;
+    width: 90%; } }
+.letterhead {
+  text-align: center; }
+
 .footer {
   color: #fff; }
   .footer .attribution svg {

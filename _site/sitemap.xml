@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://www.canovogroup.tv/how-has-our-market-changed-over-the-years.html</loc>
+<lastmod>2017-10-17T06:50:00-05:00</lastmod>
+</url>
+<url>
 <loc>http://www.canovogroup.tv/study-for-sale-by-owners-dont-save-money.html</loc>
 <lastmod>2017-09-06T19:00:00-05:00</lastmod>
 </url>
@@ -124,6 +128,9 @@
 <loc>http://www.canovogroup.tv/search.html</loc>
 </url>
 <url>
+<loc>http://www.canovogroup.tv/subscribe/</loc>
+</url>
+<url>
 <loc>http://www.canovogroup.tv/thankyou/</loc>
 </url>
 <url>
@@ -131,5 +138,8 @@
 </url>
 <url>
 <loc>http://www.canovogroup.tv/page3/</loc>
+</url>
+<url>
+<loc>http://www.canovogroup.tv/page4/</loc>
 </url>
 </urlset>
