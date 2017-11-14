@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Holidays Are Great for 2 Things: Listing and Fun'
-date: 2017-11-14 16:37:29
+date: 2017-11-14 16:37:00
 tags:
   - Real Estate
 excerpt: >-
@@ -19,7 +19,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: LLnHt5j4XlM
 ---
 
 
