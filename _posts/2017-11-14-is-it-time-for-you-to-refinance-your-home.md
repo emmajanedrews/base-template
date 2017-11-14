@@ -21,8 +21,6 @@ youtube_code: LfWwuZeBV8Q
 
 People always ask me why someone should refinance their home. To answer that question, I’ve got a few smart reasons why refinancing your home loan could be a good option for you.
 
-Well, today I’ve got a few reasons to refinance your home loan.
-
 1. **To lower the term.** You could go from a 30-year mortgage to a 20- or even 15-year mortgage. Refinancing to a shorter term will help lower your interest rate and also the amount you’re paying for your home.
 2. **To lower your rate.** If you had a high interest rate when you purchased your home, now is the time to refinance. Whether it’s going from a 5.5% rate to a 4.5% rate, or even from a 4.5% rate to a 3.5% rate, you’ll be able to shorten your term and save hundreds every month. {% include pullquote.html %}
 3. **To take cash out.** If you’ve owned your property for a couple of years and have accumulated equity, you can take some of that equity out and reinvest it into your home. You could also use it to pay off some debt.
