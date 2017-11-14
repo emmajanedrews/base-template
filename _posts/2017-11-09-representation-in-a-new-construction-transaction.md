@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Representation in a New Construction Transaction
-date: 2017-11-09 11:42:12
+date: 2017-11-09 11:42:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: ZE6yte-_dyw
+youtube_code: sQUHRmPdiT0
 ---
 
 
