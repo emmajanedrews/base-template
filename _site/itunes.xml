@@ -6,17 +6,17 @@
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://thebaltimorebuzz.com"/>
     <description>A Podcast about Baltimore Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</description>
     <language>en</language>
-    <managingEditor>Seth and Alyce Dailey</managingEditor>
-    <lastBuildDate>2017-09-25 09:56:27 -0500</lastBuildDate>
-    <media:copyright>Seth and Alyce Dailey</media:copyright>
+    <managingEditor>Keller Williams Gateway</managingEditor>
+    <lastBuildDate>2017-11-14 16:44:08 -0600</lastBuildDate>
+    <media:copyright>Keller Williams Gateway</media:copyright>
     <media:thumbnail url="/img/podcast.jpg"/>
     <media:keywords>Baltimore Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
-      <itunes:email>Hello@TheDaileyGroup.com</itunes:email>
-      <itunes:name>Seth and Alyce Dailey</itunes:name>
+      <itunes:email>leadership@kwgatewayhomes.com</itunes:email>
+      <itunes:name>Keller Williams Gateway</itunes:name>
     </itunes:owner>
-    <itunes:author>Seth and Alyce Dailey</itunes:author>
+    <itunes:author>Keller Williams Gateway</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="/img/podcast.jpg"/>
     <itunes:keywords>Baltimore Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
@@ -24,8 +24,8 @@
     <itunes:summary>A Podcast about Baltimore Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</itunes:summary>
       <itunes:category text="Education"/>
     
-    <copyright>Seth and Alyce Dailey</copyright>
-    <media:credit role="author">Seth and Alyce Dailey</media:credit>
+    <copyright>Keller Williams Gateway</copyright>
+    <media:credit role="author">Keller Williams Gateway</media:credit>
     <media:rating>nonadult</media:rating>
     <media:description type="plain">A Podcast about Baltimore Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</media:description>
   </channel>
