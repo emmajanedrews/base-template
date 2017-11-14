@@ -7,7 +7,8 @@ excerpt: >-
   Today I want to talk to you a little bit about a question I’ve been hearing a
   lot lately, which is: “What kind of return do I get on my home improvement
   investments?”
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Kyle+Fernandez/Videos/Nov/St.+Louis+County+Real+Estate-+Which+Home+Repairs+Actually+Matter%253F.mp4
 pullquote: There’s no way to exactly predict what your returns will be like.
 enclosure_type: video/mp4
 enclosure_time:
