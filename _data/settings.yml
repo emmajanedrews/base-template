@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: Stewart Title Company Video Blog with Ryan Kalalau
 description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -10,7 +10,9 @@ client:
   name: Ryan Kalalau
   license_number:
   about_markdown: |
+    Everett, Bellevue, Seatac, Tacoma or anywhere else in and around Seattle – there’s no place too big or too small for our escrow and closing services. We’re ready to work with you on your real estate transaction. Looking for answers? We quickly respond. Wondering about those new changes in your market? Our escrow and closing professionals can guide you. Need someone you can trust throughout your transaction and beyond? That’s us.
 
+    For years we’ve been a part of Seattle as well as the surrounding areas. We know our way around town. Even better, we know our way around escrow, closings and real estate transactions here. Find out how well by browsing our site and discovering all the ways we’re ready to work with you.
   market: Greater Puget Sound
   brand: Stewart Title Company
   brokerage:
@@ -23,25 +25,25 @@ client:
   url: https://www.stewart.com
 
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
-  second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  first_CTA_text: Educational Courses
+  first_CTA_URL: http://www.stewart.com/en/education-and-training/overview.html
+  # second_CTA_text: Home Search
+  # second_CTA_URL: /homesearch/
   VR_form:
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_title: "We share our knowledge and experience."
+    CTA_text: "With the Training Center you have access to learning paths for each Stewart technology suite. Training is essential to the successful integration of technology into your business, and with our trainers, you have industry-specific expertise where you need and when you need it. Sessions are offered as online demos; pre-recorded, instructor-led WebEx sessions; regularly-scheduled, live, instructor-led WebEx sessions; and custom training, classroom, onsite or via Web-ex."
+    CTA_link_text: "Learn More"
+    CTA_url: http://www.stewart.com/en/education-and-training/overview.html
 
-second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+# second_sidebar_CTA:
+#   - CTA_image_path2: /img/cta-images/005.jpg
+#     CTA_title2: "Looking for a -- MARKET -- Home?"
+#     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
+#     CTA_link_text2: "Search the MLS"
+#     CTA_url2: /homesearch/
 
 lender:
   show_section: false
@@ -66,11 +68,11 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/stewarttitlepugetsound/
+  linkedin_url: https://www.linkedin.com/in/ryankalalau/
   gplus_url:
-  youtube_url:
-  twitter_url:
+  youtube_url: https://www.youtube.com/channel/UCkYjyZM4EAaF2ZjifNyKbbA
+  twitter_url: https://twitter.com/StewartTitlePS
   instagram_url:
   pinterest_url:
   zillow_url:
@@ -79,25 +81,25 @@ socials:
   podcast_url:
 
 podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
+  title: 'Stewart Title Company Podcast with Ryan Kalalau'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: 'Real Estate Closings Made Simple. Real Estate Ownership Made Secure.'
+  description: 'Stewart Title is your trusted partner in real estate. We help simplify the closing process and provide peace of mind that your investment is protected.'
+  keywords: 'Real Estate Title & Development, Insurance Agent, Title Company, Puget Sound Title Company, Stewart Title, Real Estate, Mortgage Services, Insurance, Independent Agents'
   author: '-- CLIENT NAME --'
 
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  hero_text: Stewart Title Company Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#942332'
-  theme_color: '#999'
+  theme_color: '#E4E4E4'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -106,7 +108,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: rgba(238, 238, 238, .5)
 
 buttons:
   button_radius_number: 0

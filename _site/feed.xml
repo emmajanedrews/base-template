@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>-- MARKET -- Real Estate Video Blog with -- CLIENT NAME --</title>
+    <title>Stewart Title Company Video Blog with Ryan Kalalau</title>
     <description>Our mission at Stewart Title Company is to be your best resource for Greater Puget Sound real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Stewart Title Company, your professional Greater Puget Sound Real Estate Agents.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 10 Nov 2017 15:30:46 -0600</pubDate>
-    <lastBuildDate>Fri, 10 Nov 2017 15:30:46 -0600</lastBuildDate>
+    <pubDate>Tue, 14 Nov 2017 09:55:48 -0600</pubDate>
+    <lastBuildDate>Tue, 14 Nov 2017 09:55:48 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -31,11 +31,11 @@
         <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
         <guid isPermaLink="true">localhost:4000/this-is-a-test-post-copy-2.html</guid>
         
-        <category>Market Update</category>
+        <category>Title &amp; Development</category>
         
-        <category>Real Estate</category>
+        <category>Lender Services</category>
         
-        <category>Home Seller Tips</category>
+        <category>Closing/Escrow</category>
         
         
       </item>
@@ -78,11 +78,11 @@
         <link>localhost:4000/a-fox-in-space.html</link>
         <guid isPermaLink="true">localhost:4000/a-fox-in-space.html</guid>
         
-        <category>Market Update</category>
+        <category>Title &amp; Development</category>
         
-        <category>Real Estate</category>
+        <category>Lender Services</category>
         
-        <category>Home Seller Tips</category>
+        <category>Closing/Escrow</category>
         
         
       </item>
