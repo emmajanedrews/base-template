@@ -3,11 +3,11 @@ layout: page
 title: Subscribe
 permalink: /subscribe/
 ---
-<div class="letterhead">FROM THE DESK OF DAVID ROBINSON<br>
+<div class="letterhead"><span id="letterhead">FROM THE DESK OF DAVID ROBINSON</span>
 
-Free Real Estate Agent Training Newsletter
+<p id="letterhead-subtitle"><em>Free Real Estate Agent Training Newsletter</em></p>
 
-<h3>Sell More Homes In Less Time</h3>
+<div id="letterhead-title">Sell More Homes In Less Time</div>
 
 <p>Subscribe to my complimentary bi-weekly real estate agent training newsletter to get the tips you need to sell more homes, make more money, and enjoy the freedom and autonomy you deserve.</p></div>
 

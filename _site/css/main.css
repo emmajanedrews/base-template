@@ -3001,6 +3001,23 @@ form select {
 .letterhead {
   text-align: center; }
 
+#letterhead {
+  font-family: "Source Sans Pro", helvetica, arial, sans-serif;
+  font-weight: 400;
+  margin: 1rem 0;
+  font-size: 2.5rem; }
+
+#letterhead-title {
+  font-family: "Source Sans Pro", helvetica, arial, sans-serif;
+  font-weight: 600;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-size: 3.5rem; }
+
+#letterhead-subtitle {
+  margin-bottom: 0;
+  margin-top: 1.5rem; }
+
 .footer {
   color: #fff; }
   .footer .attribution svg {
