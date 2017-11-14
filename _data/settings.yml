@@ -1,6 +1,6 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
-description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
+title: North Central Washington Real Estate Video Blog with Nick Mclean
+description: 'Our mission at The Nick Mclean Real Estate Group is to be your best resource for North Central Washington real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Nick Mclean Real Estate Group, your professional North Central Washington Real Estate Agents.'
 show_custom_links: false
 custom_links:
   - title:
@@ -29,7 +29,7 @@ CTAs:
   first_CTA_URL: http://ncwhomevalues.com/
   second_CTA_text: Home Search
   second_CTA_URL: https://www.SellingWenatchee.com
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=578970958b
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
@@ -81,7 +81,7 @@ socials:
   podcast_url: https://itunes.apple.com/us/podcast/north-central-washington-real/id951060252?mt=2
 
 podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
+  title: 'North Central Washington Real Estate Podcast with Nick Mclean'
   categories: Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'

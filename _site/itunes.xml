@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Nick Mclean Real Estate Group - your professional North Central Washington Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Nick Mclean</managingEditor>
-    <lastBuildDate>2017-11-13 16:19:15 -0600</lastBuildDate>
+    <lastBuildDate>2017-11-14 10:45:37 -0600</lastBuildDate>
     <media:copyright>Nick Mclean</media:copyright>
     <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in North Central Washington, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -25,96 +25,393 @@
       <itunes:category text="Education"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
-        
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
+        <title>Two Reasons to Sell Your Wenatchee Home this Winter</title>
+        <link>localhost:4000/two-reasons-to-sell-your-wenatchee-home.html</link>
         
           <category>Home Seller Tips</category>
         
         <author>Nick Mclean</author>
-        <pubDate>2016-10-04 00:00:00 -0500</pubDate>
+        <pubDate>2015-11-03 09:44:00 -0600</pubDate>
         <guid></guid>
         <description>
 
-}
+Selling your North Central Washington Home? Free home value report
+Buying a Lake Chelan Home? Search all homes for sale
+Buying a Wenatchee or Leavenworth area home? Search all homes for sale
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+A lot of people think that the real estate market freezes up during the winter, but this isn’t quite true. Today I’ll be dispelling some common myths about the real estate market.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+1. Nobody looks at homes in the winter. This simply isn’t true. We’ve examined the foot traffic in the past few winters, and it’s actually risen a little bit. We expect even more buyers this winter.
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+2. Nobody wants to move during the winter. While people probably don’t actually enjoy moving in the winter, they still do it. People are usually moving in the winter because they have to, and this makes them extremely serious and motivated buyers. This is why you can expect a quick and profitable sale during the winter.
 
-“This is an example of a pull quote”
+If you’ve thought that selling in the winter is a bad idea, then think again! The market might slow, but it also turns in your favor.
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+Please don’t hesitate to contact me if you’ve been thinking about buying, selling, or investing in our local real estate market!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>
+
+Selling your North Central Washington Home? Free home value report
+Buying a Lake Chelan Home? Search all homes for sale
+Buying a Wenatchee or Leavenworth area home? Search all homes for sale
+
+</itunes:subtitle>
         <itunes:author>Nick Mclean</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>
+
+Selling your North Central Washington Home? Free home value report
+Buying a Lake Chelan Home? Search all homes for sale
+Buying a Wenatchee or Leavenworth area home? Search all homes for sale
+
+</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in North Central Washington, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>A Fox in Space</title>
-        <link>localhost:4000/a-fox-in-space.html</link>
+        <title>We Have a Great Opportunity for You!</title>
+        <link>localhost:4000/we-have-great-opportunity-for-you.html</link>
         
-          <category>Market Update</category>
+          <category>North Central Washington Real Estate</category>
         
-          <category>Real Estate</category>
+        <author>Nick Mclean</author>
+        <pubDate>2015-09-16 09:42:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nick+Mclean/Wenatchee+Leavenworth+Chelan+Real+Estate+Agent-+We+are+hiring.mp4</guid>
+        <description>
+
+Selling your North Central Washington Home? Free home value report
+Buying a Lake Chelan Home? Search all homes for sale
+Buying a Wenatchee or Leavenworth area home? Search all homes for sale
+
+Do you love sales? Are you open to exploring new opportunities to better your current positioning? Do you want to make more money than you did in 2014?
+
+Well, I have an opportunity for you. Our team is looking for new sales associates, with or without a real estate license, to help handle all of the buyers calling into our office on a daily basis.
+
+On average, we receive over 400 buyer leads a month. If you can work in a fast-paced environment, this is a great place for you. Our office has redefined the way real estate is done. As one of the top real estate agents in the city, I can guarantee that you will make over $67,000 in your first year, or I will pay the difference.
+
+If you’re interested in joining one of the top teams in Washington, go online today and apply at JoinNickMcLean.com. We look forward to hearing from you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+Mclean/Wenatchee+Leavenworth+Chelan+Real+Estate+Agent-+We+are+hiring.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+Mclean/Wenatchee+Leavenworth+Chelan+Real+Estate+Agent-+We+are+hiring.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Selling your North Central Washington Home? Free home value report
+Buying a Lake Chelan Home? Search all homes for sale
+Buying a Wenatchee or Leavenworth area home? Search all homes for sale
+
+</itunes:subtitle>
+        <itunes:author>Nick Mclean</itunes:author>
+        <itunes:summary>
+
+Selling your North Central Washington Home? Free home value report
+Buying a Lake Chelan Home? Search all homes for sale
+Buying a Wenatchee or Leavenworth area home? Search all homes for sale
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in North Central Washington, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>With Zillow, You Have a 7% Chance of Success</title>
+        <link>localhost:4000/with-zillow-you-have-7-chance-of-success.html</link>
+        
+          <category>Zestimates</category>
+        
+        <author>Nick Mclean</author>
+        <pubDate>2015-09-15 11:14:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nick+Mclean/Wenatchee+Leavenworth+Chelan+Real+Estate+Agent-+Can+you+trust+Zillow%253F.mp4</guid>
+        <description>
+
+Selling your North Central Washington Home? Free home value report
+Buying a Lake Chelan Home? Search all homes for sale
+Buying a Wenatchee or Leavenworth area home? Search all homes for sale
+
+As a real estate professional, I’m continually bombarded by the question, “Why does Zillow price my home differently?”
+
+If we go on Zillow’s website, this is how they explain it: The Zestimate is created by an automatic software process designed by statisticians, and there is no ability for humans to manually alter the Zestimate for a specific property.
+
+To make that more clear, let’s say a home is estimated to be worth $500,000. If the Zestimate is off by 10%, that’s a difference of $50,000! If the home is underpriced, you’re missing out on tens of thousands of dollars. If your home is overpriced by 10%, it will sit on the market for awhile, and you might have to drop the price, causing buyers to wonder what’s wrong with the home.
+
+“If you want the most accurate price for your home, make an appointment with a real estate professional.”
+
+It’s been estimated that Zillow’s home estimates are only right 7% of the time. That means that they are wrong 93% of the time! That is a terrible success rate.
+
+Remember, Zillow can’t take features or upgrades on your property and compare them to other recently closed homes in your area, even though doing so gives you a more updated value on your property. Zillow doesn’t walk through your home, and that’s where my team can come in and place an accurate value on your home.
+
+Ultimately, if you want the most accurate price for your home, make an appointment with a real estate professional. We will go over your home and the local market data in order to give you the most accurate home value.
+If you have any questions, or if you’re interested in a home valuation, give us a call or send us an email. We look forward to hearing from you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+Mclean/Wenatchee+Leavenworth+Chelan+Real+Estate+Agent-+Can+you+trust+Zillow%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+Mclean/Wenatchee+Leavenworth+Chelan+Real+Estate+Agent-+Can+you+trust+Zillow%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Selling your North Central Washington Home? Free home value report
+Buying a Lake Chelan Home? Search all homes for sale
+Buying a Wenatchee or Leavenworth area home? Search all homes for sale
+
+</itunes:subtitle>
+        <itunes:author>Nick Mclean</itunes:author>
+        <itunes:summary>
+
+Selling your North Central Washington Home? Free home value report
+Buying a Lake Chelan Home? Search all homes for sale
+Buying a Wenatchee or Leavenworth area home? Search all homes for sale
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in North Central Washington, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title> Buying and Selling in Wenatchee </title>
+        <link>localhost:4000/buying-and-selling-in-wenatchee.html</link>
+        
+          <category>Home Buyer Tips</category>
         
           <category>Home Seller Tips</category>
         
         <author>Nick Mclean</author>
-        <pubDate>2016-09-28 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2015-08-14 10:11:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nick+Mclean/Wenatchee+Leavenworth+Chelan+Real+Estate+Agent-+What%2527s+the+best+neighborhood+in+Wenatchee%253F+(1).mp4</guid>
         <description>
 
-}
+Selling your North Central Washington Home? Free home value report
+Buying a Lake Chelan Home? Search all homes for sale
+Buying a Wenatchee or Leavenworth area home? Search all homes for sale
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+A lot of people don’t have the money to buy a home and then sell their other property afterwards. Paying two mortgages is simply not feasible for a lot of people, but that’s okay because we have ways around this.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+We recommend that you get in touch with one of our buyer specialists to find a home, and when you put in an offer, you can make the purchase contingent upon the sale of your home. This means that you can only agree to buy the home when your property is finally ready to sell.
 
+“Buying and selling simultaneously isn’t as hard as you may believe!”
 
-  list item
-  list item
-  list item
-  list item
-  list item
+Typically you will have 45 days to sell your home. This means that after you have your offer accepted, you have 5 days to put your home on the market, so you really have to be serious about selling your home. Not a lot of people do this, but the market is so hot right now that we think a lot of sellers will be willing to accept an offer like this.
 
+We have the resources necessary to help you put your home on the market in 5 days, and we have the skills necessary to sell your home for top dollar and in the shortest amount of time possible.
 
+If you need to buy and sell at the same time, please don’t hesitate to contact us. We would be very happy to organize a transaction such as this one.
 
-  list item
-  list item
-  list item
-  list item
-  list item
-
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+We look forward to speaking with you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+Mclean/Wenatchee+Leavenworth+Chelan+Real+Estate+Agent-+What%2527s+the+best+neighborhood+in+Wenatchee%253F+(1).mp4" length="" type="video/mp4"/>
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+Mclean/Wenatchee+Leavenworth+Chelan+Real+Estate+Agent-+What%2527s+the+best+neighborhood+in+Wenatchee%253F+(1).mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>
+
+Selling your North Central Washington Home? Free home value report
+Buying a Lake Chelan Home? Search all homes for sale
+Buying a Wenatchee or Leavenworth area home? Search all homes for sale
+
+</itunes:subtitle>
         <itunes:author>Nick Mclean</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>
+
+Selling your North Central Washington Home? Free home value report
+Buying a Lake Chelan Home? Search all homes for sale
+Buying a Wenatchee or Leavenworth area home? Search all homes for sale
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in North Central Washington, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title> Have You Heard About Cherry Meadows?</title>
+        <link>localhost:4000/have-you-heard-about-cherry-meadows.html</link>
+        
+          <category>North Central Washington Real Estate</category>
+        
+        <author>Nick Mclean</author>
+        <pubDate>2015-08-14 09:38:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nick+Mclean/Wenatchee+Leavenworth+Chelan+Real+Estate+Agent-+What%2527s+the+best+neighborhood+in+Wenatchee%253F+(1).mp4</guid>
+        <description>
+
+Today we are very excited to talk about Cherry Meadows, which is a brand new neighborhood that’s still under construction right now. Currently, there are six homes, and most of the construction will be completed by September.
+
+When everything is all said and done, there will be 39 homes in the entire development. They will range in price from $269K to $319K. The square footage will range from 1,600 to 2,000, depending on the home.
+
+“These homes will undoubtedly appreciate in price!”
+
+The exteriors will be landscaped and have fencing. These homes will be in turnkey condition and ready to be occupied in September. The prices for these homes may go up once they’re available because I think a lot of people will want to live in these homes.
+
+This means you have a great opportunity to lock in your pricing right now and gain some equity.
+
+As far as location goes, Cherry Meadows is close to a lot of nearby hiking trails, as well as the hospitals and the downtown area.
+
+If you would like to tour one of these homes, please don’t hesitate to contact me. I would be very happy to help you out!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+Mclean/Wenatchee+Leavenworth+Chelan+Real+Estate+Agent-+What%2527s+the+best+neighborhood+in+Wenatchee%253F+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+Mclean/Wenatchee+Leavenworth+Chelan+Real+Estate+Agent-+What%2527s+the+best+neighborhood+in+Wenatchee%253F+(1).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Today we are very excited to talk about Cherry Meadows, which is a brand new neighborhood that’s still under construction right now. Currently, there are six homes, and most of the construction will be completed by September.
+
+</itunes:subtitle>
+        <itunes:author>Nick Mclean</itunes:author>
+        <itunes:summary>
+
+Today we are very excited to talk about Cherry Meadows, which is a brand new neighborhood that’s still under construction right now. Currently, there are six homes, and most of the construction will be completed by September.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in North Central Washington, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title> 3 Ways to Determine the Value of Your Home</title>
+        <link>localhost:4000/3-ways-to-determine-value-of-your-home.html</link>
+        
+          <category>Home Value</category>
+        
+        <author>Nick Mclean</author>
+        <pubDate>2015-07-24 13:33:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nick+Mclean/Wenatchee+Leavenworth+Chelan+Real+Estate+Agent-+3+ways+to+determine+the+value+of+your+home.mp4</guid>
+        <description>
+
+Selling your North Central Washington Home? Free home value report
+Buying a Lake Chelan Home? Search all homes for sale
+Buying a Wenatchee or Leavenworth area home? Search all homes for sale
+
+Did you know there are three different ways to determine the value of your home? If you plan on selling your home in the near future, this is crucial information.
+
+“Getting a full market analysis is the best way to find your home’s true value!”
+
+10 Online: We have a link that will take you to a website that will use your address to find recent comparable sales in the area. The numbers are plugged into an algorithm to come up with a low average and a high average. This is all based on assumptions of the condition or quality of your home and is the least accurate way to find the value of your home.
+
+2. Appraisal: This is done by a licensed appraiser with the state of Washington. Appraisers simply put a value on properties, they don’t sell them. They use the comparable sales approach, taking a look at the age, location, and size, among other things, of recently sold homes in the area to come up with a value for your home. Lenders use this approach when you go to refinance your home.
+
+3. Broker analysis: The final way to find your home’s value is to have an expert broker, like myself, come out and give you a comparable market analysis. We do exactly what the appraiser is going to do, but also look at what your home will sell for now given current competition and other market conditions.
+
+If you’re curious about the true value of your home, don’t hesitate to reach out to us. We would love to help you achieve your selling goals.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+Mclean/Wenatchee+Leavenworth+Chelan+Real+Estate+Agent-+3+ways+to+determine+the+value+of+your+home.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+Mclean/Wenatchee+Leavenworth+Chelan+Real+Estate+Agent-+3+ways+to+determine+the+value+of+your+home.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Selling your North Central Washington Home? Free home value report
+Buying a Lake Chelan Home? Search all homes for sale
+Buying a Wenatchee or Leavenworth area home? Search all homes for sale
+
+</itunes:subtitle>
+        <itunes:author>Nick Mclean</itunes:author>
+        <itunes:summary>
+
+Selling your North Central Washington Home? Free home value report
+Buying a Lake Chelan Home? Search all homes for sale
+Buying a Wenatchee or Leavenworth area home? Search all homes for sale
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in North Central Washington, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What's so Great about New Construction?</title>
+        <link>localhost:4000/whats-so-great-about-new-construction.html</link>
+        
+          <category>North Central Washington Real Estate</category>
+        
+        <author>Nick Mclean</author>
+        <pubDate>2015-07-23 11:07:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nick+Mclean/Wenatchee+Leavenworth+Chelan+Real+Estate+Agent-+New+homes+cost+less.mp4</guid>
+        <description>
+
+Selling your North Central Washington Home? Free home value report
+Buying a Lake Chelan Home? Search all homes for sale
+Buying a Wenatchee or Leavenworth area home? Search all homes for sale
+
+When most people decide to buy a home, they want to go the traditional route of buying an older, previously lived-in home. What a lot of people don’t realize is that you have another option with new construction, and it’s not as expensive as you may have been led to believe. If you are looking to purchase a new home, you have some exciting opportunities here in North Central Washington in which to do so.
+
+“If you build a new home in our market, it is going to appreciate greatly!”
+
+Most new construction homes have great designs, with modern layouts, open concepts, and larger rooms. When you buy a new home, you don’t have to have anything repaired or remodeled because you get to choose what is built, and the builder will often give you a warranty to fix anything if it pops up. With a new home, you also have new appliances and new systems throughout the home.
+
+When people buy older homes, they don’t realize the difference between price and cost. With older homes, the initial price is lower, yes. However, the cost of maintaining the home is much greater than the cost associated with new homes. Conversely, the price on a newly built home is going to be higher than an old home, but the cost is still going to likely be around the same.
+
+Also, if you build a new home in our market, it is going to appreciate greatly. If you were to build one now and pay for it, in 4 months when you are ready to move in, it’s going to be worth more than you paid. Just another advantage of a high-appreciating market.
+
+New construction does have some costs associated with it you should be wary of. Some new homes don’t include landscaping or blinds, among other things.
+
+Building a new home is a great option in today’s market. One of our new favorite neighborhoods out there with some freshly built homes is Cherry Meadows. The builder is incredible and they have some beautiful properties, ranging from $269,000-$319,000 in value.
+
+If you have any questions for us about new construction, feel free to give us a call or send us a quick email. We look forward to hearing from you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+Mclean/Wenatchee+Leavenworth+Chelan+Real+Estate+Agent-+New+homes+cost+less.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+Mclean/Wenatchee+Leavenworth+Chelan+Real+Estate+Agent-+New+homes+cost+less.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Selling your North Central Washington Home? Free home value report
+Buying a Lake Chelan Home? Search all homes for sale
+Buying a Wenatchee or Leavenworth area home? Search all homes for sale
+
+</itunes:subtitle>
+        <itunes:author>Nick Mclean</itunes:author>
+        <itunes:summary>
+
+Selling your North Central Washington Home? Free home value report
+Buying a Lake Chelan Home? Search all homes for sale
+Buying a Wenatchee or Leavenworth area home? Search all homes for sale
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in North Central Washington, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Are the Benefits of a Home Warranty?</title>
+        <link>localhost:4000/what-are-benefits-of-home-warranty.html</link>
+        
+          <category>North Central Washington Real Estate</category>
+        
+        <author>Nick Mclean</author>
+        <pubDate>2015-05-18 11:57:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nick+Mclean/Washington+Real+Estate+Agent-+The+importance+of+home+warranties.mp4</guid>
+        <description>
+
+Selling your North Central Washington Home? Free home value report
+Buying a Lake Chelan Home? Search all homes for sale
+Buying a Wenatchee or Leavenworth area home? Search all homes for sale
+
+Today, we cover a topic that is the subject of many conversations in real estate. Many homeowners are curious about whether they should get a warranty when buying or selling, so today we’ll provide an answer.
+
+Our advice to clients is that you should absolutely get a home warranty when buying and selling. We recommend people use Home Warranty of America (HWA) to protect their sale or purchase. It’s a 13-month warranty, and for around $315-$405 it covers a ton of items! If you’re a buyer, you can actually put this into the contract and have the seller pay for it on your behalf.
+
+We’ve seen clients save thousands of dollars by avoiding unnecessary expenses covered by warranties. It covers electrical systems, sump pumps, heat pumps, HVACs, and appliances, among others! You can also have every door in the house re-keyed for only $60! As a seller, you can purchase this product right before you list your home with us, and it’s going to cover you throughout the listing period.
+
+“Our advice to clients is that you should absolutely get a home warranty when buying and selling.”
+
+If your home is on the market for up to 180 days, you are completely covered! You may not have the money to fix something that goes wrong during the listing process, and the warranty will cover it for you! You can then pass it along to the buyer, who will be very appreciative of it because of the extra security.
+
+Again, this great program is available through Home Warranty of America, and we highly recommend it! If you would like a flyer that includes all of the details of the warranty, or if you need real estate assistance of any kind, give us a call or shoot us a quick email. We would love to hear from you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+Mclean/Washington+Real+Estate+Agent-+The+importance+of+home+warranties.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+Mclean/Washington+Real+Estate+Agent-+The+importance+of+home+warranties.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Selling your North Central Washington Home? Free home value report
+Buying a Lake Chelan Home? Search all homes for sale
+Buying a Wenatchee or Leavenworth area home? Search all homes for sale
+
+</itunes:subtitle>
+        <itunes:author>Nick Mclean</itunes:author>
+        <itunes:summary>
+
+Selling your North Central Washington Home? Free home value report
+Buying a Lake Chelan Home? Search all homes for sale
+Buying a Wenatchee or Leavenworth area home? Search all homes for sale
+
+</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in North Central Washington, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
