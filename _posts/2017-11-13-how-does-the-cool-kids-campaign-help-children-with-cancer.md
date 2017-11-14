@@ -35,6 +35,7 @@ Take a look at the video to see their great facility in Towson, Maryland.
 
 **We are on track to donate $10,000 to the Cool Kids Campaign this year**, and we are proud to help such an amazing organization.
 
-Thanks to Kristen and Mackenzie for joining me today. You can learn more about the Cool Kids Campaign at their [website](http://www.coolkidscampaign.org/).
+Thanks to Kristen and Mackenzie for joining me today. You can learn more about the Cool Kids Campaign at their [website](http://www.coolkidscampaign.org/){:target="_blank"}
+.
 
 If you have any questions, please don’t hesitate to give me a call or send me an email. I would be happy to help you!
