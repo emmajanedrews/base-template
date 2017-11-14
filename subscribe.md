@@ -30,7 +30,7 @@ I’d like to offer you a free subscription to my real estate agent training e-n
 
 This newsletter is specifically for real estate agents who want to grow, learn, and want to dominate their market with a local brand and expert presence. If you want to improve yourself, make more money and you feel you can do more and just need the tools, this is for you. This is not for part-time agents who are happy with their income.
 
-This is 100% educational advice. I’d like you to get to know what we’re up to here so we can grow the size of the real estate pie in Phoenix. In the past year, 86,000 homes SOLD in our Phoenix market, so there is plenty of business to go around.
+This is 100% educational advice. I’d like you to get to know what we’re up to here so we can grow the size of the real estate pie in Salt Lake City. In the past year, 86,000 homes SOLD in our Salt Lake City market, so there is plenty of business to go around.
 
 SPECIAL NEW SUBSCRIBER BONUS
 
@@ -46,6 +46,6 @@ Email me at ________________ with any questions I can answer for you in my video
 
 Let’s help you grow your business.
 
-Name
+David Robinson
 
 {% include subscribe.html %}
