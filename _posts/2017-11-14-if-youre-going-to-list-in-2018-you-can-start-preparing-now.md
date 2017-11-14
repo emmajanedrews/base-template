@@ -33,8 +33,8 @@ In terms of the home’s exterior, there are a few different things you can do. 
 
 Freshening your landscape so that it’s ready to be tackled in the spring will really help.
 
-There are a number of other, larger projects you might want to take on, as well. Bathroom and kitchen remodels are two of the most popular renovations you might make, but I recommend seeking the advice of a professional before taking on any major projects. You don’t want to overimprove for the neighborhood.
+There are a number of other, larger projects you might want to take on. Bathroom and kitchen remodels are two of the most popular renovations you might make, but I recommend seeking the advice of a professional before taking on any major projects. You don’t want to overimprove for the neighborhood.
 
-**Having a conversation with your agent now about which projects to tackle before you list, you’ll be better prepared to sell in 2018.**
+**Having a conversation with your agent now about which projects to tackle before you list will help you be better prepared to sell in 2018.**
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
