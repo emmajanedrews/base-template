@@ -23,7 +23,7 @@ youtube_code: 'https://youtu.be/OcsW-FkU-Ig'
 
 If you’re thinking of selling your home in 2018, you can start preparing now.
 
-One easy improvement you can make is to alter your paint color. Buyers like neutral colors, so try to tone down any brightly-colored walls.
+One easy improvement you can make is to alter your paint color. Buyers like neutral colors, so try to tone down any brightly colored walls.
 
 Buyers will also want to be able to envision themselves in your home. To help them do this, **depersonalize your home by removing family photos and similar items from the walls.**
 
