@@ -23,11 +23,11 @@ youtube_code: eux7MeDt4HA
 
 {% include youtube.html %}
 
-The holiday season in our Hoboken market means different things for buyer and seller.&nbsp;
+The holiday season in our Hoboken market means different things for buyers and sellers.&nbsp;
 
 **If you’re a seller and your home isn’t ready to be on the market in the next 10 to 15 days, you should probably think about waiting until 2018 to list**. Generally speaking, the buyer pool decreases a tad from Thanksgiving to New Year’s and the market shifts away from you.&nbsp;
 
-However, now is the perfect time to get started on your marketing for 2018, and there are a couple reason why. First, fall is a beautiful time of year, meaning your home’s photography will look a lot better. Secondly, now is the time of year when people focus on hosting friends and family for the holidays, which means homes will be cleaner and look nicer. From a staging standpoint, you can take advantage of this by taking pictures of the interior.
+However, now is the perfect time to get started on your marketing for 2018, and there are a couple reasons why. First, fall is a beautiful time of year, meaning your home’s photography will look a lot better. Secondly, now is the time of year when people focus on hosting friends and family for the holidays, which means homes will be cleaner and look nicer. From a staging standpoint, you can take advantage of this by taking pictures of the interior.
 
 {% include pullquote.html %}
 
