@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Questions to Ask Yourself About Your Work Environment
-date: 2017-11-13 12:47:50
+date: 2017-11-13 12:47:00
 tags:
   - Real Estate
 excerpt: >-
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: XMnhjx33Y9A
+youtube_code: CjWjqSeWFzc
 ---
 
 
@@ -29,7 +29,7 @@ Is your work environment conducive to achieving your goals?
 
 A lot of people get into real estate because they like the idea of being their own boss. People like the flexibility, being able to set your own hours, and working from home. It all sounds very appealing, but working from home only works for a small percentage of people.
 
-If you’re like me, it’s impossible for you to get into the right mindset and develop the right habits when working from home. There are just so many distractions at home: laundry, dishes in the sink, dogs barking, television—there are a million and one things that will get in the way. You won’t be as productive as you could be and you won’t be able to achieve your goals. &nbsp;
+If you’re like me, it’s impossible for you to get into the right mindset and develop the right habits when working from home. There are just so many distractions at home: laundry, dishes in the sink, dogs barking, television—there are a million and one things that will get in the way. You won’t be as productive as you could be and you won’t be able to achieve your goals.
 
 {% include pullquote.html %}
 
@@ -39,7 +39,7 @@ How can you choose the right work environment that will set you up to smash your
 
 **2. Is your environment supportive?** Does your environment allow you to focus on new business development each and every day? It’s especially important for newer agents in the industry to develop new business. We have to make calls and prospect. Does your work environment support that or is prospecting a dirty word around your office?
 
-**3. Does your work environment offer the opportunity to have coaches, mentors, books, and other training resources?&nbsp;**That’s what it will take for you to be successful. When you first get into this industry, it can be very overwhelming. There are so many things you have to do. After all, you are a business owner. Are you surrounded by people who will help you take your career to the next level? Or is your office a ghost town, with no one there to help you? You need to be surrounded by people who will help you get to where you want to go.
+**3. Does your work environment offer the opportunity to have coaches, mentors, books, and other training resources?**That’s what it will take for you to be successful. When you first get into this industry, it can be very overwhelming. There are so many things you have to do. After all, you are a business owner. Are you surrounded by people who will help you take your career to the next level? Or is your office a ghost town, with no one there to help you? You need to be surrounded by people who will help you get to where you want to go.
 
 **4. Does the work environment allow you to be accountable for what you do on a daily basis?** If you have big goals and you are driven, you have to have people hold you accountable to that. Does your work environment offer that kind of support?
 
