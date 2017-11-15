@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   The latest numbers are in for Nashville real estate. Here’s what they look
   like.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Scott+Hardesty/Videos/Greater+Nashville+Real+Estate-+A+Quick+Real+Estate+Update.mp4
 pullquote: We’re continuing to see a strong seller’s market
 enclosure_type: video/mp4
 enclosure_time:
