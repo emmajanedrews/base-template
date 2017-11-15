@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Ways to Keep Your House Safe and Warm This Winter
-date: 2017-11-14 11:45:09
+date: 2017-11-14 11:45:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: nSPBrUoqOyg
+youtube_code: 1vZH9Y8PeBM
 ---
 
 
