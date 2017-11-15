@@ -13,6 +13,8 @@ custom_links:
     url: /what-is-pyt/
   - title: Agent Training
     url: /agent-training/
+  - title: Client Testimonials
+    url: /client-testimonials
 
 client:
   name: Rob Spring
