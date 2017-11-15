@@ -4,13 +4,13 @@
     <title>Central PA Real Estate Career Podcast with Dave Hooke</title>
     <link>localhost:4000</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Dave Hooke Team LLC - your professional  Real Estate Agents.</description>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Dave Hooke Team LLC - your professional Central PA Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Dave Hooke</managingEditor>
-    <lastBuildDate>2017-09-22 15:04:38 -0500</lastBuildDate>
+    <lastBuildDate>2017-11-15 13:10:48 -0600</lastBuildDate>
     <media:copyright>Dave Hooke</media:copyright>
     <media:thumbnail url="http://i.imgur.com/EQG8hR1.jpg"/>
-    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
+    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central PA, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
       <itunes:email>Dave@hhande.com</itunes:email>
@@ -19,11 +19,144 @@
     <itunes:author>Dave Hooke</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://i.imgur.com/EQG8hR1.jpg"/>
-    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the  Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Dave Hooke Team LLC - your professional  Real Estate Agents.</itunes:summary>
+    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central PA, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Central PA Area Real Estate Market</itunes:subtitle>
+    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Dave Hooke Team LLC - your professional Central PA Real Estate Agents.</itunes:summary>
       <itunes:category text="News &amp; Politics"/>
     
+      <item>
+        <title>How to Throw a Great Client Appreciation Event</title>
+        <link>localhost:4000/how-to-throw-a-great-client-appreciation-event.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Dave Hooke</author>
+        <pubDate>2017-11-10 06:55:31 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/Central+PA+Real+Estate+Agent-+How+to+Throw+a+Great+Client+Appreciation+Event.mp4</guid>
+        <description>
+
+Over the last 15 years, we’ve tried just about everything related to client appreciation events. Some of them have crashed and burned. Others have been home runs.
+
+Two examples of client appreciation events that have worked for us are our client appreciation cookout and our Thanksgiving pie and pumpkin roll giveaway. We throw both of these events annually and they’re definitely worth the effort.
+
+To pull off events like these, we break them down into five manageable steps that you can use as a guide for setting up your own client appreciation event:
+
+1) Make a list of preferred attendees. We recommend this list be comprised of past clients that have remained local and your local sphere of influence.
+
+“Most of our clients really appreciate these events and look forward to them annually.”
+
+2) Contact the vendors you need to support this event and confirm the dates. For example, the client appreciation cookout typically requires a caterer and a band. The Thanksgiving pie and pumpkin roll giveaway typically requires a bakery.
+
+3) Have a print shop print out potential mail invite proofs. Make sure whichever you choose looks professional and has your logo on it. Also include an RSVP date on them.
+
+4) Send the invites out to your preferred list and schedule a four- to five-hour prospecting time block so you can get on the phone and contact all of your invites personally. You can make sure they got their invite or you can just ask them if they want to RSVP right then and there. This is a critical point most agents forget about, but sometimes people just get too much mail and forget about invites like this. Attendance will be low if you don’t follow up your invites with a phone call. This is also a great opportunity to reconnect with your database.
+
+5) Make connects with all of your attendees at your event and enjoy your time. You’ll get about two to three hours to connect with people you won’t get a chance to connect with any other time of the year.
+
+When done correctly and with consistency, these events can be invaluable to your business. They allow you to connect personally with people you’ve worked with in the past or those who you like and trust. Truthfully, these events also give your clients a great opportunity to make connections they otherwise wouldn’t have a chance to make.
+
+Most of our clients really appreciate these events and look forward to them annually. If you have any other questions about this topic, don’t hesitate to reach out to me. I’d love to chat with you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/Central+PA+Real+Estate+Agent-+How+to+Throw+a+Great+Client+Appreciation+Event.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/Central+PA+Real+Estate+Agent-+How+to+Throw+a+Great+Client+Appreciation+Event.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>To throw an effective client appreciation event, you can follow this five-step guide that my team uses to put on successful client appreciation events.</itunes:subtitle>
+        <itunes:author>Dave Hooke</itunes:author>
+        <itunes:summary>To throw an effective client appreciation event, you can follow this five-step guide that my team uses to put on successful client appreciation events.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central PA, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>The 7 Habits of Highly Effective Real Estate Agents</title>
+        <link>localhost:4000/the-7-habits-of-highly-effective-real-estate-agents.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Dave Hooke</author>
+        <pubDate>2017-10-27 05:21:01 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/Central+PA+Real+Estate+Agent-+The+7+Habits+of+Highly+Effective+Real+Estate+Agents.mp4</guid>
+        <description>
+
+What are the seven habits of highly effective real estate agents? According to Stephen Covey and Brandon Doyle, these are the habits every agent should follow:
+
+1. Be proactive. If you spend your day reacting to everyone else’s whims, your business will run you instead of the other way around. Make sure that you have time blocks and set boundaries around your time. Be proactive about communicating with your clients so they hear from you every week, instead of waiting to touch base after a problem comes up.
+
+2. Begin with the end in mind. Create a plan for your life and your business. What do you want your life to look like 10, five, or three years from now? What about one year down the road? Figure out where you want to be and map out a strategy to meet these goals. Break that strategy down into bite-sized chunks so you don’t feel overwhelmed.
+
+“Communicate with clients proactively instead of waiting for a problem to arise.”
+
+3. Put first things first each day. There are important activities that need to be done. Since they are not urgent matters that need to be done right now, many agents tend to skip important activities like prospecting to grow their business. Spend two hours each morning getting those things accomplished before you get pulled into urgent reactive activities, like replying to emails or handling social media.
+
+4. Think win-win. Take a collaborative approach to the real estate business in general. Think how you can create a win-win situation that will benefit your client as well as the other agent and their client. If you can do that effectively transaction after transaction, it goes a long way toward making everyone happy at the settlement table.
+
+5. Seek to understand before being understood. Empathize with people. Put yourself in their shoes. Understand their needs first. Again, it may seem like more work up front, but it goes a long way to make everything go smoother.
+
+6. Synergize. Even if you’re not on a team, there are a lot of people around you. From title companies to attorneys to home inspectors,  you can lean on them and act as a team to make your goals and your client’s goals a reality.
+
+7. Sharpen the saw. What does this mean? According to Stephen Covey, it’s important to keep learning constantly. Watch webinars, read books, and go to seminars that will further your life and your business.
+
+If you utilize these seven habits, you will become a highly effective agent.
+
+As always, if you have any questions, please don’t hesitate to give me a call or send me an email. I would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/Central+PA+Real+Estate+Agent-+The+7+Habits+of+Highly+Effective+Real+Estate+Agents.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/Central+PA+Real+Estate+Agent-+The+7+Habits+of+Highly+Effective+Real+Estate+Agents.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What are the seven habits of highly effective real estate agents? I’ll go over them all today.</itunes:subtitle>
+        <itunes:author>Dave Hooke</itunes:author>
+        <itunes:summary>What are the seven habits of highly effective real estate agents? I’ll go over them all today.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central PA, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>4 Ways We Improve Client Satisfaction</title>
+        <link>localhost:4000/4-ways-we-improve-client-satisfaction.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Dave Hooke</author>
+        <pubDate>2017-10-13 06:58:16 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/Central+PA+Real+Estate+Agent-+4+Ways+We+Improve+Client+Satisfaction.mp4</guid>
+        <description>
+
+What is the No. 1 thing that affects customer or client satisfaction?
+
+It’s the same thing that affects all interpersonal relationships from friendships and marriages to business partnerships.
+
+In fact, if all else is equal—meaning that the agent is honest, genuinely works hard, and is knowledgeable about the market—this one thing goes the longest way to define customer satisfaction.
+
+If you guessed that I’m talking about communication, then you are correct.
+
+“We contact all of our clients once every seven days.”
+
+On my team, one of the things we focus on is checking in with our listing or buyer clients once every seven days. When we contact them, we cover these four things:
+
+1.) Here is what we did last week.
+
+2.) Here is what the results were.
+
+3.) Here is what we’re doing next week.
+
+4.) What can we do differently or better?
+
+If you can ask those four things every seven days, you will be a proactive agent rather than a reactive agent. By being proactive, you will run your business instead of allowing your business to run you.
+
+Communicating with your clients this way creates happier relationships, happier customers, and more referrals for you and your business down the road.
+
+If you have any other questions or if you would like to share something that you do to grow your business, just give me a call or send me an email. I would love to have a conversation with you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/Central+PA+Real+Estate+Agent-+4+Ways+We+Improve+Client+Satisfaction.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/Central+PA+Real+Estate+Agent-+4+Ways+We+Improve+Client+Satisfaction.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>There is one thing that impacts client satisfaction more than anything else—communication.</itunes:subtitle>
+        <itunes:author>Dave Hooke</itunes:author>
+        <itunes:summary>There is one thing that impacts client satisfaction more than anything else—communication.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central PA, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
       <item>
         <title>Creating a For-Profit Business With a Nonprofit Purpose</title>
         <link>localhost:4000/creating-a-for-profit-business-with-a-nonprofit-purpose.html</link>
@@ -64,7 +197,7 @@ This is just one easy way to bring purpose back into your real estate business. 
         <itunes:subtitle>You can still run a for-profit business and have a nonprofit purpose. Here’s what I mean.</itunes:subtitle>
         <itunes:author>Dave Hooke</itunes:author>
         <itunes:summary>You can still run a for-profit business and have a nonprofit purpose. Here’s what I mean.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central PA, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -109,7 +242,7 @@ If you have any other questions or would like more information, feel free to giv
         <itunes:subtitle>As a real estate professional, listening to your clients is key. So to double your business, ask these two questions—and pay attention to the answers.</itunes:subtitle>
         <itunes:author>Dave Hooke</itunes:author>
         <itunes:summary>As a real estate professional, listening to your clients is key. So to double your business, ask these two questions—and pay attention to the answers.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central PA, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -150,7 +283,7 @@ The answers to each of these questions will affect where you practice. Make sure
         <itunes:subtitle>There are many different options for you when choosing a brokerage. Here are some things to consider before you choose.</itunes:subtitle>
         <itunes:author>Dave Hooke</itunes:author>
         <itunes:summary>There are many different options for you when choosing a brokerage. Here are some things to consider before you choose.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central PA, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -187,7 +320,7 @@ If you have any questions about this topic or you’re looking to buy or sell a 
         <itunes:subtitle>How can you increase your chance of getting solid referrals? Today I’ve laid out five steps that will help you do just that.</itunes:subtitle>
         <itunes:author>Dave Hooke</itunes:author>
         <itunes:summary>How can you increase your chance of getting solid referrals? Today I’ve laid out five steps that will help you do just that.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central PA, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -226,7 +359,7 @@ If you have any questions for me about your career or you just want to have a qu
         <itunes:subtitle>We can’t control the amount of time we have as real estate agents, but we can control how we spend that time. I’m here to tell you that if you can improve that control, you can double your productivity.</itunes:subtitle>
         <itunes:author>Dave Hooke</itunes:author>
         <itunes:summary>We can’t control the amount of time we have as real estate agents, but we can control how we spend that time. I’m here to tell you that if you can improve that control, you can double your productivity.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central PA, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -263,7 +396,7 @@ If you have any questions about this topic, please feel free to reach out to me.
         <itunes:subtitle>You can use a action items to make your business processes repeatable and make sure all your clients get the same level of service.</itunes:subtitle>
         <itunes:author>Dave Hooke</itunes:author>
         <itunes:summary>You can use a action items to make your business processes repeatable and make sure all your clients get the same level of service.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central PA, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -300,7 +433,7 @@ If you have any questions about any of these technologies, don’t hesitate to r
         <itunes:subtitle>Don’t be fooled by things you don’t need to spend your money on—here are five technologies that are essential to helping your business grow.</itunes:subtitle>
         <itunes:author>Dave Hooke</itunes:author>
         <itunes:summary>Don’t be fooled by things you don’t need to spend your money on—here are five technologies that are essential to helping your business grow.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central PA, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -335,7 +468,7 @@ If you’d like to talk more about how we use this tool or why we’ve had succe
         <itunes:subtitle>You should always work on a few projects in 90-minute chunks each week to grow the business.</itunes:subtitle>
         <itunes:author>Dave Hooke</itunes:author>
         <itunes:summary>You should always work on a few projects in 90-minute chunks each week to grow the business.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central PA, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -370,7 +503,7 @@ If you have any other questions about growing your business or you’d like a co
         <itunes:subtitle>Keeping track of your critical activities is the key to assuring you grow your business. Here’s how our team does it.</itunes:subtitle>
         <itunes:author>Dave Hooke</itunes:author>
         <itunes:summary>Keeping track of your critical activities is the key to assuring you grow your business. Here’s how our team does it.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central PA, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -405,7 +538,7 @@ If you’d like to discuss these qualifiers further, I’d love to sit down and 
         <itunes:subtitle>How do you when the right time is to hire an assistant? We use these three indicators to make the decision.</itunes:subtitle>
         <itunes:author>Dave Hooke</itunes:author>
         <itunes:summary>How do you when the right time is to hire an assistant? We use these three indicators to make the decision.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central PA, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -443,7 +576,7 @@ Should you spend your time and money on Internet leads like Zillow and Realtor.c
 Should you spend your time and money on Internet leads like Zillow and Realtor.com? There’s a lot of talk in the industry about these kinds of leads and whether they’re worth your while. A lot of teams have success with Internet leads, but the question is whether it’s worth your while for you specifically. Two years ago, an NAR study showed that referral business was still the No. 1 source of real estate business in the United States, but also that 20% of real estate business was generated by Internet leads. Keep in mind that an MIT response study found that if you can’t follow up with an Internet lead in five minutes or less, it’s probably not worth your while. Do you have the technology, systems, and capacity to follow up with them that quickly? The average agent last year took 61 hours to follow up with an Internet lead, so consider that before you decide to invest your time and money in them. Secondly, be aware that it takes seven to eight follow-ups to build a rapport with a lead. Do you have that kind of time and capacity?
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central PA, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -487,12 +620,12 @@ Implementing these three strategies will help you run your business instead of a
         <itunes:summary>
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central PA, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
     <copyright>Dave Hooke</copyright>
     <media:credit role="author">Dave Hooke</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Dave Hooke Team LLC - your professional  Real Estate Agents.</media:description>
+    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Dave Hooke Team LLC - your professional Central PA Real Estate Agents.</media:description>
   </channel>
 </rss>

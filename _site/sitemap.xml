@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>localhost:4000/how-to-throw-a-great-client-appreciation-event.html</loc>
+<lastmod>2017-11-10T06:55:31-06:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/the-7-habits-of-highly-effective-real-estate-agents.html</loc>
+<lastmod>2017-10-27T05:21:01-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/4-ways-we-improve-client-satisfaction.html</loc>
+<lastmod>2017-10-13T06:58:16-05:00</lastmod>
+</url>
+<url>
 <loc>localhost:4000/creating-a-for-profit-business-with-a-nonprofit-purpose.html</loc>
 <lastmod>2017-09-12T06:00:00-05:00</lastmod>
 </url>
@@ -58,6 +70,9 @@
 <loc>localhost:4000/about/</loc>
 </url>
 <url>
+<loc>localhost:4000/contact/</loc>
+</url>
+<url>
 <loc>localhost:4000/hhande/</loc>
 </url>
 <url>
@@ -74,6 +89,9 @@
 </url>
 <url>
 <loc>localhost:4000/search.html</loc>
+</url>
+<url>
+<loc>localhost:4000/subscribe/</loc>
 </url>
 <url>
 <loc>localhost:4000/thankyou/</loc>
