@@ -1,5 +1,23 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
+  - quote: >-
+      "The Spring Mortgage Team, specifically Robert was always quick to reply
+      and full of information, most of which I was unable to find anywhere else.
+      Honestly, their reply and turnaround times with the wealth of information,
+      I really felt was above and beyond."
+    name: How We Went Above and Beyond for Sam
+    audio:
+  - quote: >-
+      "I had an absolutely amazing experience. I've gone through about 5
+      transactions now, and this time I was buying. There were a few obstacles
+      to overcome, but I was always kept informed. There was always a constant
+      amount of communication. They were really personable and nice. I had a
+      really great experience."
+    name: How The Spring Mortgage Team helped Rosabla with Multiple Transactions
+    audio:
+  - quote: >-
+      "Whenever I had a question, they were always happy to answer it, and they
+      provided me with a plethora of options. I feel like a got a really great
+      deal."
+    name: How We Helped Matthew Choose the Right Option
     audio:
