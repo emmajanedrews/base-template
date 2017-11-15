@@ -31,7 +31,7 @@ Here are a few issues that are nearly impossible to identify in an online listin
 
 {% include pullquote.html %}
 
-**3. What’s that smell?** Let's say you find the perfect home online that matches everything you’re looking for. You rush to schedule a showing and once you finally get in there, you realize that it smells like a zoo or it’s near an industrial power plant.
+**3. What’s that smell?** Let's say you find the perfect home online that matches everything you’re looking for. You rush to schedule a showing and once you finally get in there, you realize that it smells like a zoo, or it’s near an industrial power plant.
 
 **4. The neighborhood might not be as peaceful as it looks.** It’s a good idea to hang around for a few hours to figure out what kind of neighborhood this is and whether it matches what you’re looking for or not. Driving through the neighborhood for just 10 minutes when you see the home won’t give you that sense.
 
