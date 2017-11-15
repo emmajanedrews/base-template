@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Today I’d like to go over the five things you need to ask when interviewing a
   potential listing agent.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Don%2527t%2520work%2520with%2520an%2520agent%2520before%2520asking%2520this.mp4
 pullquote: >-
   The only real way to determine which agent will provide you with the best
   service is by asking key questions.
