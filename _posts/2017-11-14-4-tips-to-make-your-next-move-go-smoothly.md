@@ -22,9 +22,9 @@ youtube_code: YKcIczm86fU
 
 {% include youtube.html %}
 
-The moving process can be very stressful. Thankfully, you can simplify it using these five tips.
+The moving process can be very stressful. Thankfully, you can simplify it using these four tips.
 
-**1. Get ready now.** Whether you’re moving in six months of six years, get started as soon as possible. Taking some time to prepare will mean you aren’t stressing out about getting things done at the last minute. The first thing you’re going to want to do is organize things into four piles: the keep pile, the giveaway pile, the maybe pile, and the trash pile. If you aren’t moving for at least a year, put the maybe pile into boxes and then put them away. If you don’t touch the boxes for 12 months, it’s probably safe to donate or get rid of the items.
+**1. Get ready now.** Whether you’re moving in six months or six years, get started as soon as possible. Taking some time to prepare will mean you aren’t stressing out about getting things done at the last minute. The first thing you’re going to want to do is organize things into four piles: the keep pile, the giveaway pile, the maybe pile, and the trash pile. If you aren’t moving for at least a year, put the maybe pile into boxes and then put them away. If you don’t touch the boxes for 12 months, it’s probably safe to donate or get rid of the items.
 
 {% include pullquote.html %}
 
