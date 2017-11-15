@@ -43,7 +43,6 @@ For now, I’d like to jump back into the holiday fun I mentioned earlier. There
 
 **Here is a list of everything that’s going on**. You can click on the links to find out more about each event.
 
-* November 9: [Eureka Springs Food and Wine Weekend](https://www.eurekasprings.org/foodandwine/)
 * November 17: [Fayetteville Lights of the Ozarks](http://www.experiencefayetteville.com/lights-of-the-ozarks)
 * November 18: [Siloam Springs 5K Turkey Trot](https://app.regwiz.io/register/sstt/292)
 * November 18: [Bentonville Lighting of the Square](https://www.arkansas.com/event/lighting-of-the-bentonville-square/149476)
