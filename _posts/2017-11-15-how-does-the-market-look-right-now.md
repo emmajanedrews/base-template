@@ -18,7 +18,7 @@ youtube_code: 'https://youtu.be/hdfyVHDugQc'
 
 {% include youtube.html %}
 
-Today I’m answering the question of, “How does the Nashville real estate market look right now in the 4th quarter of 2017?” **I’ve taken a look at the latest numbers and I’d like to share them with you:**
+Today I’m answering the question of, “How does the Nashville real estate market look right now in the fourth quarter of 2017?” **I’ve taken a look at the latest numbers and I’d like to share them with you:**
 
 * Sales are down by 1.7% in the last month, but they are up 4.2% from this time last year.
 * Homes are spending an average of just 27 days on the market. However, this number varies depending on the neighborhood you’re in.
