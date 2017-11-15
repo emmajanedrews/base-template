@@ -7,7 +7,8 @@ excerpt: >-
   Today I’m joined by Kristen Rutherford and Mackenzie Wieder from the Cool Kids
   Campaign. Kristin is the Community Relations Coordinator, and Mackenzie is the
   Operations Coordinator.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Wes+Peters/Baltimore+Metro+Real+Estate-+Helping+the+Cool+Kids+Campaign.mp4
 pullquote: The Cool Kids Campaign helps children with cancer and their families.
 enclosure_type: video/mp4
 enclosure_time:
