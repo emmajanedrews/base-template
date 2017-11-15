@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: m7xP9sHcNi4
+youtube_code: '-aQ17M5UOiM'
 ---
 
 
@@ -24,7 +24,7 @@ youtube_code: m7xP9sHcNi4
 
 Let’s talk about what the deal is with those “We Pay Cash for Houses” signs. You’ve probably seen them around town, even if you’ve never given them much thought.
 
-The people who post these signs are&nbsp;**people who target a certain type of home seller: people who are in financial stress**, who can’t sell, are getting divorced, maybe have a damaged home they don’t want to deal with, or owners who are evicting tenants.
+The people who post these signs are **people who target a certain type of home seller: people who are in financial stress**, who can’t sell, are getting divorced, maybe have a damaged home they don’t want to deal with, or owners who are evicting tenants.
 
 They’re hoping that these types of people will give them a call so they can come in and give them a very lowball offer the house. They often don’t pay real estate commissions, and will boast about how they process their sales.
 
