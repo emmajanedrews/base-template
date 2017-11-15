@@ -2845,6 +2845,12 @@ form select {
   color: #fff;
   margin-top: 10px; }
 
+#page-bkg {
+  height: 430px; }
+
+#page-logo {
+  margin-top: -5rem; }
+
 .subscribe {
   background: #DB1C2D;
   color: white;

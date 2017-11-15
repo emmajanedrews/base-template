@@ -43,7 +43,7 @@ The next step, after subscribing to our newsletter, is to attend one of our many
 
 I invite you to subscribe below. Simply enter your email address and you’ll get a confirmation email with a copy of my Office Tour DVD.
 
-Email me at ________________ with any questions I can answer for you in my videos. If I pick your question and answer it in the newsletter, I’ll send you a $5 Amazon gift card!
+Email me at <a href="mailto:info@NatesHomes.com">info@NatesHomes.com</a> with any questions I can answer for you in my videos. If I pick your question and answer it in the newsletter, I’ll send you a $5 Amazon gift card!
 
 Let’s help you grow your business.
 
