@@ -25,7 +25,7 @@ It’s starting to get really cold out there. So this year, Realtors across Vanc
 
 This year, the Annual Realtor’s Blanket Drive began on November 14 and will continue through December 21. Let’s all do our best to keep the homeless and working poor dry and warm this winter.
 
-Our network of Realtors is gearing up for another productive year of collecting clothes and blankets. But, this success depends on your donations.
+Our network of Realtors is gearing up for another productive year of collecting clothes and blankets. But this success depends on your donations.
 
 {% include pullquote.html %}
 
