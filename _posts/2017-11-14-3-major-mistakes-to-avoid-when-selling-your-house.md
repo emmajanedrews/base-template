@@ -28,7 +28,7 @@ To determine the right price for your home, we’ll look at a few different fact
 
 Determining the price of your home means walking the very fine line between selling your home close to market value without leaving any money on the table.&nbsp;
 
-**2. Promoting too little**. There are a lot of distractions out there these days. Corporations spend millions of dollars on weapons of mass distraction to get your attention. To get and keep a homebuyer’s attention, you need superior online and offline marketing strategies.&nbsp;
+**2. Promoting too little**. There are a lot of distractions out there these days. Corporations spend billions of dollars on weapons of mass distraction to get your attention. To get and keep a homebuyer’s attention, you need superior online and offline marketing strategies.&nbsp;
 
 That means we will promote your home on social media and online classifieds with professional photos and virtual tours. Offline, we’ll use door hangers, open houses, and signage. People still look at traditional, offline strategies. Since we never know where a buyer will come from, it’s important to cover all of our bases.&nbsp;
 
