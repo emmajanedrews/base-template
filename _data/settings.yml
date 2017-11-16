@@ -1,5 +1,5 @@
 audit_header: false
-title: -- CLIENT BRAND --
+title: Pennsylvania Real Estate Careers and Training Video Blog with Debbie Spaulder
 description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -13,7 +13,7 @@ client:
     Extraordinary Home Experiences! I am committed to exceeding your expectations each and every day. As a Bucks County homeowner for 25 plus years, I can provide whatever area and lifestyle information you require to help you make the best decision. As a top-selling Real Estate Professional and corporate sales professional for more than 20 years, I have the experience, training, and skills to provide you with financing direction, pricing guidelines, and TOP-NOTCH NEGOTIATING.
 
     Whether you are buying or selling a home, I am experienced in working with a wide range of clients and will work together with you to understand your needs and goals and deliver results. This helps deliver a home-buying or home-selling experience with maximum results. I will work hard to earn your trust and provide a positive experience. I look forward to providing you with the personal attention and superior service you deserve. Debbie Spaulder is the most qualified Real Estate Professional to handle all of your Real Estate needs. Please take a few minutes and give me a call today.
-  market: PA
+  market: Pennsylvania
   brand: Keller Williams Real Estate
   brokerage:
   address:
@@ -29,7 +29,7 @@ CTAs:
   first_CTA_URL: http://whatsmypahomevalue.com/
   second_CTA_text: Home Search
   second_CTA_URL: http://www.searchbucksareahomes.com/
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=8b897f39da
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
@@ -81,7 +81,7 @@ socials:
   podcast_url: https://itunes.apple.com/us/podcast/bucks-county-real-estate-podcast/id1093943404?mt=2
 
 podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
+  title: Pennsylvania Real Estate Careers and Training Podcast with Debbie Spaulder
   categories: Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
@@ -93,7 +93,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 80
-  hero_text: -- MARKET -- Real Estate Video Blog
+  hero_text: Pennsylvania Real Estate Careers and Training Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
