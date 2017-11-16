@@ -28,7 +28,7 @@ My answer is, “Yes!”
 
 Today let’s go through the top 10 reasons why I think fall and winter are great times to get your home sold.
 
-**1. You will be a non-contingent homebuyer.**This gives you much more leverage as a purchaser in the market when you do have a home to sell.
+**1. You will be a non-contingent homebuyer.&nbsp;**This gives you much more leverage as a purchaser in the market when you do have a home to sell.
 
 **2. There are a lot of rental vacancies**, which will make it easier if you have to do a double move.
 
@@ -40,9 +40,9 @@ Today let’s go through the top 10 reasons why I think fall and winter are grea
 
 **6. Buyers have more time to look for homes.** Things may be slower at their workplace, or they may have more time off to dedicate to searching for a house.
 
-**7. Buyers are more emotional.**A lot of buyers will make decisions based on emotion, so the holidays are great for appealing to a buyer’s sentimental side.
+**7. Buyers are more emotional.&nbsp;**A lot of buyers will make decisions based on emotion, so the holidays are great for appealing to a buyer’s sentimental side.
 
-**8. Homes will show better.**Decorating a house for the holiday season will help buyers fall in love with it, enabling them to imagine themselves living there with their families during the holidays. Again, this time can really appeal to a buyer’s emotions.
+**8. Homes will show better.&nbsp;**Decorating a house for the holiday season will help buyers fall in love with it, enabling them to imagine themselves living there with their families during the holidays. Again, this time can really appeal to a buyer’s emotions.
 
 **9. Supply will dramatically increase** in February and March, so you’ll have more competition at that time when it comes to selling your home.
 
