@@ -23,7 +23,7 @@ youtube_code: I90hm0exuw
 
 A lot of people have been asking me if the fall and winter are good times to sell.
 
-My answer is, “Yes!”<br>&nbsp;
+My answer is, “Yes!”
 
 Today let’s go through the top 10 reasons why I think fall and winter are great times to get your home sold.
 
