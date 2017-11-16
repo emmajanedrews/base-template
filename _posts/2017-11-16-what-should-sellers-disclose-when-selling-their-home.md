@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Should Sellers Disclose When Selling Their Home?
-date:
+date: 2017-11-16 15:17:57
 tags:
   - Home Seller Tips
 excerpt: >-
