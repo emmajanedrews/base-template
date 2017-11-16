@@ -24,7 +24,7 @@ youtube_code: U7p1xWwzzuI
 
 {% include youtube.html %}
 
-Today we’re going to be talking about the three major mistakes to avoid when selling your home.
+Today we’re going to be talking about the three major mistakes to avoid when selling your home. Make sure you visit **[greaterpropertygroup.com/toronto/](http://www.greaterpropertygroup.com/toronto/)** to search all properties on the market and get a free instant home evaluation!
 
 There are a lot of ways to succeed when selling a house and just as many ways to fail. When it comes to the mistakes that sellers tend to make, three specific errors reign supreme. If you’re trying to sell your real estate investment this season, **make sure to avoid these three cardinal real estate sins.**
 
