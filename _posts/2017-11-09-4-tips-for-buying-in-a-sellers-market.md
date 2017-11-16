@@ -22,7 +22,7 @@ youtube_code: Sss_FtEyxtE
 
 {% include youtube.html %}
 
-Sometimes, homebuyers wonder if it’s even worth competing against other offers in a seller’s market. When there’s not very much inventory in the market, it isn’t unusual for a seller to receive multiple offers. Make sure you visit[** greaterpropertygroup.com/calgary**](http://www.greaterpropertygroup.com/calgary)to search all properties on the market and get a free instant home evaluation!
+Sometimes, homebuyers wonder if it’s even worth competing against other offers in a seller’s market. When there’s not very much inventory in the market, it isn’t unusual for a seller to receive multiple offers. Make sure you visit **[greaterpropertygroup.com/calgary](http://www.greaterpropertygroup.com/calgary)** to search all properties on the market and get a free instant home evaluation!
 
 However, you shouldn’t be discouraged. Today, I’ve got four tips for navigating a seller’s market as a buyer.
 
