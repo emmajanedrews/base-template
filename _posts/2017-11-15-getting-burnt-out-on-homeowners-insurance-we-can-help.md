@@ -35,7 +35,7 @@ But we had a preferred admitted insurance carrier ready to go for him, and we go
 
 **What are the biggest challenges that people face while finding homeowners insurance?**
 
-The greatest challenge is the wildfire concern. It’s really hard to pick what house is going to have an issue with wildfire and which one isn't’. I’d say that 85% of the homes up here are going to have wildfire problems.
+The greatest challenge is the wildfire concern. It’s really hard to pick what house is going to have an issue with wildfire and which one isn't. I’d say that 85% of the homes up here are going to have wildfire problems.
 
 Don’t make your buying decision based on whether or not you can find insurance—make your decision based on the house that you want, and we’ll find the insurance. It may be a little bit more than your typical insurance, but you’re getting your dream house. Don’t limit your options. The solutions are there.
 
@@ -45,6 +45,6 @@ The best way to do that is to take high deductibles and to avoid making small cl
 
 {% include pullquote.html %}
 
-Email Tally Meek at [tally@sierrainsurance.com](javascript:void(location.href='mailto:'+String.fromCharCode(116,97,108,108,121,64,115,105,101,114,114,97,105,110,115,117,114,97,110,99,101,46,99,111,109))) a for your insurance needs in the Tahoe-Truckee area, or else visit <a href="www.sierrainsurance.com" target="_blank">www.sierrainsurance.com.</a>
+Email Tally Meek at [tally@sierrainsurance.com](javascript:void(location.href='mailto:'+String.fromCharCode(116,97,108,108,121,64,115,105,101,114,114,97,105,110,115,117,114,97,110,99,101,46,99,111,109))) a for your insurance needs in the Tahoe-Truckee area, or else visit [www.sierrainsurance.com.](www.sierrainsurance.com)
 
 If you’re interested in buying or selling homes, please feel free to contact me. I’m always here for you, just a click or phone call away.
