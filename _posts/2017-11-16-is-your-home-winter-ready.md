@@ -29,7 +29,7 @@ Home maintenance and repair projects are an important aspect of homeownership al
 5. Make sure driveways and walkways are safe.
 6. Make exterior repairs.
 7. Stock up on winter supplies.
-8. Shut off exterior faucets.
+8. Shut off exterior faucets and store hoses for the winter.
 9. Add weather stripping.
 10. Check safety devices.
 11. Remove window AC units.
