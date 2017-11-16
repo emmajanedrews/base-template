@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Top 10 Reasons to Sell During the Fall and Winter
-date: 2017-11-16 10:47:42
+date: 2017-11-16 10:47:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -13,8 +13,9 @@ pullquote: >-
   comes to listing during the holidays.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: >-
+  /uploads/davefriedman-screenshot-tube-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01.jpg
 youtube_code: I90hm0exuw
 ---
 
