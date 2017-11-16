@@ -22,13 +22,13 @@ youtube_code: mKfjXQ5VbT0
 
 Welcome to the latest episode of *“What’s Working Now!”*&nbsp;
 
-Today, I want to talk to you about **an innovate way to generate additional buyer activity when selling your home.**&nbsp;
+Today, I want to talk to you about **an innovative way to generate additional buyer activity when selling your home.**&nbsp;
 
 For example, we have a new listing that is getting market-ready. The seller is moving boxes around, packing, cleaning, and gardening so that the house is ready to hit the market in the next couple of weeks.&nbsp;
 
-The seller had the idea that they would like to invite their friends over to say goodbye to the house. We picked a day on the weekend and invited them over in the middle of the day while the sun was out, and the friends all got to take a look at the house.&nbsp;
+The seller had the idea that they would like to invite their friends over to say goodbye to the house. We picked a day on the weekend and invited them over in the middle of the day while the sun was out and the friends all got to take a look at the house.&nbsp;
 
-I thought it was a really good idea. Then, we started talking about other ideas we’ve used on past properties to market the home to the seller’s community.&nbsp;
+I thought it was a really good idea. Then we started talking about other ideas we’ve used on past properties to market the home to the seller’s community.&nbsp;
 
 When it comes time to market your home, I have a network of 3,500 real estate agents, 2,000 prospects, and a neighborhood listserv of 20,000 of my closest friends.&nbsp;
 
