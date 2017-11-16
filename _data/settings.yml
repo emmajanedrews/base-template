@@ -33,7 +33,7 @@ client:
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'https://www.thedaileygroup.com/home-valuation/'
-  VR_form: 'http://oi.vresp.com?fid=35206345f6'
+  VR_form: 'http://oi.vresp.com?fid=bfbc49d424'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/006.jpg
     CTA_title: Looking to Build Your Real Estate Career?
