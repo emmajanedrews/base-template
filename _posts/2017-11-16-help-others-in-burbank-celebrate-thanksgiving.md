@@ -26,6 +26,6 @@ That's why we always help the Burbank Temporary Aid Center. Every year, they pro
 
 We need your help! If you'd like to donate your time or some turkeys, please get in touch with us.
 
-As always, refer to us as your #1 resource for real estate in the LA area!
+As always, refer to us as your No. 1 resource for real estate in the LA area!
 
 &nbsp;
