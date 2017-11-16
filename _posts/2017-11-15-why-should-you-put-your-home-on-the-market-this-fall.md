@@ -24,7 +24,7 @@ Should you sell your home this fall or wait until the spring market?
 
 There are actually a few reasons why now may be the perfect time to put your home on the market.
 
-**1. Buyer demand will continue to be strong in our market.** We are in one of the strongest markets we’ve ever seen. We are starting to see a slight increase in inventory but you will still face less competition at this time of year. Buyers are out in force right now.. They are serious about buying a home. The average house sells in less than 30 days, so why wait to sell yours?
+**1. Buyer demand will continue to be strong in our market.** We are in one of the strongest markets we’ve ever seen. We are starting to see a slight increase in inventory but you will still face less competition at this time of year. Buyers are out in force right now. They are serious about buying a home. The average house sells in less than 30 days, so why wait to sell yours?
 
 {% include pullquote.html %}
 
