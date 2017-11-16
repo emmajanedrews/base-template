@@ -2880,6 +2880,9 @@ form select {
 .apply {
   width: 250px; }
 
+.office-tour {
+  margin-bottom: 2rem; }
+
 .subscribe {
   background: #df8f00;
   color: white;
