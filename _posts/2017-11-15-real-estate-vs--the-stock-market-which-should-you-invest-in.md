@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Real Estate vs. The Stock Market: Which Should You Invest In?'
-date: 2017-11-15 11:34:22
+date: 2017-11-15 11:34:00
 tags:
   - Real Estate
 excerpt: >-
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/no-pb-7-1.jpg
-youtube_code: _nifrK0JHJI
+youtube_code: 0vmOyg_Axo4
 ---
 
 
