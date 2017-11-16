@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 'The Holidays Are Great for 2 Things: Listing and Fun'
+title: 'The Holidays Are Great for 2 Things: Selling and Fun'
 date: 2017-11-14 16:37:00
 tags:
   - Real Estate
 excerpt: >-
   I’m coming to you today from Toyland in Bentonville, Arkansas to discuss a few
   reasons why selling your home during the holiday season can be a great idea.
-  Some may think you shouldn’t list during the holidays, but this simply isn’t
+  Some may think you shouldn’t sell during the holidays, but this simply isn’t
   true. In the spirit of the season, I also want to bring you a list of some
   great things to do around this time of year here in Northwest Arkansas. To
   learn more, watch this short video.
 enclosure:
 pullquote: >-
-  Some may think you shouldn’t list during the holidays, but this simply isn’t
+  Some may think you shouldn’t sell during the holidays, but this simply isn’t
   true.
 enclosure_type: video/mp4
 enclosure_time:
@@ -33,7 +33,7 @@ So, what are the top reasons to sell your home during the holidays?
 
 1. **Reduced inventory.** There is a common misconception that the fall and winter markets aren’t a good time to list. As a result, there is significantly less inventory on the market during the holiday season. This translates to less competition for you.
 2. **Buyers are more serious.** During this time of year, the buyers who are still looking on the market are truly committed to finding a home. So, the holidays are a great opportunity to capture serious buyers.
-3. **Financial incentives.&nbsp;**Some buyers may be looking to purchase a home by the end of the fiscal year because of certain financial opportunities. This will drive further interest in your property.
+3. **Financial incentives.**Some buyers may be looking to purchase a home by the end of the fiscal year because of certain financial opportunities. This will drive further interest in your property.
 
 These aren’t the only reasons to sell this season, though. There are actually about seven more that my team and I would love to share with you. To find out what they are, email us at [info@limbirdteam.com](javascript:void(location.href='mailto:'+String.fromCharCode(105,110,102,111,64,108,105,109,98,105,114,100,116,101,97,109,46,99,111,109))).
 
@@ -46,7 +46,7 @@ For now, I’d like to jump back into the holiday fun I mentioned earlier. There
 * November 17: [Fayetteville Lights of the Ozarks](http://www.experiencefayetteville.com/lights-of-the-ozarks)
 * November 18: [Siloam Springs 5K Turkey Trot](https://app.regwiz.io/register/sstt/292)
 * November 18: [Bentonville Lighting of the Square](https://www.arkansas.com/event/lighting-of-the-bentonville-square/149476)
-* November 23:&nbsp;[Don Gammie Turkey Trot](http://www.turkeytrotar.com/)
+* November 23: [Don Gammie Turkey Trot](http://www.turkeytrotar.com/)
 * December 1: [Rogers Christmas Parade](http://www.mainstreetrogers.com/event/christmas-parade-2/)
 * December 1: [Eureka Springs Chamber of Commerce Parade of Lights](http://www.eurekaspringschamber.com/events/details/2017-eureka-springs-chamber-of-commerce-parade-of-lights-460)
 * December 2: [“Red, White, and Who” Siloam Springs Christmas Parade](https://www.hlofss.com/christmas-parade.html)
