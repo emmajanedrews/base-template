@@ -33,7 +33,7 @@ client:
   url: 'http://www.stevenrosado.kw.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: rosadohomevalue.com
+  first_CTA_URL: 'http://rosadohomevalue.com'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://stevenrosado.kw.com/listings-search/#/398466887'
   VR_form: 'http://oi.vresp.com?fid=cc35f01cac'
