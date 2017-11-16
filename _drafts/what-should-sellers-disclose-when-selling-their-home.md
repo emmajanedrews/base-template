@@ -3,7 +3,11 @@ layout: post
 title: What Should Sellers Disclose When Selling Their Home?
 date:
 tags:
-excerpt:
+  - Home Seller Tips
+excerpt: >-
+  If you’re a seller and you’re unsure of what you should disclose, don’t hold
+  back. Full disclosures or your home’s defects will protect you from future
+  legal claims.
 enclosure:
 pullquote: 'When in doubt, disclose.'
 enclosure_type: video/mp4
