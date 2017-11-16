@@ -33,6 +33,7 @@ CTAs:
   second_CTA_text: Home Search
   second_CTA_URL: http://www.canovogroup.com/
   VR_form: http://oi.vresp.com?fid=8cce8d5eee
+  VR_form_training: http://oi.vresp.com?fid=7a89356db6
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
