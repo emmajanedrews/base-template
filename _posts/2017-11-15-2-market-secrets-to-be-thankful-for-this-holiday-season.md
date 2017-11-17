@@ -8,7 +8,8 @@ excerpt: >-
   At this time of year, many are giving thanks for the blessings in their lives.
   Today, I’d like to give you something else to be thankful for: two important
   market secrets.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+Two+holiday+season+market+secrets.mp4
 pullquote: The market is still very strong at this time of year.
 enclosure_type: video/mp4
 enclosure_time:
