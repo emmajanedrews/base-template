@@ -4,12 +4,13 @@ title: 3 Permanent Features That Damage a Home's Potential
 tags:
   - Home Buyer Tips
   - Home Seller Tips
-date: 2017-11-02 11:21:38
+date: 2017-11-02 11:21:00
 excerpt: >-
   In any home, there are certain features that can’t be changed. Today, I’ve got
   three examples of these kinds of features that can make homes less attractive
   on the market.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Chris+Gorman/Videos/November/Triangle+Area+Real+Estate-+Watch+out+for+These+3+Home+Features.mp4
 pullquote: >-
   In any real estate transaction, it’s critical to consider any unsavory
   features that can’t be changed.
