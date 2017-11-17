@@ -32,8 +32,6 @@ youtube_code: STmDWb75sww
 
 6. Buyers have more time to look during the holidays than they do during the workweek.
 
-{% include pullquote.html %}
-
 5. Buyers are more emotional during the holidays. This makes buyers more likely to pay your price.
 
 4. Houses show much better when they’re decorated for the holidays.
@@ -43,5 +41,7 @@ youtube_code: STmDWb75sww
 2. Serious buyers have fewer houses to choose from. Less inventory means more money for you on your home sale.
 
 **1. People who look for homes in fall and winter are more serious buyers.**
+
+{% include pullquote.html %}
 
 If you have any more questions about selling your home this holiday season or you’re curious about what’ happening in our central Ohio market, don’t hesitate to reach out to me. I’d be glad to help you.
