@@ -32,7 +32,7 @@ youtube_code: STmDWb75sww
 
 6. Buyers have more time to look during the holidays than they do during the workweek.&nbsp;
 
-5. Buyers are more emotional during the holidays. This makes buyers more likely to pay your price.
+5.&nbsp; are more emotional during the holidays. This makes buyers more likely to pay your price.
 
 4. Houses show much better when they’re decorated for the holidays.&nbsp;
 
