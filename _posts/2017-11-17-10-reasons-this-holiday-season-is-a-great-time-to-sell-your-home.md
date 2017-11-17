@@ -44,4 +44,4 @@ Here are the top 10 reasons this holiday season is a great time to sell your hom
 
 {% include pullquote.html %}
 
-If you have any more questions about selling your home this holiday season or you’re curious about what’ happening in our central Ohio market, don’t hesitate to reach out to me. I’d be glad to help you.&nbsp;<br>&nbsp;
+If you have any more questions about selling your home this holiday season or you’re curious about what’ happening in our central Ohio market, don’t hesitate to reach out to me. I’d be glad to help you.
