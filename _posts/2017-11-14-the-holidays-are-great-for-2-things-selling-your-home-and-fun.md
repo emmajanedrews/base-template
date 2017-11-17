@@ -13,8 +13,8 @@ excerpt: >-
   learn more, watch this short video.
 enclosure:
 pullquote: >-
-  Some may think you shouldn’t sell during the holidays, but this simply isn’t
-  true.
+  Some say you shouldn't try to sell your home during the holidays, but this
+  simply isn't true.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
