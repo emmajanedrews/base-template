@@ -34,5 +34,3 @@ So many agents don’t make money in real estate because they only scratch the s
 **When you find something that you love, really dive deep into that as a pillar for your business.** If you eventually exhaust this area of focus, simply move to the next one.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
-
-{% include pullquote.html %}
