@@ -7,26 +7,26 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Andrew Bolton
   license_number:
   about_markdown: |
 
   market:
-  brand:
-  brokerage:
-  address:
-  phone:
+  brand: Andrew Bolton Sales Representative
+  brokerage: keller Williams Realty Centres
+  address: 16945 Leslie Street, Unit 27-29, Newmarket, ON L3Y 9A2
+  phone: 905-895-5972
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: andrew@andrewbolton.ca
+  url: http://andrewbolton.ca
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.andrewbolton.ca/images/landing/homeworth/index.asp
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.andrewbolton.ca/map-search/
   VR_form:
 
 sidebar_CTA:
@@ -34,14 +34,14 @@ sidebar_CTA:
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.andrewbolton.ca/images/landing/homeworth/index.asp
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://www.andrewbolton.ca/map-search/
 
 lender:
   show_section: false
@@ -66,10 +66,10 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
+  facebook_url: https://www.facebook.com/andrewboltonrealty
+  linkedin_url: https://www.linkedin.com/in/myrealtorandrew/
+  gplus_url: https://plus.google.com/+MyrealtorandrewCa
+  youtube_url: https://www.youtube.com/user/thepropertyhound
   twitter_url:
   instagram_url:
   pinterest_url:
@@ -90,14 +90,14 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 75
   hero_text: -- MARKET -- Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#b40101'
-  theme_color: '#999'
+  theme_color: '#646464'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
