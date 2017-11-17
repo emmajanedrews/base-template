@@ -20,7 +20,7 @@ youtube_code: STmDWb75sww
 
 {% include youtube.html %}
 
-**Here are the top 10 reasons this holiday season is a great time to sell your home:**
+Here are the top 10 reasons this holiday season is a great time to sell your home:
 
 10. Selling now will make you a non-contingent buyer in the spring when there are more houses on the market available for less money. This will allow you to sell high and buy low.
 
