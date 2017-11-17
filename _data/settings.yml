@@ -20,13 +20,13 @@ client:
   phone2:
   phone2_type:
   email: lisa@treugroup.com
-  url: http://everypalmbeachcountylisting.com
+  url: http://www.treugroup.com
 
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: http://whatsmypalmbeachcountyhomevalue.com/
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.everypalmbeachcountylisting.com/
+  second_CTA_URL: http://www.treugroup.com/
   VR_form: http://oi.vresp.com?fid=2e80e6fec5
 
 sidebar_CTA:
@@ -41,7 +41,7 @@ second_sidebar_CTA:
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: http://www.everypalmbeachcountylisting.com/
+    CTA_url2: http://www.treugroup.com/
 
 lender:
   show_section: false
