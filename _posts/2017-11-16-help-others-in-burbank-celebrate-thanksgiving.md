@@ -8,7 +8,8 @@ excerpt: >-
   We are very fortunate to have great families, good jobs, and warm homes to go
   to during the Holidays. Unfortunately, this isn't a reality for everyone in
   our area.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Join+us+and+give+back+this+holiday+season.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
