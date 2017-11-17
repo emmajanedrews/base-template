@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Help Others in Burbank Celebrate Thanksgiving!
-date: 2017-11-16 09:33:09
+date: 2017-11-16 09:33:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: n7wziQkOJgo
+youtube_code: kuG2-c9xdHI
 ---
 
 
@@ -27,5 +27,3 @@ That's why we always help the Burbank Temporary Aid Center. Every year, they pro
 We need your help! If you'd like to donate your time or some turkeys, please get in touch with us.
 
 As always, refer to us as your No. 1 resource for real estate in the LA area!
-
-&nbsp;
