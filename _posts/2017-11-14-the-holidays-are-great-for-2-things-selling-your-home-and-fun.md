@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Holidays Are Great for 2 Things: Selling and Fun'
+title: 'The Holidays Are Great for 2 Things: Selling Your Home and Fun'
 date: 2017-11-14 16:37:00
 tags:
   - Real Estate
