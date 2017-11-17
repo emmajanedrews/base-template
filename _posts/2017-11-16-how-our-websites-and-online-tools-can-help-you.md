@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/9BxAZT661t4'
 {% include youtube.html %}
 {: .present-before-paste}
 
-We at the Wicker Homes Group have been working very hard to create some really cool tools for our toolkit that buyers, sellers, and anyone out there thinking about making a real estate transaction can use.
+We at the Wicker Homes Group have been working very hard to create some really cool tools for our toolkit that buyers, sellers, and anyone thinking about making a real estate transaction can use.
 {: .present-before-paste}
 
 Two tools that have been particularly very helpful are **our search website** [www.wickerhomesgroup.com](https://www.wickerhomesgroup.com/)[,](__notset__) which allows you to search available homes in real time, and **our video blog** [www.livelovenova.com](http://livelovenova.com). Our video blog will give you a video library of different real estate topics we’ve covered in the past for your education and enjoyment.<br><br>We also have two different websites for buyers and sellers, specifically. The website for buyers is [www.buywithwhg.com](http://www.buywithwhg.com), and the website for sellers is [www.sellwithwhg.com](http://www.sellwithwhg.com). Both of these websites are individually tailored for each side’s needs.
