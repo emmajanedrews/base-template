@@ -32,7 +32,7 @@ Today let’s go through the top 10 reasons why I think fall and winter are grea
 
 **2. There are a lot of rental vacancies**, which will make it easier if you have to do a double move.
 
-**3. You can restrict showings during the holidays.** It is perfectly acceptable to restrict showings to accommodate for any holiday plans you might have.
+**3. You can restrict showings during the holidays.** It is perfectly acceptable to restrict showings to accommodate any holiday plans you might have.
 
 **4. January is the biggest month for transferees**. A lot of big companies will end up hiring and transferring employees during this month, so those employees will begin house hunting in November and December.
 
