@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2 Market Secrets to Be Thankful for This Holiday Season
-date: 2017-11-15 10:03:08
+date: 2017-11-15 10:03:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: XrHqhUksBYo
+youtube_code: oRbKfCVW8t0
 ---
 
 
