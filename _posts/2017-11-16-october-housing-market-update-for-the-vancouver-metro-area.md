@@ -37,4 +37,4 @@ If we break it down by property type, we can see that detached homes are in a cl
 
 Home prices reflect this varied demand. In the last year, demand for detached homes has increased 4%. **But townhomes and condos have both seen double-digit gains since last year, with an increase of 18% and 22%, respectively.**
 
-If you’re looking to enter the market as either a buyer or a seller, it’s important to work with your local realtor so you understand the latest market trends and set realistic expectations to help you achieve your housing goals.<br><br>If you have any questions for us, don’t hesitate to reach out and give us a call or send us an email. We would love to hear from you.
+If you’re looking to enter the market as either a buyer or a seller, it’s important to work with your local Realtor so you understand the latest market trends and set realistic expectations to help you achieve your housing goals.<br><br>If you have any questions for us, don’t hesitate to reach out and give us a call or send us an email. We would love to hear from you.
