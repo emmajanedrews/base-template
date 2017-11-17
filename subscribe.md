@@ -31,7 +31,7 @@ I’d like to offer you a free subscription to my real estate agent training e-n
 
 This newsletter is specifically for real estate agents who want to grow, learn, and want to dominate their market with a local brand and expert presence. If you want to improve yourself, make more money and you feel you can do more and just need the tools, this is for you. This is not for part-time agents who are happy with their income.
 
-This is 100% educational advice. I’d like you to get to know what we’re up to here so we can grow the size of the real estate pie in Glendale. In the past year, 86,000 homes SOLD in our Glendale market, so there is plenty of business to go around.
+This is 100% educational advice. I’d like you to get to know what we’re up to here so we can grow the size of the real estate pie in The Valley Of The Sun. In the past year, 86,000 homes SOLD in The Valley Of The Sun market, so there is plenty of business to go around.
 
 SPECIAL NEW SUBSCRIBER BONUS
 
@@ -43,7 +43,7 @@ The next step, after subscribing to our newsletter, is to attend one of our many
 
 I invite you to subscribe below. Simply enter your email address and you’ll get a confirmation email with a copy of my Office Tour DVD.
 
-Email me at <a href="mailto:info@NatesHomes.com">info@NatesHomes.com</a> with any questions I can answer for you in my videos. If I pick your question and answer it in the newsletter, I’ll send you a $5 Amazon gift card!
+Email me at <a href="mailto:NateM@RMXProfessionals.com">NateM@RMXProfessionals.com</a> with any questions I can answer for you in my videos. If I pick your question and answer it in the newsletter, I’ll send you a $5 Amazon gift card!
 
 Let’s help you grow your business.
 
