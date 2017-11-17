@@ -42,6 +42,8 @@ youtube_code: STmDWb75sww
 
 **1. People who look for homes in fall and winter are more serious buyers.**
 
+If you have any more questions about selling your home this holiday season or you’re curious about what’ happening in our central Ohio market, don’t hesitate to reach out to me. I’d be glad to help you.
+
 {% include pullquote.html %}
 
 If you have any more questions about selling your home this holiday season or you’re curious about what’ happening in our central Ohio market, don’t hesitate to reach out to me. I’d be glad to help you.
