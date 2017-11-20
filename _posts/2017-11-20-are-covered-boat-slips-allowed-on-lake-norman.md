@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are Covered Boat Slips Allowed on Lake Norman?
-date: 2017-11-20 00:00:00
+date: 2017-11-20 09:00:00
 tags:
 excerpt: "There's one important difference between covered and uncovered docks that we need to talk about.\_ It's essential to understand that the square footage is calculated differently for a covered dock versus an uncovered dock."
 enclosure:
