@@ -8,7 +8,7 @@ excerpt: >-
   If you have been thinking of buying a new construction home, there are three
   key points you need to consider.
 enclosure:
-pullquote:
+pullquote: 'Whatever you choose, make sure it is right for you.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
