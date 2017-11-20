@@ -1,0 +1,60 @@
+---
+layout: post
+title: Should I Buy Internet Leads?
+date: 2017-11-20 00:00:00
+tags:
+  - Real Estate
+excerpt: "Today we are going to look at a question that I get asked by new agents and experienced agents, successful agents and struggling agents.\_ Should I buy internet leads?"
+enclosure:
+pullquote: >-
+  By the end of this video, you will have enough information to decide if you
+  want to take the next step in the process of buying internet leads.
+enclosure_type: video/mp4
+enclosure_time:
+use_youtube_image: true
+youtube_alternate_image:
+youtube_code: 'https://youtu.be/FYFCCnQWhag'
+---
+
+
+{% include youtube.html %}
+
+Today we are going to look at a question that I get asked by new agents and experienced agents, successful agents and struggling agents.  Should I buy internet leads?
+
+Lead generation through internet leads is a broad and complex topic that to discuss it in depth would take up whole course.   The goal of this video is to provide you with a general understanding of internet leads, help you define your expectations about internet leads and identify the variables that will influence your success.
+
+{% include pullquote.html %}
+
+So let's start out with a quick overview of what it means to 'buy leads' so that we are one the same page.   When we talk about 'buying internet leads', we are talking about when you pay upfront  for the opportunity to ‘get’ a lead.  These are your pay per click leads, your zillow leads, your [realtor.com](http://realtor.com/) leads etc.  I just want to point out that these are different from what I call 'referral leads' or your 'backend leads' where a company or service **gives** you a lead and then you pay a referral fee when you close on a transaction.   So the main distinction between the two is that when 'you buy internet leads' you pay upfront and there is no guarantee of a sale as opposed to 'referral leads' where are given the lead and you only pay if a sale occurs.
+
+So for the purpose of this video whenever we mention 'internet leads' we are referring to buying upfront buyer leads.  Now let's look at 3 models that you will typically come across when buying leads. We are not going to spend too much here going into all the 'ins and outs', but we will touch on them generally.
+
+The first model is the impression model. This is what Zillow uses for example.  You buy impressions for a specific zip code.  How this works is that when a user clicks on a property that is not listed by a Zillow Premiere Agent, there will be 4 agents displayed on the property details page.  There will be the listing agent and 3 agents that are 'buying leads' or 'ad spots'.  You pay for the number of times your ad is displayed as one of these three agents.
+
+The second model is the exclusive agent model , like Realtor.com.  You pay to be the exclusive agent for  a number of leads in a specific zip code.   If a user submits the 'More about this Property' form then you get this lead.  Realtor.com also offers a shared exclusive option where you can split the cost with another agent.  Realtor.com no longer guarantees the number of leads but gives you a projection of leads based on past activity.
+
+The third is the Pay Per Click model like Google Adwords or Bing Ads.  In this case, your ad appears when a user searches for specific set of keywords.  For example, if someone searches for 'homes for sale in Huntersville NC', your ad will appear.  You pay when someone clicks on your ad which typically goes to your search site.   I want to clarify what we define as a 'lead' in the pay per click model.  When a user clicks on an ad, that's a 'click'. If that user registers on your site, that's a conversion.  If that registered users gives you a legit phone number or email, then that is what we consider a lead.
+
+These models and variations of these models can also be found on social platforms like facebook as well.
+
+Now let's discuss what your expectations should be.  I think this is where the most disconnect occurs for agents because they start buying leads without having clear understanding of what their expectations should be.   I've seen many agents when they are slow or just starting out feeling pressured to generate some business, so they turn to internet leads.  I've also seen agents get a phone call from one of the hundreds of services out there and decide on the spot, to give it a shot.  Let's face it, it's pretty simple and quick.  All you have to do is give them your credit card number and they will have you up and running in week.  A lot of agents treat it like playing the lottery; “I'm going to give it a chance and see if I get lucky”.  That's one reason why you hear such wide range of opinions from agent to agent.  The agents that 'get lucky' and get a someone under contract while they're 'giving it a shot', will tell you that it 'worked for them' and those that don't will tell you 'it's a waste of your money'.  Most of the time, you are not getting solid advice because the sample size is just too small.  Either the budget or campaign length is not sufficient to get an adequate number of leads or the timeframe for results is too narrow.
+
+Let’s break this down a little further.  What is an adequate number of leads?  Well, this will depend on the conversion rate.  If the conversion rate is 3%, then out of 100 legitimate leads, you should produce three sales.  If the conversion rate is 1%, then you need 100 leads to produce a sale.
+
+What about timeframe? What is the proper timeframe?  Let’s look at an example.
+
+If you were going to spend $300 a month for a year buying internet leads, then you need to approach it from this perspective:  “I'm going to spend $3,600 to generate one sale in the next 24 months.”  If we are strictly looking at return on investment, it doesn't matter if the sale occurs in month 3 or month 24.   The ROI will depend on the sale's price and your commission split.   If it's turns out to be a $200,000 sale generating $6,000 in commission and you are on a 70/30 split, then you keep $4,200.  In this scenario you have to ask yourself, am I willing to risk $3,600 to make $600?  Now if that sale turns out to be a $600,000 deal which generates $18,000 in commission and you are on an 80/20 split then you keep $14,400.  That's a 300% return on investment and an easier decision.   Here in lies the frustration for most agents, the outcome which includes the sale’s price and the timeframe is unpredictable so it hard to nail down a ROI.    I have personally seen an agent land a 2.6 million dollar sale on a $100 a month budget.   At the same time, I've seen agents spend a bunch of money and end up losing money at the end of the day.
+
+The critical point is that buying internet leads must be a strategy that is part of your business plan.   If you are going to use internet leads for lead generation, you need a plan and you have to stick with it.  If you jump in and out or keep switching services then you are not working a plan, you are just ‘hoping to get lucky’.
+
+So when you define your expectations, you need to include your budget, the number leads you will need and the amount of time it will take to achieve your return on investment.  One last note on this.  Don’t spend money that you can’t afford to lose and if you do have a limited amount of money to invest, make sure this is the highest and best use of that money.
+
+Alright, let’s look at the variables that will influence your success.  A lot of agents get hung up on choosing the right lead generation service or getting the best zip code.  While these do play a role, I believe there are 2 other variables that are more important.
+
+One, is the skill level of the agent.  The fact is some agents are better at converting internet leads than others.  We could give the exact same number of leads to different agents and get different results.  Why is this?  I think some agents are better at getting people to open-up and start talking to them and some are better at demonstrating their knowledge and value over the phone.  So, you need to be objective about your skill set before you dive in.  If you feel like you need up your game, then there are two schools of thoughts about what to do next.  One is what I call the 'get in shape first' approach where you take steps to improve by practicing through role play or with free leads before you start calling leads that you have spent your hard-earned money on.  The other school of thought is what I call, 'just get in the game' philosophy where the best way to learn is to get out there and do it.  If you lose a few leads don't worry about just consider it as investing in your training.  As long as you learn from your experiences and you can afford it, your skill level will improve.  Either way, they better you are at converting will have direct impact on your results.
+
+The second variable that will influence your success is having the systems and discipline to effectively work these leads.  Most of the leads are not going to say, “hey let’s go look at this house and write up an offer”.  You need to have a process in place so these leads do not fall through the cracks.  I know this sounds easy enough but the truth is when you get busy with work or life, it will happen without a process.  I have personally seen leads that were given to one agent but ended closing a deal with another agent.  Just because you receive a lead, doesn’t mean this same lead is not out registering on other sites and getting contacted by other agents.   All the lead gen services will stress the importance of reaching out as fast as possible once you receive a lead.  Most agents understand this and are on top of it.  Where we see the fall off is the follow up after the first week or two.   The better your process, the better the results.
+
+So should you buy internet leads?  Well you have to decide if it makes sense for you.  We have looked at the different models, talked about defining your expectations and discussed two important variables that can influence your success.   But ultimately, it will depend on your situation.  For example, let's say you are an agent that's just moved here from out of state.  You have experience and you were successful in your previous market but now you don't know anyone.  Well, one of your biggest needs is having clients to work with so you can build a referral base and get repeat business.  In this case, buying internet leads makes sense.  That's a different situation from someone who is a brand new agent with no previous sales experience.  That's why it's hard to give you a clear answer without talking with you and getting the whole picture.  The bottom line is that you can make money and get clients through buying internet leads but at same time you can lose money if it's not done correctly.  We buy leads at the firm level and make money doing  it.  The biggest challenge that I see at the agent level is the budget that most agents are comfortable with creates a time frame that's longer then they expect.  The longer it takes to pay off, the better the follow up process has to be.  Now the agents that spend more than they are comfortable with often end up cutting the campaign short because they start feeling the financial strain.   Most of our agents choose to work referral leads.  As a firm we buy the upfront leads and the assign them to our agents to work as referral leads.   At the end of day, if you should buy internet lead will come down to your personal situation and if you will develop a plan to effectively work these leads.  If you think internet leads may work for you, then your next step would be to explore topics like:  what type of leads should you buy, how to determine your budget, do you have a defined demographic or area.  Answering these questions will help you dial in your strategy and allow you to maximize your return on investment.
+
+I hope this video has helped you learn a little more about buying internet leads and given you the information you need to take the step.  If you have any additional questions or comments, you can always reach out to me.
