@@ -32,4 +32,4 @@ If you’ve been thinking of waiting until next spring or summer to get your hom
 
 **4. Less competition.** Although this means that you’ll have to wait a bit longer if you’re in the market to buy a home, it’s great news for you if you’re a seller.
 
-**Interest rates have continued to stay low, making this a great market to buy and sell in.** Perfect conditions if you’re looking to move up into a bigger and better home. If you have any questions for me about the market or about buying or selling a home, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+**Interest rates have continued to stay low, making this a great market to buy and sell in.**&nbsp;These are perfect conditions if you’re looking to move up into a bigger or better home. If you have any questions for me about the market or about buying or selling a home, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
