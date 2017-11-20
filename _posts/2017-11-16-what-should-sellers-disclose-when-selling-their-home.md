@@ -22,7 +22,7 @@ youtube_code: 'https://youtu.be/0aj2O6-MYn0'
 
 When it comes to real estate transactions, sellers have a legal obligation to disclose past and current defects of their home to potential buyers. How far does this obligation go, though?
 
-On one hand, sellers want to minimize the negative disclosures that may affect their ability to sell their home for maximum profit. Buyers, on the other hand, want to know exactly what they’re buying so they can estimate potential repair expenses and negotiate the purchase price accordingly.<br><br>**Whether you’re buying or selling, it’s a good idea to understand the basics of real estate disclosures.**There are required disclosures such as water damage, mold, termite damage, cracks in the foundation, leaks in the roof, and issues with any appliances or mechanical systems. You also must disclose previous repairs and renovations and any potential environmental dangers.
+On one hand, sellers want to minimize the negative disclosures that may affect their ability to sell their home for maximum profit. Buyers, on the other hand, want to know exactly what they’re buying so they can estimate potential repair expenses and negotiate the purchase price accordingly.<br><br>**Whether you’re buying or selling, it’s a good idea to understand the basics of real estate disclosures.&nbsp;**There are required disclosures such as water damage, mold, termite damage, cracks in the foundation, leaks in the roof, and issues with any appliances or mechanical systems. You also must disclose previous repairs and renovations and any potential environmental dangers.
 
 {% include pullquote.html %}
 
