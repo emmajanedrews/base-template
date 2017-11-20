@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: S5hnjwtS1cQ
+youtube_code: 774df4LlapI
 ---
 
 
@@ -22,9 +22,9 @@ youtube_code: S5hnjwtS1cQ
 
 A lot of people out there think that when the time comes for them to buy a home, they can go out and do everything on their own. In reality, hiring an agent is the only way you’ll be able to go through the transaction step by step with limited hassle and worry.
 
-**Working with an agent who is involved (like all the agents on our team) is a huge plus**. We can help you write up a wishlist with everything that you want in a home. Then we can help you look at properties that match the items on that list. Not only do we have access to the entire local MLS, we often have our own inventory of off-market properties as well.&nbsp;
+**Working with an agent who is involved (like all the agents on our team) is a huge plus**. We can help you write up a wishlist with everything that you want in a home. Then we can help you look at properties that match the items on that list. Not only do we have access to the entire local MLS, we often have our own inventory of off-market properties as well.
 
-In addition to off-market properties, we also have all the information you need about various neighborhoods and schools. We’ll be able to answer any of your questions faster than you can type them into Google.&nbsp;
+In addition to off-market properties, we also have all the information you need about various neighborhoods and schools. We’ll be able to answer any of your questions faster than you can type them into Google.
 
 Buying a home on your own is one thing, but buying an FSBO (For Sale By Owner) home on your own has even more potentially disastrous consequences. There are pages and pages of disclosures that we use with FSBOs to protect our buyers. **Without that knowledge, things could go south quickly**.
 
