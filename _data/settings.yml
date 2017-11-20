@@ -9,7 +9,8 @@ custom_links:
 client:
   name: Donald Payne
   license_number:
-  about_markdown: |
+  about_markdown: | 
+    Don Payne is a devoted husband, father, son, friend, and volunteer. All of these life experiences make him uniquely qualified to have been the realtor of choice for home buyers and sellers since 1979. The key to Don's success for more than 25 years has been his willingness to take the time to get to know his clients, and to understand how their housing situation can best help them meet their personal visions. Don has used his real estate expertise and relationship-building skills to help people in all walks of life realize their home ownership goals. He has reached out to single individuals, first-time homebuyers, new families, single parents, and well-established homeowners in a broad spectrum of pricing ranges, throughout their desired market areas.
 
   market:
   brand: Don Payne Group
