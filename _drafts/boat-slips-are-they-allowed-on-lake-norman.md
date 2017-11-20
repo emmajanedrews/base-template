@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Boat Slips:  Are they allowed on Lake Norman?'
-date:
+title: Are Covered Boat Slips Allowed on Lake Norman?
+date: 2017-11-20 09:00:00
 tags:
 excerpt: >-
   Whether you are allowed to have a covered boat slip or add on a covered boat
