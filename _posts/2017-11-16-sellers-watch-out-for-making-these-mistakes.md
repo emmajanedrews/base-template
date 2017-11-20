@@ -22,7 +22,7 @@ Today I want to go over the top three mistakes sellers make and how you can avoi
 
 **The first mistake is overpricing the home**. Believe me, I’ve heard it all: “Chance, we don’t have to sell it. We don’t want to give it away.” Mr. and Mrs. Seller, I don’t want to give your home away either. Yet, **more days on the market for your property usually means less money** in your bank account when it’s over.
 
-Let me explain. Let’s say the market price for your home suggest you should be on the market for $400,000 and you want to “try” $425,000. Here’s the problem with that: you might find a home run buyer, yet if you don’t, by the time you price your home correctly, the buyers will think something is wrong with it. They may not even choose to write an offer at that point. If they do, do you think they’ll offer you the full price? Of course not.
+Let me explain. Let’s say the market price for your home suggests it should be on the market for $400,000 and you want to “try” $425,000. Here’s the problem with that: you might find a home run buyer, but if you don’t, by the time you price your home correctly, the buyers will think something is wrong with it. They may not even choose to write an offer at that point. If they do, do you think they’ll offer you the full price? Of course not.
 
 Now, if you come on the market right off the bat with the price it needs to be at and someone wants to write an offer, they have no choice but to give you your asking price. **Take it from me: price it right from the beginning.**
 
