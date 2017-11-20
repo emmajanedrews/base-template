@@ -20,9 +20,9 @@ youtube_code: jhZjwJGmGrE
 
 {% include youtube.html %}
 
-Everyone knows how stressful moving can be, but I have a few quick tidbits to share with you that will help your move go off without a hitch. I just moved myself, so I speak from experience regarding these tips.
+Everyone knows how stressful moving can be, but I have a few quick tidbits to share with you that will help your move go off without a hitch. I just moved myself, so I speak from experience.
 
-First, **separate all of your stuff into three separate piles: things you will keep and move with you, things you will give away or sell, and things you’ll throw away.**I know it’s hard to put any stuff into that last pile, but if you’ve moved multiple times, it might be a good idea to consider what really has to come with you.&nbsp;
+First, **separate all of your stuff into three separate piles: things you will keep and move with you, things you will give away or sell, and things you’ll throw away.&nbsp;**I know it’s hard to put any stuff into that last pile, but if you’ve moved multiple times, it might be a good idea to consider what really has to come with you.&nbsp;
 
 {% include pullquote.html %}
 
