@@ -23,7 +23,7 @@ youtube_code: 2bF54v-aTQI
 
 {% include youtube.html %}
 
-Today we’re going to talk about giving yourself time, as a seller, to get everything prepared to move.
+Today we’re going to talk about giving yourself time as a seller to get everything prepared to move.
 
 So many people call us wanting to list their house, but they want the sign in their yard the next day. Their house at the time is usually in no way, shape, or form ready to sell.
 
