@@ -3,7 +3,10 @@ layout: post
 title: 3 Things to Think About When Buying a New Construction Home
 date:
 tags:
-excerpt:
+  - Home Buyer Tips
+excerpt: >-
+  If you have been thinking of buying a new construction home, there are three
+  key points you need to consider.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
