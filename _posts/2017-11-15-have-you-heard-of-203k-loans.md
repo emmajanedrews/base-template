@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Have You Heard of 203(k) Loans?
-date: 2017-11-15 13:02:30
+date: 2017-11-15 13:02:00
 tags:
   - Home Buyer Tips
 excerpt: >-
   If you’re purchasing a home and love almost everything about it except one
   thing that seems off, ask your agent about a 203(k) loan.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/November+/Mississippi+Gulf+Coast+Real+Estate+Agent-+Lending+for+Renovations.mp4
 pullquote: >-
   This type of loan is a renovation loan that works in tandem with your regular
   lending and allows you to make renovations to the house during the purchase.
