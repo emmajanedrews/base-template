@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Come to Our Client Appreciation Party
-date: 2017-11-17 07:37:20
+date: 2017-11-17 07:37:00
 tags:
   - Real Estate
 excerpt: You’re invited to the Deuce Kirk Team Client Appreciation Party.
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/deuce-youtube-1.jpg
-youtube_code: mqSQpeXgLGQ
+youtube_code: BCXrwwpjZOQ
 ---
 
 
