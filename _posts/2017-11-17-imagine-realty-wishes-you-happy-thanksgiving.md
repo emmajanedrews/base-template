@@ -20,6 +20,6 @@ youtube_code: uD_ut0jDPb8
 
 {% include youtube.html %}
 
-We had a great turnout at our recent pumpkin pie giveaway. Whether you’re a current client, past client, or a friend, thank you all so much for coming to support us. It was a great experience and we’re truly fortunate to have the opportunity to work with so many great clients. Everyone at Imagine Realty wanted to wish you a Happy Thanksgiving. To see our full message, watch this short video.
+We had a great turnout at our recent pumpkin pie giveaway. Whether you’re a current client, past client, or a friend, thank you all so much for coming to support us. It was a great experience and we’re truly fortunate to have the opportunity to work with so many great clients. Everyone at Imagine Realty wanted to wish you a Happy Thanksgiving.
 
 {% include pullquote.html %}
