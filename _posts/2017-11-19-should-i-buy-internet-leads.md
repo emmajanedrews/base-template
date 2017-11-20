@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Should I Buy Internet Leads?
-date: 2017-11-20 00:00:00
+date: 2017-11-19 00:00:00
 tags:
   - Real Estate
 excerpt: "Today we are going to look at a question that I get asked by new agents and experienced agents, successful agents and struggling agents.\_ Should I buy internet leads?"
