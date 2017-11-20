@@ -26,7 +26,7 @@ Here are the top 10 reasons this holiday season is a great time to sell your hom
 
 **9. You can still restrict showings during the holidays.**
 
-**8. January is traditionally the month for employees to start new jobs.** Since transferees can’t wait until the spring to buy, you need to be on the market in spring and winter to capture those buyers.
+**8. January is traditionally the month for employees to start new jobs.** Since transferees can’t wait until the spring to buy, you need to be on the market in&nbsp; winter to capture those buyers.
 
 **7. Some people are looking to buy before the end of the year for tax purposes.**
 
@@ -36,7 +36,7 @@ Here are the top 10 reasons this holiday season is a great time to sell your hom
 
 **4. Houses show much better when they’re decorated for the holidays.**
 
-**3. Supply will increase in January**, which means less demand for your home, and less money for you.
+**3. Supply will increase in January**, which means less demand for your home and less money for you.
 
 **2. Serious buyers have fewer houses to choose from.** Less inventory means more money for you on your home sale
 
@@ -44,4 +44,4 @@ Here are the top 10 reasons this holiday season is a great time to sell your hom
 
 {% include pullquote.html %}
 
-If you have any more questions about selling your home this holiday season or you’re curious about what’ happening in our central Ohio market, don’t hesitate to reach out to me. I’d be glad to help you.
+If you have any more questions about selling your home this holiday season or you’re curious about what’s happening in our central Ohio market, don’t hesitate to reach out to me. I’d be glad to help you.
