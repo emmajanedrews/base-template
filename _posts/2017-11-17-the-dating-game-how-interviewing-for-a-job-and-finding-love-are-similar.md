@@ -9,8 +9,8 @@ excerpt: >-
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Govig/BioPharma/Videos/2017/Dating+And+Interviewing+Can+Be+Similar+-+JustinnOct2.mp4
 pullquote: >-
-  Most people don’t go into a first date with the intention of a marriage
-  proposal at the end of it.
+  Most people don’t go on a first date with the intention of a marriage proposal
+  at the end of it.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -25,13 +25,13 @@ When I began my career at Govig & Associates, I was an executive recruiter on ou
 
 If it’s time to make a change, whether it be in your dating life or in your career, the steps are actually rather similar.
 
-**First, you’re going to prospect.** You might join an online dating service, access your network, and agree to be set up on some blind dates. Before even agreeing to these, you’ll probably research that person on social media or ask your family and friends about them. You’ll want to learn more before agreeing to the set-up.
+**First, you’re going to prospect.** You might join an online dating service, access your network, and agree to be set up on some blind dates. Before even agreeing to these, you’ll probably research that person on social media or ask your family and friends about them. You’ll want to learn more before agreeing to the setup.
 
-**In interviewing, it’s the same thing**. You’ll go to online job boards to search for jobs or companies that interest you. Before applying, you’d check a site like Glassdoor, look at stock information, or read news about the company tends to provide more information.
+**In interviews, it’s the same thing**. You’ll go to online job boards to search for jobs or companies that interest you. Before applying, you’d check a site like Glassdoor, look at stock information, or read news about the company trends they've gone through to provide more information.
 
-Second, once you’ve decided to go on the date, **it’s time for the first meeting.** Most people don’t go into a first date with the intention of a marriage proposal at the end of it. It’s just a time to get to know one another. **You ask questions, learn about each other, and decide if your interests and goals are similar.**
+Second, once you’ve decided to go on the date, **it’s time for the first meeting.** Most people don’t go on a first date with the intention of a marriage proposal at the end of it. It’s just a time to get to know one another. **You ask questions, learn about each other, and decide if your interests and goals are similar.**
 
-This is very similar to the interview process. I stress to a lot of candidates that agreeing to go on **a first interview is not a commitment to that job**; it’s just a commitment to learn more about the company and for them to learn more about you. Use this to your advantage—ask good questions that will give you more serious information about the company.
+This is very similar to the interview process. I stress to a lot of candidates that agreeing to go on **a first interview is not a commitment to that job**; it’s just a commitment to learning more about the company and for them to learn more about you. Use this to your advantage—ask good questions that will give you more serious information about the company.
 
 Third, **if the first date or interview went well, you’ll enter into a relationship.** Sometimes this could lead to meeting family and friends, which I also call the team interview.
 
@@ -39,7 +39,7 @@ Third, **if the first date or interview went well, you’ll enter into a relatio
 
 And if that all continues to go well, it could lead to the final stages. In dating, this would mean a marriage proposal. With a marriage proposal, there are a lot of logistical aspects that need to be organized: the timing, the ring, the delivery, and so on. **Typically, a lot of things have been discussed with your partner before extending this proposal**, so the likelihood of acceptance is rather high.
 
-This is the same in the interview process when you get to the point of the job offer being extended. Like the proposal, many logistical aspects need to be put together: start date, compensation, title, etc.** A lot of these will have already been discussed in the interview(s)**, so the expectations are managed appropriately and the likelihood of having the offer be accepted is high.
+This is the same in the interview process when you get to the point of the job offer being extended. Like the proposal, many logistical aspects need to be put together: start date, compensation, title, etc.&nbsp;**A lot of these will have already been discussed in the interview(s)**, so the expectations are managed appropriately and the likelihood of having the offer be accepted is high.
 
 As you can see, dating and interviewing can be very similar. Both can be stressful and emotional, but we do them because the outcome for our personal and professional growth is positive.
 
