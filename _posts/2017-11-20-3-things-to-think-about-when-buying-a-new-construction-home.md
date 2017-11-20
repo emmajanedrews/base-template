@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Things to Think About When Buying a New Construction Home
-date:
+date: 2017-11-20 12:30:48
 tags:
   - Home Buyer Tips
 excerpt: >-
