@@ -27,7 +27,7 @@ According to Diane, now is an absolutely great time to sell. There are three rea
 
 {% include pullquote.html %}
 
-**1. Less competition.**A lot of sellers take their homes off the market during the holidays. This means you can get a better price for your home, since buyers have fewer properties to choose from.
+**1. Less competition.** A lot of sellers take their homes off the market during the holidays. This means you can get a better price for your home, since buyers have fewer properties to choose from.
 
 **2. Buyers looking at homes during the holidays are serious.** Anyone who is on the market for their next home at this time of year is going to be very motivated.
 
