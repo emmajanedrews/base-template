@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Tips to Make Your Next Move Go Smoothly
-date: 2017-11-14 14:55:48
+date: 2017-11-14 14:55:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/next-move-youtube.jpg
-youtube_code: YKcIczm86fU
+youtube_code: h3IurZafTxg
 ---
 
 
