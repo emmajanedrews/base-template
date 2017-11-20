@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s Happening in the Prior Lake Real Estate Market?
-date: 2017-11-20 14:59:09
+date: 2017-11-20 14:59:00
 tags:
   - Market Update
 excerpt: >-
@@ -12,7 +12,7 @@ excerpt: >-
   current market and these new construction projects, watch this short video.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/November/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Your+Fall+Market+Update.mp4
-pullquote:
+pullquote: The market does pick up again from late September.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
