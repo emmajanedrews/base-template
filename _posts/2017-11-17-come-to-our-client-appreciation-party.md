@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/deuce-youtube-1.jpg
-youtube_code: BCXrwwpjZOQ
+youtube_code: 'https://youtu.be/BCXrwwpjZOQ'
 ---
 
 
