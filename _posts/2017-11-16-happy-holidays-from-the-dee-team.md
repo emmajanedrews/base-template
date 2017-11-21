@@ -10,9 +10,9 @@ enclosure: >-
 pullquote: Have a happy and prosperous holiday season.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /uploads/dee-youtube-1.jpg
-youtube_code: GKC8CK74FCI
+use_youtube_image: true
+youtube_alternate_image:
+youtube_code: Kv4rB1KuwVs
 ---
 
 
