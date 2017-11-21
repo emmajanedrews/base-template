@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Home Maintenance Projects to Do Twice a Year
-date: 2017-11-21 13:00:38
+date: 2017-11-21 13:00:00
 tags:
   - Real Estate
 excerpt: >-
@@ -10,7 +10,7 @@ excerpt: >-
 enclosure:
 pullquote: >-
   Extending the life of your HVAC system with regular upkeep will save you money
-  in the long-run
+  in the long-run.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
