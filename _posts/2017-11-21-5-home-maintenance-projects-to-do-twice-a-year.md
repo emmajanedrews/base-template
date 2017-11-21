@@ -37,4 +37,4 @@ I use the changing seasons as a gauge for when these items should be done: befor
 
 **5. Make sure your hose bibs are insulated and protected.** We don’t get too many hard freezes in our area, but one good freeze where a water pipe bursts and you’ll be crying. Make sure those are all wrapped up well for the winter.
 
-If you have any questions about this or other real estate-related topics, please feel free to reach out. My phone is (512) 658-6476 or email me at karlyn@prosperprops.com.
+If you have any questions about this or other real estate-related topics, please feel free to reach out. My phone number is (512) 658-6476 or email me at karlyn@prosperprops.com.
