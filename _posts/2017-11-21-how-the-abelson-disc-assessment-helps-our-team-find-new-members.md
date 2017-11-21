@@ -13,7 +13,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: >-
   /uploads/davefriedman-screenshot-tube-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01.jpg
-youtube_code: aYs8vIljc80
+youtube_code: _-hhl_2akFU
 ---
 
 
