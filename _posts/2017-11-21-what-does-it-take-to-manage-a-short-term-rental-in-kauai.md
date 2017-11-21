@@ -19,13 +19,13 @@ youtube_code: PY1DHoh5Ko4
 
 {% include youtube.html %}
 
-Let’s talk about vacation rentals. Here in Kauai, they’re known as TVRs, or transient vacation rentals. One of the first things you need to know is that the island of Kauai has specific rules and regulations.
+Let’s talk about vacation rentals. Here in Kauai, they’re known as TVRs, or transient vacation rentals. One of the first things you need to know is that the island of Kauai has specific rules and regulations regarding TVRs.
 
 **In order to do a short-term rental, which by Hawaii law is anything shorter than six months, you must have a TVR licence**. Usually, TVR properties are located within the VDA, or the visitor destination area. There are also a number of properties outside of the VDA with non-conforming use licenses. These properties were previously vacation rentals before the rules changed in 2009.
 
 So if you’re going to purchase a vacation rental, these are the two kinds of properties you’ll want to look at.
 
-But once you own one of these properties, how do you manage it? Fairly big resorts will generally use on-site management companies. These companies will do a great job, but will take a large percent of your revenue. **If you’re interested in convenience, though, this can be a great option. It isn’t your best solution for maximizing cash flow, though**
+But once you own one of these properties, how do you manage it? Fairly big resorts will generally use on-site management companies. These companies will do a great job, but will take a large percent of your revenue. **If you're interested in convenience, this can be a great option. It isn't your best option for maximizing cash flow, though.​**
 
 You could also use a smaller boutique management company. These companies are generally specific to their geographic area on the island. These companies tend to charge about 25% of revenue.
 
@@ -39,12 +39,10 @@ After all, the ultimate result of this is cash flow. People often call me lookin
 
 {% include pullquote.html %}
 
-Whether or not your property will pencil out depends on a few factors. How often are you going to use the unit, yourself? Are you buying it primarily as an investment or are you going to be occupying it frequently yourself.
+Whether or not your property will pencil out depends on a few factors. How often are you going to use the unit yourself? Are you buying it primarily as an investment or are you going to be occupying it frequently yourself?
 
-Also, how often is your unit going to be booked when you aren’t using it? When you have a vacation rental in the island, you have a business. Like any other business, it will be more successful the more attention you give it. Make sure your clients are happy so that you can garner positive reviews on websites like Yelp! and Zillow.
+Also, how often is your unit going to be booked when you aren’t using it? When you have a vacation rental on the island, you have a business. Like any other business, it will be more successful the more attention you give it. Make sure your clients are happy so that you can garner positive reviews on websites like Yelp! and Zillow.
 
 Another thing to consider is how you will pay for the unit. By calculating your mortgage and monthly maintenance fees for the property along with insurance and taxes, you can determine what your cash flow will look like. For your convenience, I**’ve got a buy-and-hold spreadsheet you can use to calculate your return on investment.&nbsp;**If you’re interested, let me know and I can send it over to you.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
-
-&nbsp;
