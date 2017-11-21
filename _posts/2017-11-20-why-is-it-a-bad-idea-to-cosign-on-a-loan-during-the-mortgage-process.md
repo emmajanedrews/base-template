@@ -35,6 +35,6 @@ From a mortgage standpoint, there really is no difference between a cosigner and
 
 {% include pullquote.html %}
 
-The total amount of the cosigned loan doesn’t detract from your mortgage eligibility because **it’s the monthly payment that lenders calculate into your debt-to-income ratio**. It doesn’t matter if it’s a $10,000 loan or a $200,000 loan; it’s the monthly payment that we care about. Keep in mind, for every $50 in a monthly payment, that equates to $10,000 in a purchase price.
+The total amount of the cosigned loan doesn’t detract from your mortgage eligibility because **it’s the monthly payment that lenders calculate into your debt-to-income ratio**. It doesn’t matter if it’s a $10,000 loan or a $200,000 loan; it’s the monthly payment that we care about. Keep in mind that every $50 in a monthly payment equals $10,000 in a purchase price.
 
 If you have any more questions about this or any topic related to the mortgage loan process, don’t hesitate to give me a call or shoot me an email. I’d be glad to help you.
