@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How the Abelson DISC Assessment Helps Our Team Find New Members
-date: 2017-11-21 09:36:27
+date: 2017-11-21 09:36:00
 tags:
 excerpt: >-
   One of the best ways to find new team members is by implementing the Abelson
@@ -10,8 +10,9 @@ enclosure:
 pullquote: The Tony Robbins DISC assessment is not geared toward use for business.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: >-
+  /uploads/davefriedman-screenshot-tube-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01.jpg
 youtube_code:
 ---
 
