@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Does Earnest Money Function Within a Home Sale?
-date:
+date: 2017-11-21 16:41:55
 tags:
   - Home Buyer Tips
 excerpt: >-
