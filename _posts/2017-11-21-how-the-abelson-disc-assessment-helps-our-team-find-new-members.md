@@ -21,14 +21,14 @@ youtube_code: aYs8vIljc80
 
 A lot of people have been asking me recently how we find our new team members.
 
-Well, while behavioral assessments are a big part of this process, it’s important to note that the Tony Robbins DISC assessment is not geared toward use for business.
+While behavioral assessments are a big part of this process, it’s important to note that the Tony Robbins DISC assessment is not geared toward use for business.
 
-Instead, the best thing to use is something called the Abelson DISC. In fact, using this route you can assess people based on a specific area of business. There is a sales DISC assessment, a management DISC assessment, and more.
+Instead, the best thing to use is something called the Abelson DISC. By using this route, you can assess people based on a specific area of business. There is a sales DISC assessment, a management DISC assessment, and more.
 
 {% include pullquote.html %}
 
 **People are scored based on different categories directly pertaining to how well they might function within a role at a business.**
 
-My team has actually developed benchmarks for every position we have that are based on categories related to this assessment. I can send you these benchmarks, if you are interested.
+My team has actually developed benchmarks for every position we have that are based on categories related to this assessment. I can send you these benchmarks if you are interested.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email.
