@@ -20,7 +20,7 @@ youtube_code: 5Y_4_7-FoLU
 
 {% include youtube.html %}
 
-Today I’m here with your November 2017 market report for the Tucson and Southern Arizona market.&nbsp;
+Today I’m here with your November 2017 market report for the Tucson and southern Arizona market.&nbsp;
 
 **Overall, our market is very good right now.** Compared to this time last year, prices are up just under 4%. The number of units sold is up just over 4%, so we’ve got good strength in our market.&nbsp;
 
