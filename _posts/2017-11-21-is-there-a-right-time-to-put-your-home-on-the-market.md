@@ -24,11 +24,11 @@ There’s a lot of debate in the real estate world about whether it’s better t
 
 In the spring and summer months, homes look better and have better curb appeal. The days are also longer, so more buyers will be able to look at your home during longer periods of time. Sellers can also be pickier about which offer they choose during the warmer months because there are more buyers out and about.
 
-One of the downsides of selling during the spring and summer months, though, is there are more sellers to compete against. Because there are more sellers, buyers can afford to be picker as well.
+One of the downsides of selling during the spring and summer months, though, is there are more sellers to compete against. Because there are more sellers, buyers can afford to be pickier as well.
 
 {% include pullquote.html %}
 
-Selling in the fall and winter months means there aren’t as many buyers, but the ones that are active are far more motivated to buy and will typically come with stronger offers. You’ll also face less competition from other sellers
+Selling in the fall and winter months means there aren’t as many buyers, but the ones that are active are far more motivated to buy and will typically come with stronger offers. You’ll also face less competition from other sellers.
 
 Snow and other inclement weather can lessen a home’s curb appeal, however. You might also come across thriftier buyers who will try to lowball you because they assume the fact that you’re listing during the fall and/or winter means you’re more eager to sell.
 
