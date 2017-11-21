@@ -11,7 +11,7 @@ pullquote: Have a happy and prosperous holiday season.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/dee-email.jpg
 youtube_code: Kv4rB1KuwVs
 ---
 
