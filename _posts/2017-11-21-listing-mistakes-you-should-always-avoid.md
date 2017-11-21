@@ -31,6 +31,6 @@ Our market is experiencing a slight shift, so overpricing can become very frustr
 
 The truth is that merely putting your home on the market and waiting isn’t enough. You will need a detailed marketing strategy to expose your home to the most buyers possible.
 
-The last mistake we’d like to talk about is **not preparing your home adequately for sale.** Once a home on the market, it is no longer just a place to live in. A home that’s listed on the market needs to be ready at a moment’s notice for buyers to view it. More than just the home you once lived in, your property is a showcase for what buyers can expect.
+The last mistake we’d like to talk about is **not preparing your home adequately for sale.** Once a home is on the market, it is no longer just a place to live in. A home that’s listed on the market needs to be ready at a moment’s notice for buyers to view it. More than just the home you once lived in, your property is a showcase for what buyers can expect.
 
-If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
