@@ -17,10 +17,10 @@ client:
   brand: Stewart Title Company
   brokerage:
   address: '1420 5th Ave #440<br>Seattle, WA 98101'
-  phone: 206-437-3636
-  phone_type: Cell
-  phone2: 206-207-3636
-  phone2_type: Office
+  phone: 206-207-3636
+  phone_type:
+  phone2:
+  phone2_type:
   email: ryan.kalalau@stewart.com
   url: https://www.stewart.com
 
@@ -90,15 +90,15 @@ podcast:
   author: '-- CLIENT NAME --'
 
 images:
-  client_headshot_path: /img/headshot.jpg
+  client_headshot_path: /img/headshot.png
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
-  hero_text: Stewart Title Company Video Blog
+  logo_width_number: 30
+  # hero_text: Stewart Title Company Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#942332'
+  brand_color: '#A51E36'
   theme_color: '#E4E4E4'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
