@@ -20,7 +20,7 @@ youtube_code: dJSO7Zv6SAQ
 
 {% include youtube.html %}
 
-Happy Thanksgiving from all of us here at Ursula and Associates.
+Happy Thanksgiving from all of us here at Ursula & Associates.
 
 We’re thankful for all of the business you’ve given us. **Your personal business, referrals, and business partnerships all mean a great deal to us.**
 
@@ -28,6 +28,6 @@ We’re thankful for all of the business you’ve given us. **Your personal busi
 
 From the bottom of all of our hearts, thank you.
 
-We appreciate your support, and hope you have a happy holiday season. 2017 was great, and we’re looking forward to an even better year in 2018.
+We appreciate your support and hope you have a happy holiday season. 2017 was great, and we’re looking forward to an even better year in 2018.
 
 If you have any questions or have any real estate needs, feel free to give us a call or send us an email. We look forward to hearing from you soon.
