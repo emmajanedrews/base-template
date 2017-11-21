@@ -24,7 +24,7 @@ A lot of people out there seem to think that if they don’t use an agent to hel
 
 {% include pullquote.html %}
 
-Recently, we had a couple who were looking to buy a home and called up the listing agent’s whose number was on the yard sign. They ended up paying the full listing price for the home because they didn’t know that the home had been on the market for 150 days prior without any offers. This information wasn’t hidden from them, they just didn’t have quick access to that information like a buyer’s agent does.
+Recently, we had a couple who were looking to buy a home and called up the **listing agent whose number was on the yard sign.**They ended up paying the full listing price for the home because they didn’t know that the home had been on the market for 150 days prior without any offers. This information wasn’t hidden from them, they just didn’t have quick access to that information like a buyer’s agent does.
 
 **If you're thinking about buying a home, there’s no reason to not hire a buyer’s agent.** Their commission is covered by the seller and their expertise will help guide you to the best deal possible. Why wouldn’t you want someone looking out to make sure you get the best price, terms, and conditions possible?
 
