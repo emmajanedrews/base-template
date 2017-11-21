@@ -38,6 +38,6 @@ Kaitlyn’s current role is a listing specialist with the William Bustos Group, 
 
 What makes her and her team unique are the drive they have to do the job every day regardless of the rejection and having the mindset to run everything like a business.
 
-“Sometimes, people don’t see that when they get into real estate—you are running a business, and you have to have that same mentality.”
+“Sometimes, people don’t see that when they get into real estate," says Kaitlyn. "You are running a business, and you have to have that same mentality.”
 
-If you have any questions or would like more information, feel free to reach out to me. I look forward to hearing from you.
+Thanks to Kaitlyn for taking the time to answer some questions for us. If you have any real estate questions or would like more information, feel free to reach out to us. We look forward to hearing from you.
