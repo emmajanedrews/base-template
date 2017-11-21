@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 7aMbNexOE8E
+youtube_code: 6E-GGnicIrc
 ---
 
 
@@ -39,7 +39,7 @@ Third, **if the first date or interview went well, you’ll enter into a relatio
 
 And if that all continues to go well, it could lead to the final stages. In dating, this would mean a marriage proposal. With a marriage proposal, there are a lot of logistical aspects that need to be organized: the timing, the ring, the delivery, and so on. **Typically, a lot of things have been discussed with your partner before extending this proposal**, so the likelihood of acceptance is rather high.
 
-This is the same in the interview process when you get to the point of the job offer being extended. Like the proposal, many logistical aspects need to be put together: start date, compensation, title, etc.&nbsp;**A lot of these will have already been discussed in the interview(s)**, so the expectations are managed appropriately and the likelihood of having the offer be accepted is high.
+This is the same in the interview process when you get to the point of the job offer being extended. Like the proposal, many logistical aspects need to be put together: start date, compensation, title, etc. **A lot of these will have already been discussed in the interview(s)**, so the expectations are managed appropriately and the likelihood of having the offer be accepted is high.
 
 As you can see, dating and interviewing can be very similar. Both can be stressful and emotional, but we do them because the outcome for our personal and professional growth is positive.
 
