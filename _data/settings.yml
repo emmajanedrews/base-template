@@ -16,7 +16,7 @@ client:
   market: Northern Nevada
   brand: The Heyl Group
   brokerage: Keller Williams Group One Inc.
-  address:
+  address: 10539 Professional Circle<br>Ste 100, Reno, NV 89521
   phone: 775-301-1312
   phone_type: Direct
   phone2: 775-823-8787
@@ -108,7 +108,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: rgba(0,0,0,.65)
 
 buttons:
   button_radius_number: 0
