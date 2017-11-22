@@ -23,9 +23,9 @@ youtube_code: 'https://youtu.be/NvRVkHq2--k'
 
 Today I’d like to talk about home maintenance projects that should be done biannually, or every six months.
 
-I use the changing seasons as a gauge for when these items should be done: before winter and before summer.
+I use the changing seasons as a gauge for when these items should be done—before winter and before summer.
 
-**1. Have your HVAC system serviced.** Go ahead and have that coil cleaned, and do whatever else you need in order to get it in prime working order before the winter months, when you’ll need to be using it. It’ll save you money in the long-run by extending the life of the system.
+**1. Have your HVAC system serviced.** Go ahead and have that coil cleaned, and do whatever else you need in order to get it in prime working order before the winter months, when you’ll need to be using it. It’ll save you money in the long run by extending the life of the system.
 
 **2. Replace your air filters.** Some air filters need to be replaced every month, but some need to be changed every four to six months. Be sure that have those checked before the winter season has moved in.
 
