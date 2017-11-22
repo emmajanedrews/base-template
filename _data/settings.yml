@@ -10,7 +10,7 @@ client:
   name: Diane Cardano
   license_number:
   about_markdown: |
-
+    Our team is committed to giving WOW service to our clients during every step of the process. Our goal is to make real estate process FUN, not stressful. We have added benefits and special services to the client before, during, and after the process. It's just another reason that sets us apart from the rest. We pride ourselves on developing relationships with our clients. We want you to know that you can count on us for all of your real estate needs. We want you to be so excited about the quality of services you received from our team, that you refer us to your friends, family, and associates.
   market: Montgomery County
   brand: Cardano Realtors
   brokerage:
@@ -70,12 +70,12 @@ socials:
   linkedin_url: http://www.linkedin.com/profile/view?id=13150419&authType=name&authToken=kGGY&trk=tyah
   gplus_url:
   youtube_url: http://www.youtube.com/user/CardanoRealtors
-  twitter_url:
+  twitter_url: https://twitter.com/dianecardano/
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
+  zillow_url: https://www.zillow.com/profile/Diane-CardanoCasacio/
+  trulia_url: https://www.trulia.com/profile/diane-cardano-casacio-agent-abington-pa-zg0zm6sh/overview
+  yelp_url: https://www.yelp.com/biz/cardano-realtors-abington
   podcast_url:
 
 podcast:

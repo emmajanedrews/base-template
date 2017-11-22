@@ -1465,6 +1465,7 @@ html[xmlns] .flexslider .slides {
   transition: all 0.15s ease-out 0s; }
 
 .navbar-left > li > a {
+  background: transparent;
   color: #482684;
   text-transform: capitalize;
   font-size: 2rem;
@@ -2713,7 +2714,7 @@ form select {
     margin: 10px auto;
     width: 90%; } }
 .cta {
-  background: #eeeeee;
+  background: transparent;
   color: #482684;
   text-transform: capitalize;
   font-size: 2rem;
@@ -2727,6 +2728,11 @@ form select {
   .cta:focus {
     text-decoration: none;
     color: #482684; }
+
+.navbar-right li a {
+  background: transparent; }
+  .navbar-right li a:hover {
+    background: #ffffff; }
 
 .footer {
   color: #fff; }
