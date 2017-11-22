@@ -1,14 +1,14 @@
 ---
 layout: post
 title: How Does Earnest Money Function Within a Home Sale?
-date: 2017-11-21 16:41:55
+date: 2017-11-21 16:41:00
 tags:
   - Home Buyer Tips
 excerpt: >-
   What is earnest money? As a buyer, how much do you need and what happens to
   that sum if the deal terminates?
 enclosure:
-pullquote: 'Typically, earnest money accounts for 15 of the total purchase price.'
+pullquote: 'Typically, earnest money accounts for 1% of the total purchase price.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
