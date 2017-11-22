@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'If You''re Going to List in 2018, You Can Start Preparing Now'
-date: 2017-11-14 11:54:55
+date: 2017-11-14 11:54:00
 tags:
   - Home Seller Tips
 excerpt: >-
   If you’re thinking of selling your home in 2018, you can start preparing now.
   There are a few simple things you can do.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Karlyn+Ellis/November/Buda%252C+Texas+Real+Estate-+Listing+in+2018%253F+Start+Preparing+Now.mp4
 pullquote: >-
   Seek the advice of a real estate professional before taking on any major
   projects.
