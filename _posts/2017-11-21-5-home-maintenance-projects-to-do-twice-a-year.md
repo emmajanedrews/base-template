@@ -10,7 +10,7 @@ excerpt: >-
 enclosure:
 pullquote: >-
   Extending the life of your HVAC system with regular upkeep will save you money
-  in the long-run.
+  in the long run.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -27,7 +27,7 @@ I use the changing seasons as a gauge for when these items should be done—befo
 
 **1. Have your HVAC system serviced.** Go ahead and have that coil cleaned, and do whatever else you need in order to get it in prime working order before the winter months, when you’ll need to be using it. It’ll save you money in the long run by extending the life of the system.
 
-**2. Replace your air filters.** Some air filters need to be replaced every month, but some need to be changed every four to six months. Be sure that have those checked before the winter season has moved in.
+**2. Replace your air filters.** Some air filters need to be replaced every month, but some need to be changed every four to six months. Be sure to have those checked before the winter season has moved in.
 
 {% include pullquote.html %}
 
