@@ -31,7 +31,7 @@ I use the changing seasons as a gauge for when these items should be done—befo
 
 {% include pullquote.html %}
 
-**3. Check the perimeter of your home for any openings.** Sometimes caulk has shrunk, in which case you’ll need to re-caulk it in order to keep critters and pests out.
+**3. Check the perimeter of your home for any openings.** Sometimes caulk can shrink, in which case you’ll need to re-caulk it in order to keep critters and pests out.
 
 **4. Change out the batteries in your smoke detectors.** While you’re doing that, I also recommend that you check the batteries in your flashlights and your emergency preparedness kits. You don’t want to be caught in a storm with dead batteries.
 
