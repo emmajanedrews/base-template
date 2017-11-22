@@ -9,8 +9,8 @@ enclosure:
 pullquote: We wouldn’t be where we are today without all of your support.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/bob-ss-1.jpg
 youtube_code: n4MhcUx7s5k
 ---
 
