@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Happy Thanksgiving
-date: 2017-11-22 15:16:57
+date: 2017-11-22 15:16:00
 tags:
-excerpt:
+  - Real Estate
+excerpt: The holiday season has officially begun! We hope you are as excited as we are.
 enclosure:
 pullquote: We wouldn’t be where we are today without all of your support.
 enclosure_type: video/mp4
