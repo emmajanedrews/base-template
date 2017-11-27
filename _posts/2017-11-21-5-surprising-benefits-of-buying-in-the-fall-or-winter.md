@@ -22,11 +22,11 @@ youtube_code: Ks1qgf51zxs
 
 {% include youtube.html %}
 
-Do you feel like you’ve missed the boat on this year’s real estate market? Though you may be seeing fewer “For Sale” signs out in people’s yards—don’t give up. Today, I’d like to share five surprising benefits of buying in the fall or winter.
+Do you feel like you’ve missed the boat on this year’s real estate market? Although you may be seeing fewer "For Sale" signs in people's yards, you shouldn't give up. Today, I’d like to share five surprising benefits of buying in the fall or winter.
 
 **1. Tax breaks.** Any payments you make this year can be written off on your taxes, meaning that buying before the end of the year can have some great financial advantages.&nbsp;
 
-**2. Home for the holidays.** If you are about to buy or are looking to buy soon, you’ve still got a chance of finding the right home before the holiday season. What better way to celebrate than to do so from your own, new home?&nbsp;
+**2. Home for the holidays.** If you are about to buy or are looking to buy soon, you’ve still got a chance of finding the right home before the holiday season. What better way to celebrate than to do so from your own new home?&nbsp;
 
 {% include pullquote.html %}
 
@@ -34,6 +34,6 @@ Do you feel like you’ve missed the boat on this year’s real estate market? T
 
 **4. Less competition.** Fewer people are currently on the market than there are during other times of year. Many people feel as if they’ve missed their chance. They don’t realize that there are great opportunities still out there. Now is a great time to enter the market, especially compared to the spring months where you would be up against a much higher level of competition.&nbsp;
 
-**5. Great sales.** As the holidays approach, there are a lot of opportunities to get great deals. Between Black Friday and other seasonal sales, deals are happening now. So, take advantage while you still can to get great prices on furniture, appliances, and more.&nbsp;
+**5. Great sales.** As the holidays approach, there are a lot of opportunities to get great deals. Between Black Friday and other seasonal sales, deals are happening now, so take advantage of them while you still can to get great prices on furniture, appliances, and more.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
