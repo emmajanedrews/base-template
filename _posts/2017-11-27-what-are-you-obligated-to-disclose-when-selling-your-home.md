@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Are You Obligated to Disclose When Selling Your Home?
-date:
+date: 2017-11-27 11:46:57
 tags:
   - Real Estate
 excerpt: >-
