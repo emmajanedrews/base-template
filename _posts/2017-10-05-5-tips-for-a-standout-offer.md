@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5 Tips for a Stand-Out Offer
+title: 5 Tips for a Standout Offer
 date: 2017-10-05 16:28:00
 tags:
   - Home Buyer Tips
@@ -24,7 +24,7 @@ youtube_code: FZLTTW5vgfc
 
 The market can be a highly competitive place. Today, I’ve got five tips that will help you win a bidding war.
 
-1. **Do your homework.** Do you know if the seller has already bought a new home? If they haven’t, you could boost your chances by offering to let them close quickly and rent back the property from you until they find a new home. However, if they have already bought a home you can still get ahead by offering to match their closing date.
+1. **Do your homework.** Do you know if the seller has already bought a new home? If they haven’t, you could boost your chances by offering to let them close quickly and rent back the property from you until they find a new home. However, if they have already bought a home, you can still get ahead by offering to match their closing date.
 2. **Write a clean offer without subjects.** Get your financing and inspection approved before writing an offer. Submitting a subject-free offer puts you in a better position than those who have submitted offers with subject conditions.
 3. **Present the offer in person and quickly sign counteroffers.** Face-to-face interactions are always better than those done via email or the phone. Since most offers aren’t carried out this way, your interaction with the seller is going to stand out.
 4. **Provide a deposit check with your offer.** The deposit check will demonstrate your offer’s financial strength. Deposits for amounts greater than 5% will also help your offer go the extra mile.
