@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Getting Burnt Out on Homeowners Insurance? We Can Help
-date: 2017-11-15 11:57:05
+title: Choosing the Best Homeowner Insurance in the Tahoe/Truckee Area
+date: 2017-11-15 11:57:00
 tags:
   - Real Estate
 excerpt: >-
