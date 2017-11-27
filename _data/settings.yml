@@ -1,5 +1,5 @@
 audit_header: false
-title: The Salas Team
+title: Philadelphia Real Estate Video Blog with The Salas Team
 description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -13,7 +13,7 @@ client:
     Danielle Py-Salas and Guillermo Salas, former-practicing attorneys, lead one of the top producing real estate teams in the Philadelphia region, The Salas Team. We pride ourselves on providing the highest level of customer service and being leaders in the industry because our customers deserve the very best.
 
     We’re a team of real estate professionals with extensive knowledge of all Philadelphia, the Main Line and South Jersey neighborhoods. Whether searching for your Dream Home, Selling Your Home, or looking for an Investment Property, The Salas Team is committed to understanding your unique needs.
-  market: 
+  market: Philadelphia
   brand: The Salas Team
   brokerage: RE/MAX Platinum
   address: 2000 Market St, Suite 1470<br>Philadelphia, PA 19103
@@ -30,7 +30,7 @@ CTAs:
   first_CTA_URL: http://www.salasteamrealestate.com/sell/what-is-my-home-worth
   second_CTA_text: Home Search
   second_CTA_URL: http://www.salasteamrealestate.com/our-homes
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=25e745f858
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
@@ -94,7 +94,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 60
-  hero_text: -- MARKET -- Real Estate Video Blog
+  hero_text: Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
