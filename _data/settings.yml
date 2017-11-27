@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: St. Cloud Real Estate Video Blog with Chris Hauck
 description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -7,41 +7,45 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Chris Hauck
   license_number:
   about_markdown: |
+    When you are buying or selling property in today's real estate market, it's important to have confidence in your real estate professional. My commitment as your local REALTOR® is to provide you with the specialized real estate service you deserve.When you are an informed buyer or seller, you'll make the best decisions for the most important purchase or sale in your lifetime. That's why my goal is to keep you informed on trends in the marketplace using the latest statistics in your local area.
 
-  market:
-  brand:
+    With property values continuing to rise, real estate is a sound investment for now and for the future. As a local area expert with knowledge of the communities, my objective is to work diligently to assist you in meeting your real estate goals.
+
+    If you are considering buying or selling a home or would just like to have additional information about real estate in your area, please don't hesitate to call or e-mail me.Thank you for visiting my website - please consider it as your online source for local real estate information, and return often for the latest property listing updates.
+  market: St. Cloud
+  brand: Coldwell Banker Burnet
   brokerage:
-  address:
-  phone:
+  address: 2105 Troop Drive Sartell, MN 56377
+  phone: 320-240-3363
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Hauck@SaintCloudRealEstate.com
+  url: http://www.saintcloudrealestate.com/
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.saintcloudrealestate.com/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
-  VR_form:
+  second_CTA_URL: https://www.coldwellbankerhomes.com/minnesota/
+  VR_form: http://oi.vresp.com?fid=3cd227aaa8
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.saintcloudrealestate.com/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: https://www.coldwellbankerhomes.com/minnesota/
 
 lender:
   show_section: false
@@ -66,16 +70,16 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/chrishauckrealestate
+  linkedin_url: https://www.linkedin.com/pub/chris-hauck/5/b71/7a9
+  gplus_url: https://plus.google.com/u/0/103554016724371824870/posts
+  youtube_url: https://www.youtube.com/channel/UCo6phm5GMDAnv5suYgeClUw
+  twitter_url: https://twitter.com/HauckRealEstate
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
+  zillow_url: http://www.zillow.com/profile/Chris-Hauck/
+  trulia_url: http://www.trulia.com/
+  yelp_url: http://www.yelp.com/biz/hauck-chris-sartell
   podcast_url:
 
 podcast:
@@ -96,8 +100,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#142f54'
+  theme_color: '#6e7277'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
