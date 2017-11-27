@@ -28,7 +28,7 @@ CTAs:
   first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
   second_CTA_URL: /homesearch/
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=147cd0a5d3
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
@@ -71,7 +71,7 @@ socials:
   linkedin_url:
   gplus_url: https://plus.google.com/u/0/103927548088414874355
   youtube_url: https://www.youtube.com/channel/UCOrZgYCo7VQYMMaJkie01nA
-  twitter_url:
+  twitter_url: https://twitter.com/BenParojcic
   instagram_url:
   pinterest_url:
   zillow_url:
