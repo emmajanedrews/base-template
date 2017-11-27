@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Does It Take to Manage a Short-Term Rental in Kauai?
-date: 2017-11-21 09:52:47
+date: 2017-11-21 09:52:00
 tags:
 excerpt: >-
   If you’ve been thinking of going into business with a short-term rental
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: PY1DHoh5Ko4
+youtube_code: '-Ys76jYC56E'
 ---
 
 
@@ -29,7 +29,7 @@ But once you own one of these properties, how do you manage it? Fairly big resor
 
 You could also use a smaller boutique management company. These companies are generally specific to their geographic area on the island. These companies tend to charge about 25% of revenue.
 
-Another popular option is to self-manage by using a service like Airbnb and vacation rental by owner with [www.VRBO.com.](www.VRBO.com)&nbsp;
+Another popular option is to self-manage by using a service like Airbnb and vacation rental by owner with [www.VRBO.com.](www.VRBO.com)
 
 The fourth option is something called a blended model. With this, you start out using a small company as you learn more about management, then begin to book the unit yourself using self-management sites. The goal of this option is ultimately to transition into fully self-managing.
 
@@ -43,6 +43,6 @@ Whether or not your property will pencil out depends on a few factors. How often
 
 Also, how often is your unit going to be booked when you aren’t using it? When you have a vacation rental on the island, you have a business. Like any other business, it will be more successful the more attention you give it. Make sure your clients are happy so that you can garner positive reviews on websites like Yelp! and Zillow.
 
-Another thing to consider is how you will pay for the unit. By calculating your mortgage and monthly maintenance fees for the property along with insurance and taxes, you can determine what your cash flow will look like. For your convenience, I**’ve got a buy-and-hold spreadsheet you can use to calculate your return on investment.&nbsp;**If you’re interested, let me know and I can send it over to you.
+Another thing to consider is how you will pay for the unit. By calculating your mortgage and monthly maintenance fees for the property along with insurance and taxes, you can determine what your cash flow will look like. For your convenience, I**’ve got a buy-and-hold spreadsheet you can use to calculate your return on investment.**If you’re interested, let me know and I can send it over to you.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
