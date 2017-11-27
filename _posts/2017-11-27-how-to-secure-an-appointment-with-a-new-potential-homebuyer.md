@@ -22,9 +22,9 @@ youtube_code: i7GTmWm1qWA
 
 As real estate agents, we get internet inquiries and call-ins all the time. We know that our first initiative is to serve the client the best we can and serve the customer on the other end of the line.
 
-But we also know that these are opportunities to get an appointment with a new potential buyer, and we want to capitalize on those opportunities while serving our listing client, if that’s applicable. If an internet inquiry or a call-in comes in, we usually call back within five minutes, and **here’s a statement we use for that call that works better for us than just about any others:**
+But we also know that these are opportunities to get an appointment with a new potential buyer, and we want to capitalize on those opportunities while serving our listing client, if that’s applicable. If an internet inquiry or a call comes in, we usually call back within five minutes, and **here’s a statement we use for that call that works better for us than just about any others:**
 
-“Hi (client name), this is Dave Hooke with (name of real estate company). I see you inquired about (property address) through Zillow. What questions can I answer for you about that property and do you have a time that would work for you to preview that home?”
+“Hi (client name), this is (agent name) with (name of real estate company). I see you inquired about (property address) through Zillow. What questions can I answer for you about that property and do you have a time that would work for you to preview that home?”
 
 Asking those two questions does two things. First, it addresses the reason they inquired. Second, it opens the door for them to preview the property with you. When someone calls about a property, they typically have a question in mind, but they may not have been thinking about previewing the property.
 
