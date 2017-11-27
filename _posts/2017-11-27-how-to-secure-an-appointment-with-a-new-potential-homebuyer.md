@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Secure an Appointment With a New Potential Homebuyer
-date: 2017-11-27 11:41:47
+date: 2017-11-27 11:41:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/make-all-appointments-youtube.jpg
-youtube_code: i7GTmWm1qWA
+youtube_code: iV56ZVFoI34
 ---
 
 
