@@ -32,7 +32,7 @@ Do you feel like you’ve missed the boat on this year’s real estate market? A
 
 **3. Price Reductions.** Sellers who are still on the market at this time are very serious. They want to make the move just as much as you do. So, you might start to see price reductions in the market. You’ll also likely encounter sellers who are more willing to negotiate a great deal.&nbsp;
 
-**4. Less competition.** Fewer people are currently on the market than there are during other times of year. Many people feel as if they’ve missed their chance. They don’t realize that there are great opportunities still out there. Now is a great time to enter the market, especially compared to the spring months where you would be up against a much higher level of competition.&nbsp;
+**4. Less competition.** Fewer people are currently on the market than there are during other times of the year. Many people feel as if they’ve missed their chance. They don’t realize that there are great opportunities still out there. Now is a great time to enter the market, especially compared to the spring months where you would be up against a much higher level of competition.&nbsp;
 
 **5. Great sales.** As the holidays approach, there are a lot of opportunities to get great deals. Between Black Friday and other seasonal sales, deals are happening now, so take advantage of them while you still can to get great prices on furniture, appliances, and more.
 
