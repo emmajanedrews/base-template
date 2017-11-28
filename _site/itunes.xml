@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Standard Mortgage Company - your professional  Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Adam R. Cohn</managingEditor>
-    <lastBuildDate>2017-06-29 14:49:00 -0500</lastBuildDate>
+    <lastBuildDate>2017-11-28 15:05:09 -0600</lastBuildDate>
     <media:copyright>Adam R. Cohn</media:copyright>
     <media:thumbnail url="/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -25,96 +25,134 @@
       <itunes:category text="Education"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
-        
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
-        
-          <category>Home Seller Tips</category>
+        <title>If You're Feeling Stuck With Your Monthly Payments, You've Got Options</title>
+        <link>localhost:4000/if-youre-feeling-stuck-with-your-monthly-payments-youve-got-options.html</link>
         
         <author>Adam R. Cohn</author>
-        <pubDate>2016-10-04 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2017-11-27 05:11:29 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Adam+Cohn/Standard+Mortgage+Company-+3+Mortgage+Payment+Options.mp4</guid>
         <description>
 
-}
+If you can no longer afford your mortgage payments, what are your options?
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+First, you can try to refinance and see if you can get a lower mortgage payment. Usually by refinancing, you get a month or two off your mortgage. This also helps.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+The second option is to see if your lender is willing to recast your mortgage. Let’s say you’re 10 years into a 30-year mortgage. You can ask your lender to extend the remaining 20 years back out to 30, which will hopefully make your payments more affordable.
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+“If you’ve exhausted all other options, talk to your lender about the possibility of modifying your mortgage.”
 
-“This is an example of a pull quote”
+But if you’ve exhausted these two options, let your lender know.Tell them you’ve tried your best to go another route, and see if they’re willing to modify your mortgage.
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+Usually if you have proof you’ve exhausted your other options and have documented proof of hardship, like a pay cut at work or an illness, you will have a strong case for a loan modification.
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Adam+Cohn/Standard+Mortgage+Company-+3+Mortgage+Payment+Options.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Adam+Cohn/Standard+Mortgage+Company-+3+Mortgage+Payment+Options.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>What can you do if you’re unable to keep up with your current mortgage payments? Today, I’ve got three options.</itunes:subtitle>
         <itunes:author>Adam R. Cohn</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>What can you do if you’re unable to keep up with your current mortgage payments? Today, I’ve got three options.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>A Fox in Space</title>
-        <link>localhost:4000/a-fox-in-space.html</link>
+        <title>Getting a New Home Is Possible, Even With Limited Funds</title>
+        <link>localhost:4000/getting-a-new-home-is-possible-even-with-limited-funds.html</link>
         
-          <category>Market Update</category>
+          <category>Home Buyer Tips</category>
+        
+        <author>Adam R. Cohn</author>
+        <pubDate>2017-10-20 08:19:51 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Adam+Cohn/Standard+Mortgage+Company-+Getting+a+New+Home+Is+Possible%252C+Even+With+Limited+Funds.mp4</guid>
+        <description>
+
+Today I want to share some information about a new program we’re offering through the Chenoa Fund.
+
+This program is a great way for people who lack the money required for a home purchase to be able to make their move. Using this program, you can obtain the necessary 3.5% down payment on an FHA mortgage as a gift.
+
+“Using this program, you can obtain the necessary FHA down payment as a gift.”
+
+Best of all, qualifying is simple. You will need to have a credit score of at least 620, but this is one of the few requirements.
+
+If you’ve got limited funds, this program can help you get into a new home much more easily.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Adam+Cohn/Standard+Mortgage+Company-+Getting+a+New+Home+Is+Possible%252C+Even+With+Limited+Funds.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Adam+Cohn/Standard+Mortgage+Company-+Getting+a+New+Home+Is+Possible%252C+Even+With+Limited+Funds.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you have limited funds, this great new program may be able to help you move into a new home.</itunes:subtitle>
+        <itunes:author>Adam R. Cohn</itunes:author>
+        <itunes:summary>If you have limited funds, this great new program may be able to help you move into a new home.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to Protect Your Mortgage By Watching Your Credit</title>
+        <link>localhost:4000/how-to-protect-your-mortgage-by-watching-your-credit.html</link>
+        
+        <author>Adam R. Cohn</author>
+        <pubDate>2017-10-02 19:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Adam+Cohn/Standard+Mortgage+Company+We%E2%80%99re+experts+in+this+topic.mp4</guid>
+        <description>
+
+I recently had a client who decided to stop making credit card and car payments, which really messed up the deal. That’s why I wanted to bring you some tips about how to protect your credit while you’re in the process of getting a mortgage.
+
+If you’re planning on applying for a mortgage, you really need to start keeping a close eye on your credit for the five to six months prior. Give yourself ample time to see what’s on there and pay down any debt or make any credit repair you need to. We’re well-versed in the topic.
+
+When you’re actually in the process of getting a mortgage, you definitely don’t want to apply for a new credit card or buy a new car. It can completely blow your deal. You don’t want to take on any extra debt during this time, even on existing credit cards.
+
+“Credit mistakes can cost you a mortgage.”
+
+For any credit cards you do have, you want to keep the balances under 30% of the utilization rate. If your limit is $1,000, that means keep the balance under $300. Not doing so can really mess up your debt-to-income ratio, which is crucial to your eligibility.
+
+Basically, make sure that when you’re applying for a mortgage you don’t use your credit, and you pay it down instead. If you have any questions for us or have anything else you want to know about getting a mortgage, don’t hesitate to give me a call or send me an email. I look forward to hearing from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Adam+Cohn/Standard+Mortgage+Company+We%E2%80%99re+experts+in+this+topic.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Adam+Cohn/Standard+Mortgage+Company+We%E2%80%99re+experts+in+this+topic.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Avoid these credit mistakes if you’re thinking about applying for a mortgage any time soon.</itunes:subtitle>
+        <itunes:author>Adam R. Cohn</itunes:author>
+        <itunes:summary>Avoid these credit mistakes if you’re thinking about applying for a mortgage any time soon.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Much Should Your Down Payment Be?</title>
+        <link>localhost:4000/how-much-should-your-down-payment-be.html</link>
         
           <category>Real Estate</category>
         
-          <category>Home Seller Tips</category>
-        
         <author>Adam R. Cohn</author>
-        <pubDate>2016-09-28 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2017-09-17 19:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Adam+Cohn/Standard+Mortgage+Company+How+Much+Your+Down+Payment+Should+Be.mp4</guid>
         <description>
 
-}
+How much should your down payment be when buying a home?
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+Let’s say you don’t have 20% to put down. While there are many benefits of having equity in the home, that doesn’t mean you’re out of the running to buy a home. There are many options out there that require little to nothing down.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+“There are many options out there that require little to nothing down.”
 
+One of those options is an FHA loan. The minimum down payment requirement for this is 3.5%. Loan amounts vary by county, so if you’d like more information on a home you’re looking at, feel free to give us a call so we can let you know if that property is within range for you to purchase through an FHA loan. We also offer a program called the Chenoa Fund where we can offer you that 3.5% as a gift.
 
-  list item
-  list item
-  list item
-  list item
-  list item
+Another popular option is a conventional mortgage with as little as 3% down. In this case, the loan amount limit is $424,100, but that limit can stretch if the property in question is a multi-family property. This is a great alternative to the high-priced FHA loan because it allows you to get rid of the private mortgage insurance once you receive 20% equity in the home. To qualify, though, you have to be in the home for at least 24 months.
 
+For 0% financing, there are two options. The first is a VA loan, which is only for veterans of the armed forces. The second is the USDA loan, which is guaranteed through the US Department of Agriculture. With the USDA loan, the home has to be located within designated rural areas
 
-
-  list item
-  list item
-  list item
-  list item
-  list item
-
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+If you have any questions about down payment programs or you have any other real estate topics you’d like to see me discuss, don’t hesitate to reach out to me. I’d be happy to speak with you.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Adam+Cohn/Standard+Mortgage+Company+How+Much+Your+Down+Payment+Should+Be.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Adam+Cohn/Standard+Mortgage+Company+How+Much+Your+Down+Payment+Should+Be.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>If you don’t have 20% to put down to buy a home, don’t fret. There are plenty of loan options available for you to still choose from.</itunes:subtitle>
         <itunes:author>Adam R. Cohn</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>If you don’t have 20% to put down to buy a home, don’t fret. There are plenty of loan options available for you to still choose from.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       

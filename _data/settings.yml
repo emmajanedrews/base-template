@@ -27,7 +27,7 @@ CTAs:
   first_CTA_URL: https://9050993320.mortgage-application.net/WebApp/Start.aspx?oempage=1
   second_CTA_text:
   second_CTA_URL:
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=62c28c3b9b
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
@@ -80,12 +80,12 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: Florida & North Carolina Mortgage Expert <br> Adam R. Cohn
+  hero_text: Florida, North Carolina & Kentucky Mortgage Expert <br> Adam R. Cohn
   hero_background_hex: '#094264'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#022917'
+  brand_color: '#087648'
   theme_color: '#298C53'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'

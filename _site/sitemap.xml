@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>localhost:4000/this-is-a-test-post-copy-2.html</loc>
-<lastmod>2016-10-04T00:00:00-05:00</lastmod>
+<loc>localhost:4000/if-youre-feeling-stuck-with-your-monthly-payments-youve-got-options.html</loc>
+<lastmod>2017-11-27T05:11:29-06:00</lastmod>
 </url>
 <url>
-<loc>localhost:4000/a-fox-in-space.html</loc>
-<lastmod>2016-09-28T00:00:00-05:00</lastmod>
+<loc>localhost:4000/getting-a-new-home-is-possible-even-with-limited-funds.html</loc>
+<lastmod>2017-10-20T08:19:51-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/how-to-protect-your-mortgage-by-watching-your-credit.html</loc>
+<lastmod>2017-10-02T19:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/how-much-should-your-down-payment-be.html</loc>
+<lastmod>2017-09-17T19:00:00-05:00</lastmod>
 </url>
 <url>
 <loc>localhost:4000/404.html</loc>
