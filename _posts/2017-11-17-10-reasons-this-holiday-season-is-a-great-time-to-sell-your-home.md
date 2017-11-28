@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 10 Reasons This Holiday Season Is a Great Time to Sell Your Home
-date: 2017-11-17 12:58:43
+date: 2017-11-17 12:58:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: STmDWb75sww
+youtube_code: fwknPkKPVRA
 ---
 
 
@@ -26,7 +26,7 @@ Here are the top 10 reasons this holiday season is a great time to sell your hom
 
 **9. You can still restrict showings during the holidays.**
 
-**8. January is traditionally the month for employees to start new jobs.** Since transferees can’t wait until the spring to buy, you need to be on the market in&nbsp; winter to capture those buyers.
+**8. January is traditionally the month for employees to start new jobs.** Since transferees can’t wait until the spring to buy, you need to be on the market in  winter to capture those buyers.
 
 **7. Some people are looking to buy before the end of the year for tax purposes.**
 
