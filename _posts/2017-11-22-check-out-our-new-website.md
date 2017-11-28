@@ -42,6 +42,6 @@ If you’re a seller, don’t feel left out; I’ve included information for you
 3. Staging
 4. What to expect while their home is on the market
 
-If you are looking to buy or sell and haven’t been on our site lately, **jump back in and check it out**at [www.treugroup.com](www.treugroup.com). I think you’re going to love it.
+If you are looking to buy or sell and haven’t been on our site lately, **jump back in and check it out** at [www.treugroup.com](http://www.treugroup.com/). I think you’re going to love it.
 
 When you’re ready to either sell your current home or buy your next home, we’re here to help, whether it be your first home, your move-up home, your dream home, or maybe your sunny retirement home. Looking forward to hearing from you!
