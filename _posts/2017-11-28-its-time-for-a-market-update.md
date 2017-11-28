@@ -21,7 +21,7 @@ youtube_code: xr5da68e6gU
 
 Now that October is over, we’ve aggregated all the data so we can take a look back and see exactly how the market’s been doing over the past few months.
 
-**An additional 19% new listings hit the market this October,** compared to October 2016. That continues the trend from September, where we saw 20% more listings than the previous year at the same time.
+**An additional 19% new listings hit the market this October** compared to October 2016. That continues the trend from September, where we saw 20% more listings than the previous year at the same time.
 
 What is interesting about the difference between September and October is that there was a 30% uptick in new homes going under contract. **This is a very healthy sign for our market.**
 
