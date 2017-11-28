@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Is Your Home Winter-Ready?
-date: 2017-11-16 12:00:10
+date: 2017-11-16 12:00:00
 tags:
   - Real Estate
 excerpt: >-
   Home maintenance and repair projects are an important aspect of homeownership
   all year long. But today, I’ve got a list of 15 ways to take care of your home
   during the fall.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/David+Wyher/Greater+Philadelphia+Real+Estate-+15+ways+to+prepare+for+winter.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
