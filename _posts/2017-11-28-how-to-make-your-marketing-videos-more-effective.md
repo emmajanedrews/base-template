@@ -1,13 +1,14 @@
 ---
 layout: post
 title: How to Make Your Marketing Videos More Effective
-date: 2017-11-28 14:52:56
+date: 2017-11-28 14:52:00
 tags:
   - Real Estate
 excerpt: >-
   Today I want to talk to you guys about video marketing and how you can use
   videos to leverage your overall business in the real estate industry.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Video+Marketing+(SEER)+_+19NOV2017+_+Morning+Huddle.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -27,11 +28,11 @@ Today, I’ve got four tips for you which I turned into the acronym **SEER (Stor
 
 Since there’s a lot to cover, I’ll timestamp each section so that you can learn about each one at your leisure—**yet another awesome aspect of video!**
 
-* Story (1:40)—make your videos revolve around a story.<br>&nbsp;
-* Educate (2:34)—come from a place of education.<br>&nbsp;
-* Entertain (3:35)—make your videos as entertaining as possible.<br>&nbsp;
-* Retention (4:03)—edit your videos so that the audience will watch the whole thing.<br>&nbsp;
-* 7:28—hear examples of ideas I have that utilize SEER.<br>&nbsp;
+* Story (1:40)—make your videos revolve around a story.<br>
+* Educate (2:34)—come from a place of education.<br>
+* Entertain (3:35)—make your videos as entertaining as possible.<br>
+* Retention (4:03)—edit your videos so that the audience will watch the whole thing.<br>
+* 7:28—hear examples of ideas I have that utilize SEER.<br>
 * 8:30—a note about potential compliance and legal issues that you might come across if you don’t perform your due diligence.
 
 Personally, being in front of a camera is very awkward for me. Even though I’m uncomfortable doing it, it’s going to improve my speech, communication skills, my knowledge of the industry, and so much more.
