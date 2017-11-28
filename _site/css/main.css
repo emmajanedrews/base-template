@@ -2745,13 +2745,16 @@ form select {
   margin: 0 auto; }
 
 .client-testimonial {
-  margin-top: 10px; }
+  margin-top: 20px; }
 
 .testimonial-text {
-  font-style: italic; }
+  font-size: 18px; }
 
 .testimonial-author {
-  color: #b40101;
+  color: #142f54;
+  font-weight: bold;
+  font-style: oblique;
+  font-size: 18px;
   margin-top: -20px; }
 
 .in-post-cta {

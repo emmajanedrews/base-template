@@ -1,10 +1,10 @@
 audit_header: false
 title: St. Cloud Real Estate Video Blog with Chris Hauck
 description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: Testimonials
+    url: /testimonials/
 
 client:
   name: Chris Hauck
@@ -22,7 +22,7 @@ client:
   phone2:
   phone2_type:
   email: Hauck@SaintCloudRealEstate.com
-  url: http://www.saintcloudrealestate.com/
+  url: http://www.saintcloudrealestate.com
 
 CTAs:
   first_CTA_text: Home Valuation

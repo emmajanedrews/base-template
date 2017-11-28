@@ -22,8 +22,7 @@ blogger_orig_url: http://chrishauck.blogspot.com/2017/10/a-guide-to-getting-full
 How do we help sellers get top dollar for their home in St. Cloud? Here’s a brief overview of our process.
 
 <div class="in-post-cta">Looking to buy in St. Cloud? <a href="https://www.coldwellbankerhomes.com/minnesota/" target="_blank">Get a full home search</a><br>
-Looking to sell in St Cloud? <a href="https://www.coldwellbankerhomes.com/mn/saint-cloud/agent/christopher-chris-hauck/aid_36032/" target="_blank">Get a free Home Price Evaluation</a></div
->
+Looking to sell in St Cloud? <a href="https://www.coldwellbankerhomes.com/mn/saint-cloud/agent/christopher-chris-hauck/aid_36032/" target="_blank">Get a free Home Price Evaluation</a></div>
 
 A question I’ve been hearing a lot recently is, “How can I get full price on my home sale?” Well, the first thing you should do is give us a call, but here’s where we’ll go from there.
 
