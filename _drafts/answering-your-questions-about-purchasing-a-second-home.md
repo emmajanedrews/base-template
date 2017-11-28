@@ -24,7 +24,7 @@ youtube_code: Gj5XjpUzsUs
 
 A lot of our customers contact us with questions about owning a second home. The good news is that **transactions for second homes are treated almost identically to transactions for primary residences**.
 
-The one big difference is that a lot of lender will look closely at the distance between your primary and secondary residence.
+The one big difference is that a lot of lenders will look closely at the distance between your primary and secondary residence.
 
 {% include pullquote.html %}
 
