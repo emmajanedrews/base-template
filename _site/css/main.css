@@ -2753,3 +2753,9 @@ form select {
 .testimonial-author {
   color: #b40101;
   margin-top: -20px; }
+
+.in-post-cta {
+  font-weight: bold;
+  font-size: 18px; }
+  .in-post-cta p {
+    text-align: center; }
