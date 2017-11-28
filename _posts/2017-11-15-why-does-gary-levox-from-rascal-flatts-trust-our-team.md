@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Why Does Gary LeVox From Rascal Flatts Trust Our Team?
-date: 2017-11-15 15:55:47
+date: 2017-11-15 15:55:00
 tags:
   - Real Estate
 excerpt: >-
   Recently we were fortunate enough to land an endorsement from one of our
   favorite musicians: Gary LeVox of Rascal Flatts.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Spencer+Hasch/San+Antonio+Real+Estate+Agent_+Some+words+from+our+celebrity+fan.mp4
 pullquote: Our team always strives to make things simple and stress-free.
 enclosure_type: video/mp4
 enclosure_time:
