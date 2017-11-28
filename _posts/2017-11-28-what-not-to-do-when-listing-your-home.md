@@ -31,4 +31,4 @@ There are a lot of ways to succeed when listing your home, but there are just as
 
 **3. Not making your property presentable.**&nbsp; If you want to sell your home, it must look its best every single time it’s shown. Even a little bit of clutter can turn buyers off from your home.
 
-If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+If you have any other questions or would like more information, feel free to give us a call or send us an email. Visit **[60seconds.ca](http://60seconds.ca/)** and get approved with our partners fast. We look forward to hearing from you soon.
