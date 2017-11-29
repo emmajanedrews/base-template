@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![](https://s3.amazonaws.com/vyralmarketing/Wade+Betz/amm-logo-new.jpg){: .image-size}
+![](https://s3.amazonaws.com/vyralmarketing/Wade+Betz/corelogomed.png){: .image-size}
 
 
 <h3>
