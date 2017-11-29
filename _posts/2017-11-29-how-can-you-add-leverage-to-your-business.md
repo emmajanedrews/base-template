@@ -24,11 +24,11 @@ Welcome back to our series on getting leverage in your business. To help me disc
 
 As an extremely successful agent in our area and across the board, I wanted to talk to Julie about how she personally uses leverage to achieve such amazing results in her business. First, I asked what prompted her to hire an assistant.
 
-**“The business got too big for me to handle alone. [...] It was time to get support to be able to responsibly handle the business I take on for people,”** said Julie. Prompted by this response, I wanted to hear from Nikki. So, I asked her how she supports Julie in their business.
-
-{% include pullquote.html %}
+**“The business got too big for me to handle alone. […] It was time to get support to be able to responsibly handle the business I take on for people,”** said Julie. Prompted by this response, I wanted to hear from Nikki. So, I asked her how she supports Julie in their business.
 
 According to Nikki, she runs the day-to-day backend operations. She handles contracts and works closely with coordinating transactions. This is significant, since transactions can have many, many steps.
+
+{% include pullquote.html %}
 
 So, how exactly has business changed for Julie since hiring Nikki and adding more leverage?
 
