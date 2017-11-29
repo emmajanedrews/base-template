@@ -9,7 +9,8 @@ excerpt: >-
   boss. You make all of the rules and call all of the shots. As a business
   owner, you have to constantly analyze the things that will make you the most
   successful or stop you from being successful.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Tom+Nickley/Training+Videos/Orlando+Real+Estate+Agent-+Do+you+have+the+right+work+environment%253F.mp4
 pullquote: Does your work environment offer the training and resources you need?
 enclosure_type: video/mp4
 enclosure_time:
