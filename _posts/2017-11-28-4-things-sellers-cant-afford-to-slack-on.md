@@ -23,7 +23,7 @@ youtube_code: '-fzoAMEgo28'
 
 As we approach selling season here in Florida, there are four things that sellers must require of themselves and their listing agents.
 
-**1. You must have professional photos**. Don’t settle for your listing agent to come through and take grainy cell phone pictures. Also, wait until you have the entire photo portfolio ready to go; don’t let your agent go live on the MLS with only a couple photos, with the rest to follow at a later point. The full photo package will help your home pop right as it hits the market.
+**1. You must have professional photos**. Don’t settle for your listing agent to come through and take grainy cell phone pictures. Also, wait until you have the entire photo portfolio ready to go; don’t let your agent go live on the multiple listing service with only a couple photos, with the rest to follow at a later point. The full photo package will help your home pop right as it hits the market.
 
 **2. Your home must be priced right**. Listen to your Realtor; they know the market and what an appropriate price would be. If you’re not sure, get an appraisal. For a relatively low cost, you can get another opinion and another idea of what the price should be. Appraisals are also useful tools for listing agents to use in selling that property.
 
