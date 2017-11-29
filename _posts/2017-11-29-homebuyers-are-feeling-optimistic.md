@@ -36,4 +36,4 @@ What all does this mean for you? If you're looking to buy a home, all of the abo
 
 If you’re thinking about buying or selling a home, click the links above to search for homes on the MLS or find out how much your home is currently worth.
 
-And if you have any questions about the (area) real estate market, whether you're thinking of selling or buying, give me a call at (phone). I'm here to help. I look forward to hearing from you soon.
+And if you have any questions about the Raleigh real estate market, whether you're thinking of selling or buying, give me a call. I'm here to help. I look forward to hearing from you soon.
