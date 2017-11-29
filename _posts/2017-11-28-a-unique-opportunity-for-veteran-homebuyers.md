@@ -20,13 +20,13 @@ youtube_code: 7lioYYtkhK4
 
 {% include youtube.html %}
 
-Did you know that you can not only use VA financing to buy a home with 0% down, but you can also use VA financing to buy a multi-family property. If you set things up right, the home will essentially pay for itself. Here’s what I mean.
+Did you know that you can not only use VA financing to buy a home with 0% down, but you can also use VA financing to buy a multi-family property? If you set things up right, the home will essentially pay for itself. Here’s what I mean.
 
 **You are allowed to use a VA loan to purchase a multi-family property, but there are a few caveats.** First, you must occupy the property as a primary residence within 60 days of closing on the property. That’s a very important rule to remember.
 
 {% include pullquote.html %}
 
-When it comes to multi-family properties, you can actually use the projected rent from the other units in the home to count towards your qualifying number. Because of this, you will be able to qualify for a home with a much higher price. You’ll also have the opportunity to make passive income through rent as you won the home.
+When it comes to multi-family properties, you can actually use the projected rent from the other units in the home to count towards your qualifying number. Because of this, you will be able to qualify for a home with a much higher price. You’ll also have the opportunity to make passive income through rent as you own the home.
 
 If you have VA disability, you will also have a reduction in your property taxes. If you are 100% service-connected disabled, there are no property taxes whatsoever on the entire complex.
 
