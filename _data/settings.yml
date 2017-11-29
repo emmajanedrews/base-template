@@ -20,7 +20,7 @@ client:
   phone2:
   phone2_type:
   email: nick@westonepro.com
-  url: www.westonepro.com
+  url: http://nickshivers.com
 
 CTAs:
   first_CTA_text: Home Valuation
