@@ -34,7 +34,7 @@ It also isn’t bankable. You can’t walk into a bank or lender with a Zestimat
 
 A major reason for this is that Zestimates can be very inaccurate. **The CEO of Zillow himself sold his home for $750,000 below his Zestimate, which was almost 50% of the sales price.**
 
-You can see for yourself how reliable Zillow is based on some of the information included [**[here](https://www.zillow.com/zestimate/#acc)****.**](https://www.zillow.com/zestimate/#acc)
+You can see for yourself how reliable Zillow is based on some of the information included [**[here](https://www.zillow.com/zestimate/#acc)****.**]
 
 {% include pullquote.html %}
 
