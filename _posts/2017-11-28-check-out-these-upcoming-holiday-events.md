@@ -24,11 +24,9 @@ If you’re in the Delaware Beach area, here’s a list of some awesome holiday 
 
 **Winter Wonderfest:** Take pictures with Santa, visit his workshop, ice skate, and more at the Lewis Ferry Terminal Grounds on November 17 through January 1.
 
-**Rohoboth Beach Tree Lighting:** Located at the Rohoboth Beach bandstand on November 24 at 6:30 p.m. There will also be caroling!
+**Holiday Wreath Workshops:** Held at the University of Delaware Botanic Gardens on November 30 from 5:30 p.m. to 8:30 p.m., this event costs $45, and you must register by emailing [BotanicGardens@udel.edu](javascript:void(location.href='mailto:'+String.fromCharCode(66,111,116,97,110,105,99,71,97,114,100,101,110,115,64,117,100,101,108,46,101,100,117))).
 
 {% include pullquote.html %}
-
-**Holiday Wreath Workshops:** Held at the University of Delaware Botanic Gardens on November 30 from 5:30 p.m. to 8:30 p.m., this event costs $45, and you must register by emailing [BotanicGardens@udel.edu](javascript:void(location.href='mailto:'+String.fromCharCode(66,111,116,97,110,105,99,71,97,114,100,101,110,115,64,117,100,101,108,46,101,100,117))).
 
 **Christmas Tour of Lewes:** On December 2 from 10 a.m. to 4 p.m., go on a self-guided tour through Lewes’ historic downtown. For more information, visit [www.HistoricLewes.org](www.HistoricLewes.org).
 
