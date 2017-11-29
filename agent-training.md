@@ -7,8 +7,9 @@ layout: default
 
 ### Real Estate Agent Webinars
 
-The CORE Training is a mortgage and real estate coaching company that provides mentoring and coaching to mortgage lenders and real estate agents from all over the country. The CORE helps real estate agents and mortgage lenders accumulate wealth, net more income, and run more efficient teams and business. If you are serious about building a great real estate or mortgage lender business, then check out the training videos and resource folders below. <br/>
-If you need help implementing any of this or would like to discuss how we can work together to generate more referrals, please book an appointment directly on my calendar by clicking here.  Thanks again!
+The CORE Training is a mortgage and real estate coaching company that provides mentoring and coaching to mortgage lenders and real estate agents from all over the country. The CORE helps real estate agents and mortgage lenders accumulate wealth, net more income, and run more efficient teams and business. If you are serious about building a great real estate business, then check out the training videos and resource folders below.
+
+<br>If you need help implementing any of this or would like to discuss how we can work together to generate more referrals, please book an appointment directly on my calendar by clicking here. Thanks again!
 
 **Maximize Client Referrals, October 2017** — [Video](https://www.youtube.com/watch?v=G_col4NAPnU) — [Resources](https://www.dropbox.com/sh/ek68llcq398u82a/AAAY5_K-0J7T2QiXo6cNNPvka?dl=0)
 
@@ -18,7 +19,7 @@ If you need help implementing any of this or would like to discuss how we can wo
 
 **Systems and Checklists, July 2017** — [Video](https://youtu.be/wwFRd_fNNrM) — [Resources](https://www.dropbox.com/sh/x9t8yut9bzc620z/AAAoHAjb2w0rSeradUv6tDfMa?dl=0)
 
- **Touchpoints Tactics to Profits, June 2017&nbsp;** — [Video](https://www.youtube.com/watch?v=g1aL9YzNUkw) — [Resources](https://www.dropbox.com/sh/8pvo5iev0u8by2u/AADQANxDrANluhMZlNL1rdR3a?dl=0)
+**Touchpoints Tactics to Profits, June 2017&nbsp;** — [Video](https://www.youtube.com/watch?v=g1aL9YzNUkw) — [Resources](https://www.dropbox.com/sh/8pvo5iev0u8by2u/AADQANxDrANluhMZlNL1rdR3a?dl=0)
 
 **I Thought I Just Had to Sell Houses, May 2017**&nbsp; — [Video](https://youtu.be/2gQXyB6kzWM) — [Resources](https://www.dropbox.com/sh/hi42o0ldkzutg4q/AACsBIoPRawEBNL43iG114rxa?dl=0)
 
@@ -32,7 +33,7 @@ If you need help implementing any of this or would like to discuss how we can wo
 
 **Marketing Calendar, December 2016** — [Video](https://youtu.be/ZLJl7-GumKs) — [Resources](https://www.dropbox.com/sh/yulerjbjlipt5xv/AADrXMPPRrju_8A8z37bY0lTa?dl=0)
 
-**Business Planning, November 2016** — [Video](https://youtu.be/nkR9MWGCuWk) — [Resources](https://www.dropbox.com/sh/uqg0yscswoii7y1/AAAEzIikZ-X_mgp53w1Era0qa?dl=0) 
+**Business Planning, November 2016** — [Video](https://youtu.be/nkR9MWGCuWk) — [Resources](https://www.dropbox.com/sh/uqg0yscswoii7y1/AAAEzIikZ-X_mgp53w1Era0qa?dl=0)
 
 **Steps to Financial Freedom, October 2016** — [Video](https://youtu.be/9IRxS_CMQmA) — [Resources](https://www.dropbox.com/sh/hvi8scv7sgw88mc/AAA39OTuDx55f0NsT9wrdAy2a?dl=0)
 
