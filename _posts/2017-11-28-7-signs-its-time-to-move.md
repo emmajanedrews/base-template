@@ -20,7 +20,7 @@ youtube_code: MOx66AiERG8
 
 Over the years, we’ve become experts at identifying the trends that cause people to move. Here are the seven most common life changes that let you know you’re a candidate for an address change as well:
 
-**1. The 7-year itch**. The average consumer moves homes every seven years.
+**1. The seven-year itch**. The average consumer moves homes every seven years.
 
 **2. You are living below your means**. Quite often when we get a promotion or raise, we want our environment to reflect that. Renovations often aren’t worth the money, so buying a bigger or better house is a great option.
 
