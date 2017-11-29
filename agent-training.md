@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![](https://s3.amazonaws.com/vyralmarketing/Wade+Betz/corelogomed.png){: .image-size}
+![](https://s3.amazonaws.com/vyralmarketing/Wade+Betz/TheCore2.png){: .image-size}
 
 
 <h3>
