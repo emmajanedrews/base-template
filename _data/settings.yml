@@ -1,111 +1,119 @@
 audit_header: false
-title: -- CLIENT BRAND --
-description: 'Patrick Fitzgerald, the VA Loan Guy, is located in San Antonio, Texas and is a true “One Stop Lender”. We originate, underwrite, and close all types of loans. We offer Texas Vet, Veterans, FHA, Conventional, Jumbo, Adjustable Rate, and Investment products.'
+title: '-- CLIENT BRAND --'
+description: >-
+  Patrick Fitzgerald, the VA Loan Guy, is located in San Antonio, Texas and is a
+  true “One Stop Lender”. We originate, underwrite, and close all types of
+  loans. We offer Texas Vet, Veterans, FHA, Conventional, Jumbo, Adjustable
+  Rate, and Investment products.
 show_custom_links: true
 custom_links:
   - title: TV Spots
     url: /tv-spots/
-
 client:
   name: Patrick Fitzgerald
-  license_number: 'NMLS #3274'
-  about_markdown: |
-    <h4 id="about-slogan">Number 1 Texas Home Loan Originator 7 Years in a Row</h4>
-    I make my living helping Active Military people as well as Veterans. There are many ways in which to qualify to use this wonderful program. Too many people are misinformed about this program, and I am here to make sure that you are told the “straight facts”.
+  license_number: 218508
+  about_markdown: >-
+    #### Number 1 Texas Home Loan Originator 7 Years in a Row
+
+
+    I make my living helping Active Military people as well as Veterans. There
+    are many ways in which to qualify to use this wonderful program. Too many
+    people are misinformed about this program, and I am here to make sure that
+    you are told the “straight facts”.
   market:
   brand: The VA Loan Guy
   brokerage: Guild Mortgage
-  address: 14100 San Pedro Ave Ste 210<br>San Antonio, TX 78232
+  address: '14100 San Pedro Ave Ste 210<br>San Antonio, TX 78232'
   phone: 210-215-4400
   phone_type:
   phone2:
   phone2_type:
   email: PFitzgerald@GuildMortgage.net
-  url: http://Texas-Vet-Loans.com
-
+  url: 'http://Texas-Vet-Loans.com'
 CTAs:
   first_CTA_text: Apply Now
-  first_CTA_URL: https://preapp1003.com/id/Patrick-Fitzgerald/
-  # second_CTA_text: Home Search
-  # second_CTA_URL: /homesearch/
-  VR_form: http://oi.vresp.com?fid=6fbd80d201
-
+  first_CTA_URL: 'https://preapp1003.com/id/Patrick-Fitzgerald/'
+  VR_form: 'http://oi.vresp.com?fid=6fbd80d201'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "Online Loan Application"
-    CTA_text: "Using our online loan application, you can take your time and complete your application whenever it is convenient for you. And, you can always save your work and come back and complete it later if you need to."
-    CTA_link_text: "Apply Now"
-    CTA_url: https://preapp1003.com/id/Patrick-Fitzgerald/
-
-# second_sidebar_CTA:
-#   - CTA_image_path2: /img/cta-images/005.jpg
-#     CTA_title2: "Looking for a -- MARKET -- Home?"
-#     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-#     CTA_link_text2: "Search the MLS"
-#     CTA_url2: /homesearch/
-
+    CTA_title: Online Loan Application
+    CTA_text: >-
+      Using our online loan application, you can take your time and complete
+      your application whenever it is convenient for you. And, you can always
+      save your work and come back and complete it later if you need to.
+    CTA_link_text: Apply Now
+    CTA_url: 'https://preapp1003.com/id/Patrick-Fitzgerald/'
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
+  headshot_path: 'http://fillmurray.com/200/200'
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: http://eyegoop.com
-
+  url: 'http://eyegoop.com'
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for Mortgage Banking. I make my living helping Active Military people as well as Veterans. Whether you are a Prospective Client or a Realtor, our team of
-    professionals can answer any questions you might have about Texas Vet & VA Loans. Subscribe to this blog to get the answers to the most popular questions for you and to get the necessary tools to make a proper decision on a Home Loan using the Texas Veterans Land Board Program.
-
+    Our mission at -- CLIENT BRAND -- is to be your best resource for Mortgage
+    Banking. I make my living helping Active Military people as well as
+    Veterans. Whether you are a Prospective Client or a Realtor, our team of
+    professionals can answer any questions you might have about Texas Vet & VA
+    Loans. Subscribe to this blog to get the answers to the most popular
+    questions for you and to get the necessary tools to make a proper decision
+    on a Home Loan using the Texas Veterans Land Board Program.
 socials:
   review_sm_icons: true
-  facebook_url: https://www.facebook.com/Free-help-for-TX-Real-Estate-Agents-119248468091989/
-  linkedin_url: https://www.linkedin.com/in/pat-fitzgerald-75207524?trk=hp-identity-photo
-  gplus_url: https://plus.google.com/u/0/b/111020914519161365428
-  youtube_url: https://www.youtube.com/channel/UCeMtPq_pkOYzq_twNGaQz8g
-  twitter_url: https://twitter.com/VALoanExpert
+  facebook_url: >-
+    https://www.facebook.com/Free-help-for-TX-Real-Estate-Agents-119248468091989/
+  linkedin_url: 'https://www.linkedin.com/in/pat-fitzgerald-75207524?trk=hp-identity-photo'
+  gplus_url: 'https://plus.google.com/u/0/b/111020914519161365428'
+  youtube_url: 'https://www.youtube.com/channel/UCeMtPq_pkOYzq_twNGaQz8g'
+  twitter_url: 'https://twitter.com/VALoanExpert'
   instagram_url:
   pinterest_url:
   zillow_url:
   trulia_url:
-  yelp_url: https://www.yelp.com/user_details?userid=TKd6cBb_EnVAS5eooUUMGg
-  podcast_url: https://itunes.apple.com/us/podcast/real-estate-podcast-with-patrick-fitzgerald/id1216865123?mt=2
-
+  yelp_url: 'https://www.yelp.com/user_details?userid=TKd6cBb_EnVAS5eooUUMGg'
+  podcast_url: >-
+    https://itunes.apple.com/us/podcast/real-estate-podcast-with-patrick-fitzgerald/id1216865123?mt=2
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
-  categories: Education
+  categories:
+    - Education
   image: /img/podcast.png
-  subtitle: 'Get the answers to the most popular questions for you and to get the necessary tools to make a proper decision on a Home Loan using the Texas Veterans Land Board Program.'
-  description: 'Patrick Fitzgerald, the VA Loan Guy, is located in San Antonio, Texas and is a true “One Stop Lender”. We originate, underwrite, and close all types of loans. We offer Texas Vet, Veterans, FHA, Conventional, Jumbo, Adjustable Rate, and Investment products.'
-  keywords: 'Texas Veteran Loans, VA Loans, The VA Loan Guy, Loans for Active Military, Mortgage Banking Firm, Mortgage Banking in Texas, VA Mortgages'
+  subtitle: >-
+    Get the answers to the most popular questions for you and to get the
+    necessary tools to make a proper decision on a Home Loan using the Texas
+    Veterans Land Board Program.
+  description: >-
+    Patrick Fitzgerald, the VA Loan Guy, is located in San Antonio, Texas and is
+    a true “One Stop Lender”. We originate, underwrite, and close all types of
+    loans. We offer Texas Vet, Veterans, FHA, Conventional, Jumbo, Adjustable
+    Rate, and Investment products.
+  keywords: >-
+    Texas Veteran Loans, VA Loans, The VA Loan Guy, Loans for Active Military,
+    Mortgage Banking Firm, Mortgage Banking in Texas, VA Mortgages
   author: '-- CLIENT NAME --'
-
 images:
   client_headshot_path: /img/headshot.png
-  # hero_logo_path: /img/logo.png
-  # logo_width_number: 20
   hero_text: The VA Loan Guy Video Blog
-  hero_background_hex: '#999'
+  hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#262a82'
-  theme_color: '#999'
+  theme_color: '#999999'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 14px
-  shadow_color: rgba(234, 234, 234, .5)
-
+  shadow_color: 'rgba(234, 234, 234, 0.5)'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
