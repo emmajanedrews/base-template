@@ -7,7 +7,8 @@ layout: default
 
 ### Real Estate Agent Webinars
 
-The CORE Training is a mortgage and real estate coaching company that provides mentoring and coaching to mortgage lenders and real estate agents from all over the country. The CORE helps real estate agents and mortgage lenders accumulate wealth, net more income, and run more efficient teams and business. If you are serious about building a great real estate or mortgage lender business, then check out the training videos and resource folders below.
+The CORE Training is a mortgage and real estate coaching company that provides mentoring and coaching to mortgage lenders and real estate agents from all over the country. The CORE helps real estate agents and mortgage lenders accumulate wealth, net more income, and run more efficient teams and business. If you are serious about building a great real estate or mortgage lender business, then check out the training videos and resource folders below. <br/>
+If you need help implementing any of this or would like to discuss how we can work together to generate more referrals, please book an appointment directly on my calendar by clicking here.  Thanks again!
 
 **Maximize Client Referrals, October 2017** — [Video](https://www.youtube.com/watch?v=G_col4NAPnU) — [Resources](https://www.dropbox.com/sh/ek68llcq398u82a/AAAY5_K-0J7T2QiXo6cNNPvka?dl=0)
 
