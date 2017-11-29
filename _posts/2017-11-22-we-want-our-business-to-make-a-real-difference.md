@@ -27,7 +27,7 @@ For this reason, we’ve shifted to a “for purpose” business. This means tha
 
 {% include pullquote.html %}
 
-This year, we’ll be giving $20,000 towards helping orphans in Mexico. I’m actually going to go myself to provide some hands-on help. Though I’m not yet experienced with this kind of philanthropy, it just feels right.
+This year, we’ll be giving nearly $20,000 towards helping orphans in Mexico. I’m actually going to go myself to provide some hands-on help. Though I’m not yet experienced with this kind of philanthropy, it just feels right.
 
 The support I’ve received from my clients has allowed me to build a sustainable career, which is all the more reason for me to give back. **I want to seek out opportunities and causes that will truly have an impact.**
 
