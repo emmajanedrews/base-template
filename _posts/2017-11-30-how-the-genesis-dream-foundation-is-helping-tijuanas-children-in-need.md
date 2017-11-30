@@ -32,6 +32,6 @@ Currently, the foundation is sponsoring a home with about 20 children from the a
 
 {% include pullquote.html %}
 
-This is an incredibly important cause. The work my three guests do to better the lives of children in need is absolutely touching. But, they can’t do it alone. If you would like to get involved, I would encourage you to visit the Genesis Dream Foundation’s website at <a href="www.GenesisDream.org">www.GenesisDream.org</a>
+This is an incredibly important cause. The work my three guests do to better the lives of children in need is absolutely touching. But, they can’t do it alone. If you would like to get involved, I would encourage you to visit the Genesis Dream Foundation’s website at <a href="http://www.GenesisDream.org">www.GenesisDream.org</a>
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
