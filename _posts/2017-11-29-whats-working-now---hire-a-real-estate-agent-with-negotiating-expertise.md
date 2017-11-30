@@ -57,7 +57,7 @@ Your agent also needs to be good enough to coach the buyer agents on how to make
 
 If your home is priced well, looks good, and you have an agent who is an excellent negotiator, **you will end up with a win.**&nbsp;
 
-To learn more about selling your home, make sure to watch the Home Seller Half Hour this week. <u>Sign up here</u> to learn everything you need to know in less than 30 minutes.&nbsp;
+To learn more about selling your home, make sure to watch the Home Seller Half Hour this week. [<u>Sign up here</u>](https://app.webinarjam.net/register/40860/ffb94e1c2b) to learn everything you need to know in less than 30 minutes.&nbsp;
 
 Thank you for watching *“What’s Working Now!”* Next time, I’ll cover some of the coolest things happening in our red-hot real estate market.&nbsp;
 
