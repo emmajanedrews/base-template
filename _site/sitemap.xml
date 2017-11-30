@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://davefriedmancoaching.com/how-the-abelson-disc-assessment-helps-our-team-find-new-members.html</loc>
+<lastmod>2017-11-21T03:36:00-06:00</lastmod>
+</url>
+<url>
 <loc>http://davefriedmancoaching.com/these-5-books-can-help-you-develop-the-perfect-business-plan.html</loc>
 <lastmod>2017-10-31T07:04:57-05:00</lastmod>
 </url>
@@ -53,6 +57,9 @@
 <loc>http://davefriedmancoaching.com/client-testionials.html</loc>
 </url>
 <url>
+<loc>http://davefriedmancoaching.com/contact/</loc>
+</url>
+<url>
 <loc>http://davefriedmancoaching.com/homesearch/</loc>
 </url>
 <url>
@@ -75,5 +82,8 @@
 </url>
 <url>
 <loc>http://davefriedmancoaching.com/page2/</loc>
+</url>
+<url>
+<loc>http://davefriedmancoaching.com/page3/</loc>
 </url>
 </urlset>
