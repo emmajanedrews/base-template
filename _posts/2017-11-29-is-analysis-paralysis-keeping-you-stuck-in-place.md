@@ -20,7 +20,7 @@ youtube_code: mMhQfDlPc8I
 
 {% include youtube.html %}
 
-Do you find yourself caught in analysis paralysis—the feeling of over analyzing what needs to happen in your business or life? Many of us have felt this way, so today I’d like to talk about how to overcome this feeling. Analysis paralysis is particularly common in our industry. People become so focused on analyzing their next step forward that they’re unable to actually move on.
+Do you find yourself caught in analysis paralysis—the feeling of overanalyzing what needs to happen in your business or life? Many of us have felt this way, so today I’d like to talk about how to overcome this feeling. Analysis paralysis is particularly common in our industry. People become so focused on analyzing their next step forward that they’re unable to actually move on.
 
 **Having big goals and dreams is great, but it’s important to not let analysis paralysis prevent you from taking immediate action.** For example, I was at lunch with a good friend of mine the other day who told me he just couldn’t understand why he wasn’t moving forward. He had a big vision, but hasn't been able to progress toward that goal.
 
