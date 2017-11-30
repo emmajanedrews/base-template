@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What’s Happening in the Prior Lake Real Estate Market?
+title: What’s Happening in the Prior Lake/Savage/Shakopee Real Estate Market?
 date: 2017-11-20 14:59:00
 tags:
   - Market Update
