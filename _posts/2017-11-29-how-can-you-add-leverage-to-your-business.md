@@ -20,11 +20,11 @@ youtube_code: vbGsjGv0Bu8
 
 {% include youtube.html %}
 
-Welcome back to our series on getting leverage in your business. To help me discuss today’s topics, I’ll be joined by our No.1 associate, Julie Hopkins, and her assistant Nikki Taylor.
+Welcome back to our series on getting leverage in your business. To help me discuss today’s topic, I’ll be joined by our No. 1 associate, Julie Hopkins, and her assistant Nikki Taylor.
 
 As an extremely successful agent in our area and across the board, I wanted to talk to Julie about how she personally uses leverage to achieve such amazing results in her business. First, I asked what prompted her to hire an assistant.
 
-**“The business got too big for me to handle alone. […] It was time to get support to be able to responsibly handle the business I take on for people,”** said Julie. Prompted by this response, I wanted to hear from Nikki. So, I asked her how she supports Julie in their business.
+**“The business got too big for me to handle alone . . . It was time to get support to be able to responsibly handle the business I take on for people,”** said Julie. Prompted by this response, I wanted to hear from Nikki. So, I asked her how she supports Julie in their business.
 
 According to Nikki, she runs the day-to-day backend operations. She handles contracts and works closely with coordinating transactions. This is significant, since transactions can have many, many steps.
 
@@ -34,7 +34,7 @@ So, how exactly has business changed for Julie since hiring Nikki and adding mor
 
 “It’s wonderful,” Julie says. “It’s awesome, because I have someone to delegate things to.”
 
-What needs to be focused on from day-to-day is always changing. As Nikki put it, they take things “One thing at a time.” Not knowing exactly what the focus will be each day is really indicative of the flow of the business. **Being able to keep up with this ever-changing flow is something Julie says she greatly appreciates in Nikki.**
+What needs to be focused on from day to day is always changing. As Nikki put it, they take things “One thing at a time.” Not knowing exactly what the focus will be each day is really indicative of the flow of the business. **Being able to keep up with this ever-changing flow is something Julie says she greatly appreciates in Nikki.**
 
 Though she very much likes working on her own without a team, Julie says it’s wonderful having someone like Nikki by her side. I definitely applaud the two of them for having such a strong partnership.
 
