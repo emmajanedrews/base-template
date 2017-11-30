@@ -29,7 +29,7 @@ There are a few different things you can do to improve your mindset, get educate
 **First, you can always listen to podcasts.** If you don’t have the money or your team doesn’t have the budget to pay for training and coaching, then the best thing you can do is listen to podcasts.
 {: .present-before-paste}
 
-There is a great real estate website called [BiggerPockets.com](BiggerPockets.com) that has hundreds of podcasts by people who work in real estate, property management, investing, and home flipping. They do interviews with people from all over the country, and I’ve listened to a lot of them. This is a great way to learn from successful people in the industry and improve your own business. &nbsp;
+There is a great real estate website called [BiggerPockets.com](http://www.BiggerPockets.com) that has hundreds of podcasts by people who work in real estate, property management, investing, and home flipping. They do interviews with people from all over the country, and I’ve listened to a lot of them. This is a great way to learn from successful people in the industry and improve your own business. &nbsp;
 {: .present-before-paste}
 
 I’ve mentioned “The 10X Rule” by Grant Cardone before, and [he also has a great podcast](https://grantcardonetv.com/podcasts/). Pat Hiban does a podcast called [Real Estate Rockstar Radio.](https://hibandigital.com/)
