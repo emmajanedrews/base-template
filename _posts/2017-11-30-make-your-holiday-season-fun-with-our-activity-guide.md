@@ -26,7 +26,7 @@ youtube_code: qjJ9BFbbCzY
 
 It’s hard to believe that it’s almost the holidays when we still have beautiful sunshine and 80-degree weather right here in South Florida.
 
-Whether you’re looking to plan a trip down to South Florida, this is your first holiday season here, or you’re a native, it gets a little bit challenging to get into the holiday season because when we think of a “white” Christmas, we think of sand—not snow.
+Whether you’re looking to plan a trip down to South Florida, this is your first holiday season here, or you’re a native, it gets a little bit challenging to get into the holiday season because when we think of a white Christmas, we think of sand—not snow.
 
 That’s why I’ve found some great ways you can get into the holiday spirit. We have interesting things like parades, boat parades, and a Santa’s workshop. And guess what? We even have our own version of a snowfall.
 
@@ -40,11 +40,11 @@ Info: CityPlace
 
 Info: 561-393-7995.
 
-**November 28:**Harbourside Place Tree Lighting, 6 p.m. to 10 p.m. With Santa, performances, games, and crafts.
+**November 28:&nbsp;**Harbourside Place Tree Lighting, 6 p.m. to 10 p.m. With Santa, performances, games, and crafts.
 
 Info: 561-935-9533.
 
-**December 1:** Worth Avenue Christmas Tree Lighting, 6 p.m. to 9 p.m. Parade with Santa and tree lighting at 6:29 p.m.. Hibiscus and Worth Avenue.
+**December 1:** Worth Avenue Christmas Tree Lighting, 6 p.m. to 9 p.m. Parade with Santa and tree lighting at 6:29 p.m. Hibiscus and Worth Avenue.
 
 Info: 561-659-6909
 
@@ -60,11 +60,11 @@ Info: 772-692-7599.
 
 Info: 561-863-0012.
 
-**December 5 through 12 and December 14 through 16:** Festival of Trees—Ann Norton Sculpture Gardens, 2051 S. Flagler Drive, West Palm Beach. Admission is $15 for members and seniors, $20 for non-member adults, and $7 for children.
+**December 5-12 and December 14-16:** Festival of Trees—Ann Norton Sculpture Gardens, 2051 S. Flagler Drive, West Palm Beach. Admission is $15 for members and seniors, $20 for non-member adults, and $7 for children.
 
 Info: 561-832-5328.
 
-**December 5 and December 11:** The Symphonic Band of the Palm Beaches holiday concerts, featuring the music of Sousa and Tchaikovsky and holiday favorites. December 5, Duncan Theatre, Lake Worth; December 11, Eissey Campus Theatre in Palm Beach Gardens. Both shows start at 7:30 p.m.
+**December 5 and 11:** The Symphonic Band of the Palm Beaches holiday concerts, featuring the music of Sousa and Tchaikovsky and holiday favorites. December 5, Duncan Theatre, Lake Worth; December 11, Eissey Campus Theatre in Palm Beach Gardens. Both shows start at 7:30 p.m.
 
 Info: 561-832-3115.
 
@@ -80,7 +80,7 @@ Info: 561-655-2833.
 
 Info: Mandel Jewish Community Center of the Palm Beaches
 
-December 10: World-Famous 100-Foot Tree-Lighting Ceremony—Old School Square, 51 N. Swinton Ave., Delray Beach. The tree is open until January 1, with visits with Santa and performances throughout the season.
+**December 10:** World-Famous 100-Foot Tree-Lighting Ceremony—Old School Square, 51 N. Swinton Ave., Delray Beach. The tree is open until January 1, with visits with Santa and performances throughout the season.
 
 Info: 561-279-1380.
 
@@ -98,19 +98,17 @@ Info and ticket prices: josh@sunfest.com or 561-837-8066.
 
 {% include pullquote.html %}
 
-**December 12:**St. Lucie County Boat Parade — 772-692-7999.
+**December 12:&nbsp;**St. Lucie County Boat Parade — 772-692-7999.
 
 **December 13:** Hanukkah Candle Lighting, Harbourside Place, Jupiter, 4 p.m. to 6 p.m.; 2 p.m. to 4 p.m., Mandel JCC, Boynton Beach. Includes concert, children’s activities, information booths and more.
 
-**December 10 through December 23:** Holiday Evening Tours of Whitehall—Flagler Museum, 1 Whitehall Way, Palm Beach.
+**December 10-23:** Holiday Evening Tours of Whitehall—Flagler Museum, 1 Whitehall Way, Palm Beach.
 
 Info: 561-655-2833.
 
 **December 19:** Boca Raton Holiday Boat Parade—Intracoastal Waterway starting at the C-15 canal traveling south to Hillsboro Bridge. 6:30 p.m. to 8 p.m.
 
 Info: 561-393-7995.
-
-SOURCELINK: http://projects.mypalmbeachpost.com/holidayevents/#title-5978
 
 Local holiday lights guide:
 
