@@ -47,7 +47,7 @@ In this case, two of the buyers increased their price, while the other took out 
 
 The first buyer called their home inspector, came into the property, and immediately got cold feet. That buyer wound up walking away from the transaction.&nbsp;
 
-Luckily, we had a back-up buyer in place. I didn’t have to change the status of the property and say, “This deal fell apart and the house is now back on the market.” Instead, the home remained under contract, and the second buyer got the chance to slip in and get the house without renegotiating. It was a win-win for that buyer and for my seller.&nbsp;
+Luckily, we had a backup buyer in place. I didn’t have to change the status of the property and say, “This deal fell apart and the house is now back on the market.” Instead, the home remained under contract, and the second buyer got the chance to slip in and get the house without renegotiating. It was a win-win for that buyer and for my seller.&nbsp;
 
 We just had the inspection today, and everything looks good so far.&nbsp;
 
