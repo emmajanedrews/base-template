@@ -32,7 +32,7 @@ There are a few different things you can do to improve your mindset, get educate
 There is a great real estate website called [BiggerPockets.com](BiggerPockets.com) that has hundreds of podcasts by people who work in real estate, property management, investing, and home flipping. They do interviews with people from all over the country, and I’ve listened to a lot of them. This is a great way to learn from successful people in the industry and improve your own business. &nbsp;
 {: .present-before-paste}
 
-I’ve mentioned “The 10X Rule” by Grant Cardone before, and he also has a great podcast. Pat Hiban does a podcast called Real Estate Rockstar Radio.
+I’ve mentioned “The 10X Rule” by Grant Cardone before, and [he also has a great podcast](https://grantcardonetv.com/podcasts/). Pat Hiban does a podcast called [Real Estate Rockstar Radio.](https://hibandigital.com/)
 {: .present-before-paste}
 
 If you have a smartphone, a free podcast can help you grow your business. The people who are on these podcasts sell 500 and 800 homes a year. If you can’t afford to fly around to meet top producers, podcasts are a great resource for you.
