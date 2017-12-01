@@ -20,7 +20,7 @@ youtube_code: ikbaRm7pxMM
 
 {% include youtube.html %}
 
-Today we’re coming at you with a two-part series, where we answer the question "What happens when the agent becomes the buyer?" For the second part of this series, click here.
+Today we’re coming at you with a two-part series, where we answer the question "What happens when the agent becomes the buyer?" [For the second part of this series, click here.](/gaining-a-new-perspective-on-the-home-buying-process-part-two.html)
 
 So, what exactly happens when the agent becomes the buyer?
 
@@ -36,4 +36,4 @@ The amount of documentation buyers have to provide to their lenders has stood ou
 
 **“Continually coming back to the goal made it crystal clear what we were trying to accomplish.”**
 
-We’ll keep you posted on the next steps of this transaction and relay some more first-hand knowledge on the subject. In the meantime, if you have any questions or are looking to buy or sell a home, don’t hesitate to reach out to us. We’d love to help.
+In the next part, we'll discuss what happens during the home inspection. [To watch the second video in this series, click here](/gaining-a-new-perspective-on-the-home-buying-process-part-two.html). In the meantime, if you have any questions or are looking to buy or sell a home, don’t hesitate to reach out to us. We’d love to help.
