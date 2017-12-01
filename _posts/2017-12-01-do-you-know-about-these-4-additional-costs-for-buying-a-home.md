@@ -29,12 +29,12 @@ It isn’t exactly cheap to buy a home these days, and I’m not just talking ab
 
 Here’s a breakdown of four additional costs to expect when you’re buying a home:
 
-**1. Inspections.**Once you’ve made an offer, you’ll usually need to pay an inspector a few hundred dollars to take a look at the property. If the inspector uncovers any potential structural or safety issues, you may have to pay another professional to come in and give a specialized assessment.
+**1. Inspections.&nbsp;**Once you’ve made an offer, you’ll usually need to pay an inspector a few hundred dollars to take a look at the property. If the inspector uncovers any potential structural or safety issues, you may have to pay another professional to come in and give a specialized assessment.
 
-**2. Closing costs.**There are two types of closing costs, so it’s important that you understand the difference. There are pre-paid closing costs and then there are settlement fees. If the seller pre-paid any taxes or homeowner association dues, you’ll have to pay them the prorated amount for the rest of the year or quarter.
+**2. Closing costs.&nbsp;**There are two types of closing costs, so it’s important that you understand the difference. There are prepaid closing costs and then there are settlement fees. If the seller prepaid any taxes or homeowner association dues, you’ll have to pay them the prorated amount for the rest of the year or quarter.
 
 **3. The move itself.** This cost will depend on where you’re living now, how far you’re moving, and how much stuff you plan to haul. In general, though, expect at least a few thousand dollars to hire professional movers.
 
-**4. The immediate costs.**You may be able to put off certain renovations and new furniture purchases, but there are some costs that new homeowners will face right away. Having your locks changed is one example of this. As a homeowner, you’ll now also be on the hook for routine and unexpected maintenance costs. Be sure to have funds ready in case of emergencies.
+**4. The immediate costs.&nbsp;**You may be able to put off certain renovations and new furniture purchases, but there are some costs that new homeowners will face right away. Having your locks changed is one example of this. As a homeowner, you’ll now also be on the hook for routine and unexpected maintenance costs. Be sure to have funds ready in case of emergencies.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
