@@ -23,11 +23,11 @@ youtube_code: 'https://youtu.be/L77C7_A6l-M'
 
 To help educate you about military relocation professionals, I’m going to answer a few common questions relating to them.
 
-**What is the difference between a military relocation professional and a regular Realtor?**
+**What is the difference between a Realtor that's certified as a MRP and one that is not?**
 
 A military relocation professional has certified knowledge of what a service member does and what they have to go through when they move. There are a lot of things that have to be done and certain timelines they have to meet.
 
-**Are there any other benefits to using a military relocation professional versus a Realtor?**
+**Are there any other benefits to using a military relocation professional?**
 
 {% include pullquote.html %}
 
