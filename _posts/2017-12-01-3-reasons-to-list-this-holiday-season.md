@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Reasons to List This Holiday Season
-date:
+date: 2017-12-01 15:13:51
 tags:
   - Home Seller Tips
 excerpt: >-
