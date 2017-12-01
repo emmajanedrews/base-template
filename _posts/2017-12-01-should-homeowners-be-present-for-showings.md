@@ -27,9 +27,7 @@ Today I want to answer a question I’m asked at every listing appointment: “A
 
 If we, the listing agents, call the buyer’s agent to ask for feedback, we will get it. With the seller present, the buyer might not say as much—or say nothing at all—and they may move on to other properties and forget yours entirely.
 
-{% include pullquote.html %}
-
-However, **there is a time when it’s appropriate for listing agents to accompany showings.** That time is after getting positive feedback from a buyer’s agent, after which we’ll try to procure a second showing where we can go over the full feature list.
+{% include pullquote.html %}<br>However, **there is a time when it’s appropriate for listing agents to accompany showings.** That time is after getting positive feedback from a buyer’s agent, after which we’ll try to procure a second showing where we can go over the full feature list.
 
 But that only happens after they’ve made an emotional attachment to the house and they weren’t initially put off by not having the privacy to explore the entire property. Give them the time and space in the beginning, and close them on the second time around.
 
