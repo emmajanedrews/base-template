@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Can My Team and I Do For You?
-date: 2017-11-30 11:21:36
+date: 2017-11-30 11:21:00
 tags:
   - Real Estate
 excerpt: >-
@@ -10,7 +10,7 @@ excerpt: >-
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Heather+Neidlinger/2017/Central+Pennsylvania+Real+Estate+Agent-+Heather+Neidlinger+Intro.mp4
 pullquote: >-
-  I truly love my job and and helping people succeed with all their real estate
+  I truly love my job and helping people succeed with all their real estate
   dreams.
 enclosure_type: video/mp4
 enclosure_time:
@@ -22,7 +22,7 @@ youtube_code: gBWRaDl2yc8
 
 {% include youtube.html %}
 
-Today I want to tell you a little bit about myself, which is never an easy thing to do. However, I can tell you that I sell real estate, and I’ve done so here in Carlisle, Pennsylvania since the early 2000s.&nbsp;
+Today I want to tell you a little bit about myself, which is never an easy thing to do. However, I can tell you that I sell real estate, and I’ve done so here in Carlisle, Pennsylvania since the early 2000s.
 
 Even after all that time, **I still absolutely love this job.** Being born and raised here in Central PA, I’ve chosen to live my life and raise my family right here in Carlisle. Fully knowing my area and living in it helps me to be a **dedicated and successful real estate agent.**
 
