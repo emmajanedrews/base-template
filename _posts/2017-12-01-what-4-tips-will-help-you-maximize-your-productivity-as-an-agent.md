@@ -23,7 +23,7 @@ As a real estate professional and a business owner, I’m a firm believer that w
 
 To ensure that you’re achieving your maximum productivity every day, here are four tips you can follow.
 
-First and foremost, f**ocus on new business development consistently every single day.**Whether that means prospecting calls, knocking on doors, hosting open houses, or contacting your SOI, make sure you focus time and energy on new business development on a daily basis. We’re in the sales business, and without developing new business, you won’t have any business. Make sure you’re setting, tracking, and hitting goals on a daily basis in terms of the number of calls, conversations, or people you’re adding into your database.
+First and foremost, **focus on new business development consistently every single day.**Whether that means prospecting calls, knocking on doors, hosting open houses, or contacting your SOI, make sure you focus time and energy on new business development on a daily basis. We’re in the sales business, and without developing new business, you won’t have any business. Make sure you’re setting, tracking, and hitting goals on a daily basis in terms of the number of calls, conversations, or people you’re adding into your database.
 
 {% include pullquote.html %}
 
