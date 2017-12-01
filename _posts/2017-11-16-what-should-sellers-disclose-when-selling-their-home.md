@@ -1,14 +1,15 @@
 ---
 layout: post
 title: What Should Sellers Disclose When Selling Their Home?
-date: 2017-11-16 15:17:57
+date: 2017-11-16 15:17:00
 tags:
   - Home Seller Tips
 excerpt: >-
   If you’re a seller and you’re unsure of what you should disclose, don’t hold
   back. Full disclosures or your home’s defects will protect you from future
   legal claims.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/videos/San+Diego+Real+Estate-+How+Much+Should+you+Disclose.mp4
 pullquote: 'When in doubt, disclose.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -22,7 +23,7 @@ youtube_code: 'https://youtu.be/0aj2O6-MYn0'
 
 When it comes to real estate transactions, sellers have a legal obligation to disclose past and current defects of their home to potential buyers. How far does this obligation go, though?
 
-On one hand, sellers want to minimize the negative disclosures that may affect their ability to sell their home for maximum profit. Buyers, on the other hand, want to know exactly what they’re buying so they can estimate potential repair expenses and negotiate the purchase price accordingly.<br><br>**Whether you’re buying or selling, it’s a good idea to understand the basics of real estate disclosures.&nbsp;**There are required disclosures such as water damage, mold, termite damage, cracks in the foundation, leaks in the roof, and issues with any appliances or mechanical systems. You also must disclose previous repairs and renovations and any potential environmental dangers.
+On one hand, sellers want to minimize the negative disclosures that may affect their ability to sell their home for maximum profit. Buyers, on the other hand, want to know exactly what they’re buying so they can estimate potential repair expenses and negotiate the purchase price accordingly.<br><br>**Whether you’re buying or selling, it’s a good idea to understand the basics of real estate disclosures.**There are required disclosures such as water damage, mold, termite damage, cracks in the foundation, leaks in the roof, and issues with any appliances or mechanical systems. You also must disclose previous repairs and renovations and any potential environmental dangers.
 
 {% include pullquote.html %}
 
