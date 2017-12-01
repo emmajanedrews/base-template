@@ -20,7 +20,7 @@ youtube_code: wDmDJbR7bZE
 {% include youtube.html %}
 {: .present-before-paste}
 
-Development, education, and training are very important as a real estate agent. My team and I travel through the country to meet top producers and learn how to grow our business.
+Development, education, and training are very important as a real estate agent. My team and I travel throughout the country to meet top producers and learn how to grow our business.
 {: .present-before-paste}
 
 There are a few different things you can do to improve your mindset, get educated, and grow your business.
@@ -59,7 +59,7 @@ After you’ve visited the agent on site, call them up and ask about their habit
 If you can’t afford to travel around on your own, there are many different real estate seminars that you can attend. You can pay about $800 and get an entire week of real estate education. If you’re not sure which conference to go to, I’ll invite you to one of our next ones.
 {: .present-before-paste}
 
-**Books are another great training resource.** I prefer to listen to audiobooks. I listen to about an hour a day, take notes, and read the notes again later. I share all of these resources with my team.
+**Books are another great training resource.** I prefer to listen to audiobooks. I listen to them for about an hour a day, take notes, and read the notes again later. I share all of these resources with my team.
 {: .present-before-paste}
 
 I also provide coaching to my team. We change up our coach every six months to a year. If we want to learn about geographic farming, then we’re going to coach with someone who mails to 10,000 homes every month.
