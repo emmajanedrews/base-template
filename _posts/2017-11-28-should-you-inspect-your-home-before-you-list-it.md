@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Should You Inspect Your Home Before You List It?
-date: 2017-11-28 14:35:31
+date: 2017-11-28 14:35:00
 tags:
   - Home Seller Tips
 excerpt: Are pre-inspections a good idea if you’re a home seller? Not necessarily.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Are%2520pre-inspections%2520a%2520good%2520idea%253F.mp4
 pullquote: Pre-inspections aren’t necessarily a good idea.
 enclosure_type: video/mp4
 enclosure_time:
