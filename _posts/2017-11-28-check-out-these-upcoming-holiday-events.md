@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Check Out These Upcoming Holiday Events
-date: 2017-11-28 14:44:08
+date: 2017-11-28 14:44:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/holiday-events-youtube.jpg
-youtube_code: PCLK6aJ6nAA
+youtube_code: 6CcbmBGrQ9I
 ---
 
 
@@ -22,7 +22,7 @@ youtube_code: PCLK6aJ6nAA
 
 If you’re in the Delaware Beach area, here’s a list of some awesome holiday events we have coming up.
 
-**Winter Wonderfest:** Take pictures with Santa, visit his workshop, ice skate, and more at the Lewis Ferry Terminal Grounds on November 17 through January 1.
+**Winter Wonderfest:** Take pictures with San ta, visit his workshop, ice skate, and more at the Lewis Ferry Terminal Grounds on November 17 through January 1.
 
 **Holiday Wreath Workshops:** Held at the University of Delaware Botanic Gardens on November 30 from 5:30 p.m. to 8:30 p.m., this event costs $45, and you must register by emailing [BotanicGardens@udel.edu](javascript:void(location.href='mailto:'+String.fromCharCode(66,111,116,97,110,105,99,71,97,114,100,101,110,115,64,117,100,101,108,46,101,100,117))).
 
