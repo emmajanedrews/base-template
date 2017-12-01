@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Keep Your Home Safe This Winter With These 4 Tips
-date: 2017-11-30 13:17:14
+date: 2017-11-30 13:17:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,15 +14,15 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: C5e4TvW7EGk
+youtube_code: hWjf3xoePQ4
 ---
 
 
 {% include youtube.html %}
 
-Now that we’ve seen the temperatures dip closer to zero degrees and we’ve seen our first snowfall, here are a few items to take into consideration to protect your home from the effects of winter weather if you haven’t already.&nbsp;
+Now that we’ve seen the temperatures dip closer to zero degrees and we’ve seen our first snowfall, here are a few items to take into consideration to protect your home from the effects of winter weather if you haven’t already.
 
-First, **call your local HVAC company to inspect and service your furnace** to make sure it’s running at optimal efficiency. If you have electric baseboards, you can also turn them on and make sure all registers are producing heat. If they aren’t, call a local electrician to visit your home and make sure all wires are connected properly.&nbsp;
+First, **call your local HVAC company to inspect and service your furnace** to make sure it’s running at optimal efficiency. If you have electric baseboards, you can also turn them on and make sure all registers are producing heat. If they aren’t, call a local electrician to visit your home and make sure all wires are connected properly.
 
 Second, examine all your gutters and make sure they’re clear of all debris or leaves. This will prevent any water blockage once spring arrives.
 
@@ -30,6 +30,6 @@ Second, examine all your gutters and make sure they’re clear of all debris or 
 
 Third, remove the screens from all of your windows. This will allow 30% to 40% more natural light to enter your home, which will give it more solar heat and make it more energy-efficient.
 
-Finally, **shut off all water valves connected to your outdoor spigots and store away any water hoses.** This will prevent any water breaks or leaks your home might incur if anything freezes. This will also spare your hoses from any cracking.&nbsp;
+Finally, **shut off all water valves connected to your outdoor spigots and store away any water hoses.** This will prevent any water breaks or leaks your home might incur if anything freezes. This will also spare your hoses from any cracking.
 
-If you have any more questions about protecting your home this winter, you’re curious about what’s happening in our West Fargo market, or you’d like a list of &nbsp;vendors I use on a day-to-day basis, don’t hesitate to give me a call or send me an email. I’d be glad to help you.
+If you have any more questions about protecting your home this winter, you’re curious about what’s happening in our West Fargo market, or you’d like a list of  vendors I use on a day-to-day basis, don’t hesitate to give me a call or send me an email. I’d be glad to help you.
