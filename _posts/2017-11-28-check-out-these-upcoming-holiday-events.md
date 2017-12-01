@@ -28,8 +28,8 @@ If you’re in the Delaware Beach area, here’s a list of some awesome holiday 
 
 {% include pullquote.html %}
 
-**Christmas Tour of Lewes:** On December 2 from 10 a.m. to 4 p.m., go on a self-guided tour through Lewes’ historic downtown. For more information, visit [www.HistoricLewes.org](http://www.HistoricLewes.org){: target="_blank"}.
+**Christmas Tour of Lewes:** On December 2 from 10 a.m. to 4 p.m., go on a self-guided tour through Lewes’ historic downtown. For more information, visit [www.HistoricLewes.org](http://www.HistoricLewes.org).
 
-**Rohoboth Beach Hometown Christmas Parade:** December 5 at 6:30 p.m. Santa’s Christmas Party will take place afterward at the Rohoboth Beach fire station.
+**Rehoboth Beach Hometown Christmas Parade:** December 5 at 6:30 p.m. Santa’s Christmas Party will take place afterward at the Rehoboth Beach fire station.
 
 Hope to see you out there! If you have any questions about buying or selling real estate at the Delaware Beaches, please reach out to us. We’ll be happy to help you out.
