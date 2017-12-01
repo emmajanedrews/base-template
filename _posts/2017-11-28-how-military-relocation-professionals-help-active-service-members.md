@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Military Relocation Professionals Help Active Service Members
-date: 2017-11-28 10:02:14
+date: 2017-11-28 10:02:00
 tags:
   - Real Estate
 excerpt: >-
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/bryan-david--mrp-youtube.jpg
-youtube_code: 'https://youtu.be/L77C7_A6l-M'
+youtube_code: 'https://youtu.be/Pu7Eqh4h_Wk'
 ---
 
 
