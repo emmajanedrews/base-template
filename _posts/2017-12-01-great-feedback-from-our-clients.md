@@ -19,7 +19,7 @@ youtube_code: JWRN1W9E5IA
 
 {% include youtube.html %}
 
-I’ve been getting a lot of great feedback from a lot of you recently so I wanted to take some time to answer a few of the most common questions I keep seeing. Here are five important questions with five (equally as important) answers.
+I’ve been getting a lot of great feedback from a lot of you recently, so I wanted to take some time to answer a few of the most common questions I keep seeing. Here are five important questions with five (equally as important) answers.
 
 **1. What are closing costs and who pays them?** Closing costs are paid by both the buyer and the seller. They include, but are not limited to, title fees, insurance fees, HOA dues, attorney fees, and escrow application fees.
 
