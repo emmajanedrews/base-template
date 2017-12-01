@@ -26,9 +26,9 @@ We continued to see home prices rise this year. October specifically was a slowe
 
 **Home values keep going up, and we’re still seeing low inventory** as well, which I think is part of the reason for those values. Through the first 10 months of the year, the number of home sales went up 9%, which is awesome.
 
-**Homes sold in the $500,000 range increased 40% in October.** For those homes over one million dollars, there were three sold, which makes that percentage quite high.
-
 {% include pullquote.html %}
+
+**Homes sold in the $500,000 range increased 40% in October.** For those homes over one million dollars, there were three sold, which makes that percentage quite high.
 
 Attached in the video is a chart of home sales by municipality where you can see the number of units sold, average sale price, and average price per square foot for each municipality. If you want to know something more specific about that, just shoot me an email.
 
