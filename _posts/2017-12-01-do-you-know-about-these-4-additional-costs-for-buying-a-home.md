@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/no-pb-5.jpg
-youtube_code: zdl4jrWON6g
+youtube_code: rJkt-htzPY4
 ---
 
 
@@ -37,4 +37,4 @@ Here’s a breakdown of four additional costs to expect when you’re buying a h
 
 **4. The immediate costs.&nbsp;**You may be able to put off certain renovations and new furniture purchases, but there are some costs that new homeowners will face right away. Having your locks changed is one example of this. As a homeowner, you’ll now also be on the hook for routine and unexpected maintenance costs. Be sure to have funds ready in case of emergencies.
 
-If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
