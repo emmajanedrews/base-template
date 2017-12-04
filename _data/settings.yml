@@ -14,15 +14,15 @@ client:
 
     In addition, offering a unique TEAM approach – where we have specialized roles in each step of the process —ensures an unparalleled expertise and customer service experience. We know that real estate transactions can be stressful and of great financial value to our clients—it is important to work with full time professionals with your best interest at heart!
   market: Central Iowa
-  brand: The Misty SOLDwisch Home Selling Team
-  brokerage: Better Homes and Gardens Real Estate Innovations
-  address: 9325 Bishop Dr., Suite 110<br>West Des Moines, IA 50266
-  phone: 515-346-6204
+  brand: Better Homes and Gardens Real Estate Innovations
+  brokerage: 
+  address: 117 East Salem Avenue<br>Indianola, IA 50125
+  phone: 515-346-6803
   phone_type:
   phone2:
   phone2_type:
-  email: misty@mistysold.com
-  url: http://mistysold.searchcentraliowahomes.com
+  email: Misty@MistySOLD.com
+  url: http://MistySold.SearchCentralIowaHomes.com
 
 CTAs:
   # first_CTA_text: Home Valuation
@@ -64,7 +64,7 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url: http://www.facebook.com/MistySOLDTeam
+  facebook_url: https://www.facebook.com/BeBetterDSM/
   linkedin_url: http://www.linkedin.com/in/mistysold/
   gplus_url: https://plus.google.com/u/1/106768285720937357777
   youtube_url: https://www.youtube.com/user/mistysold
