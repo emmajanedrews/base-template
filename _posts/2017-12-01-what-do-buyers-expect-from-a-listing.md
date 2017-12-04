@@ -26,7 +26,7 @@ When it comes to preparing your home for the market, the most basic thing you ne
 
 So, what about upgrades to your property? If you are thinking about selling at some point later on, there are a few ways you can prepare now.&nbsp;
 
-One upgrade that will definitely attract buyers is the installation of a smart thermostat. Smart thermostats allow you to remotely control heating and cooling in your home, and aren’t that much more expensive than a normal thermostat. Also, home surveillance systems can be a big plus.
+One upgrade that will definitely attract buyers is the installation of a smart thermostat. Smart thermostats allow you to remotely control heating and cooling in your home and aren’t that much more expensive than a normal thermostat. Also, home surveillance systems can be a big plus.
 
 {% include pullquote.html %}
 
