@@ -28,11 +28,11 @@ We continued to see home prices rise this year. October specifically was a slowe
 
 {% include pullquote.html %}
 
-**Homes sold in the $500,000 range increased 40% in October.** For those homes over one million dollars, there were three sold, which makes that percentage quite high.
+**Homes sold in the $500,000 range increased 40% in October.** For those homes over $1 million, there were three sold, which makes that percentage quite high.
 
 Attached in the video is a chart of home sales by municipality where you can see the number of units sold, average sale price, and average price per square foot for each municipality. If you want to know something more specific about that, just shoot me an email.
 
-Average days on market for the whole Memphis area was 60 days, though **our team’s average was 42.**
+The average days on market for the whole Memphis area was 60 days, though **our team’s average was 42.**
 
 We’re still seeing multiple offers, and it’s still a great time of year to start listing.
 
