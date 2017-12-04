@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 3 Reasons to List This Holiday Season
-date: 2017-12-01 15:13:51
+date: 2017-12-01 15:13:00
 tags:
   - Home Seller Tips
 excerpt: >-
   If you have been thinking of listing your home, don’t wait until spring. I’d
   like to share three reasons why the holidays are a great time of year to sell.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Joe+DeSane/Palm+Beach+County+Real+Estate-+Are+Holiday+Listings+a+Good+Idea%253F.mp4
 pullquote: The holidays are a great time of year to sell your home.
 enclosure_type: video/mp4
 enclosure_time:
