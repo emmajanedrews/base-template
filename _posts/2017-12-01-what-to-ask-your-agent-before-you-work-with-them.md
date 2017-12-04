@@ -26,7 +26,7 @@ When you’re evaluating an agent to see if they’re the right fit for you and 
 2. **What type of support staff and resources do they have?** Managing a transaction is a big task. Do they have access to an in-house attorney? Do they have other trustworthy professionals that they can recommend you to, like a lender, an inspector, painters, landscapers, etc.?<br>{% include pullquote.html %}
 3. **How are they going to keep you informed during the transaction?**It’s good to know what you can expect from them as far as communication goes throughout the whole transaction. You don’t want to be left wondering where your agent is!
 4. **Do they require a pre-approval before going out to look at homes?** More seasoned agents will make sure you have your ducks in a row. They’ll be more than happy to help you get in touch with a great lender, and to make sure that you’re only looking at houses that work just for your budget.
-5. Ultimately, you’ll be signing a buyer agency agreement with them.\*\* Is your agent willing to go over the entire agreement with you?\*\* What happens if they’re not working as hard as they can for you? Can you get out of it, or are you stuck with them?
+5. Ultimately, you’ll be signing a buyer agency agreement with them.&nbsp;**Is your agent willing to go over the entire agreement with you?**&nbsp;What happens if they’re not working as hard as they can for you? Can you get out of it, or are you stuck with them?
 
 Before you come to a final decision about choosing an agent, see what their past clients say about them. You can look on Zillow, Google, Yelp, and you can even ask them for references. They may have testimonials on their website or past clients you can call and speak to.
 
