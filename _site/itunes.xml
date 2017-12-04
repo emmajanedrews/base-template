@@ -7,13 +7,13 @@
     <description>A Podcast about London Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</description>
     <language>en</language>
     <managingEditor>Ben Taylor</managingEditor>
-    <lastBuildDate>2017-11-22 15:46:45 -0600</lastBuildDate>
+    <lastBuildDate>2017-12-04 10:47:15 -0600</lastBuildDate>
     <media:copyright>Ben Taylor</media:copyright>
     <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
     <media:keywords>London Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
-      <itunes:email></itunes:email>
+      <itunes:email>ben.taylor@kwuk.com</itunes:email>
       <itunes:name>Ben Taylor</itunes:name>
     </itunes:owner>
     <itunes:author>Ben Taylor</itunes:author>

@@ -10,38 +10,41 @@ client:
   name: Ben Taylor
   license_number:
   about_markdown: |
-
+    Our philosophy is based on the premise that if we focus on building our agents’ businesses, the agents in turn will build the company. We are undertaking an ambitious expansion of our offer across the UK, and to do this we need to recruit high calibre and equally ambitious estate agents across the country.
   market: London
-  brand: Keller Williams Prime
+  brand: Keller Williams
   brokerage:
-  address:
-  phone:
+  address: 16 Berkeley Street, Mayfair London, W1J 8DZ
+  address_type: Keller Williams Prime Properties
+  address2: Suite 11, The Tannery, Kirktstall Road Leeds, LS3 1HS
+  address2_type: Keller Williams Leeds
+  phone: 0207 0783939
   phone_type:
   phone2:
   phone2_type:
-  email:
+  email: ben.taylor@kwuk.com
   url: http://kwuk.com
 
 CTAs:
-  first_CTA_text: Request a Consultation
-  first_CTA_URL: /contact/
-  # second_CTA_text: Home Search
-  # second_CTA_URL: /homesearch/
+  first_CTA_text: Careers
+  first_CTA_URL: http://kwuk.com/careers.html
+  second_CTA_text: Contact
+  second_CTA_URL: http://kwuk.com/contact.html
   VR_form:
 
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/004.jpg
+  - CTA_image_path: /img/cta-images/003.jpg
     CTA_title: "Looking to Build Your Real Estate Career?"
     CTA_text: "Let's talk about how we can take your business to new heights."
-    CTA_link_text: "Request a Free Strategy Session"
-    CTA_url: /contact/
+    CTA_link_text: "Join the KW Family"
+    CTA_url: http://kwuk.com/careers.html
 
-# second_sidebar_CTA:
-#   - CTA_image_path2: /img/cta-images/005.jpg
-#     CTA_title2: "Looking for a -- MARKET -- Home?"
-#     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-#     CTA_link_text2: "Search the MLS"
-#     CTA_url2: /homesearch/
+second_sidebar_CTA:
+  - CTA_image_path2: /img/cta-images/006.jpg
+    CTA_title2: "Get in touch with us"
+    CTA_text2: "Whether you are buying, selling, a tenant or a landlord, get in touch with us to discuss your property requirements."
+    CTA_link_text2: "Contact Us"
+    CTA_url2: http://kwuk.com/contact.html
 
 lender:
   show_section: false
@@ -62,8 +65,8 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url: https://www.linkedin.com/in/ben-taylor-4a6bab23/
-  linkedin_url:
+  facebook_url: https://www.facebook.com/kwprimeofficial/
+  linkedin_url: https://www.linkedin.com/in/ben-taylor-4a6bab23/
   gplus_url:
   youtube_url:
   twitter_url: https://twitter.com/KWPrime_
