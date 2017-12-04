@@ -25,7 +25,7 @@ youtube_code: zKX4QZBNjVc
 
 {% include youtube.html %}
 
-Did you know that between 1997 and 2014,** homes within a quarter of a mile of a Starbucks rose in value by 96%?**
+Did you know that between 1997 and 2014, **homes within a quarter of a mile of a Starbucks rose in value by 96%?**
 
 Well today, I’d like to tell you about another great coffee shop: Heroes Coffee. Heroes has been open for just about a month in downtown Bentonville.
 
