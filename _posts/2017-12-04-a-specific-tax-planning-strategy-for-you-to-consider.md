@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Specific Tax Planning Strategy for You to Consider
-date:
+date: 2017-12-04 14:54:06
 tags:
 excerpt: >-
   I have a really great tax planning strategy for you today. Here’s how it
