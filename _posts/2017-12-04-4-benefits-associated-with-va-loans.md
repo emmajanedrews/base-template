@@ -1,16 +1,19 @@
 ---
 layout: post
 title: 4 Benefits Associated With VA Loans
-date:
+date: 2017-12-04 15:24:56
 tags:
-excerpt:
+  - Home Buyer Tips
+excerpt: >-
+  Here are four points highlighting the benefits of VA loans for those who
+  qualify.
 enclosure:
-pullquote:
+pullquote: Veterans can essentially go to the closing table with no money down
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+use_youtube_image: false
+youtube_alternate_image: /uploads/bryan-david--va-loan-youtube.jpg
+youtube_code: 'https://youtu.be/_eiIa9ryDXo'
 ---
 
 
