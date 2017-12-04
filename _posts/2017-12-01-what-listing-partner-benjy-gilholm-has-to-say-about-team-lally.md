@@ -29,6 +29,6 @@ Benjy took note of our good reputation and decided to make the switch. What ulti
 
 As a listing partner for our team, Benjy specializes in getting listing agreements signed and properties sold.
 
-The thing he most enjoys about working with Team Lally is our atmosphere. According to him, “we create great experiences.”
+The thing he most enjoys about working with Team Lally is our atmosphere. According to him, “We create great experiences.”
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
