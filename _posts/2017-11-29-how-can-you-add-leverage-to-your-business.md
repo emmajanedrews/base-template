@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/leveraging-video-3-youtube.jpg
-youtube_code: vbGsjGv0Bu8
+youtube_code: fI-9_6VIb4k
 ---
 
 
