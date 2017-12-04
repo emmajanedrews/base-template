@@ -33,7 +33,7 @@ Nationally, the market is up 6.3% in 2017, with Fannie Mae predicting about 5% a
 * Hartford County: The market is up 2.1% year to date, and the average sale price is up to $245,000.
 * Baltimore City: The market is up 3.9% year to date, and the average sale price is $135,000.
 
-As you can see, most homeowners in the Baltimore metro are continuing to build steady equity on a year-by-year basis.** Look for this trend to continue, and also look for homeowners to start cashing in on this equity.**
+As you can see, most homeowners in the Baltimore metro are continuing to build steady equity on a year-by-year basis.\*\* Look for this trend to continue, and also look for homeowners to start cashing in on this equity.\*\*
 
 {% include pullquote.html %}
 
