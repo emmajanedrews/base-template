@@ -27,4 +27,4 @@ We’ll be serving hot chocolate and treats, and you’ll also have the chance t
 
 {% include pullquote.html %}
 
-We’re very excited to have all of our friends and family join us, and we’d love it if you came to. If you have any questions, don’t hesitate to reach out to us. Until then, Happy Holidays!
+We’re very excited to have all of our friends and family join us, and we’d love it if you came too. If you have any questions, don’t hesitate to reach out to us. Until then, happy holidays!
