@@ -9,7 +9,7 @@ excerpt: >-
   with our No.1 associate, Julie Hopkins, and her assistant Niki Thomas.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Nancy+Seraphin/+Videos/2017/November/Park+City+Real+Estate+Careers-+How+Can+You+Add+Leverage+to+Your+Business%253F.mp4
-pullquote: Nikki and Julie’s day-to-day focus is always changing.
+pullquote: Niki and Julie’s day-to-day focus is always changing.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
