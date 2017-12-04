@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Make Your Holiday Season Fun With Our Activity Guide
-date: 2017-11-30 09:35:30
+title: Make Your Season Fun With Our Holiday Guide
+date: 2017-11-30 09:35:00
 tags:
 excerpt: >-
   Today, I want to help you get into the holiday spirit. Sometimes it gets a
@@ -39,26 +39,6 @@ Info: CityPlace
 **Ongoing**: Holiday Tree at Mizner Park—Mizner Park Amphitheatre, Boca Raton.
 
 Info: 561-393-7995.
-
-**November 28:&nbsp;**Harbourside Place Tree Lighting, 6 p.m. to 10 p.m. With Santa, performances, games, and crafts.
-
-Info: 561-935-9533.
-
-**December 1:** Worth Avenue Christmas Tree Lighting, 6 p.m. to 9 p.m. Parade with Santa and tree lighting at 6:29 p.m. Hibiscus and Worth Avenue.
-
-Info: 561-659-6909
-
-**December 3:** West Palm Beach Holiday Tree Lighting—The Great Lawn at the Waterfront. 101 N. Flagler Drive, West Palm Beach. 6 p.m. The country group Parmalee will perform as well as Wellington’s Emily Brooke, an “American Idol” contestant. That kicks off a month of fun, with the big 600-ton “Sandi” sand tree, complete with a light and music show, glow-in-the-dark mini golf, and more events along the downtown waterfront.
-
-Info: 561-822-1515.
-
-**December 5:** Martin County Boat Parade—A festival takes place in Sandsrit Park, 3343 SE St. Lucie Blvd., Stuart.
-
-Info: 772-692-7599.
-
-**December 5:** Palm Beach Holiday Boat Parade—North Palm Beach to the Jupiter Lighthouse.
-
-Info: 561-863-0012.
 
 **December 5-12 and December 14-16:** Festival of Trees—Ann Norton Sculpture Gardens, 2051 S. Flagler Drive, West Palm Beach. Admission is $15 for members and seniors, $20 for non-member adults, and $7 for children.
 
