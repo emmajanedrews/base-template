@@ -23,7 +23,7 @@ youtube_code: 'https://youtu.be/NGw9D7fczy8'
 
 Today I want to answer a question I’m asked at every listing appointment: “Are you going to accompany every showing?”<br><br>The first reason why I would say it’s important to allow both a buyer and a buyer’s agent to have privacy in a home is **that they can speak freely with their agent about that property.** This is a very important time during which the agent showing the property can get honest feedback from the buyer.
 
-**If the listing agent or the homeowner were present, the buyer might feel uncomfortable.**They might be less prone to the emotional experience that will make a buyer interested in your home, possibly hindering the sale. Give them privacy and enough time to feel the home.
+**If the listing agent or the homeowner were present, the buyer might feel uncomfortable.&nbsp;**They might be less prone to the emotional experience that will make a buyer interested in your home, possibly hindering the sale. Give them privacy and enough time to feel the home.
 
 If we, the listing agents, call the buyer’s agent to ask for feedback, we will get it. With the seller present, the buyer might not say as much—or say nothing at all—and they may move on to other properties and forget yours entirely.
 
