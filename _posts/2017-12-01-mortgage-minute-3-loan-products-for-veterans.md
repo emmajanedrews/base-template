@@ -23,7 +23,7 @@ Today I’m joined by special guest Trever Kerr from Gateway Mortgage for our th
 
 Our topic this time is VA loans. The VA loan is an amazing loan product helping veterans afford homes. As many people know, the product is 100% financing. But the best thing about VA loans is that there’s no monthly mortgage insurance charge.&nbsp;
 
-Usually when you put down anything less than 20% on a home, you will be required to pay a monthly mortgage insurance fee. However, this is not the case with the VA loan. **The VA loan is 0% down and doesn’t charge any monthly premium. This creates a great savings**.&nbsp;
+Usually when you put down anything less than 20% on a home, you will be required to pay a monthly mortgage insurance fee. However, this is not the case with the VA loan. **The VA loan is 0% down and doesn’t charge any monthly premium. This creates great savings**.&nbsp;
 
 Most veterans I’ve come across have the assumption that they can only make use of the VA loan once in their lifetime. While it’s true that the VA loan can only be used for primary residences, there are instances where it can be used twice. As long as the amount spent on the home is over $144,001, the VA loan may be used twice. It seems like an unusual number, but it’s simply the way things have been set up.&nbsp;
 
@@ -33,7 +33,7 @@ That aside, there are other benefits to this loan product. **Veterans with a dis
 
 {% include pullquote.html %}
 
-With this loan, Trever and I have literally helped to put veterans into homes with next to nothing. Sometimes, they even get a small amount of money back at the closing table.&nbsp;
+With this loan, Trever and I have helped to put veterans into homes with next to nothing. Sometimes, they even get a small amount of money back at the closing table.&nbsp;
 
 Locally, the Texas Vet Program is an amazing extension of the VA loan. **This program does charge a participation fee, but ultimately saves thousands in the long-term for veterans**.&nbsp;
 
