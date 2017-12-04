@@ -1,108 +1,119 @@
 audit_header: false
 title: Glendale Real Estate Careers and Training Video Blog with Nate Martinez
-description: A Video Blog about Glendale Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!
+description: >-
+  A Video Blog about Glendale Real Estate; It's industry, and the people working
+  in it. Whether you're just starting out, aspiring to begin, or been working in
+  the field for a few years, tune in to get updates, tips, tricks and more!
 show_custom_links: true
 custom_links:
   - title: RE/MAX Advantage
-    url: http://www.joinrmxprofessionals.com/RE/MAX-Advantage
+    url: 'http://www.joinrmxprofessionals.com/RE/MAX-Advantage'
   - title: Why RE/MAX?
-    url: http://www.joinrmxprofessionals.com/Why-RE/MAX
+    url: 'http://www.joinrmxprofessionals.com/Why-RE/MAX'
   - title: Get to Know Us
-    url: http://www.joinrmxprofessionals.com/Get-to-Know-Us
-
+    url: 'http://www.joinrmxprofessionals.com/Get-to-Know-Us'
 client:
   name: Nate Martinez
   license_number:
-  about_markdown: |
-    Nate has been selling real estate in the Valley of the Sun for nearly thirty years. He is the co-owner of RE/MAX Professionals, founded in 2001 and has six valley locations in Glendale, Surprise, Anthem, Arrowhead Ranch, Avondale, and Sun City West.
+  about_markdown: >-
+    Nate has been selling real estate in the Valley of the Sun for nearly thirty
+    years. He is the co-owner of RE/MAX Professionals, founded in 2001 and has
+    six valley locations in Glendale, Surprise, Anthem, Arrowhead Ranch,
+    Avondale, and Sun City West.
 
-    Nate believes in education and giving back to the real estate industry. His designations include ABR, CRS, GRI, CDPE, CIAS, CLHS, CRP, e-PRO and SFR Each year, Nate attends numerous seminars and training events across the country. As a guest speaker, Nate has been able to train hundreds of real estate professionals, while also learning from some of the best agents in the industry.
-  market: Glendale
+
+    Nate believes in education and giving back to the real estate industry. His
+    designations include ABR, CRS, GRI, CDPE, CIAS, CLHS, CRP, e-PRO and SFR
+    Each year, Nate attends numerous seminars and training events across the
+    country. As a guest speaker, Nate has been able to train hundreds of real
+    estate professionals, while also learning from some of the best agents in
+    the industry.
+  market: Valley of the Sun
   brand: RE/MAX Professionals
   brokerage:
-  address: 7111 W. Bell Rd. Suite 101<br>Glendale, AZ 85308
+  address: '7111 W. Bell Rd. Suite 101<br>Valley of the Sun, AZ 85308'
   phone: 602-942-7000
   phone_type:
   phone2:
   phone2_type:
   email: info@NatesHomes.com
-  url: http://NatesHomes.com
-
+  url: 'http://NatesHomes.com'
 CTAs:
   first_CTA_text: Request a Consultation
   first_CTA_URL: /contact/
-  # second_CTA_text: Home Search
-  # second_CTA_URL: http://www.natemartinezteam.com/
-  VR_form: http://oi.vresp.com?fid=c69c2f7dc8
-
+  VR_form: 'http://oi.vresp.com?fid=c69c2f7dc8'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/006.jpg
     CTA_title: Looking to Build Your Real Estate Career?
     CTA_text: Let's talk about how we can take your career to the next level?
     CTA_link_text: Join RE/MAX Professionals Today!
-    CTA_url: http://www.joinrmxprofessionals.com/Join-Today
-
+    CTA_url: 'http://www.joinrmxprofessionals.com/Join-Today'
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
+  headshot_path: 'http://fillmurray.com/200/200'
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: http://eyegoop.com
-
+  url: 'http://eyegoop.com'
 welcome_box:
   welcome_headline: How to Sell More Homes
   welcome_text_markdown: >
-    Whether you are just starting out, or you are licensed Broker, our team of professionals can answer any questions you might have about real estate. Subscribe to this blog to get the latest news on local market trends and receive expert tips for buying or selling a home.
-
+    Whether you are just starting out, or you are licensed Broker, our team of
+    professionals can answer any questions you might have about real estate.
+    Subscribe to this blog to get the latest news on local market trends and
+    receive expert tips for buying or selling a home.
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/REMAXProfessionalsAZ
-  linkedin_url: http://www.linkedin.com/in/natemartinez
-  gplus_url: https://plus.google.com/110224445429180454577
-  youtube_url: https://www.youtube.com/user/natemartinez8
-  twitter_url: http://twitter.com/NateMartinez
+  facebook_url: 'https://www.facebook.com/REMAXProfessionalsAZ'
+  linkedin_url: 'http://www.linkedin.com/in/natemartinez'
+  gplus_url: 'https://plus.google.com/110224445429180454577'
+  youtube_url: 'https://www.youtube.com/user/natemartinez8'
+  twitter_url: 'http://twitter.com/NateMartinez'
   instagram_url:
   pinterest_url:
-  zillow_url: http://www.zillow.com/profile/Nate-Martinez/
-  trulia_url: https://www.trulia.com/profile/nate-martinez-agent-glendale-az-zgwmjqkx/overview
-  yelp_url: https://www.yelp.com/biz/nate-martinez-re-max-professionals-glendale-2
-  podcast_url: https://itunes.apple.com/us/podcast/glendale-real-estate-careers/id1194698644?mt=2
-
+  zillow_url: 'http://www.zillow.com/profile/Nate-Martinez/'
+  trulia_url: >-
+    https://www.trulia.com/profile/nate-martinez-agent-glendale-az-zgwmjqkx/overview
+  yelp_url: 'https://www.yelp.com/biz/nate-martinez-re-max-professionals-glendale-2'
+  podcast_url: >-
+    https://itunes.apple.com/us/podcast/glendale-real-estate-careers/id1194698644?mt=2
 podcast:
   title: Glendale Real Estate Careers and Training Podcast with Nate Martinez
-  categories: Education
+  categories:
+    - Education
   image: /img/podcast.jpg
-  subtitle: 'Boost your Career with Veteran Real Estate Agent Nate Martinez'
-  description: A Podcast about Glendale Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!
-  keywords: 'Glendale Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make'
-  author: 'Nate Martinez'
-
+  subtitle: Boost your Career with Veteran Real Estate Agent Nate Martinez
+  description: >-
+    A Podcast about Glendale Real Estate; It's industry, and the people working
+    in it. Whether you're just starting out, aspiring to begin, or been working
+    in the field for a few years, tune in to get updates, tips, tricks and more!
+  keywords: >-
+    Glendale Real Estate, Real Estate Careers, Real Estate Professionals,
+    Realtors, Real estate industry, how much do realtors make
+  author: Nate Martinez
 images:
   client_headshot_path: /img/headshot.png
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Careers and Training Video Blog
+  hero_text: '-- MARKET -- Real Estate Careers and Training Video Blog'
   hero_background_hex: '#094264'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#DB1C2D'
-  theme_color: '#054E99'
+  brand_color: '#db1c2d'
+  theme_color: '#054e99'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: "#000"
-
+  shadow_color: '#000000'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
