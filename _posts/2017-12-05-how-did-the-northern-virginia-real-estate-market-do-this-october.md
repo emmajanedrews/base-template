@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Did the Northern Virginia Real Estate Market Do This October?
-date: 2017-12-05 11:44:08
+date: 2017-12-05 11:44:00
 tags:
   - Market Update
 excerpt: >-
@@ -9,8 +9,8 @@ excerpt: >-
   happening as we head toward the end of the year.
 enclosure:
 pullquote: >-
-  How are things in the Northern Virginia real estate market? I have your market
-  update today.
+  If this winter is mild, the spring market can start at the beginning of the
+  year.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
