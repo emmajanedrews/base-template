@@ -2,7 +2,6 @@
 layout: post
 title: How Are Millennial Employees Different?
 tags:
-  - Bio Pharma
   - BioPharma
 excerpt: >-
   Today I’m challenging the negative connotations surrounding millennials in the
