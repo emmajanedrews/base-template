@@ -8,7 +8,8 @@ excerpt: >-
   Today I’m challenging the negative connotations surrounding millennials in the
   workforce by instead pointing out the positive ways they contribute to work
   environments.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Govig/BioPharma/Videos/2017/Misconceptions+About+Millennials.mp4
 pullquote: >-
   Millennials challenge the status quo because they’re always seeking out better
   alternatives.
@@ -16,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: BVw2NzQxgZk
+youtube_code: x-w9mPxfVyk
 ---
 
 
@@ -41,5 +42,3 @@ I once had a supervisor tell me that just because something had always been done
 Finally, **millennials are tech-savvy.** In today’s technology-driven society, this is a great thing. Embracing the knowledge and skills of millennial employees can be greatly beneficial to any business.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
-
-&nbsp;
