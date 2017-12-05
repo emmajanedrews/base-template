@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Top 10 Reasons to Sell During the Fall and Winter
-date: 2017-12-05 10:47:00
+date: 2017-12-05 09:00:00
 tags:
   - Home Seller Tips
 excerpt: >-
