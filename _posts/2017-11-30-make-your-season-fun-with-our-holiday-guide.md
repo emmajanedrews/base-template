@@ -60,10 +60,6 @@ Info: 561-655-2833.
 
 Info: Mandel Jewish Community Center of the Palm Beaches
 
-**December 10:** World-Famous 100-Foot Tree-Lighting Ceremony—Old School Square, 51 N. Swinton Ave., Delray Beach. The tree is open until January 1, with visits with Santa and performances throughout the season.
-
-Info: 561-279-1380.
-
 **December 11:** Boynton Beach Holiday Boat Parade—Boynton Beach Inlet traveling south along the Intracoastal Waterway to the C-15 canal in Delray Beach.
 
 Info: 561-600-9097.
@@ -75,6 +71,10 @@ Info: 561-243-7277.
 **<br>December 12:** Ugly Holiday Sweater Crawl—Visit downtown West Palm Beach bars and restaurants from 2 p.m. to 9 p.m. wearing ugly sweaters and costumes, with drink deals and food specials.&nbsp;
 
 Info and ticket prices: josh@sunfest.com or 561-837-8066.
+
+**December 1st-January 1st:** World-Famous 100-Foot Tree—Old School Square, 51 N. Swinton Ave., Delray Beach. The tree is open until January 1, with visits from Santa and performances throughout the season.
+
+Info: 561-279-1380.
 
 {% include pullquote.html %}
 
