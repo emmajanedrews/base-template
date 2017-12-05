@@ -19,9 +19,9 @@ youtube_code: 0rYSqhqX-m4
 
 {% include youtube.html %}
 
-Today, I’m joined by a special guest to help me explain how first-time homebuyer programs can help you save.
+Today, I’m joined by special guest Rhett Delaney from Movement Mortgage to help me explain how first-time homebuyer programs can help you save.
 
-But, who qualifies as a first-time homebuyer? According to our special guest, Rhett Delaney from Movement Mortgage, **a first-time homebuyer is anyone who hasn’t owned a home in the last three years.** There are a lot of different programs out there to fit people who fall under this qualification.
+But, who qualifies as a first-time homebuyer? According to Rhett, **a first-time homebuyer is anyone who hasn’t owned a home in the last three years.** There are a lot of different programs out there to fit people who fall under this qualification.
 
 These programs include grants, non-interest bearing loans, and also something called Florida’s Hardest Hit Program, which can provide up to $15,000 toward closing costs for first-time homebuyers.
 
