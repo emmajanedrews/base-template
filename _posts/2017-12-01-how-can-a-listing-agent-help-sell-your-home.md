@@ -26,7 +26,7 @@ A lot of people call us because they are trying to sell their home on their own.
 
 As agents, we explain to these sellers that it’s incredibly important to have the house on the MLS. It’s also important to market the home to other Realtors so that they can bring buyers to your property.&nbsp;
 
-**For Sale By Owner sellers often don’t realize how important marketing is**. Most only budget a couple hundred dollars to market their home.&nbsp;
+**For Sale By Owner sellers often don’t realize how important marketing is**. Most only budget a couple hundred dollars toward marketing their home.&nbsp;
 
 That simply isn’t enough. It’s very important to bring buyers and agents from outside of the area to your property, and listing agents can do that. You don’t want to keep your niche so small that you’re only marketing to your local community. A good listing agent will bring in buyers from out of the area and provide information about your community to them.&nbsp;
 
