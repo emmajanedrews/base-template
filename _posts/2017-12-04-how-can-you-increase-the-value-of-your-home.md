@@ -21,9 +21,9 @@ youtube_code: g_M22DPV660
 
 What can you do to increase the value of your home?
 
-Dan recently reached out to us and asked us this question. If you have any questions about real estate, please reach out to us. We would love to answer your questions with a video.
+If you plan on selling your home, we want to help you maximize your equity without leaving any money on the table. For any questions about real estate, just give us a call or send us an email. We would love to help you out and answer your questions with a video or directly.
 
-If you plan on selling your home, we want to help you maximize your equity without leaving any money on the table.
+Dan recently reached out to us and asked us this question. If your home is stuck back in the 80s, 70s, or beyond we want to help you maximize your equity without leaving any money on the table.
 
 If your home is stuck back in the 80s, 70s, or beyond, there are some very simple equity updates you can do in order to truly maximize the value of your home once it hits the market.
 
