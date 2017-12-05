@@ -15,7 +15,7 @@ pullquote: 'If you truly love the home, make your best offer from the very start
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/toronto-youtube-1.jpg
 youtube_code: U0zLYN_pEOY
 ---
 
