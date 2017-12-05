@@ -29,6 +29,6 @@ The reason I know this is I talk to buyers every single day, and I watch the amo
 
 **Another important thing I do is gather feedback.**I’m always watching and talking to other agents and getting feedback from them about what their buyers did or what buyers potentially don’t like about your home.
 
-We don’t just list your home and wait for a buyer. We’re always gathering data and gathering feedback so we can make sure your home’s priced right and we can sell it for top dollar in the least amount of time with the least number of hassles.
+We don’t just list your home and wait for a buyer. We’re always gathering data and gathering feedback so we can make sure your home is priced right and we can sell it for top dollar in the least amount of time with the least number of hassles.
 
 If you have any questions about this topic or you’re thinking of buying or selling a home in our market, don’t hesitate to reach out to me. I’d be glad to help you.
