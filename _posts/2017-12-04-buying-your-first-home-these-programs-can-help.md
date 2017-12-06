@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Buying Your First Home? These Programs Can Help
-date: 2017-12-04 14:49:58
+date: 2017-12-04 14:49:00
 tags:
 excerpt: >-
   If you are looking for your first home, there are a few great programs that
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/dee-2--youtube.jpg
-youtube_code: 0rYSqhqX-m4
+youtube_code: JUxOb2P7KL8
 ---
 
 
