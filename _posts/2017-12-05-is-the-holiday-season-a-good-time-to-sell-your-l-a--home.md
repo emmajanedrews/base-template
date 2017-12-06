@@ -25,7 +25,7 @@ Should you sell your home during the holidays?
 
 I’ve been asked this question about four or five times in the last couple of weeks. This is a seller question but if you are serious about putting your home on the market, you need to consider things from the buyer’s perspective.
 
-**B******uyers**who are looking for a home during the holidays tend to be more serious**. They have more time off work to look at homes, and they tend to be very emotional around Christmas and Thanksgiving. Going into escrow during this time can be very emotional for buyers. It’s a great time for them to get into a new home and celebrate the holidays with their family.
+**B****uyers&nbsp;****who are looking for a home during the holidays tend to be more serious.**They have more time off work to look at homes, and they tend to be very emotional around Christmas and Thanksgiving. Going into escrow during this time can be very emotional for buyers. It’s a great time for them to get into a new home and celebrate the holidays with their family.
 
 If you are looking to sell, that can be emotional as well. Your life will be interrupted when your home is on the market. We want to get as many showings for your property as possible. If you plan on having friends and family over for the holidays and you don’t want to be interrupted, then by all means, wait until the new year to put your home on the market.
 
