@@ -15,7 +15,7 @@ youtube_code: 'https://youtu.be/voGMcaSLbM8'
 ---
 
 
-{% include youtube.html %}<br>We have some very exciting news to share with you today. Without further ado, let’s get to it. We want you all to be the first to know that Robbins Real Estate Group is now officially a part of Coldwell Banker Residential Real Estate Brokerage.
+{% include youtube.html %}<br>We have some very exciting news to share with you today. We want you all to be the first to know that Robbins Real Estate Group is now officially a part of Coldwell Banker Residential Real Estate Brokerage.
 
 {% include pullquote.html %}
 
