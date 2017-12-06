@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: Leitner Sarch Consultants LTD Video Blog with -- CLIENT NAME --
 description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -7,20 +7,23 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Danny Sarch
   license_number:
   about_markdown: |
+    Danny Sarch is the President of Leitner Sarch Consultants (<a href="http://www.leitnersarch.com" target="_blank">www.leitnersarch.com</a>), an Executive Search Firm based in White Plains, NY that specializes in the placement of Financial Advisors, Branch Managers, and all types of professionals in the wealth management industry.
+
+    A graduate of the University of Pennsylvania (English, 1984), Danny just celebrated his 33rd anniversary as a search professional and 27th year as the Principal of his own firm.   Danny is an Honorary Lifetime Member  and past president of the Pinnacle Society (www.pinnaclesociety.org) , a national honor society representing 80 of the nation’s top executive recruiters.  Quoted frequently in the trade press, he also is a contributing writer for Investment News with a regular column entitled <a href="http://www.investmentnews.com/section/onrecruiting" target="_blank">“On Recruiting”</a>.
 
   market:
-  brand:
+  brand: Leitner Sarch Consultants LTD
   brokerage:
-  address:
-  phone:
+  address: 55 Church Street, White Plains, NY 10601
+  phone: 914-682-4000
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: danny@leitnersarch.com
+  url: https://www.leitnersarch.com
 
 CTAs:
   first_CTA_text: Home Valuation
@@ -67,7 +70,7 @@ welcome_box:
 socials:
   review_sm_icons: false
   facebook_url:
-  linkedin_url:
+  linkedin_url: https://www.linkedin.com/in/dannysarch/
   gplus_url:
   youtube_url:
   twitter_url:
@@ -96,7 +99,7 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
+  brand_color: '#0C3C60'
   theme_color: '#999'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
