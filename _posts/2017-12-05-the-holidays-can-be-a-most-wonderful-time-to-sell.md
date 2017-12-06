@@ -28,7 +28,7 @@ For some reason, most people think that it’s a really bad time of year to sell
 
 It can be a hectic time for people, with all of the holiday hustle and bustle and other stuff going on. So why would you want to list your house and keep it on the market during that time? In fact, there are a number of reasons, and here are the top 12 you should think about:
 
-**1. Buyers are more serious.** Looky-loos and other potential buyers who aren’t altogether serious about buying won’t be out during this time to look for homes. People who need to buy soon are going to be the ones out looking. This means fewer showings for you, and less trouble getting ready for those showings.
+**1. Buyers are more serious.** Looky-loos and other potential buyers who aren’t altogether serious about buying won’t be out during this time to look for homes. People who need to buy soon are going to be the ones out looking. This means fewer showings for you and less trouble getting ready for those showings.
 
 **2. Less competition.** Those serious buyers that are out looking for homes have fewer options available to them. This means they’re more likely to give you a good offer on the home, which is a really big deal for you, the seller.
 
@@ -50,7 +50,7 @@ It can be a hectic time for people, with all of the holiday hustle and bustle an
 
 **10. You can sell now for more money, and we can provide for a delayed closing,** or extended occupancy, until early next year.
 
-1. By selling now, **you may have the opportunity to be a non-contingent buyer** during the spring, when many more houses are hitting the market at lower prices.
+11. By selling now, **you may have the opportunity to be a non-contingent buyer** during the spring, when many more houses are hitting the market at lower prices.
 
 **12. 28.4% more homes close in December** than they do in January.
 
