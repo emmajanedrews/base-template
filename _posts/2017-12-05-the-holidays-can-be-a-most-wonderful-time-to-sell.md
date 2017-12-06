@@ -50,7 +50,7 @@ It can be a hectic time for people, with all of the holiday hustle and bustle an
 
 **10. You can sell now for more money, and we can provide for a delayed closing,** or extended occupancy, until early next year.
 
-**11. By selling now, **you may have the opportunity to be a non-contingent buyer** during the spring, when many more houses are hitting the market at lower prices.
+11. By selling now, **you may have the opportunity to be a non-contingent buyer** during the spring, when many more houses are hitting the market at lower prices.
 
 **12. 28.4% more homes close in December** than they do in January.
 
