@@ -23,7 +23,7 @@ youtube_code: MuzMIxTjNDA
 
 There are two major changes that will take place in the home lending industry in 2018.
 
-The first is **an increase in lending limits, both locally and nationwide.**Here in San Diego, the lending limit will increase to $679,500. In Riverside, the lending limit is increasing $453,100. This affects conventional conforming loans, FHA loans, and VA loans. This means you’ll be able to buy a bigger, more expensive house in 2018 than you were this year.
+The first is **an increase in lending limits, both locally and nationwide.** Here in San Diego, the lending limit will increase to $679,500. In Riverside, the lending limit is increasing $453,100. This affects conventional conforming loans, FHA loans, and VA loans. This means you’ll be able to buy a bigger, more expensive house in 2018 than you were this year.
 
 The second change is **the introduction of new lending programs.** Today, I’ll list three of those programs.
 
