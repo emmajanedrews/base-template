@@ -34,7 +34,7 @@ Millennials won’t just “go do” things. They want to understand why a given
 
 {% include pullquote.html %}
 
-The second point I’d like to make is that** M****illennials are disruptors. But, why is this a good thing?**
+The second point I’d like to make is that**Millennials are disruptors. But, why is this a good thing?**
 
 I once had a supervisor tell me that it's just because something had always been done one way, it doesn’t mean that the right way. That was a game changer for me. Millennials understand this. They challenge the status quo because they’re seeking out better alternatives.
 
