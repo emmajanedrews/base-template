@@ -27,7 +27,7 @@ When people think of buying a home, they often naturally gravitate towards the s
 
 However, buyer traffic is very heavy in the springtime. In low inventory markets, some of our listings may get as many as 25 to 30 showings over the course of one weekend in the spring. As a buyer looking to buy a home, particularly a first home, it can be intimidating to buy a home in the spring. It may even feel hopeless at times.
 
-<br>The benefit of trying the market in an off-peak season is **that the buyer is able to explore what’s out there without all of the competition.**&nbsp;Shopping for a home in off-peak seasons like fall and winter also increases the likelihood that you will find a home.
+The benefit of trying the market in an off-peak season is **that the buyer is able to explore what’s out there without all of the competition.**&nbsp;Shopping for a home in off-peak seasons like fall and winter also increases the likelihood that you will find a home.
 
 {% include pullquote.html %}
 
