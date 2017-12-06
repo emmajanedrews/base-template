@@ -28,7 +28,7 @@ There is a lot of negativity surrounding the subject of Millennials entering the
 
 First of all, **M****illennials speak up about questions and concerns that past generations did not.&nbsp;**This doesn’t mean they’re entitled, it just means they understand what they need in order to perform and be successful. Many times, Millennials simply want to understand the “why” of what they’re being told to do.
 
-When I first joined the workforce, I wasn’t given that “why.” When I was assigned tasks I was told to just do them, often without clear reason.
+When I first joined the workforce, I wasn’t given that “why.” When I was assigned tasks, I was told to just do them, often without clear reason.
 
 Millennials won’t just “go do” things. They want to understand why a given task is being asked of them, so that they can perform towards the best result.
 
@@ -36,7 +36,7 @@ Millennials won’t just “go do” things. They want to understand why a given
 
 The second point I’d like to make is that** M****illennials are disruptors. But, why is this a good thing?**
 
-I once had a supervisor tell me that its just because something had always been done one way, it doesn’t mean that the right way. That was a game changer for me. Millennials understand this. They challenge the status quo because they’re seeking out better alternatives.
+I once had a supervisor tell me that it's just because something had always been done one way, it doesn’t mean that the right way. That was a game changer for me. Millennials understand this. They challenge the status quo because they’re seeking out better alternatives.
 
 Finally, **M****illennials are tech-savvy.** In today’s technology-driven society, this is a great thing. Embracing the knowledge and skills of Millennial employees can be greatly beneficial to any business.
 
