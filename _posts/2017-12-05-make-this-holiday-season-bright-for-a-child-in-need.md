@@ -27,7 +27,7 @@ Many of you are probably already familiar with this program. But if you aren’t
 
 **Toys for Tots is a program put on by the United States Marine Corps Reserve designed to collect and distribute toys to less fortunate children.**&nbsp;
 
-My team and I want to make it easy for you to help. So if you’d like to contribute, all you have to do is collect a new, unwrapped toy and bring it by our office. We can even pick it up from you, if you like. This program is a great way to give back.
+My team and I want to make it easy for you to help. So if you’d like to contribute, all you have to do is collect a new, unwrapped toy and bring it by our office. We can even pick it up from you if you like. This program is a great way to give back.
 
 However, the deadline is Friday, December 15. If you’d like to participate with us, **please bring your toys by the office by either Wednesday, December 13 or Thursday, December 14 at the latest.**
 
