@@ -1,18 +1,30 @@
 audit_header: false
 title: Elite Home Team
-description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Elite Home Team - your professional Real Estate Agents.'
+description: >-
+  If you are looking to buy or sell a home, get all the information and the
+  latest updates, tips, and tricks from Elite Home Team - your professional Real
+  Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
     url:
-
 client:
   name: Elite Home Team
   license_number:
-  about_markdown: |
-    The Elite Home Team is a powerhouse team made up of top agents and an excellent office staff. The team was put together to offer clients a real estate experience that exceed expectations backed by a guarantee. With individualized buyers' agents and sellers’ agents we can offer additional expertise to help you find your dream home or sell your current home. As part of our comprehensive and specialized team approach, you have a group of full-time and high-octane professionals ready to serve you. One great real estate agent is a beneficial resource but a team of great agents is an invaluable asset that can provide both exemplary service and optimal results. We're always here to answer any questions you may have about buying a new home or selling your current one!
+  about_markdown: >
+    The Elite Home Team is a powerhouse team made up of top agents and an
+    excellent office staff. The team was put together to offer clients a real
+    estate experience that exceed expectations backed by a guarantee. With
+    individualized buyers' agents and sellers’ agents we can offer additional
+    expertise to help you find your dream home or sell your current home. As
+    part of our comprehensive and specialized team approach, you have a group of
+    full-time and high-octane professionals ready to serve you. One great real
+    estate agent is a beneficial resource but a team of great agents is an
+    invaluable asset that can provide both exemplary service and optimal
+    results. We're always here to answer any questions you may have about buying
+    a new home or selling your current one!
   market: Denver
-  brand: 
+  brand:
   brokerage: Your Castle Real Estate
   address: 9090 S Ridgeline Blvd 110 Highlands Ranch CO 80129
   phone: 720-515-1738
@@ -20,78 +32,86 @@ client:
   phone2:
   phone2_type:
   email: elitehometeam@outlook.com
-  url: http://www.letsgohousehunting.com
-
+  url: 'http://www.letsgohousehunting.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.letsgohousehunting.com/cma/property-valuation/
+  first_CTA_URL: 'http://www.letsgohousehunting.com/cma/property-valuation/'
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.letsgohousehunting.com/search/advanced_search/
-  VR_form: http://oi.vresp.com?fid=3f55b98e72
-
+  second_CTA_URL: 'http://www.letsgohousehunting.com/search/advanced_search/'
+  VR_form: 'http://oi.vresp.com?fid=3f55b98e72'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free -- MARKET -- Home Value Report"
-    CTA_url: http://www.letsgohousehunting.com/cma/property-valuation/
-
+    CTA_title: What’s Your -- MARKET -- Home Worth?
+    CTA_text: >-
+      Are you thinking of selling your home or interested in learning about home
+      prices in your neighborhood? We can help you.
+    CTA_link_text: Free -- MARKET -- Home Value Report
+    CTA_url: 'http://www.letsgohousehunting.com/cma/property-valuation/'
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: http://www.letsgohousehunting.com/search/advanced_search/
-
+    CTA_title2: Looking for a -- MARKET -- Home?
+    CTA_text2: Search the entire MLS for your -- MARKET -- home.
+    CTA_link_text2: Search the MLS
+    CTA_url2: 'http://www.letsgohousehunting.com/search/advanced_search/'
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
+  headshot_path: 'http://fillmurray.com/200/200'
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 720.263.6411
   email: bill@murray.com
-  url: http://eyegoop.com
-
+  url: 'http://eyegoop.com'
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
-  welcome_text_markdown: >
-    Our mission at ELite Home Team is to be your best resource for real estate
+  welcome_text_markdown: >-
+    Our mission at Elite Home Team is to be your best resource for real estate
     advice. Whether you are a buyer, seller, or investor, our team of
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
-
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/theelitehometeam/
-  linkedin_url: https://www.linkedin.com/in/rex-jarnagin-9780ab8/
-  gplus_url: https://plus.google.com/u/0/b/101546321099117960183/101546321099117960183
-  youtube_url: https://www.youtube.com/channel/UCW2doP91JRkAYz4qZdUhgjA
-  twitter_url: https://twitter.com/EliteHomeTeam1
+  facebook_url: 'https://www.facebook.com/theelitehometeam/'
+  linkedin_url: 'https://www.linkedin.com/in/rex-jarnagin-9780ab8/'
+  gplus_url: 'https://plus.google.com/u/0/b/101546321099117960183/101546321099117960183'
+  youtube_url: 'https://www.youtube.com/channel/UCW2doP91JRkAYz4qZdUhgjA'
+  twitter_url: 'https://twitter.com/EliteHomeTeam1'
   instagram_url:
   pinterest_url:
-  zillow_url: https://www.zillow.com/profile/rexjarnagin/
-  trulia_url: https://www.trulia.com/profile/rex-jarnagin-agent-highlands-ranch-co-zgjv9c0p/overview
-  yelp_url: https://www.yelp.com/biz/elite-home-team-your-castle-real-estate-highlands-ranch?osq=Rex+Jarnagin
+  zillow_url: 'https://www.zillow.com/profile/rexjarnagin/'
+  trulia_url: >-
+    https://www.trulia.com/profile/rex-jarnagin-agent-highlands-ranch-co-zgjv9c0p/overview
+  yelp_url: >-
+    https://www.yelp.com/biz/elite-home-team-your-castle-real-estate-highlands-ranch?osq=Rex+Jarnagin
   podcast_url:
-
 podcast:
   title: Greater Denver Area Real Estate Podcast with Rex Jarnagin
-  categories: Education
+  categories:
+    - Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Colorado Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Rex Jarnagin - your professional Real Estate Agent.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: 'Rex Jarnagin'
-
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the Colorado
+    Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from Rex Jarnagin - your professional Real
+    Estate Agent.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in Colorado, home
+    selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
+  author: Rex Jarnagin
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 60
-  hero_text: -- MARKET -- Real Estate Video Blog
+  hero_text: '-- MARKET -- Real Estate Video Blog'
   hero_background_hex: '#2f1747'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
@@ -101,13 +121,11 @@ site_colors:
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 4px
-  shadow_color: black
-
+  shadow_color: '#000000'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
