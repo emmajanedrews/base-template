@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4 Tips Will Help You Maximize Your Productivity as an Agent
+title: 4 Tips That Will Help You Maximize Your Productivity as an Agent
 date: 2017-12-01 10:17:00
 tags:
   - Real Estate
