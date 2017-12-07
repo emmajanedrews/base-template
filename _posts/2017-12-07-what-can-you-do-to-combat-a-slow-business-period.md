@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Can You Do To Combat a Slow Business Period?
-date:
+date: 2017-12-07 14:24:10
 tags:
   - Real Estate
 excerpt: >-
