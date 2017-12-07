@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   What is earnest money? As a buyer, how much do you need and what happens to
   that sum if the deal terminates?
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520What%2520you%2520need%2520to%2520know%2520about%2520earnest%2520money.mp4
 pullquote: 'Typically, earnest money accounts for 1% of the total purchase price.'
 enclosure_type: video/mp4
 enclosure_time:
