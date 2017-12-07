@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Come Support Local Artists by Visiting Our Gallery
-date: 2017-12-04 15:04:14
+date: 2017-12-04 15:04:00
 tags:
   - Market Update
 excerpt: >-
   Did you know that Prosper Properties has an on-site gallery? If you are
   looking to display work or would like to take home a piece of art that’s
   already on display, we’d love to help.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Karlyn+Ellis/December+/Buda%252C+Texas+Real+Estate-+Have+You+Visited+Our+Gallery%253F.mp4
 pullquote: We love supporting local artists.
 enclosure_type: video/mp4
 enclosure_time:
