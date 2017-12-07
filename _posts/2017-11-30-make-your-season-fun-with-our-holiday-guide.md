@@ -48,14 +48,6 @@ Info: 561-832-5328.
 
 Info: 561-832-3115.
 
-**December 5:** Holiday Boat Parade Celebration at the Riverwalk—Riverwalk Events Plaza, Jupiter.
-
-Info: 561-863-0012.
-
-**December 6:** Flagler Museum Tree Lighting—1 Whitehall Way, Palm Beach.
-
-Info: 561-655-2833.
-
 **December 7:** Hannukah Candle Lighting, Downtown at the Gardens, Palm Beach Gardens, 4 p.m. to 6 p.m. Includes concert, children’s activities, information booths and more.
 
 Info: Mandel Jewish Community Center of the Palm Beaches
