@@ -12,8 +12,8 @@ enclosure: >-
 pullquote: Appraisals are important for buyers and sellers.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /uploads/daniel-dixon-team-willie-appraisal-vid-youtube.jpg
+use_youtube_image: true
+youtube_alternate_image:
 youtube_code: 'https://youtu.be/nZF_PKBwAg4'
 ---
 
