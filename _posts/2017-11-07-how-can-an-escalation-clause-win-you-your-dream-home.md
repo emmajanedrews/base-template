@@ -5,7 +5,8 @@ date: 2017-11-07 12:57:00
 tags:
   - Home Buyer Tips
 excerpt: What is an escalation clause? How does it pertain to you as a homebuyer?
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520Can%2520an%2520escalation%2520clause%2520win%2520your%2520dream%2520home%253F.mp4
 pullquote: >-
   An escalation clause can mean the difference between winning and losing your
   dream home.
