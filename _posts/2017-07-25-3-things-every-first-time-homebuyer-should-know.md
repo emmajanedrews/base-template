@@ -10,7 +10,7 @@ pullquote: 'An inspection will cost about $300, but it can save you thousands.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/daniel-dix-willie-vid-take-2-youtube.jpg
+youtube_alternate_image: /uploads/daniel-dixon--helpful-homebuyer-tips-11-3-17.jpg
 youtube_code: 'https://youtu.be/poLp2xcWMSY'
 ---
 
@@ -25,9 +25,7 @@ Once you have a clear idea of how much all of these items will cost, you can com
 
 **2. Choose your lender wisely**
 
-Choosing a lender is not something you should base only on the lowest rate. A competent and trustworthy lender will offer you advice on how to improve your credit and the right lender will also help you take advantage of special homebuyer programs that might benefit you.
-<br>
-<br>But how do you find the right lender specifically for you? It's often best to get recommendations from friends who have already worked with a lender or from a real estate agent you trust.
+Choosing a lender is not something you should base only on the lowest rate. A competent and trustworthy lender will offer you advice on how to improve your credit and the right lender will also help you take advantage of special homebuyer programs that might benefit you.<br><br>But how do you find the right lender specifically for you? It's often best to get recommendations from friends who have already worked with a lender or from a real estate agent you trust.
 
 **3. Don't overlook the details**
 
