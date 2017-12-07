@@ -32,12 +32,12 @@ Are you curious about investing in real estate? If so, here are five different w
 
 {% include pullquote.html %}
 
-**3. Real estate investment groups.** Real estate investment groups are organizations that buy a set of properties and then sell them to individual investors.The main benefit of this approach is that you typically do not need to act as the landlord because the investment group handles property management for you (for a fee of course).
+**3. Real estate investment groups.** Real estate investment groups are organizations that buy a set of properties and then sell them to individual investors. The main benefit of this approach is that you typically do not need to act as the landlord because the investment group handles property management for you (for a fee of course).
 
 **4. Crowdfunding sites.** Recently, there's been an explosion of sites such as Prosper and Lending Club, which allow individuals to invest in various real estate development projects. Through crowdfunding sites, you can be a part of a large-scale property investment while investing only a moderate amount of money. On the other hand, crowdfunding sites act as a middleman and charge fees which can eat into your profits.&nbsp;
 
-**5. REITs.** Real estate investment trusts (REITs) are like mutual funds for real estate.They typically pay high dividends. However, they also do not offer all of the typical benefits of investing in real estate, such as increased leverage and tax benefits.&nbsp;
+**5. REITs.** Real estate investment trusts (REITs) are like mutual funds for real estate.They typically pay high dividends. However, they also do not offer all of the typical benefits of investing in real estate such as increased leverage and tax benefits.&nbsp;
 
-Each of these investing approaches offers a tradeoff between possible profits, risks, and costs.&nbsp;<br>The one constant is that you can minimize your risks with due diligence and by consulting with an experienced real estate professional.
+Each of these investing approaches offers a tradeoff between possible profits, risks, and costs. The one constant is that you can minimize your risks with due diligence and by consulting with an experienced real estate professional.
 
 If you have any questions for us or you’re interested in investing in real estate yourself, don’t hesitate to give me a call or send me an email. I look forward to hearing from you.
