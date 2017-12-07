@@ -30,7 +30,7 @@ But what if you’re entering the home buying process or, worse yet, have alread
 
 There are three possible steps you can take to ensure your financial security if you’re considering buying a home now or you’re in the home buying process:
 
-**1. Check your information.** Even if you never used Equifax directly, they could still have your personal information. You can visit [**this website**](https://www.equifaxsecurity2017.com/) to see if you’ve been affected. You also have the option to enroll in their TrustedID Premier credit monitoring service.
+**1. Check your information.** Even if you never used Equifax directly, they could still have your personal information. You can visit [**this website**](https://www.equifaxsecurity2017.com/){: target="_blank"} to see if you’ve been affected. You also have the option to enroll in their TrustedID Premier credit monitoring service.
 
 **2. Call your lender right away** and let them know you may have been affected.
 
