@@ -1,5 +1,5 @@
 audit_header: false
-title: Central Iowa Real Estate Video Blog with Misty Soldwisch
+title: Tools & Training for Central Iowa Real Estate Professionals
 description: A Video Blog about Central Iowa Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!
 show_custom_links: false
 custom_links:
@@ -7,21 +7,21 @@ custom_links:
     url:
 
 client:
-  name: Misty Soldwisch
+  name: Misty SOLDwisch
   license_number: 'BRE #B40909000'
   about_markdown: |
     Professional service with an emphasis on guidance, planning, and dedication to my clients' needs are my top priority. My greatest strength as a realtor is my ability to think outside the box--whether it is developing a unique marketing strategy or highlighting the potential in a property with my decorating and staging skills. I am a proactive, hands-on agent that is willing to do what it takes to meet your real estate needs.
 
     In addition, offering a unique TEAM approach – where we have specialized roles in each step of the process —ensures an unparalleled expertise and customer service experience. We know that real estate transactions can be stressful and of great financial value to our clients—it is important to work with full time professionals with your best interest at heart!
   market: Central Iowa
-  brand: Better Homes and Gardens Real Estate Innovations
-  brokerage: 
+  brand: Be Better DSM - Real Estate Coaching
+  brokerage: Better Homes and Gardens Real Estate Innovations
   address: 117 East Salem Avenue<br>Indianola, IA 50125
   phone: 515-346-6803
   phone_type:
   phone2:
   phone2_type:
-  email: Misty@MistySOLD.com
+  email: Misty@BHGInnovations.com
   url: http://MistySold.SearchCentralIowaHomes.com
 
 CTAs:
@@ -67,7 +67,7 @@ socials:
   facebook_url: https://www.facebook.com/BeBetterDSM/
   linkedin_url: http://www.linkedin.com/in/mistysold/
   gplus_url: https://plus.google.com/u/1/106768285720937357777
-  youtube_url: https://www.youtube.com/user/mistysold
+  youtube_url: https://www.youtube.com/channel/UC6QI2aC5ZGGsZZurGK0Fodw
   twitter_url: https://twitter.com/MistySOLDTeam
   instagram_url:
   pinterest_url:
