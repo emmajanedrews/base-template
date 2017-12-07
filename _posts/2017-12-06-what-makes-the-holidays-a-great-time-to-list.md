@@ -1,13 +1,14 @@
 ---
 layout: post
 title: What Makes the Holidays a Great Time to List?
-date: 2017-12-06 12:07:27
+date: 2017-12-06 12:07:00
 tags:
   - Home Seller Tips
 excerpt: >-
   Contrary to popular belief, the holiday season can be a great time to list.
   Here are a few reasons why.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Don't+wait+until+spring+to+list+your+home.mp4
 pullquote: >-
   Between the low level of inventory and high level of motivated buyers, the
   holiday season creates the perfect conditions for you to obtain top dollar.
