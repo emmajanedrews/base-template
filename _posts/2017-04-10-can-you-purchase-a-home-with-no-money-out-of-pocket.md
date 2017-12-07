@@ -3,13 +3,19 @@ layout: post
 title: Can You Purchase a Home With No Money Out of Pocket?
 tags:
   - Home Buyer Tips
-excerpt: The down payment assistance products offered to buyers here in Denver are very beneficial. You just need to work with a professional who knows how to use them.
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Daniel+Dixon/Denver+Real+Estate-+Tips+on+Down+Payment+Assistance.mp4'
-pullquote: 'One of our buyers recently bought a $302,000 home with just $1,500 out of pocket.'
+excerpt: >-
+  The down payment assistance products offered to buyers here in Denver are very
+  beneficial. You just need to work with a professional who knows how to use
+  them.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Daniel+Dixon/Denver+Real+Estate-+Tips+on+Down+Payment+Assistance.mp4
+pullquote: >-
+  One of our buyers recently bought a $302,000 home with just $1,500 out of
+  pocket.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/daniel-dixon-team-screenshot-4-13-17-youtube.jpg
+youtube_alternate_image: /uploads/daniel-dixon-tips-on-downpayment-11-03-17.jpg
 youtube_code: CrtRparX4ZQ
 ---
 
@@ -20,9 +26,7 @@ A couple of questions I get asked a lot from the buyers my team and I work with 
 
 The answer to both is absolutely yes!
 
-**There are two different types of down payment assistance products offered to buyers here in Denver.**The first is a down payment grant that you never have to repay, which is definitely my favorite. The second is a mortgage known as a “silent second.”
-<br>
-<br>With the silent second product, the down payment assistance company gives you the money for your down payment, you never need to make monthly payments on it, and it’s on title as a second mortgage. When you sell the home in the future, though, you’ll need to pay off that amount. Not all lenders have access to these down payment assistance programs, so make sure you work with someone you trust and has access to all the different options we have in Denver.
+**There are two different types of down payment assistance products offered to buyers here in Denver.**The first is a down payment grant that you never have to repay, which is definitely my favorite. The second is a mortgage known as a “silent second.”<br><br>With the silent second product, the down payment assistance company gives you the money for your down payment, you never need to make monthly payments on it, and it’s on title as a second mortgage. When you sell the home in the future, though, you’ll need to pay off that amount. Not all lenders have access to these down payment assistance programs, so make sure you work with someone you trust and has access to all the different options we have in Denver.
 
 {% include pullquote.html %}
 
