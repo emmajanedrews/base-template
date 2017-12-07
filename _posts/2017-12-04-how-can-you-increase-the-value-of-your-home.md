@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Can You Increase the Value of Your Home?
-date: 2017-12-04 14:35:28
+date: 2017-12-04 14:35:00
 tags:
 excerpt: >-
   What can you do to increase your home’s value before you put it on the market?
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/john-s-youtube-1.jpg
-youtube_code: g_M22DPV660
+youtube_code: Q6qWhReX9h4
 ---
 
 
