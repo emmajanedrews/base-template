@@ -12,7 +12,7 @@ enclosure: >-
 pullquote: Appraisals are important for buyers and sellers.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image:
 youtube_code: 'https://youtu.be/nZF_PKBwAg4'
 ---
