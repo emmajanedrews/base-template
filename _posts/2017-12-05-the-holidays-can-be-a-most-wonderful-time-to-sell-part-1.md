@@ -30,7 +30,7 @@ It can be a hectic time for people, with all of the holiday hustle and bustle an
 
 {% include pullquote.html %}
 
-**1. Buyers are more serious.** Looky-loos and other potential buyers who aren’t altogether serious about buying won’t be out during this time to look for homes. People who need to buy soon are going to be the ones out looking. This means fewer showings for you, and less trouble getting ready for those showings.
+**1. Buyers are more serious.** Looky-loos and other potential buyers who aren’t altogether serious about buying won’t be out during this time to look for homes. People who need to buy soon are going to be the ones out looking. This means fewer showings for you and less trouble getting ready for those showings.
 
 **2. Less competition.** Those serious buyers that are out looking for homes have fewer options available to them. This means they’re more likely to give you a good offer on the home, which is a really big deal for you, the seller.
 
