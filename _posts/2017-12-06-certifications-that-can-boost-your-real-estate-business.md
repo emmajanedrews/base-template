@@ -24,7 +24,7 @@ youtube_code: dDIHdVDIC28
 
 Today we’re continuing our discussion on how to increase your income in real estate with my third point: add certification to your name.
 
-If you’re going to work with buyers, **I highly suggest you get an ABR (Accredited Buyer Representative) designation.** This is an accreditation or certification that &nbsp;shows that you’ve been trained on how to work with buyers.
+If you’re going to work with buyers, **I highly suggest you get an ABR (Accredited Buyer Representative) designation.** This is an accreditation or certification that shows that you’ve been trained on how to work with buyers.
 
 What does that mean to buyers? Probably not a whole lot. But **an ABR designation really teaches you the value of a buyer agency agreement** as well as how and why to fill out the form, and how to explain to the buyer the protections you’re giving them when you do that.
 
