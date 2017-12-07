@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: Reno Real Estate Video Blog with Sandy Gabrielli
 description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -11,7 +11,7 @@ client:
   license_number:
   about_markdown: |
         My professional transition to real estate occurred naturally, reinforced by years of experience as a business owner and corporate relocator.  These dynamic environments fostered my passion to deliver exceptional client service to the Northern Nevada real estate market. The Gabrielli Homes Team was formed to deliver service that exceeds expectations. The real estate market is fluid.  Your agent must be immersed in a market to competently represent you and to guide you through the dynamic complexities of real estate. We utilize an effective process to assist buyers and sellers through the entire sale or purchase process, from beginning interest to close of escrow. We place strong emphasis on hearing and understanding our clients' wants and needs, as well as discovering solutions to meet their wants and needs.
-  market:
+  market: Reno
   brand:  Gabrielli Homes Team
   brokerage: RE/MAX Professionals
   address: 4838 Sparks Blvd, 102 Sparks, NV 89436
@@ -91,7 +91,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 35
-  hero_text: -- MARKET --
+  hero_text: -- MARKET -- Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
