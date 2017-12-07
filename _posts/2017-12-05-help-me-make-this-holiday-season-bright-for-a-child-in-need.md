@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Make This Holiday Season Bright for a Child in Need
+title: Help Me Make This Holiday Season Bright for a Child in Need
 tags:
   - Real Estate
 excerpt: >-
@@ -21,11 +21,11 @@ youtube_code: KQqYqCtFVuo
 
 {% include youtube.html %}
 
-Each year during the holiday season, my team and I participate in something we believe to be a truly worthy cause: Toys for Tots.&nbsp;
+Each year during the holiday season, my team and I participate in something we believe to be a truly worthy cause: Toys for Tots.
 
 Many of you are probably already familiar with this program. But if you aren’t, allow me to explain.
 
-**Toys for Tots is a program put on by the United States Marine Corps Reserve designed to collect and distribute toys to less fortunate children.**&nbsp;
+**Toys for Tots is a program put on by the United States Marine Corps Reserve designed to collect and distribute toys to less fortunate children.**
 
 My team and I want to make it easy for you to help. So if you’d like to contribute, all you have to do is collect a new, unwrapped toy and bring it by our office. We can even pick it up from you if you like. This program is a great way to give back.
 
@@ -35,4 +35,4 @@ In the past, we’ve collected hundreds of toys. We’d like to beat that number
 
 {% include pullquote.html %}
 
-If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.<br>
