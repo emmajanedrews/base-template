@@ -23,9 +23,9 @@ youtube_code: BT6fcVSNaX4
 
 Today I’m going to be talking about another facet of Auto to the 5th: automatic re-enrollment.
 
-What this means is that as an employer,&nbsp;**you will automatically re-enroll your participants into the qualified default investment alternative, or the QDIA.**
+What this means is that as an employer, you will automatically re-enroll your participants into the qualified default investment alternative, or the QDIA.
 
-Not only does this provide a great opportunity for your participants, it also helps to protect you as a provider. &nbsp;Automatic re-enrollment helps your employees be more secure in their retirement.
+Not only does this provide a great opportunity for your participants, it also helps to protect you as a provider. **&nbsp;Automatic re-enrollment helps your employees be more secure in their retirement.**
 
 However, they are able to opt out. If your participants don’t want their investments to change, they have a 30-day period to let you know.
 
