@@ -18,9 +18,9 @@
 		</div>
 		<div class="col-lg-3">
 			<p class="contact-text">
-				<strong>{{ site.data.settings.client.name }}<br />
+				<strong>{{ site.data.settings.client.name }}<br /></strong>
 				{% if site.data.settings.client.license_number != null %}
-				{{ site.data.settings.client.license_number }}</strong></br>
+				{{ site.data.settings.client.license_number }}</br>
 				{% endif %}
 				{{ site.data.settings.client.brand }}<br />
 				{% if site.data.settings.client.brokerage != null %}
@@ -33,8 +33,8 @@
 				{% else %}
 				{{ site.data.settings.client.phone }}<br />
 				{% endif %}
-				<!-- <a href="mailto:{{ site.data.settings.client.email }}" target="_blank">{{ site.data.settings.client.email }}</a><br />
-				<a href="mailto:{{ site.data.settings.client.email2 }}" target="_blank">{{ site.data.settings.client.email2 }}</a><br /> -->
+				<a href="mailto:{{ site.data.settings.client.email }}" target="_blank">{{ site.data.settings.client.email }}</a><br />
+				<!-- <a href="mailto:{{ site.data.settings.client.email2 }}" target="_blank">{{ site.data.settings.client.email2 }}</a><br /> -->
 				<a href="{{ site.data.settings.client.url }}" target="_blank">{{ site.data.settings.client.url | remove: 'http://' | remove: 'https://' }}</a><br />
 			</p>
 		</div>
