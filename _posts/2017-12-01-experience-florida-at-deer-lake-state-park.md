@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Located in Seagrove Beach, Deer Lake State Park provides a great opportunity
   for people to explore Florida in it’s natural state.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Nathan+Abbott/Nathan+Abbott+Team-+Video+tour+of+Deer+Lake+State+Park.mp4
 pullquote: A visit to Deer Lake State Park is a great experience.
 enclosure_type: video/mp4
 enclosure_time:
