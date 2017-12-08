@@ -22,9 +22,9 @@ youtube_code: nURfLqk6cYU
 
 {% include youtube.html %}
 
-I’m coming to you tonight from our holiday team dinner—our team’s annual gathering to celebrate the holidays. These agents are the wonderful people who stand by to help buyers navigate their transactions. To hear what our agents are thankful for this year, skip ahead in the video above to 1:55.
+I’m coming to you tonight from our holiday team dinner—our team’s annual gathering to celebrate the holidays. These agents are the wonderful people who stand by to help buyers navigate their transactions. You can hear what our agents are thankful for this year in the above video.
 
-What I want you to know today is that the market year in the Louisville and southern Indiana areas is as hot as we have ever seen it.
+What I want you to know today is that the market year in the Louisville and Southern Indiana areas is as hot as we have ever seen it.
 
 {% include pullquote.html %}
 
