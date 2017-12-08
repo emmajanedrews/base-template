@@ -1513,12 +1513,12 @@ html[xmlns] .flexslider .slides {
     opacity: 0; } }
 .brand-color {
   box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
-  background: #999;
+  background: #999999;
   -webkit-animation: 0.3s fadein ease-in-out;
           animation: 0.3s fadein ease-in-out; }
 
 .navbar-andross-bottom {
-  background: #999;
+  background: #999999;
   color: #fff;
   padding: 0;
   margin: 0;
@@ -1595,13 +1595,13 @@ label.tree-toggle {
   color: #262a82;
   text-shadow: 0px 2px 14px rgba(234, 234, 234, 0.5);
   text-transform: uppercase;
-  font-size: 7rem;
+  font-size: 5rem;
   padding-bottom: 3rem;
   margin-top: -25px;
   font-weight: 300; }
 
 .slogan {
-  font-size: 5rem;
+  font-size: 3rem;
   font-style: italic;
   font-weight: 600;
   margin-bottom: 0;
@@ -1612,7 +1612,7 @@ label.tree-toggle {
     font-size: 4rem; }
 
   .slogan {
-    font-size: 4rem; } }
+    font-size: 3rem; } }
 @media (max-width: 1000px) {
   .site-logo {
     max-width: 20rem; } }
@@ -1625,7 +1625,7 @@ label.tree-toggle {
     font-size: 3rem; }
 
   .slogan {
-    font-size: 3rem; } }
+    font-size: 2rem; } }
 @media (max-width: 600px) {
   .site-logo {
     max-width: 15rem;
