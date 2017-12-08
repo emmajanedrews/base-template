@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   The latest numbers from October 2017 are in, so it’s time to highlight what’s
   happening as we head toward the end of the year.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jody+Donaldson/Northern+Virginia+Real+Estate+Agent-+The+latest+stats+from+our+real+estate+market.mp4
 pullquote: >-
   If this winter is mild, the spring market can start at the beginning of the
   year.
