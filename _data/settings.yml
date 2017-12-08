@@ -9,7 +9,7 @@ custom_links:
   - title:
     url:
 client:
-  name: 'Jay Robbins | Partner, Broker'
+  name: 'Jay Robbins | Partner, Broker Associate'
   license_number:
   about_markdown: >-
     Robbins Real Estate Group is a boutique firm focused on home sales in
@@ -20,16 +20,16 @@ client:
     will exceed your expectations. Call Mindy and Jay Robbins with Robbins Real
     Estate Group.
   market: Dallas-Fort Worth Texas Real Estate
-  brand: Robbins Real Estate
-  brokerage:
-  address: '5495 Beltline Road Suite 135 <br> Dallas, TX 75254'
+  brand: Robbins Real Estate Group
+  brokerage: Coldwell Banker Residential Brokerage
+  address: '7001 Preston Road, Suite 125 <br> Dallas, TX 75205'
   phone: 214-444-9014
   phone_type:
   phone2:
   phone2_type:
   email: Jay@TeamRobbins.com
-  email2: Mindy@TeamRobbins.com
-  url: 'http://www.teamrobbins.com'
+  email2: 
+  url: 'http://www.TeamRobbins.com'
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'https://www.teamrobbins.com/sell/'
