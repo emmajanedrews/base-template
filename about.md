@@ -3,15 +3,6 @@ layout: default
 title: About
 permalink: /about/
 ---
-<p class="team-member">Sandra Gabrielli</p>
-<div class="team-member-photo">
-   <span class="client-image-container">
-    <img src="/img/headshot.jpg" alt="Sandra Gabrielli" class="client-image"/>
-  </span>
-</div>
-<p class="team-bio">Sandy’s professional transition to real estate occurred naturally, reinforced by years of experience as a business owner and corporate relocator. These dynamic environments fostered her passion to deliver exceptional client service to the Northern Nevada real estate market. Sandy founded The Gabrielli Homes Team to deliver service that exceeds expectations.</p>
-
-<p class="team-bio">The real estate market is fluid. Your agent must be immersed in a market to competently represent you and to guide you through the dynamic complexities of real estate. The Gabrielli Homes Team utilizes an effective process to assist buyers and sellers through the entire sale or purchase process, from beginning interest to close of escrow. Our team places strong emphasis on hearing and understanding our clients’ wants and needs, as well as discovering solutions to meet their wants and needs. We deliver on that promise. Call or email us with your questions or to schedule a consultation appointment to review your wants and needs.</p>
 
 <p class="team-member">Jerry Gabrielli</p>
 <div class="team-member-photo">
