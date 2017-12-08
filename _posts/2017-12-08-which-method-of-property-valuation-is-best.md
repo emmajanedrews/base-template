@@ -23,7 +23,7 @@ youtube_code: dr--lm_4bbU
 
 Have you ever wondered how a real estate agent comes up with the property valuation for your home? Are you thinking of putting your home up for sale, or would you like to get it out on the market? Today, we’re going to talk about the four general ways to obtain a property’s value.
 
-**1. Look at the assessed value.**The assessed value of a home is the value assigned via the county tax records.Typically, this isn’t a great number to use because it could be an assessed value on the land alone, or it could be based on land and improvements, even though the improvements were made many years ago.
+**1. Look at the assessed value.** The assessed value of a home is the value assigned via the county tax records.Typically, this isn’t a great number to use because it could be an assessed value on the land alone, or it could be based on land and improvements, even though the improvements were made many years ago.
 
 **2. Online valuation tools.** Everyone asks me if the Zillow valuation tool called the Zestimate is accurate, and my answer is no. Online valuation tools average prices that have sold in your area, but oftentimes they’re looking at county records or MLS records. There’s a lot of skewed data in those records. They also don’t look at apples-to-apples comparisons, meaning that if the home next door with less square footage than yours sold for less than your home, they’ll still compare the two homes, which could negatively affect the valuation. Let’s stay away from those Zestimates.
 
