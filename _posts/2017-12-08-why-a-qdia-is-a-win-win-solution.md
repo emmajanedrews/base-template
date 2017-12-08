@@ -1,16 +1,16 @@
 ---
 layout: post
 title: Why a QDIA Is a Win-Win Solution
-date:
+date: 2017-12-08 09:56:51
 tags:
-excerpt:
+excerpt: 'Today we’re going to talk about another automatic feature: a QDIA.'
 enclosure:
 pullquote: Your plan will benefit everyone involved.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: 2G4fBAi75rg
 ---
 
 
@@ -35,5 +35,3 @@ If your due diligence, documentation, and QDIA are all in proper order, **the Pe
 This automatic feature is a win-win. Your participants can be sure that they will have a paycheck for life, and you can feel secure in having key fiduciary protection. As a result, your plan will benefit everyone involved.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
-
-&nbsp;
