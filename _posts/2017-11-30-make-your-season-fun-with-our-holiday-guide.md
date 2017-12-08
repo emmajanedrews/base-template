@@ -48,10 +48,6 @@ Info: 561-832-5328.
 
 Info: 561-832-3115.
 
-**December 7:** Hannukah Candle Lighting, Downtown at the Gardens, Palm Beach Gardens, 4 p.m. to 6 p.m. Includes concert, children’s activities, information booths and more.
-
-Info: Mandel Jewish Community Center of the Palm Beaches
-
 **December 11:** Boynton Beach Holiday Boat Parade—Boynton Beach Inlet traveling south along the Intracoastal Waterway to the C-15 canal in Delray Beach.
 
 Info: 561-600-9097.
