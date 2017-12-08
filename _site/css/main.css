@@ -1582,7 +1582,8 @@ label.tree-toggle {
   width: 90%;
   max-width: 80rem;
   float: left;
-  padding-top: 4rem; }
+  padding-top: 5rem;
+  margin-top: 1rem; }
 
 .site-title {
   color: black;
@@ -1598,14 +1599,20 @@ label.tree-toggle {
     font-size: 5rem; } }
 @media (max-width: 1000px) {
   .site-logo {
-    max-width: 40rem; } }
+    max-width: 60rem; }
+
+  .hero-img {
+    height: 400px; } }
 @media (max-width: 760px) {
   .site-logo {
     max-width: 40rem;
     margin-top: 4rem; }
 
   .site-title {
-    font-size: 5rem; } }
+    font-size: 5rem; }
+
+  .hero-img {
+    height: 300px; } }
 @media (max-width: 600px) {
   .site-logo {
     max-width: 30rem;
@@ -1615,10 +1622,17 @@ label.tree-toggle {
     font-size: 3.5rem; }
 
   .cta {
-    padding: 1rem; } }
+    padding: 1rem; }
+
+  .hero-img {
+    height: 300px; } }
 @media (max-width: 400px) {
   .cta {
-    padding: 0.5rem; } }
+    padding: 0.5rem; }
+
+  .hero-img {
+    height: 250px;
+    margin-top: 7rem; } }
 :root {
   font-size: 10px; }
 

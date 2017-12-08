@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Serving People, Saving Kids by Selling Real Estate</title>
-    <description>Our mission at West One Properties Group at Keller Williams Realty Portland Central is to be your best resource for  real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The West One Properties Group at Keller Williams Realty Portland Central, your professional  Real Estate Agents.</description>
+    <title>Serving People, Saving Kids by Selling Real Estate Video Blog with Nick Shivers</title>
+    <description>Our mission at West One Properties Group at Keller Williams Realty Portland Central is to be your best resource for Portland real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The West One Properties Group at Keller Williams Realty Portland Central, your professional Portland Real Estate Agents.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 07 Dec 2017 16:52:16 -0600</pubDate>
-    <lastBuildDate>Thu, 07 Dec 2017 16:52:16 -0600</lastBuildDate>
+    <pubDate>Fri, 08 Dec 2017 09:44:31 -0600</pubDate>
+    <lastBuildDate>Fri, 08 Dec 2017 09:44:31 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>

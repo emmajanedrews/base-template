@@ -1,5 +1,5 @@
 audit_header: false
-title: Serving People, Saving Kids by Selling Real Estate
+title: Serving People, Saving Kids by Selling Real Estate Video Blog with Nick Shivers
 description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -12,7 +12,7 @@ client:
   about_markdown: |
       As a principal broker in the top 1% of realtors nationwide, Nick Shivers leads the WestOne Properties Group at Keller Williams Realty Portland Central His 18 years in the Portland metro Sw Washington real estate markets has allowed him the privilege to serve thousands of clients. Our MIssion is Serving People Saving Kids all by selling real estate. This mission has served us well by partnering with our Clients through Sell a Home Save a child something we co-founded we have had the incredible opportunity to make a difference in the lives of hundreds of children. By donating a percentage of every closing we are impacting the lives of children and building a brighter tomorrow
 
-  market:
+  market: Portland
   brand: West One Properties Group at Keller Williams Realty Portland Central
   brokerage: Keller Williams Realty Portland Central
   address: 6400 SE Lake Road, Suite 200, Portland, OR 97222
@@ -27,8 +27,8 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: http://nickshivers.com/values
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
-  VR_form:
+  second_CTA_URL: http://nickshivers.com/homes
+  VR_form: http://oi.vresp.com?fid=18060568b7
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
@@ -42,7 +42,7 @@ second_sidebar_CTA:
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://nickshivers.com/homes
 
 lender:
   show_section: false
@@ -67,20 +67,20 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
+  facebook_url: https://www.facebook.com/nickshiversteam
   linkedin_url: https://www.linkedin.com/in/nickshivers/
   gplus_url:
   youtube_url:
-  twitter_url:
-  instagram_url:
+  twitter_url: https://twitter.com/nickshivers
+  instagram_url: https://www.instagram.com/westonepropertiesgroup/
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
+  zillow_url: https://www.zillow.com/profile/Nick-Shivers-Team/
+  trulia_url: https://www.trulia.com/profile/nick-shivers-agent-portland-or-zgmw21g9/overview
+  yelp_url: https://www.yelp.com/biz/westone-properties-group-keller-williams-realty-portland?osq=west+one+properties
   podcast_url:
 
 podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
+  title: Serving People, Saving Kids by Selling Real Estate Video Blog with Nick Shivers
   categories: Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
