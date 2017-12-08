@@ -74,7 +74,7 @@ Info and ticket prices: josh@sunfest.com or 561-837-8066.
 
 Info: 561-655-2833.
 
-**December 19:** Boca Raton Holiday Boat Parade—Intracoastal Waterway starting at the C-15 canal traveling south to Hillsboro Bridge. 6:30 p.m. to 8 p.m.
+**December 16:** Boca Raton Holiday Boat Parade—Intracoastal Waterway starting at the C-15 canal traveling south to Hillsboro Bridge. 6:30 p.m. to 8 p.m.
 
 Info: 561-393-7995.
 
