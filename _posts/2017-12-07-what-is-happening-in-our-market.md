@@ -24,7 +24,7 @@ What’s the latest news from our market?
 
 The snowbirds are down here in record numbers, and traffic is starting to pick up on the local roadways. If you’re looking to purchase a home, though, the good news is these snowbirds aren’t purchasing yet because they’re still focusing on the holidays.
 
-**This makes December still a great time to buy** because of the activity slowdown that typically occurs. Once January hits, these snowbirds will re-shift their focus to buying homes and that slowdown will end.
+**This makes December a great time to buy** because activity slows down during that time. Once January hits, these snowbirds will re-shift their focus to buying homes and that slowdown will end.
 
 Last year, our market experienced a considerable amount of growth, and our economy remains strong and vibrant. Things are looking like they were back in 2006. In fact, the third quarter GDP numbers just came out and reported that our economy had grown another 3.3%, which is the largest increase since 2007.
 
