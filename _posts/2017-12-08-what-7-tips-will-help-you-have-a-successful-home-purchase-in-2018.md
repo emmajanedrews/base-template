@@ -1,13 +1,14 @@
 ---
 layout: post
 title: What 7 Tips Will Help You Have a Successful Home Purchase in 2018?
-date: 2017-12-08 11:15:15
+date: 2017-12-08 11:15:00
 tags:
   - Home Buyer Tips
 excerpt: >-
   If you’re thinking about buying a home in 2018, I have seven tips for you to
   follow that will ensure that purchase goes off without a hitch.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Alex+Tooke/Peak+Properties+Group+7+steps+to+purchasing+a+home+in+2018.mp4
 pullquote: It’s never too early to start working with a lender.
 enclosure_type: video/mp4
 enclosure_time:
