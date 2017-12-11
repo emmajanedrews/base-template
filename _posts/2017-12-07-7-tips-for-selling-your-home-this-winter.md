@@ -42,7 +42,7 @@ If you are selling your home in the fall and winter, there are a few things you 
 **5) Invest in a good indoor mat.** When people come inside your house, they will track snow, ice, water, and salt into your home. It can be difficult to ask people to remove their shoes in the winter since most of them are wearing boots, so have a mat or two ready for them to clean off their shoes. &nbsp;
 {: .present-before-paste}
 
-**6) Keep the entryway of your home neat and clean.** If your family usually dumps all of their shoes, coats, and backpacks in the entryway, consider moving them by the garage or get everything put away. Your entryway needs to be free and clear during showings. After all, buyers may want a place to hang their own coat while they look at your home.
+**6) Keep the entryway of your home neat and clean.** If your family usually dumps all of their shoes, coats, and backpacks in the entryway, consider moving them to the garage or get everything put away. Your entryway needs to be free and clear during showings. After all, buyers may want a place to hang their own coat while they look at your home.
 {: .present-before-paste}
 
 **7) Light up the home.** Make sure your home is well-lit, especially if you have a showing after the sun goes down. Turn on all of the lights so that people can see the front door. Don’t leave buyers and agents fumbling for the light switch. Let them see a warm, inviting home while it’s dark outside.
