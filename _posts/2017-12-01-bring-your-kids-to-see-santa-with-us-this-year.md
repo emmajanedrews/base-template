@@ -25,6 +25,8 @@ That’s why we’ve decided to have Santa come to us this year, and you’re in
 
 We’ll be serving hot chocolate and treats, and you’ll also have the chance to snap a few photos before checking out the lights downtown. We’ll have our own camera as well, so if you don’t have one, we can take pictures for you and email them to you.
 
+**[Click Here to View a Map With Directions](https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Gateway+map+page.pdf)**<br><br>**[Click Here to View Our Save-the-Date!](https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Santa+at+the+Gateway.pdf)**
+
 {% include pullquote.html %}
 
 We’re very excited to have all of our friends and family join us, and we’d love it if you came too. If you have any questions, don’t hesitate to reach out to us. Until then, happy holidays!
