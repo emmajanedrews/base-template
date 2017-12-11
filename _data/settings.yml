@@ -22,7 +22,15 @@ client:
   phone2:
   phone2_type:
   email: misty@mistysold.com
-  url: http://mistysold.searchcentraliowahomes.com
+  url: http://BHGInnovations.com
+
+client2:
+  name: Aaron Moulton
+  license_number:
+  about_markdown: |
+    Aaron grew up in real estate, and has been around the real estate business for nearly 16 years now, with positions in both mortgage banking and residential real estate companies. Aaron is a sales training guru with an emphasis on understanding how finance knowledge can help our agents help our clients. Aaron joined Better Homes and Gardens Real Estate Innovations as Director of Business Development, and his job is to find and develop talent!
+  phone: 515-218-7740
+  email: AaronM@BHGInnovations.com
 
 CTAs:
   first_CTA_text: Home Valuation
@@ -79,6 +87,9 @@ socials:
   trulia_url: http://www.trulia.com/profile/the-misty-soldwisch-team-broker-indianola-ia-236926/overview
   yelp_url: http://www.yelp.com/biz/the-misty-soldwisch-home-selling-team-indianola
   podcast_url: https://itunes.apple.com/us/podcast/central-iowa-real-estate-podcast/id941324237?mt=2
+  instagram2_url: https://www.instagram.com/bhginnovations/
+  facebook2_url: https://www.facebook.com/bhginnovations/
+  facebook3_url: https://www.facebook.com/BeBetterDSM/
 
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
@@ -91,6 +102,7 @@ podcast:
 
 images:
   client_headshot_path: /img/headshot.jpg
+  client2_headshot_path: /img/headshot2.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 60
   hero_text: Changing Lives Through Real Estate
