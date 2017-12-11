@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Ways to Make the Home Selling Process Faster and Easier
-date: 2017-12-08 12:37:04
+date: 2017-12-08 12:37:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: NPZTAdiWhYw
+youtube_code: 6vuAEbu4Ssc
 ---
 
 
