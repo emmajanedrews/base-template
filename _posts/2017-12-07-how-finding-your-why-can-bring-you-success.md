@@ -24,7 +24,7 @@ youtube_code: 'https://youtu.be/OXTpe7b6M4E'
 
 Something occurred to me recently: Sometimes, our success is driven by the size of our “why.”<br><br>We all have our reasons for getting out of bed in the morning. Some of us wake up feeling full of energy and ready to start the day, while others may hit the snooze button a few times before dragging themselves to work.
 
-So, where does this difference come from? Does it depend on what we’re doing? Or, does it depend more on why we’re doing it.
+So, where does this difference come from? Does it depend on what we’re doing? Or, does it depend more on why we’re doing it?
 
 **Everyone knows what they do and how they do it, but very few of us seem to understand why we do things.**
 
@@ -46,6 +46,6 @@ Most recently, Hurricane Harvey struck. Nevertheless, the Houston Astros won the
 
 All of this may be coincidental, but maybe it’s not. Perhaps each of these teams were fighting for something greater—perhaps these teams were fighting for their “why.”
 
-A great way to learn more about this idea is to read a great book on the subject. **That book is Start With Why by Simon Sinek.** I highly recommend giving it a read. It can really help you to give a new purpose to your business and life.
+A great way to learn more about this idea is to read a great book on the subject. **That book is "Start With Why" by Simon Sinek.** I highly recommend giving it a read. It can really help you to give a new purpose to your business and life.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
