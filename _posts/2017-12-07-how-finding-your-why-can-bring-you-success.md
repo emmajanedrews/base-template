@@ -3,11 +3,11 @@ layout: post
 title: How Finding Your "Why" Can Bring You Success
 tags:
   - Real Estate
-date: 2017-12-07 12:46:51
+date: 2017-12-07 12:46:00
 excerpt: >-
   Everyone knows what they do and how they do it, but very few of us seem to
   understand why we do things. Today, I’d like to share some examples of the
-  power of “why.”
+  power of  'why'.
 enclosure:
 pullquote: >-
   Perhaps each of these teams were fighting for something greater—perhaps these
@@ -30,7 +30,7 @@ So, where does this difference come from? Does it depend on what we’re doing? 
 
 To help show the power of “knowing your why,” I’d like to share a few examples of this idea in action.
 
-On September 11th, 2001, the World Trade Center was attacked. That year, the New York Yankees went to the World Series. You may be wondering how these are connected, but let me explain. While the Yankees did not win, their run marked a turning point for the healing of the country.
+On September 11, 2001, the World Trade Center was attacked. That year, the New York Yankees went to the World Series. You may be wondering how these are connected, but let me explain. While the Yankees did not win, their run marked a turning point for the healing of the country.
 
 **Those who were brought together by the tragedy rallied around the Yankees as a symbol of the city and the country.**
 
