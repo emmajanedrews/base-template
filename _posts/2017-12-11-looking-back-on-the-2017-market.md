@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Looking Back on the 2017 Market
-date:
+date: 2017-12-10 20:50:25
 tags:
   - Market Update
 excerpt: How does the market now compare to the year in general? Here’s your update.
