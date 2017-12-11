@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Leitner Sarch Consultants LTD Video Blog with -- CLIENT NAME --</title>
-    <description>Our mission at Leitner Sarch Consultants LTD is to be your best resource for  real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Leitner Sarch Consultants LTD, your professional  Real Estate Agents.</description>
+    <title>Leitner Sarch Consultants LTD Video Blog with Danny Sarch</title>
+    <description>Our mission at Leitner Sarch Consultants, Ltd is to be your career fiduciary. Whether you are looking to hire wealth management professionals, find your next firm, or start your own firm, we are here to help. If you are curious about independence, about firms new or old, big or small, then you can be sure that Danny Sarch has done his homework on your behalf.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Dec 2017 16:41:18 -0600</pubDate>
-    <lastBuildDate>Wed, 06 Dec 2017 16:41:18 -0600</lastBuildDate>
+    <pubDate>Mon, 11 Dec 2017 10:24:02 -0600</pubDate>
+    <lastBuildDate>Mon, 11 Dec 2017 10:24:02 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -31,11 +31,11 @@
         <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
         <guid isPermaLink="true">localhost:4000/this-is-a-test-post-copy-2.html</guid>
         
-        <category>Market Update</category>
+        <category>Recruiting</category>
         
-        <category>Real Estate</category>
+        <category>Investment News</category>
         
-        <category>Home Seller Tips</category>
+        <category>Consulting</category>
         
         
       </item>
@@ -78,11 +78,11 @@
         <link>localhost:4000/a-fox-in-space.html</link>
         <guid isPermaLink="true">localhost:4000/a-fox-in-space.html</guid>
         
-        <category>Market Update</category>
+        <category>Recruiting</category>
         
-        <category>Real Estate</category>
+        <category>Investment News</category>
         
-        <category>Home Seller Tips</category>
+        <category>Consulting</category>
         
         
       </item>

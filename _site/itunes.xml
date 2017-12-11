@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title> Real Estate Podcast with Danny Sarch</title>
+    <title>Leitner Sarch Consultants LTD Podcast with Danny Sarch</title>
     <link>localhost:4000</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Leitner Sarch Consultants LTD - your professional  Real Estate Agents.</description>
+    <description>Our mission at Leitner Sarch Consultants, Ltd is to be your career fiduciary. Whether you are looking to hire wealth management professionals, find your next firm, or start your own firm, we are here to help. If you are curious about independence, about firms new or old, big or small, then you can be sure that Danny Sarch has done his homework on your behalf.</description>
     <language>en</language>
     <managingEditor>Danny Sarch</managingEditor>
-    <lastBuildDate>2017-12-06 16:41:18 -0600</lastBuildDate>
+    <lastBuildDate>2017-12-11 10:24:02 -0600</lastBuildDate>
     <media:copyright>Danny Sarch</media:copyright>
     <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -20,19 +20,19 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="localhost:4000/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the  Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Leitner Sarch Consultants LTD - your professional  Real Estate Agents.</itunes:summary>
+    <itunes:subtitle>If you are looking for top talent, searching for the next best job opportunity, or starting your own wealth management firm, get all of the latest tips from Danny Sarch, a recruiting expert.</itunes:subtitle>
+    <itunes:summary>Our mission at Leitner Sarch Consultants, Ltd is to be your career fiduciary. Whether you are looking to hire wealth management professionals, find your next firm, or start your own firm, we are here to help. If you are curious about independence, about firms new or old, big or small, then you can be sure that Danny Sarch has done his homework on your behalf.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
         <title>this is a test post</title>
         <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
         
-          <category>Market Update</category>
+          <category>Recruiting</category>
         
-          <category>Real Estate</category>
+          <category>Investment News</category>
         
-          <category>Home Seller Tips</category>
+          <category>Consulting</category>
         
         <author>Danny Sarch</author>
         <pubDate>2016-10-04 00:00:00 -0500</pubDate>
@@ -67,11 +67,11 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
         <title>A Fox in Space</title>
         <link>localhost:4000/a-fox-in-space.html</link>
         
-          <category>Market Update</category>
+          <category>Recruiting</category>
         
-          <category>Real Estate</category>
+          <category>Investment News</category>
         
-          <category>Home Seller Tips</category>
+          <category>Consulting</category>
         
         <author>Danny Sarch</author>
         <pubDate>2016-09-28 00:00:00 -0500</pubDate>
@@ -121,6 +121,6 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
     <copyright>Danny Sarch</copyright>
     <media:credit role="author">Danny Sarch</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Leitner Sarch Consultants LTD - your professional  Real Estate Agents.</media:description>
+    <media:description type="plain">Our mission at Leitner Sarch Consultants, Ltd is to be your career fiduciary. Whether you are looking to hire wealth management professionals, find your next firm, or start your own firm, we are here to help. If you are curious about independence, about firms new or old, big or small, then you can be sure that Danny Sarch has done his homework on your behalf.</media:description>
   </channel>
 </rss>
