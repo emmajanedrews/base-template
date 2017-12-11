@@ -28,7 +28,7 @@ client:
   phone2:
   phone2_type:
   email: Misty@BHGInnovations.com
-  url: BHGInnovations.com
+  url: http://BHGInnovations.com
 CTAs:
   VR_form: 'http://oi.vresp.com?fid=590cc0a696'
 sidebar_CTA:
