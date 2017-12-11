@@ -29,6 +29,8 @@ If you receive multiple offers on your home, you have three options.
 
 First, if you get one offer that is superior to others, you can go ahead and **accept the best offer.** If one offer gets you the best price and the terms you want or if you’re not sure the other buyers are qualified, you may be better off accepting the best one.
 
+{% include pullquote.html %}
+
 You can also counter the offer that you think is best or **counter all of the offers.** Let’s say that you get three offers and decide to counter all of them. In the counter, you have to have language that explains and contractually says if you receive multiple counteroffers back, you reserve the right to pick one of those offers.
 
 Finally, you can pull a Pat Benatar and tell the buyers, “Hit me with your best shot.” In this scenario, **ask each agent to have their buyers bring in their highest, best, and final offer.** From there, you choose which offer you want to go with. Asking for their highest and best can get you a price above and beyond what you expected. However, some buyers may respond emotionally. They won’t want to get in a bidding war, and they may pull their offer off the table.
@@ -36,5 +38,3 @@ Finally, you can pull a Pat Benatar and tell the buyers, “Hit me with your bes
 Choose which option is best for you to get your home sold for top dollar. As your real estate agent, I can guide you through this process.
 
 If you have any other questions about multiple offers or selling your home, just give me a call or send me an email. I would be happy to help you!
-
-{% include pullquote.html %}
