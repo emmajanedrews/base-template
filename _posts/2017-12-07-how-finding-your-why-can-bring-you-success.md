@@ -14,7 +14,7 @@ pullquote: >-
   teams were fighting for their “why.”
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /uploads/chris-gorman--do-you-know-your-why-youtube.jpg
 youtube_code: 'https://youtu.be/OXTpe7b6M4E'
 ---
