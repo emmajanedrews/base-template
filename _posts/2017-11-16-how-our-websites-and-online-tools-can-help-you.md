@@ -18,22 +18,15 @@ youtube_code: 'https://youtu.be/9BxAZT661t4'
 
 
 {% include youtube.html %}
-{: .present-before-paste}
 
-We at the Wicker Homes Group have been working very hard to create some really cool tools for our toolkit that buyers, sellers, and anyone thinking about making a real estate transaction can use.
-{: .present-before-paste}
+At the Wicker Homes Group, we have been working diligently to create some really cool tools to help buyers, sellers, and anyone considering buying or selling a home.
 
-Two tools that have been particularly very helpful are **our search website** [www.wickerhomesgroup.com](https://www.wickerhomesgroup.com/)[,](__notset__) which allows you to search available homes in real time, and **our video blog** [www.livelovenova.com](http://livelovenova.com). Our video blog will give you a video library of different real estate topics we’ve covered in the past for your education and enjoyment.<br><br>We also have two different websites for buyers and sellers, specifically. The website for buyers is [www.buywithwhg.com](http://www.buywithwhg.com), and the website for sellers is [www.sellwithwhg.com](http://www.sellwithwhg.com). Both of these websites are individually tailored for each side’s needs.
-{: .present-before-paste}
+Two tools that have been very helpful are **our search site,** [WickerHomesGroup.com](https://www.wickerhomesgroup.com/), which allows you to search available homes in real-time, and **our video blog,** [LiveLoveNova.com](https://www.livelovenova.com).<br><br>Our search site updates every hour and is far more accurate than Zillow, which only updates once every 24 hours. On our video blog you will have access to the entire video library of real estate topics we’ve covered in the past for your education and enjoyment.<br><br>We also have two NEW dedicated websites, one just for buyers ([BuyWithWHG.com](http://www.buywithwhg.com/)) and one exclusively for sellers ([SellWithWHG.com](http://www.sellwithwhg.com/)).
 
 {% include pullquote.html %}
-{: .present-before-paste}
 
-We’ve been getting a lot of feedback lately from clients who really love these websites. We’ve also been getting positive feedback from folks who aren’t our clients and even people we haven’t met yet who’ve used these tools to introduce themselves to the world of real estate.
-{: .present-before-paste}
+We’ve been getting a lot of feedback lately from clients who really love these websites. We’ve also been getting great feedback from people who are just exploring their options to buy or sell.
 
-**If you love our online tools, you’ll love meeting and working with our team.** Whether it’s our listing manager, Julie Westendorff; our transaction coordinator, Allyson Adamson; our marketing specialist, Mike Hauptman; or myself—we’re dedicated to serving you. Our tools are just the beginning!
-{: .present-before-paste}
+Well let me tell you,** if you like our tools, you’ll love working with our team.**&nbsp;Whether it’s our Transaction Manager, Allyson Adamson; our Marketing Manager, Mike Hauptman; Alexandra Wicker, our Buyer Specialist, or myself—we’re dedicated to serving you. Our tools are just the beginning!
 
-If you have any more questions about our websites and online tools or you’re thinking of buying or selling a home in the northern Virginia area, don’t hesitate to reach out to us. We’d be happy to help you.
-{: .present-before-paste}
+If you have any questions about our websites and online tools or if you are thinking of buying or selling a home in Northern Virginia, don’t hesitate to reach out to us. We’d be happy to help you.
