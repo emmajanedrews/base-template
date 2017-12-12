@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Avoid These 8 First-Time Homebuyer Mistakes
-date: 2017-12-11 14:34:57
+date: 2017-12-11 14:34:00
 tags:
 excerpt: >-
   If you are buying your first home, make sure that you avoid these eight
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: hnyeRDfXZpY
+youtube_code: q5k18kFnQmc
 ---
 
 
@@ -40,5 +40,3 @@ Over the years, I’ve seen first-time homebuyers make some foolish mistakes. He
 **8. Not using a Realtor as a buying representative.** Having a Realtor on your side is always a smart decision. A buyer’s agent understands the market, as well as how to negotiate the best price and terms for you. Would you hire a lawyer to represent you in court, or would you represent yourself?
 
 If you have any other questions about buying a home or about real estate in general, just give me a call or send me an email. I would be happy to help you!
-
-&nbsp;
