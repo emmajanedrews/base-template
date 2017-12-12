@@ -18,7 +18,7 @@ youtube_code: BNcm8xKTRQA
 
 {% include youtube.html %}
 
-Before we get to the latest news and information on the Baltimore Metro real estate market, I want to say thanks. Our recent Thanksgiving pie party was a huge success. We were so happy that so many of you made it out to say hi, support Toys for Tots, and take home some delicious pies. **Thanks to all of you and all of your referrals, we have been able to raise over $10,000 for Cool Kids this year.**
+Before we get to the latest news and information on the Baltimore Metro real estate market, I want to say thanks. Our recent Thanksgiving pie party was a huge success. We were so happy that so many of you made it out to say hi, help us collect nearly 100 toys for Toys for Tots, and take home some delicious pies. **Thanks to all of you and all of your referrals, we have also been able to raise over $10,000 for Cool Kids this year.**
 
 Next year, we’re stepping up our referral game and giving away a $5,000 Apple vacation gift card. Anybody who gives us a referral in the next year will be eligible.
 
@@ -33,7 +33,7 @@ Nationally, the market is up 6.3% in 2017, with Fannie Mae predicting about 5% a
 * Hartford County: The market is up 2.1% year to date, and the average sale price is up to $245,000.
 * Baltimore City: The market is up 3.9% year to date, and the average sale price is $135,000.
 
-As you can see, **most homeowners in the Baltimore metro are continuing to build steady equity on a year-by-year basis.** Look for this trend to continue, and also look for homeowners to start cashing in on this equity.\*\*
+As you can see, **most homeowners in the Baltimore metro are continuing to build steady equity on a year-by-year basis.**&nbsp;Look for this trend to continue, and also look for homeowners to start cashing in on this equity.\*\*
 
 {% include pullquote.html %}
 
