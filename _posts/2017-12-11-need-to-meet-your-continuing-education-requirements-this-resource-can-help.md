@@ -39,7 +39,7 @@ This is why I’ve found [www.RealEstateCE.com](https://realestatece.com/a/misty
 
 The best part of taking classes through this website, though, is that it helped me control my time. I was able to schedule my continuing education around my life, instead of scheduling my life around my continuing education.
 
-Additionally, there is an amazing discount available to Iowa licensees through [RealEstateCE.com/a/Misty-Soldwisch](https://realestatece.com/a/misty-soldwisch) that you can find [here.](https://realestatece.com/a/misty-soldwisch)
+Additionally, there is an amazing **discount available to Iowa licensees through [RealEstateCE.com/a/Misty-Soldwisch](https://realestatece.com/a/misty-soldwisch) that you can find [here.](https://realestatece.com/a/misty-soldwisch)**
 
 So if you’re busy, want to learn, and would like to save money, I definitely recommend checking it out.
 
