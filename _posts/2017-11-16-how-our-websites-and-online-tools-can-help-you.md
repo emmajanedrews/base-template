@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/9BxAZT661t4'
 
 At the Wicker Homes Group, we have been working diligently to create some really cool tools to help buyers, sellers, and anyone considering buying or selling a home.
 
-Two tools that have been very helpful are **our search site,** [WickerHomesGroup.com,](https://www.wickerhomesgroup.com/) which allows you to search available homes in real-time, and **our video blog,** [LiveLoveNova.com.](http://livelovenova.com)<br><br>Our search site updates every hour and is far more accurate than Zillow, which only updates once every 24 hours. On our video blog you will have access to the entire video library of real estate topics we’ve covered in the past for your education and enjoyment.<br><br>We also have two NEW dedicated websites, one just for buyers[(BuyWithWHG.com)](http://www.buywithwhg.com) and one exclusively for sellers [(SellWithWHG.com).](http://www.sellwithwhg.com)
+Two tools that have been very helpful are **our search site,** [WickerHomesGroup.com,](https://www.wickerhomesgroup.com/) which allows you to search available homes in real-time, and **our video blog,** [LiveLoveNova.com.](http://livelovenova.com)<br><br>Our search site updates every hour and is far more accurate than Zillow, which only updates once every 24 hours. On our video blog you will have access to the entire video library of real estate topics we’ve covered in the past for your education and enjoyment.<br><br>We also have two NEW dedicated websites, one just for buyers &nbsp;[(BuyWithWHG.com)](http://www.buywithwhg.com) and one exclusively for sellers [(SellWithWHG.com).](http://www.sellwithwhg.com)
 
 {% include pullquote.html %}
 
