@@ -20,7 +20,7 @@ youtube_code: F-9G-k-8VcQ
 
 We started this real estate brokerage because we saw so many people being underserved by real estate agents. Most of the time it isn’t due to lack of effort, but because agents don’t understand exactly what they needed to deliver.
 
-**No agent is excellent at every aspect of real estate.**Some are great at customer service, but don’t know how to bring in business. Others are great at bringing in business, but poor at customer service.
+**No agent is excellent at every aspect of real estate.** Some are great at customer service, but don’t know how to bring in business. Others are great at bringing in business, but poor at customer service.
 
 {% include pullquote.html %}
 
