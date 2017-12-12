@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you plan on selling your home, follow these four tips to make the whole
   process quicker and easier.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+4+tips+for+listing+your+home.mp4
 pullquote: Make sure that everything works properly.
 enclosure_type: video/mp4
 enclosure_time:
