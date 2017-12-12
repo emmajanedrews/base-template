@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why a QDIA Is a Win-Win Solution
-date: 2017-12-08 09:56:51
+date: 2017-12-08 09:56:00
 tags:
 excerpt: 'Today we’re going to talk about another automatic feature: a QDIA.'
 enclosure:
@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 2G4fBAi75rg
+youtube_code: 9GVbg70za30
 ---
 
 
