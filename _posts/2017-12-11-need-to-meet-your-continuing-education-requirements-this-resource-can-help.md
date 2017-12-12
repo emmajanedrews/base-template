@@ -35,11 +35,11 @@ As real estate professionals, we’ve got very unpredictable schedules. Fortunat
 
 {% include pullquote.html %}
 
-This is why I’ve found [www.RealEstateCE.com](https://realestatece.com/courses/iowa) to be an amazing resource. It’s very easy to sign up and is full of informational classes relevant to things I experience in my business. Also, it’s inexpensive.
+This is why I’ve found [www.RealEstateCE.com](https://realestatece.com/a/misty-soldwisch) to be an amazing resource. It’s very easy to sign up and is full of informational classes relevant to things I experience in my business. Also, it’s inexpensive.
 
 The best part of taking classes through this website, though, is that it helped me control my time. I was able to schedule my continuing education around my life, instead of scheduling my life around my continuing education.
 
-Additionally, there is an amazing discount available to Iowa licensees through [www.RealEstateCE.com](https://realestatece.com/courses/iowa) that you can find [here.](https://realestatece.com/courses/iowa)
+Additionally, there is an amazing discount available to Iowa licensees through [www.RealEstateCE.com](https://realestatece.com/a/misty-soldwisch) that you can find [here.](https://realestatece.com/a/misty-soldwisch)
 
 So if you’re busy, want to learn, and would like to save money, I definitely recommend checking it out.
 
