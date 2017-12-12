@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Need to Meet Your Continuing Education Requirements? This Resource Can Help
-date: 2017-12-06 17:37:17
+date: 2017-12-11 17:37:00
 tags:
 excerpt: >-
   How can we as agents possibly set aside time for continuing education with the
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/qiZPbpPgf6s'
+youtube_code: 'https://youtu.be/YG2WnVZ4bNE'
 ---
 
 
