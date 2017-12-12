@@ -27,6 +27,6 @@ Two tools that have been very helpful are **our search site,** [WickerHomesGroup
 
 We’ve been getting a lot of feedback lately from clients who really love these websites. We’ve also been getting great feedback from people who are just exploring their options to buy or sell.
 
-Well let me tell you, **if you like our tools, you’ll love working with our team.** Whether it’s our Transaction Manager, Allyson Adamson; our Marketing Manager, Mike Hauptman; Alexandra Wicker, our Buyer Specialist, or myself—we’re dedicated to serving you. Our tools are just the beginning!
+Well let me tell you,&nbsp;**if you like our tools, you’ll love working with our team.** Whether it’s our Transaction Manager, Allyson Adamson; our Marketing Manager, Mike Hauptman; Alexandra Wicker, our Buyer Specialist, or myself—we’re dedicated to serving you. Our tools are just the beginning!
 
 If you have any questions about our websites and online tools or if you are thinking of buying or selling a home in Northern Virginia, don’t hesitate to reach out to us. We’d be happy to help you.
