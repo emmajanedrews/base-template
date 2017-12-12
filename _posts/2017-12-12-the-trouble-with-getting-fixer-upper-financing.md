@@ -24,13 +24,13 @@ Why can’t you get traditional financing if you want to buy a bank-owned REO pr
 
 **Institutional lenders have very strict underwriting guidelines**, and they have a four-point inspection than bank-owned property would have to pass wherein each of the following points would have to function properly and be up to code:
 
-1. The HVAC System
+1.The HVAC System
 
-2. The electrical systems and electrical panel
+2.The electrical systems and electrical panel
 
-3. The plumbing and fixtures
+3.The plumbing and fixtures
 
-4. The roof
+4.The roof
 
 **Oftentimes, homes coming through foreclosure have been subject to what I call “duct tape maintenance.”** They’ve gone through many years of decline because whenever something broke and the owner was having financial problems, they used duct tape maintenance because they didn’t have the money to get it repaired properly. Because of this, these properties will fail one—if not all—of the criteria in the four-point inspection.&nbsp;
 
