@@ -31,7 +31,7 @@ Real estate is a complex industry, so continuing education is extremely importan
 
 But let’s be honest: it can be difficult to find time for that education when you’re keeping such a busy schedule yourself.
 
-As real estate professionals, we’ve got very unpredictable schedules. Fortunately, there is an alternative in Iowa to in-classroom learning.\*\* In Iowa, up to 24 hours of your continuing education can be done online.\*\*
+As real estate professionals, we’ve got very unpredictable schedules. Fortunately, there is an alternative in Iowa to in-classroom learning. **In Iowa, up to 24 hours of your continuing education can be done online.**
 
 {% include pullquote.html %}
 
