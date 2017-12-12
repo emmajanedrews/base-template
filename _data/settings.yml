@@ -41,7 +41,7 @@ client:
   phone2: 262.798.1162
   phone2_type: Direct
   email: rothteam@shorewest.com
-  url: 'http://www.RothTeam.Shorewest.com'
+  url: 'http://RothTeam.Shorewest.com'
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: https://rothteam.shorewest.com/vp/AgentServlet?SITE=SHOREW&ScreenID=AGENT_WHATS_MY_HOME_WORTH&pres_agent=5281
