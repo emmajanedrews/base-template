@@ -18,7 +18,7 @@ youtube_code: 'https://youtu.be/em_Hwk2zJhg'
 
 {% include youtube.html %}
 
-Before we get to the latest news and information on the Baltimore Metro real estate market, I want to say thanks. Our recent Thanksgiving pie party was a huge success. We were so happy that so many of you made it out to say hi, support Toys for Tots, and take home some delicious pies. **Thanks to all of you and all of your referrals, we have been able to raise over $10,000 for Toys for Tots this year.**
+Before we get to the latest news and information on the Baltimore Metro real estate market, I want to say thanks. Our recent Thanksgiving pie party was a huge success. We were so happy that so many of you made it out to say hi, support Toys for Tots, and take home some delicious pies. **Thanks to all of you and all of your referrals, we have been able to raise over $10,000 for Cool Kids this year.**
 
 Next year, we’re stepping up our referral game and giving away a $5,000 Apple vacation gift card. Anybody who gives us a referral in the next year will be eligible.
 
