@@ -1,39 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>-- CLIENT BRAND --</title>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Prosper Properties Realty Services - your professional Buda Real Estate Agents.</description>
-    <link>localhost:4000/</link>
-    <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 15 Aug 2017 14:54:19 -0500</pubDate>
-    <lastBuildDate>Tue, 15 Aug 2017 14:54:19 -0500</lastBuildDate>
+    <title>Buda Real Estate Video Blog with Karlyn Ellis</title>
+    <description>If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from Prosper Properties Realty Services - your professional Buda Real Estate Agents.</description>
+    <link>http://www.yourellisteam.com/</link>
+    <atom:link href="http://www.yourellisteam.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 12 Dec 2017 10:33:32 -0600</pubDate>
+    <lastBuildDate>Tue, 12 Dec 2017 10:33:32 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>this is a test post</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SFFy_drFrZs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>Come Support Local Artists by Visiting Our Gallery</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/TVIz0gL2iYA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;}&lt;/p&gt;
+&lt;p&gt;It may come as a surprise to some of you, but Prosper Properties actually has an on-site gallery. There, we showcase paintings and wood-burning artwork by local artists.&lt;/p&gt;
 
-&lt;p&gt;Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps &lt;strong&gt;gastropub marfa r&lt;/strong&gt;etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;You’ll find many different mediums and styles of artwork here. Each piece is beautiful and unique.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Bushwick&lt;/em&gt; &lt;a href=&quot;'http://google.com'&quot;&gt;marfa&lt;/a&gt; wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. &lt;a href=&quot;http://google.com&quot;&gt;Fanny&lt;/a&gt; pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.&lt;/p&gt;
+&lt;p&gt;Best of all, the beautiful artwork here is for sale. If you have an art-lover in your life, why not consider taking home a piece of our gallery as a holiday gift?&lt;/p&gt;
 
-&lt;p&gt;Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=We love supporting local artists.%20http://www.yourellisteam.com/come-support-local-artists-by-visiting-our-gallery.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“We love supporting local artists.”&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This is an example of a pull quote%20localhost:4000/this-is-a-test-post-copy-2.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This is an example of a pull quote”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Or, if you or someone you know is an artist yourself, we are also looking for more work to display. We’d love to showcase more local pieces.&lt;/p&gt;
 
-&lt;p&gt;Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.&lt;/p&gt;
+&lt;p&gt;Since we opened this space more than two years ago, we’ve done our best to support local artists. &lt;strong&gt;We don’t mark up the artwork or make any profit; we simply want to help people in our community sell their work.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…&lt;/p&gt;
+&lt;p&gt;If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 04 Oct 2016 00:00:00 -0500</pubDate>
-        <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
-        <guid isPermaLink="true">localhost:4000/this-is-a-test-post-copy-2.html</guid>
+        <pubDate>Mon, 04 Dec 2017 09:04:00 -0600</pubDate>
+        <link>http://www.yourellisteam.com/come-support-local-artists-by-visiting-our-gallery.html</link>
+        <guid isPermaLink="true">http://www.yourellisteam.com/come-support-local-artists-by-visiting-our-gallery.html</guid>
         
         <category>Market Update</category>
         
+        
+      </item>
+    
+      <item>
+        <title>5 Home Maintenance Projects to Do Twice a Year</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/NvRVkHq2--k?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Today I’d like to talk about home maintenance projects that should be done biannually, or every six months.&lt;/p&gt;
+
+&lt;p&gt;I use the changing seasons as a gauge for when these items should be done—before winter and before summer.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Have your HVAC system serviced.&lt;/strong&gt; Go ahead and have that coil cleaned, and do whatever else you need in order to get it in prime working order before the winter months, when you’ll need to be using it. It’ll save you money in the long run by extending the life of the system.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Replace your air filters.&lt;/strong&gt; Some air filters need to be replaced every month, but some need to be changed every four to six months. Be sure to have those checked before the winter season has moved in.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Extending the life of your HVAC system with regular upkeep will save you money in the long run.%20http://www.yourellisteam.com/5-home-maintenance-projects-to-do-twice-a-year.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Extending the life of your HVAC system with regular upkeep will save you money in the long run.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Check the perimeter of your home for any openings.&lt;/strong&gt; Sometimes caulk can shrink, in which case you’ll need to re-caulk it in order to keep critters and pests out.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4. Change out the batteries in your smoke detectors.&lt;/strong&gt; While you’re doing that, I also recommend that you check the batteries in your flashlights and your emergency preparedness kits. You don’t want to be caught in a storm with dead batteries.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5. Make sure your hose bibs are insulated and protected.&lt;/strong&gt; We don’t get too many hard freezes in our area, but one good freeze where a water pipe bursts and you’ll be crying. Make sure those are all wrapped up well for the winter.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions about this or other real estate-related topics, please feel free to reach out. My phone number is (512) 658-6476 or email me at karlyn@prosperprops.com. I look forward to hearing from you soon.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 21 Nov 2017 07:00:00 -0600</pubDate>
+        <link>http://www.yourellisteam.com/5-home-maintenance-projects-to-do-twice-a-year.html</link>
+        <guid isPermaLink="true">http://www.yourellisteam.com/5-home-maintenance-projects-to-do-twice-a-year.html</guid>
+        
         <category>Real Estate</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>If You're Going to List in 2018, You Can Start Preparing Now</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/OcsW-FkU-Ig?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;If you’re thinking of selling your home in 2018, you can start preparing now.&lt;/p&gt;
+
+&lt;p&gt;One easy improvement you can make is to alter your paint color. Buyers like neutral colors, so try to tone down any brightly colored walls.&lt;/p&gt;
+
+&lt;p&gt;Buyers will also want to be able to envision themselves in your home. To help them do this, &lt;strong&gt;depersonalize your home by removing family photos and similar items from the walls.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In terms of the home’s exterior, there are a few different things you can do. Sprucing up flower beds and clearing away fallen leaves are just two things you can do to make a big difference in your yard.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Seek the advice of a real estate professional before taking on any major projects.%20http://www.yourellisteam.com/if-youre-going-to-list-in-2018-you-can-start-preparing-now.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Seek the advice of a real estate professional before taking on any major projects.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Freshening your landscape so that it’s ready to be tackled in the spring will really help.&lt;/p&gt;
+
+&lt;p&gt;There are a number of other, larger projects you might want to take on. Bathroom and kitchen remodels are two of the most popular renovations you might make, but I recommend seeking the advice of a professional before taking on any major projects. You don’t want to overimprove for the neighborhood.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Having a conversation with your agent now about which projects to tackle before you list will help you be better prepared to sell in 2018.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 14 Nov 2017 05:54:00 -0600</pubDate>
+        <link>http://www.yourellisteam.com/if-youre-going-to-list-in-2018-you-can-start-preparing-now.html</link>
+        <guid isPermaLink="true">http://www.yourellisteam.com/if-youre-going-to-list-in-2018-you-can-start-preparing-now.html</guid>
         
         <category>Home Seller Tips</category>
         
@@ -41,48 +99,74 @@
       </item>
     
       <item>
-        <title>A Fox in Space</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SFFy_drFrZs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>A Look Inside One of Buda's Newest Stores</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/5Wb-DDPlebc?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;}&lt;/p&gt;
+&lt;p&gt;Today I’m excited to be coming to you from one of Buda’s newest stores: Thatcher. To learn a little more about the business and how it began, I spoke with owners Laura Howard and Mel Woods. Laura and Mel both live here In Buda with their families.&lt;/p&gt;
 
-&lt;p&gt;Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps &lt;strong&gt;&lt;a href=&quot;http://google.com&quot; target=&quot;_blank&quot;&gt;gastropub&lt;/a&gt; marfa r&lt;/strong&gt;etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.&lt;/p&gt;
+&lt;p&gt;According to Mel, she and Laura have always had a dream of working together and supporting their community. &lt;strong&gt;They have a passion for making life simple as well as for natural cleaning products.&lt;/strong&gt; It was this passion that they wanted to bring to Buda.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Bushwick&lt;/em&gt; &lt;a href=&quot;'http://google.com'&quot; target=&quot;_blank&quot;&gt;marfa&lt;/a&gt; wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.&lt;/p&gt;
+&lt;p&gt;Outside of simply running the store, Mel and Laura also get involved in the community in other ways.&lt;a href=&quot;https://twitter.com/home/?status=Mel and Laura have always had a dream of working together and supporting their community.%20http://www.yourellisteam.com/a-look-inside-one-of-budas-newest-stores.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Mel and Laura have always had a dream of working together and supporting their community.”&lt;/a&gt;&lt;strong&gt;On October 25th, they are running a fall flower workshop for pumpkin floral arrangements at the Buda Public Library.&lt;/strong&gt;Also, they are hosting a workshop at BudaFest on December 3rd for making floral arrangements with mistletoe.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;In the future, they also hope to host future workshops at the store itself.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;To keep track of everything going on with Thatcher, you can find the store on Instagram @ThatcherBuda and on Facebook as well. The store also has an email list you can find on either of these social media outlets.&lt;/p&gt;
 
-&lt;p&gt;Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This is an example of a pull quote%20localhost:4000/a-fox-in-space.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This is an example of a pull quote”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.&lt;/p&gt;
-
-&lt;p&gt;Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…&lt;/p&gt;
+&lt;p&gt;If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 28 Sep 2016 00:00:00 -0500</pubDate>
-        <link>localhost:4000/a-fox-in-space.html</link>
-        <guid isPermaLink="true">localhost:4000/a-fox-in-space.html</guid>
+        <pubDate>Thu, 26 Oct 2017 10:37:00 -0500</pubDate>
+        <link>http://www.yourellisteam.com/a-look-inside-one-of-budas-newest-stores.html</link>
+        <guid isPermaLink="true">http://www.yourellisteam.com/a-look-inside-one-of-budas-newest-stores.html</guid>
         
         <category>Market Update</category>
         
-        <category>Real Estate</category>
         
-        <category>Home Seller Tips</category>
+      </item>
+    
+      <item>
+        <title>Should You Hire a Realtor When Buying a New Construction Home?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/aDv8UadjtbE?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;I’m here today to answer the question, “Should I use a Realtor when purchasing a new home?” This is a common question we get in the Buda and Kyle markets where half of our inventory is made up of new construction homes.&lt;/p&gt;
+
+&lt;p&gt;A lot of builders are out there building homes as fast as they can, and there are a lot of opportunities out there for homebuyers. However, &lt;strong&gt;you should always use an agent when buying a home, even if it’s brand-new.&lt;/strong&gt; Here’s why.&lt;/p&gt;
+
+&lt;p&gt;The agent in the sales office or model home is working for the builder, not you. You need someone on your side who is looking out for your best interests, which is what you get with a buyer’s agent. If you don’t hire one, you could fall victim to a number of hiccups. You might be advised against doing an inspection, which may cause you to be unaware of a major defect in the new home. They are rare, but they occur.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=You need someone on your side of the transaction.%20http://www.yourellisteam.com/should-you-hire-a-realtor-when-buying-a-new-construction-home.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“You need someone on your side of the transaction.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Another reason to hire a buyer’s agent when purchasing a new home is because of the wealth of information they have. We can give you a full financial picture of your home, including what payments will look like two or three years down the line when the property tax rates are adjusted.&lt;/p&gt;
+
+&lt;p&gt;You see, a lot of times the taxes that builders quote you on are usually for the unimproved land. In year two or three, your taxes will go through the roof. &lt;strong&gt;I’ve had to sell a lot of homes recently that were bought two years ago, but now the owner can’t afford the additional payments.&lt;/strong&gt; We don’t want that to happen to you.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions for us or you need our assistance in buying or selling a home, give us a call or send us an email. We would love to be of assistance.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 20 Sep 2017 05:59:00 -0500</pubDate>
+        <link>http://www.yourellisteam.com/should-you-hire-a-realtor-when-buying-a-new-construction-home.html</link>
+        <guid isPermaLink="true">http://www.yourellisteam.com/should-you-hire-a-realtor-when-buying-a-new-construction-home.html</guid>
+        
+        <category>Home Buyer Tips</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>End of Summer Market Update</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/glFgLh1WyWQ?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;We’re at the end of summer already and heading into fall. I wanted to quickly touch base with you about what we saw in the real estate market this summer and what we can expect over the next couple months.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Home sales are up 10% overall, but we saw a bit of a buyer slowdown in mid-July.&lt;/strong&gt;That leaves us with 471 homes on the market right now, with 200 of them being new homes.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Almost half of our listings are new homes.%20http://www.yourellisteam.com/end-of-summer-market-update.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Almost half of our listings are new homes.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;With almost half of our listings being new construction homes, buyers have options. They can pick a brand-new home with great incentives and custom finishes. &lt;strong&gt;If you’re thinking of selling your home this fall, you’ll need to stage it and price it aggressively to compete with those model homes.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If you’re thinking about buying or selling anytime in the near future, give me a call or send me an email. I look forward to hearing from you.&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Sep 2017 19:00:00 -0500</pubDate>
+        <link>http://www.yourellisteam.com/end-of-summer-market-update.html</link>
+        <guid isPermaLink="true">http://www.yourellisteam.com/end-of-summer-market-update.html</guid>
         
         
       </item>
