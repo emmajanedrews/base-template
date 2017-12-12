@@ -24,7 +24,7 @@ Why can’t you get traditional financing if you want to buy a bank-owned REO pr
 
 **Institutional lenders have very strict underwriting guidelines**, and they have a four-point inspection than bank-owned property would have to pass wherein each of the following points would have to function properly and be up to code:
 
-1. the HVAC System
+1. The HVAC System
 
 2. The electrical systems and electrical panel
 
