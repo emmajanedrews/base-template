@@ -26,4 +26,4 @@ We started this real estate brokerage because we saw so many people being unders
 
 One of our goals in starting Homestead + CO was to create a culture that enhances the individual strengths of each of our team members and matches them together. We’ve succeeded in doing that, and we’re able to deliver a much higher level of customer service. By doing this, our agents have become more successful, too.
 
-If you have any questions about our team or if it sounds like an environment you could thrive in as an agent, **I invite you to apply online at our career page [here](https://www.homesteadrealtyco.com/careers/).**If you have any other questions in the meantime, give us a call or send us an email. We’re here to help.
+If you have any questions about our team or if it sounds like an environment you could thrive in as an agent, **I invite you to apply online at our career page [here](https://www.homesteadrealtyco.com/careers/).** If you have any other questions in the meantime, give us a call or send us an email. We’re here to help.
