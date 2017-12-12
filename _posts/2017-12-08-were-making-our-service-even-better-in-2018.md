@@ -1,12 +1,14 @@
 ---
 layout: post
 title: We’re Making Our Service Even Better in 2018
-date: 2017-12-05 17:00:00
+date: 2017-12-08 17:00:00
 tags:
   - Real Estate
 excerpt: We have an exciting announcement to make today. Stay tuned to see what it is.
 enclosure:
-pullquote: We’re proud to announce that we’ve joined Coldwell Banker.
+pullquote: >-
+  We’re proud to announce that we’ve joined Coldwell Banker Residential Real
+  Estate Brokerage.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
