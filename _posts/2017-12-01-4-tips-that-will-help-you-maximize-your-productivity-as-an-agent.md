@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   To ensure that you’re achieving your maximum productivity every day, here are
   four tips you can follow.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Tom+Nickley/Training+Videos/Orlando+Real+Estate+Agent-+Increase+your+productivity+from+here+on+out.mp4
 pullquote: Become a student of this industry to become the best in this industry.
 enclosure_type: video/mp4
 enclosure_time:
