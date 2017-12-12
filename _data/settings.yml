@@ -54,7 +54,7 @@ sidebar_CTA:
     CTA_text: >-
       Are you thinking of selling your home or interested in learning about home
       prices in your neighborhood? We can help you.
-    CTA_link_text: Free -- MARKET -- Home Value Report
+    CTA_link_text: Free Home Value Report
     CTA_url: >-
       http://www.rothteam.shorewest.com/vp/AgentServlet?SITE=SHOREW&ScreenID=AGENT_WHATS_MY_HOME_WORTH&pres_agent=5281
 second_sidebar_CTA:
@@ -62,8 +62,7 @@ second_sidebar_CTA:
     CTA_title2: Looking for a -- MARKET -- Home?
     CTA_text2: Search the entire MLS for your -- MARKET -- home.
     CTA_link_text2: Search the MLS
-    CTA_url2: >-
-      http://www.rothteam.shorewest.com/vp/SearchServlet?SITE=SHOREW&ScreenID=AGENT_SEARCH_LISTING&pres_agent=5281
+    CTA_url2: http://www.rothteam.shorewest.com/vp/SearchServlet?SITE=SHOREW&ScreenID=AGENT_SEARCH_LISTING&pres_agent=5281
 lender:
   show_section: true
   header_text: Preferred Lender
