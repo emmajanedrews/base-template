@@ -46,8 +46,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: rothteam.shorewest.com/
   second_CTA_text: Home Search
-  second_CTA_URL: >-
-    rothteam.shorewest.com/vp/SearchServlet?SITE=SHOREW&ScreenID=AGENT_SEARCH_LISTING&pres_agent=5281
+  second_CTA_URL: rothteam.shorewest.com/vp/SearchServlet?SITE=SHOREW&ScreenID=AGENT_SEARCH_LISTING&pres_agent=5281
   VR_form: 'http://oi.vresp.com?fid=40a3c403c8'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
