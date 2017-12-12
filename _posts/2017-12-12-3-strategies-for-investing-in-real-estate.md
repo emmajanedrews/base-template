@@ -23,7 +23,7 @@ youtube_code: q0V3Zusxcoc
 
 Today I want to talk about three general strategies for investing in real estate.
 
-**1. Rentals, or “buy and holds”.**Essentially, we buy a property using either financing or cash and then rent it out. One strategy we use to rent out homes is to keep them occupied as much as possible. We prefer to give a little bit less than market rent to make sure we stay occupied, rather than holding out for an extra money and risk a vacancy. It helps get us a higher level of return over the life of the property.<br>**2. Flips, or “rehabs.”** This is where we buy a property for below market value, possibly in a distressed condition that requires a lot of work, after which we’ll make some repairs and get it back to market value. Though this is a popular method on TV, these deals are harder and harder to come by, though some people can make a living doing them.
+**1. Rentals, or “buy and holds.”** Essentially, we buy a property using either financing or cash and then rent it out. One strategy we use to rent out homes is to keep them occupied as much as possible. We prefer to give a little bit less than market rent to make sure we stay occupied, rather than holding out for an extra money and risk a vacancy. It helps get us a higher level of return over the life of the property.<br>**2. Flips, or “rehabs.”** This is where we buy a property for below market value, possibly in a distressed condition that requires a lot of work, after which we’ll make some repairs and get it back to market value. Though this is a popular method on TV, these deals are harder and harder to come by, though some people can make a living doing them.
 
 {% include pullquote.html %}
 
