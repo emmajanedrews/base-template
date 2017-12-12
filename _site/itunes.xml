@@ -2,30 +2,73 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Central Iowa Real Estate Careers and Training Podcast with Misty Soldwisch</title>
-    <link>http://changinglivesthroughrealestate.com</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://changinglivesthroughrealestate.com"/>
+    <link>http://bebetterdsm.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://bebetterdsm.com"/>
     <description>A Podcast about Central Iowa Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</description>
     <language>en</language>
-    <managingEditor>Misty Soldwisch</managingEditor>
-    <lastBuildDate>2017-10-30 11:20:04 -0500</lastBuildDate>
-    <media:copyright>Misty Soldwisch</media:copyright>
-    <media:thumbnail url="http://changinglivesthroughrealestate.com/img/podcast.jpg"/>
+    <managingEditor>Misty SOLDwisch</managingEditor>
+    <lastBuildDate>2017-12-12 13:16:19 -0600</lastBuildDate>
+    <media:copyright>Misty SOLDwisch</media:copyright>
+    <media:thumbnail url="http://bebetterdsm.com/img/podcast.jpg"/>
     <media:keywords>Central Iowa Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
-      <itunes:email>misty@mistysold.com</itunes:email>
-      <itunes:name>Misty Soldwisch</itunes:name>
+      <itunes:email>Misty@BHGInnovations.com</itunes:email>
+      <itunes:name>Misty SOLDwisch</itunes:name>
     </itunes:owner>
-    <itunes:author>Misty Soldwisch</itunes:author>
+    <itunes:author>Misty SOLDwisch</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="http://changinglivesthroughrealestate.com/img/podcast.jpg"/>
+    <itunes:image href="http://bebetterdsm.com/img/podcast.jpg"/>
     <itunes:keywords>Central Iowa Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
     <itunes:subtitle>Boost your Career with Veteran Real Estate Agent Misty Soldwisch</itunes:subtitle>
     <itunes:summary>A Podcast about Central Iowa Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</itunes:summary>
       <itunes:category text="Education"/>
     
-    <copyright>Misty Soldwisch</copyright>
-    <media:credit role="author">Misty Soldwisch</media:credit>
+      <item>
+        <title>Need to Meet Your Continuing Education Requirements? This Resource Can Help</title>
+        <link>http://bebetterdsm.com/need-to-meet-your-continuing-education-requirements-this-resource-can-help.html</link>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2017-12-06 11:37:17 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+Toward the end of the year, I always notice that many agents are scrambling to get their continuing education requirements in for their license renewal.
+
+In the state of Iowa, agents are required to take 36 hours of continuing education every three years, with those hours due by December 31 of the year your license expires.
+
+This education includes eight hours of law updates, four hours of ethics, and 24 hours of electives.
+
+Real estate is a complex industry, so continuing education is extremely important. Knowing industry standards, new laws, and other information helps us, as agents, be the best professionals we can.
+
+But let’s be honest: it can be difficult to find time for that education when you’re keeping such a busy schedule yourself.
+
+As real estate professionals, we’ve got very unpredictable schedules. Fortunately, there is an alternative in Iowa to in-classroom learning.** In Iowa, up to 24 hours of your continuing education can be done online.**
+
+“I was able to schedule my continuing education around my life, instead of scheduling my life around my continuing education.”
+
+This is why I’ve found www.RealEstateCE.com to be an amazing resource. It’s very easy to sign up and is full of informational classes relevant to things I experience in my business. Also, it’s inexpensive.
+
+The best part of taking classes through this website, though, is that it helped me control my time. I was able to schedule my continuing education around my life, instead of scheduling my life around my continuing education.
+
+Additionally, there is an amazing discount available to Iowa licensees through www.RealEstateCE.com that you can find here.
+
+So if you’re busy, want to learn, and would like to save money, I definitely recommend checking it out.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://bebetterdsm.com" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>How can we as agents possibly set aside time for continuing education with the busy schedules we maintain? Today, I’d like to share a great resource that can help.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>How can we as agents possibly set aside time for continuing education with the busy schedules we maintain? Today, I’d like to share a great resource that can help.</itunes:summary>
+        <itunes:keywords>Central Iowa Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+      </item>
+      
+    <copyright>Misty SOLDwisch</copyright>
+    <media:credit role="author">Misty SOLDwisch</media:credit>
     <media:rating>nonadult</media:rating>
     <media:description type="plain">A Podcast about Central Iowa Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</media:description>
   </channel>
