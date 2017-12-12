@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Strategies for Investing in Real Estate
-date: 2017-12-12 09:39:19
+date: 2017-12-12 09:39:00
 tags:
 excerpt: >-
   Curious about investing in real estate? Here are three ways you can get
@@ -9,7 +9,7 @@ excerpt: >-
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Zach+Sikes/Homestead+%2526+Co-+3+Strategies+for+Investing+in+Real+Estate.mp4
 pullquote: >-
-  For a ‘buy and hold’, we buy a property using either financing or cash and
+  For a ‘buy and hold,’ we buy a property using either financing or cash and
   then rent it out.
 enclosure_type: video/mp4
 enclosure_time:
