@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Can You Have More Than 1 VA Loan?
-date: 2017-12-13 12:08:04
+date: 2017-12-13 12:08:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/adam-c-youtube-1.jpg
-youtube_code: X6uqL5CmrCc
+youtube_code: j9Yjneb9IGw
 ---
 
 
