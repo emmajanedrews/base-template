@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title> Real Estate Podcast with </title>
+    <title>Quarterback to Coach Podcast</title>
     <link>localhost:4000</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</description>
+    <description>Jerimiah Taylor and Isacc Guzman swap their secrets on how to polish your leadership skills, shift your business mindset, and empower your team.</description>
     <language>en</language>
     <managingEditor></managingEditor>
-    <lastBuildDate>2017-11-10 15:15:00 -0600</lastBuildDate>
+    <lastBuildDate>2017-12-13 12:49:03 -0600</lastBuildDate>
     <media:copyright></media:copyright>
     <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
-    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
+    <media:keywords>Entrepreneurs, Leadership skills, business, business mindset, team building, team empowerment</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
       <itunes:email></itunes:email>
@@ -19,20 +19,20 @@
     <itunes:author></itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="localhost:4000/img/podcast.jpg"/>
-    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the  Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</itunes:summary>
+    <itunes:keywords>Entrepreneurs, Leadership skills, business, business mindset, team building, team empowerment</itunes:keywords>
+    <itunes:subtitle>The place where entrepreneurs come to become leaders.</itunes:subtitle>
+    <itunes:summary>Jerimiah Taylor and Isacc Guzman swap their secrets on how to polish your leadership skills, shift your business mindset, and empower your team.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
         <title>this is a test post</title>
         <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
         
-          <category>Market Update</category>
+          <category>Leadership Skills</category>
         
-          <category>Real Estate</category>
+          <category>Entrepreneurs</category>
         
-          <category>Home Seller Tips</category>
+          <category>Team Building</category>
         
         <author></author>
         <pubDate>2016-10-04 00:00:00 -0500</pubDate>
@@ -60,18 +60,18 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
         <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
         <itunes:author></itunes:author>
         <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Entrepreneurs, Leadership skills, business, business mindset, team building, team empowerment</itunes:keywords>
       </item>
       
       <item>
         <title>A Fox in Space</title>
         <link>localhost:4000/a-fox-in-space.html</link>
         
-          <category>Market Update</category>
+          <category>Leadership Skills</category>
         
-          <category>Real Estate</category>
+          <category>Entrepreneurs</category>
         
-          <category>Home Seller Tips</category>
+          <category>Team Building</category>
         
         <author></author>
         <pubDate>2016-09-28 00:00:00 -0500</pubDate>
@@ -115,12 +115,12 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
         <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
         <itunes:author></itunes:author>
         <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Entrepreneurs, Leadership skills, business, business mindset, team building, team empowerment</itunes:keywords>
       </item>
       
     <copyright></copyright>
     <media:credit role="author"></media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</media:description>
+    <media:description type="plain">Jerimiah Taylor and Isacc Guzman swap their secrets on how to polish your leadership skills, shift your business mindset, and empower your team.</media:description>
   </channel>
 </rss>
