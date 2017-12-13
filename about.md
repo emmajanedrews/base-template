@@ -50,7 +50,7 @@ David is a native of the Puget Sound area. As a former Infantry Marine David enj
 Lydia Blas-Fernandez
 {: .team-member}
 
-<div class="team-bio">Lydia was raised in Bonney Lake by way of Guam and currently residing in the South Sound, is engaged to be married and looking forward to her next chapter in life and what is yet to come. She is very excited to help you with your Real Estate needs whether it's buying, selling or investing, she is your gal! Contact Lydia today!</div>
+<div class="team-bio">Lydia is from Guam and now calls the Puget Sound home! She is married and looking forward to her next chapter in life and what is yet to come. She is very excited to help you with your Real Estate needs whether it's buying, selling or investing, she is your gal! Contact Lydia today!</div>
 
 ---
 
@@ -59,4 +59,5 @@ Lydia Blas-Fernandez
 Kris Ogilvie
 {: .team-member}
 
-#### Kris is a lifetime Pacific Northwest resident, and loves helping others succeed through real estate. She is the Transaction Guru for Abode Base Real Estate, and is responsible for a lot of the magic that happens behind the scenes!
+Kris is a lifetime Pacific Northwest resident, and loves helping others succeed through real estate. &nbsp;She is the Transaction Guru for Abode Base Real Estate, and is responsible for a lot of the magic that happens behind the scenes!
+{: .team-member}
