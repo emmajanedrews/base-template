@@ -26,6 +26,8 @@ youtube_code: 'https://youtu.be/_0b6Rl-Fw6U'
 
 *Should you put your home on the market this winter or wait until spring? We have a few statistics to help you make this decision today.*
 
+&nbsp;
+
 Should you list your home for sale in the winter, or should you wait until spring?
 
 December is actually the biggest month for us out of the whole year. We sell more houses in December than any other time of year. There are a few other reasons why you may not want to wait until spring to put your home on the market.
