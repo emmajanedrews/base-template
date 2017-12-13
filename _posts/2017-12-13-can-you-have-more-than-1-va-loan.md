@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/adam-c-youtube-1.jpg
-youtube_code: j9Yjneb9IGw
+youtube_code: GROG2i6pNM8
 ---
 
 
