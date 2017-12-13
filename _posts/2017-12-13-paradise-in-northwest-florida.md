@@ -10,7 +10,7 @@ enclosure:
 pullquote: See the beauty that Defuniak Springs has to offer.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image:
 youtube_code: gi-uw9p2pFU
 ---
@@ -31,5 +31,3 @@ I highly recommend that you get out, explore a bit, and see the beauty that Nort
 Check out the video above to see more of Defuniak Springs.
 
 If you have any real estate questions, I would be happy to help you!
-
-&nbsp;
