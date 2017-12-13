@@ -28,4 +28,4 @@ Can you have more than one VA loan? Yes you can, but it depends on how much enti
 
 {% include pullquote.html %}
 
-If you have any other questions or have a topic in mind that you’d like us to address in our next video, feel free to give us a call or send us an email. We’d be happy to help you.
+If you have any other questions or have a topic in mind that you’d like us to address in our next video, feel free to give us a call or send us an email. We’d be happy to help you.&nbsp;
