@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Which Method of Property Valuation Is Best?
-date: 2017-12-08 11:02:27
+date: 2017-12-08 11:02:00
 tags:
 excerpt: >-
   Do you ever wonder about how property valuations are determined? There are
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/salas-youtube-1.jpg
-youtube_code: dr--lm_4bbU
+youtube_code: MZDTWj2Oej0
 ---
 
 
