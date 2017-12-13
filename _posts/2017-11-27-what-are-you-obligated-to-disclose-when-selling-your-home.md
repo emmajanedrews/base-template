@@ -1,13 +1,14 @@
 ---
 layout: post
 title: What Are You Obligated to Disclose When Selling Your Home?
-date: 2017-11-27 11:46:57
+date: 2017-11-27 11:46:00
 tags:
   - Real Estate
 excerpt: >-
   As a seller, what information do you have to disclose to potential buyers?
   I’ll clear up all the confusion around seller disclosures today.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Becky+Ivins/Videos/December/Oklahoma+City+Metro+Real+Estate+Agent-+How+to+Increase+Your+Value.mp4
 pullquote: >-
   The seller disclosure is a defined list of questions about residential
   properties.
