@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from BTG Real Estate - your professional  Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Kevin Langan</managingEditor>
-    <lastBuildDate>2017-12-13 16:04:53 -0600</lastBuildDate>
+    <lastBuildDate>2017-12-13 16:17:57 -0600</lastBuildDate>
     <media:copyright>Kevin Langan</media:copyright>
     <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -24,88 +24,6 @@
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from BTG Real Estate - your professional  Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
-      <item>
-        <title></title>
-        <link>localhost:4000/2017-06-28-the-3-biggest-benefits-of-owning.html</link>
-        
-        <author>Kevin Langan</author>
-        <pubDate>2017-12-13 16:04:53 -0600</pubDate>
-        <guid></guid>
-        <description>
-
-If you’re on the fence about investing in real estate as a rental property, learning these three benefits might tip the scales for you.
-
-Want to sell your home? Get a FREE home value report
-Want to buy a home? Search all homes for sale
-
-Real estate is an excellent vehicle for building long-term wealth as an investment.
-
-There are three benefits to focus on for buy and hold (rental) real estate investment properties:
-
-1. Cash flow: Once you close on the property and get a tenant, you’ll receive income every single month from their rent. You need to make sure you’re actually making profit and that the expenses of the property don’t exceed the incoming cash.
-
-2. Tax breaks: There’s a rule in the IRS code that allows you to depreciate the property - meaning you can write off its expenses over time and deduct it from your taxable income. This creates annual savings.
-
-3. Building equity in the property over time: As you rent out the property, the tenant will pay down the mortgage balance and the property will appreciate over time. Between your tenant paying down the mortgage and the appreciation (40-year average is about 4%), you’ll build a lot of equity.
-
-“”
-
-At the end of the investment, it’s important to have an exit strategy in place to move that money into another investment or retirement.
-
-If you’re thinking of investing in Phoenix real estate or just buying a home, give me a call or send me an email soon. I’d be glad to help however I can.
-</description>
-        <enclosure url="" length="" type=""/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type=""/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle></itunes:subtitle>
-        <itunes:author>Kevin Langan</itunes:author>
-        <itunes:summary></itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-      </item>
-      
-      <item>
-        <title></title>
-        <link>localhost:4000/2017-05-04-how-our-market-prediction-held-up-in-q1.html</link>
-        
-        <author>Kevin Langan</author>
-        <pubDate>2017-12-13 16:04:53 -0600</pubDate>
-        <guid></guid>
-        <description>
-
-Today we’re looking back on our predictions for the 2017 Phoenix market compared to where we’re actually at.
-
-Want to sell your home? Get a FREE home value report
-Want to buy a home? Search all homes for sale
-
-Back in January, I gave four predictions for what I thought would happen this year in the Phoenix market: Homes priced under $250,000 being very competitive, interest rates, new construction, and the luxury market.
-
-Today, I wanted to break down how those predictions fared.
-
-First, we still see a lot of pressure in that first-time homebuyer price range of $250,000 and under. Currently, there are fewer than 7,300 pending sales in that price range with only about 5,800 active listings for sale.
-
-This means that in this price range, there is less than one month of inventory, which is extremely low, and it’s definitely a seller’s market. Multiple offers on homes are very common and it’s certainly a challenge for buyers looking to get into their first home.
-
-I predicted interest rates would rise this year, which they’ve done with some fluctuation thanks to the stock market going up and down a bit. Overall though, rates are higher than they were last year and we expect them to keep trending up.
-
-“”
-
-With new construction sales, we’re seeing the activity go up. I can personally say that more and more of my clients want to see new builds because of the fact that they’re move-in ready and brand new.
-
-Finally, there’s the luxury market, which I predicted would get more active this year. Between the $750,000 and $1 million price points, we have 590 pending sales and about 3,300 active listings. That makes for a balanced, healthy, and stable market with about six months worth of inventory, which is much better than it has been in recent years. Over the past few years during the recession, luxury market inventory had been as high as 24 months.
-
-Thanks for looking back on our predictions. If you have any questions about the Phoenix market or you’re thinking of buying or selling a home, don’t hesitate to give me a call or send me an email. I’m always happy to help!
-</description>
-        <enclosure url="" length="" type=""/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type=""/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle></itunes:subtitle>
-        <itunes:author>Kevin Langan</itunes:author>
-        <itunes:summary></itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-      </item>
-      
       <item>
         <title>Why Are Homebuyers Feeling Optimistic?</title>
         <link>localhost:4000/why-are-homebuyers-feeling-optimistic.html</link>
@@ -391,6 +309,56 @@ If you want to buy a home but can’t cover the down payment, there are three op
       </item>
       
       <item>
+        <title>The 3 Biggest Benefits of Owning Investment Property</title>
+        <link>localhost:4000/the-3-biggest-benefits-of-owning.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Kevin Langan</author>
+        <pubDate>2017-06-28 11:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kevin+Langan/Phoenix+Real+Estate+Agent+Investing+in+Real+Estate.mp4</guid>
+        <description>
+
+If you’re on the fence about investing in real estate as a rental property, learning these three benefits might tip the scales for you.
+
+Want to sell your home? Get a FREE home value report
+Want to buy a home? Search all homes for sale
+
+Real estate is an excellent vehicle for building long-term wealth as an investment.
+
+There are three benefits to focus on for buy and hold (rental) real estate investment properties:
+
+1. Cash flow: Once you close on the property and get a tenant, you’ll receive income every single month from their rent. You need to make sure you’re actually making profit and that the expenses of the property don’t exceed the incoming cash.
+
+2. Tax breaks: There’s a rule in the IRS code that allows you to depreciate the property - meaning you can write off its expenses over time and deduct it from your taxable income. This creates annual savings.
+
+3. Building equity in the property over time: As you rent out the property, the tenant will pay down the mortgage balance and the property will appreciate over time. Between your tenant paying down the mortgage and the appreciation (40-year average is about 4%), you’ll build a lot of equity.
+
+“OVER TIME, A TENANT PAYS DOWN YOUR MORTGAGE WHILE APPRECIATION BOOSTS YOUR PROPERTY’S VALUE.”
+
+At the end of the investment, it’s important to have an exit strategy in place to move that money into another investment or retirement.
+
+If you’re thinking of investing in Phoenix real estate or just buying a home, give me a call or send me an email soon. I’d be glad to help however I can.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kevin+Langan/Phoenix+Real+Estate+Agent+Investing+in+Real+Estate.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kevin+Langan/Phoenix+Real+Estate+Agent+Investing+in+Real+Estate.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+If you’re on the fence about investing in real estate as a rental property, learning these three benefits might tip the scales for you.
+
+</itunes:subtitle>
+        <itunes:author>Kevin Langan</itunes:author>
+        <itunes:summary>
+
+If you’re on the fence about investing in real estate as a rental property, learning these three benefits might tip the scales for you.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>3 Things to Remember About Zillows Zestimates</title>
         <link>localhost:4000/3-things-to-remember-about-zillows.html</link>
         
@@ -483,6 +451,58 @@ Many real estate investors here in Phoenix have turned to vacation rentals like 
         <itunes:summary>
 
 Many real estate investors here in Phoenix have turned to vacation rentals like Airbnb for cash flow. If you’re considering this kind of investment, consider these four points.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>1st Quarter Predictions vs. Reality in the Phoenix Market</title>
+        <link>localhost:4000/how-our-market-prediction-held-up-in-q1.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Kevin Langan</author>
+        <pubDate>2017-05-04 12:18:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kevin+Langan/Phoenix+Real+Estate+Agent+First+Quarter+Market+Update.mp4</guid>
+        <description>
+
+Today we’re looking back on our predictions for the 2017 Phoenix market compared to where we’re actually at.
+
+Want to sell your home? Get a FREE home value report
+Want to buy a home? Search all homes for sale
+
+Back in January, I gave four predictions for what I thought would happen this year in the Phoenix market: Homes priced under $250,000 being very competitive, interest rates, new construction, and the luxury market.
+
+Today, I wanted to break down how those predictions fared.
+
+First, we still see a lot of pressure in that first-time homebuyer price range of $250,000 and under. Currently, there are fewer than 7,300 pending sales in that price range with only about 5,800 active listings for sale.
+
+This means that in this price range, there is less than one month of inventory, which is extremely low, and it’s definitely a seller’s market. Multiple offers on homes are very common and it’s certainly a challenge for buyers looking to get into their first home.
+
+I predicted interest rates would rise this year, which they’ve done with some fluctuation thanks to the stock market going up and down a bit. Overall though, rates are higher than they were last year and we expect them to keep trending up.
+
+“IT’S CHALLENGING FOR BUYERS LOOKING TO GET INTO THEIR FIRST HOME.”
+
+With new construction sales, we’re seeing the activity go up. I can personally say that more and more of my clients want to see new builds because of the fact that they’re move-in ready and brand new.
+
+Finally, there’s the luxury market, which I predicted would get more active this year. Between the $750,000 and $1 million price points, we have 590 pending sales and about 3,300 active listings. That makes for a balanced, healthy, and stable market with about six months worth of inventory, which is much better than it has been in recent years. Over the past few years during the recession, luxury market inventory had been as high as 24 months.
+
+Thanks for looking back on our predictions. If you have any questions about the Phoenix market or you’re thinking of buying or selling a home, don’t hesitate to give me a call or send me an email. I’m always happy to help!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kevin+Langan/Phoenix+Real+Estate+Agent+First+Quarter+Market+Update.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kevin+Langan/Phoenix+Real+Estate+Agent+First+Quarter+Market+Update.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Today we’re looking back on our predictions for the 2017 Phoenix market compared to where we’re actually at.
+
+</itunes:subtitle>
+        <itunes:author>Kevin Langan</itunes:author>
+        <itunes:summary>
+
+Today we’re looking back on our predictions for the 2017 Phoenix market compared to where we’re actually at.
 
 </itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>

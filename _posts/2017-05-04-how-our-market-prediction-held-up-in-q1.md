@@ -1,8 +1,8 @@
 ---
-youtube_code: 'Ka_naYSwzdk'
+youtube_code: Ka_naYSwzdk
 excerpt:
 enclosure: https://s3.amazonaws.com/vyralmarketing/Kevin+Langan/Phoenix+Real+Estate+Agent+First+Quarter+Market+Update.mp4
-pullquote: 'IT'S CHALLENGING FOR BUYERS LOOKING TO GET INTO THEIR FIRST HOME.'
+pullquote: IT'S CHALLENGING FOR BUYERS LOOKING TO GET INTO THEIR FIRST HOME.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true

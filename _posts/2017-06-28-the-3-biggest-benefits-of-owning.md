@@ -2,7 +2,7 @@
 youtube_code: MhFwNTGr-tY
 excerpt:
 enclosure: https://s3.amazonaws.com/vyralmarketing/Kevin+Langan/Phoenix+Real+Estate+Agent+Investing+in+Real+Estate.mp4
-pullquote: 'OVER TIME, A TENANT PAYS DOWN YOUR MORTGAGE WHILE APPRECIATION BOOSTS YOUR PROPERTY'S VALUE.'
+pullquote: OVER TIME, A TENANT PAYS DOWN YOUR MORTGAGE WHILE APPRECIATION BOOSTS YOUR PROPERTY'S VALUE.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
