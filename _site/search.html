@@ -57,6 +57,27 @@
 	<link rel="manifest" href="/img/favicons/manifest.json">
 	<link rel="mask-icon" href="/img/favicons/safari-pinned-tab.svg" color="#5bbad5">
 	<meta name="theme-color" content="#6d6e71">
+
+	<link rel="stylesheet" href="/css/mylist-player.css" />
+
+<!-- MyList Styles -->
+	<script type="text/javascript">
+		var playListID = ["PLIejnSOs6W-SuvBoq6oEhNz9iKSe65QVu"]; // replace with your desired youtube playlist ID
+		var playListID1 = ["PLyo3QfghafnAP-DgGCGnfuQJE9vvjdUBT"]; // replace with your desired youtube playlist ID
+		var apiKey = "AIzaSyBMRyIdlgyAKIoKe9ptUZgejHZQB3RWumY"; // this default YouTube API key will work but you should change it to your own
+		var autoPlayNext = 0; // auto play next video in list when current ends? 0 for no. 1 for yes.
+		var showPlayerControls = 1; // display YouTube video player controls? 0 for no. 1 for yes.
+		var showVideoInfo = 1; // display video title on youtube player? 0 for no. 1 for yes.
+		var showRelatedVideos = 0; // display related videos after video ends? 0 for no. 1 for yes.
+		var showTitlesInList = 1; // display video titles under each thumbnail in playlist? 0 for no. 1 for yes.
+	</script>
+
+	<!-- jQuery -->
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+	<!-- MyList Javascript -->
+	<script src="/js/mylist-player.js"></script>
+
 </head>
 
 
@@ -116,7 +137,7 @@
 <ul>
 
 <li>
-	<a href="https://www.facebook.com/thenickleygroup/" class="social-links" target="_blank">
+	<a href="https://www.facebook.com/TNGTraining/" class="social-links" target="_blank">
 		<svg id="facebook" data-name="facebook" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><title>Facebook</title><path d="M419.86,30.23a25,25,0,1,0,25,25A25,25,0,0,0,419.86,30.23ZM426,47h-2c-1.85,0-2,.77-2,2v3h4.2l-0.59,4H422V68h-5V56h-4V52h4V48.61c0-3.8,2.25-5.87,5.65-5.87a22.16,22.16,0,0,1,3.35.18V47Z" transform="translate(-394.86 -30.23)"/></svg>
 	</a>
 </li>
@@ -151,6 +172,12 @@
 
 
 
+
+	<li>
+		<a href="https://itunes.apple.com/us/podcast/orlando-real-estate-careers-training-podcast-tom-nickley/id1318850117?mt=2" class="social-links" target="_blank">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><title>Podcast</title><path d="M25.04 0a25 25 0 1 0 25 25 25 25 0 0 0-25-25zm3.19 39.12a5.94 5.94 0 0 1-.14 1.09 3 3 0 0 1-2.92 2.51 2.8 2.8 0 0 1-3.19-2.31c-.27-1.49-.34-3-.48-4.48-.14-1.77-.27-3.6-.41-5.36a2.94 2.94 0 0 1 3.39-3.6 13.05 13.05 0 0 0 1.63 0 2.79 2.79 0 0 1 2.85 3.26c-.29 2.98-.49 5.97-.76 8.89zm-3.19-13.31a4 4 0 0 1-3.94-4 3.91 3.91 0 0 1 4-3.94 4 4 0 0 1 4 4 4 4 0 0 1-4.06 3.94zm5.91 2.24a7.84 7.84 0 0 0-1-11.27 7.83 7.83 0 0 0-10.25.34c-3.26 2.72-3.39 6.79-.68 11-.75.48-1.43 1-2.1 1.49-2.65-2.31-4.21-8.89 0-13.71a10.81 10.81 0 0 1 15.61-.61 10.38 10.38 0 0 1 .51 14.3c-.64-.52-1.38-1-2.13-1.54zm6 8.35c-.14.14-.27.2-.41.34a.14.14 0 0 1-.14.07c-.68-.54-1.43-1-2.1-1.56a14.39 14.39 0 0 0 1.22-20.91 14.45 14.45 0 1 0-19.82 21c-.68.48-1.36 1-2.1 1.56a15.3 15.3 0 0 1-4.35-6.18c-.14-.07-1.56-2.72-1.29-8.62.34-7.06 6.18-13 13-14.39a18.11 18.11 0 0 1 8.62.2c6.18 1.9 10.25 5.91 11.88 12.15s-.03 11.73-4.51 16.34z"/></svg>
+		</a>
+	</li>
 
 
 	
@@ -199,21 +226,30 @@
 <script>
   window.store = {
     
-      "this-is-a-test-post-copy-2-html": {
-        "title": "this is a test post",
+      "are-expensive-internet-leads-worth-it-html": {
+        "title": "Are Expensive Internet Leads Worth It?",
         "author": "",
         "category": "",
-        "content": "}Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.“This is an example of a pull quote”Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…",
-        "url": "/this-is-a-test-post-copy-2.html"
+        "content": "You can get some great leads by purchasing them from Zillow and Realtor.com. But are they worth the money? From our experience, it depends on a few things. Chief among these are your conversion and follow-up processes.In case you don’t know already, both of these websites are very expensive lead sources. On average, you’re paying $100 per lead for a zip code that’s in a $300,000 price point. I’ve heard that less than 5% of agents who purchase these leads are actually turning a profit on them. The rest are losing money.With both of these lead sources, consumers come to you. On Zillow, when one visits the site to look at a specific home and wants to get more information or request a showing, your name will appear on the right-hand side with two other agents. Your Zillow profile and recent sales will be listed underneath. In order to increase your chances of being chosen, you need to have a lot of positive reviews and a good sales record. Typically, the agent with the most reviews and the most sales is the one that gets chosen. On Realtor.com, it’s a similar process. However, they actually sell each lead to multiple agents at the same time.“Our team follows a very strict 21-day follow-up process.”Not only are these leads expensive, but there is also a lot of direct competition for them. Whether or not you find success with this type of lead depends entirely on how you handle the lead after you receive it. Our team follows a very strict 21-day follow-up process. We send 15 different texts, videos, and emails over those 21 days in order to convert your leads.These lead sources can be lucrative, but they aren’t for the faint of heart. If you think it’s going to be easy to make a quick buck on these leads, you shouldn’t even consider purchasing them.If you have any questions for me about these leads or want any tips to help convert them, give us a call or send us an email. We look forward to hearing from you soon.",
+        "url": "/are-expensive-internet-leads-worth-it.html"
       }
       ,
     
-      "a-fox-in-space-html": {
-        "title": "A Fox in Space",
+      "4-tips-that-will-help-you-maximize-your-productivity-as-an-agent-html": {
+        "title": "4 Tips That Will Help You Maximize Your Productivity as an Agent",
         "author": "",
         "category": "",
-        "content": "}Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.  list item  list item  list item  list item  list item  list item  list item  list item  list item  list itemCeliac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.“This is an example of a pull quote”Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…",
-        "url": "/a-fox-in-space.html"
+        "content": "As a real estate professional and a business owner, I’m a firm believer that we have to make sure our time, energy, and focus are directly related to dollar-producing activities and we’re focusing daily on maximizing our effort and productivity to become the best professionals we can be.To ensure that you’re achieving your maximum productivity every day, here are four tips you can follow.First and foremost, focus on new business development consistently every single day.Whether that means prospecting calls, knocking on doors, hosting open houses, or contacting your SOI, make sure you focus time and energy on new business development on a daily basis. We’re in the sales business, and without developing new business, you won’t have any business. Make sure you’re setting, tracking, and hitting goals on a daily basis in terms of the number of calls, conversations, or people you’re adding to your database.“Become a student of this industry to become the best in this industry.”Second, make sure you time block for your most important duties of the day.New business development, database management, emails, and follow-ups should all happen within a specific time block every day to make sure they’re not lost, forgotten, or sacrificed, and to make sure you’re not making excuses not to do those things. Unless we’re time blocking during the day, the most important things don’t get done.Third, don’t spend your time on non dollar-producing activities until you’ve done your dollar-producing activities.Again, these activities include talking to people about real estate and adding them to your database.Lastly, become a student.Read, watch webinars, attend classes, and do whatever else you need to do to learn the skills and knowledge you need to become the best professional you can be in this industry.Here at the Nickley Group, our whole business model is built upon these exact points. We have daily role-playing and prospecting blocks that are required from our team. Every single day, we’re time blocking and coaching and training our agents because we’re not just interested in teaching them how to be real estate agents—we’re interested in teaching them how to build a business that will grow and become their own.If you’re thinking about making a change in your career and entering the real estate industry or you’re already in the industry and want to step up your game, don’t hesitate to reach out to us. We’d love to speak with you.",
+        "url": "/4-tips-that-will-help-you-maximize-your-productivity-as-an-agent.html"
+      }
+      ,
+    
+      "4-questions-to-ask-yourself-about-your-work-environment-html": {
+        "title": "4 Questions to Ask Yourself About Your Work Environment",
+        "author": "",
+        "category": "",
+        "content": "As real estate agent and, more specifically, as a business owner, you are the boss. You make all of the rules and call all of the shots. As a business owner, you have to constantly analyze the things that will make you the most successful or stop you from being successful.That means you constantly have to analyze your work habits, mindset, and focus. One of the most important things to pay attention to is the environment you choose to work in every single day.Is your work environment conducive to achieving your goals?A lot of people get into real estate because they like the idea of being their own boss. People like the flexibility, being able to set your own hours, and working from home. It all sounds very appealing, but working from home only works for a small percentage of people.If you’re like me, it’s impossible for you to get into the right mindset and develop the right habits when working from home. There are just so many distractions at home: laundry, dishes in the sink, dogs barking, television—there are a million and one things that will get in the way. You won’t be as productive as you could be and you won’t be able to achieve your goals.“Does your work environment offer the training and resources you need?”How can you choose the right work environment that will set you up to smash your goals? I have a few questions you should ask yourself to make sure that you are putting yourself in the right situation every day.1. Does your work environment allow you to surround yourself with like-minded and goal-driven individuals? It’s no secret that the people you surround yourself with are a direct reflection of your own mindsets, habits, and focus. By surrounding yourself with like-minded, hard-working people, you will elevate your own game because of them.2. Is your environment supportive? Does your environment allow you to focus on new business development each and every day? It’s especially important for newer agents in the industry to develop new business. We have to make calls and prospect. Does your work environment support that or is prospecting a dirty word around your office?3. Does your work environment offer the opportunity to have coaches, mentors, books, and other training resources?That’s what it will take for you to be successful. When you first get into this industry, it can be very overwhelming. There are so many things you have to do. After all, you are a business owner. Are you surrounded by people who will help you take your career to the next level? Or is your office a ghost town, with no one there to help you? You need to be surrounded by people who will help you get to where you want to go.4. Does the work environment allow you to be accountable for what you do on a daily basis? If you have big goals and you are driven, you have to have people hold you accountable to that. Does your work environment offer that kind of support?At the Nickley Group, we are very proud of our work environment. We do everything we can to help our agents be as productive as possible and put it all on the line every day so that they can smash past their goals.Each day, we are role-playing together, prospecting together, and we have unlimited resources for training together. I am here every day to help train our agents. We also have a dedicated sales manager who works one-on-one with our agents. We offer accountability, new business development, coaching, and training to help our agents be successful.If you have any questions about making your work environment more conducive to your success or are interested in a change, just give me a call or send me an email. I would love to sit down and talk with you.",
+        "url": "/4-questions-to-ask-yourself-about-your-work-environment.html"
       }
       
     
@@ -228,7 +264,7 @@
 <ul>
 
 <li>
-	<a href="https://www.facebook.com/thenickleygroup/" class="social-links" target="_blank">
+	<a href="https://www.facebook.com/TNGTraining/" class="social-links" target="_blank">
 		<svg id="facebook" data-name="facebook" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><title>Facebook</title><path d="M419.86,30.23a25,25,0,1,0,25,25A25,25,0,0,0,419.86,30.23ZM426,47h-2c-1.85,0-2,.77-2,2v3h4.2l-0.59,4H422V68h-5V56h-4V52h4V48.61c0-3.8,2.25-5.87,5.65-5.87a22.16,22.16,0,0,1,3.35.18V47Z" transform="translate(-394.86 -30.23)"/></svg>
 	</a>
 </li>
@@ -263,6 +299,12 @@
 
 
 
+
+	<li>
+		<a href="https://itunes.apple.com/us/podcast/orlando-real-estate-careers-training-podcast-tom-nickley/id1318850117?mt=2" class="social-links" target="_blank">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><title>Podcast</title><path d="M25.04 0a25 25 0 1 0 25 25 25 25 0 0 0-25-25zm3.19 39.12a5.94 5.94 0 0 1-.14 1.09 3 3 0 0 1-2.92 2.51 2.8 2.8 0 0 1-3.19-2.31c-.27-1.49-.34-3-.48-4.48-.14-1.77-.27-3.6-.41-5.36a2.94 2.94 0 0 1 3.39-3.6 13.05 13.05 0 0 0 1.63 0 2.79 2.79 0 0 1 2.85 3.26c-.29 2.98-.49 5.97-.76 8.89zm-3.19-13.31a4 4 0 0 1-3.94-4 3.91 3.91 0 0 1 4-3.94 4 4 0 0 1 4 4 4 4 0 0 1-4.06 3.94zm5.91 2.24a7.84 7.84 0 0 0-1-11.27 7.83 7.83 0 0 0-10.25.34c-3.26 2.72-3.39 6.79-.68 11-.75.48-1.43 1-2.1 1.49-2.65-2.31-4.21-8.89 0-13.71a10.81 10.81 0 0 1 15.61-.61 10.38 10.38 0 0 1 .51 14.3c-.64-.52-1.38-1-2.13-1.54zm6 8.35c-.14.14-.27.2-.41.34a.14.14 0 0 1-.14.07c-.68-.54-1.43-1-2.1-1.56a14.39 14.39 0 0 0 1.22-20.91 14.45 14.45 0 1 0-19.82 21c-.68.48-1.36 1-2.1 1.56a15.3 15.3 0 0 1-4.35-6.18c-.14-.07-1.56-2.72-1.29-8.62.34-7.06 6.18-13 13-14.39a18.11 18.11 0 0 1 8.62.2c6.18 1.9 10.25 5.91 11.88 12.15s-.03 11.73-4.51 16.34z"/></svg>
+		</a>
+	</li>
 
 
 	
@@ -331,39 +373,6 @@
 			<h5>Post Library</h5>
 			<hr>
 			
-					<div class="catbloc" id="MarketUpdate">
-							<li>
-								<label class="tree-toggle nav-header">Market Update</label>
-							<ul class="nav nav-list tree" style="display: none;">
-								 
-									 
-										 
-									 
-								 
-									 
-										 
-											 <li>
-												 <!-- <time>October 4, 2016</time> -->
-												 <a href="/this-is-a-test-post-copy-2.html">
-													 this is a test post
-												 </a>
-											 </li>
-										 
-									 
-										 
-											 <li>
-												 <!-- <time>September 28, 2016</time> -->
-												 <a href="/a-fox-in-space.html">
-													 A Fox in Space
-												 </a>
-											 </li>
-										 
-									 
-								 
-							</ul>
-							</li>
-					</div>
-			
 					<div class="catbloc" id="RealEstate">
 							<li>
 								<label class="tree-toggle nav-header">Real Estate</label>
@@ -376,51 +385,27 @@
 									 
 										 
 											 <li>
-												 <!-- <time>October 4, 2016</time> -->
-												 <a href="/this-is-a-test-post-copy-2.html">
-													 this is a test post
+												 <!-- <time>December 13, 2017</time> -->
+												 <a href="/are-expensive-internet-leads-worth-it.html">
+													 Are Expensive Internet Leads Worth It?
 												 </a>
 											 </li>
 										 
 									 
 										 
 											 <li>
-												 <!-- <time>September 28, 2016</time> -->
-												 <a href="/a-fox-in-space.html">
-													 A Fox in Space
-												 </a>
-											 </li>
-										 
-									 
-								 
-							</ul>
-							</li>
-					</div>
-			
-					<div class="catbloc" id="HomeSellerTips">
-							<li>
-								<label class="tree-toggle nav-header">Home Seller Tips</label>
-							<ul class="nav nav-list tree" style="display: none;">
-								 
-									 
-										 
-									 
-								 
-									 
-										 
-											 <li>
-												 <!-- <time>October 4, 2016</time> -->
-												 <a href="/this-is-a-test-post-copy-2.html">
-													 this is a test post
+												 <!-- <time>December 1, 2017</time> -->
+												 <a href="/4-tips-that-will-help-you-maximize-your-productivity-as-an-agent.html">
+													 4 Tips That Will Help You Maximize Your Productivity as an Agent
 												 </a>
 											 </li>
 										 
 									 
 										 
 											 <li>
-												 <!-- <time>September 28, 2016</time> -->
-												 <a href="/a-fox-in-space.html">
-													 A Fox in Space
+												 <!-- <time>November 13, 2017</time> -->
+												 <a href="/4-questions-to-ask-yourself-about-your-work-environment.html">
+													 4 Questions to Ask Yourself About Your Work Environment
 												 </a>
 											 </li>
 										 
@@ -537,7 +522,7 @@
 <ul>
 
 <li>
-	<a href="https://www.facebook.com/thenickleygroup/" class="social-links" target="_blank">
+	<a href="https://www.facebook.com/TNGTraining/" class="social-links" target="_blank">
 		<svg id="facebook" data-name="facebook" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><title>Facebook</title><path d="M419.86,30.23a25,25,0,1,0,25,25A25,25,0,0,0,419.86,30.23ZM426,47h-2c-1.85,0-2,.77-2,2v3h4.2l-0.59,4H422V68h-5V56h-4V52h4V48.61c0-3.8,2.25-5.87,5.65-5.87a22.16,22.16,0,0,1,3.35.18V47Z" transform="translate(-394.86 -30.23)"/></svg>
 	</a>
 </li>
@@ -572,6 +557,12 @@
 
 
 
+
+	<li>
+		<a href="https://itunes.apple.com/us/podcast/orlando-real-estate-careers-training-podcast-tom-nickley/id1318850117?mt=2" class="social-links" target="_blank">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><title>Podcast</title><path d="M25.04 0a25 25 0 1 0 25 25 25 25 0 0 0-25-25zm3.19 39.12a5.94 5.94 0 0 1-.14 1.09 3 3 0 0 1-2.92 2.51 2.8 2.8 0 0 1-3.19-2.31c-.27-1.49-.34-3-.48-4.48-.14-1.77-.27-3.6-.41-5.36a2.94 2.94 0 0 1 3.39-3.6 13.05 13.05 0 0 0 1.63 0 2.79 2.79 0 0 1 2.85 3.26c-.29 2.98-.49 5.97-.76 8.89zm-3.19-13.31a4 4 0 0 1-3.94-4 3.91 3.91 0 0 1 4-3.94 4 4 0 0 1 4 4 4 4 0 0 1-4.06 3.94zm5.91 2.24a7.84 7.84 0 0 0-1-11.27 7.83 7.83 0 0 0-10.25.34c-3.26 2.72-3.39 6.79-.68 11-.75.48-1.43 1-2.1 1.49-2.65-2.31-4.21-8.89 0-13.71a10.81 10.81 0 0 1 15.61-.61 10.38 10.38 0 0 1 .51 14.3c-.64-.52-1.38-1-2.13-1.54zm6 8.35c-.14.14-.27.2-.41.34a.14.14 0 0 1-.14.07c-.68-.54-1.43-1-2.1-1.56a14.39 14.39 0 0 0 1.22-20.91 14.45 14.45 0 1 0-19.82 21c-.68.48-1.36 1-2.1 1.56a15.3 15.3 0 0 1-4.35-6.18c-.14-.07-1.56-2.72-1.29-8.62.34-7.06 6.18-13 13-14.39a18.11 18.11 0 0 1 8.62.2c6.18 1.9 10.25 5.91 11.88 12.15s-.03 11.73-4.51 16.34z"/></svg>
+		</a>
+	</li>
 
 
 	
@@ -626,6 +617,24 @@
 <script type="text/javascript" src="/js/owl.carousel.min.js"></script>
 <script type="text/javascript" src="/js/jquery.jplayer.min.js"></script>
 <script type="text/javascript" src="/js/media-player.js"></script>
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '302575060242677');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=302575060242677&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
 
   </body>
 </html>
