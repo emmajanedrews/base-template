@@ -28,7 +28,7 @@ With both of these lead sources, consumers come to you. On Zillow, when one visi
 
 {% include pullquote.html %}
 
-**Not only are these leads expensive, but there is also a lot of direct competition for them.**Whether or not you find success with this type of lead depends entirely on how you handle the lead after you receive it. Our team follows a very strict 21-day follow-up process. We send 15 different texts, videos, and emails over those 21 days in order to convert your leads.
+**Not only are these leads expensive, but there is also a lot of direct competition for them.&nbsp;**Whether or not you find success with this type of lead depends entirely on how you handle the lead after you receive it. Our team follows a very strict 21-day follow-up process. We send 15 different texts, videos, and emails over those 21 days in order to convert your leads.
 
 These lead sources can be lucrative, but they aren’t for the faint of heart. If you think it’s going to be easy to make a quick buck on these leads, you shouldn't even consider purchasing them.
 
