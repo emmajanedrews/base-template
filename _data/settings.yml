@@ -13,20 +13,16 @@ custom_links:
     url: /about/
 client:
   name: Gavin Shnieder
-  license_number:
-  about_markdown: >
-    Gavin is a native of the Puget Sound, happily married to his wife Ryann for
-    7 years, and proud father of 3 perfect daughers Rylee, Jordan and Elliot.
-    After serving in the Army as an Infantry Officer, and owning a Digital and
-    Print Publishing company, Gavin is an experienced Real Estate Broker. He
-    also serves as the Technology and Ministries Administrator at Valley View
-    Christian Fellowship in Tacoma, implementing and teaching streamlined and
-    efficient technology systems. Whether you’re in the market for a single
-    family home, looking to sell, invest, or need property management services,
-    Gavin is your go to broker. He believes in the importance of studying the
-    numbers on both sides of the transaction. In an age where big data reigns
-    supreme, you need a Real Estate Professional who can sift through the data
-    to find the information that is relevant to your transaction.
+  license_number: 20542
+  about_markdown: >-
+    We are the South Sound's premier Real Estate Brokerage. You won't find
+    antiquated fax machines or real estate agents wearing poorly fitted suits
+    and sporting ascots here, we're a group of tech savvy, modern Brokers who
+    get business done. We specialize in residential real estate, representing
+    both home buyers and home sellers. &nbsp;We are a Veteran Owned Business,
+    and enjoy helping others accomplish their dreams. Our Mission is to help
+    others build sustainable wealth through Real Estate. &nbsp;We aim to be your
+    brokers for life, not just a single sale!
   market: Puget Sound
   brand: Abode Base Real Estate
   brokerage:
