@@ -46,6 +46,6 @@ After that you may tell them “I went into the marketplace and developed relati
 
 Finally, it’s time for your “r”—your results. In this scenario, you might finish by saying, “As a result, we grew to 95% occupancy within nine months of my tenure.”
 
-Following the STAR method creates a streamlined response instead of a rambling one. However, you still won’t know what questions you’re going to be asked when you’re going into the interview. My advice is to pull up qualifications, pull out hot buttons, pull out some skillsets, and get with the recruiter you’re working with. **Have some stories relating to your qualifications and skillsets in mind as you enter the interview.**
+Following the STAR Method creates a streamlined response instead of a rambling one. However, you still won’t know what questions you’re going to be asked when you’re going into the interview. My advice is to pull up qualifications, pull out hot buttons, pull out some skill sets, and get with the recruiter you’re working with. **Have some stories relating to your qualifications and skill sets in mind as you enter the interview.**
 
-If you have any other questions or would like more information, feel free to give me a call or send me <br>
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
