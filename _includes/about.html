@@ -50,10 +50,14 @@
 		<div class="row">
 			<div class="about-container">
 		<div class="col-lg-3">
-			<p class="contact-text">
+			<p class="contact-text" id="contact2">
 				<b>{{ site.data.settings.client2.name }}</b><br />
+				{{ site.data.settings.client2.brand }}<br />
+				{{ site.data.settings.client2.brokerage }}<br />
+				{{ site.data.settings.client2.address }}<br />
 				{{ site.data.settings.client2.phone }}<br />
 				<a href="mailto:{{ site.data.settings.client.email }}" target="_blank">{{ site.data.settings.client2.email }}</a><br />
+				<a href="{{ site.data.settings.client2.url }}" target="_blank">{{ site.data.settings.client.url | remove: 'http://' | remove: 'https://' }}</a><br>
 			</p>
 		</div>
 		<div class="col-lg-6 col-md-8 hidden-sm hidden-xs about-text">
