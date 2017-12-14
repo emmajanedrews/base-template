@@ -16,7 +16,6 @@ youtube_code: L3-IngqS2Ho
 
 
 {% include youtube.html %}
-
 I'd like to welcome you to my new YouTube Channel.
 
 On my channel, you'll find tips for both buyers and sellers in the real estate market, as well as updates on what's happening in our local market. The real estate market affects all of us!

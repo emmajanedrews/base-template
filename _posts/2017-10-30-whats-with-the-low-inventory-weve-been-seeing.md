@@ -16,7 +16,6 @@ youtube_code: Nq7aOYyCop0
 
 
 {% include youtube.html %}
-
 According to a recent study, 47% of sellers are worried about selling their homes for fear of not being able to find a new one that meets their needs. The trick is to find creative ways to find sellers the homes they need.
 
 Want to sell your home? [**Get a FREE home value report**](http://www.propertyhomevalue.com/)

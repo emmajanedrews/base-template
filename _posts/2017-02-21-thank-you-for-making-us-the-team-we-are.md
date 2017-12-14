@@ -16,7 +16,6 @@ youtube_code: 741WNKclgNQ
 
 
 {% include youtube.html %}
-
 Our team just won a very important award, and I have some people to thank for it. It all starts with you.
 
 Want to sell your home? [**Get a FREE home value report**](http://www.propertyhomevalue.com/)

@@ -16,7 +16,6 @@ youtube_code: kA0xQGBPnJk
 
 
 {% include youtube.html %}
-
 Want to sell your home? [**Get a FREE home value report**](http://www.propertyhomevalue.com/)
 
 Want to buy a home? [**Search all homes for sale**](http://www.radkeagency.com/homes-for-sale)
