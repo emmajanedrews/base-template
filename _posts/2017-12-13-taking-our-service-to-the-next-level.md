@@ -4,10 +4,12 @@ title: Taking Our Service to the Next Level
 date: 2017-12-13 17:00:00
 tags:
   - Real Estate
-excerpt: We have an exciting announcement to make today. Stay tuned to see what it is.
+excerpt: >-
+  We’re proud to announce that we’ve joined Coldwell Banker Residential
+  Brokerage.
 enclosure:
 pullquote: >-
-  We’re proud to announce that we’ve joined Coldwell Banker Residential 
+  We’re proud to announce that we’ve joined Coldwell Banker Residential
   Brokerage.
 enclosure_type: video/mp4
 enclosure_time:
