@@ -1371,6 +1371,28 @@ html[xmlns] .flexslider .slides {
 @-moz-document url-prefix() {
   #welcome::before {
     display: inline-block; } }
+.subscribe-button {
+  text-align: center; }
+  .subscribe-button a {
+    background: #fff;
+    color: #b40101;
+    border: 1px solid #fff;
+    border-radius: 0px;
+    padding: 10px 20px;
+    margin-top: 20px;
+    text-decoration: none;
+    font-size: 20px;
+    -webkit-transition: all 0.15s ease-out 0s;
+    transition: all 0.15s ease-out 0s; }
+    .subscribe-button a:hover {
+      background: #ccc;
+      color: #b40101;
+      border: 1px solid #eeeeee; }
+    .subscribe-button a:active {
+      box-shadow: 0 0 0 #b40101;
+      -webkit-transform: translateY(0rem);
+      transform: translateY(0rem); }
+
 .jp-audio {
   border: 0;
   color: #b40101;
