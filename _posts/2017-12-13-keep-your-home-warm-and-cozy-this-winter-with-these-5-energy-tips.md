@@ -23,7 +23,7 @@ youtube_code: 5Wf4YYCW028
 
 Here are five great tips that will help keep your home warm and save on energy costs this winter:
 
-**1. Use the earth as a natural heater.**While it’s best to close south-facing windows in the summertime to keep sunlight out, if you open them in winter, the natural sunlight will help heat your home.
+**1. Use the earth as a natural heater.** While it’s best to close south-facing windows in the summertime to keep sunlight out, if you open them in winter, the natural sunlight will help heat your home.
 
 **2. Insulate your home’s north-facing windows.** Use heavy window treatments or insulated window treatments to keep the air from inside and the air from outside separate.
 
