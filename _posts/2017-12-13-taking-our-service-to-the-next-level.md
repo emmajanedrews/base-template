@@ -1,7 +1,7 @@
 ---
 layout: post
-title: We’re Making Our Service Even Better in 2018
-date: 2017-12-08 17:00:00
+title: Taking Our Service to the Next Level
+date: 2017-12-13 17:00:00
 tags:
   - Real Estate
 excerpt: We have an exciting announcement to make today. Stay tuned to see what it is.
