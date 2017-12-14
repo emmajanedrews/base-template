@@ -30,11 +30,11 @@ To get a deal across the finish line, the first thing Julie does when she wakes 
 
 Real estate agents have to deal with a lot of noise, and there are a lot of people knocking on our door asking for things. For Julie, that’s a difficult thing to manage, but it must be done, and she does it at times that are convenient for her. Some of it she doesn’t respond to, and some of it she does decide to politely respond to. As her email inbox fills up, she makes a conscious choice to stay on task, and that’s what you have to do.
 
-**Julie’s business coach also helps her stay accountable** by asking her important questions about things like her business plan. He also helps her talk through tricky situations and figure out how to solve them.
+**Julie’s business coach also helps her stay accountable** by asking her important questions about things like her business plan, as well as by talking her through tricky situations and figuring out how to solve them.
 
 “He puts some perspective on things that help me better manage situations.”
 
-Julie also uses the book “The 7 Habits of Highly Effective People” as an important resource. It’s helped her realize she’s not an effective multitasker, and she’s much better off at picking one task and focusing all of her attention on that.
+Julie also uses the book “The 7 Habits of Highly Effective People” as an important resource. It has helped her realize she’s not an effective multitasker, and she’s much better off at picking one task and focusing all of her attention on that.
 
 **“I have to remember what Stephen Covey said—first things first.”**
 
