@@ -1,5 +1,45 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
-    audio:
+  - quote: Marty was excellent, very responsive and attentive, also very knowledgeable and really gives good advice and recommendations and helped me immensely through the process of purchasing the home. He helped me connect with a mortgage company that was able to move much more quickly than another mortgage company that I had already been working with. And he always followed through whether it was with the mortgage, contractors that he would recommend, the seller. He was just always very vigilant and on top of things and really worked hard to make sure everything was done correctly and that I was pleased.
+    name: Auren
+    audio: /uploads/audio/auren.mp3
+
+  - quote: I loved working with Marty, he was great with everything, especially getting back to me. It was honestly freakishly fast. It’s as if he was waiting for an email or a text in order to get back to me. So, very happy with the whole process I mean he pretty much held my hand and anything that I asked him he got back, if he didn’t know the answer, he would find out and then get back to me. Very happy and pleased. I told him if I ever sell a house or buy another house I hope he’s still in the business because I’m going to use him.
+    name: Dan
+    audio: /uploads/audio/dan.mp3
+
+  - quote: We hired another Realtor prior to Marty, and he didn’t provide us with much of a plan. One thing we really liked about Marty is that he sent us a two page email basically documenting his marketing strategy and what he does to, obviously, sell houses. That’s what we liked, he followed up with basically everything he said he was going to do. We had a really good experience. You know, nothing’s ever perfect, we had a slight issue, and he handled the issue, you know that was definitely something that stood out that he didn’t have to do but he did.
+    name: Jason
+    audio: /uploads/audio/jason.mp3
+
+  - quote: He is extremely professional, he does what he says and he gets back to you when he says he going to do it. I’ve referred him to other people, he is the ultimate professional, and having been in the sales business myself, I know when someone goes the extra mile, and in anything he did, he always did that. He wasn’t about the sale as much as understanding the relationship, and he’s concerned about you. He’s not just concerned about making the sale, it’s got to be right, and getting the right people. It’s not about him, it’s about his clients.
+    name: Carrie
+    audio: /uploads/audio/carrie.mp3
+
+  - quote: We worked with Marty for about 2 years looking for a house in a particular area. He was patient throughout the entire process and we really appreciated working with him. He knew the area extremely well, which was helpful because we were not familiar with it. We felt he always had our best interests in mind. We never got the feeling that he was just trying to make a sale. We thought he was really great, and in the end, we got the house that we wanted.
+    name: Sheryl
+    audio: /uploads/audio/sheryl.mp3
+
+  - quote: We got results way beyond what we thought we would get. We sold our house in 6 days and had 3 offers! I really don’t know what is above and beyond for Marty because he just did more than I ever expected from a Realtor. He came out and videotaped the house, put it on his website, and had open houses. He just did more! I was surprised with the attention he gave to the sale of our home and how much he invested his own time. I am very pleased with Marty’s work.
+    name: Stan
+    audio: /uploads/audio/stan.mp3
+
+  - quote: I had actually used a Realtor before Martin and I wasn’t too happy with their work. I switched to Martin and saw a huge difference! He provided great service that was beyond our greatest expectations. He was able to suggest different strategies like staging and improving the appearance of the house instead of just lowering the price. He would always get back to us in a timely manner and overall we were just very impressed with him and his team!
+    name: Xiaoxian
+    audio: /uploads/audio/xiaoxian.mp3
+
+  - quote: We had excellent results! We had an offer come in very quickly and had a sales agreement within 2 weeks of listing it. We closed on time without any issues so everything went very smoothly! He was incredibly responsive throughout the entire process and he was on top of all the details. He helped us find the right people to help us when we had things to do to the house so he had very good resources. It all came together and the whole transaction couldn’t have gone better!
+    name: Chuck
+    audio: /uploads/audio/chuck.mp3
+
+  - quote: I was very pleased with the transaction. Marty was very patient, accommodating, and just helpful through the whole process. He was quick to respond, especially since this was my first time, and answered all of my questions which relieved me of a lot of my stress. I just appreciated how helpful he was throughout the whole thing!
+    name: Inez
+    audio: /uploads/audio/inez.mp3
+
+  - quote: Marty helped us find a new home and the whole process went very smoothly. He was always there and accessible. He responded to my texts when I was text at crazy hours of the night. I had just started a new job during the process which required a lot of interaction with Marty, myself, and my financial institution and Marty on several occasions just jumped in and helped out. He’s extremely helpful and we appreciated it!
+    name: Jeremy
+    audio: /uploads/audio/jeremy.mp3
+
+  - quote: He found a place for me basically before it was even listed, in our price range, and he even found it the best neighborhood. He found out what I wanted and interacted with me the way I needed him to interact, which was much appreciated. He spent his time on everything and I never felt rushed or that he needed to rush away.
+    name: Eric
+    audio: /uploads/audio/eric.mp3

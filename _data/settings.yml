@@ -1,47 +1,51 @@
 audit_header: false
 title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
 description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: Market Snapshot
+    url: http://martinmillner.blogspot.com/p/market-snapshot.html
+  - title: testimonials
+    url: /client-testimonials/
 
 client:
-  name:
+  name: Martin Millner, REALTOR®
   license_number:
   about_markdown: |
+    Since the start of my real estate career in 1995, I have been recognized with numerous real estate awards, all of which are a testament to the commitment that I make to those whom I represent. I have been the top producing Coldwell Banker sales agent in all of Pennsylvania as well as being the top producing sales agent in the network of Coldwell Banker Hearthside offices. I have handled sales and purchases of all types of properties, from small condominiums to multi-million dollar estate homes.
 
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    I am an extremely pro-active, tech savvy and compulsively responsive Realtor. I make sure that the buyers and sellers I work with get all of the information they need to make fully informed, effective, real estate decisions. When you're buying or selling in Bucks County, you should always turn to me first because your satisfaction is always my #1 priority.
+  market: Bucks County
+  brand: Marty Millner Real Estate Team
+  brokerage: Coldwell Banker Hearthside
+  address: 100 Brandywine Blvd, Suite 302, Newtown, PA 18940
+  phone: 215-519-1399
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Marty@MartinMillner.com
+  url: http://martinmillner.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.searchhomesinbuckscounty.com/homevalue/value
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
-  VR_form:
+  second_CTA_URL: http://www.searchhomesinbuckscounty.com/
+  VR_form: http://oi.vresp.com?fid=192c70fa43
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.searchhomesinbuckscounty.com/homevalue/value
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://www.searchhomesinbuckscounty.com/
 
 lender:
   show_section: false
@@ -66,17 +70,17 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/MartyMillner
+  linkedin_url: http://www.linkedin.com/in/martinmillner
+  gplus_url: https://plus.google.com/u/0/b/103879706952469706691/103879706952469706691
+  youtube_url: http://www.youtube.com/user/mmillnerr/featured?view_as=public
+  twitter_url: https://twitter.com/MartinMillner
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
-  podcast_url:
+  zillow_url: http://www.zillow.com/profile/MartinMillner/
+  trulia_url: http://www.trulia.com/profile/martin-millner-agent-yardley-pa-576562
+  yelp_url: http://www.yelp.com/biz/coldwell-banker-hearthside-realtors-inc-yardley#query:marty%20millner
+  podcast_url: https://itunes.apple.com/us/podcast/bucks-county-real-estate-podcast/id888728948?mt=2
 
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
@@ -90,14 +94,14 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 60
   hero_text: -- MARKET -- Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#40434c'
+  theme_color: '#a39d91'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -106,7 +110,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: rgba(64, 67, 76, .75)
 
 buttons:
   button_radius_number: 0
