@@ -27,7 +27,7 @@ CTAs:
   first_CTA_URL: https://kevin.btgarizonaproperties.com/home-valuation/
   second_CTA_text: Home Search
   second_CTA_URL: https://www.btgarizonaproperties.com/
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=f217b02ad7
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
