@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Today I’m bringing you some exciting news: The market is heating up! And when
   the market heats up, you should expect there to be bidding wars.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+3+secrets+to+winning+in+a+hot+market.mp4
 pullquote: It is critically important that you hire an experienced agent.
 enclosure_type: video/mp4
 enclosure_time:
