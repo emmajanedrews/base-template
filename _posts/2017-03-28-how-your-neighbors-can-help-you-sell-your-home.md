@@ -17,9 +17,9 @@ youtube_code: kA0xQGBPnJk
 
 {% include youtube.html %}
 
-Want to sell your home?&nbsp;[**Get a FREE home value report**](http://www.propertyhomevalue.com/)
+Want to sell your home? [**Get a FREE home value report**](http://www.propertyhomevalue.com/)
 
-Want to buy a home?&nbsp;[**Search all homes for sale**](http://www.radkeagency.com/homes-for-sale)
+Want to buy a home? [**Search all homes for sale**](http://www.radkeagency.com/homes-for-sale)
 
 If you're thinking of selling your home, you need to immediately start preparing your neighbors.
 
@@ -31,7 +31,7 @@ That shouldn't be surprising when you consider that 63% of homebuyers drive by a
 
 Make no mistake — those potential buyers won't just be impacted by the exterior of your home, but by the state of your neighborhood as well.
 
-On the other hand,&nbsp;**neighbors can also be your best friend in selling your home.**
+On the other hand, **neighbors can also be your best friend in selling your home.**
 
 They can provide you with free advertising, they can promote the neighborhood to inquiring buyers, and they might even actively work with you to help you achieve a higher price.
 
@@ -43,7 +43,7 @@ Many neighbors will be curious for a peek inside your home. You can make the dea
 
 Use this open house as an opportunity to show off your home, as well as to build better relations with your neighbors so they'll be more disposed to help you during the sale process.
 
-One way to do this is to&nbsp;**be forthcoming with information,**&nbsp;including the price you're aiming for, renovations you're planning, or showings that might eat up local parking for an afternoon.
+One way to do this is to **be forthcoming with information,** including the price you're aiming for, renovations you're planning, or showings that might eat up local parking for an afternoon.
 
 Get your neighbors involved, ask them for suggestions, and ask them how you can make the process easier for them.
 
@@ -57,11 +57,11 @@ You can also use this as a discreet way to suggest small home improvement projec
 
 Which leads me to the third and final tip.
 
-You can also&nbsp;**offer to help with — or even pay for — any upgrades you’d like to see**&nbsp;on your neighbors’ homes.
+You can also **offer to help with — or even pay for — any upgrades you’d like to see** on your neighbors’ homes.
 
 For example, if you’re having a landscaping crew come as part of your sale preparations, ask your neighbors with the overgrown lawn if they’d be ok with the landscapers also taking care of their yard for free.
 
-These kinds of&nbsp;**small investments can be worth thousands of dollars in terms of your final sale price.**
+These kinds of **small investments can be worth thousands of dollars in terms of your final sale price.**
 
 If you want to get an estimate of what your home is currently worth without any of these upgrades, check out this home value calculator on my site:
 
