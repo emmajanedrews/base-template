@@ -1,5 +1,23 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
-    audio:
+  - quote: I think it was the biggest thing that when it was time critical as far as with Veterans United and working with Shane Burr. When it looked like they were having a lot of difficulties confirming my employment. They went above and beyond doing everything they possibly could to make them close the deal. Once talking to them, going to their boss and saying look these people really want his house. They didn't just wait around, they knew a lot of things were time critical and they did what they had to do.
+    name: Damien
+    audio: /uploads/audio/damien.mp3
+  - quote: Great results, she's a hard worker, she knows her profession, she's knowledgeable at what she does and she seems to serve her clients in the best interest that she can. We moved the area about six years ago and she helped us get into our first rental. She was the listing agent on it. That's how I got to know her. We just proceeded over six years just always staying in touch with us, provided customer service, to letting us know how the market was doing, doing follow throughs and being professional. Eventually, we used her when it was time for us to buy a house. So just the incident of her having the follow through and stick with a particular client. For the long term that was impressive.
+    name: David
+    audio: /uploads/audio/david.mp3
+  - quote: I'd characterize them as excellent. I've worked with a lot of different agents and Barbara Radke was at the top as far as customer service as well as results. You know getting your house bought and sold. She did both, she helped me with the purchases as well as the sale. The sale of my most recent home was particularly difficult because I was out of the country so she and her agency managed not only the sale but the repairs and everything associated with getting the house ready to sell. They did a fabulous job.
+    name: Lori
+    audio: /uploads/audio/lori.mp3
+  - quote: They're excellent, they're so detailed and everything went well. One through 10, 10 being the best they are a 10. We are looking for a house to buy, in the meantime, they found us a house to rent. And there really is no incentive for them to help us with a rental. It's more of a time factor than anything. They were just there for us all the time, for my family.
+    name: Hardy
+    audio: /uploads/audio/hardy.mp3
+  - quote: I was happy with the results I got! She's professional, experienced and the results were met or exceed my expectations. Showing up at inspections, when signatures were required. I would say that she didn't just depend on a fax machine or email. She showed up to make sure things were done correctly the first time.
+    name: Bob
+    audio: /uploads/audio/bob.mp3
+  - quote: When we worked with Barbara we were buying a house. The experience was fantastic, if it weren't for her suggestions of the timing of putting in our offer and the amount of our offer we would have never gotten the house. Everything worked out perfectly. She was easy to talk to and always answering calls and emails promptly. She walked us through the entire process. It was my first time buying so I had no idea what a lot of these terms meant. She was always quick to put it into simple terms. The entire experience was great and we will definitely use her again. We put offer in on two houses, and the first one didn't end up working out at we were so upset. The way that she advised us on putting in the offer for the second home was just fantastic and we ended up getting our offer accepted when there were other offers on the table for that home. We are the happiest people in the world.
+    name: Melissa
+    audio: /uploads/audio/melissa.mp3
+  - quote: She was just exceptional. Immediately she presented me with extended comps and a very detailed and educated opinion. From then forward I was astounded with her professional and exceptional service. Never had to worry about anything slipping through the cracks. I looked at two condos with her. She really has natural attributes that are really missing in this day and age, there isn't that customer service anymore. She goes above and beyond. She has the knowledge, genuineness, integrity, truthfulness and savvy-ness to make things happen.
+    name: Sue
+    audio: /uploads/audio/sue.mp3

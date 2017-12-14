@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: Southern California Real Estate Video Blog with Barbara Radke
 description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -7,41 +7,45 @@ custom_links:
     url:
 
 client:
-  name:
-  license_number:
+  name: Barbara Radke
+  license_number: 'CalBRE #01705722'
   about_markdown: |
+    Practicing these three values consistently has allowed Barbara to evolve from a successful Real Estate Agent into the leader of dynamic Real Estate Team. With Barbara's commitment to remaining hands on, she has assembled a full service team to work closely with her on each step in the process of buying and selling your home.
 
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    As a preferred Real Estate Team, The Radke Agency delivers a dedicated consulting approach with the highest standards of personalized real estate service to each client we work with. Our many years of extensive residential real estate experience and targeted search approach will make the process of buying or selling your home easy for you!
+
+    Whether you are buying or selling your home, you want a smooth transaction at the best possible price. The Radke Agency knows how to close the deal for you.
+  market: Southern California
+  brand: Radke Agency & Associates
+  brokerage: Keller Williams World Class
+  address: '30700 Russell Ranch Rd. #200 Westlake Village, CA 91362'
+  phone: 800-405-1433
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Barbara@RadkeAgency.com
+  url: https://www.RadkeAgency.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.propertyhomevalue.com/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
-  VR_form:
+  second_CTA_URL: http://www.radkeagency.com/homes-for-sale
+  VR_form: http://oi.vresp.com?fid=335c491354
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.propertyhomevalue.com/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://www.radkeagency.com/homes-for-sale
 
 lender:
   show_section: false
@@ -66,16 +70,16 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/radkeagency
+  linkedin_url: https://www.linkedin.com/in/barbararadke/
+  gplus_url: https://plus.google.com/106393997637757571283
+  youtube_url: https://www.youtube.com/user/RadkeAgency
+  twitter_url: https://twitter.com/BarbaraRadke
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
+  zillow_url: https://www.zillow.com/profile/ThousandOaksRealtor/
+  trulia_url: https://www.trulia.com/profile/radke-agency-and-associates-agent-westlake-village-ca-zg1v8jkj/overview
+  yelp_url: https://www.yelp.com/biz/radke-agency-westlake-village?osq=radke+agency
   podcast_url:
 
 podcast:
@@ -97,7 +101,7 @@ images:
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#b40101'
-  theme_color: '#999'
+  theme_color: '#231f20'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -106,7 +110,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: rgba(238, 238, 238, .5)
 
 buttons:
   button_radius_number: 0
