@@ -31,7 +31,7 @@ Here are five great tips that will help keep your home warm and save on energy c
 
 {% include pullquote.html %}
 
-**4. Turn down your thermostat.**Statistics show that by turning your heating unit down 10 to 15 degrees once you’re in bed and under warm covers, you can save as much as 10% to 15% in yearly heating costs. Better yet, buy and install a programmable thermostat.
+**4. Turn down your thermostat.** Statistics show that by turning your heating unit down 10 to 15 degrees once you’re in bed and under warm covers, you can save as much as 10% to 15% in yearly heating costs. Better yet, buy and install a programmable thermostat.
 
 **5. Don’t heat unused space.** If you have a guest room or a basement no one ever uses, seal that space off so it’s not getting heated when not in use.
 
