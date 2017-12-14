@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Do You Compete When the Market Heats Up?
-date: 2017-12-12 12:42:20
+date: 2017-12-12 12:42:00
 tags:
   - Market Update
 excerpt: >-
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: E3eXcmnyoR4
+youtube_code: JeApo1bGP0w
 ---
 
 
