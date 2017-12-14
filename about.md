@@ -59,5 +59,4 @@ Lydia Blas-Fernandez
 Kris Ogilvie
 {: .team-member}
 
-Kris is a lifetime Pacific Northwest resident, and loves helping others succeed through real estate. &nbsp;She is the Transaction Guru for Abode Base Real Estate, and is responsible for a lot of the magic that happens behind the scenes!
-{: .team-member}
+<div class="team-bio">Kris is a lifetime Pacific Northwest resident, and loves helping others succeed through real estate. &nbsp;She is the Transaction Guru for Abode Base Real Estate, and is responsible for a lot of the magic that happens behind the scenes!</div>
