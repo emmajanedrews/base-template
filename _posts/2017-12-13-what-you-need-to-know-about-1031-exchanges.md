@@ -21,7 +21,7 @@ youtube_code: Ldp0UAUu_wg
 
 One of the most common practices among many of our investors is a 1031 exchange. What is a 1031 exchange, though?
 
-When you buy one or more investment properties and you’re looking to sell that property so you can buy another one, **the 1031 exchange allows you to avoid paying taxes on your gains.**If you have a cost basis of $1 million in a commercial building and you sell it for $1.5 million, for example, instead of paying the capital gains on it like you would with stocks or other asset classes, you can defer them by using a 1031 exchange. &nbsp;
+When you buy one or more investment properties and you’re looking to sell that property so you can buy another one, **the 1031 exchange allows you to avoid paying taxes on your gains.&nbsp;**If you have a cost basis of $1 million in a commercial building and you sell it for $1.5 million, for example, instead of paying the capital gains on it like you would with stocks or other asset classes, you can defer them by using a 1031 exchange. &nbsp;
 
 The biggest problem with 1031 exchanges is what’s called their “identification phase.” Many investors who work with us like to find the asset they want to buy next before selling their original asset. Once we help them locate that asset, we write an offer that’s contingent upon the sale of their original asset.
 
