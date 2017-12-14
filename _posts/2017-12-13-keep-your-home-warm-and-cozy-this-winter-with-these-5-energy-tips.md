@@ -27,7 +27,7 @@ Here are five great tips that will help keep your home warm and save on energy c
 
 **2. Insulate your home’s north-facing windows.** Use heavy window treatments or insulated window treatments to keep the air from inside and the air from outside separate.
 
-**3. Check your heating unit.** Dirt and a lack of maintenance are the two most common reasons heating unit failure. Before it starts getting heavy usage, have it serviced and change its filters.
+**3. Check your heating unit.** Dirt and a lack of maintenance are the two most common reasons heating units failure. Before it starts getting heavy usage, have it serviced and change its filters.
 
 {% include pullquote.html %}
 
