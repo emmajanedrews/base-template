@@ -3,6 +3,7 @@ layout: post
 title: Need to Meet Your Continuing Education Requirements? This Resource Can Help
 date: 2017-12-11 17:37:00
 tags:
+  - Real Estate
 excerpt: >-
   How can we as agents possibly set aside time for continuing education with the
   busy schedules we maintain? Today, I’d like to share a great resource that can
