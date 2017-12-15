@@ -1,14 +1,15 @@
 ---
 layout: post
 title: A Holiday Message From Our Team to You
-date: 2017-12-11 10:37:12
+date: 2017-12-11 10:37:00
 tags:
   - Real Estate
 excerpt: >-
   I’m getting into the holiday spirit today, as you can see from my choice of
   headwear. I just wanted to stop by and say thank you for all your support this
   past year.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Happy%2520holidays%2520from%2520our%2520entire%2520team.mp4
 pullquote: We are so grateful for your business!
 enclosure_type: video/mp4
 enclosure_time:
