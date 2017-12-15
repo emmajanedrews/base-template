@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   We’re proud to announce that we’ve joined Coldwell Banker Residential
   Brokerage.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Mindy+Robbins/Videos/Dallas+-+Fort+Worth+Real+Estate+Agent-+Taking+Our+Service+to+the+Next+Level.mp4
 pullquote: >-
   We’re proud to announce that we’ve joined Coldwell Banker Residential
   Brokerage.
