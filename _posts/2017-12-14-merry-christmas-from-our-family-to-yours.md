@@ -22,7 +22,7 @@ youtube_code: xH2YdJ9iOUA
 
 We want to wish you a merry Christmas and hope you enjoy everything this holiday season has to offer for you and your family.&nbsp;
 
-We also want to thank you for your continued support for our team. We know that we wouldn’t be where we are today without your help.** It’s truly a joy to make your real estate dreams a reality.**
+We also want to thank you for your continued support for our team. We know that we wouldn’t be where we are today without your help. **It’s truly a joy to make your real estate dreams a reality.**
 
 {% include pullquote.html %}
 
