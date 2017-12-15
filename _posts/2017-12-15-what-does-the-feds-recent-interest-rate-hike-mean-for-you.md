@@ -30,4 +30,6 @@ I’m joined today by my preferred lender, Brian McKim over at SkyLine Home Plan
 
 If you have any questions in the meantime, give us a call or send us an email. We look forward to hearing from you.
 
-![](/uploads/versions/cost-of-waiting-mckim-1---x----2550-3215x---.jpg)
+![](/uploads/versions/cost-of-waiting-mckim-1-1---x----775-977x---.jpg)
+
+&nbsp;
