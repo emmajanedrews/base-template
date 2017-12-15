@@ -18,7 +18,7 @@ youtube_code: jKYyOqTTUkY
 
 {% include youtube.html %}
 
-*Manna Food Bank is a great addition to our community. Let’s take a look inside at what they do.*
+<p align="center"> *Manna Food Bank is a great addition to our community. Let’s take a look inside at what they do.*</p>
 
 *Want to sell your home?**&nbsp;[Get a FREE home value report](http://www.propertyhomevalue.com/)***
 
