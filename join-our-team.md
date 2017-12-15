@@ -51,22 +51,22 @@ As an owner and as a Realtor, I felt like there had to be a better, balanced alt
 
 ***Technology:***
 
-* A personalized website with an integrated CRM powered by TorchX. The individual agent package costs $399 a month plus the $949 setup fee. For more details, visit [torchx.com](http://torchx.com/)
-* Circle Pix’s hassle-free marketing program, which costs $500 per year. For more details, visit [circlepix.com](https://circlepix.com)
-* A branded newsletter, which costs $20 to $45 per month. For more information, visit [mynewsletterbuilder.com](https://www.mynewsletterbuilder.com)
+* A personalized website with an integrated CRM powered by TorchX. The individual agent package costs $399 a month plus the $949 setup fee. For more details, visit [torchx.com](http://torchx.com/)&nbsp; (Your Cost=$0)
+* Circle Pix’s hassle-free marketing program, which costs $500 per year. For more details, visit [circlepix.com](https://circlepix.com)&nbsp;(Your Cost=$0)
+* A branded newsletter, which costs $20 to $45 per month. For more information, visit [mynewsletterbuilder.com](https://www.mynewsletterbuilder.com)&nbsp;(Your Cost=$0)
 
 Office & Print Materials:
 
-* Announcement cards & envelopes
-* A pre-listing package, including:
+* Announcement cards & envelopes (Your Cost=$0)
+* A pre-listing package, including: (Your Cost=$0)
   * A biography insert
   * A “What Others Say” insert
   * A “Home Selling Insights” booklet ([Click Here to view](https://www.lakerealty.com/b/lake-norman-real-estate-home-selling-guide/))
   * Nine home selling tips
-* Standard copier usage
-* Office space to meet clients
-* Open house signs
-* A transition package (if coming from another firm)
+* Standard copier usage (Your Cost=$0)
+* Office space to meet clients (Your Cost=$0)
+* Open house signs (Your Cost=$0)
+* A transition package (if coming from another firm) (Your Cost=$0)
 
 ***Support:***
 
@@ -80,10 +80,10 @@ Office & Print Materials:
 
 ***Perks Available to You & Your Clients:***
 
-* 15 foot moving truck
-* Lake Norman boat tours
-* Branded Lake Realty display tent
-* A power washer, cornhole boards, and more. Check out [perks.lakerealty.com](http://perks.lakerealty.com) for more information.&nbsp;
+* 15 foot moving truck (Your Cost=$0)
+* Lake Norman boat tours (Your Cost=$0)
+* Branded Lake Realty display tent (Your Cost=$0)
+* A power washer, cornhole boards, and more. Check out [perks.lakerealty.com](http://perks.lakerealty.com) for more information. (Your Cost=$0)
 
 ***Cutting Edge Compensation Plan:***&nbsp;
 
@@ -140,4 +140,4 @@ Frank & Chip Free
 #### Request a phone call to discuss strategy or answer your questions.
 {: .recruiting}
 
-<form method="post" class="home-value cta-forms" action="http://formspree.io/Chip@LakeRealty.com" onsubmit="return setReturn()"><fieldset><label for="firstname">First Name*</label> <input type="text" required="" name="firstname" /> <label for="lastname">Last Name*</label> <input type="text" required="" name="lastname" /> <label for="email">Email*</label> <input type="text" name="name" /> <label for="phone">Phone Number </label> <input type="tel" name="phone" /> <!--11--> <label for="city">City </label> <input type="text" name="city" /> <label for="state">State </label> <input type="text" name="state" /> <label for="employer">Current Employer </label> <input type="text" name="employer" /> <label for="message">Why are you interested in this? </label><textarea name="employer"></textarea> <!-- submit! --> <input class="submit light-light" type="submit" value="Apply Now" name="submitrecruitingForm" /> <span class="asterisk">*</span>required</fieldset><!-- Cloud cannon settings field --><div class="hidden"><a href="__notset__"><input type="hidden" value="Recruiting Contact Request Message From Your -- CLIENT BRAND --" name="_subject" /> <input type="text" name="_gotcha" /></a></div><div class="hidden"><a href="__notset__">Watch Office Tour Video</a></div><div class="hidden"><a href="https://youtu.be/H9kJ1lnwkVI"><img alt="Office Tour Video" width="854" height="480" src="/uploads/versions/officetouricon---x----854-480x---.jpg" /></a></div><div class="hidden">&nbsp;</div><div class="hidden">&nbsp;</div><input type="hidden" required="" value="67637e90908e357ae91deb2fbbc28e640534f970c480f447bb3f5791b9408d" name="_encrypted_details" />&nbsp;</form>
+<form method="post" class="home-value cta-forms" action="http://formspree.io/Chip@LakeRealty.com" onsubmit="return setReturn()"><fieldset><label for="firstname">First Name*</label> <input type="text" required="" name="firstname" /> <label for="lastname">Last Name*</label> <input type="text" required="" name="lastname" /> <label for="email">Email*</label> <input type="text" name="name" /> <label for="phone">Phone Number </label> <input type="tel" name="phone" /> <!--11--> <label for="city">City </label> <input type="text" name="city" /> <label for="state">State </label> <input type="text" name="state" /> <label for="employer">Current Employer </label> <input type="text" name="employer" /> <label for="message">Why are you interested in this? </label><textarea name="employer"></textarea> <!-- submit! --> <input class="submit light-light" type="submit" value="Apply Now" name="submitrecruitingForm" /> <span class="asterisk">*</span>required</fieldset><!-- Cloud cannon settings field --><div class="hidden"><a href="__notset__"><input type="hidden" value="Recruiting Contact Request Message From Your -- CLIENT BRAND --" name="_subject" /> <input type="text" name="_gotcha" /></a></div><div class="hidden">&nbsp;</div><div class="hidden"><a href="https://youtu.be/H9kJ1lnwkVI"><img alt="Office Tour Video" width="854" height="480" src="/uploads/versions/officetouricon---x----854-480x---.jpg" /></a></div><div class="hidden">&nbsp;</div><div class="hidden">&nbsp;</div><input type="hidden" required="" value="67637e90908e357ae91deb2fbbc28e640534f970c480f447bb3f5791b9408d" name="_encrypted_details" />&nbsp;</form>
