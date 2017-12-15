@@ -25,7 +25,7 @@ Recently, our team moved offices to a much larger space in Grandview Heights, an
 
 {% include pullquote.html %}
 
-One event in particular will be a monthly event involving different topics and guest speakers. This will typically be a s**maller event held at our office that’s geared towards the topic of real estate investment**—focusing on agents, what it’s like to work with investors or commercial financing, how to stay on top of direct mail, agent accountability, and more.
+One event in particular will be a monthly event involving different topics and guest speakers. This will typically be a **s****maller event held at our office that’s geared towards the topic of real estate investment**—focusing on agents, what it’s like to work with investors or commercial financing, how to stay on top of direct mail, agent accountability, and more.
 
 We also have a **monthly happy hour** at different restaurants and venues around town where we focus on introducing our team to you, networking, and getting to know us personally in an informal setting.
 
