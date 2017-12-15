@@ -5,7 +5,8 @@ date: 2017-12-10 20:50:00
 tags:
   - Market Update
 excerpt: How does the market now compare to the year in general? Here’s your update.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Chris+Hauck/St.+Cloud+Real+Estate+2017+market+update.mp4
 pullquote: 'It’s been a good year for buyers, with interest rates at a record low.'
 enclosure_type: video/mp4
 enclosure_time:
