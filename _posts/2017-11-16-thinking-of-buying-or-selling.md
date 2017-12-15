@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you’re thinking about buying or selling a home, we have plenty of online
   tools you can use to get started.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Tad+%26+Debbie+Wicker/Videos/December/Northern+Virginia+Real+Estate-+You%2527ll+Love+Our+Online+Tools.mp4
 pullquote: 'If you like our tools, you’ll love working with our team.'
 enclosure_type: video/mp4
 enclosure_time:
