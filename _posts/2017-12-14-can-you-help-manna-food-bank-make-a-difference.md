@@ -18,10 +18,11 @@ youtube_code: jKYyOqTTUkY
 
 {% include youtube.html %}
 
-<p align="center"> Manna Food Bank is a great addition to our community. Let’s take a look inside at what they do.</p>
+Manna Food Bank is a great addition to our community. Let’s take a look inside at what they do.
 
-<p align="center"> Want to sell your home?&nbsp;[Get a FREE home value report](http://www.propertyhomevalue.com/)</p>
-<p align="center"> Want to buy a home?&nbsp;[Search all homes for sale](http://www.radkeagency.com/homes-for-sale)</p>
+Want to sell your home?&nbsp;[Get a FREE home value report](http://www.propertyhomevalue.com/)&nbsp;
+
+Want to buy a home?&nbsp;[Search all homes for sale](http://www.radkeagency.com/homes-for-sale)&nbsp;
 
 Today, we’re going to be talking about the Manna Food Bank, which is a 45-year-old independent organization that helps feed people in need.
 
