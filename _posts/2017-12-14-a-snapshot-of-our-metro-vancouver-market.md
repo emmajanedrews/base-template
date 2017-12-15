@@ -12,7 +12,7 @@ pullquote: Prices are increasing in our market.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/no-pb-8.jpg
+youtube_alternate_image: /uploads/no-pb-1-1.jpg
 youtube_code: 6cE6S6EfkAA
 ---
 
@@ -21,7 +21,7 @@ youtube_code: 6cE6S6EfkAA
 
 What do the latest numbers say about our metro Vancouver market?
 
-**Our market continues to experience above-average demand and below-average supply.&nbsp;**Realtors registered approximately 2,795 sales in this region’s MLS last month, which is up 26% from last November and is 17% above the 10-year sales average for November.
+**Our market continues to experience above-average demand and below-average supply.**Realtors registered approximately 2,795 sales in this region’s MLS last month, which is up 26% from last November and is 17% above the 10-year sales average for November.
 
 While sales are above average for this time of year, overall supply remains well below our long-term average. The total number of homes currently listed on the MLS is roughly 8,747, which is 35% below November’s 10-year average.
 
