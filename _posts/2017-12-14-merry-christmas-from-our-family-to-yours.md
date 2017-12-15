@@ -28,4 +28,4 @@ We also want to thank you for your continued support for our team. We know that 
 
 If you have any questions or there’s anything we can help you with, don’t hesitate to reach out to us. We’d love to help you.&nbsp;
 
-In the meantime, Merry Christmas and Happy New Year!
+In the meantime, merry Christmas and happy New Year!
