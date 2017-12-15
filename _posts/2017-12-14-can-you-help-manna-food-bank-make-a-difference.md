@@ -30,6 +30,8 @@ The week before Thanksgiving, we worked with them on a food drive.&nbsp;**The dr
 
 Right now, they’re actually in the process of moving to a new facility, which will be 4.5 times larger than the current facility. There, they’ll host classes in nutrition, cooking, and more. These classes will focus on helping people with health problems learn more about their nutritional needs and how to meet them. Additionally,&nbsp;**Manna will provide education on financial literacy and household management.**
 
+{% include pullquote.html %}
+
 When people hear about hunger, they often think of a fairly narrow demographic. But the people who benefit from Manna’s services actually come from all walks of life. This is especially true following the recession years ago.
 
 In fact, over 85% of Manna’s clients are employed families. The remaining 15% is made up of senior citizens and disabled people on fixed incomes.
