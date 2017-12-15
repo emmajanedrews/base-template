@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our Team Wishes You a Happy Holiday Season
-date: 2017-12-15 09:42:27
+date: 2017-12-15 09:42:00
 tags:
 excerpt: >-
   We wanted to send a quick holiday message out wishing you all the best in the
@@ -12,8 +12,8 @@ pullquote: 'From our family to yours, happy holidays.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/sandoval-youtube-2-1.jpg
-youtube_code: lWgLtsnj-4g
+youtube_alternate_image: /uploads/sandoval-youtube-2-1-1.jpg
+youtube_code: ASYmYojQyCw
 ---
 
 
