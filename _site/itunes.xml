@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Bucks County Real Estate Podcast with Martin Millner, REALTOR®</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://buckscountyrealestatevideoblog.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://buckscountyrealestatevideoblog.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Marty Millner Real Estate Team - your professional Bucks County Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Martin Millner, REALTOR®</managingEditor>
-    <lastBuildDate>2017-12-14 16:37:50 -0600</lastBuildDate>
+    <lastBuildDate>2017-12-15 10:18:31 -0600</lastBuildDate>
     <media:copyright>Martin Millner, REALTOR®</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://buckscountyrealestatevideoblog.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Bucks County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,12 +18,584 @@
     </itunes:owner>
     <itunes:author>Martin Millner, REALTOR®</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://buckscountyrealestatevideoblog.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Bucks County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Bucks County Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Marty Millner Real Estate Team - your professional Bucks County Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>The Latest Bucks County Real Estate Information</title>
+        <link>http://buckscountyrealestatevideoblog.com/the-latest-bucks-county-real-estate.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Martin Millner, REALTOR®</author>
+        <pubDate>2017-12-06 11:06:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Marty+Millner/Bucks+County+Real+Estate+-+An+update+for+Bucks+County.mp4</guid>
+        <description>
+
+The latest numbers are in for Bucks County real estate. Here’s what they mean for you.
+
+Buying a Bucks County area home?  Perform a full home search
+Selling your Bucks County home? Get a free Home Price Evaluation
+
+I’m excited to share some of the latest statistics from the Bucks County real estate market. These numbers are based on what happened through the end of October. We track about 20 different individual markets throughout the county, but seeing the numbers in Bucks County as a whole is the best way to find out what’s actually going on.
+
+We’re continuing to see low inventory. Lower than we’ve seen in years. At the same time, homes are still selling quickly. Our absorption rate is down from 6.2 months at this time last year to 5.2 months currently.
+
+There are 13% fewer homes on the market now than there were last year. That means we currently have 3,189 homes on the market. This rise in demand has coincided with a rise in appreciation. The 5% appreciation we’ve seen in the past year is the most significant rise we’ve seen in any year since the market downturn in 2008 and 2009.
+
+“WE ARE NOW IN A SELLER’S MARKET.”
+
+The continued market activity is driving demand and putting us in this seller’s market where homes are selling, on average, eight days faster than they did last year.
+
+We’re continuing to see a strong market here in Bucks County. The average asking price discount of 4% is the lowest I’ve seen in quite some time. We’re also still seeing multiple offer situations from time to time. Certain homes can still sell for over asking price.
+
+Once we get through the end of the year, we’ll have some more specific market data for you. Until then, give me a call or send me an email if you have any questions about your specific market and I’ll be able to get right back to you. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Marty+Millner/Bucks+County+Real+Estate+-+An+update+for+Bucks+County.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://buckscountyrealestatevideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Marty+Millner/Bucks+County+Real+Estate+-+An+update+for+Bucks+County.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+The latest numbers are in for Bucks County real estate. Here’s what they mean for you.
+
+</itunes:subtitle>
+        <itunes:author>Martin Millner, REALTOR®</itunes:author>
+        <itunes:summary>
+
+The latest numbers are in for Bucks County real estate. Here’s what they mean for you.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Bucks County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Whats Going on in the Real Estate World of Bucks County?</title>
+        <link>http://buckscountyrealestatevideoblog.com/whats-going-on-in-real-estate-world-of.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Martin Millner, REALTOR®</author>
+        <pubDate>2017-10-27 10:04:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Marty+Millner/Bucks+County+Real+Estate+-+Bucks+County+October+market+update.mp4</guid>
+        <description>
+
+The real estate world of Bucks County has been very interesting. Today, we compare the countywide market figures to some of the individual markets within the county.
+
+Buying a Bucks County area home?  Perform a full home search
+Selling your Bucks County home? Get a free Home Price Evaluation
+
+It’s an interesting year in the real estate world of Bucks County. The number of homes for sale is down 14% at the end of the third quarter compared to last year. That’s a pretty significant change in terms of how many houses there are on the market.
+
+We’ve seen more significant price appreciation throughout the county this year than we have in any year since the real estate decline of 2007 to 2009. The average price of a house sold in Bucks County has increased 4.5%.
+
+The other dynamic that’s interesting is that we’ve actually seen fewer homes on the market, and the number of transactions closed is actually higher—about 3.2% more homes settled. To put that in perspective, that number represents about 5,644 houses that have actually closed in the county.
+
+The average days on market is 58 days. This is a countywide figure, and some of the individual markets within Bucks County were a little bit different.
+
+What’s going on in Lower Makefield Township compared with the county? Well, the inventory level in the township is actually down over 24%, which is a really significant decrease in the number of houses that are on the market. The average sale price as of the end of the third quarter is up 5.8%, a little more than what we see in the countywide figure.
+
+“WE’VE SEEN MORE SIGNIFICANT PRICE APPRECIATION THROUGHOUT THE COUNTY THIS YEAR THAN WE HAVE IN ANY YEAR SINCE THE REAL ESTATE DECLINE OF 2007 TO 2009.”
+
+The big takeaway for Lower Makefield is that there’s only 4.9 months of inventory on the market right now. We consider the market to be balanced when there are only six months of inventory, so it means it’s a seller’s market if you’re looking for a house in Lower Makefield.
+
+The difference between the days on market for Newtown Township and the countywide figure is really pronounced. Believe it or not, the inventory is down 40% compared to this time last year. There were 112 houses on the market in Newtown last year, and this year there were 67.
+
+There’s only a 2.9-month supply of inventory, which wouldn’t indicate that the dynamics are favoring sellers.
+
+Another interesting dynamic in Newtown is the average sold price as of the end of the third quarter is only up about 1.2%.
+
+The average days on market is 39 days.
+
+For Upper Makefield, the dynamic is similar but skewed by the number of houses that are on the market for over $1 million. Inventory is down about 7%. However, there’s about a 10.7-month supply of inventory due to the number of high-priced homes there. In fact, there’s an almost 19-month backlog of inventory specifically for houses priced over a million dollars.
+
+The takeaway is pretty similar to what we’ve seen through the year: low inventory with prices somewhat appreciating at a level we haven’t seen in awhile. It can be challenging for buyers, but anecdotally, I would say I’ve seen activity drop over the past several weeks with my listings. It will be interesting to see how that plays out statistically.
+
+If you have questions, shoot me a text or an email. I’d be happy to speak with you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Marty+Millner/Bucks+County+Real+Estate+-+Bucks+County+October+market+update.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://buckscountyrealestatevideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Marty+Millner/Bucks+County+Real+Estate+-+Bucks+County+October+market+update.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+The real estate world of Bucks County has been very interesting. Today, we compare the countywide market figures to some of the individual markets within the county.
+
+</itunes:subtitle>
+        <itunes:author>Martin Millner, REALTOR®</itunes:author>
+        <itunes:summary>
+
+The real estate world of Bucks County has been very interesting. Today, we compare the countywide market figures to some of the individual markets within the county.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Bucks County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Are Conditions Ripe for You to Sell Your Home This Fall?</title>
+        <link>http://buckscountyrealestatevideoblog.com/why-are-conditions-ripe-for-you-to-sell.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Martin Millner, REALTOR®</author>
+        <pubDate>2017-09-12 10:43:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Marty+Millner/Bucks+County+Real+Estate+-+Should+you+wait+until+spring+or+list+now%253F.mp4</guid>
+        <description>
+
+As we enter fall, we’re in a strong seller’s market. If you decide to list your home now, I have five tips that will help it get sold quickly and for top dollar.
+
+Buying a Bucks County area home?  Perform a full home search
+Selling your Bucks County home? Get a free Home Price Evaluation
+
+Why does it make sense for you to list your home in the fall instead of waiting until next spring?
+
+Whether the market is favorable to buyers or sellers depends on whether there are more buyers or sellers in the market. **Over the past 12 months, there’s been strong buyer demand but not enough sellers to meet that demand, which has made conditions very favorable to sellers. **
+
+If you do decide to take advantage of this opportunity and put your home on the market this fall, here are five tips that will make your home even more attractive to all those buyers out there:
+
+1. Accentuate your home’s curb appeal. Fall is a great time to spruce up the exterior of your house and make a great first impression on buyers, so lay down some fresh mulch and trim back your bushes.
+
+2. Keep your holiday displays tasteful. The approach of the holiday season makes people feel good, and that’s conducive to your home sale. That being said, make sure your holiday displays are tasteful and reasonably done.
+
+“USE THESE FIVE TIPS TO SELL QUICKLY AND FOR TOP DOLLAR.”
+
+3. Create an inviting interior living space. This is rule applies all the time, but make sure you declutter the inside of your home and make your space appear as big as possible. You also want buyers to think there is a lot of storage room in your home.
+
+4. If you have a fireplace, use it. Fireplaces (especially gas ones) have a strong emotional appeal during the fall and winter
+
+5. Enhance fall aromas. There’s nothing like the scent of a great fall evening, so if you can capture that scent inside your house, that’s one more strong emotional connection you can make with buyers.
+
+If you have any questions about any of these tips, you want to know what your home is worth, or you’re thinking about selling your home, don’t hesitate to contact me. I’d be happy to help you in any way I can.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Marty+Millner/Bucks+County+Real+Estate+-+Should+you+wait+until+spring+or+list+now%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://buckscountyrealestatevideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Marty+Millner/Bucks+County+Real+Estate+-+Should+you+wait+until+spring+or+list+now%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+As we enter fall, we’re in a strong seller’s market. If you decide to list your home now, I have five tips that will help it get sold quickly and for top dollar.
+
+</itunes:subtitle>
+        <itunes:author>Martin Millner, REALTOR®</itunes:author>
+        <itunes:summary>
+
+As we enter fall, we’re in a strong seller’s market. If you decide to list your home now, I have five tips that will help it get sold quickly and for top dollar.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Bucks County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>5 Inexpensive Upgrades for You to Make</title>
+        <link>http://buckscountyrealestatevideoblog.com/5-inexpensive-upgrades-for-you-to-make.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Martin Millner, REALTOR®</author>
+        <pubDate>2017-08-16 09:08:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Marty+Millner/Bucks+County+Real+Estate+-+5+inexpensive+home+repairs.mp4</guid>
+        <description>
+
+Getting your home ready for sale doesn’t have to be expensive. Here are five inexpensive fixes that will add value to your home.
+
+Buying a Bucks County area home?  Perform a full home search
+Selling your Bucks County home? Get a free Home Price Evaluation
+
+It’s hard to believe, but we’re already approaching mid-August. The Bucks County market is still quite active. We’re continuing to get complaints from buyers that there aren’t enough homes on the market. If you’ve been considering selling your home, now is a great time to accomplish that. It’s also a great time to invest a bit of money into your home in order to reap the benefits when you sell. Here are five ways you can increase your home’s value for under $100:
+
+1. Add a light fixture. If you have a room in your house that’s dark, brighten it up with one of these. It will make the home more attractive to buyers.
+
+2. Add a new bookcase/cabinet. For a relatively low price, you can use a new bookcase or cabinet to assist you with decluttering and adding to the room at the same time.
+
+“A NEW BOOKCASE CAN HELP YOU DECLUTTER AS WELL.”
+
+3. Paint kitchen cabinets. It’s sometimes hard to justify investing in a major update or remodel. However, if your cabinetry looks bare, a coat of paint could make a huge difference.
+
+4. Reupholster your old furniture. Doing this is an inexpensive alternative to replacing your old furniture outright.
+
+5. Consider a general paint touch-up in your home. I work with a company who is really good at touching up spots that need it. I’d be happy to pass their information along to you.
+
+Each of these home improvements is inexpensive, but they each add more value to your home when it comes time to sell. If you have any questions for me or you’re thinking about selling your home, give me a call or send me an email. I look forward to hearing from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Marty+Millner/Bucks+County+Real+Estate+-+5+inexpensive+home+repairs.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://buckscountyrealestatevideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Marty+Millner/Bucks+County+Real+Estate+-+5+inexpensive+home+repairs.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Getting your home ready for sale doesn’t have to be expensive. Here are five inexpensive fixes that will add value to your home.
+
+</itunes:subtitle>
+        <itunes:author>Martin Millner, REALTOR®</itunes:author>
+        <itunes:summary>
+
+Getting your home ready for sale doesn’t have to be expensive. Here are five inexpensive fixes that will add value to your home.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Bucks County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Tax Appeals: Explained </title>
+        <link>http://buckscountyrealestatevideoblog.com/tax-appeals-explained.html</link>
+        
+          <category>Bucks County Real Estate</category>
+        
+        <author>Martin Millner, REALTOR®</author>
+        <pubDate>2017-07-27 16:01:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Marty+Millner/Bucks+County+Real+Estate+-+Video+guide+on+tax+appeals.mp4</guid>
+        <description>
+
+Taxes always seem too high, but what do you do if they really are? Let’s take a look at the tax appeal process.
+
+Buying a Bucks County area home?  Perform a full home search
+Selling your Bucks County home? Get a free Home Price Evaluation
+
+Over the years I’ve written a lot about the process of tax appeals. Just this week, a community member interested in learning more gave me a call.
+
+I’m sure that person wasn’t the only one wondering about the process of tax appeals, though, so I wanted to explain it here too.
+
+First, how do you go about appealing your taxes? Most everyone believes that their taxes are too high, so how can you make sure that you really qualify to appeal?
+
+Your property assessment is the first thing you should turn to. Here in Bucks County, your assessment should represent 10.4% of your property’s fair market value.
+
+If after checking that value you feel you need to make an appeal, the first step is to go to http://www.buckscounty.org/ and fill out the assessment appeal form for a $35 charge.
+
+When making an appeal, you have a couple of options. If you choose the option of doing it yourself, you’ll first need to fill out the form.
+
+“THE PROCESS OF APPEALING IS ACTUALLY RATHER SIMPLE.”
+
+On the form, you can either include an appraisal or a list of three comparable properties to substantiate your claims. For a property to qualify as being comparable, it must be in the same municipality, be of similar size, have similar amenities, and be relatively recent.
+
+Finding these properties is something I can help with, and I’ve seen some amazing opportunities come from these appeals.
+
+Otherwise, there are attorneys who will handle the appeals for you. In this case, an attorney will charge you a percentage of what your first-year savings would be in the event that they’re successful.
+
+In truth, the process of appealing is actually rather simple. The most complicated part is gathering the data to support the appeal. If you want to go through the process during this tax season, you’ll need to make the decision whether to move forward soon.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Marty+Millner/Bucks+County+Real+Estate+-+Video+guide+on+tax+appeals.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://buckscountyrealestatevideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Marty+Millner/Bucks+County+Real+Estate+-+Video+guide+on+tax+appeals.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Taxes always seem too high, but what do you do if they really are? Let’s take a look at the tax appeal process.
+
+</itunes:subtitle>
+        <itunes:author>Martin Millner, REALTOR®</itunes:author>
+        <itunes:summary>
+
+Taxes always seem too high, but what do you do if they really are? Let’s take a look at the tax appeal process.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Bucks County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>6 Tips for Homebuyers Navigating a Sellers Market </title>
+        <link>http://buckscountyrealestatevideoblog.com/6-tips-for-homebuyers-navigating.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Martin Millner, REALTOR®</author>
+        <pubDate>2017-07-03 09:30:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Marty+Millner/Bucks+County+Real+Estate+-+6+tips+for+homebuyers+in+a+tough+market.mp4</guid>
+        <description>
+
+As a homebuyer, how do you find a home in a seller’s market? I have six tips to help you today.
+
+Buying a Bucks County area home?  Perform a full home search
+Selling your Bucks County home? Get a free Home Price Evaluation
+
+Right now, the market conditions are somewhat difficult for buyers, as Bucks County is in a seller’s market. Our market is not as crazy as the market in other counties, but inventory levels are down and some homes are selling with multiple offers.
+
+If you are out there actively looking for a home, here are a few tips to help you navigate the market:
+
+1. Make your initial offer your best offer. This may seem counter-intuitive since buyers had more control in the past few years. It used to be that you could initially offer a lower number with the understanding that you would negotiate with the seller. However, making your first offer your best and highest offer can mean the difference between getting the house you want or not.
+
+2. Don’t overanalyze the purchase price. We are seeing some appreciation in the market, which we haven’t really seen in past years. Prices aren’t wildly escalating, but they are on the rise. So, if a home sells for a certain price in a given neighborhood and you’re looking at a similar home, that seller will probably ask for a little more money than the previous sale. If you are serious about buying, that is something you should expect given current market conditions.
+
+3. Work with an experienced agent. Every agent has to start somewhere, but it can be risky for homebuyers to work with an inexperienced agent in today’s market. Work with an agent who has a good working relationship with other agents in the market. Virtually every other agent in Bucks County knows who I am because I’ve been in real estate for a long time. In a lot of transactions, that really does help. Even in multiple offer situations, my buyer may get picked over the others because I have an established connection with the listing agent.
+
+“YOUR FIRST OFFER SHOULD BE YOUR BEST OFFER.”
+
+4. Get pre-approved before you start looking for homes. Talk to a mortgage lender early on in the process and get pre-approved so that you’re prepared to buy when you find the house you want. It will save you a lot of stress and frustration down the road.
+
+5. Be prepared for a multiple offer situation. Multiple offer situations are not uncommon right now. It doesn’t happen with every house and there are many factors that lead to a multiple offer situation, but know that it’s a possibility. Don’t be shocked if someone else makes an offer on the home you want.
+
+6. Learn from the process. I take a lot of pride in my ability to educate buyers so that they understand exactly what’s happening at every step of the process. Even if you make an offer and don’t get the home, step back and learn from it. Don’t frantically chase after a house that you didn’t get and end up overpaying for it; just learn from the process.
+
+If you are looking to buy in the current market or if you have any other real estate questions, give me a call or send me an email. I would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Marty+Millner/Bucks+County+Real+Estate+-+6+tips+for+homebuyers+in+a+tough+market.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://buckscountyrealestatevideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Marty+Millner/Bucks+County+Real+Estate+-+6+tips+for+homebuyers+in+a+tough+market.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+As a homebuyer, how do you find a home in a seller’s market? I have six tips to help you today.
+
+</itunes:subtitle>
+        <itunes:author>Martin Millner, REALTOR®</itunes:author>
+        <itunes:summary>
+
+As a homebuyer, how do you find a home in a seller’s market? I have six tips to help you today.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Bucks County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Be Aware of These 3 Things When Buying a Home </title>
+        <link>http://buckscountyrealestatevideoblog.com/be-aware-of-these-3-things-when-buying.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Martin Millner, REALTOR®</author>
+        <pubDate>2017-03-17 10:58:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Marty+Millner/Bucks+County+Real+Estate+-+3+things+all+homebuyers+should+keep+in+mind.mp4</guid>
+        <description>
+
+There are three important factors every buyer should consider when deciding which home is the best one to purchase.
+
+Buying a Bucks County area home?  Perform a full home search
+Selling your Bucks County home? Get a free Home Price Evaluation
+
+There are three important factors that you need to consider when deciding which house to buy for you and your family.
+
+First you need to consider the resale value of the home. Most of the time, when someone buys a home, they plan to live there for many years. However, life can throw you a curveball, so it’s not unusual to have to sell a house. Pay attention to the neighborhood the house is in, make sure the house is priced properly for the area, and pay attention to other factors that could negatively affect the resale value of your home. Make sure that there is nothing unusual that will limit the appeal of the house to future buyers.
+
+“DON’T OVERLOOK THE RESALE VALUE OF THE HOME.”
+
+You also need to pay attention to the structural soundness of the house. Make sure that you order a home inspection before you purchase the property so that you can be sure that the windows are sound and the floors are sturdy. The home inspection will alert you to any major structural issues with the home.
+
+Finally, don’t lose sight of potential costly repairs. Does the home have any HVAC issues? Is the roof near the end of its lifetime? In some parts of Bucks County, you might have to deal with wells and septic issues. A failed septic system can run $25,000 to $30,000 to repair. Keep these things in mind when deciding which property is best for you and your family.
+
+If you have any other questions about the home buying process or about real estate in general, give me a call or send me an email. I would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Marty+Millner/Bucks+County+Real+Estate+-+3+things+all+homebuyers+should+keep+in+mind.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://buckscountyrealestatevideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Marty+Millner/Bucks+County+Real+Estate+-+3+things+all+homebuyers+should+keep+in+mind.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+There are three important factors every buyer should consider when deciding which home is the best one to purchase.
+
+</itunes:subtitle>
+        <itunes:author>Martin Millner, REALTOR®</itunes:author>
+        <itunes:summary>
+
+There are three important factors every buyer should consider when deciding which home is the best one to purchase.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Bucks County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>6 Home Staging Tips to Get Your Home Market-Ready</title>
+        <link>http://buckscountyrealestatevideoblog.com/6-home-staging-tips-to-get-your-home.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Martin Millner, REALTOR®</author>
+        <pubDate>2017-03-01 11:33:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Marty+Millner/Bucks+County+Real+Estate+-+6+home+staging+tips+for+before+you+list.mp4</guid>
+        <description>
+
+In order to sell your home for top dollar in this market, it needs to be in tip-top shape. Today I’ll share six tips for making sure your home is market-ready and sells at the best price.
+
+Buying a Bucks County area home?  Perform a full home search
+Selling your Bucks County home? Get a free Home Price Evaluation
+
+Staging your home properly is a must in order to sell successfully in this market. Homebuyers want homes in tip-top shape if they’re going to pay top dollar, and I have six staging tips that will ensure your home attracts a great price.
+
+1. You only get one chance to make a first impression. Make sure the first impression the buyers have is warm and welcoming. The entry should be bright and the exterior should be clean.
+
+2. Be show ready. You never know when a buyer will want to schedule an appointment, so you need to be ready at all times.
+
+3. Kitchens and bathrooms help sell houses. Small repairs, a little bit of paint, and changing hardware can really help spruce up those popular spaces. Updates to kitchens and bathrooms will add value to your home without a significant cost to you.
+
+“YOU NEVER KNOW WHEN A BUYER WILL WANT TO SCHEDULE AN APPOINTMENT, SO YOU NEED TO BE READY AT ALL TIMES.”
+
+
+  Take the “home” out of the house. As much as we love our family photos and mementos, having those things around won’t help the buyer see themselves living in the house. Clear out your closets as well so buyers can see what sort of storage the house offers.
+
+
+5. Remove any traces of animals from the house. I’m a dog person, and I know how much we all love our pets. However, most buyers don’t want to see pet accessories when they walk through the house, so try to get those stored away before showings.
+
+6. Hire a good agent—like me! Doing so will ensure your home gets priced right and you have a quick, lucrative sale.
+
+If you have any questions or if you’d like a copy of my booklet which contains 450 ideas to help sell your home quickly, give me a call or send me an email. I’m always happy to help!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Marty+Millner/Bucks+County+Real+Estate+-+6+home+staging+tips+for+before+you+list.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://buckscountyrealestatevideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Marty+Millner/Bucks+County+Real+Estate+-+6+home+staging+tips+for+before+you+list.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+In order to sell your home for top dollar in this market, it needs to be in tip-top shape. Today I’ll share six tips for making sure your home is market-ready and sells at the best price.
+
+</itunes:subtitle>
+        <itunes:author>Martin Millner, REALTOR®</itunes:author>
+        <itunes:summary>
+
+In order to sell your home for top dollar in this market, it needs to be in tip-top shape. Today I’ll share six tips for making sure your home is market-ready and sells at the best price.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Bucks County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Whats Happening in Our Real Estate Market?</title>
+        <link>http://buckscountyrealestatevideoblog.com/whats-happening-in-our-real-estate.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Martin Millner, REALTOR®</author>
+        <pubDate>2017-02-17 12:53:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Marty+Millner/Bucks+County+Real+Estate+-+2017+Bucks+County+market+update.mp4</guid>
+        <description>
+
+With the spring market in full swing, I thought now would be a good time to give you a quick look at how our market changed in 2016.
+
+Buying a Bucks County area home?  Perform a full home search
+Selling your Bucks County home? Get a free Home Price Evaluation
+
+The Super Bowl is over and the spring real estate market is in full swing! I thought now would be a good time to give you a recap of our numbers from 2016 and talk a little bit about what’s happening in 2017.
+
+Throughout Bucks County, almost all of the 20 individual markets we track had fewer houses on the market at the end of 2016 when compared with 2015. Countywide, inventory was down about 18% and market asking price was up 8%. Closings were up about 5% throughout the county, but the average sold price in Bucks County was only 0.3% higher than in 2015.
+
+The average price of a single-family house went from $341,000 to $343,000 in all of Bucks County. Interestingly in the individual markets, specifically Lower Makefield Township, there were more houses on the market at the end of 2016 than there were at the end of 2015. However, there are only 5.2 months of inventory, so the market is still balanced with a slight favor toward sellers.
+
+“IF YOU’RE THINKING ABOUT SELLING, I WOULD RECOMMEND GETTING IN EARLY ON THE SPRING MARKET.”
+
+In Newtown Township, inventory is down about 5% compared to 2015 and months of inventory is at three months, which strongly favors sellers.
+
+In Upper Makefield, inventory is at 10 months, but that is skewed because of the high number of really expensive houses that take much longer to sell.
+
+In all the markets that we track, the average price of a home sold was relatively flat. The lack of inventory so far has not really resulted in sharply increased prices.
+
+If you are considering selling your home, give me a call or send me an email and we can talk about getting your home listed earlier in the spring market. Let me know if you have any other questions as well. I look forward to hearing from you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Marty+Millner/Bucks+County+Real+Estate+-+2017+Bucks+County+market+update.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://buckscountyrealestatevideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Marty+Millner/Bucks+County+Real+Estate+-+2017+Bucks+County+market+update.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+With the spring market in full swing, I thought now would be a good time to give you a quick look at how our market changed in 2016.
+
+</itunes:subtitle>
+        <itunes:author>Martin Millner, REALTOR®</itunes:author>
+        <itunes:summary>
+
+With the spring market in full swing, I thought now would be a good time to give you a quick look at how our market changed in 2016.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Bucks County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>4 Compelling Reasons to List Your Home This Winter</title>
+        <link>http://buckscountyrealestatevideoblog.com/4-compelling-reasons-to-list-your-home.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Martin Millner, REALTOR®</author>
+        <pubDate>2016-12-22 12:37:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Marty+Millner/Bucks+County+Real+Estate+-+4+reasons+to+consider+selling+your+house+now.mp4</guid>
+        <description>
+
+Selling during the winter isn’t a bad idea. On the contrary, it might even make more sense than selling in the spring.
+
+Buying a Bucks County area home?  Perform a full home search
+Selling your Bucks County home? Get a free Home Price Evaluation
+
+Conventional wisdom says waiting until the spring to list your home is the smart move. However, there are some great benefits you will get as a seller by listing now. Here are four of them:
+
+1. Less competition. Real estate is essentially a function of supply and demand. Right now, demand is lower than what it was in the summer, but the supply is way down as well. According to national statistics, homes listed in the winter are 9% more likely to sell and they are also likely to sell a week faster than homes listed in other times of the year.
+
+2. Motivated buyers. Especially if they are being relocated to the area, home buyers in this market are anxious to get a deal done. A lot of them want to get all settled in by the time they start work at the beginning of the year.
+
+3. Buyers have exhausted inventory. The buyers who have been searching for a home for months now have exhausted all the inventory available to them. This means that they are going to jump at any new homes on the market that meet their criteria. Your home could be one of those.
+
+“A LOT OF BUYERS WANT TO GET SETTLED IN THE NEXT MONTH.”
+
+4. Interest rates have gone up. Buyers are much more motivated now than they have been in the past due to the impending rise in mortgage interest rates. Buyers are more likely to make a quicker decision to purchase now when they realize if they wait until March or May, those rates might be much higher.
+
+These are just four of the reasons to list your home now. If you’re thinking about selling, the first thing you should do is give me a call. I’d be happy to come out and let you know what kind of price you could get for your home based on market conditions.
+
+If you have any other questions, don’t hesitate to give me a call or send me an email. We look forward to hearing from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Marty+Millner/Bucks+County+Real+Estate+-+4+reasons+to+consider+selling+your+house+now.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://buckscountyrealestatevideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Marty+Millner/Bucks+County+Real+Estate+-+4+reasons+to+consider+selling+your+house+now.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Selling during the winter isn’t a bad idea. On the contrary, it might even make more sense than selling in the spring.
+
+</itunes:subtitle>
+        <itunes:author>Martin Millner, REALTOR®</itunes:author>
+        <itunes:summary>
+
+Selling during the winter isn’t a bad idea. On the contrary, it might even make more sense than selling in the spring.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Bucks County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What 2016 Has Meant to Us</title>
+        <link>http://buckscountyrealestatevideoblog.com/what-2016-has-meant-to-us.html</link>
+        
+          <category>Holiday Greetings</category>
+        
+        <author>Martin Millner, REALTOR®</author>
+        <pubDate>2016-12-16 14:06:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Marty+Millner/Bucks+County+Real+Estate+-+Stepping+aside+from+real+estate+for+a+moment.mp4</guid>
+        <description>
+
+Today we wanted to step aside from real estate tips and market updates for a minute and address a very important topic.
+
+Buying a Bucks County area home?  Perform a full home search
+Selling your Bucks County home? Get a free Home Price Evaluation
+
+Today, let’s table the real estate discussion for a very important topic…
+
+Happy Holidays!
+
+As the season approaches, I hope that you and your family have a wonderful holiday, whether you celebrate Christmas, Hanukkah, or anything else. We hope you have a happy, healthy, and prosperous new year. Hopefully, you get the chance to spend time with family and friends—which is most important.
+
+“THANKS FOR HELPING US SUPPORT SOME WONDERFUL CHARITIES ALL OVER THE GLOBE.”
+
+I’m happy to say it’s been another successful year for our team, and we thank you for your business. We’ve been fortunate to be able to use our success to fund some wonderful charities this year locally, nationally, and globally. We’re blessed to have been able to help so many of you with your housing needs this year, as well.
+
+We’re looking forward to another prosperous year in 2017 and hope you can do the same. If we can help you in any way at all, don’t ever hesitate to give us a call. We’d be honored to help.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Marty+Millner/Bucks+County+Real+Estate+-+Stepping+aside+from+real+estate+for+a+moment.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://buckscountyrealestatevideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Marty+Millner/Bucks+County+Real+Estate+-+Stepping+aside+from+real+estate+for+a+moment.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Today we wanted to step aside from real estate tips and market updates for a minute and address a very important topic.
+
+</itunes:subtitle>
+        <itunes:author>Martin Millner, REALTOR®</itunes:author>
+        <itunes:summary>
+
+Today we wanted to step aside from real estate tips and market updates for a minute and address a very important topic.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Bucks County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
     <copyright>Martin Millner, REALTOR®</copyright>
     <media:credit role="author">Martin Millner, REALTOR®</media:credit>
     <media:rating>nonadult</media:rating>
