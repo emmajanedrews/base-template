@@ -28,4 +28,4 @@ I also want to thank you for your love and support. **Without it, our team would
 
 If you have any questions or ever need any help, don’t hesitate to give us a call or send us an email. We’d be glad to help you.&nbsp;
 
-In the meantime, from the bottom of our hearts, Merry Christmas!
+In the meantime, from the bottom of our hearts, merry Christmas!
