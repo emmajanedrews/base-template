@@ -12,8 +12,8 @@ pullquote: 'If you like our tools, you’ll love working with our team.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/tad-wicker-websites-and-tools-youtube.jpg
-youtube_code: 'https://youtu.be/9BxAZT661t4'
+youtube_alternate_image: /uploads/tad-wicker-websites-and-tools-new-sub-lineyoutube-whiter-box.jpg
+youtube_code: 'https://youtu.be/g-HvKYq8PgU'
 ---
 
 
