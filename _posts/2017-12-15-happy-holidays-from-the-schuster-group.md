@@ -45,4 +45,4 @@ Personally, I’m forever grateful for my amazing team. &nbsp;Right now, I’d l
 
 What can I say, besides that I’m grateful and thankful to all of my team? Everyone in the John Shuster Group is loving life, and we can’t thank you, our clients, friends, and family, enough for your support. We wish you an absolutely fabulous 2018.
 
-As always, if you have any real estate-related needs and concerns, please think of us. Reach out and give us a call or send and email, and we’d be glad to help.
+As always, if you have any real estate related needs and concerns, please think of us. Reach out and give us a call or send and email, and we’d be glad to help.
