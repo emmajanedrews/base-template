@@ -3,27 +3,29 @@
   <channel>
     <title>Southern California Real Estate Video Blog with Barbara Radke</title>
     <description>Our mission at Radke Agency &amp; Associates is to be your best resource for Southern California real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Radke Agency &amp; Associates, your professional Southern California Real Estate Agents.</description>
-    <link>localhost:4000/</link>
-    <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 14 Dec 2017 15:25:49 -0600</pubDate>
-    <lastBuildDate>Thu, 14 Dec 2017 15:25:49 -0600</lastBuildDate>
+    <link>http://blog.radkeagency.com/</link>
+    <atom:link href="http://blog.radkeagency.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 18 Dec 2017 15:15:35 -0600</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2017 15:15:35 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>Can You Help Manna Food Bank Make a Difference?</title>
         <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/jKYyOqTTUkY?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Manna Food Bank is a great addition to our community. Let’s take a look inside at what they do.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Manna Food Bank is a great addition to our community. Let’s take a look inside at what they do.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Want to sell your home?&lt;strong&gt; &lt;a href=&quot;http://www.propertyhomevalue.com/&quot;&gt;Get a FREE home value report&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Want to sell your home?&lt;/em&gt; &lt;a href=&quot;http://www.propertyhomevalue.com/&quot;&gt;Get a FREE home value report&lt;/a&gt; &lt;/p&gt;
 
-&lt;p&gt;Want to buy a home? &lt;strong&gt;&lt;a href=&quot;http://www.radkeagency.com/homes-for-sale&quot;&gt;Search all homes for sale&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Want to buy a home?&lt;/em&gt; &lt;a href=&quot;http://www.radkeagency.com/homes-for-sale&quot;&gt;Search all homes for sale&lt;/a&gt; &lt;/p&gt;
 
 &lt;p&gt;Today, we’re going to be talking about the Manna Food Bank, which is a 45-year-old independent organization that helps feed people in need.&lt;/p&gt;
 
 &lt;p&gt;The week before Thanksgiving, we worked with them on a food drive. &lt;strong&gt;The drive was a success, and we are so thankful for the work Manna is doing for our community.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Right now, they’re actually in the process of moving to a new facility, which will be 4.5 times larger than the current facility. There, they’ll host classes in nutrition, cooking, and more. These classes will focus on helping people with health problems learn more about their nutritional needs and how to meet them. Additionally, &lt;strong&gt;Manna will provide education on financial literacy and household management.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=The more food Manna gets from the community, the more they are able to give.%20http://blog.radkeagency.com/can-you-help-manna-food-bank-make-a-difference.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“The more food Manna gets from the community, the more they are able to give.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;When people hear about hunger, they often think of a fairly narrow demographic. But the people who benefit from Manna’s services actually come from all walks of life. This is especially true following the recession years ago.&lt;/p&gt;
 
@@ -36,8 +38,8 @@
 &lt;p&gt;If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.&lt;/p&gt;
 </description>
         <pubDate>Wed, 13 Dec 2017 18:00:00 -0600</pubDate>
-        <link>localhost:4000/can-you-help-manna-food-bank-make-a-difference.html</link>
-        <guid isPermaLink="true">localhost:4000/can-you-help-manna-food-bank-make-a-difference.html</guid>
+        <link>http://blog.radkeagency.com/can-you-help-manna-food-bank-make-a-difference.html</link>
+        <guid isPermaLink="true">http://blog.radkeagency.com/can-you-help-manna-food-bank-make-a-difference.html</guid>
         
         
       </item>
@@ -65,8 +67,8 @@
 &lt;p&gt;If you have a topic you’d like us to discuss on our blog, feel free to reach out to us directly. We look forward to hearing from you.&lt;/p&gt;
 </description>
         <pubDate>Mon, 30 Oct 2017 07:00:00 -0500</pubDate>
-        <link>localhost:4000/whats-with-the-low-inventory-weve-been-seeing.html</link>
-        <guid isPermaLink="true">localhost:4000/whats-with-the-low-inventory-weve-been-seeing.html</guid>
+        <link>http://blog.radkeagency.com/whats-with-the-low-inventory-weve-been-seeing.html</link>
+        <guid isPermaLink="true">http://blog.radkeagency.com/whats-with-the-low-inventory-weve-been-seeing.html</guid>
         
         <category>Market Update</category>
         
@@ -130,8 +132,8 @@
 &lt;p&gt;And if you need more advice on dealing with your neighbors in preparation for a home sale, just give me a call at &lt;a href=&quot;tel:800-405-1433&quot;&gt;800-405-1433&lt;/a&gt;. I’ve got several other tips I can share with you.&lt;/p&gt;
 </description>
         <pubDate>Tue, 28 Mar 2017 07:00:00 -0500</pubDate>
-        <link>localhost:4000/how-your-neighbors-can-help-you-sell-your-home.html</link>
-        <guid isPermaLink="true">localhost:4000/how-your-neighbors-can-help-you-sell-your-home.html</guid>
+        <link>http://blog.radkeagency.com/how-your-neighbors-can-help-you-sell-your-home.html</link>
+        <guid isPermaLink="true">http://blog.radkeagency.com/how-your-neighbors-can-help-you-sell-your-home.html</guid>
         
         <category>Home Seller Tips</category>
         
@@ -161,8 +163,8 @@
 &lt;p&gt;If you have any questions or are thinking of buying or selling a home, please don’t hesitate to reach out to us. We’d love to help you!&lt;/p&gt;
 </description>
         <pubDate>Tue, 21 Feb 2017 06:00:00 -0600</pubDate>
-        <link>localhost:4000/thank-you-for-making-us-the-team-we-are.html</link>
-        <guid isPermaLink="true">localhost:4000/thank-you-for-making-us-the-team-we-are.html</guid>
+        <link>http://blog.radkeagency.com/thank-you-for-making-us-the-team-we-are.html</link>
+        <guid isPermaLink="true">http://blog.radkeagency.com/thank-you-for-making-us-the-team-we-are.html</guid>
         
         <category>Real Estate</category>
         
@@ -185,15 +187,15 @@
 
 &lt;p&gt;&lt;strong&gt;I have a list of trusted contractors and vendors that I’ve amassed during my experience in real estate.&lt;/strong&gt; If you need a contractor of any kind, I can definitely help you. Our network includes electricians, plumbers, roofers, general contractors, handymen, and many more.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=If you need a contractor of any kind, I can definitely help you.%20localhost:4000/we-can-help-find-trusted-contractors.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“If you need a contractor of any kind, I can definitely help you.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=If you need a contractor of any kind, I can definitely help you.%20http://blog.radkeagency.com/we-can-help-find-trusted-contractors.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“If you need a contractor of any kind, I can definitely help you.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Just give us a call or send an email and we’d be happy to send you our network of preferred contractors and vendors.&lt;/p&gt;
 
 &lt;p&gt;If you have any other questions or you know a great contractor that should be added to our list, call me! I look forward to hearing from you.&lt;/p&gt;
 </description>
         <pubDate>Mon, 09 Jan 2017 09:19:00 -0600</pubDate>
-        <link>localhost:4000/we-can-help-find-trusted-contractors.html</link>
-        <guid isPermaLink="true">localhost:4000/we-can-help-find-trusted-contractors.html</guid>
+        <link>http://blog.radkeagency.com/we-can-help-find-trusted-contractors.html</link>
+        <guid isPermaLink="true">http://blog.radkeagency.com/we-can-help-find-trusted-contractors.html</guid>
         
         <category>Radke Agency and Associates</category>
         
@@ -213,8 +215,8 @@
 &lt;p&gt;Take a look around the channel and subscribe. I look forward to hearing from you soon!&lt;/p&gt;
 </description>
         <pubDate>Fri, 30 Dec 2016 06:00:00 -0600</pubDate>
-        <link>localhost:4000/a-new-resource-for-you.html</link>
-        <guid isPermaLink="true">localhost:4000/a-new-resource-for-you.html</guid>
+        <link>http://blog.radkeagency.com/a-new-resource-for-you.html</link>
+        <guid isPermaLink="true">http://blog.radkeagency.com/a-new-resource-for-you.html</guid>
         
         <category>Real Estate</category>
         

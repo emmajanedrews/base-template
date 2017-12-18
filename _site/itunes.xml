@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Southern California Real Estate Podcast with Barbara Radke</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://blog.radkeagency.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://blog.radkeagency.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Radke Agency & Associates - your professional Southern California Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Barbara Radke</managingEditor>
-    <lastBuildDate>2017-12-14 15:25:49 -0600</lastBuildDate>
+    <lastBuildDate>2017-12-18 15:15:35 -0600</lastBuildDate>
     <media:copyright>Barbara Radke</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://blog.radkeagency.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Southern California, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,7 +18,7 @@
     </itunes:owner>
     <itunes:author>Barbara Radke</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://blog.radkeagency.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Southern California, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Southern California Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Radke Agency & Associates - your professional Southern California Real Estate Agents.</itunes:summary>
@@ -26,7 +26,7 @@
     
       <item>
         <title>Can You Help Manna Food Bank Make a Difference?</title>
-        <link>localhost:4000/can-you-help-manna-food-bank-make-a-difference.html</link>
+        <link>http://blog.radkeagency.com/can-you-help-manna-food-bank-make-a-difference.html</link>
         
         <author>Barbara Radke</author>
         <pubDate>2017-12-13 18:00:00 -0600</pubDate>
@@ -35,15 +35,17 @@
 
 Manna Food Bank is a great addition to our community. Let’s take a look inside at what they do.
 
-Want to sell your home? Get a FREE home value report
+Want to sell your home? Get a FREE home value report 
 
-Want to buy a home? Search all homes for sale
+Want to buy a home? Search all homes for sale 
 
 Today, we’re going to be talking about the Manna Food Bank, which is a 45-year-old independent organization that helps feed people in need.
 
 The week before Thanksgiving, we worked with them on a food drive. The drive was a success, and we are so thankful for the work Manna is doing for our community.
 
 Right now, they’re actually in the process of moving to a new facility, which will be 4.5 times larger than the current facility. There, they’ll host classes in nutrition, cooking, and more. These classes will focus on helping people with health problems learn more about their nutritional needs and how to meet them. Additionally, Manna will provide education on financial literacy and household management.
+
+“The more food Manna gets from the community, the more they are able to give.”
 
 When people hear about hunger, they often think of a fairly narrow demographic. But the people who benefit from Manna’s services actually come from all walks of life. This is especially true following the recession years ago.
 
@@ -56,26 +58,18 @@ Manna is classified as a choice-based pantry, meaning their clients can choose t
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://blog.radkeagency.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-Manna Food Bank is a great addition to our community. Let’s take a look inside at what they do.
-
-</itunes:subtitle>
+        <itunes:subtitle>Manna Food Bank is a great addition to our community. Let’s take a look inside at what they do.</itunes:subtitle>
         <itunes:author>Barbara Radke</itunes:author>
-        <itunes:summary>
-
-Manna Food Bank is a great addition to our community. Let’s take a look inside at what they do.
-
-</itunes:summary>
+        <itunes:summary>Manna Food Bank is a great addition to our community. Let’s take a look inside at what they do.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Southern California, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>What’s With the Low Inventory We’ve Been Seeing?</title>
-        <link>localhost:4000/whats-with-the-low-inventory-weve-been-seeing.html</link>
+        <link>http://blog.radkeagency.com/whats-with-the-low-inventory-weve-been-seeing.html</link>
         
           <category>Market Update</category>
         
@@ -103,7 +97,7 @@ If you know of anyone who has that same concern and are struggling to find the h
 If you have a topic you’d like us to discuss on our blog, feel free to reach out to us directly. We look forward to hearing from you.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://blog.radkeagency.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -122,7 +116,7 @@ According to a recent study, 47% of sellers are worried about selling their home
       
       <item>
         <title>How Your Neighbors Can Help You Sell Your Home</title>
-        <link>localhost:4000/how-your-neighbors-can-help-you-sell-your-home.html</link>
+        <link>http://blog.radkeagency.com/how-your-neighbors-can-help-you-sell-your-home.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -184,7 +178,7 @@ Enter your street address here to find out what your home is worth
 And if you need more advice on dealing with your neighbors in preparation for a home sale, just give me a call at 800-405-1433. I’ve got several other tips I can share with you.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://blog.radkeagency.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -203,7 +197,7 @@ Want to sell your home? Get a FREE home value report
       
       <item>
         <title>Thank You for Making Us the Team We Are</title>
-        <link>localhost:4000/thank-you-for-making-us-the-team-we-are.html</link>
+        <link>http://blog.radkeagency.com/thank-you-for-making-us-the-team-we-are.html</link>
         
           <category>Real Estate</category>
         
@@ -231,7 +225,7 @@ With close to 400 agents in our office we feel honored and grateful to have rece
 If you have any questions or are thinking of buying or selling a home, please don’t hesitate to reach out to us. We’d love to help you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://blog.radkeagency.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -250,7 +244,7 @@ Our team just won a very important award, and I have some people to thank for it
       
       <item>
         <title>We Can Help Find Trusted Contractors</title>
-        <link>localhost:4000/we-can-help-find-trusted-contractors.html</link>
+        <link>http://blog.radkeagency.com/we-can-help-find-trusted-contractors.html</link>
         
           <category>Radke Agency and Associates</category>
         
@@ -278,7 +272,7 @@ Just give us a call or send an email and we’d be happy to send you our network
 If you have any other questions or you know a great contractor that should be added to our list, call me! I look forward to hearing from you.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://blog.radkeagency.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -297,7 +291,7 @@ If you want to hire a contractor, how can you find one you can trust? Let us hel
       
       <item>
         <title>A New Resource for You</title>
-        <link>localhost:4000/a-new-resource-for-you.html</link>
+        <link>http://blog.radkeagency.com/a-new-resource-for-you.html</link>
         
           <category>Real Estate</category>
         
@@ -315,7 +309,7 @@ I really want this page to be a valuable resource for you. If you have any ques
 Take a look around the channel and subscribe. I look forward to hearing from you soon!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://blog.radkeagency.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
