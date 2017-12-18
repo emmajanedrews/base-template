@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Today I have five home maintenance projects you should attend to twice a year,
   but especially before winter.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Karlyn+Ellis/December+/Buda%252C+Texas+Real+Estate-+Pre-Winter+To-Do+List.mp4
 pullquote: >-
   Extending the life of your HVAC system with regular upkeep will save you money
   in the long run.
