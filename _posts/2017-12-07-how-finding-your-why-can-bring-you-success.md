@@ -8,7 +8,8 @@ excerpt: >-
   Everyone knows what they do and how they do it, but very few of us seem to
   understand why we do things. Today, I’d like to share some examples of the
   power of  'why'.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Chris+Gorman/Videos/DEC/Triangle+Area+Real+Estate-+Do+You+Know+Your+_Why%253F_.mp4
 pullquote: >-
   Perhaps each of these teams were fighting for something greater—perhaps these
   teams were fighting for their 'why.'
