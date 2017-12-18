@@ -35,4 +35,4 @@ Here are five great tips that will help keep your home warm and save on energy c
 
 **5. Don’t heat unused space.** If you have a guest room or a basement no one ever uses, seal that space off so it’s not getting heated when not in use.
 
-If you have any more real estate questions or you’d like more tips on how to make your home more energy-efficient this winter, give me a call or send me an email. I’d be happy to help you.
+If you have any more real estate questions or you’d like more tips on how to make your home more energy-efficient this winter, give us a call or send us an email. We’d be happy to help you.
