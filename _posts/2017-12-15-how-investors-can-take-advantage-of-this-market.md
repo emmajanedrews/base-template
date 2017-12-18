@@ -20,7 +20,7 @@ youtube_code: YBgLTzsMuNY
 
 {% include youtube.html %}
 
-Today I want to talk about all the current and potential real estate investors out there. If you’ve been thinking about buying a multi-family or other income-producing property, now is the time to get a great deal in the marketplace.
+Today I want to talk to all the current and potential real estate investors out there. If you’ve been thinking about buying a multi-family or other income-producing property, now is the time to get a great deal in the marketplace.
 
 **Recently, we had a client pick up a two-family home in Wallingford right down by the YMCA for under $150,000**. It needed a bit of work, but it will be well worth the effort in the end.
 
