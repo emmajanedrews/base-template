@@ -20,9 +20,9 @@ youtube_code: H5TgDp2d5cU
 
 {% include youtube.html %}
 
-Today I’m joined by my family to wish you and your family a merry Christmas.&nbsp;
+Today I’m joined by my family to wish you and your family a Merry Christmas.&nbsp;
 
-I also want to thank you for your love and support. **Without it, our team wouldn’t have the same level of success that we do.**
+I also want to thank you for your love and support. **Without it, our team wouldn’t have the level of success that we do.**
 
 {% include pullquote.html %}
 
