@@ -11,8 +11,8 @@ enclosure: >-
 pullquote: We hope your 2017 was a good one.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/dee-3-youtube.jpg
+use_youtube_image: false
+youtube_alternate_image: /uploads/dee-2--youtube.jpg
 youtube_code: JWOe-Vdpwes
 ---
 
