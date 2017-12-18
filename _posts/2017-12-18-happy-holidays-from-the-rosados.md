@@ -22,6 +22,6 @@ Thank you to everyone that I had the opportunity to work with this year. Whether
 
 It doesn't matter if the referral bought, sold, or rented from me. Its the opportunity that counts, and I wanted to take some time this year which was my most successful year thus far in my 9 year career, and directly thank each and every one of you. Collectively, we're able to help brighten up the holiday for people in need. Not only giving thanks, but giving smiles and hope to people who need it the most.
 
-Thank you, thank you, thank you all for giving us the opportunity to do this. I hope your holiday season just go brighter as well.
+Thank you, thank you, thank you all for giving us the opportunity to do this. I hope your holiday season just go brighter as well. Talk to you next year.&nbsp;
 
-Talk to you next year. &nbsp;. . Happy holidays from the Rosado's!
+Happy holidays from the Rosado's!
