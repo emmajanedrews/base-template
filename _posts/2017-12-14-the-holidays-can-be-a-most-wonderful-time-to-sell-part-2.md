@@ -36,7 +36,7 @@ Every year around this time, I’m asked the same questions about listing during
 
 **4. You can sell now for more money, and we can provide for a delayed closing,** or extended occupancy, until early next year.
 
-5. By selling now, **you may have the opportunity to be a non-contingent buyer** during the spring, when many more houses are hitting the market at lower prices.
+**5. By selling now, you may have the opportunity to be a non-contingent buyer**during the spring, when many more houses are hitting the market at lower prices.
 
 **6. 28.4% more homes close in December** than they do in January.
 
