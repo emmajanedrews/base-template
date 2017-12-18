@@ -27,7 +27,7 @@ As for the condo market, we saw a 66% sales to active ratio, which is up 5% from
 
 What is causing these conditions? Here are five factors:
 
-1. Buyers are rushing to the market to beat out the new mortgage stress testing in Canada. The new stress testing doesn’t increase your interest rate, but it does use an additional 2% on top of the best rate offered by your lender to get your mortgage qualifying amount. With the new rules, you’ll be able to borrow more money and pay less for it.<br>2. Population growth is at a substantial rate. We don’t have enough homes to meet demand right now.<br>3. Millennials and first-time buyers still think it’s a good time to buy.<br>4. Investors still think Vancouver is a good place to invest.<br>5.** We continue to have very low interest rates.** The 5-year average is still under 4%.
+1. Buyers are rushing to the market to beat out the new mortgage stress testing in Canada. The new stress testing doesn’t increase your interest rate, but it does use an additional 2% on top of the best rate offered by your lender to get your mortgage qualifying amount. With the new rules, you’ll be able to borrow more money and pay less for it.<br>2. Population growth is at a substantial rate. We don’t have enough homes to meet demand right now.<br>3. Millennials and first-time buyers still think it’s a good time to buy.<br>4. Investors still think Vancouver is a good place to invest.<br>5.&nbsp;**We continue to have very low interest rates.&nbsp;**The 5-year average is still under 4%.
 
 {% include pullquote.html %}
 
