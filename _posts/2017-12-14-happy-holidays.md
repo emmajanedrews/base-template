@@ -28,4 +28,4 @@ Please send us your input. **Tell us what’s important to you** and which topic
 
 {% include pullquote.html %}
 
-Most importantly, we want to wish you and your family a happy, healthy holiday season. So, merry Christmas, happy Hanukkah, happy Kwanzaa, and a happy new year, too!
+Most importantly, we want to wish you and your family a happy, healthy holiday season. So, Merry Christmas, Happy Hanukkah, Happy Kwanzaa, and a Happy New Year, too!
