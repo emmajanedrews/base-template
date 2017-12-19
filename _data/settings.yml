@@ -22,10 +22,10 @@ client:
   email:
   url:
 
-emma:
-  account_id: 1808590
-  public_api_key: 13ce4d0e43aa22f28c9c
-  private_api_key: fc36793623f9bee1ae46
+# emma:
+#   account_id: 1808590
+#   public_api_key: 13ce4d0e43aa22f28c9c
+#   private_api_key: fc36793623f9bee1ae46
 
 CTAs:
   first_CTA_text: Home Valuation

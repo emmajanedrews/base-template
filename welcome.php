@@ -1,8 +1,8 @@
 <?php
 // Authentication Variables
-$account_id = "{{site.data.settings.emma.account_id}}";
-$public_api_key = "{{site.data.settings.emma.public_api_key}}";
-$private_api_key = "{{site.data.settings.emma.private_api_key}}";
+$account_id = "1808590";
+$public_api_key = "13ce4d0e43aa22f28c9c";
+$private_api_key = "fc36793623f9bee1ae46";
 
 // Form variable(s)
 $email = $_POST['email'];
