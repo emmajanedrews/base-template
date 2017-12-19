@@ -20,10 +20,10 @@ youtube_code: xdHf3yQgZKM
 
 {% include youtube.html %}
 
-I just wanted to take some time out of my day to wish you a happy holiday, merry Christmas, happy Chanukah—whatever it is you celebrate, I just hope you have an amazing time with your family and friends.
+I just wanted to take some time out of my day to wish you a happy holidays, merry Christmas, happy Chanukah—whatever it is you celebrate, I just hope you have an amazing time with your family and friends.
 
 {% include pullquote.html %}
 
-I wish you all a happy New Year and look forward to being your realtor and answering your questions in 2018.
+I wish you all a happy New Year and look forward to being your Realtor and answering your questions in 2018.
 
 As always, feel free to reach out to us with any of your real estate questions and needs.
