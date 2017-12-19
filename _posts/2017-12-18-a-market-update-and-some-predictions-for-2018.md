@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Market Update and Some Predictions for 2018
-date: 2017-12-18 13:11:33
+date: 2017-12-18 13:11:00
 tags:
 excerpt: >-
   Here’s a quick update on the Vancouver real estate market. I’m also sharing my
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 2HNOpnl32S4
+youtube_code: r5rJW60-eCw
 ---
 
 
@@ -27,7 +27,7 @@ As for the condo market, we saw a 66% sales to active ratio, which is up 5% from
 
 What is causing these conditions? Here are five factors:
 
-1. Buyers are rushing to the market to beat out the new mortgage stress testing in Canada. The new stress testing doesn’t increase your interest rate, but it does use an additional 2% on top of the best rate offered by your lender to get your mortgage qualifying amount. With the new rules, you’ll be able to borrow more money and pay less for it.<br>2. Population growth is at a substantial rate. We don’t have enough homes to meet demand right now.<br>3. Millennials and first-time buyers still think it’s a good time to buy.<br>4. Investors still think Vancouver is a good place to invest.<br>5.&nbsp;**We continue to have very low interest rates.&nbsp;**The five-year average is still under 4%.
+1. Buyers are rushing to the market to beat out the new mortgage stress testing in Canada. The new stress testing doesn’t increase your interest rate, but it does use an additional 2% on top of the best rate offered by your lender to get your mortgage qualifying amount. With the new rules, you’ll be able to borrow more money and pay less for it.<br>2. Population growth is at a substantial rate. We don’t have enough homes to meet demand right now.<br>3. Millennials and first-time buyers still think it’s a good time to buy.<br>4. Investors still think Vancouver is a good place to invest.<br>5. **We continue to have very low interest rates.**The five-year average is still under 4%.
 
 {% include pullquote.html %}
 
