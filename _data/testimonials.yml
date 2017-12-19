@@ -1,5 +1,5 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
-    audio:
+  - quote: "We were happy with what we found. We found something we liked in our price range and area. We were able to get it very quickly and we were able to sell our townhouse very quickly also. And I know we were, well we sold our townhouse pretty quickly so we could get the new house because there were other buyers that were wanting the new house. Then our first buyer ended up cancelling the agreement on the townhouse, so we had to re-list our townhouse for sale in order to get the new house, so we had to sell it pretty quickly. She was able to find buyers for us to keep the new house."
+    name: Amy Pille
+    audio: /uploads/audio/Amy.mp3
