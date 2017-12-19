@@ -22,12 +22,16 @@ client:
   email:
   url:
 
+emma:
+  account_id: 1808590
+  public_api_key: 13ce4d0e43aa22f28c9c
+  private_api_key: fc36793623f9bee1ae46
+
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
   second_CTA_URL: /homesearch/
-  emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808590';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
