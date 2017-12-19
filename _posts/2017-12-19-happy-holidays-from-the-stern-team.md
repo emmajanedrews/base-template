@@ -28,7 +28,7 @@ excerpt: >-
   home. To learn more, watch this short video.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/Videos/2017/The+Stern+Team-+5+Biggest+Obstacles.mp4
-pullquote:
+pullquote: Your support means the world to us.
 enclosure_type: video/mp4
 enclosure_time: '10:39 am'
 use_youtube_image: true
