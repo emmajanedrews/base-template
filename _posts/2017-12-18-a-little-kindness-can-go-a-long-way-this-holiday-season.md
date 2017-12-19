@@ -28,7 +28,7 @@ Consider greeting a stranger in the grocery store, at the bank, or anywhere else
 
 {% include pullquote.html %}
 
-Speaking of support, we appreciate all of you who have made 2017 a record-breaking year for the Donaldson Team. Thank you to everyone who voted and made us Top Real Estate Team for Northern Virginia for the third year in a row in The Virginia Living Magazine poll.
+Speaking of support, we appreciate all of you who have made 2017 a record-breaking year for the Donaldson Team. Thank you to everyone who voted and made us the Top Real Estate Team for Northern Virginia for the third year in a row in the Virginia Living Magazine poll.
 
 We’re so grateful to help you achieve your real estate goals each and every day. **My team and I look forward to connecting with you in the new year.**
 
