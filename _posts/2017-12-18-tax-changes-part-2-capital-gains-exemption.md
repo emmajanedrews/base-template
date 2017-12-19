@@ -28,7 +28,7 @@ This time, I’d like to go over changes relating to capital gains exemption. To
 
 {% include pullquote.html %}
 
-Currently, capital gains exemption law states that if you’ve lived in your home for two of the last five years, you can don’t have to claim your gains as income. Currently the cap for this is $250,000 for a single person or $500,000 for a married couple.
+Currently, capital gains exemption law states that if you’ve lived in your home for two of the last five years, you don’t have to claim your gains as income. Currently the cap for this is $250,000 for a single person or $500,000 for a married couple.
 
 If these tax changes go through, you will need to have lived in your home for five of the last eight years in order to be exempt from capital gains tax. **This change could have a big impact on our market.**
 
