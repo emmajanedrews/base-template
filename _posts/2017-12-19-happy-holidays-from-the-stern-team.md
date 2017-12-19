@@ -33,7 +33,7 @@ enclosure_type: video/mp4
 enclosure_time: '10:39 am'
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/FweaK1kpDfQ'
+youtube_code: FweaK1kpDfQ
 ---
 
 
