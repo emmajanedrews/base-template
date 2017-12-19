@@ -21,11 +21,13 @@ tags:
   - The Stern Team
   - Buyer Tips
 excerpt: >-
-  First-time homebuyers have a number of obstacles to overcome when searching
-  the market for a place to call their own. So, what are these issues and how
-  can you tackle them? There are six main obstacles facing first-time
-  homebuyers. First of all, there’s the matter of simply being able to afford a
-  home. To learn more, watch this short video.
+  The holiday season has officially arrived. We hope you enjoy this wonderful
+  time of year and make some fantastic memories with your family and friends. We
+  just wanted to take a moment to thank you for your continued support. We love
+  helping people make their real estate dreams come true, so thank you for
+  working with us. This may be a busy time of year, but we are always here to
+  help you and answer any questions you may have. To see our full holiday
+  message, watch this short video.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/Videos/2017/The+Stern+Team-+5+Biggest+Obstacles.mp4
 pullquote: Your support means the world to us.
