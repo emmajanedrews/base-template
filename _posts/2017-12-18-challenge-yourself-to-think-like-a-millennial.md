@@ -23,7 +23,7 @@ This is the second of a three-part series about millennials and how they can be 
 
 <u><strong>Finding Your &ldquo;Why&rdquo;</strong></u>
 
-We should all have a “why” but to be honest, before I worked with millennials, I frankly hadn’t given it much thought. I went to college, got a degree, and I wanted to be successful. But when people asked me why, all I could really give them was a blanket statement. I wanted to do well in work, make good money, be able to support myself and my future family, and that was it.**It was when a millennial really challenged me that I had to change my thinking and recognize that I needed to be able to offer them more as a manager.**
+We should all have a “why” but to be honest, before I worked with millennials, I frankly hadn’t given it much thought. I went to college, got a degree, and I wanted to be successful. But when people asked me why, all I could really give them was a blanket statement. I wanted to do well in work, make good money, be able to support myself and my future family, and that was it.&nbsp;**It was when a millennial really challenged me that I had to change my thinking and recognize that I needed to be able to offer them more as a manager.**
 
 One millennial asked, “Why do you get up in the morning?” I hadn’t even thought about it.&nbsp;**Millennials want to know that they have purpose**, to be able to see themselves progress into a career, and to understand the “why” to what we do and how they can do it so they can be successful.
 
