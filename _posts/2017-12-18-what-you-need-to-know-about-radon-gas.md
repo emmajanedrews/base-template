@@ -30,7 +30,7 @@ Radon came to my attention when I was representing a buyer during a transaction 
 
 {% include pullquote.html %}
 
-Radon is an odorless, poisonous gas that can cause lung cancer over long periods of exposure. As I’ve learned more about radon, I’ve found that **the reason most people don’t find it in our area is because hardly anyone looks for it.**
+Radon is an odorless, poisonous gas that can cause lung cancer over long periods of exposure. As I’ve learned more about radon, I’ve found that **the reason most people don’t find it in our area is that hardly anyone looks for it.**
 
 I was always taught that radon tests are necessary in mountainous regions because radon comes from granite in the ground. However, this Scottsdale house was on a flat piece of dirt and ended up having a high radon content.
 
