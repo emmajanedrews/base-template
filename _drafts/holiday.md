@@ -28,12 +28,12 @@ excerpt: >-
   home. To learn more, watch this short video.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/Videos/2017/The+Stern+Team-+5+Biggest+Obstacles.mp4
-pullquote: Buying your first home in today’s market isn’t easy.
+pullquote:
 enclosure_type: video/mp4
 enclosure_time: '10:39 am'
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: P0xvWpw7daM
+youtube_code: 'https://youtu.be/FweaK1kpDfQ'
 ---
 
 
