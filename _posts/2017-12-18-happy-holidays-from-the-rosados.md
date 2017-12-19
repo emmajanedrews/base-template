@@ -20,7 +20,7 @@ youtube_code: WiEyGOmgdDQ
 
 Thank you to everyone that I had the opportunity to work with this year. Whether you relied on my services for buying, selling, or renting… or provided me with opportunities by referring my services to someone you know.
 
-It doesn't matter if the referral bought, sold, or rented from me. Its the opportunity that counts, and I wanted to take some time this year which was my most successful year thus far in my 9 year career, and directly thank each and every one of you. Collectively, we're able to help brighten up the holiday for people in need. Not only giving thanks, but giving smiles and hope to people who need it the most.
+It doesn't matter if the referral bought, sold, or rented from me. It's the opportunity that counts. I wanted to take some time this year (which was the most successful year thus far in my nine-year career) and directly thank each and every one of you.<br>Collectively, we're able to help brighten up the holiday for people in need. Not only giving thanks, but giving smiles and hope to people who need it the most.
 
 Thank you, thank you, thank you all for giving us the opportunity to do this. I hope your holiday season just go brighter as well. Talk to you next year.&nbsp;
 
