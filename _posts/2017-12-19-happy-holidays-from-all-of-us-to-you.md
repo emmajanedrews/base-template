@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Happy Holidays From All of Us to You
-date:
+date: 2017-12-19 11:01:47
 tags:
 excerpt: Have a happy holiday season!
 enclosure:
