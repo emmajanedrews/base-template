@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Should a Seller Do a Home Inspection?
-date:
+date: 2017-12-19 14:18:56
 tags:
 excerpt:
 enclosure:
