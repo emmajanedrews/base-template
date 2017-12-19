@@ -27,7 +27,7 @@ Today I have five great tips and things to think about for buyers who looking fo
 
 **1. Research what laws or restrictions the area has regarding pets.** Some communities are restrictive about why type of pets you can have, whether or not they need to be restrained if outside, and so on. You’ll need to know this information since the deed to the property is subject to those covenants.
 
-**2. Is there a yard, and is the yard fenced in?** This is an especial concern for those with dogs, cats, or other such animals that they don’t want to escape out into the world. Having a fenced-off yard would grant those pets a space to be able to safely run around outside and play.
+**2. Is there a yard, and is the yard fenced in?** This is a special concern for those with dogs, cats, or other such animals that they don’t want to escape out into the world. Having a fenced-off yard would grant those pets a space to be able to safely run around outside and play.
 
 {% include pullquote.html %}
 
