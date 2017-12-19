@@ -26,8 +26,8 @@ youtube_code: o80BulHqLHE
 
 **2. Energy-efficient windows.** A typical window replacement yields over a 70% return in terms of the resale value of your home. Depending on the shape of your current windows, **you could save an additional 15% or more off your heating bills.** Plus, new windows can add even more value to your home in terms of increased thermal and acoustic comfort, more light, and better design.&nbsp;
 
-**3. Have an energy audit.** For only $99, SRP and APS partner with many local companies that will come out and check your windows, ductwork, A/C unit, and give you a full report of anything to be addressed to increase the efficiency of your home. Then from there you can choose what will be the best investment for your home.
-
 {% include pullquote.html %}
+
+**3. Have an energy audit.** For only $99, SRP and APS partner with many local companies that will come out and check your windows, ductwork, A/C unit, and give you a full report of anything to be addressed to increase the efficiency of your home. Then from there you can choose what will be the best investment for your home.
 
 If you have any questions for me about any of these upgrades or anything else related to real estate, give me a call or send me an email. We look forward to hearing from you soon.
