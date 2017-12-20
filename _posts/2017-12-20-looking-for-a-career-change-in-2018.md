@@ -34,7 +34,7 @@ I can tell you that only about 10% of agents renew their licenses after two year
 
 There is a huge amount to learn, from technology to contract changes and beyond. As great as some brokerages are, it can be hard to provide everything an agent needs.
 
-That’s why teams are so prevalent now. T**eams are able to provide training, accountability, and leadership.**Keller Williams has world-class training that we are really proud of.
+That’s why teams are so prevalent now. **T****eams are able to provide training, accountability, and leadership.**Keller Williams has world-class training that we are really proud of.
 
 So, if you or anyone you know would be interested in a career in real estate, I would love to talk to them. In the meantime, I hope you have fun this holiday season.
 
