@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Can you believe the year is almost over? Before it ends, I wanted to answer
   one more of your common questions.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Mike+Gray/Videos/Houston+Real+Estate+Agent-+Answering+One+Final+Question+This+Year.mp4
 pullquote: ANY SELLER CAN SELL THEIR HOME 'AS-IS.'
 enclosure_type: video/mp4
 enclosure_time:
