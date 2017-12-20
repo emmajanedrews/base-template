@@ -20,7 +20,7 @@ youtube_code: fqlWee61RLA
 
 {% include youtube.html %}
 
-I’m in a beautifully renovated bungalow for this week’s post. As soon as I walked in here, I knew it had so many amazing features that are usually reserved for homes at twice the price.The one feature that stood out to me was the American Clay walls. They are absolutely gorgeous. They were done by Patrick Allard, a local artisan and craftsman who just happens to be with us today.&nbsp;
+I’m in a beautifully renovated bungalow for this week’s post. As soon as I walked in here, I knew it had so many amazing features that are usually reserved for homes at twice the price. The one feature that stood out to me was the American Clay walls. They are absolutely gorgeous. They were done by Patrick Allard, a local artisan and craftsman who just happens to be with us today.&nbsp;
 
 **Patrick and his company, Ecowalls, specialize in the application of natural plasters and work with things like American Clay and lime plaster.** Both are veneers that are intended to cover existing surfaces like drywall, masonry, and certain types of wood composites.
 
