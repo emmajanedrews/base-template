@@ -1,71 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title></title>
-    <link>localhost:5000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:5000"/>
+    <title>Make The Move To Florida Real Estate Podcast with Michael Vernamonti</title>
+    <link>http://makethemovetoflorida.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://makethemovetoflorida.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Wendy Reinhardt Realty - your professional Florida Coastal Communities Real Estate Agents.</description>
     <language>en</language>
-    <managingEditor>-- CLIENT NAME --</managingEditor>
-    <lastBuildDate>2016-12-28 10:09:53 -0600</lastBuildDate>
-    <media:copyright>-- CLIENT NAME --</media:copyright>
-    <media:thumbnail url="localhost:5000"/>
-    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
+    <managingEditor>Michael Vernamonti</managingEditor>
+    <lastBuildDate>2017-12-20 10:42:18 -0600</lastBuildDate>
+    <media:copyright>Michael Vernamonti</media:copyright>
+    <media:thumbnail url="http://makethemovetoflorida.com/img/podcast.jpg"/>
+    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Florida Coastal Communities, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
       <itunes:email>michael@WendySellsFlorida.com</itunes:email>
-      <itunes:name>-- CLIENT NAME --</itunes:name>
+      <itunes:name>Michael Vernamonti</itunes:name>
     </itunes:owner>
-    <itunes:author>-- CLIENT NAME --</itunes:author>
+    <itunes:author>Michael Vernamonti</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:5000"/>
-    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
+    <itunes:image href="http://makethemovetoflorida.com/img/podcast.jpg"/>
+    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Florida Coastal Communities, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Florida Coastal Communities Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Wendy Reinhardt Realty - your professional Florida Coastal Communities Real Estate Agents.</itunes:summary>
       <itunes:category text="News &amp; Politics"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>localhost:5000/this-is-a-test.html</link>
+        <title>From Us to You: Happy Holidays</title>
+        <link>http://makethemovetoflorida.com/from-us-to-you-happy-holidays.html</link>
         
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
-        
-          <category>Buyer Tips</category>
-        
-          <category>Home Seller Tips</category>
-        
-        <author>-- CLIENT NAME --</author>
-        <pubDate>2016-10-04 00:00:00 -0500</pubDate>
-        <guid></guid>
-        <description>
-
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
-
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
-</description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:5000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <author>Michael Vernamonti</author>
+        <pubDate>2017-12-19 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Happy+Holidays!.mp4</guid>
+        <description>From our entire team, Merry Christmas and Happy Holidays.</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Happy+Holidays!.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://makethemovetoflorida.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Happy+Holidays!.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:subtitle>From our entire team, Merry Christmas and Happy Holidays.</itunes:subtitle>
+        <itunes:author>Michael Vernamonti</itunes:author>
+        <itunes:summary>From our entire team, Merry Christmas and Happy Holidays.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Florida Coastal Communities, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>this is a test</title>
-        <link>localhost:5000/a-fox-in-space.html</link>
+        <title>The Trouble With Getting Fixer-Upper Financing</title>
+        <link>http://makethemovetoflorida.com/the-trouble-with-getting-fixer-upper-financing.html</link>
+        
+          <category>Buyer Tips</category>
+        
+        <author>Michael Vernamonti</author>
+        <pubDate>2017-12-12 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Fixer+Upper+Financing.mp4</guid>
+        <description>If you want to buy a bank-owned REO property, you won’t be able to get traditional financing for it because the home probably won’t be able to pass institutional lenders’ strict underwriting guidelines.</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Fixer+Upper+Financing.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://makethemovetoflorida.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Fixer+Upper+Financing.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you want to buy a bank-owned REO property, you won’t be able to get traditional financing for it because the home probably won’t be able to pass institutional lenders’ strict underwriting guidelines.</itunes:subtitle>
+        <itunes:author>Michael Vernamonti</itunes:author>
+        <itunes:summary>If you want to buy a bank-owned REO property, you won’t be able to get traditional financing for it because the home probably won’t be able to pass institutional lenders’ strict underwriting guidelines.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Florida Coastal Communities, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>4 Things Sellers Can’t Afford to Slack On</title>
+        <link>http://makethemovetoflorida.com/4-things-sellers-cant-afford-to-slack-on.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Michael Vernamonti</author>
+        <pubDate>2017-11-28 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+4+Seller+Necessities.mp4</guid>
+        <description>Selling season is on its way here in Florida. Here are four things sellers absolutely must do in order to ensure a successful transaction.</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+4+Seller+Necessities.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://makethemovetoflorida.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+4+Seller+Necessities.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Selling season is on its way here in Florida. Here are four things sellers absolutely must do in order to ensure a successful transaction.</itunes:subtitle>
+        <itunes:author>Michael Vernamonti</itunes:author>
+        <itunes:summary>Selling season is on its way here in Florida. Here are four things sellers absolutely must do in order to ensure a successful transaction.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Florida Coastal Communities, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Home Flipping Tips You Won't Want to Miss</title>
+        <link>http://makethemovetoflorida.com/home-flipping-tips-you-wont-want-to-miss.html</link>
+        
+          <category>Buyer Tips</category>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Michael Vernamonti</author>
+        <pubDate>2017-11-07 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Flipping+in+Florida.mp4</guid>
+        <description>Flipping is not for the weak of heart. But, if you know what you’re doing, it can really pay off. Today, I’ve got some flipping tips you won’t want to miss.</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Flipping+in+Florida.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://makethemovetoflorida.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Flipping+in+Florida.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Flipping is not for the weak of heart. But, if you know what you’re doing, it can really pay off. Today, I’ve got some flipping tips you won’t want to miss.</itunes:subtitle>
+        <itunes:author>Michael Vernamonti</itunes:author>
+        <itunes:summary>Flipping is not for the weak of heart. But, if you know what you’re doing, it can really pay off. Today, I’ve got some flipping tips you won’t want to miss.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Florida Coastal Communities, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Snowbird Season Is Upon Us</title>
+        <link>http://makethemovetoflorida.com/snowbird-season-is-upon-us.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Michael Vernamonti</author>
+        <pubDate>2017-10-23 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Snow+Bird+Season.mp4</guid>
+        <description>Snowbirds are on their way to Florida. Here’s what you need to know about them.</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Snow+Bird+Season.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://makethemovetoflorida.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Snow+Bird+Season.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Snowbirds are on their way to Florida. Here’s what you need to know about them.</itunes:subtitle>
+        <itunes:author>Michael Vernamonti</itunes:author>
+        <itunes:summary>Snowbirds are on their way to Florida. Here’s what you need to know about them.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Florida Coastal Communities, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Useful Tips for Communicating With Your Realtor</title>
+        <link>http://makethemovetoflorida.com/useful-tips-for-communicating-with-your-realtor.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Michael Vernamonti</author>
+        <pubDate>2017-10-09 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Communicating+with+your+realtor.mp4</guid>
+        <description>There are a few specific tips to communicating with your Realtor so that you can get the best real estate deal possible.</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Communicating+with+your+realtor.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://makethemovetoflorida.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Communicating+with+your+realtor.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>There are a few specific tips to communicating with your Realtor so that you can get the best real estate deal possible.</itunes:subtitle>
+        <itunes:author>Michael Vernamonti</itunes:author>
+        <itunes:summary>There are a few specific tips to communicating with your Realtor so that you can get the best real estate deal possible.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Florida Coastal Communities, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Narcissa Reviews Wendy Sells Florida!</title>
+        <link>http://makethemovetoflorida.com/narcissa-reviews-wendy-sells-florida.html</link>
         
           <category>Market Update</category>
         
@@ -75,35 +156,466 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
         
           <category>Home Seller Tips</category>
         
-        <author>-- CLIENT NAME --</author>
-        <pubDate>2016-09-28 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <author>Michael Vernamonti</author>
+        <pubDate>2017-09-18 00:00:00 -0500</pubDate>
+        <guid>Narcissa Reviews Wendy Sells Florida!</guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
-
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:5000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="Narcissa Reviews Wendy Sells Florida!" length="" type="video/mp4"/>
+        <media:thumbnail url="http://makethemovetoflorida.com" height="72" width="72"/>
+        <media:content url="Narcissa Reviews Wendy Sells Florida!" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author>-- CLIENT NAME --</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Michael Vernamonti</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Florida Coastal Communities, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
-    <copyright>-- CLIENT NAME --</copyright>
-    <media:credit role="author">-- CLIENT NAME --</media:credit>
+      <item>
+        <title>Kathi Reviews the Wendy Sells Florida Team!</title>
+        <link>http://makethemovetoflorida.com/kathi-reviews-the-wendy-sells-florida-team.html</link>
+        
+          <category>Market Update</category>
+        
+          <category>Real Estate</category>
+        
+          <category>Buyer Tips</category>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Michael Vernamonti</author>
+        <pubDate>2017-09-18 00:00:00 -0500</pubDate>
+        <guid>Kathi Reviews the Wendy Sells Florida Team!</guid>
+        <description>
+
+</description>
+        <enclosure url="Kathi Reviews the Wendy Sells Florida Team!" length="" type="video/mp4"/>
+        <media:thumbnail url="http://makethemovetoflorida.com" height="72" width="72"/>
+        <media:content url="Kathi Reviews the Wendy Sells Florida Team!" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Michael Vernamonti</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Florida Coastal Communities, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Don’t Let Hurricanes Ruin Your Dreams</title>
+        <link>http://makethemovetoflorida.com/dont-let-hurricanes-ruin-your-dreams.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Michael Vernamonti</author>
+        <pubDate>2017-09-12 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Hurricanes.mp4</guid>
+        <description>There will always be a vibrant market in Florida, despite the weather risks. Here’s why you shouldn’t be too worried.</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Hurricanes.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://makethemovetoflorida.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Hurricanes.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>There will always be a vibrant market in Florida, despite the weather risks. Here’s why you shouldn’t be too worried.</itunes:subtitle>
+        <itunes:author>Michael Vernamonti</itunes:author>
+        <itunes:summary>There will always be a vibrant market in Florida, despite the weather risks. Here’s why you shouldn’t be too worried.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Florida Coastal Communities, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Work With Just One Agent When You Could Have a Team?</title>
+        <link>http://makethemovetoflorida.com/why-work-with-just-one-agent-when-you-could-have-a-team.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Michael Vernamonti</author>
+        <pubDate>2017-09-11 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Working+with+a+Team.mp4</guid>
+        <description>Why should you work with a team instead of a single agent? The truth is that working with a team comes with benefits you simply can’t achieve while working with just one person.</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Working+with+a+Team.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://makethemovetoflorida.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Working+with+a+Team.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Why should you work with a team instead of a single agent? The truth is that working with a team comes with benefits you simply can’t achieve while working with just one person.</itunes:subtitle>
+        <itunes:author>Michael Vernamonti</itunes:author>
+        <itunes:summary>Why should you work with a team instead of a single agent? The truth is that working with a team comes with benefits you simply can’t achieve while working with just one person.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Florida Coastal Communities, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Is Financing for a Condo Different?</title>
+        <link>http://makethemovetoflorida.com/how-is-financing-for-a-condo-different.html</link>
+        
+          <category>Buyer Tips</category>
+        
+        <author>Michael Vernamonti</author>
+        <pubDate>2017-08-28 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Condo+Financing.mp4</guid>
+        <description>If you have never purchased a condo, there are some key financing differences you will need to be aware of before proceeding.</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Condo+Financing.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://makethemovetoflorida.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Condo+Financing.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you have never purchased a condo, there are some key financing differences you will need to be aware of before proceeding.</itunes:subtitle>
+        <itunes:author>Michael Vernamonti</itunes:author>
+        <itunes:summary>If you have never purchased a condo, there are some key financing differences you will need to be aware of before proceeding.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Florida Coastal Communities, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why It's Important to Work With an Experienced Agent</title>
+        <link>http://makethemovetoflorida.com/why-its-important-to-work-with-an-experienced-agent.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Michael Vernamonti</author>
+        <pubDate>2017-08-15 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Finding+The+Right+Agent.mp4</guid>
+        <description>Today I wanted to breakdown why it is essential that you use an experienced, professional agent for your real estate transaction.</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Finding+The+Right+Agent.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://makethemovetoflorida.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Finding+The+Right+Agent.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today I wanted to breakdown why it is essential that you use an experienced, professional agent for your real estate transaction.</itunes:subtitle>
+        <itunes:author>Michael Vernamonti</itunes:author>
+        <itunes:summary>Today I wanted to breakdown why it is essential that you use an experienced, professional agent for your real estate transaction.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Florida Coastal Communities, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Ronni Reviews the Wendy Sells Florida Team!</title>
+        <link>http://makethemovetoflorida.com/ronni-reviews-the-wendy-sells-florida-team.html</link>
+        
+        <author>Michael Vernamonti</author>
+        <pubDate>2017-08-08 00:00:00 -0500</pubDate>
+        <guid></guid>
+        <description>Ronni Reviews the Wendy Sells Florida Team!</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://makethemovetoflorida.com" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Ronni Reviews the Wendy Sells Florida Team!</itunes:subtitle>
+        <itunes:author>Michael Vernamonti</itunes:author>
+        <itunes:summary>Ronni Reviews the Wendy Sells Florida Team!</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Florida Coastal Communities, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Is It Safe to Buy a Florida Property Sight Unseen?</title>
+        <link>http://makethemovetoflorida.com/is-it-safe-to-buy-a-florida-property-sight-unseen.html</link>
+        
+          <category>Buyer Tips</category>
+        
+        <author>Michael Vernamonti</author>
+        <pubDate>2017-07-25 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Buying+Property+Unseen.mp4</guid>
+        <description>Would you make a bid on a Florida home without seeing it in person? For more and more homebuyers, the answer to that question is yes.</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Buying+Property+Unseen.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://makethemovetoflorida.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Buying+Property+Unseen.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Would you make a bid on a Florida home without seeing it in person? For more and more homebuyers, the answer to that question is yes.</itunes:subtitle>
+        <itunes:author>Michael Vernamonti</itunes:author>
+        <itunes:summary>Would you make a bid on a Florida home without seeing it in person? For more and more homebuyers, the answer to that question is yes.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Florida Coastal Communities, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Boating Opportunities in Southwest Florida</title>
+        <link>http://makethemovetoflorida.com/boating-opportunities-in-southwest-florida.html</link>
+        
+          <category>Market Update</category>
+        
+          <category>Real Estate</category>
+        
+          <category>Buyer Tips</category>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Michael Vernamonti</author>
+        <pubDate>2017-07-20 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Boating+Options.mp4</guid>
+        <description>Are you looking for boating opportunities in southwest Florida? Today I’ve got a list of the best places to look.</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Boating+Options.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://makethemovetoflorida.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Boating+Options.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Are you looking for boating opportunities in southwest Florida? Today I’ve got a list of the best places to look.</itunes:subtitle>
+        <itunes:author>Michael Vernamonti</itunes:author>
+        <itunes:summary>Are you looking for boating opportunities in southwest Florida? Today I’ve got a list of the best places to look.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Florida Coastal Communities, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What’s Happening in the Gulf Coast Real Estate Market?</title>
+        <link>http://makethemovetoflorida.com/whats-happening-in-the-gulf-coast-real-estate-market.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Michael Vernamonti</author>
+        <pubDate>2017-06-27 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Market+Update.mp4</guid>
+        <description>Homes are moving with a lot of speed in our Southwest Florida market. Today I sat down to let you know what’s been going on in the last six months, and what it means for you.</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Market+Update.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://makethemovetoflorida.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Market+Update.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Homes are moving with a lot of speed in our Southwest Florida market. Today I sat down to let you know what’s been going on in the last six months, and what it means for you.</itunes:subtitle>
+        <itunes:author>Michael Vernamonti</itunes:author>
+        <itunes:summary>Homes are moving with a lot of speed in our Southwest Florida market. Today I sat down to let you know what’s been going on in the last six months, and what it means for you.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Florida Coastal Communities, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>2 Ways to a Buy a Florida Home You Probably Haven't Heard About</title>
+        <link>http://makethemovetoflorida.com/2-ways-to-a-buy-a-florida-home-you-probably-havent-heard-about.html</link>
+        
+          <category>Buyer Tips</category>
+        
+        <author>Michael Vernamonti</author>
+        <pubDate>2017-06-12 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Ways+to+Finance+Your+Home.mp4</guid>
+        <description>If you want to buy a home here in Florida, there are some unique financing options you might not know about that can stretch your buying power.</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Ways+to+Finance+Your+Home.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://makethemovetoflorida.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Ways+to+Finance+Your+Home.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you want to buy a home here in Florida, there are some unique financing options you might not know about that can stretch your buying power.</itunes:subtitle>
+        <itunes:author>Michael Vernamonti</itunes:author>
+        <itunes:summary>If you want to buy a home here in Florida, there are some unique financing options you might not know about that can stretch your buying power.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Florida Coastal Communities, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>A Crucial Conversation You Need to Have With Your Realtor</title>
+        <link>http://makethemovetoflorida.com/a-crucial-conversation-you-need-to-have-with-your-realtor.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Michael Vernamonti</author>
+        <pubDate>2017-05-24 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Questions+from+Your+Realtor.mp4</guid>
+        <description>Contrary to what many people think, having conversations with your Realtor about your financing is an essential part of buying a home. It plays into some of the most important parts of your Realtor’s job.</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Questions+from+Your+Realtor.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://makethemovetoflorida.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Questions+from+Your+Realtor.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Contrary to what many people think, having conversations with your Realtor about your financing is an essential part of buying a home. It plays into some of the most important parts of your Realtor’s job.</itunes:subtitle>
+        <itunes:author>Michael Vernamonti</itunes:author>
+        <itunes:summary>Contrary to what many people think, having conversations with your Realtor about your financing is an essential part of buying a home. It plays into some of the most important parts of your Realtor’s job.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Florida Coastal Communities, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Buying and Selling a Home at the Same Time</title>
+        <link>http://makethemovetoflorida.com/buying-and-selling-a-home-at-the-same-time.html</link>
+        
+          <category>Buyer Tips</category>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Michael Vernamonti</author>
+        <pubDate>2017-05-09 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Buying+While+Selling.mp4</guid>
+        <description>Trying to buy a new home while still trying to sell your old one? I’ll go over the best ways to do that today.</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Buying+While+Selling.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://makethemovetoflorida.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Buying+While+Selling.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Trying to buy a new home while still trying to sell your old one? I’ll go over the best ways to do that today.</itunes:subtitle>
+        <itunes:author>Michael Vernamonti</itunes:author>
+        <itunes:summary>Trying to buy a new home while still trying to sell your old one? I’ll go over the best ways to do that today.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Florida Coastal Communities, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Visit Florida During the Off-season?</title>
+        <link>http://makethemovetoflorida.com/why-visit-florida-during-the-off-season.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Michael Vernamonti</author>
+        <pubDate>2017-04-24 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+It%E2%80%99s+a+perfect+time+to+visit+Florida.mp4</guid>
+        <description>Although the summer is considered the “off-season” in Florida, it’s still a great time to visit. Here are all the benefits you’ll see during this time of year.</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+It%E2%80%99s+a+perfect+time+to+visit+Florida.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://makethemovetoflorida.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+It%E2%80%99s+a+perfect+time+to+visit+Florida.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Although the summer is considered the “off-season” in Florida, it’s still a great time to visit. Here are all the benefits you’ll see during this time of year.</itunes:subtitle>
+        <itunes:author>Michael Vernamonti</itunes:author>
+        <itunes:summary>Although the summer is considered the “off-season” in Florida, it’s still a great time to visit. Here are all the benefits you’ll see during this time of year.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Florida Coastal Communities, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Florida Investment Properties Are Great Buys Right Now</title>
+        <link>http://makethemovetoflorida.com/florida-investment-properties-are-great-buys-right-now.html</link>
+        
+          <category>Buyer Tips</category>
+        
+        <author>Michael Vernamonti</author>
+        <pubDate>2017-04-10 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Cutting+Taxes.mp4</guid>
+        <description>Florida is a great place to invest in real estate. You can get an investment property and vacation home all in one.</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Cutting+Taxes.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://makethemovetoflorida.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Cutting+Taxes.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Florida is a great place to invest in real estate. You can get an investment property and vacation home all in one.</itunes:subtitle>
+        <itunes:author>Michael Vernamonti</itunes:author>
+        <itunes:summary>Florida is a great place to invest in real estate. You can get an investment property and vacation home all in one.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Florida Coastal Communities, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Rising Interest Rates Are Actually a Good Thing</title>
+        <link>http://makethemovetoflorida.com/why-rising-interest-rates-are-actually-a-good-thing.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Michael Vernamonti</author>
+        <pubDate>2017-03-27 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Interest+Rates.mp4</guid>
+        <description>Mortgage interest rates are rising, but as a homebuyer, you shouldn’t be worried. Here’s why.</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Interest+Rates.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://makethemovetoflorida.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Interest+Rates.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Mortgage interest rates are rising, but as a homebuyer, you shouldn’t be worried. Here’s why.</itunes:subtitle>
+        <itunes:author>Michael Vernamonti</itunes:author>
+        <itunes:summary>Mortgage interest rates are rising, but as a homebuyer, you shouldn’t be worried. Here’s why.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Florida Coastal Communities, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>The Pros and Cons of Deed-Restricted Communities</title>
+        <link>http://makethemovetoflorida.com/the-pros-and-cons-of-deed-restricted-communities.html</link>
+        
+          <category>Buyer Tips</category>
+        
+        <author>Michael Vernamonti</author>
+        <pubDate>2017-03-13 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Deed+Restricted+Housing.mp4</guid>
+        <description>What is a deed-restricted community? Today I'll break down the pros and cons of these communities, which are common in our area.</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Deed+Restricted+Housing.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://makethemovetoflorida.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Deed+Restricted+Housing.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What is a deed-restricted community? Today I'll break down the pros and cons of these communities, which are common in our area.</itunes:subtitle>
+        <itunes:author>Michael Vernamonti</itunes:author>
+        <itunes:summary>What is a deed-restricted community? Today I'll break down the pros and cons of these communities, which are common in our area.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Florida Coastal Communities, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>2 Factors That Impact Flood Insurance Premiums the Most</title>
+        <link>http://makethemovetoflorida.com/2-factors-that-impact-flood-insurance-premiums-the-most.html</link>
+        
+          <category>Home Owner Tips</category>
+        
+        <author>Michael Vernamonti</author>
+        <pubDate>2017-02-27 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Flood+Insurance.mp4</guid>
+        <description>If you have anxiety about buying a home in a Florida flood zone, you're not alone. However, knowing these key points about flood insurance will put your mind at ease.</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Flood+Insurance.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://makethemovetoflorida.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Flood+Insurance.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you have anxiety about buying a home in a Florida flood zone, you're not alone. However, knowing these key points about flood insurance will put your mind at ease.</itunes:subtitle>
+        <itunes:author>Michael Vernamonti</itunes:author>
+        <itunes:summary>If you have anxiety about buying a home in a Florida flood zone, you're not alone. However, knowing these key points about flood insurance will put your mind at ease.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Florida Coastal Communities, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>The Pros and Cons of Zillow</title>
+        <link>http://makethemovetoflorida.com/the-pros-and-cons-of-zillow.html</link>
+        
+          <category>Zillow</category>
+        
+        <author>Michael Vernamonti</author>
+        <pubDate>2017-02-13 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Zillow.mp4</guid>
+        <description>Zillow can be a useful tool for both buyers and sellers. However, there are also some dangers that come with it.</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Zillow.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://makethemovetoflorida.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Zillow.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Zillow can be a useful tool for both buyers and sellers. However, there are also some dangers that come with it.</itunes:subtitle>
+        <itunes:author>Michael Vernamonti</itunes:author>
+        <itunes:summary>Zillow can be a useful tool for both buyers and sellers. However, there are also some dangers that come with it.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Florida Coastal Communities, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Have You Considered Buying a Foreclosure?</title>
+        <link>http://makethemovetoflorida.com/have-you-considered-buying-a-foreclosure.html</link>
+        
+          <category>Buyer Tips</category>
+        
+        <author>Michael Vernamonti</author>
+        <pubDate>2017-01-30 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Foreclosures.mp4</guid>
+        <description>Have you ever considered buying a foreclosed property? It may seem like they present an opportunity for a great deal, but I find that not many people totally understand the process. I'll explain in more detail for you today.</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Foreclosures.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://makethemovetoflorida.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Foreclosures.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Have you ever considered buying a foreclosed property? It may seem like they present an opportunity for a great deal, but I find that not many people totally understand the process. I'll explain in more detail for you today.</itunes:subtitle>
+        <itunes:author>Michael Vernamonti</itunes:author>
+        <itunes:summary>Have you ever considered buying a foreclosed property? It may seem like they present an opportunity for a great deal, but I find that not many people totally understand the process. I'll explain in more detail for you today.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Florida Coastal Communities, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Welcome to My Video Blog</title>
+        <link>http://makethemovetoflorida.com/welcome-to-my-video-blog.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Michael Vernamonti</author>
+        <pubDate>2017-01-03 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Micheal+Vernamonti+Have+you+seen+my+new+video+blog.mp4</guid>
+        <description>My passion is helping you make the move here to Florida. I made the move many years ago myself, and it was the best decision I ever made. This video blog will have information about the real estate market, financing, and more to help you learn what it’s like to live here on the Florida Gulf Coast.</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Micheal+Vernamonti+Have+you+seen+my+new+video+blog.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://makethemovetoflorida.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Micheal+Vernamonti+Have+you+seen+my+new+video+blog.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>My passion is helping you make the move here to Florida. I made the move many years ago myself, and it was the best decision I ever made. This video blog will have information about the real estate market, financing, and more to help you learn what it’s like to live here on the Florida Gulf Coast.</itunes:subtitle>
+        <itunes:author>Michael Vernamonti</itunes:author>
+        <itunes:summary>My passion is helping you make the move here to Florida. I made the move many years ago myself, and it was the best decision I ever made. This video blog will have information about the real estate market, financing, and more to help you learn what it’s like to live here on the Florida Gulf Coast.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Florida Coastal Communities, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Predictions on How the Real Estate Market Will Shape Up in 2017</title>
+        <link>http://makethemovetoflorida.com/predictions-on-how-the-real-estate-market-will-shape-up-in-2017.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Michael Vernamonti</author>
+        <pubDate>2017-01-03 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Michael+Vernamonti+2017+Market+Update.mp4</guid>
+        <description>With the new year here, it’s a good time to look ahead to the future. We are here to talk about what you can expect from the housing market in the next year.</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Michael+Vernamonti+2017+Market+Update.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://makethemovetoflorida.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Michael+Vernamonti+2017+Market+Update.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>With the new year here, it’s a good time to look ahead to the future. We are here to talk about what you can expect from the housing market in the next year.</itunes:subtitle>
+        <itunes:author>Michael Vernamonti</itunes:author>
+        <itunes:summary>With the new year here, it’s a good time to look ahead to the future. We are here to talk about what you can expect from the housing market in the next year.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Florida Coastal Communities, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+    <copyright>Michael Vernamonti</copyright>
+    <media:credit role="author">Michael Vernamonti</media:credit>
     <media:rating>nonadult</media:rating>
     <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Wendy Reinhardt Realty - your professional Florida Coastal Communities Real Estate Agents.</media:description>
   </channel>
