@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title>Glendale Real Estate Podcast with Nate Martinez</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from RE/MAX Professionals - your professional Glendale Real Estate Agents.</description>
+    <title>Valley of the Sun Real Estate Podcast with Nate Martinez</title>
+    <link>http://asknatemartinez.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://asknatemartinez.com"/>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from RE/MAX Professionals - your professional Valley of the Sun Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Nate Martinez</managingEditor>
-    <lastBuildDate>2017-11-06 15:26:28 -0600</lastBuildDate>
+    <lastBuildDate>2017-12-20 12:49:30 -0600</lastBuildDate>
     <media:copyright>Nate Martinez</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
-    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Glendale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
+    <media:thumbnail url="http://asknatemartinez.com/img/podcast.jpg"/>
+    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
       <itunes:email>info@NatesHomes.com</itunes:email>
@@ -18,15 +18,114 @@
     </itunes:owner>
     <itunes:author>Nate Martinez</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
-    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Glendale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Glendale Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from RE/MAX Professionals - your professional Glendale Real Estate Agents.</itunes:summary>
+    <itunes:image href="http://asknatemartinez.com/img/podcast.jpg"/>
+    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Valley of the Sun Area Real Estate Market</itunes:subtitle>
+    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from RE/MAX Professionals - your professional Valley of the Sun Real Estate Agents.</itunes:summary>
       <itunes:category text="News &amp; Politics"/>
     
       <item>
+        <title>Happy Holidays From My Team To You</title>
+        <link>http://asknatemartinez.com/happy-holidays-from-my-team-to-you.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Nate Martinez</author>
+        <pubDate>2017-12-18 06:59:35 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/December/Valley+of+the+Sun+Real+Estate+Agent-+Happy+Holidays+From+My+Team+To+You+(1).mp4</guid>
+        <description>
+
+I just wanted to take some time out of my day to wish you a happy holidays, merry Christmas, happy Chanukah—whatever it is you celebrate, I just hope you have an amazing time with your family and friends.
+
+“Whatever it is you celebrate, I just hope you have an amazing time with your family and friends.”
+
+I wish you all a happy New Year and look forward to being your Realtor and answering your questions in 2018.
+
+As always, feel free to reach out to us with any of your real estate questions and needs.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/December/Valley+of+the+Sun+Real+Estate+Agent-+Happy+Holidays+From+My+Team+To+You+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://asknatemartinez.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/December/Valley+of+the+Sun+Real+Estate+Agent-+Happy+Holidays+From+My+Team+To+You+(1).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Have a happy and safe holiday!</itunes:subtitle>
+        <itunes:author>Nate Martinez</itunes:author>
+        <itunes:summary>Have a happy and safe holiday!</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Should You Sell Now or Wait Until After the Holidays?</title>
+        <link>http://asknatemartinez.com/should-you-sell-now-or-wait-until-after-the-holidays.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Nate Martinez</author>
+        <pubDate>2017-11-28 07:55:43 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/November/Phoenix+Real+Estate+Agent-+Should+You+Sell+Now+or+Wait+Until+After+the+Holidays%253F+(1).mp4</guid>
+        <description>
+
+Is now a good time to sell your home or should you wait until after the holidays?
+
+There are two ways to look at this question. 
+
+If you list now, inventory will be a little lower, so there will be less competition among other sellers. Right after the holidays, there tends to be a surge of sellers who enter the market, which increases the number of homes buyers can choose from. Buyers are also more serious about buying this time of year, so if you pull your home off the market, you might miss out on the opportunity for a quick sale.
+
+“Our market is busy every single month.”
+
+If you wait to list until after the holidays, you can enjoy the holiday period without dealing with showings and open houses. Also, as I stated above, more buyers will enter the market after the holidays are over. People assume that spring is the best time to sell a home, but here in Phoenix we don’t really have extreme seasons, so our market is busy every single month. 
+
+So, to answer this question, any month is a great month to list in our market—it just depends on you and your personal situation. 
+
+If you have any questions about when you should sell your home, don’t hesitate to reach out to me. I’d love to sit down and chat with you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/November/Phoenix+Real+Estate+Agent-+Should+You+Sell+Now+or+Wait+Until+After+the+Holidays%253F+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://asknatemartinez.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/November/Phoenix+Real+Estate+Agent-+Should+You+Sell+Now+or+Wait+Until+After+the+Holidays%253F+(1).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Whether it’s better to list now or wait until after the holidays depends on your own personal situation.</itunes:subtitle>
+        <itunes:author>Nate Martinez</itunes:author>
+        <itunes:summary>Whether it’s better to list now or wait until after the holidays depends on your own personal situation.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Is Moving Up Right for You?</title>
+        <link>http://asknatemartinez.com/is-moving-up-right-for-you.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Nate Martinez</author>
+        <pubDate>2017-11-10 05:53:52 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/November/Phoenix+Real+Estate+Agent-+Is+Moving+Up+Right+for+You%253F.mp4</guid>
+        <description>
+
+Welcome back to our rightsizing series. Today, we’ll be talking about moving up.
+
+When you’re buying your first home, or any home, there are many important factors to consider. You’ll need to think about whether the neighborhood and school district are good, but also about your daily commute from this new home.
+
+These are all important things to consider, but timing can also become a major issue for anyone who’s moving up.
+
+“Timing can become a major issue for anyone who’s moving up.”
+
+Having a professional help you through this process will be key. This is especially the case if you need to list your current property, as well. In this situation, the ideal outcome would be for you to close on your current and new property at the same time.
+
+Moving up will cost you if it goes wrong. That’s why my team and I want to make sure you do it right. We’ve got a great opportunity for you to learn more at our upcoming event. We hope you’ll join us at rightsizing seminar at Arrowhead Country Club. You can RSVP and find all of the details here.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/November/Phoenix+Real+Estate+Agent-+Is+Moving+Up+Right+for+You%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://asknatemartinez.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/November/Phoenix+Real+Estate+Agent-+Is+Moving+Up+Right+for+You%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Have you been thinking of moving up? If you have, there are a lot of important things to consider.</itunes:subtitle>
+        <itunes:author>Nate Martinez</itunes:author>
+        <itunes:summary>Have you been thinking of moving up? If you have, there are a lot of important things to consider.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>Is It Time for You to Downsize?</title>
-        <link>localhost:4000/is-it-time-for-you-to-downsize.html</link>
+        <link>http://asknatemartinez.com/is-it-time-for-you-to-downsize.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -59,7 +158,7 @@ An attorney, title person, stager, professional photographer, and myself will al
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/October/Phoenix+Real+Estate+Agent-+Is+It+Time+for+You+to+Downsize%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://asknatemartinez.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/October/Phoenix+Real+Estate+Agent-+Is+It+Time+for+You+to+Downsize%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -73,12 +172,12 @@ Today I want to go over the subject of downsizing. Ask yourself this: What is th
 Today I want to go over the subject of downsizing. Ask yourself this: What is the right size for the next 10 years of your life?
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Glendale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Why Hasnt Your Home Sold Yet?</title>
-        <link>localhost:4000/why-hasnt-your-home-sold-yet.html</link>
+        <link>http://asknatemartinez.com/why-hasnt-your-home-sold-yet.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -107,7 +206,7 @@ We have many great ideas about how to sell your home but if your home isn’t se
 If you have any questions for us or need help properly pricing your home, don’t hesitate to reach out and give us a call or send us an email. We would love to hear from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/October/Phoenix+Real+Estate+Agent-+Why+Hasnt+Your+Home+Sold+Yet%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://asknatemartinez.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/October/Phoenix+Real+Estate+Agent-+Why+Hasnt+Your+Home+Sold+Yet%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -121,12 +220,12 @@ Selling your home isn’t easy, but we can make it easy.
 Selling your home isn’t easy, but we can make it easy.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Glendale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title> Does It Really Matter Which Realtor You Hire?</title>
-        <link>localhost:4000/does-it-really-matter-which-realtor-you.html</link>
+        <link>http://asknatemartinez.com/does-it-really-matter-which-realtor-you.html</link>
         
           <category>Nate Martinez Real Estate Agent</category>
         
@@ -153,7 +252,7 @@ In my 31 years as a Realtor, I’ve experienced many different types of transact
 When you’re searching for a Realtor, make sure you’re looking for the best in your area. If you have any questions about hiring the right Realtor or you’re considering buying or selling a home, please don’t hesitate to give me a call or send me an email. I look forward to helping you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/September/Phoenix+Real+Estate+Agent-+Does+It+Really+Matter+Which+Realtor+You+Hire%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://asknatemartinez.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/September/Phoenix+Real+Estate+Agent-+Does+It+Really+Matter+Which+Realtor+You+Hire%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -167,12 +266,12 @@ Hiring the right Realtor makes a big difference in the success of your home sale
 Hiring the right Realtor makes a big difference in the success of your home sale or home purchase.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Glendale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>The Difference Between Pre-Approval and Pre-Qualification</title>
-        <link>localhost:4000/the-difference-between-pre-approval-and.html</link>
+        <link>http://asknatemartinez.com/the-difference-between-pre-approval-and.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -201,7 +300,7 @@ A pre-approval, however, is quite a bit more involved. When you are pre-qualifie
 At this point, the buyer’s done a full-blown credit report and have had their income verified. With a pre-approval, everything is taken care of and there’s no guesswork. If you have any questions about the difference between these two processes or you’re thinking of buying or selling a home in our market, don’t hesitate to reach out to me. I’d be glad to help.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/September/Phoenix+Real+Estate+Agent-+The+Difference+Between+Pre-Approval+and+Pre-Qualification.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://asknatemartinez.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/September/Phoenix+Real+Estate+Agent-+The+Difference+Between+Pre-Approval+and+Pre-Qualification.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -215,12 +314,12 @@ How well do you understand the difference between pre-approval and pre-qualifica
 How well do you understand the difference between pre-approval and pre-qualification?
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Glendale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>What Are the Benefits of a Home Warranty? </title>
-        <link>localhost:4000/what-are-benefits-of-home-warranty.html</link>
+        <link>http://asknatemartinez.com/what-are-benefits-of-home-warranty.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -247,7 +346,7 @@ If you buy a house with us and we can’t get a home warranty negotiated in the 
 If you have any questions about the benefits of a home warranty or you’re thinking about buying or selling a home, don’t hesitate to reach out to me. I’d be happy to help you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/August/Phoenix+Real+Estate+Agent-+What+Are+the+Benefits+of+a+Home+Warranty%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://asknatemartinez.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/August/Phoenix+Real+Estate+Agent-+What+Are+the+Benefits+of+a+Home+Warranty%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -261,12 +360,12 @@ When buying a house, I recommend very highly that you also get a home warranty. 
 When buying a house, I recommend very highly that you also get a home warranty. There are a couple of important reasons why.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Glendale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Reasons a Home Warranty Is Important</title>
-        <link>localhost:4000/reasons-home-warranty-is-important.html</link>
+        <link>http://asknatemartinez.com/reasons-home-warranty-is-important.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -299,7 +398,7 @@ For example, let’s say the compressor on your air conditioning suddenly stoppe
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://asknatemartinez.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -313,12 +412,12 @@ When you list with us, we offer a home warranty free for six months. There are a
 When you list with us, we offer a home warranty free for six months. There are a few reasons why having a home warranty is important.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Glendale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>A Seller's Guide to Multiple-Offer Situations</title>
-        <link>localhost:4000/a-sellers-guide-to-multiple-offer.html</link>
+        <link>http://asknatemartinez.com/a-sellers-guide-to-multiple-offer.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -349,7 +448,7 @@ Go with the buyer who puts the most amount of earnest money down, shorten the pe
 If you want any more information or have any other questions, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/July/Phoenix+Real+Estate+Agent-+A+Seller%2527s+Guide+to+Multiple-Offer+Situations.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://asknatemartinez.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/July/Phoenix+Real+Estate+Agent-+A+Seller%2527s+Guide+to+Multiple-Offer+Situations.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -363,12 +462,12 @@ As the seller in a multiple-offer situation, you are ultimately in control. Here
 As the seller in a multiple-offer situation, you are ultimately in control. Here’s what you need to know.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Glendale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>3 Ways to Get Your Offer Accepted</title>
-        <link>localhost:4000/3-ways-to-get-your-offer-accepted.html</link>
+        <link>http://asknatemartinez.com/3-ways-to-get-your-offer-accepted.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -395,7 +494,7 @@ In today’s market we are finding that sellers are consistently receiving multi
 If you have any other questions for us, don’t hesitate to reach out and give us a call or send us an email. We look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/Phoenix+Real+Estate+Agent-+3+Ways+to+Get+Your+Offer+Accepted.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://asknatemartinez.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/Phoenix+Real+Estate+Agent-+3+Ways+to+Get+Your+Offer+Accepted.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -409,12 +508,12 @@ Getting an offer accepted in this market isn’t easy. Here are three ways you c
 Getting an offer accepted in this market isn’t easy. Here are three ways you can help your offer stand out.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Glendale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>What Are the Pitfalls of Pricing Your Home Too High?</title>
-        <link>localhost:4000/what-are-pitfalls-of-pricing-your-home.html</link>
+        <link>http://asknatemartinez.com/what-are-pitfalls-of-pricing-your-home.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -439,7 +538,7 @@ Realtors will also use your overpriced home to justify the value of other listin
 If you have any questions about how to price your home or any other real estate topic, don’t hesitate to give me a call or shoot me an email. I’d be happy to help you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Phoenix+Real+Estate+Agent-+The+pitfalls+of+overpricing+your+home.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://asknatemartinez.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Phoenix+Real+Estate+Agent-+The+pitfalls+of+overpricing+your+home.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -453,12 +552,12 @@ Overpricing your home can cause you a lot of headaches as a home seller.
 Overpricing your home can cause you a lot of headaches as a home seller.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Glendale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Dont Skip the Home Inspection</title>
-        <link>localhost:4000/dont-skip-home-inspection.html</link>
+        <link>http://asknatemartinez.com/dont-skip-home-inspection.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -487,7 +586,7 @@ If your home inspection reveals too many deal killers or the seller is not willi
 Whether you are buying a resale property or a new construction property, I absolutely recommend that you hire a home inspector. I’ll explain more about home inspections on new homes later. In the meantime, if you have any questions, please don’t hesitate to give me a call. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Phoenix+Real+Estate+Agent-+The+importance+of+home+inspections.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://asknatemartinez.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Phoenix+Real+Estate+Agent-+The+importance+of+home+inspections.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -501,12 +600,12 @@ Why should you have a home inspection before closing a property?
 Why should you have a home inspection before closing a property?
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Glendale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Inspections Are Essential for Every Home Purchase</title>
-        <link>localhost:4000/inspections-are-essential-for-every.html</link>
+        <link>http://asknatemartinez.com/inspections-are-essential-for-every.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -535,7 +634,7 @@ Hiring a home inspector during the process will give you great peace of mind. Th
 If you have any questions for me about home inspections or anything else about real estate, give me a call or send me an email. I would love to hear from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Phoenix+Real+Estate+Agent-+Even+New+Homes+Need+Inspections.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://asknatemartinez.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Phoenix+Real+Estate+Agent-+Even+New+Homes+Need+Inspections.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -549,12 +648,12 @@ Should you hire a home inspector even if you’re building a brand-new home? Abs
 Should you hire a home inspector even if you’re building a brand-new home? Absolutely!
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Glendale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>What Does the Phoenix Market Look Like Right Now?</title>
-        <link>localhost:4000/what-does-phoenix-market-look-like.html</link>
+        <link>http://asknatemartinez.com/what-does-phoenix-market-look-like.html</link>
         
           <category>Market Update</category>
         
@@ -581,7 +680,7 @@ If you’re a seller with a home worth $400,000 and under, now is one of the bes
 If you have any questions about the market or if you just want to have a conversation with me where we can talk more about your needs, give me a call or send me an email. I’m glad to help in whatever way I can.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Phoenix+Real+Estate+Agent-+How%2527s+Our+Market+Looking%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://asknatemartinez.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Phoenix+Real+Estate+Agent-+How%2527s+Our+Market+Looking%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -595,12 +694,12 @@ Most of Phoenix is in a strong seller’s market right now. Homes are moving qui
 Most of Phoenix is in a strong seller’s market right now. Homes are moving quickly and sellers are fetching top dollar for them.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Glendale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>How We Plan on Donating $100,000 to Charity in 2017</title>
-        <link>localhost:4000/how-we-plan-on-donating-100000-to.html</link>
+        <link>http://asknatemartinez.com/how-we-plan-on-donating-100000-to.html</link>
         
           <category>Nate Martinez Real Estate Agent</category>
         
@@ -627,7 +726,7 @@ One of our initiatives in 2017 is to give back. My goal is to donate $100,000 to
 If you have any questions or you know some worthwhile charities that could use some help, please don’t hesitate to reach out to me. We’d love to speak with you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Phoenix+Real+Estate+Agent-+How+we+plan+to+give+back+in+2017.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://asknatemartinez.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Phoenix+Real+Estate+Agent-+How+we+plan+to+give+back+in+2017.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -641,12 +740,12 @@ One of our goals in 2017 is to give back, and here’s how we plan to do that.
 One of our goals in 2017 is to give back, and here’s how we plan to do that.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Glendale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Dont Wait Any Longer to Sell Your Home in 2017</title>
-        <link>localhost:4000/dont-wait-any-longer-to-sell-your-home.html</link>
+        <link>http://asknatemartinez.com/dont-wait-any-longer-to-sell-your-home.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -675,7 +774,7 @@ Lastly, the job market is improving nationwide, which means the economy is impro
 If you have any questions about the four reasons you should sell your home in 2017 or have any other real estate-related questions, please feel free to give me a call or send me an email. I look forward to hearing from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://asknatemartinez.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -689,12 +788,12 @@ If you’ve considered selling your home in 2017, I have four urgent reasons you
 If you’ve considered selling your home in 2017, I have four urgent reasons you should get off the fence and onto the market.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Glendale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>A Great Opportunity for Local Business Owners</title>
-        <link>localhost:4000/a-great-opportunity-for-local-business.html</link>
+        <link>http://asknatemartinez.com/a-great-opportunity-for-local-business.html</link>
         
           <category>Nate Martinez Real Estate Agent</category>
         
@@ -719,7 +818,7 @@ If it seems like a good fit, I’ll put your business in the referral directory 
 One of my goals in 2017 is to have a deeper connection with all of you and make you part of my life by helping you grow your business. If you have any questions for me or you’d like to have lunch, don’t hesitate to reach out. Just give me a call or send me an email. I look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Phoenix+Real+Estate+Agent-+Can+I+connect+my+clients+to+your+business%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://asknatemartinez.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Phoenix+Real+Estate+Agent-+Can+I+connect+my+clients+to+your+business%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -733,12 +832,12 @@ One of my goals in 2017 is to have a deeper connection with local business owner
 One of my goals in 2017 is to have a deeper connection with local business owners. To do that, I want to connect you with my database of past clients.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Glendale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Why Now Might Be a Better Time to Sell Than Spring</title>
-        <link>localhost:4000/why-now-might-be-better-time-to-sell.html</link>
+        <link>http://asknatemartinez.com/why-now-might-be-better-time-to-sell.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -763,7 +862,7 @@ This makes our current market the perfect place to possibly get top dollar in a 
 If you have any questions about current interest rates or what our market inventory looks like, please feel free to reach out to me. I’d be happy to speak with you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Phoenix+Real+Estate+Agent-+Why+list+your+home+now+instead+of+spring%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://asknatemartinez.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Phoenix+Real+Estate+Agent-+Why+list+your+home+now+instead+of+spring%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -777,12 +876,12 @@ Listing your home now might be a better idea than waiting until spring. Here’s
 Listing your home now might be a better idea than waiting until spring. Here’s why.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Glendale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>The Impact of Rising Interest Rates in Our Phoenix Market</title>
-        <link>localhost:4000/the-impact-of-rising-interest-rates-in.html</link>
+        <link>http://asknatemartinez.com/the-impact-of-rising-interest-rates-in.html</link>
         
           <category>Market Update</category>
         
@@ -813,7 +912,7 @@ After a certain point, we should see a leveling off of the increase in home pric
 If you’re in the market to buy or sell a home, please feel free to reach out to me by phone or email. I’d be happy to help!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Phoenix+Real+Estate+Agent-+How+will+rising+interest+rates+impact+our+market%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://asknatemartinez.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Phoenix+Real+Estate+Agent-+How+will+rising+interest+rates+impact+our+market%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -827,12 +926,12 @@ Interest rates are predicted to rise this year, so today I want to illustrate wh
 Interest rates are predicted to rise this year, so today I want to illustrate what impact that has on you as a buyer.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Glendale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
     <copyright>Nate Martinez</copyright>
     <media:credit role="author">Nate Martinez</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from RE/MAX Professionals - your professional Glendale Real Estate Agents.</media:description>
+    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from RE/MAX Professionals - your professional Valley of the Sun Real Estate Agents.</media:description>
   </channel>
 </rss>
