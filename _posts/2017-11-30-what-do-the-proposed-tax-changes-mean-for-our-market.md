@@ -22,6 +22,8 @@ youtube_code: x1Xv8FhM-Nw
 
 {% include youtube.html %}
 
+**UPDATE: changes have already happened as they passed the house and senate. I will put together a new video with those changes soon**
+
 Recently, I’ve been getting a ton of questions about how Washington’s proposed tax changes might impact the real estate market.
 
 This question is too complex to be tackled at once, so be on the lookout for future installments on this topic.
