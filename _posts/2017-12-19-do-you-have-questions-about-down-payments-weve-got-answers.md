@@ -24,6 +24,6 @@ How much should your down payment be? Well, **that’s totally up to you**. Can 
 
 {% include pullquote.html %}
 
-**Most of our clients put down between 3% and 10%,** some put more down and some put less. We even have programs that require zero down payment.
+**Most of our clients put down between 3% and 10%;**&nbsp;some put more down and some put less. We even have programs that require zero down payment.
 
 Give us a call! We’ll walk you through the process. If you have any questions, feel free to contact us via phone or email. We’d love to help you out.
