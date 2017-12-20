@@ -23,12 +23,6 @@ permalink: /our-agents/
 <br />
 <hr />
 <br />
-<a href="https://www.teamlally.com/agents/rey-wolmers/" target="_blank"><strong>Rey Wolmers</strong></a><br />
-<br />
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/8WQ3G2kLUCo" width="560"></iframe>
-<br />
-<hr />
-<br />
 <a href="https://www.teamlally.com/agents/michael-ablan/" target="_blank"><strong>Michael Ablan</strong></a><br />
 <br />
 <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/5IydtRfWpno" width="560"></iframe>
