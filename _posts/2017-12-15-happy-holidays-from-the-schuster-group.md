@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Happy Holidays From the Schuster Group
-date: 2017-12-15 10:30:59
+date: 2017-12-15 10:30:00
 tags:
   - Real Estate
 excerpt: >-
@@ -13,7 +13,7 @@ pullquote: Thank you all so much for your love and support over the years.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/johns-youtube-2.jpg
+youtube_alternate_image: /uploads/jds-new-youtube.jpg
 youtube_code: jWyi_Vad_uQ
 ---
 
@@ -22,7 +22,7 @@ youtube_code: jWyi_Vad_uQ
 
 We wanted to take some today to wish you all happy holidays and a happy New Year. Thank you all so much for your love and support over the years.
 
-Personally, I’m forever grateful for my amazing team. &nbsp;Right now, I’d like to reach out and thank each one of them, including:
+Personally, I’m forever grateful for my amazing team.  Right now, I’d like to reach out and thank each one of them, including:
 
 * Andy Baker, licensed Realtor
 * Tim Lehman, licensed Realtor
