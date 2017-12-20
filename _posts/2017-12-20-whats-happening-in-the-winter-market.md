@@ -1,13 +1,13 @@
 ---
 layout: post
 title: What’s Happening in the Winter Market?
-date: 2017-12-20 11:32:40
+date: 2017-12-20 11:32:00
 tags:
   - Market Update
-excerpt:
-enclosure: >-
+excerpt: >-
   What’s happening in our local real estate market this winter? I’ll go over the
   latest numbers for you today.
+enclosure:
 pullquote: 'Demand is still quite high, so it’s a great time to sell.'
 enclosure_type: video/mp4
 enclosure_time:
