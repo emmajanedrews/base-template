@@ -12,7 +12,7 @@ title: 3 Internet Companies That Are Interrupting the Market
 date: '2017-06-12T08:41:00.000-07:00'
 author: Vyral Admin
 tags:
-- Phoenix Real Estate
+- Valley of the Sun Real Estate
 modified_time: '2017-06-12T10:01:18.251-07:00'
 thumbnail: https://i.ytimg.com/vi/pi9spSu-TYE/default.jpg
 blogger_id: tag:blogger.com,1999:blog-5664547674943505314.post-6248700079737882685

@@ -12,7 +12,7 @@ title: Recent Trends in Hispanic Homeownership
 date: '2017-09-11T13:43:00.002-07:00'
 author: Vyral Admin
 tags:
-- Phoenix Real Estate
+- Valley of the Sun Real Estate
 modified_time: '2017-09-13T14:27:45.754-07:00'
 thumbnail: https://i.ytimg.com/vi/kle6pxzdoLA/default.jpg
 blogger_id: tag:blogger.com,1999:blog-5664547674943505314.post-3384807797769766866

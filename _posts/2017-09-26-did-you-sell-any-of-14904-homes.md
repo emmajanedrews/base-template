@@ -12,7 +12,7 @@ title: Did You Sell Any of the 14,904 Homes Yesterday?
 date: '2017-09-26T08:31:00.001-07:00'
 author: Vyral Admin
 tags:
-- Phoenix Real Estate
+- Valley of the Sun Real Estate
 modified_time: '2017-09-27T13:26:24.702-07:00'
 thumbnail: https://i.ytimg.com/vi/TZ51hnsctPg/default.jpg
 blogger_id: tag:blogger.com,1999:blog-5664547674943505314.post-2826796061054039304

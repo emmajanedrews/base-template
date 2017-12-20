@@ -12,7 +12,7 @@ title: Statistics About Real Estate in the Valley
 date: '2017-07-12T12:38:00.001-07:00'
 author: Vyral Admin
 tags:
-- Phoenix Real Estate
+- Valley of the Sun Real Estate
 modified_time: '2017-07-13T14:19:35.908-07:00'
 thumbnail: https://i.ytimg.com/vi/NGZkUktcdso/default.jpg
 blogger_id: tag:blogger.com,1999:blog-5664547674943505314.post-2848575458070114290
