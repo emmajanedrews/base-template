@@ -28,4 +28,4 @@ This year we would like to give back by supporting a local charity, Vogel Alcove
 
 If you're thinking of buying or selling a home this upcoming month of January you can know that 100% of our profits from that sale will go to support this charity. **The more people we are able to help buy and sell homes, the more we’ll be able to give back.**
 
-To learn more about Vogel Alcove, visit their website [here.](https://vogelalcove.org/home/the-problem/) If you have any other questions for us, **don’t hesitate to give us a call or send us an email.** We would love to hear from you.
+To learn more about Vogel Alcove, visit their website [here.](https://vogelalcove.org/home/the-problem/){:target="_blank"} If you have any other questions for us, **don’t hesitate to give us a call or send us an email.** We would love to hear from you.
