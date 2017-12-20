@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: lq5dubY0Vgc
+youtube_code: K8KBIYChruU
 ---
 
 
@@ -21,7 +21,7 @@ youtube_code: lq5dubY0Vgc
 
 As we get close to the holiday season, I wanted to thank everyone for watching my videos, for your referrals, and for your business.
 
-**I really appreciate everyone out there who has made 2017 such a great year&nbsp;**for me and my team. I hope our services have made it a great year for you as well.
+**I really appreciate everyone out there who has made 2017 such a great year**for me and my team. I hope our services have made it a great year for you as well.
 
 Today, we are going to have a winter real estate update. In the next couple of weeks, I’ll go over a year to year real estate wrap up to see how the 2017 market did compared to the 2016 market. Right now, let’s see how November 2017 compares to November 2016.
 
