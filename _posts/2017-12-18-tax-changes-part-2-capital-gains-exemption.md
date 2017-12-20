@@ -20,6 +20,8 @@ youtube_code: Q7c4zbbUUY0
 
 {% include youtube.html %}
 
+**UPDATE: changes have already happened as they passed the house and senate. I will put together a new video with those changes soon**
+
 Some big tax changes have recently been proposed in Washington.
 
 A couple of these changes are going to impact the real estate market in a fairly significant way. Last time, we talked about the mortgage interest tax deduction.
