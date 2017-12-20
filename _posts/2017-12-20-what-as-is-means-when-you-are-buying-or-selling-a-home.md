@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What “As-Is” Means in a Home Transaction
+title: What "AS-IS" Means when you are Buying or Selling a Home
 date: 2017-12-20 11:39:00
 tags:
   - Real Estate
