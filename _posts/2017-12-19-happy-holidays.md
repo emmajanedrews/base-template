@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Happy Holidays
-date: 2017-12-19 16:32:47
+date: 2017-12-19 16:32:00
 tags:
   - Real Estate
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: THVr1HBwPeo
+youtube_code: 7bg0gbykk9Y
 ---
 
 
@@ -30,7 +30,7 @@ I just wanted to take a moment to thank you for your continued support. I love h
 
 {% include pullquote.html %}
 
-Finally, there are a lot of fun things going on this holiday season. I found a list of holiday events on ConejoValleyGuide.com.&nbsp; If any of the events below peak your interest, be sure to contact the event coordinators, as things sometimes change! Also, some events require RSVP. Check out this list below!
+Finally, there are a lot of fun things going on this holiday season. I found a list of holiday events on ConejoValleyGuide.com.  If any of the events below peak your interest, be sure to contact the event coordinators, as things sometimes change! Also, some events require RSVP. Check out this list below!
 
 **Holiday Events in the area:**
 
@@ -69,13 +69,13 @@ Finally, there are a lot of fun things going on this holiday season. I found a l
 * **12/1-1/1:** Winter Fantasy and Light Show in Oxnard
 * **11/10 to 12/24:**Santa Photos at Pacific View Mall in Ventura
 * **Thru 1/8/17:**L.A. Zoo Lights Holiday Display
-* &nbsp;**Thru 12/24:**Visit and Photos with Santa at Simi Valley Town Center Mall
+* **Thru 12/24:**Visit and Photos with Santa at Simi Valley Town Center Mall
 * **11/24, 12/2-12/24:** Santa's Village at Janss Marketplace
 * **11/18-12/24:** Santa's Cottage at The Promenade at Westlake
 * **12/15-12/23:** Holiday Lights Spectacular Nightly at Janss Marketplace
 * Gift Wrapping Service Fundraiser at The Oaks
 * Gift Wrapping Service Fundraiser at Janss Marketplace
 
-This may be a busy time of year, but I am always here to help you and answer any questions you may have.&nbsp;
+This may be a busy time of year, but I am always here to help you and answer any questions you may have.
 
 And in case I don’t hear from you, have a happy New Year!
