@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What You Need to Know About Radon Gas
-date: 2017-12-18 13:27:08
+date: 2017-12-18 13:27:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/radon-gas-youtube.jpg
-youtube_code: XiEnwX9tL4I
+youtube_code: 5k7lwWDdV8M
 ---
 
 
