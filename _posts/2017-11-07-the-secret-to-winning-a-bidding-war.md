@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Can an Escalation Clause Win You Your Dream Home?
+title: The Secret to Winning a Bidding War
 date: 2017-11-07 12:57:00
 tags:
   - Home Buyer Tips
