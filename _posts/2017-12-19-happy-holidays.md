@@ -20,15 +20,14 @@ youtube_code: 7bg0gbykk9Y
 ---
 
 
-<!--base32-fgjjaz156x12achn4mt30ubecdp7at354mt30ybfenu7ark55tm78vbc4mt3099j6mjkeh3w4mjqr-base32-->
+<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w33ehv62t1tcxrpurttdrv78xtk69hppcb3chpkcxv46dj6atvmdcr7grhjcdq6gw1rewrq2rtnemtkct1tdnj6wx9k6thk6x3375nkcrbpddq3cy37e4u7ax3e6tq7adknchu74tbmd0v3ct1kchjpex3b61jkjx3471v3cxbnddh66vkd6cv7gx3dchq6wdtjexm68rttcxrkcx1tdcv3gbb2c5tpactj-base32-->
 
 Happy holidays to you!
 
 The holiday season has officially arrived. I hope you enjoy this wonderful time of year and make some fantastic memories with your family and friends.
 
 I just wanted to take a moment to thank you for your continued support. I love helping people make their real estate dreams come true, so thank you for working with me.
-
-<!--base32-fgjjaz156x12achn4mt30ubecdp7at354mt30w3ndhp72xbfehjjwu3mdnp2achg4mt3a99q8hy2a9bw-base32-->
+<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w33ehv62t1tcxrpurttdrv78xtk69hppcb3chpkcxv46dj6atvmdcr7grhjcdq6gw1rewrq2rtnemtkct1tdnj6wx9k6thk6w9pchrkce3n6dkkcxvm6xkq4utpcdq6udkdennq2tbdehr7ax1kcnjk0x1p69t7ce33exukcxbr65np6d3qddn7eebjcgrqeutme8wq8rttetn7awkb65jp8ukb6thpebb2c5tpactj-base32-->
 
 Finally, there are a lot of fun things going on this holiday season. I found a list of holiday events on ConejoValleyGuide.com.&nbsp; If any of the events below peak your interest, be sure to contact the event coordinators, as things sometimes change! Also, some events require RSVP. Check out this list below!
 
@@ -56,21 +55,21 @@ Finally, there are a lot of fun things going on this holiday season. I found a l
 
 **Ongoing Holiday Activities:**
 
-* ****Thru&nbsp;**1/7:**Queen Mary's CHILL Ice Adventure Park
-* ****Thru&nbsp;**1/28:**Holiday Ice Rink at The Lakes at Thousand Oaks
-* ****Thru&nbsp;**1/1:**Reindeer at Santa Barbara Zoo
-* ****Thru&nbsp;**12/30**:Westlake Village Trolley Holiday Service
-* ****Thru&nbsp;**1/7:**Enchanted Forest of Light at Descanso Gardens in La Canada
-* ****Thru&nbsp;**12/23**:North Pole Express Train Rides at Fillmore & Western
-* ****Thru&nbsp;**12/24:**Santa HQ at The Oaks Mall
-* ****Thru&nbsp;**12/24**:Photos with Santa at The Collection at RiverPark in Oxnard
-* ****Thru&nbsp;**1/1:**Winter Fantasy and Light Show in Oxnard
+* **Thru 1/7:**Queen Mary's CHILL Ice Adventure Park
+* **Thru 1/28:**Holiday Ice Rink at The Lakes at Thousand Oaks
+* **Thru 1/1:**Reindeer at Santa Barbara Zoo
+* **Thru 12/30:**Westlake Village Trolley Holiday Service
+* **Thru 1/7:**Enchanted Forest of Light at Descanso Gardens in La Canada
+* **Thru 12/23:**North Pole Express Train Rides at Fillmore & Western
+* **Thru 12/24:**Santa HQ at The Oaks Mall
+* **Thru 12/24:**Photos with Santa at The Collection at RiverPark in Oxnard
+* **Thru 1/1:**Winter Fantasy and Light Show in Oxnard
 * **Thru 12/24:**Santa Photos at Pacific View Mall in Ventura
 * **Thru 1/8/17:**L.A. Zoo Lights Holiday Display
 * **Thru 12/24:**Visit and Photos with Santa at Simi Valley Town Center Mall
-* ****Thru&nbsp;**12/24:**Santa's Village at Janss Marketplace
-* ****Thru&nbsp;**12/24:**Santa's Cottage at The Promenade at Westlake
-* ****Thru&nbsp;**12/23:**Holiday Lights Spectacular Nightly at Janss Marketplace
+* **Thru 12/24:**Santa's Village at Janss Marketplace
+* **Thru 12/24:**Santa's Cottage at The Promenade at Westlake
+* **Thru 12/23:**Holiday Lights Spectacular Nightly at Janss Marketplace
 * Gift Wrapping Service Fundraiser at The Oaks
 * Gift Wrapping Service Fundraiser at Janss Marketplace
 
