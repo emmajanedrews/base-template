@@ -16,11 +16,11 @@ youtube_code: 6coNkLf7zZ4
 ---
 
 
-<!--base32-fgjjaz156x12achn4mt30ubecdp7at354mt30ybfenu7ark55tm78vbc4mt3099j6mjkeh3w4mjqr-base32-->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6coNkLf7zZ4?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w33ehv62t1tcxrpurttdrv78xtk69hppcb3chpkcxv46dj6atvmdcr7grhjcdq6gw1rewrq2rtnemtkct1tdnj6wx9k6thk6x3375nkcrbpddq3cy37e4u7ax3e6tq7adknchu74tbmd0v3ct1kchjpex3b61jkjx3471v3cxbnddh66vkd6cv7gx3dchq6wdtjexm68rttcxrkcx1tdcv3gbb2c5tpactj-base32-->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6coNkLf7zZ4?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
 
 The difference between business owners and real estate agents is that business owners tend to focus on profit, rather than commissions
+<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w33ehv62t1tcxrpurttdrv78xtk69hppcb3chpkcxv46dj6atvmdcr7grhjcdq6gw1rewrq2rtnemtkct1tdnj6wx9k6thk6w9pchrkce3n6dkkcxvm6xkq4utpcdq6udkdennq2tbdehr7ax1kcnjk0x1p69t7ce33exukcxbr65np6d3qddn7eebjcgrqeutme8wq8rttetn7awkb65jp8ukb6thpebb2c5tpactj-base32-->
 
-<!--base32-fgjjaz156x12achn4mt30ubecdp7at354mt30w3ndhp72xbfehjjwu3mdnp2achg4mt3a99q8hy2a9bw-base32-->
-
-This is because the point of a business is to turn a profit. I can’t tell you how many agents I meet with who don’t have any idea what their profits are like.&nbsp;<br><br>If you don’t know whether you’re on track with making a profit, you should. Based on your income level, what should you be taking home for a net profit?<br><br>I’ve got some great PowerPoint slides that can help you determine these numbers. They’re from the new Keller Williams course “Business by the Book,” and they’re available for download&nbsp;[here&nbsp;](https://s3.amazonaws.com/vyralmarketing/Jerimiah+Taylor/PDFs/Like+a+Business.pdf)and&nbsp;[here](https://s3.amazonaws.com/vyralmarketing/Jerimiah+Taylor/PDFs/Like+a+Business+(2).pdf).<br><br>If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+This is because the point of a business is to turn a profit.** I can’t tell you how many agents I meet with who don’t have any idea what their profits are like.&nbsp;**<br><br>If you don’t know whether you’re on track with making a profit, you should. Based on your income level, what should you be taking home for a net profit?<br><br>I’ve got some great PowerPoint slides that can help you determine these numbers. They’re from the new Keller Williams course “Business by the Book,” and they’re available for download&nbsp;[here&nbsp;](https://s3.amazonaws.com/vyralmarketing/Jerimiah+Taylor/PDFs/Like+a+Business.pdf)and&nbsp;[here](https://s3.amazonaws.com/vyralmarketing/Jerimiah+Taylor/PDFs/Like+a+Business+(2).pdf).<br><br>If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
