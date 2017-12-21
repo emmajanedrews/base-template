@@ -17,7 +17,7 @@ youtube_code: tLI05JE1gDU
 ---
 
 
-<!--base32-fgjjaz156x12achn4mt30ubecdp7at354mt30ybfenu7ark55tm78vbc4mt3099j6mjkeh3w4mjqr-base32-->
+{% include youtube.html %}
 
 *We’ve had an incredible year, thanks to all of you. With the little time we have left, I’d like to talk about an opportunity we have for you that will help a lot of kids.*
 
