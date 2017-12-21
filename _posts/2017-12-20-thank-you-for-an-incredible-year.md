@@ -17,15 +17,15 @@ youtube_code: tLI05JE1gDU
 ---
 
 
-{% include youtube.html %}
+<!--base32-fgjjaz156x12achn4mt30ubecdp7at354mt30ybfenu7ark55tm78vbc4mt3099j6mjkeh3w4mjqr-base32-->
 
 *We’ve had an incredible year, thanks to all of you. With the little time we have left, I’d like to talk about an opportunity we have for you that will help a lot of kids.*
 
-Thank you all for an incredible 2017! &nbsp;We had the opportunity to **serve over 367 happy clients,** and we wanted to thank you for helping us hit our goal of serving people and saving kids by selling real estate.
+Thank you all for an incredible 2017! &nbsp;We had the opportunity to **serve over 267 happy clients,** and we wanted to thank you for helping us hit our goal of serving people and saving kids by selling real estate.
 
 We had a big goal for saving kids; we wanted to earn $1 million, and we’re a little over $920,000. **We have an incredible opportunity for you.**&nbsp;If you know anyone who is thinking about buying or selling real estate in the next 10 days, contact us. Our traditional 10% that we give back to the organization is now going to be 100%. That’s right: 100%! Why is that? Because we really want to hit that million-dollar goal.
 
-{% include pullquote.html %}
+<!--base32-fgjjaz156x12achn4mt30ubecdp7at354mt30w3ndhp72xbfehjjwu3mdnp2achg4mt3a99q8hy2a9bw-base32-->
 
 Most of all, thank you so much for coming out and seeing us two weeks ago at our client appreciation event and free Christmas tree giveaway. **We gave more than 200 trees away,** and over 400 people braved that terrible weather.
 
