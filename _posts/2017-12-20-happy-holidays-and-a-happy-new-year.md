@@ -18,6 +18,6 @@ youtube_code: kBu1i_QVKpc
 ---
 
 
-<!--base32-fgjjaz156x12achn4mt30ubecdp7at354mt30ybfenu7ark55tm78vbc4mt3099j6mjkeh3w4mjqr-base32-->
+{% include youtube.html %}
 
 Today, I just want to take a moment to wish you a happy holiday season. Thank you for the tremendous success we’ve had in 2017. It was a record-breaking year here at The Scott Irvin Team, and we couldn’t have done it without you. We look forward to seeing you in 2018, and wish you a safe, healthy, and happy New Year. For my full holiday message, watch this short video.
