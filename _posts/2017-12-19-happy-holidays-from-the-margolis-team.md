@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Have a Very Merry Christmas and a Happy New Year
-date: 2017-12-19 13:06:26
+title: Happy Holidays From the Margolis Team
+date: 2017-12-19 13:06:00
 tags:
 excerpt: >-
   Merry Christmas and happy New Year from beautiful Kaua’i! We are so grateful
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: MZSKFBhp0Cc
+youtube_code: vJ3u6p5odLA
 ---
 
 
@@ -20,7 +20,7 @@ youtube_code: MZSKFBhp0Cc
 
 Aloha and happy holidays from beautiful Kaua’i!
 
-**My wife and I have been very blessed to have helped people find or sell homes for the past 13 years.&nbsp;**Whether people come to Kaua’i for retirement, to find a slower pace of life, or to find a more exciting life hiking, biking, surfing, and golfing in this beautiful area, it’s a place where families come together to make memories for a lifetime.
+**My wife and I have been very blessed to have helped people find or sell homes for the past 13 years.**Whether people come to Kaua’i for retirement, to find a slower pace of life, or to find a more exciting life hiking, biking, surfing, and golfing in this beautiful area, it’s a place where families come together to make memories for a lifetime.
 
 This holiday season, we want to say thank you to those we’ve had the privilege to serve. To those of you who may one day own a piece of paradise or need to sell a property here, we value the opportunity to be of service in the future.
 
@@ -37,5 +37,3 @@ On behalf of my team, I would like to wish you joy, health, peace, and abundance
 As always, if you have any questions, please don’t hesitate to reach out to us.
 
 Mele Kalikimaka me ka hauʻoli makahiki hou!
-
-&nbsp;
