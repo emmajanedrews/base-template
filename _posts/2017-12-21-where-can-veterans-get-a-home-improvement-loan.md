@@ -18,9 +18,7 @@ youtube_code: NrD6t6r3FI4
 ---
 
 
-<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w33ehv62t1tcxrpurttdrv78xtk69hppcb3chpkcxv46dj6atvmdcr7grhjcdq6gw1rewrq2rtnemtkct1tdnj6wx9k6thk6x3375nkcrbpddq3cy37e4u7ax3e6tq7adknchu74tbmd0v3ct1kchjpex3b61jkjx3471v3cxbnddh66vkd6cv7gx3dchq6wdtjexm68rttcxrkcx1tdcv3gbb2c5tpactj-base32-->
-
-<!--base32-fgjjaz156x12achn4mt30ubecdp7at354mt30ybfenu7ark55tm78vbc4mt3099j6mjkeh3w4mjqr-base32-->
+{% include youtube.html %}
 
 If you’re a veteran looking for a home improvement loan to make some upgrades to your home, I have good news and bad news.
 
@@ -28,8 +26,7 @@ The bad news is the VA doesn’t offer any loans for this purpose. **The good ne
 
 There are a couple very favorable terms to this loan. Not only will they go up to 20 years on the loan at below market rate, but you don’t have to provide a down payment either.
 
-<!--base32-fgjjaz156x12achn4mt30ubecdp7at354mt30w3ndhp72xbfehjjwu3mdnp2achg4mt3a99q8hy2a9bw-base32-->
-<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w33ehv62t1tcxrpurttdrv78xtk69hppcb3chpkcxv46dj6atvmdcr7grhjcdq6gw1rewrq2rtnemtkct1tdnj6wx9k6thk6w9pchrkce3n6dkkcxvm6xkq4utpcdq6udkdennq2tbdehr7ax1kcnjk0x1p69t7ce33exukcxbr65np6d3qddn7eebjcgrqeutme8wq8rttetn7awkb65jp8ukb6thpebb2c5tpactj-base32-->
+{% include pullquote.html %}
 
 **To apply for this loan, just go online at [www.texasveterans.com](www.texasveterans.com).** From there, they’ll contact you to get the ball rolling.
 
