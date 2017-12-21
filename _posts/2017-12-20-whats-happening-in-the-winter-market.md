@@ -17,11 +17,11 @@ youtube_code: FhRGTH7YqU0
 ---
 
 
-{% include youtube.html %}
+<!--base32-fgjjaz156x12achn4mt30ubecdp7at354mt30ybfenu7ark55tm78vbc4mt3099j6mjkeh3w4mjqr-base32-->
 
 As we get close to the holiday season, I wanted to thank everyone for watching my videos, for your referrals, and for your business.
 
-**I really appreciate everyone out there who has made 2017 such a great year**for me and my team. I hope our services have made it a great year for you as well.
+**I really appreciate everyone out there who has made 2017 such a great year&nbsp;**for me and my team. I hope our services have made it a great year for you as well.
 
 Today, we are going to have a winter real estate update. In the next couple of weeks, I’ll go over a year to year real estate wrap up to see how the 2017 market did compared to the 2016 market. Right now, let’s see how November 2017 compares to November 2016.
 
@@ -29,7 +29,7 @@ Today, we are going to have a winter real estate update. In the next couple of w
 
 Sales are also up from 107 sales in November 2016 to 126 home sales this November.
 
-{% include pullquote.html %}
+<!--base32-fgjjaz156x12achn4mt30ubecdp7at354mt30w3ndhp72xbfehjjwu3mdnp2achg4mt3a99q8hy2a9bw-base32-->
 
 We are definitely seeing inventory drop and sales are on the rise, which can only improve our prices.
 
