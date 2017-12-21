@@ -19,6 +19,8 @@ youtube_code: DQoxoELR33s
 
 <!--base32-fgjjaz156x12achn4mt30ubecdp7at354mt30ybfenu7ark55tm78vbc4mt3099j6mjkeh3w4mjqr-base32-->
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DQoxoELR33s" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 Whatever your goals for your business are in the coming new year, I’ve got a great tool to share with you that can help you achieve them.
 
 This tool is a spreadsheet that will tell you exactly what your activities must be throughout the year to reach a certain income.** I’ve used this goal calculator for years and am actually going to be teaching a course on it soon.** If you’re interested in joining that class, let me know so I can get you enrolled.
