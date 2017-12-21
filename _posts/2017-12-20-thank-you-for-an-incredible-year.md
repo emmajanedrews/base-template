@@ -25,8 +25,6 @@ Thank you all for an incredible 2017! &nbsp;We had the opportunity to **serve ov
 
 We had a big goal for saving kids; we wanted to earn $1 million, and we’re a little over $920,000. **We have an incredible opportunity for you.**&nbsp;If you know anyone who is thinking about buying or selling real estate in the next 10 days, contact us. Our traditional 10% that we give back to the organization is now going to be 100%. That’s right: 100%! Why is that? Because we really want to hit that million-dollar goal.
 
-<!--base32-fgjjaz156x12achn4mt30ubecdp7at354mt30w3ndhp72xbfehjjwu3mdnp2achg4mt3a99q8hy2a9bw-base32-->
-
 Most of all, thank you so much for coming out and seeing us two weeks ago at our client appreciation event and free Christmas tree giveaway. **We gave more than 200 trees away,** and over 400 people braved that terrible weather.
 
 We can’t say it enough: **Thank you so much for allowing us to fulfill our mission.** It’s been an incredible year, and I can’t wait for 2018.
