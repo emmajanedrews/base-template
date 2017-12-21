@@ -29,7 +29,7 @@ Here are five tips you as a pet owner should heed during your home search to ens
 
 **2. Understand your yard use and fencing ability.** If you’re buying in a single-family home area or a condo area, there will be different regulations concerning what you can do with your yard. Even with single-family homes, you need to make sure you understand where you can put a fence and how you can construct that fence. With condos and duplexes, you may not have the ability to put up a fence, or if you do, you might only be in a certain area.
 
-{% include youtube.html %}
+{% include pullquote.html %}
 
 **3. Choose the right location.** Obviously, neighborhoods with sidewalks are very desirable for pet owners. Living next to a busy road with a pet who needs to go out a lot, however, can be difficult and potentially dangerous for that pet. Living by a forest or a natural habitat can also be dangerous if you own a smaller pet because wild animals may live in close proximity.
 
