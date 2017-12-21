@@ -4,31 +4,17 @@ title: What Does the Fed’s Recent Interest Rate Hike Mean for You?
 date: 2017-12-15 10:57:00
 tags:
   - Real Estate
-excerpt: >-
-  I’m joined today by my preferred lender, Brian McKim over at SkyLine Home
-  Plans, to talk about the Fed’s recent interest rate increase and how it’s
-  going to affect you.
-enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+An+update+on+interest+rates.mp4
-pullquote: We don’t expect any major changes in the mortgage market.
+excerpt: The holiday season is here and we couldn’t be more excited.
+enclosure:
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: mRvxMsxg3Mc
+youtube_code: LOl4DhlNDUw
 ---
 
 
 {% include youtube.html %}
 
-I’m joined today by my preferred lender, Brian McKim over at SkyLine Home Plans, to talk about the Fed’s recent interest rate increase and how it’s going to affect you.
-
-**In case you haven’t heard already, the FED raised rates by .25% this week.**However, this has been long expected and has been priced into the market for the last few months. The FED also announced that they would probably raise rates again two or three times in 2018.
-
-{% include pullquote.html %}
-
-**Even though the FED has increased their rates, mortgage interest rates have not been affected.** They remain excellent and are still near historic lows. We don’t expect any major changes in the mortgage rate market for the time being.
-
-If you have any questions in the meantime, give us a call or send us an email. We look forward to hearing from you.
-
-![](/uploads/versions/cost-of-waiting-mckim-1-2---x----775-977x---.jpg)
+The holiday season is here and we couldn’t be more excited. From our family to yours, we wanted to wish you all the best this year. We hope you have a merry Christmas, a happy New Year, and a joyous holiday season. Thank you for a wonderful year. To see our full holiday message, watch this short video.
