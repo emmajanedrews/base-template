@@ -30,6 +30,8 @@ Also, because fewer transactions occur at this time of year, you will have the u
 
 Finally, this time of year is great to buy because depending on how you buy your property, some closing costs may be tax deductible.
 
+<!--base32-fgjjaz156x12achn4mt30ubecdp7at354mt30w3ndhp72xbfehjjwu3mdnp2achg4mt3a99q8hy2a9bw-base32-->
+
 So, now that we’ve established that this time of year is the best time to buy in general, what about right now, specifically? Is this moment in time truly the best time to buy? The answer is yes.
 
 Currently, you could get a 30-year mortgage at an interest rate at 3.5% for a monthly payment of approximately $1,475,000. But this won’t last. Interest rates are going to rise. While your interest rate may not impact your monthly payment much, a higher interest rate would absolutely mean a lower loan amount.
