@@ -20,7 +20,7 @@ youtube_code: 518sYreq21k
 ---
 
 
-<!--base32-fgjjaz156x12achn4mt30ubecdp7at354mt30ybfenu7ark55tm78vbc4mt3099j6mjkeh3w4mjqr-base32-->
+{% include youtube.html %}
 
 What’s the best way to structure a listing appointment?
 
@@ -34,7 +34,7 @@ From there, we set the listing appointment. Sometimes we do a one-step appointme
 
 The second thing we do is prepare for the appointment. We will pull all of the information from the public record that we can. If possible, we’ll pull a deed. We’ll also look at previous listing information and put together a **listing preparation packet.** We also add a listing presentation manual; we have 100 of those pre-printed at a time.
 
-<!--base32-fgjjaz156x12achn4mt30ubecdp7at354mt30w3ndhp72xbfehjjwu3mdnp2achg4mt3a99q8hy2a9bw-base32-->
+{% include pullquote.html %}
 
 Next, show up at the appointment and ask if they have a kitchen table you can set your things down on. From there, walk through the house with them. This gives you the opportunity to take notes, ask questions, learn more about the seller, and make a connection with them. Remember, it’s important to be super complimentary when you are walking through the home. This is also a good time to ask them what they love most about the property.
 
