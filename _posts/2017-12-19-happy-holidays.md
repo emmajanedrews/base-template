@@ -63,15 +63,15 @@ Finally, there are a lot of fun things going on this holiday season. I found a l
 * **Thru 12/23:&nbsp;**North Pole Express Train Rides at Fillmore & Western
 * **Thru 12/24:&nbsp;**Santa HQ at The Oaks Mall
 * **Thru 12/24:**Photos with Santa at The Collection at RiverPark in Oxnard
-* **Thru 1/1:**Winter Fantasy and Light Show in Oxnard
-* **Thru 12/24:**Santa Photos at Pacific View Mall in Ventura
-* **Thru 1/8/17:**L.A. Zoo Lights Holiday Display
-* **Thru 12/24:**Visit and Photos with Santa at Simi Valley Town Center Mall
-* **Thru 12/24:**Santa's Village at Janss Marketplace
-* **Thru 12/24:**Santa's Cottage at The Promenade at Westlake
-* **Thru 12/23:**Holiday Lights Spectacular Nightly at Janss Marketplace
-* Gift Wrapping Service Fundraiser at The Oaks
-* Gift Wrapping Service Fundraiser at Janss Marketplace
+* **Thru 1/1:&nbsp;**Winter Fantasy and Light Show in Oxnard
+* **Thru 12/24:&nbsp;**Santa Photos at Pacific View Mall in Ventura
+* **Thru 1/8/17:&nbsp;**L.A. Zoo Lights Holiday Display
+* **Thru 12/24:&nbsp;**Visit and Photos with Santa at Simi Valley Town Center Mall
+* **Thru 12/24:&nbsp;**Santa's Village at Janss Marketplace
+* **Thru 12/24:&nbsp;**Santa's Cottage at The Promenade at Westlake
+* **Thru 12/23:&nbsp;**Holiday Lights Spectacular Nightly at Janss Marketplace
+* **Gift Wrapping Service Fundraiser at The Oaks**
+* **Gift Wrapping Service Fundraiser at Janss Marketplace**
 
 This may be a busy time of year, but I am always here to help you and answer any questions you may have.
 
