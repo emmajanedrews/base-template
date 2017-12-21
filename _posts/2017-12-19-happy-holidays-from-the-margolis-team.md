@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Happy Holidays From the Margolis Team
+title: Happy Holidays From <br> the Margolis Team
 date: 2017-12-19 13:06:00
 tags:
 excerpt: >-
