@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Facts You Need to Know About the Home Flipping Craze
-date: 2017-12-20 17:21:12
+date: 2017-12-20 17:21:00
 tags:
   - Real Estate
 excerpt: >-
@@ -10,12 +10,13 @@ excerpt: >-
   are excited to see the improvements made to a flipped home. If you are
   interested in the house flipping craze, there are three things that you should
   know. To find out what they are, watch this short video.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Seth+%26+Alyce+Dailey/3+Facts+You+Need+to+Know+About+the+Home+Flipping+Craze.mp4
 pullquote: 'Today, flips involve improvements that increase the home’s value.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/dailey-group2.jpg
 youtube_code: JWedmQNnNb4
 ---
 
