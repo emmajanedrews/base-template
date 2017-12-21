@@ -19,6 +19,8 @@ youtube_code: FhRGTH7YqU0
 
 <!--base32-fgjjaz156x12achn4mt30ubecdp7at354mt30ybfenu7ark55tm78vbc4mt3099j6mjkeh3w4mjqr-base32-->
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FhRGTH7YqU0?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 As we get close to the holiday season, I wanted to thank everyone for watching my videos, for your referrals, and for your business.
 
 **I really appreciate everyone out there who has made 2017 such a great year&nbsp;**for me and my team. I hope our services have made it a great year for you as well.
