@@ -5,7 +5,8 @@ date: 2017-12-15 10:57:00
 tags:
   - Real Estate
 excerpt: The holiday season is here and we couldn’t be more excited.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Wishing+you+the+best.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
