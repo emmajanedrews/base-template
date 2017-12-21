@@ -20,7 +20,7 @@ youtube_code: b-wVppA5MSs
 ---
 
 
-<!--base32-fgjjaz156x12achn4mt30ubecdp7at354mt30ybfenu7ark55tm78vbc4mt3099j6mjkeh3w4mjqr-base32-->
+{% include youtube.html %}
 
 What percentage of your monthly income should you be spending on housing?
 
@@ -30,7 +30,7 @@ When they get those two numbers and add them up, they like to see those two numb
 
 Use that 42% as a rule of thumb—**42% of your monthly income can be allocated for housing and debt obligations monthly.**
 
-<!--base32-fgjjaz156x12achn4mt30ubecdp7at354mt30w3ndhp72xbfehjjwu3mdnp2achg4mt3a99q8hy2a9bw-base32-->
+{% include pullquote.html %}
 
 The next question is: Is that helpful for you and your family in the future? **I always suggest that our clients don’t go up to that 42% mark.** If you do, you’re typically going to have trouble saving and creating an emergency fund if something were to go wrong. It’s easy to get stressed out if you don’t have any margin in your budget at all.
 
