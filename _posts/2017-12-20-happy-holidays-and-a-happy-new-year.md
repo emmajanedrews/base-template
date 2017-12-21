@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Happy Holidays and a Happy New Year!
-date: 2017-12-20 14:19:06
+date: 2017-12-20 14:19:00
 tags:
   - Real Estate
 excerpt: >-
@@ -13,7 +13,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/holidays-youtube.jpg
+youtube_alternate_image: /uploads/holidays-youtube-4.jpg
 youtube_code: kBu1i_QVKpc
 ---
 
