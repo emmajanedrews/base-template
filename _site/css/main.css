@@ -1463,7 +1463,8 @@ html[xmlns] .flexslider .slides {
   border: 0;
   background: transparent;
   color: #D2121D;
-  margin-top: 15px; }
+  margin-top: 15px;
+  font-weight: 500; }
   .navbar-left > li > a:hover {
     background: transparent;
     color: #f15962; }
@@ -1479,7 +1480,8 @@ html[xmlns] .flexslider .slides {
 
 .navbar {
   padding-right: 15px;
-  padding-left: 15px; }
+  padding-left: 20px;
+  text-transform: uppercase; }
 
 @media(max-width: 347px) {
   .navbar {

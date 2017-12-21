@@ -56,7 +56,7 @@ lender:
   address: 505 North Brand Blvd. 15th Fl<br>Glendale, CA 91203
 
 welcome_box:
-  welcome_headline: Sign up for our -- MARKET -- Newsletter
+  welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
     Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
     advice. Whether you are a buyer, seller, or investor, our team of
@@ -71,7 +71,7 @@ socials:
   gplus_url: https://plus.google.com/u/0/+BradKorb/about
   youtube_url: https://www.youtube.com/channel/UCiJwvniUev3k1C6rqTEvscQ
   twitter_url: https://twitter.com/bradkorb
-  instagram_url: https://www.instagram.com/bradkorbrealestategroup/
+  instagram_url:
   pinterest_url:
   zillow_url: http://www.zillow.com/profile/Brad-Korb/
   trulia_url: http://www.trulia.com/profile/brad-korb-agent-burbank-ca-77679
@@ -91,7 +91,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 60
-  hero_text: L.A. Real Estate Video Blog
+  hero_text: Real Estate Video Blog
   hero_background_hex: '#034275'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
