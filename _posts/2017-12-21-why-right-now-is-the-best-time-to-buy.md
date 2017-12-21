@@ -12,11 +12,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/abel-youtube-2-4.jpg
-youtube_code:
+youtube_code: >-
+  <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/QaiBJoxo4oc" frameborder="0"
+  gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 ---
 
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/QaiBJoxo4oc" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+<!--base32-fgjjaz156x12achn4mt30ubecdp7at354mt30ybfenu7ark55tm78vbc4mt3099j6mjkeh3w4mjqr-base32-->
 
 One question I hear frequently is, “Is right now the best time to buy a house?”
 
@@ -31,6 +34,7 @@ Also, because fewer transactions occur at this time of year, you will have the u
 Finally, this time of year is great to buy because **depending on how you buy your property, some closing costs may be tax deductible.**
 
 <!--base32-fgjjaz156x12achn4mt30ubecdp7at354mt30w3ndhp72xbfehjjwu3mdnp2achg4mt3a99q8hy2a9bw-base32-->
+<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w33ehv62t1tcxrpurttdrv78xtk69hppcb3chpkcxv46dj6atvmdcr7grhjcdq6gw1rewrq2rtnemtkct1tdnj6wx9k6thk6w9pchrkce3n6dkkcxvm6xkq4utpcdq6udkdennq2tbdehr7ax1kcnjk0x1p69t7ce33exukcxbr65np6d3qddn7eebjcgrqeutme8wq8rttetn7awkb65jp8ukb6thpebb2c5tpactj-base32-->
 
 So, now that we’ve established that this time of year is the best time to buy in general, what about right now, specifically? Is this moment in time truly the best time to buy? The answer is yes.
 
