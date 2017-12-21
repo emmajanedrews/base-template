@@ -1,0 +1,33 @@
+---
+layout: post
+title: Wrapping Up 2017 and Looking Forward to 2018
+date: 2017-12-21 15:02:05
+tags:
+  - Real Estate
+excerpt: >-
+  As we wrap up 2017 and look toward 2018, I want to thank you for allowing me
+  to share my experience and knowledge with you.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jonathan+Carbutti/Wrapping+Up+2017+and+Looking+Forward+to+2018.mp4
+pullquote: 2018 will be a record year for real estate.
+enclosure_type: video/mp4
+enclosure_time:
+use_youtube_image: false
+youtube_alternate_image: /uploads/carbutti-2-ss-1.jpg
+youtube_code: r_J4UYEYuTc
+---
+
+
+<!--base32-fgjjaz156x12achn4mt30ubecdp7at354mt30ybfenu7ark55tm78vbc4mt3099j6mjkeh3w4mjqr-base32-->
+
+I have a short holiday message to share with you as we end 2017 and look toward 2018.
+
+I appreciate all the emails and private messages of everyone who’s been watching our video blog all year long and asking questions and advice. I enjoy sharing the knowledge and experience I have in real estate and coaching and mentoring newer agents, whether you work for my company or somewhere else.
+
+Remember that 2018 will be a record year for real estate, so make sure you have your systems, processes, and leverage in place.
+
+<!--base32-fgjjaz156x12achn4mt30ubecdp7at354mt30w3ndhp72xbfehjjwu3mdnp2achg4mt3a99q8hy2a9bw-base32-->
+
+<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w33ehv62t1tcxrpurttdrv78xtk69hppcb3chpkcxv46dj6atvmdcr7grhjcdq6gw1rewrq2rtnemtkct1tdnj6wx9k6thk6w9pchrkce3n6dkkcxvm6xkq4utpcdq6udkdennq2tbdehr7ax1kcnjk0x1p69t7ce33exukcxbr65np6d3qddn7eebjcgrqeutme8wq8rttetn7awkb65jp8ukb6thpebb2c5tpactj-base32--><!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1pcnh3et9mervkgtb2c8v74xtq61vk2w33dtm36tbm75ppawkpddkq8rhjccw7cdtmf1u72dhhetnkcrvp6nj32xhkcdhppv9p6nukcdkt6dn6acbne4u7gcvdcdm78dv3chu74thhemv70t38ehj32whq61t7cchpchm70tvq6dh66t3q6xhp8cbgcdm6wcv3e9h6utbme1r3gwkpd8v7guvh6huk6rb3chn3eck4dcvpaxvje4u78rkhcmwq4utmexnput3md9r7ay1kc9hp8x9k69w36d34ehq36rvrett3edbeddhqgctrchhqcdv5cnh6erv4dmvk8xbp6dhpux3gexj6pd34chq70dkt6dr68vbp6xkqaxk86tm7aw9rewtk6rv8e9np6y326hj68uhpc5v6ptb56hu3ee3jdcu66vkd6wu68xhhcrr74w3ge9v6at1tdtnk0y9hd1jk0xhkd9w32wb3chn6pdk3erupccbne1r74xkjccwq8cv3chh6at9gerv3grvpd1hpguhpexj7cdb3dtm3cvbjervpaebje1gqgrkdchq6muv7f1v6gdthegvkgy1k6njpgw9kcnt64wb4chm36rv4c9gpac3q6xgqaxhj6tu7adk7ewtkarttd0tk8wkmdtjpgwhp69t7cvb471r70d3jc9np6vbmdcu2urk1edjk6cg-base32-->
+
+As always, if you have any questions, don’t hesitate to reach out to me. In the meantime, happy holidays and have a happy New Year!
