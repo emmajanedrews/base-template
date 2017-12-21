@@ -57,20 +57,20 @@ Finally, there are a lot of fun things going on this holiday season. I found a l
 **Ongoing Holiday Activities:**
 
 * ****Thru&nbsp;**1/7:**Queen Mary's CHILL Ice Adventure Park
-* ****Thru&nbsp;**1/28:** Holiday Ice Rink at The Lakes at Thousand Oaks
-* ****Thru&nbsp;**1/1:** Reindeer at Santa Barbara Zoo
-* ****Thru&nbsp;**12/30**: Westlake Village Trolley Holiday Service
-* ****Thru&nbsp;**1/7:** Enchanted Forest of Light at Descanso Gardens in La Canada
-* ****Thru&nbsp;**12/23**: North Pole Express Train Rides at Fillmore & Western
-* ****Thru&nbsp;**12/24:** Santa HQ at The Oaks Mall
-* ****Thru&nbsp;**12/24**: Photos with Santa at The Collection at RiverPark in Oxnard
-* ****Thru&nbsp;**1/1:** Winter Fantasy and Light Show in Oxnard
+* ****Thru&nbsp;**1/28:**Holiday Ice Rink at The Lakes at Thousand Oaks
+* ****Thru&nbsp;**1/1:**Reindeer at Santa Barbara Zoo
+* ****Thru&nbsp;**12/30**:Westlake Village Trolley Holiday Service
+* ****Thru&nbsp;**1/7:**Enchanted Forest of Light at Descanso Gardens in La Canada
+* ****Thru&nbsp;**12/23**:North Pole Express Train Rides at Fillmore & Western
+* ****Thru&nbsp;**12/24:**Santa HQ at The Oaks Mall
+* ****Thru&nbsp;**12/24**:Photos with Santa at The Collection at RiverPark in Oxnard
+* ****Thru&nbsp;**1/1:**Winter Fantasy and Light Show in Oxnard
 * **Thru 12/24:**Santa Photos at Pacific View Mall in Ventura
 * **Thru 1/8/17:**L.A. Zoo Lights Holiday Display
 * **Thru 12/24:**Visit and Photos with Santa at Simi Valley Town Center Mall
-* ****Thru&nbsp;**12/24:** Santa's Village at Janss Marketplace
-* ****Thru&nbsp;**12/24:** Santa's Cottage at The Promenade at Westlake
-* ****Thru&nbsp;**12/23:** Holiday Lights Spectacular Nightly at Janss Marketplace
+* ****Thru&nbsp;**12/24:**Santa's Village at Janss Marketplace
+* ****Thru&nbsp;**12/24:**Santa's Cottage at The Promenade at Westlake
+* ****Thru&nbsp;**12/23:**Holiday Lights Spectacular Nightly at Janss Marketplace
 * Gift Wrapping Service Fundraiser at The Oaks
 * Gift Wrapping Service Fundraiser at Janss Marketplace
 
