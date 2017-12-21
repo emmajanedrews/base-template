@@ -14,7 +14,7 @@ youtube_code: yXhwGYblPGk
 ---
 
 
-<!--base32-fgjjaz156x12achn4mt30ubecdp7at354mt30ybfenu7ark55tm78vbc4mt3099j6mjkeh3w4mjqr-base32-->
+{% include youtube.html %}
 
 I just wanted to let everyone know that we are hiring for 2018.
 
@@ -25,8 +25,6 @@ Whether you had thought about a career in real estate and not had time to transi
 Even if you are an established agent who needs more support for administrative work and marketing, I’d love to talk with you.
 
 **We have a good track record of getting new agents into the business** through different career paths, and we’re really proud of that. We are looking to grow our team, and we have a great value proposition that I’d love to talk to everyone about.
-
-<!--base32-fgjjaz156x12achn4mt30ubecdp7at354mt30w3ndhp72xbfehjjwu3mdnp2achg4mt3a99q8hy2a9bw-base32-->
 
 There are 26,000 real estate agents in Maryland and the D.C. area, and about 100,000 homes sell each year in Maryland. Some might say that the industry is over-serviced, but I disagree.
 
