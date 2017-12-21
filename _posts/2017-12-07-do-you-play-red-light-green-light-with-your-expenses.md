@@ -17,6 +17,7 @@ youtube_code: qfohrg5qo6w
 
 
 <!--base32-fgjjaz156x12achn4mt30ubecdp7at354mt30ybfenu7ark55tm78vbc4mt3099j6mjkeh3w4mjqr-base32-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfohrg5qo6w?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 As real estate agents, it’s very important that you play “Red Light, Green Light” with your expenses.<br><br>**In other words, we agents have to hold our money accountable**, especially as you make investments to grow your business. You need to understand that those are investments, not expenses.<br><br>We meet so many agents who throw their money at different things. When we ask what kind of return on investment they get on those, they shrug their shoulders. Frankly, they have no clue what their ROI is.&nbsp;
 
