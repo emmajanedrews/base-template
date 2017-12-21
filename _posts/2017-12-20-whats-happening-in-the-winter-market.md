@@ -8,7 +8,7 @@ excerpt: >-
   What’s happening in our local real estate market this winter? I’ll go over the
   latest numbers for you today.
 enclosure:
-pullquote: 'Demand is still quite high, so it’s a great time to sell.'
+pullquote: Demand is still quite high, so it’s a great time to sell.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
