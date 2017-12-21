@@ -17,6 +17,7 @@ youtube_code: 6coNkLf7zZ4
 
 
 <!--base32-fgjjaz156x12achn4mt30ubecdp7at354mt30ybfenu7ark55tm78vbc4mt3099j6mjkeh3w4mjqr-base32-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6coNkLf7zZ4?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 The difference between business owners and real estate agents is that business owners tend to focus on profit, rather than commissions
 
