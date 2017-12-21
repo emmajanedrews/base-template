@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Does the Fed’s Recent Interest Rate Hike Mean for You?
+title: 'From Our Family to Yours, Happy Holidays'
 date: 2017-12-15 10:57:00
 tags:
   - Real Estate
