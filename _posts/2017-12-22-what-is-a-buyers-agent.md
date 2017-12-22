@@ -2,7 +2,7 @@
 layout: post
 title: What Is a Buyer’s Agent?
 tags:
-  - Home Seller Tips
+  - Home Buyer Tips
 excerpt: >-
   Meet Laura Jones, our buyer’s agent, and find out what she does, why it’s
   important to clients, and why it’s important to her.
@@ -21,7 +21,7 @@ youtube_code: 4vL3tCRCuP8
 
 Today I wanted to introduce you to Laura Jones, the buyer’s agent for our team here at Carter Property Group, so that you can get to know her and have some of your questions answered by her.
 
-**What’s a buyer’s agent?**<br><br>I focus solely on the purchase of our clients’ homes. First-time homebuyers, investors, upsizing, downsizing—I only work on the buy side of the transaction. &nbsp;Any client we have has to sit down with me for a consultation. I’m able to get an idea of their needs in about 30 to 40 minutes. &nbsp;Once we do that, we begin searching and going out into the field to look at homes. After that, when we’re ready, I write the contract and negotiate the terms.
+**What’s a buyer’s agent?**<br><br>I focus solely on the purchase of our clients’ homes. First-time homebuyers, investors, upsizing, downsizing—I only work on the buy side of the transaction.  Any client we have has to sit down with me for a consultation. I’m able to get an idea of their needs in about 30 to 40 minutes.  Once we do that, we begin searching and going out into the field to look at homes. After that, when we’re ready, I write the contract and negotiate the terms.
 
 So essentially, I do needs-assessment through a consultation, preview homes on the MLS, set up searches for people, take people out into the field to view homes (sometimes as many as 40 properties a week), write offers and negotiate terms once a property is selected, and eventually get it under contract. I’m able to service clients at a very high level.
 
