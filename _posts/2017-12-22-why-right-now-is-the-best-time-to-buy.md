@@ -35,7 +35,7 @@ Finally, this time of year is great to buy because **depending on how you buy yo
 
 So, now that we’ve established that this time of year is the best time to buy in general, what about right now, specifically? Is this moment in time truly the best time to buy? The answer is yes.
 
-Currently, you could get a 30-year mortgage at an interest rate at 3.5% for a monthly payment of approximately $1,475,000. But this won’t last. Interest rates are going to rise. While your interest rate may not impact your monthly payment much, a higher interest rate would absolutely mean a lower loan amount.
+Currently, you could get a 30-year mortgage at an interest rate at 3.5% for a monthly payment of approximately $1,475.35. But this won’t last. Interest rates are going to rise. While your interest rate may not impact your monthly payment much, a higher interest rate would absolutely mean a lower loan amount.
 
 **The difference between a loan you obtain now versus one you get later could be tens of thousands of dollars.** So, why wait?
 
