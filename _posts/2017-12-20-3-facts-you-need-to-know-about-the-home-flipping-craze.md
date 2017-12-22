@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/dailey-group2.jpg
-youtube_code: 8-ZOBgRuaD4
+youtube_code: GEWkdNhRItQ
 ---
 
 
