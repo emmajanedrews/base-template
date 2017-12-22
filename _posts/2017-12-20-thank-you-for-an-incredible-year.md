@@ -7,7 +7,8 @@ excerpt: >-
   We’ve had an incredible year, thanks to all of you. With the little time we
   have left, I’d like to talk about an opportunity we have for you that will
   help a lot of kids.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/%231+Real+Estate+Team+in+the+Portland+Metro++SW+Washington+Thank+you+and+happy+holidays.mp4
 pullquote: We had the opportunity to serve over 367 happy clients
 enclosure_type: video/mp4
 enclosure_time:
