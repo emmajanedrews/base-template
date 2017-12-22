@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Where Can Veterans Get a Home Improvement Loan?
-date: 2017-12-21 13:10:58
+date: 2017-12-21 13:10:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/home-improvements-email-1.jpg
-youtube_code: NrD6t6r3FI4
+youtube_code: mwWt0NNZn-4
 ---
 
 
