@@ -20,6 +20,6 @@ youtube_code: yM-toKh_1dc
 
 {% include youtube.html %}
 
-The holidays are finally here and it’s a great time to reflect on the past year. This year would not have been nearly as successful for our team if it wasn’t for all of you. The new year is almost here, so we want to wish you the best with your resolutions. We’ll be sticking to ours, which is to help over 150 families next year. To see our full holiday message for you, watch this short video.
-
 {% include pullquote.html %}
+
+The holidays are finally here and it’s a great time to reflect on the past year. This year would not have been nearly as successful for our team if it wasn’t for all of you. The new year is almost here, so we want to wish you the best with your resolutions. We’ll be sticking to ours, which is to help over 150 families next year. To see our full holiday message for you, watch this short video.
