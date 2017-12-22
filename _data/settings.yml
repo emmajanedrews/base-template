@@ -7,26 +7,26 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Stacy Esser
   license_number:
   about_markdown: |
-
+    Stacy Esser is a full-time real estate professional and top-producing agent at Keller Williams Valley Real Estate in Tenafly, New Jersey. In 2013, Stacy's annual sales volume exceeded $20MM, making her the #5 in Tenafly sales among all agents in the town! Her stand out performance can be attributed to her investment in her clients, trusting relationships, extensive market knowledge, skilled negotiating and strong partnerships. Stacy's ethical and professional philosophy provides her clients with information to make educated decisions enabling them to buy, sell or stay with complete confidence.
   market:
-  brand:
-  brokerage:
-  address:
-  phone:
+  brand: The Stacy Esser Group
+  brokerage: Keller Williams Town Life
+  address: 25 Washington Street, Tenafly, NJ 07670
+  phone: 917-621-6794
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: stacy@stacyesser.com
+  url: http://www.stacyesser.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.stacyesser.com/homes-value/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.stacyesser.com/homes-for-sale-search-advanced/
   VR_form:
 
 sidebar_CTA:
@@ -34,14 +34,14 @@ sidebar_CTA:
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.stacyesser.com/homes-value/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://www.stacyesser.com/homes-for-sale-search-advanced/
 
 lender:
   show_section: false
@@ -66,16 +66,16 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/stacy.esser
+  linkedin_url: https://www.linkedin.com/in/stacy-esser-6662a323/
   gplus_url:
-  youtube_url:
-  twitter_url:
+  youtube_url: https://www.youtube.com/user/stacyessergroup/feed
+  twitter_url: https://twitter.com/stacyesser
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
+  zillow_url: https://www.zillow.com/profile/Stacy-Esser/
+  trulia_url: https://www.trulia.com/profile/stacy-esser-agent-tenafly-nj-zgmdntzf/overview
+  yelp_url: https://www.yelp.com/biz/stacy-esser-at-keller-williams-valley-realty-woodcliff-lake
   podcast_url:
 
 podcast:
@@ -96,8 +96,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#000000'
+  theme_color: '#B21C22'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -106,7 +106,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: white
 
 buttons:
   button_radius_number: 0
