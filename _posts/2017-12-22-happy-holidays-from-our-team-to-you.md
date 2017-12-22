@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Happy Holidays From Our Team to You
-date:
+date: 2017-12-22 12:09:31
 tags:
   - Real Estate
 excerpt:
