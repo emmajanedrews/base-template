@@ -26,7 +26,7 @@ What percentage of your monthly income should you be spending on housing?
 
 Here’s the thing: When you get pre-approved for a home loan or you talk to a bank about a mortgage, **they’re typically going to figure out the maximum that they can approve you for.** To calculate that, they’ll take your total monthly debt obligations and add that to your proposed monthly payment, which is principal interest, property taxes, and insurance (PITI).
 
-When they get those two numbers and add them up, they like to see those two numbers be less than about 42% of your gross monthly income. That depends on your credit and a number of other variables, so talk to your mortgage broke to find out exactly what that percentage is.
+When they get those two numbers and add them up, they like to see those two numbers be less than about 42% of your gross monthly income. That depends on your credit and a number of other variables, so talk to your mortgage broker to find out exactly what that percentage is.
 
 Use that 42% as a rule of thumb—**42% of your monthly income can be allocated for housing and debt obligations monthly.**
 
