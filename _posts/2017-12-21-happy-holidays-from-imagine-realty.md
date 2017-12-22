@@ -20,4 +20,4 @@ youtube_code: wlO5BPkNdes
 
 {% include youtube.html %}
 
-On behalf of everyone with Imagine Realty, including Joyce, Jackie, Barbara, and Corrine, we just want to thank you all for your support this year. Have a happy holiday season, and we wish everyone a safe, happy, and prosperous new year. To hear our full holiday message, watch this short video.&nbsp;
+On behalf of everyone with Imagine Realty, including Joyce, Jackie, Barbara, and Corrinne, Robert and I just want to thank you all for your support this year. Have a happy holiday season, and we wish everyone a safe, happy, and prosperous new year. To hear our full holiday message, watch this short video.&nbsp;
