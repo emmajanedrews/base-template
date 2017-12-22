@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wrapping Up 2017 and Looking Forward to 2018
-date: 2017-12-21 15:02:05
+date: 2017-12-21 15:02:00
 tags:
   - Real Estate
 excerpt: >-
@@ -13,7 +13,7 @@ pullquote: 2018 will be a record year for real estate.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/carbutti-2-ss-1.jpg
+youtube_alternate_image: /uploads/no-1.jpg
 youtube_code: r_J4UYEYuTc
 ---
 
