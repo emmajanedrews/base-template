@@ -21,7 +21,7 @@ youtube_code: 4vL3tCRCuP8
 
 Today I wanted to introduce you to Laura Jones, the buyer’s agent for our team here at Carter Property Group, so that you can get to know her and have some of your questions answered by her.
 
-**What’s a buyer’s agent?**<br><br>I focus solely on the purchase of our clients’ homes. First-time homebuyers, investors, upsizing, downsizing—I only work on the buy side of the transaction.  Any client we have has to sit down with me for a consultation. I’m able to get an idea of their needs in about 30 to 40 minutes.  Once we do that, we begin searching and going out into the field to look at homes. After that, when we’re ready, I write the contract and negotiate the terms.
+**What’s a buyer’s agent?**<br><br>I focus solely on the purchase of our clients’ homes. First-time homebuyers, investors, upsizing, downsizing—I only work on the buy side of the transaction. &nbsp;Any client we have has to sit down with me for a consultation. I’m able to get an idea of their needs in about 30 to 40 minutes. &nbsp;Once we do that, we begin searching and going out into the field to look at homes. After that, when we’re ready, I write the contract and negotiate the terms.
 
 So essentially, I do needs-assessment through a consultation, preview homes on the MLS, set up searches for people, take people out into the field to view homes (sometimes as many as 40 properties a week), write offers and negotiate terms once a property is selected, and eventually get it under contract. I’m able to service clients at a very high level.
 
@@ -31,7 +31,7 @@ I wake up in the morning, shake my son awake and take him to school, and then I 
 
 **So the MLS is only one source that you use to find properties for clients?**<br><br>Absolutely. Sometimes I’ll send out mailers and follow it up with a call. Sometimes the property for our clients isn’t always on the market at the time. That allows me to block a whole morning to find properties and preview them.
 
-**What’s your favorite part of your job?**<br><br>As a buyer’s agent, my favorite part of my job is the fact that I do get to know my clients in a really intimate way. I spend a lot of time with them and their families, I get to know personal things about them, and after the transaction, we don’t really fall off. I love checking in with them. They send me photos of remodels, updates, babies, and more. It’s just really rewarding. I don’t take it lightly that buying a home is most money you’re ever going to spend.
+**What’s your favorite part of your job?**<br><br>As a buyer’s agent, my favorite part of my job is the fact that I do get to know my clients in a really intimate way. I spend a lot of time with them and their families, I get to know personal things about them, and after the transaction, we don’t really fall off. I love checking in with them. They send me photos of remodels, updates, babies, and more. It’s just really rewarding. I don’t take it lightly that buying a home is probably the most money you’re ever going to spend.
 
 {% include pullquote.html %}
 
