@@ -1,12 +1,13 @@
 ---
 layout: post
 title: A Little Kindness Can Go a Long Way This Holiday Season
-date: 2017-12-18 13:10:56
+date: 2017-12-18 13:10:00
 tags:
 excerpt: >-
   Today I’d like to take a moment to wish each and every one of you a happy,
   safe, and healthy holiday season.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jody+Donaldson/Northern+Virginia+Real+Estate+Agent-+A+little+kindness+can+go+a+long+way.mp4
 pullquote: >-
   We’re so grateful to help you achieve your real estate goals each and every
   day.
