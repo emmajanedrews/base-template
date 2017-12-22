@@ -25,7 +25,7 @@ youtube_code: 2oWPqI8qs7o
 
 Here are five tips you as a pet owner should heed during your home search to ensure that your new home works out for both you and your pet.
 
-**1. Make sure you know the laws.**Pet restrictions are town-wide, and zoning restrictions need to be looked at because each zone in each town has different requirements and regulations. For example, the town I live in doesn’t allow chickens in certain areas of it. You may not consider a chicken a pet, but a lot of people have them, and they’re considered a domestic pet in certain towns and locations.
+**1. Make sure you know the laws.&nbsp;**Pet restrictions are town-wide, and zoning restrictions need to be looked at because each zone in each town has different requirements and regulations. For example, the town I live in doesn’t allow chickens in certain areas of it. You may not consider a chicken a pet, but a lot of people have them, and they’re considered a domestic pet in certain towns and locations.
 
 **2. Understand your yard use and fencing ability.** If you’re buying in a single-family home area or a condo area, there will be different regulations concerning what you can do with your yard. Even with single-family homes, you need to make sure you understand where you can put a fence and how you can construct that fence. With condos and duplexes, you may not have the ability to put up a fence, or if you do, you might only be in a certain area.
 
