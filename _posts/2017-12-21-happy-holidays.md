@@ -27,4 +27,4 @@ Happy holidays to you! The holiday season has officially arrived. I hope you enj
 
 I just wanted to take a moment to thank you for your continued support. I love helping people make their real estate dreams come true, so thank you for working with me. This may be a busy time of year, but we are always here to help you and answer any questions you may have.
 
-Just give me a call or reply to this email. And in case I don’t hear from you, have a happy New Year!
+Just give me a call or email. And in case I don’t hear from you, have a happy New Year!
