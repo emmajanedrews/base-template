@@ -21,12 +21,13 @@ youtube_code: 8-ZOBgRuaD4
 ---
 
 
-<!--base32-fgjjaz156x12achn4mt30ubecdp7at354mt30ybfenu7ark55tm78vbc4mt3099j6mjkeh3w4mjqr-base32-->
+{% include youtube.html %}
 
 I’m sure you know all about the home flipping craze. You’ve all seen home flipping shows on HGTV.
 
 When you flip a home, you essentially buy a home and sell it soon after for a higher price. 10 years ago, flipping was a mainstay of the real estate boom that led to the financial crash. After some years of low activity, flipping is back in full force thanks to popular TV shows such “Flip or Flop” and “Fixer Upper.”
-<!--base32-fgjjaz156x12achn4mt30ubecdp7at354mt30w3ndhp72xbfehjjwu3mdnp2achg4mt3a99q8hy2a9bw-base32-->
+
+{% include pullquote.html %}
 
 **If you are interested in flipping homes, there are three facts that you should know.**
 
