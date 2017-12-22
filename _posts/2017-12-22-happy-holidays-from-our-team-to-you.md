@@ -10,7 +10,7 @@ pullquote: Wishing You a Very Happy Holiday From Robbins Real Estate Group
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/mindy-and-jay-robbins--happy-holidays-youtube.jpg
+youtube_alternate_image: /uploads/mindy-and-jay-robbins-holidaysyoutube.jpg
 youtube_code: 'https://youtu.be/5AkX-ls1XmQ'
 ---
 
