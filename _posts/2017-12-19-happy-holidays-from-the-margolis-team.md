@@ -20,7 +20,7 @@ youtube_code: M2BYEwP2jzQ
 
 Aloha and happy holidays from beautiful Kaua’i!
 
-**My wife and I have been very blessed to have helped people find or sell homes for the past 13 years.**Whether people come to Kaua’i for retirement, to find a slower pace of life, or to find a more exciting life hiking, biking, surfing, and golfing in this beautiful area, it’s a place where families come together to make memories for a lifetime.
+**My wife and I have been very blessed to have helped people find or sell homes for the past 13 years.&nbsp;**Whether people come to Kaua’i for retirement, to find a slower pace of life, or to find a more exciting life hiking, biking, surfing, and golfing in this beautiful area, it’s a place where families come together to make memories for a lifetime.
 
 This holiday season, we want to say thank you to those we’ve had the privilege to serve. To those of you who may one day own a piece of paradise or need to sell a property here, we value the opportunity to be of service in the future.
 
