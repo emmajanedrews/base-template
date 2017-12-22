@@ -4,8 +4,7 @@ title: Happy Holidays From All of Us to You
 date: 2017-12-19 11:01:00
 tags:
 excerpt: Have a happy holiday season!
-enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Chris+Hauck/St.+Cloud+Real+Estate+Have+a+happy+holiday+season.mp4
+enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
