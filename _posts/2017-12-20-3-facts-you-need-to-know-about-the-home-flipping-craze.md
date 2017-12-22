@@ -37,4 +37,4 @@ When you flip a home, you essentially buy a home and sell it soon after for a hi
 
 **3. Home flipping affects all buyers and sellers.**If you are a buyer, you can clearly benefit from the flipping craze. There are flipped properties available in all price ranges, from entry-level to luxury homes. As a seller, this flipping boom means that you may face tougher competition when your home is on the market. The good news is that demand still far outpaces supply.
 
-If you are interested in flipping a home or seeing what your home could sell for with major improvements, just give me a call or send me an email. I would be happy to help you!
+If you are interested in flipping a home or seeing what your home could sell for with major improvements, just give us a call or send us an email. We would be happy to help you!
