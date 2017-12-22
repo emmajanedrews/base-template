@@ -15,6 +15,6 @@ youtube_code: 'https://youtu.be/5AkX-ls1XmQ'
 ---
 
 
-{% include youtube.html %}We’d like to wish you a very happy holiday and a warm and healthy new year. We at Robbins Real Estate are very grateful to know all of you, and we’re especially thankful for your support in our company.
+{% include youtube.html %}We’d like to wish you a very happy holiday and a warm and healthy new year. We at Robbins Real Estate Group are very grateful to know all of you, and we’re especially thankful for your support of our company.
 
 {% include pullquote.html %}
