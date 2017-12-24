@@ -22,7 +22,7 @@ youtube_code: cztus1rRsTQ
 
 I’m pleased to let you know that the government just **recently announced a new maximum conforming loan limit for 2018.** The reality is that in 2017 the limit was $424,000 and it has now been raised to $453,100.
 
-This is a big deal because **it gives consumers more buying power**. If you go above the $453,100 threshold, that puts you into the jumbo loan category, and that typically comes with certain downsides such as tighter underwriting guidelines, higher credit minimums, typically higher interest rates, and others.
+This is a big deal because **it gives consumers more buying power**. If you go above the $424,100 threshold, that puts you into the jumbo loan category, and that typically comes with certain downsides such as tighter underwriting guidelines, higher credit minimums, typically higher interest rates, and others.
 
 {% include pullquote.html %}
 
