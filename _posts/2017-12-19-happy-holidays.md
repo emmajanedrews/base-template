@@ -20,14 +20,15 @@ youtube_code: 7bg0gbykk9Y
 ---
 
 
-<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w33ehv62t1tcxrpurttdrv78xtk69hppcb3chpkcxv46dj6atvmdcr7grhjcdq6gw1rewrq2rtnemtkct1tdnj6wx9k6thk6x3375nkcrbpddq3cy37e4u7ax3e6tq7adknchu74tbmd0v3ct1kchjpex3b61jkjx3471v3cxbnddh66vkd6cv7gx3dchq6wdtjexm68rttcxrkcx1tdcv3gbb2c5tpactj-base32-->
+{% include youtube.html %}
 
 Happy holidays to you!
 
 The holiday season has officially arrived. I hope you enjoy this wonderful time of year and make some fantastic memories with your family and friends.
 
 I just wanted to take a moment to thank you for your continued support. I love helping people make their real estate dreams come true, so thank you for working with me.
-<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w33ehv62t1tcxrpurttdrv78xtk69hppcb3chpkcxv46dj6atvmdcr7grhjcdq6gw1rewrq2rtnemtkct1tdnj6wx9k6thk6w9pchrkce3n6dkkcxvm6xkq4utpcdq6udkdennq2tbdehr7ax1kcnjk0x1p69t7ce33exukcxbr65np6d3qddn7eebjcgrqeutme8wq8rttetn7awkb65jp8ukb6thpebb2c5tpactj-base32-->
+
+{% include pullquote.html %}
 
 Finally, there are a lot of fun things going on this holiday season. I found a list of holiday events on ConejoValleyGuide.com.&nbsp; If any of the events below peak your interest, be sure to contact the event coordinators, as things sometimes change! Also, some events require RSVP. Check out this list below!
 
