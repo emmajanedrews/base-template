@@ -41,4 +41,4 @@ Pre-approval means:
 
 Pre-approval carries much more weight when you’re out shopping for a home. It is absolutely critical to be pre-approved before shopping for homes. It will save you a lot of heartache and frustration.
 
-<br>Our next topic will be all about credit, and how important it really is to get you pre-approved. I hope you’ll join us then!
+Our next topic will be all about credit, and how important it really is to get you pre-approved. I hope you’ll join us then!
