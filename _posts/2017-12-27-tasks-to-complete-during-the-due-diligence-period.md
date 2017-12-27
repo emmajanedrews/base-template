@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tasks to Complete During the Due Diligence Period
-date:
+date: 2017-12-27 13:34:49
 tags:
   - Home Buyer Tips
 excerpt: >-
