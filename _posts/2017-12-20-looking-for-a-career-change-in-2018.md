@@ -4,7 +4,8 @@ title: Looking for a Career Change in 2018?
 tags:
   - Real Estate
 excerpt: I just wanted to let everyone know that we are hiring for 2018.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Wes+Peters/Baltimore+Metro+Real+Estate-+Looking+for+a+career+change+in+2018%253F.mp4
 pullquote: Keller Williams has world-class training programs.
 enclosure_type: video/mp4
 enclosure_time:
@@ -32,7 +33,7 @@ I can tell you that only about 10% of agents renew their licenses after two year
 
 There is a huge amount to learn, from technology to contract changes and beyond. As great as some brokerages are, it can be hard to provide everything an agent needs.
 
-That’s why teams are so prevalent now. **Teams are able to provide training, accountability, and leadership.&nbsp;**Keller Williams has world-class training that we are really proud of.
+That’s why teams are so prevalent now. **Teams are able to provide training, accountability, and leadership.**Keller Williams has world-class training that we are really proud of.
 
 So, if you or anyone you know would be interested in a career in real estate, I would love to talk to them. In the meantime, I hope you have fun this holiday season.
 
