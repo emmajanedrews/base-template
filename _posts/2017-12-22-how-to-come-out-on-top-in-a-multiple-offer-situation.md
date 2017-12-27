@@ -20,7 +20,7 @@ youtube_code: tEMeNElDKig
 
 {% include youtube.html %}
 
-How should buyers deal with multiple-offer situations to get theirs accepted? Here are a couple tips and tricks that I use:
+How should buyers deal with multiple offer situations to get theirs accepted? Here are a couple tips and tricks that I use:
 
 **1. Go in with high option money.**This will show the sellers that you’re serious about the deal.
 
