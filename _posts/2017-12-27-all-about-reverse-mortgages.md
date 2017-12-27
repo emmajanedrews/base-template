@@ -21,21 +21,21 @@ youtube_code: xUZlo3ejdgQ
 
 {% include youtube.html %}
 
-What is a reverse mortgage? Today I have Don McCue, owner of Reverse Mortgages Plus, here with me to discuss what they are and how they can help you.
+What is a "reverse mortgage?" Today I have Don McCue, owner of Reverse Mortgages Plus, here with me to discuss what they are and how they can help you.
 
-**So what exactly makes it “reverse”?**<br><br>A reverse mortgage in its simplest form is a mortgage. To qualify, we do the exact same process as a conventional mortgage. I collect documentation, submit it through processing, and then we’ll do an appraisal. After that, we’ll give approval based on financials and the appraisal value.
+**So what exactly makes it "reverse?"**<br><br>A reverse mortgage in its simplest form is a mortgage. To qualify, we do the exact same process as a conventional mortgage. I collect documentation, submit it through processing, and then we’ll do an appraisal. After that, we’ll give approval based on financials and the appraisal value.
 
 The reverse part comes in because, with a conventional mortgage, you pay the mortgage today and the balance goes down. With the reverse mortgage, you have a contract with the lender that says they’ll wait for their payment tomorrow, which means they’ll add that payment to the balance today.
 
 It’s kind of like you’re paying out money for a long time to send your kids to college, and hopefully, they’ll start paying you back. With the contract that the lender has, it’s guaranteed that they’ll get their money, which is fair. This allows you to stay in your home and not have a payment today, thus improving your cash flow.
 
-**Who qualifies for a reverse mortgage? And if qualify for a reverse mortgage, how much equity do I have in my house?**<br><br>There’s no cookie-cutter answer to that; we have to collect documentation and go through the qualifying process.
+**Who qualifies for a reverse mortgage? And if I qualify for a reverse mortgage, how much equity do I have in my house?**<br><br>There’s no cookie-cutter answer to that; we have to collect documentation and go through the qualifying process.
 
 In order to qualify, you must be 62 years old, and you must have some equity in your home. A roughly 50% equity position is where we start because the older you are, the more money you get. Then we incorporate other financials into the conversation.
 
 **What are the pros and cons of a reverse mortgage?**
 
-The reason a lot of people consider them is that our real estate is, many times, our largest asset which goes untapped. When you have money in a bank, IRA, or pension plan, you use it. When it’s in the home, the traditional American Dream has been to pay the home off. The reality is that when you own real estate, you have an asset that you can leverage, meaning that you can enjoy living in the home and retaining the title, as well as enjoying some of the equity. You can get a conventional refinance that requires a monthly payment, which you’re trying to eliminate, or you can sell the home, which means that you don’t get to live in the home you love.
+The reason a lot of people consider them is that our real estate is, many times, our largest asset which goes untapped. When you have money in a bank, IRA, or pension plan, you use it. When it’s in the home, the traditional American Dream has been to pay the home off. The reality is that when you own real estate, you have an asset that you can leverage, meaning that you can enjoy living in the home and retain the title, as well as enjoy some of the equity. You can get a conventional refinance that requires a monthly payment, which you’re trying to eliminate, or you can sell the home, which means that you don’t get to live in the home you love.
 
 The reverse mortgage came into being for exactly that conversation: live in your home, use some of the equity, and don’t have a monthly payment that impacts your long-term care and retirement planning. You can pay it off later.
 
