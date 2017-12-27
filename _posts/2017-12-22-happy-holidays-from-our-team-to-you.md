@@ -5,7 +5,8 @@ date: 2017-12-22 12:09:00
 tags:
   - Real Estate
 excerpt:
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Mindy+Robbins/Videos/Dallas+-+Fort+Worth+Real+Estate+Agent-+Have+a+Warm+and+Healthy+Holiday.mp4
 pullquote: Wishing You a Very Happy Holiday From Robbins Real Estate Group
 enclosure_type: video/mp4
 enclosure_time:
