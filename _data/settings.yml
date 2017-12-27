@@ -24,7 +24,7 @@ client:
 
 CTAs:
   first_CTA_text: Request a Consultation
-  first_CTA_URL: /#contact/
+  first_CTA_URL: /contact/
   # second_CTA_text: Apply
   # second_CTA_URL: /apply/
   VR_form:
@@ -34,7 +34,7 @@ sidebar_CTA:
     CTA_title: Looking to Build Your Real Estate Career?
     CTA_text: Let's talk about how we can take your business to new heights.
     CTA_link_text: Request a Free Strategy Session
-    CTA_url: /#contact/
+    CTA_url: /contact/
 
 # second_sidebar_CTA:
 #   - CTA_image_path2: /img/cta-images/005.jpg
