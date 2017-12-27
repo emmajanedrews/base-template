@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How to Come out on Top in a Multiple-Offer Situation
-date: 2017-12-22 15:28:17
+title: How to Come out on Top in a Multiple Offer Situation
+date: 2017-12-22 15:28:00
 tags:
   - Home Seller Tips
 excerpt: >-
