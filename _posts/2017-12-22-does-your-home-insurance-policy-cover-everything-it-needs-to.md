@@ -9,7 +9,8 @@ excerpt: >-
   companies out there, and these advertisements can get repetitive to the point
   where you might assume that when they promise you “peace of mind,” they mean
   they will cover everything. Is that true?
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/Sacramento+Real+Estate-+Is+your+policy+up+to+date%253F.mp4
 pullquote: >-
   If your policy doesn’t cover certain natural disasters, it may be time to
   switch companies.
