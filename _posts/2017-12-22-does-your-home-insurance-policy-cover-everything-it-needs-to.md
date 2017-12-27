@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Does Your Home Insurance Policy Cover Everything It Needs to?
-date: 2017-12-22 10:29:05
+date: 2017-12-22 10:29:00
 tags:
   - Real Estate
 excerpt: >-
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: MFwI7HNSDvc
+youtube_code: uzvjGvlS8tc
 ---
 
 
