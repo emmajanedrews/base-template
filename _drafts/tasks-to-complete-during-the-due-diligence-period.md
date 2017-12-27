@@ -13,15 +13,15 @@ pullquote: >-
   day.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/karlyn-ellis--due-diligence---youtube.jpg
 youtube_code: 'https://youtu.be/QEGZDfkmh-A'
 ---
 
 
 {% include youtube.html %}
 
-During the due diligence period of your home purchase, there are a few important tasks you should do to give yourself peace of mind about your new home. &nbsp;
+During the due diligence period of your home purchase, there are a few important tasks you should do to give yourself peace of mind about your new home.
 
 The two obvious ones most buyers already know about are **the home inspection and the pest inspection.** The home inspection will uncover any hidden items such as structural items, mechanical failures, and safety concerns. The pest inspection will look for things like termites (or conditions that are conducive to termites) and wood-eating ants.
 
