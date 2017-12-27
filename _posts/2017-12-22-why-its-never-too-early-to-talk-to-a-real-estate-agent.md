@@ -19,9 +19,9 @@ youtube_code: 9BHiTgj4sxI
 
 {% include youtube.html %}
 
-Whether you plan on selling your home in a month, six months, or a year, it’s never too early to talk to an experienced real estate agent like myself.
+Whether you plan on selling your home in a month, six months, or a year, it’s never too early to talk to an experienced real estate agent like me.
 
-The home selling process can be broken down into three separate phases: the pre-listing phase, the listing or marketing phase, and then the escrow phase that takes you to closing.
+The home selling process can be broken down into three separate phases: the pre-listing phase, the listing (or marketing) phase, and then the escrow phase that takes you to closing.
 
 During the pre-listing phase, I get together with a homeowner to put the listing agreement together. However, we don’t put it on the market yet. We work with the homeowner to fix some things up around the house. Whether that means painting or bringing a landscaper or interior designer in, **we will get the home ready for the market.**
 
@@ -31,7 +31,7 @@ Today, I want to focus on the pre-listing phase. It’s never too early to talk 
 
 {% include pullquote.html %}
 
-**It’s especially important to talk to a real estate agent before you start making upgrades yourself**. Sometimes the things homeowners do don’t get a good return on investment. As Realtors, we have access to studies and lists of which projects will get you the most bang for your buck.
+**It’s especially important to talk to a real estate agent before you start making upgrades yourself**. Sometimes the things homeowners do won’t get a good return on investment. As Realtors, we have access to studies and lists of which projects will get you the most bang for your buck.
 
 Ultimately, it’s never too early to engage a good Realtor who’s in the market day in and day out selling homes. Whether you plan on selling your home two, three, or four months down the road, we can help you pick paint colors and projects that will add value and help sell your home.
 
