@@ -34,13 +34,8 @@ Finally, there are a lot of fun things going on this holiday season. I found a l
 
 **Holiday Events in the area:**
 
-* **12/21, 22**: Dinner with Santa Train Rides at Fillmore & Western
-* **Sat 12/23:** Santa Photos and Live Reindeer at Malibu Country Mart (noon to 4pm)
-* **12/24-25:**Santa Barbara Zoo is open to the public
 
 **Holiday light displays:**
-
-**12/21-12/26**:
 
 * Christmas Tree Lane in Downtown Oxnard Historic District
 * Giant Rudolph and Fun Holiday Lights on Walter Avenue in Newbury Park
@@ -59,18 +54,9 @@ Finally, there are a lot of fun things going on this holiday season. I found a l
 * **Thru 1/7:&nbsp;**Queen Mary's CHILL Ice Adventure Park
 * **Thru 1/28:&nbsp;**Holiday Ice Rink at The Lakes at Thousand Oaks
 * **Thru 1/1:&nbsp;**Reindeer at Santa Barbara Zoo
-* **Thru 12/30:&nbsp;**Westlake Village Trolley Holiday Service
 * **Thru 1/7:&nbsp;**Enchanted Forest of Light at Descanso Gardens in La Canada
-* **Thru 12/23:&nbsp;**North Pole Express Train Rides at Fillmore & Western
-* **Thru 12/24:&nbsp;**Santa HQ at The Oaks Mall
-* **Thru 12/24:**Photos with Santa at The Collection at RiverPark in Oxnard
 * **Thru 1/1:&nbsp;**Winter Fantasy and Light Show in Oxnard
-* **Thru 12/24:&nbsp;**Santa Photos at Pacific View Mall in Ventura
 * **Thru 1/8/17:&nbsp;**L.A. Zoo Lights Holiday Display
-* **Thru 12/24:&nbsp;**Visit and Photos with Santa at Simi Valley Town Center Mall
-* **Thru 12/24:&nbsp;**Santa's Village at Janss Marketplace
-* **Thru 12/24:&nbsp;**Santa's Cottage at The Promenade at Westlake
-* **Thru 12/23:&nbsp;**Holiday Lights Spectacular Nightly at Janss Marketplace
 * **Gift Wrapping Service Fundraiser at The Oaks**
 * **Gift Wrapping Service Fundraiser at Janss Marketplace**
 
