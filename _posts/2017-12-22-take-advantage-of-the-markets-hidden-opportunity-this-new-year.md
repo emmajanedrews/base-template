@@ -30,6 +30,6 @@ Within the first 60 to 90 days of the year, a lot of serious buyers are active i
 
 There are currently about 650 homes on the market, which isn’t much at all.
 
-Whatever your real estate needs, my team and I would like to help you out. **Thank you for a great 2017. Happy New Year!**
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 
-If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.<br>
+Whatever your real estate needs, my team and I would like to help you out. **Thank you for a great 2017. Happy New Year!**
