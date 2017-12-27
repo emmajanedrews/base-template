@@ -10,7 +10,12 @@
 					{% endif %}
 	        </div>
 	        <div class="col-sm-6">
-	          <address itemprop="address">{{site.data.settings.client.address}}</address>
+						{% if site.data.settings.client.phone2 != null %}
+					{{ site.data.settings.client.phone_type }}: <a href="tel:{{site.data.settings.client.phone | prepend: "1-"}}" itemprop="telephone">{{ site.data.settings.client.phone }}</a><br />
+					{{ site.data.settings.client.phone2_type }}: <a href="tel:{{site.data.settings.client.phone2 | prepend: "1-"}}" itemprop="telephone">{{ site.data.settings.client.phone2 }}</a><br />
+					{% else %}
+	        <a href="tel:{{site.data.settings.client.phone | prepend: "1-"}}" itemprop="telephone">{{site.data.settings.client.phone}}</a>
+					{% endif %}
 	        </div>
 	      {% elsif site.data.settings.client.brand == null %}
 	        <div class="col-sm-4">
@@ -19,11 +24,22 @@
 						<br><span>{{site.data.settings.client.license_number }}
 							{% endif %}
 	        </div>
+					{% if site.data.settings.client.phone2 != null %}
+					{{ site.data.settings.client.phone_type }}: <a href="tel:{{site.data.settings.client.phone | prepend: "1-"}}" itemprop="telephone">{{ site.data.settings.client.phone }}</a><br />
+					{{ site.data.settings.client.phone2_type }}: <a href="tel:{{site.data.settings.client.phone2 | prepend: "1-"}}" itemprop="telephone">{{ site.data.settings.client.phone2 }}</a><br />
+					{% else %}
+	        <a href="tel:{{site.data.settings.client.phone | prepend: "1-"}}" itemprop="telephone">{{site.data.settings.client.phone}}</a>
+					{% endif %}
 	        <div class="col-sm-4">
 	          <span itemprop="branchof">{{site.data.settings.client.brokerage}}</span>
 	        </div>
 	        <div class="col-sm-4">
-	          <address itemprop="address">{{site.data.settings.client.address}}</address>
+						{% if site.data.settings.client.phone2 != null %}
+					{{ site.data.settings.client.phone_type }}: <a href="tel:{{site.data.settings.client.phone | prepend: "1-"}}" itemprop="telephone">{{ site.data.settings.client.phone }}</a><br />
+					{{ site.data.settings.client.phone2_type }}: <a href="tel:{{site.data.settings.client.phone2 | prepend: "1-"}}" itemprop="telephone">{{ site.data.settings.client.phone2 }}</a><br />
+					{% else %}
+	        <a href="tel:{{site.data.settings.client.phone | prepend: "1-"}}" itemprop="telephone">{{site.data.settings.client.phone}}</a>
+					{% endif %}
 	        </div>
 	      {% elsif site.data.settings.client.brokerage == null  %}
 	        <div class="col-sm-4">
@@ -36,7 +52,12 @@
 	          <span itemprop="brand">{{site.data.settings.client.brand}}</span>
 	        </div>
 	        <div class="col-sm-4">
-	          <address itemprop="address">{{site.data.settings.client.address}}</address>
+						{% if site.data.settings.client.phone2 != null %}
+					{{ site.data.settings.client.phone_type }}: <a href="tel:{{site.data.settings.client.phone | prepend: "1-"}}" itemprop="telephone">{{ site.data.settings.client.phone }}</a><br />
+					{{ site.data.settings.client.phone2_type }}: <a href="tel:{{site.data.settings.client.phone2 | prepend: "1-"}}" itemprop="telephone">{{ site.data.settings.client.phone2 }}</a><br />
+					{% else %}
+	        <a href="tel:{{site.data.settings.client.phone | prepend: "1-"}}" itemprop="telephone">{{site.data.settings.client.phone}}</a>
+					{% endif %}
 	        </div>
 	      {% else %}
 	        <div class="col-sm-3">
@@ -52,23 +73,27 @@
 	          <span itemprop="branchof">{{site.data.settings.client.brokerage}}</span>
 	        </div>
 	        <div class="col-sm-3">
-	          <address itemprop="address">{{site.data.settings.client.address}}</address>
+						{% if site.data.settings.client.phone2 != null %}
+					{{ site.data.settings.client.phone_type }}: <a href="tel:{{site.data.settings.client.phone | prepend: "1-"}}" itemprop="telephone">{{ site.data.settings.client.phone }}</a><br />
+					{{ site.data.settings.client.phone2_type }}: <a href="tel:{{site.data.settings.client.phone2 | prepend: "1-"}}" itemprop="telephone">{{ site.data.settings.client.phone2 }}</a><br />
+					{% else %}
+					<a href="tel:{{site.data.settings.client.phone | prepend: "1-"}}" itemprop="telephone">{{site.data.settings.client.phone}}</a>
+					{% endif %}
 	        </div>
 	      {% endif %}
 	    </div>
 	    <hr>
 	    <div class="row">
 	      <div class="col-sm-4">
-					{% if site.data.settings.client.phone2 != null %}
-					{{ site.data.settings.client.phone_type }}: <a href="tel:{{site.data.settings.client.phone | prepend: "1-"}}" itemprop="telephone">{{ site.data.settings.client.phone }}</a><br />
-					{{ site.data.settings.client.phone2_type }}: <a href="tel:{{site.data.settings.client.phone2 | prepend: "1-"}}" itemprop="telephone">{{ site.data.settings.client.phone2 }}</a><br />
-					{% else %}
-	        <a href="tel:{{site.data.settings.client.phone | prepend: "1-"}}" itemprop="telephone">{{site.data.settings.client.phone}}</a>
-					{% endif %}
+					<address itemprop="address">{{site.data.settings.client.address}}</address>
 
 	      </div>
-	      <div class="col-sm-4"><a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a></div>
-	      <div class="col-sm-4"><a href="{{site.data.settings.client.url}}" target="_blank">{{site.data.settings.client.url | remove: "http://" | remove: "https://"}}</a></div>
+	      <div class="col-sm-4"><a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a><br>
+				<a href="mailto:{{site.data.settings.client.email2}}">{{site.data.settings.client.email2}}</a></div>
+	      <div class="col-sm-4">
+					<strong>{{site.data.settings.client.url_type}}: </strong><a href="{{site.data.settings.client.url}}" target="_blank">{{site.data.settings.client.url | remove: "http://" | remove: "https://"}}</a><br>
+					<strong>{{site.data.settings.client.url2_type}}: </strong><a href="{{site.data.settings.client.url}}" target="_blank">{{site.data.settings.client.url2 | remove: "http://" | remove: "https://"}}</a>
+				</div>
 	    </div>
 	    <div class="row">
 	      <div class="twelve columns footer-socials">
