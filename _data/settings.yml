@@ -10,7 +10,7 @@ custom_links:
     url: >-
       https://www.guardianmortgageonline.com/loan-officers/dallas-home-loan-officer-wade-betz/
   - title: Mortgage Mapp
-    url: 'http://gmc29.mortgagemapp.com/'
+    url: /mortgage-mapp/
   - title: Agent Training
     url: /agent-training
   - title: Meet the Team
@@ -19,6 +19,7 @@ custom_links:
     url: /client-testimonials
   - title: Community Events
     url: /community-events/
+    
 client:
   name: Wade Betz
   license_number:
