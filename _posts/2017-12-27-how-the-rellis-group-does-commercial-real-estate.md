@@ -31,7 +31,7 @@ When it comes to actually posting commercial listings, many people do so on Loop
 
 {% include pullquote.html %}
 
-My team and I work and sell properties from approximately 10 different sources. O**ur speciality is in income-producing commercial assets,** meaning we largely work with non-owner-occupied buildings for out-of-state investors.
+My team and I work and sell properties from approximately 10 different sources. **O****ur speciality is in income-producing commercial assets,** meaning we largely work with non-owner-occupied buildings for out-of-state investors.
 
 We have clients who buy medical office buildings, hotels, single-family homes, and many other types of properties, as well. Whatever kind of asset our clients are looking to buy, we can help. We truly value one-on-one relationships with the people we work with. **We work based around what you want and need.**
 
