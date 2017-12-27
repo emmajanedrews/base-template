@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Should You Be Worried About Our Denver Market?
-date:
+date: 2017-12-27 11:07:25
 tags:
   - Market Update
 excerpt: >-
