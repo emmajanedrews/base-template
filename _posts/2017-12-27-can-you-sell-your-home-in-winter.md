@@ -21,7 +21,7 @@ youtube_code: V8LRavvHwlI
 
 Is it a good idea to sell your home in the winter?
 
-To answer that, let’s look at a few statistics from the past year. Between January and February, over 2,500 home closed, which is roughly 12% of all the homes sales for the year. This tells us that** real buyers are still out there during winter trying to buy homes.**
+To answer that, let’s look at a few statistics from the past year. Between January and February, over 2,500 home closed, which is roughly 12% of all the homes sales for the year. This tells us that **real buyers are still out there during winter trying to buy homes.**
 
 When you think about your ideal buyer, do you want a looky-loo who’s not that motivated or someone who needs to find a house and is serious about buying now? Typically, the person who needs to buy something is willing to pay more.
 
