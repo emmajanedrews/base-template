@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jacksonville Real Estate Video Blog with Shawn O'Neill and Dan Stephenson</title>
-    <description>Our mission at Expert Home Advisors is to be your best resource for Jacksonville real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Expert Home Advisors, your professional Jacksonville Real Estate Agents.</description>
+    <title>Jacksonville Real Estate Careers and Training Video Blog with Shawn O'Neill and Dan Stephenson</title>
+    <description>A Video Blog about Jacksonville Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 Dec 2017 13:59:42 -0600</pubDate>
-    <lastBuildDate>Wed, 27 Dec 2017 13:59:42 -0600</lastBuildDate>
+    <pubDate>Wed, 27 Dec 2017 15:27:30 -0600</pubDate>
+    <lastBuildDate>Wed, 27 Dec 2017 15:27:30 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>

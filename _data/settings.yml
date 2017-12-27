@@ -1,6 +1,6 @@
 audit_header: false
-title: Jacksonville Real Estate Video Blog with Shawn O'Neill and Dan Stephenson
-description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
+title: Jacksonville Real Estate Careers and Training Video Blog with Shawn O'Neill and Dan Stephenson
+description: A Video Blog about -- MARKET -- Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!
 show_custom_links: false
 custom_links:
   - title:
@@ -27,25 +27,25 @@ client:
   url2_type: Sellers
 
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: https://www.experthomeadvisors.com/homevalue
-  second_CTA_text: Home Search
-  second_CTA_URL: https://www.experthomeadvisors.com/search
+  first_CTA_text: Request a Consultation
+  first_CTA_URL: /contact/
+  # second_CTA_text: Home Search
+  # second_CTA_URL: https://www.experthomeadvisors.com/search
   VR_form:
 
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
-    CTA_url: https://www.experthomeadvisors.com/homevalue
+  - CTA_image_path: /img/cta-images/006.jpg
+    CTA_title: Looking to Build Your Real Estate Career?
+    CTA_text: Let's talk about how we can take your business to new heights.
+    CTA_link_text: Request a Free Strategy Session
+    CTA_url: /contact/
 
-second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: https://www.experthomeadvisors.com/search
+# second_sidebar_CTA:
+#   - CTA_image_path2: /img/cta-images/005.jpg
+#     CTA_title2: "Looking for a -- MARKET -- Home?"
+#     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
+#     CTA_link_text2: "Search the MLS"
+#     CTA_url2: https://www.experthomeadvisors.com/search
 
 lender:
   show_section: false
@@ -60,13 +60,9 @@ lender:
   url: http://eyegoop.com
 
 welcome_box:
-  welcome_headline: Join Our -- MARKET -- VIP List
+  welcome_headline: How to Sell More Homes
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
-    professionals can answer any questions you might have about real estate.
-    Subscribe to this blog to get the latest news on local market trends and
-    receive expert tips for buying or selling a home.
+    Whether you are just starting out, or you are licensed Broker, our team of professionals can answer any questions you might have about real estate. Subscribe to this blog to get the latest news on local market trends and receive expert tips for buying or selling a home.
 
 socials:
   review_sm_icons: false
@@ -83,11 +79,11 @@ socials:
   podcast_url:
 
 podcast:
-  title: Jacksonville Real Estate Podcast with Shawn O'Neill and Dan Stephenson
+  title: Jacksonville Real Estate Careers and Training Podcast with Shawn O'Neill and Dan Stephenson
   categories: Education
   image: /img/podcast.jpg
-  subtitle: Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market
-  description: If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.
+  subtitle: Boost your Career with Veteran Real Estate Agents Shawn O'Neill and Dan Stephenson
+  description: A Podcast about -- MARKET -- Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!
   keywords: Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer
   author: Shawn O'Neill and Dan Stephenson
 
@@ -96,7 +92,7 @@ images:
   client_headshot2_path: /img/headshot2.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  hero_text: -- MARKET -- Real Estate Careers and Training Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
@@ -111,7 +107,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: rgba(250, 250, 250, .5)
+  shadow_color: rgba(238, 238, 238, .5)
 
 buttons:
   button_radius_number: 0
