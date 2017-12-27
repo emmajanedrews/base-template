@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Are Expensive Internet Leads Worth It?
-date: 2017-12-13 13:24:17
+date: 2017-12-13 13:24:00
 tags:
   - Real Estate
 excerpt: >-
   You can get some great leads by purchasing them from Zillow and Realtor.com.
   But are they worth the money? From our experience, it depends on a few things.
   Chief among these are your conversion and follow-up processes.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Tom+Nickley/Training+Videos/Orlando+Real+Estate+Agent-+The+trick+with+purchasing+leads.mp4
 pullquote: Our team follows a very strict 21-day follow-up process.
 enclosure_type: video/mp4
 enclosure_time:
@@ -28,7 +29,7 @@ With both of these lead sources, consumers come to you. On Zillow, when one visi
 
 {% include pullquote.html %}
 
-**Not only are these leads expensive, but there is also a lot of direct competition for them.&nbsp;**Whether or not you find success with this type of lead depends entirely on how you handle the lead after you receive it. Our team follows a very strict 21-day follow-up process. We send 15 different texts, videos, and emails over those 21 days in order to convert your leads.
+**Not only are these leads expensive, but there is also a lot of direct competition for them.**Whether or not you find success with this type of lead depends entirely on how you handle the lead after you receive it. Our team follows a very strict 21-day follow-up process. We send 15 different texts, videos, and emails over those 21 days in order to convert your leads.
 
 These lead sources can be lucrative, but they aren’t for the faint of heart. If you think it’s going to be easy to make a quick buck on these leads, you shouldn't even consider purchasing them.
 
