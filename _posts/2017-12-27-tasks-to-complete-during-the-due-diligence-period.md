@@ -25,7 +25,7 @@ During the due diligence period of your home purchase, there are a few important
 
 The two obvious ones most buyers already know about are **the home inspection and the pest inspection.** The home inspection will uncover any hidden items such as structural items, mechanical failures, and safety concerns. The pest inspection will look for things like termites (or conditions that are conducive to termites) and wood-eating ants.
 
-There are some less-obvious things you want to do as well.<br><br>The first is **get a homeowners insurance quote.** You may think it’s a little early to do this, but your homeowners insurance representative will pull a clue report which will tell you if there have been any previous claims made against the home. You want to know about these during the option period so you can ask the seller about them.
+There are some less obvious things you want to do as well.<br><br>The first is **get a homeowners insurance quote.** You may think it’s a little early to do this, but your homeowners insurance representative will pull a clue report which will tell you if there have been any previous claims made against the home. You want to know about these during the option period so you can ask the seller about them.
 
 {% include pullquote.html %}
 
