@@ -33,6 +33,6 @@ If you’re a buyer, not all hope is lost. Interest rates are fantastic. These a
 
 Another thing to consider is that **the average homeowner’s net worth is 49% higher than the average renter’s net worth.** So, jump into the 2018 real estate market!
 
-Finally, new construction is the highest it’s ever been, up 10% across the nation. Like we said earlier, they just can’t build them fast enough.
+Finally, new construction is the highest it’s ever been—up 10% across the nation Like we said earlier, they just can’t build them fast enough.
 
 2018 is projected to be one of the top three years for real estate in the last 100 years. We want to be part of that and we want to help you reach your 2018 real estate goals. If you have any questions, please don’t hesitate to reach out to us. We would be happy to help you!
