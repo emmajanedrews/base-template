@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2018 Is Going to Be a Great Year for Real Estate
-date: 2017-12-27 14:06:42
+date: 2017-12-27 14:06:00
 tags:
   - Market Update
 excerpt: >-
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: oOGG7EVK-jw
+youtube_code: sauoCdEU_Mc
 ---
 
 
