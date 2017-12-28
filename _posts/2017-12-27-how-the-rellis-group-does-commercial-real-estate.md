@@ -23,7 +23,7 @@ When people hear that I work in commercial real estate, there tends to be some c
 
 I’d like to start by talking about those last two questions. First of all, my team and I send direct mail to owners all over the city of Columbus. This is one big lead source of where we get our deals.
 
-We also do a co-broke. There are are thousands of Realtors in our city who sell both commercial and residential real estate. We work with these Realtors to do deals both on and off the market.
+We also do a co-broke. There are thousands of Realtors in our city who sell both commercial and residential real estate. We work with these Realtors to do deals both on and off the market.
 
 To meet these brokers, we go to a weekly meetup in order to network and make connections. **Working with other professionals allows my team and I to match up clients and create deals.**
 
@@ -31,9 +31,9 @@ When it comes to actually posting commercial listings, many people do so on Loop
 
 {% include pullquote.html %}
 
-My team and I work and sell properties from approximately 10 different sources. **O****ur speciality is in income-producing commercial assets,** meaning we largely work with non-owner-occupied buildings for out-of-state investors.
+My team and I work and sell properties from approximately 10 different sources. **O****ur specialty is in income-producing commercial assets,** meaning we largely work with non-owner-occupied buildings for out-of-state investors.
 
-We have clients who buy medical office buildings, hotels, single-family homes, and many other types of properties, as well. Whatever kind of asset our clients are looking to buy, we can help. We truly value one-on-one relationships with the people we work with. **We work based around what you want and need.**
+We have clients who buy medical office buildings, hotels, single-family homes, and many other types of properties, as well. Whatever kind of asset our clients are looking to buy, we can help. We truly value one-on-one relationships with the people we work with. **We work based on what you want and need.**
 
 Though we don’t currently do property management, we love to provide referrals to our clients for professionals we know and trust.
 
