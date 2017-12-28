@@ -27,6 +27,6 @@ When you think about your ideal buyer, do you want a looky-loo who’s not that 
 
 {% include pullquote.html %}
 
-People looking for homes in the winter are typically more serious buyers, which means that **though your home might have fewer showings, you’ll deal with much more qualified buyers.**
+People looking for homes in the winter are typically more serious buyers, which means that **al****though your home might have fewer showings, you’ll deal with much more qualified buyers.**
 
 Homes still sell during the winter, so if you’re thinking of beating the inventory rush of May and June, don’t hesitate to give us a call or send us an email. We’d love to help you sell your home.
