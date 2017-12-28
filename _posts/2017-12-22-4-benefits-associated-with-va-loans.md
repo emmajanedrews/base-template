@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Here are four points highlighting the benefits of VA loans for those who
   qualify.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/December/Mississippi+Gulf+Coast+Real+Estate+Agent-+Veterans+Should+Be+Excited.mp4
 pullquote: Veterans can go to the closing table with no money down
 enclosure_type: video/mp4
 enclosure_time:
