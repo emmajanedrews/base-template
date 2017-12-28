@@ -29,7 +29,7 @@ I believe there are three main questions that you should focus on.
 
 {% include pullquote.html %}
 
-**3. Ask about the location of the home.** Are you on the waterfront? Do you have a city view, a western view, or are you looking right into your neighbor’s house? Is the house closer to schools and parks? The placement of the house in a building or town can have a huge impact on the home’s value. Is the property a three-floor walkup? Is it a single-family home on a corner lot?
+**3. Ask about the location of the home.** Are you on the waterfront? Do you have a city view, a western view, or are you looking right into your neighbor’s house? Is the house close to schools and parks? The placement of the house in a building or town can have a huge impact on the home’s value. Is the property a three-floor walkup? Is it a single-family home on a corner lot?
 
 There are a lot of key factors that go into buying a home and writing the best offer. It’s important that you have a Realtor on your side who knows the market and its intricacies to help you make the best decisions moving forward.
 
