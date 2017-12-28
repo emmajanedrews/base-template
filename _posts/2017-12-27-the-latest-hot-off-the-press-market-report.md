@@ -1,13 +1,14 @@
 ---
 layout: post
 title: The Latest Hot off the Press Market Report
-date: 2017-12-27 12:38:51
+date: 2017-12-27 12:38:00
 tags:
   - Market Update
 excerpt: >-
   The latest numbers are in for our real estate market. Here’s what you need to
   know.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+Hot+off+the+presses+December+2017.mp4
 pullquote: Demand is getting stronger and stronger.
 enclosure_type: video/mp4
 enclosure_time:
@@ -21,15 +22,15 @@ youtube_code: 02kroVK_90Q
 
 *The latest numbers are in for our real estate market. Here’s what you need to know.*
 
-I’m back with the December edition of the Hot off the Press Market Report. Winter is coming and so is another tax season. The GOP tax plan looks promising, but we need to pay attention to this more as we go into 2018. As the legislation is passed, we’ll know exactly what the ramifications are.&nbsp;**If it’s passed as it looks, some upper-end buyers and other people who use a lot of itemized deductions, they’re going to be hit pretty hard.** The vast majority of the country is going to probably get a little bit more of a tax break, and that might mean that they’ll be more ready to go ahead and purchase.
+I’m back with the December edition of the Hot off the Press Market Report. Winter is coming and so is another tax season. The GOP tax plan looks promising, but we need to pay attention to this more as we go into 2018. As the legislation is passed, we’ll know exactly what the ramifications are. **If it’s passed as it looks, some upper-end buyers and other people who use a lot of itemized deductions, they’re going to be hit pretty hard.** The vast majority of the country is going to probably get a little bit more of a tax break, and that might mean that they’ll be more ready to go ahead and purchase.
 
 Now let’s take a look at our housing inventory. Inventory is very low right now and prices are rising. So, let’s take a look at the impact of monthly housing inventory on home prices.
 
 If we have less than six months’ inventory, that’s a seller’s market where home prices will appreciate. If we have between six and seven months’ inventory, historically, that’s a neutral market, home prices will only appreciate with inflation. If we have greater than seven months’ inventory, that’s a buyer’s market where home prices will depreciate.
 
-We only have to go back to 2010 and 2011 to know that we had nine months’ inventory overall and in some places more than nine months’ inventory. Prices were sliding then, but right now we’re below the six-month level of inventory. &nbsp;**As a matter of fact, Lawrence Yun, the Chief Economist at the NAR, said in the latest report:**
+We only have to go back to 2010 and 2011 to know that we had nine months’ inventory overall and in some places more than nine months’ inventory. Prices were sliding then, but right now we’re below the six-month level of inventory.  **As a matter of fact, Lawrence Yun, the Chief Economist at the NAR, said in the latest report:**
 
-*&nbsp;“Existing inventory has decreased every month on an annual basis for 29 consecutive months. Until new home construction climbs even higher and more investors and homeowners put their home on the market, sales will continue to severely trail underlying demand.”*
+* “Existing inventory has decreased every month on an annual basis for 29 consecutive months. Until new home construction climbs even higher and more investors and homeowners put their home on the market, sales will continue to severely trail underlying demand.”*
 
 {% include pullquote.html %}
 
