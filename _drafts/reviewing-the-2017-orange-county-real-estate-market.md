@@ -8,7 +8,7 @@ excerpt: >-
   How did the Orange County real estate market do in 2017? When is the best time
   for you to enter the market as a buyer or seller?
 enclosure:
-pullquote:
+pullquote: 'Inventory is at a historic low, so now is a great time to sell your home.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
