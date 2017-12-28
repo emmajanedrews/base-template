@@ -1,15 +1,16 @@
 ---
 layout: post
-title: How Coffee Shops and Home Value Go Hand in Hand
-date: 2017-12-04 15:10:43
+title: Our 15th Limbird Agents Bonus Party
+date: 2017-12-04 15:10:00
 tags:
   - Real Estate
 excerpt: >-
-  What does coffee have to do with the value of your home? Actually, there’s
-  more of a correlation than you think. Between 1997 and 2014, homes within a
-  quarter of a mile of a Starbucks rose in value by 96%. But what about local
-  coffee shops? Well, this answer isn’t so clear, but today I’ve got some
-  insight. To learn more, watch this short video.
+  We recently celebrated our 15th Limbird Agents Bonus party! When you list and
+  sell your home with our LAB program, you are supporting the community we all
+  live and work in. We have given $22,000 to charities in the Northwest Arkansas
+  area. We hold these parties to give bonus commissions to our agents and thank
+  them for all of their hard work. To see a recap of our latest party, watch
+  this short video.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Tara+Limbird/Videos/2017/Limbird+Real+Estate+Group-+Can+Living+Near+a+Starbucks+Increase+Your+Homes+Value%253F.mp4
 pullquote: >-
