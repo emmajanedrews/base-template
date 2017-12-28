@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reviewing the 2017 Orange County Real Estate Market
-date:
+date: 2017-12-28 13:56:51
 tags:
   - Market Update
 excerpt: >-
