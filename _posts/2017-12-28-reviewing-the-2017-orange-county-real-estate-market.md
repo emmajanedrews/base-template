@@ -35,11 +35,11 @@ Unfortunately, in Orange County the $500,000 and under price range is slowly dis
 
 If you are thinking of buying and selling, you may want to wait until the selling season. When is the selling season? A few of your friends or other agents might have told you that the selling season is at another time of year, but let me tell you a few reasons why **now would be a good time to buy or sell:**
 
-1. There are fewer homes on the market, which means less competition for you. You may not have to give as much when it comes to seller concessions this time of year.
-2. Buyers are more serious. They have been wanting to buy a home, and they are taking the opportunity to get out there and look.
-3. Buyers have more time to look for homes. Some companies close for one or two weeks over the holidays, which means they are able to get out and look at homes during the day.
-4. There are a lot of vacation and international visitors in our area over the holidays. Some of them come here specifically to look at real estate. They may want to buy a second home, a vacation home, or a permanent residence. Some even buy houses for their kids who attend college here. Now is a great time for them to come and look at homes.
-5. After the holidays, there will be more homes coming on the market in 2018. People will decide to list their homes. There will be more competition, prices might go down, and you may have to give more seller concessions to make that deal.
+1. There are fewer homes on the market, which means less competition for you. You may not have to give as much when it comes to seller concessions this time of year.<br>&nbsp;
+2. Buyers are more serious. They have been wanting to buy a home, and they are taking the opportunity to get out there and look.<br>&nbsp;
+3. Buyers have more time to look for homes. Some companies close for one or two weeks over the holidays, which means they are able to get out and look at homes during the day.<br>&nbsp;
+4. There are a lot of vacation and international visitors in our area over the holidays. Some of them come here specifically to look at real estate. They may want to buy a second home, a vacation home, or a permanent residence. Some even buy houses for their kids who attend college here. Now is a great time for them to come and look at homes.<br>&nbsp;
+5. After the holidays, there will be more homes coming on the market in 2018. People will decide to list their homes. There will be more competition, prices might go down, and you may have to give more seller concessions to make that deal.<br>&nbsp;
 6. **The new tax law will impact the California real estate market.** We’re not sure how yet, but it will have some impact. If you plan on buying or selling a home, go ahead and do so now.
 
 As you can see, it might be in your best interest to enter the market now instead of waiting for the so-called “selling season.”
