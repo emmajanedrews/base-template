@@ -21,7 +21,7 @@
 
 .navbar-left>li>a
 	background: $button-background
-	color: black
+	color: $theme
 	// padding: 1.3rem 2rem
 	text-transform: capitalize
 	font-size: 2rem
@@ -29,16 +29,14 @@
 	// border: 2px solid $button-border
 	// @include transition(0.3s)
 	&:hover
-		background: #eeeeee
-		color: $brand-dark
+		background: $brand
+		color: #fff
 		// border-top: 3px solid $brand
 		// @include transform(scale(1.05))
 		// @include transform(translateY(-0.2rem))
 	&:active
-		// box-shadow: 0 0 0 $brand-dark
-		@include transform(translateY(0rem))
-		text-decoration: none
-		color: $brand
+		background: $brand
+		color: #fff
 	&:focus
 		text-decoration: none
 		color: $brand

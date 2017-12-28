@@ -7,20 +7,22 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Steve Cunha
   license_number:
   about_markdown: |
+    For over a century, Baystate Financial has united the industry’s foremost professionals in comprehensive wealth management and employee sponsored retirement plans. As one of New England’s oldest and most trusted financial services firms, we focus our expertise on truly listening to our clients, identifying their objectives, and building sophisticated strategies to achieve their goals.
 
+    Stephen Cunha provides individual investors and business owners with custom wealth management and benefit strategies. Whatever you hope to achieve, we seek to advance your goals through all chapters of your life: today, tomorrow, and for years to come.
   market:
-  brand:
-  brokerage:
-  address:
-  phone:
+  brand: Baystate Financial
+  brokerage: Massachusetts Mutual Life Insurance Company
+  address: 301 Edgewater Place Suite 200<br>Wakefield, MA 01880
+  phone: 781-876-4113
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: SCunha@BayStateFinancial.com
+  url: http://www.retirementcfo.com
 
 CTAs:
   first_CTA_text: Home Valuation
@@ -29,19 +31,19 @@ CTAs:
   second_CTA_URL: /homesearch/
   VR_form:
 
-sidebar_CTA:
-  - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
-
-second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+# sidebar_CTA:
+#   - CTA_image_path: /img/cta-images/004.jpg
+#     CTA_title: "What’s Your -- MARKET -- Home Worth?"
+#     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
+#     CTA_link_text: "Free Home Value Report"
+#     CTA_url: /homevalue/
+#
+# second_sidebar_CTA:
+#   - CTA_image_path2: /img/cta-images/005.jpg
+#     CTA_title2: "Looking for a -- MARKET -- Home?"
+#     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
+#     CTA_link_text2: "Search the MLS"
+#     CTA_url2: /homesearch/
 
 lender:
   show_section: false
@@ -96,8 +98,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#BB9544'
+  theme_color: '#1C3C48'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -106,7 +108,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: rgba(96, 95, 95, .75)
 
 buttons:
   button_radius_number: 0
