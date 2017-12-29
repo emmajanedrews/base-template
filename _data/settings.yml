@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: Boise Real Estate Video Blog with Graham Mackenzie
 description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -22,12 +22,13 @@ client:
   email: Graham@R2RRealty.com
   url: http://R2RRealty.com
 
+emma_form:
+
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: http://www.r2rrealty.com/home_valuation
   second_CTA_text: Home Search
   second_CTA_URL: http://www.r2rrealty.com/property
-  VR_form:
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
@@ -73,8 +74,8 @@ socials:
   twitter_url: https://twitter.com/gmackenzie23
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
+  zillow_url: https://www.zillow.com/profile/graham25/
+  trulia_url: https://www.trulia.com/profile/graham-mackenzie-agent-boise-id-zgjv33k8/overview
   yelp_url:
   podcast_url:
 
