@@ -21,7 +21,7 @@ youtube_code: 8pEjWgRvuH4
 
 Today, I want to take a quick minute to give you a recap of the 2017 real estate market, as well as give you an idea of what to expect in 2018.
 
-Compared to 2016, home sales in 2017 stayed about the same. There was just a slight reduction year over year. In 2016, about 5,000 homes sold throughout Southwest Indiana. When I say Southwest Indiana, I mean Vanderbilt County, Ward, Spencer, Perry, Posey, Dubois, and Gibson County.
+Compared to 2016, home sales in 2017 stayed about the same. There was just a slight reduction year over year. In 2016, about 5,000 homes sold throughout Southwest Indiana. When I say Southwest Indiana, I mean Vanderburgh County, Warrick, Spencer, Perry, Posey, Dubois, and Gibson County.
 
 Nationally, home sales went up 0.3% in 2017. In 2018, we expect a 4% increase, which is fairly substantial. However, the government can definitely impact that with the tax reform. There are a couple of key points in the tax bill that could affect the housing market. Keep in mind that I am not an accountant, so I recommend speaking with one if you want to know more details.
 
