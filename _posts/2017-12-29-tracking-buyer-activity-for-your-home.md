@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tracking Buyer Activity for Your Home
-date:
+date: 2017-12-29 13:21:50
 tags:
   - Home Seller Tips
 excerpt: >-
