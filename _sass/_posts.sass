@@ -9,8 +9,9 @@
   padding: 10px
   margin-top: 10px
   margin-bottom: 20px
-  border: 1px solid #c7c7c7
+  // border: 1px solid #c7c7c7
   width: 30%
+  text-align: center
 
 .post-block-container
   display: flex
@@ -38,11 +39,13 @@
 
 .post-overview-title
   font-size: 2.8rem
-  text-align: left
+  text-align: center
+  font-weight: bold
 
 .post-title
   font-size: 5rem
-  text-align: left
+  text-align: center
+  font-weight: 300
 
 .post-image
   width: 100%
@@ -64,7 +67,7 @@
 
 .readlink>a
   background: $brand
-  color: $light-text
+  color: #fff
   border: 1px solid $brand
   // border-radius: 5px
   padding: 10px 20px
@@ -73,15 +76,9 @@
   font-size: 16px
   +transition
   &:hover
-    background: transparent
-    color: $brand-light
-    box-shadow: 4px 4px 0 $brand-light
-    border: 1px solid $brand-light
-    @include transform(scale(1.05))
-    @include transform(translateY(-0.2rem))
-  &:active
-    box-shadow: 0 0 0 $brand-light
-    @include transform(translateY(0rem))
+    background: #fff
+    color: $brand
+    border: 1px solid $brand
 
 
 
@@ -186,7 +183,7 @@
   a
     color: white
     &:hover
-      color: $brand-light
+      color: $brand
 .post-share
   text-align: center
   padding-bottom: 0px

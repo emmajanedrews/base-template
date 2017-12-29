@@ -1898,8 +1898,8 @@ table tr, table td {
   padding: 10px;
   margin-top: 10px;
   margin-bottom: 20px;
-  border: 1px solid #c7c7c7;
-  width: 30%; }
+  width: 30%;
+  text-align: center; }
 
 .post-block-container {
   display: -webkit-box;
@@ -1932,11 +1932,13 @@ table tr, table td {
 
 .post-overview-title {
   font-size: 2.8rem;
-  text-align: left; }
+  text-align: center;
+  font-weight: bold; }
 
 .post-title {
   font-size: 5rem;
-  text-align: left; }
+  text-align: center;
+  font-weight: 300; }
 
 .post-image {
   width: 100%;
@@ -1948,7 +1950,7 @@ table tr, table td {
 
 .readlink > a {
   background: #BB9544;
-  color: white;
+  color: #fff;
   border: 1px solid #BB9544;
   padding: 10px 20px;
   margin-bottom: 20px;
@@ -1957,18 +1959,9 @@ table tr, table td {
   -webkit-transition: all 0.15s ease-out 0s;
   transition: all 0.15s ease-out 0s; }
   .readlink > a:hover {
-    background: transparent;
-    color: #d6bf8f;
-    box-shadow: 4px 4px 0 #d6bf8f;
-    border: 1px solid #d6bf8f;
-    -webkit-transform: scale(1.05);
-    transform: scale(1.05);
-    -webkit-transform: translateY(-0.2rem);
-    transform: translateY(-0.2rem); }
-  .readlink > a:active {
-    box-shadow: 0 0 0 #d6bf8f;
-    -webkit-transform: translateY(0rem);
-    transform: translateY(0rem); }
+    background: #fff;
+    color: #BB9544;
+    border: 1px solid #BB9544; }
 
 #arrow_left, #arrow_right {
   max-width: 2rem; }
@@ -2063,7 +2056,7 @@ table tr, table td {
   .author-attribution a {
     color: white; }
     .author-attribution a:hover {
-      color: #d6bf8f; }
+      color: #BB9544; }
 
 .post-share {
   text-align: center;

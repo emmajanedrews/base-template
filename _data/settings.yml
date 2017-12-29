@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: BayState Financial Video Blog with Stephen Cunha
 description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -7,14 +7,14 @@ custom_links:
     url:
 
 client:
-  name: Steve Cunha
+  name: Stephen Cunha
   license_number:
   about_markdown: |
     For over a century, Baystate Financial has united the industry’s foremost professionals in comprehensive wealth management and employee sponsored retirement plans. As one of New England’s oldest and most trusted financial services firms, we focus our expertise on truly listening to our clients, identifying their objectives, and building sophisticated strategies to achieve their goals.
 
     Stephen Cunha provides individual investors and business owners with custom wealth management and benefit strategies. Whatever you hope to achieve, we seek to advance your goals through all chapters of your life: today, tomorrow, and for years to come.
   market:
-  brand: Baystate Financial
+  brand: BayState Financial
   brokerage: Massachusetts Mutual Life Insurance Company
   address: 301 Edgewater Place Suite 200<br>Wakefield, MA 01880
   phone: 781-876-4113
@@ -24,12 +24,13 @@ client:
   email: SCunha@BayStateFinancial.com
   url: http://www.retirementcfo.com
 
+Emma_form:
+
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
   second_CTA_URL: /homesearch/
-  VR_form:
 
 # sidebar_CTA:
 #   - CTA_image_path: /img/cta-images/004.jpg
