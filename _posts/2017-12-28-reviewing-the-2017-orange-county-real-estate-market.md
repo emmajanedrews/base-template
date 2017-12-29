@@ -29,7 +29,7 @@ Well, **the number of homes on the market is at a historic low.** We will start 
 
 In fact, there are 20% fewer homes on the market right now than there were at this time last year. In the $500,000 and under range, there are 30% fewer homes on the market year over year.
 
-Unfortunately, in Orange County the $500,000 and under price range is slowly disappearing. Interestingly, the median listing price is $1.8 million, which is pretty high. This number is slightly tweaked by high prices in the luxury real estate market.<br><br>**For homes under $750,000, the market is hot.** Anything under $1 million in good condition is flying off the market. The list to sales price ratio is over 99%, and these homes often get multiple offers as well.
+Unfortunately, in Orange County the $500,000 and under price range is slowly disappearing. Interestingly, the median listing price is $1.8 million, which is pretty high. This number is slightly tweaked by high prices in the luxury real estate market.<br><br>**For homes under $750,000, the market is hot.** Anything under $1 million in good condition is flying off the market. The list-to-sales price ratio is over 99%, and these homes often get multiple offers as well.
 
 {% include pullquote.html %}
 
