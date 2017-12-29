@@ -9,20 +9,20 @@ custom_links:
 emma_form:
 
 client:
-  name:
+  name: Ben Taylor & Matt Giggs
   license_number:
   about_markdown: |
-
+    We want to show, share and serve the most committed estate agents how to build lives worth living, businesses worth owning and a platform to achieve the impossible! We do what it takes to achieve accelerated business growth through 'people mastery' today. Keller Williams have an extraordinary model for estate agency in the U.K, which encourages MORE individuals to build careers worth having, businesses worth owning and LIVES worth living. The Keller model aligns with my values, so together with Ben Taylor we are committed to leading this mission with like minded agents across the U.K, starting in Milton Keynes in early 2018. We believe estate agency is at its most exciting point in its history, our mission with this model is to create an estate agency revolution by helping even more people to achieve their visions in an industry we all love!
   market:
-  brand:
-  brokerage:
+  brand: Taylor Giggs Property Group
+  brokerage: Keller Williams Milton Keynes
   address:
   phone:
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: hello@mattgiggs.com
+  url: https://mattgiggs.com
 
 CTAs:
   first_CTA_text: Home Valuation
@@ -31,14 +31,14 @@ CTAs:
   second_CTA_URL: /homesearch/
 
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/004.jpg
+  - CTA_image_path: /img/cta-images/002.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
     CTA_url: /homevalue/
 
 second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/005.jpg
+  - CTA_image_path2: /img/cta-images/006.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
@@ -67,8 +67,8 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/pages/Owner-Managing-Director-of-Giggs-and-Company-Estate-Agents/379659625425500?timeline_context_item_type=intro_card_work&timeline_context_item_source=100003945675598&__xt__=31.[100003945675598%2C%22intro_card%22%2C%7B%7D]&pnref=lhc
+  linkedin_url: https://www.linkedin.com/in/mattgiggs/
   gplus_url:
   youtube_url:
   twitter_url:
@@ -97,8 +97,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#545556'
+  theme_color: '#AA0101'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
