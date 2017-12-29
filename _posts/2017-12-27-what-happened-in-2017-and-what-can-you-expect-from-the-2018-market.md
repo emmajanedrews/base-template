@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   2017 was a fabulous year for real estate, but it looks like the projections
   are even better for buyers and sellers—particularly sellers.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Ron+Cedillo/Tracy%252C+CA+Real+Estate-+2017+recap+and+2018+predictions.mp4
 pullquote: We’ve sold homes for 18% over the market value.
 enclosure_type: video/mp4
 enclosure_time:
@@ -19,7 +20,7 @@ youtube_code: U08yHW-WYp4
 
 {% include youtube.html %}
 
-2017 was a fabulous year for real estate, but it looks like the projections are even better for buyers and sellers—particularly sellers. &nbsp;
+2017 was a fabulous year for real estate, but it looks like the projections are even better for buyers and sellers—particularly sellers.
 
 We did do some research and pulled some trend graphics. We can do this for any zip code. Not all Realtors utilize this kind of data, but we’ve found that it scientifically helps us net you more money for your home.
 
