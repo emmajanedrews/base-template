@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   2017 was a fantastic year. Today, let’s take a look at the projections for the
   2018 real estate market.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate-+2018+real+estate+market+predictions.mp4
 pullquote: >-
   2018 is projected to be one of the top three years for real estate in the last
   100 years.
