@@ -5,8 +5,8 @@
     <description>Our mission at BayState Financial is to be your best resource for  real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The BayState Financial, your professional  Real Estate Agents.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 29 Dec 2017 13:31:46 -0600</pubDate>
-    <lastBuildDate>Fri, 29 Dec 2017 13:31:46 -0600</lastBuildDate>
+    <pubDate>Fri, 29 Dec 2017 13:46:13 -0600</pubDate>
+    <lastBuildDate>Fri, 29 Dec 2017 13:46:13 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -23,7 +23,13 @@
         <link>localhost:4000/episode31.html</link>
         <guid isPermaLink="true">localhost:4000/episode31.html</guid>
         
-        <category>Real Estate</category>
+        <category>Financial Advice</category>
+        
+        <category>Wealth Management</category>
+        
+        <category>Business Owners</category>
+        
+        <category>Investor Tips</category>
         
         
       </item>
@@ -42,7 +48,13 @@
         <link>localhost:4000/episode29.html</link>
         <guid isPermaLink="true">localhost:4000/episode29.html</guid>
         
-        <category>Home Seller Tips</category>
+        <category>Financial Advice</category>
+        
+        <category>Wealth Management</category>
+        
+        <category>Business Owners</category>
+        
+        <category>Investor Tips</category>
         
         
       </item>
@@ -61,7 +73,13 @@
         <link>localhost:4000/episode30.html</link>
         <guid isPermaLink="true">localhost:4000/episode30.html</guid>
         
-        <category>Market Update</category>
+        <category>Financial Advice</category>
+        
+        <category>Wealth Management</category>
+        
+        <category>Business Owners</category>
+        
+        <category>Investor Tips</category>
         
         
       </item>
@@ -88,11 +106,13 @@
         <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
         <guid isPermaLink="true">localhost:4000/this-is-a-test-post-copy-2.html</guid>
         
-        <category>Market Update</category>
+        <category>Financial Advice</category>
         
-        <category>Real Estate</category>
+        <category>Wealth Management</category>
         
-        <category>Home Seller Tips</category>
+        <category>Business Owners</category>
+        
+        <category>Investor Tips</category>
         
         
       </item>
@@ -135,11 +155,13 @@
         <link>localhost:4000/a-fox-in-space.html</link>
         <guid isPermaLink="true">localhost:4000/a-fox-in-space.html</guid>
         
-        <category>Market Update</category>
+        <category>Financial Advice</category>
         
-        <category>Real Estate</category>
+        <category>Wealth Management</category>
         
-        <category>Home Seller Tips</category>
+        <category>Business Owners</category>
+        
+        <category>Investor Tips</category>
         
         
       </item>

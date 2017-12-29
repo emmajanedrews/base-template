@@ -27,10 +27,10 @@ client:
 Emma_form:
 
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
-  second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  first_CTA_text: Request A Consultation
+  first_CTA_URL: http://www.retirementcfo.com/contact
+  second_CTA_text: Request a Plan Proposal
+  second_CTA_URL: /
 
 # sidebar_CTA:
 #   - CTA_image_path: /img/cta-images/004.jpg
@@ -70,7 +70,7 @@ welcome_box:
 socials:
   review_sm_icons: false
   facebook_url:
-  linkedin_url:
+  linkedin_url: https://www.linkedin.com/in/stephen-cunha-cfp%C2%AE-aif-crps-clu-cltc-0b2870/
   gplus_url:
   youtube_url:
   twitter_url:
@@ -93,8 +93,8 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  logo_width_number: 60
+  hero_text: Financial Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg

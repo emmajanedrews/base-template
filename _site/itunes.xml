@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from BayState Financial - your professional  Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Stephen Cunha</managingEditor>
-    <lastBuildDate>2017-12-29 13:31:46 -0600</lastBuildDate>
+    <lastBuildDate>2017-12-29 13:46:13 -0600</lastBuildDate>
     <media:copyright>Stephen Cunha</media:copyright>
     <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -28,7 +28,13 @@
         <title>Vyral Marketing Show Episode 31</title>
         <link>localhost:4000/episode31.html</link>
         
-          <category>Real Estate</category>
+          <category>Financial Advice</category>
+        
+          <category>Wealth Management</category>
+        
+          <category>Business Owners</category>
+        
+          <category>Investor Tips</category>
         
         <author>Stephen Cunha</author>
         <pubDate>2017-12-29 04:38:35 -0600</pubDate>
@@ -63,7 +69,13 @@ You’ll learn the top five warm advertising audiences for lead generation on Fa
         <title>Vyral Marketing Show Episode 29</title>
         <link>localhost:4000/episode29.html</link>
         
-          <category>Home Seller Tips</category>
+          <category>Financial Advice</category>
+        
+          <category>Wealth Management</category>
+        
+          <category>Business Owners</category>
+        
+          <category>Investor Tips</category>
         
         <author>Stephen Cunha</author>
         <pubDate>2017-12-29 04:35:00 -0600</pubDate>
@@ -98,7 +110,13 @@ You’ll learn how to read a simple script into a microphone so you don’t have
         <title>Vyral Marketing Show Episode 30</title>
         <link>localhost:4000/episode30.html</link>
         
-          <category>Market Update</category>
+          <category>Financial Advice</category>
+        
+          <category>Wealth Management</category>
+        
+          <category>Business Owners</category>
+        
+          <category>Investor Tips</category>
         
         <author>Stephen Cunha</author>
         <pubDate>2017-12-29 04:31:32 -0600</pubDate>
@@ -133,11 +151,13 @@ You’ll learn how to hire an assistant in the Philippines, if you can’t affor
         <title>this is a test post</title>
         <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
         
-          <category>Market Update</category>
+          <category>Financial Advice</category>
         
-          <category>Real Estate</category>
+          <category>Wealth Management</category>
         
-          <category>Home Seller Tips</category>
+          <category>Business Owners</category>
+        
+          <category>Investor Tips</category>
         
         <author>Stephen Cunha</author>
         <pubDate>2016-10-04 00:00:00 -0500</pubDate>
@@ -172,11 +192,13 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
         <title>A Fox in Space</title>
         <link>localhost:4000/a-fox-in-space.html</link>
         
-          <category>Market Update</category>
+          <category>Financial Advice</category>
         
-          <category>Real Estate</category>
+          <category>Wealth Management</category>
         
-          <category>Home Seller Tips</category>
+          <category>Business Owners</category>
+        
+          <category>Investor Tips</category>
         
         <author>Stephen Cunha</author>
         <pubDate>2016-09-28 00:00:00 -0500</pubDate>
