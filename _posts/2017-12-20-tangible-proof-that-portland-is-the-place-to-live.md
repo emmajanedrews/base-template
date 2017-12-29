@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Tangible Proof That Portland Is the Place to Live
-date: 2017-12-20 14:20:59
+date: 2017-12-20 14:20:00
 tags:
   - Real Estate
 excerpt: >-
   Portland has been in the news recently in a big way. Specifically, there were
   a few recent articles in Forbes that I wanted to address.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%25202%2520new%2520studies%2520show%2520Portland%2520is%2520great.mp4
 pullquote: This is a great place to be in business.
 enclosure_type: video/mp4
 enclosure_time:
