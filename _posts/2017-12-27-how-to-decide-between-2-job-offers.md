@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: MIHOFzFZvRQ
+youtube_code: 2q2il5GGBpQ
 ---
 
 
@@ -23,7 +23,7 @@ So you’ve gone through the interview process and have received multiple job of
 
 **1. Your long-term career goals.** You not only want to focus on what the job gives you today, but also where it puts you down the road. Don’t just think about those immediate results. Think about where you’ll be five or 10 years from now if you accept the job. Ultimately, you want to find more than a job. You want to find a career.
 
-**2. Salary.&nbsp;**The simple answer here is to take the job that pays the most, but it can be more complex than that. Salary isn’t everything. Weigh the salary with the position itself and keep in mind that you can always negotiate.
+**2. Salary.**The simple answer here is to take the job that pays the most, but it can be more complex than that. Salary isn’t everything. Weigh the salary with the position itself and keep in mind that you can always negotiate.
 
 {% include pullquote.html %}
 
