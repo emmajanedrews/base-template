@@ -12,7 +12,7 @@ excerpt: >-
   them for all of their hard work. To see a recap of our latest party, watch
   this short video.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Tara+Limbird/Limbird+Real+Estate+Group-+Our+15th+LAB+Party.mp4
+  https://s3.amazonaws.com/vyralmarketing/Tara+Limbird/Videos/2017/Limbird+Real+Estate+Group-+Our+15th+LAB+Party+(1).mp4
 pullquote: >-
   We’ve given away $150,000 in bonus commissions to thank our agents for their
   hard work.
@@ -20,7 +20,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: z7tHpkqQE10
+youtube_code: rBcdgrkVv90
 ---
 
 
