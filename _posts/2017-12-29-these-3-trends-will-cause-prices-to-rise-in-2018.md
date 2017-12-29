@@ -23,7 +23,7 @@ youtube_code: _h7tzFEWPCI
 
 Today, I’d like to cover three trends that will likely cause home prices to increase in 2018. I wanted to speak about this because thus far in 2017, we’ve experienced, on average, a 6.8% increase in home prices.
 
-**The first trend to note is the low supply.**Supply has been historically low, and when supply is low, sellers typically have more negotiating power than buyers. When there are more buyers than there are homes to purchase, that creates a seller’s market. That means that sellers can ask for higher prices for their homes, and they can expect those higher prices when they close.
+**The first trend to note is the low supply.** Supply has been historically low, and when supply is low, sellers typically have more negotiating power than buyers. When there are more buyers than there are homes to purchase, that creates a seller’s market. That means that sellers can ask for higher prices for their homes, and they can expect those higher prices when they close.
 
 {% include pullquote.html %}
 
