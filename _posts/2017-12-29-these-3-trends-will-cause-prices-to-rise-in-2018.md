@@ -33,6 +33,6 @@ Today, I’d like to cover three trends that will likely cause home prices to in
 * The interest rate has remained below the historic average of 6% to 8%, which encourages buyers to purchase.
 * Inclement weather. We experienced a devastating hurricane season in 2017. As a result, a lot of people have relocated to central Florida. As they get situated in their new locale, they will eventually become buyers, thereby increasing demand.
 
-**The last trend to pay attention to is affordability.**This will vary from one individual situation to the next, but recent statistics show that it’s more affordable to purchase a home than it is to rent that same home. While the sales price and mortgage may be higher than what homeowners are accustomed to and are happy with, it’s still on par, if not below, what they would be renting that same home for.
+**The last trend to pay attention to is affordability.** This will vary from one individual situation to the next, but recent statistics show that it’s more affordable to purchase a home than it is to rent that same home. While the sales price and mortgage may be higher than what homeowners are accustomed to and are happy with, it’s still on par, if not below, what they would be renting that same home for.
 
 If you have any questions about this or other real estate-related topics, feel free to reach out to me. I’d love to help you out any way I can.
