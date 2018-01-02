@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How the Abelson DISC Assessment Helps Our Team Find New Members
-date: 2017-11-21 09:36:00
+date: 2017-12-05 09:00:00
 tags:
 excerpt: >-
   One of the best ways to find new team members is by implementing the Abelson
