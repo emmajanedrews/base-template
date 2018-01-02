@@ -29,9 +29,9 @@ If you plan on selling your home, then it needs to look its best. Here are five 
 
 {% include pullquote.html %}
 
-**4. Make repairs.** Take care of minor repairs like broken windows, peeling paint, or loose downspouts. Everything need to be done.
+**4. Make repairs.** Take care of minor repairs like broken windows, peeling paint, or loose downspouts. Everything needs to be done.
 
-**5. Neutralizing.**Bring in neutral decor so that buyers won’t feel like they have to do any painting. Get rid of wallpaper, too.
+**5. Neutralizing.** Bring in neutral decor so that buyers won’t feel like they have to do any painting. Get rid of wallpaper, too.
 
 If you follow these five tips, your home will look spectacular and sell for the most amount of money in the least amount of time.
 
