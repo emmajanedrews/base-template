@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: Greater Spokane Real Estate Video Blog with Alejandro Ventura
 description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -9,24 +9,24 @@ custom_links:
 emma_form:
 
 client:
-  name:
+  name: Alejandro Ventura
   license_number:
   about_markdown: |
-
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    As an agent who's an expert in this local area, I bring a wealth of knowledge and expertise about buying and selling real estate here. It's not the same everywhere, so you need someone you can trust for up-to-date information. I am eager to serve you.
+  market: Greater Spokane
+  brand: Alejandro Ventura Real Estate
+  brokerage: KW Spokane
+  address: 799 S Stevens Street<br>Spokane, WA 99204
+  phone: 509-389-1913
   phone_type:
   phone2:
   phone2_type:
-  email:
+  email: AlejandroVentura@KW.com
   url:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://alejandrov.kwrealty.com/sell/
   second_CTA_text: Home Search
   second_CTA_URL: /homesearch/
 
@@ -35,7 +35,7 @@ sidebar_CTA:
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://alejandrov.kwrealty.com/sell/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
@@ -67,11 +67,11 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
+  facebook_url: https://www.facebook.com/AlejandroVenturaRealEstate/
   linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  gplus_url: https://plus.google.com/107934956734841291344
+  youtube_url: https://www.youtube.com/channel/UCYIdzap1cXk1bRMdorjxkiQ
+  twitter_url: https://twitter.com/SouthHillHomes
   instagram_url:
   pinterest_url:
   zillow_url:
@@ -110,7 +110,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: rgba(69, 80, 68, .75)
 
 buttons:
   button_radius_number: 0
