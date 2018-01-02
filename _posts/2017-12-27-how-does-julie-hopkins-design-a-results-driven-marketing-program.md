@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Does Julie Hopkins Design a Results-Driven Marketing Program?
-date: 2017-12-27 13:59:52
+date: 2017-12-27 13:59:00
 tags:
   - Real Estate
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/result-driven-market-youtube.jpg
-youtube_code: Uj9a_cUn3RM
+youtube_code: 1PnxKNQTJG0
 ---
 
 
