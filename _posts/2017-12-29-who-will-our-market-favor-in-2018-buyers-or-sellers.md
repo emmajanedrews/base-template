@@ -26,7 +26,7 @@ What happened with their listing? It’s been on the market for a little over tw
 
 {% include pullquote.html %}
 
-For that couple, are we still in a seller’s market? **Just because homes are selling fairly quickly doesn’t mean your home doesn’t need to still be marketed.** There are a ton of buyers out there, but if the agents in our area don’t know about your home, buyers might never find it. This couple eventually reached out to us and asked us to market their home, so from now on, all 12,000 people in or area will know about their home.&nbsp;
+For that couple, are we still in a seller’s market? **Just because homes are selling fairly quickly doesn’t mean your home doesn’t need to be marketed.** There are a ton of buyers out there, but if the agents in our area don’t know about your home, buyers might never find it. This couple eventually reached out to us and asked us to market their home, so from now on, all 12,000 people in our area will know about their home.&nbsp;
 
 On the flip side, we’re going to argue that for our buyers—or the folks who work with Carolina Real Estate Experts—it’s a buyer’s market. This is because **we focus on getting our buyers priority access to all the better deals out there the second they come on the market** so they avoid entering multiple offer situations with other buyers.&nbsp;
 
