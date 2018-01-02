@@ -24,24 +24,24 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.kmitchellteam.com/home-worth
+  first_CTA_URL: http://kmitchellteam.com/home_value
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.kmitchellteam.com/listings-search/#/2033763787
-  VR_form:
+  second_CTA_URL: http://kmitchellteam.com/search#?q_limit=36&q_prioritize=agents.0.id=261203407|office.id=56128&mlsId=28&q_sort=createdAt-&q_offset=0
+  VR_form: http://oi.vresp.com?fid=203c2ff7a8
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: http://www.kmitchellteam.com/home-worth
+    CTA_url: http://kmitchellteam.com/home_value
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: http://www.kmitchellteam.com/listings-search/#/2033763787
+    CTA_url2: http://kmitchellteam.com/search#?q_limit=36&q_prioritize=agents.0.id=261203407|office.id=56128&mlsId=28&q_sort=createdAt-&q_offset=0
 
 lender:
   show_section: false
