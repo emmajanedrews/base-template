@@ -29,9 +29,9 @@ Additionally, many people assume open houses are only a good source for buyer bu
 
 There are four strategies you can use to take your open house to the next level and reap the all the benefits from it.
 
-**First, signs, signs, and more signs.**Way too often I see agents only putting out only two, three, or four signs. On our team, we encourage our agents to put up anywhere from 25 to 50 signs. Every single time we do an open house, the No. 1 source of all the attendees is our signs.
+**First, use signs, signs, and more signs.&nbsp;**Way too often I see agents only putting out only two, three, or four signs. On our team, we encourage our agents to put up anywhere from 25 to 50 signs. Every single time we do an open house, the No. 1 source of all the attendees is our signs.
 
-**Second, advertise the open house on social media.**Social media, particularly Facebook, allows you to target certain audiences so you can take that open house and create an audience within one mile of it for a cheap price. In addition to that, there are some really cool tools like Mojo Dialer and Cole Realty Resource that allow you to pull the phone numbers of all the neighbors in the area. We encourage our agents to create a list of 200 to 300 of the closest neighbors and invite them or leave them a voicemail 24 to 48 hours before the open house. Again, this shows them that you’re willing to put in the time, energy, and focus to market that open house at the highest level.
+**Second, advertise the open house on social media.&nbsp;**Social media, particularly Facebook, allows you to target certain audiences so you can take that open house and create an audience within one mile of it for a cheap price. In addition to that, there are some really cool tools like Mojo Dialer and Cole Realty Resource that allow you to pull the phone numbers of all the neighbors in the area. We encourage our agents to create a list of 200 to 300 of the closest neighbors and invite them or leave them a voicemail 24 to 48 hours before the open house. Again, this shows them that you’re willing to put in the time, energy, and focus to market that open house at the highest level.
 
 {% include pullquote.html %}
 
