@@ -27,7 +27,7 @@ In terms of days on market, the average in Ada County is 31 days. In Canyon Coun
 
 {% include pullquote.html %}
 
-According to the National Association of Realtors, a healthy market should have an inventory of homes between five to six months. This means our area currently has a big shortage of properties.
+According to the National Association of Realtors, a healthy market should have between five to six months of inventory. This means our area currently has a big shortage of properties.
 
 This presents a great opportunity for sellers, who can take advantage of the lack of competition when they list.
 
