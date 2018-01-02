@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Make Every Day a Vacation in 2018
-date: 2018-01-03 09:00:00
+date: 2018-01-02 16:50:00
 tags:
 excerpt: >-
   Recently while I was in Thailand, I saw a beautiful view that got me thinking:
