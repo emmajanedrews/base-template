@@ -29,7 +29,7 @@ Today, I’d like to cover three trends that will likely cause home prices to in
 
 **Second, there will be high demand.** There are a few reasons for the increase in demand:
 
-* There has been an increase in the number of 18- to 20-year-old first-time homebuyers that will actually go through with a purchase.
+* There has been an increase in the number of 18- to 24-year-old first-time homebuyers that will actually go through with a purchase.
 * The interest rate has remained below the historic average of 6% to 8%, which encourages buyers to purchase.
 * Inclement weather. We experienced a devastating hurricane season in 2017. As a result, a lot of people have relocated to central Florida. As they get situated in their new locale, they will eventually become buyers, thereby increasing demand.
 
