@@ -1,7 +1,7 @@
 ---
 layout: post
 title: These 3 Trends Will Cause Prices to Rise in 2018
-date: 2017-12-29 12:05:38
+date: 2017-12-29 12:05:00
 tags:
 excerpt: >-
   There are three trends to follow closely in 2018 that will likely cause home
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/mitchell-youtube.jpg
-youtube_code: _h7tzFEWPCI
+youtube_code: EE6J9waHyRw
 ---
 
 
