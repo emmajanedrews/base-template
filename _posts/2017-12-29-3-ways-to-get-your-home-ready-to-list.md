@@ -29,6 +29,6 @@ When you’re planning to sell your home, there are a number of things you ought
 
 {% include pullquote.html %}
 
-**3. Consult with a real estate professional.** Knowing what not to do is equally important to knowing what to do when it comes to selling your home. Sometimes sellers will update areas of their house with a modern decor style, but if other areas aren’t updated, that will stand out. The idea is to complement the style and design that you have in place without spending a lot of money and also to make sure the home is appealing to buyers. Uniformity and cleanliness is absolutely paramount, which is where consulting with a professional comes in.
+**3. Consult with a real estate professional.** Knowing what not to do is equally important as knowing what to do when it comes to selling your home. Sometimes sellers will update areas of their house with a modern decor style, but if other areas aren’t updated, that will stand out. The idea is to complement the style and design that you have in place without spending a lot of money and also to make sure the home is appealing to buyers. Uniformity and cleanliness are absolutely paramount, which is where consulting with a professional comes in.
 
 If you have questions about buying or selling a house, please give me a call or send an email. We’d love to get together with you for a free consultation.
