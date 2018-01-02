@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Make Your Season Fun With Our Holiday Guide
-date: 2017-11-30 09:35:00
+title: Make Every Day a Vacation in 2018
+date: 2018-01-03 09:00:00
 tags:
 excerpt: >-
-  Today, I want to help you get into the holiday spirit. Sometimes it gets a
-  little bit challenging to get into the holiday season here because when we
-  think of a “white” Christmas, we think of sand instead of snow. That’s why
-  I’ve come up with a list of fun upcoming Christmas events happening in our
-  area. We have a ton of interesting things going on, like parades, boat
-  parades, and even a Santa’s workshop. To see a list of all the great events
-  happening this holiday season, watch my latest video.
+  Recently while I was in Thailand, I saw a beautiful view that got me thinking:
+  What if I could vacation every day? In that moment, I decided to give myself a
+  challenge for the new year. In 2018, I’m going to vacation every day, and you
+  can do it too. No matter where you are, it is possible. To find out more,
+  watch this short video.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Videos/2017/Our+Local+Christmas+Season+Activities+%257C+Palm+Beach+Real+Estate.mp4
 pullquote: Be sure to schedule some fun time to enjoy our South Florida snow.
@@ -56,13 +54,13 @@ Info: 561-600-9097.
 
 Info: 561-243-7277.
 
-**December 12:** Ugly Holiday Sweater Crawl—Visit downtown West Palm Beach bars and restaurants from 2 p.m. to 9 p.m. wearing ugly sweaters and costumes, with drink deals and food specials.&nbsp;
+**December 12:** Ugly Holiday Sweater Crawl—Visit downtown West Palm Beach bars and restaurants from 2 p.m. to 9 p.m. wearing ugly sweaters and costumes, with drink deals and food specials.
 
 Info and ticket prices: josh@sunfest.com or 561-837-8066.
 
 {% include pullquote.html %}
 
-**December 12:&nbsp;**St. Lucie County Boat Parade — 772-692-7999.
+**December 12:**St. Lucie County Boat Parade — 772-692-7999.
 
 **December 13:** Hanukkah Candle Lighting, Harbourside Place, Jupiter, 4 p.m. to 6 p.m.; 2 p.m. to 4 p.m., Mandel JCC, Boynton Beach. Includes concert, children’s activities, information booths and more.
 
