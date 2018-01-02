@@ -7,7 +7,7 @@ permalink: /client-testimonials/
 
 # &nbsp;
 
-# <b>Client Audio Testimonials</b>
+# Client Audio Testimonials
 
 ---
 
