@@ -12,9 +12,9 @@ client:
   name: Dave Friedman
   license_number:
   about_markdown: |
-    Being the #1 realtor not only in families served annually, but also one of the top 2 realtors in Charleston the last 4 years running, it is easy to say that Dave Friedman is committed to his work. 
+    Being the #1 realtor not only in families served annually, but also one of the top 2 realtors in Charleston the last 4 years running, it is easy to say that Dave Friedman is committed to his work.
 
-    Despite Dave’s busy professional schedule, he loves spending time with his wife Halley and their two pups. Halley is an Auburn grad, and Dave roots for anything related to Michigan and Detroit as he grew up in southeastern Michigan. Dave and Halley love sports, and staying active in life and in the community. Dave whole heartedly believes in giving back. He has always been and continues to be extremely involved in several non profits. He has organized many successful events for the American Red Cross. Habitat for Humanity, Lifeline and many more.  
+    Despite Dave’s busy professional schedule, he loves spending time with his wife Halley and their two pups. Halley is an Auburn grad, and Dave roots for anything related to Michigan and Detroit as he grew up in southeastern Michigan. Dave and Halley love sports, and staying active in life and in the community. Dave whole heartedly believes in giving back. He has always been and continues to be extremely involved in several non profits. He has organized many successful events for the American Red Cross. Habitat for Humanity, Lifeline and many more.
 
     Dave has proven that he has what it takes to find or sell your home. He has been a Top Producing Realtor for 18 years, and is in the top 1% of Realtors worldwide. Dave’s also been featured on HGTV’s show House Hunters. He has closed well over 1,500 transactions in his 18+ years practicing real estate, earning countless raving fan reviews. He works hard to get you the deal a buyer is looking for and averages 4% more savings than the average buyer transaction. Dave sells 95% of his listings within 6 days, and within 99.5% of asking price, far exceeding the area average of 95%.
 
@@ -95,6 +95,8 @@ images:
   hero_image_path: /img/background.jpg
   hero_background_hex: '#FFF'
   post_cover: /img/cover.jpg
+  broker_logo: /img/kw.png
+
 site_colors:
   brand_color: '#B40101'
   theme_color: '#4E4A46'

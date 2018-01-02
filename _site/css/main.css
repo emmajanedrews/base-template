@@ -1614,6 +1614,13 @@ label.tree-toggle {
   padding-bottom: 4rem;
   margin-bottom: 0; }
 
+.broker-logo {
+  float: right;
+  padding-bottom: 4rem;
+  margin-top: -12rem;
+  width: 75px;
+  margin-right: 10px; }
+
 .apply-button {
   margin: 3rem 0; }
 
@@ -1626,14 +1633,20 @@ label.tree-toggle {
     font-size: 5rem; } }
 @media (max-width: 1000px) {
   .site-logo {
-    max-width: 20rem; } }
+    max-width: 20rem; }
+
+  .broker-logo {
+    width: 50px;
+    padding-bottom: 2rem; } }
 @media (max-width: 760px) {
   .site-logo {
     max-width: 20rem;
     margin-top: 4rem; }
 
   .site-title {
-    font-size: 5rem; } }
+    font-size: 5rem; }
+
+  display: none; }
 @media (max-width: 600px) {
   .site-logo {
     max-width: 15rem;
