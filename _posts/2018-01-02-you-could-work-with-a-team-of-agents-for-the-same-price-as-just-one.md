@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You Could Work With a Team of Agents for the Same Price as Just One
-date: 2017-10-03 10:52:00
+date: 2018-01-02 10:52:00
 tags:
   - Home Buyer Tips
 excerpt: >-
