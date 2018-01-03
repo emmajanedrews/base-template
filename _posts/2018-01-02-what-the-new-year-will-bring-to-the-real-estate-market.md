@@ -1,7 +1,7 @@
 ---
 layout: post
-title: What the New Year WIll Bring to the Real Estate Market
-date: 2018-01-02 15:50:34
+title: What the New Year Will Bring to the Real Estate Market
+date: 2018-01-02 15:50:00
 tags:
 excerpt: >-
   The latest news and numbers are in for the real estate market. Here’s what you
