@@ -29,7 +29,7 @@ You should also know that in 2017, sellers got 97% of their asking price. Lowbal
 
 So, what can you expect from the 2018 market conditions?&nbsp;
 
-**I predict another 5% to 6% increase in home values in our area.** The folks up North are still ready to move on down here. The oldest baby boomers are hitting their late 50s and getting ready to move to Florida. The new tax laws has folks in high-tax states losing their deductions, and they are calling me about moving here.&nbsp;
+**I predict another 5% to 6% increase in home values in our area.** The folks up North are still ready to move on down here. The oldest baby boomers are hitting their late 50s and getting ready to move to Florida. The new tax laws have folks in high-tax states losing their deductions, and they are calling me about moving here.&nbsp;
 
 {% include pullquote.html %}
 
