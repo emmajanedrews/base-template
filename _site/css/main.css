@@ -1358,7 +1358,7 @@ html[xmlns] .flexslider .slides {
   transition: all 0.15s ease-out 0s;
   cursor: pointer; }
   .welcome-exit:hover {
-    color: #ccd8ae; }
+    color: #899f4e; }
   .welcome-exit:focus {
     outline: 0;
     border: 0; }
@@ -1380,7 +1380,7 @@ html[xmlns] .flexslider .slides {
   margin: 0;
   padding: 0;
   position: relative;
-  -webkit-tap-highlight-color: #ccd8ae;
+  -webkit-tap-highlight-color: #899f4e;
   text-align: left;
   -webkit-touch-callout: none;
   -webkit-user-select: none;
@@ -1417,7 +1417,7 @@ html[xmlns] .flexslider .slides {
       -webkit-transition: all 0.15s ease-out 0s;
       transition: all 0.15s ease-out 0s; }
       .jp-audio .jp-controls a:hover {
-        color: #ccd8ae; }
+        color: #899f4e; }
   .jp-audio .jp-progress {
     background-color: #fff;
     height: 10px;
@@ -1426,7 +1426,7 @@ html[xmlns] .flexslider .slides {
       cursor: pointer;
       height: 100%; }
     .jp-audio .jp-progress .jp-play-bar {
-      background-color: #ccd8ae;
+      background-color: #899f4e;
       height: 100%;
       width: 0; }
   .jp-audio .timekeeper {
@@ -1792,7 +1792,7 @@ a {
   text-decoration: none; }
   a:hover {
     text-decoration: none;
-    color: #ccd8ae; }
+    color: #899f4e; }
   a:visited {
     text-decoration: none; }
 
@@ -1803,7 +1803,7 @@ a {
   border: 1px solid #a1b66a;
   border-radius: 0px; }
   .button:hover, .button-ghost:hover, button:hover, input[type="button"]:hover, input[type="submit"]:hover {
-    background: #ccd8ae;
+    background: #899f4e;
     border: 1px solid #a1b66a;
     color: white; }
   .button:visited, .button-ghost:visited, button:visited, input[type="button"]:visited, input[type="submit"]:visited {
@@ -1821,8 +1821,8 @@ a {
   border-color: #a1b66a;
   color: #a1b66a; }
   .button-ghost.brand:hover {
-    border-color: #ccd8ae;
-    color: #ccd8ae; }
+    border-color: #899f4e;
+    color: #899f4e; }
 
 table tr, table td {
   border-bottom: 1px solid gray;
@@ -2074,7 +2074,7 @@ table tr, table td {
   .author-attribution a {
     color: white; }
     .author-attribution a:hover {
-      color: #ccd8ae; }
+      color: #899f4e; }
 
 .post-share {
   text-align: center;
@@ -2197,16 +2197,16 @@ table tr, table td {
     -webkit-transition: all 0.15s ease-out 0s;
     transition: all 0.15s ease-out 0s; }
     .socials svg:hover {
-      fill: #ccd8ae;
+      fill: #899f4e;
       background: transparent;
-      color: #ccd8ae;
+      color: #899f4e;
       box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
       -webkit-transform: scale(1.05);
       transform: scale(1.05);
       -webkit-transform: translateY(-0.2rem);
       transform: translateY(-0.2rem); }
     .socials svg:active {
-      box-shadow: 0 0 0 #ccd8ae;
+      box-shadow: 0 0 0 #899f4e;
       -webkit-transform: translateY(0rem);
       transform: translateY(0rem); }
 
@@ -2219,7 +2219,7 @@ table tr, table td {
     width: 5rem;
     fill: #a1b66a; }
     .about .socials svg:hover {
-      fill: #ccd8ae; }
+      fill: #899f4e; }
 
 .footer-socials .socials {
   text-align: center;
@@ -2237,7 +2237,7 @@ table tr, table td {
     -webkit-transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
     .footer-socials .socials svg:hover {
-      fill: #ccd8ae;
+      fill: #899f4e;
       background: transparent; }
 
 @media (max-width: 1450px) {
@@ -2484,7 +2484,7 @@ table tr, table td {
   top: 0.5rem;
   margin-right: 0.1rem; }
   .vyral-logo:hover {
-    fill: #ccd8ae; }
+    fill: #899f4e; }
 
 .footer-pad {
   padding-top: 20px; }
@@ -2579,7 +2579,7 @@ table tr, table td {
     -webkit-transition: all 0.15s ease-out 0s;
     transition: all 0.15s ease-out 0s; }
     .testimonial-navigation a:hover {
-      color: #e2e8d1; }
+      color: #a1b66a; }
   .testimonial-navigation h3 {
     padding: 0 10px;
     text-align: center; }
@@ -2631,7 +2631,7 @@ form select {
     padding: 1rem;
     border: 3px solid #a1b66a; }
     .home-value input[type="submit"]:hover {
-      border: 3px solid #ccd8ae; }
+      border: 3px solid #899f4e; }
 
 .contact-form {
   width: 75%;
