@@ -22,27 +22,40 @@ youtube_code: OeE5upoA5cM
 
 
 {% include youtube.html %}
+{: .present-before-paste}
 
 Welcome to the latest episode of “What’s Working Now!”
+{: .present-before-paste}
 
 Today, I want to share a successful under-the-radar strategy for selling a home that worked in the middle of the holidays.
+{: .present-before-paste}
 
 Plus, if you are thinking of selling your home in 2018, I have something special to share with you.
+{: .present-before-paste}
 
 Now, we recently sold a home about a week before Christmas. When I met with the homeowner to talk about cleaning, sorting, staging, and making the house market-ready, she looked like she was going to cry. So, we decided on a different strategy.
+{: .present-before-paste}
 
 **We decided to show the home before it was ready for the market.** The market is full of buyers, interest rates are low, and inventory is so low that there is practically nothing for sale. In the last couple of weeks, we’ve had eight buyers that wanted to buy two houses.
+{: .present-before-paste}
 
 {% include pullquote.html %}
+{: .present-before-paste}
 
 We went ahead and advertised this particular property under the radar to my network of prospects, agents, and the neighborhood. One of the neighbors had a friend who wanted to look at the house. This was the only person we showed the property to, and they turned out to be the right buyer.
+{: .present-before-paste}
 
 If you are thinking of selling your home in 2018, there is no need to wait for the azaleas to be in bloom. The seller I just told you about entered the market in the middle of the holiday season. The market is hot right now. **Inventory is incredibly low, so there is almost no competition.**
+{: .present-before-paste}
 
 Find an agent who can take advantage of current market conditions to make it easy for you to get top dollar fast.
+{: .present-before-paste}
 
-If you plan on selling your house in 2018, **[check out my new book](http://dchomeblog.com/free)**, “Selling Secrets You Can’t Afford to Miss.” To get your free copy, visit **[DCHomeblog.com/FreeBook](http://dchomeblog.com/freebook).**
+If you plan on selling your house in 2018, **[check out my new book](http://dchomeblog.com/freebook)**, “Selling Secrets You Can’t Afford to Miss.” To get your free copy, visit **[DCHomeblog.com/FreeBook](http://dchomeblog.com/freebook).**
+{: .present-before-paste}
 
 Thank you for watching *“What’s Working Now!”* Be on the lookout for our next video, where I’ll look back on the 2017 market and go over what you can expect in 2018.
+{: .present-before-paste}
 
 Of course, if you have any other questions in the meantime, please don’t hesitate to reach out to me. I would be happy to help you!
+{: .present-before-paste}
