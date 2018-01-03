@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our 15th Limbird Agents Bonus Party
+title: Our 15th Limbird Agent Bonus Party
 date: 2017-12-29 14:45:00
 tags:
   - Real Estate
