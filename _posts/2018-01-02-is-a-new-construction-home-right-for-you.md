@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is a New Construction Home Right for You?
-date: 2018-01-02 15:02:34
+date: 2018-01-02 15:02:00
 tags:
   - Real Estate
 excerpt: What are some of the bonuses and pitfalls of a new construction home?
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/bryan-david--new-construction-youtube.jpg
-youtube_code: 'https://youtu.be/ojUXqKCT4eM'
+youtube_code: 'https://youtu.be/_0RZarqZ0es'
 ---
 
 
