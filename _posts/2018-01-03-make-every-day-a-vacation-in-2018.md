@@ -40,5 +40,3 @@ So in 2018, I’m committed to vacationing every day. How about you?
 As always, feel free to give me a call or send me an email if you have any real estate-related questions or I can help you in any way. I look forward to hearing from you soon.
 
 {% include pullquote.html %}
-
-&nbsp;
