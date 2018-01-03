@@ -48,6 +48,14 @@ second_sidebar_CTA:
     CTA_text2: Search the entire MLS for your -- MARKET -- home.
     CTA_link_text2: Find Your New Home
     CTA_url2: 'http://www.marjoriedickstuart.com/home-finder.php'
+
+third_sidebar_CTA:
+  - CTA_image_path3: /img/cta-images/001.jpg
+    CTA_title3: Breaking News- Marjorie's New Book Just Released!
+    CTA_text3: '"Selling Secrets You Can’t Afford to Miss” has just been published. It provides insights for home sellers.'
+    CTA_link_text3: Get Your FREE BOOK Today!
+    CTA_url3: 'http://dchomeblog.com/freebook'
+
 lender:
   show_section: false
   header_text: Preferred Lender
