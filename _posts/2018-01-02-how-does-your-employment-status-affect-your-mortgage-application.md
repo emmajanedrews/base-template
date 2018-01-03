@@ -48,7 +48,7 @@ If you find a higher paying job, there are a couple of different things to consi
 
 Employment contracts often have contingencies, such as drug screenings or background checks. You usually don’t get an offer letter and then start the next day. Most of the time, the hiring process takes at least a couple of weeks.
 
-Once those contingencies are met, we do require 30 days of paystubs in order to close. If it takes two weeks to start the job and then you need 30 days of paystubs, that can delay closing. If the pay period is biweekly, you might not get your first paycheck for a month, which could delay things further. Starting a job at a new company could potentially delay your closing for 45 to 60 days.
+Once those contingencies are met, we do require 30 days of pay stubs in order to close. If it takes two weeks to start the job and then you need 30 days of pay stubs, that can delay closing. If the pay period is biweekly, you might not get your first paycheck for a month, which could delay things further. Starting a job at a new company could potentially delay your closing for 45 to 60 days.
 
 Different loan programs, such as FHAs, will have their own guidelines. Unfortunately, one of my clients and I are dealing with this right now.
 
@@ -60,6 +60,6 @@ We have to adhere to those guidelines, so her closing has been delayed. I’m ha
 
 As lenders, we always want to make sure that your loan can perform. We never want to put you into a home that you may not be able to afford.
 
-Now, we won’t verify employment after closing. Once we close, it’s your life. No one can predict the future. You can change jobs or quit, but I advise that you proceed with caution. Make sure that you are making the right decision. After all, when you buy a home, you are making a 15, 20, or 30-year investment, so make sure that you set yourself up for success.
+Now, we won’t verify employmfent after closing. Once we close, it’s your life. No one can predict the future. You can change jobs or quit, but I advise that you proceed with caution. Make sure that you are making the right decision. After all, when you buy a home, you are making a 15-, 20-, or 30-year investment, so make sure that you set yourself up for success.
 
 As you can see, your employment status plays a major role in the mortgage loan application process. If you have any questions, please don’t hesitate to give me a call or send me an email. I would be happy to help you!
