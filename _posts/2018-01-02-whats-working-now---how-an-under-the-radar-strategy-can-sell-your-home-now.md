@@ -41,7 +41,7 @@ If you are thinking of selling your home in 2018, there is no need to wait for t
 
 Find an agent who can take advantage of current market conditions to make it easy for you to get top dollar fast.
 
-If you plan on selling your house in 2018, **[check out my new book](https://dchomeblog.com/freebook)**, “Selling Secrets You Can’t Afford to Miss.” To get your free copy, visit **[DCHomeblog.com/FreeBook](http://dchomeblog.com/freebook).**
+If you plan on selling your house in 2018, **[check out my new book](http://dchomeblog.com/free)**, “Selling Secrets You Can’t Afford to Miss.” To get your free copy, visit **[DCHomeblog.com/FreeBook](http://dchomeblog.com/freebook).**
 
 Thank you for watching *“What’s Working Now!”* Be on the lookout for our next video, where I’ll look back on the 2017 market and go over what you can expect in 2018.
 
