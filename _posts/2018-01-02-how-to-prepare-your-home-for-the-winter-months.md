@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Whether or not you’re thinking of selling your home, these five maintenance
   tips will help you get ready for winter.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jason+Wilson/+Videos/2017/January/Woodstock%252C+GA+Real+Estate+Agent-+How+to+Prepare+Your+Home+for+the+Winter+Months.mp4
 pullquote: >-
   Most of the heat that is gained and lost in your house comes from the roof
   line, so the insulation in places like your attic is especially important for
