@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Tasks to Complete During the Due Diligence Period
-date: 2017-12-27 13:34:49
+date: 2017-12-27 13:34:00
 tags:
   - Home Buyer Tips
 excerpt: >-
   There are several things you should do during your due diligence period before
   you purchase your home.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Karlyn+Ellis/January+2018/Buda%252C+Texas+Real+Estate-+What+to+Do+During+the+Due+Diligence+Period.mp4
 pullquote: >-
   Neighborhoods look different during different days and different times of the
   day.
