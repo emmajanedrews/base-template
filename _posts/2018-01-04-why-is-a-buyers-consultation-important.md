@@ -25,7 +25,7 @@ Why is a buyer’s consultation with a real estate agent important?
 
 We love to meet with all of our buyers before we begin their home search. We sit down with them and walk them through the whole process, from starting your search to finding a home to all of the steps it takes to get to the closing table.
 
-**We believe that it’s important to give buyers like you a full market exposure.**That way, you know what is going on in the price point you are interested in buying in. In certain price points, homes sell quickly with multiple offers. In other price points, buyers can negotiate more aggressively and get a great deal.
+**We believe that it’s important to give buyers like you a full market exposure.&nbsp;**That way, you know what is going on in the price point you are interested in buying in. In certain price points, homes sell quickly with multiple offers. In other price points, buyers can negotiate more aggressively and get a great deal.
 
 Some buyers go to Zillow or Realtor.com, see a house they like, and request a showing. Then, they get assigned to an agent and buy the first house that they see.
 
