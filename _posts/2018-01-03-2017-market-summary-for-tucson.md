@@ -24,7 +24,7 @@ Today I’ve got a market summary to share with you for Tucson in 2017. I took a
 
 We currently have 3,600 active listings on the market here in Tucson. That number is down about 2% from last year. The lower our inventory is, the more upward pressure is put on pricing.&nbsp;
 
-There have been nearly 15,000 units sold in 2017. **That’s a big 14% jump from the number of sales we saw in 2016.**However, if you factor in our new construction, the increase in sales over last year is closer to 20%.
+There have been nearly 15,000 units sold in 2017. **That’s a big 14% jump from the number of sales we saw in 2016.&nbsp;**However, if you factor in our new construction, the increase in sales over last year is closer to 20%.
 
 {% include pullquote.html %}
 
