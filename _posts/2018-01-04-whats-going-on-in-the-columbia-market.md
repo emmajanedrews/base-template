@@ -30,7 +30,7 @@ This is why it’s important to work with an agent who’s got your best interes
 
 How long on average will it take for your house to sell? Coming out of the holidays, **it will take on average between two and three months to find the perfect buyer,** relocate them, and get them into your home.&nbsp;
 
-Here’s the interesting part: we’ve already started working with a lot of relation buyers that have already started the process, so if you need to get out in, say, 30 days or so, we have the ability to help you with that too. **If time is of the essence, we’re the people to call.**
+Here’s the interesting part: we’ve already started working with a lot of relocation buyers that have already started the process, so if you need to get out in, say, 30 days or so, we have the ability to help you with that too. **If time is of the essence, we’re the people to call.**
 
 Last but not least, how much have homes appreciated in the last year? Average sales prices went from about $188,000 to $191,000, so homes have increased by about $3,000 on average. We expect that to continue to increase this year as well, and for real estate to continue to be a sound investment.
 
