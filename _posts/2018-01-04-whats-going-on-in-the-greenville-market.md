@@ -24,11 +24,11 @@ I’ve just received the most recent statistics hot of of the press for the Gree
 
 Before I get there, I want to let you know that on the corner of Orchard Park in Haywood we’ve just opened a real estate office to service the entire area. We’re very excited about it. Our experienced agents are on standby &nbsp;to help you in selling, buying, or answering your questions.
 
-**What’s going on in the Greenville market?** Well it is booming. People ask us why we opened up an additional office from Charleston into Greenville. We have access to an amazing relocation network that moves buyers into the southeast. A lot of people are coming from Sylvania, Ohio, New York, and even Florida into the Greenville area, which is why we’re now servicing the area. That said, we’re in need of homes for sale. If you’re interested in selling your home, we have a pool of buyers who may want to purchase your home.
+**What’s going on in the Greenville market?** Well, it is booming. People ask us why we opened up an additional office from Charleston into Greenville. We have access to an amazing relocation network that moves buyers into the Southeast. A lot of people are coming from Pennsylvania, Ohio, New York, and even Florida into the Greenville area, which is why we’re now servicing the area. That said, we’re in need of homes for sale. If you’re interested in selling your home, we have a pool of buyers who may want to purchase your home.
 
 {% include pullquote.html %}
 
-We’ve had almost 17,000 homes on on the market in the past year, and around 12,000 of those have sold. This leaves about 5,000 unsold homes left in the market. This is why it’s important to work with an agent who’s got your best interest in mind. **We have a great marketing campaign going here,** including billboards, radio advertising, and more. It doesn’t matter what price range your home falls in; we have buyers available in all ranges.&nbsp;
+We’ve had almost 17,000 homes on the market in the past year, and around 12,000 of those have sold. This leaves about 5,000 unsold homes left in the market. This is why it’s important to work with an agent who’s got your best interest in mind. **We have a great marketing campaign going here,** including billboards, radio advertising, and more. It doesn’t matter what price range your home falls in; we have buyers available in all ranges.&nbsp;
 
 How much have values increased? So far, the average sales price is $223,116, which is a **6.9% increase from the year before**—around a $15,000 jump.&nbsp;
 
