@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Kind of Inspections Can Homebuyers Ask for?
-date: 2018-01-03 14:33:07
+date: 2018-01-03 14:33:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -9,7 +9,7 @@ excerpt: >-
   some aren’t. Here’s what you should and shouldn’t ask for.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Jeff+Smith/Denver+Real+Estate+Agent-+What+Kind+of+Inspections+Can+Homebuyers+Ask+for%253F.mp4
-pullquote: Don’t ask for the “Mickey Mouse repair.”
+pullquote: Don’t ask for the “Mickey Mouse repair.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
