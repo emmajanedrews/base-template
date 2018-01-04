@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Buying a new real estate property is exciting, but they often come along with
   some unexpected expenses right after closing.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Nathan+Abbott/Nathan+Abbott+Team-+Budget+for+these+costs+after+closing.mp4
 pullquote: >-
   I was amazed when I bought my first home to see just how lengthy and expensive
   a process it was.
