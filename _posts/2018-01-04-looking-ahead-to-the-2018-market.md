@@ -31,6 +31,6 @@ In 2017, home values increased in San Diego by an average of 6.9%. However, expe
 
 As far as rents are concerned, in 2017, rental appreciation increased by 2.9%. This is going to **more than double in 2018** to 6%. With such a huge jump in rental prices and weak income, renters are going to start looking at the option of buying a home, causing more demand in inventory with very little supply.
 
-**There is, however, exciting news for new homebuyers in 2018**: Not only are loan limits increasing, but there are several different programs available, such as down payment assistance programs, self-employed programs, and programs with as little as 10% down with no mortgage insurance.
+**There is, however, exciting news for new homebuyers in 2018**. Not only are loan limits increasing, but there are several different programs available, such as down payment assistance programs, self-employed programs, and programs with as little as 10% down with no mortgage insurance.
 
 If you are currently thinking of buying and are tired of renting and throwing your money away, please contact me. I can definitely refer you to our preferred lender. I’m happy to help.
