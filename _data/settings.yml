@@ -14,10 +14,10 @@ client:
   about_markdown: |
     Thurayah has lived in Houston for 30 years and has bought and sold numerous homes across the Greater Houston area. She has an in-depth knowledge of neighborhood demographics, desirable locations and schools. Clients are drawn to Thurayah because she takes time to listen and learn their wants and needs to provide exceptional service. Thurayah obtained a bachelor's degree in Business Administration with a minor in Finance and Marketing. Her education, combined with her experience in Oil & Gas accounting for seven years, allows her to help her clients not only locate a stellar property but also easily evaluate complex documents to make the best choice for their lifestyle and budget. Thurayah's family consists of many cultures, languages, and backgrounds so she can easily relate to clientele from all walks of life.
   market:
-  brand: Buying Selling Houston
+  brand: <strong>Buying Selling Houston</strong>
   brokerage:
-  address: 2825 Wilcrest Dr. Suite 165 Houston, TX. 77042
-  phone: 713-235-0224
+  address: <strong>2825 Wilcrest Dr. Suite 165 Houston, TX. 77042</strong>
+  phone: <strong>713-235-0224</strong>
   phone_type:
   phone2:
   phone2_type:
