@@ -33,7 +33,7 @@ In South Florida, it’s really easy to do this. We live in paradise. So in the 
 
 Wherever you are, you can do this too. Whether it’s going to the beach, going to great restaurants, going to museums, or seeing a concert, you can find a reason and a way to vacation every day.
 
-Of course, we all have careers and obligations. We can’t devote all of our time to leisurely activities. However, **even during these busy times we can still find little moments that bring us peace, joy, and laughter every day.**
+Of course, we all have careers and obligations. We can’t devote all of our time to leisurely activities. However, **even during these busy times, we can still find little moments that bring us peace, joy, and laughter every day.**
 
 So in 2018, I’m committed to vacationing every day. How about you?
 
