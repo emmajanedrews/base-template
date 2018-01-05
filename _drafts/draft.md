@@ -1,18 +1,19 @@
 ---
 layout: post
-title: Why Should You Buy a Home During the Off-Peak Season?
-date: 2017-12-01 10:15:57
+title: A Look at the Home Buying Process
+date: 2017-12-01 10:15:00
 tags:
   - Home Buyer Tips
 excerpt: >-
-  If you’re thinking of buying a home, you may be tempted to wait until spring.
-  Spring is a common time for homebuyers to enter the market, which means that
-  you will face a lot of competition. There are actually a few benefits to
-  starting your home search this winter. We also have a few tips to help you
-  succeed in an off-peak season. To learn more, watch this short video.
+  How does the home buying process actually work? It depends on your unique
+  situation, but for first-time buyers it’s pretty standard. The first thing you
+  need to do is talk to an agent who can help you get pre-approved by a trusted
+  lender. If you need to buy and sell a home at the same time, the process is a
+  bit more of a puzzle. To learn more about the home buying process, watch this
+  short video.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Tips+for+Buying+in+the+Off+Peak+Season.mp4
-pullquote: You will be able to explore your options without all of the competition.
+pullquote: 'There are a lot of moving pieces, but we can help you work them out.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -23,16 +24,14 @@ youtube_code: gsZccNvmIws
 
 {% include youtube.html %}
 
-When people think of buying a home, they often naturally gravitate towards the spring market. As a result, spring is a common time for buyers to enter the market.
+Today we want to take a quick look at the home buying process.
 
-However, buyer traffic is very heavy in the springtime. In low inventory markets, some of our listings may get as many as 25 to 30 showings over the course of one weekend in the spring. As a buyer looking to buy a home, particularly a first home, it can be intimidating to buy a home in the spring. It may even feel hopeless at times.
+If you’re a first-time homebuyer, the first thing you need to do is have a conversation with us. **We’ll talk about your wants and needs, the areas you’re looking at, and how we can get you into contact with a loan officer so that you can get pre-approved right off the bat.** This will answer a lot of initial questions.
 
-The benefit of trying the market in an off-peak season is **that the buyer is able to explore what’s out there without all of the competition.**&nbsp;Shopping for a home in off-peak seasons like fall and winter also increases the likelihood that you will find a home.
+**If you’re a homeowner who is going to be buying and selling a home at the same time, we have a bit of a different puzzle.** First, we’ve got to evaluate the equity in your current home. You may be able to qualify for a pre-approval before selling your current home. You might have to sell first in order to make an offer, however. That’s the puzzle we have to piece together.
 
 {% include pullquote.html %}
 
-If you are searching for a home this winter, we recommend that you get written verification from sellers regarding certain winterization projects.
+**If you’re a homeowner who is going to be buying and selling a home at the same time, we have a bit of a different puzzle.** First, we’ve got to evaluate the equity in your current home. You may be able to qualify for a pre-approval before selling your current home. You might have to sell first in order to make an offer, however. That’s the puzzle we have to piece together.
 
-After all, the AC unit should be shut off and the sprinkler system should be winterized, which means the inspector won’t be able to test them in the winter. Just ask for the seller to **confirm that those things were working before they were properly shut down in the fall.**
-
-If you have any questions about buying a home in the winter market, just give us a call or send us an email. We would be happy to help you!
+There are a lot of moving pieces, but we can help you work them out. If you have any questions for us or if we can help you buy or sell a home in any way, give us a call or send us an email. We look forward to hearing from you.
