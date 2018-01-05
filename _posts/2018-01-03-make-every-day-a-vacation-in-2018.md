@@ -11,13 +11,13 @@ excerpt: >-
   can do it too. No matter where you are, it is possible. To find out more,
   watch this short video.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Videos/2018/Vaca+Everyday+%257C+Palm+Beach+Real+Estate.mp4
+  https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Videos/2018/Make+Every+Day+a+Vacation+in+2018+%257C+Palm+Beach+Real+Estate.mp4
 pullquote: You can find a reason and a way to vacation every day.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 1Itq3C1ngj4
+youtube_code: CCu31-b61eo
 ---
 
 
