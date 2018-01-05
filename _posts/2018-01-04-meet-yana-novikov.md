@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Meet Yana Novikov
-date: 2018-01-04 11:58:09
+date: 2018-01-04 11:58:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 0RYNE3XKJH8
+youtube_code: wVg_l5M697E
 ---
 
 
