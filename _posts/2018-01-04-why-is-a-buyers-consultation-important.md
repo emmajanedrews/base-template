@@ -43,11 +43,11 @@ We are also good at getting our buyers in front of a lender sooner rather than l
 
 During the buyer’s consultation, we cover other important aspects of the home buying process, such as home warranties and closing dates. That way, you’ll know which items you’ll want to negotiate when you are putting in a purchase agreement.
 
-If you have a home to sell, a buyer’s consultation can be very helpful. We can help you figure out if you want to sell your home first and be a non contingent buyer, or we can help put together a strategy for making your offer contingent on the sale of your current home.
+If you have a home to sell, a buyer’s consultation can be very helpful. We can help you figure out if you want to sell your home first and be a noncontingent buyer, or we can help put together a strategy for making your offer contingent on the sale of your current home.
 
 **Finally, it’s really important that you feel comfortable when hiring your buyer’s agent.** You are the boss. You want to hire someone you feel comfortable with and that cares about your purchase decision.
 
-A half-hour consultation with a buyer’s agent will empower you with the information you need to make a great purchase decision. Everyone here at our group loves working with buyers, so would would be happy to sit down with you and listen to your wants and needs so we can help you find the perfect home for your family.
+A half-hour consultation with a buyer’s agent will empower you with the information you need to make a great purchase decision. Everyone here at our group loves working with buyers, so we would be happy to sit down with you and listen to your wants and needs so we can help you find the perfect home for your family.
 
 If you have any questions about the home buying process or would like to schedule a buyer’s consultation, just give us a call or send us an email. We would be happy to help you!
 
