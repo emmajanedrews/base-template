@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Look at the Home Buying Process
-date: 2017-12-01 10:15:00
+date: 2018-01-08 11:20:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -12,13 +12,13 @@ excerpt: >-
   bit more of a puzzle. To learn more about the home buying process, watch this
   short video.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Tips+for+Buying+in+the+Off+Peak+Season.mp4
+  https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2018/Chad+%2526+Sara+Huebener+With+Edina+Realty-+A+Look+at+the+Home+Buying+Process.mp4
 pullquote: 'There are a lot of moving pieces, but we can help you work them out.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: gsZccNvmIws
+youtube_code: LqsMiCtyfCg
 ---
 
 
