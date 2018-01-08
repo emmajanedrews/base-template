@@ -30,7 +30,7 @@ The first way this affects you is through **credit cards.** Most credit cards ha
 
 Rising interest rates also affect **student loans.** If you got your student loans before 1996, then those student loans have a variable interest rate. As the prime rate increases, your student loan payment will increase as well. The only time rising interest rates don’t affect you is when you have fixed interest rates.
 
-Rising interest rates make\*\* car payments\*\*more expensive as well. If you currently own a car and you have an adjustable rate, your payment will be higher this coming month.
+Rising interest rates make **car payments** more expensive as well. If you currently own a car and you have an adjustable rate, your payment will be higher this coming month.
 
 {% include pullquote.html %}
 
@@ -38,6 +38,6 @@ Rising interest rates impact your **mortgage payment** too. You might say, “We
 
 The same applies to people with adjustable-rate mortgages, which is why they’re so dangerous. You have a small payment now while interest rates are low, but according to Freddie Mac, rates are expected to rise from 4% to 4.6% at the end of 2018.
 
-If you’re in the market to buy a house, **rising interest rates means your purchasing power diminishes and your house payments increase.**If you want to take advantage of the currently low interest rates to either buy a house or refinance your property, give me a call so we can review your situation and see if it’s conducive for you to do so.
+If you’re in the market to buy a house, **rising interest rates means your purchasing power diminishes and your house payments increase.** If you want to take advantage of the currently low interest rates to either buy a house or refinance your property, give me a call so we can review your situation and see if it’s conducive for you to do so.
 
 If you have any other questions about how rising interest rates might affect you or you have any other real estate needs, don’t hesitate to reach out to me. I’d be happy to help you.
