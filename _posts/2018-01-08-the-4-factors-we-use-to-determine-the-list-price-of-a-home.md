@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/J9eRg4WBqM0'
 
 When we get ready to put a home on the market, we use four different data points to determine the price we should list it at. **Each one gets us closer to that sweet spot where the home will sell quickly and for a great price:**
 
-**1. What are the homes selling for in your immediate area?** We take a look at all the homes that are currently on the market and where they are listed, as well as the prices from all of the home sales in the last six to nine months.<br><br>**2. The tax value.**What we’re looking for here is the ratio that homes are selling in your area compared to their tax-assessed value.
+**1. What are the homes selling for in your immediate area?** We take a look at all the homes that are currently on the market and where they are listed, as well as the prices from all of the home sales in the last six to nine months.<br><br>**2. The tax value.&nbsp;**What we’re looking for here is the ratio that homes are selling in your area compared to their tax-assessed value.
 
 {% include pullquote.html %}
 
