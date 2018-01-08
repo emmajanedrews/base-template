@@ -51,16 +51,18 @@ second_sidebar_CTA:
     CTA_url2: http://www.r2rrealty.com/property
 
 lender:
-  show_section: false
-  header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
-  logo_path: /img/logo.png
-  logo_path_2:
-  name: Bill Murray
+  show_section: true
+  header_text: Buyer's Agent
+  headshot_path: /img/headshot2.jpg
+  # logo_path: /img/logo.png
+  # logo_path_2:
+  name: BriAnne
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
   url: http://eyegoop.com
+  about:
+    BriAnne is from a small town just outside of Idaho Falls, Idaho. She grew up loving the simple things in life. She met her husband in high school, moved to the “Big City", Boise to attend Boise State University. In the early 2000’s, while her husband was building his career in location sound, they moved to 4 different states. In 2007, they bought their first home in Salt Lake City, Utah. A year or so after the market crash they became accidental landlords creating an accidental love for real estate. Shortly there after, BriAnne started a real estate career at Keller Williams Reatly Portland Central. About 6-8 months into her real estate career in Portland “LIFE” happened when their son became very ill which lead them to move back home to Boise, Idaho.
 
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
