@@ -1,5 +1,5 @@
 audit_header: false
-title: Boise Real Estate Video Blog with Graham Mackenzie
+title: Boise Real Estate Video Blog with Graham MacKenzie
 description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -7,13 +7,13 @@ custom_links:
     url:
 
 client:
-  name: Graham Mackenzie
+  name: Graham MacKenzie
   license_number:
   about_markdown: |
     Graham moved to the Boise area in the early 90’s to enjoy the amazing outdoor opportunities Idaho has to offer. 13 years ago he traded being a full time fly fishing guide to being a full time real estate agent. His guiding expertise and goal of building lifelong relationships translated very quickly into helping people buy, sell, and invest in real estate; and earning him title of “Rookie of the Year”. He hasn’t looked back. His passion for learning, personal growth, building relationships and adding value to people’s lives have helped his clients get top dollar for their homes, and often win out in hot markets on multiple offers. When he isn’t helping you with real estate you will find him fly fishing a local river or covering endless miles running the local trails. We secretly think he would never come inside if it wasn’t for real estate. Ask him for a fly casting lesson or pick his brain on local trails as part of the package.
   market: Boise
   brand: Ridge to Rivers Realty
-  brokerage:
+  brokerage: KW Boise
   address: 1065 S. Allante Place Boise<br>Idaho, 83709
   phone: 208-991-4771
   phone_type:
@@ -21,7 +21,13 @@ client:
   phone2_type:
   email: Graham@R2RRealty.com
   url: http://R2RRealty.com
+  name2: BriAnne
+  about_markdown2: |
+    BriAnne is from a small town just outside of Idaho Falls, Idaho. She grew up loving the simple things in life. She met her husband in high school, moved to the “Big City", Boise to attend Boise State University. In the early 2000’s, while her husband was building his career in location sound, they moved to 4 different states. In 2007, they bought their first home in Salt Lake City, Utah. A year or so after the market crash they became accidental landlords creating an accidental love for real estate. Shortly there after, BriAnne started a real estate career at Keller Williams Reatly Portland Central. About 6-8 months into her real estate career in Portland “LIFE” happened when their son became very ill which lead them to move back home to Boise, Idaho.
 
+    In early 2014, BriAnne re-launched her career in real estate at Keller Williams Realty Boise. Shortly after she met her team lead, Graham MacKenzie and the rest is history.
+
+    BriAnne is grateful for the opportunities to help families through real estate. She is also grateful for the opportunity to be a mother of two kids. "My kids and husband inspire me to be the best person I can be every day. Also, my parents, siblings, friends and clients have been an incredible influence in my life and I am forever appreciative of them. We as a family love to be outside with friends/family walking, talking, hiking, camping, eating, rolling down hills in all seasons, sledding, snowboarding, and the list goes on….”
 emma_form:
 
 CTAs:
@@ -90,6 +96,7 @@ podcast:
 
 images:
   client_headshot_path: /img/headshot.jpg
+  client_headshot_path2: /img/headshot2.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 60
   hero_text: -- MARKET -- Real Estate Video Blog
