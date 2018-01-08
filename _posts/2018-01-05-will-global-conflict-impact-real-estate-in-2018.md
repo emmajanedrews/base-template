@@ -18,7 +18,7 @@ youtube_code: NDdaZd_ASm8
 
 {% include youtube.html %}
 
-Each year, Century Mortgage holds an event to talk about the future of real estate . As it turns out, the next 12 months are looking very good.
+Each year, Century Mortgage holds an event to talk about the future of real estate. As it turns out, the next 12 months are looking very good.
 
 {% include pullquote.html %}
 
