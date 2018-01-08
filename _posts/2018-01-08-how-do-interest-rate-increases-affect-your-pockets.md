@@ -28,9 +28,9 @@ First, you need to know that when the Federal Reserve moves interest rates, what
 
 The first way this affects you is through **credit cards.** Most credit cards have variable interest rates, so as the Fed moves the federal funds rate (or prime rate), more of your monthly payment goes toward interest instead of your principal. Basically, you’re paying more for interest, and it will take you longer to pay off your credit card.
 
-Rising interest rates also affect **student loans.**If you got your student loans before 1996, then those student loans have a variable interest rate. As the prime rate increases, your student loan payment will increase as well. The only time rising interest rates don’t affect you is when you have fixed interest rates.
+Rising interest rates also affect **student loans.** If you got your student loans before 1996, then those student loans have a variable interest rate. As the prime rate increases, your student loan payment will increase as well. The only time rising interest rates don’t affect you is when you have fixed interest rates.
 
-Rising interest rates make** car payments**more expensive as well. If you currently own a car and you have an adjustable rate, your payment will be higher this coming month.
+Rising interest rates make\*\* car payments\*\*more expensive as well. If you currently own a car and you have an adjustable rate, your payment will be higher this coming month.
 
 {% include pullquote.html %}
 
