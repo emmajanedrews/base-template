@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Moving a Manufactured Home
-date: 2018-01-08 15:00:39
+date: 2018-01-08 15:00:00
 tags:
   - Real Estate
 excerpt: >-
@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/moving-homes-youtube.jpg
+youtube_alternate_image: /uploads/moving-homes-email.jpg
 youtube_code: s6G9_XOxc38
 ---
 
