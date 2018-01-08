@@ -22,7 +22,7 @@ youtube_code: rOzpTrUUb44
 
 {% include youtube.html %}
 
-As I’ve mentioned in the past, unexpected costs can, and likely will, arise during any home purchase. Today, I’d like to go over one type of cost in particular: utilities.
+As I’ve mentioned in the past, unexpected costs can arise during any home purchase. Today, I’d like to go over one type of cost in particular: utilities.
 
 If you were renting a property before you made your home purchase, things like your water or heat may have been included. However, as a homeowner, these costs must be accounted for.
 
