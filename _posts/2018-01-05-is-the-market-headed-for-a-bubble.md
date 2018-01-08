@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Will Global Conflict Impact Real Estate in 2018?
-date: 2018-01-05 11:11:56
+title: Is the Market Headed for a Bubble?
+date: 2018-01-05 11:11:00
 tags:
   - Real Estate
 excerpt: What does 2018 hold for real estate? Let’s take a look at some predictions.
