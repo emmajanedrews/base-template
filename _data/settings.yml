@@ -4,7 +4,7 @@ description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for 
 show_custom_links: false
 custom_links:
   - title:
-    url:
+    url: 
 
 client:
   name: Shawn O'Neill
@@ -26,7 +26,7 @@ client:
   url2: http://WeTrustShawn.com
   url2_type: Sellers
 
-emma_form:
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1809120';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 
 CTAs:
   first_CTA_text: Home Valuation
