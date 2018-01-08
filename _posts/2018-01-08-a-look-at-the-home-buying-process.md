@@ -28,10 +28,8 @@ Today we want to take a quick look at the home buying process.
 
 If you’re a first-time homebuyer, the first thing you need to do is have a conversation with us. **We’ll talk about your wants and needs, the areas you’re looking at, and how we can get you into contact with a loan officer so that you can get pre-approved right off the bat.** This will answer a lot of initial questions.
 
-**If you’re a homeowner who is going to be buying and selling a home at the same time, we have a bit of a different puzzle.** First, we’ve got to evaluate the equity in your current home. You may be able to qualify for a pre-approval before selling your current home. You might have to sell first in order to make an offer, however. That’s the puzzle we have to piece together.
-
 {% include pullquote.html %}
 
-**If you’re a homeowner who is going to be buying and selling a home at the same time, we have a bit of a different puzzle.** First, we’ve got to evaluate the equity in your current home. You may be able to qualify for a pre-approval before selling your current home. You might have to sell first in order to make an offer, however. That’s the puzzle we have to piece together.
+****If you’re a homeowner who is going to be buying and selling a home at the same time, we have a bit of a different puzzle.** First, we’ve got to evaluate the equity in your current home. You may be able to qualify for a pre-approval before selling your current home. You might have to sell first in order to make an offer, however. That’s the puzzle we have to piece together.**
 
 There are a lot of moving pieces, but we can help you work them out. If you have any questions for us or if we can help you buy or sell a home in any way, give us a call or send us an email. We look forward to hearing from you.
