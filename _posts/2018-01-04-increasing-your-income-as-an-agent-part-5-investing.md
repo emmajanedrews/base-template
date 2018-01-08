@@ -22,7 +22,7 @@ youtube_code: E1626Dqas2U
 
 Today I want to talk about how investing can help you get business and create more money for yourself.
 
-It’s amazing how many agents I see pass on deals where they know whoever flips the house in question will make $20,000, $30,000, $40,000, or even $60,000 when they know that they could do that themselves.
+It's amazing how many agents I see pass on deals when they know they could make $20,000, $30,000, $40,000, or even $60,000 if they flipped the home themselves.
 
 {% include pullquote.html %}
 
