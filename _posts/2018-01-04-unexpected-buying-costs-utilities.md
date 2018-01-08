@@ -28,6 +28,6 @@ If you were renting a property before you made your home purchase, things like y
 
 {% include pullquote.html %}
 
-One thing I highly encourage is for buyers to ask the home’s current owners about average monthly utility costs. **These numbers won’t be iron-clad, but they will help you understand what you should expect.**
+One thing I highly encourage is for buyers to ask the home’s current owners about average monthly utility costs. **These numbers won’t be ironclad, but they will help you understand what you should expect.**
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
