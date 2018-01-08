@@ -34,4 +34,4 @@ I first heard from my cousin, Veronica Edwards, who is a buyer’s agent here on
 
 I love the culture here. I love the constant growth and learning from the top producers to improve my negotiation skills, as well as having fun and connecting with the community.
 
-If you have any questions for me personally or are looking to buy a home, feel free to reach out to me. I’d be glad to help you.
+If you have any questions for me personally or are looking to buy a home, feel free to reach out to me at 808-633-2368. I’d be glad to help you.
