@@ -7,31 +7,32 @@ custom_links:
     url:
 
 client:
-  name: Shawn O'Neill & Dan Stephenson
+  name: Shawn O'Neill
   license_number:
   about_markdown: |
     Jacksonville Expert Home Advisors a division of EXIT Real Estate Gallery is a passionate team of Real Estate professionals servicing the Jacksonville Florida area. Dedicated to their clients, this group of market savvy home experts focuses their attention to each customers needs and wants. And unlike most agencies, JEHA has a Client Services Manager and Transaction Manager on staff who additionally ensure that the least amount stress impacts each and every client.
   market: Jacksonville
   brand: Expert Home Advisors
-  brokerage: Exit Real Estate Gallery
+  brokerage:
   address: 6144 Gazebo Parkplace South<br>Jacksonville, FL 32257
   phone: 904-370-3500
   phone_type:
   phone2:
   phone2_type:
   email: Shawn@ExpertHomeAdvisors.com
-  email2: Dan@ExpertHomeAdvisors.com
+  # email2: Dan@ExpertHomeAdvisors.com
   url: http://ExpertHomeAdvisors.com
   url_type: Buyers
   url2: http://WeTrustShawn.com
   url2_type: Sellers
+
+emma_form:
 
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: https://www.experthomeadvisors.com/homevalue
   second_CTA_text: Home Search
   second_CTA_URL: https://www.experthomeadvisors.com/search
-  VR_form:
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
