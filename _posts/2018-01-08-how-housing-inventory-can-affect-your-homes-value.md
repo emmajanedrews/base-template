@@ -21,7 +21,7 @@ youtube_code: JBtNnOp1EaI
 
 How does housing inventory affect your home’s value? **With fewer homes on the market, that affects the demand for those homes, which in turn drives up housing prices.**
 
-Over the last few years, we’ve seen a real shortage of homes. Right now, throughout southwest Indiana, we have just under a three-month supply of homes. In case you don’t know, the typical market supply is right around six months. Anything under that mark would be considered a strong seller’s market. Anything above would be considered a strong buyer’s market.
+Over the last few years, we’ve seen a real shortage of homes. Right now, throughout Southwest Indiana, we have just under a three-month supply of homes. In case you don’t know, the typical market supply is right around six months. Anything under that mark would be considered a strong seller’s market. Anything above would be considered a strong buyer’s market.
 
 {% include pullquote.html %}
 
