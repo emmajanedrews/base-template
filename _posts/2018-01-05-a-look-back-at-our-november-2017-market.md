@@ -26,6 +26,6 @@ Today I’d like to take a look back into our recent Memphis market. What happen
 
 However, we did see the percentage of homes sold increase by 4%. This means homes are still moving off the market despite our low inventory.
 
-Of course, **prices and inventory levels do vary between municipalities.**I’d be happy to send information about your specific information to you. All you need to do is reach out.
+Of course, **prices and inventory levels do vary between municipalities.&nbsp;**I’d be happy to send information about your specific information to you. All you need to do is reach out.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
