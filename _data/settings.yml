@@ -102,7 +102,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: rgba(0,89,166,0.6)
 
 buttons:
   button_radius_number: 3
