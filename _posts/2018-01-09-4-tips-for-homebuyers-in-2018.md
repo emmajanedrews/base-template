@@ -34,6 +34,6 @@ Thinking about buying a home in 2018? If you are, now is the time to start prepa
 
 **3. Keep tabs on interest rates.** The FED is expected to raise interest rates this year. They might do it more than once.
 
-**4. Find a mortgage lender.** Then get pre-approved. This will save you time in the long run.
+**4. Find a mortgage lender and**&nbsp;**get pre-approved.** This will save you time in the long run.
 
 Thanks for taking the time to join us today. If you have any questions for us in the meantime, don’t hesitate to give us a call or send us an email. I look forward to hearing from you soon.
