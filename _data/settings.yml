@@ -15,13 +15,13 @@ client:
   market: Nashville
   brand: House to Home Nashville
   brokerage: 'Benchmark Realty, LLC'
-  address: '2500 21st Ave S Suite 102<br>Nashville, TN 37212'
+  address: '2500 21st Ave South Suite 102<br>Nashville, TN 37212'
   phone: 615-432-2919
   phone_type:
   phone2:
   phone2_type:
-  email: scott@housetohomenash.com
-  url: 'http://www.housetohomenash.com'
+  email: Scott@HouseToHomeNash.com
+  url: 'http://www.HouseToHomeNash.com'
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://www.housetohomenash.com/cma/property-valuation/'
