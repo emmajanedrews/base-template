@@ -32,7 +32,7 @@ Interest rates are still at historic lows, but buyers need to keep an eye on the
 
 You should also look out for new construction. Will the new housing inventory help us catch up to the number of buyers in the market?
 
-There are a few pockets, like in east Nashville, where we are seeing an increase in new construction and houses are sitting on the market a little longer than other areas with less inventory.
+There are a few pockets, like in East Nashville, where we are seeing an increase in new construction and houses are sitting on the market a little longer than other areas with less inventory.
 
 **Of course, the new tax reforms will impact the real estate market.** I’ll go over the tax reform bill in more detail in my next video.
 
