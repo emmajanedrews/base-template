@@ -5,7 +5,12 @@ date: 2018-01-09 11:00:00
 tags:
   - Home Buyer Tips
   - Real Estate
-excerpt: I’ve got some great tips for homebuyers this year. Here they are.
+excerpt: >-
+  Are you considering a home purchase in 2018? There are a few things you need
+  to know in advance if you are. The first thing would be to check your credit
+  score. You should also avoid making any big credit purchases or opening any
+  new cards during this time. To learn all of our tips for homebuyers in 2018,
+  watch this short video.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Jay+White/Video/2018/The+White+Group+%257C+4+Tips+for+Homebuyers+in+2018.mp4
 pullquote: Rates might increase more than once.
