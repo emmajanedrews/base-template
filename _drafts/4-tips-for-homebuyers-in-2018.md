@@ -1,38 +1,34 @@
 ---
 layout: post
-title: Keep Your Home Warm and Cozy This Winter With These 5 Energy Tips
-date: 2017-12-13 12:25:17
+title: 4 Tips for Homebuyers in 2018
+date: 2017-12-13 12:25:00
 tags:
 excerpt: >-
   To keep your home warm and energy efficient this winter, there are five easy
   tips you can follow.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Jay+White/Video/2017/The+White+Group+%257C+Keep+Your+Home+Warm+and+Cozy+This+Winter+With+These+5+Energy+Tips.mp4
-pullquote: >-
-  By turning down your thermostat at night, you can save 10% to 15% in yearly
-  heating costs.
+  https://s3.amazonaws.com/vyralmarketing/Jay+White/Video/2018/The+White+Group+%257C+4+Tips+for+Homebuyers+in+2018.mp4
+pullquote: Rates might increase more than once.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/jay-white---dec-2017---1---youtube.jpg
-youtube_code: 5Wf4YYCW028
+youtube_alternate_image:
+youtube_code: CpIT00zaTA4
 ---
 
 
 {% include youtube.html %}
 
-Here are five great tips that will help keep your home warm and save on energy costs this winter:
+Thinking about buying a home in 2018? If you are, now is the time to start preparing. **Here are the things you need to do first:**
 
-**1. Use the earth as a natural heater.** While it’s best to close south-facing windows in the summertime to keep sunlight out, if you open them in winter, the natural sunlight will help heat your home.
+**1. Check your credit score.**
 
-**2. Insulate your home’s north-facing windows.** Use heavy window treatments or insulated window treatments to keep the air from inside and the air from outside separate.
-
-**3. Check your heating unit.** Dirt and a lack of maintenance are the two most common reasons heating units fail. Before it starts getting heavy usage, have it serviced and change its filters.
+**2. Avoid opening any new credit cards or making any big credit purchases.** You could increase the total price you’ll pay for your home in the long run.
 
 {% include pullquote.html %}
 
-**4. Turn down your thermostat.** Statistics show that by turning your heating unit down 10 to 15 degrees once you’re in bed and under warm covers, you can save as much as 10% to 15% in yearly heating costs. Better yet, buy and install a programmable thermostat.
+**3. Keep tabs on interest rates.** The FED is expected to raise interest rates this year. They might do it more than once.
 
-**5. Don’t heat unused space.** If you have a guest room or a basement no one ever uses, seal that space off so it’s not getting heated when not in use.
+**4. Find a mortgage lender.** Then get pre-approved. This will save you time in the long run.
 
-If you have any more real estate questions or you’d like more tips on how to make your home more energy-efficient this winter, give us a call or send us an email. We’d be happy to help you.
+Thanks for taking the time to join us today. If you have any questions for us in the meantime, don’t hesitate to give us a call or send us an email. I look forward to hearing from you soon.
