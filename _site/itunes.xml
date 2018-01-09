@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Portland Real Estate Podcast with John Hatch</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://hatchhomesgroup.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://hatchhomesgroup.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Hatch Homes Group - your professional Portland Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>John Hatch</managingEditor>
-    <lastBuildDate>2017-10-05 09:29:45 -0500</lastBuildDate>
+    <lastBuildDate>2017-10-10 15:26:32 -0500</lastBuildDate>
     <media:copyright>John Hatch</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://hatchhomesgroup.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,7 +18,7 @@
     </itunes:owner>
     <itunes:author>John Hatch</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://hatchhomesgroup.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Portland Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Hatch Homes Group - your professional Portland Real Estate Agents.</itunes:summary>
@@ -26,7 +26,7 @@
     
       <item>
         <title>A Few Important Numbers From the Portland Real Estate Market </title>
-        <link>localhost:4000/a-few-important-numbers-from-portland.html</link>
+        <link>http://hatchhomesgroup.com/a-few-important-numbers-from-portland.html</link>
         
           <category>Portland Market Update</category>
         
@@ -67,7 +67,7 @@ As we mentioned earlier, there is slightly more inventory for buyers to choose f
 If you have any questions about buying or selling in our current market, just give us a call or send us an email. We would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/John+Hatch/Portland+Real+Estate+Agent-+Market+Update.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://hatchhomesgroup.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/John+Hatch/Portland+Real+Estate+Agent-+Market+Update.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -86,7 +86,7 @@ What is happening in the Portland real estate market? We have six important stat
       
       <item>
         <title>How I Use Real Estate Conventions to Better Myself for My Clients</title>
-        <link>localhost:4000/how-i-use-real-estate-conventions-to.html</link>
+        <link>http://hatchhomesgroup.com/how-i-use-real-estate-conventions-to.html</link>
         
           <category>Portland Real Estate</category>
         
@@ -117,7 +117,7 @@ Being face to face with these fellow professionals really helps me to build a la
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://hatchhomesgroup.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -136,7 +136,7 @@ How do real estate conventions help my team and I perform better for our clients
       
       <item>
         <title>We're Hosting a Warehouse Sale</title>
-        <link>localhost:4000/were-hosting-warehouse-sale.html</link>
+        <link>http://hatchhomesgroup.com/were-hosting-warehouse-sale.html</link>
         
           <category>Event Announcement</category>
         
@@ -173,7 +173,7 @@ We hope you see you there.
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/John+Hatch/+Videos/Portland+Real+Estate+Agent-+Event+Announcement.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://hatchhomesgroup.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/John+Hatch/+Videos/Portland+Real+Estate+Agent-+Event+Announcement.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -192,7 +192,7 @@ You won’t want to miss this warehouse sale event.
       
       <item>
         <title>What Is Happening in the Portland Market?</title>
-        <link>localhost:4000/what-is-happening-in-portland-market.html</link>
+        <link>http://hatchhomesgroup.com/what-is-happening-in-portland-market.html</link>
         
           <category>Portland Market Update</category>
         
@@ -227,7 +227,7 @@ In fact, this is a better opportunity than we’ve seen for buyers in a long tim
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/John+Hatch/+Videos/2017/JULY/Portland+Real+Estate+Agent-+What+is+happening+to+the+Portland+market%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://hatchhomesgroup.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/John+Hatch/+Videos/2017/JULY/Portland+Real+Estate+Agent-+What+is+happening+to+the+Portland+market%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -246,7 +246,7 @@ Now that we’re halfway through the year, I sat down with my daughter, Angela, 
       
       <item>
         <title>You're Invited to Our Real Estate Investment Seminar</title>
-        <link>localhost:4000/blog-post.html</link>
+        <link>http://hatchhomesgroup.com/blog-post.html</link>
         
           <category>Portland Real Estate</category>
         
@@ -281,7 +281,7 @@ Click here to see all Portland homes for sale
 And if you need more advice, or you are ready to start looking for a home, get in touch with me at (503) 748-8310. I love working with first-time homebuyers, and I can help you get to your perfect new home with minimum hassle.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/John+Hatch/+Videos/2017/June/Portland+Real+Estate+Agent-+Investment+Property+Seminar.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://hatchhomesgroup.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/John+Hatch/+Videos/2017/June/Portland+Real+Estate+Agent-+Investment+Property+Seminar.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -300,7 +300,7 @@ We’re holding a seminar to teach you about investing in real estate with a sea
       
       <item>
         <title>What Advice Do We Have for First-Time Homebuyers?</title>
-        <link>localhost:4000/what-advice-do-we-have-for-first-time_19.html</link>
+        <link>http://hatchhomesgroup.com/what-advice-do-we-have-for-first-time_19.html</link>
         
           <category>First-time homebuyer</category>
         
@@ -373,7 +373,7 @@ Click here to see all Portland homes for sale
 And if you need more advice, or you are ready to start looking for a home, get in touch with me at (503) 748-8310. I love working with first-time homebuyers, and I can help you get to your perfect new home with minimum hassle.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://hatchhomesgroup.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -392,7 +392,7 @@ There is a lot that goes into buying your first home. To make things a little ea
       
       <item>
         <title>American Real Estate vs. UK Real Estate</title>
-        <link>localhost:4000/american-real-estate-vs-uk-real-estate.html</link>
+        <link>http://hatchhomesgroup.com/american-real-estate-vs-uk-real-estate.html</link>
         
           <category>International Real Estate</category>
         
@@ -421,7 +421,7 @@ That said, my mother’s 3-bed, 1-bathroom, 1,100 square foot bungalow sold for 
 So, let us know if you know anyone who is interested in buying or selling a home. We can help them meet their goals anywhere in the world. We look forward to hearing from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/John+Hatch/+Videos/2017/June/Portland+Real+Estate+Agent-+American+Real+Estate+vs.+UK+Real+Estate.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://hatchhomesgroup.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/John+Hatch/+Videos/2017/June/Portland+Real+Estate+Agent-+American+Real+Estate+vs.+UK+Real+Estate.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -440,7 +440,7 @@ Recently, I helped sell my mother’s home in the United Kingdom, as I’ve alwa
       
       <item>
         <title>Meet Our Most Experienced Agent, Angela Stevens</title>
-        <link>localhost:4000/meet-our-most-experienced-agent-angela.html</link>
+        <link>http://hatchhomesgroup.com/meet-our-most-experienced-agent-angela.html</link>
         
           <category>Hatch Homes</category>
         
@@ -467,7 +467,7 @@ We’re very proud of Angela and the contributions she’s made to our team. Las
 If you have any questions or are looking to buy or sell a home in our market, don’t hesitate to reach out to us. We’d be happy to help.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/John+Hatch/+Videos/2017/May/Portland+Real+Estate+Agent-+Meet+Our+Most+Experienced+Agent%252C+Angela+Stevens.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://hatchhomesgroup.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/John+Hatch/+Videos/2017/May/Portland+Real+Estate+Agent-+Meet+Our+Most+Experienced+Agent%252C+Angela+Stevens.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -486,7 +486,7 @@ As our most experienced agent, Angela Stevens is a vital member of the Hatch Hom
       
       <item>
         <title>What Can You Learn About Real Estate Investment at Our Seminar?</title>
-        <link>localhost:4000/what-can-you-learn-about-real-estate.html</link>
+        <link>http://hatchhomesgroup.com/what-can-you-learn-about-real-estate.html</link>
         
           <category>Real Estate Investment</category>
         
@@ -515,7 +515,7 @@ The best part? It’s totally free. We even have a door prize. To RSVP, just cli
 In the meantime, we hope to see you there. If you have any questions, don’t hesitate to reach out to us. We’d be glad to help.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/John+Hatch/+Videos/2017/May/Portland+Real+Estate+Agent-+What+Can+You+Learn+About+Real+Estate+Investment+at+Our+Seminar%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://hatchhomesgroup.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/John+Hatch/+Videos/2017/May/Portland+Real+Estate+Agent-+What+Can+You+Learn+About+Real+Estate+Investment+at+Our+Seminar%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -534,7 +534,7 @@ We’re holding a seminar this Thursday aimed at teaching you the ins and outs o
       
       <item>
         <title>Have You Considered Buying Property Abroad?</title>
-        <link>localhost:4000/have-you-considered-buying-property.html</link>
+        <link>http://hatchhomesgroup.com/have-you-considered-buying-property.html</link>
         
           <category>International Real Estate</category>
         
@@ -564,7 +564,7 @@ We have seen properties of all price ranges, from modestly priced homes all the 
 It’s such a pleasure to be in this part of the world, and if you or anyone you know is interested in buying internationally, please feel free to give me a call or send me an email. I would be happy to share what I’ve learned about the Caribbean or answer any questions you might have.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://hatchhomesgroup.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -585,7 +585,7 @@ Here’s some of what I learned about buying internationally.
       
       <item>
         <title>Happy Holidays, from Our Team to Your Family</title>
-        <link>localhost:4000/happy-holidays-from-our-team-to-your.html</link>
+        <link>http://hatchhomesgroup.com/happy-holidays-from-our-team-to-your.html</link>
         
           <category>Happy Holidays</category>
         
@@ -606,7 +606,7 @@ We also want to thank you for doing business with us and making our job so enjoy
 If there’s anything we can do to brighten your day, please let us know. Happy Holidays!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/John+Hatch/Portland+Real+Estate+Agent-+Happy+Holidays%252C+from+Our+Team+to+Your+Family.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://hatchhomesgroup.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/John+Hatch/Portland+Real+Estate+Agent-+Happy+Holidays%252C+from+Our+Team+to+Your+Family.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -625,7 +625,7 @@ Today we wanted to thank you for your business and wish you happy holidays.
       
       <item>
         <title>10 Things to Consider When Making an Offer on a Home</title>
-        <link>localhost:4000/10-things-to-consider-when-making-offer.html</link>
+        <link>http://hatchhomesgroup.com/10-things-to-consider-when-making-offer.html</link>
         
           <category>Buyer Tips</category>
         
@@ -682,7 +682,7 @@ When making an offer on a home, there are 10 factors that you need to consider s
 If you or anyone you know is looking to buy or sell real estate and values good representation, we’d love to speak to them. Just give us a call or send us an email. We look forward to hearing from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/John+Hatch/Portland+Real+Estate+Agent+-+10+Things+to+Consider+When+Making+an+Offer+on+a+Home.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://hatchhomesgroup.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/John+Hatch/Portland+Real+Estate+Agent+-+10+Things+to+Consider+When+Making+an+Offer+on+a+Home.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
