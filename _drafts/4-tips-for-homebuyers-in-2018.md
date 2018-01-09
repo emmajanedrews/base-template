@@ -1,8 +1,10 @@
 ---
 layout: post
 title: 4 Tips for Homebuyers in 2018
-date: 2017-12-13 12:25:00
+date: 2018-01-09 11:00:00
 tags:
+  - Home Buyer Tips
+  - Real Estate
 excerpt: I’ve got some great tips for homebuyers this year. Here they are.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Jay+White/Video/2018/The+White+Group+%257C+4+Tips+for+Homebuyers+in+2018.mp4
