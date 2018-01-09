@@ -45,3 +45,5 @@ Then, we go and do what everyone thinks agents do all day: We show homes or go o
 Sometimes, agents are able to get home at a reasonable hour for dinner with the family. However, we often have to meet clients in the evening or on weekends for showings and listing appointments.
 
 As a full-time agent, you have to be super flexible with your schedule. It’s important to have conversations with your spouse to make sure that you are both on the same page and can handle that flexible schedule.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email.
