@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Why Is a Buyer’s Consultation Important?
-date: 2018-01-04 11:13:13
+date: 2018-01-04 11:13:00
 tags:
 excerpt: >-
   Why is the buyer’s consultation such an important first step in your home
   search? I’ll explain what we cover in the consultation today.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/John+Schuster/John+Schuster+Group-+Why+Is+a+Buyer%2527s+Consultation+Important%253F.mp4
+  https://s3.amazonaws.com/vyralmarketing/John+Schuster/John+Schuster+Group-+Why+Is+a+Buyer%2527s+Consultation+Important%253F+(1).mp4
 pullquote: >-
   If you don’t sit down for a consultation, you could miss out on the perfect
   house or a good deal.
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/john-s-youtube-1-1.jpg
-youtube_code: XnOwBUOBIt8
+youtube_code: B1wVCdkTTrc
 ---
 
 
@@ -25,7 +25,7 @@ Why is a buyer’s consultation with a real estate agent important?
 
 We love to meet with all of our buyers before we begin their home search. We sit down with them and walk them through the whole process, from starting your search to finding a home to all of the steps it takes to get to the closing table.
 
-**We believe that it’s important to give buyers like you a full market exposure.&nbsp;**That way, you know what is going on in the price point you are interested in buying in. In certain price points, homes sell quickly with multiple offers. In other price points, buyers can negotiate more aggressively and get a great deal.
+**We believe that it’s important to give buyers like you a full market exposure.**That way, you know what is going on in the price point you are interested in buying in. In certain price points, homes sell quickly with multiple offers. In other price points, buyers can negotiate more aggressively and get a great deal.
 
 Some buyers go to Zillow or Realtor.com, see a house they like, and request a showing. Then, they get assigned to an agent and buy the first house that they see.
 
@@ -50,5 +50,3 @@ If you have a home to sell, a buyer’s consultation can be very helpful. We can
 A half-hour consultation with a buyer’s agent will empower you with the information you need to make a great purchase decision. Everyone here at our group loves working with buyers, so we would be happy to sit down with you and listen to your wants and needs so we can help you find the perfect home for your family.
 
 If you have any questions about the home buying process or would like to schedule a buyer’s consultation, just give us a call or send us an email. We would be happy to help you!
-
-&nbsp;
