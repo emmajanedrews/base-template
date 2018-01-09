@@ -22,12 +22,13 @@ client:
   email: themcintoshteam@gmail.com
   url: http://www.mcintoshrealtyteam.com
 
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808016';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: http://www.mcintoshrealtyteam.smarthomeprice.com/
   second_CTA_text: Home Search
   second_CTA_URL: http://www.mcintoshrealtyteam.com/buy/
-  VR_form: http://oi.vresp.com?fid=91587ad52b
 
 sidebar_CTA:
   CTA_image_path: /img/cta-images/001.jpg
