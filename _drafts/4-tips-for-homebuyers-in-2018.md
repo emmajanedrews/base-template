@@ -3,9 +3,7 @@ layout: post
 title: 4 Tips for Homebuyers in 2018
 date: 2017-12-13 12:25:00
 tags:
-excerpt: >-
-  To keep your home warm and energy efficient this winter, there are five easy
-  tips you can follow.
+excerpt: I’ve got some great tips for homebuyers this year. Here they are.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Jay+White/Video/2018/The+White+Group+%257C+4+Tips+for+Homebuyers+in+2018.mp4
 pullquote: Rates might increase more than once.
