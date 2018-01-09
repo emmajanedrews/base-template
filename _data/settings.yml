@@ -1,5 +1,5 @@
 audit_header: false
-title: Puget Sound Real Estate Video Blog with Gavin Shnieder
+title: Puget Sound Real Estate Careers and Training Video Blog with Gavin Shnieder
 description: >-
   Our mission at Abode Base is to help others build sustainable wealth through
   Real Estate. Whether you are a buyer, seller, or investor, our team of
@@ -11,6 +11,13 @@ show_custom_links: true
 custom_links:
   - title: About
     url: /about/
+  - title: Freebies
+    url: /
+  - title: Careers
+    url: http://www.abodebasecareers.com/
+
+emma_form:
+
 client:
   name: Gavin Shnieder
   license_number:
@@ -34,25 +41,24 @@ client:
   email: Gavin@AbodeBase.com
   url: 'http://AbodeBase.com'
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: 'http://gavin.abodebase.com/sell.php'
-  second_CTA_text: Home Search
-  second_CTA_URL: 'http://www.abodebase.com/index.php?rtype=grid#rslt'
-  VR_form: 'http://oi.vresp.com?fid=7f06479c26'
+  first_CTA_text: Request a Consultation
+  first_CTA_URL: /contact/
+  # second_CTA_text: Home Search
+  # second_CTA_URL: 'http://www.abodebase.com/index.php?rtype=grid#rslt'
+
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/002.jpg
-    CTA_title: What’s Your -- MARKET -- Home Worth?
+  - CTA_image_path: /img/cta-images/006.jpg
+    CTA_title: Looking to Build Your Real Estate Career?
     CTA_text: >-
-      Are you thinking of selling your home or interested in learning about home
-      prices in your neighborhood? We can help you.
-    CTA_link_text: Free Home Value Report
-    CTA_url: 'http://gavin.abodebase.com/sell.php'
-second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/003.jpg
-    CTA_title2: Looking for a -- MARKET -- Home?
-    CTA_text2: Search the entire MLS for your -- MARKET -- home.
-    CTA_link_text2: Search the MLS
-    CTA_url2: 'http://www.abodebase.com/index.php?rtype=grid#rslt'
+      Let's talk about how we can take your business to new heights.
+    CTA_link_text: Request a Free Strategy Session
+    CTA_url: /contact/
+# second_sidebar_CTA:
+#   - CTA_image_path2: /img/cta-images/003.jpg
+#     CTA_title2: Looking for a -- MARKET -- Home?
+#     CTA_text2: Search the entire MLS for your -- MARKET -- home.
+#     CTA_link_text2: Search the MLS
+#     CTA_url2: 'http://www.abodebase.com/index.php?rtype=grid#rslt'
 lender:
   show_section: false
   header_text: Preferred Lender
@@ -110,7 +116,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 80
-  hero_text: '-- MARKET -- Real Estate Video Blog'
+  hero_text: '-- MARKET -- Real Estate Careers and Training Video Blog'
   hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
