@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Waiting Until Spring Can Cost You
-date: 2018-01-09 16:14:23
+date: 2018-01-09 16:14:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: RYFgrVtJZ0c
 ---
 
 
