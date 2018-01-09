@@ -28,12 +28,13 @@ client:
   email: Info@StellarNW.com
   url: http://PortlandPropertyFinders.com
 
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808031';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: http://www.portlandpropertyfinders.com/home-valuation/
   second_CTA_text: Home Search
   second_CTA_URL: http://www.portlandpropertyfinders.com/results/
-  VR_form: http://oi.vresp.com?fid=34a3742877
 
 sidebar_CTA:
   CTA_image_path: /img/cta-images/005.jpg
