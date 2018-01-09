@@ -27,12 +27,13 @@ client:
   email: tanya@parkavehomes.net
   url: http://www.coloradospringsEhomes.com
 
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808311';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: http://www.coloradospringsrealestatemarket.com/
   second_CTA_text: Home Search
   second_CTA_URL: http://www.coloradospringsehomes.com/Properties
-  VR_form: http://oi.vresp.com?fid=c61e6841e5
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
