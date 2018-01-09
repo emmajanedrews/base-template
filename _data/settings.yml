@@ -21,12 +21,13 @@ client:
   email: ChadandSara@edinarealty.com
   url: http://chadandsara.com
 
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808002';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: https://www.edinarealty.com/chad-and-sara-huebener-realtor/Selling/sell-a-home#/
   second_CTA_text: Home Search
   second_CTA_URL: 'https://www.edinarealty.com/chad-and-sara-huebener-realtor/listing/listingsearch#/properties?minPrice=0&maxPrice=0&nBed=0&nBath=0&pt_val=ForSale&age=age_any&sts_sale=1&sts_con=1&addl_stat=addl_stat_any&int_min_sqft=0&int_max_sqft=0&ext_min_sqft=0&ext_max_sqft=0&ext_gar=0&pgeSize=200&pgeNum=1&srtBy=DateListed'
-  VR_form: http://oi.vresp.com?fid=3a54546ef4
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/005.jpg
@@ -71,7 +72,7 @@ socials:
   podcast_url: https://itunes.apple.com/us/podcast/minnesota-real-estate-podcast-with-chad-and-sara-huebener/id1240303274?mt=2
 
 podcast:
-  title: Minnesota Real Estate Podcast With Chad and Sara Huebener 
+  title: Minnesota Real Estate Podcast With Chad and Sara Huebener
   categories: Education
   image: http://i.imgur.com/c5A33wf.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Shakopee Area Real Estate Market'
