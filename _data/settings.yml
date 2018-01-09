@@ -23,12 +23,13 @@ client:
   email: sales@thewhitegroup.com
   url: http://thewhitegroup.com
 
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808018';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
   second_CTA_URL: http://www.thewhitegroup.com/search#?q_limit=36&q_prioritize=agents.0.id=51571,27644,33956,39346,50943,45399,35135,225394,91625,26063,25595|office.id=,,,&mlsId=102|352|87|253&q_sort=createdAt-&q_offset=0
-  VR_form:
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
