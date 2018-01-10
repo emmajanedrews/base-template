@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Do You Do When You Get Multiple Offers?
-date: 2017-12-11 10:40:56
+date: 2017-12-11 10:40:00
 tags:
 excerpt: >-
   Homes that are priced correctly are receiving multiple offers. As a seller,
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 6skSWuUZ-4Q
+youtube_code: DXwZPELIWZM
 ---
 
 
