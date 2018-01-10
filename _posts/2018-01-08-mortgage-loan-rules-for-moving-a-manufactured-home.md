@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/moving-homes-email.jpg
+youtube_alternate_image: /uploads/moving-homes-email-1.jpg
 youtube_code: s6G9_XOxc38
 ---
 
