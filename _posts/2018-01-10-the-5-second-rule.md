@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 5 Second Rule
-date:
+date: 2018-01-10 14:24:25
 tags:
 excerpt:
 enclosure:
@@ -10,8 +10,10 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: pFNcDmczzbg
 ---
+
+
 {% include youtube.html %}
 
-{% include pullquote.html %}
+&nbsp;
