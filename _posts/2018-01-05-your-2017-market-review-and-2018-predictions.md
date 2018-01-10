@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Today, I’ve got your Nashville real estate market recap for 2017. I’ll also go
   over what you can expect from the 2018 market.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Scott+Hardesty/Videos/January+18%22/Greater+Nashville+Real+Estate-+2017+Market+Recap+and+2018+Projections+(1).mp4
 pullquote: >-
   There is still a shortage of inventory, so we need more houses on the market
   in 2018.
