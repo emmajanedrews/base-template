@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Retrofit Your House With the Green On Program
-date: 2018-01-10 11:16:17
+date: 2018-01-10 11:16:00
 tags:
-  - Home Seller Tips
+  - Home Buyer Tips
 excerpt: >-
   I have an exciting new program to introduce you to called Green On that will
   help with all of your home retrofitting needs.
@@ -28,7 +28,7 @@ If you’re interested in installing a geothermal system in your home, you can g
 
 {% include pullquote.html %}
 
-**For more information about this program, you can visit [www.greenon.ca](https://greenon.ca/){: target="_blank"}.**
+**For more information about this program, you can visit [www.greenon.ca](https://greenon.ca/).**
 
 This is a wonderful time to put some money back into your home, which brings me to an important question we received after our last email: If I replace my windows, will it increase the value of my home?
 
