@@ -21,7 +21,7 @@ youtube_code: _zqIGulibKs
 
 Today, I’d like to share three easy steps for selling your home.
 
-**The first step I recommend is planning.**When it comes to selling, a lot of mistakes can come from a lack of preparation. If you take the time to plan things out, you will be more successful.
+**The first step I recommend is planning.** When it comes to selling, a lot of mistakes can come from a lack of preparation. If you take the time to plan things out, you will be more successful.
 
 This goes for selling a home, as well. One thing to consider is when and where you move. If you have children in school, you may want to think about which point during the school year you want to make your move.
 
@@ -29,10 +29,10 @@ Part of the planning process means having your real estate with you for at least
 
 {% include pullquote.html %}
 
-**The second step has to do with first impressions.**When it comes to selling houses, first impressions matter. The first 30 days of the process are especially important. Some of the ways you can make sure your home gives off the right impression to buyers is by neutralizing and decluttering. Also, be sure to have a professional take the photos for your listing.
+**The second step has to do with first impressions.** When it comes to selling houses, first impressions matter. The first 30 days of the process are especially important. Some of the ways you can make sure your home gives off the right impression to buyers are by neutralizing and decluttering. Also, be sure to have a professional take the photos for your listing.
 
 **The third and final step is to make sure you price it right.** I know you probably hear this tip over and over again, but it is so critical in today’s market. The strategy of pricing a home high and waiting to negotiate down simply isn’t a good idea. All that does is lead to more haggling.
 
-In order to price your home right, you should take the time to do a comparative market analysis. My team will perform this for you, by sitting down to really examine your home and the competitive landscape around it.
+In order to price your home right, you should take the time to do a comparative market analysis. My team will perform this for you by sitting down to really examine your home and the competitive landscape around it.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
