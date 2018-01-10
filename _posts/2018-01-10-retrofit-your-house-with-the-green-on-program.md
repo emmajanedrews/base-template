@@ -26,9 +26,9 @@ If your house is anything like this, you’ll be really excited about a new prog
 
 If you’re interested in installing a geothermal system in your home, you can get up to $20,000 in rebates for that, as well as some insulation rebates and incentives. Another exciting part of this program is its air source heat pumps. You can get air source heat pumps for smaller areas like an office or an apartment you may have. They can provide both heating and cooling, and you can receive up to $4,800 per unit.
 
-**For more information about this program, you can visit [www.greenon.ca](www.greenon.ca).**
-
 {% include pullquote.html %}
+
+**For more information about this program, you can visit [www.greenon.ca](www.greenon.ca).**
 
 This is a wonderful time to put some money back into your home, which brings me to an important question we received after our last email: If I replace my windows, will it increase the value of my home?
 
