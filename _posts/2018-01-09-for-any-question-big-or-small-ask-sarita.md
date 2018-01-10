@@ -26,13 +26,13 @@ Before I was a Realtor, I had an experience as a client that I want to share wit
 
 We were moving to a new area for my husband’s job, but I had a lot of important life changes going on myself.&nbsp;
 
-Not only was I adjusting to having a new baby, I was also adjusting to life in a new area.** I had no idea where to find the best pediatrician, hair stylist, or even Chinese restaurant.** It was really hard not knowing my area.&nbsp;
+Not only was I adjusting to having a new baby, I was also adjusting to life in a new area.\*\* I had no idea where to find the best pediatrician, hair stylist, or even Chinese restaurant.\*\* It was really hard not knowing my area.&nbsp;
 
 {% include pullquote.html %}
 
 Fast forward to now, 17 years later, and I feel very at home and connected here in Portland. We’ve lived in four homes over that time, which is one of the reasons I became an agent in the first place.&nbsp;
 
-I’ve got a lot of great connections.** In fact, my clients think of me as their own personal “Angie’s List.” I like to call it “Sarita’s List.”&nbsp;**
+I’ve got a lot of great connections.&nbsp;**In fact, my clients think of me as their own personal “Angie’s List.” I like to call it “Sarita’s List.”&nbsp;**
 
 My clients know that they can ask me any time they need a referral for anything here in Portland. I’m happy to help you buy and sell homes, but I also want to be the first person you think of when you need a recommendation for a service, big or small.&nbsp;
 
