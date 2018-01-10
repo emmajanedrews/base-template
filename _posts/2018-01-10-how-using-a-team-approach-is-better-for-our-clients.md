@@ -23,7 +23,7 @@ Why do we use the team approach in real estate?
 
 **When I first got started in real estate, I was handling several different aspects of the profession.** I was attending closings, managing paperwork, and more.
 
-As I became more and more busy, I found that it became increasingly difficult to manage every task at the highest level. At that point, I knew I needed to start utilizing a team approach to real estate.
+As I became busier, I found that it became increasingly difficult to manage every task at the highest level. At that point, I knew I needed to start utilizing a team approach to real estate.
 
 {% include pullquote.html %}
 
