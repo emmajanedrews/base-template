@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is 2018 the Year to Sell Your Home?
-date:
+date: 2018-01-10 16:24:01
 tags:
   - Home Seller Tips
 excerpt: >-
