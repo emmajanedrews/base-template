@@ -34,7 +34,7 @@ A lender may not be able to do one of the top three loans—FHA, conventional, o
 
 **Where do we get all this information?**
 
-You can visit the Texas Department of Housing website at [www.TDHCA.state.tx.us](http://www.TDHCA.state.tx.us) for records on every installation of manufactured homes. A manufactured home installer is licensed and by law they must log on to that site, enter their license number, then tag numbers of the manufactured home and the serial numbers and declare that they installed a specific home with both the date and location of that installation. This site is how lenders find out if a home has been moved.
+You can visit the Texas Department of Housing website at [www.TDHCA.state.tx.us](http://www.TDHCA.state.tx.us){: target="_blank"} for records on every installation of manufactured homes. A manufactured home installer is licensed and by law they must log on to that site, enter their license number, then tag numbers of the manufactured home and the serial numbers and declare that they installed a specific home with both the date and location of that installation. This site is how lenders find out if a home has been moved.
 
 This is critical information no matter if you’re on the buyer’s or seller’s side because some lenders don’t even know how to do this. You should want to know in advance if you’re wasting your time.
 
