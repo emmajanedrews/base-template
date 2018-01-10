@@ -19,7 +19,7 @@ youtube_code: DFLA_I7vUEE
 
 {% include youtube.html %}
 
-Our economy is growing and our market is strong. If you need to sell your home, 2018 is the right time to do it.
+*Our economy is growing and our market is strong. If you need to sell your home, 2018 is the right time to do it.*
 
 Should you sell your home in 2018?
 
@@ -37,4 +37,4 @@ I think we’ll see a slowdown in the suburbs as far as appreciation goes, but w
 
 If you need to sell, there is no reason to hesitate. None of the tax changes did anything to the market, so it’s still very strong overall.
 
-If you have any other questions about our 2018 market or whether you should sell or not, don’t hesitate to reach out to me. I’d be happy to help you.<br>
+If you have any other questions about our 2018 market or whether you should sell or not, don’t hesitate to reach out to me. I’d be happy to help you.
