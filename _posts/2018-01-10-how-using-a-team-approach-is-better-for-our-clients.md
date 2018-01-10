@@ -27,7 +27,7 @@ As I became more and more busy, I found that it became increasingly difficult to
 
 {% include pullquote.html %}
 
-**At the Dauby Team, providing quality customer service is our top priority.**Dividing the work across a team allows us to devote a higher level of focus to individual needs.
+**At the Dauby Team, providing quality customer service is our top priority.** Dividing the work across a team allows us to devote a higher level of focus to individual needs.
 
 Beyond simply providing quality service, we also care deeply about communication. We strive to provide you with our feedback within 24 hours.
 
