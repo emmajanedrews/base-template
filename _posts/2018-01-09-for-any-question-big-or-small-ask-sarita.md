@@ -26,7 +26,7 @@ Before I was a Realtor, I had an experience as a client that I want to share wit
 
 We were moving to a new area for my husband’s job, but I had a lot of important life changes going on myself.&nbsp;
 
-Not only was I adjusting to having a new baby, I was also adjusting to life in a new area.\*\* I had no idea where to find the best pediatrician, hair stylist, or even Chinese restaurant.\*\* It was really hard not knowing my area.&nbsp;
+Not only was I adjusting to having a new baby, I was also adjusting to life in a new area.&nbsp;**I had no idea where to find the best pediatrician, hair stylist, or even Chinese restaurant.**&nbsp;It was really hard not knowing my area.&nbsp;
 
 {% include pullquote.html %}
 
