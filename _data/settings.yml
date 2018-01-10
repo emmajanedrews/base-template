@@ -4,7 +4,9 @@ description: A Video Blog about -- MARKET -- Real Estate; its industry, and the 
 show_custom_links: false
 custom_links:
   - title:
-    url:
+    url: http://insideabbyrealty.com
+    
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1809481';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 
 client:
   name: Frank Gray
@@ -27,7 +29,6 @@ CTAs:
   first_CTA_URL: /contact/
   # second_CTA_text: Apply
   # second_CTA_URL: /apply/
-  VR_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1809481';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/006.jpg
