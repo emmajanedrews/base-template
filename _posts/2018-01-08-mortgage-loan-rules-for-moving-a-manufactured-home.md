@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Moving a Manufactured Home
+title: Mortgage Loan Rules for Moving a Manufactured Home
 date: 2018-01-08 15:00:00
 tags:
   - Real Estate
