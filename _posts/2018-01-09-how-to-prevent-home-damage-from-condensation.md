@@ -24,22 +24,22 @@ youtube_code: DI9JoZBCvH0
 
 Today I have a special guest with me, Lars Knobloch of Nordic Home Inspection. Today, Lars is going to give us a rundown about condensation, what to look out for, and how to prevent issues related to condensation.
 
-<br>Lars began doing home inspections in 2009, and since then, he’s done more than 5,000 inspections. He became very passionate about trying to educate the community about owning and maintaining a home. As we see on a daily basis, **there’s a big lack of knowledge when it comes to home maintenance** and the consequences that come with it.
+Lars began doing home inspections in 2009, and since then, he’s done more than 5,000 inspections. He became very passionate about trying to educate the community about owning and maintaining a home. As we see on a daily basis, **there’s a big lack of knowledge when it comes to home maintenance** and the consequences that come with it.
 
-<br>One of the biggest issues Lars sees during this time of year when the temperatures are below zero degrees is **condensation.** In pretty much any house he goes through, he sees frost build-up on the windows and some exterior surfaces.
+One of the biggest issues Lars sees during this time of year when the temperatures are below zero degrees is **condensation.** In pretty much any house he goes through, he sees frost build-up on the windows and some exterior surfaces.
 
 {% include pullquote.html %}
 
-<br>**The problem is the humidity** in the home. The colder it is outside, the dryer it needs to be inside to prevent condensation from forming and freezing.
+**The problem is the humidity** in the home. The colder it is outside, the dryer it needs to be inside to prevent condensation from forming and freezing.
 
-<br>There are some things you can do to prevent some of these issues. For one, be sure to **use your kitchen and shower exhaust fans when you cook and shower.**
+There are some things you can do to prevent some of these issues. For one, be sure to **use your kitchen and shower exhaust fans when you cook and shower.**
 
-<br>There are also devices that you can buy that will help control the humidity in your house, like an air exchange system, radon-reduction system, or an environmental mitigation system.
+There are also devices that you can buy that will help control the humidity in your house, like an air exchange system, radon-reduction system, or an environmental mitigation system.
 
-<br>What sort of consequences are possible if you don’t take precautions? Well, **one of the most common problems is mold build-up** on windows and other surfaces, resulting in deterioration and wood rot.&nbsp;
+What sort of consequences are possible if you don’t take precautions? Well, **one of the most common problems is mold build-up** on windows and other surfaces, resulting in deterioration and wood rot.&nbsp;
 
-<br>You should also avoid trapping condensation against your windows with blinds and curtains. Open your blinds during the day when you’re out at work, and then you can shut them at night.
+You should also avoid trapping condensation against your windows with blinds and curtains. Open your blinds during the day when you’re out at work, and then you can shut them at night.
 
-<br>If you have any questions for Lars about issues relating to condensation or other home maintenance topics, you can reach him through his [Facebook page](https://www.facebook.com/NordicHomeInspection/) or [website](https://www.nordichomeinspection.com/). You can also give him a call at (701) 556-1446 or email him at [Lars@NordicHomeInspection.com](javascript:void(location.href='mailto:'+String.fromCharCode(76,97,114,115,64,78,111,114,100,105,99,72,111,109,101,73,110,115,112,101,99,116,105,111,110,46,99,111,109))).
+If you have any questions for Lars about issues relating to condensation or other home maintenance topics, you can reach him through his [Facebook page](https://www.facebook.com/NordicHomeInspection/) or [website](https://www.nordichomeinspection.com/). You can also give him a call at (701) 556-1446 or email him at [Lars@NordicHomeInspection.com](javascript:void(location.href='mailto:'+String.fromCharCode(76,97,114,115,64,78,111,114,100,105,99,72,111,109,101,73,110,115,112,101,99,116,105,111,110,46,99,111,109))).
 
 If you have any questions about home inspections or real estate in general, feel free to reach out to me. I’d be happy to help.
