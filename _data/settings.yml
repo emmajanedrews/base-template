@@ -33,12 +33,13 @@ client:
   email: RSpring@AmeriFirst.us
   url:
 
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808427';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+
 CTAs:
   first_CTA_text: Apply Online
   first_CTA_URL: https://7087046295.mortgage-application.net/WebApp/ShortApp.aspx
   second_CTA_text: Book an Appoinment
   second_CTA_URL: http://thespringmortgageteam.setmore.com/
-  VR_form: http://oi.vresp.com?fid=7a50cda706
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
