@@ -36,4 +36,4 @@ I love the culture here. I love the constant growth and learning from the top pr
 
 If you have any questions for me personally or are looking to buy a home, feel free to reach out to me at 808-633-2368. I’d be glad to help you.
 
-***Yana Novikov, License #RS-8034, 808-633-2368***
+***Yana Novikov, License #RS-80340, 808-633-2368***
