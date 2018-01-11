@@ -22,12 +22,13 @@ client:
   email: Tim@ImagineRealty.com
   url: http://ImagineRealty.com
 
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808433';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: http://www.homestat.info/
   second_CTA_text: Home Search
   second_CTA_URL: http://www.imaginerealty.com/search/advanced_search/
-  VR_form: http://oi.vresp.com?fid=247bd106f1
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
