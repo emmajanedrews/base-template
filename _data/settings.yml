@@ -43,13 +43,16 @@ client:
   phone2_type:
   email: TheBetzTeam@gmc-inc.com
   url: 'http://TheBetzTeam.com'
+
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808435';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+
 CTAs:
   first_CTA_text: Apply Online
   first_CTA_URL: >-
     https://apply.guardianmortgageonline.com/signup?referrerId=TheBetzTeam@gmc-inc.com
   second_CTA_text: Request a Consultation
   second_CTA_URL: 'https://calendly.com/thebetzteam'
-  VR_form: 'http://oi.vresp.com?fid=41c99825aa'
+
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/006.jpg
     CTA_title: Ask Me A Question
