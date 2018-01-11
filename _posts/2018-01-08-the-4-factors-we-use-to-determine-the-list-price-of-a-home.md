@@ -1,13 +1,14 @@
 ---
 layout: post
 title: The 4 Factors We Use to Determine the List Price of a Home
-date: 2018-01-08 14:19:49
+date: 2018-01-08 14:19:00
 tags:
   - Home Seller Tips
 excerpt: >-
   How can you determine that sweet spot to price your home in? Here’s our recipe
   to get there.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sandy+Gabrielli/Reno+Area+Real+Estate+Agent-+4+Home+Pricing+Factors.mp4
 pullquote: How does your home compare to others on the market?
 enclosure_type: video/mp4
 enclosure_time:
@@ -21,7 +22,7 @@ youtube_code: 'https://youtu.be/J9eRg4WBqM0'
 
 When we get ready to put a home on the market, we use four different data points to determine the price we should list it at. **Each one gets us closer to that sweet spot where the home will sell quickly and for a great price:**
 
-**1. What are the homes selling for in your immediate area?** We take a look at all the homes that are currently on the market and where they are listed, as well as the prices from all of the home sales in the last six to nine months.<br><br>**2. The tax value.&nbsp;**What we’re looking for here is the ratio that homes are selling in your area compared to their tax-assessed value.
+**1. What are the homes selling for in your immediate area?** We take a look at all the homes that are currently on the market and where they are listed, as well as the prices from all of the home sales in the last six to nine months.<br><br>**2. The tax value.**What we’re looking for here is the ratio that homes are selling in your area compared to their tax-assessed value.
 
 {% include pullquote.html %}
 
