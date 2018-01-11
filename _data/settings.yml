@@ -25,7 +25,9 @@ CTAs:
   second_CTA_text: Home Search
   second_CTA_URL: 'http://www.servingnorthcounty.com/search.aspx#Page:2'
   phone_CTA: true
-  VR_form: 'http://oi.vresp.com?fid=a5ff5559a8'
+
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808374';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+
 sidebar_CTA:
   CTA_image_path: /img/cta-images/004.jpg
   CTA_title: Looking to Buy a Home?
