@@ -11,7 +11,7 @@ emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1
 client:
   name: Frank Gray
   license_number:
-  about_markdown: |
+  about_markdown: |h
   
     Helping people has always been Frank’s passion. After college and graduate school, Frank served as a youth minister and senior pastor for several years. When he went back to school to work on his doctorate, he took a job in sales to support his family. Through that experience, he discovered a love for helping people with important financial decisions. After graduation, he accepted a position in new home sales with the David Weekley company in Katy, Texas. From there, he was hired by RE/MAX International and spent 19 years serving as a management consultant and business coach for real estate brokers and agents. From that perspective, he developed a keen sense of what real estate agents need to succeed at a high level. In order to create the perfect environment for agents, Frank left RE/MAX in November of 2017 to open his own real estate brokerage, Abby Realty. Today, Frank is totally focused on helping real estate agents create amazing careers that fully fund their lives and aspirations. 
 
@@ -90,7 +90,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 30
-  hero_text: -- MARKET -- Real Estate Careers and Training Video Blog
+  hero_text: -- MARKET -- Real Estate Careers and Training Videos
   hero_background_hex: '#91CEC6'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
