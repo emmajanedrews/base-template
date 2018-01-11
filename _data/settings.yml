@@ -33,7 +33,9 @@ CTAs:
   first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
   second_CTA_URL: 'http://www.breannesteen.com/search-homes-for-sale/#/2123907651'
-  VR_form: 'http://oi.vresp.com?fid=e0ee54fc19'
+
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808371';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+
 sidebar_CTA:
   CTA_image_path: /img/home-search.png
   CTA_title: Looking to Buy a Home?
