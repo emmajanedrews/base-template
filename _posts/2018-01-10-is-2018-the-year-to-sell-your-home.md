@@ -27,7 +27,7 @@ The first thing I should say is I don’t know. **It depends on what you’re tr
 
 If we look at the numbers and what they predict for 2018, the economy is booming. Confidence levels are off the charts and better than they’ve been in a long time. As far as values go, I believe we will see more home sales and slower appreciation.
 
-We didn’t have as many sales specifically in the Portland/Southwest Washington area in 2017 as we did in 2016, and there are a couple reasons why. First, the weather was terrible, so it slowed down our market for the first two months. Second, we didn’t have a big enough supply of homes on the market.
+We didn’t have as many sales specifically in the Portland/Southwest Washington area in 2017 as we did in 2016, and there are a couple of reasons why. First, the weather was terrible, so it slowed down our market for the first two months. Second, we didn’t have a big enough supply of homes on the market.
 
 {% include pullquote.html %}
 
