@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Loan Limits Are Up in the Central Valley
-date: 2018-01-09 16:19:01
+date: 2018-01-09 16:19:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: VBd1V0oycGQ
+youtube_code: LG1cx0nvSa8
 ---
 
 
@@ -22,7 +22,7 @@ youtube_code: VBd1V0oycGQ
 
 We have some exciting news to share today with homebuyers and home sellers alike. The FHA and conventional mortgage loan limits have gone up so we’re here today to give you the details.
 
-**For homebuyers, the changes give you the ability to buy more home while putting down less.** Instead of having to put down 10%, you can put down 3.5% and get a nicer home.&nbsp;
+**For homebuyers, the changes give you the ability to buy more home while putting down less.** Instead of having to put down 10%, you can put down 3.5% and get a nicer home.
 
 In San Joaquin County, the FHA loan limit has been raised to $391,000. In Stanislaus County, that figure is up to $322,000. In higher-priced areas like Alameda, Contra Costa, Santa Clara, and San Francisco, the limit has gone up to $679,650. The conventional loan limit has also gone up to $453,000. If you’re a homebuyer in one of these areas, your buying power has been greatly increased. That’s great news.
 
