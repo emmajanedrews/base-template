@@ -24,12 +24,13 @@ client:
   email: lance@schlr.com
   url: https://www.LanceWoodley.com
 
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808395';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: http://www.lancewoodley.com/what39s-your-home-worth
   second_CTA_text: Home Search
   second_CTA_URL: http://www.lancewoodley.com/-/ListingSearch/index/2
-  VR_form: http://oi.vresp.com?fid=9b62bee7cf
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
