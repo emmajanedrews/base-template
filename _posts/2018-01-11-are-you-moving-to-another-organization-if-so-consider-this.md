@@ -22,7 +22,7 @@ youtube_code: vQ46LBxGFDY
 
 Today, I want to speak briefly about the things you should research and take into consideration when moving to another organization.
 
-First, ask yourself: “What is the company’s primary service or product?” Once you’ve answered this, **ask yourself if it is something you have the ability to stand behind and get excited about.**If it’s not, it could be a challenge for you to work with this service or product on a daily basis.
+First, ask yourself: “What is the company’s primary service or product?” Once you’ve answered this, **ask yourself if it is something you have the ability to stand behind and get excited about.&nbsp;**If it’s not, it could be a challenge for you to work with this service or product on a daily basis.
 
 Additionally, you should think about the company’s target market. Who are they trying to serve and impact? This factor will impact the things you’ll do on a daily basis.
 
@@ -34,7 +34,7 @@ The age of the company will also matter. If a company just started, you may have
 
 Well-established companies also have benefits. When a company has been around for a while, you can feel certain about their track record of success.
 
-However long a company has been in business, leadership matters. **Before moving to an organization, determine who is on the leadership team and what experience they have.**When you figure this out, you may even find common ground.
+However long a company has been in business, leadership matters. **Before moving to an organization, determine who is on the leadership team and what experience they have.&nbsp;**When you figure this out, you may even find common ground.
 
 Another question you should be asking is, how much revenue have they generated? Also, who is their biggest competitor? Having this information from the beginning will be greatly beneficial to you as a potential member of any organization.
 
