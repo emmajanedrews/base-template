@@ -36,11 +36,11 @@ Bright even sends daily updates about technical difficulties or where problems w
 
 Now that I’ve had time to learn the system and get feedback from my agents and staff, I’ve been able to see that this system has a real positive impact, and I’m extremely grateful for that. **Here are a few important things that Bright has been able to do:**
 
-1. I am able to get data in areas that I wasn’t able to before. I remember often feeling stupid because a customer was able to go on Realtor.com and give me property information that I had to struggle to find in the system. Now, I can just jump on Bright and get information on a market that’s 45 minutes away. I can even get more information than the customer can, which allows me to offer them some value.
+1) I am able to get data in areas that I wasn’t able to before. I remember often feeling stupid because a customer was able to go on Realtor.com and give me property information that I had to struggle to find in the system. Now, I can just jump on Bright and get information on a market that’s 45 minutes away. I can even get more information than the customer can, which allows me to offer them some value.
 
-2. I don’t have to pay for and learn a mode-able system. Since Bright is a large, regional system, I can look in the same system, pay the same dues, and save all that time and energy that I would have spent learning a new system.
+2) I don’t have to pay for and learn a mode-able system. Since Bright is a large, regional system, I can look in the same system, pay the same dues, and save all that time and energy that I would have spent learning a new system.
 
-3. There are many useful tips and tricks that have made us more efficient and saved us a huge amount of time. For example, the web mapping search allows us to look at flood zones, public record information, and more. **I’ve been incredibly impressed with the owner information available for properties that aren’t listed,** including the assessed value. There are many tips and tricks this system offers that Paragon didn’t.
+3) There are many useful tips and tricks that have made us more efficient and saved us a huge amount of time. For example, the web mapping search allows us to look at flood zones, public record information, and more. **I’ve been incredibly impressed with the owner information available for properties that aren’t listed,** including the assessed value. There are many tips and tricks this system offers that Paragon didn’t.
 
 I am incredibly grateful to Bright and their staff for the dedication they put into the transition. I think the Bright MLS will improve my life, my team’s lives, and my client’s lives.
 
