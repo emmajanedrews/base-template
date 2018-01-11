@@ -27,7 +27,7 @@ Within that, **you have to set both long-term goals and short-term goals.** What
 
 {% include pullquote.html %}
 
-Ask yourself, what is the legacy you want to leave at the end of the day? Whether it’s with your family or career, at the end of the day, what is it that you want people to say about you?
+Ask yourself: What is the legacy you want to leave at the end of the day? Whether it’s with your family or career, at the end of the day, what is it that you want people to say about you?
 
 In that regard, **who you spend time with is extremely important.** There’s a famous Jim Rohn quote I’d like to share with you that applies to this principle: “You are the average of the five people you spend the most time with.” Make sure you’re spending your time wisely.
 
