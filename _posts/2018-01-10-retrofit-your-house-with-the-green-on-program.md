@@ -28,7 +28,7 @@ If you’re interested in installing a geothermal system in your home, you can g
 
 {% include pullquote.html %}
 
-**For more information about this program, you can visit [www.greenon.ca](http://www.greenon.ca).**
+**For more information about this program, you can visit [www.greenon.ca](http://www.greenon.ca){: target="_blank"}.**
 
 This is a wonderful time to put some money back into your home, which brings me to an important question we received after our last email: If I replace my windows, will it increase the value of my home?
 
