@@ -38,7 +38,9 @@ CTAs:
   second_CTA_text: Home Search
   second_CTA_URL: >-
     http://www.chasecraig.com/search#?q_limit=36&q_prioritize=agents.0.id=9058|office.id=608&mlsId=113&q_sort=createdAt-&q_offset=0
+    
 emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808378';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: What’s Your -- MARKET -- Home Worth?
