@@ -19,12 +19,15 @@ client:
   phone2_type:
   email: info@andreybustamante.com
   url: 'http://www.andreybustamante.com'
+
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808366';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://www.andreybustamante.com/custompages_reports/b1979.htm'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://www.andreybustamante.com/custompages_reports/b1977.htm'
-  VR_form:
+
 sidebar_CTA:
   CTA_image_path: /img/cta-images/001.jpg
   CTA_title: Looking to Buy a Home?
