@@ -30,12 +30,13 @@ client:
   email: info@milehighhomeguide.com
   url: http://www.milehighhomeguide.com
 
+emma_form: 
+
 CTAs:
   # first_CTA_text: Home Valuation
   # first_CTA_URL: https://www.milehighhomeguide.com/home-valuation/
   # second_CTA_text: Home Search
   # second_CTA_URL: https://www.milehighhomeguide.com/results/?status=A
-  VR_form: http://oi.vresp.com?fid=b41490800b
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
