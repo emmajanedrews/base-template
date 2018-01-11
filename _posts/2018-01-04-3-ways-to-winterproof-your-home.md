@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Ways to Winterproof Your Home
-date: 2018-01-04 14:05:12
+date: 2018-01-04 14:05:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -13,7 +13,7 @@ pullquote: 'New, energy-efficient windows bring a nice ROI.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/no-pb-3.jpg
+youtube_alternate_image: /uploads/no-3.jpg
 youtube_code: d5RQvYCgYh0
 ---
 
@@ -24,7 +24,7 @@ Winterizing your home can pay for itself and then some. It can help you save mon
 
 But here's the thing: **Not all winterization projects are equally valuable**. That's why I've collected the top three projects that stand out in terms of the return they will give on your investment.
 
-**1. Fiberglass attic insulation.&nbsp;**Each year, Remodeling Magazine releases its Cost vs. Value Report for various home upgrades. This year, **only one project had an ROI of over 100%&nbsp;**and that was fiberglass attic insulation. If you add insulation to your attic tomorrow and decide to sell your home right after, you can expect that you will be able to sell for a premium. Even if you aren't selling your home just yet, then the improved attic insulation will accrue even more value in terms of lower heating bills and increased comfort in your home.
+**1. Fiberglass attic insulation.**Each year, Remodeling Magazine releases its Cost vs. Value Report for various home upgrades. This year, **only one project had an ROI of over 100%**and that was fiberglass attic insulation. If you add insulation to your attic tomorrow and decide to sell your home right after, you can expect that you will be able to sell for a premium. Even if you aren't selling your home just yet, then the improved attic insulation will accrue even more value in terms of lower heating bills and increased comfort in your home.
 
 **2. Energy-efficient windows.** A typical window replacement yields over a 70% return in terms of the resale value of your home. Depending on the shape of your current windows, **you could save an additional 15% or more** off your heating bills. Plus, new windows can add even more value to your home in terms of increased thermal and acoustic comfort, more light, and better design.
 
