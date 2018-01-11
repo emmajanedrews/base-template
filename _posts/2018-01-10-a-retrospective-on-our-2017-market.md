@@ -20,7 +20,9 @@ youtube_code: dXzpR9eJSdM
 
 *Now that the new year is upon us, I’d like to take a moment to review our 2017 market.*
 
-Now that 2017 is behind us, I’d like to go over a quick review of the year.&nbsp;<br>There are a few statistics I’d like to focus on, specifically. The first is the median number of days homes spent on the market in 2017.
+Now that 2017 is behind us, I’d like to go over a quick review of the year.&nbsp;
+
+There are a few statistics I’d like to focus on, specifically. The first is the median number of days homes spent on the market in 2017.
 
 Compared to 2016, **the number of days homes spent on the market was virtually unchanged in 2017.&nbsp;**At the end of the year, the median days on market was 18. This is still a historic low for that statistic.
 
