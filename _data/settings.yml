@@ -1,6 +1,6 @@
 audit_header: false
-title: BayState Financial Video Blog with Stephen Cunha
-description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
+title: Baystate Financial Video Blog with Stephen Cunha
+description: 'Stephen Cunha can help you take charge of your financial future by developing a customized strategy to reach your financial goals and further your success.'
 show_custom_links: true
 custom_links:
   - title: About Us
@@ -12,19 +12,17 @@ client:
   name: Stephen Cunha
   license_number:
   about_markdown: |
-    For over a century, Baystate Financial has united the industry’s foremost professionals in comprehensive wealth management and employee sponsored retirement plans. As one of New England’s oldest and most trusted financial services firms, we focus our expertise on truly listening to our clients, identifying their objectives, and building sophisticated strategies to achieve their goals.
-
-    Stephen Cunha provides individual investors and business owners with custom wealth management and benefit strategies. Whatever you hope to achieve, we seek to advance your goals through all chapters of your life: today, tomorrow, and for years to come.
+    With over 23 years of experience in the financial services industry, Stephen Cunha specializes in helping clients achieve their most cherished goals. Having spent 13 years in the Army Reserve, he draws on his strong leadership background to train and teach clients the fundamentals of financial independence. Stephen thrives in relating the most arcane financial concepts to individuals and business owners, empowering them to better understand the complex world of investing. Throughout his career, he has focused his expertise on creating clarity out of confusion for clients on both the corporate and individual side.
   market:
-  brand: BayState Financial
-  brokerage: Massachusetts Mutual Life Insurance Company
-  address: 301 Edgewater Place Suite 200<br>Wakefield, MA 01880
+  brand: Baystate Financial
+  brokerage:
+  address: 301 Edgewater Place - Suite 200<br>Wakefield, MA 01880
   phone: 781-876-4113
   phone_type:
   phone2:
   phone2_type:
-  email: SCunha@BayStateFinancial.com
-  url: http://www.retirementcfo.com
+  email: scunha@baystatefinancial.com
+  url: http://RetirementCFO.com
 
 Emma_form:
 
@@ -34,19 +32,19 @@ CTAs:
   second_CTA_text: Request a Plan Proposal
   second_CTA_URL: /
 
-# sidebar_CTA:
-#   - CTA_image_path: /img/cta-images/004.jpg
-#     CTA_title: "What’s Your -- MARKET -- Home Worth?"
-#     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-#     CTA_link_text: "Free Home Value Report"
-#     CTA_url: /homevalue/
-#
-# second_sidebar_CTA:
-#   - CTA_image_path2: /img/cta-images/005.jpg
-#     CTA_title2: "Looking for a -- MARKET -- Home?"
-#     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-#     CTA_link_text2: "Search the MLS"
-#     CTA_url2: /homesearch/
+sidebar_CTA:
+  - CTA_image_path: /img/cta-images/004.jpg
+    CTA_title: "Let’s Talk"
+    CTA_text: "Are you ready to take control of your financial future? If you have any questions about retirement or financial planning, I’m here to help."
+    CTA_link_text: "Request a Consultation"
+    CTA_url: http://www.retirementcfo.com/contact
+
+second_sidebar_CTA:
+  - CTA_image_path2: /img/cta-images/005.jpg
+    CTA_title2: "Planning for Retirement"
+    CTA_text2: "We can help you retire comfortably and live with confidence."
+    CTA_link_text2: "Request a Plan Proposal "
+    CTA_url2: /
 
 lender:
   show_section: false
@@ -61,13 +59,9 @@ lender:
   url: http://eyegoop.com
 
 welcome_box:
-  welcome_headline: Join Our -- MARKET -- VIP List
+  welcome_headline: Secure Your Financial Future
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
-    professionals can answer any questions you might have about real estate.
-    Subscribe to this blog to get the latest news on local market trends and
-    receive expert tips for buying or selling a home.
+    Stephen Cunha provides individual investors and business owners with custom wealth management and benefit strategies. Whatever you hope to achieve, we seek to advance your goals through all chapters of your life: today, tomorrow, and for years to come.
 
 socials:
   review_sm_icons: false
@@ -84,12 +78,12 @@ socials:
   podcast_url:
 
 podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
+  title: Baystate Financial Podcast with Stephen Cunha
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: 'Whether you are interested in retirement planning, wealth management, or benefit strategies, Certified Financial Planner™ Stephen Cunha is here with the latest tips.'
+  description: 'Stephen Cunha can help you take charge of your financial future by developing a customized strategy to reach your financial goals and further your success.'
+  keywords: Stephen Cunha, Financial Planning, Retirement Plans, Retirement Planning, Wealth Management, Financial Advisor, Certified Financial Planner, Benefit Planning, Retirement Plan Management
   author: '-- CLIENT NAME --'
 
 images:
