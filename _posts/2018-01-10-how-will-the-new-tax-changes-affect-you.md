@@ -33,7 +33,9 @@ Regarding the requirements of the sale of your principal property, the original 
 
 Click [here](http://www.simplifyingthemarket.com/en/tax-reform-housing-reference-guide/?a=323701-ea9cfdf9d119bc9a1cd75b3509ec10e4) to learn more.
 
-![](/uploads/versions/capitol-1---x----200-97x---.jpg)
+![](/uploads/versions/capitol-2---x----400-194x---.jpg)
+
+&nbsp;
 
 **This change doesn’t impact you very much if you’re looking to sell your home.** If you’re living in the property as part of a married couple, then you have up to $500,000 in gains that you don’t have to pay taxes on. If you’re single, you have up to $250,000 in gains that you don’t have to pay taxes on.
 
