@@ -22,9 +22,9 @@ youtube_code: whCxj7jIzMQ
 
 How will the new tax bill enacted at the end of 2017 affect buyers and sellers? It will do so in a number of ways, but there are three major changes you need to be aware of.
 
-{% include pullquote.html %}
-
 The first is **the standard deduction**. The new tax bill increases the standard deduction to $12,000 for single filers and $24,000 for joint filers. Many homeowners may decide to simply take their standard deduction rather than itemizing their deductions.
+
+{% include pullquote.html %}
 
 The second change is **the mortgage interest deduction**. The new tax bill lowers the cap on deductible debt from $1 million to $750,000. This change doesn’t necessarily apply to people retroactively, so if you obtained your mortgage prior to December 14 of last year, it won’t impact you. Going forward, though, it will impact those who take out new loans. The mortgage interest on second homes will still apply, but that also has been capped at the $750,000 limit.
 
