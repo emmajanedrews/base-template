@@ -23,12 +23,13 @@ client:
   email: ron@homebuyersrealty.com
   url: http://www.hbrteam.com
 
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808211';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://hbrteam.com/what-s-your-home-worth'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://hbrteam.com/search/criteria/gp_1/s_2'
-  VR_form: http://oi.vresp.com?fid=d2b89d37ba
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
