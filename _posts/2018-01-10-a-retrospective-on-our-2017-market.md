@@ -1,12 +1,13 @@
 ---
 layout: post
 title: A Retrospective on Our 2017 Market
-date: 2018-01-10 15:27:15
+date: 2018-01-10 15:27:00
 tags:
 excerpt: >-
   Now that the new year is upon us, I’d like to take a moment to review our 2017
   market.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+How+did+our+2017+market+shape+up.mp4
 pullquote: Appreciation is likely going to see a slowdown in 2018.
 enclosure_type: video/mp4
 enclosure_time:
@@ -20,11 +21,11 @@ youtube_code: dXzpR9eJSdM
 
 *Now that the new year is upon us, I’d like to take a moment to review our 2017 market.*
 
-Now that 2017 is behind us, I’d like to go over a quick review of the year.&nbsp;
+Now that 2017 is behind us, I’d like to go over a quick review of the year.
 
 There are a few statistics I’d like to focus on, specifically. The first is the median number of days homes spent on the market in 2017.
 
-Compared to 2016, **the number of days homes spent on the market was virtually unchanged in 2017.&nbsp;**At the end of the year, the median days on market was 18. This is still a historic low for that statistic.
+Compared to 2016, **the number of days homes spent on the market was virtually unchanged in 2017.**At the end of the year, the median days on market was 18. This is still a historic low for that statistic.
 
 Another statistic that remained nearly identical to what we saw in 2016 was the number of homes sold. In 2017, a total of 45,630 homes were sold.
 
