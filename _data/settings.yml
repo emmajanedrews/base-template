@@ -28,12 +28,14 @@ client:
   phone2_type:
   email: ScottHollingerMT@gmail.com
   url: 'http://FlatheadRealEstate.com'
+  
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808681';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'https://www.flatheadrealestate.com/how-much-is-my-property-worth/'
   second_CTA_text: Home Search
   second_CTA_URL: 'https://www.flatheadrealestate.com/montana-real-estate-search/results/?adv=yep&classRes=1&waterfronthomes=1&minPrice=&maxPrice=&bedrooms=&bathrooms=&sqrft_min=&sqrft_max=&land_min=&land_max=&dom=&mlsID='
-  VR_form: 'http://oi.vresp.com?fid=924f78585b'
 sidebar_CTA:
   CTA_image_path: /img/cta-images/006.jpg
   CTA_title: Looking to Buy a Home?
