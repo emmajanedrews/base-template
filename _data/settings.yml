@@ -26,12 +26,13 @@ client:
   email: info@teamlally.com
   url: https://www.teamlally.com
 
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808309';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+
 CTAs:
   first_CTA_text: Real Estate Careers
   first_CTA_URL: https://www.teamlally.com/careers.php
   # second_CTA_text: Apply
   # second_CTA_URL: /apply/
-  VR_form: "http://oi.vresp.com?fid=be75178d3c"
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/006.jpg
