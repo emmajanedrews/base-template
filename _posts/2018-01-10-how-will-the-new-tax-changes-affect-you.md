@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Will the New Tax Changes Affect You?
-date: 2018-01-10 12:38:46
+date: 2018-01-10 12:38:00
 tags:
   - Real Estate
 excerpt: >-
@@ -9,13 +9,13 @@ excerpt: >-
   that will affect our real estate market and possibly your ability to buy or
   sell in 2018.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Deepak+Gupta/The+Dee+Team-+New+Tax+Rules.mp4
+  https://s3.amazonaws.com/vyralmarketing/Deepak+Gupta/The+Dee+Team-+How+Will+the+New+Tax+Changes+Affect+You%253F.mp4
 pullquote: We are not saying these changes are good or bad news.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/dee-youtube-2.jpg
-youtube_code: n-my5MRogCQ
+youtube_code: WdwRbw1EFYo
 ---
 
 
@@ -33,7 +33,7 @@ Regarding the requirements of the sale of your principal property, the original 
 
 Click [here](http://www.simplifyingthemarket.com/en/tax-reform-housing-reference-guide/?a=323701-ea9cfdf9d119bc9a1cd75b3509ec10e4) to learn more.
 
-![](/uploads/versions/capitol---x----400-194x---.jpg)
+![](/uploads/versions/capitol-1---x----200-97x---.jpg)
 
 **This change doesn’t impact you very much if you’re looking to sell your home.** If you’re living in the property as part of a married couple, then you have up to $500,000 in gains that you don’t have to pay taxes on. If you’re single, you have up to $250,000 in gains that you don’t have to pay taxes on.
 
