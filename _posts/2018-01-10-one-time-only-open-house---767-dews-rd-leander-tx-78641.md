@@ -15,9 +15,7 @@ youtube_code: kb7FmLtU7dc
 ---
 
 
-## 767 Dews Rd, Leander, TX 78641
-
-{% include pullquote.html %}
+## Open Saturday, January 13th, 11AM to 2PM.
 
 **Don't miss your only chance to see this property up close**. Nature and wildlife abound on this serene two acre lot studded with oak trees and tucked peacefully among many more natural acres of Leander/Williamson County ETJ and private land—**all just minutes from all the modern day conveniences of Austin, TX.**
 
