@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Orlando Real Estate Careers and Training Podcast with Tom Nickley</title>
-    <link>http://www.tngrealestatecareers.com</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://www.tngrealestatecareers.com"/>
+    <link>http://tngrealestatetraining.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://tngrealestatetraining.com"/>
     <description>A Podcast about Orlando Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</description>
     <language>en</language>
     <managingEditor>Tom Nickley</managingEditor>
-    <lastBuildDate>2017-12-13 14:16:08 -0600</lastBuildDate>
+    <lastBuildDate>2018-01-12 11:36:43 -0600</lastBuildDate>
     <media:copyright>Tom Nickley</media:copyright>
-    <media:thumbnail url="http://www.tngrealestatecareers.com/img/podcast.jpg"/>
+    <media:thumbnail url="http://tngrealestatetraining.com/img/podcast.jpg"/>
     <media:keywords>Orlando Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,21 +18,60 @@
     </itunes:owner>
     <itunes:author>Tom Nickley</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="http://www.tngrealestatecareers.com/img/podcast.jpg"/>
+    <itunes:image href="http://tngrealestatetraining.com/img/podcast.jpg"/>
     <itunes:keywords>Orlando Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
     <itunes:subtitle>Boost your Career with Veteran Real Estate Agent Tom Nickley</itunes:subtitle>
     <itunes:summary>A Podcast about Orlando Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
+        <title>4 Strategies to Take Your Open House to the Next Level</title>
+        <link>http://tngrealestatetraining.com/4-strategies-to-take-your-open-house-to-the-next-level.html</link>
+        
+        <author>Tom Nickley</author>
+        <pubDate>2018-01-02 04:38:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Tom+Nickley/Training+Videos/Orlando+Real+Estate+Agent-+Take+your+open+house+to+the+next+level.mp4</guid>
+        <description>
+
+I see many agents out there who try to do open houses by putting up a few signs, neglect to follow-up on any leads they get, and then claim that open houses don’t work.
+
+The reality is, open houses are a great opportunity to attract business from people who are out and about looking for homes. The quality of your open house and the results you get from it are a direct result of what you put into it.
+
+Additionally, many people assume open houses are only a good source for buyer business. The truth is that they’re also a great source to attract seller business. If you market that open house, talk to the neighbors, and put out a lot of signs, those same neighbors will think about you when it’s time for them to sell their home.
+
+There are four strategies you can use to take your open house to the next level and reap the all the benefits from it.
+
+First, use signs, signs, and more signs.Way too often I see agents only putting out only two, three, or four signs. On our team, we encourage our agents to put up anywhere from 25 to 50 signs. Every single time we do an open house, the No. 1 source of all the attendees is our signs.
+
+Second, advertise the open house on social media.Social media, particularly Facebook, allows you to target certain audiences so you can take that open house and create an audience within one mile of it for a cheap price. In addition to that, there are some really cool tools like Mojo Dialer and Cole Realty Resource that allow you to pull the phone numbers of all the neighbors in the area. We encourage our agents to create a list of 200 to 300 of the closest neighbors and invite them or leave them a voicemail 24 to 48 hours before the open house. Again, this shows them that you’re willing to put in the time, energy, and focus to market that open house at the highest level.
+
+“The quality of your open house and the results you get from it are a direct result of what you put into them.”
+
+While people are coming to your open house, make sure you’re offering a tremendous amount of value. One of the things we see the most success from is finding out exactly what the people coming into the house are looking for in a home—the schools, price points, neighborhoods, etc. Offer to set them up on a custom search either on your website, your company’s provided website, or the MLS for the exact types of properties they’re looking for that will update every single day, keep properties in front of them, and keep them engaged. This is a goldmine if you do it correctly because consumers don’t always realize we have the ability to do this.
+
+Lastly, make sure you have a follow-up plan in place and start following up with those leads consistently and systematically the Monday after the open house. Keep following up until you know there’s no more opportunity there. Our team has a 21-day follow-up process we use with every open house lead that starts the Monday after with texts, emails, phone calls, and videos. This process enables us to reach out and convert those leads after the open house. The open house doesn’t stop that day—most of the conversion happens after it’s over.
+
+If you have any more questions about how to market open houses or you’d like to talk about taking your career to the next level, give us a call or shoot us an email. I’d love to help.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Tom+Nickley/Training+Videos/Orlando+Real+Estate+Agent-+Take+your+open+house+to+the+next+level.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://tngrealestatetraining.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Tom+Nickley/Training+Videos/Orlando+Real+Estate+Agent-+Take+your+open+house+to+the+next+level.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>I see many agents out there who try to do open houses by putting up a few signs, neglect to follow-up on any leads they get, and then claim that open houses don’t work.</itunes:subtitle>
+        <itunes:author>Tom Nickley</itunes:author>
+        <itunes:summary>I see many agents out there who try to do open houses by putting up a few signs, neglect to follow-up on any leads they get, and then claim that open houses don’t work.</itunes:summary>
+        <itunes:keywords>Orlando Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+      </item>
+      
+      <item>
         <title>Are Expensive Internet Leads Worth It?</title>
-        <link>http://www.tngrealestatecareers.com/are-expensive-internet-leads-worth-it.html</link>
+        <link>http://tngrealestatetraining.com/are-expensive-internet-leads-worth-it.html</link>
         
           <category>Real Estate</category>
         
         <author>Tom Nickley</author>
-        <pubDate>2017-12-13 07:24:17 -0600</pubDate>
-        <guid></guid>
+        <pubDate>2017-12-13 07:24:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Tom+Nickley/Training+Videos/Orlando+Real+Estate+Agent-+The+trick+with+purchasing+leads.mp4</guid>
         <description>
 
 You can get some great leads by purchasing them from Zillow and Realtor.com. But are they worth the money? From our experience, it depends on a few things. Chief among these are your conversion and follow-up processes.
@@ -43,15 +82,15 @@ With both of these lead sources, consumers come to you. On Zillow, when one visi
 
 “Our team follows a very strict 21-day follow-up process.”
 
-Not only are these leads expensive, but there is also a lot of direct competition for them. Whether or not you find success with this type of lead depends entirely on how you handle the lead after you receive it. Our team follows a very strict 21-day follow-up process. We send 15 different texts, videos, and emails over those 21 days in order to convert your leads.
+Not only are these leads expensive, but there is also a lot of direct competition for them.Whether or not you find success with this type of lead depends entirely on how you handle the lead after you receive it. Our team follows a very strict 21-day follow-up process. We send 15 different texts, videos, and emails over those 21 days in order to convert your leads.
 
 These lead sources can be lucrative, but they aren’t for the faint of heart. If you think it’s going to be easy to make a quick buck on these leads, you shouldn’t even consider purchasing them.
 
 If you have any questions for me about these leads or want any tips to help convert them, give us a call or send us an email. We look forward to hearing from you soon.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="http://www.tngrealestatecareers.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Tom+Nickley/Training+Videos/Orlando+Real+Estate+Agent-+The+trick+with+purchasing+leads.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://tngrealestatetraining.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Tom+Nickley/Training+Videos/Orlando+Real+Estate+Agent-+The+trick+with+purchasing+leads.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>You can get some great leads by purchasing them from Zillow and Realtor.com. But are they worth the money? From our experience, it depends on a few things. Chief among these are your conversion and follow-up processes.</itunes:subtitle>
         <itunes:author>Tom Nickley</itunes:author>
@@ -61,7 +100,7 @@ If you have any questions for me about these leads or want any tips to help conv
       
       <item>
         <title>4 Tips That Will Help You Maximize Your Productivity as an Agent</title>
-        <link>http://www.tngrealestatecareers.com/4-tips-that-will-help-you-maximize-your-productivity-as-an-agent.html</link>
+        <link>http://tngrealestatetraining.com/4-tips-that-will-help-you-maximize-your-productivity-as-an-agent.html</link>
         
           <category>Real Estate</category>
         
@@ -89,7 +128,7 @@ Here at the Nickley Group, our whole business model is built upon these exact po
 If you’re thinking about making a change in your career and entering the real estate industry or you’re already in the industry and want to step up your game, don’t hesitate to reach out to us. We’d love to speak with you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Tom+Nickley/Training+Videos/Orlando+Real+Estate+Agent-+Increase+your+productivity+from+here+on+out.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://www.tngrealestatecareers.com" height="72" width="72"/>
+        <media:thumbnail url="http://tngrealestatetraining.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Tom+Nickley/Training+Videos/Orlando+Real+Estate+Agent-+Increase+your+productivity+from+here+on+out.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>To ensure that you’re achieving your maximum productivity every day, here are four tips you can follow.</itunes:subtitle>
@@ -100,7 +139,7 @@ If you’re thinking about making a change in your career and entering the real 
       
       <item>
         <title>4 Questions to Ask Yourself About Your Work Environment</title>
-        <link>http://www.tngrealestatecareers.com/4-questions-to-ask-yourself-about-your-work-environment.html</link>
+        <link>http://tngrealestatetraining.com/4-questions-to-ask-yourself-about-your-work-environment.html</link>
         
           <category>Real Estate</category>
         
@@ -138,7 +177,7 @@ Each day, we are role-playing together, prospecting together, and we have unlimi
 If you have any questions about making your work environment more conducive to your success or are interested in a change, just give me a call or send me an email. I would love to sit down and talk with you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Tom+Nickley/Training+Videos/Orlando+Real+Estate+Agent-+Do+you+have+the+right+work+environment%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://www.tngrealestatecareers.com" height="72" width="72"/>
+        <media:thumbnail url="http://tngrealestatetraining.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Tom+Nickley/Training+Videos/Orlando+Real+Estate+Agent-+Do+you+have+the+right+work+environment%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>As real estate agents and, more specifically, as business owners, you are the boss. You make all of the rules and call all of the shots. As a business owner, you have to constantly analyze the things that will make you the most successful or stop you from being successful.</itunes:subtitle>
