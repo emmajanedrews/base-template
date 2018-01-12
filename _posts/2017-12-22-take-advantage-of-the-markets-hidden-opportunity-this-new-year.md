@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Take Advantage of the Market's Hidden Opportunity This New Year
-date: 2017-12-22 14:59:54
+date: 2017-12-22 14:59:00
 tags:
 excerpt: >-
   With 2018 just around the corner, I’d like to let you know about an exciting
   opportunity.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Chris+Hauck/St.+Cloud+Real+Estate+A+hidden+opportunity+for+the+new+year.mp4
 pullquote: The beginning of the year holds a lot of opportunity.
 enclosure_type: video/mp4
 enclosure_time:
