@@ -31,6 +31,10 @@ The first change you need to be aware of is the requirements of the sale of your
 
 Regarding the requirements of the sale of your principal property, the original proposal was that if the property was a homestead property, you would have to live in it for five out of the last eight years in order to avoid paying any capital gains taxes when selling it. That’s been changed so you only have to stay in the home for two out of the previous five years to sell the property without having to pay any capital gains taxes.
 
+Click [here](http://www.simplifyingthemarket.com/en/tax-reform-housing-reference-guide/?a=323701-ea9cfdf9d119bc9a1cd75b3509ec10e4) to learn more.
+
+![Click here to learn more!](/uploads/versions/capitolhill-750x363---x----750-363x---.jpg)
+
 **This change doesn’t impact you very much if you’re looking to sell your home.** If you’re living in the property as part of a married couple, then you have up to $500,000 in gains that you don’t have to pay taxes on. If you’re single, you have up to $250,000 in gains that you don’t have to pay taxes on.
 
 Regarding the reduction of the limit on mortgage interest, previously you could buy a home for up to $1 million and get the mortgage deduction when doing your taxes. They were proposing reducing that sum from $1 million to $500,000, but they agreed that you could reduce the itemized deduction on your mortgage for up to $750,000.
