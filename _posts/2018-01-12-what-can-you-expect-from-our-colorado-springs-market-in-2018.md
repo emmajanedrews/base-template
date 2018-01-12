@@ -5,7 +5,8 @@ date: 2018-01-12 13:18:00
 tags:
   - Market Update
 excerpt: What can you expect from our Colorado Springs Market in 2018?
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Tanya+Stevenson/Colorado+Springs+Real+Estate-+2018+Colorado+Springs+market+outlook.mp4
 pullquote: 'If you''re looking to sell your home, now is the perfect time.'
 enclosure_type: video/mp4
 enclosure_time:
