@@ -1,8 +1,9 @@
 ---
 layout: post
 title: A Review of Our Past and Present Real Estate Market
-date: 2018-01-12 12:07:14
+date: 2018-01-12 12:07:00
 tags:
+  - Market Update
 excerpt: >-
   Now that 2018 has arrived, what can we expect from our market? Today, let’s
   take a look back at 2017 and a look forward into our 2018 real estate market.
