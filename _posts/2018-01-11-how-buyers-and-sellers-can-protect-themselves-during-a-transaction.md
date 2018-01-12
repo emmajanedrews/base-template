@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Buyers and Sellers Can Protect Themselves During a Transaction
-date: 2018-01-11 12:39:52
+date: 2018-01-11 12:39:00
 tags:
   - Real Estate
 excerpt: >-
@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/no-1.jpg
+youtube_alternate_image: /uploads/no-6.jpg
 youtube_code: sGsgf8fVXSA
 ---
 
