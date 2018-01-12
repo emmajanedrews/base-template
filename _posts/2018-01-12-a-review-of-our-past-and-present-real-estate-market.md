@@ -20,7 +20,7 @@ youtube_code: SEDBubQN-CQ
 
 {% include youtube.html %}
 
-Now that we’re at the beginning of a new year, I’d like to take a look at our local market. How was our market in 2017, overall? And, what can we expect from 2018?
+Now that we’re at the beginning of a new year, I’d like to take a look at our local market. How was our overall market in 2017, and what can we expect from 2018?
 
 Let’s start with our expectations for this year. First of all, we’re definitely in a seller’s market right now. This means there are currently more buyers than there are available homes.
 
@@ -36,7 +36,7 @@ In terms of closings, there were 4,249 properties closed in 2016 compared to 4,7
 
 List prices are also increasing, but this statistic is less significant. In 2016 the average list price was $175,800. In 2017, the average price rose to $184,700.
 
-But, the average close price is a much more important indicator of our market, so let’s take a look at that statistic. **In 2016 the average close price was $174,000 and in 2017 the average close price was $182,8000.**
+But, the average close price is a much more important indicator of our market, so let’s take a look at that statistic. **In 2016 the average close price was $174,000 and in 2017 the average close price was $182,800.**
 
 Even though 2017 is over and we’re at the beginning of a new year, the market is already very busy. Buyers are very serious at this time of year.
 
