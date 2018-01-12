@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Can You Expect From Our Colorado Springs Market in 2018?
-date: 2018-01-11 13:18:55
+date: 2018-01-12 13:18:00
 tags:
   - Market Update
 excerpt: What can you expect from our Colorado Springs Market in 2018?
