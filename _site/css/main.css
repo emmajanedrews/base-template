@@ -2745,6 +2745,22 @@ form select {
     text-decoration: none;
     color: #b40101; }
 
+.mobile-headshot-container {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  border: 3px solid #b40101;
+  overflow: hidden;
+  display: inline-block;
+  margin: auto; }
+
+.mobile-headshot {
+  max-width: 200px; }
+
+.mobile-about p {
+  padding: 20px;
+  text-align: center; }
+
 .footer {
   color: #fff; }
   .footer .attribution svg {
