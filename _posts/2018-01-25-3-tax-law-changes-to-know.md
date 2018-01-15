@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Tax Law Changes to Know
-date: 2018-01-15 09:47:58
+date: 2018-01-25 09:47:58
 tags:
   - Real Estate
 excerpt: >-
