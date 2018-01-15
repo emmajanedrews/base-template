@@ -30,4 +30,4 @@ As you may or may not know, 850 is the best possible credit score that you can g
 
 **3. Watch your credit limits**. Banks don’t look kindly on those who use all of their available credit because it gives the appearance that you aren’t living within your means. Available credit is actually the second-most important factor in your credit score. Experts recommend keeping your balance on each card under 50% of its limit. Getting that number to 30% or 20% is even better. However, don’t pay the card down too much. While a zero balance might indicate that you are financially savvy, banks like to see responsible credit management instead. This means using your cards and paying down the balance to a reasonable level this month.
 
-If you have any questions for me about your credit, what you can do to improve it, or anything else related to real estate, give me a call or send me an email. I look forward to hearing from you soon.
+If you have any questions for us about your credit, what you can do to improve it, or anything else related to real estate, give us a call or send us an email. We look forward to hearing from you soon.
