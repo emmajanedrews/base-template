@@ -1,39 +1,41 @@
 ---
 layout: post
-title: 4 Tips for Homebuyers in 2018
-date: 2018-01-09 11:00:00
+title: The Pros and Cons of the Winter Real Estate
+date: 2018-01-15 11:00:00
 tags:
   - Home Buyer Tips
   - Real Estate
+  - Home Seller Tips
 excerpt: >-
-  Are you considering a home purchase in 2018? There are a few things you need
-  to know in advance if you are. The first thing would be to check your credit
-  score. You should also avoid making any big credit purchases or opening any
-  new cards during this time. To learn all of our tips for homebuyers in 2018,
-  watch this short video.
+  People often ask me, “Is it difficult to sell a home in the winter?” Well,
+  based on some statistics, I’d say yes. Across the four-county area where I
+  work, I notice a significant drop in the average number of homes that are sold
+  during two specific months of the year. In fact, during those two months, the
+  average number of homes sold is lower than other times of year by up to 35%.
+  To hear which two months these are and learn more, watch this short video.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Jay+White/Video/2018/The+White+Group+%257C+4+Tips+for+Homebuyers+in+2018+(1).mp4
-pullquote: Rates might increase more than once.
+  https://s3.amazonaws.com/vyralmarketing/Ben+Parojcic/Videos/2018/Ben+Parojcic+Remax+%257C+The+Pros+and+Cons+of+the+Winter+Real+Estate+Market.mp4
+pullquote: Sellers might want to keep their homes off the market in January and February.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: mRPgxZ6FL2g
+youtube_code: X8opRKz925c
 ---
 
 
 {% include youtube.html %}
 
-Thinking about buying a home in 2018? If you are, now is the time to start preparing. **Here are the things you need to do first:**
+So often people ask me, “Is it difficult to sell a home during the winter months?” I have to tell you, after looking at the data, my answer is yes. **It probably is a little more difficult to sell during this time of year.**
 
-**1. Check your credit score.**
+My team and I sell an average of about 2,400 homes per month in the four-county area where I work, across Cuyahoga, Medina, Summit, and Lorain. In November, our sales start to dip a little bit below that average.
 
-**2. Avoid opening any new credit cards or making any big credit purchases.** You could increase the total price you’ll pay for your home in the long run.
+In January and February, though, our average drops pretty significantly. We sell 1,600 homes on average in January and 1,700 in February. **That’s about 31% to 35% below average.**
 
 {% include pullquote.html %}
 
-**3. Keep tabs on interest rates.** The FED is expected to raise interest rates this year. They might do it more than once.
+Statistically, that’s fairly significant. If at all possible, sellers might want to keep their homes off the market during these two months.
 
-**4. Find a mortgage lender and** **get pre-approved.** This will save you time in the long run.
+However, buyers should know that these months are a great time to be looking. **You could possibly get a really good deal due to the lack of competition.**
 
-Thanks for taking the time to join us today. If you have any questions for us in the meantime, don’t hesitate to give us a call or send us an email. I look forward to hearing from you soon.
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
