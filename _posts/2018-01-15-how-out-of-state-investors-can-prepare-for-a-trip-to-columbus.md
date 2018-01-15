@@ -24,13 +24,13 @@ Columbus is a highly popular city among real estate investors. Nevertheless, **m
 
 They’re curious about how Columbus differs from other cities, like Dayton or Cincinnati, and they also want to know how they should best prepare for putting forward an offer here.
 
-Investors from outside the city also commonly ask that we help give them some insight into the property they’re interested in before they fly in, themselves.
+Investors from outside the city also commonly ask that we help give them some insight into the property they’re interested in before they fly in themselves.
 
 Really, all of the questions these investors ask boil down to a curiosity about Columbus.
 
 To get to know Columbus, there are a few resources and factors to consider.
 
-One major aspect of any city is its school system.** I personally recommend visiting [www.GradeSchools.org](www.GradeSchools.org) for further information on the area you’re looking to invest in.**This website will show you rankings of different school districts to help you make an informed investment decision.
+One major aspect of any city is its school system. I** personally recommend visiting [www.GradeSchools.org](www.GradeSchools.org) for further information on the area you’re looking to invest in.** This website will show you rankings of different school districts to help you make an informed investment decision.
 
 Crime statistics are another important factor. The number of crimes per capita and the amount of violent crime that typically occurs in an area are two factors to consider when choosing your investment. There are multiple places online to find this information. Alternatively, **you can contact the local police department to inquire about these statistics.**
 
@@ -38,7 +38,7 @@ Crime statistics are another important factor. The number of crimes per capita a
 
 But, what if you don’t know exactly where in Columbus you want to invest? Many people in this situation want to know if my team and I can provide you with a list of available investment properties. And of course, we would be happy to. Whatever you are looking for, we can provide you with a list of local opportunities.
 
-My team and I sell real estate everywhere in Columbus. Therefore, we can not only provide you with a list of property but can also **refer you to a number of property managers and attorneys.**
+My team and I sell real estate everywhere in Columbus. Therefore, we can not only provide you with a list of properties but can also **refer you to a number of property managers and attorneys.**
 
 Depending on what your plan is, you may want to plan a trip to sort out the details of your investment with us. If you can find the building first and make a trip out here, you will set yourself up for greater success.
 
