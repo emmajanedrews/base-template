@@ -30,7 +30,7 @@ Really, all of the questions these investors ask boil down to a curiosity about 
 
 To get to know Columbus, there are a few resources and factors to consider.
 
-One major aspect of any city is its school system.** I personally recommend visiting [www.GradeSchools.org](www.GradeSchools.org) for further information on the area you’re looking to invest in.**This website will show you rankings of different school districts to help you make an informed investment decision.
+One major aspect of any city is its school system. I personally recommend** visiting [www.GradeSchools.org](www.GradeSchools.org) for further information on the area you’re looking to invest in.**This website will show you rankings of different school districts to help you make an informed investment decision.
 
 Crime statistics are another important factor. The number of crimes per capita and the amount of violent crime that typically occurs in an area are two factors to consider when choosing your investment. There are multiple places online to find this information. Alternatively, **you can contact the local police department to inquire about these statistics.**
 
