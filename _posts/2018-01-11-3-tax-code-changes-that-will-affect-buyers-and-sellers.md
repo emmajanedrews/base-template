@@ -30,6 +30,6 @@ The second change is **the mortgage interest deduction**. The new tax bill lower
 
 The third major change is **the property tax deduction**. The new law limits the property tax deduction for state and local property taxes to $10,000. Prior to this, there was no limit.
 
-To understand more in-depth how the new tax law impacts you personally, we recommend that you contact your CPA. if you don’t have a CPA, feel free to reach out to us and we’d be happy to refer you to one.
+To understand more in-depth how the new tax law impacts you personally, we recommend that you contact your tax preparer. if you don’t have a tax preparer, feel free to reach out to us and we’d be happy to refer you to one.
 
 In our next video, we’ll discuss how these tax changes will affect housing prices in Southern California. Until then, if you have any questions or you’re in the market to buy, sell, or invest in real estate, don’t hesitate to give us a call or shoot us an email. We’d be happy to help you.
