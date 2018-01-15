@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   This winter is shaping up to be a huge moment for area homeowners who are
   looking to sell. Here are a few reasons why.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Joe+DeSane/Palm+Beach+County+Real+Estate-+2017+Market+Recap+and+2018+Projections.mp4
 pullquote: It’s the perfect time to get in the real estate market.
 enclosure_type: video/mp4
 enclosure_time:
