@@ -15,7 +15,7 @@ The CORE Training is a mortgage and real estate coaching company that provides m
 
 **Systems to Ensure a Strong First Quarter in 2018, December 2017** — [Resources](https://www.dropbox.com/sh/owtbnkctwl6aw0m/AAARvirtZivCfmkTAekkOqLta?dl=0)
 
-**Set Your Business Goals NOW, November 2017** — [Resources] (https://www.dropbox.com/sh/bwy9jexgoh26sb4/AAAvpp1ScKo_kanVwwWTgu_6a?dl=0)
+**Set Your Business Goals NOW, November 2017** — [Resources](https://www.dropbox.com/sh/bwy9jexgoh26sb4/AAAvpp1ScKo_kanVwwWTgu_6a?dl=0)
 
 **Maximize Client Referrals, October 2017** — [Video](https://www.youtube.com/watch?v=G_col4NAPnU) — [Resources](https://www.dropbox.com/sh/ek68llcq398u82a/AAAY5_K-0J7T2QiXo6cNNPvka?dl=0)
 
