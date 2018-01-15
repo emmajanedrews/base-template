@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Benefits of Selling Your Home in January
-date: 2018-01-03 12:53:31
+date: 2018-01-03 12:53:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/jay-robbins--selling-in-january-youtube.jpg
-youtube_code: 'https://youtu.be/ghD_hvuMZmw'
+youtube_code: 'https://youtu.be/gNm6bgT-RyI'
 ---
 
 
