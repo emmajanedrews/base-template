@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Things You Should Know About the Buying Process
-date: 2018-01-15 14:41:04
+date: 2018-01-15 14:41:00
 tags:
   - Home Buyer Tips
 excerpt: >-
-  Are you unsure about how to being the buying process or about how to navigate
+  Are you unsure about how to begin the buying process or about how to navigate
   the loan process? Kim Davis, our buyer specialist, is here to shed some light
   on the subject.
 enclosure: >-
