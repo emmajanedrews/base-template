@@ -22,9 +22,9 @@ youtube_code: XkBouzWNHS4
 
 {% include youtube.html %}
 
-Purchasing a home is a big investment. Today, I’d like to talk about some things you should consider when buying a home.
+Purchasing a home is a big investment. Finding the right home takes a lot of time, energy, and money, so it’s important to know what you’re really getting into before you make the decision to buy.
 
-Today, I’d like to some things you should consider when buying a home.
+Today, I’d like to talk about some things you should consider when buying a home.
 
 {% include pullquote.html %}
 
