@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Closer Look at the Waterfront Market in 2017
-date:
+date: 2018-01-15 14:27:40
 tags:
   - Market Update
 excerpt: What’s happening in the waterfront market? Here are the latest numbers.
