@@ -11,6 +11,12 @@ The CORE Training is a mortgage and real estate coaching company that provides m
 
 <br>If you need help implementing any of this or would like to discuss how we can work together to generate more referrals, please book an appointment directly on my calendar by clicking here. Thanks again!
 
+**Prospecting to Profits: Warm & Cold Calls made Easy, January 2018** — [Resources](https://www.dropbox.com/sh/jawh3ts46yi9xbw/AAD27BTKHZjBIg5KjCN9xM2Na?dl=0)
+
+**Systems to Ensure a Strong First Quarter in 2018, December 2017** — [Resources](https://www.dropbox.com/sh/owtbnkctwl6aw0m/AAARvirtZivCfmkTAekkOqLta?dl=0)
+
+**Set Your Business Goals NOW, November 2017** — [Resources] (https://www.dropbox.com/sh/bwy9jexgoh26sb4/AAAvpp1ScKo_kanVwwWTgu_6a?dl=0)
+
 **Maximize Client Referrals, October 2017** — [Video](https://www.youtube.com/watch?v=G_col4NAPnU) — [Resources](https://www.dropbox.com/sh/ek68llcq398u82a/AAAY5_K-0J7T2QiXo6cNNPvka?dl=0)
 
 **Amp Up Your Income with Luxury Farming, September 2017&nbsp;** — [Video](https://youtu.be/MZA73u5HNMk) — [Resources](https://www.dropbox.com/sh/j6oef2pu2zddu7k/AACir5wJnBxUzyZ03ypmF9Kia?dl=0)
