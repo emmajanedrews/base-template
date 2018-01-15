@@ -27,7 +27,7 @@ Throughout my years of working with people like you and your employees, I’ve c
 
 That’s one of the reasons I’m starting this series. I want to share with you all the different ideas and resources I’ve accumulated over the years from people who spend a lot of time thinking about how to help you and your employees reach your retirement goals safely and on time.&nbsp;
 
-**Today I want to share a simple idea with you that comes from Dr. Gregory Kasten.** He was an anesthesiologist before getting into the pension plan world, and he brings that level of discipline into thinking about pension plans and how we retire. He has since written a 700-page book on good retirement practices. I want to share a basic summary from that book that will help you get to that adequate retirement income on-time and safely.
+**Today I want to share a simple idea with you that comes from Dr. Gregory Kasten.** He was an anesthesiologist before getting into the pension plan world, and he brings that level of discipline into thinking about pension plans and how we retire. He has since written a 700-page book on good retirement practices. I want to share a basic summary of that book which will help you get to that adequate retirement income on-time and safely.
 
 **Everything comes down to having adequate savings, using quality assets with the money that you save, and making sure that your money is spread around to those different assets with a good allocation model.** It all may sound fairly easy, but the challenge is with the implementation. I won’t go into detail about that today, but I will in the future.
 
