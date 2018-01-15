@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: Miami Real Estate Video Blog with Traci Cope Tam and Julie Frederick
 description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -9,26 +9,26 @@ custom_links:
 emma_form:
 
 client:
-  name:
+  name: Traci Cope Tam & Julie Frederick
   license_number:
   about_markdown: |
-
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
-  phone_type:
-  phone2:
-  phone2_type:
-  email:
-  url:
+    Global is open to growing their team. They make every effort to train and mentor their agents so that they are best prepared to handle all real estate transactions with professionalism and confidence. Each customer is special to the RealtyGirls and they make sure the experience customers have with their team is the best in the world.
+  market: Miami
+  brand: The Realty Girls
+  brokerage: Global Realty Services
+  address: 5 Northeast 15th Street<br>Miami, Florida 33030
+  phone: 305-796-2308
+  phone_type: Traci
+  phone2: 305-216-1604
+  phone2_type: Julie
+  email: GlobalRealtyGirls@gmail.com
+  url: http://www.RealtyGirls.net
 
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.realtygirls.net/info/search/property/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
@@ -42,7 +42,7 @@ second_sidebar_CTA:
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://www.realtygirls.net/info/search/property/
 
 lender:
   show_section: false
@@ -67,13 +67,13 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
-  instagram_url:
-  pinterest_url:
+  facebook_url: https://www.facebook.com/realtygirls
+  linkedin_url: https://www.linkedin.com/company/realtygirls-global-realty-services?trk=biz-companies-cym
+  gplus_url: https://plus.google.com/u/0/b/117545405878177444064/117545405878177444064/posts
+  youtube_url: https://www.youtube.com/channel/UCLYwNVIhQzNutq2otKiNoLA
+  twitter_url: https://twitter.com/realtygirls
+  instagram_url: https://www.instagram.com/realtygirls/
+  pinterest_url: https://www.pinterest.com/realtygirls/
   zillow_url:
   trulia_url:
   yelp_url:
@@ -91,14 +91,14 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 60
   hero_text: -- MARKET -- Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#e64384'
+  theme_color: '#1d3251'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -110,7 +110,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: rgb(29, 50, 81)
 
 buttons:
   button_radius_number: 0
