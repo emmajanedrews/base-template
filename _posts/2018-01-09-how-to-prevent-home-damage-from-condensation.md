@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Prevent Home Damage From Condensation
-date: 2018-01-09 12:13:23
+date: 2018-01-09 12:13:00
 tags:
   - Real Estate
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: DI9JoZBCvH0
+youtube_code: rEVAq0WmDOQ
 ---
 
 
@@ -36,7 +36,7 @@ There are some things you can do to prevent some of these issues. For one, be su
 
 There are also devices that you can buy that will help control the humidity in your house, like an air exchange system, radon-reduction system, or an environmental mitigation system.
 
-What sort of consequences are possible if you don’t take precautions? Well, **one of the most common problems is mold build-up** on windows and other surfaces, resulting in deterioration and wood rot.&nbsp;
+What sort of consequences are possible if you don’t take precautions? Well, **one of the most common problems is mold build-up** on windows and other surfaces, resulting in deterioration and wood rot.
 
 You should also avoid trapping condensation against your windows with blinds and curtains. Open your blinds during the day when you’re out at work, and then you can shut them at night.
 
