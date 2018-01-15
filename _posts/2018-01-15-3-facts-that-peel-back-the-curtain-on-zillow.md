@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Facts that Peel Back the Curtain on Zillow
-date: 2018-01-15 15:18:20
+date: 2018-01-15 15:18:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -10,7 +10,7 @@ excerpt: >-
   to point out three things about this tool today that show just how reliable
   (or unreliable) it is
 enclosure:
-pullquote:
+pullquote: Let me help you navigate the market.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
