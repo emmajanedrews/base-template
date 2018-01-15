@@ -24,7 +24,7 @@ youtube_code: C1PhF4L0eRc
 
 Today, I’d like to dispel some of the misinformation that has been spreading in regards to how the new tax structure will impact our real estate market.&nbsp;
 
-First of all, the mortgage interest deduction was not eliminated as many predicted. Some changes were made, however. **Specifically, the new limit on the amount of deductible mortgage debt is $750,000.**This limit was previously $1 million. The new limit will pertain to all loans taken out after December 14, 2017.&nbsp;
+First of all, the mortgage interest deduction was not eliminated as many predicted. Some changes were made, however. **Specifically, the new limit on the amount of deductible mortgage debt is $750,000.&nbsp;**This limit was previously $1 million. The new limit will pertain to all loans taken out after December 14, 2017.&nbsp;
 
 It is also important to note that homeowners can still refinance their debts, so long as the mortgage was originated before that date.&nbsp;
 
