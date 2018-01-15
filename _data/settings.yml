@@ -42,8 +42,10 @@ client2:
   email: AaronM@BHGInnovations.com
   url: http://BHGInnovations.com
 
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1809043';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+
 CTAs:
-  VR_form: 'http://oi.vresp.com?fid=590cc0a696'
+
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/006.jpg
     CTA_title: Looking to Build Your Real Estate Career?

@@ -7,7 +7,7 @@
     <description>A Podcast about Central Iowa Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</description>
     <language>en</language>
     <managingEditor>Misty SOLDwisch</managingEditor>
-    <lastBuildDate>2017-12-13 14:59:14 -0600</lastBuildDate>
+    <lastBuildDate>2018-01-15 15:57:19 -0600</lastBuildDate>
     <media:copyright>Misty SOLDwisch</media:copyright>
     <media:thumbnail url="http://bebetterdsm.com/img/podcast.jpg"/>
     <media:keywords>Central Iowa Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</media:keywords>
@@ -25,12 +25,61 @@
       <itunes:category text="Education"/>
     
       <item>
+        <title>January Central Iowa Market Update</title>
+        <link>http://bebetterdsm.com/january-central-iowa-market-update.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2018-01-08 18:00:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+I’d like to take a few minutes today to look back at how the market was in December 2017, and that will help us going forward as we begin the new year.
+
+In the month of December, we had 793 new homes come on the market in the Des Moines MLS. The amazing fact is that 33% of those 793 homes sold in the month of December—that’s 262 homes that sold in December alone.
+
+The average days on market for those homes that sold was five days on the market before they got an offer. Homes coming on the market that are priced right are selling right away, which is great news for our sellers.
+
+“Homes coming on the market that are priced right are selling right away, which is great news for our sellers.”
+
+As of January 1, there are 3,201 homes for sale in the Des Moines MLS. That’s down by about 185 homes from December 1 of last year, which is normal this time of year. We’ll see the inventory ramp back up as we hit the springtime.
+
+Let’s take a look at the new construction home sales for 2017. Here are the top five home builders in our Des Moines MLS as of January 1:
+
+
+  Genesis Homes. They sold 126 new homes, including pending sales, closings, and offers made in 2017.
+  Greenland Homes. Greenland sold 182 homes, including condos, townhomes, and single-family homes.
+  Hubbell Homes. They’ve been in the area for over 150 years, and last year, they sold 203 homes.
+  Jerry’s Homes. They’ve been in the metro area for over 50 years and came out of 2017 with 207 closings and pending sales.
+  Classic Builders. Located up in Ankeny, they sold 346 new homes.
+
+
+These are big numbers for all these builders individually, but in terms of the entire market, we sold 2,455 new homes. That’s a great number; we’re finally starting to come back from the pre-recession levels of new home sales.
+
+We had 262 builders build at least one house in our metro area in the past year. This is an increase of 60 homes from four years prior.
+
+If you want to know more about the market or any real estate topic, you can always feel free to give us a call, send an email, or message us on Facebook. We’ll be back soon with more information. Until then, have a great day!
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://bebetterdsm.com" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>The new year has finally arrived! With that, I’d like to take a look back on the December 2017 market, which could help us moving forward.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>The new year has finally arrived! With that, I’d like to take a look back on the December 2017 market, which could help us moving forward.</itunes:summary>
+        <itunes:keywords>Central Iowa Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+      </item>
+      
+      <item>
         <title>Need to Meet Your Continuing Education Requirements? This Resource Can Help</title>
         <link>http://bebetterdsm.com/need-to-meet-your-continuing-education-requirements-this-resource-can-help.html</link>
         
+          <category>Real Estate</category>
+        
         <author>Misty SOLDwisch</author>
         <pubDate>2017-12-11 11:37:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/videos/Central+Iowa+Real+Estate-+Education+for+Agents+Just+Got+Easier.mp4</guid>
         <description>
 
 Toward the end of the year, I always notice that many agents are scrambling to get their continuing education requirements in for their license renewal.
@@ -57,9 +106,9 @@ So if you’re busy, want to learn, and would like to save money, I definitely r
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/videos/Central+Iowa+Real+Estate-+Education+for+Agents+Just+Got+Easier.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="http://bebetterdsm.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/videos/Central+Iowa+Real+Estate-+Education+for+Agents+Just+Got+Easier.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>How can we as agents possibly set aside time for continuing education with the busy schedules we maintain? Today, I’d like to share a great resource that can help.</itunes:subtitle>
         <itunes:author>Misty SOLDwisch</itunes:author>
