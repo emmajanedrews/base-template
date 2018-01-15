@@ -31,7 +31,7 @@ The questions we hear quite often are about how to start the buying process. “
 
 The pre-approval is the next step, in which an underwriter will evaluate your situation and credit. They will make the final decision based on the preliminary information you provide.
 
-{% include pullquote.html %}<br><br>**People also frequently ask about when is the best time to begin the process.**
+{% include pullquote.html %}<br>**People also frequently ask about when is the best time to begin the process.**
 
 If you’re thinking about making a move, you should start the process right away. It’s best to evaluate your situation months before the move, if possible. Of course, that really depends on your situation, so the best bet is to reach out to us and let us help you make a set of plans for yourself. There are so many working parts that it’s best if you let us help you meet those goals. There’s no reason to try to navigate this by yourself. We can put you in contact with a lender that we know and trust.
 
