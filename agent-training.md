@@ -9,11 +9,13 @@ The CORE Training is a mortgage and real estate coaching company that provides m
 
 <br>If you need help implementing any of this or would like to discuss how we can work together to generate more referrals, please book an appointment directly on my calendar by clicking here. Thanks again!
 
-**Prospecting to Profits: Warm & Cold Calls made Easy, January 2018** — [Video](http://prospectingtoprofits.pagedemo.co/) — [Resources](https://www.dropbox.com/sh/jawh3ts46yi9xbw/AAD27BTKHZjBIg5KjCN9xM2Na?dl=0)<br/>
+#### Featured Webinar:
 
-<iframe width="905" height="470" src="https://www.youtube.com/embed/bKZXiuz628g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+**Prospecting to Profits: Warm & Cold Calls made Easy, January 2018** — [Video](http://prospectingtoprofits.pagedemo.co/) — [Resources](https://www.dropbox.com/sh/jawh3ts46yi9xbw/AAD27BTKHZjBIg5KjCN9xM2Na?dl=0)
 
-<br/>
+<iframe width="905" height="470" src="https://www.youtube.com/embed/bKZXiuz628g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+
+&nbsp;
 
 **Systems to Ensure a Strong First Quarter in 2018, December 2017** — [Video](https://www.youtube.com/watch?v=-5F4moNvyfk&amp;feature=youtu.be) — [Resources](https://www.dropbox.com/sh/owtbnkctwl6aw0m/AAARvirtZivCfmkTAekkOqLta?dl=0)
 
