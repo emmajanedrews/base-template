@@ -31,12 +31,15 @@ client:
   email: brian@briancanady.com
   email2: tiffany@buysprings.com
   url: 'http://www.buysprings.com'
+
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808172';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://www.buysprings.com/cma/property-valuation/'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://www.buysprings.com/'
-  VR_form: 'http://oi.vresp.com?fid=d3ec76a8c9'
+
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/007.jpg
     CTA_title: Looking to Buy a Home?
