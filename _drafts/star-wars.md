@@ -1,21 +1,18 @@
 ---
 layout: post
-title: Star Wars
+title: Thank You for Coming!
 tags:
-  - Market Update
   - Real Estate
-  - Home Buyer Tips
-  - Home Seller Tips
+  - Josh Stern
+  - Josh Stern Video Blog
+  - Joshua Stern
 excerpt: >-
-  We are thrilled to share some exciting news with you today. We have recently
-  been endorsed by Glenn Beck. He had some great words to say about our team,
-  and we’re very proud of that. We are also proud of our guaranteed sale
-  program, which Glenn explains in detail in his endorsement. To hear what Glenn
-  Beck has to say about our team, watch this short video.
+  Check out some footage from the event right here. Don't forget to visit
+  sternteamutah.com for more upcoming events. May the force be with you!
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/Salt+Lake+County+Real+Estate+Agent-+Heres+Why+Glenn+Beck+Endorses+Our+Team.mp4
-pullquote: We are proud of our guaranteed sale program.
-enclosure_type: video/mp4
+  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2018/The+Stern+Team-+Star+Wars+Movie+Night.mp4
+pullquote:
+enclosure_type: 4-G04p4rulE
 enclosure_time: '10:39 am'
 use_youtube_image: true
 youtube_alternate_image:
@@ -25,10 +22,4 @@ youtube_code: kodSwXkDcxE
 
 {% include youtube.html %}
 
-We’re excited to announce our team’s latest endorsement. This one comes from nationally syndicated radio host Glenn Beck. **He had some great words to say about our team and about our home sale guarantee program.**
-
-{% include pullquote.html %}
-
-In case you haven’t heard of it, here’s how it works. We guarantee to sell your home at a price and deadline that you agree to or we are going to buy it ourselves. **We sell a home every two days,** and have a large network of buyers that are looking for a home right now. We make this promise because we know we have the systems in place to keep it.
-
-To hear the full radio endorsement, listen to the clip above.
+Check out some footage from the event right here. Don't forget to visit [sternteamutah.com](sternteamutah.com) for more upcoming events. May the force be with you!
