@@ -13,7 +13,11 @@ The CORE Training is a mortgage and real estate coaching company that provides m
 
 **Prospecting to Profits: Warm & Cold Calls made Easy, January 2018** — [Video](http://prospectingtoprofits.pagedemo.co/) — [Resources](https://www.dropbox.com/sh/jawh3ts46yi9xbw/AAD27BTKHZjBIg5KjCN9xM2Na?dl=0)
 
+One of the most important things to do when discussing lead generation is getting into the right mindset. Working by referral-only is great if you’re not looking to grow your business. That said, if you’re looking to grow your income with more leads and generate more referral opportunities, I encourage you to watch this 30-minute webinar discussing prospecting to profits: Warm & Cold Call Made Easy.
+
 <iframe width="905" height="470" src="https://www.youtube.com/embed/bKZXiuz628g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+
+### &nbsp;
 
 ### Previous Webinars:
 
@@ -45,14 +49,10 @@ The CORE Training is a mortgage and real estate coaching company that provides m
 
 ![agent mastermind](https://s3.amazonaws.com/vyralmarketing/Wade+Betz/amm-logo-new.jpg)
 
-&nbsp;
-
 ### LIVE Real Estate Mastermind Strategy Class!
 
 **Tuesdays at 11:00 AM - 12:00 PM CST**<br>You have an awesome opportunity to learn strategies that will help you take your business to the next level!! Join us on Tuesdays for strategy class with Scott. He shares the latest marketing strategies & interviews top agents around the country, sharing tips that will dramatically impact your business!<br>Register now & don't miss our next class!!
 
 <iframe allowfullscreen="" frameborder="0" height="300" src="https://marketinganimals.infusionsoft.com/app/form/58e996827b0f3e9309e2cedf1234a1ec?iFrame=true&amp;referrer=http%3A//agentmastermind.com/wadebetz/" width="502"></iframe>
-
-&nbsp;
 
 To catch the latest replay, email [TheBetzTeam@gmc-inc.com](mailto:TheBetzTeam@gmc-inc.com?subject=Replay%20Password) with “Agent Mastermind Replay” in the subject line.
