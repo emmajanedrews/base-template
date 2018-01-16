@@ -40,6 +40,6 @@ What sort of consequences are possible if you don’t take precautions? Well, **
 
 You should also avoid trapping condensation against your windows with blinds and curtains. Open your blinds during the day when you’re out at work, and then you can shut them at night.
 
-If you have any questions for Lars about issues relating to condensation or other home maintenance topics, you can reach him through his [Facebook page](https://www.facebook.com/NordicHomeInspection/) or [website](https://www.nordichomeinspection.com/). You can also give him a call at (701) 556-1446 or email him at [Lars@NordicHomeInspection.com](javascript:void(location.href='mailto:'+String.fromCharCode(76,97,114,115,64,78,111,114,100,105,99,72,111,109,101,73,110,115,112,101,99,116,105,111,110,46,99,111,109))).
+If you have any questions for Lars about issues relating to condensation or other home maintenance topics, you can reach him through his [Facebook page](https://www.facebook.com/NordicHomeInspection/) or [website](https://www.nordichomeinspection.com/). You can also give him a call at (701) 556-1446 or email him at [lars@nordiccompaniesinc.com](javascript:void(location.href='mailto:'+String.fromCharCode(108,97,114,115,64,110,111,114,100,105,99,99,111,109,112,97,110,105,101,115,105,110,99,46,99,111,109))).
 
 If you have any questions about home inspections or real estate in general, feel free to reach out to me. I’d be happy to help.
