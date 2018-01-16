@@ -29,7 +29,7 @@ As far as vacant land sales go, everything’s pretty flat in Flathead Lake (no 
 
 We actually see a big chunk of Flathead Lake sales in the condo market. **They fill in those gaps in the lower price ranges.** The average sale price of condos in Flathead Lake is $380,000. Sales are down quite a bit from last year, but there are still 38 active listings right now with a $462,000 median list price. The sold condos on Flathead Lake averaged about 243 days on the market.
 
-Now let’s look at Swan Lake, Echo Lake, and Lake Blaine. In Swan Lake, there were eight home sales this year, up from the five we saw the year before. We also saw two vacant land sales in 2017.There is one pending sale there right now, too.
+Now let’s look at Swan Lake, Echo Lake, and Lake Blaine. In Swan Lake, there were eight home sales this year, up from the five we saw the year before. We also saw two vacant land sales in 2017. There is one pending sale there right now, too.
 
 &nbsp;Echo Lake saw two sales this year, down from the three they had the year before. An interesting thing to note is that one of those two sales was for $1.8 million.
 
