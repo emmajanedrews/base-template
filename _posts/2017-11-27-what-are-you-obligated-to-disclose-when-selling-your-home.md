@@ -8,7 +8,7 @@ excerpt: >-
   As a seller, what information do you have to disclose to potential buyers?
   I’ll clear up all the confusion around seller disclosures today.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Becky+Ivins/Videos/December/Oklahoma+City+Metro+Real+Estate+Agent-+How+to+Increase+Your+Value.mp4
+  https://s3.amazonaws.com/vyralmarketing/Becky+Ivins/Videos/January+18%22/Oklahoma+City+Metro+Real+Estate+Agent-+Clearing+Confusion+Around+Seller+Disclosures.mp4
 pullquote: >-
   The seller disclosure is a defined list of questions about residential
   properties.
