@@ -12,7 +12,7 @@ excerpt: >-
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2018/The+Stern+Team-+Star+Wars+Movie+Night.mp4
 pullquote:
-enclosure_type: G04p4rulE
+enclosure_type: 
 enclosure_time: '10:39 am'
 use_youtube_image: true
 youtube_alternate_image:
