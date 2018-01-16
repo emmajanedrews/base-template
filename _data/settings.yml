@@ -31,6 +31,9 @@ client:
   phone2_type:
   email: Nick@AtlasPremierRealty.com
   url: 'http://www.atlaspremierrealty.com'
+
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808206';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+
 lender:
   show_section: true
   header_text: Our Preferred Mortgage Resource
@@ -50,7 +53,6 @@ CTAs:
   first_CTA_URL: 'http://www.atlaspremierrealty.com/whats-my-home-worth/'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://www.atlaspremierrealty.com/idx/search/'
-  VR_form: 'http://oi.vresp.com?fid=b75e53759f'
 sidebar_CTA:
   CTA_image_path: /img/cta-images/001.jpg
   CTA_title: Looking to Buy a Home?
