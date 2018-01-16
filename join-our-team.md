@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recruiting
 title: Join Our Team
 permalink: /join-our-team/
 ---
