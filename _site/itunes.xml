@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Puget Sound Real Estate Podcast with Gavin Shnieder</title>
-    <link>http://www.abodebase.blog</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://www.abodebase.blog"/>
+    <link>http://www.abodebasecareers.blog</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://www.abodebasecareers.blog"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Abode Base Real Estate - your professional Puget Sound Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Gavin Shnieder</managingEditor>
-    <lastBuildDate>2018-01-09 16:31:47 -0600</lastBuildDate>
+    <lastBuildDate>2018-01-16 16:17:59 -0600</lastBuildDate>
     <media:copyright>Gavin Shnieder</media:copyright>
-    <media:thumbnail url="http://www.abodebase.blog/img/podcast.jpg"/>
+    <media:thumbnail url="http://www.abodebasecareers.blog/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Puget Sound, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,7 +18,7 @@
     </itunes:owner>
     <itunes:author>Gavin Shnieder</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="http://www.abodebase.blog/img/podcast.jpg"/>
+    <itunes:image href="http://www.abodebasecareers.blog/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Puget Sound, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Puget Sound Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Abode Base Real Estate - your professional Puget Sound Real Estate Agents.</itunes:summary>

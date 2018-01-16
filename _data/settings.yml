@@ -13,10 +13,12 @@ custom_links:
     url: /about/
   - title: Freebies
     url: /
+custom_links_external:
   - title: Careers
     url: http://www.abodebasecareers.com/
 
-emma_form:
+
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1809811';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 
 client:
   name: Gavin Shnieder
