@@ -7,9 +7,9 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The AskSarita Team - your professional Portland Real Estate Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Sarita Dua</managingEditor>
-    <lastBuildDate>2017-05-08 09:55:22 -0500</lastBuildDate>
+    <lastBuildDate>2018-01-16 12:11:32 -0600</lastBuildDate>
     <media:copyright>Sarita Dua</media:copyright>
-    <media:thumbnail url="/img/podcast.jpg"/>
+    <media:thumbnail url="http://i.imgur.com/KJB2RBt.png"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,12 +18,643 @@
     </itunes:owner>
     <itunes:author>Sarita Dua</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="/img/podcast.jpg"/>
+    <itunes:image href="http://i.imgur.com/KJB2RBt.png"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Portland Real Estate Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The AskSarita Team - your professional Portland Real Estate Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>For Any Question Big or Small: Ask Sarita</title>
+        <link>localhost:4000/for-any-question-big-or-small-ask-sarita.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Sarita Dua</author>
+        <pubDate>2018-01-09 04:25:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Take%2520advantage%2520of%2520%2522Sarita%2527s%2520List%2522.mp4</guid>
+        <description>
+
+Today, I’d like to tell you a story from my past.
+
+Before I was a Realtor, I had an experience as a client that I want to share with you. At that time, I remember my agent paying a lot of attention to my husband. Admittedly, I was jealous. I felt that no one was paying attention to me.
+
+We were moving to a new area for my husband’s job, but I had a lot of important life changes going on myself.
+
+Not only was I adjusting to having a new baby, I was also adjusting to life in a new area. I had no idea where to find the best pediatrician, hair stylist, or even Chinese restaurant. It was really hard not knowing my area.
+
+“Even after I help you close a transaction, I am always here for you.”
+
+Fast forward to now, 17 years later, and I feel very at home and connected here in Portland. We’ve lived in four homes over that time, which is one of the reasons I became an agent in the first place.
+
+I’ve got a lot of great connections. In fact, my clients think of me as their own personal “Angie’s List.” I like to call it “Sarita’s List.”
+
+My clients know that they can ask me any time they need a referral for anything here in Portland. I’m happy to help you buy and sell homes, but I also want to be the first person you think of when you need a recommendation for a service, big or small.
+
+If I don’t already have a connection to a resource, I will seek one out for you. Even after I help you close a transaction, I am always here for you.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Take%2520advantage%2520of%2520%2522Sarita%2527s%2520List%2522.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Take%2520advantage%2520of%2520%2522Sarita%2527s%2520List%2522.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Before I was a Realtor, I had an experience as a client that I want to share with you. At that time, I remember my agent paying a lot of attention to my husband.</itunes:subtitle>
+        <itunes:author>Sarita Dua</itunes:author>
+        <itunes:summary>Before I was a Realtor, I had an experience as a client that I want to share with you. At that time, I remember my agent paying a lot of attention to my husband.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Tangible Proof That Portland Is the Place to Live</title>
+        <link>localhost:4000/tangible-proof-that-portland-is-the-place-to-live.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Sarita Dua</author>
+        <pubDate>2017-12-20 08:20:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%25202%2520new%2520studies%2520show%2520Portland%2520is%2520great.mp4</guid>
+        <description>
+
+Portland has been in the news recently in a big way. Specifically, there were a few recent articles in Forbes that I wanted to address.
+
+The first is a list of the companies with the happiest employees. Nike, where my husband works, came in at No. 2. Keller Williams actually took the top spot! We’re so grateful to work for such great companies and we can definitely say that we are extremely happy to be where we are at.
+
+“This is a great place to be in business.”
+
+Another article from Forbes rated Portland as the No. 1 city for business growth. This study was based on 14 different metrics, including income growth, costs, education level of the labor force, and other factors. Personally, as someone who is working here day in and day out, I see people flocking here in droves from the East Coast and other West Coast markets like San Francisco and Seattle. This is a great place to live, great place to invest, and a great place to be in business.
+
+If you have any questions for me or any real estate related needs I can assist with, give me a call or send me an email. I look forward to hearing from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%25202%2520new%2520studies%2520show%2520Portland%2520is%2520great.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%25202%2520new%2520studies%2520show%2520Portland%2520is%2520great.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Portland has been in the news recently in a big way. Specifically, there were a few recent articles in Forbes that I wanted to address.</itunes:subtitle>
+        <itunes:author>Sarita Dua</itunes:author>
+        <itunes:summary>Portland has been in the news recently in a big way. Specifically, there were a few recent articles in Forbes that I wanted to address.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>A Holiday Message From Our Team to You</title>
+        <link>localhost:4000/a-holiday-message-from-our-team-to-you.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Sarita Dua</author>
+        <pubDate>2017-12-11 04:37:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Happy%2520holidays%2520from%2520our%2520entire%2520team.mp4</guid>
+        <description>
+
+I’m getting into the holiday spirit today, as you can see from my choice of headwear. I just wanted to stop by and say thank you for all your support this past year. To all my friends, clients, family, and colleagues, I’m so grateful for your business and more importantly, your friendship. We are looking forward to an even better 2018. To see my full holiday message, watch this short video.
+
+“We are so grateful for your business!”
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Happy%2520holidays%2520from%2520our%2520entire%2520team.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Happy%2520holidays%2520from%2520our%2520entire%2520team.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>I’m getting into the holiday spirit today, as you can see from my choice of headwear. I just wanted to stop by and say thank you for all your support this past year.</itunes:subtitle>
+        <itunes:author>Sarita Dua</itunes:author>
+        <itunes:summary>I’m getting into the holiday spirit today, as you can see from my choice of headwear. I just wanted to stop by and say thank you for all your support this past year.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Should You Inspect Your Home Before You List It?</title>
+        <link>localhost:4000/should-you-inspect-your-home-before-you-list-it.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Sarita Dua</author>
+        <pubDate>2017-11-28 08:35:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Are%2520pre-inspections%2520a%2520good%2520idea%253F.mp4</guid>
+        <description>
+
+Are pre-inspections a good idea if you’re a home seller? Not necessarily.
+
+You see, if you have the home inspected, make all the noted repairs, and then list the house, guess what’s going to happen? The buyer will also have the home inspected and pay anywhere from $500 to $1,000 for a battery of their own inspections.
+
+When they hire an inspector, they’ll want to get their money’s worth, so you can be sure that they’ll find many other problems with the home, because no two humans are going to find the same list of issues. While you’d think you’d be prepared by getting a pre-listing inspection, you could still be faced with many issues that come up.
+
+Ultimately, the decision to get a pre-inspection is up to you. If you’re the type of person who prefers to have a little peace of mind that’s afforded by a pre-inspection, then by all means get one. You may find some issues you didn’t know your home had.
+
+“Pre-inspections aren’t necessarily a good idea.”
+
+If you’re the kind of person who wants perfection, though, there is no such thing. A buyer is still going to inspect the home on their own and find their own set of issues, and if you do choose to inspect your home and you find some issues that you choose not to take care of, you’ll be obligated to disclose those in a disclosure.
+
+In most cases, you’re better off leaving the inspection to the buyer. That’s what their due diligence period is for. In the meantime, you can work with a professional such as myself to prepare your home to sell. That’s what we’re here for.
+
+If you have any questions about this or any other real estate topic, don’t hesitate to reach out to me. I’d love to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Are%2520pre-inspections%2520a%2520good%2520idea%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Are%2520pre-inspections%2520a%2520good%2520idea%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Are pre-inspections a good idea if you’re a home seller? Not necessarily.</itunes:subtitle>
+        <itunes:author>Sarita Dua</itunes:author>
+        <itunes:summary>Are pre-inspections a good idea if you’re a home seller? Not necessarily.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>The Importance of Working With a Buyer’s Agent</title>
+        <link>localhost:4000/the-importance-of-working-with-a-buyers-agent.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Sarita Dua</author>
+        <pubDate>2017-10-30 06:58:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+I talk to friends and buyer clients all the time who say that they don’t want to waste my time because they’re still trying to figure out what they want in a home. My reaction to that gracious sentiment is always the same. You’re not wasting my time. In fact, if we visit a home and you don’t like it, that’s the opposite of a waste of our time.
+
+You see, it’s my job to help you. To do that to the best of my ability, I need to understand exactly what you’re looking for. The more homes we look at, whether you like them or not, the better idea I’ll have of what you’re looking for.
+
+“Not working with a buyer’s agent leaves you vulnerable.”
+
+The alternative to working with a buyer’s agent isn’t that great. By going to a home and only working with the listing agent, you’re not helping anybody (except for maybe the seller).
+
+A buyer’s agent does much more than just show a home. That’s why it’s important to work with one every step of the way. Not only can we help you find the perfect home, we can help you write a contract and negotiate the best terms on the sale.
+
+If you have any questions for us about buyer’s agents, seller’s agents, or anything else about real estate, give us a call or send us an email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>I talk to friends and buyer clients all the time that say that they don’t want to waste my time because they’re still trying to figure out what they want in the home. My reaction to that gracious sentiment is always the same. You’re not wasting my time. In fact, if we visit a home and you don’t like it, that’s the opposite of a waste of our time.</itunes:subtitle>
+        <itunes:author>Sarita Dua</itunes:author>
+        <itunes:summary>I talk to friends and buyer clients all the time that say that they don’t want to waste my time because they’re still trying to figure out what they want in the home. My reaction to that gracious sentiment is always the same. You’re not wasting my time. In fact, if we visit a home and you don’t like it, that’s the opposite of a waste of our time.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Are You Asking Agents the Right Questions?</title>
+        <link>localhost:4000/are-you-asking-agents-the-right-questions.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Sarita Dua</author>
+        <pubDate>2017-10-25 06:17:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Don%2527t%2520work%2520with%2520an%2520agent%2520before%2520asking%2520this.mp4</guid>
+        <description>
+
+Today I’d like to go over the five things you need to ask when interviewing a potential listing agent.
+
+
+  How long have they been in business?
+  What experience do they have in your neighborhood?
+  How are they going to price your home?
+  What is their marketing strategy?
+  Do they have a team? If they’re an individual agent, how will they cover all the tasks?
+
+
+Selling homes is a complex job. This is one instance where numbers really do matter.
+
+The following example is one way I like to explain what I mean by this.
+
+Imagine that you needed to get your appendix out. Who would you trust? Would you trust a surgeon who successfully performed 150 appendectomies a year? Or, would you trust a surgeon who only did one or two per year?
+
+“The only real way to determine which agent will provide you with the best service is by asking key questions.”
+
+The answer is obvious, and this is the same way you should approach your real estate needs. Someone like myself who sells 150 homes per year and other agents who sell far less may have close to the same commission rate. So, the only real way to determine which agent will provide you with the best service is by asking key questions.
+
+An agent should be able to show you their experience and results. You need proof of their success and references to confirm their claims.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Don%2527t%2520work%2520with%2520an%2520agent%2520before%2520asking%2520this.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Don%2527t%2520work%2520with%2520an%2520agent%2520before%2520asking%2520this.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today I’d like to go over the five things you need to ask when interviewing a potential listing agent.</itunes:subtitle>
+        <itunes:author>Sarita Dua</itunes:author>
+        <itunes:summary>Today I’d like to go over the five things you need to ask when interviewing a potential listing agent.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>The Inspection Process Is All About Give and Take</title>
+        <link>localhost:4000/the-inspection-process-is-all-about-give-and-take.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Sarita Dua</author>
+        <pubDate>2017-10-09 05:50:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520What%2520to%2520expect%2520from%2520an%2520inspection.mp4</guid>
+        <description>
+
+Today’s topic is one that is near and dear to my heart: inspections. This subject is loaded with expectations. For right now, I’d like to cover it from the buyer’s perspective.
+
+When buyers move forward with purchasing a home, it’s very exciting. Then the inspection comes and the buyer is given a 53-page report detailing everything wrong with the property.
+
+One thing to keep in mind is that inspections have a two-fold purpose. The first objective is to find anything that needs to be repaired in the property. The second objective is to understand the condition of the house and how to operate systems and appliances within it.
+
+The inspector not only finds things that are wrong, they also educate the buyer on the home. After the inspection, the honeymoon period of home buying is pretty much over. When buyers get the inspection report, their rose-colored glasses usually come off and they start to feel nervous about their decision.
+
+“With the right person by your side, inspections don’t need to be scary.”
+
+Once buyers know what’s wrong, they may start thinking about what they can realistically expect the seller to take care of. The level to which a seller might comply with these expectations can really vary.
+
+If a home has been sitting on the market for a while, a seller might be more willing to take care of more items. Ultimately, it’s all about negotiation. Buyers and their agents can ask for repairs, but should know that the seller doesn’t have to agree.
+
+If the seller doesn’t agree to fix something, the buyer may terminate the contract and receive a refund. The important thing is to know that you can’t force the seller’s hand. They may have a backup offer in their pocket. It’s important to weigh your options before pulling out of a deal.
+
+The inspection could scare you, but the right agent is going to be able to tell you what is normal and what isn’t. Agents like myself will also be able to provide you with access to a large network of quality vendors who can help. With the right person by your side, inspections don’t need to be scary.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520What%2520to%2520expect%2520from%2520an%2520inspection.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520What%2520to%2520expect%2520from%2520an%2520inspection.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today’s topic is one that is near and dear to my heart: inspections. This subject is loaded with expectations. For right now, I’d like to cover it from the buyer’s perspective.</itunes:subtitle>
+        <itunes:author>Sarita Dua</itunes:author>
+        <itunes:summary>Today’s topic is one that is near and dear to my heart: inspections. This subject is loaded with expectations. For right now, I’d like to cover it from the buyer’s perspective.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How a Home's 4 L’s Will Tell You Whether It's the Right Fit for You</title>
+        <link>localhost:4000/how-a-homes-4-ls-will-tell-you-whether-its-the-right-fit-for-you.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Sarita Dua</author>
+        <pubDate>2017-10-06 05:06:26 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+What are a home’s four “L’s?”
+
+Before we get to that, I’d like to go over something I often ask my buyers to think about. When I sit down with clients, I like to ask them what their “must-haves” and “would-be-nices” are. Must-haves are non-negotiable items, like the number of bedrooms or bathrooms they want in a home.
+
+Would-be-nices are items like hardwood flooring, or other negotiable features.
+
+This is where the four L’s I mentioned earlier come in. The four L’s of a home are features of a home that can’t be changed, which are:
+
+1. Lot. This constitutes the yard or parcel of the house.
+
+2. Location. This particular point is a very important aspect of real estate.
+
+“Focusing on these four L’s will make the most difference in finding your dream home.”
+
+3. Layout. This refers to the floor plan. You can technically change this, but doing so is very expensive. If you’re spending a ton of money changing a home’s layout, you may as well just buy a different home.
+
+4. Light. I’m not talking about chandeliers or other fixtures, I’m referring to the natural light that is let into the home. For example, a home on a wooded lot is going to tend to be very dark.
+
+Other features like granite countertops, hardwood flooring, or a particular style of cabinets are much more easily changed than these four L’s.
+
+While I will certainly take all of your specifications in mind when looking for your dream home, focusing on these four L’s will make the most difference in choosing the right house.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What are a home’s four “L’s?”</itunes:subtitle>
+        <itunes:author>Sarita Dua</itunes:author>
+        <itunes:summary>What are a home’s four “L’s?”</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>2 Reasons to Get Pre-Approved Before You Look at Homes</title>
+        <link>localhost:4000/2-reasons-to-get-pre-approved-before-you-look-at-homes.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Sarita Dua</author>
+        <pubDate>2017-09-22 06:52:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Get%2520pre-approved%2520before%2520you%2520look%2520at%2520homes.mp4</guid>
+        <description>
+
+Many buyers call me feeling excited to get out there and start looking at homes. However, I do recommend that you talk to a lender first, because it’s important to get pre-approved before you begin your home search.
+
+There are a couple of reasons why.
+
+First of all, getting pre-approved lets you know what your price range is.There’s nothing worse than looking at homes in a higher price range and finding out that you can’t afford them.
+
+It’s like test-driving a Lexus only to be told that your budget will only allow you to buy a Camry. Nothing against the Camry, but it can be difficult to get excited about buying one after you’ve seen what the Lexus can do.
+
+Similarly, it’s hard to look at homes in a higher price range and then adjust your expectations for the price range you can afford. You will be disappointed with the homes in your price range after you’ve seen other ones.
+
+“Getting pre-approved lets you know what price range you should look in.”
+
+On the other hand, you may get pre-approved for a higher-priced home and decide that you would prefer not to spend that much. In other words, you may be able to afford a Lexus but decide to stick with a Camry instead.
+
+No matter what, it’s really important to know your numbers, and the pre-approval will tell you exactly what to expect.
+
+Secondly, getting pre-approved before you start looking at homes makes you more competitive as a buyer. You might find the home you want only to discover that there is an offer deadline. You may also end up competing against multiple offers or cash buyers. The pre-approval letter helps you compete with those buyers. It shows the seller that you have talked to a lender who has verified your income, credit, and assets.
+
+If you do find the house of your dreams, a pre-approval letter allows you to make an offer in a timely fashion.
+
+So, before you start looking at homes, make sure that you talk to a great lender and get pre-approved.
+
+If you have any other questions about getting pre-approved or would like me to put you in touch with one of my trusted lender partners, give me a call or send me an email. I would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Get%2520pre-approved%2520before%2520you%2520look%2520at%2520homes.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Get%2520pre-approved%2520before%2520you%2520look%2520at%2520homes.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Many buyers call me feeling excited to get out there and start looking at homes. However, I do recommend that you talk to a lender first, because it’s important to get pre-approved before you begin your home search.</itunes:subtitle>
+        <itunes:author>Sarita Dua</itunes:author>
+        <itunes:summary>Many buyers call me feeling excited to get out there and start looking at homes. However, I do recommend that you talk to a lender first, because it’s important to get pre-approved before you begin your home search.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Right-Pricing Is Essential</title>
+        <link>localhost:4000/why-right-pricing-is-essential.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Sarita Dua</author>
+        <pubDate>2017-09-06 10:17:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Right-Pricing%2520Is%2520Key.mp4</guid>
+        <description>
+
+A lot of people ask me, “What’s the best pricing strategy? Should I just price the home a little high so we can leave room to negotiate?” That strategy may work in certain markets, but not in this one.
+
+The most important thing when selling your home in this market is setting the right price.To do this, we take a look at other properties that have recently sold and are similar to yours. We compare things like the square footage and home additions/improvements to get the right price.
+
+“Overpriced homes don’t sell.”
+
+If you overprice a home in this market, the listing will simply sit there because people will see better value in other homes that aren’t priced as high. After a while, the home will sit on the market because buyers will start to get a sense that there’s something wrong with it. Even if you reduce the price, the days on market will be a red flag for buyers.
+
+On the other hand, it’s virtually impossible to underprice a home in our market. If you underprice a home, the market will determine that it’s an amazing deal. The market typically responds with multiple offers, sometimes even with bidding wars.
+
+If you have any questions about pricing strategies or anything else related to real estate, give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Right-Pricing%2520Is%2520Key.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Right-Pricing%2520Is%2520Key.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>A lot of people ask me, “What’s the best pricing strategy? Should I just price the home a little high so we can leave room to negotiate?” That strategy may work in certain markets, but not in this one.</itunes:subtitle>
+        <itunes:author>Sarita Dua</itunes:author>
+        <itunes:summary>A lot of people ask me, “What’s the best pricing strategy? Should I just price the home a little high so we can leave room to negotiate?” That strategy may work in certain markets, but not in this one.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why We Don’t Mind Breaking the Deal</title>
+        <link>localhost:4000/why-we-dont-mind-breaking-the-deal.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Sarita Dua</author>
+        <pubDate>2017-08-22 08:37:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland+Real+Estate+Agent-+Break+the+Deal.mp4</guid>
+        <description>
+
+When you work with the AskSarita Team as your buyer’s agent, we work with you and we’re on your side.
+
+This means we protect you and your interests. If we were looking at a house, we would look at everything through the lens of your needs and interests.
+
+If we were looking at a home on a Sunday afternoon on a busy street, it would be a bit quiet. Whereas you might fall in love with the home’s big kitchen or master closet, I would tell you to look at the busy street and the fact that it’s 3 p.m. on a Sunday and advise you to visit that house tomorrow morning at 6 a.m. to make sure the street’s not too busy.
+
+“We’ve got your back.”
+
+If you were to tell me that you love that house and want to write an offer on it, I might remind you that it has power lines in the back or the interior has no dining area.
+
+That latter example is actually based on a true story. I was checking out a beautifully staged house once with some clients who were absolutely in love with it. However, the dining room was located on the opposite side of the house from the kitchen. When I pointed this out, our clients looked at us like we were ruining their party.
+
+That’s what our team is about—we don’t mind breaking the deal. We will find you the right house, whether that means the one we’re currently looking at or the next one. In fact, when we’re under contract during the inspection period, you get to keep looking for houses.
+
+We break the deal because we’ve got your back.
+
+If you have any questions for us or are thinking of buying or selling a home in our Portland market, don’t hesitate to reach out to us. We’d love to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland+Real+Estate+Agent-+Break+the+Deal.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland+Real+Estate+Agent-+Break+the+Deal.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>When you work with the AskSarita Team as your buyer’s agent, we work with you and we’re on your side.  This means we protect you and your interests. If we were looking at a house, we would look at everything through the lens of your needs and interests.</itunes:subtitle>
+        <itunes:author>Sarita Dua</itunes:author>
+        <itunes:summary>When you work with the AskSarita Team as your buyer’s agent, we work with you and we’re on your side.  This means we protect you and your interests. If we were looking at a house, we would look at everything through the lens of your needs and interests.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Deciding Between a Resale Home & New Construction</title>
+        <link>localhost:4000/deciding-between-a-resale-home-new-construction.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Sarita Dua</author>
+        <pubDate>2017-08-07 09:11:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Which%2520housing%2520option%2520is%2520best%2520for%2520you%253F.mp4</guid>
+        <description>
+
+One question I get asked all the time by buyers is, “Should I buy a new construction home or a resale home?”
+
+The answer, of course, depends on a few things. Each type of house has its pros and cons.
+
+With new construction homes, you get a brand-new shiny penny, so to speak. Not only is this option low maintenance because everything is new (new roof, new furnace, etc), but your house’s design features will follow the latest trends in real estate. One of the disadvantages of new construction, though, is you’ll typically have to buy a much smaller lot than what a resale home offers.
+
+“Each option has its pros and cons.”
+
+With resale homes, your home will have older features, mechanicals, and systems. This doesn’t mean these things can’t be updated, though, so you have to be prepared to budget for updating them. You also have to be prepared to budget for the features that make up your home’s overall fashion aesthetic, such as the floors, cabinets, counters, etc.
+
+Again, what’s best for you depends on what your wants and needs are. The good thing about our Portland market is you typically can’t buy new construction with giant lots. If you could, the resale market would probably suffer.
+
+If you have any questions about which option is best for you, don’t hesitate to reach out to me. I’d be happy to help.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Which%2520housing%2520option%2520is%2520best%2520for%2520you%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Which%2520housing%2520option%2520is%2520best%2520for%2520you%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>One question I get asked all the time by buyers is, “Should I buy a new construction home or a resale home?”</itunes:subtitle>
+        <itunes:author>Sarita Dua</itunes:author>
+        <itunes:summary>One question I get asked all the time by buyers is, “Should I buy a new construction home or a resale home?”</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Staging Your Home Gets It Sold Faster</title>
+        <link>localhost:4000/how-staging-your-home-gets-it-sold-faster.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Sarita Dua</author>
+        <pubDate>2017-07-25 08:10:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Why%2520staging%2520your%2520home%2520works.mp4</guid>
+        <description>
+
+Today I wanted to answer a question that I get from a lot of sellers: Does staging really work?
+
+The answer is yes. To illustrate how important staging is, I have three stories. For those of you who aren’t aware, staging is the use of furniture by designers to fit the home and highlight the versatility of the floor plan. It makes the home look particularly desirable.
+
+The first staging success story I’d like to share involves a seller who had their home listed with another agent for $799,000. It had some wonderful features and yet it didn’t sell. The seller canceled the listing with the other agent and came to me. They didn’t want to drop the price, so we decided to stage the vacant home and keep the price the same.
+
+We staged it, and in four days, it sold. Staging worked!
+
+“Staging works!”
+
+The second story is about a listing that was in an area with a wonderful school district and was just a beautiful house. It started at $575,000 with a different agent, went through a series of price reductions until it was at $549,000, and it still didn’t sell.
+
+When the seller came to me, I looked at the home and decided that it needed to be staged. It was a huge vacant home that had a versatile floor plan and just needed to be staged. After staging it, we set the price for $559,000 and three days later, we sold the house for $580,000— $5,000 more than their original asking price.
+
+The third example is happening currently. It’s a great condo in a hot area, and it hasn’t been selling. So we took the time to stage the home and relisted it, and we’ve already had five offers on the property. Staging works.
+
+If you want to sell your home for top dollar and you want to know all about staging, give me a call. If you have any questions about real estate, big or small, ask Sarita. I’m here to help.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Why%2520staging%2520your%2520home%2520works.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Why%2520staging%2520your%2520home%2520works.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today I wanted to answer a question that I get from a lot of sellers: does staging really work?</itunes:subtitle>
+        <itunes:author>Sarita Dua</itunes:author>
+        <itunes:summary>Today I wanted to answer a question that I get from a lot of sellers: does staging really work?</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Taking the Emotions out of Investment Decisions</title>
+        <link>localhost:4000/taking-the-emotions-out-of-investment-decisions.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Sarita Dua</author>
+        <pubDate>2017-07-11 07:19:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520The%2520No.%25201%2520mistake%2520investors%2520make.mp4</guid>
+        <description>
+
+I recently came across this article that talked about the top 10 markets for investors, and Portland was ranked No. 2 on that list. It really got me thinking about what investors are looking for and what are some of the things that we need to think about for investors when they’re buying in Portland.
+
+Our prices have appreciated quite a bit, so it can be a great market if you can buy in as an investor. Investors are quite competitive and are usually cash buyers, but the No. 1 thing that I see that trips up investors the most is that they’re looking at the property like they’re going to live in it. This is especially true for new investors who have made profits elsewhere and have cash to spend or investors coming in from other U.S. markets or overseas.
+
+“Treat this as a business and not as an emotional decision.”
+
+To look at a property like an investment, you have to really look at the numbers. Will you see a good return on investment and cash flow? What do the numbers say? If you’re going to come out in the black, then it makes sense to proceed. If you aren’t, then you just need to pass on the property.
+
+If you’re not looking at the numbers and you’re just looking at the views out the windows or the way the building looks, then you’re not going to fare well. When you’re looking at investment properties, it’s not as personal of a decision. Treat this as a business and not as an emotional decision.
+
+If you have any questions about this or any other topic, please give me a call or shoot me an email. I’d be happy to help!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520The%2520No.%25201%2520mistake%2520investors%2520make.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520The%2520No.%25201%2520mistake%2520investors%2520make.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>I recently came across this article that talked about the top 10 markets for investors, and Portland was ranked No. 2 on that list.</itunes:subtitle>
+        <itunes:author>Sarita Dua</itunes:author>
+        <itunes:summary>I recently came across this article that talked about the top 10 markets for investors, and Portland was ranked No. 2 on that list.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>3 Mistakes That Will Ruin Your Real Estate Transaction</title>
+        <link>localhost:4000/3-mistakes-that-will-ruin-your-real-estate-transaction.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Sarita Dua</author>
+        <pubDate>2017-06-26 08:03:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%25203%2520ways%2520to%2520ruin%2520any%2520real%2520estate%2520transaction.mp4</guid>
+        <description>
+
+I have seen a lot of things happen during real estate transactions, and there are three things that will almost definitely ruin your home sale every time:
+
+1. Don’t quit your job in the middle of escrow. It’s very important that you stay in your current job for loan approval. Even if you are thinking of changing jobs, you don’t want to do it while in the middle of a transaction.
+
+2. Don’t make major purchases. Of course you’re excited and you want to buy that new TV or washer/dryer for your new home, but you should wait. Just wait. Don’t buy a car or major appliance while you’re in escrow. Those purchases will impact your credit score, and you don’t want to jeopardize your credit mid-transaction.
+
+“Be open and honest with your loan officer and your Realtor.”
+
+3. Don’t lie. Be open and honest with your loan officer and your Realtor. We are your trusted partners during this transaction. If anything happens, you need to share it with us. Do not lie under any circumstances. Tell us what is going on. After all, we’re here to help. No matter what you’re going through, we can come up with a plan to get you through this real estate transaction.
+
+If you avoid these three mistakes, then your transaction will be on the path to success.
+
+If you have any other questions about buying or selling a home, just give me a call or send me an email. I would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%25203%2520ways%2520to%2520ruin%2520any%2520real%2520estate%2520transaction.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%25203%2520ways%2520to%2520ruin%2520any%2520real%2520estate%2520transaction.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>I have seen a lot of things happen during real estate transactions, and there are three things that will almost definitely ruin your home sale every time:</itunes:subtitle>
+        <itunes:author>Sarita Dua</itunes:author>
+        <itunes:summary>I have seen a lot of things happen during real estate transactions, and there are three things that will almost definitely ruin your home sale every time:</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Is It Cheaper to Buy a Home Than Rent in Our Portland Market?</title>
+        <link>localhost:4000/why-is-it-cheaper-to-buy-a-home-than-rent-in-our-portland-market.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Sarita Dua</author>
+        <pubDate>2017-06-12 10:33:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Purchasing%2520vs.%2520renting%2520in%2520our%2520market.mp4</guid>
+        <description>
+
+Many potential first-time homebuyers don’t realize it, but it can be much cheaper to buy a home than continue renting.
+
+According to Keeping Current Matters, now more than ever, it is much cheaper to buy a home than to rent. The percentage of income needed to afford a median home is 15.3%, while the percentage of income needed to afford a median rent is 30.1%.
+
+The reason for this disparity—especially in our Portland market—is that rents are at an all-time high. Although it’s expensive to buy as well, interest rates are still at historic lows, so if you can get a down payment together, you’ll still be buying at an extremely low rate. You’ll also have an equity position. When you think about it, if you’re going to pay a mortgage, you might as well pay yours—not your landlord’s.
+
+“If you’re going to pay a mortgage, you might as well pay yours—not your landlord’s.”
+
+There are many other statistics that justify buying a home instead of renting. The historical average of home appreciation is 4%, so if you stay in your home for a period of—say—10 years, you’ll add considerable value to it. Even if no appreciation happens after 10 years and you haven’t added any value, you were still able to live rent-free for 10 years.
+
+Homeownership comes with certain tax benefits as well. For example, you can write off all of that mortgage interest that you’ve paid every year for 10 years. Be sure to talk to a financial professional as well as a CPA for more information on these kinds of benefits.
+
+Obviously, I’m biased when it comes to this decision, but it behooves you to look at what our market has done over the last 10 years in terms of appreciation when deciding whether to buy or rent. Buying certainly beats taking $800, $1000, or even $1,200 every month and lighting a match to it.
+
+If you have any questions or are interested in making the leap to homeownership, don’t hesitate to reach out to me. I’d be happy to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Purchasing%2520vs.%2520renting%2520in%2520our%2520market.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Purchasing%2520vs.%2520renting%2520in%2520our%2520market.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Many potential first-time homebuyers don’t realize it, but it can be much cheaper to buy a home than continue renting.</itunes:subtitle>
+        <itunes:author>Sarita Dua</itunes:author>
+        <itunes:summary>Many potential first-time homebuyers don’t realize it, but it can be much cheaper to buy a home than continue renting.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>When Is the Best Time to Sell Your Home?</title>
+        <link>localhost:4000/when-is-the-best-time-to-sell-your-home.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Sarita Dua</author>
+        <pubDate>2017-05-26 06:36:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Timing%2520the%2520real%2520estate%2520market.mp4</guid>
+        <description>
+
+I was just talking to a seller the other day who said, “I was thinking about timing. I want to sell my home this summer; can I be on the market in a couple of weeks or should I wait until the end of next month?” 
+
+In short, when is the best time to sell your home? 
+
+In a market with low inventory like ours, the best time to sell is actually right now. Technically, the best time to sell your home was yesterday.
+
+In a low inventory market, you don’t have as much competition. In fact, your neighbor can put their house on the market, price their house wrong, and kind of mess things up for your sale if you wait too long.
+
+There is no reason to wait at all if you are ready to go. 
+
+“There is absolutely no reason to wait to sell your home.”
+
+If you want to get your house on the market as quickly as possible, you are not alone. Everyone wants to get their home on the market, so we may see an influx of other properties coming on the market as time goes on. Low inventory situations like ours can change very quickly. 
+
+So, the best time to sell in a low inventory market is right now. Don’t wait. If you have any questions about getting your house on the market, just give me a call or send me an email. I would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Timing%2520the%2520real%2520estate%2520market.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/Portland%2520Real%2520Estate%2520Agent-%2520Timing%2520the%2520real%2520estate%2520market.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>I was just talking to a seller the other day who said, “I was thinking about timing. I want to sell my home this summer; can I be on the market in a couple of weeks or should I wait until the end of next month?”</itunes:subtitle>
+        <itunes:author>Sarita Dua</itunes:author>
+        <itunes:summary>I was just talking to a seller the other day who said, “I was thinking about timing. I want to sell my home this summer; can I be on the market in a couple of weeks or should I wait until the end of next month?”</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
       <item>
         <title>How Low Inventory Is Affecting Buyers and Sellers </title>
         <link>localhost:4000/how-low-inventory-is-affecting-buyers.html</link>
