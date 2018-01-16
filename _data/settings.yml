@@ -31,12 +31,15 @@ client:
   phone2_type:
   email: RosadoRealtor@gmail.com
   url: 'http://www.stevenrosado.kw.com'
+
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808215';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://rosadohomevalue.com'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://stevenrosado.kw.com/listings-search/#/398466887'
-  VR_form: 'http://oi.vresp.com?fid=cc35f01cac'
+
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: What’s Your -- MARKET -- Home Worth?
