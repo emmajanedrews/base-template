@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Absolute Perfection: A Story of Growth in Business'
-date: 2018-01-15 10:56:51
+date: 2018-01-15 10:56:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/OY69arAVcLY'
+youtube_code: jBgooWmpFEU
 ---
 
 
