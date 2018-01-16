@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Changes in the St. Charles Market You Should Know
-date: 2018-01-15 11:54:27
+title: Changes in the St. Charles Market You Should Know About
+date: 2018-01-15 11:54:00
 tags:
   - Market Update
 excerpt: >-
