@@ -22,7 +22,7 @@ youtube_code: aDgIvAJeDYg
 
 {% include youtube.html %}
 
-Welcome to another episode of *“What’s Working Now!”*
+Welcome to another episode of *What’s Working Now!*
 
 Today, I want to look back on what happened in the 2017 real estate market and talk about what to expect in 2018.
 
@@ -40,15 +40,15 @@ What does all of this mean for 2018?
 
 **It’s all about supply and demand, so here’s what I see happening.**
 
-Record low inventory combined with continuing low interest rates and increasing demand means more competition among buyers, frequently resulting in multiple contracts above list price and a seller’s market.
+Record-low inventory combined with continuing low interest rates and increasing demand means more competition among buyers, frequently resulting in multiple contracts above list price and a seller’s market.
 
 If you are thinking of selling in 2018, there is no need to wait until the azaleas are in bloom. The market is hot right now and inventory is low, which means there is almost no competition.
 
-Find an agent who will take advantage of current market conditions to make it easy for you to get top dollar fast.
+Find an agent who will take advantage of current market conditions to make it easy for you to get top dollar, fast.
 
 If you’re a buyer, hire an agent who knows how to uncover hidden gems and win the negotiation for your next home.
 
-Thank you for watching *“What’s Working Now!”* If you are thinking of selling your home in 2018, I have something for you: my new book, “Selling Secrets You Can’t Afford to Miss.” To get your free copy, visit [DCHomeblog.com/FreeBook](http://dchomeblog.com/freebook).
+Thank you for watching *What’s Working Now!&nbsp;*If you are thinking of selling your home in 2018, I have something for you: my new book, “Selling Secrets You Can’t Afford to Miss.” To get your free copy, visit [DCHomeblog.com/FreeBook](http://dchomeblog.com/freebook).
 
 Stay tuned for our next video, where I’ll talk to an expert about how the new tax law may affect you and the real estate market.
 
