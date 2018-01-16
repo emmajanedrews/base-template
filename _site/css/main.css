@@ -2754,3 +2754,62 @@ form select {
 .testimonial-author {
   color: #b40101;
   margin-top: -20px; }
+
+.recruiting {
+  text-align: center; }
+
+#recruit {
+  width: 75%;
+  margin-left: 13%;
+  margin-top: 2rem;
+  font-size: 18px; }
+
+.recruiting-photo {
+  float: right;
+  margin: 20px; }
+
+#page-bkg {
+  height: 430px; }
+
+.caption {
+  font-size: 16px;
+  font-style: oblique;
+  text-align: center;
+  margin-bottom: 20px; }
+
+.letterhead {
+  text-align: center;
+  margin-top: 2rem; }
+
+#letterhead {
+  font-family: "Source Sans Pro", helvetica, arial, sans-serif;
+  font-weight: 400;
+  margin: 2rem 0;
+  font-size: 2.5rem;
+  text-transform: uppercase; }
+
+#letterhead-title {
+  font-family: "Source Sans Pro", helvetica, arial, sans-serif;
+  font-weight: 600;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-size: 3.5rem; }
+
+#letterhead-subtitle {
+  margin-bottom: 0;
+  margin-top: 1.5rem; }
+
+.recruiting-page {
+  Font-size: 18px; }
+
+.page-logo {
+  width: 90%;
+  max-width: 40rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  -webkit-filter: drop-shadow(0px 2px 7px rgba(238, 238, 238, 0.5));
+  filter: drop-shadow(0px 2px 7px rgba(238, 238, 238, 0.5)); }
+
+.page-hero-img {
+  background-position: center;
+  background-size: cover; }
