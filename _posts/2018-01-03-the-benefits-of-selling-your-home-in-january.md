@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Should you put your home on the market in January? Contrary to popular belief,
   you may benefit from listing your home this time of year.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Mindy+Robbins/Videos/jan+18/Dallas+-+Fort+Worth+Real+Estate+Agent-+Should+You+List+Your+Home+This+January%253F.mp4
 pullquote: January is a great time to sell your home.
 enclosure_type: video/mp4
 enclosure_time:
