@@ -5,7 +5,8 @@ date: 2018-01-02 15:02:00
 tags:
   - Real Estate
 excerpt: What are some of the bonuses and pitfalls of a new construction home?
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/Jan+18/Mississippi+Gulf+Coast+Real+Estate+Agent-+The+Real+Pros+and+Cons+of+New+Construction.mp4
 pullquote: Everything is new and it’s all yours.
 enclosure_type: video/mp4
 enclosure_time:
