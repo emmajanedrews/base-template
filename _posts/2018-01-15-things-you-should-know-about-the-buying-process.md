@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/buyer-questions-youtube.jpg
-youtube_code: QFjJNuWAlX8
+youtube_code: Nd5VFw5jxHQ
 ---
 
 
