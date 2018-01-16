@@ -22,9 +22,9 @@ youtube_code: AUDahqYMfes
 
 {% include youtube.html %}
 
-Here are six tips you need to remember when buying a home with a pet:
+Here are six tips you need to remember if you own a pet while buying a home:
 
-**1. Be aware of the local pet laws in the area.**Even if you own a piece of property, it’s not guaranteed that your pet will be welcome there. Depending on the number and the breed, there can be restrictions with an HOA, a condo development, or even the city or state at large. Some HOAs or condo developments restrict the number or the type of pets you can have. They might also spell out how your pet must be restrained in common areas.
+**1. Be aware of the local pet laws in the area.&nbsp;**Even if you own a piece of property, it’s not guaranteed that your pet will be welcome there. Depending on the number and the breed, there can be restrictions with an HOA, a condo development, or even the city or state at large. Some HOAs or condo developments restrict the number or the type of pets you can have. They might also spell out how your pet must be restrained in common areas.
 
 In condo developments, there is often a limit on the number of dogs allowed per unit or floor. It’s important not to assume that dogs are allowed just because you saw one during your home tour. Sometimes, they’re only allowed on the first floor. If you have a breed that tends to bark a lot, find out if your HOA or city enforces any noise ordinances.
 
@@ -38,7 +38,7 @@ In condo developments, there is often a limit on the number of dogs allowed per 
 
 If you’re putting in new floors anyway, consider reclaimed or distressed wood so the scratches add more character. If you don’t like those options, you can use poured concrete, tile, luxury vinyl, and even laminate.
 
-**5. Make sure the house has a pet-friendly floor plan.**Consider the size and layout of the home if you have a large dog or several dogs or cats. You’ll be pretty sick of your house in a very short time if you’re always tripping over your animals. Is the space big enough for your breed of dog? Is there enough for a cozy dog bed or cat tree? These are questions you need to ask yourself, because if you’re downsizing, you need to take into account how a tighter space will stress you and your pet out.
+**5. Make sure the house has a pet-friendly floor plan.&nbsp;**Consider the size and layout of the home based on the size and number of pets you own. You’ll be pretty sick of your house in a very short time if you’re always tripping over your animals. Is the space big enough for your breed of dog? Is there enough for a cozy dog bed or cat tree? These are questions you need to ask yourself, because if you’re downsizing, you need to take into account how a tighter space will stress you and your pet out.
 
 **6. Ask yourself if your pet can handle the stairs.** If you’re looking for a multi-level home, consider whether your animals will be okay with all of those stairs. As animals get older, they get joint problems that make it difficult for them to handle stairs—just like their owners. If you do choose a multi-level home, look for a place that has a carpet runner on the stairs or be ready to install one. It’s actually the No. 1 requested item for people with animals.
 
