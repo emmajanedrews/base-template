@@ -21,11 +21,11 @@ youtube_code: zXgNHViI90M
 
 {% include youtube.html %}
 
-{% include pullquote.html %}
-
 I believe 2018 is going to be a great year for real estate. However, **if you’re thinking of trying to buy or sell a home without the assistance of a real estate agent, you might want to think again.**
 
 For homebuyers, purchasing a home without an agent is not advisable. Especially for new construction homes. We had two folks last year who bought new construction homes without an agent in the past and it ended up biting them when it came time to sell. One couple thought they were getting a deal at $350,000, but it turns out they shouldn’t have paid a cent over $315,000. They ended up selling the home for less than they bought it for because the builder pulled one over on then.
+
+{% include pullquote.html %}
 
 **If you’re planning on buying a new construction property or you’re even entertaining the idea, let us know and we’d be glad to provide you with the knowledge and experience necessary to get a fair price on your new home.**
 
