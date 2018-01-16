@@ -1455,8 +1455,7 @@ html[xmlns] .flexslider .slides {
   padding-top: 20px;
   padding-bottom: 33px;
   font-size: 20px;
-  text-transform: uppercase;
-  max-width: 65%; }
+  text-transform: uppercase; }
 
 .navbar-nav > li {
   margin-right: 10px;
@@ -1483,7 +1482,7 @@ html[xmlns] .flexslider .slides {
     color: #000000; }
 
 .fa-bars {
-  color: #000000; }
+  color: #f78230; }
 
 .phone, .fa-phone {
   color: #fff; }

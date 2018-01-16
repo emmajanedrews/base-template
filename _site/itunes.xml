@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Abode Base Real Estate - your professional Puget Sound Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Gavin Shnieder</managingEditor>
-    <lastBuildDate>2017-12-14 11:42:21 -0600</lastBuildDate>
+    <lastBuildDate>2018-01-16 16:06:42 -0600</lastBuildDate>
     <media:copyright>Gavin Shnieder</media:copyright>
     <media:thumbnail url="http://www.abodebase.blog/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Puget Sound, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -24,6 +24,57 @@
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Abode Base Real Estate - your professional Puget Sound Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>Debunking Rumors About the New Tax Structure</title>
+        <link>http://www.abodebase.blog/debunking-rumors-about-the-new-tax-structure.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Gavin Shnieder</author>
+        <pubDate>2018-01-12 07:15:58 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Gavin+Shnieder/2018/Puget+Sound+Real+Estate+Agent-+How+does+the+new+tax+structure+effect+Real+Estate.mp4</guid>
+        <description>
+
+Today, I’d like to dispel some of the misinformation that has been spreading in regards to how the new tax structure will impact our real estate market. 
+
+First of all, the mortgage interest deduction was not eliminated as many predicted. Some changes were made, however. Specifically, the new limit on the amount of deductible mortgage debt is $750,000. This limit was previously $1 million. The new limit will pertain to all loans taken out after December 14, 2017. 
+
+It is also important to note that homeowners can still refinance their debts, so long as the mortgage was originated before that date. 
+
+Moving forward, though, deductions will need to remain at or below the $750,000 cap. The real impact here will be on those who are buying homes between the prices of $940,000 and $1.2 million. You will now be unable to deduct mortgage interest between those two amounts.
+
+“Given these changes, the vast majority of people will no longer itemize their taxes.”
+
+However, this only pertains to you if you itemize your deductions. 
+
+The new tax structure does repeal the deduction on interest paid on home equity debt, unless the equity debt was to improve the residence. Equity taken out to use toward another purpose, like buying a boat or car, won’t be deductible. 
+
+What about state and local tax deductions? Despite rumors, state and local tax deductions, otherwise known as SALT deductions, have not been eliminated. They have, however, been capped at $10,000 for itemized deductions. 
+
+SALT deductions include your property taxes, so this change will primarily affect people who live in areas with high property tax or states with income taxes. 
+
+There has also recently been a lot of misinformation about the exclusion of gains on the sale of primary residences. There was concern that this would be changed to require homeowners to live in their primary residence for five of the last eight years, but this change did not occur.
+
+You are still only required to live in your primary residence for two of the last five years in order to take the capital gains exclusion. This exclusion is up to $250,000 for single people and up to $500,000 for married couples. In other words, this pertains to the amount you can take away tax-free from the sale of that residence.
+
+Overall, the final version of the tax plan nearly doubles the standard deduction for single and married folks, with the standard deduction being $24,000 for those who file as married and $12,000 for those who file as single. Given these changes, the vast majority of people will no longer itemize their taxes. 
+
+It’s highly improbable that the average family in our area with a $300,000 house is going to need to itemize deductions. 
+
+Ultimately, this tax structure meets long-standing demands of many Americans. The net effect of these changes will be positive.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Gavin+Shnieder/2018/Puget+Sound+Real+Estate+Agent-+How+does+the+new+tax+structure+effect+Real+Estate.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://www.abodebase.blog" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Gavin+Shnieder/2018/Puget+Sound+Real+Estate+Agent-+How+does+the+new+tax+structure+effect+Real+Estate.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>A lot of misinformation has been spread recently about the new tax structure. So, how will these changes actually impact the market?</itunes:subtitle>
+        <itunes:author>Gavin Shnieder</itunes:author>
+        <itunes:summary>A lot of misinformation has been spread recently about the new tax structure. So, how will these changes actually impact the market?</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Puget Sound, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
     <copyright>Gavin Shnieder</copyright>
     <media:credit role="author">Gavin Shnieder</media:credit>
     <media:rating>nonadult</media:rating>

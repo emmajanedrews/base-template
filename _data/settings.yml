@@ -33,12 +33,15 @@ client:
   phone2_type:
   email: Gavin@AbodeBase.com
   url: 'http://AbodeBase.com'
+
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1809076';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://gavin.abodebase.com/sell.php'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://www.abodebase.com/index.php?rtype=grid#rslt'
-  VR_form: 'http://oi.vresp.com?fid=7f06479c26'
+
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/002.jpg
     CTA_title: What’s Your -- MARKET -- Home Worth?
