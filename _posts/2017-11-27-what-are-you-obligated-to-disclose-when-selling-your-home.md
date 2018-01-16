@@ -28,7 +28,7 @@ People often seem confused about disclosures in the marketplace, but there is a 
 
 Basically, you will confirm whether or not everything is in working order, and whether or not certain items exist on the property.
 
-For example, if you have a swimming pool, you will have to say whether or not it’s in working order. If you don’t have a pool, all you have to do is say you don’t have one. The same is true for natural gas supply. Does natural gas come through the property, or is it a totally electric home? Is there an underground storage tank?
+For example, if you have a swimming pool, you will have to say whether or not it’s in working order. If you don’t have a pool, all you have to do is say you don’t have one. The same is true for natural gas supply. Does natural gas come to the property, or is it a total electric home? Is there an underground storage tank?
 
 There are a number of things on the disclosure list, but it’s not left up to your imagination. It’s a defined list that the state requires all sellers of residential properties to fill out.<br><br>**Additionally, if your home was built before 1978, you will have to fill out another disclosure.** The lead-based paint disclosure is required by HUD, by the state, and by the EPA. This form is very simple to fill out. You either have lead-based paint and you know it, or you’re unaware of any lead-based paint in the home.
 
@@ -36,7 +36,7 @@ There are a number of things on the disclosure list, but it’s not left up to y
 
 If your home has never been tested for lead-based paint, then you have no records to disclose.
 
-The seller, the buyer, and the Realtor must all sign the lead-based paint disclosure.
+The seller, the buyer, and the Realtors must all sign the lead-based paint disclosure.
 
 As a qualified real estate professional, I like to go over the forms with the seller as they fill them out. Sometimes, I’ll ask a question and the seller will look uncertain, so I’ll do more research on that.
 
