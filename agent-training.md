@@ -14,8 +14,8 @@ Register now &amp; don't miss our next class!!
 <iframe allowfullscreen="" frameborder="0" height="300" src="https://marketinganimals.infusionsoft.com/app/form/58e996827b0f3e9309e2cedf1234a1ec?iFrame=true&amp;referrer=http%3A//agentmastermind.com/wadebetz/" width="502"></iframe>
 
 <br />
+
 For the current replay password email <a href="mailto:TheBetzTeam@gmc-inc.com?subject=Replay%20Password">TheBetzTeam@gmc-inc.com</a> with “Replay Password” in the subject line.<br />
-<iframe allowfullscreen="" frameborder="0" height="440" src="http://agentmastermind.com/replay/" width="100%"></iframe>
 
 ![](https://s3.amazonaws.com/vyralmarketing/Wade+Betz/TheCore2.png){: .image-size}
 
