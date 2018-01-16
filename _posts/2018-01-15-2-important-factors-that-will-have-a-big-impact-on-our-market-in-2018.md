@@ -28,7 +28,7 @@ For example, if you’re looking at a house worth $200,000 in January, that same
 
 {% include pullquote.html %}
 
-**The second variable that will affect buyers, especially as prices increase, is interest rates.** For every 1% increase in interest rates, the mortgage payment for that same $200,000 house I mentioned in the beginning goes up $119. For the $400,000 house, it would increase $238. For the $600,000, it would increase $357.
+**The second variable that will affect buyers, especially as prices increase, is interest rates.** For every 1% increase in interest rates, the mortgage payment for that same $200,000 house I mentioned earlier rises by $119. For the $400,000 house, it would increase $238. For the $600,000, it would increase $357.
 
 On that note, let’s talk a little more about interest rates. As our economy heats up, the government becomes fearful of inflation. To check inflation, they raise interest rates to slow the economy down. Basically, they make us pay more for our money so we spend less money. With the strength we’re seeing in our economy, our stock market, and the housing market, I think it’s a safe assumption we’ll have some upward pressure on interest rates.
 
