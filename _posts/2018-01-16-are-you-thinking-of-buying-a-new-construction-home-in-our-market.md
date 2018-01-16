@@ -23,7 +23,7 @@ youtube_code: kQjOW5vTxZg
 
 If you haven’t noticed, new construction homes are being built all around our city in all prices ranges. What does this mean for buyers in our market?
 
-To me, this is super exciting. If you’re a first-time homebuyer,** it means you can buy a brand-new home and still keep your mortgage payment around $1,100 to $1,200 per month.** In most cases, that’s less expensive than what you pay in rent.
+To me, this is super exciting. If you’re a first-time homebuyer, **it means you can buy a brand-new home and still keep your mortgage payment around $1,100 to $1,200 per month.** In most cases, that’s less expensive than what you pay in rent.
 
 If you’re looking to move up into the luxury home market, I can tell you from experience that you can look forward to a super fun process. When we work with move-up buyers, we typically start by finding the community you want to live in or the building lot that makes the most sense for you. We then sit down with the builder (or in some cases, the architect) and get your thoughts on what amenities you want in your home. After that, we design the floor plan you’re looking for in your new home.
 
