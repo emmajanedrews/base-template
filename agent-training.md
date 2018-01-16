@@ -3,13 +3,13 @@ layout: default
 ---
 
 
-![](https://s3.amazonaws.com/vyralmarketing/Wade+Betz/TheCore2.png){: .image-size}
-
 ### Real Estate Agent Webinars
 
 The CORE Training is a mortgage and real estate coaching company that provides mentoring and coaching to mortgage lenders and real estate agents from all over the country. The CORE helps real estate agents and mortgage lenders accumulate wealth, net more income, and run more efficient teams and business. If you are serious about building a great real estate business, then check out the training videos and resource folders below.
 
 <br>If you need help implementing any of this or would like to discuss how we can work together to generate more referrals, please book an appointment directly on my calendar by clicking here. Thanks again!
+
+
 
 **Prospecting to Profits: Warm & Cold Calls made Easy, January 2018** — [Video](http://prospectingtoprofits.pagedemo.co/) — [Resources](https://www.dropbox.com/sh/jawh3ts46yi9xbw/AAD27BTKHZjBIg5KjCN9xM2Na?dl=0)
 
