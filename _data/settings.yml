@@ -44,12 +44,15 @@ client:
   phone2_type:
   email: becky@beckyivins.com
   url: http://www.beckyivins.com/
+
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808998';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://www.beckyivins.com/home-valuation/'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://www.beckyivinsteam.com/search/criteria/gp_1/s_2'
-  VR_form: 'http://oi.vresp.com?fid=fdba8bab18'
+
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: What’s Your -- MARKET -- Home Worth?
