@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Providing Value
-date:
+date: 2018-01-16 12:09:04
 tags:
+  - Bringing Value to Clients
 excerpt:
 enclosure:
 pullquote:
@@ -15,5 +16,3 @@ youtube_code: vJFi_UOyL0E
 
 
 {% include youtube.html %}
-
-&nbsp;
