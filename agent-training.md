@@ -15,7 +15,7 @@ The CORE Training is a mortgage and real estate coaching company that provides m
 
 <iframe width="905" height="470" src="https://www.youtube.com/embed/bKZXiuz628g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
-&nbsp;
+### Previous Webinars:
 
 **Systems to Ensure a Strong First Quarter in 2018, December 2017** — [Video](https://www.youtube.com/watch?v=-5F4moNvyfk&amp;feature=youtu.be) — [Resources](https://www.dropbox.com/sh/owtbnkctwl6aw0m/AAARvirtZivCfmkTAekkOqLta?dl=0)
 
