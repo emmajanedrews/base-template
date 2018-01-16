@@ -3,20 +3,6 @@ layout: default
 ---
 
 
-![agent mastermind](https://s3.amazonaws.com/vyralmarketing/Wade+Betz/amm-logo-new.jpg)
-
-&nbsp;
-
-### LIVE Real Estate Mastermind Strategy Class!
-
-**Tuesdays at 11:00 AM - 12:00 PM CST**<br>You have an awesome opportunity to learn strategies that will help you take your business to the next level!! Join us on Tuesdays for strategy class with Scott. He shares the latest marketing strategies & interviews top agents around the country, sharing tips that will dramatically impact your business!<br>Register now & don't miss our next class!!
-
-<iframe allowfullscreen="" frameborder="0" height="300" src="https://marketinganimals.infusionsoft.com/app/form/58e996827b0f3e9309e2cedf1234a1ec?iFrame=true&amp;referrer=http%3A//agentmastermind.com/wadebetz/" width="502"></iframe>
-
-&nbsp;
-
-To catch the latest replay, email [TheBetzTeam@gmc-inc.com](mailto:TheBetzTeam@gmc-inc.com?subject=Replay%20Password) with “Agent Mastermind Replay” in the subject line.
-
 ![](https://s3.amazonaws.com/vyralmarketing/Wade+Betz/TheCore2.png){: .image-size}
 
 ### Real Estate Agent Webinars
@@ -52,3 +38,17 @@ The CORE Training is a mortgage and real estate coaching company that provides m
 **Scripts to Blow Up Your Leads, January 2017&nbsp;** — [Video](https://youtu.be/WBHB9Ly8Ud4) — [Resources](https://www.dropbox.com/sh/7taegm8uucis4rw/AADsQDiYKg_KvKfmts4u6PYZa?dl=0)
 
 ##### 2016 CORE Webinars - [Click Here](/2016CoreTraining.html)
+
+![agent mastermind](https://s3.amazonaws.com/vyralmarketing/Wade+Betz/amm-logo-new.jpg)
+
+&nbsp;
+
+### LIVE Real Estate Mastermind Strategy Class!
+
+**Tuesdays at 11:00 AM - 12:00 PM CST**<br>You have an awesome opportunity to learn strategies that will help you take your business to the next level!! Join us on Tuesdays for strategy class with Scott. He shares the latest marketing strategies & interviews top agents around the country, sharing tips that will dramatically impact your business!<br>Register now & don't miss our next class!!
+
+<iframe allowfullscreen="" frameborder="0" height="300" src="https://marketinganimals.infusionsoft.com/app/form/58e996827b0f3e9309e2cedf1234a1ec?iFrame=true&amp;referrer=http%3A//agentmastermind.com/wadebetz/" width="502"></iframe>
+
+&nbsp;
+
+To catch the latest replay, email [TheBetzTeam@gmc-inc.com](mailto:TheBetzTeam@gmc-inc.com?subject=Replay%20Password) with “Agent Mastermind Replay” in the subject line.
