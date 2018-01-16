@@ -17,7 +17,7 @@ youtube_code: 'https://www.youtube.com/watch?v=ef9jjcQKcxE'
 
 {% include youtube.html %}
 
-<p alighn="center">*What’s happening in the waterfront market? Here are the latest numbers.*</p>
+*What’s happening in the waterfront market? Here are the latest numbers.*
 
 Today I’d like to share a recap of all the different waterfront real estate markets in 2017. We’ll start with Flathead Lake and go down the line all the way to McGregor.
 
