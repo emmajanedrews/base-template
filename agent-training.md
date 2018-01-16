@@ -15,7 +15,7 @@ Register now &amp; don't miss our next class!!
 
 <br />
 
-For the current replay password email <a href="mailto:TheBetzTeam@gmc-inc.com?subject=Replay%20Password">TheBetzTeam@gmc-inc.com</a> with “Replay Password” in the subject line.<br />
+To catch the latest replay, email <a href="mailto:TheBetzTeam@gmc-inc.com?subject=Replay%20Password">TheBetzTeam@gmc-inc.com</a> with “Agent Mastermind Replay” in the subject line.<br />
 
 ![](https://s3.amazonaws.com/vyralmarketing/Wade+Betz/TheCore2.png){: .image-size}
 
