@@ -9,9 +9,9 @@ The CORE Training is a mortgage and real estate coaching company that provides m
 
 <br>If you need help implementing any of this or would like to discuss how we can work together to generate more referrals, please book an appointment directly on my calendar by clicking here. Thanks again!
 
-**Prospecting to Profits: Warm & Cold Calls made Easy, January 2018** — [Video](http://prospectingtoprofits.pagedemo.co/) — [Resources](https://www.dropbox.com/sh/jawh3ts46yi9xbw/AAD27BTKHZjBIg5KjCN9xM2Na?dl=0)
+**Prospecting to Profits: Warm & Cold Calls made Easy, January 2018** — [Video](http://prospectingtoprofits.pagedemo.co/) — [Resources](https://www.dropbox.com/sh/jawh3ts46yi9xbw/AAD27BTKHZjBIg5KjCN9xM2Na?dl=0)<br/>
 
-<br><iframe width="905" height="470" src="https://www.youtube.com/embed/bKZXiuz628g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="905" height="470" src="https://www.youtube.com/embed/bKZXiuz628g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <br/>
 
