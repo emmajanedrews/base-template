@@ -37,12 +37,15 @@ client:
   phone2_type:
   email: inquiries@btgrealestate.com
   url: btgrealestate.com
+
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808197';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'https://kevin.btgarizonaproperties.com/home-valuation/'
   second_CTA_text: Home Search
   second_CTA_URL: 'https://kevin.btgarizonaproperties.com'
-  VR_form: 'http://oi.vresp.com?fid=f217b02ad7'
+
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: What’s Your -- MARKET -- Home Worth?
