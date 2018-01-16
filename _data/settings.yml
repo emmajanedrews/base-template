@@ -23,13 +23,14 @@ client:
   email: michael@WendySellsFlorida.com
   url: http://www.wendysellsflorida.com
 
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808204';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: http://www.wendysellsflorida.com/cma/property-valuation/
   second_CTA_text: Home Search
   second_CTA_URL: http://www.wendysellsflorida.com/buying/
   phone_CTA: true
-  VR_form: http://oi.vresp.com?fid=5abee091d5
 
 sidebar_CTA:
   CTA_image_path: /img/cta-side.jpg
