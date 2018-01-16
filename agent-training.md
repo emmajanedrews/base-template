@@ -51,4 +51,4 @@ The CORE Training is a mortgage and real estate coaching company that provides m
 
 **Scripts to Blow Up Your Leads, January 2017&nbsp;** — [Video](https://youtu.be/WBHB9Ly8Ud4) — [Resources](https://www.dropbox.com/sh/7taegm8uucis4rw/AADsQDiYKg_KvKfmts4u6PYZa?dl=0)
 
-### 2016 CORE Webinars - [Click Here](/2016CoreTraining.html)
+##### 2016 CORE Webinars - [Click Here](/2016CoreTraining.html)
