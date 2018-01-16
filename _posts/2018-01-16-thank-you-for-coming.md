@@ -16,7 +16,7 @@ enclosure_type: G04p4rulE
 enclosure_time: '10:39 am'
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: kodSwXkDcxE
+youtube_code:
 ---
 
 
