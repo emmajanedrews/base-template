@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Looking to Expand Your Small Business in Buda?
-date: 2018-01-16 11:37:13
+date: 2018-01-16 11:37:00
 tags:
   - Real Estate
 excerpt: >-
   Today I’m coming from Little Bluebird in historic downtown Buda. They have an
   exciting opportunity for small business owners.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Karlyn+Ellis/January+2018/Buda%252C+Texas+Real+Estate-+An+Opportunity+for+Local+Entrepreneurs.mp4
 pullquote: >-
   If you have a successful online business and want to bring it into a physical
   space, this is a great chance for you to get that started.
