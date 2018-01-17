@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Few Tips to Get Your Home Sold This Fall/Winter
-date:
+date: 2018-01-17 13:07:28
 tags:
 excerpt: >-
   Today I want to share some of the top tips for selling your home in the fall
