@@ -1,5 +1,25 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
-    audio:
+  - quote: When I decided to sell my St. George town home I looked online for a Realtor. I found Jeremy Larkin's website and decided to use him. Jeremy is very organized and there was a lot of communication and feedback. He was able to sell my townhouse in a week and a half. Jeremy really did a great job! It was a very fast, easy transaction. Hire him!
+    name: Karen Bartlet
+    audio: /uploads/audio/karen.mp3
+
+  - quote: We had a Realtor before we started working with Jeremy Larkin and they didn’t make any effort whatsoever. With Jeremy, I was incredibly impressed with the amount of time and effort he put into advertising my home. He is so knowledgeable about what he is talking about so I never felt like I was being misled. He really knows his stuff! He utilized everything he had from print, web, ads, and presenting it to brokers, which was above and beyond of what we knew before. Jeremy is a go-getter, he is nonstop, and he doesn’t just list it and wait for it to sell. He is interactive and he really pushes the sale. I would highly recommend him to anyone!
+    name: Amy Erickson
+    audio: /uploads/audio/amy.mp3
+
+  - quote: I was on the market to sell and I was just really impressed with Jeremy’s whole set up with the way that he showed that the property would be coming on the market. Evidently there was a guy who was already to go the minute we put it on the market and I really liked that. The fact that we didn’t have it on the market yet, but we showed that it was coming soon made it possible to have a buyer right away. We both knew the direction we were going in and that made me feel more at ease. He was on top of everything and he always kept me informed. I’ve never had another Realtor do what he has done for me. He sat with me and went through the way the whole operation would work. I really appreciated all the time that he spent with me. Jeremy was exceptional and he exceeded all of my expectations. He is so knowledgeable and he is one of the top Realtors in our area. He’s so easy to work with and I don’t think anyone would be disappointed with how he runs his operations.
+    name: Diana Theodore
+    audio: /uploads/audio/diana.mp3
+
+  # - quote:
+  #   name:
+  #   audio: /uploads/audio/.mp3
+  #
+  # - quote:
+  #   name:
+  #   audio: /uploads/audio/.mp3
+  #
+  # - quote:
+  #   name:
+  #   audio: /uploads/audio/.mp3

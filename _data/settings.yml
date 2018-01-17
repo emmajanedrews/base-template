@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: St. George Real Estate Video Blog with Jeremy Larkin
 description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -9,40 +9,44 @@ custom_links:
 emma_form:
 
 client:
-  name:
+  name: Jeremy Larkin
   license_number:
   about_markdown: |
+    The Larkin Group is a (dangerously) local Full-Service Real Estate Team located in St. George, Utah, serving Santa Clara, Ivins, Washington City, The Hurricane Valley and surrounding areas.
 
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
-  phone_type:
-  phone2:
-  phone2_type:
-  email:
-  url:
+    Delivering Pizzas and Papers to St. George neighborhoods before most Agents had even heard of the place, our slogan has aptly become <strong>"We KNOW This Town!"</strong>
+
+    It's about more than just buying or selling, it's understanding intimately the local culture, traditions and "vibe" of a given area. <strong>WE UNDERSTAND THOSE THINGS. INTIMATELY.</strong>
+  market: St. George
+  brand: The Larkin Group
+  brokerage: KW Realty
+  address: '50 East 100 South #300<br>St. George, UT 84770'
+  phone: 435-215-4533
+  phone_type: Office
+  phone2: 435-862-8467
+  phone2_type: Direct
+  email: sales@GoStGeorge.Com
+  url: http://www.GoStGeorge.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.stgeorgehousevalues.com/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://idx.gostgeorge.com/idx/search/basic
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.stgeorgehousevalues.com/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://idx.gostgeorge.com/idx/search/basic
 
 lender:
   show_section: false
@@ -67,17 +71,17 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/pages/The-Larkin-Group/84042546052?ref=br_tf
+  linkedin_url: http://www.linkedin.com/in/jeremylarkin
+  gplus_url: https://plus.google.com/108347512742847033417/posts
+  youtube_url: http://www.youtube.com/user/GoStGeorgeTV
+  twitter_url: https://twitter.com/LarkinGroup
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
-  podcast_url:
+  zillow_url: http://www.zillow.com/profile/larkingroup/
+  trulia_url: http://www.trulia.com/profile/jeremy-larkin-agent-saint-george-ut-4125849/
+  yelp_url: http://www.yelp.com/biz/the-larkin-group-st-george-real-estate-consultants-st-george
+  podcast_url: https://itunes.apple.com/us/podcast/st.-george-utah-real-estate/id904336366?mt=2
 
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
@@ -91,14 +95,14 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  # logo_width_number: 40
+  # hero_text: -- MARKET -- Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#194077'
+  theme_color: '#6e6f73'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -110,7 +114,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: rgba(69, 34, 14, .75)
 
 buttons:
   button_radius_number: 0
