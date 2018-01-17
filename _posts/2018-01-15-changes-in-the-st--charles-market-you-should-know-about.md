@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   I have some great news to share today about the St. Charles real estate
   market.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+A+St.+Charles+real+estate+tip.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
