@@ -1,7 +1,7 @@
 ---
 layout: post
 title: These 3 Common Mistakes Can Doom Any Listing
-date:
+date: 2018-01-17 13:22:07
 tags:
   - Home Seller Tips
 excerpt: >-
