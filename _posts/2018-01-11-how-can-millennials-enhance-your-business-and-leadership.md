@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 0t8kWZWPlqs
+youtube_code: szD10KP6MAE
 ---
 
 
@@ -41,5 +41,3 @@ We hear so often that it’s no longer a top-down approach in business, but rath
 I encourage you to embrace that and allow your millennials to let you understand where we should go instead of you telling them where they need to go. It will make a world of difference, and I’m so excited to hear how it has been impactful for you for the future.
 
 If there is anything myself or my team can do for you or you have any questions about this topic, don’t hesitate to reach out to us. We’d be happy to help you.
-
-&nbsp;
