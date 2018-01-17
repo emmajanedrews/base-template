@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Renovations to Help Sell Your Colorado Springs Home
-date: 2018-01-10 15:01:43
+date: 2018-01-10 15:01:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -16,20 +16,20 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: RbRfZ-ktc38
+youtube_code: UPpnWsg7ZZk
 ---
 
 
 {% include youtube.html %}
 
-What are the three best renovations projects to do if you plan to sell your Colorado Springs home?&nbsp;
+What are the three best renovations projects to do if you plan to sell your Colorado Springs home?
 
-The first thing you want to do is get your priorities straight and **focus on the bones of the house.** Make sure the electrical systems, furnace, and roof are all in working order before you put money into any other renovation projects.&nbsp;
+The first thing you want to do is get your priorities straight and **focus on the bones of the house.** Make sure the electrical systems, furnace, and roof are all in working order before you put money into any other renovation projects.
 
-Next, protect your house by paying attention to your siding and the front door. Updating the siding and front door gets a little over 90% return on investment, so your curb appeal definitely plays a part.&nbsp;
+Next, protect your house by paying attention to your siding and the front door. Updating the siding and front door gets a little over 90% return on investment, so your curb appeal definitely plays a part.
 
 {% include pullquote.html %}
 
-**Finally, if there is room left in your budget, focus on kitchen or master bathroom renovations.** Buyers pay attention to kitchens and master baths, so if you have a really great kitchen or a good master bathroom, buyers may be willing to overlook other problems. Kitchen and bathroom remodels can get you about 100% or more in return on investment.&nbsp;
+**Finally, if there is room left in your budget, focus on kitchen or master bathroom renovations.** Buyers pay attention to kitchens and master baths, so if you have a really great kitchen or a good master bathroom, buyers may be willing to overlook other problems. Kitchen and bathroom remodels can get you about 100% or more in return on investment.
 
 If you have any other questions about preparing your home for the Colorado Springs real estate market, give us a call or send us an email. We would be happy to help you!
