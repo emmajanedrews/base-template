@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Numbers Don’t Lie—a Shift May Be Happening Soon in Our Market
-date:
+date: 2018-01-17 13:17:02
 tags:
   - Market Update
 excerpt: >-
@@ -25,9 +25,9 @@ youtube_code: 06XY4mw37jQ
 
 The October 2017 numbers are in from our Baltimore metro market. How do they compare with the numbers from October 2016? What do they mean moving forward?
 
-**The median sale price rose 2.8% to $260,000.**&nbsp;That’s the highest October price level in more than 10 years. The total sales volume across the Baltimore metro area rose 0.5%. The number of closed sales rose 1.2%, which marked the highest number of sales in the month of October in the last decade.
+**The median sale price rose 2.8% to $260,000.** That’s the highest October price level in more than 10 years. The total sales volume across the Baltimore metro area rose 0.5%. The number of closed sales rose 1.2%, which marked the highest number of sales in the month of October in the last decade.
 
-New contract activity rose 7.3%. Compared to September 2017, it rose 6.2%. For new contract activity, this was also the highest level for the month of October in a decade, and it means that&nbsp;**more buyers are qualified, writing contracts, and getting their contracts accepted.**&nbsp;This level could continue to go up since that’s where it’s trending.
+New contract activity rose 7.3%. Compared to September 2017, it rose 6.2%. For new contract activity, this was also the highest level for the month of October in a decade, and it means that **more buyers are qualified, writing contracts, and getting their contracts accepted.** This level could continue to go up since that’s where it’s trending.
 
 New listings rose 8.1% compared to last year, but they declined 2.1% compared to September 2017. All active listings declined by 11.3%, which marked the 26th consecutive month of declining year-over-year inventory levels and the lowest October level in a decade.
 
@@ -35,7 +35,7 @@ New listings rose 8.1% compared to last year, but they declined 2.1% compared to
 
 Lastly, the median days on market for homes dropped from 40 days to 32 days. This means that, along with declining inventory levels, properties are selling faster.
 
-As you can see,&nbsp;**the market is shifting, so it would be wise to buy and sell now**&nbsp;because 2018 will likely be different than what we’ve seen the last five years. As we’ve discussed in past videos, if your home is listed but it’s sitting on the market without a buyer, there are three factors you must pinpoint:
+As you can see, **the market is shifting, so it would be wise to buy and sell now** because 2018 will likely be different than what we’ve seen the last five years. As we’ve discussed in past videos, if your home is listed but it’s sitting on the market without a buyer, there are three factors you must pinpoint:
 
 1. Price
 
