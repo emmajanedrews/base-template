@@ -2,12 +2,12 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Central PA Real Estate Career Podcast with Dave Hooke</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://davehookecoaching.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://davehookecoaching.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Dave Hooke Team LLC - your professional Central PA Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Dave Hooke</managingEditor>
-    <lastBuildDate>2018-01-17 15:38:25 -0600</lastBuildDate>
+    <lastBuildDate>2018-01-17 15:41:04 -0600</lastBuildDate>
     <media:copyright>Dave Hooke</media:copyright>
     <media:thumbnail url="http://i.imgur.com/EQG8hR1.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central PA, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -26,7 +26,7 @@
     
       <item>
         <title>How Has the Bright MLS Changed the Way We Work?</title>
-        <link>localhost:4000/how-has-the-bright-mls-changed-the-way-we-work.html</link>
+        <link>http://davehookecoaching.com/how-has-the-bright-mls-changed-the-way-we-work.html</link>
         
           <category>Real Estate</category>
         
@@ -62,7 +62,7 @@ I am incredibly grateful to Bright and their staff for the dedication they put i
 I would love to hear any feedback or tips that you’ve discovered that impact your business. Just give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/Central+PA+Real+Estate+Agent-+How+Has+the+Bright+MLS+Changed+the+Way+We+Work%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://davehookecoaching.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/Central+PA+Real+Estate+Agent-+How+Has+the+Bright+MLS+Changed+the+Way+We+Work%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>How has the Bright MLS system helped my team be more efficient? I’ll explain today.</itunes:subtitle>
@@ -73,7 +73,7 @@ I would love to hear any feedback or tips that you’ve discovered that impact y
       
       <item>
         <title>What’s the Best Way to Structure a Listing Appointment?</title>
-        <link>localhost:4000/whats-the-best-way-to-structure-a-listing-appointment.html</link>
+        <link>http://davehookecoaching.com/whats-the-best-way-to-structure-a-listing-appointment.html</link>
         
           <category>Real Estate</category>
         
@@ -109,7 +109,7 @@ If that’s the case, we’ll set a second appointment at our office. We’ll ta
 If you have any questions about how we structure our listing appointments, or if you have any helpful steps to add, please don’t hesitate to reach out to me. I look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/Central+PA+Real+Estate+Agent-+Whats+the+Best+Way+to+Structure+a+Listing+Appointment%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://davehookecoaching.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/Central+PA+Real+Estate+Agent-+Whats+the+Best+Way+to+Structure+a+Listing+Appointment%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>What is the best way to structure your listing appointments? I’ve put together a five-step process for a very professional, successful listing appointment.</itunes:subtitle>
@@ -120,7 +120,7 @@ If you have any questions about how we structure our listing appointments, or if
       
       <item>
         <title>What Can You Do To Combat a Slow Business Period?</title>
-        <link>localhost:4000/what-can-you-do-to-combat-a-slow-business-period.html</link>
+        <link>http://davehookecoaching.com/what-can-you-do-to-combat-a-slow-business-period.html</link>
         
           <category>Real Estate</category>
         
@@ -144,7 +144,7 @@ The answer to this question is that it depends—it depends on who you talk to, 
 If you have any questions or suggestions about strategies that have worked for you when you’re in a slow season, I’d love to hear them. Just give me a call or send and email and we can go over them.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/Central+PA+Real+Estate+Agent-+What+Can+You+Do+To+Combat+a+Slow+Business+Period%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://davehookecoaching.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/Central+PA+Real+Estate+Agent-+What+Can+You+Do+To+Combat+a+Slow+Business+Period%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Today I have three tips you can use to generate quick business in a slow season.</itunes:subtitle>
@@ -155,7 +155,7 @@ If you have any questions or suggestions about strategies that have worked for y
       
       <item>
         <title>How to Secure an Appointment With a New Potential Homebuyer</title>
-        <link>localhost:4000/how-to-secure-an-appointment-with-a-new-potential-homebuyer.html</link>
+        <link>http://davehookecoaching.com/how-to-secure-an-appointment-with-a-new-potential-homebuyer.html</link>
         
           <category>Real Estate</category>
         
@@ -192,7 +192,7 @@ So, again, start the conversation with why they called and ask if they have time
 If you have any more questions about securing appointments, don’t hesitate to reach out to me. I’d love to chat with you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/Central+PA+Real+Estate+Agent-+How+to+Secure+an+Appointment+With+a+New+Potential+Homebuyer+(1).mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://davehookecoaching.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/Central+PA+Real+Estate+Agent-+How+to+Secure+an+Appointment+With+a+New+Potential+Homebuyer+(1).mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>When you call an internet inquiry or a call-in back, there are two important things you must ask them right away to secure an appointment with them.</itunes:subtitle>
@@ -203,7 +203,7 @@ If you have any more questions about securing appointments, don’t hesitate to 
       
       <item>
         <title>How to Throw a Great Client Appreciation Event</title>
-        <link>localhost:4000/how-to-throw-a-great-client-appreciation-event.html</link>
+        <link>http://davehookecoaching.com/how-to-throw-a-great-client-appreciation-event.html</link>
         
           <category>Real Estate</category>
         
@@ -235,7 +235,7 @@ When done correctly and with consistency, these events can be invaluable to your
 Most of our clients really appreciate these events and look forward to them annually. If you have any other questions about this topic, don’t hesitate to reach out to me. I’d love to chat with you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/Central+PA+Real+Estate+Agent-+How+to+Throw+a+Great+Client+Appreciation+Event.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://davehookecoaching.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/Central+PA+Real+Estate+Agent-+How+to+Throw+a+Great+Client+Appreciation+Event.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>To throw an effective client appreciation event, you can follow this five-step guide that my team uses to put on successful client appreciation events.</itunes:subtitle>
@@ -246,7 +246,7 @@ Most of our clients really appreciate these events and look forward to them annu
       
       <item>
         <title>The 7 Habits of Highly Effective Real Estate Agents</title>
-        <link>localhost:4000/the-7-habits-of-highly-effective-real-estate-agents.html</link>
+        <link>http://davehookecoaching.com/the-7-habits-of-highly-effective-real-estate-agents.html</link>
         
           <category>Real Estate</category>
         
@@ -278,7 +278,7 @@ If you utilize these seven habits, you will become a highly effective agent.
 As always, if you have any questions, please don’t hesitate to give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/Central+PA+Real+Estate+Agent-+The+7+Habits+of+Highly+Effective+Real+Estate+Agents.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://davehookecoaching.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/Central+PA+Real+Estate+Agent-+The+7+Habits+of+Highly+Effective+Real+Estate+Agents.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>What are the seven habits of highly effective real estate agents? I’ll go over them all today.</itunes:subtitle>
@@ -289,7 +289,7 @@ As always, if you have any questions, please don’t hesitate to give me a call 
       
       <item>
         <title>4 Ways We Improve Client Satisfaction</title>
-        <link>localhost:4000/4-ways-we-improve-client-satisfaction.html</link>
+        <link>http://davehookecoaching.com/4-ways-we-improve-client-satisfaction.html</link>
         
           <category>Real Estate</category>
         
@@ -325,7 +325,7 @@ Communicating with your clients this way creates happier relationships, happier 
 If you have any other questions or if you would like to share something that you do to grow your business, just give me a call or send me an email. I would love to have a conversation with you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/Central+PA+Real+Estate+Agent-+4+Ways+We+Improve+Client+Satisfaction.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://davehookecoaching.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/Central+PA+Real+Estate+Agent-+4+Ways+We+Improve+Client+Satisfaction.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>There is one thing that impacts client satisfaction more than anything else—communication.</itunes:subtitle>
@@ -336,7 +336,7 @@ If you have any other questions or if you would like to share something that you
       
       <item>
         <title>Creating a For-Profit Business With a Nonprofit Purpose</title>
-        <link>localhost:4000/creating-a-for-profit-business-with-a-nonprofit-purpose.html</link>
+        <link>http://davehookecoaching.com/creating-a-for-profit-business-with-a-nonprofit-purpose.html</link>
         
           <category>Real Estate</category>
         
@@ -368,7 +368,7 @@ That idea led me to developing the Community Appreciation Program that allows us
 This is just one easy way to bring purpose back into your real estate business. If you have any questions, or if you have an example of another way you or your team is giving back, give me a call or send me an email. I would love to hear from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/+Video/2017/September/Central+PA+Real+Estate+Agent-+Creating+a+For-Profit+Business+With+a+Nonprofit+Purpose.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://davehookecoaching.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/+Video/2017/September/Central+PA+Real+Estate+Agent-+Creating+a+For-Profit+Business+With+a+Nonprofit+Purpose.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>You can still run a for-profit business and have a nonprofit purpose. Here’s what I mean.</itunes:subtitle>
@@ -379,7 +379,7 @@ This is just one easy way to bring purpose back into your real estate business. 
       
       <item>
         <title>2 Questions to Double Your Business</title>
-        <link>localhost:4000/2-questions-to-double-your-business.html</link>
+        <link>http://davehookecoaching.com/2-questions-to-double-your-business.html</link>
         
           <category>Real Estate</category>
         
@@ -413,7 +413,7 @@ After posing this question, listen to their response and consider taking notes. 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/+Video/2017/August/Central+PA+Real+Estate+Agent-+2+Questions+to+Double+Your+Business.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://davehookecoaching.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/+Video/2017/August/Central+PA+Real+Estate+Agent-+2+Questions+to+Double+Your+Business.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>As a real estate professional, listening to your clients is key. So to double your business, ask these two questions—and pay attention to the answers.</itunes:subtitle>
@@ -424,7 +424,7 @@ If you have any other questions or would like more information, feel free to giv
       
       <item>
         <title>What to Look for in a Potential Brokerage</title>
-        <link>localhost:4000/what-to-look-for-in-a-potential-brokerage.html</link>
+        <link>http://davehookecoaching.com/what-to-look-for-in-a-potential-brokerage.html</link>
         
           <category>Real Estate</category>
         
@@ -454,7 +454,7 @@ When it comes down to it, we are all independent contractors and like small busi
 The answers to each of these questions will affect where you practice. Make sure you do a thorough job at researching and vetting brokerages before you make your decision. If you have any other questions about any of these variables or how it could affect your bottom line, give me a call or send me an email. I look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/+Video/2017/August/Central+PA+Real+Estate+Agent-+What+to+Look+for+in+a+Potential+Brokerage.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://davehookecoaching.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/+Video/2017/August/Central+PA+Real+Estate+Agent-+What+to+Look+for+in+a+Potential+Brokerage.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>There are many different options for you when choosing a brokerage. Here are some things to consider before you choose.</itunes:subtitle>
@@ -465,7 +465,7 @@ The answers to each of these questions will affect where you practice. Make sure
       
       <item>
         <title>5 Steps to Build a Referral-Generating Machine</title>
-        <link>localhost:4000/5-steps-to-build-a-referral-generating-machine.html</link>
+        <link>http://davehookecoaching.com/5-steps-to-build-a-referral-generating-machine.html</link>
         
           <category>Real Estate</category>
         
@@ -491,7 +491,7 @@ It is a well-known fact that one of the most productive activities in real estat
 If you have any questions about this topic or you’re looking to buy or sell a home, please give me a call or send me an email. I would be happy to help!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/+Video/2017/July/Central+PA+Real+Estate+Agent-+5+Steps+to+Build+a+Referral-Generating+Machine.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://davehookecoaching.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/+Video/2017/July/Central+PA+Real+Estate+Agent-+5+Steps+to+Build+a+Referral-Generating+Machine.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>How can you increase your chance of getting solid referrals? Today I’ve laid out five steps that will help you do just that.</itunes:subtitle>
@@ -502,7 +502,7 @@ If you have any questions about this topic or you’re looking to buy or sell a 
       
       <item>
         <title>3 Simple Ways to Double Your Productivity in Real Estate</title>
-        <link>localhost:4000/3-simple-ways-to-double-your-productivity-in-real-estate.html</link>
+        <link>http://davehookecoaching.com/3-simple-ways-to-double-your-productivity-in-real-estate.html</link>
         
           <category>Real Estate</category>
         
@@ -530,7 +530,7 @@ By following these three steps, you can use the remaining time in your schedule 
 If you have any questions for me about your career or you just want to have a quick conversation about the business, give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Central%2520PA%2520Real%2520Estate%2520Agent-%2520Focus%2520your%2520time%2520here.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://davehookecoaching.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Central%2520PA%2520Real%2520Estate%2520Agent-%2520Focus%2520your%2520time%2520here.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>We can’t control the amount of time we have as real estate agents, but we can control how we spend that time. I’m here to tell you that if you can improve that control, you can double your productivity.</itunes:subtitle>
@@ -541,7 +541,7 @@ If you have any questions for me about your career or you just want to have a qu
       
       <item>
         <title>How Can You Ensure All Your Clients Are Serviced Equally?</title>
-        <link>localhost:4000/how-can-you-ensure-all-your-clients-are-serviced-equally.html</link>
+        <link>http://davehookecoaching.com/how-can-you-ensure-all-your-clients-are-serviced-equally.html</link>
         
           <category>Real Estate</category>
         
@@ -567,7 +567,7 @@ You can do all sorts of action items—both for business and personal use. Again
 If you have any questions about this topic, please feel free to reach out to me. I’d love to brainstorm with you.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://davehookecoaching.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>You can use a action items to make your business processes repeatable and make sure all your clients get the same level of service.</itunes:subtitle>
@@ -578,7 +578,7 @@ If you have any questions about this topic, please feel free to reach out to me.
       
       <item>
         <title>5 Critical Technologies You Need to Grow Your Business</title>
-        <link>localhost:4000/5-critical-technologies-you-need-to-grow-your-business.html</link>
+        <link>http://davehookecoaching.com/5-critical-technologies-you-need-to-grow-your-business.html</link>
         
           <category>Real Estate</category>
         
@@ -604,7 +604,7 @@ As an agent, I’m a big advocate of not getting distracted by shiny objects. Th
 If you have any questions about any of these technologies, don’t hesitate to reach out to me. I’d be happy to help you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/Central+PA+Real+Estate+Agent-+5+technologies+that+will+grow+your+business.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://davehookecoaching.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/Central+PA+Real+Estate+Agent-+5+technologies+that+will+grow+your+business.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Don’t be fooled by things you don’t need to spend your money on—here are five technologies that are essential to helping your business grow.</itunes:subtitle>
@@ -615,7 +615,7 @@ If you have any questions about any of these technologies, don’t hesitate to r
       
       <item>
         <title>Our Key to Time & Task Management Success</title>
-        <link>localhost:4000/our-key-to-time-task-management-success.html</link>
+        <link>http://davehookecoaching.com/our-key-to-time-task-management-success.html</link>
         
           <category>Real Estate</category>
         
@@ -639,7 +639,7 @@ Finally, since I’m big on gratitude and having a positive focus, we have a lis
 If you’d like to talk more about how we use this tool or why we’ve had success with it, or you’d like a copy, just give me a call or send me an email. I’d love to speak with you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/Central+PA+Real+Estate+Agent-+Our+time+management+worksheet+(1).mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://davehookecoaching.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/Central+PA+Real+Estate+Agent-+Our+time+management+worksheet+(1).mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>You should always work on a few projects in 90-minute chunks each week to grow the business.</itunes:subtitle>
@@ -650,7 +650,7 @@ If you’d like to talk more about how we use this tool or why we’ve had succe
       
       <item>
         <title>This Document Is the Key to Ensuring Your Business Is Growing</title>
-        <link>localhost:4000/this-document-is-the-key-to-ensuring-your-business-is-growing.html</link>
+        <link>http://davehookecoaching.com/this-document-is-the-key-to-ensuring-your-business-is-growing.html</link>
         
           <category>Real Estate</category>
         
@@ -674,7 +674,7 @@ I encourage you to set a goal for yourself for the amount of outbound touches yo
 If you have any other questions about growing your business or you’d like a copy of our activities tracker, don’t hesitate to give me a call or send me an email. I’d love to hear from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/Central+PA+Real+Estate+Agent-+How+we+track+our+critical+activities.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://davehookecoaching.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/Central+PA+Real+Estate+Agent-+How+we+track+our+critical+activities.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Keeping track of your critical activities is the key to assuring you grow your business. Here’s how our team does it.</itunes:subtitle>
@@ -685,7 +685,7 @@ If you have any other questions about growing your business or you’d like a co
       
       <item>
         <title>3 Indicators of When It's Time to Hire an Assistant</title>
-        <link>localhost:4000/3-indicators-of-when-its-time-to-hire-an-assistant.html</link>
+        <link>http://davehookecoaching.com/3-indicators-of-when-its-time-to-hire-an-assistant.html</link>
         
         <author>Dave Hooke</author>
         <pubDate>2017-04-05 06:34:00 -0500</pubDate>
@@ -709,7 +709,7 @@ If any or all three of these qualifiers relate to you, it might be time to reall
 If you’d like to discuss these qualifiers further, I’d love to sit down and speak with you about your best course of action. Just give me a call or send me an email and we’ll talk soon
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/Central+PA+Real+Estate+Agent-+3+signs+that+it%2527s+time+to+hire+an+assistant.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://davehookecoaching.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/Central+PA+Real+Estate+Agent-+3+signs+that+it%2527s+time+to+hire+an+assistant.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>How do you when the right time is to hire an assistant? We use these three indicators to make the decision.</itunes:subtitle>
@@ -720,7 +720,7 @@ If you’d like to discuss these qualifiers further, I’d love to sit down and 
       
       <item>
         <title>How to Determine Whether Internet Leads Are Right for Your Business</title>
-        <link>localhost:4000/how-to-determine-whether-internet-leads.html</link>
+        <link>http://davehookecoaching.com/how-to-determine-whether-internet-leads.html</link>
         
           <category>Real Estate Business Tips</category>
         
@@ -737,7 +737,7 @@ Should you spend your time and money on Internet leads like Zillow and Realtor.c
 Third, remember that the money generated from Internet leads are often generated in long-term follow-up. Most Internet leads are six to 12 months from their buy-in window at the time that they inquire. Not only do you have to follow up quickly and often, you have to follow up for a long time. Overall, it takes a lot of money, time, systems, and technology to do it well. If you’re at a point in your business where you’ve leveraged help from other people and you have the time and money to spend on systems and technology to pursue Internet leads, it might be a great decision for your business. I hope you found this discussion helpful. If you have any questions or you’d like to talk further about building your business, don’t hesitate to reach out to me. I look forward to hearing from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Central+PA+Real+Estate+Agent-+Are+Internet+leads+worth+your+time+and+money%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://davehookecoaching.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Central+PA+Real+Estate+Agent-+Are+Internet+leads+worth+your+time+and+money%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -758,7 +758,7 @@ Should you spend your time and money on Internet leads like Zillow and Realtor.c
       
       <item>
         <title>Don’t Let Your Business Run You</title>
-        <link>localhost:4000/dont-let-your-business-run-you.html</link>
+        <link>http://davehookecoaching.com/dont-let-your-business-run-you.html</link>
         
           <category>Real Estate Business Tips</category>
         
@@ -787,7 +787,7 @@ I like to go a step further and time block for exercising and family time. After
 Implementing these three strategies will help you run your business instead of allowing your business to run you. If you have any questions, just give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Central+PA+Real+Estate+Agent-+3+Strategies+to+Run+Your+Business.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://davehookecoaching.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Central+PA+Real+Estate+Agent-+3+Strategies+to+Run+Your+Business.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
