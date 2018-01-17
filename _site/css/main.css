@@ -2743,6 +2743,10 @@ form select {
 .newsletter {
   background: #656669; }
 
+.ebook {
+  width: 70%;
+  margin-left: 15%; }
+
 #side-logo {
   width: 90%;
   margin: 0 auto; }
@@ -2756,3 +2760,10 @@ form select {
 .testimonial-author {
   color: #b40101;
   margin-top: -20px; }
+
+.apply-button {
+  margin: 3rem 0; }
+
+#apply {
+  text-transform: capitalize;
+  font-size: 20px; }
