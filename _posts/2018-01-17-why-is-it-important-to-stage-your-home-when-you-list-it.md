@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Is It Important to Stage Your Home When You List It?
-date:
+date: 2018-01-17 13:04:19
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -32,7 +32,7 @@ There are great stagers and not-so-great stagers. How can you know the differenc
 
 A great stager will be your design expert and help you understand the layout of your home’s space. You can trust them with the placement of things and they’ll also bring high-quality furniture. A bad stager won’t care about what furniture you use or rent the same furniture that everyone else does. They’ll bring their furniture on lawn mower trailers and not care about what kind of shape it’s in or if that furniture mixes with your home or not.
 
-When you interview stagers, understand what styles they’re using and make sure they keep that style consistent throughout your house. In addition, double check the quality of the furniture they use. Staging furniture travels from house to house, but a good stager will have a crew in place to move it carefully. &nbsp;
+When you interview stagers, understand what styles they’re using and make sure they keep that style consistent throughout your house. In addition, double check the quality of the furniture they use. Staging furniture travels from house to house, but a good stager will have a crew in place to move it carefully.
 
 {% include pullquote.html %}
 
