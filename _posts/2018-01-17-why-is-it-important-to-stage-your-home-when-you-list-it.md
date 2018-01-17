@@ -26,7 +26,7 @@ youtube_code: JIH76uanGDs
 
 Why is it important to stage your home when you list it for sale?
 
-If you’re living in the home while it’s listed, remember that buyers might not identify with the type of furniture you already have laid out. There is a life cycle that every house goes through, and each buyer wants to see what they’re looking for. If you’re moving out and you’ve already purchased a home, you don’t want to leave an empty house—only a small fraction of buyers can actually visualize themselves in an empty space. Staging is not only crucial to help buyers envision themselves in your home and feel connected to it, but it’s also proven to help homes sell faster and for more money.
+If you’re living in the home while it’s listed, remember that buyers might not identify with the type of furniture you already have laid out. There is a life cycle that every house goes through, and each buyer wants to see what they’re looking for. If you’re moving out and you’ve already purchased a home, you don’t want to leave an empty house—only a small fraction of buyers can actually visualize themselves in an empty space. Staging is not only crucial to help buyers envision themselves in your home and feel connected to it, but **it’s also proven to help homes sell faster and for more money.**
 
 There are great stagers and not-so-great stagers. How can you know the difference between the two?
 
@@ -36,12 +36,12 @@ When you interview stagers, understand what styles they’re using and make sure
 
 {% include pullquote.html %}
 
-The costs associated with staging can vary depending on the size of your house. You can expect to spend anywhere from $800 for a very small house with a couple rooms to thousands more for a full staging of a larger house. If cost is an issue, consider working with a real estate agent who will take on staging expenses as part of their marketing or commission.
+**The costs associated with staging can vary depending on the size of your house.** You can expect to spend anywhere from $800 for a very small house with a couple rooms to thousands more for a full staging of a larger house. If cost is an issue, consider working with a real estate agent who will take on staging expenses as part of their marketing or commission.
 
-There are two types of staging: actual staging and virtual staging. Actual staging means physically bringing furniture into your house. Virtual staging means using computer technology to stage your online listing photos.
+**There are two types of staging: actual staging and virtual staging.** Actual staging means physically bringing furniture into your house. Virtual staging means using computer technology to stage your online listing photos.
 
 Virtual staging is gaining popularity because it’s a lot more cost effective than staging with actual furniture. The problem with virtual staging, though, is that if it elicits someone’s interest enough to visit your home and you haven’t physically staged it, they’ll have no choice but to look at empty rooms. This can lead to the problem I mentioned earlier of most buyers not being able to visualize what they want in a vacant home.
 
-Of these two options, I recommend actual staging. I see the benefit of virtual staging, but your money is better off spent on actual staging. Get a good stager with high-quality furniture and you will absolutely have great results.
+Of these two options, **I recommend actual staging.** I see the benefit of virtual staging, but your money is better off spent on actual staging. Get a good stager with high-quality furniture and you will absolutely have great results.
 
 If you have any questions about staging or are thinking about buying or selling a house, don’t hesitate to reach out to me. I’d be happy to help you.
