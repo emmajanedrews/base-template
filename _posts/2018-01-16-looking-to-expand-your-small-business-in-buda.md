@@ -29,7 +29,7 @@ I’m here with one of the owners of Little Bluebird, Margaret Goebler, There ar
 
 {% include pullquote.html %}
 
-**Floor space has become available on the premises. You, as business owners, can come in and sell your items here.** They’re looking for one (possibly up to four) vendors to take this space. They’re looking for vendors who sell items such as antiques, artwork, herbal teas, flavored oils, and anything else that would fit the theme. The sky’s the limit.
+**Floor space has become available on the premises. You, as a business owner, can come in and sell your items here.** They’re looking for one (possibly up to four) vendors to take this space. They’re looking for vendors who sell items such as antiques, artwork, herbal teas, flavored oils, and anything else that would fit the theme. The sky’s the limit.
 
 If you have a successful online business and want to bring it into a physical space, this is a great chance for you to get that started.
 
