@@ -1,5 +1,25 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
-    audio:
+  - quote: We had our home under contract in one day, so it was extremely easy. Adam was great to work with, and he was an excellent communicator. We never felt as if we were out of the loop. He also went above and beyond in terms of marketing our property. Everywhere we looked, it seemed like there was a sign advertising our home for sale.
+    name: Sarah Garcia
+    audio: /uploads/audio/Sarah.mp3
+
+  - quote: I worked with Nick Wagner, and I first came across him when I went to look at a house that he was representing. I had him start sending us different homes. It was a good experience. Nick got us on an automated email list that sent us the MLS listings every day. He stayed in touch with us throughout the six-month process, at least, from the time we were looking to the time we were ready to buy. We were very pleased with it. The main thing is that Nick was always available. There was never a problem that I can recall where there was something we needed to get done or see a house, but he wasn't there. His flexibility and availability were a few things he went way out of his way for.
+    name: Monte Clark
+    audio: /uploads/audio/Monte.mp3
+
+  - quote: Working with them, I was very satisfied with my results. We ended up purchasing a house that I just left the mortgage office for, because we were closing. So I'm very happy. Me and my wife were in a hurry to try and get a place before our baby came. We worked with Nick Wagner, and he was constantly shooting emails, sending houses our way to look at. Once he got an idea of what we wanted, he started recommending really good homes for us to choose from. When we put the offer in on the house, he went above and beyond. He put in a lot of legwork to make sure that we did get the house in this competitive market. I really appreciate that from not only the Adam Butler Team, but Nick specifically.
+    name: Aberum Wiltfong
+    audio: /uploads/audio/aberum.mp3
+
+  - quote: When we were looking to buy a house, we decided to drive around a particular neighborhood to see what we could find. We found a house we liked and decided to call the number on the sign and that’s how we met Adam. After we called him, we met him in person and we really liked him. Since then, we’ve used Adam to buy and sell 2 other houses. We are so glad we found him! Adam does a really great job! Before we had used a different Realtor to buy my first house and the experience didn’t really compare to Adam. Adam is just more professional and that’s one thing that really sets him apart. He does everything right. Adam is very honest and he makes you feel really comfortable throughout the whole process.  Adam just goes above and beyond for his clients. If you want the best agent that is going to sell your house and do it in the most professional manner, Adam Butler is the Realtor to go with!
+    name: Mark Pratt
+    audio: /uploads/audio/mark-pratt.mp3
+
+  - quote: When we were looking to buy a home, we decided to go on Dave Ramsey’s website and that’s how we met with Adam Butler. I can’t say I’ve have bad experiences working with other Realtors, but we’ve always felt that Adam was by far the best Realtor we’ve dealt with. Adam is so friendly and he just does a really good job. He is very knowledgeable and patient, especially with us! It took us a really long time to find the exact house we wanted but Adam was always more than happy to show us more houses. We really enjoyed our experience of working with Adam. He’s a great Realtor. Adam will always be honest with you and he will absolutely do his best to make sure that the house your selling will be sold or that you find the house you want. Adam Butler can definitely be trusted!
+    name: Mark White
+    audio: /uploads/audio/mark-white.mp3
+
+  # - quote:
+  #   name:
+  #   audio: /uploads/audio/.mp3

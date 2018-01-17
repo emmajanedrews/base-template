@@ -1,126 +1,644 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title> Real Estate Podcast with </title>
+    <title>Kansas City Real Estate Podcast with Adam Butler</title>
     <link>localhost:4000</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</description>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Adam Butler Team - your professional Kansas City Real Estate Agents.</description>
     <language>en</language>
-    <managingEditor></managingEditor>
-    <lastBuildDate>2017-12-28 14:50:28 -0600</lastBuildDate>
-    <media:copyright></media:copyright>
+    <managingEditor>Adam Butler</managingEditor>
+    <lastBuildDate>2018-01-17 11:35:11 -0600</lastBuildDate>
+    <media:copyright>Adam Butler</media:copyright>
     <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
-    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
+    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Kansas City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
-      <itunes:email></itunes:email>
-      <itunes:name></itunes:name>
+      <itunes:email>Adam@AdamButlerTeam.com</itunes:email>
+      <itunes:name>Adam Butler</itunes:name>
     </itunes:owner>
-    <itunes:author></itunes:author>
+    <itunes:author>Adam Butler</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="localhost:4000/img/podcast.jpg"/>
-    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the  Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</itunes:summary>
+    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Kansas City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Kansas City Area Real Estate Market</itunes:subtitle>
+    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Adam Butler Team - your professional Kansas City Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
+        <title>Have You Cleaned Out Your Gutters Yet?</title>
+        <link>localhost:4000/have-you-cleaned-out-your-gutters-yet.html</link>
         
-          <category>Market Update</category>
+          <category>Home Owner Tips</category>
         
-          <category>Real Estate</category>
-        
-          <category>Home Seller Tips</category>
-        
-        <author></author>
-        <pubDate>2016-10-04 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <author>Adam Butler</author>
+        <pubDate>2018-01-11 11:23:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+Gutters.mp4</guid>
         <description>
 
-}
+When is the best time to clean your gutters? It’s always a good idea to clean them in the spring, but I recommend getting ahead of the problem and cleaning them now.
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+Buying a Kansas City home? Get a full home search
+Selling your Kansas City home? Get a free Home Price Evaluation
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
 
-“This is an example of a pull quote”
+The leaves are falling and filling up your gutters. Most people wait to clean their gutters in the spring when the rain comes, but guess what?
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+If you clean your gutters before winter hits, snow won’t pack those leaves down and clog your gutters. It is easier to clean your gutters when the leaves are dry, anyway. If you wait until spring, the leaves will be a soggy mess.
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+Not only that, if we happen to have a 40° day this winter, it could rain. If your gutters are clogged, that rain will come down the side of your house. If your sump pump does not keep up with it, you’ll wind up with water in your basement.
+
+“IT IS EASIER TO CLEAN YOUR GUTTERS BEFORE ALL THE SNOW HITS ANYWAY.”
+
+So, check your gutters now. It’s always good to clean them in the spring, too, but cleaning the gutters now should help you avoid any major problems in the winter or early spring.
+
+If you have any real estate questions or need to hire someone to clean your gutters, please don’t hesitate to reach out to me. I can certainly refer you to someone. I look forward to hearing from you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+Gutters.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+Gutters.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
-        <itunes:author></itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:subtitle>
+
+When is the best time to clean your gutters? It’s always a good idea to clean them in the spring, but I recommend getting ahead of the problem and cleaning them now.
+
+</itunes:subtitle>
+        <itunes:author>Adam Butler</itunes:author>
+        <itunes:summary>
+
+When is the best time to clean your gutters? It’s always a good idea to clean them in the spring, but I recommend getting ahead of the problem and cleaning them now.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Kansas City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>A Fox in Space</title>
-        <link>localhost:4000/a-fox-in-space.html</link>
+        <title>Why Do You Need to Cover Your Homes Spigots During the Winter?</title>
+        <link>localhost:4000/why-do-you-need-to-cover-your-homes.html</link>
         
-          <category>Market Update</category>
+          <category>Home Owner Tips</category>
         
-          <category>Real Estate</category>
+        <author>Adam Butler</author>
+        <pubDate>2017-12-14 12:28:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+Prepping+for+Winter.mp4</guid>
+        <description>
+
+Placing an insulated cover over your home’s outside spigots can prevent them from freezing over and possibly causing your basement to flood once you turn them on again in the spring.
+
+
+Buying a Kansas City home? Get a full home search
+Selling your Kansas City home? Get a free Home Price Evaluation
+
+
+One of the easiest, cheapest winter home preparation tips I always recommend is placing an insulated cover over your home’s outside spigots.
+
+If left uncovered during the winter, they can freeze over, which can cause your basement to flood once you turn them on again in the spring. Repairing that kind of damage can cost you a couple hundred dollars to fix.
+
+You can buy insulated spigot covers at Lowe’s, Home Depot, or any hardware store for as little as $3. As you can see in the video above, attaching them over your spigot is a simple process.
+
+“PUTTING A LITTLE BIT OF MONEY TOWARD YOUR HOME’S PREVENTATIVE MAINTENANCE CAN GO A LONG WAY.”
+
+Most of us are almost done using our spigots anyway, so you might as well do this now. Putting a little bit of money toward your home’s preventative maintenance can go a long way.
+
+If you have any other questions about preparing your home for winter or you’re curious about what’s going on in our Kansas City market, don’t hesitate to reach out to me. I’d be happy to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+Prepping+for+Winter.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+Prepping+for+Winter.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Placing an insulated cover over your home’s outside spigots can prevent them from freezing over and possibly causing your basement to flood once you turn them on again in the spring.
+
+</itunes:subtitle>
+        <itunes:author>Adam Butler</itunes:author>
+        <itunes:summary>
+
+Placing an insulated cover over your home’s outside spigots can prevent them from freezing over and possibly causing your basement to flood once you turn them on again in the spring.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Kansas City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>A Quick Tip on Patching Your Walls</title>
+        <link>localhost:4000/a-quick-tip-on-patching-your-walls.html</link>
+        
+          <category>Home Owner Tips</category>
+        
+        <author>Adam Butler</author>
+        <pubDate>2017-11-14 11:23:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+Patching+Walls.mp4</guid>
+        <description>
+
+Today I have some advice about patching your walls: never use brushes.
+
+
+Buying a Kansas City home? Get a full home search
+Selling your Kansas City home? Get a free Home Price Evaluation
+
+
+Today I’m at one of my investment properties touching up sheet rock dents in the wall.
+
+I’ve got a little spackle on it, and I’m about to sand it down. While doing this, I realized that a lot of my clients don’t realize that if you use a brush to cover a patch, the strokes will show; almost all your walls are rolled on.
+
+For little spots like this, I use a mini tray and roller to make the process easier. Regular-sized trays and rollers make a mess and would really be overkill for a small patch. When you roll it on, the texture matches the wall around it, and when it dries, it’ll look perfect.
+
+“IF YOU’RE EVER TOUCHING UP YOUR WALLS, USE WHATEVER SIZED ROLLER YOU NEED, JUST DON’T USE A BRUSH.”
+
+If you’re ever touching up your walls, use whatever sized roller you need, just don’t use a brush.
+
+If you’d like one of these little roller kits, I’ll be happy to give one to you. Call, email, or text me, and I’ll bring one over to you and say hi. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+Patching+Walls.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+Patching+Walls.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Today I have some advice about patching your walls: never use brushes.
+
+</itunes:subtitle>
+        <itunes:author>Adam Butler</itunes:author>
+        <itunes:summary>
+
+Today I have some advice about patching your walls: never use brushes.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Kansas City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why I Love Arbor Masters</title>
+        <link>localhost:4000/why-i-love-arbor-masters.html</link>
+        
+          <category>Arbor Masters</category>
+        
+        <author>Adam Butler</author>
+        <pubDate>2017-10-19 11:43:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+Arbor+Masters.mp4</guid>
+        <description>
+
+Arbor Masters is my preferred vendor for all things trees. They’ve done some fantastic work for me in the past.
+
+
+Buying a Kansas City home? Get a full home search
+Selling your Kansas City home? Get a free Home Price Evaluation
+
+
+I’m coming to you live from my front yard today. As you can see in the background of the video above, one of my favorite vendors is here removing a pretty big tree from my yard.
+
+I trust Arbor Masters to do a great job simply because they’ve done a great job for me before. Preventative maintenance goes a long way when it comes to tree care. These guys are always willing to come out and take a look to make sure all your trees are healthy and any damage they can cause to your home is minimal.
+
+“PREVENTATIVE MAINTENANCE GOES A LONG WAY WITH YOUR TREES.”
+
+If you have a pesky tree, pesky branches, or just have a question about any of your trees, don’t hesitate to give Arbor Masters a call at 1-800-256-4193 or visit their website here.
+
+If you have any real estate needs or questions for us in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+Arbor+Masters.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+Arbor+Masters.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Arbor Masters is my preferred vendor for all things trees. They’ve done some fantastic work for me in the past.
+
+</itunes:subtitle>
+        <itunes:author>Adam Butler</itunes:author>
+        <itunes:summary>
+
+Arbor Masters is my preferred vendor for all things trees. They’ve done some fantastic work for me in the past.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Kansas City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>An Easy Fix for Loose Screws</title>
+        <link>localhost:4000/an-easy-fix-for-loose-screws.html</link>
+        
+          <category>Common Fixes</category>
+        
+        <author>Adam Butler</author>
+        <pubDate>2017-09-22 11:30:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+Fix+for+Stripped+Screws.mp4</guid>
+        <description>
+
+There’s a quick, easy, cheap solution for loose screws I want to show you.
+
+
+Buying a Kansas City home? Get a full home search
+Selling your Kansas City home? Get a free Home Price Evaluation
+
+
+A long time ago, my dad taught me a quick, cheap, easy fix for loose screws that never fails.
+
+All you need to apply this fix are Elmer’s glue and a few toothpicks. Just squirt a little Elmer’s glue into the hole, jam the toothpicks in, and break them off. If you put your screw in after that, it’ll fit just like new.
+
+“THIS CHEAP, EASY FIX NEVER FAILS.”
+
+The first person who emails me and tells me they tried this tip and it worked will receive a $20 gift card to Lowe’s.
+
+In the meantime, if you have any questions or you’re thinking of buying or selling a home in the Kansas City market, don’t hesitate to reach out to me. I’d be glad to help!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+Fix+for+Stripped+Screws.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+Fix+for+Stripped+Screws.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+There’s a quick, easy, cheap solution for loose screws I want to show you.
+
+</itunes:subtitle>
+        <itunes:author>Adam Butler</itunes:author>
+        <itunes:summary>
+
+There’s a quick, easy, cheap solution for loose screws I want to show you.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Kansas City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Keep Up With Your Landscaping </title>
+        <link>localhost:4000/keep-up-with-your-landscaping.html</link>
+        
+          <category>Home Owner Tips</category>
+        
+        <author>Adam Butler</author>
+        <pubDate>2017-08-03 11:23:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+Landscaping.mp4</guid>
+        <description>
+
+Don’t let your yard go to the geese—it’s much easier to take care of landscaping projects yourself.
+
+
+Buying a Kansas City home? Get a full home search
+Selling your Kansas City home? Get a free Home Price Evaluation
+
+
+It’s very important that you keep up with landscaping this time of year.
+
+You don’t want to let your yard get out of control. Good, clean landscaping adds value to your house. Plus, it just looks nice.
+
+Don’t let crabgrass take over your yard or garden beds. Your house will benefit so much from your steady upkeep. After all, it’s much harder to track down some geese to do your weeding for you than it is to just take care of it yourself in the first place.
+
+“YOUR HOUSE WILL BENEFIT SO MUCH FROM PROPER LANDSCAPING.”
+
+If you have any questions or need a referral to a landscaping company—I do not recommend these geese—just give me a call or send me an email. I would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+Landscaping.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+Landscaping.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Don’t let your yard go to the geese—it’s much easier to take care of landscaping projects yourself.
+
+</itunes:subtitle>
+        <itunes:author>Adam Butler</itunes:author>
+        <itunes:summary>
+
+Don’t let your yard go to the geese—it’s much easier to take care of landscaping projects yourself.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Kansas City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>When Is It Time to Fly the Coop?</title>
+        <link>localhost:4000/when-is-it-time-to-fly-coop.html</link>
         
           <category>Home Seller Tips</category>
         
-        <author></author>
-        <pubDate>2016-09-28 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <author>Adam Butler</author>
+        <pubDate>2017-07-03 12:34:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+Growing+out+of+your+home.mp4</guid>
         <description>
 
-}
-
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
-
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+Is your family reaching a point where you home has begun to feel smaller and smaller? Today’s advice is for you.
 
 
-  list item
-  list item
-  list item
-  list item
-  list item
+Buying a Kansas City home? Get a full home search
+Selling your Kansas City home? Get a free Home Price Evaluation
 
 
+Some birds that nested in a light fixture outside my house got too big to even get out, and it got me thinking about move-up buyers who have outgrown their home. I’ve notice this being a common problem for homeowners here in the Kansas City area.
 
-  list item
-  list item
-  list item
-  list item
-  list item
+My advice for you today is not to wait so long that your house becomes so small that you can’t even get out.
 
+“DON’T WAIT UNTIL YOUR HOME GETS SO SMALL THAT YOU CAN’T GET OUT!”
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+If you’re looking to move to your next home, check out all homes available on the Kansas City MLS here on our home search tool.
 
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+If you have any other questions or just need some helping flying the coop into a new home, give me call or send me an email. I’d love to help you out!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+Growing+out+of+your+home.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+Growing+out+of+your+home.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
-        <itunes:author></itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:subtitle>
+
+Is your family reaching a point where you home has begun to feel smaller and smaller? Today’s advice is for you.
+
+</itunes:subtitle>
+        <itunes:author>Adam Butler</itunes:author>
+        <itunes:summary>
+
+Is your family reaching a point where you home has begun to feel smaller and smaller? Today’s advice is for you.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Kansas City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
-    <copyright></copyright>
-    <media:credit role="author"></media:credit>
+      <item>
+        <title>Taking a Page on Teamwork From Kansas Speedway</title>
+        <link>localhost:4000/taking-page-on-teamwork-from-kansas.html</link>
+        
+          <category>Lesson on Teamwork</category>
+        
+        <author>Adam Butler</author>
+        <pubDate>2017-06-14 14:44:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+Kansas+Speed+Way.mp4</guid>
+        <description>
+
+I was recently a guest out at Kansas Speedway and I thought it was a good opportunity to talk about the importance of every player when it comes to teamwork.
+
+
+Buying a Kansas City home? Get a full home search
+Selling your Kansas City home? Get a free Home Price Evaluation
+
+
+I was recently a guest at Kansas Speedway of Jamie McMurray, the No. 1 car for Cessna McDonald’s. I wanted to give them a shout out today because they really put on a show of teamwork during the race.
+
+My team focuses on getting you the best results thanks to years of experience and honing our negotiating skills. We’re like this racing team in that so many people need to do their job just right to get the best results.
+
+“JUST LIKE THIS RACING TEAM, SO MANY PEOPLE NEED TO DO THEIR JOB JUST RIGHT TO GET THE BEST RESULTS.”
+
+It’s always something we focus on.
+
+If you have any questions about how our team works to get you the best deal possible when buying or selling a home here in the Kansas City market, give me a call or send me an email soon. I’d love to speak with you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+Kansas+Speed+Way.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+Kansas+Speed+Way.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+I was recently a guest out at Kansas Speedway and I thought it was a good opportunity to talk about the importance of every player when it comes to teamwork.
+
+</itunes:subtitle>
+        <itunes:author>Adam Butler</itunes:author>
+        <itunes:summary>
+
+I was recently a guest out at Kansas Speedway and I thought it was a good opportunity to talk about the importance of every player when it comes to teamwork.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Kansas City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Prepare for storm season in Kansas City </title>
+        <link>localhost:4000/prepare-for-storm-season-in-kansas-city.html</link>
+        
+          <category>Prepping for Storm Season</category>
+        
+        <author>Adam Butler</author>
+        <pubDate>2017-05-02 12:01:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+Nick+Wagoner+Interview.mp4</guid>
+        <description>
+
+We recently had a pretty nasty storm here in Kansas City. With storm season on its way, there’s one thing you need to make sure you do.
+
+
+Buying a Kansas City home? Get a full home search
+Selling your Kansas City home? Get a free Home Price Evaluation
+
+
+With the storm season fast approaching, it’s essential to take a look at the trees around your home. What condition are they in? Are you worried a storm could potentially knock down a tree and cause damage to your property?
+
+Now is the time to have a certified arborist come take a look. Power lines are also a huge concern when it comes to trees and storm season. Kansas City Power and Light will trim back foliage around the main power pole, but the lines running to your house are your responsibility as the homeowner.
+
+“BEING PROACTIVE ABOUT YOUR TREES NOW COULD SAVE YOU TIME, MONEY, AND A LARGE AMOUNT OF STRESS.”
+
+An arborist will come out to give you a free evaluation and provide you with an estimate for trimming. Being proactive about your trees now could save you time, money, and a large amount of stress.
+
+If you have any questions about getting ahold of an arborist, or if you have any real estate questions, please feel free to give me a call or send me an email. I’m always happy to help.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+Nick+Wagoner+Interview.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+Nick+Wagoner+Interview.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+We recently had a pretty nasty storm here in Kansas City. With storm season on its way, there’s one thing you need to make sure you do.
+
+</itunes:subtitle>
+        <itunes:author>Adam Butler</itunes:author>
+        <itunes:summary>
+
+We recently had a pretty nasty storm here in Kansas City. With storm season on its way, there’s one thing you need to make sure you do.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Kansas City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Keeping Groundwater From Intruding on Your Home</title>
+        <link>localhost:4000/how-to-keep-your-homes-worst-enemy-out.html</link>
+        
+          <category>Home Owner Tips</category>
+        
+        <author>Adam Butler</author>
+        <pubDate>2017-04-18 12:18:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+Preventing+Ground+Water.mp4</guid>
+        <description>
+
+Water is a home’s worst enemy. Today, I wanted to show you how to keep groundwater out of your home using my house as a live example.
+
+
+Buying a Kansas City home? Get a full home search
+Selling your Kansas City home? Get a free Home Price Evaluation
+
+
+Groundwater in your basement is an issue that nobody wants to deal with, so today I have some preventative maintenance tips that I wanted to share.
+
+Water is a home’s worst enemy and it can get in three ways: your roof, plumbing leaks, or groundwater.
+
+To get water to shed when there’s heavy rain, you need one inch of drop per foot. As you can see in the video above, there’s a spot near my home’s downspout where water will pool and try to get into my basement when it rains.
+
+I’ve started by adding some dirt to divert water. I’ve brought in a dump truck’s worth of dirt, but $1.33 per bag at a hardware store will take care of it too.
+
+“WATER IS A HOME’S WORST ENEMY.”
+
+I created a nice slope that will keep water from pooling when it rains. Some people would say that this is what a sump pump is for, but the best sump pumps to have are the ones that never have to run!
+
+If you have any other questions about preventing groundwater from getting into your house or you’re thinking of buying or selling a home here in the Kansas City area, give me a call or send me an email. I’m always here to help!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+Preventing+Ground+Water.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+Preventing+Ground+Water.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Water is a home’s worst enemy. Today, I wanted to show you how to keep groundwater out of your home using my house as a live example.
+
+</itunes:subtitle>
+        <itunes:author>Adam Butler</itunes:author>
+        <itunes:summary>
+
+Water is a home’s worst enemy. Today, I wanted to show you how to keep groundwater out of your home using my house as a live example.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Kansas City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Are We in Such a Strong Sellers Market?</title>
+        <link>localhost:4000/why-are-we-in-such-strong-sellers-market.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Adam Butler</author>
+        <pubDate>2017-03-09 11:21:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+March+Market+Update.mp4</guid>
+        <description>
+
+We are in an extremely strong seller’s market now, despite slightly increasing interest rates. That said, sellers need a strategy if they want to capitalize on this great market.
+
+
+Buying a Kansas City home? Get a full home search
+Selling your Kansas City home? Get a free Home Price Evaluation
+
+
+Right now, we are in a strong seller’s market.
+
+Interest rates are still historically low even though they have started to creep up a little. Now that the election is over and rates are still low, things are really selling pretty quick. Inventory is extremely low for the number of buyers out there and as a result, homes are selling within a couple of days.
+
+We have a great strategy to help sellers get top dollar in this market: our “Coming Soon!” program. We put up a “Coming Soon!” sign in your yard two weeks before your listing goes live on the MLS. That way, we get plenty of calls about the house before it comes on the market.
+
+“OUR ‘COMING SOON!’ PROGRAM DIRECTS BUYER DEMAND TO YOUR HOME.”
+
+By driving up buyer demand, this program helps you get multiple offers and higher prices because buyers do not want to miss out on your house. Then, you get to choose the best offer. Another benefit of this program is that our houses are selling very quickly.
+
+Rates will creep up soon but if you’ve been thinking about selling, now is a great time to get a record-high price for your home.
+
+If you’re curious about what your home is worth in today’s market or you have any other questions, give me a call or send me an email. I would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+March+Market+Update.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+March+Market+Update.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+We are in an extremely strong seller’s market now, despite slightly increasing interest rates. That said, sellers need a strategy if they want to capitalize on this great market.
+
+</itunes:subtitle>
+        <itunes:author>Adam Butler</itunes:author>
+        <itunes:summary>
+
+We are in an extremely strong seller’s market now, despite slightly increasing interest rates. That said, sellers need a strategy if they want to capitalize on this great market.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Kansas City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Updating Your Kitchen Is Always a Smart Move </title>
+        <link>localhost:4000/update-your-kitchen-for-best-return.html</link>
+        
+          <category>Kitchen Renovation</category>
+        
+        <author>Adam Butler</author>
+        <pubDate>2017-02-22 11:07:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+Updating+Your+Kitchen.mp4</guid>
+        <description>
+
+Hands down, remodeling a kitchen before you sell will get you the best return on your investment. Today I’ll go over a few things you can do to update your kitchen if you’re on a budget.
+
+
+Buying a Kansas City home? Get a full home search
+Selling your Kansas City home? Get a free Home Price Evaluation
+
+
+Kitchens are the number one selling factor in a house, which is why I want to talk about the best ways to update yours before you put your home on the market.
+
+A beautiful, updated kitchen will get you top dollar every time. The kitchen being remodeled in the video above is going from a very small to a very large kitchen, but most remodels don’t need to be that extensive.
+
+There are a few things you can do if you don’t have the budget for a complete remodel. If you have golden oak cabinets, have them painted or go to a darker stain. Replace fixtures and make the switch to a gas cooktop. Additionally, if you have Formica countertops you’ll want to update to granite or quartz.
+
+“A BEAUTIFUL, UPDATED KITCHEN WILL GET YOU TOP DOLLAR EVERY TIME.”
+
+You might not even be thinking about selling your home anytime soon and that’s fine, but when you do decide to sell, you’ll get the best return on your investment if you update the kitchen.
+
+If you have any questions about updating your kitchen, updating other parts of your home, or if you’re nervous about putting money into an update, I’d be happy to come by and talk with you about your options. If you have any other real estate-related questions, please don’t hesitate to give me a call or send me an email. I look forward to hearing from you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+Updating+Your+Kitchen.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+Updating+Your+Kitchen.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Hands down, remodeling a kitchen before you sell will get you the best return on your investment. Today I’ll go over a few things you can do to update your kitchen if you’re on a budget.
+
+</itunes:subtitle>
+        <itunes:author>Adam Butler</itunes:author>
+        <itunes:summary>
+
+Hands down, remodeling a kitchen before you sell will get you the best return on your investment. Today I’ll go over a few things you can do to update your kitchen if you’re on a budget.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Kansas City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Our Referral Appreciation Party Was a Blast!</title>
+        <link>localhost:4000/we-appreciate-every-single-referral.html</link>
+        
+          <category>Client Appreciation</category>
+        
+        <author>Adam Butler</author>
+        <pubDate>2017-01-27 11:30:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+Appreciation+Party.mp4</guid>
+        <description>
+
+We appreciate every referral a client sends us. To thank all our clients for their referrals, we held a casino night.
+
+
+Buying a Kansas City home? Get a full home search
+Selling your Kansas City home? Get a free Home Price Evaluation
+
+
+We’ve got some great footage of our referral appreciation party to share with you. This was a celebration for all of the people who have referred friends, family, and coworkers to us that we have been able to take care of.
+
+To say thank you to all of these people, we decided to hold a casino party, which was a blast. We had craps tables, mice races, and more for people to bet on. Check out some great footage from one of the mice races in the video above.
+
+“OUR CASINO PARTY WAS A HUGE SUCCESS.”
+
+We just thought we would give you a quick taste of some of the fun things we like to do for our clients when they refer business to us. If you or someone you know is looking to buy or sell in Kansas City, we would love the opportunity to take care of them too. All you’ve got to do is give us a call or send us an email. We are always here to answer any questions you may have about real estate.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+Appreciation+Party.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+Appreciation+Party.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+We appreciate every referral a client sends us. To thank all our clients for their referrals, we held a casino night.
+
+</itunes:subtitle>
+        <itunes:author>Adam Butler</itunes:author>
+        <itunes:summary>
+
+We appreciate every referral a client sends us. To thank all our clients for their referrals, we held a casino night.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Kansas City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+    <copyright>Adam Butler</copyright>
+    <media:credit role="author">Adam Butler</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</media:description>
+    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Adam Butler Team - your professional Kansas City Real Estate Agents.</media:description>
   </channel>
 </rss>

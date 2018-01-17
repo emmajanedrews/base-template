@@ -1,48 +1,50 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: Kansas CIty Real Estate Video Blog with Adam Butler
 description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
   - title:
     url:
 
-emma_form:
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808154';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 
 client:
-  name:
+  name: Adam Butler
   license_number:
   about_markdown: |
+    The Adam Butler Team has been selling real estate in Kansas City for more than 17 years and we consistently provide superior service to our clients. We are among the top-selling agency in volume sold and sell well over 100 homes per year. Some of our exclusive offers here are the Guaranteed Sold program or the Love It or Leave it program which are both set in place to ensure the satisfaction of our clients.
 
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    To sell efficiently and better serve our clients, we have an array of professionals such as a client care specialist, a marketing professional, listing agents and buyers agents. This allows us to get top dollar and sell your house faster, which is a huge benefit to our customers. Our own unique blend of efficiency and expertise is what makes our brand so great, and is also what keeps us on top of the Kansas City real estate market. We look forward to serving you.
+  market: Kansas City
+  brand: The Adam Butler Team
+  brokerage: Keller Williams
+  address: 11005 Metcalf Avenue<br>Overland Park, KS 66210
+  phone: 913-685-2326
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Adam@AdamButlerTeam.com
+  url: http://AdamButlerTeam.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://adambutler.kwrealty.com/sell/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://adambutler.kwrealty.com/map/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://adambutler.kwrealty.com/sell/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://adambutler.kwrealty.com/map/
 
 lender:
   show_section: false
@@ -67,17 +69,17 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/pages/The-Adam-Butler-Team/134827736417
+  linkedin_url: https://www.linkedin.com/in/adambutlerteam/
+  gplus_url: https://plus.google.com/111964483476490465864/posts?hl=en&partnerid=gplp0
+  youtube_url: http://www.youtube.com/user/adambutlerteam/featured?view_as=public
+  twitter_url: https://twitter.com/adambutlerteam
   instagram_url:
   pinterest_url:
-  zillow_url:
+  zillow_url: https://www.zillow.com/profile/adambutlerteam/
   trulia_url:
-  yelp_url:
-  podcast_url:
+  yelp_url: https://www.yelp.com/biz/the-adam-butler-team-overland-park
+  podcast_url: https://itunes.apple.com/us/podcast/kansas-city-real-estate-video/id1178771087?mt=2
 
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
@@ -91,13 +93,13 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 30
   hero_text: -- MARKET -- Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
+  brand_color: '#1565C0'
   theme_color: '#999'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
