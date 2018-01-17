@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are You Thinking of Buying a New Construction Home in Our Market?
-date: 2018-01-16 12:06:56
+date: 2018-01-16 12:06:00
 tags:
 excerpt: >-
   All the new construction happening here in Boise is exciting news for both
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/dildine-youtube-5.jpg
-youtube_code: kQjOW5vTxZg
+youtube_code: _Ljf9UjKDlE
 ---
 
 
