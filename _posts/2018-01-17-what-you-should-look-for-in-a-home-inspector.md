@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What You Should Look for in a Home Inspector
-date:
+date: 2018-01-17 13:34:46
 tags:
   - Real Estate
 excerpt: >-
@@ -33,7 +33,7 @@ First, what is a home inspection?
 
 “A home inspection is a non-invasive visual inspection of all the home’s major components,” Alan says. “That would be your interior and exterior, your roof system, your plumbing system, your electrical system, heating system—all those things should be checked during a home inspection.”
 
-Just as when you select a real estate agent, you need to be careful when selecting a home inspector.&nbsp;**According to Alan, there are three things you need to look for.**
+Just as when you select a real estate agent, you need to be careful when selecting a home inspector. **According to Alan, there are three things you need to look for.**
 
 First, they need to be licensed in the state of Maryland. If not, your inspection will be null and void. There is a caveat that allows someone like an engineer or someone who’s been in construction for many years to do an inspection if they follow the standard report Maryland provides, though.
 
@@ -41,11 +41,11 @@ The second thing to look for is experience. Keep in mind, though, that experienc
 
 The third and most important thing to look for is education. The inspector has to know what he’s looking at to call it properly, and that only comes through education.
 
-**4U Home Inspections has a much higher standard than the industry when it comes to having their inspectors educated.**&nbsp;Their home inspectors already come to them licensed. They also have to undergo a 250-hour apprenticeship before they can do an inspection on their own. After that, their reports are monitored until they’re exactly right. Inspectors in Maryland are required to do 16 hours of continuing education a year, but 4U Home Inspections’ inspectors average between 30 and 42 hours.
+**4U Home Inspections has a much higher standard than the industry when it comes to having their inspectors educated.** Their home inspectors already come to them licensed. They also have to undergo a 250-hour apprenticeship before they can do an inspection on their own. After that, their reports are monitored until they’re exactly right. Inspectors in Maryland are required to do 16 hours of continuing education a year, but 4U Home Inspections’ inspectors average between 30 and 42 hours.
 
 Alan notes that you should also be mindful of the fact that most of the things that are missed in the industry are done so by individuals rather than a team like 4U Home Inspections. Individuals are often so busy looking at homes that they don’t necessarily have time to answer questions after the fact or keep up their education. 4U Home Inspections is unique in that they have multiple inspectors who they can educate and they have a full-time in-house answering system. That makes things more convenient for both the homebuyer and the Realtor.
 
-There are four reasons I prefer to work with 4U Home inspections:&nbsp;**experience, education, convenience, and safety.**&nbsp;For our clients and our business, they’re the top inspection company we’ve ever worked with. As their slogan goes, “We enlighten, not frighten.”
+There are four reasons I prefer to work with 4U Home inspections: **experience, education, convenience, and safety.** For our clients and our business, they’re the top inspection company we’ve ever worked with. As their slogan goes, “We enlighten, not frighten.”
 
 “The last thing we want to do is have somebody miss out on a great home just because they’re scared because somebody didn’t explain to them what was going on,” Alan says. “We educate the clients as we walk around. We want them to know what condition it is and what it’s going to take to keep it in that condition.”
 
@@ -57,7 +57,7 @@ They also stay on the cutting edge of technology. In fact, they have an app that
 
 What happens when one of their home inspectors comes on site? They have their credentials out and prepared, the inspector then explains those credentials to the client. They also bring goody bags. Part of that is for marketing purposes, but it’s mostly because most people who come to home inspections do so right after they’ve gotten off work and they’re tired, hungry, and thirsty. They provide refreshments and give them something to eat so they can concentrate on the home inspection.
 
-**The feedback we’ve gotten from our clients about 4U Home Inspections has been exceptional.**&nbsp;Even when we have challenges with a buyer client on one of our listings that they’ve inspected, we can call them and get feedback.
+**The feedback we’ve gotten from our clients about 4U Home Inspections has been exceptional.** Even when we have challenges with a buyer client on one of our listings that they’ve inspected, we can call them and get feedback.
 
 “We take care of our clients and our customers,” Debbie says. “We take care of you, the Realtor, and the homebuyer.”
 
