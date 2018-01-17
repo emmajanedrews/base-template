@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Discussion About Title Companies
-date:
+date: 2018-01-17 12:50:32
 tags:
   - Real Estate
 excerpt: >-
