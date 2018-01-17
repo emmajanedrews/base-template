@@ -43,7 +43,7 @@ Now is the time for you to make an offer on the property.&nbsp;
 
 You are going to make a solid offer that they can’t refuse. It’s going to be a realistic offer, but it’s also going to be aggressive. There is going to be a quick close with no contingencies, as in no inspections. You’d better know what you’re doing when it comes to figuring out what the repair costs will be.
 
-When you work with me, I’ll discuss the offer with you. **Do not call me if you do not have your proof of funds ready to send over right away.** I’ll help you figure out if it’s worth moving forward with the offer, and then we’ll pull the trigger. Again, I hope you know what you are doing when it comes to repairs, because you are going to own this property.&nbsp;
+When you work with me, I’ll discuss the offer with you. **Do not call me if you do not have your proof of funds ready to send over right away.** I’ll help you figure out if it’s worth moving forward with the offer, and then we’ll pull the trigger. Again, I hope you know what you are doing when it comes to repairs because you are going to own this property.&nbsp;
 
 So, how do you find aged REOs?&nbsp;
 
