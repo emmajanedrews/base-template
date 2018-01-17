@@ -33,12 +33,15 @@ client:
   phone2_type: Brokerage
   email: Dave@hhande.com
   url: 'http://Viewcentralpahouses.com'
+
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1809314';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+
 CTAs:
   first_CTA_text: Request a Free Strategy Session
   first_CTA_URL: 'http://www.viewcentralpahouses.com/join-the-team'
   second_CTA_text:
   second_CTA_URL:
-  VR_form: 'http://oi.vresp.com?fid=f0532e3a04'
+
 sidebar_CTA:
   - CTA_image_path: 'https://lh5.googleusercontent.com/proxy/V9aLZKkQrMp5XTS9sOr7LymNyck_AVJ_gvu_tGfKBwwkf1pwq6YGvfaWCfpFqZ2gU3s=s0-d'
     CTA_title: Looking to Build Your Real Estate Career?
@@ -56,6 +59,25 @@ lender:
   phone: 555-555-5555
   email: bill@murray.com
   url: 'http://eyegoop.com'
+
+lawyer:
+  name: Jeffrey W. Embly
+  title: Firm Administrator
+  brand: Salzmann Hughes, P.C.
+  address: 79 St Paul Drive<br>Chambersburg PA, 17201
+  phone: 717-263-2121
+  email: JEmbly@salzmannhughes.com
+  url: http://salzmannhughes.com
+
+lawyer2:
+  name: Christopher E. Rice
+  title: Shareholder
+  brand: Martson Law Offices
+  address: Ten East High Street<br>Carlisle, PA 17013
+  phone: 717-243-3341
+  email: crice@martsonlaw.com
+  url: http://martsonlaw.com
+
 welcome_box:
   welcome_headline: How to Sell More Homes
   welcome_text_markdown: >
@@ -94,7 +116,10 @@ images:
   client_headshot_path: '/img/headshot.png'
   hero_logo_path: /img/logo.png
   hero_logo_path-2: /img/logo-2.png
-  logo_width_number: 40
+  hero_logo_path-3: /img/logo-3.png
+  hero_logo_path-4: /img/logo-4.png
+  hero_logo_path-5: /img/logo-5.png
+  logo_width_number: 30
   hero_text: Real Estate Coaching Blog
   hero_background_hex: '#00573d'
   hero_image_path: /img/background.jpg
@@ -109,7 +134,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: 'rgba(0, 0, 0, 0.7)'
+  shadow_color: 'rgba(0, 0, 0, 1)'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10

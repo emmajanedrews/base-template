@@ -1208,7 +1208,8 @@ html[xmlns] .flexslider .slides {
             justify-content: center;
     -webkit-box-align: center;
         -ms-flex-align: center;
-            align-items: center; }
+            align-items: center;
+    font-size: 18px; }
     .lender .lender-info img {
       margin: 5px;
       border-radius: 50%;
@@ -1599,13 +1600,14 @@ label.tree-toggle {
 
 .site-logo {
   width: 90%;
-  max-width: 40rem;
-  -webkit-filter: drop-shadow(0px 2px 7px rgba(0, 0, 0, 0.7));
-  filter: drop-shadow(0px 2px 7px rgba(0, 0, 0, 0.7)); }
+  max-width: 30rem;
+  padding: 0 1rem;
+  -webkit-filter: drop-shadow(0px 2px 7px black);
+  filter: drop-shadow(0px 2px 7px black); }
 
 .site-title {
   color: white;
-  text-shadow: 0px 2px 7px rgba(0, 0, 0, 0.7);
+  text-shadow: 0px 2px 7px black;
   text-transform: uppercase;
   font-size: 6.5rem;
   padding-bottom: 4rem;
@@ -1614,7 +1616,7 @@ label.tree-toggle {
 
 #long-title {
   color: white;
-  text-shadow: 0px 2px 7px rgba(0, 0, 0, 0.7);
+  text-shadow: 0px 2px 7px black;
   text-transform: uppercase;
   font-size: 5.2rem;
   padding-bottom: 4rem;
@@ -2059,7 +2061,7 @@ table tr, table td {
   margin: 2rem 0;
   color: white;
   text-transform: uppercase;
-  text-shadow: 0px 2px 7px rgba(0, 0, 0, 0.7); }
+  text-shadow: 0px 2px 7px black; }
 .post .headshot {
   width: 100%;
   max-width: 15rem;
@@ -2074,7 +2076,7 @@ table tr, table td {
 
 .tag-container {
   color: white;
-  text-shadow: 0px 2px 7px rgba(0, 0, 0, 0.7);
+  text-shadow: 0px 2px 7px black;
   margin-bottom: 1rem; }
 
 .tag {
@@ -2085,7 +2087,7 @@ table tr, table td {
 .author-attribution {
   color: white;
   font-weight: 300;
-  text-shadow: 0px 2px 7px rgba(0, 0, 0, 0.7);
+  text-shadow: 0px 2px 7px black;
   margin-bottom: 2rem;
   font-style: italic; }
   .author-attribution a {
@@ -2882,6 +2884,37 @@ form select {
 
 .office-tour {
   margin-bottom: 2rem; }
+
+.lawyer {
+  font-size: 18px;
+  margin: 2rem; }
+
+.lawyer-logo {
+  width: 80%;
+  margin-left: 10%;
+  padding-top: 1rem; }
+
+.lawyer-info {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+              -ms-grid-row-align: center;
+          align-items: center;
+  font-size: 18px;
+  text-align: center;
+  padding: 2rem; }
+  .lawyer-info img {
+    margin: 5px;
+    border-radius: 50%;
+    overflow: hidden;
+    max-width: 200px;
+    border: 3px solid #df8f00; }
+  .lawyer-info p {
+    margin-bottom: 0;
+    vertical-align: middle;
+    margin-left: 10px; }
 
 .subscribe {
   background: #df8f00;

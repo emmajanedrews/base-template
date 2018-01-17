@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>localhost:4000/how-has-the-bright-mls-changed-the-way-we-work.html</loc>
+<lastmod>2018-01-11T07:25:47-06:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/whats-the-best-way-to-structure-a-listing-appointment.html</loc>
+<lastmod>2017-12-21T09:34:29-06:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/what-can-you-do-to-combat-a-slow-business-period.html</loc>
+<lastmod>2017-12-07T08:24:10-06:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/how-to-secure-an-appointment-with-a-new-potential-homebuyer.html</loc>
+<lastmod>2017-11-27T05:41:00-06:00</lastmod>
+</url>
+<url>
 <loc>localhost:4000/how-to-throw-a-great-client-appreciation-event.html</loc>
 <lastmod>2017-11-10T06:55:31-06:00</lastmod>
 </url>
@@ -101,5 +117,8 @@
 </url>
 <url>
 <loc>localhost:4000/page3/</loc>
+</url>
+<url>
+<loc>localhost:4000/page4/</loc>
 </url>
 </urlset>
