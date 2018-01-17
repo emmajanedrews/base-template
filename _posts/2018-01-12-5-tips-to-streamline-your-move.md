@@ -1,14 +1,15 @@
 ---
 layout: post
 title: 5 Tips to Streamline Your Move
-date: 2018-01-12 14:38:08
+date: 2018-01-12 14:38:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: >-
   After I moved recently, I thought I’d share some tips I learned from the
   experience that can help you make the most of your move.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Andrew+Kronenberg+/January+2018/Central+Pennsylvania+Real+Estate-+Tips+for+an+Easy+Move.mp4
 pullquote: Trust me when I say that a moving company is worth every dollar.
 enclosure_type: video/mp4
 enclosure_time:
@@ -30,6 +31,6 @@ For one, **begin packing and purging as early as possible** so that you don’t 
 
 The third tip is to contact all your utility companies in advance, usually about two weeks before the move. **Make sure that all your payments and obligations are settled with them.** You can also schedule installations around the same time for your new home, to save you the hassle of juggling those appointments at the last minute.
 
-Fourth, **take off more time from work than you think you need.&nbsp;**There’s more to moving than getting your stuff from point A to point B. You also have to make time to unpack, organize, decorate, tear down boxes, and a general clean-up. If you try to do it over one weekend, you’ll find that you needed an extra day, and you might dwell on what you have left to do once you’ve returned to work. Before you know it, you’re spending your evenings and weekends for months at a time on finishing those things you didn’t get done initially. So just take a little bit more time and get things finished up.<br><br>**The fifth and most valuable tip is to enjoy it.** Laugh about it. Things will go wrong, appointments will be missed, installations will be missed, things will break, and certain other things won’t line up the way you imagined. But make the best of it and exercise some humility.<br><br>If you have any questions or have a move coming up, we can help recommend different service providers and moving companies. Feel free to give us a call; helping you move is just an extension of the service that we as real estate agents provide to you. We hope you had a great holiday season, and we wish you health and prosperity in 2018.
+Fourth, **take off more time from work than you think you need.**There’s more to moving than getting your stuff from point A to point B. You also have to make time to unpack, organize, decorate, tear down boxes, and a general clean-up. If you try to do it over one weekend, you’ll find that you needed an extra day, and you might dwell on what you have left to do once you’ve returned to work. Before you know it, you’re spending your evenings and weekends for months at a time on finishing those things you didn’t get done initially. So just take a little bit more time and get things finished up.<br><br>**The fifth and most valuable tip is to enjoy it.** Laugh about it. Things will go wrong, appointments will be missed, installations will be missed, things will break, and certain other things won’t line up the way you imagined. But make the best of it and exercise some humility.<br><br>If you have any questions or have a move coming up, we can help recommend different service providers and moving companies. Feel free to give us a call; helping you move is just an extension of the service that we as real estate agents provide to you. We hope you had a great holiday season, and we wish you health and prosperity in 2018.
 
 For more tips to make your next move a piece of cake, watch my latest video.
