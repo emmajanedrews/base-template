@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Reasons to Have a Pre-Listing Home Inspection
-date: 2018-01-12 16:48:41
+date: 2018-01-12 16:48:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/don-williams-screenshot-youtube.jpg
-youtube_code: VIlPy_RiAY0
+youtube_code: dDyvLFrxcfk
 ---
 
 
