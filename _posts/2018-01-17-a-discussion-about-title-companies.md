@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Discussion About Title Companies
-date: 2018-01-17 12:50:32
+date: 2018-01-17 12:50:00
 tags:
   - Real Estate
 excerpt: >-
@@ -12,7 +12,7 @@ excerpt: >-
   exactly to do that and much more. To see our full conversation, watch this
   short video.
 enclosure:
-pullquote: “There’s a reason certain companies are cheaper than others.”
+pullquote: There’s a reason certain companies are cheaper than others.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
