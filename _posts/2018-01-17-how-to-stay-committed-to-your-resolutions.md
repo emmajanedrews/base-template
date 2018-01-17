@@ -21,7 +21,7 @@ Today I’m going to talk to you a little bit about how you can stay committed t
 
 Have you had problems achieving your goals in the past? Do you make resolutions every year only to forget about them come February? I’ve been there.
 
-My goal last year was to get back into shape and I’m proud to say that I’ve lost about 30 lbs since last year. I have a lot more energy because of it. How did I do it?** I followed these four steps consistently:**
+My goal last year was to get back into shape and I’m proud to say that I’ve lost about 30 lbs since last year. I have a lot more energy because of it. How did I do it? I followed these four steps consistently:
 
 **1. Create a goal that is super important to you.**It should be something you can obsess about. Think of it this way: This should be a goal that would make your entire year if you were to accomplish it.
 
