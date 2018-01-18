@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Take A Look At My Home-Flipping Project
-date: 2018-01-17 10:44:58
+date: 2018-01-17 10:44:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: odB4uQwUIKU
+youtube_code: hCTdRU8ij9U
 ---
 
 
@@ -24,11 +24,11 @@ My New Year’s resolution for 2018 is not to lose weight or to have a better di
 
 Because so many of you are interested in real estate, I'm going to show you how to flip a property, rather than just tell you.
 
-**The first rule of real estate is that the location of the property is paramount in mitigating your risk.** I chose a property in a good central location to New York City transportation. There are two bus stops, a light rail, a path station, and now there’s a new restaurant called Road that was just put in, making it a pretty hot up-and-coming spot.&nbsp;
+**The first rule of real estate is that the location of the property is paramount in mitigating your risk.** I chose a property in a good central location to New York City transportation. There are two bus stops, a light rail, a path station, and now there’s a new restaurant called Road that was just put in, making it a pretty hot up-and-coming spot.
 
 {% include pullquote.html %}
 
-To see the property and learn how one man’s trash can be another man’s gold, skip ahead to 1:15 in the video. Despite its ramshackle appearance, I believe there’s a lot of value in this property.&nbsp;
+To see the property and learn how one man’s trash can be another man’s gold, skip ahead to 1:15 in the video. Despite its ramshackle appearance, I believe there’s a lot of value in this property.
 
 We bought it for $315,000, and—factoring in the $110,000 for renovation, $25,000 for financing costs, and $5,000 for tax and utilities—the target sale price was a conservative $600,000. The total project is projected to take from nine to 11 months. Wish me luck!
 
