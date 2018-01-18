@@ -39,7 +39,7 @@ The A list should be made up of people you have worked with and referred you to 
 
 You should be dividing your database into these A, B, and C categories at the very minimum.
 
-**Once you’ve segmented your clients, it’s key to have a follow-up plan.**One of the great things about CRMs is that they not only help you manage past relationships, they are also set up to give you reminders for when you need to follow up with clients.
+**Once you’ve segmented your clients, it’s key to have a follow-up plan.&nbsp;**One of the great things about CRMs is that they not only help you manage past relationships, they are also set up to give you reminders for when you need to follow up with clients.
 
 Here at the Nickley Group, we utilize two different CRMs. Our entire back-end business is run out of Top Producer and our sales team uses Commissions Inc.
 
