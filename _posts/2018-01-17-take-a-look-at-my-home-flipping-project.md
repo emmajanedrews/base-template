@@ -20,9 +20,9 @@ youtube_code: hCTdRU8ij9U
 
 {% include youtube.html %}
 
-My New Year’s resolution for 2018 is not to lose weight or to have a better diet because I feel like I fail at that every single year. For my resolution this year, I’m going to stop making boring videos.
+My promise to you in 2018. . . NO MORE BORING VIDEOS! I'm going to make it my top priority to show you how to yield the best results in our Hudson County Market.
 
-Because so many of you are interested in real estate, I'm going to show you how to flip a property, rather than just tell you.
+Given that 1 in 5 of my clients are interested in real estate investment, i figured i would LITERALLY put my money where my mouth is. So i decided and flip a home and bring you all along for the ride!
 
 **The first rule of real estate is that the location of the property is paramount in mitigating your risk.** I chose a property in a good central location to New York City transportation. There are two bus stops, a light rail, a path station, and now there’s a new restaurant called Road that was just put in, making it a pretty hot up-and-coming spot.
 
