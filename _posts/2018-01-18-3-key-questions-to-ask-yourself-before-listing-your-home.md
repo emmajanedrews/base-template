@@ -28,6 +28,6 @@ Oftentimes, home sellers aren’t sure if the time is right when it comes to sel
 
 **2. What’s next?** Are you looking to downsize or possibly upsize to a bigger house? Are you looking to have a mortgage-free lifestyle and sell your property and buy something else with cash?
 
-**3. Who is your ideal buyer?**You need to identify who would be the ideal buyer for your property. Once you identify the ideal buyer for your property—maybe they’re a millennial, a baby boomer, or a part of Generation X—you need to ask yourself if you need to do a major renovation or you only need to do a little staging and a paint job on a lower budget.
+**3. Who is your ideal buyer?** You need to identify who would be the ideal buyer for your property. Once you identify the ideal buyer for your property—maybe they’re a millennial, a baby boomer, or a part of Generation X—you need to ask yourself if you need to do a major renovation or you only need to do a little staging and a paint job on a lower budget.
 
 If you have any questions about this topic or you’re thinking of buying or selling a home, feel free to give me a call. I’d be happy to assist you.
