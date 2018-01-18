@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Stay Committed to Your Resolutions
-date: 2018-01-17 11:44:06
+date: 2018-01-17 11:44:00
 tags:
   - Real Estate
 excerpt: How can you reach your 2018 resolutions? We have some tips to help you out.
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: WnDE3idVcfQ
+youtube_code: 4W3T4Q4bcTg
 ---
 
 
