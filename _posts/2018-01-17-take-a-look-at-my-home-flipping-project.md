@@ -22,7 +22,7 @@ youtube_code: odB4uQwUIKU
 
 My New Year’s resolution for 2018 is not to lose weight or to have a better diet because I feel like I fail at that every single year. For my resolution this year, I’m going to stop making boring videos.
 
-The first idea that I had was that, because I have so many people interested in real estate, rather than just telling, I’m going to show you how how to flip a property.&nbsp;
+Because so many of you are interested in real estate, I'm going to show you how to flip a property, rather than just tell you.
 
 **The first rule of real estate is that the location of the property is paramount in mitigating your risk.** I chose a property in a good central location to New York City transportation. There are two bus stops, a light rail, a path station, and now there’s a new restaurant called Road that was just put in, making it a pretty hot up-and-coming spot.&nbsp;
 
