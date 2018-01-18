@@ -8,7 +8,8 @@ excerpt: >-
   As a seller, what items should you leave behind for the buyer when you move
   out of your home? Today, I’ve got a list of some key items and some things to
   consider.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520How%2520to%2520prepare%2520your%2520home%2520for%2520its%2520next%2520owner.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -30,7 +31,7 @@ As a seller, what items should you leave behind for the buyer when you move out 
 
 **4. Leave any warranty paperwork.** Remember to leave behind receipts for repairs and instruction manuals for any of the items in your home.
 
-**5. Leave building materials.&nbsp;**Some buyers will not want these items. Which brings us to the next point.
+**5. Leave building materials.**Some buyers will not want these items. Which brings us to the next point.
 
 **6. Ask buyers if they want certain items.** This includes paint, building materials, shelving units, and big pieces of furniture that are difficult to remove.
 
