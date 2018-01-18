@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Should You Purchase a Home Instead of Renting?
-date: 2018-01-17 15:29:14
+date: 2018-01-17 15:29:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: vqgCLaJgWxw
+youtube_code: 4v5JUa2UStw
 ---
 
 
