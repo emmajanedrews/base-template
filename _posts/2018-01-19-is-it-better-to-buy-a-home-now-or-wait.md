@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is It Better to Buy a Home Now or Wait?
-date: 2018-01-19 15:51:02
+date: 2018-01-19 15:51:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -16,7 +16,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/no-16.jpg
 youtube_code: 14YsBjPNh8A
 ---
 
