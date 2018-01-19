@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Tips for Achieving Great Credit
-date: 2018-01-12 09:33:21
+date: 2018-01-12 09:33:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -13,7 +13,7 @@ pullquote: 'Pay down your credit cards, but not too far.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/no-4.jpg
+youtube_alternate_image: /uploads/no-2.jpg
 youtube_code: wOCXtjdtnyY
 ---
 
