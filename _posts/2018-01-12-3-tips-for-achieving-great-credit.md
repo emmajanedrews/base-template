@@ -20,7 +20,7 @@ youtube_code: wOCXtjdtnyY
 
 {% include youtube.html %}
 
-As you may or may not know, 850 is the best possible credit score that you can get. While it may seem out of reach, there are actually quite a few people who crest that mountain and reach the top. Careful budgeting and detailed attention to every aspect of their financial picture are the umbrella tactics that these high scorers use to get and maintain that score. **These are tactics that you should be using, too**. If you’re looking to buy a home in 2018, here are three tips that will help you get a better grip on where your credit is at and where it needs to go:
+As you may or may not know, 850 is the best possible credit score that you can get. While it may seem out of reach, there are actually quite a few people who crest that mountain and reach the top. Careful budgeting and detailed attention to every aspect of their financial picture are the umbrella tactics that these high scorers use to get and maintain that score. **These are tactics that you should be using, too**. If you’re looking to buy a home in 2018, here are three tips that will help you get a better grip on where your credit is and where it needs to go:
 
 **1. Just shoot for a 720 score**. If 850 seems out of reach, lower your sights to 720 instead. With this score, you’ll still have lenders fighting for your business and you’ll still be offered the best possible interest rate in most instances. This will also give you the lowest possible long-term loan costs of any consumer.
 
