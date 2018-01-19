@@ -1,6 +1,8 @@
 ---
 youtube_code: JcLYr4InaK8
-excerpt:
+excerpt: >-
+  From 2017’s numbers, we can confidently say we’re not in a bubble, and your
+  home should only increase in value moving forward in 2018.
 enclosure:
 pullquote: You can expect your home to receive another 5% bump in value.
 enclosure_type: video/mp4
@@ -9,11 +11,11 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: What Can Our 2017 Market Report Tell You About 2018?
-date: '2018-01-12T10:26:00.001-08:00'
+date: 2018-01-12 18:26:00
 author: Vyral Admin
 tags:
   - Market Update
-modified_time: '2018-01-12T10:38:23.794-08:00'
+modified_time:
 thumbnail: 'https://i.ytimg.com/vi/JcLYr4InaK8/default.jpg'
 blogger_id: 'tag:blogger.com,1999:blog-3744413336515149745.post-5592784988191246727'
 blogger_orig_url: >-
