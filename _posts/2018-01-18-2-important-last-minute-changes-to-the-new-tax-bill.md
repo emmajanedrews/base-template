@@ -31,7 +31,7 @@ This change was negotiated out at the last minute, though, and **the rule is sta
 
 The other would-be change that was negotiated out at the last minute was the mortgage interest tax deduction amount. The original rule was that you could deduct the interest you pay on a mortgage for up to $1 million (or $1.1 million, actually). The proposal was to lower this deduction to $500,000.
 
-Instead, **they only lowered it to $750,000.** This means you can still itemize out the interest you pay on your secondary home or vacation residence as long as that home plus your primary residence doesn’t equal more than $750,000.
+Instead, **they only lowered it to $750,000.** This means you can still itemize out the interest you pay on your second home or vacation residence as long as that home plus your primary residence doesn’t equal more than $750,000.
 
 All in all, these last-minute changes ended up being less harsh on the real estate market, which is great news.
 
