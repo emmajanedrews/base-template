@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Tips for Achieving Great Credit
-date: 2018-01-12 09:33:00
+date: 2018-01-19 09:33:00
 tags:
   - Home Buyer Tips
 excerpt: >-
