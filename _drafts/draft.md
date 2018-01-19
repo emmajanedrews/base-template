@@ -12,7 +12,8 @@ excerpt: >-
   could take certain data and go from one firm to another without the fear of
   litigation. To find out what this major shift in the business means to you,
   watch my latest video.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Danny+Sarch/Videos/Leitner+Sarch+Consultants+%257C+Why+Are+Firms+Leaving+the+Broker+Recruitment+Protocol%253F.mp4
 pullquote: >-
   The protocol dictated the methodology by which an advisor could take certain
   data and go from one firm to another without the fear of litigation.
@@ -34,11 +35,11 @@ The big news has been that **UBS and Morgan Stanley have decided to leave the br
 
 **The protocol was designed as an agreemen**t among major firms in 2004, which **dictated the methodology by which an advisor could take certain data and go from one firm to another without the fear of litigation.** The firms signed it because they felt that they would be taking more advisors in than they would be losing. Therefore, it made sense to be part of the protocol.
 
-The dominance of wirehouses in this business for the past four years has been dissipating, and** they’ve now decided that they are at more risk of losing people going forward than they are of gaining more advisors.**
+The dominance of wirehouses in this business for the past four years has been dissipating, and\*\* they’ve now decided that they are at more risk of losing people going forward than they are of gaining more advisors.\*\*
 
 If you’re convinced that you’re going to be losing more advisors than gaining, why would you stay in a protocol that makes it easier for advisors to depart? Since Wells and Merrill Lynch have the same challenges as big firms like Morgan Stanley and UBS do, it makes sense to me that it is much more likely than not that they will also leave the protocol sometime in 2018.
 
-If you’re at Wells and Merrill Lynch,** I think you owe it to yourself to learn from the playbook of what’s happened at these other two firms.**
+If you’re at Wells and Merrill Lynch,\*\* I think you owe it to yourself to learn from the playbook of what’s happened at these other two firms.\*\*
 
 {% include pullquote.html %}
 
