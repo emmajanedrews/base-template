@@ -31,8 +31,6 @@ blogger_orig_url: >-
 
 <div class="post-cta"><em>Want to sell your home? <strong><a href="http://gostgeorgehomevalue.com/">Get a FREE home value report</a></strong><br />Want to buy a home? <strong><a href="http://www.stgeorgehomesearching.com/">Search all homes for sale</a></strong></em></div>
 
-<div class="post-cta">&nbsp;</div>
-
 In case you haven’t heard, things are moving and shaking here in Washington County. According to an article published by The Spectrum this week, we’re seeing a record amount of construction.
 
 Before I talk about the numbers, let me clarify something. The term “record construction” can be misconstrued. We actually pulled more building permits and built more homes in 2005 than we did in 2017, so don’t let this news mislead you. However, it seems like everywhere you look they’re tearing something down and building something new.
