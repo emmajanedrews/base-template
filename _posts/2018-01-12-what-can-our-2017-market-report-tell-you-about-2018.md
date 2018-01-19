@@ -25,7 +25,9 @@ blogger_orig_url: >-
 
 {% include youtube.html %}
 
-<center>*From 2017’s numbers, we can confidently say we’re not in a bubble, and your home should only increase in value moving forward in 2018.*</center>
+<center><em>From 2017&rsquo;s numbers, we can confidently say we&rsquo;re not in a bubble, and your home should only increase in value moving forward in 2018.</em></center>
+
+<center>&nbsp;</center>
 
 <div class="post-cta"><em>Want to sell your home? <strong><a href="http://gostgeorgehomevalue.com/">Get a FREE home value report</a></strong><br />Want to buy a home? <strong><a href="http://www.stgeorgehomesearching.com/">Search all homes for sale</a></strong></em></div>
 
