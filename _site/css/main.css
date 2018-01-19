@@ -2779,3 +2779,15 @@ form select {
 .radio-show {
   font-size: 18px;
   width: 100%; }
+
+.team-pic {
+  border: 1px solid #cfcfcf;
+  margin-bottom: 20px;
+  margin-top: 20px; }
+  .team-pic h5 {
+    margin-left: 10px; }
+  .team-pic hr {
+    margin-top: 0;
+    margin-bottom: 10px; }
+  .team-pic .team-pic-headshot img {
+    width: 100%; }

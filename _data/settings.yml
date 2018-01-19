@@ -100,6 +100,7 @@ images:
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
+  team_pic: /img/team-pic.jpg
 site_colors:
   brand_color: '#194077'
   theme_color: '#6e6f73'
