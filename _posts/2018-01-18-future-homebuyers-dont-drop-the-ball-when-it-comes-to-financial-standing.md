@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Future Home Buyers: Don’t Drop the Ball When It Comes to Financial Standing'
-date: 2018-01-18 12:30:49
+title: 'Future Homebuyers: Don’t Drop the Ball When It Comes to Financial Standing'
+date: 2018-01-18 12:30:00
 tags:
   - Home Buyer Tips
 excerpt: >-
