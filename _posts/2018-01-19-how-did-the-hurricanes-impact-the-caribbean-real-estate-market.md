@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Did the Hurricanes Impact the Caribbean Real Estate Market?
-date:
+date: 2018-01-19 14:54:36
 tags:
   - Home Buyer Tips
 excerpt: >-
