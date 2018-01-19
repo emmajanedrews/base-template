@@ -8,7 +8,7 @@ pullquote: You can expect your home to receive another 5% bump in value.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /img/cover.jpg
+youtube_alternate_image: /uploads/1-11---yt-2.jpg
 layout: post
 title: What Can Our 2017 Market Report Tell You About 2018?
 date: 2018-01-12 18:26:00
