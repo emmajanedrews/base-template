@@ -39,7 +39,7 @@ The dominance of wirehouses in this business for the past four years has been di
 
 If you’re convinced that you’re going to be losing more advisors than gaining, why would you stay in a protocol that makes it easier for advisors to depart? Since Wells and Merrill Lynch have the same challenges as big firms like Morgan Stanley and UBS do, it makes sense to me that it is much more likely than not that they will also leave the protocol sometime in 2018.
 
-If you’re at Wells and Merrill Lynch, I think you owe it to yourself to learn from the playbook of what’s happened at these other two firms.\*\*
+If you’re at Wells and Merrill Lynch, I think you owe it to yourself to learn from the playbook of what’s happened at these other two firms.
 
 {% include pullquote.html %}
 
