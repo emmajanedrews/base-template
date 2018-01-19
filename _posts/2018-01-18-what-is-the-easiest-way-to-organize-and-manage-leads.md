@@ -27,7 +27,7 @@ As real estate professionals and business professionals, it’s imperative that 
 
 That’s where the term “CRM” comes from. CRM stands for “customer relationship management,” and that’s exactly what these systems do. They allow you to manage and follow up with your clients over the course of time.
 
-There are many different CRMs out there, but they all share a basic premise. **CRMs give you a centralized place to manage communications, future follow ups, and records and notes.** Using this kind of system will allow you to grow a bigger and more abundant business.
+There are many different CRMs out there, but they all share a basic premise. **CRMs give you a centralized place to manage communications, future follow-ups, and records and notes.** Using this kind of system will allow you to grow a bigger and more abundant business.
 
 However, there is a lot of confusion out there about how to segment one’s database. Ultimately, the most important thing when it comes to database management is to develop a plan and stick to it.
 
