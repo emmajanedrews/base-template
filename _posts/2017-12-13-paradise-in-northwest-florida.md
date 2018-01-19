@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   We’re doing a little bit of exploring today.   Defuniak Springs is a beautiful
   area with tons of countryside, and it’s only an hour north of the beach.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Nathan+Abbott/Nathan+Abbott+Team-+Explore+Defuniak+Springs+(1).mp4
 pullquote: See the beauty that Defuniak Springs has to offer.
 enclosure_type: video/mp4
 enclosure_time:
