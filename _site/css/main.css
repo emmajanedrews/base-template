@@ -1446,7 +1446,7 @@ html[xmlns] .flexslider .slides {
 .navbar-andross {
   border: none;
   border-radius: 0;
-  min-height: 65px;
+  min-height: 45px;
   background: transparent;
   width: 100%;
   overflow: hidden; }
@@ -1454,7 +1454,6 @@ html[xmlns] .flexslider .slides {
 .navbar-andross .navbar-brand {
   color: #df8f00;
   padding-top: 20px;
-  padding-bottom: 33px;
   font-size: 20px;
   text-transform: uppercase;
   max-width: 65%; }
@@ -1589,7 +1588,7 @@ label.tree-toggle {
 .hero-img {
   background-position: center;
   background-size: cover;
-  padding-top: 10rem; }
+  padding-top: 5rem; }
 
 #hero {
   background-position: center;
@@ -1598,10 +1597,16 @@ label.tree-toggle {
   background-repeat: no-repeat;
   text-align: center; }
 
+.sponsors-logo {
+  max-width: 45rem;
+  padding-top: 1.5rem;
+  -webkit-filter: drop-shadow(0px 2px 7px black);
+  filter: drop-shadow(0px 2px 7px black); }
+
 .site-logo {
   width: 90%;
   max-width: 30rem;
-  padding: 0 1rem;
+  padding: 20px;
   -webkit-filter: drop-shadow(0px 2px 7px black);
   filter: drop-shadow(0px 2px 7px black); }
 
@@ -1610,7 +1615,7 @@ label.tree-toggle {
   text-shadow: 0px 2px 7px black;
   text-transform: uppercase;
   font-size: 6.5rem;
-  padding-bottom: 4rem;
+  padding-bottom: 2rem;
   margin-bottom: 0;
   font-weight: bold; }
 
@@ -1649,6 +1654,12 @@ label.tree-toggle {
 @media (max-width: 400px) {
   .cta {
     padding: 0.5rem; } }
+.sponsor-logo {
+  width: 100%;
+  padding: 0;
+  -webkit-filter: drop-shadow(0px 2px 7px black);
+  filter: drop-shadow(0px 2px 7px black); }
+
 :root {
   font-size: 10px; }
 
