@@ -22,9 +22,9 @@ youtube_code: 4nwfkaIq9gg
 
 How can you keep yourself “mortgage-worthy?” There are three things to avoid when it comes to buying a home.
 
-1. **Don’t take out any new lines of credit** from the time you are pre-approved for your mortgage until the time you close on your home. Doing so throughout the process could change your financials and render your you unable to carry out the transaction.
+1. **Don’t take out any new lines of credit** from the time you are pre-approved for your mortgage until the time you close on your home. Doing so throughout the process could change your financials and render you unable to carry out the transaction.
 2. **Don’t deposit unsourced cash into your bank account.** If you’re someone who likes to keep cash in a safe, or whatever the case may be, make sure that you deposit that money into your bank account for a minimum of 60 days. After that point, it will be seasoned and therefore eligible to be used for a down payment on a mortgage. If you’re receiving a gift from a relative, that’s another situation in which the transfer will have to be documented. Properly document all your cash deposits.
-3. **Don’t wait until the last minute to schedule an appointment with a Realtor** (like myself) or a mortgage lender. If you do so earlier than later, you’ll have a clearer picture of what your finances look like, allowing you to clean up whatever messes you have in your credit history. You’ll also be able to search for properties that are within your budget range, meaning that if you want your payment at a specific rate, we can look only for properties that fit that criteria.
+3. **Don’t wait until the last minute to schedule an appointment with a Realtor** (like myself) or a mortgage lender. If you do so earlier rather than later, you’ll have a clearer picture of what your finances look like, allowing you to clean up whatever messes you have in your credit history. You’ll also be able to search for properties that are within your budget range, meaning that if you want your payment at a specific rate, we can look only for properties that fit that criteria.
 
 {% include pullquote.html %}
 
