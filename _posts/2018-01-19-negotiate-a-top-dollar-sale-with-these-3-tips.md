@@ -20,7 +20,7 @@ youtube_code: PGcOr-_juIk
 
 {% include youtube.html %}
 
-The greater Fort Hood area differs slightly than most markets in the rest of the country in that we’re in a buyer’s market. With all the new construction happening in our are, there are three ways you can take advantage of the competition. The competition, of course, being the builders.
+The greater Fort Hood area differs slightly than most markets in the rest of the country in that we’re in a buyer’s market. With all the new construction happening in our area, there are three ways you can take advantage of the competition. The competition, of course, being the builders.
 
 First, you can **price your home to include the closing costs**. Buyers will probably ask for the closing costs to be paid for, so you can prepare for that in your pricing. New home builders are also offering to pay all closing costs, but sometimes they prefer to use their own lender.
 
