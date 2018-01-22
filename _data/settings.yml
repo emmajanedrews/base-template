@@ -36,12 +36,13 @@ client:
   email: Dave@DaveFriedmanTeam.com
   url: http://www.ClickCharlestonSC.com
 
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808234';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: http://dave.clickcharlestonsc.com/sell.php?ppc=Vyral+Update&addht=%23VyralUpdate
   second_CTA_text: Home Search
   second_CTA_URL: http://clickcharlestonsc.com/
-  VR_form: http://oi.vresp.com?fid=3136147ca0
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
