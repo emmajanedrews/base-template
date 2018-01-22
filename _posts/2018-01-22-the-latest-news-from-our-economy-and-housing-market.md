@@ -23,7 +23,7 @@ There are some important economic changes and recent news items from our housing
 
 First, the minutes from the Federal Reserve’s last meeting showed concerns over sluggish inflation. Lack of inflation in the past has helped keep interest rates low.
 
-**The labor market continues to show strength.**The private sector added 250,000 jobs this past December of 2017, which is our biggest increase since March of 2017.
+**The labor market continues to show strength.** The private sector added 250,000 jobs this past December of 2017, which is our biggest increase since March of 2017.
 
 In housing news, **home prices continue to soar.** The Federal Housing Finance Agency is considering using the VantageScore model over the FICO model for mortgage lending. This could result in more qualified buyers.
 
@@ -33,6 +33,6 @@ The federal tax reform plan just reduced the mortgage cap from $1 million to $75
 
 This affects buyers who are purchasing in excess of $750,000 by possibly shifting their purchasing habits—instead of purchasing in those high-priced areas, they’ll be looking to purchase in more rural or suburban areas. The president just passed an executive order to improve high-speed internet for homes in rural areas, which should make those homes more competitive.
 
-**More people are working and making money, the stock market is good, interest rates are low, buyers are purchasing, and inventory is still very low.**It’s a great time to buy or sell your home.
+**More people are working and making money, the stock market is good, interest rates are low, buyers are purchasing, and inventory is still very low.** It’s a great time to buy or sell your home.
 
 If you have any questions about these latest changes or you’re thinking about buying or selling a home in our market, don’t hesitate to reach out to me. I’d be happy to help you.
