@@ -32,12 +32,13 @@ client:
   email: Dave@DaveFriedmanTeam.com
   url: http://www.ClickCharlestonSC.com
 
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808650';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+
 CTAs:
   first_CTA_text: Apply Now
   first_CTA_URL: https://dave-friedman-team.breezy.hr/#positions
   second_CTA_text:
   second_CTA_URL:
-  VR_form: http://oi.vresp.com?fid=d66117ef71
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/006.jpg
