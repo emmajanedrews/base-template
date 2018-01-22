@@ -32,6 +32,6 @@ Unless it’s something like a birth certificate, wedding certificate, or anothe
 
 When you do get rid of important papers, though, don’t just toss them. **Make sure you shred anything that could have your personal information on it.** If you don’t own a shredder, there are many places you can have this done. You can even come down to my office if you need something shredded badly and don’t know where else to go.
 
-**The bottom line is this: get rid of unnecessary paper when you clean your home.**Most of it isn’t important to keep, is a fire hazard, and is just taking up space. Paper causes a lot of clutter. It can really be the Achilles’ heel of a home you’re preparing to sell.
+**The bottom line is this: get rid of unnecessary paper when you clean your home.&nbsp;**Most of it isn’t important to keep, is a fire hazard, and is just taking up space. Paper causes a lot of clutter. It can really be the Achilles’ heel of a home you’re preparing to sell.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
