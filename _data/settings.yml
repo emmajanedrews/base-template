@@ -119,8 +119,11 @@ images:
   hero_logo_path-3: /img/logo-3.png
   hero_logo_path-4: /img/logo-4.png
   hero_logo_path-5: /img/logo-5.png
+  hero_logo_path_sponsors: /img/sponsors.png
+  hero_logo_path_sponsors2: /img/sponsors2.png
+  hero_logo_path_sponsors3: /img/sponsors3.png
   logo_width_number: 30
-  hero_text: Real Estate Coaching Blog
+  hero_text: The Dave Hooke Team - Real Estate Coaching Blog
   hero_background_hex: '#00573d'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg

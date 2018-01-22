@@ -1589,7 +1589,7 @@ label.tree-toggle {
 .hero-img {
   background-position: center;
   background-size: cover;
-  padding-top: 10rem; }
+  padding-top: 5rem; }
 
 #hero {
   background-position: center;
@@ -1598,10 +1598,16 @@ label.tree-toggle {
   background-repeat: no-repeat;
   text-align: center; }
 
+.sponsors-logo {
+  max-width: 40rem;
+  padding-top: 4.5rem;
+  -webkit-filter: drop-shadow(0px 2px 7px black);
+  filter: drop-shadow(0px 2px 7px black); }
+
 .site-logo {
   width: 90%;
   max-width: 30rem;
-  padding: 0 1rem;
+  padding: 20px;
   -webkit-filter: drop-shadow(0px 2px 7px black);
   filter: drop-shadow(0px 2px 7px black); }
 
@@ -1609,10 +1615,9 @@ label.tree-toggle {
   color: white;
   text-shadow: 0px 2px 7px black;
   text-transform: uppercase;
-  font-size: 6.5rem;
-  padding-bottom: 4rem;
-  margin-bottom: 0;
-  font-weight: bold; }
+  font-size: 5rem;
+  padding-bottom: 2rem;
+  margin-bottom: 0; }
 
 #long-title {
   color: white;
@@ -1625,14 +1630,14 @@ label.tree-toggle {
 
 @media (max-width: 1100px) {
   .site-title {
-    font-size: 5rem; } }
+    font-size: 4rem; } }
 @media (max-width: 1000px) {
   .site-logo {
     max-width: 20rem; } }
 @media (max-width: 760px) {
   .site-logo {
     max-width: 20rem;
-    margin-top: 4rem; }
+    margin-top: 3rem; }
 
   .site-title {
     font-size: 5rem; } }
@@ -1642,13 +1647,19 @@ label.tree-toggle {
     margin-top: 2rem; }
 
   .site-title {
-    font-size: 3.5rem; }
+    font-size: 2rem; }
 
   .cta {
     padding: 1rem; } }
 @media (max-width: 400px) {
   .cta {
     padding: 0.5rem; } }
+.sponsor-logo {
+  width: 100%;
+  padding: 0;
+  -webkit-filter: drop-shadow(0px 2px 7px black);
+  filter: drop-shadow(0px 2px 7px black); }
+
 :root {
   font-size: 10px; }
 
