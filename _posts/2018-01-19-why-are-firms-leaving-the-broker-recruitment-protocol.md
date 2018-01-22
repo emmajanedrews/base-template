@@ -50,6 +50,6 @@ Since you’re a planner helping your clients with portfolio insurance, life ins
 However, if you’re thinking of leaving or if you’ve not been happy, you owe it to yourself and your career to do two things before your firm leaves the protocol:
 
 1. **You owe it to yourself to explore and see what the best firms for yourself might be.**This might mean going independent or switching to a smaller firm. Whatever it is, you can’t know whether it’s right for you, your clients, and your practice until you actually leave. There is a lot of preparation for a successful transition that you can do with the protection of the protocol that is forbidden with said protection.
-2. **Give me a call**so I can give you some advice about your options if your firm is leaving the protocol.
+2. **Give me a call&nbsp;**so I can give you some advice about your options if your firm is leaving the protocol.
 
 In my next video, I’ll be discussing what you can do if, unfortunately, you’re with one of those firms that has already left the protocol. If you have any questions about this topic, please give me call at (914) 682-4000. I look forward to hearing from you soon.
