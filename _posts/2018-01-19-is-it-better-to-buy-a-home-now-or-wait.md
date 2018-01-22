@@ -29,7 +29,7 @@ Every market is different, just like everyone’s financial situation is differe
 
 {% include pullquote.html %}
 
-Two things we can’t control are the rise and fall of home prices and the rise and fall of interest rates. That’s why **the best time to buy a house is whenever is best for you and your family and your financial situation**.
+Two things we can’t control are the rise and fall of home prices and the rise and fall of interest rates. That’s why **the best time to buy a house is whenever is best for you, your family, and your financial situation**.
 
 Waiting to buy may cost you, but it’s more important that you buy when the time is right for you. I know I’m not worried about the cost of waiting.
 
