@@ -13,7 +13,7 @@ excerpt: >-
   litigation. To find out what this major shift in the business means to you,
   watch my latest video.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Danny+Sarch/Videos/Leitner+Sarch+Consultants+%257C+Why+Are+Firms+Leaving+the+Broker+Recruitment+Protocol%253F.mp4
+  https://s3.amazonaws.com/vyralmarketing/Danny+Sarch/Videos/2018/Leitner+Sarch+Consultants+%257C+Why+Are+Firms+Leaving+the+Broker+Recruitment+Protocol%253F+(1).mp4
 pullquote: >-
   The protocol dictated the methodology by which an advisor could take certain
   data and go from one firm to another without the fear of litigation.
@@ -21,7 +21,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: uNepOzi4mMc
+youtube_code: yXtb7uPH-bw
 ---
 
 
@@ -50,6 +50,6 @@ Since you’re a planner helping your clients with portfolio insurance, life ins
 However, if you’re thinking of leaving or if you’ve not been happy, you owe it to yourself and your career to do two things before your firm leaves the protocol:
 
 1. **You owe it to yourself to explore and see what the best firms for yourself might be.**This might mean going independent or switching to a smaller firm. Whatever it is, you can’t know whether it’s right for you, your clients, and your practice until you actually leave. There is a lot of preparation for a successful transition that you can do with the protection of the protocol that is forbidden with said protection.
-2. **Give me a call&nbsp;**so I can give you some advice about your options if your firm is leaving the protocol.
+2. **Give me a call**so I can give you some advice about your options if your firm is leaving the protocol.
 
-In my next video, I’ll be discussing what you can do if, unfortunately, you’re with one of those firms that has already left the protocol. If you have any questions about this topic, please give me call at (914) 682-4000. I look forward to hearing from you soon.&nbsp;
+In my next video, I’ll be discussing what you can do if, unfortunately, you’re with one of those firms that has already left the protocol. If you have any questions about this topic, please give me call at (914) 682-4000. I look forward to hearing from you soon.
