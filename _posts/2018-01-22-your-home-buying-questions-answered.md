@@ -38,3 +38,5 @@ Nevertheless, a high-quality agent will be able to negotiate on your behalf for 
 If you have any more questions about the home buying process, you can contact Chad at (281) 932-857.
 
 And as always, if you’ve got any other real estate questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+
+&nbsp;
