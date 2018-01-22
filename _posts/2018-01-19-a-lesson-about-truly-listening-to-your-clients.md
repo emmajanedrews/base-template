@@ -30,6 +30,6 @@ You also need to know that there’s a difference between listening and waiting 
 
 The thing is that people don’t care about that until they know that you actually care about them, their needs, wants, and desires.
 
-I would tell any real estate agent just beginning their career to **slow down, listen, and care about what the clients are saying,** and that if you make an investment in people, it always returns dividends.
+I would tell any real estate agent just beginning their career to **slow down, listen, and care about what their clients are saying,** and that if you make an investment in people, it always returns dividends.
 
 If you have any questions about this or other real estate-related subjects, please feel free to reach out to us. We’d be happy to help.
