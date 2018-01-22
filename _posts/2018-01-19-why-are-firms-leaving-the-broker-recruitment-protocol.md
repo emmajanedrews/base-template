@@ -13,7 +13,7 @@ excerpt: >-
   litigation. To find out what this major shift in the business means to you,
   watch my latest video.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Danny+Sarch/Videos/2018/Leitner+Sarch+Consultants+%257C+Why+Are+Firms+Leaving+the+Broker+Recruitment+Protocol%253F+(1).mp4
+  https://s3.amazonaws.com/vyralmarketing/Danny+Sarch/Videos/2018/Leitner+Sarch+Consultants+%257C+Why+Are+Firms+Leaving+the+Broker+Recruitment+Protocol%253F+(2).mp4
 pullquote: >-
   The protocol dictated the methodology by which an advisor could take certain
   data and go from one firm to another without the fear of litigation.
@@ -21,7 +21,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: yXtb7uPH-bw
+youtube_code: 0yPwlF9mSHI
 ---
 
 
