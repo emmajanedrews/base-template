@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Is the Easiest Way to Organize and Manage Leads?
-date: 2018-01-18 13:45:21
+date: 2018-01-18 13:45:00
 tags:
   - Real Estate
 excerpt: >-
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 1qA3kUhOj9I
+youtube_code: Zb9Uzy_rlCE
 ---
 
 
@@ -39,7 +39,7 @@ The A list should be made up of people you have worked with and referred you to 
 
 You should be dividing your database into these A, B, and C categories at the very minimum.
 
-**Once you’ve segmented your clients, it’s key to have a follow-up plan.&nbsp;**One of the great things about CRMs is that they not only help you manage past relationships, they are also set up to give you reminders for when you need to follow up with clients.
+**Once you’ve segmented your clients, it’s key to have a follow-up plan.**One of the great things about CRMs is that they not only help you manage past relationships, they are also set up to give you reminders for when you need to follow up with clients.
 
 Here at the Nickley Group, we utilize two different CRMs. Our entire back-end business is run out of Top Producer and our sales team uses Commissions Inc.
 
