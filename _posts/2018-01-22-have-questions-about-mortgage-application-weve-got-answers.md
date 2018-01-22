@@ -24,7 +24,7 @@ In this business, we work with a lot of mortgage lenders and banks, but there ar
 
 **Is the mortgage process difficult?**
 
-It can be, but it really depends on the loan officer themselves. A loan officer is the one who sets expectations upon your group. If the officer tells the client specifically what they need to provide, what time they should have it by, and also explains the process from start to finish, then it’s actually a breeze. It’s about setting the proper expectation.
+It can be, but it really depends on the loan officer themselves. A loan officer is the one who sets expectations upon your group. If the officer tells the client specifically what they need to provide, what time they should have it by, and also explains the process from start to finish, then it’s actually a breeze. It’s about setting the proper expectations.
 
 **Does it cost anything to apply for a mortgage?**
 
