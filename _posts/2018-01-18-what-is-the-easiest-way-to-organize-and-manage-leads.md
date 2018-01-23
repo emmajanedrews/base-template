@@ -9,7 +9,8 @@ excerpt: >-
   we have one central place where we can manage and keep records of our business
   relationships over time. This will allow us to create even more business in
   the future.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Tom+Nickley/Training+Videos/Orlando+Real+Estate+Agent-+What+can+CRMs+do+for+your+business%253F.mp4
 pullquote: >-
   The most important thing when it comes to database management is to develop a
   plan and stick to it.
@@ -39,7 +40,7 @@ The A list should be made up of people you have worked with and referred you to 
 
 You should be dividing your database into these A, B, and C categories at the very minimum.
 
-**Once you’ve segmented your clients, it’s key to have a follow-up plan.&nbsp;**One of the great things about CRMs is that they not only help you manage past relationships, they are also set up to give you reminders for when you need to follow up with clients.
+**Once you’ve segmented your clients, it’s key to have a follow-up plan.**One of the great things about CRMs is that they not only help you manage past relationships, they are also set up to give you reminders for when you need to follow up with clients.
 
 Here at the Nickley Group, we utilize two different CRMs. Our entire back-end business is run out of Top Producer and our sales team uses Commissions Inc.
 
