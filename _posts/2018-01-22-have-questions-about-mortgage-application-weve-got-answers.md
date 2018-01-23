@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: FndM3QGDAMg
+youtube_code: NtpVvbBudW8
 ---
 
 
@@ -42,7 +42,7 @@ They are moving up, so I believe that we’ll be seeing some rate hikes this yea
 
 **If I don’t have any money to put down toward the house, can I still buy?**
 
-You can, but it’s quite specific now. There are a lot of programs and grants out there that offer clients the ability to buy with no money down. If a client doesn’t have money for a down payment and they don’t qualify for those programs and grants, we can discuss how they might be able to get the money through other avenues.&nbsp;
+You can, but it’s quite specific now. There are a lot of programs and grants out there that offer clients the ability to buy with no money down. If a client doesn’t have money for a down payment and they don’t qualify for those programs and grants, we can discuss how they might be able to get the money through other avenues.
 
 **After going under contract, how long does it take to get to closing?**
 
