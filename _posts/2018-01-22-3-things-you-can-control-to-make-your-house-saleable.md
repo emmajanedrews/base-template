@@ -26,7 +26,7 @@ There are three factors that are within a seller’s control that, if unaddresse
 
 **1. Whether or not you’ve hired a broker or you’ve hired the right broker.** If nobody knows that your home is for sale, nobody is going to buy it. The marketing of your property is what the broker should be doing to get your listing in front of as many consumers as possible. The quality of their marketing strategy matters as well, so evaluate exactly what it is your broker is doing to market your property.
 
-**2. The condition of your home.** Not every house needs to be upgraded. You could have a house that’s well-maintained where increasing the condition might make it sell for more money, but you won’t actually get a return on that investment. There are certain things you can do with regards to the condition that will improve the likelihood of your home’s sale, such as cosmetic repairs, staging, and professional cleaning. Ask your agent whether or not the project you want to begin will actually be worth the investment.
+**2. The condition of your home.** Not every house needs to be upgraded. You could have a house that’s well maintained where increasing the condition might make it sell for more money, but you won’t actually get a return on that investment. There are certain things you can do with regards to the condition that will improve the likelihood of your home’s sale, such as cosmetic repairs, staging, and professional cleaning. Ask your agent whether or not the project you want to begin will actually be worth the investment.
 
 {% include pullquote.html %}
 
