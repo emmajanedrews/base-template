@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Does the New Tax Reform Bill Impact Real Estate?
-date: 2018-01-19 13:36:04
+date: 2018-01-19 13:36:00
 tags:
   - Market Update
 excerpt: How does The Tax Cuts and Jobs Act impact the Memphis real estate market?
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/tax-reform-youtube.jpg
-youtube_code: Cqhe9cq7zg8
+youtube_code: 0pLcT97nYyw
 ---
 
 
