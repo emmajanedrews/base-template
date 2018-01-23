@@ -26,6 +26,6 @@ According to Roger, when a basement wall has cracked, failed, and moved too far,
 
 {% include pullquote.html %}
 
-If you’re having problems with your basement or know somebody who is, you can’t do better than these guys. **Give them a call at (414) 744-6900 or visit them at accuratebasementrepair.com if you have any questions**.
+If you’re having problems with your basement or know somebody who is, you can’t do better than these guys. **Give them a call at (414) 744-6900 or visit them at [accuratebasementrepair.com](accuratebasementrepair.com) if you have any questions**.
 
 In the meantime, we’re always here to answer your real estate questions and help with anything you need. Don’t hesitate to reach out to us anytime. We look forward to hearing from you!
