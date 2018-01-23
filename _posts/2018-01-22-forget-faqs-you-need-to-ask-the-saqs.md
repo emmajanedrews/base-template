@@ -26,7 +26,7 @@ First off, let me say congrats on your new real estate career. I’m very excite
 
 {% include pullquote.html %}
 
-When you’re looking to join a team or brokerage, you should be the one doing the interviewing. Not the other way around. You want to make sure that they have what you need to perform at a high level.** I’ve actually put together a list of SAQs for you to ask the next time you meet with a broker.**
+When you’re looking to join a team or brokerage, you should be the one doing the interviewing. Not the other way around. You want to make sure that they have what you need to perform at a high level.&nbsp;**I’ve actually put together a list of SAQs for you to ask the next time you meet with a broker.**
 
 They include questions like, “How is your company ranked in the marketplace?” and “What technology is available to me for free?”
 
