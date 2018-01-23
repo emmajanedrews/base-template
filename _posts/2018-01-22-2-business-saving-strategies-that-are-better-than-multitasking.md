@@ -33,9 +33,9 @@ But when you’re switch-tasking, you’re wasting time. It takes a lot of effor
 
 You’ll notice that as you do this, the two things can’t occur simultaneously. Instead, you end up saying things like “A, one. B, two. C, three…” and so on and so forth. And **even though each task is simple on their own, it’s easy to become confused as you try to handle both at once.**
 
-After you’ve done this experiment, try timing yourself doing just one of these tasks. The difference between how long it takes you to count to 26 and then say the alphabet instead of trying to do both at once might surprise you.
+After you’ve done this experiment, try timing yourself doing just one of these tasks. In terms of time spent, the difference between counting to 26 and saying the alphabet at the same time versus doing one after the other might surprise you.
 
-Now, counting and saying the alphabet are both pretty simple. That being said, imagine how much more difficult it would be to perform two complex tasks at once. The point is: **Tasks are almost always completed more quickly when they are done one at a time.**
+Now, counting and saying the alphabet are both pretty simple. That being said, imagine how much more difficult it would be to perform two complex tasks at once. The point is that **tasks are almost always completed more quickly when they are done one at a time.**
 
 {% include pullquote.html %}
 
@@ -43,7 +43,7 @@ Real estate is one of the few industries where professionals are expected to be 
 
 After being told to juggle all of these tasks, it’s no wonder that so many agents attempt to multitask. But as we’ve already seen, multitasking doesn’t work.
 
-So, what can you do to plan your day in a way that avoids the need for multitasking? The key is using time blocking and activity chunking. **Time blocking is the act of scheduling blocks of time for specific activities.**Scheduling activities a week or a month in advance can help you develop a routine. When you devote certain blocks of time to specific tasks, you ensure that everything you need to do is given adequate effort and attention. Time blocking will also leave you with vacant spaces in your day, which can be used for appointments.
+So, what can you do to plan your day in a way that avoids the need for multitasking? The key is using time blocking and activity chunking. **Time blocking is the act of scheduling blocks of time for specific activities.&nbsp;**Scheduling activities a week or a month in advance can help you develop a routine. When you devote certain blocks of time to specific tasks, you ensure that everything you need to do is given adequate effort and attention. Time blocking will also leave you with vacant spaces in your day, which can be used for appointments.
 
 Managing your schedule through time blocking allows you to run your business, instead of letting your business run you.
 
