@@ -13,16 +13,16 @@ client:
   license_number:
   about_markdown: |
     Global is open to growing their team. They make every effort to train and mentor their agents so that they are best prepared to handle all real estate transactions with professionalism and confidence. Each customer is special to the RealtyGirls and they make sure the experience customers have with their team is the best in the world.
-  market: Miami
-  brand: The Realty Girls
+  market: South Florida
+  brand: RealtyGirls
   brokerage: Global Realty Services
-  address: 5 Northeast 15th Street<br>Miami, Florida 33030
+  address: 75 Northeast 15th Street<br>Miami, Florida 33030
   phone: 305-796-2308
   phone_type: Traci
   phone2: 305-216-1604
   phone2_type: Julie
   email: GlobalRealtyGirls@gmail.com
-  url: http://www.RealtyGirls.net
+  url: http://GlobalRealtyServices.com
 
 CTAs:
   first_CTA_text: Home Valuation
