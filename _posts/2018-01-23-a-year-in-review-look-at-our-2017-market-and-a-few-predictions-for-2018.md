@@ -22,7 +22,7 @@ What’s the final word on our 2017 market? What can you expect from the market 
 
 The 2017 Kauai market was bustling and brisk. **The overall number of transactions was up over 12%, and the dollar volume of those sales rose 5%.** This means more money was invested and traded in real estate in 2017.
 
-Here’s a closer look at how the median prices for single family homes and condos played out across all five zones in Kauai:
+Here’s a closer look at how the median prices for single-family homes and condos played out across all five zones in Kauai:
 
 * Starting in Waimea, the median price for single-family homes rose 10.67%. There were no condo trades because there are no condos in that area.
 * In Koloa, prices for single-family homes rose 6.15% and prices for condos rose 8%.
@@ -32,7 +32,7 @@ Here’s a closer look at how the median prices for single family homes and cond
 
 Now, what can we expect from the 2018 marketplace?
 
-**If things continue as they are (and there’s no reason to believe they won’t), we’ll keep seeing strong demand for property and only a limited amount of housing being available.** Prices should continue to rise, and tourism should continue to stay strong, so if you own a vacation rental home, you should see good returns.
+**If things continue as they are (and there’s no reason to believe they won’t), we’ll keep seeing strong demand for property and only a limited amount of housing available.** Prices should continue to rise, and tourism should continue to stay strong, so if you own a vacation rental home, you should see good returns.
 
 {% include pullquote.html %}
 
@@ -40,6 +40,6 @@ Prices for single-family homes in the modest price ranges will continue to trend
 
 2017 was a great year for Kauai, and 2018 looks to be very promising. If you’re a buyer, it’s still a good time to get a toe-hold on the marketplace. If you’re a seller, the market is strong as long as your home is priced and marketed correctly.
 
-If you have any questions about our market or you’re thinking of buying or selling a home soon, don’t hesitate to get in touch with us. We’d be happy to help you achieve all of your real estate, and we wish you a healthy, happy, prosperous 2018. Until next time, Aloha!
+If you have any questions about our market or you’re thinking of buying or selling a home soon, don’t hesitate to get in touch with us. We’d be happy to help you achieve all of your real estate goals, and we wish you a healthy, happy, prosperous 2018. Until next time, aloha!
 
 &nbsp;
