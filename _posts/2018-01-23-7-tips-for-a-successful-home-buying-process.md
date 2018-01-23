@@ -35,6 +35,6 @@ What are the seven habits of highly effective homebuyers? If you’re ready to e
 
 **6. Be responsible and maintain your credit.** I can’t tell you how many times I’ve had issues with buyers paying off some major debt right before closing. It might sound counterintuitive, but paying off a loan or a credit card right before you close can actually sink your credit. Also, hold off any major purchases until after closing.
 
-**7. Have fun with the process.**My entire team and I truly want you to have the best home buying experience possible. If you let us help, we will make sure the process is as smooth and as enjoyable as it can be.
+**7. Have fun with the process.** My entire team and I truly want you to have the best home buying experience possible. If you let us help, we will make sure the process is as smooth and as enjoyable as it can be.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
