@@ -22,12 +22,13 @@ client:
   email: Justin@WoodallRealtyGroup.com
   url: http://WoodallRealtyGroup.com
 
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1809033';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: http://www.myathenshomevalue.com/
   second_CTA_text: Home Search
   second_CTA_URL: http://www.athensareahomesearch.com/?SRC=Blog
-  VR_form: http://oi.vresp.com?fid=12453cdeda
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg

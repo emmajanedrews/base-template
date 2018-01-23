@@ -14,7 +14,6 @@ author: Vyral Admin
 tags:
 - Athens Real Estate Agent
 - Market Update
-- Appraisals
 modified_time: '2017-08-29T14:27:59.068-07:00'
 thumbnail: https://i.ytimg.com/vi/ed3qYe0oxzk/default.jpg
 blogger_id: tag:blogger.com,1999:blog-313868897804491386.post-200926259303679006
