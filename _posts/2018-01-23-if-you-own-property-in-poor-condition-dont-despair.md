@@ -23,11 +23,11 @@ youtube_code: 8kPqQsX4uZM
 
 Do you own a distressed property that’s in rough shape? Perhaps you know someone who does? If either is the case, I have three options someone in this situation may find useful.
 
-**1. Cash offer**, **quick settlements, and selling as-is.**This will allow the seller to list their home without worrying about financial or home inspection contingencies. If they want to leave the house full of unwanted possessions, they are free to do so. Additionally, this option requires no exposure to the market. In all these scenarios, the investor will pay all of the expenses associated with the offer.
+**1. Cash offer**, **quick settlements, and selling as-is.&nbsp;**This will allow the seller to list their home without worrying about financial or home inspection contingencies. If they want to leave the house full of unwanted possessions, they are free to do so. Additionally, this option requires no exposure to the market. In all these scenarios, the investor will pay all of the expenses associated with the offer.
 
 {% include pullquote.html %}
 
-**2. Putting the home on the market.**This option is for those who predict that they can find an investor or homeowner who would pay more for the property than a cash buyer off the market. However, here, you’d have to pay for such things as commission, and you may be exposed to contingencies like a financial contingency. If you can’t find a better offer on the market than you could off the market, then the off-market investor would likely still be interested in purchasing your home. This option gets the best of both worlds.
+**2. Putting the home on the market.&nbsp;**This option is for those who predict that they can find an investor or homeowner who would pay more for the property than a cash buyer off the market. However, here, you’d have to pay for such things as commission, and you may be exposed to contingencies like a financial contingency. If you can’t find a better offer on the market than you could off the market, then the off-market investor would likely still be interested in purchasing your home. This option gets the best of both worlds.
 
 **3. Put money back into the home.** If you’re in a position such that you can invest some money into renovating your home, we can connect you to contractors to help you fix the property and get it to the top of the market. The downsides to this option are that you’ll have holding costs and you may have to move into temporary housing until you finish work on the property (and then again when you go to sell).
 
