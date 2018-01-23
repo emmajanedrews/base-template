@@ -29,6 +29,6 @@ Many people who are new to the market have heard they can get a great deal on a 
 
 {% include pullquote.html %}
 
-**A short sale, however, is when a homeowner is in default, but still owns the home.**They haven’t been making their payments for 30, 60, 90, or 120 days, so in order to stave off a foreclosure, they try to sell the home. However, since they don’t have enough equity in the home to pay off the entire mortgage, the homeowner must “short” the payoff. This process is a little more time-consuming than a foreclosure because you’ll have to get multiple parties to approve the sale; the bank will have to agree to accept less than the full payout on the balance owed. This can take 75 to 100 days to complete, and you may find a better property in that time.
+**A short sale, however, is when a homeowner is in default, but still owns the home.** They haven’t been making their payments for 30, 60, 90, or 120 days, so in order to stave off a foreclosure, they try to sell the home. However, since they don’t have enough equity in the home to pay off the entire mortgage, the homeowner must “short” the payoff. This process is a little more time-consuming than a foreclosure because you’ll have to get multiple parties to approve the sale; the bank will have to agree to accept less than the full payout on the balance owed. This can take 75 to 100 days to complete, and you may find a better property in that time.
 
 For more questions about these topics, feel free to reach out to me. I’d be happy to help you.
