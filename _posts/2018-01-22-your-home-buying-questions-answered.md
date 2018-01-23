@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Your Home Buying Questions, Answered'
-date: 2018-01-22 15:24:22
+date: 2018-01-22 15:24:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -12,7 +12,7 @@ pullquote: Don’t let misinformation prevent you from getting your next home.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/tia-screenshot--get-a-new-home-youtube.jpg
 youtube_code: 'https://youtu.be/ID_RKDx_Dnw'
 ---
 
@@ -38,5 +38,3 @@ Nevertheless, a high-quality agent will be able to negotiate on your behalf for 
 If you have any more questions about the home buying process, you can contact Chad at (281) 932-857.
 
 And as always, if you’ve got any other real estate questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
-
-&nbsp;
