@@ -1566,7 +1566,7 @@ label.tree-toggle {
 .hero-img {
   background-position: center;
   background-size: cover;
-  padding-top: 11rem; }
+  padding-top: 10rem; }
 
 #hero {
   background-position: center;
@@ -1578,6 +1578,8 @@ label.tree-toggle {
 .site-logo {
   width: 90%;
   max-width: 30rem;
+  padding: 20px;
+  margin-top: -2rem;
   -webkit-filter: drop-shadow(0px 2px 7px rgba(96, 95, 95, 0.75));
   filter: drop-shadow(0px 2px 7px rgba(96, 95, 95, 0.75)); }
 
@@ -1592,6 +1594,7 @@ label.tree-toggle {
 .credentials {
   color: #ffffff;
   font-weight: 300;
+  font-size: 3.5rem;
   margin-top: -3rem;
   margin-bottom: 2rem; }
 
