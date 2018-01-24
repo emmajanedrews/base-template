@@ -24,7 +24,7 @@ youtube_code: zyh6Zta0qpQ
 
 A happy, healthy New Year to you all! With this new year came a new tax bill that has everyone buzzing. Today, I wanted to talk about what effects this new law will have on the real estate market in Bucks County.
 
-To preface the discussion, I’m not a tax lawyer or an accountant, so in order to understand how exactly you’ll be affected the changes, **it’s critical that you talk to a CPA or tax attorney**familiar with the law since it won’t affect everyone the same way.
+To preface the discussion, I’m not a tax lawyer or an accountant, so in order to understand how exactly you’ll be affected the changes, **it’s critical that you talk to a CPA or tax attorney&nbsp;**familiar with the law since it won’t affect everyone the same way.
 
 The most important changes as far as homeownership goes relate to the state and local taxes. **There is now a $10,000 limit on state and local taxes**, which will impact people in higher tax brackets like our neighbors in New Jersey.
 
