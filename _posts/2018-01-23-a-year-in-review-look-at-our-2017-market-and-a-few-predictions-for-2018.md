@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: l26D9kzJ9-k
+youtube_code: kACjo6TNDfk
 ---
 
 
@@ -41,5 +41,3 @@ Prices for single-family homes in the modest price ranges will continue to trend
 2017 was a great year for Kauai, and 2018 looks to be very promising. If you’re a buyer, it’s still a good time to get a toe-hold on the marketplace. If you’re a seller, the market is strong as long as your home is priced and marketed correctly.
 
 If you have any questions about our market or you’re thinking of buying or selling a home soon, don’t hesitate to get in touch with us. We’d be happy to help you achieve all of your real estate goals, and we wish you a healthy, happy, prosperous 2018. Until next time, aloha!
-
-&nbsp;
