@@ -35,4 +35,4 @@ We were interested in the effect that the recent hurricanes had on the real esta
 
 Because of this, there are some great buying opportunities in the short term. Places like St. Croix are still facing a lot of turmoil, so it might be better to wait in those cases. Santa Lucia, however, is completely unaffected.
 
-If you know anyone who’s interested in learning more about investing and purchasing in the Caribbean, I have contacts and information for you that will help. Feel free to reach out to me, I’d love to talk with you.
+If you know anyone who’s interested in learning more about investing and purchasing in the Caribbean, I have contacts and information for you that will help. Feel free to reach out to me. I’d love to talk with you.
