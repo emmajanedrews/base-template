@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/multitasking-youtube.jpg
-youtube_code: FN2czlx8wQ8
+youtube_code: I0S6UDmuXbQ
 ---
 
 
@@ -39,11 +39,11 @@ Now, counting and saying the alphabet are both pretty simple. That being said, i
 
 {% include pullquote.html %}
 
-Real estate is one of the few industries where professionals are expected to be experts in more than a dozen, separate skills. &nbsp;Agents are asked to be good at negotiating, marketing, photography, showing properties, setting schedules, budgeting, accounting, administrative tasks, and much, much more.
+Real estate is one of the few industries where professionals are expected to be experts in more than a dozen, separate skills.  Agents are asked to be good at negotiating, marketing, photography, showing properties, setting schedules, budgeting, accounting, administrative tasks, and much, much more.
 
 After being told to juggle all of these tasks, it’s no wonder that so many agents attempt to multitask. But as we’ve already seen, multitasking doesn’t work.
 
-So, what can you do to plan your day in a way that avoids the need for multitasking? The key is using time blocking and activity chunking. **Time blocking is the act of scheduling blocks of time for specific activities.&nbsp;**Scheduling activities a week or a month in advance can help you develop a routine. When you devote certain blocks of time to specific tasks, you ensure that everything you need to do is given adequate effort and attention. Time blocking will also leave you with vacant spaces in your day, which can be used for appointments.
+So, what can you do to plan your day in a way that avoids the need for multitasking? The key is using time blocking and activity chunking. **Time blocking is the act of scheduling blocks of time for specific activities.**Scheduling activities a week or a month in advance can help you develop a routine. When you devote certain blocks of time to specific tasks, you ensure that everything you need to do is given adequate effort and attention. Time blocking will also leave you with vacant spaces in your day, which can be used for appointments.
 
 Managing your schedule through time blocking allows you to run your business, instead of letting your business run you.
 
