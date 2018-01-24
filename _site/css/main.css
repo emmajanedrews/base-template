@@ -1566,7 +1566,8 @@ label.tree-toggle {
 .hero-img {
   background-position: center;
   background-size: cover;
-  padding-top: 10rem; }
+  padding-top: 8rem;
+  padding-bottom: 1rem; }
 
 #hero {
   background-position: center;
@@ -1580,12 +1581,12 @@ label.tree-toggle {
   max-width: 30rem;
   padding: 20px;
   margin-top: -2rem;
-  -webkit-filter: drop-shadow(0px 2px 7px rgba(96, 95, 95, 0.75));
-  filter: drop-shadow(0px 2px 7px rgba(96, 95, 95, 0.75)); }
+  -webkit-filter: drop-shadow(0px 2px 7px rgba(28, 59, 71, 0.75));
+  filter: drop-shadow(0px 2px 7px rgba(28, 59, 71, 0.75)); }
 
 .site-title {
   color: white;
-  text-shadow: 0px 2px 7px rgba(96, 95, 95, 0.75);
+  text-shadow: 0px 2px 7px rgba(28, 59, 71, 0.75);
   text-transform: uppercase;
   font-size: 6.5rem;
   font-weight: bold;
@@ -1596,7 +1597,9 @@ label.tree-toggle {
   font-weight: 300;
   font-size: 3.5rem;
   margin-top: -3rem;
-  margin-bottom: 2rem; }
+  margin-bottom: 2rem;
+  font-weight: bold;
+  text-shadow: 0px 2px 7px rgba(28, 59, 71, 0.75); }
 
 @media (max-width: 1100px) {
   .site-title {
@@ -2033,7 +2036,7 @@ table tr, table td {
   margin: 2rem 0;
   color: white;
   text-transform: uppercase;
-  text-shadow: 0px 2px 7px rgba(96, 95, 95, 0.75); }
+  text-shadow: 0px 2px 7px rgba(28, 59, 71, 0.75); }
 .post .headshot {
   width: 100%;
   max-width: 15rem;
@@ -2048,7 +2051,7 @@ table tr, table td {
 
 .tag-container {
   color: white;
-  text-shadow: 0px 2px 7px rgba(96, 95, 95, 0.75);
+  text-shadow: 0px 2px 7px rgba(28, 59, 71, 0.75);
   margin-bottom: 1rem; }
 
 .tag {
@@ -2059,7 +2062,7 @@ table tr, table td {
 .author-attribution {
   color: white;
   font-weight: 300;
-  text-shadow: 0px 2px 7px rgba(96, 95, 95, 0.75);
+  text-shadow: 0px 2px 7px rgba(28, 59, 71, 0.75);
   margin-bottom: 2rem;
   font-style: italic; }
   .author-attribution a {
