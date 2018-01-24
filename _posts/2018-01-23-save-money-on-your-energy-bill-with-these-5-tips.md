@@ -30,10 +30,10 @@ We’ve seen some record-low temperatures these past couple of weeks, and these 
 
 {% include pullquote.html %}
 
-**3. Make sure that your air filters are clean** to help hot air flow. If the filter is blocked, it will reduce the amount of warm air that reaches each room, increase in the amount of energy it will take to heat your house.
+**3. Make sure that your air filters are clean** to help hot air flow. If the filter is blocked, it will reduce the amount of warm air that reaches each room and increase the amount of energy it will take to heat your house.
 
 **4. Insulate your outlets.** This will require an electricians help, but you can remove the covers on your outlets, install insulators, and then put the cover back on. This is another area where cool air from the outdoors can seep in.
 
-**5. Check your ductwork and insulation.** You can purchase special tape and sealants at most hardware stores that you can use to cover voids in your ducts to promote flow, so that warm air isn’t just leaking into your basement.
+**5. Check your ductwork and insulation.** You can purchase special tape and sealants at most hardware stores that you can use to cover voids in your ducts to promote flow so that warm air isn’t just leaking into your basement.
 
 Try to stay warm this winter! If you have any questions about this or other topics, feel free to reach out to us. We’ll help you any way we can.
