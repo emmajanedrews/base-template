@@ -27,7 +27,7 @@ youtube_code: R6QL6Z4sgfE
 
 {% include youtube.html %}
 
-We just had our 15h Limbird Agent Bonus party! This means that we’ve given back $22,000 to charities in the Northwest Arkansas area.
+We just had our 15th Limbird Agent Bonus party! This means that we’ve given back $22,000 to charities in the Northwest Arkansas area.
 
 When you list and sell your home with us, **you are supporting the community we all live and work in.**
 
