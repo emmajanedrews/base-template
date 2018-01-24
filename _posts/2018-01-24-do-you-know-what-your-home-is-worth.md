@@ -32,7 +32,7 @@ This is a good time of year for people to assess their current home. We can come
 
 People often like to ask us about what they can work on to improve the value of their home while maintaining the property and keeping it up to date. **We can help determine what you need to do to keep your home in good condition.**
 
-Even if you’re not selling in the next couple of months—or the next couple of years—it’s good to have a baseline of the market value of your home so that you can make a decision based on its value in the future. &nbsp;&nbsp;
+Even if you’re not selling in the next couple of months—or the next couple of years—it’s good to have a baseline of the market value of your home so that you can make a decision based on its value in the future.
 
 {% include pullquote.html %}
 
