@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   We’re in a seller’s market, but interest rates are still at an all-time low,
   so the news isn’t all bad for buyers.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sandy+Gabrielli/January+18'/Reno+Area+Real+Estate+Agent-+The+Latest+News+from+Our+Reno+Market.mp4
 pullquote: 'At the moment, sellers have the upper hand in most negotiations.'
 enclosure_type: video/mp4
 enclosure_time:
