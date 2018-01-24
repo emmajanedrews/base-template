@@ -28,6 +28,6 @@ In our last discussion about home inspections, we talked about Mickey Mouse repa
 
 **2. Ask the seller to make the repairs.** When we do this, we have to make sure that we’re asking for licensed repairmen to do the work. I don’t always like this option because we can’t necessarily ensure that everything is going to be done to our satisfaction. Also, if the work isn’t done by closing, it won’t stop closing. Any issues will have to be resolved via a lawsuit, which means a lot of time and money.
 
-**3. Ask the seller to compensate you via concessions.**This is when they give you money so that you can make your repairs after closing.
+**3. Ask the seller to compensate you via concessions.&nbsp;**This is when they give you money so that you can make your repairs after closing.
 
 Hopefully this has given you some useful tips. If you have any questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
