@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: zvjZ3NA3a1A
+youtube_code: osFQH_Q1RSE
 ---
 
 
@@ -56,4 +56,4 @@ I love working with vets. I appreciate the sacrifices they made for our country.
 
 The best way is for your agent to give me your contact information so I can reach out to you and set up an appointment to start your application.
 
-If you would like to contact Chris to set up an appointment or to address any questions about the lending process you may have, give him a call at (717) 484-9644. For other real estate questions, feel free to reach out to the Heather Neidlinger Team by phone or email. I look forward to representing your next real estate deal.
+If you would like to contact Chris to set up an appointment or to address any questions about the lending process you may have, give him a call at (717) 712-4739. For other real estate questions, feel free to reach out to the Heather Neidlinger Team by phone or email. I look forward to representing your next real estate deal.
