@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: Carolina Forest Real Estate Video Blog with Brittany Foy
 description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -9,40 +9,40 @@ custom_links:
 emma_form:
 
 client:
-  name:
+  name: Brittany Brewer-Foy
   license_number:
   about_markdown: |
-
-  market:
-  brand:
+    Brittany specializes in all aspects of real estate, both on the listing and buying side. Her extensive knowledge and experience covers short sales, foreclosures, first-time home buyers, investors, and relocation, among many others. She is also a strategic and aggressive marketer, a thorough and consistent communicator, and a negotiator dedicated to your best interests. Her impressive business, awards, client list, and reviews/testimonials will prove that Brittany is the Myrtle Beach area agent for you!
+  market: Myrtle Beach
+  brand: Coldwell Banker
   brokerage:
-  address:
-  phone:
+  address: 3888 Renee Dr. Myrtle Beach, SC 29579
+  phone: 843-685-3969
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Admin@BrittanyFoyAndAssociates.com
+  url: http://SearchCarolinaForestHomes.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://listings.searchcarolinaforesthomes.com/idx/homevaluation
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://listings.searchcarolinaforesthomes.com/idx/search/basicsearch
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://listings.searchcarolinaforesthomes.com/idx/homevaluation
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://listings.searchcarolinaforesthomes.com/idx/search/basicsearch
 
 lender:
   show_section: false
@@ -67,16 +67,16 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/MyrtleBeachSCRealEstateAgent
+  linkedin_url: https://www.linkedin.com/in/brittanybrewer/
+  gplus_url: https://plus.google.com/u/0/112329691554800315459
+  youtube_url: https://www.youtube.com/user/brittanybrewerfoy
+  twitter_url: https://twitter.com/bbrewerchicora
   instagram_url:
   pinterest_url:
-  zillow_url:
+  zillow_url: https://www.zillow.com/profile/Myrtle-Beach-Agent/
   trulia_url:
-  yelp_url:
+  yelp_url: https://www.yelp.com/biz/brittany-brewer-foy-coldwell-banker-chicora-real-estate-myrtle-beach
   podcast_url:
 
 podcast:
@@ -97,8 +97,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#71C9D5'
+  theme_color: '#434343'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -110,7 +110,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: rgba(205, 185, 169, .75)
 
 buttons:
   button_radius_number: 0
