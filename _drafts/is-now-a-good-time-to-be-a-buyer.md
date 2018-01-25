@@ -18,7 +18,7 @@ youtube_code: xDb4SRWDmHM
 
 {% include youtube.html %}
 
-*Is 2018 going to be a good time for buyers to make their move? Actually, it is.*
+<center>*Is 2018 going to be a good time for buyers to make their move? Actually, it is.*</center>
 
 Is it a good time to be a buyer in 2018?&nbsp;
 
