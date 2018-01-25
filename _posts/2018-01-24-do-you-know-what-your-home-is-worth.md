@@ -36,7 +36,7 @@ Even if you’re not selling in the next couple of months—or the next couple o
 
 {% include pullquote.html %}
 
-It’s also good to understand your market value because of all the changes that happen in our area. Our market sees a lot of new construction, commercial growth, and farms being bought and sold that may be soon to be developed.
+It’s also good to understand your market value because of all the changes that happen in our area. Our market sees a lot of new construction, commercial growth, and farms being bought and sold that may soon be developed.
 
 As a result of all this change, people want to know, “Is it a good time to sell? Are market values going up or down?” Knowing where your home currently sits in terms of market value will give you a sense of comfort, **as well as an idea of what your future home sale could look like.**
 
