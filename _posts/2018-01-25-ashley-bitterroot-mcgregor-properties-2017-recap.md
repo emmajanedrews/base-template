@@ -4,7 +4,11 @@ title: 'Ashley, Bitterroot, McGregor Properties 2017 Recap'
 date: 2018-01-25 15:50:38
 tags:
   - Market Update
-excerpt: 'Ashley, Bitterroot, McGregor'
+excerpt: >-
+  Ashley saw a big jump in vacant land sales, Bitterroot saw a big jump in
+  residential home sales, and McGregor stayed pretty flat with four total
+  residential sales. There are 15 vacant land lots in these three areas total,
+  with nine of them being in McGregor.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
