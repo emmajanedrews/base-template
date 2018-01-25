@@ -1490,6 +1490,10 @@ html[xmlns] .flexslider .slides {
   padding-right: 15px;
   padding-left: 15px; }
 
+@media(max-width: 945px) {
+  .navbar-left li a {
+    padding: 10px;
+    font-size: 1.75rem; } }
 @media(max-width: 347px) {
   .navbar {
     padding-right: 5px;
@@ -1578,7 +1582,7 @@ label.tree-toggle {
 
 .site-logo {
   width: 90%;
-  max-width: 30rem;
+  max-width: 40rem;
   padding: 20px;
   margin-top: -2rem;
   -webkit-filter: drop-shadow(0px 2px 7px rgba(28, 59, 71, 0.75));
@@ -1590,7 +1594,8 @@ label.tree-toggle {
   text-transform: uppercase;
   font-size: 6.5rem;
   font-weight: bold;
-  margin-bottom: 0; }
+  margin-bottom: 0;
+  padding: 0 15rem; }
 
 .credentials {
   color: #ffffff;
@@ -1601,29 +1606,53 @@ label.tree-toggle {
   font-weight: bold;
   text-shadow: 0px 2px 7px rgba(28, 59, 71, 0.75); }
 
-@media (max-width: 1100px) {
+@media (max-width: 1500px) {
   .site-title {
-    font-size: 5rem; } }
+    font-size: 5rem;
+    padding: 0 10rem; }
+
+  .site-logo {
+    max-width: 30rem; }
+
+  .credentials {
+    font-size: 2.5rem;
+    margin-bottom: -1rem; } }
+@media (max-width: 1200px) {
+  .site-title {
+    font-size: 4rem;
+    padding: 0 4rem; }
+
+  .site-logo {
+    max-width: 20rem; } }
 @media (max-width: 1000px) {
   .site-logo {
-    max-width: 30rem; } }
+    max-width: 20rem; } }
 @media (max-width: 760px) {
   .site-logo {
-    max-width: 30rem;
-    margin-top: 4rem; }
+    display: none; }
 
   .site-title {
-    font-size: 5rem; } }
+    font-size: 4rem;
+    padding: 0 3rem; }
+
+  .credentials {
+    font-size: 2rem;
+    margin-top: 1rem; }
+
+  .hero-image {
+    padding-top: 10rem; } }
 @media (max-width: 600px) {
   .site-logo {
-    max-width: 22rem;
-    margin-top: 2rem; }
+    display: none; }
 
   .site-title {
     font-size: 3.5rem; }
 
   .cta {
-    padding: 1rem; } }
+    padding: 1rem; }
+
+  .credentials {
+    font-size: 2rem; } }
 @media (max-width: 400px) {
   .cta {
     padding: 0.5rem; } }
