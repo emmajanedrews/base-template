@@ -8,7 +8,8 @@ excerpt: >-
   With this new year came a new tax bill that has everyone buzzing. Today, I
   wanted to talk about what effects this new law will have on the real estate
   market in Bucks County.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Marty+Millner/Bucks+County+Real+Estate+-+The+new+tax+bill%2527s+effect+on+Bucks+County.mp4
 pullquote: >-
   In a weird way, the tax bill could be helpful for the real estate values in
   Bucks County.
@@ -24,11 +25,11 @@ youtube_code: zyh6Zta0qpQ
 
 A happy, healthy New Year to you all! With this new year came a new tax bill that has everyone buzzing. Today, I wanted to talk about what effects this new law will have on the real estate market in Bucks County.
 
-To preface the discussion, I’m not a tax lawyer or an accountant, so in order to understand how exactly you’ll be affected the changes, **it’s critical that you talk to a CPA or tax attorney&nbsp;**familiar with the law since it won’t affect everyone the same way.
+To preface the discussion, I’m not a tax lawyer or an accountant, so in order to understand how exactly you’ll be affected the changes, **it’s critical that you talk to a CPA or tax attorney**familiar with the law since it won’t affect everyone the same way.
 
 The most important changes as far as homeownership goes relate to the state and local taxes. **There is now a $10,000 limit on state and local taxes**, which will impact people in higher tax brackets like our neighbors in New Jersey.
 
-Another key change is that mortgage interest deductions are capped for new mortgages only. This means that existing mortgages will go unaffected. The cap is now set at $750,000, so anything above that is non-deductible. &nbsp;
+Another key change is that mortgage interest deductions are capped for new mortgages only. This means that existing mortgages will go unaffected. The cap is now set at $750,000, so anything above that is non-deductible.
 
 {% include pullquote.html %}
 
