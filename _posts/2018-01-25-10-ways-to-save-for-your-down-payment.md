@@ -45,6 +45,6 @@ Today, I’ll be sharing 10 tips to help you save for your down payment.
 
 **9. Get cash back on your credit cards.** There are a ton of cash-back options that can help you earn a little extra while you spend.
 
-**10. Save your tax refund.**When you get your tax refund, don’t go out and spend it all. You should be saving your tax refund, instead.
+**10. Save your tax refund.** When you get your tax refund, don’t go out and spend it all. You should be saving your tax refund, instead.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
