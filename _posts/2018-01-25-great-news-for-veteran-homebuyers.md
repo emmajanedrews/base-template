@@ -30,7 +30,7 @@ Of course, there are plenty of different mortgage options out there for veterans
 
 {% include pullquote.html %}
 
-Finally, a quick word about interest rates. **The national average right now is very attractive for veteran homebuyers.**It’s ranging anywhere from 3.25% to 3.5% if you have decent credit. Decent credit meaning a 620 credit score or above. &nbsp;Keep in mind that because the VA guarantees the money as opposed to lending it themselves, different lenders are going to have different requirements.
+Finally, a quick word about interest rates. **The national average right now is very attractive for veteran homebuyers.&nbsp;**It’s ranging anywhere from 3.25% to 3.5% if you have decent credit. Decent credit meaning a 620 credit score or above. &nbsp;Keep in mind that because the VA guarantees the money as opposed to lending it themselves, different lenders are going to have different requirements.
 
 Houses are selling, buyers are out there, and it’s important that you jump on the house you like right away because it might be gone if you don’t.
 
