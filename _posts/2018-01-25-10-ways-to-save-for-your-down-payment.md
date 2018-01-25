@@ -37,7 +37,7 @@ Today, I’ll be sharing 10 tips to help you save for your down payment.
 
 {% include pullquote.html %}
 
-**6. Downsize.**If you’re in a position to do so, the switch to a more compact home could help you save.
+**6. Downsize.** If you’re in a position to do so, the switch to a more compact home could help you save.
 
 **7. Get a second job.** If you have the time to take on another job, the extra paycheck will really help.
 
