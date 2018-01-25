@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Flathead lake Properties 2017 Recap
-date:
+date: 2018-01-25 16:09:06
 tags:
   - Market Update
 excerpt: >-
@@ -23,7 +23,7 @@ youtube_code: n48h-x11Vb4
 
 In Flathead Lake, we saw 46 sales in 2017. That’s down from the 52 we saw the year before, but it’s up from the 44 we saw in 2015. **The median price in Flathead Lake is up to $689,000 right now and there are seven pending sales on the lake as well. Each of these pending sales is below the $900,000 mark.**
 
-There are 85 active listings right now in Flathead Lake. Of those 85, 31 are listed under $1 million and 54 are listed over $1 million. Properties here are currently spending an average of 449 days on the market.&nbsp;
+There are 85 active listings right now in Flathead Lake. Of those 85, 31 are listed under $1 million and 54 are listed over $1 million. Properties here are currently spending an average of 449 days on the market.
 
 As far as vacant land sales go, everything’s pretty flat in Flathead Lake (no pun intended). The median price for those plots is sitting at $480,000.
 
