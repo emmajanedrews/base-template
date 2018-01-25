@@ -29,4 +29,8 @@ As far as vacant land sales go, everything’s pretty flat in Flathead Lake (no 
 
 We actually see a big chunk of Flathead Lake sales in the condo market. **They fill in those gaps in the lower price ranges.** The average sale price of condos in Flathead Lake is $380,000. Sales are down quite a bit from last year, but there are still 38 active listings right now with a $462,000 median list price. The sold condos on Flathead Lake averaged about 243 days on the market.
 
-&nbsp;
+For a detailed overview, check out the documents below:
+
+[2017 Recap of Flathead Lake](https://s3.amazonaws.com/vyralmarketing/Scott+Hollinger/2017+Yr+End+-+Flathead+Lake+notes.pdf)
+
+[2017 Recap of Flathead Lake Condominiums](https://s3.amazonaws.com/vyralmarketing/Scott+Hollinger/2017+Yr+End+-+Flathead+Lake+Condominium+notes.pdf)
