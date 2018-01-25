@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   There has been a lot of confusion recently about changes to our tax system.
   Today, I’d like to clarify how the new laws will actually impact our market.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+How+the+new+tax+bill+will+impact+our+market.mp4
 pullquote: People purchase homes for many reasons other than the tax advantages.
 enclosure_type: video/mp4
 enclosure_time:
