@@ -27,13 +27,13 @@ Today, I’ll be sharing 10 tips to help you save for your down payment.
 
 **1. Set a target goal.** Talk with your accountant and a mortgage representative so that you can put together a plan to meet that goal.
 
-**2. Assess your spending habits.**The new year is a great time to reflect on where exactly your money is going. Once you really look at your habits, you’re likely to find that there are several ways you could be cutting back.
+**2. Assess your spending habits.** The new year is a great time to reflect on where exactly your money is going. Once you really look at your habits, you’re likely to find that there are several ways you could be cutting back.
 
 **3. Shrink your TV package.** A great way to save money is by considering affordable alternatives to your current plan. Streaming services are a great option.
 
-**4. Drop the gym membership.**A run around the block will be a lot cheaper than paying an expensive monthly fee. You don’t need to visit a gym to work out.
+**4. Drop the gym membership.** A run around the block will be a lot cheaper than paying an expensive monthly fee. You don’t need to visit a gym to work out.
 
-**5. Sell some items.**You would be surprised how many items in your home you would be willing to part with. Even selling small items can really add up.
+**5. Sell some items.** You would be surprised how many items in your home you would be willing to part with. Even selling small items can really add up.
 
 {% include pullquote.html %}
 
