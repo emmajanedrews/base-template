@@ -22,3 +22,5 @@ youtube_code: movU-ZKUjVU
 {% include youtube.html %}
 
 Ashley saw a big jump in vacant land sales, Bitterroot saw a big jump in residential home sales, and McGregor stayed pretty flat with four total residential sales. There are 15 vacant land lots in these three areas total, with nine of them being in McGregor.
+
+[2017 Recap of the smaller NW Montana Lakes](https://s3.amazonaws.com/vyralmarketing/Scott+Hollinger/2017+Yr+End+-+Smaller+Lakes+notes.pdf)
