@@ -24,4 +24,8 @@ Let’s look at Swan Lake, Echo Lake, and Lake Blaine. In Swan Lake, there were 
 
 Echo Lake saw two sales this year, down from the three they had the year before. An interesting thing to note is that one of those two sales was for $1.8 million.
 
-We’ve seen just one sale on Lake Blaine this year. There just isn’t that much out there. We won’t ever have very high numbers there. There are seven vacant land plots and 11 active listings here. There is one pending sale for $1.5 million.<br>
+We’ve seen just one sale on Lake Blaine this year. There just isn’t that much out there. We won’t ever have very high numbers there. There are seven vacant land plots and 11 active listings here. There is one pending sale for $1.5 million.
+
+For a detailed overview, check out the document below:
+
+[2017 Recap of the smaller NW Montana Lakes](https://s3.amazonaws.com/vyralmarketing/Scott+Hollinger/2017+Yr+End+-+Smaller+Lakes+notes.pdf)
