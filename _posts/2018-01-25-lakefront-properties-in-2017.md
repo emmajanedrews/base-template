@@ -24,4 +24,10 @@ youtube_code: bwb3p02IXOo
 
 Today I’d like to share a recap of all the different waterfront real estate markets in 2017. We’ll start with Flathead Lake and go down the line all the way to McGregor.
 
-First, we’ll take a look at Flathead Lake. There are a ton of condos selling in this market, which is bringing down the average sale price. In places like Echo and Swan Lake, we’re seeing quite a few sales over that $1 million mark. To get all the latest details on these waterfront markets, watch this short video.
+First, we’ll take a look at Flathead Lake. There are a ton of condos selling in this market, which is bringing down the average sale price. In places like Echo and Swan Lake, we’re seeing quite a few sales over that $1 million mark. To get all the latest details on your specific waterfront market, click the corresponding video below.
+
+**[Flathead Lake](/flathead-lake-properties-2017-recap.html)**
+
+**[Swan, Echo, and Blaine](/swan-echo-blaine-properties-2017-recap.html)**
+
+**[Ashley, Bitterroot, and McGregor](/ashley-bitterroot-mcgregor-properties-2017-recap.html)**
