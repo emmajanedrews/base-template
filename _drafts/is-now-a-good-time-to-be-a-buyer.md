@@ -3,6 +3,7 @@ layout: post
 title: Is Now a Good Time to Be a Buyer?
 date:
 tags:
+  - Home Buyer Tips
 excerpt: >-
   Is 2018 going to be a good time for buyers to make their move? Actually, it
   is.
@@ -18,7 +19,9 @@ youtube_code: xDb4SRWDmHM
 
 {% include youtube.html %}
 
-<center>*Is 2018 going to be a good time for buyers to make their move? Actually, it is.*</center>
+<center><em>Is 2018 going to be a good time for buyers to make their move? Actually, it is.</em></center>
+
+<center>&nbsp;</center>
 
 Is it a good time to be a buyer in 2018?&nbsp;
 
