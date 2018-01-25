@@ -31,11 +31,11 @@ We just had our 15th Limbird Agent Bonus party! This means that we’ve given ba
 
 When you list and sell your home with us, **you are supporting the community we all live and work in.**
 
-This party featured a double giveaway, so that’s $20,000. It’s our 15th party in just under three years, which means that after this party, **we’ve given away $150,000 in bonus commissions as a thank you to our agents for all their hard work.**
+This party featured a double giveaway, so that’s $20,000. It’s our 15th party in just under three years, which means that after this party, **we’ve given away $150,000 in bonus commissions as a thank you to agents for all their hard work.**
 
 {% include pullquote.html %}
 
-Check out the video to watch our hardworking agents win some great prizes.
+Check out the video to watch some hardworking agents win some great prizes.
 
 Giving back to the community is something we love to do! We recently had the wonderful opportunity to help out other people in the Arkansas area through the Kiss a Pig Program. Check out our other video [here](https://youtu.be/BOS6oW8N1TA) to see how we teamed up with Patty La Pig to raise money for the American Diabetes Association.&nbsp;
 
