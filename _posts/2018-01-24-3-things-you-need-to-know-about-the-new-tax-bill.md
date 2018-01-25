@@ -25,7 +25,7 @@ Winter is here! Our weather hasn’t been consistent, but the good news is that 
 
 That being said, I know many of you are likely wondering how the new tax code will impact residential real estate. **Originally, there were three major proposed changes being examined by the House and the Senate.**
 
-The first was the change of requirements for the exclusion of gain on the sale of a principal residence, the second was a reduction on the limit of the Mortgage Interest Deduction (MID), and the third was the elimination of the State and Local Tax deduction (SALT)—which would include property taxes.
+The first was the change of requirements for the exclusion of gain on the sale of a principal residence, the second was a reduction on the limit of the mortgage interest deduction (MID), and the third was the elimination of the state and local tax deduction (SALT)—which would include property taxes.
 
 However, the tax code has now evolved from this original proposal. Let’s take a look at what impact experts believe it will have on the housing market.
 
@@ -47,4 +47,4 @@ As for the impact these changes will have on you, personally, I recommend that y
 
 Of course, it’s important to remember people purchase homes for many reasons other than the tax advantages. **These personal reasons, such as needing room to raise a family, will never change.**
 
-If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.<br>
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
