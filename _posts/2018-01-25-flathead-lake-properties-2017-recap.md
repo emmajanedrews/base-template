@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flathead lake Properties 2017 Recap
+title: Flathead Lake Properties 2017 Recap
 date: 2018-01-25 16:09:06
 tags:
   - Market Update
@@ -28,3 +28,5 @@ There are 85 active listings right now in Flathead Lake. Of those 85, 31 are lis
 As far as vacant land sales go, everything’s pretty flat in Flathead Lake (no pun intended). The median price for those plots is sitting at $480,000.
 
 We actually see a big chunk of Flathead Lake sales in the condo market. **They fill in those gaps in the lower price ranges.** The average sale price of condos in Flathead Lake is $380,000. Sales are down quite a bit from last year, but there are still 38 active listings right now with a $462,000 median list price. The sold condos on Flathead Lake averaged about 243 days on the market.
+
+&nbsp;
