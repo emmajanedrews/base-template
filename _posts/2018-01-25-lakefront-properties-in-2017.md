@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lakefront Properties in 2017
-date:
+date: 2018-01-25 16:17:31
 tags:
   - Market Update
 excerpt: >-
