@@ -15,8 +15,8 @@ excerpt: >-
   watch this short video.
 enclosure:
 pullquote: >-
-  We’ve given away $150,000 in bonus commissions to thank our agents for their
-  hard work.
+  We’ve given away $150,000 in bonus commissions to thank agents for their hard
+  work.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
