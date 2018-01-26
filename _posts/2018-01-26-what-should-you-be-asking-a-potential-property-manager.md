@@ -26,18 +26,18 @@ To start, you’ll want to find a property manager who lives close to and knows 
 
 When you find a prospective property manager, be sure to ask some screening questions. Some examples include:
 
-* “How many properties are you managing right now?” If you’re buying a single-family property or a duplex, you’ll want a manager with a portfolio that allows them to dedicate the proper amount of time to the property. Someone who is managing a 40-unit complex will likely have a different ability to manage a separate property as well.
-* “Do you manage in this area?”
-* “What type of tenant class do you manage?” Whether it be students, young professionals, or a mixture of all manner of people, it’s important to be able to connect with those people.
-* “How do you handle evictions?” In the case of problem tenants, will they be able to help you get them out?
-* “What’s your monthly fee, or do you charge on a lease-up?”
-* “Do you have a maintenance staff?” Who will be available to answer calls 24/7 if someone’s water heater goes out in the middle of the night?
+* **“How many properties are you managing right now?”** If you’re buying a single-family property or a duplex, you’ll want a manager with a portfolio that allows them to dedicate the proper amount of time to the property. Someone who is managing a 40-unit complex will likely have a different ability to manage a separate property as well.
+* **“Do you manage in this area?”**
+* **“What type of tenant class do you manage?”** Whether it be students, young professionals, or a mixture of all manner of people, it’s important to be able to connect with those people.
+* **“How do you handle evictions?”** In the case of problem tenants, will they be able to help you get them out?
+* **“What’s your monthly fee, or do you charge on a lease-up?”**
+* **“Do you have a maintenance staff?”** Who will be available to answer calls 24/7 if someone’s water heater goes out in the middle of the night?
 
 It’s also a good idea to make sure that they have a professional management software like AppFolio or Buildium. These programs allow you to view and manage fees, rent collections, late fees, and more.
 
 {% include pullquote.html %}
 
-One of the most important things that you need from a property manager is proper marketing and added value. Are they using cutting-edge methods like video tours? Do they advertise on the mainstream websites like Zillow, Trulia, HotPads, Craigslist, etc.? It should be on 20 to 30 different sites.<br><br>Additionally, ask them about an available unit and then go online and find where it’s advertised. Does it have a good presence? Is it photographed well? Does it have a property description, including the layout and the benefits of that community? How do they screen potential tenants?
+One of the most important things that you need from a property manager is **proper marketing and added value**. Are they using cutting-edge methods like video tours? Do they advertise on the mainstream websites like Zillow, Trulia, HotPads, Craigslist, etc.? It should be on 20 to 30 different sites.<br><br>Additionally, **ask them about an available unit and then go online and find where it’s advertised.** Does it have a good presence? Is it photographed well? Does it have a property description, including the layout and the benefits of that community? How do they screen potential tenants?
 
 My final note would be to inquire about construction management. If a tenant completely trashes a unit, how much will it cost to do a unit turnover?
 
