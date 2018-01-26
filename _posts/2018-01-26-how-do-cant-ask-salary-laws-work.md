@@ -3,10 +3,10 @@ layout: post
 title: How Do ‘Can’t Ask Salary’ Laws Work?
 tags:
   - Building Products
-excerpt:
-enclosure: >-
+excerpt: >-
   California, Massachusetts, Delaware, and New York City all have can’t ask
   salary laws in effect. How do these laws impact employers?
+enclosure:
 pullquote: You cannot ask potential candidates about their salary.
 enclosure_type: video/mp4
 enclosure_time:
