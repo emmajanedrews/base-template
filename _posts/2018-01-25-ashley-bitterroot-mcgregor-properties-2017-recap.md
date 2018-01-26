@@ -9,7 +9,8 @@ excerpt: >-
   residential home sales, and McGregor stayed pretty flat with four total
   residential sales. There are 15 vacant land lots in these three areas total,
   with nine of them being in McGregor.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Scott+Hollinger/Montana+Real+Estate++The+Hollinger+Team+Ashley%2C+Bitterroot%2C+McGregor+Properties+2017+Recap.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
