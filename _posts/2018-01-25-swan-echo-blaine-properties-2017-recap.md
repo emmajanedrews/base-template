@@ -8,7 +8,8 @@ excerpt: >-
   In Swan Lake, there were eight home sales this year, up from the five we saw
   the year before. Echo Lake saw two sales this year, down from the three they
   had the year before. We’ve seen just one sale on Lake Blaine this year.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Scott+Hollinger/Montana+Real+Estate++The+Hollinger+Team+Swan%2C+Echo%2C+Blaine+Properties+2017+Recap.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
