@@ -29,7 +29,7 @@ Lately, there have been a lot of people saying that homes are getting too expens
 
 Yes, it’s true that home values have appreciated since 2012. But the good news is that, **depending on your credit score, we still have interest rates around 4%.**
 
-Regardless of the fact that home values have risen, it’s still more affordable to own a home in our area than it is to rent. Not to mention the tax benefits you get from homeownership.
+Regardless of the fact that home values have risen, it’s still more affordable to own a home in our area than it is to rent, not to mention the tax benefits you get from homeownership.
 
 Another benefit of the 2018 real estate market is that supply is going up. This increase is slow, but it’s definitely taking place. New construction starts are continually cropping up.
 
@@ -41,4 +41,4 @@ Also, according to the National Association of Realtors and other reputable sour
 
 A 1% difference may not sound large, but **a 1% difference in interest rates amounts to a 10% decrease in purchasing power.** The difference between a rate of 4% and a rate of 5% would be thousands of dollars.
 
-If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.<br>
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
