@@ -9,7 +9,8 @@ excerpt: >-
   year before, but it’s up from the 44 we saw in 2015. The median price in
   Flathead Lake is up to $689,000 right now and there are seven pending sales on
   the lake as well. Each of these pending sales is below the $900,000 mark.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Scott+Hollinger/Montana+Real+Estate++The+Hollinger+Team+Flathead+lake+Properties+2017+Recap.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
