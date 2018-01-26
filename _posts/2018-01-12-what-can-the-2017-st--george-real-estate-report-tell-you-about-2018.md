@@ -3,7 +3,8 @@ youtube_code: JcLYr4InaK8
 excerpt: >-
   From 2017’s numbers, we can confidently say we’re not in a bubble, and your
   home should only increase in value moving forward in 2018.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jeremy-Larkin/St.+George+Real+Estate+Agent+2018+St.+George+Real+Estate+Forecast!.mp4
 pullquote: You can expect your home to receive another 5% bump in value.
 enclosure_type: video/mp4
 enclosure_time:
@@ -33,23 +34,23 @@ blogger_orig_url: >-
 
 In case you haven’t heard, things are “moving and shaking” here in Washington County. According to an article published by **[The Spectrum](http://www.thespectrum.com/)** this week, we’re seeing a record amount of construction.
 
-Before I talk about the numbers, let me clarify something. The term “record construction” can be misconstrued. We actually **pulled more building permits and built more homes** in 2005 than we did in 2017, so don’t let this news mislead you. However, it seems like everywhere you look they’re tearing something down and building something new.&nbsp;
+Before I talk about the numbers, let me clarify something. The term “record construction” can be misconstrued. We actually **pulled more building permits and built more homes** in 2005 than we did in 2017, so don’t let this news mislead you. However, it seems like everywhere you look they’re tearing something down and building something new.
 
-They’re referring to TOTAL CONSTRUCTION – all of those massive hotels, office buildings and student housing complexes you see going up. And yes, the total $$ value of that construction is indeed a record for Washington County.&nbsp;
+They’re referring to TOTAL CONSTRUCTION – all of those massive hotels, office buildings and student housing complexes you see going up. And yes, the total $$ value of that construction is indeed a record for Washington County.
 
-From December 2016 to December 2017, **the average sale price for single-family homes, condos, and townhomes increased from $288,388 to $321,676—a 10.3% jump.** This means your home’s value likely increased 5% to 15%. Why the difference? If you own a higher-end home, you probably saw closer to a 5% increase because of basic supply and demand.&nbsp;
+From December 2016 to December 2017, **the average sale price for single-family homes, condos, and townhomes increased from $288,388 to $321,676—a 10.3% jump.** This means your home’s value likely increased 5% to 15%. Why the difference? If you own a higher-end home, you probably saw closer to a 5% increase because of basic supply and demand.
 
-To get a better idea of what I mean by this, you can visit [www.soldinstgeorge.com](www.soldinstgeorge.com) for a monthly market report for Washington County, Washington City, St. George City, Santa Clara, and Hurricane Valley. What you’ll find if you look there is the law of supply and demand is suppressing home values. However, if you own a home worth less than $200,000, there is less than a month’s worth of inventory in that price range, which means your home will be sold in 30 days or less if you put it on the market. We’re routinely putting homes on the market and selling them on day one.&nbsp;
+To get a better idea of what I mean by this, you can visit [www.soldinstgeorge.com](www.soldinstgeorge.com) for a monthly market report for Washington County, Washington City, St. George City, Santa Clara, and Hurricane Valley. What you’ll find if you look there is the law of supply and demand is suppressing home values. However, if you own a home worth less than $200,000, there is less than a month’s worth of inventory in that price range, which means your home will be sold in 30 days or less if you put it on the market. We’re routinely putting homes on the market and selling them on day one.
 
 Now that we’re up 10.3%, what’s next for Washington County? First, we’re not in a bubble. A bubble has to consist of two things: values getting too high for the average wage earner and over-speculation. Values are higher than the average wage earner, but we don’t have over-speculation.
 
 {% include pullquote.html %}
 
-You can expect another 600 to 800 brand-new housing units going up and your home receiving perhaps another 5% bump in value. **2018 is a great time to trade over, meaning sell your home,** **take all the equity in it, and buy another home.** If you’re worried about how expensive that sounds given the 10.3% increase in home values, just know that the same relationship would exist if values went down.&nbsp;
+You can expect another 600 to 800 brand-new housing units going up and your home receiving perhaps another 5% bump in value. **2018 is a great time to trade over, meaning sell your home,** **take all the equity in it, and buy another home.** If you’re worried about how expensive that sounds given the 10.3% increase in home values, just know that the same relationship would exist if values went down.
 
 **LAST, and perhaps MOST CRITICAL thought!**
 
-The market is “peaked”. Even at that, many Sellers tell us, “we’d like to sell when our home is worth a bit more.” I get it. The challenge? *It may not be worth much more for another DECADE after 2018.&nbsp;*
+The market is “peaked”. Even at that, many Sellers tell us, “we’d like to sell when our home is worth a bit more.” I get it. The challenge? *It may not be worth much more for another DECADE after 2018.*
 
 Real estate is cyclical and values WILL FALL again before they rise. Food for thought!
 
