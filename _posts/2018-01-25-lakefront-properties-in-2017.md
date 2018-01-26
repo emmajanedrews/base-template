@@ -10,7 +10,8 @@ excerpt: >-
   market, which is bringing down the average sale price. In places like Echo and
   Swan Lake, we’re seeing quite a few sales over that $1 million mark. To get
   all the latest details on these waterfront markets, watch this short video.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Scott+Hollinger/Montana+Real+Estate++The+Hollinger+Team+Lakefront+properties+in+2017.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
