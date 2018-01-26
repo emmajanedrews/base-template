@@ -3,7 +3,7 @@ layout: post
 title: Where Is the Market Headed This Year?
 tags:
   - Market Update
-date:
+date: 2018-01-26 15:19:23
 excerpt: >-
   What will become of the 2018 market? I have some predictions to share with
   you.
@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/BUquLXZGoUE'
 
 Today I want to give you a few of my predictions about the Triangle real estate market, in addition to some striking stats from 2017.
 
-Looking ahead at 2018, I can say for sure that** inventory will be super tight.** We’ve already seen on the market out the demand for homes vastly outweighs the supply.
+Looking ahead at 2018, I can say for sure that\*\* inventory will be super tight.\*\* We’ve already seen on the market out the demand for homes vastly outweighs the supply.
 
 When you compare December of 2017 to the same month in 2016, inventory was down 5%. Now, when you compare 2017 to 2013 in terms of the number of listings, inventory fell 57%. This is mindblowing when you think about all the growth that has happened over the past four years. That’s likely why we see apartment complexes being built left and right as you drive through downtown Raleigh.
 
@@ -33,6 +33,6 @@ This leads me to my next prediction: **Prices will continue to rise in 2018.** I
 
 And that’s something else we should expect from 2018, as well; since the economy is doing so well, the Fed has every reason to raise rates, and they are expected to go up to 5% this year. **This means that it will become more expensive to borrow money.**The home that might cost you $300,000 today will, by the end of the year, cost $315,320. The money that you borrow will cost more as well, so there’s no time like the present.
 
-The fact is **that the market cycles every seven years or so.** The last peak was in 2007, so we are about four years overdue, statistically speaking.&nbsp;
+The fact is **that the market cycles every seven years or so.** The last peak was in 2007, so we are about four years overdue, statistically speaking.
 
-If you have any questions or need help with your real estate ventures, please reach out to us. We would appreciate the opportunity to help you you out this year.&nbsp;<br>&nbsp;
+If you have any questions or need help with your real estate ventures, please reach out to us. We would appreciate the opportunity to help you you out this year. <br>
