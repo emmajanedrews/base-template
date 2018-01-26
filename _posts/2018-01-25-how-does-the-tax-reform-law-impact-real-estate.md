@@ -29,4 +29,4 @@ Finally, there is some good news—the home sale exclusion did not change. Earli
 
 That is a huge win for real estate.
 
-Again, these are the tax changes for 2018 that will impact real estate. If you have any other questions about your taxes, please reach out to your CPA.
+Again, these are the tax changes for 2018 that will impact real estate. If you have any other questions about your taxes, please reach out to your CPA.&nbsp;<br><br>As always, if you have any questions pertaining to real estate, feel free to give me a call or send me an email. I look forward to hearing from you soon.
