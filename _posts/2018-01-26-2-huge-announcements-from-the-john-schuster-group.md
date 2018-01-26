@@ -18,17 +18,17 @@ youtube_code: oU6s1uQBGXo
 
 {% include youtube.html %}
 
-We have a few big announcements to make today. First, I want to talk about the commercial we filmed recently out in New York with Shark Tank’s Barbara Corcoran. It starts at about :37 in the video above. We had a great time shooting with Barbara and can’t thank her enough for the invite.
+We have a few big announcements to make today. First, I want to talk about the commercial we filmed recently out in New York with Shark Tank’s Barbara Corcoran. It starts at about 0:37 in the video above. We had a great time shooting with Barbara and can’t thank her enough for the invite.
 
 Next, I want to share a few things that are extremely important to our team. We recently sat down together and wrote down our mission statement, our vision statement, and our core values. These are the principles that our company is built on and we’re proud to share them with you today.
 
-Mission Statement: The John Schuster Group is here to inspire, educate, and deliver exceptional service to our clients, while helping them achieve their real estate goals.
+**Mission Statement:** The John Schuster Group is here to inspire, educate, and deliver exceptional service to our clients, while helping them achieve their real estate goals.
 
-Vision Statement: To be a leader in the real estate industry and achieve the highest level of customer service.
+**Vision Statement:** To be a leader in the real estate industry and achieve the highest level of customer service.
 
 {% include pullquote.html %}
 
-Our core values are extremely important to us as well. We strive to cultivate an attitude of gratitude in every single aspect of our professional and personal lives. We recognize that our success is because of who we have been surrounded with and the support we have received. For that, we are eternally grateful. We broke thes core values down into an acronym: GRATITUDE.
+Our core values are extremely important to us as well. We strive to cultivate an attitude of gratitude in every single aspect of our professional and personal lives. We recognize that our success is because of who we have been surrounded with and the support we have received. For that, we are eternally grateful. **We broke these core values down into an acronym: GRATITUDE.**
 
 Generous
 
