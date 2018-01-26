@@ -2,11 +2,7 @@
 layout: post
 title: How Do ‘Can’t Ask Salary’ Laws Work?
 tags:
-  - Bio Pharma
   - Building Products
-  - Careers
-  - Futurity
-  - Health Care
 excerpt:
 enclosure: >-
   California, Massachusetts, Delaware, and New York City all have can’t ask
@@ -26,7 +22,7 @@ I recently had a conversation with one of my clients about can’t ask salary la
 
 **A few areas across the country have recently passed can’t ask salary laws.** Like any new law, it can be a little complicated, so let me simplify it for you.
 
-Three states and one city have these laws in effect: California, Massachusetts, Delaware, and New York City. Oregon has passed a can’t ask salary law that will go into effect in January of 2019. Philadelphia also passed a can’t ask salary law, but that has been delayed due to some court actions. &nbsp;
+Three states and one city have these laws in effect: California, Massachusetts, Delaware, and New York City. Oregon has passed a can’t ask salary law that will go into effect in January of 2019. Philadelphia also passed a can’t ask salary law, but that has been delayed due to some court actions.
 
 {% include pullquote.html %}
 
