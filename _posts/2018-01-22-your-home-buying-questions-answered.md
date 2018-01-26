@@ -12,7 +12,7 @@ pullquote: Don’t let misinformation prevent you from getting your next home.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/tia-screenshot--get-a-new-home-youtube.jpg
+youtube_alternate_image: /uploads/tia-screenshot--get-a-new-home-youtube-1.jpg
 youtube_code: 'https://youtu.be/ID_RKDx_Dnw'
 ---
 
