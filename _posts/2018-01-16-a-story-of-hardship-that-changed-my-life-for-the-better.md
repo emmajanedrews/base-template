@@ -21,7 +21,7 @@ youtube_code: zisP3a3rd8Q
 
 Happy 2018! You’ve all asked me some great questions this last year, and today, I’m utilizing this time to pose a question that has had a huge impact on my life. I hope it has the same effect on yours.
 
-To tell the story, I’ll be very personal. **About three or four years ago, I was diagnosed with an autoimmune disease called ITP**. I’ve been fine for the last three years; I’ve not dealt with it since then. But for a couple years of my life, I’ve dealt with being on prednisone and going through chemotherapy. It was a really hard time and I’ll never forget it.
+This is a very personal story.&nbsp; **About three or four years ago, I was diagnosed with an autoimmune disease called ITP**. I’ve been fine for the last three years; I’ve not dealt with it since then. But for a couple years of my life, I’ve dealt with being on prednisone and going through chemotherapy. It was a really hard time and I’ll never forget it.
 
 Maybe you’ve been through chemotherapy yourself or have had a friend or family member who has. It’s a very challenging time. Once a week for eight weeks, I would go in and get dripped, be hooked up, and they would have everything going through my body. One of the first times I went, I was parked in the lot, and I realized that I was going to go in and have this drug dripped into my body. I knew there would be potential side effects.
 
