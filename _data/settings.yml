@@ -1,5 +1,5 @@
 audit_header: false
-title: Vancouver Real Estate Videos 
+title: Alex Lam Personal Real Estate Corporation
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Alex Lam - your professional Royal Pacific Realty Real Estate Agent.'
 show_custom_links: false
 custom_links:
@@ -7,7 +7,7 @@ custom_links:
     url:
 
 client:
-  name: Alex Lam
+  name: Alex Lam Personal Real Estate Corporation
   license_number:
   about_markdown: |
     Over my past 10 years in Real Estate I have honed my skills to best serve you best. After graduating from Simon Fraser University with a BA in Psychology, I have worked as an Mortgage Broker, Life Insurance Sales, Mutual Funds Representative, and even as an Optician. Let Alex's personal network of over 2000 professionals aid you in your real estate needs.
@@ -15,7 +15,7 @@ client:
     Whether you are selling your home, looking for a new home or buying an investment property, Alex will expertly navigate you through the complexities of the real estate process. That is because Alex is not just a real estate agent; he is a researcher, an analyst, an advisor, a marketer, a negotiator and if needed a Psychologist. He is also a trusted friend you can rely on and who will put your needs first. He has become friends with many of his past clients.
   market:
   brand: Royal Pacific Realty
-  brokerage: Alex Lam Personal Real Estate Corporation
+  brokerage: 
   address: 550 650 W 41st Ave, Vancouver, BC V5Z 2M9
   phone: 778-898-2539
   phone_type:
