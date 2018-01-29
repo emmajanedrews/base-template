@@ -27,12 +27,14 @@ client:
   phone2: 1-866-844-4102
   phone2_type: Office
   email: scase@fscadvisor.com
+
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808343';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+
 CTAs:
   first_CTA_text: Get Your Free e-Book
   first_CTA_URL: 'http://www.michigan401kadvisors.com/tracking-retirement'
   second_CTA_text: Schedule a Consultation
   second_CTA_URL: 'http://michigan401kadvisors.com/contact'
-  VR_form: 'http://oi.vresp.com?fid=4e1782c081'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/006.png
     CTA_title: Download Your Free e-Book
