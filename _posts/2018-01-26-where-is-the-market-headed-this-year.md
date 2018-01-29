@@ -35,4 +35,4 @@ And that’s something else we should expect from 2018, as well. since the econo
 
 The fact is **that the market cycles every seven years or so.** The last peak was in 2007, so we are about four years overdue, statistically speaking.
 
-If you have any questions or need help with your real estate ventures, please reach out to us. We would appreciate the opportunity to help you you out this year.&nbsp;
+If you have any questions or need help with your real estate ventures, please reach out to us. We would appreciate the opportunity to help you out this year.&nbsp;
