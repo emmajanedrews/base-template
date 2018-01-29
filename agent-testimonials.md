@@ -1,17 +1,10 @@
 ---
 layout: default
-title: Client Testimonials
-permalink: /client-testimonials/
+title: Agent Interviews
+permalink: /agent-interviews/
 ---
 
-<h1>Client Audio Testimonials</h1>
+<div class="vid">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RMQ1Z0C8wDQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
-<div class="client-testimonial">
-<!-- insert iframe -->
-<p class ="testimonial-text">
-<!-- QUOTE TEXT -->
-</p>
-<p class="testimonial-author">
-<!-- QUOTE AUTHOR -->
-</p>
-<hr>
