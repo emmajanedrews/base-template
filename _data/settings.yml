@@ -24,12 +24,14 @@ client:
   email2: shane@nealteam.com
   email2_type: Email
   url: http://www.nealbrosinvestmentgroup.com
+
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808679';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+
 CTAs:
   first_CTA_text: Reach Out To Us
   first_CTA_URL: /contact-us
   # second_CTA_text: Home Search
   # second_CTA_URL: /homesearch/
-  VR_form: http://oi.vresp.com?fid=d669a10a71
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
