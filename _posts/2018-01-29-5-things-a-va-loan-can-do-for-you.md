@@ -23,18 +23,18 @@ If you are a veteran of the armed forces, you’re active duty personnel, you’
 
 **There are five great advantages that come with this particular loan:**
 
-1. You don’t need a down payment. Most people consider a down payment a huge hurdle to homeownership because it sometimes requires you to put up to 20% of your overall loan amount down. With a VA loan, you get to bypass that hurdle.
+1) You don’t need a down payment. Most people consider a down payment a huge hurdle to homeownership because it sometimes requires you to put up to 20% of your overall loan amount down. With a VA loan, you get to bypass that hurdle.
 
-2. It has more lenient requirements. For example, most people need a credit score of around 650 or 700. With a VA loan, you only need to have a credit score of 620 or above.
+2) It has more lenient requirements. For example, most people need a credit score of around 650 or 700. With a VA loan, you only need to have a credit score of 620 or above.
 
-3. You don’t need mortgage insurance. The only thing they require is an upfront funding fee, but that can be rolled into your payments, and it’s tax deductible.
+{% include pullquote.html %}
 
-4. It limits your closing costs.
+3) You don’t need mortgage insurance. The only thing they require is an upfront funding fee, but that can be rolled into your payments, and it’s tax deductible.
 
-5. It provides appraisal assistance. They can notify your agent and give you 48 hours to provide any additional information you might need to boost the appraisal value.
+4) It limits your closing costs.
+
+5) It provides appraisal assistance. They can notify your agent and give you 48 hours to provide any additional information you might need to boost the appraisal value.
 
 At the end of the day, **the VA loan is our society’s way of saying thank you to all the men and women who have served our country.**
 
 If you have any more questions about how a VA loan can benefit you or you have any other real estate needs, don’t hesitate to reach out to us. We’d be glad to help you.
-
-{% include pullquote.html %}
