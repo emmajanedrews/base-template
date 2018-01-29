@@ -24,12 +24,13 @@ client:
   email: ronmargolis@kw.com
   url: http://www.kauairealestatesearch.com
 
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808339';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: http://www.kauairealestatesearch.com/cma/property-valuation/
   second_CTA_text: Home Search
   second_CTA_URL: http://www.kauairealestatesearch.com/search/advanced_search/
-  VR_form: http://oi.vresp.com?fid=39ef69f1a0
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
