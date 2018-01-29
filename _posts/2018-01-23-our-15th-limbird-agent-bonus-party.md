@@ -38,7 +38,7 @@ This party featured a double giveaway, so that’s $20,000. It’s our 15th part
 
 Check out the video to watch some hardworking agents win some great prizes.
 
-Giving back to the community is something we love to do! We recently had the wonderful opportunity to help out other people in the Arkansas area through the Kiss a Pig Program. Check out our other video [here](https://youtu.be/BOS6oW8N1TA) to see how we teamed up with Patty La Pig to raise money for the American Diabetes Association.
+**Giving back to the community is something we love to do!** We recently had the wonderful opportunity to help out other people in the Arkansas area through the Kiss a Pig Program. Check out our other video [here](https://youtu.be/BOS6oW8N1TA) to see how we teamed up with Patty La Pig to raise money for the American Diabetes Association.
 
 If you list with the Limbird Team and participate in our LAB program, I bet we’ll get your house sold, too.
 
