@@ -20,7 +20,7 @@ youtube_code: pU0O_HBlFy4
 
 {% include youtube.html %}
 
-Traditionally, when a home seller accepts a contract, the offer is subject to a seven to 10 day inspection period. During the inspection, a buyer will go through the home with their inspector and find out any and everything that’s wrong with the house. **They then ask the seller to repair a list of items that have to be completed by a licensed, bonded professional.**
+Traditionally, when a home seller accepts a contract, the offer is subject to a seven-to 10-day inspection period. During the inspection, a buyer will go through the home with their inspector and find out any and everything that’s wrong with the house. **They then ask the seller to repair a list of items that have to be completed by a licensed, bonded professional.**
 
 The problem that we’ve found with traditional inspections is that they cause a lot of transactions to fall apart. In fact, about 20% of all homes that go under contract fail to reach the closing table for this reason. When you have to go back on the market after a deal falls apart, most buyers tend to think there’s something wrong with the house, especially if it comes on after the inspection period.
 
