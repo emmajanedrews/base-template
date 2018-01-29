@@ -21,7 +21,7 @@ youtube_code: Y3IKZ0_c11c
 
 Happy 2018! You’ve all asked me some great questions this last year, and today, I’m utilizing this time to pose a question that has had a huge impact on my life. I hope it has the same effect on yours.
 
-This is a very personal story.  **About three or four years ago, I was diagnosed with an autoimmune disease called ITP**. I’ve been fine for the last three years; I’ve not dealt with it since then. But for a couple years of my life, I’ve dealt with being on prednisone and going through chemotherapy. It was a really hard time and I’ll never forget it.
+This is a very personal story.&nbsp; **About three or four years ago, I was diagnosed with an autoimmune disease called ITP**. I’ve been fine for the last three years; I’ve not dealt with it since then. But for a couple years of my life, I’ve dealt with being on prednisone and going through chemotherapy. It was a really hard time and I’ll never forget it.
 
 Maybe you’ve been through chemotherapy yourself or have had a friend or family member who has. It’s a very challenging time. Once a week for eight weeks, I would go in and get dripped, be hooked up, and they would have everything going through my body. One of the first times I went, I was parked in the lot, and I realized that I was going to go in and have this drug dripped into my body. I knew there would be potential side effects.
 
@@ -35,4 +35,4 @@ I wanted to throw this question out to you to carry throughout 2018. What would 
 
 {% include pullquote.html %}
 
-<br>There’s a quote I enjoy: **“Change the questions you ask yourself, and you’ll change your life.”**<br><br>This year, as you move forward in 2018, I hope that you ask yourself that question and live by what you would do if you couldn’t fail.<br><br>If you have any questions for me, feel free to reach out. I’d be happy to help you. Until then, make it a great 2018!
+<br><br><br>This year, as you move forward in 2018, I hope that you ask yourself that question and live by what you would do if you couldn’t fail.<br><br>If you have any questions for me, feel free to reach out. I’d be happy to help you. Until then, make it a great 2018!
