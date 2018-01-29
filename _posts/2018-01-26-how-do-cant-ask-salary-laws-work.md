@@ -2,7 +2,7 @@
 layout: post
 title: How Do ‘Can’t Ask' Salary Laws Work?
 tags:
-  - BioPharma
+  - Healthcare
 excerpt: >-
   California, Massachusetts, Delaware, and New York City all have can’t ask
   salary laws in effect. How do these laws impact employers?
