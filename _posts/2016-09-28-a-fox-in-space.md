@@ -1,5 +1,5 @@
 ---
-youtube_code: 
+youtube_code:
 excerpt:
 enclosure:
 pullquote:
@@ -11,9 +11,10 @@ layout: post
 title: A Fox in Space
 date: 2016-09-28
 tags:
-  - Market Update
-  - Real Estate
-  - Home Seller Tips
+  - Mortgage Minute
+  - Refinancing
+  - Home Purchase
+  - Finance Advice
 excerpt: 'Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.'
 enclosure:
 pullquote: This is an example of a pull quote

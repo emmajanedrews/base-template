@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>-- MARKET -- Real Estate Video Blog with -- CLIENT NAME --</title>
-    <description>Our mission at  is to be your best resource for  real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The , your professional  Real Estate Agents.</description>
+    <title>Finance of America Video Blog with Sergio Haros</title>
+    <description>Our mission at Finance of America is to be your best resource for  real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Finance of America, your professional  Real Estate Agents.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 Dec 2017 14:50:28 -0600</pubDate>
-    <lastBuildDate>Thu, 28 Dec 2017 14:50:28 -0600</lastBuildDate>
+    <pubDate>Mon, 29 Jan 2018 16:33:05 -0600</pubDate>
+    <lastBuildDate>Mon, 29 Jan 2018 16:33:05 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -31,11 +31,13 @@
         <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
         <guid isPermaLink="true">localhost:4000/this-is-a-test-post-copy-2.html</guid>
         
-        <category>Market Update</category>
+        <category>Mortgage Minute</category>
         
-        <category>Real Estate</category>
+        <category>Refinancing</category>
         
-        <category>Home Seller Tips</category>
+        <category>Home Purchase</category>
+        
+        <category>Finance Advice</category>
         
         
       </item>
@@ -78,11 +80,13 @@
         <link>localhost:4000/a-fox-in-space.html</link>
         <guid isPermaLink="true">localhost:4000/a-fox-in-space.html</guid>
         
-        <category>Market Update</category>
+        <category>Mortgage Minute</category>
         
-        <category>Real Estate</category>
+        <category>Refinancing</category>
         
-        <category>Home Seller Tips</category>
+        <category>Home Purchase</category>
+        
+        <category>Finance Advice</category>
         
         
       </item>
