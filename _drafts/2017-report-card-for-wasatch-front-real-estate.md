@@ -14,10 +14,11 @@ excerpt: >-
   last two years alone. The condo market is doing just as well. To learn more
   about why we’re so optimistic about our market in 2018, watch this short
   video.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2018/The+Stern+Team-+2017+Report+Card.mp4
 pullquote: Things are looking strong along the Wasatch Front in 2018.
 enclosure_type: video/mp4
-enclosure_time: '10:39 am'
+enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: kodSwXkDcxE
