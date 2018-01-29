@@ -19,7 +19,7 @@ youtube_code: BEn3-oqwTSw
 {% include youtube.html %}
 {: .present-before-paste}
 
-In recruitment, we talk to a lot of candidates who’ve made dramatic career changes. Through those conversations, we’ve been able to garner a lot of tips to help others make the transition through what can be a scary time in your career.
+In recruitment, we talk to a lot of candidates who have made dramatic career changes. Through those conversations, we’ve been able to garner a lot of tips to help others make the transition through what can be a scary time in your career.
 {: .present-before-paste}
 
 First, **figure out who you want to work with.** You can do this in a variety of ways. For example, you may request another interview or ask to shadow someone who has the job you are interested in.
@@ -31,13 +31,13 @@ You end up spending more time with the people you work with than your own family
 {% include pullquote.html %}
 {: .present-before-paste}
 
-Next, don’t just sit back and wait. Be proactive. There are tools on LinkedIn that allow you to say you are open to opportunities. You don’t need to make a change in the next day or two, but you can be proactive and leave your door cracked open a little bit.
+Next, **don’t just sit back and wait**. Be proactive. There are tools on LinkedIn that allow you to say you are open to opportunities. You don’t need to make a change in the next day or two, but you can be proactive and leave your door cracked open a little bit.
 {: .present-before-paste}
 
 You can do that by making contact with recruiters or talking to people you value within the industry. Talk to people who are where you aspire to be. Always be networking.
 {: .present-before-paste}
 
-Finally, make sure that you take some time to decompress between roles. Whether that means taking a week before starting your new job or adding a couple days to a weekend, I think it’s very important that you take the time to decompress and close that chapter in your life. You can also take that time to get excited about your next chapter.
+Finally, **make sure that you take some time to decompress between roles.** Whether that means taking a week before starting your new job or adding a couple days to a weekend, I think it’s very important that you take the time to decompress and close that chapter in your life. You can also take that time to get excited about your next chapter.
 {: .present-before-paste}
 
 If you have any other questions, just give me a call or send me an email. I would be happy to help you!
