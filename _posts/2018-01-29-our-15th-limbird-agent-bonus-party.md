@@ -5,7 +5,7 @@ date: 2018-01-29 09:00:00
 tags:
   - Real Estate
 excerpt: >-
-  We recently celebrated our 15th Limbird Agent Bonus Party! When you list your
+  We recently celebrated the 15th Limbird Agent Bonus Party! When you list your
   home with us and choose to use our LAB program, it gives your home a boost to
   Realtors in our area, helping us to get your home sold FAST and for the most
   money. This party marked $150,000 in bonuses that we've given to local agents!
