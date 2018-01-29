@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: 725BPTnM4QE
 ---
 
 
@@ -23,7 +23,7 @@ youtube_code:
 
 How can you get online reviews from mainstream websites that potential buyers and sellers are likely to use? Such sites include Google, Zillow, Homes.com, and Realtor.com.
 
-First of all, Realtor.com doesn’t have any client testimonials. Homes.com, on the other hand, allows you to copy testimonials you may have from other websites and place them on their site. Sites like Zillow require the client to put a review into their systems. They have validation techniques to make sure that people aren’t fabricating reviews.<br>&nbsp;
+First of all, Realtor.com doesn’t have any client testimonials. Homes.com, on the other hand, allows you to copy testimonials you may have from other websites and place them on their site. Sites like Zillow require the client to put a review into their systems. They have validation techniques to make sure that people aren’t fabricating reviews.<br>
 
 **You can take advantage of the closing process to get reviews from clients.** Have your Zillow or Google profile pulled up while you’re at the closing table and, in the middle of your conversation about their experience, simply ask your clients to leave a review for you.
 
@@ -40,5 +40,3 @@ Websites like Yelp are a little more difficult. It’s not quite as popular in C
 It’s so critical to have a strong online presence with reviews. People will research you and your company to make sure that you have a good reputation and brand. It’s especially critical if you do invest money in websites such as Zillow to get leads because they’re advertising multiple people on the same listing; **if you have more reviews than the other agents listed, then it’s more likely that someone will reach out to you for a question.** The same is true for agents with more detailed profiles set up.
 
 Hopefully, this information can help you garner more reviews which are so essential to the business. If you have any more questions, don’t hesitate to reach out. I’d be more than happy to help.
-
-&nbsp;
