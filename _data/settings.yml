@@ -7,8 +7,8 @@ custom_links:
     url: /about/
   - title: Our Agents
     url: https://www.ajteamrealty.com/agents/
-  - title: Training Interviews
-    url: /training/
+  - title: Training and Interviews
+    url: /agent-interviews/
 client:
   name: Allen Johnson
   license_number:
