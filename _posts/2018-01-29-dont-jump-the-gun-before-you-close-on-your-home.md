@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/no-12.jpg
-youtube_code: 85k1HhF5WGQ
+youtube_code: Ukj9vtoeVF4
 ---
 
 
@@ -42,4 +42,4 @@ Will paying for things with cash hurt?
 
 Cash will never hurt anything. The only way that paying with cash might hurt you is if you’re using funds that you had set aside for your down payment and closing costs or other important expenditures. You can always use your money however you want, **just always be cognizant of what exactly you’ll need at the closing table moving forward.**
 
-If you have any questions about the homebuying process or about the mortgage loan process, please don’t hesitate to reach out to me.<br>&nbsp;
+If you have any questions about the homebuying process or about the mortgage loan process, please don’t hesitate to reach out to me.<br>
