@@ -12,7 +12,7 @@ enclosure: >-
 pullquote: Price your home to include the closing costs.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image:
 youtube_code: iydrPdP4o1A
 ---
