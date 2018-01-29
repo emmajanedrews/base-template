@@ -30,7 +30,7 @@ sidebar_CTA:
     CTA_title: "Become A Part of The AJ Team"
     CTA_text: "Are you interested in furthering your real estate sales career?"
     CTA_link_text: "Contact Us"
-    CTA_url: https://www.ajteamrealty.com/careers/
+    CTA_url: /contact/
 
 lender:
   show_section: false
