@@ -12,8 +12,8 @@ pullquote: What would you do differently in your life if you knew you couldn’t
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/no-4.jpg
-youtube_code: zisP3a3rd8Q
+youtube_alternate_image: /uploads/no-10.jpg
+youtube_code: Y3IKZ0_c11c
 ---
 
 
