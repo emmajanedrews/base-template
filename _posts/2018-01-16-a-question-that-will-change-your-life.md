@@ -33,6 +33,4 @@ One of my business coaches actually planted this question and it really stuck wi
 
 I wanted to throw this question out to you to carry throughout 2018. What would you do differently in your life if you knew you couldn’t fail? Maybe it’s something personal. Maybe you would adopt, but you’re afraid of something. Maybe it has to do with your dating life, your marriage, your business, or something else.
 
-{% include pullquote.html %}
-
-<br><br><br>This year, as you move forward in 2018, I hope that you ask yourself that question and live by what you would do if you couldn’t fail.<br><br>If you have any questions for me, feel free to reach out. I’d be happy to help you. Until then, make it a great 2018!
+{% include pullquote.html %}<br><br>This year, as you move forward in 2018, I hope that you ask yourself that question and live by what you would do if you couldn’t fail.<br><br>If you have any questions for me, feel free to reach out. I’d be happy to help you. Until then, make it a great 2018!
