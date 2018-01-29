@@ -23,25 +23,18 @@ client:
   url: AJTeamRealty.com
 
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_text: Join Our Team
+  first_CTA_URL: https://www.ajteamrealty.com/careers/
   second_CTA_text: Home Search
   second_CTA_URL: /homesearch/
   VR_form:
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
-
-second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_title: "Become A Part of The AJ Team"
+    CTA_text: "Are you interested in furthering your real estate sales career?"
+    CTA_link_text: "Contact Us"
+    CTA_url: https://www.ajteamrealty.com/careers/
 
 lender:
   show_section: false
