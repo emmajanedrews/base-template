@@ -19,7 +19,9 @@ youtube_code: 3kovmLRHeDA
 
 {% include youtube.html %}
 
-<center>Many people have asked me about how dangerous earthquakes in Montana are. Here’s what you should know.</center>
+<center><em>Many people have asked me about how dangerous earthquakes in Montana are. Here&rsquo;s what you should know.</em></center>
+
+<center>&nbsp;</center>
 
 Are earthquakes something to be worried about if you live in Montana?
 
@@ -37,4 +39,4 @@ There is a portion of the Belt called the Centennial Tectonic Belt that has **ei
 
 So in general, no, you don’t have much to fear from earthquakes in Montana. If you have any questions about earthquakes in the region, you can check out this **[site](http://www.mbmg.mtech.edu/quakes/quake-seismicity.html)** for more information.
 
-For any other questions about real estate, feel free to reach out to me. I’d be happy to talk with you.<br>
+For any other questions about real estate, feel free to reach out to me. I’d be happy to talk with you.
