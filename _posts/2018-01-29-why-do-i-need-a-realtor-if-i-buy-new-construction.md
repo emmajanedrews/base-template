@@ -1,6 +1,6 @@
 ---
 layout: post
-title: When an Agent is Buying Your Listing
+title: Why Do I Need a Realtor If I Buy New Construction?
 date: 2018-01-29 13:41:40
 tags:
 excerpt: >-
