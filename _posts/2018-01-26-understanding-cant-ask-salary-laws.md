@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Do ‘Can’t Ask' Salary Laws Work?
+title: Understanding 'Can’t Ask' Salary Laws
 tags:
   - BioPharma
 excerpt: >-
