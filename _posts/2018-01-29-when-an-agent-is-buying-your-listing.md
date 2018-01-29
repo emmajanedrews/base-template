@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When an Agent is Buying Your Listing
-date:
+date: 2018-01-29 13:41:40
 tags:
 excerpt: >-
   Some people think that if they’re going to buy a new home, they should do it
