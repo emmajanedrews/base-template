@@ -19,7 +19,7 @@ youtube_code: 3kovmLRHeDA
 
 {% include youtube.html %}
 
-Many people have asked me about how dangerous earthquakes in Montana are. Here’s what you should know.
+<center>Many people have asked me about how dangerous earthquakes in Montana are. Here’s what you should know.</center>
 
 Are earthquakes something to be worried about if you live in Montana?
 
