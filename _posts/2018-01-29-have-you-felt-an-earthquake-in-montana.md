@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Have You Felt An Earthquake in Montana?
+title: Have You Felt an Earthquake in Montana?
 date: 2018-01-29 14:48:48
 tags:
   - Real Estate
@@ -35,7 +35,7 @@ Sure enough, **it had been an earthquake.**
 
 A belt of seismicity (seismic or earthquake activity) actually runs through the western portion of Montana, called the Intermountain Seismic Belt. It extends into Idaho, Wyoming, Utah, and southern Nevada.
 
-There is a portion of the Belt called the Centennial Tectonic Belt that has **eight active faults which have produced a few major earthquakes in history**; although it’s been 40 years since an earthquake produced by this region has been destructive.
+There is a portion of the Belt called the Centennial Tectonic Belt that has **eight active faults which have produced a few major earthquakes in history,**&nbsp;although it’s been 40 years since an earthquake produced by this region has been destructive.
 
 So in general, no, you don’t have much to fear from earthquakes in Montana. If you have any questions about earthquakes in the region, you can check out this **[site](http://www.mbmg.mtech.edu/quakes/quake-seismicity.html)** for more information.
 
