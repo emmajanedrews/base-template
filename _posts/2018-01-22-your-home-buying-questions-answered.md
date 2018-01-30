@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   I’ve been hearing a lot of questions about the home buying process lately.
   That’s why today, I’m bringing on a special guest to address a few of them.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/Houston+Area+Real+Estate-+What+Does+It+Take+to+Get+a+New+Home%253F.mp4
 pullquote: Don’t let misinformation prevent you from getting your next home.
 enclosure_type: video/mp4
 enclosure_time:
@@ -23,7 +24,7 @@ Today’s special guest, Chad from Hancock Mortgage, has done a phenomenal job h
 
 The first question we went over was, “How long does it take, from start to finish, to purchase a home?”
 
-“Typically what we tell people is 30 days or less. As long as someone gets us the information we need in a timely manner, **30 days is more than enough time for you to submit a contract&nbsp;**to the close date,” said Chad.
+“Typically what we tell people is 30 days or less. As long as someone gets us the information we need in a timely manner, **30 days is more than enough time for you to submit a contract**to the close date,” said Chad.
 
 Next, I asked him about the subject of credit scores.<br><br>As far as credit scores go, Chad explained that the higher your rate is, the better. This is because **credit scores help to determine the rates you’ll receive when buying a home.** However, there are many different programs available for any kind of credit score.
 
