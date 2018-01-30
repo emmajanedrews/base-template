@@ -1,5 +1,5 @@
 ---
-youtube_code: _58kszftDUo
+youtube_code: psoAXxekbsg
 excerpt:
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/The+VA+Loan+Guy-+My+specialty+is+military+loans.mp4
@@ -7,7 +7,7 @@ pullquote: IT DOESN’T COST A THING TO TALK TO ME ON THE PHONE.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/patrick-fitzgerald-8-3-2016-3-of-4-email-1-3.jpg
+youtube_alternate_image: /uploads/02-military-loans-email.jpg
 layout: post
 title: I Specialize in Working with Military Clients
 date: 2017-03-16 18:31:00
