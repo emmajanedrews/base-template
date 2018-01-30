@@ -1,5 +1,5 @@
 ---
-youtube_code: TdL7Va_oLTg
+youtube_code: 6nW4QrqF3Nc
 excerpt:
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/The+VA+Loan+Guy-+Who+Qualifies+for+a+VA+Loan%253F.mp4
@@ -7,7 +7,7 @@ pullquote: THE SPOUSE OF A VETERAN CAN QUALIFY FOR A VA LOAN.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/patrick-fitzgerald-8-3-2016-3-of-4-email-1.jpg
+youtube_alternate_image: /uploads/04-who-qualifies-for-va-loan-email.jpg
 layout: post
 title: Who Qualifies for VA Loans?
 date: 2017-04-24 19:54:00
