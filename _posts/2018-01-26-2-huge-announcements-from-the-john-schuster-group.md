@@ -30,7 +30,7 @@ Next, I want to share a few things that are extremely important to our team. We 
 
 Our core values are extremely important to us as well. We strive to cultivate an attitude of gratitude in every single aspect of our professional and personal lives. We recognize that our success is because of who we have been surrounded with and the support we have received. For that, we are eternally grateful. **We broke these core values down into an acronym: GRATITUDE.**
 
-![](/uploads/versions/gratitude---x----967-596x---.JPG)
+![](/uploads/versions/gratitude-50---x----484-298x---.jpg)
 
 We’re going to continue working hard each day to show our GRATITUDE to our clients in each and every transaction. If you have any questions about the real estate market or any real estate needs that we can assist with, don’t hesitate to give us a call or send us an email. We look forward to hearing from you.
 
