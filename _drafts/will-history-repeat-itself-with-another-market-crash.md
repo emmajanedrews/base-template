@@ -10,7 +10,8 @@ excerpt: >-
   at those with bad borrowing history instead of the high-income, good credit
   borrowers. Could we be headed for another crash? To learn why you should be
   keeping an eye on this, watch my latest video.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Ben+Parojcic/Videos/2018/Ben+Parojcic+Remax+%257C+Are+Real+Estate+Lenders+Headed+for+Another+Crash%253F.mp4
 pullquote: >-
   Why are zero money down, zero closing cost loan products something to worry
   about? Find out here.
@@ -18,7 +19,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: 'https://youtu.be/8h4ZZxXsRSo'
 ---
 
 
