@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: WIQ9YdmQiWs
+youtube_code: '-ShBAWmjA-4'
 ---
 
 
@@ -31,5 +31,3 @@ If you’ve been stressing out about the new mortgage stress testing that took e
 Also, if you’re thinking about increasing your down payment up to 20% to avoid the insurance premium, you may be able to get a lower mortgage rate—up to 0.5%—with a higher ratio insured mortgage. You may save more money throughout your mortgage term instead of paying more money to have your mortgage insured.
 
 If you have any questions about our market or you’re thinking of buying or selling a home soon, don’t hesitate to reach out to me. I’d be happy to help you.
-
-&nbsp;
