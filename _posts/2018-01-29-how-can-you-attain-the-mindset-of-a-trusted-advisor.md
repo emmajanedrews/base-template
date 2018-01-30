@@ -24,7 +24,7 @@ youtube_code: G2uf2eJhc8w
 
 It’s a challenging market out there due to tight inventory, but our operating partner Scott Agnew has some advice on how to become a trusted advisor.
 
-In his words, you can either accept the low inventory and hope you can get buyers to buy this low inventory, or you can choose a different strategy and ignite the idea within homeowners that the opportunity to sell right now might be one of the best we’ve seen in recent times—especially for homeowners who’ve owned their home for 10 or 15 years or own a second home.
+Scott says you can either accept the low inventory and hope you can get buyers to purchase homes from the picked-over supply or you can choose a different strategy. As an alternative to putting all your hopes on buyers, try figuring out how you can ignite the idea within homeowners—especially those who have been in their properties for years—that right now is one of the best times to sell we've seen recently.
 
 Granted, many of these homeowners are perfectly happy and aren’t in the modality to re-allocate their assets, but as far as having that conversation with them, you’re simply inquiring if they’ve considered that now might be a great time for them to sell and re-allocate their assets.
 
@@ -32,7 +32,7 @@ Granted, many of these homeowners are perfectly happy and aren’t in the modali
 
 It’s also possible that they want to but just don’t know where to start or who to talk to. Whatever the case may be, there are opportunities out there if you utilize what Scott calls the **“approach it empathetically” mindset.** You’re not there to manipulate people or get them to do things; you’re there to ask them questions which might be at the top of their mind already.
 
-There may also be sellers out there who don’t know they want to sell but realize they’re not getting the utility out of their house that they prefer. It might be a good idea for them to sell while the market is near its peak. **When you introduce a thought or a concept to a client, they might resist it at first, but you can still plant that seed of that thought or concept.**
+There may also be sellers out there who don’t know they want to sell but realize they’re not getting the utility out of their house that they prefer. It might be a good idea for them to sell while the market is near its peak. **When you introduce a thought or a concept to a client, they might resist it at first, but you can still plant the seed of that thought or concept.**
 
 “You’re not going to change people’s minds instantly,” Scott says, “but maybe you plant the seed in a way that’s empathetic—that gives them the time to process the idea such that, all of a sudden, it becomes something they want to do.”
 
