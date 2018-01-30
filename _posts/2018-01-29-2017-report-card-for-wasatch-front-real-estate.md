@@ -29,7 +29,7 @@ youtube_code: uqc8oNCQvHU
 
 I’ve got a report card to share with you today for the Wasatch Front real estate market in 2017. Let’s start with some of the numbers for single-family homes.
 
-Single-family home sales were down slightly in 2017. They dropped 3.5% from where they were in 2016 and we saw 28,000 of them. If we go back to the previous height of the market in 2006 when 28,300 single-family homes sold. **That was our strongest sales year ever in terms of home sales and we’re very close to that level right now.**
+Single-family home sales were down slightly in 2017. They dropped 3.5% from where they were in 2016 and we saw 28,000 of them. If we go back to the previous height of the market in 2006 when 28,300 single-family homes sold,** t****hat was our strongest sales year ever in terms of home sales and we’re very close to that level right now.**
 
 The average sale price for single-family homes is up about 6% year-over-year, from $305,000 to $323,000. A big reason for this is because of the limited availability of entry-level housing and the luxury market picking up momentum as well. Home prices have increased about 16% over the last few years. Over the last 40 years, we have seen an average appreciation of 3.2%, so **this is definitely an indicator of Utah’s growing population and the new home builders’ inability to keep up with demand. It’s a great time to be a home seller and move up to take advantage of the market.**
 
@@ -37,7 +37,7 @@ Let’s switch over to condos and townhomes. In terms of the total number sold, 
 
 {% include pullquote.html %}
 
-Let’s switch over to condos and townhomes. In terms of the total number sold, we saw nearly identical numbers in 2016 and 2017. However, 2016 was a record year for condo sales so it looks as if we’ve had another one of those this year. The average condo price in 2017 was just over $209,000, an 8.4% increase over 2016’s record high average. Keep in mind that one in five condos sold along the Wasatch Front were new construction and naturally priced higher.
+Let’s switch over to condos and townhomes. In terms of the total number sold, we saw nearly identical numbers in 2016 and 2017. However, 2016 was a record year for condo sales so it looks as if we’ve had another one of those this year. The average condo price in 2017 was just over $209,000, an 8.4% increase over 2016’s record-high average. Keep in mind that one in five condos sold along the Wasatch Front were new construction and naturally priced higher.
 
 We’re expecting some big things from the Wasatch Front market in 2018. Salt Lake City was named No. 6 in the Top 10 Housing Markets for the 2018 National Forecast. Price Waterhouse Cooper and the Urban Land Institute ranked Salt Lake City No. 3 on their list. We were also recently named the No. 6 housing market in Realtor.com’s list of Top 10 Housing Markets in 2018.
 
