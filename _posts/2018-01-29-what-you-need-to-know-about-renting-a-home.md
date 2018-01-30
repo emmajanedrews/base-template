@@ -24,9 +24,9 @@ If you’re debating about whether it’s better to own a home or continue renti
 
 **1. Don’t become trapped.** Rent has risen 2.7% nationally, and a quarter of renters are spending at least half of their income on monthly rent. Additionally, here in the Phoenix market over the last five years, rent has gone up 21%.
 
-**2. It’s cheaper to buy than it is to rent.** Even with market values increasing, homeownership with a with a traditional 30-year mortgage remains cheaper than renting.
+**2. It’s cheaper to buy than it is to rent.** Even with market values increasing, homeownership with a traditional 30-year mortgage remains cheaper than renting.
 
-**3. Make sure that you know your options.** 80% of millennials are planning to buy a home eventually, but 72% of them cite that affordability is their primary obstacle. Knowing your options and consulting with a professional is very important if you intend to buy a home in the future.
+**3. Make sure that you know your options.** 80% of millennials are planning to buy a home eventually, but 72% of them cite affordability as their primary obstacle. Knowing your options and consulting with a professional is very important if you intend to buy a home in the future.
 
 {% include pullquote.html %}
 
