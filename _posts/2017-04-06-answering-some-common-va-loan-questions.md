@@ -1,5 +1,5 @@
 ---
-youtube_code: F-jBDQXlwXE
+youtube_code: 23UYfZJysH4
 excerpt:
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/The+VA+Loan+Guy-+Can+You+Have+Two+VA+Loans+at+Once%253F.mp4
@@ -7,7 +7,7 @@ pullquote: THE SIMPLE ANSWER IS ABSOLUTELY YES.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/patrick-fitzgerald-screenshot-template.jpg
+youtube_alternate_image: /uploads/03-two-loans-at-once-email.jpg
 layout: post
 title: Answering Some Common VA Loan Questions
 date: 2017-04-06 19:49:00
