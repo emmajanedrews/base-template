@@ -1,5 +1,5 @@
 ---
-youtube_code: vn9tLabktII
+youtube_code: uBXaRtDvnSc
 excerpt:
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/The+VA+Loan+Guy-+Veterans+financing+post-bankruptcy.mp4
@@ -9,7 +9,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/patrick-fitzgerald-8-3-2016-4-of-4-email.jpg
+youtube_alternate_image: /uploads/05-post-bankruptcy-email.jpg
 layout: post
 title: Can You Still Get a VA Loan Post-Bankruptcy?
 date: 2017-05-05 20:25:00
