@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Going Under the Radar to Find Homes for Buyers
+title: What's Working Now! - Going Under the Radar to Find Homes for Buyers
 date: 2018-01-30 13:40:29
 tags:
   - Home Buyer Tips
@@ -20,7 +20,7 @@ youtube_code: i35REu7lJ5U
 
 {% include youtube.html %}
 
-Welcome to the latest episode of “What’s Working Now!”&nbsp;
+Welcome to the latest episode of *“What’s Working Now!”*&nbsp;
 
 Today, I want to share a successful under-the-radar strategy for buyers frustrated by the lack of homes for sale.&nbsp;
 
@@ -48,6 +48,6 @@ If you are thinking of buying in 2018 but your frustrated by the lack of homes f
 
 If you are thinking of selling a house in 2018, I have something for you. It’s my new book, “Selling Secrets You Can’t Afford to Miss.” To get your free copy, visit DCHomeBlog.com/FreeBook.&nbsp;
 
-Be on the lookout for my next video to find out What’s Working Now!&nbsp;
+Be on the lookout for my next video to find out *"What’s Working Now!"*&nbsp;
 
 In the meantime, just give me a call or send me an email with any questions you may have. I would be happy to help you!
