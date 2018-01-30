@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are Real Estate Lenders Headed for Another Crash?
-date:
+date: 2018-01-30 16:30:00
 tags:
 excerpt: >-
   Back in the mid-2000s, zero money down and zero closing cost loan products
