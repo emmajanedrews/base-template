@@ -27,6 +27,6 @@ Around that same time,** I had the pleasure of flying David in to give an hour-l
 
 {% include pullquote.html %}
 
-The next time you have an hour of free time, I’d like you to sit down and watch the David’s presentation. You can find the video from that seminar **[here.](https://www.youtube.com/watch?v=SjvbStIUzx0&amp;feature=youtu.be)**{: target="_blank"}
+The next time you have an hour of free time, I’d like you to sit down and watch the David’s presentation. You can find the video from that seminar **[here.](https://www.youtube.com/watch?v=SjvbStIUzx0&amp;feature=youtu.be){: target="_blank"}**
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
