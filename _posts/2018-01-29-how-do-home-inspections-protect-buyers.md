@@ -38,7 +38,7 @@ I was once working on a transaction for a new construction home where the inspec
 
 Another question people ask me pertaining to home inspections is, “If I have a one-year warranty, should I still have my inspection done prior to closing or should I wait until I’ve entered that warranty period?”
 
-Either one of these options, but there is something I’d like you to think about: **If you find a deal-breaker issue prior to buying the home, you can still back out.** This isn’t the case if you wait until you’re under that one-year home warranty.
+Either one of these options works, but there is something I’d like you to think about: **If you find a deal-breaker issue prior to buying the home, you can still back out.** This isn’t the case if you wait until you’re under that one-year home warranty.
 
 {% include pullquote.html %}
 
