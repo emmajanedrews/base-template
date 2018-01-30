@@ -37,4 +37,4 @@ Lastly, **layer on those natural textiles.** From wool rugs to cotton bedding, g
 
 Now you’re ready to create your own Zen bedroom. Go forth with calmness, serenity, and balance.
 
-If you need help adding some Zen to a home you want to sell or you’re looking for a home of your own that could use a special Zen touch, give me a call or shoot me an email. I’d love to help you.
+If you need help adding some Zen to a home you want to sell or you’re looking for a home of your own that could use a special Zen touch, give us a call or shoot us an email. We'd love to help you and those you care about move with confidence.
