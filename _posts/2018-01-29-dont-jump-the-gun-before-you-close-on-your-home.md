@@ -24,13 +24,13 @@ youtube_code: Ukj9vtoeVF4
 
 Before you close on the home you’re in the process of buying, you should avoid making large purchases such as furniture and charging them to your credit card. But why is that?
 
-Buying a home is an exciting experience. Clients have envisioned exactly how they want to lay out their home, and how they’ll feel once they’ve finished the transaction and moved in. However, sometimes they get a little too excited and jump the gun by not paying enough attention to the loan process. They’ll go shopping for furniture or other expensive purchases and charge those things to their credit cards.
+Buying a home is an exciting experience. Clients have envisioned exactly how they want to lay out their home and how they’ll feel once they’ve finished the transaction and moved in. However, sometimes they get a little too excited and jump the gun by not paying enough attention to the loan process. They’ll go shopping for furniture or other expensive purchases and charge those things to their credit cards.
 
 As lenders, there are some loan programs that require us to do a soft credit hold prior to closing so we are able to see the inquiries on your credit. **Depending on how large your purchase was, it could really affect your credit score, potentially disqualifying you from being able to close on the home.**
 
 Does that mean financing is a better option than using a credit card?
 
-More or less, those options are the same. Even though, for example, a furniture store will give you 0% financing for 60 months, what they’re actually doing is providing you with a credit card. This is a revolving credit line which will report to all three of the major credit bureaus. When you apply for a store card or financing plan, that **information will come onto your credit report, which will, in return, drop your credit score.**
+More or less, those options are the same. Even though a furniture store will give you 0% financing for 60 months, what they’re actually doing is providing you with a credit card. This is a revolving credit line which will report to all three of the major credit bureaus. When you apply for a store card or financing plan, that **information will come onto your credit report and drop your credit score.**
 
 Say you were given $1,000 in a credit line and you spend all of that money. Well, even though it’s at 0% interest or doesn’t require a payment for six months, it will still show that you’ve maxed out your balance and also that you haven’t made any payments. This could affect your debt-to-income ratio, which is a factor considered when you apply for a loan.
 
