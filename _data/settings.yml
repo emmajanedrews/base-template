@@ -33,7 +33,7 @@ CTAs:
   first_CTA_URL: 'http://callursula.com/sellers'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://callursula.com/search'
-  VR_form: 'http://oi.vresp.com?fid=9c5a0ebf6b'
+
 sidebar_CTA:
   CTA_image_path: /img/cta-images/001.jpg
   CTA_title: Looking to Buy a Home?
