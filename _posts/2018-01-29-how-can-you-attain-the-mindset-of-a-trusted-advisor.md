@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/mindset-of-trusted-advisor-youtube.jpg
-youtube_code: G2uf2eJhc8w
+youtube_code: 8sH9Gmhg8R0
 ---
 
 
