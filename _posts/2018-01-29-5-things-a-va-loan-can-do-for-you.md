@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   There are five notable advantages of using a VA loan to buy a home if you’re a
   member of the armed forces and you qualify for it.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Don+Williams/+Videos/2018/January/Don+Williams+Group-+5+Things+a+VA+Loan+Can+Do+for+You.mp4
 pullquote: There are several great reasons to apply for a VA loan if you qualify.
 enclosure_type: video/mp4
 enclosure_time:
