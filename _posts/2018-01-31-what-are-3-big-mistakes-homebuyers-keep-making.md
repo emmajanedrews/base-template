@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What are 3 big mistakes homebuyers keep making?
+title: What are 3 Big Mistakes Homebuyers Keep Making?
 date: 2018-01-31 09:30:00
 tags:
   - Buying a Home
