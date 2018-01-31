@@ -13,7 +13,7 @@ excerpt: >-
   contributing to our diaper drive and which mistakes you need to avoid if
   you’re a homebuyer, watch my latest video.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Videos/2018/Palm+Beach+Real+Estate+%257C+Diaper+Donations+and+Avoiding+3+Common+Transaction+Mistakes.mp4
+  https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Videos/2018/Palm+Beach+Real+Estate+%257C+Diaper+Donations+and+Avoiding+3+Common+Transaction+Mistakes+(1).mp4
 pullquote: 'Our goal is to collect 5,000 diapers, and we need your help.'
 enclosure_type: video/mp4
 enclosure_time:
