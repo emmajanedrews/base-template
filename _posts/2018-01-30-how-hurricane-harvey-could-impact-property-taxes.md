@@ -5,7 +5,8 @@ date: 2018-01-30 12:10:48
 tags:
   - Real Estate
 excerpt: Why should you protest your property taxes in 2018? Let’s find out.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Mike+Gray/Videos/February+18'/Houston+Real+Estate+Agent-+The+Importance+of+Protesting+Property+Taxes.mp4
 pullquote: >-
   It will be very important to protest your taxes for 2018, and to do so as soon
   as possible.
@@ -35,9 +36,9 @@ As you may know, I am a huge proponent of protesting your property taxes. In fac
 
 When you prepare to protest your property taxes, there are four things you need to consider:
 
-1. **Be prepared to show the damage to your property**, in order to justify the decrease you’re seeking. If your home has flooded and you’ve been dealing with insurance companies, this proof will be readily available.&nbsp;
-2. **Pay attention to outside factors and how they affect your home value.** If your home didn’t flood but the area did, consider whether your home’s value will be negatively or positively impacted.&nbsp;
-3. **The assessment’s value is based on the property’s value as of January 1.&nbsp;**
-4. **Be ready to support your case with pictures.&nbsp;**These photos should be of the home, but also of anything in the surrounding area which could be a factor in your home’s value.
+1. **Be prepared to show the damage to your property**, in order to justify the decrease you’re seeking. If your home has flooded and you’ve been dealing with insurance companies, this proof will be readily available.
+2. **Pay attention to outside factors and how they affect your home value.** If your home didn’t flood but the area did, consider whether your home’s value will be negatively or positively impacted.
+3. **The assessment’s value is based on the property’s value as of January 1.**
+4. **Be ready to support your case with pictures.**These photos should be of the home, but also of anything in the surrounding area which could be a factor in your home’s value.
 
-If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.<br>
