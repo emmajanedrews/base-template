@@ -42,6 +42,6 @@ Inventory has been a huge topic of discussion lately since it’s so low. For ho
 
 Keep in mind that a lot of the new construction that is out there for buyers is not listed in the MLS and therefore not reflected in these inventory numbers.&nbsp;
 
-You can check out the full list of market statistics<u><strong>here</strong></u>.
+You can check out the full list of market statistics&nbsp;<u><strong>here</strong></u>.
 
 If you have any other questions about our market or about buying or selling a home, just give us a call or send us an email. We would be happy to help you!
