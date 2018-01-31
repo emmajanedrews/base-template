@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Will Tax Reform Affect the Real Estate Market?
+title: 5 Changes From the New Tax Bill That Affect Homeowners
 tags:
   - Real Estate
 excerpt: >-
@@ -20,11 +20,11 @@ youtube_code: 'https://youtu.be/YNB6E3Hh-bg'
 
 There's a lot of uncertainty about The Tax Cuts and Jobs Act and its effect on real estate. Let’s first take a look at the four key tax changes impacting the housing market at this moment:
 
-**1. Deductions for property taxes.&nbsp;**Prior to the new tax bill, you could deduct all of your property taxes if you itemized your deductions. Going forward, this amount will be capped at $10,000.
+**1. Deductions for property taxes.**Prior to the new tax bill, you could deduct all of your property taxes if you itemized your deductions. Going forward, this amount will be capped at $10,000.
 
 **2. Deductions for mortgage interest.** The final bill reduces the limit on deductible mortgage debt to $750,000 for new loans taken out after December 14, 2017. Other loans of up to $1 million are grandfathered in.
 
-**3. Home sales exclusion for capital gains.&nbsp;**If you sell your home and turn a profit, then up to $500,000 of that profit is exempt from capital gains tax. Although earlier versions of the bill required you to live in the home for five out of the last eight years, the final bill made no changes to the capital gains exclusion. In order to qualify for this exclusion, you must have lived in your home for two of the past five years to claim this exemption—just like before. &nbsp;<br><br>**4. Deductions for moving expenses.&nbsp;**The final bill repealed the moving expense deduction, except for those who are members of the U.S armed forces.
+**3. Home sales exclusion for capital gains.**If you sell your home and turn a profit, then up to $500,000 of that profit is exempt from capital gains tax. Although earlier versions of the bill required you to live in the home for five out of the last eight years, the final bill made no changes to the capital gains exclusion. In order to qualify for this exclusion, you must have lived in your home for two of the past five years to claim this exemption—just like before.  <br><br>**4. Deductions for moving expenses.**The final bill repealed the moving expense deduction, except for those who are members of the U.S armed forces.
 
 {% include pullquote.html %}
 
