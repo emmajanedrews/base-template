@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What are 3 Big Mistakes Homebuyers Keep You From Getting Your Dream Home?
+title: What are 3 Big Mistakes That Will Keep You From Getting Your Dream Home?
 date: 2018-01-31 09:30:00
 tags:
   - Buying a Home
