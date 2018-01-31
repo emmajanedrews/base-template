@@ -23,7 +23,7 @@ On my recent trip to New York City, I had the pleasure of discussing the state o
 
 The economic consensus outlook is very bright going into 2018. We’re in a synchronised global economy and expansion phase after a long and slow recovery from the real estate downturn in 2008.
 
-**Consumer positive sentiment is at an all-time high, unemployment is low, and wages are starting to rise.**Also, the tax reform promises to have an additional positive impact on the market and the economy in general.
+**Consumer-positive sentiment is at an all-time high, unemployment is low, and wages are starting to rise.&nbsp;**Also, the tax reform promises to have an additional positive impact on the market and the economy in general.
 
 The outlook for real estate also continues to be optimistic for the coming years, with millennials entering their prime home buying age bracket. And continued low interest rates have increased the affordability factor for buyers in our market.
 
