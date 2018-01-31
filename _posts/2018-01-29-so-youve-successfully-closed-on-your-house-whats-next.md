@@ -25,15 +25,15 @@ youtube_code: doKhc-XuDho
 
 Everyone knows what they should do leading up to purchasing a home, but what should you do immediately after closing in order to protect yourself? Today we have six tips you can use immediately after you’ve purchased a home.
 
-**1. Consult with an estate lawyer.**Take some time to speak to your lawyer about updating your last will and testament, even if you don’t have an estate in place. This will protect your loved ones with regards to how your property is handled after you pass away.
+**1. Consult with an estate lawyer.&nbsp;**Take some time to speak to your lawyer about updating your last will and testament, even if you don’t have an estate in place. This will protect your loved ones with regards to how your property is handled after you pass away.
 
 **2. Get rid of your private mortgage insurance.** Do this as quickly as possible. For those of you who aren’t putting down 20%, you have what’s called private mortgage insurance (or PMI), and it’s a big chunk of your monthly mortgage payment. Once you get to a 20% equity stake in your house, you can refinance out of that and save that money each month. It will end up being a big savings.
 
-**3. Pay a little extra per month.**The rule of thumb here is to take your monthly payment and then divide it by 12, then add that on top of your monthly payment. On average, that saves you about seven years off the life of your loan.
+**3. Pay a little extra per month.&nbsp;**The rule of thumb here is to take your monthly payment and then divide it by 12, then add that on top of your monthly payment. On average, that saves you about seven years off the life of your loan.
 
 **4. Replenish your savings and build an emergency fund.** A good rule of thumb for this is to keep three to six months’ worth of your living expenses in the bank just in case the worst should happen. It’s a safe and smart financial strategy.
 
-**5. Reconsider your life insurance policy.**Make sure that your life insurance policy is enough to cover your mortgage, that way, in the event of your death, your loved ones will have enough to cover that cost.
+**5. Reconsider your life insurance policy.&nbsp;**Make sure that your life insurance policy is enough to cover your mortgage. That way, in the event of your death, your loved ones will have enough to cover that cost.
 
 **6. Change your locks and install deadbolts.** In this day and age, you don’t know who might have keys to your house, perhaps someone who lived there previously. It may also be a good idea to install a security system.
 
