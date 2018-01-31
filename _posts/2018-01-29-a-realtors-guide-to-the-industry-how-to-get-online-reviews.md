@@ -21,9 +21,9 @@ youtube_code: 7j9fmQFnCyA
 
 {% include youtube.html %}
 
-How can you get online reviews from mainstream websites that potential buyers and sellers are likely to use? Such sites include Google, Zillow, Homes.com, and Realtor.com.
+How can you get online reviews from mainstream websites such as Zillow, Realtor.com, Google, and others that potential buyers and sellers are likely to use?
 
-First of all, Realtor.com doesn’t have any client testimonials. Homes.com, on the other hand, allows you to copy testimonials you may have from other websites and place them on their site. Sites like Zillow require the client to put a review into their systems. They have validation techniques to make sure that people aren’t fabricating reviews.<br>
+First of all, Realtor.com doesn’t have any client testimonials. Homes.com, on the other hand, allows you to copy testimonials you may have from other websites and place them on their site. Sites like Zillow require the client to put a review into their systems. They have validation techniques to make sure that people aren’t fabricating reviews.
 
 **You can take advantage of the closing process to get reviews from clients.** Have your Zillow or Google profile pulled up while you’re at the closing table and, in the middle of your conversation about their experience, simply ask your clients to leave a review for you.
 
