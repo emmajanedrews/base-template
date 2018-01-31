@@ -1,6 +1,6 @@
 audit_header: false
 title: Finance of America Video Blog with Sergio Haros
-description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
+description: 'Sergio Haros can help you take charge of your financial future by developing a customized strategy to reach your financial goals and further your success.'
 show_custom_links: false
 custom_links:
   - title:
@@ -31,6 +31,8 @@ CTAs:
   first_CTA_URL: https://loanapp.financeofamerica.com/ContentPages/Default.aspx?LoanOfficerId=47849
   second_CTA_text: Apply for Refinance
   second_CTA_URL: https://loanapp.financeofamerica.com/ContentPages/Default.aspx?LoanOfficerId=47849
+  third_CTA_text: Mortgage Inquiry
+  third_CTA_URL: https://loanapp.financeofamerica.com/ContentPages/Default.aspx?LoanOfficerId=47849
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
@@ -46,6 +48,13 @@ second_sidebar_CTA:
     CTA_link_text2: "Apply for Refinance"
     CTA_url2: https://loanapp.financeofamerica.com/ContentPages/Default.aspx?LoanOfficerId=47849
 
+third_sidebar_CTA:
+  - CTA_image_path3: /img/cta-images/006.jpg
+    CTA_title3: "Mortgage Inquiry"
+    CTA_text3: "Just like searching for your dream home, identifying the mortgage that best meets your needs can be a process."
+    CTA_link_text3: "More Info"
+    CTA_url3: https://www.foamortgage.com/mortgage-inquiry?loemail=sharos@financeofamerica.com
+
 lender:
   show_section: false
   header_text: Preferred Lender
@@ -59,13 +68,9 @@ lender:
   url: http://eyegoop.com
 
 welcome_box:
-  welcome_headline: Join Our -- MARKET -- VIP List
+  welcome_headline: Secure Your Financial Future
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
-    professionals can answer any questions you might have about real estate.
-    Subscribe to this blog to get the latest news on local market trends and
-    receive expert tips for buying or selling a home.
+    Sergio Haros provides individual investors and business owners with custom wealth management and benefit strategies. Whatever you hope to achieve, we seek to advance your goals through all chapters of your life: today, tomorrow, and for years to come.
 
 socials:
   review_sm_icons: false
@@ -85,9 +90,9 @@ podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: 'Whether you are interested in retirement planning, wealth management, or benefit strategies, Sergio Haros is here with the latest tips.'
+  description: 'Sergio Haros can help you take charge of your financial future by developing a customized strategy to reach your financial goals and further your success.'
+  keywords: 'Sergio Haros, Financial Planning, Retirement Plans, Retirement Planning, Wealth Management, Financial Advisor, Certified Financial Planner, Benefit Planning, Retirement Plan Management'
   author: '-- CLIENT NAME --'
 
 images:
@@ -112,7 +117,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: rgba(0,42,84,.75)
 
 buttons:
   button_radius_number: 0
