@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why You Need to Avoid Overpricing Your Tampa Home
-date: 2018-01-31 16:46:57
+date: 2016-07-15 12:37:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -30,6 +30,6 @@ Secondly, studies show that homes that are overpriced take significantly longer 
 
 {% include pullquote.html %}
 
-**Finally, if you overprice your home, it will simply be dropped from many of the online searches.** &nbsp;Because buyers have to search with a budget - they cap their online searches at a certain price range. According to the National Association of Realtors, 80% of buyers in 2015 found the home that they ultimately bought online. Pricing a home at market value rather than above will expose your home to the maximum number of qualified buyers.
+**Finally, if you overprice your home, it will simply be dropped from many of the online searches.**  Because buyers have to search with a budget - they cap their online searches at a certain price range. According to the National Association of Realtors, 80% of buyers in 2015 found the home that they ultimately bought online. Pricing a home at market value rather than above will expose your home to the maximum number of qualified buyers.
 
 If you have any questions about pricing your home currently, or you’re just thinking about buying or selling in the Tampa Bay area, give us a call! We’re always happy to help you, and we look forward to hearing from you.
