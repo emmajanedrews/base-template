@@ -28,6 +28,6 @@ For condos, the active-to-sales ratio dropped from 58% to 27%. This drop in acti
 
 If you’ve been stressing out about the new mortgage stress testing that took effect January 21, I have an update for you. **Some credit unions are still not adhering to the stress test.** I also found out from a mortgage broker that if you purchased a home before November 2016, you can refinance without stress-testing.
 
-Also, if you’re thinking about increasing your down payment up to 20% to avoid the insurance premium, you may be able to get a lower mortgage rate—up to 0.5%—with a higher ratio insured mortgage. You may save more money throughout your mortgage term instead of paying more money to have your mortgage insured.
+Also, if you’re thinking about increasing your down payment up to 20% to avoid the insurance premium, you may be able to get a lower mortgage rate—up to 0.5%—with a higher ratio insured mortgage. You may end up saving more money throughout your mortgage term with the lower interest rate versus a larger down-payment. &nbsp;So make sure you work out your calculations properly.
 
 If you have any questions about our market or you’re thinking of buying or selling a home soon, don’t hesitate to reach out to me. I’d be happy to help you.
