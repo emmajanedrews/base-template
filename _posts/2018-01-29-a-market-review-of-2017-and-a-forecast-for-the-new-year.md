@@ -8,13 +8,13 @@ excerpt: >-
   Let’s take a look back at what we saw from our market in 2017 and, also,
   glance forward into what we can expect from the new year.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Deepak+Gupta/The+Dee+Team-+An+Overview+of+2017+and+the+2018+Market+Forecast.mp4
+  https://s3.amazonaws.com/vyralmarketing/Deepak+Gupta/The+Dee+Team-+Jan+2+2017+Overview+-+Charts+Added%2521.mp4
 pullquote: Right now is a great time for buyers and sellers alike.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/dee-youtube-3.jpg
-youtube_code: oRHtBiA9q5c
+youtube_code: v0mNc7IABLw
 ---
 
 
@@ -47,5 +47,3 @@ You can find the full market report here.
 In other words, this is a great time to buy or sell. We would love to help you with your transaction.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
-
-&nbsp;
