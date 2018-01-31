@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/VZTfeURUxdU'
 
 On my recent trip to New York City, I had the pleasure of discussing the state of our nation and its marketplace with a few distinguished economists. Today, I’ll be sharing their forecasts with you.
 
-The economic consensus outlook is very bright going into 2018. We’re in a synchronised global economy and expansion phase after a long and slow recovery from the real estate downturn in 2008.
+The economic consensus outlook is very bright going into 2018. We’re in a synchronized global economy and expansion phase after a long and slow recovery from the real estate downturn in 2008.
 
 **Consumer-positive sentiment is at an all-time high, unemployment is low, and wages are starting to rise.&nbsp;**Also, the tax reform promises to have an additional positive impact on the market and the economy in general.
 
@@ -29,7 +29,7 @@ The outlook for real estate also continues to be optimistic for the coming years
 
 {% include pullquote.html %}
 
-Of course, those of us who live in Southern California are especially blessed with great weather and a desirable location. The number of homes on the market in Orange County are significantly low, with less than 4,000 homes on the market since 2013.
+Of course, those of us who live in Southern California are especially blessed with great weather and a desirable location. The number of homes on the market in Orange County is significantly low, with less than 4,000 homes on the market since 2013.
 
 **Between the low number of homes on the market, the low interest rates, and the high level of affordability buyers are seeing from our market, it is a great time to be a seller.** So, if you’re thinking of listing your home, now is a fantastic time to do so. Let my team’s 99-point marketing plan go to work for you.
 
