@@ -40,7 +40,7 @@ As you’re probably aware already, there are a ton of different opinions out th
 **4.&nbsp;**Send something in the mail at least once a month (or a monthly e-newsletter).
 {: .present-before-paste}
 
-**Our team is very passionate about our past clients**and the results speak for themselves. 40% of our business this year is coming from repeat or referral clients. We actually utilize a 100-touch program for each person in our database.&nbsp;
+**Our team is very passionate about our past clients&nbsp;**and the results speak for themselves. 40% of our business this year is coming from repeat or referral clients. We actually utilize a 100-touch program for each person in our database.&nbsp;
 {: .present-before-paste}
 
 We do direct mail once a month, email market snapshots once a month, educational videos twice per month, three client appreciation events each year, four VIP raving fan club events each year, as well as monthly calls and handwritten notes. **We’ve been reaping the benefits of this strategy as a team and if you don’t have a similar strategy in your business you’re just missing out.**
