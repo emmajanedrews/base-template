@@ -40,7 +40,9 @@ Sales increased by 7.2% in Lake County, 2.8% in Orange County, 3.8% in Seminole 
 
 The market is doing really well, so **if you’ve given any thought to selling your property this year I definitely recommend you do so.** Builders aren’t able to match the demand and inventory is still low. On top of that, the average interest rate is 4.125%. Compared to what we saw a couple of years ago, this is very low.
 
-You can find the full market report [here](https://www.google.com/url?q=https://youtu.be/mgFLicJilxY&amp;sa=D&amp;ust=1517338562466000&amp;usg=AFQjCNFDywrs6a6MgRagibwQOoQF2fKj0g).
+You can find the full market report here.
+
+[![](/uploads/versions/logo-2---x----504-208x---.png)](http://links.orlandorealtors.org/m/1/71017527/02-b18016-d67c9d08240d48f093b43c56dc932557/5/503/74235309-418c-45bc-b45e-aea52f72c25b)
 
 In other words, this is a great time to buy or sell. We would love to help you with your transaction.
 
