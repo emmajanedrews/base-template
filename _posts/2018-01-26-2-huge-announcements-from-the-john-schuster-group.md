@@ -6,13 +6,13 @@ tags:
   - Real Estate
 excerpt: Our team has a few exciting announcements to make today. Here’s why.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/John+Schuster/John+Schuster+Group-+2+Huge+Announcements+from+the+John+Schuster+Group.mp4
+  https://s3.amazonaws.com/vyralmarketing/John+Schuster/John+Schuster+Group-+Our+Mission%252C+Vision+%2526+Core+Values+%255BBarbara+Corcoran+Commercial%255D.mp4
 pullquote: We work hard to show our gratitude every day.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/john-s-youtube-4.jpg
-youtube_code: oU6s1uQBGXo
+youtube_code: i8bZfMErrP0
 ---
 
 
@@ -33,5 +33,3 @@ Our core values are extremely important to us as well. We strive to cultivate an
 ![](/uploads/versions/gratitude-2-550x400---x----550-400x---.jpg)
 
 We’re going to continue working hard each day to show our GRATITUDE to our clients in each and every transaction. If you have any questions about the real estate market or any real estate needs that we can assist with, don’t hesitate to give us a call or send us an email. We look forward to hearing from you.
-
-&nbsp;
