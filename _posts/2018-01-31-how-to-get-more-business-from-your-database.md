@@ -22,16 +22,22 @@ youtube_code: HrcpfrvPGag
 {% include youtube.html %}
 {: .present-before-paste}
 
-As you’re probably aware already, there are a ton of different opinions out there regarding how often you should stay in contact with the people in your database. **No matter what method you choose, you need to have a plan, you need to be consistent, and you need to stay in front of them.**The people in your database should already know, like, and trust you, so they should be a huge source of business for you. It’s low-hanging fruit, you just need to have a plan. Here are a few of the bare minimum things you should do:
+As you’re probably aware already, there are a ton of different opinions out there regarding how often you should stay in contact with the people in your database. **No matter what method you choose, you need to have a plan, you need to be consistent, and you need to stay in front of them.&nbsp;**The people in your database should already know, like, and trust you, so they should be a huge source of business for you. It’s low-hanging fruit, you just need to have a plan. Here are a few of the bare minimum things you should do:
 {: .present-before-paste}
 
-**-** Making phone calls at least once per quarter. This is the easiest and cheapest way to stay top-of-mind with your database. Just have a conversation, remind them that you’re thinking about them, and let them know that you’re here to serve them or anyone else that they know.&nbsp;<br>**-** A good old-fashioned note. All this will cost you is a few dollars in postage, but it will go a long way in staying top-of-mind with your clients.<br>&nbsp;
+**1.&nbsp;** Making phone calls at least once per quarter. This is the easiest and cheapest way to stay top-of-mind with your database. Just have a conversation, remind them that you’re thinking about them, and let them know that you’re here to serve them or anyone else that they know.&nbsp;<br>
+{: .present-before-paste}
+
+**2.&nbsp;** A good old-fashioned note. All this will cost you is a few dollars in postage, but it will go a long way in staying top-of-mind with your clients.<br>&nbsp;
 {: .present-before-paste}
 
 {% include pullquote.html %}
 {: .present-before-paste}
 
-**-** Client appreciation events. This is a great way to add value to your relationships. It also gives you another opportunity to reach out to your database and invite them. If you don’t have the budget for an event just yet, inviting your clients out for a drink or a cup of coffee is always a good idea.<br>**-**Send something in the mail at least once a month (or a monthly e-newsletter).
+**3.&nbsp;** Client appreciation events. This is a great way to add value to your relationships. It also gives you another opportunity to reach out to your database and invite them. If you don’t have the budget for an event just yet, inviting your clients out for a drink or a cup of coffee is always a good idea.<br>
+{: .present-before-paste}
+
+**4.&nbsp;**Send something in the mail at least once a month (or a monthly e-newsletter).
 {: .present-before-paste}
 
 **Our team is very passionate about our past clients**and the results speak for themselves. 40% of our business this year is coming from repeat or referral clients. We actually utilize a 100-touch program for each person in our database.&nbsp;
