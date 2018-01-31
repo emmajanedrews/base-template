@@ -29,6 +29,6 @@ If you want to get pre-approved to buy a home quickly, here are four tips which 
 
 **3. Save money.&nbsp;**Nowadays, there are a lot of down payment assistance programs out there that could help you, but you’ll still have to pay for things like closing costs once you purchase your home. That money will have to come out of your pocket.
 
-**4. Have all your dots in place.**This means your pay stubs, bank statements, W-2s, and all forms of identification are in place and ready to go when your lender asks for them.
+**4. Have all your docs in place.**This means your pay stubs, bank statements, W-2s, and all forms of identification are in place and ready to go when your lender asks for them.
 
 If you have any questions about how to get pre-approved quickly or you have any other real estate needs, don’t hesitate to call us or send us an email. We’d love to help you.
