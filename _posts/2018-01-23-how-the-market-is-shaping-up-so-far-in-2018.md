@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   2017 was a great year, but how is 2018 shaping up so far? Let’s take a look at
   what we’ve seen up until this point.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Chris+Hauck/St.+Cloud+Real+Estate+How+is+our+2018+market+shaping+up+so+far.mp4
 pullquote: 2017 ended up being one of the best years we’ve seen in a decade.
 enclosure_type: video/mp4
 enclosure_time:
