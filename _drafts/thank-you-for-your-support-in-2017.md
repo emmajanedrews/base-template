@@ -18,7 +18,7 @@ youtube_code: IdF0Bz6j26Y
 
 {% include youtube.html %}
 
-*I want to thank you all for your support in 2017! You helped us exceed our goals and win four awards.*
+<center>I want to thank you all for your support in 2017! You helped us exceed our goals and win four awards.</center>
 
 I want to give a big shout out and thank you to all of our past clients, family, and friends who helped us exceed our goals in 2017.&nbsp;
 
