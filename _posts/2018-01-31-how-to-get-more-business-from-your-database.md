@@ -28,7 +28,7 @@ As you’re probably aware already, there are a ton of different opinions out th
 **1.&nbsp;** Making phone calls at least once per quarter. This is the easiest and cheapest way to stay top-of-mind with your database. Just have a conversation, remind them that you’re thinking about them, and let them know that you’re here to serve them or anyone else that they know.&nbsp;<br>
 {: .present-before-paste}
 
-**2.&nbsp;** A good old-fashioned note. All this will cost you is a few dollars in postage, but it will go a long way in staying top-of-mind with your clients.<br>&nbsp;
+**2.&nbsp;** A good old-fashioned note. All this will cost you is a few dollars in postage, but it will go a long way in staying top-of-mind with your clients.
 {: .present-before-paste}
 
 {% include pullquote.html %}
