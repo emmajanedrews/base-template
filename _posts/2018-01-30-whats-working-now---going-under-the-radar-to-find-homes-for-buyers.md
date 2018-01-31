@@ -44,7 +44,7 @@ I made appointments for all three of those houses, and now we are negotiating on
 
 {% include pullquote.html %}
 
-If you are thinking of buying in 2018 but your frustrated by the lack of homes for sale, just give me a call. I know how to uncover hidden gems for you in our market.&nbsp;
+If you are thinking of buying in 2018 but you're frustrated by the lack of homes for sale, just give me a call. I know how to uncover hidden gems for you in our market.&nbsp;
 
 If you are thinking of selling a house in 2018, I have something for you. It’s my new book, “Selling Secrets You Can’t Afford to Miss.” To get your free copy, visit [DCHomeBlog.com/FreeBook](http://dchomeblog.com/freebook).&nbsp;
 
