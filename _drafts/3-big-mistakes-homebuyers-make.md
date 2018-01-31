@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Diaper Donations and Avoiding 3 Common Transaction Mistakes
-date: 2018-01-29 14:30:00
+title: What are 3 big mistakes homebuyers keep making?
+date: 2018-01-31 09:30:00
 tags:
   - Buying a Home
 excerpt: >-
@@ -19,7 +19,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 3tLx9a5fawk
+youtube_code: mf6KS5-weso
 ---
 
 
