@@ -4,11 +4,19 @@ title: Join Our Team
 permalink: /join-our-team/
 ---
 <div class="recruiting-photo">
+<span class="client-image-container">
+<img src="/img/headshot2.jpg" alt="Dan Stephenson" class="client-image"/>
+</span>
+<figcaption class="caption">Dan Stephenson</figcaption>
+</div>
+
+<div class="recruiting-photo">
    <span class="client-image-container">
     <img src="/img/headshot.jpg" alt="Shawn O'Neill" class="client-image"/>
   </span>
 <figcaption class="caption">Shawn O'Neill</figcaption>
 </div>
+
 <h1>Join One of the Fastest Growing Real Estate Teams in {{site.data.settings.client.market}}</h1>
 <h5>How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</h5>
 <div class="recruiting-page">

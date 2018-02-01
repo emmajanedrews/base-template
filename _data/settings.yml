@@ -29,8 +29,8 @@ client:
 emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1809788';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 
 CTAs:
-  first_CTA_text: Request a Consultation
-  first_CTA_URL: /contact/
+  first_CTA_text: Join Our Team
+  first_CTA_URL: /join-our-team/
   # second_CTA_text: Home Search
   # second_CTA_URL: https://www.experthomeadvisors.com/search
 
@@ -38,8 +38,8 @@ sidebar_CTA:
   - CTA_image_path: /img/cta-images/006.jpg
     CTA_title: Looking to Build Your Real Estate Career?
     CTA_text: Let's talk about how we can take your business to new heights.
-    CTA_link_text: Request a Free Strategy Session
-    CTA_url: /contact/
+    CTA_link_text: Join Our Team
+    CTA_url: /join-our-team/
 
 # second_sidebar_CTA:
 #   - CTA_image_path2: /img/cta-images/005.jpg
