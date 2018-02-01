@@ -3,6 +3,8 @@ layout: post
 title: Training Our Agents
 date: 2018-01-29 13:50:33
 tags:
+  - Agent Interviews
+  - Career Advice
 excerpt: What does training entail for onboarding agents? Watch this video to find out.
 enclosure:
 pullquote:
