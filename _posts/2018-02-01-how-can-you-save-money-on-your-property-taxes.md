@@ -27,7 +27,7 @@ Here’s what you need to do to take advantage of this exemption.
 
 {% include pullquote.html %}
 
-First, ***[click here](https://portal.assessor.lacounty.gov/)* and log in to see if you’re already receiving the exemption.** If you aren’t, it will tell you so.
+First, **[*click here*](https://assessor.lacounty.gov/wp-content/uploads/2016/12/BOE-266-ASSR-515-ASSR-517-Rev.-12-5-16-PS-ws.pdf)&nbsp;and log in to see if you’re already receiving the exemption.** If you aren’t, it will tell you so.
 
 If you aren’t already receiving this exemption, follow that same link and download the one-page PDF form that’s provided. Then, all you have to do is **fill out that form and send it in by February 15 to ensure you receive the full rewards of 2018.**
 
