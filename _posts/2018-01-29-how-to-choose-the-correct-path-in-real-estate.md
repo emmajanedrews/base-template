@@ -3,6 +3,7 @@ layout: post
 title: How to Choose the Correct Path in Real Estate
 date: 2018-01-29 13:52:24
 tags:
+  - Career Advice
 excerpt: >-
   I hear this question at least a few different times per week: “I want to get
   into real estate. What should I do?” My initial response is to think about the
