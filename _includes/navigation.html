@@ -22,7 +22,7 @@
     		{% endfor %}
 			{% endif %}
 			{% if site.data.settings.CTAs.first_CTA_URL != '#/contact' and site.data.settings.CTAs.second_CTA_URL != '#/contact' %}
-		<li><a href="#/contact" id="/contact">Contact</a></li>
+		<li><a href="{{site.url}}/contact" id="/contact">Contact</a></li>
 		{% endif %}
 
 		</ul>
@@ -45,7 +45,7 @@
 				{% if site.data.settings.CTAs.second_CTA_URL == '/homesearch/' %}
 				<a class="cta2" href="{{site.data.settings.CTAs.second_CTA_URL}}">
 					{% elsif site.data.settings.CTAs.second_CTA_URL == '#/contact' %}
-					<a class="cta2" id="/contact" href="#/contact">
+					<a class="cta2" id="/contact" href="{{site.url}}/contact">
 					{% else %}
 				<a class="cta2" href="{{site.data.settings.CTAs.second_CTA_URL}}" target="_blank">
 				{% endif %}
