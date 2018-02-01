@@ -7,7 +7,8 @@ date: 2018-01-26 15:19:23
 excerpt: >-
   What will become of the 2018 market? I have some predictions to share with
   you.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Chris+Gorman/Videos/Feb+18%22/Triangle+Area+Real+Estate-+What+Will+Happen+in+the+2018+Market%253F.mp4
 pullquote: The new year started off with a bang
 enclosure_type: video/mp4
 enclosure_time:
