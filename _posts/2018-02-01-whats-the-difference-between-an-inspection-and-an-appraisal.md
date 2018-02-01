@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/appraisal-vs--inspectionyoutube.jpg
+youtube_alternate_image: /uploads/appraisal-vs--inspection-email.jpg
 youtube_code: G283RfQsw2o
 ---
 
