@@ -25,7 +25,7 @@ youtube_code: 6A9mswjwUyQ
 
 What is homeowners insurance? Why should you consider obtaining it when purchasing a home?
 
-**Homeowners insurance is something that’s required by the lender.**If you get a loan to purchase a house, the lender will require that you insure their asset.
+**Homeowners insurance is something that’s required by the lender.&nbsp;**If you get a loan to purchase a house, the lender will require that you insure their asset.
 
 When you obtain homeowners insurance, you want to make sure of a couple of things. First, you want to make sure it covers the structure of the house—not just what you pay for it, but what it would cost for you to rebuild it. You also need to make sure it covers the contents of the house. Just because the TV you bought four years ago is now worth $100 doesn’t mean you can replace it for $100, so make sure you get replacements costs.
 
