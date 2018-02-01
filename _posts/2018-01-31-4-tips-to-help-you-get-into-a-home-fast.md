@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: ojlKxRq6BlQ
+youtube_code: HmgwJECkPGg
 ---
 
 
@@ -21,7 +21,7 @@ youtube_code: ojlKxRq6BlQ
 
 If you want to get pre-approved to buy a home quickly, here are four tips which can help:
 
-**1. Have at least two years’ worth of work history.&nbsp;**This doesn’t mean you have to have been at the same job for two years—it just means you have you have to have been working for at least the last two years.
+**1. Have at least two years’ worth of work history.&nbsp;**This doesn’t mean you have to have been at the same job for two years—it just means you have to have been working for at least the last two years.
 
 **2. Have credit.** Make sure you’ve been building up your credit so you can qualify for the best interest rates. If you haven’t started building your credit, apply for some credit cards from your local bank and use them wisely.
 
