@@ -25,16 +25,16 @@ youtube_code: HrcpfrvPGag
 As you’re probably aware already, there are a ton of different opinions out there regarding how often you should stay in contact with the people in your database. **No matter what method you choose, you need to have a plan, you need to be consistent, and you need to stay in front of them.&nbsp;**The people in your database should already know, like, and trust you, so they should be a huge source of business for you. It’s low-hanging fruit, you just need to have a plan. Here are a few of the bare minimum things you should do:
 {: .present-before-paste}
 
-**1.&nbsp;** **Making phone calls at least once per quarter.** This is the easiest and cheapest way to stay top-of-mind with your database. Just have a conversation, remind them that you’re thinking about them, and let them know that you’re here to serve them or anyone else that they know.&nbsp;<br>
+**1.&nbsp;** **Making phone calls at least once per quarter.** This is the easiest and cheapest way to stay top-of-mind with your database. Just have a conversation, remind them that you’re thinking about them, and let them know that you’re here to serve them or anyone else that they know.&nbsp;
 {: .present-before-paste}
 
-**2.&nbsp;**** A good old-fashioned note.** All this will cost you is a few dollars in postage, but it will go a long way in staying top-of-mind with your clients.
+**2.**&nbsp;**A good old-fashioned note.**&nbsp;All this will cost you is a few dollars in postage, but it will go a long way in staying top-of-mind with your clients.
 {: .present-before-paste}
 
 {% include pullquote.html %}
 {: .present-before-paste}
 
-**3.&nbsp;**** Client appreciation events.**This is a great way to add value to your relationships. It also gives you another opportunity to reach out to your database and invite them. If you don’t have the budget for an event just yet, inviting your clients out for a drink or a cup of coffee is always a good idea.<br>
+**3.&nbsp;****Client appreciation events.** This is a great way to add value to your relationships. It also gives you another opportunity to reach out to your database and invite them. If you don’t have the budget for an event just yet, inviting your clients out for a drink or a cup of coffee is always a good idea.
 {: .present-before-paste}
 
 **4.&nbsp;****Send something in the mail** at least once a month (or a monthly e-newsletter).
