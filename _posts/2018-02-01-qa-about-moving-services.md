@@ -20,7 +20,7 @@ youtube_code: M7JB3lvugF4
 
 {% include youtube.html %}
 
-Today, we have a guest with us, Jim Finch from Shrader United Movers, to answer some questions that my clients have had about moving.
+Today, we have a guest with us, Jim Finch from Schroeder United Movers, to answer some questions that my clients have had about moving.
 
 **1. “Where do you move people to?”** We can move people anywhere. United Van lines can move people all around the world. Here in town, we can move people locally as well as all around the United States.
 
