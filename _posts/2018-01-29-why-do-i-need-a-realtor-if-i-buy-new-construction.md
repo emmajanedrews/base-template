@@ -3,6 +3,7 @@ layout: post
 title: Why Do I Need a Realtor If I Buy New Construction?
 date: 2018-01-29 13:41:40
 tags:
+  - Real Estate
 excerpt: >-
   Some people think that if they’re going to buy a new home, they should do it
   on their own in order to get the best deal possible. They think that maybe
