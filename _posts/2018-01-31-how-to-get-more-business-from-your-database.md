@@ -43,7 +43,7 @@ As you’re probably aware already, there are a ton of different opinions out th
 **Our team is very passionate about our past clients&nbsp;**and the results speak for themselves. 40% of our business this year is coming from repeat or referral clients. We actually utilize a 100-touch program for each person in our database.&nbsp;
 {: .present-before-paste}
 
-We do direct mail once a month, email market snapshots once a month, educational videos twice per month, three client appreciation events each year, four VIP raving fan club events each year, as well as monthly calls and handwritten notes. **We’ve been reaping the benefits of this strategy as a team and if you don’t have a similar strategy in your business you’re just missing out.**
+We do direct mail once a month, email market snapshots once a month, educational videos twice per month, three client appreciation events each year, four VIP Raving Fan Club events each year, as well as monthly calls and handwritten notes. **We’ve been reaping the benefits of this strategy as a team and if you don’t have a similar strategy in your business you’re just missing out.**
 {: .present-before-paste}
 
 If you have any questions for us about getting or keeping referral and repeat business, don’t hesitate to give us a call or send us an email. We’d be glad to help.<br>&nbsp;
