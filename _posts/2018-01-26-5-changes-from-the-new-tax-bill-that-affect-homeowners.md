@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   The tax bill that was approved by Congress in December 2017 will impact
   homeowners in five key ways.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Scott+Hardesty/Videos/February+18'/Greater+Nashville+Real+Estate-+How+Does+the+New+Tax+Bill+Affect+You%253F.mp4
 pullquote: You should see your taxes go down in 2018.
 enclosure_type: video/mp4
 enclosure_time:
