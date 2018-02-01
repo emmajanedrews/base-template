@@ -18,7 +18,7 @@ youtube_code: 5aeH2-MH9zk
 
 {% include youtube.html %}
 
-Today, I’d like to about last year’s market in review. How did 2017 pan out for us?<br><br>For the central Ohio real estate market, 2017 was a record year. We had more properties on the market sell than we’d ever had before. **Let’s look at the numbers:**
+Today, I’d like to about last year’s market in review. How did 2017 pan out for us?<br><br>For the Central Ohio real estate market, 2017 was a record year. We had more properties on the market sell than we’d ever had before. **Let’s look at the numbers:**
 
 * We had 32,000 listings on the market, which was up 1.7% from 2016.
 * Our average sales price went up 6.3% to $214,802.
