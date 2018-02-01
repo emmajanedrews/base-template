@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Developing Strong Client Relationships: Part 2'
+title: Utilize Your Social Sphere to Create a Database
 date: 2018-02-01 15:19:50
 tags:
   - Real Estate
@@ -8,7 +8,7 @@ excerpt: >-
   In this second part of my series, we’ll discuss the importance of creating and
   maintaining a database of your friends, family, and acquaintances.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/Coaching/Roanoke+Real+Estate+Agent-+Developing+Strong+Client+Relationships-+Part+2.mp4
+  https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/Coaching/Roanoke+Real+Estate+Agent-+Utilize+Your+Social+Sphere+to+Create+a+Database.mp4
 pullquote: >-
   Your friends and family won’t see you as a real estate agent until you impress
   on them that you are a real estate agent.
@@ -26,7 +26,7 @@ Welcome back to the second part of my series about developing relationships with
 
 Years ago when I was working insurance, before I could get my license or sell, we had to have a list of 100 of our friends and family.That practice has gone away, but it’s still important in principle.
 
-**You need a list of everybody you know**—friends, family, and anyone you know who may refer you someone. This will be a great start to generating future leads. Contact everyone on the list at least once a month and have a conversation with them.&nbsp;
+**You need a list of everybody you know**—friends, family, and anyone you know who may refer you someone. This will be a great start to generating future leads. Contact everyone on the list at least once a month and have a conversation with them.
 
 Ask them a simple question before hanging up, “Who do you know who is going to buy or sell a house in the next 60 to 90 days?”
 
