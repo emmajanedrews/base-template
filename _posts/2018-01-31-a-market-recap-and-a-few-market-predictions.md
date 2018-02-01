@@ -24,7 +24,7 @@ Let’s take a look at what’s been going on lately in our real estate market.
 
 Since the end of 2017, new home sales are at the highest level we’ve seen in a decade.
 
-Additionally, sales of previously-owned homes are at the highest level in even longer than a decade, and **starts of single-family home construction are the strongest they’ve been in 10 years**, as well. Also, applications to build such properties have also advanced to the fastest pace since August of 2007.
+Additionally, sales of previously owned homes are at the highest level in even longer than a decade, and **starts of single-family home construction are the strongest they’ve been in 10 years**, as well. Also, applications to build such properties have also advanced to the fastest pace since August of 2007.
 
 As for mortgage rates, they are projected to rise at the end of the year to around 4.5%.
 
@@ -40,7 +40,7 @@ As for buyers, 29.% think they will be able to purchase more quickly, while 22% 
 
 Home prices are another area of interest. “This escalation in home prices reflects both the acute lack of supply and the strengthening economy,” said CoreLogic’s chief economist Dr. Frank Nothaft.
 
-Also, Lawrence Yun, the National Association of Realtors’ chief economist, has said that “T**he healthy labor market and higher wage gains are expected to further strengthen buyer demand for young adults next year.**”
+Also, Lawrence Yun, the National Association of Realtors’ chief economist, has said that “**T****he healthy labor market and higher wage gains are expected to further strengthen buyer demand for young adults next year.**”
 
 So due to our current low supply in combination with current appreciation rates, right now is a great time to sell or buy. In $50,000 to $500,000 range, there is an absorption rate between one and three months.
 
