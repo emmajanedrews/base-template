@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title> Real Estate Podcast with Allen Johnson</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://AllenJohnsonCoaching.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://AllenJohnsonCoaching.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from AJ Team Realty - your professional  Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Allen Johnson</managingEditor>
-    <lastBuildDate>2017-11-27 16:04:16 -0600</lastBuildDate>
+    <lastBuildDate>2018-02-01 10:30:41 -0600</lastBuildDate>
     <media:copyright>Allen Johnson</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://AllenJohnsonCoaching.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,103 +18,92 @@
     </itunes:owner>
     <itunes:author>Allen Johnson</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://AllenJohnsonCoaching.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the  Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from AJ Team Realty - your professional  Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
-        
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
-        
-          <category>Home Seller Tips</category>
+        <title>How to Choose the Correct Path in Real Estate</title>
+        <link>http://AllenJohnsonCoaching.com/how-to-choose-the-correct-path-in-real-estate.html</link>
         
         <author>Allen Johnson</author>
-        <pubDate>2016-10-04 00:00:00 -0500</pubDate>
+        <pubDate>2018-01-29 07:52:24 -0600</pubDate>
         <guid></guid>
         <description>
 
-}
+I hear this question at least a few different times per week: “I want to get into real estate. What should I do?” My initial response is to think about the question a little more and then get back to me. However, I want to answer the question once and for all today.
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+There are two ways to “get into” the real estate business. The first is real estate sales. That’s what we do here every day on the AJ Team. We take clients out, help them find properties, and ultimately, our job is to sell.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+&lt;a href=”https://twitter.com/home/?status=”Most of the time, people aren’t talking about getting into the sales business.”%20http://AllenJohnsonCoaching.com/how-to-choose-the-correct-path-in-real-estate.html%20via%40” target=’_blank’ class=”pullquote”&gt;““Most of the time, people aren’t talking about getting into the sales business.””&lt;/a&gt;
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+Think of the highest pressure sales job you could ever think of, then add a layer of emotions on top, and multiply it by the fact that Northern Virginia is one of the craziest markets here in the U.S. I’d say that 99% of time when people say they want to get into real estate, this is not what they are talking about.
 
-“This is an example of a pull quote”
+What most people are talking about when they say they want to get into real estate is actually real estate investing. That’s the other side of the ledger. Investors take their money, put it into properties, and watch it grow over time. Traditionally, this is the way that most people are looking to “get into” the real estate business.
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+If you want to get into real estate, start to think about which side you want to be on. When you’ve decided, we can help you get closer to achieving your goals by offering you advice and/or assistance. If you have any questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://AllenJohnsonCoaching.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>I hear this question at least a few different times per week: “I want to get into real estate. What should I do?” My initial response is to think about the question a little more and then get back to me. However, I want to answer the question once and for all today.</itunes:subtitle>
         <itunes:author>Allen Johnson</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>I hear this question at least a few different times per week: “I want to get into real estate. What should I do?” My initial response is to think about the question a little more and then get back to me. However, I want to answer the question once and for all today.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>A Fox in Space</title>
-        <link>localhost:4000/a-fox-in-space.html</link>
-        
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
-        
-          <category>Home Seller Tips</category>
+        <title>Training Our Agents</title>
+        <link>http://AllenJohnsonCoaching.com/training-our-agents.html</link>
         
         <author>Allen Johnson</author>
-        <pubDate>2016-09-28 00:00:00 -0500</pubDate>
+        <pubDate>2018-01-29 07:50:33 -0600</pubDate>
         <guid></guid>
         <description>
 
-}
-
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
-
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
-
-
-  list item
-  list item
-  list item
-  list item
-  list item
-
-
-
-  list item
-  list item
-  list item
-  list item
-  list item
-
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+What does training entail for onboarding agents? Watch this video to find out.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://AllenJohnsonCoaching.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>What does training entail for onboarding agents? Watch this video to find out.</itunes:subtitle>
         <itunes:author>Allen Johnson</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>What does training entail for onboarding agents? Watch this video to find out.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Do I Need a Realtor If I Buy New Construction?</title>
+        <link>http://AllenJohnsonCoaching.com/why-do-i-need-a-realtor-if-i-buy-new-construction.html</link>
+        
+        <author>Allen Johnson</author>
+        <pubDate>2018-01-29 07:41:40 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+Some people think that if they’re going to buy a new home, they should do it on their own in order to get the best deal possible. They think that maybe they will save on commission costs or get a better deal. The truth is, none of that is true.
+
+In fact, builders prefer working with teams like ours as opposed to a lone-wolf buyer. The reason why is because we have the potential to bring them multiple deals. Because of that, they give us better deals than you could typically get on your own.
+
+“In fact, builders prefer working with teams like ours as opposed to a lone-wolf buyer.”
+
+We work with several home builders, such as Ryan Homes, who are willing to give our clients better deals because they know that if they do, we will bring the next client back to get a good deal as well.
+
+If you are thinking of buying a new home, give us a call. It doesn’t cost you a thing to work with us because our commission is covered by the builder, and we’d love to help you get into the new home you’ve been dreaming of.
+
+If you have any other questions in the meantime, don’t hesitate to give us a call or send us an email. We would love to hear from you.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://AllenJohnsonCoaching.com" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Some people think that if they’re going to buy a new home, they should do it on their own in order to get the best deal possible. They think that maybe they will save on commission costs or get a better deal. The truth is, none of that is true.</itunes:subtitle>
+        <itunes:author>Allen Johnson</itunes:author>
+        <itunes:summary>Some people think that if they’re going to buy a new home, they should do it on their own in order to get the best deal possible. They think that maybe they will save on commission costs or get a better deal. The truth is, none of that is true.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
