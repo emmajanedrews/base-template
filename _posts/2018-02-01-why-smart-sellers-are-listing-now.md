@@ -28,4 +28,4 @@ Another factor that makes now a perfect time to sell is the fact that inventory 
 
 A balanced market is pretty rare, but that’s kind of what we’re seeing right now. Sellers can put their home on the market and get top dollar while still being able to find affordable inventory.
 
-Listing now will help you net the most amount of money possible. If you want to learn how we can help and what we’ll do to get your home sold, give me a call or send me an email. I’d be happy to help.
+Listing now will help you net the most money possible. If you want to learn how we can help and what we’ll do to get your home sold, give me a call or send me an email. I’d be happy to help.
