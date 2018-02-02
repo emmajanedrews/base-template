@@ -11,6 +11,9 @@ show_custom_links: true
 custom_links:
   - title: Testimonials
     url: /client-testimonials/
+  - title: Featured Listings
+    url: www.rothteam.shorewest.com/search/Search/agentid_5281/presentation_P/pa_5281/nts_5/sd_AL/sc_lp_Listing_Price%20DESC/  
+    
 client:
   name: Mike Roth
   license_number:
