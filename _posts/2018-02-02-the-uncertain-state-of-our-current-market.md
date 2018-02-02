@@ -29,7 +29,7 @@ What should we expect to see for our local market this year? The start of this y
 
 **Buyers becoming increasingly optimistic**. They’re still out looking for homes, due, in part, to income growth and job stability. Lenders are loosening their standards, and buyers are really eager to take advantage of the low mortgage rates, which recently slipped below 4%—a historic low.
 
-The new tax reform bill is another factor that will impact the market. The federal government recently passed the tax cuts and Jobs Act, which **majorly overhauled our tax code.** We’re not entirely sure how this will affect real estate as a whole, we do know that there are several changes being made that don’t positively favor home sellers.
+The new tax reform bill is another factor that will impact the market. The federal government recently passed the tax cuts and Jobs Act, which **majorly overhauled our tax code.** We’re not entirely sure how this will affect real estate as a whole. We do know that there are several changes being made that don’t positively favor home sellers.
 
 {% include pullquote.html %}
 
@@ -39,8 +39,8 @@ When you put these three factors together, two big conclusions emerge:
 
 **It’s a really favorable time to take advantage of the market**, the shortage of our inventory, and the optimism that still remains in our homebuyers.
 
-On the other hand, in higher-cost and higher-tax areas, **we might see a decline in prices due to this new tax reform bill** that’s taking away some of those perks of the mortgage interest deduction and state and local taxes.
+On the other hand, in higher-cost and higher-tax areas, **we might see a decline in prices due to this new tax reform bill** that’s taking away some of those perks of the mortgage interest deduction, and state and local taxes.
 
 As a final perk for you, we received a quick guide tool from the California Association of Realtors that outlines all of the implications of the tax reform bill has on real estate. Contact me to receive a copy of it so you can take a look for yourself.
 
-If you’re thinking about taking advantage of today’s market and getting your home sold, all you have to do is get started by finding out what your home is worth. Send an email, shoot me a text, or call me. I would be happy to sit down with you and talk to you about your home’s value in the current market.<br>
+If you’re thinking about taking advantage of today’s market and getting your home sold, all you have to do is get started by finding out what your home is worth. Send an email, shoot me a text, or call me. I would be happy to sit down with you and talk to you about your home’s value in the current market.
