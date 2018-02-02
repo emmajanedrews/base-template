@@ -19,12 +19,12 @@ client:
   brand: Penev Realty Advisors
   brokerage:
   address: 8755 e Bell rd. 107 Scottsdale, AZ 85260
-  phone: 602-833-0993
+  phone: 602-362-8828
   phone_type:
   phone2:
   phone2_type:
   email: oggiepenev@penevrealtyadvisors.com
-  url: http://penevrealtyadvisors.com
+  url: http://www.penevrealtyadvisors.net
 
 CTAs:
   first_CTA_text: Home Valuation
@@ -77,7 +77,7 @@ socials:
   instagram_url:
   pinterest_url:
   zillow_url: https://www.zillow.com/profile/Oggie-Penev/
-  trulia_url: https://www.trulia.com/profile/oggie-penev-agent-mesa-az-zghbtfnl/overview
+  trulia_url: 
   yelp_url:
   podcast_url:
 
@@ -94,7 +94,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 65
-  hero_text: -- MARKET -- Real Estate Video Blog
+  hero_text: -- MARKET -- Real Estate Video Blog<br>Buy, Sell, Invest
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
