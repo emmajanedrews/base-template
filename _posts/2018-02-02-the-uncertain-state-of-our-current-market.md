@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Uncertain State of Our Current Market
-date:
+date: 2018-02-02 13:59:04
 tags:
   - Market Update
 excerpt: 'What is our current market like, and how will the recent rax'
@@ -40,4 +40,4 @@ On the other hand, in higher-cost and higher-tax areas, **we might see a decline
 
 As a final perk for you, we received a quick guide tool from the California Association of Realtors that outlines all of the implications of the tax reform bill has on real estate. Contact me to receive a copy of it so you can take a look for yourself.
 
-If you’re thinking about taking advantage of today’s market and getting your home sold, all you have to do is get started by finding out what your home is worth. Send an email, shoot me a text, or call me. I would be happy to sit down with you and talk to you about your home’s value in the current market.<br>&nbsp;
+If you’re thinking about taking advantage of today’s market and getting your home sold, all you have to do is get started by finding out what your home is worth. Send an email, shoot me a text, or call me. I would be happy to sit down with you and talk to you about your home’s value in the current market.<br>
