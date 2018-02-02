@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Renting Vs. Buying in Milwaukee
-date: 2018-02-02 11:31:59
+date: 2016-06-19 11:31:59
 tags:
   - Home Buyer Tips
 excerpt: >-
