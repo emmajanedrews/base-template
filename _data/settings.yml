@@ -16,11 +16,11 @@ client:
   name: John & Maria Hoffman
   license_number:
   about_markdown: |
-    Tampa Home Group studies the market intensely every day to improve their services and help you achieve your goals. Our mission is to provide you, the client, with the highest level of professional service, communication, honesty, and market knowledge. Our proven system for marketing and selling property works. Over the past five years, Tampa Home Group has successfully sold 97% of our listings at an average of over 99% of list price in one half of the time of the average listing in the Tampa market. Please ask to see a copy of our latest track record.
+    Tampa Home Group studies the market intensely every day to improve their services and help you achieve your goals. Our mission is to provide you, the client, with the highest level of professional service, communication, honesty, and market knowledge. Our proven system for marketing and selling property works. Over the past five years, Tampa Home Group has successfully sold 95% of our listings at an average of over 99% of list price in one half of the time of the average listing in the Tampa market. Please ask to see a copy of our latest track record and our written marketing plan.
   market: Tampa
   brand: Tampa Home Group
   brokerage: RE/MAX Capital Realty
-  address: 18302 Highwoods Preserve Suite 110<br>Tampa, FL 33647
+  address: 5321 Primrose Lake Circle<br>Tampa FL 33647
   phone: 813-907-2555
   phone_type:
   phone2:
@@ -103,7 +103,7 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#349C9C'
+  brand_color: '#D9C4A7'
   theme_color: '#3C3D3D'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'

@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Tampa Real Estate Podcast with John & Maria Hoffman</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://tampahomegroupblog.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://tampahomegroupblog.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Tampa Home Group - your professional Tampa Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>John & Maria Hoffman</managingEditor>
-    <lastBuildDate>2018-01-17 10:09:38 -0600</lastBuildDate>
+    <lastBuildDate>2018-02-02 14:53:40 -0600</lastBuildDate>
     <media:copyright>John & Maria Hoffman</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://tampahomegroupblog.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tampa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,15 +18,60 @@
     </itunes:owner>
     <itunes:author>John & Maria Hoffman</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://tampahomegroupblog.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tampa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Tampa Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Tampa Home Group - your professional Tampa Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
+        <title>What Happened in the 2017 Tampa Real Estate Market?</title>
+        <link>http://tampahomegroupblog.com/what-happened-in-the-2017-tampa-real-estate-market.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>John & Maria Hoffman</author>
+        <pubDate>2018-01-30 07:05:06 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/2018/Tampa+Real+Estate-+Tampa+Market+Update+-+2017+Recap.mp4</guid>
+        <description>
+
+The final numbers for the 2017 Tampa Bay real estate market are in, which means it’s time for your market recap. 
+
+By every measure, 2017 was a very strong year for the Tampa Bay market. 
+
+Overall home sales were up by 7.85%, with 36,044 closed sales in 2017, up from 33,422 sales in 2016. 
+
+The average sale price in Tampa Bay grew by 6% in 2017.   In comparison, the Tampa Bay region had an 11% increase in prices in 2016, and a 7% increase in 2015.
+
+A lot of that growth has been fueled by new construction here in our market.
+
+Experts predict that 2018 will be another strong year for the market, but the pace of growth is expected to stabilize, with the National Association of Realtors predicting a nationwide average price growth at a more conservative 1% to 3% annually.
+
+If you have a home to sell, it’s certainly a great time to put it on the market. I’m happy to share with you the best time do that based on your own particular situation.
+
+“Experts predict that 2018 will be another strong year for the real estate market.”
+
+Inventory has been a huge topic of discussion lately since it’s so low. For homes under $300,000 in Tampa, supply is extremely low, with less than three months of inventory available on the market. When we look at the $1 million and up range, there are 11 months of inventory on the market, so the upper price ranges are still experiencing a buyer’s market.  Supply and demand in real estate is highly localized – so the national headlines won’t always translate literally when we examine your home’s value.  Pricing can change week to week, and is a direct product of the pool of available buyers and how many other homes are on the market.
+
+Keep in mind that a lot of the new construction that is out there for buyers is not listed in the MLS and therefore not reflected in these inventory numbers. 
+
+You can check out the full list of market statistics here.
+
+If you have any other questions about our market or about buying or selling a home, just give us a call or send us an email. We would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/2018/Tampa+Real+Estate-+Tampa+Market+Update+-+2017+Recap.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://tampahomegroupblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/2018/Tampa+Real+Estate-+Tampa+Market+Update+-+2017+Recap.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>How did the Tampa Bay real estate market do in 2017? We’ve got the final numbers for you today.</itunes:subtitle>
+        <itunes:author>John & Maria Hoffman</itunes:author>
+        <itunes:summary>How did the Tampa Bay real estate market do in 2017? We’ve got the final numbers for you today.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tampa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>Is the Holiday Season a Good Time to List Your Home?</title>
-        <link>localhost:4000/is-holiday-season-good-time-to-list.html</link>
+        <link>http://tampahomegroupblog.com/is-holiday-season-good-time-to-list.html</link>
         
           <category>Market Update</category>
         
@@ -66,7 +111,7 @@ If you’ve been thinking about making a move but have been assuming it would be
 If you have any more questions about our Tampa Bay market, feel free to reach out to me. I’d love to speak with you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/2017/Tampa+Real+Estate-+4th+Quarter+Market+Update.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://tampahomegroupblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/2017/Tampa+Real+Estate-+4th+Quarter+Market+Update.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -85,7 +130,7 @@ The fourth quarter is a great time to put your home on the market in Tampa Bay b
       
       <item>
         <title>Have You Heard of This Amazing Down Payment Assistance Program?</title>
-        <link>localhost:4000/have-you-heard-of-this-amazing-down.html</link>
+        <link>http://tampahomegroupblog.com/have-you-heard-of-this-amazing-down.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -122,7 +167,7 @@ This program is absolutely worth checking out. If you know anyone who would bene
 If you have any other questions or would like more information, feel free to give me a call or send me an email. We look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/2017/Tampa+Real+Estate-+Down+Payment+Assistance+Program.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://tampahomegroupblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/2017/Tampa+Real+Estate-+Down+Payment+Assistance+Program.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -141,7 +186,7 @@ Have you heard of this amazing down payment assistance program that is available
       
       <item>
         <title>Did You Know You Can Appeal Your Property Taxes?</title>
-        <link>localhost:4000/did-you-know-you-can-protest-your.html</link>
+        <link>http://tampahomegroupblog.com/did-you-know-you-can-protest-your.html</link>
         
           <category>Market Update</category>
         
@@ -180,7 +225,7 @@ How are values determined by the Pinellas County Appraiser?
 We also wanted to remind you that our referral rewards contest is still going on. If you know someone who is looking to buy or sell a home in the Tampa Bay area, send them our way and you could win a wonderful vacation on us. Give us a call at 813-907-2555 or email us at Info@TampaHomeGroup.com.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/2017/Tampa+Real+Estate-+August+Market+Update.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://tampahomegroupblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/2017/Tampa+Real+Estate-+August+Market+Update.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -199,7 +244,7 @@ You should have already received in the mail your county’s assessment of your 
       
       <item>
         <title>2 Trends to Watch in the Tampa Real Estate Market</title>
-        <link>localhost:4000/2-trends-to-watch-in-tampa-real-estate.html</link>
+        <link>http://tampahomegroupblog.com/2-trends-to-watch-in-tampa-real-estate.html</link>
         
           <category>Market Update</category>
         
@@ -244,7 +289,7 @@ COMING SOON TO THE MARKET:
 As always, if you have any other questions about our market, just give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/2017/Tampa+Real+Estate-+2+Trends+to+Watch+in+the+Tampa+Real+Estate+Market.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://tampahomegroupblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/2017/Tampa+Real+Estate-+2+Trends+to+Watch+in+the+Tampa+Real+Estate+Market.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -263,7 +308,7 @@ How is the Tampa real estate market doing? May and June set new records in home 
       
       <item>
         <title>How Has Our Market Done This Spring?</title>
-        <link>localhost:4000/how-has-our-market-done-this-spring.html</link>
+        <link>http://tampahomegroupblog.com/how-has-our-market-done-this-spring.html</link>
         
           <category>Market Update</category>
         
@@ -292,7 +337,7 @@ To get a more in-depth look at the latest statistics our spring market has broug
 Who do you know who might need help buying or selling? As a friendly reminder, our Referral Rewards Vacation contest is taking place again this year, and there is still time to refer your friends and family who have real estate needs. Our winner will be drawn in December. If you have any questions about our market, don’t hesitate to give me a call. I would be happy to help you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/2017/Tampa+Real+Estate-+Tampa+Market+Update+Spring+2017.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://tampahomegroupblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/2017/Tampa+Real+Estate-+Tampa+Market+Update+Spring+2017.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -311,7 +356,7 @@ Our Tampa Bay market is so hot it’s breaking records. Where is the dividing li
       
       <item>
         <title>Is It Smarter to Remodel Your Home or Just Move?</title>
-        <link>localhost:4000/is-it-smarter-to-remodel-your-home-or.html</link>
+        <link>http://tampahomegroupblog.com/is-it-smarter-to-remodel-your-home-or.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -342,7 +387,7 @@ You can get a look at all the latest market statistics here.
 If you have any questions at all or you’d like to discuss whether it’s smarter to renovate your home or move, I’d be more than happy to help. Just give me a call or send me an email today!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/2017/Tampa+Real+Estate-+Love+it+or+list+it%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://tampahomegroupblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/2017/Tampa+Real+Estate-+Love+it+or+list+it%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -361,7 +406,7 @@ Should you love it or list it? Depending on your situation, these factors will h
       
       <item>
         <title>Why Its Crucial to Have a Great Agent on Your Side When Buying New Construction</title>
-        <link>localhost:4000/if-youre-buying-new-construction-do-you.html</link>
+        <link>http://tampahomegroupblog.com/if-youre-buying-new-construction-do-you.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -406,7 +451,7 @@ BEST of all our services of a knowledgeable, experienced buyer’s agent are FRE
 Click here to download my free guide: Why It’s Crucial to Have a Great Agent on Your Side When Buying New Construction
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/2017/Tampa+Real+Estate-+Why+You+Need+a+Great+Agent+by+Your+Side+When+Buying+New+Construction.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://tampahomegroupblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/2017/Tampa+Real+Estate-+Why+You+Need+a+Great+Agent+by+Your+Side+When+Buying+New+Construction.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -425,7 +470,7 @@ If you’re buying new construction, do you need an agent? I would highly recomm
       
       <item>
         <title>Why Millennials Should Be Buying Homes Now</title>
-        <link>localhost:4000/why-millennials-should-be-buying-now.html</link>
+        <link>http://tampahomegroupblog.com/why-millennials-should-be-buying-now.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -460,7 +505,7 @@ If you or anyone you know should be buying a home and taking advantage of these 
 If you have any other questions about buying your first home or if we can help you in any way, give us a call or send us an email. We look forward to hearing from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/Tampa+Real+Estate-+Why+Not+Buying+a+Home+is+the+Single+Biggest+Mistake+Millennials+are+Making.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://tampahomegroupblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/Tampa+Real+Estate-+Why+Not+Buying+a+Home+is+the+Single+Biggest+Mistake+Millennials+are+Making.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -474,6 +519,336 @@ Not buying a home is the biggest mistake millennials are making. Here’s why.
 Not buying a home is the biggest mistake millennials are making. Here’s why.
 
 </itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tampa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>2016 Market Wrap Up & 2017 Predictions</title>
+        <link>http://tampahomegroupblog.com/2016-market-wrap-up-2017-predictions.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>John & Maria Hoffman</author>
+        <pubDate>2016-12-21 05:37:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/Tampa+Real+Estate-+December+Market+Update-2017+Forecast.mp4</guid>
+        <description>
+
+By now, we are all aware that at its December 14th meeting, the Federal Reserve increased its key interest rate by 0.25%. This was the first interest rate hike all year, and only the second interest rate hike in a decade, with the last one being in December 2015. Three more interest rate hikes are forecasted for 2017.
+
+Buyers are now feeling the urgency to purchase and take advantage of low rates. If you have been waiting to refinance, now is also the time to do so if you still have a higher rate, or an adjustable rate. While no one has a crystal ball, the historically low interest rates we have been enjoying might become a thing of the past. 
+
+If you have been thinking of selling your current home and buying another, or buying a home for the first time instead of renting, this is the time to put those plans on the front burner rather than putting it off until the spring or summer.
+
+“Now is the time to buy a home or refinance to lock in a low rate.”
+
+On a positive note, November 2016 home sales were up over October 2016 home sales. Typically, November home sales in the Tampa Bay area trail just a little bit behind October home sales. While October 2016 trailed behind October 2015 sales, November 2016 sales rebounded, and were up 20% over November 2015 sales.
+
+We might chalk this phenomenon up to the uncertainty preceding the election, and the increase in sales in November reflected buyers finally feeling confident to move forward.
+
+We want to wish you a merry Christmas, happy Hanukkah, and a blessed and prosperous New Year. 
+
+If you have any real estate questions, please don’t hesitate to reach out to us. We are happy to help.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/Tampa+Real+Estate-+December+Market+Update-2017+Forecast.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://tampahomegroupblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/Tampa+Real+Estate-+December+Market+Update-2017+Forecast.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Our Tampa Bay real estate market is ending on a strong note, and a recent interest rate hike has gotten the attention of the buying public.</itunes:subtitle>
+        <itunes:author>John & Maria Hoffman</itunes:author>
+        <itunes:summary>Our Tampa Bay real estate market is ending on a strong note, and a recent interest rate hike has gotten the attention of the buying public.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tampa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Might the Holidays be the Perfect Time to List your Home?</title>
+        <link>http://tampahomegroupblog.com/might-the-holidays-be-the-perfect-time-to-list-your-home.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>John & Maria Hoffman</author>
+        <pubDate>2016-11-21 06:57:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/Tampa+Real+Estate-+Reasons+to+List+your+Home+During+the+Holidays.mp4</guid>
+        <description>
+
+With Thanksgiving just around the corner and the end of the year fast approaching, I just wanted to share with you a conversation I have dozens of times a week…should I wait until after the holidays to list my home?
+
+While some people may be under the misconception that the holidays are a bad time to sell, I’d like to give you three reasons why the holidays are actually one of the best times to list your home:
+
+“Home buyers are more serious during the holidays. We all have better things to do.”
+
+
+  The Tampa Market is very active in November and December. While the number of actual showings might be fewer, the buyers this time of year are serious. Whether it’s people visiting the area for the holidays looking to buy and only a few days to decide, in-town buyers who have the time off work to shop for homes, buyers that need to close on a home before the end of the year so that they can claim a homestead exemption, or buyers moving here to start new jobs in January, you can rest assured that the people who are out home-shopping now aren’t just tire-kickers.
+  You will face less competition during the holidays. Because so many sellers take their homes off the market during the holidays, you will have fewer homes on the market to compete with if you choose to list now. Once we hit the first of the year, there will be a flood of new inventory that hits the market.
+  We can restrict showings for you during the holidays. If you have company coming in or out of your house during certain days, we will have no problem working around your schedule. We can also postpone a closing to keep you in your home until after the holidays if need be as well.
+
+
+We are working throughout the holidays, so if capturing the holiday market is something you think you may be interested in, or you have any other questions, I’d love to hear from you. Call or email. We’d be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/Tampa+Real+Estate-+Reasons+to+List+your+Home+During+the+Holidays.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://tampahomegroupblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/Tampa+Real+Estate-+Reasons+to+List+your+Home+During+the+Holidays.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Why list your home during the holidays? Here are three reasons why it may be a better time to list than you’d think.</itunes:subtitle>
+        <itunes:author>John & Maria Hoffman</itunes:author>
+        <itunes:summary>Why list your home during the holidays? Here are three reasons why it may be a better time to list than you’d think.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tampa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Can You Increase Your Tampa Home’s Value?</title>
+        <link>http://tampahomegroupblog.com/how-can-you-increase-your-tampa-homes-value.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>John & Maria Hoffman</author>
+        <pubDate>2016-11-03 03:50:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/Tampa+Real+Estate-+Add+Value+to+Your+Home.mp4</guid>
+        <description>
+
+What can you do to increase the value of your home? I have a few quick tips for homeowners who are either looking to increase the resale value of their homes or simply want to maintain their home’s value.
+
+First of all, you need to maintain your home. Stay on top of small things like exterior paint, servicing your air conditioner, cleaning your gutters, and making sure your pool is in working order. Stay on top of all the little things that might break down in your house. Remember, if you have deferred maintenance items, they will need to be addressed when you sell your home; you will save time and money by repairing things as needed while you’re living in the home.
+
+You should also create curb appeal. A healthy lawn with trimmed trees, bushes, and shrubs will draw the buyer’s eye. You should also add some nice landscaping and pots of colorful flowers to make your home more attractive and approachable to a buyer.
+
+Make sure that the inside of your home is painted in neutral colors.Today’s buyers are looking for move in ready homes, and the today’s palette is leaning toward the lighter neutrals—shades of beige and gray that lighten the room; if your home features bold, bright, or dark colors throughout the house, with different colors in every room, buyers will have a hard time picturing their own furnishings in the home. Just because the lime green wall works with your furniture and decor does not mean it will appeal to the next buyer.
+
+On that note, you should also keep your trim well-painted. A fresh coat of white paint on your baseboards, trim, and doors is one of the most economical ways of making your home feel new again.
+
+“Modern, updated kitchens sell homes.”
+
+Now, replacing outdated flooring is a bigger expense, but doing so can make your home very attractive to today’s buyers. If you have 12-inch tile from the year 2000 or 8-inch tile from the ‘90s, you should consider updating your flooring with something that appeals to today’s buyers. Consider wood plank tiles, hardwood floors, or new carpeting.  Many buyers are limited in the budgets for major projects—so the fewer major projects they face, the more likely they are to choose your home versus the competition.
+
+As for major renovations, the first room you should look at is the kitchen. Modern, updated kitchens sell homes.The next room you should focus on is the master bathroom.  Today’s buyers are looking for master bathrooms with a spa-like feel, so luxury showers, and modern sleek finishes have great appeal.
+
+If your budget doesn’t allow for a complete renovation, consider simply replacing counters and installing a modern backsplash. Getting rid of old kitchen appliances and replacing them with sleek modern appliances (in stainless or platinum finishes) will also make your kitchen much more alluring to today’s buyers.
+
+Finally, one low cost thing you can do to make your entire home feel like new is update your faucets, light fixtures, ceiling fans, or cabinetry hardware. If you haven’t updated these in a while, your home may look outdated. Changing out your cabinetry hardware or light fixtures is a great, inexpensive way to modernize your home.
+
+If you have any other questions about getting your home ready for the market or about our real estate market in general, give me a call or send me an email. I would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/Tampa+Real+Estate-+Add+Value+to+Your+Home.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://tampahomegroupblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/Tampa+Real+Estate-+Add+Value+to+Your+Home.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you are interested in adding value to your home before you put it on the market, here is a quick list of upgrades and repairs you can make.</itunes:subtitle>
+        <itunes:author>John & Maria Hoffman</itunes:author>
+        <itunes:summary>If you are interested in adding value to your home before you put it on the market, here is a quick list of upgrades and repairs you can make.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tampa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>4th Quarter Tampa Bay Market Update</title>
+        <link>http://tampahomegroupblog.com/4th-quarter-tampa-bay-market-update.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>John & Maria Hoffman</author>
+        <pubDate>2016-10-12 08:32:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/Tampa+Real+Estate-+Market+Update.mp4</guid>
+        <description>
+
+Three quarters of 2016 are behind us and we are heading into the fourth quarter, my favorite time of year. As we head into the final stretch of 2016, it’s time for a Tampa Bay real estate market update.
+
+Year to date, home sales are up by 2.5% compared to 2015. In August, we actually saw a 10% increase in home sales compared to August of 2015. This year, 3,120 homes closed in the month of August while last year August saw 2,827 closings.
+
+The average sales price is up 10% as well.This August, the average sales price was $250,000; in August 2015, the average sales price was $226,000. To put that in perspective, the peak sales price was $286,000 in 2006. Although we are still a long way from reaching that peak, the Tampa market has seen a very strong, healthy gain since 2011.
+
+So what do all of these numbers mean as we head into the fourth quarter? One interesting thing about our current market is that inventory is incredibly low in the entry level and mid level price ranges…in fact, the $300,000 and under market is seeing a significant shortage of homes. However, as we go up in price, the inventory levels grow. Homes priced over $500,000 are in a buyer’s market, and the luxury market (homes priced over $1 million) has 14 months of inventory, which is a huge difference compared to lower price points.
+
+“The fourth quarter is still a great time to sell a home.”
+
+For those looking to move up, this presents a unique opportunity to sell your current lower priced home in a seller’s market and move up into a buyer’s market for your next home.
+
+The fourth quarter is a great selling season. A lot of people mistakenly believe that they need to take a home off the market and take a break during the holidays. However, here in Tampa, 7,486 homes sold in the fourth quarter of 2015. That is a full 24% of homes sold in 2015.
+
+This is the time of year when inventory drops because many sellers take their homes off the market. However, that creates a great opportunity for home sellers to list their property and face less competition. There are a few more reasons why the fall and holiday season is a great time to sell your home…more on that in future blogs!
+
+If you have any questions about our current market or about selling your home this fall, give me a call or send me an email. I would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/Tampa+Real+Estate-+Market+Update.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://tampahomegroupblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/Tampa+Real+Estate-+Market+Update.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>As we head into the final quarter of 2016, I have a quick update on what’s happening in the Tampa real estate market.</itunes:subtitle>
+        <itunes:author>John & Maria Hoffman</itunes:author>
+        <itunes:summary>As we head into the final quarter of 2016, I have a quick update on what’s happening in the Tampa real estate market.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tampa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What You Need to Know About “As-Is” Home Purchases</title>
+        <link>http://tampahomegroupblog.com/what-you-need-to-know-about-as-is-home-purchases.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>John & Maria Hoffman</author>
+        <pubDate>2016-09-23 04:40:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/Tampa+Real+Estate-+-As+Is-+Real+Estate+Contracts.mp4</guid>
+        <description>
+
+We have been getting some great questions lately from our clients and we’re going to answer one of them today. This one is about “as-is” real estate contracts and bank-owned homes. Here is the question:
+
+“Many buyers are looking to purchase a bank-owned home and see the words ‘as-is’ in the contract. What does ‘as-is’ mean to a bank vs. a buyer? A buyer might think that the home has to be in a livable condition regardless of whether the contract says ‘as-is.’ What are your thoughts?”
+
+When bank-owned properties are put on the market, the bank is making no representation as to the condition of the home. They have never lived in it, so they simply have no way of knowing.  As a buyer, it is your responsibility to do any and all inspections necessary to determine the home’s condition. Per the contract, the bank is not obligated to make any repairs. Some homes might be in such poor condition that obtaining a loan will be impossible, or the cost of the needed repairs and updates might not make sense given the price of the home—this is when the help of an experienced Buyer’s Agent is invaluable in determining whether it makes sense to place an offer in the first place, and how much to offer.
+
+“The bank is not obligated to make any repairs.”
+
+When you enter into a contract, you want to be 100% comfortable with having to assume the cost of any repairs or updates that the home is going to need.  If something major is uncovered in an inspection, it might be possible to negotiate a repair or a credit depending on the strength of your agent, and the policy of that particular bank, and the inclination of that asset manager. However, you shouldn’t assume that will always be possible. The bank is simply under no obligation to make fixes.
+
+If you have any questions for us, don’t hesitate to give us a call or send us an email. We would love to hear from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/Tampa+Real+Estate-+-As+Is-+Real+Estate+Contracts.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://tampahomegroupblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/Tampa+Real+Estate-+-As+Is-+Real+Estate+Contracts.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>When buyers look to purchase bank-owned homes, most of them are sold “as-is.” Here’s what you need to know about that kind of property.</itunes:subtitle>
+        <itunes:author>John & Maria Hoffman</itunes:author>
+        <itunes:summary>When buyers look to purchase bank-owned homes, most of them are sold “as-is.” Here’s what you need to know about that kind of property.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tampa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why You Need to Avoid Overpricing Your Tampa Home</title>
+        <link>http://tampahomegroupblog.com/why-you-need-to-avoid-overpricing-your-tampa-home.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>John & Maria Hoffman</author>
+        <pubDate>2016-07-15 07:37:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/Tampa+Real+Estate-+3+Reasons+to+Avoid+Overpricing+Your+Home.mp4</guid>
+        <description>
+
+Pricing is one of the most crucial aspects of real estate today. Sellers sometimes come to us wanting to list their home at a high price, hoping that someone will make an offer that they can then negotiate on, or that they can come down in price later. There are many reasons to avoid overpricing your home when you list it for sale, and three main reasons stand out as the most important.
+
+Firstly, overpriced listings scare off buyers and agents. Most buyers and agents assume that if sellers were willing to take less, they simply would’ve priced their home lower in the first place, and they don’t bother looking at the home at all, or if they do look, they shy away from writing an offer.
+
+Secondly, studies show that homes that are overpriced take significantly longer to sell. We all know that the most impact your home will have is as a brand new listing in those first few weeks on the market. That is when you’ll receive the most attention from buyers and agents. If you spend those first few weeks at the wrong price, you may miss the serious buyers that have been waiting for a home like yours.
+
+“Buyers online search with a budget. Price your home too high, and buyers won’t see it.”
+
+Finally, if you overprice your home, it will simply be dropped from many of the online searches.  Because buyers have to search with a budget - they cap their online searches at a certain price range. According to the National Association of Realtors, 80% of buyers in 2015 found the home that they ultimately bought online. Pricing a home at market value rather than above will expose your home to the maximum number of qualified buyers.
+
+If you have any questions about pricing your home currently, or you’re just thinking about buying or selling in the Tampa Bay area, give us a call! We’re always happy to help you, and we look forward to hearing from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/Tampa+Real+Estate-+3+Reasons+to+Avoid+Overpricing+Your+Home.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://tampahomegroupblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/Tampa+Real+Estate-+3+Reasons+to+Avoid+Overpricing+Your+Home.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>There are many reasons to avoid overpricing your home when you list it for sale, and three main reasons stand out as the most important.</itunes:subtitle>
+        <itunes:author>John & Maria Hoffman</itunes:author>
+        <itunes:summary>There are many reasons to avoid overpricing your home when you list it for sale, and three main reasons stand out as the most important.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tampa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Do You Know If Your Zestimate Is Correct?</title>
+        <link>http://tampahomegroupblog.com/how-do-you-know-if-your-zestimate-is-correct.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>John & Maria Hoffman</author>
+        <pubDate>2016-06-21 03:14:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/Tampa+Real+Estate-+The+problem+with+Zilllow.mp4</guid>
+        <description>
+
+Zillow is one of today’s most popular online home valuation tools—the “Zestimate” is their estimation of your home’s value.  How do you know if your Zestimate is correct? Unfortunately, it probably isn’t. 
+
+I want to warn you all against relying on Zillow to make any real estate decisions, regardless of whether you are buying or selling a home. Consumers these days are increasingly relying on online home valuations, yet these online home estimates are just that—ESTIMATES.   There’s no better illustration of that than an article (click here to check it out yourself) that you might have missed in the news back in February about the CEO of Zillow, whose home ended up selling for a whopping 40% less than what his Zestimate!
+
+While Zillow can be a great real estate resource, there are few caveats. First, know that there are certain factors Zillow cannot take into account, such as an irregular lot size, patterns of buyer demand, improvements that might affect your value or unique circumstances surrounding past sales. Zillow does not derive its data from the MLS like professional real estate agents do. The MLS is the most accurate and complete source for listings. On the other hand, professional agents study the market, research the relevant sales, and have often personally been inside the competing homes, and homes recently sold. That’s the kind of knowledge you really need to determine your home’s value.
+
+“Zillow doesn’t have access to data from the MLS, cannot know about home improvements you’ve made, and does not take into account certain factors about your location and buyer demand.”
+
+Zillow even admits that their median error nationwide is 7.9%.What does that mean to you? It means half of Zillow’s Zestimates are off by more than that! You deserve better.
+
+Luxury homeowners beware, Zestimates are even more likely to be inaccurate with high end luxury homes with unique features. 
+
+We are here to help you. If you have any questions about your home’s value or want to know about improvements that will add value to your home, give us a call. We would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/Tampa+Real+Estate-+The+problem+with+Zilllow.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://tampahomegroupblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/Tampa+Real+Estate-+The+problem+with+Zilllow.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>How do you know if your Zestimate is correct? Unfortunately, it probably isn’t.</itunes:subtitle>
+        <itunes:author>John & Maria Hoffman</itunes:author>
+        <itunes:summary>How do you know if your Zestimate is correct? Unfortunately, it probably isn’t.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tampa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Is Your Tampa Home a Match for One of Our Buyers?</title>
+        <link>http://tampahomegroupblog.com/is-your-tampa-home-a-match-for-one-of-our-buyers.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>John & Maria Hoffman</author>
+        <pubDate>2016-05-26 04:14:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/Tampa+Real+Estate-+Does+your+home+fit+our+wish+list%253F.mp4</guid>
+        <description>
+
+Is your Tampa home a candidate for one of our qualified buyers? At Tampa Home Group, we go the extra mile to find the best homes off the MLS and beyond for our clients. Our whole team meets daily to discuss what our buyers want right now.
+
+That’s why we have a wish list of the top ten homes we’re looking for! If this sounds like your property, or someone else’s home, contact me right away. Tania Borelli, our Lead Buyers Agent, has asked me to share the following list with our great clients and friends:
+
+“We have a wish list of the top ten homes we’re looking for!”
+
+
+  A pool home under 2,600 square feet in Seven Oaks
+  5-bedroom pool home on conservation in Grand Hampton or Seven Oaks
+  4-bedroom pool home on a quarter acre or more in Riverview or Lithia
+  Updated, move-in ready renovated homes in Kingshyre and Covington
+  Maintenance-free villas everywhere in the Tampa Bay area
+  4-bedroom pool home zoned for Sunlake High School
+  6-bedroom or more home 6,000 square feet or more with great outdoor entertainment area in Tampa Palms
+  4-bedroom, 3-bathroom pool home in West Meadows (preferably before school starts)
+  2-bedroom home under $250,000 in South Tampa
+  4-bedroom, 3-bedroom on over 2 acres zoned for horses
+
+
+ Again, if this sounds like your home, or the home of someone you know, please reach out to us at 813-907-2555 or mariahoffman@verizon.net.
+
+Do you have questions about this topic or something else related to real estate? Maybe, you have a topic for a future video? Reach out by phone or email! I’d love to hear from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/Tampa+Real+Estate-+Does+your+home+fit+our+wish+list%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://tampahomegroupblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/Tampa+Real+Estate-+Does+your+home+fit+our+wish+list%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>At Tampa Home Group, we go the extra mile to find the best homes off the MLS and beyond for our clients.</itunes:subtitle>
+        <itunes:author>John & Maria Hoffman</itunes:author>
+        <itunes:summary>At Tampa Home Group, we go the extra mile to find the best homes off the MLS and beyond for our clients.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tampa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>The Tampa Real Estate Market Is Hot This May</title>
+        <link>http://tampahomegroupblog.com/the-tampa-real-estate-market-is-hot-this-may.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>John & Maria Hoffman</author>
+        <pubDate>2016-05-10 07:34:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/Tampa+Real+Estate-+May+is+hot+in+Tampa+real+estate.mp4</guid>
+        <description>
+
+Thank you so much to our clients that helped us in January through April. We had a fantastic start to the new year here in Tampa. So far, we’ve already helped more than 51 people buy or sell their dream home in the surrounding community. We couldn’t have done it without you!
+
+“The next 60 days will be a phenomenal time in real estate.”
+
+It’s May and spring is upon us. Do you know what that means? The busiest season in the industry is here. The next 60 days will be a phenomenal time in real estate. Families, both local and those relocating for their jobs, are looking to buy a new home with their kids wrapping up the school year. These buyers want to be under contract before the next school year starts, and they’re already out in full force.
+
+If you’re a buyer, expect to see new listings coming to the market daily. If you’re a seller, this is the time to list your property! You have the opportunity to sell for top dollar in a short amount of time.
+
+If you’re thinking about buying or selling a Greater Tampa Bay area home, please reach out by phone or email. We’d be happy to serve your local real estate needs and answer any questions you might have!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/Tampa+Real+Estate-+May+is+hot+in+Tampa+real+estate.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://tampahomegroupblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Maria+Hoffman/Tampa+Real+Estate-+May+is+hot+in+Tampa+real+estate.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>We had a fantastic start to the new year here in Tampa.</itunes:subtitle>
+        <itunes:author>John & Maria Hoffman</itunes:author>
+        <itunes:summary>We had a fantastic start to the new year here in Tampa.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tampa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
