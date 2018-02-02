@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Reasons Why Now is the Time to Buy
-date: 2018-02-02 12:04:05
+date: 2016-04-09 12:04:05
 tags:
   - Home Buyer Tips
 excerpt:
