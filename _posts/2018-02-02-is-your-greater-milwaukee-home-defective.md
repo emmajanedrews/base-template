@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Your Greater Milwaukee Home Defective?
-date: 2018-02-02 11:39:33
+date: 2015-07-02 11:39:33
 tags:
   - Home Buyer Tips
 excerpt: >-
