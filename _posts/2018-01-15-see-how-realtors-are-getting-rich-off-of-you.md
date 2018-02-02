@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   In our current market, many people are under the misconception that agents get
   rich off of seller commissions.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520See%2520how%2520Realtors%2520are%2520getting%2520rich%2520off%2520of%2520you.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
