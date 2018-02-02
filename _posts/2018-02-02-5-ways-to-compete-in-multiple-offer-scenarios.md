@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Ways to Compete in Multiple Offer Scenarios
-date: 2018-02-02 11:59:27
+date: 2014-05-15 11:59:27
 tags:
 excerpt: >-
   Today I thought I would speak about multiple offer situations. With the market
