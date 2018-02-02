@@ -4,7 +4,9 @@ title: Happy 2012 Holidays and Warm Season’s Greetings!
 date: 2012-12-17 00:00:00
 tags:
   - Real Estate
-excerpt:
+excerpt: >-
+  To all our cherished friends, neighbors, family and clients – we are so proud
+  to have been able to work with you and be a part of your lives!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
