@@ -61,12 +61,12 @@ lender:
   url: 'http://eyegoop.com'
 
 lawyer:
-  name: Jeffrey W. Embly
-  title: Firm Administrator
-  brand: Salzmann Hughes, P.C.
-  address: 79 St Paul Drive<br>Chambersburg PA, 17201
-  phone: 717-263-2121
-  email: JEmbly@salzmannhughes.com
+  name: James D. Hughes, Esq.
+  title: Senior Shareholder
+  brand: Salzmann Hughes, P.C.<br>and PA Real Estate Settlement Services, LLC
+  address: 354 Alexander Spring Road, Suite 1<br>Carlisle, PA 17015
+  phone: 717-249-6333
+  email: Email: jhughes@salzmannhughes.com
   url: http://salzmannhughes.com
 
 lawyer2:
