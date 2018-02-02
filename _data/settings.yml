@@ -10,7 +10,7 @@ custom_links:
     url: >-
       https://www.yumpu.com/en/document/view/55881214/debbies-list-virginia-contractors-2016-q4
   - title: About
-    url: 'https://www.wickerhomesgroup.com/agents/'
+    url: 'http://www.wickerhomesgroup.com/meet-the-team'
   - title: 19-Point Selling System
     url: >-
       https://www.yumpu.com/en/document/view/55525349/wicker-homes-group-listing-presentation-2016
@@ -36,19 +36,19 @@ client:
   phone2:
   phone2_type:
   email: info@wickerhomes.com
-  url: 'https://www.wickerhomesgroup.com'
+  url: 'http://www.wickerhomesgroup.com/'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'http://www.wickerhomesgroup.com/home-valuation/'
+  first_CTA_URL: 'http://www.wickerhomesgroup.com/what-s-my-home-worth'
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://www.wickerhomesgroup.com/results-gallery/?OfficeMLS=KWR77'
+  second_CTA_URL: 'http://www.wickerhomesgroup.com/search/criteria/cty_1736,1762,4125/gp_1/s_2'
   VR_form:
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/007.jpg
     CTA_title: Looking to Buy a Home?
     CTA_text: Search the entire MLS for homes in Northern Virginia
     CTA_link_text: Home Search Tool
-    CTA_url: 'http://www.wickerhomesgroup.com/results-gallery/?OfficeMLS=KWR77'
+    CTA_url: 'http://www.wickerhomesgroup.com/search/criteria/cty_1736,1762,4125/gp_1/s_2'
 lender:
   show_section: false
   header_text: Preferred Lender
