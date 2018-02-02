@@ -4,7 +4,10 @@ title: The Uncertain State of Our Current Market
 date: 2018-02-02 13:59:04
 tags:
   - Market Update
-excerpt: 'What is our current market like, and how will the recent rax'
+excerpt: >-
+  Today, let’s discuss the 2018 housing market, what’s in store for our local
+  area, and how the new tax cuts and Jobs Act might affect our real estate
+  market.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Breanne+Steen/The+Uncertain+State+of+Our+Current+Market.mp4
 pullquote: >-
