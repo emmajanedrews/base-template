@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Determine What Your Home is Worth
-date: 2018-02-02 11:20:38
+date: 2016-08-23 11:20:38
 tags:
   - Home Seller Tips
 excerpt: >-
