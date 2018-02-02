@@ -36,7 +36,7 @@ client:
   phone2:
   phone2_type:
   email: info@wickerhomes.com
-  url: 'http://www.wickerhomesgroup.com/'
+  url: 'http://www.wickerhomesgroup.com'
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://www.wickerhomesgroup.com/what-s-my-home-worth'
