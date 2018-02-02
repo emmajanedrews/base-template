@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 6 Reasons Overpricing Your Home Will Get You Nowhere!
-date: 2018-02-02 11:48:39
+date: 2016-02-02 11:48:39
 tags:
   - Home Seller Tips
 excerpt:
