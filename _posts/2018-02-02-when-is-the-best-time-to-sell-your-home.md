@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When Is the Best Time to Sell Your Home?
-date: 2018-02-02 11:18:12
+date: 2016-09-19 11:18:12
 tags:
 excerpt: >-
   Fall is here and a lot of people are asking, “Should I sell my home now or
