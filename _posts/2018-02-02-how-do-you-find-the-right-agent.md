@@ -8,7 +8,7 @@ excerpt: >-
   Today, I have a little advice for anyone who isn’t sure how they can find the
   perfect agent to help them reach their real estate goals.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Bob+Peterson/The+Peterson+Team-+Finding+a+Good+Agent+-+Feb+1.mp4
+  https://s3.amazonaws.com/vyralmarketing/Bob+Peterson/The+Peterson+Team-+Feb+1+Video+%252315+Fixed.mp4
 pullquote: >-
   You should always look for someone with the heart of a teacher, not the heart
   of a salesman.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/bob-youtube-2-1.jpg
-youtube_code: pfosdwyvomg
+youtube_code: qfSBGI_f5g4
 ---
 
 
@@ -33,5 +33,3 @@ As Dave Ramsey, the financial guru, advises: When getting help with money—whet
 Diane and I have been Dave’s Memphis ELPs for almost five years now, and his introductions represent about 12% of our annual business.
 
 If you have any questions or want our help, give us a call or email us. We’d be happy to be your ELP.
-
-&nbsp;
