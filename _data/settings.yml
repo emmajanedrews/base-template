@@ -9,24 +9,24 @@ custom_links:
 emma_form:
 
 client:
-  name:
+  name: Michael Adams
   license_number:
   about_markdown: |
-
+    With a wealth of experience under our belts (buying and selling homes), our team and network of real estate experts have handled some of the most complicated real estate transactions on the market today. Whether you're facing foreclosure, have an inherited property that you don't know what to do with, or simply want to sell your home because you're ready for the next chapter of your life, we will handle your transaction with the utmost professionalism and care.
   market:
-  brand:
+  brand: The Oak Haven Group LLC
   brokerage:
-  address:
-  phone:
+  address: 7058 Red Bay Ct. Melbourne Fl. 32940
+  phone: 321-652-1656
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: oakhavengroupllc@gmail.com
+  url: http://www.webuyhousesinbrevard.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.webuyhousesinbrevard.com/170029
   second_CTA_text: Home Search
   second_CTA_URL: /homesearch/
 
@@ -35,7 +35,7 @@ sidebar_CTA:
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.webuyhousesinbrevard.com/170029
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
@@ -67,11 +67,11 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
+  facebook_url: https://www.facebook.com/TheOakHavenGroupLLC/
   linkedin_url:
   gplus_url:
   youtube_url:
-  twitter_url:
+  twitter_url: https://twitter.com/OakHavenGroup
   instagram_url:
   pinterest_url:
   zillow_url:
@@ -97,8 +97,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#295F84'
+  theme_color: '#00A99D'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -107,10 +107,10 @@ navbar_colors:
   border_bottom:
 
 header_shadow:
-  h_shadow: 0px
+  h_shadow: 2px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: black
 
 buttons:
   button_radius_number: 0
