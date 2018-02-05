@@ -28,7 +28,7 @@ youtube_code: fev9B4YduZU
 
 Today I’m here with my great friend, Abbi Cobb. Abbi and I have very similar goals for this year, and one of them was to raise $10,000 for an amazing charity.
 
-Because contribution and giving back to our community are important to us, we wanted to tell you about an awesome event that we’re hosting on\*\* March 3 at 7:00 p.m. at 510 Johnny’s in Bel Air.\*\*
+Because contribution and giving back to our community are important to us, we wanted to tell you about an awesome event that we’re hosting on March 3 at 7:00 p.m. at 510 Johnny’s in Bel Air.
 
 Lisa’s Army is a charitable organization that sends free customized care packagesall around the world to patients undergoing cancer treatment. **We want to donate to their cause.**
 
@@ -36,7 +36,7 @@ Since there are so many cancer organizations out there, why Lisa’s Army?<br><b
 
 {% include pullquote.html %}
 
-We’re working on some really cool things for this event. There will be 50-50s,  raffles with great prizes, a photobooth, a deejay, and much more.  We will serve appetizers, dinner, and dessert. It will take place on a Saturday night, so sleep all day, get a babysitter, and come to the party!
+We’re working on some really cool things for this event. There will be 50-50s, &nbsp;raffles with great prizes, a photobooth, a deejay, and much more. &nbsp;We will serve appetizers, dinner, and dessert. It will take place on a Saturday night, so sleep all day, get a babysitter, and come to the party!
 
 You’ll receive an invitation in the mail. **Fill out the RSVP card** and let us who if you’re coming and whether or not you’ll be bringing guests.<br><br>You can also forward this to friends and family to encourage them to donate, get involved, or help sponsor the event. It’s going to be a lot of fun, and **we appreciate any support you’re able to give,** whether it’s a pair of socks or a check for $10,000.
 
