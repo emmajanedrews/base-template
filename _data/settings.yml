@@ -5,7 +5,7 @@ show_custom_links: true
 custom_links:
   - title: Our Listings
     url: http://info.searchhomesonthecarolinacoast.com/featured/
-  - title: Bluewater Home
+  - title: Property Search
     url: http://info.searchhomesonthecarolinacoast.com/
 
 client:
