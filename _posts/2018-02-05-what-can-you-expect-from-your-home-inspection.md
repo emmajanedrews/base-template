@@ -26,7 +26,7 @@ youtube_code: 8Byhv_RbIYI
 If you’re a homebuyer in our area, it’s important that you get an inspection for the home you’re buying because most of the homes in our marketplace are older.
 {: .present-before-paste}
 
-**Typically, you’ll have 17 days to check out the house and complete the inspection.**We have several great inspectors we’d be glad to refer you to if you’re in search of one.
+**Typically, you’ll have 17 days to check out the house and complete the inspection.** We have several great inspectors we’d be glad to refer you to if you’re in search of one.
 {: .present-before-paste}
 
 {% include pullquote.html %}
