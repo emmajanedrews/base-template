@@ -24,7 +24,7 @@ Today I want to talk about the three things that are going to have the biggest i
 
 **1. Tax deductions.** As of January 1, state and local taxes that can be deducted from your annual tax bill are now capped at $10,000. In areas where taxes exceed that amount, it can and will have an adverse effect on home values, particularly in the higher end of the market.
 
-**2. Interest rate hikes.**The Federal Reserve is also expected to raise interest rates three times in 2018, but even after the hikes rates will remain historically low (around 5%). These factors will put further pressure on the market.&nbsp;
+**2. Interest rate hikes.&nbsp;**The Federal Reserve is also expected to raise interest rates three times in 2018, but even after the hikes rates will remain historically low (around 5%). These factors will put further pressure on the market.&nbsp;
 
 **3. Mortgage interest deduction.** Your mortgage deduction is now reduced on homes with mortgages of $750,000 or less.
 
