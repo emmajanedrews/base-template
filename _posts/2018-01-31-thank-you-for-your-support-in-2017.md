@@ -22,7 +22,7 @@ youtube_code: IdF0Bz6j26Y
 
 <center>&nbsp;</center>
 
-I want to give a big shout out and thank you to all of our past clients, family, and friends who helped us exceed our goals in 2017.&nbsp;
+I want to give a big shoutout and thank you to all of our past clients, family, and friends who helped us exceed our goals in 2017.&nbsp;
 
 We were the recipients this week of four special awards based on closings and productions, and **we couldn’t have done it without you!**
 
@@ -35,4 +35,4 @@ Keller Williams World Class has over 350 associates in our market center here in
 * First Place Listing Team by Units Closed&nbsp;
 * Third Place Team by Units Closed&nbsp;
 
-I would like to thank everyone for helping us get there. We look forward to helping you all in 2018.<br>&nbsp;
+I would like to thank everyone for helping us get there. As always, feel free to reach out if you have any real estate questions. We look forward to helping you all in 2018.
