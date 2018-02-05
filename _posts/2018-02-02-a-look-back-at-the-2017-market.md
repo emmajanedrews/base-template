@@ -32,6 +32,6 @@ Over 40% of the homes were paid for with cash, which I thought was interesting.
 
 Home sales over the $500,000 price point went up by 20%, yet homes over $1 million were down 6%.
 
-As a whole **my team actually closed 192 homes last year.** This is because we have great team in place, so the credit doesn’t go to just one person. All the different parts work together to make sure that nothing falls through the cracks.
+As a whole,&nbsp;**my team actually closed 192 homes last year.** This is because we have great team in place, so the credit doesn’t go to just one person. All the different parts work together to make sure that nothing falls through the cracks.
 
 If you have any questions or need any help with your real estate goals, feel free to reach out to us. We’d love to help you.
