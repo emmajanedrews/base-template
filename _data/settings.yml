@@ -12,7 +12,9 @@ client:
   name: Rosie Hayer
   license_number:
   about_markdown: |
+    Everyone thinks of buying or selling a home at some point, and that means taking a chance, taking a chance on a brand new address, packing up and leaving another, there's something symbolic or memorable about pushing through and having new beginnings. We understand the significance of placing your trust in us, we go the moon for people we love and care about.
 
+    There's a level of hospitality and genuine nature that you'll experience while working with us, we're rooted in culture in our beautiful city, this city has given us the opportunities to raise our families, put our kids through school, pay our mortgages, not to mention all the fun stuff like the music, and internationally recognized food scene.
   market: Austin
   brand: The Hayer Group
   brokerage: Keller Williams Realty Austin Northwest
@@ -91,7 +93,7 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 30
   hero_text: -- MARKET -- Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
