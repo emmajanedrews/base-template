@@ -25,7 +25,7 @@ I know the truth of the matter—we all live differently than when our home is o
 
 Here are a few tips that will make your home shine when it’s time to sell it.
 
-**1. Light your home up.**Turn up all the lights and open all the blinds and curtains. We live in Portland where it can get a little gray sometimes, so no matter what, make your home as bright as possible. A good agent should turn on lights while they’re showing a home, but you never know for sure, so take care of that task for them.
+**1. Light your home up.** Turn up all the lights and open all the blinds and curtains. We live in Portland where it can get a little gray sometimes, so no matter what, make your home as bright as possible. A good agent should turn on lights while they’re showing a home, but you never know for sure, so take care of that task for them.
 
 **2. Clear the counters.**In the bathroom, you may have hairspray bottles that need to be cleared. In the kitchen, you might have a coffee maker and a toaster oven that need to be removed. In any case, clear your counters so they look big and expansive and remove all personal items sitting on them.
 
