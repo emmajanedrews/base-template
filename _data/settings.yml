@@ -15,7 +15,7 @@ client:
   brand: Don Williams Realty Group
   brokerage: Keller Williams
   address: 18344 Coastal Hwy Lewes, DE 19958
-  phone: 302-584-2548
+  phone: 302-703-9933
   phone_type:
   phone2:
   phone2_type:
@@ -59,20 +59,20 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/DonWilliamsGroup/
+  facebook_url: https://www.facebook.com/DonWilliamsRealtyGroup/
   linkedin_url: https://www.linkedin.com/in/don-williams-55ab3431/
   gplus_url: https://plus.google.com/u/0/b/112988727233336964648
   youtube_url: https://www.youtube.com/channel/UCTy5JVoxuMJOI7sZ3k0VLmg
-  twitter_url: https://twitter.com/donwilliams10
+  twitter_url: https://twitter.com/donwilliamsgrp
   instagram_url:
   pinterest_url:
   zillow_url: https://www.zillow.com/profile/DonWilliamsGroup/
   trulia_url: https://www.trulia.com/profile/don-williams-group-agent-lewes-de-zgjtk6dm/overview
   yelp_url: https://www.yelp.com/biz/the-don-williams-group-rehoboth-beach-2
-  podcast_url: https://itunes.apple.com/us/podcast/don-williams-realty-group/id1237255985?mt=2
+  podcast_url:
 
 podcast:
-  title: Don Williams Realty Group
+  title:
   categories: Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Lewes, DE Area Real Estate Market'
