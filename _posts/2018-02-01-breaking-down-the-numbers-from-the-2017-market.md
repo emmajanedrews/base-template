@@ -26,7 +26,7 @@ As promised, today I’m going to give you a quick look at the numbers from the 
 
 **At the beginning of the year, we were at an all-time low for inventory,** with just over 5,000 active listings in January. Sales increased between January and March, leaping from about 5,000 to about 12,000, which is quite a record for that time span. Throughout the rest of the year, active listings increased, though sales decreased following that March spike. You can see a graph that breaks down the trends of all property types in terms of months of inventory at 4:57 in the video.
 
-As I mentioned, in the beginning of the year, months of inventory were very low. At some points, we had less than a month’s worth of inventory on the market, and things were selling very quickly. It was a different story for the latter half of the year, with more inventory and longer days on market. **Taking a look at the graph at 6:24, you can see that the York region inventory spiked during the summer months,&nbsp;**outpacing the Toronto area market, which stayed relatively steady throughout the year.
+As I mentioned, in the beginning of the year, months of inventory were very low. At some points, we had less than a month’s worth of inventory on the market, and things were selling very quickly. It was a different story for the latter half of the year, with more inventory and longer days on market. **Taking a look at the graph at 6:24, you can see that the York Region inventory spiked during the summer months,&nbsp;**outpacing the Toronto area market, which stayed relatively steady throughout the year.
 
 We were definitely in a seller’s market in 2017. Looking at the average prices, we began the year in the $700,000 range and moved up to a peak of $920,000 in April before steadily dropping to $735,000 in December.
 
@@ -44,10 +44,10 @@ Next, let’s break down the year-over-year average sales price by property type
 * Condo apartment sales prices soared by 14.4%.
 * The average motion of all property types was +0.7% year over year.
 
-**Comparing the Toronto area to the New York region at 7:53 in the video, the two areas largely mimicked each other as the year progressed.** For Toronto, the higher average sales price should come as no surprise, but the sharp drop we saw in August was almost a parity between the two regions. The Toronto prices jumped back up in September before declining through to the end of the year.
+**Comparing Toronto to York Region at 7:53 in the video, the two areas largely mimicked each other as the year progressed.** For Toronto, the higher average sales price should come as no surprise, but the sharp drop we saw in August was almost a parity between the two regions. The Toronto prices jumped back up in September before declining through to the end of the year.
 
 **I think that we’ll be seeing much more of the same in 2018.** There won’t be as many crazy spikes, and I think there will be a fair bit of inventory across the board, creating some opportunity for buyers, depending on the style of home they’re seeking. In particular, it will be a great time for condo owners to sell.
 
-Toronto is largely insulated to the downswing we’ve seen in some of the outlying regions like the York region.
+Toronto is largely insulated to the downswing we’ve seen in some of the outlying regions like the York Region.
 
 So what do all these statistics mean to you? That depends largely on your specific situation. **If you’re trying to sell or buy or you want to see what the numbers look like for your specific area, I’d be happy to walk you though it for you.** I can show you the numbers, give you an evaluation of your home based on the stats and the current market, and I'd be happy to walk you through the process. You’re encouraged to send this to your friends and family as well. Feel free to give me a call!
