@@ -3,16 +3,17 @@ layout: recruiting
 title: Sign Up
 permalink: /sign-up/
 ---
+
+<div class="recruiting-page">
+<h1 class="letterhead-title">{{site.data.settings.client.market}} Real Estate Community Newsletter</h1>
+<p class="letterhead-subtitle">How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</p>
 <div class="recruiting-photo">
-   <span class="client-image-container">
-    <img src="/img/headshot.jpg" alt="{{site.data.settings.client.name}}" class="client-image"/>
-  </span>
+<span class="client-image-container">
+<img src="/img/headshot.jpg" alt="{{site.data.settings.client.name}}" class="client-image"/>
+</span>
 <figcaption class="caption"><strong>{{site.data.settings.client.name}}, {{site.data.settings.client.title}}</strong><br>
 {{site.data.settings.client.brand}}</figcaption>
 </div>
-<h1>{{site.data.settings.client.market}} Real Estate Community Newsletter</h1>
-<h5>How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</h5>
-<div class="recruiting-page">
 <p>Would you like to know what’s going on in (area)?</p>
 
 <p>I invite you to get a free subscription to my community real estate video newsletter.</p>
@@ -38,6 +39,5 @@ permalink: /sign-up/
 <p>You’ll be subscribed instantly when you enter your email below. Unsubscribe anytime. You can expect no more than two emails a month from me.</p>
 
 <p>Thank you for a place in your inbox. I respect your permission and I'm excited to keep you better informed.</p>
-</div>
-
 {{site.data.settings.emma.form}}
+</div>
