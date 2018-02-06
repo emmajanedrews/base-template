@@ -13,7 +13,7 @@ pullquote: 20% of all homes under contract fall apart after the inspection.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/no-3.jpg
+youtube_alternate_image: /uploads/no-2.jpg
 youtube_code: sRzKwAoGSEM
 ---
 
