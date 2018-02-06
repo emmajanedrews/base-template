@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Careers and Training Video Blog with -- CLIENT NAME --
+title: Keller Williams Sacramento Coaching & Training with Dan Ellison
 description: A Video Blog about -- MARKET -- Real Estate; its industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!
 show_custom_links: false
 custom_links:
@@ -8,23 +8,25 @@ custom_links:
 
 emma:
   lightbox:
-  form:
+  form: <iframe src="https://signup.e2ma.net/signup/1866282/1810059/" width="510" height="500" frameborder="0"></iframe>
 
 client:
-  name:
+  name: Dan Ellison
   license_number:
   about_markdown: |
+    When it comes to buying or selling a home the key element is to have a strong agent to make sure you are represented properly. You deserve the best and my team and I are here to assist in making sure you get the best outcome in the sale or purchase of your home.
 
+    With me by your side you can expect to get a skilled negotiator who is available when you have questions and who is resourceful with market knowledge and connections in the industry.
   market:
-  brand:
-  brokerage:
-  address:
-  phone:
+  brand: The Dan Ellison Group
+  brokerage: Keller Williams
+  address: 2277 Fair Oaks Blvd. Ste 195<br>Sacramento, CA 95825
+  phone: 916-252-6976
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: dan@teamellison.com
+  url: http://www.homesingreatersacramento.com
 
 CTAs:
   first_CTA_text: Join Our Team
@@ -51,15 +53,15 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/danellisonteam
+  linkedin_url: https://www.linkedin.com/in/danellison
+  gplus_url: https://plus.google.com/b/105288569752503627385/+Teamellisonsold/about
+  youtube_url: https://www.youtube.com/channel/UC4BtEGCTrrp5aBDXzjLPfTA
+  twitter_url: https://twitter.com/danellisonteam
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
+  zillow_url: http://www.zillow.com/profile/danellison/
+  trulia_url: http://www.trulia.com/profile/dan-ellison-agent-sacramento-ca-zgj14jlv/overview
   yelp_url:
   podcast_url:
 
@@ -94,7 +96,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: rgba(31, 26, 23, .75)
 
 buttons:
   button_radius_number: 0

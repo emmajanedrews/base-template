@@ -1,26 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title> Real Estate Careers and Training Podcast with </title>
+    <title> Real Estate Careers and Training Podcast with Dan Ellison</title>
     <link>localhost:4000</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
     <description>A Podcast about  Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</description>
     <language>en</language>
-    <managingEditor></managingEditor>
-<<<<<<< HEAD
-    <lastBuildDate>2018-02-02 15:03:14 -0600</lastBuildDate>
-=======
-    <lastBuildDate>2018-02-05 14:53:07 -0600</lastBuildDate>
->>>>>>> bc3a9643e4908846109ca71ae29943768f458efb
-    <media:copyright></media:copyright>
+    <managingEditor>Dan Ellison</managingEditor>
+    <lastBuildDate>2018-02-06 15:24:37 -0600</lastBuildDate>
+    <media:copyright>Dan Ellison</media:copyright>
     <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
     <media:keywords> Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
-      <itunes:email></itunes:email>
-      <itunes:name></itunes:name>
+      <itunes:email>dan@teamellison.com</itunes:email>
+      <itunes:name>Dan Ellison</itunes:name>
     </itunes:owner>
-    <itunes:author></itunes:author>
+    <itunes:author>Dan Ellison</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="localhost:4000/img/podcast.jpg"/>
     <itunes:keywords> Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
@@ -38,7 +34,7 @@
         
           <category>Home Seller Tips</category>
         
-        <author></author>
+        <author>Dan Ellison</author>
         <pubDate>2016-10-04 00:00:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -62,7 +58,7 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Dan Ellison</itunes:author>
         <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
         <itunes:keywords> Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
       </item>
@@ -77,7 +73,7 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
         
           <category>Home Seller Tips</category>
         
-        <author></author>
+        <author>Dan Ellison</author>
         <pubDate>2016-09-28 00:00:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -117,13 +113,13 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Dan Ellison</itunes:author>
         <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
         <itunes:keywords> Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
       </item>
       
-    <copyright></copyright>
-    <media:credit role="author"></media:credit>
+    <copyright>Dan Ellison</copyright>
+    <media:credit role="author">Dan Ellison</media:credit>
     <media:rating>nonadult</media:rating>
     <media:description type="plain">A Podcast about  Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</media:description>
   </channel>
