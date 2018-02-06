@@ -32,4 +32,4 @@ When Dylan inspects a house, he checks everything from the roof to the foundatio
 
 You can also use the home inspection report for negotiation purposes. If you want to move forward and buy a house that needs a new roof, you can ask for a new roof. If there’s hail damage, we can send pictures that Dylan takes. If you need the furnace to be fixed, we are able to send that over.&nbsp;
 
-If you have any questions for Dylan, you can reach him at [CONTACT]. As always, if you have any real estate questions for us, just give us a call or send us an email. We would be happy to help you.
+If you have any questions for Dylan, you can reach him at (719) 495-0042. As always, if you have any real estate questions for us, just give us a call or send us an email. We would be happy to help you.
