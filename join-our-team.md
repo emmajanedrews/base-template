@@ -9,10 +9,11 @@ permalink: /join-our-team/
   </span>
 <figcaption class="caption">{{site.data.settings.client.name}}</figcaption>
 </div>
-<h1>Join One of the Fastest Growing Real Estate Teams in {{site.data.settings.client.market}}</h1>
-<h5>How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</h5>
+<h1>Chicagoland Real Estate Career: Apply Now</h1>
+<p>Looking for a rewarding real estate career in Chicago, IL? We’re hiring in the Northern Chicagoland which includes the North Shore, Northwest suburbs, and Lake County! Get the culture, leads, accountability, processes, and strategies to sell homes. Make a great living. Training provided. No experience necessary. Flexible hours. Sell your first home in 90 days guaranteed. <strong>Apply now.</strong></p>
+<h5>Meet with us for a business planning meeting</h5>
 <div class="recruiting-page">
-<p>Dear real estate agent or frustrated employee:</p>
+<p>Dear Real Estate Agent or Future Real Estate Agent:</p>
 </div>
 <h2 class="recruiting">Let's Make You More Money</h2>
 <h4 class="recruiting">Request a phone call - it does not cost a dime to talk.</h4>

@@ -2,15 +2,15 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Chicago Real Estate Podcast with Kati Spaniak</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://Inspiredrealtor.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://Inspiredrealtor.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Spaniak Team - your professional Chicago Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Kati Spaniak</managingEditor>
-    <lastBuildDate>2018-02-06 13:20:23 -0600</lastBuildDate>
+    <lastBuildDate>2018-02-06 13:27:12 -0600</lastBuildDate>
     <media:copyright>Kati Spaniak</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
-    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
+    <media:thumbnail url="http://Inspiredrealtor.com/img/podcast.jpg"/>
+    <media:keywords>North Shore real estate agent, North Shore real estate career, Northwest Suburban real estate agent, Northwest Suburban real estate career, Lake County real estate agent, Lake County real estate career, Chicago real estate agent, Chicago real estate career, Chicago real estate job, real estate careers, real estate jobs, real estate training</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
       <itunes:email>kati@spaniakteam.com</itunes:email>
@@ -18,8 +18,8 @@
     </itunes:owner>
     <itunes:author>Kati Spaniak</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
-    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+    <itunes:image href="http://Inspiredrealtor.com/img/podcast.jpg"/>
+    <itunes:keywords>North Shore real estate agent, North Shore real estate career, Northwest Suburban real estate agent, Northwest Suburban real estate career, Lake County real estate agent, Lake County real estate career, Chicago real estate agent, Chicago real estate career, Chicago real estate job, real estate careers, real estate jobs, real estate training</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Chicago Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Spaniak Team - your professional Chicago Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
