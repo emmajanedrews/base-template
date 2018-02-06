@@ -8,7 +8,7 @@ custom_links:
 
 emma:
   lightbox:
-  form: <iframe src="https://signup.e2ma.net/signup/1867350/1809293/" width="510" height="500" frameborder="0"></iframe>
+  form: <iframe src="https://signup.e2ma.net/signup/1867350/1809293/" width="510" height="250" frameborder="0"></iframe>
 
 client:
   name: Frank Klesitz
