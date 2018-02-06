@@ -28,7 +28,7 @@ Whether you’re looking for some new clothes, accessories, or even a gift for s
 
 {% include pullquote.html %}
 
-**Ellipsis Boutique is located at the newly renovated Buda Mill and Grain Co. on 306 S. Main St., Suite 105.** You can check out their Facebook page **[here](https://www.facebook.com/ellipsisboutiquebudatx)**and their website[**here**.](https://www.ellipsisboutique.com/)
+**Ellipsis Boutique is located at the newly renovated Buda Mill and Grain Co. on 306 S. Main St., Suite 105.** You can check out their Facebook page **[here](https://www.facebook.com/ellipsisboutiquebudatx)&nbsp;**and their website&nbsp;[**here**.](https://www.ellipsisboutique.com/)
 
 If you have any questions for Amy in the meantime, give her a call at (512) 312-9545 or send her an email to [Amy@EllipsisBoutique.com](javascript:void(location.href='mailto:'+String.fromCharCode(65,109,121,64,69,108,108,105,112,115,105,115,66,111,117,116,105,113,117,101,46,99,111,109))).
 
