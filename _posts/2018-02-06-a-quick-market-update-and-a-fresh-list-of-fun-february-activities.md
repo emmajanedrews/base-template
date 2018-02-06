@@ -22,7 +22,7 @@ February is here, which means we have a quick market update and a [full list of 
 
 In the meantime, here are some of our favorites:
 
-* **Our team’s fifth annual Valentine’s Day chocolate giveaway.**Don’t be bashful—reply to this email and we’ll send you a bunch of chocolates in the mail. The reason I do this is to show my gratitude and appreciation for those who support our business.
+* **Our team’s fifth annual Valentine’s Day chocolate giveaway.&nbsp;**Don’t be bashful—reply to this email and we’ll send you a bunch of chocolates in the mail. The reason I do this is to show my gratitude and appreciation for those who support our business.
 * **The Southeast Wildlife Expo.**
 * **The Charleston Wine & Food Festival**, which starts at the end of the month.
 * There are also a number of oyster roasts being held this month by nonprofit organizations.
