@@ -9,8 +9,8 @@ enclosure:
 pullquote: This hot market makes it an incredible time to sell.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/ss2.jpg
 youtube_code: aaWUZ7WHxAA
 ---
 
@@ -27,8 +27,6 @@ Secondly, it’s time to file your homestead exemption if you purchased a home i
 
 For buyers out there, we still have a hot market where we’re seeing multiple offers. **I’m working with several buyers right now who are having a hard time finding properties to meet their needs.** Hopefully, more sellers will list their homes as we move into the spring. If you’re buying, you need to have all your ducks in a row and be ready to make an offer when you find the property that suits your needs. There will probably be several other buyers competing for the home as well. If you need any advice on how to win out in multiple offer strategies, let me know and I’d be happy to give it.
 
-As for sellers, this hot market makes it an incredible time to sell for top dollar. I think the market will continue to climb and continue to be strong for the foreseeable future. With the growth that we have here in the Austin metro, everything is looking strong.** I’d be happy to share some of the strategies that I like to implement with sellers to increase demand and create a multiple offer atmosphere.**
+As for sellers, this hot market makes it an incredible time to sell for top dollar. I think the market will continue to climb and continue to be strong for the foreseeable future. With the growth that we have here in the Austin metro, everything is looking strong.\*\* I’d be happy to share some of the strategies that I like to implement with sellers to increase demand and create a multiple offer atmosphere.\*\*
 
 If you have any questions about the Austin real estate market or if you’re thinking about buying or selling, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
-
-&nbsp;
