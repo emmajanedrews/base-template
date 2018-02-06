@@ -18,9 +18,9 @@ youtube_code: S3jR9xw9vhg
 
 {% include youtube.html %}
 
-February is here, which means we have a quick market update and a full list of fun events coming up this month.
+February is here, which means we have a quick market update and a [full list of fun events coming up this month listed here.&nbsp;](https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/February+Newsletter+.pdf)
 
-Here are some of our favorites:
+In the meantime, here are some of our favorites:
 
 * **Our team’s fifth annual Valentine’s Day chocolate giveaway.**Don’t be bashful—reply to this email and we’ll send you a bunch of chocolates in the mail. The reason I do this is to show my gratitude and appreciation for those who support our business.
 * **The Southeast Wildlife Expo.**
