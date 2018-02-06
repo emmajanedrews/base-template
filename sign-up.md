@@ -14,7 +14,7 @@ permalink: /sign-up/
 <figcaption class="caption"><strong>{{site.data.settings.client.name}}, {{site.data.settings.client.title}}</strong><br>
 {{site.data.settings.client.brand}}</figcaption>
 </div>
-<p>Would you like to know what’s going on in (area)?</p>
+<p>Would you like to know what’s going on in {{site.data.settings.client.market}}?</p>
 
 <p>I invite you to get a free subscription to my community real estate video newsletter.</p>
 
