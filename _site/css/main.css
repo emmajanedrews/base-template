@@ -2826,8 +2826,8 @@ form select {
 
 .recruiting-page {
   Font-size: 18px;
-  width: 75%;
-  margin-left: 13%;
+  max-width: 800px;
+  margin: auto;
   color: black; }
 
 .page-logo {
