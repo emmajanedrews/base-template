@@ -34,6 +34,6 @@ Last year, our agents closed between 18 and 41 transactions and were able to mee
 
 As you may know, MacIntosh Realty recently branched out and rebranded as an independent brokerage, so our structure has changed considerably. It’s quite different from most other real estate firms.
 
-We’ve worked hard to come up with **a commission structure that we feel is more favorable than any other in our market.**We consider it a win-win, and we would love the opportunity to share it with you.<br><br>If you’re currently a real estate agent and are interested in exploring a change, or if you’re a new agent and would like to discuss what we have to offer, **we look forward to hearing from you soon.**
+We’ve worked hard to come up with **a commission structure that we feel is more favorable than any other in our market.&nbsp;**We consider it a win-win, and we would love the opportunity to share it with you.<br><br>If you’re currently a real estate agent and are interested in exploring a change, or if you’re a new agent and would like to discuss what we have to offer, **we look forward to hearing from you soon.**
 
 Have a great, successful 2018!
