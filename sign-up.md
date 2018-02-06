@@ -7,7 +7,7 @@ permalink: /sign-up/
    <span class="client-image-container">
     <img src="/img/headshot.jpg" alt="{{site.data.settings.client.name}}" class="client-image"/>
   </span>
-<figcaption class="caption">{{site.data.settings.client.name}}, {{site.data.settings.client.title}}<br>
+<figcaption class="caption"><strong>{{site.data.settings.client.name}}, {{site.data.settings.client.title}}</strong><br>
 {{site.data.settings.client.brand}}</figcaption>
 </div>
 <h1>{{site.data.settings.client.market}} Real Estate Community Newsletter</h1>

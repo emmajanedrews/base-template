@@ -11,21 +11,21 @@ emma:
   form:
 
 client:
-  name:
-  title:
+  name: Frank Klesitz
+  title: CEO
   license_number:
   about_markdown: |
 
-  market:
-  brand:
+  market: San Diego
+  brand: Vyral Marketing
   brokerage:
-  address:
-  phone:
+  address: '3205 North 90th Street #202<br>Omaha, NE 68134'
+  phone: 800-323-9974
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: frank@getvyral.com
+  url: http://getvyral.com
 
 CTAs:
   first_CTA_text: Home Valuation
