@@ -74,8 +74,7 @@ welcome_box:
 socials:
   review_sm_icons: false
   facebook_url: 'https://www.facebook.com/rareProps'
-  linkedin_url: 'https://www.linkedin.com/in/denisezirker/recent-activity/'
-#   gplus_url: 'https://plus.google.com/b/106955402163767480892/106955402163767480892'
+  linkedin_url: 'https://www.linkedin.com/company/rare-properties-llc/'
   youtube_url: 'https://www.youtube.com/channel/UCvUlPU31JJ43y5Gs6zI4KSA'
   twitter_url: 'https://twitter.com/rare_Properties'
   instagram_url:
@@ -84,9 +83,10 @@ socials:
   trulia_url: >-
     http://www.trulia.com/profile/rare-properties-llc-broker-raleigh-nc-6804964/overview
   yelp_url: 'http://www.yelp.com/biz/rare-properties-llc-raleigh'
-#   podcast_url: https://itunes.apple.com/us/podcast/raleigh-nc-podcast-rare-properties/id1178144741?mt=2
+  podcast_url: >-
+    https://itunes.apple.com/us/podcast/raleigh-nc-podcast-rare-properties/id1178144741?mt=2
 podcast:
-  title: Raleigh Real Estate Podcast with RARE Properties
+  title: Raleigh Real Estate Podcast with Rare Properties
   categories:
     - Education
   image: /img/podcast.jpg
