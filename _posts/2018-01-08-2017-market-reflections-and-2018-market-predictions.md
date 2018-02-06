@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/no-pb-4.jpg
-youtube_code: 41PKtZIc6Gw
+youtube_code: sRzKwAoGSEM
 ---
 
 
@@ -43,5 +43,3 @@ If you plan on buying or selling a home in 2018, please don’t hesitate to reac
 If you plan on selling a home, there are things that you can do several months ahead of time before you put your home on the market to increase the amount of money you get out of your home sale. Some updates will get you a better return on investment, and we would be happy to point you towards the updates that will increase the value of your home.
 
 Just give us a call or send us an email if you have any questions. We look forward to hearing from you!
-
-&nbsp;
