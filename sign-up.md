@@ -18,7 +18,7 @@ permalink: /sign-up/
 
 <p>I invite you to get a free subscription to my community real estate video newsletter.</p>
 
-<p>You’ll receive 2 helpful, timely messages a month. I answer direct questions about (area) real estate and what’s going on in our community.</p>
+<p>You’ll receive 2 helpful, timely messages a month. I answer direct questions about {{site.data.settings.client.market}} real estate and what’s going on in our community.</p>
 
 <p>This way you can make smart real estate decisions and get the best deal when you buy, sell, remodel, or refinance your home.</p>
 
