@@ -11,7 +11,7 @@ excerpt: >-
   where to start. To learn more, watch this short video.
 pullquote: We’re looking for new agents.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Jason+McIntosh/+Videos/2018/Savannah+Real+Estate+Agent-+Why+Wait%253F+Start+Your+Career+in+Real+Estate+Now.mp4
+  https://s3.amazonaws.com/vyralmarketing/Jason+McIntosh/+Videos/2018/Savannah+Real+Estate+Agent-+Looking+to+Switch+Careers+or+Companies%253F+Join+Our+Team.mp4
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
