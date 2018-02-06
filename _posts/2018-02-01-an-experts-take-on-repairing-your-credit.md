@@ -30,7 +30,7 @@ According to Joe, the credit repair process itself is very unique. There are a m
 
 The Credit Agents has a behind-the-scenes team specifically tasked to go through their clients’ credit reports and review which negative accounts appear to be questionable, inaccurate, or incorrect. The details of those accounts are then taken through a very aggressive process of disputes and challenges.&nbsp;
 
-Disputes are used primarily when dealing with collections accounts. Joe and his team will ask the collection agency to verify that the account is accurate and they have proof to collect upon the debt. The collection agency has 30 days to do this. In most cases, collection agencies don’t have these kinds of records - **they’re just collecting on behalf of other creditors, so they’re not given proper materials to verify if a consumer’s account is accurate or verifiable.&nbsp;**
+Disputes are used primarily when dealing with collections accounts. Joe and his team will ask the collection agency to verify that the account is accurate and they have proof to collect the debt. The collection agency has 30 days to do this. In most cases, collection agencies don’t have these kinds of records. **T****hey’re just collecting on behalf of other creditors, so they’re not given proper materials to verify if a consumer’s account is accurate or verifiable.&nbsp;**
 
 {% include pullquote.html %}
 
@@ -38,7 +38,7 @@ A lot of these collection accounts, then, will come off throughout their process
 
 “Every item on someone’s credit report has to follow strict standards to be able to continue to report,” Joe says. “But oftentimes, these negative accounts, collections, late payments, charge-offs, and even public records don’t play by the rules. We essentially do our part to get them to play by the rules or get off the credit report.”
 
-As** they work to remove negative information from credit reports, they’re also simultaneously educating their clients** about hot to establish new credit, what credit to avoid, what kind of balance to maintain, etc. Someone who tries to repair their own credit without having any previous knowledge about it can get into trouble because they don’t know where to begin or where to go. An expert, on the other hand, can condense 10 years’ worth of knowledge and education and segment it so clients can understand their program and see its results.&nbsp;
+**As&nbsp;****they work to remove negative information from credit reports, they’re also simultaneously educating their clients**&nbsp;about hot to establish new credit, what credit to avoid, what kind of balance to maintain, etc. Someone who tries to repair their own credit without having any previous knowledge about it can get into trouble because they don’t know where to begin or where to go. An expert, on the other hand, can condense 10 years’ worth of knowledge and education and segment it so clients can understand their program and see its results.&nbsp;
 
 “We work toward removing negative information while teaching them how to establish positive information. The combined efforts are what gets someone to a higher credit score.”
 
