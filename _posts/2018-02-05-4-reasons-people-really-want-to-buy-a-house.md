@@ -21,13 +21,13 @@ youtube_code: HstkyT7tDNE
 
 There are many financial benefits to owning a home, but these are the four real reasons why people really want to buy a house:
 
-**1. They are looking for a stable environment so they can start their family.**
+**1. You are looking for a stable environment so you can start your family.**
 
 **2. Owning a home gives you a sense of safety and security.** When you own a home, it’s yours. This is a safe environment that makes you feel better.
 
 {% include pullquote.html %}
 
-**3. You have your own space to do what you want.**You can raise your kids, get pets, and set up your garage for your hot rod cars. Do what you want to do.
+**3. You have your own space to do what you want.&nbsp;**You can raise your kids, get pets, and set up your garage for your hot rod cars. Do what you want to do.
 
 **4. You are the boss.** You can renovate, remodel, update the kitchen, or do some landscaping in the yard. You can do whatever you want without answering to anyone else.
 
