@@ -22,7 +22,7 @@ youtube_code: 'https://youtu.be/opHkLSJRlFU'
 
 I’m coming to you today from one of Buda’s newest tenants, Ellipsis Boutique. I recently talked with owner Amy Krell about her company and what they do.
 
-**Ellipsis is a clothing and accessory boutique filled with hot new trends and great styles.**We absolutely love the decor, the design of the store, and the big, open ceiling. It’s amazing here.
+**Ellipsis is a clothing and accessory boutique filled with hot new trends and great styles.&nbsp;**We absolutely love the decor, the design of the store, and the big, open ceiling. It’s amazing here.
 
 Whether you’re looking for some new clothes, accessories, or even a gift for someone you love, there’s something here for everyone at Ellipsis.
 
