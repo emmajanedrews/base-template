@@ -2853,10 +2853,14 @@ form select {
 
 .e2ma_signup_form input[type="submit"] {
   background-color: #f6600f;
-  margin-left: 42%; }
+  margin: 0 auto;
+  display: block; }
 
 .e2ma_signup_form input[type="submit"]:hover {
   background-color: #F87C39; }
 
 .e2ma_signup_form {
   background-color: #094264; }
+
+.e2ma_signup_message {
+  padding-top: 10px; }
