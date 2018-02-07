@@ -37,9 +37,7 @@ Music is everything to me, so today’s interview is one of my favorites. I sat 
 
 * 8:00 Supporting the community and other venues.
 * 11:00 Upcoming events and plans for the future, such as workshops for artists, the music library, and more.
-* ​​​​​​​​​​​​​​16:00 How Pete and Allison got started in booking music.
-
-If you would like to learn more about Vashon Events, check out their [website](http://www.vashonevents.com/). As always, if you have any real estate questions, just give me a call or send me an email. I would be happy to help you!
+* ​​​​​​​​​​​​​​16:00 How Pete and Allison got started in booking music.<br>If you would like to learn more about Vashon Events, check out their [website](http://www.vashonevents.com/). As always, if you have any real estate questions, just give me a call or send me an email. I would be happy to help you!
 
 &nbsp;
 
