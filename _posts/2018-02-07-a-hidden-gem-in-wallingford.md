@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dino's Modern Barbershop
+title: A hidden gem in Wallingford
 date: 2018-02-07 09:55:07
 tags:
   - Real Estate
@@ -20,7 +20,7 @@ youtube_code: K6rp-V9LBE8
 
 Today I’m here to introduce you to a great Wallingford business. We may have shot the video three years ago, but we’re excited as ever to talk about Dino’s Modern Barbershop.
 
-**What sets Dino’s apart is their customer service.**Dino is a good friend of mine and I know how committed he is to giving his clients the full package. Not just a great haircut or a shave, but a conversation, a cup of coffee, and a smile as well. &nbsp;
+**What sets Dino’s apart is their customer service.&nbsp;**Dino is a good friend of mine and I know how committed he is to giving his clients the full package. Not just a great haircut or a shave, but a conversation, a cup of coffee, and a smile as well. &nbsp;
 
 Dino grew up in Wallingford and after working with his father for 20 years cutting hair in North Haven, he decided it was time for him to strike out on his own.
 
@@ -28,6 +28,6 @@ Dino grew up in Wallingford and after working with his father for 20 years cutti
 
 **Although Dino’s has a great modern, simplistic look, they do have one special relic from the past.** The chairs have been in their family since 1971 and add a nice touch of class to the space.
 
-To learn more about Dino’s Modern Barbershop, including their prices and hours of operation, visit their Facebook page here.
+To learn more about Dino’s Modern Barbershop, including their prices and hours of operation, visit their Facebook page [here](https://www.facebook.com/Dinosmodernbarbershop).
 
 If you have any other questions for me, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
