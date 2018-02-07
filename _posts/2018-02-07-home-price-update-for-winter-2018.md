@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Home Price Update for Winter 2018
-date:
+date: 2018-02-07 08:29:36
 tags:
   - Market Update
 excerpt: >-
@@ -28,7 +28,7 @@ This winter is likely to be a very important moment for many home sellers. That�
 
 {% include pullquote.html %}
 
-**3. The new tax reform bill will impact the market.** The federal government recently passed the Tax Cuts and Jobs Act, which majorly overhauled our tax code. While it’s unclear how this will affect the real estate market as a whole, **there are some changes that do not favor home sellers.** &nbsp;As a result of the changes made to the tax code, the National Association of Realtors now projects slower growth for home prices in 2018, with an appreciation rate of 1% to 3%. By doubling the standard deduction, Congress has significantly reduced the value of mortgage interest and property deductions as tax incentives for homeownership. On the bright side, no changes were made in the rules surrounding capital gains for home sales, which is good news for home sellers.
+**3. The new tax reform bill will impact the market.** The federal government recently passed the Tax Cuts and Jobs Act, which majorly overhauled our tax code. While it’s unclear how this will affect the real estate market as a whole, **there are some changes that do not favor home sellers.**  As a result of the changes made to the tax code, the National Association of Realtors now projects slower growth for home prices in 2018, with an appreciation rate of 1% to 3%. By doubling the standard deduction, Congress has significantly reduced the value of mortgage interest and property deductions as tax incentives for homeownership. On the bright side, no changes were made in the rules surrounding capital gains for home sales, which is good news for home sellers.
 
 <br>When you put all three of these trends together, two big conclusions emerge. First, **now is a very favorable moment for home sellers**, thanks to the shortage in the market, the many eager buyers, and the high and rising prices. On the other hand, **higher cost, higher tax areas will likely see prices decline** as the result of new restrictions on mortgage interest and state and local taxes.
 
