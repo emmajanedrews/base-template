@@ -23,7 +23,7 @@ youtube_code: QEZZf61sQrc
 
 <center>&nbsp;</center>
 
-<center><em>Want to sell your home? <a href="http://gostgeorgehomevalue.com/">Get a FREE home value report</a><br />Want to buy a home? <a href="http://www.stgeorgehomesearching.com/">Search all homes for sale</a></em></center>
+<center>Want to sell your home? <a href="http://gostgeorgehomevalue.com/">Get a FREE home value report</a><br />Want to buy a home? <a href="http://www.stgeorgehomesearching.com/">Search all homes for sale</a></center>
 
 <center>&nbsp;</center>
 
