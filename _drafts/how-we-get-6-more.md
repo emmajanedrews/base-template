@@ -3,6 +3,7 @@ layout: post
 title: How We Get 6% More
 date:
 tags:
+  - Home Seller Tips
 excerpt: >-
   How do my team and I consistently sell homes for 6% more than local averages?
   We keep track of and measure our performance.
@@ -12,7 +13,7 @@ pullquote: We do everything we can to achieve consistently above-average perform
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/no-3.jpg
 youtube_code: LvHIsoeCOe4
 ---
 
