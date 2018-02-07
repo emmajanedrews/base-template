@@ -1,5 +1,5 @@
 ---
-youtube_code: P6K15Amm1Zo
+youtube_code: vYMmyh_nRdI
 excerpt:
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/Videos/2017/July/The+VA+Loan+Guy-+Manufactured+Homes+Made+Simple.mp4
@@ -7,14 +7,14 @@ pullquote: THE VA WANTS BUYERS TO BE SAFE AND HEALTHY WITHIN THEIR HOMES.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/va-loans-and-manufactured-homes-email.jpg
+youtube_alternate_image: /uploads/manufactured-homes-email.jpg
 layout: post
 title: Manufactured Homes Made Simple
 date: 2017-07-03 18:49:00
 author: Vyral Admin
 tags:
 modified_time:
-thumbnail: 'https://i.ytimg.com/vi/P6K15Amm1Zo/default.jpg'
+thumbnail: /uploads/manufactured-homes-email-1.jpg
 blogger_id: 'tag:blogger.com,1999:blog-4130350860975241153.post-3054266218966199424'
 blogger_orig_url: 'http://www.thevaloanguy.com/2017/07/manufactured-homes-made-simple.html'
 ---
