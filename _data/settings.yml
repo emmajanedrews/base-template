@@ -30,7 +30,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: http://alexlam.net/home-evaluation.html
   second_CTA_text: Home Search
-  second_CTA_URL: http://alexlam.net/vow.html#!/wps/-/noframe~true/recip/30044/idx.search?
+  second_CTA_URL: https://www.yvrhomesearch.com/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
