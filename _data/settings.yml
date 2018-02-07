@@ -45,6 +45,12 @@ second_sidebar_CTA:
     CTA_text2: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text2: "Free Home Value Report"
     CTA_url2: http://www.denvercohomeprice.com/
+third_sidebar_CTA:
+ - CTA_image_path3: /img/cta-images/006.jpg
+   CTA_title3: Looking to Build Your Real Estate Career?
+   CTA_text3: Let's talk about how we can take your business to new heights.
+   CTA_link_text3: Join Our Team
+   CTA_url3: https://www.thehomesmithsteam.com/careers/    
 lender:
   show_section: true
   headshot_path: 'http://i.imgur.com/p2ft4p6.jpg'
