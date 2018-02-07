@@ -1,5 +1,5 @@
 ---
-youtube_code: pf4WvUqBePM
+youtube_code: Qa-UGSq7lx4
 excerpt:
 enclosure:
 pullquote: >-
@@ -8,14 +8,14 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/appraisals-email.jpg
+youtube_alternate_image: /uploads/va-appraisals-email.jpg
 layout: post
 title: Are VA Appraisals Any Different from Conventional Ones?
 date: 2017-08-11 20:45:00
 author: Vyral Admin
 tags:
 modified_time:
-thumbnail: 'https://i.ytimg.com/vi/pf4WvUqBePM/default.jpg'
+thumbnail: /uploads/va-appraisals-email-1.jpg
 blogger_id: 'tag:blogger.com,1999:blog-4130350860975241153.post-2472622385336044348'
 blogger_orig_url: 'http://www.thevaloanguy.com/2017/08/are-va-appraisals-any-different-from.html'
 ---
