@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Tips That Will Help You Find the Right Home
-date:
+date: 2018-02-07 11:59:27
 tags:
   - Market Update
   - Home Buyer Tips
