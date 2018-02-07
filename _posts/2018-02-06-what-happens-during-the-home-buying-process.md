@@ -29,16 +29,16 @@ There are six main steps that you should know about:
 
 **2. Analyze your needs and wants for your home.** You will sit down with your real estate agent and explain your needs and wants for the home. Do you need a home in a good school district? Do you need more space or a higher quality home? If you buy a higher quality home, you may make some sacrifices in space. If you need more space, sometimes you may have to sacrifice on quality by foregoing certain upgrades.
 
-**3. Finding the right property.**We will work together to put together a list of homes that you might want to see. I recommend that you pick your top five, and our agents will show all of those homes for you.
+**3. Finding the right property.** We will work together to put together a list of homes that you might want to see. I recommend that you pick your top five, and our agents will show all of those homes for you.
 
 {% include pullquote.html %}
 
-**4. Make an offer.**Once you find the right property, we will help you write your offer and negotiate the best price and terms for you.
+**4. Make an offer.** Once you find the right property, we will help you write your offer and negotiate the best price and terms for you.
 
 **5. Order an inspection.** Once the home is under contract, we recommend doing a general inspection and a termite inspection. The bank will order an appraisal as a safeguard to make sure that you’re not overpaying for the home.
 
 We will guide you through the process of negotiating repairs. We’ll help you understand what’s important and what’s not important during that process to make sure that you don’t get in over your head or buy a house with a roof that’s caving in.
 
-**6. Closing.**Closing takes place three to four weeks from the day you go under contract on the home. You will bring your money, sign papers, and get the keys so you can move into your new home.
+**6. Closing.** Closing takes place three to four weeks from the day you go under contract on the home. You will bring your money, sign papers, and get the keys so you can move into your new home.
 
 I hope you’ve found this overview of the home buying process helpful. If you have any more questions about buying a home, just give me a call or send me an email. I would be happy to help you!
