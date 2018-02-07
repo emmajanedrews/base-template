@@ -38,17 +38,13 @@ I understand why homes don’t sell. In 2016, The Larkin Group sold 56 homes in 
 So, here’s what you need to do if your home isn’t selling:
 
 1. **Check your price.**You need to be really honest with yourself about your price. Is your home overpriced for the market? Your listing price is not about what you need or want, and it’s not what the appraiser or grandmother told you. Ask yourself, “What is the market value of my home?” You need to be very honest with yourself. This is a real man and the mirror moment.
-
 2. **Look at the condition and staging.** Did your agent give you any feedback about your house? If so, did you ignore that feedback? Maybe your home is messy, or you need to update or neutralize the paint. It’s fairly likely that there is something you know you need to fix but didn’t, and that is what’s keeping your home from selling.
-
 3. **Marketing.** Did you hire a real estate agent who spends thousands of dollars on radio, Zillow, Trulia, Realtor.com, and Homes.com? Is your agent marketing to other real estate agents and incentivizing those agents to bring buyers to your home? There is a good chance you don’t know what they are doing, so ask your agent about their marketing plan.
-
 4. **Fix it up.** This goes back to my second point. You may need to spend some money to fix up your home.
-
 5. **Quit.** You always have the option to quit and take your home off the market.
 
 In most cases, the reason a home doesn’t sell is due to pricing. Be honest with yourself and your agent.
 
 This market has been great for sellers, and a good agent should be able to sell your home in 30 days or less. If your home is still on the market, it’s time to have a heart-to-heart with your agent.
 
-If you have any other questions or need help selling your home, just give me a call or send me an email. I would be happy to help you!<br>
+If you have any other questions or need help selling your home, just give me a call or send me an email. I would be happy to help you!
