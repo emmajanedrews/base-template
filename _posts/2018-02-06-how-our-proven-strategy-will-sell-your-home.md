@@ -24,7 +24,7 @@ Congratulations! You are thinking about selling your home and you’ve decided t
 
 We wanted to share a few things that set us apart from other real estate agents and explain how we can sell your home for more money in less time.&nbsp;
 
-**One of the things we do differently from most agents is that we have a very large marketing budget.**We spend about $9,000 a month in marketing. Compare that $9,000 a month to the average agent who only spends $400 a month and you’ll see how we are able to get your home more exposure.&nbsp;
+**One of the things we do differently from most agents is that we have a very large marketing budget.&nbsp;**We spend about $9,000 a month in marketing. Compare that $9,000 a month to the average agent who only spends $400 a month and you’ll see how we are able to get your home more exposure.&nbsp;
 
 We utilize radio, Zillow, Realtor.com, and Trulia so that your home always shows up on the first page of search results, not the 10th page.&nbsp;
 
