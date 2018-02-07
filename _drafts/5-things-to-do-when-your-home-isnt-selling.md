@@ -18,9 +18,9 @@ youtube_code: QEZZf61sQrc
 
 {% include youtube.html %}
 
-*What should you do if your home isn’t selling? I’ll go over five options for you today.*
+<center>What should you do if your home isn’t selling? I’ll go over five options for you today.</center>
 
-Want to sell your home? Get a FREE home value report<br>Want to buy a home? Search all homes for sale
+<center>Want to sell your home? Get a FREE home value report<br>Want to buy a home? Search all homes for sale</center>
 
 Lately, we’ve been getting a lot of questions from home sellers. They say, “I’ve had my home on the market with this other agent, and it’s not selling. Why isn’t it selling? What’s wrong with my home? Is this the wrong time to be on the market? Is it my agent?”&nbsp;
 
