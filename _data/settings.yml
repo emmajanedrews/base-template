@@ -32,7 +32,7 @@ CTAs:
   second_CTA_text: Apply for Refinance
   second_CTA_URL: https://loanapp.financeofamerica.com/ContentPages/Default.aspx?LoanOfficerId=47849
   third_CTA_text: Mortgage Inquiry
-  third_CTA_URL: https://loanapp.financeofamerica.com/ContentPages/Default.aspx?LoanOfficerId=47849
+  third_CTA_URL: https://www.foamortgage.com/mortgage-inquiry?loemail=sharos@financeofamerica.com
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
