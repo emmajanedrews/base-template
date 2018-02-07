@@ -15,9 +15,7 @@ excerpt: >-
   about Vashon Events, watch this short video.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Aaron+Hendon/Seattle+Real+Estate+Agent-+Interview+with+Vashon+Music.mp4
-pullquote: >-
-  Music is everything to me, so today’s interview is one of my favorites. I sat
-  down with Pete and Allison, the heart and soul of Vashon events.
+pullquote: 'I sat down with Pete and Allison, the heart and soul of Vashon events.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -37,7 +35,7 @@ Music is everything to me, so today’s interview is one of my favorites. I sat 
 
 * 8:00 Supporting the community and other venues.
 * 11:00 Upcoming events and plans for the future, such as workshops for artists, the music library, and more.
-* ​​​​​​​16:00 How Pete and Allison got started in booking music.<br>​​​​​​​<br>If you would like to learn more about Vashon Events, check out their [website](http://www.vashonevents.com/). As always, if you have any real estate questions, just give me a call or send me an email. I would be happy to help you!
+* ​​​​​​​16:00 How Pete and Allison got started in booking music.<br><br>If you would like to learn more about Vashon Events, check out their [website](http://www.vashonevents.com/). As always, if you have any real estate questions, just give me a call or send me an email. I would be happy to help you!
 
 &nbsp;
 
