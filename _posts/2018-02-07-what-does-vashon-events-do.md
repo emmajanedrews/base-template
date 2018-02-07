@@ -26,7 +26,9 @@ youtube_code: _nHjO0RvSbM
 
 {% include youtube.html %}
 
-Music is everything to me, so today’s interview is one of my favorites. I sat down with Pete and Allison, the heart and soul of Vashon events.<br><br>They are responsible for building a great music scene featuring local musicians, imported musicians, and other live events.<br><br>**Here are a few highlights from our conversation:**
+Music is everything to me, so today’s interview is one of my favorites. I sat down with Pete and Allison, the heart and soul of Vashon events.<br><br>They are responsible for building a great music scene featuring local musicians, imported musicians, and other live events.
+
+**Here are a few highlights from our conversation:**
 
 * 2:00 How Pete and Allison started Vashon Events and why they wanted to create a great community resource for entertainment.
 * 5:00 What Pete and Allison see for the future of the music scene and performing arts in our area.
@@ -34,9 +36,7 @@ Music is everything to me, so today’s interview is one of my favorites. I sat 
 {% include pullquote.html %}
 
 * 8:00 Supporting the community and other venues.
-* 11:00 Upcoming events and plans for the future, such as workshops for artists, the music library, and more.
-* ​​​​​​​16:00 How Pete and Allison got started in booking music.<br><br>If you would like to learn more about Vashon Events, check out their [website](http://www.vashonevents.com/). As always, if you have any real estate questions, just give me a call or send me an email. I would be happy to help you!
+* 11:00 Upcoming events and plans for the future, such as workshops for artists, the music library, and more.​​​​​​​
+* 16:00 How Pete and Allison got started in booking music.
 
-&nbsp;
-
-&nbsp;
+If you would like to learn more about Vashon Events, check out their [website](http://www.vashonevents.com/). As always, if you have any real estate questions, just give me a call or send me an email. I would be happy to help you!
