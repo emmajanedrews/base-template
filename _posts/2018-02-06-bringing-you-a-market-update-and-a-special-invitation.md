@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/wes-peters-ss.jpg
-youtube_code: ilM3HZ0c2AU
+youtube_code: qIve-Ec0Uuw
 ---
 
 
@@ -32,5 +32,3 @@ Now, onto a brief market update. We have somewhat of an inventory crisis on our 
 Overall, our local market has just 2.9 months of inventory. This means that if no new homes came on the market, all inventory would be gone in just 2.9 months. So if you’ve been thinking about selling your home, now is the time to do so.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
-
-&nbsp;
