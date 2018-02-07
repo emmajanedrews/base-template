@@ -22,7 +22,7 @@ youtube_code: N85g-PcIrY4
 
 This winter is likely to be a very important moment for many home sellers. That’s because three big trends are coming together to affect Lancaster County home prices right now:
 
-**1. Housing inventory remains extremely tight.**The total number of homes on the market fell 10% year over year in the last quarter. This is the biggest drop since 2013, and it's part of a consistent pattern of very limited and decreasing housing supply. Of course, **the fewer homes there are on the market, the easier it is to sell, and the higher the price you can expect to get.** Home prices have increased almost 6.5% nationally since last year.
+**1. Housing inventory remains extremely tight.&nbsp;**The total number of homes on the market fell 10% year over year in the last quarter. This is the biggest drop since 2013, and it's part of a consistent pattern of very limited and decreasing housing supply. Of course, **the fewer homes there are on the market, the easier it is to sell, and the higher the price you can expect to get.** Home prices have increased almost 6.5% nationally since last year.
 
 **2. Buyers are increasingly optimistic.** Despite the tight inventory, homebuyers are increasingly optimistic and continue to look for homes. Some of this has to do with the recent growth in income and job stability. Loosening lending standards are also making **many homebuyers eager to take advantage of current mortgage rates,** which slipped under 4% recently.
 
