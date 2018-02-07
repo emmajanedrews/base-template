@@ -6,8 +6,8 @@ permalink: /sign-up/
 
 <div class="recruiting-page">
 <div class="whitespace">
-<h1 class="letterhead-title">{{site.data.settings.client.market}} Real Estate Community Newsletter</h1>
-<p class="letterhead-subtitle">How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</p>
+<h1 class="letterhead-title">{{site.data.settings.client.market}} Real Estate Community Newsletter<br>
+Sign Up Now - Free Subscription</h1>
 <div class="recruiting-photo">
 <span class="client-image-container">
 <img src="/img/headshot.jpg" alt="{{site.data.settings.client.name}}" class="client-image"/>
@@ -15,6 +15,9 @@ permalink: /sign-up/
 <figcaption class="caption"><strong>{{site.data.settings.client.name}}<!--, {{site.data.settings.client.title}}--></strong><br>
 {{site.data.settings.client.brand}}</figcaption>
 </div>
+<br>
+<p>Friends, Clients and Associates:</p>
+
 <p>Would you like to know what’s going on in {{site.data.settings.client.market}}?</p>
 
 <p>I invite you to get a free subscription to my community real estate video newsletter.</p>
