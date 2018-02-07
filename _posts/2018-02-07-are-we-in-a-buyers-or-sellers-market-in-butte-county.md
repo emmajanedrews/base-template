@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are We in a Buyer’s or Seller’s Market in Butte County?
-date:
+date: 2018-02-07 16:08:57
 tags:
   - Real Estate
 excerpt: >-
@@ -31,16 +31,16 @@ It depends on your location and price bracket. For example, in Chico, which is a
 
 {% include pullquote.html %}
 
-**How does this inventory affect home values?&nbsp;**
+**How does this inventory affect home values?**
 
-For sellers, this inventory means home values will continue to appreciate. For buyer’s, it just means you might need to be aggressive to increase your odds of getting your offer accepted.&nbsp;
+For sellers, this inventory means home values will continue to appreciate. For buyer’s, it just means you might need to be aggressive to increase your odds of getting your offer accepted.
 
 **What do interest rates look like?**
 
 They’re still low. However, this can vary depending on your credit.
 
-**What does this all mean for buyers and sellers?&nbsp;**
+**What does this all mean for buyers and sellers?**
 
-Again, if you’re a buyer, it means you need to be ready to act quickly. Have your pre-qualification letter and verification of funds ready to submit with your offer. If you’re a seller, it means you must be proactive when preparing your home for the market—doing so will help you net more money at the closing table.&nbsp;
+Again, if you’re a buyer, it means you need to be ready to act quickly. Have your pre-qualification letter and verification of funds ready to submit with your offer. If you’re a seller, it means you must be proactive when preparing your home for the market—doing so will help you net more money at the closing table.
 
-If you have any other questions or you’re thinking about buying or selling in our market, don’t hesitate to reach out to me. I’d love to help you.<br>&nbsp;
+If you have any other questions or you’re thinking about buying or selling in our market, don’t hesitate to reach out to me. I’d love to help you.<br>
