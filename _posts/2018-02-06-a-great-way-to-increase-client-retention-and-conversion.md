@@ -9,7 +9,7 @@ excerpt: >-
   retention and conversion rates. Here it is.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/Central+PA+Real+Estate+Agent-+A+Great+Way+to+Increase+Client+Retention+and+Conversion.mp4
-pullquote: 'This process is simple, but effective.'
+pullquote: This process is simple but effective.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -24,9 +24,9 @@ Today I’m excited to share one simple tool with you that will help you increas
 
 Early on in my career, I learned a lot from a lot of different consultants and agents. I studied what they did and took classes. In one of my classes, we read a book about basic fundamental administration. It was like an executive assistant boot camp.
 
-**One thing I learned in that class is that there is an etiquette involved in serving people that will build their confidence and help you earn their trust very quickly.**Practicing this method properly results in others seeing you as a professional and having increased confidence in your abilities.
+**One thing I learned in that class is that there is an etiquette involved in serving people that will build their confidence and help you earn their trust very quickly.&nbsp;**Practicing this method properly results in others seeing you as a professional and having increased confidence in your abilities.
 
-**This simple method is called “closing the loop” and it starts like this:** When you have an inquiry, whether it’s a phone call, text, email etc, the very first thing you should do is message that person back and let them know you got their message and will get back to them shortly. That simple exchange builds their confidence in your ability to serve them later on down the road. It might seem silly, but it works.
+**This simple method is called “closing the loop” and it starts like this:** When you have an inquiry, whether it’s a phone call, text, email, etc., the very first thing you should do is message that person back and let them know you got their message and will get back to them shortly. That simple exchange builds their confidence in your ability to serve them later on down the road. It might seem silly, but it works.
 
 {% include pullquote.html %}
 
