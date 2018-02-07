@@ -3,6 +3,8 @@ layout: post
 title: 4 Tips That Will Help You Find the Right Home
 date:
 tags:
+  - Market Update
+  - Home Buyer Tips
 excerpt: >-
   Inventory is tight in our market, but there are four tips you can follow as a
   homebuyer that will help you land your dream home.
@@ -13,8 +15,8 @@ pullquote: >-
   help you.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/no-4.jpg
 youtube_code: 5VbgW2mHdAQ
 ---
 
