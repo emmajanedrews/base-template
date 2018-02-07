@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How We Get 6% More
-date:
+date: 2018-02-07 12:04:48
 tags:
   - Home Seller Tips
 excerpt: >-
