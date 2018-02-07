@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/1-31---yt.jpg
-youtube_code: IdF0Bz6j26Y
+youtube_code: _d99-OuRa_g
 ---
 
 
@@ -22,17 +22,17 @@ youtube_code: IdF0Bz6j26Y
 
 <center>&nbsp;</center>
 
-I want to give a big shoutout and thank you to all of our past clients, family, and friends who helped us exceed our goals in 2017.&nbsp;
+I want to give a big shoutout and thank you to all of our past clients, family, and friends who helped us exceed our goals in 2017.
 
 We were the recipients this week of four special awards based on closings and productions, and **we couldn’t have done it without you!**
 
 {% include pullquote.html %}
 
-Keller Williams World Class has over 350 associates in our market center here in Westlake Village, and we are honored to have received the following awards for 2017:&nbsp;
+Keller Williams World Class has over 350 associates in our market center here in Westlake Village, and we are honored to have received the following awards for 2017:
 
-* First Place Team Associate by Closed Volume—Heather Case&nbsp;
-* First Place Team by Closed Volume&nbsp;
-* First Place Listing Team by Units Closed&nbsp;
-* Third Place Team by Units Closed&nbsp;
+* First Place Team Associate by Closed Volume—Heather Case
+* First Place Team by Closed Volume
+* First Place Listing Team by Units Closed
+* Third Place Team by Units Closed
 
 I would like to thank everyone for helping us get there. As always, feel free to reach out if you have any real estate questions. We look forward to helping you all in 2018.
