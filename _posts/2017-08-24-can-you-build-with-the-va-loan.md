@@ -1,5 +1,5 @@
 ---
-youtube_code: LP4F5sXjzYg
+youtube_code: wzOuuHovmuw
 excerpt:
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/Videos/2017/August/The+VA+Loan+Guy-+Can+You+Build+With+the+VA+Loan%253F.mp4
@@ -7,14 +7,14 @@ pullquote: THE FUNDS FROM THIS 30-YEAR VA LOAN WILL PAY OFF THE CONSTRUCTION LOA
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/build-on-land-with-va-email.jpg
+youtube_alternate_image: /uploads/building-with-va-email.jpg
 layout: post
 title: Can You Build With the VA Loan?
 date: 2017-08-24 18:55:00
 author: Vyral Admin
 tags:
 modified_time:
-thumbnail: 'https://i.ytimg.com/vi/LP4F5sXjzYg/default.jpg'
+thumbnail: /uploads/building-with-va-email-1.jpg
 blogger_id: 'tag:blogger.com,1999:blog-4130350860975241153.post-834272188866665354'
 blogger_orig_url: 'http://www.thevaloanguy.com/2017/08/can-you-build-with-va-loan.html'
 ---
