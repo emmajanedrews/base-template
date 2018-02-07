@@ -1,5 +1,5 @@
 ---
-youtube_code: RSVzLSdrM4w
+youtube_code: hxxi-s3mYlw
 excerpt:
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/Videos/2017/July/The+VA+Loan+Guy-+Taxes%252C+VA+loans%252C+Insurance+July+1.mp4
@@ -7,14 +7,14 @@ pullquote: RISING WATER IS NOT COVERED BY REGULAR HOMEOWNERS INSURANCE.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/taxes-and-insurance-email.jpg
+youtube_alternate_image: /uploads/taxes-and-insurance-email-1.jpg
 layout: post
 title: How Taxes and Insurance Figure into VA Loans
 date: 2017-07-28 15:37:00
 author: Vyral Admin
 tags:
 modified_time:
-thumbnail: 'https://i.ytimg.com/vi/RSVzLSdrM4w/default.jpg'
+thumbnail: /uploads/taxes-and-insurance-email-2.jpg
 blogger_id: 'tag:blogger.com,1999:blog-4130350860975241153.post-7233779541871020773'
 blogger_orig_url: >-
   http://www.thevaloanguy.com/2017/07/how-taxes-and-insurance-figure-into-va.html
