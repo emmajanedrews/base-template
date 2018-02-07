@@ -11,20 +11,20 @@ emma:
   form:
 
 client:
-  name:
-  license_number:
+  name: Paul Berdiner
+  license_number: RB067528
   about_markdown: |
 
   market:
-  brand:
+  brand: RE/MAX PATRIOTS
   brokerage:
-  address:
-  phone:
+  address: 1770 E Market St York, PA 17402
+  phone: 717-840-4848
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: remaxpaulb@gmail.com
+  url: http://www.patriotshomes.com
 
 CTAs:
   first_CTA_text: Join Our Team
@@ -35,7 +35,7 @@ sidebar_CTA:
     CTA_title: Looking to Build Your Real Estate Career?
     CTA_text: Let's talk about how we can take your business to new heights.
     CTA_link_text: Join Our Team
-    CTA_url: /join-our-team/
+    CTA_url: http://www.patriotshomes.com/agents/
 
 lender:
   show_section: false
@@ -51,8 +51,8 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/RemaxPatriots/
+  linkedin_url: https://www.linkedin.com/in/paul-berdiner-9764b618/
   gplus_url:
   youtube_url:
   twitter_url:
@@ -81,8 +81,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#003EA4'
+  theme_color: '#DF1C30'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -91,10 +91,10 @@ navbar_colors:
   border_bottom:
 
 header_shadow:
-  h_shadow: 0px
+  h_shadow: 2px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: white
 
 buttons:
   button_radius_number: 0
