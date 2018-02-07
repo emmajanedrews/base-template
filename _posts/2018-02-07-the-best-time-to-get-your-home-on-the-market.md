@@ -8,7 +8,7 @@ enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Trae+Dauby/Trae+Dauby-+The+Best+Time+to+Get+Your+Home+on+the+Market.mp4
 pullquote: >-
   If you list your home on the market in March or April, you’re beating your
-  competition to the punch
+  competition to the punch.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -29,4 +29,4 @@ The reason I suggest listing in March or April is that a lot of other people als
 
 If you list your home on the market in March or April, you’re beating your competition to the punch. There will be fewer homes on the market, which means **you'll likely get a higher sales price and a faster sales time.**
 
-If you have any questions or would like us to take a look at your home, feel free to reach out to me by phone or by visiting **[www.TheDaubyTeam.com]( www.TheDaubyTeam.com)**.
+If you have any questions or would like us to take a look at your home, feel free to reach out to me by phone or by visiting **[www.TheDaubyTeam.com](www.TheDaubyTeam.com)**. I would be happy to help you!
