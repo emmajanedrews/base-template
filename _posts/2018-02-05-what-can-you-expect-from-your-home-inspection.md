@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/brad-korb-ss.jpg
-youtube_code: 8Byhv_RbIYI
+youtube_code: Ui_gtLXpneg
 ---
 
 
