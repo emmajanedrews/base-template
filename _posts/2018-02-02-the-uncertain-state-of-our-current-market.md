@@ -9,7 +9,7 @@ excerpt: >-
   area, and how the new tax cuts and Jobs Act might affect our real estate
   market.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Breanne+Steen/The+Uncertain+State+of+Our+Current+Market.mp4
+  https://s3.amazonaws.com/vyralmarketing/Breanne+Steen/The+Uncertain+State+of+Our+Current+Market2.mp4
 pullquote: >-
   As a result of the tax code changes, the National Association of Realtors now
   projects slower growth in home prices for 2018
