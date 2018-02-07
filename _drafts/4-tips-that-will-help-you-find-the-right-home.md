@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Inventory is tight in our market, but there are four tips you can follow as a
   homebuyer that will help you land your dream home.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Tim+Majka/Long+Beach+Real+Estate+Agent-+4+Tips+That+Will+Help+You+Find+the+Right+Home.mp4
 pullquote: >-
   There’s a strategy to finding the right home and plans we can put in place to
   help you.
@@ -14,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: 5VbgW2mHdAQ
 ---
 
 
