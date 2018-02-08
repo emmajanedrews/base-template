@@ -38,3 +38,5 @@ For my team, what sets us apart is our personal, conversational approach to real
 We’re very proud to receive this award and it was great to be recognized for our accomplishments. Of course, we always strive to continue to grow.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+
+![](/uploads/versions/image001-1---x----841-698x---.png)
