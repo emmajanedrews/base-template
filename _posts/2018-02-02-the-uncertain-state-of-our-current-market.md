@@ -27,6 +27,17 @@ Today, let’s discuss the 2018 housing market, what’s in store for our local 
 
 What should we expect to see for our local market this year? The start of this year is likely going to be a very important moment for home sellers because several big trends are coming together to impact our Ventura County market.
 
+The first factor is our low inventory. The way we closed out 2017, year over year from 2016, is we were down 15% in the Conejo Valley area, and 34% in the Simi Valley Area.
+
+
+This is the biggest drop since 2013, and it's part of a consistent pattern of very limited and decreasing housing supply.
+
+
+Of course, the fewer homes there are on the market, the easier it is to sell, and the higher the price you can expect to get.
+
+
+This is borne out by numbers: Home prices have increased almost 6.5% since last year.
+
 **Buyers becoming increasingly optimistic**. They’re still out looking for homes, due, in part, to income growth and job stability. Lenders are loosening their standards, and buyers are really eager to take advantage of the low mortgage rates, which recently slipped below 4%—a historic low.
 
 The new tax reform bill is another factor that will impact the market. The federal government recently passed the tax cuts and Jobs Act, which **majorly overhauled our tax code.** We’re not entirely sure how this will affect real estate as a whole. We do know that there are several changes being made that don’t positively favor home sellers.
