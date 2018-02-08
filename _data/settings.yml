@@ -44,7 +44,7 @@ second_sidebar_CTA:
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: http://alexlam.net/vow.html#!/wps/-/noframe~true/recip/30044/idx.search?
+    CTA_url2: https://www.yvrhomesearch.com/
 lender:
   show_section: false
   header_text: Preferred Lender
