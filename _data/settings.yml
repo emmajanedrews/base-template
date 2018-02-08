@@ -1,5 +1,5 @@
 audit_header: false
-title: -- CLIENT BRAND --
+title: askSarita Coaching and Training
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: true
 custom_links:
@@ -24,7 +24,7 @@ client:
   email: sarita@asksarita.com
   url: http://asksarita.com
 
-emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808105';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+emma_form:
 
 CTAs:
   first_CTA_text: Home Valuation

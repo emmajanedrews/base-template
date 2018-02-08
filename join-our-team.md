@@ -3,6 +3,7 @@ layout: recruiting
 title: Join Our Team
 permalink: /join-our-team/
 ---
+<div class="recruiting-page">
 <div class="recruiting-photo">
    <span class="client-image-container">
     <img src="/img/headshot.jpg" alt="{{site.data.settings.client.name}}" class="client-image"/>
@@ -11,7 +12,6 @@ permalink: /join-our-team/
 </div>
 <h1>Join One of the Fastest Growing Real Estate Teams in {{site.data.settings.client.market}}</h1>
 <h5>How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</h5>
-<div class="recruiting-page">
 <p>Dear real estate agent or frustrated employee:</p>
 </div>
 <h2 class="recruiting">Let's Make You More Money</h2>
