@@ -1,6 +1,6 @@
 audit_header: false
-title: -- CLIENT BRAND --
-description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
+title: The Michael Kaim Team Training and Coaching
+description: A Video Blog about -- MARKET -- Real Estate; its industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!
 show_custom_links: false
 custom_links:
   - title:
@@ -24,19 +24,20 @@ client:
   email: KaimTeam@gmail.com
   url: http://www.clevelandhomebuying.com
 
+emma:
+  lightbox:
+  form:
+
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.clevelandhomeselling.com/
-  second_CTA_text: Home Search
-  second_CTA_URL: http://www.clevelandhomebuying.com/
-  VR_form: http://oi.vresp.com?fid=a879e50805
+  first_CTA_text: Join Our Team
+  first_CTA_URL: /join-our-team/
 
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/007.jpg
-    CTA_title: Looking to Buy a Home?
-    CTA_text: Search the entire MLS for homes located in -- MARKET --.
-    CTA_link_text: Home Search Tool
-    CTA_url: http://www.clevelandhomebuying.com/
+  - CTA_image_path: /img/cta-images/006.jpg
+    CTA_title: Looking to Build Your Real Estate Career?
+    CTA_text: Let's talk about how we can take your business to new heights.
+    CTA_link_text: Join Our Team
+    CTA_url: /join-our-team/
 
 lender:
   show_section: false
@@ -86,7 +87,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 60
-  hero_text: Real Estate Video Blog
+  # hero_text: Real Estate Video Blog
   hero_background_hex: '#094264'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
