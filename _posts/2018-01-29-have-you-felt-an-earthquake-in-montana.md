@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Many people have asked me about how dangerous earthquakes in Montana are.
   Here’s what you should know.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Scott+Hollinger/Montana+Real+Estate++The+Hollinger+Team+Seismic+activity+in+Montana.mp4
 pullquote: 'Deadly earthquakes aren’t impossible in Montana, but are very unlikely.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -35,7 +36,7 @@ Sure enough, <u><strong><a href="https://earthquake.usgs.gov/earthquakes/eventpa
 
 A belt of seismicity (seismic or earthquake activity) actually runs through the western portion of Montana, called the Intermountain Seismic Belt. It extends into Idaho, Wyoming, Utah, and southern Nevada.
 
-There is a portion of the Belt called the Centennial Tectonic Belt that has **eight active faults which have produced a few major earthquakes in history,**&nbsp;although it’s been 40 years since an earthquake produced by this region has been destructive.
+There is a portion of the Belt called the Centennial Tectonic Belt that has **eight active faults which have produced a few major earthquakes in history,** although it’s been 40 years since an earthquake produced by this region has been destructive.
 
 So in general, no, you don’t have much to fear from earthquakes in Montana.
 
