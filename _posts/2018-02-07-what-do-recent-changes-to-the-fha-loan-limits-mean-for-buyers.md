@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Do Recent Changes to the FHA Loan Limits Mean for Buyers?
-date: 2018-02-07 15:33:25
+date: 
 tags:
   - Home Buyer Tips
   - Market Update
