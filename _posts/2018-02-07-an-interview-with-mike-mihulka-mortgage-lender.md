@@ -24,7 +24,7 @@ Today, I sat down with Mike Mihulka, a mortgage lender for Blackridge Bank, and 
 
 **JQ: Mike, how long have you been doing lending in the FM area?**
 
-MM: I’ve been in the mortgage industry for about ten years. I’ve been working for Blackridge for about 3 of them, now.
+MM: I’ve been in the mortgage industry for about 10 years. I’ve been working for Blackridge for about three of them, now.
 
 {% include pullquote.html %}
 
