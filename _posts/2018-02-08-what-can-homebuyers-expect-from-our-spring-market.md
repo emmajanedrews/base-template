@@ -14,7 +14,7 @@ excerpt: >-
   market, watch our latest video.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2018/Chad+%2526+Sara+Huebener+With+Edina+Realty-+What+Can+Homebuyers+Expect+From+Our+Spring+Market%253F.mp4
-pullquote: Pay attention to prices at more inventory comes on the market.
+pullquote: Pay attention to prices as more inventory comes on the market.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
