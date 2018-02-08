@@ -21,7 +21,7 @@ youtube_code: mkPPSMQxqAs
 
 We’ve gotten a lot of questions about what’s going on with taxes and how they will affect the market. We’ve also gotten a lot of questions about interest rates. Rates have been increasing over the last few weeks, and we anticipate that the Fed will raise rates soon.
 
-So, how has the Hoboken real estate market doing so far in 2018?
+**So, how has the Hoboken real estate market doing so far in 2018?**
 
 In January, we had 131 active condos on the market, with 65 going under contract in the last 30 days. That gives us an absorption rate of just over 2%, which means that if nothing new hit the market, we would be out of inventory in two months.
 
@@ -29,7 +29,7 @@ In January, we had 131 active condos on the market, with 65 going under contract
 
 Over the course of last month, 48 homes closed. The average sales price is $856,281, and the median sales price is $767,500.
 
-The average days on market is 32 days, and the median days on market is 26 days. Once homes are under contract, the list-to-sales price ratio is just over 100%, so we are continuing a strong trend here.
+The average days on market is 32 days, and the median days on market is 26 days. Once homes are under contract, the list-to-sales price ratio is just over 100%, **so we are continuing a strong trend here.**
 
 As of right now, there are nothing but positive results in our market.
 
