@@ -23,7 +23,7 @@ youtube_code: 3kovmLRHeDA
 
 <center>&nbsp;</center>
 
-Are **[earthquakes in Montana](http://www.mbmg.mtech.edu/quakes/quake-seismicity.html)** something to be worried about?
+Are <u><strong><a href="http://www.mbmg.mtech.edu/quakes/quake-seismicity.html">earthquakes in Montana</a></strong></u> something to be worried about?
 
 Having been born and raised here in Montana, I’ve felt a few earthquakes every now and then, but nothing severe. At most, you might experience one that rattles something off a shelf in a grocery store.
 
