@@ -1,351 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title>Raleigh Real Estate Podcast with Rare Properties</title>
-    <link>http://rarepropertiesblog.com</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://rarepropertiesblog.com"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from rare Properties - your professional Raleigh Real Estate Agents.</description>
+    <title>{{site.data.settings.podcast.title}}</title>
+    <link>{{site.url}}</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="{{site.url}}"/>
+    <description>{{site.data.settings.podcast.description | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand }}</description>
     <language>en</language>
-    <managingEditor>rare Properties</managingEditor>
-    <lastBuildDate>2017-04-20 16:40:58 -0500</lastBuildDate>
-    <media:copyright>rare Properties</media:copyright>
-    <media:thumbnail url="http://rarepropertiesblog.com/img/podcast.jpg"/>
-    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Raleigh, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
+    <managingEditor>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}</managingEditor>
+    <lastBuildDate>{{site.time}}</lastBuildDate>
+    <media:copyright>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}</media:copyright>
+    <media:thumbnail url="{{site.data.settings.podcast.image | prepend: site.url}}"/>
+    <media:keywords>{{site.data.settings.podcast.keywords | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand}}</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
-      <itunes:email>info@rareproperties.biz</itunes:email>
-      <itunes:name>rare Properties</itunes:name>
+      <itunes:email>{{site.data.settings.client.email}}</itunes:email>
+      <itunes:name>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}</itunes:name>
     </itunes:owner>
-    <itunes:author>rare Properties</itunes:author>
+    <itunes:author>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="http://rarepropertiesblog.com/img/podcast.jpg"/>
-    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Raleigh, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Raleigh Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from rare Properties - your professional Raleigh Real Estate Agents.</itunes:summary>
+    <itunes:image href="{{site.data.settings.podcast.image | prepend: site.url}}"/>
+    <itunes:keywords>{{site.data.settings.podcast.keywords | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand}}</itunes:keywords>
+    <itunes:subtitle>{{site.data.settings.podcast.subtitle | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand}}</itunes:subtitle>
+    <itunes:summary>{{site.data.settings.podcast.description | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand }}</itunes:summary>
       <itunes:category text="News &amp; Politics"/>
-    
+    {% for post in site.posts %}
       <item>
-        <title>Is It Better to Use a Local Mortgage Lender or an Online Provider?</title>
-        <link>http://rarepropertiesblog.com/is-it-better-to-use-a-local-mortgage-lender-or-an-online-provider.html</link>
-        
-          <category>Home Buyer Tips</category>
-        
-        <author>rare Properties</author>
-        <pubDate>2017-04-18 06:56:00 -0500</pubDate>
-        <guid>http://vyralmarketing.s3.amazonaws.com/rare%20Properties/Raleigh%20Real%20Estate-%20Who%20Should%20You%20Turn%20to%20If%20You%20Need%20a%20Mortgage%253F.mp4</guid>
-        <description>
-
-Today I’m joined again by Brandon Harris from Perennial Mortgage Group to answer an important question: What’s the difference between working with a local mortgage lender and an online mortgage provider?
-
-The main difference boils down to human interaction. With so many of our daily tasks already automated, it’s not surprising that some people opt for online mortgage providers. When you’re looking to finance a home purchase, however, you need to work with someone you can communicate regularly with and meet in person.
-
-“You’ll never have an online lender give you their cell phone number in case you have questions.”
-
-It’s important to remember that obtaining a mortgage is not a single transaction. It can take anywhere from 25 days to up to 60 days or more. For most people, getting a mortgage is something they’ll only do a handful of times in their life. Local lenders do it on a daily basis and are experts in your area. If you have questions and need answers, you need an expert you can turn to.
-
-Online lenders in commercials like to tout how easy it is to get a mortgage by suggesting all you have to do is provide all your information and click a button. In reality, that’s not the case. There are many different tasks involved in getting a mortgage, and you’ll eventually have to speak with somebody to get them accomplished. If you use an online mortgage provider, there’s a good chance you’ll be dealing with different people throughout the process or whoever happens to be in the office that day. With a single local lender, they know your situation and what’s going on the whole time.
-
-If you have any more questions about the mortgage lending process, you can call Brandon at (919) 353-1918 or email him at brandon@perennialmortgage.com.
-
-If you have any other questions or are interested in buying or selling a home, feel free to give me a call or shoot me an email. I’d be happy to help you.
-</description>
-        <enclosure url="http://vyralmarketing.s3.amazonaws.com/rare%20Properties/Raleigh%20Real%20Estate-%20Who%20Should%20You%20Turn%20to%20If%20You%20Need%20a%20Mortgage%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://rarepropertiesblog.com" height="72" width="72"/>
-        <media:content url="http://vyralmarketing.s3.amazonaws.com/rare%20Properties/Raleigh%20Real%20Estate-%20Who%20Should%20You%20Turn%20to%20If%20You%20Need%20a%20Mortgage%253F.mp4" type="video/mp4"/>
+        <title>{{post.title}}</title>
+        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
+        {% for tag in post.tags %}
+          <category>{{tag}}</category>
+        {% endfor %}
+        <author>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}</author>
+        <pubDate>{{post.date}}</pubDate>
+        <guid>{{post.enclosure}}</guid>
+        <description>{{post.content | strip_html}}</description>
+        <enclosure url="{{post.enclosure}}" length="{{post.enclosure_time}}" type="{{post.enclosure_type}}"/>
+        <media:thumbnail url="{{post.image | prepend: site.url}}" height="72" width="72"/>
+        <media:content url="{{post.enclosure}}" type="{{post.enclosure_type}}"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Getting a mortgage is not as simple as clicking a button, which is why you should opt for a local mortgage lender instead of an online provider.</itunes:subtitle>
-        <itunes:author>rare Properties</itunes:author>
-        <itunes:summary>Getting a mortgage is not as simple as clicking a button, which is why you should opt for a local mortgage lender instead of an online provider.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Raleigh, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:subtitle>{{post.excerpt | strip_html}}</itunes:subtitle>
+        <itunes:author>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}</itunes:author>
+        <itunes:summary>{{post.excerpt | strip_html}}</itunes:summary>
+        <itunes:keywords>{{site.data.settings.podcast.keywords | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand}}</itunes:keywords>
       </item>
-      
-      <item>
-        <title>How the Mortgage Approval Process Works</title>
-        <link>http://rarepropertiesblog.com/how-the-mortgage-approval-process-works.html</link>
-        
-          <category>Home Buyer Tips</category>
-        
-        <author>rare Properties</author>
-        <pubDate>2017-03-30 07:39:59 -0500</pubDate>
-        <guid>http://vyralmarketing.s3.amazonaws.com/rare%20Properties/Raleigh%20Real%20Estate-%20How%20the%20Mortgage%20Approval%20Process%20Works.mp4</guid>
-        <description>
-
-Today I’m joined by Dan Woodard with Corporate Investors Mortgage Group to go over the mortgage approval process.
-
-If you’re thinking about buying a home, the first thing you need to do is get pre-approved. By doing so, you’ll run into a lot fewer problems when you purchase the house. For example, you as a buyer would have already provided your bank statements, paystubs, etc. for a lender to review and make sure there are no problems in your finances that might come up after the home goes under contract.
-
-Now, there is a difference between getting pre-qualified and pre-approved. A pre-qualification is basically a short conversation between the lender and the borrower in which the borrower provides some information and the lender does some quick calculations. After that, the lender informs the borrower that they are qualified.
-
-The pre-approval is the next step. To get pre-approved, you need to provide the documents that proves the information provided by the borrower was accurate. Completing this step is highly recommended for anyone looking to buy a home.
-
-Once you’ve found a home and made an offer has been accepted, your loan request will go to an underwriter. Once your loan request reaches this point, it will have gone through all the processing necessary to verify it. Whether it’s a clean underwrite or a difficult underwrite will depend on how thorough the processing was done. The underwriter may ask for some follow-up documents if they see something they have a question about, but then they will clear the loan to close.
-
-“When going through the loan approval process, make sure you don’t have credit issues, switch jobs, or leave anything out of your file.”
-
-There are a few reasons a loan will fall through. Credit issues, changing jobs during the underwriting process, or missing information in a file are the most common. Make sure you have all of those things taken care of before you start the process.
-
-If you have any questions for Dan, you can reach him at (919-676-1111).
-
-As always, if you have any questions for me, please feel free to give me a call or send me an email. I look forward to hearing from you!
-</description>
-        <enclosure url="http://vyralmarketing.s3.amazonaws.com/rare%20Properties/Raleigh%20Real%20Estate-%20How%20the%20Mortgage%20Approval%20Process%20Works.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://rarepropertiesblog.com" height="72" width="72"/>
-        <media:content url="http://vyralmarketing.s3.amazonaws.com/rare%20Properties/Raleigh%20Real%20Estate-%20How%20the%20Mortgage%20Approval%20Process%20Works.mp4" type="video/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Dan Woodard with Corporate Investors Mortgage Group is here to talk about the mortgage approval process.</itunes:subtitle>
-        <itunes:author>rare Properties</itunes:author>
-        <itunes:summary>Dan Woodard with Corporate Investors Mortgage Group is here to talk about the mortgage approval process.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Raleigh, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-      </item>
-      
-      <item>
-        <title>How to Prepare for Inspections as a Buyer or Seller</title>
-        <link>http://rarepropertiesblog.com/how-to-prepare-for-inspections-as-a-buyer-or-seller.html</link>
-        
-          <category>Real Estate</category>
-        
-        <author>rare Properties</author>
-        <pubDate>2017-03-30 07:22:50 -0500</pubDate>
-        <guid>http://vyralmarketing.s3.amazonaws.com/rare%20Properties/rare%20Properties%20Real%20Estate%20Agent-.mp4</guid>
-        <description>
-
-When you’re selling your home, there are certain things you can do to avoid issues with the inspection. Today, I’m joined by Greg Watkins with Advance Look Inspections to help me explain this topic.
-
-You obviously want your home to be in tip-top shape when buyers come through. There are some things you can take care of in the home before the inspection even occurs. According to Greg, curb appeal means a lot as a buyer approaches your house, so keep your shrubbery trimmed with 12 inches of clearance from the house. Doing so will also help prevent pests from getting into your home.
-
-Additionally, don’t overlook areas of wood rot, which can take place in 95% of the house. Most wood rot, Greg, says, comes from gutters that aren’t clean and cause water intrusion. If you have backed up gutters, it will show up on the home inspection. This issue can cause wood rot all the way down the side of your house, including the siding, the soffit, the trim, and the fascia.
-
-“Clogged gutters can cause a lot of costly damage in the long run.”
-
-When it comes to the HVAC system, you need to change your filters, and Greg recommends that you monitor it for the first few months after you move into a house to get an idea of how much dust is in your house. Some people have a lot of dogs and don’t realize how much debris can build up, Greg says.
-
-Any areas that look dingy should be repainted, and it always helps to clean your windows. You might want to do some serious scrubbing to determine whether your windows are dirty or have a defective seal.
-
-As for pre-list inspections, Greg says that he’ll do the same inspection that he would do for a home buyer. It will include the foundation, the siding, the roof, electrical, plumbing, and HVAC system. As Greg says, it may save you time and money and makes everyone’s life a little bit easier.
-
-If you’re in need of a home inspection either as a home buyer or seller, you can reach Greg at 919-523-9241.
-
-If you’re interested in buying or selling a home in the Raleigh market, give me a call or send me an email. I’d be happy to help you!
-</description>
-        <enclosure url="http://vyralmarketing.s3.amazonaws.com/rare%20Properties/rare%20Properties%20Real%20Estate%20Agent-.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://rarepropertiesblog.com" height="72" width="72"/>
-        <media:content url="http://vyralmarketing.s3.amazonaws.com/rare%20Properties/rare%20Properties%20Real%20Estate%20Agent-.mp4" type="video/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>When you're selling a home, you can help yourself out a lot by taking care of these items before a home inspection.</itunes:subtitle>
-        <itunes:author>rare Properties</itunes:author>
-        <itunes:summary>When you're selling a home, you can help yourself out a lot by taking care of these items before a home inspection.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Raleigh, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-      </item>
-      
-      <item>
-        <title>How Does Your Credit Score Impact Buying a Home?</title>
-        <link>http://rarepropertiesblog.com/how-does-your-credit-score-impact-buying-a-home.html</link>
-        
-          <category>Home Buyer Tips</category>
-        
-        <author>rare Properties</author>
-        <pubDate>2017-03-30 07:16:42 -0500</pubDate>
-        <guid>http://vyralmarketing.s3.amazonaws.com/rare%20Properties/Raleigh%20Real%20Estate-%20Jan%201.mp4</guid>
-        <description>
-
-Brandon Harris from Perennial Mortgage Group is here to answer a few common questions about credit scores.
-
-1. Why are credit scores important to the loan process? Credit scores give the lender a history of your past, including how you pay your bills and how you work with other lenders or credit card companies. Your credit score lets the lender know if you are reliable enough to be approved for a mortgage.
-
-2. What is the best credit score you can have? You can have a credit score as high as 900. However, any score over 760 is an excellent credit score. Also, if your credit score is higher than 760, it won’t necessarily impact your interest rate any further; 760 is a great score on its own.
-
-3. What kind of credit score do you need in order to obtain a loan? A lot of people think that you need a credit score of 780 or above to get a home. However, you can actually have score in the low 600s and get a home. Typically, your score should be around 640, but Brandon has worked with clients in the 620 range before.
-
-4. What are some reasons for a low credit score? Late payments will bring your credit score down, as well as not using your credit card enough. Medical collections can also drag down your credit score; on the bright side, medical collections are fairly easy to remove from your credit report.
-
-“Medical collections are fairly easy to remove from your credit report.”
-
-5. How can you raise your credit score? First of all, catch up on your payments. Once you have a strong history of making those payments on time, your score will improve. You can also speak with a credit repair agency. Sometimes, if you have a friend or family member with a great credit score, you can become an authorized user on their credit card in order to build good credit for the future.
-
-6. How often can you check your credit score? There is no real limit on the number of times you can check your credit. Brandon recommends going to AnnualCreditReport.com once a year to check your score for free. However, if you go to several different banks in a short amount of time to check your credit, you can get a hit on your credit score. Technically, you should still be allowed to shop around if you are looking for a lender. Just don’t look at too many.
-
-7. When does a lender check your credit score, anyway? That is always going to be one of the first things that your lender does. After the lender collects all of your information, they will get your credit score so they can put together a pre-qualification letter for you.
-
-If you have any other questions about your credit score or the loan process, you can reach Brandon at 919.848.4748 or brandon@perennialmortgage.com. As always, if you have any real estate questions, please don’t hesitate to reach out to us. We would be happy to help you!
-</description>
-        <enclosure url="http://vyralmarketing.s3.amazonaws.com/rare%20Properties/Raleigh%20Real%20Estate-%20Jan%201.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://rarepropertiesblog.com" height="72" width="72"/>
-        <media:content url="http://vyralmarketing.s3.amazonaws.com/rare%20Properties/Raleigh%20Real%20Estate-%20Jan%201.mp4" type="video/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Brandon Harris from Perennial Mortgage Group joins us today to answer seven common questions about credit scores and mortgages.</itunes:subtitle>
-        <itunes:author>rare Properties</itunes:author>
-        <itunes:summary>Brandon Harris from Perennial Mortgage Group joins us today to answer seven common questions about credit scores and mortgages.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Raleigh, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-      </item>
-      
-      <item>
-        <title>Happy Holidays from rare Properties</title>
-        <link>http://rarepropertiesblog.com/happy-holidays-from-rare-properties.html</link>
-        
-          <category>Real Estate</category>
-        
-        <author>rare Properties</author>
-        <pubDate>2017-03-30 07:10:18 -0500</pubDate>
-        <guid>http://vyralmarketing.s3.amazonaws.com/rare%20Properties/Raleigh%20Real%20Estate-%20Dec%202.mp4</guid>
-        <description>
-
-We just wanted to take a moment to thank you for your continued support this year, as well as wish you a happy holidays. We owe a lot of our success to you. It has been a pleasure to help make your real estate dreams a reality.
-
-We hope you enjoy this holiday season and make some wonderful memories with friends and family. It truly is the most wonderful time of the year.
-
-As a bonus, enjoy our many failed attempts at a full team holiday greeting in the video above. We think you’ll like it.
-
-Happy Holidays!
-
-“”
-</description>
-        <enclosure url="http://vyralmarketing.s3.amazonaws.com/rare%20Properties/Raleigh%20Real%20Estate-%20Dec%202.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://rarepropertiesblog.com" height="72" width="72"/>
-        <media:content url="http://vyralmarketing.s3.amazonaws.com/rare%20Properties/Raleigh%20Real%20Estate-%20Dec%202.mp4" type="video/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>We hope you enjoy this holiday season and make some wonderful memories with friends and family. It truly is the most wonderful time of the year.</itunes:subtitle>
-        <itunes:author>rare Properties</itunes:author>
-        <itunes:summary>We hope you enjoy this holiday season and make some wonderful memories with friends and family. It truly is the most wonderful time of the year.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Raleigh, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-      </item>
-      
-      <item>
-        <title>Three Ways to Prepare Your Home for the Market</title>
-        <link>http://rarepropertiesblog.com/three-ways-to-prepare-your-home-for-the-market.html</link>
-        
-          <category>Home Seller Tips</category>
-        
-        <author>rare Properties</author>
-        <pubDate>2017-03-30 06:57:19 -0500</pubDate>
-        <guid>http://vyralmarketing.s3.amazonaws.com/rare%20Properties/Raleigh%20Real%20Estate-%20Dec%201.mp4</guid>
-        <description>
-
-We can’t believe it’s December already. The year has really flown by. Real estate has been great in 2016 and all indicators point to 2017 being a good year too. One of the most common questions I’ve been getting lately is, “What can I do right now to prepare my home for sale when I’m ready to list?” I’ve got three tips to share with you today:
-
-1. Hire a professional real estate agent. A professional will know the market and where to find buyers in it. They also know how to market your home so it attracts the highest number of buyers possible.
-
-2. Improve your curb appeal. That’s the outside of your home. We spend so much time on the inside that we sometimes forget about our home’s exterior. Focus your attention on the inside of the home as well.
-
-3. Stage your home to sell. There is a difference between staging your home to live in and staging your home to sell. You can hire a professional stager or use your agent and their experience for advice on what you can do with what you already have.
-
-“All indications point to another great year in 2017.”
-
-If you have any questions for us or would like to list your home, give us a call or send us an email. We would love to help in any way possible and look forward to hearing from you soon.
-</description>
-        <enclosure url="http://vyralmarketing.s3.amazonaws.com/rare%20Properties/Raleigh%20Real%20Estate-%20Dec%201.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://rarepropertiesblog.com" height="72" width="72"/>
-        <media:content url="http://vyralmarketing.s3.amazonaws.com/rare%20Properties/Raleigh%20Real%20Estate-%20Dec%201.mp4" type="video/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Even if you don’t plan on selling until next year, it’s always good to be prepared. Here are three ways to get your home ready now before you list.</itunes:subtitle>
-        <itunes:author>rare Properties</itunes:author>
-        <itunes:summary>Even if you don’t plan on selling until next year, it’s always good to be prepared. Here are three ways to get your home ready now before you list.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Raleigh, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-      </item>
-      
-      <item>
-        <title>Tips for Rebuilding After Hurricane Matthew</title>
-        <link>http://rarepropertiesblog.com/tips-for-rebuilding-after-hurricane-matthew.html</link>
-        
-          <category>Real Estate</category>
-        
-        <author>rare Properties</author>
-        <pubDate>2017-03-30 06:49:27 -0500</pubDate>
-        <guid>https://vyralmarketing.s3.amazonaws.com/Denise%20Peterson/Raleigh%20Real%20Estate-%20Tips%20for%20Rebuilding%20After%20Hurricane%20Matthew.mp4</guid>
-        <description>
-
-We’ve been asked a lot lately about the effect that Hurricane Matthew is going to have on the real estate market and those thinking about selling their home. There have been tornadoes, floods, and hurricanes all over the last few months, so we wanted to give you some tips to make sure you’re approaching things the right way.
-
-For starters, use a licensed contractor when repairing any damage or making any renovations. Make sure you verify their license and make sure they are in good standing with the state. Contractors are necessary for things like electrical and plumbing work, and your insurance company may not cover future damage if you don’t use a licensed contractor.
-
-If you’re going to expand your square footage at all, you’ll need permits. If you don’t have an addition permitted and inspected, it won’t be added to the square footage on your home when you list it. When seeking out contractors, be sure to check their references and pay them when the work is complete, not upfront.
-
-“Use a licensed contractor when making renovations.”
-
-Certain jobs, like removing branches and tree limbs from your yard, don’t require contractors. In fact, you may even be able to reach out to the local scouts, YMCAs, and other service organizations that are looking for ways to help clean up.
-
-Finally, make sure to keep copies of any receipts to prove that any repairs or renovations you made were legitimate. If you have any questions for us or need any assistance or recommendations, give us a call or send us an email. We look forward to hearing from you soon.
-</description>
-        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Denise%20Peterson/Raleigh%20Real%20Estate-%20Tips%20for%20Rebuilding%20After%20Hurricane%20Matthew.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://rarepropertiesblog.com" height="72" width="72"/>
-        <media:content url="https://vyralmarketing.s3.amazonaws.com/Denise%20Peterson/Raleigh%20Real%20Estate-%20Tips%20for%20Rebuilding%20After%20Hurricane%20Matthew.mp4" type="video/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Hurricane Matthew left a lot of devastation in its wake. Here’s some tips for those of you trying to rebuild after the storm.</itunes:subtitle>
-        <itunes:author>rare Properties</itunes:author>
-        <itunes:summary>Hurricane Matthew left a lot of devastation in its wake. Here’s some tips for those of you trying to rebuild after the storm.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Raleigh, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-      </item>
-      
-      <item>
-        <title>5 Common Mistakes Home Buyers Make</title>
-        <link>http://rarepropertiesblog.com/5-common-mistakes-home-buyers-make.html</link>
-        
-          <category>Home Buyer Tips</category>
-        
-        <author>rare Properties</author>
-        <pubDate>2017-03-30 06:41:00 -0500</pubDate>
-        <guid></guid>
-        <description>
-
-The home buying process can be complicated, especially when unexpected issues arise. There are five common mistakes that many home buyers make that can be detrimental to their purchase in the end:
-
-1.Not getting pre-approved. Getting pre-approved for financing before making an offer is crucial. In today’s competitive market, it’s better to get pre-approved before you even begin looking at homes so that you know how much home you can afford. First, speak with a local lender. We can put you in touch with some great lenders.
-
-2.Not determining their wants vs. their needs. It’s important for buyers to distinguish what they want in a home versus what they actually need. For example, the buyer may want a four-car garage when in reality they only need a two-car garage.
-
-3.Not utilizing the due diligence period. The due diligence period can last anywhere from two weeks to a month, and it’s important to use this time period to check on your home before the closing. Test all of your major systems, go through everything with a fine-tooth comb, and schedule all of your inspections during this time.
-
-4.Becoming emotionally attached to one specific home. Buyers should be careful not to become too set on one particular home before looking at others. A good agent will ensure that the home that the buyer loves is in good condition and is worth the asking price. A home is often the biggest investment that a person will make in their entire life, so making a decision based on information rather than on personal feelings is critical.
-
-5.Not hiring a good agent to assist them. A good agent will keep buyers informed and share all of the information about the home and the neighborhood with them. Because good agents will coordinate almost every piece of the transaction, they can also help buyers get a better price on the home and represent their best interests during the negotiation process.
-
-Don’t make these mistakes during your next home search. If you have any questions about how to avoid these mistakes or anything else related to real estate in our area, give us a call or send us an email. We’d be happy to help you!
-</description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="http://rarepropertiesblog.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>The home buying process can be complicated, especially when unexpected issues arise. There are five common mistakes that many home buyers make that can be detrimental to their purchase in the end</itunes:subtitle>
-        <itunes:author>rare Properties</itunes:author>
-        <itunes:summary>The home buying process can be complicated, especially when unexpected issues arise. There are five common mistakes that many home buyers make that can be detrimental to their purchase in the end</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Raleigh, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-      </item>
-      
-      <item>
-        <title>We’re Having a Clothing Drive for Note in the Pocket</title>
-        <link>http://rarepropertiesblog.com/were-having-a-clothing-drive-for-note-in-the-pocket.html</link>
-        
-        <author>rare Properties</author>
-        <pubDate>2017-03-30 06:32:00 -0500</pubDate>
-        <guid>http://vyralmarketing.s3.amazonaws.com/rare%20Properties/First%2010%20CloudCannon%20Vids/Were%20Having%20a%20Clothing%20Drive%20for%20Note%20in%20the%20Pocket.mp4</guid>
-        <description>
-
-Our guest Shelly works with Note in the Pocket, a small, local organization that provides two weeks of school clothes to children in our county who are living below the poverty line.
-
-Unfortunately, there are over 53,000 children who are living below the poverty line in our area. Last year, Note in the Pocket was able to serve nearly 2,600 of those children. They are hoping to do more this year, and they need lots of school-appropriate clothing for both boys and girls.
-
-If you don’t have any clothes to donate, you can visit NoteInThePocket.org to make a monetary donation, or send Shelly an email at shelly@noteinthepocket.org.
-
-“Donate SUMMER CLOTHING from May 28th to June 4th at Executive Office Suites, Lafayette Village.”
-
-rare Properties will also be having a clothing drive from May 28th to June 4th. We will have bins set up at our office and we will gather clothes from friends, family, and clients. We can even pick up your donation if you don’t have time to deliver it. Again, if you don’t have any clothes, checks are always welcome.
-
-We want to help these children, and we appreciate anything you can do.
-
-If you have any questions, check out NoteInThePocket.org or give us a call or send us an email. We would be happy to help you!
-</description>
-        <enclosure url="http://vyralmarketing.s3.amazonaws.com/rare%20Properties/First%2010%20CloudCannon%20Vids/Were%20Having%20a%20Clothing%20Drive%20for%20Note%20in%20the%20Pocket.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://rarepropertiesblog.com" height="72" width="72"/>
-        <media:content url="http://vyralmarketing.s3.amazonaws.com/rare%20Properties/First%2010%20CloudCannon%20Vids/Were%20Having%20a%20Clothing%20Drive%20for%20Note%20in%20the%20Pocket.mp4" type="video/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Our guest Shelly works with Note in the Pocket, a small, local organization that provides two weeks of school clothes to children in our county who are living below the poverty line.</itunes:subtitle>
-        <itunes:author>rare Properties</itunes:author>
-        <itunes:summary>Our guest Shelly works with Note in the Pocket, a small, local organization that provides two weeks of school clothes to children in our county who are living below the poverty line.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Raleigh, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-      </item>
-      
-    <copyright>rare Properties</copyright>
-    <media:credit role="author">rare Properties</media:credit>
+      {% endfor %}
+    <copyright>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}</copyright>
+    <media:credit role="author">{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from rare Properties - your professional Raleigh Real Estate Agents.</media:description>
+    <media:description type="plain">{{site.data.settings.podcast.description | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand }}</media:description>
   </channel>
 </rss>
