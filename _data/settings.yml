@@ -26,7 +26,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: http://teamjudkinsrealestate.com/fine/real/estate/marketeval
   second_CTA_text: Home Search
-  second_CTA_URL: http://teamjudkinsrealestate.com/fine/real/estate/newsearch
+  second_CTA_URL: https://www.teamjudkinsrealestate.com/search/advanced_search/
   VR_form: http://oi.vresp.com?fid=4450be062b
 
 sidebar_CTA:
@@ -41,7 +41,7 @@ second_sidebar_CTA:
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: http://teamjudkinsrealestate.com/fine/real/estate/newsearch
+    CTA_url2: https://www.teamjudkinsrealestate.com/search/advanced_search/
 
 lender:
   show_section: false
