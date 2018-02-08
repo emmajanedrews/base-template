@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   I want to thank you all for your support in 2017! You helped us exceed our
   goals and win four awards.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Barbara+Radke/Southern+California+Real+Estate+Thank+you+for+a+great+2017.mp4
 pullquote: We couldn’t have done it without you!
 enclosure_type: video/mp4
 enclosure_time:
