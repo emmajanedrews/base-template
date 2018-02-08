@@ -29,7 +29,7 @@ Having been born and raised here in Montana, I’ve felt a few earthquakes every
 
 In fact, I was sitting at home the other day when I felt a loud thud. I thought it was snow falling off a tree and onto our deck, but there was no snow.
 
-Sure enough, **[it had been an earthquake](https://earthquake.usgs.gov/earthquakes/eventpage/us2000cjje#executive)****.**
+Sure enough, <u><strong><a href="https://earthquake.usgs.gov/earthquakes/eventpage/us2000cjje#executive">it had been an earthquake</a></strong></u>**.**
 
 {% include pullquote.html %}
 
