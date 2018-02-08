@@ -3,6 +3,7 @@ layout: page
 title: Join Our Team
 permalink: /join-our-team/
 ---
+<div class="recruiting-page">
 <div class="recruiting-photo">
    <span class="client-image-container">
     <img src="/img/headshot.jpg" alt="Frank Gray" class="client-image"/>
@@ -10,12 +11,10 @@ permalink: /join-our-team/
 <figcaption class="caption">Frank Gray</figcaption>
 </div>
 
-<h1>Join One of the Fastest Growing Real Estate Teams in Utah!</h1>
+<h1>Houston Real Estate Career: Apply Now</h1>
 <h5>How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</h5>
 
-<div class="recruiting-page">
-<p>Dear real estate agent or frustrated employee:</p>
-
+<p>Looking for a rewarding real estate career in the Houston Metro area? We’re hiring agents throughout the Houston real estate area including The Woodlands, Conroe, Spring, Kingwood, League City, Pearland, Katy, Tomball and Cypress. Get the culture, leads, accountability, processes, and strategies to sell homes. Make a great living. Training provided. No experience necessary. Flexible hours. Sell your first home in 90 days guaranteed. Apply now.</p>
 
 </div>
 

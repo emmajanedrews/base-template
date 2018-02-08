@@ -51,6 +51,7 @@ permalink: /subscribe/
 
 <p>Frank Gray</p>
 
-</div>
 
 {% include subscribe.html %}
+
+</div>
