@@ -20,7 +20,7 @@ client:
       specialty: BioPharma
       client_headshot_path: /img/headshot1.jpg
       phone: 480-718-6167
-      email: Dianna.lodolce@govig.com
+      email: Dianna.lodolce@govig.comh
       VR_form: 'http://oi.vresp.com?fid=edc00c84dc'
       about_markdown: >-
         Dianna LoDolce is the Senior Vice President, General Manager of the Biopharma
@@ -194,7 +194,7 @@ client:
     - name: Molly Ryan
       title: Executive Recruiter
       specialty: Healthcare
-      client_headshot_path: /img/headshot1.jpg
+      client_headshot_path: /img/headshot9.jpg
       phone: 480-718-6136
       email: molly.ryan@govig.com
       about_markdown: >-
@@ -205,7 +205,7 @@ client:
     - name: Collin Kalmansohn
       title: Executive Recruiter
       specialty: Healthcare
-      client_headshot_path: /img/headshot1.jpg
+      client_headshot_path: /img/headshot10.jpg
       phone: 480-718-6177
       email: colin.kalmansohn@govig.com
       about_markdown: >-
