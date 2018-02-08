@@ -2625,103 +2625,11 @@ table tr, table td {
 
   .prev {
     right: 0px; } }
-.modal-wrapper {
-  display: none;
-  position: fixed;
-  z-index: 8;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  overflow: auto;
-  background: rgba(0, 0, 0, 0.5);
-  -webkit-animation: fade 0.5s;
-          animation: fade 0.5s;
-  color: #555; }
-
-@-webkit-keyframes fade {
-  0% {
-    -webkit-filter: opacity(0);
-            filter: opacity(0); }
-  100% {
-    -webkit-filter: opacity(1);
-            filter: opacity(1); } }
-
-@keyframes fade {
-  0% {
-    -webkit-filter: opacity(0);
-            filter: opacity(0); }
-  100% {
-    -webkit-filter: opacity(1);
-            filter: opacity(1); } }
-@-webkit-keyframes slide {
-  0% {
-    -webkit-filter: opacity(0);
-            filter: opacity(0);
-    -webkit-transform: translateY(-300px);
-            transform: translateY(-300px); }
-  100% {
-    -webkit-filter: opacity(1);
-            filter: opacity(1);
-    -webkit-transform: translateY(0);
-            transform: translateY(0); } }
-@keyframes slide {
-  0% {
-    -webkit-filter: opacity(0);
-            filter: opacity(0);
-    -webkit-transform: translateY(-300px);
-            transform: translateY(-300px); }
-  100% {
-    -webkit-filter: opacity(1);
-            filter: opacity(1);
-    -webkit-transform: translateY(0);
-            transform: translateY(0); } }
-.contact-modal {
-  position: relative;
-  background: white;
-  color: #555;
-  padding: 2rem;
-  margin: 10% auto;
-  width: 90%;
-  max-width: 50rem;
-  -webkit-animation: slide 0.5s;
-          animation: slide 0.5s;
-  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
-  -webkit-transition: all 0.15s ease-out 0s;
-  transition: all 0.15s ease-out 0s; }
-  .contact-modal address {
-    font-style: normal;
-    color: #555; }
-
-.label {
-  font-size: 2rem;
-  color: #555; }
-
-.exit {
-  position: absolute;
-  right: 1rem;
-  top: 1rem;
-  color: #C14547;
-  -webkit-transition: all 0.15s ease-out 0s;
-  transition: all 0.15s ease-out 0s;
-  cursor: pointer;
-  background: #fff;
-  border-radius: 50%; }
-  .exit:hover {
-    color: #db9293; }
-  .exit:focus {
-    outline: 0;
-    border: 0; }
-
-@media (max-width: 500px) {
-  .contact-modal {
-    margin: 25% auto; } }
 form label {
   display: block; }
 form textarea {
   display: block;
-  padding: 0.5rem;
-  border-radius: 5px; }
+  padding: 0.5rem; }
 form select {
   border: 1px solid #C14547;
   padding: 0.5rem;
@@ -2734,8 +2642,7 @@ form select {
     width: 100%;
     border: 1px solid #C14547; }
   .home-value fieldset {
-    padding: 1.5rem;
-    border-radius: 5px; }
+    padding: 1.5rem; }
   .home-value input[type="submit"] {
     font-size: inherit;
     padding: 1rem;
@@ -2744,13 +2651,11 @@ form select {
       border: 3px solid #db9293; }
 
 .contact-form {
-  width: 100%;
-  margin-bottom: 0; }
+  width: 75%;
+  margin-left: 13%; }
   .contact-form input, .contact-form textarea {
     width: 100%;
-    border: 1px solid gray;
-    -webkit-transition: 0.3s;
-    transition: 0.3s; }
+    border: 1px solid gray; }
   .contact-form:focus {
     color: transparent; }
   .contact-form textarea {
@@ -2758,21 +2663,17 @@ form select {
   .contact-form input[type="submit"] {
     font-size: 1.5rem;
     padding: 1rem;
-    border: 3px solid #C14547;
-    border-radius: 5px; }
+    border: 3px solid #C14547; }
     .contact-form input[type="submit"]:hover {
-      background: white;
-      color: #db9293;
-      box-shadow: 4px 4px 0 #db9293;
-      border: 2px solid #db9293;
-      -webkit-transform: scale(1.05);
-      transform: scale(1.05);
-      -webkit-transform: translateY(-0.2rem);
-      transform: translateY(-0.2rem); }
-    .contact-form input[type="submit"]:active {
-      box-shadow: 0 0 0 #C14547;
-      -webkit-transform: translateY(0rem);
-      transform: translateY(0rem); }
+      background: #fff;
+      color: #C14547;
+      border: 1px solid #C14547; }
+
+.contact {
+  font-size: 24px;
+  margin-bottom: 20px;
+  margin-left: 13%;
+  margin-top: 20px; }
 
 .newsletter {
   background: #C14547;
@@ -2941,3 +2842,63 @@ form select {
 .navbar-andross .navbar-brand {
   color: #fff;
   margin-top: 10px; }
+
+.recruiting {
+  text-align: center; }
+
+#recruit {
+  width: 75%;
+  margin-left: 13%;
+  margin-top: 2rem;
+  font-size: 18px; }
+
+.recruiting-photo {
+  float: right;
+  margin: 20px; }
+
+#page-bkg {
+  height: 430px; }
+
+.caption {
+  font-size: 16px;
+  font-style: oblique;
+  text-align: center;
+  margin-bottom: 20px; }
+
+.letterhead {
+  text-align: center; }
+
+#letterhead {
+  font-family: "Source Sans Pro", helvetica, arial, sans-serif;
+  font-weight: 400;
+  margin: 1rem 0;
+  font-size: 2.5rem;
+  text-transform: uppercase; }
+
+#letterhead-title {
+  font-family: "Source Sans Pro", helvetica, arial, sans-serif;
+  font-weight: 600;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-size: 3.5rem; }
+
+#letterhead-subtitle {
+  margin-bottom: 0;
+  margin-top: 1.5rem; }
+
+.recruiting-page {
+  Font-size: 18px;
+  width: 75%;
+  margin: 0 auto; }
+
+.page-logo {
+  width: 90%;
+  max-width: 40rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  -webkit-filter: drop-shadow(0px 2px 7px #000);
+  filter: drop-shadow(0px 2px 7px #000); }
+
+.page-hero-img {
+  background-position: center;
+  background-size: cover; }

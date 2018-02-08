@@ -1,5 +1,5 @@
 audit_header: false
-title: -- CLIENT BRAND --
+title:  Texas Real Estate Careers and Training Video Blog with Nick Good
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -12,7 +12,7 @@ client:
   about_markdown: |
     With over 50 years of combined Real Estate expertise, our team is here to help and guide you through one of the biggest transactions in your life. When you hire our team to help you with your real estate needs, you are not only getting an experienced, professional realtor who specializes in either buying or selling real estate in the Dallas area. In addition all of our agents have the backing of a highly experienced and knowledgeable Real Estate team helping us find you a Dallas area home or a buyer quickly.
   market: Texas
-  brand:
+  brand: The Good Home Team
   brokerage:
   address: 18383 Preston Rd, Dallas, TX 75252
   phone: 972-468-5017
@@ -23,18 +23,22 @@ client:
   url: http://www.thegoodhometeam.com
 
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.dfw-home-value.com/
-  second_CTA_text: Home Search
-  second_CTA_URL: /https://www.thegoodhometeam.com/
-  VR_form:
+  first_CTA_text: Join Our Team
+  first_CTA_URL: /join-our-team/
+#   second_CTA_text: Home Search
+#   second_CTA_URL: /https://www.thegoodhometeam.com/
+#   VR_form:
+
+emma:
+  lightbox:
+  form: <iframe src="https://signup.e2ma.net/signup/1868035/1808673/" width="510" height="500" frameborder="0"></iframe>
 
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/005.jpg
-    CTA_title: Looking to Buy a Home?
-    CTA_text: Search the entire MLS for homes located in -- MARKET --.
-    CTA_link_text: Home Search Tool
-    CTA_url: /homesearch/
+  - CTA_image_path: /img/cta-images/006.jpg
+    CTA_title: Looking to Build Your Real Estate Career?
+    CTA_text: Let's talk about how we can take your business to new heights.
+    CTA_link_text: Join Our Team
+    CTA_url: /join-our-team/
 
 lender:
   show_section: false
@@ -84,7 +88,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: Real Estate Video Blog
+  hero_text: Real Estate Careers and Training Video Blog
   hero_background_hex: '#094264'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
