@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   How can you avoid putting your home sale in jeopardy? Start by hiring the
   right Realtor for the right reasons.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+3+crucial%2C+avoidable+mistakes.mp4
 pullquote: >-
   Inventory is low and it’s a great time to figure out what you need to do to
   sell.
