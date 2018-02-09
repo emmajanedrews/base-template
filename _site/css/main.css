@@ -1508,6 +1508,9 @@ html[xmlns] .flexslider .slides {
   padding-right: 15px;
   padding-left: 15px; }
 
+@media(max-width:500px) {
+  .navbar-nav > li > a {
+    color: #fff; } }
 @media(max-width: 347px) {
   .navbar {
     padding-right: 5px;
@@ -1595,17 +1598,18 @@ label.tree-toggle {
 
 .site-logo {
   width: 90%;
-  max-width: 40rem;
-  -webkit-filter: drop-shadow(0px 2px 7px rgba(205, 185, 169, 0.75));
-  filter: drop-shadow(0px 2px 7px rgba(205, 185, 169, 0.75)); }
+  max-width: 50rem;
+  -webkit-filter: drop-shadow(2px 2px 4px F1EBB7);
+  filter: drop-shadow(2px 2px 4px F1EBB7); }
 
 .site-title {
-  color: #434343;
-  text-shadow: 0px 2px 7px rgba(205, 185, 169, 0.75);
+  color: #002A76;
+  text-shadow: 2px 2px 4px F1EBB7;
   text-transform: uppercase;
-  font-size: 6.5rem;
+  font-size: 5rem;
   padding-bottom: 4rem;
-  margin-bottom: 0; }
+  margin-bottom: 0;
+  font-weight: 300; }
 
 @media (max-width: 1100px) {
   .site-title {
@@ -2042,7 +2046,7 @@ table tr, table td {
   margin: 2rem 0;
   color: white;
   text-transform: uppercase;
-  text-shadow: 0px 2px 7px rgba(205, 185, 169, 0.75); }
+  text-shadow: 2px 2px 4px F1EBB7; }
 .post .headshot {
   width: 100%;
   max-width: 15rem;
@@ -2057,7 +2061,7 @@ table tr, table td {
 
 .tag-container {
   color: white;
-  text-shadow: 0px 2px 7px rgba(205, 185, 169, 0.75);
+  text-shadow: 2px 2px 4px F1EBB7;
   margin-bottom: 1rem; }
 
 .tag {
@@ -2068,7 +2072,7 @@ table tr, table td {
 .author-attribution {
   color: white;
   font-weight: 300;
-  text-shadow: 0px 2px 7px rgba(205, 185, 169, 0.75);
+  text-shadow: 2px 2px 4px F1EBB7;
   margin-bottom: 2rem;
   font-style: italic; }
   .author-attribution a {
@@ -2494,6 +2498,10 @@ table tr, table td {
 .footer-pad {
   padding-top: 20px; }
 
+.coldwell {
+  margin: 10px 0;
+  width: 100px; }
+
 .item-container {
   margin: 3rem 5rem;
   box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
@@ -2774,3 +2782,10 @@ form select {
 .testimonial-author {
   color: #b40101;
   margin-top: -20px; }
+
+@media (max-width: 600px) {
+  .contact {
+    font-size: 14px; } }
+@media (max-width: 400px) {
+  .cta {
+    padding: 0.5rem; } }
