@@ -13,8 +13,8 @@ pullquote: This is a smart investment strategy.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/vets-multi-fam-property-email.jpg
-youtube_code: 7lioYYtkhK4
+youtube_alternate_image: /uploads/vets-multi-fam-property-email-1.jpg
+youtube_code: VPX_b-Kyumg
 ---
 
 
