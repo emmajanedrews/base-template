@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Peak Properties Group Real Estate Podcast with Alex Tooke</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://peakpropertiesgroupblog.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://peakpropertiesgroupblog.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Peak Properties Group - your professional Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Alex Tooke</managingEditor>
-    <lastBuildDate>2017-11-06 13:45:22 -0600</lastBuildDate>
+    <lastBuildDate>2018-02-09 15:50:02 -0600</lastBuildDate>
     <media:copyright>Alex Tooke</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.png"/>
+    <media:thumbnail url="http://peakpropertiesgroupblog.com/img/podcast.png"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Denver, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,15 +18,99 @@
     </itunes:owner>
     <itunes:author>Alex Tooke</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.png"/>
+    <itunes:image href="http://peakpropertiesgroupblog.com/img/podcast.png"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Denver, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Denver, Colorado Springs, or Greely Area Real Estate Markets</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Peak Properties Group - your professional Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
+        <title>Don’t Fall For These 3 Home Buying Myths</title>
+        <link>http://peakpropertiesgroupblog.com/dont-fall-for-these-3-home-buying-myths.html</link>
+        
+        <author>Alex Tooke</author>
+        <pubDate>2018-02-09 09:28:51 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+Today I’ll discuss three myths I hear from buyers that are worth busting.
+
+We at the Peak Properties Group have been out talking with buyers in the market recently, and we keep hearing three common myths being passed around. Today, I’ll explain what those are, why they’re myths, and how to bust them.
+
+1. “Is now a good time to buy?” It absolutely is! We keep hearing about how low inventory and the fact that we’re in a seller’s market will make it difficult for buyers to find their dream home. Really, it’s just an opportunity. Lock down that listing, make a strong offer, and get it under contract.
+
+2. Buyers need 20% down to buy a home. This is false. There are amazing loan products out there that will allow you to buy a home for as little 3% down, such as with a conventional loan. FHA loans allow for a 3.5% down payment. There are different rates for different products, so we recommend that you speak with a lender to find out what is your best option.
+
+Here’s a pro tip: The program called NACA allows you to pay no money down and no closing cost (they pay the seller’s closing costs), and you can get a lower-than-market interest rate. It may sound too good to be true, but I assure you that it’s worth looking into.
+
+“The program called NACA allows you to pay no money down, no closing costs, and you can get a low interest rate.”
+
+3. It will be hard or impossible for sellers to sell their home and find a new one. In today’s market, with the lack of inventory, it might be that a seller will have to make multiple moves, but it all comes down to timing and logistics. There are two strategies you can use to make that transition easier:
+
+
+A. Post-closing occupancy agreements. This agreement will allow the seller to continue to live in the home after closing for an agreed-upon period of time where the seller is essentially renting the home back from the buyer. This way, a seller will have more time to find a home to move into.
+
+B. Look at new construction. Buying new construction will give you a good time frame as far as when you’ll be able to move into your new home and close on it.
+
+
+If you have any other questions about these myths or real estate in general, feel free to reach out to us. We’ll be happy to help you out.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://peakpropertiesgroupblog.com" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today I’ll discuss three myths I hear from buyers that are worth busting.</itunes:subtitle>
+        <itunes:author>Alex Tooke</itunes:author>
+        <itunes:summary>Today I’ll discuss three myths I hear from buyers that are worth busting.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Denver, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What 7 Tips Will Help You Have a Successful Home Purchase in 2018?</title>
+        <link>http://peakpropertiesgroupblog.com/what-7-tips-will-help-you-have-a-successful-home-purchase-in-2018.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Alex Tooke</author>
+        <pubDate>2017-12-08 05:15:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Alex+Tooke/Peak+Properties+Group+7+steps+to+purchasing+a+home+in+2018.mp4</guid>
+        <description>
+
+If you’re thinking about buying a home in 2018, I have seven tips for you to follow that will ensure that purchase goes off without a hitch.
+
+To have a smooth and successful home purchase in 2018, here are seven tips you should follow:
+
+1. Check your credit and check it often. There could be a lot of things on your credit report you may not know about if you forget to check it regularly. Whatever is on your credit report should reflect who you are, credit-wise.
+
+2. Don’t open any new credit cards for the holiday season. A lot of times during Christmas, stores have their own credit cards that offer 20% or 30% off any of their items in addition to their crazy sales. This can be an enticing option, but don’t do it. Be responsible and only buy things you can afford.
+
+3. Don’t be afraid to ask people to contribute to your emergency fund. When your family asks what you want for Christmas, don’t tell them you want a big-screen TV—tell them you’re saving up to buy a house and it would be great if they could contribute your emergency fund. An extra $100 here and there goes a long way if your water heater breaks or you suddenly need a new furnace.
+
+4. Keep tabs on interest rates. Whether they’re going up or down, the one thing you need to remember is you won’t always qualify for the best interest rate. Your credit history, payment history, job history, current market activity, and who your lender is will affect what your interest rate will be.
+
+5. Start working with a lender today. It’s never too early to start working with a lender so you can find out what your purchasing power might be or should be. They’ll be able to offer you different opportunities and advise you on them. They’ll also be able to give you a side-by-side comparison about what you can afford, what you might be able to afford, and what programs might help you afford more.
+
+“It’s never too early to start working with a lender.”
+
+6. Get pre-approved early. If you plan on purchasing a home in 2018, go through the pre-approval process now and have a lender look at your full financial picture. As prices increase, you need to know what you can afford so when you make any offers, you know you’re a solid buyer.
+
+7. Don’t forget to get in touch with a Peak Properties Group agent. We’re here to answer all of your questions, and we’d love to give you a buyer’s consultation so you’ll know what to expect from the home buying process.
+
+These tips will help you set yourself up for success when you buy a home in 2018. If you have any more questions about this topic, don’t hesitate to reach out to us. We’d love to help you, and we wish you a happy holiday season.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Alex+Tooke/Peak+Properties+Group+7+steps+to+purchasing+a+home+in+2018.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://peakpropertiesgroupblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Alex+Tooke/Peak+Properties+Group+7+steps+to+purchasing+a+home+in+2018.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you’re thinking about buying a home in 2018, I have seven tips for you to follow that will ensure that purchase goes off without a hitch.</itunes:subtitle>
+        <itunes:author>Alex Tooke</itunes:author>
+        <itunes:summary>If you’re thinking about buying a home in 2018, I have seven tips for you to follow that will ensure that purchase goes off without a hitch.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Denver, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>this is a test post</title>
-        <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
+        <link>http://peakpropertiesgroupblog.com/this-is-a-test-post-copy-2.html</link>
         
           <category>Market Update</category>
         
@@ -54,7 +138,7 @@ Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper 
 Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://peakpropertiesgroupblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
@@ -65,7 +149,7 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
       
       <item>
         <title>A Fox in Space</title>
-        <link>localhost:4000/a-fox-in-space.html</link>
+        <link>http://peakpropertiesgroupblog.com/a-fox-in-space.html</link>
         
           <category>Market Update</category>
         
@@ -109,7 +193,7 @@ Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper 
 Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://peakpropertiesgroupblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>

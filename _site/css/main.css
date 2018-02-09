@@ -2873,3 +2873,8 @@ form select {
 .testimonial-author {
   color: #b40101;
   margin-top: -20px; }
+
+.sub-topics {
+  margin: 0 4rem;
+  font-size: 18px;
+  padding-bottom: 2rem; }
