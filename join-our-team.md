@@ -13,7 +13,6 @@ permalink: /join-our-team/
 <h1>Join One of the Fastest Growing Real Estate Teams in {{site.data.settings.client.market}}</h1>
 <h5>How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</h5>
 <p>Dear real estate agent or frustrated employee:</p>
-</div>
 <h2 class="recruiting">Let's Make You More Money</h2>
 <h4 class="recruiting">Request a phone call - it does not cost a dime to talk.</h4>
 <form method="post" class="home-value cta-forms" action="http://formspree.io/{{site.data.settings.client.email}}" onsubmit="return setReturn()">
@@ -52,3 +51,4 @@ permalink: /join-our-team/
 <input type="text" name="_gotcha">
 </div>
 </form>
+</div>
