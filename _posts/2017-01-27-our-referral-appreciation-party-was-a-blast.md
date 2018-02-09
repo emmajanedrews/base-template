@@ -1,20 +1,21 @@
 ---
 youtube_code: coEEx2QCtiY
-excerpt:
+excerpt: >-
+  Thank you for attending our referral party! We really appreciate all the
+  business you’ve sent our way.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Adam+Butler/Kansas+City+Real+Estate+Appreciation+Party.mp4
-pullquote: OUR CASINO PARTY WAS A HUGE SUCCESS.
+pullquote: 'Thank you for referring us to your friends, family, and coworkers.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: Our Referral Appreciation Party Was a Blast!
-date: '2017-01-27T09:30:00.002-08:00'
+date: 2017-01-27 11:30:00
 author: Vyral Admin
 tags:
-  - Client Appreciation
-modified_time: '2017-03-03T08:19:48.929-08:00'
+modified_time:
 thumbnail: 'https://i.ytimg.com/vi/coEEx2QCtiY/default.jpg'
 blogger_id: 'tag:blogger.com,1999:blog-341983904286948891.post-6639528994174254333'
 blogger_orig_url: 'http://www.abutlersoldit.com/2017/01/we-appreciate-every-single-referral.html'
