@@ -20,7 +20,7 @@ youtube_code: zXBhnQ2g_Wg
 
 {% include youtube.html %}
 
-How can you avoid putting your home sale in jeopardy? Start by hiring the right Realtor for the right reasons.
+<center>How can you avoid putting your home sale in jeopardy? Start by hiring the right Realtor for the right reasons.</center>
 
 I’m back once again with the February edition of the Hot off the Press Market Report. Today I will reveal the three major mistakes that end up costing home sellers thousands.&nbsp;
 
