@@ -14,7 +14,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/2-9---yt.jpg
 youtube_code: zXBhnQ2g_Wg
 ---
 
@@ -25,7 +25,7 @@ youtube_code: zXBhnQ2g_Wg
 
 <center>&nbsp;</center>
 
-I’m back once again with the February edition of the Hot off the Press Market Report. Today I will reveal the three major mistakes that end up costing home sellers thousands.&nbsp;
+I’m back once again with the February edition of the Hot off the Press Market Report. Today I will reveal the three major mistakes that end up costing home sellers thousands.
 
 1. **Hiring a Realtor whose company has lots of signs on the lawn.** The traditional real estate company markets itself on TV and radio to attract consumers. This also attracts Realtors to work at their company by luring them in with large commission splits so the consumer thinks the company sells lots of home because they see all the signs on the lawns. They think signs bring buyers. However, buyers are not calling into the office from a sign—they see the property online, hit a button and it calls the Realtor. Signs do not bring buyers to your home and the consumer does not know the difference. These big real estate corporations are buying out the smaller offices to get as many realtors in the office to sell, sell, sell, and they are not making money on the commission so they do not spend money marketing your home. They make money by charging the Realtors a monthly management fee, per sale admin fee, copy fee, internet fee, etc. They also capitalize on the title mortgages and other components. With every transaction, they are making an additional $5,000 to $10,000 or more off of a gambit that completely ignores the consumer’s experience and the money left in your pocket at the end. The consumer can see the prices drop on the internet, that is the last sign you want on your lawn, and that is what you see on all these traditional signs.
 2. **Hiring the “Neighborhood Realtor.”** Do you really think the neighborhood Realtor will net home sellers more money and have a more stress-free sale? What does locality or neighborhood have to do with how qualified the person is to sell a home? Since having a marketing and negotiating expert on your side when selling your home nets you the most money, does this local Realtor have an MBA in marketing and are they a certified negotiator? I can sell homes on the moon. Just because someone is local does not mean they have the unique ability to market and negotiate the sale of your home that leaves more money in your pocket.
@@ -35,4 +35,4 @@ I’m back once again with the February edition of the Hot off the Press Market 
 
 There you have it! The three deadliest mistakes when hiring your Realtor. If you have any questions, please call me or email me at [dianecardano@cardanohomservices.com](javascript:void(location.href='mailto:'+String.fromCharCode(100,105,97,110,101,99,97,114,100,97,110,111,64,99,97,114,100,97,110,111,104,111,109,115,101,114,118,105,99,101,115,46,99,111,109))).
 
-Inventory is low, and now is a great time to figure out what you need to do to sell your home in just one day for over the listed price. If you are thinking of selling a home in the next three months to three years, come to our next home seller seminar on April 7 at the Fort Washington Hilton Garden Inn. I will give you great and strategic information on how to make more money and sell your home fast and stress-free. Go to [www.homesharkseminar.com](www.homesharkseminar.com) to sign up or just call us at (215) 576-8666. See you in two weeks!<br>&nbsp;
+Inventory is low, and now is a great time to figure out what you need to do to sell your home in just one day for over the listed price. If you are thinking of selling a home in the next three months to three years, come to our next home seller seminar on April 7 at the Fort Washington Hilton Garden Inn. I will give you great and strategic information on how to make more money and sell your home fast and stress-free. Go to [www.homesharkseminar.com](www.homesharkseminar.com) to sign up or just call us at (215) 576-8666. See you in two weeks!<br>
