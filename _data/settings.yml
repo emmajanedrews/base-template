@@ -26,7 +26,7 @@ emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.yourtahoetruckeerealestateexpert.com/cma/property-valuation/
   second_CTA_text: Home Search
   second_CTA_URL: http://www.yourtahoetruckeerealestateexpert.com/
 
@@ -35,7 +35,7 @@ sidebar_CTA:
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.yourtahoetruckeerealestateexpert.com/cma/property-valuation/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
