@@ -3,6 +3,7 @@ layout: recruiting
 title: Join Our Team
 permalink: /join-our-team/
 ---
+<div class="recruiting-page">
 <div class="recruiting-photo">
    <span class="client-image-container">
     <img src="/img/headshot.jpg" alt="{{site.data.settings.client.name}}" class="client-image"/>
@@ -12,9 +13,75 @@ permalink: /join-our-team/
 <h1>Chicagoland Real Estate Career: Apply Now</h1>
 <p>Looking for a rewarding real estate career in Chicago, IL? We’re hiring in the Northern Chicagoland which includes the North Shore, Northwest suburbs, and Lake County! Get the culture, leads, accountability, processes, and strategies to sell homes. Make a great living. Training provided. No experience necessary. Flexible hours. Sell your first home in 90 days guaranteed. <strong>Apply now.</strong></p>
 <h5>Meet with us for a business planning meeting</h5>
-<div class="recruiting-page">
-<p>Dear Real Estate Agent or Future Real Estate Agent:</p>
-</div>
+
+
+<p>Dear Real Estate Agent:</p>
+
+<p>I understand that you may be working at a brokerage or are a newer agent just recently getting started. Perhaps you’ve been in the industry for a couple of years and have been successful thus far, but you find yourself lacking the kind of consistency, income, and support you desire. </p>
+
+<p>For some people, this can be painful. In fact, a lack of sufficient training, education, and business leads to many agents leaving the industry altogether. Studies show that nine out of every 10 agents leaves real estate within the first five years of getting their license. </p>
+
+<p>Agents like this run out of money, get distracted, and fall flat in their career due to a lack of support. </p>
+
+<p>Many agents find initial success by extracting leads from people in their life who they already know. But eventually, all agents in this situation will run out of friends and cousins. The next thing they know, they will have exhausted their database without a clue about where to go next. </p>
+
+<p>This leads to a lot of uncertainty and stress. People have no idea whether they will see another paycheck after their next contract. And of the insufficient and inconsistent income they may be producing now, how much of it is going right back into paying for marketing expenses and other costs not covered by their brokerage?</p>
+
+<p>The truth is, some agents just aren’t prepared for the industry. On my team, we ensure that our agents are given the tools, systems, training, and support they need to be successful and reach their goals. We hold our agents accountable. When we see potential in an agent, we expect that agent to use it. </p>
+
+<p>I’m Kati Spaniak and I’ve sold real estate for the past six years. In that time, my team has become No. 1 in Northbrook and is within the top 13 on the North Shore. Starting out, our sales volume began at $3 million. Now, we’ve grown that number to $37 million—a figure we’re on track to double this year. </p>
+
+<p>No other team on the North Shore is able to provide for their agents at the level we do. We offer:
+<ul>
+<li>Daily mentoring and coaching</li>
+<li>Daily leads</li>
+<li>Full administrative support </li>
+<li>Full coverage on marketing and advertising expenses</li>
+<li>Leads</li>
+<li>Accountability</li>
+<li>Consistent income</li>
+<li>Opportunities for personal and career growth</li>
+</ul></p>
+
+<p>Beyond the things I’ve already mentioned, we also provide an environment that is incredibly conducive to success. Someone is in the office seven days a week answering the phone, because we are truly a full-time business. </p>
+
+<p>We give our agents every opportunity to learn, grow, take on leads, and, ultimately, close transactions. The buyer agent number that is found on all our signage sends calls directly to all the agents in our office. And this is just one of the many ways we generate leads. We also utilize Zillow and social media, and we have a high-quality CRM. </p>
+
+<p>On top of access to our systems, agents also gain immediate credibility when they join our team—due to the high volume of business we’re doing at all times. </p>
+
+<p>In short, you could continue at your current pace—making inconsistent income, paying for your own marketing and advertising expenses, and having little freedom in your life and career. You could also simply quit and take on a 9-to-5 job where you have no flexibility and no fun. Or, you could take the first step on the road to success and join my team. </p>
+
+<p>From day one, you’ll get get started on our 30-, 60-, and 90-day programs, where weekly goals will help you stay accountable and on the right track to meet your goals. During your first week you’ll launch into our new member orientation and also enroll in our MLS launch class. And unlike other brokerages, the only things you pay for on our team is your license, E&O insurance, and MLS dues. </p>
+
+<p>The onboarding process will include:
+<ul>
+<li>Pulling together and entering your sphere in our 33-touch program</li>
+<li>Working side-by-side with me on scripting</li>
+<li>Training with myself and other team leaders</li>
+<li>Shadowing open houses</li>
+</ul></p>
+
+<p>Even once onboarding is complete, I meet with my agents on an ongoing basis to ensure that they are meeting their goals and their potential. </p>
+
+<p>When you apply with us right now, you have the benefit of getting in on the ground floor. We award the most leads to agents who have been with us for the longest periods of time, so this is a key opportunity. On top of that, we are also looking to expand to other areas of the country in the future. This means that top agents have the opportunities to form their own teams within our larger team structure. </p>
+
+<p>Our commission split is 40%, but because we work with a higher price point, agents on our team who follow our systems and training will make at least $150,000 per year. I can guarantee that if you stick to your goals and our plan, you will be taking home real income within your fourth month on our team. </p>
+
+<p>But, don’t just take my word for it. An agent on our team right now closed a deal and earned $8,500 in her first four months. This agent has also received a $2.5 million buyer lead from our inbound system. This is just one example of our many success stories.</p>
+
+<p>Agents on our team are known to thrive. In fact, the primary reason agents never leave or are let go is due to their own lack of motivation. If you are willing to work, follow through on expectations, and meet your goals, you will grow as an agent on our team. </p>
+
+<p>Now is the time to turn around your life and career. If you are a motivated individual with a track record of success and the drive to meet your goals, please apply today. </p>
+
+<p>I look forward to talking with you soon. </p>
+
+<p>Kati Spaniak<br>
+<a href="tel:{{ site.data.settings.client.phone }}">{{ site.data.settings.client.phone }}</a><br />
+<a href="mailto:{{ site.data.settings.client.email }}" target="_blank">{{ site.data.settings.client.email }}</a><br />
+<a href="{{ site.data.settings.client.url }}" target="_blank">{{ site.data.settings.client.url | remove: 'http://' | remove: 'https://' }}</a><br /></p>
+
+
+
 <h2 class="recruiting">Let's Make You More Money</h2>
 <h4 class="recruiting">Request a phone call - it does not cost a dime to talk.</h4>
 <form method="post" class="home-value cta-forms" action="http://formspree.io/{{site.data.settings.client.email}}" onsubmit="return setReturn()">
@@ -53,3 +120,5 @@ permalink: /join-our-team/
 <input type="text" name="_gotcha">
 </div>
 </form>
+
+</div>
