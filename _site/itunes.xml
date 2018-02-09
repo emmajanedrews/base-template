@@ -2,12 +2,12 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Becky Ivins Movers Real Estate Podcast</title>
-    <link>http://beckyivinsblog.com</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://beckyivinsblog.com"/>
+    <link>http://beckycoaching.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://beckycoaching.com"/>
     <description>A Podcast about Oklahoma City Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</description>
     <language>en</language>
     <managingEditor>Beck Ivins</managingEditor>
-    <lastBuildDate>2018-02-01 14:32:22 -0600</lastBuildDate>
+    <lastBuildDate>2018-02-09 15:14:52 -0600</lastBuildDate>
     <media:copyright>Beck Ivins</media:copyright>
     <media:thumbnail url="http://i.imgur.com/9EiKtTI.jpg"/>
     <media:keywords>Oklahoma City Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</media:keywords>

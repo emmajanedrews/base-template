@@ -2672,7 +2672,9 @@ table tr, table td {
   margin-top: 1.5rem; }
 
 .recruiting-page {
-  Font-size: 18px; }
+  Font-size: 18px;
+  width: 75%;
+  margin: 0 auto; }
 
 .page-logo {
   width: 90%;
