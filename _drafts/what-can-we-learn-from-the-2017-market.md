@@ -19,7 +19,9 @@ youtube_code: hAjwS8nPZk8
 
 {% include youtube.html %}
 
-<center>Last year’s market was great. That being said, there are a couple of things we can learn from it as we move into 2018.</center>
+<center><em>Last year&rsquo;s market was great. That being said, there are a couple of things we can learn from it as we move into 2018.</em></center>
+
+<center>&nbsp;</center>
 
 2017 was a very good year in our market, so is there anything to be learned from it?
 
