@@ -12,14 +12,13 @@ permalink: /join-our-team/
 </div>
 
 <h1>Houston Real Estate Career: Apply Now</h1>
-<h5>How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</h5>
+<h5>How would your life change if you could increase your commission income by $50,000, $75,000 or even $100,000 each year? </h5>
 
-<p>Looking for a rewarding real estate career in the Houston Metro area? We’re hiring agents throughout the Houston real estate area including The Woodlands, Conroe, Spring, Kingwood, League City, Pearland, Katy, Tomball and Cypress. Get the culture, leads, accountability, processes, and strategies to sell homes. Make a great living. Training provided. No experience necessary. Flexible hours. Sell your first home in 90 days guaranteed. Apply now.</p>
+<p>At Abby Realty we specialize in helping experienced real estate agents take their business to the next level. We’re hiring agents throughout the Houston real estate area including The Woodlands, Conroe, Spring, Kingwood, League City, Pearland, Katy, Tomball and Cypress. Get the support, training, and personal coaching you need to fund the life you’ve always imagined. Did we mention that we have no monthly fees, no franchise fees, no annual dues, and a 90/10 commission split? Apply now for a free, no obligation phone call or live coaching conversation to see if Abby Realty is the right environment for your career! </p>
 
-</div>
 
 <h2 class="recruiting">Let's Make You More Money</h2>
-<h4 class="recruiting">Request a phone call - it does not cost a dime to talk.</h4>
+<h4 class="recruiting">We look forward to helping you achieve your real estate dreams.</h4>
 <form method="post" class="home-value cta-forms" action="http://formspree.io/frank@frankgray.net" onsubmit="return setReturn()">
     <fieldset>
         <p id="thanks"></p>
@@ -56,3 +55,5 @@ permalink: /join-our-team/
 <input type="text" name="_gotcha">
 </div>
 </form>
+
+</div>
