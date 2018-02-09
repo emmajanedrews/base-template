@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Training Our Agents
-date: 2018-01-29 13:50:33
+date: 2019-01-29 13:50:00
 tags:
   - Agent Interviews
   - Career Advice
