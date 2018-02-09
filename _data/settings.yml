@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Careers and Training Video Blog with -- CLIENT NAME --
+title: CORE Real Estate Training
 description: A Video Blog about -- MARKET -- Real Estate; its industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!
 show_custom_links: false
 custom_links:
@@ -11,20 +11,20 @@ emma:
   form:
 
 client:
-  name:
+  name: Patrick O'Sullivan
   license_number:
   about_markdown: |
-
-  market:
-  brand:
+    I am the Broker/Owner for Cap Core Real Estate and we specialize in adding value to the lives of our clients thru residential and multifamily real estate. Last year was our best year since the company was founded both in transaction count and revenue.
+  market: Phoenix
+  brand: Cap Core Real Estate
   brokerage:
-  address:
-  phone:
+  address: 4320 East Milky Way<br>Gilbert, AZ 85295
+  phone: 602-366-5078
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Patrick@CapCoreRealEstate.com
+  url: http://CapCoreRealEstate.com
 
 CTAs:
   first_CTA_text: Join Our Team
@@ -51,15 +51,15 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/AZRealEstateInvesting/
+  linkedin_url: https://www.linkedin.com/company/cap-core-real-estate
+  gplus_url: https://plus.google.com/+CapCoreRealEstateTempe
+  youtube_url: https://www.youtube.com/channel/UCQnXVWhQ7FG8RjQyLtjlyHg
+  twitter_url: https://twitter.com/getAZrealestate
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
+  zillow_url: https://www.zillow.com/profile/getAZrealestate/
+  trulia_url: https://www.trulia.com/profile/patrick-o-sullivan-agent-gilbert-az-zglv18x2/overview
   yelp_url:
   podcast_url:
 
@@ -81,8 +81,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#8A2529'
+  theme_color: '#6A747C'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -94,7 +94,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: rgba(0, 0, 0, .75)
 
 buttons:
   button_radius_number: 0
