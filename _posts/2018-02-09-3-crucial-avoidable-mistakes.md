@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '3 crucial, avoidable mistakes'
-date:
+date: 2018-02-09 12:34:11
 tags:
 excerpt:
 enclosure:
