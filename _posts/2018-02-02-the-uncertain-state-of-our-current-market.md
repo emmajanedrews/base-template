@@ -29,12 +29,9 @@ What should we expect to see for our local market this year? The start of this y
 
 The first factor is our low inventory. The way we closed out 2017, year over year from 2016, is we were down 15% in the Conejo Valley area, and 34% in the Simi Valley Area.
 
-
 This is the biggest drop since 2013, and it's part of a consistent pattern of very limited and decreasing housing supply.
 
-
 Of course, the fewer homes there are on the market, the easier it is to sell, and the higher the price you can expect to get.
-
 
 This is borne out by numbers: Home prices have increased almost 6.5% since last year.
 
@@ -55,3 +52,5 @@ On the other hand, in higher-cost and higher-tax areas, **we might see a decline
 As a final perk for you, we received a quick guide tool from the California Association of Realtors that outlines all of the implications of the tax reform bill has on real estate. Contact me to receive a copy of it so you can take a look for yourself.
 
 If you’re thinking about taking advantage of today’s market and getting your home sold, all you have to do is get started by finding out what your home is worth. Send an email, shoot me a text, or call me. I would be happy to sit down with you and talk to you about your home’s value in the current market.
+
+Download the Quick Guide [here!](https://s3.amazonaws.com/vyralmarketing/Breanne+Steen/Quick-Guide--January-2018-Tax-Cut-and-Jobs-Act-Real-Estate-Applications-Summary+(2).pdf)&nbsp;
