@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Can We Learn From the 2017 Market?
-date:
+date: 2018-02-09 13:01:56
 tags:
   - Market Update
 excerpt: >-
