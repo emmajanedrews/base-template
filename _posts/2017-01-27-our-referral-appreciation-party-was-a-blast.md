@@ -22,9 +22,9 @@ blogger_orig_url: 'http://www.abutlersoldit.com/2017/01/we-appreciate-every-sing
 ---
 
 
-{% include youtube.html %} We appreciate every referral a client sends us. To thank all our clients for their referrals, we held a casino night.
+{% include youtube.html %}
 
-<div class="post-cta"><strong>Buying a Kansas City home?</strong> <a target="_blank" href="http://adambutler.kwrealty.com/map/">Get a full home search</a><br /><strong>Selling your Kansas City home?</strong> <a target="_blank" href="http://adambutler.kwrealty.com/sell/">Get a free Home Price Evaluation</a></div>
+We appreciate every referral a client sends us. To thank all our clients for their referrals, we held a casino night.
 
 We’ve got some great footage of our referral appreciation party to share with you. **This was a celebration for all of the people who have referred friends, family, and coworkers to us that we have been able to take care of.**
 
@@ -32,4 +32,4 @@ To say thank you to all of these people, we decided to hold a casino party, whic
 
 {% include pullquote.html %}
 
-**We just thought we would give you a quick taste of some of the fun things we like to do for our clients when they refer business to us.** **If you or someone you know is looking to buy or sell in Kansas City, we would love the opportunity to take care of them too.** All you’ve got to do is give us a call or send us an email. We are always here to answer any questions you may have about real estate.
+We just thought we would give you a quick taste of some of the fun things we like to do for our clients when they refer business to us. **If you or someone you know is looking to buy or sell in Kansas City, we would love the opportunity to take care of them too.**All you’ve got to do is give us a call or send us an email. We are always here to answer any questions you may have about real estate.
