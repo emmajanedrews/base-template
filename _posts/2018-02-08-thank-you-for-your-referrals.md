@@ -24,7 +24,7 @@ Today, I have a brief recap of our referral party!&nbsp;
 
 We had a lot of fun. We had poker, blackjack, mouse races, prizes, and some great food and drinks!&nbsp;
 
-Mouse No. 4 won the finals, and one of our guests won $20,000 in chips. We had a lot of fun, and we** just wanted to thank you all for referring us to your friends, family, and coworkers.**We really appreciate it.&nbsp;
+Mouse No. 4 won the finals, and one of our guests won $20,000 in chips. We had a lot of fun, and we just wanted to thank you all for referring us to your friends, family, and coworkers. We really appreciate it.&nbsp;
 
 {% include pullquote.html %}
 
