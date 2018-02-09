@@ -37,7 +37,7 @@ For my team, what sets us apart is our personal, conversational approach to real
 
 We’re very proud to receive this award and it was great to be recognized for our accomplishments. Of course, we always strive to continue to grow.
 
-To learn more about the award, click [here](https://www.facebook.com/columbusrealtors/posts/10151025523694959)and [here](https://columbusrealtors.com/10under40).&nbsp;
+To learn more about the award, click [here](https://www.facebook.com/columbusrealtors/posts/10151025523694959)&nbsp;and [here](https://columbusrealtors.com/10under40).&nbsp;
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 
