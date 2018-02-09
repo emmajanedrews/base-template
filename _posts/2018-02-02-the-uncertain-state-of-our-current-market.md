@@ -49,8 +49,6 @@ When you put these three factors together, two big conclusions emerge:
 
 On the other hand, in higher-cost and higher-tax areas, **we might see a decline in prices due to this new tax reform bill** that’s taking away some of those perks of the mortgage interest deduction, and state and local taxes.
 
-As a final perk for you, we received a quick guide tool from the California Association of Realtors that outlines all of the implications of the tax reform bill has on real estate. Contact me to receive a copy of it so you can take a look for yourself.
+As a final perk for you, we received a quick guide tool from the California Association of Realtors that outlines all of the implications of the tax reform bill has on real estate. Download the Quick Guide [here!](https://s3.amazonaws.com/vyralmarketing/Breanne+Steen/Quick-Guide--January-2018-Tax-Cut-and-Jobs-Act-Real-Estate-Applications-Summary+(2).pdf)
 
 If you’re thinking about taking advantage of today’s market and getting your home sold, all you have to do is get started by finding out what your home is worth. Send an email, shoot me a text, or call me. I would be happy to sit down with you and talk to you about your home’s value in the current market.
-
-Download the Quick Guide [here!](https://s3.amazonaws.com/vyralmarketing/Breanne+Steen/Quick-Guide--January-2018-Tax-Cut-and-Jobs-Act-Real-Estate-Applications-Summary+(2).pdf)&nbsp;
