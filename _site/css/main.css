@@ -2795,7 +2795,9 @@ form select {
   margin-top: 1.5rem; }
 
 .recruiting-page {
-  Font-size: 18px; }
+  Font-size: 18px;
+  width: 75%;
+  margin: 0 auto; }
 
 .page-logo {
   width: 90%;
@@ -2808,6 +2810,9 @@ form select {
 .page-hero-img {
   background-position: center;
   background-size: cover; }
+
+.numbered-list {
+  margin-left: 4rem; }
 
 .footer {
   color: #fff; }
