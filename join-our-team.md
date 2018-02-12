@@ -5,10 +5,14 @@ permalink: /join-our-team/
 ---
 
 <div class="recruiting-page">
-						<div class="recruiting-photo"><span class="client-image-container"> <img class="client-image" alt="Misty Soldwisch" src="/img/headshot.jpg" /> </span></div>
-					</div>
+<div class="recruiting-photo">
+   <span class="client-image-container">
+    <img src="/img/headshot.jpg" alt="{{site.data.settings.client.name}}" class="client-image"/>
+  </span>
+<figcaption class="caption">{{site.data.settings.client.name}}</figcaption>
+</div>
 
-<figcaption class="caption">Misty Soldwisch</figcaption>
+<div class="markdown" markdown="1">
 
 # **Join The Largest Real Estate Team in Iowa!**
 
@@ -68,6 +72,8 @@ permalink: /join-our-team/
 #### **Request a phone call - it does not cost a dime to talk.**
 {: .recruiting}
 
+</div>
+
 <form class="home-value cta-forms" action="http://formspree.io/aaronm@bhginnovations.com" method="post" onsubmit="return setReturn()">
 						<fieldset><label for="firstname">First Name*</label> <input name="firstname" required="" type="text" /> <label for="lastname">Last Name*</label> <input name="lastname" required="" type="text" /> <label for="email">Email*</label> <input name="name" type="text" /> <label for="phone">Phone Number </label> <input name="phone" type="tel" />
 							<!--base32-64rg-base32--><label for="city">City </label> <input name="city" type="text" /> <label for="state">State </label> <input name="state" type="text" /> <label for="employer">Current Employer </label> <input name="employer" type="text" /> <label for="message">Why are you interested in this? </label><textarea name="employer"></textarea>
@@ -81,3 +87,5 @@ permalink: /join-our-team/
 							</script>
 							<script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>"&gt; <input name="_subject" type="hidden" value="Recruiting Contact Request Message From Your Vyral Video Blog" /> <input name="_gotcha" type="text" /></div>
 					</form>
+
+</div>
