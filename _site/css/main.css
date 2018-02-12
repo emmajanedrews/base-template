@@ -1466,11 +1466,11 @@ html[xmlns] .flexslider .slides {
 .navbar-left > li > a {
   border: 0;
   background: transparent;
-  color: #E51937;
+  color: black;
   margin-top: 15px; }
   .navbar-left > li > a:hover {
     background: transparent;
-    color: #f07486; }
+    color: #E51937; }
 
 .fa-bars {
   color: #E51937; }

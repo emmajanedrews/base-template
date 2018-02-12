@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title></title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <title>Minnesota Real Estate Podcast With Chad and Sara Huebener</title>
+    <link>http://TheChadandSaraRealEstateBlog.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://TheChadandSaraRealEstateBlog.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Edina Realty - your professional Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Chad and Sara Huebener</managingEditor>
-    <lastBuildDate>2017-05-11 11:56:54 -0500</lastBuildDate>
+    <lastBuildDate>2018-02-12 10:33:07 -0600</lastBuildDate>
     <media:copyright>Chad and Sara Huebener</media:copyright>
-    <media:thumbnail url="/img/podcast.png"/>
+    <media:thumbnail url="http://i.imgur.com/c5A33wf.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Shakopee, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,103 +18,614 @@
     </itunes:owner>
     <itunes:author>Chad and Sara Huebener</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="/img/podcast.png"/>
+    <itunes:image href="http://i.imgur.com/c5A33wf.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Shakopee, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Shakopee Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Edina Realty - your professional Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>localhost:4000/this-is-a-test-post.html</link>
-        
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
-        
-          <category>Home Seller Tips</category>
+        <title>What Can Homebuyers Expect From Our Spring Market?</title>
+        <link>http://TheChadandSaraRealEstateBlog.com/what-can-homebuyers-expect-from-our-spring-market.html</link>
         
         <author>Chad and Sara Huebener</author>
-        <pubDate>2016-10-04 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2018-02-08 08:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2018/Chad+%2526+Sara+Huebener+With+Edina+Realty-+What+Can+Homebuyers+Expect+From+Our+Spring+Market%253F+(1).mp4</guid>
         <description>
 
-}
+For our a look ahead at our spring market, we’ll focus separately on the Prior Lake Savage and Shakopee areas and talk about how inventory levels are shaking out in three distinct price ranges.
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+The first of those price ranges is the first-time buyer market, which typically represents homes priced up to $250,000. In both Prior Lake Savage and Shakopee, there is no new construction in this level of inventory. What’s really interesting, though, is that the number of active listings and the number of pending listings in both communities are identical. This tells us that though first-time  buyers may not be able to build a new home, the inventory that is coming on the market is moving at a nice clip.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+The second price range is the move-up buyer market, which is roughly between $250,000 and $400,000. This market is slightly different in both Prior Lake Savage and Shakopee in that there is some new construction inventory. However, existing inventory tends to pend or sell faster in this range because move-up buyers look for value, and you can often find better value in the existing market where home features like decks, patios, gutters, and window treatments are already done for you.
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+North of $400,000, it’s an entirely different ball game. There is a lot more pending inventory and an extensive amount of active inventory because there are fewer buyers.
 
-“This is an example of a pull quote”
+“Pay attention to prices as more inventory comes on the market.”
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+What does this mean moving forward in 2018? It means first-time buyers will predominantly stick to existing inventory. Above the $400,000 mark, there will be a lot of new construction inventory and existing inventory because we’re already in a low-inventory market in general.
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+Considering inventory levels are so low, make sure you make a smart buying decision if you are a homebuyer. By that we mean pay attention to prices as more inventory comes on the market during spring and summer because they may get inflated. Also, remember that interest rates are still low and very competitive.
+
+As always, whatever you do, make sure you have an experienced agent on your side. If you have any questions about our market or you’re thinking of buying or selling a home, don’t hesitate to reach out to us. We’d be glad to help you.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2018/Chad+%2526+Sara+Huebener+With+Edina+Realty-+What+Can+Homebuyers+Expect+From+Our+Spring+Market%253F+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://TheChadandSaraRealEstateBlog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2018/Chad+%2526+Sara+Huebener+With+Edina+Realty-+What+Can+Homebuyers+Expect+From+Our+Spring+Market%253F+(1).mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>We’re already getting a lot of calls from people wanting to prepare for the spring market, so today we’ll talk about what homebuyers can expect in the Prior Lake Savage and Shakopee areas this spring. For first-time buyers searching below the $250,000 mark, there is no new construction happening, but existing inventory is moving at a nice clip. In the $250,000 to $400,000 range, there is more new construction, but existing inventory is still moving faster. To find out what this means and get a preview of our early spring market, watch our latest video.</itunes:subtitle>
         <itunes:author>Chad and Sara Huebener</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>We’re already getting a lot of calls from people wanting to prepare for the spring market, so today we’ll talk about what homebuyers can expect in the Prior Lake Savage and Shakopee areas this spring. For first-time buyers searching below the $250,000 mark, there is no new construction happening, but existing inventory is moving at a nice clip. In the $250,000 to $400,000 range, there is more new construction, but existing inventory is still moving faster. To find out what this means and get a preview of our early spring market, watch our latest video.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Shakopee, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>A Fox in Space</title>
-        <link>localhost:4000/a-fox-in-space.html</link>
-        
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
+        <title>Do You Know What Your Home Is Worth?</title>
+        <link>http://TheChadandSaraRealEstateBlog.com/do-you-know-what-your-home-is-worth.html</link>
         
           <category>Home Seller Tips</category>
         
         <author>Chad and Sara Huebener</author>
-        <pubDate>2016-09-28 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2018-01-24 08:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2018/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Why+You+Should+Know+Your+Homes+Value.mp4</guid>
         <description>
 
-}
+Why is it important to get a look at your home’s current market value, and what are the benefits of knowing that information?
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+This is a good time of year for people to assess their current home. We can come out, take a look, and give you an idea of what your home’s value might be.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+People often like to ask us about what they can work on to improve the value of their home while maintaining the property and keeping it up to date. We can help determine what you need to do to keep your home in good condition.
 
+Even if you’re not selling in the next couple of months—or the next couple of years—it’s good to have a baseline of the market value of your home so that you can make a decision based on its value in the future.
 
-  list item
-  list item
-  list item
-  list item
-  list item
+“It’s important to know your market value because our market is constantly changing.”
 
+It’s also good to understand your market value because of all the changes that happen in our area. Our market sees a lot of new construction, commercial growth, and farms being bought and sold that may soon be developed.
 
+As a result of all this change, people want to know, “Is it a good time to sell? Are market values going up or down?” Knowing where your home currently sits in terms of market value will give you a sense of comfort, as well as an idea of what your future home sale could look like.
 
-  list item
-  list item
-  list item
-  list item
-  list item
+If you would like a home valuation, or if you have any other questions, just give us a call or send us an email. We would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2018/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Why+You+Should+Know+Your+Homes+Value.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://TheChadandSaraRealEstateBlog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2018/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Why+You+Should+Know+Your+Homes+Value.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Even if you don’t plan on putting your home on the market for a couple of years, it’s a good idea to know the value of your home. There are many benefits to knowing what your home is worth. For example, having a baseline for the value of your home will help you make important decisions in the future. To learn more about the benefits of knowing what your home is worth, watch this short video.</itunes:subtitle>
+        <itunes:author>Chad and Sara Huebener</itunes:author>
+        <itunes:summary>Even if you don’t plan on putting your home on the market for a couple of years, it’s a good idea to know the value of your home. There are many benefits to knowing what your home is worth. For example, having a baseline for the value of your home will help you make important decisions in the future. To learn more about the benefits of knowing what your home is worth, watch this short video.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Shakopee, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>A Look at the Home Buying Process</title>
+        <link>http://TheChadandSaraRealEstateBlog.com/a-look-at-the-home-buying-process.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Chad and Sara Huebener</author>
+        <pubDate>2018-01-08 05:20:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2018/Chad+%2526+Sara+Huebener+With+Edina+Realty-+A+Look+at+the+Home+Buying+Process.mp4</guid>
+        <description>
 
+Today we want to take a quick look at the home buying process.
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+If you’re a first-time homebuyer, the first thing you need to do is have a conversation with us. We’ll talk about your wants and needs, the areas you’re looking at, and how we can get you into contact with a loan officer so that you can get pre-approved right off the bat. This will answer a lot of initial questions.
 
-“This is an example of a pull quote”
+“There are a lot of moving pieces, but we can help you work them out.”
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+If you’re a homeowner who is going to be buying and selling a home at the same time, we have a bit of a different puzzle. First, we’ve got to evaluate the equity in your current home. You may be able to qualify for a pre-approval before selling your current home. You might have to sell first in order to make an offer, however. That’s the puzzle we have to piece together.
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+There are a lot of moving pieces, but we can help you work them out. If you have any questions for us or if we can help you buy or sell a home in any way, give us a call or send us an email. We look forward to hearing from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2018/Chad+%2526+Sara+Huebener+With+Edina+Realty-+A+Look+at+the+Home+Buying+Process.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://TheChadandSaraRealEstateBlog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2018/Chad+%2526+Sara+Huebener+With+Edina+Realty-+A+Look+at+the+Home+Buying+Process.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>How does the home buying process actually work? It depends on your unique situation, but for first-time buyers it’s pretty standard. The first thing you need to do is talk to an agent who can help you get pre-approved by a trusted lender. If you need to buy and sell a home at the same time, the process is a bit more of a puzzle. To learn more about the home buying process, watch this short video.</itunes:subtitle>
+        <itunes:author>Chad and Sara Huebener</itunes:author>
+        <itunes:summary>How does the home buying process actually work? It depends on your unique situation, but for first-time buyers it’s pretty standard. The first thing you need to do is talk to an agent who can help you get pre-approved by a trusted lender. If you need to buy and sell a home at the same time, the process is a bit more of a puzzle. To learn more about the home buying process, watch this short video.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Shakopee, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Happy Holidays From Our Team</title>
+        <link>http://TheChadandSaraRealEstateBlog.com/happy-holidays-from-our-team.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Chad and Sara Huebener</author>
+        <pubDate>2017-12-19 08:40:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+We would just like to wish you all a happy holiday season this year. If you’re traveling, we hope your journey is safe. Thank you to all of our clients and everyone who referred clients to us in 2017. If we can do anything for you in 2018, please let us know. To see our full holiday message, watch this short video.
+
+ 
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://TheChadandSaraRealEstateBlog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>As the holiday season draws near, we wanted to wish you the best. Thanks for all your support this year.</itunes:subtitle>
         <itunes:author>Chad and Sara Huebener</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>As the holiday season draws near, we wanted to wish you the best. Thanks for all your support this year.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Shakopee, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Should You Buy a Home During the Off-Peak Season?</title>
+        <link>http://TheChadandSaraRealEstateBlog.com/why-should-you-buy-a-home-during-the-off-peak-season.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Chad and Sara Huebener</author>
+        <pubDate>2017-12-01 04:15:57 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Tips+for+Buying+in+the+Off+Peak+Season.mp4</guid>
+        <description>
+
+When people think of buying a home, they often naturally gravitate towards the spring market. As a result, spring is a common time for buyers to enter the market.
+
+However, buyer traffic is very heavy in the springtime. In low inventory markets, some of our listings may get as many as 25 to 30 showings over the course of one weekend in the spring. As a buyer looking to buy a home, particularly a first home, it can be intimidating to buy a home in the spring. It may even feel hopeless at times.
+
+The benefit of trying the market in an off-peak season is that the buyer is able to explore what’s out there without all of the competition. Shopping for a home in off-peak seasons like fall and winter also increases the likelihood that you will find a home.
+
+“You will be able to explore your options without all of the competition.”
+
+If you are searching for a home this winter, we recommend that you get written verification from sellers regarding certain winterization projects.
+
+After all, the AC unit should be shut off and the sprinkler system should be winterized, which means the inspector won’t be able to test them in the winter. Just ask for the seller to confirm that those things were working before they were properly shut down in the fall.
+
+If you have any questions about buying a home in the winter market, just give us a call or send us an email. We would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Tips+for+Buying+in+the+Off+Peak+Season.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://TheChadandSaraRealEstateBlog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Tips+for+Buying+in+the+Off+Peak+Season.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you’re thinking of buying a home, you may be tempted to wait until spring. Spring is a common time for homebuyers to enter the market, which means that you will face a lot of competition. There are actually a few benefits to starting your home search this winter. We also have a few tips to help you succeed in an off-peak season. To learn more, watch this short video.</itunes:subtitle>
+        <itunes:author>Chad and Sara Huebener</itunes:author>
+        <itunes:summary>If you’re thinking of buying a home, you may be tempted to wait until spring. Spring is a common time for homebuyers to enter the market, which means that you will face a lot of competition. There are actually a few benefits to starting your home search this winter. We also have a few tips to help you succeed in an off-peak season. To learn more, watch this short video.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Shakopee, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What’s Happening in the Prior Lake/Savage/Shakopee Real Estate Market?</title>
+        <link>http://TheChadandSaraRealEstateBlog.com/whats-happening-in-the-prior-lakesavageshakopee-real-estate-market.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Chad and Sara Huebener</author>
+        <pubDate>2017-11-20 08:59:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/November/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Your+Fall+Market+Update.mp4</guid>
+        <description>
+
+It’s time for your fall real estate market update.
+
+Just like this past spring and summer, inventory is low across the board. The market did slow down in August as families wrapped up vacations and went back to school. That slowdown can often transition into early September, so we do see the market pick up again in late September, October, and into Thanksgiving.
+
+So, if you are thinking of buying or selling a home, the market is still active during this key part of the season.
+
+We’d also like to touch on some new construction development that’s been going on lately.
+
+If you drive down County Road 42 in Prior Lake, you’ll see a lot of activity. Pulte Homes and Lennar Homes are clearing a lot of trees for new developments on the south side of 42. There will be single-family homes and townhomes.
+
+“The market does pick up again from late September.”
+
+Lennar and Summit Preserve will also be building single-family homes and townhomes. M/I Homes, formerly known as Hans Hagen, will also be building some properties around that 42 corridor.
+
+In Shakopee on County Road 16, Lennar is also building a lot of homes. We’re talking hundreds of lots. Although there is a lot of building going on, those properties are not included in our current inventory numbers.
+
+Next year though, you will see some big changes in inventory. There will be a lot of lots available and the market will be pretty competitive.
+
+All of that said, this actually could be a very good time to look at buying or building a home. The fall season is still a good time to be in the market. A lot of people are busy with their kids’ sports and activities. If that’s not taking up a lot of your time, then now is a good time to look at the homes that are available because you will have less competition.
+
+If you have any questions about our current market, please don’t hesitate to reach out to us. We would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/November/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Your+Fall+Market+Update.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://TheChadandSaraRealEstateBlog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/November/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Your+Fall+Market+Update.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>How is the fall real estate market doing? Inventory remains low, but it’s still a good time to be in the market. We also want to mention a few important new construction projects that could help our inventory problem in 2018. That said, competition for these new lots will be fierce. To learn more about our current market and these new construction projects, watch this short video.</itunes:subtitle>
+        <itunes:author>Chad and Sara Huebener</itunes:author>
+        <itunes:summary>How is the fall real estate market doing? Inventory remains low, but it’s still a good time to be in the market. We also want to mention a few important new construction projects that could help our inventory problem in 2018. That said, competition for these new lots will be fierce. To learn more about our current market and these new construction projects, watch this short video.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Shakopee, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Representation in a New Construction Transaction</title>
+        <link>http://TheChadandSaraRealEstateBlog.com/representation-in-a-new-construction-transaction.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Chad and Sara Huebener</author>
+        <pubDate>2017-11-09 05:42:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/November/Chad+%2526+Sara+Huebener+With+Edina+Realty-.mp4</guid>
+        <description>
+
+There are two components to representation in a new construction transaction. The first is your representation during the actual purchase of the site of the new home. The second is when you have a home to sell in order to purchase a new construction home.
+
+When you buy a new build site, it’s important to know that the agent at the model home represents the seller. In this case, the seller is the builder. It’s important that the consumer realizes that the agent represents the builder’s best interests.
+
+As a buyer, if you want to make an offer on a new build property, working with a buyer’s agent can be very important. We’ve seen a lot of people fall in love with all of the beautiful, shiny things that new construction has to offer. In terms of resale, it’s important to work with an agent who works in the existing resale market to figure out what you can do to make the home of value to others in the future should you ever decide to sell it.
+
+For example, we often see people put stainless steel appliances and granite countertops above a third garage stall in terms of importance. If you’re building a $500,000 house, the third stall is just an expectation at that point.
+
+“An independent agent will represent your best interests over the builder’s.”
+
+The second component of representation is when you are building a new home but have an existing home that you need to sell first.
+
+Oftentimes, the builder won’t begin digging on your new home until you have your existing home under contract. Something to consider when evaluating which agent to sell your home is whether they are independent or work with the builder.
+
+An independent agent may have more of a voice for you in terms of your unique situation. They will work to get the best price possible for your home, as well as the best possible terms. An agent who works with the builder is focused on selling your existing home so that you can get into your new house.
+
+Ultimately, whether you work with an independent agent or an agent attached to the builder depends on your unique situation.
+
+If you have any questions about buying a new construction property, just give us a call or send us an email. We would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/November/Chad+%2526+Sara+Huebener+With+Edina+Realty-.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://TheChadandSaraRealEstateBlog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/November/Chad+%2526+Sara+Huebener+With+Edina+Realty-.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>When you buy a new construction home, there are two different components of representation during your transaction. The first is when you buy the new construction site itself. The second is when you have to sell your current home before buying your new one. We have a few important tips to share with you in either situation. To learn more, watch this short video.</itunes:subtitle>
+        <itunes:author>Chad and Sara Huebener</itunes:author>
+        <itunes:summary>When you buy a new construction home, there are two different components of representation during your transaction. The first is when you buy the new construction site itself. The second is when you have to sell your current home before buying your new one. We have a few important tips to share with you in either situation. To learn more, watch this short video.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Shakopee, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Is Included in a Seller Disclosure Statement?</title>
+        <link>http://TheChadandSaraRealEstateBlog.com/what-is-included-in-a-seller-disclosure-statement.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+          <category>Real Estate</category>
+        
+        <author>Chad and Sara Huebener</author>
+        <pubDate>2017-10-18 08:49:57 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/October/Chad+%2526+Sara+Huebener+With+Edina+Realty-.mp4</guid>
+        <description>
+
+Here in the state of Minnesota, there are two types of seller disclosure statements.
+
+One is the seller’s property disclosure statement, also known as the full disclosure. There is also an alternatives form, which is only used in certain circumstances.
+
+Usually, though, a seller will use the full property disclosure statement. This is a very lengthy, 10-page document that goes through everything a prospective buyer will need to know about the condition of the property.
+
+The full disclosure form will ask about the age of the roof and if the mechanical systems and appliances are in working order. If you have a private well or septic system, those need to be disclosed as well.
+
+“If you’ve done a radon test in the past, you need to disclose the results.”
+
+A couple of years ago, our state added a radon disclosure piece as well. One of the most common questions we get from prospective sellers is, “Do I need a radon test?”
+
+The state of Minnesota does not require a radon test prior to selling your home. However, if you’ve had a test completed in the past, you do need to give the results of the test to any potential buyers of the property.
+
+There will be a radon warning statement attached to the disclosure statement. The radon warning is a two-page document provided to the buyer at the time of their purchase agreement.
+
+If you have any other questions about seller disclosure statements or real estate in general, just give us a call or send us an email. We would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/October/Chad+%2526+Sara+Huebener+With+Edina+Realty-.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://TheChadandSaraRealEstateBlog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/October/Chad+%2526+Sara+Huebener+With+Edina+Realty-.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>There are two kinds of seller disclosure statements in the state of Minnesota. The most commonly used is the full disclosure, a 10-page document that details the condition of the home. Minnesota recently added a radon disclosure piece, which has many sellers asking, “Do I need to get a radon test?” To find out and to learn what else is included in the seller disclosure statement, watch this short video.</itunes:subtitle>
+        <itunes:author>Chad and Sara Huebener</itunes:author>
+        <itunes:summary>There are two kinds of seller disclosure statements in the state of Minnesota. The most commonly used is the full disclosure, a 10-page document that details the condition of the home. Minnesota recently added a radon disclosure piece, which has many sellers asking, “Do I need to get a radon test?” To find out and to learn what else is included in the seller disclosure statement, watch this short video.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Shakopee, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>4 Tips to Sell Your Home During the Offseason</title>
+        <link>http://TheChadandSaraRealEstateBlog.com/4-tips-to-sell-your-home-during-the-offseason.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Chad and Sara Huebener</author>
+        <pubDate>2017-09-27 05:16:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/September/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Tips+for+Selling+Your+Home+in+the+Fall.mp4</guid>
+        <description>
+
+Here in Minnesota, most people signal market off-peak seasons once the weather turns cold, school starts, or the holiday season begins. If you’re putting your home on the market during this time, there are four tips you need to follow.
+
+First, stage for the season. Whether it’s Halloween, Thanksgiving, Christmas, or Valentine’s Day, stage your house with the appropriate decorations in mind.
+
+Second, take photographs of your home during the summer. Even if you plan on listing during the winter, having a nice, green shot of your yard to use for supplemental purposes is a nice touch.
+
+“Come out of the gate competitively in terms of price.”
+
+Third, come out of the gate competitively in terms of price, because the window of time before the new year period is limited.
+
+Lastly, have patience. There are typically fewer buyers out and about during an off-peak market, but those who do come out tend to be more serious about buying.
+
+If you have any questions about selling in an off-peak market, don’t hesitate to give us a call or send us an email. We’d be glad to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/September/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Tips+for+Selling+Your+Home+in+the+Fall.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://TheChadandSaraRealEstateBlog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/September/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Tips+for+Selling+Your+Home+in+the+Fall.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you’re entering the market during an off-peak season, how can you get your home sold? There are four tips we want to share with you today that can give you a leg up on the competition. First, stage for the season. Whether it’s Halloween, Thanksgiving, or Christmas, stage your home with decorations that match the season. To find out more tips for selling your home during the offseason, watch our latest video.</itunes:subtitle>
+        <itunes:author>Chad and Sara Huebener</itunes:author>
+        <itunes:summary>If you’re entering the market during an off-peak season, how can you get your home sold? There are four tips we want to share with you today that can give you a leg up on the competition. First, stage for the season. Whether it’s Halloween, Thanksgiving, or Christmas, stage your home with decorations that match the season. To find out more tips for selling your home during the offseason, watch our latest video.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Shakopee, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Changes Have Been Made to the Home Inspection Contingency</title>
+        <link>http://TheChadandSaraRealEstateBlog.com/what-changes-have-been-made-to-the-home-inspection-contingency.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+          <category>Real Estate</category>
+        
+        <author>Chad and Sara Huebener</author>
+        <pubDate>2017-09-12 03:19:46 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/September/Chad+%2526+Sara+Huebener+With+Edina+Realty-+The+New+Minnesota+Inspection+Contingency.mp4</guid>
+        <description>
+
+Big changes are happening in our state regarding the home inspection contingency.
+
+In the past, inspection contingencies allowed a set amount of time for buyers to inspect the home and contact the seller for any repair requests and a set amount of time for sellers to respond. This was complicated and cumbersome because people would get these timelines confused.
+
+Minnesota has simplified this process by setting a timeline for the entire inspection contingency. This includes any inspections, repair requests, and bids for the work that needs to be done on those repairs.
+
+“There is no automatic cancellation specified in the purchase agreement anymore.”
+
+The other big change is that if the buyer lets the inspection contingency ride out all the way through without any agreement on repairs from the seller, they can move forward with the house—there is no automatic cancellation specified in the purchase agreement.
+
+What kind of tests does the inspection contingency cover? Basically, any tests the buyer needs to conduct to satisfy themselves that the home meets their standards.
+
+The new inspection contingency also provides access to the buyer to the attic or crawl space of the house. In the past, this was an issue because buyers wanted to get into this area for their inspection but sellers didn’t want to break the seal on their attic. This new inspection contingency verbiage grants that access to the buyer so they can complete their inspection.
+
+If you have any questions about inspections, what’s going on in our market, or you’re thinking about buying or selling a home, don’t hesitate to reach out to us. We’d be happy to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/September/Chad+%2526+Sara+Huebener+With+Edina+Realty-+The+New+Minnesota+Inspection+Contingency.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://TheChadandSaraRealEstateBlog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/September/Chad+%2526+Sara+Huebener+With+Edina+Realty-+The+New+Minnesota+Inspection+Contingency.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What kind of recent changes has the state of Minnesota made regarding the home inspection contingency? To start, they’ve simplified the contingency process by establishing one encompassing timeline for it instead of many. This includes any inspections, repair requests, and bids for the work that needs to be done on those repairs. They’ve also made made changes regarding automatic cancelations. To learn more about these changes and how they affect you, watch our latest video.</itunes:subtitle>
+        <itunes:author>Chad and Sara Huebener</itunes:author>
+        <itunes:summary>What kind of recent changes has the state of Minnesota made regarding the home inspection contingency? To start, they’ve simplified the contingency process by establishing one encompassing timeline for it instead of many. This includes any inspections, repair requests, and bids for the work that needs to be done on those repairs. They’ve also made made changes regarding automatic cancelations. To learn more about these changes and how they affect you, watch our latest video.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Shakopee, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Much Do You Need to Put Down for a Home?</title>
+        <link>http://TheChadandSaraRealEstateBlog.com/how-much-do-you-need-to-put-down-for-a-home.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Chad and Sara Huebener</author>
+        <pubDate>2017-08-25 09:04:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/August/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Loan+Options.mp4</guid>
+        <description>
+
+Recently I had a conversation with Shane Hofmann of Edina Realty about an important subject in real estate: loan options.
+
+Shane has been in real estate for approximately 15 years, and has been with Edina Realty for about six. In that time, he’s gained a lot of experience and expertise.
+
+One of the questions he hears people ask most often is about what their loan options are. There’s a common misconception that in order to get a house, you have to put 20% down.
+
+These days, this simply isn’t the case. In today’s market, you have several options available to you.
+
+“In today’s market, you have several loan options.”
+
+The VA loan, for example, allows veterans to go in with zero down. For people buying their first home, a good option is the FHA loan—which allows you to put as little as 3.5% down.
+
+Even in the case of a conventional loan you can put either 3% or 5% down. Gift funds, too, can apply.
+
+To work with Shane and his team, the first thing you’ll need to do is fill out an application. This can be done online or in person.
+
+If you’d like any other information or have any other questions, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/August/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Loan+Options.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://TheChadandSaraRealEstateBlog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/August/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Loan+Options.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Recently I met with Shane Hofmann of Edina Realty to talk about a common real estate concern many people have: What loan options are out there? There are many different loan programs that people may not know about, since a common misconception is that you’ll always need to put 20% down. The truth is that today, this is not longer the case. Shane has been working in real estate for 15 years, so he has a lot of experience and expertise. To hear what he had to say on the subject and to learn more about loan programs, watch my latest video.</itunes:subtitle>
+        <itunes:author>Chad and Sara Huebener</itunes:author>
+        <itunes:summary>Recently I met with Shane Hofmann of Edina Realty to talk about a common real estate concern many people have: What loan options are out there? There are many different loan programs that people may not know about, since a common misconception is that you’ll always need to put 20% down. The truth is that today, this is not longer the case. Shane has been working in real estate for 15 years, so he has a lot of experience and expertise. To hear what he had to say on the subject and to learn more about loan programs, watch my latest video.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Shakopee, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Cyber Security Tips for Homebuyers and Sellers</title>
+        <link>http://TheChadandSaraRealEstateBlog.com/cyber-security-tips-for-homebuyers-and-sellers.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Chad and Sara Huebener</author>
+        <pubDate>2017-08-03 06:51:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/August/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Email+Fraud.mp4</guid>
+        <description>
+
+You may have seen the video we posted on our Facebook page regarding the couple who lost hundreds of thousands of dollars by wiring funds to a fraudulent title company.
+
+Unfortunately, these hackers are getting more sophisticated and are targeting the real estate industry.
+
+The hacker will get into a buyer’s, seller’s, or Realtor’s email, determine the closing date of the property, and find the parties in charge of handling the transaction. Then, the hackers go behind the scenes and mimic one of those email addresses. From there, they send an email to the buyer requesting a wire transfer for the purchase of the home.
+
+Instead of making a deposit to the title company, these buyers are sending their funds to a fraudulent account.
+
+Again, these hackers are seriously targeting the real estate industry. Our IT department sent us a screenshot the other day to show us the number of hits against the Edina Realty firewall. Every 12 seconds, there was another hit. As you can imagine, the list of attempts was very long, and these hackers are from all over the world.
+
+Although we’re not the only company these hackers are targeting, we are taking proactive steps to protect you, our clients and customers, from scams like these.
+
+“Real estate cyber security tips / Hackers target the real estate industry”
+
+In the meantime, there are a few steps you can take to protect yourself as well.
+
+Generally speaking, don’t click on any links in emails from people you don’t know. When you are in the middle of a real estate transaction, if you get an email from the title company or Edina Realty, don’t click on anything. Look for obvious grammatical errors and scroll over the email address to see what the domain is.
+
+If the domain is Gmail or Comcast, or if anything else looks suspicious, don’t click anything and call us, your agent, or your title company right away. We will verify if we sent that email or not.
+
+Edina Realty has also enacted a protective policy, effective immediately: We will never email wiring instructions to you for a real estate transaction. If you are one of our clients and you get an email with wiring instructions, report it to your agent or title company immediately.  
+
+Remember, although these hackers are targeting the real estate industry, there are ways you can protect yourself and your money during the real estate transaction.
+
+If you have any other questions for us, please don’t hesitate to reach out. We would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/August/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Email+Fraud.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://TheChadandSaraRealEstateBlog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/August/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Email+Fraud.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>There are a number of hackers from all over the world who continue to target the real estate industry. These hackers send false wiring instructions via email and, instead of making a deposit to the title company, buyers send money to a fraudulent account. Luckily, there are a few things you can do to protect yourself. Edina Realty has also taken proactive steps to protect our clients. To learn more, watch this short video.</itunes:subtitle>
+        <itunes:author>Chad and Sara Huebener</itunes:author>
+        <itunes:summary>There are a number of hackers from all over the world who continue to target the real estate industry. These hackers send false wiring instructions via email and, instead of making a deposit to the title company, buyers send money to a fraudulent account. Luckily, there are a few things you can do to protect yourself. Edina Realty has also taken proactive steps to protect our clients. To learn more, watch this short video.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Shakopee, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Can You Trust Zillow to Find Your Home Value?</title>
+        <link>http://TheChadandSaraRealEstateBlog.com/can-you-trust-zillow-to-find-your-home-value.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Chad and Sara Huebener</author>
+        <pubDate>2017-07-17 05:59:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/July/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Zillow+Zestimates.mp4</guid>
+        <description>
+
+What is the Zillow Zestimate?
+
+Zillow has an algorithm called the Zestimate that comes up with a home’s value. There are a few things to watch out for when finding your Zestimate.
+
+Although Zillow’s exact formula is unknown, we do know that the Zestimate pulls data from tax records, past sales, and past appreciation rates. Unfortunately, Zestimates often tend to be inaccurate.
+
+Recently, Zillow said that the Zestimate is off 6.9% on average from the actual sales price of a home. In our market, Zestimates can be off anywhere from 7% to 10%. Most of the time, Zestimates are off by even more than that. In fact, I looked at our house today and the Zestimate is 20% higher than our home’s true market value.
+
+The Zestimate is not the only valuation model out there. In addition to online, automated home valuation services (which also tend to be inaccurate), there is the tax assessed value, which is what your county or municipality does. They consider your building versus the value of the land.
+
+“The market value used by Realtors is the most accurate value of your home.”
+
+There is also the appraised value. While most people tend to look at the appraised value as an accurate, reliable source, it’s important to keep in mind that the appraised value is based on one person’s opinion on one particular day.
+
+Realtors rely on the market value, which is the most accurate value of your property. We use current data, previous data, and future projections to figure out what your home is worth. We also consider things like the location of your lot, your view, the neighborhood, how busy the road is, and what updates you have made to the home. Online valuation tools don’t know about the condition of your home, and appraisers don’t always examine all of those factors, either.
+
+If you’re curious to learn more about Zestimates, here’s a fun project: Go to Zillow and type in your address. Even if your home is not on the market and you’re not even thinking about selling, Zillow will give you a Zestimate. Then, give us a call or send us an email. We’ll run some numbers and figure out just how accurate your Zestimate really is.
+
+Even if you’re not looking to sell your home, it can be fun to know where you stand in the market.
+
+So, reach out to us with your Zestimate or any other real estate questions that you may have. We look forward to hearing from you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/July/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Zillow+Zestimates.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://TheChadandSaraRealEstateBlog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/July/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Zillow+Zestimates.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Zillow’s Zestimate is an algorithm that provides an automatic value of your home. However, Zestimates are often wrong. I just checked the Zestimate for our own home, and it was 20% over the actual market value of our property! So, if you can’t trust Zillow, how can you find out what your home is worth? Even if you’re not going to sell, it can be fun to know where you stand in the market. To learn more, watch this short video.</itunes:subtitle>
+        <itunes:author>Chad and Sara Huebener</itunes:author>
+        <itunes:summary>Zillow’s Zestimate is an algorithm that provides an automatic value of your home. However, Zestimates are often wrong. I just checked the Zestimate for our own home, and it was 20% over the actual market value of our property! So, if you can’t trust Zillow, how can you find out what your home is worth? Even if you’re not going to sell, it can be fun to know where you stand in the market. To learn more, watch this short video.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Shakopee, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What You Should Know About The Market</title>
+        <link>http://TheChadandSaraRealEstateBlog.com/what-you-should-know-about-edina-real-estate.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Chad and Sara Huebener</author>
+        <pubDate>2017-06-28 05:59:21 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/June/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Whats+Happening+in+Our+Local+Real+Estate+Market%253F.mp4</guid>
+        <description>
+
+We’re halfway through the summer here in Scott County, and we wanted to give you a quick update on how the real estate market is looking and what you can expect from it as the year progresses.
+
+As far as inventory is concerned, not much has changed since our last update. We still have very few homes for sale, especially in the $300,000 and below price range. For homes priced above $400,000, the market is a little more balanced.
+
+The average days on market has dropped since last year, and homes are now selling in an average of just 33 days. At the same time, average sale prices continue to increase by about 5% annually.
+
+“Homes are selling in an average of just 33 days.”
+
+With such low inventory, new construction has been on the rise, particularly in the $400,000 to $600,000 range. We’ll continue to see increased inventory in this range, too. We met with some builders recently and they told us that they will keep building as long as inventory is low and demand is high.
+
+If you have any additional questions about our real estate market or you’re looking to buy or sell a home in Scott County, give us a call or send us an email. We would be delighted to hear from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/June/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Whats+Happening+in+Our+Local+Real+Estate+Market%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://TheChadandSaraRealEstateBlog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/June/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Whats+Happening+in+Our+Local+Real+Estate+Market%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>We’re halfway through the summer here in Scott County, and we wanted to give you a quick update on how the real estate market is looking and what you can expect from it as the year progresses.</itunes:subtitle>
+        <itunes:author>Chad and Sara Huebener</itunes:author>
+        <itunes:summary>We’re halfway through the summer here in Scott County, and we wanted to give you a quick update on how the real estate market is looking and what you can expect from it as the year progresses.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Shakopee, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How We Network Your Property Before It Hits the Market</title>
+        <link>http://TheChadandSaraRealEstateBlog.com/how-we-network-your-property-before-it-hits-the-market.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Chad and Sara Huebener</author>
+        <pubDate>2017-06-06 19:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/June/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Whats+Happening+in+Our+Local+Real+Estate+Market%253F.mp4</guid>
+        <description>
+
+When we talk about networking properties, we are talking about how we connect with other agents regarding our listing and buyer needs before the home goes on the MLS.
+
+After that, there are a few different ways to network your property. We do that through other agents and brokers, our internal systems, our local database, and a tool in the MLS called reverse prospecting.
+
+How does reverse prospecting work? When we have a listing, we’re able to search for other agents who have buyers at that price point. Then, we can communicate with those other agents regarding our listings.
+
+“The MLS is the best place to market your home online.”
+
+That brings us to our pre-MLS database called Network One. This is an in-house database where we can access homes that are going to be on the market but aren’t quite ready yet. This is a great place for sellers who need to get some work done on the home, like refinishing hardwood floors or painting.
+
+Network One allows other agents to see properties that are about to hit the market and lets them know exactly when it will be available for sale. That way, those agents can inform those buyers that there is another home coming on the market soon.
+
+This tool is not a substitute for the MLS. The MLS is the best place to market your home online. However, Network One is a great way for sellers in the preparation phase to get exposure for their home before officially hitting the market.
+
+If you would like to know more about our pre-market MLS or our database of buyers and sellers, just give us a call or send us an email. We would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/June/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Whats+Happening+in+Our+Local+Real+Estate+Market%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://TheChadandSaraRealEstateBlog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/June/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Whats+Happening+in+Our+Local+Real+Estate+Market%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Networking properties is a great way to get exposure and create interest among prospective buyers. We use a few different tools to communicate with other agents regarding our listing and buyer needs. We even have a tool called Network One that helps create interest for properties before they are officially on the market. To learn more about how networking properties can help you, watch this short video.</itunes:subtitle>
+        <itunes:author>Chad and Sara Huebener</itunes:author>
+        <itunes:summary>Networking properties is a great way to get exposure and create interest among prospective buyers. We use a few different tools to communicate with other agents regarding our listing and buyer needs. We even have a tool called Network One that helps create interest for properties before they are officially on the market. To learn more about how networking properties can help you, watch this short video.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Shakopee, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What’s Happening in Our Local Real Estate Market?</title>
+        <link>http://TheChadandSaraRealEstateBlog.com/whats-happening-in-our-local-real-estate-market.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Chad and Sara Huebener</author>
+        <pubDate>2017-05-22 10:44:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/May/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Whats+Happening+in+Our+Local+Real+Estate+Market%253F.mp4</guid>
+        <description>
+
+What’s happening in our local real estate market?
+
+If you compare pricing from 2016 to 2017, home prices have gone up 5% in the metro area and across Scott County.
+
+Inventory in the metro area is down 16%, while inventory in Scott County is down almost 17.5%. So, what does the absorption rate look like?
+
+The absorption rate is how long it would take to sell all of the homes currently on the market if no other homes came on the market. An absorption rate of five to seven months is considered a balanced market, while anything under five months is a seller’s market. In the metro and Scott County, the absorption rate is in the upper twos, which is even lower than the three months of inventory we had last year.
+
+However, the absorption rate is different in each price point. Homes under $350,000 have an absorption rate of 1.7 months. Homes over $350,000 have an absorption rate of five to six months, so there is a more balanced market in those higher price points.
+
+“Inventory is extremely low under $350,000.”
+
+What does that mean for our market?
+
+If you are trying to buy a home under $250,000, there are a lot of multiple offer situations. Homes priced between $300,000 and $350,000 will move quickly and may also draw multiple offers.
+
+For example, last week our buyers made an offer on a home that was priced at $209,000. Even though our offer was $30,000 over the listing price, there were many other offers on the table, and ours was not the highest one.
+
+This is a good market for move-up buyers though. You can sell your $300,000 home in a seller’s market and find a $400,000 home in a balanced market. If you are trying to downsize, though, and you need to sell your current home first, that can be a lot more difficult. There is extremely low inventory in the rambler/townhome demographic.
+
+Another important note on inventory is that there are a lot of new construction developments out there offering homes over $450,000. Those new construction homes aren’t on the MLS, so those homes do skew the market stats just a bit.
+
+Finally, keep in mind that different neighborhoods are in different markets. Real estate is local, after all, so if you would like to know more about your current market, just give us a call or send us an email. We would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/May/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Whats+Happening+in+Our+Local+Real+Estate+Market%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://TheChadandSaraRealEstateBlog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2017/May/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Whats+Happening+in+Our+Local+Real+Estate+Market%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>We’re here with your latest market update. Today, we’ll explore what’s happening with home prices, inventory, and the absorption rate. While inventory is down across Scott County, some price points have lower inventory than others. To find out what that means for you, watch this short video.</itunes:subtitle>
+        <itunes:author>Chad and Sara Huebener</itunes:author>
+        <itunes:summary>We’re here with your latest market update. Today, we’ll explore what’s happening with home prices, inventory, and the absorption rate. While inventory is down across Scott County, some price points have lower inventory than others. To find out what that means for you, watch this short video.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Shakopee, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
