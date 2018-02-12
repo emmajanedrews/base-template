@@ -1,9 +1,9 @@
 audit_header: false
 title: Quarterback to Coach Podcast
 description: 'Jerimiah Taylor and Isacc Guzman swap their secrets on how to polish your leadership skills, shift your business mindset, and empower your team.'
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
+  - title: Resources
     url:
 
 client:
@@ -62,12 +62,12 @@ welcome_box:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
-  instagram_url:
+  facebook_url: https://www.facebook.com/Quarterback-to-Coach-1368265103218754/
+  linkedin_url: https://www.linkedin.com/company/quarterback-to-coach
+  gplus_url: https://plus.google.com/110869534711100355975?hl=en
+  youtube_url: https://www.youtube.com/channel/UChHMP9DOVwo1SFq0hkh8nbA
+  twitter_url: https://twitter.com/QBtoCoach
+  instagram_url: https://www.instagram.com/qbtocoach/
   pinterest_url:
   zillow_url:
   trulia_url:
