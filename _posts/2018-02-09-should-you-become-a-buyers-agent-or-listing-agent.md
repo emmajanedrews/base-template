@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Should You Become a Buyer’s Agent or Listing Agent?
-date: 2018-02-09 11:59:31
+date: 2018-02-09 11:59:00
 tags:
 excerpt: >-
   Should new agents work with buyers or sellers? In my opinion, they should have
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/tom-nickley-no-play-1.jpg
-youtube_code: Lddo3rmBxfA
+youtube_code: iLdm7MvW5mI
 ---
 
 {% include youtube.html %}
