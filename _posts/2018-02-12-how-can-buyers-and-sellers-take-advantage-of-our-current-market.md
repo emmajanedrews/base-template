@@ -25,9 +25,9 @@ There’s no question that this year is different than the rest. Spring is alrea
 
 **Interest rates are beginning to creep up, and this trend will likely continue through the spring and summer.**In other words, now is the right time to get on the market, whether you are a buyer or a seller.
 
-{% include pullquote.html %}
-
 Homes that couldn't sell last year are selling now. I just listed a home that sat on the market all year in 2017 and was able to sell it in a matter of just three weeks.
+
+{% include pullquote.html %}
 
 If you’re considering buying a home this year, watch rates very carefully. If rates rise from their current 4.25% to, say, 5.25%, the increase in cost could run high.
 
