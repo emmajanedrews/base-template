@@ -13,7 +13,10 @@ form
 
 .home-value
 	max-width: 50rem
+	background-color: $brand
 	margin: 0 auto
+	label
+		color: #fff
 	input,textarea, select
 		width: 100%
 		border: 1px solid $brand
@@ -23,9 +26,15 @@ form
 	input[type="submit"]
 		font-size: inherit
 		padding: 1rem
-		border: 3px solid $brand
+		border: 3px solid #fff
+		color: $brand
+		background-color: #fff
 		&:hover
 			border: 3px solid $brand-light
+			background-color: $brand-light
+			color: #fff
+.asterisk
+	color: #fff
 
 .contact-form
 	width: 100%

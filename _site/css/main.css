@@ -2696,7 +2696,10 @@ form select {
 
 .home-value {
   max-width: 50rem;
+  background-color: #439639;
   margin: 0 auto; }
+  .home-value label {
+    color: #fff; }
   .home-value input, .home-value textarea, .home-value select {
     width: 100%;
     border: 1px solid #439639; }
@@ -2706,9 +2709,16 @@ form select {
   .home-value input[type="submit"] {
     font-size: inherit;
     padding: 1rem;
-    border: 3px solid #439639; }
+    border: 3px solid #fff;
+    color: #439639;
+    background-color: #fff; }
     .home-value input[type="submit"]:hover {
-      border: 3px solid #77c86d; }
+      border: 3px solid #77c86d;
+      background-color: #77c86d;
+      color: #fff; }
+
+.asterisk {
+  color: #fff; }
 
 .contact-form {
   width: 100%;
@@ -2900,7 +2910,8 @@ form select {
 .recruiting-page {
   Font-size: 18px;
   width: 75%;
-  margin: 0 auto; }
+  margin: 0 auto;
+  color: #000000; }
 
 .page-logo {
   width: 90%;

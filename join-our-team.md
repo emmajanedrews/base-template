@@ -10,8 +10,10 @@ permalink: /join-our-team/
   </span>
 <figcaption class="caption">Misty Soldwisch</figcaption>
 </div>
-<h1>Join One of the Fastest Growing Real Estate Teams in Utah!</h1>
-<h5>How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</h5>
+<h1>Join One of the Fastest Growing Real Estate Teams in Iowa!</h1>
+<h4>How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</h4>
+
+<hr>
 
 <p>Dear Real Estate Agent,</p>
 
@@ -25,7 +27,7 @@ permalink: /join-our-team/
 340 homes. My team is the highest producing team in our market, and I’ve built up a real estate
 business that provides my team and I with consistent and reliable income.</p>
 
-<p>Would you like to work directly with me on my team? We have the systems, processes, and leads for you to earn $70,000 a year working 30 hours a week in a position you will look forward to every day. I can provide you with the training, support, mentorship, accountability, and tools you need to build a consistent and reliable income in real estate.</p>
+<p>Would you like to work directly with me on my team? We have the systems, processes, and leads for you to earn $70,000 a year working 40 hours a week in a position you will look forward to every day. I can provide you with the training, support, mentorship, accountability, and tools you need to build a consistent and reliable income in real estate.</p>
 
 
 <p>Working on my team gets you a full CRM (Customer Relationship Management software, $200
@@ -65,14 +67,13 @@ else for a 70/30 split or 100% with a fee. I can show this to you and have the p
 
 <p>I guarantee I will meet with you personally for at least one hour every month as long as you work here and you will never be forgotten.</p>
 
-<p>If you take me up on this, I have leads right now for you to call, and you’ll likely have a
-<p>commission in your bank account, ready to spend, within 90 days if you apply right now. If you have any questions for me in the meantime or if you’re ready to get started, don’t hesitate to reach out <p>and give me a call or send me an email. I look forward to hearing from you.</p>
+<p>If you take me up on this, I have leads right now for you to call, and you’ll likely have a commission in your bank account, ready to spend, within 90 days if you apply right now. If you have any questions for me in the meantime or if you’re ready to get started, don’t hesitate to reach out and give me a call or send me an email. I look forward to hearing from you.</p>
 
 <p>Hope to hear from you soon,</p>
 
 <p>Misty Soldswich<br>
 <a href="tel:{{ site.data.settings.client2.phone }}">{{ site.data.settings.client2.phone }}</a><br />
-<a href="mailto:{{ site.data.settings.client.email }}" target="_blank">{{ site.data.settings.client2.email }}</a><br /></p>
+</p>
 
 
 
@@ -105,7 +106,7 @@ else for a 70/30 split or 100% with a fee. I can show this to you and have the p
 <textarea name="employer"></textarea>
 <!-- submit! -->
 <input class="submit light-light" type="submit" value="Apply Now" name="submitrecruitingForm">
-<span class="asterisk">*</span>required
+<span class="asterisk">*required</span>
 </fieldset>
 <!-- Cloud cannon settings field -->
 <div class="hidden">
