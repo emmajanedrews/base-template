@@ -46,11 +46,11 @@ permalink: /join-our-team/
 
 ##### **If you like this plan, once you apply here’s what will happen:**
 
-* We’re going to have a short phone conversation to make sure you’re a good fit with our team.
-* You’re going to attend one of my free training events, where you will write a quick business plan.
-* We’re going to go lunch or dinner to talk about your one-, three-, and five-year goals and vision for your life.
-* You’re going to shadow me or a current agent for one week.
-* You’re going to start calling some of the leads in our database with the following scripts (watch the video below to watch one of my team members doing this, so that you know what this looks like)
+1. We’re going to have a short phone conversation to make sure you’re a good fit with our team.
+2. You’re going to attend one of my free training events, where you will write a quick business plan.
+3. We’re going to go lunch or dinner to talk about your one-, three-, and five-year goals and vision for your life.
+4. You’re going to shadow me or a current agent for one week.
+5. You’re going to start calling some of the leads in our database with the following scripts (watch the video below to watch one of my team members doing this, so that you know what this looks like)
 
 ##### ***I guarantee I will meet with you personally for at least one hour every month as long as you work here and you will never be forgotten.***
 
@@ -61,10 +61,6 @@ permalink: /join-our-team/
 ##### **I hope to hear from you soon,**
 
 ### **Misty SOLDwisch, Broker/Owner**<br>**[515-218-7740](tel:515-218-7740)**
-
-###### *
-
-<font face="Thread-00002c44-Id-00000021"></font>*
 
 ## **Let's Make You More Money**
 {: .recruiting}
