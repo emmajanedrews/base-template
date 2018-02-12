@@ -21,15 +21,15 @@ I wanted to reach out to all of you who are either interested in starting a care
 
 **Our team has cracked the code for what it takes to be a successful agent in this business.**We’ve found that the hardest obstacle for most people to get over is consistency. The great thing about the agents who join The Salas Team is that we’ve invested a lot of time and energy and money into creating systems and providing tools around a support system that ensures you are consistent and can actually achieve your goals. Here are the seven tools that we offer to the agents who join our team:
 
-**1. Brand recognition.**We spend a lot of time and energy on marketing and have been regionally and nationally ranked as a team with RE/MAX. All of this will benefit you as an agent by providing instant credibility with consumers in the area.
+**1. Brand recognition.** We spend a lot of time and energy on marketing and have been regionally and nationally ranked as a team with RE/MAX. All of this will benefit you as an agent by providing instant credibility with consumers in the area.
 
-**2. Offices.**We have offices all throughout the greater Philadelphia Metro Area. We’ve got two offices in Center City, one in the Main Line, and two in South Jersey as well. You can diversify your sale practices on our team by being able to sell in all of these different markets.
+**2. Offices.** We have offices all throughout the greater Philadelphia Metro Area. We’ve got two offices in Center City, one in the Main Line, and two in South Jersey as well. You can diversify your sale practices on our team by being able to sell in all of these different markets.
 
 **3. Leads.** We have a ton of leads. We have people who are making 300 to 400 calls a day so that our agents don’t ever have to wonder where your next lead is coming from.
 
 {% include pullquote.html %}
 
-**4. Technology and systems.**We invest a lot of money in cutting-edge technology because time is our most valuable asset. We want to make sure our agents are able to use their time effectively throughout the day so that they have long, enjoyable, and successful careers.
+**4. Technology and systems.** We invest a lot of money in cutting-edge technology because time is our most valuable asset. We want to make sure our agents are able to use their time effectively throughout the day so that they have long, enjoyable, and successful careers.
 
 **5. Training and accountability.** We are learning-based here and focus on our education and the education or our agents.
 
