@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Are We in a Buyer’s or Seller’s Market in Butte County?
-date: 2018-02-07 16:08:57
+date: 2018-02-07 16:08:00
 tags:
   - Real Estate
 excerpt: >-
   In Butte County, our level of inventory means different things for buyers and
   sellers.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Troy+Davis/Butte+County+Real+Estate-+Your+Latest+Butte+County+Market+Update.mp4
 pullquote: 'If you’re a buyer, you need to act quickly.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -15,7 +16,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/troy-davis-market-update-youtube.jpg
 youtube_code: 'https://youtu.be/Qkx1AiGRcco'
 ---
-
 
 {% include youtube.html %}
 
