@@ -28,14 +28,14 @@ client:
 
 CTAs:
   first_CTA_text: Join Our Team
-  first_CTA_URL: /join-our-team/
+  first_CTA_URL: https://www.joinremax.com/patriotsyork
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/006.jpg
     CTA_title: Looking to Build Your Real Estate Career?
     CTA_text: Let's talk about how we can take your business to new heights.
     CTA_link_text: Join Our Team
-    CTA_url: http://www.patriotshomes.com/agents/
+    CTA_url: https://www.joinremax.com/patriotsyork
 
 lender:
   show_section: false
