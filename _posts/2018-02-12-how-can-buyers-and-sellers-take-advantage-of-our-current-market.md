@@ -23,7 +23,7 @@ youtube_code: LEX4P96YELE
 
 There’s no question that this year is different than the rest. Spring is already here. Tulips are already blooming and so is the market.
 
-**Interest rates are beginning to creep up, and this trend will likely continue through the spring and summer.**In other words, now is the right time to get on the market, whether you are a buyer or a seller.
+**Interest rates are beginning to creep up, and this trend will likely continue through the spring and summer.&nbsp;**In other words, now is the right time to get on the market, whether you are a buyer or a seller.
 
 Homes that couldn't sell last year are selling now. I just listed a home that sat on the market all year in 2017 and was able to sell it in a matter of just three weeks.
 
