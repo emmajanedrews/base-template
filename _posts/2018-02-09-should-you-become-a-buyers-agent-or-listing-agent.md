@@ -18,12 +18,11 @@ youtube_alternate_image: /uploads/tom-nickley-no-play-1.jpg
 youtube_code: Lddo3rmBxfA
 ---
 
-
 {% include youtube.html %}
 
 I wanted to take a moment today to answer a question that I’m asked frequently by new agents: “Should I become a buyer’s agent or a listing agent?”
 
-I don’t think there’s a specific, correct answer to that question. As a new agent, I think it’s important that you learn the buying and the listing side of the business so you can become more of a well-rounded professional.** The psychology behind a seller is much different than the psychology behind a buyer.** I also think that the easiest way to see scale and see early success in your business is through focusing on both sides of the transaction.
+I don’t think there’s a specific, correct answer to that question. As a new agent, I think it’s important that you learn the buying and the listing side of the business so you can become more of a well-rounded professional.&nbsp;**The psychology behind a seller is much different than the psychology behind a buyer.**&nbsp;I also think that the easiest way to see scale and see early success in your business is through focusing on both sides of the transaction.
 
 {% include pullquote.html %}
 
