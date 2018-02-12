@@ -10,7 +10,7 @@ permalink: /join-our-team/
 
 <figcaption class="caption">Misty Soldwisch</figcaption>
 
-# **Join One of the Fastest Growing Real Estate Teams in Iowa!**
+# **Join The Largest Real Estate Team in Iowa!**
 
 #### **How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?**
 
