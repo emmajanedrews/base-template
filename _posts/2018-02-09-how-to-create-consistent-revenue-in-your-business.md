@@ -17,10 +17,9 @@ youtube_alternate_image: /uploads/creating-stream-of-income-part-1-youtube.jpg
 youtube_code: 5C0lLQmNYZs
 ---
 
-
 {% include youtube.html %}
 
-I’m happy to be joined once again by Scott Agnew, who’s back to share his expertise with all of us. Today we’re going to explore the topic of how to create a steady stream of income in your real estate business. Scott got his license at 18 and has been in real estate since then, so he has a wealth of knowledge to share with everyone:
+I’m happy to be joined once again by Scott Agnew, who’s back to share his expertise with all of us. Today we’re going to explore the topic of how to create a steady stream of income in your real estate business. Scott got his license at 18 and has been in real estate since then, so he has a wealth of knowledge to share with everyone. Here are some highlights from my interview with Scott:
 
 **What’s your No. 1 tip for creating consistent revenue in a real estate business?**
 
