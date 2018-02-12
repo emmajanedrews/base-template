@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Don’t Fall For These 3 Home Buying Myths
-date: 2018-02-09 15:28:51
+date: 2018-02-09 15:28:00
 tags:
+  - Home Buyer Tips
 excerpt: Today I’ll discuss three myths I hear from buyers that are worth busting.
 enclosure:
 pullquote: >-
