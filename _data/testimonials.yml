@@ -1,5 +1,11 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
-    audio:
+  - quote: Jodie was very thorough. She helped me and told me exactly what I needed and what I didn’t need. My ultimate goal was to sell my house and make it pretty but try not to get too much into it in order to get the most return. The end result was exactly that. We got the asking price. She was thorough, honest, and she always kept me up to date. So the results I got with her was pretty much the total package!
+    name: Jamie Lowry
+    audio: /uploads/audio/jamie.mp3
+  - quote: I worked with Jodie in the purchase of a condo as well as the purchase of a home. After our condo, we decided to work with Jodie again for finding our home. She just works really efficiently, she knows what she’s doing, and she’s beyond friendly. As new homeowners and even four years after, we had tons of questions each time but we never felt uncomfortable asking. And the fact that she works with her husband makes it a smoother process. Jodie’s great!
+    name: Preston Zook
+    audio: /uploads/audio/preston.mp3
+  - quote: Well, we got the house that we wanted! We actually had worked with her in the past when we were trying to get into real estate. This time it was for a home for ourselves because of our previous experience with her. We felt that she had the experience and knowledge that we wanted so we wanted to work with her again! We’ve referred her several times already. We referred her to my sister and that’s an instance where she went above and beyond in working with my sister’s ex-mother-in-law. I think she really went above and beyond with my sister, especially.
+    name: Greg Hart
+    audio: /uploads/audio/greg.mp3

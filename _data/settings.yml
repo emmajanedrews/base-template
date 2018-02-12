@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: Salt Lake City Real Estate Video Blog with Jodie Osofsky
 description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
@@ -11,41 +11,43 @@ emma:
   form:
 
 client:
-  name:
+  name: Jodie Osofsky
   title:
   license_number:
   about_markdown: |
+    Jodie was born and raised in the Salt Lake Valley. As a child, her family moved often giving her the opportunity to experience living in many different neighborhoods.
 
-  market:
-  brand:
+    After getting married and earning her real estate license in 2000, Jodie and her husband bought their first home is Sandy. She was mentored by her mother, a successful Realtor, for the first few years in the business, and eventually spread her wings and began her own career.
+  market: Salt Lake City
+  brand: Utah Key Real Estate
   brokerage:
-  address:
-  phone:
+  address: 10459 S 1300 W, Ste 102<br>South Jordan, UT 84059
+  phone: 801-598-7091
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: support@alwayscalljodie.com
+  url: http://www.alwayscalljodie.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.alwayscalljodie.com/s/Find-Out-How-Much-Your-Salt-Lake-City-Home-Is-Worth
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.alwayscalljodie.com/search.aspx
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.alwayscalljodie.com/s/Find-Out-How-Much-Your-Salt-Lake-City-Home-Is-Worth
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://www.alwayscalljodie.com/search.aspx
 
 lender:
   show_section: false
@@ -61,17 +63,17 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/AlwaysCallJodie/
+  linkedin_url: http://www.linkedin.com/in/jodieosofsky
+  gplus_url: https://plus.google.com/u/0/+JodieOsofsky
+  youtube_url: https://www.youtube.com/channel/UCJIWrwoapO7GNwIOL_3m05Q
+  twitter_url: https://twitter.com/Jodie_Osofsky
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
-  podcast_url:
+  zillow_url: http://www.zillow.com/profile/jodieo/
+  trulia_url: http://www.trulia.com/profile/jodie-osofsky-agent---22815566/overview
+  yelp_url: http://www.yelp.com/biz/jodie-osofsky-real-estate-llc-sandy
+  podcast_url: https://itunes.apple.com/us/podcast/salt-lake-city-area-real-estate/id1066970697?mt=2
 
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
@@ -85,14 +87,14 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 30
   hero_text: -- MARKET -- Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#006993'
+  theme_color: '#231f20'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -104,7 +106,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: rgba(35, 31, 32, .75)
 
 buttons:
   button_radius_number: 0
