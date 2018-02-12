@@ -16,12 +16,11 @@ youtube_alternate_image: /uploads/tejeda-youtube-2.jpg
 youtube_code: 9heGGWPa2cw
 ---
 
-
 {% include youtube.html %}
 
 When buying a home, there are a few questions that you should make sure to ask your lender.
 
-**1. What is my interest rate?**This is important because the interest rate determines what the principal and interest portion of your mortgage payment will be. Make sure that you discuss interest rates up front so that you know what your payment will be at the end of escrow. If they don’t disclose the rate right away, you may end up with a higher payment than you thought you were going to get.
+**1. What is my interest rate?** This is important because the interest rate determines what the principal and interest portion of your mortgage payment will be. Make sure that you discuss interest rates up front so that you know what your payment will be at the end of escrow. If they don’t disclose the rate right away, you may end up with a higher payment than you thought you were going to get.
 
 **2. What is my monthly mortgage payment?** Your mortgage payment includes the principal, interest rate, taxes, and insurance (PITI). Some lenders may just tell you the principal and interest payment, but you need to know the total payment. In San Diego, property tax rates are around 1.25%, so take that into consideration, as well as insurance payments.
 
