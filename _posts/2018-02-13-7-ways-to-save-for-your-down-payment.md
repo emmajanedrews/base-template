@@ -24,7 +24,7 @@ If one of your goals for 2018 is to buy a new home, one of your main areas of co
 
 **2. Assess your spending habits.** Don’t just make a rough guess about your monthly expenses. Sit down with your bank statements and carefully examine how you are currently allocating your income. This will show you where your money is going and where you need to start cutting back.
 
-**3. Shrink your TV package.**The average cable bill hit a record of $103 in 2017. This is nearly 40% higher than the average from 2010. To try to negotiate a lower rate, contact your provider and let them know you are considering a switch over to their competition. This could provide leverage to your negotiation.
+**3. Shrink your TV package.** The average cable bill hit a record of $103 in 2017. This is nearly 40% higher than the average from 2010. To try to negotiate a lower rate, contact your provider and let them know you are considering a switch over to their competition. This could provide leverage to your negotiation.
 
 {% include pullquote.html %}
 
