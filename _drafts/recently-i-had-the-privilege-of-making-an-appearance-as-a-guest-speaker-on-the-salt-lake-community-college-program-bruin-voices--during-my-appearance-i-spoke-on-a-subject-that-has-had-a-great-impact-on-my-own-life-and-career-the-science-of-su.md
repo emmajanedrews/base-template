@@ -13,7 +13,7 @@ excerpt: >-
   The science of success and the six paths to mastery. So, what is the science
   of success? To learn more, watch my latest video.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/Salt+Lake+County+Real+Estate+Agent-+Heres+Why+Glenn+Beck+Endorses+Our+Team.mp4
+  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2018/The+Stern+Team-+The+Science+of+Success+and+the+6+Steps+of+Mastery.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time: '10:39 am'
