@@ -80,7 +80,7 @@ Cap Core Real Estate</p>
 <textarea name="employer"></textarea>
 <!-- submit! -->
 <input class="submit light-light" type="submit" value="Apply Now" name="submitrecruitingForm">
-<span class="asterisk">*</span>required
+<span class="asterisk">*required</span>
 </fieldset>
 <!-- Cloud cannon settings field -->
 <div class="hidden">
