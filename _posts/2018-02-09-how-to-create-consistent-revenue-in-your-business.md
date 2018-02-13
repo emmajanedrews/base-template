@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Create Consistent Revenue in Your Business
-date: 2018-02-09 13:53:42
+date: 2018-02-09 13:53:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/creating-stream-of-income-part-1-youtube.jpg
-youtube_code: 5C0lLQmNYZs
+youtube_code: vSwFtuBLFaM
 ---
 
 {% include youtube.html %}
