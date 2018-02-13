@@ -26,13 +26,13 @@ youtube_code: UFbq0WdBvm4
 
 Recently, I had the opportunity to act as a guest speaker on the Salt Lake Community College program “Bruin Voices.”
 
-Cited below for your convenience are timestamps which will direct you to various subjects I go over in the video above. Feel free to watch my full message or use these timestamps to browse specific topics are your leisure:
+Cited below for your convenience are timestamps which will direct you to various subjects I go over in the video above. Feel free to watch my full message or use these timestamps to browse specific topics at your leisure:
 
 00:13 - Introduction
 
 00:51 - Creating a personal mission
 
-4:39 - The science of success and the six paths to mastery: Self-mastery.
+4:39 - The science of success and the six paths to mastery: Self-mastery
 
 5:44 - The science of success and the six paths to mastery: Implementation of 80/20 rule
 
