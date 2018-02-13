@@ -30,10 +30,10 @@ CTAs:
   VR_form:
 
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/004.png
-    CTA_title: "GET IT FREE: The Millionaire Real Estate Agent Book"
-    CTA_text: "Let's visit about how to help you be more successful at your San Diego real estate career. When we meet you'll get a free copy of the best-selling book The Millionaire Real Estate Agent: It's Not About the Money...It's About Being the Best You Can Be! Absolutely no-obligation. It's yours to keep."
-    CTA_link_text: "Contact Me"
+  - CTA_image_path: /img/cta-images/004.jpg
+    CTA_title: "Submit a question for us here"
+    CTA_text: "If we answer your question on our next podcast episode we will send you a $25 Amazon gift card."
+    CTA_link_text: "Submit a Question"
     CTA_url: /contact/
 
 # second_sidebar_CTA:
