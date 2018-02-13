@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What to Expect From Mortgage Rates in 2018
-date:
+date: 2018-02-13 21:38:03
 tags:
   - Real Estate
 excerpt: >-
