@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We’ve Cracked the Code and We Want to Share It With You
-date: 2018-02-12 18:00:25
+date: 2018-02-12 18:00:00
 tags:
 excerpt: >-
   We’ve cracked the code on the real estate business. Here’s how we’re sharing
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/salas-youtube-1.jpg
-youtube_code: vw-eYGMy2qw
+youtube_code: 0KJLnQ3YK-U
 ---
 
 {% include youtube.html %}
