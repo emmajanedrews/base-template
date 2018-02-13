@@ -31,7 +31,7 @@ If a home sale is in your future for 2018, there are a few easy, inexpensive tip
 
 **6. Don’t do too much seasonal decorating.** If you list during the holidays, don’t overdo your decor. It isn’t that you can’t decorate at all, it’s just that you don’t want things to look overdone or tacky.&nbsp;
 
-**7. Check your front door.**Your front door is the first thing people see when they come in, but make sure your door is painted, caulked, and free of cobwebs.&nbsp;
+**7. Check your front door.** Your front door is the first thing people see when they come in, but make sure your door is painted, caulked, and free of cobwebs.&nbsp;
 
 {% include pullquote.html %}
 
