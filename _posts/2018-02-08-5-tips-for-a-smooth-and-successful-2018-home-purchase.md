@@ -11,7 +11,7 @@ pullquote: We’d love to meet with you and give you a buyer consultation
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/no-1.jpg
+youtube_alternate_image: /uploads/no-4.jpg
 youtube_code: 7Ljtjf9QmEE
 ---
 
