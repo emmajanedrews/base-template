@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Tips for a Smooth and Successful 2018 Home Purchase
-date: 2018-02-08 15:27:40
+date: 2018-02-08 15:27:00
 tags:
   - Home Buyer Tips
 excerpt: We have five tips that will make your 2018 home purchase hassle-free.
@@ -12,9 +12,8 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/no-1.jpg
-youtube_code: hbwI5tbYeX8
+youtube_code: 7Ljtjf9QmEE
 ---
-
 
 {% include youtube.html %}
 
