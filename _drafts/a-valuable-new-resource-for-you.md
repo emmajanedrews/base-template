@@ -16,7 +16,8 @@ youtube_code: _v8VfZrvVdU
 
 {% include youtube.html %}
 
-Want to sell your home? Get a FREE home value report<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Want to buy a home? Search all homes for sale
+<center>Want to sell your home? Get a FREE home value report</center>
+<center>Want to buy a home? Search all homes for sale</center>
 
 I’d like to welcome you to my new video blog.
 
