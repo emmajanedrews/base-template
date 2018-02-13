@@ -17,7 +17,7 @@ youtube_alternate_image:
 youtube_code: b2yuwBzAepY
 ---
 
-{{ include youtube.html }}
+{%include youtube.html %}
 
 The first half of the year in Tucson is a hot time for our real estate market. People come from all over to get out of the cold and spend some time in a place where it’s 75&deg; and sunny in the middle of February.
 
@@ -36,5 +36,3 @@ The current supply of homes is decreasing, and inventory is getting tighter. If 
 If you are a seller, now is a good time to put your home on the market.
 
 Whether you are buying or selling a home, please reach out to me with any questions you may have about the current market. I would be happy to help you!
-
-&nbsp;
