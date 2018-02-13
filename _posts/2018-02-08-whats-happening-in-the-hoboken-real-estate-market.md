@@ -16,8 +16,9 @@ youtube_alternate_image: /uploads/riolo-youtube-6.jpg
 youtube_code: mkPPSMQxqAs
 ---
 
-
 {% include youtube.html %}
+
+*All numbers/sources are from Hudson County MLS*
 
 We’ve received a lot of questions about what’s going on with taxes and how they will affect the market. We’ve also gotten a lot of questions about interest rates. Rates have been increasing over the last few weeks, and we anticipate that the Fed will raise rates soon.
 
