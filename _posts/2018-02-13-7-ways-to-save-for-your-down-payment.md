@@ -28,7 +28,7 @@ If one of your goals for 2018 is to buy a new home, one of your main areas of co
 
 {% include pullquote.html %}
 
-**4. Save your tax refund.**Depending on your work and income, this can be a nice chunk of change. Commit to putting this money away before you even receive it.
+**4. Save your tax refund.** Depending on your work and income, this can be a nice chunk of change. Commit to putting this money away before you even receive it.
 
 **5. Get a cash rewards credit card.** Ditch your no-frills credit card for one with rewards. This is an easy way to earn extra if you pay your bills consistently.
 
