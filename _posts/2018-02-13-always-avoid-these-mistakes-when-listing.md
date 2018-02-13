@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Always Avoid These Mistakes When Listing
-date:
+date: 2018-02-13 17:16:47
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -29,9 +29,9 @@ There are a lot of ways to succeed when selling your home, and just as many ways
 
 {% include pullquote.html %}
 
-1. Asking too much. While the goal of your home sale is to get as much money as you can for your home, setting the sticker price too high may make it very difficult to close. An overpriced home can sit on the market for months at a time. This will cause you to ultimately net less money than you would have if you had priced the home correctly from the start.<br>&nbsp;
+1. Asking too much. While the goal of your home sale is to get as much money as you can for your home, setting the sticker price too high may make it very difficult to close. An overpriced home can sit on the market for months at a time. This will cause you to ultimately net less money than you would have if you had priced the home correctly from the start.<br>
 
-2. Advertising too little. In today’s market you can’t just hire an agent and put an ad in the paper. Your agent will need to help you market your listing by leveraging price and condition.<br>&nbsp;
+2. Advertising too little. In today’s market you can’t just hire an agent and put an ad in the paper. Your agent will need to help you market your listing by leveraging price and condition.<br>
 
 3. Choosing the wrong agent. The right agent will set you up for success by positioning your home in front of as many buyers as possible.
 
