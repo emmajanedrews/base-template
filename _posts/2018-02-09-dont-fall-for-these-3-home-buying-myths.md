@@ -5,7 +5,8 @@ date: 2018-02-09 15:28:00
 tags:
   - Home Buyer Tips
 excerpt: Today I’ll discuss three myths I hear from buyers that are worth busting.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Alex+Tooke/Peak+Properties+Group+Busting+3+real+estate+myths.mp4
 pullquote: >-
   The program called NACA allows you to pay no money down, no closing costs, and
   you can get a low interest rate.
@@ -22,7 +23,7 @@ Today I’ll discuss three myths I hear from buyers that are worth busting.
 
 We at the Peak Properties Group have been out talking with buyers in the market recently, and we keep hearing three common myths being passed around. Today, I’ll explain what those are, why they’re myths, and how to bust them.
 
-**1. Is now a good time to buy?**&nbsp;It absolutely is! We keep hearing about how low inventory and the fact that we’re in a seller’s market will make it difficult for buyers to find their dream home. Really, it’s just an opportunity. Lock down that listing, make a strong offer, and get it under contract.
+**1. Is now a good time to buy?** It absolutely is! We keep hearing about how low inventory and the fact that we’re in a seller’s market will make it difficult for buyers to find their dream home. Really, it’s just an opportunity. Lock down that listing, make a strong offer, and get it under contract.
 
 **2. Buyers need 20% down to buy a home.** This is false. There are amazing loan products out there that will allow you to buy a home for as little 3% down, such as with a conventional loan. FHA loans allow for a 3.5% down payment. There are different rates for different products, so we recommend that you speak with a lender to find out what is your best option.
 
