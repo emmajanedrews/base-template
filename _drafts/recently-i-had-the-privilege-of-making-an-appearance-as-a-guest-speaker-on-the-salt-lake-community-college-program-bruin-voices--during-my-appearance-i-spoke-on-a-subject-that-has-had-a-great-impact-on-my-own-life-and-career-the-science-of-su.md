@@ -1,39 +1,49 @@
 ---
 layout: post
-title: >-
-  Recently, I had the privilege of making an appearance as a guest speaker on
-  the Salt Lake Community College program “Bruin Voices.” During my appearance,
-  I spoke on a subject that has had a great impact on my own life and career:
-  The science of success and the six paths to mastery. So, what is the science
-  of success? To learn more, watch my latest video.
+title: The Science of Success and the 6 Steps of Mastery
 tags:
   - Market Update
   - Real Estate
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: >-
-  We are thrilled to share some exciting news with you today. We have recently
-  been endorsed by Glenn Beck. He had some great words to say about our team,
-  and we’re very proud of that. We are also proud of our guaranteed sale
-  program, which Glenn explains in detail in his endorsement. To hear what Glenn
-  Beck has to say about our team, watch this short video.
+  Recently, I had the privilege of making an appearance as a guest speaker on
+  the Salt Lake Community College program “Bruin Voices.” During my appearance,
+  I spoke on a subject that has had a great impact on my own life and career:
+  The science of success and the six paths to mastery. So, what is the science
+  of success? To learn more, watch my latest video.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/Salt+Lake+County+Real+Estate+Agent-+Heres+Why+Glenn+Beck+Endorses+Our+Team.mp4
-pullquote: We are proud of our guaranteed sale program.
+pullquote:
 enclosure_type: video/mp4
 enclosure_time: '10:39 am'
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: kodSwXkDcxE
+youtube_code: UFbq0WdBvm4
 ---
-
 
 {% include youtube.html %}
 
-We’re excited to announce our team’s latest endorsement. This one comes from nationally syndicated radio host Glenn Beck. **He had some great words to say about our team and about our home sale guarantee program.**
+Recently, I had the opportunity to act as a guest speaker on the Salt Lake Community College program “Bruin Voices.”
 
-{% include pullquote.html %}
+Cited below for your convenience are timestamps which will direct you to various subjects I go over in the video above. Feel free to watch my full message or use these timestamps to browse specific topics are your leisure:
 
-In case you haven’t heard of it, here’s how it works. We guarantee to sell your home at a price and deadline that you agree to or we are going to buy it ourselves. **We sell a home every two days,** and have a large network of buyers that are looking for a home right now. We make this promise because we know we have the systems in place to keep it.
+00:13 - Introduction
 
-To hear the full radio endorsement, listen to the clip above.
+00:51 - Creating a personal mission
+
+4:39 - The science of success and the six paths to mastery: Self-mastery.
+
+5:44 - The science of success and the six paths to mastery: Implementation of 80/20 rule
+
+7:30 - The science of success and the six paths to mastery: Moving from “E” to “P”
+
+9:12 - The science of success and the six paths to mastery: Having a learning-based mindset
+
+10:34 - The science of success and the six paths to mastery: Remove limiting beliefs
+
+12:59 - The science of success and the six paths to mastery: Accountability
+
+14:49 - Review and demonstration of the science of success
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
