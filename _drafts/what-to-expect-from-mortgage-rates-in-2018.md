@@ -18,7 +18,9 @@ youtube_code: h6iDsx-lHn4
 
 {% include youtube.html %}
 
-<center>How will rising mortgage rates impact buyers in today’s market? My special guest, Austin Ingersoll from Academy Mortgage, has some key insight.</center>
+<center><em>How will rising mortgage rates impact buyers in today&rsquo;s market? My special guest, Austin Ingersoll from Academy Mortgage, has some key insight.</em></center>
+
+<center>&nbsp;</center>
 
 Today I’m joined by Austin Ingersoll with our preferred lender Academy Mortgage to talk about what’s going on in our market.
 
