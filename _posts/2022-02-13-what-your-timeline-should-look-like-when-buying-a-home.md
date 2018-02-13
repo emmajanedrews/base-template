@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Your Timeline Should Look Like When Buying a Home
-date: 2018-02-13 15:24:04
+date: 2022-02-13 15:24:00
 tags:
   - Real Estate
 excerpt: >-
