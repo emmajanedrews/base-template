@@ -10,15 +10,15 @@ If you need help implementing any of this or would like to discuss how we can wo
 
 #### Featured Webinar:
 
-**Prospecting to Profits: Warm & Cold Calls made Easy, January 2018** — [Video](http://prospectingtoprofits.pagedemo.co/) — [Resources](https://www.dropbox.com/sh/jawh3ts46yi9xbw/AAD27BTKHZjBIg5KjCN9xM2Na?dl=0)
+**Rule the Market: Listing Your Way to More Leads & Profit, February 2018** — [Video](https://youtu.be/vZhWv3lzrkk) — [Resources](https://www.dropbox.com/sh/p7vqzrww1ynr3fu/AACMCTLA3ZIjFbnHyHILqamla?dl=0)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vZhWv3lzrkk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vZhWv3lzrkk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 One of the most important things to do when discussing lead generation is getting into the right mindset. Working by referral-only is great if you’re not looking to grow your business. That said, if you’re looking to grow your income with more leads and generate more referral opportunities, I encourage you to watch this 30-minute webinar discussing prospecting to profits: Warm & Cold Call Made Easy.
 
 ### Previous Webinars:
 
-**Prospecting to Profits: Warm & Cold Calls made Easy, January 2018**— [Video](https://youtu.be/bKZXiuz628g) — [Resources](https://www.dropbox.com/sh/jawh3ts46yi9xbw/AAD27BTKHZjBIg5KjCN9xM2Na?dl=0)
+**Prospecting to Profits: Warm & Cold Calls made Easy, January 2018**— [Video](http://prospectingtoprofits.pagedemo.co/) — [Resources](https://www.dropbox.com/sh/jawh3ts46yi9xbw/AAD27BTKHZjBIg5KjCN9xM2Na?dl=0)
 
 **Systems to Ensure a Strong First Quarter in 2018, December 2017** — [Video](https://www.youtube.com/watch?v=-5F4moNvyfk&amp;feature=youtu.be) — [Resources](https://www.dropbox.com/sh/owtbnkctwl6aw0m/AAARvirtZivCfmkTAekkOqLta?dl=0)
 
