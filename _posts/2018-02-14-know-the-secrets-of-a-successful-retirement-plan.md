@@ -33,6 +33,7 @@ Basically, I’ll share with you the secrets of a successful retirement plan. Ev
 
 I’ll share with you everything I know from my 25 years of experience as an adviser focusing on the personal and corporate retirement plan markets, helping you create retirement income for life.
 
-**For more information, check out my website [www.retirementcfo.com](www.retirementcfo.com).** If you’d like to learn about a next-generation retirement plan solution that can help you outsource over 90% of the liability and administrative headaches of running a retirement plan, check out [www.selectretirementplans.com.](www.selectretirementplans.com.)
+**For more information, check out my website <a href="http://www.retirementcfo.com">www.retirementcfo.com</a>
+.** If you’d like to learn about a next-generation retirement plan solution that can help you outsource over 90% of the liability and administrative headaches of running a retirement plan, check out href="http://www.selectretirementplans.com">www.selectretirementplans.com</a>
 
 If you have any questions, don’t hesitate to reach out to me.
