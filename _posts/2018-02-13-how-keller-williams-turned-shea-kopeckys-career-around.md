@@ -22,7 +22,7 @@ youtube_code: 9T_8MnEwUVo
 
 {% include youtube.html %}
 
-When Shea Kopecky chose Keller Williams **when he first got into real estate, he didn’t have much of an idea of what to do.** His father had been in the real estate industry for a long time and had talked to him about working real estate so that he could him him with some of his land and commercial deals.
+When Shea Kopecky chose Keller Williams **when he first got into real estate, he didn’t have much of an idea of what to do.** His father had been in the real estate industry for a long time and had talked to him about working in real estate so that he could help him with some of his land and commercial deals.
 
 “I went to work with a small broker for, legitimately, six days,” he says. “They told me nothing; they just sat me down and gave me some paperwork to fill out, gave me some fees that I was supposed to pay, and that’s about it.”
 
@@ -42,6 +42,6 @@ The biggest reason that Shea chose KW was that his goals were to dream big, to g
 
 What sets Shea apart as an agent now?<br><br>“I’ve created a team with multiple people who are able to help you no matter what. You don’t have an obligation to call just one person. All of my team is going to be communicating with you, making sure that the whole process is smooth. I also have knowledge of commercial, land development, industrial, and residential. We can help you with anything.”
 
-Shea still has friends in other brokerages, so he hears about the problems they face.<br><br>“The biggest thing that they’re probably afraid of is change. They’re top-producing agents who have created a business at their brokerage; having to move everything they’ve created scares them, I think,” he says of these other agents outside of KW.<br><br>**KW gives you the tools to get ahead of the market and change when it changes.**Quarterly market reports and statistics give the agents the ability to gauge how best to serve their clients in the current market.<br><br>“Our goal is to give what knowledge we have to our clients so that they can make the best decision for themselves,” says Shea.
+Shea still has friends in other brokerages, so he hears about the problems they face.<br><br>“The biggest thing that they’re probably afraid of is change. They’re top-producing agents who have created a business at their brokerage; having to move everything they’ve created scares them, I think,” he says of these other agents outside of KW.<br><br>**KW gives you the tools to get ahead of the market and change when it changes.&nbsp;**Quarterly market reports and statistics give the agents the ability to gauge how best to serve their clients in the current market.<br><br>“Our goal is to give what knowledge we have to our clients so that they can make the best decision for themselves,” says Shea.
 
 If you have any questions or are curious about working with Keller Williams, just give us a call or send us an email. We would be happy to help you!
