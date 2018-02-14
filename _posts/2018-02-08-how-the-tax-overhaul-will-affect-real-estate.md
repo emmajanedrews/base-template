@@ -15,7 +15,6 @@ youtube_alternate_image: /uploads/pb-2.jpg
 youtube_code: Js0q6g_xzpA
 ---
 
-
 {% include youtube.html %}
 
 There's a lot of uncertainty about The Tax Cuts and Jobs Act and its effect on real estate. Let’s first take a look at the four key tax changes impacting the housing market at this moment:
@@ -38,4 +37,4 @@ We'll have to see how the different changes play out in reality, and how they in
 
 On the bright side, home sellers do still get to take advantage of the home sales exclusion for capital gains. That is a major victory for real estate.
 
-<br>That's why **if you've been thinking of selling your home, now might be a good moment to start the process.** If you have any questions, whether you are buying or selling, you can always call me or shoot me an email. I can give you more specific recommendations based on your unique situation. I look forward to hearing from you soon.
+<br>That's why **if you've been thinking of selling your home, now might be a good moment to start the process.** If you have any questions, whether you are buying or selling, you can always call us or shoot us an email. We can give you more specific recommendations based on your unique situation. We look forward to hearing from you soon.
