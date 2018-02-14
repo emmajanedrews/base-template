@@ -1,9 +1,8 @@
 ---
 layout: post
 title: What’s Your Fiduciary Role as a Plan Sponsor?
-date: 2018-02-14 19:08:30
+date: 2018-02-14 19:08:00
 tags:
-  - 401K
 excerpt: >-
   If you are your plan’s fiduciary, there are a few things you should know. Let
   me explain.
@@ -27,7 +26,7 @@ Welcome back to another episode in our series on tracking retirement. Today we'r
 
 When we work with a client, we use a benchmarking process each year. Our investments are screened across 11 data points and we do this annually so that you can get the best price. You don’t have to make changes to your investments every year, but you have to go through the benchmarking process each year. If you don’t end up changing anything, you just need to fill out a document that states your reason for staying with your current vendors.
 
-In addition to vetting your vendors, you’ll also have to look at your investments.** It’s best to work with a professional who can do the heavy lifting for you when it comes to screening.**
+In addition to vetting your vendors, you’ll also have to look at your investments.\*\* It’s best to work with a professional who can do the heavy lifting for you when it comes to screening.\*\*
 
 {% include pullquote.html %}
 
@@ -36,5 +35,3 @@ In addition to vetting your vendors, you’ll also have to look at your investme
 Finally, let’s talk about investment selection. How many should you use in your plan? I’ve heard of people using 30, 50, or even 100 different investments. However, that’s not what you should do. You want to make sure your process is simple and repeatable. **The easiest way to do this is by thoroughly vetting and choosing 16 to 25 investments.**Fewer investments will also result in participants being less scared about using their plan and an overall increase in plan participation.
 
 If you have any questions for us about your fiduciary role or you want to take action and get started on a world-class 401(k) plan for your employees today, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.
-
-&nbsp;
