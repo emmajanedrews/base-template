@@ -21,13 +21,13 @@ youtube_code: Yx4CMqjsKyI
 
 Listen: There are loan programs for just about every person and every kind of deal these days.&nbsp;
 
-We’re all familiar with the cookie cutter loans such as FHA and Conventional, but today I’d like to talk about the other financing opportunities that are out there.
+We’re all familiar with the cookie-cutter loans such as FHA and Conventional, but today I’d like to talk about the other financing opportunities that are out there.
 
 First of all, **despite what some may have thought, No-Doc and Low-Doc loans are still available.** These loans are great options for people who are self-employed or those who don’t want to go through all the hoops of obtaining a traditional mortgage.
 
-There’s also the option of fix-and-flip or fix-and-hold loans. These are typically short-term interest only rehab loans. If you get your property up to FHA standards, you will likely be able to convert it to a more traditional mortgage with a better financing rate.
+There’s also the option of fix-and-flip or fix-and-hold loans. These are typically short-term interest-only rehab loans. If you get your property up to FHA standards, you will likely be able to convert it to a more traditional mortgage with a better financing rate.
 
-**As always, there are still options for first-time homebuyers, including down payment assistance.** Also, if the new home equity for purchase plan for buyers aged 62 and older is a great option with a loan down payment.
+**As always, there are still options for first-time homebuyers, including down payment assistance.** Also, the new home equity for purchase plan for buyers aged 62 and older is a great option with a loan down payment.
 
 {% include pullquote.html %}
 
