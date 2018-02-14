@@ -2628,7 +2628,8 @@ form label {
   display: block; }
 form textarea {
   display: block;
-  padding: 0.5rem; }
+  padding: 0.5rem;
+  border-radius: 5px; }
 form select {
   border: 1px solid #01AEAE;
   padding: 0.5rem;
@@ -2636,25 +2637,38 @@ form select {
 
 .home-value {
   max-width: 50rem;
+  background-color: #01AEAE;
   margin: 0 auto; }
+  .home-value label {
+    color: #fff; }
   .home-value input, .home-value textarea, .home-value select {
     width: 100%;
     border: 1px solid #01AEAE; }
   .home-value fieldset {
-    padding: 1.5rem; }
+    padding: 1.5rem;
+    border-radius: 5px; }
   .home-value input[type="submit"] {
     font-size: inherit;
     padding: 1rem;
-    border: 3px solid #01AEAE; }
+    border: 3px solid #fff;
+    color: #01AEAE;
+    background-color: #fff; }
     .home-value input[type="submit"]:hover {
-      border: 3px solid #17fefe; }
+      border: 3px solid #17fefe;
+      background-color: #17fefe;
+      color: #fff; }
+
+.asterisk {
+  color: #fff; }
 
 .contact-form {
-  width: 75%;
-  margin-left: 13%; }
+  width: 100%;
+  margin-bottom: 0; }
   .contact-form input, .contact-form textarea {
     width: 100%;
-    border: 1px solid gray; }
+    border: 1px solid gray;
+    -webkit-transition: 0.3s;
+    transition: 0.3s; }
   .contact-form:focus {
     color: transparent; }
   .contact-form textarea {
@@ -2662,17 +2676,16 @@ form select {
   .contact-form input[type="submit"] {
     font-size: 1.5rem;
     padding: 1rem;
-    border: 3px solid #01AEAE; }
+    border: 3px solid #01AEAE;
+    border-radius: 5px; }
     .contact-form input[type="submit"]:hover {
       background: #fff;
       color: #01AEAE;
       border: 1px solid #01AEAE; }
-
-.contact {
-  font-size: 24px;
-  margin-bottom: 20px;
-  margin-left: 13%;
-  margin-top: 20px; }
+    .contact-form input[type="submit"]:active {
+      box-shadow: 0 0 0 #01AEAE;
+      -webkit-transform: translateY(0rem);
+      transform: translateY(0rem); }
 
 .newsletter {
   background: #01AEAE;
@@ -2887,8 +2900,9 @@ form select {
 
 .recruiting-page {
   Font-size: 18px;
-  width: 75%;
-  margin: 0 auto; }
+  width: 50%;
+  margin: 0 auto;
+  color: #000; }
 
 .page-logo {
   width: 90%;
@@ -2901,3 +2915,17 @@ form select {
 .page-hero-img {
   background-position: center;
   background-size: cover; }
+
+.join-us {
+  font-weight: bold;
+  text-align: center;
+  width: 75%;
+  display: block;
+  margin: 0 auto; }
+
+.join-us-subtitle {
+  font-weight: 400;
+  text-align: center;
+  width: 75%;
+  display: block;
+  margin: 0 auto 2rem auto; }

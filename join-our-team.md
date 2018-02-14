@@ -5,14 +5,16 @@ permalink: /join-our-team/
 ---
 
 <div class="recruiting-page">
-					<div class="recruiting-photo"><span class="client-image-container"> <img alt="{{site.data.settings.client.name}}" class="client-image" src="/img/headshot.jpg" /> </span></div>
-				</div>
-
+<h1 class="join-us">Join One of the Fastest Growing Real Estate Teams in {{site.data.settings.client.market}}</h1>
+<h5 class="join-us-subtitle">How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</h5>
+<div class="recruiting-photo">
+<span class="client-image-container">
+<img src="/img/headshot.jpg" alt="{{site.data.settings.client.name}}" class="client-image"/>
+</span>
 <figcaption class="caption">{{site.data.settings.client.name}}</figcaption>
+</div>
 
-# Join One of the Fastest Growing Real Estate Teams in {{site.data.settings.client.market}}
-
-##### How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?
+<div class="markdown" markdown="1">
 
 Dear Real Estate Agent:
 
@@ -51,7 +53,6 @@ Here are some additional FAQs to give you a better idea of how our team function
 * **Why shouldn’t agents get too caught up in the word “split?”** Because what they should really look at is income, or their expected compensation and what they have to do for that compensation. When you can make $10,000 a month on our team without writing a single offer, that’s a valuable proposition.
 * **Where do you get all your leads?** Aside from referral leads, we’re plugged into all types of media and have a prominent presence on all the major real estate websites. The kind of money we spend on marketing most people can’t replicate for themselves. At the end of the day, you have to have the business to be able to spend the money, and we have the business.
 
-&nbsp;
 
 All this can be yours if you join our team. We care about your success—not just in our business, but in your own life as well. Reach out to us, and we would love to help you reach all of your personal and professional goals.
 
@@ -59,11 +60,9 @@ I look forward to hearing from you!
 
 Sarita Dua<br>[{{ site.data.settings.client.phone }}](tel:{{ site.data.settings.client.phone }})<br>[{{ site.data.settings.client.email }}](mailto:{{ site.data.settings.client.email }})<br>[{{ site.data.settings.client.url | remove: 'http://' | remove: 'https://' }}]({{ site.data.settings.client.url }})
 
-## Let's Make You More Money
-{: .recruiting}
+</div>
 
-#### Request a phone call - it does not cost a dime to talk.
-{: .recruiting}
+<h2 class="recruiting">Request a Free Business Planning Call</h2>
 
 <form method="post" class="home-value cta-forms" action="http://formspree.io/{{site.data.settings.client.email}}" onsubmit="return setReturn()">
 					<fieldset>
