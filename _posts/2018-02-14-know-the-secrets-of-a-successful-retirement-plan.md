@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Know the Secrets of a Successful Retirement Plan
-date: 2018-02-14 19:45:41
+date: 2018-02-14 19:45:00
 tags:
 excerpt: >-
   My new video series will teach you everything you need to know as a plan
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: UKzNnDumtjk
+youtube_code: YOY665-1qVo&
 ---
 
 {% include youtube.html %}
@@ -25,7 +25,7 @@ I ask this same question to employers sponsoring a 401(k) or 403(b) plan. Why ar
 
 I call it the probability question: Are you giving your employees the opportunity to make it to retirement with a high probability of success? Will they have enough money saved to replace their current paycheck and create retirement income for life?
 
-That’s what my video series is about. Over the course of the next year,** I’ll send you a series of videos talking about everything you need to know as a plan sponsor and how you can help your employees create retirement income for life.**
+That’s what my video series is about. Over the course of the next year,\*\* I’ll send you a series of videos talking about everything you need to know as a plan sponsor and how you can help your employees create retirement income for life.\*\*
 
 {% include pullquote.html %}
 
@@ -36,5 +36,3 @@ I’ll share with you everything I know from my 25 years of experience as an adv
 **For more information, check out my website [www.retirementcfo.com](www.retirementcfo.com).** If you’d like to learn about a next-generation retirement plan solution that can help you outsource over 90% of the liability and administrative headaches of running a retirement plan, check out [www.selectretirementplans.com.](www.selectretirementplans.com.)
 
 If you have any questions, don’t hesitate to reach out to me.
-
-&nbsp;
