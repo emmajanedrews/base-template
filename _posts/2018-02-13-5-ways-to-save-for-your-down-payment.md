@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 7 Ways to Save for Your Down Payment
-date: 2018-02-13 16:35:08
+title: 5 Ways to Save for Your Down Payment
+date: 2018-02-13 16:35:00
 tags:
 excerpt: >-
   If you are saving towards a down payment, there are several different ways you
@@ -12,8 +12,8 @@ pullquote: Every dollar counts.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/sandoval-youtube-3.jpg
-youtube_code: PTDneQnyn7g
+youtube_alternate_image: /uploads/sandoval-youtube-1-2.jpg
+youtube_code: J4f5dqOBBsc
 ---
 
 {% include youtube.html %}
@@ -31,9 +31,5 @@ If one of your goals for 2018 is to buy a new home, one of your main areas of co
 **4. Save your tax refund.** Depending on your work and income, this can be a nice chunk of change. Commit to putting this money away before you even receive it.
 
 **5. Get a cash rewards credit card.** Ditch your no-frills credit card for one with rewards. This is an easy way to earn extra if you pay your bills consistently.
-
-**6. Downsize your apartment.** Moving from a one-bedroom to a studio can save you a lot of money without sacrificing too much. This can also help you purge some unnecessary belongings. A smaller space also creates savings in energy costs.
-
-**7. Get a side gig.** You may think your current job is enough, but consider the opportunity cost. The hour you just spent watching television after work is $10 you could have made pouring coffee or driving an Uber. Every dollar counts.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
