@@ -1,13 +1,14 @@
 ---
 layout: post
 title: What to Expect From Mortgage Rates in 2018
-date: 2018-02-13 21:38:03
+date: 2018-02-13 21:38:00
 tags:
   - Real Estate
 excerpt: >-
   How will rising mortgage rates impact buyers in today’s market? My special
   guest, Austin Ingersoll from Academy Mortgage, has some key insight.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Rates+won%E2%80%99t+stay+put+for+long.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -34,12 +35,12 @@ Today I’m joined by Austin Ingersoll with our preferred lender Academy Mortgag
 
 3:17 - What do rate changes equate to in terms of purchase price?
 
-6:02 - Should you wait to buy?&nbsp;
+6:02 - Should you wait to buy?
 
 7:50 - Information about a new loan program called “The Academy Advantage.”
 
 9:28 - What is the definition of a first-time homebuyer?
 
-If you have any further questions for Austin, you can reach out to him at (801) 860-9307 or at **[austin.ingersoll@academymortgage.com](javascript:void(location.href='mailto:'+String.fromCharCode(97,117,115,116,105,110,46,105,110,103,101,114,115,111,108,108,64,97,99,97,100,101,109,121,109,111,114,116,103,97,103,101,46,99,111,109)))**.&nbsp;
+If you have any further questions for Austin, you can reach out to him at (801) 860-9307 or at **[austin.ingersoll@academymortgage.com](javascript:void(location.href='mailto:'+String.fromCharCode(97,117,115,116,105,110,46,105,110,103,101,114,115,111,108,108,64,97,99,97,100,101,109,121,109,111,114,116,103,97,103,101,46,99,111,109)))**.
 
-And as always, if you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
+And as always, if you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.<br>
