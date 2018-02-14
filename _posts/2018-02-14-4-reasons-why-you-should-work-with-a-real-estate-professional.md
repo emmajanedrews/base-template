@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Reasons Why You Should Work With a Real Estate Professional
-date: 2018-02-14 17:17:02
+date: 2018-02-14 17:17:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 8D4SxK3kQqI
+youtube_code: 'https://youtu.be/8D4SxK3kQqI'
 ---
 
 {% include youtube.html %}
