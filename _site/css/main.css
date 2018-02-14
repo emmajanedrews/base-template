@@ -1752,7 +1752,7 @@ html {
     opacity: 1; } }
 body {
   font-family: "Source Sans Pro", helvetica, arial, sans-serif;
-  color: #353535;
+  color: #000;
   margin: 0;
   background: #ffffff;
   -webkit-animation: 1s ease-in-out fadein;
@@ -2673,7 +2673,7 @@ table tr, table td {
 
 .recruiting-page {
   Font-size: 18px;
-  width: 75%;
+  width: 50%;
   margin: 0 auto; }
 
 .page-logo {
@@ -2687,6 +2687,20 @@ table tr, table td {
 .page-hero-img {
   background-position: center;
   background-size: cover; }
+
+.join-us {
+  font-weight: bold;
+  text-align: center;
+  width: 75%;
+  display: block;
+  margin: 0 auto; }
+
+.join-us-subtitle {
+  font-weight: 400;
+  text-align: center;
+  width: 75%;
+  display: block;
+  margin: 0 auto 2rem auto; }
 
 form label {
   display: block; }
