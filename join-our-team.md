@@ -5,18 +5,16 @@ permalink: /join-our-team/
 ---
 
 <div class="recruiting-page">
-					<div class="recruiting-photo"><span class="client-image-container"> <img alt="Dan Stephenson" class="client-image" src="/img/headshot2.jpg" /> </span></div>
-				</div>
+<h1 class="join-us">Join One of the Fastest Growing Real Estate Teams in {{site.data.settings.client.market}}</h1>
+<h5 class="join-us-subtitle">How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</h5>
+					<div class="recruiting-photo"><span class="client-image-container"> <img alt="Dan Stephenson" class="client-image" src="/img/headshot2.jpg" /> </span><figcaption class="caption">Dan Stephenson</figcaption></div>
 
-<figcaption class="caption">Dan Stephenson</figcaption>
 
-<div class="recruiting-photo"><span class="client-image-container"> <img alt="Shawn O'Neill" class="client-image" src="/img/headshot.jpg" /> </span></div>
 
-<figcaption class="caption">Shawn O'Neill</figcaption>
+<div class="recruiting-photo"><span class="client-image-container"> <img alt="Shawn O'Neill" class="client-image" src="/img/headshot.jpg" /> </span><figcaption class="caption">Shawn O'Neill</figcaption></div>
 
-# Join One of the Fastest Growing Real Estate Teams in {{site.data.settings.client.market}}
 
-##### How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?
+<div class="markdown" markdown="1">
 
 Dear Real Estate Agent,
 
@@ -62,11 +60,9 @@ I look forward to hearing from you!
 
 Shawn O'Neill<br>[{{ site.data.settings.client.phone }}](tel:{{ site.data.settings.client.phone }})<br>[{{ site.data.settings.client.email }}](mailto:{{ site.data.settings.client.email }})<br>[{{ site.data.settings.client.url | remove: 'http://' | remove: 'https://' }}]({{ site.data.settings.client.url }})
 
-## Let's Make You More Money
-{: .recruiting}
+</div>
 
-#### Request a phone call - it does not cost a dime to talk.
-{: .recruiting}
+<h2 class="recruiting">Request a Free Business Planning Call</h2>
 
 <form method="post" class="home-value cta-forms" action="http://formspree.io/{{site.data.settings.client.email}}" onsubmit="return setReturn()">
 					<fieldset>
