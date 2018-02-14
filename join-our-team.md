@@ -5,14 +5,16 @@ permalink: /join-our-team/
 ---
 
 <div class="recruiting-page">
-					<div class="recruiting-photo"><span class="client-image-container"> <img alt="{{site.data.settings.client.name}}" class="client-image" src="/img/headshot.jpg" /> </span></div>
-				</div>
-
+<h1 class="join-us">Join One of the Fastest Growing Real Estate Teams in {{site.data.settings.client.market}}</h1>
+<h5 class="join-us-subtitle">How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</h5>
+<div class="recruiting-photo">
+<span class="client-image-container">
+<img src="/img/headshot.jpg" alt="{{site.data.settings.client.name}}" class="client-image"/>
+</span>
 <figcaption class="caption">{{site.data.settings.client.name}}</figcaption>
+</div>
 
-# Join One of the Fastest Growing Real Estate Teams in {{site.data.settings.client.market}}
-
-##### How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?
+<div class="markdown" markdown="1">
 
 Dear Frustrated Real Estate Agent,
 
@@ -44,15 +46,11 @@ Whether you are a new agent, an experienced one, or are just thinking of enterin
 * Discounts on Mike Ferry training seminars
 * 1,000 business cards per year
 
-&nbsp;
-
 By joining BHHS and The Michael Kaim Team, you’ll be on the fast track to success and 40+ deals per year. **Here are your alternatives:**
 
 1. You can work for a competing broker and go out on your own. But, you have to pay for all marketing, lead systems, office/desk space, etc.
 2. You can work for Berkshire Hathaway as an independent agent. However, you will have to process all of your listings and contracts on your own.
 3. You can join a "new" team that is just starting and learning to set up the systems. The same systems and solutions we have had in place for 16 years.
-
-&nbsp;
 
 You could also always try staying with your current brokerage and applying our concepts from scratch. But, why risk trying to replicate our success when you could simply join us?
 
@@ -65,8 +63,6 @@ If you join us, we can offer the following splits:
 * 5% increases at two of the following three milestones: 15 Units, $2.5 million in Volume, $75,000 in GCI.
 * 60% of the Total GCI for self-generated buyer/seller leads for any agent who sells over $4 million the prior calendar year.
 
-&nbsp;
-
 You also may be interested in having a look at some of our most frequently asked questions like, “Why are your commission splits different from your competitors?” or “Will you provide me with leads?”
 
 We can answer those questions for you and any other questions you may have about our team if you just give us a call or send us an email today. We look forward to hearing from you soon.
@@ -75,11 +71,9 @@ Regards,
 
 Michael Kaim<br>[{{ site.data.settings.client.phone }}](tel:{{ site.data.settings.client.phone }})<br>[{{ site.data.settings.client.email }}](mailto:{{ site.data.settings.client.email }})<br>[{{ site.data.settings.client.url | remove: 'http://' | remove: 'https://' }}]({{ site.data.settings.client.url }})
 
-## Let's Make You More Money
-{: .recruiting}
+</div>
 
-#### Request a phone call - it does not cost a dime to talk.
-{: .recruiting}
+<h2 class="recruiting">Request a Free Business Planning Call</h2>
 
 <form method="post" class="home-value cta-forms" action="http://formspree.io/{{site.data.settings.client.email}}" onsubmit="return setReturn()">
 					<fieldset>
