@@ -76,7 +76,7 @@ Now is the time to turn around your life and career. If you are a motivated indi
 
 I look forward to talking with you soon.
 
-Kati Spaniak<br>[{{ site.data.settings.client.phone }}](tel:{{ site.data.settings.client.phone }})<br>[{{ site.data.settings.client.email }}](mailto:{{ site.data.settings.client.email }})<br>[{{ site.data.settings.client.url | remove: 'http://' | remove: 'https://' }}]({{ site.data.settings.client.url }})
+Kati Spaniak<br>[{{ site.data.settings.client.phone }}](tel:{{ site.data.settings.client.phone }})<br>[careers@spaniakteam.com](mailto:careers@spaniakteam.com)<br>[{{ site.data.settings.client.url | remove: 'http://' | remove: 'https://' }}]({{ site.data.settings.client.url }})
 
 </div>
 
