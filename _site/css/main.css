@@ -1490,7 +1490,8 @@ html[xmlns] .flexslider .slides {
   color: #fff;
   text-transform: capitalize;
   font-size: 2rem;
-  font-weight: 300; }
+  font-weight: 300;
+  margin-top: 15px; }
   .navbar-left > li > a:hover {
     background: #eeeeee;
     color: #810101; }
