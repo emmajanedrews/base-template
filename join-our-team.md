@@ -5,16 +5,18 @@ permalink: /join-our-team/
 ---
 
 <div class="recruiting-page">
-					<div class="recruiting-photo"><span class="client-image-container"> <img alt="{{site.data.settings.client.name}}" class="client-image" src="/img/headshot.jpg" /> </span></div>
-				</div>
-
+<h1 class="join-us">Chicagoland Real Estate Career: Apply Now</h1>
+<h5 class="join-us-subtitle">Looking for a rewarding real estate career in Chicago, IL? We’re hiring in the Northern Chicagoland which includes the North Shore, Northwest suburbs, and Lake County! Get the culture, leads, accountability, processes, and strategies to sell homes. Make a great living. Training provided. No experience necessary. Flexible hours. Sell your first home in 90 days guaranteed. <strong>Apply now.</strong></h5>
+<hr>
+<h5 class="join-us-subtitle">Meet with us for a business planning meeting</h5>
+<div class="recruiting-photo">
+<span class="client-image-container">
+<img src="/img/headshot.jpg" alt="{{site.data.settings.client.name}}" class="client-image"/>
+</span>
 <figcaption class="caption">{{site.data.settings.client.name}}</figcaption>
+</div>
 
-# Chicagoland Real Estate Career: Apply Now
-
-Looking for a rewarding real estate career in Chicago, IL? We’re hiring in the Northern Chicagoland which includes the North Shore, Northwest suburbs, and Lake County! Get the culture, leads, accountability, processes, and strategies to sell homes. Make a great living. Training provided. No experience necessary. Flexible hours. Sell your first home in 90 days guaranteed. **Apply now.**
-
-##### Meet with us for a business planning meeting
+<div class="markdown" markdown="1">
 
 Dear Real Estate Agent:
 
@@ -76,11 +78,9 @@ I look forward to talking with you soon.
 
 Kati Spaniak<br>[{{ site.data.settings.client.phone }}](tel:{{ site.data.settings.client.phone }})<br>[{{ site.data.settings.client.email }}](mailto:{{ site.data.settings.client.email }})<br>[{{ site.data.settings.client.url | remove: 'http://' | remove: 'https://' }}]({{ site.data.settings.client.url }})
 
-## Let's Make You More Money
-{: .recruiting}
+</div>
 
-#### Request a phone call - it does not cost a dime to talk.
-{: .recruiting}
+<h2 class="recruiting">Request a Free Business Planning Call</h2>
 
 <form method="post" class="home-value cta-forms" action="http://formspree.io/{{site.data.settings.client.email}}" onsubmit="return setReturn()">
 					<fieldset><label for="firstname">First Name*</label> <input type="text" required="" name="firstname" /> <label for="lastname">Last Name*</label> <input type="text" required="" name="lastname" /> <label for="email">Email*</label> <input type="text" name="name" /> <label for="phone">Phone Number </label> <input type="tel" name="phone" />
