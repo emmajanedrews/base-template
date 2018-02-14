@@ -88,6 +88,50 @@ permalink: /join-our-team/
 
 <p>If you’re tired of empty promises, high fees, and training programs that don’t translate to real commissions, please call me. We’ll schedule a free, no-obligation conversation to talk about your career, your aspirations, and whether or not Abby Realty is the right environment to get you where you want to be. </p>
 
+<div class="row">
+		<div class="col-md-2">
+			<div class="client-image-container">
+				<img src="{{site.data.settings.images.team_headshot_1 }}" alt="{{site.data.settings.client.company}}" class="client-image" id="team-pic" />
+			</div>
+			<div class="contact-text"><strong>Adam Olsen</strong>
+			</div>
+		</div>
+		<div class="col-md-2">
+			<div class="client-image-container">
+				<img src="{{site.data.settings.images.team_headshot_2 }}" alt="{{site.data.settings.client.company}}" class="client-image" id="team-pic" />
+			</div>
+			<div class="contact-text"><strong>Anh Jorgensen</strong>
+			</div>
+		</div>
+		<div class="col-md-2">
+			<div class="client-image-container">
+				<img src="{{site.data.settings.images.team_headshot_3 }}" alt="{{site.data.settings.client.company}}" class="client-image" id="team-pic" />
+			</div>
+			<div class="contact-text"><strong>Denise Tilley</strong>
+			</div>
+		</div>
+    <div class="col-md-2">
+			<div class="client-image-container">
+				<img src="{{site.data.settings.images.team_headshot_4 }}" alt="{{site.data.settings.client.company}}" class="client-image" id="team-pic" />
+			</div>
+			<div class="contact-text"><strong>Liz Smith</strong>
+			</div>
+		</div>
+    <div class="col-md-2">
+			<div class="client-image-container">
+				<img src="{{site.data.settings.images.team_headshot_5 }}" alt="{{site.data.settings.client.company}}" class="client-image" id="team-pic" />
+			</div>
+			<div class="contact-text"><strong>Michelle Eubanks</strong>
+			</div>
+		</div>
+    <div class="col-md-2">
+			<div class="client-image-container">
+				<img src="{{site.data.settings.images.team_headshot_6 }}" alt="{{site.data.settings.client.company}}" class="client-image" id="team-pic" />
+			</div>
+			<div class="contact-text"><strong>Trina Hoffland</strong>
+			</div>
+		</div>
+  </div>
 
 <hr>
 

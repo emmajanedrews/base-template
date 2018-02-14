@@ -2614,7 +2614,8 @@ form label {
   display: block; }
 form textarea {
   display: block;
-  padding: 0.5rem; }
+  padding: 0.5rem;
+  border-radius: 5px; }
 form select {
   border: 1px solid #00509f;
   padding: 0.5rem;
@@ -2622,25 +2623,38 @@ form select {
 
 .home-value {
   max-width: 50rem;
+  background-color: #00509f;
   margin: 0 auto; }
+  .home-value label {
+    color: #fff; }
   .home-value input, .home-value textarea, .home-value select {
     width: 100%;
     border: 1px solid #00509f; }
   .home-value fieldset {
-    padding: 1.5rem; }
+    padding: 1.5rem;
+    border-radius: 5px; }
   .home-value input[type="submit"] {
     font-size: inherit;
     padding: 1rem;
-    border: 3px solid #00509f; }
+    border: 3px solid #fff;
+    color: #00509f;
+    background-color: #fff; }
     .home-value input[type="submit"]:hover {
-      border: 3px solid #0683ff; }
+      border: 3px solid #0683ff;
+      background-color: #0683ff;
+      color: #fff; }
+
+.asterisk {
+  color: #fff; }
 
 .contact-form {
-  width: 75%;
-  margin-left: 13%; }
+  width: 100%;
+  margin-bottom: 0; }
   .contact-form input, .contact-form textarea {
     width: 100%;
-    border: 1px solid gray; }
+    border: 1px solid gray;
+    -webkit-transition: 0.3s;
+    transition: 0.3s; }
   .contact-form:focus {
     color: transparent; }
   .contact-form textarea {
@@ -2648,17 +2662,16 @@ form select {
   .contact-form input[type="submit"] {
     font-size: 1.5rem;
     padding: 1rem;
-    border: 3px solid #00509f; }
+    border: 3px solid #00509f;
+    border-radius: 5px; }
     .contact-form input[type="submit"]:hover {
       background: #fff;
       color: #00509f;
       border: 1px solid #00509f; }
-
-.contact {
-  font-size: 24px;
-  margin-bottom: 20px;
-  margin-left: 13%;
-  margin-top: 20px; }
+    .contact-form input[type="submit"]:active {
+      box-shadow: 0 0 0 #00509f;
+      -webkit-transform: translateY(0rem);
+      transform: translateY(0rem); }
 
 .newsletter {
   background: #00509f;
@@ -2827,8 +2840,18 @@ form select {
 
 .team-image-container {
   border-radius: 50%;
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   border: 3px solid #00509f;
   overflow: hidden;
-  display: inline; }
+  display: inline;
+  padding: 20px; }
+
+.headshot-name {
+  font-size: 2rem;
+  font-weigh: 200;
+  text-transform: uppercase;
+  text-align: center; }
+
+.team-pic {
+  margin: 20px; }

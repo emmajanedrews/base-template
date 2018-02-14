@@ -5,8 +5,8 @@
     <description>A Video Blog about Houston Metro Area Real Estate; its industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 12 Feb 2018 11:17:04 -0600</pubDate>
-    <lastBuildDate>Mon, 12 Feb 2018 11:17:04 -0600</lastBuildDate>
+    <pubDate>Wed, 14 Feb 2018 12:35:21 -0600</pubDate>
+    <lastBuildDate>Wed, 14 Feb 2018 12:35:21 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
   </channel>
