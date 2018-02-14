@@ -15,11 +15,11 @@ permalink: /join-our-team/
 
 <p>Dear Real Estate Agent: </p>
 
-<p>I understand that you may be working at a brokerage or are a newer agent just recently getting started. </p>
+<p>I understand that you may be working at a brokerage or you’re a newer agent just recently getting started. </p>
 
 <p>For some people, this can be painful. Many brokerages care about the number of the agents they have, but care very little about fostering successful careers. When you work for these brokerages, there is often a lack of income, leads, support, and training.</p>
 
-<p>In fact, statistics show that nine out of every 10 agents will fail out of the business within their first five years. Agents like this run out of money, get distracted, and fall flat in their career due to a lack of support</p>
+<p>In fact, statistics show that nine out of every 10 agents will fail out of the business within their first five years. Agents like this run out of money, get distracted, and fall flat in their career due to a lack of support.</p>
 
 <p>Perhaps your first year as an agent was semi-successful because you extracted your leads from people in your life who you already know. But eventually, all agents in this situation will run out of friends and cousins. The next thing you know, you will have exhausted your database without a clue about where to go next. </p>
 
@@ -29,15 +29,15 @@ permalink: /join-our-team/
 
 <p>Alternatively, you could give up. You could leave the industry and start working at a 9 to 5 job, putting in hours toward something you likely don’t have a passion for. But, it doesn’t have to be that way. You don’t have to turn to a big brokerage and you don’t have to give up. </p>
 
-<p>My name is Becky Ivins and I’ve sold real estate for the past 40 years. I successfully worked as a solo agent for 27 years before building my current team. During that time,I was selling an average of 35 homes per year while raising four children. Suffice to say, I have a lot of knowledge about real estate and balancing work and life. </p>
+<p>My name is Becky Ivins and I’ve sold real estate for the past 40 years. I successfully worked as a solo agent for 27 years before building my current team. During my solo career, I was selling an average of 35 homes per year while raising four active children. Suffice to say, I have a lot of knowledge about real estate and balancing work and life. </p>
 
 <p>My team isn’t the large brokerage you may have encountered elsewhere. We are small, but we are extremely effective in what we do. Each and every one of my team members are truly there for one another. Everyone knows their role and everyone is pulling on the same end of the rope, working toward a common goal. </p>
 
-<p>Right now, my two agents are getting over a hundred leads a month each—far too many for them to handle on their own. While some teams struggle to turn up viable leads, we have them in excess. At Movers Real Estate, we strive to take care of each other and our clients. On our team, you are not just another number—you are a person who we want to help succeed. </p>
+<p>Right now, my two buyer agents are getting over a hundred leads a month each—far too many for them to handle on their own. While some teams struggle to turn up viable leads, we have them in excess. At Movers Real Estate, we strive to take care of each other and our clients. On our team, you are not just another number—you are a person who we want to help succeed. </p>
 
 <p>I want to offer you a position on our team.</p>
 
-<p>We will begin to set you up for success on day one. When you begin our onboarding process, we will take your sphere of influence list and insert it into our marketing system. This way, we can announce that you’ve joined our team and send a written postcard or email to your sphere. </p>
+<p>We will begin to set you up for success on day one. When you begin our onboarding process, we will take your sphere of influence list and insert it into our marketing system. This way, we can announce that you’ve joined our team and send a written postcard and email to your sphere. </p>
 
 <p>After that, you will work through a minimum of six transactions with me personally. I will explain each step of the process, help you perfect your communication skills through scripting, and then have you shadow me or another current agent for three weeks. </p>
 
@@ -47,11 +47,11 @@ permalink: /join-our-team/
 
 <p>That being said, I’m only looking for those who have the potential to be the best. I want to foster the career of someone who is willing to work full-time, is willing to follow my proven system, and who is looking for leads. </p>
 
-<p>If you implement the specific weekly schedule I lay out for my agents, which involves spending seven hours a week on prospecting calls and five hours a week on follow-ups, I guarantee that you’ll see 30 to 35 leads per month and make a minimum of $50,000 in your first year on my team. Each month, I offer a split which gives you 40% on the first transaction, 45% on the second, and 50% on the third and following transactions.</p>
+<p>If you implement the specific weekly schedule I lay out for my agents, which involves spending seven hours a week on prospecting calls and five hours a week on follow-ups, I guarantee that you’ll see 30 to 35 leads per month and make a minimum of $50,000 in your first year on my team. Each month, I offer a split which gives you 40% on the first transaction, 45% on the second, and 50% on the third and following transactions. Do other brokerages offer a higher split? Yes, but they don’t offer much else. My buyer agents close between 25-50 transactions each year. My licensed staff handles the details for you so that all you have to do is prospect, follow up, show and sell.</p>
 
-<p>If you respond right now, you will get leads right away. The leads I offer you will result in closings. All I ask is that you follow through. On top of that, you will be taught how to perfect buyer presentation, how to do open houses, how to be effective and time-sensitive, how to show houses, and, overall, how to improve as an agent. </p>
+<p>If you respond right now, you will get leads right away. The leads I offer you will result in closings. All I ask is that you follow through. On top of that, you will be taught how to perfect your buyer presentation, how to do open houses the right way so they result in good leads, how to be effective and time-sensitive, how to show houses, and, overall, how to improve as an agent. </p>
 
-<p>Throughout this training, I will give you my personal assistance at multiple points. I will go with you to your first open house, I will be there with you for your first prospecting call, and I will help you hone your communication skills through scripting. There is no such thing as a watered-down training experience on my team.</p>
+<p>Throughout this training, I will give you my personal assistance at multiple points. I will go with you to your first open house, I will be there with you for your first prospecting calls, and I will help you hone your communication skills through scripting. There is no such thing as a watered-down training experience on my team.</p>
 
 <p>If you want to join a team that cares about your success, will provide you the tools you need to reach it, and will allow you to enjoy a life outside of your career, apply today.</p>
 
