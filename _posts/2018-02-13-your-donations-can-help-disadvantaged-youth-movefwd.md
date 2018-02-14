@@ -63,7 +63,7 @@ Kids can stop into the drop-in center every day for support, which is open Monda
 
 The John Schuster Group is very excited to lend its support to this program by donating a portion of our commissions to help fund the aims of the organization. **There is an immediate need right now for donations in the form of gift cards to places like Target, Chipotle, and Uber.** Additionally, donations of toiletries like ethnic hair care products are appreciated, as well as anything you’d think you’d need if you were moving into a studio-style apartment.
 
-We’re proud to have partnered with such an important community service. **We find that it’s important for everybody to have a place to live.** If you’d like to help out with the program, please feel free to reach out the program at http://movefwdmn.org/.
+We’re proud to have partnered with such an important community service. **We find that it’s important for everybody to have a place to live.** If you’d like to help out with the program, please feel free to reach out the program at [http://movefwdmn.org/](http://movefwdmn.org/).
 
 For any questions about real estate, you can reach out to the John Schuster group directly. We’d be happy to help you.
 
