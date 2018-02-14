@@ -25,7 +25,7 @@ So, how is the market doing?
 
 We just listed a patio home in Oro Valley. This was a very nice 3-bedroom, 2-bathroom patio home. In the first seven days, we got three offers. **Two of the offers were cash, and the one we accepted was $25,000 over list price.** That just gives you an idea of how hot our market is.
 
-**Interest rates are just over 4%.**They have been bouncing up and down a bit with the stock market and bond market changes, but they are still good rates.
+Interest rates are just over 4%.They have been bouncing up and down a bit with the stock market and bond market changes, but they are still good rates.
 
 New loan applications are up about 4% compared to this time a year ago, which means that more people are applying for home loans and refinancing.
 
