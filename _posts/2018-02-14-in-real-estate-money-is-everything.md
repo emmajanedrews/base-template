@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 'In Real Estate, Money Is Everything'
-date: 2018-02-14 20:26:40
+date: 2018-02-14 20:26:00
 tags:
+  - Market Update
 excerpt: >-
   You should be prepared for the 2018 real estate market. Here’s what you need
   to know about the factors affecting it.
@@ -24,7 +25,7 @@ Some people say real estate is all about location, location, location. **In my o
 
 First, the money that is available through jobs and wages. Statistics show that our unemployment rate is decreasing, but it can be very misleading because the replacement jobs are not in the same salary range. This statistic also doesn’t show who has had their hours cut back, who is on furlough, and who is receiving reduced salaries and bonuses. On the other side, there are good things that we’re not hearing about, such as what’s going on in the fracking and drilling market.
 
-Secondly, the money that is available from banks. The impact of stricter lending criteria and higher rates mean there is less money available for buyers. This will push demand for the lower-priced detached homes even higher. If you have a home you’re looking to sell, there is a great opportunity here to be a move-up buyer.&nbsp;
+Secondly, the money that is available from banks. The impact of stricter lending criteria and higher rates mean there is less money available for buyers. This will push demand for the lower-priced detached homes even higher. If you have a home you’re looking to sell, there is a great opportunity here to be a move-up buyer.
 
 {% include pullquote.html %}
 
