@@ -12,7 +12,7 @@ If you need help implementing any of this or would like to discuss how we can wo
 
 **Prospecting to Profits: Warm & Cold Calls made Easy, January 2018** — [Video](http://prospectingtoprofits.pagedemo.co/) — [Resources](https://www.dropbox.com/sh/jawh3ts46yi9xbw/AAD27BTKHZjBIg5KjCN9xM2Na?dl=0)
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/vZhWv3lzrkk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vZhWv3lzrkk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 One of the most important things to do when discussing lead generation is getting into the right mindset. Working by referral-only is great if you’re not looking to grow your business. That said, if you’re looking to grow your income with more leads and generate more referral opportunities, I encourage you to watch this 30-minute webinar discussing prospecting to profits: Warm & Cold Call Made Easy.
 
