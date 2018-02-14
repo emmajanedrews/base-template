@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 ### Real Estate Agent Webinars
 
 The CORE Training is a mortgage and real estate coaching company that provides mentoring and coaching to mortgage lenders and real estate agents from all over the country. The CORE helps real estate agents and mortgage lenders accumulate wealth, net more income, and run more efficient teams and business. If you are serious about building a great real estate business, then check out the training videos and resource folders below.
@@ -15,11 +14,11 @@ If you need help implementing any of this or would like to discuss how we can wo
 
 One of the most important things to do when discussing lead generation is getting into the right mindset. Working by referral-only is great if you’re not looking to grow your business. That said, if you’re looking to grow your income with more leads and generate more referral opportunities, I encourage you to watch this 30-minute webinar discussing prospecting to profits: Warm & Cold Call Made Easy.
 
-<iframe width="905" height="470" src="https://www.youtube.com/embed/bKZXiuz628g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-
-### &nbsp;
+&nbsp;
 
 ### Previous Webinars:
+
+**Prospecting to Profits: Warm & Cold Calls made Easy, January 2018**— [Video](https://youtu.be/bKZXiuz628g) — [Resources](https://www.dropbox.com/sh/jawh3ts46yi9xbw/AAD27BTKHZjBIg5KjCN9xM2Na?dl=0)
 
 **Systems to Ensure a Strong First Quarter in 2018, December 2017** — [Video](https://www.youtube.com/watch?v=-5F4moNvyfk&amp;feature=youtu.be) — [Resources](https://www.dropbox.com/sh/owtbnkctwl6aw0m/AAARvirtZivCfmkTAekkOqLta?dl=0)
 
