@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s Happening in the Hoboken Real Estate Market?
-date: 2018-02-08 11:15:05
+date: 2018-02-08 11:15:00
 tags:
 excerpt: >-
   How did the Hoboken real estate market do this January? I’ve got your market
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/riolo-youtube-6.jpg
-youtube_code: mkPPSMQxqAs
+youtube_code: '-dfKNgIIp88'
 ---
 
 {% include youtube.html %}
