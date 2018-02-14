@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our Instructions for Conventional Loan Gift Funds
-date: Invalid date
+date: 2018-02-14 15:00:00
 tags:
 excerpt: >-
   Using gift funds for a conventional loan can be simple if you follow our
