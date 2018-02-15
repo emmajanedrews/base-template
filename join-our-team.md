@@ -4,14 +4,14 @@ title: Join Our Team
 permalink: /join-our-team/
 ---
 <div class="recruiting-page">
+<h1 class="join-us">Join One of the Fastest Growing Real Estate Teams in {{site.data.settings.client.market}}</h1>
+<h5 class="join-us-subtitle">How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</h5>
 <div class="recruiting-photo">
-   <span class="client-image-container">
-    <img src="/img/headshot.jpg" alt="{{site.data.settings.client.name}}" class="client-image"/>
-  </span>
+<span class="client-image-container">
+<img src="/img/headshot.jpg" alt="{{site.data.settings.client.name}}" class="client-image"/>
+</span>
 <figcaption class="caption">{{site.data.settings.client.name}}</figcaption>
 </div>
-<h1>Join One of the Fastest Growing Real Estate Teams in {{site.data.settings.client.market}}</h1>
-<h5>How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</h5>
 
 
 <p>Dear Frustrated Real Estate Agent,</p>
@@ -59,8 +59,7 @@ permalink: /join-our-team/
 </p>
 
 
-<h2 class="recruiting">Let's Make You More Money</h2>
-<h4 class="recruiting">Request a phone call - it does not cost a dime to talk.</h4>
+<h2 class="recruiting">Request a Free Business Planning Call</h2>
 <form method="post" class="home-value cta-forms" action="http://formspree.io/{{site.data.settings.client.email}}" onsubmit="return setReturn()">
     <fieldset>
         <p id="thanks"></p>
