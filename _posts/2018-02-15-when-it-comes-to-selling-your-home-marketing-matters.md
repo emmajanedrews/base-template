@@ -30,7 +30,7 @@ There may not necessarily be just one way to market your home, but there is a wr
 
 {% include pullquote.html %}
 
-To see an example of good marketing, [click here](http://virtual203.com/36cooke-carbutti/). There, you can see a storyboard we created for a property here in Wallingford, Connecticut. You can see aerial views, floor plans, and you can take a real-time, 3-D walkthrough of the home on your laptop or phone. This was actually a property that was listed with another agency. We re-marketed the property and came up with an effective marketing strategy.
+To see an example of good marketing, visit [www.36cookerroad.com](http://virtual203.com/36cooke-carbutti/). There, you can see a storyboard we created for a property here in Wallingford, Connecticut. You can see aerial views, floor plans, and you can take a real-time, 3-D walkthrough of the home on your laptop or phone. This was actually a property that was listed with another agency. We re-marketed the property and came up with an effective marketing strategy.
 
 Not every home will be marketed the same way. You need to take a unique approach depending on what your objective is and what type of property you have. That’s where experience and reference points matter.
 
