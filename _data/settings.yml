@@ -7,8 +7,14 @@ custom_links:
     url: /about/
   - title: Our Agents
     url: https://www.ajteamrealty.com/agents/
-  - title: Training and Interviews
+  - title: Training
     url: /agent-interviews/
+  - title: Interviews
+    url: /agent-interviews/
+  - title: Coaching Program
+    url: https://www.ajteamrealty.com/careers/
+  - title: Apply Now
+    url: https://wizehire.com/job/real-estate-sales-buyers-agent-in-woodbridge-va-5c28dad8bfe868eb?utm_source=jobroll&utm_medium=feed&utm_campaign=partners
 client:
   name: Allen Johnson
   license_number:
@@ -18,11 +24,11 @@ client:
   brand: AJ Team Realty
   brokerage: Keller Williams Realty
   address: 4310 Prince William Pkwy Ste 200 Woodbridge, VA 22192
-  phone: 703-991-7900
+  phone: 703-910-5900
   phone_type:
   phone2:
   phone2_type:
-  email: info@AJTeamRealty.com
+  email: careers@AJTeamRealty.com
   url: AJTeamRealty.com
 
 sidebar_CTA:
@@ -82,7 +88,7 @@ images:
   logo_width_number: 50
   hero_text:
   hero_background_hex: '#999'
-  hero_image_path: /img/background.jpg
+  hero_image_path: /img/background5.jpg
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#BC151C'
