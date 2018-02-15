@@ -27,7 +27,7 @@ Here’s a test: Go to the Facebook page of any member of your real estate compa
 
 {% include pullquote.html %}<br><br>You need to **make sure that your social media profiles are consumer-friendly.** In order to maintain a page that is palatable to anyone who is likely to look you up, stay away from controversial topics like politics and religion. Those topics will alienate 50% of people no matter what you do.
 
-**Make your profile inviting.**It’s okay to keep it personal, just make sure that when you engage with people, you’re doing so in a professional manner.
+**Make your profile inviting.&nbsp;**It’s okay to keep it personal, just make sure that when you engage with people, you’re doing so in a professional manner.
 
 Even when you’re out in public on your time off, you can still have fun and dress casually, but don’t dress in a way that will put people off. Avoid wearing torn or dirty clothes and keep your car clean; **people are very responsive to appearance,** and it may put them off doing business with you. You never know what can turn the public against you.
 
