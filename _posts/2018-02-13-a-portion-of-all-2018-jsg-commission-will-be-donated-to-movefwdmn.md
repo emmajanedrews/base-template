@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Your Donations Can Help Disadvantaged Youth MoveFwd
-date: 2018-02-13 17:00:01
+title: A Portion Of All 2018 JSG Commission Will Be Donated To MoveFWDMN
+date: 2018-02-13 17:00:00
 tags:
   - Real Estate
 excerpt: >-
-  We are super excited to announce that the John Shuster Group has aligned
+  We are super excited to announce that the John Schuster Group has aligned
   itself with a great nonprofit organization called MoveFwd. The group’s aims
   match our mission statement and our core values, which include gratitude. Out
   of gratitude comes generosity, and we want to give back to the community. 
@@ -41,7 +41,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/john-s-youtube-6.jpg
+youtube_alternate_image: /uploads/john-s-2-youtube.jpg
 youtube_code: 9TEW1dSWtOY
 ---
 
@@ -66,5 +66,3 @@ The John Schuster Group is very excited to lend its support to this program by d
 We’re proud to have partnered with such an important community service. **We find that it’s important for everybody to have a place to live.** If you’d like to help out with the program, please feel free to reach out the program at [http://movefwdmn.org/](http://movefwdmn.org/).
 
 For any questions about real estate, you can reach out to the John Schuster group directly. We’d be happy to help you.
-
-&nbsp;
