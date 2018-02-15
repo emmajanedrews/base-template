@@ -6,12 +6,12 @@ tags:
   - Real Estate
 excerpt: >-
   We are super excited to announce that the John Schuster Group has aligned
-  itself with a great nonprofit organization called MoveFwd. The group’s aims
-  match our mission statement and our core values, which include gratitude. Out
-  of gratitude comes generosity, and we want to give back to the community. 
-  Located here in the Eisenhower Community Center, MoveFwd provides a range of
-  services for the community, including providing housing assistance for
-  homeless youth from ages 15 to 24.  Today, I’m with Sarah Granger, the
+  itself with a great nonprofit organization called MoveFwd in Minnisota. The
+  group’s aims match our mission statement and our core values, which include
+  gratitude. Out of gratitude comes generosity, and we want to give back to the
+  community.  Located here in the Eisenhower Community Center, MoveFwd provides
+  a range of services for the community, including providing housing assistance
+  for homeless youth from ages 15 to 24.  Today, I’m with Sarah Granger, the
   executive director of the organization, to dive further into the group’s goals
   and values.  MoveFwd has been serving the community for 27 years, serving
   young people and their families in the western suburbs. Their focus is to work
@@ -47,15 +47,15 @@ youtube_code: 9TEW1dSWtOY
 
 {% include youtube.html %}
 
-We are super excited to announce that the John Schuster Group has aligned itself with a great nonprofit organization called MoveFwd. The group’s aims match our mission statement and our core values, which include gratitude. Out of gratitude comes generosity, and we want to give back to the community.
+We are super excited to announce that the John Schuster Group has aligned itself with a great nonprofit organization called MoveFwd in Minnesota. The group’s aims match our mission statement and our core values, which include gratitude. Out of gratitude comes generosity, and we want to give back to the community.
 
-Located here in the Eisenhower Community Center, MoveFwd provides a range of services for the community, including **providing housing assistance for homeless youth from ages 15 to 24.**
+Located here in the Eisenhower Community Center, MoveFwd in Minnesota provides a range of services for the community, including **providing housing assistance for homeless youth from ages 15 to 24.**
 
 Today, I’m with Sarah Granger, the executive director of the organization, to dive further into the group’s goals and values.
 
 MoveFwd has been serving the community for 27 years, serving young people and their families in the western suburbs. **Their focus is to work with youths and their families with mental health issues as well as housing instability.** This could be from needing an emergency place to stay for one night to needing longer-term stability in a housing program or in an apartment of their own.
 
-The housing program allows MoveFwd to house eight to 10 young adults for up to two years, where they can receive rental subsidies as well as support to develop independent living skills.
+The housing program allows MoveFwd in Minnisota to house eight to 10 young adults for up to two years, where they can receive rental subsidies as well as support to develop independent living skills.
 
 Kids can stop into the drop-in center every day for support, which is open Monday through Thursday, from 2:30 p.m. to 5:00 p.m.&nbsp;
 
