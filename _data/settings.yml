@@ -42,7 +42,7 @@ emma_form: >-
   src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'http://www.canovogroup.com/home-valuation/'
+  first_CTA_URL: 'https://www.canovogroup.com/contactus/'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://www.canovogroup.com/'
 sidebar_CTA:
@@ -52,7 +52,7 @@ sidebar_CTA:
       Are you thinking of selling your home or interested in learning about home
       prices in your neighborhood? We can help you.
     CTA_link_text: Free -- MARKET -- Home Value Report
-    CTA_url: 'http://www.canovogroup.com/home-valuation/'
+    CTA_url: 'https://www.canovogroup.com/contactus/'
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: Looking for a -- MARKET -- Home?
