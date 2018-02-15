@@ -2627,18 +2627,29 @@ form select {
 
 .home-value {
   max-width: 50rem;
+  background-color: #b80000;
   margin: 0 auto; }
+  .home-value label {
+    color: #fff; }
   .home-value input, .home-value textarea, .home-value select {
     width: 100%;
     border: 1px solid #b80000; }
   .home-value fieldset {
-    padding: 1.5rem; }
+    padding: 1.5rem;
+    border-radius: 5px; }
   .home-value input[type="submit"] {
     font-size: inherit;
     padding: 1rem;
-    border: 3px solid #b80000; }
+    border: 3px solid #fff;
+    color: #b80000;
+    background-color: #fff; }
     .home-value input[type="submit"]:hover {
-      border: 3px solid #ff1f1f; }
+      border: 3px solid #ff1f1f;
+      background-color: #ff1f1f;
+      color: #fff; }
+
+.asterisk {
+  color: #fff; }
 
 .contact-form {
   width: 75%;
@@ -2821,7 +2832,10 @@ form select {
   margin-top: 1.5rem; }
 
 .recruiting-page {
-  Font-size: 18px; }
+  Font-size: 18px;
+  width: 50%;
+  margin: 0 auto;
+  color: #000; }
 
 .page-logo {
   width: 90%;
@@ -2834,3 +2848,25 @@ form select {
 .page-hero-img {
   background-position: center;
   background-size: cover; }
+
+.join-us {
+  font-weight: bold;
+  text-align: center;
+  width: 75%;
+  display: block;
+  margin: 0 auto; }
+
+.join-us-subtitle {
+  font-weight: 400;
+  text-align: center;
+  width: 75%;
+  display: block;
+  margin: 0 auto 2rem auto; }
+
+.qanda {
+  width: 80%;
+  margin-left: 5%; }
+
+.question {
+  color: #b80000;
+  font-weight: bold; }
