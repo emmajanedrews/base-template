@@ -57,7 +57,7 @@ MoveFwd has been serving the community for 27 years, serving young people and th
 
 The housing program allows MoveFwd to house eight to 10 young adults for up to two years, where they can receive rental subsidies as well as support to develop independent living skills.
 
-Kids can stop into the drop-in center every day for support, which is open Monday through Thursday, from 2:30 p.m. to 5:00 p.m.
+Kids can stop into the drop-in center every day for support, which is open Monday through Thursday, from 2:30 p.m. to 5:00 p.m.&nbsp;
 
 {% include pullquote.html %}
 
