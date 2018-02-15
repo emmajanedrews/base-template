@@ -2799,7 +2799,10 @@ form select {
 
 .team-photo {
   margin: 20px;
-  display: inline; }
+  display: block; }
+
+.team-name {
+  text-align: center; }
 
 #page-bkg {
   height: 430px; }
@@ -2832,7 +2835,7 @@ form select {
 
 .recruiting-page {
   font-size: 18px;
-  width: 75%;
+  width: 50%;
   margin: 0 auto; }
 
 .testimonial-inline {
@@ -2853,5 +2856,22 @@ form select {
   text-transform: uppercase;
   text-align: center; }
 
-.team-pic {
-  margin: 20px; }
+#team-pic {
+  width: 100px;
+  height: 100px;
+  max-width: 100px;
+  display: block; }
+
+.join-us {
+  font-weight: bold;
+  text-align: center;
+  width: 75%;
+  display: block;
+  margin: 0 auto; }
+
+.join-us-subtitle {
+  font-weight: 400;
+  text-align: center;
+  width: 75%;
+  display: block;
+  margin: 0 auto 2rem auto; }

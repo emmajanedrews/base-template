@@ -4,15 +4,14 @@ title: Join Our Team
 permalink: /join-our-team/
 ---
 <div class="recruiting-page">
+<h1 class="join-us">Join One of the Fastest Growing Real Estate Teams in {{site.data.settings.client.market}}</h1>
+<h5 class="join-us-subtitle">How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</h5>
 <div class="recruiting-photo">
-   <span class="client-image-container">
-    <img src="/img/headshot.jpg" alt="Frank Gray" class="client-image"/>
-  </span>
-<figcaption class="caption">Frank Gray</figcaption>
+<span class="client-image-container">
+<img src="/img/headshot.jpg" alt="{{site.data.settings.client.name}}" class="client-image"/>
+</span>
+<figcaption class="caption">{{site.data.settings.client.name}}</figcaption>
 </div>
-
-<h1>Houston Real Estate Career: Apply Now</h1>
-<h5>How would your life change if you could increase your commission income by $50,000, $75,000 or even $100,000 each year? </h5><br>
 
 <p>At Abby Realty we specialize in helping experienced real estate agents take their business to the next level. We’re hiring agents throughout the Houston real estate area including The Woodlands, Conroe, Spring, Kingwood, League City, Pearland, Katy, Tomball and Cypress. Get the support, training, and personal coaching you need to fund the life you’ve always imagined. Did we mention that we have no monthly fees, no franchise fees, no annual dues, and a 90/10 commission split? Apply now for a free, no obligation phone call or live coaching conversation to see if Abby Realty is the right environment for your career! </p>
 
@@ -54,6 +53,8 @@ permalink: /join-our-team/
 
 <p>It’s no wonder that since launching in November 2017, an average of three agents join Abby Realty every week! </p>
 
+<hr>
+
 <div class="testimonial-inline">
 <p><strong>But don’t just take my word for it. Here’s what some of our agents have to say:</strong></p>
 
@@ -82,56 +83,66 @@ permalink: /join-our-team/
 <p class="testimonial-text">The company is very organized and has great people who make me feel comfortable and excited. <span class="testimonial-author">- Jannie Jonker</span></p>
 
 <p class="testimonial-text">I love the agents, the training, the connections, the knowledge. I could go on and on. <span class="testimonial-author">- Shan Randle</span></p>
+
+
+<p class="testimonial-text">My broker is my mentor. He advises me and shows me how to improve. He’s always available to answer questions.He’s a true leader that I pattern myself after. I know he has my back. <span class="testimonial-author">- Liz Smith</span></p>
+
+
+<p class="testimonial-text">I’ve been with three different real estate companies in my career so I can say with confidence that no other broker goes so far above and beyond, and truly cares for you and your success, like Frank Gray.  <span class="testimonial-author">- Michelle Eubanks</span></p>
 </div>
+
+
+<div class="row">
+<div class="col-md-2">
+<div class="client-image-container" id="team-pic">
+<img src="{{site.data.settings.images.team_headshot_1 }}" alt="{{site.data.settings.client.company}}" class="client-image" id="team-pic" />
+</div>
+<div class="team-name"><strong>Adam Olsen</strong>
+</div>
+</div>
+<div class="col-md-2">
+<div class="client-image-container" id="team-pic">
+<img src="{{site.data.settings.images.team_headshot_2 }}" alt="{{site.data.settings.client.company}}" class="client-image" id="team-pic" />
+</div>
+<div class="team-name"><strong>Anh Jorgensen</strong>
+</div>
+</div>
+<div class="col-md-2">
+<div class="client-image-container" id="team-pic">
+<img src="{{site.data.settings.images.team_headshot_3 }}" alt="{{site.data.settings.client.company}}" class="client-image" id="team-pic" />
+</div>
+<div class="team-name"><strong>Denise Tilley</strong>
+</div>
+</div>
+<div class="col-md-2">
+<div class="client-image-container" id="team-pic">
+<img src="{{site.data.settings.images.team_headshot_4 }}" alt="{{site.data.settings.client.company}}" class="client-image" id="team-pic" />
+</div>
+<div class="team-name"><strong>Liz Smith</strong>
+</div>
+</div>
+<div class="col-md-2">
+<div class="client-image-container" id="team-pic">
+<img src="{{site.data.settings.images.team_headshot_5 }}" style="max-width:100px;" alt="{{site.data.settings.client.company}}" class="client-image"/>
+</div>
+<div class="team-name"><strong>Michelle Eubanks</strong>
+</div>
+</div>
+<div class="col-md-2">
+<div class="client-image-container" id="team-pic">
+<img src="{{site.data.settings.images.team_headshot_6 }}" alt="{{site.data.settings.client.company}}" class="client-image" id="team-pic" />
+</div>
+<div class="team-name"><strong>Trina Hoffland</strong>
+</div>
+</div>
+</div>
+
+<hr>
 
 <p>Let me close with a personal story of one of my agents, Adam Olsen. Adam launched his career with a nationally-known real estate company which touts their training programs as being the best in the world. But after seven months of their training, Adam hadn’t sold a single  home. He was frustrated and ready to quit when someone recommended he come talk to me. After just a few minutes together I knew he had the motivation to succeed at a high level. And if someone is motivated, I can help them! Adam joined me and in his first twelve months made over $100,000. Today Adam is one of the top agents in the Houston metro area and routinely carries 65-75 active listings. When I launched Abby Realty one of the first things I did was call Adam. He and his entire team came over and are already taking more listings and selling more homes, ranches, and commercial properties than ever before.</p>
 
 <p>If you’re tired of empty promises, high fees, and training programs that don’t translate to real commissions, please call me. We’ll schedule a free, no-obligation conversation to talk about your career, your aspirations, and whether or not Abby Realty is the right environment to get you where you want to be. </p>
 
-<div class="row">
-		<div class="col-md-2">
-			<div class="client-image-container">
-				<img src="{{site.data.settings.images.team_headshot_1 }}" alt="{{site.data.settings.client.company}}" class="client-image" id="team-pic" />
-			</div>
-			<div class="contact-text"><strong>Adam Olsen</strong>
-			</div>
-		</div>
-		<div class="col-md-2">
-			<div class="client-image-container">
-				<img src="{{site.data.settings.images.team_headshot_2 }}" alt="{{site.data.settings.client.company}}" class="client-image" id="team-pic" />
-			</div>
-			<div class="contact-text"><strong>Anh Jorgensen</strong>
-			</div>
-		</div>
-		<div class="col-md-2">
-			<div class="client-image-container">
-				<img src="{{site.data.settings.images.team_headshot_3 }}" alt="{{site.data.settings.client.company}}" class="client-image" id="team-pic" />
-			</div>
-			<div class="contact-text"><strong>Denise Tilley</strong>
-			</div>
-		</div>
-    <div class="col-md-2">
-			<div class="client-image-container">
-				<img src="{{site.data.settings.images.team_headshot_4 }}" alt="{{site.data.settings.client.company}}" class="client-image" id="team-pic" />
-			</div>
-			<div class="contact-text"><strong>Liz Smith</strong>
-			</div>
-		</div>
-    <div class="col-md-2">
-			<div class="client-image-container">
-				<img src="{{site.data.settings.images.team_headshot_5 }}" alt="{{site.data.settings.client.company}}" class="client-image" id="team-pic" />
-			</div>
-			<div class="contact-text"><strong>Michelle Eubanks</strong>
-			</div>
-		</div>
-    <div class="col-md-2">
-			<div class="client-image-container">
-				<img src="{{site.data.settings.images.team_headshot_6 }}" alt="{{site.data.settings.client.company}}" class="client-image" id="team-pic" />
-			</div>
-			<div class="contact-text"><strong>Trina Hoffland</strong>
-			</div>
-		</div>
-  </div>
 
 <hr>
 
