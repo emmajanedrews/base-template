@@ -26,7 +26,7 @@ Welcome back to another episode in our series on tracking retirement. Today we'r
 
 When we work with a client, we use a benchmarking process each year. Our investments are screened across 11 data points and we do this annually so that you can get the best price. You don’t have to make changes to your investments every year, but you have to go through the benchmarking process each year. If you don’t end up changing anything, you just need to fill out a document that states your reason for staying with your current vendors.
 
-In addition to vetting your vendors, you’ll also have to look at your investments. **I******t**’s best to work with a professional who can do the heavy lifting for you when it comes to screening.**
+In addition to vetting your vendors, you’ll also have to look at your investments. **It’s best to work with a professional who can do the heavy lifting for you when it comes to screening.**
 
 {% include pullquote.html %}
 
