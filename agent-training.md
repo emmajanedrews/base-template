@@ -12,12 +12,9 @@ If you need help implementing any of this or would like to discuss how we can wo
 
 **Rule the Market: Listing Your Way to More Leads & Profit, February 2018** — [Video](https://youtu.be/vZhWv3lzrkk) — [Resources](https://www.dropbox.com/sh/p7vqzrww1ynr3fu/AACMCTLA3ZIjFbnHyHILqamla?dl=0)
 
-
-One of the most important things to do when discussing lead generation is getting into the right mindset. Working by referral-only is great if you’re not looking to grow your business. That said, if you’re looking to grow your income with more leads and generate more referral opportunities, I encourage you to watch this 30-minute webinar discussing prospecting to profits: Warm & Cold Call Made Easy.
+As we prepare for the spring market, it’s important to make sure that your listing process is well-oiled and ready to go. Too often, we see agents go into a potential listing without a plan. Having a streamlined process will allow you to prospect more, and go on more appointments. If you’re looking to systemize your listing process, I encourage you to watch this webinar discussing how you list your way to more leads and profits.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vZhWv3lzrkk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-
-&nbsp;
 
 ### Previous Webinars:
 
