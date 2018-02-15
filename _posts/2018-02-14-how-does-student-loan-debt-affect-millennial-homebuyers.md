@@ -30,7 +30,7 @@ In fact, in spite of being in the prime age to buy their first home, the majorit
 
 Only 20% of millennials currently own a home. 28% rent with roommates, 15% rent on their own or from friends and family, and 15% live with friends and family without paying rent. Of the 80% of current non-owners, 83% believe that their student loan debt has affected their ability to buy a home.&nbsp;
 
-The median student debt load is $41,200, which suprassess the median annual income of $38,000.&nbsp;
+The median student debt load is $41,200, which suprasses the median annual income of $38,000.&nbsp;
 
 79% borrowed to finance their education at a four-year college, and 51% are repaying a balance of over $40,000. **A significant percentage, 17%, are paying a balance over $100,000.&nbsp;**
 
