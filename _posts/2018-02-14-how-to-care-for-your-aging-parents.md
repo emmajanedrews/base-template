@@ -22,12 +22,12 @@ Today I’d like to talk about something that is near and dear to my heart, whic
 
 One of the things you can do is to drop in and visit your parents on a regular basis. This will give you a good idea of how well they are handling their current living situation.
 
-Also, make sure that your parents are taking their medication properly. Of course, this is very important. Talking to your parents’ friends and neighbors about their activity levels can also be beneficial to your understanding of their wellbeing. **Talking to those who know them will help you determine whether your parents are staying active.**
+Also, make sure that your parents are taking their medication properly. Of course, this is very important. **Talking to those who know them will help you determine whether your parents are staying active.**
 
 {% include pullquote.html %}
 
 Another important aspect is whether they are safe and whether they feel safe in their home. Always ensure they keep their doors locked and their security systems are on.
 
-Last but not least, evaluate how they are managing their finances. Are they paying their bills on time? Are they spending frivolously? **Depending on their situation, they may need to alter their living arrangements.**This could mean coming to stay with you or perhaps moving to an assisted living center.
+Last but not least, evaluate how they are managing their finances. Are they paying their bills on time? Are they spending frivolously? **Depending on their situation, they may need to alter their living arrangements.** This could mean coming to stay with you or perhaps moving to an assisted living center.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
