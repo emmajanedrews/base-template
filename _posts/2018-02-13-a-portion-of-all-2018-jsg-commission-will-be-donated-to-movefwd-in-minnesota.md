@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Portion Of All 2018 JSG Commission Will Be Donated To MoveFWDMN
+title: A Portion Of All 2018 JSG Commission Will Be Donated To MoveFWD in Minnesota
 date: 2018-02-13 17:00:00
 tags:
   - Real Estate
@@ -47,7 +47,7 @@ youtube_code: 9TEW1dSWtOY
 
 {% include youtube.html %}
 
-We are super excited to announce that the John Schuster Group has aligned itself with a great nonprofit organization called MoveFwd in Minnesota. The group’s aims match our mission statement and our core values, which include gratitude. Out of gratitude comes generosity, and we want to give back to the community.&nbsp;
+We are super excited to announce that the John Schuster Group has aligned itself with a great nonprofit organization called MoveFwd in Minnesota. The group’s aims match our mission statement and our core values, which include gratitude. Out of gratitude comes generosity, and we want to give back to the community.
 
 Located here in the Eisenhower Community Center, MoveFwd in Minnesota provides a range of services for the community, including **providing housing assistance for homeless youth from ages 15 to 24.**
 
@@ -57,7 +57,7 @@ MoveFwd has been serving the community for 27 years, serving young people and th
 
 The housing program allows MoveFwd in Minnisota to house eight to 10 young adults for up to two years, where they can receive rental subsidies as well as support to develop independent living skills.
 
-Kids can stop into the drop-in center every day for support, which is open Monday through Thursday, from 2:30 p.m. to 5:00 p.m.&nbsp;
+Kids can stop into the drop-in center every day for support, which is open Monday through Thursday, from 2:30 p.m. to 5:00 p.m.
 
 {% include pullquote.html %}
 
