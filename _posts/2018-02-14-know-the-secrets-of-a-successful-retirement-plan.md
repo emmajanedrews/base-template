@@ -21,11 +21,11 @@ Imagine that you’re getting ready to go on a great vacation, you’re standing
 
 Would you be getting on that plane? Of course not. Why? Because there’s an 85% chance the plane won’t get to its destination on time safely.
 
-I ask this same question to employers sponsoring a 401(k) or 403(b) plan. Why are they boarding their employees on their company-sponsored retirement plan when there’s possibility they won’t arrive safely at their destination?
+I ask this same question to employers sponsoring a 401(k) or 403(b) plan. Why are they boarding their employees on their company-sponsored retirement plan when there’s a possibility they won’t arrive safely at their destination?
 
 I call it the probability question: Are you giving your employees the opportunity to make it to retirement with a high probability of success? Will they have enough money saved to replace their current paycheck and create retirement income for life?
 
-That’s what my video series is about. Over the course of the next year,\*\* I’ll send you a series of videos talking about everything you need to know as a plan sponsor and how you can help your employees create retirement income for life.\*\*
+That’s what my video series is about. Over the course of the next year, **I’ll send you a series of videos talking about everything you need to know as a plan sponsor and how you can help your employees create retirement income for life.**
 
 {% include pullquote.html %}
 
@@ -33,7 +33,6 @@ Basically, I’ll share with you the secrets of a successful retirement plan. Ev
 
 I’ll share with you everything I know from my 25 years of experience as an adviser focusing on the personal and corporate retirement plan markets, helping you create retirement income for life.
 
-**For more information, check out my website <a href="http://www.retirementcfo.com">www.retirementcfo.com</a>
-.** If you’d like to learn about a next-generation retirement plan solution that can help you outsource over 90% of the liability and administrative headaches of running a retirement plan, check out <a href="http://www.selectretirementplans.com">www.selectretirementplans.com</a>
+**For more information, check out my website [www.retirementcfo.com](http://www.retirementcfo.com).** If you’d like to learn about a next-generation retirement plan solution that can help you outsource over 90% of the liability and administrative headaches of running a retirement plan, check out [www.selectretirementplans.com](http://www.selectretirementplans.com)
 
 If you have any questions, don’t hesitate to reach out to me.
