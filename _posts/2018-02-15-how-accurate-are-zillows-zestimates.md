@@ -39,7 +39,7 @@ Another fact you should know about Zillow is they publish an accuracy chart, or 
 
 **If you’re really interested in understanding the market value of your home, it makes sense to hire a local, trusted real estate advisor** who will give you an honest answer about how much your home is worth. If you like, you can send me your home’s Zestimate and I’ll do my own free walkthrough of it and provide you my interpretation of its current market value.
 
-In the meantime, you can click on [this link](https://www.zillow.com/zestimate/#acc) to see Zillow’s accuracy chart for yourself, and [this link](https://www.zillow.com/sellerlanding/claimyourhome/) will take you to where you can update your home’s facts on Zillow.
+In the meantime, you can click on ***[this link](https://www.zillow.com/zestimate/#acc)*** to see Zillow’s accuracy chart for yourself, and ***[this link](https://www.zillow.com/sellerlanding/claimyourhome/)***&nbsp;will take you to where you can update your home’s facts on Zillow.
 
 If you have any other questions about Zillow’s Zestimate or you’re thinking of buying or selling a home in our market, feel free to reach out to us. Also, if you have a topic in mind you’d like to see us cover in a future video, send it on over and we’ll give you a $25 reward if we use it.
 
