@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'When It Comes to Selling Your Home, Marketing Matters'
-date:
+date: 2018-02-15 20:49:41
 tags:
   - Home Seller Tips
   - Market Update
