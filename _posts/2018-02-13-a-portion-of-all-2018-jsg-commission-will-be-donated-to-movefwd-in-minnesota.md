@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Portion Of All 2018 JSG Commission Will Be Donated To MoveFWD in Minnesota
+title: A Portion Of All 2018 JSG Commission Will Be Donated To MoveFwd in Minnesota
 date: 2018-02-13 17:00:00
 tags:
   - Real Estate
