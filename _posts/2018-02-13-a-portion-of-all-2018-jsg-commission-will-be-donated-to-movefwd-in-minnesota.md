@@ -47,7 +47,7 @@ youtube_code: 9TEW1dSWtOY
 
 {% include youtube.html %}
 
-We are super excited to announce that the John Schuster Group has aligned itself with a great nonprofit organization called MoveFwd in Minnesota. The group’s aims match our mission statement and our core values, which include gratitude. Out of gratitude comes generosity, and we want to give back to the community.
+We are super excited to announce that the John Schuster Group has aligned itself with a great nonprofit organization called MoveFwd in Minnesota. The group’s aims match our mission statement and our core values, which include gratitude. Out of gratitude comes generosity, and we want to give back to the community.&nbsp;
 
 Located here in the Eisenhower Community Center, MoveFwd in Minnesota provides a range of services for the community, including **providing housing assistance for homeless youth from ages 15 to 24.**
 
