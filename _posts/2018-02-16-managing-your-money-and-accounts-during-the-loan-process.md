@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Managing Your Money and Accounts During the Loan Process
-date:
+date: 2018-02-16 16:35:02
 tags:
   - Home Buyer Tips
 excerpt: >-
