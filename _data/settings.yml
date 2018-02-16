@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: San Diego Real Estate Video Blog with Thomas North
 description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
@@ -11,41 +11,43 @@ emma:
   form:
 
 client:
-  name:
+  name: Thomas North
   title:
   license_number:
   about_markdown: |
+    Our agents are staying up to date on new procedures and programs as the best way to provide outstanding service to our clients. We stay ahead of the curve in this ever changing industry to keep our clients informed so they can make educated decisions.
 
-  market:
-  brand:
+    In addition, our short sale negotiators have built relationships with lenders that have translated to increased efficiency and beneficial results for both our clients and the lenders. We continue to strive to provide viable solutions to the foreclosure crisis.
+  market: San Diego
+  brand: North Properties
   brokerage:
-  address:
-  phone:
+  address: 2305 Historic Decatur Rd., Suite 100<br>San Diego California 92106
+  phone: 619-778-5198
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: tom@northprops.com
+  url: http://northpropssd.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://northpropssd.com/Sellers/Get-a-Free-Home-Evaluation
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://northpropssd.com/Search-Homes/Search-Area-Listings
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://northpropssd.com/Sellers/Get-a-Free-Home-Evaluation
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://northpropssd.com/Search-Homes/Search-Area-Listings
 
 lender:
   show_section: false
@@ -61,12 +63,12 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
+  facebook_url: http://www.facebook.com/NorthProperties
+  linkedin_url: https://www.linkedin.com/in/NorthProperties
+  gplus_url: https://plus.google.com/u/1/114248385746048551870/posts
+  youtube_url: https://www.youtube.com/channel/UCuYEHipt0WdF2WRrkWwuPVQ
   twitter_url:
-  instagram_url:
+  instagram_url: https://instagram.com/northprops/
   pinterest_url:
   zillow_url:
   trulia_url:
@@ -91,7 +93,7 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
+  brand_color: '#1F3762'
   theme_color: '#999'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
