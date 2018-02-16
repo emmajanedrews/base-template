@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Buy a Home in a Competitive Market
-date:
+date: 2018-02-16 21:19:29
 tags:
   - Home Buyer Tips
 excerpt: >-
