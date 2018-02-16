@@ -45,7 +45,8 @@ No other team on the North Shore is able to provide for their agents at the leve
 * Consistent income
 * Opportunities for personal and career growth
 
-Beyond the things I’ve already mentioned, we also provide an environment that is incredibly conducive to success. **Someone is in the office seven days a week answering the phone, because we are truly a full-time business.**
+Beyond the things I’ve already mentioned, we also provide an environment that is incredibly conducive to success. **We are available to prospects and clients 7 days a week,
+because we are truly a full-time business.**
 
 We give our agents every opportunity to learn, grow, take on leads, and, ultimately, close transactions. The buyer agent number that is found on all our signage sends calls directly to all the agents in our office. And this is just one of the many ways we generate leads. **We also utilize, pay-per-click advertising, Zillow and social media, and we have a high-quality CRM.**
 
@@ -53,7 +54,7 @@ On top of access to our systems, agents also gain immediate credibility when the
 
 In short, you could continue at your current pace — making inconsistent income, paying for your own marketing and advertising expenses, and having little freedom in your life and career. **You could also simply quit and take on a 9-to-5 job where you have no flexibility and no fun.** Or, you could take the first step on the road to success and join my team.
 
-From day one, you’ll get get started on our 30-, 60-, and 90-day programs, where weekly goals will help you stay accountable and on the right track to meet your goals. During your first week you’ll launch into our new member orientation and also enroll in our MLS launch class. And unlike other brokerages, the only things you pay for on our team is your license, E&O insurance, and MLS dues.
+From day one, you’ll get started on our 30-, 60-, and 90-day programs, where weekly goals will help you stay accountable and on the right track to meet your goals. During your first week you’ll launch into our new member orientation and also enroll in our MLS launch class. And unlike other brokerages, the only things you pay for on our team is your license, E&O insurance, and MLS dues.
 
 The onboarding process will include:
 
@@ -64,7 +65,7 @@ The onboarding process will include:
 
 Even once onboarding is complete, I meet with my agents on an ongoing basis to ensure that they are meeting their goals and their potential.
 
-When you apply with us right now, you have the benefit of getting in on the ground floor. We award the most leads to agents who have been with us for the longest periods of time, so this is a key opportunity. On top of that, we are also looking to expand to other areas of the country in the future. **This means that top agents have the opportunities to form their own teams within our larger team structure.**
+When you apply with us right now, you have the benefit of getting in on the ground floor. We award the most leads to agents who have been with us for the longest periods of time, so this is a key opportunity. On top of that, we are also looking to expand to other areas of the Chicagoland area and the country in the future. **This means that top agents have the opportunities to form their own teams within our larger team structure.**
 
 Our commission split is 40%, but because we work with a higher price point, agents on our team who follow our systems and training will make at least $150,000 per year. **I can guarantee that if you stick to your goals and our plan, you will be taking home real income within your fourth month on our team.**
 
