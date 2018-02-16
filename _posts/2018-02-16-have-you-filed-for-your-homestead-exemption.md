@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Have You Filed for Your Homestead Exemption?
-date: 2018-02-16 22:00:20
+date: 2018-02-16 22:00:00
 tags:
   - Real Estate
 excerpt: >-
@@ -11,8 +11,8 @@ enclosure:
 pullquote: There is no fee to file your homestead exemption.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/homestead-exemption.jpg
 youtube_code: wTHD2VpC8A4
 ---
 
@@ -30,6 +30,6 @@ If you are living in your primary residence in the state of Texas, you can get a
 
 Check out the websites for Travis County, Williamson County, and Hayes County to get the direct links to these forms. [HYPERLINK EACH COUNTY]
 
-Don’t get scammed by any junk mail sent to your home that asks you to pay a fee to file for your exemption. **It’s free to file! There is no fee.**&nbsp;
+Don’t get scammed by any junk mail sent to your home that asks you to pay a fee to file for your exemption. **It’s free to file! There is no fee.**
 
-If you have any questions for me, just give me a call or send me an email. I would be happy to help you!<br>&nbsp;
+If you have any questions for me, just give me a call or send me an email. I would be happy to help you!<br>
