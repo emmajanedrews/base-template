@@ -18,7 +18,7 @@ youtube_code: qN6541vU_lc
 
 {% include youtube.html %}
 
-What’s going on in the market? I have updated details that concern both buyers and sellers.
+<center>What’s going on in the market? I have updated details that concern both buyers and sellers.</center>
 
 What is going on in our local market? Today, I’ll be giving you an update about the latest real estate trends and statistics relating to our area.
 
