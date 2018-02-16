@@ -18,7 +18,7 @@ youtube_code: wTHD2VpC8A4
 
 {% include youtube.html %}
 
-Have you filed your homestead exemption yet? Don’t wait too much longer—the deadline is April 30.
+<center>Have you filed your homestead exemption yet? Don’t wait too much longer—the deadline is April 30.</center>
 
 If you bought a home in 2017 and you haven’t done so yet, please make sure that you file your homestead exemption.
 
