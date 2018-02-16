@@ -12,8 +12,8 @@ enclosure: >-
 pullquote: A real estate professional will take care of the costs of marketing your home.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/sddefault.jpg
 youtube_code: ko4-ivaBdd4
 ---
 
