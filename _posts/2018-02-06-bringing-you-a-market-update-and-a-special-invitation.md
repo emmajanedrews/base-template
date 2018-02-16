@@ -5,15 +5,15 @@ tags:
 excerpt: >-
   Today, I’ve got two things to share with you: an invitation to a client
   appreciation event and an update on our market.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Wes+Peters/February+18'/Baltimore%2520Metro%2520Real%2520Estate-%2520Client%2520Event.mp4
 pullquote: 'If you’ve been thinking about selling your home, now is the time to do so.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/wes-peters-ss.jpg
-youtube_code: qIve-Ec0Uuw
+youtube_code: 'https://youtu.be/oNjWjVpg-Zk'
 ---
-
 
 {% include youtube.html %}
 
