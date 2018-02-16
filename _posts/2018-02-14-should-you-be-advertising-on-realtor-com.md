@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Should You Be Advertising on Realtor.com?
-date: 2018-02-14 16:17:16
+date: 2018-02-14 16:17:00
 tags:
 excerpt: >-
   People have been asking me lately about ways agents can invest in Realtor.com.
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Qt1dQwMNkjo
+youtube_code: syMIVMgh9bU
 ---
 
 {% include youtube.html %}
@@ -28,7 +28,7 @@ There are actually two different ways to advertise on this website: Connections 
 Let’s start with Advantage Pro. In my opinion, Advantage Pro is something every Realtor should be paying for. It’s pretty simple. You’re paying to get the leads from your listings.
 {: .present-before-paste}
 
-**The way Realtor.com charges depends on how many listings you carry, the average price point of those listings, and how many of listings you sell.&nbsp;**These and other factors are put into an algorithm to give you the price you’ll end up paying for this service.
+**The way Realtor.com charges depends on how many listings you carry, the average price point of those listings, and how many of listings you sell.**These and other factors are put into an algorithm to give you the price you’ll end up paying for this service.
 {: .present-before-paste}
 
 Think of it this way: An agent in California who is selling $2 million properties should probably be paying more for their leads than an agent in our local area selling properties at an average list price of $100,000.
@@ -58,5 +58,4 @@ If you’re really good at lead conversion and have a quick response time, there
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 {: .present-before-paste}
 
-&nbsp;
 {: .present-before-paste}
