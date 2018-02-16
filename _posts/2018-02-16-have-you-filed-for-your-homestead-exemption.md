@@ -28,8 +28,8 @@ If you are living in your primary residence in the state of Texas, you can get a
 
 {% include pullquote.html %}
 
-Check out the websites for Travis County, Williamson County, and Hayes County to get the direct links to these forms. [HYPERLINK EACH COUNTY]
+Check out the websites for Travis County, Williamson County, and Hayes County to get the direct links to these forms.
 
 Don’t get scammed by any junk mail sent to your home that asks you to pay a fee to file for your exemption. **It’s free to file! There is no fee.**
 
-If you have any questions for me, just give me a call or send me an email. I would be happy to help you!<br>
+If you have any questions for me, just give me a call or send me an email. I would be happy to help you!
