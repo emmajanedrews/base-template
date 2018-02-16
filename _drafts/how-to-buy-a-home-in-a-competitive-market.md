@@ -9,13 +9,14 @@ excerpt: >-
   frustrated. Today, we have four tips to help you purchase a home in this hot
   market. First, it’s incredibly important that you put your best foot forward
   when making an offer. That means having your pre-approval ready to go.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Graham+MacKenzie/Videos/2018/Ridge+to+River+Real+Estate+%257C+How+to+Prepare+to+Buy.mp4
 pullquote: Make sure that your pre-approval letter is ready to go.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: el-EMLa3L14el-EMLa3L14
+youtube_code: el-EMLa3L14
 ---
 
 {% include youtube.html %}
@@ -28,7 +29,7 @@ We have some helpful tips we wanted to share with homebuyers to help you win in 
 
 {% include pullquote.html %}
 
-3. Get your current home on the market now. That can make a huge difference between your offer getting accepted on the new home or not.
+1. Get your current home on the market now. That can make a huge difference between your offer getting accepted on the new home or not.
 
 <br>4. Be prepared to make a strong offer. Of course, we will negotiate to get you a good deal. Keep in mind that sellers are getting 99.1% of the listing price in today’s market. That means you should make an offer at or above list price.
 
