@@ -19,7 +19,7 @@ youtube_code: Iwdgl6lfPhw
 
 Today, we’re going to talk about why you need your own Realtor.
 
-When drive around looking for a home, you might come across a house you like with a yard sign featuring a phone number.
+When driving around looking for a home, you might come across a house you like with a yard sign featuring a phone number.
 
 Most people are tempted to pick up the phone and call, but you need to know that the number on the sign is for an agent who represents the seller. They have a signed contract with that homeowner, **meaning that they’re not financially obligated to represent your interests, and don’t have to inform you about any known issues in the house.** They have no fiduciary responsibility to you as a buyer.
 
