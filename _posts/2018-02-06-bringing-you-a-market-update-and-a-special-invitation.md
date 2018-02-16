@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/wes-peters-ss.jpg
-youtube_code: 'https://youtu.be/oNjWjVpg-Zk'
+youtube_code: 'https://youtu.be/EYs9ABmqUDY'
 ---
 
 {% include youtube.html %}
