@@ -1,24 +1,23 @@
 ---
 layout: post
 title: 4 Tips That Will Help You Find the Right Home
-date: 2018-02-07 11:59:27
+date: 2018-02-07 11:59:00
 tags:
   - Home Buyer Tips
 excerpt: >-
   Inventory is tight in our market, but there are four tips you can follow as a
   homebuyer that will help you land your dream home.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Tim+Majka/Long+Beach+Real+Estate+Agent-+4+Tips+That+Will+Help+You+Find+the+Right+Home.mp4
+  https://s3.amazonaws.com/vyralmarketing/Tim+Majka/Long+Beach+Real+Estate+Agent-+4+Tips+That+Will+Help+You+Find+the+Right+Home+2.mp4
 pullquote: >-
   There’s a strategy to finding the right home and plans we can put in place to
   help you.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/no-4.jpg
-youtube_code: 5VbgW2mHdAQ
+youtube_alternate_image: /uploads/no-2.jpg
+youtube_code: lGZrHovNtHA
 ---
-
 
 {% include youtube.html %}
 
