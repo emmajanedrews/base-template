@@ -23,9 +23,9 @@ youtube_code: el-EMLa3L14
 
 We have some helpful tips we wanted to share with homebuyers to help you win in a competitive market:
 
-1.Put your best foot forward when you make your offer. Part of that is having a pre-approval ready to go. Your pre-approval will let you know what your budget is and show the seller that you are serious about purchasing a home.
+1. Put your best foot forward when you make your offer. Part of that is having a pre-approval ready to go. Your pre-approval will let you know what your budget is and show the seller that you are serious about purchasing a home.
 
-2.Make your offer as clean as possible. One of the best ways to do that is to have some money set aside to pay your own closing costs.
+2. Make your offer as clean as possible. One of the best ways to do that is to have some money set aside to pay your own closing costs.
 
 {% include pullquote.html %}
 
