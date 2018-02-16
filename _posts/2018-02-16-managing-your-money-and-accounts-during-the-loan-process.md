@@ -29,9 +29,9 @@ Ultimately, the underwriters have the final say. Even though we have some guidan
 
 **What if you were given a financial gift?**
 
-Gift funds are always acceptable if they’re from a first-generation relative and as long as they’re verified properly. By that, I mean that each loan program will have its own verification requirements. According to Fannie Mae, Freddie Mac, FHA, VA, and USDAl, to document the gifts, we have to have a signed gift letter that we provide at application, which states that the funds are gifts and that no repayment is expected. This is signed by the one who gave the gift and yourself. We also need to see the donor’s most recent bank statements with no black-outs or altered account numbers, proving that they have the funds to give.
+Gift funds are always acceptable if they’re from a first-generation relative and as long as they’re verified properly. By that, I mean that each loan program will have its own verification requirements. According to Fannie Mae, Freddie Mac, FHA, VA, and USDA, to document the gifts, we have to have a signed gift letter that we provide at application, which states that the funds are gifts and that no repayment is expected. This is signed by the one who gave the gift and yourself. We also need to see the donor’s most recent bank statements with no blackouts or altered account numbers, proving that they have the funds to give.
 
-Additionally, the underwriters will look through the donor’s bank statements for any unusual large deposits that might constitute suspicious. It’s their job to look for and report any signs of money laundering. After that, you’ll need a copy of the cancelled check or the wire confirmation of the donor wiring the funds to your account so that we can see the funds coming from their account and going into yours.
+Additionally, the underwriters will look through the donor’s bank statements for any unusually large deposits that might be constituted as suspicious. It’s their job to look for and report any signs of money laundering. After that, you’ll need a copy of the canceled check or the wire confirmation of the donor wiring the funds to your account so that we can see the funds coming from their account and going into yours.
 
 {% include pullquote.html %}
 
