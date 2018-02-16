@@ -6,7 +6,7 @@ tags:
   - Real Estate
 excerpt: These reforms may drive home prices down in the midterm.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Seth+%26+Alyce+Dailey/The+Dailey+Group-+How+the+Tax+Overhaul+Will+Affect+Real+Estate%253F.mp4
+  https://s3.amazonaws.com/vyralmarketing/Seth+%26+Alyce+Dailey/2The+Dailey+Group-+How+the+Tax+Overhaul+Will+Affect+Real+Estate%253F.mp4
 pullquote: These reforms may drive home prices down in the midterm.
 enclosure_type: video/mp4
 enclosure_time:
