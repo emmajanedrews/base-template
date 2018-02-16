@@ -29,6 +29,6 @@ If you follow the set of specific instructions we will lay out for you, then we 
 
 First, have your donor write you a check. Next, deposit that check into the account we’re verifying for your funds to close. Then, **send us an updated transaction history from your account to show that those funds are now available.**
 
-After that you will need to call your donor to have them send us a copy of the front and back of the processed check from their bank. Once you’ve followed these instructions, you should be good to go.
+After that, you will need to call your donor to have them send us a copy of the front and back of the processed check from their bank. Once you’ve followed these instructions, you should be good to go.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
