@@ -28,10 +28,10 @@ There are actually two different ways to advertise on this website: Connections 
 Let’s start with Advantage Pro. In my opinion, Advantage Pro is something every Realtor should be paying for. It’s pretty simple. You’re paying to get the leads from your listings.
 {: .present-before-paste}
 
-**The way Realtor.com charges depends on how many listings you carry, the average price point of those listings, and how many of listings you sell.**These and other factors are put into an algorithm to give you the price you’ll end up paying for this service.
+**The way Realtor.com charges depends on how many listings you carry, the average price point of those listings, and how many of listings you sell.&nbsp;**These and other factors are put into an algorithm to give you the price you’ll end up paying for this service.
 {: .present-before-paste}
 
-Think of it this way, an agent in California who is selling $2 million properties should probably be paying more for their leads than an agent in our local area selling properties at an average list price of $100,000.
+Think of it this way: An agent in California who is selling $2 million properties should probably be paying more for their leads than an agent in our local area selling properties at an average list price of $100,000.
 {: .present-before-paste}
 
 For me and my market, I have an average price point of $285,000. So, I’m paying about $40 to $43 per lead through Advantage Pro. At the end of the day, I’m getting a 4.5x return on my investment. **When you buy an Advantage Pro lead, you are the only agent who has access to that lead.**
