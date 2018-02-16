@@ -35,15 +35,9 @@ sidebar_CTA:
   - CTA_image_path: /img/cta-images/006.jpg
     CTA_title: "Looking to Build Your Real Estate Career?"
     CTA_text: "Let's talk about how we can take your business to new heights."
-    CTA_link_text: "Request a Free Strategy Session"
-    CTA_url: /homevalue/
+    CTA_link_text: "Contact Us"
+    CTA_url: http://salasteamcareers.com/contact
 
-second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
 
 lender:
   show_section: false
