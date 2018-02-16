@@ -23,7 +23,7 @@ This post may be controversial for some because it doesn’t necessarily reflect
 
 Some people say real estate is all about location, location, location. **In my opinion, it’s actually all about money, money, money.** Ultimately, the real estate market is affected by how much money is in the system. It comes from three different places.
 
-First, the money that is available through jobs and wages. Statistics show that our unemployment rate is decreasing, but it can be very misleading because the replacement jobs are not in the same salary range. This statistic also doesn’t show who has had their hours cut back, who is on furlough, and who is receiving reduced salaries and bonuses. On the other side, there are good things that we’re not hearing about, such as what’s going on in the fracking and drilling market.
+First, it comes from the money that is available through jobs and wages. Statistics show that our unemployment rate is decreasing, but it can be very misleading because the replacement jobs are not in the same salary range. This statistic also doesn’t show who has had their hours cut back, who is on furlough, and who is receiving reduced salaries and bonuses. On the other side, there are good things that we’re not hearing about, such as what’s going on in the fracking and drilling market.
 
 Secondly, the money that is available from banks. The impact of stricter lending criteria and higher rates mean there is less money available for buyers. This will push demand for the lower-priced detached homes even higher. If you have a home you’re looking to sell, there is a great opportunity here to be a move-up buyer.
 
@@ -35,4 +35,4 @@ When you combine those three types of money with our current inventory, which in
 
 **At the same time, I think you should be prepared for a few things in 2018.** Because of the increased supply of apartments on the market, I think values will drop around 5% this year for apartments. The attached home market should remain pretty flat and the detached home market is in for about a 2% drop in pricing.
 
-If you have the right product in the right neighborhood, you can do very well in this market. We’ve been seeing a lot of multiple offer situations out there. With a complex market like this, the first thing you need to do if you’re thinking of buying or selling is to call an expert. I’d be happy to be your real estate expert and I’m always here to answer any and all of your questions. Just give me a call today!
+If you have the right product in the right neighborhood, you can do very well in this market. We’ve been seeing a lot of multiple offer situations out there. With a complex market like this, the first thing you need to do if you’re thinking of buying or selling is to call an expert. I’d be happy to be your real estate expert and I’m always here to answer any and all of your questions. Just give me a call today! I look forward to hearing from you soon.
