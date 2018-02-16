@@ -19,7 +19,7 @@ youtube_code: qIve-Ec0Uuw
 
 At this point in the year, there are a couple of reminders and updates I’d like to share with all of you. First of all, our next client appreciation event is coming up soon.
 
-**We hope you’ll join us for a movie day on February 24 at 1:30 p.m. at Rundle Mills Theater.**
+**We hope you’ll join us for a movie day on February 24 at 1:30 p.m. at Arundel Mills Theater.**
 
 We’ve already sent out invitations online and through the mail, so please reach out if you haven’t already received yours.
 
