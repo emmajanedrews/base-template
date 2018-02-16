@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How the Tax Overhaul Will Affect Real Estate?
-date: 2018-02-08 15:56:00
+title: How the Tax Overhaul Will Affect Real Estate
+date: 2018-02-16 15:56:00
 tags:
   - Real Estate
 excerpt: These reforms may drive home prices down in the midterm.
