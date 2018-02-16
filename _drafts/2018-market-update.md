@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Can You Expect From Our Market in 2018?
-date: 2018-02-16 00:00:00
+date: 2018-02-16 14:40:00
 tags:
 excerpt: >-
   Recently, I’ve been getting a lot of questions from buyers and sellers about
@@ -12,7 +12,8 @@ excerpt: >-
   latest update for our market. Last year, we experienced tremendous growth. To
   find out more about last year’s impact on our 2018 market, watch our latest
   video.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Heather+Neidlinger/2018/Central+Pennsylvania+Real+Estate+Agent-+What+to+Expect+from+Market+2018.mp4
 pullquote: >-
   Our listings were on the market for roughly half of the time that there were
   in previous years.
