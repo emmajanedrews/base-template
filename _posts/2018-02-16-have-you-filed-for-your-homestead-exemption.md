@@ -28,7 +28,7 @@ If you are living in your primary residence in the state of Texas, you can get a
 
 {% include pullquote.html %}
 
-Check out the websites for Travis County, Williamson County, and Hayes County to get the direct links to these forms.
+Check out the websites for **[Travis County](https://www.traviscad.org/forms/forms-exemptions/), [Williamson County](https://www.wcad.org/online-exemption-information/), and [Hayes County](https://www.hayscad.com/forms/)** to get the direct links to these forms.
 
 Don’t get scammed by any junk mail sent to your home that asks you to pay a fee to file for your exemption. **It’s free to file! There is no fee.**
 
