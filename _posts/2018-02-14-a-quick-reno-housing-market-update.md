@@ -16,7 +16,7 @@ youtube_code: 'https://youtu.be/JUjcZVxFQeI'
 
 {% include youtube.html %}
 
-The current housing inventory here in Reno/Sparks is extremely low. Last year at this time, there were around 1200 homes on the market. Now there are only 670. Homes are selling as fast as ever. If you’ve been thinking about selling, here’s some more good news. **Homeowners are getting 98% of their asking price right now on average.**&nbsp;
+The current housing inventory here in Reno/Sparks is extremely low. Last year at this time, there were around 1,200 homes on the market. Now there are only 670. Homes are selling as fast as ever. If you’ve been thinking about selling, here’s some more good news. **Homeowners are getting 98% of their asking price right now on average.**&nbsp;
 
 If you’re buying a home though, don’t be discouraged. There are three things that you can do in this market to improve your odds of getting the perfect house:
 
@@ -24,7 +24,7 @@ If you’re buying a home though, don’t be discouraged. There are three things
 
 {% include pullquote.html %}
 
-**2. Have your prep done early.** For example, a pre-approval from a mortgage lender will allow you to submit an offer before your competition. Your agent should be able to recommend local, trustworthy lenders to you.
+**2. Have your preparation done early.** For example, a pre-approval from a mortgage lender will allow you to submit an offer before your competition. Your agent should be able to recommend local, trustworthy lenders to you.
 
 **3. Make yourself available.** Being able to get to a home for a showing at a moment’s notice will result in you being able to write an offer more quickly if it’s a good fit.
 
