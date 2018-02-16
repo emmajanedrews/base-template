@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How the Tax Overhaul Will Affect Real Estate?
-date: 2018-02-08 15:56:28
+date: 2018-02-08 15:56:00
 tags:
   - Real Estate
 excerpt: These reforms may drive home prices down in the midterm.
@@ -11,8 +11,8 @@ pullquote: These reforms may drive home prices down in the midterm.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/pb-2.jpg
-youtube_code: Js0q6g_xzpA
+youtube_alternate_image: /uploads/no-1-1.jpg
+youtube_code: OG-t6EnmS9c
 ---
 
 {% include youtube.html %}
@@ -23,9 +23,9 @@ There's a lot of uncertainty about The Tax Cuts and Jobs Act and its effect on r
 
 **2. Deductions for mortgage interest.** The final bill reduces the limit on deductible mortgage debt to $750,000 for new loans taken out after 12/14/2017. Other loans of up to $1 million are grandfathered in.
 
-**3. Home sales exclusion for capital gains.** If you sell your home and turn a profit, then up to $500,000 of that profit is exempt from capital gains tax. Although earlier versions of the bill required you to live in the home for five out of the last eight years, the final bill made no changes to the capital gains exclusion. In order to qualify for this exclusion, you must have lived in your home for two of the past five years to claim this exemption—just like before. &nbsp;
+**3. Home sales exclusion for capital gains.** If you sell your home and turn a profit, then up to $500,000 of that profit is exempt from capital gains tax. Although earlier versions of the bill required you to live in the home for five out of the last eight years, the final bill made no changes to the capital gains exclusion. In order to qualify for this exclusion, you must have lived in your home for two of the past five years to claim this exemption—just like before.
 
-**4. Deductions for moving expenses.** The final bill repealed the moving expense deduction, except for those who are members of the Armed Forces. &nbsp;
+**4. Deductions for moving expenses.** The final bill repealed the moving expense deduction, except for those who are members of the Armed Forces.
 
 {% include pullquote.html %}
 
