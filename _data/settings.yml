@@ -11,41 +11,41 @@ emma:
   form:
 
 client:
-  name:
+  name: Sarah D'Angelo
   title:
   license_number:
   about_markdown: |
-
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    Tenacious, Direct, Attentive, Trustworthy, The D'Angelo team reflects the bold, can-do attitude of team leader Sarah D'Angelo. Sarah not only is passionate and driven about reaching her team goals but is attuned to the particular needs of her diverse client base.
+  market: Latham
+  brand: The D'Angleo Team
+  brokerage: Keller Williams Capital District
+  address: 935 New Loudon Rd<br>Latham, New York 12110
+  phone: 518-724-5880
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: sarah@thedangeloteam.com
+  url: http://searchalbanyhomesforsale.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: https://www.searchalbanyhomesforsale.com/homevalue
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: https://www.searchalbanyhomesforsale.com/searc
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: https://www.searchalbanyhomesforsale.com/homevalue
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: https://www.searchalbanyhomesforsale.com/searc
 
 lender:
   show_section: false
@@ -61,14 +61,14 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
+  facebook_url: https://www.facebook.com/thedangeloteam
   linkedin_url:
   gplus_url:
   youtube_url:
-  twitter_url:
+  twitter_url: http://www.twitter.com/goseesarah
   instagram_url:
   pinterest_url:
-  zillow_url:
+  zillow_url: https://www.zillow.com/profile/thedangeloteam/
   trulia_url:
   yelp_url:
   podcast_url:
@@ -91,8 +91,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#0c79cb'
+  theme_color: '#211f20'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
