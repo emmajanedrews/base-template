@@ -89,7 +89,7 @@ images:
   hero_logo_path: /img/logo.png
   logo_width_number: 40
   hero_text: Real Estate Careers and Training Video Blog
-  hero_background_hex: '#094264'
+  hero_background_hex: '#ffffff'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
