@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Naperville Real Estate Market Update for 2018
-date:
+date: 2018-02-16 18:40:14
 tags:
 excerpt:
 enclosure:
