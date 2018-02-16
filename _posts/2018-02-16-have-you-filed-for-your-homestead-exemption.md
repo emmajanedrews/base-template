@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Have You Filed for Your Homestead Exemption?
-date:
+date: 2018-02-16 22:00:20
 tags:
   - Real Estate
 excerpt: >-
