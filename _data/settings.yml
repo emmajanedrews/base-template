@@ -30,7 +30,8 @@ CTAs:
   first_CTA_URL: http://www.salasteamrealestate.com/sell/what-is-my-home-worth
   second_CTA_text: Home Search
   second_CTA_URL: http://www.salasteamrealestate.com/our-homes
-  VR_form: http://oi.vresp.com?fid=25e745f858
+
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808819';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
