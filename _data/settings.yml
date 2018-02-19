@@ -38,7 +38,9 @@ CTAs:
   second_CTA_text: Home Search
   second_CTA_URL: >-
     http://www.hudsoncountyhomes.com/map_search/results/5/1/#/?city=all&baths_min=all&beds_min=all&area_min=all&list_price_max=all&type=res&type=con&list_price_min=50000&building_name=all&page=1&per_page=20
-  VR_form: 'http://oi.vresp.com?fid=040fa9a4c9'
+
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1809079';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+
 sidebar_CTA:
   - CTA_image_path: /uploads/unnamed-6.jpg
     CTA_title: What’s Your -- MARKET -- Home Worth?
