@@ -28,7 +28,7 @@ Morgan Stanley and UBS are withdrawing from the protocol for broker recruitment.
 
 This is a big deal. Trying to minimize or diminish this in any way is a mistake.
 
-These firms are enforcing non-solicitor agreements and claiming that information you could have taken under the protocol (such as your client’s basic contact information) is now trade information or proprietary information.
+These firms are enforcing non-solicitor agreements and claiming that information you could have taken under the protocol (such as your client’s basic contact information) is now **trade information or proprietary information.**
 
 {% include pullquote.html %}
 
@@ -42,7 +42,7 @@ If anyone who is recruiting you says, “Don’t worry, it’s just like 2003,�
 
 These two firms are saying that the five pieces of information you are allowed to take with the protocol are now proprietary to them, even though for 14 years that information was not proprietary. This is information that you’ve had in your cellphone for 10 to 20 years, and they’re saying those phone numbers are now somehow their property.
 
-Basically, these firms are saying that those phone numbers are a trade secret, like the formula to Coca-Cola.
+**Basically, these firms are saying that those phone numbers are a trade secret, like the formula to Coca-Cola.**
 
 Of course, that’s ridiculous. Coke didn’t allow Pepsi access to their formula for 14 years and then change their mind, but that is what these firms are alleging.
 
@@ -54,9 +54,9 @@ The first thing you need to do is consult an attorney. Every state in this count
 
 The best case scenario is that you’ve already moved your book from somewhere else to Morgan Stanley or UBS. You can make the argument that you already have the rights to that book because you transferred it from somewhere else to Morgan Stanley or UBS under the protection of the protocol.
 
-Secondly, make sure that your clients have your cellphone number. In all of these non-solicitation agreements, the client is always allowed to reach out to you, so make sure that they are able to do so.
+Secondly, **make sure that your clients have your cellphone number.** In all of these non-solicitation agreements, the client is always allowed to reach out to you, so make sure that they are able to do so.
 
-Finally, direct your client to an article I wrote for CNBC. This article explains to your client what happens behind the scenes when an adviser leaves the firm. The article explains what could happen in terms of the firm legally preventing you from talking to your clients. This way, your client will have a better idea of what might happen down the road. They can use the link above or just Google “Danny Sarch CNBC.”
+Finally, direct your client to [an article I wrote for CNBC.](https://www.cnbc.com/2017/12/18/investors-should-study-broker-protocol-for-their-protection.html)This article explains to your client what happens behind the scenes when an adviser leaves the firm. The article explains what could happen in terms of the firm legally preventing you from talking to your clients. This way, your client will have a better idea of what might happen down the road. They can use the link above or just Google “Danny Sarch CNBC.”
 
 This is an evolving situation, and I do think there will be some kind of protocol 2.0. As the world moves toward a fiduciary standard, it’s impossible for me to reconcile a fiduciary standard with litigation that keeps the client from communicating with you, their trusted adviser.
 
