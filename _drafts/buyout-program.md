@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Our Immediate Home Buyout Program Works
-date:
+date: 2018-02-19 15:40:00
 tags:
   - Home Buyer Tips
 excerpt: >-
