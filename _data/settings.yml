@@ -29,7 +29,8 @@ CTAs:
   first_CTA_URL: http://victoriasellssd.com/home-value-analysis/
   second_CTA_text: Home Search
   second_CTA_URL: http://victoriasellssd.com/basic-search/
-  VR_form: http://oi.vresp.com?fid=26436c0f69
+
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1809436';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
