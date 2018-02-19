@@ -28,7 +28,8 @@ CTAs:
   first_CTA_URL: http://www.johnschustergroup.com/home-evaluation.php
   second_CTA_text: Home Search
   second_CTA_URL: http://www.johnschustergroup.com/idx/map/
-  VR_form: http://oi.vresp.com?fid=15e708f33e
+
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808265';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
