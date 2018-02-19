@@ -27,7 +27,8 @@ CTAs:
   first_CTA_URL: http://kmitchellteam.com/home_value
   second_CTA_text: Home Search
   second_CTA_URL: http://kmitchellteam.com/search#?q_limit=36&q_prioritize=agents.0.id=261203407|office.id=56128&mlsId=28&q_sort=createdAt-&q_offset=0
-  VR_form: http://oi.vresp.com?fid=203c2ff7a8
+
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808831';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
