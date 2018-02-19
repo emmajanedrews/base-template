@@ -13,7 +13,8 @@ emma:
 client:
   name: Paul Berdiner
   license_number: RB067528
-  about_markdown: |
+  about_markdown: | 
+    As a 20+ year veteran of the Real Estate Industry, my love for real estate started at a very young age.  As a Second Generation Broker, I knew early on what my future would hold and embraced the same career that my family always had. By the mid 2000’s, Real Estate technology and the internet were introduced to our business.  I felt myself gravitate to what many agents were pushing away from and embraced to opportunity to learn.  Learning for me is constant, as is change. <br> Without a doubt, the Real Estate Industry has seen its fair share of change over the last two decades. As a Broker and Industry Leader, I strive to stay up with what is relevant in today's Market so that I can bring the most powerful resources to the agents of our firm, RE/MAX Patriots.
 
   market:
   brand: RE/MAX PATRIOTS
