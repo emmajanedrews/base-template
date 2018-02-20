@@ -1,12 +1,15 @@
 ---
 layout: post
 title: The Truth about Zestimates
-date: 2018-02-20 22:03:57
+date: 2018-02-20 22:03:00
 tags:
+  - Home Buyer Tips
+  - Home Seller Tips
 excerpt: >-
   Should you trust Zillow’s Zestimates to learn your home’s value? Here’s my
   opinion.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jesse+Myles/The+Truth+about+Zestimates.mp4
 pullquote: Zestimates only come from an algorithm of public information.
 enclosure_type: video/mp4
 enclosure_time:
