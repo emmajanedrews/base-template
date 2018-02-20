@@ -17,7 +17,7 @@ youtube_code: 4J2opvFCox4
 
 {% include youtube.html %}
 
-With a lot of seasonal buyers, dealing with the mail in our market can get tricky. Here’s a tip to help.
+<center>With a lot of seasonal buyers, dealing with the mail in our market can get tricky. Here’s a tip to help.</center>
 
 We have a lot of seasonal buyers in our market. With so many people constantly coming and leaving, I’m constantly getting questions about mail delivery. **For those of you living here now, I have a great resource to share with you.**
 
