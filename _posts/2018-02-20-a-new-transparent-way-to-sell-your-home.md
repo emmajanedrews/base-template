@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'A New, Transparent Way to Sell Your Home'
-date: 2018-02-20 21:20:48
+date: 2018-02-20 21:20:00
 tags:
   - Home Seller Tips
 excerpt: >-
   My Rocket Listing gives sellers a choice in how they sell their home. Here’s
   how it works.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/%231+Real+Estate+Team+in+the+Portland+Metro++SW+Washington+How+does+a+rocket+listing+work.mp4
 pullquote: believe that this will revolutionize the way real estate is done.
 enclosure_type: video/mp4
 enclosure_time:
