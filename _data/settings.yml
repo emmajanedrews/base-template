@@ -27,7 +27,8 @@ CTAs:
   first_CTA_URL: http://damongettier.com/join/
   # second_CTA_text: Home Search
   # second_CTA_URL: http://www.damongettier.net/our-homes
-  VR_form: http://oi.vresp.com?fid=4a50e12e35
+
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808706';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/006.jpg
