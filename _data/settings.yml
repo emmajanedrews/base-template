@@ -37,7 +37,7 @@ emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1
 
 CTAs:
   first_CTA_text: Apply Online
-  first_CTA_URL: https://7087046295.mortgage-application.net/WebApp/ShortApp.aspx
+  first_CTA_URL: https://apply.amerifirstloan.com/#/signup?referrerId=rspring%40amerifirst.us
   second_CTA_text: Book an Appoinment
   second_CTA_URL: http://thespringmortgageteam.setmore.com/
 
@@ -46,7 +46,7 @@ sidebar_CTA:
     CTA_title: Fill Out Your Application Today
     CTA_text: Get started in the loan process by completing our short loan application.
     CTA_link_text: "Apply Online"
-    CTA_url: https://7087046295.mortgage-application.net/WebApp/ShortApp.aspx
+    CTA_url: https://apply.amerifirstloan.com/#/signup?referrerId=rspring%40amerifirst.us
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
