@@ -25,6 +25,8 @@ Everyone knows the basic steps of preparing a home for market. Things like declu
 
 1.** Pay special attention to your entryway.** The front door of your home represents such an important first impression for a buyer. When a buyer visits your property for the very first time, they’ll probably have to stand at the front door for a few minutes waiting for their agent. As homeowners, we don’t always use our front doors to enter or leave the home. Therefore, the area is often neglected. Before you list, spruce up your entryway by adding a clean doormat and a fresh coat of paint to the front door. Also, make sure the entry within your home is clear of shoes or other clutter.
 
+{% include pullquote.html %}
+
 2. **Clean your mechanical areas.** Make sure mechanical areas are tidy and dust-free and that furnace filters are replaced. This will give the buyer a great impression, leaving them more certain about the general care and maintenance of your listing.&nbsp;
 
 3.** Clean up closets, storage areas, and your garage.** Obviously it is very important to clean, stage, and declutter the main living areas of your home. However, tidying up the storage areas throughout your property can give your listing an extra boost. If your storage areas are in disarray, buyers will feel as if your home lacks adequate space for the things they themselves will need to store when they move in.&nbsp;
