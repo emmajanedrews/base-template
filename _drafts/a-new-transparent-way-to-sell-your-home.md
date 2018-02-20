@@ -3,6 +3,7 @@ layout: post
 title: 'A New, Transparent Way to Sell Your Home'
 date:
 tags:
+  - Home Seller Tips
 excerpt: >-
   My Rocket Listing gives sellers a choice in how they sell their home. Here’s
   how it works.
@@ -17,7 +18,9 @@ youtube_code: xDX2r00zRhw
 
 {% include youtube.html %}
 
-<center>My Rocket Listing gives sellers a choice in how they sell their home. Here’s how it works.</center>
+<center><em>My Rocket Listing gives sellers a choice in how they sell their home. Here&rsquo;s how it works.</em></center>
+
+<center>&nbsp;</center>
 
 What’s the newest, most transparent way to sell your home?&nbsp;
 
