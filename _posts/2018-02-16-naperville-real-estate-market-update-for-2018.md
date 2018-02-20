@@ -12,7 +12,7 @@ pullquote: 'Right now, inventory is 27% lower than it was this time last year.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/2-16---yt-2.jpg
+youtube_alternate_image:
 youtube_code: qN6541vU_lc
 ---
 
@@ -36,4 +36,4 @@ Some people think it’s a better idea to hold off until March or April to list 
 
 I put a house on the market a couple of days ago and not long after, we already had multiple offers on it. I’m confident that it could be the same for you.
 
-If you have any questions, please feel free to reach out to me. I look forward to hearing from you.<br>&nbsp;
+If you have any questions, please feel free to reach out to me. I look forward to hearing from you.<br>
