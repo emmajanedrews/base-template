@@ -16,7 +16,9 @@ youtube_code: auf6ARnZEQg
 
 {% include youtube.html %}
 
-<center>Today, Malay Wadhwa is here to talk about title insurance.</center>
+<center><em>Today, Malay Wadhwa is here to talk about title insurance.</em></center>
+
+<center>&nbsp;</center>
 
 Today, I have a special guest with me, Malay Wadhwa from Pacific Coast Title, to give us some insight about the role of title insurance in the real estate process.
 
