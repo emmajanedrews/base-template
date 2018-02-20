@@ -38,7 +38,7 @@ There are two types of liens that are commonly attached: unsecured liens and sec
 
 If, for example, a husband and wife are buying a property, they can buy it as a joint community property with the right of survivorship. Two individuals can also buy a property together, each with 50% interest on it.&nbsp;
 
-The reason that we specify the interest is so that, if needs be, one can assign their interest to their spouse and children. It is important to do this because if, say, they just acquired a property without specifying the interest, then they have to go to the court to analyze who owns what percentage of the property.
+The reason that we specify the interest is so that, if need be, one can assign their interest to their spouse and children. It is important to do this because if, say, they just acquired a property without specifying the interest, then they have to go to the court to analyze who owns what percentage of the property.
 
 Additionally, sometimes it’s best to put the property in a living trust. A living trust allows the homeowner to assign a beneficiary without going into the court. It adds an extra layer of protection for their property from any online frauds that people sometimes try to commit on free and clear properties.
 
