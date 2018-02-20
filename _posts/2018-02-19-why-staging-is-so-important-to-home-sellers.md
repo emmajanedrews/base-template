@@ -51,6 +51,6 @@ Staging has changed. Sylvia said that they used to put out place settings on the
 
 Finally, Sylvia says that organization is one of the most important things for the master bedroom and master closet. Just because the door is closed doesn’t mean you shouldn’t pay attention to it. Take some clothes out and make sure there is 20% empty space to put things in. Get hangers that are the same color to make your closet feel more upscale. Pay extra attention to that space.&nbsp;
 
-If you have any questions for Sylvia or would like a private consultation on how to stage your home, you can call Home Staging Works at 509.868.4187 or visit their website, [https://www.homestagingworks.com/](https://www.homestagingworks.com/).&nbsp;
+If you have any questions for Sylvia or would like a private consultation on how to stage your home, you can call Home Staging Works at 509.868.4187 or visit their website, [www.HomeStagingWorks.com](https://www.homestagingworks.com/).&nbsp;
 
 As always, if you have any questions about buying or selling a home, just give me a call or send me an email. I would be happy to help you!
