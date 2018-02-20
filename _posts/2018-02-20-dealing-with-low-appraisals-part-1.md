@@ -18,6 +18,8 @@ youtube_alternate_image:
 youtube_code: nSmTVzLrVy4
 ---
 
+{% include youtube.html %}
+
 Today we’re excited to bring you the first installment of a two-part series on what you should do when your appraisal comes in low.&nbsp;
 
 We’re in a strong seller’s market right now. Certain price ranges are generating multiple offers for the listings that are out there, so sometimes an appraiser will enter the picture and disagree with the price that is listed on the contract. &nbsp;
@@ -27,6 +29,8 @@ From a buyer’s perspective, **the first thing to remember is that you always h
 Typically when an appraisal comes in low, most people will try to renegotiate. This may mean that the buyer will have to come up with some extra funds or get rid of some closing costs that have been previously negotiated with the seller.&nbsp;
 
 Usually, there is an attempt by both parties to make it work out for everyone.&nbsp;
+
+{% include pullquote.html %}
 
 **If it was an FHA appraisal, then the appraisal stays with the property whether the deal works out or not****.&nbsp;**
 
