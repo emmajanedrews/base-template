@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Should You Know About Title Insurance?
-date:
+date: 2018-02-20 15:23:19
 tags:
   - Real Estate
 excerpt: 'Today, Malay Wadhwa is here to talk about title insurance.'
