@@ -30,3 +30,5 @@ The Phoenix real estate market is absolutely on fire, and December 2017 was one 
 If you’re a buyer or representing a buyer in today’s marketplace, an **escalation clause** will help you beat out the current highest offer by offering a certain amount more. Essentially, it is **a clause in the contract that says that the buyer is willing to pay X amount more than the highest offer received by the seller.**<br><br>For example, let’s say you’re making an offer on a house priced at $400,000. You can put in an escalation clause that says you’ll outbid any other buyer by, say, $1,000. This might be a technique that is necessary to get the house that you want.
 
 Inventory is still very low in the valley, but the demand is very high, so hopefully an escalation clause will help give you the edge you need to get the home of your dreams.
+
+If you have any other questions about escalation clauses or you're thinking about buying or selling a home in our market, give me a call or shoot me an email. I'd be happy to help you.
