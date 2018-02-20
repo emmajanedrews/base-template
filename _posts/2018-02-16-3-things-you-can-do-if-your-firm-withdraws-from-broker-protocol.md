@@ -56,7 +56,7 @@ The best case scenario is that you’ve already moved your book from somewhere e
 
 Secondly, **make sure that your clients have your cellphone number.** In all of these non-solicitation agreements, the client is always allowed to reach out to you, so make sure that they are able to do so.
 
-Finally, direct your client to [an article I wrote for CNBC.](https://www.cnbc.com/2017/12/18/investors-should-study-broker-protocol-for-their-protection.html)This article explains to your client what happens behind the scenes when an adviser leaves the firm. The article explains what could happen in terms of the firm legally preventing you from talking to your clients. This way, your client will have a better idea of what might happen down the road. They can use the link above or just Google “Danny Sarch CNBC.”
+Finally, direct your client to [an article I wrote for CNBC.](https://www.cnbc.com/2017/12/18/investors-should-study-broker-protocol-for-their-protection.html)This article explains to your client what happens behind the scenes when an adviser leaves the firm. The article explains what could happen in terms of the firm legally preventing you from talking to your clients. This way, your client will have a better idea of what might happen down the road. They can [use this link](https://www.cnbc.com/2017/12/18/investors-should-study-broker-protocol-for-their-protection.html) or just Google “Danny Sarch CNBC.”
 
 This is an evolving situation, and I do think there will be some kind of protocol 2.0. As the world moves toward a fiduciary standard, it’s impossible for me to reconcile a fiduciary standard with litigation that keeps the client from communicating with you, their trusted adviser.
 
