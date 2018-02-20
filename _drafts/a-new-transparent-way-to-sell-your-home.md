@@ -17,7 +17,7 @@ youtube_code: xDX2r00zRhw
 
 {% include youtube.html %}
 
-My Rocket Listing gives sellers a choice in how they sell their home. Here’s how it works.
+<center>My Rocket Listing gives sellers a choice in how they sell their home. Here’s how it works.</center>
 
 What’s the newest, most transparent way to sell your home?&nbsp;
 
