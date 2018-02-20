@@ -1462,8 +1462,8 @@ html[xmlns] .flexslider .slides {
   overflow: hidden; }
 
 .navbar-andross .navbar-brand {
-  color: #6F010F;
-  padding-top: 20px;
+  color: #ffffff;
+  padding-top: 10px;
   padding-bottom: 33px;
   font-size: 20px;
   text-transform: uppercase;
@@ -1494,7 +1494,7 @@ html[xmlns] .flexslider .slides {
     color: #6F010F; }
 
 .fa-bars {
-  color: #6F010F; }
+  color: #ffffff; }
 
 .phone, .fa-phone {
   color: #fff; }

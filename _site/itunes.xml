@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Roanoke Real Estate Podcast with Damon Gettier</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://damongettierblog.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://damongettierblog.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Damon Gettier & Associates - your professional Roanoke Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Damon Gettier</managingEditor>
-    <lastBuildDate>2017-10-13 13:09:58 -0500</lastBuildDate>
+    <lastBuildDate>2018-02-20 14:47:37 -0600</lastBuildDate>
     <media:copyright>Damon Gettier</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://damongettierblog.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Roanoke, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,15 +18,322 @@
     </itunes:owner>
     <itunes:author>Damon Gettier</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://damongettierblog.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Roanoke, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Roanoke Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Damon Gettier & Associates - your professional Roanoke Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
+        <title>When Is the Best Time to Prepare Your Listing?</title>
+        <link>http://damongettierblog.com/when-is-the-best-time-to-prepare-your-listing.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Damon Gettier</author>
+        <pubDate>2018-02-15 11:51:22 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/+Videos+/2018/February/Roanoke+Real+Estate+Agent-+When+Is+the+Best+Time+to+Prepare+Your+Listing%253F.mp4</guid>
+        <description>
+
+Today, we’ll be continuing our series on things to do when preparing to sell your home. The tip I’d like to share this time is: Just do it!
+
+There are so many things in life that we tend to put off for another day instead of taking care of them as soon as possible. I’m not going to lie to you. Putting your home on the market certainly isn’t the most fun experience. However, it is rewarding.
+
+“Even small changes can really add up and pay off.”
+
+Let’s take the example of selling a car for $10,000. Most people in this situation will spend $200 on getting the car detailed, having its tires filled or replaced, or getting it waxed. But when these same people sell a $200,000, they hesitate to spend even $500 on these kinds of upgrades and finishing touches.
+
+However, little changes can really add up and pay off. Before you bring in a Realtor, start clearing out the clutter and doing everything else you can to prepare your home for the market.
+
+Right before you’re ready to list, hire professional cleaners to make your home really shine. The time to start preparing your home for the market is today.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/+Videos+/2018/February/Roanoke+Real+Estate+Agent-+When+Is+the+Best+Time+to+Prepare+Your+Listing%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://damongettierblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/+Videos+/2018/February/Roanoke+Real+Estate+Agent-+When+Is+the+Best+Time+to+Prepare+Your+Listing%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you’ve been putting off making final touches to your home before listing it on the market, there’s no better time than now to get started.</itunes:subtitle>
+        <itunes:author>Damon Gettier</itunes:author>
+        <itunes:summary>If you’ve been putting off making final touches to your home before listing it on the market, there’s no better time than now to get started.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Roanoke, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>The Unexpected Costs of Buying a Home, Part 5: Homeowners Insurance</title>
+        <link>http://damongettierblog.com/the-unexpected-costs-of-buying-a-home-part-5-homeowners-insurance.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Damon Gettier</author>
+        <pubDate>2018-02-01 09:01:51 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/+Videos+/2018/February/Roanoke+Real+Estate+Agent-+The+Unexpected+Costs+of+Buying+a+Home%252C+Part+5-+Homeowners+Insurance.mp4</guid>
+        <description>
+
+What is homeowners insurance? Why should you consider obtaining it when purchasing a home?
+
+Homeowners insurance is something that’s required by the lender. If you get a loan to purchase a house, the lender will require that you insure their asset.
+
+When you obtain homeowners insurance, you want to make sure of a couple of things. First, you want to make sure it covers the structure of the house—not just what you pay for it, but what it would cost for you to rebuild it. You also need to make sure it covers the contents of the house. Just because the TV you bought four years ago is now worth $100 doesn’t mean you can replace it for $100, so make sure you get replacements costs.
+
+“There’s nothing that will fix a flooded house if you don’t have flood insurance.”
+
+Another thing to consider is if you’re buying in an area that requires flood insurance. Flood insurance is required in flood zone AE areas, but it’s not required in zone X areas. If you look at what happened in Houston last year and West Virginia the year before, those areas didn’t require flood insurance—they were flood zone X areas.
+
+Living in flood zone X areas doesn’t cost nearly as much as living in flood zone AE areas, but I still recommend getting flood insurance. Remember—insurance is not for the expected. If we woke up one day and knew our car was going to crash, we wouldn’t drive it that day. We have insurance to be insured against the unexpected.
+
+There’s nothing that will fix a flooded house if you don’t have flood insurance. Those funds will have to come out of your back pocket, and most people don’t have an extra $100,000 or $200,000 lying around to repair a house that’s been destroyed by a flood.
+
+If you have any questions about homeowners insurance or any other unexpected costs when buying a home, don’t hesitate to reach out to me. I’d be happy to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/+Videos+/2018/February/Roanoke+Real+Estate+Agent-+The+Unexpected+Costs+of+Buying+a+Home%252C+Part+5-+Homeowners+Insurance.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://damongettierblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/+Videos+/2018/February/Roanoke+Real+Estate+Agent-+The+Unexpected+Costs+of+Buying+a+Home%252C+Part+5-+Homeowners+Insurance.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you get a loan to purchase a house, the lender will require that you insure their asset with homeowners insurance, and it’s very much in your best interest to get it.</itunes:subtitle>
+        <itunes:author>Damon Gettier</itunes:author>
+        <itunes:summary>If you get a loan to purchase a house, the lender will require that you insure their asset with homeowners insurance, and it’s very much in your best interest to get it.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Roanoke, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What to Do With Excess Paper in Your Home</title>
+        <link>http://damongettierblog.com/what-to-do-with-excess-paper-in-your-home.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Damon Gettier</author>
+        <pubDate>2018-01-19 05:59:13 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/+Videos+/2018/January/Roanoke+Real+Estate+Agent-+What+to+Do+With+Excess+Paper+in+Your+Home.mp4</guid>
+        <description>
+
+Today, I’d like to return to our series on things to do when selling your home. This time, let’s talk about paper.
+
+For some reason, many people feel the need to save away every little piece of paper they come across. Really, there’s only a couple of things you need to keep. Tax returns, bank statements, and some bills are essentially all you need to hold onto.
+
+Unless it’s something like a birth certificate, wedding certificate, or another important document, you only need to keep most old mail and records for about three years. After that time, it’s usually okay to throw some things away.
+
+“Unnecessary paper can really be the Achilles’ heel of a home you’re preparing to sell.”
+
+When you do get rid of important papers, though, don’t just toss them. Make sure you shred anything that could have your personal information on it. If you don’t own a shredder, there are many places you can have this done. You can even come down to my office if you need something shredded badly and don’t know where else to go.
+
+The bottom line is this: get rid of unnecessary paper when you clean your home. Most of it isn’t important to keep, is a fire hazard, and is just taking up space. Paper causes a lot of clutter. It can really be the Achilles’ heel of a home you’re preparing to sell.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/+Videos+/2018/January/Roanoke+Real+Estate+Agent-+What+to+Do+With+Excess+Paper+in+Your+Home.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://damongettierblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/+Videos+/2018/January/Roanoke+Real+Estate+Agent-+What+to+Do+With+Excess+Paper+in+Your+Home.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>In today’s installment in the things you must do when selling your home, I’d like to talk about paper.</itunes:subtitle>
+        <itunes:author>Damon Gettier</itunes:author>
+        <itunes:summary>In today’s installment in the things you must do when selling your home, I’d like to talk about paper.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Roanoke, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Unexpected Buying Costs: Utilities</title>
+        <link>http://damongettierblog.com/unexpected-buying-costs-utilities.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Damon Gettier</author>
+        <pubDate>2018-01-04 08:48:15 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/+Videos+/2017/January/Roanoke+Real+Estate+Agent-+Unexpected+Buying+Costs-+Utilities.mp4</guid>
+        <description>
+
+As I’ve mentioned in the past, unexpected costs can arise during any home purchase. Today, I’d like to go over one type of cost in particular: utilities.
+
+If you were renting a property before you made your home purchase, things like your water or heat may have been included. However, as a homeowner, these costs must be accounted for.
+
+“When submitting an offer on a home, I highly encourage buyers to ask the property’s current owners about average monthly utility costs.”
+
+One thing I highly encourage is for buyers to ask the home’s current owners about average monthly utility costs. These numbers won’t be ironclad, but they will help you understand what you should expect.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/+Videos+/2017/January/Roanoke+Real+Estate+Agent-+Unexpected+Buying+Costs-+Utilities.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://damongettierblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/+Videos+/2017/January/Roanoke+Real+Estate+Agent-+Unexpected+Buying+Costs-+Utilities.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today I’m back with another unexpected cost for homebuyers to factor in when making their purchase.</itunes:subtitle>
+        <itunes:author>Damon Gettier</itunes:author>
+        <itunes:summary>Today I’m back with another unexpected cost for homebuyers to factor in when making their purchase.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Roanoke, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>A Smarter Way to Pack Up Your Belongings</title>
+        <link>http://damongettierblog.com/a-smarter-way-to-pack-up-your-belongings.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Damon Gettier</author>
+        <pubDate>2017-12-20 07:19:14 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/+Videos+/2017/December/Roanoke+Real+Estate+Agent-+A+Smarter+Way+to+Pack+Up+Your+Belongings.mp4</guid>
+        <description>
+
+I’m back with part three of our series on selling your home. Today I’d like to discuss the benefits of using clear plastic bins to store your belongings as opposed to cardboard boxes.Not only are cardboard boxes fire hazards, insect attractors, and susceptible to mice and other rodents, but you can’t see anything either. You have to unpack the whole box just to find one thing. Oftentimes, those boxes don’t get repacked and just end up making a mess.
+
+“It will help make the selling process easier.”
+
+The use of clear plastic bins allows you to see if something is in there right away. Then you can reach in and grab it because you know exactly where it is.Even if you only do it for a few weeks or while you’re selling your home, when you have a highly organized basement or garage with labeled bins like this, it will appear to potential buyers like you’ve been living like that the entire time. It will help make the selling process much easier and enjoyable. It will likely get you a higher price for your home, too.If you have any questions for me at all about selling your home, including where you can find these plastic bins, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/+Videos+/2017/December/Roanoke+Real+Estate+Agent-+A+Smarter+Way+to+Pack+Up+Your+Belongings.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://damongettierblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/+Videos+/2017/December/Roanoke+Real+Estate+Agent-+A+Smarter+Way+to+Pack+Up+Your+Belongings.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Instead of using cardboard boxes to pack, consider clear plastic bins. They are so much easier to use.</itunes:subtitle>
+        <itunes:author>Damon Gettier</itunes:author>
+        <itunes:summary>Instead of using cardboard boxes to pack, consider clear plastic bins. They are so much easier to use.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Roanoke, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Unexpected Home Purchasing Costs, Part III: Taxes</title>
+        <link>http://damongettierblog.com/unexpected-home-purchasing-costs-part-iii-taxes.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Damon Gettier</author>
+        <pubDate>2017-12-06 09:28:33 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/+Videos+/2017/December/Roanoke+Real+Estate+Agent-+Unexpected+Home+Purchasing+Costs%252C+Part+III-+Taxes.mp4</guid>
+        <description>
+
+Today we’re continuing our series about the unexpected costs of homeownership with a discussion of taxes.
+
+When you buy a house, you are responsible for the property taxes. Most of the time, that’s included in your payment unless you have an arrangement otherwise.
+
+“If you’re not extremely responsible with money, it’s very important that you let the bank escrow your taxes so that you don’t have a huge bill come up that you won’t be able to pay.”
+
+However, usually when you purchase your house, the bank takes money out at closing to establish an escrow account to pay your taxes.
+
+As your taxes increase every year, the money that is required by the mortgage company will increase as well so that they can pay your taxes for you.
+
+If you’re not extremely responsible with money, it’s very important that you let the bank escrow your taxes so that you don’t have a huge bill come up that you won’t be able to pay.
+
+As always, if you have any questions, please feel free to contact me. I’d be glad to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/+Videos+/2017/December/Roanoke+Real+Estate+Agent-+Unexpected+Home+Purchasing+Costs%252C+Part+III-+Taxes.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://damongettierblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/+Videos+/2017/December/Roanoke+Real+Estate+Agent-+Unexpected+Home+Purchasing+Costs%252C+Part+III-+Taxes.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>For part three of my series about unexpected costs of homeownership, we’re discussing property taxes.</itunes:subtitle>
+        <itunes:author>Damon Gettier</itunes:author>
+        <itunes:summary>For part three of my series about unexpected costs of homeownership, we’re discussing property taxes.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Roanoke, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Don’t Rush When It Comes to Selling Your Home</title>
+        <link>http://damongettierblog.com/dont-rush-when-it-comes-to-selling-your-home.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Damon Gettier</author>
+        <pubDate>2017-11-17 05:41:31 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/+Videos+/2017/November/Roanoke+Real+Estate+Agent-+Dont+Rush+When+It+Comes+to+Selling+Your+Home.mp4</guid>
+        <description>
+
+Today we’re going to talk about giving yourself time as a seller to get everything prepared to move.
+
+So many people call us wanting to list their house, but they want the sign in their yard the next day. Their house at the time is usually in no way, shape, or form ready to sell.
+
+If you’re going to sell your house and it’s not an emergency—such as a death in the family, or a job change in a different city—I highly encourage you to come meet with us.
+
+“If you’re going to sell your house and it’s not an emergency—such as a death in the family, or a job change in a different city—I highly encourage you to come meet with us.”
+
+We do something called a coming-soon period for two to six weeks. This gives you time to get your house ready for listing. The goal is to present your house in the best possible way that we can. We can’t do that if you need to move in, say, 30 days, when you called us yesterday and expect it to be listed by tomorrow.
+
+Your photos won’t look as good, your house won’t be staged properly, you’ll have items that need to be put into storage, your lawn/landscaping will need to be cleaned up, and so much more.
+
+All those things and more besides will have to be done in order to present your house in its best light, which will get you the most return on the dollar. Few people want a fixer-upper; they want a house that’s move-in ready so they won’t have to do much with it. You’ll get more money for a home that is shown in optimal condition, and it will sell faster as well. Overall, it will be a much more pleasurable selling experience.
+
+If have any questions about coming-soon periods, selling your house, or getting on the market, please feel free to reach out to me. I’d be happy to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/+Videos+/2017/November/Roanoke+Real+Estate+Agent-+Dont+Rush+When+It+Comes+to+Selling+Your+Home.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://damongettierblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/+Videos+/2017/November/Roanoke+Real+Estate+Agent-+Dont+Rush+When+It+Comes+to+Selling+Your+Home.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Give yourself plenty of time before you list your home. You’ll need to prepare everything to list your home in its best light.</itunes:subtitle>
+        <itunes:author>Damon Gettier</itunes:author>
+        <itunes:summary>Give yourself plenty of time before you list your home. You’ll need to prepare everything to list your home in its best light.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Roanoke, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Unexpected Home Purchasing Costs, Part II: Maintenance Costs</title>
+        <link>http://damongettierblog.com/unexpected-home-purchasing-costs-part-ii-maintenance-costs.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Damon Gettier</author>
+        <pubDate>2017-11-02 06:16:50 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/+Videos+/2017/October/Roanoke+Real+Estate+Agent-+Unexpected+Home+Purchasing+Costs%252C+Part+II-+Maintenance+Costs.mp4</guid>
+        <description>
+
+In addition to the costs I mentioned last time, another unexpected cost you need to watch out for is the maintenance for your home.
+
+When you rent a house, you don’t have the same external and internal maintenance duties you have when you buy a house. Of course, you don’t have the tax advantages either.
+
+“When buying a home, budget accordingly.”
+
+When buying a home, you really need to budget accordingly, because nothing in a home lasts forever. One reason we always encourage home warranties among our buyers is that it acts as a maintenance plan for the house.
+
+When buying a house, look at items like the roof, the HVAC unit, and the water heater, because all of these things have expected lifespans. Make sure you plan for the replacement, upkeep, and repair for these items.
+
+If you have any questions about the maintenance costs of purchasing a home, don’t hesitate to give me a call or shoot me an email. I’d be glad to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/+Videos+/2017/October/Roanoke+Real+Estate+Agent-+Unexpected+Home+Purchasing+Costs%252C+Part+II-+Maintenance+Costs.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://damongettierblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/+Videos+/2017/October/Roanoke+Real+Estate+Agent-+Unexpected+Home+Purchasing+Costs%252C+Part+II-+Maintenance+Costs.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Maintenance costs are another unexpected expense of purchasing a home that you need to be mindful of.</itunes:subtitle>
+        <itunes:author>Damon Gettier</itunes:author>
+        <itunes:summary>Maintenance costs are another unexpected expense of purchasing a home that you need to be mindful of.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Roanoke, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What’s the First Step to Take When Selling Your Home?</title>
+        <link>http://damongettierblog.com/whats-the-first-step-to-take-when-selling-your-home.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Damon Gettier</author>
+        <pubDate>2017-10-19 10:17:35 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/+Videos+/2017/October/Roanoke+Real+Estate+Agent-+Whats+the+First+Step+to+Take+When+Selling+Your+Home%253F.mp4</guid>
+        <description>
+
+The first task I want to talk about when it comes to things you must do when selling your home is sorting, or how to simplify your moving experience.
+
+There are a couple ways you can do this. One way is to sort stuff into piles. This includes stuff you want to donate, stuff you want to trash, and stuff you want to keep. I generally suggest another way, though, and that way is something I call the “one-year rule.”
+
+The one-year rule goes as follows: If you haven’t used it in the last year and you’re not going to use it in the next year, sell it or get rid of it because it’s cluttering your life. From there, get rid of anything you consider trash. Take it to the dumpster or the landfill. Don’t let your kids or your spouse look at what it is—just get rid of it.
+
+Most people who move are moving up, so if that’s the case for you, then your current house is too small. If your house is too small for you and appears to be too small for you, then it will appear to be too small for the next person, too.
+
+“Renting a storage unit will go a long way in getting your home sold.”
+
+That’s why my second tip is to rent a storage unit and store everything that’s not essential to your day-to-day life inside it. This means removing all your extra clothes from your closets so they look big and roomy, all the storage boxes lying around in the basement or attic, and other stuff like that so there’s plenty of room in the house. Storage units aren’t cheap, but what they can do in terms of getting your home sold is incredible.
+
+I don’t advise getting a pod instead of a storage unit. A pod just tells everyone you ran out of room in the house and what’s leftover is sitting in your driveway.
+
+If you have any questions about getting your house ready to sell, whether that involves staging, sorting, or throwing things away, don’t hesitate to reach out to me. I’d be happy to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/+Videos+/2017/October/Roanoke+Real+Estate+Agent-+Whats+the+First+Step+to+Take+When+Selling+Your+Home%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://damongettierblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/+Videos+/2017/October/Roanoke+Real+Estate+Agent-+Whats+the+First+Step+to+Take+When+Selling+Your+Home%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Sorting the things inside your home will start your home sale off right by simplifying your moving experience.</itunes:subtitle>
+        <itunes:author>Damon Gettier</itunes:author>
+        <itunes:summary>Sorting the things inside your home will start your home sale off right by simplifying your moving experience.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Roanoke, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>Unexpected Costs Could Leave You Reeling</title>
-        <link>localhost:4000/unexpected-costs-could-leave-you-reeling.html</link>
+        <link>http://damongettierblog.com/unexpected-costs-could-leave-you-reeling.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -53,7 +360,7 @@ Your annual homeowners insurance is not a closing cost—it is a cost to close, 
 If you need any information about this or other topics, please feel free to contact us.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/+Videos+/2017/October/Roanoke+Real+Estate+Agent-+Unexpected+Costs+Could+Leave+You+Reeling.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://damongettierblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/+Videos+/2017/October/Roanoke+Real+Estate+Agent-+Unexpected+Costs+Could+Leave+You+Reeling.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -72,7 +379,7 @@ Don’t go into a transaction unprepared. There is a difference between closing 
       
       <item>
         <title>Do Speedy Visits Spell Disinterest for Your House?</title>
-        <link>localhost:4000/do-speedy-visits-spell-disinterest-for.html</link>
+        <link>http://damongettierblog.com/do-speedy-visits-spell-disinterest-for.html</link>
         
           <category>Tips for Sellers</category>
         
@@ -99,7 +406,7 @@ It’s very rare that a buyer zips in and out of your house and then comes back 
 If you have any questions about speedy visits or you’re thinking of buying or selling a house in our Roanoke market, don’t hesitate to reach out to us. We’d love to work with you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/+Videos+/2017/August/Roanoke+Real+Estate+Agent-+Do+Speedy+Visits+Spell+Disinterest+for+Your+House%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://damongettierblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/+Videos+/2017/August/Roanoke+Real+Estate+Agent-+Do+Speedy+Visits+Spell+Disinterest+for+Your+House%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -118,7 +425,7 @@ If a buyer makes a speedy visit to your house, they’re probably not interested
       
       <item>
         <title>What Type of Loans Exist for Renovations?</title>
-        <link>localhost:4000/what-type-of-loans-exist-for-renovations.html</link>
+        <link>http://damongettierblog.com/what-type-of-loans-exist-for-renovations.html</link>
         
           <category>Renovations</category>
         
@@ -147,7 +454,7 @@ For the streamlined FHA loan, those repairs can only go up to $30,000 and can’
 If you have any questions about renovation loans, feel free to give me a call. I’d be happy to help you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/+Videos+/2017/August/Roanoke+Real+Estate+Agent-+What+Type+of+Loans+Exist+for+Renovations%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://damongettierblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/+Videos+/2017/August/Roanoke+Real+Estate+Agent-+What+Type+of+Loans+Exist+for+Renovations%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -166,7 +473,7 @@ Are there any loan options for home renovations out there? There are two, but on
       
       <item>
         <title>Do Open Houses Really Work?</title>
-        <link>localhost:4000/do-open-houses-really-work.html</link>
+        <link>http://damongettierblog.com/do-open-houses-really-work.html</link>
         
           <category>Open House</category>
         
@@ -199,7 +506,7 @@ So if your agent does do an open house, don’t put too much stock in the buyers
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/+Videos+/2017/July/Roanoke+Real+Estate+Agent-+Do+Open+Houses+Really+Work%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://damongettierblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/+Videos+/2017/July/Roanoke+Real+Estate+Agent-+Do+Open+Houses+Really+Work%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -218,7 +525,7 @@ There are a few things you need to know about open houses, and whether they are 
       
       <item>
         <title>Should You Bring an Architect in on a Home Inspection?</title>
-        <link>localhost:4000/should-you-bring-architect-in-on-home.html</link>
+        <link>http://damongettierblog.com/should-you-bring-architect-in-on-home.html</link>
         
           <category>Home Inspections</category>
         
@@ -245,7 +552,7 @@ The worst thing you can do is buy a house, blow out the wrong wall, and have the
 If you have any other questions about buying a home or the home inspection process, just give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://damongettierblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -264,7 +571,7 @@ Can you bring an architect or engineer with you to a home inspection? When shoul
       
       <item>
         <title>When to Take a Buyer Seriously in This Market</title>
-        <link>localhost:4000/when-to-take-buyer-seriously-in-this.html</link>
+        <link>http://damongettierblog.com/when-to-take-buyer-seriously-in-this.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -289,7 +596,7 @@ If the buyer you talk to isn’t working with an agent, doesn’t have a pre-app
 If you have any questions for me about selling your home or anything else related to real estate, give me a call or send me an email. We look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/Roanoke+Real+Estate+Agent-+How+to+spot+a+strong+buyer.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://damongettierblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/Roanoke+Real+Estate+Agent-+How+to+spot+a+strong+buyer.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -308,7 +615,7 @@ When someone says they are just beginning their home search, they could mean a n
       
       <item>
         <title>Should You Get an Inspection Before Making Renovations?</title>
-        <link>localhost:4000/should-you-get-inspection-before-making.html</link>
+        <link>http://damongettierblog.com/should-you-get-inspection-before-making.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -333,7 +640,7 @@ Getting a home inspection also means you can give it to your contractor and incl
 If you have any more questions about renovations, home improvements, contractors, or anything else of that nature, feel free to reach out to me. I’d be happy to help.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/Roanoke+Real+Estate+Agent-+Do+renovations+warrant+a+home+inspection%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://damongettierblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/Roanoke+Real+Estate+Agent-+Do+renovations+warrant+a+home+inspection%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -352,7 +659,7 @@ Getting a home inspection offers many benefits if you’re thinking of buying an
       
       <item>
         <title>Why Should You Be Wary of Solo Buyers?</title>
-        <link>localhost:4000/why-should-you-be-wary-of-solo-buyers.html</link>
+        <link>http://damongettierblog.com/why-should-you-be-wary-of-solo-buyers.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -377,7 +684,7 @@ Whenever a buyer who isn’t working with an agent comes to your house, don’t 
 If you have any questions for me about real estate or you’re thinking of buying or selling a home, give me a call or send me an email today. I would love to hear from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/Roanoke+Real+Estate+Agent-+A+solo+buyer+is+almost+unheard+of.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://damongettierblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/Roanoke+Real+Estate+Agent-+A+solo+buyer+is+almost+unheard+of.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -396,7 +703,7 @@ Beware of solo buyers. If they don’t have an agent representing them, they pro
       
       <item>
         <title>When Is the Right Time to Renovate Your Home?</title>
-        <link>localhost:4000/when-is-right-time-to-renovate-your-home.html</link>
+        <link>http://damongettierblog.com/when-is-right-time-to-renovate-your-home.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -421,7 +728,7 @@ We also recommend renovating when you move in rather than when you move out beca
 If you have any questions about renovations or homes in general here in the Roanoke market, don’t hesitate to give me a call or send me an email. I’d be happy to help!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/Roanoke+Real+Estate+Agent-+When+is+the+right+time+to+renovate%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://damongettierblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/Roanoke+Real+Estate+Agent-+When+is+the+right+time+to+renovate%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -440,7 +747,7 @@ If you’re thinking about renovating, when should you do it? Here’s what we r
       
       <item>
         <title>Need to Give a Spare Room a Purpose?</title>
-        <link>localhost:4000/need-to-give-spare-room-purpose-put-bed.html</link>
+        <link>http://damongettierblog.com/need-to-give-spare-room-purpose-put-bed.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -463,7 +770,7 @@ So what can you do with a spare room? Put a bed in it. It’s that simple. Putti
 Questions about staging? Reach out to me. I can answer any questions you may have about preparing to show your home. If you have any other questions, feel free to give me a call or send me an email. I look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/Real+Estate/Roanoke+Real+Estate+Agent-+Got+a+useless+room%253F+Heres+your+solution.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://damongettierblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/Real+Estate/Roanoke+Real+Estate+Agent-+Got+a+useless+room%253F+Heres+your+solution.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -482,7 +789,7 @@ Today I’m going to tell you the best way to give an empty room a purpose when 
       
       <item>
         <title>Is the Home Inspector Really Working for You? </title>
-        <link>localhost:4000/is-home-inspector-really-working-for-you.html</link>
+        <link>http://damongettierblog.com/is-home-inspector-really-working-for-you.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -511,7 +818,7 @@ You should pay extra attention to the termite inspection. Remember, not all term
 If you need any recommendations for other home inspections or if you have any real estate questions, just give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/Roanoke+Real+Estate+Agent-+Can+you+trust+the+home+inspector%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://damongettierblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/Roanoke+Real+Estate+Agent-+Can+you+trust+the+home+inspector%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -530,7 +837,7 @@ Do home inspectors work for the buyer or the seller? The answer really depends o
       
       <item>
         <title>How Does Refreshing Your Linens Help Sell Your Home? </title>
-        <link>localhost:4000/how-does-refreshing-your-linens-help.html</link>
+        <link>http://damongettierblog.com/how-does-refreshing-your-linens-help.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -559,7 +866,7 @@ You want people to feel like they could live in your house. They need to be comf
 If you have any other questions about staging your home or about real estate in general, give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/Roanoke+Real+Estate+Agent-+Make+sure+you+refresh+your+linens.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://damongettierblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/Roanoke+Real+Estate+Agent-+Make+sure+you+refresh+your+linens.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -578,7 +885,7 @@ In order to sell your home faster and for more money, make sure you take care of
       
       <item>
         <title>How to Choose the Right Home Inspector </title>
-        <link>localhost:4000/how-to-choose-right-home-inspector.html</link>
+        <link>http://damongettierblog.com/how-to-choose-right-home-inspector.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -605,7 +912,7 @@ Not all home inspectors are created equal. Just make sure you pick the one that 
 If you have any questions please feel free to give me a call or send me an email. I’m always happy to help!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/Real+Estate/Roanoke+Real+Estate+Agent-+You+Should+Always+Price+to+Sell.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://damongettierblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/Real+Estate/Roanoke+Real+Estate+Agent-+You+Should+Always+Price+to+Sell.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -624,7 +931,7 @@ If you need to order a home inspection, it’s important you pick the right home
       
       <item>
         <title>Why Focus on the Bed When Selling Your Home?</title>
-        <link>localhost:4000/why-focus-on-bed-when-selling-your-home.html</link>
+        <link>http://damongettierblog.com/why-focus-on-bed-when-selling-your-home.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -649,7 +956,7 @@ In most standard houses, a queen bed is usually as large as you should go. If yo
 If you have any questions for us about staging bedrooms or anything else related to real estate, give us a call or send us an email. We look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/Roanoke+Real+Estate+Agent-+Beware+of+big+beds+in+small+rooms.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://damongettierblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/Roanoke+Real+Estate+Agent-+Beware+of+big+beds+in+small+rooms.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -668,7 +975,7 @@ Bedrooms are one of the most important rooms for potential buyers to see. Here�
       
       <item>
         <title>What Do You Actually Get from a Home Inspection?</title>
-        <link>localhost:4000/what-do-you-actually-get-from-home.html</link>
+        <link>http://damongettierblog.com/what-do-you-actually-get-from-home.html</link>
         
           <category>Home Buying Tips</category>
         
@@ -695,7 +1002,7 @@ The good news is that you’ll get a really good report up front to know what’
 If you have any questions about home inspections and what you get from them, or you’re ready to buy or sell a home in the Roanoke market, give me a call or send me an email. I’d be happy to help!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/Real+Estate/Roanoke+Real+Estate+Agent-+What+do+you+really+get+with+an+inspection%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://damongettierblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/Real+Estate/Roanoke+Real+Estate+Agent-+What+do+you+really+get+with+an+inspection%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -714,7 +1021,7 @@ Not many home buyers seem to truly understand what you get with a home inspectio
       
       <item>
         <title>Keep Your Rooms Simple When Selling</title>
-        <link>localhost:4000/why-should-you-ditch-multi-purpose-room.html</link>
+        <link>http://damongettierblog.com/why-should-you-ditch-multi-purpose-room.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -741,7 +1048,7 @@ I really like to stress keeping rooms for their desired intention. A kitchen is 
 If you have any questions for us about staging a home or anything else relating to real estate or selling a home, give me a call or send me an email. I would love to hear from you soon!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/Roanoke+Real+Estate+Agent-+A+tip+for+properly+staging+your+home.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://damongettierblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/Roanoke+Real+Estate+Agent-+A+tip+for+properly+staging+your+home.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -760,7 +1067,7 @@ When you are getting ready to sell, staging is an important step. One thing you 
       
       <item>
         <title>What Should You Look for in a Home Inspection?</title>
-        <link>localhost:4000/what-should-you-look-for-in-home.html</link>
+        <link>http://damongettierblog.com/what-should-you-look-for-in-home.html</link>
         
           <category>Home Buying Tips</category>
         
@@ -790,7 +1097,7 @@ What an inspector looks for during a home inspection is major issues within the 
 If you have any more questions about home inspections, feel free to reach out to us by phone or email. We look forward to helping you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/Roanoke+Real+Estate+Agent-+Whats+the+deal+with+home+inspections%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://damongettierblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/Roanoke+Real+Estate+Agent-+Whats+the+deal+with+home+inspections%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -809,7 +1116,7 @@ As a buyer, there are only certain things you can ask for in a home inspection a
       
       <item>
         <title>What Can Landscaping Do for the Value of Your Property?</title>
-        <link>localhost:4000/what-can-landscaping-do-for-value-of.html</link>
+        <link>http://damongettierblog.com/what-can-landscaping-do-for-value-of.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -838,7 +1145,7 @@ If you want to sell your house for its maximum value, you need to position it pr
 If you have any questions about increasing your home’s value or about the Roanoke market, give me a call or send me an email. I’d be happy to help!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/Real+Estate/Roanoke+Real+Estate+Agent-+Can+landscaping+add+value+to+your+property%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://damongettierblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/Real+Estate/Roanoke+Real+Estate+Agent-+Can+landscaping+add+value+to+your+property%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -857,7 +1164,7 @@ If you want to get your house sold quickly and for top dollar, you need to inves
       
       <item>
         <title>What You Need to Know About Inspections</title>
-        <link>localhost:4000/what-you-need-to-know-about-inspections.html</link>
+        <link>http://damongettierblog.com/what-you-need-to-know-about-inspections.html</link>
         
           <category>Home Buying Tips</category>
         
@@ -884,7 +1191,7 @@ If you have any other questions about home inspectors or how to choose the right
 Additionally, if you or anyone you know is thinking about buying or selling a home in the Roanoke area, give me a call or send me an email. I’d love to work with you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/Roanoke+Real+Estate+Agent-+How+to+pick+an+inspector+when+the+time+comes.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://damongettierblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/Roanoke+Real+Estate+Agent-+How+to+pick+an+inspector+when+the+time+comes.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
