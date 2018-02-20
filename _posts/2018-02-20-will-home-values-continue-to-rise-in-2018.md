@@ -33,7 +33,7 @@ What was behind this phenomenal appreciation? Supply and demand.
 
 Supply was historically low—we were about 12% below average, and we’re still around that market here in 2018. One of the primary reasons for this is baby boomers are choosing to age in place. In many cases, they’re comfortable with their mortgage payments or their homes are completely paid off, so that represents a big chunk of homes staying off the market.
 
-Another reason is the 30- to 50-year-old homeowner demographic won’t sell their homes either. &nbsp;They lost a lot of home equity during the financial crisis, and they’re making that equity back up now as prices increase, but they haven’t made as much equity back as they’d like and selling generally isn’t an exciting option for them. Most feel like they want to wait until prices rise more until they list their homes. That’s another big chunk of homes staying off the market.
+Another reason is the 30- to 50-year-old homeowner demographic won’t sell their homes either.  They lost a lot of home equity during the financial crisis, and they’re making that equity back up now as prices increase, but they haven’t made as much equity back as they’d like and selling generally isn’t an exciting option for them. Most feel like they want to wait until prices rise more until they list their homes. That’s another big chunk of homes staying off the market.
 
 {% include pullquote.html %}
 
