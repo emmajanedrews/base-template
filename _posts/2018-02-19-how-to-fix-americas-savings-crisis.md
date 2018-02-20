@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Fix America’s Savings Crisis
-date: 2018-02-19 16:42:20
+date: 2018-02-19 16:42:00
 tags:
   - Financial Advice
 excerpt: >-
@@ -9,7 +9,7 @@ excerpt: >-
   investment performance can protect your company and positively impact your
   employees.
 enclosure:
-pullquote: Now is not the time to sit back with a “business-as-usual” attitude.
+pullquote: Now is not the time to sit back with a “business as usual” attitude.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -27,9 +27,9 @@ Even though these 401(k) plans have been around since 1980 and the total assets 
 
 The U.S. government under the Obama administration took over our healthcare system. Could the government do the same for our private retirement system?
 
-Already, individual states are establishing retirement plans for employers with fewer than 50 employees? Is that what you want? Do you want the government managing our private retirement system?
+Already, individual states are establishing retirement plans for employers with fewer than 50 employees. Is that what you want? Do you want the government managing our private retirement system?
 
-I really hope not. You don’t have to look very far to see what the government has done with social security to get your answer. **It’s a pay-as-you-go system with fewer people putting in then those who are taking out.**We know that the definition of insanity is doing the same thing over and over again and expecting different results.
+I really hope not. You don’t have to look very far to see what the government has done with social security to get your answer. **It’s a pay-as-you-go system with fewer people putting in then those who are taking out.&nbsp;**We know that the definition of insanity is doing the same thing over and over again and expecting different results.
 
 In addition, the Department of Labor’s new enforceable fiduciary standard of care will put an even greater spotlight on your responsibilities as a plan sponsor fiduciary and the responsibilities of all of your service providers.
 
