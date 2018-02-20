@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: tAyJN0o5frM
+youtube_code: W4AMySiipXI
 ---
 
 {% include youtube.html %}
@@ -32,6 +32,6 @@ In addition to vetting your vendors, you’ll also have to look at your investme
 
 316, 321, 338 are co-fiduciaries that you may be using currently or are considering using. All this means is that you’re taking some of your fiduciary burden and giving it to a third-party vendor to help you with it. They are never totally responsible because as long as you can hire, fire, or retain them, you are still the fiduciary.
 
-Finally, let’s talk about investment selection. How many should you use in your plan? I’ve heard of people using 30, 50, or even 100 different investments. However, that’s not what you should do. You want to make sure your process is simple and repeatable. **The easiest way to do this is by thoroughly vetting and choosing 16 to 25 investments.&nbsp;**Fewer investments will also result in participants being less scared about using their plan and an overall increase in plan participation.
+Finally, let’s talk about investment selection. How many should you use in your plan? I’ve heard of people using 30, 50, or even 100 different investments. However, that’s not what you should do. You want to make sure your process is simple and repeatable. **The easiest way to do this is by thoroughly vetting and choosing 16 to 25 investments.**Fewer investments will also result in participants being less scared about using their plan and an overall increase in plan participation.
 
 If you have any questions for us about your fiduciary role or you want to take action and get started on a world-class 401(k) plan for your employees today, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.
