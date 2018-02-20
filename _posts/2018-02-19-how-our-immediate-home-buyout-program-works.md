@@ -23,7 +23,7 @@ youtube_code: gokji-jKajM
 
 Today I’m excited to talk to you about our exclusive immediate home buyout program. Here’s how it works.
 
-**We can either help you sell your home traditionally, or we can show it to our investors who can give you an immediate cash offer**. Let’s say that you have time on your side and you want to get the most money as possible for your home sale. Listing it traditionally through our team would probably be the best idea. The only drawback here is that your condition has to be great and go through the entire transaction process.
+**We can either help you sell your home traditionally, or we can show it to our investors who can give you an immediate cash offer**. Let’s say that you have time on your side and you want to get the most money as possible for your home sale. Listing it traditionally through our team would probably be the best idea. The only drawback here is that your home's condition has to be great and you have to go through the entire transaction process.
 
 {% include pullquote.html %}
 
