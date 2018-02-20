@@ -7,45 +7,47 @@ custom_links:
     url:
 
 emma:
-  lightbox:
+  lightbox: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808645';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
   form:
 
 client:
-  name:
+  name: Dar Walden
   title:
   license_number:
   about_markdown: |
+    Dar is the 'go to' person for real estate consulting in Alaska. Dar keeps ahead of real estate trends through continuous professional training and networking with top producers. She continues to raise the bar of expectations by using an effective consultative approach that offers her clients the best prospective in the real estate industry today.
 
-  market:
-  brand:
+    Dar's exuberant personality, work ethic, attention to detail, drive for perfection, consistent contact, negotiating power, and overall service leave you smiling and completely satisfied at closing!
+  market: Anchorage
+  brand: Keller Williams Realty
   brokerage:
   address:
-  phone:
-  phone_type:
-  phone2:
-  phone2_type:
-  email:
-  url:
+  phone: 907-865-6404
+  phone_type: Phone
+  phone2: 907-240-2804
+  phone2_type: Mobile
+  email: Dar@DarWalden.Com
+  url: http://www.DarWalden.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.alaskatopagent.com/search/comparablehomes.aspx
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.alaskatopagent.com/search/ResidentialAdvancedSearch.aspx
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.alaskatopagent.com/search/comparablehomes.aspx
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://www.alaskatopagent.com/search/ResidentialAdvancedSearch.aspx
 
 lender:
   show_section: false
@@ -61,17 +63,17 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/DarWaldenTeam
+  linkedin_url: http://www.linkedin.com/pub/dar-walden/16/766/558
+  gplus_url: https://plus.google.com/u/0/109040742629683084086/posts
+  youtube_url: https://www.youtube.com/channel/UC9KT-GyRs0gn8AQ-uwlcrbw
+  twitter_url: https://twitter.com/darwalden
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
-  podcast_url:
+  zillow_url: http://www.zillow.com/profile/Dar-Walden-Team/
+  trulia_url: http://www.trulia.com/profile/Real_Estate_Pro-Anchorage_AK-2387822/
+  yelp_url: http://www.yelp.com/biz/the-dar-walden-team-of-keller-williams-realty-anchorage
+  podcast_url: https://itunes.apple.com/us/podcast/anchorage-alaska-real-estate-podcast-with-dar-walden/id1215735564?mt=2
 
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
