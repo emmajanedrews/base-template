@@ -23,11 +23,11 @@ youtube_code: gW_TsSgb5bU
 
 How do you determine your home’s value? Today, we’ll be going over four different ways to do so.&nbsp;
 
-**1. Assessed value.** Simply go into your county’s tax assessment database. If you live in Cumberland County, for example, the website is [www.CCPA.net](http://www.CCPA.net). In most counties, the database will give you a summary of the tax assessment you’re paying your property taxes on. However, there is typically a margin of error involved in the county-assessed tax value of your home. Thankfully, it is possible to dispute your taxes and get them lowered if you can provide evidence that you are being overcharged.&nbsp;
+**1. Assessed value.** Simply go into your county’s tax assessment database. If you live in Cumberland County, for example, the website is [www.CCPA.net](http://www.CCPA.net){: target="_blank"}. In most counties, the database will give you a summary of the tax assessment you’re paying your property taxes on. However, there is typically a margin of error involved in the county-assessed tax value of your home. Thankfully, it is possible to dispute your taxes and get them lowered if you can provide evidence that you are being overcharged.&nbsp;
 
 {% include pullquote.html %}
 
-**2. Online valuation tool.** This common method of determining home value, which includes tools like Zillow’s Zestimate feature, has a significant margin of error. However, these online tools can be a good place to start if you’re simply looking for an estimate. Along with Zillow, you can also visit the valuation tool on my website. You can do so by visiting [www.ViewCentralPAHouses.com](http://www.ViewCentralPAHouses.com) and clicking on the “What’s Your Home Worth?” link.
+**2. Online valuation tool.** This common method of determining home value, which includes tools like Zillow’s Zestimate feature, has a significant margin of error. However, these online tools can be a good place to start if you’re simply looking for an estimate. Along with Zillow, you can also visit the valuation tool on my website. You can do so by visiting [www.ViewCentralPAHouses.com](http://www.ViewCentralPAHouses.com){: target="_blank"} and clicking on the “What’s Your Home Worth?” link.
 
 **3. Appraisal.** Unlike the first two methods I listed, this option is not free. However, appraisals will provide you with a much more accurate result. Nevertheless, an appraisal is still only an opinion. If 10 different appraisers were to give you their opinion on your property, you would receive 10 different answers.&nbsp;
 
