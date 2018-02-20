@@ -37,4 +37,4 @@ How? You can go into Zillow, claim your house, and tweak all of the facts listed
 
 **Zillow's Accuracy Chart**<br>The Zestimate’s accuracy depends on location and availability of data in an area. Some counties have deeply detailed information on homes such as a number of bedrooms, bathrooms and square footage and others do not. The more data available, the more accurate the Zestimate value.<br>***[https://www.zillow.com/zestimate/#acc](https://www.zillow.com/zestimate/#acc)***
 
-**Stacy's Zillow Challenge**<br>Send Stacy your Zestimate and let's see how Zillow compares to a top agent in your local market. &nbsp;No obligation necessary.&nbsp;<br>[http://www.stacyesser.com/get-a-free-home-valuation/](http://www.stacyesser.com/get-a-free-home-valuation/)<br>&nbsp;
+**Stacy's Zillow Challenge**<br>Send Stacy your Zestimate and let's see how Zillow compares to a top agent in your local market. &nbsp;No obligation necessary.&nbsp;<br>***[http://www.stacyesser.com/get-a-free-home-valuation/](http://www.stacyesser.com/get-a-free-home-valuation/)***<br>&nbsp;
