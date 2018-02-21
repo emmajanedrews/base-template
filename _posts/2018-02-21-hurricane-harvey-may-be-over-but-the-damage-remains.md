@@ -21,9 +21,9 @@ It has been months since Hurricane Harvey made landfall in Houston. However, **w
 
 {% include pullquote.html %}
 
-**I wanted to know that my donated funds would go directly to the families that so desperately need them, so I set up a GoFundMe for others who feel the same way.** Many of my neighbors lost everything they own from pets to vehicles, homes, and even lives.
+**I wanted to know that my donated funds would go directly to the families that so desperately need them, so I set up a GoFundMe for others who feel the same way.** Many of my neighbors lost everything they own from pets to vehicles, homes, and even lives. You can donate [**here.&nbsp;**](https://www.gofundme.com/5kj5jz-houston-hurricane-harvey-relief)
 
-### [**Click here to donate**](https://www.gofundme.com/5kj5jz-houston-hurricane-harvey-relief)
+I also attended an event called A Heart 4 Houston where NFL players and celebrities came together to give back to the community. I spoke with volunteers, nonprofit organizers, and a Harvey victim whose story is just one of many in our city.&nbsp;**To check out the highlights from the event [click here.](http://buyingsellinghoustonvlog.com/nfl-players-celebrities-come-out-to-give-back.html)**
 
 Many homeowners and renters did not have flood insurance because it is not required in most parts of Houston since we normally do not flood this horribly.
 
