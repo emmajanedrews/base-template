@@ -5,7 +5,7 @@ date: 2018-02-20 21:11:00
 tags:
   - Real Estate
 excerpt: >-
-  I recently attended “A Heart for Houston,” which was an event put on by local
+  I recently attended “A Heart 4 Houston,” which was an event put on by local
   partnering nonprofits as a show of support for those impacted by Hurricane
   Harvey. Today, I would like to highlight a few of the organizations and people
   I heard from.
@@ -16,7 +16,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/tia-is-harvey-over-youtube.jpg
+youtube_alternate_image: /uploads/porsha-long-vid-youtube.jpg
 youtube_code: 'https://youtu.be/kyicWQ-LNrc'
 ---
 
