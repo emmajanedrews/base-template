@@ -60,17 +60,17 @@ So, if working with a team that has a unique culture and vision, all the tools a
 
 **DO YOU NEED MORE REASONS TO CONSIDER BETTER HOMES AND GARDENS REAL ESTATE INNOVATIONS?**
 
-* Our leader, Misty SOLDwisch runs the Top Producing Team of REALTORS in our state!
+- Our leader, Misty SOLDwisch runs the Top Producing Team of REALTORS in our state!
 
-* We have too many buyer leads and appointments! (this is not a normal problem!)
+- We have too many buyer leads and appointments! (this is not a normal problem!)
 
-* Leads provided and appointments set for our buyer and listing agents!
+- Leads provided and appointments set for our buyer and listing agents!
 
-* You would like to get off of the typical roller-coaster ride that is real estate
+- You would like to get off of the typical roller-coaster ride that is real estate
 
-* You are hard-working and will treat real estate as a career
+- You are hard-working and will treat real estate as a career
 
-* You would like access to our unique system that creates leads and gives you the opportunity to earn as much as you can handle!
+- You would like access to our unique system that creates leads and gives you the opportunity to earn as much as you can handle!
 
 **One of our agent’s target income (net to the agent, not gross) this year is more than $200k!&nbsp; We have had 3 agents join our company in the last 12 months that went from closing 3, 5, 8 deals in one year, to now closing over 30 in their first year with us!**
 
