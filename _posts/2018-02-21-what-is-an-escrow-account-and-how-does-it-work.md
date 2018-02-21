@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Is an Escrow Account and How Does It Work?
-date: 2018-02-02 14:45:38
+date: 2018-02-21 09:45:00
 tags:
 excerpt: >-
   An escrow account is a holding tank for money that’s being held by a third
@@ -16,7 +16,6 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: D3avVTIMkik
 ---
-
 
 {% include youtube.html %}
 
