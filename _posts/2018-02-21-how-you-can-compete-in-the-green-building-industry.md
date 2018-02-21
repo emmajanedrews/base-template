@@ -2,7 +2,7 @@
 layout: post
 title: How You Can Compete in the Green Building Industry
 tags:
-  - BioPharma
+  - Building Products
 excerpt: >-
   There is a way that LEED certification can give your company a competitive
   edge. Here’s how.
@@ -30,6 +30,6 @@ Companies are looking at how they can stay competitive. One of the areas that we
 
 {% include pullquote.html %}
 
-In turn, it’s showing the employee that** the company is loyal to their future education.** It’s also helping the company by having the opportunity to win these projects or be involved in them from a product perspective.
+In turn, it’s showing the employee that\*\* the company is loyal to their future education.\*\* It’s also helping the company by having the opportunity to win these projects or be involved in them from a product perspective.
 
 If you would like to know more, please feel free to reach out to me directly.
