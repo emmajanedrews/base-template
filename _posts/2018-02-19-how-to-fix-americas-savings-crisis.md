@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: UKzNnDumtjk
+youtube_code: zmvKkSKskV8
 ---
 
 {% include youtube.html %}
@@ -29,7 +29,7 @@ The U.S. government under the Obama administration took over our healthcare syst
 
 Already, individual states are establishing retirement plans for employers with fewer than 50 employees. Is that what you want? Do you want the government managing our private retirement system?
 
-I really hope not. You don’t have to look very far to see what the government has done with social security to get your answer. **It’s a pay-as-you-go system with fewer people putting in then those who are taking out.&nbsp;**We know that the definition of insanity is doing the same thing over and over again and expecting different results.
+I really hope not. You don’t have to look very far to see what the government has done with social security to get your answer. **It’s a pay-as-you-go system with fewer people putting in then those who are taking out.**We know that the definition of insanity is doing the same thing over and over again and expecting different results.
 
 In addition, the Department of Labor’s new enforceable fiduciary standard of care will put an even greater spotlight on your responsibilities as a plan sponsor fiduciary and the responsibilities of all of your service providers.
 
