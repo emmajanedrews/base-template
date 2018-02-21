@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Make Your Listing Shine in a Competitive Market
+title: 3 Seller Tips to Make Your Listing Stand Out
 date: 2018-02-20 21:36:00
 tags:
   - Home Seller Tips
