@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Make Your Listing Shine in a Competitive Market
-date: 2018-02-20 21:36:22
+date: 2018-02-20 21:36:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/no-5.jpg
-youtube_code: 3TGd17KY0E4
+youtube_code: sOozBgVj4XU
 ---
 
 {% include youtube.html %}
@@ -27,8 +27,8 @@ Everyone knows the basic steps of preparing a home for market. Things like declu
 
 {% include pullquote.html %}
 
-<br>**2. Clean your mechanical areas.** Make sure mechanical areas are tidy and dust-free and that furnace filters are replaced. This will give the buyer a great impression, leaving them more certain about the general care and maintenance of your listing.&nbsp;
+<br>**2. Clean your mechanical areas.** Make sure mechanical areas are tidy and dust-free and that furnace filters are replaced. This will give the buyer a great impression, leaving them more certain about the general care and maintenance of your listing.
 
-<br>**3. Clean up closets, storage areas, and your garage.** Obviously it is very important to clean, stage, and declutter the main living areas of your home. However, tidying up the storage areas throughout your property can give your listing an extra boost. If your storage areas are in disarray, buyers will feel as if your home lacks adequate space for the things they themselves will need to store when they move in.&nbsp;
+<br>**3. Clean up closets, storage areas, and your garage.** Obviously it is very important to clean, stage, and declutter the main living areas of your home. However, tidying up the storage areas throughout your property can give your listing an extra boost. If your storage areas are in disarray, buyers will feel as if your home lacks adequate space for the things they themselves will need to store when they move in.
 
-If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.<br>
