@@ -13,7 +13,7 @@ excerpt: >-
   find out more about last year’s impact on our 2018 market, watch our latest
   video.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Heather+Neidlinger/2018/Central+Pennsylvania+Real+Estate+Agent-+What+to+Expect+from+Market+2018.mp4
+  https://s3.amazonaws.com/vyralmarketing/Heather+Neidlinger/2018/Central+Pennsylvania+Real+Estate+Agent-+What+Can+You+Expect+From+Our+Market+in+2018%253F+(1).mp4
 pullquote: >-
   Our listings were on the market for roughly half of the time that there were
   in previous years.
