@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NFL Players & Celebrities Come out to Give Back
+title: NFL Players & Celebrities Come Out to Give Back
 date: 2018-02-20 21:11:00
 tags:
   - Real Estate
@@ -26,7 +26,7 @@ Though Hurricane Harvey is months behind us now, its lasting impact has been a c
 
 Today I’m bringing you highlights from a recent event I attended called “A Heart 4 Houston”—a partnership with Porsha Williams and Tackles4Cancer, a 501(c)(3) nonprofit based out of Houston. It was an amazing experience to see so many people band together at this event.
 
-**Singer, songwriter, and actress T&aacute;mar Davis joined in on the show of support. “There’s so much love in this city,” she remarked during our conversation together.**
+**Singer, songwriter, and actress Támar Davis joined in on the show of support. “There’s so much love in this city,” she remarked during our conversation together.**
 
 If you want to get involved, yourself, there are several ways you can do so. One of the ways is by donating to the GoFundMe page that I’ve created, which you can find **[here](https://www.gofundme.com/5kj5jz-houston-hurricane-harvey-relief)**. All the funds raised there will go toward Harvey relief efforts.
 
