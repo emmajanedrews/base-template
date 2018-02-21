@@ -45,7 +45,7 @@ permalink: /hiring-process/
         <li>Available Thursday’s 4pmEST-6pmEST for Prospecting </li>
       </ul>
     </div>
-
+</div>
 
 <h1>DFT Training Program | 2018</h1>
 <hr>

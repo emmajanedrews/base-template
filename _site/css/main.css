@@ -2894,10 +2894,14 @@ form select {
     list-style: none; }
 
 #hiring {
-  margin-top: 22%; }
+  width: 90%;
+  display: block;
+  margin: auto; }
 
 #qualifications {
-  margin-top: 10%; }
+  width: 75%;
+  display: block;
+  margin: auto; }
 
 .subscribe {
   background: #B40101;
