@@ -7,10 +7,10 @@ permalink: /join-our-team/
 <div class="recruiting-page">
 						<h1 class="join-us">Join One of the Fastest Growing Real Estate Teams in Central Iowa</h1>
 						<h5 class="join-us-subtitle">How would your life change if you consistently earned $75,000, $100,000, $150,000 or more as a full-time real estate agent?</h5>
-						<div class="recruiting-photo"><span class="client-image-container"> <img class="client-image" alt="Misty SOLDwisch" src="/img/headshot.jpg" /> </span></div>
+						<div class="recruiting-photo">&nbsp;</div>
 					</div>
 
-<figcaption class="caption">Misty SOLDwisch</figcaption>
+<figcaption class="caption">&nbsp;</figcaption>
 
 ---
 
@@ -20,7 +20,7 @@ permalink: /join-our-team/
 
 **How would your life change if you consistently earned $75,000, $100,000 or $150,000+ as a full-time real estate agent?**
 
-We have cracked the code to help real estate agents NET more money than over 90% of agents in the Central Iowa market. You don’t have to have years of experience to join our team BUT you must have the desire to do what it takes to become successful. And we will show you how.
+We have cracked the code to help real estate agents NET more money than over 90% of agents in the Central Iowa market. You don’t have to have years of experience to join our team BUT you must have the desire to do what it takes to become successful. And we will show you how. &nbsp;![](/uploads/versions/AAEAAQAAAAAAAAxWAAAAJGU2NzJlZTc3LTQ3MjgtNDdlOS04Mzg2LTBmYjZlZGVlZDE5Ng---x----200-200x---.jpg)
 
 An agent-centric culture. A commitment to training, coaching, and education. A model that rewards our agents as true partners.
 
