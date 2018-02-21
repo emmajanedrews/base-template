@@ -5,7 +5,7 @@ permalink: /join-our-team/
 ---
 
 <div class="recruiting-page">
-						<h1 class="join-us">Join One of the Fastest Growing Real Estate Teams in Central Iowa</h1>
+						<h2 class="join-us">Join One of the Fastest Growing Real Estate Teams in Central Iowa</h2>
 						<h5 class="join-us-subtitle">How would your life change if you consistently earned $75,000, $100,000, $150,000 or more as a full-time real estate agent?</h5>
 						<div class="recruiting-photo">&nbsp;</div>
 					</div>
