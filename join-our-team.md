@@ -62,8 +62,6 @@ permalink: /join-our-team/
 
 ###### So, if working with a company that has a unique culture and vision, all the tools and training you need to succeed, and if a steady supply of leads and commission generating opportunities interests you, check out the steps at the bottom of this page.
 
-###### &lt;html&gt; &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/D5tam-BBNms" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt; &lt;/html&gt;
-
 ###### &nbsp;
 
 ###### **DO YOU NEED MORE REASONS TO CONSIDER BETTER HOMES AND GARDENS REAL ESTATE INNOVATIONS?**
