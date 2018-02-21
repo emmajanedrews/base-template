@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bringing You a Market Update and a Special Invitation
+title: We Have an Inventory Crisis!
 tags:
 excerpt: >-
   Today, I’ve got two things to share with you: an invitation to a client
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/wes-peters-ss.jpg
-youtube_code: 'EYs9ABmqUDY'
+youtube_code: EYs9ABmqUDY
 ---
 
 {% include youtube.html %}
