@@ -1,14 +1,14 @@
 ---
 layout: post
 title: An Exciting Development in Our Real Estate Market
-date: 2018-02-20 20:44:01
+date: 2018-02-20 20:44:00
 tags:
   - Market Update
 excerpt: >-
   The real estate market is in a fantastic spot for home sellers. Here’s what
   you can expect.
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/2018/The+Kohler+Group-.mp4'
-pullquote: Single-family home transactions are up by 24% from last year.
+pullquote: Single-family home transactions is up by 24% from last year.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -18,7 +18,7 @@ youtube_code: qYZzlm8VRTQ
 
 {% include youtube.html %}
 
-I have some fantastic news to share with you about our real estate market today. Compared to the same time last year, the number of single-family home transactions are up by 24%.
+I have some fantastic news to share with you about our real estate market today. Compared to the same time last year, the number of single-family home transactions is up by 24%.
 
 {% include pullquote.html %}
 
