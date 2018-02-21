@@ -20,7 +20,7 @@ Many people seem to be confused as to the difference between an appraisal and an
 
 First, we always recommend you have an inspection performed any time you buy a home. **This makes sure the property is safe and in working condition.**
 
-Insurability, though, is one thing people sometimes forget about the inspection process. So talk to your insurance property and make sure the home is insurable.
+Insurability, though, is one thing people sometimes forget about the inspection process. So talk to your insurance company and make sure the home is insurable.
 
 Inspections are optional, but we always recommend them. Appraisals, on the other hand, are a requirement whenever you are doing a financed purchase. An appraiser is selected through a randomized process by the bank to ensure impartiality.
 
