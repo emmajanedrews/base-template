@@ -25,10 +25,8 @@ It has been months since Hurricane Harvey made landfall in Houston. However, **w
 
 ### [**Click here to donate**](https://www.gofundme.com/5kj5jz-houston-hurricane-harvey-relief)
 
-&nbsp;
-
 Many homeowners and renters did not have flood insurance because it is not required in most parts of Houston since we normally do not flood this horribly.
 
-Many areas that were under water have never flooded in my lifetime.** I am raising money for my community. I am asking for donations in any amount.**These funds will go directly to the hurricane victims, and I will have video and pictures online of our efforts so any donor can keep track of how their funds are used.
+Many areas that were under water have never flooded in my lifetime. **I am raising money for my community. I am asking for donations in any amount.** These funds will go directly to the hurricane victims, and I will have video and pictures online of our efforts so any donor can keep track of how their funds are used.
 
-You may email me or give me a call for more information. Feel free to keep up on with me on facebook as I share pictures and stories of families putting their lives back together piece by piece. Thank you for your contribution.
+**You may email me or give me a call for more information.** Feel free to keep up on with me on facebook as I share pictures and stories of families putting their lives back together piece by piece. Thank you for your contribution.
