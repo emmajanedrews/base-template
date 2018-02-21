@@ -32,7 +32,7 @@ For sellers, this means that **there are fewer homes in the marketplace for buye
 
 As far as buyers, since we’re starting to see that rise in home prices, **now is definitely the right time to buy.** In addition to home prices rising, interest rates will be going up as well. The Feds have announced that they’ll increase rates multiple times in the near future. In a future post, we’ll cover in more detail what that could mean for you, financially speaking.
 
-Some people think it’s a better idea to hold off until March or April to list their home, but you need to understand that those are the months when inventory will skyrocket. If you list now, you might be one of five homes listed in your area. In two months, you might bone of ten. **Listing now means you have less competition and a better chance of getting your home sold.**
+Some people think it’s a better idea to hold off until March or April to list their home, but you need to understand that those are the months when inventory will skyrocket. If you list now, you might be one of five homes listed in your area. In two months, you might be one of ten. **Listing now means you have less competition and a better chance of getting your home sold.**
 
 I put a house on the market a couple of days ago and not long after, we already had multiple offers on it. I’m confident that it could be the same for you.
 
