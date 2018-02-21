@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Why Should You Work With an Agent?
-date: 2018-02-15 19:57:54
+title: Why Should You Work With My Own Realtor
+date: 2018-02-15 19:57:00
 tags:
   - Real Estate
 excerpt: Having your own representation in real estate matters. Here’s why.
@@ -11,7 +11,7 @@ pullquote: A buyer’s agent will represent you and only you.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/work-with-an-agent-email.jpg
+youtube_alternate_image: /uploads/work-with-an-agent-email-1.jpg
 youtube_code: Iwdgl6lfPhw
 ---
 
