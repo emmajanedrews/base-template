@@ -67,10 +67,7 @@
 <loc>http://davefriedmancoaching.com/about/</loc>
 </url>
 <url>
-<loc>http://davefriedmancoaching.com/client%2520testimonials.html</loc>
-</url>
-<url>
-<loc>http://davefriedmancoaching.com/client-testionials.html</loc>
+<loc>http://davefriedmancoaching.com/client-testimonials/</loc>
 </url>
 <url>
 <loc>http://davefriedmancoaching.com/contact/</loc>
@@ -95,6 +92,9 @@
 </url>
 <url>
 <loc>http://davefriedmancoaching.com/subscribe/</loc>
+</url>
+<url>
+<loc>http://davefriedmancoaching.com/testimonials/</loc>
 </url>
 <url>
 <loc>http://davefriedmancoaching.com/thankyou/</loc>

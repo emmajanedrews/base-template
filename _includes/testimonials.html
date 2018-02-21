@@ -12,7 +12,7 @@
 							<div class="item">
 		            {{item.name | prepend: '<p class="testimonial-attribute">' | append: '</p>'}}
 								<div id="item-truncated">
-		            {{item.quote | prepend: '<p class="testimonial">' | append: '</p>' | truncate: 300 }}
+		            {{item.quote | prepend: '<p class="testimonial">' | append: '</p>' }}
 								{% if item.quote.size >= 296 %}
 									<p class="expand item-toggle">Show More <i class="fa fa-plus-square-o expand"></i></p>
 								{% endif %}

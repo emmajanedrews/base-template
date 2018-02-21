@@ -24,4 +24,9 @@ permalink: /values/
 <br>
 <img src="/img/career-table.jpg" class="post-image">
 <br>
+<br>
+<h1>First 100 Days | ISA & Jr. Agent</h1>
+<hr>
+<a href="https://docs.google.com/spreadsheets/d/1zMWbe3YiJHcBuqO4hyTPMJUWiED9MO4xH7twKQoxndw/" target="_blank"><img src="/img/first100.jpg" class="post-image"></a><br>
+<span class="schedule"><a href="https://docs.google.com/spreadsheets/d/1zMWbe3YiJHcBuqO4hyTPMJUWiED9MO4xH7twKQoxndw/" target="_blank">For Full Schedule, click here</a></span>
 </div>
