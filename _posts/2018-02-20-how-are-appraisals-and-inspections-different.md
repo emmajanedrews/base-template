@@ -20,18 +20,18 @@ Many people seem to be confused as to the difference between an appraisal and an
 
 First, we always recommend you have an inspection performed any time you buy a home. **This makes sure the property is safe and in working condition.**
 
-Insurability, though, is one thing people sometimes forget in the inspection process. So talk to your insurance property and make sure the home is insurable.
+Insurability, though, is one thing people sometimes forget about the inspection process. So talk to your insurance property and make sure the home is insurable.
 
 Inspections are optional, but we always recommend them. Appraisals, on the other hand, are a requirement whenever you are doing a financed purchase. An appraiser is selected through a randomized process by the bank to ensure impartiality.
 
 {% include pullquote.html %}
 
-**The appraiser will come in and place a value on the home.**They want to make sure the home is sufficient in value to act as collateral for the bank and also that the home is safe, sound, and secure for an owner-occupied loan.
+**The appraiser will come in and place a value on the home.** They want to make sure the home is sufficient in value to act as collateral for the bank and also that the home is safe, sound, and secure for an owner-occupied loan.
 
 Inspections are more thorough and time-consuming than an appraisal.
 
 Once an appraiser has finished looking at your home, they may make a few requests. These requests must be satisfied in order for the loan to go through. However, these requests are rare. Your agent can help you negotiate them if this situation arises.
 
-When an inspection is over, on the other hand, the results are just suggestions. **Nothing the inspector recommends is a requirement.**A buyer may ask for a credit, ask the seller to have items fixed, or simply accept the property as-is.
+When an inspection is over, on the other hand, the results are just suggestions. **Nothing the inspector recommends is a requirement.** A buyer may ask for a credit, ask the seller to have items fixed, or simply accept the property as-is.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
