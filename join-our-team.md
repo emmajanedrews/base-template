@@ -5,8 +5,8 @@ permalink: /join-our-team/
 ---
 
 <div class="recruiting-page">
-						<h2 class="join-us">Join One of the Fastest Growing Real Estate Teams in Central Iowa</h2>
-						<h5 class="join-us-subtitle">How would your life change if you consistently earned $75,000, $100,000, $150,000 or more as a full-time real estate agent?</h5>
+						<h2 class="join-us">Join One of the Fastest Growing Real Estate Companies in Iowa</h2>
+						<h5 class="join-us-subtitle"><em>How would your life change if you consistently earned $75,000, $100,000, $150,000 or more as a full-time real estate agent?</em></h5>
 						<div class="recruiting-photo">&nbsp;</div>
 					</div>
 
@@ -18,9 +18,9 @@ permalink: /join-our-team/
 
 ######
 
-**How would your life change if you consistently earned $75,000, $100,000 or $150,000+ as a full-time real estate agent?**
+#### **How would your life change if you consistently earned $75,000, $100,000 or $150,000+ as a full-time real estate agent?**
 
-We have cracked the code to help real estate agents NET more money than over 90% of agents in the Central Iowa market. You don’t have to have years of experience to join our team BUT you must have the desire to do what it takes to become successful. And we will show you how.
+#### We have cracked the code to help real estate agents NET more money than over 90% of agents in the Central Iowa market. You don’t have to have years of experience to join our company BUT you must have the desire to do what it takes to become successful. ***And we will show you how.***
 
 &nbsp;![](/uploads/versions/AAEAAQAAAAAAAAxWAAAAJGU2NzJlZTc3LTQ3MjgtNDdlOS04Mzg2LTBmYjZlZGVlZDE5Ng---x----200-200x---.jpg)
 
@@ -28,59 +28,77 @@ We have cracked the code to help real estate agents NET more money than over 90%
 
 &nbsp;
 
-An agent-centric culture. A commitment to training, coaching, and education. A model that rewards our agents as true partners.
+#### An agent-centric culture. A commitment to training, coaching, and education. A model that rewards our agents as true partners.
 
-**AND… We want YOU to become part of our growing team!&nbsp;**However tough it’s been for you, whatever you’ve been through, regardless of how discouraged you may feel right now – we can likely relate to your situation. We have created a better way to succeed in real estate and we’ll gladly share with you what we’ve learned.
+&nbsp;
 
-We are doing something very special at&nbsp;**Better Homes and Gardens Real Estate Innovations**&nbsp;. We’ve built one of the highest production teams in the country by assembling a group of highly driven, success hungry, real estate professionals. Agents who will accept and adopt our methods for lead follow-up and fulfillment, client service, and team work will enjoy a high rate of success…plain and simple.
+#### **AND… We want YOU to become part of our growing company!&nbsp;**However tough it’s been for you, whatever you’ve been through, regardless of how discouraged you may feel right now – we can likely relate to your situation. We have created a better way to succeed in real estate and we’ll gladly share with you what we’ve learned.
 
-In our business, success and a high rate of pay go hand in hand. Nothing in this business stays the same and if you don’t have a systemized business approach, a proven methodology, and support, making a living in real estate in the “new economy” is going to be very hard.
+#### We are doing something very special at&nbsp;**Better Homes and Gardens Real Estate Innovations**&nbsp;. We’ve built one of the highest production teams in the country by assembling a group of highly driven, success hungry, real estate professionals. Agents who will accept and adopt our methods for lead follow-up and fulfillment, client service, and team work will enjoy a high rate of success…plain and simple.
 
-**This opportunity might be a PERFECT fit for YOU…**We’ve recently found ourselves in need of competent, hard working, professional sales people to come on board with our team and take advantage of our stellar lead generation, conversion and management systems.
+#### In our business, success and a high rate of pay, go hand in hand. Nothing in this business stays the same and if you don’t have a systemized business approach, a proven methodology and support,&nbsp; then making a living in real estate in the “new economy” is going to be very hard.
 
-If you’re tired of the daily grind, tired of NOT making money, tired of being lost…then take advantage of my offer. Check out the steps at the bottom of this page and let’s see if we can forge a relationship of mutual benefit.
+&nbsp;
 
-There are a number of advantages to you for moving forward on this…let me highlight a few of them here for you:
+#### **This opportunity might be a PERFECT fit for YOU…**We’ve recently found ourselves in need of competent, hard working, professional sales people to join our company and take advantage of our stellar lead generation, conversion and management systems.
 
-**CONSTANT, CONTINUOUS HIGH QUALITY LEADS PROVIDED**&nbsp;– Our Lead Generation System creates dozens of requests from buyer and seller prospects every day. We’ve perfected a method of lead follow-up and nurture allowing you to systematically create client relationships and the subsequent sales that follow. You’ll receive ongoing training not only from our team but from some of the most sought after trainers in the country…
+#### If you’re tired of the daily grind, tired of NOT making money, tired of being lost…then take advantage of my offer. Check out the steps at the bottom of this page and let’s see if we can forge a relationship of mutual benefit.
 
-**NO BROKERAGE OR OFFICE FEES**&nbsp;– beyond your cell phone, car, and MLS & Board Dues…you’ll have none of the brokerage, advertising or lead generation expenses you’re faced with now. You’ll enjoy NO OFFICE FEES thanks to our great compensation package. We’ll even supply you with an office space, business cards, your first 5 real estate signs, and even an event for your past clients!
+#### &nbsp;
 
-**BEAUTIFUL AND RELEVANT MARKETING & ADVERTISING –****Better Homes and Gardens Real Estate Innovations**&nbsp;has the newest technologies that will help you market yourself and your listings. We also offer lead generation and contract processing. We put a great deal of technology out there that you’ll be able to take advantage of.
+#### **There are a number of advantages to you for moving forward on this…let me highlight a few of them here for you:**
 
-**FULL TEAM SUPPORT&nbsp;**– Instead of trying to be a tightrope specialist or a professional juggler, you’ll work with other members of our team which will enable you to focus solely on dollar productive activities. We’ll reduce your administrative tasks to get you focused on the tasks that make you money – Prospecting & Lead Follow Up, Showing Homes, Listing Homes, Writing Offers and Attending Closings (and Cashing Commission Checks!). We’ll handle almost all of the administrative duties, the marketing, all the closing coordination, and much more. You’ll have laser focus on making money…
+#### **CONSTANT, CONTINUOUS HIGH QUALITY LEADS PROVIDED**&nbsp;– Our Lead Generation System creates dozens of requests from buyer and seller prospects every day. We’ve perfected a method of lead follow-up and nurture allowing you to systematically create client relationships and the subsequent sales that follow. You’ll receive ongoing training not only from our team but from some of the most sought after trainers in the country…
 
-**HIGH QUALITY LEADS&nbsp;**– The “cold calling” method of lead generation (trading time for money the hard way) has ruined more careers in our industry than any other single prospecting recommendation and we’ll never do it or practice it. All of the leads we provide have reached out to us asking for information on a specific home or the home buying process in general. Of course this doesn’t mean that we don’t prospect, quite the contrary, we are simply able to focus our time more on prospects that want to speak with us rather than getting hung up on.
+#### **NO BROKERAGE OR OFFICE FEES**&nbsp;– beyond your cell phone, car, and MLS & Board Dues…you’ll have none of the brokerage, advertising or lead generation expenses you’re faced with now. You’ll enjoy NO OFFICE FEES thanks to our great compensation package. We’ll even supply you with an office space, business cards, your first 5 real estate signs, and even an event for your past clients!
 
-**QUALIFIED APPOINTMENTS SET FOR YOU**&nbsp;– In addition to an endless supply of high quality buyer leads, we also employ an inside sales team - - our Client Services Department. What does that mean to you? Well, it means that appointments to meet with buyers are set for you directly into your calendar. We have the lead generation, conversion and management process so dialed in that we are able to employ inside sales associates to call on the excess leads that we generate.
+#### **BEAUTIFUL AND RELEVANT MARKETING & ADVERTISING –****Better Homes and Gardens Real Estate Innovations**&nbsp;has the newest technologies that will help you market yourself and your listings. We also offer lead generation and contract processing. We put a great deal of technology out there that you’ll be able to take advantage of.
 
-**ALL THE TOOLS & TRAINING YOU NEED TO QUICKLY GET TO THE CLOSING TABLE&nbsp;**– Cutting edge technology tools, buyer and listing presentations, and the training to go with them will be given to you so you can begin succeeding immediately. Our “Agent Mentor” training programs will ensure that you stay focused on the activities that will get you productive as quickly as possible. It’s no wonder that real estate agents drop out of the industry, the lack of training and support runs rampant among traditional brokerages and teams, not at Better Homes and Gardens Real Estate Innovations …
+#### **FULL TEAM SUPPORT&nbsp;**– Instead of trying to be a tightrope specialist or a professional juggler, you’ll work with other members of our team which will enable you to focus solely on dollar productive activities. We’ll reduce your administrative tasks to get you focused on the tasks that make you money – Prospecting & Lead Follow Up, Showing Homes, Listing Homes, Writing Offers and Attending Closings (and Cashing Commission Checks!). We’ll handle almost all of the administrative duties, the marketing, all the closing coordination, and much more. You’ll have laser focus on making money…
 
-So, if working with a team that has a unique culture and vision, all the tools and training you need to succeed, and if a steady supply of leads and commission generating opportunities interests you, check out the steps at the bottom of this page.
+#### **HIGH QUALITY LEADS&nbsp;**– The “cold calling” method of lead generation (trading time for money the hard way) has ruined more careers in our industry than any other single prospecting recommendation and we’ll never do it or practice it. All of the leads we provide have reached out to us asking for information on a specific home or the home buying process in general. Of course this doesn’t mean that we don’t prospect, quite the contrary, we are simply able to focus our time more on prospects that want to speak with us rather than getting hung up on.
 
-**DO YOU NEED MORE REASONS TO CONSIDER BETTER HOMES AND GARDENS REAL ESTATE INNOVATIONS?**
+#### **QUALIFIED APPOINTMENTS SET FOR YOU**&nbsp;– In addition to an endless supply of high quality buyer leads, we also employ an inside sales team - - our Client Services Department. What does that mean to you? Well, it means that appointments to meet with buyers are set for you directly into your calendar. We have the lead generation, conversion and management process so dialed in that we are able to employ inside sales associates to call on the excess leads that we generate.
 
-- Our leader, Misty SOLDwisch runs the Top Producing Team of REALTORS in our state!
+#### **ALL THE TOOLS & TRAINING YOU NEED TO QUICKLY GET TO THE CLOSING TABLE&nbsp;**– Cutting edge technology tools, buyer and listing presentations, and the training to go with them will be given to you so you can begin succeeding immediately. Our “Agent Mentor” training programs will ensure that you stay focused on the activities that will get you productive as quickly as possible. It’s no wonder that real estate agents drop out of the industry, the lack of training and support runs rampant among traditional brokerages and teams, **not at Better Homes and Gardens Real Estate Innovations&nbsp;**…
 
-- We have too many buyer leads and appointments! (this is not a normal problem!)
+#### So, if working with a company that has a unique culture and vision, all the tools and training you need to succeed, and if a steady supply of leads and commission generating opportunities interests you, check out the steps at the bottom of this page.
 
-- Leads provided and appointments set for our buyer and listing agents!
+#### &nbsp;
 
-- You would like to get off of the typical roller-coaster ride that is real estate
+#### **DO YOU NEED MORE REASONS TO CONSIDER BETTER HOMES AND GARDENS REAL ESTATE INNOVATIONS?**
 
-- You are hard-working and will treat real estate as a career
+#### - Our leader, Misty SOLDwisch runs the Top Producing Team of REALTORS in our state and has been a top producing agent in our market for over 15 years!
 
-- You would like access to our unique system that creates leads and gives you the opportunity to earn as much as you can handle!
+#### - We have too many buyer leads and appointments! (this is not a normal problem!)
 
-**One of our agent’s target income (net to the agent, not gross) this year is more than $200k!&nbsp; We have had 3 agents join our company in the last 12 months that went from closing 3, 5, 8 deals in one year, to now closing over 30 in their first year with us!**
+#### - Leads provided and appointments set for our buyer and listing agents!
 
-**Our Promise to YOU:**&nbsp;We will help you set goals and take action. As your coach, we will hold you accountable, so you can achieve your goals easily. You get all the tools that make you successful, a state-of-the-art contact management system, Better Homes and Gardens Real Estate Innovationsbranding and team support, buyer and listing presentations and packets, and lots of leads and appointments!
+#### - You would like to get off of the typical roller-coaster ride that is real estate
 
-**Your Promise to US:&nbsp;**Your position with our team will require a full time commitment. You will want to attend weekly meetings and training classes. At each of the classes you will learn new skills and techniques. Then you will develop an action plan and implement these actions before the next meeting. As your coach, we will hold you accountable.
+#### - You are hard-working and will treat real estate as a career
 
-**Are you ready for some more information from us?&nbsp; Complete the Request a Free Business Planning Call form below, and we will be in touch with you within 24 hours!**
+#### - You would like access to our unique system that creates leads and gives you the opportunity to earn as much as you can handle!
 
-**We look forward to hearing from you!**
+#### &nbsp;
+
+#### **One of our agent’s target income (net to the agent, not gross) this year is more than $200k!&nbsp; We have had 3 agents join our company in the last 12 months that went from closing 3, 5, 8 deals in one year, to now closing over 30 in their first year with us, one closed over 50!**
+
+#### &nbsp;
+
+#### **O****ur Promise to YOU:**&nbsp;We will help you set goals and take action. As your coach, we will hold you accountable, so you can achieve your goals easily. You get all the tools that make you successful, a state-of-the-art contact management system, Better Homes and Gardens Real Estate Innovationsbranding and team support, buyer and listing presentations and packets, and lots of leads and appointments!
+
+#### **Your Promise to US:&nbsp;**Your position with our team will require a full time commitment. You will want to attend weekly meetings and training classes. At each of the classes you will learn new skills and techniques. Then you will develop an action plan and implement these actions before the next meeting. As your coach, we will hold you accountable.
+
+#### &nbsp;
+
+#### **Are you ready for some more information from us?&nbsp; Complete the Request a Free Business Planning Call form below, and we will be in touch with you within 24 hours!**
+
+#### &nbsp;
+
+#### **We look forward to hearing from you!**
+
+&nbsp;
 
 ###
 
