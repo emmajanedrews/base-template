@@ -20,7 +20,13 @@ permalink: /join-our-team/
 
 **How would your life change if you consistently earned $75,000, $100,000 or $150,000+ as a full-time real estate agent?**
 
-We have cracked the code to help real estate agents NET more money than over 90% of agents in the Central Iowa market. You don’t have to have years of experience to join our team BUT you must have the desire to do what it takes to become successful. And we will show you how. &nbsp;![](/uploads/versions/AAEAAQAAAAAAAAxWAAAAJGU2NzJlZTc3LTQ3MjgtNDdlOS04Mzg2LTBmYjZlZGVlZDE5Ng---x----200-200x---.jpg)
+We have cracked the code to help real estate agents NET more money than over 90% of agents in the Central Iowa market. You don’t have to have years of experience to join our team BUT you must have the desire to do what it takes to become successful. And we will show you how.
+
+&nbsp;![](/uploads/versions/AAEAAQAAAAAAAAxWAAAAJGU2NzJlZTc3LTQ3MjgtNDdlOS04Mzg2LTBmYjZlZGVlZDE5Ng---x----200-200x---.jpg)
+
+###### *Misty SOLDwisch (right), Owner Better Homes and Gardens Real Estate Innovations*
+
+&nbsp;
 
 An agent-centric culture. A commitment to training, coaching, and education. A model that rewards our agents as true partners.
 
