@@ -26,11 +26,11 @@ For today’s installment of "Coffee and Conversations," we’re joined by speci
 
 Over the years, Lauri has helped me plan a lot of awesome Disney vacations over the years, so I felt compelled to bring her on and let her explain a little more about what she does.&nbsp;
 
-Lauri has been in business for 20 years helping families make dreams come true. Having grown up with Disney herself, Lori says it’s something that is very special to her. **She actually visited Walt Disney World the very first year it was open.&nbsp;**
+Lauri has been in business for 20 years helping families make dreams come true. Having grown up with Disney herself, Lauri says it’s something that is very special to her. **She actually visited Walt Disney World the very first year it was open.&nbsp;**
 
 “We’re all really busy in our day-to-day lives, and vacations are something everyone looks forward to. […] Making memories with the people you love is really important,” says Lauri.
 
-Speaking of families, Lauri raised her own children right here in Carroll County. She says this community is very important to her, so she loves serving it with her business. And in the 20 years Lori has spent helping local families plan their Disney vacations, she has learned quite a few things most people might not know about the parks.&nbsp;
+Speaking of families, Lauri raised her own children right here in Carroll County. She says this community is very important to her, so she loves serving it with her business. And in the 20 years Lauri has spent helping local families plan their Disney vacations, she has learned quite a few things most people might not know about the parks.&nbsp;
 
 {% include pullquote.html %}
 
