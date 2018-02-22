@@ -17,7 +17,7 @@ youtube_code: JeagXJz4mqU
 
 <center><a href="https://www.eventbrite.com/e/free-first-time-home-buyer-seminar-tickets-43112795532">RSVP here on <strong>Evenbrite</strong></a></center>
 
-<center><a href="https://www.facebook.com/events/1973671912897861">Learn more and get tickets on Facebook</a></center>
+<center><a href="https://www.facebook.com/events/1973671912897861">Learn more and get tickets on <strong>Facebook</strong></a></center>
 
 <center>&nbsp;</center>
 
