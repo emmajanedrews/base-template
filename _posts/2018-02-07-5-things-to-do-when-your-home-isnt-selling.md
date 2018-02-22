@@ -16,7 +16,6 @@ youtube_alternate_image: /uploads/1-25---yt-1.jpg
 youtube_code: QEZZf61sQrc
 ---
 
-
 {% include youtube.html %}
 
 <center><em>What should you do if your home isn&rsquo;t selling? I&rsquo;ll go over five options for you today.</em></center>
@@ -27,24 +26,39 @@ youtube_code: QEZZf61sQrc
 
 <center>&nbsp;</center>
 
-Lately, we’ve been getting a lot of questions from home sellers. They say, “I’ve had my home on the market with this other agent, and it’s not selling. Why isn’t it selling? What’s wrong with my home? Is this the wrong time to be on the market? Is it my agent?”
+Lately, we’ve been getting a lot of questions from home sellers who have<br>been trying to sell their home with other area Agents.
 
-These are all valid questions. You have five options if your home isn’t selling.
+They say, *“I’ve had my home on the market with this other agent, and it’s not<br>selling. Why isn’t it selling? What’s wrong with my home? Is this the wrong<br>time to be on the market? Is it my agent?”*
 
-I understand why homes don’t sell. In 2016, The Larkin Group sold 56 homes in a day or less. In 2017, we sold 73 homes in under 25 days. I say this not to impress you but rather to impress upon you that we have a system that routinely beats the market and routinely works. I am approaching your questions as an experienced real estate specialist who has sold over 1,100 homes.
+These are all valid questions. Let’s figure this out together.
+
+For context as to whether we are a proper “authority” to be answering this<br>question: In 2016 The Larkin Group sold 56 homes in <u>1 day or less!</u>
+
+In 2017, <u>we sold 73 homes in under 25 days</u>. I say this not to impress you but<br>rather to impress upon you that we have a system that routinely beats the<br>market and routinely works. I am approaching your questions as an<br>experienced real estate specialist who has sold over 1,100 homes.
 
 {% include pullquote.html %}
 
-So, here’s what you need to do if your home isn’t selling:
+The likely remedy to your home sale problem falls under one of these 5<br>options:
 
-1. **Check your price.&nbsp;**You need to be really honest with yourself about your price. Is your home overpriced for the market? Your listing price is not about what you need or want, and it’s not what the appraiser or grandmother told you. Ask yourself, “What is the market value of my home?” You need to be very honest with yourself. This is a real man in the mirror moment.
-2. **Look at the condition and staging.** Did your agent give you any feedback about your house? If so, did you ignore that feedback? Maybe your home is messy, or you need to update or neutralize the paint. It’s fairly likely that there is something you know you need to fix but didn’t, and that is what’s keeping your home from selling.
-3. **Marketing.** Did you hire a real estate agent who spends thousands of dollars on radio, Zillow, Trulia, Realtor.com, and Homes.com? Is your agent marketing to other real estate agents and incentivizing those agents to bring buyers to your home? There is a good chance you don’t know what they are doing, so ask your agent about their marketing plan.
-4. **Fix it up.** This goes back to my second point. You may need to spend some money to fix up your home.
-5. **Quit.** You always have the option to quit and take your home off the market.
+1. Check your price. You need to be quite honest with yourself about<br>your price. Is your home overpriced for the market? Do you love your<br>home so much that you’re willing to “buy it back” (overprice it) daily?
 
-In most cases, the reason a home doesn’t sell is due to pricing. Be honest with yourself and your agent.
+Your listing price is not about what you need or want, and it’s not what<br>the appraiser or grandmother told you. Ask yourself, “What is the market<br>value of my home? What would a real Buyer pay for this home? What<br>would I PERSONALLY pay if I were in the market and had all sorts of
 
-This market has been great for sellers, and a good agent should be able to sell your home in 30 days or less. If your home is still on the market, it’s time to have a heart-to-heart with your agent.
+other options?” You need to be very honest with yourself. This is a real<br>“man (or woman) in the mirror” moment.
 
-If you have any other questions or need help selling your home, just give me a call or send me an email. I would be happy to help you!
+1. Look at the condition and staging. Did your agent give you any<br>feedback about your house prior to listing? If so, did you ignore that<br>feedback? Perhaps there is overlooked clutter or you need to update or<br>neutralize the paint.
+
+It’s fairly likely that there is something you felt you neede3d to fix but<br>didn’t, and that is what’s keeping your home from selling.
+
+1. Marketing? Did you hire a real estate agent who spends thousands of<br>dollars on radio, Zillow, Trulia, Realtor.com, and Homes.com? Have you<br>seen exactly what the agent is doing to attract Buyers? If not, find out!
+
+Is your agent marketing to other real estate agents and incentivizing<br>those agents to bring buyers to your home? There is a good chance you<br>don’t know what they are doing, so ask your agent about their marketing<br>plan.
+
+1. Needed repairs? This goes back to my second point. You may need to<br>spend some money to fix up your home. I don’t mean decluttering, this<br>could mean replacing tattered flooring or even more significant repairs.<br>It will cost you in the short run, but might cost you the entire sale in the<br>long run.
+2. Quit. You always have the option to quit and take your home off the<br>market.
+
+In most cases, the reason a home doesn’t sell is due to pricing. Be honest<br>with yourself and your agent.
+
+This market has been great for sellers. INCREDIBLE even. And a good agent<br>should be able to sell your home in 30 days or less. If your home is still on the<br>market, it’s time to have a heart-to- heart with your agent.
+
+If you have any other questions or need help selling your home, just give me a<br>call or send me an email. We’re happy to share our observations free of<br>charge, and definitely will not solicit your listing if you happen to be actively on<br>the market with another agent. Our suggestions may even help them get it<br>sold!
