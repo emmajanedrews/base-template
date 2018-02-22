@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://blog.radkeagency.com/what-should-you-know-about-title-insurance.html</loc>
+<lastmod>2018-02-20T09:23:19-06:00</lastmod>
+</url>
+<url>
+<loc>http://blog.radkeagency.com/thank-you-for-your-support-in-2017.html</loc>
+<lastmod>2018-01-31T07:57:45-06:00</lastmod>
+</url>
+<url>
 <loc>http://blog.radkeagency.com/can-you-help-manna-food-bank-make-a-difference.html</loc>
 <lastmod>2017-12-13T18:00:00-06:00</lastmod>
 </url>
@@ -50,5 +58,8 @@
 </url>
 <url>
 <loc>http://blog.radkeagency.com/thankyou/</loc>
+</url>
+<url>
+<loc>http://blog.radkeagency.com/page2/</loc>
 </url>
 </urlset>

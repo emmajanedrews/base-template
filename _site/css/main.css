@@ -1579,13 +1579,13 @@ label.tree-toggle {
 
 .site-logo {
   width: 90%;
-  max-width: 40rem;
-  -webkit-filter: drop-shadow(0px 2px 7px rgba(238, 238, 238, 0.5));
-  filter: drop-shadow(0px 2px 7px rgba(238, 238, 238, 0.5)); }
+  max-width: 60rem;
+  -webkit-filter: drop-shadow(2px 2px 7px white);
+  filter: drop-shadow(2px 2px 7px white); }
 
 .site-title {
   color: #231f20;
-  text-shadow: 0px 2px 7px rgba(238, 238, 238, 0.5);
+  text-shadow: 2px 2px 7px white;
   text-transform: capitalize;
   font-weight: bold;
   font-size: rem;
@@ -2027,7 +2027,7 @@ table tr, table td {
   margin: 2rem 0;
   color: white;
   text-transform: uppercase;
-  text-shadow: 0px 2px 7px rgba(238, 238, 238, 0.5); }
+  text-shadow: 2px 2px 7px white; }
 .post .headshot {
   width: 100%;
   max-width: 15rem;
@@ -2042,7 +2042,7 @@ table tr, table td {
 
 .tag-container {
   color: white;
-  text-shadow: 0px 2px 7px rgba(238, 238, 238, 0.5);
+  text-shadow: 2px 2px 7px white;
   margin-bottom: 1rem; }
 
 .tag {
@@ -2053,7 +2053,7 @@ table tr, table td {
 .author-attribution {
   color: white;
   font-weight: 300;
-  text-shadow: 0px 2px 7px rgba(238, 238, 238, 0.5);
+  text-shadow: 2px 2px 7px white;
   margin-bottom: 2rem;
   font-style: italic; }
   .author-attribution a {
@@ -2354,6 +2354,12 @@ table tr, table td {
     max-width: 95%;
     margin: 0 auto; } }
 .zillow-logo, .trulia-logo, .yelp-logo {
+  fill: white;
+  max-height: 3rem;
+  position: relative;
+  top: 0.5rem; }
+
+.google-logo {
   fill: white;
   max-height: 3rem;
   position: relative;
