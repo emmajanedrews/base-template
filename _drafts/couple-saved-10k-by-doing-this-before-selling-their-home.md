@@ -18,9 +18,11 @@ youtube_code:
 
 {% include youtube.html %}
 
-<center>Did you know that our clients saved over $300k last year by only spending $400 on a pre-home inspection before listing their home?</center>
+<center><em>Did you know that our clients saved over $300k last year by only spending $400 on a pre-home inspection before listing their home?</em></center>
 
-When you go to a doctor, **you don’t know what’s wrong with you until you get a prognosis.** Finding the value of a home is quite similar -- you can’t know the price until a lot of research has been done!&nbsp;
+<center>&nbsp;</center>
+
+When you go to a doctor, **you don’t know what’s wrong with you until you get a prognosis.** Finding the value of a home is quite similar – you can’t know the price until a lot of research has been done!&nbsp;
 
 Anyone that walks into your home and tells you a price is doing that simply to get your business; they aren’t acting in your interest. **You don’t want to hire someone who isn’t going to work on your behalf to competitively price your home.** Before you hire anyone, give them a call and ask them if they’re going to put a price on your home when they get there. If they answer affirmatively, you probably shouldn’t hire them!
 
