@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Home Price Update for Winter 2018
-date: 2018-02-07 08:29:36
+date: Invalid date
 tags:
   - Market Update
 excerpt: >-
@@ -16,7 +16,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/no-3.jpg
 youtube_code: OAXoz5dI01g
 ---
-
 
 {% include youtube.html %}
 
