@@ -28,7 +28,7 @@ If you do an online search about lawsuits and real estate, you’ll find a long 
 
 Now, what sorts of things are you required to disclose?
 
-{% include pullquote.html %}<br><br>You are required to disclose any latent material defects.** These are defects that cannot be seen with a home inspection**, including mold behind the walls, the presence of underground oil tanks, as well as recurring defects like a basement that floods when it rains.
+{% include pullquote.html %}<br><br>You are required to disclose any latent material defects. **These are defects that cannot be seen with a home inspection**, including mold behind the walls, the presence of underground oil tanks, as well as recurring defects like a basement that floods when it rains.
 
 **When in doubt, it is always a good policy to disclose.** The buyer can sue the seller after moving into the property if they can prove that they defects were known by the seller.
 
