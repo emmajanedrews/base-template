@@ -40,7 +40,7 @@ In 2017, <u>we sold 73 homes in under 25 days</u>. I say this not to impress you
 
 The likely remedy to your home sale problem falls under one of these 5<br>options:
 
-1.Check your price. You need to be quite honest with yourself about<br>your price. Is your home overpriced for the market? Do you love your<br>home so much that you’re willing to “buy it back” (overprice it) daily?
+1. Check your price. You need to be quite honest with yourself about<br>your price. Is your home overpriced for the market? Do you love your<br>home so much that you’re willing to “buy it back” (overprice it) daily?
 
    Your listing price is not about what you need or want, and it’s not what<br>the appraiser or grandmother told you. Ask yourself, “What is the market<br>value of my home? What would a real Buyer pay for this home? What<br>would I PERSONALLY pay if I were in the market and had all sorts of other options?” You need to be very honest with yourself. This is a real “man (or woman) in the mirror” moment.
 
