@@ -1,39 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>-- MARKET -- Real Estate Video Blog with -- CLIENT NAME --</title>
-    <description>Our mission at Kelly Cook Real Estate Group is to be your best resource for Scottsdale real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Kelly Cook Real Estate Group, your professional Scottsdale Real Estate Agents.</description>
-    <link>localhost:4000/</link>
-    <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 22 Feb 2018 15:45:47 -0600</pubDate>
-    <lastBuildDate>Thu, 22 Feb 2018 15:45:47 -0600</lastBuildDate>
+    <title>Phoenix and Scottsdale Real Estate Show with Kelly Cook</title>
+    <description>Our mission at Kelly Cook Real Estate Group is to be your best resource for Phoenix and Scottsdale real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Kelly Cook Real Estate Group, your professional Phoenix and Scottsdale Real Estate Agents.</description>
+    <link>http://www.phoenixandscottsdalerealestateshow.com/</link>
+    <atom:link href="http://www.phoenixandscottsdalerealestateshow.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 22 Feb 2018 17:52:57 -0600</pubDate>
+    <lastBuildDate>Thu, 22 Feb 2018 17:52:57 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>this is a test post</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SFFy_drFrZs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>The State of the Market Address: Where Are We Headed?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/erp6UWuTc6c?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;}&lt;/p&gt;
+&lt;p&gt;What does the trajectory of the state of our market look like this year? I have three key points to discuss.&lt;/p&gt;
 
-&lt;p&gt;Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps &lt;strong&gt;gastropub marfa r&lt;/strong&gt;etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.&lt;/p&gt;
+&lt;div class=&quot;post-cta&quot;&gt;
+&lt;strong&gt;Looking to buy a home? &lt;a href=&quot;http://www.arizonarealestatesource.com/&quot; target=&quot;_blank&quot;&gt;Search all homes for sale&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Selling your home? &lt;a href=&quot;http://www.scottsdalerealestatestore.com/&quot; target=&quot;_blank&quot;&gt;Get a FREE home value report&lt;/a&gt;&lt;/strong&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;em&gt;Bushwick&lt;/em&gt; &lt;a href=&quot;'http://google.com'&quot;&gt;marfa&lt;/a&gt; wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. &lt;a href=&quot;http://google.com&quot;&gt;Fanny&lt;/a&gt; pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.&lt;/p&gt;
+&lt;p&gt;In light of the State of the Union address that the president gives at the beginning of every year, I’m going to give a State of the Market address. There will be three main points to cover which will dictate the trajectory of the Arizona housing market for 2018.&lt;/p&gt;
 
-&lt;p&gt;Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.&lt;/p&gt;
+&lt;p&gt;The first point to address is the &lt;strong&gt;current rise of mortgage interest rates&lt;/strong&gt;. We’ve been fortunate to have the rates be as low as they have been, but, according to Freddie Mac’s chief economist, the days of the sub-4% interest rate are now over.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This is an example of a pull quote%20localhost:4000/this-is-a-test-post-copy-2.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This is an example of a pull quote”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The question now is whether a 5% interest rate is still a good rate. Absolutely it is! When I purchased my own home back in 2008 at a rate that was less than 6%, I was ecstatic. Traditionally, that is a very good rate.&lt;/p&gt;
 
-&lt;p&gt;Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.&lt;/p&gt;
+&lt;p&gt;The next point is &lt;strong&gt;the lack of inventory&lt;/strong&gt;. As of right now, there are 10% fewer homes on the market than there were just a year ago. As demand increases, supply either remains steady or decreases, causing a pinch in the market that actually makes your house worth a little more. Home values are increasing, so if you want to take advantage of that, now is a great time to sell.&lt;/p&gt;
 
-&lt;p&gt;Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=ACCORDING TO FREDDIE MAC’S CHIEF ECONOMIST, THE DAYS OF THE SUB-4% INTEREST RATE ARE NOW OVER.%20http://www.phoenixandscottsdalerealestateshow.com/the-state-of-market-address-where-are.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“ACCORDING TO FREDDIE MAC’S CHIEF ECONOMIST, THE DAYS OF THE SUB-4% INTEREST RATE ARE NOW OVER.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The third point to discuss is the fact that mortgage applications are also increasing. According to a study, applications in January alone were up 4.1% year over year. We’re seeing increases in refinances as well, not just purchase loan applications. The increase in applications is primarily from the addition of refinances; the study shows that new home purchase loan applications have remained steady.&lt;/p&gt;
+
+&lt;p&gt;What does this mean for the trajectory of the state of the market this year?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;It means that we’re going to have a pretty good market, overall&lt;/strong&gt;. Even if you’re looking to buy in this seller’s market, historically, this is still a good time to do so because you can still lock in a 30-, 20-, or 15-year mortgage at 4% or just a little above.&lt;/p&gt;
+
+&lt;p&gt;There’s one more thing to remember: If you’re a homebuyer looking for down payment assistance, there are plenty of loan programs with Maricopa County that will allow you to have a &lt;strong&gt;free down payment&lt;/strong&gt; up to 5% if you qualify by making less than $88,000 per year and having over a 640 FICO score. It’s free money, so take advantage.&lt;/p&gt;
+
+&lt;p&gt;In addition, we negotiate with the seller to pay your closing costs so that you can go to purchase a home with nothing out of pocket.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions or would like our help, feel free to reach out to us. We’d be glad to assist you.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 04 Oct 2016 00:00:00 -0500</pubDate>
-        <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
-        <guid isPermaLink="true">localhost:4000/this-is-a-test-post-copy-2.html</guid>
+        <pubDate>Thu, 22 Feb 2018 12:54:00 -0600</pubDate>
+        <link>http://www.phoenixandscottsdalerealestateshow.com/the-state-of-market-address-where-are.html</link>
+        <guid isPermaLink="true">http://www.phoenixandscottsdalerealestateshow.com/the-state-of-market-address-where-are.html</guid>
         
-        <category>Market Update</category>
+        <category>Kelly Cook Real Estate</category>
         
-        <category>Real Estate</category>
+        
+      </item>
+    
+      <item>
+        <title>3 Energy-Saving Tips This Winter</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/MjuTP-GIbcs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Even the desert gets cold sometimes. Here’s how to keep your energy costs low when it does.&lt;/p&gt;
+
+&lt;div class=&quot;post-cta&quot;&gt;
+&lt;strong&gt;Looking to buy a home? &lt;a href=&quot;http://www.arizonarealestatesource.com/&quot; target=&quot;_blank&quot;&gt;Search all homes for sale&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Selling your home? &lt;a href=&quot;http://www.scottsdalerealestatestore.com/&quot; target=&quot;_blank&quot;&gt;Get a FREE home value report&lt;/a&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;p&gt;We’re fortunate that it doesn’t ever get too cold here in the desert, but we all know that it does get chilly at night around this time of year. Here are three tips to help you save some money on energy costs in your home during this time:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Get a draft snake.&lt;/strong&gt; You can get these in a ton of different designs, and they fit right under your door to help keep warm air in and cool air out.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=DRAFT SNAKES COME IN MANY DIFFERENT COLORS AND DESIGNS.%20http://www.phoenixandscottsdalerealestateshow.com/3-energy-saving-tips-this-winter.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“DRAFT SNAKES COME IN MANY DIFFERENT COLORS AND DESIGNS.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Reverse the ceiling fans.&lt;/strong&gt; Most of us don’t do this, but it’s a really good tip. Cold air tends to hang around your feet. By reversing the fan, you bring that cold air up and make the home warmer. The best part is that it’s so easy. There’s a switch on your fan that will reverse it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Flush your water heater.&lt;/strong&gt; By simply draining this, you can get rid of a lot of sediment and particles that tend to build up and cause the system to run less efficiently&lt;/p&gt;
+
+&lt;p&gt;I hope these tips help out. If you have any questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 09 Feb 2018 15:54:00 -0600</pubDate>
+        <link>http://www.phoenixandscottsdalerealestateshow.com/3-energy-saving-tips-this-winter.html</link>
+        <guid isPermaLink="true">http://www.phoenixandscottsdalerealestateshow.com/3-energy-saving-tips-this-winter.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>What You Need to Know About Companies Like Opendoor and Offerpad</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/zbtbnnk6b_c?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;You may have heard of Opendoor and Offerpad, but what do these kinds of companies actually offer you as a seller?&lt;/p&gt;
+
+&lt;div class=&quot;post-cta&quot;&gt;
+&lt;strong&gt;Looking to buy a home? &lt;a href=&quot;http://www.arizonarealestatesource.com/&quot; target=&quot;_blank&quot;&gt;Search all homes for sale&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Selling your home? &lt;a href=&quot;http://www.scottsdalerealestatestore.com/&quot; target=&quot;_blank&quot;&gt;Get a FREE home value report&lt;/a&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Today, I’d like to share some information about two big players in the world of wholesaling and direct seller offers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Right now, direct offers to sellers from institutional wholesale buyers are a big trend in real estate.&lt;/strong&gt; There are two main companies pioneering this space: Offerpad and Opendoor.&lt;/p&gt;
+
+&lt;p&gt;You may have seen advertisements from either of these companies via direct mail, on TV, on the radio, or elsewhere. These companies boast that they will buy directly from sellers, targeting those who may be attracted to the convenience this kind of deal has to offer.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=SOME SELLERS MAY BE ATTRACTED TO THE CONVENIENCE A WHOLESALE INSTITUTIONAL BUYER CAN OFFER.%20http://www.phoenixandscottsdalerealestateshow.com/what-you-need-to-know-about-companies.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“SOME SELLERS MAY BE ATTRACTED TO THE CONVENIENCE A WHOLESALE INSTITUTIONAL BUYER CAN OFFER.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;However, while convenience is a positive aspect of this kind of transaction, there is a downside. Sellers on the open market will typically net more for their property than those who sell directly to a company like Offerpad or Opendoor, even after a fee of 6%.&lt;/p&gt;
+
+&lt;p&gt;There are ways that Realtors can work with these companies. So if you have any interest in this kind of transaction, feel free to get in touch. My team and I would be happy to discuss your options with you.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ultimately, the best way to decide what is best for you and your property is to clearly understand which will earn you a higher net income.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 15 Jan 2018 14:54:00 -0600</pubDate>
+        <link>http://www.phoenixandscottsdalerealestateshow.com/what-you-need-to-know-about-companies.html</link>
+        <guid isPermaLink="true">http://www.phoenixandscottsdalerealestateshow.com/what-you-need-to-know-about-companies.html</guid>
         
         <category>Home Seller Tips</category>
         
@@ -41,48 +118,303 @@
       </item>
     
       <item>
-        <title>A Fox in Space</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SFFy_drFrZs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>To All of Our Clients: Thank You</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/o8H0_FA9fGA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;}&lt;/p&gt;
+&lt;p&gt;Today I want to take a moment to express some gratitude on behalf of my entire team. We want to thank each and every one of you for your support.&lt;/p&gt;
 
-&lt;p&gt;Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps &lt;strong&gt;&lt;a href=&quot;http://google.com&quot; target=&quot;_blank&quot;&gt;gastropub&lt;/a&gt; marfa r&lt;/strong&gt;etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.&lt;/p&gt;
+&lt;div class=&quot;post-cta&quot;&gt;
+&lt;strong&gt;Looking to buy a home? &lt;a href=&quot;http://www.arizonarealestatesource.com/&quot; target=&quot;_blank&quot;&gt;Search all homes for sale&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Selling your home? &lt;a href=&quot;http://www.scottsdalerealestatestore.com/&quot; target=&quot;_blank&quot;&gt;Get a FREE home value report&lt;/a&gt;&lt;/strong&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;em&gt;Bushwick&lt;/em&gt; &lt;a href=&quot;'http://google.com'&quot; target=&quot;_blank&quot;&gt;marfa&lt;/a&gt; wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.&lt;/p&gt;
+&lt;p&gt;Happy Thanksgiving! Today I want to take a moment to express some gratitude on behalf of my entire team. We want to thank each and every one of you for your support. We appreciate you giving us the opportunity to go to bat for you.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Being able to demonstrate our experience, skill, dedication, and knowledge by helping you buy or sell property is something we are very grateful for.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;With that said, I want to bring your attention to a magazine put out internationally by Keller Williams: OutFront. Recently, I was fortunate enough to be featured in the magazine, and I just want to share this experience with you.&lt;/p&gt;
+
+&lt;p&gt;At first, I hesitated to share this news because I don’t want to seem egotistical, but I ultimately decided that I should, since it is thanks to all of you that I’ve been able to achieve this honor. Since you helped make it happen, my team and I would love to ship you a copy of this issue out so that you can see it for yourselves.&lt;/p&gt;
+
+&lt;p&gt;The article mostly covers my real estate story. For those of you who don’t know, I entered the world of real estate in 2005 with $40 I borrowed from my sister. There was no YouTube or Zillow back then. It was all about advertising in the newspaper.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=I ENTERED THE WORLD OF REAL ESTATE IN 2005 WITH $40 I BORROWED FROM MY SISTER.%20http://www.phoenixandscottsdalerealestateshow.com/to-all-of-our-clients-thank-you.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“I ENTERED THE WORLD OF REAL ESTATE IN 2005 WITH $40 I BORROWED FROM MY SISTER.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Using the $40 I borrowed from my sister, &lt;strong&gt;I was able to put an ad in the Saturday newspaper saying: “For a free list of rentals in North Scottsdale, call Kelly.”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I thought that if I could help people find rental properties, I might be able to help those same people buy homes in the future once they were done with their lease. And that’s how it all began.&lt;/p&gt;
+
+&lt;p&gt;Just over 12 and a half years later, here I am. So, again, I just want to thank all of you who have supported my team and I over the years.&lt;/p&gt;
+
+&lt;p&gt;If you have any other questions or would like more information, feel to give me a call or send me an email. I look forward to hearing from you soon.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 17 Nov 2017 15:59:00 -0600</pubDate>
+        <link>http://www.phoenixandscottsdalerealestateshow.com/to-all-of-our-clients-thank-you.html</link>
+        <guid isPermaLink="true">http://www.phoenixandscottsdalerealestateshow.com/to-all-of-our-clients-thank-you.html</guid>
+        
+        <category>Kelly Cook Real Estate</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>9 Things You Shouldnt Forget to Consider When Buying a Home</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/oO3m65_v9EQ?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;There are nine considerations you shouldn’t overlook when buying your home. Being mindful of them will prevent you from possibly making a big mistake.&lt;/p&gt;
+
+&lt;div class=&quot;post-cta&quot;&gt;
+&lt;strong&gt;Looking to buy a home? &lt;a href=&quot;http://www.arizonarealestatesource.com/&quot; target=&quot;_blank&quot;&gt;Search all homes for sale&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Selling your home? &lt;a href=&quot;http://www.scottsdalerealestatestore.com/&quot; target=&quot;_blank&quot;&gt;Get a FREE home value report&lt;/a&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;p&gt;When purchasing a home, there are nine things you need to consider that the vast majority of other homebuyers don’t:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. The neighborhood at night.&lt;/strong&gt; Neighborhood’s change at night—it’s a fact. At least, most of them do. Drive through your prospective home’s neighborhood at night and around the home itself to see if there are any college students or dogs barking nonstop or things of that nature.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. The daily commute.&lt;/strong&gt; Even though Google Maps may say it takes a certain amount of time to go from point A to point B, drive that route yourself during the busiest time of day to make sure you’re not stuck in a commute that’s longer than what you bargained for.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. The CC&amp;amp;Rs (covenants, conditions, and restrictions).&lt;/strong&gt; Just because a neighborhood doesn’t have an HOA doesn’t mean they don’t have CC&amp;amp;Rs. I’d argue that if you have an HOA and valid CC&amp;amp;Rs, that’s the best of both worlds because there’s a standard of living for the people who live there and they’re not governed by an HOA.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4. Whether the home can be rented out or not.&lt;/strong&gt; Some HOA neighborhoods don’t allow certain properties to be leased out, especially on a short-term rental basis.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=THESE NINE CONSIDERATIONS WILL ENSURE YOU BUY THE RIGHT HOME FOR YOU.%20http://www.phoenixandscottsdalerealestateshow.com/9-things-you-shouldnt-forget-to.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“THESE NINE CONSIDERATIONS WILL ENSURE YOU BUY THE RIGHT HOME FOR YOU.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5. The bedroom-to-bathroom ratio.&lt;/strong&gt; If you buy a single-story home, always buy a property with at least two or 1.75 bathrooms. Buyers in the future will want that. If it’s a two-story home, I recommend that you have a powder room or a half-bathroom on the main level. That’s another thing future buyers will look for.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;6. The need for specialty inspections.&lt;/strong&gt; Home inspections are a must. However, if they red-flag something or tell you that you should look at something a little bit closer with a qualified inspector, we highly recommend you do that.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;7. Features that cannot be changed.&lt;/strong&gt; The two most important features that cannot be changed are location and lot. It’s very important to base the foundation of what you’re looking to buy off of these two factors.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;8. The resale value.&lt;/strong&gt; If your home backs up to a busy street, just because that doesn’t bother you doesn’t mean you shouldn’t consider whether it will bother a large part of the buyer pool when you sell the home in the future. Know what kind of adjustments or discounts you need to make when it comes to factors like that so you buy the home correctly and at market value.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;9. Whether there is room to grow.&lt;/strong&gt; When it comes to this, you want to know your lot setbacks, the zoning of your lot, and if you have load-bearing walls. If you want to knock down a wall to open a room up, you’ll want to check with a specialty engineer if that wall is load-bearing. If so, it can still be done, but it might cost a little more.&lt;/p&gt;
+
+&lt;p&gt;Our team does our best to check all nine of these boxes when helping our buyers buy homes. If you have any other questions about buying a home, don’t hesitate to reach out to us. We’d love to help you.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 18 Oct 2017 12:51:00 -0500</pubDate>
+        <link>http://www.phoenixandscottsdalerealestateshow.com/9-things-you-shouldnt-forget-to.html</link>
+        <guid isPermaLink="true">http://www.phoenixandscottsdalerealestateshow.com/9-things-you-shouldnt-forget-to.html</guid>
+        
+        <category>Home Buyer Tips</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Should You Rent or Buy a Home?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/BVhBLhb8_rI?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Should you rent a home or buy one? I have four questions that will help you make this important decision.&lt;/p&gt;
+
+&lt;div class=&quot;post-cta&quot;&gt;
+&lt;strong&gt;Looking to buy a home? &lt;a href=&quot;http://www.arizonarealestatesource.com/&quot; target=&quot;_blank&quot;&gt;Search all homes for sale&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Selling your home? &lt;a href=&quot;http://www.scottsdalerealestatestore.com/&quot; target=&quot;_blank&quot;&gt;Get a FREE home value report&lt;/a&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Should you rent a home or buy a home? There are four things you should consider when deciding what to do:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Can you afford it?&lt;/strong&gt; In many cases, it’s actually more expensive to rent in Phoenix than to own a home if you look at the monthly payments. You might say, “I know that but I don’t have anything saved for a down payment.” If you are looking in certain price points, you may qualify for a down payment assistance program that will gift you 5% of the purchase price up to a certain amount. It’s a great program but we don’t know how much longer it will be there, so call me if you’re interested.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Is it better to rent or buy?&lt;/strong&gt; It really depends on your personal circumstances. Are you self-employed or a W-2 employee? How much can you write off on your taxes due to owning real estate? Your rental payment may be close to a mortgage payment, but that tax return can make a big difference. Check in with your CPA and see if it may be more affordable for you to own a home.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=HOW LONG ARE YOU WILLING TO STAY PUT?%20http://www.phoenixandscottsdalerealestateshow.com/should-you-rent-or-buy-home.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“HOW LONG ARE YOU WILLING TO STAY PUT?”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Other things like home warranties hedge your risk on things breaking in your home when you own the property.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. How long are you willing to stay put?&lt;/strong&gt; What’s your exit strategy? Again, most homeowners stay in their home for about five to seven years, depending on the market cycle and whether or not they have equity in the home. If a market correction occurs and the market goes down, people may stay in their homes a little longer.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4. Are you ready to be a homeowner?&lt;/strong&gt; You will be responsible for the property. If something breaks, you need a home warranty or money set aside for improvements and repairs. Your HVAC system and your roof both have a lifespan. Will you need to replace them?&lt;/p&gt;
+
+&lt;p&gt;You can get a home warranty for about $70 that will cover the vast majority of big issues. Homeowners insurance will also cover repairs and costs anywhere from $400 to $800 a year.&lt;/p&gt;
+
+&lt;p&gt;Hopefully, these four questions help you determine whether you should own or rent a home. If you have any other questions, just give me a call or send me an email. I would be happy to help you!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Oct 2017 10:45:00 -0500</pubDate>
+        <link>http://www.phoenixandscottsdalerealestateshow.com/should-you-rent-or-buy-home.html</link>
+        <guid isPermaLink="true">http://www.phoenixandscottsdalerealestateshow.com/should-you-rent-or-buy-home.html</guid>
+        
+        <category>Home Buyer Tips</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>5 Ways You Can Invest in Real Estate</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Q6TbbCpEhOc?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;There are ways to invest in real estate without having to be super wealthy. Watch this video to learn about five options available to you.&lt;/p&gt;
+
+&lt;div class=&quot;post-cta&quot;&gt;
+&lt;strong&gt;Looking to buy a home? &lt;a href=&quot;http://www.arizonarealestatesource.com/&quot; target=&quot;_blank&quot;&gt;Search all homes for sale&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Selling your home? &lt;a href=&quot;http://www.scottsdalerealestatestore.com/&quot; target=&quot;_blank&quot;&gt;Get a FREE home value report&lt;/a&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Today’s topic is near and dear to my heart: investing in real estate. I’d like to share five different ways you can go about investing in real estate.&lt;/p&gt;
+
+&lt;p&gt;There’s a myth that you have to be super wealthy to invest in real estate. But, based on five reasons, that is not true anymore. There are ways to invest with zero money down.&lt;/p&gt;
+
+&lt;p&gt;According to a recent survey, &lt;strong&gt;real estate investors now make about 15% of the population.&lt;/strong&gt; That’s a staggering number. I never thought it’d be that high.&lt;/p&gt;
+
+&lt;p&gt;Here’s another statistic: &lt;strong&gt;89% of US investors are interested in putting their money into real estate.&lt;/strong&gt; There are all kinds of incentives and benefits, like cash flow, tax incentives, leverage, and value appreciation.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=REAL ESTATE INVESTORS NOW MAKE ABOUT 15% OF THE POPULATION.%20http://www.phoenixandscottsdalerealestateshow.com/5-ways-you-can-invest-in-real-estate.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“REAL ESTATE INVESTORS NOW MAKE ABOUT 15% OF THE POPULATION.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Now, the five ways you can invest in real estate:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Buy and rent (a.k.a. buy and hold).&lt;/strong&gt; This is what I and a lot of other investors like to do. It puts your money to work for you. The ROI, if you buy the property right, blows away the stock market. This isn’t a blanket statement. However, there is a lot of research, due diligence, and comparative analysis required. And that’s what we’re here for. We have plug-and-play formulas built for you that we can send, and all you have to do is enter what you want, and it will tell you all the percentage of returns and other metrics you’ll need to know if you’re investing in real estate.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Buy and sell (a.k.a. flipping).&lt;/strong&gt; This has become very mainstream nowadays. But you should be careful. There are stories you rarely hear about telling how people sometimes lose a little on their investment because they didn’t turn out the way they expected. Nevertheless, if you have a professional who knows how to buy property correctly, how to source properties, and how to estimate the cost of the remodel, it can make you a lot of money.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Real estate investment groups.&lt;/strong&gt; These are people that buy properties, fix them up, and lease them out for you, so there’s already an established cap rate and immediate cash flow on the property from the day you purchase it. They’ll sell it to you, and you become a sort of passive investor on that real estate, because many times they’ll even provide the property management for you for whatever fee they charge.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4. Crowdfunding sites.&lt;/strong&gt; These sites do large-scale investments and they allow you to piggyback on their huge investments as part of a small pool. You get a specific guaranteed return. Although, sometimes it can fluctuate a little.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5. REIT (real estate investment trust).&lt;/strong&gt; This is similar to a mutual fund for real estate. You can put your money into one, and they usually pay a decent dividend payout, so your money is passively working for you. These are large-scale projects—big commercial buildings that have anchor tenants in most cases. It’s not as liquid as other options, but you can do it.&lt;/p&gt;
+
+&lt;p&gt;If you’re interested in real estate investment whatsoever, we’d love to discuss how we can help you with some of these options. For those that we are not licensed to do ourselves, we can put you in touch with individuals who are. Please feel free to give us a call!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 Sep 2017 13:41:00 -0500</pubDate>
+        <link>http://www.phoenixandscottsdalerealestateshow.com/5-ways-you-can-invest-in-real-estate.html</link>
+        <guid isPermaLink="true">http://www.phoenixandscottsdalerealestateshow.com/5-ways-you-can-invest-in-real-estate.html</guid>
+        
+        <category>Home Buyer Tips</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>With the Recent Rate Hikes, Is Now the Right Time to Buy a New Home?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/q-UyhVEvvEU?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Is now a good time to buy a home, or should you wait? I’ve got the answer for you in today’s video.&lt;/p&gt;
+
+&lt;div class=&quot;post-cta&quot;&gt;
+&lt;strong&gt;Looking to buy a home? &lt;a href=&quot;http://www.arizonarealestatesource.com/&quot; target=&quot;_blank&quot;&gt;Search all homes for sale&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Selling your home? &lt;a href=&quot;http://www.scottsdalerealestatestore.com/&quot; target=&quot;_blank&quot;&gt;Get a FREE home value report&lt;/a&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;p&gt;A great mentor of mine once told me, “You don’t wait to buy real estate. You buy real estate and wait.” It seems that all we hear about in today’s current market is whether or not to buy now. So, when is it a good time to buy, and how does the Fed’s most recent rate hike play into that?&lt;/p&gt;
+
+&lt;p&gt;First, the trend has been that since the Fed began raising rates last year, &lt;strong&gt;interest rates for mortgages have actually gone down.&lt;/strong&gt; If that continues, it could mean lower interest rates for mortgages in the short term.&lt;/p&gt;
+
+&lt;p&gt;The economy continues to do well. Unemployment and inflation rates are still low, which gives the Federal Reserve more confidence to raise rates at this point.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=YOU DON’T WAIT TO BUY REAL ESTATE—-YOU BUY REAL ESTATE AND WAIT.%20http://www.phoenixandscottsdalerealestateshow.com/with-recent-rate-hikes-is-now-right.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“YOU DON’T WAIT TO BUY REAL ESTATE—-YOU BUY REAL ESTATE AND WAIT.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Finally, the Fed rate hike, which is usually meant to cool the economy, might actually do the opposite. Since the Fed starting raising the federal funds rate in December 2016, &lt;strong&gt;mortgages are actually up 2.5% year over year.&lt;/strong&gt; This means that more people are applying for mortgages now than they were last year.&lt;/p&gt;
+
+&lt;p&gt;So, should you wait to buy a house? While the price of homes continues to rise, mortgage rates are still low, making it more affordable than ever to lock in that great mortgage rate and get into the home of your dreams.&lt;/p&gt;
+
+&lt;p&gt;If you have any other questions, or you’re looking to buy or sell a home, please give me a call. I look forward to helping you!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 16 Aug 2017 12:49:00 -0500</pubDate>
+        <link>http://www.phoenixandscottsdalerealestateshow.com/with-recent-rate-hikes-is-now-right.html</link>
+        <guid isPermaLink="true">http://www.phoenixandscottsdalerealestateshow.com/with-recent-rate-hikes-is-now-right.html</guid>
+        
+        <category>Home Buyer Tips</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Can You Purchase a Home With No Money Down?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/yDFBa_naE_4?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Today I’d like to share three ways to get into a home for zero money down.&lt;/p&gt;
+
+&lt;div class=&quot;post-cta&quot;&gt;
+&lt;strong&gt;Looking to buy a home? &lt;a href=&quot;http://www.arizonarealestatesource.com/&quot; target=&quot;_blank&quot;&gt;Search all homes for sale&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Selling your home? &lt;a href=&quot;http://www.scottsdalerealestatestore.com/&quot; target=&quot;_blank&quot;&gt;Get a FREE home value report&lt;/a&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;p&gt;A common misconception in real estate is that when you’re buying a home you will always need to put 20% down.&lt;/p&gt;
+
+&lt;p&gt;However, this simply isn’t the case. In fact, there are many options out there that will allow you to buy a home with zero money down. Today, I’m going to share three ways to do this.&lt;/p&gt;
+
+&lt;p&gt;The first way is the USDA program. &lt;strong&gt;If you are looking for a property and are doing so in a designated rural area, you can buy that property for zero money down.&lt;/strong&gt; The property doesn’t need to be a ranch or farm. In fact, many properties on the outskirts of the Phoenix Valley qualify.&lt;/p&gt;
+
+&lt;p&gt;Next, if you are a veteran, you can buy a property with zero money out of pocket using the VA loan. If this is something you qualify for, I would be more than happy to help you discuss the details.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=YOU COULD LITERALLY BE BUYING A HOUSE FOR LESS THAN IT WOULD TAKE TO RENT.%20http://www.phoenixandscottsdalerealestateshow.com/can-you-purchase-home-with-no-money-down.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“YOU COULD LITERALLY BE BUYING A HOUSE FOR LESS THAN IT WOULD TAKE TO RENT.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The final option is one that many people may not have already heard of. Down Payment Assistance, or DPA, programs are designed to ensure that buyers don’t need to put anything down. Currently, bond programs falling under this category in Maricopa County will gift you the money for your down payment.&lt;/p&gt;
+
+&lt;p&gt;To qualify for this your FICO score must be above 620, and if you’re married you or your spouse must make under $88,000 a year. This is a great option not a lot of people know about. Though it has been ongoing for quite some time already, &lt;strong&gt;we never know when the federal government may decide to end it.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve personally worked with many people using this last option. In these cases, we negotiate the closing cost of the loan to be paid for by the seller. This means that at closing, you are putting nothing down. You could literally be buying a house for less than it would take to rent.&lt;/p&gt;
+
+&lt;p&gt;If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Aug 2017 15:41:00 -0500</pubDate>
+        <link>http://www.phoenixandscottsdalerealestateshow.com/can-you-purchase-home-with-no-money-down.html</link>
+        <guid isPermaLink="true">http://www.phoenixandscottsdalerealestateshow.com/can-you-purchase-home-with-no-money-down.html</guid>
+        
+        <category>Home Buyer Tips</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>What Are the 10 Hottest Home Improvement Trends of 2017?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/KRS3gP6ugGU?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;If you want to do some home improvement, here are 10 of the hottest home improvement trends of 2017.&lt;/p&gt;
+
+&lt;div class=&quot;post-cta&quot;&gt;
+&lt;strong&gt;Looking to buy a home? &lt;a href=&quot;http://www.arizonarealestatesource.com/&quot; target=&quot;_blank&quot;&gt;Search all homes for sale&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Selling your home? &lt;a href=&quot;http://www.scottsdalerealestatestore.com/&quot; target=&quot;_blank&quot;&gt;Get a FREE home value report&lt;/a&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;p&gt;If you’re planning on doing some home improvement, you might as well follow what people want so you can improve your home’s value and get a good return when it comes time to sell it or refinance.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Here are the hottest home improvement trends of 2017:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Open kitchen shelves&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Stain-resistant fabrics&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Stacked stone&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Gravel landscaping&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Bathroom remodels&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Smarthome improvements&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Neutral textures &amp;amp; pastel shades&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Cut &amp;amp; loop carpets&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Kitchen remodels&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Pendant lighting&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.&lt;/p&gt;
+&lt;p&gt;As you can see, there are a few mainstays and a few newcomers. Pastel shades are making a comeback. Kitchen and bathroom remodels are always in the conversation for the smartest improvements you can make to your home. Smarthomes are becoming more and more relevant as technology progresses.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This is an example of a pull quote%20localhost:4000/a-fox-in-space.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This is an example of a pull quote”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.&lt;/p&gt;
-
-&lt;p&gt;Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…&lt;/p&gt;
+&lt;p&gt;If you have any questions about making improvements to your home or any other real estate topics, dont hesitate to reach out to me. Id be happy to help.&lt;/p&gt;
+&lt;div&gt; ppy to help.
+&lt;div&gt;
+&lt;/div&gt;&lt;/div&gt;
 </description>
-        <pubDate>Wed, 28 Sep 2016 00:00:00 -0500</pubDate>
-        <link>localhost:4000/a-fox-in-space.html</link>
-        <guid isPermaLink="true">localhost:4000/a-fox-in-space.html</guid>
+        <pubDate>Mon, 05 Jun 2017 11:59:00 -0500</pubDate>
+        <link>http://www.phoenixandscottsdalerealestateshow.com/what-are-10-hottest-home-improvement.html</link>
+        <guid isPermaLink="true">http://www.phoenixandscottsdalerealestateshow.com/what-are-10-hottest-home-improvement.html</guid>
         
-        <category>Market Update</category>
-        
-        <category>Real Estate</category>
-        
-        <category>Home Seller Tips</category>
+        <category>Homeowner Tips</category>
         
         
       </item>
