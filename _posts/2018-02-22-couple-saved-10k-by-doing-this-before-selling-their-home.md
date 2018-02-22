@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Couple Saved $10k by Doing This Before Selling Their Home
-date:
+date: 2018-02-22 23:36:32
 tags:
   - Home Seller Tips
 excerpt: >-
