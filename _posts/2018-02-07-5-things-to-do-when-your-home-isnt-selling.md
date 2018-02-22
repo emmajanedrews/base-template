@@ -42,7 +42,7 @@ The likely remedy to your home sale problem falls under one of these 5<br>option
 
 1. Check your price. You need to be quite honest with yourself about<br>your price. Is your home overpriced for the market? Do you love your<br>home so much that you’re willing to “buy it back” (overprice it) daily?
 
-   Your listing price is not about what you need or want, and it’s not what<br>the appraiser or grandmother told you. Ask yourself, “What is the market<br>value of my home? What would a real Buyer pay for this home? What<br>would I PERSONALLY pay if I were in the market and had all sorts of other options?” You need to be very honest with yourself. This is a real<br>“man (or woman) in the mirror” moment.
+   Your listing price is not about what you need or want, and it’s not what<br>the appraiser or grandmother told you. Ask yourself, “What is the market<br>value of my home? What would a real Buyer pay for this home? What<br>would I PERSONALLY pay if I were in the market and had all sorts of other options?” You need to be very honest with yourself. This is a real “man (or woman) in the mirror” moment.
 
 2. **Look at the condition and staging.** Did your agent give you any<br>feedback about your house prior to listing? If so, did you ignore that<br>feedback? Perhaps there is overlooked clutter or you need to update or<br>neutralize the paint.
 
