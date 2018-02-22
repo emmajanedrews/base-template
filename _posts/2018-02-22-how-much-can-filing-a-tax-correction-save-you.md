@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How Much Can Filing a Tax Correction Can Save You?
-date: 2018-02-22 17:04:54
+title: How Much Can Filing a Tax Correction  Save You?
+date: 2018-02-22 17:04:00
 tags:
   - Real Estate
 excerpt: >-
@@ -39,7 +39,7 @@ Over time, this addition to his net operating income will add about $53,000 to t
 
 Now, I would like to delve into another topic, which is how to handle receiving incorrect information about a property. Let’s use the example of the single-family home I mentioned earlier. After purchasing the property I ordered a survey. This survey allowed me to discover that the square footage of my property was incorrectly recorded by about 6%. The number of bedrooms was also reflected incorrectly.&nbsp;
 
-**The form I used to correct this information was the Residential Data Sheet.**Ensuring that data about your property is properly recorded is very important to the home’s resale value.&nbsp;
+**The form I used to correct this information was the Residential Data Sheet.&nbsp;**Ensuring that data about your property is properly recorded is very important to the home’s resale value.&nbsp;
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
 
