@@ -21,7 +21,9 @@ youtube_code: aaZ8SN8acVg
 
 {% include youtube.html %}
 
-<center>There are many benefits to buying a new construction property. Not only do you not have to compete against other buyers, but you can save money by working with the builder’s preferred lender.</center>
+<center><em>There are many benefits to buying a new construction property. Not only do you not have to compete against other buyers, but you can save money by working with the builder&rsquo;s preferred lender.</em></center>
+
+<center>&nbsp;</center>
 
 There are many great reasons you should consider purchasing a new construction property in 2018.&nbsp;
 
