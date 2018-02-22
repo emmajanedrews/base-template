@@ -1,16 +1,18 @@
 ---
 layout: post
 title: 'Coffee and Conversations: Disney World Edition'
-date: 2018-02-16 18:58:08
+date: 2018-02-16 18:58:00
 tags:
   - Real Estate
 excerpt: >-
-  Today we’re joined by special guest Lori Marks of Travel and Tours Unlimited
+  Today we’re joined by special guest Lauri Marks of Travel and Tours Unlimited
   to talk about how she helps families in our community plan their dream
   vacations.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Nick+Kellar/CarrollCounty+Real+Estate+Disney+Coffee+and+Convo.mp4
-pullquote: Lori has been in business for 20 years helping families make dreams come true.
+pullquote: >-
+  Lauri has been in business for 20 years helping families make dreams come
+  true.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
