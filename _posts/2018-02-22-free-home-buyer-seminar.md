@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Free Home Buyer Seminar
-date:
+date: 2018-02-22 22:47:02
 tags:
 excerpt: Free first time home buyers seminar!
 enclosure:
