@@ -25,4 +25,6 @@ youtube_code: JeagXJz4mqU
 
 <center>&nbsp;</center>
 
-The Buyer Babes are teaming up with Bay Equity to put on this Free Seminar for home buyers. Please spread the word, invite your clients, friends, enemies, anyone with a pulse and a credit score! The flier is attached and the links are below. Dinner is free and RSVP is required through **[Eventbrite](https://www.eventbrite.com/e/free-first-time-home-buyer-seminar-tickets-43112795532)**.<br><br>Thank you everyone! Have a lovely night.
+The Buyer Babes are teaming up with Bay Equity to put on this Free Seminar for home buyers. Please spread the word, invite your clients, friends, enemies, anyone with a pulse and a credit score! The flier is attached and the links are below. Dinner is free and RSVP is required through **[Eventbrite](https://www.eventbrite.com/e/free-first-time-home-buyer-seminar-tickets-43112795532)**.
+
+**[View Flier Here](https://s3.amazonaws.com/vyralmarketing/Jeremy-Larkin/Home+Buyer+Seminar.jpg)**<br><br>Thank you everyone! Have a lovely night.
