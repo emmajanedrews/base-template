@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Now that we’re nearing the spring market, I want to give you five tips on how
   to get your home ready to sell for the most money possible.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Mike+Gray/Videos/February+18'/Houston+Real+Estate+Agent-+5+Tips+for+a+Strong+Listing.mp4
 pullquote: >-
   What people see online will determine whether they want to come inside your
   home or move on to the next one.
