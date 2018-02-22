@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Anchorage Real Estate Podcast with Dar Walden</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://darwaldenteamblog.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://darwaldenteamblog.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Keller Williams Realty - your professional Anchorage Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Dar Walden</managingEditor>
-    <lastBuildDate>2018-02-21 10:02:32 -0600</lastBuildDate>
+    <lastBuildDate>2018-02-22 11:31:56 -0600</lastBuildDate>
     <media:copyright>Dar Walden</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://darwaldenteamblog.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Anchorage, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,7 +18,7 @@
     </itunes:owner>
     <itunes:author>Dar Walden</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://darwaldenteamblog.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Anchorage, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Anchorage Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Keller Williams Realty - your professional Anchorage Real Estate Agents.</itunes:summary>
@@ -26,7 +26,7 @@
     
       <item>
         <title>2018 Home Seller's Seminar Reminder</title>
-        <link>localhost:4000/2018-home-sellers-seminar.html</link>
+        <link>http://darwaldenteamblog.com/2018-home-sellers-seminar.html</link>
         
           <category>Home Seller Seminar</category>
         
@@ -51,7 +51,7 @@ Learn from the #1 Real Estate Team in the state of Alaska!
 Seats are limited, so register now!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dar+Walden/Alaska+Real+Estate++Dar+Walden+Home+Seller's+Seminar.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://darwaldenteamblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dar+Walden/Alaska+Real+Estate++Dar+Walden+Home+Seller's+Seminar.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -70,7 +70,7 @@ SAVE THE DATE TO ATTEND THE 2018 SELLERS SEMINAR!
       
       <item>
         <title>Home Seller's Seminar Reminder</title>
-        <link>localhost:4000/home-sellers-seminar-reminder.html</link>
+        <link>http://darwaldenteamblog.com/home-sellers-seminar-reminder.html</link>
         
           <category>Home Seller Seminar</category>
         
@@ -95,7 +95,7 @@ Learn from the #1 Real Estate Team in the state of Alaska!
 Seats are limited, so register now!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dar+Walden/Alaska+Real+Estate++Dar+Walden+Home+Seller's+Seminar+Reminder.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://darwaldenteamblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dar+Walden/Alaska+Real+Estate++Dar+Walden+Home+Seller's+Seminar+Reminder.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -114,7 +114,7 @@ SAVE THE DATE TO ATTEND THE 2018 SELLERS SEMINAR!
       
       <item>
         <title>What Are the Dos and Don'ts of Home Renovation?</title>
-        <link>localhost:4000/the-dos-and-donts-of-home-renovation.html</link>
+        <link>http://darwaldenteamblog.com/the-dos-and-donts-of-home-renovation.html</link>
         
           <category>Expert Advice</category>
         
@@ -149,7 +149,7 @@ Do: Make sure your upgrades are appropriate for the subdivision. If you put $150
 If you have any questions about home renovation or you’re thinking about buying or selling a home in our market, don’t hesitate to reach out to me. I’d be happy to help you.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://darwaldenteamblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -168,7 +168,7 @@ If you’re planning on renovating your house before selling it, there are certa
       
       <item>
         <title>Home Seller's Seminar</title>
-        <link>localhost:4000/home-sellers-seminar.html</link>
+        <link>http://darwaldenteamblog.com/home-sellers-seminar.html</link>
         
           <category>Home Seller Seminar</category>
         
@@ -193,7 +193,7 @@ Learn from the #1 Real Estate Team in the state of Alaska!
 Seats are limited, so register now!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dar+Walden/Alaska+Real+Estate++Dar+Walden+Home+Seller's+Seminar.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://darwaldenteamblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dar+Walden/Alaska+Real+Estate++Dar+Walden+Home+Seller's+Seminar.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -212,7 +212,7 @@ SAVE THE DATE TO ATTEND THE 2018 SELLERS SEMINAR!
       
       <item>
         <title>Why Must You Avoid These 3 Mistakes?</title>
-        <link>localhost:4000/3-deal-killing-mistakes.html</link>
+        <link>http://darwaldenteamblog.com/3-deal-killing-mistakes.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -241,7 +241,7 @@ If you’re thinking about selling your home, you need to make sure that you avo
 If you have any questions about selling a home or anything else about real estate in general, don’t hesitate to give me a call or send me an email. I look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dar+Walden/Alaska+Real+Estate+3+deal-killing+mistakes.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://darwaldenteamblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dar+Walden/Alaska+Real+Estate+3+deal-killing+mistakes.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -260,7 +260,7 @@ If you’re selling a home, there are many mistakes that you can make. Just be s
       
       <item>
         <title>What Are We Seeing in the Anchorage Area Market?</title>
-        <link>localhost:4000/anchorage-market-update.html</link>
+        <link>http://darwaldenteamblog.com/anchorage-market-update.html</link>
         
           <category>Market update</category>
         
@@ -295,7 +295,7 @@ If you are thinking of selling your home this year, now is the time to get start
 For any questions or real estate needs, feel free to give us a call. We’d love to help you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dar+Walden/Anchorage%2C+AK+Real+Estate+Anchorage+market+update.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://darwaldenteamblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dar+Walden/Anchorage%2C+AK+Real+Estate+Anchorage+market+update.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -314,7 +314,7 @@ Hopefully you had a great holiday season! Now that it’s 2018, it’s time for 
       
       <item>
         <title>Dont Be Afraid of Selling in the Winter</title>
-        <link>localhost:4000/selling-in-winter.html</link>
+        <link>http://darwaldenteamblog.com/selling-in-winter.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -351,7 +351,7 @@ If I can be of any help, please feel free to give me a call or send me an email.
 Have a great week!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dar+Walden/Anchorage%2C+AK+Real+Estate+Selling+in+the+winter.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://darwaldenteamblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dar+Walden/Anchorage%2C+AK+Real+Estate+Selling+in+the+winter.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -370,7 +370,7 @@ Don’t believe the hype; winter is a perfectly viable time to sell your home.
       
       <item>
         <title>Avoid Major Expenses With These Home Maintenance Tips</title>
-        <link>localhost:4000/winter-is-officially-here_17.html</link>
+        <link>http://darwaldenteamblog.com/winter-is-officially-here_17.html</link>
         
           <category>Expert Advice</category>
         
@@ -397,7 +397,7 @@ Finally, caulk your windows and make sure that your doors are sealed. Caulk the 
 If you have any questions or need referrals to any professionals to help you with these maintenance items, just give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dar+Walden/Anchorage%2C+AK+Real+Estate+Winter+is+officially+here.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://darwaldenteamblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dar+Walden/Anchorage%2C+AK+Real+Estate+Winter+is+officially+here.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -416,7 +416,7 @@ Winter is here, which means it’s time to take care of some basic home maintena
       
       <item>
         <title>7 Reasons Why Fall Is a Great Time to Buy a Home</title>
-        <link>localhost:4000/why-fall-is-great-time-to-purchase-home.html</link>
+        <link>http://darwaldenteamblog.com/why-fall-is-great-time-to-purchase-home.html</link>
         
           <category>Educational Tips and Tricks</category>
         
@@ -453,7 +453,7 @@ There are seven reasons what fall is a great time to purchase a home.
 If you’re thinking of purchasing a home, now is the time to do it. If you want to start the home buying process or you have any questions about what’s happening in our Anchorage market, don’t hesitate to reach out to us. We’d love to help you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dar+Walden/Anchorage%2C+AK+Real+Estate+Why+fall+is+a+great+time+to+purchase+a+home.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://darwaldenteamblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dar+Walden/Anchorage%2C+AK+Real+Estate+Why+fall+is+a+great+time+to+purchase+a+home.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -472,7 +472,7 @@ There are more than a couple reasons why fall is a great time to buy a home in o
       
       <item>
         <title>How to Make Your Home More Energy-Efficient Over the Winter</title>
-        <link>localhost:4000/energy-efficiencies-in-your-home.html</link>
+        <link>http://darwaldenteamblog.com/energy-efficiencies-in-your-home.html</link>
         
           <category>Expert Advice</category>
         
@@ -507,7 +507,7 @@ Lastly, if you have large windows that let a lot of sun in during the day, make 
 If you have any questions about energy efficiencies in your home or you have any other real estate questions, don’t hesitate to give me a call or send us an email. I’d be happy to help you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dar+Walden/Anchorage%2C+AK+Real+Estate+Energy+efficiencies+in+your+home.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://darwaldenteamblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dar+Walden/Anchorage%2C+AK+Real+Estate+Energy+efficiencies+in+your+home.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -526,7 +526,7 @@ If you want to stay warm during the winter and lower your energy costs, there ar
       
       <item>
         <title>Whats Happening in the Anchorage Market?</title>
-        <link>localhost:4000/anchorage-market-overview.html</link>
+        <link>http://darwaldenteamblog.com/anchorage-market-overview.html</link>
         
           <category>Market update</category>
         
@@ -559,7 +559,7 @@ The discrepancy between the two figures is due to the fact that the properties t
 If you have any other questions, or you’d like to talk with me, please feel free to give me a call or send me an email. Have a great week!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dar+Walden/Anchorage%2C+AK+Real+Estate+Anchorage+market+overview.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://darwaldenteamblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dar+Walden/Anchorage%2C+AK+Real+Estate+Anchorage+market+overview.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -578,7 +578,7 @@ It’s time for another quick market update for the Anchorage area.
       
       <item>
         <title>Some of These Fish Facts May Surprise You</title>
-        <link>localhost:4000/do-you-know-these-surprising-fishing.html</link>
+        <link>http://darwaldenteamblog.com/do-you-know-these-surprising-fishing.html</link>
         
           <category>Trivia</category>
         
@@ -617,7 +617,7 @@ Fishing season this year may be over—but, if you’re a fisherman, remember to
 If you have any other questions or would like more information feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dar+Walden/Anchorage%252C+AK+Real+Estate-+Do+you+know+these+surprising+fishing+facts%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://darwaldenteamblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dar+Walden/Anchorage%252C+AK+Real+Estate-+Do+you+know+these+surprising+fishing+facts%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -636,7 +636,7 @@ Today I’d like to take a break from talking about the market. Instead, I’m b
       
       <item>
         <title>Anchorage Real Estate Market Update</title>
-        <link>localhost:4000/anchorage-real-estate-market-update.html</link>
+        <link>http://darwaldenteamblog.com/anchorage-real-estate-market-update.html</link>
         
           <category>Market update</category>
         
@@ -671,7 +671,7 @@ So what does this mean for you? If you’re a seller, now is a great time to lis
 If you have any additional questions about this update or you’re looking to buy or sell a home, please give a call. We’d be happy to help!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dar+Walden/Anchorage%2C+AK+Real+Estate+Anchorage+real+estate+market+update.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://darwaldenteamblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dar+Walden/Anchorage%2C+AK+Real+Estate+Anchorage+real+estate+market+update.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -690,7 +690,7 @@ Today I wanted to give you an update on what’s going on in our Anchorage marke
       
       <item>
         <title>An Exciting Message From Dar Walden & Wes Madden</title>
-        <link>localhost:4000/an-exciting-message-from-dar-walden-wes.html</link>
+        <link>http://darwaldenteamblog.com/an-exciting-message-from-dar-walden-wes.html</link>
         
           <category>AK Real Estate</category>
         
@@ -723,7 +723,7 @@ We also share a lot of core values; this whole deal simply wouldn’t work if we
 So if you’re interested in buying or selling a home here in Alaska or you’re interested in a career in real estate, just give us a call or send us an email. We’d love to hear from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dar+Walden/Anchorage%2C+AK+Real+Estate+Announcement+from+Dar+Walden+%26+Wes+Madden.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://darwaldenteamblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dar+Walden/Anchorage%2C+AK+Real+Estate+Announcement+from+Dar+Walden+%26+Wes+Madden.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -742,7 +742,7 @@ Wes Madden and Dar Walden are together today for a special announcement.
       
       <item>
         <title>We Want to Know Which Causes You Care About</title>
-        <link>localhost:4000/anchorage-ak-real-estate-is-there-good.html</link>
+        <link>http://darwaldenteamblog.com/anchorage-ak-real-estate-is-there-good.html</link>
         
           <category>AK Real Estate</category>
         
@@ -767,7 +767,7 @@ We like to be active and helpful in the community, and if you’ve got a cause t
 As always, give us a call or send us an email with any real estate questions you have as we’re always here to help. I look forward to hearing from you soon!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dar+Walden/Anchorage%2C+AK+Real+Estate+Is+there+a+good+cause+you're+passionate+about.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://darwaldenteamblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dar+Walden/Anchorage%2C+AK+Real+Estate+Is+there+a+good+cause+you're+passionate+about.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -786,7 +786,7 @@ We love helping out in the community and we’d like you to tell us about any ca
       
       <item>
         <title>Whats Been Happening in Our Market Lately?</title>
-        <link>localhost:4000/anchorage-ak-real-estate-your-anchorage.html</link>
+        <link>http://darwaldenteamblog.com/anchorage-ak-real-estate-your-anchorage.html</link>
         
           <category>Market update</category>
         
@@ -815,7 +815,7 @@ Keep in mind that we’re also in the slow quarter, so some of this is a result 
 If you have any questions or are thinking about putting your home on the market, please feel free to give me a call. I’d be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dar+Walden/Anchorage%2C+AK+Real+Estate+Your+Anchorage+area+market+update.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://darwaldenteamblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dar+Walden/Anchorage%2C+AK+Real+Estate+Your+Anchorage+area+market+update.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -834,7 +834,7 @@ The Feds are raising interest rates once more next week, which means if you’re
       
       <item>
         <title>How to Keep Your Home Safe While Youre Away</title>
-        <link>localhost:4000/anchorage-ak-real-estate-tips-for.html</link>
+        <link>http://darwaldenteamblog.com/anchorage-ak-real-estate-tips-for.html</link>
         
           <category>Expert Advice</category>
         
@@ -865,7 +865,7 @@ Finally, double check those windows and doors before you leave. One-third of all
 I hope these tips are helpful and keep you safe and sound in your home. If you have any questions for me, don’t hesitate to give me a call or send me an email. I look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Dar+Walden/Anchorage%2C+AK+Real+Estate+Tips+for+securing+your+home.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://darwaldenteamblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Dar+Walden/Anchorage%2C+AK+Real+Estate+Tips+for+securing+your+home.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
