@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Why Abby Realty Is the Fastest-Growing Brokerage in Houston
-date: 2018-02-22 17:04:41
+title: Why Abby Realty Is One of the Fastest-Growing Brokerages in Houston
+date: 2018-02-22 17:04:00
 tags:
   - Real Estate
 excerpt: >-
