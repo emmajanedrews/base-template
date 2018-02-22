@@ -1443,7 +1443,6 @@ html[xmlns] .flexslider .slides {
     text-align: center; }
 
 .navbar-andross {
-  border-bottom: 2px solid #000000;
   border-radius: 0;
   min-height: 52px;
   background: #ffffff;
@@ -2754,3 +2753,31 @@ form select {
 .testimonial-author {
   color: #b40101;
   margin-top: -20px; }
+
+.blog-link {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  background: #BC151C;
+  border: 1px solid #BC151C;
+  border-radius: 0px;
+  padding: 10px 20px;
+  text-decoration: none;
+  font-size: 18px;
+  color: white;
+  -webkit-transition: all 0.15s ease-out 0s;
+  transition: all 0.15s ease-out 0s; }
+  .blog-link a {
+    text-align: center; }
+  .blog-link:hover {
+    background: #fff;
+    color: #BC151C;
+    border: 1px solid #BC151C; }
+  .blog-link:active {
+    box-shadow: 0 0 0 #BC151C;
+    -webkit-transform: translateY(0rem);
+    transform: translateY(0rem); }
+
+.blog-button {
+  text-align: center;
+  margin: 4rem 0; }

@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: Northern Virginia Real Estate Careers and Training Video Blog with Allen Johnson
 description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: True
 custom_links:
@@ -20,7 +20,7 @@ client:
   license_number:
   about_markdown: |
     AJ Team Realty is comprised of a team of local real estate professionals committed to selling some of the most desired homes in Northern Virginia. Selling these "right addresses" is the mission of AJ Team Realty. Let us know what you're looking for.
-  market:
+  market: Northern Virginia
   brand: AJ Team Realty
   brokerage: Keller Williams Realty
   address: 4310 Prince William Pkwy Ste 200 Woodbridge, VA 22192
@@ -29,7 +29,7 @@ client:
   phone2:
   phone2_type:
   email: careers@AJTeamRealty.com
-  url: AJTeamRealty.com
+  url: http://AJTeamRealty.com
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
@@ -37,6 +37,12 @@ sidebar_CTA:
     CTA_text: "Are you interested in furthering your real estate sales career?"
     CTA_link_text: "Contact Us"
     CTA_url: /contact/
+
+second_sidebar_CTA:
+  - CTA_title2: "Join Us in Mentoring the Next Generation of Leaders"
+    CTA_text2: "I’m joined today by Dr. Daria Groover, the principal of Featherstone Elementary School, and she has a special story to share."
+    CTA_link_text2: "Read More"
+    CTA_url2: http://allenjohnsoncoaching.com/join-us-in-mentoring-the-next-generation-of-leaders.html
 
 lender:
   show_section: false
@@ -88,7 +94,7 @@ images:
   logo_width_number: 50
   hero_text:
   hero_background_hex: '#999'
-  hero_image_path: /img/background5.jpg
+  hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#BC151C'

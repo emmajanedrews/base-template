@@ -28,15 +28,7 @@
 {% endfor %}
 {% for cta in site.data.settings.second_sidebar_CTA %}
 <div class="cta-sidebar-container">
-	<div class="cta-img-container">
-		{% if cta.CTA_link_text2 == null or cta.CTA_url2 == null%}
-	<a href="{{cta.second_CTA_URL}}" target="_blank">
-		{% else %}
-		<a href="{{cta.CTA_url2}}" target="_blank">
-		{%endif%}
-		<img src="{{cta.CTA_image_path2}}" alt="" />
-	</a>
-	</div>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/IBaua3PlMXs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 	<h5>{{cta.CTA_title2 | replace: '-- MARKET --', site.data.settings.client.market}}</h5>
 	<p>
 		{{cta.CTA_text2 | replace: '-- MARKET --', site.data.settings.client.market}}
