@@ -7,45 +7,47 @@ custom_links:
     url:
 
 emma:
-  lightbox:
+  lightbox: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808306';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
   form:
 
 client:
-  name:
+  name: Andy Richardson
   title:
   license_number:
   about_markdown: |
+    Andy is a Licensed NC Real Estate Broker, Certified Home Selling Advisor and experienced Real Estate Investor. Originally from Monroe, NC, Andy relocated to Wilmington in 1998 where he attended UNC-Wilmington. After graduating, he chose to make Real Estate his profession of choice.
 
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    With over 12 years of experience in Residential and Commercial Real Estate Sales, Leases and Investments and hundreds of successful transactions, Andy knows and understands every aspect of the Real Estate Business. He is dedicated to providing excellent customer service and promises to bring a fun and professional attitude while helping his clients achieve their Real Estate goals and needs.
+  market: Wilmington
+  brand: Andy Richardson Home Selling Team
+  brokerage: RE/MAX
+  address: 1650 Military Cutoff Suite 100 Wilmington, NC 28403
+  phone: 910-550-1000
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: AndyRichardson@remax.net
+  url: https://searchwilmingtonhomesforsale.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.searchwilmingtonhomevalues.com/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: https://www.searchwilmingtonhomesforsale.com/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.searchwilmingtonhomevalues.com/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: https://www.searchwilmingtonhomesforsale.com/
 
 lender:
   show_section: false
@@ -61,17 +63,17 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
-  instagram_url:
+  facebook_url: https://www.facebook.com/WilmingtonRealtor
+  linkedin_url: https://www.linkedin.com/in/andywrichardson
+  gplus_url: https://plus.google.com/+Thewilmingtonrealestateblog/posts
+  youtube_url: https://www.youtube.com/channel/UC6ZZdgIeoT0eZxUXm6dSnBQ
+  twitter_url: https://twitter.com/andywrichardson
+  instagram_url: https://www.instagram.com/andyrichardson_realtor/
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
-  podcast_url:
+  zillow_url: http://www.zillow.com/profile/andyrichardson/
+  trulia_url: http://www.trulia.com/profile/andy-richardson-agent-wilmington-nc-10829009/overview
+  yelp_url: http://www.yelp.com/biz/andy-richardson-real-estate-expert-wilmington
+  podcast_url: https://itunes.apple.com/us/podcast/wilmington-real-estate-podcast/id1190365101?mt=2
 
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
@@ -91,8 +93,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#304360'
+  theme_color: '#DB2240'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -101,10 +103,10 @@ navbar_colors:
   border_bottom:
 
 header_shadow:
-  h_shadow: 0px
+  h_shadow: 2px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: white
 
 buttons:
   button_radius_number: 0
