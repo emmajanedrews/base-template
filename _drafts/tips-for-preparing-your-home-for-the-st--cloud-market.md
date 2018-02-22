@@ -18,7 +18,7 @@ youtube_code: rt56nfW-tD4
 
 {% include youtube.html %}
 
-What simple updates can you make to your St. Cloud home in order to sell quickly and for top dollar? I’ll share a few tips today.
+<center>What simple updates can you make to your St. Cloud home in order to sell quickly and for top dollar? I’ll share a few tips today.</center>
 
 If you’re ready to sell your home, what can you do to prepare your house for the market?
 
