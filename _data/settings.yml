@@ -4,7 +4,7 @@ description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for 
 show_custom_links: true
 custom_links:
   - title: testimonials
-    url: https://www.youtube.com/user/mistysold/videos
+    url: /testimonials/
 
 client:
   name: Misty SOLDwisch
