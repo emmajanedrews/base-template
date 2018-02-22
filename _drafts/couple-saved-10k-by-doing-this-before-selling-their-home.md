@@ -18,7 +18,7 @@ youtube_code:
 
 {% include youtube.html %}
 
-Did you know that our clients saved over $300k last year by only spending $400 on a pre-home inspection before listing their home?
+<center>Did you know that our clients saved over $300k last year by only spending $400 on a pre-home inspection before listing their home?</center>
 
 When you go to a doctor, **you don’t know what’s wrong with you until you get a prognosis.** Finding the value of a home is quite similar -- you can’t know the price until a lot of research has been done!&nbsp;
 
