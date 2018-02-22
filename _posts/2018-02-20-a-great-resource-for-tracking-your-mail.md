@@ -1,13 +1,14 @@
 ---
 layout: post
 title: A Great Resource for Tracking Your Mail
-date: 2018-02-20 16:51:08
+date: 2018-02-20 16:51:00
 tags:
   - Real Estate
 excerpt: >-
   With a lot of seasonal buyers, dealing with the mail in our market can get
   tricky. Here’s a tip to help.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Scott+Hollinger/Montana+Real+Estate++The+Hollinger+Team+A+mail+delivery+tip.mp4
 pullquote: This is an easy way to keep track of your mail.
 enclosure_type: video/mp4
 enclosure_time:
