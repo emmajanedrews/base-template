@@ -1,11 +1,12 @@
 ---
 layout: post
 title: What Should You Know About Title Insurance?
-date: 2018-02-20 15:23:19
+date: 2018-02-20 15:23:00
 tags:
   - Real Estate
 excerpt: 'Today, Malay Wadhwa is here to talk about title insurance.'
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Barbara+Radke/Southern+California+Real+Estate+The+role+of+title+insurance.mp4
 pullquote: Sometimes it’s best to put the property in a living trust.
 enclosure_type: video/mp4
 enclosure_time:
@@ -36,7 +37,7 @@ There are two types of liens that are commonly attached: unsecured liens and sec
 
 **When clients are buying a home, how should they hold their vesting?**
 
-If, for example, a husband and wife are buying a property, they can buy it as a joint community property with the right of survivorship. Two individuals can also buy a property together, each with 50% interest on it.&nbsp;
+If, for example, a husband and wife are buying a property, they can buy it as a joint community property with the right of survivorship. Two individuals can also buy a property together, each with 50% interest on it.
 
 The reason that we specify the interest is so that, if need be, one can assign their interest to their spouse and children. It is important to do this because if, say, they just acquired a property without specifying the interest, then they have to go to the court to analyze who owns what percentage of the property.
 
