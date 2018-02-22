@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Should You Consider Buying a New Construction Home in 2018?
-date:
+date: 2018-02-22 16:07:25
 tags:
   - Home Buyer Tips
 excerpt: >-
