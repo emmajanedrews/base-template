@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tips for Preparing Your Home for the St. Cloud Market
-date:
+date: 2018-02-22 19:47:13
 tags:
   - Home Seller Tips
 excerpt: >-
