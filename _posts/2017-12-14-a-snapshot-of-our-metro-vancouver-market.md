@@ -18,7 +18,11 @@ youtube_code: 6cE6S6EfkAA
 
 {% include youtube.html %}
 
-We are currently working on updating this page; if you would like to see this video, please visit out Youtube Channel: [Vallee Real Estate Group](https://www.youtube.com/user/valleerealestate)
+Thank you for visiting our site, we are currently working on updating this page; if you would like to see this more videos from us, please visit out Youtube Channel:&nbsp;
+
+[Vallee Real Estate Group](https://www.youtube.com/user/valleerealestate)
+
+Summary:
 
 What do the latest numbers say about our metro Vancouver market?
 
@@ -29,8 +33,6 @@ While sales are above average for this time of year, overall supply remains well
 Looking at supply by property type, we see that single-family listings today are 9% below the 10-year average, while condominium listings are down 60%,and townhomes are down 26%.
 
 **This constrained supply coupled with heightened demand is causing price increases in our market**, particularly for condos and townhomes. In the last 12 months, detached homes have increased 6%, townhomes have increased 17%, and condos increased 23%.
-
-{% include pullquote.html %}
 
 What’s driving these increases? The answer lies in a variety of factors. Our provincial population and economy are growing, interest rates remain low, the baby boomer generation is downsizing, millennials are entering their household-forming years, and foreign buyers continue to see this region as a desirable investment.
 
