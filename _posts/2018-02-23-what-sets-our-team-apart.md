@@ -21,11 +21,11 @@ One thing that differentiates myself and my team from the average agents out the
 
 This pre-certification process has three parts:
 
-1. Professional staging
+1) Professional staging
 
-2. A pre-inspection by a licensed inspector
+2) A pre-inspection by a licensed inspector
 
-3. A pre-appraisal by a licensed appraiser
+3) A pre-appraisal by a licensed appraiser
 
 {% include pullquote.html %}
 
