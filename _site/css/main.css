@@ -2794,7 +2794,7 @@ form select {
   margin: 0 auto; }
 
 .img-list {
-  max-width: 600px;
+  max-width: 25%;
   position: relative;
   display: inline;
   list-style: none; }
@@ -2804,6 +2804,9 @@ form select {
   display: inline;
   margin: 20px; }
 
+@media (max-width: 600px) {
+  .img-list {
+    max-width: 25%; } }
 .recruiting {
   text-align: center; }
 
