@@ -22,7 +22,7 @@ youtube_code: 2-WBiSnL1Fw
 
 {% include youtube.html %}
 
-For today’s installment of "Coffee and Conversations," we’re joined by special guest Laurie Marks of Travel and Tours Unlimited.&nbsp;
+For today’s installment of "Coffee and Conversations," we’re joined by special guest Laurie Martz of Travel and Tours Unlimited.&nbsp;
 
 Over the years, Laurie has helped me plan a lot of awesome Disney vacations over the years, so I felt compelled to bring her on and let her explain a little more about what she does.&nbsp;
 
