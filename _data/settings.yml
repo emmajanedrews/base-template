@@ -96,7 +96,7 @@ images:
   hero_logo_path: /uploads/logo---vreg---rgb---square-02-1.png
   hero_text:
   hero_background_hex: '#272727'
-  hero_image_path: /uploads/header---facebook.jpg
+  hero_image_path: /uploads/canva-backdrop01.jpg
 brand_color: '#8dc63f'
 theme_color: '#30342d'
 theme_text_color: '#353535'
