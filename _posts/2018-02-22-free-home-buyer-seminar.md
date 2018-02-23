@@ -19,7 +19,7 @@ youtube_code: JeagXJz4mqU
 
 <center>&nbsp;</center>
 
-<center><a href="https://www.eventbrite.com/e/free-first-time-home-buyer-seminar-tickets-43112795532">RSVP here on <strong>Evenbrite</strong></a></center>
+<center><a href="https://www.eventbrite.com/e/free-first-time-home-buyer-seminar-tickets-43112795532">RSVP here on <strong>Eventbrite</strong></a></center>
 
 <center><a href="https://www.facebook.com/events/1973671912897861">Learn more and get tickets on <strong>Facebook</strong></a></center>
 
@@ -29,8 +29,16 @@ Friends and clients!
 
 Have you, or someone you know (friend, child, neighbor) been thinking about purchasing your first home? GREAT NEWS – this Wednesday 2/28 we’re putting on a FREE seminar walking through the process, AND we’ll feed you while you’re there. No cost, no sales pitch, just incredible education from The Larkin Group’s outstanding Home Buying team and Lender partners.
 
-Learn:Pitfalls to buying a home and how to avoid them<br>The outrageous clear benefits of owning over renting (i.e., paying your OWN mortgage instead of your Landlord’s!)<br>Why many would-be Buyers will regret not taking advantage of this current market<br>See exactly what is for sale out there, what homes cost, and what your payment will look like!
+Learn:
+<ul>
+<li>Pitfalls to buying a home and how to avoid them</li>
+<li>The outrageous clear benefits of owning over renting (i.e., paying your OWN mortgage instead of your Landlord’s!)</li>
+<li>Why many would-be Buyers will regret not taking advantage of this current market</li>
+<li>See exactly what is for sale out there, what homes cost, and what your payment will look like!</li>
+</ul>
 
 Click on the RSVP links below and feel free to invite family or friends!
 
-**[View Flier Here](https://s3.amazonaws.com/vyralmarketing/Jeremy-Larkin/Home+Buyer+Seminar.jpg)**<br><br>Thank you everyone! Have a lovely night.
+**[View Flier Here](https://s3.amazonaws.com/vyralmarketing/Jeremy-Larkin/Home+Buyer+Seminar.jpg)**
+<br><center><a href="https://www.eventbrite.com/e/free-first-time-home-buyer-seminar-tickets-43112795532">RSVP here on <strong>Evenbrite</strong></a></center></br>
+<center><a href="https://www.facebook.com/events/1973671912897861">Learn more and get tickets on <strong>Facebook</strong></a></center>
