@@ -32,7 +32,7 @@ If you’re experiencing these same problems but don’t want to end up as one o
 
 The Nickley Group is one of the fastest-growing and highest-producing real estate teams in central Florida. We will sell over 300 homes this year with over $75 million in volume. EVERY agent on our team joined us as a new agent and has built their business with us. **Our average agent sells 30 homes a year and makes over $100,000 per year, and our average first-year agent makes $60,000 per year.**
 
-We consider ourselves more of a coaching company than a real estate company, and we offer world-class training on everything it takes build a real estate business. We have a full-time sales manager, a scripts coach, and a mentorship program. Our 30-day boot camp for new agents teaches them more in their first 30 days than an average agent will learn in their first two years. We train on every aspect of the sales process and generate over 700 leads per month for our agents. We have full operational support (transaction manager, listing manager, marketing manager) and cover all marketing and associated expenses. We also have a top-notch 100-touch past client marketing program to turn past clients into a massive referral source for our agents.
+We consider ourselves more of a coaching company than a real estate company, and we offer world-class training on everything it takes to build a real estate business. We have a full-time sales manager, a scripts coach, and a mentorship program. Our 30-day boot camp for new agents teaches them more in their first 30 days than an average agent will learn in their first two years. We train on every aspect of the sales process and generate over 700 leads per month for our agents. We have full operational support (transaction manager, listing manager, marketing manager) and cover all marketing and associated expenses. We also have a top-notch 100-touch past client marketing program to turn past clients into a massive referral source for our agents.
 
 Most of all, our team is a true team with an amazing culture that cultivates success. We are in the office working together every single day and collaborating on how to grow our business, share ideas, and learn from each other’s successes and failures. Our team culture is truly one of a kind and one of the best in the industry. We are changing the lives of our agents, team members, business partners, and clients through the creation of a world-class real estate experience.
 
@@ -42,7 +42,7 @@ If joining our team isn’t for you, we understand, but if that’s the case, yo
 
 **1. Go it on your own.** Trying to teach yourself the ropes of real estate can be overwhelming at the least. This is the most likely way to fail because you have no point of reference and no ability to learn right from wrong. The majority of people are not cut out to be their own boss and don’t have the tools and resources it takes to learn what is needed to be successful in this industry.
 
-**2. Join a traditional brokerage.** As a said, most of the training and support offered by most brokerages is watered-down at best, and they lack the true support and leadership that is needed to be successful.
+**2. Join a traditional brokerage.** As I said, most of the training and support offered by most brokerages is watered-down at best, and they lack the true support and leadership that is needed to be successful.
 
 **3. Hire a real estate coach.** This can be a good option for some, but the amount of hands-on time you get with your real estate coach is usually limited to an hour a month.  There is no day-to-day accountability, direction, coaching, or leadership. Also, there are no leads, support, culture, and team environment to tap into.
 
@@ -52,7 +52,7 @@ If you join our team, you’ll earn more, just like the rest of our agents. We o
 
 If you accept our offer, you’ll undergo our 30-day bootcamp that will immediately immerse you into our team’s culture, daily habits, and workflow. Our comprehensive training program combines an extensive online library of video and audio training, live in-office training, and an immersion into our team’s daily prospecting and business-building habits. During this time, you will learn and simultaneously implement world-class systems and habits to set you well on your way to smashing your personal and professional goals.
 
-We are so sure that our system will work for a candidate that meets our requirements that **we guarantee a first-year earnings of $60,000 or more...or we will pay you the difference!** 
+We are so sure that our system will work for a candidate that meets our requirements that **we guarantee a first-year earnings of $60,000 or more...or we will pay you the difference!**
 Experience is NOT required, but this is a full-time position which requires some evening and weekend work, so please do not respond if you are seeking part-time employment.
 
 We are looking to add a total of three new agents to our team, so we’re accepting applications now, but time is limited.
