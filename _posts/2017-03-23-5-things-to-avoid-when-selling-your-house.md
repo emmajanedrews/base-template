@@ -13,10 +13,13 @@ youtube_alternate_image: /uploads/NO_PB (46).jpg
 youtube_code: PWzWIP3P2Js
 ---
 
-
 {% include youtube.html %}
 
-If you're getting ready to sell your house, there are certain things you should actually avoid doing:
+Thank you for visiting our site, we are currently working on updating this page; if you would like to see this more videos from us, please visit our Youtube Channel:
+
+[Vallee Real Estate Group](https://www.youtube.com/user/valleerealestate)
+
+Video Summary:<br>If you're getting ready to sell your house, there are certain things you should actually avoid doing:
 
 **1. Wallpaper is out.** Unless your home is custom-built, you want to avoid putting up wallpaper at all costs.
 
@@ -24,10 +27,6 @@ If you're getting ready to sell your house, there are certain things you should 
 
 **3. Carpeting.** Many older homes have carpet in the high-traffic areas like the hallways and living rooms. Don't replace carpet with carpet. Instead, use a high-quality laminate, a good engineered hardwood, or real hardwood floors. You can find good engineered hardwood at a reasonable price that would be similar to the cost of carpet, and it usually only takes a day or two to replace.
 
-{% include pullquote.html %}
-
 **4. Bold colors.** If you need to repaint your property at all, avoid bold colors like bright reds, yellows, and greens. Go with neutral colors to appeal to more buyers.
 
 **5. Landscaping.** You can focus on curb appeal, but don't spend too much money on it. You'll get a negative return on your investment with landscaping.
-
-If you'd like any more tips or ideas for preparing your house for the market, just give me a call or send me an email. I'd be happy to help you!
