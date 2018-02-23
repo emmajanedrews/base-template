@@ -16,8 +16,9 @@ youtube_alternate_image: /uploads/no-pb-1.jpg
 youtube_code: oJOs3ZzbShM
 ---
 
-
 {% include youtube.html %}
+
+We are currently working on updating this page; if you would like to see this video, please visit out Youtube Channel: [Vallee Real Estate Group](https://www.youtube.com/user/valleerealestate)
 
 Last month, Metro Vancouver home sales reached typical historical levels with the majority of those sales concentrated in the townhouse and condominium markets.
 
