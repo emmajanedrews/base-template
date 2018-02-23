@@ -1,7 +1,7 @@
 ---
 youtube_code: 0nKC6_urEng
 excerpt:
-enclosure:
+enclosure: https://s3.amazonaws.com/vyralmarketing/Andy+Richardson/2.5.18+market+update.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
