@@ -1,10 +1,7 @@
 audit_header: false
 title: Vallee Real Estate Group
-description: >-
-  If you are looking to buy or sell a home, get all the information and the
-  latest updates, tips, and tricks from Quinn Stewart Real Estate Group - your
-  professional Portland Real Estate Agents.
-show_custom_links: true
+description:
+show_custom_links: false
 custom_links:
   - title: Featured Properties
     url: 'http://www.valleerealestate.ca/listings/active'
@@ -62,7 +59,10 @@ client:
   first_CTA_URL: 'http://www.valleerealestate.ca/your-homes-value'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://www.valleerealestate.ca/home-search'
-emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808385';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+emma_form: >-
+  <script
+  id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808385';</script><script
+  src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 welcome_headline: Get Educated About Your Real Estate
 welcome_text_markdown: >-
   Our mission at Vall&eacute;e Real Estate is to be your best resource for real
@@ -73,8 +73,8 @@ welcome_text_markdown: >-
 socials:
   review_sm_icons: false
   facebook_url: 'https://www.facebook.com/valleerealestate/'
-  linkedin_url: 'https://www.linkedin.com/in/evallee'
-  gplus_url: 'https://plus.google.com/u/0/108224651826566207813'
+  linkedin_url: 'https://www.linkedin.com/company/vallee-real-estate-group/'
+  gplus_url: 'https://plus.google.com/u/0/106962240391512519329'
   youtube_url: 'https://www.youtube.com/user/valleerealestate'
   twitter_url: 'https://twitter.com/valleerealtors'
   instagram_url:
@@ -82,8 +82,7 @@ socials:
   zillow_url:
   trulia_url:
   yelp_url:
-  podcast_url: >-
-    https://itunes.apple.com/us/podcast/vallee-real-estate-group-podcast/id1177117502?mt=2
+  podcast_url:
 podcast:
   title: Vallée Real Estate Group Podcast
   categories:
