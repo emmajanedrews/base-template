@@ -16,8 +16,9 @@ youtube_alternate_image: /uploads/no-pb-1-1.jpg
 youtube_code: 6cE6S6EfkAA
 ---
 
-
 {% include youtube.html %}
+
+We are currently working on updating this page; if you would like to see this video, please visit out Youtube Channel: [Vallee Real Estate Group](https://www.youtube.com/user/valleerealestate)
 
 What do the latest numbers say about our metro Vancouver market?
 
