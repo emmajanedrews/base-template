@@ -16,10 +16,13 @@ youtube_alternate_image: /uploads/vallee-2-7-yt.jpg
 youtube_code: wE17TE17nNU
 ---
 
-
 {% include youtube.html %}
 
-If you plan on selling your home, here are five updates that you should avoid making before you list it:
+Thank you for visiting our site, we are currently working on updating this page; if you would like to see this more videos from us, please visit our Youtube Channel:
+
+[Vallee Real Estate Group](https://www.youtube.com/user/valleerealestate)
+
+Video Summary:<br>If you plan on selling your home, here are five updates that you should avoid making before you list it:
 
 **1. Wallpaper.** You don’t want to add wallpaper unless it’s a custom home or you’ve been asked by a custom designer to add wallpaper.
 
@@ -30,7 +33,3 @@ If you plan on selling your home, here are five updates that you should avoid ma
 **4. Painting in bold colors.&nbsp;**Don’t go with and bold reds, greens, or blues. Keep your colors clean, neutral, and calm. Buyers will appreciate that.
 
 **5. Overspending on the landscaping.** Usually, you won’t get a good return on your investment anyway when it comes to landscaping. Although you want to update the curb appeal for your home, you don’t want to overspend.
-
-{% include pullquote.html %}
-
-There are more tips I’d like to share with you when it comes to making a successful sale, so if you have any questions, please feel free to reach out to me. I’d be happy to help! &nbsp;
