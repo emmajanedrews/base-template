@@ -27,7 +27,7 @@ Today, I’m here to discuss LEED certification and how it can impact your organ
 
 In 2014, there were two million roles that were specific to green building projects. In 2018, it’s estimated that will increase by 1.1 million, **resulting in about 3.3 million roles in the green building industry. That equates to about $76 billion in wages.**
 
-Companies are looking at how they can stay competitive. One of the areas that we’re finding to be the most significant in terms of success is that **they’re offering to pay for LEED certification**opportunities with their current employees.
+Companies are looking at how they can stay competitive. One of the areas that we’re finding to be the most significant in terms of success is that **they’re offering to pay for LEED certification&nbsp;**opportunities with their current employees.
 
 {% include pullquote.html %}
 
