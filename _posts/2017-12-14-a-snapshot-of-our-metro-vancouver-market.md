@@ -22,7 +22,7 @@ Thank you for visiting our site, we are currently working on updating this page;
 
 [Vallee Real Estate Group](https://www.youtube.com/user/valleerealestate)
 
-Summary:
+Video Summary:
 
 What do the latest numbers say about our metro Vancouver market?
 
