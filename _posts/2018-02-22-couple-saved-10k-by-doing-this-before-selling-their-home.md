@@ -12,7 +12,7 @@ pullquote: YOU DON’T WANT TO HIRE SOMEONE WHO ISN’T GOING TO WORK ON YOUR BE
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/2-23---yt.jpg
 youtube_code: fN4L_1r5MkQ
 ---
 
