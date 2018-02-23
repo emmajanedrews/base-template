@@ -6,9 +6,9 @@ permalink: /instagram/
 <div class="img-feed">
   <ul>
     <li class="img-list"><img src="/img/lamp.jpg" class="ig-post"></li>
-    <li class="img-list"><img src="/img/cozy.jpg" class="ig-post"></li>
     <li class="img-list"><img src="/img/handmade.jpg" class="ig-post"></li>
     <li class="img-list"><img src="/img/pup.jpg" class="ig-post"></li>
+    <li class="img-list"><img src="/img/cozy.jpg" class="ig-post"></li>
     <li class="img-list"><img src="/img/tree.jpg" class="ig-post"></li>
     <li class="img-list"><img src="/img/sucker.jpg" class="ig-post"></li>
     <li class="img-list"><img src="/img/chair.jpg" class="ig-post"></li>
