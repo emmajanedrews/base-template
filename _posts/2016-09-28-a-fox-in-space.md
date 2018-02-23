@@ -1,12 +1,12 @@
 ---
-youtube_code: 
+youtube_code:
 excerpt:
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /img/cover.jpg
+use_youtube_image: false
+youtube_alternate_image: http://fillmurray.com/400/400
 layout: post
 title: A Fox in Space
 date: 2016-09-28

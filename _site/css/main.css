@@ -1911,11 +1911,38 @@ table tr, table td {
   position: relative;
   bottom: 5.5rem;
   border-radius: 9px 9px 0 0;
-  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
-  margin-left: 100px; }
+  border: 1px solid #c7c7c7; }
+
+.post-block {
+  background-color: #fff;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  width: 30%;
+  text-align: center; }
+
+.post-block-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap; }
+
+.post-block-container:after {
+  content: "";
+  -webkit-box-flex: initial;
+      -ms-flex: initial;
+          flex: initial;
+  width: 30%;
+  padding: 10px;
+  margin-top: 10px; }
 
 .post-container {
-  padding-right: 20px; }
+  background: #fff;
+  margin: 10px;
+  padding: 10px; }
 
 .pad {
   padding: 0 2rem; }
@@ -1924,52 +1951,29 @@ table tr, table td {
   display: inline; }
 
 .post-overview-title {
-  font-size: 3rem;
-  text-align: left;
-  padding-left: 10px; }
+  font-size: 2.8rem;
+  text-align: center;
+  font-weight: bold; }
 
 .post-title {
   font-size: 5rem;
-  text-align: left; }
-
-.post-link {
-  -webkit-transition: all 0.3s ease-in-out;
-  transition: all 0.3s ease-in-out; }
+  text-align: center;
+  font-weight: 300; }
 
 .post-image {
-  width: 100%; }
-
-.post-image-container {
-  padding: 0; }
+  width: 100%;
+  height: auto;
+  padding-bottom: 0px; }
 
 .excerpt {
-  font-size: 18px;
-  padding: 10px;
-  padding-bottom: 20px; }
-
-.post-list ul {
-  margin: 0 auto; }
-.post-list li {
-  display: inline; }
-
-.content-container {
-  border: 1px solid #cfcfcf;
-  margin: 20px auto; }
-  .content-container hr {
-    margin-top: 0;
-    margin-bottom: 0; }
-
-.center-image {
-  margin: 0 auto;
-  display: block; }
+  font-size: 16px; }
 
 .readlink > a {
   background: #b40101;
-  color: white;
+  color: #fff;
   border: 1px solid #b40101;
-  border-radius: 0px;
   padding: 10px 20px;
-  margin-top: 20px;
+  margin-bottom: 20px;
   text-decoration: none;
   font-size: 16px;
   -webkit-transition: all 0.15s ease-out 0s;
@@ -1978,10 +1982,6 @@ table tr, table td {
     background: #fff;
     color: #b40101;
     border: 1px solid #b40101; }
-  .readlink > a:active {
-    box-shadow: 0 0 0 #b40101;
-    -webkit-transform: translateY(0rem);
-    transform: translateY(0rem); }
 
 #arrow_left, #arrow_right {
   max-width: 2rem; }
@@ -2076,7 +2076,7 @@ table tr, table td {
   .author-attribution a {
     color: white; }
     .author-attribution a:hover {
-      color: #fe1d1d; }
+      color: #b40101; }
 
 .post-share {
   text-align: center;
@@ -2130,7 +2130,10 @@ table tr, table td {
     box-shadow: none; }
 
   .post-wrapper {
-    height: 575px; } }
+    height: 575px; }
+
+  .post-block {
+    width: 100%; } }
 @media (max-width: 550px) {
   .six.columns.post-wrapper {
     height: 530px; }
@@ -2145,13 +2148,25 @@ table tr, table td {
     font-size: 2.5rem;
     margin: 1.5rem; }
   .post .headshot {
-    display: none; }
+    display: none; } }
+@media (max-width: 1200px) {
+  .post-block {
+    width: 100%; } }
+@media (max-width: 1300px) {
+  .post-block {
+    width: 45%; }
 
-  .pullquote {
-    max-width: 100%; } }
-@media (max-width: 992px) {
-  .post-container {
-    padding-right: 0px; } }
+  .post-block-container:after {
+    content: "";
+    -webkit-box-flex: initial;
+        -ms-flex: initial;
+            flex: initial;
+    width: 45%;
+    padding: 10px;
+    margin-top: 10px; } }
+@media (max-width: 600px) {
+  .post-block {
+    width: 100%; } }
 .thankyou {
   text-align: center;
   margin-top: 3rem; }
@@ -2181,11 +2196,6 @@ table tr, table td {
   100% {
     -webkit-transform: rotate(0deg) scale(1) translate(-209px, -148px);
     transform: rotate(0deg) scale(1) translate(-209px, -148px); } }
-.post-cta {
-  font-size: 18px;
-  text-align: center;
-  margin-bottom: 2rem; }
-
 .socials {
   padding: 0.7rem;
   margin-bottom: 0.7rem; }
@@ -2776,6 +2786,23 @@ form select {
 .testimonial-author {
   color: #b40101;
   margin-top: -20px; }
+
+.img-feed {
+  position: relative;
+  width: 75%;
+  display: block;
+  margin: 0 auto; }
+
+.img-list {
+  max-width: 600px;
+  position: relative;
+  display: inline;
+  list-style: none; }
+
+.ig-post {
+  max-width: 400px;
+  display: inline;
+  margin: 20px; }
 
 .recruiting {
   text-align: center; }

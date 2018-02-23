@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>localhost:4000/test.html</loc>
+<lastmod>2018-02-22T00:00:00-06:00</lastmod>
+</url>
+<url>
 <loc>localhost:4000/this-is-a-test-post-copy-2.html</loc>
 <lastmod>2016-10-04T00:00:00-05:00</lastmod>
 </url>
@@ -28,6 +32,9 @@
 </url>
 <url>
 <loc>localhost:4000/</loc>
+</url>
+<url>
+<loc>localhost:4000/instagram/</loc>
 </url>
 <url>
 <loc>localhost:4000/search.html</loc>
