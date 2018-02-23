@@ -13,10 +13,13 @@ youtube_alternate_image: /uploads/no-pb-34.jpg
 youtube_code: U0A3_sACk_M
 ---
 
-
 {% include youtube.html %}
 
-Buying your first home can be an incredibly exciting time. However, it requires a huge commitment and a sizable investment. That’s why I want to share my three top tips to help first-time homebuyers protect themselves during this crucial period:
+Thank you for visiting our site, we are currently working on updating this page; if you would like to see this more videos from us, please visit our Youtube Channel:
+
+[Vallee Real Estate Group](https://www.youtube.com/user/valleerealestate)
+
+Video Summary:<br>Buying your first home can be an incredibly exciting time. However, it requires a huge commitment and a sizable investment. That’s why I want to share my three top tips to help first-time homebuyers protect themselves during this crucial period:
 
 **1. Know what you can afford**
 
@@ -34,10 +37,6 @@ But how do you find the right lender specifically for you? It's often best to ge
 
 There are many details that go into buying a home, and missing any of them can be a costly mistake. I always advise buyers to get a professional inspection done on their home, separate from the appraisal. An inspection will set you back about $300, but it can save you thousands of dollars down the line, and it can even prevent you from making a decision to buy a home that you would later regret.
 
-{% include pullquote.html %}
-
 A second example is understanding the fine print in the various contracts you will be signing. If there's anything that isn't clear to you, talk to your real estate agent and have it spelled out.
 
 The process of buying a home can be intimidating, and that's why professional real estate agents are there to help. These three quick tips are only the start of the things you need to watch out for when buying your first home.
-
-If you need more advice or you are ready to start looking for a home, get in touch with me. I love working with first-time homebuyers, and I can help you get your perfect new home with minimum hassle.
