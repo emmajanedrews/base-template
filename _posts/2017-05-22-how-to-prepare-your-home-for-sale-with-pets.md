@@ -13,10 +13,13 @@ youtube_alternate_image: /uploads/no-pb.jpg
 youtube_code: 8iWMvrkhGP4
 ---
 
-
 {% include youtube.html %}
 
-If you have a pet and you're looking to sell your home, then read on for some helpful advice.
+Thank you for visiting our site, we are currently working on updating this page; if you would like to see this more videos from us, please visit our Youtube Channel:
+
+[Vallee Real Estate Group](https://www.youtube.com/user/valleerealestate)
+
+Video Summary:<br>If you have a pet and you're looking to sell your home, then read on for some helpful advice.
 
 The good news is many homebuyers are looking for a pet-friendly home.
 
@@ -36,8 +39,6 @@ Floors, walls, doors, the yard — these are some typical areas that pets love t
 
 Repairing this damage is an investment that will pay for itself many times over in terms of a higher selling price.
 
-{% include pullquote.html %}
-
 **2. Get a professional to remove pet odors**
 
 Many pet owners are less sensitive to odors in their home than prospective buyers will be.
@@ -53,7 +54,3 @@ Some people are afraid of animals. Others are allergic. And regardless of the ti
 That's why I recommend taking your pet out during showings and also removing any pet objects such as toys, food bowls, or scratching posts.
 
 By following these three simple guidelines, **you will be able to sell your home for top dollar, whether the buyer is a pet owner or not.**
-
-If you’re curious what you could get for your home in the current market, check out my home value calculator on my site.
-
-And in case you have any questions or concerns about preparing your home for a sale, give me a call. I’m here to help.
