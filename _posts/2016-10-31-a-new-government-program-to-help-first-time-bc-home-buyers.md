@@ -19,7 +19,7 @@ Thank you for visiting our site, we are currently working on updating this page;
 
 [Vallee Real Estate Group](https://www.youtube.com/user/valleerealestate)
 
-Summary:<br>Last week Premier Christy Clark unveiled a program to help first-time home buyers get into the market. As we know, the past few months have been a hard time for anyone to get into the market, especially first-time buyers when it comes to saving enough for a down payment.
+Video Summary:<br>Last week Premier Christy Clark unveiled a program to help first-time home buyers get into the market. As we know, the past few months have been a hard time for anyone to get into the market, especially first-time buyers when it comes to saving enough for a down payment.
 
 **A new program called BC Homeowner Mortgage and Equity allows first-time home buyers to obtain a mortgage** of at least 80% on a home that costs no more than $750,000 on the condition that the combined household income is no greater than $150,000 and you've lived in Canada for at least five years (and one full year in BC).
 
