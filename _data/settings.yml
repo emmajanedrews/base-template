@@ -7,13 +7,13 @@ custom_links:
     url:
 
 client:
-  name: Ben Taylor
+  name: Matt Giggs
   license_number:
   about_markdown: |
     Our philosophy is based on the premise that if we focus on building our agents’ businesses, the agents in turn will build the company. We are undertaking an ambitious expansion of our offer across the UK, and to do this we need to recruit high calibre and equally ambitious estate agents across the country.
   market: London
-  brand: Keller Williams
-  brokerage:
+  brand: Taylor Giggs Property Group
+  brokerage: Keller Williams
   address: 16 Berkeley Street, Mayfair London, W1J 8DZ
   address_type: Keller Williams Prime Properties
   address2: Suite 11, The Tannery, Kirktstall Road Leeds, LS3 1HS
@@ -22,7 +22,7 @@ client:
   phone_type:
   phone2:
   phone2_type:
-  email: ben.taylor@kwuk.com
+  email: matt.giggs@kwuk.com
   url: http://kwuk.com
 
 CTAs:
