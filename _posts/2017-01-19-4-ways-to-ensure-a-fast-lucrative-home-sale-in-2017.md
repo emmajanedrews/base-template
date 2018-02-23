@@ -22,7 +22,7 @@ Thank you for visiting our site, we are currently working on updating this page;
 
 [Vallee Real Estate Group](https://www.youtube.com/user/valleerealestate)
 
-Summary:<br>If you want to sell your home fast in 2017, there are four ways to achieve this:
+Video Summary:<br>If you want to sell your home fast in 2017, there are four ways to achieve this:
 
 **1. Staging your home.** Take your home out of your house. This means depersonalizing your home by removing family photos or any items that are very personal to you. You also want to clean out your closets and rent storage space if necessary. Update your kitchen with some love and color, because first impressions are everything. If you have pets, make sure they are looked after, because not all buyers want to see pets when they look at a home.
 
