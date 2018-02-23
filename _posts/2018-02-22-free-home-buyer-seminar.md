@@ -20,11 +20,12 @@ Friends and clients!
 Have you, or someone you know (friend, child, neighbor) been thinking about purchasing your first home? GREAT NEWS – this Wednesday 2/28 we’re putting on a FREE seminar walking through the process, AND we’ll feed you while you’re there. No cost, no sales pitch, just incredible education from The Larkin Group’s outstanding Home Buying team and Lender partners.
 
 Learn:
-* Pitfalls to buying a home and how to avoid them 
-* The outrageous clear benefits of owning over renting (i.e., paying your OWN mortgage instead of your Landlord’s!)
-* Why many would-be Buyers will regret not taking advantage of this current market
-* See exactly what is for sale out there, what homes cost, and what your payment will look like!
-
+<ul>
+<li>Pitfalls to buying a home and how to avoid them</li>
+<li>The outrageous clear benefits of owning over renting (i.e., paying your OWN mortgage instead of your Landlord’s!)</li>
+<li>Why many would-be Buyers will regret not taking advantage of this current market</li>
+<li>See exactly what is for sale out there, what homes cost, and what your payment will look like!</li>
+</ul>
 Click on the RSVP links below and feel free to invite family or friends!
 
 **[View Flier Here](https://s3.amazonaws.com/vyralmarketing/Jeremy-Larkin/Home+Buyer+Seminar.jpg)**
