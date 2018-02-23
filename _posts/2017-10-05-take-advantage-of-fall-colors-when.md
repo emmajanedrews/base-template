@@ -1,7 +1,7 @@
 ---
 youtube_code: 04mazE8PX7o
 excerpt:
-enclosure:
+enclosure: https://s3.amazonaws.com/vyralmarketing/Andy+Richardson/Wilmington+Real+Estate+Agent-+Buying+in+the+Fall.mp4
 pullquote: FALL BUYERS ARE MORE MOTIVATED TO BUY YOUR HOUSE.
 enclosure_type: video/mp4
 enclosure_time:
