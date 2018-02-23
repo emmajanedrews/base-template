@@ -34,7 +34,7 @@ I myself let them know that their privacy and their schedule are paramount and t
 
 Now that you have the tenants on board, **make the home look presentable.** I usually schedule a cleaning the day of photography. Since the home will probably revert back to the way it looked before after the cleaning and photography are finished, I schedule another cleaning the day of a showing or open house.&nbsp;
 
-Finally, **you must price the home to sell.** We usually price the home above asking price. This usually gets the home sold in less than 10 days so we don’t have to keep showing the home week after week. It’s very difficult to schedule multiple open houses when you have tenants in place.&nbsp;
+Finally, **you must price the home to sell.** We usually list the home above asking price. This usually gets the home sold in less than 10 days so we don’t have to keep showing the home week after week. It’s very difficult to schedule multiple open houses when you have tenants in place.&nbsp;
 
 This process will bring you top dollar in the shortest amount of time. All the while, your tenants are paying your mortgage and HOA fees until the home closes. It’s not easy and it takes a lot of experience, but that’s where an agent such as myself comes in.&nbsp;
 
