@@ -19,13 +19,13 @@ youtube_code: tpkDuF1EjMM
 
 {% include youtube.html %}
 
-We are currently working on updating this page; if you would like to see this video, please visit out Youtube Channel: [Vallee Real Estate Group](https://www.youtube.com/user/valleerealestate)
+Thank you for visiting our site, we are currently working on updating this page; if you would like to see this more videos from us, please visit out Youtube Channel:&nbsp;
 
-Steady sales and diminished listings characterized Metro Vancouver’s housing market in 2017. Homebuyers purchased nearly 36,000 homes last year. **T****hat’s 10% above our 10-year sales average and ranks as the 3rd-highest selling year over the last decade.** Strong economic growth, low interest rates, declining unemployment, increasing wages, and a growing population all helped boost homebuyer demand last year.&nbsp;<br>&nbsp;<br>Detached homebuyers had more selection to choose from in 2017 and more time to make decisions. The detached home market still experienced price increases regionwide in 2017. That’s nothing compared to the double-digit price increase experienced by the condo and townhome markets.&nbsp;
+[Vallee Real Estate Group](https://www.youtube.com/user/valleerealestate)
+
+Summary:<br>Steady sales and diminished listings characterized Metro Vancouver’s housing market in 2017. Homebuyers purchased nearly 36,000 homes last year. **T****hat’s 10% above our 10-year sales average and ranks as the 3rd-highest selling year over the last decade.** Strong economic growth, low interest rates, declining unemployment, increasing wages, and a growing population all helped boost homebuyer demand last year.&nbsp;<br>&nbsp;<br>Detached homebuyers had more selection to choose from in 2017 and more time to make decisions. The detached home market still experienced price increases regionwide in 2017. That’s nothing compared to the double-digit price increase experienced by the condo and townhome markets.&nbsp;
 
 Looking forward to 2018, there will be three key factors we will watch for.
-
-{% include pullquote.html %}
 
 **1. New supply.** There is a record number of homes under construction in our region today. Some of these homes will be complete and available for sale over the next 12 months. This could improve the supply shortage we face in the condominium market today.
 
@@ -33,4 +33,4 @@ Looking forward to 2018, there will be three key factors we will watch for.
 
 **3. New mortgage rules.** These went into &nbsp;effect on January 1 and are making it harder for some buyers to get approve and some homeowners to renew their mortgages.&nbsp;
 
-**Only time will tell what long-term impact these changes will have on the market.** It’s important to work with your local Realtor to help you navigate these changes and to advise you through our home buying or selling journey.&nbsp;<br>&nbsp;<br>For more news and information, go to the news and statistics section of this website. In the meantime, don’t hesitate to reach out via phone or email with any questions. We look forward to hearing from you soon.<br>&nbsp;
+**Only time will tell what long-term impact these changes will have on the market.** It’s important to work with your local Realtor to help you navigate these changes and to advise you through our home buying or selling journey.&nbsp;<br>&nbsp;
