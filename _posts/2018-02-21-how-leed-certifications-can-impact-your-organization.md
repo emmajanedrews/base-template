@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How You Can Compete in the Green Building Industry
+title: How LEED certifications can impact your organization
 tags:
   - Building Products
 excerpt: >-
@@ -26,10 +26,10 @@ Today, I’m here to discuss LEED certification and how it can impact your organ
 
 In 2014, there were two million roles that were specific to green building projects. In 2018, it’s estimated that will increase by 1.1 million, **resulting in about 3.3 million roles in the green building industry. That equates to about $76 billion in wages.**
 
-Companies are looking at how they can stay competitive. One of the areas that we’re finding to be the most significant in terms of success is that **they’re offering to pay for LEED certification&nbsp;**opportunities with their current employees.
+Companies are looking at how they can stay competitive. One of the areas that we’re finding to be the most significant in terms of success is that **they’re offering to pay for LEED certification**opportunities with their current employees.
 
 {% include pullquote.html %}
 
-In turn, it’s showing the employee **that the company is loyal to their future education.&nbsp;**It’s also helping the company by having the opportunity to win these projects or be involved in them from a product perspective.
+In turn, it’s showing the employee **that the company is loyal to their future education.**It’s also helping the company by having the opportunity to win these projects or be involved in them from a product perspective.
 
 If you would like to know more, please feel free to reach out to me directly.
