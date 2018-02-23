@@ -16,10 +16,13 @@ youtube_alternate_image: /uploads/no-pb-16.jpg
 youtube_code: HCNr42lBtsc
 ---
 
-
 {% include youtube.html %}
 
-Home remodeling is hotter than ever.
+Thank you for visiting our site, we are currently working on updating this page; if you would like to see this more videos from us, please visit our Youtube Channel:
+
+[Vallee Real Estate Group](https://www.youtube.com/user/valleerealestate)
+
+Video Summary:<br>Home remodeling is hotter than ever.
 
 According to researchers at Harvard University, remodeling investment is up 6% over last year, and now makes up a $324 billion market.
 
@@ -34,8 +37,6 @@ According to a survey of remodelers and real estate professionals, there are fiv
 **4. Your siding.** Fading or worn-out siding can turn off potential buyers before they even step foot in your home. Replacing old siding will make it much easier to sell your home, and in addition, it should give you **an 80% return on an investment of around $10,000.**
 
 **5. Your windows.** New windows can mean greater energy efficiency, increased thermal and acoustic comfort, and a more modern look. Homebuyers are well aware of this, and they are willing to pay accordingly. That's why **a typical window replacement should yield at least a 70% return** on your investment.
-
-{% include pullquote.html %}
 
 Clearly, some of them will make more sense for your home than others. If you're considering selling your home, then just one of these projects could add tens of thousands of dollars to the price you'll be able to get.
 
