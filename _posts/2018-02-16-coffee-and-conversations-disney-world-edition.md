@@ -5,7 +5,7 @@ date: 2018-02-16 18:58:00
 tags:
   - Real Estate
 excerpt: >-
-  Today we’re joined by special guest Lauri Marks of Travel and Tours Unlimited
+  Today we’re joined by special guest Laurie Martz of Travel and Tours Unlimited
   to talk about how she helps families in our community plan their dream
   vacations.
 enclosure: >-
@@ -22,20 +22,20 @@ youtube_code: 2-WBiSnL1Fw
 
 {% include youtube.html %}
 
-For today’s installment of "Coffee and Conversations," we’re joined by special guest Lauri Marks of Travel and Tours Unlimited.&nbsp;
+For today’s installment of "Coffee and Conversations," we’re joined by special guest Laurie Marks of Travel and Tours Unlimited.&nbsp;
 
-Over the years, Lauri has helped me plan a lot of awesome Disney vacations over the years, so I felt compelled to bring her on and let her explain a little more about what she does.&nbsp;
+Over the years, Laurie has helped me plan a lot of awesome Disney vacations over the years, so I felt compelled to bring her on and let her explain a little more about what she does.&nbsp;
 
-Lauri has been in business for 20 years helping families make dreams come true. Having grown up with Disney herself, Lauri says it’s something that is very special to her. **She actually visited Walt Disney World the very first year it was open.&nbsp;**
+Laurie has been in business for 20 years helping families make dreams come true. Having grown up with Disney herself, Laurie says it’s something that is very special to her. **She actually visited Walt Disney World the very first year it was open.&nbsp;**
 
-“We’re all really busy in our day-to-day lives, and vacations are something everyone looks forward to. […] Making memories with the people you love is really important,” says Lauri.
+“We’re all really busy in our day-to-day lives, and vacations are something everyone looks forward to. […] Making memories with the people you love is really important,” says Laurie.
 
-Speaking of families, Lauri raised her own children right here in Carroll County. She says this community is very important to her, so she loves serving it with her business. And in the 20 years Lauri has spent helping local families plan their Disney vacations, she has learned quite a few things most people might not know about the parks.&nbsp;
+Speaking of families, Laurie raised her own children right here in Carroll County. She says this community is very important to her, so she loves serving it with her business. And in the 20 years Laurie has spent helping local families plan their Disney vacations, she has learned quite a few things most people might not know about the parks.&nbsp;
 
 {% include pullquote.html %}
 
-According to Lauri, a lot more goes into planning these trips than most people think. She does recommend that families use itineraries, but also says **there are many secrets to be discovered throughout the parks if you take the time to really explore.** The Keys to the Kingdom tour, for example, is one hidden activity Lauri highly recommends for park goers 16 and over.&nbsp;
+According to Laurie, a lot more goes into planning these trips than most people think. She does recommend that families use itineraries, but also says **there are many secrets to be discovered throughout the parks if you take the time to really explore.** The Keys to the Kingdom tour, for example, is one hidden activity Laurie highly recommends for park goers 16 and over.&nbsp;
 
-Of course, your trip doesn’t have to be to Disney World. Lauri helps people plan trips of all kinds. If you need help planning an upcoming trip, we highly recommend you work with Travel and Tours Unlimited. You can visit their location at 419 Malcolm Drive, visit their website ([**www.travelandtoursunlimited.com**](www.travelandtoursunlimited.com)), or give them a call at (410) 876-6123.&nbsp;
+Of course, your trip doesn’t have to be to Disney World. Laurie helps people plan trips of all kinds. If you need help planning an upcoming trip, we highly recommend you work with Travel and Tours Unlimited. You can visit their location at 419 Malcolm Drive, visit their website ([**www.travelandtoursunlimited.com**](www.travelandtoursunlimited.com)), or give them a call at (410) 876-6123.&nbsp;
 
 As always, if you have any real estate questions, feel free to give us a call or send us an email. We look forward to hearing from you soon.
