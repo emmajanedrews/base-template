@@ -15,7 +15,7 @@ youtube_code: hLWYJufiTJM
 
 {% include youtube.html %}
 
-Thank you for visiting our site, we are currently working on updating this page; if you would like to see this more videos from us, please visit out Youtube Channel:
+Thank you for visiting our site, we are currently working on updating this page; if you would like to see this more videos from us, please visit our Youtube Channel:
 
 [Vallee Real Estate Group](https://www.youtube.com/user/valleerealestate)
 
