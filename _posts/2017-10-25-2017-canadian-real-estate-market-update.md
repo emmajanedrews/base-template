@@ -17,14 +17,15 @@ youtube_alternate_image: /uploads/vallee-real-estate-ss-noplay.jpg
 youtube_code: Im3YAfq6Wpw
 ---
 
-
 {% include youtube.html %}
 
-In Greater Vancouver, homebuyer demand continues to differ based on the housing type. We’re here today to take a closer look at what happened in the metro Vancouver housing market in September.
+Thank you for visiting our site, we are currently working on updating this page; if you would like to see this more videos from us, please visit our Youtube Channel:
+
+[Vallee Real Estate Group](https://www.youtube.com/user/valleerealestate)
+
+Video Summary:<br>In Greater Vancouver, homebuyer demand continues to differ based on the housing type. We’re here today to take a closer look at what happened in the metro Vancouver housing market in September.
 
 Realtors registered over 2,800 sales on the MLS last month. That figure is up 25% from this time last year and up 13% when compared to the 10-year September sales average.
-
-{% include pullquote.html %}
 
 **Condo and townhome activity continues to outpace the detached home market across Vancouver**. In fact, detached homes made up just 30% of all sales in September while representing 62% of the total homes listed for sale on the MLS. In total, there are over 9,400 properties listed for sale in metro Vancouver.
 
