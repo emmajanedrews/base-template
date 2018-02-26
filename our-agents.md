@@ -11,12 +11,6 @@ permalink: /our-agents/
 <br />
 <hr />
 <br />
-<a href="https://www.teamlally.com/agents/angelique-murray/" target="_blank"><strong>Angelique Murray</strong></a><br />
-<br />
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/VH8KS7-Ax98" width="560"></iframe>
-<br />
-<hr />
-<br />
 <a href="https://www.teamlally.com/agents/michelle-helmsderfer/" target="_blank"><strong>Michelle Helmsderfer</strong></a><br />
 <br />
 <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/eF-kEQk1u08" width="560"></iframe>
