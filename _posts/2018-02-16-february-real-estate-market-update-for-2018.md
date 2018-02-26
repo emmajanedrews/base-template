@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   What’s going on in the market? I have updated details that concern both buyers
   and sellers.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Adam+Stary/Naperville+Real+Estate++The+Stary+Group+February+market+update.mp4
 pullquote: 'Right now, inventory is 20% lower than it was this time last year.'
 enclosure_type: video/mp4
 enclosure_time:
