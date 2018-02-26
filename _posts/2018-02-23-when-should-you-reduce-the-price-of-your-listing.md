@@ -1,7 +1,7 @@
 ---
 layout: post
-title: When Should You Reduce the Price on Your Listing?
-date: 2018-02-23 20:53:26
+title: When Should You Reduce the Price of Your Listing?
+date: 2018-02-23 20:53:00
 tags:
   - Home Seller Tips
 excerpt: >-
