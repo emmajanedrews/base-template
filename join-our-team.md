@@ -1,5 +1,5 @@
 ---
-layout: recruiting
+layout: join-our-team
 title: Join Our Team
 permalink: /join-our-team/
 ---
@@ -8,21 +8,21 @@ permalink: /join-our-team/
 <h1 class="join-us">Join One of the Fastest Growing Real Estate Teams in {{site.data.settings.client.market}}</h1>
 <h5 class="join-us-subtitle">How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</h5>
 <div class="recruiting-photo">
-<span class="client-image-container">
-<img src="/img/headshot.jpg" alt="{{site.data.settings.client.name}}" class="client-image"/>
+<span class="client-rectangle-image">
+<img src="/img/headshot2.jpg" alt="{{site.data.settings.client.name}}" class="client-image"/>
 </span>
-<figcaption class="caption">{{site.data.settings.client.name}}</figcaption>
+<figcaption class="caption"><strong>{{site.data.settings.client.name}}</strong><br>Over 3000 Homes Sold</figcaption>
 </div>
 
 <div class="markdown" markdown="1">
 
-Dear Frustrated Real Estate Agent,
+Dear Fellow or Future Real Estate Agent,
 
-We understand that you may be frustrated right now with your current brokerage or place of work. Perhaps you feel as if you aren’t receiving much, if any, support in building the wealth and success you deserve. **You might lack the training, coaching, and mentoring to get there.**
+We understand that you may be frustrated right now with your current brokerage or place of work. Perhaps you feel as if you aren’t receiving much, if any, support in building the wealth and success you deserve. **You might lack the training, coaching, and mentoring to get you there.**
 
 Many new agents are overwhelmed with all the information in real estate school. **There’s pressure to choose a broker immediately after getting your license and it’s hard to know whether you’ll be able to earn the income necessary.** Maybe you’re afraid of not earning enough income or converting as many leads as you need to.
 
-If any of this sounds like you, you aren’t alone. **In fact, 87% of real estate agents fail within their first two years in the business.** They either run out of money or don’t have the support or structure needed to be successful in this business long term. An agent needs many things in order to be successful, including training, support, coaching, and structure.
+If any of this sounds like you, you aren’t alone. **In fact, 87% of real estate agents fail within their first two years in the business.** They either run out of money or don’t have the support or structure needed to be successful in this business long term. An agent needs many things in order to be successful, including training, support, coaching with accountability, structure, and leads.
 
 **Going into real estate can feel either like the best or the worst career move you’ve ever made.** So, how can you be sure that your real estate career won’t end in disaster? You join a quality brokerage—one with the right resources, training, and culture to help you grow as an agent.
 
@@ -33,17 +33,19 @@ Whether you are a new agent, an experienced one, or are just thinking of enterin
 * Buyer leads (Zillow, Realtor.com, Pay/click, etc.)
 * Listing leads. (RedX & Vulcan)
 * MOJO - automated dialer system
-* Full-time Staff - Listing Team, Closing Team, Leads Coordinator, Legal Advisor, ISAs
+* Full-time Staff - Listing Team, Closing Team, Leads Coordinator, Legal Advisor, ISAs (Inside Sales Associates)
+* Premiere Access to the major search engine sites
 * Assigned Accountability Coach and Accountability Teams
 * Standard ads for listings and open houses
-* Yard signs and lockboxes (delivered/picked up by our courier)
+* Professional 6ft. Post For Sale signs and lockboxes (delivered/picked up by our courier)
 * Just listed/sold e-cards and/or postcards
-* Up to $200 worth of annual mailings
 * Up to 250 introductory announcement mailings to sphere
-* Free desk space, use of office computer, and landline phone
+* Up to $200 worth of annual mailings
+* Free desk space - private, semi-private, or group area based on production.
+* Use of office computer, and landline phone
 * Free copies while in any of our offices
-* Free training through BHHS on systems and processes as well as mentoring/shadowing with top agents on our team
-* Discounts on Mike Ferry training seminars
+* Free company training through BHHS on systems and processes as well as free team training, including mentoring/shadowing with top agents on our team
+* Plus, Discounts on the Mike Ferry Training Seminars - The #1 Real Estate Coaching and Training System in teh world
 * 1,000 business cards per year
 
 By joining BHHS and The Michael Kaim Team, you’ll be on the fast track to success and 40+ deals per year. **Here are your alternatives:**

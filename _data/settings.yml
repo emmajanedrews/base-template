@@ -86,6 +86,7 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
+  broker_logo_path: /img/bhhs.png
   logo_width_number: 60
   # hero_text: Real Estate Video Blog
   hero_background_hex: '#094264'

@@ -2670,7 +2670,7 @@ table tr, table td {
 
 .recruiting-page {
   Font-size: 18px;
-  width: 50%;
+  width: 75%;
   margin: 0 auto;
   color: #000; }
 
@@ -2699,6 +2699,12 @@ table tr, table td {
   width: 75%;
   display: block;
   margin: 0 auto 2rem auto; }
+
+.client-rectangle-image {
+  width: 200px;
+  overflow: hidden;
+  display: inline-block;
+  margin: auto; }
 
 form label {
   display: block; }
