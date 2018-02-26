@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Free Home Buyer Seminar
-date: 2018-02-22 22:47:02
+date: 2018-02-22 22:47:00
 tags:
 excerpt: Free first time home buyers seminar!
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jeremy-Larkin/St.+George%2C+Utah+First-time+Home+Buyer+seminar.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
