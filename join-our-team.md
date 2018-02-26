@@ -45,7 +45,7 @@ Whether you are a new agent, an experienced one, or are just thinking of enterin
 * Use of office computer, and landline phone
 * Free copies while in any of our offices
 * Free company training through BHHS on systems and processes as well as free team training, including mentoring/shadowing with top agents on our team
-* Plus, Discounts on the Mike Ferry Training Seminars - The #1 Real Estate Coaching and Training System in teh world
+* Plus, Discounts on the Mike Ferry Training Seminars - The #1 Real Estate Coaching and Training System in the world
 * 1,000 business cards per year
 
 By joining BHHS and The Michael Kaim Team, you’ll be on the fast track to success and 40+ deals per year. **Here are your alternatives:**
@@ -57,13 +57,6 @@ By joining BHHS and The Michael Kaim Team, you’ll be on the fast track to succ
 You could also always try staying with your current brokerage and applying our concepts from scratch. But, why risk trying to replicate our success when you could simply join us?
 
 **But, don’t just take my word for it.** Consider the story of Jacob, who was waiting tables and making $15,000 annually before joining us. Jacob sold nearly $7 million worth of real estate in his second year with us, and he has made well over $100,000 by following the same systems and using the same tools that we’re offering to you.
-
-If you join us, we can offer the following splits:
-
-* 40% of the Total GCI for a provided buyer lead sale.
-* 45% of the Total GCI for any self-generated buyer/seller sales.
-* 5% increases at two of the following three milestones: 15 Units, $2.5 million in Volume, $75,000 in GCI.
-* 60% of the Total GCI for self-generated buyer/seller leads for any agent who sells over $4 million the prior calendar year.
 
 You also may be interested in having a look at some of our most frequently asked questions like, “Why are your commission splits different from your competitors?” or “Will you provide me with leads?”
 
