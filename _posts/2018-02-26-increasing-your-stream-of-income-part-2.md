@@ -27,7 +27,7 @@ The best thing you can do when speaking to clients is to educate them on these k
 
 {% include pullquote.html %}
 
-**Being able to engage with clients this way will likely lead to referral business, which will contribute to your overall income.**When you provide quality information to the people you work with, you become more than just an agent—you become a fiduciary to your client.
+**Being able to engage with clients this way will likely lead to referral business, which will contribute to your overall income.&nbsp;**When you provide quality information to the people you work with, you become more than just an agent—you become a fiduciary to your client.
 
 After you help a client make one of the biggest financial decisions of their lives, why wouldn’t you provide further insight on how to make the most of their resources after the transaction? You can continue to be of value to your clients even after they close.
 
