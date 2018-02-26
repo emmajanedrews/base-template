@@ -4,7 +4,6 @@ title: Join Our Team
 permalink: /join-our-team/
 ---
 
-
 ## Make More, Keep More, Get More!
 
 Most likely, you chose to get into real estate or are thinking about a career change into real estate because you are an independent person wanting to enjoy the benefits of running your own business. Real estate allows you to be your own boss, set your own schedule, and generate levels of income reflected by your efforts and not a corporate hierarchy. These benefits—coupled with a relatively low barrier of entry and financial investment without the headache of employees—make real estate a very attractive career path.
@@ -91,7 +90,7 @@ Office & Print Materials:
 * An $18,000 cap and then a 100% commission with a $500-per-transaction fee
 * A revenue sharing plan where you’ll receive a percentage of revenue from recruiting up to seven levels deep.
 
-Your only required expenses are a $20 per month errors and omission insurance fee (which starts when you have first contract), MLS dues, a supra key fee and the requirements for a NC Licensee. Internet leads from our leads program pay a one-time 25% referral. Lake Realty-generated sales are excluded from cap total (i.e. internet leads, walk-ins, and company phone leads).
+Your only required expenses are a $20 per month errors and omission insurance fee (which starts when you have first contract), MLS dues, a supra key fee and the requirements for a NC Licensee. Internet leads from our leads program pay a one-time 25% referral. Lake Realty-generated sales are excluded from cap total and lead program (i.e. internet leads, walk-ins, and company phone leads).
 
 **How do we get results?**
 
@@ -140,4 +139,13 @@ Frank & Chip Free
 #### Request a phone call to discuss strategy or answer your questions.
 {: .recruiting}
 
-<form method="post" class="home-value cta-forms" action="http://formspree.io/Chip@LakeRealty.com" onsubmit="return setReturn()"><fieldset><label for="firstname">First Name*</label> <input type="text" required="" name="firstname" /> <label for="lastname">Last Name*</label> <input type="text" required="" name="lastname" /> <label for="email">Email*</label> <input type="text" name="name" /> <label for="phone">Phone Number </label> <input type="tel" name="phone" /> <!--11--> <label for="city">City </label> <input type="text" name="city" /> <label for="state">State </label> <input type="text" name="state" /> <label for="employer">Current Employer </label> <input type="text" name="employer" /> <label for="message">Why are you interested in this? </label><textarea name="employer"></textarea> <!-- submit! --> <input class="submit light-light" type="submit" value="Apply Now" name="submitrecruitingForm" /> <span class="asterisk">*</span>required</fieldset><!-- Cloud cannon settings field --><div class="hidden"><a href="__notset__"><input type="hidden" value="Recruiting Contact Request Message From Your -- CLIENT BRAND --" name="_subject" /> <input type="text" name="_gotcha" /></a></div><div class="hidden">&nbsp;</div><div class="hidden">&nbsp;</div><div class="hidden">&nbsp;</div><div class="hidden">&nbsp;</div><input type="hidden" required="" value="67637e90908e357ae91deb2fbbc28e640534f970c480f447bb3f5791b9408d" name="_encrypted_details" />&nbsp;</form>
+<form method="post" class="home-value cta-forms" action="http://formspree.io/Chip@LakeRealty.com" onsubmit="return setReturn()">
+					<fieldset><label for="firstname">First Name*</label> <input type="text" required="" name="firstname" /> <label for="lastname">Last Name*</label> <input type="text" required="" name="lastname" /> <label for="email">Email*</label> <input type="text" name="name" /> <label for="phone">Phone Number </label> <input type="tel" name="phone" />
+						<!--base32-64rg-base32--><label for="city">City </label> <input type="text" name="city" /> <label for="state">State </label> <input type="text" name="state" /> <label for="employer">Current Employer </label> <input type="text" name="employer" /> <label for="message">Why are you interested in this? </label><textarea name="employer"></textarea>
+						<!--base32-41tqarkdd5u2280-base32--><input class="submit light-light" type="submit" value="Apply Now" name="submitrecruitingForm" /> <span class="asterisk">*</span>required</fieldset>
+					<!--base32-411prvvncgg66rbedtqpw83kcnu78ubecxtj0tk9cnp6880-base32-->
+					<div class="hidden"><a href="__notset__"><input type="hidden" value="Recruiting Contact Request Message From Your -- CLIENT BRAND --" name="_subject" /> <input type="text" name="_gotcha" /></a></div>
+					<div class="hidden">&nbsp;</div>
+					<div class="hidden">&nbsp;</div>
+					<div class="hidden">&nbsp;</div>
+					<div class="hidden">&nbsp;</div><input type="hidden" required="" value="67637e90908e357ae91deb2fbbc28e640534f970c480f447bb3f5791b9408d" name="_encrypted_details" />&nbsp;</form>
