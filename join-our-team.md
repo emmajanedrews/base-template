@@ -1,7 +1,7 @@
 ---
 layout: recruiting
 title: Join Our Team
-permalink: /join-our-team/
+permalink: /join/
 ---
 
 <div class="recruiting-page">
