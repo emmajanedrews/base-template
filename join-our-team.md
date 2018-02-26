@@ -90,7 +90,7 @@ Office & Print Materials:
 * An $18,000 cap and then a 100% commission with a $500-per-transaction fee
 * A revenue sharing plan where you’ll receive a percentage of revenue from recruiting up to seven levels deep.
 
-Your only required expenses are a $20 per month errors and omission insurance fee (which starts when you have first contract), MLS dues, a supra key fee and the requirements for a NC Licensee. Internet leads from our leads program pay a one-time 25% referral. Lake Realty-generated sales are excluded from cap total and lead program (i.e. internet leads, walk-ins, and company phone leads).
+Your only required expenses are a $20 per month errors and omission insurance fee (which starts when you have first contract), MLS dues, a supra key fee and the requirements for a NC Licensee. Internet leads from our leads program pay a one-time 25% referral. Lake Realty-generated sales are excluded from cap total and cap program (i.e. internet leads, walk-ins, and company phone leads).
 
 **How do we get results?**
 
