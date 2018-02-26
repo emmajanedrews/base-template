@@ -28,7 +28,7 @@ This week’s question comes from first-time home sellers Jim and Ashley, who as
 
 **3. Not addressing the elephant in the room.** What I mean by that is if the carpet needs to be replaced or the wallpaper needs to come down, answer those objections up front. Make certain that the buyer prospect and their agent know that you are aware of the objection and what it would cost to repair or replace it. That will bring the buyer’s reality and the actual reality to a negotiable place, providing a clear path for the buyer to think past the objection.
 
-Until we can get the buyer placing furniture in your house, we haven't’ done anything to motivate an offer. More than 80% of our yearly business comes from repeat and past clients. We care enough to understand.
+Until we can get the buyer placing furniture in your house, we haven't done anything to motivate an offer. More than 80% of our yearly business comes from repeat and past clients. We care enough to understand.
 
 If you have any questions or need any help, feel free to reach out to me.
 
