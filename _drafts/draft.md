@@ -10,7 +10,8 @@ excerpt: >-
   team. In his first year, he sold 15 homes, and he is on track to sell between
   40 and 50 homes this year. To hear more from Jeff about his experience, watch
   this short video.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/2018/SC+Real+Estate+Agent-+Youre+Invited+to+Join+Jeff+Cook+Real+Estate.mp4
 pullquote: Jeff Cook Real Estate has significantly changed my life.
 enclosure_type: video/mp4
 enclosure_time:
