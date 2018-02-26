@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 10 Terms That All Homebuyers Should Know
-date: 2018-02-26 18:02:08
+date: 2018-02-26 18:02:00
 tags:
 excerpt: >-
   There are several terms buyers need to know before going into a home purchase.
@@ -9,7 +9,7 @@ excerpt: >-
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Victoria+Sandoval/Victoria+Sandoval+-+San+Diego+Realtor-+10+Terms+That+All+Homebuyers+Should+Know.mp4
 pullquote: >-
-  Factors such as a home’s condition, style, lot-size, and others will all
+  Factors such as a home’s condition, style, lot size, and others will all
   impact its value.
 enclosure_type: video/mp4
 enclosure_time:
@@ -28,13 +28,13 @@ Before you make your first home purchase, there are 10 important terms you need 
 
 **3. Pre-qualification.**This is the process where a lender verifies your ability to obtain financing for a home. To become pre-qualified, you will provide the lender with a number of documents.
 
-**4. Conventional loan.**This type of loan typically carries a 30-year mortgage. To qualify for a conventional loan, you need a minimum credit score of 650. Also, the average down payment for a conventional loan is 5%.
+**4. Conventional loan.** This type of loan typically carries a 30-year mortgage. To qualify for a conventional loan, you need a minimum credit score of 650. Also, the average down payment for a conventional loan is 5%.
 
 **5. FHA loan**. This loan product is great for anyone who has had credit problems. It allows you to put just 3.5% down, but you will have to carry mortgage insurance on the loan. However, you can take this insurance off at a later time.
 
 {% include pullquote.html %}
 
-**6. Appraisal.** This is the process wherein a 3rd-party company examines your home’s value compared to other similar properties in the vicinity. Factors such as a home’s condition, style, lot-size, and more are all taken into consideration.
+**6. Appraisal.** This is the process wherein a third-party company examines your home’s value compared to other similar properties in the vicinity. Factors such as a home’s condition, style, lot size, and more are all taken into consideration.
 
 **7. Mortgage insurance.** This is insurance designed to protect the bank. To avoid paying it, you will need to put at least 20% down. There are ways around this, though, and plenty of programs allow you to forgo this cost.
 
