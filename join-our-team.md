@@ -38,7 +38,7 @@ By joining us, you’ll walk into an environment with leads, systems, training, 
 
 Of course, you have other options. **You can either continue to go it alone with sporadic income, high expenses, and a heavy workload, try finding another team that’s ranked in the top five in the Portland-area MLS and did $78 million worth of business in 2017, or give up and go back to working 9 to 5.**
 
-**The success of our own team members is another hallmark of the way we do business.** We have a buyer’s agent who’s been with our team for only three years who’s easily making $10,000 a month just by following our system. We also have another agent who started just last December and already has two closings in escrow.
+**The success of our own team members is another hallmark of the way we do business.** We have a buyer’s agent who’s been with our team for only three years who’s easily making $10,000 a month just by following our system. We also have another agent who started in December 2017 and by January 31st 2018 she had one closing and two deals in escrow.
 
 If you join our team as one of our buyer’s agents, you’ll have plenty of buyer leads, a support staff, marketing, and myself helping you to reach a new level of success. **My buyer’s agents contact leads, cultivate relationships, perform buyer consultations, get buyer agreements signed, and show houses.** The minute they find a house for a buyer, they can move on to the next buyer.
 
