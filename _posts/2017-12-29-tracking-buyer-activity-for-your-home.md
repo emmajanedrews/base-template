@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Tracking Buyer Activity for Your Home
-date: 2017-12-29 13:21:50
+date: 2017-12-29 13:21:00
 tags:
   - Home Seller Tips
 excerpt: >-
   How do you know if your home is getting any activity from prospective buyers?
   There are a few different ways your agent can track activity.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Becky+Ivins/Videos/Feb+18/Oklahoma+City+Metro+Real+Estate+Agent-+Tracking+Market+Activity+on+Your+Home.mp4
 pullquote: We will tell you what buyers say about your property after each showing.
 enclosure_type: video/mp4
 enclosure_time:
@@ -15,7 +16,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/becky-ivins-screenshot-activity-and-your-home-youtube.jpg
 youtube_code: 'https://youtu.be/tdF-_Z0jrZ0'
 ---
-
 
 {% include youtube.html %}
 
