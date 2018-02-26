@@ -1,17 +1,34 @@
 ---
 layout: post
 title: A Few Important Points on the Results of Fidelity's 8th Annual Employer Survey
-date:
+date: 2018-02-26 12:00:00
 tags:
-excerpt:
+excerpt: >-
+  The results of Fidelity’s eighth annual employer survey are in, and I’ll be
+  going over a few points with you today.
 enclosure:
-pullquote:
+pullquote: >-
+  This year’s survey revealed that healthcare concerns are becoming increasingly
+  common.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: LuTB2wjk7uY
 ---
+
 {% include youtube.html %}
 
+Today, I’d like to share some information regarding Fidelity’s eighth annual employer survey of retirement plan sponsors.&nbsp;
+
+For eight years running, Fidelity has hired an independent third-party contractor to contact employers like you to get feedback on your retirement plan and how your employees are using it.&nbsp;
+
+This year, Fidelity’s contractor was able to reach out to about 1,100 employers. **Across those employers, plans ranged from about 25% being 0 to $25 million, 50% being in the range of $25 million to $50 million, and about 25% in the range of $250 million and above.&nbsp;**<br>&nbsp;
+
 {% include pullquote.html %}
+
+About a third of the employers who were contacted were CEOs or owners, while a little less than another third of those contacted were CFO or finance professionals. The remaining third were HR professionals. There were also a few employers of miscellaneous job descriptions who fell outside these categories but were still responsible for plan oversight.&nbsp;
+
+It is always interesting to see what comes of this survey. One of the things that stands out to me about this year’s survey is that healthcare concerns are becoming increasingly common.&nbsp;
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
