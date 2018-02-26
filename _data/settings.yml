@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: Anchorage Real Estate Video Blog with Dar Walden
 description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
@@ -19,15 +19,15 @@ client:
 
     Dar's exuberant personality, work ethic, attention to detail, drive for perfection, consistent contact, negotiating power, and overall service leave you smiling and completely satisfied at closing!
   market: Anchorage
-  brand: Keller Williams Realty
+  brand: Keller Williams Realty | Alaska Group
   brokerage:
   address:
   phone: 907-865-6404
   phone_type: Phone
   phone2: 907-240-2804
   phone2_type: Mobile
-  email: Dar@DarWalden.Com
-  url: http://www.DarWalden.com
+  email: info@DarWalden.Com
+  url: http://AlaskaTopAgent.com
 
 CTAs:
   first_CTA_text: Home Valuation
