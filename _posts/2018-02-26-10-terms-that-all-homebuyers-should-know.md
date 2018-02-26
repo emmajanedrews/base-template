@@ -26,7 +26,7 @@ Before you make your first home purchase, there are 10 important terms you need 
 
 **2. Adjustable-rate mortgage (ARM).** This is the opposite of a fixed-rate mortgage. With an ARM, you will have a shorter term of between five or 10 years. The details of this style of mortgage can be complicated, so I recommend you speak more in-depth on the subject with your lender.
 
-**3. Pre-qualification.**This is the process where a lender verifies your ability to obtain financing for a home. To become pre-qualified, you will provide the lender with a number of documents.
+**3. Pre-qualification.** This is the process where a lender verifies your ability to obtain financing for a home. To become pre-qualified, you will provide the lender with a number of documents.
 
 **4. Conventional loan.** This type of loan typically carries a 30-year mortgage. To qualify for a conventional loan, you need a minimum credit score of 650. Also, the average down payment for a conventional loan is 5%.
 
@@ -38,7 +38,7 @@ Before you make your first home purchase, there are 10 important terms you need 
 
 **7. Mortgage insurance.** This is insurance designed to protect the bank. To avoid paying it, you will need to put at least 20% down. There are ways around this, though, and plenty of programs allow you to forgo this cost.
 
-**8. Closing costs.**These expenses, which will include things like the cost of your home inspection, will likely amount to between 2% and 5% of the purchase price.
+**8. Closing costs.** These expenses, which will include things like the cost of your home inspection, will likely amount to between 2% and 5% of the purchase price.
 
 **9. Buying down your interest rate.** If you have a high interest rate due to your credit score, you can pay cash to literally buy down your rate.
 
