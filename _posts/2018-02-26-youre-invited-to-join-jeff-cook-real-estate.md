@@ -30,7 +30,7 @@ We help our agents succeed by providing the marketing, the leads, the systems, t
 
 If you are interested in learning how to get a six-figure income and get paid for the amount and effort you put in, reach out to me to learn more about this opportunity.
 
-Don’t just take it from me—here’s the story of one of our agents: &nbsp;
+Don’t just take it from me—here’s the story of one of our agents:
 
 “I’m Stan Taylor, and I started working for Jeff Cook Real Estate in January of 2016. Before I started with Jeff Cook Real Estate, I worked for a small business downtown that helped all the attorneys here in Charleston with document management. I did that for about 15 years.<br><br>“Jeff Cook Real Estate has changed my life in significant ways, from income to flexibility at work to freeing up time to be with family and friends. I’ve also learned quite a bit about leadership and how to grow a business. It’s been amazing and I’ve loved every minute of it.
 
