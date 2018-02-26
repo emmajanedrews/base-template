@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: Chattanooga Real Estate Video Blog with Dustin Sherlin
 description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
@@ -11,41 +11,41 @@ emma:
   form:
 
 client:
-  name:
+  name: Dustin Sherlin
   title:
   license_number:
   about_markdown: |
-
-  market:
-  brand:
+    Selling your home shouldn't be stressful, and you should get the highest level of services possible from your listing agent. Here at The Dustin Sherlin Team, we stand by our Maximum Value, No Hassle Listing System because it’s simply the best option for home sellers in the Chattanooga-Cleveland Area. It’s a proven process to successfully market your home, bring in the most qualified buyers, get the highest price possible, and close the deal with the least hassles. Contact The Dustin Sherlin Team Today to find out more about our proven process and results and why we are the top realtor in Chattanooga-Cleveland Area.
+  market: Chattanooga
+  brand: Sherlin Realty
   brokerage:
-  address:
-  phone:
+  address: 3555 Keith Street, Suite 110<br>Cleveland, TN 37312
+  phone: 423-896-6000
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Sales@SherlinTeam.com
+  url: http://SherlinTeam.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: https://sherlinrealestate.realgeeks.com/cma/property-valuation/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: https://sherlinrealestate.realgeeks.com/search/advanced_search/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: https://sherlinrealestate.realgeeks.com/cma/property-valuation/
 
 second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/005.jpg
+  - CTA_image_path2: /img/cta-images/007.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: https://sherlinrealestate.realgeeks.com/search/advanced_search/
 
 lender:
   show_section: false
@@ -61,11 +61,11 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
+  facebook_url: https://www.facebook.com/SherlinRealty/
   linkedin_url:
   gplus_url:
-  youtube_url:
-  twitter_url:
+  youtube_url: https://www.youtube.com/channel/UC9kwpKm-fBKeuC2wC-De-7w
+  twitter_url: https://twitter.com/sherlinrealty/
   instagram_url:
   pinterest_url:
   zillow_url:
@@ -91,8 +91,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#96c93d'
+  theme_color: '#1e376c'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -104,7 +104,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: black
 
 buttons:
   button_radius_number: 0
