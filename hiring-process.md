@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: custom
 title: Hiring Process
 permalink: /hiring-process/
 ---
@@ -72,7 +72,4 @@ permalink: /hiring-process/
 <p>You are paid $2,500 per month during this training period. Once out of the training period, you will be 100% commission. </p>
 
 <p>Our start dates are the 1st and the 15th of the month; if this day falls on a weekend or a company Holiday, it will move to the following day. </p>
-
-<h1>DFT First 100 Days | ISA & Jr. Agent</h1>
-<hr>
 </div>
