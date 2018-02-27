@@ -39,7 +39,7 @@ Today, we’re going to over the standard closing cost that a seller can expect 
 
 **4. Miscellaneous costs.**These may pertain to acreage properties if they’re using a private well or septic system, which may require inspections. Home warranty fees are also typically paid for by the seller. If you live in an HOA, the seller will have to order what’s called a resale disclosure package, which is sent to the buyer. Additionally, a buyer may sometimes ask the seller to contribute to the buyer’s closing costs; this is a negotiable item which we counsel our sellers through, depending on the type of buyer and the type of loan they’re taking out.
 
-**5. Fee proration.**Association fees and property taxes are prorated.
+**5. Fee proration.&nbsp;**Association fees and property taxes are prorated.
 
 Above and beyond the commission rate that is negotiated, you can expect to pay about a half of a percent, with three quarters of of percent of the sales price in standard, fixed closing costs.
 
