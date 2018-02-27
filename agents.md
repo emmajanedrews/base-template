@@ -4,11 +4,11 @@ title: Our Agents
 permalink: /agents/
 ---
 <h3>Jeff Wernsing</h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ridaw6eOILY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YvELeWklEYk" frameborder="0" allowfullscreen></iframe>
 
 <hr>
 <h3>Alexis Tindle</h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JXedYXCLfNw" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1LLmeW2l9XQ" frameborder="0" allowfullscreen></iframe>
 
 <hr>
 <h3>Colin Murphy</h3>
