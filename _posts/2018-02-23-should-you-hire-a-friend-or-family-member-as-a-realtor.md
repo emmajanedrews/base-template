@@ -22,7 +22,7 @@ youtube_code: 'https://youtu.be/J2-ydkQDL_k'
 
 If you’re considering hiring a friend or family member to help you buy or sell a home, there are a few things you should know first. Here are five points to consider:
 
-**1. They may not know the area well.** If you’re interested in purchasing a property here in Hayes County, Aunt Josie in Pflugerville might not have any idea of what’s going on in this specific housing market. The school districts play a big part in property values and the numbers are constantly changing.
+**1. They may not know the area well.** If you’re interested in purchasing a property here in Hays County, Aunt Josie in Pflugerville might not have any idea of what’s going on in this specific housing market. The school districts play a big part in property values and the numbers are constantly changing.
 
 **2. Can you handle disagreements on key points?&nbsp;**A friend or family member won’t want to hurt your feelings and might let you decide on the commission or sale price. That might not be the best move. An expert will be blunt and tell you what you need to hear, rather than what you want to hear. By sugarcoating things and not giving you the truth, a family member or friend is doing more harm than good to your real estate transaction.
 
