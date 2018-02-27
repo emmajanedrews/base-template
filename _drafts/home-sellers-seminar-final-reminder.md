@@ -2,7 +2,7 @@
 layout: post
 title: Home Seller's Seminar Final Reminder
 date:
-tags:
+tags:Home Seller's Seminar
 excerpt: SAVE THE DATE TO ATTEND THE 2018 SELLERS SEMINAR!
 enclosure:
 pullquote:
@@ -15,11 +15,11 @@ youtube_code: 5NLXO-2kOHs
 
 {% include youtube.html %}
 
-SAVE THE DATE TO ATTEND THE 2018 SELLERS SEMINAR!
+<center>SAVE THE DATE TO ATTEND THE 2018 SELLERS SEMINAR!</center>
 
-**Want to attend the Home Seller's seminar? <u>Register Here</u>**
+<center>**Want to attend the Home Seller's seminar? <u>Register Here</u>**</center>
 
-Want to sell your home? Get a FREE home value report<br>Want to buy a home? Search all homes for sale
+<center>Want to sell your home? Get a FREE home value report<br>Want to buy a home? Search all homes for sale</center>
 
 On March 3, our team of local real estate experts will reveal the **essential home selling secrets** you'll need to get a jumpstart on preparing your home for the 2018 market.&nbsp;
 
