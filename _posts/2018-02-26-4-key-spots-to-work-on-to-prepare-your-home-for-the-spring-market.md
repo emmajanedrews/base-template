@@ -29,7 +29,7 @@ When preparing your home for the market, there are four areas you need to really
 
 {% include pullquote.html %}
 
-You also want to look closely at the cabinets in your kitchen. Sometimes we will list a beautiful home, but buyers will still say that it feel dated. What they’re really saying here is they’re not finding the look they’re after. We have painters on staff who can transform your kitchen’s look into something that will appeal to more buyers.&nbsp;
+You also want to look closely at the cabinets in your kitchen. Sometimes we will list a beautiful home, but buyers will still say that it feels dated. What they’re really saying here is they’re not finding the look they’re after. We have painters on staff who can transform your kitchen’s look into something that will appeal to more buyers.&nbsp;
 
 **3. The paint:** It’s a good idea to pick colors that are drawing buyer attention these days, which are the greys and light neutral tones.&nbsp;
 
