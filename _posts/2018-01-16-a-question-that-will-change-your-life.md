@@ -7,13 +7,13 @@ excerpt: >-
   My recent struggle with an autoimmune disease really changed my perspective on
   life. What would you do with your life if you knew you couldn’t fail?
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Dave+Knight/A+Story+of+Hardship+That+Changed+My+Life+for+the+Better.mp4
+  https://s3.amazonaws.com/vyralmarketing/Dave+Knight/How+I+Gained+a+New+Perspective+on+Life.mp4
 pullquote: What would you do differently in your life if you knew you couldn’t fail?
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/no-10.jpg
-youtube_code: hLjS9FmTOxw
+youtube_code: bUa4arfHhJI
 ---
 
 {% include youtube.html %}
