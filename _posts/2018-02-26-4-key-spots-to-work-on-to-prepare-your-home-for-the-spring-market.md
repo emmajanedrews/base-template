@@ -34,3 +34,5 @@ You also want to look closely at the cabinets in your kitchen. Sometimes we will
 **3. The paint:** It’s a good idea to pick colors that are drawing buyer attention these days, which are the greys and light neutral tones.&nbsp;
 
 **4. The flooring:** You definitely want to make sure your flooring looks amazing. If you have hardwood floors, they should look polished. Nobody wants to see scratched-up hardwood floor. If you have carpet, it’s a good idea (and a cheap one) to replace it to make everything look fresher.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
