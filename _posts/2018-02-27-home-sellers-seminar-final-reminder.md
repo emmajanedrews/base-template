@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Home Seller's Seminar Final Reminder
-date:
+date: 2018-02-27 17:35:12
 tags:
 excerpt: SAVE THE DATE TO ATTEND THE 2018 SELLERS SEMINAR!
 enclosure:
@@ -27,7 +27,7 @@ youtube_code: 5NLXO-2kOHs
 
 <center>&nbsp;</center>
 
-On March 3, our team of local real estate experts will reveal the **essential home selling secrets** you'll need to get a jumpstart on preparing your home for the 2018 market.&nbsp;
+On March 3, our team of local real estate experts will reveal the **essential home selling secrets** you'll need to get a jumpstart on preparing your home for the 2018 market.
 
 Dar Walden only holds the <u><strong>SELLER SEMINAR ONCE A YEAR!!</strong></u>
 
