@@ -28,7 +28,9 @@ In 2017, the interest rates started around 3.5%. By December of that year, rates
 
 Now as we enter the first quarter of 2018, rates are still hovering around 4.1%. **It’s likely that rates will stay static for another month or so, after which they may rise to 4.4% or 4.5%.** Then, rates are expected to continue rising throughout the year. We won’t see a huge jump, but they will certainly rise.&nbsp;
 
-![](/uploads/versions/dee---x----350-249x---.png)
+To learn more [click here](http://www.simplifyingthemarket.com/en/2018/02/07/where-are-mortgage-interest-rates-headed-in-2018/?a=323701-ea9cfdf9d119bc9a1cd75b3509ec10e4),
+
+[![](/uploads/versions/dee---x----350-249x---.png)](http://www.simplifyingthemarket.com/en/2018/02/07/where-are-mortgage-interest-rates-headed-in-2018/?a=323701-ea9cfdf9d119bc9a1cd75b3509ec10e4)
 
 In fact, rates may be at 4.9% by the end of this year. That would mean a significant change in affordability. According to CoreLogic, the value of our Central Florida homes has already increased by 10% recently. In the US as a whole, market values have increased by approximately 7%.&nbsp;
 
