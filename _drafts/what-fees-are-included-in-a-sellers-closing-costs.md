@@ -29,9 +29,9 @@ youtube_code: BL585CciD0I
 
 Today, we’re going to over the standard closing cost that a seller can expect to pay when selling their home. We’re going to going through a quick, estimate seller’s net sheet that we present to all of our sellers and for anybody who requests a market analysis from us, breaking it down into different categories.
 
-**1. Governmental costs.** There will be a conservation fee, which our title companies like to call “feeding the ducks.” There are also recording fees, which are dependent on how many mortgages you have and anything that needs to be recorded. Additionally, there is the state deed tax, which is $3.30 per $1,000 of sales price.<br>&nbsp;
+**1. Governmental costs.** There will be a conservation fee, which our title companies like to call “feeding the ducks.” There are also recording fees, which are dependent on how many mortgages you have and anything that needs to be recorded. Additionally, there is the state deed tax, which is $3.30 per $1,000 of sales price.
 
-**2. Title costs.** These are fixed fees that the title company will charge you to close the file, run the payoffs, do searches, etc. Included in this fee might be a courier fee, if your lender requires a payment to be overnighted.<br>&nbsp;
+**2. Title costs.** These are fixed fees that the title company will charge you to close the file, run the payoffs, do searches, etc. Included in this fee might be a courier fee, if your lender requires a payment to be overnighted.
 
 **3. Broker fees.** These are broken up with commissions and broker admin fees
 
