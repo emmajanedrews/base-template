@@ -2891,7 +2891,8 @@ form select {
     text-align: center;
     text-transform: uppercase; }
   .values hr {
-    border: 3px solid #4E4A46; }
+    border: 3px solid #000;
+    width: 75%; }
   .values ul {
     list-style: none; }
   .values p {
@@ -2957,6 +2958,9 @@ form select {
 
 #last-image {
   margin-bottom: 2rem; }
+
+.training {
+  text-align: left; }
 
 .subscribe {
   background: #B40101;
