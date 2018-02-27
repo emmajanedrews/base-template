@@ -20,7 +20,7 @@ pullquote: >-
   costs.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /uploads/Chad_Huebener_-_Jan_2018_-_3_-_Youtube.jpg
 youtube_code: BL585CciD0I
 ---
