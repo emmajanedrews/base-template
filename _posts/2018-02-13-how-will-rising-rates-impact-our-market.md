@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Will Rising Rates Impact Our Market?
-date: 2018-02-13 22:25:04
+date: 2018-02-13 22:25:00
 tags:
   - Home Buyer Tips
   - Real Estate
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/deepak-gupta-screenshot-feb-1-no-play.jpg
-youtube_code: NAH_9WzsWdI
+youtube_code: SiGDcKTyIHQ
 ---
 
 {% include youtube.html %}
