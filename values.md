@@ -24,7 +24,7 @@ permalink: /values/
 
 <h1>Core Values</h1>
 <div class="core-value-section">
-<!-- <hr> -->
+<hr>
 
 <div class="core-value">
 We Hustle Hard & Work Hard.
@@ -35,7 +35,7 @@ We Hustle Hard & Work Hard.
   -Abraham Lincoln
 </span>
 </div>
-<!-- <hr> -->
+<hr>
 
 <div class="core-value">
 We Embrace Accountability Coachability, & Discipline.
@@ -46,7 +46,7 @@ We Embrace Accountability Coachability, & Discipline.
   -Jim Rohn
 </span>
 </div>
-<!-- <hr> -->
+<hr>
 
 <div class="core-value">
 We exude boundless positive energy, passion & enthusiasm.
