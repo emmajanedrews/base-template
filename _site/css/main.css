@@ -2900,7 +2900,7 @@ form select {
 
 .recruiting-page {
   Font-size: 18px;
-  width: 65%;
+  width: 75%;
   margin: 0 auto;
   color: #000; }
 
@@ -2929,3 +2929,43 @@ form select {
   width: 75%;
   display: block;
   margin: 0 auto 2rem auto; }
+
+.photo-cta {
+  width: 100%;
+  line-height: 20px;
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  margin-bottom: 20px; }
+
+.photo-cta-container {
+  width: 70%;
+  margin-left: 15%; }
+
+.cta-button {
+  position: absolute;
+  bottom: 20px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  display: block;
+  color: #01AEAE;
+  background-color: #fff;
+  border: 2px solid #01AEAE;
+  text-decoration: none;
+  padding: 10px 20px;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: auto;
+  margin-right: auto;
+  left: 100px;
+  right: 100px;
+  text-align: center; }
+  .cta-button a {
+    color: #01AEAE; }
+  .cta-button:hover {
+    border: 2px solid #fff;
+    color: #fff;
+    background-color: #01AEAE; }
+    .cta-button:hover a {
+      color: #fff; }
