@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Should You Hire a Friend or Family Member as a Realtor?
-date: 2018-02-23 17:35:17
+date: 2018-02-23 17:35:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -9,7 +9,8 @@ tags:
 excerpt: >-
   Are you thinking about hiring a friend or family member as a real estate
   agent? Here are a few things to consider first.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Karlyn+Ellis/Feb+18'/Buda%252C+Texas+Real+Estate-+Why+You+Shouldn%2527t+Hire+Family.mp4
 pullquote: I’d be happy to pay a referral fee.
 enclosure_type: video/mp4
 enclosure_time:
