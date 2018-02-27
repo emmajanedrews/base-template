@@ -32,6 +32,6 @@ We’re proud to be able to share another great endorsement for The Josh Stern, 
 
 {% include pullquote.html %}
 
-It’s true—we offer a cancellation policy that guarantees if you’re not happy with the level of service you receive from us, you can pull your listing at anytime. We’re confident we will sell your home, though. As we’ve said before, we know Salt Lake City and Wasatch Front real estate, and we know how to get results in these markets.
+It’s true—we offer a cancellation policy that guarantees if you’re not happy with the level of service you receive from us, you can pull your listing at any time. We’re confident we will sell your home, though. As we’ve said before, we know Salt Lake City and Wasatch Front real estate, and we know how to get results in these markets.
 
 If you have any questions for us or you’re looking to buy, sell, or invest in Salt Lake City real estate, give us a call or send us an email. We’d be happy to help you.
