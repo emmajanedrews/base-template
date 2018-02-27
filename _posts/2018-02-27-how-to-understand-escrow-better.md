@@ -1,8 +1,9 @@
 ---
 layout: post
 title: How to Understand Escrow Better
-date: 2018-02-27 20:51:47
+date: 2018-02-27 20:51:00
 tags:
+  - Real Estate
 excerpt: Do you know what escrow is? I’m going over the basics today.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Sarita+Dua/2018/Portland+Real+Estate+Agent-+Understanding+Escrow.mp4
