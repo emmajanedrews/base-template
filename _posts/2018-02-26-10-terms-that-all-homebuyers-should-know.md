@@ -42,6 +42,6 @@ Before you make your first home purchase, there are 10 important terms you need 
 
 **9. Buying down your interest rate.** If you have a high interest rate due to your credit score, you can pay cash to literally buy down your rate.
 
-**10. Escrow.** An escrow account is a locked account that holds the buyer’s deposit so that neither they or the seller can withdraw it.
+**10. Escrow.** An escrow account is a locked account that holds the buyer’s deposit so that neither they nor the seller can withdraw it.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
