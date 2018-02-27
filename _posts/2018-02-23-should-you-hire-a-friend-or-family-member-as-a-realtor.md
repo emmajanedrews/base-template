@@ -30,7 +30,7 @@ If you’re considering hiring a friend or family member to help you buy or sell
 
 **3. They may insult your home decor.** Our team uses a professional home stager to insult your home decor instead. Their job isn’t to insult your tastes, of course. Their job is to make the home look as appealing as possible to the largest possible audience of buyers.
 
-**4. It’s awkward if you don’t sell quickly.**
+**4. It’s awkward if you don’t sell quickly.&nbsp;**Depending on the price range and condition, your home may sell faster or slower than others. If it’s in a higher price point, it could take 90 to 120 days to sell. If your agent is a friend without a lot of experience, they may not want to work hard or even know what to do to get the home sold if it sits on the market that long.
 
 **5. Even friends and family members deserve to get paid.** Maybe you're considering hiring a friend or family member because they will give you a discount or you feel like you owe it to them. If you’re a bit hesitant, I have the perfect solution. If you hire our team, I’ll pay a referral fee to that family member or friend that you’re considering hiring. They will still get paid and won’t have to do any of the work. You can leave that to us.&nbsp;
 
