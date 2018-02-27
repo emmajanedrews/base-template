@@ -2,7 +2,7 @@
 layout: post
 title: Home Seller's Seminar Final Reminder
 date:
-tags:Home Seller's Seminar
+tags:
 excerpt: SAVE THE DATE TO ATTEND THE 2018 SELLERS SEMINAR!
 enclosure:
 pullquote:
