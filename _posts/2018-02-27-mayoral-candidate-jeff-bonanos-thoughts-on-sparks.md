@@ -31,6 +31,6 @@ Jeff has been a resident here for most of his life, and he says the “old-commu
 
 For car enthusiasts, there is Hot August Nights; for food-lovers, there’s the West Nugget Rib Cook-off; and for families, there’s the Pumpkin Palooza.&nbsp;
 
-It’s no wonder why our community is so well-loved by Jeff and all its residents. **If you aren’t from Sparks, you should definitely come on down and check us out for yourself.** For those who are from Sparks and would like to know more about Jeff, you can visit his website at [www.JeffBonano.com](http://www.jeffbonano.com/index.html), find him on Facebook at @JMBonano, or call his community hotline at (755) 354-4442.&nbsp;
+It’s no wonder why our community is so well-loved by Jeff and all its residents. **If you aren’t from Sparks, you should definitely come on down and check us out for yourself.** For those who are from Sparks and would like to know more about Jeff, you can visit his website at **[www.JeffBonano.com](http://www.jeffbonano.com/index.html)**, find him on Facebook at @JMBonano, or call his community hotline at (755) 354-4442.&nbsp;
 
 As always, if you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
