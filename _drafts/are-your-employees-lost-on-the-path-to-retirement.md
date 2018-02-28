@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Are Your Employees Lost on the Path to Retirement?
-date:
+date: 2018-02-28 13:20:00
 tags:
-  - 401 (k) Planning
 excerpt: >-
   Unfortunately, people sometimes draw near to retirement age only to realize
   their plan hasn’t adequately prepared them for this stage in their life. Most
