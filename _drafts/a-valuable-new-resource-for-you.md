@@ -16,7 +16,11 @@ youtube_code: zEUfLTW8Y7k
 
 {% include youtube.html %}
 
-<center>Want to sell your home? Get a FREE home value report<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Want to buy a home? Search all homes for sale</center>
+<center>Want to sell your home? <a href="http://www.2percentsolution.ca/free-home-evaluation.html">Get a FREE home value report</a></center>
+
+<center>Want to buy a home? <a href="http://www.2percentsolution.ca/search-all-surrey-mlsreg-listings.html">Search all homes for sale</a></center>
+
+<center>&nbsp;</center>
 
 I’d like to welcome you to my new video blog.
 
