@@ -19,7 +19,9 @@ youtube_code: JrhjeE4t9Hk
 
 {% include youtube.html %}
 
-<center>Buyers in today’s market need to be ready in advance if they want success in purchasing a home. Buyer’s agent Angie Bauman is here to discuss how they can do that.</center>
+<center><em>Buyers in today&rsquo;s market need to be ready in advance if they want success in purchasing a home. Buyer&rsquo;s agent Angie Bauman is here to discuss how they can do that.</em></center>
+
+<center>&nbsp;</center>
 
 Today, I’m joined by my good friend, Angie Bauman, one of the top buyer’s agents and listing agents on our team. I wanted to talk to her about her experience on the buyer side of the business.
 
