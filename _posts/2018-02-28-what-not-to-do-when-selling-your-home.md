@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Not to Do When Selling Your Home
-date: 2018-02-28 22:00:44
+date: 2018-02-28 22:00:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -9,7 +9,7 @@ excerpt: >-
   you go through the listing process.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Jeremy+Mellick/Podcast+Videos/Excel+Real+Estate+Experts-+Biggest+Seller+Mistakes.mp4
-pullquote: Don’t your emotions get in the way when it comes time to list your home.
+pullquote: Don’t let your emotions get in the way when it comes time to list your home.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -23,7 +23,7 @@ As a seller, there are several mistakes you should avoid in order to be successf
 
 **1. Not improving the home.** Certain inexpensive changes can improve a seller’s chance of netting more money. When a seller fails to make these changes, they are doing themselves a disservice. Giving the interior of a home a fresh, neutral coat of paint is one of these changes. When a buyer walks in, they are going to notice these small details.
 
-<br>**2. Not decluttering the home.**When a buyer sees your listing online, they will be expecting their in-person visit to reflect what they saw in the photos. Both for photos and for in-person showings, sellers should declutter their home so as to make it look spacious and clean.
+<br>**2. Not decluttering the home.&nbsp;**When a buyer sees your listing online, they will be expecting their in-person visit to reflect what they saw in the photos. Both for photos and for in-person showings, sellers should declutter their home so as to make it look spacious and clean.
 
 {% include pullquote.html %}
 
