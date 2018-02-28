@@ -26,11 +26,11 @@ client:
 
 emma_form:
 
-CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: http://asksarita.com/sellers
-  second_CTA_text: Home Search
-  second_CTA_URL: http://www.searchportlandareahomelistings.com/
+# CTAs:
+#   first_CTA_text: Home Valuation
+#   first_CTA_URL: http://asksarita.com/sellers
+#   second_CTA_text: Home Search
+#   second_CTA_URL: http://www.searchportlandareahomelistings.com/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/005.jpg
