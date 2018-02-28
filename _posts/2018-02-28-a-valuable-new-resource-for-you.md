@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Valuable New Resource For You
-date:
+date: 2018-02-28 17:12:23
 tags:
   - Real Estate
 excerpt: I’d like to welcome you to my new video blog.
