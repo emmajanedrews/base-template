@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Makes Us Terry and Joe Johnson’s Preferred Real Estate Team?
+title: What Makes Us Johnson and Johnson’s Preferred Real Estate Team?
 tags:
   - Salt Lake City Real Estate
 excerpt: >-
