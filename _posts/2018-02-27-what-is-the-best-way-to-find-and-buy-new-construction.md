@@ -20,7 +20,7 @@ youtube_code: Ws_idGUubgU
 
 {% include youtube.html %}
 
-If you’ve been looking in the Florida market for a home, you’ve probably come to realize that inventory is in short supply. A lot of builders are jumping in the southwest Florida market to address that problem. They’re coming into build out some major subdivisions, and some local builders are creating niche products for everyone at every price point.
+If you’ve been looking in the Florida market for a home, you’ve probably come to realize that inventory is in short supply. A lot of builders are jumping in the Southwest Florida market to address that problem. They’re coming in to build out some major subdivisions, and some local builders are creating niche products for everyone at every price point.
 
 **There are two ways to purchase new construction.** One is walking into model homes and working with the builder’s representative. The other is working with a Realtor to find new builds to purchase.
 
@@ -30,8 +30,8 @@ The second option is a great way to go. Many buyers think that they’ll get a b
 
 There are other advantages to working with a Realtor to buy new construction. They know what you’re looking for and will be able to direct you to the right builder who will suit your needs.&nbsp;
 
-Once the house is built, you’ll take a final walkthrough. **This is where you’ll really love having the help of a Realtor:** regardless of how well they built the place, there will be a punch list of items that you’ll want to take care of. Your Realtor will address those items to the builder, who can take care of them quickly and efficiently. The builder will want to make the Realtor happy, since the Realtor will bring them additional business.
+Once the house is built, you’ll take a final walkthrough. **This is where you’ll really love having the help of a Realtor:** regardless of how well they built the place, there will be a punch list of items that you’ll want to take care of. Your Realtor will address those items to the builder, who can take care of them quickly and efficiently. The builder will want to make the Realtor happy since the Realtor will bring them additional business.
 
 The best thing of all is that it’s free—**the builder is going to pay your Realtor’s commission.**
 
-If you have any more questions about new construction, feel free to reach out to me, and we can talk it out.
+If you have any more questions about new construction, feel free to reach out to me, and we can talk it out. I look forward to hearing from you soon.
