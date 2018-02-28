@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Not to Do When Selling Your Home
-date:
+date: 2018-02-28 22:00:44
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -19,15 +19,15 @@ youtube_code: i4vCglfK9VM
 
 {% include youtube.html %}
 
-As a seller, there are several mistakes you should avoid in order to be successful in your transaction. Today, I will be sharing some of the biggest and most common seller mistakes.&nbsp;
+As a seller, there are several mistakes you should avoid in order to be successful in your transaction. Today, I will be sharing some of the biggest and most common seller mistakes.
 
 Not improving the home. Certain inexpensive changes can improve a seller’s chance of netting more money. When a seller fails to make these changes, they are doing themselves a disservice. Giving the interior of a home a fresh, neutral coat of paint is one of these changes. When a buyer walks in, they are going to notice these small details.
 
-<br>Not decluttering the home. When a buyer sees your listing online, they will be expecting their in-person visit to reflect what they saw in the photos. Both for photos and for in-person showings, sellers should declutter their home so as to make it look spacious and clean.&nbsp;
+<br>Not decluttering the home. When a buyer sees your listing online, they will be expecting their in-person visit to reflect what they saw in the photos. Both for photos and for in-person showings, sellers should declutter their home so as to make it look spacious and clean.
 
 {% include pullquote.html %}
 
-<br>Not being prepared for showings. Homes that go onto the market often start being shown from the very first day. It is critically important that your property is ready for these showings before you list.&nbsp;
+<br>Not being prepared for showings. Homes that go onto the market often start being shown from the very first day. It is critically important that your property is ready for these showings before you list.
 
 <br>Getting too emotional about the house. It’s natural to feel attached to your home. However, it’s important not to let these emotions get in the way when it comes time to sell. Think of your property as a product you’re selling, not as your home.
 
