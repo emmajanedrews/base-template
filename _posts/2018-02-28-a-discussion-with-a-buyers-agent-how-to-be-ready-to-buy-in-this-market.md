@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'A Discussion With a Buyer''s Agent: How to Be Ready to Buy in This Market'
-date:
+date: 2018-02-28 16:31:50
 tags:
   - Home Buyer Tips
 excerpt: >-
