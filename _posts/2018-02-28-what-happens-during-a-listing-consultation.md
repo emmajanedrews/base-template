@@ -7,8 +7,7 @@ tags:
 excerpt: >-
   What exactly happens during a listing consultation, and why are listing
   consultations so important for sellers? I’ll explain today.
-enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Chase+Craig/Podcast+Videos/Omaha+Real+Estate+Agent-+Our+Big+Goals+for+2018.mp4
+enclosure:
 pullquote: Your home does not have to be show-ready before your listing consultation.
 enclosure_type: video/mp4
 enclosure_time:
