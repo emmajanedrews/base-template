@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/chase2.jpg
-youtube_code: EgWzHIMkqt0
+youtube_code: r1_heU-hX0w
 ---
 
 {% include youtube.html %}
