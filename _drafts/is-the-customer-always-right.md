@@ -3,6 +3,7 @@ layout: post
 title: Is the Customer Always Right?
 date: 2018-02-28 14:35:00
 tags:
+  - Real Estate
 excerpt: >-
   Everyone knows the old adage, “The customer is always right.” If you’ve been
   in real estate for a while, though, you have probably encountered some rude,
