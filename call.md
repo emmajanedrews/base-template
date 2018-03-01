@@ -60,7 +60,7 @@ permalink: /call/
 
 <p>I invite you to request a free one-on-one business strategy meeting with me. We can meet for coffee, of even if it’s more convenient, a phone call or a video conference works, too.</p>
 
-<img src="/img/client.jpg" class="call-photo--left">
+<img src="/img/client.jpg" class="call-photo-left">
 
 <p>I have a questionnaire I would like you fill out so that when we meet so I’m prepared to offer you specific advice. When you request a call, I’ll email it to you to complete before the meeting.</p>
 
