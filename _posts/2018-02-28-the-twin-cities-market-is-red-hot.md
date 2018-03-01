@@ -6,7 +6,7 @@ tags:
   - Market Update
 excerpt: >-
   There is no inventory in our market. That’s right; there are so few homes for
-  sale that we’re seeing multiple offers crop out left and right. Naturally,
+  sale that we’re seeing multiple offers crop up left and right. Naturally,
   whatever homes do sell are doing so 15% quicker than they did last year. The
   market is red-hot, and both buyers and sellers need to be prepared to enter
   the fray. To hear more about how to be ready for our fierce spring market,
@@ -37,7 +37,7 @@ If you’re a seller and you’re thinking of listing your home this year, you n
 
 **Buyers looking to enter the spring market need to be ready to act fast.** Contact a qualified lender and get a pre-approval letter, and be sure that lender has done underwriting on your file so that you’re 100% good to go. Meet with a Realtor who knows the market that you want to buy in so you can strategize the best way to win out on the house you want, especially if it has multiple offers on it.
 
-We have three examples from within the last couple of weeks of just how hot the market is. One is **a beautiful home that we listed in St. Louis Park that received a whopping 52 showings in 72 hours.&nbsp;**Four of the offers were over list price.
+We have three examples from within the last couple of weeks of just how hot the market is. One is **a beautiful home that we listed in St. Louis Park that received a whopping 52 showings in 72 hours.**Four of the offers were over list price.
 
 In Burnsville, a property had 33 showings over the weekend, and seven offers were tens of thousands of dollars over the list price. Another property in Lake Minnetonka had been on the market for over two years, and it just sold in less than a weekend.<br><br>Timing is everything when you want to sell a home in the Twin Cities.
 
