@@ -27,7 +27,7 @@ It’s important to remember that **tracking is critical.** We have a lot of dat
 
 What we’ve learned is that Realtor.com and Zillow business is market-specific. The price per inquiry here at South Central Pennsylvania is going to be vastly different than the price per inquiry in another market.&nbsp;
 
-Also, due to the way Zillow is set up, **the price per inquiry in one zip code may be dramatically higher than another simply due to temporary demand** depending on how many brokers are investing in that zip code. They can push the price per inquiry way up. Zillow is contract-free, so you are able to keep an eye on the price per inquiry and move your investment elsewhere if necessary.
+Also, due to the way Zillow is set up, **the price per inquiry in one ZIP code may be dramatically higher than another simply due to temporary demand** depending on how many brokers are investing in that ZIP code. They can push the price per inquiry way up. Zillow is contract-free, so you are able to keep an eye on the price per inquiry and move your investment elsewhere if necessary.
 
 {% include pullquote.html %}
 
@@ -41,6 +41,6 @@ Here was the difference: If you Google “MIT lead response study,” you’ll g
 
 **2. What methods used to respond.** People prefer different methods of communication. It’s important to not only call that business within five minutes of the inquiry, but also shoot them a text and an email.
 
-**3. How often we follow up.**If you don’t make a connection quickly, it’s important to not give up. No salesperson calls only once. Studies show that a minimum of ten times is required in order to capitalize on the highest probability to convert that business. Those follow-ups should be made within 12 to 15 days.
+**3. How often we follow up.&nbsp;**If you don’t make a connection quickly, it’s important to not give up. No salesperson calls only once. Studies show that a minimum of 10 times is required in order to capitalize on the highest probability to convert that business. Those follow-ups should be made within 12 to 15 days.
 
 Hopefully you’ve found this information to be helpful. If you have anything to add, share, or ask about this topic, I’d love to hear from you. Feel free to reach out to me anytime.
