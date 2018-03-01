@@ -9,7 +9,7 @@ excerpt: >-
   2018.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Eric+Vallee/What+You+Should+Know+About+Vancouver+Housing+in+2017.mp4
-pullquote: Only time will tell what kind of long-term impact these changes have.
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
