@@ -23,7 +23,7 @@ youtube_code: JrhjeE4t9Hk
 
 <center>&nbsp;</center>
 
-Today, I’m joined by my good friend, Angie Bauman, one of the top buyer’s agents and listing agents on our team. I wanted to talk to her about her experience on the buyer side of the business.
+Today, I’m joined by my good friend Angie Bauman, one of the top buyer’s agents and listing agents on our team. I wanted to talk to her about her experience on the buyer side of the business.
 
 **Angie, what do you see happening in the market as it relates to buyers?**
 
