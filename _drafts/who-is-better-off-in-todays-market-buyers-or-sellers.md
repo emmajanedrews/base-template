@@ -19,7 +19,7 @@ youtube_code: RWsOplb62oE
 
 {% include youtube.html %}
 
-As has been the case for a while now, our market is currently experiencing high demand and very low supply. Today, I’ll be going over how buyers and sellers can navigate these market conditions.
+<center>As has been the case for a while now, our market is currently experiencing high demand and very low supply. Today, I’ll be going over how buyers and sellers can navigate these market conditions.</center>
 
 Can we still expect multiple offers coming into our spring buying season? The easy answer is yes, but why is this continuing to be the case?
 
