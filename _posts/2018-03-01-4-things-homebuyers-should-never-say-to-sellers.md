@@ -36,4 +36,4 @@ Remember, do not attempt to say any of the four things we mentioned today at you
 
 If you have any questions in the meantime, just give us a call or send us an email. I would be happy to help you!
 
-{% include pullquote.html %}
+&nbsp;
