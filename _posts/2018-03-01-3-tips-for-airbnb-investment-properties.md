@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 3 Things Every Airbnb Property Owner Should Know
-date: 2018-02-23 20:05:01
+title: 3 Tips for Airbnb Investment Properties
+date: 2018-03-01 20:05:00
 tags:
   - Real Estate
 excerpt: >-
@@ -29,4 +29,4 @@ Today we’re talking about Airbnb. I’ve had a lot of real estate investors ca
 
 **3. Your exit strategy.&nbsp;**What happens if the ordinances change in your area or you just get tired of managing the property? Turning it into a long-term rental property is certainly an option, especially if you’re in an area with consistent home appreciation.&nbsp;
 
-I hope these tips are helpful for you when you’re looking for a short-term rental property. If you have any questions for me about this or any other topic related to real estate or real estate investing, don’t hesitate to reach out and give me a call or send me an email. I would love to hear from you.
+I have been running my own Airbnb and have first-hand knowledge so I hope these tips are helpful. If you have any questions for me about this or any other topic related to real estate or real estate investing, don’t hesitate to reach out and give me a call or send me an email. I would love to hear from you.
