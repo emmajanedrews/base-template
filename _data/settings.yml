@@ -97,7 +97,7 @@ images:
   hero_text:
   hero_background_hex: '#272727'
   hero_image_path: /uploads/canva-backdrop01.jpg
-brand_color: '#8dc63f'
+brand_color: '#c4a712'
 theme_color: '#30342d'
 theme_text_color: '#353535'
 main_body_color: '#ffffff'
