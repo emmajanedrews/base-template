@@ -28,6 +28,8 @@ If you are a buyer, there are four things that you should never say during a sho
 
 4. Never submit a lowball offer, especially in a seller’s market where inventory is low and demand for houses is high. A lowball offer could be offensive to the seller. They know their home is worth a certain amount, and submitting an offer way below market value would definitely offend them. They would put their guard up and they may not entertain your offer. You will most likely lose out on a chance to get a home that you really like if you make a lowball offer. The seller will want nothing to do with you. When deciding what price to offer, talk to your professional real estate agent to come up with a fair value that will work for you.
 
+{% include pullquote.html %}
+
 Remember, do not attempt to say any of the four things we mentioned today at your next home showing.
 
 If you have any questions in the meantime, just give us a call or send us an email. I would be happy to help you!
