@@ -9,7 +9,8 @@ excerpt: >-
   partnering nonprofits as a show of support for those impacted by Hurricane
   Harvey. Today, I would like to highlight a few of the organizations and people
   I heard from.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/March+18%22/Houston+Area+Real+Estate-+NFL+Players+%2526+Celebrities+Come+Out+to+Give+Back.mp4
 pullquote: >-
   It was clear to see at this event that the community really is “Houston
   Strong.”
