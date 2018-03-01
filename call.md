@@ -14,7 +14,7 @@ permalink: /call/
 
 <p>I’ll meet with you one-on-one to help you write a business plan you can implement immediately to generate leads, appointments, and sales.</p>
 
-<img src="/img/agent.jpg" class="call-photo">
+<img src="/img/agent.jpg" class="call-photo-left">
 
 <p>I know how challenging it is to sell real estate.</p>
 
@@ -24,7 +24,7 @@ permalink: /call/
 
 <p>My name is Sarita Dua and I’ve sold over 1000 homes to date.</p>
 
-<img src="/img/headshot.jpg" class="call-photo">
+<img src="/img/headshot.jpg" class="call-photo-right">
 
 <p>I want to help you sell more homes.</p>
 
@@ -38,7 +38,7 @@ permalink: /call/
 
 <p>You’ll walk away with a plan of action, with steps you can take right away, to find homeowners who want to sell their home who list with you.</p>
 
-<img src="/img/agent-plan.jpg" class="call-photo">
+<img src="/img/agent-plan.jpg" class="call-photo-left">
 
 <p>This will help you get the commission consistency and the freedom we all want from our business.</p>
 
@@ -52,7 +52,7 @@ permalink: /call/
 
 <p>I’ll help you for free in return that maybe, over the long term – and only if it makes sense - you’d like to learn more about working at our team/brokerage.</p>
 
-<img src="/img/meeting.jpg" class="call-photo">
+<img src="/img/meeting.jpg" class="call-photo-right">
 
 <p>Let me be clear that is not the intent of the meeting. That’s another conversation for another time and only if you have any interest.</p>
 
@@ -60,7 +60,7 @@ permalink: /call/
 
 <p>I invite you to request a free one-on-one business strategy meeting with me. We can meet for coffee, of even if it’s more convenient, a phone call or a video conference works, too.</p>
 
-<img src="/img/client.jpg" class="call-photo">
+<img src="/img/client.jpg" class="call-photo--left">
 
 <p>I have a questionnaire I would like you fill out so that when we meet so I’m prepared to offer you specific advice. When you request a call, I’ll email it to you to complete before the meeting.</p>
 
