@@ -10,8 +10,8 @@ enclosure:
 pullquote: This was great for our team to spend some quality time together.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /uploads/port-st-joe-p.jpg
+use_youtube_image: true
+youtube_alternate_image:
 youtube_code: nqt6Ux8Iv_A
 ---
 
