@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'A Discussion With a Buyer''s Agent: How to Be Ready to Buy in This Market'
-date: 2018-02-28 16:31:50
+title: Tips on How to Win as a Buyer in a Seller's Market
+date: 2018-02-28 16:31:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -45,8 +45,8 @@ I do see buyers waiting to put their home on the market, but right now is a grea
 
 1. Make sure that they’ve been pre-qualified or even gone as far as getting a pre-approval letter. On the seller’s side of things, they’re looking at those pre-approval letters to make a decision in a multiple buyer situation, so having a solid pre-approval letter helps.
 2. Writing a personal letter to the seller, explaining who you are as a buyer and trying to make an emotional connection with the seller, has also been helpful.
-3. If they have a home to sell, the buyer needs to make sure that it’s listed. &nbsp;If you make your offer subject to the sale of your current home, it puts you in a horrible negotiating position, especially if you don’t have any offers on it currently, or even have it on the market.
+3. If they have a home to sell, the buyer needs to make sure that it’s listed.  If you make your offer subject to the sale of your current home, it puts you in a horrible negotiating position, especially if you don’t have any offers on it currently, or even have it on the market.
 
 Some buyers are concerned about listing their home without first identifying a replacement home. If that’s the case, we can keep them in control of the situation by listing their home, and if an offer comes in, we can accept that offer subject to our client, the seller, finding a home to replace it. This is a better strategy because it puts you in a strong negotiating position; trying to make an offer in a multiple offer situation while still having a home that needs to sell is a recipe for disaster.
 
-If you have any questions about buying or selling a home in today’s market, feel free to reach out to us. We have stellar agents waiting to help you succeed, no matter which side of the transaction you’re on.<br>&nbsp;
+If you have any questions about buying or selling a home in today’s market, feel free to reach out to us. We have stellar agents waiting to help you succeed, no matter which side of the transaction you’re on.<br>
