@@ -22,7 +22,7 @@ We have an amazing real estate team that’s been in business for 15 years. Whet
 
 We help our agents succeed by providing the marketing, the leads, the systems, the processes, and the presentations that they need, along with the operation staff.
 
-If you are interested in learning how to get a six-figure income and get paid for the amount and effort you put in, reach out to me to learn more about this opportunity.
+If you are interested in learning how to get a six-figure income and get paid for the amount of effort you put in, reach out to me to learn more about this opportunity.
 
 Don’t just take it from me—here’s the story of one of our agents:
 
@@ -36,4 +36,4 @@ Don’t just take it from me—here’s the story of one of our agents:
 
 “In my first year, I sold 15 homes. In my second year, I sold just under 30 homes. This year, I am set to sell 40 and 50 homes.”
 
-If you are interested in learning how to get a six-figure income and get paid for the amount of effort you put in, reach out to me to learn more about this opportunity.&nbsp;
+If you are interested in learning how to get a six-figure income and get paid for the amount and effort you put in, reach out to me to learn more about this opportunity.&nbsp;
