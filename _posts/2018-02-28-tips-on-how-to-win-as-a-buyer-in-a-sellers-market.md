@@ -8,7 +8,8 @@ excerpt: >-
   Buyers in today’s market need to be ready in advance if they want success in
   purchasing a home. Buyer’s agent Angie Bauman is here to discuss how they can
   do that.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+How+to+combat+a+challenging+buyer's+market.mp4
 pullquote: Some of the buyers in the market today are up against a tough situation.
 enclosure_type: video/mp4
 enclosure_time:
