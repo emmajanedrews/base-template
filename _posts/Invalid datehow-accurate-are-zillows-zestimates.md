@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Accurate Are Zillow’s Zestimates?
-date: 2018-03-28 17:03:35
+date: Invalid date
 tags:
   - Real Estate
   - Home Seller Tips
