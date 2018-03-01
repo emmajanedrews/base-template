@@ -18,6 +18,6 @@ youtube_code: 07ZYtWmoNOg
 
 {% include youtube.html %}
 
-You are cordially invited to attend our next career night on Monday, March 12 from 5 p.m. to 6 p.m. There, you will find some great information about a potential future career in real estate that you won’t want to miss out on. To RSVP, just click on this link. For more details, watch the video above.
+You are cordially invited to attend our next career night on Monday, March 12 from 5 p.m. to 6 p.m. There, you will find some great information about a potential future career in real estate that you won’t want to miss out on. To RSVP, just click on this [link.](https://www.teamlally.com/career-night.php) For more details, watch the video above.
 
 {% include pullquote.html %}
