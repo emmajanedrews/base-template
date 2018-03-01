@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Tips for Airbnb Investment Properties
-date:
+date: 2018-03-01 20:23:56
 tags:
   - Real Estate
 excerpt: >-
