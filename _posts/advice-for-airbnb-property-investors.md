@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Tips for Airbnb Investment Properties
-date: 2018-03-01 20:05:00
+date: 2018-02-28 20:05:00
 tags:
   - Real Estate
 excerpt: >-
@@ -23,10 +23,10 @@ Today we’re talking about Airbnb. I’ve had a lot of real estate investors ca
 
 **1. The zoning and restrictions in the area.** For example, you can have an Airbnb in Maplewood, but there are certain restrictions involved. In the city of St. Louis, there are currently no such restrictions in place. Crestwood is another area where Airbnb properties aren’t allowed, but that isn’t really an area where you should be looking for an investment property like this anyway. In St. Louis, Airbnb is mostly used by tourists. They would rather stay in the heart of the city near tourist attractions than out in the suburbs.
 
-**2. Management.&nbsp;**You’ll have to furnish your short-term rental property with linens, kitchen supplies, furniture, and more. You’ll also need to have the place cleaned between visitors. You can do this yourself, but you can also hire a property manager to do it for you. Collecting the booking fee is the easy part. Keeping up with the day-to-day management of the property is the real challenge.
+**2. Management.**You’ll have to furnish your short-term rental property with linens, kitchen supplies, furniture, and more. You’ll also need to have the place cleaned between visitors. You can do this yourself, but you can also hire a property manager to do it for you. Collecting the booking fee is the easy part. Keeping up with the day-to-day management of the property is the real challenge.
 
 {% include pullquote.html %}
 
-**3. Your exit strategy.&nbsp;**What happens if the ordinances change in your area or you just get tired of managing the property? Turning it into a long-term rental property is certainly an option, especially if you’re in an area with consistent home appreciation.&nbsp;
+**3. Your exit strategy.**What happens if the ordinances change in your area or you just get tired of managing the property? Turning it into a long-term rental property is certainly an option, especially if you’re in an area with consistent home appreciation.
 
 I have been running my own Airbnb and have first-hand knowledge so I hope these tips are helpful. If you have any questions for me about this or any other topic related to real estate or real estate investing, don’t hesitate to reach out and give me a call or send me an email. I would love to hear from you.
