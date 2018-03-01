@@ -3,15 +3,20 @@ layout: post
 title: 3 Tips for Airbnb Investment Properties
 date:
 tags:
-excerpt:
-enclosure:
-pullquote:
+  - Real Estate
+excerpt: >-
+  Airbnb is a great tool for real estate investors. Here’s how short-term
+  rentals are a little different.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/2018/St.+Louis+Metro+Area+Real+Estate-+Airbnb.mp4
+pullquote: Do you have an exit strategy?
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: sVKMNRQk0NQ
 ---
+
 {% include youtube.html %}
 
 Today we’re talking about Airbnb. I’ve had a lot of real estate investors calling me up recently and telling me that they want to buy a property to use as a short-term rental. In most cases, investors actually make a lot more money on these properties than they do on long-term rentals, but **there are three factors you definitely need to consider when looking at making an investment in this type of property.**
@@ -25,4 +30,3 @@ Today we’re talking about Airbnb. I’ve had a lot of real estate investors ca
 **3. Your exit strategy.**What happens if the ordinances change in your area or you just get tired of managing the property? Turning it into a long-term rental property is certainly an option, especially if you’re in an area with consistent home appreciation.
 
 I have been running my own Airbnb and have first-hand knowledge so I hope these tips are helpful. If you have any questions for me about this or any other topic related to real estate or real estate investing, don’t hesitate to reach out and give me a call or send me an email. I would love to hear from you.
-
