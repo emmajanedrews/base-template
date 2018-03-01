@@ -1,44 +1,295 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title>St. Louis Metro Area Real Estate Podcast with Sandie Hea</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <title>St. Louis Metro Area Real Estate Podcast with Sandie Hea, CRS</title>
+    <link>http://aboutstlouishomes.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://aboutstlouishomes.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from RE/MAX Results - your professional St. Louis Metro Area Real Estate Agents.</description>
     <language>en</language>
-    <managingEditor>Sandie Hea</managingEditor>
-    <lastBuildDate>2017-10-03 16:02:15 -0500</lastBuildDate>
-    <media:copyright>Sandie Hea</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <managingEditor>Sandie Hea, CRS</managingEditor>
+    <lastBuildDate>2018-03-01 16:57:29 -0600</lastBuildDate>
+    <media:copyright>Sandie Hea, CRS</media:copyright>
+    <media:thumbnail url="http://aboutstlouishomes.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Louis Metro Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
       <itunes:email>SpecialAgent@Hey-Hea.com</itunes:email>
-      <itunes:name>Sandie Hea</itunes:name>
+      <itunes:name>Sandie Hea, CRS</itunes:name>
     </itunes:owner>
-    <itunes:author>Sandie Hea</itunes:author>
+    <itunes:author>Sandie Hea, CRS</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://aboutstlouishomes.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Louis Metro Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the St. Louis Metro Area Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from RE/MAX Results - your professional St. Louis Metro Area Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
-        <title>These 3 Inspections Could Save You a Lot of Trouble Later On</title>
-        <link>localhost:4000/these-3-inspections-could-save-you-lot.html</link>
+        <title>3 Tips for Airbnb Investment Properties</title>
+        <link>http://aboutstlouishomes.com/3-tips-for-airbnb-investment-properties.html</link>
         
-          <category>Home Buyer Tips</category>
+          <category>Real Estate</category>
         
-        <author>Sandie Hea</author>
-        <pubDate>2017-09-20 10:37:00 -0500</pubDate>
+        <author>Sandie Hea, CRS</author>
+        <pubDate>2018-03-01 14:23:56 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/2018/St.+Louis+Metro+Area+Real+Estate-+Airbnb.mp4</guid>
+        <description>
+
+Today we’re talking about Airbnb. I’ve had a lot of real estate investors calling me up recently and telling me that they want to buy a property to use as a short-term rental. In most cases, investors actually make a lot more money on these properties than they do on long-term rentals, but there are three factors you definitely need to consider when looking at making an investment in this type of property.
+
+1. The zoning and restrictions in the area. For example, you can have an Airbnb in Maplewood, but there are certain restrictions involved. In the city of St. Louis, there are currently no such restrictions in place. Crestwood is another area where Airbnb properties aren’t allowed, but that isn’t really an area where you should be looking for an investment property like this anyway. In St. Louis, Airbnb is mostly used by tourists. They would rather stay in the heart of the city near tourist attractions than out in the suburbs.
+
+2. Management. You’ll have to furnish your short-term rental property with linens, kitchen supplies, furniture, and more. You’ll also need to have the place cleaned between visitors. You can do this yourself, but you can also hire a property manager to do it for you. Collecting the booking fee is the easy part. Keeping up with the day-to-day management of the property is the real challenge.
+
+“Do you have an exit strategy?”
+
+3. Your exit strategy. What happens if the ordinances change in your area or you just get tired of managing the property? Turning it into a long-term rental property is certainly an option, especially if you’re in an area with consistent home appreciation.
+
+I have been running my own Airbnb and have first-hand knowledge so I hope these tips are helpful. If you have any questions for me about this or any other topic related to real estate or real estate investing, don’t hesitate to reach out and give me a call or send me an email. I would love to hear from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/2018/St.+Louis+Metro+Area+Real+Estate-+Airbnb.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://aboutstlouishomes.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/2018/St.+Louis+Metro+Area+Real+Estate-+Airbnb.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Airbnb is a great tool for real estate investors. Here’s how short-term rentals are a little different.</itunes:subtitle>
+        <itunes:author>Sandie Hea, CRS</itunes:author>
+        <itunes:summary>Airbnb is a great tool for real estate investors. Here’s how short-term rentals are a little different.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Louis Metro Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>3 Facts That Peel Back the Curtain on Zillow</title>
+        <link>http://aboutstlouishomes.com/3-facts-that-peel-back-the-curtain-on-zillow.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Sandie Hea, CRS</author>
+        <pubDate>2018-01-15 09:18:00 -0600</pubDate>
         <guid></guid>
         <description>
 
+You probably know this already, but the website Zillow has something that they call a Zestimate. It’s essentially an automated home valuation tool. I want to point out three things about this tool that show just how reliable (or unreliable) it is:
+
+1. Zillow is a marketing company, not a real estate company. As a marketing company, the data that they have is provided by real estate agents. However, not all agents want to give up their data to Zillow. This means the data is often inaccurate and ultimately limited.
+
+2. Zillow uses an algorithm. However, this algorithm uses that same limited data to come up with a Zestimate. For instance, a house that backs up to a highway or a railroad track could be valued the same as a house in a quiet cul-de-sac. A house that hasn’t been updated in decades and a house that’s had a major overhaul could be right next door to each other and their Zestimates could be almost identical.
+
+“Let me help you navigate the market.”
+
+3. Did you know that Zillow’s CEO sold his Seattle home for 40% under its Zestimate? Zillow’s website even has a disclaimer that says their figures could be up to 15% inaccurate. 15% on a $300,000 house is $45,000. That’s a huge swing in either direction. That’s like fudging on your weight by 15 lbs and getting caught by your doctor.
+
+In short, never rely on Zillow as a means to price a home you want to sell or to figure out a good asking price on the house you want to buy. Let me help you navigate the real estate market with the truth of the numbers in the MLS and my own personal experience in the business.
+
+If you have any questions or need any real estate advice, give me a call or send me an email anytime. I look forward to hearing from you soon!
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://aboutstlouishomes.com" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>You probably know this already, but the website Zillow has something that they call a Zestimate. It’s essentially and automated home valuation tool. I want to point out three things about this tool today that show just how reliable (or unreliable) it is</itunes:subtitle>
+        <itunes:author>Sandie Hea, CRS</itunes:author>
+        <itunes:summary>You probably know this already, but the website Zillow has something that they call a Zestimate. It’s essentially and automated home valuation tool. I want to point out three things about this tool today that show just how reliable (or unreliable) it is</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Louis Metro Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>See How Realtors Are Getting Rich Off of You!</title>
+        <link>http://aboutstlouishomes.com/see-how-realtors-are-getting-rich-off-of-you.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Sandie Hea, CRS</author>
+        <pubDate>2018-01-15 09:02:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520See%2520how%2520Realtors%2520are%2520getting%2520rich%2520off%2520of%2520you.mp4</guid>
+        <description>
+
+In our current market, many people think that agents get rich off of seller commissions.
+
+Today I’ll illustrate where those commission funds go during a real estate transaction.
+
+For the sake of easy math, let’s imagine the commission fee is $1.Out of that $1, the traditional listing agent will give back half to the buyer’s agent. Of the 50 cents left, the agent will then give half to their broker.
+
+This leaves the agent with just 25 cents left from the original commission. Out of that 25 cents, the agent is paying for their own health insurance, retirement fund, gas/insurance for their car, and self-employment tax.
+
+For RE/MAX agents, that 25 cents is split up a little differently. This goes towards a monthly management fee, the costs of travel, marketing expenses, office rent, health insurance, signs/lockboxes, and more.
+
+With all of the out-of-pocket expenses agents pay, there isn’t much of a profit left over after everything is said and done.It’s easy to see that agents like myself are in this business because we want to help you succeed with your real estate goals. It isn’t about the money—it’s about serving our clients.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520See%2520how%2520Realtors%2520are%2520getting%2520rich%2520off%2520of%2520you.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://aboutstlouishomes.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520See%2520how%2520Realtors%2520are%2520getting%2520rich%2520off%2520of%2520you.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>In our current market, many people are under the misconception that agents get rich off of seller commissions.</itunes:subtitle>
+        <itunes:author>Sandie Hea, CRS</itunes:author>
+        <itunes:summary>In our current market, many people are under the misconception that agents get rich off of seller commissions.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Louis Metro Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>When You Leave Your Home, What Should Stay Behind?</title>
+        <link>http://aboutstlouishomes.com/when-you-leave-your-home-what-should-stay-behind.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Sandie Hea, CRS</author>
+        <pubDate>2017-12-22 03:43:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520How%2520to%2520prepare%2520your%2520home%2520for%2520its%2520next%2520owner.mp4</guid>
+        <description>
+
+As a seller, what items should you leave behind for the buyer when you move out of your home? Here’s a list of key items and things to consider.
+
+1. Leave a key for every door. This includes any outdoor buildings, sheds, or padlocks that are on the property.
+
+2. Leave your garage door remotes.
+
+3. Leave the keyless code for garage entry.
+
+4. Leave any warranty paperwork. Remember to leave behind receipts for repairs and instruction manuals for any of the items in your home.
+
+5. Leave building materials.Some buyers will not want these items. Which brings us to the next point.
+
+6. Ask buyers if they want certain items. This includes paint, building materials, shelving units, and big pieces of furniture that are difficult to remove.
+
+7. Wipe down appliances and countertops.
+
+8. Sweep and vacuum.
+
+9. Leave a note about the neighborhood and neighbors.
+
+10. Leave a bottle of wine, a wine opener, and a nice note. If you have had a very positive experience with the buyer so far, this can be a good way to foster further positivity.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520How%2520to%2520prepare%2520your%2520home%2520for%2520its%2520next%2520owner.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://aboutstlouishomes.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520How%2520to%2520prepare%2520your%2520home%2520for%2520its%2520next%2520owner.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>As a seller, what items should you leave behind for the buyer when you move out of your home? Today, I’ve got a list of some key items and some things to consider.</itunes:subtitle>
+        <itunes:author>Sandie Hea, CRS</itunes:author>
+        <itunes:summary>As a seller, what items should you leave behind for the buyer when you move out of your home? Today, I’ve got a list of some key items and some things to consider.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Louis Metro Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Does Earnest Money Function Within a Home Sale?</title>
+        <link>http://aboutstlouishomes.com/how-does-earnest-money-function-within-a-home-sale.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Sandie Hea, CRS</author>
+        <pubDate>2017-11-21 10:41:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520What%2520you%2520need%2520to%2520know%2520about%2520earnest%2520money.mp4</guid>
+        <description>
+
+What is earnest money? As a buyer, how much do you need and what happens to that sum if the deal terminates?
+
+Earnest money is the amount of money a buyer puts down to ask the seller to take their house off the market in order for them to do their due diligence during a certain time frame. That money is held in a non-interest bearing escrow account, typically by either the title company or the real estate company.
+
+How much earnest money you need depends on what area you live in, but a typical scenario would be 1% of the purchase price of the house. It can always be more or less than that because it’s a negotiable item on the contract.
+
+“Typically, earnest money accounts for 1% of the total purchase price.”
+
+If the deal terminates, the earnest money is supposed to be returned to the buyer if the buyer did everything they were supposed to do according to the contract, the contingencies were not fulfilled, and they’re legally allowed to back out of the contract.
+
+However, if the buyer simply changes their mind and has no legal ground for terminating the offer, the earnest money could be up for grabs. The earnest money isn’t simply handed back over to the buyer. There is paperwork called a “mutual release,” which must be signed by all parties stating how much of that money is to be returned to the buyer, whether that means all of it or some of it. There can be a lot of other issues that go along with returning earnest money, but that’s it in a nutshell.
+
+If you have any more questions about earnest money or you’re thinking of buying or selling a home in the St. Louis metro area, don’t hesitate to give me a call or send me an email. I’d be happy to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520What%2520you%2520need%2520to%2520know%2520about%2520earnest%2520money.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://aboutstlouishomes.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520What%2520you%2520need%2520to%2520know%2520about%2520earnest%2520money.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What is earnest money? As a buyer, how much do you need and what happens to that sum if the deal terminates?</itunes:subtitle>
+        <itunes:author>Sandie Hea, CRS</itunes:author>
+        <itunes:summary>What is earnest money? As a buyer, how much do you need and what happens to that sum if the deal terminates?</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Louis Metro Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>The Secret to Winning a Bidding War</title>
+        <link>http://aboutstlouishomes.com/the-secret-to-winning-a-bidding-war.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Sandie Hea, CRS</author>
+        <pubDate>2017-11-07 06:57:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520Can%2520an%2520escalation%2520clause%2520win%2520your%2520dream%2520home%253F.mp4</guid>
+        <description>
+
+What is an escalation clause? How does it pertain to you as a homebuyer?
+
+The escalation clause is something that’s written into your contract by your buyer’s agent. It states that you will pay X amount of money (let’s say $500 to $1,000) over the asking price of any other bona fide contract that the seller receives prior to the acceptance of any offers. The escalation goes up to a certain dollar amount.
+
+Let’s say the house you want is $300,000 and you’d be willing to pay $320,000 for it. Rather than just write an offer for $320,000, you would write an offer that’s a little bit over what everyone else wrote. If there are five other offers and the highest one is $305,00, and you said you’d pay as much as $1,000 over any other offer, you’d pay $306,000 for the house. This way, you get the house without having to pay the full $320,000!
+
+“An escalation clause can mean the difference between winning and losing your dream home.”
+
+The escalation clause is a lot more complicated than what I just made it out to be, but it’s one of those things that, if used correctly, can mean the difference between winning the house and losing the house.
+
+I’m an expert when it comes to escalation clauses, and I’d love to help you win your next bid on your next dream home. If you have any questions about this topic or our St. Louis market, don’t hesitate to give me a call or send me an email. I’d be happy to speak with you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520Can%2520an%2520escalation%2520clause%2520win%2520your%2520dream%2520home%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://aboutstlouishomes.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520Can%2520an%2520escalation%2520clause%2520win%2520your%2520dream%2520home%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What is an escalation clause? How does it pertain to you as a homebuyer?</itunes:subtitle>
+        <itunes:author>Sandie Hea, CRS</itunes:author>
+        <itunes:summary>What is an escalation clause? How does it pertain to you as a homebuyer?</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Louis Metro Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>A 3rd Quarter Update for the St. Louis Metro Market</title>
+        <link>http://aboutstlouishomes.com/a-3rd-quarter-update-for-the-st-louis-metro-market.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Sandie Hea, CRS</author>
+        <pubDate>2017-10-20 05:43:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520The%2520latest%2520St.%2520Louis%2520metro%2520market%2520update.mp4</guid>
+        <description>
+
+It’s time for another market update. Today, I want to bring you some information from the third quarter of 2017 in St. Louis’ metro market. This update will include data from St. Louis City, St. Louis County, and Charles County.
+
+St. Louis City saw an uptick of $10,000 in the median sales price this year compared to last.In 2016, there were 1,024 sales in the third quarter. This year, there were 1,034 sales.
+
+In St. Louis County, there were 4,428 sales this year. This is up from 4,340 sales last year. However, median sales price barely changed. Last year it was $190,554. This year, the median sales price for the third quarter was $191,333.
+
+Because of the large amount of new construction in Charles County, their prices have increased quite a bit. In St. Charles County, there were 2,108 sales in 2016, but sales dropped in the third quarter of 2017 to just 2,083.
+
+“My overall feeling about the market is that now is a good time to buy.”
+
+However, the median sales price was up considerably, going up to $217,667 from last year’s $201,250. New construction is largely to thank for this increase in price.
+
+My overall feeling about the market is that now is a good time to buy. Rates are still significantly low, hovering around 4%. External factors are also in our favor since we don’t tend to experience severe weather that could impact our market.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520The%2520latest%2520St.%2520Louis%2520metro%2520market%2520update.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://aboutstlouishomes.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520The%2520latest%2520St.%2520Louis%2520metro%2520market%2520update.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>It’s time for another market update. Today, I want to bring you some information from the third quarter of 2017 in St. Louis’ metro market. This update will include data from St. Louis City, St. Louis County, and Charles County.</itunes:subtitle>
+        <itunes:author>Sandie Hea, CRS</itunes:author>
+        <itunes:summary>It’s time for another market update. Today, I want to bring you some information from the third quarter of 2017 in St. Louis’ metro market. This update will include data from St. Louis City, St. Louis County, and Charles County.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Louis Metro Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>These 3 Inspections Could Save You a Lot of Trouble Later On</title>
+        <link>http://aboutstlouishomes.com/these-3-inspections-could-save-you-a-lot-of-trouble-later-on.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Sandie Hea, CRS</author>
+        <pubDate>2017-09-20 10:37:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%25203%2520home%2520inspections%2520that%2520are%2520well%2520worth%2520it.mp4</guid>
+        <description>
 Today I’m back talking about more home inspections I recommend you get before purchasing a property.
 
-Buying a home? Click here to perform a full home search
-Selling a home? Click here for a FREE Home Price Evaluation
+Buying a home? Click here to perform a full home searchSelling a home? Click here for a FREE Home Price Evaluation
 
 Today we’re back with part two of our coverage on home inspections. Like last time, I’ll be going over a few inspections I think are the most important if you’re buying a new home. Whenever you are about to make a home purchase, you need to know exactly what you’re getting into.
 
@@ -58,18 +309,16 @@ The third inspection I recommend is to have an environmental inspection done. Th
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%25203%2520home%2520inspections%2520that%2520are%2520well%2520worth%2520it.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://aboutstlouishomes.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%25203%2520home%2520inspections%2520that%2520are%2520well%2520worth%2520it.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Today I’m back talking about more home inspections I recommend you get before purchasing a property.
 
 </itunes:subtitle>
-        <itunes:author>Sandie Hea</itunes:author>
+        <itunes:author>Sandie Hea, CRS</itunes:author>
         <itunes:summary>
-
 Today I’m back talking about more home inspections I recommend you get before purchasing a property.
 
 </itunes:summary>
@@ -78,19 +327,15 @@ Today I’m back talking about more home inspections I recommend you get before 
       
       <item>
         <title>5 Common Real Estate Contract Contingencies</title>
-        <link>localhost:4000/5-common-real-estate-contract.html</link>
+        <link>http://aboutstlouishomes.com/5-common-real-estate-contract-contingencies.html</link>
         
-          <category>Real Estate Tips</category>
-        
-        <author>Sandie Hea</author>
+        <author>Sandie Hea, CRS</author>
         <pubDate>2017-09-13 10:08:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520What%2520is%2520a%2520contingency%253F.mp4</guid>
         <description>
-
 Which contingencies should you know about? Here are five of them.
 
-Buying a home? Click here to perform a full home search
-Selling a home? Click here for a FREE Home Price Evaluation
+Buying a home? Click here to perform a full home searchSelling a home? Click here for a FREE Home Price Evaluation
 
 What is a real estate contingency? By definition, it’s a future event or circumstance that is possible but can not be predicted with certainty. There can be quite a few of them included within a real estate contract, as far as buyers are concerned. Here are five of the most common contingencies buyers include in a contract and what they mean:
 
@@ -108,18 +353,16 @@ What is a real estate contingency? By definition, it’s a future event or circu
 
 Real estate transactions are complicated. Leave them in the hands of a professional. If you have any questions for me or any real estate needs I can assist with, I’d love to help you navigate the real estate jungle. Just give me a call or send me an email today. I look forward to hearing from you.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520What%2520is%2520a%2520contingency%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://aboutstlouishomes.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520What%2520is%2520a%2520contingency%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Which contingencies should you know about? Here are five of them.
 
 </itunes:subtitle>
-        <itunes:author>Sandie Hea</itunes:author>
+        <itunes:author>Sandie Hea, CRS</itunes:author>
         <itunes:summary>
-
 Which contingencies should you know about? Here are five of them.
 
 </itunes:summary>
@@ -128,19 +371,17 @@ Which contingencies should you know about? Here are five of them.
       
       <item>
         <title>Which Home Inspections Should You Order?</title>
-        <link>localhost:4000/which-home-inspections-should-you-order.html</link>
+        <link>http://aboutstlouishomes.com/which-home-inspections-should-you-order.html</link>
         
           <category>Home Buyer Tips</category>
         
-        <author>Sandie Hea</author>
+        <author>Sandie Hea, CRS</author>
         <pubDate>2017-08-28 14:22:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520Home%2520inspections%2520part%25201.mp4</guid>
         <description>
-
 What inspections should you have done on the home you’re buying? Here’s a few to get you started.
 
-Buying a home? Click here to perform a full home search
-Selling a home? Click here for a FREE Home Price Evaluation
+Buying a home? Click here to perform a full home searchSelling a home? Click here for a FREE Home Price Evaluation
 
 Why should you have a home inspection when buying a home? Which inspections should you order? The first answer is obvious, but the second is not.
 
@@ -161,17 +402,15 @@ The last inspection I wanted to mention today is the sewer lateral inspection. I
 These are just a few of the many inspections you can choose to have done on a home. Stay tuned for part two, where we’ll cover even more ground. In the meantime, if you have any questions for me at all don’t hesitate to give me a call or send me an email at your convenience. I look forward to hearing from you
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520Home%2520inspections%2520part%25201.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://aboutstlouishomes.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520Home%2520inspections%2520part%25201.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 What inspections should you have done on the home you’re buying? Here’s a few to get you started.
 
 </itunes:subtitle>
-        <itunes:author>Sandie Hea</itunes:author>
+        <itunes:author>Sandie Hea, CRS</itunes:author>
         <itunes:summary>
-
 What inspections should you have done on the home you’re buying? Here’s a few to get you started.
 
 </itunes:summary>
@@ -180,11 +419,11 @@ What inspections should you have done on the home you’re buying? Here’s a fe
       
       <item>
         <title>How To Ensure a Successful Home Sale</title>
-        <link>localhost:4000/how-to-make-sure-youre-hiring-right.html</link>
+        <link>http://aboutstlouishomes.com/how-to-make-sure-youre-hiring-right.html</link>
         
           <category>Home Seller Tips</category>
         
-        <author>Sandie Hea</author>
+        <author>Sandie Hea, CRS</author>
         <pubDate>2017-08-17 11:31:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520How%2520to%2520avoid%2520hiring%2520the%2520wrong%2520agent.mp4</guid>
         <description>
@@ -211,7 +450,7 @@ Being a listing agent is different from being a buyer’s agent. The skills requ
 If you have any other questions or you’re thinking of selling, please give me a call. I would consider it a privilege to be interviewed by you to sell your home. I look forward to speaking with you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520How%2520to%2520avoid%2520hiring%2520the%2520wrong%2520agent.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://aboutstlouishomes.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520How%2520to%2520avoid%2520hiring%2520the%2520wrong%2520agent.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -219,7 +458,7 @@ If you have any other questions or you’re thinking of selling, please give me 
 How do you know if you’re hiring the right agent to sell your home? I’ve got a few things you should consider when choosing your Realtor.
 
 </itunes:subtitle>
-        <itunes:author>Sandie Hea</itunes:author>
+        <itunes:author>Sandie Hea, CRS</itunes:author>
         <itunes:summary>
 
 How do you know if you’re hiring the right agent to sell your home? I’ve got a few things you should consider when choosing your Realtor.
@@ -230,19 +469,17 @@ How do you know if you’re hiring the right agent to sell your home? I’ve got
       
       <item>
         <title>Do You Know the Answers to These Common Appraisal Questions?</title>
-        <link>localhost:4000/do-you-know-answers-to-these-common.html</link>
+        <link>http://aboutstlouishomes.com/do-you-know-the-answers-to-these-common-appraisal-questions.html</link>
         
           <category>Home Seller Tips</category>
         
-        <author>Sandie Hea</author>
+        <author>Sandie Hea, CRS</author>
         <pubDate>2017-08-14 09:56:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520Appraisal%2520questions%2520answered.mp4</guid>
         <description>
-
 Today I’m covering some of the most commonly asked questions I hear about the appraisal process.
 
-Buying a home? Click here to perform a full home search
-Selling a home? Click here for a FREE Home Price Evaluation
+Buying a home? Click here to perform a full home searchSelling a home? Click here for a FREE Home Price Evaluation
 
 Appraisals are a subject about which people often have many questions. Today, I’ll be discussing three of these common questions.
 
@@ -262,31 +499,23 @@ In that case, we get to our third question: “Who gets to see that appraisal?�
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520Appraisal%2520questions%2520answered.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://aboutstlouishomes.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520Appraisal%2520questions%2520answered.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-Today I’m covering some of the most commonly asked questions I hear about the appraisal process.
-
-</itunes:subtitle>
-        <itunes:author>Sandie Hea</itunes:author>
-        <itunes:summary>
-
-Today I’m covering some of the most commonly asked questions I hear about the appraisal process.
-
-</itunes:summary>
+        <itunes:subtitle>Today I’m covering some of the most commonly asked questions I hear about the appraisal process.</itunes:subtitle>
+        <itunes:author>Sandie Hea, CRS</itunes:author>
+        <itunes:summary>Today I’m covering some of the most commonly asked questions I hear about the appraisal process.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Louis Metro Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>3 Tips for Winning a Bidding War</title>
-        <link>localhost:4000/3-ways-to-win-bidding-war.html</link>
+        <link>http://aboutstlouishomes.com/3-ways-to-win-bidding-war.html</link>
         
           <category>Home Buyer Tips</category>
         
-        <author>Sandie Hea</author>
+        <author>Sandie Hea, CRS</author>
         <pubDate>2017-07-20 13:03:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Metro+Area+Real+Estate+3+ways+to+win+a+bidding+war.mp4</guid>
         <description>
@@ -311,7 +540,7 @@ Going to real estate school doesn’t teach you how to write a contract, as I’
 There you have it—my top three tips. If you have any questions about them or any questions about real estate in general, give me a call or send me an email. I look forward to hearing from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Metro+Area+Real+Estate+3+ways+to+win+a+bidding+war.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://aboutstlouishomes.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Metro+Area+Real+Estate+3+ways+to+win+a+bidding+war.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -319,7 +548,7 @@ There you have it—my top three tips. If you have any questions about them or a
 Winning a bidding war isn’t as hard as you think when you’ve got strategies like these.
 
 </itunes:subtitle>
-        <itunes:author>Sandie Hea</itunes:author>
+        <itunes:author>Sandie Hea, CRS</itunes:author>
         <itunes:summary>
 
 Winning a bidding war isn’t as hard as you think when you’ve got strategies like these.
@@ -330,11 +559,11 @@ Winning a bidding war isn’t as hard as you think when you’ve got strategies 
       
       <item>
         <title>What to Look for When Buying a Home</title>
-        <link>localhost:4000/what-to-look-for-in-home.html</link>
+        <link>http://aboutstlouishomes.com/what-to-look-for-in-home.html</link>
         
           <category>Home Buyer Tips</category>
         
-        <author>Sandie Hea</author>
+        <author>Sandie Hea, CRS</author>
         <pubDate>2017-07-05 14:08:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Metro+Area+Real+Estate+What+to+look+for+in+a+home.mp4</guid>
         <description>
@@ -359,7 +588,7 @@ There are lots of ways to protect yourself before you spend money on inspections
 If you have any other questions or you’re looking to buy or sell a home, please give me a call. I’d be happy to help!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Metro+Area+Real+Estate+What+to+look+for+in+a+home.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://aboutstlouishomes.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Metro+Area+Real+Estate+What+to+look+for+in+a+home.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -367,7 +596,7 @@ If you have any other questions or you’re looking to buy or sell a home, pleas
 Today I wanted to spend some time on what to look for when buying a home.
 
 </itunes:subtitle>
-        <itunes:author>Sandie Hea</itunes:author>
+        <itunes:author>Sandie Hea, CRS</itunes:author>
         <itunes:summary>
 
 Today I wanted to spend some time on what to look for when buying a home.
@@ -378,11 +607,11 @@ Today I wanted to spend some time on what to look for when buying a home.
       
       <item>
         <title>6 Month Market Recap for the St. Louis Area</title>
-        <link>localhost:4000/st-louis-metro-area-real-estate-st.html</link>
+        <link>http://aboutstlouishomes.com/st-louis-metro-area-real-estate-st.html</link>
         
           <category>St. Louis Market Update</category>
         
-        <author>Sandie Hea</author>
+        <author>Sandie Hea, CRS</author>
         <pubDate>2017-06-23 10:37:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Metro+Area+Real+Estate+St.+Louis+Area+Market+Update.mp4</guid>
         <description>
@@ -408,7 +637,7 @@ Finally, the median sales price for homes has been up every month for the last s
 If you have any questions or you’re ready to buy or sell a home, please give me a call. I’d be happy to help!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Metro+Area+Real+Estate+St.+Louis+Area+Market+Update.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://aboutstlouishomes.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Metro+Area+Real+Estate+St.+Louis+Area+Market+Update.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -417,7 +646,7 @@ Today I wanted to give you an update on how our market has been doing
 over the last six months.
 
 </itunes:subtitle>
-        <itunes:author>Sandie Hea</itunes:author>
+        <itunes:author>Sandie Hea, CRS</itunes:author>
         <itunes:summary>
 
 Today I wanted to give you an update on how our market has been doing
@@ -429,11 +658,11 @@ over the last six months.
       
       <item>
         <title>BUYING A HOME? Step #1 is ...</title>
-        <link>localhost:4000/this-should-be-your-first-step-when.html</link>
+        <link>http://aboutstlouishomes.com/this-should-be-your-first-step-when.html</link>
         
           <category>Home Buyer Tips</category>
         
-        <author>Sandie Hea</author>
+        <author>Sandie Hea, CRS</author>
         <pubDate>2017-05-30 11:22:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Metro+Area+Real+Estate+BUYING+A+HOME+Step+%231+is+....mp4</guid>
         <description>
@@ -454,7 +683,7 @@ Give me a call or send me an email today and I can connect you with my preferred
 If you have any other questions about the real estate market, don’t hesitate to reach out by phone or email. I would love to hear from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Metro+Area+Real+Estate+BUYING+A+HOME+Step+%231+is+....mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://aboutstlouishomes.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Metro+Area+Real+Estate+BUYING+A+HOME+Step+%231+is+....mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -462,7 +691,7 @@ If you have any other questions about the real estate market, don’t hesitate t
 The first step of the home buying process isn’t looking at homes. It’s figuring out which homes you can actually afford.
 
 </itunes:subtitle>
-        <itunes:author>Sandie Hea</itunes:author>
+        <itunes:author>Sandie Hea, CRS</itunes:author>
         <itunes:summary>
 
 The first step of the home buying process isn’t looking at homes. It’s figuring out which homes you can actually afford.
@@ -473,11 +702,11 @@ The first step of the home buying process isn’t looking at homes. It’s figur
       
       <item>
         <title>This Tip May Save Your Life</title>
-        <link>localhost:4000/st-louis-metro-area-real-estate.html</link>
+        <link>http://aboutstlouishomes.com/st-louis-metro-area-real-estate.html</link>
         
           <category>Expert Advice</category>
         
-        <author>Sandie Hea</author>
+        <author>Sandie Hea, CRS</author>
         <pubDate>2017-04-27 12:25:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Metro+Area+Real+Estate+An+important+smoke+detector+tip.mp4</guid>
         <description>
@@ -500,7 +729,7 @@ Look on the front, back or inside of the unit. Check for the word “Photoelectr
 If you have any questions about this or any other topic relating to your home or real estate, give us a call or send us an email. We would love to hear from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Metro+Area+Real+Estate+An+important+smoke+detector+tip.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://aboutstlouishomes.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Metro+Area+Real+Estate+An+important+smoke+detector+tip.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -508,7 +737,7 @@ If you have any questions about this or any other topic relating to your home or
 I’ve got some important information to share today from the American Society of Home Inspectors. It regards your smoke detectors and what you should do if they are old or outdated.
 
 </itunes:subtitle>
-        <itunes:author>Sandie Hea</itunes:author>
+        <itunes:author>Sandie Hea, CRS</itunes:author>
         <itunes:summary>
 
 I’ve got some important information to share today from the American Society of Home Inspectors. It regards your smoke detectors and what you should do if they are old or outdated.
@@ -519,11 +748,11 @@ I’ve got some important information to share today from the American Society o
       
       <item>
         <title>4 Reasons You Should Overlook Home Decor in Online Photos</title>
-        <link>localhost:4000/st-louis-metro-area-real-estate-dont.html</link>
+        <link>http://aboutstlouishomes.com/st-louis-metro-area-real-estate-dont.html</link>
         
           <category>Home Buyer Tips</category>
         
-        <author>Sandie Hea</author>
+        <author>Sandie Hea, CRS</author>
         <pubDate>2017-03-02 14:41:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Metro+Area+Real+Estate+Don%E2%80%99t+get+caught+up+in+decor.mp4</guid>
         <description>
@@ -548,7 +777,7 @@ When browsing homes online, you should look at photos with a careful eye. Just b
 If you have any other questions, don’t hesitate to give me a call or send me an email. I would love to hear from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Metro+Area+Real+Estate+Don%E2%80%99t+get+caught+up+in+decor.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://aboutstlouishomes.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Metro+Area+Real+Estate+Don%E2%80%99t+get+caught+up+in+decor.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -556,7 +785,7 @@ If you have any other questions, don’t hesitate to give me a call or send me a
 Although it can be tempting to get turned off by bad home decor, I urge you to see past it. Here are four reasons why.
 
 </itunes:subtitle>
-        <itunes:author>Sandie Hea</itunes:author>
+        <itunes:author>Sandie Hea, CRS</itunes:author>
         <itunes:summary>
 
 Although it can be tempting to get turned off by bad home decor, I urge you to see past it. Here are four reasons why.
@@ -567,13 +796,13 @@ Although it can be tempting to get turned off by bad home decor, I urge you to s
       
       <item>
         <title>How Our Buyers Gain Leverage While Also Selling</title>
-        <link>localhost:4000/st-louis-metro-area-real-estate-whats.html</link>
+        <link>http://aboutstlouishomes.com/st-louis-metro-area-real-estate-whats.html</link>
         
           <category>Home Seller Tips</category>
         
           <category>Home Buyer Tips</category>
         
-        <author>Sandie Hea</author>
+        <author>Sandie Hea, CRS</author>
         <pubDate>2017-03-02 14:28:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Metro+Area+Real+Estate+What%E2%80%99s+your+%E2%80%9Cplan+B%E2%80%9D.mp4</guid>
         <description>
@@ -596,7 +825,7 @@ It’s a win-win situation for them because it takes the pressure off of them ha
 I can help you out with buying and selling homes no matter your situation. If you have any questions for me at all, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Metro+Area+Real+Estate+What%E2%80%99s+your+%E2%80%9Cplan+B%E2%80%9D.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://aboutstlouishomes.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Metro+Area+Real+Estate+What%E2%80%99s+your+%E2%80%9Cplan+B%E2%80%9D.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -604,7 +833,7 @@ I can help you out with buying and selling homes no matter your situation. If yo
 Buying and selling at the same time can be tricky. Here’s one way we help make the process easier for our clients.
 
 </itunes:subtitle>
-        <itunes:author>Sandie Hea</itunes:author>
+        <itunes:author>Sandie Hea, CRS</itunes:author>
         <itunes:summary>
 
 Buying and selling at the same time can be tricky. Here’s one way we help make the process easier for our clients.
@@ -615,11 +844,11 @@ Buying and selling at the same time can be tricky. Here’s one way we help make
       
       <item>
         <title>How to Determine the Right Offer to Make</title>
-        <link>localhost:4000/st-louis-metro-area-real-estate-how-to.html</link>
+        <link>http://aboutstlouishomes.com/st-louis-metro-area-real-estate-how-to.html</link>
         
           <category>Home Buyer Tips</category>
         
-        <author>Sandie Hea</author>
+        <author>Sandie Hea, CRS</author>
         <pubDate>2017-03-02 14:08:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Metro+Area+Real+Estate+How+to+make+a+good+offer.mp4</guid>
         <description>
@@ -642,7 +871,7 @@ If you’re going to live in the house for seven or more years, don’t let the 
 If you have any questions for me about this topic or anything else related to real estate, give me a call or send me an email. I would love to hear from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Metro+Area+Real+Estate+How+to+make+a+good+offer.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://aboutstlouishomes.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Metro+Area+Real+Estate+How+to+make+a+good+offer.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -650,7 +879,7 @@ If you have any questions for me about this topic or anything else related to re
 Making an offer on a home is a delicate process. Here’s how you should go about it.
 
 </itunes:subtitle>
-        <itunes:author>Sandie Hea</itunes:author>
+        <itunes:author>Sandie Hea, CRS</itunes:author>
         <itunes:summary>
 
 Making an offer on a home is a delicate process. Here’s how you should go about it.
@@ -661,19 +890,17 @@ Making an offer on a home is a delicate process. Here’s how you should go abou
       
       <item>
         <title>How Accurate Is Your Online Home Search?</title>
-        <link>localhost:4000/st-louis-metro-area-real-estate-are-you.html</link>
+        <link>http://aboutstlouishomes.com/how-accurate-is-your-online-home-search.html</link>
         
           <category>Home Buyer Tips</category>
         
-        <author>Sandie Hea</author>
+        <author>Sandie Hea, CRS</author>
         <pubDate>2017-02-14 15:36:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520Are%2520you%2520seeing%2520all%2520available%2520listings%2520out%2520there%253F.mp4</guid>
         <description>
-
 When it comes to searching for homes, there are a lot of online resources that can serve you well, but you can’t do better than working with an actual real estate agent.
 
-Buying a home? Click here to perform a full home search
-Selling a home? Click here for a FREE Home Price Evaluation
+Buying a home? Click here to perform a full home searchSelling a home? Click here for a FREE Home Price Evaluation
 
 As a homebuyer, how can you be sure that you’re seeing all the available houses out there that are for sale? I know that at least one of you watching the video above or reading this article is searching sites like Homes.com, Remax.com, or Realtor.com, and thinking that if you don’t check each and every website, you will miss out on your dream home.
 
@@ -689,18 +916,16 @@ Today I wanted to talk about three questions that might be on your mind when it 
 
 We don’t want you to be shortchanged—we want to make your home buying experience exceptional. If this isn’t the service you’re getting currently, give me a call and I’d be happy to help. If there’s a video topic you’d like to see, feel free to send me an email. I look forward to hearing from you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520Are%2520you%2520seeing%2520all%2520available%2520listings%2520out%2520there%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://aboutstlouishomes.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.%2520Louis%2520Metro%2520Area%2520Real%2520Estate-%2520Are%2520you%2520seeing%2520all%2520available%2520listings%2520out%2520there%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 When it comes to searching for homes, there are a lot of online resources that can serve you well, but you can’t do better than working with an actual real estate agent.
 
 </itunes:subtitle>
-        <itunes:author>Sandie Hea</itunes:author>
+        <itunes:author>Sandie Hea, CRS</itunes:author>
         <itunes:summary>
-
 When it comes to searching for homes, there are a lot of online resources that can serve you well, but you can’t do better than working with an actual real estate agent.
 
 </itunes:summary>
@@ -709,11 +934,11 @@ When it comes to searching for homes, there are a lot of online resources that c
       
       <item>
         <title>5 Things Real Estate Agents Are Not Taught</title>
-        <link>localhost:4000/5-things-real-estate-agents-are-not.html</link>
+        <link>http://aboutstlouishomes.com/5-things-real-estate-agents-are-not.html</link>
         
           <category>Expert Advice</category>
         
-        <author>Sandie Hea</author>
+        <author>Sandie Hea, CRS</author>
         <pubDate>2016-12-22 14:36:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Metro+Area+Real+Estate+The+things+they+don%E2%80%99t+teach+in+real+estate+school.mp4</guid>
         <description>
@@ -738,7 +963,7 @@ There are differences between people who have a real estate license and a Realto
 Thanks for stopping by today. If you have any questions or comments, please feel free to give me a call or send me an email. I’d love to hear from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Metro+Area+Real+Estate+The+things+they+don%E2%80%99t+teach+in+real+estate+school.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://aboutstlouishomes.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Metro+Area+Real+Estate+The+things+they+don%E2%80%99t+teach+in+real+estate+school.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -746,7 +971,7 @@ Thanks for stopping by today. If you have any questions or comments, please feel
 People seem to think that all real estate agents are the same—we train in real estate school and get our license. There are plenty of key things, however, that they don’t teach in school.
 
 </itunes:subtitle>
-        <itunes:author>Sandie Hea</itunes:author>
+        <itunes:author>Sandie Hea, CRS</itunes:author>
         <itunes:summary>
 
 People seem to think that all real estate agents are the same—we train in real estate school and get our license. There are plenty of key things, however, that they don’t teach in school.
@@ -757,11 +982,11 @@ People seem to think that all real estate agents are the same—we train in real
       
       <item>
         <title>5 Reasons You Should Buy a Home During the Holidays</title>
-        <link>localhost:4000/st-louis-metro-area-real-estate-what.html</link>
+        <link>http://aboutstlouishomes.com/st-louis-metro-area-real-estate-what.html</link>
         
           <category>Home Buyer Tips</category>
         
-        <author>Sandie Hea</author>
+        <author>Sandie Hea, CRS</author>
         <pubDate>2016-11-30 16:28:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Metro+Area+Real+Estate+What+makes+now+a+great+time+to+buy.mp4</guid>
         <description>
@@ -788,7 +1013,7 @@ The holidays are coming, but if you’re a home buyer, you shouldn’t pull back
 If you need help buying or selling a home or there is a question I can answer for you in an upcoming video, please feel free to call me or send me an email. I look forward to hearing from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Metro+Area+Real+Estate+What+makes+now+a+great+time+to+buy.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://aboutstlouishomes.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Metro+Area+Real+Estate+What+makes+now+a+great+time+to+buy.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -796,7 +1021,7 @@ If you need help buying or selling a home or there is a question I can answer fo
 If you’re a home buyer thinking you should pull back because the holidays are coming, don’t. The holidays are a great time to buy a home, for more reasons than you might think.
 
 </itunes:subtitle>
-        <itunes:author>Sandie Hea</itunes:author>
+        <itunes:author>Sandie Hea, CRS</itunes:author>
         <itunes:summary>
 
 If you’re a home buyer thinking you should pull back because the holidays are coming, don’t. The holidays are a great time to buy a home, for more reasons than you might think.
@@ -807,11 +1032,11 @@ If you’re a home buyer thinking you should pull back because the holidays are 
       
       <item>
         <title>How Do Short Sales Work?</title>
-        <link>localhost:4000/how-do-short-sales-work.html</link>
+        <link>http://aboutstlouishomes.com/how-do-short-sales-work.html</link>
         
           <category>Real Estate Agent Facts</category>
         
-        <author>Sandie Hea</author>
+        <author>Sandie Hea, CRS</author>
         <pubDate>2016-10-01 16:31:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Metro+Area+Real+Estate+How+do+short+sales+work.mp4</guid>
         <description>
@@ -836,7 +1061,7 @@ As a seller, a short sale is preferable to a foreclosure. It will ding your cred
 Short sales are a complex subject and something that can’t be covered in a single blog post. If you have any questions for me, don’t hesitate to give me a call or send me an email. I look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Metro+Area+Real+Estate+How+do+short+sales+work.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://aboutstlouishomes.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Metro+Area+Real+Estate+How+do+short+sales+work.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -844,7 +1069,7 @@ Short sales are a complex subject and something that can’t be covered in a sin
 Short sales are a great way to get a good deal on a home purchase. However, this process doesn’t come without its own set of unique challenges.
 
 </itunes:subtitle>
-        <itunes:author>Sandie Hea</itunes:author>
+        <itunes:author>Sandie Hea, CRS</itunes:author>
         <itunes:summary>
 
 Short sales are a great way to get a good deal on a home purchase. However, this process doesn’t come without its own set of unique challenges.
@@ -855,11 +1080,11 @@ Short sales are a great way to get a good deal on a home purchase. However, this
       
       <item>
         <title>Close in on the Real Truth About Open Houses</title>
-        <link>localhost:4000/is-open-house-necessary.html</link>
+        <link>http://aboutstlouishomes.com/is-open-house-necessary.html</link>
         
           <category>Open House</category>
         
-        <author>Sandie Hea</author>
+        <author>Sandie Hea, CRS</author>
         <pubDate>2016-06-24 11:11:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Real+Estate+The+truth+about+open+houses.mp4</guid>
         <description>
@@ -878,7 +1103,7 @@ There are more effective ways of exposing your home to multitudes of prospective
 The fact of the matter is that open houses simply aren’t necessary to sell your home. Internet marketing has taken over that aspect of the real estate industry. If you’d like to know how we market your home to thousands of qualified buyers, please contact me.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Real+Estate+The+truth+about+open+houses.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://aboutstlouishomes.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Real+Estate+The+truth+about+open+houses.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -886,7 +1111,7 @@ The fact of the matter is that open houses simply aren’t necessary to sell you
 What most real estate agents don’t want you to know, or won’t admit, is that open houses are not an effective means of selling your home. The internet is now a 24/7 virtual open house and has replaced the necessity of opening your personal residence to uninvited strangers. Many agents will use your house to find new clients rather than focus on selling the house they are standing in for three hours.
 
 </itunes:subtitle>
-        <itunes:author>Sandie Hea</itunes:author>
+        <itunes:author>Sandie Hea, CRS</itunes:author>
         <itunes:summary>
 
 What most real estate agents don’t want you to know, or won’t admit, is that open houses are not an effective means of selling your home. The internet is now a 24/7 virtual open house and has replaced the necessity of opening your personal residence to uninvited strangers. Many agents will use your house to find new clients rather than focus on selling the house they are standing in for three hours.
@@ -897,11 +1122,11 @@ What most real estate agents don’t want you to know, or won’t admit, is that
       
       <item>
         <title>Why Your Home Needs to Be Certified Pre-Owned</title>
-        <link>localhost:4000/why-your-home-needs-to-be-certified-pre.html</link>
+        <link>http://aboutstlouishomes.com/why-your-home-needs-to-be-certified-pre.html</link>
         
           <category>Certified Pre-Owned</category>
         
-        <author>Sandie Hea</author>
+        <author>Sandie Hea, CRS</author>
         <pubDate>2016-05-13 10:32:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Real+Estate+Sell+your+certified+pre-owned+home.mp4</guid>
         <description>
@@ -930,7 +1155,7 @@ Luckily, the seller was able to stay home to meet with all of these people, but 
 If you have any questions, give me a call or send me an email. I would be happy to help you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Real+Estate+Sell+your+certified+pre-owned+home.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://aboutstlouishomes.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Sandie+Hea/St.+Louis+Real+Estate+Sell+your+certified+pre-owned+home.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -938,7 +1163,7 @@ If you have any questions, give me a call or send me an email. I would be happy 
 You’ve all been to car dealerships and seen certified pre-owned vehicles. It’s one thing to look beautiful on the outside and have clean carpets, new tires, belts, and hoses, but that certification makes you feel much better about purchasing that car.
 
 </itunes:subtitle>
-        <itunes:author>Sandie Hea</itunes:author>
+        <itunes:author>Sandie Hea, CRS</itunes:author>
         <itunes:summary>
 
 You’ve all been to car dealerships and seen certified pre-owned vehicles. It’s one thing to look beautiful on the outside and have clean carpets, new tires, belts, and hoses, but that certification makes you feel much better about purchasing that car.
@@ -947,8 +1172,8 @@ You’ve all been to car dealerships and seen certified pre-owned vehicles. It�
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Louis Metro Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
-    <copyright>Sandie Hea</copyright>
-    <media:credit role="author">Sandie Hea</media:credit>
+    <copyright>Sandie Hea, CRS</copyright>
+    <media:credit role="author">Sandie Hea, CRS</media:credit>
     <media:rating>nonadult</media:rating>
     <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from RE/MAX Results - your professional St. Louis Metro Area Real Estate Agents.</media:description>
   </channel>
