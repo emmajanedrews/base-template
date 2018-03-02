@@ -3,7 +3,7 @@ layout: hiring
 title: Hiring Process
 permalink: /hiring-process/
 ---
-<div class="values">
+<div class="values" id="recruiting">
 
 <h1>DFT Training Program</h1>
 <hr>
