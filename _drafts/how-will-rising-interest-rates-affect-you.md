@@ -18,7 +18,7 @@ youtube_code: yytTm_sOaUQ
 
 {% include youtube.html %}
 
-Even though the market is improving, your financial future depends on you paying attention to rising interest rates.
+<center>Even though the market is improving, your financial future depends on you paying attention to rising interest rates.</center>
 
 Last time, I discussed the low inventory in the marketplace, and I know many of you had questions pertaining to how that would affect us on the buying side. Today, I’ll be continuing that discussion by addressing something you should be thinking about if you want to purchase a home in today’s market: **interest rates.**
 
