@@ -12,7 +12,8 @@ excerpt: >-
   plan because I believe in helping agents reach their highest levels of
   success. To learn more about this plan and how it can benefit you, watch our
   latest video.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Frank+Gray/Compensation+Plan+Edited.mp4
 pullquote: My passion is helping agents achieve any level of aspiration.
 enclosure_type: video/mp4
 enclosure_time:
