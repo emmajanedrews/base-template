@@ -20,7 +20,7 @@ youtube_code: tj_CpfnD_Fk
 
 {% include youtube.html %}
 
-The real estate industry has changed dramatically. Today, I’d like to explain how we’ve stayed up-to-date to provide quality service for our clients.
+<center>The real estate industry has changed dramatically. Today, I’d like to explain how we’ve stayed up-to-date to provide quality service for our clients.</center>
 
 The real estate industry has changed dramatically in the last couple of decades. In the past, buyers had to search for properties by driving around to look for signs or by visiting a Realtor who had a list of available homes.&nbsp;
 
