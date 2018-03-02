@@ -21,11 +21,11 @@ youtube_code: _x4AoGJPbMQ
 
 Where is your career path heading?
 
-If you want a career in real estate, you should know that **there’s a difference between a job and a career in this business.**If where you really make your money isn’t in real estate, then you only have a job in real estate. If you’re a teacher, fireman, doctor, lawyer, etc., and you also do real estate, then it’s just a side job, not a career.
+If you want a career in real estate, you should know that **there’s a difference between a job and a career in this business.&nbsp;**If where you really make your money isn’t in real estate, then your work in this industry is just a job. If you’re a teacher, fireman, doctor, lawyer, etc., and you also do real estate, then it’s just a side job—not a career.
 
 {% include pullquote.html %}
 
-To pursue a career in real estate, the first step I recommend is **sitting down and mapping out how you want that career to look.**Plan out your short-term and long-term goals and add numbers to those goals--write down how many units you want to sell, what you want your commission to be, etc.
+To pursue a career in real estate, the first step I recommend is **sitting down and mapping out how you want that career to look.&nbsp;**Plan out your short-term and long-term goals and add numbers to those goals—write down how many units you want to sell, what you want your commission to be, etc.
 
 No one has ever conquered the world without a plan. If you can’t make a plan, you’re not going to have a successful real estate career.
 
