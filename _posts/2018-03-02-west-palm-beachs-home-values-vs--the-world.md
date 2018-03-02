@@ -11,7 +11,8 @@ excerpt: >-
   out there, and I’d like to explore how Palm Beach real estate compares to
   other parts of it. To find out how our home values stack up against the rest
   of the world’s, watch my latest video.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Videos/2018/Palm+Beach+Vs.+The+World+%257C+Palm+Beach+Real+Estate.mp4
 pullquote: The median price per square foot in West Palm Beach is $240.33.
 enclosure_type: video/mp4
 enclosure_time:
