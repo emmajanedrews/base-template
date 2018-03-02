@@ -6,7 +6,7 @@ permalink: /hiring-process/
 <div class="values">
 
 <div class="row">
-  <h1>DFT Hiring Process 2018</h1>
+  <h1>DFT Hiring Process</h1>
   <hr>
   <img src="/img/hiring.jpg" class="half-image"><br>
   <ul class="hiring">
@@ -24,7 +24,7 @@ permalink: /hiring-process/
 </div>
 
 <div class="row">
-  <h1>DFT Candidate Desired Qualification</h1>
+  <h1>Desired Qualification</h1>
   <hr>
   <img src="/img/qualifications.jpg" class="half-image"><br>
   <ul class="hiring">
@@ -39,7 +39,7 @@ permalink: /hiring-process/
   </ul>
 </div>
 
-<h1>DFT Training Program | 2018</h1>
+<h1>DFT Training Program</h1>
 <hr>
 <div class="training">
 <p>DFT provides an in-house, hands-on training program for all agents that join our team. </p>
@@ -66,4 +66,13 @@ permalink: /hiring-process/
 
 <p>Our start dates are the 1st and the 15th of the month; if this day falls on a weekend or a company Holiday, it will move to the following day. </p>
 </div>
+
+<div class="video-md">
+<iframe src="https://player.vimeo.com/video/256984753" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/256984753">Recruiting Website - Christina Intro - 2018</a> from <a href="https://vimeo.com/user65837239">Dave Friedman</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+</div>
+
+
+<div class="whitespace">  </div>
+
 </div>
