@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Best ROI Home Improvement Projects
-date: 2018-03-01 17:01:28
+date: 2018-03-01 17:01:00
 tags:
   - Real Estate
 excerpt: >-
@@ -12,7 +12,7 @@ pullquote: Kitchen remodels bring the highest return.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/joe-desane-roi-youtube--2.jpg
+youtube_alternate_image: /uploads/joe-desane-roi-youtube--4.jpg
 youtube_code: 'https://youtu.be/apxHmLr4sVo'
 ---
 
@@ -24,7 +24,7 @@ Today I have three different renovations that will provide the best possible ret
 
 {% include pullquote.html %}
 
-**2. Bathroom remodel.** A thorough bathroom remodeling project can cost thousands, but it’s worth it. It will pay for itself and give you an additional 80% return as well.&nbsp;
+**2. Bathroom remodel.** A thorough bathroom remodeling project can cost thousands, but it’s worth it. It will pay for itself and give you an additional 80% return as well.
 
 **3. Deck or patio upgrades.** These can cost anywhere from a few hundred to tens of thousands of dollars, depending on the size and upgrade. You can expect around an 80% return for this kind of project as well.
 
