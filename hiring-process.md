@@ -35,7 +35,7 @@ permalink: /hiring-process/
 
 <div class="photo-cta">
   <img src="/img/cta-images/join_our_team_ad.png" class="photo-full-cta"/>
-  <div class="cta-button-ad"><a href="/join">Apply Now   <i class="fa fa-angle-double-right"></i></a></div>
+  <div class="cta-button-ad"><a href="https://dave-friedman-team.breezy.hr/" target="_blank">Apply Now   <i class="fa fa-angle-double-right"></i></a></div>
 </div>
 
 <div class="video-md">

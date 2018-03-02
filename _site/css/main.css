@@ -2854,7 +2854,9 @@ form select {
   margin-bottom: 2rem; }
 
 .values {
-  text-align: center; }
+  text-align: center;
+  width: 75%;
+  margin-left: 13%; }
   .values h1 {
     font-weight: bold;
     color: black;
