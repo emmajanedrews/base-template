@@ -29,10 +29,9 @@ Most agents just can’t hang in there long enough to wait for another commissio
 
 If you’re lying awake at night wondering where your next deal is coming from, what can you do to turn things around and succeed in this business?
 
-I’m Patrick O’Sullivan, and I’ve been where you are right now. That’s why I want to help you.** I started out as a single agent, and I learned a system that got me 20 closings in my first year in real estate.** My second year, I closed 40 deals, and I have closed over 40 transactions every year after that. I decided to build a team and teach other agents my system. I hired a new agent who wanted to sell real estate part-time and helped him close 12 deals and gross $60,000 in his first year.
+I’m Patrick O’Sullivan, and I’ve been where you are right now. That’s why I want to help you. **I started out as a single agent, and I learned a system that got me 20 closings in my first year in real estate.** My second year, I closed 40 deals, and I have closed over 40 transactions every year after that. I decided to build a team and teach other agents my system. I hired a new agent who wanted to sell real estate part-time and helped him close 12 deals and gross $60,000 in his first year.
 
-
-12 deals and gross $60,000 in his first year.At Cap Core Real Estate, we are a cloud-based brokerage that offers all of the broker support, mentoring, systems, and leads that you need to be a successful real estate agent.  **Whether you are interested in residential real estate, commercial real estate, or investment properties, we will be able to educate you about everything you need to know.**
+<span class="bold-italic">12 deals and gross $60,000 in his first year.</span> At Cap Core Real Estate, we are a cloud-based brokerage that offers all of the broker support, mentoring, systems, and leads that you need to be a successful real estate agent.  **Whether you are interested in residential real estate, commercial real estate, or investment properties, we will be able to educate you about everything you need to know.**
 
 With our team you get: Real Geeks CRM valued at $200/mo, 30 leads a month valued at $750/mo, mentorship and broker support valued at $5,000/mo, an inside sales department valued at $1,000/mo, company training through webinars and in-person, a transaction coordinator for every transaction, free use of company signs and Supra boxes, and the support of three real estate professionals who have 35 years of experience combined.
 
