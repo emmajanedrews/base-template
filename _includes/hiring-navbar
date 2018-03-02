@@ -8,14 +8,10 @@
 
     <div id="value-navbar">
         <div class="row value-list">
-          <a href="#top" class="team-member">Core Values</a> |
+          <a href="#top" class="team-member">DFT Hiring Process</a> |
 
-          <a href="#A2" class="team-member">Compensation</a> |
+          <a href="#A2" class="team-member">Desired Qualifications</a> |
 
-          <a href="#A3" class="team-member">Value Proposition</a> |
-
-          <a href="#A4" class="team-member">Career Track</a> |
-
-          <a href="#A5" class="team-member">First 100 Days</a>
+          <a href="#A3" class="team-member">DFT Training Program</a>
       </div>
     </nav>

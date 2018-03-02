@@ -1233,7 +1233,8 @@ html[xmlns] .flexslider .slides {
   margin-left: 15%; }
 
 .photo-full-cta {
-  width: 70%; }
+  width: 70%;
+  margin: 2rem 0; }
 
 .cta-button {
   position: absolute;
@@ -1265,7 +1266,7 @@ html[xmlns] .flexslider .slides {
 
 .cta-button-ad {
   position: absolute;
-  bottom: 25px;
+  bottom: 25%;
   left: 25%;
   -webkit-box-pack: center;
       -ms-flex-pack: center;

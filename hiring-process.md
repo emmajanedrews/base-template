@@ -1,43 +1,9 @@
 ---
-layout: custom
+layout: hiring
 title: Hiring Process
 permalink: /hiring-process/
 ---
 <div class="values">
-
-<div class="row">
-  <h1>DFT Hiring Process</h1>
-  <hr>
-  <img src="/img/hiring.jpg" class="half-image"><br>
-  <ul class="hiring">
-    <li>Step 1: Submit Your Application</li>
-    <li>Step 2: Complete DISC Assessment</li>
-    <li>Step 3: One-Way Video Interview</li>
-    <li>Step 4: Keller Personality Assessment</li>
-    <li>Step 5: Live Interview #1</li>
-    <li>Step 6: Live Interview #2</li>
-    <li>Step 7: Group Interview </li>
-    <li>Step 8: Reference Check</li>
-    <li>Step 9: Final Team Review & Decision</li>
-    <li>Step 10: Expectations & Offer Meeting</li>
-  </ul>
-</div>
-
-<div class="row">
-  <h1>Desired Qualification</h1>
-  <hr>
-  <img src="/img/qualifications.jpg" class="half-image"><br>
-  <ul class="hiring">
-    <li>Must be a U.S. Citizen</li>
-    <li>You reside in South Carolina or willing to relocate </li>
-    <li>Able to commute to our Mt. Pleasant Office</li>
-    <li>Reliable Car </li>
-    <li>Driver’s License </li>
-    <li>South Carolina Real Estate License (preferred)</li>
-    <li>Available M-F 7amEST-10amEST for Prospecting</li>
-    <li>Available Thursday’s 4pmEST-6pmEST for Prospecting </li>
-  </ul>
-</div>
 
 <h1>DFT Training Program</h1>
 <hr>
@@ -65,6 +31,11 @@ permalink: /hiring-process/
 <p>You are paid $2,500 per month during this training period. Once out of the training period, you will be 100% commission. </p>
 
 <p>Our start dates are the 1st and the 15th of the month; if this day falls on a weekend or a company Holiday, it will move to the following day. </p>
+</div>
+
+<div class="photo-cta">
+  <img src="/img/cta-images/join_our_team_ad.png" class="photo-full-cta"/>
+  <div class="cta-button-ad"><a href="/join">Apply Now   <i class="fa fa-angle-double-right"></i></a></div>
 </div>
 
 <div class="video-md">
