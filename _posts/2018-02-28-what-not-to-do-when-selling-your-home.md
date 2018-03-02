@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/jeremy2.jpg
-youtube_code: i4vCglfK9VM
+youtube_code: p6MltHABlvo
 ---
 
 {% include youtube.html %}
