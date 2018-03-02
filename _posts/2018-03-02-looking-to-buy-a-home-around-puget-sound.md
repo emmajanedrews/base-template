@@ -18,4 +18,4 @@ youtube_code: '-gKo6Hjg71A'
 
 {% include youtube.html %}
 
-Looking to buy a home around Puget Sound? I'm a local real estate agent who can show you a home quickly- call me at 425-420-4887 or send me an email. You can search every home on the MLS just like I do at the link below. I'm fast, accessible and will help you neogitate a lower price. If you need to sell you Puget Sound home, I'll let you know what price you'll get today.&nbsp;
+Looking to buy a home around Puget Sound? I'm a local real estate agent who can show you a home quickly- call me at 425-420-4887 or send me an email. You can search every home on the MLS just like I do at the link below. I'm fast, accessible and will help you neogitate a lower price. If you need to sell you Puget Sound home, I'll let you know what price you'll get today.
