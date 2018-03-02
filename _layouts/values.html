@@ -14,16 +14,24 @@
 			</div>
 		</div>
 		{% include page-header.html %}
+
+		<div class="row">
+			<div class="col-lg-7 col-md-7 col-lg-offset-1">
+				{% include core-values.html %}
+			</div>
+
+		<!-- Sidebar Content // Hidden on mobile -->
+
+		<div class="whitespace">
+			<div class="col-md-5 col-lg-3 hidden-sm hidden-xs sidebar">
+				{% include cta-sidebar.html %}
+			</div>
+		</div>
+		</div>
 		<div class="container-fluid" id="recruit">
-
-						<div class="col-lg-10 col-lg-offset-1">
 							{{ content }}
-						</div>
+		</div>
 
-					<!-- Sidebar Content // Hidden on mobile -->
-					</div>
-
-					</div>
 					{% include footer.html %}
 		  </body>
 		</html>

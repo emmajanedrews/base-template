@@ -1229,6 +1229,10 @@ html[xmlns] .flexslider .slides {
   margin-bottom: 20px; }
 
 .photo-cta-container {
+  width: 70%;
+  margin-left: 15%; }
+
+.photo-full-cta {
   width: 70%; }
 
 .cta-button {
@@ -2862,6 +2866,12 @@ form select {
     list-style: none; }
   .values p {
     font-size: 18px; }
+
+#core-value-header {
+  font-weight: bold;
+  color: black;
+  text-align: center;
+  text-transform: uppercase; }
 
 #hiring {
   width: 90%;

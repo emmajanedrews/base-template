@@ -4,86 +4,8 @@ title: Our Values
 permalink: /values/
 ---
 
-<div class="values">
-
-<h1>Core Values</h1>
-<div class="core-value-section">
-<hr>
-
-<div class="core-value">
-We Hustle Hard & Work Hard.
-</div>
-<div class="value-quote">
-"Things may come to those who wait, but only the things left by those who hustle."
-<br><span class="value-author">
-  -Abraham Lincoln
-</span>
-</div>
-<hr>
-
-<div class="core-value">
-We Embrace Accountability Coachability, & Discipline.
-</div>
-<div class="value-quote">
-"Discipline is the bridge between goals and accomplishments."
-<br><span class="value-author">
-  -Jim Rohn
-</span>
-</div>
-<hr>
-
-<div class="core-value">
-We exude boundless positive energy, passion & enthusiasm.
-</div>
-<div class="value-quote">
-"Things turn out best for the people who make the best of the way things turn out."
-<br><span class="value-author">
-  -John Wooden
-</span>
-</div>
-<hr>
-
-
-<div class="core-value">
-We have a growth mindset.
-</div>
-<div class="value-quote">
-"Growth is the great separator between those who succeed and those who do not. When I see a person beginning to separate themselves from the pack, it's almost always due to personal growth."
-<br><span class="value-author">
-  -John Maxwell
-</span>
-</div>
-<hr>
-
-
-<div class="core-value">
-We are a driven and committed team player.
-</div>
-<div class="value-quote">
-"Individual commitment to a group effort - that is what makes a team work, a company work, a civilization work."
-<br><span class="value-author">
-  -Vince Lombardi
-</span>
-</div>
-<hr>
-
-
-<div class="core-value">
-We have character & integrity.
-</div>
-<div class="value-quote">
-"Have the courage to say no. Have the courage to face the truth. Do the right thing because it is right. These are the magic keys to living your life with integrity."
-<br><span class="value-author"><a name="A2" class="a-name"></a>
-  -W. Clement Stone
-</span>
-</div>
-<hr>
-
-
-</div>
-
+<div class="values" id="recruit">
 <br>
-
 <div class="compensation">
 <h1>8 Types of Compensation<br>in Real Estate</h1>
 <hr>
@@ -129,7 +51,7 @@ We have the organized processes, systems, scripts, experience, and leadership th
 
 
 <div class="photo-cta">
-  <img src="/img/cta-images/join_our_team_ad.png" class="photo-cta-container"/>
+  <img src="/img/cta-images/join_our_team_ad.png" class="photo-full-cta"/>
   <div class="cta-button-ad"><a href="/join">Apply Now   <i class="fa fa-angle-double-right"></i></a></div>
 </div>
 
