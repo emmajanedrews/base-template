@@ -15,7 +15,7 @@ client:
   brand: Keller Williams Milton Keynes
   brokerage: Keller Williams
   address: 16 Berkeley Street, Mayfair London, W1J 8DZ
-  address_type: Keller Williams Prime Properties
+  address_type: Keller Williams Prime Propertiesc
   address2: Suite 11, The Tannery, Kirktstall Road Leeds, LS3 1HS
   address2_type: Keller Williams Leeds
   phone: 01480 278174
@@ -78,7 +78,7 @@ socials:
   podcast_url:
 
 podcast:
-  title: -- MARKET -- Real Estate Careers and Training Podcast with Ben Taylor
+  title: -- MARKET -- Real Estate Careers, Training and Development Podcast with Ben Taylor
   categories: Education
   image: /img/podcast.jpg
   subtitle: Boost your Career with Veteran Real Estate Agent Ben Taylor
@@ -90,7 +90,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Careers and Training Video Blog
+  hero_text: -- MARKET -- Estate Agency Careers, Training and Development Video Library
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
