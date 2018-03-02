@@ -19,7 +19,7 @@ youtube_code: RWsOplb62oE
 
 {% include youtube.html %}
 
-<center><em>As has been the case for a while now, our market is currently experiencing high demand and very low supply. Today, I&rsquo;ll be going over how buyers and sellers can navigate these market conditions.</em></center>
+<center><em>Our market is currently experiencing high demand and very low supply. Today, I&rsquo;ll be going over how buyers and sellers can navigate these market conditions.</em></center>
 
 <center>&nbsp;</center>
 
