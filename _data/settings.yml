@@ -1,51 +1,51 @@
 audit_header: false
 title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
 description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: Coming Soon Homes
+    url: https://comingsoonhomestriangle.com/
 
 emma:
   lightbox:
   form:
 
 client:
-  name:
+  name: Marti Hampton
   title:
   license_number:
   about_markdown: |
-
+    Based in Raleigh, North Carolina, Marti and her team are the #3 Ranked Residential RE/MAX Real Estate Agent in the US. Plus rated the #1 team in the Carolinas for re-sale homes! With over 30 years of residential real estate experience, Marti has the knowledge and tools needed to make every buyer and seller transaction stress free and fun! Contact The Marti Hampton Team for real estate in Wake or Johnston county!
   market:
-  brand:
-  brokerage:
-  address:
-  phone:
+  brand: The Marti Hampton Team
+  brokerage: RE/MAX One Realty
+  address: 100 Lynn Rd Raleigh, North Carolina
+  phone: 919-232-9242
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: marti@martihampton.com
+  url: https://martihampton.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: https://www.martihampton.com/home-value
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: https://homes.martihampton.com/search
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: https://www.martihampton.com/home-value
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: https://homes.martihampton.com/search
 
 lender:
   show_section: false
@@ -61,13 +61,13 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
+  facebook_url: https://www.facebook.com/TeamMarti
   linkedin_url:
   gplus_url:
-  youtube_url:
-  twitter_url:
+  youtube_url: https://www.youtube.com/channel/UC5KyxE25cxS6p4pxPHXxHrw
+  twitter_url: twitter.com/martihampton
   instagram_url:
-  pinterest_url:
+  pinterest_url: https://www.pinterest.com/martihampton/
   zillow_url:
   trulia_url:
   yelp_url:
@@ -91,8 +91,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#903E72'
+  theme_color: '#222222'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
