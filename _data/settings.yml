@@ -21,7 +21,7 @@ client:
   phone2:
   phone2_type:
   email: Info@donwilliamsgroup.com
-  url: 'http://www.finddelawarehomes.com'
+  url: 'https://www.viewdelawarehomes.com/'
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'https://www.viewdelawarehomes.com/homevalue/value'
