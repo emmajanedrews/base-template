@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Don’t tell the seller how much you love the home unless you want to pay extra
   for it.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Heidi+Phong/2018/Sacramento+Real+Estate-+Never+Say+These+4+Things+When+Looking+at+a+Home.mp4
 pullquote: >-
   Don’t tell the seller how much you love the home unless you want to pay extra
   for it.
@@ -15,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/kI3NIkU27co'
+youtube_code: TuTySxG2dEs
 ---
 
 {% include youtube.html %}
@@ -24,7 +25,7 @@ If you are a buyer, there are four things that you should never say during a sho
 
 **1. Never say that this is your dream home.** It doesn’t matter how gorgeous the house is or how ugly the house is; you never want to say that you love the home, especially if the seller or seller’s agent is present. You might think that making this kind of comment would make the seller want you to get the home. However, once they know you are in love with the home, they will want to mark up the price. They will use your love for the home as leverage and maybe even make you overpay for the property, so make sure that you leave your feedback and comments with your Realtor.
 
-**2. Never tell a seller that you can afford their home.**Once they know you can afford it, they will try to make you go higher. Now, there’s no room for negotiation for your buyer’s agent. The negotiation process will be more challenging, and you may end up paying more for the home.
+**2. Never tell a seller that you can afford their home.&nbsp;**Once they know you can afford it, they will try to make you go higher. Now, there’s no room for negotiation for your buyer’s agent. The negotiation process will be more challenging, and you may end up paying more for the home.
 
 {% include pullquote.html %}
 
