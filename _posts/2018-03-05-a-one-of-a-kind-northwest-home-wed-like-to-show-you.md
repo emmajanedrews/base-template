@@ -33,7 +33,7 @@ This is a remodeled modern home with old-world historic details. By entering thr
 
 {% include pullquote.html %}
 
-Currently, it’s had over $50,000 worth of updates just in the last six months, in addition to the beautiful remodeled kitchen and bathrooms. The master suite and a second bedroom can be found on the main level, which showcases those beautiful floor-to-ceiling brick walls. The daylight lower level below that offers wine room storage, a dumb waiter, wood storage, a huge family room with a separate entrance, and a second master suite or separate apartment that could function as an additional dwelling unit or a possible nanny suite.
+Currently, it’s had over $50,000 worth of updates just in the last six months, in addition to the beautiful remodeled kitchen and bathrooms. The master suite and a second bedroom can be found on the main level, which showcases those beautiful floor-to-ceiling brick walls. The daylight lower level below that offers wine room storage, a dumbwaiter, wood storage, a huge family room with a separate entrance, and a second master suite or separate apartment that could function as an additional dwelling unit or a possible nanny suite.
 
 Once you fall in love with this amazing home, you can step outside and find yourself surrounded by one of Portland's best neighborhoods. It sits in close proximity to fabulous cafes, restaurants, walking trails, and shops—not to mention some of the top-rated schools in Portland.\*\*This home does not disappoint.
 
