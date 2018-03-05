@@ -26,7 +26,7 @@ youtube_code: tj_CpfnD_Fk
 
 The real estate industry has changed dramatically in the last couple of decades. In the past, buyers had to search for properties by driving around to look for signs or by visiting a Realtor who had a list of available homes.&nbsp;
 
-**These days, buyers can go online and access tens of thousands of property listings.** The role of a Realtor now more focused on guiding buyers through the real estate process than it is about making them aware of available homes.&nbsp;
+**These days, buyers can go online and access tens of thousands of property listings.** The role of a Realtor is now more focused on guiding buyers through the real estate process than it is about making them aware of available homes.&nbsp;
 
 Today’s Realtors are responsible for telling buyers which listings provide a good deal, whether certain neighborhoods will fit their needs, and additional information about the homes a buyer is looking at.
 
