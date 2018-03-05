@@ -26,7 +26,7 @@ youtube_code: pTSdB-AVqRg
 
 A lot of people have been asking me lately about the recent tax changes and whether or not the change in the mortgage interest rate deduction is going to tank the real estate market or not.
 
-The change in the deduction was quite simple. Anybody with a mortgage over $750,000 will only be able to deduct mortgage interest on that first $750,000. The previous limit was $1 million. Anybody with a mortgage worth $750,000 or less will be able to deduct all of their mortgage interest. In response, the National Association of Realtors issued the following statement:
+The change in the deduction was quite simple. Anybody with a mortgage over $750,000 will only be able to deduct mortgage interest on that first $750,000. The previous limit was $1 million. **Anybody with a mortgage worth $750,000 or less will be able to deduct all of their mortgage interest. In response, the National Association of Realtors issued the following statement:**
 
 “The tax incentives to own a home are baked into the overall value of homes in every state and territory across the country. When those incentives are nullified in the way this bill provides, our estimates show that home values stand to fall by an average of more than 10%.”
 
@@ -36,6 +36,6 @@ That’s a very strongly worded statement, but a 10% drop in value is a very str
 
 In the last year, only 1.2% of our home sales were above $750,000. This means that 98.8% of properties sold for under $750,000 in 2017 and are still eligible to deduct 100% of their mortgage interest. I think that’s pretty clear proof that this interest rate deduction change won’t have a big effect on us locally.
 
-However, areas like New York, L.A., Washington D.C., and Seattle have markets where the average price is far above that $750,000 mark. If you’re thinking about moving to one of these areas, the elimination of this deduction might influence your decision a bit more heavily.
+However, areas like New York, L.A., Washington D.C., and Seattle have markets where the average price is far above that $750,000 mark. **If you’re thinking about moving to one of these areas, the elimination of this deduction might influence your decision a bit more heavily.**
 
 If you have any questions for me about this change or anything else related to real estate in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
