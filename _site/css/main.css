@@ -1220,59 +1220,45 @@ html[xmlns] .flexslider .slides {
       vertical-align: middle;
       margin-left: 10px; }
 
-.cta-sidebar-container {
+.photo-cta {
   width: 100%;
-  border: 1px solid #cfcfcf;
-  border-radius: 3px;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
-  margin-bottom: 20px;
-  margin-top: 20px;
-  overflow: hidden; }
-  .cta-sidebar-container .cta-img-container a img {
-    max-width: 100%;
-    width: 1000px; }
-  .cta-sidebar-container h5 {
-    padding-left: 10px; }
-  .cta-sidebar-container p {
-    font-size: 18px;
-    padding: 10px;
-    color: #555; }
+  line-height: 20px;
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  margin-bottom: 20px; }
 
-.ctacontainer {
-  margin: 0px auto 30px; }
+.photo-cta-container {
+  width: 70%;
+  margin-left: 15%; }
 
-.ctalink {
+.cta-button {
+  position: absolute;
+  bottom: 20px;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  background: #F7C8B5;
-  border: 1px solid #F7C8B5;
-  border-radius: 3px;
-  padding: 10px 20px;
+  display: block;
+  color: #F7C8B5;
+  background-color: #fff;
+  border: 2px solid #F7C8B5;
   text-decoration: none;
-  font-size: 18px;
-  color: white;
-  -webkit-transition: all 0.15s ease-out 0s;
-  transition: all 0.15s ease-out 0s; }
-  .ctalink a {
-    text-align: center; }
-  .ctalink:hover {
-    background: transparent;
-    color: #ed8459;
-    box-shadow: 4px 4px 0 #ed8459;
-    border: 1px solid #ed8459;
-    -webkit-transform: scale(1.05);
-    transform: scale(1.05);
-    -webkit-transform: translateY(-0.2rem);
-    transform: translateY(-0.2rem); }
-  .ctalink:active {
-    box-shadow: 0 0 0 #ed8459;
-    -webkit-transform: translateY(0rem);
-    transform: translateY(0rem); }
+  padding: 10px 20px;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: auto;
+  margin-right: auto;
+  left: 100px;
+  right: 100px;
+  text-align: center; }
+  .cta-button a {
+    color: #F7C8B5; }
+  .cta-button:hover {
+    border: 2px solid #fff;
+    color: #fff;
+    background-color: #F7C8B5; }
+    .cta-button:hover a {
+      color: #fff; }
 
 #welcome-box form {
   padding-left: 30px; }
@@ -2797,7 +2783,8 @@ form select {
     border: 1px solid white;
     color: #F7C8B5;
     font-size: 2rem;
-    padding: 2.4rem;
+    padding: 1.3rem;
+    height: auto;
     width: 70%;
     display: inline-block;
     margin-right: 1rem;
@@ -2921,6 +2908,98 @@ form select {
   .navbar-nav > li > a:focus {
     text-decoration: none;
     color: #fff; }
+
+.recruiting {
+  text-align: center; }
+
+#recruit {
+  width: 75%;
+  margin-left: 13%;
+  margin-top: 2rem;
+  font-size: 18px; }
+
+.recruiting-photo {
+  float: right;
+  margin: 20px; }
+
+#page-bkg {
+  height: 430px; }
+
+.caption {
+  font-size: 16px;
+  font-style: oblique;
+  text-align: center;
+  margin-bottom: 20px; }
+
+.letterhead {
+  text-align: center; }
+
+#letterhead {
+  font-family: "Source Sans Pro", helvetica, arial, sans-serif;
+  font-weight: 400;
+  margin: 1rem 0;
+  font-size: 2.5rem;
+  text-transform: uppercase; }
+
+#letterhead-title {
+  font-family: "Source Sans Pro", helvetica, arial, sans-serif;
+  font-weight: 600;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-size: 3.5rem; }
+
+#letterhead-subtitle {
+  margin-bottom: 0;
+  margin-top: 1.5rem; }
+
+.recruiting-page {
+  Font-size: 18px;
+  width: 75%;
+  margin: 0 auto;
+  color: #000; }
+
+.page-logo {
+  width: 90%;
+  max-width: 40rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  -webkit-filter: drop-shadow(0px 2px 7px transparent);
+  filter: drop-shadow(0px 2px 7px transparent); }
+
+.page-hero-img {
+  background-position: center;
+  background-size: cover; }
+
+.join-us {
+  font-weight: bold;
+  text-align: center;
+  width: 75%;
+  display: block;
+  margin: 0 auto; }
+
+.join-us-subtitle {
+  font-weight: 400;
+  text-align: center;
+  width: 75%;
+  display: block;
+  margin: 0 auto 2rem auto; }
+
+.call-photo-left {
+  float: left;
+  padding: 20px;
+  margin: 0 auto;
+  max-height: 400px; }
+
+.call-photo-right {
+  float: right;
+  padding: 20px;
+  margin: 0 auto;
+  max-height: 400px; }
+
+.mySlides {
+  position: relative;
+  width: 50%;
+  display: inline-block; }
 
 .footer {
   color: #fff; }

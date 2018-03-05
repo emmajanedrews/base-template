@@ -1,0 +1,18 @@
+photo:
+  - photo_path: /img/agent.jpg
+    caption: Sarita with Agent
+
+  - photo_path: /img/headshot.jpg
+    caption: Sarita Dua
+
+  - photo_path: /img/sales-board.jpg
+    caption: Sales Board
+
+  - photo_path: /img/agent-plan.jpg
+    caption: Agent with Business Plan
+
+  - photo_path: /img/meeting.jpg
+    caption: Sarita Leading a Team Meeting
+
+  - photo_path: /img/client.jpg
+    caption: Sarita at Work
