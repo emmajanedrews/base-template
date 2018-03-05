@@ -21,13 +21,13 @@ client:
   phone2:
   phone2_type:
   email: Info@donwilliamsgroup.com
-  url: 'https://www.viewdelawarehomes.com/'
+  url: 'https://www.viewdelawarehomes.com'
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'https://www.viewdelawarehomes.com/homevalue/value'
   second_CTA_text: Home Search
   second_CTA_URL: 'https://www.viewdelawarehomes.com/search'
-  VR_form: 'http://oi.vresp.com?fid=48edd69071'
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808721';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: Looking to Buy a Home?
