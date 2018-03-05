@@ -1,85 +1,92 @@
 audit_header: false
 title: Don Williams Realty Group
-description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Don Williams - your professional -- MARKET -- Real Estate Agents.'
+description: >-
+  If you are looking to buy or sell a home, get all the information and the
+  latest updates, tips, and tricks from Don Williams - your professional --
+  MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
     url:
-
 client:
   name: Don Williams
   license_number:
-  about_markdown: |
-      My job requires me to run my business on a daily basis, while listing and working with buyers, I also have to inspire and help teach my agents to be the best they can be. I try and tell my agents don't knock it until you tried it. I do have selected hearing, because I do not like excuses, you might as well be preaching to the choir. because I am not listening. I think to be a great Realtor or Team Leader, you must have FUN or make if FUN!! If it is not fun, then you can count me out! I admit that I am not the best teacher in the world, because I do not get it when they do not get it. I try and teach my agents to get 30 to 40% of their business on their own and not depend so heavily on me providing them with leads alone. Because to be successful in this business you must treat it like a job, not a hobby. There are far too many Realtor's that think they can work when they want too, well I would question how successful they are. You always need a plan of attack, a worth while goal and a purpose of reaching further than you thought you could reach. I do not want to be a baby sitter, I want people who are motivated to achieve their goals and I also believe you cannot motivate someone who has no motivation, you need to have the Fire in the Belly to make it fun, have time off, and be financially successful. Sales people are the Highest paid people in the world if you are good at it, the best sales people make more money than Rock Stars and Actors!
+  about_markdown:
   market:
   brand: Don Williams Realty Group
   brokerage: Keller Williams
-  address: 18344 Coastal Hwy Lewes, DE 19958
+  address: '18344 Coastal Hwy Lewes, DE 19958'
   phone: 302-703-9933
   phone_type:
   phone2:
   phone2_type:
   email: Info@donwilliamsgroup.com
-  url: http://www.finddelawarehomes.com
-
+  url: 'http://www.finddelawarehomes.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.finddelawarehomes.com/homevalue/value
+  first_CTA_URL: 'http://www.finddelawarehomes.com/homevalue/value'
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.finddelawarehomes.com/
-  VR_form: http://oi.vresp.com?fid=48edd69071
-
+  second_CTA_URL: 'http://www.finddelawarehomes.com/'
+  VR_form: 'http://oi.vresp.com?fid=48edd69071'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: Looking to Buy a Home?
     CTA_text: Search the entire MLS for homes located in -- MARKET --.
     CTA_link_text: Home Search Tool
-    CTA_url: http://www.finddelawarehomes.com
-
+    CTA_url: 'http://www.finddelawarehomes.com'
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
+  headshot_path: 'http://fillmurray.com/200/200'
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: http://eyegoop.com
-
+  url: 'http://eyegoop.com'
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
-    Our mission at Don Williams Realty Group is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
-    professionals can answer any questions you might have about real estate.
+    Our mission at Don Williams Realty Group is to be your best resource for
+    real estate advice. Whether you are a buyer, seller, or investor, our team
+    of professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
-
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/DonWilliamsRealtyGroup/
-  linkedin_url: https://www.linkedin.com/in/don-williams-55ab3431/
-  gplus_url: https://plus.google.com/u/0/b/112988727233336964648
-  youtube_url: https://www.youtube.com/channel/UCTy5JVoxuMJOI7sZ3k0VLmg
-  twitter_url: https://twitter.com/donwilliamsgrp
+  facebook_url: 'https://www.facebook.com/DonWilliamsRealtyGroup/'
+  linkedin_url: 'https://www.linkedin.com/in/don-williams-55ab3431/'
+  gplus_url: 'https://plus.google.com/u/0/b/112988727233336964648'
+  youtube_url: 'https://www.youtube.com/channel/UCTy5JVoxuMJOI7sZ3k0VLmg'
+  twitter_url: 'https://twitter.com/donwilliamsgrp'
   instagram_url:
   pinterest_url:
-  zillow_url: https://www.zillow.com/profile/DonWilliamsGroup/
-  trulia_url: https://www.trulia.com/profile/don-williams-group-agent-lewes-de-zgjtk6dm/overview
-  yelp_url: https://www.yelp.com/biz/the-don-williams-group-rehoboth-beach-2
+  zillow_url: 'https://www.zillow.com/profile/DonWilliamsGroup/'
+  trulia_url: >-
+    https://www.trulia.com/profile/don-williams-group-agent-lewes-de-zgjtk6dm/overview
+  yelp_url: 'https://www.yelp.com/biz/the-don-williams-group-rehoboth-beach-2'
   podcast_url:
-
 podcast:
   title:
-  categories: Education
+  categories:
+    - Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Lewes, DE Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Don Williams - your professional Keller Williams Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Lewes, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the Lewes, DE
+    Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from Don Williams - your professional
+    Keller Williams Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in Lewes, home
+    selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
   author: '-- CLIENT NAME --'
-
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
@@ -89,18 +96,16 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#20275C'
-  theme_color: '#20275C'
-  theme_text_color: '#20275C'
+  brand_color: '#20275c'
+  theme_color: '#20275c'
+  theme_text_color: '#20275c'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transperant
-
+  shadow_color: '#000000'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
