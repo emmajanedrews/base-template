@@ -5,7 +5,8 @@ date: 2018-03-05 12:00:00
 tags:
   - Home Seller Tips
 excerpt: How should home sellers prepare in 2018? Here’s what we recommend.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/2018/SC+Real+Estate+Agent-+Which+3+Tasks+Are+Most+Important+for+Home+Sellers%253F.mp4
 pullquote: >-
   Our professional photographer is one of the most important members on our
   team.
