@@ -2930,17 +2930,40 @@ form select {
   display: block;
   margin: 0 auto 2rem auto; }
 
-.call-photo-left {
-  float: left;
-  padding: 20px;
-  margin: 0 auto;
-  max-height: 400px; }
+.mySlides {
+  position: relative;
+  width: 50%;
+  margin: 0 auto; }
 
-.call-photo-right {
-  float: right;
-  padding: 20px;
-  margin: 0 auto;
-  max-height: 400px; }
+.slide-container {
+  color: #000;
+  padding: 3rem 10rem; }
+
+.slide-area {
+  display: block;
+  margin: 0 auto; }
+
+.slide-button {
+  background-color: #003868;
+  color: #fff; }
+  .slide-button:hover {
+    background-color: #fff;
+    color: #003868;
+    border: 1px solid #003868; }
+  .slide-button:focus {
+    background-color: #fff;
+    color: #003868;
+    border: 1px solid #003868; }
+
+.slide-navigation {
+  text-align: center; }
+
+.slide-caption {
+  text-align: center;
+  padding: 10px;
+  font-style: italic;
+  font-size: 20px;
+  color: #000; }
 
 .photo-cta {
   width: 100%;

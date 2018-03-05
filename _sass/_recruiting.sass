@@ -72,14 +72,38 @@
 	display: block
 	margin: 0 auto 2rem auto
 
-.call-photo-left
-	float: left
-	padding: 20px
+.mySlides
+	position: relative
+	width: 50%
 	margin: 0 auto
-	max-height: 400px
 
-.call-photo-right
-	float: right
-	padding: 20px
+.slide-container
+	// background: darken($light-text, 5%)
+	color: #000
+	padding: 3rem 10rem
+
+.slide-area
+	display: block
 	margin: 0 auto
-	max-height: 400px
+
+.slide-button
+	background-color: $brand
+	color: #fff
+	&:hover
+		background-color: #fff
+		color: $brand
+		border: 1px solid $brand
+	&:focus
+		background-color: #fff
+		color: $brand
+		border: 1px solid $brand
+
+.slide-navigation
+	text-align: center
+
+.slide-caption
+	text-align: center
+	padding: 10px
+	font-style: italic
+	font-size: 20px
+	color: #000
