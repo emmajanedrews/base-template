@@ -1,6 +1,6 @@
 ---
 layout: post
-title: week of 8/21
+title: One of These Beautiful Villas Could Be Yours
 date:
 tags:
 excerpt:
@@ -12,6 +12,7 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code:
 ---
+
 {% include youtube.html %}
 
 {% include pullquote.html %}
