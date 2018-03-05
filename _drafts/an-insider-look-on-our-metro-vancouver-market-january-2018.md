@@ -8,13 +8,14 @@ tags:
   - Home Seller Tips
 excerpt:
 enclosure:
-pullquote: 'Andross, the Final Boss'
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image:
 youtube_code: uieM18rZdHY
 ---
+
 {% include youtube.html %}
 
-{% include pullquote.html %}
+&nbsp;
