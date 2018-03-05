@@ -26,7 +26,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://www.finddelawarehomes.com/homevalue/value'
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://www.finddelawarehomes.com/'
+  second_CTA_URL: 'https://www.viewdelawarehomes.com/'
   VR_form: 'http://oi.vresp.com?fid=48edd69071'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
