@@ -19,4 +19,4 @@ youtube_code: 'https://youtu.be/rg1d1JwdOR8'
 
 {% include youtube.html %} The Royal Oaks Courtyard Villas have a number of fantastic amenities its residents can enjoy. Properties come complete with lush landscaping, a private pool, custom cabinetry, a beautiful open-concept floor plan, and much more. This maintenance-free living in the heart of Houston is just minutes from the Galleria. If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon. To see my full message, watch this short video.
 
-{% include pullquote.html %}
+&nbsp;
