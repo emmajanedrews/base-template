@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Catching Up With Tax Changes for Homeowners in 2018
-date:
+date: 2018-03-05 11:30:00
 tags:
   - Real Estate
 excerpt: >-
