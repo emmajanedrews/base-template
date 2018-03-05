@@ -5,6 +5,7 @@ permalink: /values/
 ---
 
 <div class="values" id="recruit">
+{% include core-values.html %}
 <br>
 <div class="compensation">
 <h1>8 Types of Compensation<br>in Real Estate</h1>
