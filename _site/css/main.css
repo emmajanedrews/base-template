@@ -1586,13 +1586,14 @@ label.tree-toggle {
   color: white;
   text-shadow: 0px 2px 7px rgba(0, 0, 0, 0.65);
   text-transform: uppercase;
-  font-size: 6.5rem;
+  font-size: 5rem;
+  font-weight: 400;
   padding-bottom: 4rem;
   margin-bottom: 0; }
 
 @media (max-width: 1100px) {
   .site-title {
-    font-size: 5rem; } }
+    font-size: 4rem; } }
 @media (max-width: 1000px) {
   .site-logo {
     max-width: 20rem; } }
@@ -1602,14 +1603,14 @@ label.tree-toggle {
     margin-top: 4rem; }
 
   .site-title {
-    font-size: 5rem; } }
+    font-size: 3rem; } }
 @media (max-width: 600px) {
   .site-logo {
     max-width: 15rem;
     margin-top: 2rem; }
 
   .site-title {
-    font-size: 3.5rem; }
+    font-size: 2.5rem; }
 
   .cta {
     padding: 1rem; } }
