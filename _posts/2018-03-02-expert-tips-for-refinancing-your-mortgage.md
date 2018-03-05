@@ -18,7 +18,7 @@ youtube_code: I1hjPnz7nUk
 
 For the past month, I’ve been meeting with previous clients and doing their yearly loan reviews. When the topic of refinancing comes up, I keep hearing the same things. “Refinancing only means taking money out of your mortgage or your house.”
 
-That’s not necessarily true. **When refinancing, you have several options.**The most common is refinancing an FHA loan into a conventional loan so that you can remove your mortgage insurance
+That’s not necessarily true. **When refinancing, you have several options.&nbsp;**The most common is refinancing an FHA loan into a conventional loan so that you can remove your mortgage insurance
 
 Another reason people refinance is to lower their interest rate. Depending on how much you have on your loan, this could save you thousands and thousands. **It’s always good to try to lower your interest rate by at least 1% if you refinance.**
 
