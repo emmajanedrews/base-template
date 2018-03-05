@@ -25,9 +25,11 @@ As many of you may know, the millennial generation is currently the biggest gene
 
 There are three trends that I see in today’s workforce that millennials really look for: culture, compensation, and career opportunity.
 
-* **Culture.** Culture can be anything from how your employees interact with one another to how your office operates differently from other competitors or people in your space. They’re looking to make sure that your company is a good cultural fit.
-* **Compensation.** Look at competitor’s websites, payscale.com, and glassdoor.com to see what others are offering first-time employees and be sure that your compensation package is up to scale. I also recommend marketing this to millennials; they definitely want to know what kinds of benefits they’re getting.
-* **Career opportunity.** Millennials like to know if they can stay with the company and are able to grow. That doesn’t necessarily mean that they’re expecting to be promoted every six months, but they want to be given the opportunity to show what their abilities are and what they can provide the company.
+**Culture.** Culture can be anything from how your employees interact with one another to how your office operates differently from other competitors or people in your space. They’re looking to make sure that your company is a good cultural fit.
+
+**Compensation.** Look at competitor’s websites, payscale.com, and glassdoor.com to see what others are offering first-time employees and be sure that your compensation package is up to scale. I also recommend marketing this to millennials; they definitely want to know what kinds of benefits they’re getting.
+
+**Career opportunity.** Millennials like to know if they can stay with the company and are able to grow. That doesn’t necessarily mean that they’re expecting to be promoted every six months, but they want to be given the opportunity to show what their abilities are and what they can provide the company.
 
 {% include pullquote.html %}
 
