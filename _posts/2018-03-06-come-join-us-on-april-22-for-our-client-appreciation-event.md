@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Come Join Us on April 22 for Our Client Appreciation Event
-date: 2018-03-06 18:22:24
+date: 2018-03-06 18:22:00
 tags:
   - Real Estate
 excerpt: >-
   Let us show you how grateful we are for your service by coming to our client
   appreciation event on April 22.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Barbara+Radke/Southern+California+Real+Estate+You%E2%80%99re+invited+to+a+special+party.mp4
 pullquote: We look forward to seeing you there!
 enclosure_type: video/mp4
 enclosure_time:
