@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 6 Tips to Drive Your Home Sale
-date: 2018-03-05 20:50:51
+date: 2018-03-05 20:50:00
 tags:
 excerpt: >-
   If you want to give your home the edge it needs once it hits the market to
   sell quickly and for top dollar, here are six tips you can follow.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Danielle+Salas/The+Salas+Team-+6+Tips+to+Drive+Your+Home+Sale.mp4
 pullquote: Make sure someone walking into your home can envision it as their home.
 enclosure_type: video/mp4
 enclosure_time:
