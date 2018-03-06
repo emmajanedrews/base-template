@@ -20,7 +20,7 @@ youtube_code: tSzLDEAxVJ8
 
 Here are six tips I always share with my clients that can help you drive your home sale.
 
-**1. Price it right.**You don’t want to overprice your home, because you won’t attract enough buyers to actually show up and look at the property. Most buyers have search ranges, and if your home is over their range, they won’t even take a look at it. It will also hurt you in the long run because if you price the home too high initially and you have to keep reducing that price while the home sits on the market, buyers will be suspicious of it and wonder what’s wrong with it.
+**1. Price it right.** You don’t want to overprice your home, because you won’t attract enough buyers to actually show up and look at the property. Most buyers have search ranges, and if your home is over their range, they won’t even take a look at it. It will also hurt you in the long run because if you price the home too high initially and you have to keep reducing that price while the home sits on the market, buyers will be suspicious of it and wonder what’s wrong with it.
 
 **2. Understand buyer preferences.** If your house has multi-colored bedrooms with many different types of furniture, that might not be very popular among the buyers of today. You might be better off switching things to a more neutral color. Your agent can certainly help you with this kind of thing.
 
