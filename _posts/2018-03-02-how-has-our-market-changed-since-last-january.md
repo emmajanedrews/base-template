@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Pi8Yp6Z50OI
+youtube_code: fFSi2xLE4E4
 ---
 
 {% include youtube.html %}
@@ -37,5 +37,3 @@ To summarize, we entered the new year with low inventory but a steady buyer dema
 So, if you’ve been thinking of listing your home, now is the time to start preparing. The spring market will be here before we know it.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
-
-&nbsp;
