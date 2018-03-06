@@ -21,7 +21,7 @@ Today we want to talk to you about a career in real estate.
 
 Everyone’s perception of real estate is what they see on those reality shows. Well, here’s the reality about reality TV—it’s not real!
 
-That’s why we want to give you a peek behind the curtain into the real real estate career. We’re everyday people providing exceptional levels of service, and we’re looking for superstars to join us. How do we do that? With a career night, which will be held on March 6th, 2017.
+That’s why we want to give you a peek behind the curtain into the real real estate career. We’re everyday people providing exceptional levels of service, and we’re looking for superstars to join us. How do we do that? With a career night, which will be held on March 12th, 2017.
 
 **Please RSVP here: [https://www.teamlally.com/career-night.php#RSVP](https://www.teamlally.com/career-night.php#RSVP) to save a seat, because we do fill up.**
 
