@@ -10,7 +10,8 @@ excerpt: >-
   some point, your home will need repairs, maintenance, and perhaps even some
   remodeling work done to it. We can help you with that. To find out how, watch
   our latest video.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jay+White/Video/2018/The+White+Group+%257C+How+Our+Assistance+Extends+Well+Beyond+the+Home+Purchase.mp4
 pullquote: 'If you need something for your home, we’re a tremendous asset.'
 enclosure_type: video/mp4
 enclosure_time:
