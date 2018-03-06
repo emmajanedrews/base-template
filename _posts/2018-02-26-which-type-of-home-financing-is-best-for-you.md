@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Which Type of Home Financing Is Best for You?
-date: 2018-02-26 17:28:20
+date: 2018-02-26 17:28:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/fha-and-conventional-e-youtube.jpg
-youtube_code: v_F74kb9qTI
+youtube_code: Q8S2lBve5hQ
 ---
 
 {% include youtube.html %}
@@ -37,7 +37,7 @@ They come up with these future loan limits based on the metropolitan statistical
 
 If you have more money saved up, you can go with a conventional loan instead. The floor for a conventional loan used to be $417,000 and is now at $453,100 for conventional.
 
-If you are eligible for a VA loan, Yolanda recommends going with the VA loan. If you are choosing between a conventional loan or an FHA loan, what should you do? &nbsp;
+If you are eligible for a VA loan, Yolanda recommends going with the VA loan. If you are choosing between a conventional loan or an FHA loan, what should you do?
 
 **In Yolanda’s professional opinion, a conventional loan is better than the FHA loan.** The conventional loan does give you the option to reduce your mortgage insurance by the amount you put down, and you only have to pay monthly insurance. The FHA loan does not give you that option unless you put 11% down, and the mortgage insurance lasts for the lifetime of the loan. In addition to paying monthly insurance, you also have to pay for the insurance up front.
 
