@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Recap of Our Amazing Retreat in Port St. Joe
+title: We Deliver Expert Local Advice Throughout Our Coastline
 tags:
   - Real Estate
 excerpt: >-
@@ -19,7 +19,7 @@ youtube_code: nqt6Ux8Iv_A
 
 We’re currently in Port St. Joe, Florida, which is also known as “Florida’s forgotten coast.” A lot of our clams and oysters are harvested out of this bay. There’s so much untouched beauty here, and I love visiting.
 
-**My recent trip out here was a special one because it was with my team.&nbsp;**As a team, it’s great to get out of the office setting, spend some quality time with each other, and then come back and serve our customers on a much higher level because we work together better.
+**My recent trip out here was a special one because it was with my team.**As a team, it’s great to get out of the office setting, spend some quality time with each other, and then come back and serve our customers on a much higher level because we work together better.
 
 {% include pullquote.html %}
 
