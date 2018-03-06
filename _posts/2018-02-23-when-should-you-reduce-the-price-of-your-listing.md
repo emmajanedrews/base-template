@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/reduce-price-youtube.jpg
-youtube_code: hjUX50vmDPI
+youtube_code: 6OxymYzvlJk
 ---
 
 {% include youtube.html %}
