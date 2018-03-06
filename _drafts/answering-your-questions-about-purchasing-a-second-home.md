@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Answering Your Questions About Purchasing a Second Home
-date:
+date: 2018-03-06 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -18,7 +18,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/no-pb-5.jpg
 youtube_code: Gj5XjpUzsUs
 ---
-
 
 {% include youtube.html %}
 
