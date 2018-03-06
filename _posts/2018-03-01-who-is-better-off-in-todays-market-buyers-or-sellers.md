@@ -1,14 +1,15 @@
 ---
 layout: post
 title: 'Who Is Better off in Today''s Market: Buyers or Sellers?'
-date: 2018-03-01 22:50:24
+date: 2018-03-01 22:50:00
 tags:
   - Real Estate
 excerpt: >-
   As has been the case for a while now, our market is currently experiencing
   high demand and very low supply. Today, I’ll be going over how buyers and
   sellers can navigate these market conditions.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/%231+Real+Estate+Team+in+the+Portland+Metro++SW+Washington+Can+we+still+expect+multiple+offers.mp4
 pullquote: Sellers should make their move now before competition increases.
 enclosure_type: video/mp4
 enclosure_time:
@@ -37,4 +38,4 @@ My advice to buyers is to look at homes that have been on the market for more th
 
 As for sellers, make your move now. List your home before competition increases when the spring market hits.
 
-If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.<br>
