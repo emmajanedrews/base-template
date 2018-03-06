@@ -1,5 +1,5 @@
 audit_header: false
-title: Surrey Real Estate Video Blog with John MacKenzie
+title: 2% realty solution Surrey Real Estate Video Blog with John MacKenzie
 description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -94,7 +94,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 25
-  hero_text: -- MARKET -- Real Estate Video Blog
+  hero_text: 2% realty solution -- MARKET -- Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
