@@ -27,6 +27,6 @@ If you are living in your primary residence in the state of Texas, you can get a
 
 Check out the websites for [Travis County](https://www.traviscountytx.gov/), [Williamson County](http://www.wilco.org/), and [Hays County](https://www.co.hays.tx.us/) to get the direct links to these forms.
 
-Don’t get scammed by any junk mail sent to your home that asks you to pay a fee to file for your exemption. **I****\*\*t**’s free to file! There is no fee. \*\*
+Don’t get scammed by any junk mail sent to your home that asks you to pay a fee to file for your exemption. **I****t’s free to file! There is no fee.**
 
 If you have any questions for me, just give me a call or send me an email. I would be happy to help you!
