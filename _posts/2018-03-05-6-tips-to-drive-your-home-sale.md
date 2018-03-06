@@ -24,7 +24,7 @@ Here are six tips I always share with my clients that can help you drive your ho
 
 **2. Understand buyer preferences.** If your house has multi-colored bedrooms with many different types of furniture, that might not be very popular among the buyers of today. You might be better off switching things to a more neutral color. Your agent can certainly help you with this kind of thing.
 
-**3. Stage and declutter.**Make sure someone walking into your home can envision it as their home. If you have lots of clutter and personal items lying around, that will make doing that hard for them. Don’t forget to declutter your closets too, because buyers always check those to make sure there’s enough room for their stuff.
+**3. Stage and declutter.** Make sure someone walking into your home can envision it as their home. If you have lots of clutter and personal items lying around, that will make doing that hard for them. Don’t forget to declutter your closets too, because buyers always check those to make sure there’s enough room for their stuff.
 
 {% include pullquote.html %}
 
