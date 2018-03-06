@@ -27,7 +27,7 @@ We always recommend that you order the general home inspection. You should also 
 
 Once you get those inspections done, make sure you go over the results with your real estate agent so that you understand what’s happening.
 
-In a competitive market, you may get counter offers prior to an inspection asking that you buy the home “as-is.” However, it’s important to understand that **you should never waive your right to an inspection**. Even when you take an as-is counteroffer, you still have the right to review those inspections.
+In a competitive market, you may get counteroffers prior to an inspection asking that you buy the home “as-is.” However, it’s important to understand that **you should never waive your right to an inspection**. Even when you take an as-is counteroffer, you still have the right to review those inspections.
 
 {% include pullquote.html %}
 
