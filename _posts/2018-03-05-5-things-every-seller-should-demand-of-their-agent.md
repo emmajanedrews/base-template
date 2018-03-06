@@ -27,9 +27,9 @@ Today I want to give you some insider tips on what you should demand of your rea
 
 {% include pullquote.html %}
 
-**3. Know what their home searching strategies are.**Other than an automated search in the MLS, you wanna make sure your agent is active and out in the market looking for homes for you. You don’t want an agent who will haul you around and hope you buy a home. You want an agent who is looking for the exact type of home you want via circle prospecting, door knocking, and even cold calling. We’ll be able to tell you about homes before they hit the market.
+**3. Know what their home searching strategies are.&nbsp;**Other than an automated search in the MLS, you wanna make sure your agent is active and out in the market looking for homes for you. You don’t want an agent who will haul you around and hope you buy a home. You want an agent who is looking for the exact type of home you want via circle prospecting, door knocking, and even cold calling. We’ll be able to tell you about homes before they hit the market.
 
-**4. Alleviate as many roadblocks as possible.**We refer to this in our business as the “88 types of turbulence.” We have found 88 different roadblocks that most commonly derail transactions. We make our buyers aware of these to make the process less stressful.
+**4. Alleviate as many roadblocks as possible.&nbsp;**We refer to this in our business as the “88 types of turbulence.” We have found 88 different roadblocks that most commonly derail transactions. We make our buyers aware of these to make the process less stressful.
 
 **5. You need a full-time agent.** Another big question you should be asking right off the bat is, “Are you a full-time or part-time agent?” Anybody can be a part-time agent. You want a full-time agent working for you. An agent that sells a lot more than the four or five home average.
 
