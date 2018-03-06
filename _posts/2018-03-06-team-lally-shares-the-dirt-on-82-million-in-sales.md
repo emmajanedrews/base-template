@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Team Lally Shares the Dirt on $82 Million in Sales
-date: 2018-03-06 20:50:53
+date: 2018-03-06 12:00:00
 tags:
-  - Career Night
 excerpt: >-
   We want to give you a peek behind the curtain into what a true real estate
   career looks like with a career night. Here’s how you can join us.
