@@ -21,9 +21,9 @@ youtube_code: wT1pv-rzmv0
 
 Today I’m going to share the top three things you need to do to prepare your home for sale in 2018. Let’s jump right in.
 
-**1. Have a consultation with one of our listing specialists.** They will come over and meet you at your home, walk through a little bit of the process, give you an estimate of what you can sell your home for and what your profit will be. They can also help you determine what the next steps are. We provide this for free for you.
+**1. Have a consultation with one of our listing specialists.** They will come over and meet you at your home, walk through a little bit of the process, and give you an estimate of what you can sell your home for and what your profit will be. They can also help you determine what the next steps are. We provide this for free for you.
 
-**2. Begin preparing the home for sale.** You don’t have to do it all now or all in one weekend, but start putting away things that you don’t need. Start decluttering, cleaning, and double checking your lightbulbs, your yard, and every other detail of your home.
+**2. Begin preparing the home for sale.** You don’t have to do it all now or all in one weekend, but start putting away things that you don’t need. Start decluttering, cleaning, and double checking your light bulbs, your yard, and every other detail of your home.
 
 {% include pullquote.html %}
 
