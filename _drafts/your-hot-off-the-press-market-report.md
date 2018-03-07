@@ -17,7 +17,7 @@ youtube_code: CLQp1sy7yIk
 
 {% include youtube.html %}
 
-I’m back with a hot-off-the-press market. Here’s what you need to know.
+<center>I’m back with a hot-off-the-press market. Here’s what you need to know.</center>
 
 I’m back with your hot-off-the-press market report for March.&nbsp;
 
@@ -29,7 +29,7 @@ Spring is fast approaching. We know this is the time of year that people want to
 
 There has been talk over the last couple of years that maybe Americans don’t believe in homeownership the way that they used to. New stats suggest that this isn’t true. As a matter of fact, the Wall Street Journal published and article this past week that said:
 
-“The US homeownership rate rose in 2017 for the first time in 13 years….The annual increase marks a crucial turning point because it comes after the federal government reined in bubble-era policies that encouraged banks to ease lending standards to boost homeownership. This time, what’s driving the market is a shift in favor of owning rather than renting.”
+&nbsp;&nbsp;“The US homeownership rate rose in 2017 for the first time in 13 years….The annual increase marks a crucial turning point because it comes after the federal government reined in bubble-era policies that encouraged banks to ease lending standards to boost homeownership. This time, what’s driving the market is a shift in favor of owning rather than renting.”
 
 {% include pullquote.html %}
 
@@ -39,7 +39,7 @@ Again, the biggest challenge we have is the low inventory. We don’t expect tha
 
 If you’re thinking about selling or buying a home, according to Bill Banfield, vice president of capital markets at Quicken Loans:
 
-“Homeowners received the gift of added equity this holiday season. With several years of growth, owners may have more equity than they realize. Many consumers use the tax season at the beginning of the year to reevaluate their entire financial life. It also provides a good opportunity for them to consider how best to take advantage of their equity while mortgage interest rates and borrowing costs are still near record lows.”
+&nbsp;&nbsp;“Homeowners received the gift of added equity this holiday season. With several years of growth, owners may have more equity than they realize. Many consumers use the tax season at the beginning of the year to reevaluate their entire financial life. It also provides a good opportunity for them to consider how best to take advantage of their equity while mortgage interest rates and borrowing costs are still near record lows.”
 
 There you have it. If you’re selling this year, get on my “coming soon” listings website and have buyers waiting to pay you listing price or more.&nbsp;
 
