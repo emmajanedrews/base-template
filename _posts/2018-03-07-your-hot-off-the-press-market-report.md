@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your Hot-Off-the-Press Market Report
-date:
+date: 2018-03-07 17:12:57
 tags:
   - Market Update
 excerpt: I’m back with a hot-off-the-press market. Here’s what you need to know.
@@ -42,8 +42,8 @@ If you’re thinking about selling or buying a home, according to Bill Banfield,
 
 > “Homeowners received the gift of added equity this holiday season. With several years of growth, owners may have more equity than they realize. Many consumers use the tax season at the beginning of the year to reevaluate their entire financial life. It also provides a good opportunity for them to consider how best to take advantage of their equity while mortgage interest rates and borrowing costs are still near record lows.”
 
-There you have it. If you’re selling this year, get on my “coming soon” listings website and have buyers waiting to pay you listing price or more.&nbsp;
+There you have it. If you’re selling this year, get on my “coming soon” listings website and have buyers waiting to pay you listing price or more.
 
 If you’re planning to sell, but just not this year, **you’re invited to our next home seller seminar on April 17 at the Hilton Garden Inn. Here, I’ll give you great and strategic information on how to make more money and sell your home fast. To sign up for the seminar, visit [www.homesharkseminar.com](www.homesharkseminar.com).**
 
-For any other questions, feel free to reach out to me.<br>&nbsp;
+For any other questions, feel free to reach out to me.<br>
