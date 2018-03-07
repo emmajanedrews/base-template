@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Home Seller Seminar
-date: 2018-03-07 18:00:11
+date: 2018-03-07 18:00:00
 tags:
   - Home Seller Tips
 excerpt: Sign up for the next Home Seller Seminar!
@@ -9,8 +9,8 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/hssss.PNG
 youtube_code: GGKyixGNFVw
 ---
 
@@ -59,12 +59,12 @@ The Evening Seminar in June will begin at 6:00pm. At 5pm, please be our guest at
 
 Please join us the hour before the Seminar so you can get a good seat, enjoy some delicious food,  and be ready to learn about creating your personal Home Selling Strategy!
 
-####
+### #
 
 #### RESERVE YOUR SEATS TODAY!
 
 #### <br>CLICK ON THE IMAGE BELOW!
 
-####
+### #
 
 <center><a href="http://contacts.byreferralonly.com/Form.aspx?Key=B4BB13A2063E8C96A45B730086B92675"><img alt="" src="/uploads/versions/steel-button-sign-up-button-sharks-final2--1024x171-1---x----1024-171x---.png" width="1024" height="171" /></a><br />&nbsp;</center>
