@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Team Lally Shares the Dirt on $82 Million in Sales
+title: Team Lally Shares the Dirt on $84 Million in Sales
 date: 2018-03-06 12:00:00
 tags:
 excerpt: >-
