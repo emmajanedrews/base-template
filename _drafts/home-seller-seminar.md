@@ -34,9 +34,9 @@ Thinking of selling your home because it’s either too big, too expensive or to
 
 **Thousands of people have attended our seminars.** Whether you need tips on Staging, Pricing, Marketing, Negotiating or Overseeing Transactional Details, you will leave our seminar much more savvy than when you walked in!
 
-Today’s real estate market requires home sellers to employ countless marketing strategies to help protect their asset from the Home Selling Sharks. &nbsp;Learn why it is so important that your real estate consultant spends
+Today’s real estate market requires home sellers to employ countless marketing strategies to help protect their asset from the Home Selling Sharks. &nbsp;Learn why it is so important that your real estate consultant spends $$$$$, has an extensive marketing background and has creative marketing systems already in place.
 
-<script type="math/tex"></script>$, has an extensive marketing background and has creative marketing systems already in place.
+<script type="math/tex"></script>
 
 **All attendees will receive a 40 page Home Seller Handbook, a Seminar Graduate Certificate and a tee shirt that says “You Have Survived The Home Selling Shark Seminar. You’ll also have the opportunity to ask questions pertaining to your specific needs.**
 
@@ -54,10 +54,10 @@ The Evening Seminar in June will begin at 6:00pm. At 5pm, please be our guest at
 
 Please join us the hour before the Seminar so you can get a good seat, enjoy some delicious food, &nbsp;and be ready to learn about creating your personal Home Selling Strategy!
 
-<center>#### RESERVE YOUR SEATS TODAY!</center>
+#### RESERVE YOUR SEATS TODAY!
 
-<center>#### <br>CLICK ON THE IMAGE BELOW!</center>
+<center>####<br />CLICK ON THE IMAGE BELOW!</center>
 
 #### &nbsp;
 
-<center>#### ![](/uploads/versions/steel-button-sign-up-button-sharks-final2--1024x171---x----1024-171x---.png)<br>&nbsp;</center>
+<center>#### ![](/uploads/versions/steel-button-sign-up-button-sharks-final2--1024x171---x----1024-171x---.png)<br />&nbsp;</center>
