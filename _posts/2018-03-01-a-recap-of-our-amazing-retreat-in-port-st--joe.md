@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We Deliver Expert Local Advice Throughout Our Coastline
+title: A Recap of Our Amazing Retreat in Port St. Joe
 tags:
   - Real Estate
 excerpt: >-
