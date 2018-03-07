@@ -59,4 +59,4 @@ Please join us the hour before the Seminar so you can get a good seat, enjoy som
 
 &nbsp;
 
-[![](/uploads/versions/steel-button-sign-up-button-sharks-final2--1024x171-1---x----1024-171x---.png)](http://contacts.byreferralonly.com/Form.aspx?Key=B4BB13A2063E8C96A45B730086B92675)<br>&nbsp;
+[![](/uploads/versions/steel-button-sign-up-button-sharks-final2--300x40-1---x----300-40x---.png)](http://contacts.byreferralonly.com/Form.aspx?Key=B4BB13A2063E8C96A45B730086B92675)<br>&nbsp;
