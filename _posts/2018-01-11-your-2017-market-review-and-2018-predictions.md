@@ -21,6 +21,11 @@ youtube_code: 'https://youtu.be/pzQRVB43pWU'
 
 {% include youtube.html %}
 
+<div class="post-cta">
+Looking to sell your Palm Beach County home? <a href="http://www.desaneandassociates.com/what-s-your-home-really-worth/" target="_blank">Click here for a free home value report</a><br>
+Looking to buy a Palm Beach County home? <a href="http://www.desaneandassociates.com/" target="_blank">Click here to search the MLS</a>
+</div>
+
 Today we have a brief recap of the real estate market in 2017 and a few very important points to be aware of as we move through the first quarter of 2018.
 
 Let’s start with last year. We started the year with an average sale price of $340,000 and throughout the year, we saw more and more homes sell each quarter as well as a steady increase in home price. The year came to an end with a total of 31,000 homes sold at an average sale price of $382,000, a 12% increase from the beginning of the year.
