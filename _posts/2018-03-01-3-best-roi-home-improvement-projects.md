@@ -18,7 +18,10 @@ youtube_code: 'https://youtu.be/apxHmLr4sVo'
 
 {% include youtube.html %}
 
-**Looking to sell your Palm Beach County home? [Click here for a free home value report](http://www.desaneandassociates.com/what-s-your-home-really-worth/)**
+<div class=”post-cta”>
+Looking to sell your Palm Beach County home? <a href=”http://www.desaneandassociates.com/what-s-your-home-really-worth/” target=”_blank”>Click here for a free home value report</a><br>
+Looking to buy a Palm Beach County home? <a href=”http://www.desaneandassociates.com/” target=”_blank”>Click here to search the MLS</a>
+</div>
 
 Today I have three different renovations that will provide the best possible return on investment when it comes time to sell your home:
 
