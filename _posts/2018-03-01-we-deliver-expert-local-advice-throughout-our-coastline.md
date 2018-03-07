@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   My team and I recently had a retreat in Port St. Joe. Here’s a look at what we
   did.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Nathan+Abbott/2018/Nathan+Abbott+Team-+We+Deliver+Expert+Local+Advice+Throughout+Our+Coastline.mp4
 pullquote: This was great for our team to spend some quality time together.
 enclosure_type: video/mp4
 enclosure_time:
