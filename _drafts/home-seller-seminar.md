@@ -54,10 +54,10 @@ The Evening Seminar in June will begin at 6:00pm. At 5pm, please be our guest at
 
 Please join us the hour before the Seminar so you can get a good seat, enjoy some delicious food, &nbsp;and be ready to learn about creating your personal Home Selling Strategy!
 
-#### RESERVE YOUR SEATS TODAY!
+<center>#### RESERVE YOUR SEATS TODAY!</center>
 
-#### <br>CLICK ON THE IMAGE BELOW!
+<center>#### <br>CLICK ON THE IMAGE BELOW!</center>
 
 #### &nbsp;
 
-#### ![](/uploads/versions/steel-button-sign-up-button-sharks-final2--1024x171---x----1024-171x---.png)<br>&nbsp;
+<center>#### ![](/uploads/versions/steel-button-sign-up-button-sharks-final2--1024x171---x----1024-171x---.png)<br>&nbsp;</center>
