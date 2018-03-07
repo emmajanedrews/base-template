@@ -35,6 +35,12 @@ Thinking of selling your home because it’s either too big, too expensive or to
 
 **Thousands of people have attended our seminars.** Whether you need tips on Staging, Pricing, Marketing, Negotiating or Overseeing Transactional Details, you will leave our seminar much more savvy than when you walked in!
 
+#### &nbsp;
+
+#### **[RESERVE YOUR SEATS TODAY!](http://contacts.byreferralonly.com/Form.aspx?Key=B4BB13A2063E8C96A45B730086B92675)**
+
+&nbsp;
+
 Today’s real estate market requires home sellers to employ countless marketing strategies to help protect their asset from the Home Selling Sharks. &nbsp;Learn why it is so important that your real estate consultant spends $, has an extensive marketing background and has creative marketing systems already in place.
 
 **All attendees will receive a 40 page Home Seller Handbook, a Seminar Graduate Certificate and a tee shirt that says “You Have Survived The Home Selling Shark Seminar. You’ll also have the opportunity to ask questions pertaining to your specific needs.**
@@ -53,10 +59,6 @@ The Evening Seminar in June will begin at 6:00pm. At 5pm, please be our guest at
 
 Please join us the hour before the Seminar so you can get a good seat, enjoy some delicious food, &nbsp;and be ready to learn about creating your personal Home Selling Strategy!
 
-#### **RESERVE YOUR SEATS TODAY!**
+#### [**RESERVE YOUR SEATS TODAY!**](http://contacts.byreferralonly.com/Form.aspx?Key=B4BB13A2063E8C96A45B730086B92675)
 
-#### <br>**CLICK ON THE IMAGE BELOW!**
-
-&nbsp;
-
-[![](/uploads/versions/steel-button-sign-up-button-sharks-final2--300x40-1---x----300-40x---.png)](http://contacts.byreferralonly.com/Form.aspx?Key=B4BB13A2063E8C96A45B730086B92675)<br>&nbsp;
+#### &nbsp;
