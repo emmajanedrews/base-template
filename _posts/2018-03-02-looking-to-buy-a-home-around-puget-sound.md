@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   I'm a local real estate agent who can show you a home quickly- call me at
   425-420-4887 or send me an email.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Celeste+Zarling/2018/Looking+To+Buy+A+Home+Around+Puget+Sound%253F.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
