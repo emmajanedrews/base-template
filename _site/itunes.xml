@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title> Real Estate Podcast with </title>
+    <title> Real Estate Podcast with Willie Miranda</title>
     <link>localhost:4000</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</description>
     <language>en</language>
-    <managingEditor></managingEditor>
-    <lastBuildDate>2018-02-06 10:14:01 -0600</lastBuildDate>
-    <media:copyright></media:copyright>
+    <managingEditor>Willie Miranda</managingEditor>
+    <lastBuildDate>2018-03-07 16:40:49 -0600</lastBuildDate>
+    <media:copyright>Willie Miranda</media:copyright>
     <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
-      <itunes:email></itunes:email>
-      <itunes:name></itunes:name>
+      <itunes:email>wmiranda@mrgteam.com</itunes:email>
+      <itunes:name>Willie Miranda</itunes:name>
     </itunes:owner>
-    <itunes:author></itunes:author>
+    <itunes:author>Willie Miranda</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="localhost:4000/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
@@ -25,101 +25,334 @@
       <itunes:category text="Education"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
+        <title>We Can Now Connect You With Buyers and Sellers Everywhere</title>
+        <link>localhost:4000/the-network-that-lets-us-help-around.html</link>
         
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
-        
-          <category>Home Seller Tips</category>
-        
-        <author></author>
-        <pubDate>2016-10-04 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <author>Willie Miranda</author>
+        <pubDate>2018-02-12 10:52:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Capital+District+Real+Estate+The+network+that+lets+us+help+around+the+world.mp4</guid>
         <description>
 
-}
+Miranda Real Estate Group is now affiliated with Leading RE. What does this mean for us?
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+Looking for a Capital District home? Click here for a full Home Search
+Selling Your Capital District home? Get a free Home Price Evaluation
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
 
-“This is an example of a pull quote”
+I’m coming to you from Las Vegas, where I’ve been for the last five days, masterminding with top agents from around the world. I’ve been doing a lot of posting, letting people know that we just affiliated with Leading Real Estate Companies of the World.
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+What is Leading RE? It’s a global network of top real estate brokerages and agents from around the globe. Seventy countries, over 4,000 offices, and more than 130,000 agents are represented in this network.
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+“WE CAN NOW SERVE BUYERS AND SELLERS NOT JUST LOCALLY, BUT INTERNATIONALLY AS WELL.”
+
+For the Miranda Real Estate Group, this means that, now, not only can we sell or help buyers locally, but we can also help them globally. We can also attract many buyers now looking to come into the Capital District with the extra marketing and branding that we now have.
+
+If you are looking to sell or buy a home and want to take advantage of this expansion, please reach out to us. We have access to buyers and sellers all over the world, and we hope to use this network to better serve your needs, wherever you are.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Capital+District+Real+Estate+The+network+that+lets+us+help+around+the+world.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Capital+District+Real+Estate+The+network+that+lets+us+help+around+the+world.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
-        <itunes:author></itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Willie Miranda</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>A Fox in Space</title>
-        <link>localhost:4000/a-fox-in-space.html</link>
+        <title>A Few Predictions for Our 2018 Market</title>
+        <link>localhost:4000/what-2018-holds-for-our-markets.html</link>
         
-          <category>Market Update</category>
+          <category>market update</category>
         
-          <category>Real Estate</category>
-        
-          <category>Home Seller Tips</category>
-        
-        <author></author>
-        <pubDate>2016-09-28 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <author>Willie Miranda</author>
+        <pubDate>2018-01-29 13:11:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Capital+District+Real+Estate+What+2018+holds+for+our+markets.mp4</guid>
         <description>
 
-}
-
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
-
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+2017 was a great year for our market, and conditions are ripe in 2018 for both buyers and sellers to take advantage.
 
 
-  list item
-  list item
-  list item
-  list item
-  list item
+Looking for a Capital District home? Click here for a full Home Search
+Selling Your Capital District home? Get a free Home Price Evaluation
 
 
+What do the final numbers say about our 2017 market? What can buyers and sellers expect moving forward in 2018?
 
-  list item
-  list item
-  list item
-  list item
-  list item
+Overall, 2017 was a pretty good year for our market. The Miranda Real Estate Group had our best year ever, selling 807 homes for a total sales volume of $166 million.
 
+Here’s how the final numbers tallied year over year compared to 2016:
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+• The number of new listings dropped 4%.
+• The number of pending sales rose almost 2%.
+• The number of closed sales stayed pretty much the same.
+• The average days on market dropped from 74 days to 66 days.
+• The median sale price increased 3% from $194,000 to $200,000. This was primarily caused by low inventory, which heightened demand for homes.
+• The list-to-sale price ratio was 95%
 
-“This is an example of a pull quote”
+Right now, we have a 5.5-month supply of inventory. This puts us slightly in a seller’s market, but things are still very balanced. If you’re looking to sell your home, you can expect to get top dollar. If you’re looking to buy, conditions are also favorable due to low interest rates, a healthy stock market, high consumer confidence, and low unemployment.
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+“IF YOU’RE A HOMEBUYER, TAKE ADVANTAGE OF INTEREST RATES WHILE THEY’RE STILL LOW.”
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+These conditions mean we think 2018 will be a great year. If you’re a buyer, though, you should really think about capitalizing on these low interest rates now because they’ll eventually rise throughout the year.
+
+If you have any more questions about our market or you’re thinking of buying or selling a home, give me a call or message me here on our website. I’d love to help you.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Capital+District+Real+Estate+What+2018+holds+for+our+markets.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Capital+District+Real+Estate+What+2018+holds+for+our+markets.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
-        <itunes:author></itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Willie Miranda</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
-    <copyright></copyright>
-    <media:credit role="author"></media:credit>
+      <item>
+        <title>6 Reasons You Should Consider Selling Now </title>
+        <link>localhost:4000/should-you-list-now-or-wait-until-spring.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Willie Miranda</author>
+        <pubDate>2017-12-01 13:11:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Capital+District+Real+Estate+Should+you+list+now+or+wait+until+spring.mp4</guid>
+        <description>
+
+There are six important reasons why the fall and winter months present a great opportunity to sell your home quickly and for top dollar.
+
+
+Looking for a Capital District home? Click here for a full Home Search
+Selling Your Capital District home? Get a free Home Price Evaluation
+
+
+Should you sell your home now or wait until the spring market?
+
+It’s an exciting time to sell in the spring—you have the spring market rush with so many buyers coming out of the woodwork who have been in hibernation all winter. Fall and winter are also great times to sell, though, and here are six reasons why.
+
+“IF YOU’RE TRULY MOTIVATED TO SELL YOUR HOME, YOU NEED TO MAKE SURE IT’S ON THE MARKET THROUGHOUT THE FALL AND WINTER MONTHS”
+
+1. You’ll face less competition. The real estate market is all about supply and demand. If you drive around a neighborhood during the spring, you’ll see all kinds of “For Sale” signs. If you drive around a neighborhood during fall and winter, you won’t see as many of those signs because most of the other sellers have taken their homes off the market. Having less competition will create more demand for your property.
+
+2. There are serious buyers out there. A lot of homeowners out there still believe that nobody buys homes in the fall and wintertime, and that’s just not true. Serious buyers are out there 365 days a year, and you want your home to be on the market so they’ll get a chance to look at it.
+
+3. The best agents are always up for a challenge. If your agent is telling you to take your home off the market and wait until spring so you can enjoy the holidays, you’ve got the wrong agent. If you’re truly motivated to sell your home, you need to make sure it’s on the market throughout the fall and winter months. If you want to enjoy Christmas or New Year’s, you can simply elect not to show your home those days, but don’t take it off the market completely.
+
+4. You can stage for the holiday season. A lot of buyers out there buy with emotion, and they like to see the different colors, aromas, and decorations the holiday season brings. If you stage your home for the holidays, it can create an emotional connection to buyers because it gives them the opportunity to see themselves in the home next holiday season.
+
+5. Mortgage rates are low right now. What happens if they rise 0.5% after the first of the year, though? That could mean the difference between getting top dollar for your home right now or watching it sit on the market for much longer. When mortgage rates rise, buyers’ buying power diminishes.
+
+6. Odds are you’ll have a quicker transaction. Though a lot of sales happen in the spring, those transactions normally take between six and eight weeks to complete. Fall and winter transactions close quicker than that because there are fewer other closings happening and fewer inspections that need to be done.
+
+If you have any questions about this topic or you’re thinking of buying or selling a home in the Capital District, don’t hesitate to call me or message me on my website. I’d love to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Capital+District+Real+Estate+Should+you+list+now+or+wait+until+spring.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Capital+District+Real+Estate+Should+you+list+now+or+wait+until+spring.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Willie Miranda</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>First Quarter Market Update for the Capital District</title>
+        <link>localhost:4000/capital-district-real-estate-first.html</link>
+        
+          <category>market update</category>
+        
+        <author>Willie Miranda</author>
+        <pubDate>2017-06-02 13:57:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Capital+District+Real+Estate+First+quarter+market+update.mp4</guid>
+        <description>
+
+The numbers for the first quarter in our real estate market are in! I’ll go over those with you today.
+
+
+Looking for a Capital District home? Click here for a full Home Search
+Selling Your Capital District home? Get a free Home Price Evaluation
+
+
+What’s going on with our housing market?
+
+The first four months have been very good, despite the rumors floating around about the government changes, interest rates going up, and low inventory. Despite a 23.5% decrease in the number of homes for sale this year compared to last year, we’re still doing well.
+
+Pending sales are up and the average sales price is up 3.2% at $217,302. It’s all about supply and demand. The fewer homes are on the market, the more demand there is, which increases prices for sellers. However, homes still need to be priced right to sell quickly.
+
+The average days on market was 96 last year, which is down to 84 days this year. So, not only are homes selling for more money, they’re also selling more quickly.
+
+Due to the shortage of inventory, we are seeing a lot of multiple offer situations. Buyers are getting discouraged as they go up against all-cash offers or offers with a large deposit. Luckily, we anticipate more inventory coming onto the market as we enter the second quarter, so buyers should have more to choose from and have a better chance at getting their offer accepted.
+
+“ANTICIPATED INVENTORY GROWTH IN THE NEXT FEW MONTHS WILL GIVE BUYERS A BETTER SHOT AT FINDING THEIR DREAM HOME.”
+
+If you have any questions about the market or are looking to buy or sell a home, please feel free to give me a call or send me an email. I look forward to hearing from you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Capital+District+Real+Estate+First+quarter+market+update.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Capital+District+Real+Estate+First+quarter+market+update.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Willie Miranda</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>A Great New Home Selling Resource</title>
+        <link>localhost:4000/capital-district-real-estate-want-free.html</link>
+        
+          <category>miranda home selling team</category>
+        
+        <author>Willie Miranda</author>
+        <pubDate>2017-05-02 14:43:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Capital+District+Real+Estate+Want+a+free+copy+of+my+new+book.mp4</guid>
+        <description>
+
+
+Looking for a Capital District home? Click here for a full Home Search
+Selling Your Capital District home? Get a free Home Price Evaluation
+
+
+I’m excited today because I just received the first shipment of my book, “What Every Person Needs to Know About Selling a Home in the Capital District.”
+
+My team and I have sold over 7,000 homes here in the Capital District for well over a billion dollars in real estate sales. In my new seller book, I will share with you my experience and knowledge to help you sell your home fast and for top dollar. Unfortunately, I talk to many homeowners who really have no clue about what it takes to sell their house for top dollar.
+
+There’s a book for both buyers and sellers. In the seller version, for example, you’ll get tips on how to sell your house for top dollar, staging, the questions you should ask a real estate agent, preparing for home inspections, and setting a price for your home. Pricing your home is one of the most important aspects of your sale.
+
+“IF YOU’RE THINKING OF SELLING IN THE NEXT TWO YEARS, GET YOUR HANDS ON A FREE COPY SOON.”
+
+If you’re even thinking about selling your house here in the Capital District in the next one to two years, you definitely want to get a hold of your free copy of this book.
+
+If you’d like to receive your free copy, visit &lt;a href=”http://518sellerbook.com” 518sellerbook.com&lt;/a&gt; or call me directly.
+
+I look forward to hearing your feedback!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Capital+District+Real+Estate+Want+a+free+copy+of+my+new+book.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Capital+District+Real+Estate+Want+a+free+copy+of+my+new+book.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Willie Miranda</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What to Expect From the Capital District Real Estate Market in 2017</title>
+        <link>localhost:4000/capital-district-real-estate-inventory.html</link>
+        
+          <category>market update</category>
+        
+        <author>Willie Miranda</author>
+        <pubDate>2017-03-15 16:44:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Capital+District+Real+Estate+Inventory+won%E2%80%99t+stay+this+low+for+long.mp4</guid>
+        <description>
+
+There is a lot to smile about in the Capital District real estate market. Here are just a few of the trends we are seeing right now.
+
+
+Looking for a Capital District home? Click here for a full Home Search
+Selling Your Capital District home? Get a free Home Price Evaluation
+
+
+No matter where I go, people ask me about the market here in the Capital District. There has been a lot of uncertainty lately with a soaring stock market and a new presidential administration, so it’s only natural that people want to know what’s going on.
+
+Here’s what I’ve been seeing lately.
+
+Home prices here in the Capital District are up by about 5% from last year. The main reason for that is our shortage of inventory. We only have about a five-month supply right now. That’s 20% less inventory than we had at this time in 2016. That’s great news for home sellers because the low supply is driving demand and prices up.
+
+“Low supply is driving higher demand and prices.”
+
+As we see more inventory come on the market in the spring and summer, we will see sales prices decrease. Pending sales are up, which is good, but we are starting to see sales decline from last year. Consistent wages and stable unemployment have contributed to this, too.
+
+With all that in place, it looks like the first quarter stats from 2017 point to a strong market throughout the year. If you have any questions for me or you’re looking to buy a home in the Capital District, give me a call or send me an email. I would love to hear from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Capital+District+Real+Estate+Inventory+won%E2%80%99t+stay+this+low+for+long.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Capital+District+Real+Estate+Inventory+won%E2%80%99t+stay+this+low+for+long.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Willie Miranda</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>The Benefits of Selling a House in the Winter</title>
+        <link>localhost:4000/capital-district-real-estate-should-you.html</link>
+        
+          <category>Home Selling Tips</category>
+        
+        <author>Willie Miranda</author>
+        <pubDate>2017-01-06 11:40:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Capital+District+Real+Estate+Should+you+list+your+house+this+winter.mp4</guid>
+        <description>
+
+Should you sell your home now or wait for the spring market if you’re preparing to move? Today I’ll explain why you should list now.
+
+
+Looking for a Capital District home? Click here for a full Home Search
+Selling Your Capital District home? Get a free Home Price Evaluation
+
+
+I recently received a great question from a viewer that I wanted to answer for everyone. She asked, “Should I list my home now during the winter months or should I wait until the spring?”
+
+There are three reasons why I feel you should list now rather than waiting for the spring market:
+
+1. Less competition. There are only about three months of inventory here in the Capital District, and this will make your home stand out more with the buyers out there. In the spring, you will compete against many more sellers.
+
+Buyers are really motivated right now. The buyers who are out looking for homes in the cold and snow are not just kicking tires; they are highly motivated to buy a home for reasons like a job transfer or tax reasons. Additionally, interest rates just went up, so buyers want to get a deal done before they go up again.
+
+Your home looks great if it’s tastefully decorated this time of year. Buyers make emotional decisions when buying a home and you want them to feel comfortable in your home. Buyers want to be able to picture themselves in your warm, cozy home next year when they’re celebrating the holidays with their family.
+
+“The decrease in competition makes your home stand out in the winter.”
+
+Thanks to Eileen for submitting this question. It’s a great topic for this season. You win a $25 gift card for having your question selected!
+
+If you’re ready to get into the market this winter, give me a call or send me an email. I’d be happy to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Capital+District+Real+Estate+Should+you+list+your+house+this+winter.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Capital+District+Real+Estate+Should+you+list+your+house+this+winter.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Willie Miranda</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+    <copyright>Willie Miranda</copyright>
+    <media:credit role="author">Willie Miranda</media:credit>
     <media:rating>nonadult</media:rating>
     <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</media:description>
   </channel>

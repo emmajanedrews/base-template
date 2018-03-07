@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>localhost:4000/this-is-a-test-post-copy-2.html</loc>
-<lastmod>2016-10-04T00:00:00-05:00</lastmod>
+<loc>localhost:4000/the-network-that-lets-us-help-around.html</loc>
+<lastmod>2018-02-12T10:52:00-06:00</lastmod>
 </url>
 <url>
-<loc>localhost:4000/a-fox-in-space.html</loc>
-<lastmod>2016-09-28T00:00:00-05:00</lastmod>
+<loc>localhost:4000/what-2018-holds-for-our-markets.html</loc>
+<lastmod>2018-01-29T13:11:00-06:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/should-you-list-now-or-wait-until-spring.html</loc>
+<lastmod>2017-12-01T13:11:00-06:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/capital-district-real-estate-first.html</loc>
+<lastmod>2017-06-02T13:57:00-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/capital-district-real-estate-want-free.html</loc>
+<lastmod>2017-05-02T14:43:00-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/capital-district-real-estate-inventory.html</loc>
+<lastmod>2017-03-15T16:44:00-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/capital-district-real-estate-should-you.html</loc>
+<lastmod>2017-01-06T11:40:00-06:00</lastmod>
 </url>
 <url>
 <loc>localhost:4000/404.html</loc>
@@ -37,5 +57,8 @@
 </url>
 <url>
 <loc>localhost:4000/thankyou/</loc>
+</url>
+<url>
+<loc>localhost:4000/page2/</loc>
 </url>
 </urlset>
