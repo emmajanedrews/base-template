@@ -34,7 +34,9 @@ Thinking of selling your home because it’s either too big, too expensive or to
 
 **Thousands of people have attended our seminars.** Whether you need tips on Staging, Pricing, Marketing, Negotiating or Overseeing Transactional Details, you will leave our seminar much more savvy than when you walked in!
 
-Today’s real estate market requires home sellers to employ countless marketing strategies to help protect their asset from the Home Selling Sharks. &nbsp;Learn why it is so important that your real estate consultant spends $$$$$, has an extensive marketing background and has creative marketing systems already in place.
+Today’s real estate market requires home sellers to employ countless marketing strategies to help protect their asset from the Home Selling Sharks. &nbsp;Learn why it is so important that your real estate consultant spends
+
+<script type="math/tex"></script>$, has an extensive marketing background and has creative marketing systems already in place.
 
 **All attendees will receive a 40 page Home Seller Handbook, a Seminar Graduate Certificate and a tee shirt that says “You Have Survived The Home Selling Shark Seminar. You’ll also have the opportunity to ask questions pertaining to your specific needs.**
 
@@ -42,13 +44,9 @@ Today’s real estate market requires home sellers to employ countless marketing
 
 We are looking forward to sharing everything that we know about the home selling process in this New World of Real Estate.
 
-&nbsp;
-
 **2018 Dates**
 
 **Saturday, January 27th, 2018 @ Hilton Garden Inn Fort Washington 9:30am<br>Saturday, April 7th, 2018 @ Hilton Garden Inn Fort Washington 9:30am<br>Tuesday, June 12th, 2018 @ Hilton Garden Inn Fort Washington 6:00pm<br>Saturday, October 13th, 2018 @ Hilton Garden Inn Fort Washington 9:30am**
-
-&nbsp;
 
 The Breakfast Seminars, in January,March and October are on Saturdays and will begin at 9:30am and you are invited to join us for a fabulous Breakfast prior to the seminar beginning at 8:30am. Dom Giordano, Talk Show Host from WHPT 1210am will be the at 8:30am for a Private Meet and Greet.
 
