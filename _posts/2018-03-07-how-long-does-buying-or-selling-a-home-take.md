@@ -18,7 +18,7 @@ youtube_code: XufupdY_59Y
 
 Today I want to talk with you real quick about the timeline of purchasing or selling a home.
 
-When you’re getting ready to list your home on the market for sale, **it’s best to get the ball rolling early on in the process.**We’d love to come out and give you some tips on what will help it sell for more. Once it’s ready, we can go over comparable homes and find a good listing price for your home. Once we have the home listed, the market average for Southwest Indiana was 62 days in 2017. **Our team actually averaged 47 days.** Once the home goes pending, it usually takes 30 to 40 days for the transaction to close. Sometimes we can negotiate possession of the property for up to 30 days after closing if you need it.
+When you’re getting ready to list your home on the market for sale, **it’s best to get the ball rolling early on in the process.** We’d love to come out and give you some tips on what will help it sell for more. Once it’s ready, we can go over comparable homes and find a good listing price for your home. Once we have the home listed, the market average for Southwest Indiana was 62 days in 2017. **Our team actually averaged 47 days.** Once the home goes pending, it usually takes 30 to 40 days for the transaction to close. Sometimes we can negotiate possession of the property for up to 30 days after closing if you need it.
 
 {% include pullquote.html %}
 
