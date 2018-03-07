@@ -20,6 +20,11 @@ youtube_code: 'https://youtu.be/zHB-K6qDt_8'
 
 {% include youtube.html %}
 
+<div class="post-cta">
+Looking to sell your Palm Beach County home? <a href="http://www.desaneandassociates.com/what-s-your-home-really-worth/" target="_blank">Click here for a free home value report</a><br>
+Looking to buy a Palm Beach County home? <a href="http://www.desaneandassociates.com/" target="_blank">Click here to search the MLS</a>
+</div>
+
 Something we’ve learned over the last few years is that the holidays are a great time of year to sell your home. Many agents like to take this time of the year off, but we don’t.
 
 That isn’t to say we don’t enjoy time with our friends and families. Rather, we simply owe it to our clients to keep working as hard as it can. If you’re thinking of listing your property, here are a few reasons to do so during the holidays:
