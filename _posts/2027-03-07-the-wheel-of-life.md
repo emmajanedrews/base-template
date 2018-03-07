@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Wheel of Life
-date: 2018-03-07 20:13:18
+date: 2027-03-07 20:13:00
 tags:
   - Real Estate
 excerpt: “The Wheel of Life” is a fun and enlightening exercise. Here’s how it works.
