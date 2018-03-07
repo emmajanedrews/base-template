@@ -22,7 +22,7 @@ Thinking of selling your home because it’s either too big, too expensive or to
 
 **Come learn how to keep up to 10% more equity in your pocket where it belongs. Diane will show you her 8 Secret Strategies and how you sell your home 4 TIMES Faster than using the methods of a Traditional Realtor.**
 
-**Also, learn about the following and how you can get your  “26 Day Home Sold GUARANTEE”:**
+**Also, learn about the following and how you can get your &nbsp;“26 Day Home Sold GUARANTEE”:**
 
 * **Eliminate All Unnecessary Expenses!** Avoid unnecessary costs when preparing your home for sale and defend yourself against unwarranted inspection repair demands from Buyers.
 * **Avoid the 3 Top Mistakes!** Home Sellers make 3 common mistakes when choosing a Realtor: Hiring a Realtor because the company has lots of signs on the lawn, Hiring a Neighborhood or Family Realtor, and Hiring a Realtor because of a price they give you.
@@ -35,7 +35,7 @@ Thinking of selling your home because it’s either too big, too expensive or to
 
 **Thousands of people have attended our seminars.** Whether you need tips on Staging, Pricing, Marketing, Negotiating or Overseeing Transactional Details, you will leave our seminar much more savvy than when you walked in!
 
-Today’s real estate market requires home sellers to employ countless marketing strategies to help protect their asset from the Home Selling Sharks.  Learn why it is so important that your real estate consultant spends $, has an extensive marketing background and has creative marketing systems already in place.
+Today’s real estate market requires home sellers to employ countless marketing strategies to help protect their asset from the Home Selling Sharks. &nbsp;Learn why it is so important that your real estate consultant spends $, has an extensive marketing background and has creative marketing systems already in place.
 
 **All attendees will receive a 40 page Home Seller Handbook, a Seminar Graduate Certificate and a tee shirt that says “You Have Survived The Home Selling Shark Seminar. You’ll also have the opportunity to ask questions pertaining to your specific needs.**
 
@@ -51,11 +51,10 @@ The Breakfast Seminars, in January,March and October are on Saturdays and will b
 
 The Evening Seminar in June will begin at 6:00pm. At 5pm, please be our guest at the Meet and Greet with Dom Giordano, serving fabulous Hors d’oeuvres.
 
-Please join us the hour before the Seminar so you can get a good seat, enjoy some delicious food,  and be ready to learn about creating your personal Home Selling Strategy!
+Please join us the hour before the Seminar so you can get a good seat, enjoy some delicious food, &nbsp;and be ready to learn about creating your personal Home Selling Strategy!
 
+#### **RESERVE YOUR SEATS TODAY!**
 
-#### RESERVE YOUR SEATS TODAY!
+#### <br>**CLICK ON THE IMAGE BELOW!**
 
-#### <br>CLICK ON THE IMAGE BELOW!
-
-<a href="http://contacts.byreferralonly.com/Form.aspx?Key=B4BB13A2063E8C96A45B730086B92675"><img alt="" src="/uploads/versions/steel-button-sign-up-button-sharks-final2--1024x171-1---x----1024-171x---.png" width="1024" height="171" /></a><br />&nbsp;
+[![](/uploads/versions/steel-button-sign-up-button-sharks-final2--1024x171-1---x----1024-171x---.png)](http://contacts.byreferralonly.com/Form.aspx?Key=B4BB13A2063E8C96A45B730086B92675)<br>&nbsp;
