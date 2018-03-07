@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   What remodeling projects will give a boost to your home’s value? Here are
   three that we recommend.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Joe+DeSane/Palm+Beach+County+Real+Estate-+How+to+Increase+Your+Sale+Price.mp4
 pullquote: Kitchen remodels bring the highest return.
 enclosure_type: video/mp4
 enclosure_time:
@@ -19,7 +20,7 @@ youtube_code: 'https://youtu.be/apxHmLr4sVo'
 {% include youtube.html %}
 
 <div class="post-cta">
-Looking to sell your Palm Beach County home? <a href="http://www.desaneandassociates.com/what-s-your-home-really-worth/" target="_blank">Click here for a free home value report</a><br>
+Looking to sell your Palm Beach County home? <a href="http://www.desaneandassociates.com/what-s-your-home-really-worth/" target="_blank">Click here for a free home value report</a><br />
 Looking to buy a Palm Beach County home? <a href="http://www.desaneandassociates.com/" target="_blank">Click here to search the MLS</a>
 </div>
 
