@@ -21,6 +21,11 @@ youtube_code: 'https://youtu.be/PWdFtDfM6Dk'
 
 {% include youtube.html %}
 
+<div class="post-cta">
+Looking to sell your Palm Beach County home? <a href="http://www.desaneandassociates.com/what-s-your-home-really-worth/" target="_blank">Click here for a free home value report</a><br>
+Looking to buy a Palm Beach County home? <a href="http://www.desaneandassociates.com/" target="_blank">Click here to search the MLS</a>
+</div>
+
 Buying your first home is a very exciting process, but it can also be very stressful. Before you get started, there are three tips I’d like to share that can help prevent issues as you move forward.
 
 1. **Know what you can afford.** Many first-time homebuyers only consider their mortgage when deciding on their budget. They forget about closing costs, taxes, insurance, and the ongoing maintenance that comes from owning a home. When you rent, you can call your landlord and ask to have maintenance done for you. But when you own a home, you are your own landlord, so these maintenance costs are your own responsibility.<br>{% include pullquote.html %}
