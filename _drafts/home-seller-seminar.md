@@ -3,7 +3,8 @@ layout: post
 title: Home Seller Seminar
 date:
 tags:
-excerpt:
+  - Home Seller Tips
+excerpt: Sign up for the next Home Seller Seminar!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -34,7 +35,9 @@ Thinking of selling your home because it’s either too big, too expensive or to
 
 **Thousands of people have attended our seminars.** Whether you need tips on Staging, Pricing, Marketing, Negotiating or Overseeing Transactional Details, you will leave our seminar much more savvy than when you walked in!
 
-Today’s real estate market requires home sellers to employ countless marketing strategies to help protect their asset from the Home Selling Sharks. &nbsp;Learn why it is so important that your real estate consultant spends $$$$$, has an extensive marketing background and has creative marketing systems already in place.
+Today’s real estate market requires home sellers to employ countless marketing strategies to help protect their asset from the Home Selling Sharks. &nbsp;Learn why it is so important that your real estate consultant spends
+
+<script type="math/tex"></script>$, has an extensive marketing background and has creative marketing systems already in place.
 
 <script type="math/tex"></script>
 
@@ -54,10 +57,12 @@ The Evening Seminar in June will begin at 6:00pm. At 5pm, please be our guest at
 
 Please join us the hour before the Seminar so you can get a good seat, enjoy some delicious food, &nbsp;and be ready to learn about creating your personal Home Selling Strategy!
 
-#### <center>RESERVE YOUR SEATS TODAY!</center>
+#### &nbsp;
 
-<center>####<br />CLICK ON THE IMAGE BELOW!</center>
+#### RESERVE YOUR SEATS TODAY!
+
+#### <br>CLICK ON THE IMAGE BELOW!
 
 #### &nbsp;
 
-<center>#### ![](/uploads/versions/steel-button-sign-up-button-sharks-final2--1024x171---x----1024-171x---.png)<br />&nbsp;</center>
+<center><a href="http://contacts.byreferralonly.com/Form.aspx?Key=B4BB13A2063E8C96A45B730086B92675"><img alt="" src="/uploads/versions/steel-button-sign-up-button-sharks-final2--1024x171-1---x----1024-171x---.png" width="1024" height="171" /></a><br />&nbsp;</center>
