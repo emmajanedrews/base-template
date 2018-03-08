@@ -2769,3 +2769,52 @@ form select {
 .testimonial-author {
   color: #b40101;
   margin-top: -20px; }
+
+.e2ma_signup_form_label {
+  color: #555 !important;
+  Text-align: center; }
+
+.e2ma_signup_form_required_footnote {
+  color: #555 !important;
+  Text-align: center; }
+
+.e2ma_signup_form_required_asterix {
+  color: #a1b66a !important; }
+
+.e2ma_signup_form input[type="submit"] {
+  background-color: #a1b66a;
+  margin: 0 auto;
+  display: block; }
+
+.e2ma_signup_form input[type="submit"]:hover {
+  background-color: #fff;
+  Color: #a1b66a;
+  Border: 1px solid #a1b66a; }
+
+.e2ma_signup_form {
+  background-color: #fff;
+  Border: 1px solid #cfcfcf;
+  margin-bottom: 22px !important; }
+
+.e2ma_signup_message {
+  padding-top: 10px;
+  Color: #353535 !important;
+  font-family: "Source Sans Pro", helvetica, arial, sans-serif;
+  Text-align: center;
+  Font-size: 18px !important;
+  margin-bottom: 10px;
+  Line-height: 1.2; }
+
+.e2ma_signup_form_button_row {
+  margin: 10px 0 0 0 !important;
+  padding: 10px 0 0 0 !important; }
+
+.whitespace {
+  line-height: 1.2;
+  font-size: 18px; }
+
+.landing-list {
+  margin-bottom: 0; }
+  .landing-list li {
+    font-size: 16px;
+    line-height: 1.2; }
