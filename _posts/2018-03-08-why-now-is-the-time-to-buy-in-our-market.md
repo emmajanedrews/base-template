@@ -32,7 +32,7 @@ The second myth is that you need a FICO score of at least 750 to qualify for a l
 
 To learn more, [click here](http://www.simplifyingthemarket.com/en/2018/01/30/2-major-myths-holding-back-home-buyers/?a=323701-ea9cfdf9d119bc9a1cd75b3509ec10e4).
 
-<a href="http://www.simplifyingthemarket.com/en/2018/01/30/2-major-myths-holding-back-home-buyers/?a=323701-ea9cfdf9d119bc9a1cd75b3509ec10e4" target="_blank"><img src="/uploads/versions/dee-myth---x----1024-791x---.jpeg" class="three-quarter-image"></a>
+<a href="http://www.simplifyingthemarket.com/en/2018/01/30/2-major-myths-holding-back-home-buyers/?a=323701-ea9cfdf9d119bc9a1cd75b3509ec10e4" target="_blank"><img src="/uploads/versions/dee-myth.jpeg" class="three-quarter-image"></a>
 
 If you’re planning on buying a home but you want to wait, you might be in for a surprise. Right now, interest rates are very low and hovering between the high 3% and low 4% range. By the end of this year, however, they’re projected to climb closer to 5%.
 
@@ -46,7 +46,7 @@ The cost of renting is another factor to consider. Historically, the percentage 
 
 To learn more, [click here](http://www.simplifyingthemarket.com/en/2017/10/20/the-cost-of-renting-vs-buying-a-home-infographic/?a=323701-ea9cfdf9d119bc9a1cd75b3509ec10e4).
 
-<a href="http://www.simplifyingthemarket.com/en/2017/10/20/the-cost-of-renting-vs-buying-a-home-infographic/?a=323701-ea9cfdf9d119bc9a1cd75b3509ec10e4" target="_blank"><img src="/uploads/versions/dee-myth-2---x----791-1024x---.jpg" class="three-quarter-image"></a>
+<a href="http://www.simplifyingthemarket.com/en/2017/10/20/the-cost-of-renting-vs-buying-a-home-infographic/?a=323701-ea9cfdf9d119bc9a1cd75b3509ec10e4" target="_blank"><img src="/uploads/versions/dee-myth-2.jpg" class="three-quarter-image"></a>
 
 You owe it to yourself to consider making the leap from renting to homeownership. One way or another, you’re paying someone’s mortgage.
 
