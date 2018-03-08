@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>localhost:4000/how-our-compensation-plan-can-benefit-you.html</loc>
+<lastmod>2018-03-01T21:45:00-06:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/is-the-customer-always-right.html</loc>
+<lastmod>2018-02-28T08:35:00-06:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/why-abby-realty-is-one-of-the-fastest-growing-brokerages-in-houston.html</loc>
+<lastmod>2018-02-22T11:04:00-06:00</lastmod>
+</url>
+<url>
 <loc>localhost:4000/404.html</loc>
 </url>
 <url>
