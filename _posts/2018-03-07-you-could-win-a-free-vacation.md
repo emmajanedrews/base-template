@@ -22,9 +22,9 @@ youtube_code: l0ir2dhJG40
 
 {% include youtube.html %}
 
-Today, I want to talk about an exciting program we have that might have already heard of.
+Today, I want to talk about an exciting program we have that you might have already heard of.
 
-Last year, we gave away an exciting vacation to a couple. All they did was call us and tell us about a friend of theirs that wanted to buy or sell a house. Their names went into a drawing and t**hey won the free vacation—just by mentioning our name.**
+Last year, we gave away an exciting vacation to a couple. All they did was call us and tell us about a friend of theirs that wanted to buy or sell a house. Their names went into a drawing and **t****hey won the free vacation—just by mentioning our name.**
 
 {% include pullquote.html %}
 
