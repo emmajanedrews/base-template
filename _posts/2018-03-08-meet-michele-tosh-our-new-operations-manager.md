@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meet Michele Tosh, Our New Operations Manager'
-date:
+date: 2018-03-08 18:56:31
 tags:
   - Real Estate
 excerpt: 'Today, I’d like you to meet Michele Tosh, the newest member of our team.'
@@ -28,4 +28,4 @@ Michele is excited and charged to dive into helping us with the organization on 
 
 The Wicker Homes Group is **very excited to be serving you at an even higher level.**Stay tuned for all sorts of developments as we continue to progress through the wonderful year of 2018.
 
-If you have any questions or need any help, give me a shout. I’d love to help.<br>&nbsp;
+If you have any questions or need any help, give me a shout. I’d love to help.<br>
