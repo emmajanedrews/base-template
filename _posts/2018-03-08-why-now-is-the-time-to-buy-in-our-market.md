@@ -32,7 +32,7 @@ The second myth is that you need a FICO score of at least 750 to qualify for a l
 
 To learn more, [click here](http://www.simplifyingthemarket.com/en/2018/01/30/2-major-myths-holding-back-home-buyers/?a=323701-ea9cfdf9d119bc9a1cd75b3509ec10e4).
 
-[![](/uploads/versions/dee-myth---x----1024-791x---.jpeg)![](/uploads/versions/dee-myth---x----1024-768x---.jpeg)](http://www.simplifyingthemarket.com/en/2018/01/30/2-major-myths-holding-back-home-buyers/?a=323701-ea9cfdf9d119bc9a1cd75b3509ec10e4)
+[![](/uploads/versions/dee-myth---x----1024-791x---.jpeg)![](/uploads/versions/dee-myth---x----1024-768x---.jpeg)](http://www.simplifyingthemarket.com/en/2018/01/30/2-major-myths-holding-back-home-buyers/?a=323701-ea9cfdf9d119bc9a1cd75b3509ec10e4){ .three-quarter-image}
 
 If you’re planning on buying a home but you want to wait, you might be in for a surprise. Right now, interest rates are very low and hovering between the high 3% and low 4% range. By the end of this year, however, they’re projected to climb closer to 5%.
 
@@ -44,7 +44,7 @@ As you can see, **you don’t have to wait to buy a home if you’re ready now.*
 
 The cost of renting is another factor to consider. Historically, the percentage of income needed to afford the median cost of rent has been 25.8%. Now, that percentage has increased to 29.2%. The percentage of income needed to afford a median home, on the other hand, has dropped from its historical average of 21% to just 15.8% right now. The reason for this decrease is interest rates are so low.
 
-To learn more, [click here](http://www.simplifyingthemarket.com/en/2017/10/20/the-cost-of-renting-vs-buying-a-home-infographic/?a=323701-ea9cfdf9d119bc9a1cd75b3509ec10e4).
+To learn more, [click here](http://www.simplifyingthemarket.com/en/2017/10/20/the-cost-of-renting-vs-buying-a-home-infographic/?a=323701-ea9cfdf9d119bc9a1cd75b3509ec10e4){ .three-quarter-image}.
 
 [![](/uploads/versions/dee-myth-2---x----791-1024x---.jpg)](http://www.simplifyingthemarket.com/en/2017/10/20/the-cost-of-renting-vs-buying-a-home-infographic/?a=323701-ea9cfdf9d119bc9a1cd75b3509ec10e4)
 
