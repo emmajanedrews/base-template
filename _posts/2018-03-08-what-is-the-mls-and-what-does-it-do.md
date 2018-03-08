@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Is the MLS and What Does It Do?
-date:
+date: 2018-03-08 21:14:28
 tags:
   - Home Buyer Tips
 excerpt: >-
