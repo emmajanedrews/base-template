@@ -18,7 +18,7 @@ youtube_code: heKlWqX-eHk
 
 {% include youtube.html %}
 
-The MLS has changed a lot over the last 15 years. Here’s what you need to know.
+<center>The MLS has changed a lot over the last 15 years. Here’s what you need to know.</center>
 
 We’ve been getting quite a few questions lately about the multiple listing service (MLS), what it is, and what it does. There are a few things confusing people about the system, so I wanted to clear the air today.
 
