@@ -3,6 +3,7 @@ layout: post
 title: Why Now Is the Time to Buy in Our Market
 date:
 tags:
+  - Home Buyer Tips
 excerpt: >-
   There are a few very important reasons that make now the time to buy in our
   market.
@@ -17,7 +18,9 @@ youtube_code: 502CbsS0Lb0
 
 {% include youtube.html %}
 
-<center>There are a few very important reasons that make now the time to buy in our market.</center>
+<center><em>There are a few very important reasons that make now the time to buy in our market.</em></center>
+
+<center>&nbsp;</center>
 
 If you’re thinking of buying a home in our market, now might be the time to take action, and there are a few reasons why.&nbsp;
 
@@ -26,6 +29,10 @@ First, there are two main real estate myths that keep people from buying homes i
 The first is that you need to put down at least 20% for your down payment. **Not only is this not true, but there are loan programs out there that require far less than 20%.** FHA loans, for instance, only require as little as 3.5% down. Some conventional loans only require 3% down. USDA loans don’t require any money down at all. Some lenders will also loan you money for your closing costs if you’re a first-time homebuyer.&nbsp;
 
 The second myth is that you need a FICO score of at least 750 to qualify for a loan. On the contrary, **over half (53.5%) of all loans are given with credit scores between 600 and 750.&nbsp;**
+
+To learn more, [click here](http://www.simplifyingthemarket.com/en/2018/01/30/2-major-myths-holding-back-home-buyers/?a=323701-ea9cfdf9d119bc9a1cd75b3509ec10e4).
+
+[![](/uploads/versions/dee-myth---x----1024-768x---.jpeg)](http://www.simplifyingthemarket.com/en/2018/01/30/2-major-myths-holding-back-home-buyers/?a=323701-ea9cfdf9d119bc9a1cd75b3509ec10e4)
 
 If you’re planning on buying a home but you want to wait, you might be in for a surprise. Right now, interest rates are very low and hovering between the high 3% and low 4% range. By the end of this year, however, they’re projected to climb closer to 5%.&nbsp;
 
@@ -36,6 +43,10 @@ What does this mean in terms of dollars and cents? If you’re looking to buy a 
 As you can see, **you don’t have to wait to buy a home if you’re ready now.** The fact is, you can’t lock in a low mortgage rate if you don’t have a property.&nbsp;
 
 The cost of renting is another factor to consider. Historically, the percentage of income needed to afford the median cost of rent has been 25.8%. Now, that percentage has increased to 29.2%. The percentage of income needed to afford a median home, on the other hand, has dropped from its historical average of 21% to just 15.8% right now. The reason for this decrease is interest rates are so low.&nbsp;
+
+To learn more, [click here](http://www.simplifyingthemarket.com/en/2017/10/20/the-cost-of-renting-vs-buying-a-home-infographic/?a=323701-ea9cfdf9d119bc9a1cd75b3509ec10e4).
+
+[![](/uploads/versions/dee-myth-2---x----791-1024x---.jpg)](http://www.simplifyingthemarket.com/en/2017/10/20/the-cost-of-renting-vs-buying-a-home-infographic/?a=323701-ea9cfdf9d119bc9a1cd75b3509ec10e4)
 
 You owe it to yourself to consider making the leap from renting to homeownership. One way or another, you’re paying someone’s mortgage.&nbsp;
 
