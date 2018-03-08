@@ -14,7 +14,6 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: 502CbsS0Lb0
-class: half-image
 ---
 
 {% include youtube.html %}
