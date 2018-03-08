@@ -22,13 +22,13 @@ youtube_code: CLQp1sy7yIk
 
 <center>&nbsp;</center>
 
-Our old friend, Punxsutawney Phil, has predicted six more weeks of winter. Phil doesn’t exactly have the best track record for predictions, and recently, we’ve experienced unusually warm weather. Just in case our four-legged, state-appointed meteorologist is wrong, **you might want to consider getting started on spring cleaning early.**
+Our old friend Punxsutawney Phil has predicted six more weeks of winter. Phil doesn’t exactly have the best track record for predictions, and recently, we’ve experienced unusually warm weather. Just in case our four-legged, state-appointed meteorologist is wrong, **you might want to consider getting started on spring cleaning early.**
 
 Spring is fast approaching. We know this is the time of year that people want to start the home selling and buying process.
 
 “The pool of interested buyers at the end of the year significantly outweighed what was available for sale,” said Lawrence Yun about inventory last year. **The biggest challenge we have is a lack of inventory at a time when we’ve had tremendous demand.**
 
-There has been talk over the last couple of years that maybe Americans don’t believe in homeownership the way that they used to. New stats suggest that this isn’t true. As a matter of fact, the Wall Street Journal published and article this past week that said:
+There has been talk over the last couple of years that maybe Americans don’t believe in homeownership the way that they used to. New stats suggest that this isn’t true. As a matter of fact, The Wall Street Journal published an article this past week that said:
 
 > “The US homeownership rate rose in 2017 for the first time in 13 years….The annual increase marks a crucial turning point because it comes after the federal government reined in bubble-era policies that encouraged banks to ease lending standards to boost homeownership. This time, what’s driving the market is a shift in favor of owning rather than renting.”
 
@@ -46,4 +46,4 @@ There you have it. If you’re selling this year, get on my “coming soon” li
 
 If you’re planning to sell, but just not this year, **you’re invited to our next home seller seminar on April 17 at the Hilton Garden Inn. Here, I’ll give you great and strategic information on how to make more money and sell your home fast. To sign up for the seminar, visit [www.homesharkseminar.com](www.homesharkseminar.com).**
 
-For any other questions, feel free to reach out to me.<br>
+For any other questions, feel free to reach out to me. I would be happy to help you!
