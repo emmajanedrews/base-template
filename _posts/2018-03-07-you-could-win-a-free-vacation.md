@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You Could Win a Free Vacation
-date: 2018-03-07 21:33:49
+date: 2018-03-07 21:33:00
 tags:
   - Home Seller Tips
   - Home Buyer Tips
@@ -10,9 +10,7 @@ excerpt: >-
   to a friend or family member.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Lance+Woodley/Columbia+Real+Estate+Agent-+You+Could+Win+a+Free+Vacation.mp4
-pullquote: >-
-  Win an all-expense-paid vacation // Your next vacation could be on us // You
-  have a chance to win a vacation
+pullquote: They won the free vacation—just by mentioning our name.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
