@@ -44,6 +44,6 @@ If you’re thinking about selling or buying a home, according to Bill Banfield,
 
 There you have it. If you’re selling this year, get on my “coming soon” listings website and have buyers waiting to pay you listing price or more.
 
-If you’re planning to sell, but just not this year, **you’re invited to our next home seller seminar on April 17 at the Hilton Garden Inn. Here, I’ll give you great and strategic information on how to make more money and sell your home fast. To sign up for the seminar, visit [www.homesharkseminar.com](www.homesharkseminar.com).**
+If you’re planning to sell, but just not this year, **you’re invited to our next home seller seminar on April 17 at the Hilton Garden Inn. Here, I’ll give you great and strategic information on how to make more money and sell your home fast. To sign up for the seminar, visit [http://www.homesellingsharks.com/](http://www.homesellingsharks.com/).**
 
 For any other questions, feel free to reach out to me. I would be happy to help you!
