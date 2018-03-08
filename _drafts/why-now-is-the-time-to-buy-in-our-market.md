@@ -17,7 +17,7 @@ youtube_code: 502CbsS0Lb0
 
 {% include youtube.html %}
 
-There are a few very important reasons that make now the time to buy in our market.
+<center>There are a few very important reasons that make now the time to buy in our market.</center>
 
 If you’re thinking of buying a home in our market, now might be the time to take action, and there are a few reasons why.&nbsp;
 
