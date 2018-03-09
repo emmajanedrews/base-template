@@ -31,4 +31,4 @@ You can always update or renovate your property to increase the value of your ho
 
 **4. How close you are to a city.&nbsp;**If you own a home in a major metropolitan area, then you are sitting on a significant financial asset. Homes in the New York metro area are worth $2.6 trillion, which is more than the value of the entire French economy. The average urban home is worth 35% more than suburban homes. Since 2012, the median home value in urban areas increased by 54%, while the median home value in suburban areas increased by 38%. That is still a great percentage, but urban areas are appreciating faster.
 
-If you are curious about what your home’s value is in the current market, or if you have any other questions about how to increase your home’s value, just give me a call or send me an email. I would be happy to help you!
+If you are curious about what your home’s value is in the current market, or if you have any other questions about how to increase your home’s value, just give us a call or send me an email. We would be happy to help you!
