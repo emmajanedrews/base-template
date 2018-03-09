@@ -1,9 +1,9 @@
 ---
 layout: post
-title: The Two Questions You Should Ask Your Agent
+title: The 2 Questions You Should Ask Your Agent
 tags:
   - Real Estate
-date: 2018-03-07 22:06:15
+date: 2018-03-07 22:06:00
 excerpt: >-
   What questions should you be asking prospective real estate agents to ensure
   that they’ll help you succeed?
