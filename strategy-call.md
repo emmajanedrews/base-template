@@ -28,7 +28,7 @@ permalink: /strategy-call/
 
 <p>I’ll learn about your aspirations, personal/professional goals, and why you started selling real estate. I'm happy to offer my insight on what I would do in your situation to sell more homes.</p>
 
-<p>I'll share what we're doing to create a refferable based business and a predictable income.</p>
+<p>I'll share what we're doing to create a referable based business and a predictable income.</p>
 
 <p>Once I understand how you like to do business that’s authentic to you (referral, prospecting, marketing, events, etc), I’ll help you write a business plan tailored just for you.</p>
 
