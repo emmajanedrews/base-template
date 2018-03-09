@@ -1,13 +1,14 @@
 ---
 layout: post
 title: How to Sell Your Home Without Going on the Market
-date: 2018-01-22 13:22:56
+date: 2018-01-22 13:22:00
 tags:
   - Home Seller Tips
 excerpt: >-
   What are hip pocket listings and how do they help home sellers? I’ll explain
   today.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Mindy+Robbins/Videos/Dallas+-+Fort+Worth+Real+Estate+Agent-+How+Hip+Pocket+Listings+Work.mp4
 pullquote: >-
   Our exclusive group of local Realtors will work with us to sell your home off
   market.
@@ -17,7 +18,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/jay-robbins--how-hip-pocket-listings-work-youtube.jpg
 youtube_code: 'https://youtu.be/ujb6S1xBj1M'
 ---
-
 
 {% include youtube.html %}
 
