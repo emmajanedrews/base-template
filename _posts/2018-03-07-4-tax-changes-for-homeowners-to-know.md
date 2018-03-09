@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Tax Changes for Homeowners to Know
-date: 2018-03-07 16:23:42
+date: 2018-03-07 16:23:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/new-tax-laws-youtube.jpg
-youtube_code: 9JAGZ7LQB5U
+youtube_code: d5PhKYkCWdk
 ---
 
 {% include youtube.html %}
