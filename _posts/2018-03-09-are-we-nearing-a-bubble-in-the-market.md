@@ -25,6 +25,6 @@ This is coming off of 71 straight consecutive months of price increases, which h
 
 {% include pullquote.html %}
 
-**As you can see in the video above, we’ve seen a steady increase since the crash.**When you take into account historic appreciation, we’re right where we should be at a market. There is a lot of equity build into our homes to help protect sellers as well.
+**As you can see in the video above, we’ve seen a steady increase since the crash.&nbsp;**When you take into account historic appreciation, we’re right where we should be at a market. There is a lot of equity build into our homes to help protect sellers as well.
 
 So far we’re seeing a seller’s market locally and we should be very comfortable with where home values are at. If you have any questions about your home or anything else, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
