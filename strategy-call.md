@@ -20,7 +20,7 @@ permalink: /strategy-call/
 
 <p>It can get overwhelming to stick to a consistent business plan that makes you money.</p>
 
-<!-- {% include strategy-photos.html %} -->
+{% include strategy-photos.html %}
 
 <p>My name is Frank Gray. I’ve sold hundreds of homes, and even more importantly, personally coached some of the best agents in the business. My passion is helping agents achieve at any level of aspiration.</p>
 
