@@ -25,9 +25,7 @@ They’ve been increasing slowly lately, and we’re above the 4% mark now. It�
 
 {% include pullquote.html %}
 
-For the rest of 2018, rates are expected to rise even further into the high 4% range. This means a lot of sellers have been looking at their current interest rate and thinking about refinancing. Any seller who’s considering refinancing is probably staying where they’re at, and **this trend has created a shortage of inventory in our market, both locally and nationwide.** As you can see in the graph below, our year-to-date inventory is the lowest it’s been in the last decade.
-
-![](/uploads/Memphis_Year_to_Dat_Home_Sales_Active_Inventory-1.jpg)
+For the rest of 2018, rates are expected to rise even further into the high 4% range. This means a lot of sellers have been looking at their current interest rate and thinking about refinancing. Any seller who’s considering refinancing is probably staying where they’re at, and **this trend has created a shortage of inventory in our market, both locally and nationwide.** As you can see in the **[graph in the video](https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/Memphis_Year_to_Dat_Home_Sales_Active_Inventory-1.jpg)**, our year-to-date inventory is the lowest it’s been in the last decade.
 
 **If you’re a buyer, the current situation might be a bit of a struggle.** There aren’t very many homes to choose from, and in some price points, multiple offer situations are common. If you’re a seller, you might be able to get more money that you thought you could for your home sale right now. &nbsp;
 
