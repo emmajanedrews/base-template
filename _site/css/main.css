@@ -2692,6 +2692,52 @@ table tr, table td {
   display: inline-block;
   margin: auto; }
 
+.mySlides img {
+  display: block;
+  margin: 0 auto;
+  width: 50%; }
+
+.slide-container {
+  color: #000;
+  padding: 3rem 0; }
+
+.slide-area {
+  display: block;
+  margin: 0 auto; }
+
+.slide-button {
+  background-color: #E71D2F;
+  color: #fff; }
+  .slide-button:hover {
+    background-color: #fff;
+    color: #E71D2F;
+    border: 1px solid #E71D2F; }
+  .slide-button:focus {
+    background-color: #fff;
+    color: #E71D2F;
+    border: 1px solid #E71D2F; }
+
+.slide-navigation {
+  text-align: center; }
+
+.slide-caption {
+  text-align: center;
+  padding: 10px;
+  font-style: italic;
+  font-size: 20px;
+  color: #000; }
+
+.qanda {
+  width: 80%;
+  margin-left: 5%; }
+
+.section-title {
+  color: #E71D2F;
+  font-weight: bold; }
+
+.author {
+  color: #E71D2F; }
+
 form label {
   display: block; }
 form textarea {

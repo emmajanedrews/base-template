@@ -25,6 +25,9 @@
 <loc>localhost:4000/search.html</loc>
 </url>
 <url>
+<loc>localhost:4000/strategy-call/</loc>
+</url>
+<url>
 <loc>localhost:4000/subscribe/</loc>
 </url>
 <url>
