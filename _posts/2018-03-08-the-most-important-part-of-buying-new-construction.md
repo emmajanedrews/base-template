@@ -25,7 +25,7 @@ New construction is booming right now. In fact, if you live anywhere near open f
 
 Over the 12 years I’ve been selling real estate, I’ve seen and worked with a lot of great builders, but that doesn’t mean problems don’t usually arise during the new construction process. As long as there are problems to overcome when building new construction, you’ll need an agent to help you work through them.
 
-**It’s important to work side by side with an agent who knows your area, knows the schools in your area, and knows the builder so you and your family get what you’re looking for.**A good agent will also familiarize you with what’s going on in the market. As market conditions change, what we can negotiate with builders changes as well. I’ve seen many buyers try to buy new construction homes over the years without an agent, mostly because they didn’t understand what could and couldn’t be negotiated.
+**It’s important to work side by side with an agent who knows your area, knows the schools in your area, and knows the builder so you and your family get what you’re looking for.&nbsp;**A good agent will also familiarize you with what’s going on in the market. As market conditions change, what we can negotiate with builders changes as well. I’ve seen many buyers try to buy new construction homes over the years without an agent, mostly because they didn’t understand what could and couldn’t be negotiated.
 
 {% include pullquote.html %}
 
