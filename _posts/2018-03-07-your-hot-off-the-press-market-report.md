@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Your Hot-Off-the-Press Market Report
-date: 2018-03-07 17:12:57
+date: 2018-03-07 17:12:00
 tags:
   - Market Update
 excerpt: I’m back with a hot-off-the-press market. Here’s what you need to know.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+March+market+update.mp4
 pullquote: >-
   The number of homes for sale nationwide has declined on an annual basis for
   the past 35 months straight.
