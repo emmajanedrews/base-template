@@ -22,7 +22,7 @@ permalink: /strategy-call/
 
 <!-- {% include strategy-photos.html %} -->
 
-<p>My name is Frank Gray and I’ve sold hundreds of homes to date.</p>
+<p>My name is Frank Gray. I’ve sold hundreds of homes, and even more importantly, personally coached some of the best agents in the business. My passion is helping agents achieve at any level of aspiration.</p>
 
 <p>I want to help you sell more homes.</p>
 
