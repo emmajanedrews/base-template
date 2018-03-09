@@ -30,7 +30,7 @@ permalink: /strategy-call/
 
 <p>I also share with you what we’re doing that works to generate and sales.</p>
 
-<p>Once I understand how you like to do business that’s authentic to you (referral, prospecting, marketing, events, etc), I’ll help you write a business plan tailored just for</p> you.
+<p>Once I understand how you like to do business that’s authentic to you (referral, prospecting, marketing, events, etc), I’ll help you write a business plan tailored just for you.</p>
 
 <p>You’ll walk away with a plan of action, with steps you can take right away, to find homeowners who want to sell their home who list with you.</p>
 
