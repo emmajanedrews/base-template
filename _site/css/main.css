@@ -2826,7 +2826,7 @@ form select {
 
 .recruiting-page {
   Font-size: 18px;
-  width: 65%;
+  width: 75%;
   margin: 0 auto;
   color: #000; }
 
@@ -2902,5 +2902,5 @@ form select {
   font-size: 20px;
   color: #000; }
 
-.team-pic {
-  margin-left: 0; }
+#team-pic {
+  margin-left: 5%; }

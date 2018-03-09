@@ -14,7 +14,7 @@ permalink: /strategy-call/
 
 <p>I’ll meet with you one-on-one to help you write a business plan you can implement immediately to generate leads, appointments, and sales.</p>
 
-<p>I know how challenging it is to sell real estate.</p>
+<p><strong>I know how challenging it is to sell real estate.</strong></p>
 
 <p>You have discount brokerages, competing agents, and hundreds of ways to get clients (all are not equal, I’ll tell you).</p>
 
@@ -61,7 +61,7 @@ permalink: /strategy-call/
 
 <p>I also figure we’ll do business together someday and I would like to get to know you. I enjoy seeing real estate agents succeed. It’s fulfilling, and I love it.</p>
 
-<p>I invite you to request a free one-on-one business strategy meeting with me. We can meet for coffee, or even if it’s more convenient, a phone call or a video conference works, too.</p>
+<p><strong>I invite you to request a free one-on-one business strategy meeting with me.</strong> We can meet for coffee, or even if it’s more convenient, a phone call or a video conference works, too.</p>
 
 <p>I have a questionnaire I would like you fill out so that when we meet so I’m prepared to offer you specific advice. When you request a call, I’ll email it to you to complete before the meeting.</p>
 
@@ -71,7 +71,7 @@ permalink: /strategy-call/
 
 <p>Tom Nickley</p>
 
-<p>P.S. Make sure to sign up for my Agent Training Newsletter and like my Agent Training Facebook page where I post helpful videos, agent success stories, and even livestream our team meetings from time to time. That way, in addition to getting my best tips you can get to know me and see if we’re a fit.</p>
+<p><strong>P.S. Make sure to sign up for my Agent Training Newsletter and like my Agent Training Facebook page where I post helpful videos, agent success stories, and even livestream our team meetings from time to time. That way, in addition to getting my best tips you can get to know me and see if we’re a fit.</strong></p>
 
 
 <h1 class="join-us">Request a FREE One-on-one Business Planning Meeting</h1>
