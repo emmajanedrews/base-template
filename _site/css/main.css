@@ -2830,6 +2830,52 @@ form select {
   display: block;
   margin: 0 auto 2rem auto; }
 
+.mySlides img {
+  display: block;
+  margin: 0 auto;
+  width: 50%; }
+
+.slide-container {
+  color: #000;
+  padding: 3rem 0; }
+
+.slide-area {
+  display: block;
+  margin: 0 auto; }
+
+.slide-button {
+  background-color: #8A2529;
+  color: #fff; }
+  .slide-button:hover {
+    background-color: #fff;
+    color: #8A2529;
+    border: 1px solid #8A2529; }
+  .slide-button:focus {
+    background-color: #fff;
+    color: #8A2529;
+    border: 1px solid #8A2529; }
+
+.slide-navigation {
+  text-align: center; }
+
+.slide-caption {
+  text-align: center;
+  padding: 10px;
+  font-style: italic;
+  font-size: 20px;
+  color: #000; }
+
+.qanda {
+  width: 80%;
+  margin-left: 5%; }
+
+.section-title {
+  color: #8A2529;
+  font-weight: bold; }
+
+.author {
+  color: #8A2529; }
+
 .footer {
   color: #fff; }
   .footer .attribution svg {
