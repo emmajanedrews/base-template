@@ -2855,3 +2855,52 @@ form select {
   width: 75%;
   display: block;
   margin: 0 auto 2rem auto; }
+
+.qanda {
+  width: 80%;
+  margin-left: 5%; }
+
+.section-title {
+  color: #e85a4a;
+  font-weight: bold; }
+
+.author {
+  color: #e85a4a; }
+
+.mySlides {
+  position: relative;
+  width: 50%;
+  margin: 0 auto; }
+
+.slide-container {
+  color: #000;
+  padding: 3rem 10rem; }
+
+.slide-area {
+  display: block;
+  margin: 0 auto; }
+
+.slide-button {
+  background-color: #e85a4a;
+  color: #fff; }
+  .slide-button:hover {
+    background-color: #fff;
+    color: #e85a4a;
+    border: 1px solid #e85a4a; }
+  .slide-button:focus {
+    background-color: #fff;
+    color: #e85a4a;
+    border: 1px solid #e85a4a; }
+
+.slide-navigation {
+  text-align: center; }
+
+.slide-caption {
+  text-align: center;
+  padding: 10px;
+  font-style: italic;
+  font-size: 20px;
+  color: #000; }
+
+.team-pic {
+  margin-left: 0; }

@@ -7,7 +7,7 @@
     <description>A Podcast about Orlando Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</description>
     <language>en</language>
     <managingEditor>Tom Nickley</managingEditor>
-    <lastBuildDate>2018-02-23 10:42:46 -0600</lastBuildDate>
+    <lastBuildDate>2018-03-09 13:56:22 -0600</lastBuildDate>
     <media:copyright>Tom Nickley</media:copyright>
     <media:thumbnail url="http://tngrealestatetraining.com/img/podcast.jpg"/>
     <media:keywords>Orlando Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</media:keywords>
@@ -24,6 +24,45 @@
     <itunes:summary>A Podcast about Orlando Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>How to Build and Maintain a Database</title>
+        <link>http://tngrealestatetraining.com/how-to-build-and-maintain-a-database.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Tom Nickley</author>
+        <pubDate>2018-02-23 14:47:07 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Tom+Nickley/2018/Orlando+Real+Estate+Agent-+Do+I+need+to+stay+in+touch+with+my+database.mp4</guid>
+        <description>
+
+As real estate professionals, our databases and spheres of influence are a gold mine for future business, but only if you are working them correctly. 
+
+When you’re first getting started, it can be difficult to know how to compile this database. However, your database and sphere of influence is especially important during the first few years of your career as a real estate professional. Earning the business of people who already know and trust you will provide a critical starting point for your career.
+
+“Earning the business of people who already know and trust you will provide a critical starting point for your career.”
+
+As agents, we have to get over the fear of talking to your sphere. Today, I’d like to go over a three-step process for building and communicating with a database. 
+
+
+  Create a spreadsheet of everyone who knows, likes, and trusts you. The best place to start is by extracting the names, phone numbers, and addresses of everyone in your cell phone. Plug in this information into a spreadsheet.
+  Start calling that list.Use a simple script that you can use every time to let them know how excited you are to be in the industry. Let them know you would love the opportunity to talk to them or anyone they know about their real estate needs. Most people you speak to will be happy to have this conversation. 
+  Put forth a follow-up process. People may not have referrals or an interest in doing business right away, so you need to stay consistently in front of your database to make sure you’re able to capture their business once they’re ready. On our team, we have a rule that agents must communicate with their sphere of influence every 30 days at a minimum. You can alternate between methods of communication, which is what we do on our team. 
+
+
+Here at the Nickley Group, we’re proud to say that 40% of our business comes from referrals and our sphere of influence. It all comes down to consistently communicating with and building your database. 
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Tom+Nickley/2018/Orlando+Real+Estate+Agent-+Do+I+need+to+stay+in+touch+with+my+database.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://tngrealestatetraining.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Tom+Nickley/2018/Orlando+Real+Estate+Agent-+Do+I+need+to+stay+in+touch+with+my+database.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today, I’ll cover everything you need to know about building and maintaining a sphere of influence.</itunes:subtitle>
+        <itunes:author>Tom Nickley</itunes:author>
+        <itunes:summary>Today, I’ll cover everything you need to know about building and maintaining a sphere of influence.</itunes:summary>
+        <itunes:keywords>Orlando Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+      </item>
+      
       <item>
         <title>Should You Become a Buyer’s Agent or Listing Agent?</title>
         <link>http://tngrealestatetraining.com/should-you-become-a-buyers-agent-or-listing-agent.html</link>
