@@ -34,4 +34,4 @@ However, other homeowners are using their **home equity to cover education expen
 
 So should you tap into your home equity?
 
-I can't say either yes or no. It’s something you’ll have to decide on your own. However, if you have any questions or would like us to take a look at your specific situation to see what your best move is, we would be glad to help. Don’t hesitate to give me a call or send me an email any time.
+I can't say either yes or no. It’s something you’ll have to decide on your own. However, if you have any questions or would like us to take a look at your specific situation to see what your best move is, we would be glad to help. Don’t hesitate to give me a call or send me an email any time. I look forward to hearing from you!
