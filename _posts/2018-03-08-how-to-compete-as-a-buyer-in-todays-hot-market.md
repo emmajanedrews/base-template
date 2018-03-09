@@ -29,6 +29,6 @@ With the help of a family member, many young buyers are able to beat out the com
 
 If you’re unable to pay cash, **you can also write an offer with fewer contingencies and a strong down payment.** This is another thing that can make your offer stand out in today’s hot market.
 
-I hope keeping these tips in mind will help you as you enter our low inventory, high demand market.&nbsp;
+I hope keeping these tips in mind will help you as you enter our low-inventory, high-demand market.&nbsp;
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
