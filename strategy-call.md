@@ -10,11 +10,11 @@ permalink: /strategy-call/
 
 <p>Dear Fellow Agent:</p>
 
-<p>Need direction and focus to sell more homes?</p>
+<p>Looking for direction and a proven plan to increase production?</p>
 
-<p>I’ll meet with you one-on-one to help you write a business plan you can implement immediately to generate leads, appointments, and sales.</p>
+<p>I’ll meet with you one-on-one to help you write a business plan you can implement immediately to generate leads, appointments, and lifetime relationships.</p>
 
-<p><strong>I know how challenging it is to sell real estate.</strong></p>
+<p><strong>I was a brand new agent and understand how challenging it is to sell real estate.</strong></p>
 
 <p>You have discount brokerages, competing agents, and hundreds of ways to get clients (all are not equal, I’ll tell you).</p>
 
@@ -26,13 +26,13 @@ permalink: /strategy-call/
 
 <p>I want to help you sell more homes.</p>
 
-<p>I’ll learn about your needs, goals, and why you started selling real estate. I’m happy to offer my insight on what I would do in your situation to sell more homes.</p>
+<p>I’ll learn about your aspirations, personal/professional goals, and why you started selling real estate. I'm happy to offer my insight on what I would do in your situation to sell more homes.</p>
 
-<p>I also share with you what we’re doing that works to generate and sales.</p>
+<p>I'll share what we're doing to create a refferable based business and a predictable income.</p>
 
 <p>Once I understand how you like to do business that’s authentic to you (referral, prospecting, marketing, events, etc), I’ll help you write a business plan tailored just for you.</p>
 
-<p>You’ll walk away with a plan of action, with steps you can take right away, to find homeowners who want to sell their home who list with you.</p>
+<p>You’ll walk away with a plan of action, with steps you can take right away, that will result in a direct positive impact on your business.</p>
 
 <p>This will help you get the commission consistency and the freedom we all want from our business.</p>
 
@@ -51,21 +51,21 @@ permalink: /strategy-call/
 </div>
 <hr>
 
-<p>You don’t need to pay a bunch of money to a real estate coach.</p>
+<p>You don’t need to pay a bunch of money to a real estate coach on top of the other expenses you have.</p>
 
 <p>Why am I offering this?</p>
 
-<p>I’ll help you for free in return that maybe, over the long term – and only if it makes sense - you’d like to learn more about working at our team/brokerage.</p>
+<p>I’ll help you for free in return that maybe, over the long term – and only if it makes sense - you’d like to learn more about working with our team/brokerage.</p>
 
-<p>Let me be clear that is not the intent of the meeting. That’s another conversation for another time and only if you have any interest.</p>
+<p>Let me be clear this is not the intent of the meeting. That’s another conversation for another time and only if you have interest.</p>
 
 <p>I also figure we’ll do business together someday and I would like to get to know you. I enjoy seeing real estate agents succeed. It’s fulfilling, and I love it.</p>
 
 <p><strong>I invite you to request a free one-on-one business strategy meeting with me.</strong> We can meet for coffee, or even if it’s more convenient, a phone call or a video conference works, too.</p>
 
-<p>I have a questionnaire I would like you fill out so that when we meet so I’m prepared to offer you specific advice. When you request a call, I’ll email it to you to complete before the meeting.</p>
+<p>I have a questionnaire I would like you to fill out so when we meet I’m prepared to offer you specific advice. When you request a call, I’ll email it to you to complete before the meeting.</p>
 
-<p>Look forward to meeting with you. Let’s grow your business.</p>
+<p>Looking forward to getting to know you and helping you grow your business.</p>
 
 <p>Sincerely,</p>
 
