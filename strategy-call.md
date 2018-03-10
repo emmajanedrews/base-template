@@ -22,7 +22,7 @@ permalink: /strategy-call/
 
 {% include strategy-photos.html %}
 
-<p>My name is Tom Nickley and we’ve over 600 homes in the last 3 years.</p>
+<p>My name is Tom Nickley and we’ve sold over 600 homes in the last 3 years.</p>
 
 <p>I want to help you sell more homes.</p>
 
