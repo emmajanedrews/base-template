@@ -36,6 +36,8 @@ One thing we can do is look at the numbers and see what you could qualify for, w
 
 **Every $50 in a monthly car payment can affect your buying power by about $10,000.** If you get a $200 monthly car payment, you may have limited your mortgage by $40,000, and that’s a lot of house. It really depends on what you need and what works for you and your family. We can kind of reverse those numbers to make it work.&nbsp;
 
+{% include pullquote.html %}
+
 Another thing to consider when you go to buy a car is that the dealership will pull your credit. Some dealerships pull your credit 10 or 12 different times in order to get you the best rate or payment, and those are hard inquiries. If you come to us after you purchase a car, your credit score could be substantially lower. We also pull your credit during the mortgage process; interest rates are calculated largely based on your credit score. You may end up paying a higher interest rate because buying a car has lowered your credit score.&nbsp;
 
 What if you pay cash for the vehicle?&nbsp;
