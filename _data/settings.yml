@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: Brainerd Lakes Real Estate Video Blog with Chad Schwendeman
 description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
@@ -11,41 +11,41 @@ emma:
   form:
 
 client:
-  name:
+  name: Chad Schwendeman
   title:
   license_number:
   about_markdown: |
-
-  market:
-  brand:
+    Chad Schwendeman is the top Realtor in the Brainerd Lakes Area. Chad has been a full Realtor for the last 17 years. Chad's believes marketing is the key to getting your home sold Chad's slogan is, It's Not the Market, It's the Marketing. Chad is a Brainerd native and bring his extensive knowledge of the Lakes Area to all of his clientsl Before you list your home, call Chad to see his aggressive marketing strategy that produces results.
+  market: Brainerd Lakes
+  brand: Exit Lakes Realty Premier
   brokerage:
-  address:
-  phone:
+  address: 7153 Forthun Road Suite 120<br>Baxter, MN 56425
+  phone: 218-831-4663
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Chad@UpNorthEmail.com
+  url: https://www.FindBrainerdAreaHomes.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.findbrainerdareahomes.com/sell/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.findbrainerdareahomes.com/search/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.findbrainerdareahomes.com/sell/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://www.findbrainerdareahomes.com/search/
 
 lender:
   show_section: false
@@ -61,16 +61,16 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/BrainerdHomes
+  linkedin_url: https://www.linkedin.com/pub/chad-schwendeman/a/a9a/530
+  gplus_url: https://plus.google.com/b/108689020458146607093/?pageId=108689020458146607093
+  youtube_url: https://www.youtube.com/channel/UCRjGq0JqVSlL0MktQ4zFJzA
+  twitter_url: https://twitter.com/brainerdhomes
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
+  zillow_url: http://www.zillow.com/profile/ChadSchwendeman/
+  trulia_url: http://www.trulia.com/profile/chad-schwendeman-broker-baxter-mn-1716848/overview
+  yelp_url: http://www.yelp.com/biz/chad-schwendeman-real-estate-group-baxter
   podcast_url:
 
 podcast:
@@ -91,8 +91,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#01c488'
+  theme_color: '#000'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -104,7 +104,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: black
 
 buttons:
   button_radius_number: 0
