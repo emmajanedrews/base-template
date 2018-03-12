@@ -19,7 +19,7 @@ youtube_code: 3qIQiUQp4WY
 
 {% include youtube.html %}
 
-Here are the four advantages of working with an expert home advisor when buying a home
+Here are the four advantages of working with an expert home advisor when buying a home:
 
 **1. We can make sure you get the best home for the best price with the least amount of stress.** We believe so strongly in our ability to do this that we will sell your home for free if you don’t love it.
 
