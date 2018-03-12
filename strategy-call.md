@@ -20,7 +20,7 @@ permalink: /strategy-call/
 
 <p>It can get overwhelming to stick to a consistent business plan that makes you money.</p>
 
-<!-- {% include strategy-photos.html %} -->
+{% include strategy-photos.html %}
 
 <p>My name is Nick Good and I’ve sold close to one thousand homes to date.</p>
 
