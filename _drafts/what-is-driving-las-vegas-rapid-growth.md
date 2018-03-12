@@ -17,7 +17,7 @@ youtube_code: _i4RgLHk2bo
 
 {% include youtube.html %}
 
-What is driving the massive growth in Las Vegas? Today, I have three reasons that contribute.
+<center>What is driving the massive growth in Las Vegas? Today, I have three reasons that contribute.</center>
 
 Forbes magazine just recently announced America’s fastest-growing cities in 2018. Las Vegas was one of the top cities in the country in terms of projected aggressive growth.
 
