@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Everything You Need to Know About Commission Splits
-date: 2018-03-12 15:17:10
+date: 2018-03-12 15:17:00
 tags:
 excerpt: Let’s take a look at how commission splits actually work.
 enclosure: >-
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: VH1BnDSRCYY
 ---
 
 {% include youtube.html %}
