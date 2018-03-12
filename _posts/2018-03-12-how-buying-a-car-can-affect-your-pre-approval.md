@@ -22,7 +22,7 @@ youtube_code: vk7FB-wsB9A
 
 {% include youtube.html %}
 
-<br>Will purchasing a car affect your ability to buy a home? Yes, and there are a few different ways a car purchase can impact you chances of being approved for a mortgage or closing on a new home.&nbsp;
+<br>Will purchasing a car affect your ability to buy a home? Yes, and there are a few different ways a car purchase can impact your chances of being approved for a mortgage or closing on a new home.&nbsp;
 
 It doesn’t matter if you buy a $20,000 car or a $100,000 car. In the grand scheme of things, the amount of debt is not as important as the monthly debt that goes along with purchasing a car. Your car payment will get calculated into your debt-to-income ratio, and some loan programs have higher debt-to-income ratio qualifications than others.&nbsp;
 
