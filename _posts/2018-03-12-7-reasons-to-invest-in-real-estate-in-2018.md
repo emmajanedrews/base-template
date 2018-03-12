@@ -35,7 +35,7 @@ This year, we expect more people to sell houses, buy houses, and get mortgage lo
 
 A mortgage is a great way to leverage an investment. You can’t borrow money to put into the stock market, and the stock market does not provide you with a tangible investment anyway.
 
-<br>**3. Appreciation.** Real estate is one of the safest investments out there, and it is a great long-term investment strategy. Your rental properties increase in value over time, given that the property is in a prime location and growing economy. You will be able to sell your property for a lot more money and make a good profit 20 or 30 years down the road, and in the meantime, you will receive rental income every month.
+**3. Appreciation.** Real estate is one of the safest investments out there, and it is a great long-term investment strategy. Your rental properties increase in value over time, given that the property is in a prime location and growing economy. You will be able to sell your property for a lot more money and make a good profit 20 or 30 years down the road, and in the meantime, you will receive rental income every month.
 
 {% include pullquote.html %}
 
