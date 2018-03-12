@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Is Driving Las Vegas’ Rapid Growth?
-date:
+date: 2018-03-12 20:49:35
 tags:
   - Real Estate
 excerpt: >-
