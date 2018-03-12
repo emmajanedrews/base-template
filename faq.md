@@ -1,0 +1,72 @@
+---
+layout: custom
+Title: FAQ's
+permalink: /faq/
+---
+<div class="faq">
+<h1>Frequently Asked Questions</h1>
+<hr>
+<p class="question">1. What does the training program look like?</p>
+<p>Our training program is called the First 100 and it typically takes a candidate around 100 days to complete the training program. The training program is Monday through Friday, starting at 7:15am with a role-playing phone call with the team. There is a sales huddle at 7:40am in our office in Mt. Pleasant. From 8-10am, Monday through Friday, you are required to be in the office and prospecting with the entire team. We have an additional prospecting session on Thursday evenings from 4-6pm. While in training, you are required to be on the dialer for prospecting for a total of 28 hours per week (this is around 5.6 hours per day!). You will be working very closely with our Sales Manager and you’ll have weekly 1-on-1 meetings. You will also be learning from our team of seasoned Buyers Agents who will provide mentorship, knowledge, and experience with you to learn from. During this training period, you will be doing a lot of scripts practice and role-playing, understanding concepts around the language of real estate, finding motivation in potential clients, converting phone leads into appointments, writing contracts, the proper way to show homes, how to close clients, and we’ll teach you the tips and tricks we’ve used to become the number 1 team in Charleston!</p>
+
+<p class="question">2. How long does it take for someone on your team to earn a commission?</p>
+<p>Once you’ve graduated from the training program and you’re in production it will take 60 days to earn a commission.</p>
+
+<p class="question">3. How much are you paid during the training program?</p>
+<p>You are paid $2,500 per month during the training program. Once you have graduated from the training program and go into production, you are straight commission. We guarantee $100,000 of income in your first full year.</p>
+
+<p class="question">4. How long is the training period?</p>
+<p>Our training program is called the First 100 and it typically takes a candidate around 100 days to complete the training program. You will be given a set of 30 day goals, 60 day goals, and 90 day goals - you are required to meet all goals in order to test out of the training program. A candidate may get through the training program sooner than 100 days depending on their license status and how focused they are on achieving their goals. Some have completed in 45 days!</p>
+
+<p class="question">5. Do I need to be licensed?</p>
+<p>You do not need to be licensed when you join the team although that is preferred. If you do not hold an active South Carolina Real Estate License when you join the team, you will need to complete training and the pre-licensing courses at the same time.</p>
+
+<p class="question">6. What does the process look like to get licensed?</p>
+<p>There’s an option to complete the 90-hour pre-licensing requirements during the evenings. There is also a new option to complete the pre-licensing courses on the weekends starting in May 2018. For more information regarding the South Carolina Pre-Licensing requirements, please go here: <a href="http://www.llr.state.sc.us/POL/REC" target="_blank">http://www.llr.state.sc.us/POL/REC/</a><br>
+Here are a few places where you can complete the courses: (1) <a href="https://www.fortuneacademy.com" target="_blank">https://www.fortuneacademy.com/</a>
+(2) <a href="http://www.realestateschoolofcharleston.net" target="_blank">http://www.realestateschoolofcharleston.net</a> (3) <a href="http://www.charlestonrealtors.com/" target="_blank">http://www.charlestonrealtors.com</a>
+</p>
+
+<p class="question">7. How big is your team?</p>
+<p>We have 8 agents in production, 1 inside sales associate, 1 showing assistant, 2 closing coordinators, 1 sales manager, 1 operations manager, 1 visionary, 1 recruiter, and a team of virtual assistants and a leadership team that helps run the show!</p>
+
+<p class="question">8. What makes you successful?</p>
+<p>We believe in a team approach so everyone can focus on their strengths and leverage their weaknesses. Our systems, tools, accountability, coachability, and determination make us successful. We are driven by technology and use this to our advantage to ensure the success of our agents and our clients. The tools we use to help our agents leverage their time allows them to sell more homes and be more successful. We are driven to reach our goals and continue to grow to be the best we can be on a daily basis. Sticking to what we know works is how we’ve become and stayed so successful!</p>
+
+<p class="question">9. What makes you different than other teams in the Charleston area?</p>
+<p>Our in-house training program will teach you how to sell Real Estate and show you how to build a business that can sustain any market shift. The systems and tools that our agents use are top notch and our support staff is THE BEST (we may be biased)! We know what works and we teach you how to follow in our footsteps and build the life you’ve always dreamt of. We are a family and everyone on the team will push you to achieve your goals. We also have a lot of fun doing it!</p>
+
+<p class="question">10. What are the benefits of being on a team?</p>
+<p>You get to do what you do best.. SELL! We take everything else off your back and this allows you to SELL MORE HOMES! We provide the marketing, advertising, lead generation tools, processes, systems, scripts, training, expertise, knowledge and leadership to help you grow your business.</p>
+
+<p class="question">11. What expenses does the team cover?</p>
+<p>Check out our values page here to see exactly what we cover for our team members: <a href="/values/" target="_blank">http://davefriedmancoaching.com/values</a></p>
+
+<p class="question">12. Do you offer benefits?</p>
+<p>This actually depends on the position - we mostly over compensate opposed to providing them.</p>
+
+<p class="question">13. What are your core values?</p>
+<p><ul>
+<li>We hustle and work hard.</li>
+<li>We embrace accountability, coachability and discipline.</li>
+<li>We exude boundless positive energy, passion and enthusiasm.</li>
+<li>We have a growth mindset.</li>
+<li>We are a driven and committed team player.</li>
+<li>We have character and integrity.</li>
+</ul></p>
+
+<p class="question">14. What is your culture like?</p>
+<p>We work really, really hard… and we have a lot of fun doing it! We are truly a family and want the best for one another. We push each other daily and hold each other accountable to reaching your goals professionally and personally. We are all friends outside of work and hang out like friends would - we actually like each other, it’s crazy!</p>
+
+<p class="question">15. How often do you lead generate / prospect?</p>
+<p>You are expected to prospect for 12 hours per week when you’re in production. When you’re in the training program, you will be expected to prospect for 28 hours per week. We prospect M-F from 8-10am and also on Thursday evenings from 4-6pm - we throw in a little family potluck dinner for the Thursday prospecting session!</p>
+
+<p class="question">16. Where do you get your leads?</p>
+<p>We get our leads from various sources which includes the following: past client referrals, agent referrals, pay per click advertising, Dave Ramsey leads, Zillow, Trulia, Craigslist, Realtor.com, Homes.com, social media, yard marketing, open houses, kwls, radio advertising, inbound calls, outbound calls, farming, circle prospecting, and builder relationships.</p>
+
+<p class="question">17. What do your days look like?</p>
+<p>Once you’re in production, your mornings will continue to stay consistent - similar to the training program - and your afternoons will become a bit more flexible. You will continue to be a part of the role play phone call at 7:15am, sales training at 7:30am and afternoon huddles at 12:30pm. You will always do the 8-10am prospecting sessions. Typically, most agents will stay in the office to do their follow up after prospecting. After lunch, you’ll typically find yourself having clients into the office for a consultation, meeting them out in the field for a consultation, showing homes to clients, writing offers, negotiating offers, and constantly networking to build your sphere!</p>
+
+<p class="question">18. What would you project a new team member’s income to be over year(s) 1-5?</p>
+<p>Check out our Career Track Table here: <a href="/img/career-table.jpg" target="_blank">http://davefriedmancoaching.com/img/career-table.jpg</a></p>
+</div>

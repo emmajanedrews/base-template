@@ -2945,6 +2945,17 @@ form select {
 .whitespace {
   margin-top: 3rem; }
 
+.faq {
+  font-size: 18px; }
+  .faq h1 {
+    font-weight: bold;
+    text-align: center; }
+
+.question {
+  font-weight: 600;
+  color: #000;
+  font-size: 20px; }
+
 .subscribe {
   background: #B40101;
   color: white;

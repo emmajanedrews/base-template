@@ -7,6 +7,12 @@ custom_links:
     url: https://dave-friedman-team.breezy.hr/#positions
   - title: Meet the Team
     url: http://clickcharlestonsc.com/agents.php
+  - title: Core Values
+    url: /values/
+  - title: Hiring Process
+    url: /hiring-process/
+  - title: FAQ's
+    url: /faq/
 
 client:
   name: Dave Friedman

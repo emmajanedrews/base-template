@@ -4,27 +4,31 @@
 {% include head.html %}
 
 	<body>
+		{% if site.data.settings.audit_header == true %}
+			{% include audit.html %}
+		{% endif %}
 		{% include page-header.html %}
+		<div class="row">
+			<div class="col-sm-12">
 
-  	<div class="container-fluid">
+				{% include navigation.html %}
+			</div>
+		</div>
 
-				<div class="col-sm-12 visible-xs visible-sm sidebar">
-					{% include socials.html %}
-					{% include search-box.html %}
-				</div>
+		<div class="row">
 			<div class="col-lg-7 col-md-7 col-lg-offset-1">
 				{{ content }}
 			</div>
+
+		<!-- Sidebar Content // Hidden on mobile -->
+
+		<div class="whitespace"></div>
 			<div class="col-md-5 col-lg-3 hidden-sm hidden-xs sidebar">
-				{% include socials.html %}
-				{% include search-box.html %}
 				{% include cta-sidebar.html %}
-				{% include make-it-rain.html %}
-				{% include blog-archive-category.html %}
 			</div>
+
 		</div>
-		{% include about.html %}
-		{% include bottom-navigation.html %}
-		{% include footer.html %}
-  </body>
-</html>
+
+					{% include footer.html %}
+		  </body>
+		</html>
