@@ -3,6 +3,7 @@ layout: post
 title: What Is Driving Las Vegas’ Rapid Growth?
 date:
 tags:
+  - Real Estate
 excerpt: >-
   What is driving the massive growth in Las Vegas? Today, I have three reasons
   that contribute.
