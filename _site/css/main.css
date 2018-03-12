@@ -1608,7 +1608,7 @@ label.tree-toggle {
   color: white;
   text-shadow: 0px 2px 7px black;
   text-transform: uppercase;
-  font-size: 5rem;
+  font-size: 4rem;
   font-weight: bold;
   padding-bottom: 4rem;
   padding-top: 1rem;
@@ -1616,7 +1616,7 @@ label.tree-toggle {
 
 @media (max-width: 1100px) {
   .site-title {
-    font-size: 5rem; } }
+    font-size: 4rem; } }
 @media (max-width: 1000px) {
   .site-logo {
     max-width: 10rem; } }
@@ -1626,14 +1626,14 @@ label.tree-toggle {
     margin-top: 4rem; }
 
   .site-title {
-    font-size: 5rem; } }
+    font-size: 4rem; } }
 @media (max-width: 600px) {
   .site-logo {
     max-width: 7rem;
     margin-top: 2rem; }
 
   .site-title {
-    font-size: 3.5rem; }
+    font-size: 3rem; }
 
   .cta {
     padding: 1rem; } }
@@ -2781,6 +2781,11 @@ form select {
 .testimonial-author {
   color: #b40101;
   margin-top: -20px; }
+
+.luxe-logo {
+  width: 150px;
+  margin-bottom: 10px;
+  margin-top: -10px; }
 
 .recruiting {
   text-align: center; }
