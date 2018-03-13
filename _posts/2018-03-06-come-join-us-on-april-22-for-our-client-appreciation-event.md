@@ -23,6 +23,14 @@ youtube_code: I-TGZcLxxSg
 
 <center>&nbsp;</center>
 
+<center><strong><a href="http://evite.me/G5UHxB3sMu">Click here to RSVP</a></strong></center>
+
+<center>&nbsp;</center>
+
 Today we have a special invite we want to extend to your way. **Our latest client appreciation event is happening at the****Malibu Cafe on Sunday, April 22 from 1 p.m.** **to 3:30 p.m**, and we’d love to see you there. Bring your family along and join us for drinks, food, and a fun-filled afternoon.
 
 {% include pullquote.html %}
+
+**RSVP’s are due by the 7th of April.**
+
+**[Click here to RSVP](http://evite.me/G5UHxB3sMu)**
