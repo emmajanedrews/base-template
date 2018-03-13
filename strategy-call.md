@@ -14,7 +14,7 @@ permalink: /strategy-call/
 
 <p>I’ll meet with you one-on-one to help you write a business plan you can implement immediately to generate leads, appointments, and sales.</p>
 
-<p>I know how challenging it is to sell real estate.</p>
+<p><strong>I know how challenging it is to sell real estate.</strong></p>
 
 <p>You have discount brokerages, competing agents, and hundreds of ways to get clients (all are not equal, I’ll tell you).</p>
 
