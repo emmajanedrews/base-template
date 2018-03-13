@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/no-10.jpg
-youtube_code: lBKH8qyndz8
+youtube_code:
 ---
 
 {% include youtube.html %}
