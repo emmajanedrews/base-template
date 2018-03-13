@@ -27,6 +27,8 @@ Open houses are a great way to get exposure for your home and allow people to co
 
 If you have pets, you will want to take them to Petsmart or the dog park during open houses. They should be out of the way during the open house.&nbsp;
 
+{% include pullquote.html %}
+
 **As the seller, you should also be out of the way.** Go somewhere else during the open house. Believe it or not, a casual conversation with a prospective buyer can kill your ability to negotiate down the line. You might mention your motivation for selling the home. You might say, “We’re really excited, but we have to be out of here in 30 days. We’d do anything to get rid of this home.” That will not do you any favors when it comes time to negotiate a price for your home.&nbsp;
 
 Finally, make sure that you take care of your lawn. Pull weeds, make sure your flower beds look nice, and cut the grass. Get all of the toys out of the driveway and make sure everything looks nice and pristine. **If your home has great curb appeal, more buyers will want to come in and check out the open house.**&nbsp;
