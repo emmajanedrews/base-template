@@ -10,13 +10,15 @@ If you need help implementing any of this or would like to discuss how we can wo
 
 #### Featured Webinar:
 
-**Rule the Market: Listing Your Way to More Leads & Profit, February 2018** — [Video](https://youtu.be/vZhWv3lzrkk) — [Resources](https://www.dropbox.com/sh/p7vqzrww1ynr3fu/AACMCTLA3ZIjFbnHyHILqamla?dl=0)
+**Hire Help Now - Increase Your Leads, Cut Your Hours and Net More Money** — [Video](https://www.youtube.com/watch?v=3auqOiLwvUI&feature=youtu.be) — [Resources](https://www.dropbox.com/sh/p7vqzrww1ynr3fu/AACMCTLA3ZIjFbnHyHILqamla?dl=0)
 
-As we prepare for the spring market, it’s important to make sure that your listing process is well-oiled and ready to go. Too often, we see agents go into a potential listing without a plan. Having a streamlined process will allow you to prospect more, and go on more appointments. If you’re looking to systemize your listing process, I encourage you to watch this webinar discussing how you list your way to more leads and profits.
+We’re officially in the spring market, and things are heating up. Right now, your time may be extremely limited. You may not always want to admit it, but you may need help in order to increase your sales and productivity. If you’re struggling to manage the workload you have, or if you find yourself working too many hours, I encourage you to look at this 30-minute webinar titled “Hire Help Now - Increase Your Leads, Cut Your Hours and Net More Money”.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vZhWv3lzrkk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 ### Previous Webinars:
+
+**Rule the Market: Listing Your Way to More Leads & Profit, February 2018** — [Video](https://youtu.be/vZhWv3lzrkk) — [Resources](https://www.dropbox.com/sh/p7vqzrww1ynr3fu/AACMCTLA3ZIjFbnHyHILqamla?dl=0)
 
 **Prospecting to Profits: Warm & Cold Calls made Easy, January 2018**— [Video](http://prospectingtoprofits.pagedemo.co/) — [Resources](https://www.dropbox.com/sh/jawh3ts46yi9xbw/AAD27BTKHZjBIg5KjCN9xM2Na?dl=0)
 
