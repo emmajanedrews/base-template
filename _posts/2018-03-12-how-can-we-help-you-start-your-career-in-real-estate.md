@@ -23,7 +23,7 @@ youtube_code: povtfL9ZShA
 
 Now is absolutely a great time to consider a career in the real estate industry here in Orlando.&nbsp;
 
-There are a variety of reasons why, but most of them boil down to the fact that **our market is sizzling hot**. It’s actually been hot for quite some time now, and it’s expected to continue to be for the near future. Interest rates are low, consumer confidence is high, and housing is still affordable in central Florida. There are a lot of buyers and a lot of sellers out there.&nbsp;
+There are a variety of reasons why, but most of them boil down to the fact that **our market is sizzling hot**. It’s actually been hot for quite some time now, and it’s expected to continue to be for the near future. Interest rates are low, consumer confidence is high, and housing is still affordable in Central Florida. There are a lot of buyers and a lot of sellers out there.&nbsp;
 
 In addition to that, Orlando is considered one of the top real estate markets in the country—not only for homebuyers, but for investors and rental properties as well. Most experts predict this trend to continue for a minimum of the next two or three years. We have lots of job growth and lots of people moving into our area, which makes for a very strong market. Overall, consumer confidence is high everywhere around the country. The stock market keeps increasing, and people keep spending money.
 
