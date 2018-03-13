@@ -16,8 +16,6 @@ permalink: /strategy-call/
 
 <p><strong>I know how challenging it is to sell real estate.</strong></p>
 
-<p>You have discount brokerages, competing agents, and hundreds of ways to get clients (all are not equal, I’ll tell you).</p>
-
 <p>It can get overwhelming to stick to a consistent business plan that makes you money.</p>
 
 {% include strategy-photos.html %}
