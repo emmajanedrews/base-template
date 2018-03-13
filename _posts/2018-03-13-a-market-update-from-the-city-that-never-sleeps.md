@@ -21,7 +21,7 @@ youtube_code: XaCOJCiHwBM
 
 We recently got a chance to fly out to Las Vegas to attend Re/MAX’s Annual R4 Convention, and we got some great footage to share with you.
 
-First though, let’s take a look at our market back in Louisville and check the absorption rate for our home supply. In the $100,000-to-$350,000 price range, we have a one-to-three-month supply.
+First though, let’s take a look at our market back in Louisville and check the absorption rate for our home supply. In the $100,000 to $350,000 price range, we have a one-to-three-month supply.
 
 **If you’re looking to sell this spring, there are five good reasons you should do so:**
 
