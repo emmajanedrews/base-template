@@ -30,13 +30,13 @@ permalink: /strategy-call/
 
 <p>I also share with you what we’re doing that works to generate and sales.</p>
 
-<img src="/img/sales-board.jpg" class="strategy-photo photo-center"><br>
+<img src="/img/sales-board.JPG" class="strategy-photo photo-center"><br>
 
 <p>Once I understand how you like to do business that’s authentic to you (referral, prospecting, marketing, events, etc), I’ll help you write a business plan tailored just for you.</p>
 
 <p>You’ll walk away with a plan of action, with steps you can take right away, to find homeowners who want to sell their home who list with you.</p>
 
-<img src="/img/agent-plan.jpg" class="strategy-photo photo-center"><br>
+<img src="/img/agent-plan.JPG" class="strategy-photo photo-center"><br>
 
 <p>This will help you get the commission consistency and the freedom we all want from our business.</p>
 
