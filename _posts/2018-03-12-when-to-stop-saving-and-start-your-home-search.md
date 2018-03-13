@@ -22,7 +22,7 @@ youtube_code: qON83BAuiwY
 
 Should you keep saving to purchase a home, or should you buy a home now?&nbsp;
 
-This is a great question, and it all comes down to how much you are saving and whether that savings is outpacing the rate at which the market is appreciating. For example, if you’re saving $1,000 a month and the market is appreciating at $500 a month, it makes sense to save your money to buy a house.&nbsp;
+This is a great question, and it all comes down to how much you are saving and whether your savings are outpacing the rate at which the market is appreciating. For example, if you’re saving $1,000 a month and the market is appreciating at $500 a month, it makes sense to save your money to buy a house.&nbsp;
 
 **Unfortunately, our market is growing at a faster rate than most people are able to save right now.&nbsp;**
 
