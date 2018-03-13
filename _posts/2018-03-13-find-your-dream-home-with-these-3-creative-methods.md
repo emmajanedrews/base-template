@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Find Your Dream Home With These 3 Creative Methods
-date: 2018-03-13 21:39:58
+date: 2018-03-13 21:39:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -11,7 +11,8 @@ excerpt: >-
   unconventional ways you can find the home of your dreams. One such method is
   to scope of foreclosure auctions. To learn more about this and the other two
   approaches, watch my latest video.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Oggie+Penev/Videos/Penev+Realty+%257C+Creative+Ways+to+Find+Your+New+Home.mp4
 pullquote: >-
   A foreclosure auction is open for everybody, and they can buy the property at
   a pretty decent discount.
