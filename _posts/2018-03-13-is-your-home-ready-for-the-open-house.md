@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Your Home Ready for the Open House?
-date:
+date: 2018-03-13 18:25:48
 tags:
   - Home Seller Tips
 excerpt: >-
