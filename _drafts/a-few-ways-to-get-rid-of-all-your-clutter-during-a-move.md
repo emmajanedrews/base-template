@@ -19,7 +19,9 @@ youtube_code: y0wEVb7NE6g
 
 {% include youtube.html %}
 
-<center>Whether you’re buying, selling, downsizing, or just doing some spring cleaning, there are a few ways you can get rid of your extra stuff.</center>
+<center><em>Whether you&rsquo;re buying, selling, downsizing, or just doing some spring cleaning, there are a few ways you can get rid of your extra stuff.</em></center>
+
+<center>&nbsp;</center>
 
 What do you do with all that stuff?
 
@@ -29,7 +31,7 @@ I myself recently experienced this type of situation when I had to help my wife�
 
 **First, you can simply pack everything up.** This involves getting a lot of boxes, and I recommend you buy boxes that are all uniform in size. This will make them easier to stack and easier to handle. There are some great online resources for gathering boxes, including U-haul and Craigslist.&nbsp;
 
-You can also** bring in your own dumpster.**This might sound a little rash, but if you’re downsizing and collecting things that have accumulated over many years, a lot of those things will probably end up in a dumpster. Many dumpster services offer and deliver dumpsters that come in different sizes. The cost difference between a large and a small dumpster isn’t great, so it’s better to have a little extra room available just in case.&nbsp;
+You can also&nbsp;**bring in your own dumpster.** This might sound a little rash, but if you’re downsizing and collecting things that have accumulated over many years, a lot of those things will probably end up in a dumpster. Many dumpster services offer and deliver dumpsters that come in different sizes. The cost difference between a large and a small dumpster isn’t great, so it’s better to have a little extra room available just in case.&nbsp;
 
 Next, you can try Craigslist to post your items on there for free or advertise them and sell them for a fee. This should only be used for just a few items, though. You don’t want to spend a lot of time posting items to this site.&nbsp;
 
@@ -41,7 +43,7 @@ There are also charities that will pick your stuff up. The catch here, though, i
 
 **A garage sale** is another thing you can do. They’re a little bit long and tedious though, and when it’s done you typically won’t be able to find a charity that will accept what’s left over.&nbsp;
 
-**Lastly, you can have an estate service come in** and conduct an estate sale on the property and either sell or dispose of everything in it. **[Gone4Good]**(https://www.gone4good.com/) is a service that does this that we highly recommend. They’ll literally come to your house and clean out everything. They’ll dispose anything that has little or no value and sell anything that does have value at their store. They sell larger items on a commission basis. Their fee is negotiable based on how big your home is, how many items they take, and a few other factors.&nbsp;
+**Lastly, you can have an estate service come in** and conduct an estate sale on the property and either sell or dispose of everything in it. [Gone4Good](https://www.gone4good.com/)&nbsp;is a service that does this that we highly recommend. They’ll literally come to your house and clean out everything. They’ll dispose anything that has little or no value and sell anything that does have value at their store. They sell larger items on a commission basis. Their fee is negotiable based on how big your home is, how many items they take, and a few other factors.&nbsp;
 
 Here are some links related to the options and services listed above that you might find useful:
 
