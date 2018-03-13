@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Few Ways to Get Rid of All Your Clutter During a Move
-date:
+date: 2018-03-13 21:00:18
 tags:
   - Home Buyer Tips
   - Home Seller Tips
