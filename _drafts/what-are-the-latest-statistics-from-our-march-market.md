@@ -22,4 +22,16 @@ youtube_code: j_LQGWFjn-8
 
 {% include youtube.html %}
 
+What are the latest statistics from our market?
+
+**As of March 4, we had a total of 12,728 regular listings available, which was down 4.66% from the week of February 26.** In the last 30 days, there have been 5,753 sales, which is up 5.94% from the previous week. The level of inventory for regular listings went down during this span from 2.42 months to 2.39 months.
+
+In the freehold market, there were 9,774 listings available as of March 4, which is up 4.58% from February 26. There have been 3,456 freehold homes sold in the past 30 days, which is an increase of 7.73% compared to last week. The level of freehold inventory dropped during that span from 2.91 months to 2.83 months.
+
 {% include pullquote.html %}
+
+In the condo market, we currently have 3,954 listings, which is down 4.85% compared to last week. There have been 2,287 condo sales in the past 30 days, which is an increase of 3.35% compared to last week. Inventory for condos rose slightly during this span from 1.7 months to 1.73 months.
+
+**There are currently 1,317 regular listings under contract,** 609 freehold properties under contract, and 646 condos under contract.
+
+If you have any further questions about our market or you’re thinking of buying or selling a home soon, don’t hesitate to reach out to me. I’d be happy to help you.
