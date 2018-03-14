@@ -1,5 +1,5 @@
 ---
-youtube_code: VYc0slZmErg
+youtube_code: UmwvJM-vtwg
 excerpt:
 enclosure:
 pullquote: DO YOUR RENOVATIONS WHILE YOU LIVE IN THE PROPERTY SO YOU CAN ENJOY THEM.
@@ -9,14 +9,15 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: What Are the Dos and Don'ts of Home Renovation?
-date: '2018-02-12T12:37:00.002-08:00'
+date: 2018-02-12 20:37:00
 author: Vyral Admin
 tags:
-- Expert Advice
-modified_time: '2018-02-13T10:59:16.814-08:00'
-thumbnail: https://i.ytimg.com/vi/VYc0slZmErg/default.jpg
-blogger_id: tag:blogger.com,1999:blog-2331479289908791438.post-5979853325777316528
-blogger_orig_url: http://darwalden.blogspot.com/2018/02/the-dos-and-donts-of-home-renovation.html
+  - Expert Advice
+modified_time:
+thumbnail: 'https://i.ytimg.com/vi/VYc0slZmErg/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-2331479289908791438.post-5979853325777316528'
+blogger_orig_url: >-
+  http://darwalden.blogspot.com/2018/02/the-dos-and-donts-of-home-renovation.html
 ---
 
 {% include youtube.html %}
