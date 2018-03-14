@@ -2777,6 +2777,53 @@ form select {
   color: #b40101;
   margin-top: -20px; }
 
+.mySlides img {
+  display: block;
+  margin: 0 auto;
+  width: 75%; }
+
+.slide-container {
+  color: #000;
+  padding: 3rem 0; }
+
+.slide-area {
+  display: block;
+  margin: 0 auto;
+  width: 75%; }
+
+.slide-button {
+  background-color: #b40101;
+  color: #fff; }
+  .slide-button:hover {
+    background-color: #fff;
+    color: #b40101;
+    border: 1px solid #b40101; }
+  .slide-button:focus {
+    background-color: #fff;
+    color: #b40101;
+    border: 1px solid #b40101; }
+
+.slide-navigation {
+  text-align: center; }
+
+.slide-caption {
+  text-align: center;
+  padding: 10px;
+  font-style: italic;
+  font-size: 20px;
+  color: #000; }
+
+.qanda {
+  width: 80%;
+  margin-left: 5%; }
+
+.section-title {
+  color: #b40101;
+  font-weight: bold; }
+
+.author {
+  color: #b40101; }
+
 .recruiting {
   text-align: center; }
 
