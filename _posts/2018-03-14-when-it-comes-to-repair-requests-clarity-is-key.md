@@ -29,11 +29,11 @@ youtube_code: 3rIO9AEnsiI
 
 Today, we’re going to be talking about repairs in the inspection contingency period.
 
-It’s pretty common for buyers and sellers to have two very different ideas of what the repairs are intended to be, or what is actually asked for. **It is important for a buyer to be very clear when asking for repairs on their inspection amendment.**The seller would need to know what repair the buyer is asking for, if they’re asking for a licensed contractor to do it, or if the repair is something that the seller themselves could do. Additionally, the seller will want to know whether a paid receipt or photograph is required to verify that the repair has been completed, as well as whether or not other specific items are necessary.
+It’s pretty common for buyers and sellers to have two very different ideas of what the repairs are intended to be, or what is actually asked for. **It is important for a buyer to be very clear when asking for repairs on their inspection amendment.&nbsp;**The seller would need to know what repair the buyer is asking for, if they’re asking for a licensed contractor to do it, or if the repair is something that the seller themselves could do. Additionally, the seller will want to know whether a paid receipt or photograph is required to verify that the repair has been completed, as well as whether or not other specific items are necessary.
 
 For example, just a simple amendment saying to repair the roof wouldn’t be very clear. We would need something more specific like what about the roof needs repairing and if a roofing contractor is required for that task.
 
-On the seller’s side, when you receive an inspection amendment request, you want to be sure to take that request literally. **Do what the buyer asks for, not what you think they’re asking for.**As an example, suppose that you have a leaky pipe under a sink which the buyer specifically asks you to fix. That doesn’t mean that you have to hire a plumber to do it; you could ask your dad or a handyman since they never specified who needs to make the repair. If they ask for a radon system to be installed by a licensed professional, you have to have said professional do it.
+On the seller’s side, when you receive an inspection amendment request, you want to be sure to take that request literally. **Do what the buyer asks for, not what you think they’re asking for.&nbsp;**As an example, suppose that you have a leaky pipe under a sink which the buyer specifically asks you to fix. That doesn’t mean that you have to hire a plumber to do it; you could ask your dad or a handyman since they never specified who needs to make the repair. If they ask for a radon system to be installed by a licensed professional, you have to have said professional do it.
 
 {% include pullquote.html %}
 
@@ -41,4 +41,4 @@ On the seller’s side, when you receive an inspection amendment request, you wa
 
 Once the buyer closes on the property, it means that they have accepted the property in its current condition, so it’s important for the buyer to ensure that they’re satisfied with the repairs that were made.
 
-We are strong at dealing with inspection negotiations because these types of issues come up in all sorts of ways. If you have any questions about this, feel free to give us a call anytime.
+We are strong at dealing with inspection negotiations because these types of issues come up in all sorts of ways. If you have any questions about this, feel free to give us a call anytime. We look forward to hearing from you.&nbsp;
