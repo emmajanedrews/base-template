@@ -21,7 +21,7 @@ Are we nearing a bubble in the real estate market? I’m here today to discuss.
 
 We’re hearing a lot of concern that we may be reaching another housing bubble. I recently read an article from the NAR, who discovered that the median existing home price for all homes in January was up by about 5.8%. **That’s just about what we’re seeing in Hoboken.**
 
-This is coming off of 71 consecutive months of price increases, which has led some people to believe that home prices are overinflated. Zillow recently issued a statement saying that if the bubble had occurred, home values would have appreciated at a steady pace and the median home price would have been at or above the current value.
+This is coming off of 71 consecutive months of price increases, which has led some people to believe that home prices are overinflated. Zillow recently issued a statement saying that if the bubble had not happened, home values would have appreciated at a steady pace and the median home price would have been at or above the current value.
 
 {% include pullquote.html %}
 
