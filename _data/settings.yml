@@ -1,5 +1,5 @@
 audit_header: false
-title: Marketing Luxury Real Estate Careers and Training Video Blog
+title: Marketing Luxury Real Estate Consulting Video Blog with Michael LaFido
 description: A Video Blog about -- MARKET -- ; its industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!
 show_custom_links: false
 custom_links:
@@ -35,8 +35,8 @@ CTAs:
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/006.jpg
-    CTA_title: Looking to Build Your Real Estate Career?
-    CTA_text: Let's talk about how The Marketing Luxury Group can take your business to new heights.
+    CTA_title: Looking to Market Luxury Homes the right way?
+    CTA_text: Let's talk about how the Luxury Listing Specialist Certification can take your business to the next level.
     CTA_link_text: Request a Consultation
     CTA_url: /contact/
 
@@ -74,7 +74,7 @@ socials:
   podcast_url:
 
 podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
+  title: Marketing Luxury Real Estate Podcast Video Blog with Michael LaFido
   categories: Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
@@ -86,7 +86,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 20
-  hero_text: Marketing Luxury Real Estate Careers and Training Video Blog
+  hero_text: Marketing Luxury Real Estate Consulting Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg

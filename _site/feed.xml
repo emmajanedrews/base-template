@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Marketing Luxury Real Estate Careers and Training Video Blog</title>
+    <title>Marketing Luxury Real Estate Consulting Video Blog with Michael LaFido</title>
     <description>A Video Blog about Marketing Luxury Listings ; its industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 12 Mar 2018 12:40:12 -0500</pubDate>
-    <lastBuildDate>Mon, 12 Mar 2018 12:40:12 -0500</lastBuildDate>
+    <pubDate>Wed, 14 Mar 2018 16:36:33 -0500</pubDate>
+    <lastBuildDate>Wed, 14 Mar 2018 16:36:33 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -31,11 +31,13 @@
         <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
         <guid isPermaLink="true">localhost:4000/this-is-a-test-post-copy-2.html</guid>
         
-        <category>Market Update</category>
+        <category>Increase Business</category>
         
-        <category>Real Estate</category>
+        <category>Build a Real Estate Team</category>
         
-        <category>Home Seller Tips</category>
+        <category>Real Estate Business Tips</category>
+        
+        <category>Luxury Listing Specialist</category>
         
         
       </item>
@@ -78,11 +80,13 @@
         <link>localhost:4000/a-fox-in-space.html</link>
         <guid isPermaLink="true">localhost:4000/a-fox-in-space.html</guid>
         
-        <category>Market Update</category>
+        <category>Increase Business</category>
         
-        <category>Real Estate</category>
+        <category>Build a Real Estate Team</category>
         
-        <category>Home Seller Tips</category>
+        <category>Real Estate Business Tips</category>
+        
+        <category>Luxury Listing Specialist</category>
         
         
       </item>

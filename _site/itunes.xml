@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title>Marketing Luxury Listings Real Estate Podcast with Michael LaFido</title>
+    <title>Marketing Luxury Real Estate Podcast Video Blog with Michael LaFido</title>
     <link>localhost:4000</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Marketing Luxury Group - your professional Marketing Luxury Listings Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Michael LaFido</managingEditor>
-    <lastBuildDate>2018-03-12 12:40:12 -0500</lastBuildDate>
+    <lastBuildDate>2018-03-14 16:36:33 -0500</lastBuildDate>
     <media:copyright>Michael LaFido</media:copyright>
     <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Marketing Luxury Listings, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -28,11 +28,13 @@
         <title>this is a test post</title>
         <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
         
-          <category>Market Update</category>
+          <category>Increase Business</category>
         
-          <category>Real Estate</category>
+          <category>Build a Real Estate Team</category>
         
-          <category>Home Seller Tips</category>
+          <category>Real Estate Business Tips</category>
+        
+          <category>Luxury Listing Specialist</category>
         
         <author>Michael LaFido</author>
         <pubDate>2016-10-04 00:00:00 -0500</pubDate>
@@ -67,11 +69,13 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
         <title>A Fox in Space</title>
         <link>localhost:4000/a-fox-in-space.html</link>
         
-          <category>Market Update</category>
+          <category>Increase Business</category>
         
-          <category>Real Estate</category>
+          <category>Build a Real Estate Team</category>
         
-          <category>Home Seller Tips</category>
+          <category>Real Estate Business Tips</category>
+        
+          <category>Luxury Listing Specialist</category>
         
         <author>Michael LaFido</author>
         <pubDate>2016-09-28 00:00:00 -0500</pubDate>
