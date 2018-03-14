@@ -20,7 +20,9 @@ youtube_code: Yc0lcluSqp8
 
 {% include youtube.html %}
 
-<center>If you’ve been considering a luxury home purchase, it’s a great time to make that move.</center>
+<center><em>If you&rsquo;ve been considering a luxury home purchase, it&rsquo;s a great time to make that move.</em></center>
+
+<center>&nbsp;</center>
 
 This week’s question comes from Andrew and Marsha, who ask: **“Is this the right time to cash in equity and move up to a luxury home?”**
 
