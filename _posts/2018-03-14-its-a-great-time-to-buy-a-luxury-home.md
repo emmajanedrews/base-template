@@ -32,6 +32,6 @@ Statistics show us that in today’s premium home market, buyers are in control.
 
 {% include pullquote.html %}
 
-Startup home or trade-up home listings will often attract bidding wars. So, it may be time for you to put your home on the market.
+Startup homes or trade-up home listings will often attract bidding wars. So, it may be time for you to put your home on the market.
 
 If you have any other questions, would like more information, or want help listing your home, feel free to give my team and I a call or send us an email. I look forward to hearing from you soon.<br>&nbsp;
