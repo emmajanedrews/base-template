@@ -23,7 +23,7 @@ youtube_code: lBKH8qyndz8
 
 Open houses are a great way to get exposure for your home and allow people to come in and see themselves in your home. What are some things you can do to prepare for the open house and help sell your home?&nbsp;
 
-**First of all, declutter.** Make sure that the house is clean and that all knicknacks are put away. In a sense, you’ll want to sterilize the home; take down all personal pictures to allow the buyer to visualize themselves and their stuff inside the home.&nbsp;
+**First of all: declutter.** Make sure that the house is clean and that all knickknacks are put away. In a sense, you’ll want to sterilize the home; take down all personal pictures to allow the buyer to visualize themselves and their stuff inside the home.&nbsp;
 
 If you have pets, you will want to take them to Petsmart or the dog park during open houses. They should be out of the way during the open house.&nbsp;
 
