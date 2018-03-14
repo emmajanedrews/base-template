@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Market Update From the City That Never Sleeps
-date: 2018-03-13 20:27:00
+date: 2018-03-13 14:18:00
 tags:
   - Market Update
 excerpt: >-
