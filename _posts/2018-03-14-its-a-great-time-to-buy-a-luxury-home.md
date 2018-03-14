@@ -1,7 +1,7 @@
 ---
 layout: post
 title: It's a Great Time to Buy a Luxury Home
-date:
+date: 2018-03-14 15:14:46
 tags:
   - Home Buyer Tips
 excerpt: >-
