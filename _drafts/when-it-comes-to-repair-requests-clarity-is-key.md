@@ -13,7 +13,8 @@ excerpt: >-
   the repairs. Sellers should take these requests literally and not operate
   based on what they think the buyer wants. To hear more about how to navigate
   repair requests during the inspection period, watch my latest video.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2018/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Repairs+during+the+inspection+period.mp4
 pullquote: >-
   It is important for a buyer to be very clear when asking for repairs on their
   inspection amendment.
