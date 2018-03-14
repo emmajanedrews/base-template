@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Your Future Property Located in a Flood Zone?
-date: 2018-03-12 19:55:30
+date: 2018-03-12 19:55:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/flood-insurance-email-2.jpg
-youtube_code: PXM877g0D6Q
+youtube_code: 62imiwsSbog
 ---
 
 {% include youtube.html %}
@@ -25,7 +25,7 @@ Why is it crucial when buying a property that you check if it’s located in a f
 
 I’m doing a loan for a couple who bought a 12-acre property awhile back but didn’t know that part of the property was in a flood zone. Since they only recently learned about this and we’ve pulled a flood certificate, they now have to pay between $100 and $200 a month extra for the entire life of their loan.
 
-If you use a Realtor to buy a property, make sure they work hard to check for this kind of information. **Most of the time, if a property is located within a flood zone, that fact will be listed in the seller’s disclosure.&nbsp;**Some sellers themselves don’t even know if their property is located in a flood zone, though. This could be because they inherited the property, bought it at an auction, or the land was split off from another parcel. Sometimes, unfortunately, they can also be dishonest and just not tell you about it.
+If you use a Realtor to buy a property, make sure they work hard to check for this kind of information. **Most of the time, if a property is located within a flood zone, that fact will be listed in the seller’s disclosure.**Some sellers themselves don’t even know if their property is located in a flood zone, though. This could be because they inherited the property, bought it at an auction, or the land was split off from another parcel. Sometimes, unfortunately, they can also be dishonest and just not tell you about it.
 
 {% include pullquote.html %}
 
