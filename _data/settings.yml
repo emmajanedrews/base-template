@@ -5,6 +5,8 @@ show_custom_links: true
 custom_links:
   - title: Radio Show
     url: /radio-show/
+  - title: Careers
+    url: http://realestatecareersinpalmbeach.blogspot.com/
 
 client:
   name: Lisa Treu
