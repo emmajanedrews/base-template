@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Top 4 Benefits of Working With an Expert Home Advisor
-date: 2018-03-12 16:37:47
+date: 2018-03-12 16:37:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/work-with-home-advisor-youtube.jpg
-youtube_code: 3qIQiUQp4WY
+youtube_code: BqETtu87WRM
 ---
 
 {% include youtube.html %}
