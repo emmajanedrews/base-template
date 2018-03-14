@@ -18,13 +18,14 @@ thumbnail: https://i.ytimg.com/vi/VYc0slZmErg/default.jpg
 blogger_id: tag:blogger.com,1999:blog-2331479289908791438.post-5979853325777316528
 blogger_orig_url: http://darwalden.blogspot.com/2018/02/the-dos-and-donts-of-home-renovation.html
 ---
-{% include youtube.html %}
-<center>If you’re planning on renovating your house before selling it, there are certain things you should do and certain things you shouldn’t do.</center>
 
-<div class="post-cta">
-<strong>Want to sell your home? <a href="" target="_blank">Get a FREE home value report</a></strong><br>
-<strong>Want to buy a home? <a href="" target="_blank">Search all homes for sale</a></strong>
-</div>
+{% include youtube.html %}
+
+<center><em>If you&rsquo;re planning on renovating your house before selling it, there are certain things you should do and certain things you shouldn&rsquo;t do.</em></center>
+
+<center>&nbsp;</center>
+
+<div class="post-cta"><strong>Want to sell your home? <a target="_blank" class="cc-active" href="">Get a FREE home value report</a></strong><br /><strong>Want to buy a home? <a target="_blank" class="cc-active" href="">Search all homes for sale</a></strong></div>
 
 Here’s a rundown of some of the do’s and don'ts of home renovation if you’re getting ready to sell your home.
 
