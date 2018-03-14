@@ -30,14 +30,14 @@ Many experts also maintain that it’s best to discuss these living options earl
 Some options include:
 
 * **Moving in with them.**
-* **Buying a home or condo for them in a 55-and-older assisted living community.**
+* **Buying a home or condo for them in a 55-and-older community.**
 * **Helping them move into an independent living facility or a nursing home.**
 
 {% include pullquote.html %}
 
 There a number of factors to consider in determining the best option. If they’re looking to buy a home or condo in a 55-and-older assisted living community but they’re worried that their taxes might go up, you can rest assured that the state of California offers Proposition 60 and Proposition 90 to help them transfer their tax base to their new property.
 
-If they live on a fixed income and they’re worried they won’t be able to afford a new home, they might have a lot of equity in their current home. If that’s the case, we can use that equity to put them in a position where they can pay cash for a new home. There are plenty of communities out there that are relatively inexpensive. One of these is Leisure World, which has locations in Seal Beach, Huntington Beach, Laguna Hills, and Laguna Woods. Homes in Leisure World here in Seal Beach start at $150,000.
+If they live on a fixed income and they’re worried they won’t be able to afford a new home, they might have a lot of equity in their current home. If that’s the case, we can use that equity to put them in a position where they can pay cash for a new home. There are plenty of communities out there that are relatively inexpensive. One of these is Leisure World, which has locations in Seal Beach, Huntington Beach, and Laguna Woods. Homes in Leisure World here in Seal Beach start at $150,000.
 
 If they want to finance a property but they’re worried they won’t qualify for a traditional mortgage because, again, they live on a fixed income, they can use a reverse mortgage. With a reverse mortgage, if they put down 50%, the mortgage will cover the rest of the purchase price. What’s great about this is they won’t need to make any mortgage payments. They could if they wanted to, but they don’t have to.
 
