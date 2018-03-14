@@ -1,13 +1,14 @@
 ---
 layout: post
 title: How Will Rising Interest Rates Affect You?
-date: 2018-03-02 22:49:15
+date: 2018-03-02 22:49:00
 tags:
   - Home Buyer Tips
 excerpt: >-
   Even though the market is improving, your financial future depends on you
   paying attention to rising interest rates.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Adam+Stary/Naperville+Real+Estate++The+Stary+Group+Keep+an+eye+on+rising+interest+rates.mp4
 pullquote: You need to understand how rising interest rates will affect you financially.
 enclosure_type: video/mp4
 enclosure_time:
@@ -32,4 +33,4 @@ The Feds have come out and said that we’re going to see **interest rates on th
 
 In conclusion, you need to understand that, while there are fewer homes on the market right now and while home values are on the rise, you need to be acting quickly in this market. Since interest rates are rising, **not paying attention could cost you a lot of money in the future.**
 
-If you have any questions about interest rates, buying, or selling, feel free to reach out to me.<br>&nbsp;
+If you have any questions about interest rates, buying, or selling, feel free to reach out to me.<br>
