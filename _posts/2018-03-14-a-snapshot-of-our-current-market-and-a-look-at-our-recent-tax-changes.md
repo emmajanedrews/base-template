@@ -43,7 +43,7 @@ For now you can say goodbye to owning a second home, otherwise, you’ll pay an 
 
 The BC government is also taking action to close certain loopholes in our tax system. They’re forcing developers to report presale condo assignment sales and forcing land title offices to track hidden ownership. I feel like this is a good change, especially since developers would privately sell their most expensive units to speculators one floor at a time. In turn, these speculators would sell their units off privately and not report any capital gains.
 
-**With all of these changes, demand should decrease for speculators and our general housing inventory should increase.**Presale homes should also be more readily available to locals in the near future. Prices across Metro Vancouver have traditionally been pretty sticky, so I don’t foresee any major change in prices, except perhaps with detached homes. For areas outside of Metro Vancouver, I’m predicting a general slowdown.
+**With all of these changes, demand should decrease for speculators and our general housing inventory should increase.&nbsp;**Presale homes should also be more readily available to locals in the near future. Prices across Metro Vancouver have traditionally been pretty sticky, so I don’t foresee any major change in prices, except perhaps with detached homes. For areas outside of Metro Vancouver, I’m predicting a general slowdown.
 
 **If you want to dive further in depth into these tax changes, I invite you to check out these links:**
 
