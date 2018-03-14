@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Price of a Pool Home Along the Sun Coast
+title: What Does a 3/2 Pool Home Near the Beach Cost?
 tags:
   - Buyer Tips
 excerpt: What does a pool home cost along the Sun Coast? Here’s a quick rundown.
