@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using Technology to Sell Louisville Homes and a Market Update
-date: 2018-03-14 14:15:00
+date: 2018-03-14 00:00:00
 tags:
   - Market Update
   - Real Estate
