@@ -46,7 +46,7 @@ Our brand – Better Homes and Gardens - is synonymous with Quality.  And in rea
 
 **There are a number of advantages to you for moving forward on this…let me highlight a few of them here for you:**
 
-**NO BROKERAGE OR OFFICE FEES** – beyond your cell phone, car, and MLS & Board Dues and the basics to keep your license with the state…you’ll have none of the brokerage, advertising or lead generation expenses you’re faced with now. We have an innovative, STRESS FREE program, whether you are newer to the business, growing a team, or a team leader.  You’ll enjoy NO MONTHLY OFFICE FEES thanks to our great compensation package. We aren’t going to nickel and dime you or require you to have a Mathematics degree to compute your compensation.  We’ll even supply you with an office space, business cards, your first 5 real estate signs, and even an event for your past clients & sphere!
+**NO BROKERAGE OR OFFICE FEES** – beyond your phone, car, and MLS & Board Dues and the basics to keep your license with the state…you’ll have none of the brokerage, advertising or lead generation expenses you’re faced with now. We have an innovative, STRESS FREE program, whether you are newer to the business, growing a team, or a team leader.  You’ll enjoy NO MONTHLY OFFICE FEES thanks to our great compensation package. We aren’t going to nickel and dime you or require you to have a Mathematics degree to compute your compensation.  We’ll even supply you with an office space, business cards, your first 5 real estate signs, and even an event for your past clients & sphere!
 
 **BEAUTIFUL AND RELEVANT MARKETING & ADVERTISING** – Better Homes and Gardens Real Estate Innovations has the newest technologies that will help you market yourself and your listings.
 
