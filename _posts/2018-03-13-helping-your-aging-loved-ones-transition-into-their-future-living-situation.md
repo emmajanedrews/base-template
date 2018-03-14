@@ -21,7 +21,7 @@ youtube_code: BH8H7InFQTo
 
 {% include youtube.html %}
 
-I was driving through my neighborhood the other day when I saw what appeared to be a woman who had fallen concrete walkway in front of her home and was having a hard time getting back up. I pulled my car over and asked her if she needed help, but she insisted she was fine. I could tell she really needed help though, so with the help of a neighbor and with her permission, I called the paramedics and they helped her safely get back into her home.
+I was driving through my neighborhood the other day when I saw what appeared to be a woman who had fallen on the concrete walkway in front of her home and was having a hard time getting back up. I pulled my car over and asked her if she needed help, but she insisted she was fine. I could tell she really needed help though, so with the help of a neighbor and with her permission, I called the paramedics and they helped her safely get back into her home.
 
 This experience reminded me that we all have loved ones like parents or grandparents who are getting older, and **now is a very good time to start helping them plan where they’re going to live.** According to many experts, many seniors hold the unrealistic belief that they’ll be able to live independently for the rest of their lives, and that’s where their children or other family members can be instrumental in helping them plan for their future living situation.
 
@@ -41,4 +41,4 @@ If they live on a fixed income and they’re worried they won’t be able to aff
 
 If they want to finance a property but they’re worried they won’t qualify for a traditional mortgage because, again, they live on a fixed income, they can use a reverse mortgage. With a reverse mortgage, if they put down 50%, the mortgage will cover the rest of the purchase price. What’s great about this is they won’t need to make any mortgage payments. They could if they wanted to, but they don’t have to.
 
-If you’re facing a situation like this and you want to know more about these options or you have any other real estate needs I can help you with, don’t hesitate to reach out to me. I’d be happy to help you. <br>
+If you’re facing a situation like this and you want to know more about these options or you have any other real estate needs I can help you with, don’t hesitate to reach out to me. I’d be happy to help you.&nbsp;
