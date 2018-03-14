@@ -1,3 +1,4 @@
+<img src="/img/miranda.png" id="side-logo">
 {% for cta in site.data.settings.sidebar_CTA %}
 <div class="cta-sidebar-container">
 	<div class="cta-img-container">
@@ -34,9 +35,9 @@
 		{% else %}
 		<a href="{{cta.CTA_url2}}" target="_blank">
 		{%endif%}
-		<img src="{{cta.CTA_image_path2}}" alt="" />
+		<img src="{{cta.CTA_image_path2}}"  id="book" alt=""/>
 	</a>
-	</div>
+</div><br>
 	<h5>{{cta.CTA_title2 | replace: '-- MARKET --', site.data.settings.client.market}}</h5>
 	<p>
 		{{cta.CTA_text2 | replace: '-- MARKET --', site.data.settings.client.market}}

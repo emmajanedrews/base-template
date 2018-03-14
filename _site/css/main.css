@@ -2765,7 +2765,8 @@ form select {
 
 #side-logo {
   width: 90%;
-  margin: 0 auto; }
+  margin: 0 auto;
+  display: block; }
 
 .client-testimonial {
   margin-top: 10px; }
@@ -2776,6 +2777,11 @@ form select {
 .testimonial-author {
   color: #b40101;
   margin-top: -20px; }
+
+#book {
+  width: 50%;
+  display: block;
+  margin: 0 auto; }
 
 .recruiting {
   text-align: center; }
