@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Market Update From the City That Never Sleeps
-date: 2018-03-13 20:27:07
+date: 2018-03-13 20:27:00
 tags:
   - Market Update
 excerpt: >-
@@ -13,7 +13,7 @@ pullquote: There are great reasons to both buy and sell a home right now in our 
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/no-2.jpg
+youtube_alternate_image: /uploads/bob2.jpg
 youtube_code: XaCOJCiHwBM
 ---
 
