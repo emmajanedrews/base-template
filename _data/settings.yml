@@ -11,21 +11,21 @@ emma:
   form:
 
 client:
-  name:
-  title:
+  name: John Cunningham
+  title: 
   license_number:
   about_markdown: |
-
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    I am Realtor here in the Orlando, FL area. I enjoy helping buyers and sellers turn their real estate dreams into REALITY. My current goal is to be apart of the 30 under 30 in Real Estate. Now is your chance to be apart of that achievement with me. If you know anybody looking to buy or sell call JOHN MICHAEL!
+  market: Orlando
+  brand: List Now Sell Today
+  brokerage: Keller Williams Classic Realty
+  address: 245 Murcott Ct, Orlando, FL 32835
+  phone: 407-535-1300
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: jmc9393@gmail.com
+  url: http://www.listnowselltoday.com
 
 CTAs:
   first_CTA_text: Home Valuation
@@ -61,14 +61,14 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/pg/Listnowselltoday/about/?ref=page_internal
+  linkedin_url: https://www.linkedin.com/in/listnowselltoday/
   gplus_url:
   youtube_url:
   twitter_url:
   instagram_url:
   pinterest_url:
-  zillow_url:
+  zillow_url: https://www.zillow.com/profile/jmc9393/
   trulia_url:
   yelp_url:
   podcast_url:
@@ -85,14 +85,14 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 50
   hero_text: -- MARKET -- Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#b40101'
-  theme_color: '#999'
+  theme_color: '#181C25'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -101,10 +101,10 @@ navbar_colors:
   border_bottom:
 
 header_shadow:
-  h_shadow: 0px
+  h_shadow: 2px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: 'transparent'
 
 buttons:
   button_radius_number: 0
