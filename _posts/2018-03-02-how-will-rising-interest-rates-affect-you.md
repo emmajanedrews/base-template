@@ -29,8 +29,8 @@ Last time, I discussed the low inventory in the marketplace, and I know many of 
 
 {% include pullquote.html %}
 
-The Feds have come out and said that we’re going to see **interest rates on the rise.** If the rates rise by 1% on a $100,000 loan, that will cost you over 21% in interest on a 30 year mortgage, which you’ll basically just be giving to the bank. For a $300,000 home, you have to triple that.
+The Feds have come out and said that we’re going to see **interest rates on the rise.** If the rates rise by 1% on a $100,000 loan, that will cost you over $21,000 in interest on a 30 year mortgage, which you’ll basically just be giving to the bank. For a $300,000 home, you have to triple that.
 
 In conclusion, you need to understand that, while there are fewer homes on the market right now and while home values are on the rise, you need to be acting quickly in this market. Since interest rates are rising, **not paying attention could cost you a lot of money in the future.**
 
-If you have any questions about interest rates, buying, or selling, feel free to reach out to me.<br>
+If you have any questions about interest rates, buying, or selling, feel free to reach out to me.
