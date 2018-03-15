@@ -21,7 +21,7 @@ youtube_code: 3teI9MwL-Mk
 
 What’s the latest monthly report from our market, and how will BC’s recent tax changes affect our market moving forward in 2018?
 
-**Overall, last month’s sales across Metro Vancouver were down 14.4% below the 10-year February sales average.**By property type, detached home sales were down 39.4% over the same period, while attached home sales were down 6.8%, and apartments were up 5.5%. This difference between apartments and homes could be because of the new mortgage stress testing rules affecting entry-level properties.
+**Overall, last month’s sales across Metro Vancouver were down 14.4% below the 10-year February sales average.&nbsp;**By property type, detached home sales were down 39.4% over the same period, while attached home sales were down 6.8%, and apartments were up 5.5%. This difference between apartments and homes could be because of the new mortgage stress testing rules affecting entry-level properties.
 
 The active-to-sales ratio was 14% for detached homes, 37.6% for townhomes, and 59.7% for condominiums. Generally, we see downward pressure on home prices when this ratio dips below the 12% mark for a sustained period and upward pressure when it rises above 20% for several months.
 
