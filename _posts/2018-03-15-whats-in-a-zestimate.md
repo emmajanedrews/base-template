@@ -1,11 +1,12 @@
 ---
 layout: post
 title: What’s in a Zestimate?
-date: 2018-03-15 18:19:20
+date: 2018-03-15 18:19:00
 tags:
   - Home Seller Tips
 excerpt: Are Zestimates a reliable indicator of home value? You’ll find out today.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Stacy+Esser/Whats+in+a+Zestimate%253F.mp4
 pullquote: Any homeowner can change the user-submitted data for their home.
 enclosure_type: video/mp4
 enclosure_time:
