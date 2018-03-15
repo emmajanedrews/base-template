@@ -33,7 +33,9 @@ client:
 CTAs:
   first_CTA_text: Apply Now
   first_CTA_URL: 'https://preapp1003.com/id/Patrick-Fitzgerald/'
-  VR_form: 'http://oi.vresp.com?fid=6fbd80d201'
+
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1807991';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: Online Loan Application

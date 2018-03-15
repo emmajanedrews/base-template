@@ -7,18 +7,13 @@
 		{% if site.data.settings.audit_header == true %}
 			{% include audit.html %}
 		{% endif %}
-		{% include header.html %}
+		{% include video-header.html %}
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-sm-12">
 
 					{% include navigation.html %}
 					{% include contact-modal.html %}
-				</div>
-			</div>
-			<div class="row" id="welcome">
-				<div class="col-lg-12 welcome-box" id="welcome-box">
-					{% include welcome-box.html %}
 				</div>
 			</div>
 			<div class="row ">
@@ -39,7 +34,7 @@
 					{% include blog-archive-category.html %}
 					{% include socials.html %}
 					{% include search-box.html %}
-					{% include sidebar.html %}
+					<!-- {% include sidebar.html %} -->
 					{% include lender.html %}
 					{% include reviews.html %}
 				</div>
@@ -48,9 +43,9 @@
 			</div>
 			{% include pagination.html %}
 			{% include about.html %}
-			{% include newsletter.html %}
 			{% include testimonials.html %}
 			{% include bottom-navigation.html %}
 			{% include footer.html %}
+			{% include lightbox.html %}
   </body>
 </html>
