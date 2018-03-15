@@ -12,7 +12,7 @@ excerpt: >-
   to scope for foreclosure auctions. To learn more about this and the other two
   approaches, watch my latest video.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Oggie+Penev/Videos/Penev+Realty+%257C+Creative+Ways+to+Find+Your+New+Home.mp4
+  https://s3.amazonaws.com/vyralmarketing/Oggie+Penev/Videos/Penev+Realty+%257C+Find+Your+Dream+Home+With+These+3+Creative+Methods+(1).mp4
 pullquote: >-
   A foreclosure auction is open for everybody, and they can buy the property at
   a pretty decent discount.
@@ -20,7 +20,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/oggie-penev---march-2018---1----youtube-edit.jpg
-youtube_code: ARfseYtZ92I
+youtube_code: z1Mrdykd0IQ
 ---
 
 {% include youtube.html %}
