@@ -19,7 +19,7 @@ client:
   market: Orlando
   brand: List Now Sell Today
   brokerage: Keller Williams Classic Realty
-  address: 245 Murcott Ct, Orlando, FL 32835
+  address: 6900 Turkey Lake Road, Suite 1 Orlando, FL 32819
   phone: 407-535-1300
   phone_type:
   phone2:
@@ -91,8 +91,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#272822'
-  theme_color: '#fb6bca'
+  brand_color: '#fb6bca'
+  theme_color: '#272822'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
