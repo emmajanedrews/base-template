@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Snapshot of Our Current Market and a Look at Our Recent Tax Changes
-date: 2018-03-14 15:22:52
+date: 2018-03-14 15:22:00
 tags:
   - Market Update
 excerpt: >-
@@ -14,14 +14,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 3teI9MwL-Mk
+youtube_code: B7tSyxMJno0
 ---
 
 {% include youtube.html %}
 
 What’s the latest monthly report from our market, and how will BC’s recent tax changes affect our market moving forward in 2018?
 
-**Overall, last month’s sales across Metro Vancouver were down 14.4% below the 10-year February sales average.&nbsp;**By property type, detached home sales were down 39.4% over the same period, while attached home sales were down 6.8%, and apartments were up 5.5%. This difference between apartments and homes could be because of the new mortgage stress testing rules affecting entry-level properties.
+**Overall, last month’s sales across Metro Vancouver were down 14.4% below the 10-year February sales average.**By property type, detached home sales were down 39.4% over the same period, while attached home sales were down 6.8%, and apartments were up 5.5%. This difference between apartments and homes could be because of the new mortgage stress testing rules affecting entry-level properties.
 
 The active-to-sales ratio was 14% for detached homes, 37.6% for townhomes, and 59.7% for condominiums. Generally, we see downward pressure on home prices when this ratio dips below the 12% mark for a sustained period and upward pressure when it rises above 20% for several months.
 
@@ -43,7 +43,7 @@ For now you can say goodbye to owning a second home, otherwise, you’ll pay an 
 
 The BC government is also taking action to close certain loopholes in our tax system. They’re forcing developers to report presale condo assignment sales and forcing land title offices to track hidden ownership. I feel like this is a good change, especially since developers would privately sell their most expensive units to speculators one floor at a time. In turn, these speculators would sell their units off privately and not report any capital gains.
 
-**With all of these changes, demand should decrease for speculators and our general housing inventory should increase.&nbsp;**Presale homes should also be more readily available to locals in the near future. Prices across Metro Vancouver have traditionally been pretty sticky, so I don’t foresee any major change in prices, except perhaps with detached homes. For areas outside of Metro Vancouver, I’m predicting a general slowdown.
+**With all of these changes, demand should decrease for speculators and our general housing inventory should increase.**Presale homes should also be more readily available to locals in the near future. Prices across Metro Vancouver have traditionally been pretty sticky, so I don’t foresee any major change in prices, except perhaps with detached homes. For areas outside of Metro Vancouver, I’m predicting a general slowdown.
 
 **If you want to dive further in depth into these tax changes, I invite you to check out these links:**
 
@@ -52,5 +52,3 @@ The BC government is also taking action to close certain loopholes in our tax sy
 * [http://bcbudget.gov.bc.ca/2018/highlights/2018\_Highlights.pdf](http://bcbudget.gov.bc.ca/2018/highlights/2018_Highlights.pdf)
 
 If you have any more questions about our market our any of these tax changes or you’re thinking of buying or selling a home soon, don’t hesitate to reach out to me. I’d be happy to help you.
-
-&nbsp;
