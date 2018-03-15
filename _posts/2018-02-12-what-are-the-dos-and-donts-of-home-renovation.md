@@ -32,7 +32,7 @@ Here’s a rundown of some of the do’s and don'ts of home renovation if you’
 
 **Don’t:** Wait until you’re ready to sell to start renovating. This is one of the biggest mistakes sellers can make. Do yourself a favor and do your renovations while you live in the property so you can enjoy them. You’ll never be able to get a dollar-for-dollar return for them, so the best way to compensate for that is to use those renovations for your own personal enjoyment.
 
-**Do:** Work on curb appeal. People tend to overlook this here in Alaska because it’s hard to manage curb appeal in February, but curb appeal is the No. 1 thing that draws people into a home. If they don’t like what they see when they drive up, you’ll probably lose them before they ever step foot into the home. Just make sure to use common sense and avoid doing something like building a $10,000 decorative retaining wall because you definitely won’t get your money back. Just clean everything up and make your exterior look nice and neat and it will carry you further than you can imagine.
+**Do:** Work on curb appeal. People tend to overlook this here in Alaska because it’s hard to manage curb appeal in March, but curb appeal is the No. 1 thing that draws people into a home. If they don’t like what they see when they drive up, you’ll probably lose them before they ever step foot into the home. Just make sure to use common sense and avoid doing something like building a $10,000 decorative retaining wall because you definitely won’t get your money back. Just clean everything up and make your exterior look nice and neat and it will carry you further than you can imagine.
 
 {% include pullquote.html %}
 
