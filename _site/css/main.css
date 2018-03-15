@@ -1585,7 +1585,8 @@ label.tree-toggle {
   background-attachment: fixed;
   background-repeat: no-repeat;
   text-align: center;
-  position: relative; }
+  position: relative;
+  margin-top: 5rem; }
 
 .site-logo {
   width: 50%;
