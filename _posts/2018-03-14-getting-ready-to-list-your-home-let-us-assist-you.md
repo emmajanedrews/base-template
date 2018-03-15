@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Getting Ready to List Your Home? Let Us Help
-date: 2018-03-14 20:41:18
+title: Getting Ready to List Your Home? Let Us Assist You!
+date: 2018-03-14 20:41:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -20,9 +20,9 @@ youtube_code: PgFQEumz8wY
 
 {% include youtube.html %}
 
-Spring has arrived, and that means it’s time to get out and enjoy the awesome weather here in St. Charles.&nbsp;
+Spring has arrived, and that means it’s time to get out and enjoy the awesome weather here in St. Charles.
 
-If you’re thinking of putting your home on the market, right now is really a fantastic time. **Whether you’re serious about listing or simply curious about the possibility, my team and I offer services that can help you determine your home’s value in today’s robust market.**&nbsp;
+If you’re thinking of putting your home on the market, right now is really a fantastic time. **Whether you’re serious about listing or simply curious about the possibility, my team and I offer services that can help you determine your home’s value in today’s robust market.**
 
 {% include pullquote.html %}
 
