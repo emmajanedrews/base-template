@@ -18,7 +18,7 @@ youtube_code: KMkt2aABB2E
 
 {% include youtube.html %}
 
-At 2% Realty Solution, we do things differently so that our clients can get better results for less money.
+<center>At 2% Realty Solution, we do things differently so that our clients can get better results for less money.</center>
 
 If you’ve ever wanted to learn more about our company and what we do, you’re in luck. Today, I’ll be covering everything you need to know about 2% Realty Solution.&nbsp;
 
