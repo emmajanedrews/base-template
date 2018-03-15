@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Get More for Less With 2% Realty Solution
-date:
+date: 2018-03-15 18:05:15
 tags:
   - Real Estate
 excerpt: >-
