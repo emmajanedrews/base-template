@@ -35,9 +35,9 @@ Now, **from the moment we’re setting up an appointment with a buyer, we explai
 
 Once the buyer confirms that they would like to proceed, we can move forward knowing everyone is on the same page. We also review what will happen during the process at the start of every appointment.
 
-Thanks to this sense of structure, we’re able to build rapport, ask questions about the buyer’s goals and motivations, and solidify a professional relationship. Also during the appointment, we provide a packet containing mortgage information, the consumer notice, the buyer agency agreement, and what I call a buyer presentation. This last item outlines and unpacks the entire buyer process and goes into the role of a buyer’s agent.
+Thanks to this sense of structure, we’re able to build rapport, ask questions about the buyer’s goals and motivations, and solidify a professional relationship. Also during the appointment, we provide a packet containing mortgage information, the consumer notice, the buyer agency agreement, and what I call a buyer presentation. This last item outlines and unpacks the entire home buying process and goes into the role of a buyer’s agent.
 
-The buyer presentation is about 15 pages long, slightly shorter than our listing presentation, and is **designed to help buyers understand exactly how we as agents can advocate for them through the transaction.**
+The buyer presentation is about 15 pages long. It's **designed to help buyers understand exactly how we can advocate for them through the transaction.**
 
 Finally, we ask the buyer if they understand everything we’ve gone over. If they do, we can move on to signing the buyer agency agreement and get the rest of the process underway.
 
