@@ -24,7 +24,7 @@ client:
   phone_type:
   phone2:
   phone2_type:
-  email: jmc9393@gmail.com
+  email: jmc@livenowselltoday.com
   url: http://www.listnowselltoday.com
 
 CTAs:
@@ -91,8 +91,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#181C25'
+  brand_color: '#272822'
+  theme_color: '#fb6bca'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
