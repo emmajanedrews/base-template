@@ -1,9 +1,8 @@
 ---
 layout: post
 title: What Happens When You Join Our Team?
-date: 2018-03-12 19:11:54
+date: 2018-03-12 19:11:00
 tags:
-  - Recruiting
 excerpt: >-
   We specialize in helping agents grow their careers, and we’ve brought in one
   of our very own team leaders to tell you how.
@@ -14,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: XArZKt3M0To
+youtube_code: aFOVYjuwa_E
 ---
 
 {% include youtube.html %}
@@ -25,4 +24,4 @@ What can you expect if you join the Brad Korb Real Estate Group? I’ve brought 
 
 “When I was considering joining a real estate group, there were so many options, but the only one that stuck out and made sense for me was being a part of the Brad Korb Real Estate Group. Why? **I get to work one-on-one with a broker who’s been doing this for over 38 years.**He’s super knowledgeable and he’s always just a hand’s reach away to answer any of my questions. I had a great mentor when I started here myself, so being able to help others who are starting in real estate is a true blessing, and I’m super excited to do that.”
 
-If you’re thinking about joining our team or you have any questions about how we can jumpstart your real estate career, don’t hesitate to reach out to us. We’d love to speak with you.<br>&nbsp;
+If you’re thinking about joining our team or you have any questions about how we can jumpstart your real estate career, don’t hesitate to reach out to us. We’d love to speak with you.<br>
