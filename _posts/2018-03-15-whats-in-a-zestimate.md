@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s in a Zestimate?
-date:
+date: 2018-03-15 18:19:20
 tags:
   - Home Seller Tips
 excerpt: Are Zestimates a reliable indicator of home value? You’ll find out today.
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/no-7.jpg
-youtube_code:
+youtube_code: It3B6mgsrG8
 ---
 
 {% include youtube.html %}
