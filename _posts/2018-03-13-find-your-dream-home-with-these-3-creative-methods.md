@@ -33,6 +33,6 @@ Today, I’ll be giving you three creative suggestions of how to find distressed
 
 **2. Tax and court records.** Through searching the tax and court records, you can find motivated sellers such as those going through a divorce, those who have tax defaults, probate estates, or anyone who might need to sell. However, a lot of these people might not want to sell, or don’t want to be bothered. Additionally, searching these records could be time-consuming.
 
-**3. Use direct marketing.**This could mean using direct mail or phone calls. You can write to the homeowners and offer to buy the property, or if you like a specific subdivision, ZIP code, or city, you can pull phone numbers and call them directly. This approach can be successful for specific situations. However, it could also be very expensive, so be careful not to go over budget.
+**3. Use direct marketing.&nbsp;**This could mean using direct mail or phone calls. You can write to the homeowners and offer to buy the property, or if you like a specific subdivision, ZIP code, or city, you can pull phone numbers and call them directly. This approach can be successful for specific situations. However, it could also be very expensive, so be careful not to go over budget.
 
 If you have any questions or need any help, feel free to reach out to me. I’d be happy to help.
