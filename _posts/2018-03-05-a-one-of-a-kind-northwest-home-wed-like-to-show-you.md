@@ -12,7 +12,7 @@ excerpt: >-
   This property rich with history and replete with many great features. To learn
   more about it and take a guided tour of the inside, watch our latest video.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/John+Hatch/+Videos/2018/Portland+Real+Estate+Agent-+A+One-of-a-Kind+Northwest+Home+Wed+Like+to+Show+You.mp4
+  https://s3.amazonaws.com/vyralmarketing/John+Hatch/+Videos/2018/Portland+Real+Estate+Agent-+A+One-of-a-Kind+Northwest+Home+Wed+Like+to+Show+You+(1).mp4
 pullquote: This home is truly one of a kind.
 enclosure_type: video/mp4
 enclosure_time:
@@ -29,7 +29,7 @@ If you follow along in the guided video tour above, you can see a first-hand loo
 
 This is a remodeled modern home with old-world historic details. By entering through the romantic iron gates, you’ll find yourself inside a private courtyard with 100-year-old brick walls. This home is truly one of a kind, with a floor plan centered around an outdoor courtyard which brings the outdoors in while maintaining privacy.
 
-**It has three bedrooms, three full bathrooms, and occupies just under 4,000 square feet.**Rich with history, in the 1970s the structure was in disrepair and said to once be a Willamette Heights horse stable, then a trolly car garage, and then an auto barn. It was then repurposed during that time by homeowners truly dedicated to preserving the history while modernizing and honoring the historic neighborhood of Willamette Heights. You can still see the huge old-growth beams supporting the 12-foot ceilings of the kitchen, and you will notice many architectural details salvaged from other northwest mansions of the past, like the solid oak doors, the beautiful fireplace, and the antique door hardware.
+**It has three bedrooms, three full bathrooms, and occupies just under 4,000 square feet.&nbsp;**Rich with history, in the 1970s the structure was in disrepair and said to once be a Willamette Heights horse stable, then a trolly car garage, and then an auto barn. It was then repurposed during that time by homeowners truly dedicated to preserving the history while modernizing and honoring the historic neighborhood of Willamette Heights. You can still see the huge old-growth beams supporting the 12-foot ceilings of the kitchen, and you will notice many architectural details salvaged from other northwest mansions of the past, like the solid oak doors, the beautiful fireplace, and the antique door hardware.
 
 {% include pullquote.html %}
 
