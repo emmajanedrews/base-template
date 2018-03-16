@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Do We Live Our Core Value "Be a Blessing"?
-date: 2018-03-16 22:10:16
+date: 2017-07-13 22:10:00
 tags:
   - Real Estate
 excerpt: How Do We Live Our Core Value "Be a Blessing"?
