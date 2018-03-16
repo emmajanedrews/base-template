@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Baltimore Real Estate Podcast with Lee Tessier</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://mdrealestatenews.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://mdrealestatenews.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Tessier Real Estate - your professional Baltimore Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Lee Tessier</managingEditor>
-    <lastBuildDate>2018-03-16 14:56:46 -0500</lastBuildDate>
+    <lastBuildDate>2018-03-16 16:05:41 -0500</lastBuildDate>
     <media:copyright>Lee Tessier</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://mdrealestatenews.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Baltimore, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,48 +18,516 @@
     </itunes:owner>
     <itunes:author>Lee Tessier</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://mdrealestatenews.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Baltimore, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Baltimore Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Tessier Real Estate - your professional Baltimore Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
+        <title>Whats Next for the Lee Tessier Team?</title>
+        <link>http://mdrealestatenews.com/whats-next-for-lee-tessier-team.html</link>
         
-          <category>Market Update</category>
+        <author>Lee Tessier</author>
+        <pubDate>2018-03-06 15:14:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Lee+Tessier/Baltimore+Real+Estate+Agent-+Whats+Next+for+the+Lee+Tessier+Team%253F.mp4</guid>
+        <description>
+
+Now that we’re an independent brokerage with a new name, we’re looking to add some more great agents to our team. Interested?
+
+As of this day forth, we are the Lee Tessier Team at Lee Tessier Real Estate. Now that we’re officially an independent brokerage, we’re also looking for additional agents to join our team.
+
+Specifically, we’re looking for individuals who have a desire to win and know how to take care of our clients’ needs and our team’s needs. We can provide training, accountability, and mentorship.
+
+“We’d love to sit down with you and go through everything we can offer you.”
+
+If you’d be interested in this position, you have high integrity, you’re a fast learner, and like to take care of clients, please reach out to us. We’d love to sit down with you and go through everything we can offer you.
+
+We’re excited to move forward as the Lee Tessier Team at Tessier Real Estate, and we look forward to hearing from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Lee+Tessier/Baltimore+Real+Estate+Agent-+Whats+Next+for+the+Lee+Tessier+Team%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://mdrealestatenews.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Lee+Tessier/Baltimore+Real+Estate+Agent-+Whats+Next+for+the+Lee+Tessier+Team%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Now that we’re an independent brokerage with a new name, we’re looking to add some more great agents to our team. Interested?
+
+</itunes:subtitle>
+        <itunes:author>Lee Tessier</itunes:author>
+        <itunes:summary>
+
+Now that we’re an independent brokerage with a new name, we’re looking to add some more great agents to our team. Interested?
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Baltimore, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Are You Ready for the Spring Market?</title>
+        <link>http://mdrealestatenews.com/are-you-ready-for-spring-market.html</link>
         
-          <category>Real Estate</category>
+          <category>Home Buyer Tips</category>
+        
+          <category>Baltimore Real Estate Market Update</category>
+        
+        <author>Lee Tessier</author>
+        <pubDate>2018-02-16 14:34:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Lee+Tessier/Baltimore+Real+Estate+Agent-+Are+You+Ready+for+the+Spring+Market%253F.mp4</guid>
+        <description>
+
+What should you expect to see on the market as we transition into spring? I have information and advice that you might find useful.
+
+Today, I’d like to talk about what we can expect in terms of the market now that we’re leaving winter behind and transitioning into spring.
+
+Spring is when the real estate market really starts to get busy. Sellers are occupied with preparing their homes for the market by painting, cleaning things out, emptying closets, making whatever repairs they need to, and freshening up the curb appeal. Buyers, on the other hand, are waiting for homes to start popping up on the MLS.
+
+However, there is a general shortage of inventory; pockets here and there have either almost none at all or plenty to offer. If you’re unsure where your location is in terms of inventory, give us a call and we can help you figure out what’s happening in your segment of the market.
+
+“Things are starting to heat up this time of year.”
+
+For the last five and a half years, we’ve been doing “coming soon” listings. These allow you to prepare your home to list but also get some marketing done before you actually go live. We can give you more information on how you can use this to your advantage. For buyers looking for the coming soon inventory, be sure to ask our agents. We can now search for those listings in our MLS.
+
+Things are starting to heat up this time of year. You should expect to see multiple offers more and more, especially in the busy segments of the market.
+
+If you have any questions about this or would like more information on prepping your house for sale or what your home’s value is, please reach out to us. We’ll be glad to assist you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Lee+Tessier/Baltimore+Real+Estate+Agent-+Are+You+Ready+for+the+Spring+Market%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://mdrealestatenews.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Lee+Tessier/Baltimore+Real+Estate+Agent-+Are+You+Ready+for+the+Spring+Market%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+What should you expect to see on the market as we transition into spring? I have information and advice that you might find useful.
+
+</itunes:subtitle>
+        <itunes:author>Lee Tessier</itunes:author>
+        <itunes:summary>
+
+What should you expect to see on the market as we transition into spring? I have information and advice that you might find useful.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Baltimore, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why You Should Put Job Changes on Hold During a Home Search</title>
+        <link>http://mdrealestatenews.com/why-you-should-put-job-changes-on-hold.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Lee Tessier</author>
+        <pubDate>2018-01-22 12:30:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Lee+Tessier/Baltimore+Real+Estate+Agent-+Why+You+Should+Put+Job+Changes+on+Hold+During+a+Home+Search.mp4</guid>
+        <description>
+
+When it comes to the matter of job changes, it is best to avoid alterations in your employment status until after a home purchase is complete. Here’s my advice on this kind of situation.
+
+Today I’d like to go over what you need to know about undergoing job changes while trying to obtain a mortgage.
+
+First, what happens if you transfer from a being a W2 employee to being self-employed or to a 1099 status?
+
+Especially when you take on a 1099 status, most lenders are going to want to see two years of your commission before they give you a loan.
+
+I was recently having dinner with someone whose employer informed them that they would be changing positions from a W2 to a 1099 employee. On top of that, this person was in the middle of the home buying process. This presents a major issue.
+
+My advice to this person was to wait until the home purchase was completed to change their job status.
+
+When it comes to other kinds of job changes, like moving within a company to another W2 position, the situation is less critical. Nevertheless, it’s still important to speak to your lender about any such developments.
+
+“Anything that could threaten or change your ability is something your lender needs to know about.”
+
+Keeping your lender in the loop on changes in your life is very important to the success of your home purchase. Anything that could threaten or change your ability is something your lender needs to know about.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Lee+Tessier/Baltimore+Real+Estate+Agent-+Why+You+Should+Put+Job+Changes+on+Hold+During+a+Home+Search.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://mdrealestatenews.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Lee+Tessier/Baltimore+Real+Estate+Agent-+Why+You+Should+Put+Job+Changes+on+Hold+During+a+Home+Search.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+When it comes to the matter of job changes, it is best to avoid alterations in your employment status until after a home purchase is complete. Here’s my advice on this kind of situation.
+
+</itunes:subtitle>
+        <itunes:author>Lee Tessier</itunes:author>
+        <itunes:summary>
+
+When it comes to the matter of job changes, it is best to avoid alterations in your employment status until after a home purchase is complete. Here’s my advice on this kind of situation.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Baltimore, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>A Few Tips for Winterizing Your Vacant Property</title>
+        <link>http://mdrealestatenews.com/a-few-tips-for-winterizing-your-vacant.html</link>
         
           <category>Home Seller Tips</category>
         
         <author>Lee Tessier</author>
-        <pubDate>2016-10-04 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2018-01-08 10:47:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Lee+Tessier/Baltimore+Real+Estate+Agent-+A+Few+Tips+for+Winterizing+Your+Vacant+Property.mp4</guid>
         <description>
 
-}
+There are a few tips and tricks you need to remember if you want to keep your vacant property well-maintained this winter.
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+If you’re worried about your vacant property this winter, here are a few things you can do to put your mind at ease.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+First, keep the heat on and make sure it’s at a minimum of 55 to 60 degrees. If you use oil or propane, make sure you have enough to get through the wintertime. We had some issues with people late last year who discovered at the last minute that their property had no oil and were stuck trying to get some on New Year’s Eve. You can use kerosene or diesel fuel to work through and clean your system, and it will run off of those things as well.
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+If your property is going to be vacant for a while, you may want to turn the water off. There are many home inspectors who will do that for you, so if you need a good contact for that, don’t hesitate to reach out to us.
 
-“This is an example of a pull quote”
+“If your property is going to be vacant for a while, you may want to turn the water off.”
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+If you’re worried about break-ins or having your copper pipes or HVAC system stolen and you want to periodically check on the property, you should consider installing a wireless alarm system. You could also ask a neighbor to check on the property once in a while and give them a spare key. Our office also offers a service for our clients where we check in on their properties once a week for them.
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+If you have any more questions about maintaining your vacant property during the winter or you have any other real estate needs, feel free to call or email us. We’d be glad to help you.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Lee+Tessier/Baltimore+Real+Estate+Agent-+A+Few+Tips+for+Winterizing+Your+Vacant+Property.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://mdrealestatenews.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Lee+Tessier/Baltimore+Real+Estate+Agent-+A+Few+Tips+for+Winterizing+Your+Vacant+Property.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>
+
+There are a few tips and tricks you need to remember if you want to keep your vacant property well-maintained this winter.
+
+</itunes:subtitle>
         <itunes:author>Lee Tessier</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>
+
+There are a few tips and tricks you need to remember if you want to keep your vacant property well-maintained this winter.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Baltimore, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Should You List This Holiday Season?</title>
+        <link>http://mdrealestatenews.com/should-you-list-this-holiday-season.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Lee Tessier</author>
+        <pubDate>2017-12-05 11:01:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Lee+Tessier/Baltimore+Real+Estate+Agent-+Should+You+List+This+Holiday+Season%253F.mp4</guid>
+        <description>
+
+Should you list your home during the holiday season? The answer isn’t as simple as “yes” or “no.”
+
+Over the years, many clients have asked us whether it’s a good idea to sell during the holiday season. Well, it depends on your personal circumstances.
+
+“Whether or not you should list during the holidays depends on your circumstances.”
+
+If there is nothing pushing you to sell, we generally suggest pulling your listing off the market by the middle of November. Then, you can relist it in a couple of months.
+
+During that time off the market, you can even do some pre-marketing to help boost your listing’s success before it even hits the market.
+
+This isn’t to say that selling over the holidays is impossible. There are plenty of homes selling at this time of year. If you need to get your property sold as soon as possible, you can absolutely list during the holidays.
+
+In fact, decreased inventory during the holiday season can benefit your listing due to lowered competition.
+
+If you are planning to list, though, I recommend having the photos for your listing taken in the spring or summer. That way, holiday decorations don’t date your photos and make it seem stale if your property takes a little while to move off of the market.
+
+Exterior photos of your home should be taken while landscaping is still lush and green.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Lee+Tessier/Baltimore+Real+Estate+Agent-+Should+You+List+This+Holiday+Season%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://mdrealestatenews.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Lee+Tessier/Baltimore+Real+Estate+Agent-+Should+You+List+This+Holiday+Season%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Should you list your home during the holiday season? The answer isn’t as simple as “yes” or “no.”
+
+</itunes:subtitle>
+        <itunes:author>Lee Tessier</itunes:author>
+        <itunes:summary>
+
+Should you list your home during the holiday season? The answer isn’t as simple as “yes” or “no.”
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Baltimore, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>We Appreciate Your Support, and Now We Need Your Help</title>
+        <link>http://mdrealestatenews.com/we-appreciate-your-support-and-now-we.html</link>
+        
+          <category>announcements</category>
+        
+        <author>Lee Tessier</author>
+        <pubDate>2017-10-25 13:21:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Lee+Tessier/Baltimore+Real+Estate+Agent-+We+Appreciate+Your+Support%252C+and+Now+We+Need+Your+Help.mp4</guid>
+        <description>
+
+The Lee Tessier Team has been nominated once more for Harford’s Best Realtor of the Year award, and we can’t thank you enough. We hope that this year you’ll continue to support us by lending your vote.
+
+As you may know, the Lee Tessier Team has been nominated for Harford’s Best Realtor of the Year for the past couple of years now. This year, we are continuing that tradition and have been nominated once more.
+
+First of all, we want to thank all of our friends as well as our current and past clients for your continuing support. We appreciate everything you’ve done to help us reach the honor of this nomination.
+
+Today, we’ve got a favor to ask. If you could take a couple minutes of your time to give us your vote, we would massively appreciate it. We’ve been the No. 1 team in the county since 2011, and we hope to continue this trend.
+
+“We’re proud to be top agents for you.”
+
+We’re proud to be top agents for you and this opportunity would give us the chance to reach our community even further.
+
+As always, if you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Lee+Tessier/Baltimore+Real+Estate+Agent-+We+Appreciate+Your+Support%252C+and+Now+We+Need+Your+Help.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://mdrealestatenews.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Lee+Tessier/Baltimore+Real+Estate+Agent-+We+Appreciate+Your+Support%252C+and+Now+We+Need+Your+Help.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+The Lee Tessier Team has been nominated once more for Harford’s Best Realtor of the Year award, and we can’t thank you enough. We hope that this year you’ll continue to support us by lending your vote.
+
+</itunes:subtitle>
+        <itunes:author>Lee Tessier</itunes:author>
+        <itunes:summary>
+
+The Lee Tessier Team has been nominated once more for Harford’s Best Realtor of the Year award, and we can’t thank you enough. We hope that this year you’ll continue to support us by lending your vote.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Baltimore, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Do You Need to Know About Short Sales?</title>
+        <link>http://mdrealestatenews.com/what-do-you-need-to-know-about-short.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Lee Tessier</author>
+        <pubDate>2017-10-18 13:30:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Lee+Tessier/Baltimore+Real+Estate+Agent-+What+Do+You+Need+to+Know+About+Short+Sales%253F.mp4</guid>
+        <description>
+
+There are a significant number of short sales still happening in our market, so here’s a brief overview of how short sales work.
+
+With the recent change we’ve seen in our market, homes values have increased, and as a result, we’ve also seen fewer short sales happening. There are still a significant number of people who are underwater at this time, though, so I want to answer a few questions you may have about short sales.
+
+First, what does the bank do with all of the seller’s information? They gather that information to make sure that when they’re combing through your bank statements, income, and finances, everything is accurate.
+
+For the private investors that put up the money for these short sales—say they put up $500,000, the home sells for $400,000, and they net $360,000 or $365,000 to satisfy that mortgage—where are they going to get back that $140,000 or $135,000 difference?
+
+Many times, they get these funds back through mortgage insurance, but they have to see how those clauses were written originally. That’s why there is a lot of behind-the-scenes investigation during a short sale. Usually there are several investors, so it could be somebody that’s servicing the loan for—say— Wells Fargo. There might also be several different companies that are serviced by them. They’re gathering that information and taking it back to the investors and combing through what insurance premiums they have to offset those losses.
+
+“There is a lot of behind-the-scenes investigation during a short sale.”
+
+After that, it’s a question of what those investors are willing to take. Sometimes they ask the seller to pay a portion of that loss. One of the other major factors to consider is tax deficiencies—maybe you lost $50,000 and now you have to claim that as income.
+
+Sometimes it’s not just agents giving you that information, which is why it might be helpful to talk to a real estate attorney or an accountant who’s familiar with short sales. There are several people involved in the process who can help you.
+
+If you have any more questions about short sales or need a referral for a good accountant or real estate attorney, don’t hesitate to give us a call. We’d be glad to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Lee+Tessier/Baltimore+Real+Estate+Agent-+What+Do+You+Need+to+Know+About+Short+Sales%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://mdrealestatenews.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Lee+Tessier/Baltimore+Real+Estate+Agent-+What+Do+You+Need+to+Know+About+Short+Sales%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+There are a significant number of short sales still happening in our market, so here’s a brief overview of how short sales work.
+
+</itunes:subtitle>
+        <itunes:author>Lee Tessier</itunes:author>
+        <itunes:summary>
+
+There are a significant number of short sales still happening in our market, so here’s a brief overview of how short sales work.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Baltimore, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Can Renovations Affect Your Home Value? </title>
+        <link>http://mdrealestatenews.com/how-can-renovations-affect-your-home.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Lee Tessier</author>
+        <pubDate>2017-09-28 10:52:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Lee+Tessier/Baltimore+Real+Estate+Agent-+How+Can+Renovations+Affect+Your+Home+Value%253F.mp4</guid>
+        <description>
+
+It may seem like a good idea to renovate certain aspects of your home before you sell, but there’s no guarantee that you’ll get a full return.
+
+Today I want to talk to you about which improvements you can make that will maximize your home’s value.
+
+A lot of people think that if they put in a new kitchen for $25,000, they’ll get a full $25,000 in return. That’s not always the case.
+
+I spoke with an appraiser at a meet-and-greet this morning about whether or not a good guideline existed to gauge home value. He said that when they looked at comparable sales, he looked at other homes in the area both with and without recent renovations (like new kitchens), and compare the prices.
+
+So in a lot of cases, you shouldn’t expect to see a dollar-for-dollar return on something like a new $25,000 kitchen, especially if it’s a custom kitchen in a higher-end home—you may only see a 50% to 60% return on that.
+
+Be careful when you’re doing these upgrades to sell your home. Contact a professional to come out, look at your home, and do a comparable sale analysis. Have homes in the area had similar updates? If so, were they full remodels or just partial ones, where you only replaced certain features like vanities or light fixtures?
+
+When we meet with our stager to come through the property, they’ll make recommendations such as changing the marble countertops to quartz, switching your faucets or light fixtures. Don’t be a Harry Homeowner and try to make these changes yourself without professional help unless you’re experienced— lousy renovations can seriously damage the value of your home.
+
+“Lousy renovations can seriously damage the value of your home.”
+
+Make sure you know what you’re spending, and whether or not that will help you sell the home, and get a return on your investment. For example, some people want to get a new roof installed when the roof is 15 years old, and there are still five years of life left in it—here, you shouldn’t expect to get the $8,000 to $10,000 that you spent on it as a return. It’s not worth investing the money in. If there was water damage or missing shingles, that would be a different story.
+
+Spend your money in the right places; that’s where contacting a professional will come in handy. Making improvements on a home that you’re going to live in for awhile is fine, and you can spend a little more on those changes, but it’s a good idea to stay away from trendy renovations. Trends come and go, and there’s no guarantee you will be doing your home a favor.
+
+There will be a different analysis for some who bought their home 10 years ago versus someone who bought 20 years ago, just based on what they may have to do to get the home ready to sell as far as upgrades go. So just know where you’re at, and again, contact a professional to help.
+
+If you want an accurate assessment of your house, give us a call. We’d be glad to walk through the home, give you suggestions, show how you compare to other homes, and give you a good value.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Lee+Tessier/Baltimore+Real+Estate+Agent-+How+Can+Renovations+Affect+Your+Home+Value%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://mdrealestatenews.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Lee+Tessier/Baltimore+Real+Estate+Agent-+How+Can+Renovations+Affect+Your+Home+Value%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+It may seem like a good idea to renovate certain aspects of your home before you sell, but there’s no guarantee that you’ll get a full return.
+
+</itunes:subtitle>
+        <itunes:author>Lee Tessier</itunes:author>
+        <itunes:summary>
+
+It may seem like a good idea to renovate certain aspects of your home before you sell, but there’s no guarantee that you’ll get a full return.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Baltimore, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to Hire a True Professional Real Estate Agent </title>
+        <link>http://mdrealestatenews.com/how-to-hire-true-professional-real.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Lee Tessier</author>
+        <pubDate>2017-07-10 15:52:00 -0500</pubDate>
+        <guid>http://vyralmarketing.s3.amazonaws.com/Lee%20Tessier/Baltimore%20Real%20Estate%20Agent-%20How%20to%20Hire%20a%20True%20Professional%20Real%20Estate%20Agent.mp4</guid>
+        <description>
+
+How can you make sure that you hire the right real estate agent to guide you through our changing market? I’ll give you a few tips today.
+
+How can you make sure you hire the right real estate agent?
+
+82% of homebuyers hire the first agent they talk to. Whether an agent was recommended or referred to you, you need to look at their online reviews to get a real idea of what it would be like to work with them.
+
+We have just over 200 reviews online. Just like when you buy merchandise, you need to check the reviews. We are selling a service, so you need to look at reviews and ask yourself, “What am I getting for my money?”
+
+Now, on the buyer side, you’re not paying the commission straight out; that’s usually paid by the seller. Still, it’s important that you hire a knowledgeable agent who will help you navigate the process.
+
+“82% of buyers hire the first agent they talk to, but are they getting the best value?”
+
+We have a team of real estate professionals so when you work with us, you will always have support. If you call the office and you can’t get in touch with your real estate agent, one of our licensed real estate assistants or other agents will help you with whatever you need.
+
+It’s also important that you work with an agent who will get you good comps before you make an offer. We are seeing a lot more “For Sale By Owner” properties as the market changes. You need to know about comparable properties in the neighborhood so that you don’t pay more than you should for the home.
+
+When that happens, the home usually fails to appraise. If the seller doesn’t agree to change the purchase price, it could cost you a lot of time and money. From the home inspection to giving notice on a rental to setting up moving companies, there are a lot of costs that come with moving.
+
+Since there is so much that happens during a real estate transaction, it’s very important that you have professional assistance from a great real estate agent. If you have any questions or are interested in buying or selling a home, just give us a call or send us an email. My team and I would be happy to help you!
+</description>
+        <enclosure url="http://vyralmarketing.s3.amazonaws.com/Lee%20Tessier/Baltimore%20Real%20Estate%20Agent-%20How%20to%20Hire%20a%20True%20Professional%20Real%20Estate%20Agent.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://mdrealestatenews.com" height="72" width="72"/>
+        <media:content url="http://vyralmarketing.s3.amazonaws.com/Lee%20Tessier/Baltimore%20Real%20Estate%20Agent-%20How%20to%20Hire%20a%20True%20Professional%20Real%20Estate%20Agent.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+How can you make sure that you hire the right real estate agent to guide you through our changing market? I’ll give you a few tips today.
+
+</itunes:subtitle>
+        <itunes:author>Lee Tessier</itunes:author>
+        <itunes:summary>
+
+How can you make sure that you hire the right real estate agent to guide you through our changing market? I’ll give you a few tips today.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Baltimore, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Be Careful of Zillow's Zestimates</title>
+        <link>http://mdrealestatenews.com/be-careful-of-zillows-zestimates.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Lee Tessier</author>
+        <pubDate>2017-05-31 10:24:00 -0500</pubDate>
+        <guid>http://vyralmarketing.s3.amazonaws.com/Lee%20Tessier/Baltimore%20Real%20Estate%20Agent-%20Be%20Careful%20of%20Zillow%2527s%20Zestimates.mp4</guid>
+        <description>
+
+Whether you’re buying or selling a home, you’ve probably come across Zillow and their Zestimate tool. Allow me to explain why you should tread lightly with the Zestimate and your home’s value.
+
+We have a lot of clients who get worked up over Zillow and their Zestimates. However, these Zestimates—Zillow’s home value estimation tool—are wildly inaccurate sometimes. In fact, the Zillow CEO actually sold his house in 2016 for 40% less than what his site’s Zestimate said it was worth.
+
+Zillow hasn’t walked through your property and they don’t know about any upgrades you’ve done, and they can’t factor in location. Your home’s upgrades compared to features of other homes that have recently sold are crucial in determining its value. Zillow aggregates and average of area home values rather than doing a fine-tuned valuation of your property.
+
+“Many sellers price their home inaccurately because of a Zestimate.”
+
+This is especially true with the market moving at as fast of a pace as it is right now. Many sellers think they can do it all on their own, but we see them end up pricing their home inaccurately thanks to a Zestimate.
+
+Similarly, when buying a home, you want a real estate agent to help you compare properties to determine values of the homes you’re looking at since Zestimates can be so far off. Zillow is the top website for real estate searches right now, but you need to work with an agent to see how homes you’re interested in compare.
+
+If you have any questions about Zillow when buying or selling a home or you’d like to know what your home is really worth, give us a call or send us an email. We’d be glad to help.
+</description>
+        <enclosure url="http://vyralmarketing.s3.amazonaws.com/Lee%20Tessier/Baltimore%20Real%20Estate%20Agent-%20Be%20Careful%20of%20Zillow%2527s%20Zestimates.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://mdrealestatenews.com" height="72" width="72"/>
+        <media:content url="http://vyralmarketing.s3.amazonaws.com/Lee%20Tessier/Baltimore%20Real%20Estate%20Agent-%20Be%20Careful%20of%20Zillow%2527s%20Zestimates.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Whether you’re buying or selling a home, you’ve probably come across Zillow and their Zestimate tool. Allow me to explain why you should tread lightly with the Zestimate and your home’s value.
+
+</itunes:subtitle>
+        <itunes:author>Lee Tessier</itunes:author>
+        <itunes:summary>
+
+Whether you’re buying or selling a home, you’ve probably come across Zillow and their Zestimate tool. Allow me to explain why you should tread lightly with the Zestimate and your home’s value.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Baltimore, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Whats the Latest News From Our Baltimore Market?</title>
+        <link>http://mdrealestatenews.com/whats-latest-news-from-our-baltimore.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Lee Tessier</author>
+        <pubDate>2017-04-28 12:14:00 -0500</pubDate>
+        <guid>http://vyralmarketing.s3.amazonaws.com/Lee%20Tessier/Baltimore%20Real%20Estate%20Agent-%20Whats%20the%20Latest%20News%20From%20Our%20Baltimore%20Market%253F.mp4</guid>
+        <description>
+
+Our Baltimore market is hot right now, but that doesn’t mean buyers and sellers don’t need to be mindful of a couple things before making a move.
+
+Spring has brought us some nice weather, but what’s happening in our market right now?
+
+Things are very busy and very hot. One thing I’ve been noticing lately, though, is home sellers thinking they don’t need to stage, declutter, and depersonalize their home before listing it.
+
+If you’re a seller, you still need to prep your house for the market. If you need painting or carpeting done, make sure you do it ahead of time. You can also make use of “Coming Soon” signs so that people know you’re getting ready to put your home on the market while you’re prepping it. Like I said, our market is very busy, and I don’t want you to enter into it with false expectations.
+
+“Finding the best financing is just as important as finding the right house.”
+
+I’ve talked to our own stager about this problem and she said in today’s market, some people are skipping the staging process in the beginning because they assume their home doesn’t need it. Sure enough, these same people are calling her a month later after they see their neighbor’s house sell and their own stay on the market.
+
+On the buyer side, we’re seeing multiple offers on a lot of properties, so the first-time homebuyer market is very active. The move-up market above the $500,000 range is slightly slower, though. Interest rates are still very low and could possibly dip again, but we’ll see what happens over the summertime because last year they decreased during the summer months.
+
+If you have any more questions about our market or are looking to buy or sell a home, please give our office a call. We look forward to helping you.
+</description>
+        <enclosure url="http://vyralmarketing.s3.amazonaws.com/Lee%20Tessier/Baltimore%20Real%20Estate%20Agent-%20Whats%20the%20Latest%20News%20From%20Our%20Baltimore%20Market%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://mdrealestatenews.com" height="72" width="72"/>
+        <media:content url="http://vyralmarketing.s3.amazonaws.com/Lee%20Tessier/Baltimore%20Real%20Estate%20Agent-%20Whats%20the%20Latest%20News%20From%20Our%20Baltimore%20Market%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Our Baltimore market is hot right now, but that doesn’t mean buyers and sellers don’t need to be mindful of a couple things before making a move.
+
+</itunes:subtitle>
+        <itunes:author>Lee Tessier</itunes:author>
+        <itunes:summary>
+
+Our Baltimore market is hot right now, but that doesn’t mean buyers and sellers don’t need to be mindful of a couple things before making a move.
+
+</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Baltimore, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       

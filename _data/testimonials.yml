@@ -1,5 +1,21 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
-    audio:
+  - quote: My experience was amazing. He was on point, he did things I asked him to do, number one as far as the house should be listed long story short but he did it properly. Whenever I needed to contact him or whenever I contacted him he got back to me immediately whether it be by text or by email he was always available.  As far as the house was listed he went above what you typically do. The address on the house that was on our title was actually different than the actual address that we used and that was one of the problems we had with the person we listed the house previously with. She wouldn't do it, she wouldn't put the actual address that we used as the listing address because it wasn't on the title and Lee was able to do exactly that. We had thirteen showings in the first two weeks compared to about four in the first three months and got the home sold quickly, in less than 2 months and for 98% of list price.
+    name: Jason
+    audio: /uploads/audio/jason.mp3
+
+  - quote: The results were great! They were very cooperative, and emotionally soothing when we were fretting about stuff. My home had been up for sale for several months, and had lots of showings but no offers. It was pretty miserable, and we knew we couldn't retire until we sold. Lee knew this, so he took us into his office and wrote up a guarantee sale for us, and that gave us a lot of emotional support. It really took the monkey off our back, I guess you could say.
+    name: Peggy
+    audio: /uploads/audio/peggy.mp3
+
+  - quote: Everything that they did was quick as far as putting our house up on the market and the house sold with a contract within seven or eight days after being on the market. Joe, who was representing the house, did a great job of communicating back and forth with everything throughout the process. They were always on top of everything, and were always one step ahead of everyone else.
+    name: Richard
+    audio: /uploads/audio/richard.mp3
+
+  - quote: They are a very professional, comprehensive, and warm group of people to work with. Lee is a consummate professional and understands the market well. He understands whats going on and keeps you in tune with what is going on, even if its after hours. He'll call you and return your calls continually. I can't say anything but great results and great feedback. He was constantly thinking additional strategy, with different ways to market the house. When certain things weren't' working, he would continue to use his resources, people and ideas to try and find new ways to expose the property, and discuss strategy. It was a continuum of staying focused on the task at hand, which was getting the house sold in a tough market.
+    name: Peter
+    audio: /uploads/audio/peter.mp3
+
+  - quote: We were very satisfied. He actually sold our home twice, as the first contract fell through. The house was on the market for less than the average time for selling a home. He pretty much handled and walked us through the whole negotiation process.
+    name: Kristina
+    audio: /uploads/audio/kristina.mp3
