@@ -11,41 +11,43 @@ emma:
   form:
 
 client:
-  name:
+  name: James Duffer
   title:
   license_number:
   about_markdown: |
+    James Duffer epitomizes hard work, dedication and integrity. Attention to detail in every phase of the Real Estate transaction is always his top priority. James grew up in North Kingstown and attended Bishop Hendricken where he graduated in 2004. Feeling a great desire to bring those responsible for the attacks on our country to justice, he enlisted in the Army as infantryman in the National Guard where he deployed to Iraq (05) and Afghanistan (11-12). He honorably discharged as a decorated veteran from the Army in 2014.
 
+    Now residing in the beautiful Warwick Neck area, James enjoys free diving in the waters of Narragansett Bay and snowboarding the mountains of New England. Taking those values instilled from years of service, James takes the time to understand his clients unique needs as a Realtor. Being a member of the Hill Harbor Team is a privilege. Working daily with true specialists in the Real Estate world is incredible.
   market:
-  brand:
+  brand: Hill Harbor Group
   brokerage:
-  address:
-  phone:
+  address: 694 Main St, East Greenwich, RI 02818
+  phone: 401-633-5764
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: jamesduffer@hillharbor.com
+  url: http://www.hillharbor.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.hillharbor.com/cma/property-valuation/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.hillharbor.com/search/advanced_search/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.hillharbor.com/cma/property-valuation/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://www.hillharbor.com/search/advanced_search/
 
 lender:
   show_section: false
@@ -61,11 +63,11 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
+  facebook_url: https://www.facebook.com/jamesduffersellsRI/?ref=bookmarks
   linkedin_url:
   gplus_url:
   youtube_url:
-  twitter_url:
+  twitter_url: https://twitter.com/JamesDufferHHG
   instagram_url:
   pinterest_url:
   zillow_url:
@@ -92,7 +94,7 @@ images:
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#b40101'
-  theme_color: '#999'
+  theme_color: '#656363'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -101,10 +103,10 @@ navbar_colors:
   border_bottom:
 
 header_shadow:
-  h_shadow: 0px
+  h_shadow: 2px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: white
 
 buttons:
   button_radius_number: 0
