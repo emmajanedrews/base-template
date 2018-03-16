@@ -16,7 +16,7 @@ youtube_code:
 
 ![](/uploads/versions/capture-1---x----643-363x---.JPG)
 
-![](/uploads/versions/capture-2---x----643-363x---.JPG)
+&nbsp;
 
 {% include pullquote.html %}
 
