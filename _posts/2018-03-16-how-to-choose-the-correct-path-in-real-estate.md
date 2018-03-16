@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Choose the Correct Path in Real Estate
-date: 2018-01-29 13:52:24
+date: 2018-03-16 13:52:00
 tags:
   - Career Advice
 excerpt: >-
@@ -19,7 +19,6 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: AJxecpDQnvM
 ---
-
 
 {% include youtube.html %}
 
