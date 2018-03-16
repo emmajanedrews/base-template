@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Will Trump’s Election Affect Our Real Estate Market?
-date: 2018-03-16 21:52:27
+date: 2016-12-22 21:52:00
 tags:
   - Real Estate
 excerpt: >-
