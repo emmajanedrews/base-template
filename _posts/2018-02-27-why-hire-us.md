@@ -3,7 +3,7 @@ layout: post
 title: Why Hire Us?
 date: 2018-02-27 19:29:42
 tags:
-excerpt:
+excerpt: Looking to buy or sell in South Florida? As owners of a well-known boutique brokerage with an amazing team, we’re ready to make your move a reality!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
