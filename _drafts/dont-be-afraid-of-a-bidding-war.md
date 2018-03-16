@@ -25,4 +25,16 @@ youtube_code: ef0GoE3q78o
 
 {% include youtube.html %}
 
+A lot of our clients have been telling us lately that they don’t want to get into a bidding war. The problem is that the inventory in the greater Portland area is extremely low right now.
+
+Inventory went down quite a bit from December to January. I haven’t looked at the February numbers yet, but I’m guessing it hasn’t gone up a whole bunch.
+
+**Bidding wars may sound intimidating, but they are pretty subjective.** I was involved in a transaction last week where there were multiple offers on a property. The seller called for everyone’s best offer, and the winning bid was $5,000 below listing price.
+
 {% include pullquote.html %}
+
+Just because there is a multiple offer situation doesn’t mean that the house is out of your reach. You should always feel free to make an offer that you are comfortable with and see what happens.
+
+**In a low inventory market like ours, it’s super important that you work with a quality real estate agent** who has access to the best technology so that you get listings as fast as possible and don’t miss out on anything.
+
+If you have any questions about this market or how to best position yourself to win in a multiple offer situation, just give me a call or send me an email. I would be happy to help you!
