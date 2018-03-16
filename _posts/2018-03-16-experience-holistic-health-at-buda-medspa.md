@@ -40,6 +40,6 @@ Britney, their junior aesthetician, is offering a combo treatment with dermaplan
 
 In addition to that, all of their Glow Mineral makeup will be 15% off.&nbsp;
 
-If you haven’t been to the Buda MedSpa yet, now is a great time to take advantage of these specials and check it out. You can visit **[BudaMedSpa.com](http://budamedspa.com)**or call (512) 295-3000 for more information.&nbsp;
+If you haven’t been to the Buda MedSpa yet, now is a great time to take advantage of these specials and check it out. You can visit **[BudaMedSpa.com](http://budamedspa.com)&nbsp;**or call (512) 295-3000 for more information.&nbsp;
 
 I’d like to thank Jen for taking the time to talk to us today. As always, if you have any real estate questions, please don’t hesitate to reach out to me. I would be happy to help you!
