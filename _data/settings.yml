@@ -113,9 +113,9 @@ buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
-  button_border_color: '#c0252c'
-  button_background_color: '#c0252c'
+  button_border_color: '#1d76bc'
+  button_background_color: '#1d76bc'
   button_text_color: '#ffffff'
-  secondary_button_border_color: '#c0252c'
+  secondary_button_border_color: '#1d76bc'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
-  secondary_button_text_color: '#c0252c'
+  secondary_button_text_color: '#1d76bc'
