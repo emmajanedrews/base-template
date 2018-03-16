@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mid Year Real Estate Review
-date: 2018-03-16 22:12:45
+date: 2017-04-20 22:12:00
 tags:
   - Market Update
 excerpt: >-
