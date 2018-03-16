@@ -19,7 +19,7 @@ youtube_code: DWdj8yVQX_g
 
 {% include youtube.html %}
 
-Today, I’d like to talk about activities management, otherwise known as “time blocking.” The term “time blocking”, however, has a negative connotation. People try to jam too much into their time blocking, and that’s just a recipe for failure.
+Today, I’d like to talk about activities management, otherwise known as “time blocking.” The term “time blocking," however, has a negative connotation. People try to jam too much into their time blocking, and that’s just a recipe for failure.
 
 It’s likely to lead to more success if you just focus on a few things, master them, ingrain them into your habits, and then add more things in. Today, I’m going to talk to you about the three things that you should focus on during activities management in order to really be successful.
 
@@ -27,7 +27,7 @@ It’s likely to lead to more success if you just focus on a few things, master 
 
 {% include pullquote.html %}
 
-**2. Maintain contact with those who want to buy or sell, but aren’t ready.**This way, when they do enter the buying or selling window, you don’t miss the opportunity. I break my database down to the categories “hot”, “warm”, and “cold.” “Hot” people are those who are looking to buy or sell in the next 30 days, and I contact them once a week; “warm” people are those who want to buy within 30 to 90 days, and I stay in touch with them every two weeks; and “cold” people are those who may buy in 90 days or more, who I contact once a month.
+**2. Maintain contact with those who want to buy or sell, but aren’t ready.**This way, when they do enter the buying or selling window, you don’t miss the opportunity. I break my database down to the categories “hot," “warm," and “cold.” “Hot” people are those who are looking to buy or sell in the next 30 days, and I contact them once a week; “warm” people are those who want to buy within 30 to 90 days, and I stay in touch with them every two weeks; and “cold” people are those who may buy in 90 days or more, who I contact once a month.
 
 **3. Do everything else need to close a transaction.**That includes showings, negotiating offers and inspects, and so on.
 
