@@ -21,7 +21,7 @@ youtube_code: biSEJ2Yucbw
 
 Roughly 70% of all homes in Maricopa County are built in HOA areas—that’s over 9,000 separate HOAs. One of the challenges with HOAs is they have a lot of power. In fact, they have more power than you know, which is why—if you’re planning on moving into an HOA neighborhood or you already live in one—there are a couple of important things you need to know about them in return.
 
-First, **know what your HOA documents allow you to do and do not do.** I’ve come across an amazing service called [**The HOA Report**](http://www.thehoareport.com/#thehoareport) that can help you with this. You see, when you buy a house in an HOA area, you have to sign a contract with that HOA. Most people don’t read through all the pages of their HOA and CC&R documents, though, so this service goes through those documents for you and gives you a CliffsNotes summary of the important information contained within them.
+First, **know what your HOA documents allow you to do and do not do.** I’ve come across an amazing service called [**The HOA Report**](http://www.thehoareport.com/#thehoareport){: target="_blank"} that can help you with this. You see, when you buy a house in an HOA area, you have to sign a contract with that HOA. Most people don’t read through all the pages of their HOA and CC&R documents, though, so this service goes through those documents for you and gives you a CliffsNotes summary of the important information contained within them.
 
 There are all kinds of rules and ordinances for each HOA too, so the other thing you need to do is **know those rules and ordinances.**
 
