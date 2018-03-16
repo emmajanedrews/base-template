@@ -12,7 +12,8 @@ excerpt: >-
   home types are down, condo prices are up by more than 10%. In other words, the
   condo market is very active right now. To learn more about this and our market
   conditions in general, watch this short video.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sherif+Nathoo/Videos/2018/March+11+Market+Update.mp4
 pullquote: 'In the GTA, we are now a condo city.'
 enclosure_type: video/mp4
 enclosure_time:
