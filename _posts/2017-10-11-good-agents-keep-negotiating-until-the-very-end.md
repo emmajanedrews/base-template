@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Good Agents Keep Negotiating Until the Very End
-date:
+date: 2017-10-11 00:00:00
 tags:
   - Real Estate
 excerpt: >-
