@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Turn Your Primary Residence to a Rental Property
-date: 2018-01-19 00:00:00
+date: 2018-03-16 00:00:00
 tags:
   - Real Estate
 excerpt: >-
