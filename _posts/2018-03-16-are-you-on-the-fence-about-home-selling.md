@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are You On the Fence About Home Selling?
-date:
+date: 2018-03-16 15:22:55
 tags:
   - Home Seller Tips
 excerpt: Houses are moving quickly as long as they are priced and positioned correctly.
@@ -13,7 +13,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/jon12.jpg
 youtube_code: ZHhHnmEZKH0
 ---
 
