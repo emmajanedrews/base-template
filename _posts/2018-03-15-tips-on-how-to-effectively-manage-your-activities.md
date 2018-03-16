@@ -29,6 +29,6 @@ It’s likely to lead to more success if you just focus on a few things, master 
 
 **2. Maintain contact with those who want to buy or sell but aren’t ready.&nbsp;**This way, when they do enter the buying or selling window, you don’t miss the opportunity. I break my database down to the categories “hot," “warm," and “cold.” “Hot” people are those who are looking to buy or sell in the next 30 days, and I contact them once a week; “warm” people are those who want to buy within 30 to 90 days, and I stay in touch with them every two weeks; “cold” people are those who may buy in 90 days or more, who I contact once a month.
 
-**3. Do everything else need to close a transaction.&nbsp;**That includes showings, negotiating offers and inspects, and so on.
+**3. Do everything else needed to close a transaction.&nbsp;**That includes showings, negotiating offers and inspects, and so on.
 
 There’s a lot more to unpack on this subject, so if you’d like to continue this conversation or if you have any questions, please feel free to reach out to me. Also, don’t hesitate to send me ideas for topics that you would like to see covered on my channel!
