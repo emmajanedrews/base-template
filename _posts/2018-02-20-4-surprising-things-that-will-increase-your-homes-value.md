@@ -11,8 +11,8 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/scott-hardesty--boost-home-value-youtube.jpg
-youtube_code: 'https://youtu.be/wY8Sq7751cs'
+youtube_alternate_image: /uploads/scott-hardesty--boost-home-value-youtube-2.jpg
+youtube_code: 'https://youtu.be/NNWvB_xj_Cw'
 ---
 
 {% include youtube.html %}
