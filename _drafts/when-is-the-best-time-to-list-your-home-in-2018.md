@@ -3,6 +3,7 @@ layout: post
 title: When Is the Best Time to List Your Home in 2018?
 date:
 tags:
+  - Home Seller Tips
 excerpt: When is the best time of year to list your home? We’re going over that today.
 enclosure:
 pullquote: Pay special attention to any anomalies in the market.
@@ -15,7 +16,9 @@ youtube_code: HypHVdXYKpw
 
 {% include youtube.html %}
 
-<center>When is the best time of year to list your home? We’re going over that today.</center>
+<center><em>When is the best time of year to list your home? We&rsquo;re going over that today.</em></center>
+
+<center>&nbsp;</center>
 
 Before you can ask when you should list your house, you need to ask yourself why you are listing it in the first place.&nbsp;
 
