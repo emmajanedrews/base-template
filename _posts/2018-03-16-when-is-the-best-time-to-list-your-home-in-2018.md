@@ -30,4 +30,4 @@ Next, take a look at timing. The peak time to list is March, April, and May. The
 
 Pay special attention to any anomalies in the market. In the last three or four years, we’ve been seeing that in Portland. If it’s a low inventory situation, you can list your home anytime.
 
-It’s going to be an incredible 2018. We’ve already doubled our business from March last year so I predict a steaming spring market. If you have any questions for me or need help buying or selling a home, give me a call or send me an email today. I look forward to hearing from you.<br>
+It’s going to be an incredible 2018. We’ve already doubled our business from March&nbsp; of last year so I predict a steaming spring market. If you have any questions for me or need help buying or selling a home, give me a call or send me an email today. I look forward to hearing from you.
