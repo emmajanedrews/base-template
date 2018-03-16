@@ -12,7 +12,7 @@ excerpt: >-
   overpay for it. Bidding wars can be subjective. To see what I mean, watch this
   short video.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Paul+Campbell/Videos+/2018/Portland+Real+Estate+Agent-+Bidding+Wars.mp4
+  https://s3.amazonaws.com/vyralmarketing/Oggie+Penev/Videos/Penev+Realty+%257C+Find+Your+Dream+Home+With+These+3+Creative+Methods.mp4
 pullquote: >-
   You can always make an offer that you are comfortable with and see what
   happens.
@@ -20,7 +20,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: ef0GoE3q78o
+youtube_code: LLuBdcfoB8U
 ---
 
 {% include youtube.html %}
