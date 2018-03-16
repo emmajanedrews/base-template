@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Would You Help Us Be a Blessing to Families in Need?
-date: 2018-03-16 21:47:21
+date: 2016-10-13 21:47:00
 tags:
   - Real Estate
 excerpt: Help us be a blessing to 15 families in need.
