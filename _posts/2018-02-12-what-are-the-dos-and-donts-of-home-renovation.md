@@ -1,7 +1,10 @@
 ---
 youtube_code: vWtSKl0IGmQ
-excerpt:
-enclosure:
+excerpt: >-
+  If you’re planning on renovating your house before selling it, there are
+  certain things you should do and certain things you shouldn’t do.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Dar+Walden/Anchorage%2C+AK+Real+Estate+The+do%E2%80%99s+and+don'ts+of+home+renovation.mp4
 pullquote: DO YOUR RENOVATIONS WHILE YOU LIVE IN THE PROPERTY SO YOU CAN ENJOY THEM.
 enclosure_type: video/mp4
 enclosure_time:
