@@ -15,7 +15,7 @@ youtube_code: HypHVdXYKpw
 
 {% include youtube.html %}
 
-When is the best time of year to list your home? We’re going over that today.
+<center>When is the best time of year to list your home? We’re going over that today.</center>
 
 Before you can ask when you should list your house, you need to ask yourself why you are listing it in the first place.&nbsp;
 
