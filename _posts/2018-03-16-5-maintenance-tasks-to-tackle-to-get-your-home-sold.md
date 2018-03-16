@@ -1,27 +1,28 @@
 ---
 layout: post
 title: 5 Maintenance Tasks to Tackle to Get Your Home Sold
-date:
+date: 2018-03-16 19:29:39
 tags:
   - Home Seller Tips
 excerpt: >-
   If you're a homeowner, you already know that keeping your property in tiptop
   shape requires dedication and patience for ongoing maintenance. Today, we’ll
   be discussing the 5 things you need to do if you want to sell your home.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Seth+%26+Alyce+Dailey/The+Dailey+Group-+5+Maintenance+Tips.mp4
 pullquote: >-
   Staying on top of these regular tasks will make it easier to sell your home
   with fewer headaches.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/aly2.jpg
 youtube_code: OfjwgMMx44A
 ---
 
 {% include youtube.html %}
 
-If you're a homeowner, you already know that keeping your property in tiptop shape requires dedication and patience for ongoing maintenance. But what if you've put your home on the market, or even accepted an offer? &nbsp;To prevent minor issues from escalating into full-blown, money-sucking, sale-killing problems, focus on these five important areas you can’t afford to neglect.
+If you're a homeowner, you already know that keeping your property in tiptop shape requires dedication and patience for ongoing maintenance. But what if you've put your home on the market, or even accepted an offer?  To prevent minor issues from escalating into full-blown, money-sucking, sale-killing problems, focus on these five important areas you can’t afford to neglect.
 
 **1. Keep up the yard and walkways**
 
@@ -29,7 +30,7 @@ Whether you're still living at the home or not, you'll want to make sure to keep
 
 **2. Clean the gutters and check the roof**
 
-This one's easy to forget about, even when you don't plan on going anywhere. But when it comes to gutter and roof issues, neglect can cause a dangerous domino effect. &nbsp;Overflowing gutters can damage your foundation, and also lead to drainage issues. Buyers, seeing the house when it’s raining, will also see your gutters overflowing. That’s a terrible first impression.
+This one's easy to forget about, even when you don't plan on going anywhere. But when it comes to gutter and roof issues, neglect can cause a dangerous domino effect.  Overflowing gutters can damage your foundation, and also lead to drainage issues. Buyers, seeing the house when it’s raining, will also see your gutters overflowing. That’s a terrible first impression.
 
 {% include pullquote.html %}
 
@@ -41,8 +42,8 @@ The hidden guts of your home need regular attention, whether you’re still livi
 
 If you don’t want to add "family of raccoons included" to your listing (and pay the hefty tab for getting them out), inspect the inside and outside of your home for any areas that need to plugged up. Take care of holes from damaged siding or fascia under the roofline—and do it promptly.
 
-**5. &nbsp; Wash your windows**
+**5.   Wash your windows**
 
-Most people associate sparkling windows with spring-cleaning, Roberts says. But if your house is on the market, it doesn't matter what time of year it is—you need to get those babies squeaky clean. If &nbsp;buyers walk through your home and all they see is dirty windows, that’ll really mar the showing process. Make sure to wipe them down after a bad storm, when they're especially likely to show muck and grime buildup.
+Most people associate sparkling windows with spring-cleaning, Roberts says. But if your house is on the market, it doesn't matter what time of year it is—you need to get those babies squeaky clean. If  buyers walk through your home and all they see is dirty windows, that’ll really mar the showing process. Make sure to wipe them down after a bad storm, when they're especially likely to show muck and grime buildup.
 
 Staying on top of these regular tasks will make it easier to sell your home with fewer headaches. Plus, it'll preserve the value of your property, and potentially, the thickness of your wallet, too.
