@@ -1,6 +1,9 @@
 audit_header: false
 title: House to Home Nashville
-description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
+description: >-
+  If you are looking to buy or sell a home, get all the information and the
+  latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+  -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
@@ -8,10 +11,21 @@ custom_links:
 client:
   name: Scott Hardesty
   license_number: 306088
-  about_markdown: |
-    Scott can best be described as a man of high energy with a passion for Nashville real estate. He is a professional with a strong desire to listen and understand his client’s particular needs. Scott’s market expertise coupled with his superior negotiating skills set him apart from the rest.
+  about_markdown: >
+    Scott can best be described as a man of high energy with a passion for
+    Nashville real estate. He is a professional with a strong desire to listen
+    and understand his client’s particular needs. Scott’s market expertise
+    coupled with his superior negotiating skills set him apart from the rest.
 
-    For his buyer clients, Scott takes a keen interest in finding not only the ideal Nashville property but, more importantly, a property that proves to be priced fairly, with minimal risk, and optimal return on investment. For his seller clients, Scott uses his market knowledge to list the property at the right price, attracting many buyers and selling homes in the shortest amount of time. With the most comprehensive resources, services, and solutions available to make every transition as seamless as possible, Scott continues to provide assistance after the sale is closed.
+
+    For his buyer clients, Scott takes a keen interest in finding not only the
+    ideal Nashville property but, more importantly, a property that proves to be
+    priced fairly, with minimal risk, and optimal return on investment. For his
+    seller clients, Scott uses his market knowledge to list the property at the
+    right price, attracting many buyers and selling homes in the shortest amount
+    of time. With the most comprehensive resources, services, and solutions
+    available to make every transition as seamless as possible, Scott continues
+    to provide assistance after the sale is closed.
   market: Nashville
   brand: House to Home Nashville
   brokerage: 'Benchmark Realty, LLC'
@@ -37,8 +51,8 @@ sidebar_CTA:
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
+    Our mission at -- CLIENT BRAND -- is to be your best resource for real
+    estate advice. Whether you are a buyer, seller, or investor, our team of
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
@@ -52,16 +66,30 @@ socials:
   instagram_url:
   pinterest_url:
   zillow_url: 'http://www.zillow.com/profile/user8538126/'
-  trulia_url: 'https://www.trulia.com/profile/scott-hardesty-agent-nashville-tn-zg9yq692/overview'
+  trulia_url: >-
+    https://www.trulia.com/profile/scott-hardesty-agent-nashville-tn-zg9yq692/overview
   yelp_url:
-  podcast_url: 'https://itunes.apple.com/us/podcast/house-to-home-nashville-real-estate-podcast/id1217918134?mt=2'
+  podcast_url: >-
+    https://itunes.apple.com/us/podcast/house-to-home-nashville-real-estate-podcast/id1217918134?mt=2
 podcast:
   title: House to Home Nashville Real Estate Podcast
-  categories: Education
+  categories:
+    - Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the -- MARKET
+    -- Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+    -- MARKET -- Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in -- MARKET --,
+    home selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
   author: '-- CLIENT NAME --'
 images:
   client_headshot_path: /img/headshot.jpg
@@ -71,7 +99,7 @@ images:
   hero_background_hex: '#ffffff'
   hero_image_path: /img/background.jpg
 site_colors:
-  brand_color: '#c0252c'
+  brand_color: '#1d76bc'
   theme_color: '#353535'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
@@ -81,7 +109,6 @@ header_shadow:
   w_shadow: 2px
   shadow_spread: 7px
   shadow_color: 'rgba(0, 0, 0, 0)'
-
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
