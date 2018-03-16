@@ -23,7 +23,7 @@ Do you really need an open house to sell your house? Actually, you don’t. Ther
 
 **1. Only 1% of all buyers come from open houses.** I’ve been in this business 37 years. I’ve done hundreds of open houses and I can count on my two hands the number of buyers that actually purchased a house they walked into during the open house.&nbsp;
 
-**2. You tend to get buyers who are just lookers, or Looky Loos.** You also get nosy neighbors who want to know what your house looks like, people looking for decorating ideas, or other neighbors who want to sell their home and want an idea of how to price it.&nbsp;
+**2. You tend to get buyers who are just lookers, or looky-loos.** You also get nosy neighbors who want to know what your house looks like, people looking for decorating ideas, or other neighbors who want to sell their home and want an idea of how to price it.&nbsp;
 
 **3. We can’t pre-qualify the buyers.**Even if buyers go to the open house, they may not be able to afford it. They may not be ready to buy because there house isn’t on the market. You simply don’t get qualified buyers.&nbsp;
 
