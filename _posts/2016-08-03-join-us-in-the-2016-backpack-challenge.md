@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Join Us in the 2016 Backpack Challenge!
-date: 2017-08-02 00:00:00
+date: 2016-08-03 00:00:00
 tags:
   - Real Estate
 excerpt: Join Us in the 2016 Backpack Challenge!
