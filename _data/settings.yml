@@ -11,7 +11,7 @@ custom_links:
 client:
   name: Scott Hardesty
   license_number: 306088
-  about_markdown: >
+  about_markdown: >-
     Scott can best be described as a man of high energy with a passion for
     Nashville real estate. He is a professional with a strong desire to listen
     and understand his client’s particular needs. Scott’s market expertise
@@ -28,13 +28,13 @@ client:
     to provide assistance after the sale is closed.
   market: Nashville
   brand: House to Home Nashville
-  brokerage: 'Benchmark Realty, LLC'
-  address: '2500 21st Ave. S.<br>Nashville, TN 37212'
-  phone: 615-432-2919
+  brokerage: eXp Realty
+  address: '3200 West End Avenue Suite 500<br>Nashville, TN 37203'
+  phone: (615) 522-5306
   phone_type:
   phone2:
   phone2_type:
-  email: Scott@HouseToHomeNash.com
+  email: Scott@HousetoHomeNash.com
   url: 'http://www.HouseToHomeNash.com'
 CTAs:
   first_CTA_text: Home Valuation
