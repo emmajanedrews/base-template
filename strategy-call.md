@@ -20,6 +20,8 @@ permalink: /strategy-call/
 
 <p>It can get overwhelming to stick to a consistent business plan that makes you money.</p>
 
+{% include strategy-photos.html %}
+
 <p>Our names our Shawn O'Neill and Dan Stephenson and we’ve sold over a thousand homes to date.</p>
 
 <p>We want to help you sell more homes.</p>
