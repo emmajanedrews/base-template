@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Help Us Help Our Community's Children
-date: 2018-03-16 22:15:15
+date: 2017-08-04 22:15:00
 tags:
   - Motivational Videos
 excerpt: It’s time for this summer’s annual backpack challenge.
@@ -60,7 +60,9 @@ youtube_code: 9F0MJjkEjxw
 
 <font data-blogger-escaped-style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">
 						<font face="&quot;arial&quot; , &quot;helvetica&quot; , sans-serif"><b></b></font>
-					</font><br>
+					</font>
+
+<br>
 
 <font data-blogger-escaped-style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">
 						<font face="&quot;arial&quot; , &quot;helvetica&quot; , sans-serif">You can either drop off your pre-filled backpack at our office, which is located at 4310 Prince William Parkway, Suite 200, or with our cosponsors at the Frostie Moose&mdash;located at 12581 Milstead Way.</font>
