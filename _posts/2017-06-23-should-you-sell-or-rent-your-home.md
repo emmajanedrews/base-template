@@ -60,7 +60,9 @@ youtube_code: NATv5s1yyCo
 
 <font data-blogger-escaped-style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">
 						<font face="&quot;arial&quot; , &quot;helvetica&quot; , sans-serif"><b></b></font>
-					</font><br>
+					</font>
+
+<br>
 
 <font data-blogger-escaped-style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">
 						<font face="&quot;arial&quot; , &quot;helvetica&quot; , sans-serif"><b>2. Will you hire a property manager?</b> Issues with rental properties never happen on your schedule, so unless you hire a great property manager (which will take away from your bottom line), none of the issues happen when you're free. Ask any landlord! Issues tend to happen when you are the busiest. If you are going to be renting out your property, you should be ready and available. Too often, issues arise that must be handled immediately and cannot be placed on the back-burner.</font>
