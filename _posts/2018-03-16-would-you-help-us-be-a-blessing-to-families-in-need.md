@@ -16,6 +16,8 @@ youtube_code:
 
 ![](/uploads/versions/capture-1---x----643-363x---.JPG)
 
+![](/uploads/versions/capture-2---x----643-363x---.JPG)
+
 {% include pullquote.html %}
 
 <div data-blogger-escaped-style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;" dir="ltr" style="margin-bottom:0pt; margin-top:0pt"><span style="line-height:1.38"></span>
