@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The 2 Questions You Should Ask Your Agent
+title: 2 Questions to Ask Your Agent Before You Hire Them
 tags:
   - Real Estate
 date: 2018-03-07 22:06:00
