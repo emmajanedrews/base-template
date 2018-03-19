@@ -2,6 +2,7 @@
 layout: post
 title: What’s Happening With Interest Rates?
 tags:
+  - Home Seller Tips
 excerpt: >-
   How do rising interest rates impact homebuyers and sellers in the Chicago
   area? I’ll explain today.
@@ -25,7 +26,7 @@ Here’s the thing—that increase has an impact on a buyer’s ability to borro
 
 {% include pullquote.html %}
 
-If you are a homebuyer and you want a specific monthly mortgage payment based on your income, you’ve lost 7.2% in purchasing power. That means you have the ability to buy 7.2% less home for the same monthly payment. &nbsp;
+If you are a homebuyer and you want a specific monthly mortgage payment based on your income, you’ve lost 7.2% in purchasing power. That means you have the ability to buy 7.2% less home for the same monthly payment.
 
 As a seller, since people who are interested in buying your home have lost some purchasing power, there will be a downward effect on prices and the offers that they might be able to make.
 
