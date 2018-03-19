@@ -1,13 +1,14 @@
 ---
 layout: post
 title: What Is the MLS and What Does It Do?
-date: 2018-03-08 21:14:28
+date: 2018-03-08 21:14:00
 tags:
   - Home Buyer Tips
 excerpt: >-
   The MLS has changed a lot over the last 15 years. Here’s what you need to
   know.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Chris+Hauck/St.+Cloud+Real+Estate+How+our+MLS+has+changed.mp4
 pullquote: You can find a link to our MLS right here on my site.
 enclosure_type: video/mp4
 enclosure_time:
@@ -32,6 +33,6 @@ Our MLS has changed a lot over the last 15 years. Back then, each community had 
 
 Since then, real estate has become very regional. Instead of 15 different MLS systems, we now have just one. The Twin Cities MLS covers Minneapolis, St. Paul, St. Cloud, Mankato, Alexandria, and a good ⅔ of the state of Minnesota. When you market your property on the MLS today, it reaches many more agents before being distributed out to websites like Zillow and Realtor.com.
 
-**Most agents will simply list your home on the MLS and leave it, hoping for other agents to pick up the slack.** That’s not how we do things. We work hard marketing your property each day it’s listed and we don’t get paid until you do.&nbsp;
+**Most agents will simply list your home on the MLS and leave it, hoping for other agents to pick up the slack.** That’s not how we do things. We work hard marketing your property each day it’s listed and we don’t get paid until you do.
 
-If you have any questions about the MLS, real estate, or anything else, don’t hesitate to reach out and give me a call or send me an email. We look forward to hearing from you soon!<br>&nbsp;
+If you have any questions about the MLS, real estate, or anything else, don’t hesitate to reach out and give me a call or send me an email. We look forward to hearing from you soon!<br>
