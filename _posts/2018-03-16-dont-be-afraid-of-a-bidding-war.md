@@ -37,4 +37,4 @@ Just because there is a multiple offer situation doesn’t mean that the house i
 
 **In a low inventory market like ours, it’s super important that you work with a quality real estate agent** who has access to the best technology so that you get listings as fast as possible and don’t miss out on anything.
 
-If you have any questions about this market or how to best position yourself to win in a multiple offer situation, just give me a call or send me an email. We would be happy to help you!
+If you have any questions about this market or how to best position yourself to win in a multiple offer situation, just give me a call or send me an email. My team would be happy to help you out.&nbsp;
