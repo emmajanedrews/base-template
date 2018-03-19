@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you’re ready to buy a home but don’t know where to start, there are five
   simple steps that you should know.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/2018/SC+Real+Estate+Agent-+Buy+in+2018.mp4
 pullquote: Don’t make large purchases during the home buying process.
 enclosure_type: video/mp4
 enclosure_time:
@@ -26,11 +27,11 @@ Are you ready to buy a home but don’t know exactly where to start? We can help
 
 Luckily, we were able to work our magic and get it done. I’m just telling you that you don’t want to open new lines of credit or have other people pull your credit score. Don’t make any large purchases while you go through the process because it could count against your debt-to-income ratio.
 
-3. Find a really good mortgage lender. Don’t worry, we have one for you: Tabor Mortgage Group. You can call them at 843-408-0856 or Google them. You can find everything you want to know about them online. We would be happy to pair you up with someone over there to help you with step four.
+1. Find a really good mortgage lender. Don’t worry, we have one for you: Tabor Mortgage Group. You can call them at 843-408-0856 or Google them. You can find everything you want to know about them online. We would be happy to pair you up with someone over there to help you with step four.
 
-4. Get pre-approved before you start your home search. Getting pre-approved will help you find out exactly how much the bank will lend you based on your specific financial information. They will look at your income, expenses, and credit score. They can help you figure out how much of a down payment you’ll need, what your monthly mortgage payment will be, and what kind of interest rate you will have. Getting pre-approved ahead of time is important so that you don’t waste your times looking at homes above or below your price range.
+2. Get pre-approved before you start your home search. Getting pre-approved will help you find out exactly how much the bank will lend you based on your specific financial information. They will look at your income, expenses, and credit score. They can help you figure out how much of a down payment you’ll need, what your monthly mortgage payment will be, and what kind of interest rate you will have. Getting pre-approved ahead of time is important so that you don’t waste your times looking at homes above or below your price range.
 
-5. Start your home search with us. We will help you find your forever dream home. We have a free program where we will walk you through each of the steps of finding your perfect home. We will make sure that the title is clear and that the home is everything you thought and hoped it would be.
+3. Start your home search with us. We will help you find your forever dream home. We have a free program where we will walk you through each of the steps of finding your perfect home. We will make sure that the title is clear and that the home is everything you thought and hoped it would be.
 
 If you are ready to start your home search or have any other real estate questions, just give me a call or send me an email. I would be happy to help you!
 
