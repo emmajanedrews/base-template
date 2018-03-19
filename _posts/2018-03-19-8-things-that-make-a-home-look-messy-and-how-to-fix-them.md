@@ -25,7 +25,7 @@ Today, I’ll be going over eight things that can make your home appear messy, a
 
 **1. Cluttered shelving.** Make sure the shelving in your home is clean and free of clutter.
 
-**2. Tangled wires and cords.**Cleaning up tangled cords can be as simple as using a wire tie. This will be especially important around computers and home entertainment systems.
+**2. Tangled wires and cords.&nbsp;**Cleaning up tangled cords can be as simple as using a wire tie. This will be especially important around computers and home entertainment systems.
 
 **3. Too much wallpaper.** If you’ve got a lot of patterned wallpaper in your home, you’ll want to get rid of it. Your walls should look fresh and neutral.
 
