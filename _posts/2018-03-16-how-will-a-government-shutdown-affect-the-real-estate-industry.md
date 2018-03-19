@@ -29,9 +29,9 @@ What can you expect from the real estate industry in the event of a government s
 
 The IRS will definitely be affected, which means mortgage lenders will be unable to obtain tax transcripts for financing approval.
 
-A shutdown will also affect certain types of loan programs. The USDA, being a government branch, will be unable to obtain conditional commitments for USDA loans, meaning no USDA loan will be able to close due to no conditional commitment being issued. The USDA will not insure a loan with a closing date prior to the commitment date.
+A shutdown will also affect certain types of loan programs. The USDA, being a government branch, will be unable to obtain conditional commitments for USDA loans, meaning no USDA loan will be able to close due to no conditional commitment being issued. The USDA will not ensure a loan with a closing date prior to the commitment date.
 
-Lender insurance for FHA loans should still be available, but we may still see issues being final-approved and placed into what’s called “Hold’s Tracking.” It’s unclear if VA loans will be affected as VA housing seems to be considered an essential function, but there are some concerns that personnel furloughs may impact underwriting timelines for VA loans, therefore prolonging the process.
+Lender insurance for FHA loans should still be available, but we may still see issues being final-approved and placed into what’s called “Hold’s Tracking.” It’s unclear if VA loans will be affected, as VA housing seems to be considered an essential function, but there are some concerns that personnel furloughs may impact underwriting timelines for VA loans, therefore prolonging the process.
 
 {% include pullquote.html %}
 
