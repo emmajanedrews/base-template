@@ -1,13 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Las Vegas Real Estate Video Blog with Mike Tchobanian</title>
+    <title>Las Vegas Real Estate Video Blog with Mike Chobanian</title>
     <description>Our mission at Vegas Capital Realty is to be your best resource for Las Vegas real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Vegas Capital Realty, your professional Las Vegas Real Estate Agents.</description>
-    <link>localhost:4000/</link>
-    <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 08 Nov 2017 13:12:21 -0600</pubDate>
-    <lastBuildDate>Wed, 08 Nov 2017 13:12:21 -0600</lastBuildDate>
+    <link>http://www.myvegasrealestateinfo.com/</link>
+    <atom:link href="http://www.myvegasrealestateinfo.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 19 Mar 2018 13:28:01 -0500</pubDate>
+    <lastBuildDate>Mon, 19 Mar 2018 13:28:01 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>What Is Driving Las Vegas’ Rapid Growth?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/_i4RgLHk2bo?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;center&gt;&lt;em&gt;What is driving the massive growth in Las Vegas? Today, I have three reasons that contribute.&lt;/em&gt;&lt;/center&gt;
+
+&lt;center&gt;&amp;nbsp;&lt;/center&gt;
+
+&lt;p&gt;Forbes magazine just recently announced America’s fastest-growing cities in 2018. Las Vegas was one of the top cities in the country in terms of projected aggressive growth.&lt;/p&gt;
+
+&lt;p&gt;What is driving this growth?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;One of the reasons that Las Vegas’ cost of living is still very low&lt;/strong&gt; compared to the rest of the country is that real estate prices are still 25% to 30% below the peak of where they once were. This has caused an influx of people moving to the area.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Many people who once lived in Vegas unfortunately lost their houses due to foreclosure short sale bankruptcy&lt;/strong&gt; when the market collapsed. Those people are back on the market now that they’ve fixed their credit, so they’re ready to buy again. This means there’s been an increase in demand from buyers that were renting at one point. This also encourages a lot of new home construction.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Additionally, there are a lot of jobs that are being created by the construction field.&lt;/strong&gt; Recently, a new Raiders stadium began construction, as well as a practice facility that will be built in Henderson. There are also a couple major casinos that will begin construction soon.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=There are a lot of jobs that are being created by the construction field.%20http://www.myvegasrealestateinfo.com/what-is-driving-las-vegas-rapid-growth.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“There are a lot of jobs that are being created by the construction field.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have any questions about what Las Vegas’ recent growth means for you or you are looking to buy or sell real estate, feel free to reach out to me. I’d be happy to help you.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Mar 2018 15:49:00 -0500</pubDate>
+        <link>http://www.myvegasrealestateinfo.com/what-is-driving-las-vegas-rapid-growth.html</link>
+        <guid isPermaLink="true">http://www.myvegasrealestateinfo.com/what-is-driving-las-vegas-rapid-growth.html</guid>
+        
+        <category>Real Estate</category>
+        
+        
+      </item>
     
       <item>
         <title>When Is the Best Time for Homeownership? </title>
@@ -26,7 +57,7 @@
 
 &lt;p&gt;The average rent of a small home is $1,500. If you pay this amount each month for a full year, this would amount to $18,000.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=THE LONGER YOU WAIT, THE LONGER YOU’RE PUTTING OFF HAVING A PAID-OFF HOME OF YOUR OWN.%20localhost:4000/the-real-cost-of-renting.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“THE LONGER YOU WAIT, THE LONGER YOU’RE PUTTING OFF HAVING A PAID-OFF HOME OF YOUR OWN.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=THE LONGER YOU WAIT, THE LONGER YOU’RE PUTTING OFF HAVING A PAID-OFF HOME OF YOUR OWN.%20http://www.myvegasrealestateinfo.com/the-real-cost-of-renting.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“THE LONGER YOU WAIT, THE LONGER YOU’RE PUTTING OFF HAVING A PAID-OFF HOME OF YOUR OWN.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;If you’re waiting around for the market to correct itself, you are throwing away a lot of money. Over the course of three years, a monthly rent of $1,500 would amount to $54,000. &lt;strong&gt;Why help someone else pay off their mortgage when the money could go towards your own?&lt;/strong&gt;&lt;/p&gt;
 
@@ -35,8 +66,8 @@
 &lt;p&gt;If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.&lt;/p&gt;
 </description>
         <pubDate>Mon, 09 Oct 2017 10:25:00 -0500</pubDate>
-        <link>localhost:4000/the-real-cost-of-renting.html</link>
-        <guid isPermaLink="true">localhost:4000/the-real-cost-of-renting.html</guid>
+        <link>http://www.myvegasrealestateinfo.com/the-real-cost-of-renting.html</link>
+        <guid isPermaLink="true">http://www.myvegasrealestateinfo.com/the-real-cost-of-renting.html</guid>
         
         <category>Las Vegas Real Estate Home Buyer Tips</category>
         
@@ -64,7 +95,7 @@
 
 &lt;p&gt;You also never have to repay the money you receive from this assistance program. However, there is a fee of approximately $700 for down payment assistance.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=THERE ARE A NUMBER OF PROGRAMS OUT THERE ALLOW YOU TO PURCHASE A HOME FOR VERY LITTLE MONEY DOWN.%20localhost:4000/you-could-be-able-to-afford-home-sooner.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“THERE ARE A NUMBER OF PROGRAMS OUT THERE ALLOW YOU TO PURCHASE A HOME FOR VERY LITTLE MONEY DOWN.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=THERE ARE A NUMBER OF PROGRAMS OUT THERE ALLOW YOU TO PURCHASE A HOME FOR VERY LITTLE MONEY DOWN.%20http://www.myvegasrealestateinfo.com/you-could-be-able-to-afford-home-sooner.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“THERE ARE A NUMBER OF PROGRAMS OUT THERE ALLOW YOU TO PURCHASE A HOME FOR VERY LITTLE MONEY DOWN.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;If you have credit score of at least 660 and are using the FHA loan, you can qualify to put down 4% through that program. Typically, though, buyers can qualify for just 3.5% down using an FHA loan. This means that money saved on the down payment could go toward closing costs.&lt;/p&gt;
 
@@ -79,8 +110,8 @@
 &lt;p&gt;Also, if you would like more information or have any other questions for me, feel free to give me a call or send me an email. I look forward to hearing from you soon.&lt;/p&gt;
 </description>
         <pubDate>Tue, 05 Sep 2017 12:13:00 -0500</pubDate>
-        <link>localhost:4000/you-could-be-able-to-afford-home-sooner.html</link>
-        <guid isPermaLink="true">localhost:4000/you-could-be-able-to-afford-home-sooner.html</guid>
+        <link>http://www.myvegasrealestateinfo.com/you-could-be-able-to-afford-home-sooner.html</link>
+        <guid isPermaLink="true">http://www.myvegasrealestateinfo.com/you-could-be-able-to-afford-home-sooner.html</guid>
         
         <category>Las Vegas Real Estate Home Buyer Tips</category>
         
@@ -104,7 +135,7 @@
 
 &lt;p&gt;The answer to this question depends on your personal circumstances. To determine what is right for you, you should consider two main factors.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=THERE IS NO ONE-SIZE-FITS-ALL ANSWER.%20localhost:4000/should-you-sell-now-or-wait.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“THERE IS NO ONE-SIZE-FITS-ALL ANSWER.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=THERE IS NO ONE-SIZE-FITS-ALL ANSWER.%20http://www.myvegasrealestateinfo.com/should-you-sell-now-or-wait.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“THERE IS NO ONE-SIZE-FITS-ALL ANSWER.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;First of all, think about your own motivation and need to sell.&lt;/strong&gt; Why do you want to sell? Do you need to sell first to buy another property?&lt;/p&gt;
 
@@ -115,8 +146,8 @@
 &lt;p&gt;If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.&lt;/p&gt;
 </description>
         <pubDate>Mon, 14 Aug 2017 13:49:00 -0500</pubDate>
-        <link>localhost:4000/should-you-sell-now-or-wait.html</link>
-        <guid isPermaLink="true">localhost:4000/should-you-sell-now-or-wait.html</guid>
+        <link>http://www.myvegasrealestateinfo.com/should-you-sell-now-or-wait.html</link>
+        <guid isPermaLink="true">http://www.myvegasrealestateinfo.com/should-you-sell-now-or-wait.html</guid>
         
         <category>Las Vegas Real Estate Home Seller Tips</category>
         
@@ -136,15 +167,15 @@
 
 &lt;p&gt;As you’re probably already aware, Las Vegas is a strong seller’s market right now. With many more buyers than sellers, what’s the best way for a buyer to prepare to get the home they want? According to Monica, it’s getting a pre-approval. Don’t settle for a quick pre-qualification. A fully underwritten approval with verified income and assets is what you’re looking for. &lt;strong&gt;It only takes a few days, and then you can go home shopping with confidence.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=A FULLY UNDERWRITTEN PRE-APPROVAL IS KEY.%20localhost:4000/a-few-tips-if-youre-looking-to-get.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“A FULLY UNDERWRITTEN PRE-APPROVAL IS KEY.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=A FULLY UNDERWRITTEN PRE-APPROVAL IS KEY.%20http://www.myvegasrealestateinfo.com/a-few-tips-if-youre-looking-to-get.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“A FULLY UNDERWRITTEN PRE-APPROVAL IS KEY.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;If you’re a seller in this market, Monica says not to accept an offer from a buyer who doesn’t have a fully underwritten approval because they might not actually be able to buy your home. Their income and assets should be verified as well.&lt;/p&gt;
 
 &lt;p&gt;If you have any questions for Monica, you can give her a call at (702) 339-8221. If you have any other questions for us, you can always give us a call or send us an email. We look forward to hearing from you soon.&lt;/p&gt;
 </description>
         <pubDate>Mon, 31 Jul 2017 12:39:00 -0500</pubDate>
-        <link>localhost:4000/a-few-tips-if-youre-looking-to-get.html</link>
-        <guid isPermaLink="true">localhost:4000/a-few-tips-if-youre-looking-to-get.html</guid>
+        <link>http://www.myvegasrealestateinfo.com/a-few-tips-if-youre-looking-to-get.html</link>
+        <guid isPermaLink="true">http://www.myvegasrealestateinfo.com/a-few-tips-if-youre-looking-to-get.html</guid>
         
         <category>Las Vegas Real Estate Home Buyer Tips</category>
         
@@ -160,7 +191,7 @@
 &lt;p&gt;&lt;strong&gt;Want to sell your home?&lt;/strong&gt; &lt;a href=&quot;http://www.vegascapital.com/index.php/free-home-value/&quot; target=&quot;_blank&quot;&gt;Get a FREE home value report.&lt;/a&gt;
 &lt;strong&gt;Want to buy a home?&lt;/strong&gt; &lt;a href=&quot;http://www.vegascapital.com/index.php/homes-for-sale-search-advanced/&quot; target=&quot;_blank&quot;&gt;Search all homes for sale.&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;We’re back to continue our conversation about how to get your offer accepted as a buyer in the crazy seller’s market we’re experiencing in Las Vegas. If you missed the first part of our discussion, you can see it &lt;a href=&quot;&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We’re back to continue our conversation about how to get your offer accepted as a buyer in the crazy seller’s market we’re experiencing in Las Vegas. If you missed the first part of our discussion, you can see it &lt;a href=&quot;http://myvegasrealestateinfo.com/how-to-stand-out-to-sellers-in-las.html&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Inventory is low across the country and Las Vegas is no different.&lt;/strong&gt; We have just 4,917 single-family houses for sale in the Las Vegas area. That might not sound like a shortage, but compared to the nearly 8,000 houses we had for sale at this time last year, you can see how drastically inventory has shrunk.&lt;/p&gt;
 
@@ -170,15 +201,15 @@
 
 &lt;p&gt;&lt;strong&gt;2. Be prepared for a bidding war:&lt;/strong&gt; There will be a lot of buyers looking for homes that are priced right and in good condition, so put your best foot forward.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=YOU DON'T HAVE THE LUXURY OF TIME IF YOU FIND A HOME YOU LIKE.%20localhost:4000/how-to-stand-out-to-sellers-in-las.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“YOU DON’T HAVE THE LUXURY OF TIME IF YOU FIND A HOME YOU LIKE.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=YOU DON'T HAVE THE LUXURY OF TIME IF YOU FIND A HOME YOU LIKE.%20http://www.myvegasrealestateinfo.com/how-to-stand-out-to-sellers-in-las.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“YOU DON’T HAVE THE LUXURY OF TIME IF YOU FIND A HOME YOU LIKE.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;3. Listen to your agent:&lt;/strong&gt; Learn from other buyers’ mistakes. An experienced agent can help you through the whole process, so trust them and be prepared.&lt;/p&gt;
 
 &lt;p&gt;If you’re looking to buy a home or sell your current house, give me a call or send me an email. I’d love to use my experience to help you get the best outcome in our market.&lt;/p&gt;
 </description>
         <pubDate>Fri, 09 Jun 2017 09:25:00 -0500</pubDate>
-        <link>localhost:4000/how-to-stand-out-to-sellers-in-las.html</link>
-        <guid isPermaLink="true">localhost:4000/how-to-stand-out-to-sellers-in-las.html</guid>
+        <link>http://www.myvegasrealestateinfo.com/how-to-stand-out-to-sellers-in-las.html</link>
+        <guid isPermaLink="true">http://www.myvegasrealestateinfo.com/how-to-stand-out-to-sellers-in-las.html</guid>
         
         <category>Las Vegas Real Estate Home Buyer Tips</category>
         
@@ -200,15 +231,15 @@
 
 &lt;p&gt;&lt;strong&gt;2. Be aggressive with your offer:&lt;/strong&gt; When you find the right property in the right area that fits your criteria (size, price, budget, etc.) don’t sit there and over-analyze things.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=EVEN THOUGH IT’S A SELLER’S MARKET, THERE ARE CERTAIN THINGS YOU CAN DO TO MAXIMIZE YOUR PROFIT.%20localhost:4000/how-to-stand-out-to-sellers-in-las.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“EVEN THOUGH IT’S A SELLER’S MARKET, THERE ARE CERTAIN THINGS YOU CAN DO TO MAXIMIZE YOUR PROFIT.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=EVEN THOUGH IT’S A SELLER’S MARKET, THERE ARE CERTAIN THINGS YOU CAN DO TO MAXIMIZE YOUR PROFIT.%20http://www.myvegasrealestateinfo.com/how-to-stand-out-to-sellers-in-las.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“EVEN THOUGH IT’S A SELLER’S MARKET, THERE ARE CERTAIN THINGS YOU CAN DO TO MAXIMIZE YOUR PROFIT.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;3. Have your full financing approval ready:&lt;/strong&gt; Make sure you have a copy before you even start shopping for homes. Not having your approval ready would be like going hunting without a gun. Even if you find the perfect home, if you haven’t been approved for financing yet, it could take a lot of time and cause you to lose out on the house.&lt;/p&gt;
 
 &lt;p&gt;Stay tuned for our next video where I’ll reveal the last three things you can do as a homebuyer to set yourself up to win the home you want. In the meantime, give me a call or send me an email with any questions you have. I’d be glad to help!&lt;/p&gt;
 </description>
         <pubDate>Wed, 24 May 2017 14:15:00 -0500</pubDate>
-        <link>localhost:4000/how-to-stand-out-to-sellers-in-las.html</link>
-        <guid isPermaLink="true">localhost:4000/how-to-stand-out-to-sellers-in-las.html</guid>
+        <link>http://www.myvegasrealestateinfo.com/how-to-stand-out-to-sellers-in-las.html</link>
+        <guid isPermaLink="true">http://www.myvegasrealestateinfo.com/how-to-stand-out-to-sellers-in-las.html</guid>
         
         <category>Las Vegas Real Estate Home Buyer Tips</category>
         
@@ -228,15 +259,15 @@
 
 &lt;p&gt;&lt;strong&gt;Currently, we have a little more than 5,000 single family homes, approximately 400 condos, and around 300 townhomes for sale.&lt;/strong&gt; Last month in April, there were 2,800 homes sold. Based on those numbers, we have a very low inventory. In fact, if no new houses came on the market, it would only take 45 days to sell everything currently for sale.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=EVEN THOUGH IT’S A SELLER’S MARKET, THERE ARE CERTAIN THINGS YOU CAN DO TO MAXIMIZE YOUR PROFIT.%20localhost:4000/las-vegas-and-henderson-market-update.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“EVEN THOUGH IT’S A SELLER’S MARKET, THERE ARE CERTAIN THINGS YOU CAN DO TO MAXIMIZE YOUR PROFIT.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=EVEN THOUGH IT’S A SELLER’S MARKET, THERE ARE CERTAIN THINGS YOU CAN DO TO MAXIMIZE YOUR PROFIT.%20http://www.myvegasrealestateinfo.com/las-vegas-and-henderson-market-update.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“EVEN THOUGH IT’S A SELLER’S MARKET, THERE ARE CERTAIN THINGS YOU CAN DO TO MAXIMIZE YOUR PROFIT.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Those numbers put us in a very strong seller’s market. &lt;strong&gt;There are more buyers than there are homes for sale, so prices are going to continue to rise.&lt;/strong&gt; If you are thinking about selling, make sure you contact the right agent to help you strategize. Even though it’s a seller’s market, there are certain things you can do to maximize your profit.&lt;/p&gt;
 
 &lt;p&gt;If you have any questions about the market conditions or are looking to buy or sell a home, feel free to give me a call or send me an email. I’m more than happy to help.&lt;/p&gt;
 </description>
         <pubDate>Tue, 09 May 2017 12:00:00 -0500</pubDate>
-        <link>localhost:4000/las-vegas-and-henderson-market-update.html</link>
-        <guid isPermaLink="true">localhost:4000/las-vegas-and-henderson-market-update.html</guid>
+        <link>http://www.myvegasrealestateinfo.com/las-vegas-and-henderson-market-update.html</link>
+        <guid isPermaLink="true">http://www.myvegasrealestateinfo.com/las-vegas-and-henderson-market-update.html</guid>
         
         <category>Las Vegas Real Estate Market Update</category>
         
@@ -262,15 +293,15 @@
 
 &lt;p&gt;&lt;strong&gt;4. Don’t make it hard for buyers to see your property:&lt;/strong&gt; With low inventory in our market, we have a lot of motivated buyers. A lot of people will want to see your house in the first two weeks it’s on the market, so make it as easy as possible for them.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=OVERPRICING YOUR HOME COULD ACTUALLY COST YOU MONEY IN THE END.%20localhost:4000/5-listing-mistakes-to-avoid-in-las.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“OVERPRICING YOUR HOME COULD ACTUALLY COST YOU MONEY IN THE END.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=OVERPRICING YOUR HOME COULD ACTUALLY COST YOU MONEY IN THE END.%20http://www.myvegasrealestateinfo.com/5-listing-mistakes-to-avoid-in-las.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“OVERPRICING YOUR HOME COULD ACTUALLY COST YOU MONEY IN THE END.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;5. Don’t try to sell on your own:&lt;/strong&gt; You might think you’ll save money on real estate commission, but in this appreciating market, it will cost you more than if you sell with a professional real estate agent.&lt;/p&gt;
 
 &lt;p&gt;If you have any questions or you’re thinking about making a move in the Las Vegas market, give me a call or send me an email. I’m always happy to help.&lt;/p&gt;
 </description>
         <pubDate>Mon, 17 Apr 2017 11:29:00 -0500</pubDate>
-        <link>localhost:4000/5-listing-mistakes-to-avoid-in-las.html</link>
-        <guid isPermaLink="true">localhost:4000/5-listing-mistakes-to-avoid-in-las.html</guid>
+        <link>http://www.myvegasrealestateinfo.com/5-listing-mistakes-to-avoid-in-las.html</link>
+        <guid isPermaLink="true">http://www.myvegasrealestateinfo.com/5-listing-mistakes-to-avoid-in-las.html</guid>
         
         <category>Las Vegas Real Estate Home Seller Tips</category>
         
@@ -294,45 +325,17 @@
 
 &lt;p&gt;&lt;strong&gt;3. Smart culinary equipment.&lt;/strong&gt; No-touch faucets are great for keeping germs off faucets, and a fridge that tells you when you’re running low on milk or Coors Light is an added bonus for buyers.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=SMART THERMOSTATS HELP LOWER ENERGY BILLS.%20localhost:4000/4-tech-features-that-improve-homes-value.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“SMART THERMOSTATS HELP LOWER ENERGY BILLS.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=SMART THERMOSTATS HELP LOWER ENERGY BILLS.%20http://www.myvegasrealestateinfo.com/4-tech-features-that-improve-homes-value.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“SMART THERMOSTATS HELP LOWER ENERGY BILLS.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;4. Updated surround sound.&lt;/strong&gt; Whether you have a theater room or not, buyers love seeing high-end sound systems when it comes to entertainment areas.&lt;/p&gt;
 
 &lt;p&gt;If you have any questions for us about selling your home or what else you can do to help it stand out, give us a call or send us an email. We look forward to hearing from you.&lt;/p&gt;
 </description>
         <pubDate>Mon, 03 Apr 2017 10:37:00 -0500</pubDate>
-        <link>localhost:4000/4-tech-features-that-improve-homes-value.html</link>
-        <guid isPermaLink="true">localhost:4000/4-tech-features-that-improve-homes-value.html</guid>
+        <link>http://www.myvegasrealestateinfo.com/4-tech-features-that-improve-homes-value.html</link>
+        <guid isPermaLink="true">http://www.myvegasrealestateinfo.com/4-tech-features-that-improve-homes-value.html</guid>
         
         <category>Las Vegas Real Estate Home Seller Tips</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Whats Happening in the Last Vegas Real Estate Market?</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ROLK39IJClE?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;The Las Vegas market is as active as ever. We have less than two months of inventory and a high level of demand from buyers.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Want to sell your home?&lt;/strong&gt; &lt;a href=&quot;http://www.vegascapital.com/index.php/free-home-value/&quot; target=&quot;_blank&quot;&gt;Get a FREE home value report.&lt;/a&gt;
-&lt;strong&gt;Want to buy a home?&lt;/strong&gt; &lt;a href=&quot;http://www.vegascapital.com/index.php/homes-for-sale-search-advanced/&quot; target=&quot;_blank&quot;&gt;Search all homes for sale.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The Las Vegas real estate market has been extremely active as of late. With low inventory and high demand from buyers, we are seeing homes fly off the market. &lt;strong&gt;I wanted to drop by and give you a quick rundown of all the important numbers we’ve been keeping an eye on.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Right now, the current inventory for single-family homes is 5,571. We also have 474 condos and 338 townhomes on the market. In the month of February, we sold 2,737 homes. Based on those numbers, we have less than a two-month supply of available homes on the market. &lt;strong&gt;With such a low level of inventory, we expect home prices to continue to increase throughout the spring and summer,&lt;/strong&gt; even though demand is higher during those times of year.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=LOW INVENTORY IS GOOD NEWS FOR SELLERS.%20localhost:4000/whats-happening-in-last-vegas-real.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“LOW INVENTORY IS GOOD NEWS FOR SELLERS.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;If you have been thinking of selling your home, now is an excellent time. Buyers will be able to overlook a lot more imperfections than they would if there were more homes available to purchase. Now is also a great time to consider buying as a long-term investment. With interest rates and home prices expected to rise in the next year (prices rose 10% in just the last year), locking in a purchase now will save you thousands of dollars over the life of your loan.&lt;/p&gt;
-
-&lt;p&gt;If you have any questions for me about the Las Vegas market or if you’re considering making a move, give me a call or send me an email. I would love to hear from you.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 13 Mar 2017 13:43:00 -0500</pubDate>
-        <link>localhost:4000/whats-happening-in-last-vegas-real.html</link>
-        <guid isPermaLink="true">localhost:4000/whats-happening-in-last-vegas-real.html</guid>
-        
-        <category>Las Vegas Real Estate Market Update</category>
         
         
       </item>

@@ -1,5 +1,5 @@
 audit_header: false
-title: Las Vegas Real Estate Video Blog with Mike Tchobanian
+title: Las Vegas Real Estate Video Blog with Mike Chobanian
 description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: true
 custom_links:
@@ -9,12 +9,12 @@ custom_links:
     url: http://www.vegascapital.com/free-home-value/
 
 client:
-  name: Mike Misak Tchobanian
+  name: Mike Misak Chobanian
   license_number:
   about_markdown: |
-    Mike Tchobanian & Vegas Capital Realty is a full service real estate and property management company, specializing in Selling, buying and property management. We provide expert advice that specializes in the local Las Vegas, Henderson Market. We offer excellent customer service while offering our clients the latest in cutting edge technology in order to gain maximum listing exposure to sell your house and buying the perfect home along with managing your rental property to maximize your profit.
+    Mike Chobanian & Vegas Capital Realty is a full service real estate and property management company, specializing in Selling, buying and property management. We provide expert advice that specializes in the local Las Vegas, Henderson Market. We offer excellent customer service while offering our clients the latest in cutting edge technology in order to gain maximum listing exposure to sell your house and buying the perfect home along with managing your rental property to maximize your profit.
 
-    Let Mike Tchobanian & Vegas Capital Realty help you buy, sell, invest or property management today!
+    Let Mike Chobanian & Vegas Capital Realty help you buy, sell, invest or property management today!
   market: Las Vegas
   brand: Vegas Capital Realty
   brokerage:
@@ -80,7 +80,7 @@ socials:
   instagram_url:
   pinterest_url:
   zillow_url: http://www.zillow.com/profile/Mike-Tchobanian/
-  trulia_url: http://www.trulia.com/profile/mike-tchobanian-agent-henderson-nv-zgsxlckd/overview
+  trulia_url: http://www.trulia.com/profile/mike-Chobanian-agent-henderson-nv-zgsxlckd/overview
   yelp_url: http://www.yelp.com/biz/vegas-capital-realty-henderson
   podcast_url: https://itunes.apple.com/us/podcast/feedburner-vegas-capital-realty/id1199532177?mt=2
 

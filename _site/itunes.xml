@@ -1,36 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title>Las Vegas Real Estate Podcast with Mike Misak Tchobanian</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <title>Las Vegas Real Estate Podcast with Mike Misak Chobanian</title>
+    <link>http://www.myvegasrealestateinfo.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://www.myvegasrealestateinfo.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Vegas Capital Realty - your professional Las Vegas Real Estate Agents.</description>
     <language>en</language>
-    <managingEditor>Mike Misak Tchobanian</managingEditor>
-    <lastBuildDate>2017-11-08 13:12:21 -0600</lastBuildDate>
-    <media:copyright>Mike Misak Tchobanian</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <managingEditor>Mike Misak Chobanian</managingEditor>
+    <lastBuildDate>2018-03-19 13:28:01 -0500</lastBuildDate>
+    <media:copyright>Mike Misak Chobanian</media:copyright>
+    <media:thumbnail url="http://www.myvegasrealestateinfo.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Las Vegas, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
       <itunes:email>info@VegasCapital.com</itunes:email>
-      <itunes:name>Mike Misak Tchobanian</itunes:name>
+      <itunes:name>Mike Misak Chobanian</itunes:name>
     </itunes:owner>
-    <itunes:author>Mike Misak Tchobanian</itunes:author>
+    <itunes:author>Mike Misak Chobanian</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://www.myvegasrealestateinfo.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Las Vegas, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Las Vegas Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Vegas Capital Realty - your professional Las Vegas Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
+        <title>What Is Driving Las Vegas’ Rapid Growth?</title>
+        <link>http://www.myvegasrealestateinfo.com/what-is-driving-las-vegas-rapid-growth.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Mike Misak Chobanian</author>
+        <pubDate>2018-03-12 15:49:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las+Vegas+Real+Estate+Why+is+Las+Vegas+growing.mp4</guid>
+        <description>
+
+What is driving the massive growth in Las Vegas? Today, I have three reasons that contribute.
+
+&nbsp;
+
+Forbes magazine just recently announced America’s fastest-growing cities in 2018. Las Vegas was one of the top cities in the country in terms of projected aggressive growth.
+
+What is driving this growth?
+
+
+  One of the reasons that Las Vegas’ cost of living is still very low compared to the rest of the country is that real estate prices are still 25% to 30% below the peak of where they once were. This has caused an influx of people moving to the area.
+  Many people who once lived in Vegas unfortunately lost their houses due to foreclosure short sale bankruptcy when the market collapsed. Those people are back on the market now that they’ve fixed their credit, so they’re ready to buy again. This means there’s been an increase in demand from buyers that were renting at one point. This also encourages a lot of new home construction.
+  Additionally, there are a lot of jobs that are being created by the construction field. Recently, a new Raiders stadium began construction, as well as a practice facility that will be built in Henderson. There are also a couple major casinos that will begin construction soon.
+
+
+“There are a lot of jobs that are being created by the construction field.”
+
+If you have any questions about what Las Vegas’ recent growth means for you or you are looking to buy or sell real estate, feel free to reach out to me. I’d be happy to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las+Vegas+Real+Estate+Why+is+Las+Vegas+growing.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://www.myvegasrealestateinfo.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las+Vegas+Real+Estate+Why+is+Las+Vegas+growing.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What is driving the massive growth in Las Vegas? Today, I have three reasons that contribute.</itunes:subtitle>
+        <itunes:author>Mike Misak Chobanian</itunes:author>
+        <itunes:summary>What is driving the massive growth in Las Vegas? Today, I have three reasons that contribute.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Las Vegas, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>When Is the Best Time for Homeownership? </title>
-        <link>localhost:4000/the-real-cost-of-renting.html</link>
+        <link>http://www.myvegasrealestateinfo.com/the-real-cost-of-renting.html</link>
         
           <category>Las Vegas Real Estate Home Buyer Tips</category>
         
-        <author>Mike Misak Tchobanian</author>
+        <author>Mike Misak Chobanian</author>
         <pubDate>2017-10-09 10:25:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las%2520Vegas%2520Real%2520Estate-%2520When%2520is%2520the%2520best%2520time%2520to%2520buy%253F.mp4</guid>
         <description>
@@ -57,7 +96,7 @@ A typical mortgage will be paid off within 30 years. The longer you wait, the lo
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las%2520Vegas%2520Real%2520Estate-%2520When%2520is%2520the%2520best%2520time%2520to%2520buy%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.myvegasrealestateinfo.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las%2520Vegas%2520Real%2520Estate-%2520When%2520is%2520the%2520best%2520time%2520to%2520buy%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -65,7 +104,7 @@ If you have any other questions or would like more information, feel free to giv
 Waiting around for a market correction is rarely a good reason to keep renting. The longer you wait, the more money you are putting toward someone else’s mortgage instead of your own.
 
 </itunes:subtitle>
-        <itunes:author>Mike Misak Tchobanian</itunes:author>
+        <itunes:author>Mike Misak Chobanian</itunes:author>
         <itunes:summary>
 
 Waiting around for a market correction is rarely a good reason to keep renting. The longer you wait, the more money you are putting toward someone else’s mortgage instead of your own.
@@ -76,11 +115,11 @@ Waiting around for a market correction is rarely a good reason to keep renting. 
       
       <item>
         <title>Think You Need 20% Down? Not With These Assistance Programs</title>
-        <link>localhost:4000/you-could-be-able-to-afford-home-sooner.html</link>
+        <link>http://www.myvegasrealestateinfo.com/you-could-be-able-to-afford-home-sooner.html</link>
         
           <category>Las Vegas Real Estate Home Buyer Tips</category>
         
-        <author>Mike Misak Tchobanian</author>
+        <author>Mike Misak Chobanian</author>
         <pubDate>2017-09-05 12:13:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las%2520Vegas%2520Real%2520Estate-%2520The%2520secret%2520to%2520putting%2520less%2520down%2520on%2520a%2520home.mp4</guid>
         <description>
@@ -117,7 +156,7 @@ If you’ve got any questions for Monica about this, you can reach her by callin
 Also, if you would like more information or have any other questions for me, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las%2520Vegas%2520Real%2520Estate-%2520The%2520secret%2520to%2520putting%2520less%2520down%2520on%2520a%2520home.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.myvegasrealestateinfo.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las%2520Vegas%2520Real%2520Estate-%2520The%2520secret%2520to%2520putting%2520less%2520down%2520on%2520a%2520home.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -125,7 +164,7 @@ Also, if you would like more information or have any other questions for me, fee
 Many people believe that it takes a lot of money down to be able to afford a home. With the help of down payment assistance programs, this isn’t always the case.
 
 </itunes:subtitle>
-        <itunes:author>Mike Misak Tchobanian</itunes:author>
+        <itunes:author>Mike Misak Chobanian</itunes:author>
         <itunes:summary>
 
 Many people believe that it takes a lot of money down to be able to afford a home. With the help of down payment assistance programs, this isn’t always the case.
@@ -136,11 +175,11 @@ Many people believe that it takes a lot of money down to be able to afford a hom
       
       <item>
         <title>Should You Sell Now or Wait?</title>
-        <link>localhost:4000/should-you-sell-now-or-wait.html</link>
+        <link>http://www.myvegasrealestateinfo.com/should-you-sell-now-or-wait.html</link>
         
           <category>Las Vegas Real Estate Home Seller Tips</category>
         
-        <author>Mike Misak Tchobanian</author>
+        <author>Mike Misak Chobanian</author>
         <pubDate>2017-08-14 13:49:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las%2520Vegas%2520Real%2520Estate-%2520This%2520is%2520a%2520tough%2520decision%2520to%2520make(1).mp4</guid>
         <description>
@@ -169,7 +208,7 @@ Another thing you might want to consider is the option of renting your property 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las%2520Vegas%2520Real%2520Estate-%2520This%2520is%2520a%2520tough%2520decision%2520to%2520make(1).mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.myvegasrealestateinfo.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las%2520Vegas%2520Real%2520Estate-%2520This%2520is%2520a%2520tough%2520decision%2520to%2520make(1).mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -177,7 +216,7 @@ If you have any other questions or would like more information, feel free to giv
 Should you sell now or wait to see where our market is headed?
 
 </itunes:subtitle>
-        <itunes:author>Mike Misak Tchobanian</itunes:author>
+        <itunes:author>Mike Misak Chobanian</itunes:author>
         <itunes:summary>
 
 Should you sell now or wait to see where our market is headed?
@@ -188,11 +227,11 @@ Should you sell now or wait to see where our market is headed?
       
       <item>
         <title>A Few Tips if Youre Looking to Get a Mortgage</title>
-        <link>localhost:4000/a-few-tips-if-youre-looking-to-get.html</link>
+        <link>http://www.myvegasrealestateinfo.com/a-few-tips-if-youre-looking-to-get.html</link>
         
           <category>Las Vegas Real Estate Home Buyer Tips</category>
         
-        <author>Mike Misak Tchobanian</author>
+        <author>Mike Misak Chobanian</author>
         <pubDate>2017-07-31 12:39:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las%2520Vegas%2520Real%2520Estate-%2520One%2520way%2520to%2520set%2520yourself%2520apart.mp4</guid>
         <description>
@@ -213,7 +252,7 @@ If you’re a seller in this market, Monica says not to accept an offer from a b
 If you have any questions for Monica, you can give her a call at (702) 339-8221. If you have any other questions for us, you can always give us a call or send us an email. We look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las%2520Vegas%2520Real%2520Estate-%2520One%2520way%2520to%2520set%2520yourself%2520apart.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.myvegasrealestateinfo.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las%2520Vegas%2520Real%2520Estate-%2520One%2520way%2520to%2520set%2520yourself%2520apart.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -221,7 +260,7 @@ If you have any questions for Monica, you can give her a call at (702) 339-8221.
 How can you stand out in this competitive market? We have the answer.
 
 </itunes:subtitle>
-        <itunes:author>Mike Misak Tchobanian</itunes:author>
+        <itunes:author>Mike Misak Chobanian</itunes:author>
         <itunes:summary>
 
 How can you stand out in this competitive market? We have the answer.
@@ -232,11 +271,11 @@ How can you stand out in this competitive market? We have the answer.
       
       <item>
         <title>How to Stand out to Sellers in the Las Vegas Market: Part 2</title>
-        <link>localhost:4000/how-to-stand-out-to-sellers-in-las.html</link>
+        <link>http://www.myvegasrealestateinfo.com/how-to-stand-out-to-sellers-in-las.html</link>
         
           <category>Las Vegas Real Estate Home Buyer Tips</category>
         
-        <author>Mike Misak Tchobanian</author>
+        <author>Mike Misak Chobanian</author>
         <pubDate>2017-06-09 09:25:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las%2520Vegas%2520Real%2520Estate-%2520How%2520to%2520win%2520the%2520home%2520you%2520want%2520in%2520our%2520market-%2520part%25202.mp4</guid>
         <description>
@@ -263,7 +302,7 @@ There are also just 366 condominiums and 305 townhomes for sale in our market. W
 If you’re looking to buy a home or sell your current house, give me a call or send me an email. I’d love to use my experience to help you get the best outcome in our market.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las%2520Vegas%2520Real%2520Estate-%2520How%2520to%2520win%2520the%2520home%2520you%2520want%2520in%2520our%2520market-%2520part%25202.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.myvegasrealestateinfo.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las%2520Vegas%2520Real%2520Estate-%2520How%2520to%2520win%2520the%2520home%2520you%2520want%2520in%2520our%2520market-%2520part%25202.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -271,7 +310,7 @@ If you’re looking to buy a home or sell your current house, give me a call or 
 If you want to buy a home here in the Las Vegas market, it won’t be easy. You can help yourself with these three tips.
 
 </itunes:subtitle>
-        <itunes:author>Mike Misak Tchobanian</itunes:author>
+        <itunes:author>Mike Misak Chobanian</itunes:author>
         <itunes:summary>
 
 If you want to buy a home here in the Las Vegas market, it won’t be easy. You can help yourself with these three tips.
@@ -282,11 +321,11 @@ If you want to buy a home here in the Las Vegas market, it won’t be easy. You 
       
       <item>
         <title> How to Stand out to Sellers in the Las Vegas Market</title>
-        <link>localhost:4000/how-to-stand-out-to-sellers-in-las.html</link>
+        <link>http://www.myvegasrealestateinfo.com/how-to-stand-out-to-sellers-in-las.html</link>
         
           <category>Las Vegas Real Estate Home Buyer Tips</category>
         
-        <author>Mike Misak Tchobanian</author>
+        <author>Mike Misak Chobanian</author>
         <pubDate>2017-05-24 14:15:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las%2520Vegas%2520Real%2520Estate-%2520How%2520to%2520win%2520the%2520home%2520you%2520want%2520in%2520our%2520market.mp4</guid>
         <description>
@@ -309,7 +348,7 @@ If you want to buy a Las Vegas home, there are a few specific things you can do 
 Stay tuned for our next video where I’ll reveal the last three things you can do as a homebuyer to set yourself up to win the home you want. In the meantime, give me a call or send me an email with any questions you have. I’d be glad to help!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las%2520Vegas%2520Real%2520Estate-%2520How%2520to%2520win%2520the%2520home%2520you%2520want%2520in%2520our%2520market.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.myvegasrealestateinfo.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las%2520Vegas%2520Real%2520Estate-%2520How%2520to%2520win%2520the%2520home%2520you%2520want%2520in%2520our%2520market.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -317,7 +356,7 @@ Stay tuned for our next video where I’ll reveal the last three things you can 
 When you want to buy a home here in the hot Las Vegas market, there are a few certain things you can do to make yourself stand out amongst the competition.
 
 </itunes:subtitle>
-        <itunes:author>Mike Misak Tchobanian</itunes:author>
+        <itunes:author>Mike Misak Chobanian</itunes:author>
         <itunes:summary>
 
 When you want to buy a home here in the hot Las Vegas market, there are a few certain things you can do to make yourself stand out amongst the competition.
@@ -328,11 +367,11 @@ When you want to buy a home here in the hot Las Vegas market, there are a few ce
       
       <item>
         <title>Las Vegas and Henderson Market Update </title>
-        <link>localhost:4000/las-vegas-and-henderson-market-update.html</link>
+        <link>http://www.myvegasrealestateinfo.com/las-vegas-and-henderson-market-update.html</link>
         
           <category>Las Vegas Real Estate Market Update</category>
         
-        <author>Mike Misak Tchobanian</author>
+        <author>Mike Misak Chobanian</author>
         <pubDate>2017-05-09 12:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las+Vegas+Real+Estate-+Mother%2527s+Day+market+update.mp4</guid>
         <description>
@@ -353,7 +392,7 @@ Those numbers put us in a very strong seller’s market. There are more buyers t
 If you have any questions about the market conditions or are looking to buy or sell a home, feel free to give me a call or send me an email. I’m more than happy to help.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las+Vegas+Real+Estate-+Mother%2527s+Day+market+update.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.myvegasrealestateinfo.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las+Vegas+Real+Estate-+Mother%2527s+Day+market+update.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -361,7 +400,7 @@ If you have any questions about the market conditions or are looking to buy or s
 Today I’m bringing you the latest numbers in the Las Vegas and Henderson area market and wishing all the mothers out there a very Happy Mother’s Day.
 
 </itunes:subtitle>
-        <itunes:author>Mike Misak Tchobanian</itunes:author>
+        <itunes:author>Mike Misak Chobanian</itunes:author>
         <itunes:summary>
 
 Today I’m bringing you the latest numbers in the Las Vegas and Henderson area market and wishing all the mothers out there a very Happy Mother’s Day.
@@ -372,11 +411,11 @@ Today I’m bringing you the latest numbers in the Las Vegas and Henderson area 
       
       <item>
         <title>5 Listing Mistakes to Avoid in the Las Vegas Market </title>
-        <link>localhost:4000/5-listing-mistakes-to-avoid-in-las.html</link>
+        <link>http://www.myvegasrealestateinfo.com/5-listing-mistakes-to-avoid-in-las.html</link>
         
           <category>Las Vegas Real Estate Home Seller Tips</category>
         
-        <author>Mike Misak Tchobanian</author>
+        <author>Mike Misak Chobanian</author>
         <pubDate>2017-04-17 11:29:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las+Vegas+Real+Estate-+5+listing+mistakes+to+avoid+at+all+costs.mp4</guid>
         <description>
@@ -403,7 +442,7 @@ If you’re getting ready to sell your house in the upcoming spring or summer mo
 If you have any questions or you’re thinking about making a move in the Las Vegas market, give me a call or send me an email. I’m always happy to help.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las+Vegas+Real+Estate-+5+listing+mistakes+to+avoid+at+all+costs.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.myvegasrealestateinfo.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las+Vegas+Real+Estate-+5+listing+mistakes+to+avoid+at+all+costs.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -411,7 +450,7 @@ If you have any questions or you’re thinking about making a move in the Las Ve
 When you sell your house in the spring market, you want to avoid these five mistakes at all costs.
 
 </itunes:subtitle>
-        <itunes:author>Mike Misak Tchobanian</itunes:author>
+        <itunes:author>Mike Misak Chobanian</itunes:author>
         <itunes:summary>
 
 When you sell your house in the spring market, you want to avoid these five mistakes at all costs.
@@ -422,11 +461,11 @@ When you sell your house in the spring market, you want to avoid these five mist
       
       <item>
         <title>4 Tech Features That Improve a Homes Value</title>
-        <link>localhost:4000/4-tech-features-that-improve-homes-value.html</link>
+        <link>http://www.myvegasrealestateinfo.com/4-tech-features-that-improve-homes-value.html</link>
         
           <category>Las Vegas Real Estate Home Seller Tips</category>
         
-        <author>Mike Misak Tchobanian</author>
+        <author>Mike Misak Chobanian</author>
         <pubDate>2017-04-03 10:37:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las+Vegas+Real+Estate-+Buyers+love+seeing+these+in+homes.mp4</guid>
         <description>
@@ -451,7 +490,7 @@ Having the latest technology in your home will help it get more attention from b
 If you have any questions for us about selling your home or what else you can do to help it stand out, give us a call or send us an email. We look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las+Vegas+Real+Estate-+Buyers+love+seeing+these+in+homes.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.myvegasrealestateinfo.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las+Vegas+Real+Estate-+Buyers+love+seeing+these+in+homes.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -459,7 +498,7 @@ If you have any questions for us about selling your home or what else you can do
 Smart home technology has improved a lot over the years. Here’s what buyers are looking for in today’s market.
 
 </itunes:subtitle>
-        <itunes:author>Mike Misak Tchobanian</itunes:author>
+        <itunes:author>Mike Misak Chobanian</itunes:author>
         <itunes:summary>
 
 Smart home technology has improved a lot over the years. Here’s what buyers are looking for in today’s market.
@@ -470,11 +509,11 @@ Smart home technology has improved a lot over the years. Here’s what buyers ar
       
       <item>
         <title>Whats Happening in the Last Vegas Real Estate Market?</title>
-        <link>localhost:4000/whats-happening-in-last-vegas-real.html</link>
+        <link>http://www.myvegasrealestateinfo.com/whats-happening-in-last-vegas-real.html</link>
         
           <category>Las Vegas Real Estate Market Update</category>
         
-        <author>Mike Misak Tchobanian</author>
+        <author>Mike Misak Chobanian</author>
         <pubDate>2017-03-13 13:43:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las+Vegas+Real+Estate-+A+perfect+storm+for+Las+Vegas+homeowners.mp4</guid>
         <description>
@@ -495,7 +534,7 @@ If you have been thinking of selling your home, now is an excellent time. Buyers
 If you have any questions for me about the Las Vegas market or if you’re considering making a move, give me a call or send me an email. I would love to hear from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las+Vegas+Real+Estate-+A+perfect+storm+for+Las+Vegas+homeowners.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.myvegasrealestateinfo.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las+Vegas+Real+Estate-+A+perfect+storm+for+Las+Vegas+homeowners.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -503,7 +542,7 @@ If you have any questions for me about the Las Vegas market or if you’re consi
 The Las Vegas market is as active as ever. We have less than two months of inventory and a high level of demand from buyers.
 
 </itunes:subtitle>
-        <itunes:author>Mike Misak Tchobanian</itunes:author>
+        <itunes:author>Mike Misak Chobanian</itunes:author>
         <itunes:summary>
 
 The Las Vegas market is as active as ever. We have less than two months of inventory and a high level of demand from buyers.
@@ -514,11 +553,11 @@ The Las Vegas market is as active as ever. We have less than two months of inven
       
       <item>
         <title>How to Hire the Right Listing Agent </title>
-        <link>localhost:4000/how-to-hire-right-listing-agent.html</link>
+        <link>http://www.myvegasrealestateinfo.com/how-to-hire-right-listing-agent.html</link>
         
           <category>Las Vegas Real Estate Home Seller Tips</category>
         
-        <author>Mike Misak Tchobanian</author>
+        <author>Mike Misak Chobanian</author>
         <pubDate>2017-02-23 11:51:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las+Vegas+Real+Estate-+4+tips+for+hiring+a+listing+agent.mp4</guid>
         <description>
@@ -543,7 +582,7 @@ When you plan on selling your house, it is crucial to hire the right agent. How 
 Keep these four things in mind when hiring a listing agent and you will hire the right one for the job. If you have any other questions about selling your house, give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las+Vegas+Real+Estate-+4+tips+for+hiring+a+listing+agent.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.myvegasrealestateinfo.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las+Vegas+Real+Estate-+4+tips+for+hiring+a+listing+agent.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -551,7 +590,7 @@ Keep these four things in mind when hiring a listing agent and you will hire the
 Hiring the right real estate agent to sell your house is absolutely crucial. Here are four tips to help you choose the best agent for the job.
 
 </itunes:subtitle>
-        <itunes:author>Mike Misak Tchobanian</itunes:author>
+        <itunes:author>Mike Misak Chobanian</itunes:author>
         <itunes:summary>
 
 Hiring the right real estate agent to sell your house is absolutely crucial. Here are four tips to help you choose the best agent for the job.
@@ -562,11 +601,11 @@ Hiring the right real estate agent to sell your house is absolutely crucial. Her
       
       <item>
         <title>What Happens When the Appraisal Is Lower Than Sale Price?</title>
-        <link>localhost:4000/what-happens-when-appraisal-is-lower.html</link>
+        <link>http://www.myvegasrealestateinfo.com/what-happens-when-appraisal-is-lower.html</link>
         
           <category>Las Vegas Real Estate Tips</category>
         
-        <author>Mike Misak Tchobanian</author>
+        <author>Mike Misak Chobanian</author>
         <pubDate>2017-02-09 12:24:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las+Vegas+Real+Estate-+What+happens+if+your+appraisal+comes+in+low.mp4</guid>
         <description>
@@ -593,7 +632,7 @@ As a home seller, you have three options:
 If you’re thinking about selling your house and you’d like to know what it’s worth in today’s market, give me a call or send me an email. I’d be happy to help you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las+Vegas+Real+Estate-+What+happens+if+your+appraisal+comes+in+low.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.myvegasrealestateinfo.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las+Vegas+Real+Estate-+What+happens+if+your+appraisal+comes+in+low.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -601,7 +640,7 @@ If you’re thinking about selling your house and you’d like to know what it�
 What happens if you’re selling your house and the appraised value comes in lower than the purchase price? You can choose from one of these three courses of action.
 
 </itunes:subtitle>
-        <itunes:author>Mike Misak Tchobanian</itunes:author>
+        <itunes:author>Mike Misak Chobanian</itunes:author>
         <itunes:summary>
 
 What happens if you’re selling your house and the appraised value comes in lower than the purchase price? You can choose from one of these three courses of action.
@@ -612,11 +651,11 @@ What happens if you’re selling your house and the appraised value comes in low
       
       <item>
         <title>What Will the Las Vegas Market Look Like in 2017?</title>
-        <link>localhost:4000/what-will-las-vegas-market-look-like-in.html</link>
+        <link>http://www.myvegasrealestateinfo.com/what-will-las-vegas-market-look-like-in.html</link>
         
           <category>Las Vegas Real Estate Market Prediction</category>
         
-        <author>Mike Misak Tchobanian</author>
+        <author>Mike Misak Chobanian</author>
         <pubDate>2017-01-20 15:06:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las+Vegas+Real+Estate-+What+to+expect+from+our+market+in+2017.mp4</guid>
         <description>
@@ -639,7 +678,7 @@ If your house is worth less than $280,000, that’s a great place to be, because
 Overall, things are looking positive. As our population continues to grow, so will our real estate market. If you have any questions or are interested in buying or selling a house in this market, feel free to give me a call. I’d be happy to help!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las+Vegas+Real+Estate-+What+to+expect+from+our+market+in+2017.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.myvegasrealestateinfo.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las+Vegas+Real+Estate-+What+to+expect+from+our+market+in+2017.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -647,7 +686,7 @@ Overall, things are looking positive. As our population continues to grow, so wi
 After five years of appreciation, our market should see a bit of a slowdown. That slowdown should affect different price brackets in different ways.
 
 </itunes:subtitle>
-        <itunes:author>Mike Misak Tchobanian</itunes:author>
+        <itunes:author>Mike Misak Chobanian</itunes:author>
         <itunes:summary>
 
 After five years of appreciation, our market should see a bit of a slowdown. That slowdown should affect different price brackets in different ways.
@@ -658,11 +697,11 @@ After five years of appreciation, our market should see a bit of a slowdown. Tha
       
       <item>
         <title>Thanks for Your Support in 2016</title>
-        <link>localhost:4000/thanks-for-your-support-in-2016.html</link>
+        <link>http://www.myvegasrealestateinfo.com/thanks-for-your-support-in-2016.html</link>
         
           <category>Client Appreciation</category>
         
-        <author>Mike Misak Tchobanian</author>
+        <author>Mike Misak Chobanian</author>
         <pubDate>2016-12-20 12:41:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las+Vegas+Real+Estate-+Happy+holidays+from+our+team.mp4</guid>
         <description>
@@ -681,7 +720,7 @@ May you and your family have a merry Christmas and a safe, happy new year as we 
 We’re always here to help you or anyone you know who is looking to buy or sell a home in Las Vegas in 2017 and beyond. Just give me a call!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las+Vegas+Real+Estate-+Happy+holidays+from+our+team.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.myvegasrealestateinfo.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las+Vegas+Real+Estate-+Happy+holidays+from+our+team.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -689,7 +728,7 @@ We’re always here to help you or anyone you know who is looking to buy or sell
 Today I wanted to take a moment to say thanks to everyone who helped us make 2016 great.
 
 </itunes:subtitle>
-        <itunes:author>Mike Misak Tchobanian</itunes:author>
+        <itunes:author>Mike Misak Chobanian</itunes:author>
         <itunes:summary>
 
 Today I wanted to take a moment to say thanks to everyone who helped us make 2016 great.
@@ -700,11 +739,11 @@ Today I wanted to take a moment to say thanks to everyone who helped us make 201
       
       <item>
         <title>5 Huge Benefits to Selling Your Home During the Holidays</title>
-        <link>localhost:4000/5-huge-benefits-to-selling-your-home.html</link>
+        <link>http://www.myvegasrealestateinfo.com/5-huge-benefits-to-selling-your-home.html</link>
         
           <category>Las Vegas Real Estate Home Seller Tips</category>
         
-        <author>Mike Misak Tchobanian</author>
+        <author>Mike Misak Chobanian</author>
         <pubDate>2016-12-07 13:47:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -729,7 +768,7 @@ Thinking of selling your home this holiday season? Don’t hesitate. There are f
 If you have any questions or are thinking about buying or selling, please feel free to contact me so we can set up a free consultation. I look forward to hearing from you.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://www.myvegasrealestateinfo.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -737,7 +776,7 @@ If you have any questions or are thinking about buying or selling, please feel f
 As a home seller, listing your property during the holidays affords you more advantages than you would see at any other time of year.
 
 </itunes:subtitle>
-        <itunes:author>Mike Misak Tchobanian</itunes:author>
+        <itunes:author>Mike Misak Chobanian</itunes:author>
         <itunes:summary>
 
 As a home seller, listing your property during the holidays affords you more advantages than you would see at any other time of year.
@@ -746,8 +785,8 @@ As a home seller, listing your property during the holidays affords you more adv
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Las Vegas, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
-    <copyright>Mike Misak Tchobanian</copyright>
-    <media:credit role="author">Mike Misak Tchobanian</media:credit>
+    <copyright>Mike Misak Chobanian</copyright>
+    <media:credit role="author">Mike Misak Chobanian</media:credit>
     <media:rating>nonadult</media:rating>
     <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Vegas Capital Realty - your professional Las Vegas Real Estate Agents.</media:description>
   </channel>
