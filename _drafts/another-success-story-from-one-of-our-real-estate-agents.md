@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Whitney Muncey is here to share her experience with Jeff Cook Real Estate and
   explain why she chose our team over other brokerages.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/2018/SC+Real+Estate+Agent-+Another+Success+Story+From+One+of+Our+Real+Estate+Agents.mp4
 pullquote: Jeff Cook Real Estate changed my life in many ways.
 enclosure_type: video/mp4
 enclosure_time:
