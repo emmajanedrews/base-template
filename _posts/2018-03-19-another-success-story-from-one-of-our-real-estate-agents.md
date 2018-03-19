@@ -12,7 +12,7 @@ enclosure: >-
 pullquote: Jeff Cook Real Estate changed my life in many ways.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/jeff-cook---whitney---no-play.jpg
 youtube_code: EbZZhnWDg7c
 ---
