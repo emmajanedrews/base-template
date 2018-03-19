@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>localhost:4000/understanding-how-property-taxes-are-calculated.html</loc>
+<lastmod>2018-03-16T13:45:31-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/how-to-understand-escrow-better.html</loc>
+<lastmod>2018-02-27T14:51:00-06:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/6-tips-that-will-make-your-home-shine-during-a-showing.html</loc>
+<lastmod>2018-02-05T04:16:42-06:00</lastmod>
+</url>
+<url>
 <loc>localhost:4000/for-any-question-big-or-small-ask-sarita.html</loc>
 <lastmod>2018-01-09T04:25:00-06:00</lastmod>
 </url>
