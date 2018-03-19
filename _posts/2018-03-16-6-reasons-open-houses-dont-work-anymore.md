@@ -34,3 +34,7 @@ Do you really need an open house to sell your house? Actually, you don’t. Ther
 **5. Your home shows better online.** We have our photographer take some great listing photos so buyers can see your home online without having to go to an open house. Your house often looks better in those pictures than in person.&nbsp;
 
 **6. It’s a passive method for selling your home.** With an open house, you’re basically waiting for someone to show up and buy your home. Our real estate team uses an active marketing program. We are out there every day talking to buyers, other agents, and sellers who might need to buy a home to see if they want to buy a home like yours or if they know someone who does.
+
+If you want to sell your home, an open house is not necessary. You just need to show your home by appointment and make sure those buyers are pre-qualified.
+
+If you have any other questions about selling your home, just give me a call or send me an email. I would be happy to help you!
