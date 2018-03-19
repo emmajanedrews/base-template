@@ -1,8 +1,10 @@
 audit_header: false
-title: Salt Lake City Real Estate Video Blog with Joshua Stern
-description: 'Salt Lake City Utah best Realtors are on The Stern Team, led by Joshua Stern. Follow us for latest market info and be prepared to buy or sell real estate.'
+title: Millionaire Agent Mindset
+description: Salt Lake City Utah best Realtors are on The Stern Team, led by Joshua Stern. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!
 show_custom_links: true
 custom_links:
+  - title: Millionaire Agent Mindset
+    url: http://millionaireagentmindset.com/
   - title: About
     url: http://www.viewsaltlakecityareahomes.com/about/
   - title: Testimonials
@@ -14,8 +16,6 @@ client:
     The Stern Team is a full service real estate team that has helped sell and purchase thousands of homes since 2002 - currently about a property a day! Commitment to servicing their clients and the “client experience” has lead to over 83% of their business coming by referral.
 
     The Stern Team motto is “clients don’t care how much we know, until they know how much we care”. Their philosophy is that when you take care of others needs, your needs are automatically taken care of. The Stern Team is one of the top real estate groups in North America and the #1 resale team in Utah.
-
-    If you’re looking to buy, sell or invest in a home to live in Salt Lake, Joshua Stern and his team are here to ensure you have an excellent real estate experience.
   market: Salt Lake City
   brand: The Stern Team
   brokerage: KW Salt Lake City Keller Williams Real Estate
@@ -26,12 +26,11 @@ client:
   phone2_type:
   email: josh@servingsaltlake.com
   url: http://sternteam.org
-  first_CTA_text: Home Evaluation
-  first_CTA_URL: http://www.viewsaltlakecityareahomes.com/sell/
-  second_CTA_text: Home Search
-  second_CTA_URL: http://www.viewsaltlakecityareahomes.com/
+  first_CTA_text: Request a Consultation
+  first_CTA_URL: /contact/
+
   phone_CTA: true
-emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1807954';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+emma_form:
 welcome_headline: Get Educated About Real Estate
 welcome_text_markdown: |
   Our mission at The Stern Team is to be your best resource for real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. Subscribe to this blog to get the latest news on local market trends and receive expert tips for buying or selling a home.
@@ -47,7 +46,7 @@ socials:
   zillow_url:  http://www.zillow.com/profile/sternteam/
   trulia_url:
   yelp_url: http://www.yelp.com/biz/joshua-stern-salt-lake-city
-  podcast_url: https://itunes.apple.com/us/podcast/salt-lake-county-real-estate/id1183406593?mt=2
+  podcast_url:
 podcast:
   title: Salt Lake City Real Estate Podcast with Joshua Stern
   categories: News &amp; Politics
