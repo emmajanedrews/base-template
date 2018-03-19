@@ -30,7 +30,7 @@ Currently, we have 14,483 listings on the market. This is a 5.5% increase in inv
 
 There have been 6,040 sales in the last 30 days, which is up 5.17% from a week ago.
 
-Now, let’s look at the the freehold market. In the freehold market there are 10,387 listings, with 3,646 freehold properties having sold in the last 30 days. Inventory is at 2.8 months of supply. **This is a great sign for anyone currently looking to sell in this market.**
+Now, let’s look at the freehold market. In the freehold market, there are 10,387 listings, with 3,646 freehold properties having sold in the last 30 days. Inventory is at 2.8 months of supply. **This is a great sign for anyone currently looking to sell in this market.**
 
 The condo market, however, is seeing what are likely the highest profits right now. There are currently 4,096 listings on the condo market, which is up 3.6% from last week. Sales are also up in this market. There have been 2,394 sales in the condo market in the last 30 days. As far as supply, the condo market is holding steady at 1.7 months of inventory.
 
@@ -40,7 +40,7 @@ Overall, our current market is very steady. But what about last year at this sam
 
 **In 2017, prices were higher as more homes were sold. Since then, the number of homes sold has dropped by 34.9% and the average price has gone down by 12.4%.**
 
-Specifically, detached home prices are down 17.2%, semi home prices are down 8.6%, and townhouse prices are down 2.9%. Condos, on the other hand, have had an average price increase of 10.1%. We can likely expect condo prices to continue to rise throughout the year.
+Specifically, detached home prices are down 17.2%, semi-detached home prices are down 8.6%, and townhouse prices are down 2.9%. Condos, on the other hand, have had an average price increase of 10.1%. We can likely expect condo prices to continue to rise throughout the year.
 
 In the GTA, we are now a condo city. This is something you’ll likely hear more and more about in the coming months.
 
