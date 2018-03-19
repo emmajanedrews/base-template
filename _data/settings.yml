@@ -1,5 +1,5 @@
 audit_header: false
-title: -- CLIENT BRAND --
+title: Northern Virginia Real Estate Video Blog with Jody Donaldson
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -22,7 +22,7 @@ client:
   email: jody@thedonaldsonteam.com
   url: http://thedonaldsonteam.com
 
-emma_form:
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808280';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 
 CTAs:
   first_CTA_text: Home Valuation
@@ -80,7 +80,7 @@ socials:
   podcast_url:
 
 podcast:
-  title:
+  title: Northern Virginia Real Estate Podcast with Jody Donaldson
   categories: Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
