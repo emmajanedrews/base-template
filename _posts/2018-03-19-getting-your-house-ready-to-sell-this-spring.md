@@ -6,11 +6,11 @@ tags:
   - Home Seller Tips
   - Real Estate
 excerpt: >-
-  It’s almost spring! That means that listing seasons is almost underway. That
-  in mind, I have three tips you can use to prepare your home for sale—and to
-  get more money from it. First, be sure to declutter your home. Get your
-  personal knick-knacks off any surfaces and off the floor. Doing so will appear
-  to add more space to your home. For the other tips, watch my latest video.
+  It’s almost spring! That means that listing season is almost underway. That in
+  mind, I have three tips you can use to prepare your home for sale—and to get
+  more money from it. First, be sure to declutter your home. Get your personal
+  knick-knacks off any surfaces and off the floor. Doing so will appear to add
+  more space to your home. For the other tips, watch my latest video.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Ben+Parojcic/Videos/2018/Ben+Parojcic+Remax+%257C+3+Tips+to+Get+Your+Home+Ready+for+Sale.mp4
 pullquote: 'Decluttering is simple, but not always easy.'
