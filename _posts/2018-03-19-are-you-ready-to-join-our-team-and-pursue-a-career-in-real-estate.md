@@ -16,7 +16,7 @@ youtube_alternate_image: /uploads/tad-wicker--good-fit-for-our-team-youtube.jpg
 youtube_code: 'https://youtu.be/sPZwV07t-jo'
 ---
 
-{% include youtube.html %}<br><br>I’ve got some very exciting news: The Wicker Homes Group is hiring!<br><br>We’re looking for two people who are enthusiastic about seeking a career in real estate. If hired, you would be mentored by me, personally. As a 30-year veteran of the business, I have a lot to offer new agents.
+{% include youtube.html %}<br>I’ve got some very exciting news: The Wicker Homes Group is hiring!<br><br>We’re looking for two people who are enthusiastic about seeking a career in real estate. If hired, you would be mentored by me, personally. As a 30-year veteran of the business, I have a lot to offer new agents.
 
 {% include pullquote.html %}
 
