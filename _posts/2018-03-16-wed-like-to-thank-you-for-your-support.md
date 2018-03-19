@@ -27,6 +27,6 @@ First, I would like to thank all of our clients, friends, and family for your su
 
 {% include pullquote.html %}
 
-**Because of you, we were named the No. 1 Listing Team out of Coldwell Banker in Minnesota!**Out of all 15 offices, we were No. 1 last year. We are so honored. Thank you so much for helping us reach this achievement!
+**Because of you, we were named the No. 1 Listing Team out of Coldwell Banker in Minnesota!&nbsp;**Out of all 15 offices, we were No. 1 last year. We are so honored. Thank you so much for helping us reach this achievement!
 
 If you have any real estate questions, please don’t hesitate to reach out to us. My team and I would be happy to help you. Let’s make 2018 another great year!
