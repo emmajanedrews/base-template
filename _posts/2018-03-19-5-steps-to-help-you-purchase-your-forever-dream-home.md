@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/jeff-cook-mar2018-2.jpg
-youtube_code:
+youtube_code: mOZEV6lM4x8
 ---
 
 {% include youtube.html %}
