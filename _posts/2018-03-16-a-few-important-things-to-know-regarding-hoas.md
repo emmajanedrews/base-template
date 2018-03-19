@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Few Important Things to Know Regarding HOAs
-date: 2018-03-16 19:54:59
+date: 2018-03-16 19:54:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/hoas-youtube.jpg
-youtube_code: biSEJ2Yucbw
+youtube_code: tBVhyR4NvlI
 ---
 
 {% include youtube.html %}
