@@ -29,7 +29,7 @@ A lot of our clients have been telling us lately that they don’t want to get i
 
 Inventory went down quite a bit from December to January. I haven’t looked at the February numbers yet, but I’m guessing it hasn’t gone up a whole bunch.
 
-**Bidding wars may sound intimidating, but they are pretty subjective.** I was involved in a transaction last week where there were multiple offers on a property. The seller called for everyone’s best offer, and the winning bid was $5,000 below listing price.
+**Bidding wars may sound intimidating, but they are pretty subjective.** I was involved in a transaction last week where there were multiple offers on the property. The seller called for everyone’s best offer, and the winning bid was $5,000 below listing price.
 
 {% include pullquote.html %}
 
