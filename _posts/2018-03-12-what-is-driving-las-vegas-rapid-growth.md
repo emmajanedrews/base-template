@@ -1,13 +1,14 @@
 ---
 layout: post
 title: What Is Driving Las Vegas’ Rapid Growth?
-date: 2018-03-12 20:49:35
+date: 2018-03-12 20:49:00
 tags:
   - Real Estate
 excerpt: >-
   What is driving the massive growth in Las Vegas? Today, I have three reasons
   that contribute.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las+Vegas+Real+Estate+Why+is+Las+Vegas+growing.mp4
 pullquote: There are a lot of jobs that are being created by the construction field.
 enclosure_type: video/mp4
 enclosure_time:
