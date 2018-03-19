@@ -27,7 +27,7 @@ The home’s updated kitchen comes complete with stainless steel appliances and 
 
 {% include pullquote.html %}
 
-On top of it’s many amenities, this property is located within the acclaimed Leander Independent School District. So, whether you are looking for a vacation property or a fabulous year-round home, this property has a lot to offer.&nbsp;
+On top of its many amenities, this property is located within the acclaimed Leander Independent School District. So, whether you are looking for a vacation property or a fabulous year-round home, this property has a lot to offer.&nbsp;
 
 **The property is located at 14103 FM 2769, Leander, Texas and is listed at $875,000. To access home details on the property’s Zillow page, click [here](https://www.zillow.com/homedetails/14103-Fm-2769-Leander-TX-78641/29375179_zpid/).**&nbsp;
 
