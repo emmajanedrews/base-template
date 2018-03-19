@@ -32,8 +32,8 @@ client:
   url: http://www.WillieMiranda.com
 
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_text: Request a Consultation
+  first_CTA_URL: /contact/
   # second_CTA_text: Home Search
   # second_CTA_URL: /homesearch/
 
