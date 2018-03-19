@@ -48,7 +48,7 @@ permalink: /strategy-call/
 
 <p>I also figure we’ll do business together someday and I would like to get to know you. I enjoy seeing real estate agents succeed. It’s fulfilling, and I love it!</p>
 
-<p><strong>I invite you to request a free one-on-one business strategy meeting with me.</strong> We can meet for coffee, or if it’s more convenient, a phone call or a video conference works, too.</p>
+<p><strong>I invite you to request a free one-on-one business strategy meeting with me.</strong> We can meet for coffee, or if it’s more convenient, a phone call or a video conference works too.</p>
 
 <p>I have a questionnaire I would like you fill out so that when we meet I’m prepared to offer you specific advice. When you request a call, I’ll email it to you to complete before the meeting.</p>
 
