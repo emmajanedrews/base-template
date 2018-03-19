@@ -5,6 +5,8 @@ show_custom_links: true
 custom_links:
   - title: About
     url: http://asksarita.com/about
+  - title: Events
+    url: /
 
 client:
   name: Sarita Dua
