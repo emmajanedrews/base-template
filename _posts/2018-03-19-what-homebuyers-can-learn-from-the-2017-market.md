@@ -37,7 +37,7 @@ You need an agent who is going to pay attention so that you can react quickly wh
 
 On the bright side, interest rates are still good. There are rumors that the Fed will raise rates a few more times this year, but that may or may not affect mortgage rates.
 
-Ultimately, if you want to buy a home, **the 2017 market has taught us that you need to be prepared.**Have your pre-qualification letter ready. If you are paying cash, make sure you have proof of funds. Get that personalized letter written and put together a great offer.
+Ultimately, if you want to buy a home, **the 2017 market has taught us that you need to be prepared.&nbsp;**Have your pre-qualification letter ready. If you are paying cash, make sure you have proof of funds. Get that personalized letter written and put together a great offer.
 
 When you work with our team, we’ll send the offer and follow up with the seller’s agent to put you in the best position in a market that’s increasingly competitive.
 
