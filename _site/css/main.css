@@ -2663,6 +2663,12 @@ table tr, table td {
   margin: 0 auto;
   color: #000; }
 
+.recruiting-page-lg {
+  Font-size: 20px;
+  width: 75%;
+  margin: 0 auto;
+  color: #000; }
+
 .page-logo {
   width: 90%;
   max-width: 40rem;
