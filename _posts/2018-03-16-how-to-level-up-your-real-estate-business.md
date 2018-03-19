@@ -31,6 +31,6 @@ The class is around three hours long, but it’s filled with content that will h
 
 Two of the buzzwords we use in our complete agent development are proactive and intentional. That’s where most agents struggle. They aren’t being consistent and proactive and completing the necessary activities to generate the results you want.
 
-Space is limited so make sure you get signed up soon. You can [**register here.**](http://www.joinrmxprofessionals.com/Registration)
+Space is limited so make sure you get signed up soon. [**You can register here.**](http://www.joinrmxprofessionals.com/Registration)
 
 If you have any questions about the class or the real estate business in general, don’t hesitate to give me a call or send me an email. I would love to hear from you.
