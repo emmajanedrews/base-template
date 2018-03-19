@@ -22,7 +22,7 @@ client:
   email: jody@thedonaldsonteam.com
   url: http://thedonaldsonteam.com
 
-emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808280';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+emma_form:
 
 CTAs:
   first_CTA_text: Home Valuation
