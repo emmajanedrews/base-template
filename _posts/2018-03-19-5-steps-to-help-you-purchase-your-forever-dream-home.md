@@ -12,7 +12,7 @@ enclosure: >-
 pullquote: Don’t make large purchases during the home buying process.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/jeff-cook-mar2018-2.jpg
 youtube_code: mOZEV6lM4x8
 ---
