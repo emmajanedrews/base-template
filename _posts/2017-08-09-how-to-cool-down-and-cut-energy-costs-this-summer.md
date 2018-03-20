@@ -11,7 +11,7 @@ enclosure:
 pullquote: These are simple things you can do to save money and stay cool.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/travis-chatwin-9-ways-to-stay-cool-and-cut-costs-youtube.jpg
 youtube_code: 'https://youtu.be/zBgpV-nPsKU'
 ---
