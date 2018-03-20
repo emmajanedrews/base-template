@@ -7,7 +7,8 @@ date: 2018-03-07 22:06:00
 excerpt: >-
   What questions should you be asking prospective real estate agents to ensure
   that they’ll help you succeed?
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Chris+Gorman/Triangle+Area+Real+Estate-+Ask+Your+Agent+These+Questions.mp4
 pullquote: >-
   These questions will give you an indication of how well they’re going to be
   able to help you sell.
