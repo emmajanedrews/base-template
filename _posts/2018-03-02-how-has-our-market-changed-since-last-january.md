@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   How has our market changed since last year? Today, I’ll be taking a look at
   the numbers from our January market compared to what we saw in January 2017.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jody+Donaldson/2018/Northern+Virginia+Real+Estate+Agent-+How+Has+Our+Market+Changed+Since+Last+January%253F.mp4
 pullquote: >-
   Northern Virginia definitely has pocketed areas, but our market is still
   strong.
