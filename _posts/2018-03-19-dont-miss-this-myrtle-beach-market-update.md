@@ -21,11 +21,11 @@ youtube_code: S25-_tS6GrI
 
 People always ask me, “How’s the market doing?”
 
-Today, I want to bring some insight to this question by going over a few year over year market statistics.
+Today, I want to bring some insight to this question by going over a few year-over-year market statistics.
 
-The median sale price for single-family homes has increased by 4.1% in 2017. &nbsp;The median sale price for condos over that same period increased by 6.5%.
+The median sale price for single-family homes increased by 4.1% in 2017. &nbsp;The median sale price for condos over that same period increased by 6.5%.
 
-In terms of inventory, the supply of single-family homes has decreased by .5% in 2017. Inventory for condos went down by over 20%.&nbsp;
+In terms of inventory, the supply of single-family homes decreased by 0.5% in 2017. Inventory for condos went down by over 20%.&nbsp;
 
 {% include pullquote.html %}
 
