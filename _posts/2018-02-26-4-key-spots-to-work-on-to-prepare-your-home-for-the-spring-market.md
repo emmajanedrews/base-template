@@ -14,8 +14,8 @@ pullquote: >-
   for the spring market
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /uploads/no-4.jpg
+use_youtube_image: true
+youtube_alternate_image:
 youtube_code: 3s-0FFTcYpA
 ---
 
