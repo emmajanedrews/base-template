@@ -61,8 +61,8 @@ socials:
   twitter_url: https://twitter.com/getAZrealestate
   instagram_url:
   pinterest_url:
-  zillow_url: https://www.zillow.com/profile/getAZrealestate/
-  trulia_url: https://www.trulia.com/profile/patrick-o-sullivan-agent-gilbert-az-zglv18x2/overview
+  # zillow_url: https://www.zillow.com/profile/getAZrealestate/
+  # trulia_url: https://www.trulia.com/profile/patrick-o-sullivan-agent-gilbert-az-zglv18x2/overview
   yelp_url:
   podcast_url:
 
@@ -78,7 +78,7 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 20
   hero_text: -- MARKET -- Real Estate Careers and Training Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg

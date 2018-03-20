@@ -1586,7 +1586,7 @@ label.tree-toggle {
 
 .site-logo {
   width: 90%;
-  max-width: 40rem;
+  max-width: 20rem;
   -webkit-filter: drop-shadow(0px 2px 7px rgba(0, 0, 0, 0.75));
   filter: drop-shadow(0px 2px 7px rgba(0, 0, 0, 0.75)); }
 
@@ -1594,7 +1594,7 @@ label.tree-toggle {
   color: white;
   text-shadow: 0px 2px 7px rgba(0, 0, 0, 0.75);
   text-transform: uppercase;
-  font-size: 5rem;
+  font-size: 3rem;
   font-weight: bold;
   padding-bottom: 4rem;
   padding-top: 1rem;
@@ -1609,17 +1609,17 @@ label.tree-toggle {
 @media (max-width: 760px) {
   .site-logo {
     max-width: 20rem;
-    margin-top: 4rem; }
+    margin-top: 3rem; }
 
   .site-title {
-    font-size: 5rem; } }
+    font-size: 3rem; } }
 @media (max-width: 600px) {
   .site-logo {
     max-width: 15rem;
     margin-top: 2rem; }
 
   .site-title {
-    font-size: 3.5rem; }
+    font-size: 3rem; }
 
   .cta {
     padding: 1rem; } }
@@ -2806,7 +2806,7 @@ form select {
 
 .page-logo {
   width: 90%;
-  max-width: 40rem;
+  max-width: 20rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
   -webkit-filter: drop-shadow(0px 2px 7px rgba(0, 0, 0, 0.75));
