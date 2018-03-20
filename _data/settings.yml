@@ -73,9 +73,9 @@ socials:
   twitter_url: https://twitter.com/frankgrayabby
   instagram_url:
   pinterest_url:
-  zillow_url: https://www.zillow.com/profile/frankgray7/
-  trulia_url:
-  yelp_url: https://www.yelp.com/biz/frank-gray-abby-realty-the-woodlands
+  # zillow_url: https://www.zillow.com/profile/frankgray7/
+  # trulia_url:
+  # yelp_url: https://www.yelp.com/biz/frank-gray-abby-realty-the-woodlands
   podcast_url:
 
 podcast:
@@ -96,7 +96,7 @@ images:
   team_headshot_5: /img/trina.jpg
   team_headshot_6: /img/michelle.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 30
+  logo_width_number: 20
   hero_text: Let's go there, together.
   hero_background_hex: '#91CEC6'
   hero_image_path: /img/background.jpg
