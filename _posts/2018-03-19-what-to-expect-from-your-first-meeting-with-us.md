@@ -19,7 +19,7 @@ youtube_code: yFc36SIEOJo
 
 What’s it like to meet with the Salas Team? Whatever your real estate needs, we are here to help. Today, I’d like to go over what you can expect when you start working with us.
 
-**If you are looking to purchase a property, your first meeting with us will be a buyer’s consultation.** During this consultation we’ll discuss your wants and needs. We’ll go over where you’d like to live, what kind of property you’re looking for, and other specifics. Next, we’ll explain the entire process of purchasing a home using what we call our “home buyer roadmap.”<br><br>**If you are looking to sell a home, the process will also begin with us meeting for a consultation.** We will visit your property, discuss your intentions for the sale, and talk about price and value. We’ll also point out any areas in your home that might benefit from repairs or updates.
+**If you are looking to purchase a property, your first meeting with us will be a buyer’s consultation.** During this consultation, we’ll discuss your wants and needs. We’ll go over where you’d like to live, what kind of property you’re looking for, and other specifics. Next, we’ll explain the entire process of purchasing a home using what we call our “homebuyer roadmap.”<br><br>**If you are looking to sell a home, the process will also begin with us meeting for a consultation.** We will visit your property, discuss your intentions for the sale, and talk about price and value. We’ll also point out any areas in your home that might benefit from repairs or updates.
 
 {% include pullquote.html %}
 
