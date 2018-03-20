@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Key Spots to Work on to Prepare Your Home for the Spring Market
-date: 2018-02-26 21:19:10
+date: 2018-02-26 21:19:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -11,7 +11,7 @@ enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Tina+Caul/Greater+Raleigh+Real+Estate-+4+Key+Spots+to+Work+on+to+Prepare+Your+Home+for+the+Spring+Market.mp4
 pullquote: >-
   These four areas should be of the utmost importance when prepping your home
-  for the spring market.
+  for the spring market
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
