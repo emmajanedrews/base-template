@@ -27,7 +27,7 @@ One of the findings at the conference was that the flood risk for Houston was gr
 
 {% include pullquote.html %}
 
-Jim Blackburn, co-director of SSPEED, says “[...] **The 100-year flood plain is absolutely obsolete****.**” Instead, he suggests that the city of Houston should use a 500-year flood plain in the interim and use that as their development standard until the new flood maps are completed.&nbsp;
+Jim Blackburn, co-director of SSPEED, says “[…] **The 100-year floodplain is absolutely obsolete****.**” Instead, he suggests that the city of Houston should use a 500-year floodplain in the interim and use that as their development standard until the new flood maps are completed.&nbsp;
 
 Additionally, he has other great insights and recommendations in his paper called “The Role of Public and Private Stakeholders in Solving Houston’s Flooding Problem.”
 
