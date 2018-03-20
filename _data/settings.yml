@@ -88,9 +88,9 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   broker_logo_path: /img/bhhs.png
-  logo_width_number: 80
+  logo_width_number: 50
   # hero_text: Real Estate Video Blog
-  hero_background_hex: '#094264'
+  hero_background_hex: '#fff'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
@@ -104,7 +104,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: "#000"
+  shadow_color: "#fff"
 
 buttons:
   button_radius_number: 0
