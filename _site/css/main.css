@@ -1599,36 +1599,39 @@ label.tree-toggle {
 
 .site-logo {
   width: 90%;
-  max-width: 65rem; }
+  max-width: 40rem;
+  -webkit-filter: drop-shadow(0px 2px 7px #033867);
+  filter: drop-shadow(0px 2px 7px #033867); }
 
 .site-title {
   color: white;
-  text-shadow: 0px 2px 7px #000;
+  text-shadow: 0px 2px 7px #033867;
   text-transform: uppercase;
-  font-size: 6.5rem;
+  font-size: 3rem;
+  font-weight: bold;
   padding-bottom: 4rem;
   margin-bottom: 0; }
 
 @media (max-width: 1100px) {
   .site-title {
-    font-size: 5rem; } }
+    font-size: 3rem; } }
 @media (max-width: 1000px) {
   .site-logo {
-    max-width: 20rem; } }
+    max-width: 40rem; } }
 @media (max-width: 760px) {
   .site-logo {
-    max-width: 20rem;
+    max-width: 40rem;
     margin-top: 4rem; }
 
   .site-title {
-    font-size: 5rem; } }
+    font-size: 3rem; } }
 @media (max-width: 600px) {
   .site-logo {
-    max-width: 15rem;
+    max-width: 40rem;
     margin-top: 2rem; }
 
   .site-title {
-    font-size: 3.5rem; }
+    font-size: 3rem; }
 
   .cta {
     padding: 1rem; } }
@@ -2047,7 +2050,7 @@ table tr, table td {
   margin: 2rem 0;
   color: white;
   text-transform: uppercase;
-  text-shadow: 0px 2px 7px #000; }
+  text-shadow: 0px 2px 7px #033867; }
 .post .headshot {
   width: 100%;
   max-width: 15rem;
@@ -2062,7 +2065,7 @@ table tr, table td {
 
 .tag-container {
   color: white;
-  text-shadow: 0px 2px 7px #000;
+  text-shadow: 0px 2px 7px #033867;
   margin-bottom: 1rem; }
 
 .tag {
@@ -2073,7 +2076,7 @@ table tr, table td {
 .author-attribution {
   color: white;
   font-weight: 300;
-  text-shadow: 0px 2px 7px #000;
+  text-shadow: 0px 2px 7px #033867;
   margin-bottom: 2rem;
   font-style: italic; }
   .author-attribution a {
@@ -2906,11 +2909,11 @@ form select {
 
 .page-logo {
   width: 90%;
-  max-width: 65rem;
+  max-width: 40rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
-  -webkit-filter: drop-shadow(0px 2px 7px #000);
-  filter: drop-shadow(0px 2px 7px #000); }
+  -webkit-filter: drop-shadow(0px 2px 7px #033867);
+  filter: drop-shadow(0px 2px 7px #033867); }
 
 .page-hero-img {
   background-position: center;
@@ -2930,14 +2933,14 @@ form select {
   display: block;
   margin: 0 auto 2rem auto; }
 
-.mySlides {
-  position: relative;
-  width: 50%;
-  margin: 0 auto; }
+.mySlides img {
+  display: block;
+  margin: 0 auto;
+  width: 50%; }
 
 .slide-container {
   color: #000;
-  padding: 3rem 10rem; }
+  padding: 3rem 0; }
 
 .slide-area {
   display: block;

@@ -69,9 +69,9 @@ socials:
   twitter_url: https://twitter.com/asksarita
   instagram_url:
   pinterest_url:
-  trulia_url: http://www.trulia.com/profile/sarita-dua-agent-portland-or-573316/overview
-  zillow_url: http://www.zillow.com/profile/asksarita/
-  yelp_url: http://www.yelp.com/biz/asksarita-team-keller-williams-realty-portland
+  # trulia_url: http://www.trulia.com/profile/sarita-dua-agent-portland-or-573316/overview
+  # zillow_url: http://www.zillow.com/profile/asksarita/
+  # yelp_url: http://www.yelp.com/biz/asksarita-team-keller-williams-realty-portland
   podcast_url: https://itunes.apple.com/us/podcast/portland-real-estate-podcast/id1183943532?mt=2
 
 podcast:
@@ -86,8 +86,8 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 65
-  hero_text: Portland Real Estate Video Blog
+  logo_width_number: 40
+  # hero_text: Portland Real Estate Video Blog
   hero_background_hex: '#094264'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
@@ -102,7 +102,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: "#000"
+  shadow_color: "#033867"
 
 buttons:
   button_radius_number: 0
