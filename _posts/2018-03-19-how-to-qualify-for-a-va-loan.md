@@ -27,7 +27,7 @@ First, though, I want to explain the three main benefits of the VA loan:
 
 That said, there are two sides to eligibility requirements. One is the individual obtaining the loan, and the second is the property itself.
 
-The property must be VA-approved. This is usually not an issue for a single-family residence. The appraiser will determine if the property is VA approved. The VA will not allow you to overpay for a property, so the appraised price does have to line up with the purchase price.
+The property must be VA-approved. This is usually not an issue for a single-family residence. The appraiser will determine if the property is VA-approved. The VA will not allow you to overpay for a property, so the appraised price does have to line up with the purchase price.
 
 {% include pullquote.html %}
 
