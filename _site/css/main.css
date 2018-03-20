@@ -1260,6 +1260,12 @@ html[xmlns] .flexslider .slides {
     .cta-button:hover a {
       color: #fff; }
 
+@media (max-width: 1350px) {
+  .cta-button {
+    font-size: 16px;
+    padding: 8px;
+    left: 75px;
+    right: 75px; } }
 #welcome-box form {
   padding-left: 30px; }
 
@@ -1585,7 +1591,7 @@ label.tree-toggle {
 
 .site-logo {
   width: 90%;
-  max-width: 40rem;
+  max-width: 30rem;
   -webkit-filter: drop-shadow(0px 2px 7px #000);
   filter: drop-shadow(0px 2px 7px #000); }
 
@@ -1593,7 +1599,8 @@ label.tree-toggle {
   color: white;
   text-shadow: 0px 2px 7px #000;
   text-transform: uppercase;
-  font-size: 6.5rem;
+  font-size: 3rem;
+  font-weight: bold;
   margin-bottom: 0; }
 
 .apply-button {
@@ -1605,7 +1612,7 @@ label.tree-toggle {
 
 @media (max-width: 1100px) {
   .site-title {
-    font-size: 5rem; } }
+    font-size: 3rem; } }
 @media (max-width: 1000px) {
   .site-logo {
     max-width: 20rem; } }
@@ -1615,14 +1622,14 @@ label.tree-toggle {
     margin-top: 4rem; }
 
   .site-title {
-    font-size: 5rem; } }
+    font-size: 3rem; } }
 @media (max-width: 600px) {
   .site-logo {
     max-width: 15rem;
     margin-top: 2rem; }
 
   .site-title {
-    font-size: 3.5rem; }
+    font-size: 3rem; }
 
   .cta {
     padding: 1rem; } }
@@ -2899,7 +2906,7 @@ form select {
 
 .page-logo {
   width: 90%;
-  max-width: 40rem;
+  max-width: 30rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
   -webkit-filter: drop-shadow(0px 2px 7px #000);
