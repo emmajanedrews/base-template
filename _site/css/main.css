@@ -1260,6 +1260,12 @@ html[xmlns] .flexslider .slides {
     .cta-button:hover a {
       color: #fff; }
 
+@media (max-width: 1350px) {
+  .cta-button {
+    font-size: 16px;
+    padding: 8px;
+    left: 75px;
+    right: 75px; } }
 #welcome-box form {
   padding-left: 30px; }
 
@@ -1598,17 +1604,17 @@ label.tree-toggle {
     font-size: 5rem; } }
 @media (max-width: 1000px) {
   .site-logo {
-    max-width: 20rem; } }
+    max-width: 25rem; } }
 @media (max-width: 760px) {
   .site-logo {
-    max-width: 20rem;
+    max-width: 25rem;
     margin-top: 4rem; }
 
   .site-title {
     font-size: 5rem; } }
 @media (max-width: 600px) {
   .site-logo {
-    max-width: 15rem;
+    max-width: 20rem;
     margin-top: 2rem; }
 
   .site-title {
@@ -2939,8 +2945,7 @@ form select {
   color: #E71D2F; }
 
 .fa-bars {
-  color: #fff; }
+  color: #E71D2F; }
 
 .navbar-andross .navbar-brand {
-  color: #fff;
-  margin-top: 10px; }
+  color: #E71D2F; }
