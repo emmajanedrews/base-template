@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Do Rising Interest Rates Mean for You?
-date: 2018-03-20 19:40:11
+date: 2018-03-20 19:40:00
 tags:
 excerpt: >-
   If you’re thinking about upgrading your property, refinancing your property to
@@ -12,8 +12,8 @@ enclosure: >-
 pullquote: Act now before things get more expensive.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/sergio-youtube-01.jpg
 youtube_code: qiTLl6sgMbo
 ---
 
