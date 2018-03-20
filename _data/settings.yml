@@ -61,8 +61,8 @@ socials:
   twitter_url: https://twitter.com/danellisonteam
   instagram_url:
   pinterest_url:
-  zillow_url: http://www.zillow.com/profile/danellison/
-  trulia_url: http://www.trulia.com/profile/dan-ellison-agent-sacramento-ca-zgj14jlv/overview
+  # zillow_url: http://www.zillow.com/profile/danellison/
+  # trulia_url: http://www.trulia.com/profile/dan-ellison-agent-sacramento-ca-zgj14jlv/overview
   yelp_url:
   podcast_url:
 
@@ -78,7 +78,7 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 30
   hero_text: -- MARKET -- Real Estate Careers and Training Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
