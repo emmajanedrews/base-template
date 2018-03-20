@@ -7,7 +7,7 @@
     <description>A Podcast about Central Iowa Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</description>
     <language>en</language>
     <managingEditor>Misty SOLDwisch</managingEditor>
-    <lastBuildDate>2018-03-09 16:28:04 -0600</lastBuildDate>
+    <lastBuildDate>2018-03-20 15:06:27 -0500</lastBuildDate>
     <media:copyright>Misty SOLDwisch</media:copyright>
     <media:thumbnail url="http://bebetterdsm.com/img/podcast.jpg"/>
     <media:keywords>Central Iowa Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</media:keywords>
@@ -24,6 +24,47 @@
     <itunes:summary>A Podcast about Central Iowa Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>Sellers, Beware of These 3 Myths</title>
+        <link>http://bebetterdsm.com/sellers-beware-of-these-3-myths.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2018-03-16 11:26:29 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Biggest+Seller+Mistakes.mp4</guid>
+        <description>
+
+As a seller, there are three main real estate myths that you need to ignore when putting your home on the market.
+
+Myth #1: You need to raise your listing price to leave room for negotiation.
+
+This is a tough one because it’s been reinforced time and time again, but just because people say it doesn’t mean it’s true. In our Central Iowa market, homes typically sell very close to their list price when they’re priced for today’s market. Depending on your home’s location and what type of home it is, it’s easy to anticipate getting anywhere from 98% to 100% of your list price. When we prepare a market analysis for our sellers, we give them an idea of what to anticipate and structure their pricing strategy based on those two factors.
+
+Myth #2: All homes sell in springtime, so it’s the only time to put your home on the market.
+
+While it’s true that a lot of people are fond of how their home looks in the springtime when everything’s in bloom, the truth is that homes sell every month of the year in our market. There are pros and cons to listing at any time of the year, so don’t worry about timing the market perfectly—worry about what’s best for your needs.
+
+“Don’t follow these myths—follow our tips instead.”
+
+Myth #3: You don’t need to make any changes to your home because the buyer will just want to change it anyway.
+
+Even though buyers love the idea of making renovations and improvements to their future home, the homes that sell the fastest and for top dollar the ones that are already neutralized in stylish, current colors. For carpeting and floor coverings, there are only so many different shades of gray and beige you can use. As a rule of thumb, we always suggest to our sellers to use carpeting that’s very in-style in new construction homes because that’s market-proven to be what buyers desire.
+
+So remember, price your home correctly and don’t artificially inflate it thinking you’re giving yourself room for negotiation. Also, remember that spring isn’t the only time homes sell—strategize your listing according to your family’s needs. Lastly, don’t leave it up to buyers to upgrade your home—make those changes yourself to make your home market-appealing so it sells for top dollar.
+
+If you follow these tips instead of the myths, you’ll have a successful sale. If you’re curious about what’s happening in our market or you have any other real estate needs I can assist you with, don’t hesitate to reach out to me. I’d be glad to help.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Biggest+Seller+Mistakes.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://bebetterdsm.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Biggest+Seller+Mistakes.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>There are three particular real estate myths you shouldn’t abide by if you’re planning on selling your home.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>There are three particular real estate myths you shouldn’t abide by if you’re planning on selling your home.</itunes:summary>
+        <itunes:keywords>Central Iowa Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+      </item>
+      
       <item>
         <title>3 Ways to Use Zillow Leads to Your Advantage</title>
         <link>http://bebetterdsm.com/3-ways-to-use-zillow-leads-to-your-advantage.html</link>
