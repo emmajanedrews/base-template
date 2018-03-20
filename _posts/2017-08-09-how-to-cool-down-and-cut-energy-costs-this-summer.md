@@ -36,7 +36,7 @@ If you have the budget, you can even replace your windows with retrofit windows.
 
 **6. Don’t run your oven as often.** Summertime is for barbecues and outdoor grilling. If you have to, use the cooktop. Running your oven is more expensive than you think, plus you’re adding a heat source for your home in the summer.
 
-**7. Turning down the temperature on your water heater.** It’s fairly common for the water heater to be in your garage. Since the garage is already warmer than the rest of the house, simply turn down the temperature from 130 degrees to 115 degrees can save you about $50 a year. That may not seem like much, but it’s definitely worth it.
+**7. Turn down the temperature on your water heater.** It’s fairly common for the water heater to be in your garage. Since the garage is already warmer than the rest of the house, simply turn down the temperature from 130 degrees to 115 degrees can save you about $50 a year. That may not seem like much, but it’s definitely worth it.
 
 You can also wind an insulated blanket or wrap around the water heater to keep temperatures consistent.
 
