@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Whether you’re buying, selling, downsizing, or just doing some spring
   cleaning, there are a few ways you can get rid of your extra stuff.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Scott+Hollinger/Montana+Real+Estate++The+Hollinger+Team+How+to+get+rid+of+your+extra+stuff+during+a+move.mp4
 pullquote: These options will help you be economical in getting rid of your extra stuff.
 enclosure_type: video/mp4
 enclosure_time:
