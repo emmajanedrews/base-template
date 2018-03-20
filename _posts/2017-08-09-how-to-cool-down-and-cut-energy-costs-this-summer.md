@@ -16,7 +16,6 @@ youtube_alternate_image: /uploads/travis-chatwin-9-ways-to-stay-cool-and-cut-cos
 youtube_code: 'https://youtu.be/zBgpV-nPsKU'
 ---
 
-
 {% include youtube.html %}
 
 Here in San Diego, we are spoiled by amazing temperatures year-round. Every now and then, though, the heat and humidity can sneak up on us—so it’s always good to be prepared.<br><br>Today, I have a few ways to help you be more comfortable in your home and save money on energy costs:
@@ -27,7 +26,7 @@ If you have the budget, you can even replace your windows with retrofit windows.
 
 **2. Close the shades.** If you have direct sunshine coming in your house during the morning or evening, your home will be warmer. Just keeping your shades closed at those times of the day will drastically reduce your home’s temperature and help keep energy costs down. At the very least, make sure that you keep the shades closed while you’re at work so your home will stay cool during the day.
 
-**3. Clean your air conditioning filters.**Clean your filters every month, especially during the summer when your AC is running most of the time.
+**3. Clean your air conditioning filters.&nbsp;**Clean your filters every month, especially during the summer when your AC is running most of the time.
 
 **4. Program the thermostat.** If you aren’t home for most of the day, your home doesn’t need to be as cool as it is when you are there. During the day, raise the temperature just a little bit. Take advantage of those smart thermostats and let them work for you in your home.
 
