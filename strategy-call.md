@@ -22,7 +22,7 @@ permalink: /strategy-call/
 
 <!-- {% include strategy-photos.html %} -->
 
-<p>My name is Kati Spaniak and since March 2017, I’ve sold 234 homes to date.</p>
+<p>My name is Kati Spaniak and in the last 6 years, I’ve sold 234 homes to date.</p>
 
 <p>I want to help you sell more homes.</p>
 
