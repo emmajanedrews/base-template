@@ -21,7 +21,7 @@ youtube_code: wWIQCvbOS_8
 
 Today I’m joined by Sarah Michelle Bliss, who has been by my side for the last 20 years of my real estate career. She's a great success coach, author, and real estate trainer. **We’ve put together a great class on Tuesday, April 10 from 5:00 p.m. to 8:00 p.m. that we want to tell you about.**
 
-It’s called [**“10 Ways to Level Up Your Real Estate Business”**](http://www.joinrmxprofessionals.com/Registration) and **we will be walking you through a ton of information to help you become more proficient and get the most out of the hours that you are working.**
+It’s called [**“10 Ways to Level Up Your Real Estate Business”**](http://www.joinrmxprofessionals.com/Registration){: target="_blank"} and **we will be walking you through a ton of information to help you become more proficient and get the most out of the hours that you are working.**
 
 The class is around three hours long, but it’s filled with content that will help you be more present at work and have more time off to enjoy life.
 
@@ -31,6 +31,6 @@ The class is around three hours long, but it’s filled with content that will h
 
 Two of the buzzwords we use in our complete agent development are proactive and intentional. That’s where most agents struggle. They aren’t being consistent and proactive and completing the necessary activities to generate the results you want.
 
-Space is limited so make sure you get signed up soon. [**You can register here.**](http://www.joinrmxprofessionals.com/Registration)
+Space is limited so make sure you get signed up soon. [**You can register here.**](http://www.joinrmxprofessionals.com/Registration){: target="_blank"}
 
 If you have any questions about the class or the real estate business in general, don’t hesitate to give me a call or send me an email. I would love to hear from you.
