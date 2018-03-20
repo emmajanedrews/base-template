@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/things-not-to-do-youtube-1.jpg
-youtube_code: vBvG5Q2rjvw
+youtube_code: bISnT0u_h08
 ---
 
 {% include youtube.html %}
