@@ -3,7 +3,7 @@ layout: default
 ---
 <!-- blog feed -->
 {% for post in paginator.posts %}
-      {% if post.realtor_tag == false %}
+      {% if post.realtor_page == false %}
 			<div class="row content-container">
 				<!-- <div class="col-sm-12"> -->
 					<h2 class="post-overview-title"><a class="post-link" href="{{ post.url }}">{{ post.title | truncate: 70 }}</a></h2>

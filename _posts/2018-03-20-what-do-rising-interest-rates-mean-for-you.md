@@ -16,7 +16,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/sergio-youtube-01.jpg
 youtube_code: qiTLl6sgMbo
-realtor_tag: false
+realtor_page: false
 ---
 
 {% include youtube.html %}

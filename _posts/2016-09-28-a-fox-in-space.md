@@ -20,7 +20,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: SFFy_drFrZs
-realtor_tag: true
+realtor_page: true
 ---
 {% include youtube.html %}
 }
