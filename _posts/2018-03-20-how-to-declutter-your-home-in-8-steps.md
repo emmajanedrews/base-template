@@ -44,6 +44,8 @@ You should also make a list of what items you will sell. You can use a yard sale
 
 If you’re going to sell your property, you also need to make a list of upgrades. Do you need to replace the carpet? Do you need to paint or do some landscaping? Get your list together before you start step six.
 
+{% include pullquote.html %}
+
 **6. Begin sorting.** Some people say that you need to go room by room and organize each room. The problem with that is you’ll go into the first room, find something you can’t part with, and get stuck. I suggest going by category. Organize your dishes, then your clothes, then your books. Start with a few easy decisions to get the ball rolling.
 
 **7. Use your sticky notes.&nbsp;**You’ve made a few easy decisions on things you want to get rid of. Put a sticky dot or label on these items so you know which ones you want to throw away, sell, or donate. Use a different colored sticky note for items you want to keep.
@@ -54,4 +56,4 @@ Thank you for watching “What’s Working Now!” and going through the steps o
 
 If you want to attend my next decluttering seminar, just let me know at DCHomeBlog.com/Declutter or give me a call. &nbsp;I would be happy to help you!
 
-{% include pullquote.html %}
+&nbsp;
