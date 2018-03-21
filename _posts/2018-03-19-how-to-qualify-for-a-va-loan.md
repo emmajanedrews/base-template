@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Qualify for a VA Loan
-date: 2018-03-19 16:48:51
+date: 2018-03-19 16:48:00
 tags:
 excerpt: What do you need in order to qualify for a VA loan? I’ll explain today.
 enclosure:
@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/abel-youtube-3.jpg
-youtube_code: L7lLKrfvhn0
+youtube_code: 83uuXVbxV1E
 ---
 
 {% include youtube.html %}
@@ -19,7 +19,7 @@ Whether you are a veteran or active duty, the VA loan is a great option for you.
 
 First, though, I want to explain the three main benefits of the VA loan:
 
-**1. The VA loan offers 100% financing,** which means there is no down payment involved. There are still closing costs, so talk to your lender and real estate agent. The lender can offer you a credit, and the agent can see if the seller would be willing to help with closing costs. &nbsp;
+**1. The VA loan offers 100% financing,** which means there is no down payment involved. There are still closing costs, so talk to your lender and real estate agent. The lender can offer you a credit, and the agent can see if the seller would be willing to help with closing costs.
 
 **2. There’s no mortgage insurance** with the VA loan, which saves you between $200 and $400 a month compared to an FHA loan.
 
