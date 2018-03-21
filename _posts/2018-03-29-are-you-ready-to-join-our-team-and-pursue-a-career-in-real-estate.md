@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are You Ready to Join Our Team and Pursue a Career in Real Estate?
-date: 2018-03-19 18:13:17
+date: 2018-03-29 18:13:00
 tags:
   - Real Estate
 excerpt: 'Great news: The Wicker Homes Group is hiring!'
@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/sPZwV07t-jo'
 
 {% include pullquote.html %}
 
-But, we’re not seeking just anyone. **We are looking for candidates who are client-focused, who aren’t afraid of hard work, and who want to truly dig in and help clients to the best of their ability.&nbsp;**
+But, we’re not seeking just anyone. **We are looking for candidates who are client-focused, who aren’t afraid of hard work, and who want to truly dig in and help clients to the best of their ability.**
 
 We want agents who are high-touch and high-service. If you think you’ve got these qualities and you’re interested in pursuing a career with our team, get in touch. **We would love to meet you and see if you’re a good fit.**
 
