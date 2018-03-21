@@ -20,7 +20,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: SFFy_drFrZs
-index_page: false
+hide_index_page: true
 ---
 {% include youtube.html %}
 }
