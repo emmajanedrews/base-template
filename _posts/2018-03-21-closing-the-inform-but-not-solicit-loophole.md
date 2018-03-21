@@ -11,7 +11,8 @@ excerpt: >-
   action. There is a loophole that advisors have been using in an attempt to
   keep their clients, however, firms are taking action to close that loophole
   up. To hear more, watch my latest video.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Danny+Sarch/Videos/2018/Leitner+Sarch+Consultants+%257C+Closing+the+Inform%252C+But+Not+Solicit+Loophole.mp4
 pullquote: This is among the most effective non-solicit agreements that he has ever seen.
 enclosure_type: video/mp4
 enclosure_time:
