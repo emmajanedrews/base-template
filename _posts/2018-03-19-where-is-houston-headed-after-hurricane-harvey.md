@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Where Is Houston Headed After Hurricane Harvey?
-date: 2018-03-19 17:43:32
+date: 2018-03-19 17:43:00
 tags:
   - Market Update
   - Real Estate
 excerpt: >-
   Where is the city of Houston headed after the devastation of Hurricane Harvey?
   I recently attended a conference and gained some insight.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Mike+Gray/Houston+Real+Estate+Agent-+Whats+Next+for+Post-Hurricane+Houston%253F.mp4
 pullquote: The flood risk for Houston was greatly underestimated.
 enclosure_type: video/mp4
 enclosure_time:
@@ -27,7 +28,7 @@ One of the findings at the conference was that the flood risk for Houston was gr
 
 {% include pullquote.html %}
 
-Jim Blackburn, co-director of SSPEED, says “[…] **The 100-year floodplain is absolutely obsolete****.**” Instead, he suggests that the city of Houston should use a 500-year floodplain in the interim and use that as their development standard until the new flood maps are completed.&nbsp;
+Jim Blackburn, co-director of SSPEED, says “[…] **The 100-year floodplain is absolutely obsolete****.**” Instead, he suggests that the city of Houston should use a 500-year floodplain in the interim and use that as their development standard until the new flood maps are completed.
 
 Additionally, he has other great insights and recommendations in his paper called “The Role of Public and Private Stakeholders in Solving Houston’s Flooding Problem.”
 
