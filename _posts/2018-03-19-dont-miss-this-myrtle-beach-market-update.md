@@ -31,4 +31,6 @@ In terms of inventory, the supply of single-family homes decreased by 0.5% in 20
 
 However, location does matter. The numbers I just gave you reflect the Horry County and Georgetown County markets combined. **You can expect an email from me in the near future breaking down the market statistics for all local areas.&nbsp;**
 
+[**Click here to check out our 2017 Annual Report**](https://s3.amazonaws.com/vyralmarketing/Brittany+Foy/2017+Annual+Report+for+Vyral.pdf)
+
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
