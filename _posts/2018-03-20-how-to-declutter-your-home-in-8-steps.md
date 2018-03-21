@@ -54,6 +54,6 @@ If you’re going to sell your property, you also need to make a list of upgrade
 
 Thank you for watching “What’s Working Now!” and going through the steps on how to declutter your home.
 
-If you want to attend my next decluttering seminar, just let me know at DCHomeBlog.com/Declutter or give me a call. &nbsp;I would be happy to help you!
+If you want to attend my next decluttering seminar, just let me know at [DCHomeBlog.com/declutter](http://dchomeblog.com/declutter) or give me a call. &nbsp;I would be happy to help you!
 
 &nbsp;
