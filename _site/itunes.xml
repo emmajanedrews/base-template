@@ -4,13 +4,13 @@
     <title>San Diego Real Estate Podcast with Sergio Haros</title>
     <link>localhost:4000</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Finance of America - your professional San Diego Real Estate Agents.</description>
+    <description>Sergio Haros can help you take charge of your financial future by developing a customized strategy to reach your financial goals and further your success.</description>
     <language>en</language>
     <managingEditor>Sergio Haros</managingEditor>
-    <lastBuildDate>2018-01-31 10:01:11 -0600</lastBuildDate>
+    <lastBuildDate>2018-03-21 09:52:29 -0500</lastBuildDate>
     <media:copyright>Sergio Haros</media:copyright>
     <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
-    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
+    <media:keywords>Sergio Haros, Financial Planning, Retirement Plans, Retirement Planning, Wealth Management, Financial Advisor, Certified Financial Planner, Benefit Planning, Retirement Plan Management</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
       <itunes:email>sharos@financeofamerica.com</itunes:email>
@@ -19,63 +19,82 @@
     <itunes:author>Sergio Haros</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="localhost:4000/img/podcast.jpg"/>
-    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the San Diego Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Finance of America - your professional San Diego Real Estate Agents.</itunes:summary>
+    <itunes:keywords>Sergio Haros, Financial Planning, Retirement Plans, Retirement Planning, Wealth Management, Financial Advisor, Certified Financial Planner, Benefit Planning, Retirement Plan Management</itunes:keywords>
+    <itunes:subtitle>Whether you are interested in retirement planning, wealth management, or benefit strategies, Sergio Haros is here with the latest tips.</itunes:subtitle>
+    <itunes:summary>Sergio Haros can help you take charge of your financial future by developing a customized strategy to reach your financial goals and further your success.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
+        <title>Are You Impacted by Rising Interest Rates?</title>
+        <link>localhost:4000/are-you-impacted-by-rising-interest-rates.html</link>
         
           <category>Mortgage Minute</category>
         
-          <category>Refinancing</category>
-        
-          <category>Home Purchase</category>
+        <author>Sergio Haros</author>
+        <pubDate>2018-03-20 15:30:44 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Sergio+Haros/Videos/Leads/Leads+-+Are+You+Impacted+By+Rising+Interest+Rates%253F+-San+Diego+Mortgage.mp4</guid>
+        <description>
+
+If you haven’t heard, rates have increased big time—more than half a percent, up to three-quarters of a percent, depending on the product. What does that mean to you?It means that if you were looking to buy, upgrade, or refinance a house, things have gotten a little bit more expensive. If you are in the market to purchase, please contact me now so that we can run updated numbers for you and show you not only what the payment would be today at a certain price point, but also what that payment could potentially be if you wait until later to buy.
+
+If your rate goes to 5% or 5.5% percent, as a lot of economists are predicting before the end of this year, it’s really going to drive up that back payment for you and also detract from your purchasing power.
+
+“In this market, you’ve got to  have sense of urgency.”
+
+Maybe you were barely qualified. Maybe it barely fit within your budget today. Just know that the house you’re looking at is going to look entirely different on paper six months or a year down the line.
+
+In this market, you’ve got to  have sense of urgency. In San Diego, prices are still continuing to increase, and when you have the combination of prices and rates increasing, it definitely creates a perfect storm. If you’re thinking about joining the market, do it now, before the prices and rates get away from you.
+
+For questions about buying or selling, please feel free to contact me. I’d be happy to help you navigate the market to get you the home you want at a price you can afford.
+
+ 
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sergio+Haros/Videos/Leads/Leads+-+Are+You+Impacted+By+Rising+Interest+Rates%253F+-San+Diego+Mortgage.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Sergio+Haros/Videos/Leads/Leads+-+Are+You+Impacted+By+Rising+Interest+Rates%253F+-San+Diego+Mortgage.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Prices and rates are on the rise, which means you need to act fast in this market</itunes:subtitle>
+        <itunes:author>Sergio Haros</itunes:author>
+        <itunes:summary>Prices and rates are on the rise, which means you need to act fast in this market</itunes:summary>
+        <itunes:keywords>Sergio Haros, Financial Planning, Retirement Plans, Retirement Planning, Wealth Management, Financial Advisor, Certified Financial Planner, Benefit Planning, Retirement Plan Management</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Do Rising Interest Rates Mean for You?</title>
+        <link>localhost:4000/what-do-rising-interest-rates-mean-for-you.html</link>
         
           <category>Finance Advice</category>
         
         <author>Sergio Haros</author>
-        <pubDate>2016-10-04 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2018-03-20 14:40:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Sergio+Haros/Videos/Past+Clients/Are+You+Impacted+By+Rising+Interest+Rates%253F.mp4</guid>
         <description>
 
-}
+Interest rates have gone up significantly in the last few months, and some programs have risen as high as 0.5% or even 0.75%. What does this mean for you?
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+This means if you’re thinking about upgrading your property, refinancing your property to remove the mortgage insurance, or accessing your equity to take out some cash, things have gotten more expensive.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+“Act now before things get more expensive.”
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+We now know that these things will get even more expensive in both the short term and long term, so the time to act is now if you’re planning on doing any of them.
 
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+If you have any other questions about rising interest rates or you need help upgrading, refinancing, or cashing out from your property, don’t hesitate to reach out to me. I’d be glad to help you.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sergio+Haros/Videos/Past+Clients/Are+You+Impacted+By+Rising+Interest+Rates%253F.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Sergio+Haros/Videos/Past+Clients/Are+You+Impacted+By+Rising+Interest+Rates%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>If you’re thinking about upgrading your property, refinancing your property to remove the mortgage insurance, or accessing your equity to take out some cash, you should do so now.</itunes:subtitle>
         <itunes:author>Sergio Haros</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:summary>If you’re thinking about upgrading your property, refinancing your property to remove the mortgage insurance, or accessing your equity to take out some cash, you should do so now.</itunes:summary>
+        <itunes:keywords>Sergio Haros, Financial Planning, Retirement Plans, Retirement Planning, Wealth Management, Financial Advisor, Certified Financial Planner, Benefit Planning, Retirement Plan Management</itunes:keywords>
       </item>
       
       <item>
         <title>A Fox in Space</title>
         <link>localhost:4000/a-fox-in-space.html</link>
         
-          <category>Mortgage Minute</category>
-        
-          <category>Refinancing</category>
-        
-          <category>Home Purchase</category>
-        
-          <category>Finance Advice</category>
+          <category>Realtors</category>
         
         <author>Sergio Haros</author>
         <pubDate>2016-09-28 00:00:00 -0500</pubDate>
@@ -119,12 +138,12 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
         <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
         <itunes:author>Sergio Haros</itunes:author>
         <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Sergio Haros, Financial Planning, Retirement Plans, Retirement Planning, Wealth Management, Financial Advisor, Certified Financial Planner, Benefit Planning, Retirement Plan Management</itunes:keywords>
       </item>
       
     <copyright>Sergio Haros</copyright>
     <media:credit role="author">Sergio Haros</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Finance of America - your professional San Diego Real Estate Agents.</media:description>
+    <media:description type="plain">Sergio Haros can help you take charge of your financial future by developing a customized strategy to reach your financial goals and further your success.</media:description>
   </channel>
 </rss>

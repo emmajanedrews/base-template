@@ -3,6 +3,7 @@ layout: post
 title: What Do Rising Interest Rates Mean for You?
 date: 2018-03-20 19:40:00
 tags:
+  - Finance Advice
 excerpt: >-
   If you’re thinking about upgrading your property, refinancing your property to
   remove the mortgage insurance, or accessing your equity to take out some cash,
@@ -15,6 +16,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/sergio-youtube-01.jpg
 youtube_code: qiTLl6sgMbo
+realtor_tag: false
 ---
 
 {% include youtube.html %}

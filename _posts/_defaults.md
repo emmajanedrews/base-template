@@ -11,6 +11,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code:
+realtor_tag: false
 ---
 {% include youtube.html %}
 

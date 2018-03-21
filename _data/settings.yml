@@ -1,10 +1,16 @@
 audit_header: false
 title: Finance of America Video Blog with Sergio Haros
 description: 'Sergio Haros can help you take charge of your financial future by developing a customized strategy to reach your financial goals and further your success.'
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: Apply For Home Purchase Now
+    url: https://loanapp.financeofamerica.com/ContentPages/Default.aspx?LoanOfficerId=47849
+  - title: Apply for Refinance
+    url: https://loanapp.financeofamerica.com/ContentPages/Default.aspx?LoanOfficerId=47849
+  - title: Mortgage Inquiry
+    url: https://www.foamortgage.com/mortgage-inquiry?loemail=sharos@financeofamerica.com
+  - title: For Realtors
+    url: /realtors/
 
 emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1810620';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 
@@ -25,14 +31,6 @@ client:
   phone2_type:
   email: sharos@financeofamerica.com
   url: http://foamortgage.com/sharos
-
-CTAs:
-  first_CTA_text: Apply For Home Purchase Now
-  first_CTA_URL: https://loanapp.financeofamerica.com/ContentPages/Default.aspx?LoanOfficerId=47849
-  second_CTA_text: Apply for Refinance
-  second_CTA_URL: https://loanapp.financeofamerica.com/ContentPages/Default.aspx?LoanOfficerId=47849
-  third_CTA_text: Mortgage Inquiry
-  third_CTA_URL: https://www.foamortgage.com/mortgage-inquiry?loemail=sharos@financeofamerica.com
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
@@ -78,7 +76,7 @@ socials:
   linkedin_url: https://www.linkedin.com/in/sergioharos/
   gplus_url: https://plus.google.com/u/0/107853524137985939507
   youtube_url: https://www.youtube.com/channel/UClJ1yc1fvtg1ObMOKb5LUVw?
-  twitter_url: 
+  twitter_url:
   instagram_url:
   pinterest_url:
   zillow_url:

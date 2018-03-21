@@ -2,7 +2,8 @@
 layout: default
 ---
 <!-- blog feed -->
-      {% for post in paginator.posts %}
+{% for post in paginator.posts %}
+      {% if post.realtor_tag == false %}
 			<div class="row content-container">
 				<!-- <div class="col-sm-12"> -->
 					<h2 class="post-overview-title"><a class="post-link" href="{{ post.url }}">{{ post.title | truncate: 70 }}</a></h2>
@@ -38,4 +39,5 @@ layout: default
       </li>
 		</ul>
 </div>
-      {% endfor %}
+      {% endif %}
+{% endfor %}

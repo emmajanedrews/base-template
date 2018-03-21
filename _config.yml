@@ -43,8 +43,15 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
+
 tags:
   - Mortgage Minute
   - Refinancing
   - Home Purchase
   - Finance Advice
+  - Mortgage Rates
+  - Refinance
+  - Home Loans
+  - Home Equity
+  - Interest Rates
+  - Realtors

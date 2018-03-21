@@ -3,6 +3,7 @@ layout: post
 title: Are You Impacted by Rising Interest Rates?
 date: 2018-03-20 20:30:44
 tags:
+  - Mortgage Minute
 excerpt: >-
   Prices and rates are on the rise, which means you need to act fast in this
   market
@@ -14,6 +15,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/sergio-youtube-01-1.jpg
 youtube_code: zsRZlE6NecY
+realtor_tag: false
 ---
 
 {% include youtube.html %}
