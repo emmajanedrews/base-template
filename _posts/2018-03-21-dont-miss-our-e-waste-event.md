@@ -30,18 +30,11 @@ Hundreds of past clients come out for this event, and it’s always a lot of fun
 
 Just so you have an idea, here are a few examples of things you can bring:&nbsp;
 
-* Computers
-* Audio equipment&nbsp;
-* Household appliances
-* Old TVs
-* Printers&nbsp;
+Computers<br>Audio equipment&nbsp;<br>Household appliances<br>Old TVs<br>Printers&nbsp;
 
 And, just to be on the safe side, here are a few things NOT to bring:&nbsp;
 
-* Household chemicals
-* Batteries&nbsp;
-* Old paint cans&nbsp;
-* Syringes&nbsp;
+Household chemicals<br>Batteries&nbsp;<br>Old paint cans&nbsp;<br>Syringes&nbsp;
 
 If you have any junk (that’s allowable), make sure you bring it on by on April 21. We look forward to seeing you there.&nbsp;
 
