@@ -5,7 +5,7 @@ date: 2018-03-22 16:20:00
 tags:
   - Real Estate
 excerpt:
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Donald+Payne/PAYNE_VID.mp4'
 pullquote: 'If you feel your property was overvalued, you can file a complaint.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -26,6 +26,6 @@ To do this, locate the 100% valuation and the 35% valuation on your property tax
 
 **You have until April 2 of 2018 to contest the value of your property.** To contest your property value, you’ll have to file a complaint form. Along with filling out that form, you’ll also need to include photos of your property as well as documentation of comparable sales or an appraisal of your property.
 
-After submitting these documents, you will receive a hearing notice from the Board of Revisions. &nbsp;The hearing that follows will consist of three commissioners hearing your case. This hearing will take between 10 to 30 minutes, depending on the complexity of your situation. **You’ll typically receive a notice regarding their decision within 30 days of the hearing.**
+After submitting these documents, you will receive a hearing notice from the Board of Revisions.  The hearing that follows will consist of three commissioners hearing your case. This hearing will take between 10 to 30 minutes, depending on the complexity of your situation. **You’ll typically receive a notice regarding their decision within 30 days of the hearing.**
 
 If you have any other questions, would like more information, or need help filling this complaint, feel free to give me a call or send me an email. I look forward to hearing from you soon.
