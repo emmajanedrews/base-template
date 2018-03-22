@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 4 Ways to Get Multiple Offers
-date: 2018-03-20 17:37:25
+date: 2018-03-20 17:37:00
 tags:
   - Home Seller Tips
 excerpt: >-
   Generating multiple offers on your home sale is the right idea. Here are four
   ways to do that.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Troy+Davis/Butte+County+Real+Estate-+How+Can+You+Find+Multiple+Offers%253F.mp4
 pullquote: 'Take the time to study trends, pricing, and interest rates in your market.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -18,7 +19,7 @@ youtube_code: 'https://youtu.be/CzczUggoL7s'
 
 {% include youtube.html %}
 
-Sellers often ask me how they can generate multiple offers on their home sale.**&nbsp;Here are a few ways of doing that:**
+Sellers often ask me how they can generate multiple offers on their home sale.** Here are a few ways of doing that:**
 
 **1. Preparation.** Homes with a fresh, inviting feel will attract more attention. A few ways to provide that feeling are by decluttering or adding fresh paint or carpet. Buyers are looking for a turnkey home. Consider sprucing up the yard by doing some landscaping and powerwashing the driveway.
 
