@@ -8,9 +8,9 @@ tags:
 excerpt: >-
   Squirrels are tricky little critters. Because they can sense the heat that
   your home gives off, they’ll often try to find their way in by taking
-  advantage of the structure of your home. Sneaking under the shingles on your
-  roof to  get inside, they can make nests in your attic. But what can you do
-  about them? For tips about dealing with pesky squirrels, watch my latest
+  advantage of the structure of your home. By sneaking under the shingles on
+  your roof to get inside, they can make nests in your attic. But what can you
+  do about them? For tips about dealing with pesky squirrels, watch my latest
   video.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Bob+Peterson/Videos+/2018/The+Peterson+Team-+Squirrels+in+your+attic.mp4
