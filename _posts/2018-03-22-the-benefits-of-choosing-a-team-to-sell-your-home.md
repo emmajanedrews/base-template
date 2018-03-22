@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Benefits of Choosing a Team to Sell Your Home
-date:
+date: 2018-03-22 17:37:48
 tags:
   - Home Buyer Tips
 excerpt: >-
