@@ -4,7 +4,12 @@ title: Was Your Property Tax Valuation too High?
 date: 2018-03-22 16:20:00
 tags:
   - Real Estate
-excerpt:
+excerpt: >-
+  Franklin County property values were reassessed last year, leaving some with
+  higher taxes than they had in the past. However, those who feel their homes
+  have been overvalued do have an option. Homeowners can contest the value of
+  their property by submitting a complaint form. Today, I’ll explain the process
+  of filing and submitting this form. To learn more, watch this short video.
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Donald+Payne/PAYNE_VID.mp4'
 pullquote: 'If you feel your property was overvalued, you can file a complaint.'
 enclosure_type: video/mp4
