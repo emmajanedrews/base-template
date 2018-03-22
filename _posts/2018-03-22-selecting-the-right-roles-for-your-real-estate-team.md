@@ -4,9 +4,17 @@ title: Selecting the Right Roles For Your Real Estate Team
 tags:
   - Real Estate
   - Home Buyer Tips
-excerpt:
+excerpt: >-
+  When purchasing real estate, it’s very important that you have the right team
+  behind you. Today I want to talk about the roles you need to identify on that
+  team before you even start searching for homes. The first is the agent you
+  work with. Your agent should be knowledgeable and have your best interests at
+  heart, and you should be able to trust their recommendations as they guide you
+  through the process. To learn what other roles you need to identify on your
+  home buying team, watch my latest video.
 pullquote: Your agent should be knowledgeable and have your best interests at heart.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jason+McIntosh/+Videos/2018/Savannah+Real+Estate+Agent-+What+you+need+to+buy+a+home.mp4
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
