@@ -3,6 +3,7 @@ layout: post
 title: The Benefits of Choosing a Team to Sell Your Home
 date:
 tags:
+  - Home Buyer Tips
 excerpt: >-
   If you’re selling your home, don’t hire a traditional Realtor just because
   they have signs in the lawn. Hire a team with an expert negotiator and
@@ -18,7 +19,9 @@ youtube_code: pz9fvemumwM
 
 {% include youtube.html %}
 
-<center>If you’re selling your home, don’t hire a traditional Realtor just because they have signs in the lawn. Hire a team with an expert negotiator and marketer on staff.</center>
+<center><em>If you&rsquo;re selling your home, don&rsquo;t hire a traditional Realtor just because they have signs in the lawn. Hire a team with an expert negotiator and marketer on staff.</em></center>
+
+<center>&nbsp;</center>
 
 When hiring a Realtor to sell your home, you need to understand what you’re looking for and you need to know what goes on behind the scenes in a real estate office.
 
