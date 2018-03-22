@@ -18,7 +18,7 @@ youtube_code: pz9fvemumwM
 
 {% include youtube.html %}
 
-If you’re selling your home, don’t hire a traditional Realtor just because they have signs in the lawn. Hire a team with an expert negotiator and marketer on staff.
+<center>If you’re selling your home, don’t hire a traditional Realtor just because they have signs in the lawn. Hire a team with an expert negotiator and marketer on staff.</center>
 
 When hiring a Realtor to sell your home, you need to understand what you’re looking for and you need to know what goes on behind the scenes in a real estate office.
 
