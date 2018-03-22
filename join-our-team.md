@@ -16,8 +16,6 @@ permalink: /join-our-team/
 
 <hr>
 <div class="markdown" markdown="1">
-**Welcome to the Beginning of Your New Career in Real Estate,**
-
 **How would your life change if you consistently earned $75,000, $100,000 or $150,000+ as a full-time real estate agent?**
 
 In a competitive, ever changing industry like real estate, it’s easy to become distracted from the core of our business:  serving clients to our highest ability in a way that earns us a fulfilling and profitable living.  We have cracked the code to help real estate agents NET more money than over 90% of agents in the Central Iowa market. You don’t have to have years of experience to join our company BUT you must have the desire to do what it takes to become successful.  ***And we will show you how.***
@@ -40,13 +38,13 @@ In our business, success and a high rate of pay, go hand in hand. Nothing in thi
 
 If you’re tired of the daily grind, tired of NOT making money, tired of being lost…then take advantage of my offer. Do you feel like a stranger in your own real estate office, with a revolving door of people in and out that clearly are not making it in the business?  Do you feel you’re your broker is out of touch with the reality of being an agent today?  Check out the steps at the bottom of this page and let’s see if we can forge a relationship of mutual benefit.
 
-While it can feel like brokerage and agents in our market are RACING to the BOTTOM with a focus on “CHEAP”, “FLAT FEES” and “COMMISSION DISCOUNTS”, I can assure you there is a place in the market for QUALITY and SERVICE at a PREMIUM PRICE. 
+While it can feel like brokerage and agents in our market are RACING to the BOTTOM with a focus on “CHEAP”, “FLAT FEES” and “COMMISSION DISCOUNTS”, I can assure you there is a place in the market for QUALITY and SERVICE at a PREMIUM PRICE.
 
 Our brand – Better Homes and Gardens - is synonymous with Quality.  And in real estate, that means a focus on RESULTS and a WORLD CLASS EXPERIENCE.  This sets you apart from the competition and earns you more!  Just like the old adage about high end service says:  “Nordstrom doesn’t panic when Wal Mart has a sale”, we will teach you how BRAND POWER and a VALUE PROPOSITION overcomes pricing objections.
 
 **There are a number of advantages to you for moving forward on this…let me highlight a few of them here for you:**
 
-**NO BROKERAGE OR OFFICE FEES** – beyond your phone, car, and MLS & Board Dues and the basics to keep your license with the state…you’ll have none of the brokerage, advertising or lead generation expenses you’re faced with now. We have an innovative, STRESS FREE program, whether you are newer to the business, growing a team, or a team leader.  You’ll enjoy NO MONTHLY OFFICE FEES thanks to our great compensation package. We aren’t going to nickel and dime you or require you to have a Mathematics degree to compute your compensation.  We’ll even supply you with an office space, business cards, your first 5 real estate signs, and even an event for your past clients & sphere! 
+**NO BROKERAGE OR OFFICE FEES** – beyond your phone, car, and MLS & Board Dues and the basics to keep your license with the state…you’ll have none of the brokerage, advertising or lead generation expenses you’re faced with now. We have an innovative, STRESS FREE program, whether you are newer to the business, growing a team, or a team leader.  You’ll enjoy NO MONTHLY OFFICE FEES thanks to our great compensation package. We aren’t going to nickel and dime you or require you to have a Mathematics degree to compute your compensation.  We’ll even supply you with an office space, business cards, your first 5 real estate signs, and even an event for your past clients & sphere!
 
 **BEAUTIFUL AND RELEVANT MARKETING & ADVERTISING** – Better Homes and Gardens Real Estate Innovations has the newest technologies that will help you market yourself and your listings AND the amazing powerhouse PinPoint database supplied by Meredith Corporation thanks to it’s database of 100 million subscribers and their consumer habits.
 

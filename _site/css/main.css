@@ -1489,6 +1489,9 @@ html[xmlns] .flexslider .slides {
   padding-right: 15px;
   padding-left: 15px; }
 
+.navbar-left {
+  padding-top: 2rem; }
+
 @media(max-width: 347px) {
   .navbar {
     padding-right: 5px;
@@ -1565,7 +1568,8 @@ label.tree-toggle {
 .hero-img {
   background-position: center;
   background-size: cover;
-  padding-top: 10rem; }
+  height: 500px;
+  padding-top: 13rem; }
 
 #hero {
   background-position: center;
@@ -2861,6 +2865,11 @@ form select {
 
 #contact2 {
   margin-left: 2rem; }
+
+.nav-logo {
+  float: left !important;
+  max-width: 350px;
+  margin-top: 5px; }
 
 .recruiting {
   text-align: center; }
