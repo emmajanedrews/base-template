@@ -37,7 +37,7 @@ How are firms fighting back against that? The UBS essentially struck the first b
 
 UBS announced that they would be putting into their 2019 deferred comp agreement that **in order for advisors to get the money they earned in 2018, they would have to sign in agreement to the following:**
 
-* "‘Solicit’, as set forth in this paragraph, means that the employee will not initiate, whether directly or indirectly, any contact or communication of any kind whatsoever for the purpose of inviting, encouraging, or requesting a client where that my have the effect of advising, encouraging, or requesting a client transfer his or her UBS accounts to another institution."
+*"‘Solicit’, as set forth in this paragraph, means that the employee will not initiate, whether directly or indirectly, any contact or communication of any kind whatsoever for the purpose of inviting, encouraging, or requesting a client where that my have the effect of advising, encouraging, or requesting a client transfer his or her UBS accounts to another institution."*
 
 According to my attorney, this is among the most effective non-solicit agreements that he has ever seen. **This will close the “Inform, But Not Solicit” loophole.** And it is a loophole; advisors are calling and informing their clients of their move, without the protection of the protocol, with the intention of having that client move.
 
