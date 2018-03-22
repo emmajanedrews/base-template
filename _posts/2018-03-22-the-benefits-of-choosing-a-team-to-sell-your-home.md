@@ -47,6 +47,6 @@ The next slide after that illustrates how a team approach works. In this picture
 
 So, the next time you hire a Realtor, get started early and do your homework. Don’t hire a traditional company or a traditional Realtor just because they have signs in the lawn. Hire a team with an expert negotiator and marketer on staff.&nbsp;
 
-If you’d like to learn more about this topic, you’re invited to attend our next home selling seminar on April 7. To get all the details, visit **[http://www.homesellingsharks.com/](http://www.homesellingsharks.com/)**. In the meantime, stay tuned for my next market report.&nbsp;
+If you’d like to learn more about this topic, you’re invited to attend our next home selling seminar on April 7. To get all the details, visit **[www.homesellingsharks.com](http://www.homesellingsharks.com/)**. In the meantime, stay tuned for my next market report.&nbsp;
 
 If you have any other questions or you’re thinking of buying or selling a home, don’t hesitate to reach out to me. I’d love to help you.<br>&nbsp;
