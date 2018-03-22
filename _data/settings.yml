@@ -1,125 +1,152 @@
 audit_header: false
 title: Baltimore Real Estate Video Blog with Lee Tessier
-description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
+description: >-
+  Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET --
+  real estate advice. Whether you are a buyer, seller, or investor, our team of
+  professionals can answer any questions you might have about real estate. If
+  you are looking to buy or sell a home, you can get all the information and the
+  latest updates, tips, and tricks from The -- CLIENT BRAND --, your
+  professional -- MARKET -- Real Estate Agents.
 show_custom_links: true
 custom_links:
   - title: Our Listings
-    url: http://www.marylandrealestatesearch.com/results.aspx?OfficeMLS=RMAD2
+    url: 'http://www.marylandrealestatesearch.com/results.aspx?OfficeMLS=RMAD2'
   - title: About
-    url: http://www.marylandrealestatesearch.com/agents/5075-Lee-Tessier
+    url: 'http://www.marylandrealestatesearch.com/agents/5075-Lee-Tessier'
   - title: Agent Training
     url: /agent-training/
-
 emma:
   lightbox:
   form:
-
 client:
   name: Lee Tessier
   title:
   license_number:
-  about_markdown: |
-    Lee is a 37-year native of Baltimore and has a great passion for Real Estate. Having worked in the sales industry for more than 25 years, and with 80% of his business from referrals, he is known for following through and getting the job done. To prove it, he guarantees that if he doesn't get your home sold, he'll buy it. His goal is to ease the stress of your buying and selling experience by accompanying you through every step of the process.
+  about_markdown: >
+    Lee is a 37-year native of Baltimore and has a great passion for Real
+    Estate. Having worked in the sales industry for more than 25 years, and with
+    80% of his business from referrals, he is known for following through and
+    getting the job done. To prove it, he guarantees that if he doesn't get your
+    home sold, he'll buy it. His goal is to ease the stress of your buying and
+    selling experience by accompanying you through every step of the process.
 
-    Lee has successfully served over 500 families in the last six years, and believes that any time is the right time to buy or sell if you have a skilled professional to serve you. He values education and devotes his time to keeping up with industry trends by regularly attending industry conferences, and has obtained a number of professional designations. Whether it's marketing, writing contracts, managing short sales, or negotiating complicated contracts, Lee is your guy.
 
-    January 2018 will mark 12 years in the real estate business for Lee. In those 12 years Lee and his team have successfully helped over 2,400 people buy and sell their homes, so you are guaranteed to be working with an experienced Realtor. At the Lee Tessier Team, we always put our clients first and never chase a commission. If you are interested in learning more, feel free to check out our mobile-friendly site at <a href="LeeTesser.com" target="_blank">LeeTesser.com</a>.
+    Lee has successfully served over 500 families in the last six years, and
+    believes that any time is the right time to buy or sell if you have a
+    skilled professional to serve you. He values education and devotes his time
+    to keeping up with industry trends by regularly attending industry
+    conferences, and has obtained a number of professional designations. Whether
+    it's marketing, writing contracts, managing short sales, or negotiating
+    complicated contracts, Lee is your guy.
+
+
+    January 2018 will mark 12 years in the real estate business for Lee. In
+    those 12 years Lee and his team have successfully helped over 2,400 people
+    buy and sell their homes, so you are guaranteed to be working with an
+    experienced Realtor. At the Lee Tessier Team, we always put our clients
+    first and never chase a commission. If you are interested in learning more,
+    feel free to check out our mobile-friendly site at <a href="LeeTesser.com"
+    target="_blank">LeeTesser.com</a>.
   market: Baltimore
   brand: Tessier Real Estate
   brokerage:
-  address: 2225 Old Emmorton Road<br>Suite 207<br>Bel Air, MD 21015
+  address: '2225 Old Emmorton Road<br>Suite 207<br>Bel Air, MD 21015'
   phone: 410-638-9555
   phone_type:
   phone2:
   phone2_type:
   email: Lee@LeeTessier.com
-  url: http://LeeTessier.com
-
+  url: 'http://LeeTessier.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.marylandrealestatesearch.com/sell/
+  first_CTA_URL: 'http://www.marylandrealestatesearch.com/sell/'
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.marylandrealestatesearch.com/buy/
-
+  second_CTA_URL: 'http://www.marylandrealestatesearch.com/buy/'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
-    CTA_url: http://www.marylandrealestatesearch.com/sell/
-
+    CTA_title: What’s Your -- MARKET -- Home Worth?
+    CTA_text: >-
+      Are you thinking of selling your home or interested in learning about home
+      prices in your neighborhood? We can help you.
+    CTA_link_text: Free Home Value Report
+    CTA_url: 'http://www.marylandrealestatesearch.com/sell/'
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: http://www.marylandrealestatesearch.com/buy/
-
+    CTA_title2: Looking for a -- MARKET -- Home?
+    CTA_text2: Search the entire MLS for your -- MARKET -- home.
+    CTA_link_text2: Search the MLS
+    CTA_url2: 'http://www.marylandrealestatesearch.com/buy/'
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
+  headshot_path: 'http://fillmurray.com/200/200'
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: http://eyegoop.com
-
+  url: 'http://eyegoop.com'
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/leetessierteam
-  linkedin_url: https://www.linkedin.com/pub/lee-tessier/8/729/91b
-  gplus_url: https://plus.google.com/u/0/109143739139320325058
-  youtube_url: https://www.youtube.com/channel/UC6Bw361PLutbLO5qPWK_0Ew
-  twitter_url: https://twitter.com/leetessier
+  facebook_url: 'https://www.facebook.com/leetessierteam'
+  linkedin_url: 'https://www.linkedin.com/pub/lee-tessier/8/729/91b'
+  gplus_url: 'https://plus.google.com/u/0/109143739139320325058'
+  youtube_url: 'https://www.youtube.com/channel/UC6Bw361PLutbLO5qPWK_0Ew'
+  twitter_url: 'https://twitter.com/leetessier'
   instagram_url:
   pinterest_url:
-  zillow_url: http://www.zillow.com/profile/Lee-Tessier/
-  trulia_url: http://www.trulia.com/profile/lee-tessier-agent-bel-air-md-862782/
-  yelp_url: http://www.yelp.com/biz/the-lee-tessier-team-bel-air-2?nb=1
+  zillow_url: 'http://www.zillow.com/profile/Lee-Tessier/'
+  trulia_url: 'http://www.trulia.com/profile/lee-tessier-agent-bel-air-md-862782/'
+  yelp_url: 'http://www.yelp.com/biz/the-lee-tessier-team-bel-air-2?nb=1'
   podcast_url:
-
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
-  categories: Education
+  categories:
+    - Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the -- MARKET
+    -- Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+    -- MARKET -- Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in -- MARKET --,
+    home selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
   author: '-- CLIENT NAME --'
-
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
-  hero_background_hex: '#999'
+  hero_text: '-- MARKET -- Real Estate Video Blog'
+  hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#6b1403'
-  theme_color: '#231F20'
+  brand_color: '#2d2d2d'
+  theme_color: '#231f20'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 navbar_colors:
   border_bottom:
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: '#000'
-
+  shadow_color: '#000000'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: transparent
+  button_background_color: 'rgba(0, 0, 0, 0)'
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
