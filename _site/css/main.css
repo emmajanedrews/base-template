@@ -1508,6 +1508,21 @@ html[xmlns] .flexslider .slides {
   -webkit-animation: 0.3s fadein ease-in-out;
           animation: 0.3s fadein ease-in-out; }
 
+.nav-logo {
+  float: left !important;
+  max-width: 350px;
+  margin-top: 5px; }
+
+@media (max-width: 760px) {
+  .nav-logo {
+    display: none; }
+
+  .hero-img {
+    height: 300px; }
+
+  .nav-logo-small {
+    max-width: 200px;
+    margin-top: -15px; } }
 .navbar-andross-bottom {
   background: #333333;
   color: #fff;
@@ -1605,7 +1620,10 @@ label.tree-toggle {
     margin-top: 4rem; }
 
   .site-title {
-    font-size: 3rem; } }
+    font-size: 3rem; }
+
+  .hero-img {
+    height: 400px; } }
 @media (max-width: 600px) {
   .site-logo {
     max-width: 30rem;
@@ -1615,7 +1633,10 @@ label.tree-toggle {
     font-size: 3rem; }
 
   .cta {
-    padding: 1rem; } }
+    padding: 1rem; }
+
+  .hero-img {
+    height: 300px; } }
 @media (max-width: 400px) {
   .cta {
     padding: 0.5rem; } }
@@ -2865,11 +2886,6 @@ form select {
 
 #contact2 {
   margin-left: 2rem; }
-
-.nav-logo {
-  float: left !important;
-  max-width: 350px;
-  margin-top: 5px; }
 
 .recruiting {
   text-align: center; }
