@@ -12,13 +12,13 @@ excerpt: >-
   keep their clients, however, and firms are taking action to close that
   loophole up. To hear more, watch my latest video.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Danny+Sarch/Videos/2018/Leitner+Sarch+Consultants+%257C+Closing+the+Inform%252C+But+Not+Solicit+Loophole.mp4
+  https://s3.amazonaws.com/vyralmarketing/Danny+Sarch/Videos/Leitner+Sarch+Consultants+%257C+Closing+the+Inform%252C+But+Not+Solicit+Loophole.mp4
 pullquote: This is among the most effective non-solicit agreements that he has ever seen.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 7-RDDs00Qos
+youtube_code: '-dHxV8sV3f4'
 ---
 
 {% include youtube.html %}
@@ -43,4 +43,4 @@ According to my attorney, this is among the most effective non-solicit agreement
 
 But the courts don’t yet understand the nuances of this industry. This is just another way for the firms to fight back—to try to keep their advisors in their seats.
 
-[If you visit my column that I write for Investment News, you’ll see my latest piece](http://www.investmentnews.com/article/20180313/FREE/180319987/wirehouse-advisers-time-to-unionize), in which I suggest that advisors fight back and unionize to protect their careers and interests. Remember, you can’t spell ‘search’ without ‘Sarch.’ If you have any other questions about this topic, don't hesitate to reach out to me.&nbsp;
+[If you visit my column that I write for Investment News, you’ll see my latest piece](http://www.investmentnews.com/article/20180313/FREE/180319987/wirehouse-advisers-time-to-unionize), in which I suggest that advisors fight back and unionize to protect their careers and interests. Remember, you can’t spell ‘search’ without ‘Sarch.’ If you have any other questions about this topic, don't hesitate to reach out to me.
