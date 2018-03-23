@@ -1,12 +1,12 @@
 ---
 layout: post
 title: The Benefits of Choosing a Team to Sell Your Home
-date: 2018-03-22 17:37:48
+date: 2018-03-22 17:37:00
 tags:
   - Home Buyer Tips
 excerpt: >-
   If you’re selling your home, don’t hire a traditional Realtor just because
-  they have signs in the lawn. Hire a team with an expert negotiator and
+  they have signs on the lawn. Hire a team with an expert negotiator and
   marketer on staff.
 enclosure:
 pullquote: Big money gets put into your pocket as a result of marketing and negotiating.
@@ -33,7 +33,7 @@ A traditional company pays anywhere from 70% to 100% of the commission to the ag
 
 When I sell houses, as an expert negotiator with an MBA in marketing, I come out every day fighting the home selling sharks. Traditional companies, on the other hand, try to get as many people working at their companies as possible so they can pay them their good commissions and make money off the other side.&nbsp;
 
-So, would you rather work with a Realtor who has a lot of signs in the lawn or one who actually does something to earn their fee?&nbsp;
+So, would you rather work with a Realtor who has a lot of signs on the lawn or one who actually does something to earn their fee?&nbsp;
 
 Buyers aren’t calling on signs anymore. They see properties on the internet and then email or text. Signs don’t bring buyers. As I discussed in a previous video, there are three majors mistakes people make when hiring a Realtor: they hire them because they have lots of signs in the lawn, they hire them because they’re local, or they hire them because they’re someone they know.
 
@@ -45,7 +45,7 @@ In the video above at the 3:58 mark, you’ll see a slide I’ve provided that s
 
 The next slide after that illustrates how a team approach works. In this picture, everyone is working to their expertise as a team under one roof, thereby providing a solid foundation from which to sell your home. There is no “I” in team, and when you hire a team, you want to hire a good one.
 
-So, the next time you hire a Realtor, get started early and do your homework. Don’t hire a traditional company or a traditional Realtor just because they have signs in the lawn. Hire a team with an expert negotiator and marketer on staff.&nbsp;
+So, the next time you hire a Realtor, get started early and do your homework. Don’t hire a traditional company or a traditional Realtor just because they have signs on the lawn. Hire a team with an expert negotiator and marketer on staff.&nbsp;
 
 If you’d like to learn more about this topic, you’re invited to attend our next home selling seminar on April 7. To get all the details, visit **[www.homesellingsharks.com](http://www.homesellingsharks.com/)**. In the meantime, stay tuned for my next market report.&nbsp;
 
