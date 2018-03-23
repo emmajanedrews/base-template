@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Importance of Professional Real Estate Photography
-date:
+date: 2018-03-23 18:59:52
 tags:
   - Home Seller Tips
 excerpt: >-
