@@ -11,7 +11,7 @@ enclosure: >-
 pullquote: North Santa Rosa Beach saw a 25% increase in price from 2016 to 2017.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image:
 youtube_code: i8vnVJyDAQs
 ---
