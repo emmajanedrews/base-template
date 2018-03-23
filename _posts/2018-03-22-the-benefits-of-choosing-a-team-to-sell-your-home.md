@@ -19,7 +19,7 @@ youtube_code: pz9fvemumwM
 
 {% include youtube.html %}
 
-<center><em>If you&rsquo;re selling your home, don&rsquo;t hire a traditional Realtor just because they have signs in the lawn. Hire a team with an expert negotiator and marketer on staff.</em></center>
+<center><em>If you&rsquo;re selling your home, don&rsquo;t hire a traditional Realtor just because they have signs on the lawn. Hire a team with an expert negotiator and marketer on staff.</em></center>
 
 <center>&nbsp;</center>
 
