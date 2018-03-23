@@ -26,13 +26,13 @@ youtube_code: uPt7xD9GRSE
 
 Finding and purchasing the right home at the right price means having the right team behind you guiding you through the transaction. On this team, there are a few key roles you need to identify.
 
-The first is\*\* the**\*\*agent you work with.**he It’s always important to interview at least a couple of agents to make sure you’re comfortable with the one you choose. Your agent should be knowledgeable and have your best interests at heart, and you should be able to trust their recommendations as they guide you through the process.
+The first is the&nbsp;**agent you work with.&nbsp;**It’s always important to interview at least a couple of agents to make sure you’re comfortable with the one you choose. Your agent should be knowledgeable and have your best interests at heart, and you should be able to trust their recommendations as they guide you through the process.
 
 The second role is that of **the lender.** If you plan on getting financing, it’s important to identify a lender as soon as possible—even before you start looking for homes. As with agents, you can interview several lenders—not just to know your financing options, but also to check their availability, their communication, and how they can make the loan process go as smoothly as possible.
 
 {% include pullquote.html %}
 
-The next role is **the home inspector.**We’d be willing to recommend a few different options for you in this regard, but it’s always a good idea to do your own homework and maybe Google the home inspectors are in our area.
+The next role is **the home inspector.&nbsp;**We’d be willing to recommend a few different options for you in this regard, but it’s always a good idea to do your own homework and maybe Google the home inspectors are in our area.
 
 Lastly, don’t forget about **the closing attorney.** Again, your agent can make some recommendations for this position. Realtors often have attorneys they regularly work with, but you can also check the offices of those attorneys to make sure you’re comfortable with them and you know their availability and their ability to answer all of your questions.
 
