@@ -29,7 +29,7 @@ When looking at cash flow, it’s important to examine how much you have investe
 
 {% include pullquote.html %}
 
-**The second benefit is appreciation.**Slow and steady appreciation adds to the benefit of owning rental real estate. Last year, we actually saw an 8% appreciation rate across the Wasatch Front.
+**The second benefit is appreciation.&nbsp;**Slow and steady appreciation adds to the benefit of owning rental real estate. Last year, we actually saw an 8% appreciation rate across the Wasatch Front.
 
 **The third and final benefit I want to go over is depreciation.** Specifically, depreciation will bring advantages in terms of your taxes, since it provides opportunities for write-offs.
 
