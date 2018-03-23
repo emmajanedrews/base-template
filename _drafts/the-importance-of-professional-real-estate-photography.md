@@ -18,7 +18,7 @@ youtube_code: 3onEArsFpoI
 
 {% include youtube.html %}
 
-Professional photography is an incredibly important part of marketing your home listing.
+<center>Professional photography is an incredibly important part of marketing your home listing.</center>
 
 During online home searches, people are obviously drawn to the listings with the best pictures.
 
