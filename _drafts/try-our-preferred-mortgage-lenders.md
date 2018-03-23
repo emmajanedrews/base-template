@@ -12,8 +12,8 @@ pullquote: 'If you use one of our local preferred lenders, you tend to get bette
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/shawn-c--is-your-home-ready-to-show-youtube.jpg
-youtube_code: QHgfsm3hUu0
+youtube_alternate_image:
+youtube_code:
 ---
 
 {% include youtube.html %}
