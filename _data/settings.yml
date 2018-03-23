@@ -1,95 +1,126 @@
 audit_header: false
-title: Select Premier Properties
-description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
+title: Victoria Sandoval's Real Estate Video Blog
+description: >-
+  If you are looking to buy or sell a home, get all the information and the
+  latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+  -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
     url:
-
 client:
   name: Victoria Sandoval
   license_number: 'CA BRE# 01723300'
-  about_markdown: |
-    Victoria Sandoval has the touch of sold. Victoria was born and raised and lived in San Diego for over 30 years. As a bilingual San Diego native, she understands the different neighborhoods and their particular nuances. Victoria sets a new standard in building relationships with all her clients and maximizing the exposure of your home to potential buyers. Known for her smooth transactions, Victoria routinely unites all sides of the real estate process, creating a seamless operation for her clients. She is approachable and adaptive, working well with all personality types. Her intimate knowledge of the market will save you, the homeowner, time and money in searching for your new home.
+  about_markdown: >
+    Victoria Sandoval has the touch of sold. Victoria was born and raised and
+    lived in San Diego for over 30 years. As a bilingual San Diego native, she
+    understands the different neighborhoods and their particular nuances.
+    Victoria sets a new standard in building relationships with all her clients
+    and maximizing the exposure of your home to potential buyers. Known for her
+    smooth transactions, Victoria routinely unites all sides of the real estate
+    process, creating a seamless operation for her clients. She is approachable
+    and adaptive, working well with all personality types. Her intimate
+    knowledge of the market will save you, the homeowner, time and money in
+    searching for your new home.
 
-    As one of the top leading Realtor® in the county, Victoria has received multiple awards, She is an honest, professional business woman, She is hard working, dedicated and a great listener. Her approachable demeanor makes everyone feel comfortable. Your goals become hers, with customer service as a top priority. Victoria will use her skills to make your dreams a reality! Searching for a new home or selling your current home can be a complicated and exhausting experience. It is absolutely essential to find a real estate agent that is deeply involved in the business and loves what they do to show you the way.
+
+    As one of the top leading Realtor® in the county, Victoria has received
+    multiple awards, She is an honest, professional business woman, She is hard
+    working, dedicated and a great listener. Her approachable demeanor makes
+    everyone feel comfortable. Your goals become hers, with customer service as
+    a top priority. Victoria will use her skills to make your dreams a reality!
+    Searching for a new home or selling your current home can be a complicated
+    and exhausting experience. It is absolutely essential to find a real estate
+    agent that is deeply involved in the business and loves what they do to show
+    you the way.
   market: San Diego
   brand: Select Premier Properties
   brokerage:
-  address: 1419 University Ave, Suite D<br>San Diego, CA 92103
+  address: '1419 University Ave, Suite D<br>San Diego, CA 92103'
   phone: 619-392-2455
   phone_type:
   phone2:
   phone2_type:
   email: relyonvicky@gmail.com
-  url: http://victoriasellssd.com
-
+  url: 'http://victoriasellssd.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://victoriasellssd.com/home-value-analysis/
+  first_CTA_URL: 'http://victoriasellssd.com/home-value-analysis/'
   second_CTA_text: Home Search
-  second_CTA_URL: http://victoriasellssd.com/basic-search/
-
-emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1809436';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
-
+  second_CTA_URL: 'http://victoriasellssd.com/basic-search/'
+emma_form: >-
+  <script
+  id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1809436';</script><script
+  src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
-    CTA_url: http://victoriasellssd.com/home-value-analysis/
-
+    CTA_title: What’s Your -- MARKET -- Home Worth?
+    CTA_text: >-
+      Are you thinking of selling your home or interested in learning about home
+      prices in your neighborhood? We can help you.
+    CTA_link_text: Free Home Value Report
+    CTA_url: 'http://victoriasellssd.com/home-value-analysis/'
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: http://victoriasellssd.com/basic-search/
-
+    CTA_title2: Looking for a -- MARKET -- Home?
+    CTA_text2: Search the entire MLS for your -- MARKET -- home.
+    CTA_link_text2: Search the MLS
+    CTA_url2: 'http://victoriasellssd.com/basic-search/'
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
+  headshot_path: 'http://fillmurray.com/200/200'
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: http://eyegoop.com
-
+  url: 'http://eyegoop.com'
 welcome_box:
   welcome_headline: Join Our VIP List
   welcome_text_markdown: >
-    Our mission at Select Premier Properties is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
-    professionals can answer any questions you might have about real estate.
+    Our mission at Select Premier Properties is to be your best resource for
+    real estate advice. Whether you are a buyer, seller, or investor, our team
+    of professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
-
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/victoriasandovalrealtor/
-  linkedin_url: https://www.linkedin.com/in/victoria-sandoval-25515b11/
-  gplus_url: https://plus.google.com/+VictoriaSandovalRealtorSanDiego
-  youtube_url: https://www.youtube.com/channel/UCRCo_6OtTqU1ZOgDbR64yuw
-  twitter_url: https://twitter.com/vickysellssd
+  facebook_url: 'https://www.facebook.com/victoriasandovalrealtor/'
+  linkedin_url: 'https://www.linkedin.com/in/victoria-sandoval-25515b11/'
+  gplus_url: 'https://plus.google.com/+VictoriaSandovalRealtorSanDiego'
+  youtube_url: 'https://www.youtube.com/channel/UCRCo_6OtTqU1ZOgDbR64yuw'
+  twitter_url: 'https://twitter.com/vickysellssd'
   instagram_url:
   pinterest_url:
-  zillow_url: https://www.zillow.com/profile/vickysellssd/
-  trulia_url: https://www.trulia.com/profile/victoria-sandoval-agent-san-diego-ca-zgzrljk6/overview
-  yelp_url: https://www.yelp.com/biz/victoria-sandoval-select-premier-properties-san-diego?osq=Sandoval+Premier+Properties
-  podcast_url: https://itunes.apple.com/us/podcast/san-diego-real-estate-podcast-with-victoria-sandoval/id1254500123?mt=2
-
+  zillow_url: 'https://www.zillow.com/profile/vickysellssd/'
+  trulia_url: >-
+    https://www.trulia.com/profile/victoria-sandoval-agent-san-diego-ca-zgzrljk6/overview
+  yelp_url: >-
+    https://www.yelp.com/biz/victoria-sandoval-select-premier-properties-san-diego?osq=Sandoval+Premier+Properties
+  podcast_url: >-
+    https://itunes.apple.com/us/podcast/san-diego-real-estate-podcast-with-victoria-sandoval/id1254500123?mt=2
 podcast:
   title: San Diego Real Estate Podcast with Victoria Sandoval
-  categories: Education
-  image: http://i.imgur.com/Jcl6r2b.png
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the San Diego Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Select Premier Properties - your professional San Diego Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: 'Victoria Sandoval'
-
+  categories:
+    - Education
+  image: 'http://i.imgur.com/Jcl6r2b.png'
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the San Diego
+    Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from Select Premier Properties - your
+    professional San Diego Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in San Diego, home
+    selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
+  author: Victoria Sandoval
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
@@ -99,18 +130,16 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#1C74BB'
-  theme_color: black
+  brand_color: '#1c74bb'
+  theme_color: '#000000'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
-
+  shadow_color: 'rgba(0, 0, 0, 0)'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
