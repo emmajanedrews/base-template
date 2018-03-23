@@ -3,12 +3,11 @@ layout: post
 title: Fishing Tips From the Idaho Angler
 date: 2018-03-22 11:35:00
 tags:
-  - Idaho Activities
 excerpt: >-
   Fly fishing is a great activity here in Boise. Today, I’m talking to Lewis
-  Hunt from Idaho Angler about some of the great fishing opportunities you have
-  right now. This time of year is great for trout and steelhead, and Lewis knows
-  all the hot spots. To learn more, watch this short video.
+  Hunt from Idaho Angler about some of the great fishing opportunities available
+  to you right now. This time of year is great for trout and steelhead, and
+  Lewis knows all the hot spots. To learn more, watch this short video.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Graham+MacKenzie/Videos/2018/Ridge+to+River+Real+Estate+%257C+Fly+Fishing.mp4
 pullquote: >-
