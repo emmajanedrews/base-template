@@ -23,7 +23,7 @@ youtube_code: e78CwSIi1FU
 
 Spring is here and that means it’s time for spring cleaning. If you plan on selling your home this year, it’s important to keep your property neat and tidy. So today, I’ve got six spring cleaning tips I’d like to share with you.
 
-**1. Mix vinegar and baking soda to unclog your sinks.** Pouring this mixture down your sink will not only clear your drain, but will also deodorize it.
+**1. Mix vinegar and baking soda to unclog your sinks.** Pouring this mixture down your sink will not only clear your drain but also deodorize it.
 
 **2. Clean your blinds.** A sock sprayed with vinegar is a great way to clean between the slats of your blinds.
 
