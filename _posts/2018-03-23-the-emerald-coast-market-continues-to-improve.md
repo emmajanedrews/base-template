@@ -3,9 +3,6 @@ layout: post
 title: The Emerald Coast Market Continues to Improve
 tags:
   - Market Update
-  - Real Estate
-  - Buyer Tips
-  - Home Seller Tips
 excerpt: >-
   Why should you be excited about the real estate market along the Emerald
   Coast? Here are just a few reasons.
@@ -16,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image:
-youtube_code: uieM18rZdHY
+youtube_code: i8vnVJyDAQs
 ---
 
 {% include youtube.html %}
@@ -27,7 +24,7 @@ We experienced great appreciation all across our market from 2016 to 2017. In De
 
 In Miramar Beach, we had a 5% increase in condo and townhome sales and a 10% increase in price per square foot for residential homes.
 
-**North Santa Rosa Beach is where I live and it’s one of the best areas for residential living.** You can avoid most of the traffic year-round, and you’re close to lots of stores, dining, and other amenities. We have some beautiful bayou and bayfront properties in this area.&nbsp;
+**North Santa Rosa Beach is where I live and it’s one of the best areas for residential living.** You can avoid most of the traffic year-round, and you’re close to lots of stores, dining, and other amenities. We have some beautiful bayou and bayfront properties in this area.
 
 Another great reason to love North Santa Rosa Beach is because we had a 25% increase in our average price in homes from 2016 to 2017. That’s a phenomenal level of appreciation. The overall sales volume is up just 4%, but the increase in price is fantastic.
 
