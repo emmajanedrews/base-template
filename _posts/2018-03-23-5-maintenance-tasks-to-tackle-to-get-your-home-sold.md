@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Maintenance Tasks to Tackle to Get Your Home Sold
-date: 2018-03-16 19:29:39
+date: 2018-03-23 19:29:00
 tags:
   - Home Seller Tips
 excerpt: >-
