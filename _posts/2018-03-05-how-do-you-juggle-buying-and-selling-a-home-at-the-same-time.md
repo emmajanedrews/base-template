@@ -27,7 +27,7 @@ That works fine if you have the cash to do so, but if you are dependent on selli
 
 First of all, we are able to control the closing date, so keep that in mind.
 
-**You need to have your house on the market before you start looking at homes.**Otherwise, it can be difficult to find a seller who is willing to sell their house to you. By not listing your current home, you significantly reduce your pool of homes to choose from, and your buying power goes down. Sellers need an incentive to sell their house to you, especially in this market, where there are a lot of buyers for one home.
+**You need to have your house on the market before you start looking at homes.&nbsp;**Otherwise, it can be difficult to find a seller who is willing to sell their house to you. By not listing your current home, you significantly reduce your pool of homes to choose from, and your buying power goes down. Sellers need an incentive to sell their house to you, especially in this market, where there are a lot of buyers for one home.
 
 The other option is to get your home on the market and then start looking. You can submit offers if your home is on the market. The seller’s agent also has the ability to take a look at your current house, see what price you’re listed at, and ensure that you’re in a price range where you can get your home sold.
 
