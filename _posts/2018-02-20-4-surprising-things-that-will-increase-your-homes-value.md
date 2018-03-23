@@ -4,7 +4,8 @@ title: 4 Surprising Things That Will Increase Your Home’s Value
 tags:
   - Real Estate
 excerpt: Four surprising features may increase the value of your home. Take a look.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Scott+Hardesty/Greater+Nashville+Real+Estate-+4+Ways+to+Boost+Your+Homes+Value.mp4
 pullquote: >-
   Studies show that having mature trees in your front yard especially will boost
   your home’s value.
