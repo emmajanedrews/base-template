@@ -12,13 +12,13 @@ excerpt: >-
   keep their clients, however, and firms are taking action to close that
   loophole up. To hear more, watch my latest video.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Danny+Sarch/Videos/2018/Leitner+Sarch+Consultants+%257C+Closing+the+Inform%252C+But+Not+Solicit+Loophole+(2).mp4
+  https://s3.amazonaws.com/vyralmarketing/Danny+Sarch/Videos/2018/Leitner+Sarch+Consultants+%257C+Closing+the+Inform%252C+But+Not+Solicit+Loophole.mp4
 pullquote: This is among the most effective non-solicit agreements that he has ever seen.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: n_5wtA2ear4
+youtube_code: v=eLqnqDijE9g
 ---
 
 {% include youtube.html %}
