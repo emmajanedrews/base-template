@@ -16,7 +16,7 @@ youtube_code:
 
 ![](/uploads/700-westwood-lake-drive-st-louis-mo-for-sale.jpg)
 
-This house is in the premiere school district Ladue.&nbsp; It is also just 1.5 miles to 2 of the top hospitals in the St Louis Metro area.&nbsp; Westwood is the municipality which is VERY small but next door is Frontenac and there's Frontenac plaza nearby.&nbsp; being on a lake is not heard of in St Louis.&nbsp; There are also no HOA fees for this tiny subdivision of just 3 other homes.
+This house is in the premiere school district Ladue.  It is also just 1.5 miles to 2 of the top hospitals in the St Louis Metro area.  Westwood is the municipality which is VERY small but next door is Frontenac and there's Frontenac plaza nearby.  being on a lake is not heard of in St Louis.  There are also no HOA fees for this tiny subdivision of just 3 other homes.
 
 ![](/uploads/700-westwood-lake-dr-st-louis-home-for-sale.jpg)
 
