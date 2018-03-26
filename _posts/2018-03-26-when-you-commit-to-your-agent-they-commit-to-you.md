@@ -31,6 +31,6 @@ When my team and I work exclusively, we even find properties that aren’t liste
 
 {% include pullquote.html %}
 
-Who you work with matters.\*\* If your agent is already doing their best to serve you before you gain exclusivity, you’re going to want to commit to them.\*\* Exclusivity is so important for buyers in today’s market.
+Who you work with matters. If your agent is already doing their best to serve you before you gain exclusivity, you’re going to want to commit to them.\*\* Exclusivity is so important for buyers in today’s market.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
