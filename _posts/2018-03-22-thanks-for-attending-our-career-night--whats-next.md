@@ -21,14 +21,14 @@ youtube_code: 0451E4YW31o
 
 Thank you for attending our career night. You may be thinking, “So, what’s the next step?”&nbsp;
 
-If you have not taken our pre-licensing course, you’ll want to get that done. **Go to [TeamLally.com/class](TeamLally.com/class) to get a 20% discount on the course.&nbsp;**
+If you have not taken our pre-licensing course, you’ll want to get that done. **Go to [TeamLally.com/class](http://my-referral.link/AbeLeeSeminars/69s6r) to get a 20% discount on the course.&nbsp;**
 
 {% include pullquote.html %}
 
 If you’ve already passed the class and all the licensing tests, just send an email to [admin@teamlally.com](javascript:void(location.href='mailto:'+String.fromCharCode(97,100,109,105,110,64,116,101,97,109,108,97,108,108,121,46,99,111,109))) to schedule an interview with Keller Williams CEO Kevin Miyama.&nbsp;
 
-**Thinking about joining Team Lally?** Go to [TeamLally.com](TeamLally.com) and remember—follow the steps! &nbsp;
+**Thinking about joining Team Lally?** Go to [TeamLally.com](https://www.teamlally.com/)&nbsp;and remember—follow the steps! &nbsp;
 
-Again, thank you for attending our career night. Our next career night is going to be on May 7. If you’re interested, go to [HawaiiCareerNight.com](HawaiiCareerNight.com) to RSVP. If you’re not sure either way, make sure you watch the video about part-time referral partners.&nbsp;
+Again, thank you for attending our career night. Our next career night is going to be on May 7. If you’re interested, go to&nbsp;[HawaiiCareerNight.com](https://www.teamlally.com/career-night.php)&nbsp;to RSVP. If you’re not sure either way, make sure you watch the video about part-time referral partners.&nbsp;
 
 In the meantime, if you have any questions, just give us a call or send us an email. Thanks and Aloha!
