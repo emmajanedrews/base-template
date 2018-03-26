@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: i8vnVJyDAQs
+youtube_code: dVqeJWhbz58
 ---
 
 {% include youtube.html %}
@@ -36,4 +36,6 @@ In 30A East, we didn’t see as much appreciation as 30A West, but we still saw 
 
 Panama City Beach was on fire in the last year. We saw a 34% increase in volume and a 9% increase in price in this market. **The amount of absorption there is amazing.**
 
-We would love to provide expert advice for you whenever you need it. We know this market really well and would love to answer any questions you have. If you do have any, feel free to reach out and give us a call or send us an email. We look forward to hearing from you.
+For a more in-depth look at our market's statistics [click here](https://s3.amazonaws.com/vyralmarketing/Nathan+Abbott/2018/NAT-Year-End-2017-PROOF-020118.pdf).
+
+We would love to provide expert advice for you whenever you need it. We know this market really well and would love to answer any questions you have. If you do have any, feel free to reach out and give us a call or send us an email. We look forward to hearing from you.&nbsp;
