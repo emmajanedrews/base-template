@@ -27,10 +27,10 @@ In case you’re wondering, **“tappable equity” is defined as the amount a h
 
 Another option is a home equity line of credit, or “HELOC” for short. This is a kind of checking account on your home. While HELOCs have been growing in popularity, they’ve hit a snag recently because a new tax bill eliminates the deductions for the interest paid on a HELOC.
 
+{% include pullquote.html %}
+
 What are homeowners who tap into their equity actually doing with that extra cash? **Most are using it to make their homes even better and more valuable.** This could mean a kitchen remodel, some landscaping, etc. According to one survey, 80% of borrowers said they would consider using cash to renovate their home. However, there are other homeowners who are choosing to use their equity to cover things like education expenses, to pay down other debt, or simply to invest.&nbsp;
 
 Should you tap into your home equity? I can’t say either “yes” or “no.” That’s something you’ll have to decide on your own. If you want to see what your home is currently worth in today’s market and what kind of equity you have, don’t hesitate to get in touch with me.&nbsp;
 
-If you have any other questions or real estate needs I can assist you with, feel free to give me a call or send me an email. I’d love to help you.&nbsp;<br>&nbsp;
-
-{% include pullquote.html %}
+If you have any other questions or real estate needs I can assist you with, feel free to give me a call or send me an email. I’d love to help you.&nbsp;
