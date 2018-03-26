@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Aside from the weather and the quality of life, there are a few big tax
   advantages of living in Florida.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Taxes.mp4
 pullquote: Always take a hard look at your tax situation during tax season.
 enclosure_type: >-
   https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Taxes.mp4
