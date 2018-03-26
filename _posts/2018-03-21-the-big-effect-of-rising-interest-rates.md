@@ -24,7 +24,7 @@ hide_index_page: true
 
 Today, I wanted to relay a quick message to you.
 
-By now, you know that we’ve been in a rapidly increasing rate environment. Rates have gone up about .5% to .75%, depending on the program.
+By now, you know that we’ve been in a rapidly increasing rate environment. Rates have gone up about 0.5% to 0.75%, depending on the program.
 
 **This affects us in a big way.** People we pre-approved two to four months ago have now seen their payments skyrocket. That said, we have to be extremely proactive in terms of communicating with our clients to let them know the numbers we had a few months ago may not be the numbers we see today.
 
@@ -34,4 +34,4 @@ The message is to encourage you to let me speak to any clients who are actively 
 
 Lastly, I’d like to invite you to **take advantage of our cost-of-waiting analysis**. In a nutshell, it compares what the costs would be if you bought today versus waiting until later to buy in this increasing rate environment. Sometimes seeing the advantages of buying now versus later can help put your clients over the edge in terms of making a decision.
 
-If you have any questions, please let me know.  I hope we can speak soon.
+If you have any questions, please let me know. &nbsp;I hope we can speak soon.
