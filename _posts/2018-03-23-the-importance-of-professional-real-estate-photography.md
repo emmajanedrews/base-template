@@ -24,11 +24,11 @@ youtube_code: 3onEArsFpoI
 
 During online home searches, people are obviously drawn to the listings with the best pictures.
 
-Pictures taken on a cell phone, in bad lighting, or where the photographer is visible in some reflective surface can all make an online listing look less appealing.&nbsp;
+Pictures that were taken on a cell phone, in bad lighting, or where the photographer is visible in some reflective surface can all make an online listing look less appealing.&nbsp;
 
 So, when you list your home, it is critical that you show it off in its best light using professional real estate photography. **The cost of professional photography is something we cover for everyone who lists with us.**&nbsp;
 
-We believe that without a great product, you can’t have a great sale. Professional photography not only makes your home look great, but it can also help it sell more quickly.
+We believe that without a great product, you can’t have a great sale. Professional photography not only makes your home look great, it also helps your home sell more quickly.
 
 {% include pullquote.html %}
 
