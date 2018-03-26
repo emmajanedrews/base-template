@@ -32,7 +32,7 @@ If you don’t have the right strategies, tactics, and habits in place, you are 
 * (1:00) Utilizing your sphere of influence as a lead generation source. &nbsp;
 * (3:00) Open houses.&nbsp;
 * (4:00) Good old-fashioned prospecting.&nbsp;
-* (5:00) Paying for Internet leads and creating a consistent follow-up system.&nbsp;
+* (5:00) Paying for internet leads and creating a consistent follow-up system.&nbsp;
 * (7:00) How to avoid common mistakes agents make with lead generation.&nbsp;
 
 If you’re interested in learning more about some of the lead sources that are best for us, we are happy to share any of the scripts, processes, and systems that we use. Just give us a call or send us an email. My team and I would be happy to help you!
