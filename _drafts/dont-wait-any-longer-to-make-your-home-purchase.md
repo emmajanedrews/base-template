@@ -10,7 +10,8 @@ excerpt: >-
   fence. The market is hot, so if you’ve been thinking of making a home
   purchase, now is the time to do so. To find out why it’s so important to make
   your move now, watch this short video.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Tara+Limbird/Videos/2018/Limbird+Real+Estate+Group-+Your+Benton+County+Market+Update.mp4
 pullquote: Now is the time to make your home purchase in Benton County.
 enclosure_type: video/mp4
 enclosure_time:
