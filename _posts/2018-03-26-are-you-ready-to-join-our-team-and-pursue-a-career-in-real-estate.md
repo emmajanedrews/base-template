@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are You Ready to Join Our Team and Pursue a Career in Real Estate?
-date: 2018-03-26 18:13:00
+date: 2018-03-26 12:13:00
 tags:
   - Real Estate
 excerpt: 'Great news: The Wicker Homes Group is hiring!'
