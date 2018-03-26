@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 7 Ways to Sell Your Home for More Money
-date:
+date: 2018-03-26 15:01:44
 tags:
   - Home Seller Tips
 excerpt: >-
