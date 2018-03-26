@@ -25,7 +25,7 @@ If you feel as though your property is being taxed too high, then you may want t
 
 Before I go any further, let me just say that I’m not an attorney or a financial advisor. I can give you a good indication of the estimated value of your property but if you want to appeal your taxes, I can give you great recommendations for legal and financial advice. The best part about this process is that it doesn't take much work. You just rely on us, and we’ll get the job done for you.&nbsp;
 
-**The way that the tax assessment office values properties is not a perfect system.**They are aware of this, which is why they are giving up to a 15% margin of error. That's a big number.
+**The way that the tax assessment office values properties is not a perfect system.&nbsp;**They are aware of this, which is why they are giving up to a 15% margin of error. That's a big number.
 
 {% include pullquote.html %}
 
