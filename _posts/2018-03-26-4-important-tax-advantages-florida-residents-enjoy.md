@@ -9,8 +9,7 @@ excerpt: >-
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Taxes.mp4
 pullquote: Always take a hard look at your tax situation during tax season.
-enclosure_type: >-
-  https://s3.amazonaws.com/vyralmarketing/Michael+Vernamonti/Gulf+Coast+Real+Estate+Taxes.mp4
+enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
