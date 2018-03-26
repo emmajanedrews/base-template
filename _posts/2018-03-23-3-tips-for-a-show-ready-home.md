@@ -29,4 +29,4 @@ Spring is almost here. All winter, you’ve been talking about getting the house
 
 **3. Minor repairs.** There are often things around the house that have been neglected that might not necessarily bother us, since we live there. This might be something like a bathroom that needs to be recaulked, a leak in the garage, broken door handles, and other small things. However, if you’re selling your home, buyers will notice those things right away. They’re easy fixes, so be sure to get those taken care of.
 
-These are all simple ways you can get your house show-ready in time for your appointments. If you have any questions or would like more tips, feel free to reach out to us.
+These are all simple ways you can get your house show-ready in time for your appointments. If you have any questions or would like more tips, feel free to reach out to us. We'd be happy to help you.
