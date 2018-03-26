@@ -19,12 +19,12 @@ youtube_code: a2IaxLYzvzI
 
 {% include youtube.html %}
 
-If you’ve never heard of or haven’t read the the book “The Resilience Roadmap” by Danny Morel, I highly recommend that you read it.&nbsp;
+If you’ve never heard of or haven’t read the book “The Resilience Roadmap” by Danny Morel, I highly recommend that you read it.&nbsp;
 
 I don’t think there’s another real estate agent or broker in the business who’s gone through more trials and tribulations than Danny to get where he is today. I also think there’s not another person who’s more involved on a daily basis in his agents’ success.&nbsp;
 
 {% include pullquote.html %}
 
-“The Resilience Roadmap” challenges you look at your mindset and your daily activity and make a routine for success. **What he argues (and I agree with) is your success is based on your routine.** If you don’t have a daily routine of doing the exact same things every day, practising your skill sets, and getting better every day, you won’t reach the level of success you’re looking for.&nbsp;
+“The Resilience Roadmap” challenges you look at your mindset and your daily activity and make a routine for success. **What he argues (and I agree with) is your success is based on your routine.** If you don’t have a daily routine of doing the exact same things every day, practicing your skill sets, and getting better every day, you won’t reach the level of success you’re looking for.&nbsp;
 
 I’d love to hear your thoughts on this book, so feel free to text me or send me an email about it. If you have any other questions, I invite you to reach out to me as well. I look forward to hearing from you.
