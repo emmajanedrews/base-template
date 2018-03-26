@@ -7,7 +7,7 @@ excerpt: >-
   Why should you be excited about the real estate market along the Emerald
   Coast? Here are just a few reasons.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Nathan+Abbott/2018/Nathan+Abbott+Team-+Examining+our+Market%2527s+Growth.mp4
+  https://s3.amazonaws.com/vyralmarketing/Nathan+Abbott/2018/Nathan+Abbott+Team-+Great+news+for+the+Emerald+Coast.mp4
 pullquote: North Santa Rosa Beach saw a 25% increase in price from 2016 to 2017.
 enclosure_type: video/mp4
 enclosure_time:
