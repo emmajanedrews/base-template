@@ -24,9 +24,9 @@ We experienced great appreciation all across our market from 2016 to 2017. In De
 
 In Miramar Beach, we had a 5% increase in condo and townhome sales and a 10% increase in price per square foot for residential homes.
 
-**North Santa Rosa Beach is where I live and it’s one of the best areas for residential living.** You can avoid most of the traffic year-round, and you’re close to lots of stores, dining, and other amenities. We have some beautiful bayou and bayfront properties in this area.
+**North Santa Rosa Beach is where I live, and it’s one of the best areas for residential living.** You can avoid most of the traffic year-round, and you’re close to lots of stores, dining, and other amenities. We have some beautiful bayou and bayfront properties in this area.
 
-Another great reason to love North Santa Rosa Beach is because we had a 25% increase in our average price in homes from 2016 to 2017. That’s a phenomenal level of appreciation. The overall sales volume is up just 4%, but the increase in price is fantastic.
+Another great reason to love North Santa Rosa Beach is the we had a 25% increase in our average price in homes from 2016 to 2017. That’s a phenomenal level of appreciation. The overall sales volume is up just 4%, but the increase in price is fantastic.
 
 Over in 30A West, there was a 15% increase in single-family homes sold, and they sold for an average of 17% higher. People are starting to realize how awesome this area is. The condo market here went down a little bit, but I think that’s mainly due to lack of inventory. There simply isn’t much available.
 
