@@ -20,7 +20,7 @@ youtube_code: XHv_4KjtubI
 
 I’m here with your market update to let you know whats happening all over Bucks County. Although we might get some more snow, spring is here. In real estate, the spring market actually starts right after the Super Bowl.
 
-<br>So, what’s happening in our market right now?
+So, what’s happening in our market right now?
 
 **In Bucks County, there is a tremendous lack of housing available on the market.**Other than the really high-end, expensive market, this is true all over Bucks County. In virtually every market that we track, buyers are complaining because there is not much to look at.
 
