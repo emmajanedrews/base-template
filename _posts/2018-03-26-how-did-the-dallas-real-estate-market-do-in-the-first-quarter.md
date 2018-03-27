@@ -25,7 +25,7 @@ Our median sale price has also gone up from $359,000 to $369,000, and we’re lo
 
 So, is it a buyer’s market or a seller’s market? Actually, it’s both, and that is great.
 
-**Our market has started ramping up a bit as the spring selling season approaches.**As a seller, this is a great time to put your property on the market because we have that two-month supply of inventory, which means you will be able to sell quickly and for the highest value in history in the Dallas area.
+**Our market has started ramping up a bit as the spring selling season approaches.&nbsp;**As a seller, this is a great time to put your property on the market because we have that two-month supply of inventory, which means you will be able to sell quickly and for the highest value in history in the Dallas area.
 
 {% include pullquote.html %}
 
