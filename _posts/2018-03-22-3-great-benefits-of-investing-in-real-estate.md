@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Great Benefits of Investing in Real Estate
-date: 2018-03-22 19:49:41
+date: 2018-03-22 19:49:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/investing-1of2-youtube.jpg
-youtube_code: KPG4gjgy8IE
+youtube_code: 0wB0NmdkU1M
 ---
 
 {% include youtube.html %}
@@ -29,7 +29,7 @@ When looking at cash flow, it’s important to examine how much you have investe
 
 {% include pullquote.html %}
 
-**The second benefit is appreciation.&nbsp;**Slow and steady appreciation adds to the benefit of owning rental real estate. Last year, we actually saw an 8% appreciation rate across the Wasatch Front.
+**The second benefit is appreciation.**Slow and steady appreciation adds to the benefit of owning rental real estate. Last year, we actually saw an 8% appreciation rate across the Wasatch Front.
 
 **The third and final benefit I want to go over is depreciation.** Specifically, depreciation will bring advantages in terms of your taxes, since it provides opportunities for write-offs.
 
