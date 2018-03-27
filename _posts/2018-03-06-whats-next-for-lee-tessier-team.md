@@ -20,7 +20,7 @@ blogger_orig_url: http://leetessier.blogspot.com/2018/03/whats-next-for-lee-tess
 {% include youtube.html %}
 Now that we’re an independent brokerage with a new name, we’re looking to add some more great agents to our team. Interested?
 
-As of this day forth, we are the Lee Tessier Team at Lee Tessier Real Estate. Now that we’re officially an independent brokerage, **we’re also looking for additional agents to join our team.**
+As of this day forth, we are the Lee Tessier Team at Tessier Real Estate. Now that we’re officially an independent brokerage, **we’re also looking for additional agents to join our team.**
 
 Specifically, we’re looking for individuals who have a desire to win and know how to take care of our clients’ needs and our team’s needs. We can provide training, accountability, and mentorship.
 
