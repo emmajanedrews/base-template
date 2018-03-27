@@ -29,7 +29,7 @@
 		<ul class="nav navbar-nav navbar-right">
 			{% if site.data.settings.CTAs.first_CTA_text and site.data.settings.CTAs.first_CTA_URL != null %}
 			<li>
-				{% if site.data.settings.CTAs.first_CTA_URL == '/homevalue/' %}
+				{% if site.data.settings.CTAs.first_CTA_URL == '/propertyvalue/' %}
 				<a class="cta" href="{{site.data.settings.CTAs.first_CTA_URL}}">
 					{% elsif site.data.settings.CTAs.first_CTA_URL == '#contact' %}
 					<a class="cta" id="contact" href="#contact">
@@ -42,7 +42,7 @@
 			{% endif %}
 			{% if site.data.settings.CTAs.second_CTA_text and site.data.settings.CTAs.second_CTA_URL != null %}
 			<li>
-				{% if site.data.settings.CTAs.second_CTA_URL == '/homesearch/' %}
+				{% if site.data.settings.CTAs.second_CTA_URL == '/propertysearch/' %}
 				<a class="cta2" href="{{site.data.settings.CTAs.second_CTA_URL}}">
 					{% elsif site.data.settings.CTAs.second_CTA_URL == '#contact' %}
 					<a class="cta2" id="contact" href="#contact">
