@@ -8,7 +8,7 @@ enclosure: >-
 pullquote: We’d love to sit down with you and go through everything we can offer you.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/gresger-1.jpg
 layout: post
 title: Whats Next for the Lee Tessier Team?
